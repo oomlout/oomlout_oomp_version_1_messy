@@ -1,0 +1,434 @@
+# Oobb Part Bunting Alphabet 05 01  A  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### name
+* name: Oobb Part Bunting Alphabet 05 01  A
+* name_short: 
+### id
+* oomp_id: oobb_part_bunting_alphabet_05_01__a
+  * classification: oobb
+  * type: part
+  * size: bunting_alphabet
+  * color: 
+  * description_main: 05_01_
+  * description_extra: a
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: where vocal
+  * bip 39 word 3: where vocal hub
+  * bip 39 word: where vocal hub foam conduct staff uncover dirt motor also upset aisle
+
+### other_codes
+* short_code: 
+* oomp_word: rooster rainbow camel
+* oomp_word_emoji :rooster: :rainbow: :camel:
+* md5_6_alpha: 3l1kx
+* md5_6: 5bde41
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203l1kx)
+[2x1](http://192.168.1.242:1112/?label=oomp%203l1kx)
+[6x4](http://192.168.1.55:1112/?label=oomp%203l1kx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__a)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| bip_39_word_dash_1 | where |  
+| bip_39_word_dash_10 | where-vocal-hub-foam-conduct-staff-uncover-dirt-motor-also |  
+| bip_39_word_dash_11 | where-vocal-hub-foam-conduct-staff-uncover-dirt-motor-also-upset |  
+| bip_39_word_dash_12 | where-vocal-hub-foam-conduct-staff-uncover-dirt-motor-also-upset-aisle |  
+| bip_39_word_dash_2 | where-vocal |  
+| bip_39_word_dash_3 | where-vocal-hub |  
+| bip_39_word_dash_4 | where-vocal-hub-foam |  
+| bip_39_word_dash_5 | where-vocal-hub-foam-conduct |  
+| bip_39_word_dash_6 | where-vocal-hub-foam-conduct-staff |  
+| bip_39_word_dash_7 | where-vocal-hub-foam-conduct-staff-uncover |  
+| bip_39_word_dash_8 | where-vocal-hub-foam-conduct-staff-uncover-dirt |  
+| bip_39_word_dash_9 | where-vocal-hub-foam-conduct-staff-uncover-dirt-motor |  
+| bip_39_word_new_br_1 | where |  
+| bip_39_word_new_br_10 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt<br>motor<br>also |  
+| bip_39_word_new_br_11 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt<br>motor<br>also<br>upset |  
+| bip_39_word_new_br_12 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt<br>motor<br>also<br>upset<br>aisle |  
+| bip_39_word_new_br_2 | where<br>vocal |  
+| bip_39_word_new_br_3 | where<br>vocal<br>hub |  
+| bip_39_word_new_br_4 | where<br>vocal<br>hub<br>foam |  
+| bip_39_word_new_br_5 | where<br>vocal<br>hub<br>foam<br>conduct |  
+| bip_39_word_new_br_6 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff |  
+| bip_39_word_new_br_7 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover |  
+| bip_39_word_new_br_8 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt |  
+| bip_39_word_new_br_9 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt<br>motor |  
+| bip_39_word_new_line_1 | where |  
+| bip_39_word_new_line_10 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt
+motor
+also |  
+| bip_39_word_new_line_11 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt
+motor
+also
+upset |  
+| bip_39_word_new_line_12 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt
+motor
+also
+upset
+aisle |  
+| bip_39_word_new_line_2 | where
+vocal |  
+| bip_39_word_new_line_3 | where
+vocal
+hub |  
+| bip_39_word_new_line_4 | where
+vocal
+hub
+foam |  
+| bip_39_word_new_line_5 | where
+vocal
+hub
+foam
+conduct |  
+| bip_39_word_new_line_6 | where
+vocal
+hub
+foam
+conduct
+staff |  
+| bip_39_word_new_line_7 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover |  
+| bip_39_word_new_line_8 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt |  
+| bip_39_word_new_line_9 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt
+motor |  
+| bip_39_word_no_space_1 | where |  
+| bip_39_word_no_space_10 | wherevocalhubfoamconductstaffuncoverdirtmotoralso |  
+| bip_39_word_no_space_11 | wherevocalhubfoamconductstaffuncoverdirtmotoralsoupset |  
+| bip_39_word_no_space_12 | wherevocalhubfoamconductstaffuncoverdirtmotoralsoupsetaisle |  
+| bip_39_word_no_space_2 | wherevocal |  
+| bip_39_word_no_space_3 | wherevocalhub |  
+| bip_39_word_no_space_4 | wherevocalhubfoam |  
+| bip_39_word_no_space_5 | wherevocalhubfoamconduct |  
+| bip_39_word_no_space_6 | wherevocalhubfoamconductstaff |  
+| bip_39_word_no_space_7 | wherevocalhubfoamconductstaffuncover |  
+| bip_39_word_no_space_8 | wherevocalhubfoamconductstaffuncoverdirt |  
+| bip_39_word_no_space_9 | wherevocalhubfoamconductstaffuncoverdirtmotor |  
+| bip_39_word_space_0 | ['where', 'vocal', 'hub', 'foam', 'conduct', 'staff', 'uncover', 'dirt', 'motor', 'also', 'upset', 'aisle'] |  
+| bip_39_word_space_1 | where |  
+| bip_39_word_space_10 | where vocal hub foam conduct staff uncover dirt motor also |  
+| bip_39_word_space_11 | where vocal hub foam conduct staff uncover dirt motor also upset |  
+| bip_39_word_space_12 | where vocal hub foam conduct staff uncover dirt motor also upset aisle |  
+| bip_39_word_space_2 | where vocal |  
+| bip_39_word_space_3 | where vocal hub |  
+| bip_39_word_space_4 | where vocal hub foam |  
+| bip_39_word_space_5 | where vocal hub foam conduct |  
+| bip_39_word_space_6 | where vocal hub foam conduct staff |  
+| bip_39_word_space_7 | where vocal hub foam conduct staff uncover |  
+| bip_39_word_space_8 | where vocal hub foam conduct staff uncover dirt |  
+| bip_39_word_space_9 | where vocal hub foam conduct staff uncover dirt motor |  
+| bip_39_word_underscore_1 | where |  
+| bip_39_word_underscore_10 | where_vocal_hub_foam_conduct_staff_uncover_dirt_motor_also |  
+| bip_39_word_underscore_11 | where_vocal_hub_foam_conduct_staff_uncover_dirt_motor_also_upset |  
+| bip_39_word_underscore_12 | where_vocal_hub_foam_conduct_staff_uncover_dirt_motor_also_upset_aisle |  
+| bip_39_word_underscore_2 | where_vocal |  
+| bip_39_word_underscore_3 | where_vocal_hub |  
+| bip_39_word_underscore_4 | where_vocal_hub_foam |  
+| bip_39_word_underscore_5 | where_vocal_hub_foam_conduct |  
+| bip_39_word_underscore_6 | where_vocal_hub_foam_conduct_staff |  
+| bip_39_word_underscore_7 | where_vocal_hub_foam_conduct_staff_uncover |  
+| bip_39_word_underscore_8 | where_vocal_hub_foam_conduct_staff_uncover_dirt |  
+| bip_39_word_underscore_9 | where_vocal_hub_foam_conduct_staff_uncover_dirt_motor |  
+| classification | oobb |  
+| classification_capital | Oobb |  
+| classification_first_letter | o |  
+| classification_first_letter_upper | O |  
+| classification_length_1 | o |  
+| classification_length_2 | oo |  
+| classification_length_3 | oob |  
+| classification_length_4 | oobb |  
+| classification_length_5 | oobb |  
+| classification_length_6 | oobb |  
+| classification_name | Oobb |  
+| classification_no_space_length_1 | o |  
+| classification_no_space_length_2 | oo |  
+| classification_no_space_length_3 | oob |  
+| classification_no_space_length_4 | oobb |  
+| classification_no_space_length_5 | oobb |  
+| classification_no_space_length_6 | oobb |  
+| classification_no_space_upper_length_1 | O |  
+| classification_no_space_upper_length_2 | OO |  
+| classification_no_space_upper_length_3 | OOB |  
+| classification_no_space_upper_length_4 | OOBB |  
+| classification_no_space_upper_length_5 | OOBB |  
+| classification_no_space_upper_length_6 | OOBB |  
+| classification_upper | OOBB |  
+| classification_upper_length_1 | O |  
+| classification_upper_length_2 | OO |  
+| classification_upper_length_3 | OOB |  
+| classification_upper_length_4 | OOBB |  
+| classification_upper_length_5 | OOBB |  
+| classification_upper_length_6 | OOBB |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_name |  |  
+| color_upper |  |  
+| description_extra | a |  
+| description_extra_capital | A |  
+| description_extra_first_letter | a |  
+| description_extra_first_letter_upper | A |  
+| description_extra_length_1 | a |  
+| description_extra_length_2 | a |  
+| description_extra_length_3 | a |  
+| description_extra_length_4 | a |  
+| description_extra_length_5 | a |  
+| description_extra_length_6 | a |  
+| description_extra_name | A |  
+| description_extra_no_space_length_1 | a |  
+| description_extra_no_space_length_2 | a |  
+| description_extra_no_space_length_3 | a |  
+| description_extra_no_space_length_4 | a |  
+| description_extra_no_space_length_5 | a |  
+| description_extra_no_space_length_6 | a |  
+| description_extra_no_space_upper_length_1 | A |  
+| description_extra_no_space_upper_length_2 | A |  
+| description_extra_no_space_upper_length_3 | A |  
+| description_extra_no_space_upper_length_4 | A |  
+| description_extra_no_space_upper_length_5 | A |  
+| description_extra_no_space_upper_length_6 | A |  
+| description_extra_upper | A |  
+| description_extra_upper_length_1 | A |  
+| description_extra_upper_length_2 | A |  
+| description_extra_upper_length_3 | A |  
+| description_extra_upper_length_4 | A |  
+| description_extra_upper_length_5 | A |  
+| description_extra_upper_length_6 | A |  
+| description_main | 05_01_ |  
+| description_main_capital | 05 01  |  
+| description_main_first_letter | 0 |  
+| description_main_first_letter_upper | 0 |  
+| description_main_length_1 | 0 |  
+| description_main_length_2 | 05 |  
+| description_main_length_3 | 05_ |  
+| description_main_length_4 | 05_0 |  
+| description_main_length_5 | 05_01 |  
+| description_main_length_6 | 05_01_ |  
+| description_main_name | 05 01  |  
+| description_main_no_space_length_1 | 0 |  
+| description_main_no_space_length_2 | 05 |  
+| description_main_no_space_length_3 | 050 |  
+| description_main_no_space_length_4 | 0501 |  
+| description_main_no_space_length_5 | 0501 |  
+| description_main_no_space_length_6 | 0501 |  
+| description_main_no_space_upper_length_1 | 0 |  
+| description_main_no_space_upper_length_2 | 05 |  
+| description_main_no_space_upper_length_3 | 050 |  
+| description_main_no_space_upper_length_4 | 0501 |  
+| description_main_no_space_upper_length_5 | 0501 |  
+| description_main_no_space_upper_length_6 | 0501 |  
+| description_main_upper | 05_01_ |  
+| description_main_upper_length_1 | 0 |  
+| description_main_upper_length_2 | 05 |  
+| description_main_upper_length_3 | 05_ |  
+| description_main_upper_length_4 | 05_0 |  
+| description_main_upper_length_5 | 05_01 |  
+| description_main_upper_length_6 | 05_01_ |  
+| description_only_numbers | 0501 |  
+| description_only_numbers_short | 501 |  
+| description_or_color | 501 |  
+| description_or_color_upper | 501 |  
+| directory | parts/oobb_part_bunting_alphabet_05_01__a |  
+| distributors | [] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__a |  
+| id | oobb_part_bunting_alphabet_05_01__a |  
+| id_no_class | part_bunting_alphabet_05_01__a |  
+| id_no_color | 0501a |  
+| id_no_size | 05_01__a |  
+| id_no_type | bunting_alphabet_05_01__a |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__a |  
+| link_2_name | github_link |  
+| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203l1kx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203l1kx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203l1kx |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [oobb_part_bunting_alphabet_05_01__a](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a)<br>[Oobb Part Bunting Alphabet 05 01  A](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a)<br><br> |  
+| markdown_short | [oobb_part_bunting_alphabet_05_01__a](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a)<br><br> |  
+| md5 | 5bde41d4833ebd97501765a0dd3d57d2 |  
+| md5_10 | 5bde41d483 |  
+| md5_10_upper | 5BDE41D483 |  
+| md5_5 | 5bde4 |  
+| md5_5_upper | 5BDE4 |  
+| md5_6 | 5bde41 |  
+| md5_6_alpha | 3l1kx |  
+| md5_6_alpha_upper | 3L1KX |  
+| md5_6_upper | 5BDE41 |  
+| name | Oobb Part Bunting Alphabet 05 01  A |  
+| name_no_class | Part Bunting Alphabet 05 01  A |  
+| name_no_color | 0501A |  
+| name_no_size | 05 01  A |  
+| name_no_size_short | 05 01  A |  
+| name_no_type | Bunting Alphabet 05 01  A |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | bunting_alphabet |  
+| oomlout_detail_hierarchy_3_upper | BUNTING_ALPHABET |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BUNT |  
+| oomlout_detail_hierarchy_4 | 05_01_ |  
+| oomlout_detail_hierarchy_4_upper | 05_01_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | a |  
+| oomlout_detail_hierarchy_5_upper | A |  
+| oomlout_detail_hierarchy_5_upper_length_4 | A |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_oobb_part_bunting_alphabet_05_01__a |  
+| oomp_word | rooster rainbow camel |  
+| oomp_word_emoji | :rooster: :rainbow: :camel: |  
+| oomp_word_emoji_list | [':rooster:', ':rainbow:', ':camel:'] |  
+| oomp_word_list | ['rooster', 'rainbow', 'camel'] |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_name |  |  
+| part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
+| price_3_name | amazon |  
+| short_code |  |  
+| short_code_upper |  |  
+| short_name |  |  
+| size | bunting_alphabet |  
+| size_capital | Bunting Alphabet |  
+| size_first_letter | b |  
+| size_first_letter_upper | B |  
+| size_length_1 | b |  
+| size_length_2 | bu |  
+| size_length_3 | bun |  
+| size_length_4 | bunt |  
+| size_length_5 | bunti |  
+| size_length_6 | buntin |  
+| size_name | Bunting Alphabet |  
+| size_no_space_length_1 | b |  
+| size_no_space_length_2 | bu |  
+| size_no_space_length_3 | bun |  
+| size_no_space_length_4 | bunt |  
+| size_no_space_length_5 | bunti |  
+| size_no_space_length_6 | buntin |  
+| size_no_space_upper_length_1 | B |  
+| size_no_space_upper_length_2 | BU |  
+| size_no_space_upper_length_3 | BUN |  
+| size_no_space_upper_length_4 | BUNT |  
+| size_no_space_upper_length_5 | BUNTI |  
+| size_no_space_upper_length_6 | BUNTIN |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | BUNTING_ALPHABET |  
+| size_upper_length_1 | B |  
+| size_upper_length_2 | BU |  
+| size_upper_length_3 | BUN |  
+| size_upper_length_4 | BUNT |  
+| size_upper_length_5 | BUNTI |  
+| size_upper_length_6 | BUNTIN |  
+| type | part |  
+| type_capital | Part |  
+| type_first_letter | p |  
+| type_first_letter_upper | P |  
+| type_length_1 | p |  
+| type_length_2 | pa |  
+| type_length_3 | par |  
+| type_length_4 | part |  
+| type_length_5 | part |  
+| type_length_6 | part |  
+| type_name | Part |  
+| type_no_space_length_1 | p |  
+| type_no_space_length_2 | pa |  
+| type_no_space_length_3 | par |  
+| type_no_space_length_4 | part |  
+| type_no_space_length_5 | part |  
+| type_no_space_length_6 | part |  
+| type_no_space_upper_length_1 | P |  
+| type_no_space_upper_length_2 | PA |  
+| type_no_space_upper_length_3 | PAR |  
+| type_no_space_upper_length_4 | PART |  
+| type_no_space_upper_length_5 | PART |  
+| type_no_space_upper_length_6 | PART |  
+| type_upper | PART |  
+| type_upper_length_1 | P |  
+| type_upper_length_2 | PA |  
+| type_upper_length_3 | PAR |  
+| type_upper_length_4 | PART |  
+| type_upper_length_5 | PART |  
+| type_upper_length_6 | PART |  

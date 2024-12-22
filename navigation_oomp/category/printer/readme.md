@@ -1,0 +1,8 @@
+* [all_in_one_inkjet](all_in_one_inkjet)
+  * [a4](all_in_one_inkjet/a4)
+    * [cubby_box](all_in_one_inkjet/a4/cubby_box)
+    * [tote](all_in_one_inkjet/a4/tote)
+  * [cubby_box](all_in_one_inkjet/cubby_box)
+  * [tote](all_in_one_inkjet/tote)
+* [cubby_box](cubby_box)
+* [tote](tote)

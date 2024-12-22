@@ -1,0 +1,8 @@
+* [crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug](crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug)
+  * [cubby_box](crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug/cubby_box)
+  * [tote](crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug/tote)
+* [crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)
+  * [cubby_box](crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket/cubby_box)
+  * [tote](crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket/tote)
+* [cubby_box](cubby_box)
+* [tote](tote)
