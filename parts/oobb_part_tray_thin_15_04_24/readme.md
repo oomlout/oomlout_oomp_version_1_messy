@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202k1tp)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202k1tp)
 [2x1](http://192.168.1.242:1112/?label=oomp%202k1tp)
 [6x4](http://192.168.1.55:1112/?label=oomp%202k1tp)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | remain |  
-| bip_39_word_dash_10 | remain-scheme-off-vibrant-capital-taste-grape-catalog-box-vital |  
-| bip_39_word_dash_11 | remain-scheme-off-vibrant-capital-taste-grape-catalog-box-vital-series |  
-| bip_39_word_dash_12 | remain-scheme-off-vibrant-capital-taste-grape-catalog-box-vital-series-advice |  
-| bip_39_word_dash_2 | remain-scheme |  
-| bip_39_word_dash_3 | remain-scheme-off |  
-| bip_39_word_dash_4 | remain-scheme-off-vibrant |  
-| bip_39_word_dash_5 | remain-scheme-off-vibrant-capital |  
-| bip_39_word_dash_6 | remain-scheme-off-vibrant-capital-taste |  
-| bip_39_word_dash_7 | remain-scheme-off-vibrant-capital-taste-grape |  
-| bip_39_word_dash_8 | remain-scheme-off-vibrant-capital-taste-grape-catalog |  
-| bip_39_word_dash_9 | remain-scheme-off-vibrant-capital-taste-grape-catalog-box |  
-| bip_39_word_new_br_1 | remain |  
-| bip_39_word_new_br_10 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box<br>vital |  
-| bip_39_word_new_br_11 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box<br>vital<br>series |  
-| bip_39_word_new_br_12 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box<br>vital<br>series<br>advice |  
-| bip_39_word_new_br_2 | remain<br>scheme |  
-| bip_39_word_new_br_3 | remain<br>scheme<br>off |  
-| bip_39_word_new_br_4 | remain<br>scheme<br>off<br>vibrant |  
-| bip_39_word_new_br_5 | remain<br>scheme<br>off<br>vibrant<br>capital |  
-| bip_39_word_new_br_6 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste |  
-| bip_39_word_new_br_7 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape |  
-| bip_39_word_new_br_8 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog |  
-| bip_39_word_new_br_9 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box |  
-| bip_39_word_new_line_1 | remain |  
-| bip_39_word_new_line_10 | remain
-scheme
-off
-vibrant
-capital
-taste
-grape
-catalog
-box
-vital |  
-| bip_39_word_new_line_11 | remain
-scheme
-off
-vibrant
-capital
-taste
-grape
-catalog
-box
-vital
-series |  
-| bip_39_word_new_line_12 | remain
-scheme
-off
-vibrant
-capital
-taste
-grape
-catalog
-box
-vital
-series
-advice |  
-| bip_39_word_new_line_2 | remain
-scheme |  
-| bip_39_word_new_line_3 | remain
-scheme
-off |  
-| bip_39_word_new_line_4 | remain
-scheme
-off
-vibrant |  
-| bip_39_word_new_line_5 | remain
-scheme
-off
-vibrant
-capital |  
-| bip_39_word_new_line_6 | remain
-scheme
-off
-vibrant
-capital
-taste |  
-| bip_39_word_new_line_7 | remain
-scheme
-off
-vibrant
-capital
-taste
-grape |  
-| bip_39_word_new_line_8 | remain
-scheme
-off
-vibrant
-capital
-taste
-grape
-catalog |  
-| bip_39_word_new_line_9 | remain
-scheme
-off
-vibrant
-capital
-taste
-grape
-catalog
-box |  
-| bip_39_word_no_space_1 | remain |  
-| bip_39_word_no_space_10 | remainschemeoffvibrantcapitaltastegrapecatalogboxvital |  
-| bip_39_word_no_space_11 | remainschemeoffvibrantcapitaltastegrapecatalogboxvitalseries |  
-| bip_39_word_no_space_12 | remainschemeoffvibrantcapitaltastegrapecatalogboxvitalseriesadvice |  
-| bip_39_word_no_space_2 | remainscheme |  
-| bip_39_word_no_space_3 | remainschemeoff |  
-| bip_39_word_no_space_4 | remainschemeoffvibrant |  
-| bip_39_word_no_space_5 | remainschemeoffvibrantcapital |  
-| bip_39_word_no_space_6 | remainschemeoffvibrantcapitaltaste |  
-| bip_39_word_no_space_7 | remainschemeoffvibrantcapitaltastegrape |  
-| bip_39_word_no_space_8 | remainschemeoffvibrantcapitaltastegrapecatalog |  
-| bip_39_word_no_space_9 | remainschemeoffvibrantcapitaltastegrapecatalogbox |  
-| bip_39_word_space_0 | ['remain', 'scheme', 'off', 'vibrant', 'capital', 'taste', 'grape', 'catalog', 'box', 'vital', 'series', 'advice'] |  
-| bip_39_word_space_1 | remain |  
-| bip_39_word_space_10 | remain scheme off vibrant capital taste grape catalog box vital |  
-| bip_39_word_space_11 | remain scheme off vibrant capital taste grape catalog box vital series |  
-| bip_39_word_space_12 | remain scheme off vibrant capital taste grape catalog box vital series advice |  
-| bip_39_word_space_2 | remain scheme |  
-| bip_39_word_space_3 | remain scheme off |  
-| bip_39_word_space_4 | remain scheme off vibrant |  
-| bip_39_word_space_5 | remain scheme off vibrant capital |  
-| bip_39_word_space_6 | remain scheme off vibrant capital taste |  
-| bip_39_word_space_7 | remain scheme off vibrant capital taste grape |  
-| bip_39_word_space_8 | remain scheme off vibrant capital taste grape catalog |  
-| bip_39_word_space_9 | remain scheme off vibrant capital taste grape catalog box |  
-| bip_39_word_underscore_1 | remain |  
-| bip_39_word_underscore_10 | remain_scheme_off_vibrant_capital_taste_grape_catalog_box_vital |  
-| bip_39_word_underscore_11 | remain_scheme_off_vibrant_capital_taste_grape_catalog_box_vital_series |  
-| bip_39_word_underscore_12 | remain_scheme_off_vibrant_capital_taste_grape_catalog_box_vital_series_advice |  
-| bip_39_word_underscore_2 | remain_scheme |  
-| bip_39_word_underscore_3 | remain_scheme_off |  
-| bip_39_word_underscore_4 | remain_scheme_off_vibrant |  
-| bip_39_word_underscore_5 | remain_scheme_off_vibrant_capital |  
-| bip_39_word_underscore_6 | remain_scheme_off_vibrant_capital_taste |  
-| bip_39_word_underscore_7 | remain_scheme_off_vibrant_capital_taste_grape |  
-| bip_39_word_underscore_8 | remain_scheme_off_vibrant_capital_taste_grape_catalog |  
-| bip_39_word_underscore_9 | remain_scheme_off_vibrant_capital_taste_grape_catalog_box |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 15_04_24 |  
-| description_main_capital | 15 04.24 |  
-| description_main_first_letter | 1 |  
-| description_main_first_letter_upper | 1 |  
-| description_main_length_1 | 1 |  
-| description_main_length_2 | 15 |  
-| description_main_length_3 | 15_ |  
-| description_main_length_4 | 15_0 |  
-| description_main_length_5 | 15_04 |  
-| description_main_length_6 | 15_04_ |  
 | description_main_name | 15 04 24 |  
-| description_main_no_space_length_1 | 1 |  
-| description_main_no_space_length_2 | 15 |  
-| description_main_no_space_length_3 | 150 |  
-| description_main_no_space_length_4 | 1504 |  
-| description_main_no_space_length_5 | 15042 |  
-| description_main_no_space_length_6 | 150424 |  
-| description_main_no_space_upper_length_1 | 1 |  
-| description_main_no_space_upper_length_2 | 15 |  
-| description_main_no_space_upper_length_3 | 150 |  
-| description_main_no_space_upper_length_4 | 1504 |  
-| description_main_no_space_upper_length_5 | 15042 |  
-| description_main_no_space_upper_length_6 | 150424 |  
-| description_main_upper | 15_04_24 |  
-| description_main_upper_length_1 | 1 |  
-| description_main_upper_length_2 | 15 |  
-| description_main_upper_length_3 | 15_ |  
-| description_main_upper_length_4 | 15_0 |  
-| description_main_upper_length_5 | 15_04 |  
-| description_main_upper_length_6 | 15_04_ |  
-| description_only_numbers | 150424 |  
-| description_only_numbers_short | 150k |  
 | description_or_color | 150k |  
-| description_or_color_upper | 150K |  
 | directory | parts/oobb_part_tray_thin_15_04_24 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_04_24 |  
 | id | oobb_part_tray_thin_15_04_24 |  
-| id_no_class | part_tray_thin_15_04_24 |  
-| id_no_color | 150424 |  
-| id_no_size | 15_04_24 |  
-| id_no_type | tray_thin_15_04_24 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_04_24 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_04_24 |  
@@ -288,43 +79,23 @@ box |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_04_24 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202k1tp |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202k1tp |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202k1tp |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202k1tp |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_tray_thin_15_04_24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_04_24)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_04_24)<br>[Oobb Part Tray Thin 15 04 24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_04_24)<br><br> |  
 | markdown_short | [oobb_part_tray_thin_15_04_24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_04_24)<br><br> |  
 | md5 | 41883d40d423ecbb78910f3732b02dac |  
 | md5_10 | 41883d40d4 |  
-| md5_10_upper | 41883D40D4 |  
 | md5_5 | 41883 |  
-| md5_5_upper | 41883 |  
 | md5_6 | 41883d |  
 | md5_6_alpha | 2k1tp |  
-| md5_6_alpha_upper | 2K1TP |  
-| md5_6_upper | 41883D |  
 | name | Oobb Part Tray Thin 15 04 24 |  
-| name_no_class | Part Tray Thin 15 04 24 |  
-| name_no_color | 150424 |  
-| name_no_size | 15 04 24 |  
-| name_no_size_short | 15 04 24 |  
-| name_no_type | Tray Thin 15 04 24 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | tray_thin |  
-| oomlout_detail_hierarchy_3_upper | TRAY_THIN |  
-| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
 | oomlout_detail_hierarchy_4 | 15_04_24 |  
-| oomlout_detail_hierarchy_4_upper | 15_04_24 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 15_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_thin_15_04_24 |  
 | oomp_word | camel wrench cow |  
@@ -332,76 +103,10 @@ box |
 | oomp_word_emoji_list | [':camel:', ':wrench:', ':cow:'] |  
 | oomp_word_list | ['camel', 'wrench', 'cow'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | tray_thin |  
-| size_capital | Tray Thin |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_length_1 | t |  
-| size_length_2 | tr |  
-| size_length_3 | tra |  
-| size_length_4 | tray |  
-| size_length_5 | tray_ |  
-| size_length_6 | tray_t |  
 | size_name | Tray Thin |  
-| size_no_space_length_1 | t |  
-| size_no_space_length_2 | tr |  
-| size_no_space_length_3 | tra |  
-| size_no_space_length_4 | tray |  
-| size_no_space_length_5 | trayt |  
-| size_no_space_length_6 | trayth |  
-| size_no_space_upper_length_1 | T |  
-| size_no_space_upper_length_2 | TR |  
-| size_no_space_upper_length_3 | TRA |  
-| size_no_space_upper_length_4 | TRAY |  
-| size_no_space_upper_length_5 | TRAYT |  
-| size_no_space_upper_length_6 | TRAYTH |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TRAY_THIN |  
-| size_upper_length_1 | T |  
-| size_upper_length_2 | TR |  
-| size_upper_length_3 | TRA |  
-| size_upper_length_4 | TRAY |  
-| size_upper_length_5 | TRAY_ |  
-| size_upper_length_6 | TRAY_T |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

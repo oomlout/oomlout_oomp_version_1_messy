@@ -12,6 +12,8 @@
   * [spaghetti](pasta/spaghetti)
     * [box_500_gram](pasta/spaghetti/box_500_gram)
       * [barilla](pasta/spaghetti/box_500_gram/barilla)
+* [popcorn](popcorn)
+  * [kernels](popcorn/kernels)
 * [rice](rice)
   * [basmati](rice/basmati)
   * [brown_short_grain](rice/brown_short_grain)

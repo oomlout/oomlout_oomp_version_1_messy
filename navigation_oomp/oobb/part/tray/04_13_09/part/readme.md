@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2086ryx)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2086ryx)
 [2x1](http://192.168.1.242:1112/?label=oomp%2086ryx)
 [6x4](http://192.168.1.55:1112/?label=oomp%2086ryx)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | control |  
-| bip_39_word_dash_10 | control-barrel-harsh-connect-juice-lyrics-remain-best-mechanic-grow |  
-| bip_39_word_dash_11 | control-barrel-harsh-connect-juice-lyrics-remain-best-mechanic-grow-unique |  
-| bip_39_word_dash_12 | control-barrel-harsh-connect-juice-lyrics-remain-best-mechanic-grow-unique-artist |  
-| bip_39_word_dash_2 | control-barrel |  
-| bip_39_word_dash_3 | control-barrel-harsh |  
-| bip_39_word_dash_4 | control-barrel-harsh-connect |  
-| bip_39_word_dash_5 | control-barrel-harsh-connect-juice |  
-| bip_39_word_dash_6 | control-barrel-harsh-connect-juice-lyrics |  
-| bip_39_word_dash_7 | control-barrel-harsh-connect-juice-lyrics-remain |  
-| bip_39_word_dash_8 | control-barrel-harsh-connect-juice-lyrics-remain-best |  
-| bip_39_word_dash_9 | control-barrel-harsh-connect-juice-lyrics-remain-best-mechanic |  
-| bip_39_word_new_br_1 | control |  
-| bip_39_word_new_br_10 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic<br>grow |  
-| bip_39_word_new_br_11 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic<br>grow<br>unique |  
-| bip_39_word_new_br_12 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic<br>grow<br>unique<br>artist |  
-| bip_39_word_new_br_2 | control<br>barrel |  
-| bip_39_word_new_br_3 | control<br>barrel<br>harsh |  
-| bip_39_word_new_br_4 | control<br>barrel<br>harsh<br>connect |  
-| bip_39_word_new_br_5 | control<br>barrel<br>harsh<br>connect<br>juice |  
-| bip_39_word_new_br_6 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics |  
-| bip_39_word_new_br_7 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain |  
-| bip_39_word_new_br_8 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best |  
-| bip_39_word_new_br_9 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic |  
-| bip_39_word_new_line_1 | control |  
-| bip_39_word_new_line_10 | control
-barrel
-harsh
-connect
-juice
-lyrics
-remain
-best
-mechanic
-grow |  
-| bip_39_word_new_line_11 | control
-barrel
-harsh
-connect
-juice
-lyrics
-remain
-best
-mechanic
-grow
-unique |  
-| bip_39_word_new_line_12 | control
-barrel
-harsh
-connect
-juice
-lyrics
-remain
-best
-mechanic
-grow
-unique
-artist |  
-| bip_39_word_new_line_2 | control
-barrel |  
-| bip_39_word_new_line_3 | control
-barrel
-harsh |  
-| bip_39_word_new_line_4 | control
-barrel
-harsh
-connect |  
-| bip_39_word_new_line_5 | control
-barrel
-harsh
-connect
-juice |  
-| bip_39_word_new_line_6 | control
-barrel
-harsh
-connect
-juice
-lyrics |  
-| bip_39_word_new_line_7 | control
-barrel
-harsh
-connect
-juice
-lyrics
-remain |  
-| bip_39_word_new_line_8 | control
-barrel
-harsh
-connect
-juice
-lyrics
-remain
-best |  
-| bip_39_word_new_line_9 | control
-barrel
-harsh
-connect
-juice
-lyrics
-remain
-best
-mechanic |  
-| bip_39_word_no_space_1 | control |  
-| bip_39_word_no_space_10 | controlbarrelharshconnectjuicelyricsremainbestmechanicgrow |  
-| bip_39_word_no_space_11 | controlbarrelharshconnectjuicelyricsremainbestmechanicgrowunique |  
-| bip_39_word_no_space_12 | controlbarrelharshconnectjuicelyricsremainbestmechanicgrowuniqueartist |  
-| bip_39_word_no_space_2 | controlbarrel |  
-| bip_39_word_no_space_3 | controlbarrelharsh |  
-| bip_39_word_no_space_4 | controlbarrelharshconnect |  
-| bip_39_word_no_space_5 | controlbarrelharshconnectjuice |  
-| bip_39_word_no_space_6 | controlbarrelharshconnectjuicelyrics |  
-| bip_39_word_no_space_7 | controlbarrelharshconnectjuicelyricsremain |  
-| bip_39_word_no_space_8 | controlbarrelharshconnectjuicelyricsremainbest |  
-| bip_39_word_no_space_9 | controlbarrelharshconnectjuicelyricsremainbestmechanic |  
-| bip_39_word_space_0 | ['control', 'barrel', 'harsh', 'connect', 'juice', 'lyrics', 'remain', 'best', 'mechanic', 'grow', 'unique', 'artist'] |  
-| bip_39_word_space_1 | control |  
-| bip_39_word_space_10 | control barrel harsh connect juice lyrics remain best mechanic grow |  
-| bip_39_word_space_11 | control barrel harsh connect juice lyrics remain best mechanic grow unique |  
-| bip_39_word_space_12 | control barrel harsh connect juice lyrics remain best mechanic grow unique artist |  
-| bip_39_word_space_2 | control barrel |  
-| bip_39_word_space_3 | control barrel harsh |  
-| bip_39_word_space_4 | control barrel harsh connect |  
-| bip_39_word_space_5 | control barrel harsh connect juice |  
-| bip_39_word_space_6 | control barrel harsh connect juice lyrics |  
-| bip_39_word_space_7 | control barrel harsh connect juice lyrics remain |  
-| bip_39_word_space_8 | control barrel harsh connect juice lyrics remain best |  
-| bip_39_word_space_9 | control barrel harsh connect juice lyrics remain best mechanic |  
-| bip_39_word_underscore_1 | control |  
-| bip_39_word_underscore_10 | control_barrel_harsh_connect_juice_lyrics_remain_best_mechanic_grow |  
-| bip_39_word_underscore_11 | control_barrel_harsh_connect_juice_lyrics_remain_best_mechanic_grow_unique |  
-| bip_39_word_underscore_12 | control_barrel_harsh_connect_juice_lyrics_remain_best_mechanic_grow_unique_artist |  
-| bip_39_word_underscore_2 | control_barrel |  
-| bip_39_word_underscore_3 | control_barrel_harsh |  
-| bip_39_word_underscore_4 | control_barrel_harsh_connect |  
-| bip_39_word_underscore_5 | control_barrel_harsh_connect_juice |  
-| bip_39_word_underscore_6 | control_barrel_harsh_connect_juice_lyrics |  
-| bip_39_word_underscore_7 | control_barrel_harsh_connect_juice_lyrics_remain |  
-| bip_39_word_underscore_8 | control_barrel_harsh_connect_juice_lyrics_remain_best |  
-| bip_39_word_underscore_9 | control_barrel_harsh_connect_juice_lyrics_remain_best_mechanic |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 04_13_09 |  
-| description_main_capital | 04.13 09 |  
-| description_main_first_letter | 0 |  
-| description_main_first_letter_upper | 0 |  
-| description_main_length_1 | 0 |  
-| description_main_length_2 | 04 |  
-| description_main_length_3 | 04_ |  
-| description_main_length_4 | 04_1 |  
-| description_main_length_5 | 04_13 |  
-| description_main_length_6 | 04_13_ |  
 | description_main_name | 04 13 09 |  
-| description_main_no_space_length_1 | 0 |  
-| description_main_no_space_length_2 | 04 |  
-| description_main_no_space_length_3 | 041 |  
-| description_main_no_space_length_4 | 0413 |  
-| description_main_no_space_length_5 | 04130 |  
-| description_main_no_space_length_6 | 041309 |  
-| description_main_no_space_upper_length_1 | 0 |  
-| description_main_no_space_upper_length_2 | 04 |  
-| description_main_no_space_upper_length_3 | 041 |  
-| description_main_no_space_upper_length_4 | 0413 |  
-| description_main_no_space_upper_length_5 | 04130 |  
-| description_main_no_space_upper_length_6 | 041309 |  
-| description_main_upper | 04_13_09 |  
-| description_main_upper_length_1 | 0 |  
-| description_main_upper_length_2 | 04 |  
-| description_main_upper_length_3 | 04_ |  
-| description_main_upper_length_4 | 04_1 |  
-| description_main_upper_length_5 | 04_13 |  
-| description_main_upper_length_6 | 04_13_ |  
-| description_only_numbers | 041309 |  
-| description_only_numbers_short | 41k |  
 | description_or_color | 41k |  
-| description_or_color_upper | 41K |  
 | directory | parts/oobb_part_tray_04_13_09 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_13_09 |  
 | id | oobb_part_tray_04_13_09 |  
-| id_no_class | part_tray_04_13_09 |  
-| id_no_color | 041309 |  
-| id_no_size | 04_13_09 |  
-| id_no_type | tray_04_13_09 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_13_09 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_13_09 |  
@@ -288,43 +79,23 @@ mechanic |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_13_09 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2086ryx |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2086ryx |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2086ryx |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2086ryx |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_tray_04_13_09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_13_09)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_13_09)<br>[Oobb Part Tray 04 13 09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_13_09)<br><br> |  
 | markdown_short | [oobb_part_tray_04_13_09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_13_09)<br><br> |  
 | md5 | d1db19c4511556b215bc62f2d284b17b |  
 | md5_10 | d1db19c451 |  
-| md5_10_upper | D1DB19C451 |  
 | md5_5 | d1db1 |  
-| md5_5_upper | D1DB1 |  
 | md5_6 | d1db19 |  
 | md5_6_alpha | 86ryx |  
-| md5_6_alpha_upper | 86RYX |  
-| md5_6_upper | D1DB19 |  
 | name | Oobb Part Tray 04 13 09 |  
-| name_no_class | Part Tray 04 13 09 |  
-| name_no_color | 041309 |  
-| name_no_size | 04 13 09 |  
-| name_no_size_short | 04 13 09 |  
-| name_no_type | Tray 04 13 09 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | tray |  
-| oomlout_detail_hierarchy_3_upper | TRAY |  
-| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
 | oomlout_detail_hierarchy_4 | 04_13_09 |  
-| oomlout_detail_hierarchy_4_upper | 04_13_09 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 04_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_04_13_09 |  
 | oomp_word | pear tent pray |  
@@ -332,76 +103,10 @@ mechanic |
 | oomp_word_emoji_list | [':pear:', ':tent:', ':pray:'] |  
 | oomp_word_list | ['pear', 'tent', 'pray'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | tray |  
-| size_capital | Tray |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_length_1 | t |  
-| size_length_2 | tr |  
-| size_length_3 | tra |  
-| size_length_4 | tray |  
-| size_length_5 | tray |  
-| size_length_6 | tray |  
 | size_name | Tray |  
-| size_no_space_length_1 | t |  
-| size_no_space_length_2 | tr |  
-| size_no_space_length_3 | tra |  
-| size_no_space_length_4 | tray |  
-| size_no_space_length_5 | tray |  
-| size_no_space_length_6 | tray |  
-| size_no_space_upper_length_1 | T |  
-| size_no_space_upper_length_2 | TR |  
-| size_no_space_upper_length_3 | TRA |  
-| size_no_space_upper_length_4 | TRAY |  
-| size_no_space_upper_length_5 | TRAY |  
-| size_no_space_upper_length_6 | TRAY |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TRAY |  
-| size_upper_length_1 | T |  
-| size_upper_length_2 | TR |  
-| size_upper_length_3 | TRA |  
-| size_upper_length_4 | TRAY |  
-| size_upper_length_5 | TRAY |  
-| size_upper_length_6 | TRAY |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

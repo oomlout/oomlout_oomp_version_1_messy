@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20jl4h)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20jl4h)
 [2x1](http://192.168.1.242:1112/?label=oomp%20jl4h)
 [6x4](http://192.168.1.55:1112/?label=oomp%20jl4h)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | dragon |  
-| bip_39_word_dash_10 | dragon-crack-liquid-approve-violin-bulb-drum-black-true-shoot |  
-| bip_39_word_dash_11 | dragon-crack-liquid-approve-violin-bulb-drum-black-true-shoot-web |  
-| bip_39_word_dash_12 | dragon-crack-liquid-approve-violin-bulb-drum-black-true-shoot-web-absorb |  
-| bip_39_word_dash_2 | dragon-crack |  
-| bip_39_word_dash_3 | dragon-crack-liquid |  
-| bip_39_word_dash_4 | dragon-crack-liquid-approve |  
-| bip_39_word_dash_5 | dragon-crack-liquid-approve-violin |  
-| bip_39_word_dash_6 | dragon-crack-liquid-approve-violin-bulb |  
-| bip_39_word_dash_7 | dragon-crack-liquid-approve-violin-bulb-drum |  
-| bip_39_word_dash_8 | dragon-crack-liquid-approve-violin-bulb-drum-black |  
-| bip_39_word_dash_9 | dragon-crack-liquid-approve-violin-bulb-drum-black-true |  
-| bip_39_word_new_br_1 | dragon |  
-| bip_39_word_new_br_10 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb<br>drum<br>black<br>true<br>shoot |  
-| bip_39_word_new_br_11 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb<br>drum<br>black<br>true<br>shoot<br>web |  
-| bip_39_word_new_br_12 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb<br>drum<br>black<br>true<br>shoot<br>web<br>absorb |  
-| bip_39_word_new_br_2 | dragon<br>crack |  
-| bip_39_word_new_br_3 | dragon<br>crack<br>liquid |  
-| bip_39_word_new_br_4 | dragon<br>crack<br>liquid<br>approve |  
-| bip_39_word_new_br_5 | dragon<br>crack<br>liquid<br>approve<br>violin |  
-| bip_39_word_new_br_6 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb |  
-| bip_39_word_new_br_7 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb<br>drum |  
-| bip_39_word_new_br_8 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb<br>drum<br>black |  
-| bip_39_word_new_br_9 | dragon<br>crack<br>liquid<br>approve<br>violin<br>bulb<br>drum<br>black<br>true |  
-| bip_39_word_new_line_1 | dragon |  
-| bip_39_word_new_line_10 | dragon
-crack
-liquid
-approve
-violin
-bulb
-drum
-black
-true
-shoot |  
-| bip_39_word_new_line_11 | dragon
-crack
-liquid
-approve
-violin
-bulb
-drum
-black
-true
-shoot
-web |  
-| bip_39_word_new_line_12 | dragon
-crack
-liquid
-approve
-violin
-bulb
-drum
-black
-true
-shoot
-web
-absorb |  
-| bip_39_word_new_line_2 | dragon
-crack |  
-| bip_39_word_new_line_3 | dragon
-crack
-liquid |  
-| bip_39_word_new_line_4 | dragon
-crack
-liquid
-approve |  
-| bip_39_word_new_line_5 | dragon
-crack
-liquid
-approve
-violin |  
-| bip_39_word_new_line_6 | dragon
-crack
-liquid
-approve
-violin
-bulb |  
-| bip_39_word_new_line_7 | dragon
-crack
-liquid
-approve
-violin
-bulb
-drum |  
-| bip_39_word_new_line_8 | dragon
-crack
-liquid
-approve
-violin
-bulb
-drum
-black |  
-| bip_39_word_new_line_9 | dragon
-crack
-liquid
-approve
-violin
-bulb
-drum
-black
-true |  
-| bip_39_word_no_space_1 | dragon |  
-| bip_39_word_no_space_10 | dragoncrackliquidapproveviolinbulbdrumblacktrueshoot |  
-| bip_39_word_no_space_11 | dragoncrackliquidapproveviolinbulbdrumblacktrueshootweb |  
-| bip_39_word_no_space_12 | dragoncrackliquidapproveviolinbulbdrumblacktrueshootwebabsorb |  
-| bip_39_word_no_space_2 | dragoncrack |  
-| bip_39_word_no_space_3 | dragoncrackliquid |  
-| bip_39_word_no_space_4 | dragoncrackliquidapprove |  
-| bip_39_word_no_space_5 | dragoncrackliquidapproveviolin |  
-| bip_39_word_no_space_6 | dragoncrackliquidapproveviolinbulb |  
-| bip_39_word_no_space_7 | dragoncrackliquidapproveviolinbulbdrum |  
-| bip_39_word_no_space_8 | dragoncrackliquidapproveviolinbulbdrumblack |  
-| bip_39_word_no_space_9 | dragoncrackliquidapproveviolinbulbdrumblacktrue |  
-| bip_39_word_space_0 | ['dragon', 'crack', 'liquid', 'approve', 'violin', 'bulb', 'drum', 'black', 'true', 'shoot', 'web', 'absorb'] |  
-| bip_39_word_space_1 | dragon |  
-| bip_39_word_space_10 | dragon crack liquid approve violin bulb drum black true shoot |  
-| bip_39_word_space_11 | dragon crack liquid approve violin bulb drum black true shoot web |  
-| bip_39_word_space_12 | dragon crack liquid approve violin bulb drum black true shoot web absorb |  
-| bip_39_word_space_2 | dragon crack |  
-| bip_39_word_space_3 | dragon crack liquid |  
-| bip_39_word_space_4 | dragon crack liquid approve |  
-| bip_39_word_space_5 | dragon crack liquid approve violin |  
-| bip_39_word_space_6 | dragon crack liquid approve violin bulb |  
-| bip_39_word_space_7 | dragon crack liquid approve violin bulb drum |  
-| bip_39_word_space_8 | dragon crack liquid approve violin bulb drum black |  
-| bip_39_word_space_9 | dragon crack liquid approve violin bulb drum black true |  
-| bip_39_word_underscore_1 | dragon |  
-| bip_39_word_underscore_10 | dragon_crack_liquid_approve_violin_bulb_drum_black_true_shoot |  
-| bip_39_word_underscore_11 | dragon_crack_liquid_approve_violin_bulb_drum_black_true_shoot_web |  
-| bip_39_word_underscore_12 | dragon_crack_liquid_approve_violin_bulb_drum_black_true_shoot_web_absorb |  
-| bip_39_word_underscore_2 | dragon_crack |  
-| bip_39_word_underscore_3 | dragon_crack_liquid |  
-| bip_39_word_underscore_4 | dragon_crack_liquid_approve |  
-| bip_39_word_underscore_5 | dragon_crack_liquid_approve_violin |  
-| bip_39_word_underscore_6 | dragon_crack_liquid_approve_violin_bulb |  
-| bip_39_word_underscore_7 | dragon_crack_liquid_approve_violin_bulb_drum |  
-| bip_39_word_underscore_8 | dragon_crack_liquid_approve_violin_bulb_drum_black |  
-| bip_39_word_underscore_9 | dragon_crack_liquid_approve_violin_bulb_drum_black_true |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 07_02_03 |  
-| description_main_capital | 07 02 03 |  
-| description_main_first_letter | 0 |  
-| description_main_first_letter_upper | 0 |  
-| description_main_length_1 | 0 |  
-| description_main_length_2 | 07 |  
-| description_main_length_3 | 07_ |  
-| description_main_length_4 | 07_0 |  
-| description_main_length_5 | 07_02 |  
-| description_main_length_6 | 07_02_ |  
 | description_main_name | 07 02 03 |  
-| description_main_no_space_length_1 | 0 |  
-| description_main_no_space_length_2 | 07 |  
-| description_main_no_space_length_3 | 070 |  
-| description_main_no_space_length_4 | 0702 |  
-| description_main_no_space_length_5 | 07020 |  
-| description_main_no_space_length_6 | 070203 |  
-| description_main_no_space_upper_length_1 | 0 |  
-| description_main_no_space_upper_length_2 | 07 |  
-| description_main_no_space_upper_length_3 | 070 |  
-| description_main_no_space_upper_length_4 | 0702 |  
-| description_main_no_space_upper_length_5 | 07020 |  
-| description_main_no_space_upper_length_6 | 070203 |  
-| description_main_upper | 07_02_03 |  
-| description_main_upper_length_1 | 0 |  
-| description_main_upper_length_2 | 07 |  
-| description_main_upper_length_3 | 07_ |  
-| description_main_upper_length_4 | 07_0 |  
-| description_main_upper_length_5 | 07_02 |  
-| description_main_upper_length_6 | 07_02_ |  
-| description_only_numbers | 070203 |  
-| description_only_numbers_short | 70k |  
 | description_or_color | 70k |  
-| description_or_color_upper | 70K |  
 | directory | parts/oobb_part_plate_07_02_03 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_02_03 |  
 | id | oobb_part_plate_07_02_03 |  
-| id_no_class | part_plate_07_02_03 |  
-| id_no_color | 070203 |  
-| id_no_size | 07_02_03 |  
-| id_no_type | plate_07_02_03 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_02_03 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_02_03 |  
@@ -288,43 +79,23 @@ true |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_02_03 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20jl4h |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20jl4h |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20jl4h |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20jl4h |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_plate_07_02_03](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_02_03)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_02_03)<br>[Oobb Part Plate 07 02 03](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_02_03)<br><br> |  
 | markdown_short | [oobb_part_plate_07_02_03](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_02_03)<br><br> |  
 | md5 | 0df1b1a74a16e87077fa20ad048c7210 |  
 | md5_10 | 0df1b1a74a |  
-| md5_10_upper | 0DF1B1A74A |  
 | md5_5 | 0df1b |  
-| md5_5_upper | 0DF1B |  
 | md5_6 | 0df1b1 |  
 | md5_6_alpha | jl4h |  
-| md5_6_alpha_upper | JL4H |  
-| md5_6_upper | 0DF1B1 |  
 | name | Oobb Part Plate 07 02 03 |  
-| name_no_class | Part Plate 07 02 03 |  
-| name_no_color | 070203 |  
-| name_no_size | 07 02 03 |  
-| name_no_size_short | 07 02 03 |  
-| name_no_type | Plate 07 02 03 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | plate |  
-| oomlout_detail_hierarchy_3_upper | PLATE |  
-| oomlout_detail_hierarchy_3_upper_length_4 | PLAT |  
 | oomlout_detail_hierarchy_4 | 07_02_03 |  
-| oomlout_detail_hierarchy_4_upper | 07_02_03 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 07_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_07_02_03 |  
 | oomp_word | heart ticket briefcase |  
@@ -332,76 +103,10 @@ true |
 | oomp_word_emoji_list | [':heart:', ':ticket:', ':briefcase:'] |  
 | oomp_word_list | ['heart', 'ticket', 'briefcase'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | plate |  
-| size_capital | Plate |  
-| size_first_letter | p |  
-| size_first_letter_upper | P |  
-| size_length_1 | p |  
-| size_length_2 | pl |  
-| size_length_3 | pla |  
-| size_length_4 | plat |  
-| size_length_5 | plate |  
-| size_length_6 | plate |  
 | size_name | Plate |  
-| size_no_space_length_1 | p |  
-| size_no_space_length_2 | pl |  
-| size_no_space_length_3 | pla |  
-| size_no_space_length_4 | plat |  
-| size_no_space_length_5 | plate |  
-| size_no_space_length_6 | plate |  
-| size_no_space_upper_length_1 | P |  
-| size_no_space_upper_length_2 | PL |  
-| size_no_space_upper_length_3 | PLA |  
-| size_no_space_upper_length_4 | PLAT |  
-| size_no_space_upper_length_5 | PLATE |  
-| size_no_space_upper_length_6 | PLATE |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | PLATE |  
-| size_upper_length_1 | P |  
-| size_upper_length_2 | PL |  
-| size_upper_length_3 | PLA |  
-| size_upper_length_4 | PLAT |  
-| size_upper_length_5 | PLATE |  
-| size_upper_length_6 | PLATE |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

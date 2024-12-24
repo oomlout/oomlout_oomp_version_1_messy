@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%204vczp)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%204vczp)
 [2x1](http://192.168.1.242:1112/?label=oomp%204vczp)
 [6x4](http://192.168.1.55:1112/?label=oomp%204vczp)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | flat |  
-| bip_39_word_dash_10 | flat-deer-grief-embrace-wheel-tenant-black-lottery-cat-believe |  
-| bip_39_word_dash_11 | flat-deer-grief-embrace-wheel-tenant-black-lottery-cat-believe-hint |  
-| bip_39_word_dash_12 | flat-deer-grief-embrace-wheel-tenant-black-lottery-cat-believe-hint-amazing |  
-| bip_39_word_dash_2 | flat-deer |  
-| bip_39_word_dash_3 | flat-deer-grief |  
-| bip_39_word_dash_4 | flat-deer-grief-embrace |  
-| bip_39_word_dash_5 | flat-deer-grief-embrace-wheel |  
-| bip_39_word_dash_6 | flat-deer-grief-embrace-wheel-tenant |  
-| bip_39_word_dash_7 | flat-deer-grief-embrace-wheel-tenant-black |  
-| bip_39_word_dash_8 | flat-deer-grief-embrace-wheel-tenant-black-lottery |  
-| bip_39_word_dash_9 | flat-deer-grief-embrace-wheel-tenant-black-lottery-cat |  
-| bip_39_word_new_br_1 | flat |  
-| bip_39_word_new_br_10 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat<br>believe |  
-| bip_39_word_new_br_11 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat<br>believe<br>hint |  
-| bip_39_word_new_br_12 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat<br>believe<br>hint<br>amazing |  
-| bip_39_word_new_br_2 | flat<br>deer |  
-| bip_39_word_new_br_3 | flat<br>deer<br>grief |  
-| bip_39_word_new_br_4 | flat<br>deer<br>grief<br>embrace |  
-| bip_39_word_new_br_5 | flat<br>deer<br>grief<br>embrace<br>wheel |  
-| bip_39_word_new_br_6 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant |  
-| bip_39_word_new_br_7 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black |  
-| bip_39_word_new_br_8 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery |  
-| bip_39_word_new_br_9 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat |  
-| bip_39_word_new_line_1 | flat |  
-| bip_39_word_new_line_10 | flat
-deer
-grief
-embrace
-wheel
-tenant
-black
-lottery
-cat
-believe |  
-| bip_39_word_new_line_11 | flat
-deer
-grief
-embrace
-wheel
-tenant
-black
-lottery
-cat
-believe
-hint |  
-| bip_39_word_new_line_12 | flat
-deer
-grief
-embrace
-wheel
-tenant
-black
-lottery
-cat
-believe
-hint
-amazing |  
-| bip_39_word_new_line_2 | flat
-deer |  
-| bip_39_word_new_line_3 | flat
-deer
-grief |  
-| bip_39_word_new_line_4 | flat
-deer
-grief
-embrace |  
-| bip_39_word_new_line_5 | flat
-deer
-grief
-embrace
-wheel |  
-| bip_39_word_new_line_6 | flat
-deer
-grief
-embrace
-wheel
-tenant |  
-| bip_39_word_new_line_7 | flat
-deer
-grief
-embrace
-wheel
-tenant
-black |  
-| bip_39_word_new_line_8 | flat
-deer
-grief
-embrace
-wheel
-tenant
-black
-lottery |  
-| bip_39_word_new_line_9 | flat
-deer
-grief
-embrace
-wheel
-tenant
-black
-lottery
-cat |  
-| bip_39_word_no_space_1 | flat |  
-| bip_39_word_no_space_10 | flatdeergriefembracewheeltenantblacklotterycatbelieve |  
-| bip_39_word_no_space_11 | flatdeergriefembracewheeltenantblacklotterycatbelievehint |  
-| bip_39_word_no_space_12 | flatdeergriefembracewheeltenantblacklotterycatbelievehintamazing |  
-| bip_39_word_no_space_2 | flatdeer |  
-| bip_39_word_no_space_3 | flatdeergrief |  
-| bip_39_word_no_space_4 | flatdeergriefembrace |  
-| bip_39_word_no_space_5 | flatdeergriefembracewheel |  
-| bip_39_word_no_space_6 | flatdeergriefembracewheeltenant |  
-| bip_39_word_no_space_7 | flatdeergriefembracewheeltenantblack |  
-| bip_39_word_no_space_8 | flatdeergriefembracewheeltenantblacklottery |  
-| bip_39_word_no_space_9 | flatdeergriefembracewheeltenantblacklotterycat |  
-| bip_39_word_space_0 | ['flat', 'deer', 'grief', 'embrace', 'wheel', 'tenant', 'black', 'lottery', 'cat', 'believe', 'hint', 'amazing'] |  
-| bip_39_word_space_1 | flat |  
-| bip_39_word_space_10 | flat deer grief embrace wheel tenant black lottery cat believe |  
-| bip_39_word_space_11 | flat deer grief embrace wheel tenant black lottery cat believe hint |  
-| bip_39_word_space_12 | flat deer grief embrace wheel tenant black lottery cat believe hint amazing |  
-| bip_39_word_space_2 | flat deer |  
-| bip_39_word_space_3 | flat deer grief |  
-| bip_39_word_space_4 | flat deer grief embrace |  
-| bip_39_word_space_5 | flat deer grief embrace wheel |  
-| bip_39_word_space_6 | flat deer grief embrace wheel tenant |  
-| bip_39_word_space_7 | flat deer grief embrace wheel tenant black |  
-| bip_39_word_space_8 | flat deer grief embrace wheel tenant black lottery |  
-| bip_39_word_space_9 | flat deer grief embrace wheel tenant black lottery cat |  
-| bip_39_word_underscore_1 | flat |  
-| bip_39_word_underscore_10 | flat_deer_grief_embrace_wheel_tenant_black_lottery_cat_believe |  
-| bip_39_word_underscore_11 | flat_deer_grief_embrace_wheel_tenant_black_lottery_cat_believe_hint |  
-| bip_39_word_underscore_12 | flat_deer_grief_embrace_wheel_tenant_black_lottery_cat_believe_hint_amazing |  
-| bip_39_word_underscore_2 | flat_deer |  
-| bip_39_word_underscore_3 | flat_deer_grief |  
-| bip_39_word_underscore_4 | flat_deer_grief_embrace |  
-| bip_39_word_underscore_5 | flat_deer_grief_embrace_wheel |  
-| bip_39_word_underscore_6 | flat_deer_grief_embrace_wheel_tenant |  
-| bip_39_word_underscore_7 | flat_deer_grief_embrace_wheel_tenant_black |  
-| bip_39_word_underscore_8 | flat_deer_grief_embrace_wheel_tenant_black_lottery |  
-| bip_39_word_underscore_9 | flat_deer_grief_embrace_wheel_tenant_black_lottery_cat |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 10_07_18 |  
-| description_main_capital | 10 07.18 |  
-| description_main_first_letter | 1 |  
-| description_main_first_letter_upper | 1 |  
-| description_main_length_1 | 1 |  
-| description_main_length_2 | 10 |  
-| description_main_length_3 | 10_ |  
-| description_main_length_4 | 10_0 |  
-| description_main_length_5 | 10_07 |  
-| description_main_length_6 | 10_07_ |  
 | description_main_name | 10 07 18 |  
-| description_main_no_space_length_1 | 1 |  
-| description_main_no_space_length_2 | 10 |  
-| description_main_no_space_length_3 | 100 |  
-| description_main_no_space_length_4 | 1007 |  
-| description_main_no_space_length_5 | 10071 |  
-| description_main_no_space_length_6 | 100718 |  
-| description_main_no_space_upper_length_1 | 1 |  
-| description_main_no_space_upper_length_2 | 10 |  
-| description_main_no_space_upper_length_3 | 100 |  
-| description_main_no_space_upper_length_4 | 1007 |  
-| description_main_no_space_upper_length_5 | 10071 |  
-| description_main_no_space_upper_length_6 | 100718 |  
-| description_main_upper | 10_07_18 |  
-| description_main_upper_length_1 | 1 |  
-| description_main_upper_length_2 | 10 |  
-| description_main_upper_length_3 | 10_ |  
-| description_main_upper_length_4 | 10_0 |  
-| description_main_upper_length_5 | 10_07 |  
-| description_main_upper_length_6 | 10_07_ |  
-| description_only_numbers | 100718 |  
-| description_only_numbers_short | 101k |  
 | description_or_color | 101k |  
-| description_or_color_upper | 101K |  
 | directory | parts/oobb_part_tray_thin_10_07_18 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_07_18 |  
 | id | oobb_part_tray_thin_10_07_18 |  
-| id_no_class | part_tray_thin_10_07_18 |  
-| id_no_color | 100718 |  
-| id_no_size | 10_07_18 |  
-| id_no_type | tray_thin_10_07_18 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_07_18 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_07_18 |  
@@ -288,43 +79,23 @@ cat |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_07_18 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204vczp |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204vczp |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%204vczp |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204vczp |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_tray_thin_10_07_18](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_07_18)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_07_18)<br>[Oobb Part Tray Thin 10 07 18](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_07_18)<br><br> |  
 | markdown_short | [oobb_part_tray_thin_10_07_18](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_07_18)<br><br> |  
 | md5 | 7cd785291e8402df7c7d0488cd0e52c4 |  
 | md5_10 | 7cd785291e |  
-| md5_10_upper | 7CD785291E |  
 | md5_5 | 7cd78 |  
-| md5_5_upper | 7CD78 |  
 | md5_6 | 7cd785 |  
 | md5_6_alpha | 4vczp |  
-| md5_6_alpha_upper | 4VCZP |  
-| md5_6_upper | 7CD785 |  
 | name | Oobb Part Tray Thin 10 07 18 |  
-| name_no_class | Part Tray Thin 10 07 18 |  
-| name_no_color | 100718 |  
-| name_no_size | 10 07 18 |  
-| name_no_size_short | 10 07 18 |  
-| name_no_type | Tray Thin 10 07 18 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | tray_thin |  
-| oomlout_detail_hierarchy_3_upper | TRAY_THIN |  
-| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
 | oomlout_detail_hierarchy_4 | 10_07_18 |  
-| oomlout_detail_hierarchy_4_upper | 10_07_18 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 10_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_thin_10_07_18 |  
 | oomp_word | tv office bulb |  
@@ -332,76 +103,10 @@ cat |
 | oomp_word_emoji_list | [':tv:', ':office:', ':bulb:'] |  
 | oomp_word_list | ['tv', 'office', 'bulb'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | tray_thin |  
-| size_capital | Tray Thin |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_length_1 | t |  
-| size_length_2 | tr |  
-| size_length_3 | tra |  
-| size_length_4 | tray |  
-| size_length_5 | tray_ |  
-| size_length_6 | tray_t |  
 | size_name | Tray Thin |  
-| size_no_space_length_1 | t |  
-| size_no_space_length_2 | tr |  
-| size_no_space_length_3 | tra |  
-| size_no_space_length_4 | tray |  
-| size_no_space_length_5 | trayt |  
-| size_no_space_length_6 | trayth |  
-| size_no_space_upper_length_1 | T |  
-| size_no_space_upper_length_2 | TR |  
-| size_no_space_upper_length_3 | TRA |  
-| size_no_space_upper_length_4 | TRAY |  
-| size_no_space_upper_length_5 | TRAYT |  
-| size_no_space_upper_length_6 | TRAYTH |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TRAY_THIN |  
-| size_upper_length_1 | T |  
-| size_upper_length_2 | TR |  
-| size_upper_length_3 | TRA |  
-| size_upper_length_4 | TRAY |  
-| size_upper_length_5 | TRAY_ |  
-| size_upper_length_6 | TRAY_T |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

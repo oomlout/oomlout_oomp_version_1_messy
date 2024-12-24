@@ -1,5 +1,6 @@
 * [3_mm_diameter_d_shape_shaft](3_mm_diameter_d_shape_shaft)
   * [34_mm_diameter_9_mm_depth](3_mm_diameter_d_shape_shaft/34_mm_diameter_9_mm_depth)
+  * [80_mm_diameter_10_mm_depth](3_mm_diameter_d_shape_shaft/80_mm_diameter_10_mm_depth)
 * [caster](caster)
   * [100_mm_diameter_red_rubber_wheel](caster/100_mm_diameter_red_rubber_wheel)
     * [93_mm_width_62_mm_height_bracket_m8_mounting_hole](caster/100_mm_diameter_red_rubber_wheel/93_mm_width_62_mm_height_bracket_m8_mounting_hole)

@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2076ask)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2076ask)
 [2x1](http://192.168.1.242:1112/?label=oomp%2076ask)
 [6x4](http://192.168.1.55:1112/?label=oomp%2076ask)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | cry |  
-| bip_39_word_dash_10 | cry-cover-assume-soda-random-alert-song-ocean-vanish-name |  
-| bip_39_word_dash_11 | cry-cover-assume-soda-random-alert-song-ocean-vanish-name-various |  
-| bip_39_word_dash_12 | cry-cover-assume-soda-random-alert-song-ocean-vanish-name-various-arena |  
-| bip_39_word_dash_2 | cry-cover |  
-| bip_39_word_dash_3 | cry-cover-assume |  
-| bip_39_word_dash_4 | cry-cover-assume-soda |  
-| bip_39_word_dash_5 | cry-cover-assume-soda-random |  
-| bip_39_word_dash_6 | cry-cover-assume-soda-random-alert |  
-| bip_39_word_dash_7 | cry-cover-assume-soda-random-alert-song |  
-| bip_39_word_dash_8 | cry-cover-assume-soda-random-alert-song-ocean |  
-| bip_39_word_dash_9 | cry-cover-assume-soda-random-alert-song-ocean-vanish |  
-| bip_39_word_new_br_1 | cry |  
-| bip_39_word_new_br_10 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name |  
-| bip_39_word_new_br_11 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name<br>various |  
-| bip_39_word_new_br_12 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name<br>various<br>arena |  
-| bip_39_word_new_br_2 | cry<br>cover |  
-| bip_39_word_new_br_3 | cry<br>cover<br>assume |  
-| bip_39_word_new_br_4 | cry<br>cover<br>assume<br>soda |  
-| bip_39_word_new_br_5 | cry<br>cover<br>assume<br>soda<br>random |  
-| bip_39_word_new_br_6 | cry<br>cover<br>assume<br>soda<br>random<br>alert |  
-| bip_39_word_new_br_7 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song |  
-| bip_39_word_new_br_8 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean |  
-| bip_39_word_new_br_9 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish |  
-| bip_39_word_new_line_1 | cry |  
-| bip_39_word_new_line_10 | cry
-cover
-assume
-soda
-random
-alert
-song
-ocean
-vanish
-name |  
-| bip_39_word_new_line_11 | cry
-cover
-assume
-soda
-random
-alert
-song
-ocean
-vanish
-name
-various |  
-| bip_39_word_new_line_12 | cry
-cover
-assume
-soda
-random
-alert
-song
-ocean
-vanish
-name
-various
-arena |  
-| bip_39_word_new_line_2 | cry
-cover |  
-| bip_39_word_new_line_3 | cry
-cover
-assume |  
-| bip_39_word_new_line_4 | cry
-cover
-assume
-soda |  
-| bip_39_word_new_line_5 | cry
-cover
-assume
-soda
-random |  
-| bip_39_word_new_line_6 | cry
-cover
-assume
-soda
-random
-alert |  
-| bip_39_word_new_line_7 | cry
-cover
-assume
-soda
-random
-alert
-song |  
-| bip_39_word_new_line_8 | cry
-cover
-assume
-soda
-random
-alert
-song
-ocean |  
-| bip_39_word_new_line_9 | cry
-cover
-assume
-soda
-random
-alert
-song
-ocean
-vanish |  
-| bip_39_word_no_space_1 | cry |  
-| bip_39_word_no_space_10 | crycoverassumesodarandomalertsongoceanvanishname |  
-| bip_39_word_no_space_11 | crycoverassumesodarandomalertsongoceanvanishnamevarious |  
-| bip_39_word_no_space_12 | crycoverassumesodarandomalertsongoceanvanishnamevariousarena |  
-| bip_39_word_no_space_2 | crycover |  
-| bip_39_word_no_space_3 | crycoverassume |  
-| bip_39_word_no_space_4 | crycoverassumesoda |  
-| bip_39_word_no_space_5 | crycoverassumesodarandom |  
-| bip_39_word_no_space_6 | crycoverassumesodarandomalert |  
-| bip_39_word_no_space_7 | crycoverassumesodarandomalertsong |  
-| bip_39_word_no_space_8 | crycoverassumesodarandomalertsongocean |  
-| bip_39_word_no_space_9 | crycoverassumesodarandomalertsongoceanvanish |  
-| bip_39_word_space_0 | ['cry', 'cover', 'assume', 'soda', 'random', 'alert', 'song', 'ocean', 'vanish', 'name', 'various', 'arena'] |  
-| bip_39_word_space_1 | cry |  
-| bip_39_word_space_10 | cry cover assume soda random alert song ocean vanish name |  
-| bip_39_word_space_11 | cry cover assume soda random alert song ocean vanish name various |  
-| bip_39_word_space_12 | cry cover assume soda random alert song ocean vanish name various arena |  
-| bip_39_word_space_2 | cry cover |  
-| bip_39_word_space_3 | cry cover assume |  
-| bip_39_word_space_4 | cry cover assume soda |  
-| bip_39_word_space_5 | cry cover assume soda random |  
-| bip_39_word_space_6 | cry cover assume soda random alert |  
-| bip_39_word_space_7 | cry cover assume soda random alert song |  
-| bip_39_word_space_8 | cry cover assume soda random alert song ocean |  
-| bip_39_word_space_9 | cry cover assume soda random alert song ocean vanish |  
-| bip_39_word_underscore_1 | cry |  
-| bip_39_word_underscore_10 | cry_cover_assume_soda_random_alert_song_ocean_vanish_name |  
-| bip_39_word_underscore_11 | cry_cover_assume_soda_random_alert_song_ocean_vanish_name_various |  
-| bip_39_word_underscore_12 | cry_cover_assume_soda_random_alert_song_ocean_vanish_name_various_arena |  
-| bip_39_word_underscore_2 | cry_cover |  
-| bip_39_word_underscore_3 | cry_cover_assume |  
-| bip_39_word_underscore_4 | cry_cover_assume_soda |  
-| bip_39_word_underscore_5 | cry_cover_assume_soda_random |  
-| bip_39_word_underscore_6 | cry_cover_assume_soda_random_alert |  
-| bip_39_word_underscore_7 | cry_cover_assume_soda_random_alert_song |  
-| bip_39_word_underscore_8 | cry_cover_assume_soda_random_alert_song_ocean |  
-| bip_39_word_underscore_9 | cry_cover_assume_soda_random_alert_song_ocean_vanish |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 13_01_30 |  
-| description_main_capital | 13 01.30 |  
-| description_main_first_letter | 1 |  
-| description_main_first_letter_upper | 1 |  
-| description_main_length_1 | 1 |  
-| description_main_length_2 | 13 |  
-| description_main_length_3 | 13_ |  
-| description_main_length_4 | 13_0 |  
-| description_main_length_5 | 13_01 |  
-| description_main_length_6 | 13_01_ |  
 | description_main_name | 13 01 30 |  
-| description_main_no_space_length_1 | 1 |  
-| description_main_no_space_length_2 | 13 |  
-| description_main_no_space_length_3 | 130 |  
-| description_main_no_space_length_4 | 1301 |  
-| description_main_no_space_length_5 | 13013 |  
-| description_main_no_space_length_6 | 130130 |  
-| description_main_no_space_upper_length_1 | 1 |  
-| description_main_no_space_upper_length_2 | 13 |  
-| description_main_no_space_upper_length_3 | 130 |  
-| description_main_no_space_upper_length_4 | 1301 |  
-| description_main_no_space_upper_length_5 | 13013 |  
-| description_main_no_space_upper_length_6 | 130130 |  
-| description_main_upper | 13_01_30 |  
-| description_main_upper_length_1 | 1 |  
-| description_main_upper_length_2 | 13 |  
-| description_main_upper_length_3 | 13_ |  
-| description_main_upper_length_4 | 13_0 |  
-| description_main_upper_length_5 | 13_01 |  
-| description_main_upper_length_6 | 13_01_ |  
-| description_only_numbers | 130130 |  
-| description_only_numbers_short | 130k |  
 | description_or_color | 130k |  
-| description_or_color_upper | 130K |  
 | directory | parts/oobb_part_tray_thin_13_01_30 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_01_30 |  
 | id | oobb_part_tray_thin_13_01_30 |  
-| id_no_class | part_tray_thin_13_01_30 |  
-| id_no_color | 130130 |  
-| id_no_size | 13_01_30 |  
-| id_no_type | tray_thin_13_01_30 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_01_30 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_01_30 |  
@@ -288,43 +79,23 @@ vanish |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_01_30 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2076ask |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2076ask |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2076ask |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2076ask |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_tray_thin_13_01_30](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_01_30)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_01_30)<br>[Oobb Part Tray Thin 13 01 30](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_01_30)<br><br> |  
 | markdown_short | [oobb_part_tray_thin_13_01_30](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_01_30)<br><br> |  
 | md5 | b7e324b78a98f9e418d8dce21bcc61a9 |  
 | md5_10 | b7e324b78a |  
-| md5_10_upper | B7E324B78A |  
 | md5_5 | b7e32 |  
-| md5_5_upper | B7E32 |  
 | md5_6 | b7e324 |  
 | md5_6_alpha | 76ask |  
-| md5_6_alpha_upper | 76ASK |  
-| md5_6_upper | B7E324 |  
 | name | Oobb Part Tray Thin 13 01 30 |  
-| name_no_class | Part Tray Thin 13 01 30 |  
-| name_no_color | 130130 |  
-| name_no_size | 13 01 30 |  
-| name_no_size_short | 13 01 30 |  
-| name_no_type | Tray Thin 13 01 30 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | tray_thin |  
-| oomlout_detail_hierarchy_3_upper | TRAY_THIN |  
-| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
 | oomlout_detail_hierarchy_4 | 13_01_30 |  
-| oomlout_detail_hierarchy_4_upper | 13_01_30 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 13_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_thin_13_01_30 |  
 | oomp_word | pizza rowboat droplet |  
@@ -332,76 +103,10 @@ vanish |
 | oomp_word_emoji_list | [':pizza:', ':rowboat:', ':droplet:'] |  
 | oomp_word_list | ['pizza', 'rowboat', 'droplet'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | tray_thin |  
-| size_capital | Tray Thin |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_length_1 | t |  
-| size_length_2 | tr |  
-| size_length_3 | tra |  
-| size_length_4 | tray |  
-| size_length_5 | tray_ |  
-| size_length_6 | tray_t |  
 | size_name | Tray Thin |  
-| size_no_space_length_1 | t |  
-| size_no_space_length_2 | tr |  
-| size_no_space_length_3 | tra |  
-| size_no_space_length_4 | tray |  
-| size_no_space_length_5 | trayt |  
-| size_no_space_length_6 | trayth |  
-| size_no_space_upper_length_1 | T |  
-| size_no_space_upper_length_2 | TR |  
-| size_no_space_upper_length_3 | TRA |  
-| size_no_space_upper_length_4 | TRAY |  
-| size_no_space_upper_length_5 | TRAYT |  
-| size_no_space_upper_length_6 | TRAYTH |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TRAY_THIN |  
-| size_upper_length_1 | T |  
-| size_upper_length_2 | TR |  
-| size_upper_length_3 | TRA |  
-| size_upper_length_4 | TRAY |  
-| size_upper_length_5 | TRAY_ |  
-| size_upper_length_6 | TRAY_T |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

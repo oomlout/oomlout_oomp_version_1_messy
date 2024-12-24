@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2024ex8)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2024ex8)
 [2x1](http://192.168.1.242:1112/?label=oomp%2024ex8)
 [6x4](http://192.168.1.55:1112/?label=oomp%2024ex8)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | speed |  
-| bip_39_word_dash_10 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase-cluster-cost |  
-| bip_39_word_dash_11 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase-cluster-cost-crew |  
-| bip_39_word_dash_12 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase-cluster-cost-crew-address |  
-| bip_39_word_dash_2 | speed-flee |  
-| bip_39_word_dash_3 | speed-flee-uncle |  
-| bip_39_word_dash_4 | speed-flee-uncle-forget |  
-| bip_39_word_dash_5 | speed-flee-uncle-forget-umbrella |  
-| bip_39_word_dash_6 | speed-flee-uncle-forget-umbrella-forest |  
-| bip_39_word_dash_7 | speed-flee-uncle-forget-umbrella-forest-impulse |  
-| bip_39_word_dash_8 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase |  
-| bip_39_word_dash_9 | speed-flee-uncle-forget-umbrella-forest-impulse-phrase-cluster |  
-| bip_39_word_new_br_1 | speed |  
-| bip_39_word_new_br_10 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost |  
-| bip_39_word_new_br_11 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost<br>crew |  
-| bip_39_word_new_br_12 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster<br>cost<br>crew<br>address |  
-| bip_39_word_new_br_2 | speed<br>flee |  
-| bip_39_word_new_br_3 | speed<br>flee<br>uncle |  
-| bip_39_word_new_br_4 | speed<br>flee<br>uncle<br>forget |  
-| bip_39_word_new_br_5 | speed<br>flee<br>uncle<br>forget<br>umbrella |  
-| bip_39_word_new_br_6 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest |  
-| bip_39_word_new_br_7 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse |  
-| bip_39_word_new_br_8 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase |  
-| bip_39_word_new_br_9 | speed<br>flee<br>uncle<br>forget<br>umbrella<br>forest<br>impulse<br>phrase<br>cluster |  
-| bip_39_word_new_line_1 | speed |  
-| bip_39_word_new_line_10 | speed
-flee
-uncle
-forget
-umbrella
-forest
-impulse
-phrase
-cluster
-cost |  
-| bip_39_word_new_line_11 | speed
-flee
-uncle
-forget
-umbrella
-forest
-impulse
-phrase
-cluster
-cost
-crew |  
-| bip_39_word_new_line_12 | speed
-flee
-uncle
-forget
-umbrella
-forest
-impulse
-phrase
-cluster
-cost
-crew
-address |  
-| bip_39_word_new_line_2 | speed
-flee |  
-| bip_39_word_new_line_3 | speed
-flee
-uncle |  
-| bip_39_word_new_line_4 | speed
-flee
-uncle
-forget |  
-| bip_39_word_new_line_5 | speed
-flee
-uncle
-forget
-umbrella |  
-| bip_39_word_new_line_6 | speed
-flee
-uncle
-forget
-umbrella
-forest |  
-| bip_39_word_new_line_7 | speed
-flee
-uncle
-forget
-umbrella
-forest
-impulse |  
-| bip_39_word_new_line_8 | speed
-flee
-uncle
-forget
-umbrella
-forest
-impulse
-phrase |  
-| bip_39_word_new_line_9 | speed
-flee
-uncle
-forget
-umbrella
-forest
-impulse
-phrase
-cluster |  
-| bip_39_word_no_space_1 | speed |  
-| bip_39_word_no_space_10 | speedfleeuncleforgetumbrellaforestimpulsephraseclustercost |  
-| bip_39_word_no_space_11 | speedfleeuncleforgetumbrellaforestimpulsephraseclustercostcrew |  
-| bip_39_word_no_space_12 | speedfleeuncleforgetumbrellaforestimpulsephraseclustercostcrewaddress |  
-| bip_39_word_no_space_2 | speedflee |  
-| bip_39_word_no_space_3 | speedfleeuncle |  
-| bip_39_word_no_space_4 | speedfleeuncleforget |  
-| bip_39_word_no_space_5 | speedfleeuncleforgetumbrella |  
-| bip_39_word_no_space_6 | speedfleeuncleforgetumbrellaforest |  
-| bip_39_word_no_space_7 | speedfleeuncleforgetumbrellaforestimpulse |  
-| bip_39_word_no_space_8 | speedfleeuncleforgetumbrellaforestimpulsephrase |  
-| bip_39_word_no_space_9 | speedfleeuncleforgetumbrellaforestimpulsephrasecluster |  
-| bip_39_word_space_0 | ['speed', 'flee', 'uncle', 'forget', 'umbrella', 'forest', 'impulse', 'phrase', 'cluster', 'cost', 'crew', 'address'] |  
-| bip_39_word_space_1 | speed |  
-| bip_39_word_space_10 | speed flee uncle forget umbrella forest impulse phrase cluster cost |  
-| bip_39_word_space_11 | speed flee uncle forget umbrella forest impulse phrase cluster cost crew |  
-| bip_39_word_space_12 | speed flee uncle forget umbrella forest impulse phrase cluster cost crew address |  
-| bip_39_word_space_2 | speed flee |  
-| bip_39_word_space_3 | speed flee uncle |  
-| bip_39_word_space_4 | speed flee uncle forget |  
-| bip_39_word_space_5 | speed flee uncle forget umbrella |  
-| bip_39_word_space_6 | speed flee uncle forget umbrella forest |  
-| bip_39_word_space_7 | speed flee uncle forget umbrella forest impulse |  
-| bip_39_word_space_8 | speed flee uncle forget umbrella forest impulse phrase |  
-| bip_39_word_space_9 | speed flee uncle forget umbrella forest impulse phrase cluster |  
-| bip_39_word_underscore_1 | speed |  
-| bip_39_word_underscore_10 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase_cluster_cost |  
-| bip_39_word_underscore_11 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase_cluster_cost_crew |  
-| bip_39_word_underscore_12 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase_cluster_cost_crew_address |  
-| bip_39_word_underscore_2 | speed_flee |  
-| bip_39_word_underscore_3 | speed_flee_uncle |  
-| bip_39_word_underscore_4 | speed_flee_uncle_forget |  
-| bip_39_word_underscore_5 | speed_flee_uncle_forget_umbrella |  
-| bip_39_word_underscore_6 | speed_flee_uncle_forget_umbrella_forest |  
-| bip_39_word_underscore_7 | speed_flee_uncle_forget_umbrella_forest_impulse |  
-| bip_39_word_underscore_8 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase |  
-| bip_39_word_underscore_9 | speed_flee_uncle_forget_umbrella_forest_impulse_phrase_cluster |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | hardware_nut_m6 |  
-| description_main_capital | Hardware Nut M6 |  
-| description_main_first_letter | h |  
-| description_main_first_letter_upper | H |  
-| description_main_length_1 | h |  
-| description_main_length_2 | ha |  
-| description_main_length_3 | har |  
-| description_main_length_4 | hard |  
-| description_main_length_5 | hardw |  
-| description_main_length_6 | hardwa |  
 | description_main_name | Hardware Nut M6 |  
-| description_main_no_space_length_1 | h |  
-| description_main_no_space_length_2 | ha |  
-| description_main_no_space_length_3 | har |  
-| description_main_no_space_length_4 | hard |  
-| description_main_no_space_length_5 | hardw |  
-| description_main_no_space_length_6 | hardwa |  
-| description_main_no_space_upper_length_1 | H |  
-| description_main_no_space_upper_length_2 | HA |  
-| description_main_no_space_upper_length_3 | HAR |  
-| description_main_no_space_upper_length_4 | HARD |  
-| description_main_no_space_upper_length_5 | HARDW |  
-| description_main_no_space_upper_length_6 | HARDWA |  
-| description_main_upper | HARDWARE_NUT_M6 |  
-| description_main_upper_length_1 | H |  
-| description_main_upper_length_2 | HA |  
-| description_main_upper_length_3 | HAR |  
-| description_main_upper_length_4 | HARD |  
-| description_main_upper_length_5 | HARDW |  
-| description_main_upper_length_6 | HARDWA |  
-| description_only_numbers | 6 |  
-| description_only_numbers_short | 6 |  
 | description_or_color | 6 |  
-| description_or_color_upper | 6 |  
 | directory | parts/oobb_part_nut_hardware_nut_m6 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m6 |  
 | id | oobb_part_nut_hardware_nut_m6 |  
-| id_no_class | part_nut_hardware_nut_m6 |  
-| id_no_color | hardwarem6 |  
-| id_no_size | hardware_m6 |  
-| id_no_type | nut_hardware_nut_m6 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m6 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m6 |  
@@ -288,43 +79,23 @@ cluster |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m6 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2024ex8 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2024ex8 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2024ex8 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2024ex8 |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_nut_hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m6)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m6)<br>[Oobb Part Nut Hardware Nut M6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m6)<br><br> |  
 | markdown_short | [oobb_part_nut_hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m6)<br><br> |  
 | md5 | 36668c2963a3ce456cf615b5d9163688 |  
 | md5_10 | 36668c2963 |  
-| md5_10_upper | 36668C2963 |  
 | md5_5 | 36668 |  
-| md5_5_upper | 36668 |  
 | md5_6 | 36668c |  
 | md5_6_alpha | 24ex8 |  
-| md5_6_alpha_upper | 24EX8 |  
-| md5_6_upper | 36668C |  
 | name | Oobb Part Nut Hardware Nut M6 |  
-| name_no_class | Part Nut Hardware Nut M6 |  
-| name_no_color | Hardwarem6 |  
-| name_no_size | Hardware M6 |  
-| name_no_size_short | Hardware M6 |  
-| name_no_type | Nut Hardware Nut M6 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | nut |  
-| oomlout_detail_hierarchy_3_upper | NUT |  
-| oomlout_detail_hierarchy_3_upper_length_4 | NUT |  
 | oomlout_detail_hierarchy_4 | hardware_nut_m6 |  
-| oomlout_detail_hierarchy_4_upper | HARDWARE_NUT_M6 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | HARD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_nut_hardware_nut_m6 |  
 | oomp_word | rabbit leaves pill |  
@@ -332,76 +103,10 @@ cluster |
 | oomp_word_emoji_list | [':rabbit:', ':leaves:', ':pill:'] |  
 | oomp_word_list | ['rabbit', 'leaves', 'pill'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | nut |  
-| size_capital | Nut |  
-| size_first_letter | n |  
-| size_first_letter_upper | N |  
-| size_length_1 | n |  
-| size_length_2 | nu |  
-| size_length_3 | nut |  
-| size_length_4 | nut |  
-| size_length_5 | nut |  
-| size_length_6 | nut |  
 | size_name | Nut |  
-| size_no_space_length_1 | n |  
-| size_no_space_length_2 | nu |  
-| size_no_space_length_3 | nut |  
-| size_no_space_length_4 | nut |  
-| size_no_space_length_5 | nut |  
-| size_no_space_length_6 | nut |  
-| size_no_space_upper_length_1 | N |  
-| size_no_space_upper_length_2 | NU |  
-| size_no_space_upper_length_3 | NUT |  
-| size_no_space_upper_length_4 | NUT |  
-| size_no_space_upper_length_5 | NUT |  
-| size_no_space_upper_length_6 | NUT |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | NUT |  
-| size_upper_length_1 | N |  
-| size_upper_length_2 | NU |  
-| size_upper_length_3 | NUT |  
-| size_upper_length_4 | NUT |  
-| size_upper_length_5 | NUT |  
-| size_upper_length_6 | NUT |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

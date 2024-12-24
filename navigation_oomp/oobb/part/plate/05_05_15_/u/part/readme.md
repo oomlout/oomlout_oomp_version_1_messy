@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2069d8w)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2069d8w)
 [2x1](http://192.168.1.242:1112/?label=oomp%2069d8w)
 [6x4](http://192.168.1.55:1112/?label=oomp%2069d8w)    
 
@@ -58,253 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | bronze |  
-| bip_39_word_dash_10 | bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose |  
-| bip_39_word_dash_11 | bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose-december |  
-| bip_39_word_dash_12 | bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose-december-anxiety |  
-| bip_39_word_dash_2 | bronze-destroy |  
-| bip_39_word_dash_3 | bronze-destroy-initial |  
-| bip_39_word_dash_4 | bronze-destroy-initial-special |  
-| bip_39_word_dash_5 | bronze-destroy-initial-special-repeat |  
-| bip_39_word_dash_6 | bronze-destroy-initial-special-repeat-soda |  
-| bip_39_word_dash_7 | bronze-destroy-initial-special-repeat-soda-relax |  
-| bip_39_word_dash_8 | bronze-destroy-initial-special-repeat-soda-relax-bicycle |  
-| bip_39_word_dash_9 | bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos |  
-| bip_39_word_new_br_1 | bronze |  
-| bip_39_word_new_br_10 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose |  
-| bip_39_word_new_br_11 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose<br>december |  
-| bip_39_word_new_br_12 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose<br>december<br>anxiety |  
-| bip_39_word_new_br_2 | bronze<br>destroy |  
-| bip_39_word_new_br_3 | bronze<br>destroy<br>initial |  
-| bip_39_word_new_br_4 | bronze<br>destroy<br>initial<br>special |  
-| bip_39_word_new_br_5 | bronze<br>destroy<br>initial<br>special<br>repeat |  
-| bip_39_word_new_br_6 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda |  
-| bip_39_word_new_br_7 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax |  
-| bip_39_word_new_br_8 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle |  
-| bip_39_word_new_br_9 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos |  
-| bip_39_word_new_line_1 | bronze |  
-| bip_39_word_new_line_10 | bronze
-destroy
-initial
-special
-repeat
-soda
-relax
-bicycle
-chaos
-dose |  
-| bip_39_word_new_line_11 | bronze
-destroy
-initial
-special
-repeat
-soda
-relax
-bicycle
-chaos
-dose
-december |  
-| bip_39_word_new_line_12 | bronze
-destroy
-initial
-special
-repeat
-soda
-relax
-bicycle
-chaos
-dose
-december
-anxiety |  
-| bip_39_word_new_line_2 | bronze
-destroy |  
-| bip_39_word_new_line_3 | bronze
-destroy
-initial |  
-| bip_39_word_new_line_4 | bronze
-destroy
-initial
-special |  
-| bip_39_word_new_line_5 | bronze
-destroy
-initial
-special
-repeat |  
-| bip_39_word_new_line_6 | bronze
-destroy
-initial
-special
-repeat
-soda |  
-| bip_39_word_new_line_7 | bronze
-destroy
-initial
-special
-repeat
-soda
-relax |  
-| bip_39_word_new_line_8 | bronze
-destroy
-initial
-special
-repeat
-soda
-relax
-bicycle |  
-| bip_39_word_new_line_9 | bronze
-destroy
-initial
-special
-repeat
-soda
-relax
-bicycle
-chaos |  
-| bip_39_word_no_space_1 | bronze |  
-| bip_39_word_no_space_10 | bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdose |  
-| bip_39_word_no_space_11 | bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdosedecember |  
-| bip_39_word_no_space_12 | bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdosedecemberanxiety |  
-| bip_39_word_no_space_2 | bronzedestroy |  
-| bip_39_word_no_space_3 | bronzedestroyinitial |  
-| bip_39_word_no_space_4 | bronzedestroyinitialspecial |  
-| bip_39_word_no_space_5 | bronzedestroyinitialspecialrepeat |  
-| bip_39_word_no_space_6 | bronzedestroyinitialspecialrepeatsoda |  
-| bip_39_word_no_space_7 | bronzedestroyinitialspecialrepeatsodarelax |  
-| bip_39_word_no_space_8 | bronzedestroyinitialspecialrepeatsodarelaxbicycle |  
-| bip_39_word_no_space_9 | bronzedestroyinitialspecialrepeatsodarelaxbicyclechaos |  
-| bip_39_word_space_0 | ['bronze', 'destroy', 'initial', 'special', 'repeat', 'soda', 'relax', 'bicycle', 'chaos', 'dose', 'december', 'anxiety'] |  
-| bip_39_word_space_1 | bronze |  
-| bip_39_word_space_10 | bronze destroy initial special repeat soda relax bicycle chaos dose |  
-| bip_39_word_space_11 | bronze destroy initial special repeat soda relax bicycle chaos dose december |  
-| bip_39_word_space_12 | bronze destroy initial special repeat soda relax bicycle chaos dose december anxiety |  
-| bip_39_word_space_2 | bronze destroy |  
-| bip_39_word_space_3 | bronze destroy initial |  
-| bip_39_word_space_4 | bronze destroy initial special |  
-| bip_39_word_space_5 | bronze destroy initial special repeat |  
-| bip_39_word_space_6 | bronze destroy initial special repeat soda |  
-| bip_39_word_space_7 | bronze destroy initial special repeat soda relax |  
-| bip_39_word_space_8 | bronze destroy initial special repeat soda relax bicycle |  
-| bip_39_word_space_9 | bronze destroy initial special repeat soda relax bicycle chaos |  
-| bip_39_word_underscore_1 | bronze |  
-| bip_39_word_underscore_10 | bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose |  
-| bip_39_word_underscore_11 | bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose_december |  
-| bip_39_word_underscore_12 | bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose_december_anxiety |  
-| bip_39_word_underscore_2 | bronze_destroy |  
-| bip_39_word_underscore_3 | bronze_destroy_initial |  
-| bip_39_word_underscore_4 | bronze_destroy_initial_special |  
-| bip_39_word_underscore_5 | bronze_destroy_initial_special_repeat |  
-| bip_39_word_underscore_6 | bronze_destroy_initial_special_repeat_soda |  
-| bip_39_word_underscore_7 | bronze_destroy_initial_special_repeat_soda_relax |  
-| bip_39_word_underscore_8 | bronze_destroy_initial_special_repeat_soda_relax_bicycle |  
-| bip_39_word_underscore_9 | bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra | u |  
-| description_extra_capital | U |  
-| description_extra_first_letter | u |  
-| description_extra_first_letter_upper | U |  
-| description_extra_length_1 | u |  
-| description_extra_length_2 | u |  
-| description_extra_length_3 | u |  
-| description_extra_length_4 | u |  
-| description_extra_length_5 | u |  
-| description_extra_length_6 | u |  
 | description_extra_name | U |  
-| description_extra_no_space_length_1 | u |  
-| description_extra_no_space_length_2 | u |  
-| description_extra_no_space_length_3 | u |  
-| description_extra_no_space_length_4 | u |  
-| description_extra_no_space_length_5 | u |  
-| description_extra_no_space_length_6 | u |  
-| description_extra_no_space_upper_length_1 | U |  
-| description_extra_no_space_upper_length_2 | U |  
-| description_extra_no_space_upper_length_3 | U |  
-| description_extra_no_space_upper_length_4 | U |  
-| description_extra_no_space_upper_length_5 | U |  
-| description_extra_no_space_upper_length_6 | U |  
-| description_extra_upper | U |  
-| description_extra_upper_length_1 | U |  
-| description_extra_upper_length_2 | U |  
-| description_extra_upper_length_3 | U |  
-| description_extra_upper_length_4 | U |  
-| description_extra_upper_length_5 | U |  
-| description_extra_upper_length_6 | U |  
 | description_main | 05_05_15_ |  
-| description_main_capital | 05 05.15  |  
-| description_main_first_letter | 0 |  
-| description_main_first_letter_upper | 0 |  
-| description_main_length_1 | 0 |  
-| description_main_length_2 | 05 |  
-| description_main_length_3 | 05_ |  
-| description_main_length_4 | 05_0 |  
-| description_main_length_5 | 05_05 |  
-| description_main_length_6 | 05_05_ |  
 | description_main_name | 05 05 15  |  
-| description_main_no_space_length_1 | 0 |  
-| description_main_no_space_length_2 | 05 |  
-| description_main_no_space_length_3 | 050 |  
-| description_main_no_space_length_4 | 0505 |  
-| description_main_no_space_length_5 | 05051 |  
-| description_main_no_space_length_6 | 050515 |  
-| description_main_no_space_upper_length_1 | 0 |  
-| description_main_no_space_upper_length_2 | 05 |  
-| description_main_no_space_upper_length_3 | 050 |  
-| description_main_no_space_upper_length_4 | 0505 |  
-| description_main_no_space_upper_length_5 | 05051 |  
-| description_main_no_space_upper_length_6 | 050515 |  
-| description_main_upper | 05_05_15_ |  
-| description_main_upper_length_1 | 0 |  
-| description_main_upper_length_2 | 05 |  
-| description_main_upper_length_3 | 05_ |  
-| description_main_upper_length_4 | 05_0 |  
-| description_main_upper_length_5 | 05_05 |  
-| description_main_upper_length_6 | 05_05_ |  
-| description_only_numbers | 050515 |  
-| description_only_numbers_short | 51k |  
 | description_or_color | 51k |  
-| description_or_color_upper | 51K |  
 | directory | parts/oobb_part_plate_05_05_15__u |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_15__u |  
 | id | oobb_part_plate_05_05_15__u |  
-| id_no_class | part_plate_05_05_15__u |  
-| id_no_color | 050515u |  
-| id_no_size | 05_05_15__u |  
-| id_no_type | plate_05_05_15__u |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_15__u |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_15__u |  
@@ -312,46 +79,24 @@ chaos |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_15__u |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2069d8w |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2069d8w |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2069d8w |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2069d8w |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_plate_05_05_15__u](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_15__u)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_15__u)<br>[Oobb Part Plate 05 05 15  U](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_15__u)<br><br> |  
 | markdown_short | [oobb_part_plate_05_05_15__u](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_15__u)<br><br> |  
 | md5 | a07150613215f6a338db5d0ee7cf08e5 |  
 | md5_10 | a071506132 |  
-| md5_10_upper | A071506132 |  
 | md5_5 | a0715 |  
-| md5_5_upper | A0715 |  
 | md5_6 | a07150 |  
 | md5_6_alpha | 69d8w |  
-| md5_6_alpha_upper | 69D8W |  
-| md5_6_upper | A07150 |  
 | name | Oobb Part Plate 05 05 15  U |  
-| name_no_class | Part Plate 05 05 15  U |  
-| name_no_color | 050515U |  
-| name_no_size | 05 05 15  U |  
-| name_no_size_short | 05 05 15  U |  
-| name_no_type | Plate 05 05 15  U |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | plate |  
-| oomlout_detail_hierarchy_3_upper | PLATE |  
-| oomlout_detail_hierarchy_3_upper_length_4 | PLAT |  
 | oomlout_detail_hierarchy_4 | 05_05_15_ |  
-| oomlout_detail_hierarchy_4_upper | 05_05_15_ |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
 | oomlout_detail_hierarchy_5 | u |  
-| oomlout_detail_hierarchy_5_upper | U |  
-| oomlout_detail_hierarchy_5_upper_length_4 | U |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_05_05_15__u |  
 | oomp_word | ring bamboo beetle |  
@@ -359,76 +104,10 @@ chaos |
 | oomp_word_emoji_list | [':ring:', ':bamboo:', ':beetle:'] |  
 | oomp_word_list | ['ring', 'bamboo', 'beetle'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | plate |  
-| size_capital | Plate |  
-| size_first_letter | p |  
-| size_first_letter_upper | P |  
-| size_length_1 | p |  
-| size_length_2 | pl |  
-| size_length_3 | pla |  
-| size_length_4 | plat |  
-| size_length_5 | plate |  
-| size_length_6 | plate |  
 | size_name | Plate |  
-| size_no_space_length_1 | p |  
-| size_no_space_length_2 | pl |  
-| size_no_space_length_3 | pla |  
-| size_no_space_length_4 | plat |  
-| size_no_space_length_5 | plate |  
-| size_no_space_length_6 | plate |  
-| size_no_space_upper_length_1 | P |  
-| size_no_space_upper_length_2 | PL |  
-| size_no_space_upper_length_3 | PLA |  
-| size_no_space_upper_length_4 | PLAT |  
-| size_no_space_upper_length_5 | PLATE |  
-| size_no_space_upper_length_6 | PLATE |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | PLATE |  
-| size_upper_length_1 | P |  
-| size_upper_length_2 | PL |  
-| size_upper_length_3 | PLA |  
-| size_upper_length_4 | PLAT |  
-| size_upper_length_5 | PLATE |  
-| size_upper_length_6 | PLATE |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

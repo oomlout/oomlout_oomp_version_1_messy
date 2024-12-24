@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%204jo3r)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%204jo3r)
 [2x1](http://192.168.1.242:1112/?label=oomp%204jo3r)
 [6x4](http://192.168.1.55:1112/?label=oomp%204jo3r)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | chief |  
-| bip_39_word_dash_10 | chief-donkey-arrow-industry-humble-ticket-script-winner-wear-bulb |  
-| bip_39_word_dash_11 | chief-donkey-arrow-industry-humble-ticket-script-winner-wear-bulb-draw |  
-| bip_39_word_dash_12 | chief-donkey-arrow-industry-humble-ticket-script-winner-wear-bulb-draw-also |  
-| bip_39_word_dash_2 | chief-donkey |  
-| bip_39_word_dash_3 | chief-donkey-arrow |  
-| bip_39_word_dash_4 | chief-donkey-arrow-industry |  
-| bip_39_word_dash_5 | chief-donkey-arrow-industry-humble |  
-| bip_39_word_dash_6 | chief-donkey-arrow-industry-humble-ticket |  
-| bip_39_word_dash_7 | chief-donkey-arrow-industry-humble-ticket-script |  
-| bip_39_word_dash_8 | chief-donkey-arrow-industry-humble-ticket-script-winner |  
-| bip_39_word_dash_9 | chief-donkey-arrow-industry-humble-ticket-script-winner-wear |  
-| bip_39_word_new_br_1 | chief |  
-| bip_39_word_new_br_10 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb |  
-| bip_39_word_new_br_11 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb<br>draw |  
-| bip_39_word_new_br_12 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear<br>bulb<br>draw<br>also |  
-| bip_39_word_new_br_2 | chief<br>donkey |  
-| bip_39_word_new_br_3 | chief<br>donkey<br>arrow |  
-| bip_39_word_new_br_4 | chief<br>donkey<br>arrow<br>industry |  
-| bip_39_word_new_br_5 | chief<br>donkey<br>arrow<br>industry<br>humble |  
-| bip_39_word_new_br_6 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket |  
-| bip_39_word_new_br_7 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script |  
-| bip_39_word_new_br_8 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner |  
-| bip_39_word_new_br_9 | chief<br>donkey<br>arrow<br>industry<br>humble<br>ticket<br>script<br>winner<br>wear |  
-| bip_39_word_new_line_1 | chief |  
-| bip_39_word_new_line_10 | chief
-donkey
-arrow
-industry
-humble
-ticket
-script
-winner
-wear
-bulb |  
-| bip_39_word_new_line_11 | chief
-donkey
-arrow
-industry
-humble
-ticket
-script
-winner
-wear
-bulb
-draw |  
-| bip_39_word_new_line_12 | chief
-donkey
-arrow
-industry
-humble
-ticket
-script
-winner
-wear
-bulb
-draw
-also |  
-| bip_39_word_new_line_2 | chief
-donkey |  
-| bip_39_word_new_line_3 | chief
-donkey
-arrow |  
-| bip_39_word_new_line_4 | chief
-donkey
-arrow
-industry |  
-| bip_39_word_new_line_5 | chief
-donkey
-arrow
-industry
-humble |  
-| bip_39_word_new_line_6 | chief
-donkey
-arrow
-industry
-humble
-ticket |  
-| bip_39_word_new_line_7 | chief
-donkey
-arrow
-industry
-humble
-ticket
-script |  
-| bip_39_word_new_line_8 | chief
-donkey
-arrow
-industry
-humble
-ticket
-script
-winner |  
-| bip_39_word_new_line_9 | chief
-donkey
-arrow
-industry
-humble
-ticket
-script
-winner
-wear |  
-| bip_39_word_no_space_1 | chief |  
-| bip_39_word_no_space_10 | chiefdonkeyarrowindustryhumbleticketscriptwinnerwearbulb |  
-| bip_39_word_no_space_11 | chiefdonkeyarrowindustryhumbleticketscriptwinnerwearbulbdraw |  
-| bip_39_word_no_space_12 | chiefdonkeyarrowindustryhumbleticketscriptwinnerwearbulbdrawalso |  
-| bip_39_word_no_space_2 | chiefdonkey |  
-| bip_39_word_no_space_3 | chiefdonkeyarrow |  
-| bip_39_word_no_space_4 | chiefdonkeyarrowindustry |  
-| bip_39_word_no_space_5 | chiefdonkeyarrowindustryhumble |  
-| bip_39_word_no_space_6 | chiefdonkeyarrowindustryhumbleticket |  
-| bip_39_word_no_space_7 | chiefdonkeyarrowindustryhumbleticketscript |  
-| bip_39_word_no_space_8 | chiefdonkeyarrowindustryhumbleticketscriptwinner |  
-| bip_39_word_no_space_9 | chiefdonkeyarrowindustryhumbleticketscriptwinnerwear |  
-| bip_39_word_space_0 | ['chief', 'donkey', 'arrow', 'industry', 'humble', 'ticket', 'script', 'winner', 'wear', 'bulb', 'draw', 'also'] |  
-| bip_39_word_space_1 | chief |  
-| bip_39_word_space_10 | chief donkey arrow industry humble ticket script winner wear bulb |  
-| bip_39_word_space_11 | chief donkey arrow industry humble ticket script winner wear bulb draw |  
-| bip_39_word_space_12 | chief donkey arrow industry humble ticket script winner wear bulb draw also |  
-| bip_39_word_space_2 | chief donkey |  
-| bip_39_word_space_3 | chief donkey arrow |  
-| bip_39_word_space_4 | chief donkey arrow industry |  
-| bip_39_word_space_5 | chief donkey arrow industry humble |  
-| bip_39_word_space_6 | chief donkey arrow industry humble ticket |  
-| bip_39_word_space_7 | chief donkey arrow industry humble ticket script |  
-| bip_39_word_space_8 | chief donkey arrow industry humble ticket script winner |  
-| bip_39_word_space_9 | chief donkey arrow industry humble ticket script winner wear |  
-| bip_39_word_underscore_1 | chief |  
-| bip_39_word_underscore_10 | chief_donkey_arrow_industry_humble_ticket_script_winner_wear_bulb |  
-| bip_39_word_underscore_11 | chief_donkey_arrow_industry_humble_ticket_script_winner_wear_bulb_draw |  
-| bip_39_word_underscore_12 | chief_donkey_arrow_industry_humble_ticket_script_winner_wear_bulb_draw_also |  
-| bip_39_word_underscore_2 | chief_donkey |  
-| bip_39_word_underscore_3 | chief_donkey_arrow |  
-| bip_39_word_underscore_4 | chief_donkey_arrow_industry |  
-| bip_39_word_underscore_5 | chief_donkey_arrow_industry_humble |  
-| bip_39_word_underscore_6 | chief_donkey_arrow_industry_humble_ticket |  
-| bip_39_word_underscore_7 | chief_donkey_arrow_industry_humble_ticket_script |  
-| bip_39_word_underscore_8 | chief_donkey_arrow_industry_humble_ticket_script_winner |  
-| bip_39_word_underscore_9 | chief_donkey_arrow_industry_humble_ticket_script_winner_wear |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 11_05_15 |  
-| description_main_capital | 11 05.15 |  
-| description_main_first_letter | 1 |  
-| description_main_first_letter_upper | 1 |  
-| description_main_length_1 | 1 |  
-| description_main_length_2 | 11 |  
-| description_main_length_3 | 11_ |  
-| description_main_length_4 | 11_0 |  
-| description_main_length_5 | 11_05 |  
-| description_main_length_6 | 11_05_ |  
 | description_main_name | 11 05 15 |  
-| description_main_no_space_length_1 | 1 |  
-| description_main_no_space_length_2 | 11 |  
-| description_main_no_space_length_3 | 110 |  
-| description_main_no_space_length_4 | 1105 |  
-| description_main_no_space_length_5 | 11051 |  
-| description_main_no_space_length_6 | 110515 |  
-| description_main_no_space_upper_length_1 | 1 |  
-| description_main_no_space_upper_length_2 | 11 |  
-| description_main_no_space_upper_length_3 | 110 |  
-| description_main_no_space_upper_length_4 | 1105 |  
-| description_main_no_space_upper_length_5 | 11051 |  
-| description_main_no_space_upper_length_6 | 110515 |  
-| description_main_upper | 11_05_15 |  
-| description_main_upper_length_1 | 1 |  
-| description_main_upper_length_2 | 11 |  
-| description_main_upper_length_3 | 11_ |  
-| description_main_upper_length_4 | 11_0 |  
-| description_main_upper_length_5 | 11_05 |  
-| description_main_upper_length_6 | 11_05_ |  
-| description_only_numbers | 110515 |  
-| description_only_numbers_short | 111k |  
 | description_or_color | 111k |  
-| description_or_color_upper | 111K |  
 | directory | parts/oobb_part_tray_vertical_11_05_15 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_05_15 |  
 | id | oobb_part_tray_vertical_11_05_15 |  
-| id_no_class | part_tray_vertical_11_05_15 |  
-| id_no_color | 110515 |  
-| id_no_size | 11_05_15 |  
-| id_no_type | tray_vertical_11_05_15 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_11_05_15 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_05_15 |  
@@ -288,43 +79,23 @@ wear |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_11_05_15 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204jo3r |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204jo3r |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%204jo3r |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204jo3r |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_tray_vertical_11_05_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_11_05_15)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_11_05_15)<br>[Oobb Part Tray Vertical 11 05 15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_11_05_15)<br><br> |  
 | markdown_short | [oobb_part_tray_vertical_11_05_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_11_05_15)<br><br> |  
 | md5 | 7484c77fc3fbf83786b777321950493e |  
 | md5_10 | 7484c77fc3 |  
-| md5_10_upper | 7484C77FC3 |  
 | md5_5 | 7484c |  
-| md5_5_upper | 7484C |  
 | md5_6 | 7484c7 |  
 | md5_6_alpha | 4jo3r |  
-| md5_6_alpha_upper | 4JO3R |  
-| md5_6_upper | 7484C7 |  
 | name | Oobb Part Tray Vertical 11 05 15 |  
-| name_no_class | Part Tray Vertical 11 05 15 |  
-| name_no_color | 110515 |  
-| name_no_size | 11 05 15 |  
-| name_no_size_short | 11 05 15 |  
-| name_no_type | Tray Vertical 11 05 15 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | tray_vertical |  
-| oomlout_detail_hierarchy_3_upper | TRAY_VERTICAL |  
-| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
 | oomlout_detail_hierarchy_4 | 11_05_15 |  
-| oomlout_detail_hierarchy_4_upper | 11_05_15 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 11_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_11_05_15 |  
 | oomp_word | fireworks key honey_pot |  
@@ -332,76 +103,10 @@ wear |
 | oomp_word_emoji_list | [':fireworks:', ':key:', ':honey_pot:'] |  
 | oomp_word_list | ['fireworks', 'key', 'honey_pot'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | tray_vertical |  
-| size_capital | Tray Vertical |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_length_1 | t |  
-| size_length_2 | tr |  
-| size_length_3 | tra |  
-| size_length_4 | tray |  
-| size_length_5 | tray_ |  
-| size_length_6 | tray_v |  
 | size_name | Tray Vertical |  
-| size_no_space_length_1 | t |  
-| size_no_space_length_2 | tr |  
-| size_no_space_length_3 | tra |  
-| size_no_space_length_4 | tray |  
-| size_no_space_length_5 | trayv |  
-| size_no_space_length_6 | trayve |  
-| size_no_space_upper_length_1 | T |  
-| size_no_space_upper_length_2 | TR |  
-| size_no_space_upper_length_3 | TRA |  
-| size_no_space_upper_length_4 | TRAY |  
-| size_no_space_upper_length_5 | TRAYV |  
-| size_no_space_upper_length_6 | TRAYVE |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TRAY_VERTICAL |  
-| size_upper_length_1 | T |  
-| size_upper_length_2 | TR |  
-| size_upper_length_3 | TRA |  
-| size_upper_length_4 | TRAY |  
-| size_upper_length_5 | TRAY_ |  
-| size_upper_length_6 | TRAY_V |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

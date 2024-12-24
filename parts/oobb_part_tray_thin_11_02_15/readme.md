@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208opij)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208opij)
 [2x1](http://192.168.1.242:1112/?label=oomp%208opij)
 [6x4](http://192.168.1.55:1112/?label=oomp%208opij)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | humble |  
-| bip_39_word_dash_10 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin |  
-| bip_39_word_dash_11 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin-exhibit |  
-| bip_39_word_dash_12 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin-exhibit-assume |  
-| bip_39_word_dash_2 | humble-clerk |  
-| bip_39_word_dash_3 | humble-clerk-hockey |  
-| bip_39_word_dash_4 | humble-clerk-hockey-peace |  
-| bip_39_word_dash_5 | humble-clerk-hockey-peace-ahead |  
-| bip_39_word_dash_6 | humble-clerk-hockey-peace-ahead-public |  
-| bip_39_word_dash_7 | humble-clerk-hockey-peace-ahead-public-tattoo |  
-| bip_39_word_dash_8 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket |  
-| bip_39_word_dash_9 | humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness |  
-| bip_39_word_new_br_1 | humble |  
-| bip_39_word_new_br_10 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin |  
-| bip_39_word_new_br_11 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin<br>exhibit |  
-| bip_39_word_new_br_12 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin<br>exhibit<br>assume |  
-| bip_39_word_new_br_2 | humble<br>clerk |  
-| bip_39_word_new_br_3 | humble<br>clerk<br>hockey |  
-| bip_39_word_new_br_4 | humble<br>clerk<br>hockey<br>peace |  
-| bip_39_word_new_br_5 | humble<br>clerk<br>hockey<br>peace<br>ahead |  
-| bip_39_word_new_br_6 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public |  
-| bip_39_word_new_br_7 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo |  
-| bip_39_word_new_br_8 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket |  
-| bip_39_word_new_br_9 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness |  
-| bip_39_word_new_line_1 | humble |  
-| bip_39_word_new_line_10 | humble
-clerk
-hockey
-peace
-ahead
-public
-tattoo
-blanket
-sadness
-pumpkin |  
-| bip_39_word_new_line_11 | humble
-clerk
-hockey
-peace
-ahead
-public
-tattoo
-blanket
-sadness
-pumpkin
-exhibit |  
-| bip_39_word_new_line_12 | humble
-clerk
-hockey
-peace
-ahead
-public
-tattoo
-blanket
-sadness
-pumpkin
-exhibit
-assume |  
-| bip_39_word_new_line_2 | humble
-clerk |  
-| bip_39_word_new_line_3 | humble
-clerk
-hockey |  
-| bip_39_word_new_line_4 | humble
-clerk
-hockey
-peace |  
-| bip_39_word_new_line_5 | humble
-clerk
-hockey
-peace
-ahead |  
-| bip_39_word_new_line_6 | humble
-clerk
-hockey
-peace
-ahead
-public |  
-| bip_39_word_new_line_7 | humble
-clerk
-hockey
-peace
-ahead
-public
-tattoo |  
-| bip_39_word_new_line_8 | humble
-clerk
-hockey
-peace
-ahead
-public
-tattoo
-blanket |  
-| bip_39_word_new_line_9 | humble
-clerk
-hockey
-peace
-ahead
-public
-tattoo
-blanket
-sadness |  
-| bip_39_word_no_space_1 | humble |  
-| bip_39_word_no_space_10 | humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkin |  
-| bip_39_word_no_space_11 | humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkinexhibit |  
-| bip_39_word_no_space_12 | humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkinexhibitassume |  
-| bip_39_word_no_space_2 | humbleclerk |  
-| bip_39_word_no_space_3 | humbleclerkhockey |  
-| bip_39_word_no_space_4 | humbleclerkhockeypeace |  
-| bip_39_word_no_space_5 | humbleclerkhockeypeaceahead |  
-| bip_39_word_no_space_6 | humbleclerkhockeypeaceaheadpublic |  
-| bip_39_word_no_space_7 | humbleclerkhockeypeaceaheadpublictattoo |  
-| bip_39_word_no_space_8 | humbleclerkhockeypeaceaheadpublictattooblanket |  
-| bip_39_word_no_space_9 | humbleclerkhockeypeaceaheadpublictattooblanketsadness |  
-| bip_39_word_space_0 | ['humble', 'clerk', 'hockey', 'peace', 'ahead', 'public', 'tattoo', 'blanket', 'sadness', 'pumpkin', 'exhibit', 'assume'] |  
-| bip_39_word_space_1 | humble |  
-| bip_39_word_space_10 | humble clerk hockey peace ahead public tattoo blanket sadness pumpkin |  
-| bip_39_word_space_11 | humble clerk hockey peace ahead public tattoo blanket sadness pumpkin exhibit |  
-| bip_39_word_space_12 | humble clerk hockey peace ahead public tattoo blanket sadness pumpkin exhibit assume |  
-| bip_39_word_space_2 | humble clerk |  
-| bip_39_word_space_3 | humble clerk hockey |  
-| bip_39_word_space_4 | humble clerk hockey peace |  
-| bip_39_word_space_5 | humble clerk hockey peace ahead |  
-| bip_39_word_space_6 | humble clerk hockey peace ahead public |  
-| bip_39_word_space_7 | humble clerk hockey peace ahead public tattoo |  
-| bip_39_word_space_8 | humble clerk hockey peace ahead public tattoo blanket |  
-| bip_39_word_space_9 | humble clerk hockey peace ahead public tattoo blanket sadness |  
-| bip_39_word_underscore_1 | humble |  
-| bip_39_word_underscore_10 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin |  
-| bip_39_word_underscore_11 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin_exhibit |  
-| bip_39_word_underscore_12 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin_exhibit_assume |  
-| bip_39_word_underscore_2 | humble_clerk |  
-| bip_39_word_underscore_3 | humble_clerk_hockey |  
-| bip_39_word_underscore_4 | humble_clerk_hockey_peace |  
-| bip_39_word_underscore_5 | humble_clerk_hockey_peace_ahead |  
-| bip_39_word_underscore_6 | humble_clerk_hockey_peace_ahead_public |  
-| bip_39_word_underscore_7 | humble_clerk_hockey_peace_ahead_public_tattoo |  
-| bip_39_word_underscore_8 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket |  
-| bip_39_word_underscore_9 | humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 11_02_15 |  
-| description_main_capital | 11 02.15 |  
-| description_main_first_letter | 1 |  
-| description_main_first_letter_upper | 1 |  
-| description_main_length_1 | 1 |  
-| description_main_length_2 | 11 |  
-| description_main_length_3 | 11_ |  
-| description_main_length_4 | 11_0 |  
-| description_main_length_5 | 11_02 |  
-| description_main_length_6 | 11_02_ |  
 | description_main_name | 11 02 15 |  
-| description_main_no_space_length_1 | 1 |  
-| description_main_no_space_length_2 | 11 |  
-| description_main_no_space_length_3 | 110 |  
-| description_main_no_space_length_4 | 1102 |  
-| description_main_no_space_length_5 | 11021 |  
-| description_main_no_space_length_6 | 110215 |  
-| description_main_no_space_upper_length_1 | 1 |  
-| description_main_no_space_upper_length_2 | 11 |  
-| description_main_no_space_upper_length_3 | 110 |  
-| description_main_no_space_upper_length_4 | 1102 |  
-| description_main_no_space_upper_length_5 | 11021 |  
-| description_main_no_space_upper_length_6 | 110215 |  
-| description_main_upper | 11_02_15 |  
-| description_main_upper_length_1 | 1 |  
-| description_main_upper_length_2 | 11 |  
-| description_main_upper_length_3 | 11_ |  
-| description_main_upper_length_4 | 11_0 |  
-| description_main_upper_length_5 | 11_02 |  
-| description_main_upper_length_6 | 11_02_ |  
-| description_only_numbers | 110215 |  
-| description_only_numbers_short | 110k |  
 | description_or_color | 110k |  
-| description_or_color_upper | 110K |  
 | directory | parts/oobb_part_tray_thin_11_02_15 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_02_15 |  
 | id | oobb_part_tray_thin_11_02_15 |  
-| id_no_class | part_tray_thin_11_02_15 |  
-| id_no_color | 110215 |  
-| id_no_size | 11_02_15 |  
-| id_no_type | tray_thin_11_02_15 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_15 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_02_15 |  
@@ -288,43 +79,23 @@ sadness |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_15 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208opij |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208opij |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208opij |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208opij |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_tray_thin_11_02_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_15)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_15)<br>[Oobb Part Tray Thin 11 02 15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_15)<br><br> |  
 | markdown_short | [oobb_part_tray_thin_11_02_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_15)<br><br> |  
 | md5 | de9f2b6def175bcab4029a1cd8ca9b77 |  
 | md5_10 | de9f2b6def |  
-| md5_10_upper | DE9F2B6DEF |  
 | md5_5 | de9f2 |  
-| md5_5_upper | DE9F2 |  
 | md5_6 | de9f2b |  
 | md5_6_alpha | 8opij |  
-| md5_6_alpha_upper | 8OPIJ |  
-| md5_6_upper | DE9F2B |  
 | name | Oobb Part Tray Thin 11 02 15 |  
-| name_no_class | Part Tray Thin 11 02 15 |  
-| name_no_color | 110215 |  
-| name_no_size | 11 02 15 |  
-| name_no_size_short | 11 02 15 |  
-| name_no_type | Tray Thin 11 02 15 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | tray_thin |  
-| oomlout_detail_hierarchy_3_upper | TRAY_THIN |  
-| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
 | oomlout_detail_hierarchy_4 | 11_02_15 |  
-| oomlout_detail_hierarchy_4_upper | 11_02_15 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 11_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_thin_11_02_15 |  
 | oomp_word | rainbow diamonds cloud |  
@@ -332,76 +103,10 @@ sadness |
 | oomp_word_emoji_list | [':rainbow:', ':diamonds:', ':cloud:'] |  
 | oomp_word_list | ['rainbow', 'diamonds', 'cloud'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | tray_thin |  
-| size_capital | Tray Thin |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_length_1 | t |  
-| size_length_2 | tr |  
-| size_length_3 | tra |  
-| size_length_4 | tray |  
-| size_length_5 | tray_ |  
-| size_length_6 | tray_t |  
 | size_name | Tray Thin |  
-| size_no_space_length_1 | t |  
-| size_no_space_length_2 | tr |  
-| size_no_space_length_3 | tra |  
-| size_no_space_length_4 | tray |  
-| size_no_space_length_5 | trayt |  
-| size_no_space_length_6 | trayth |  
-| size_no_space_upper_length_1 | T |  
-| size_no_space_upper_length_2 | TR |  
-| size_no_space_upper_length_3 | TRA |  
-| size_no_space_upper_length_4 | TRAY |  
-| size_no_space_upper_length_5 | TRAYT |  
-| size_no_space_upper_length_6 | TRAYTH |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TRAY_THIN |  
-| size_upper_length_1 | T |  
-| size_upper_length_2 | TR |  
-| size_upper_length_3 | TRA |  
-| size_upper_length_4 | TRAY |  
-| size_upper_length_5 | TRAY_ |  
-| size_upper_length_6 | TRAY_T |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  

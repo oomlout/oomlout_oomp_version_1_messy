@@ -40,6 +40,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%204v84z)
+[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%204v84z)
 [2x1](http://192.168.1.242:1112/?label=oomp%204v84z)
 [6x4](http://192.168.1.55:1112/?label=oomp%204v84z)    
 
@@ -58,229 +59,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| bip_39_word_dash_1 | tip |  
-| bip_39_word_dash_10 | tip-section-oyster-grass-left-end-slogan-sudden-slot-slush |  
-| bip_39_word_dash_11 | tip-section-oyster-grass-left-end-slogan-sudden-slot-slush-garage |  
-| bip_39_word_dash_12 | tip-section-oyster-grass-left-end-slogan-sudden-slot-slush-garage-amazing |  
-| bip_39_word_dash_2 | tip-section |  
-| bip_39_word_dash_3 | tip-section-oyster |  
-| bip_39_word_dash_4 | tip-section-oyster-grass |  
-| bip_39_word_dash_5 | tip-section-oyster-grass-left |  
-| bip_39_word_dash_6 | tip-section-oyster-grass-left-end |  
-| bip_39_word_dash_7 | tip-section-oyster-grass-left-end-slogan |  
-| bip_39_word_dash_8 | tip-section-oyster-grass-left-end-slogan-sudden |  
-| bip_39_word_dash_9 | tip-section-oyster-grass-left-end-slogan-sudden-slot |  
-| bip_39_word_new_br_1 | tip |  
-| bip_39_word_new_br_10 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush |  
-| bip_39_word_new_br_11 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush<br>garage |  
-| bip_39_word_new_br_12 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot<br>slush<br>garage<br>amazing |  
-| bip_39_word_new_br_2 | tip<br>section |  
-| bip_39_word_new_br_3 | tip<br>section<br>oyster |  
-| bip_39_word_new_br_4 | tip<br>section<br>oyster<br>grass |  
-| bip_39_word_new_br_5 | tip<br>section<br>oyster<br>grass<br>left |  
-| bip_39_word_new_br_6 | tip<br>section<br>oyster<br>grass<br>left<br>end |  
-| bip_39_word_new_br_7 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan |  
-| bip_39_word_new_br_8 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden |  
-| bip_39_word_new_br_9 | tip<br>section<br>oyster<br>grass<br>left<br>end<br>slogan<br>sudden<br>slot |  
-| bip_39_word_new_line_1 | tip |  
-| bip_39_word_new_line_10 | tip
-section
-oyster
-grass
-left
-end
-slogan
-sudden
-slot
-slush |  
-| bip_39_word_new_line_11 | tip
-section
-oyster
-grass
-left
-end
-slogan
-sudden
-slot
-slush
-garage |  
-| bip_39_word_new_line_12 | tip
-section
-oyster
-grass
-left
-end
-slogan
-sudden
-slot
-slush
-garage
-amazing |  
-| bip_39_word_new_line_2 | tip
-section |  
-| bip_39_word_new_line_3 | tip
-section
-oyster |  
-| bip_39_word_new_line_4 | tip
-section
-oyster
-grass |  
-| bip_39_word_new_line_5 | tip
-section
-oyster
-grass
-left |  
-| bip_39_word_new_line_6 | tip
-section
-oyster
-grass
-left
-end |  
-| bip_39_word_new_line_7 | tip
-section
-oyster
-grass
-left
-end
-slogan |  
-| bip_39_word_new_line_8 | tip
-section
-oyster
-grass
-left
-end
-slogan
-sudden |  
-| bip_39_word_new_line_9 | tip
-section
-oyster
-grass
-left
-end
-slogan
-sudden
-slot |  
-| bip_39_word_no_space_1 | tip |  
-| bip_39_word_no_space_10 | tipsectionoystergrassleftendslogansuddenslotslush |  
-| bip_39_word_no_space_11 | tipsectionoystergrassleftendslogansuddenslotslushgarage |  
-| bip_39_word_no_space_12 | tipsectionoystergrassleftendslogansuddenslotslushgarageamazing |  
-| bip_39_word_no_space_2 | tipsection |  
-| bip_39_word_no_space_3 | tipsectionoyster |  
-| bip_39_word_no_space_4 | tipsectionoystergrass |  
-| bip_39_word_no_space_5 | tipsectionoystergrassleft |  
-| bip_39_word_no_space_6 | tipsectionoystergrassleftend |  
-| bip_39_word_no_space_7 | tipsectionoystergrassleftendslogan |  
-| bip_39_word_no_space_8 | tipsectionoystergrassleftendslogansudden |  
-| bip_39_word_no_space_9 | tipsectionoystergrassleftendslogansuddenslot |  
-| bip_39_word_space_0 | ['tip', 'section', 'oyster', 'grass', 'left', 'end', 'slogan', 'sudden', 'slot', 'slush', 'garage', 'amazing'] |  
-| bip_39_word_space_1 | tip |  
-| bip_39_word_space_10 | tip section oyster grass left end slogan sudden slot slush |  
-| bip_39_word_space_11 | tip section oyster grass left end slogan sudden slot slush garage |  
-| bip_39_word_space_12 | tip section oyster grass left end slogan sudden slot slush garage amazing |  
-| bip_39_word_space_2 | tip section |  
-| bip_39_word_space_3 | tip section oyster |  
-| bip_39_word_space_4 | tip section oyster grass |  
-| bip_39_word_space_5 | tip section oyster grass left |  
-| bip_39_word_space_6 | tip section oyster grass left end |  
-| bip_39_word_space_7 | tip section oyster grass left end slogan |  
-| bip_39_word_space_8 | tip section oyster grass left end slogan sudden |  
-| bip_39_word_space_9 | tip section oyster grass left end slogan sudden slot |  
-| bip_39_word_underscore_1 | tip |  
-| bip_39_word_underscore_10 | tip_section_oyster_grass_left_end_slogan_sudden_slot_slush |  
-| bip_39_word_underscore_11 | tip_section_oyster_grass_left_end_slogan_sudden_slot_slush_garage |  
-| bip_39_word_underscore_12 | tip_section_oyster_grass_left_end_slogan_sudden_slot_slush_garage_amazing |  
-| bip_39_word_underscore_2 | tip_section |  
-| bip_39_word_underscore_3 | tip_section_oyster |  
-| bip_39_word_underscore_4 | tip_section_oyster_grass |  
-| bip_39_word_underscore_5 | tip_section_oyster_grass_left |  
-| bip_39_word_underscore_6 | tip_section_oyster_grass_left_end |  
-| bip_39_word_underscore_7 | tip_section_oyster_grass_left_end_slogan |  
-| bip_39_word_underscore_8 | tip_section_oyster_grass_left_end_slogan_sudden |  
-| bip_39_word_underscore_9 | tip_section_oyster_grass_left_end_slogan_sudden_slot |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
 | classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 07_10_24 |  
-| description_main_capital | 07.10 24 |  
-| description_main_first_letter | 0 |  
-| description_main_first_letter_upper | 0 |  
-| description_main_length_1 | 0 |  
-| description_main_length_2 | 07 |  
-| description_main_length_3 | 07_ |  
-| description_main_length_4 | 07_1 |  
-| description_main_length_5 | 07_10 |  
-| description_main_length_6 | 07_10_ |  
 | description_main_name | 07 10 24 |  
-| description_main_no_space_length_1 | 0 |  
-| description_main_no_space_length_2 | 07 |  
-| description_main_no_space_length_3 | 071 |  
-| description_main_no_space_length_4 | 0710 |  
-| description_main_no_space_length_5 | 07102 |  
-| description_main_no_space_length_6 | 071024 |  
-| description_main_no_space_upper_length_1 | 0 |  
-| description_main_no_space_upper_length_2 | 07 |  
-| description_main_no_space_upper_length_3 | 071 |  
-| description_main_no_space_upper_length_4 | 0710 |  
-| description_main_no_space_upper_length_5 | 07102 |  
-| description_main_no_space_upper_length_6 | 071024 |  
-| description_main_upper | 07_10_24 |  
-| description_main_upper_length_1 | 0 |  
-| description_main_upper_length_2 | 07 |  
-| description_main_upper_length_3 | 07_ |  
-| description_main_upper_length_4 | 07_1 |  
-| description_main_upper_length_5 | 07_10 |  
-| description_main_upper_length_6 | 07_10_ |  
-| description_only_numbers | 071024 |  
-| description_only_numbers_short | 71k |  
 | description_or_color | 71k |  
-| description_or_color_upper | 71K |  
 | directory | parts/oobb_part_tray_07_10_24 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_10_24 |  
 | id | oobb_part_tray_07_10_24 |  
-| id_no_class | part_tray_07_10_24 |  
-| id_no_color | 071024 |  
-| id_no_size | 07_10_24 |  
-| id_no_type | tray_07_10_24 |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_24 |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_10_24 |  
@@ -288,43 +79,23 @@ slot |
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_24 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204v84z |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204v84z |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%204v84z |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204v84z |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
 | manufacturers | [] |  
 | markdown_full | [oobb_part_tray_07_10_24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_24)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_24)<br>[Oobb Part Tray 07 10 24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_24)<br><br> |  
 | markdown_short | [oobb_part_tray_07_10_24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_24)<br><br> |  
 | md5 | 7cbef31660d8997d263f965f3cf0af14 |  
 | md5_10 | 7cbef31660 |  
-| md5_10_upper | 7CBEF31660 |  
 | md5_5 | 7cbef |  
-| md5_5_upper | 7CBEF |  
 | md5_6 | 7cbef3 |  
 | md5_6_alpha | 4v84z |  
-| md5_6_alpha_upper | 4V84Z |  
-| md5_6_upper | 7CBEF3 |  
 | name | Oobb Part Tray 07 10 24 |  
-| name_no_class | Part Tray 07 10 24 |  
-| name_no_color | 071024 |  
-| name_no_size | 07 10 24 |  
-| name_no_size_short | 07 10 24 |  
-| name_no_type | Tray 07 10 24 |  
 | oomlout_detail_hierarchy_1 | oobb |  
-| oomlout_detail_hierarchy_1_upper | OOBB |  
-| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
 | oomlout_detail_hierarchy_2 | part |  
-| oomlout_detail_hierarchy_2_upper | PART |  
-| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
 | oomlout_detail_hierarchy_3 | tray |  
-| oomlout_detail_hierarchy_3_upper | TRAY |  
-| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
 | oomlout_detail_hierarchy_4 | 07_10_24 |  
-| oomlout_detail_hierarchy_4_upper | 07_10_24 |  
-| oomlout_detail_hierarchy_4_upper_length_4 | 07_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_07_10_24 |  
 | oomp_word | tv ramen two |  
@@ -332,76 +103,10 @@ slot |
 | oomp_word_emoji_list | [':tv:', ':ramen:', ':two:'] |  
 | oomp_word_list | ['tv', 'ramen', 'two'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| price_1_name | orbital_fasteners |  
-| price_2_name | accu |  
-| price_3_name | amazon |  
 | short_code |  |  
-| short_code_upper |  |  
 | short_name |  |  
 | size | tray |  
-| size_capital | Tray |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_length_1 | t |  
-| size_length_2 | tr |  
-| size_length_3 | tra |  
-| size_length_4 | tray |  
-| size_length_5 | tray |  
-| size_length_6 | tray |  
 | size_name | Tray |  
-| size_no_space_length_1 | t |  
-| size_no_space_length_2 | tr |  
-| size_no_space_length_3 | tra |  
-| size_no_space_length_4 | tray |  
-| size_no_space_length_5 | tray |  
-| size_no_space_length_6 | tray |  
-| size_no_space_upper_length_1 | T |  
-| size_no_space_upper_length_2 | TR |  
-| size_no_space_upper_length_3 | TRA |  
-| size_no_space_upper_length_4 | TRAY |  
-| size_no_space_upper_length_5 | TRAY |  
-| size_no_space_upper_length_6 | TRAY |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TRAY |  
-| size_upper_length_1 | T |  
-| size_upper_length_2 | TR |  
-| size_upper_length_3 | TRA |  
-| size_upper_length_4 | TRAY |  
-| size_upper_length_5 | TRAY |  
-| size_upper_length_6 | TRAY |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
 | type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  
