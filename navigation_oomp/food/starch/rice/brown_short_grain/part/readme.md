@@ -6,11 +6,11 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-rice brown short grain
+rice_brown_short_grain
 
 ### name
 * name: Food Starch Rice Brown Short Grain
-* name_short: Rice Brown Short Grain
+* name_short: Rice brown_short_grain
 ### id
 * oomp_id: food_starch_rice_brown_short_grain
   * classification: food
@@ -63,7 +63,7 @@ rice brown short grain
 | classification_name | Food |  
 | color | brown_short_grain |  
 | color_name | Brown Short Grain |  
-| description | rice brown short grain |  
+| description | rice_brown_short_grain |  
 | description_extra |  |  
 | description_extra_name |  |  
 | description_main |  |  
@@ -95,7 +95,7 @@ rice brown short grain
 | md5_6 | ae191c |  
 | md5_6_alpha | 6sjrw |  
 | name | Food Starch Rice Brown Short Grain |  
-| name_short | Rice Brown Short Grain |  
+| name_short | Rice brown_short_grain |  
 | oomlout_detail_hierarchy_1 | food |  
 | oomlout_detail_hierarchy_2 | starch |  
 | oomlout_detail_hierarchy_3 | rice |  

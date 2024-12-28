@@ -10,7 +10,7 @@ rice_basmati
 
 ### name
 * name: Food Starch Rice Basmati
-* name_short: Rice Basmati
+* name_short: Rice basmati
 ### id
 * oomp_id: food_starch_rice_basmati
   * classification: food
@@ -95,7 +95,7 @@ rice_basmati
 | md5_6 | 355d75 |  
 | md5_6_alpha | 22yk5 |  
 | name | Food Starch Rice Basmati |  
-| name_short | Rice Basmati |  
+| name_short | Rice basmati |  
 | oomlout_detail_hierarchy_1 | food |  
 | oomlout_detail_hierarchy_2 | starch |  
 | oomlout_detail_hierarchy_3 | rice |  

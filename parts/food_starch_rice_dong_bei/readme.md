@@ -10,7 +10,7 @@ rice_dong_bei
 
 ### name
 * name: Food Starch Rice Dong Bei
-* name_short: Rice Dong Bei
+* name_short: Rice dong_bei
 ### id
 * oomp_id: food_starch_rice_dong_bei
   * classification: food
@@ -95,7 +95,7 @@ rice_dong_bei
 | md5_6 | e496da |  
 | md5_6_alpha | 8x3a2 |  
 | name | Food Starch Rice Dong Bei |  
-| name_short | Rice Dong Bei |  
+| name_short | Rice dong_bei |  
 | oomlout_detail_hierarchy_1 | food |  
 | oomlout_detail_hierarchy_2 | starch |  
 | oomlout_detail_hierarchy_3 | rice |  
