@@ -280,15 +280,17 @@ id_no_class: electronic_breakout_board_mcu
 id_no_color: breakoutboardmcu
 id_no_size: breakout_board_mcu
 id_no_type: breakout_board_mcu
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_breakout_board_mcu
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2019gzt
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2019gzt
-link_oomlout_label_3x2_oomp_table: http://192.168.1.107:1112/?label=oomp%2019gzt
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2019gzt
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2019gzt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -296,9 +298,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_mcu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu)<br>[Category
-  Electronic Breakout Board Mcu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu)<br><br>'
-markdown_short: '[category_electronic_breakout_board_mcu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu)<br><br>'
+markdown_full: '[category_electronic_breakout_board_mcu](none)<br>[](none)<br>[Category
+  Electronic Breakout Board Mcu](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu](none)<br><br>'
 md5: 205f49526bc7ff7e270c6e1b87238ccb
 md5_10: 205f49526b
 md5_10_upper: 205F49526B

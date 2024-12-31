@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2032wd9)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2032wd9)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2032wd9)
 [2x1](http://192.168.1.242:1112/?label=oomp%2032wd9)
 [6x4](http://192.168.1.55:1112/?label=oomp%2032wd9)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_smd) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_smd)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd |  
 | id | electronic_nettie_2_nets_smd |  
 | kicad_reference |  |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_smd |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_smd |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_smd |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_smd |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2032wd9 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2032wd9 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2032wd9 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2032wd9 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2032wd9 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_smd |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_nettie_2_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd)<br>[nt2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd)<br>[Electronic Nettie 2 Nets Smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd)<br><br> |  
-| markdown_short | [electronic_nettie_2_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd)<br><br> |  
+| markdown_full | [electronic_nettie_2_nets_smd](none)<br>[nt2](none)<br>[Electronic Nettie 2 Nets Smd](none)<br><br> |  
+| markdown_short | [electronic_nettie_2_nets_smd](none)<br><br> |  
 | md5 | 4ef35d1f2d790456123942109a5f27e9 |  
 | md5_10 | 4ef35d1f2d |  
 | md5_5 | 4ef35 |  

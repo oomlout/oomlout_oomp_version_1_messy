@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%205tgq3)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%205tgq3)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205tgq3)
 [2x1](http://192.168.1.242:1112/?label=oomp%205tgq3)
 [6x4](http://192.168.1.55:1112/?label=oomp%205tgq3)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
 | id | electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
 | kicad_reference | C |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205tgq3 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205tgq3 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%205tgq3 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205tgq3 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205tgq3 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_kyocera', 'link': 'https://search.kyocera-avx.com/search/TAJA475K016RNJ', 'name': 'Kyocera', 'part_number': 'TAJA475K016RNJ'}] |  
-| markdown_full | [electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt)<br>[catuf4d7v16](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt)<br>[Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt)<br>[LCSC - C7187<br>](https://lcsc.com/product-detail/C7187.html)<br>[Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ) [(L)  ](https://www.lcsc.com/search?q=TAJA475K016RNJ)[(D)  ](https://www.digikey.com/en/products?keywords=TAJA475K016RNJ)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TAJA475K016RNJ)[(N)  ](https://www.newark.com/search?st=TAJA475K016RNJ)[(SZ)  ](https://so.szlcsc.com/global.html?k=TAJA475K016RNJ)<br> |  
-| markdown_short | [electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt)<br>[LCSC - C7187<br>](https://lcsc.com/product-detail/C7187.html)<br>[Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ) |  
+| markdown_full | [electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](none)<br>[catuf4d7v16](none)<br>[Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt](none)<br>[LCSC - C7187<br>](https://lcsc.com/product-detail/C7187.html)<br>[Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ) [(L)  ](https://www.lcsc.com/search?q=TAJA475K016RNJ)[(D)  ](https://www.digikey.com/en/products?keywords=TAJA475K016RNJ)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TAJA475K016RNJ)[(N)  ](https://www.newark.com/search?st=TAJA475K016RNJ)[(SZ)  ](https://so.szlcsc.com/global.html?k=TAJA475K016RNJ)<br> |  
+| markdown_short | [electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt](none)<br>[LCSC - C7187<br>](https://lcsc.com/product-detail/C7187.html)<br>[Kyocera - TAJA475K016RNJ](https://search.kyocera-avx.com/search/TAJA475K016RNJ) |  
 | md5 | 951eebab538d3a391eb9ef33560a6b6b |  
 | md5_10 | 951eebab53 |  
 | md5_5 | 951ee |  

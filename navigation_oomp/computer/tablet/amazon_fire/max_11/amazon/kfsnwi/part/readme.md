@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202idz6)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202idz6)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202idz6)
 [2x1](http://192.168.1.242:1112/?label=oomp%202idz6)
 [6x4](http://192.168.1.55:1112/?label=oomp%202idz6)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
 | height | 163.7 mm |  
 | id | computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202idz6 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202idz6 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202idz6 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202idz6 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202idz6 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
 | manufacturer | amazon |  
 | manufacturer_name | Amazon |  
 | manufacturers | [] |  
-| markdown_full | [computer_tablet_amazon_fire_max_11_amazon_kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br>[Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br><br> |  
-| markdown_short | [computer_tablet_amazon_fire_max_11_amazon_kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br><br> |  
+| markdown_full | [computer_tablet_amazon_fire_max_11_amazon_kfsnwi](none)<br>[](none)<br>[Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi](none)<br><br> |  
+| markdown_short | [computer_tablet_amazon_fire_max_11_amazon_kfsnwi](none)<br><br> |  
 | md5 | 40594279ee97386edde9fec925127755 |  
 | md5_10 | 40594279ee |  
 | md5_5 | 40594 |  

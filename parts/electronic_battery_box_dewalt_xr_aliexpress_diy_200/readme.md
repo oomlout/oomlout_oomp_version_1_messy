@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20100fw)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20100fw)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20100fw)
 [2x1](http://192.168.1.242:1112/?label=oomp%20100fw)
 [6x4](http://192.168.1.55:1112/?label=oomp%20100fw)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200)                             
 
 #### price
 
@@ -72,21 +75,23 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
 | id | electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
+| link_2_name | link_github |  
 | link_distributor_aliexpress | https://www.aliexpress.com/item/1005005544254172.html |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20100fw |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20100fw |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20100fw |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20100fw |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20100fw |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
 | manufacturer | aliexpress |  
 | manufacturer_name | Aliexpress |  
 | manufacturers | [] |  
-| markdown_full | [electronic_battery_box_dewalt_xr_aliexpress_diy_200](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200)<br>[Electronic Battery Box Dewalt Xr Aliexpress Diy 200](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200)<br><br> |  
-| markdown_short | [electronic_battery_box_dewalt_xr_aliexpress_diy_200](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200)<br><br> |  
+| markdown_full | [electronic_battery_box_dewalt_xr_aliexpress_diy_200](none)<br>[](none)<br>[Electronic Battery Box Dewalt Xr Aliexpress Diy 200](none)<br><br> |  
+| markdown_short | [electronic_battery_box_dewalt_xr_aliexpress_diy_200](none)<br><br> |  
 | md5 | 19a33c1827ae5b001f8785bdf099f032 |  
 | md5_10 | 19a33c1827 |  
 | md5_5 | 19a33 |  

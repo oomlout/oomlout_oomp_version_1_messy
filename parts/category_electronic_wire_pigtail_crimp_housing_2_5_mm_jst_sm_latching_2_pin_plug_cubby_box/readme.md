@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_electronic
+
+
 
 ### name
 * name: Category Electronic Wire Pigtail Crimp Housing 2 5 mm Jst Sm Latching 2 Pin Plug Cubby Box
@@ -40,13 +43,13 @@ category_electronic
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%201n3lb)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%201n3lb)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%201n3lb)
 [2x1](http://192.168.1.242:1112/?label=oomp%201n3lb)
 [6x4](http://192.168.1.55:1112/?label=oomp%201n3lb)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_electronic
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
 | id | category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201n3lb |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201n3lb |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%201n3lb |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201n3lb |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201n3lb |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box)<br>[Category Electronic Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Plug Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box)<br><br> |  
-| markdown_short | [category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box)<br><br> |  
+| markdown_full | [category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box](none)<br>[](none)<br>[Category Electronic Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Plug Cubby Box](none)<br><br> |  
+| markdown_short | [category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_cubby_box](none)<br><br> |  
 | md5 | 2a12efba7d71bf48fd01ffcb89a795c7 |  
 | md5_10 | 2a12efba7d |  
 | md5_5 | 2a12e |  

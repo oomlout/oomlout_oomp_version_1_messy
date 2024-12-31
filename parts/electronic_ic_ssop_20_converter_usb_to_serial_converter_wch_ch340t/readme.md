@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208r9r7)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208r9r7)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208r9r7)
 [2x1](http://192.168.1.242:1112/?label=oomp%208r9r7)
 [6x4](http://192.168.1.55:1112/?label=oomp%208r9r7)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
 | id | electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
 | kicad_reference | U |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208r9r7 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208r9r7 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208r9r7 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208r9r7 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208r9r7 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
 | manufacturer | wch |  
 | manufacturer_name | Wch |  
 | manufacturers | [] |  
-| markdown_full | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)<br>[ich340t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)<br>[Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> |  
-| markdown_short | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> |  
+| markdown_full | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](none)<br>[ich340t](none)<br>[Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T](none)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> |  
+| markdown_short | [electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](none)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br> |  
 | md5 | e07223f3446f9e6a9ed62db546344b87 |  
 | md5_10 | e07223f344 |  
 | md5_5 | e0722 |  

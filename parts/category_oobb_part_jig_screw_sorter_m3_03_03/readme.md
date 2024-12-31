@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_oobb
+
+
 
 ### name
 * name: Category Oobb Part Jig Screw Sorter M3 03 03
@@ -40,13 +43,13 @@ category_oobb
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%205dsa4)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%205dsa4)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205dsa4)
 [2x1](http://192.168.1.242:1112/?label=oomp%205dsa4)
 [6x4](http://192.168.1.55:1112/?label=oomp%205dsa4)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_oobb
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
 | id | category_oobb_part_jig_screw_sorter_m3_03_03 |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205dsa4 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205dsa4 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%205dsa4 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205dsa4 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205dsa4 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_oobb_part_jig_screw_sorter_m3_03_03](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03)<br>[Category Oobb Part Jig Screw Sorter M3 03 03](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03)<br><br> |  
-| markdown_short | [category_oobb_part_jig_screw_sorter_m3_03_03](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03)<br><br> |  
+| markdown_full | [category_oobb_part_jig_screw_sorter_m3_03_03](none)<br>[](none)<br>[Category Oobb Part Jig Screw Sorter M3 03 03](none)<br><br> |  
+| markdown_short | [category_oobb_part_jig_screw_sorter_m3_03_03](none)<br><br> |  
 | md5 | 89f56c41871d32060d8318d9f27a7314 |  
 | md5_10 | 89f56c4187 |  
 | md5_5 | 89f56 |  

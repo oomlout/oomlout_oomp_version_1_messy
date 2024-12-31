@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208dhz9)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208dhz9)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208dhz9)
 [2x1](http://192.168.1.242:1112/?label=oomp%208dhz9)
 [6x4](http://192.168.1.55:1112/?label=oomp%208dhz9)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm', 'note': 'source footprint kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm', 'oomp_key': 'oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_imlf32mcuat328_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_imlf32mcuat328_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_imlf32mcuat328_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu'}] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
 | id | electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208dhz9 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208dhz9 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208dhz9 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208dhz9 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208dhz9 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
 | manufacturer | microchip |  
 | manufacturer_name | Microchip |  
 | manufacturers | [] |  
-| markdown_full | [electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br>[imlf32mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br>[Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br><br> |  
-| markdown_short | [electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br><br> |  
+| markdown_full | [electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](none)<br>[imlf32mcuat328](none)<br>[Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu](none)<br><br> |  
+| markdown_short | [electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](none)<br><br> |  
 | md5 | d6a4452edcde90237afb3d93a423b538 |  
 | md5_10 | d6a4452edc |  
 | md5_5 | d6a44 |  

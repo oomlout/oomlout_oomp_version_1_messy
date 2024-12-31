@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_camera
+
+
 
 ### name
 * name: Category Camera
@@ -40,13 +43,13 @@ category_camera
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%205mj7w)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%205mj7w)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205mj7w)
 [2x1](http://192.168.1.242:1112/?label=oomp%205mj7w)
 [6x4](http://192.168.1.55:1112/?label=oomp%205mj7w)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_camera)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_camera
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_camera |  
 | id | category_camera |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_camera |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205mj7w |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205mj7w |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%205mj7w |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205mj7w |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205mj7w |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br>[Category Camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br><br> |  
-| markdown_short | [category_camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br><br> |  
+| markdown_full | [category_camera](none)<br>[](none)<br>[Category Camera](none)<br><br> |  
+| markdown_short | [category_camera](none)<br><br> |  
 | md5 | 902fcc4488496a26c3223d9cc6e88d5e |  
 | md5_10 | 902fcc4488 |  
 | md5_5 | 902fc |  

@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_three_d_printer
+
+
 
 ### name
 * name: Category Three D Printer Printing Low Quality
@@ -40,13 +43,13 @@ category_three_d_printer
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2076dsf)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2076dsf)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2076dsf)
 [2x1](http://192.168.1.242:1112/?label=oomp%2076dsf)
 [6x4](http://192.168.1.55:1112/?label=oomp%2076dsf)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_three_d_printer_printing_low_quality)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_three_d_printer
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_three_d_printer_printing_low_quality |  
 | id | category_three_d_printer_printing_low_quality |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_three_d_printer_printing_low_quality |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2076dsf |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2076dsf |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2076dsf |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2076dsf |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2076dsf |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_three_d_printer_printing_low_quality](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality)<br>[Category Three D Printer Printing Low Quality](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality)<br><br> |  
-| markdown_short | [category_three_d_printer_printing_low_quality](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality)<br><br> |  
+| markdown_full | [category_three_d_printer_printing_low_quality](none)<br>[](none)<br>[Category Three D Printer Printing Low Quality](none)<br><br> |  
+| markdown_short | [category_three_d_printer_printing_low_quality](none)<br><br> |  
 | md5 | b7f24f836eaa084f89d9aebc5367eb85 |  
 | md5_10 | b7f24f836e |  
 | md5_5 | b7f24 |  

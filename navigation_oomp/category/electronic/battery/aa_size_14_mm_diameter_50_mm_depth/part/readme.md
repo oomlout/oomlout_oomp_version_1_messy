@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_electronic
+
+
 
 ### name
 * name: Category Electronic Battery Aa Size 14 mm Diameter 50 mm Depth
@@ -40,13 +43,13 @@ category_electronic
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2030y4d)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2030y4d)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2030y4d)
 [2x1](http://192.168.1.242:1112/?label=oomp%2030y4d)
 [6x4](http://192.168.1.55:1112/?label=oomp%2030y4d)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_electronic
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
 | id | category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2030y4d |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2030y4d |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2030y4d |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2030y4d |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2030y4d |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth)<br>[Category Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth)<br><br> |  
-| markdown_short | [category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth)<br><br> |  
+| markdown_full | [category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth](none)<br>[](none)<br>[Category Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth](none)<br><br> |  
+| markdown_short | [category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth](none)<br><br> |  
 | md5 | 4d8fbd1967998d4fff6f12513898ef5a |  
 | md5_10 | 4d8fbd1967 |  
 | md5_5 | 4d8fb |  

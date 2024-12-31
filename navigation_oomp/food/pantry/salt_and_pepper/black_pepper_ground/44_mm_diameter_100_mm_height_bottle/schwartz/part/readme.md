@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 black_pepper_ground
+
+
 
 ### name
 * name: Food Pantry Salt And Pepper Black Pepper Ground 44 mm Diameter 100 mm Height Bottle Schwartz
@@ -40,13 +43,13 @@ black_pepper_ground
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%209ahx2)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%209ahx2)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%209ahx2)
 [2x1](http://192.168.1.242:1112/?label=oomp%209ahx2)
 [6x4](http://192.168.1.55:1112/?label=oomp%209ahx2)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_black_pepper_ground_44_mm_diameter_100_mm_height_bottle_schwartz) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_salt_and_pepper_black_pepper_ground_44_mm_diameter_100_mm_height_bottle_schwartz)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_black_pepper_ground_44_mm_diameter_100_mm_height_bottle_schwartz)                              
 
 #### price
 
@@ -77,12 +80,10 @@ black_pepper_ground
 | id | food_pantry_salt_and_pepper_black_pepper_ground_44_mm_diameter_100_mm_height_bottle_schwartz |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_black_pepper_ground_44_mm_diameter_100_mm_height_bottle_schwartz |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_salt_and_pepper_black_pepper_ground_44_mm_diameter_100_mm_height_bottle_schwartz |  
-| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_black_pepper_ground_44_mm_diameter_100_mm_height_bottle_schwartz |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209ahx2 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209ahx2 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%209ahx2 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209ahx2 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209ahx2 |  
 | manufacturer | schwartz |  
 | manufacturer_name | Schwartz |  

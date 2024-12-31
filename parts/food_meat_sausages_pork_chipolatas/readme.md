@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 M&S Select Farms British 12 Pork Chipolatas
+
+
 
 ### name
 * name: Food Meat Sausages Pork Chipolatas
@@ -40,13 +43,13 @@ M&S Select Farms British 12 Pork Chipolatas
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%207yqjg)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%207yqjg)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%207yqjg)
 [2x1](http://192.168.1.242:1112/?label=oomp%207yqjg)
 [6x4](http://192.168.1.55:1112/?label=oomp%207yqjg)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_meat_sausages_pork_chipolatas)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)                             
 
 #### price
 
@@ -75,21 +78,23 @@ M&S Select Farms British 12 Pork Chipolatas
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_meat_sausages_pork_chipolatas |  
 | id | food_meat_sausages_pork_chipolatas |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_meat_sausages_pork_chipolatas |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
+| link_2_name | link_github |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=523896011 |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207yqjg |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207yqjg |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%207yqjg |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207yqjg |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207yqjg |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [food_meat_sausages_pork_chipolatas](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)<br>[Food Meat Sausages Pork Chipolatas](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)<br><br> |  
-| markdown_short | [food_meat_sausages_pork_chipolatas](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)<br><br> |  
+| markdown_full | [food_meat_sausages_pork_chipolatas](none)<br>[](none)<br>[Food Meat Sausages Pork Chipolatas](none)<br><br> |  
+| markdown_short | [food_meat_sausages_pork_chipolatas](none)<br><br> |  
 | md5 | cc21dc7399269f8623b6562320e32f61 |  
 | md5_10 | cc21dc7399 |  
 | md5_5 | cc21d |  

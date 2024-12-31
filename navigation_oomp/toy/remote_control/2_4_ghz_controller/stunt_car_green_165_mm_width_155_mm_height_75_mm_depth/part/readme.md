@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2070k1l)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2070k1l)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2070k1l)
 [2x1](http://192.168.1.242:1112/?label=oomp%2070k1l)
 [6x4](http://192.168.1.55:1112/?label=oomp%2070k1l)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth)                             
 
 #### price
 
@@ -73,21 +76,23 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
 | id | toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
+| link_2_name | link_github |  
 | link_distributor_aliexpress | https://www.aliexpress.com/item/1005006841176949.html |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2070k1l |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2070k1l |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2070k1l |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2070k1l |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2070k1l |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth)<br>[Toy Remote Control 2 4 Ghz Controller Stunt Car Green 165 Mm Width 155 Mm Height 75 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth)<br><br> |  
-| markdown_short | [toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth)<br><br> |  
+| markdown_full | [toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth](none)<br>[](none)<br>[Toy Remote Control 2 4 Ghz Controller Stunt Car Green 165 Mm Width 155 Mm Height 75 Mm Depth](none)<br><br> |  
+| markdown_short | [toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth](none)<br><br> |  
 | md5 | b3cc79e393524bf5798f389b3283d2c4 |  
 | md5_10 | b3cc79e393 |  
 | md5_5 | b3cc7 |  

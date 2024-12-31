@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2047aax)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2047aax)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2047aax)
 [2x1](http://192.168.1.242:1112/?label=oomp%2047aax)
 [6x4](http://192.168.1.55:1112/?label=oomp%2047aax)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx) [link_distributor_amazon](https://www.amazon.co.uk/dp/B0D8686DBH)                            
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx) [link_distributor_amazon](https://www.amazon.co.uk/dp/B0D8686DBH)                            
 
 #### price
 
@@ -72,26 +75,28 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
 | id | remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
+| link_2_name | link_github |  
 | link_3 | https://www.amazon.co.uk/dp/B0D8686DBH |  
 | link_3_name | link_distributor_amazon |  
 | link_buy_1 | https://www.amazon.co.uk/dp/B0D8686DBH |  
 | link_buy_1_name | link_distributor_amazon |  
 | link_distributor_aliexpress | https://www.aliexpress.com/item/1005005061265278.html |  
 | link_distributor_amazon | https://www.amazon.co.uk/dp/B0D8686DBH |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2047aax |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2047aax |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2047aax |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2047aax |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2047aax |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx |  
 | manufacturer | aliexpress |  
 | manufacturer_name | Aliexpress |  
 | manufacturers | [] |  
-| markdown_full | [remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx)<br>[Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Kit Retail Packaging Aliexpress Ga 4H Tx](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx)<br><br> |  
-| markdown_short | [remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx)<br><br> |  
+| markdown_full | [remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx](none)<br>[](none)<br>[Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Kit Retail Packaging Aliexpress Ga 4H Tx](none)<br><br> |  
+| markdown_short | [remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx](none)<br><br> |  
 | md5 | 6bb3e9f304b6b6cd09322ff16be147de |  
 | md5_10 | 6bb3e9f304 |  
 | md5_5 | 6bb3e |  

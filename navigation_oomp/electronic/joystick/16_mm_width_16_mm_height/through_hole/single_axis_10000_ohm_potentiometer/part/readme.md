@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20jp2f)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20jp2f)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20jp2f)
 [2x1](http://192.168.1.242:1112/?label=oomp%20jp2f)
 [6x4](http://192.168.1.55:1112/?label=oomp%20jp2f)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
 | id | electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20jp2f |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20jp2f |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20jp2f |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20jp2f |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20jp2f |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer)<br>[Electronic Joystick 16 Mm Width 16 Mm Height Through Hole Single Axis 10000 Ohm Potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer)<br><br> |  
-| markdown_short | [electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer)<br><br> |  
+| markdown_full | [electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer](none)<br>[](none)<br>[Electronic Joystick 16 Mm Width 16 Mm Height Through Hole Single Axis 10000 Ohm Potentiometer](none)<br><br> |  
+| markdown_short | [electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer](none)<br><br> |  
 | md5 | 0e05a77af7efd3e036ca827379fd2659 |  
 | md5_10 | 0e05a77af7 |  
 | md5_5 | 0e05a |  

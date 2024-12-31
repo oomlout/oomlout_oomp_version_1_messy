@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202v68u)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202v68u)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202v68u)
 [2x1](http://192.168.1.242:1112/?label=oomp%202v68u)
 [6x4](http://192.168.1.55:1112/?label=oomp%202v68u)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic)                             
 
 #### price
 
@@ -74,20 +77,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
 | id | electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202v68u |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202v68u |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202v68u |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202v68u |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202v68u |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic)<br>[conb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic)<br>[Electronic Connector Banana Style 4 Mm Black Banana Plug Plastic Basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic)<br><br> |  
-| markdown_short | [electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic)<br><br> |  
+| markdown_full | [electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic](none)<br>[conb](none)<br>[Electronic Connector Banana Style 4 Mm Black Banana Plug Plastic Basic](none)<br><br> |  
+| markdown_short | [electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic](none)<br><br> |  
 | md5 | 49735e3132217d8a878d5c95a5a1bdf1 |  
 | md5_10 | 49735e3132 |  
 | md5_5 | 49735 |  

@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208lu46)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208lu46)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208lu46)
 [2x1](http://192.168.1.242:1112/?label=oomp%208lu46)
 [6x4](http://192.168.1.55:1112/?label=oomp%208lu46)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
 | id | electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
 | kicad_reference | CONN |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208lu46 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208lu46 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208lu46 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208lu46 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208lu46 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole)<br>[hi12x7pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole)<br>[Electronic Header 2 54 Mm Dual Row 2X7 14 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br> |  
-| markdown_short | [electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br> |  
+| markdown_full | [electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole](none)<br>[hi12x7pth](none)<br>[Electronic Header 2 54 Mm Dual Row 2X7 14 Pin Through Hole](none)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br> |  
+| markdown_short | [electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole](none)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br> |  
 | md5 | dc93b63877f9b4e18addb08b27d87101 |  
 | md5_10 | dc93b63877 |  
 | md5_5 | dc93b |  

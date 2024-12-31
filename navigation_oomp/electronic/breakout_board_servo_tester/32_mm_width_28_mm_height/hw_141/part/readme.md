@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 A servo tester
+
+
 
 ### name
 * name: Electronic Breakout Board Servo Tester 32 mm Width 28 mm Height Hw 141
@@ -40,13 +43,13 @@ A servo tester
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%206rtxl)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%206rtxl)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206rtxl)
 [2x1](http://192.168.1.242:1112/?label=oomp%206rtxl)
 [6x4](http://192.168.1.55:1112/?label=oomp%206rtxl)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141)                             
 
 #### price
 
@@ -73,20 +76,22 @@ A servo tester
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
 | id | electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206rtxl |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206rtxl |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%206rtxl |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206rtxl |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206rtxl |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141)<br>[Electronic Breakout Board Servo Tester 32 Mm Width 28 Mm Height Hw 141](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141)<br><br> |  
-| markdown_short | [electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141)<br><br> |  
+| markdown_full | [electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141](none)<br>[](none)<br>[Electronic Breakout Board Servo Tester 32 Mm Width 28 Mm Height Hw 141](none)<br><br> |  
+| markdown_short | [electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141](none)<br><br> |  
 | md5 | ad964981e8f5870ebb5b41ca220281a0 |  
 | md5_10 | ad964981e8 |  
 | md5_5 | ad964 |  

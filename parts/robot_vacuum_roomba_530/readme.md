@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202ivni)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202ivni)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202ivni)
 [2x1](http://192.168.1.242:1112/?label=oomp%202ivni)
 [6x4](http://192.168.1.55:1112/?label=oomp%202ivni)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/robot_vacuum_roomba_530)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/robot_vacuum_roomba_530 |  
 | id | robot_vacuum_roomba_530 |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/robot_vacuum_roomba_530 |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530 |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530 |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202ivni |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202ivni |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202ivni |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202ivni |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202ivni |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530 |  
 | manufacturer | roomba |  
 | manufacturer_name | Roomba |  
 | manufacturers | [] |  
-| markdown_full | [robot_vacuum_roomba_530](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530)<br>[Robot Vacuum Roomba 530](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530)<br><br> |  
-| markdown_short | [robot_vacuum_roomba_530](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530)<br><br> |  
+| markdown_full | [robot_vacuum_roomba_530](none)<br>[](none)<br>[Robot Vacuum Roomba 530](none)<br><br> |  
+| markdown_short | [robot_vacuum_roomba_530](none)<br><br> |  
 | md5 | 40b2be7851feb72d2c4d370b71f98443 |  
 | md5_10 | 40b2be7851 |  
 | md5_5 | 40b2b |  

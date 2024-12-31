@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 garlic_powder
+
+
 
 ### name
 * name: Food Pantry Herb Garlic Powder 44 mm Diameter 100 mm Height Bottle Schwartz
@@ -40,13 +43,13 @@ garlic_powder
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%207e2dx)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%207e2dx)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%207e2dx)
 [2x1](http://192.168.1.242:1112/?label=oomp%207e2dx)
 [6x4](http://192.168.1.55:1112/?label=oomp%207e2dx)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_garlic_powder_44_mm_diameter_100_mm_height_bottle_schwartz) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_herb_garlic_powder_44_mm_diameter_100_mm_height_bottle_schwartz)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_garlic_powder_44_mm_diameter_100_mm_height_bottle_schwartz)                              
 
 #### price
 
@@ -77,12 +80,10 @@ garlic_powder
 | id | food_pantry_herb_garlic_powder_44_mm_diameter_100_mm_height_bottle_schwartz |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_garlic_powder_44_mm_diameter_100_mm_height_bottle_schwartz |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_herb_garlic_powder_44_mm_diameter_100_mm_height_bottle_schwartz |  
-| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_garlic_powder_44_mm_diameter_100_mm_height_bottle_schwartz |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207e2dx |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207e2dx |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%207e2dx |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207e2dx |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207e2dx |  
 | manufacturer | schwartz |  
 | manufacturer_name | Schwartz |  

@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 rice_long_grain_quick_cook
+
+
 
 ### name
 * name: Food Starch Rice Long Grain Quick Cook
@@ -40,13 +43,13 @@ rice_long_grain_quick_cook
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%207q1il)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%207q1il)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%207q1il)
 [2x1](http://192.168.1.242:1112/?label=oomp%207q1il)
 [6x4](http://192.168.1.55:1112/?label=oomp%207q1il)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_long_grain_quick_cook)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)                             
 
 #### price
 
@@ -75,20 +78,22 @@ rice_long_grain_quick_cook
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
 | id | food_starch_rice_long_grain_quick_cook |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207q1il |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207q1il |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%207q1il |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207q1il |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207q1il |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [food_starch_rice_long_grain_quick_cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br>[Food Starch Rice Long Grain Quick Cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br><br> |  
-| markdown_short | [food_starch_rice_long_grain_quick_cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br><br> |  
+| markdown_full | [food_starch_rice_long_grain_quick_cook](none)<br>[](none)<br>[Food Starch Rice Long Grain Quick Cook](none)<br><br> |  
+| markdown_short | [food_starch_rice_long_grain_quick_cook](none)<br><br> |  
 | md5 | c5f12dc7142570c30d6dde539975681d |  
 | md5_10 | c5f12dc714 |  
 | md5_5 | c5f12 |  

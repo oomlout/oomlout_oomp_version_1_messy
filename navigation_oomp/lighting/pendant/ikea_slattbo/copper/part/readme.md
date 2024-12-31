@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%201orw)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%201orw)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%201orw)
 [2x1](http://192.168.1.242:1112/?label=oomp%201orw)
 [6x4](http://192.168.1.55:1112/?label=oomp%201orw)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/lighting_pendant_ikea_slattbo_copper)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)                             
 
 #### price
 
@@ -74,20 +77,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
 | id | lighting_pendant_ikea_slattbo_copper |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201orw |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201orw |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%201orw |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201orw |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201orw |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [lighting_pendant_ikea_slattbo_copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br>[Lighting Pendant Ikea Slattbo Copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br><br> |  
-| markdown_short | [lighting_pendant_ikea_slattbo_copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br><br> |  
+| markdown_full | [lighting_pendant_ikea_slattbo_copper](none)<br>[](none)<br>[Lighting Pendant Ikea Slattbo Copper](none)<br><br> |  
+| markdown_short | [lighting_pendant_ikea_slattbo_copper](none)<br><br> |  
 | md5 | 0133acdc9d9248da44e03e5f6e3f107a |  
 | md5_10 | 0133acdc9d |  
 | md5_5 | 0133a |  

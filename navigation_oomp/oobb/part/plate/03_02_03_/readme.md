@@ -1,2 +1,0 @@
-* [label](label)
-* [t](t)

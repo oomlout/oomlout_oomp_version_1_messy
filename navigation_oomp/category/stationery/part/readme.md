@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_stationery
+
+
 
 ### name
 * name: Category Stationery
@@ -40,13 +43,13 @@ category_stationery
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2069q8j)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2069q8j)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2069q8j)
 [2x1](http://192.168.1.242:1112/?label=oomp%2069q8j)
 [6x4](http://192.168.1.55:1112/?label=oomp%2069q8j)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_stationery
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery |  
 | id | category_stationery |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2069q8j |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2069q8j |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2069q8j |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2069q8j |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2069q8j |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br>[Category Stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br><br> |  
-| markdown_short | [category_stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br><br> |  
+| markdown_full | [category_stationery](none)<br>[](none)<br>[Category Stationery](none)<br><br> |  
+| markdown_short | [category_stationery](none)<br><br> |  
 | md5 | a0b313b5c60a35d395b34cbb459168b5 |  
 | md5_10 | a0b313b5c6 |  
 | md5_5 | a0b31 |  

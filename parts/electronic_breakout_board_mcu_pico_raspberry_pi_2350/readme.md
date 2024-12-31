@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%201nhed)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%201nhed)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%201nhed)
 [2x1](http://192.168.1.242:1112/?label=oomp%201nhed)
 [6x4](http://192.168.1.55:1112/?label=oomp%201nhed)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)                             
 
 #### price
 
@@ -74,20 +77,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
 | id | electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
 | kicad_reference | BB |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201nhed |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201nhed |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%201nhed |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201nhed |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201nhed |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_breakout_board_mcu_pico_raspberry_pi_2350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)<br>[pc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)<br>[Electronic Breakout Board Mcu Pico Raspberry Pi 2350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)<br><br> |  
-| markdown_short | [electronic_breakout_board_mcu_pico_raspberry_pi_2350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)<br><br> |  
+| markdown_full | [electronic_breakout_board_mcu_pico_raspberry_pi_2350](none)<br>[pc](none)<br>[Electronic Breakout Board Mcu Pico Raspberry Pi 2350](none)<br><br> |  
+| markdown_short | [electronic_breakout_board_mcu_pico_raspberry_pi_2350](none)<br><br> |  
 | md5 | 2a58d55c70f387ed47a2e772d41d4a35 |  
 | md5_10 | 2a58d55c70 |  
 | md5_5 | 2a58d |  

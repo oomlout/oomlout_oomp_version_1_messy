@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%205ch7f)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%205ch7f)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205ch7f)
 [2x1](http://192.168.1.242:1112/?label=oomp%205ch7f)
 [6x4](http://192.168.1.55:1112/?label=oomp%205ch7f)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head)                             
 
 #### price
 
@@ -92,22 +95,24 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
 | id | hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
 | kicad_reference |  |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
+| link_2_name | link_github |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m6-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
 | link_buy_name | orbital_fasteners |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205ch7f |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205ch7f |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%205ch7f |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205ch7f |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205ch7f |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_socket_cap_m6_black_70_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head)<br>[sc6b70h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head)<br>[Hardware Screw Socket Cap M6 Black 70 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head)<br><br> |  
-| markdown_short | [hardware_screw_socket_cap_m6_black_70_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head)<br><br> |  
+| markdown_full | [hardware_screw_socket_cap_m6_black_70_mm_length_hex_head](none)<br>[sc6b70h](none)<br>[Hardware Screw Socket Cap M6 Black 70 Mm Length Hex Head](none)<br><br> |  
+| markdown_short | [hardware_screw_socket_cap_m6_black_70_mm_length_hex_head](none)<br><br> |  
 | md5 | 89071b342e93b054ea08545499d9a642 |  
 | md5_10 | 89071b342e |  
 | md5_5 | 89071 |  

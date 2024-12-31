@@ -336,15 +336,17 @@ id_no_class: ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
 id_no_color: atmega328_microchip_atmega328p_mu
 id_no_size: mcu_atmega328_microchip_atmega328p_mu
 id_no_type: mlf_32_mcu_atmega328_microchip_atmega328p_mu
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208dhz9
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208dhz9
-link_oomlout_label_3x2_oomp_table: http://192.168.1.107:1112/?label=oomp%208dhz9
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208dhz9
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208dhz9
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
 manufacturer: microchip
 manufacturer_capital: Microchip
 manufacturer_first_letter: m
@@ -376,9 +378,9 @@ manufacturer_upper_length_4: MICR
 manufacturer_upper_length_5: MICRO
 manufacturer_upper_length_6: MICROC
 manufacturers: []
-markdown_full: '[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br>[imlf32mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br>[Electronic
-  Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br><br>'
-markdown_short: '[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br><br>'
+markdown_full: '[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](none)<br>[imlf32mcuat328](none)<br>[Electronic
+  Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu](none)<br><br>'
+markdown_short: '[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](none)<br><br>'
 md5: d6a4452edcde90237afb3d93a423b538
 md5_10: d6a4452edc
 md5_10_upper: D6A4452EDC

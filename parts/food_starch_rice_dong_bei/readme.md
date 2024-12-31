@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 rice_dong_bei
+
+
 
 ### name
 * name: Food Starch Rice Dong Bei
@@ -40,13 +43,13 @@ rice_dong_bei
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208x3a2)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208x3a2)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208x3a2)
 [2x1](http://192.168.1.242:1112/?label=oomp%208x3a2)
 [6x4](http://192.168.1.55:1112/?label=oomp%208x3a2)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_dong_bei)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei)                             
 
 #### price
 
@@ -75,20 +78,22 @@ rice_dong_bei
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_dong_bei |  
 | id | food_starch_rice_dong_bei |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_dong_bei |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208x3a2 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208x3a2 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208x3a2 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208x3a2 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208x3a2 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [food_starch_rice_dong_bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br>[Food Starch Rice Dong Bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br><br> |  
-| markdown_short | [food_starch_rice_dong_bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br><br> |  
+| markdown_full | [food_starch_rice_dong_bei](none)<br>[](none)<br>[Food Starch Rice Dong Bei](none)<br><br> |  
+| markdown_short | [food_starch_rice_dong_bei](none)<br><br> |  
 | md5 | e496dae776c63bd49d1d6475f3e3fd55 |  
 | md5_10 | e496dae776 |  
 | md5_5 | e496d |  

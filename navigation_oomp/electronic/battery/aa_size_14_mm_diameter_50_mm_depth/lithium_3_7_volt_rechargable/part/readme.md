@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20331gv)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20331gv)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20331gv)
 [2x1](http://192.168.1.242:1112/?label=oomp%20331gv)
 [6x4](http://192.168.1.55:1112/?label=oomp%20331gv)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
 | id | electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20331gv |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20331gv |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20331gv |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20331gv |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20331gv |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable)<br>[Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable)<br><br> |  
-| markdown_short | [electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable)<br><br> |  
+| markdown_full | [electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable](none)<br>[](none)<br>[Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable](none)<br><br> |  
+| markdown_short | [electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable](none)<br><br> |  
 | md5 | 4f0d2fef1949e9598235ad5844fedc33 |  
 | md5_10 | 4f0d2fef19 |  
 | md5_5 | 4f0d2 |  

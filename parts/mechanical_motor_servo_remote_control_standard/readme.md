@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%209gv2k)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%209gv2k)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%209gv2k)
 [2x1](http://192.168.1.242:1112/?label=oomp%209gv2k)
 [6x4](http://192.168.1.55:1112/?label=oomp%209gv2k)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_servo_remote_control_standard)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
 | id | mechanical_motor_servo_remote_control_standard |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209gv2k |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209gv2k |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%209gv2k |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209gv2k |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209gv2k |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [mechanical_motor_servo_remote_control_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br>[Mechanical Motor Servo Remote Control Standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br><br> |  
-| markdown_short | [mechanical_motor_servo_remote_control_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br><br> |  
+| markdown_full | [mechanical_motor_servo_remote_control_standard](none)<br>[](none)<br>[Mechanical Motor Servo Remote Control Standard](none)<br><br> |  
+| markdown_short | [mechanical_motor_servo_remote_control_standard](none)<br><br> |  
 | md5 | f2aa4c78cda6e41e8907237af645fe86 |  
 | md5_10 | f2aa4c78cd |  
 | md5_5 | f2aa4 |  

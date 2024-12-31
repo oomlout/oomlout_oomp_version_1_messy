@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%203qg8g)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%203qg8g)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%203qg8g)
 [2x1](http://192.168.1.242:1112/?label=oomp%203qg8g)
 [6x4](http://192.168.1.55:1112/?label=oomp%203qg8g)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_locking) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49)                            
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49)                            
 
 #### price
 
@@ -96,24 +99,26 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_locking |  
 | id | hardware_nut_m6_locking |  
 | kicad_reference |  |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_locking |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking |  
+| link_2_name | link_github |  
 | link_3 | https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49 |  
 | link_3_name | webpage_manufacturer_metalmate |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m6-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
 | link_buy_name | orbital_fasteners |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203qg8g |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203qg8g |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%203qg8g |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203qg8g |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203qg8g |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m6_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking)<br>[Hardware Nut M6 Locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking)<br><br> |  
-| markdown_short | [hardware_nut_m6_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking)<br><br> |  
+| markdown_full | [hardware_nut_m6_locking](none)<br>[nu6](none)<br>[Hardware Nut M6 Locking](none)<br><br> |  
+| markdown_short | [hardware_nut_m6_locking](none)<br><br> |  
 | md5 | 5fb7b0fc3238a5144026c42452c46b34 |  
 | md5_10 | 5fb7b0fc32 |  
 | md5_5 | 5fb7b |  

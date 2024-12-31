@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_project
+
+
 
 ### name
 * name: Category Project Github
@@ -40,13 +43,13 @@ category_project
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2069y0w)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2069y0w)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2069y0w)
 [2x1](http://192.168.1.242:1112/?label=oomp%2069y0w)
 [6x4](http://192.168.1.55:1112/?label=oomp%2069y0w)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_project_github)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_project
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_project_github |  
 | id | category_project_github |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_project_github |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2069y0w |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2069y0w |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2069y0w |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2069y0w |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2069y0w |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_project_github](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github)<br>[Category Project Github](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github)<br><br> |  
-| markdown_short | [category_project_github](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github)<br><br> |  
+| markdown_full | [category_project_github](none)<br>[](none)<br>[Category Project Github](none)<br><br> |  
+| markdown_short | [category_project_github](none)<br><br> |  
 | md5 | a0da8013ac2199d698ff2a54d49a840b |  
 | md5_10 | a0da8013ac |  
 | md5_5 | a0da8 |  

@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 An interposer between an i2c chip and a soic_14_wide package. This is the landing side (for an interposer to land on)
+
+
 
 ### name
 * name: Electronic Interposer Soic 14 Wide I2C Landing
@@ -40,13 +43,13 @@ An interposer between an i2c chip and a soic_14_wide package. This is the landin
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202dmqm)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202dmqm)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202dmqm)
 [2x1](http://192.168.1.242:1112/?label=oomp%202dmqm)
 [6x4](http://192.168.1.55:1112/?label=oomp%202dmqm)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)                             
 
 #### price
 
@@ -75,20 +78,22 @@ An interposer between an i2c chip and a soic_14_wide package. This is the landin
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
 | id | electronic_interposer_soic_14_wide_i2c_landing |  
 | kicad_reference | U |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202dmqm |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202dmqm |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202dmqm |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202dmqm |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202dmqm |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)<br>[insoic14wi2cland](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)<br>[Electronic Interposer Soic 14 Wide I2C Landing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)<br><br> |  
-| markdown_short | [electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)<br><br> |  
+| markdown_full | [electronic_interposer_soic_14_wide_i2c_landing](none)<br>[insoic14wi2cland](none)<br>[Electronic Interposer Soic 14 Wide I2C Landing](none)<br><br> |  
+| markdown_short | [electronic_interposer_soic_14_wide_i2c_landing](none)<br><br> |  
 | md5 | 3cf65e88ee279c2b72da63b145edb0e3 |  
 | md5_10 | 3cf65e88ee |  
 | md5_5 | 3cf65 |  

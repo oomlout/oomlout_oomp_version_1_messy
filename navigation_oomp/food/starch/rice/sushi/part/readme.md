@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 rice_sushi
+
+
 
 ### name
 * name: Food Starch Rice Sushi
@@ -40,13 +43,13 @@ rice_sushi
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202jvyf)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202jvyf)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202jvyf)
 [2x1](http://192.168.1.242:1112/?label=oomp%202jvyf)
 [6x4](http://192.168.1.55:1112/?label=oomp%202jvyf)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_sushi)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi)                             
 
 #### price
 
@@ -75,20 +78,22 @@ rice_sushi
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_sushi |  
 | id | food_starch_rice_sushi |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_sushi |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202jvyf |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202jvyf |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202jvyf |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202jvyf |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202jvyf |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [food_starch_rice_sushi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi)<br>[Food Starch Rice Sushi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi)<br><br> |  
-| markdown_short | [food_starch_rice_sushi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi)<br><br> |  
+| markdown_full | [food_starch_rice_sushi](none)<br>[](none)<br>[Food Starch Rice Sushi](none)<br><br> |  
+| markdown_short | [food_starch_rice_sushi](none)<br><br> |  
 | md5 | 416a8711431a988ba47fd4fb1137ab81 |  
 | md5_10 | 416a871143 |  
 | md5_5 | 416a8 |  

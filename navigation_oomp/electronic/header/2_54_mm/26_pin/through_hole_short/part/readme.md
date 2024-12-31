@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208n2ug)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208n2ug)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208n2ug)
 [2x1](http://192.168.1.242:1112/?label=oomp%208n2ug)
 [6x4](http://192.168.1.55:1112/?label=oomp%208n2ug)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
 | id | electronic_header_2_54_mm_26_pin_through_hole_short |  
 | kicad_reference | CONN |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208n2ug |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208n2ug |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208n2ug |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208n2ug |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208n2ug |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_26_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short)<br>[hi126pths](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short)<br>[Electronic Header 2 54 Mm 26 Pin Through Hole Short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> |  
-| markdown_short | [electronic_header_2_54_mm_26_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> |  
+| markdown_full | [electronic_header_2_54_mm_26_pin_through_hole_short](none)<br>[hi126pths](none)<br>[Electronic Header 2 54 Mm 26 Pin Through Hole Short](none)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> |  
+| markdown_short | [electronic_header_2_54_mm_26_pin_through_hole_short](none)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br> |  
 | md5 | dd76283182dec5177c478e27250a98ea |  
 | md5_10 | dd76283182 |  
 | md5_5 | dd762 |  

@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%206q20b)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%206q20b)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206q20b)
 [2x1](http://192.168.1.242:1112/?label=oomp%206q20b)
 [6x4](http://192.168.1.55:1112/?label=oomp%206q20b)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_through_hole) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole |  
 | id | electronic_nettie_4_nets_through_hole |  
 | kicad_reference |  |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_through_hole |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_through_hole |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_through_hole |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_through_hole |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206q20b |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206q20b |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%206q20b |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206q20b |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206q20b |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_through_hole |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br>[nt4th](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br>[Electronic Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br><br> |  
-| markdown_short | [electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br><br> |  
+| markdown_full | [electronic_nettie_4_nets_through_hole](none)<br>[nt4th](none)<br>[Electronic Nettie 4 Nets Through Hole](none)<br><br> |  
+| markdown_short | [electronic_nettie_4_nets_through_hole](none)<br><br> |  
 | md5 | ac52abec84c9c9c28eb15db0ca925cd9 |  
 | md5_10 | ac52abec84 |  
 | md5_5 | ac52a |  

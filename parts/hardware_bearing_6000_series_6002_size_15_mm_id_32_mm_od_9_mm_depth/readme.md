@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2025kjv)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2025kjv)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2025kjv)
 [2x1](http://192.168.1.242:1112/?label=oomp%2025kjv)
 [6x4](http://192.168.1.55:1112/?label=oomp%2025kjv)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth)                             
 
 #### price
 
@@ -74,20 +77,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
 | id | hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2025kjv |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2025kjv |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2025kjv |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2025kjv |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2025kjv |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth)<br>[Hardware Bearing 6000 Series 6002 Size 15 Mm Id 32 Mm Od 9 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth)<br><br> |  
-| markdown_short | [hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth)<br><br> |  
+| markdown_full | [hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth](none)<br>[](none)<br>[Hardware Bearing 6000 Series 6002 Size 15 Mm Id 32 Mm Od 9 Mm Depth](none)<br><br> |  
+| markdown_short | [hardware_bearing_6000_series_6002_size_15_mm_id_32_mm_od_9_mm_depth](none)<br><br> |  
 | md5 | 37394b97b4e2fc408748c4a7ac39831c |  
 | md5_10 | 37394b97b4 |  
 | md5_5 | 37394 |  

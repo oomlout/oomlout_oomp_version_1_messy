@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202jq8f)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202jq8f)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202jq8f)
 [2x1](http://192.168.1.242:1112/?label=oomp%202jq8f)
 [6x4](http://192.168.1.55:1112/?label=oomp%202jq8f)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow_tint)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_yellow_tint) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_yellow_tint)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow_tint |  
 | id | electronic_led_0603_yellow_tint |  
 | kicad_reference | L |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow_tint |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202jq8f |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202jq8f |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202jq8f |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202jq8f |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202jq8f |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_xinglight', 'link': '', 'name': 'XINGLIGHT', 'part_number': 'XL-1608UYC-06'}] |  
-| markdown_full | [electronic_led_0603_yellow_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint)<br>[l6y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint)<br>[Electronic Led 0603 Yellow Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UYC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UYC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UYC-06)[(N)  ](https://www.newark.com/search?st=XL-1608UYC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UYC-06)<br> |  
-| markdown_short | [electronic_led_0603_yellow_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]() |  
+| markdown_full | [electronic_led_0603_yellow_tint](none)<br>[l6y](none)<br>[Electronic Led 0603 Yellow Tint](none)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UYC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UYC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UYC-06)[(N)  ](https://www.newark.com/search?st=XL-1608UYC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UYC-06)<br> |  
+| markdown_short | [electronic_led_0603_yellow_tint](none)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]() |  
 | md5 | 414d8f19b6da91e363f3b635f4bc439f |  
 | md5_10 | 414d8f19b6 |  
 | md5_5 | 414d8 |  

@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%201qsz8)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%201qsz8)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%201qsz8)
 [2x1](http://192.168.1.242:1112/?label=oomp%201qsz8)
 [6x4](http://192.168.1.55:1112/?label=oomp%201qsz8)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling)                             
 
 #### price
 
@@ -92,22 +95,24 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling |  
 | id | hardware_nut_m6_coupling |  
 | kicad_reference |  |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling |  
+| link_2_name | link_github |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/studding-connectors-mild-steel-m6x18-bright-zinc-plated-grade-4-din-6334-din-6334 |  
 | link_buy_name | orbital_fasteners |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201qsz8 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201qsz8 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%201qsz8 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201qsz8 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201qsz8 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br>[Hardware Nut M6 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br><br> |  
-| markdown_short | [hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br><br> |  
+| markdown_full | [hardware_nut_m6_coupling](none)<br>[nu6](none)<br>[Hardware Nut M6 Coupling](none)<br><br> |  
+| markdown_short | [hardware_nut_m6_coupling](none)<br><br> |  
 | md5 | 2cb634ff8de12e3092db946892b5149b |  
 | md5_10 | 2cb634ff8d |  
 | md5_5 | 2cb63 |  

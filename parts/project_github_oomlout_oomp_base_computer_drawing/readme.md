@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%206suss)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%206suss)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206suss)
 [2x1](http://192.168.1.242:1112/?label=oomp%206suss)
 [6x4](http://192.168.1.55:1112/?label=oomp%206suss)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)                             
 
 #### price
 
@@ -74,22 +77,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
 | id | project_github_oomlout_oomp_base_computer_drawing |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
-| link_2_name | github_link |  
-| link_github | https://github.com/oomlout/oomp_base_computer_drawing |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206suss |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206suss |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%206suss |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206suss |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206suss |  
-| link_redirect | https://github.com/oomlout/oomp_base_computer_drawing |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [project_github_oomlout_oomp_base_computer_drawing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)<br>[Project Github Oomlout Oomp Base Computer Drawing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)<br><br> |  
-| markdown_short | [project_github_oomlout_oomp_base_computer_drawing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)<br><br> |  
+| markdown_full | [project_github_oomlout_oomp_base_computer_drawing](none)<br>[](none)<br>[Project Github Oomlout Oomp Base Computer Drawing](none)<br><br> |  
+| markdown_short | [project_github_oomlout_oomp_base_computer_drawing](none)<br><br> |  
 | md5 | ae50ec22f8337a41950d2df071b1228f |  
 | md5_10 | ae50ec22f8 |  
 | md5_5 | ae50e |  

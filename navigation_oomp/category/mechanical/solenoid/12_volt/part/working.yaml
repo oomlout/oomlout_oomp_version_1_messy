@@ -303,15 +303,17 @@ id_no_class: mechanical_solenoid_12_volt
 id_no_color: 12_volt
 id_no_size: 12_volt
 id_no_type: solenoid_12_volt
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_12_volt
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_solenoid_12_volt
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_12_volt
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_12_volt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_12_volt
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202q2nm
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202q2nm
-link_oomlout_label_3x2_oomp_table: http://192.168.1.107:1112/?label=oomp%202q2nm
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202q2nm
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202q2nm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_12_volt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -319,9 +321,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_solenoid_12_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt)<br>[Category
-  Mechanical Solenoid 12 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt)<br><br>'
-markdown_short: '[category_mechanical_solenoid_12_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt)<br><br>'
+markdown_full: '[category_mechanical_solenoid_12_volt](none)<br>[](none)<br>[Category
+  Mechanical Solenoid 12 Volt](none)<br><br>'
+markdown_short: '[category_mechanical_solenoid_12_volt](none)<br><br>'
 md5: 45d1f271612e54b1b04be2b28a082c73
 md5_10: 45d1f27161
 md5_10_upper: 45D1F27161

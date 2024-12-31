@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_lighting
+
+
 
 ### name
 * name: Category Lighting
@@ -40,13 +43,13 @@ category_lighting
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%207rjm8)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%207rjm8)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%207rjm8)
 [2x1](http://192.168.1.242:1112/?label=oomp%207rjm8)
 [6x4](http://192.168.1.55:1112/?label=oomp%207rjm8)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_lighting)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_lighting
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_lighting |  
 | id | category_lighting |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_lighting |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207rjm8 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207rjm8 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%207rjm8 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207rjm8 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207rjm8 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_lighting](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting)<br>[Category Lighting](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting)<br><br> |  
-| markdown_short | [category_lighting](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting)<br><br> |  
+| markdown_full | [category_lighting](none)<br>[](none)<br>[Category Lighting](none)<br><br> |  
+| markdown_short | [category_lighting](none)<br><br> |  
 | md5 | c70310db8c3c27e10779e41eb537bf7c |  
 | md5_10 | c70310db8c |  
 | md5_5 | c7031 |  

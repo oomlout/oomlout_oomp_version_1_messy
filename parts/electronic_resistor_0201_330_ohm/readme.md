@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%204dlcm)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%204dlcm)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%204dlcm)
 [2x1](http://192.168.1.242:1112/?label=oomp%204dlcm)
 [6x4](http://192.168.1.55:1112/?label=oomp%204dlcm)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_330_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_330_ohm)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_330_ohm) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_330_ohm)                             
 
 #### price
 
@@ -75,20 +78,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_330_ohm |  
 | id | electronic_resistor_0201_330_ohm |  
 | kicad_reference | R |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_330_ohm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_330_ohm |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_330_ohm |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_330_ohm |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_330_ohm |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_330_ohm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_330_ohm |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204dlcm |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204dlcm |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%204dlcm |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%204dlcm |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204dlcm |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_330_ohm |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': 'NQ01WMJ0331TEE'}] |  
-| markdown_full | [electronic_resistor_0201_330_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_330_ohm)<br>[ro331](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_330_ohm)<br>[Electronic Resistor 0201 330 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_330_ohm)<br><br>[Uniroyal - NQ01WMJ0331TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0331TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0331TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0331TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0331TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0331TEE)<br> |  
-| markdown_short | [electronic_resistor_0201_330_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_330_ohm)<br><br>[Uniroyal - NQ01WMJ0331TEE- not in jlc basic parts]() |  
+| markdown_full | [electronic_resistor_0201_330_ohm](none)<br>[ro331](none)<br>[Electronic Resistor 0201 330 Ohm](none)<br><br>[Uniroyal - NQ01WMJ0331TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0331TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0331TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0331TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0331TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0331TEE)<br> |  
+| markdown_short | [electronic_resistor_0201_330_ohm](none)<br><br>[Uniroyal - NQ01WMJ0331TEE- not in jlc basic parts]() |  
 | md5 | 703156f2a2502e33d0f4689497b065c3 |  
 | md5_10 | 703156f2a2 |  
 | md5_5 | 70315 |  

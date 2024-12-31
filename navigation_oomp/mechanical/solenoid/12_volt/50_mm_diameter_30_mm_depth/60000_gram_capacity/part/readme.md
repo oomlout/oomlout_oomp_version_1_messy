@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208toai)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208toai)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208toai)
 [2x1](http://192.168.1.242:1112/?label=oomp%208toai)
 [6x4](http://192.168.1.55:1112/?label=oomp%208toai)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
 | id | mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208toai |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208toai |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208toai |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208toai |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208toai |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity)<br>[Mechanical Solenoid 12 Volt 50 Mm Diameter 30 Mm Depth 60000 Gram Capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity)<br><br> |  
-| markdown_short | [mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity)<br><br> |  
+| markdown_full | [mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity](none)<br>[](none)<br>[Mechanical Solenoid 12 Volt 50 Mm Diameter 30 Mm Depth 60000 Gram Capacity](none)<br><br> |  
+| markdown_short | [mechanical_solenoid_12_volt_50_mm_diameter_30_mm_depth_60000_gram_capacity](none)<br><br> |  
 | md5 | e2283a2ee991df7052d413f854995cae |  
 | md5_10 | e2283a2ee9 |  
 | md5_5 | e2283 |  

@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_mechanical
+
+
 
 ### name
 * name: Category Mechanical Motor With Encoder 30 mm Diameter
@@ -40,13 +43,13 @@ category_mechanical
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%207dt3y)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%207dt3y)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%207dt3y)
 [2x1](http://192.168.1.242:1112/?label=oomp%207dt3y)
 [6x4](http://192.168.1.55:1112/?label=oomp%207dt3y)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_mechanical
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
 | id | category_mechanical_motor_with_encoder_30_mm_diameter |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207dt3y |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207dt3y |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%207dt3y |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207dt3y |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207dt3y |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_mechanical_motor_with_encoder_30_mm_diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)<br>[Category Mechanical Motor With Encoder 30 Mm Diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)<br><br> |  
-| markdown_short | [category_mechanical_motor_with_encoder_30_mm_diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)<br><br> |  
+| markdown_full | [category_mechanical_motor_with_encoder_30_mm_diameter](none)<br>[](none)<br>[Category Mechanical Motor With Encoder 30 Mm Diameter](none)<br><br> |  
+| markdown_short | [category_mechanical_motor_with_encoder_30_mm_diameter](none)<br><br> |  
 | md5 | bd3b9e593a7332467766b05ce79bcfff |  
 | md5_10 | bd3b9e593a |  
 | md5_5 | bd3b9 |  

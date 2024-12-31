@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20224lc)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20224lc)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20224lc)
 [2x1](http://192.168.1.242:1112/?label=oomp%20224lc)
 [6x4](http://192.168.1.55:1112/?label=oomp%20224lc)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal', 'note': 'source footprint kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_mini_b_wuerth_65100516121_horizontal'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_scumnsmo_electronic_socket_usb_mini_surface_mount_only//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_scumnsmo_electronic_socket_usb_mini_surface_mount_only', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_scumnsmo_electronic_socket_usb_mini_surface_mount_only'}] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
 | id | electronic_socket_usb_mini_surface_mount_only |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20224lc |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20224lc |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20224lc |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20224lc |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20224lc |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_korean_hroparts_elec', 'link': '', 'name': 'Korean Hroparts Elec', 'part_number': 'U-M-M5SS-W-2'}] |  
-| markdown_full | [electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only)<br>[scumnsmo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only)<br>[Electronic Socket Usb Mini Surface Mount Only](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br> |  
-| markdown_short | [electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]() |  
+| markdown_full | [electronic_socket_usb_mini_surface_mount_only](none)<br>[scumnsmo](none)<br>[Electronic Socket Usb Mini Surface Mount Only](none)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br> |  
+| markdown_short | [electronic_socket_usb_mini_surface_mount_only](none)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]() |  
 | md5 | 34c5c0be3324508572b94f980c1c9606 |  
 | md5_10 | 34c5c0be33 |  
 | md5_5 | 34c5c |  

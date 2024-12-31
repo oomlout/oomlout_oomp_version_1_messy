@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20xxct)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20xxct)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20xxct)
 [2x1](http://192.168.1.242:1112/?label=oomp%20xxct)
 [6x4](http://192.168.1.55:1112/?label=oomp%20xxct)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
 | id | electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
 | kicad_reference |  |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20xxct |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20xxct |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20xxct |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20xxct |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20xxct |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length)<br>[l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length)<br>[Electronic Heatshrink 2 To 1 Shrink Ratio 38 1 Mm Internal Diameter Blue 30000 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length)<br><br> |  
-| markdown_short | [electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length)<br><br> |  
+| markdown_full | [electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length](none)<br>[l](none)<br>[Electronic Heatshrink 2 To 1 Shrink Ratio 38 1 Mm Internal Diameter Blue 30000 Mm Length](none)<br><br> |  
+| markdown_short | [electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_blue_30000_mm_length](none)<br><br> |  
 | md5 | 18271d5b4072de286cab1ca32e81f669 |  
 | md5_10 | 18271d5b40 |  
 | md5_5 | 18271 |  

@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_lighting
+
+
 
 ### name
 * name: Category Lighting Pendant Ikea Slattbo
@@ -40,13 +43,13 @@ category_lighting
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202zesh)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202zesh)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202zesh)
 [2x1](http://192.168.1.242:1112/?label=oomp%202zesh)
 [6x4](http://192.168.1.55:1112/?label=oomp%202zesh)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_lighting_pendant_ikea_slattbo)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_lighting
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
 | id | category_lighting_pendant_ikea_slattbo |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202zesh |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202zesh |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202zesh |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202zesh |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202zesh |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_lighting_pendant_ikea_slattbo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)<br>[Category Lighting Pendant Ikea Slattbo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)<br><br> |  
-| markdown_short | [category_lighting_pendant_ikea_slattbo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)<br><br> |  
+| markdown_full | [category_lighting_pendant_ikea_slattbo](none)<br>[](none)<br>[Category Lighting Pendant Ikea Slattbo](none)<br><br> |  
+| markdown_short | [category_lighting_pendant_ikea_slattbo](none)<br><br> |  
 | md5 | 4c77a194317548e370717d3421faa006 |  
 | md5_10 | 4c77a19431 |  
 | md5_5 | 4c77a |  

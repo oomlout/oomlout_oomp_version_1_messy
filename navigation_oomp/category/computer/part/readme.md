@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_computer
+
+
 
 ### name
 * name: Category Computer
@@ -40,13 +43,13 @@ category_computer
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2018x03)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2018x03)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2018x03)
 [2x1](http://192.168.1.242:1112/?label=oomp%2018x03)
 [6x4](http://192.168.1.55:1112/?label=oomp%2018x03)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_computer)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_computer
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_computer |  
 | id | category_computer |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_computer |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2018x03 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2018x03 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2018x03 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2018x03 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2018x03 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br>[Category Computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br><br> |  
-| markdown_short | [category_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br><br> |  
+| markdown_full | [category_computer](none)<br>[](none)<br>[Category Computer](none)<br><br> |  
+| markdown_short | [category_computer](none)<br><br> |  
 | md5 | 1ffa13d418a3f6a2f6e6d90031e5e87a |  
 | md5_10 | 1ffa13d418 |  
 | md5_5 | 1ffa1 |  

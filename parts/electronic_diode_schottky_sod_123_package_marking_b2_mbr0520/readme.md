@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%209vj7f)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%209vj7f)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%209vj7f)
 [2x1](http://192.168.1.242:1112/?label=oomp%209vj7f)
 [6x4](http://192.168.1.55:1112/?label=oomp%209vj7f)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
 | id | electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
 | kicad_reference | D |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209vj7f |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209vj7f |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%209vj7f |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209vj7f |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209vj7f |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_jiangsu_changjing_electronics_technology_co_ltd', 'link': '', 'name': 'Jiangsu Changjing Electronics Technology Co., Ltd.', 'part_number': 'MBR0520'}, {'id': 'manufacturer_shikues', 'link': '', 'name': 'Shikues', 'part_number': 'MBR0520'}, {'id': 'manufacturer_onsemi', 'link': '', 'name': 'onsemi', 'part_number': 'MBR0520LT3G'}] |  
-| markdown_full | [electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520)<br>[dssod123pmb2mbr0520](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520)<br>[Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520)<br>[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)<br>[Jiangsu Changjing Electronics Technology Co., Ltd. - MBR0520]() [(L)  ](https://www.lcsc.com/search?q=MBR0520)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)  ](https://www.newark.com/search?st=MBR0520)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520)<br>[Shikues - MBR0520]() [(L)  ](https://www.lcsc.com/search?q=MBR0520)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)  ](https://www.newark.com/search?st=MBR0520)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520)<br>[onsemi - MBR0520LT3G]() [(L)  ](https://www.lcsc.com/search?q=MBR0520LT3G)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520LT3G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520LT3G)[(N)  ](https://www.newark.com/search?st=MBR0520LT3G)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520LT3G)<br> |  
-| markdown_short | [electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520)<br>[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)<br>[Jiangsu Changjing Electronics Technology Co., Ltd. - MBR0520]()[Shikues - MBR0520]()[onsemi - MBR0520LT3G]() |  
+| markdown_full | [electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](none)<br>[dssod123pmb2mbr0520](none)<br>[Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520](none)<br>[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)<br>[Jiangsu Changjing Electronics Technology Co., Ltd. - MBR0520]() [(L)  ](https://www.lcsc.com/search?q=MBR0520)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)  ](https://www.newark.com/search?st=MBR0520)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520)<br>[Shikues - MBR0520]() [(L)  ](https://www.lcsc.com/search?q=MBR0520)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)  ](https://www.newark.com/search?st=MBR0520)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520)<br>[onsemi - MBR0520LT3G]() [(L)  ](https://www.lcsc.com/search?q=MBR0520LT3G)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520LT3G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520LT3G)[(N)  ](https://www.newark.com/search?st=MBR0520LT3G)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520LT3G)<br> |  
+| markdown_short | [electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](none)<br>[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)<br>[Jiangsu Changjing Electronics Technology Co., Ltd. - MBR0520]()[Shikues - MBR0520]()[onsemi - MBR0520LT3G]() |  
 | md5 | fd1bfba95edbbb6f03cb0e465b2a0493 |  
 | md5_10 | fd1bfba95e |  
 | md5_5 | fd1bf |  

@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%201z6hz)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%201z6hz)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%201z6hz)
 [2x1](http://192.168.1.242:1112/?label=oomp%201z6hz)
 [6x4](http://192.168.1.55:1112/?label=oomp%201z6hz)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_bambu_lab_a1)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
 | id | three_d_printer_printer_bambu_lab_a1 |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201z6hz |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201z6hz |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%201z6hz |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201z6hz |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201z6hz |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [three_d_printer_printer_bambu_lab_a1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1)<br>[Three D Printer Printer Bambu Lab A1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1)<br><br> |  
-| markdown_short | [three_d_printer_printer_bambu_lab_a1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1)<br><br> |  
+| markdown_full | [three_d_printer_printer_bambu_lab_a1](none)<br>[](none)<br>[Three D Printer Printer Bambu Lab A1](none)<br><br> |  
+| markdown_short | [three_d_printer_printer_bambu_lab_a1](none)<br><br> |  
 | md5 | 32aca79eafad192ac10821a1465e9cc4 |  
 | md5_10 | 32aca79eaf |  
 | md5_5 | 32aca |  

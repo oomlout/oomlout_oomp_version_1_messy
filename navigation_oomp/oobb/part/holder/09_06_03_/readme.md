@@ -1,1 +1,0 @@
-* [computer_power_supply_microsoft_surface_standalone_microsoft_model_1625](computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)

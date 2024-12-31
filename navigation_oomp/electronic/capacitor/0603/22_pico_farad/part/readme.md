@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2099a0s)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2099a0s)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2099a0s)
 [2x1](http://192.168.1.242:1112/?label=oomp%2099a0s)
 [6x4](http://192.168.1.55:1112/?label=oomp%2099a0s)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
 | id | electronic_capacitor_0603_22_pico_farad |  
 | kicad_reference | C |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2099a0s |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2099a0s |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2099a0s |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2099a0s |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2099a0s |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_hctl', 'link': '', 'name': 'HCTL', 'part_number': 'TC-3601L-2.5-260G'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220', 'name': 'Yageo', 'part_number': 'CC0603JRNPO9BN220'}] |  
-| markdown_full | [electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br>[c6pf22](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br>[Electronic Capacitor 0603 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br><br>[HCTL - TC-3601L-2.5-260G]() [(L)  ](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)  ](https://www.digikey.com/en/products?keywords=TC-3601L-2.5-260G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)  ](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)  ](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)<br>[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) [(L)  ](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603JRNPO9BN220)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)  ](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)<br> |  
-| markdown_short | [electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br><br>[HCTL - TC-3601L-2.5-260G]()[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) |  
+| markdown_full | [electronic_capacitor_0603_22_pico_farad](none)<br>[c6pf22](none)<br>[Electronic Capacitor 0603 22 Pico Farad](none)<br><br>[HCTL - TC-3601L-2.5-260G]() [(L)  ](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)  ](https://www.digikey.com/en/products?keywords=TC-3601L-2.5-260G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)  ](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)  ](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)<br>[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) [(L)  ](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603JRNPO9BN220)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)  ](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)<br> |  
+| markdown_short | [electronic_capacitor_0603_22_pico_farad](none)<br><br>[HCTL - TC-3601L-2.5-260G]()[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) |  
 | md5 | ed43fc9f13c024e0a26ef47e97a61fd1 |  
 | md5_10 | ed43fc9f13 |  
 | md5_5 | ed43f |  

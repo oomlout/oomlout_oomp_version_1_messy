@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_electrical
+
+
 
 ### name
 * name: Category Electrical Light Panel 600 mm X 600 mm Tote
@@ -40,13 +43,13 @@ category_electrical
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%205o4so)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%205o4so)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205o4so)
 [2x1](http://192.168.1.242:1112/?label=oomp%205o4so)
 [6x4](http://192.168.1.55:1112/?label=oomp%205o4so)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_electrical
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
 | id | category_electrical_light_panel_600_mm_x_600_mm_tote |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205o4so |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205o4so |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%205o4so |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205o4so |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205o4so |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_electrical_light_panel_600_mm_x_600_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote)<br>[Category Electrical Light Panel 600 Mm X 600 Mm Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote)<br><br> |  
-| markdown_short | [category_electrical_light_panel_600_mm_x_600_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel_600_mm_x_600_mm_tote)<br><br> |  
+| markdown_full | [category_electrical_light_panel_600_mm_x_600_mm_tote](none)<br>[](none)<br>[Category Electrical Light Panel 600 Mm X 600 Mm Tote](none)<br><br> |  
+| markdown_short | [category_electrical_light_panel_600_mm_x_600_mm_tote](none)<br><br> |  
 | md5 | 915348b51486644e2dd6c5829ed475f1 |  
 | md5_10 | 915348b514 |  
 | md5_5 | 91534 |  

@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20unls)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20unls)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20unls)
 [2x1](http://192.168.1.242:1112/?label=oomp%20unls)
 [6x4](http://192.168.1.55:1112/?label=oomp%20unls)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
 | id | electronic_socket_2_54_mm_5_pin_through_hole |  
 | kicad_reference | CONN |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20unls |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20unls |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20unls |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20unls |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20unls |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_socket_2_54_mm_5_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole)<br>[sci15pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole)<br>[Electronic Socket 2 54 Mm 5 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole)<br><br> |  
-| markdown_short | [electronic_socket_2_54_mm_5_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_5_pin_through_hole)<br><br> |  
+| markdown_full | [electronic_socket_2_54_mm_5_pin_through_hole](none)<br>[sci15pth](none)<br>[Electronic Socket 2 54 Mm 5 Pin Through Hole](none)<br><br> |  
+| markdown_short | [electronic_socket_2_54_mm_5_pin_through_hole](none)<br><br> |  
 | md5 | 15d30073e8b3ad3510a14195404ea4fa |  
 | md5_10 | 15d30073e8 |  
 | md5_5 | 15d30 |  

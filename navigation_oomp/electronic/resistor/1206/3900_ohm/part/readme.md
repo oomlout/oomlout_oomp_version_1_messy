@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%201vwep)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%201vwep)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%201vwep)
 [2x1](http://192.168.1.242:1112/?label=oomp%201vwep)
 [6x4](http://192.168.1.55:1112/?label=oomp%201vwep)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_3900_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3900_ohm)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_3900_ohm) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_3900_ohm)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3900_ohm |  
 | id | electronic_resistor_1206_3900_ohm |  
 | kicad_reference | R |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_3900_ohm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_3900_ohm |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_3900_ohm |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_3900_ohm |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_3900_ohm |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_3900_ohm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_3900_ohm |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201vwep |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201vwep |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%201vwep |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201vwep |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201vwep |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_3900_ohm |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': '1206W4J0392T5E'}, {'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}, 'part_number': '1206W4F3901T5E'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-073K9L', 'name': 'Yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}, 'part_number': 'RC1206JR-073K9L'}] |  
-| markdown_full | [electronic_resistor_1206_3900_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_3900_ohm)<br>[r12o392](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_3900_ohm)<br>[Electronic Resistor 1206 3900 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_3900_ohm)<br><br>[Uniroyal - 1206W4J0392T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0392T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0392T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0392T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0392T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0392T5E)<br>[Uniroyal - 1206W4F3901T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F3901T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F3901T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F3901T5E)[(N)  ](https://www.newark.com/search?st=1206W4F3901T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F3901T5E)<br>[Yageo - RC1206JR-073K9L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-073K9L) [(L)  ](https://www.lcsc.com/search?q=RC1206JR-073K9L)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-073K9L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-073K9L)[(N)  ](https://www.newark.com/search?st=RC1206JR-073K9L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-073K9L)<br> |  
-| markdown_short | [electronic_resistor_1206_3900_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_3900_ohm)<br><br>[Uniroyal - 1206W4J0392T5E- not in jlc basic parts]()[Uniroyal - 1206W4F3901T5E- jlc basic part]()[Yageo - RC1206JR-073K9L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-073K9L) |  
+| markdown_full | [electronic_resistor_1206_3900_ohm](none)<br>[r12o392](none)<br>[Electronic Resistor 1206 3900 Ohm](none)<br><br>[Uniroyal - 1206W4J0392T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0392T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0392T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0392T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0392T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0392T5E)<br>[Uniroyal - 1206W4F3901T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F3901T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F3901T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F3901T5E)[(N)  ](https://www.newark.com/search?st=1206W4F3901T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F3901T5E)<br>[Yageo - RC1206JR-073K9L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-073K9L) [(L)  ](https://www.lcsc.com/search?q=RC1206JR-073K9L)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-073K9L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-073K9L)[(N)  ](https://www.newark.com/search?st=RC1206JR-073K9L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-073K9L)<br> |  
+| markdown_short | [electronic_resistor_1206_3900_ohm](none)<br><br>[Uniroyal - 1206W4J0392T5E- not in jlc basic parts]()[Uniroyal - 1206W4F3901T5E- jlc basic part]()[Yageo - RC1206JR-073K9L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-073K9L) |  
 | md5 | 3056d139a3e788a4c1c74fce4150a6ae |  
 | md5_10 | 3056d139a3 |  
 | md5_5 | 3056d |  

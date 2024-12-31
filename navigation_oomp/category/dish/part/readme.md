@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_dish
+
+
 
 ### name
 * name: Category Dish
@@ -40,13 +43,13 @@ category_dish
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2010slz)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2010slz)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2010slz)
 [2x1](http://192.168.1.242:1112/?label=oomp%2010slz)
 [6x4](http://192.168.1.55:1112/?label=oomp%2010slz)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_dish)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_dish
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_dish |  
 | id | category_dish |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_dish |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2010slz |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2010slz |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2010slz |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2010slz |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2010slz |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br>[Category Dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br><br> |  
-| markdown_short | [category_dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br><br> |  
+| markdown_full | [category_dish](none)<br>[](none)<br>[Category Dish](none)<br><br> |  
+| markdown_short | [category_dish](none)<br><br> |  
 | md5 | 1a31d7711f78d9084cfd39ccd067b646 |  
 | md5_10 | 1a31d7711f |  
 | md5_5 | 1a31d |  

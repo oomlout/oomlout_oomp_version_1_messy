@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%207tyc5)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%207tyc5)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%207tyc5)
 [2x1](http://192.168.1.242:1112/?label=oomp%207tyc5)
 [6x4](http://192.168.1.55:1112/?label=oomp%207tyc5)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
 | id | electronic_screw_terminal_5_mm_pitch_5_pin |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207tyc5 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207tyc5 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%207tyc5 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207tyc5 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207tyc5 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_screw_terminal_5_mm_pitch_5_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin)<br>[5p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin)<br>[Electronic Screw Terminal 5 Mm Pitch 5 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin)<br><br> |  
-| markdown_short | [electronic_screw_terminal_5_mm_pitch_5_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_5_pin)<br><br> |  
+| markdown_full | [electronic_screw_terminal_5_mm_pitch_5_pin](none)<br>[5p](none)<br>[Electronic Screw Terminal 5 Mm Pitch 5 Pin](none)<br><br> |  
+| markdown_short | [electronic_screw_terminal_5_mm_pitch_5_pin](none)<br><br> |  
 | md5 | c8ba15ed40656d40908c314e1eabc5a5 |  
 | md5_10 | c8ba15ed40 |  
 | md5_5 | c8ba1 |  

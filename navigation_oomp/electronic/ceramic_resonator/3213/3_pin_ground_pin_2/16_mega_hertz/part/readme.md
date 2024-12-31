@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20971yz)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20971yz)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20971yz)
 [2x1](http://192.168.1.242:1112/?label=oomp%20971yz)
 [6x4](http://192.168.1.55:1112/?label=oomp%20971yz)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
 | id | electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
 | kicad_reference | x |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20971yz |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20971yz |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20971yz |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20971yz |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20971yz |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_murata', 'link': 'https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0', 'name': 'Murata', 'part_number': 'CSTNE16M0VH3C000R0'}] |  
-| markdown_full | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz)<br>[xcr3213mhz16](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz)<br>[Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz)<br>[LCSC - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0) [(L)  ](https://www.lcsc.com/search?q=CSTNE16M0VH3C000R0)[(D)  ](https://www.digikey.com/en/products?keywords=CSTNE16M0VH3C000R0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CSTNE16M0VH3C000R0)[(N)  ](https://www.newark.com/search?st=CSTNE16M0VH3C000R0)[(SZ)  ](https://so.szlcsc.com/global.html?k=CSTNE16M0VH3C000R0)<br> |  
-| markdown_short | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz)<br>[LCSC - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0) |  
+| markdown_full | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](none)<br>[xcr3213mhz16](none)<br>[Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz](none)<br>[LCSC - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0) [(L)  ](https://www.lcsc.com/search?q=CSTNE16M0VH3C000R0)[(D)  ](https://www.digikey.com/en/products?keywords=CSTNE16M0VH3C000R0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CSTNE16M0VH3C000R0)[(N)  ](https://www.newark.com/search?st=CSTNE16M0VH3C000R0)[(SZ)  ](https://so.szlcsc.com/global.html?k=CSTNE16M0VH3C000R0)<br> |  
+| markdown_short | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](none)<br>[LCSC - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0) |  
 | md5 | ebaebba3b264fd4a342d970d6a4f461e |  
 | md5_10 | ebaebba3b2 |  
 | md5_5 | ebaeb |  

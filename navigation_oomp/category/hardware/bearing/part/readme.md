@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_hardware
+
+
 
 ### name
 * name: Category Hardware Bearing
@@ -40,13 +43,13 @@ category_hardware
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%207h6vt)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%207h6vt)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%207h6vt)
 [2x1](http://192.168.1.242:1112/?label=oomp%207h6vt)
 [6x4](http://192.168.1.55:1112/?label=oomp%207h6vt)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_bearing)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_hardware
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_bearing |  
 | id | category_hardware_bearing |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_bearing |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207h6vt |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207h6vt |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%207h6vt |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%207h6vt |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207h6vt |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_hardware_bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing)<br>[Category Hardware Bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing)<br><br> |  
-| markdown_short | [category_hardware_bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing)<br><br> |  
+| markdown_full | [category_hardware_bearing](none)<br>[](none)<br>[Category Hardware Bearing](none)<br><br> |  
+| markdown_short | [category_hardware_bearing](none)<br><br> |  
 | md5 | bfa4196d8c70a17c6b5291ce963ddcee |  
 | md5_10 | bfa4196d8c |  
 | md5_5 | bfa41 |  

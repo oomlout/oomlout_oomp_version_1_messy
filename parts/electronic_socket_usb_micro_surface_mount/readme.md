@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%206o1k8)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%206o1k8)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206o1k8)
 [2x1](http://192.168.1.242:1112/?label=oomp%206o1k8)
 [6x4](http://192.168.1.55:1112/?label=oomp%206o1k8)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'note': 'source footprint kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'oomp_key': 'oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount'}] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
 | id | electronic_socket_usb_micro_surface_mount |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206o1k8 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206o1k8 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%206o1k8 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206o1k8 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206o1k8 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> |  
-| markdown_short | [electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> |  
+| markdown_full | [electronic_socket_usb_micro_surface_mount](none)<br>[scumcsm](none)<br>[Electronic Socket Usb Micro Surface Mount](none)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> |  
+| markdown_short | [electronic_socket_usb_micro_surface_mount](none)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br> |  
 | md5 | aae3e879c3fb0042b5bcdf92835870fd |  
 | md5_10 | aae3e879c3 |  
 | md5_5 | aae3e |  

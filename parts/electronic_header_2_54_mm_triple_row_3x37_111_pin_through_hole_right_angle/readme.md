@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%206cxug)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%206cxug)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206cxug)
 [2x1](http://192.168.1.242:1112/?label=oomp%206cxug)
 [6x4](http://192.168.1.55:1112/?label=oomp%206cxug)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
 | id | electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
 | kicad_reference | CONN |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206cxug |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206cxug |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%206cxug |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206cxug |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206cxug |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle)<br>[hthra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle)<br>[Electronic Header 2 54 Mm Triple Row 3X37 111 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle)<br><br> |  
-| markdown_short | [electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle)<br><br> |  
+| markdown_full | [electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle](none)<br>[hthra](none)<br>[Electronic Header 2 54 Mm Triple Row 3X37 111 Pin Through Hole Right Angle](none)<br><br> |  
+| markdown_short | [electronic_header_2_54_mm_triple_row_3x37_111_pin_through_hole_right_angle](none)<br><br> |  
 | md5 | a2fc588c003dcfeeba6a69673921c471 |  
 | md5_10 | a2fc588c00 |  
 | md5_5 | a2fc5 |  

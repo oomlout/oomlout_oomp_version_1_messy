@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2011rl8)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2011rl8)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2011rl8)
 [2x1](http://192.168.1.242:1112/?label=oomp%2011rl8)
 [6x4](http://192.168.1.55:1112/?label=oomp%2011rl8)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)                             
 
 #### price
 
@@ -73,20 +76,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2', 'note': 'source footprint kicad_package_to_sot_smd_sot_223_3_tabpin2', 'oomp_key': 'oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_1_8_volt//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_1_8_volt', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_1_8_volt'}] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
 | id | electronic_pmic_sot_223_linear_1117_1_8_volt |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2011rl8 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2011rl8 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2011rl8 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2011rl8 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2011rl8 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_pmic_sot_223_linear_1117_1_8_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)<br>[Electronic Pmic Sot 223 Linear 1117 1 8 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)<br><br> |  
-| markdown_short | [electronic_pmic_sot_223_linear_1117_1_8_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)<br><br> |  
+| markdown_full | [electronic_pmic_sot_223_linear_1117_1_8_volt](none)<br>[pms2231117](none)<br>[Electronic Pmic Sot 223 Linear 1117 1 8 Volt](none)<br><br> |  
+| markdown_short | [electronic_pmic_sot_223_linear_1117_1_8_volt](none)<br><br> |  
 | md5 | 1ae2ec9bc6ca9d86e38f14487d5958be |  
 | md5_10 | 1ae2ec9bc6 |  
 | md5_5 | 1ae2e |  

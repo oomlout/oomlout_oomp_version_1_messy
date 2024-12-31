@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%206kttm)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%206kttm)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206kttm)
 [2x1](http://192.168.1.242:1112/?label=oomp%206kttm)
 [6x4](http://192.168.1.55:1112/?label=oomp%206kttm)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C146233.html', 'name': 'LCSC', 'part_number': 'C146233'}] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
 | id | electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206kttm |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206kttm |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%206kttm |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206kttm |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206kttm |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
 | manufacturer | everlight_elec |  
 | manufacturer_name | Everlight Elec |  
 | manufacturers | [{'id': 'manufacturer_everlight_elec', 'link': 'https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html', 'name': 'Everlight Elec', 'part_number': 'ALS-PT19-315C/L177/TR8'}] |  
-| markdown_full | [electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19)<br>[i6snl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19)<br>[Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19)<br>[LCSC - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html) [(L)  ](https://www.lcsc.com/search?q=ALS-PT19-315C/L177/TR8)[(D)  ](https://www.digikey.com/en/products?keywords=ALS-PT19-315C/L177/TR8)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ALS-PT19-315C/L177/TR8)[(N)  ](https://www.newark.com/search?st=ALS-PT19-315C/L177/TR8)[(SZ)  ](https://so.szlcsc.com/global.html?k=ALS-PT19-315C/L177/TR8)<br> |  
-| markdown_short | [electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19)<br>[LCSC - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html) |  
+| markdown_full | [electronic_ic_0603_sensor_light_everlight_elec_als_pt19](none)<br>[i6snl](none)<br>[Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19](none)<br>[LCSC - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html) [(L)  ](https://www.lcsc.com/search?q=ALS-PT19-315C/L177/TR8)[(D)  ](https://www.digikey.com/en/products?keywords=ALS-PT19-315C/L177/TR8)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ALS-PT19-315C/L177/TR8)[(N)  ](https://www.newark.com/search?st=ALS-PT19-315C/L177/TR8)[(SZ)  ](https://so.szlcsc.com/global.html?k=ALS-PT19-315C/L177/TR8)<br> |  
+| markdown_short | [electronic_ic_0603_sensor_light_everlight_elec_als_pt19](none)<br>[LCSC - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html) |  
 | md5 | a899fa60e8493d80f5a175ad3370e8c5 |  
 | md5_10 | a899fa60e8 |  
 | md5_5 | a899f |  

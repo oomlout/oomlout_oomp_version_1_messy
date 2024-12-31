@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 flour_pasta_double_zero
+
+
 
 ### name
 * name: Food Baking Flour Pasta Double Zero
@@ -40,13 +43,13 @@ flour_pasta_double_zero
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%209jfxj)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%209jfxj)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%209jfxj)
 [2x1](http://192.168.1.242:1112/?label=oomp%209jfxj)
 [6x4](http://192.168.1.55:1112/?label=oomp%209jfxj)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_pasta_double_zero) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_pasta_double_zero)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero)                             
 
 #### price
 
@@ -75,20 +78,22 @@ flour_pasta_double_zero
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_pasta_double_zero |  
 | id | food_baking_flour_pasta_double_zero |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_pasta_double_zero |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_pasta_double_zero |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_pasta_double_zero |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209jfxj |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209jfxj |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%209jfxj |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209jfxj |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209jfxj |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [food_baking_flour_pasta_double_zero](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_pasta_double_zero)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_pasta_double_zero)<br>[Food Baking Flour Pasta Double Zero](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_pasta_double_zero)<br><br> |  
-| markdown_short | [food_baking_flour_pasta_double_zero](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_pasta_double_zero)<br><br> |  
+| markdown_full | [food_baking_flour_pasta_double_zero](none)<br>[](none)<br>[Food Baking Flour Pasta Double Zero](none)<br><br> |  
+| markdown_short | [food_baking_flour_pasta_double_zero](none)<br><br> |  
 | md5 | f48067930e2bad21266d3395a5248e34 |  
 | md5_10 | f48067930e |  
 | md5_5 | f4806 |  

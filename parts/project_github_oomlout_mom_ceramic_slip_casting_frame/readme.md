@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%204p0qs)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%204p0qs)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%204p0qs)
 [2x1](http://192.168.1.242:1112/?label=oomp%204p0qs)
 [6x4](http://192.168.1.55:1112/?label=oomp%204p0qs)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)                             
 
 #### price
 
@@ -74,22 +77,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
 | id | project_github_oomlout_mom_ceramic_slip_casting_frame |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
-| link_2_name | github_link |  
-| link_github | https://github.com/oomlout/mom_ceramic_slip_casting_frame |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204p0qs |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204p0qs |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%204p0qs |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%204p0qs |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204p0qs |  
-| link_redirect | https://github.com/oomlout/mom_ceramic_slip_casting_frame |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [project_github_oomlout_mom_ceramic_slip_casting_frame](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)<br>[Project Github Oomlout Mom Ceramic Slip Casting Frame](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)<br><br> |  
-| markdown_short | [project_github_oomlout_mom_ceramic_slip_casting_frame](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)<br><br> |  
+| markdown_full | [project_github_oomlout_mom_ceramic_slip_casting_frame](none)<br>[](none)<br>[Project Github Oomlout Mom Ceramic Slip Casting Frame](none)<br><br> |  
+| markdown_short | [project_github_oomlout_mom_ceramic_slip_casting_frame](none)<br><br> |  
 | md5 | 78540436875858b02363b94349d586dc |  
 | md5_10 | 7854043687 |  
 | md5_5 | 78540 |  

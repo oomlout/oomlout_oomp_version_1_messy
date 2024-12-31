@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%205i1ld)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%205i1ld)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205i1ld)
 [2x1](http://192.168.1.242:1112/?label=oomp%205i1ld)
 [6x4](http://192.168.1.55:1112/?label=oomp%205i1ld)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
 | id | electronic_capacitor_0603_100_nano_farad |  
 | kicad_reference | C |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205i1ld |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205i1ld |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%205i1ld |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205i1ld |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205i1ld |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_samsung', 'link': 'https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do', 'name': 'Samsung', 'part_number': 'CL10B104KB8NNNC'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104', 'name': 'Yageo', 'part_number': 'CC0603KRX7R9BB104'}] |  
-| markdown_full | [electronic_capacitor_0603_100_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad)<br>[c6nf100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad)<br>[Electronic Capacitor 0603 100 Nano Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad)<br>[LCSC - C14663<br>](https://lcsc.com/product-detail/C14663.html)[LCSC - C30926<br>](https://lcsc.com/product-detail/C30926.html)<br>[Samsung - CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do) [(L)  ](https://www.lcsc.com/search?q=CL10B104KB8NNNC)[(D)  ](https://www.digikey.com/en/products?keywords=CL10B104KB8NNNC)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CL10B104KB8NNNC)[(N)  ](https://www.newark.com/search?st=CL10B104KB8NNNC)[(SZ)  ](https://so.szlcsc.com/global.html?k=CL10B104KB8NNNC)<br>[Yageo - CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104) [(L)  ](https://www.lcsc.com/search?q=CC0603KRX7R9BB104)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603KRX7R9BB104)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603KRX7R9BB104)[(N)  ](https://www.newark.com/search?st=CC0603KRX7R9BB104)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603KRX7R9BB104)<br> |  
-| markdown_short | [electronic_capacitor_0603_100_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_100_nano_farad)<br>[LCSC - C14663<br>](https://lcsc.com/product-detail/C14663.html)[LCSC - C30926<br>](https://lcsc.com/product-detail/C30926.html)<br>[Samsung - CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do)[Yageo - CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104) |  
+| markdown_full | [electronic_capacitor_0603_100_nano_farad](none)<br>[c6nf100](none)<br>[Electronic Capacitor 0603 100 Nano Farad](none)<br>[LCSC - C14663<br>](https://lcsc.com/product-detail/C14663.html)[LCSC - C30926<br>](https://lcsc.com/product-detail/C30926.html)<br>[Samsung - CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do) [(L)  ](https://www.lcsc.com/search?q=CL10B104KB8NNNC)[(D)  ](https://www.digikey.com/en/products?keywords=CL10B104KB8NNNC)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CL10B104KB8NNNC)[(N)  ](https://www.newark.com/search?st=CL10B104KB8NNNC)[(SZ)  ](https://so.szlcsc.com/global.html?k=CL10B104KB8NNNC)<br>[Yageo - CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104) [(L)  ](https://www.lcsc.com/search?q=CC0603KRX7R9BB104)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603KRX7R9BB104)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603KRX7R9BB104)[(N)  ](https://www.newark.com/search?st=CC0603KRX7R9BB104)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603KRX7R9BB104)<br> |  
+| markdown_short | [electronic_capacitor_0603_100_nano_farad](none)<br>[LCSC - C14663<br>](https://lcsc.com/product-detail/C14663.html)[LCSC - C30926<br>](https://lcsc.com/product-detail/C30926.html)<br>[Samsung - CL10B104KB8NNNC](https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do)[Yageo - CC0603KRX7R9BB104](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB104) |  
 | md5 | 8cfd91c8b4af505f5c4d796bc12d1d16 |  
 | md5_10 | 8cfd91c8b4 |  
 | md5_5 | 8cfd9 |  

@@ -280,15 +280,17 @@ id_no_class: mechanical_motor_servo_remote_control
 id_no_color: motorservoremotecontrol
 id_no_size: motor_servo_remote_control
 id_no_type: motor_servo_remote_control
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_motor_servo_remote_control
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204blcw
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204blcw
-link_oomlout_label_3x2_oomp_table: http://192.168.1.107:1112/?label=oomp%204blcw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204blcw
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204blcw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -296,9 +298,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_motor_servo_remote_control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control)<br>[Category
-  Mechanical Motor Servo Remote Control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control)<br><br>'
-markdown_short: '[category_mechanical_motor_servo_remote_control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control)<br><br>'
+markdown_full: '[category_mechanical_motor_servo_remote_control](none)<br>[](none)<br>[Category
+  Mechanical Motor Servo Remote Control](none)<br><br>'
+markdown_short: '[category_mechanical_motor_servo_remote_control](none)<br><br>'
 md5: 6ec4e02c30f8aa5b79f55ecfa5bb0dda
 md5_10: 6ec4e02c30
 md5_10_upper: 6EC4E02C30

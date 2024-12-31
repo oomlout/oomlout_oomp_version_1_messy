@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 salt
+
+
 
 ### name
 * name: Food Seasoning Salt And Pepper Salt Table 750 Gram 70 mm Diameter 200 mm Height Plastic Bottle Saxa
@@ -40,13 +43,13 @@ salt
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2038a7i)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2038a7i)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2038a7i)
 [2x1](http://192.168.1.242:1112/?label=oomp%2038a7i)
 [6x4](http://192.168.1.55:1112/?label=oomp%2038a7i)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)                             
 
 #### price
 
@@ -75,20 +78,22 @@ salt
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
 | id | food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2038a7i |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2038a7i |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2038a7i |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2038a7i |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2038a7i |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
 | manufacturer | saxa |  
 | manufacturer_name | Saxa |  
 | manufacturers | [] |  
-| markdown_full | [food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)<br>[Food Seasoning Salt And Pepper Salt Table 750 Gram 70 Mm Diameter 200 Mm Height Plastic Bottle Saxa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)<br><br> |  
-| markdown_short | [food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)<br><br> |  
+| markdown_full | [food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa](none)<br>[](none)<br>[Food Seasoning Salt And Pepper Salt Table 750 Gram 70 Mm Diameter 200 Mm Height Plastic Bottle Saxa](none)<br><br> |  
+| markdown_short | [food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa](none)<br><br> |  
 | md5 | 52c8ae2d1e08611adac761d2ecd40ca5 |  
 | md5_10 | 52c8ae2d1e |  
 | md5_5 | 52c8a |  

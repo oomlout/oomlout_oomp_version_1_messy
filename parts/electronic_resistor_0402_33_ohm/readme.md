@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20ke1y)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20ke1y)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20ke1y)
 [2x1](http://192.168.1.242:1112/?label=oomp%20ke1y)
 [6x4](http://192.168.1.55:1112/?label=oomp%20ke1y)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_33_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_33_ohm)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_33_ohm) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_33_ohm)                             
 
 #### price
 
@@ -75,20 +78,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_33_ohm |  
 | id | electronic_resistor_0402_33_ohm |  
 | kicad_reference | R |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_33_ohm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_33_ohm |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_33_ohm |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_33_ohm |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_33_ohm |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_33_ohm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_33_ohm |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20ke1y |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20ke1y |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20ke1y |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20ke1y |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20ke1y |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_33_ohm |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': '0402WGJ0330TCE'}, {'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}, 'part_number': '0402WGF033-1TCE'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0733RL', 'name': 'Yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}, 'part_number': 'RC0402JR-0733RL'}] |  
-| markdown_full | [electronic_resistor_0402_33_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_33_ohm)<br>[r4o330](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_33_ohm)<br>[Electronic Resistor 0402 33 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_33_ohm)<br><br>[Uniroyal - 0402WGJ0330TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0330TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0330TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0330TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0330TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0330TCE)<br>[Uniroyal - 0402WGF033-1TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF033-1TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF033-1TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF033-1TCE)[(N)  ](https://www.newark.com/search?st=0402WGF033-1TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF033-1TCE)<br>[Yageo - RC0402JR-0733RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0733RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0733RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0733RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0733RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0733RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0733RL)<br> |  
-| markdown_short | [electronic_resistor_0402_33_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_33_ohm)<br><br>[Uniroyal - 0402WGJ0330TCE- not in jlc basic parts]()[Uniroyal - 0402WGF033-1TCE- jlc basic part]()[Yageo - RC0402JR-0733RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0733RL) |  
+| markdown_full | [electronic_resistor_0402_33_ohm](none)<br>[r4o330](none)<br>[Electronic Resistor 0402 33 Ohm](none)<br><br>[Uniroyal - 0402WGJ0330TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0330TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0330TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0330TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0330TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0330TCE)<br>[Uniroyal - 0402WGF033-1TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF033-1TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF033-1TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF033-1TCE)[(N)  ](https://www.newark.com/search?st=0402WGF033-1TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF033-1TCE)<br>[Yageo - RC0402JR-0733RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0733RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0733RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0733RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0733RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0733RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0733RL)<br> |  
+| markdown_short | [electronic_resistor_0402_33_ohm](none)<br><br>[Uniroyal - 0402WGJ0330TCE- not in jlc basic parts]()[Uniroyal - 0402WGF033-1TCE- jlc basic part]()[Yageo - RC0402JR-0733RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0733RL) |  
 | md5 | 0e842667082879cfc5fa5e73edccd4d1 |  
 | md5_10 | 0e84266708 |  
 | md5_5 | 0e842 |  

@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_hardware
+
+
 
 ### name
 * name: Category Hardware Bolt M6
@@ -40,13 +43,13 @@ category_hardware
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202wkoi)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202wkoi)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202wkoi)
 [2x1](http://192.168.1.242:1112/?label=oomp%202wkoi)
 [6x4](http://192.168.1.55:1112/?label=oomp%202wkoi)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m6) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_bolt_m6)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_hardware
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_bolt_m6 |  
 | id | category_hardware_bolt_m6 |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m6 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6 |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_bolt_m6 |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m6 |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6 |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6 |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202wkoi |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202wkoi |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202wkoi |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202wkoi |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202wkoi |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6 |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_hardware_bolt_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m6)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m6)<br>[Category Hardware Bolt M6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m6)<br><br> |  
-| markdown_short | [category_hardware_bolt_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m6)<br><br> |  
+| markdown_full | [category_hardware_bolt_m6](none)<br>[](none)<br>[Category Hardware Bolt M6](none)<br><br> |  
+| markdown_short | [category_hardware_bolt_m6](none)<br><br> |  
 | md5 | 4a72b2bf613186f3dac265ea6a2fe0c5 |  
 | md5_10 | 4a72b2bf61 |  
 | md5_5 | 4a72b |  

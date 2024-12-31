@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%205vcad)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%205vcad)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205vcad)
 [2x1](http://192.168.1.242:1112/?label=oomp%205vcad)
 [6x4](http://192.168.1.55:1112/?label=oomp%205vcad)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_blue) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue |  
 | id | electronic_led_0603_blue |  
 | kicad_reference | L |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_blue |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_blue |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205vcad |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205vcad |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%205vcad |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205vcad |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205vcad |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_xinglight', 'link': '', 'name': 'XINGLIGHT', 'part_number': 'XL-1608UBC-04'}] |  
-| markdown_full | [electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_blue)<br>[l6l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_blue)<br>[Electronic Led 0603 Blue](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_blue)<br>[LCSC - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT - XL-1608UBC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UBC-04)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UBC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UBC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UBC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UBC-04)<br> |  
-| markdown_short | [electronic_led_0603_blue](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_blue)<br>[LCSC - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT - XL-1608UBC-04]() |  
+| markdown_full | [electronic_led_0603_blue](none)<br>[l6l](none)<br>[Electronic Led 0603 Blue](none)<br>[LCSC - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT - XL-1608UBC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UBC-04)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UBC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UBC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UBC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UBC-04)<br> |  
+| markdown_short | [electronic_led_0603_blue](none)<br>[LCSC - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT - XL-1608UBC-04]() |  
 | md5 | 9674f50c150069fafacfa3671b299b20 |  
 | md5_10 | 9674f50c15 |  
 | md5_5 | 9674f |  

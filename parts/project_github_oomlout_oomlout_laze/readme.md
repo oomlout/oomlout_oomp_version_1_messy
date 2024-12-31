@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%203x1rw)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%203x1rw)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%203x1rw)
 [2x1](http://192.168.1.242:1112/?label=oomp%203x1rw)
 [6x4](http://192.168.1.55:1112/?label=oomp%203x1rw)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_laze) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_laze)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_laze) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_laze)                             
 
 #### price
 
@@ -74,22 +77,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_laze |  
 | id | project_github_oomlout_oomlout_laze |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_laze |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_laze |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_laze |  
-| link_2_name | github_link |  
-| link_github | https://github.com/oomlout/oomlout-LAZE |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_laze |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_laze |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_laze |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_laze |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203x1rw |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203x1rw |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%203x1rw |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203x1rw |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203x1rw |  
-| link_redirect | https://github.com/oomlout/oomlout-LAZE |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_laze |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [project_github_oomlout_oomlout_laze](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_laze)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_laze)<br>[Project Github Oomlout Oomlout Laze](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_laze)<br><br> |  
-| markdown_short | [project_github_oomlout_oomlout_laze](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_laze)<br><br> |  
+| markdown_full | [project_github_oomlout_oomlout_laze](none)<br>[](none)<br>[Project Github Oomlout Oomlout Laze](none)<br><br> |  
+| markdown_short | [project_github_oomlout_oomlout_laze](none)<br><br> |  
 | md5 | 646a3cc67075a53800dc0a435b846402 |  
 | md5_10 | 646a3cc670 |  
 | md5_5 | 646a3 |  

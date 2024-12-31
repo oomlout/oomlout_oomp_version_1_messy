@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202i4ud)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202i4ud)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202i4ud)
 [2x1](http://192.168.1.242:1112/?label=oomp%202i4ud)
 [6x4](http://192.168.1.55:1112/?label=oomp%202i4ud)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_clip_binder_38_mm_width_metal) [link_distributor_amazon](https://www.amazon.co.uk/dp/B07VHPV47Q)                            
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal) [link_distributor_amazon](https://www.amazon.co.uk/dp/B07VHPV47Q)                            
 
 #### price
 
@@ -73,25 +76,27 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
 | id | stationery_clip_binder_38_mm_width_metal |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
+| link_2_name | link_github |  
 | link_3 | https://www.amazon.co.uk/dp/B07VHPV47Q |  
 | link_3_name | link_distributor_amazon |  
 | link_buy_1 | https://www.amazon.co.uk/dp/B07VHPV47Q |  
 | link_buy_1_name | link_distributor_amazon |  
 | link_distributor_amazon | https://www.amazon.co.uk/dp/B07VHPV47Q |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202i4ud |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202i4ud |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202i4ud |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202i4ud |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202i4ud |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [stationery_clip_binder_38_mm_width_metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal)<br>[Stationery Clip Binder 38 Mm Width Metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal)<br><br> |  
-| markdown_short | [stationery_clip_binder_38_mm_width_metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal)<br><br> |  
+| markdown_full | [stationery_clip_binder_38_mm_width_metal](none)<br>[](none)<br>[Stationery Clip Binder 38 Mm Width Metal](none)<br><br> |  
+| markdown_short | [stationery_clip_binder_38_mm_width_metal](none)<br><br> |  
 | md5 | 402b05d0907c80538ec9dc286f46c79e |  
 | md5_10 | 402b05d090 |  
 | md5_5 | 402b0 |  

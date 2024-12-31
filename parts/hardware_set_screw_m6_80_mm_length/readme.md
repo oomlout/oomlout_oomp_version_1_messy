@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2088xh8)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2088xh8)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2088xh8)
 [2x1](http://192.168.1.242:1112/?label=oomp%2088xh8)
 [6x4](http://192.168.1.55:1112/?label=oomp%2088xh8)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_80_mm_length) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-x-80-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490080)                            
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-x-80-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490080)                            
 
 #### price
 
@@ -96,24 +99,26 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
 | id | hardware_set_screw_m6_80_mm_length |  
 | kicad_reference |  |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
-| link_2_name | github_link |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
+| link_2_name | link_github |  
 | link_3 | https://www.harclob2b.com/m6-x-80-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490080 |  
 | link_3_name | webpage_manufacturer_metalmate |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m6-x-80-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
 | link_buy_name | orbital_fasteners |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2088xh8 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2088xh8 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2088xh8 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2088xh8 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2088xh8 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_set_screw_m6_80_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length)<br>[ss680](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length)<br>[Hardware Set Screw M6 80 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length)<br><br> |  
-| markdown_short | [hardware_set_screw_m6_80_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_80_mm_length)<br><br> |  
+| markdown_full | [hardware_set_screw_m6_80_mm_length](none)<br>[ss680](none)<br>[Hardware Set Screw M6 80 Mm Length](none)<br><br> |  
+| markdown_short | [hardware_set_screw_m6_80_mm_length](none)<br><br> |  
 | md5 | d3637ca222636e17bd491971ed18feca |  
 | md5_10 | d3637ca222 |  
 | md5_5 | d3637 |  

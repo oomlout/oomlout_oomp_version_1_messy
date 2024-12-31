@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202y1zg)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202y1zg)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202y1zg)
 [2x1](http://192.168.1.242:1112/?label=oomp%202y1zg)
 [6x4](http://192.168.1.55:1112/?label=oomp%202y1zg)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
 | id | printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202y1zg |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202y1zg |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202y1zg |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202y1zg |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202y1zg |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile |  
 | manufacturer | hewlett_packard |  
 | manufacturer_name | Hewlett Packard |  
 | manufacturers | [] |  
-| markdown_full | [printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)<br>[Printer Inkjet A4 Hewlett Packard Officejet 1000 Mobile](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)<br><br> |  
-| markdown_short | [printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)<br><br> |  
+| markdown_full | [printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](none)<br>[](none)<br>[Printer Inkjet A4 Hewlett Packard Officejet 1000 Mobile](none)<br><br> |  
+| markdown_short | [printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](none)<br><br> |  
 | md5 | 4b808c4592473c6908455cd4cb1b4809 |  
 | md5_10 | 4b808c4592 |  
 | md5_5 | 4b808 |  

@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 salt
+
+
 
 ### name
 * name: Food Pantry Salt And Pepper Salt Table 750 Gram 70 mm Diameter 200 mm Height Plastic Bottle Saxa
@@ -40,13 +43,13 @@ salt
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%203kisq)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%203kisq)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%203kisq)
 [2x1](http://192.168.1.242:1112/?label=oomp%203kisq)
 [6x4](http://192.168.1.55:1112/?label=oomp%203kisq)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)                              
 
 #### price
 
@@ -77,12 +80,10 @@ salt
 | id | food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
-| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203kisq |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203kisq |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%203kisq |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203kisq |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203kisq |  
 | manufacturer | saxa |  
 | manufacturer_name | Saxa |  

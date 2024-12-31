@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_electronic
+
+
 
 ### name
 * name: Category Electronic Screw Terminal 3 5 mm Pitch Tote
@@ -40,13 +43,13 @@ category_electronic
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208w9hn)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208w9hn)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208w9hn)
 [2x1](http://192.168.1.242:1112/?label=oomp%208w9hn)
 [6x4](http://192.168.1.55:1112/?label=oomp%208w9hn)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_electronic
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
 | id | category_electronic_screw_terminal_3_5_mm_pitch_tote |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208w9hn |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208w9hn |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208w9hn |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208w9hn |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208w9hn |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_electronic_screw_terminal_3_5_mm_pitch_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote)<br>[Category Electronic Screw Terminal 3 5 Mm Pitch Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote)<br><br> |  
-| markdown_short | [category_electronic_screw_terminal_3_5_mm_pitch_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_tote)<br><br> |  
+| markdown_full | [category_electronic_screw_terminal_3_5_mm_pitch_tote](none)<br>[](none)<br>[Category Electronic Screw Terminal 3 5 Mm Pitch Tote](none)<br><br> |  
+| markdown_short | [category_electronic_screw_terminal_3_5_mm_pitch_tote](none)<br><br> |  
 | md5 | e4000b104aac569102b4b9473c8a2a10 |  
 | md5_10 | e4000b104a |  
 | md5_5 | e4000 |  

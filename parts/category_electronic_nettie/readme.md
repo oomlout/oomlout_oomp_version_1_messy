@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_electronic
+
+
 
 ### name
 * name: Category Electronic Nettie
@@ -40,13 +43,13 @@ category_electronic
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%205uzfd)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%205uzfd)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205uzfd)
 [2x1](http://192.168.1.242:1112/?label=oomp%205uzfd)
 [6x4](http://192.168.1.55:1112/?label=oomp%205uzfd)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_nettie)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_electronic
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_nettie |  
 | id | category_electronic_nettie |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_nettie |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205uzfd |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205uzfd |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%205uzfd |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205uzfd |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205uzfd |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_electronic_nettie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie)<br>[Category Electronic Nettie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie)<br><br> |  
-| markdown_short | [category_electronic_nettie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie)<br><br> |  
+| markdown_full | [category_electronic_nettie](none)<br>[](none)<br>[Category Electronic Nettie](none)<br><br> |  
+| markdown_short | [category_electronic_nettie](none)<br><br> |  
 | md5 | 9633d9d6bd2cc9583006f79ddaac6053 |  
 | md5_10 | 9633d9d6bd |  
 | md5_5 | 9633d |  

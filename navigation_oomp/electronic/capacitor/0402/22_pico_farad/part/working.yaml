@@ -315,15 +315,17 @@ id_no_color: 22picofarad
 id_no_size: 22_pico_farad
 id_no_type: 0402_22_pico_farad
 kicad_reference: C
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204zuau
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204zuau
-link_oomlout_label_3x2_oomp_table: http://192.168.1.107:1112/?label=oomp%204zuau
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204zuau
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204zuau
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -331,9 +333,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad)<br>[c4pf22](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad)<br>[Electronic
-  Capacitor 0402 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad)<br><br>'
-markdown_short: '[electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad)<br><br>'
+markdown_full: '[electronic_capacitor_0402_22_pico_farad](none)<br>[c4pf22](none)<br>[Electronic
+  Capacitor 0402 22 Pico Farad](none)<br><br>'
+markdown_short: '[electronic_capacitor_0402_22_pico_farad](none)<br><br>'
 md5: 8008269b2a82f75ac1033a8691959122
 md5_10: 8008269b2a
 md5_10_upper: 8008269B2A

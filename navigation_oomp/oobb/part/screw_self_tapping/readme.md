@@ -1,4 +1,4 @@
-* [hardware_screw_self_tapping_m2_06](hardware_screw_self_tapping_m2_06)
-* [hardware_screw_self_tapping_m2_08](hardware_screw_self_tapping_m2_08)
-* [hardware_screw_self_tapping_m2_10](hardware_screw_self_tapping_m2_10)
-* [hardware_screw_self_tapping_m2_12](hardware_screw_self_tapping_m2_12)
+* [m2_radius_name_10_depth](m2_radius_name_10_depth)
+* [m2_radius_name_12_depth](m2_radius_name_12_depth)
+* [m2_radius_name_6_depth](m2_radius_name_6_depth)
+* [m2_radius_name_8_depth](m2_radius_name_8_depth)

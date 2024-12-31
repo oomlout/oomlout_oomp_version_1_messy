@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%20154s2)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%20154s2)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20154s2)
 [2x1](http://192.168.1.242:1112/?label=oomp%20154s2)
 [6x4](http://192.168.1.55:1112/?label=oomp%20154s2)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
 | id | electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20154s2 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20154s2 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%20154s2 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20154s2 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20154s2 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br>[Electronic Battery 18650 Size 18 Mm Diameter 65 Mm Depth Lithium 3 7 Volt Rechargable Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br><br> |  
-| markdown_short | [electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br><br> |  
+| markdown_full | [electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](none)<br>[](none)<br>[Electronic Battery 18650 Size 18 Mm Diameter 65 Mm Depth Lithium 3 7 Volt Rechargable Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket](none)<br><br> |  
+| markdown_short | [electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](none)<br><br> |  
 | md5 | 1d4872c5686edbfce7a03a10bdb051bc |  
 | md5_10 | 1d4872c568 |  
 | md5_5 | 1d487 |  

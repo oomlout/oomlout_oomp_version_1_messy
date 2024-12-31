@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_tool
+
+
 
 ### name
 * name: Category Tool Vibratory Bowl
@@ -40,13 +43,13 @@ category_tool
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%202u419)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%202u419)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%202u419)
 [2x1](http://192.168.1.242:1112/?label=oomp%202u419)
 [6x4](http://192.168.1.55:1112/?label=oomp%202u419)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_vibratory_bowl)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_tool
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_vibratory_bowl |  
 | id | category_tool_vibratory_bowl |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_vibratory_bowl |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202u419 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202u419 |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%202u419 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%202u419 |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202u419 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_tool_vibratory_bowl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl)<br>[Category Tool Vibratory Bowl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl)<br><br> |  
-| markdown_short | [category_tool_vibratory_bowl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl)<br><br> |  
+| markdown_full | [category_tool_vibratory_bowl](none)<br>[](none)<br>[Category Tool Vibratory Bowl](none)<br><br> |  
+| markdown_short | [category_tool_vibratory_bowl](none)<br><br> |  
 | md5 | 48b1ed6cf113042032f572b436133ce7 |  
 | md5_10 | 48b1ed6cf1 |  
 | md5_5 | 48b1e |  

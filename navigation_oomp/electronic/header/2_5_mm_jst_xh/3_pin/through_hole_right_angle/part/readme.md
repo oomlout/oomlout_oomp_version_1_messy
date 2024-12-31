@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2033hdm)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2033hdm)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2033hdm)
 [2x1](http://192.168.1.242:1112/?label=oomp%2033hdm)
 [6x4](http://192.168.1.55:1112/?label=oomp%2033hdm)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole_right_angle) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole_right_angle)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole_right_angle)                              
 
 #### price
 
@@ -75,12 +78,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | kicad_reference | CONN |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole_right_angle |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole_right_angle |  
-| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole_right_angle |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2033hdm |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2033hdm |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2033hdm |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2033hdm |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2033hdm |  
 | manufacturer |  |  
 | manufacturer_name |  |  

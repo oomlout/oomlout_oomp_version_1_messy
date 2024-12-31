@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%203p8lb)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%203p8lb)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%203p8lb)
 [2x1](http://192.168.1.242:1112/?label=oomp%203p8lb)
 [6x4](http://192.168.1.55:1112/?label=oomp%203p8lb)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle)                             
 
 #### price
 
@@ -74,20 +77,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
 | id | electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
 | kicad_reference | CONN |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203p8lb |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203p8lb |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%203p8lb |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203p8lb |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203p8lb |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [{'id': 'manufacturer_jst', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'name': 'JST', 'part_number': 'SM08B-SRSS-TB'}] |  
-| markdown_full | [electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle)<br>[hjsh8psmra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle)<br>[Electronic Header 1 Mm Jst Sh 8 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle)<br><br>[JST - SM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM08B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM08B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM08B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM08B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM08B-SRSS-TB)<br> |  
-| markdown_short | [electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle)<br><br>[JST - SM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) |  
+| markdown_full | [electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle](none)<br>[hjsh8psmra](none)<br>[Electronic Header 1 Mm Jst Sh 8 Pin Surface Mount Right Angle](none)<br><br>[JST - SM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM08B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM08B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM08B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM08B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM08B-SRSS-TB)<br> |  
+| markdown_short | [electronic_header_1_mm_jst_sh_8_pin_surface_mount_right_angle](none)<br><br>[JST - SM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) |  
 | md5 | 5edabfa81f30624211df279c1553de3c |  
 | md5_10 | 5edabfa81f |  
 | md5_5 | 5edab |  

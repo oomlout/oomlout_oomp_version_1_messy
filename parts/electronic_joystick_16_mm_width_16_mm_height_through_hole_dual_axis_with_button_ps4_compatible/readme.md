@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2022gls)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2022gls)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2022gls)
 [2x1](http://192.168.1.242:1112/?label=oomp%2022gls)
 [6x4](http://192.168.1.55:1112/?label=oomp%2022gls)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible)                             
 
 #### price
 
@@ -72,20 +75,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
 | id | electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2022gls |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2022gls |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2022gls |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2022gls |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2022gls |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible)<br>[Electronic Joystick 16 Mm Width 16 Mm Height Through Hole Dual Axis With Button Ps4 Compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible)<br><br> |  
-| markdown_short | [electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible)<br><br> |  
+| markdown_full | [electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible](none)<br>[](none)<br>[Electronic Joystick 16 Mm Width 16 Mm Height Through Hole Dual Axis With Button Ps4 Compatible](none)<br><br> |  
+| markdown_short | [electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible](none)<br><br> |  
 | md5 | 3502907e103cb0e5d955bc050771d2b1 |  
 | md5_10 | 3502907e10 |  
 | md5_5 | 35029 |  

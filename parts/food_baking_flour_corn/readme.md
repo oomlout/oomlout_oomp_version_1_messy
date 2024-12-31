@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 flour_corn
+
+
 
 ### name
 * name: Food Baking Flour Corn
@@ -40,13 +43,13 @@ flour_corn
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2030z6v)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2030z6v)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2030z6v)
 [2x1](http://192.168.1.242:1112/?label=oomp%2030z6v)
 [6x4](http://192.168.1.55:1112/?label=oomp%2030z6v)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_corn) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_corn)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn)                             
 
 #### price
 
@@ -75,20 +78,22 @@ flour_corn
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_corn |  
 | id | food_baking_flour_corn |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_corn |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_corn |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_corn |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2030z6v |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2030z6v |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2030z6v |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2030z6v |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2030z6v |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [food_baking_flour_corn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_corn)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_corn)<br>[Food Baking Flour Corn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_corn)<br><br> |  
-| markdown_short | [food_baking_flour_corn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_corn)<br><br> |  
+| markdown_full | [food_baking_flour_corn](none)<br>[](none)<br>[Food Baking Flour Corn](none)<br><br> |  
+| markdown_short | [food_baking_flour_corn](none)<br><br> |  
 | md5 | 4d95277cd50059af9bb04ac542c5e551 |  
 | md5_10 | 4d95277cd5 |  
 | md5_5 | 4d952 |  

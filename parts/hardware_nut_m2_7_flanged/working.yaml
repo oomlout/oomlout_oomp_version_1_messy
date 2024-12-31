@@ -305,15 +305,17 @@ id_no_color: flanged
 id_no_size: flanged
 id_no_type: m2_7_flanged
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_7_flanged
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203l8ww
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203l8ww
-link_oomlout_label_3x2_oomp_table: http://192.168.1.107:1112/?label=oomp%203l8ww
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203l8ww
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203l8ww
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -321,9 +323,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m2_7_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged)<br>[nu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged)<br>[Hardware
-  Nut M2 7 Flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged)<br><br>'
-markdown_short: '[hardware_nut_m2_7_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged)<br><br>'
+markdown_full: '[hardware_nut_m2_7_flanged](none)<br>[nu](none)<br>[Hardware Nut M2
+  7 Flanged](none)<br><br>'
+markdown_short: '[hardware_nut_m2_7_flanged](none)<br><br>'
 md5: 5c0360f67c80de595fb9aa14c9c19244
 md5_10: 5c0360f67c
 md5_10_upper: 5C0360F67C

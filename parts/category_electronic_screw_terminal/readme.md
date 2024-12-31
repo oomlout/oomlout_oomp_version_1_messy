@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_electronic
+
+
 
 ### name
 * name: Category Electronic Screw Terminal
@@ -40,13 +43,13 @@ category_electronic
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%208a0zl)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%208a0zl)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208a0zl)
 [2x1](http://192.168.1.242:1112/?label=oomp%208a0zl)
 [6x4](http://192.168.1.55:1112/?label=oomp%208a0zl)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_screw_terminal)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_electronic
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_screw_terminal |  
 | id | category_electronic_screw_terminal |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_screw_terminal |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208a0zl |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208a0zl |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%208a0zl |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208a0zl |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208a0zl |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_electronic_screw_terminal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal)<br>[Category Electronic Screw Terminal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal)<br><br> |  
-| markdown_short | [category_electronic_screw_terminal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal)<br><br> |  
+| markdown_full | [category_electronic_screw_terminal](none)<br>[](none)<br>[Category Electronic Screw Terminal](none)<br><br> |  
+| markdown_short | [category_electronic_screw_terminal](none)<br><br> |  
 | md5 | d42b81953d648773d2781e84d3b40c40 |  
 | md5_10 | d42b81953d |  
 | md5_5 | d42b8 |  

@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 category_aluminium_extrusion
+
+
 
 ### name
 * name: Category Aluminium Extrusion
@@ -40,13 +43,13 @@ category_aluminium_extrusion
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%201p8cp)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%201p8cp)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%201p8cp)
 [2x1](http://192.168.1.242:1112/?label=oomp%201p8cp)
 [6x4](http://192.168.1.55:1112/?label=oomp%201p8cp)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_aluminium_extrusion)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion)                             
 
 #### price
 
@@ -75,20 +78,22 @@ category_aluminium_extrusion
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_aluminium_extrusion |  
 | id | category_aluminium_extrusion |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_aluminium_extrusion |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201p8cp |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201p8cp |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%201p8cp |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%201p8cp |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201p8cp |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [category_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion)<br>[Category Aluminium Extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion)<br><br> |  
-| markdown_short | [category_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion)<br><br> |  
+| markdown_full | [category_aluminium_extrusion](none)<br>[](none)<br>[Category Aluminium Extrusion](none)<br><br> |  
+| markdown_short | [category_aluminium_extrusion](none)<br><br> |  
 | md5 | 2b97899386ad9bf9453a56f6775f0c92 |  
 | md5_10 | 2b97899386 |  
 | md5_5 | 2b978 |  

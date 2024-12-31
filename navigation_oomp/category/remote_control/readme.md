@@ -7,5 +7,8 @@
   * [2_4_ghz_4_channel](transmitter_receiver_kit/2_4_ghz_4_channel)
     * [cubby_box](transmitter_receiver_kit/2_4_ghz_4_channel/cubby_box)
     * [tote](transmitter_receiver_kit/2_4_ghz_4_channel/tote)
+  * [2_4_ghz_6_channel](transmitter_receiver_kit/2_4_ghz_6_channel)
+    * [cubby_box](transmitter_receiver_kit/2_4_ghz_6_channel/cubby_box)
+    * [tote](transmitter_receiver_kit/2_4_ghz_6_channel/tote)
   * [cubby_box](transmitter_receiver_kit/cubby_box)
   * [tote](transmitter_receiver_kit/tote)

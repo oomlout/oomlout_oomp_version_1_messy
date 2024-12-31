@@ -3,6 +3,9 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
+
+
 
 
 
@@ -40,13 +43,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%2060i8g)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%2060i8g)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2060i8g)
 [2x1](http://192.168.1.242:1112/?label=oomp%2060i8g)
 [6x4](http://192.168.1.55:1112/?label=oomp%2060i8g)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_220000_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_220000_ohm)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_220000_ohm) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_220000_ohm)                             
 
 #### price
 
@@ -76,20 +79,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_220000_ohm |  
 | id | electronic_resistor_0603_220000_ohm |  
 | kicad_reference | R |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_220000_ohm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_220000_ohm |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_220000_ohm |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_220000_ohm |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_220000_ohm |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_220000_ohm |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_220000_ohm |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2060i8g |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2060i8g |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%2060i8g |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2060i8g |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2060i8g |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_220000_ohm |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_resistor_0603_220000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_220000_ohm)<br>[r6o224](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_220000_ohm)<br>[Electronic Resistor 0603 220000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_220000_ohm)<br><br> |  
-| markdown_short | [electronic_resistor_0603_220000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_220000_ohm)<br><br> |  
+| markdown_full | [electronic_resistor_0603_220000_ohm](none)<br>[r6o224](none)<br>[Electronic Resistor 0603 220000 Ohm](none)<br><br> |  
+| markdown_short | [electronic_resistor_0603_220000_ohm](none)<br><br> |  
 | md5 | 9a2250c124b02e58ccedd002f66a6f08 |  
 | md5_10 | 9a2250c124 |  
 | md5_5 | 9a225 |  

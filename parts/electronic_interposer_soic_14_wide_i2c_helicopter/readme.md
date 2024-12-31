@@ -3,10 +3,13 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
+  
 
 
 
 An interposer between an i2c chip and a soic_14_wide package, The pins are numbered in the reverse order of being expected because the footprint is used as a mirror image, ie. it is the chip rather than a chuip being placed on it. This is the helicopter side (the side with the chips on it)
+
+
 
 ### name
 * name: Electronic Interposer Soic 14 Wide I2C Helicopter
@@ -40,13 +43,13 @@ An interposer between an i2c chip and a soic_14_wide package, The pins are numbe
 ### oomlout_oomp_utility_custom_data_manipulation
 #### label print
 [3x2](http://192.168.1.245:1112/?label=oomp%204127d)
-[3x2_oomp_table](http://192.168.1.107:1112/?label=oomp%204127d)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%204127d)
 [2x1](http://192.168.1.242:1112/?label=oomp%204127d)
 [6x4](http://192.168.1.55:1112/?label=oomp%204127d)    
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)                             
 
 #### price
 
@@ -75,20 +78,22 @@ An interposer between an i2c chip and a soic_14_wide package, The pins are numbe
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
 | id | electronic_interposer_soic_14_wide_i2c_helicopter |  
 | kicad_reference | U |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
 | link_1_name | link_main |  
-| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
-| link_2_name | github_link |  
-| link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204127d |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204127d |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.107:1112/?label=oomp%204127d |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%204127d |  
 | link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204127d |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
 | manufacturer |  |  
 | manufacturer_name |  |  
 | manufacturers | [] |  
-| markdown_full | [electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br>[insoic14wi2cheli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br>[Electronic Interposer Soic 14 Wide I2C Helicopter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br><br> |  
-| markdown_short | [electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br><br> |  
+| markdown_full | [electronic_interposer_soic_14_wide_i2c_helicopter](none)<br>[insoic14wi2cheli](none)<br>[Electronic Interposer Soic 14 Wide I2C Helicopter](none)<br><br> |  
+| markdown_short | [electronic_interposer_soic_14_wide_i2c_helicopter](none)<br><br> |  
 | md5 | 67456919c33f39dd13824a5f4470e6b9 |  
 | md5_10 | 67456919c3 |  
 | md5_5 | 67456 |  
