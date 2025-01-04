@@ -236,6 +236,7 @@
     * [oomlout_oomp_v2](github/oomlout/oomlout_oomp_v2)
     * [oomlout_oomp_version_1_food_seasoning](github/oomlout/oomlout_oomp_version_1_food_seasoning)
     * [oomlout_oomp_version_1_messy](github/oomlout/oomlout_oomp_version_1_messy)
+    * [oomlout_oomp_version_1_project_bolt](github/oomlout/oomlout_oomp_version_1_project_bolt)
     * [oomlout_ootd_oopen_three_d_printing_production_format](github/oomlout/oomlout_ootd_oopen_three_d_printing_production_format)
     * [oomlout_opsc](github/oomlout/oomlout_opsc)
     * [oomlout_opsc_v2](github/oomlout/oomlout_opsc_v2)
