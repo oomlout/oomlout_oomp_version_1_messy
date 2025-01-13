@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cat
-bip_39_word_dash_10: cat-million-drama-swear-suggest-foster-inject-there-nature-rural
-bip_39_word_dash_11: cat-million-drama-swear-suggest-foster-inject-there-nature-rural-cake
 bip_39_word_dash_12: cat-million-drama-swear-suggest-foster-inject-there-nature-rural-cake-answer
 bip_39_word_dash_2: cat-million
 bip_39_word_dash_3: cat-million-drama
-bip_39_word_dash_4: cat-million-drama-swear
-bip_39_word_dash_5: cat-million-drama-swear-suggest
-bip_39_word_dash_6: cat-million-drama-swear-suggest-foster
-bip_39_word_dash_7: cat-million-drama-swear-suggest-foster-inject
-bip_39_word_dash_8: cat-million-drama-swear-suggest-foster-inject-there
-bip_39_word_dash_9: cat-million-drama-swear-suggest-foster-inject-there-nature
-bip_39_word_new_br_1: cat
-bip_39_word_new_br_10: cat<br>million<br>drama<br>swear<br>suggest<br>foster<br>inject<br>there<br>nature<br>rural
-bip_39_word_new_br_11: cat<br>million<br>drama<br>swear<br>suggest<br>foster<br>inject<br>there<br>nature<br>rural<br>cake
 bip_39_word_new_br_12: cat<br>million<br>drama<br>swear<br>suggest<br>foster<br>inject<br>there<br>nature<br>rural<br>cake<br>answer
 bip_39_word_new_br_2: cat<br>million
 bip_39_word_new_br_3: cat<br>million<br>drama
-bip_39_word_new_br_4: cat<br>million<br>drama<br>swear
-bip_39_word_new_br_5: cat<br>million<br>drama<br>swear<br>suggest
-bip_39_word_new_br_6: cat<br>million<br>drama<br>swear<br>suggest<br>foster
-bip_39_word_new_br_7: cat<br>million<br>drama<br>swear<br>suggest<br>foster<br>inject
-bip_39_word_new_br_8: cat<br>million<br>drama<br>swear<br>suggest<br>foster<br>inject<br>there
-bip_39_word_new_br_9: cat<br>million<br>drama<br>swear<br>suggest<br>foster<br>inject<br>there<br>nature
-bip_39_word_new_line_1: cat
-bip_39_word_new_line_10: 'cat
-
-  million
-
-  drama
-
-  swear
-
-  suggest
-
-  foster
-
-  inject
-
-  there
-
-  nature
-
-  rural'
-bip_39_word_new_line_11: 'cat
-
-  million
-
-  drama
-
-  swear
-
-  suggest
-
-  foster
-
-  inject
-
-  there
-
-  nature
-
-  rural
-
-  cake'
 bip_39_word_new_line_12: 'cat
 
   million
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cat
   million
 
   drama'
-bip_39_word_new_line_4: 'cat
-
-  million
-
-  drama
-
-  swear'
-bip_39_word_new_line_5: 'cat
-
-  million
-
-  drama
-
-  swear
-
-  suggest'
-bip_39_word_new_line_6: 'cat
-
-  million
-
-  drama
-
-  swear
-
-  suggest
-
-  foster'
-bip_39_word_new_line_7: 'cat
-
-  million
-
-  drama
-
-  swear
-
-  suggest
-
-  foster
-
-  inject'
-bip_39_word_new_line_8: 'cat
-
-  million
-
-  drama
-
-  swear
-
-  suggest
-
-  foster
-
-  inject
-
-  there'
-bip_39_word_new_line_9: 'cat
-
-  million
-
-  drama
-
-  swear
-
-  suggest
-
-  foster
-
-  inject
-
-  there
-
-  nature'
-bip_39_word_no_space_1: cat
-bip_39_word_no_space_10: catmilliondramaswearsuggestfosterinjecttherenaturerural
-bip_39_word_no_space_11: catmilliondramaswearsuggestfosterinjecttherenatureruralcake
 bip_39_word_no_space_12: catmilliondramaswearsuggestfosterinjecttherenatureruralcakeanswer
 bip_39_word_no_space_2: catmillion
 bip_39_word_no_space_3: catmilliondrama
-bip_39_word_no_space_4: catmilliondramaswear
-bip_39_word_no_space_5: catmilliondramaswearsuggest
-bip_39_word_no_space_6: catmilliondramaswearsuggestfoster
-bip_39_word_no_space_7: catmilliondramaswearsuggestfosterinject
-bip_39_word_no_space_8: catmilliondramaswearsuggestfosterinjectthere
-bip_39_word_no_space_9: catmilliondramaswearsuggestfosterinjecttherenature
-bip_39_word_space_0:
-- cat
-- million
-- drama
-- swear
-- suggest
-- foster
-- inject
-- there
-- nature
-- rural
-- cake
-- answer
-bip_39_word_space_1: cat
-bip_39_word_space_10: cat million drama swear suggest foster inject there nature rural
-bip_39_word_space_11: cat million drama swear suggest foster inject there nature rural
-  cake
 bip_39_word_space_12: cat million drama swear suggest foster inject there nature rural
   cake answer
 bip_39_word_space_2: cat million
 bip_39_word_space_3: cat million drama
-bip_39_word_space_4: cat million drama swear
-bip_39_word_space_5: cat million drama swear suggest
-bip_39_word_space_6: cat million drama swear suggest foster
-bip_39_word_space_7: cat million drama swear suggest foster inject
-bip_39_word_space_8: cat million drama swear suggest foster inject there
-bip_39_word_space_9: cat million drama swear suggest foster inject there nature
-bip_39_word_underscore_1: cat
-bip_39_word_underscore_10: cat_million_drama_swear_suggest_foster_inject_there_nature_rural
-bip_39_word_underscore_11: cat_million_drama_swear_suggest_foster_inject_there_nature_rural_cake
 bip_39_word_underscore_12: cat_million_drama_swear_suggest_foster_inject_there_nature_rural_cake_answer
 bip_39_word_underscore_2: cat_million
 bip_39_word_underscore_3: cat_million_drama
-bip_39_word_underscore_4: cat_million_drama_swear
-bip_39_word_underscore_5: cat_million_drama_swear_suggest
-bip_39_word_underscore_6: cat_million_drama_swear_suggest_foster
-bip_39_word_underscore_7: cat_million_drama_swear_suggest_foster_inject
-bip_39_word_underscore_8: cat_million_drama_swear_suggest_foster_inject_there
-bip_39_word_underscore_9: cat_million_drama_swear_suggest_foster_inject_there_nature
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

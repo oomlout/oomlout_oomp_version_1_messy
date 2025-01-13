@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nature
-bip_39_word_dash_10: nature-rifle-spring-flat-jump-grab-fury-bring-clay-simple
-bip_39_word_dash_11: nature-rifle-spring-flat-jump-grab-fury-bring-clay-simple-audit
 bip_39_word_dash_12: nature-rifle-spring-flat-jump-grab-fury-bring-clay-simple-audit-abstract
 bip_39_word_dash_2: nature-rifle
 bip_39_word_dash_3: nature-rifle-spring
-bip_39_word_dash_4: nature-rifle-spring-flat
-bip_39_word_dash_5: nature-rifle-spring-flat-jump
-bip_39_word_dash_6: nature-rifle-spring-flat-jump-grab
-bip_39_word_dash_7: nature-rifle-spring-flat-jump-grab-fury
-bip_39_word_dash_8: nature-rifle-spring-flat-jump-grab-fury-bring
-bip_39_word_dash_9: nature-rifle-spring-flat-jump-grab-fury-bring-clay
-bip_39_word_new_br_1: nature
-bip_39_word_new_br_10: nature<br>rifle<br>spring<br>flat<br>jump<br>grab<br>fury<br>bring<br>clay<br>simple
-bip_39_word_new_br_11: nature<br>rifle<br>spring<br>flat<br>jump<br>grab<br>fury<br>bring<br>clay<br>simple<br>audit
 bip_39_word_new_br_12: nature<br>rifle<br>spring<br>flat<br>jump<br>grab<br>fury<br>bring<br>clay<br>simple<br>audit<br>abstract
 bip_39_word_new_br_2: nature<br>rifle
 bip_39_word_new_br_3: nature<br>rifle<br>spring
-bip_39_word_new_br_4: nature<br>rifle<br>spring<br>flat
-bip_39_word_new_br_5: nature<br>rifle<br>spring<br>flat<br>jump
-bip_39_word_new_br_6: nature<br>rifle<br>spring<br>flat<br>jump<br>grab
-bip_39_word_new_br_7: nature<br>rifle<br>spring<br>flat<br>jump<br>grab<br>fury
-bip_39_word_new_br_8: nature<br>rifle<br>spring<br>flat<br>jump<br>grab<br>fury<br>bring
-bip_39_word_new_br_9: nature<br>rifle<br>spring<br>flat<br>jump<br>grab<br>fury<br>bring<br>clay
-bip_39_word_new_line_1: nature
-bip_39_word_new_line_10: 'nature
-
-  rifle
-
-  spring
-
-  flat
-
-  jump
-
-  grab
-
-  fury
-
-  bring
-
-  clay
-
-  simple'
-bip_39_word_new_line_11: 'nature
-
-  rifle
-
-  spring
-
-  flat
-
-  jump
-
-  grab
-
-  fury
-
-  bring
-
-  clay
-
-  simple
-
-  audit'
 bip_39_word_new_line_12: 'nature
 
   rifle
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'nature
   rifle
 
   spring'
-bip_39_word_new_line_4: 'nature
-
-  rifle
-
-  spring
-
-  flat'
-bip_39_word_new_line_5: 'nature
-
-  rifle
-
-  spring
-
-  flat
-
-  jump'
-bip_39_word_new_line_6: 'nature
-
-  rifle
-
-  spring
-
-  flat
-
-  jump
-
-  grab'
-bip_39_word_new_line_7: 'nature
-
-  rifle
-
-  spring
-
-  flat
-
-  jump
-
-  grab
-
-  fury'
-bip_39_word_new_line_8: 'nature
-
-  rifle
-
-  spring
-
-  flat
-
-  jump
-
-  grab
-
-  fury
-
-  bring'
-bip_39_word_new_line_9: 'nature
-
-  rifle
-
-  spring
-
-  flat
-
-  jump
-
-  grab
-
-  fury
-
-  bring
-
-  clay'
-bip_39_word_no_space_1: nature
-bip_39_word_no_space_10: natureriflespringflatjumpgrabfurybringclaysimple
-bip_39_word_no_space_11: natureriflespringflatjumpgrabfurybringclaysimpleaudit
 bip_39_word_no_space_12: natureriflespringflatjumpgrabfurybringclaysimpleauditabstract
 bip_39_word_no_space_2: naturerifle
 bip_39_word_no_space_3: natureriflespring
-bip_39_word_no_space_4: natureriflespringflat
-bip_39_word_no_space_5: natureriflespringflatjump
-bip_39_word_no_space_6: natureriflespringflatjumpgrab
-bip_39_word_no_space_7: natureriflespringflatjumpgrabfury
-bip_39_word_no_space_8: natureriflespringflatjumpgrabfurybring
-bip_39_word_no_space_9: natureriflespringflatjumpgrabfurybringclay
-bip_39_word_space_0:
-- nature
-- rifle
-- spring
-- flat
-- jump
-- grab
-- fury
-- bring
-- clay
-- simple
-- audit
-- abstract
-bip_39_word_space_1: nature
-bip_39_word_space_10: nature rifle spring flat jump grab fury bring clay simple
-bip_39_word_space_11: nature rifle spring flat jump grab fury bring clay simple audit
 bip_39_word_space_12: nature rifle spring flat jump grab fury bring clay simple audit
   abstract
 bip_39_word_space_2: nature rifle
 bip_39_word_space_3: nature rifle spring
-bip_39_word_space_4: nature rifle spring flat
-bip_39_word_space_5: nature rifle spring flat jump
-bip_39_word_space_6: nature rifle spring flat jump grab
-bip_39_word_space_7: nature rifle spring flat jump grab fury
-bip_39_word_space_8: nature rifle spring flat jump grab fury bring
-bip_39_word_space_9: nature rifle spring flat jump grab fury bring clay
-bip_39_word_underscore_1: nature
-bip_39_word_underscore_10: nature_rifle_spring_flat_jump_grab_fury_bring_clay_simple
-bip_39_word_underscore_11: nature_rifle_spring_flat_jump_grab_fury_bring_clay_simple_audit
 bip_39_word_underscore_12: nature_rifle_spring_flat_jump_grab_fury_bring_clay_simple_audit_abstract
 bip_39_word_underscore_2: nature_rifle
 bip_39_word_underscore_3: nature_rifle_spring
-bip_39_word_underscore_4: nature_rifle_spring_flat
-bip_39_word_underscore_5: nature_rifle_spring_flat_jump
-bip_39_word_underscore_6: nature_rifle_spring_flat_jump_grab
-bip_39_word_underscore_7: nature_rifle_spring_flat_jump_grab_fury
-bip_39_word_underscore_8: nature_rifle_spring_flat_jump_grab_fury_bring
-bip_39_word_underscore_9: nature_rifle_spring_flat_jump_grab_fury_bring_clay
 classification: project
 classification_capital: Project
 classification_first_letter: p

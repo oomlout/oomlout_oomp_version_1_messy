@@ -1,68 +1,9 @@
-bip_39_word_dash_1: weasel
-bip_39_word_dash_10: weasel-expect-subject-barely-steel-clip-marine-boy-document-sun
-bip_39_word_dash_11: weasel-expect-subject-barely-steel-clip-marine-boy-document-sun-genre
 bip_39_word_dash_12: weasel-expect-subject-barely-steel-clip-marine-boy-document-sun-genre-agent
 bip_39_word_dash_2: weasel-expect
 bip_39_word_dash_3: weasel-expect-subject
-bip_39_word_dash_4: weasel-expect-subject-barely
-bip_39_word_dash_5: weasel-expect-subject-barely-steel
-bip_39_word_dash_6: weasel-expect-subject-barely-steel-clip
-bip_39_word_dash_7: weasel-expect-subject-barely-steel-clip-marine
-bip_39_word_dash_8: weasel-expect-subject-barely-steel-clip-marine-boy
-bip_39_word_dash_9: weasel-expect-subject-barely-steel-clip-marine-boy-document
-bip_39_word_new_br_1: weasel
-bip_39_word_new_br_10: weasel<br>expect<br>subject<br>barely<br>steel<br>clip<br>marine<br>boy<br>document<br>sun
-bip_39_word_new_br_11: weasel<br>expect<br>subject<br>barely<br>steel<br>clip<br>marine<br>boy<br>document<br>sun<br>genre
 bip_39_word_new_br_12: weasel<br>expect<br>subject<br>barely<br>steel<br>clip<br>marine<br>boy<br>document<br>sun<br>genre<br>agent
 bip_39_word_new_br_2: weasel<br>expect
 bip_39_word_new_br_3: weasel<br>expect<br>subject
-bip_39_word_new_br_4: weasel<br>expect<br>subject<br>barely
-bip_39_word_new_br_5: weasel<br>expect<br>subject<br>barely<br>steel
-bip_39_word_new_br_6: weasel<br>expect<br>subject<br>barely<br>steel<br>clip
-bip_39_word_new_br_7: weasel<br>expect<br>subject<br>barely<br>steel<br>clip<br>marine
-bip_39_word_new_br_8: weasel<br>expect<br>subject<br>barely<br>steel<br>clip<br>marine<br>boy
-bip_39_word_new_br_9: weasel<br>expect<br>subject<br>barely<br>steel<br>clip<br>marine<br>boy<br>document
-bip_39_word_new_line_1: weasel
-bip_39_word_new_line_10: 'weasel
-
-  expect
-
-  subject
-
-  barely
-
-  steel
-
-  clip
-
-  marine
-
-  boy
-
-  document
-
-  sun'
-bip_39_word_new_line_11: 'weasel
-
-  expect
-
-  subject
-
-  barely
-
-  steel
-
-  clip
-
-  marine
-
-  boy
-
-  document
-
-  sun
-
-  genre'
 bip_39_word_new_line_12: 'weasel
 
   expect
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'weasel
   expect
 
   subject'
-bip_39_word_new_line_4: 'weasel
-
-  expect
-
-  subject
-
-  barely'
-bip_39_word_new_line_5: 'weasel
-
-  expect
-
-  subject
-
-  barely
-
-  steel'
-bip_39_word_new_line_6: 'weasel
-
-  expect
-
-  subject
-
-  barely
-
-  steel
-
-  clip'
-bip_39_word_new_line_7: 'weasel
-
-  expect
-
-  subject
-
-  barely
-
-  steel
-
-  clip
-
-  marine'
-bip_39_word_new_line_8: 'weasel
-
-  expect
-
-  subject
-
-  barely
-
-  steel
-
-  clip
-
-  marine
-
-  boy'
-bip_39_word_new_line_9: 'weasel
-
-  expect
-
-  subject
-
-  barely
-
-  steel
-
-  clip
-
-  marine
-
-  boy
-
-  document'
-bip_39_word_no_space_1: weasel
-bip_39_word_no_space_10: weaselexpectsubjectbarelysteelclipmarineboydocumentsun
-bip_39_word_no_space_11: weaselexpectsubjectbarelysteelclipmarineboydocumentsungenre
 bip_39_word_no_space_12: weaselexpectsubjectbarelysteelclipmarineboydocumentsungenreagent
 bip_39_word_no_space_2: weaselexpect
 bip_39_word_no_space_3: weaselexpectsubject
-bip_39_word_no_space_4: weaselexpectsubjectbarely
-bip_39_word_no_space_5: weaselexpectsubjectbarelysteel
-bip_39_word_no_space_6: weaselexpectsubjectbarelysteelclip
-bip_39_word_no_space_7: weaselexpectsubjectbarelysteelclipmarine
-bip_39_word_no_space_8: weaselexpectsubjectbarelysteelclipmarineboy
-bip_39_word_no_space_9: weaselexpectsubjectbarelysteelclipmarineboydocument
-bip_39_word_space_0:
-- weasel
-- expect
-- subject
-- barely
-- steel
-- clip
-- marine
-- boy
-- document
-- sun
-- genre
-- agent
-bip_39_word_space_1: weasel
-bip_39_word_space_10: weasel expect subject barely steel clip marine boy document
-  sun
-bip_39_word_space_11: weasel expect subject barely steel clip marine boy document
-  sun genre
 bip_39_word_space_12: weasel expect subject barely steel clip marine boy document
   sun genre agent
 bip_39_word_space_2: weasel expect
 bip_39_word_space_3: weasel expect subject
-bip_39_word_space_4: weasel expect subject barely
-bip_39_word_space_5: weasel expect subject barely steel
-bip_39_word_space_6: weasel expect subject barely steel clip
-bip_39_word_space_7: weasel expect subject barely steel clip marine
-bip_39_word_space_8: weasel expect subject barely steel clip marine boy
-bip_39_word_space_9: weasel expect subject barely steel clip marine boy document
-bip_39_word_underscore_1: weasel
-bip_39_word_underscore_10: weasel_expect_subject_barely_steel_clip_marine_boy_document_sun
-bip_39_word_underscore_11: weasel_expect_subject_barely_steel_clip_marine_boy_document_sun_genre
 bip_39_word_underscore_12: weasel_expect_subject_barely_steel_clip_marine_boy_document_sun_genre_agent
 bip_39_word_underscore_2: weasel_expect
 bip_39_word_underscore_3: weasel_expect_subject
-bip_39_word_underscore_4: weasel_expect_subject_barely
-bip_39_word_underscore_5: weasel_expect_subject_barely_steel
-bip_39_word_underscore_6: weasel_expect_subject_barely_steel_clip
-bip_39_word_underscore_7: weasel_expect_subject_barely_steel_clip_marine
-bip_39_word_underscore_8: weasel_expect_subject_barely_steel_clip_marine_boy
-bip_39_word_underscore_9: weasel_expect_subject_barely_steel_clip_marine_boy_document
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

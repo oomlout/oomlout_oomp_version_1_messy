@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rice
-bip_39_word_dash_10: rice-ordinary-burger-sea-enemy-arctic-cherry-magnet-atom-magnet
-bip_39_word_dash_11: rice-ordinary-burger-sea-enemy-arctic-cherry-magnet-atom-magnet-duck
 bip_39_word_dash_12: rice-ordinary-burger-sea-enemy-arctic-cherry-magnet-atom-magnet-duck-address
 bip_39_word_dash_2: rice-ordinary
 bip_39_word_dash_3: rice-ordinary-burger
-bip_39_word_dash_4: rice-ordinary-burger-sea
-bip_39_word_dash_5: rice-ordinary-burger-sea-enemy
-bip_39_word_dash_6: rice-ordinary-burger-sea-enemy-arctic
-bip_39_word_dash_7: rice-ordinary-burger-sea-enemy-arctic-cherry
-bip_39_word_dash_8: rice-ordinary-burger-sea-enemy-arctic-cherry-magnet
-bip_39_word_dash_9: rice-ordinary-burger-sea-enemy-arctic-cherry-magnet-atom
-bip_39_word_new_br_1: rice
-bip_39_word_new_br_10: rice<br>ordinary<br>burger<br>sea<br>enemy<br>arctic<br>cherry<br>magnet<br>atom<br>magnet
-bip_39_word_new_br_11: rice<br>ordinary<br>burger<br>sea<br>enemy<br>arctic<br>cherry<br>magnet<br>atom<br>magnet<br>duck
 bip_39_word_new_br_12: rice<br>ordinary<br>burger<br>sea<br>enemy<br>arctic<br>cherry<br>magnet<br>atom<br>magnet<br>duck<br>address
 bip_39_word_new_br_2: rice<br>ordinary
 bip_39_word_new_br_3: rice<br>ordinary<br>burger
-bip_39_word_new_br_4: rice<br>ordinary<br>burger<br>sea
-bip_39_word_new_br_5: rice<br>ordinary<br>burger<br>sea<br>enemy
-bip_39_word_new_br_6: rice<br>ordinary<br>burger<br>sea<br>enemy<br>arctic
-bip_39_word_new_br_7: rice<br>ordinary<br>burger<br>sea<br>enemy<br>arctic<br>cherry
-bip_39_word_new_br_8: rice<br>ordinary<br>burger<br>sea<br>enemy<br>arctic<br>cherry<br>magnet
-bip_39_word_new_br_9: rice<br>ordinary<br>burger<br>sea<br>enemy<br>arctic<br>cherry<br>magnet<br>atom
-bip_39_word_new_line_1: rice
-bip_39_word_new_line_10: 'rice
-
-  ordinary
-
-  burger
-
-  sea
-
-  enemy
-
-  arctic
-
-  cherry
-
-  magnet
-
-  atom
-
-  magnet'
-bip_39_word_new_line_11: 'rice
-
-  ordinary
-
-  burger
-
-  sea
-
-  enemy
-
-  arctic
-
-  cherry
-
-  magnet
-
-  atom
-
-  magnet
-
-  duck'
 bip_39_word_new_line_12: 'rice
 
   ordinary
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rice
   ordinary
 
   burger'
-bip_39_word_new_line_4: 'rice
-
-  ordinary
-
-  burger
-
-  sea'
-bip_39_word_new_line_5: 'rice
-
-  ordinary
-
-  burger
-
-  sea
-
-  enemy'
-bip_39_word_new_line_6: 'rice
-
-  ordinary
-
-  burger
-
-  sea
-
-  enemy
-
-  arctic'
-bip_39_word_new_line_7: 'rice
-
-  ordinary
-
-  burger
-
-  sea
-
-  enemy
-
-  arctic
-
-  cherry'
-bip_39_word_new_line_8: 'rice
-
-  ordinary
-
-  burger
-
-  sea
-
-  enemy
-
-  arctic
-
-  cherry
-
-  magnet'
-bip_39_word_new_line_9: 'rice
-
-  ordinary
-
-  burger
-
-  sea
-
-  enemy
-
-  arctic
-
-  cherry
-
-  magnet
-
-  atom'
-bip_39_word_no_space_1: rice
-bip_39_word_no_space_10: riceordinaryburgerseaenemyarcticcherrymagnetatommagnet
-bip_39_word_no_space_11: riceordinaryburgerseaenemyarcticcherrymagnetatommagnetduck
 bip_39_word_no_space_12: riceordinaryburgerseaenemyarcticcherrymagnetatommagnetduckaddress
 bip_39_word_no_space_2: riceordinary
 bip_39_word_no_space_3: riceordinaryburger
-bip_39_word_no_space_4: riceordinaryburgersea
-bip_39_word_no_space_5: riceordinaryburgerseaenemy
-bip_39_word_no_space_6: riceordinaryburgerseaenemyarctic
-bip_39_word_no_space_7: riceordinaryburgerseaenemyarcticcherry
-bip_39_word_no_space_8: riceordinaryburgerseaenemyarcticcherrymagnet
-bip_39_word_no_space_9: riceordinaryburgerseaenemyarcticcherrymagnetatom
-bip_39_word_space_0:
-- rice
-- ordinary
-- burger
-- sea
-- enemy
-- arctic
-- cherry
-- magnet
-- atom
-- magnet
-- duck
-- address
-bip_39_word_space_1: rice
-bip_39_word_space_10: rice ordinary burger sea enemy arctic cherry magnet atom magnet
-bip_39_word_space_11: rice ordinary burger sea enemy arctic cherry magnet atom magnet
-  duck
 bip_39_word_space_12: rice ordinary burger sea enemy arctic cherry magnet atom magnet
   duck address
 bip_39_word_space_2: rice ordinary
 bip_39_word_space_3: rice ordinary burger
-bip_39_word_space_4: rice ordinary burger sea
-bip_39_word_space_5: rice ordinary burger sea enemy
-bip_39_word_space_6: rice ordinary burger sea enemy arctic
-bip_39_word_space_7: rice ordinary burger sea enemy arctic cherry
-bip_39_word_space_8: rice ordinary burger sea enemy arctic cherry magnet
-bip_39_word_space_9: rice ordinary burger sea enemy arctic cherry magnet atom
-bip_39_word_underscore_1: rice
-bip_39_word_underscore_10: rice_ordinary_burger_sea_enemy_arctic_cherry_magnet_atom_magnet
-bip_39_word_underscore_11: rice_ordinary_burger_sea_enemy_arctic_cherry_magnet_atom_magnet_duck
 bip_39_word_underscore_12: rice_ordinary_burger_sea_enemy_arctic_cherry_magnet_atom_magnet_duck_address
 bip_39_word_underscore_2: rice_ordinary
 bip_39_word_underscore_3: rice_ordinary_burger
-bip_39_word_underscore_4: rice_ordinary_burger_sea
-bip_39_word_underscore_5: rice_ordinary_burger_sea_enemy
-bip_39_word_underscore_6: rice_ordinary_burger_sea_enemy_arctic
-bip_39_word_underscore_7: rice_ordinary_burger_sea_enemy_arctic_cherry
-bip_39_word_underscore_8: rice_ordinary_burger_sea_enemy_arctic_cherry_magnet
-bip_39_word_underscore_9: rice_ordinary_burger_sea_enemy_arctic_cherry_magnet_atom
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: monkey
-bip_39_word_dash_10: monkey-hollow-glare-level-choose-syrup-hello-three-grief-million
-bip_39_word_dash_11: monkey-hollow-glare-level-choose-syrup-hello-three-grief-million-crouch
 bip_39_word_dash_12: monkey-hollow-glare-level-choose-syrup-hello-three-grief-million-crouch-able
 bip_39_word_dash_2: monkey-hollow
 bip_39_word_dash_3: monkey-hollow-glare
-bip_39_word_dash_4: monkey-hollow-glare-level
-bip_39_word_dash_5: monkey-hollow-glare-level-choose
-bip_39_word_dash_6: monkey-hollow-glare-level-choose-syrup
-bip_39_word_dash_7: monkey-hollow-glare-level-choose-syrup-hello
-bip_39_word_dash_8: monkey-hollow-glare-level-choose-syrup-hello-three
-bip_39_word_dash_9: monkey-hollow-glare-level-choose-syrup-hello-three-grief
-bip_39_word_new_br_1: monkey
-bip_39_word_new_br_10: monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief<br>million
-bip_39_word_new_br_11: monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief<br>million<br>crouch
 bip_39_word_new_br_12: monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief<br>million<br>crouch<br>able
 bip_39_word_new_br_2: monkey<br>hollow
 bip_39_word_new_br_3: monkey<br>hollow<br>glare
-bip_39_word_new_br_4: monkey<br>hollow<br>glare<br>level
-bip_39_word_new_br_5: monkey<br>hollow<br>glare<br>level<br>choose
-bip_39_word_new_br_6: monkey<br>hollow<br>glare<br>level<br>choose<br>syrup
-bip_39_word_new_br_7: monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello
-bip_39_word_new_br_8: monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three
-bip_39_word_new_br_9: monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief
-bip_39_word_new_line_1: monkey
-bip_39_word_new_line_10: 'monkey
-
-  hollow
-
-  glare
-
-  level
-
-  choose
-
-  syrup
-
-  hello
-
-  three
-
-  grief
-
-  million'
-bip_39_word_new_line_11: 'monkey
-
-  hollow
-
-  glare
-
-  level
-
-  choose
-
-  syrup
-
-  hello
-
-  three
-
-  grief
-
-  million
-
-  crouch'
 bip_39_word_new_line_12: 'monkey
 
   hollow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'monkey
   hollow
 
   glare'
-bip_39_word_new_line_4: 'monkey
-
-  hollow
-
-  glare
-
-  level'
-bip_39_word_new_line_5: 'monkey
-
-  hollow
-
-  glare
-
-  level
-
-  choose'
-bip_39_word_new_line_6: 'monkey
-
-  hollow
-
-  glare
-
-  level
-
-  choose
-
-  syrup'
-bip_39_word_new_line_7: 'monkey
-
-  hollow
-
-  glare
-
-  level
-
-  choose
-
-  syrup
-
-  hello'
-bip_39_word_new_line_8: 'monkey
-
-  hollow
-
-  glare
-
-  level
-
-  choose
-
-  syrup
-
-  hello
-
-  three'
-bip_39_word_new_line_9: 'monkey
-
-  hollow
-
-  glare
-
-  level
-
-  choose
-
-  syrup
-
-  hello
-
-  three
-
-  grief'
-bip_39_word_no_space_1: monkey
-bip_39_word_no_space_10: monkeyhollowglarelevelchoosesyruphellothreegriefmillion
-bip_39_word_no_space_11: monkeyhollowglarelevelchoosesyruphellothreegriefmillioncrouch
 bip_39_word_no_space_12: monkeyhollowglarelevelchoosesyruphellothreegriefmillioncrouchable
 bip_39_word_no_space_2: monkeyhollow
 bip_39_word_no_space_3: monkeyhollowglare
-bip_39_word_no_space_4: monkeyhollowglarelevel
-bip_39_word_no_space_5: monkeyhollowglarelevelchoose
-bip_39_word_no_space_6: monkeyhollowglarelevelchoosesyrup
-bip_39_word_no_space_7: monkeyhollowglarelevelchoosesyruphello
-bip_39_word_no_space_8: monkeyhollowglarelevelchoosesyruphellothree
-bip_39_word_no_space_9: monkeyhollowglarelevelchoosesyruphellothreegrief
-bip_39_word_space_0:
-- monkey
-- hollow
-- glare
-- level
-- choose
-- syrup
-- hello
-- three
-- grief
-- million
-- crouch
-- able
-bip_39_word_space_1: monkey
-bip_39_word_space_10: monkey hollow glare level choose syrup hello three grief million
-bip_39_word_space_11: monkey hollow glare level choose syrup hello three grief million
-  crouch
 bip_39_word_space_12: monkey hollow glare level choose syrup hello three grief million
   crouch able
 bip_39_word_space_2: monkey hollow
 bip_39_word_space_3: monkey hollow glare
-bip_39_word_space_4: monkey hollow glare level
-bip_39_word_space_5: monkey hollow glare level choose
-bip_39_word_space_6: monkey hollow glare level choose syrup
-bip_39_word_space_7: monkey hollow glare level choose syrup hello
-bip_39_word_space_8: monkey hollow glare level choose syrup hello three
-bip_39_word_space_9: monkey hollow glare level choose syrup hello three grief
-bip_39_word_underscore_1: monkey
-bip_39_word_underscore_10: monkey_hollow_glare_level_choose_syrup_hello_three_grief_million
-bip_39_word_underscore_11: monkey_hollow_glare_level_choose_syrup_hello_three_grief_million_crouch
 bip_39_word_underscore_12: monkey_hollow_glare_level_choose_syrup_hello_three_grief_million_crouch_able
 bip_39_word_underscore_2: monkey_hollow
 bip_39_word_underscore_3: monkey_hollow_glare
-bip_39_word_underscore_4: monkey_hollow_glare_level
-bip_39_word_underscore_5: monkey_hollow_glare_level_choose
-bip_39_word_underscore_6: monkey_hollow_glare_level_choose_syrup
-bip_39_word_underscore_7: monkey_hollow_glare_level_choose_syrup_hello
-bip_39_word_underscore_8: monkey_hollow_glare_level_choose_syrup_hello_three
-bip_39_word_underscore_9: monkey_hollow_glare_level_choose_syrup_hello_three_grief
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

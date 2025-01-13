@@ -1,68 +1,9 @@
-bip_39_word_dash_1: salt
-bip_39_word_dash_10: salt-second-upset-term-jar-forest-barely-divide-kiwi-parrot
-bip_39_word_dash_11: salt-second-upset-term-jar-forest-barely-divide-kiwi-parrot-lucky
 bip_39_word_dash_12: salt-second-upset-term-jar-forest-barely-divide-kiwi-parrot-lucky-arrow
 bip_39_word_dash_2: salt-second
 bip_39_word_dash_3: salt-second-upset
-bip_39_word_dash_4: salt-second-upset-term
-bip_39_word_dash_5: salt-second-upset-term-jar
-bip_39_word_dash_6: salt-second-upset-term-jar-forest
-bip_39_word_dash_7: salt-second-upset-term-jar-forest-barely
-bip_39_word_dash_8: salt-second-upset-term-jar-forest-barely-divide
-bip_39_word_dash_9: salt-second-upset-term-jar-forest-barely-divide-kiwi
-bip_39_word_new_br_1: salt
-bip_39_word_new_br_10: salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide<br>kiwi<br>parrot
-bip_39_word_new_br_11: salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide<br>kiwi<br>parrot<br>lucky
 bip_39_word_new_br_12: salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide<br>kiwi<br>parrot<br>lucky<br>arrow
 bip_39_word_new_br_2: salt<br>second
 bip_39_word_new_br_3: salt<br>second<br>upset
-bip_39_word_new_br_4: salt<br>second<br>upset<br>term
-bip_39_word_new_br_5: salt<br>second<br>upset<br>term<br>jar
-bip_39_word_new_br_6: salt<br>second<br>upset<br>term<br>jar<br>forest
-bip_39_word_new_br_7: salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely
-bip_39_word_new_br_8: salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide
-bip_39_word_new_br_9: salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide<br>kiwi
-bip_39_word_new_line_1: salt
-bip_39_word_new_line_10: 'salt
-
-  second
-
-  upset
-
-  term
-
-  jar
-
-  forest
-
-  barely
-
-  divide
-
-  kiwi
-
-  parrot'
-bip_39_word_new_line_11: 'salt
-
-  second
-
-  upset
-
-  term
-
-  jar
-
-  forest
-
-  barely
-
-  divide
-
-  kiwi
-
-  parrot
-
-  lucky'
 bip_39_word_new_line_12: 'salt
 
   second
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'salt
   second
 
   upset'
-bip_39_word_new_line_4: 'salt
-
-  second
-
-  upset
-
-  term'
-bip_39_word_new_line_5: 'salt
-
-  second
-
-  upset
-
-  term
-
-  jar'
-bip_39_word_new_line_6: 'salt
-
-  second
-
-  upset
-
-  term
-
-  jar
-
-  forest'
-bip_39_word_new_line_7: 'salt
-
-  second
-
-  upset
-
-  term
-
-  jar
-
-  forest
-
-  barely'
-bip_39_word_new_line_8: 'salt
-
-  second
-
-  upset
-
-  term
-
-  jar
-
-  forest
-
-  barely
-
-  divide'
-bip_39_word_new_line_9: 'salt
-
-  second
-
-  upset
-
-  term
-
-  jar
-
-  forest
-
-  barely
-
-  divide
-
-  kiwi'
-bip_39_word_no_space_1: salt
-bip_39_word_no_space_10: saltsecondupsettermjarforestbarelydividekiwiparrot
-bip_39_word_no_space_11: saltsecondupsettermjarforestbarelydividekiwiparrotlucky
 bip_39_word_no_space_12: saltsecondupsettermjarforestbarelydividekiwiparrotluckyarrow
 bip_39_word_no_space_2: saltsecond
 bip_39_word_no_space_3: saltsecondupset
-bip_39_word_no_space_4: saltsecondupsetterm
-bip_39_word_no_space_5: saltsecondupsettermjar
-bip_39_word_no_space_6: saltsecondupsettermjarforest
-bip_39_word_no_space_7: saltsecondupsettermjarforestbarely
-bip_39_word_no_space_8: saltsecondupsettermjarforestbarelydivide
-bip_39_word_no_space_9: saltsecondupsettermjarforestbarelydividekiwi
-bip_39_word_space_0:
-- salt
-- second
-- upset
-- term
-- jar
-- forest
-- barely
-- divide
-- kiwi
-- parrot
-- lucky
-- arrow
-bip_39_word_space_1: salt
-bip_39_word_space_10: salt second upset term jar forest barely divide kiwi parrot
-bip_39_word_space_11: salt second upset term jar forest barely divide kiwi parrot
-  lucky
 bip_39_word_space_12: salt second upset term jar forest barely divide kiwi parrot
   lucky arrow
 bip_39_word_space_2: salt second
 bip_39_word_space_3: salt second upset
-bip_39_word_space_4: salt second upset term
-bip_39_word_space_5: salt second upset term jar
-bip_39_word_space_6: salt second upset term jar forest
-bip_39_word_space_7: salt second upset term jar forest barely
-bip_39_word_space_8: salt second upset term jar forest barely divide
-bip_39_word_space_9: salt second upset term jar forest barely divide kiwi
-bip_39_word_underscore_1: salt
-bip_39_word_underscore_10: salt_second_upset_term_jar_forest_barely_divide_kiwi_parrot
-bip_39_word_underscore_11: salt_second_upset_term_jar_forest_barely_divide_kiwi_parrot_lucky
 bip_39_word_underscore_12: salt_second_upset_term_jar_forest_barely_divide_kiwi_parrot_lucky_arrow
 bip_39_word_underscore_2: salt_second
 bip_39_word_underscore_3: salt_second_upset
-bip_39_word_underscore_4: salt_second_upset_term
-bip_39_word_underscore_5: salt_second_upset_term_jar
-bip_39_word_underscore_6: salt_second_upset_term_jar_forest
-bip_39_word_underscore_7: salt_second_upset_term_jar_forest_barely
-bip_39_word_underscore_8: salt_second_upset_term_jar_forest_barely_divide
-bip_39_word_underscore_9: salt_second_upset_term_jar_forest_barely_divide_kiwi
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

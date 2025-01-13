@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lunar
-bip_39_word_dash_10: lunar-course-lab-life-alert-mushroom-visual-wise-wood-gold
-bip_39_word_dash_11: lunar-course-lab-life-alert-mushroom-visual-wise-wood-gold-south
 bip_39_word_dash_12: lunar-course-lab-life-alert-mushroom-visual-wise-wood-gold-south-amount
 bip_39_word_dash_2: lunar-course
 bip_39_word_dash_3: lunar-course-lab
-bip_39_word_dash_4: lunar-course-lab-life
-bip_39_word_dash_5: lunar-course-lab-life-alert
-bip_39_word_dash_6: lunar-course-lab-life-alert-mushroom
-bip_39_word_dash_7: lunar-course-lab-life-alert-mushroom-visual
-bip_39_word_dash_8: lunar-course-lab-life-alert-mushroom-visual-wise
-bip_39_word_dash_9: lunar-course-lab-life-alert-mushroom-visual-wise-wood
-bip_39_word_new_br_1: lunar
-bip_39_word_new_br_10: lunar<br>course<br>lab<br>life<br>alert<br>mushroom<br>visual<br>wise<br>wood<br>gold
-bip_39_word_new_br_11: lunar<br>course<br>lab<br>life<br>alert<br>mushroom<br>visual<br>wise<br>wood<br>gold<br>south
 bip_39_word_new_br_12: lunar<br>course<br>lab<br>life<br>alert<br>mushroom<br>visual<br>wise<br>wood<br>gold<br>south<br>amount
 bip_39_word_new_br_2: lunar<br>course
 bip_39_word_new_br_3: lunar<br>course<br>lab
-bip_39_word_new_br_4: lunar<br>course<br>lab<br>life
-bip_39_word_new_br_5: lunar<br>course<br>lab<br>life<br>alert
-bip_39_word_new_br_6: lunar<br>course<br>lab<br>life<br>alert<br>mushroom
-bip_39_word_new_br_7: lunar<br>course<br>lab<br>life<br>alert<br>mushroom<br>visual
-bip_39_word_new_br_8: lunar<br>course<br>lab<br>life<br>alert<br>mushroom<br>visual<br>wise
-bip_39_word_new_br_9: lunar<br>course<br>lab<br>life<br>alert<br>mushroom<br>visual<br>wise<br>wood
-bip_39_word_new_line_1: lunar
-bip_39_word_new_line_10: 'lunar
-
-  course
-
-  lab
-
-  life
-
-  alert
-
-  mushroom
-
-  visual
-
-  wise
-
-  wood
-
-  gold'
-bip_39_word_new_line_11: 'lunar
-
-  course
-
-  lab
-
-  life
-
-  alert
-
-  mushroom
-
-  visual
-
-  wise
-
-  wood
-
-  gold
-
-  south'
 bip_39_word_new_line_12: 'lunar
 
   course
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'lunar
   course
 
   lab'
-bip_39_word_new_line_4: 'lunar
-
-  course
-
-  lab
-
-  life'
-bip_39_word_new_line_5: 'lunar
-
-  course
-
-  lab
-
-  life
-
-  alert'
-bip_39_word_new_line_6: 'lunar
-
-  course
-
-  lab
-
-  life
-
-  alert
-
-  mushroom'
-bip_39_word_new_line_7: 'lunar
-
-  course
-
-  lab
-
-  life
-
-  alert
-
-  mushroom
-
-  visual'
-bip_39_word_new_line_8: 'lunar
-
-  course
-
-  lab
-
-  life
-
-  alert
-
-  mushroom
-
-  visual
-
-  wise'
-bip_39_word_new_line_9: 'lunar
-
-  course
-
-  lab
-
-  life
-
-  alert
-
-  mushroom
-
-  visual
-
-  wise
-
-  wood'
-bip_39_word_no_space_1: lunar
-bip_39_word_no_space_10: lunarcourselablifealertmushroomvisualwisewoodgold
-bip_39_word_no_space_11: lunarcourselablifealertmushroomvisualwisewoodgoldsouth
 bip_39_word_no_space_12: lunarcourselablifealertmushroomvisualwisewoodgoldsouthamount
 bip_39_word_no_space_2: lunarcourse
 bip_39_word_no_space_3: lunarcourselab
-bip_39_word_no_space_4: lunarcourselablife
-bip_39_word_no_space_5: lunarcourselablifealert
-bip_39_word_no_space_6: lunarcourselablifealertmushroom
-bip_39_word_no_space_7: lunarcourselablifealertmushroomvisual
-bip_39_word_no_space_8: lunarcourselablifealertmushroomvisualwise
-bip_39_word_no_space_9: lunarcourselablifealertmushroomvisualwisewood
-bip_39_word_space_0:
-- lunar
-- course
-- lab
-- life
-- alert
-- mushroom
-- visual
-- wise
-- wood
-- gold
-- south
-- amount
-bip_39_word_space_1: lunar
-bip_39_word_space_10: lunar course lab life alert mushroom visual wise wood gold
-bip_39_word_space_11: lunar course lab life alert mushroom visual wise wood gold south
 bip_39_word_space_12: lunar course lab life alert mushroom visual wise wood gold south
   amount
 bip_39_word_space_2: lunar course
 bip_39_word_space_3: lunar course lab
-bip_39_word_space_4: lunar course lab life
-bip_39_word_space_5: lunar course lab life alert
-bip_39_word_space_6: lunar course lab life alert mushroom
-bip_39_word_space_7: lunar course lab life alert mushroom visual
-bip_39_word_space_8: lunar course lab life alert mushroom visual wise
-bip_39_word_space_9: lunar course lab life alert mushroom visual wise wood
-bip_39_word_underscore_1: lunar
-bip_39_word_underscore_10: lunar_course_lab_life_alert_mushroom_visual_wise_wood_gold
-bip_39_word_underscore_11: lunar_course_lab_life_alert_mushroom_visual_wise_wood_gold_south
 bip_39_word_underscore_12: lunar_course_lab_life_alert_mushroom_visual_wise_wood_gold_south_amount
 bip_39_word_underscore_2: lunar_course
 bip_39_word_underscore_3: lunar_course_lab
-bip_39_word_underscore_4: lunar_course_lab_life
-bip_39_word_underscore_5: lunar_course_lab_life_alert
-bip_39_word_underscore_6: lunar_course_lab_life_alert_mushroom
-bip_39_word_underscore_7: lunar_course_lab_life_alert_mushroom_visual
-bip_39_word_underscore_8: lunar_course_lab_life_alert_mushroom_visual_wise
-bip_39_word_underscore_9: lunar_course_lab_life_alert_mushroom_visual_wise_wood
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

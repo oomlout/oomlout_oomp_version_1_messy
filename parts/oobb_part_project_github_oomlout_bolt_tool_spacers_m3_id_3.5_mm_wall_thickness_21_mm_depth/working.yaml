@@ -1,68 +1,9 @@
-bip_39_word_dash_1: example
-bip_39_word_dash_10: example-enter-rent-actor-shoulder-clump-ostrich-hamster-debate-lock
-bip_39_word_dash_11: example-enter-rent-actor-shoulder-clump-ostrich-hamster-debate-lock-leader
 bip_39_word_dash_12: example-enter-rent-actor-shoulder-clump-ostrich-hamster-debate-lock-leader-arm
 bip_39_word_dash_2: example-enter
 bip_39_word_dash_3: example-enter-rent
-bip_39_word_dash_4: example-enter-rent-actor
-bip_39_word_dash_5: example-enter-rent-actor-shoulder
-bip_39_word_dash_6: example-enter-rent-actor-shoulder-clump
-bip_39_word_dash_7: example-enter-rent-actor-shoulder-clump-ostrich
-bip_39_word_dash_8: example-enter-rent-actor-shoulder-clump-ostrich-hamster
-bip_39_word_dash_9: example-enter-rent-actor-shoulder-clump-ostrich-hamster-debate
-bip_39_word_new_br_1: example
-bip_39_word_new_br_10: example<br>enter<br>rent<br>actor<br>shoulder<br>clump<br>ostrich<br>hamster<br>debate<br>lock
-bip_39_word_new_br_11: example<br>enter<br>rent<br>actor<br>shoulder<br>clump<br>ostrich<br>hamster<br>debate<br>lock<br>leader
 bip_39_word_new_br_12: example<br>enter<br>rent<br>actor<br>shoulder<br>clump<br>ostrich<br>hamster<br>debate<br>lock<br>leader<br>arm
 bip_39_word_new_br_2: example<br>enter
 bip_39_word_new_br_3: example<br>enter<br>rent
-bip_39_word_new_br_4: example<br>enter<br>rent<br>actor
-bip_39_word_new_br_5: example<br>enter<br>rent<br>actor<br>shoulder
-bip_39_word_new_br_6: example<br>enter<br>rent<br>actor<br>shoulder<br>clump
-bip_39_word_new_br_7: example<br>enter<br>rent<br>actor<br>shoulder<br>clump<br>ostrich
-bip_39_word_new_br_8: example<br>enter<br>rent<br>actor<br>shoulder<br>clump<br>ostrich<br>hamster
-bip_39_word_new_br_9: example<br>enter<br>rent<br>actor<br>shoulder<br>clump<br>ostrich<br>hamster<br>debate
-bip_39_word_new_line_1: example
-bip_39_word_new_line_10: 'example
-
-  enter
-
-  rent
-
-  actor
-
-  shoulder
-
-  clump
-
-  ostrich
-
-  hamster
-
-  debate
-
-  lock'
-bip_39_word_new_line_11: 'example
-
-  enter
-
-  rent
-
-  actor
-
-  shoulder
-
-  clump
-
-  ostrich
-
-  hamster
-
-  debate
-
-  lock
-
-  leader'
 bip_39_word_new_line_12: 'example
 
   enter
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'example
   enter
 
   rent'
-bip_39_word_new_line_4: 'example
-
-  enter
-
-  rent
-
-  actor'
-bip_39_word_new_line_5: 'example
-
-  enter
-
-  rent
-
-  actor
-
-  shoulder'
-bip_39_word_new_line_6: 'example
-
-  enter
-
-  rent
-
-  actor
-
-  shoulder
-
-  clump'
-bip_39_word_new_line_7: 'example
-
-  enter
-
-  rent
-
-  actor
-
-  shoulder
-
-  clump
-
-  ostrich'
-bip_39_word_new_line_8: 'example
-
-  enter
-
-  rent
-
-  actor
-
-  shoulder
-
-  clump
-
-  ostrich
-
-  hamster'
-bip_39_word_new_line_9: 'example
-
-  enter
-
-  rent
-
-  actor
-
-  shoulder
-
-  clump
-
-  ostrich
-
-  hamster
-
-  debate'
-bip_39_word_no_space_1: example
-bip_39_word_no_space_10: exampleenterrentactorshoulderclumpostrichhamsterdebatelock
-bip_39_word_no_space_11: exampleenterrentactorshoulderclumpostrichhamsterdebatelockleader
 bip_39_word_no_space_12: exampleenterrentactorshoulderclumpostrichhamsterdebatelockleaderarm
 bip_39_word_no_space_2: exampleenter
 bip_39_word_no_space_3: exampleenterrent
-bip_39_word_no_space_4: exampleenterrentactor
-bip_39_word_no_space_5: exampleenterrentactorshoulder
-bip_39_word_no_space_6: exampleenterrentactorshoulderclump
-bip_39_word_no_space_7: exampleenterrentactorshoulderclumpostrich
-bip_39_word_no_space_8: exampleenterrentactorshoulderclumpostrichhamster
-bip_39_word_no_space_9: exampleenterrentactorshoulderclumpostrichhamsterdebate
-bip_39_word_space_0:
-- example
-- enter
-- rent
-- actor
-- shoulder
-- clump
-- ostrich
-- hamster
-- debate
-- lock
-- leader
-- arm
-bip_39_word_space_1: example
-bip_39_word_space_10: example enter rent actor shoulder clump ostrich hamster debate
-  lock
-bip_39_word_space_11: example enter rent actor shoulder clump ostrich hamster debate
-  lock leader
 bip_39_word_space_12: example enter rent actor shoulder clump ostrich hamster debate
   lock leader arm
 bip_39_word_space_2: example enter
 bip_39_word_space_3: example enter rent
-bip_39_word_space_4: example enter rent actor
-bip_39_word_space_5: example enter rent actor shoulder
-bip_39_word_space_6: example enter rent actor shoulder clump
-bip_39_word_space_7: example enter rent actor shoulder clump ostrich
-bip_39_word_space_8: example enter rent actor shoulder clump ostrich hamster
-bip_39_word_space_9: example enter rent actor shoulder clump ostrich hamster debate
-bip_39_word_underscore_1: example
-bip_39_word_underscore_10: example_enter_rent_actor_shoulder_clump_ostrich_hamster_debate_lock
-bip_39_word_underscore_11: example_enter_rent_actor_shoulder_clump_ostrich_hamster_debate_lock_leader
 bip_39_word_underscore_12: example_enter_rent_actor_shoulder_clump_ostrich_hamster_debate_lock_leader_arm
 bip_39_word_underscore_2: example_enter
 bip_39_word_underscore_3: example_enter_rent
-bip_39_word_underscore_4: example_enter_rent_actor
-bip_39_word_underscore_5: example_enter_rent_actor_shoulder
-bip_39_word_underscore_6: example_enter_rent_actor_shoulder_clump
-bip_39_word_underscore_7: example_enter_rent_actor_shoulder_clump_ostrich
-bip_39_word_underscore_8: example_enter_rent_actor_shoulder_clump_ostrich_hamster
-bip_39_word_underscore_9: example_enter_rent_actor_shoulder_clump_ostrich_hamster_debate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: furnace
-bip_39_word_dash_10: furnace-renew-era-narrow-oil-reunion-blame-purse-return-illness
-bip_39_word_dash_11: furnace-renew-era-narrow-oil-reunion-blame-purse-return-illness-arrive
 bip_39_word_dash_12: furnace-renew-era-narrow-oil-reunion-blame-purse-return-illness-arrive-april
 bip_39_word_dash_2: furnace-renew
 bip_39_word_dash_3: furnace-renew-era
-bip_39_word_dash_4: furnace-renew-era-narrow
-bip_39_word_dash_5: furnace-renew-era-narrow-oil
-bip_39_word_dash_6: furnace-renew-era-narrow-oil-reunion
-bip_39_word_dash_7: furnace-renew-era-narrow-oil-reunion-blame
-bip_39_word_dash_8: furnace-renew-era-narrow-oil-reunion-blame-purse
-bip_39_word_dash_9: furnace-renew-era-narrow-oil-reunion-blame-purse-return
-bip_39_word_new_br_1: furnace
-bip_39_word_new_br_10: furnace<br>renew<br>era<br>narrow<br>oil<br>reunion<br>blame<br>purse<br>return<br>illness
-bip_39_word_new_br_11: furnace<br>renew<br>era<br>narrow<br>oil<br>reunion<br>blame<br>purse<br>return<br>illness<br>arrive
 bip_39_word_new_br_12: furnace<br>renew<br>era<br>narrow<br>oil<br>reunion<br>blame<br>purse<br>return<br>illness<br>arrive<br>april
 bip_39_word_new_br_2: furnace<br>renew
 bip_39_word_new_br_3: furnace<br>renew<br>era
-bip_39_word_new_br_4: furnace<br>renew<br>era<br>narrow
-bip_39_word_new_br_5: furnace<br>renew<br>era<br>narrow<br>oil
-bip_39_word_new_br_6: furnace<br>renew<br>era<br>narrow<br>oil<br>reunion
-bip_39_word_new_br_7: furnace<br>renew<br>era<br>narrow<br>oil<br>reunion<br>blame
-bip_39_word_new_br_8: furnace<br>renew<br>era<br>narrow<br>oil<br>reunion<br>blame<br>purse
-bip_39_word_new_br_9: furnace<br>renew<br>era<br>narrow<br>oil<br>reunion<br>blame<br>purse<br>return
-bip_39_word_new_line_1: furnace
-bip_39_word_new_line_10: 'furnace
-
-  renew
-
-  era
-
-  narrow
-
-  oil
-
-  reunion
-
-  blame
-
-  purse
-
-  return
-
-  illness'
-bip_39_word_new_line_11: 'furnace
-
-  renew
-
-  era
-
-  narrow
-
-  oil
-
-  reunion
-
-  blame
-
-  purse
-
-  return
-
-  illness
-
-  arrive'
 bip_39_word_new_line_12: 'furnace
 
   renew
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'furnace
   renew
 
   era'
-bip_39_word_new_line_4: 'furnace
-
-  renew
-
-  era
-
-  narrow'
-bip_39_word_new_line_5: 'furnace
-
-  renew
-
-  era
-
-  narrow
-
-  oil'
-bip_39_word_new_line_6: 'furnace
-
-  renew
-
-  era
-
-  narrow
-
-  oil
-
-  reunion'
-bip_39_word_new_line_7: 'furnace
-
-  renew
-
-  era
-
-  narrow
-
-  oil
-
-  reunion
-
-  blame'
-bip_39_word_new_line_8: 'furnace
-
-  renew
-
-  era
-
-  narrow
-
-  oil
-
-  reunion
-
-  blame
-
-  purse'
-bip_39_word_new_line_9: 'furnace
-
-  renew
-
-  era
-
-  narrow
-
-  oil
-
-  reunion
-
-  blame
-
-  purse
-
-  return'
-bip_39_word_no_space_1: furnace
-bip_39_word_no_space_10: furnacereneweranarrowoilreunionblamepursereturnillness
-bip_39_word_no_space_11: furnacereneweranarrowoilreunionblamepursereturnillnessarrive
 bip_39_word_no_space_12: furnacereneweranarrowoilreunionblamepursereturnillnessarriveapril
 bip_39_word_no_space_2: furnacerenew
 bip_39_word_no_space_3: furnacerenewera
-bip_39_word_no_space_4: furnacereneweranarrow
-bip_39_word_no_space_5: furnacereneweranarrowoil
-bip_39_word_no_space_6: furnacereneweranarrowoilreunion
-bip_39_word_no_space_7: furnacereneweranarrowoilreunionblame
-bip_39_word_no_space_8: furnacereneweranarrowoilreunionblamepurse
-bip_39_word_no_space_9: furnacereneweranarrowoilreunionblamepursereturn
-bip_39_word_space_0:
-- furnace
-- renew
-- era
-- narrow
-- oil
-- reunion
-- blame
-- purse
-- return
-- illness
-- arrive
-- april
-bip_39_word_space_1: furnace
-bip_39_word_space_10: furnace renew era narrow oil reunion blame purse return illness
-bip_39_word_space_11: furnace renew era narrow oil reunion blame purse return illness
-  arrive
 bip_39_word_space_12: furnace renew era narrow oil reunion blame purse return illness
   arrive april
 bip_39_word_space_2: furnace renew
 bip_39_word_space_3: furnace renew era
-bip_39_word_space_4: furnace renew era narrow
-bip_39_word_space_5: furnace renew era narrow oil
-bip_39_word_space_6: furnace renew era narrow oil reunion
-bip_39_word_space_7: furnace renew era narrow oil reunion blame
-bip_39_word_space_8: furnace renew era narrow oil reunion blame purse
-bip_39_word_space_9: furnace renew era narrow oil reunion blame purse return
-bip_39_word_underscore_1: furnace
-bip_39_word_underscore_10: furnace_renew_era_narrow_oil_reunion_blame_purse_return_illness
-bip_39_word_underscore_11: furnace_renew_era_narrow_oil_reunion_blame_purse_return_illness_arrive
 bip_39_word_underscore_12: furnace_renew_era_narrow_oil_reunion_blame_purse_return_illness_arrive_april
 bip_39_word_underscore_2: furnace_renew
 bip_39_word_underscore_3: furnace_renew_era
-bip_39_word_underscore_4: furnace_renew_era_narrow
-bip_39_word_underscore_5: furnace_renew_era_narrow_oil
-bip_39_word_underscore_6: furnace_renew_era_narrow_oil_reunion
-bip_39_word_underscore_7: furnace_renew_era_narrow_oil_reunion_blame
-bip_39_word_underscore_8: furnace_renew_era_narrow_oil_reunion_blame_purse
-bip_39_word_underscore_9: furnace_renew_era_narrow_oil_reunion_blame_purse_return
 classification: food
 classification_capital: Food
 classification_first_letter: f

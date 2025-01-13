@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flight
-bip_39_word_dash_10: flight-witness-glare-side-envelope-nothing-tonight-practice-mind-entire
-bip_39_word_dash_11: flight-witness-glare-side-envelope-nothing-tonight-practice-mind-entire-race
 bip_39_word_dash_12: flight-witness-glare-side-envelope-nothing-tonight-practice-mind-entire-race-avocado
 bip_39_word_dash_2: flight-witness
 bip_39_word_dash_3: flight-witness-glare
-bip_39_word_dash_4: flight-witness-glare-side
-bip_39_word_dash_5: flight-witness-glare-side-envelope
-bip_39_word_dash_6: flight-witness-glare-side-envelope-nothing
-bip_39_word_dash_7: flight-witness-glare-side-envelope-nothing-tonight
-bip_39_word_dash_8: flight-witness-glare-side-envelope-nothing-tonight-practice
-bip_39_word_dash_9: flight-witness-glare-side-envelope-nothing-tonight-practice-mind
-bip_39_word_new_br_1: flight
-bip_39_word_new_br_10: flight<br>witness<br>glare<br>side<br>envelope<br>nothing<br>tonight<br>practice<br>mind<br>entire
-bip_39_word_new_br_11: flight<br>witness<br>glare<br>side<br>envelope<br>nothing<br>tonight<br>practice<br>mind<br>entire<br>race
 bip_39_word_new_br_12: flight<br>witness<br>glare<br>side<br>envelope<br>nothing<br>tonight<br>practice<br>mind<br>entire<br>race<br>avocado
 bip_39_word_new_br_2: flight<br>witness
 bip_39_word_new_br_3: flight<br>witness<br>glare
-bip_39_word_new_br_4: flight<br>witness<br>glare<br>side
-bip_39_word_new_br_5: flight<br>witness<br>glare<br>side<br>envelope
-bip_39_word_new_br_6: flight<br>witness<br>glare<br>side<br>envelope<br>nothing
-bip_39_word_new_br_7: flight<br>witness<br>glare<br>side<br>envelope<br>nothing<br>tonight
-bip_39_word_new_br_8: flight<br>witness<br>glare<br>side<br>envelope<br>nothing<br>tonight<br>practice
-bip_39_word_new_br_9: flight<br>witness<br>glare<br>side<br>envelope<br>nothing<br>tonight<br>practice<br>mind
-bip_39_word_new_line_1: flight
-bip_39_word_new_line_10: 'flight
-
-  witness
-
-  glare
-
-  side
-
-  envelope
-
-  nothing
-
-  tonight
-
-  practice
-
-  mind
-
-  entire'
-bip_39_word_new_line_11: 'flight
-
-  witness
-
-  glare
-
-  side
-
-  envelope
-
-  nothing
-
-  tonight
-
-  practice
-
-  mind
-
-  entire
-
-  race'
 bip_39_word_new_line_12: 'flight
 
   witness
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'flight
   witness
 
   glare'
-bip_39_word_new_line_4: 'flight
-
-  witness
-
-  glare
-
-  side'
-bip_39_word_new_line_5: 'flight
-
-  witness
-
-  glare
-
-  side
-
-  envelope'
-bip_39_word_new_line_6: 'flight
-
-  witness
-
-  glare
-
-  side
-
-  envelope
-
-  nothing'
-bip_39_word_new_line_7: 'flight
-
-  witness
-
-  glare
-
-  side
-
-  envelope
-
-  nothing
-
-  tonight'
-bip_39_word_new_line_8: 'flight
-
-  witness
-
-  glare
-
-  side
-
-  envelope
-
-  nothing
-
-  tonight
-
-  practice'
-bip_39_word_new_line_9: 'flight
-
-  witness
-
-  glare
-
-  side
-
-  envelope
-
-  nothing
-
-  tonight
-
-  practice
-
-  mind'
-bip_39_word_no_space_1: flight
-bip_39_word_no_space_10: flightwitnessglaresideenvelopenothingtonightpracticemindentire
-bip_39_word_no_space_11: flightwitnessglaresideenvelopenothingtonightpracticemindentirerace
 bip_39_word_no_space_12: flightwitnessglaresideenvelopenothingtonightpracticemindentireraceavocado
 bip_39_word_no_space_2: flightwitness
 bip_39_word_no_space_3: flightwitnessglare
-bip_39_word_no_space_4: flightwitnessglareside
-bip_39_word_no_space_5: flightwitnessglaresideenvelope
-bip_39_word_no_space_6: flightwitnessglaresideenvelopenothing
-bip_39_word_no_space_7: flightwitnessglaresideenvelopenothingtonight
-bip_39_word_no_space_8: flightwitnessglaresideenvelopenothingtonightpractice
-bip_39_word_no_space_9: flightwitnessglaresideenvelopenothingtonightpracticemind
-bip_39_word_space_0:
-- flight
-- witness
-- glare
-- side
-- envelope
-- nothing
-- tonight
-- practice
-- mind
-- entire
-- race
-- avocado
-bip_39_word_space_1: flight
-bip_39_word_space_10: flight witness glare side envelope nothing tonight practice
-  mind entire
-bip_39_word_space_11: flight witness glare side envelope nothing tonight practice
-  mind entire race
 bip_39_word_space_12: flight witness glare side envelope nothing tonight practice
   mind entire race avocado
 bip_39_word_space_2: flight witness
 bip_39_word_space_3: flight witness glare
-bip_39_word_space_4: flight witness glare side
-bip_39_word_space_5: flight witness glare side envelope
-bip_39_word_space_6: flight witness glare side envelope nothing
-bip_39_word_space_7: flight witness glare side envelope nothing tonight
-bip_39_word_space_8: flight witness glare side envelope nothing tonight practice
-bip_39_word_space_9: flight witness glare side envelope nothing tonight practice mind
-bip_39_word_underscore_1: flight
-bip_39_word_underscore_10: flight_witness_glare_side_envelope_nothing_tonight_practice_mind_entire
-bip_39_word_underscore_11: flight_witness_glare_side_envelope_nothing_tonight_practice_mind_entire_race
 bip_39_word_underscore_12: flight_witness_glare_side_envelope_nothing_tonight_practice_mind_entire_race_avocado
 bip_39_word_underscore_2: flight_witness
 bip_39_word_underscore_3: flight_witness_glare
-bip_39_word_underscore_4: flight_witness_glare_side
-bip_39_word_underscore_5: flight_witness_glare_side_envelope
-bip_39_word_underscore_6: flight_witness_glare_side_envelope_nothing
-bip_39_word_underscore_7: flight_witness_glare_side_envelope_nothing_tonight
-bip_39_word_underscore_8: flight_witness_glare_side_envelope_nothing_tonight_practice
-bip_39_word_underscore_9: flight_witness_glare_side_envelope_nothing_tonight_practice_mind
 classification: category
 classification_capital: Category
 classification_first_letter: c

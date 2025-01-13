@@ -1,68 +1,9 @@
-bip_39_word_dash_1: double
-bip_39_word_dash_10: double-hand-busy-run-vintage-opera-shoulder-sibling-size-price
-bip_39_word_dash_11: double-hand-busy-run-vintage-opera-shoulder-sibling-size-price-work
 bip_39_word_dash_12: double-hand-busy-run-vintage-opera-shoulder-sibling-size-price-work-arena
 bip_39_word_dash_2: double-hand
 bip_39_word_dash_3: double-hand-busy
-bip_39_word_dash_4: double-hand-busy-run
-bip_39_word_dash_5: double-hand-busy-run-vintage
-bip_39_word_dash_6: double-hand-busy-run-vintage-opera
-bip_39_word_dash_7: double-hand-busy-run-vintage-opera-shoulder
-bip_39_word_dash_8: double-hand-busy-run-vintage-opera-shoulder-sibling
-bip_39_word_dash_9: double-hand-busy-run-vintage-opera-shoulder-sibling-size
-bip_39_word_new_br_1: double
-bip_39_word_new_br_10: double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling<br>size<br>price
-bip_39_word_new_br_11: double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling<br>size<br>price<br>work
 bip_39_word_new_br_12: double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling<br>size<br>price<br>work<br>arena
 bip_39_word_new_br_2: double<br>hand
 bip_39_word_new_br_3: double<br>hand<br>busy
-bip_39_word_new_br_4: double<br>hand<br>busy<br>run
-bip_39_word_new_br_5: double<br>hand<br>busy<br>run<br>vintage
-bip_39_word_new_br_6: double<br>hand<br>busy<br>run<br>vintage<br>opera
-bip_39_word_new_br_7: double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder
-bip_39_word_new_br_8: double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling
-bip_39_word_new_br_9: double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling<br>size
-bip_39_word_new_line_1: double
-bip_39_word_new_line_10: 'double
-
-  hand
-
-  busy
-
-  run
-
-  vintage
-
-  opera
-
-  shoulder
-
-  sibling
-
-  size
-
-  price'
-bip_39_word_new_line_11: 'double
-
-  hand
-
-  busy
-
-  run
-
-  vintage
-
-  opera
-
-  shoulder
-
-  sibling
-
-  size
-
-  price
-
-  work'
 bip_39_word_new_line_12: 'double
 
   hand
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'double
   hand
 
   busy'
-bip_39_word_new_line_4: 'double
-
-  hand
-
-  busy
-
-  run'
-bip_39_word_new_line_5: 'double
-
-  hand
-
-  busy
-
-  run
-
-  vintage'
-bip_39_word_new_line_6: 'double
-
-  hand
-
-  busy
-
-  run
-
-  vintage
-
-  opera'
-bip_39_word_new_line_7: 'double
-
-  hand
-
-  busy
-
-  run
-
-  vintage
-
-  opera
-
-  shoulder'
-bip_39_word_new_line_8: 'double
-
-  hand
-
-  busy
-
-  run
-
-  vintage
-
-  opera
-
-  shoulder
-
-  sibling'
-bip_39_word_new_line_9: 'double
-
-  hand
-
-  busy
-
-  run
-
-  vintage
-
-  opera
-
-  shoulder
-
-  sibling
-
-  size'
-bip_39_word_no_space_1: double
-bip_39_word_no_space_10: doublehandbusyrunvintageoperashouldersiblingsizeprice
-bip_39_word_no_space_11: doublehandbusyrunvintageoperashouldersiblingsizepricework
 bip_39_word_no_space_12: doublehandbusyrunvintageoperashouldersiblingsizepriceworkarena
 bip_39_word_no_space_2: doublehand
 bip_39_word_no_space_3: doublehandbusy
-bip_39_word_no_space_4: doublehandbusyrun
-bip_39_word_no_space_5: doublehandbusyrunvintage
-bip_39_word_no_space_6: doublehandbusyrunvintageopera
-bip_39_word_no_space_7: doublehandbusyrunvintageoperashoulder
-bip_39_word_no_space_8: doublehandbusyrunvintageoperashouldersibling
-bip_39_word_no_space_9: doublehandbusyrunvintageoperashouldersiblingsize
-bip_39_word_space_0:
-- double
-- hand
-- busy
-- run
-- vintage
-- opera
-- shoulder
-- sibling
-- size
-- price
-- work
-- arena
-bip_39_word_space_1: double
-bip_39_word_space_10: double hand busy run vintage opera shoulder sibling size price
-bip_39_word_space_11: double hand busy run vintage opera shoulder sibling size price
-  work
 bip_39_word_space_12: double hand busy run vintage opera shoulder sibling size price
   work arena
 bip_39_word_space_2: double hand
 bip_39_word_space_3: double hand busy
-bip_39_word_space_4: double hand busy run
-bip_39_word_space_5: double hand busy run vintage
-bip_39_word_space_6: double hand busy run vintage opera
-bip_39_word_space_7: double hand busy run vintage opera shoulder
-bip_39_word_space_8: double hand busy run vintage opera shoulder sibling
-bip_39_word_space_9: double hand busy run vintage opera shoulder sibling size
-bip_39_word_underscore_1: double
-bip_39_word_underscore_10: double_hand_busy_run_vintage_opera_shoulder_sibling_size_price
-bip_39_word_underscore_11: double_hand_busy_run_vintage_opera_shoulder_sibling_size_price_work
 bip_39_word_underscore_12: double_hand_busy_run_vintage_opera_shoulder_sibling_size_price_work_arena
 bip_39_word_underscore_2: double_hand
 bip_39_word_underscore_3: double_hand_busy
-bip_39_word_underscore_4: double_hand_busy_run
-bip_39_word_underscore_5: double_hand_busy_run_vintage
-bip_39_word_underscore_6: double_hand_busy_run_vintage_opera
-bip_39_word_underscore_7: double_hand_busy_run_vintage_opera_shoulder
-bip_39_word_underscore_8: double_hand_busy_run_vintage_opera_shoulder_sibling
-bip_39_word_underscore_9: double_hand_busy_run_vintage_opera_shoulder_sibling_size
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

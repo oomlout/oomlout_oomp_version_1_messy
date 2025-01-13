@@ -1,68 +1,9 @@
-bip_39_word_dash_1: usage
-bip_39_word_dash_10: usage-fence-sun-unfold-tomato-collect-crane-punch-dinosaur-face
-bip_39_word_dash_11: usage-fence-sun-unfold-tomato-collect-crane-punch-dinosaur-face-spike
 bip_39_word_dash_12: usage-fence-sun-unfold-tomato-collect-crane-punch-dinosaur-face-spike-about
 bip_39_word_dash_2: usage-fence
 bip_39_word_dash_3: usage-fence-sun
-bip_39_word_dash_4: usage-fence-sun-unfold
-bip_39_word_dash_5: usage-fence-sun-unfold-tomato
-bip_39_word_dash_6: usage-fence-sun-unfold-tomato-collect
-bip_39_word_dash_7: usage-fence-sun-unfold-tomato-collect-crane
-bip_39_word_dash_8: usage-fence-sun-unfold-tomato-collect-crane-punch
-bip_39_word_dash_9: usage-fence-sun-unfold-tomato-collect-crane-punch-dinosaur
-bip_39_word_new_br_1: usage
-bip_39_word_new_br_10: usage<br>fence<br>sun<br>unfold<br>tomato<br>collect<br>crane<br>punch<br>dinosaur<br>face
-bip_39_word_new_br_11: usage<br>fence<br>sun<br>unfold<br>tomato<br>collect<br>crane<br>punch<br>dinosaur<br>face<br>spike
 bip_39_word_new_br_12: usage<br>fence<br>sun<br>unfold<br>tomato<br>collect<br>crane<br>punch<br>dinosaur<br>face<br>spike<br>about
 bip_39_word_new_br_2: usage<br>fence
 bip_39_word_new_br_3: usage<br>fence<br>sun
-bip_39_word_new_br_4: usage<br>fence<br>sun<br>unfold
-bip_39_word_new_br_5: usage<br>fence<br>sun<br>unfold<br>tomato
-bip_39_word_new_br_6: usage<br>fence<br>sun<br>unfold<br>tomato<br>collect
-bip_39_word_new_br_7: usage<br>fence<br>sun<br>unfold<br>tomato<br>collect<br>crane
-bip_39_word_new_br_8: usage<br>fence<br>sun<br>unfold<br>tomato<br>collect<br>crane<br>punch
-bip_39_word_new_br_9: usage<br>fence<br>sun<br>unfold<br>tomato<br>collect<br>crane<br>punch<br>dinosaur
-bip_39_word_new_line_1: usage
-bip_39_word_new_line_10: 'usage
-
-  fence
-
-  sun
-
-  unfold
-
-  tomato
-
-  collect
-
-  crane
-
-  punch
-
-  dinosaur
-
-  face'
-bip_39_word_new_line_11: 'usage
-
-  fence
-
-  sun
-
-  unfold
-
-  tomato
-
-  collect
-
-  crane
-
-  punch
-
-  dinosaur
-
-  face
-
-  spike'
 bip_39_word_new_line_12: 'usage
 
   fence
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'usage
   fence
 
   sun'
-bip_39_word_new_line_4: 'usage
-
-  fence
-
-  sun
-
-  unfold'
-bip_39_word_new_line_5: 'usage
-
-  fence
-
-  sun
-
-  unfold
-
-  tomato'
-bip_39_word_new_line_6: 'usage
-
-  fence
-
-  sun
-
-  unfold
-
-  tomato
-
-  collect'
-bip_39_word_new_line_7: 'usage
-
-  fence
-
-  sun
-
-  unfold
-
-  tomato
-
-  collect
-
-  crane'
-bip_39_word_new_line_8: 'usage
-
-  fence
-
-  sun
-
-  unfold
-
-  tomato
-
-  collect
-
-  crane
-
-  punch'
-bip_39_word_new_line_9: 'usage
-
-  fence
-
-  sun
-
-  unfold
-
-  tomato
-
-  collect
-
-  crane
-
-  punch
-
-  dinosaur'
-bip_39_word_no_space_1: usage
-bip_39_word_no_space_10: usagefencesununfoldtomatocollectcranepunchdinosaurface
-bip_39_word_no_space_11: usagefencesununfoldtomatocollectcranepunchdinosaurfacespike
 bip_39_word_no_space_12: usagefencesununfoldtomatocollectcranepunchdinosaurfacespikeabout
 bip_39_word_no_space_2: usagefence
 bip_39_word_no_space_3: usagefencesun
-bip_39_word_no_space_4: usagefencesununfold
-bip_39_word_no_space_5: usagefencesununfoldtomato
-bip_39_word_no_space_6: usagefencesununfoldtomatocollect
-bip_39_word_no_space_7: usagefencesununfoldtomatocollectcrane
-bip_39_word_no_space_8: usagefencesununfoldtomatocollectcranepunch
-bip_39_word_no_space_9: usagefencesununfoldtomatocollectcranepunchdinosaur
-bip_39_word_space_0:
-- usage
-- fence
-- sun
-- unfold
-- tomato
-- collect
-- crane
-- punch
-- dinosaur
-- face
-- spike
-- about
-bip_39_word_space_1: usage
-bip_39_word_space_10: usage fence sun unfold tomato collect crane punch dinosaur face
-bip_39_word_space_11: usage fence sun unfold tomato collect crane punch dinosaur face
-  spike
 bip_39_word_space_12: usage fence sun unfold tomato collect crane punch dinosaur face
   spike about
 bip_39_word_space_2: usage fence
 bip_39_word_space_3: usage fence sun
-bip_39_word_space_4: usage fence sun unfold
-bip_39_word_space_5: usage fence sun unfold tomato
-bip_39_word_space_6: usage fence sun unfold tomato collect
-bip_39_word_space_7: usage fence sun unfold tomato collect crane
-bip_39_word_space_8: usage fence sun unfold tomato collect crane punch
-bip_39_word_space_9: usage fence sun unfold tomato collect crane punch dinosaur
-bip_39_word_underscore_1: usage
-bip_39_word_underscore_10: usage_fence_sun_unfold_tomato_collect_crane_punch_dinosaur_face
-bip_39_word_underscore_11: usage_fence_sun_unfold_tomato_collect_crane_punch_dinosaur_face_spike
 bip_39_word_underscore_12: usage_fence_sun_unfold_tomato_collect_crane_punch_dinosaur_face_spike_about
 bip_39_word_underscore_2: usage_fence
 bip_39_word_underscore_3: usage_fence_sun
-bip_39_word_underscore_4: usage_fence_sun_unfold
-bip_39_word_underscore_5: usage_fence_sun_unfold_tomato
-bip_39_word_underscore_6: usage_fence_sun_unfold_tomato_collect
-bip_39_word_underscore_7: usage_fence_sun_unfold_tomato_collect_crane
-bip_39_word_underscore_8: usage_fence_sun_unfold_tomato_collect_crane_punch
-bip_39_word_underscore_9: usage_fence_sun_unfold_tomato_collect_crane_punch_dinosaur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

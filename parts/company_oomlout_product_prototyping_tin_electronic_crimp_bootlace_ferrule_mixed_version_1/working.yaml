@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exclude
-bip_39_word_dash_10: exclude-angle-marine-grit-verb-opera-impose-rather-city-north
-bip_39_word_dash_11: exclude-angle-marine-grit-verb-opera-impose-rather-city-north-kitten
 bip_39_word_dash_12: exclude-angle-marine-grit-verb-opera-impose-rather-city-north-kitten-august
 bip_39_word_dash_2: exclude-angle
 bip_39_word_dash_3: exclude-angle-marine
-bip_39_word_dash_4: exclude-angle-marine-grit
-bip_39_word_dash_5: exclude-angle-marine-grit-verb
-bip_39_word_dash_6: exclude-angle-marine-grit-verb-opera
-bip_39_word_dash_7: exclude-angle-marine-grit-verb-opera-impose
-bip_39_word_dash_8: exclude-angle-marine-grit-verb-opera-impose-rather
-bip_39_word_dash_9: exclude-angle-marine-grit-verb-opera-impose-rather-city
-bip_39_word_new_br_1: exclude
-bip_39_word_new_br_10: exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north
-bip_39_word_new_br_11: exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten
 bip_39_word_new_br_12: exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten<br>august
 bip_39_word_new_br_2: exclude<br>angle
 bip_39_word_new_br_3: exclude<br>angle<br>marine
-bip_39_word_new_br_4: exclude<br>angle<br>marine<br>grit
-bip_39_word_new_br_5: exclude<br>angle<br>marine<br>grit<br>verb
-bip_39_word_new_br_6: exclude<br>angle<br>marine<br>grit<br>verb<br>opera
-bip_39_word_new_br_7: exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose
-bip_39_word_new_br_8: exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather
-bip_39_word_new_br_9: exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city
-bip_39_word_new_line_1: exclude
-bip_39_word_new_line_10: 'exclude
-
-  angle
-
-  marine
-
-  grit
-
-  verb
-
-  opera
-
-  impose
-
-  rather
-
-  city
-
-  north'
-bip_39_word_new_line_11: 'exclude
-
-  angle
-
-  marine
-
-  grit
-
-  verb
-
-  opera
-
-  impose
-
-  rather
-
-  city
-
-  north
-
-  kitten'
 bip_39_word_new_line_12: 'exclude
 
   angle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'exclude
   angle
 
   marine'
-bip_39_word_new_line_4: 'exclude
-
-  angle
-
-  marine
-
-  grit'
-bip_39_word_new_line_5: 'exclude
-
-  angle
-
-  marine
-
-  grit
-
-  verb'
-bip_39_word_new_line_6: 'exclude
-
-  angle
-
-  marine
-
-  grit
-
-  verb
-
-  opera'
-bip_39_word_new_line_7: 'exclude
-
-  angle
-
-  marine
-
-  grit
-
-  verb
-
-  opera
-
-  impose'
-bip_39_word_new_line_8: 'exclude
-
-  angle
-
-  marine
-
-  grit
-
-  verb
-
-  opera
-
-  impose
-
-  rather'
-bip_39_word_new_line_9: 'exclude
-
-  angle
-
-  marine
-
-  grit
-
-  verb
-
-  opera
-
-  impose
-
-  rather
-
-  city'
-bip_39_word_no_space_1: exclude
-bip_39_word_no_space_10: excludeanglemarinegritverboperaimposerathercitynorth
-bip_39_word_no_space_11: excludeanglemarinegritverboperaimposerathercitynorthkitten
 bip_39_word_no_space_12: excludeanglemarinegritverboperaimposerathercitynorthkittenaugust
 bip_39_word_no_space_2: excludeangle
 bip_39_word_no_space_3: excludeanglemarine
-bip_39_word_no_space_4: excludeanglemarinegrit
-bip_39_word_no_space_5: excludeanglemarinegritverb
-bip_39_word_no_space_6: excludeanglemarinegritverbopera
-bip_39_word_no_space_7: excludeanglemarinegritverboperaimpose
-bip_39_word_no_space_8: excludeanglemarinegritverboperaimposerather
-bip_39_word_no_space_9: excludeanglemarinegritverboperaimposerathercity
-bip_39_word_space_0:
-- exclude
-- angle
-- marine
-- grit
-- verb
-- opera
-- impose
-- rather
-- city
-- north
-- kitten
-- august
-bip_39_word_space_1: exclude
-bip_39_word_space_10: exclude angle marine grit verb opera impose rather city north
-bip_39_word_space_11: exclude angle marine grit verb opera impose rather city north
-  kitten
 bip_39_word_space_12: exclude angle marine grit verb opera impose rather city north
   kitten august
 bip_39_word_space_2: exclude angle
 bip_39_word_space_3: exclude angle marine
-bip_39_word_space_4: exclude angle marine grit
-bip_39_word_space_5: exclude angle marine grit verb
-bip_39_word_space_6: exclude angle marine grit verb opera
-bip_39_word_space_7: exclude angle marine grit verb opera impose
-bip_39_word_space_8: exclude angle marine grit verb opera impose rather
-bip_39_word_space_9: exclude angle marine grit verb opera impose rather city
-bip_39_word_underscore_1: exclude
-bip_39_word_underscore_10: exclude_angle_marine_grit_verb_opera_impose_rather_city_north
-bip_39_word_underscore_11: exclude_angle_marine_grit_verb_opera_impose_rather_city_north_kitten
 bip_39_word_underscore_12: exclude_angle_marine_grit_verb_opera_impose_rather_city_north_kitten_august
 bip_39_word_underscore_2: exclude_angle
 bip_39_word_underscore_3: exclude_angle_marine
-bip_39_word_underscore_4: exclude_angle_marine_grit
-bip_39_word_underscore_5: exclude_angle_marine_grit_verb
-bip_39_word_underscore_6: exclude_angle_marine_grit_verb_opera
-bip_39_word_underscore_7: exclude_angle_marine_grit_verb_opera_impose
-bip_39_word_underscore_8: exclude_angle_marine_grit_verb_opera_impose_rather
-bip_39_word_underscore_9: exclude_angle_marine_grit_verb_opera_impose_rather_city
 classification: company_oomlout
 classification_capital: Company Oomlout
 classification_first_letter: c

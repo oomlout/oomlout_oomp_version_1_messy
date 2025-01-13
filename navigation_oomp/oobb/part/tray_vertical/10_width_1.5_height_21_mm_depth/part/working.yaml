@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exclude
-bip_39_word_dash_10: exclude-sort-turkey-tent-glue-seed-collect-trip-family-bounce
-bip_39_word_dash_11: exclude-sort-turkey-tent-glue-seed-collect-trip-family-bounce-steel
 bip_39_word_dash_12: exclude-sort-turkey-tent-glue-seed-collect-trip-family-bounce-steel-average
 bip_39_word_dash_2: exclude-sort
 bip_39_word_dash_3: exclude-sort-turkey
-bip_39_word_dash_4: exclude-sort-turkey-tent
-bip_39_word_dash_5: exclude-sort-turkey-tent-glue
-bip_39_word_dash_6: exclude-sort-turkey-tent-glue-seed
-bip_39_word_dash_7: exclude-sort-turkey-tent-glue-seed-collect
-bip_39_word_dash_8: exclude-sort-turkey-tent-glue-seed-collect-trip
-bip_39_word_dash_9: exclude-sort-turkey-tent-glue-seed-collect-trip-family
-bip_39_word_new_br_1: exclude
-bip_39_word_new_br_10: exclude<br>sort<br>turkey<br>tent<br>glue<br>seed<br>collect<br>trip<br>family<br>bounce
-bip_39_word_new_br_11: exclude<br>sort<br>turkey<br>tent<br>glue<br>seed<br>collect<br>trip<br>family<br>bounce<br>steel
 bip_39_word_new_br_12: exclude<br>sort<br>turkey<br>tent<br>glue<br>seed<br>collect<br>trip<br>family<br>bounce<br>steel<br>average
 bip_39_word_new_br_2: exclude<br>sort
 bip_39_word_new_br_3: exclude<br>sort<br>turkey
-bip_39_word_new_br_4: exclude<br>sort<br>turkey<br>tent
-bip_39_word_new_br_5: exclude<br>sort<br>turkey<br>tent<br>glue
-bip_39_word_new_br_6: exclude<br>sort<br>turkey<br>tent<br>glue<br>seed
-bip_39_word_new_br_7: exclude<br>sort<br>turkey<br>tent<br>glue<br>seed<br>collect
-bip_39_word_new_br_8: exclude<br>sort<br>turkey<br>tent<br>glue<br>seed<br>collect<br>trip
-bip_39_word_new_br_9: exclude<br>sort<br>turkey<br>tent<br>glue<br>seed<br>collect<br>trip<br>family
-bip_39_word_new_line_1: exclude
-bip_39_word_new_line_10: 'exclude
-
-  sort
-
-  turkey
-
-  tent
-
-  glue
-
-  seed
-
-  collect
-
-  trip
-
-  family
-
-  bounce'
-bip_39_word_new_line_11: 'exclude
-
-  sort
-
-  turkey
-
-  tent
-
-  glue
-
-  seed
-
-  collect
-
-  trip
-
-  family
-
-  bounce
-
-  steel'
 bip_39_word_new_line_12: 'exclude
 
   sort
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'exclude
   sort
 
   turkey'
-bip_39_word_new_line_4: 'exclude
-
-  sort
-
-  turkey
-
-  tent'
-bip_39_word_new_line_5: 'exclude
-
-  sort
-
-  turkey
-
-  tent
-
-  glue'
-bip_39_word_new_line_6: 'exclude
-
-  sort
-
-  turkey
-
-  tent
-
-  glue
-
-  seed'
-bip_39_word_new_line_7: 'exclude
-
-  sort
-
-  turkey
-
-  tent
-
-  glue
-
-  seed
-
-  collect'
-bip_39_word_new_line_8: 'exclude
-
-  sort
-
-  turkey
-
-  tent
-
-  glue
-
-  seed
-
-  collect
-
-  trip'
-bip_39_word_new_line_9: 'exclude
-
-  sort
-
-  turkey
-
-  tent
-
-  glue
-
-  seed
-
-  collect
-
-  trip
-
-  family'
-bip_39_word_no_space_1: exclude
-bip_39_word_no_space_10: excludesortturkeytentglueseedcollecttripfamilybounce
-bip_39_word_no_space_11: excludesortturkeytentglueseedcollecttripfamilybouncesteel
 bip_39_word_no_space_12: excludesortturkeytentglueseedcollecttripfamilybouncesteelaverage
 bip_39_word_no_space_2: excludesort
 bip_39_word_no_space_3: excludesortturkey
-bip_39_word_no_space_4: excludesortturkeytent
-bip_39_word_no_space_5: excludesortturkeytentglue
-bip_39_word_no_space_6: excludesortturkeytentglueseed
-bip_39_word_no_space_7: excludesortturkeytentglueseedcollect
-bip_39_word_no_space_8: excludesortturkeytentglueseedcollecttrip
-bip_39_word_no_space_9: excludesortturkeytentglueseedcollecttripfamily
-bip_39_word_space_0:
-- exclude
-- sort
-- turkey
-- tent
-- glue
-- seed
-- collect
-- trip
-- family
-- bounce
-- steel
-- average
-bip_39_word_space_1: exclude
-bip_39_word_space_10: exclude sort turkey tent glue seed collect trip family bounce
-bip_39_word_space_11: exclude sort turkey tent glue seed collect trip family bounce
-  steel
 bip_39_word_space_12: exclude sort turkey tent glue seed collect trip family bounce
   steel average
 bip_39_word_space_2: exclude sort
 bip_39_word_space_3: exclude sort turkey
-bip_39_word_space_4: exclude sort turkey tent
-bip_39_word_space_5: exclude sort turkey tent glue
-bip_39_word_space_6: exclude sort turkey tent glue seed
-bip_39_word_space_7: exclude sort turkey tent glue seed collect
-bip_39_word_space_8: exclude sort turkey tent glue seed collect trip
-bip_39_word_space_9: exclude sort turkey tent glue seed collect trip family
-bip_39_word_underscore_1: exclude
-bip_39_word_underscore_10: exclude_sort_turkey_tent_glue_seed_collect_trip_family_bounce
-bip_39_word_underscore_11: exclude_sort_turkey_tent_glue_seed_collect_trip_family_bounce_steel
 bip_39_word_underscore_12: exclude_sort_turkey_tent_glue_seed_collect_trip_family_bounce_steel_average
 bip_39_word_underscore_2: exclude_sort
 bip_39_word_underscore_3: exclude_sort_turkey
-bip_39_word_underscore_4: exclude_sort_turkey_tent
-bip_39_word_underscore_5: exclude_sort_turkey_tent_glue
-bip_39_word_underscore_6: exclude_sort_turkey_tent_glue_seed
-bip_39_word_underscore_7: exclude_sort_turkey_tent_glue_seed_collect
-bip_39_word_underscore_8: exclude_sort_turkey_tent_glue_seed_collect_trip
-bip_39_word_underscore_9: exclude_sort_turkey_tent_glue_seed_collect_trip_family
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: myself
-bip_39_word_dash_10: myself-inquiry-shiver-wine-appear-caught-found-will-twin-truck
-bip_39_word_dash_11: myself-inquiry-shiver-wine-appear-caught-found-will-twin-truck-put
 bip_39_word_dash_12: myself-inquiry-shiver-wine-appear-caught-found-will-twin-truck-put-agent
 bip_39_word_dash_2: myself-inquiry
 bip_39_word_dash_3: myself-inquiry-shiver
-bip_39_word_dash_4: myself-inquiry-shiver-wine
-bip_39_word_dash_5: myself-inquiry-shiver-wine-appear
-bip_39_word_dash_6: myself-inquiry-shiver-wine-appear-caught
-bip_39_word_dash_7: myself-inquiry-shiver-wine-appear-caught-found
-bip_39_word_dash_8: myself-inquiry-shiver-wine-appear-caught-found-will
-bip_39_word_dash_9: myself-inquiry-shiver-wine-appear-caught-found-will-twin
-bip_39_word_new_br_1: myself
-bip_39_word_new_br_10: myself<br>inquiry<br>shiver<br>wine<br>appear<br>caught<br>found<br>will<br>twin<br>truck
-bip_39_word_new_br_11: myself<br>inquiry<br>shiver<br>wine<br>appear<br>caught<br>found<br>will<br>twin<br>truck<br>put
 bip_39_word_new_br_12: myself<br>inquiry<br>shiver<br>wine<br>appear<br>caught<br>found<br>will<br>twin<br>truck<br>put<br>agent
 bip_39_word_new_br_2: myself<br>inquiry
 bip_39_word_new_br_3: myself<br>inquiry<br>shiver
-bip_39_word_new_br_4: myself<br>inquiry<br>shiver<br>wine
-bip_39_word_new_br_5: myself<br>inquiry<br>shiver<br>wine<br>appear
-bip_39_word_new_br_6: myself<br>inquiry<br>shiver<br>wine<br>appear<br>caught
-bip_39_word_new_br_7: myself<br>inquiry<br>shiver<br>wine<br>appear<br>caught<br>found
-bip_39_word_new_br_8: myself<br>inquiry<br>shiver<br>wine<br>appear<br>caught<br>found<br>will
-bip_39_word_new_br_9: myself<br>inquiry<br>shiver<br>wine<br>appear<br>caught<br>found<br>will<br>twin
-bip_39_word_new_line_1: myself
-bip_39_word_new_line_10: 'myself
-
-  inquiry
-
-  shiver
-
-  wine
-
-  appear
-
-  caught
-
-  found
-
-  will
-
-  twin
-
-  truck'
-bip_39_word_new_line_11: 'myself
-
-  inquiry
-
-  shiver
-
-  wine
-
-  appear
-
-  caught
-
-  found
-
-  will
-
-  twin
-
-  truck
-
-  put'
 bip_39_word_new_line_12: 'myself
 
   inquiry
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'myself
   inquiry
 
   shiver'
-bip_39_word_new_line_4: 'myself
-
-  inquiry
-
-  shiver
-
-  wine'
-bip_39_word_new_line_5: 'myself
-
-  inquiry
-
-  shiver
-
-  wine
-
-  appear'
-bip_39_word_new_line_6: 'myself
-
-  inquiry
-
-  shiver
-
-  wine
-
-  appear
-
-  caught'
-bip_39_word_new_line_7: 'myself
-
-  inquiry
-
-  shiver
-
-  wine
-
-  appear
-
-  caught
-
-  found'
-bip_39_word_new_line_8: 'myself
-
-  inquiry
-
-  shiver
-
-  wine
-
-  appear
-
-  caught
-
-  found
-
-  will'
-bip_39_word_new_line_9: 'myself
-
-  inquiry
-
-  shiver
-
-  wine
-
-  appear
-
-  caught
-
-  found
-
-  will
-
-  twin'
-bip_39_word_no_space_1: myself
-bip_39_word_no_space_10: myselfinquiryshiverwineappearcaughtfoundwilltwintruck
-bip_39_word_no_space_11: myselfinquiryshiverwineappearcaughtfoundwilltwintruckput
 bip_39_word_no_space_12: myselfinquiryshiverwineappearcaughtfoundwilltwintruckputagent
 bip_39_word_no_space_2: myselfinquiry
 bip_39_word_no_space_3: myselfinquiryshiver
-bip_39_word_no_space_4: myselfinquiryshiverwine
-bip_39_word_no_space_5: myselfinquiryshiverwineappear
-bip_39_word_no_space_6: myselfinquiryshiverwineappearcaught
-bip_39_word_no_space_7: myselfinquiryshiverwineappearcaughtfound
-bip_39_word_no_space_8: myselfinquiryshiverwineappearcaughtfoundwill
-bip_39_word_no_space_9: myselfinquiryshiverwineappearcaughtfoundwilltwin
-bip_39_word_space_0:
-- myself
-- inquiry
-- shiver
-- wine
-- appear
-- caught
-- found
-- will
-- twin
-- truck
-- put
-- agent
-bip_39_word_space_1: myself
-bip_39_word_space_10: myself inquiry shiver wine appear caught found will twin truck
-bip_39_word_space_11: myself inquiry shiver wine appear caught found will twin truck
-  put
 bip_39_word_space_12: myself inquiry shiver wine appear caught found will twin truck
   put agent
 bip_39_word_space_2: myself inquiry
 bip_39_word_space_3: myself inquiry shiver
-bip_39_word_space_4: myself inquiry shiver wine
-bip_39_word_space_5: myself inquiry shiver wine appear
-bip_39_word_space_6: myself inquiry shiver wine appear caught
-bip_39_word_space_7: myself inquiry shiver wine appear caught found
-bip_39_word_space_8: myself inquiry shiver wine appear caught found will
-bip_39_word_space_9: myself inquiry shiver wine appear caught found will twin
-bip_39_word_underscore_1: myself
-bip_39_word_underscore_10: myself_inquiry_shiver_wine_appear_caught_found_will_twin_truck
-bip_39_word_underscore_11: myself_inquiry_shiver_wine_appear_caught_found_will_twin_truck_put
 bip_39_word_underscore_12: myself_inquiry_shiver_wine_appear_caught_found_will_twin_truck_put_agent
 bip_39_word_underscore_2: myself_inquiry
 bip_39_word_underscore_3: myself_inquiry_shiver
-bip_39_word_underscore_4: myself_inquiry_shiver_wine
-bip_39_word_underscore_5: myself_inquiry_shiver_wine_appear
-bip_39_word_underscore_6: myself_inquiry_shiver_wine_appear_caught
-bip_39_word_underscore_7: myself_inquiry_shiver_wine_appear_caught_found
-bip_39_word_underscore_8: myself_inquiry_shiver_wine_appear_caught_found_will
-bip_39_word_underscore_9: myself_inquiry_shiver_wine_appear_caught_found_will_twin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

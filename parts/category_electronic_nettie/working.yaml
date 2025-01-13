@@ -1,68 +1,9 @@
-bip_39_word_dash_1: apology
-bip_39_word_dash_10: apology-ranch-unhappy-keep-assume-army-enlist-coast-stumble-guard
-bip_39_word_dash_11: apology-ranch-unhappy-keep-assume-army-enlist-coast-stumble-guard-boring
 bip_39_word_dash_12: apology-ranch-unhappy-keep-assume-army-enlist-coast-stumble-guard-boring-annual
 bip_39_word_dash_2: apology-ranch
 bip_39_word_dash_3: apology-ranch-unhappy
-bip_39_word_dash_4: apology-ranch-unhappy-keep
-bip_39_word_dash_5: apology-ranch-unhappy-keep-assume
-bip_39_word_dash_6: apology-ranch-unhappy-keep-assume-army
-bip_39_word_dash_7: apology-ranch-unhappy-keep-assume-army-enlist
-bip_39_word_dash_8: apology-ranch-unhappy-keep-assume-army-enlist-coast
-bip_39_word_dash_9: apology-ranch-unhappy-keep-assume-army-enlist-coast-stumble
-bip_39_word_new_br_1: apology
-bip_39_word_new_br_10: apology<br>ranch<br>unhappy<br>keep<br>assume<br>army<br>enlist<br>coast<br>stumble<br>guard
-bip_39_word_new_br_11: apology<br>ranch<br>unhappy<br>keep<br>assume<br>army<br>enlist<br>coast<br>stumble<br>guard<br>boring
 bip_39_word_new_br_12: apology<br>ranch<br>unhappy<br>keep<br>assume<br>army<br>enlist<br>coast<br>stumble<br>guard<br>boring<br>annual
 bip_39_word_new_br_2: apology<br>ranch
 bip_39_word_new_br_3: apology<br>ranch<br>unhappy
-bip_39_word_new_br_4: apology<br>ranch<br>unhappy<br>keep
-bip_39_word_new_br_5: apology<br>ranch<br>unhappy<br>keep<br>assume
-bip_39_word_new_br_6: apology<br>ranch<br>unhappy<br>keep<br>assume<br>army
-bip_39_word_new_br_7: apology<br>ranch<br>unhappy<br>keep<br>assume<br>army<br>enlist
-bip_39_word_new_br_8: apology<br>ranch<br>unhappy<br>keep<br>assume<br>army<br>enlist<br>coast
-bip_39_word_new_br_9: apology<br>ranch<br>unhappy<br>keep<br>assume<br>army<br>enlist<br>coast<br>stumble
-bip_39_word_new_line_1: apology
-bip_39_word_new_line_10: 'apology
-
-  ranch
-
-  unhappy
-
-  keep
-
-  assume
-
-  army
-
-  enlist
-
-  coast
-
-  stumble
-
-  guard'
-bip_39_word_new_line_11: 'apology
-
-  ranch
-
-  unhappy
-
-  keep
-
-  assume
-
-  army
-
-  enlist
-
-  coast
-
-  stumble
-
-  guard
-
-  boring'
 bip_39_word_new_line_12: 'apology
 
   ranch
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'apology
   ranch
 
   unhappy'
-bip_39_word_new_line_4: 'apology
-
-  ranch
-
-  unhappy
-
-  keep'
-bip_39_word_new_line_5: 'apology
-
-  ranch
-
-  unhappy
-
-  keep
-
-  assume'
-bip_39_word_new_line_6: 'apology
-
-  ranch
-
-  unhappy
-
-  keep
-
-  assume
-
-  army'
-bip_39_word_new_line_7: 'apology
-
-  ranch
-
-  unhappy
-
-  keep
-
-  assume
-
-  army
-
-  enlist'
-bip_39_word_new_line_8: 'apology
-
-  ranch
-
-  unhappy
-
-  keep
-
-  assume
-
-  army
-
-  enlist
-
-  coast'
-bip_39_word_new_line_9: 'apology
-
-  ranch
-
-  unhappy
-
-  keep
-
-  assume
-
-  army
-
-  enlist
-
-  coast
-
-  stumble'
-bip_39_word_no_space_1: apology
-bip_39_word_no_space_10: apologyranchunhappykeepassumearmyenlistcoaststumbleguard
-bip_39_word_no_space_11: apologyranchunhappykeepassumearmyenlistcoaststumbleguardboring
 bip_39_word_no_space_12: apologyranchunhappykeepassumearmyenlistcoaststumbleguardboringannual
 bip_39_word_no_space_2: apologyranch
 bip_39_word_no_space_3: apologyranchunhappy
-bip_39_word_no_space_4: apologyranchunhappykeep
-bip_39_word_no_space_5: apologyranchunhappykeepassume
-bip_39_word_no_space_6: apologyranchunhappykeepassumearmy
-bip_39_word_no_space_7: apologyranchunhappykeepassumearmyenlist
-bip_39_word_no_space_8: apologyranchunhappykeepassumearmyenlistcoast
-bip_39_word_no_space_9: apologyranchunhappykeepassumearmyenlistcoaststumble
-bip_39_word_space_0:
-- apology
-- ranch
-- unhappy
-- keep
-- assume
-- army
-- enlist
-- coast
-- stumble
-- guard
-- boring
-- annual
-bip_39_word_space_1: apology
-bip_39_word_space_10: apology ranch unhappy keep assume army enlist coast stumble
-  guard
-bip_39_word_space_11: apology ranch unhappy keep assume army enlist coast stumble
-  guard boring
 bip_39_word_space_12: apology ranch unhappy keep assume army enlist coast stumble
   guard boring annual
 bip_39_word_space_2: apology ranch
 bip_39_word_space_3: apology ranch unhappy
-bip_39_word_space_4: apology ranch unhappy keep
-bip_39_word_space_5: apology ranch unhappy keep assume
-bip_39_word_space_6: apology ranch unhappy keep assume army
-bip_39_word_space_7: apology ranch unhappy keep assume army enlist
-bip_39_word_space_8: apology ranch unhappy keep assume army enlist coast
-bip_39_word_space_9: apology ranch unhappy keep assume army enlist coast stumble
-bip_39_word_underscore_1: apology
-bip_39_word_underscore_10: apology_ranch_unhappy_keep_assume_army_enlist_coast_stumble_guard
-bip_39_word_underscore_11: apology_ranch_unhappy_keep_assume_army_enlist_coast_stumble_guard_boring
 bip_39_word_underscore_12: apology_ranch_unhappy_keep_assume_army_enlist_coast_stumble_guard_boring_annual
 bip_39_word_underscore_2: apology_ranch
 bip_39_word_underscore_3: apology_ranch_unhappy
-bip_39_word_underscore_4: apology_ranch_unhappy_keep
-bip_39_word_underscore_5: apology_ranch_unhappy_keep_assume
-bip_39_word_underscore_6: apology_ranch_unhappy_keep_assume_army
-bip_39_word_underscore_7: apology_ranch_unhappy_keep_assume_army_enlist
-bip_39_word_underscore_8: apology_ranch_unhappy_keep_assume_army_enlist_coast
-bip_39_word_underscore_9: apology_ranch_unhappy_keep_assume_army_enlist_coast_stumble
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glass
-bip_39_word_dash_10: glass-bread-never-pudding-human-peace-unaware-six-rule-half
-bip_39_word_dash_11: glass-bread-never-pudding-human-peace-unaware-six-rule-half-monster
 bip_39_word_dash_12: glass-bread-never-pudding-human-peace-unaware-six-rule-half-monster-able
 bip_39_word_dash_2: glass-bread
 bip_39_word_dash_3: glass-bread-never
-bip_39_word_dash_4: glass-bread-never-pudding
-bip_39_word_dash_5: glass-bread-never-pudding-human
-bip_39_word_dash_6: glass-bread-never-pudding-human-peace
-bip_39_word_dash_7: glass-bread-never-pudding-human-peace-unaware
-bip_39_word_dash_8: glass-bread-never-pudding-human-peace-unaware-six
-bip_39_word_dash_9: glass-bread-never-pudding-human-peace-unaware-six-rule
-bip_39_word_new_br_1: glass
-bip_39_word_new_br_10: glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule<br>half
-bip_39_word_new_br_11: glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule<br>half<br>monster
 bip_39_word_new_br_12: glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule<br>half<br>monster<br>able
 bip_39_word_new_br_2: glass<br>bread
 bip_39_word_new_br_3: glass<br>bread<br>never
-bip_39_word_new_br_4: glass<br>bread<br>never<br>pudding
-bip_39_word_new_br_5: glass<br>bread<br>never<br>pudding<br>human
-bip_39_word_new_br_6: glass<br>bread<br>never<br>pudding<br>human<br>peace
-bip_39_word_new_br_7: glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware
-bip_39_word_new_br_8: glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six
-bip_39_word_new_br_9: glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule
-bip_39_word_new_line_1: glass
-bip_39_word_new_line_10: 'glass
-
-  bread
-
-  never
-
-  pudding
-
-  human
-
-  peace
-
-  unaware
-
-  six
-
-  rule
-
-  half'
-bip_39_word_new_line_11: 'glass
-
-  bread
-
-  never
-
-  pudding
-
-  human
-
-  peace
-
-  unaware
-
-  six
-
-  rule
-
-  half
-
-  monster'
 bip_39_word_new_line_12: 'glass
 
   bread
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'glass
   bread
 
   never'
-bip_39_word_new_line_4: 'glass
-
-  bread
-
-  never
-
-  pudding'
-bip_39_word_new_line_5: 'glass
-
-  bread
-
-  never
-
-  pudding
-
-  human'
-bip_39_word_new_line_6: 'glass
-
-  bread
-
-  never
-
-  pudding
-
-  human
-
-  peace'
-bip_39_word_new_line_7: 'glass
-
-  bread
-
-  never
-
-  pudding
-
-  human
-
-  peace
-
-  unaware'
-bip_39_word_new_line_8: 'glass
-
-  bread
-
-  never
-
-  pudding
-
-  human
-
-  peace
-
-  unaware
-
-  six'
-bip_39_word_new_line_9: 'glass
-
-  bread
-
-  never
-
-  pudding
-
-  human
-
-  peace
-
-  unaware
-
-  six
-
-  rule'
-bip_39_word_no_space_1: glass
-bip_39_word_no_space_10: glassbreadneverpuddinghumanpeaceunawaresixrulehalf
-bip_39_word_no_space_11: glassbreadneverpuddinghumanpeaceunawaresixrulehalfmonster
 bip_39_word_no_space_12: glassbreadneverpuddinghumanpeaceunawaresixrulehalfmonsterable
 bip_39_word_no_space_2: glassbread
 bip_39_word_no_space_3: glassbreadnever
-bip_39_word_no_space_4: glassbreadneverpudding
-bip_39_word_no_space_5: glassbreadneverpuddinghuman
-bip_39_word_no_space_6: glassbreadneverpuddinghumanpeace
-bip_39_word_no_space_7: glassbreadneverpuddinghumanpeaceunaware
-bip_39_word_no_space_8: glassbreadneverpuddinghumanpeaceunawaresix
-bip_39_word_no_space_9: glassbreadneverpuddinghumanpeaceunawaresixrule
-bip_39_word_space_0:
-- glass
-- bread
-- never
-- pudding
-- human
-- peace
-- unaware
-- six
-- rule
-- half
-- monster
-- able
-bip_39_word_space_1: glass
-bip_39_word_space_10: glass bread never pudding human peace unaware six rule half
-bip_39_word_space_11: glass bread never pudding human peace unaware six rule half
-  monster
 bip_39_word_space_12: glass bread never pudding human peace unaware six rule half
   monster able
 bip_39_word_space_2: glass bread
 bip_39_word_space_3: glass bread never
-bip_39_word_space_4: glass bread never pudding
-bip_39_word_space_5: glass bread never pudding human
-bip_39_word_space_6: glass bread never pudding human peace
-bip_39_word_space_7: glass bread never pudding human peace unaware
-bip_39_word_space_8: glass bread never pudding human peace unaware six
-bip_39_word_space_9: glass bread never pudding human peace unaware six rule
-bip_39_word_underscore_1: glass
-bip_39_word_underscore_10: glass_bread_never_pudding_human_peace_unaware_six_rule_half
-bip_39_word_underscore_11: glass_bread_never_pudding_human_peace_unaware_six_rule_half_monster
 bip_39_word_underscore_12: glass_bread_never_pudding_human_peace_unaware_six_rule_half_monster_able
 bip_39_word_underscore_2: glass_bread
 bip_39_word_underscore_3: glass_bread_never
-bip_39_word_underscore_4: glass_bread_never_pudding
-bip_39_word_underscore_5: glass_bread_never_pudding_human
-bip_39_word_underscore_6: glass_bread_never_pudding_human_peace
-bip_39_word_underscore_7: glass_bread_never_pudding_human_peace_unaware
-bip_39_word_underscore_8: glass_bread_never_pudding_human_peace_unaware_six
-bip_39_word_underscore_9: glass_bread_never_pudding_human_peace_unaware_six_rule
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: silk
-bip_39_word_dash_10: silk-symbol-mushroom-manage-fence-program-broccoli-stamp-scan-wealth
-bip_39_word_dash_11: silk-symbol-mushroom-manage-fence-program-broccoli-stamp-scan-wealth-peanut
 bip_39_word_dash_12: silk-symbol-mushroom-manage-fence-program-broccoli-stamp-scan-wealth-peanut-apart
 bip_39_word_dash_2: silk-symbol
 bip_39_word_dash_3: silk-symbol-mushroom
-bip_39_word_dash_4: silk-symbol-mushroom-manage
-bip_39_word_dash_5: silk-symbol-mushroom-manage-fence
-bip_39_word_dash_6: silk-symbol-mushroom-manage-fence-program
-bip_39_word_dash_7: silk-symbol-mushroom-manage-fence-program-broccoli
-bip_39_word_dash_8: silk-symbol-mushroom-manage-fence-program-broccoli-stamp
-bip_39_word_dash_9: silk-symbol-mushroom-manage-fence-program-broccoli-stamp-scan
-bip_39_word_new_br_1: silk
-bip_39_word_new_br_10: silk<br>symbol<br>mushroom<br>manage<br>fence<br>program<br>broccoli<br>stamp<br>scan<br>wealth
-bip_39_word_new_br_11: silk<br>symbol<br>mushroom<br>manage<br>fence<br>program<br>broccoli<br>stamp<br>scan<br>wealth<br>peanut
 bip_39_word_new_br_12: silk<br>symbol<br>mushroom<br>manage<br>fence<br>program<br>broccoli<br>stamp<br>scan<br>wealth<br>peanut<br>apart
 bip_39_word_new_br_2: silk<br>symbol
 bip_39_word_new_br_3: silk<br>symbol<br>mushroom
-bip_39_word_new_br_4: silk<br>symbol<br>mushroom<br>manage
-bip_39_word_new_br_5: silk<br>symbol<br>mushroom<br>manage<br>fence
-bip_39_word_new_br_6: silk<br>symbol<br>mushroom<br>manage<br>fence<br>program
-bip_39_word_new_br_7: silk<br>symbol<br>mushroom<br>manage<br>fence<br>program<br>broccoli
-bip_39_word_new_br_8: silk<br>symbol<br>mushroom<br>manage<br>fence<br>program<br>broccoli<br>stamp
-bip_39_word_new_br_9: silk<br>symbol<br>mushroom<br>manage<br>fence<br>program<br>broccoli<br>stamp<br>scan
-bip_39_word_new_line_1: silk
-bip_39_word_new_line_10: 'silk
-
-  symbol
-
-  mushroom
-
-  manage
-
-  fence
-
-  program
-
-  broccoli
-
-  stamp
-
-  scan
-
-  wealth'
-bip_39_word_new_line_11: 'silk
-
-  symbol
-
-  mushroom
-
-  manage
-
-  fence
-
-  program
-
-  broccoli
-
-  stamp
-
-  scan
-
-  wealth
-
-  peanut'
 bip_39_word_new_line_12: 'silk
 
   symbol
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'silk
   symbol
 
   mushroom'
-bip_39_word_new_line_4: 'silk
-
-  symbol
-
-  mushroom
-
-  manage'
-bip_39_word_new_line_5: 'silk
-
-  symbol
-
-  mushroom
-
-  manage
-
-  fence'
-bip_39_word_new_line_6: 'silk
-
-  symbol
-
-  mushroom
-
-  manage
-
-  fence
-
-  program'
-bip_39_word_new_line_7: 'silk
-
-  symbol
-
-  mushroom
-
-  manage
-
-  fence
-
-  program
-
-  broccoli'
-bip_39_word_new_line_8: 'silk
-
-  symbol
-
-  mushroom
-
-  manage
-
-  fence
-
-  program
-
-  broccoli
-
-  stamp'
-bip_39_word_new_line_9: 'silk
-
-  symbol
-
-  mushroom
-
-  manage
-
-  fence
-
-  program
-
-  broccoli
-
-  stamp
-
-  scan'
-bip_39_word_no_space_1: silk
-bip_39_word_no_space_10: silksymbolmushroommanagefenceprogrambroccolistampscanwealth
-bip_39_word_no_space_11: silksymbolmushroommanagefenceprogrambroccolistampscanwealthpeanut
 bip_39_word_no_space_12: silksymbolmushroommanagefenceprogrambroccolistampscanwealthpeanutapart
 bip_39_word_no_space_2: silksymbol
 bip_39_word_no_space_3: silksymbolmushroom
-bip_39_word_no_space_4: silksymbolmushroommanage
-bip_39_word_no_space_5: silksymbolmushroommanagefence
-bip_39_word_no_space_6: silksymbolmushroommanagefenceprogram
-bip_39_word_no_space_7: silksymbolmushroommanagefenceprogrambroccoli
-bip_39_word_no_space_8: silksymbolmushroommanagefenceprogrambroccolistamp
-bip_39_word_no_space_9: silksymbolmushroommanagefenceprogrambroccolistampscan
-bip_39_word_space_0:
-- silk
-- symbol
-- mushroom
-- manage
-- fence
-- program
-- broccoli
-- stamp
-- scan
-- wealth
-- peanut
-- apart
-bip_39_word_space_1: silk
-bip_39_word_space_10: silk symbol mushroom manage fence program broccoli stamp scan
-  wealth
-bip_39_word_space_11: silk symbol mushroom manage fence program broccoli stamp scan
-  wealth peanut
 bip_39_word_space_12: silk symbol mushroom manage fence program broccoli stamp scan
   wealth peanut apart
 bip_39_word_space_2: silk symbol
 bip_39_word_space_3: silk symbol mushroom
-bip_39_word_space_4: silk symbol mushroom manage
-bip_39_word_space_5: silk symbol mushroom manage fence
-bip_39_word_space_6: silk symbol mushroom manage fence program
-bip_39_word_space_7: silk symbol mushroom manage fence program broccoli
-bip_39_word_space_8: silk symbol mushroom manage fence program broccoli stamp
-bip_39_word_space_9: silk symbol mushroom manage fence program broccoli stamp scan
-bip_39_word_underscore_1: silk
-bip_39_word_underscore_10: silk_symbol_mushroom_manage_fence_program_broccoli_stamp_scan_wealth
-bip_39_word_underscore_11: silk_symbol_mushroom_manage_fence_program_broccoli_stamp_scan_wealth_peanut
 bip_39_word_underscore_12: silk_symbol_mushroom_manage_fence_program_broccoli_stamp_scan_wealth_peanut_apart
 bip_39_word_underscore_2: silk_symbol
 bip_39_word_underscore_3: silk_symbol_mushroom
-bip_39_word_underscore_4: silk_symbol_mushroom_manage
-bip_39_word_underscore_5: silk_symbol_mushroom_manage_fence
-bip_39_word_underscore_6: silk_symbol_mushroom_manage_fence_program
-bip_39_word_underscore_7: silk_symbol_mushroom_manage_fence_program_broccoli
-bip_39_word_underscore_8: silk_symbol_mushroom_manage_fence_program_broccoli_stamp
-bip_39_word_underscore_9: silk_symbol_mushroom_manage_fence_program_broccoli_stamp_scan
 classification: project
 classification_capital: Project
 classification_first_letter: p

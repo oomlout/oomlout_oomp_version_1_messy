@@ -1,68 +1,9 @@
-bip_39_word_dash_1: donkey
-bip_39_word_dash_10: donkey-space-fetch-bullet-toward-puppy-surface-goat-mean-cave
-bip_39_word_dash_11: donkey-space-fetch-bullet-toward-puppy-surface-goat-mean-cave-grow
 bip_39_word_dash_12: donkey-space-fetch-bullet-toward-puppy-surface-goat-mean-cave-grow-already
 bip_39_word_dash_2: donkey-space
 bip_39_word_dash_3: donkey-space-fetch
-bip_39_word_dash_4: donkey-space-fetch-bullet
-bip_39_word_dash_5: donkey-space-fetch-bullet-toward
-bip_39_word_dash_6: donkey-space-fetch-bullet-toward-puppy
-bip_39_word_dash_7: donkey-space-fetch-bullet-toward-puppy-surface
-bip_39_word_dash_8: donkey-space-fetch-bullet-toward-puppy-surface-goat
-bip_39_word_dash_9: donkey-space-fetch-bullet-toward-puppy-surface-goat-mean
-bip_39_word_new_br_1: donkey
-bip_39_word_new_br_10: donkey<br>space<br>fetch<br>bullet<br>toward<br>puppy<br>surface<br>goat<br>mean<br>cave
-bip_39_word_new_br_11: donkey<br>space<br>fetch<br>bullet<br>toward<br>puppy<br>surface<br>goat<br>mean<br>cave<br>grow
 bip_39_word_new_br_12: donkey<br>space<br>fetch<br>bullet<br>toward<br>puppy<br>surface<br>goat<br>mean<br>cave<br>grow<br>already
 bip_39_word_new_br_2: donkey<br>space
 bip_39_word_new_br_3: donkey<br>space<br>fetch
-bip_39_word_new_br_4: donkey<br>space<br>fetch<br>bullet
-bip_39_word_new_br_5: donkey<br>space<br>fetch<br>bullet<br>toward
-bip_39_word_new_br_6: donkey<br>space<br>fetch<br>bullet<br>toward<br>puppy
-bip_39_word_new_br_7: donkey<br>space<br>fetch<br>bullet<br>toward<br>puppy<br>surface
-bip_39_word_new_br_8: donkey<br>space<br>fetch<br>bullet<br>toward<br>puppy<br>surface<br>goat
-bip_39_word_new_br_9: donkey<br>space<br>fetch<br>bullet<br>toward<br>puppy<br>surface<br>goat<br>mean
-bip_39_word_new_line_1: donkey
-bip_39_word_new_line_10: 'donkey
-
-  space
-
-  fetch
-
-  bullet
-
-  toward
-
-  puppy
-
-  surface
-
-  goat
-
-  mean
-
-  cave'
-bip_39_word_new_line_11: 'donkey
-
-  space
-
-  fetch
-
-  bullet
-
-  toward
-
-  puppy
-
-  surface
-
-  goat
-
-  mean
-
-  cave
-
-  grow'
 bip_39_word_new_line_12: 'donkey
 
   space
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'donkey
   space
 
   fetch'
-bip_39_word_new_line_4: 'donkey
-
-  space
-
-  fetch
-
-  bullet'
-bip_39_word_new_line_5: 'donkey
-
-  space
-
-  fetch
-
-  bullet
-
-  toward'
-bip_39_word_new_line_6: 'donkey
-
-  space
-
-  fetch
-
-  bullet
-
-  toward
-
-  puppy'
-bip_39_word_new_line_7: 'donkey
-
-  space
-
-  fetch
-
-  bullet
-
-  toward
-
-  puppy
-
-  surface'
-bip_39_word_new_line_8: 'donkey
-
-  space
-
-  fetch
-
-  bullet
-
-  toward
-
-  puppy
-
-  surface
-
-  goat'
-bip_39_word_new_line_9: 'donkey
-
-  space
-
-  fetch
-
-  bullet
-
-  toward
-
-  puppy
-
-  surface
-
-  goat
-
-  mean'
-bip_39_word_no_space_1: donkey
-bip_39_word_no_space_10: donkeyspacefetchbullettowardpuppysurfacegoatmeancave
-bip_39_word_no_space_11: donkeyspacefetchbullettowardpuppysurfacegoatmeancavegrow
 bip_39_word_no_space_12: donkeyspacefetchbullettowardpuppysurfacegoatmeancavegrowalready
 bip_39_word_no_space_2: donkeyspace
 bip_39_word_no_space_3: donkeyspacefetch
-bip_39_word_no_space_4: donkeyspacefetchbullet
-bip_39_word_no_space_5: donkeyspacefetchbullettoward
-bip_39_word_no_space_6: donkeyspacefetchbullettowardpuppy
-bip_39_word_no_space_7: donkeyspacefetchbullettowardpuppysurface
-bip_39_word_no_space_8: donkeyspacefetchbullettowardpuppysurfacegoat
-bip_39_word_no_space_9: donkeyspacefetchbullettowardpuppysurfacegoatmean
-bip_39_word_space_0:
-- donkey
-- space
-- fetch
-- bullet
-- toward
-- puppy
-- surface
-- goat
-- mean
-- cave
-- grow
-- already
-bip_39_word_space_1: donkey
-bip_39_word_space_10: donkey space fetch bullet toward puppy surface goat mean cave
-bip_39_word_space_11: donkey space fetch bullet toward puppy surface goat mean cave
-  grow
 bip_39_word_space_12: donkey space fetch bullet toward puppy surface goat mean cave
   grow already
 bip_39_word_space_2: donkey space
 bip_39_word_space_3: donkey space fetch
-bip_39_word_space_4: donkey space fetch bullet
-bip_39_word_space_5: donkey space fetch bullet toward
-bip_39_word_space_6: donkey space fetch bullet toward puppy
-bip_39_word_space_7: donkey space fetch bullet toward puppy surface
-bip_39_word_space_8: donkey space fetch bullet toward puppy surface goat
-bip_39_word_space_9: donkey space fetch bullet toward puppy surface goat mean
-bip_39_word_underscore_1: donkey
-bip_39_word_underscore_10: donkey_space_fetch_bullet_toward_puppy_surface_goat_mean_cave
-bip_39_word_underscore_11: donkey_space_fetch_bullet_toward_puppy_surface_goat_mean_cave_grow
 bip_39_word_underscore_12: donkey_space_fetch_bullet_toward_puppy_surface_goat_mean_cave_grow_already
 bip_39_word_underscore_2: donkey_space
 bip_39_word_underscore_3: donkey_space_fetch
-bip_39_word_underscore_4: donkey_space_fetch_bullet
-bip_39_word_underscore_5: donkey_space_fetch_bullet_toward
-bip_39_word_underscore_6: donkey_space_fetch_bullet_toward_puppy
-bip_39_word_underscore_7: donkey_space_fetch_bullet_toward_puppy_surface
-bip_39_word_underscore_8: donkey_space_fetch_bullet_toward_puppy_surface_goat
-bip_39_word_underscore_9: donkey_space_fetch_bullet_toward_puppy_surface_goat_mean
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

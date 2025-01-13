@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cargo
-bip_39_word_dash_10: cargo-seed-aerobic-invest-lunar-matter-cliff-make-dilemma-tell
-bip_39_word_dash_11: cargo-seed-aerobic-invest-lunar-matter-cliff-make-dilemma-tell-garment
 bip_39_word_dash_12: cargo-seed-aerobic-invest-lunar-matter-cliff-make-dilemma-tell-garment-attend
 bip_39_word_dash_2: cargo-seed
 bip_39_word_dash_3: cargo-seed-aerobic
-bip_39_word_dash_4: cargo-seed-aerobic-invest
-bip_39_word_dash_5: cargo-seed-aerobic-invest-lunar
-bip_39_word_dash_6: cargo-seed-aerobic-invest-lunar-matter
-bip_39_word_dash_7: cargo-seed-aerobic-invest-lunar-matter-cliff
-bip_39_word_dash_8: cargo-seed-aerobic-invest-lunar-matter-cliff-make
-bip_39_word_dash_9: cargo-seed-aerobic-invest-lunar-matter-cliff-make-dilemma
-bip_39_word_new_br_1: cargo
-bip_39_word_new_br_10: cargo<br>seed<br>aerobic<br>invest<br>lunar<br>matter<br>cliff<br>make<br>dilemma<br>tell
-bip_39_word_new_br_11: cargo<br>seed<br>aerobic<br>invest<br>lunar<br>matter<br>cliff<br>make<br>dilemma<br>tell<br>garment
 bip_39_word_new_br_12: cargo<br>seed<br>aerobic<br>invest<br>lunar<br>matter<br>cliff<br>make<br>dilemma<br>tell<br>garment<br>attend
 bip_39_word_new_br_2: cargo<br>seed
 bip_39_word_new_br_3: cargo<br>seed<br>aerobic
-bip_39_word_new_br_4: cargo<br>seed<br>aerobic<br>invest
-bip_39_word_new_br_5: cargo<br>seed<br>aerobic<br>invest<br>lunar
-bip_39_word_new_br_6: cargo<br>seed<br>aerobic<br>invest<br>lunar<br>matter
-bip_39_word_new_br_7: cargo<br>seed<br>aerobic<br>invest<br>lunar<br>matter<br>cliff
-bip_39_word_new_br_8: cargo<br>seed<br>aerobic<br>invest<br>lunar<br>matter<br>cliff<br>make
-bip_39_word_new_br_9: cargo<br>seed<br>aerobic<br>invest<br>lunar<br>matter<br>cliff<br>make<br>dilemma
-bip_39_word_new_line_1: cargo
-bip_39_word_new_line_10: 'cargo
-
-  seed
-
-  aerobic
-
-  invest
-
-  lunar
-
-  matter
-
-  cliff
-
-  make
-
-  dilemma
-
-  tell'
-bip_39_word_new_line_11: 'cargo
-
-  seed
-
-  aerobic
-
-  invest
-
-  lunar
-
-  matter
-
-  cliff
-
-  make
-
-  dilemma
-
-  tell
-
-  garment'
 bip_39_word_new_line_12: 'cargo
 
   seed
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cargo
   seed
 
   aerobic'
-bip_39_word_new_line_4: 'cargo
-
-  seed
-
-  aerobic
-
-  invest'
-bip_39_word_new_line_5: 'cargo
-
-  seed
-
-  aerobic
-
-  invest
-
-  lunar'
-bip_39_word_new_line_6: 'cargo
-
-  seed
-
-  aerobic
-
-  invest
-
-  lunar
-
-  matter'
-bip_39_word_new_line_7: 'cargo
-
-  seed
-
-  aerobic
-
-  invest
-
-  lunar
-
-  matter
-
-  cliff'
-bip_39_word_new_line_8: 'cargo
-
-  seed
-
-  aerobic
-
-  invest
-
-  lunar
-
-  matter
-
-  cliff
-
-  make'
-bip_39_word_new_line_9: 'cargo
-
-  seed
-
-  aerobic
-
-  invest
-
-  lunar
-
-  matter
-
-  cliff
-
-  make
-
-  dilemma'
-bip_39_word_no_space_1: cargo
-bip_39_word_no_space_10: cargoseedaerobicinvestlunarmattercliffmakedilemmatell
-bip_39_word_no_space_11: cargoseedaerobicinvestlunarmattercliffmakedilemmatellgarment
 bip_39_word_no_space_12: cargoseedaerobicinvestlunarmattercliffmakedilemmatellgarmentattend
 bip_39_word_no_space_2: cargoseed
 bip_39_word_no_space_3: cargoseedaerobic
-bip_39_word_no_space_4: cargoseedaerobicinvest
-bip_39_word_no_space_5: cargoseedaerobicinvestlunar
-bip_39_word_no_space_6: cargoseedaerobicinvestlunarmatter
-bip_39_word_no_space_7: cargoseedaerobicinvestlunarmattercliff
-bip_39_word_no_space_8: cargoseedaerobicinvestlunarmattercliffmake
-bip_39_word_no_space_9: cargoseedaerobicinvestlunarmattercliffmakedilemma
-bip_39_word_space_0:
-- cargo
-- seed
-- aerobic
-- invest
-- lunar
-- matter
-- cliff
-- make
-- dilemma
-- tell
-- garment
-- attend
-bip_39_word_space_1: cargo
-bip_39_word_space_10: cargo seed aerobic invest lunar matter cliff make dilemma tell
-bip_39_word_space_11: cargo seed aerobic invest lunar matter cliff make dilemma tell
-  garment
 bip_39_word_space_12: cargo seed aerobic invest lunar matter cliff make dilemma tell
   garment attend
 bip_39_word_space_2: cargo seed
 bip_39_word_space_3: cargo seed aerobic
-bip_39_word_space_4: cargo seed aerobic invest
-bip_39_word_space_5: cargo seed aerobic invest lunar
-bip_39_word_space_6: cargo seed aerobic invest lunar matter
-bip_39_word_space_7: cargo seed aerobic invest lunar matter cliff
-bip_39_word_space_8: cargo seed aerobic invest lunar matter cliff make
-bip_39_word_space_9: cargo seed aerobic invest lunar matter cliff make dilemma
-bip_39_word_underscore_1: cargo
-bip_39_word_underscore_10: cargo_seed_aerobic_invest_lunar_matter_cliff_make_dilemma_tell
-bip_39_word_underscore_11: cargo_seed_aerobic_invest_lunar_matter_cliff_make_dilemma_tell_garment
 bip_39_word_underscore_12: cargo_seed_aerobic_invest_lunar_matter_cliff_make_dilemma_tell_garment_attend
 bip_39_word_underscore_2: cargo_seed
 bip_39_word_underscore_3: cargo_seed_aerobic
-bip_39_word_underscore_4: cargo_seed_aerobic_invest
-bip_39_word_underscore_5: cargo_seed_aerobic_invest_lunar
-bip_39_word_underscore_6: cargo_seed_aerobic_invest_lunar_matter
-bip_39_word_underscore_7: cargo_seed_aerobic_invest_lunar_matter_cliff
-bip_39_word_underscore_8: cargo_seed_aerobic_invest_lunar_matter_cliff_make
-bip_39_word_underscore_9: cargo_seed_aerobic_invest_lunar_matter_cliff_make_dilemma
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

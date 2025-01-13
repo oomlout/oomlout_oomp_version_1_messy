@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lock
-bip_39_word_dash_10: lock-daughter-ranch-delay-uphold-victory-language-exile-harsh-pear
-bip_39_word_dash_11: lock-daughter-ranch-delay-uphold-victory-language-exile-harsh-pear-flush
 bip_39_word_dash_12: lock-daughter-ranch-delay-uphold-victory-language-exile-harsh-pear-flush-across
 bip_39_word_dash_2: lock-daughter
 bip_39_word_dash_3: lock-daughter-ranch
-bip_39_word_dash_4: lock-daughter-ranch-delay
-bip_39_word_dash_5: lock-daughter-ranch-delay-uphold
-bip_39_word_dash_6: lock-daughter-ranch-delay-uphold-victory
-bip_39_word_dash_7: lock-daughter-ranch-delay-uphold-victory-language
-bip_39_word_dash_8: lock-daughter-ranch-delay-uphold-victory-language-exile
-bip_39_word_dash_9: lock-daughter-ranch-delay-uphold-victory-language-exile-harsh
-bip_39_word_new_br_1: lock
-bip_39_word_new_br_10: lock<br>daughter<br>ranch<br>delay<br>uphold<br>victory<br>language<br>exile<br>harsh<br>pear
-bip_39_word_new_br_11: lock<br>daughter<br>ranch<br>delay<br>uphold<br>victory<br>language<br>exile<br>harsh<br>pear<br>flush
 bip_39_word_new_br_12: lock<br>daughter<br>ranch<br>delay<br>uphold<br>victory<br>language<br>exile<br>harsh<br>pear<br>flush<br>across
 bip_39_word_new_br_2: lock<br>daughter
 bip_39_word_new_br_3: lock<br>daughter<br>ranch
-bip_39_word_new_br_4: lock<br>daughter<br>ranch<br>delay
-bip_39_word_new_br_5: lock<br>daughter<br>ranch<br>delay<br>uphold
-bip_39_word_new_br_6: lock<br>daughter<br>ranch<br>delay<br>uphold<br>victory
-bip_39_word_new_br_7: lock<br>daughter<br>ranch<br>delay<br>uphold<br>victory<br>language
-bip_39_word_new_br_8: lock<br>daughter<br>ranch<br>delay<br>uphold<br>victory<br>language<br>exile
-bip_39_word_new_br_9: lock<br>daughter<br>ranch<br>delay<br>uphold<br>victory<br>language<br>exile<br>harsh
-bip_39_word_new_line_1: lock
-bip_39_word_new_line_10: 'lock
-
-  daughter
-
-  ranch
-
-  delay
-
-  uphold
-
-  victory
-
-  language
-
-  exile
-
-  harsh
-
-  pear'
-bip_39_word_new_line_11: 'lock
-
-  daughter
-
-  ranch
-
-  delay
-
-  uphold
-
-  victory
-
-  language
-
-  exile
-
-  harsh
-
-  pear
-
-  flush'
 bip_39_word_new_line_12: 'lock
 
   daughter
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'lock
   daughter
 
   ranch'
-bip_39_word_new_line_4: 'lock
-
-  daughter
-
-  ranch
-
-  delay'
-bip_39_word_new_line_5: 'lock
-
-  daughter
-
-  ranch
-
-  delay
-
-  uphold'
-bip_39_word_new_line_6: 'lock
-
-  daughter
-
-  ranch
-
-  delay
-
-  uphold
-
-  victory'
-bip_39_word_new_line_7: 'lock
-
-  daughter
-
-  ranch
-
-  delay
-
-  uphold
-
-  victory
-
-  language'
-bip_39_word_new_line_8: 'lock
-
-  daughter
-
-  ranch
-
-  delay
-
-  uphold
-
-  victory
-
-  language
-
-  exile'
-bip_39_word_new_line_9: 'lock
-
-  daughter
-
-  ranch
-
-  delay
-
-  uphold
-
-  victory
-
-  language
-
-  exile
-
-  harsh'
-bip_39_word_no_space_1: lock
-bip_39_word_no_space_10: lockdaughterranchdelayupholdvictorylanguageexileharshpear
-bip_39_word_no_space_11: lockdaughterranchdelayupholdvictorylanguageexileharshpearflush
 bip_39_word_no_space_12: lockdaughterranchdelayupholdvictorylanguageexileharshpearflushacross
 bip_39_word_no_space_2: lockdaughter
 bip_39_word_no_space_3: lockdaughterranch
-bip_39_word_no_space_4: lockdaughterranchdelay
-bip_39_word_no_space_5: lockdaughterranchdelayuphold
-bip_39_word_no_space_6: lockdaughterranchdelayupholdvictory
-bip_39_word_no_space_7: lockdaughterranchdelayupholdvictorylanguage
-bip_39_word_no_space_8: lockdaughterranchdelayupholdvictorylanguageexile
-bip_39_word_no_space_9: lockdaughterranchdelayupholdvictorylanguageexileharsh
-bip_39_word_space_0:
-- lock
-- daughter
-- ranch
-- delay
-- uphold
-- victory
-- language
-- exile
-- harsh
-- pear
-- flush
-- across
-bip_39_word_space_1: lock
-bip_39_word_space_10: lock daughter ranch delay uphold victory language exile harsh
-  pear
-bip_39_word_space_11: lock daughter ranch delay uphold victory language exile harsh
-  pear flush
 bip_39_word_space_12: lock daughter ranch delay uphold victory language exile harsh
   pear flush across
 bip_39_word_space_2: lock daughter
 bip_39_word_space_3: lock daughter ranch
-bip_39_word_space_4: lock daughter ranch delay
-bip_39_word_space_5: lock daughter ranch delay uphold
-bip_39_word_space_6: lock daughter ranch delay uphold victory
-bip_39_word_space_7: lock daughter ranch delay uphold victory language
-bip_39_word_space_8: lock daughter ranch delay uphold victory language exile
-bip_39_word_space_9: lock daughter ranch delay uphold victory language exile harsh
-bip_39_word_underscore_1: lock
-bip_39_word_underscore_10: lock_daughter_ranch_delay_uphold_victory_language_exile_harsh_pear
-bip_39_word_underscore_11: lock_daughter_ranch_delay_uphold_victory_language_exile_harsh_pear_flush
 bip_39_word_underscore_12: lock_daughter_ranch_delay_uphold_victory_language_exile_harsh_pear_flush_across
 bip_39_word_underscore_2: lock_daughter
 bip_39_word_underscore_3: lock_daughter_ranch
-bip_39_word_underscore_4: lock_daughter_ranch_delay
-bip_39_word_underscore_5: lock_daughter_ranch_delay_uphold
-bip_39_word_underscore_6: lock_daughter_ranch_delay_uphold_victory
-bip_39_word_underscore_7: lock_daughter_ranch_delay_uphold_victory_language
-bip_39_word_underscore_8: lock_daughter_ranch_delay_uphold_victory_language_exile
-bip_39_word_underscore_9: lock_daughter_ranch_delay_uphold_victory_language_exile_harsh
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: witness
-bip_39_word_dash_10: witness-wall-finish-dwarf-display-reform-ladder-hour-boost-unhappy
-bip_39_word_dash_11: witness-wall-finish-dwarf-display-reform-ladder-hour-boost-unhappy-guilt
 bip_39_word_dash_12: witness-wall-finish-dwarf-display-reform-ladder-hour-boost-unhappy-guilt-arrow
 bip_39_word_dash_2: witness-wall
 bip_39_word_dash_3: witness-wall-finish
-bip_39_word_dash_4: witness-wall-finish-dwarf
-bip_39_word_dash_5: witness-wall-finish-dwarf-display
-bip_39_word_dash_6: witness-wall-finish-dwarf-display-reform
-bip_39_word_dash_7: witness-wall-finish-dwarf-display-reform-ladder
-bip_39_word_dash_8: witness-wall-finish-dwarf-display-reform-ladder-hour
-bip_39_word_dash_9: witness-wall-finish-dwarf-display-reform-ladder-hour-boost
-bip_39_word_new_br_1: witness
-bip_39_word_new_br_10: witness<br>wall<br>finish<br>dwarf<br>display<br>reform<br>ladder<br>hour<br>boost<br>unhappy
-bip_39_word_new_br_11: witness<br>wall<br>finish<br>dwarf<br>display<br>reform<br>ladder<br>hour<br>boost<br>unhappy<br>guilt
 bip_39_word_new_br_12: witness<br>wall<br>finish<br>dwarf<br>display<br>reform<br>ladder<br>hour<br>boost<br>unhappy<br>guilt<br>arrow
 bip_39_word_new_br_2: witness<br>wall
 bip_39_word_new_br_3: witness<br>wall<br>finish
-bip_39_word_new_br_4: witness<br>wall<br>finish<br>dwarf
-bip_39_word_new_br_5: witness<br>wall<br>finish<br>dwarf<br>display
-bip_39_word_new_br_6: witness<br>wall<br>finish<br>dwarf<br>display<br>reform
-bip_39_word_new_br_7: witness<br>wall<br>finish<br>dwarf<br>display<br>reform<br>ladder
-bip_39_word_new_br_8: witness<br>wall<br>finish<br>dwarf<br>display<br>reform<br>ladder<br>hour
-bip_39_word_new_br_9: witness<br>wall<br>finish<br>dwarf<br>display<br>reform<br>ladder<br>hour<br>boost
-bip_39_word_new_line_1: witness
-bip_39_word_new_line_10: 'witness
-
-  wall
-
-  finish
-
-  dwarf
-
-  display
-
-  reform
-
-  ladder
-
-  hour
-
-  boost
-
-  unhappy'
-bip_39_word_new_line_11: 'witness
-
-  wall
-
-  finish
-
-  dwarf
-
-  display
-
-  reform
-
-  ladder
-
-  hour
-
-  boost
-
-  unhappy
-
-  guilt'
 bip_39_word_new_line_12: 'witness
 
   wall
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'witness
   wall
 
   finish'
-bip_39_word_new_line_4: 'witness
-
-  wall
-
-  finish
-
-  dwarf'
-bip_39_word_new_line_5: 'witness
-
-  wall
-
-  finish
-
-  dwarf
-
-  display'
-bip_39_word_new_line_6: 'witness
-
-  wall
-
-  finish
-
-  dwarf
-
-  display
-
-  reform'
-bip_39_word_new_line_7: 'witness
-
-  wall
-
-  finish
-
-  dwarf
-
-  display
-
-  reform
-
-  ladder'
-bip_39_word_new_line_8: 'witness
-
-  wall
-
-  finish
-
-  dwarf
-
-  display
-
-  reform
-
-  ladder
-
-  hour'
-bip_39_word_new_line_9: 'witness
-
-  wall
-
-  finish
-
-  dwarf
-
-  display
-
-  reform
-
-  ladder
-
-  hour
-
-  boost'
-bip_39_word_no_space_1: witness
-bip_39_word_no_space_10: witnesswallfinishdwarfdisplayreformladderhourboostunhappy
-bip_39_word_no_space_11: witnesswallfinishdwarfdisplayreformladderhourboostunhappyguilt
 bip_39_word_no_space_12: witnesswallfinishdwarfdisplayreformladderhourboostunhappyguiltarrow
 bip_39_word_no_space_2: witnesswall
 bip_39_word_no_space_3: witnesswallfinish
-bip_39_word_no_space_4: witnesswallfinishdwarf
-bip_39_word_no_space_5: witnesswallfinishdwarfdisplay
-bip_39_word_no_space_6: witnesswallfinishdwarfdisplayreform
-bip_39_word_no_space_7: witnesswallfinishdwarfdisplayreformladder
-bip_39_word_no_space_8: witnesswallfinishdwarfdisplayreformladderhour
-bip_39_word_no_space_9: witnesswallfinishdwarfdisplayreformladderhourboost
-bip_39_word_space_0:
-- witness
-- wall
-- finish
-- dwarf
-- display
-- reform
-- ladder
-- hour
-- boost
-- unhappy
-- guilt
-- arrow
-bip_39_word_space_1: witness
-bip_39_word_space_10: witness wall finish dwarf display reform ladder hour boost unhappy
-bip_39_word_space_11: witness wall finish dwarf display reform ladder hour boost unhappy
-  guilt
 bip_39_word_space_12: witness wall finish dwarf display reform ladder hour boost unhappy
   guilt arrow
 bip_39_word_space_2: witness wall
 bip_39_word_space_3: witness wall finish
-bip_39_word_space_4: witness wall finish dwarf
-bip_39_word_space_5: witness wall finish dwarf display
-bip_39_word_space_6: witness wall finish dwarf display reform
-bip_39_word_space_7: witness wall finish dwarf display reform ladder
-bip_39_word_space_8: witness wall finish dwarf display reform ladder hour
-bip_39_word_space_9: witness wall finish dwarf display reform ladder hour boost
-bip_39_word_underscore_1: witness
-bip_39_word_underscore_10: witness_wall_finish_dwarf_display_reform_ladder_hour_boost_unhappy
-bip_39_word_underscore_11: witness_wall_finish_dwarf_display_reform_ladder_hour_boost_unhappy_guilt
 bip_39_word_underscore_12: witness_wall_finish_dwarf_display_reform_ladder_hour_boost_unhappy_guilt_arrow
 bip_39_word_underscore_2: witness_wall
 bip_39_word_underscore_3: witness_wall_finish
-bip_39_word_underscore_4: witness_wall_finish_dwarf
-bip_39_word_underscore_5: witness_wall_finish_dwarf_display
-bip_39_word_underscore_6: witness_wall_finish_dwarf_display_reform
-bip_39_word_underscore_7: witness_wall_finish_dwarf_display_reform_ladder
-bip_39_word_underscore_8: witness_wall_finish_dwarf_display_reform_ladder_hour
-bip_39_word_underscore_9: witness_wall_finish_dwarf_display_reform_ladder_hour_boost
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

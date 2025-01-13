@@ -1,68 +1,9 @@
-bip_39_word_dash_1: deny
-bip_39_word_dash_10: deny-route-custom-possible-opera-myself-someone-shiver-twenty-spell
-bip_39_word_dash_11: deny-route-custom-possible-opera-myself-someone-shiver-twenty-spell-truth
 bip_39_word_dash_12: deny-route-custom-possible-opera-myself-someone-shiver-twenty-spell-truth-always
 bip_39_word_dash_2: deny-route
 bip_39_word_dash_3: deny-route-custom
-bip_39_word_dash_4: deny-route-custom-possible
-bip_39_word_dash_5: deny-route-custom-possible-opera
-bip_39_word_dash_6: deny-route-custom-possible-opera-myself
-bip_39_word_dash_7: deny-route-custom-possible-opera-myself-someone
-bip_39_word_dash_8: deny-route-custom-possible-opera-myself-someone-shiver
-bip_39_word_dash_9: deny-route-custom-possible-opera-myself-someone-shiver-twenty
-bip_39_word_new_br_1: deny
-bip_39_word_new_br_10: deny<br>route<br>custom<br>possible<br>opera<br>myself<br>someone<br>shiver<br>twenty<br>spell
-bip_39_word_new_br_11: deny<br>route<br>custom<br>possible<br>opera<br>myself<br>someone<br>shiver<br>twenty<br>spell<br>truth
 bip_39_word_new_br_12: deny<br>route<br>custom<br>possible<br>opera<br>myself<br>someone<br>shiver<br>twenty<br>spell<br>truth<br>always
 bip_39_word_new_br_2: deny<br>route
 bip_39_word_new_br_3: deny<br>route<br>custom
-bip_39_word_new_br_4: deny<br>route<br>custom<br>possible
-bip_39_word_new_br_5: deny<br>route<br>custom<br>possible<br>opera
-bip_39_word_new_br_6: deny<br>route<br>custom<br>possible<br>opera<br>myself
-bip_39_word_new_br_7: deny<br>route<br>custom<br>possible<br>opera<br>myself<br>someone
-bip_39_word_new_br_8: deny<br>route<br>custom<br>possible<br>opera<br>myself<br>someone<br>shiver
-bip_39_word_new_br_9: deny<br>route<br>custom<br>possible<br>opera<br>myself<br>someone<br>shiver<br>twenty
-bip_39_word_new_line_1: deny
-bip_39_word_new_line_10: 'deny
-
-  route
-
-  custom
-
-  possible
-
-  opera
-
-  myself
-
-  someone
-
-  shiver
-
-  twenty
-
-  spell'
-bip_39_word_new_line_11: 'deny
-
-  route
-
-  custom
-
-  possible
-
-  opera
-
-  myself
-
-  someone
-
-  shiver
-
-  twenty
-
-  spell
-
-  truth'
 bip_39_word_new_line_12: 'deny
 
   route
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'deny
   route
 
   custom'
-bip_39_word_new_line_4: 'deny
-
-  route
-
-  custom
-
-  possible'
-bip_39_word_new_line_5: 'deny
-
-  route
-
-  custom
-
-  possible
-
-  opera'
-bip_39_word_new_line_6: 'deny
-
-  route
-
-  custom
-
-  possible
-
-  opera
-
-  myself'
-bip_39_word_new_line_7: 'deny
-
-  route
-
-  custom
-
-  possible
-
-  opera
-
-  myself
-
-  someone'
-bip_39_word_new_line_8: 'deny
-
-  route
-
-  custom
-
-  possible
-
-  opera
-
-  myself
-
-  someone
-
-  shiver'
-bip_39_word_new_line_9: 'deny
-
-  route
-
-  custom
-
-  possible
-
-  opera
-
-  myself
-
-  someone
-
-  shiver
-
-  twenty'
-bip_39_word_no_space_1: deny
-bip_39_word_no_space_10: denyroutecustompossibleoperamyselfsomeoneshivertwentyspell
-bip_39_word_no_space_11: denyroutecustompossibleoperamyselfsomeoneshivertwentyspelltruth
 bip_39_word_no_space_12: denyroutecustompossibleoperamyselfsomeoneshivertwentyspelltruthalways
 bip_39_word_no_space_2: denyroute
 bip_39_word_no_space_3: denyroutecustom
-bip_39_word_no_space_4: denyroutecustompossible
-bip_39_word_no_space_5: denyroutecustompossibleopera
-bip_39_word_no_space_6: denyroutecustompossibleoperamyself
-bip_39_word_no_space_7: denyroutecustompossibleoperamyselfsomeone
-bip_39_word_no_space_8: denyroutecustompossibleoperamyselfsomeoneshiver
-bip_39_word_no_space_9: denyroutecustompossibleoperamyselfsomeoneshivertwenty
-bip_39_word_space_0:
-- deny
-- route
-- custom
-- possible
-- opera
-- myself
-- someone
-- shiver
-- twenty
-- spell
-- truth
-- always
-bip_39_word_space_1: deny
-bip_39_word_space_10: deny route custom possible opera myself someone shiver twenty
-  spell
-bip_39_word_space_11: deny route custom possible opera myself someone shiver twenty
-  spell truth
 bip_39_word_space_12: deny route custom possible opera myself someone shiver twenty
   spell truth always
 bip_39_word_space_2: deny route
 bip_39_word_space_3: deny route custom
-bip_39_word_space_4: deny route custom possible
-bip_39_word_space_5: deny route custom possible opera
-bip_39_word_space_6: deny route custom possible opera myself
-bip_39_word_space_7: deny route custom possible opera myself someone
-bip_39_word_space_8: deny route custom possible opera myself someone shiver
-bip_39_word_space_9: deny route custom possible opera myself someone shiver twenty
-bip_39_word_underscore_1: deny
-bip_39_word_underscore_10: deny_route_custom_possible_opera_myself_someone_shiver_twenty_spell
-bip_39_word_underscore_11: deny_route_custom_possible_opera_myself_someone_shiver_twenty_spell_truth
 bip_39_word_underscore_12: deny_route_custom_possible_opera_myself_someone_shiver_twenty_spell_truth_always
 bip_39_word_underscore_2: deny_route
 bip_39_word_underscore_3: deny_route_custom
-bip_39_word_underscore_4: deny_route_custom_possible
-bip_39_word_underscore_5: deny_route_custom_possible_opera
-bip_39_word_underscore_6: deny_route_custom_possible_opera_myself
-bip_39_word_underscore_7: deny_route_custom_possible_opera_myself_someone
-bip_39_word_underscore_8: deny_route_custom_possible_opera_myself_someone_shiver
-bip_39_word_underscore_9: deny_route_custom_possible_opera_myself_someone_shiver_twenty
 classification: category
 classification_capital: Category
 classification_first_letter: c

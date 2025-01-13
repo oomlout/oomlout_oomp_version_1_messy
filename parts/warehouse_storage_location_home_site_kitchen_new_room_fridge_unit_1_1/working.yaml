@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phrase
-bip_39_word_dash_10: phrase-hedgehog-render-abuse-aware-grunt-thank-sponsor-edge-judge
-bip_39_word_dash_11: phrase-hedgehog-render-abuse-aware-grunt-thank-sponsor-edge-judge-obtain
 bip_39_word_dash_12: phrase-hedgehog-render-abuse-aware-grunt-thank-sponsor-edge-judge-obtain-arena
 bip_39_word_dash_2: phrase-hedgehog
 bip_39_word_dash_3: phrase-hedgehog-render
-bip_39_word_dash_4: phrase-hedgehog-render-abuse
-bip_39_word_dash_5: phrase-hedgehog-render-abuse-aware
-bip_39_word_dash_6: phrase-hedgehog-render-abuse-aware-grunt
-bip_39_word_dash_7: phrase-hedgehog-render-abuse-aware-grunt-thank
-bip_39_word_dash_8: phrase-hedgehog-render-abuse-aware-grunt-thank-sponsor
-bip_39_word_dash_9: phrase-hedgehog-render-abuse-aware-grunt-thank-sponsor-edge
-bip_39_word_new_br_1: phrase
-bip_39_word_new_br_10: phrase<br>hedgehog<br>render<br>abuse<br>aware<br>grunt<br>thank<br>sponsor<br>edge<br>judge
-bip_39_word_new_br_11: phrase<br>hedgehog<br>render<br>abuse<br>aware<br>grunt<br>thank<br>sponsor<br>edge<br>judge<br>obtain
 bip_39_word_new_br_12: phrase<br>hedgehog<br>render<br>abuse<br>aware<br>grunt<br>thank<br>sponsor<br>edge<br>judge<br>obtain<br>arena
 bip_39_word_new_br_2: phrase<br>hedgehog
 bip_39_word_new_br_3: phrase<br>hedgehog<br>render
-bip_39_word_new_br_4: phrase<br>hedgehog<br>render<br>abuse
-bip_39_word_new_br_5: phrase<br>hedgehog<br>render<br>abuse<br>aware
-bip_39_word_new_br_6: phrase<br>hedgehog<br>render<br>abuse<br>aware<br>grunt
-bip_39_word_new_br_7: phrase<br>hedgehog<br>render<br>abuse<br>aware<br>grunt<br>thank
-bip_39_word_new_br_8: phrase<br>hedgehog<br>render<br>abuse<br>aware<br>grunt<br>thank<br>sponsor
-bip_39_word_new_br_9: phrase<br>hedgehog<br>render<br>abuse<br>aware<br>grunt<br>thank<br>sponsor<br>edge
-bip_39_word_new_line_1: phrase
-bip_39_word_new_line_10: 'phrase
-
-  hedgehog
-
-  render
-
-  abuse
-
-  aware
-
-  grunt
-
-  thank
-
-  sponsor
-
-  edge
-
-  judge'
-bip_39_word_new_line_11: 'phrase
-
-  hedgehog
-
-  render
-
-  abuse
-
-  aware
-
-  grunt
-
-  thank
-
-  sponsor
-
-  edge
-
-  judge
-
-  obtain'
 bip_39_word_new_line_12: 'phrase
 
   hedgehog
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'phrase
   hedgehog
 
   render'
-bip_39_word_new_line_4: 'phrase
-
-  hedgehog
-
-  render
-
-  abuse'
-bip_39_word_new_line_5: 'phrase
-
-  hedgehog
-
-  render
-
-  abuse
-
-  aware'
-bip_39_word_new_line_6: 'phrase
-
-  hedgehog
-
-  render
-
-  abuse
-
-  aware
-
-  grunt'
-bip_39_word_new_line_7: 'phrase
-
-  hedgehog
-
-  render
-
-  abuse
-
-  aware
-
-  grunt
-
-  thank'
-bip_39_word_new_line_8: 'phrase
-
-  hedgehog
-
-  render
-
-  abuse
-
-  aware
-
-  grunt
-
-  thank
-
-  sponsor'
-bip_39_word_new_line_9: 'phrase
-
-  hedgehog
-
-  render
-
-  abuse
-
-  aware
-
-  grunt
-
-  thank
-
-  sponsor
-
-  edge'
-bip_39_word_no_space_1: phrase
-bip_39_word_no_space_10: phrasehedgehogrenderabuseawaregruntthanksponsoredgejudge
-bip_39_word_no_space_11: phrasehedgehogrenderabuseawaregruntthanksponsoredgejudgeobtain
 bip_39_word_no_space_12: phrasehedgehogrenderabuseawaregruntthanksponsoredgejudgeobtainarena
 bip_39_word_no_space_2: phrasehedgehog
 bip_39_word_no_space_3: phrasehedgehogrender
-bip_39_word_no_space_4: phrasehedgehogrenderabuse
-bip_39_word_no_space_5: phrasehedgehogrenderabuseaware
-bip_39_word_no_space_6: phrasehedgehogrenderabuseawaregrunt
-bip_39_word_no_space_7: phrasehedgehogrenderabuseawaregruntthank
-bip_39_word_no_space_8: phrasehedgehogrenderabuseawaregruntthanksponsor
-bip_39_word_no_space_9: phrasehedgehogrenderabuseawaregruntthanksponsoredge
-bip_39_word_space_0:
-- phrase
-- hedgehog
-- render
-- abuse
-- aware
-- grunt
-- thank
-- sponsor
-- edge
-- judge
-- obtain
-- arena
-bip_39_word_space_1: phrase
-bip_39_word_space_10: phrase hedgehog render abuse aware grunt thank sponsor edge
-  judge
-bip_39_word_space_11: phrase hedgehog render abuse aware grunt thank sponsor edge
-  judge obtain
 bip_39_word_space_12: phrase hedgehog render abuse aware grunt thank sponsor edge
   judge obtain arena
 bip_39_word_space_2: phrase hedgehog
 bip_39_word_space_3: phrase hedgehog render
-bip_39_word_space_4: phrase hedgehog render abuse
-bip_39_word_space_5: phrase hedgehog render abuse aware
-bip_39_word_space_6: phrase hedgehog render abuse aware grunt
-bip_39_word_space_7: phrase hedgehog render abuse aware grunt thank
-bip_39_word_space_8: phrase hedgehog render abuse aware grunt thank sponsor
-bip_39_word_space_9: phrase hedgehog render abuse aware grunt thank sponsor edge
-bip_39_word_underscore_1: phrase
-bip_39_word_underscore_10: phrase_hedgehog_render_abuse_aware_grunt_thank_sponsor_edge_judge
-bip_39_word_underscore_11: phrase_hedgehog_render_abuse_aware_grunt_thank_sponsor_edge_judge_obtain
 bip_39_word_underscore_12: phrase_hedgehog_render_abuse_aware_grunt_thank_sponsor_edge_judge_obtain_arena
 bip_39_word_underscore_2: phrase_hedgehog
 bip_39_word_underscore_3: phrase_hedgehog_render
-bip_39_word_underscore_4: phrase_hedgehog_render_abuse
-bip_39_word_underscore_5: phrase_hedgehog_render_abuse_aware
-bip_39_word_underscore_6: phrase_hedgehog_render_abuse_aware_grunt
-bip_39_word_underscore_7: phrase_hedgehog_render_abuse_aware_grunt_thank
-bip_39_word_underscore_8: phrase_hedgehog_render_abuse_aware_grunt_thank_sponsor
-bip_39_word_underscore_9: phrase_hedgehog_render_abuse_aware_grunt_thank_sponsor_edge
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

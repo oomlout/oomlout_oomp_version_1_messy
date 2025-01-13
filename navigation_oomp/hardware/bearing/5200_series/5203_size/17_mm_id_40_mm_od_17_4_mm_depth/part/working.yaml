@@ -1,68 +1,9 @@
-bip_39_word_dash_1: match
-bip_39_word_dash_10: match-purchase-grunt-satisfy-midnight-replace-improve-weekend-bullet-side
-bip_39_word_dash_11: match-purchase-grunt-satisfy-midnight-replace-improve-weekend-bullet-side-average
 bip_39_word_dash_12: match-purchase-grunt-satisfy-midnight-replace-improve-weekend-bullet-side-average-auction
 bip_39_word_dash_2: match-purchase
 bip_39_word_dash_3: match-purchase-grunt
-bip_39_word_dash_4: match-purchase-grunt-satisfy
-bip_39_word_dash_5: match-purchase-grunt-satisfy-midnight
-bip_39_word_dash_6: match-purchase-grunt-satisfy-midnight-replace
-bip_39_word_dash_7: match-purchase-grunt-satisfy-midnight-replace-improve
-bip_39_word_dash_8: match-purchase-grunt-satisfy-midnight-replace-improve-weekend
-bip_39_word_dash_9: match-purchase-grunt-satisfy-midnight-replace-improve-weekend-bullet
-bip_39_word_new_br_1: match
-bip_39_word_new_br_10: match<br>purchase<br>grunt<br>satisfy<br>midnight<br>replace<br>improve<br>weekend<br>bullet<br>side
-bip_39_word_new_br_11: match<br>purchase<br>grunt<br>satisfy<br>midnight<br>replace<br>improve<br>weekend<br>bullet<br>side<br>average
 bip_39_word_new_br_12: match<br>purchase<br>grunt<br>satisfy<br>midnight<br>replace<br>improve<br>weekend<br>bullet<br>side<br>average<br>auction
 bip_39_word_new_br_2: match<br>purchase
 bip_39_word_new_br_3: match<br>purchase<br>grunt
-bip_39_word_new_br_4: match<br>purchase<br>grunt<br>satisfy
-bip_39_word_new_br_5: match<br>purchase<br>grunt<br>satisfy<br>midnight
-bip_39_word_new_br_6: match<br>purchase<br>grunt<br>satisfy<br>midnight<br>replace
-bip_39_word_new_br_7: match<br>purchase<br>grunt<br>satisfy<br>midnight<br>replace<br>improve
-bip_39_word_new_br_8: match<br>purchase<br>grunt<br>satisfy<br>midnight<br>replace<br>improve<br>weekend
-bip_39_word_new_br_9: match<br>purchase<br>grunt<br>satisfy<br>midnight<br>replace<br>improve<br>weekend<br>bullet
-bip_39_word_new_line_1: match
-bip_39_word_new_line_10: 'match
-
-  purchase
-
-  grunt
-
-  satisfy
-
-  midnight
-
-  replace
-
-  improve
-
-  weekend
-
-  bullet
-
-  side'
-bip_39_word_new_line_11: 'match
-
-  purchase
-
-  grunt
-
-  satisfy
-
-  midnight
-
-  replace
-
-  improve
-
-  weekend
-
-  bullet
-
-  side
-
-  average'
 bip_39_word_new_line_12: 'match
 
   purchase
@@ -94,131 +35,16 @@ bip_39_word_new_line_3: 'match
   purchase
 
   grunt'
-bip_39_word_new_line_4: 'match
-
-  purchase
-
-  grunt
-
-  satisfy'
-bip_39_word_new_line_5: 'match
-
-  purchase
-
-  grunt
-
-  satisfy
-
-  midnight'
-bip_39_word_new_line_6: 'match
-
-  purchase
-
-  grunt
-
-  satisfy
-
-  midnight
-
-  replace'
-bip_39_word_new_line_7: 'match
-
-  purchase
-
-  grunt
-
-  satisfy
-
-  midnight
-
-  replace
-
-  improve'
-bip_39_word_new_line_8: 'match
-
-  purchase
-
-  grunt
-
-  satisfy
-
-  midnight
-
-  replace
-
-  improve
-
-  weekend'
-bip_39_word_new_line_9: 'match
-
-  purchase
-
-  grunt
-
-  satisfy
-
-  midnight
-
-  replace
-
-  improve
-
-  weekend
-
-  bullet'
-bip_39_word_no_space_1: match
-bip_39_word_no_space_10: matchpurchasegruntsatisfymidnightreplaceimproveweekendbulletside
-bip_39_word_no_space_11: matchpurchasegruntsatisfymidnightreplaceimproveweekendbulletsideaverage
 bip_39_word_no_space_12: matchpurchasegruntsatisfymidnightreplaceimproveweekendbulletsideaverageauction
 bip_39_word_no_space_2: matchpurchase
 bip_39_word_no_space_3: matchpurchasegrunt
-bip_39_word_no_space_4: matchpurchasegruntsatisfy
-bip_39_word_no_space_5: matchpurchasegruntsatisfymidnight
-bip_39_word_no_space_6: matchpurchasegruntsatisfymidnightreplace
-bip_39_word_no_space_7: matchpurchasegruntsatisfymidnightreplaceimprove
-bip_39_word_no_space_8: matchpurchasegruntsatisfymidnightreplaceimproveweekend
-bip_39_word_no_space_9: matchpurchasegruntsatisfymidnightreplaceimproveweekendbullet
-bip_39_word_space_0:
-- match
-- purchase
-- grunt
-- satisfy
-- midnight
-- replace
-- improve
-- weekend
-- bullet
-- side
-- average
-- auction
-bip_39_word_space_1: match
-bip_39_word_space_10: match purchase grunt satisfy midnight replace improve weekend
-  bullet side
-bip_39_word_space_11: match purchase grunt satisfy midnight replace improve weekend
-  bullet side average
 bip_39_word_space_12: match purchase grunt satisfy midnight replace improve weekend
   bullet side average auction
 bip_39_word_space_2: match purchase
 bip_39_word_space_3: match purchase grunt
-bip_39_word_space_4: match purchase grunt satisfy
-bip_39_word_space_5: match purchase grunt satisfy midnight
-bip_39_word_space_6: match purchase grunt satisfy midnight replace
-bip_39_word_space_7: match purchase grunt satisfy midnight replace improve
-bip_39_word_space_8: match purchase grunt satisfy midnight replace improve weekend
-bip_39_word_space_9: match purchase grunt satisfy midnight replace improve weekend
-  bullet
-bip_39_word_underscore_1: match
-bip_39_word_underscore_10: match_purchase_grunt_satisfy_midnight_replace_improve_weekend_bullet_side
-bip_39_word_underscore_11: match_purchase_grunt_satisfy_midnight_replace_improve_weekend_bullet_side_average
 bip_39_word_underscore_12: match_purchase_grunt_satisfy_midnight_replace_improve_weekend_bullet_side_average_auction
 bip_39_word_underscore_2: match_purchase
 bip_39_word_underscore_3: match_purchase_grunt
-bip_39_word_underscore_4: match_purchase_grunt_satisfy
-bip_39_word_underscore_5: match_purchase_grunt_satisfy_midnight
-bip_39_word_underscore_6: match_purchase_grunt_satisfy_midnight_replace
-bip_39_word_underscore_7: match_purchase_grunt_satisfy_midnight_replace_improve
-bip_39_word_underscore_8: match_purchase_grunt_satisfy_midnight_replace_improve_weekend
-bip_39_word_underscore_9: match_purchase_grunt_satisfy_midnight_replace_improve_weekend_bullet
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

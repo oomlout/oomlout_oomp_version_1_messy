@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dog
-bip_39_word_dash_10: dog-cruise-grit-harvest-rookie-left-okay-science-remember-crush
-bip_39_word_dash_11: dog-cruise-grit-harvest-rookie-left-okay-science-remember-crush-elevator
 bip_39_word_dash_12: dog-cruise-grit-harvest-rookie-left-okay-science-remember-crush-elevator-already
 bip_39_word_dash_2: dog-cruise
 bip_39_word_dash_3: dog-cruise-grit
-bip_39_word_dash_4: dog-cruise-grit-harvest
-bip_39_word_dash_5: dog-cruise-grit-harvest-rookie
-bip_39_word_dash_6: dog-cruise-grit-harvest-rookie-left
-bip_39_word_dash_7: dog-cruise-grit-harvest-rookie-left-okay
-bip_39_word_dash_8: dog-cruise-grit-harvest-rookie-left-okay-science
-bip_39_word_dash_9: dog-cruise-grit-harvest-rookie-left-okay-science-remember
-bip_39_word_new_br_1: dog
-bip_39_word_new_br_10: dog<br>cruise<br>grit<br>harvest<br>rookie<br>left<br>okay<br>science<br>remember<br>crush
-bip_39_word_new_br_11: dog<br>cruise<br>grit<br>harvest<br>rookie<br>left<br>okay<br>science<br>remember<br>crush<br>elevator
 bip_39_word_new_br_12: dog<br>cruise<br>grit<br>harvest<br>rookie<br>left<br>okay<br>science<br>remember<br>crush<br>elevator<br>already
 bip_39_word_new_br_2: dog<br>cruise
 bip_39_word_new_br_3: dog<br>cruise<br>grit
-bip_39_word_new_br_4: dog<br>cruise<br>grit<br>harvest
-bip_39_word_new_br_5: dog<br>cruise<br>grit<br>harvest<br>rookie
-bip_39_word_new_br_6: dog<br>cruise<br>grit<br>harvest<br>rookie<br>left
-bip_39_word_new_br_7: dog<br>cruise<br>grit<br>harvest<br>rookie<br>left<br>okay
-bip_39_word_new_br_8: dog<br>cruise<br>grit<br>harvest<br>rookie<br>left<br>okay<br>science
-bip_39_word_new_br_9: dog<br>cruise<br>grit<br>harvest<br>rookie<br>left<br>okay<br>science<br>remember
-bip_39_word_new_line_1: dog
-bip_39_word_new_line_10: 'dog
-
-  cruise
-
-  grit
-
-  harvest
-
-  rookie
-
-  left
-
-  okay
-
-  science
-
-  remember
-
-  crush'
-bip_39_word_new_line_11: 'dog
-
-  cruise
-
-  grit
-
-  harvest
-
-  rookie
-
-  left
-
-  okay
-
-  science
-
-  remember
-
-  crush
-
-  elevator'
 bip_39_word_new_line_12: 'dog
 
   cruise
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dog
   cruise
 
   grit'
-bip_39_word_new_line_4: 'dog
-
-  cruise
-
-  grit
-
-  harvest'
-bip_39_word_new_line_5: 'dog
-
-  cruise
-
-  grit
-
-  harvest
-
-  rookie'
-bip_39_word_new_line_6: 'dog
-
-  cruise
-
-  grit
-
-  harvest
-
-  rookie
-
-  left'
-bip_39_word_new_line_7: 'dog
-
-  cruise
-
-  grit
-
-  harvest
-
-  rookie
-
-  left
-
-  okay'
-bip_39_word_new_line_8: 'dog
-
-  cruise
-
-  grit
-
-  harvest
-
-  rookie
-
-  left
-
-  okay
-
-  science'
-bip_39_word_new_line_9: 'dog
-
-  cruise
-
-  grit
-
-  harvest
-
-  rookie
-
-  left
-
-  okay
-
-  science
-
-  remember'
-bip_39_word_no_space_1: dog
-bip_39_word_no_space_10: dogcruisegritharvestrookieleftokayscienceremembercrush
-bip_39_word_no_space_11: dogcruisegritharvestrookieleftokayscienceremembercrushelevator
 bip_39_word_no_space_12: dogcruisegritharvestrookieleftokayscienceremembercrushelevatoralready
 bip_39_word_no_space_2: dogcruise
 bip_39_word_no_space_3: dogcruisegrit
-bip_39_word_no_space_4: dogcruisegritharvest
-bip_39_word_no_space_5: dogcruisegritharvestrookie
-bip_39_word_no_space_6: dogcruisegritharvestrookieleft
-bip_39_word_no_space_7: dogcruisegritharvestrookieleftokay
-bip_39_word_no_space_8: dogcruisegritharvestrookieleftokayscience
-bip_39_word_no_space_9: dogcruisegritharvestrookieleftokayscienceremember
-bip_39_word_space_0:
-- dog
-- cruise
-- grit
-- harvest
-- rookie
-- left
-- okay
-- science
-- remember
-- crush
-- elevator
-- already
-bip_39_word_space_1: dog
-bip_39_word_space_10: dog cruise grit harvest rookie left okay science remember crush
-bip_39_word_space_11: dog cruise grit harvest rookie left okay science remember crush
-  elevator
 bip_39_word_space_12: dog cruise grit harvest rookie left okay science remember crush
   elevator already
 bip_39_word_space_2: dog cruise
 bip_39_word_space_3: dog cruise grit
-bip_39_word_space_4: dog cruise grit harvest
-bip_39_word_space_5: dog cruise grit harvest rookie
-bip_39_word_space_6: dog cruise grit harvest rookie left
-bip_39_word_space_7: dog cruise grit harvest rookie left okay
-bip_39_word_space_8: dog cruise grit harvest rookie left okay science
-bip_39_word_space_9: dog cruise grit harvest rookie left okay science remember
-bip_39_word_underscore_1: dog
-bip_39_word_underscore_10: dog_cruise_grit_harvest_rookie_left_okay_science_remember_crush
-bip_39_word_underscore_11: dog_cruise_grit_harvest_rookie_left_okay_science_remember_crush_elevator
 bip_39_word_underscore_12: dog_cruise_grit_harvest_rookie_left_okay_science_remember_crush_elevator_already
 bip_39_word_underscore_2: dog_cruise
 bip_39_word_underscore_3: dog_cruise_grit
-bip_39_word_underscore_4: dog_cruise_grit_harvest
-bip_39_word_underscore_5: dog_cruise_grit_harvest_rookie
-bip_39_word_underscore_6: dog_cruise_grit_harvest_rookie_left
-bip_39_word_underscore_7: dog_cruise_grit_harvest_rookie_left_okay
-bip_39_word_underscore_8: dog_cruise_grit_harvest_rookie_left_okay_science
-bip_39_word_underscore_9: dog_cruise_grit_harvest_rookie_left_okay_science_remember
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

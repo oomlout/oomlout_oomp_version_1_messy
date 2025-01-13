@@ -1,68 +1,9 @@
-bip_39_word_dash_1: state
-bip_39_word_dash_10: state-squirrel-vessel-length-gadget-gap-road-culture-post-siege
-bip_39_word_dash_11: state-squirrel-vessel-length-gadget-gap-road-culture-post-siege-gadget
 bip_39_word_dash_12: state-squirrel-vessel-length-gadget-gap-road-culture-post-siege-gadget-advance
 bip_39_word_dash_2: state-squirrel
 bip_39_word_dash_3: state-squirrel-vessel
-bip_39_word_dash_4: state-squirrel-vessel-length
-bip_39_word_dash_5: state-squirrel-vessel-length-gadget
-bip_39_word_dash_6: state-squirrel-vessel-length-gadget-gap
-bip_39_word_dash_7: state-squirrel-vessel-length-gadget-gap-road
-bip_39_word_dash_8: state-squirrel-vessel-length-gadget-gap-road-culture
-bip_39_word_dash_9: state-squirrel-vessel-length-gadget-gap-road-culture-post
-bip_39_word_new_br_1: state
-bip_39_word_new_br_10: state<br>squirrel<br>vessel<br>length<br>gadget<br>gap<br>road<br>culture<br>post<br>siege
-bip_39_word_new_br_11: state<br>squirrel<br>vessel<br>length<br>gadget<br>gap<br>road<br>culture<br>post<br>siege<br>gadget
 bip_39_word_new_br_12: state<br>squirrel<br>vessel<br>length<br>gadget<br>gap<br>road<br>culture<br>post<br>siege<br>gadget<br>advance
 bip_39_word_new_br_2: state<br>squirrel
 bip_39_word_new_br_3: state<br>squirrel<br>vessel
-bip_39_word_new_br_4: state<br>squirrel<br>vessel<br>length
-bip_39_word_new_br_5: state<br>squirrel<br>vessel<br>length<br>gadget
-bip_39_word_new_br_6: state<br>squirrel<br>vessel<br>length<br>gadget<br>gap
-bip_39_word_new_br_7: state<br>squirrel<br>vessel<br>length<br>gadget<br>gap<br>road
-bip_39_word_new_br_8: state<br>squirrel<br>vessel<br>length<br>gadget<br>gap<br>road<br>culture
-bip_39_word_new_br_9: state<br>squirrel<br>vessel<br>length<br>gadget<br>gap<br>road<br>culture<br>post
-bip_39_word_new_line_1: state
-bip_39_word_new_line_10: 'state
-
-  squirrel
-
-  vessel
-
-  length
-
-  gadget
-
-  gap
-
-  road
-
-  culture
-
-  post
-
-  siege'
-bip_39_word_new_line_11: 'state
-
-  squirrel
-
-  vessel
-
-  length
-
-  gadget
-
-  gap
-
-  road
-
-  culture
-
-  post
-
-  siege
-
-  gadget'
 bip_39_word_new_line_12: 'state
 
   squirrel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'state
   squirrel
 
   vessel'
-bip_39_word_new_line_4: 'state
-
-  squirrel
-
-  vessel
-
-  length'
-bip_39_word_new_line_5: 'state
-
-  squirrel
-
-  vessel
-
-  length
-
-  gadget'
-bip_39_word_new_line_6: 'state
-
-  squirrel
-
-  vessel
-
-  length
-
-  gadget
-
-  gap'
-bip_39_word_new_line_7: 'state
-
-  squirrel
-
-  vessel
-
-  length
-
-  gadget
-
-  gap
-
-  road'
-bip_39_word_new_line_8: 'state
-
-  squirrel
-
-  vessel
-
-  length
-
-  gadget
-
-  gap
-
-  road
-
-  culture'
-bip_39_word_new_line_9: 'state
-
-  squirrel
-
-  vessel
-
-  length
-
-  gadget
-
-  gap
-
-  road
-
-  culture
-
-  post'
-bip_39_word_no_space_1: state
-bip_39_word_no_space_10: statesquirrelvessellengthgadgetgaproadculturepostsiege
-bip_39_word_no_space_11: statesquirrelvessellengthgadgetgaproadculturepostsiegegadget
 bip_39_word_no_space_12: statesquirrelvessellengthgadgetgaproadculturepostsiegegadgetadvance
 bip_39_word_no_space_2: statesquirrel
 bip_39_word_no_space_3: statesquirrelvessel
-bip_39_word_no_space_4: statesquirrelvessellength
-bip_39_word_no_space_5: statesquirrelvessellengthgadget
-bip_39_word_no_space_6: statesquirrelvessellengthgadgetgap
-bip_39_word_no_space_7: statesquirrelvessellengthgadgetgaproad
-bip_39_word_no_space_8: statesquirrelvessellengthgadgetgaproadculture
-bip_39_word_no_space_9: statesquirrelvessellengthgadgetgaproadculturepost
-bip_39_word_space_0:
-- state
-- squirrel
-- vessel
-- length
-- gadget
-- gap
-- road
-- culture
-- post
-- siege
-- gadget
-- advance
-bip_39_word_space_1: state
-bip_39_word_space_10: state squirrel vessel length gadget gap road culture post siege
-bip_39_word_space_11: state squirrel vessel length gadget gap road culture post siege
-  gadget
 bip_39_word_space_12: state squirrel vessel length gadget gap road culture post siege
   gadget advance
 bip_39_word_space_2: state squirrel
 bip_39_word_space_3: state squirrel vessel
-bip_39_word_space_4: state squirrel vessel length
-bip_39_word_space_5: state squirrel vessel length gadget
-bip_39_word_space_6: state squirrel vessel length gadget gap
-bip_39_word_space_7: state squirrel vessel length gadget gap road
-bip_39_word_space_8: state squirrel vessel length gadget gap road culture
-bip_39_word_space_9: state squirrel vessel length gadget gap road culture post
-bip_39_word_underscore_1: state
-bip_39_word_underscore_10: state_squirrel_vessel_length_gadget_gap_road_culture_post_siege
-bip_39_word_underscore_11: state_squirrel_vessel_length_gadget_gap_road_culture_post_siege_gadget
 bip_39_word_underscore_12: state_squirrel_vessel_length_gadget_gap_road_culture_post_siege_gadget_advance
 bip_39_word_underscore_2: state_squirrel
 bip_39_word_underscore_3: state_squirrel_vessel
-bip_39_word_underscore_4: state_squirrel_vessel_length
-bip_39_word_underscore_5: state_squirrel_vessel_length_gadget
-bip_39_word_underscore_6: state_squirrel_vessel_length_gadget_gap
-bip_39_word_underscore_7: state_squirrel_vessel_length_gadget_gap_road
-bip_39_word_underscore_8: state_squirrel_vessel_length_gadget_gap_road_culture
-bip_39_word_underscore_9: state_squirrel_vessel_length_gadget_gap_road_culture_post
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

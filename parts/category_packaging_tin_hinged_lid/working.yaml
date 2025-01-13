@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scrub
-bip_39_word_dash_10: scrub-bid-knock-saddle-bullet-seminar-system-rare-bid-delay
-bip_39_word_dash_11: scrub-bid-knock-saddle-bullet-seminar-system-rare-bid-delay-correct
 bip_39_word_dash_12: scrub-bid-knock-saddle-bullet-seminar-system-rare-bid-delay-correct-army
 bip_39_word_dash_2: scrub-bid
 bip_39_word_dash_3: scrub-bid-knock
-bip_39_word_dash_4: scrub-bid-knock-saddle
-bip_39_word_dash_5: scrub-bid-knock-saddle-bullet
-bip_39_word_dash_6: scrub-bid-knock-saddle-bullet-seminar
-bip_39_word_dash_7: scrub-bid-knock-saddle-bullet-seminar-system
-bip_39_word_dash_8: scrub-bid-knock-saddle-bullet-seminar-system-rare
-bip_39_word_dash_9: scrub-bid-knock-saddle-bullet-seminar-system-rare-bid
-bip_39_word_new_br_1: scrub
-bip_39_word_new_br_10: scrub<br>bid<br>knock<br>saddle<br>bullet<br>seminar<br>system<br>rare<br>bid<br>delay
-bip_39_word_new_br_11: scrub<br>bid<br>knock<br>saddle<br>bullet<br>seminar<br>system<br>rare<br>bid<br>delay<br>correct
 bip_39_word_new_br_12: scrub<br>bid<br>knock<br>saddle<br>bullet<br>seminar<br>system<br>rare<br>bid<br>delay<br>correct<br>army
 bip_39_word_new_br_2: scrub<br>bid
 bip_39_word_new_br_3: scrub<br>bid<br>knock
-bip_39_word_new_br_4: scrub<br>bid<br>knock<br>saddle
-bip_39_word_new_br_5: scrub<br>bid<br>knock<br>saddle<br>bullet
-bip_39_word_new_br_6: scrub<br>bid<br>knock<br>saddle<br>bullet<br>seminar
-bip_39_word_new_br_7: scrub<br>bid<br>knock<br>saddle<br>bullet<br>seminar<br>system
-bip_39_word_new_br_8: scrub<br>bid<br>knock<br>saddle<br>bullet<br>seminar<br>system<br>rare
-bip_39_word_new_br_9: scrub<br>bid<br>knock<br>saddle<br>bullet<br>seminar<br>system<br>rare<br>bid
-bip_39_word_new_line_1: scrub
-bip_39_word_new_line_10: 'scrub
-
-  bid
-
-  knock
-
-  saddle
-
-  bullet
-
-  seminar
-
-  system
-
-  rare
-
-  bid
-
-  delay'
-bip_39_word_new_line_11: 'scrub
-
-  bid
-
-  knock
-
-  saddle
-
-  bullet
-
-  seminar
-
-  system
-
-  rare
-
-  bid
-
-  delay
-
-  correct'
 bip_39_word_new_line_12: 'scrub
 
   bid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scrub
   bid
 
   knock'
-bip_39_word_new_line_4: 'scrub
-
-  bid
-
-  knock
-
-  saddle'
-bip_39_word_new_line_5: 'scrub
-
-  bid
-
-  knock
-
-  saddle
-
-  bullet'
-bip_39_word_new_line_6: 'scrub
-
-  bid
-
-  knock
-
-  saddle
-
-  bullet
-
-  seminar'
-bip_39_word_new_line_7: 'scrub
-
-  bid
-
-  knock
-
-  saddle
-
-  bullet
-
-  seminar
-
-  system'
-bip_39_word_new_line_8: 'scrub
-
-  bid
-
-  knock
-
-  saddle
-
-  bullet
-
-  seminar
-
-  system
-
-  rare'
-bip_39_word_new_line_9: 'scrub
-
-  bid
-
-  knock
-
-  saddle
-
-  bullet
-
-  seminar
-
-  system
-
-  rare
-
-  bid'
-bip_39_word_no_space_1: scrub
-bip_39_word_no_space_10: scrubbidknocksaddlebulletseminarsystemrarebiddelay
-bip_39_word_no_space_11: scrubbidknocksaddlebulletseminarsystemrarebiddelaycorrect
 bip_39_word_no_space_12: scrubbidknocksaddlebulletseminarsystemrarebiddelaycorrectarmy
 bip_39_word_no_space_2: scrubbid
 bip_39_word_no_space_3: scrubbidknock
-bip_39_word_no_space_4: scrubbidknocksaddle
-bip_39_word_no_space_5: scrubbidknocksaddlebullet
-bip_39_word_no_space_6: scrubbidknocksaddlebulletseminar
-bip_39_word_no_space_7: scrubbidknocksaddlebulletseminarsystem
-bip_39_word_no_space_8: scrubbidknocksaddlebulletseminarsystemrare
-bip_39_word_no_space_9: scrubbidknocksaddlebulletseminarsystemrarebid
-bip_39_word_space_0:
-- scrub
-- bid
-- knock
-- saddle
-- bullet
-- seminar
-- system
-- rare
-- bid
-- delay
-- correct
-- army
-bip_39_word_space_1: scrub
-bip_39_word_space_10: scrub bid knock saddle bullet seminar system rare bid delay
-bip_39_word_space_11: scrub bid knock saddle bullet seminar system rare bid delay
-  correct
 bip_39_word_space_12: scrub bid knock saddle bullet seminar system rare bid delay
   correct army
 bip_39_word_space_2: scrub bid
 bip_39_word_space_3: scrub bid knock
-bip_39_word_space_4: scrub bid knock saddle
-bip_39_word_space_5: scrub bid knock saddle bullet
-bip_39_word_space_6: scrub bid knock saddle bullet seminar
-bip_39_word_space_7: scrub bid knock saddle bullet seminar system
-bip_39_word_space_8: scrub bid knock saddle bullet seminar system rare
-bip_39_word_space_9: scrub bid knock saddle bullet seminar system rare bid
-bip_39_word_underscore_1: scrub
-bip_39_word_underscore_10: scrub_bid_knock_saddle_bullet_seminar_system_rare_bid_delay
-bip_39_word_underscore_11: scrub_bid_knock_saddle_bullet_seminar_system_rare_bid_delay_correct
 bip_39_word_underscore_12: scrub_bid_knock_saddle_bullet_seminar_system_rare_bid_delay_correct_army
 bip_39_word_underscore_2: scrub_bid
 bip_39_word_underscore_3: scrub_bid_knock
-bip_39_word_underscore_4: scrub_bid_knock_saddle
-bip_39_word_underscore_5: scrub_bid_knock_saddle_bullet
-bip_39_word_underscore_6: scrub_bid_knock_saddle_bullet_seminar
-bip_39_word_underscore_7: scrub_bid_knock_saddle_bullet_seminar_system
-bip_39_word_underscore_8: scrub_bid_knock_saddle_bullet_seminar_system_rare
-bip_39_word_underscore_9: scrub_bid_knock_saddle_bullet_seminar_system_rare_bid
 classification: category
 classification_capital: Category
 classification_first_letter: c

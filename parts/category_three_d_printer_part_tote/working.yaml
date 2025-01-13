@@ -1,68 +1,9 @@
-bip_39_word_dash_1: anchor
-bip_39_word_dash_10: anchor-confirm-inspire-dinner-badge-desk-phrase-flip-paper-family
-bip_39_word_dash_11: anchor-confirm-inspire-dinner-badge-desk-phrase-flip-paper-family-auto
 bip_39_word_dash_12: anchor-confirm-inspire-dinner-badge-desk-phrase-flip-paper-family-auto-alert
 bip_39_word_dash_2: anchor-confirm
 bip_39_word_dash_3: anchor-confirm-inspire
-bip_39_word_dash_4: anchor-confirm-inspire-dinner
-bip_39_word_dash_5: anchor-confirm-inspire-dinner-badge
-bip_39_word_dash_6: anchor-confirm-inspire-dinner-badge-desk
-bip_39_word_dash_7: anchor-confirm-inspire-dinner-badge-desk-phrase
-bip_39_word_dash_8: anchor-confirm-inspire-dinner-badge-desk-phrase-flip
-bip_39_word_dash_9: anchor-confirm-inspire-dinner-badge-desk-phrase-flip-paper
-bip_39_word_new_br_1: anchor
-bip_39_word_new_br_10: anchor<br>confirm<br>inspire<br>dinner<br>badge<br>desk<br>phrase<br>flip<br>paper<br>family
-bip_39_word_new_br_11: anchor<br>confirm<br>inspire<br>dinner<br>badge<br>desk<br>phrase<br>flip<br>paper<br>family<br>auto
 bip_39_word_new_br_12: anchor<br>confirm<br>inspire<br>dinner<br>badge<br>desk<br>phrase<br>flip<br>paper<br>family<br>auto<br>alert
 bip_39_word_new_br_2: anchor<br>confirm
 bip_39_word_new_br_3: anchor<br>confirm<br>inspire
-bip_39_word_new_br_4: anchor<br>confirm<br>inspire<br>dinner
-bip_39_word_new_br_5: anchor<br>confirm<br>inspire<br>dinner<br>badge
-bip_39_word_new_br_6: anchor<br>confirm<br>inspire<br>dinner<br>badge<br>desk
-bip_39_word_new_br_7: anchor<br>confirm<br>inspire<br>dinner<br>badge<br>desk<br>phrase
-bip_39_word_new_br_8: anchor<br>confirm<br>inspire<br>dinner<br>badge<br>desk<br>phrase<br>flip
-bip_39_word_new_br_9: anchor<br>confirm<br>inspire<br>dinner<br>badge<br>desk<br>phrase<br>flip<br>paper
-bip_39_word_new_line_1: anchor
-bip_39_word_new_line_10: 'anchor
-
-  confirm
-
-  inspire
-
-  dinner
-
-  badge
-
-  desk
-
-  phrase
-
-  flip
-
-  paper
-
-  family'
-bip_39_word_new_line_11: 'anchor
-
-  confirm
-
-  inspire
-
-  dinner
-
-  badge
-
-  desk
-
-  phrase
-
-  flip
-
-  paper
-
-  family
-
-  auto'
 bip_39_word_new_line_12: 'anchor
 
   confirm
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'anchor
   confirm
 
   inspire'
-bip_39_word_new_line_4: 'anchor
-
-  confirm
-
-  inspire
-
-  dinner'
-bip_39_word_new_line_5: 'anchor
-
-  confirm
-
-  inspire
-
-  dinner
-
-  badge'
-bip_39_word_new_line_6: 'anchor
-
-  confirm
-
-  inspire
-
-  dinner
-
-  badge
-
-  desk'
-bip_39_word_new_line_7: 'anchor
-
-  confirm
-
-  inspire
-
-  dinner
-
-  badge
-
-  desk
-
-  phrase'
-bip_39_word_new_line_8: 'anchor
-
-  confirm
-
-  inspire
-
-  dinner
-
-  badge
-
-  desk
-
-  phrase
-
-  flip'
-bip_39_word_new_line_9: 'anchor
-
-  confirm
-
-  inspire
-
-  dinner
-
-  badge
-
-  desk
-
-  phrase
-
-  flip
-
-  paper'
-bip_39_word_no_space_1: anchor
-bip_39_word_no_space_10: anchorconfirminspiredinnerbadgedeskphraseflippaperfamily
-bip_39_word_no_space_11: anchorconfirminspiredinnerbadgedeskphraseflippaperfamilyauto
 bip_39_word_no_space_12: anchorconfirminspiredinnerbadgedeskphraseflippaperfamilyautoalert
 bip_39_word_no_space_2: anchorconfirm
 bip_39_word_no_space_3: anchorconfirminspire
-bip_39_word_no_space_4: anchorconfirminspiredinner
-bip_39_word_no_space_5: anchorconfirminspiredinnerbadge
-bip_39_word_no_space_6: anchorconfirminspiredinnerbadgedesk
-bip_39_word_no_space_7: anchorconfirminspiredinnerbadgedeskphrase
-bip_39_word_no_space_8: anchorconfirminspiredinnerbadgedeskphraseflip
-bip_39_word_no_space_9: anchorconfirminspiredinnerbadgedeskphraseflippaper
-bip_39_word_space_0:
-- anchor
-- confirm
-- inspire
-- dinner
-- badge
-- desk
-- phrase
-- flip
-- paper
-- family
-- auto
-- alert
-bip_39_word_space_1: anchor
-bip_39_word_space_10: anchor confirm inspire dinner badge desk phrase flip paper family
-bip_39_word_space_11: anchor confirm inspire dinner badge desk phrase flip paper family
-  auto
 bip_39_word_space_12: anchor confirm inspire dinner badge desk phrase flip paper family
   auto alert
 bip_39_word_space_2: anchor confirm
 bip_39_word_space_3: anchor confirm inspire
-bip_39_word_space_4: anchor confirm inspire dinner
-bip_39_word_space_5: anchor confirm inspire dinner badge
-bip_39_word_space_6: anchor confirm inspire dinner badge desk
-bip_39_word_space_7: anchor confirm inspire dinner badge desk phrase
-bip_39_word_space_8: anchor confirm inspire dinner badge desk phrase flip
-bip_39_word_space_9: anchor confirm inspire dinner badge desk phrase flip paper
-bip_39_word_underscore_1: anchor
-bip_39_word_underscore_10: anchor_confirm_inspire_dinner_badge_desk_phrase_flip_paper_family
-bip_39_word_underscore_11: anchor_confirm_inspire_dinner_badge_desk_phrase_flip_paper_family_auto
 bip_39_word_underscore_12: anchor_confirm_inspire_dinner_badge_desk_phrase_flip_paper_family_auto_alert
 bip_39_word_underscore_2: anchor_confirm
 bip_39_word_underscore_3: anchor_confirm_inspire
-bip_39_word_underscore_4: anchor_confirm_inspire_dinner
-bip_39_word_underscore_5: anchor_confirm_inspire_dinner_badge
-bip_39_word_underscore_6: anchor_confirm_inspire_dinner_badge_desk
-bip_39_word_underscore_7: anchor_confirm_inspire_dinner_badge_desk_phrase
-bip_39_word_underscore_8: anchor_confirm_inspire_dinner_badge_desk_phrase_flip
-bip_39_word_underscore_9: anchor_confirm_inspire_dinner_badge_desk_phrase_flip_paper
 classification: category
 classification_capital: Category
 classification_first_letter: c

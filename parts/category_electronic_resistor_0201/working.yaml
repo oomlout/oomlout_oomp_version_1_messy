@@ -1,68 +1,9 @@
-bip_39_word_dash_1: maze
-bip_39_word_dash_10: maze-useless-thunder-winter-habit-shallow-invite-vicious-throw-tooth
-bip_39_word_dash_11: maze-useless-thunder-winter-habit-shallow-invite-vicious-throw-tooth-valley
 bip_39_word_dash_12: maze-useless-thunder-winter-habit-shallow-invite-vicious-throw-tooth-valley-atom
 bip_39_word_dash_2: maze-useless
 bip_39_word_dash_3: maze-useless-thunder
-bip_39_word_dash_4: maze-useless-thunder-winter
-bip_39_word_dash_5: maze-useless-thunder-winter-habit
-bip_39_word_dash_6: maze-useless-thunder-winter-habit-shallow
-bip_39_word_dash_7: maze-useless-thunder-winter-habit-shallow-invite
-bip_39_word_dash_8: maze-useless-thunder-winter-habit-shallow-invite-vicious
-bip_39_word_dash_9: maze-useless-thunder-winter-habit-shallow-invite-vicious-throw
-bip_39_word_new_br_1: maze
-bip_39_word_new_br_10: maze<br>useless<br>thunder<br>winter<br>habit<br>shallow<br>invite<br>vicious<br>throw<br>tooth
-bip_39_word_new_br_11: maze<br>useless<br>thunder<br>winter<br>habit<br>shallow<br>invite<br>vicious<br>throw<br>tooth<br>valley
 bip_39_word_new_br_12: maze<br>useless<br>thunder<br>winter<br>habit<br>shallow<br>invite<br>vicious<br>throw<br>tooth<br>valley<br>atom
 bip_39_word_new_br_2: maze<br>useless
 bip_39_word_new_br_3: maze<br>useless<br>thunder
-bip_39_word_new_br_4: maze<br>useless<br>thunder<br>winter
-bip_39_word_new_br_5: maze<br>useless<br>thunder<br>winter<br>habit
-bip_39_word_new_br_6: maze<br>useless<br>thunder<br>winter<br>habit<br>shallow
-bip_39_word_new_br_7: maze<br>useless<br>thunder<br>winter<br>habit<br>shallow<br>invite
-bip_39_word_new_br_8: maze<br>useless<br>thunder<br>winter<br>habit<br>shallow<br>invite<br>vicious
-bip_39_word_new_br_9: maze<br>useless<br>thunder<br>winter<br>habit<br>shallow<br>invite<br>vicious<br>throw
-bip_39_word_new_line_1: maze
-bip_39_word_new_line_10: 'maze
-
-  useless
-
-  thunder
-
-  winter
-
-  habit
-
-  shallow
-
-  invite
-
-  vicious
-
-  throw
-
-  tooth'
-bip_39_word_new_line_11: 'maze
-
-  useless
-
-  thunder
-
-  winter
-
-  habit
-
-  shallow
-
-  invite
-
-  vicious
-
-  throw
-
-  tooth
-
-  valley'
 bip_39_word_new_line_12: 'maze
 
   useless
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'maze
   useless
 
   thunder'
-bip_39_word_new_line_4: 'maze
-
-  useless
-
-  thunder
-
-  winter'
-bip_39_word_new_line_5: 'maze
-
-  useless
-
-  thunder
-
-  winter
-
-  habit'
-bip_39_word_new_line_6: 'maze
-
-  useless
-
-  thunder
-
-  winter
-
-  habit
-
-  shallow'
-bip_39_word_new_line_7: 'maze
-
-  useless
-
-  thunder
-
-  winter
-
-  habit
-
-  shallow
-
-  invite'
-bip_39_word_new_line_8: 'maze
-
-  useless
-
-  thunder
-
-  winter
-
-  habit
-
-  shallow
-
-  invite
-
-  vicious'
-bip_39_word_new_line_9: 'maze
-
-  useless
-
-  thunder
-
-  winter
-
-  habit
-
-  shallow
-
-  invite
-
-  vicious
-
-  throw'
-bip_39_word_no_space_1: maze
-bip_39_word_no_space_10: mazeuselessthunderwinterhabitshallowinviteviciousthrowtooth
-bip_39_word_no_space_11: mazeuselessthunderwinterhabitshallowinviteviciousthrowtoothvalley
 bip_39_word_no_space_12: mazeuselessthunderwinterhabitshallowinviteviciousthrowtoothvalleyatom
 bip_39_word_no_space_2: mazeuseless
 bip_39_word_no_space_3: mazeuselessthunder
-bip_39_word_no_space_4: mazeuselessthunderwinter
-bip_39_word_no_space_5: mazeuselessthunderwinterhabit
-bip_39_word_no_space_6: mazeuselessthunderwinterhabitshallow
-bip_39_word_no_space_7: mazeuselessthunderwinterhabitshallowinvite
-bip_39_word_no_space_8: mazeuselessthunderwinterhabitshallowinvitevicious
-bip_39_word_no_space_9: mazeuselessthunderwinterhabitshallowinviteviciousthrow
-bip_39_word_space_0:
-- maze
-- useless
-- thunder
-- winter
-- habit
-- shallow
-- invite
-- vicious
-- throw
-- tooth
-- valley
-- atom
-bip_39_word_space_1: maze
-bip_39_word_space_10: maze useless thunder winter habit shallow invite vicious throw
-  tooth
-bip_39_word_space_11: maze useless thunder winter habit shallow invite vicious throw
-  tooth valley
 bip_39_word_space_12: maze useless thunder winter habit shallow invite vicious throw
   tooth valley atom
 bip_39_word_space_2: maze useless
 bip_39_word_space_3: maze useless thunder
-bip_39_word_space_4: maze useless thunder winter
-bip_39_word_space_5: maze useless thunder winter habit
-bip_39_word_space_6: maze useless thunder winter habit shallow
-bip_39_word_space_7: maze useless thunder winter habit shallow invite
-bip_39_word_space_8: maze useless thunder winter habit shallow invite vicious
-bip_39_word_space_9: maze useless thunder winter habit shallow invite vicious throw
-bip_39_word_underscore_1: maze
-bip_39_word_underscore_10: maze_useless_thunder_winter_habit_shallow_invite_vicious_throw_tooth
-bip_39_word_underscore_11: maze_useless_thunder_winter_habit_shallow_invite_vicious_throw_tooth_valley
 bip_39_word_underscore_12: maze_useless_thunder_winter_habit_shallow_invite_vicious_throw_tooth_valley_atom
 bip_39_word_underscore_2: maze_useless
 bip_39_word_underscore_3: maze_useless_thunder
-bip_39_word_underscore_4: maze_useless_thunder_winter
-bip_39_word_underscore_5: maze_useless_thunder_winter_habit
-bip_39_word_underscore_6: maze_useless_thunder_winter_habit_shallow
-bip_39_word_underscore_7: maze_useless_thunder_winter_habit_shallow_invite
-bip_39_word_underscore_8: maze_useless_thunder_winter_habit_shallow_invite_vicious
-bip_39_word_underscore_9: maze_useless_thunder_winter_habit_shallow_invite_vicious_throw
 classification: category
 classification_capital: Category
 classification_first_letter: c

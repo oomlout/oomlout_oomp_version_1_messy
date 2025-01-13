@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stone
-bip_39_word_dash_10: stone-spare-guard-fuel-mask-point-sunset-agent-urban-nest
-bip_39_word_dash_11: stone-spare-guard-fuel-mask-point-sunset-agent-urban-nest-century
 bip_39_word_dash_12: stone-spare-guard-fuel-mask-point-sunset-agent-urban-nest-century-aisle
 bip_39_word_dash_2: stone-spare
 bip_39_word_dash_3: stone-spare-guard
-bip_39_word_dash_4: stone-spare-guard-fuel
-bip_39_word_dash_5: stone-spare-guard-fuel-mask
-bip_39_word_dash_6: stone-spare-guard-fuel-mask-point
-bip_39_word_dash_7: stone-spare-guard-fuel-mask-point-sunset
-bip_39_word_dash_8: stone-spare-guard-fuel-mask-point-sunset-agent
-bip_39_word_dash_9: stone-spare-guard-fuel-mask-point-sunset-agent-urban
-bip_39_word_new_br_1: stone
-bip_39_word_new_br_10: stone<br>spare<br>guard<br>fuel<br>mask<br>point<br>sunset<br>agent<br>urban<br>nest
-bip_39_word_new_br_11: stone<br>spare<br>guard<br>fuel<br>mask<br>point<br>sunset<br>agent<br>urban<br>nest<br>century
 bip_39_word_new_br_12: stone<br>spare<br>guard<br>fuel<br>mask<br>point<br>sunset<br>agent<br>urban<br>nest<br>century<br>aisle
 bip_39_word_new_br_2: stone<br>spare
 bip_39_word_new_br_3: stone<br>spare<br>guard
-bip_39_word_new_br_4: stone<br>spare<br>guard<br>fuel
-bip_39_word_new_br_5: stone<br>spare<br>guard<br>fuel<br>mask
-bip_39_word_new_br_6: stone<br>spare<br>guard<br>fuel<br>mask<br>point
-bip_39_word_new_br_7: stone<br>spare<br>guard<br>fuel<br>mask<br>point<br>sunset
-bip_39_word_new_br_8: stone<br>spare<br>guard<br>fuel<br>mask<br>point<br>sunset<br>agent
-bip_39_word_new_br_9: stone<br>spare<br>guard<br>fuel<br>mask<br>point<br>sunset<br>agent<br>urban
-bip_39_word_new_line_1: stone
-bip_39_word_new_line_10: 'stone
-
-  spare
-
-  guard
-
-  fuel
-
-  mask
-
-  point
-
-  sunset
-
-  agent
-
-  urban
-
-  nest'
-bip_39_word_new_line_11: 'stone
-
-  spare
-
-  guard
-
-  fuel
-
-  mask
-
-  point
-
-  sunset
-
-  agent
-
-  urban
-
-  nest
-
-  century'
 bip_39_word_new_line_12: 'stone
 
   spare
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'stone
   spare
 
   guard'
-bip_39_word_new_line_4: 'stone
-
-  spare
-
-  guard
-
-  fuel'
-bip_39_word_new_line_5: 'stone
-
-  spare
-
-  guard
-
-  fuel
-
-  mask'
-bip_39_word_new_line_6: 'stone
-
-  spare
-
-  guard
-
-  fuel
-
-  mask
-
-  point'
-bip_39_word_new_line_7: 'stone
-
-  spare
-
-  guard
-
-  fuel
-
-  mask
-
-  point
-
-  sunset'
-bip_39_word_new_line_8: 'stone
-
-  spare
-
-  guard
-
-  fuel
-
-  mask
-
-  point
-
-  sunset
-
-  agent'
-bip_39_word_new_line_9: 'stone
-
-  spare
-
-  guard
-
-  fuel
-
-  mask
-
-  point
-
-  sunset
-
-  agent
-
-  urban'
-bip_39_word_no_space_1: stone
-bip_39_word_no_space_10: stonespareguardfuelmaskpointsunsetagenturbannest
-bip_39_word_no_space_11: stonespareguardfuelmaskpointsunsetagenturbannestcentury
 bip_39_word_no_space_12: stonespareguardfuelmaskpointsunsetagenturbannestcenturyaisle
 bip_39_word_no_space_2: stonespare
 bip_39_word_no_space_3: stonespareguard
-bip_39_word_no_space_4: stonespareguardfuel
-bip_39_word_no_space_5: stonespareguardfuelmask
-bip_39_word_no_space_6: stonespareguardfuelmaskpoint
-bip_39_word_no_space_7: stonespareguardfuelmaskpointsunset
-bip_39_word_no_space_8: stonespareguardfuelmaskpointsunsetagent
-bip_39_word_no_space_9: stonespareguardfuelmaskpointsunsetagenturban
-bip_39_word_space_0:
-- stone
-- spare
-- guard
-- fuel
-- mask
-- point
-- sunset
-- agent
-- urban
-- nest
-- century
-- aisle
-bip_39_word_space_1: stone
-bip_39_word_space_10: stone spare guard fuel mask point sunset agent urban nest
-bip_39_word_space_11: stone spare guard fuel mask point sunset agent urban nest century
 bip_39_word_space_12: stone spare guard fuel mask point sunset agent urban nest century
   aisle
 bip_39_word_space_2: stone spare
 bip_39_word_space_3: stone spare guard
-bip_39_word_space_4: stone spare guard fuel
-bip_39_word_space_5: stone spare guard fuel mask
-bip_39_word_space_6: stone spare guard fuel mask point
-bip_39_word_space_7: stone spare guard fuel mask point sunset
-bip_39_word_space_8: stone spare guard fuel mask point sunset agent
-bip_39_word_space_9: stone spare guard fuel mask point sunset agent urban
-bip_39_word_underscore_1: stone
-bip_39_word_underscore_10: stone_spare_guard_fuel_mask_point_sunset_agent_urban_nest
-bip_39_word_underscore_11: stone_spare_guard_fuel_mask_point_sunset_agent_urban_nest_century
 bip_39_word_underscore_12: stone_spare_guard_fuel_mask_point_sunset_agent_urban_nest_century_aisle
 bip_39_word_underscore_2: stone_spare
 bip_39_word_underscore_3: stone_spare_guard
-bip_39_word_underscore_4: stone_spare_guard_fuel
-bip_39_word_underscore_5: stone_spare_guard_fuel_mask
-bip_39_word_underscore_6: stone_spare_guard_fuel_mask_point
-bip_39_word_underscore_7: stone_spare_guard_fuel_mask_point_sunset
-bip_39_word_underscore_8: stone_spare_guard_fuel_mask_point_sunset_agent
-bip_39_word_underscore_9: stone_spare_guard_fuel_mask_point_sunset_agent_urban
 classification: category
 classification_capital: Category
 classification_first_letter: c

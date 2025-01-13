@@ -1,68 +1,9 @@
-bip_39_word_dash_1: 'true'
-bip_39_word_dash_10: true-creek-van-treat-squirrel-describe-crouch-stuff-fiction-nerve
-bip_39_word_dash_11: true-creek-van-treat-squirrel-describe-crouch-stuff-fiction-nerve-spider
 bip_39_word_dash_12: true-creek-van-treat-squirrel-describe-crouch-stuff-fiction-nerve-spider-art
 bip_39_word_dash_2: true-creek
 bip_39_word_dash_3: true-creek-van
-bip_39_word_dash_4: true-creek-van-treat
-bip_39_word_dash_5: true-creek-van-treat-squirrel
-bip_39_word_dash_6: true-creek-van-treat-squirrel-describe
-bip_39_word_dash_7: true-creek-van-treat-squirrel-describe-crouch
-bip_39_word_dash_8: true-creek-van-treat-squirrel-describe-crouch-stuff
-bip_39_word_dash_9: true-creek-van-treat-squirrel-describe-crouch-stuff-fiction
-bip_39_word_new_br_1: 'true'
-bip_39_word_new_br_10: true<br>creek<br>van<br>treat<br>squirrel<br>describe<br>crouch<br>stuff<br>fiction<br>nerve
-bip_39_word_new_br_11: true<br>creek<br>van<br>treat<br>squirrel<br>describe<br>crouch<br>stuff<br>fiction<br>nerve<br>spider
 bip_39_word_new_br_12: true<br>creek<br>van<br>treat<br>squirrel<br>describe<br>crouch<br>stuff<br>fiction<br>nerve<br>spider<br>art
 bip_39_word_new_br_2: true<br>creek
 bip_39_word_new_br_3: true<br>creek<br>van
-bip_39_word_new_br_4: true<br>creek<br>van<br>treat
-bip_39_word_new_br_5: true<br>creek<br>van<br>treat<br>squirrel
-bip_39_word_new_br_6: true<br>creek<br>van<br>treat<br>squirrel<br>describe
-bip_39_word_new_br_7: true<br>creek<br>van<br>treat<br>squirrel<br>describe<br>crouch
-bip_39_word_new_br_8: true<br>creek<br>van<br>treat<br>squirrel<br>describe<br>crouch<br>stuff
-bip_39_word_new_br_9: true<br>creek<br>van<br>treat<br>squirrel<br>describe<br>crouch<br>stuff<br>fiction
-bip_39_word_new_line_1: 'true'
-bip_39_word_new_line_10: 'true
-
-  creek
-
-  van
-
-  treat
-
-  squirrel
-
-  describe
-
-  crouch
-
-  stuff
-
-  fiction
-
-  nerve'
-bip_39_word_new_line_11: 'true
-
-  creek
-
-  van
-
-  treat
-
-  squirrel
-
-  describe
-
-  crouch
-
-  stuff
-
-  fiction
-
-  nerve
-
-  spider'
 bip_39_word_new_line_12: 'true
 
   creek
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'true
   creek
 
   van'
-bip_39_word_new_line_4: 'true
-
-  creek
-
-  van
-
-  treat'
-bip_39_word_new_line_5: 'true
-
-  creek
-
-  van
-
-  treat
-
-  squirrel'
-bip_39_word_new_line_6: 'true
-
-  creek
-
-  van
-
-  treat
-
-  squirrel
-
-  describe'
-bip_39_word_new_line_7: 'true
-
-  creek
-
-  van
-
-  treat
-
-  squirrel
-
-  describe
-
-  crouch'
-bip_39_word_new_line_8: 'true
-
-  creek
-
-  van
-
-  treat
-
-  squirrel
-
-  describe
-
-  crouch
-
-  stuff'
-bip_39_word_new_line_9: 'true
-
-  creek
-
-  van
-
-  treat
-
-  squirrel
-
-  describe
-
-  crouch
-
-  stuff
-
-  fiction'
-bip_39_word_no_space_1: 'true'
-bip_39_word_no_space_10: truecreekvantreatsquirreldescribecrouchstufffictionnerve
-bip_39_word_no_space_11: truecreekvantreatsquirreldescribecrouchstufffictionnervespider
 bip_39_word_no_space_12: truecreekvantreatsquirreldescribecrouchstufffictionnervespiderart
 bip_39_word_no_space_2: truecreek
 bip_39_word_no_space_3: truecreekvan
-bip_39_word_no_space_4: truecreekvantreat
-bip_39_word_no_space_5: truecreekvantreatsquirrel
-bip_39_word_no_space_6: truecreekvantreatsquirreldescribe
-bip_39_word_no_space_7: truecreekvantreatsquirreldescribecrouch
-bip_39_word_no_space_8: truecreekvantreatsquirreldescribecrouchstuff
-bip_39_word_no_space_9: truecreekvantreatsquirreldescribecrouchstufffiction
-bip_39_word_space_0:
-- 'true'
-- creek
-- van
-- treat
-- squirrel
-- describe
-- crouch
-- stuff
-- fiction
-- nerve
-- spider
-- art
-bip_39_word_space_1: 'true'
-bip_39_word_space_10: true creek van treat squirrel describe crouch stuff fiction
-  nerve
-bip_39_word_space_11: true creek van treat squirrel describe crouch stuff fiction
-  nerve spider
 bip_39_word_space_12: true creek van treat squirrel describe crouch stuff fiction
   nerve spider art
 bip_39_word_space_2: true creek
 bip_39_word_space_3: true creek van
-bip_39_word_space_4: true creek van treat
-bip_39_word_space_5: true creek van treat squirrel
-bip_39_word_space_6: true creek van treat squirrel describe
-bip_39_word_space_7: true creek van treat squirrel describe crouch
-bip_39_word_space_8: true creek van treat squirrel describe crouch stuff
-bip_39_word_space_9: true creek van treat squirrel describe crouch stuff fiction
-bip_39_word_underscore_1: 'true'
-bip_39_word_underscore_10: true_creek_van_treat_squirrel_describe_crouch_stuff_fiction_nerve
-bip_39_word_underscore_11: true_creek_van_treat_squirrel_describe_crouch_stuff_fiction_nerve_spider
 bip_39_word_underscore_12: true_creek_van_treat_squirrel_describe_crouch_stuff_fiction_nerve_spider_art
 bip_39_word_underscore_2: true_creek
 bip_39_word_underscore_3: true_creek_van
-bip_39_word_underscore_4: true_creek_van_treat
-bip_39_word_underscore_5: true_creek_van_treat_squirrel
-bip_39_word_underscore_6: true_creek_van_treat_squirrel_describe
-bip_39_word_underscore_7: true_creek_van_treat_squirrel_describe_crouch
-bip_39_word_underscore_8: true_creek_van_treat_squirrel_describe_crouch_stuff
-bip_39_word_underscore_9: true_creek_van_treat_squirrel_describe_crouch_stuff_fiction
 classification: category
 classification_capital: Category
 classification_first_letter: c

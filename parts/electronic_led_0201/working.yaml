@@ -1,68 +1,9 @@
-bip_39_word_dash_1: table
-bip_39_word_dash_10: table-piece-cherry-mirror-inside-angle-fork-inject-steak-group
-bip_39_word_dash_11: table-piece-cherry-mirror-inside-angle-fork-inject-steak-group-pink
 bip_39_word_dash_12: table-piece-cherry-mirror-inside-angle-fork-inject-steak-group-pink-already
 bip_39_word_dash_2: table-piece
 bip_39_word_dash_3: table-piece-cherry
-bip_39_word_dash_4: table-piece-cherry-mirror
-bip_39_word_dash_5: table-piece-cherry-mirror-inside
-bip_39_word_dash_6: table-piece-cherry-mirror-inside-angle
-bip_39_word_dash_7: table-piece-cherry-mirror-inside-angle-fork
-bip_39_word_dash_8: table-piece-cherry-mirror-inside-angle-fork-inject
-bip_39_word_dash_9: table-piece-cherry-mirror-inside-angle-fork-inject-steak
-bip_39_word_new_br_1: table
-bip_39_word_new_br_10: table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group
-bip_39_word_new_br_11: table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group<br>pink
 bip_39_word_new_br_12: table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak<br>group<br>pink<br>already
 bip_39_word_new_br_2: table<br>piece
 bip_39_word_new_br_3: table<br>piece<br>cherry
-bip_39_word_new_br_4: table<br>piece<br>cherry<br>mirror
-bip_39_word_new_br_5: table<br>piece<br>cherry<br>mirror<br>inside
-bip_39_word_new_br_6: table<br>piece<br>cherry<br>mirror<br>inside<br>angle
-bip_39_word_new_br_7: table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork
-bip_39_word_new_br_8: table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject
-bip_39_word_new_br_9: table<br>piece<br>cherry<br>mirror<br>inside<br>angle<br>fork<br>inject<br>steak
-bip_39_word_new_line_1: table
-bip_39_word_new_line_10: 'table
-
-  piece
-
-  cherry
-
-  mirror
-
-  inside
-
-  angle
-
-  fork
-
-  inject
-
-  steak
-
-  group'
-bip_39_word_new_line_11: 'table
-
-  piece
-
-  cherry
-
-  mirror
-
-  inside
-
-  angle
-
-  fork
-
-  inject
-
-  steak
-
-  group
-
-  pink'
 bip_39_word_new_line_12: 'table
 
   piece
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'table
   piece
 
   cherry'
-bip_39_word_new_line_4: 'table
-
-  piece
-
-  cherry
-
-  mirror'
-bip_39_word_new_line_5: 'table
-
-  piece
-
-  cherry
-
-  mirror
-
-  inside'
-bip_39_word_new_line_6: 'table
-
-  piece
-
-  cherry
-
-  mirror
-
-  inside
-
-  angle'
-bip_39_word_new_line_7: 'table
-
-  piece
-
-  cherry
-
-  mirror
-
-  inside
-
-  angle
-
-  fork'
-bip_39_word_new_line_8: 'table
-
-  piece
-
-  cherry
-
-  mirror
-
-  inside
-
-  angle
-
-  fork
-
-  inject'
-bip_39_word_new_line_9: 'table
-
-  piece
-
-  cherry
-
-  mirror
-
-  inside
-
-  angle
-
-  fork
-
-  inject
-
-  steak'
-bip_39_word_no_space_1: table
-bip_39_word_no_space_10: tablepiececherrymirrorinsideangleforkinjectsteakgroup
-bip_39_word_no_space_11: tablepiececherrymirrorinsideangleforkinjectsteakgrouppink
 bip_39_word_no_space_12: tablepiececherrymirrorinsideangleforkinjectsteakgrouppinkalready
 bip_39_word_no_space_2: tablepiece
 bip_39_word_no_space_3: tablepiececherry
-bip_39_word_no_space_4: tablepiececherrymirror
-bip_39_word_no_space_5: tablepiececherrymirrorinside
-bip_39_word_no_space_6: tablepiececherrymirrorinsideangle
-bip_39_word_no_space_7: tablepiececherrymirrorinsideanglefork
-bip_39_word_no_space_8: tablepiececherrymirrorinsideangleforkinject
-bip_39_word_no_space_9: tablepiececherrymirrorinsideangleforkinjectsteak
-bip_39_word_space_0:
-- table
-- piece
-- cherry
-- mirror
-- inside
-- angle
-- fork
-- inject
-- steak
-- group
-- pink
-- already
-bip_39_word_space_1: table
-bip_39_word_space_10: table piece cherry mirror inside angle fork inject steak group
-bip_39_word_space_11: table piece cherry mirror inside angle fork inject steak group
-  pink
 bip_39_word_space_12: table piece cherry mirror inside angle fork inject steak group
   pink already
 bip_39_word_space_2: table piece
 bip_39_word_space_3: table piece cherry
-bip_39_word_space_4: table piece cherry mirror
-bip_39_word_space_5: table piece cherry mirror inside
-bip_39_word_space_6: table piece cherry mirror inside angle
-bip_39_word_space_7: table piece cherry mirror inside angle fork
-bip_39_word_space_8: table piece cherry mirror inside angle fork inject
-bip_39_word_space_9: table piece cherry mirror inside angle fork inject steak
-bip_39_word_underscore_1: table
-bip_39_word_underscore_10: table_piece_cherry_mirror_inside_angle_fork_inject_steak_group
-bip_39_word_underscore_11: table_piece_cherry_mirror_inside_angle_fork_inject_steak_group_pink
 bip_39_word_underscore_12: table_piece_cherry_mirror_inside_angle_fork_inject_steak_group_pink_already
 bip_39_word_underscore_2: table_piece
 bip_39_word_underscore_3: table_piece_cherry
-bip_39_word_underscore_4: table_piece_cherry_mirror
-bip_39_word_underscore_5: table_piece_cherry_mirror_inside
-bip_39_word_underscore_6: table_piece_cherry_mirror_inside_angle
-bip_39_word_underscore_7: table_piece_cherry_mirror_inside_angle_fork
-bip_39_word_underscore_8: table_piece_cherry_mirror_inside_angle_fork_inject
-bip_39_word_underscore_9: table_piece_cherry_mirror_inside_angle_fork_inject_steak
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

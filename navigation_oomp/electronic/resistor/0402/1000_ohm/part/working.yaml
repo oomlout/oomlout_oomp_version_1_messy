@@ -1,68 +1,9 @@
-bip_39_word_dash_1: minor
-bip_39_word_dash_10: minor-valid-mad-expect-service-throw-glare-resemble-result-hat
-bip_39_word_dash_11: minor-valid-mad-expect-service-throw-glare-resemble-result-hat-grape
 bip_39_word_dash_12: minor-valid-mad-expect-service-throw-glare-resemble-result-hat-grape-alpha
 bip_39_word_dash_2: minor-valid
 bip_39_word_dash_3: minor-valid-mad
-bip_39_word_dash_4: minor-valid-mad-expect
-bip_39_word_dash_5: minor-valid-mad-expect-service
-bip_39_word_dash_6: minor-valid-mad-expect-service-throw
-bip_39_word_dash_7: minor-valid-mad-expect-service-throw-glare
-bip_39_word_dash_8: minor-valid-mad-expect-service-throw-glare-resemble
-bip_39_word_dash_9: minor-valid-mad-expect-service-throw-glare-resemble-result
-bip_39_word_new_br_1: minor
-bip_39_word_new_br_10: minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat
-bip_39_word_new_br_11: minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat<br>grape
 bip_39_word_new_br_12: minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result<br>hat<br>grape<br>alpha
 bip_39_word_new_br_2: minor<br>valid
 bip_39_word_new_br_3: minor<br>valid<br>mad
-bip_39_word_new_br_4: minor<br>valid<br>mad<br>expect
-bip_39_word_new_br_5: minor<br>valid<br>mad<br>expect<br>service
-bip_39_word_new_br_6: minor<br>valid<br>mad<br>expect<br>service<br>throw
-bip_39_word_new_br_7: minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare
-bip_39_word_new_br_8: minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble
-bip_39_word_new_br_9: minor<br>valid<br>mad<br>expect<br>service<br>throw<br>glare<br>resemble<br>result
-bip_39_word_new_line_1: minor
-bip_39_word_new_line_10: 'minor
-
-  valid
-
-  mad
-
-  expect
-
-  service
-
-  throw
-
-  glare
-
-  resemble
-
-  result
-
-  hat'
-bip_39_word_new_line_11: 'minor
-
-  valid
-
-  mad
-
-  expect
-
-  service
-
-  throw
-
-  glare
-
-  resemble
-
-  result
-
-  hat
-
-  grape'
 bip_39_word_new_line_12: 'minor
 
   valid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'minor
   valid
 
   mad'
-bip_39_word_new_line_4: 'minor
-
-  valid
-
-  mad
-
-  expect'
-bip_39_word_new_line_5: 'minor
-
-  valid
-
-  mad
-
-  expect
-
-  service'
-bip_39_word_new_line_6: 'minor
-
-  valid
-
-  mad
-
-  expect
-
-  service
-
-  throw'
-bip_39_word_new_line_7: 'minor
-
-  valid
-
-  mad
-
-  expect
-
-  service
-
-  throw
-
-  glare'
-bip_39_word_new_line_8: 'minor
-
-  valid
-
-  mad
-
-  expect
-
-  service
-
-  throw
-
-  glare
-
-  resemble'
-bip_39_word_new_line_9: 'minor
-
-  valid
-
-  mad
-
-  expect
-
-  service
-
-  throw
-
-  glare
-
-  resemble
-
-  result'
-bip_39_word_no_space_1: minor
-bip_39_word_no_space_10: minorvalidmadexpectservicethrowglareresembleresulthat
-bip_39_word_no_space_11: minorvalidmadexpectservicethrowglareresembleresulthatgrape
 bip_39_word_no_space_12: minorvalidmadexpectservicethrowglareresembleresulthatgrapealpha
 bip_39_word_no_space_2: minorvalid
 bip_39_word_no_space_3: minorvalidmad
-bip_39_word_no_space_4: minorvalidmadexpect
-bip_39_word_no_space_5: minorvalidmadexpectservice
-bip_39_word_no_space_6: minorvalidmadexpectservicethrow
-bip_39_word_no_space_7: minorvalidmadexpectservicethrowglare
-bip_39_word_no_space_8: minorvalidmadexpectservicethrowglareresemble
-bip_39_word_no_space_9: minorvalidmadexpectservicethrowglareresembleresult
-bip_39_word_space_0:
-- minor
-- valid
-- mad
-- expect
-- service
-- throw
-- glare
-- resemble
-- result
-- hat
-- grape
-- alpha
-bip_39_word_space_1: minor
-bip_39_word_space_10: minor valid mad expect service throw glare resemble result hat
-bip_39_word_space_11: minor valid mad expect service throw glare resemble result hat
-  grape
 bip_39_word_space_12: minor valid mad expect service throw glare resemble result hat
   grape alpha
 bip_39_word_space_2: minor valid
 bip_39_word_space_3: minor valid mad
-bip_39_word_space_4: minor valid mad expect
-bip_39_word_space_5: minor valid mad expect service
-bip_39_word_space_6: minor valid mad expect service throw
-bip_39_word_space_7: minor valid mad expect service throw glare
-bip_39_word_space_8: minor valid mad expect service throw glare resemble
-bip_39_word_space_9: minor valid mad expect service throw glare resemble result
-bip_39_word_underscore_1: minor
-bip_39_word_underscore_10: minor_valid_mad_expect_service_throw_glare_resemble_result_hat
-bip_39_word_underscore_11: minor_valid_mad_expect_service_throw_glare_resemble_result_hat_grape
 bip_39_word_underscore_12: minor_valid_mad_expect_service_throw_glare_resemble_result_hat_grape_alpha
 bip_39_word_underscore_2: minor_valid
 bip_39_word_underscore_3: minor_valid_mad
-bip_39_word_underscore_4: minor_valid_mad_expect
-bip_39_word_underscore_5: minor_valid_mad_expect_service
-bip_39_word_underscore_6: minor_valid_mad_expect_service_throw
-bip_39_word_underscore_7: minor_valid_mad_expect_service_throw_glare
-bip_39_word_underscore_8: minor_valid_mad_expect_service_throw_glare_resemble
-bip_39_word_underscore_9: minor_valid_mad_expect_service_throw_glare_resemble_result
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

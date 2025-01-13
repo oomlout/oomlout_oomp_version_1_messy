@@ -1,68 +1,9 @@
-bip_39_word_dash_1: danger
-bip_39_word_dash_10: danger-hold-knife-sunny-castle-trouble-protect-saddle-ghost-fortune
-bip_39_word_dash_11: danger-hold-knife-sunny-castle-trouble-protect-saddle-ghost-fortune-craft
 bip_39_word_dash_12: danger-hold-knife-sunny-castle-trouble-protect-saddle-ghost-fortune-craft-acquire
 bip_39_word_dash_2: danger-hold
 bip_39_word_dash_3: danger-hold-knife
-bip_39_word_dash_4: danger-hold-knife-sunny
-bip_39_word_dash_5: danger-hold-knife-sunny-castle
-bip_39_word_dash_6: danger-hold-knife-sunny-castle-trouble
-bip_39_word_dash_7: danger-hold-knife-sunny-castle-trouble-protect
-bip_39_word_dash_8: danger-hold-knife-sunny-castle-trouble-protect-saddle
-bip_39_word_dash_9: danger-hold-knife-sunny-castle-trouble-protect-saddle-ghost
-bip_39_word_new_br_1: danger
-bip_39_word_new_br_10: danger<br>hold<br>knife<br>sunny<br>castle<br>trouble<br>protect<br>saddle<br>ghost<br>fortune
-bip_39_word_new_br_11: danger<br>hold<br>knife<br>sunny<br>castle<br>trouble<br>protect<br>saddle<br>ghost<br>fortune<br>craft
 bip_39_word_new_br_12: danger<br>hold<br>knife<br>sunny<br>castle<br>trouble<br>protect<br>saddle<br>ghost<br>fortune<br>craft<br>acquire
 bip_39_word_new_br_2: danger<br>hold
 bip_39_word_new_br_3: danger<br>hold<br>knife
-bip_39_word_new_br_4: danger<br>hold<br>knife<br>sunny
-bip_39_word_new_br_5: danger<br>hold<br>knife<br>sunny<br>castle
-bip_39_word_new_br_6: danger<br>hold<br>knife<br>sunny<br>castle<br>trouble
-bip_39_word_new_br_7: danger<br>hold<br>knife<br>sunny<br>castle<br>trouble<br>protect
-bip_39_word_new_br_8: danger<br>hold<br>knife<br>sunny<br>castle<br>trouble<br>protect<br>saddle
-bip_39_word_new_br_9: danger<br>hold<br>knife<br>sunny<br>castle<br>trouble<br>protect<br>saddle<br>ghost
-bip_39_word_new_line_1: danger
-bip_39_word_new_line_10: 'danger
-
-  hold
-
-  knife
-
-  sunny
-
-  castle
-
-  trouble
-
-  protect
-
-  saddle
-
-  ghost
-
-  fortune'
-bip_39_word_new_line_11: 'danger
-
-  hold
-
-  knife
-
-  sunny
-
-  castle
-
-  trouble
-
-  protect
-
-  saddle
-
-  ghost
-
-  fortune
-
-  craft'
 bip_39_word_new_line_12: 'danger
 
   hold
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'danger
   hold
 
   knife'
-bip_39_word_new_line_4: 'danger
-
-  hold
-
-  knife
-
-  sunny'
-bip_39_word_new_line_5: 'danger
-
-  hold
-
-  knife
-
-  sunny
-
-  castle'
-bip_39_word_new_line_6: 'danger
-
-  hold
-
-  knife
-
-  sunny
-
-  castle
-
-  trouble'
-bip_39_word_new_line_7: 'danger
-
-  hold
-
-  knife
-
-  sunny
-
-  castle
-
-  trouble
-
-  protect'
-bip_39_word_new_line_8: 'danger
-
-  hold
-
-  knife
-
-  sunny
-
-  castle
-
-  trouble
-
-  protect
-
-  saddle'
-bip_39_word_new_line_9: 'danger
-
-  hold
-
-  knife
-
-  sunny
-
-  castle
-
-  trouble
-
-  protect
-
-  saddle
-
-  ghost'
-bip_39_word_no_space_1: danger
-bip_39_word_no_space_10: dangerholdknifesunnycastletroubleprotectsaddleghostfortune
-bip_39_word_no_space_11: dangerholdknifesunnycastletroubleprotectsaddleghostfortunecraft
 bip_39_word_no_space_12: dangerholdknifesunnycastletroubleprotectsaddleghostfortunecraftacquire
 bip_39_word_no_space_2: dangerhold
 bip_39_word_no_space_3: dangerholdknife
-bip_39_word_no_space_4: dangerholdknifesunny
-bip_39_word_no_space_5: dangerholdknifesunnycastle
-bip_39_word_no_space_6: dangerholdknifesunnycastletrouble
-bip_39_word_no_space_7: dangerholdknifesunnycastletroubleprotect
-bip_39_word_no_space_8: dangerholdknifesunnycastletroubleprotectsaddle
-bip_39_word_no_space_9: dangerholdknifesunnycastletroubleprotectsaddleghost
-bip_39_word_space_0:
-- danger
-- hold
-- knife
-- sunny
-- castle
-- trouble
-- protect
-- saddle
-- ghost
-- fortune
-- craft
-- acquire
-bip_39_word_space_1: danger
-bip_39_word_space_10: danger hold knife sunny castle trouble protect saddle ghost
-  fortune
-bip_39_word_space_11: danger hold knife sunny castle trouble protect saddle ghost
-  fortune craft
 bip_39_word_space_12: danger hold knife sunny castle trouble protect saddle ghost
   fortune craft acquire
 bip_39_word_space_2: danger hold
 bip_39_word_space_3: danger hold knife
-bip_39_word_space_4: danger hold knife sunny
-bip_39_word_space_5: danger hold knife sunny castle
-bip_39_word_space_6: danger hold knife sunny castle trouble
-bip_39_word_space_7: danger hold knife sunny castle trouble protect
-bip_39_word_space_8: danger hold knife sunny castle trouble protect saddle
-bip_39_word_space_9: danger hold knife sunny castle trouble protect saddle ghost
-bip_39_word_underscore_1: danger
-bip_39_word_underscore_10: danger_hold_knife_sunny_castle_trouble_protect_saddle_ghost_fortune
-bip_39_word_underscore_11: danger_hold_knife_sunny_castle_trouble_protect_saddle_ghost_fortune_craft
 bip_39_word_underscore_12: danger_hold_knife_sunny_castle_trouble_protect_saddle_ghost_fortune_craft_acquire
 bip_39_word_underscore_2: danger_hold
 bip_39_word_underscore_3: danger_hold_knife
-bip_39_word_underscore_4: danger_hold_knife_sunny
-bip_39_word_underscore_5: danger_hold_knife_sunny_castle
-bip_39_word_underscore_6: danger_hold_knife_sunny_castle_trouble
-bip_39_word_underscore_7: danger_hold_knife_sunny_castle_trouble_protect
-bip_39_word_underscore_8: danger_hold_knife_sunny_castle_trouble_protect_saddle
-bip_39_word_underscore_9: danger_hold_knife_sunny_castle_trouble_protect_saddle_ghost
 classification: category
 classification_capital: Category
 classification_first_letter: c

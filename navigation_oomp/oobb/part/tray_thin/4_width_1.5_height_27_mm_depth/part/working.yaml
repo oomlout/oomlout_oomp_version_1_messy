@@ -1,68 +1,9 @@
-bip_39_word_dash_1: friend
-bip_39_word_dash_10: friend-turtle-diamond-all-pottery-pyramid-arrow-sausage-shaft-hunt
-bip_39_word_dash_11: friend-turtle-diamond-all-pottery-pyramid-arrow-sausage-shaft-hunt-pizza
 bip_39_word_dash_12: friend-turtle-diamond-all-pottery-pyramid-arrow-sausage-shaft-hunt-pizza-attend
 bip_39_word_dash_2: friend-turtle
 bip_39_word_dash_3: friend-turtle-diamond
-bip_39_word_dash_4: friend-turtle-diamond-all
-bip_39_word_dash_5: friend-turtle-diamond-all-pottery
-bip_39_word_dash_6: friend-turtle-diamond-all-pottery-pyramid
-bip_39_word_dash_7: friend-turtle-diamond-all-pottery-pyramid-arrow
-bip_39_word_dash_8: friend-turtle-diamond-all-pottery-pyramid-arrow-sausage
-bip_39_word_dash_9: friend-turtle-diamond-all-pottery-pyramid-arrow-sausage-shaft
-bip_39_word_new_br_1: friend
-bip_39_word_new_br_10: friend<br>turtle<br>diamond<br>all<br>pottery<br>pyramid<br>arrow<br>sausage<br>shaft<br>hunt
-bip_39_word_new_br_11: friend<br>turtle<br>diamond<br>all<br>pottery<br>pyramid<br>arrow<br>sausage<br>shaft<br>hunt<br>pizza
 bip_39_word_new_br_12: friend<br>turtle<br>diamond<br>all<br>pottery<br>pyramid<br>arrow<br>sausage<br>shaft<br>hunt<br>pizza<br>attend
 bip_39_word_new_br_2: friend<br>turtle
 bip_39_word_new_br_3: friend<br>turtle<br>diamond
-bip_39_word_new_br_4: friend<br>turtle<br>diamond<br>all
-bip_39_word_new_br_5: friend<br>turtle<br>diamond<br>all<br>pottery
-bip_39_word_new_br_6: friend<br>turtle<br>diamond<br>all<br>pottery<br>pyramid
-bip_39_word_new_br_7: friend<br>turtle<br>diamond<br>all<br>pottery<br>pyramid<br>arrow
-bip_39_word_new_br_8: friend<br>turtle<br>diamond<br>all<br>pottery<br>pyramid<br>arrow<br>sausage
-bip_39_word_new_br_9: friend<br>turtle<br>diamond<br>all<br>pottery<br>pyramid<br>arrow<br>sausage<br>shaft
-bip_39_word_new_line_1: friend
-bip_39_word_new_line_10: 'friend
-
-  turtle
-
-  diamond
-
-  all
-
-  pottery
-
-  pyramid
-
-  arrow
-
-  sausage
-
-  shaft
-
-  hunt'
-bip_39_word_new_line_11: 'friend
-
-  turtle
-
-  diamond
-
-  all
-
-  pottery
-
-  pyramid
-
-  arrow
-
-  sausage
-
-  shaft
-
-  hunt
-
-  pizza'
 bip_39_word_new_line_12: 'friend
 
   turtle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'friend
   turtle
 
   diamond'
-bip_39_word_new_line_4: 'friend
-
-  turtle
-
-  diamond
-
-  all'
-bip_39_word_new_line_5: 'friend
-
-  turtle
-
-  diamond
-
-  all
-
-  pottery'
-bip_39_word_new_line_6: 'friend
-
-  turtle
-
-  diamond
-
-  all
-
-  pottery
-
-  pyramid'
-bip_39_word_new_line_7: 'friend
-
-  turtle
-
-  diamond
-
-  all
-
-  pottery
-
-  pyramid
-
-  arrow'
-bip_39_word_new_line_8: 'friend
-
-  turtle
-
-  diamond
-
-  all
-
-  pottery
-
-  pyramid
-
-  arrow
-
-  sausage'
-bip_39_word_new_line_9: 'friend
-
-  turtle
-
-  diamond
-
-  all
-
-  pottery
-
-  pyramid
-
-  arrow
-
-  sausage
-
-  shaft'
-bip_39_word_no_space_1: friend
-bip_39_word_no_space_10: friendturtlediamondallpotterypyramidarrowsausageshafthunt
-bip_39_word_no_space_11: friendturtlediamondallpotterypyramidarrowsausageshafthuntpizza
 bip_39_word_no_space_12: friendturtlediamondallpotterypyramidarrowsausageshafthuntpizzaattend
 bip_39_word_no_space_2: friendturtle
 bip_39_word_no_space_3: friendturtlediamond
-bip_39_word_no_space_4: friendturtlediamondall
-bip_39_word_no_space_5: friendturtlediamondallpottery
-bip_39_word_no_space_6: friendturtlediamondallpotterypyramid
-bip_39_word_no_space_7: friendturtlediamondallpotterypyramidarrow
-bip_39_word_no_space_8: friendturtlediamondallpotterypyramidarrowsausage
-bip_39_word_no_space_9: friendturtlediamondallpotterypyramidarrowsausageshaft
-bip_39_word_space_0:
-- friend
-- turtle
-- diamond
-- all
-- pottery
-- pyramid
-- arrow
-- sausage
-- shaft
-- hunt
-- pizza
-- attend
-bip_39_word_space_1: friend
-bip_39_word_space_10: friend turtle diamond all pottery pyramid arrow sausage shaft
-  hunt
-bip_39_word_space_11: friend turtle diamond all pottery pyramid arrow sausage shaft
-  hunt pizza
 bip_39_word_space_12: friend turtle diamond all pottery pyramid arrow sausage shaft
   hunt pizza attend
 bip_39_word_space_2: friend turtle
 bip_39_word_space_3: friend turtle diamond
-bip_39_word_space_4: friend turtle diamond all
-bip_39_word_space_5: friend turtle diamond all pottery
-bip_39_word_space_6: friend turtle diamond all pottery pyramid
-bip_39_word_space_7: friend turtle diamond all pottery pyramid arrow
-bip_39_word_space_8: friend turtle diamond all pottery pyramid arrow sausage
-bip_39_word_space_9: friend turtle diamond all pottery pyramid arrow sausage shaft
-bip_39_word_underscore_1: friend
-bip_39_word_underscore_10: friend_turtle_diamond_all_pottery_pyramid_arrow_sausage_shaft_hunt
-bip_39_word_underscore_11: friend_turtle_diamond_all_pottery_pyramid_arrow_sausage_shaft_hunt_pizza
 bip_39_word_underscore_12: friend_turtle_diamond_all_pottery_pyramid_arrow_sausage_shaft_hunt_pizza_attend
 bip_39_word_underscore_2: friend_turtle
 bip_39_word_underscore_3: friend_turtle_diamond
-bip_39_word_underscore_4: friend_turtle_diamond_all
-bip_39_word_underscore_5: friend_turtle_diamond_all_pottery
-bip_39_word_underscore_6: friend_turtle_diamond_all_pottery_pyramid
-bip_39_word_underscore_7: friend_turtle_diamond_all_pottery_pyramid_arrow
-bip_39_word_underscore_8: friend_turtle_diamond_all_pottery_pyramid_arrow_sausage
-bip_39_word_underscore_9: friend_turtle_diamond_all_pottery_pyramid_arrow_sausage_shaft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

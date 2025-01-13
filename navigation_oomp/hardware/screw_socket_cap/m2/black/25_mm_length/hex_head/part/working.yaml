@@ -1,68 +1,9 @@
-bip_39_word_dash_1: network
-bip_39_word_dash_10: network-bronze-sun-ring-speed-bean-supply-cool-recall-prison
-bip_39_word_dash_11: network-bronze-sun-ring-speed-bean-supply-cool-recall-prison-credit
 bip_39_word_dash_12: network-bronze-sun-ring-speed-bean-supply-cool-recall-prison-credit-average
 bip_39_word_dash_2: network-bronze
 bip_39_word_dash_3: network-bronze-sun
-bip_39_word_dash_4: network-bronze-sun-ring
-bip_39_word_dash_5: network-bronze-sun-ring-speed
-bip_39_word_dash_6: network-bronze-sun-ring-speed-bean
-bip_39_word_dash_7: network-bronze-sun-ring-speed-bean-supply
-bip_39_word_dash_8: network-bronze-sun-ring-speed-bean-supply-cool
-bip_39_word_dash_9: network-bronze-sun-ring-speed-bean-supply-cool-recall
-bip_39_word_new_br_1: network
-bip_39_word_new_br_10: network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison
-bip_39_word_new_br_11: network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison<br>credit
 bip_39_word_new_br_12: network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall<br>prison<br>credit<br>average
 bip_39_word_new_br_2: network<br>bronze
 bip_39_word_new_br_3: network<br>bronze<br>sun
-bip_39_word_new_br_4: network<br>bronze<br>sun<br>ring
-bip_39_word_new_br_5: network<br>bronze<br>sun<br>ring<br>speed
-bip_39_word_new_br_6: network<br>bronze<br>sun<br>ring<br>speed<br>bean
-bip_39_word_new_br_7: network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply
-bip_39_word_new_br_8: network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool
-bip_39_word_new_br_9: network<br>bronze<br>sun<br>ring<br>speed<br>bean<br>supply<br>cool<br>recall
-bip_39_word_new_line_1: network
-bip_39_word_new_line_10: 'network
-
-  bronze
-
-  sun
-
-  ring
-
-  speed
-
-  bean
-
-  supply
-
-  cool
-
-  recall
-
-  prison'
-bip_39_word_new_line_11: 'network
-
-  bronze
-
-  sun
-
-  ring
-
-  speed
-
-  bean
-
-  supply
-
-  cool
-
-  recall
-
-  prison
-
-  credit'
 bip_39_word_new_line_12: 'network
 
   bronze
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'network
   bronze
 
   sun'
-bip_39_word_new_line_4: 'network
-
-  bronze
-
-  sun
-
-  ring'
-bip_39_word_new_line_5: 'network
-
-  bronze
-
-  sun
-
-  ring
-
-  speed'
-bip_39_word_new_line_6: 'network
-
-  bronze
-
-  sun
-
-  ring
-
-  speed
-
-  bean'
-bip_39_word_new_line_7: 'network
-
-  bronze
-
-  sun
-
-  ring
-
-  speed
-
-  bean
-
-  supply'
-bip_39_word_new_line_8: 'network
-
-  bronze
-
-  sun
-
-  ring
-
-  speed
-
-  bean
-
-  supply
-
-  cool'
-bip_39_word_new_line_9: 'network
-
-  bronze
-
-  sun
-
-  ring
-
-  speed
-
-  bean
-
-  supply
-
-  cool
-
-  recall'
-bip_39_word_no_space_1: network
-bip_39_word_no_space_10: networkbronzesunringspeedbeansupplycoolrecallprison
-bip_39_word_no_space_11: networkbronzesunringspeedbeansupplycoolrecallprisoncredit
 bip_39_word_no_space_12: networkbronzesunringspeedbeansupplycoolrecallprisoncreditaverage
 bip_39_word_no_space_2: networkbronze
 bip_39_word_no_space_3: networkbronzesun
-bip_39_word_no_space_4: networkbronzesunring
-bip_39_word_no_space_5: networkbronzesunringspeed
-bip_39_word_no_space_6: networkbronzesunringspeedbean
-bip_39_word_no_space_7: networkbronzesunringspeedbeansupply
-bip_39_word_no_space_8: networkbronzesunringspeedbeansupplycool
-bip_39_word_no_space_9: networkbronzesunringspeedbeansupplycoolrecall
-bip_39_word_space_0:
-- network
-- bronze
-- sun
-- ring
-- speed
-- bean
-- supply
-- cool
-- recall
-- prison
-- credit
-- average
-bip_39_word_space_1: network
-bip_39_word_space_10: network bronze sun ring speed bean supply cool recall prison
-bip_39_word_space_11: network bronze sun ring speed bean supply cool recall prison
-  credit
 bip_39_word_space_12: network bronze sun ring speed bean supply cool recall prison
   credit average
 bip_39_word_space_2: network bronze
 bip_39_word_space_3: network bronze sun
-bip_39_word_space_4: network bronze sun ring
-bip_39_word_space_5: network bronze sun ring speed
-bip_39_word_space_6: network bronze sun ring speed bean
-bip_39_word_space_7: network bronze sun ring speed bean supply
-bip_39_word_space_8: network bronze sun ring speed bean supply cool
-bip_39_word_space_9: network bronze sun ring speed bean supply cool recall
-bip_39_word_underscore_1: network
-bip_39_word_underscore_10: network_bronze_sun_ring_speed_bean_supply_cool_recall_prison
-bip_39_word_underscore_11: network_bronze_sun_ring_speed_bean_supply_cool_recall_prison_credit
 bip_39_word_underscore_12: network_bronze_sun_ring_speed_bean_supply_cool_recall_prison_credit_average
 bip_39_word_underscore_2: network_bronze
 bip_39_word_underscore_3: network_bronze_sun
-bip_39_word_underscore_4: network_bronze_sun_ring
-bip_39_word_underscore_5: network_bronze_sun_ring_speed
-bip_39_word_underscore_6: network_bronze_sun_ring_speed_bean
-bip_39_word_underscore_7: network_bronze_sun_ring_speed_bean_supply
-bip_39_word_underscore_8: network_bronze_sun_ring_speed_bean_supply_cool
-bip_39_word_underscore_9: network_bronze_sun_ring_speed_bean_supply_cool_recall
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

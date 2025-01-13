@@ -1,68 +1,9 @@
-bip_39_word_dash_1: another
-bip_39_word_dash_10: another-exist-vault-enforce-combine-live-oxygen-grief-refuse-flavor
-bip_39_word_dash_11: another-exist-vault-enforce-combine-live-oxygen-grief-refuse-flavor-orbit
 bip_39_word_dash_12: another-exist-vault-enforce-combine-live-oxygen-grief-refuse-flavor-orbit-aisle
 bip_39_word_dash_2: another-exist
 bip_39_word_dash_3: another-exist-vault
-bip_39_word_dash_4: another-exist-vault-enforce
-bip_39_word_dash_5: another-exist-vault-enforce-combine
-bip_39_word_dash_6: another-exist-vault-enforce-combine-live
-bip_39_word_dash_7: another-exist-vault-enforce-combine-live-oxygen
-bip_39_word_dash_8: another-exist-vault-enforce-combine-live-oxygen-grief
-bip_39_word_dash_9: another-exist-vault-enforce-combine-live-oxygen-grief-refuse
-bip_39_word_new_br_1: another
-bip_39_word_new_br_10: another<br>exist<br>vault<br>enforce<br>combine<br>live<br>oxygen<br>grief<br>refuse<br>flavor
-bip_39_word_new_br_11: another<br>exist<br>vault<br>enforce<br>combine<br>live<br>oxygen<br>grief<br>refuse<br>flavor<br>orbit
 bip_39_word_new_br_12: another<br>exist<br>vault<br>enforce<br>combine<br>live<br>oxygen<br>grief<br>refuse<br>flavor<br>orbit<br>aisle
 bip_39_word_new_br_2: another<br>exist
 bip_39_word_new_br_3: another<br>exist<br>vault
-bip_39_word_new_br_4: another<br>exist<br>vault<br>enforce
-bip_39_word_new_br_5: another<br>exist<br>vault<br>enforce<br>combine
-bip_39_word_new_br_6: another<br>exist<br>vault<br>enforce<br>combine<br>live
-bip_39_word_new_br_7: another<br>exist<br>vault<br>enforce<br>combine<br>live<br>oxygen
-bip_39_word_new_br_8: another<br>exist<br>vault<br>enforce<br>combine<br>live<br>oxygen<br>grief
-bip_39_word_new_br_9: another<br>exist<br>vault<br>enforce<br>combine<br>live<br>oxygen<br>grief<br>refuse
-bip_39_word_new_line_1: another
-bip_39_word_new_line_10: 'another
-
-  exist
-
-  vault
-
-  enforce
-
-  combine
-
-  live
-
-  oxygen
-
-  grief
-
-  refuse
-
-  flavor'
-bip_39_word_new_line_11: 'another
-
-  exist
-
-  vault
-
-  enforce
-
-  combine
-
-  live
-
-  oxygen
-
-  grief
-
-  refuse
-
-  flavor
-
-  orbit'
 bip_39_word_new_line_12: 'another
 
   exist
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'another
   exist
 
   vault'
-bip_39_word_new_line_4: 'another
-
-  exist
-
-  vault
-
-  enforce'
-bip_39_word_new_line_5: 'another
-
-  exist
-
-  vault
-
-  enforce
-
-  combine'
-bip_39_word_new_line_6: 'another
-
-  exist
-
-  vault
-
-  enforce
-
-  combine
-
-  live'
-bip_39_word_new_line_7: 'another
-
-  exist
-
-  vault
-
-  enforce
-
-  combine
-
-  live
-
-  oxygen'
-bip_39_word_new_line_8: 'another
-
-  exist
-
-  vault
-
-  enforce
-
-  combine
-
-  live
-
-  oxygen
-
-  grief'
-bip_39_word_new_line_9: 'another
-
-  exist
-
-  vault
-
-  enforce
-
-  combine
-
-  live
-
-  oxygen
-
-  grief
-
-  refuse'
-bip_39_word_no_space_1: another
-bip_39_word_no_space_10: anotherexistvaultenforcecombineliveoxygengriefrefuseflavor
-bip_39_word_no_space_11: anotherexistvaultenforcecombineliveoxygengriefrefuseflavororbit
 bip_39_word_no_space_12: anotherexistvaultenforcecombineliveoxygengriefrefuseflavororbitaisle
 bip_39_word_no_space_2: anotherexist
 bip_39_word_no_space_3: anotherexistvault
-bip_39_word_no_space_4: anotherexistvaultenforce
-bip_39_word_no_space_5: anotherexistvaultenforcecombine
-bip_39_word_no_space_6: anotherexistvaultenforcecombinelive
-bip_39_word_no_space_7: anotherexistvaultenforcecombineliveoxygen
-bip_39_word_no_space_8: anotherexistvaultenforcecombineliveoxygengrief
-bip_39_word_no_space_9: anotherexistvaultenforcecombineliveoxygengriefrefuse
-bip_39_word_space_0:
-- another
-- exist
-- vault
-- enforce
-- combine
-- live
-- oxygen
-- grief
-- refuse
-- flavor
-- orbit
-- aisle
-bip_39_word_space_1: another
-bip_39_word_space_10: another exist vault enforce combine live oxygen grief refuse
-  flavor
-bip_39_word_space_11: another exist vault enforce combine live oxygen grief refuse
-  flavor orbit
 bip_39_word_space_12: another exist vault enforce combine live oxygen grief refuse
   flavor orbit aisle
 bip_39_word_space_2: another exist
 bip_39_word_space_3: another exist vault
-bip_39_word_space_4: another exist vault enforce
-bip_39_word_space_5: another exist vault enforce combine
-bip_39_word_space_6: another exist vault enforce combine live
-bip_39_word_space_7: another exist vault enforce combine live oxygen
-bip_39_word_space_8: another exist vault enforce combine live oxygen grief
-bip_39_word_space_9: another exist vault enforce combine live oxygen grief refuse
-bip_39_word_underscore_1: another
-bip_39_word_underscore_10: another_exist_vault_enforce_combine_live_oxygen_grief_refuse_flavor
-bip_39_word_underscore_11: another_exist_vault_enforce_combine_live_oxygen_grief_refuse_flavor_orbit
 bip_39_word_underscore_12: another_exist_vault_enforce_combine_live_oxygen_grief_refuse_flavor_orbit_aisle
 bip_39_word_underscore_2: another_exist
 bip_39_word_underscore_3: another_exist_vault
-bip_39_word_underscore_4: another_exist_vault_enforce
-bip_39_word_underscore_5: another_exist_vault_enforce_combine
-bip_39_word_underscore_6: another_exist_vault_enforce_combine_live
-bip_39_word_underscore_7: another_exist_vault_enforce_combine_live_oxygen
-bip_39_word_underscore_8: another_exist_vault_enforce_combine_live_oxygen_grief
-bip_39_word_underscore_9: another_exist_vault_enforce_combine_live_oxygen_grief_refuse
 classification: category
 classification_capital: Category
 classification_first_letter: c

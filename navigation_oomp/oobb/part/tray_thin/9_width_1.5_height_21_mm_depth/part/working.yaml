@@ -1,68 +1,9 @@
-bip_39_word_dash_1: material
-bip_39_word_dash_10: material-hedgehog-light-clip-purchase-amount-naive-actor-spice-coin
-bip_39_word_dash_11: material-hedgehog-light-clip-purchase-amount-naive-actor-spice-coin-broken
 bip_39_word_dash_12: material-hedgehog-light-clip-purchase-amount-naive-actor-spice-coin-broken-actor
 bip_39_word_dash_2: material-hedgehog
 bip_39_word_dash_3: material-hedgehog-light
-bip_39_word_dash_4: material-hedgehog-light-clip
-bip_39_word_dash_5: material-hedgehog-light-clip-purchase
-bip_39_word_dash_6: material-hedgehog-light-clip-purchase-amount
-bip_39_word_dash_7: material-hedgehog-light-clip-purchase-amount-naive
-bip_39_word_dash_8: material-hedgehog-light-clip-purchase-amount-naive-actor
-bip_39_word_dash_9: material-hedgehog-light-clip-purchase-amount-naive-actor-spice
-bip_39_word_new_br_1: material
-bip_39_word_new_br_10: material<br>hedgehog<br>light<br>clip<br>purchase<br>amount<br>naive<br>actor<br>spice<br>coin
-bip_39_word_new_br_11: material<br>hedgehog<br>light<br>clip<br>purchase<br>amount<br>naive<br>actor<br>spice<br>coin<br>broken
 bip_39_word_new_br_12: material<br>hedgehog<br>light<br>clip<br>purchase<br>amount<br>naive<br>actor<br>spice<br>coin<br>broken<br>actor
 bip_39_word_new_br_2: material<br>hedgehog
 bip_39_word_new_br_3: material<br>hedgehog<br>light
-bip_39_word_new_br_4: material<br>hedgehog<br>light<br>clip
-bip_39_word_new_br_5: material<br>hedgehog<br>light<br>clip<br>purchase
-bip_39_word_new_br_6: material<br>hedgehog<br>light<br>clip<br>purchase<br>amount
-bip_39_word_new_br_7: material<br>hedgehog<br>light<br>clip<br>purchase<br>amount<br>naive
-bip_39_word_new_br_8: material<br>hedgehog<br>light<br>clip<br>purchase<br>amount<br>naive<br>actor
-bip_39_word_new_br_9: material<br>hedgehog<br>light<br>clip<br>purchase<br>amount<br>naive<br>actor<br>spice
-bip_39_word_new_line_1: material
-bip_39_word_new_line_10: 'material
-
-  hedgehog
-
-  light
-
-  clip
-
-  purchase
-
-  amount
-
-  naive
-
-  actor
-
-  spice
-
-  coin'
-bip_39_word_new_line_11: 'material
-
-  hedgehog
-
-  light
-
-  clip
-
-  purchase
-
-  amount
-
-  naive
-
-  actor
-
-  spice
-
-  coin
-
-  broken'
 bip_39_word_new_line_12: 'material
 
   hedgehog
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'material
   hedgehog
 
   light'
-bip_39_word_new_line_4: 'material
-
-  hedgehog
-
-  light
-
-  clip'
-bip_39_word_new_line_5: 'material
-
-  hedgehog
-
-  light
-
-  clip
-
-  purchase'
-bip_39_word_new_line_6: 'material
-
-  hedgehog
-
-  light
-
-  clip
-
-  purchase
-
-  amount'
-bip_39_word_new_line_7: 'material
-
-  hedgehog
-
-  light
-
-  clip
-
-  purchase
-
-  amount
-
-  naive'
-bip_39_word_new_line_8: 'material
-
-  hedgehog
-
-  light
-
-  clip
-
-  purchase
-
-  amount
-
-  naive
-
-  actor'
-bip_39_word_new_line_9: 'material
-
-  hedgehog
-
-  light
-
-  clip
-
-  purchase
-
-  amount
-
-  naive
-
-  actor
-
-  spice'
-bip_39_word_no_space_1: material
-bip_39_word_no_space_10: materialhedgehoglightclippurchaseamountnaiveactorspicecoin
-bip_39_word_no_space_11: materialhedgehoglightclippurchaseamountnaiveactorspicecoinbroken
 bip_39_word_no_space_12: materialhedgehoglightclippurchaseamountnaiveactorspicecoinbrokenactor
 bip_39_word_no_space_2: materialhedgehog
 bip_39_word_no_space_3: materialhedgehoglight
-bip_39_word_no_space_4: materialhedgehoglightclip
-bip_39_word_no_space_5: materialhedgehoglightclippurchase
-bip_39_word_no_space_6: materialhedgehoglightclippurchaseamount
-bip_39_word_no_space_7: materialhedgehoglightclippurchaseamountnaive
-bip_39_word_no_space_8: materialhedgehoglightclippurchaseamountnaiveactor
-bip_39_word_no_space_9: materialhedgehoglightclippurchaseamountnaiveactorspice
-bip_39_word_space_0:
-- material
-- hedgehog
-- light
-- clip
-- purchase
-- amount
-- naive
-- actor
-- spice
-- coin
-- broken
-- actor
-bip_39_word_space_1: material
-bip_39_word_space_10: material hedgehog light clip purchase amount naive actor spice
-  coin
-bip_39_word_space_11: material hedgehog light clip purchase amount naive actor spice
-  coin broken
 bip_39_word_space_12: material hedgehog light clip purchase amount naive actor spice
   coin broken actor
 bip_39_word_space_2: material hedgehog
 bip_39_word_space_3: material hedgehog light
-bip_39_word_space_4: material hedgehog light clip
-bip_39_word_space_5: material hedgehog light clip purchase
-bip_39_word_space_6: material hedgehog light clip purchase amount
-bip_39_word_space_7: material hedgehog light clip purchase amount naive
-bip_39_word_space_8: material hedgehog light clip purchase amount naive actor
-bip_39_word_space_9: material hedgehog light clip purchase amount naive actor spice
-bip_39_word_underscore_1: material
-bip_39_word_underscore_10: material_hedgehog_light_clip_purchase_amount_naive_actor_spice_coin
-bip_39_word_underscore_11: material_hedgehog_light_clip_purchase_amount_naive_actor_spice_coin_broken
 bip_39_word_underscore_12: material_hedgehog_light_clip_purchase_amount_naive_actor_spice_coin_broken_actor
 bip_39_word_underscore_2: material_hedgehog
 bip_39_word_underscore_3: material_hedgehog_light
-bip_39_word_underscore_4: material_hedgehog_light_clip
-bip_39_word_underscore_5: material_hedgehog_light_clip_purchase
-bip_39_word_underscore_6: material_hedgehog_light_clip_purchase_amount
-bip_39_word_underscore_7: material_hedgehog_light_clip_purchase_amount_naive
-bip_39_word_underscore_8: material_hedgehog_light_clip_purchase_amount_naive_actor
-bip_39_word_underscore_9: material_hedgehog_light_clip_purchase_amount_naive_actor_spice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: space
-bip_39_word_dash_10: space-pause-tornado-left-taste-length-beyond-gap-math-cage
-bip_39_word_dash_11: space-pause-tornado-left-taste-length-beyond-gap-math-cage-empty
 bip_39_word_dash_12: space-pause-tornado-left-taste-length-beyond-gap-math-cage-empty-auto
 bip_39_word_dash_2: space-pause
 bip_39_word_dash_3: space-pause-tornado
-bip_39_word_dash_4: space-pause-tornado-left
-bip_39_word_dash_5: space-pause-tornado-left-taste
-bip_39_word_dash_6: space-pause-tornado-left-taste-length
-bip_39_word_dash_7: space-pause-tornado-left-taste-length-beyond
-bip_39_word_dash_8: space-pause-tornado-left-taste-length-beyond-gap
-bip_39_word_dash_9: space-pause-tornado-left-taste-length-beyond-gap-math
-bip_39_word_new_br_1: space
-bip_39_word_new_br_10: space<br>pause<br>tornado<br>left<br>taste<br>length<br>beyond<br>gap<br>math<br>cage
-bip_39_word_new_br_11: space<br>pause<br>tornado<br>left<br>taste<br>length<br>beyond<br>gap<br>math<br>cage<br>empty
 bip_39_word_new_br_12: space<br>pause<br>tornado<br>left<br>taste<br>length<br>beyond<br>gap<br>math<br>cage<br>empty<br>auto
 bip_39_word_new_br_2: space<br>pause
 bip_39_word_new_br_3: space<br>pause<br>tornado
-bip_39_word_new_br_4: space<br>pause<br>tornado<br>left
-bip_39_word_new_br_5: space<br>pause<br>tornado<br>left<br>taste
-bip_39_word_new_br_6: space<br>pause<br>tornado<br>left<br>taste<br>length
-bip_39_word_new_br_7: space<br>pause<br>tornado<br>left<br>taste<br>length<br>beyond
-bip_39_word_new_br_8: space<br>pause<br>tornado<br>left<br>taste<br>length<br>beyond<br>gap
-bip_39_word_new_br_9: space<br>pause<br>tornado<br>left<br>taste<br>length<br>beyond<br>gap<br>math
-bip_39_word_new_line_1: space
-bip_39_word_new_line_10: 'space
-
-  pause
-
-  tornado
-
-  left
-
-  taste
-
-  length
-
-  beyond
-
-  gap
-
-  math
-
-  cage'
-bip_39_word_new_line_11: 'space
-
-  pause
-
-  tornado
-
-  left
-
-  taste
-
-  length
-
-  beyond
-
-  gap
-
-  math
-
-  cage
-
-  empty'
 bip_39_word_new_line_12: 'space
 
   pause
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'space
   pause
 
   tornado'
-bip_39_word_new_line_4: 'space
-
-  pause
-
-  tornado
-
-  left'
-bip_39_word_new_line_5: 'space
-
-  pause
-
-  tornado
-
-  left
-
-  taste'
-bip_39_word_new_line_6: 'space
-
-  pause
-
-  tornado
-
-  left
-
-  taste
-
-  length'
-bip_39_word_new_line_7: 'space
-
-  pause
-
-  tornado
-
-  left
-
-  taste
-
-  length
-
-  beyond'
-bip_39_word_new_line_8: 'space
-
-  pause
-
-  tornado
-
-  left
-
-  taste
-
-  length
-
-  beyond
-
-  gap'
-bip_39_word_new_line_9: 'space
-
-  pause
-
-  tornado
-
-  left
-
-  taste
-
-  length
-
-  beyond
-
-  gap
-
-  math'
-bip_39_word_no_space_1: space
-bip_39_word_no_space_10: spacepausetornadolefttastelengthbeyondgapmathcage
-bip_39_word_no_space_11: spacepausetornadolefttastelengthbeyondgapmathcageempty
 bip_39_word_no_space_12: spacepausetornadolefttastelengthbeyondgapmathcageemptyauto
 bip_39_word_no_space_2: spacepause
 bip_39_word_no_space_3: spacepausetornado
-bip_39_word_no_space_4: spacepausetornadoleft
-bip_39_word_no_space_5: spacepausetornadolefttaste
-bip_39_word_no_space_6: spacepausetornadolefttastelength
-bip_39_word_no_space_7: spacepausetornadolefttastelengthbeyond
-bip_39_word_no_space_8: spacepausetornadolefttastelengthbeyondgap
-bip_39_word_no_space_9: spacepausetornadolefttastelengthbeyondgapmath
-bip_39_word_space_0:
-- space
-- pause
-- tornado
-- left
-- taste
-- length
-- beyond
-- gap
-- math
-- cage
-- empty
-- auto
-bip_39_word_space_1: space
-bip_39_word_space_10: space pause tornado left taste length beyond gap math cage
-bip_39_word_space_11: space pause tornado left taste length beyond gap math cage empty
 bip_39_word_space_12: space pause tornado left taste length beyond gap math cage empty
   auto
 bip_39_word_space_2: space pause
 bip_39_word_space_3: space pause tornado
-bip_39_word_space_4: space pause tornado left
-bip_39_word_space_5: space pause tornado left taste
-bip_39_word_space_6: space pause tornado left taste length
-bip_39_word_space_7: space pause tornado left taste length beyond
-bip_39_word_space_8: space pause tornado left taste length beyond gap
-bip_39_word_space_9: space pause tornado left taste length beyond gap math
-bip_39_word_underscore_1: space
-bip_39_word_underscore_10: space_pause_tornado_left_taste_length_beyond_gap_math_cage
-bip_39_word_underscore_11: space_pause_tornado_left_taste_length_beyond_gap_math_cage_empty
 bip_39_word_underscore_12: space_pause_tornado_left_taste_length_beyond_gap_math_cage_empty_auto
 bip_39_word_underscore_2: space_pause
 bip_39_word_underscore_3: space_pause_tornado
-bip_39_word_underscore_4: space_pause_tornado_left
-bip_39_word_underscore_5: space_pause_tornado_left_taste
-bip_39_word_underscore_6: space_pause_tornado_left_taste_length
-bip_39_word_underscore_7: space_pause_tornado_left_taste_length_beyond
-bip_39_word_underscore_8: space_pause_tornado_left_taste_length_beyond_gap
-bip_39_word_underscore_9: space_pause_tornado_left_taste_length_beyond_gap_math
 classification: category
 classification_capital: Category
 classification_first_letter: c

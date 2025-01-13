@@ -1,68 +1,9 @@
-bip_39_word_dash_1: switch
-bip_39_word_dash_10: switch-toss-bread-silver-crystal-elite-skate-ecology-feature-more
-bip_39_word_dash_11: switch-toss-bread-silver-crystal-elite-skate-ecology-feature-more-focus
 bip_39_word_dash_12: switch-toss-bread-silver-crystal-elite-skate-ecology-feature-more-focus-atom
 bip_39_word_dash_2: switch-toss
 bip_39_word_dash_3: switch-toss-bread
-bip_39_word_dash_4: switch-toss-bread-silver
-bip_39_word_dash_5: switch-toss-bread-silver-crystal
-bip_39_word_dash_6: switch-toss-bread-silver-crystal-elite
-bip_39_word_dash_7: switch-toss-bread-silver-crystal-elite-skate
-bip_39_word_dash_8: switch-toss-bread-silver-crystal-elite-skate-ecology
-bip_39_word_dash_9: switch-toss-bread-silver-crystal-elite-skate-ecology-feature
-bip_39_word_new_br_1: switch
-bip_39_word_new_br_10: switch<br>toss<br>bread<br>silver<br>crystal<br>elite<br>skate<br>ecology<br>feature<br>more
-bip_39_word_new_br_11: switch<br>toss<br>bread<br>silver<br>crystal<br>elite<br>skate<br>ecology<br>feature<br>more<br>focus
 bip_39_word_new_br_12: switch<br>toss<br>bread<br>silver<br>crystal<br>elite<br>skate<br>ecology<br>feature<br>more<br>focus<br>atom
 bip_39_word_new_br_2: switch<br>toss
 bip_39_word_new_br_3: switch<br>toss<br>bread
-bip_39_word_new_br_4: switch<br>toss<br>bread<br>silver
-bip_39_word_new_br_5: switch<br>toss<br>bread<br>silver<br>crystal
-bip_39_word_new_br_6: switch<br>toss<br>bread<br>silver<br>crystal<br>elite
-bip_39_word_new_br_7: switch<br>toss<br>bread<br>silver<br>crystal<br>elite<br>skate
-bip_39_word_new_br_8: switch<br>toss<br>bread<br>silver<br>crystal<br>elite<br>skate<br>ecology
-bip_39_word_new_br_9: switch<br>toss<br>bread<br>silver<br>crystal<br>elite<br>skate<br>ecology<br>feature
-bip_39_word_new_line_1: switch
-bip_39_word_new_line_10: 'switch
-
-  toss
-
-  bread
-
-  silver
-
-  crystal
-
-  elite
-
-  skate
-
-  ecology
-
-  feature
-
-  more'
-bip_39_word_new_line_11: 'switch
-
-  toss
-
-  bread
-
-  silver
-
-  crystal
-
-  elite
-
-  skate
-
-  ecology
-
-  feature
-
-  more
-
-  focus'
 bip_39_word_new_line_12: 'switch
 
   toss
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'switch
   toss
 
   bread'
-bip_39_word_new_line_4: 'switch
-
-  toss
-
-  bread
-
-  silver'
-bip_39_word_new_line_5: 'switch
-
-  toss
-
-  bread
-
-  silver
-
-  crystal'
-bip_39_word_new_line_6: 'switch
-
-  toss
-
-  bread
-
-  silver
-
-  crystal
-
-  elite'
-bip_39_word_new_line_7: 'switch
-
-  toss
-
-  bread
-
-  silver
-
-  crystal
-
-  elite
-
-  skate'
-bip_39_word_new_line_8: 'switch
-
-  toss
-
-  bread
-
-  silver
-
-  crystal
-
-  elite
-
-  skate
-
-  ecology'
-bip_39_word_new_line_9: 'switch
-
-  toss
-
-  bread
-
-  silver
-
-  crystal
-
-  elite
-
-  skate
-
-  ecology
-
-  feature'
-bip_39_word_no_space_1: switch
-bip_39_word_no_space_10: switchtossbreadsilvercrystaleliteskateecologyfeaturemore
-bip_39_word_no_space_11: switchtossbreadsilvercrystaleliteskateecologyfeaturemorefocus
 bip_39_word_no_space_12: switchtossbreadsilvercrystaleliteskateecologyfeaturemorefocusatom
 bip_39_word_no_space_2: switchtoss
 bip_39_word_no_space_3: switchtossbread
-bip_39_word_no_space_4: switchtossbreadsilver
-bip_39_word_no_space_5: switchtossbreadsilvercrystal
-bip_39_word_no_space_6: switchtossbreadsilvercrystalelite
-bip_39_word_no_space_7: switchtossbreadsilvercrystaleliteskate
-bip_39_word_no_space_8: switchtossbreadsilvercrystaleliteskateecology
-bip_39_word_no_space_9: switchtossbreadsilvercrystaleliteskateecologyfeature
-bip_39_word_space_0:
-- switch
-- toss
-- bread
-- silver
-- crystal
-- elite
-- skate
-- ecology
-- feature
-- more
-- focus
-- atom
-bip_39_word_space_1: switch
-bip_39_word_space_10: switch toss bread silver crystal elite skate ecology feature
-  more
-bip_39_word_space_11: switch toss bread silver crystal elite skate ecology feature
-  more focus
 bip_39_word_space_12: switch toss bread silver crystal elite skate ecology feature
   more focus atom
 bip_39_word_space_2: switch toss
 bip_39_word_space_3: switch toss bread
-bip_39_word_space_4: switch toss bread silver
-bip_39_word_space_5: switch toss bread silver crystal
-bip_39_word_space_6: switch toss bread silver crystal elite
-bip_39_word_space_7: switch toss bread silver crystal elite skate
-bip_39_word_space_8: switch toss bread silver crystal elite skate ecology
-bip_39_word_space_9: switch toss bread silver crystal elite skate ecology feature
-bip_39_word_underscore_1: switch
-bip_39_word_underscore_10: switch_toss_bread_silver_crystal_elite_skate_ecology_feature_more
-bip_39_word_underscore_11: switch_toss_bread_silver_crystal_elite_skate_ecology_feature_more_focus
 bip_39_word_underscore_12: switch_toss_bread_silver_crystal_elite_skate_ecology_feature_more_focus_atom
 bip_39_word_underscore_2: switch_toss
 bip_39_word_underscore_3: switch_toss_bread
-bip_39_word_underscore_4: switch_toss_bread_silver
-bip_39_word_underscore_5: switch_toss_bread_silver_crystal
-bip_39_word_underscore_6: switch_toss_bread_silver_crystal_elite
-bip_39_word_underscore_7: switch_toss_bread_silver_crystal_elite_skate
-bip_39_word_underscore_8: switch_toss_bread_silver_crystal_elite_skate_ecology
-bip_39_word_underscore_9: switch_toss_bread_silver_crystal_elite_skate_ecology_feature
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

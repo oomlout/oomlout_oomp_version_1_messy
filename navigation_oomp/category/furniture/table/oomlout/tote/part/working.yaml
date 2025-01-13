@@ -1,45 +1,9 @@
-bip_39_word_dash_1: token
-bip_39_word_dash_10: token-monkey-scatter-prefer-someone-slab-forum-rich-surge-tilt
 bip_39_word_dash_11: token-monkey-scatter-prefer-someone-slab-forum-rich-surge-tilt-title
 bip_39_word_dash_2: token-monkey
 bip_39_word_dash_3: token-monkey-scatter
-bip_39_word_dash_4: token-monkey-scatter-prefer
-bip_39_word_dash_5: token-monkey-scatter-prefer-someone
-bip_39_word_dash_6: token-monkey-scatter-prefer-someone-slab
-bip_39_word_dash_7: token-monkey-scatter-prefer-someone-slab-forum
-bip_39_word_dash_8: token-monkey-scatter-prefer-someone-slab-forum-rich
-bip_39_word_dash_9: token-monkey-scatter-prefer-someone-slab-forum-rich-surge
-bip_39_word_new_br_1: token
-bip_39_word_new_br_10: token<br>monkey<br>scatter<br>prefer<br>someone<br>slab<br>forum<br>rich<br>surge<br>tilt
 bip_39_word_new_br_11: token<br>monkey<br>scatter<br>prefer<br>someone<br>slab<br>forum<br>rich<br>surge<br>tilt<br>title
 bip_39_word_new_br_2: token<br>monkey
 bip_39_word_new_br_3: token<br>monkey<br>scatter
-bip_39_word_new_br_4: token<br>monkey<br>scatter<br>prefer
-bip_39_word_new_br_5: token<br>monkey<br>scatter<br>prefer<br>someone
-bip_39_word_new_br_6: token<br>monkey<br>scatter<br>prefer<br>someone<br>slab
-bip_39_word_new_br_7: token<br>monkey<br>scatter<br>prefer<br>someone<br>slab<br>forum
-bip_39_word_new_br_8: token<br>monkey<br>scatter<br>prefer<br>someone<br>slab<br>forum<br>rich
-bip_39_word_new_br_9: token<br>monkey<br>scatter<br>prefer<br>someone<br>slab<br>forum<br>rich<br>surge
-bip_39_word_new_line_1: token
-bip_39_word_new_line_10: 'token
-
-  monkey
-
-  scatter
-
-  prefer
-
-  someone
-
-  slab
-
-  forum
-
-  rich
-
-  surge
-
-  tilt'
 bip_39_word_new_line_11: 'token
 
   monkey
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'token
   monkey
 
   scatter'
-bip_39_word_new_line_4: 'token
-
-  monkey
-
-  scatter
-
-  prefer'
-bip_39_word_new_line_5: 'token
-
-  monkey
-
-  scatter
-
-  prefer
-
-  someone'
-bip_39_word_new_line_6: 'token
-
-  monkey
-
-  scatter
-
-  prefer
-
-  someone
-
-  slab'
-bip_39_word_new_line_7: 'token
-
-  monkey
-
-  scatter
-
-  prefer
-
-  someone
-
-  slab
-
-  forum'
-bip_39_word_new_line_8: 'token
-
-  monkey
-
-  scatter
-
-  prefer
-
-  someone
-
-  slab
-
-  forum
-
-  rich'
-bip_39_word_new_line_9: 'token
-
-  monkey
-
-  scatter
-
-  prefer
-
-  someone
-
-  slab
-
-  forum
-
-  rich
-
-  surge'
-bip_39_word_no_space_1: token
-bip_39_word_no_space_10: tokenmonkeyscatterprefersomeoneslabforumrichsurgetilt
 bip_39_word_no_space_11: tokenmonkeyscatterprefersomeoneslabforumrichsurgetilttitle
 bip_39_word_no_space_2: tokenmonkey
 bip_39_word_no_space_3: tokenmonkeyscatter
-bip_39_word_no_space_4: tokenmonkeyscatterprefer
-bip_39_word_no_space_5: tokenmonkeyscatterprefersomeone
-bip_39_word_no_space_6: tokenmonkeyscatterprefersomeoneslab
-bip_39_word_no_space_7: tokenmonkeyscatterprefersomeoneslabforum
-bip_39_word_no_space_8: tokenmonkeyscatterprefersomeoneslabforumrich
-bip_39_word_no_space_9: tokenmonkeyscatterprefersomeoneslabforumrichsurge
-bip_39_word_space_0:
-- token
-- monkey
-- scatter
-- prefer
-- someone
-- slab
-- forum
-- rich
-- surge
-- tilt
-- title
-bip_39_word_space_1: token
-bip_39_word_space_10: token monkey scatter prefer someone slab forum rich surge tilt
 bip_39_word_space_11: token monkey scatter prefer someone slab forum rich surge tilt
   title
 bip_39_word_space_2: token monkey
 bip_39_word_space_3: token monkey scatter
-bip_39_word_space_4: token monkey scatter prefer
-bip_39_word_space_5: token monkey scatter prefer someone
-bip_39_word_space_6: token monkey scatter prefer someone slab
-bip_39_word_space_7: token monkey scatter prefer someone slab forum
-bip_39_word_space_8: token monkey scatter prefer someone slab forum rich
-bip_39_word_space_9: token monkey scatter prefer someone slab forum rich surge
-bip_39_word_underscore_1: token
-bip_39_word_underscore_10: token_monkey_scatter_prefer_someone_slab_forum_rich_surge_tilt
 bip_39_word_underscore_11: token_monkey_scatter_prefer_someone_slab_forum_rich_surge_tilt_title
 bip_39_word_underscore_2: token_monkey
 bip_39_word_underscore_3: token_monkey_scatter
-bip_39_word_underscore_4: token_monkey_scatter_prefer
-bip_39_word_underscore_5: token_monkey_scatter_prefer_someone
-bip_39_word_underscore_6: token_monkey_scatter_prefer_someone_slab
-bip_39_word_underscore_7: token_monkey_scatter_prefer_someone_slab_forum
-bip_39_word_underscore_8: token_monkey_scatter_prefer_someone_slab_forum_rich
-bip_39_word_underscore_9: token_monkey_scatter_prefer_someone_slab_forum_rich_surge
 classification: category
 classification_capital: Category
 classification_first_letter: c

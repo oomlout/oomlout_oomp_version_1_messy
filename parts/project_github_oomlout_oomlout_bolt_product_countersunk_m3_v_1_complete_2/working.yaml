@@ -1,68 +1,9 @@
-bip_39_word_dash_1: citizen
-bip_39_word_dash_10: citizen-client-soap-truth-royal-mimic-ski-range-enroll-drum
-bip_39_word_dash_11: citizen-client-soap-truth-royal-mimic-ski-range-enroll-drum-erupt
 bip_39_word_dash_12: citizen-client-soap-truth-royal-mimic-ski-range-enroll-drum-erupt-art
 bip_39_word_dash_2: citizen-client
 bip_39_word_dash_3: citizen-client-soap
-bip_39_word_dash_4: citizen-client-soap-truth
-bip_39_word_dash_5: citizen-client-soap-truth-royal
-bip_39_word_dash_6: citizen-client-soap-truth-royal-mimic
-bip_39_word_dash_7: citizen-client-soap-truth-royal-mimic-ski
-bip_39_word_dash_8: citizen-client-soap-truth-royal-mimic-ski-range
-bip_39_word_dash_9: citizen-client-soap-truth-royal-mimic-ski-range-enroll
-bip_39_word_new_br_1: citizen
-bip_39_word_new_br_10: citizen<br>client<br>soap<br>truth<br>royal<br>mimic<br>ski<br>range<br>enroll<br>drum
-bip_39_word_new_br_11: citizen<br>client<br>soap<br>truth<br>royal<br>mimic<br>ski<br>range<br>enroll<br>drum<br>erupt
 bip_39_word_new_br_12: citizen<br>client<br>soap<br>truth<br>royal<br>mimic<br>ski<br>range<br>enroll<br>drum<br>erupt<br>art
 bip_39_word_new_br_2: citizen<br>client
 bip_39_word_new_br_3: citizen<br>client<br>soap
-bip_39_word_new_br_4: citizen<br>client<br>soap<br>truth
-bip_39_word_new_br_5: citizen<br>client<br>soap<br>truth<br>royal
-bip_39_word_new_br_6: citizen<br>client<br>soap<br>truth<br>royal<br>mimic
-bip_39_word_new_br_7: citizen<br>client<br>soap<br>truth<br>royal<br>mimic<br>ski
-bip_39_word_new_br_8: citizen<br>client<br>soap<br>truth<br>royal<br>mimic<br>ski<br>range
-bip_39_word_new_br_9: citizen<br>client<br>soap<br>truth<br>royal<br>mimic<br>ski<br>range<br>enroll
-bip_39_word_new_line_1: citizen
-bip_39_word_new_line_10: 'citizen
-
-  client
-
-  soap
-
-  truth
-
-  royal
-
-  mimic
-
-  ski
-
-  range
-
-  enroll
-
-  drum'
-bip_39_word_new_line_11: 'citizen
-
-  client
-
-  soap
-
-  truth
-
-  royal
-
-  mimic
-
-  ski
-
-  range
-
-  enroll
-
-  drum
-
-  erupt'
 bip_39_word_new_line_12: 'citizen
 
   client
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'citizen
   client
 
   soap'
-bip_39_word_new_line_4: 'citizen
-
-  client
-
-  soap
-
-  truth'
-bip_39_word_new_line_5: 'citizen
-
-  client
-
-  soap
-
-  truth
-
-  royal'
-bip_39_word_new_line_6: 'citizen
-
-  client
-
-  soap
-
-  truth
-
-  royal
-
-  mimic'
-bip_39_word_new_line_7: 'citizen
-
-  client
-
-  soap
-
-  truth
-
-  royal
-
-  mimic
-
-  ski'
-bip_39_word_new_line_8: 'citizen
-
-  client
-
-  soap
-
-  truth
-
-  royal
-
-  mimic
-
-  ski
-
-  range'
-bip_39_word_new_line_9: 'citizen
-
-  client
-
-  soap
-
-  truth
-
-  royal
-
-  mimic
-
-  ski
-
-  range
-
-  enroll'
-bip_39_word_no_space_1: citizen
-bip_39_word_no_space_10: citizenclientsoaptruthroyalmimicskirangeenrolldrum
-bip_39_word_no_space_11: citizenclientsoaptruthroyalmimicskirangeenrolldrumerupt
 bip_39_word_no_space_12: citizenclientsoaptruthroyalmimicskirangeenrolldrumeruptart
 bip_39_word_no_space_2: citizenclient
 bip_39_word_no_space_3: citizenclientsoap
-bip_39_word_no_space_4: citizenclientsoaptruth
-bip_39_word_no_space_5: citizenclientsoaptruthroyal
-bip_39_word_no_space_6: citizenclientsoaptruthroyalmimic
-bip_39_word_no_space_7: citizenclientsoaptruthroyalmimicski
-bip_39_word_no_space_8: citizenclientsoaptruthroyalmimicskirange
-bip_39_word_no_space_9: citizenclientsoaptruthroyalmimicskirangeenroll
-bip_39_word_space_0:
-- citizen
-- client
-- soap
-- truth
-- royal
-- mimic
-- ski
-- range
-- enroll
-- drum
-- erupt
-- art
-bip_39_word_space_1: citizen
-bip_39_word_space_10: citizen client soap truth royal mimic ski range enroll drum
-bip_39_word_space_11: citizen client soap truth royal mimic ski range enroll drum
-  erupt
 bip_39_word_space_12: citizen client soap truth royal mimic ski range enroll drum
   erupt art
 bip_39_word_space_2: citizen client
 bip_39_word_space_3: citizen client soap
-bip_39_word_space_4: citizen client soap truth
-bip_39_word_space_5: citizen client soap truth royal
-bip_39_word_space_6: citizen client soap truth royal mimic
-bip_39_word_space_7: citizen client soap truth royal mimic ski
-bip_39_word_space_8: citizen client soap truth royal mimic ski range
-bip_39_word_space_9: citizen client soap truth royal mimic ski range enroll
-bip_39_word_underscore_1: citizen
-bip_39_word_underscore_10: citizen_client_soap_truth_royal_mimic_ski_range_enroll_drum
-bip_39_word_underscore_11: citizen_client_soap_truth_royal_mimic_ski_range_enroll_drum_erupt
 bip_39_word_underscore_12: citizen_client_soap_truth_royal_mimic_ski_range_enroll_drum_erupt_art
 bip_39_word_underscore_2: citizen_client
 bip_39_word_underscore_3: citizen_client_soap
-bip_39_word_underscore_4: citizen_client_soap_truth
-bip_39_word_underscore_5: citizen_client_soap_truth_royal
-bip_39_word_underscore_6: citizen_client_soap_truth_royal_mimic
-bip_39_word_underscore_7: citizen_client_soap_truth_royal_mimic_ski
-bip_39_word_underscore_8: citizen_client_soap_truth_royal_mimic_ski_range
-bip_39_word_underscore_9: citizen_client_soap_truth_royal_mimic_ski_range_enroll
 classification: project
 classification_capital: Project
 classification_first_letter: p

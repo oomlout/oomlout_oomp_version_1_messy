@@ -1,68 +1,9 @@
-bip_39_word_dash_1: depth
-bip_39_word_dash_10: depth-hedgehog-seat-you-elbow-bread-spoil-vessel-camera-loyal
-bip_39_word_dash_11: depth-hedgehog-seat-you-elbow-bread-spoil-vessel-camera-loyal-swamp
 bip_39_word_dash_12: depth-hedgehog-seat-you-elbow-bread-spoil-vessel-camera-loyal-swamp-abstract
 bip_39_word_dash_2: depth-hedgehog
 bip_39_word_dash_3: depth-hedgehog-seat
-bip_39_word_dash_4: depth-hedgehog-seat-you
-bip_39_word_dash_5: depth-hedgehog-seat-you-elbow
-bip_39_word_dash_6: depth-hedgehog-seat-you-elbow-bread
-bip_39_word_dash_7: depth-hedgehog-seat-you-elbow-bread-spoil
-bip_39_word_dash_8: depth-hedgehog-seat-you-elbow-bread-spoil-vessel
-bip_39_word_dash_9: depth-hedgehog-seat-you-elbow-bread-spoil-vessel-camera
-bip_39_word_new_br_1: depth
-bip_39_word_new_br_10: depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel<br>camera<br>loyal
-bip_39_word_new_br_11: depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel<br>camera<br>loyal<br>swamp
 bip_39_word_new_br_12: depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel<br>camera<br>loyal<br>swamp<br>abstract
 bip_39_word_new_br_2: depth<br>hedgehog
 bip_39_word_new_br_3: depth<br>hedgehog<br>seat
-bip_39_word_new_br_4: depth<br>hedgehog<br>seat<br>you
-bip_39_word_new_br_5: depth<br>hedgehog<br>seat<br>you<br>elbow
-bip_39_word_new_br_6: depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread
-bip_39_word_new_br_7: depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil
-bip_39_word_new_br_8: depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel
-bip_39_word_new_br_9: depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel<br>camera
-bip_39_word_new_line_1: depth
-bip_39_word_new_line_10: 'depth
-
-  hedgehog
-
-  seat
-
-  you
-
-  elbow
-
-  bread
-
-  spoil
-
-  vessel
-
-  camera
-
-  loyal'
-bip_39_word_new_line_11: 'depth
-
-  hedgehog
-
-  seat
-
-  you
-
-  elbow
-
-  bread
-
-  spoil
-
-  vessel
-
-  camera
-
-  loyal
-
-  swamp'
 bip_39_word_new_line_12: 'depth
 
   hedgehog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'depth
   hedgehog
 
   seat'
-bip_39_word_new_line_4: 'depth
-
-  hedgehog
-
-  seat
-
-  you'
-bip_39_word_new_line_5: 'depth
-
-  hedgehog
-
-  seat
-
-  you
-
-  elbow'
-bip_39_word_new_line_6: 'depth
-
-  hedgehog
-
-  seat
-
-  you
-
-  elbow
-
-  bread'
-bip_39_word_new_line_7: 'depth
-
-  hedgehog
-
-  seat
-
-  you
-
-  elbow
-
-  bread
-
-  spoil'
-bip_39_word_new_line_8: 'depth
-
-  hedgehog
-
-  seat
-
-  you
-
-  elbow
-
-  bread
-
-  spoil
-
-  vessel'
-bip_39_word_new_line_9: 'depth
-
-  hedgehog
-
-  seat
-
-  you
-
-  elbow
-
-  bread
-
-  spoil
-
-  vessel
-
-  camera'
-bip_39_word_no_space_1: depth
-bip_39_word_no_space_10: depthhedgehogseatyouelbowbreadspoilvesselcameraloyal
-bip_39_word_no_space_11: depthhedgehogseatyouelbowbreadspoilvesselcameraloyalswamp
 bip_39_word_no_space_12: depthhedgehogseatyouelbowbreadspoilvesselcameraloyalswampabstract
 bip_39_word_no_space_2: depthhedgehog
 bip_39_word_no_space_3: depthhedgehogseat
-bip_39_word_no_space_4: depthhedgehogseatyou
-bip_39_word_no_space_5: depthhedgehogseatyouelbow
-bip_39_word_no_space_6: depthhedgehogseatyouelbowbread
-bip_39_word_no_space_7: depthhedgehogseatyouelbowbreadspoil
-bip_39_word_no_space_8: depthhedgehogseatyouelbowbreadspoilvessel
-bip_39_word_no_space_9: depthhedgehogseatyouelbowbreadspoilvesselcamera
-bip_39_word_space_0:
-- depth
-- hedgehog
-- seat
-- you
-- elbow
-- bread
-- spoil
-- vessel
-- camera
-- loyal
-- swamp
-- abstract
-bip_39_word_space_1: depth
-bip_39_word_space_10: depth hedgehog seat you elbow bread spoil vessel camera loyal
-bip_39_word_space_11: depth hedgehog seat you elbow bread spoil vessel camera loyal
-  swamp
 bip_39_word_space_12: depth hedgehog seat you elbow bread spoil vessel camera loyal
   swamp abstract
 bip_39_word_space_2: depth hedgehog
 bip_39_word_space_3: depth hedgehog seat
-bip_39_word_space_4: depth hedgehog seat you
-bip_39_word_space_5: depth hedgehog seat you elbow
-bip_39_word_space_6: depth hedgehog seat you elbow bread
-bip_39_word_space_7: depth hedgehog seat you elbow bread spoil
-bip_39_word_space_8: depth hedgehog seat you elbow bread spoil vessel
-bip_39_word_space_9: depth hedgehog seat you elbow bread spoil vessel camera
-bip_39_word_underscore_1: depth
-bip_39_word_underscore_10: depth_hedgehog_seat_you_elbow_bread_spoil_vessel_camera_loyal
-bip_39_word_underscore_11: depth_hedgehog_seat_you_elbow_bread_spoil_vessel_camera_loyal_swamp
 bip_39_word_underscore_12: depth_hedgehog_seat_you_elbow_bread_spoil_vessel_camera_loyal_swamp_abstract
 bip_39_word_underscore_2: depth_hedgehog
 bip_39_word_underscore_3: depth_hedgehog_seat
-bip_39_word_underscore_4: depth_hedgehog_seat_you
-bip_39_word_underscore_5: depth_hedgehog_seat_you_elbow
-bip_39_word_underscore_6: depth_hedgehog_seat_you_elbow_bread
-bip_39_word_underscore_7: depth_hedgehog_seat_you_elbow_bread_spoil
-bip_39_word_underscore_8: depth_hedgehog_seat_you_elbow_bread_spoil_vessel
-bip_39_word_underscore_9: depth_hedgehog_seat_you_elbow_bread_spoil_vessel_camera
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

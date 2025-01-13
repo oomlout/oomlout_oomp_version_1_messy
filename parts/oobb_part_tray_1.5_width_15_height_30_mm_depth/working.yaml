@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mountain
-bip_39_word_dash_10: mountain-rack-unfold-artefact-hood-fantasy-clutch-virus-alarm-speak
-bip_39_word_dash_11: mountain-rack-unfold-artefact-hood-fantasy-clutch-virus-alarm-speak-grain
 bip_39_word_dash_12: mountain-rack-unfold-artefact-hood-fantasy-clutch-virus-alarm-speak-grain-absent
 bip_39_word_dash_2: mountain-rack
 bip_39_word_dash_3: mountain-rack-unfold
-bip_39_word_dash_4: mountain-rack-unfold-artefact
-bip_39_word_dash_5: mountain-rack-unfold-artefact-hood
-bip_39_word_dash_6: mountain-rack-unfold-artefact-hood-fantasy
-bip_39_word_dash_7: mountain-rack-unfold-artefact-hood-fantasy-clutch
-bip_39_word_dash_8: mountain-rack-unfold-artefact-hood-fantasy-clutch-virus
-bip_39_word_dash_9: mountain-rack-unfold-artefact-hood-fantasy-clutch-virus-alarm
-bip_39_word_new_br_1: mountain
-bip_39_word_new_br_10: mountain<br>rack<br>unfold<br>artefact<br>hood<br>fantasy<br>clutch<br>virus<br>alarm<br>speak
-bip_39_word_new_br_11: mountain<br>rack<br>unfold<br>artefact<br>hood<br>fantasy<br>clutch<br>virus<br>alarm<br>speak<br>grain
 bip_39_word_new_br_12: mountain<br>rack<br>unfold<br>artefact<br>hood<br>fantasy<br>clutch<br>virus<br>alarm<br>speak<br>grain<br>absent
 bip_39_word_new_br_2: mountain<br>rack
 bip_39_word_new_br_3: mountain<br>rack<br>unfold
-bip_39_word_new_br_4: mountain<br>rack<br>unfold<br>artefact
-bip_39_word_new_br_5: mountain<br>rack<br>unfold<br>artefact<br>hood
-bip_39_word_new_br_6: mountain<br>rack<br>unfold<br>artefact<br>hood<br>fantasy
-bip_39_word_new_br_7: mountain<br>rack<br>unfold<br>artefact<br>hood<br>fantasy<br>clutch
-bip_39_word_new_br_8: mountain<br>rack<br>unfold<br>artefact<br>hood<br>fantasy<br>clutch<br>virus
-bip_39_word_new_br_9: mountain<br>rack<br>unfold<br>artefact<br>hood<br>fantasy<br>clutch<br>virus<br>alarm
-bip_39_word_new_line_1: mountain
-bip_39_word_new_line_10: 'mountain
-
-  rack
-
-  unfold
-
-  artefact
-
-  hood
-
-  fantasy
-
-  clutch
-
-  virus
-
-  alarm
-
-  speak'
-bip_39_word_new_line_11: 'mountain
-
-  rack
-
-  unfold
-
-  artefact
-
-  hood
-
-  fantasy
-
-  clutch
-
-  virus
-
-  alarm
-
-  speak
-
-  grain'
 bip_39_word_new_line_12: 'mountain
 
   rack
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'mountain
   rack
 
   unfold'
-bip_39_word_new_line_4: 'mountain
-
-  rack
-
-  unfold
-
-  artefact'
-bip_39_word_new_line_5: 'mountain
-
-  rack
-
-  unfold
-
-  artefact
-
-  hood'
-bip_39_word_new_line_6: 'mountain
-
-  rack
-
-  unfold
-
-  artefact
-
-  hood
-
-  fantasy'
-bip_39_word_new_line_7: 'mountain
-
-  rack
-
-  unfold
-
-  artefact
-
-  hood
-
-  fantasy
-
-  clutch'
-bip_39_word_new_line_8: 'mountain
-
-  rack
-
-  unfold
-
-  artefact
-
-  hood
-
-  fantasy
-
-  clutch
-
-  virus'
-bip_39_word_new_line_9: 'mountain
-
-  rack
-
-  unfold
-
-  artefact
-
-  hood
-
-  fantasy
-
-  clutch
-
-  virus
-
-  alarm'
-bip_39_word_no_space_1: mountain
-bip_39_word_no_space_10: mountainrackunfoldartefacthoodfantasyclutchvirusalarmspeak
-bip_39_word_no_space_11: mountainrackunfoldartefacthoodfantasyclutchvirusalarmspeakgrain
 bip_39_word_no_space_12: mountainrackunfoldartefacthoodfantasyclutchvirusalarmspeakgrainabsent
 bip_39_word_no_space_2: mountainrack
 bip_39_word_no_space_3: mountainrackunfold
-bip_39_word_no_space_4: mountainrackunfoldartefact
-bip_39_word_no_space_5: mountainrackunfoldartefacthood
-bip_39_word_no_space_6: mountainrackunfoldartefacthoodfantasy
-bip_39_word_no_space_7: mountainrackunfoldartefacthoodfantasyclutch
-bip_39_word_no_space_8: mountainrackunfoldartefacthoodfantasyclutchvirus
-bip_39_word_no_space_9: mountainrackunfoldartefacthoodfantasyclutchvirusalarm
-bip_39_word_space_0:
-- mountain
-- rack
-- unfold
-- artefact
-- hood
-- fantasy
-- clutch
-- virus
-- alarm
-- speak
-- grain
-- absent
-bip_39_word_space_1: mountain
-bip_39_word_space_10: mountain rack unfold artefact hood fantasy clutch virus alarm
-  speak
-bip_39_word_space_11: mountain rack unfold artefact hood fantasy clutch virus alarm
-  speak grain
 bip_39_word_space_12: mountain rack unfold artefact hood fantasy clutch virus alarm
   speak grain absent
 bip_39_word_space_2: mountain rack
 bip_39_word_space_3: mountain rack unfold
-bip_39_word_space_4: mountain rack unfold artefact
-bip_39_word_space_5: mountain rack unfold artefact hood
-bip_39_word_space_6: mountain rack unfold artefact hood fantasy
-bip_39_word_space_7: mountain rack unfold artefact hood fantasy clutch
-bip_39_word_space_8: mountain rack unfold artefact hood fantasy clutch virus
-bip_39_word_space_9: mountain rack unfold artefact hood fantasy clutch virus alarm
-bip_39_word_underscore_1: mountain
-bip_39_word_underscore_10: mountain_rack_unfold_artefact_hood_fantasy_clutch_virus_alarm_speak
-bip_39_word_underscore_11: mountain_rack_unfold_artefact_hood_fantasy_clutch_virus_alarm_speak_grain
 bip_39_word_underscore_12: mountain_rack_unfold_artefact_hood_fantasy_clutch_virus_alarm_speak_grain_absent
 bip_39_word_underscore_2: mountain_rack
 bip_39_word_underscore_3: mountain_rack_unfold
-bip_39_word_underscore_4: mountain_rack_unfold_artefact
-bip_39_word_underscore_5: mountain_rack_unfold_artefact_hood
-bip_39_word_underscore_6: mountain_rack_unfold_artefact_hood_fantasy
-bip_39_word_underscore_7: mountain_rack_unfold_artefact_hood_fantasy_clutch
-bip_39_word_underscore_8: mountain_rack_unfold_artefact_hood_fantasy_clutch_virus
-bip_39_word_underscore_9: mountain_rack_unfold_artefact_hood_fantasy_clutch_virus_alarm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

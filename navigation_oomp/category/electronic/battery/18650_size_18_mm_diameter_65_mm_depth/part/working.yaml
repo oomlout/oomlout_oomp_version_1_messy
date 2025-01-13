@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dune
-bip_39_word_dash_10: dune-cradle-peanut-ridge-globe-dial-toilet-depend-vivid-crucial
-bip_39_word_dash_11: dune-cradle-peanut-ridge-globe-dial-toilet-depend-vivid-crucial-shine
 bip_39_word_dash_12: dune-cradle-peanut-ridge-globe-dial-toilet-depend-vivid-crucial-shine-ankle
 bip_39_word_dash_2: dune-cradle
 bip_39_word_dash_3: dune-cradle-peanut
-bip_39_word_dash_4: dune-cradle-peanut-ridge
-bip_39_word_dash_5: dune-cradle-peanut-ridge-globe
-bip_39_word_dash_6: dune-cradle-peanut-ridge-globe-dial
-bip_39_word_dash_7: dune-cradle-peanut-ridge-globe-dial-toilet
-bip_39_word_dash_8: dune-cradle-peanut-ridge-globe-dial-toilet-depend
-bip_39_word_dash_9: dune-cradle-peanut-ridge-globe-dial-toilet-depend-vivid
-bip_39_word_new_br_1: dune
-bip_39_word_new_br_10: dune<br>cradle<br>peanut<br>ridge<br>globe<br>dial<br>toilet<br>depend<br>vivid<br>crucial
-bip_39_word_new_br_11: dune<br>cradle<br>peanut<br>ridge<br>globe<br>dial<br>toilet<br>depend<br>vivid<br>crucial<br>shine
 bip_39_word_new_br_12: dune<br>cradle<br>peanut<br>ridge<br>globe<br>dial<br>toilet<br>depend<br>vivid<br>crucial<br>shine<br>ankle
 bip_39_word_new_br_2: dune<br>cradle
 bip_39_word_new_br_3: dune<br>cradle<br>peanut
-bip_39_word_new_br_4: dune<br>cradle<br>peanut<br>ridge
-bip_39_word_new_br_5: dune<br>cradle<br>peanut<br>ridge<br>globe
-bip_39_word_new_br_6: dune<br>cradle<br>peanut<br>ridge<br>globe<br>dial
-bip_39_word_new_br_7: dune<br>cradle<br>peanut<br>ridge<br>globe<br>dial<br>toilet
-bip_39_word_new_br_8: dune<br>cradle<br>peanut<br>ridge<br>globe<br>dial<br>toilet<br>depend
-bip_39_word_new_br_9: dune<br>cradle<br>peanut<br>ridge<br>globe<br>dial<br>toilet<br>depend<br>vivid
-bip_39_word_new_line_1: dune
-bip_39_word_new_line_10: 'dune
-
-  cradle
-
-  peanut
-
-  ridge
-
-  globe
-
-  dial
-
-  toilet
-
-  depend
-
-  vivid
-
-  crucial'
-bip_39_word_new_line_11: 'dune
-
-  cradle
-
-  peanut
-
-  ridge
-
-  globe
-
-  dial
-
-  toilet
-
-  depend
-
-  vivid
-
-  crucial
-
-  shine'
 bip_39_word_new_line_12: 'dune
 
   cradle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dune
   cradle
 
   peanut'
-bip_39_word_new_line_4: 'dune
-
-  cradle
-
-  peanut
-
-  ridge'
-bip_39_word_new_line_5: 'dune
-
-  cradle
-
-  peanut
-
-  ridge
-
-  globe'
-bip_39_word_new_line_6: 'dune
-
-  cradle
-
-  peanut
-
-  ridge
-
-  globe
-
-  dial'
-bip_39_word_new_line_7: 'dune
-
-  cradle
-
-  peanut
-
-  ridge
-
-  globe
-
-  dial
-
-  toilet'
-bip_39_word_new_line_8: 'dune
-
-  cradle
-
-  peanut
-
-  ridge
-
-  globe
-
-  dial
-
-  toilet
-
-  depend'
-bip_39_word_new_line_9: 'dune
-
-  cradle
-
-  peanut
-
-  ridge
-
-  globe
-
-  dial
-
-  toilet
-
-  depend
-
-  vivid'
-bip_39_word_no_space_1: dune
-bip_39_word_no_space_10: dunecradlepeanutridgeglobedialtoiletdependvividcrucial
-bip_39_word_no_space_11: dunecradlepeanutridgeglobedialtoiletdependvividcrucialshine
 bip_39_word_no_space_12: dunecradlepeanutridgeglobedialtoiletdependvividcrucialshineankle
 bip_39_word_no_space_2: dunecradle
 bip_39_word_no_space_3: dunecradlepeanut
-bip_39_word_no_space_4: dunecradlepeanutridge
-bip_39_word_no_space_5: dunecradlepeanutridgeglobe
-bip_39_word_no_space_6: dunecradlepeanutridgeglobedial
-bip_39_word_no_space_7: dunecradlepeanutridgeglobedialtoilet
-bip_39_word_no_space_8: dunecradlepeanutridgeglobedialtoiletdepend
-bip_39_word_no_space_9: dunecradlepeanutridgeglobedialtoiletdependvivid
-bip_39_word_space_0:
-- dune
-- cradle
-- peanut
-- ridge
-- globe
-- dial
-- toilet
-- depend
-- vivid
-- crucial
-- shine
-- ankle
-bip_39_word_space_1: dune
-bip_39_word_space_10: dune cradle peanut ridge globe dial toilet depend vivid crucial
-bip_39_word_space_11: dune cradle peanut ridge globe dial toilet depend vivid crucial
-  shine
 bip_39_word_space_12: dune cradle peanut ridge globe dial toilet depend vivid crucial
   shine ankle
 bip_39_word_space_2: dune cradle
 bip_39_word_space_3: dune cradle peanut
-bip_39_word_space_4: dune cradle peanut ridge
-bip_39_word_space_5: dune cradle peanut ridge globe
-bip_39_word_space_6: dune cradle peanut ridge globe dial
-bip_39_word_space_7: dune cradle peanut ridge globe dial toilet
-bip_39_word_space_8: dune cradle peanut ridge globe dial toilet depend
-bip_39_word_space_9: dune cradle peanut ridge globe dial toilet depend vivid
-bip_39_word_underscore_1: dune
-bip_39_word_underscore_10: dune_cradle_peanut_ridge_globe_dial_toilet_depend_vivid_crucial
-bip_39_word_underscore_11: dune_cradle_peanut_ridge_globe_dial_toilet_depend_vivid_crucial_shine
 bip_39_word_underscore_12: dune_cradle_peanut_ridge_globe_dial_toilet_depend_vivid_crucial_shine_ankle
 bip_39_word_underscore_2: dune_cradle
 bip_39_word_underscore_3: dune_cradle_peanut
-bip_39_word_underscore_4: dune_cradle_peanut_ridge
-bip_39_word_underscore_5: dune_cradle_peanut_ridge_globe
-bip_39_word_underscore_6: dune_cradle_peanut_ridge_globe_dial
-bip_39_word_underscore_7: dune_cradle_peanut_ridge_globe_dial_toilet
-bip_39_word_underscore_8: dune_cradle_peanut_ridge_globe_dial_toilet_depend
-bip_39_word_underscore_9: dune_cradle_peanut_ridge_globe_dial_toilet_depend_vivid
 classification: category
 classification_capital: Category
 classification_first_letter: c

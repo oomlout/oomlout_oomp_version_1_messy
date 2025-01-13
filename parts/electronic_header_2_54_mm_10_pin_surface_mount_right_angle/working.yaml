@@ -1,68 +1,9 @@
-bip_39_word_dash_1: idle
-bip_39_word_dash_10: idle-twice-bread-auto-forest-quick-govern-seed-matter-bleak
-bip_39_word_dash_11: idle-twice-bread-auto-forest-quick-govern-seed-matter-bleak-about
 bip_39_word_dash_12: idle-twice-bread-auto-forest-quick-govern-seed-matter-bleak-about-asset
 bip_39_word_dash_2: idle-twice
 bip_39_word_dash_3: idle-twice-bread
-bip_39_word_dash_4: idle-twice-bread-auto
-bip_39_word_dash_5: idle-twice-bread-auto-forest
-bip_39_word_dash_6: idle-twice-bread-auto-forest-quick
-bip_39_word_dash_7: idle-twice-bread-auto-forest-quick-govern
-bip_39_word_dash_8: idle-twice-bread-auto-forest-quick-govern-seed
-bip_39_word_dash_9: idle-twice-bread-auto-forest-quick-govern-seed-matter
-bip_39_word_new_br_1: idle
-bip_39_word_new_br_10: idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak
-bip_39_word_new_br_11: idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak<br>about
 bip_39_word_new_br_12: idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter<br>bleak<br>about<br>asset
 bip_39_word_new_br_2: idle<br>twice
 bip_39_word_new_br_3: idle<br>twice<br>bread
-bip_39_word_new_br_4: idle<br>twice<br>bread<br>auto
-bip_39_word_new_br_5: idle<br>twice<br>bread<br>auto<br>forest
-bip_39_word_new_br_6: idle<br>twice<br>bread<br>auto<br>forest<br>quick
-bip_39_word_new_br_7: idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern
-bip_39_word_new_br_8: idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed
-bip_39_word_new_br_9: idle<br>twice<br>bread<br>auto<br>forest<br>quick<br>govern<br>seed<br>matter
-bip_39_word_new_line_1: idle
-bip_39_word_new_line_10: 'idle
-
-  twice
-
-  bread
-
-  auto
-
-  forest
-
-  quick
-
-  govern
-
-  seed
-
-  matter
-
-  bleak'
-bip_39_word_new_line_11: 'idle
-
-  twice
-
-  bread
-
-  auto
-
-  forest
-
-  quick
-
-  govern
-
-  seed
-
-  matter
-
-  bleak
-
-  about'
 bip_39_word_new_line_12: 'idle
 
   twice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'idle
   twice
 
   bread'
-bip_39_word_new_line_4: 'idle
-
-  twice
-
-  bread
-
-  auto'
-bip_39_word_new_line_5: 'idle
-
-  twice
-
-  bread
-
-  auto
-
-  forest'
-bip_39_word_new_line_6: 'idle
-
-  twice
-
-  bread
-
-  auto
-
-  forest
-
-  quick'
-bip_39_word_new_line_7: 'idle
-
-  twice
-
-  bread
-
-  auto
-
-  forest
-
-  quick
-
-  govern'
-bip_39_word_new_line_8: 'idle
-
-  twice
-
-  bread
-
-  auto
-
-  forest
-
-  quick
-
-  govern
-
-  seed'
-bip_39_word_new_line_9: 'idle
-
-  twice
-
-  bread
-
-  auto
-
-  forest
-
-  quick
-
-  govern
-
-  seed
-
-  matter'
-bip_39_word_no_space_1: idle
-bip_39_word_no_space_10: idletwicebreadautoforestquickgovernseedmatterbleak
-bip_39_word_no_space_11: idletwicebreadautoforestquickgovernseedmatterbleakabout
 bip_39_word_no_space_12: idletwicebreadautoforestquickgovernseedmatterbleakaboutasset
 bip_39_word_no_space_2: idletwice
 bip_39_word_no_space_3: idletwicebread
-bip_39_word_no_space_4: idletwicebreadauto
-bip_39_word_no_space_5: idletwicebreadautoforest
-bip_39_word_no_space_6: idletwicebreadautoforestquick
-bip_39_word_no_space_7: idletwicebreadautoforestquickgovern
-bip_39_word_no_space_8: idletwicebreadautoforestquickgovernseed
-bip_39_word_no_space_9: idletwicebreadautoforestquickgovernseedmatter
-bip_39_word_space_0:
-- idle
-- twice
-- bread
-- auto
-- forest
-- quick
-- govern
-- seed
-- matter
-- bleak
-- about
-- asset
-bip_39_word_space_1: idle
-bip_39_word_space_10: idle twice bread auto forest quick govern seed matter bleak
-bip_39_word_space_11: idle twice bread auto forest quick govern seed matter bleak
-  about
 bip_39_word_space_12: idle twice bread auto forest quick govern seed matter bleak
   about asset
 bip_39_word_space_2: idle twice
 bip_39_word_space_3: idle twice bread
-bip_39_word_space_4: idle twice bread auto
-bip_39_word_space_5: idle twice bread auto forest
-bip_39_word_space_6: idle twice bread auto forest quick
-bip_39_word_space_7: idle twice bread auto forest quick govern
-bip_39_word_space_8: idle twice bread auto forest quick govern seed
-bip_39_word_space_9: idle twice bread auto forest quick govern seed matter
-bip_39_word_underscore_1: idle
-bip_39_word_underscore_10: idle_twice_bread_auto_forest_quick_govern_seed_matter_bleak
-bip_39_word_underscore_11: idle_twice_bread_auto_forest_quick_govern_seed_matter_bleak_about
 bip_39_word_underscore_12: idle_twice_bread_auto_forest_quick_govern_seed_matter_bleak_about_asset
 bip_39_word_underscore_2: idle_twice
 bip_39_word_underscore_3: idle_twice_bread
-bip_39_word_underscore_4: idle_twice_bread_auto
-bip_39_word_underscore_5: idle_twice_bread_auto_forest
-bip_39_word_underscore_6: idle_twice_bread_auto_forest_quick
-bip_39_word_underscore_7: idle_twice_bread_auto_forest_quick_govern
-bip_39_word_underscore_8: idle_twice_bread_auto_forest_quick_govern_seed
-bip_39_word_underscore_9: idle_twice_bread_auto_forest_quick_govern_seed_matter
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

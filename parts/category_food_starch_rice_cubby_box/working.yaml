@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crystal
-bip_39_word_dash_10: crystal-trial-mirror-bleak-joke-father-fluid-fiction-food-sponsor
-bip_39_word_dash_11: crystal-trial-mirror-bleak-joke-father-fluid-fiction-food-sponsor-verify
 bip_39_word_dash_12: crystal-trial-mirror-bleak-joke-father-fluid-fiction-food-sponsor-verify-amused
 bip_39_word_dash_2: crystal-trial
 bip_39_word_dash_3: crystal-trial-mirror
-bip_39_word_dash_4: crystal-trial-mirror-bleak
-bip_39_word_dash_5: crystal-trial-mirror-bleak-joke
-bip_39_word_dash_6: crystal-trial-mirror-bleak-joke-father
-bip_39_word_dash_7: crystal-trial-mirror-bleak-joke-father-fluid
-bip_39_word_dash_8: crystal-trial-mirror-bleak-joke-father-fluid-fiction
-bip_39_word_dash_9: crystal-trial-mirror-bleak-joke-father-fluid-fiction-food
-bip_39_word_new_br_1: crystal
-bip_39_word_new_br_10: crystal<br>trial<br>mirror<br>bleak<br>joke<br>father<br>fluid<br>fiction<br>food<br>sponsor
-bip_39_word_new_br_11: crystal<br>trial<br>mirror<br>bleak<br>joke<br>father<br>fluid<br>fiction<br>food<br>sponsor<br>verify
 bip_39_word_new_br_12: crystal<br>trial<br>mirror<br>bleak<br>joke<br>father<br>fluid<br>fiction<br>food<br>sponsor<br>verify<br>amused
 bip_39_word_new_br_2: crystal<br>trial
 bip_39_word_new_br_3: crystal<br>trial<br>mirror
-bip_39_word_new_br_4: crystal<br>trial<br>mirror<br>bleak
-bip_39_word_new_br_5: crystal<br>trial<br>mirror<br>bleak<br>joke
-bip_39_word_new_br_6: crystal<br>trial<br>mirror<br>bleak<br>joke<br>father
-bip_39_word_new_br_7: crystal<br>trial<br>mirror<br>bleak<br>joke<br>father<br>fluid
-bip_39_word_new_br_8: crystal<br>trial<br>mirror<br>bleak<br>joke<br>father<br>fluid<br>fiction
-bip_39_word_new_br_9: crystal<br>trial<br>mirror<br>bleak<br>joke<br>father<br>fluid<br>fiction<br>food
-bip_39_word_new_line_1: crystal
-bip_39_word_new_line_10: 'crystal
-
-  trial
-
-  mirror
-
-  bleak
-
-  joke
-
-  father
-
-  fluid
-
-  fiction
-
-  food
-
-  sponsor'
-bip_39_word_new_line_11: 'crystal
-
-  trial
-
-  mirror
-
-  bleak
-
-  joke
-
-  father
-
-  fluid
-
-  fiction
-
-  food
-
-  sponsor
-
-  verify'
 bip_39_word_new_line_12: 'crystal
 
   trial
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crystal
   trial
 
   mirror'
-bip_39_word_new_line_4: 'crystal
-
-  trial
-
-  mirror
-
-  bleak'
-bip_39_word_new_line_5: 'crystal
-
-  trial
-
-  mirror
-
-  bleak
-
-  joke'
-bip_39_word_new_line_6: 'crystal
-
-  trial
-
-  mirror
-
-  bleak
-
-  joke
-
-  father'
-bip_39_word_new_line_7: 'crystal
-
-  trial
-
-  mirror
-
-  bleak
-
-  joke
-
-  father
-
-  fluid'
-bip_39_word_new_line_8: 'crystal
-
-  trial
-
-  mirror
-
-  bleak
-
-  joke
-
-  father
-
-  fluid
-
-  fiction'
-bip_39_word_new_line_9: 'crystal
-
-  trial
-
-  mirror
-
-  bleak
-
-  joke
-
-  father
-
-  fluid
-
-  fiction
-
-  food'
-bip_39_word_no_space_1: crystal
-bip_39_word_no_space_10: crystaltrialmirrorbleakjokefatherfluidfictionfoodsponsor
-bip_39_word_no_space_11: crystaltrialmirrorbleakjokefatherfluidfictionfoodsponsorverify
 bip_39_word_no_space_12: crystaltrialmirrorbleakjokefatherfluidfictionfoodsponsorverifyamused
 bip_39_word_no_space_2: crystaltrial
 bip_39_word_no_space_3: crystaltrialmirror
-bip_39_word_no_space_4: crystaltrialmirrorbleak
-bip_39_word_no_space_5: crystaltrialmirrorbleakjoke
-bip_39_word_no_space_6: crystaltrialmirrorbleakjokefather
-bip_39_word_no_space_7: crystaltrialmirrorbleakjokefatherfluid
-bip_39_word_no_space_8: crystaltrialmirrorbleakjokefatherfluidfiction
-bip_39_word_no_space_9: crystaltrialmirrorbleakjokefatherfluidfictionfood
-bip_39_word_space_0:
-- crystal
-- trial
-- mirror
-- bleak
-- joke
-- father
-- fluid
-- fiction
-- food
-- sponsor
-- verify
-- amused
-bip_39_word_space_1: crystal
-bip_39_word_space_10: crystal trial mirror bleak joke father fluid fiction food sponsor
-bip_39_word_space_11: crystal trial mirror bleak joke father fluid fiction food sponsor
-  verify
 bip_39_word_space_12: crystal trial mirror bleak joke father fluid fiction food sponsor
   verify amused
 bip_39_word_space_2: crystal trial
 bip_39_word_space_3: crystal trial mirror
-bip_39_word_space_4: crystal trial mirror bleak
-bip_39_word_space_5: crystal trial mirror bleak joke
-bip_39_word_space_6: crystal trial mirror bleak joke father
-bip_39_word_space_7: crystal trial mirror bleak joke father fluid
-bip_39_word_space_8: crystal trial mirror bleak joke father fluid fiction
-bip_39_word_space_9: crystal trial mirror bleak joke father fluid fiction food
-bip_39_word_underscore_1: crystal
-bip_39_word_underscore_10: crystal_trial_mirror_bleak_joke_father_fluid_fiction_food_sponsor
-bip_39_word_underscore_11: crystal_trial_mirror_bleak_joke_father_fluid_fiction_food_sponsor_verify
 bip_39_word_underscore_12: crystal_trial_mirror_bleak_joke_father_fluid_fiction_food_sponsor_verify_amused
 bip_39_word_underscore_2: crystal_trial
 bip_39_word_underscore_3: crystal_trial_mirror
-bip_39_word_underscore_4: crystal_trial_mirror_bleak
-bip_39_word_underscore_5: crystal_trial_mirror_bleak_joke
-bip_39_word_underscore_6: crystal_trial_mirror_bleak_joke_father
-bip_39_word_underscore_7: crystal_trial_mirror_bleak_joke_father_fluid
-bip_39_word_underscore_8: crystal_trial_mirror_bleak_joke_father_fluid_fiction
-bip_39_word_underscore_9: crystal_trial_mirror_bleak_joke_father_fluid_fiction_food
 classification: category
 classification_capital: Category
 classification_first_letter: c

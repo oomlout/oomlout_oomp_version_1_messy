@@ -1,68 +1,9 @@
-bip_39_word_dash_1: public
-bip_39_word_dash_10: public-flag-elephant-access-awful-coffee-hurt-into-matrix-silent
-bip_39_word_dash_11: public-flag-elephant-access-awful-coffee-hurt-into-matrix-silent-announce
 bip_39_word_dash_12: public-flag-elephant-access-awful-coffee-hurt-into-matrix-silent-announce-alien
 bip_39_word_dash_2: public-flag
 bip_39_word_dash_3: public-flag-elephant
-bip_39_word_dash_4: public-flag-elephant-access
-bip_39_word_dash_5: public-flag-elephant-access-awful
-bip_39_word_dash_6: public-flag-elephant-access-awful-coffee
-bip_39_word_dash_7: public-flag-elephant-access-awful-coffee-hurt
-bip_39_word_dash_8: public-flag-elephant-access-awful-coffee-hurt-into
-bip_39_word_dash_9: public-flag-elephant-access-awful-coffee-hurt-into-matrix
-bip_39_word_new_br_1: public
-bip_39_word_new_br_10: public<br>flag<br>elephant<br>access<br>awful<br>coffee<br>hurt<br>into<br>matrix<br>silent
-bip_39_word_new_br_11: public<br>flag<br>elephant<br>access<br>awful<br>coffee<br>hurt<br>into<br>matrix<br>silent<br>announce
 bip_39_word_new_br_12: public<br>flag<br>elephant<br>access<br>awful<br>coffee<br>hurt<br>into<br>matrix<br>silent<br>announce<br>alien
 bip_39_word_new_br_2: public<br>flag
 bip_39_word_new_br_3: public<br>flag<br>elephant
-bip_39_word_new_br_4: public<br>flag<br>elephant<br>access
-bip_39_word_new_br_5: public<br>flag<br>elephant<br>access<br>awful
-bip_39_word_new_br_6: public<br>flag<br>elephant<br>access<br>awful<br>coffee
-bip_39_word_new_br_7: public<br>flag<br>elephant<br>access<br>awful<br>coffee<br>hurt
-bip_39_word_new_br_8: public<br>flag<br>elephant<br>access<br>awful<br>coffee<br>hurt<br>into
-bip_39_word_new_br_9: public<br>flag<br>elephant<br>access<br>awful<br>coffee<br>hurt<br>into<br>matrix
-bip_39_word_new_line_1: public
-bip_39_word_new_line_10: 'public
-
-  flag
-
-  elephant
-
-  access
-
-  awful
-
-  coffee
-
-  hurt
-
-  into
-
-  matrix
-
-  silent'
-bip_39_word_new_line_11: 'public
-
-  flag
-
-  elephant
-
-  access
-
-  awful
-
-  coffee
-
-  hurt
-
-  into
-
-  matrix
-
-  silent
-
-  announce'
 bip_39_word_new_line_12: 'public
 
   flag
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'public
   flag
 
   elephant'
-bip_39_word_new_line_4: 'public
-
-  flag
-
-  elephant
-
-  access'
-bip_39_word_new_line_5: 'public
-
-  flag
-
-  elephant
-
-  access
-
-  awful'
-bip_39_word_new_line_6: 'public
-
-  flag
-
-  elephant
-
-  access
-
-  awful
-
-  coffee'
-bip_39_word_new_line_7: 'public
-
-  flag
-
-  elephant
-
-  access
-
-  awful
-
-  coffee
-
-  hurt'
-bip_39_word_new_line_8: 'public
-
-  flag
-
-  elephant
-
-  access
-
-  awful
-
-  coffee
-
-  hurt
-
-  into'
-bip_39_word_new_line_9: 'public
-
-  flag
-
-  elephant
-
-  access
-
-  awful
-
-  coffee
-
-  hurt
-
-  into
-
-  matrix'
-bip_39_word_no_space_1: public
-bip_39_word_no_space_10: publicflagelephantaccessawfulcoffeehurtintomatrixsilent
-bip_39_word_no_space_11: publicflagelephantaccessawfulcoffeehurtintomatrixsilentannounce
 bip_39_word_no_space_12: publicflagelephantaccessawfulcoffeehurtintomatrixsilentannouncealien
 bip_39_word_no_space_2: publicflag
 bip_39_word_no_space_3: publicflagelephant
-bip_39_word_no_space_4: publicflagelephantaccess
-bip_39_word_no_space_5: publicflagelephantaccessawful
-bip_39_word_no_space_6: publicflagelephantaccessawfulcoffee
-bip_39_word_no_space_7: publicflagelephantaccessawfulcoffeehurt
-bip_39_word_no_space_8: publicflagelephantaccessawfulcoffeehurtinto
-bip_39_word_no_space_9: publicflagelephantaccessawfulcoffeehurtintomatrix
-bip_39_word_space_0:
-- public
-- flag
-- elephant
-- access
-- awful
-- coffee
-- hurt
-- into
-- matrix
-- silent
-- announce
-- alien
-bip_39_word_space_1: public
-bip_39_word_space_10: public flag elephant access awful coffee hurt into matrix silent
-bip_39_word_space_11: public flag elephant access awful coffee hurt into matrix silent
-  announce
 bip_39_word_space_12: public flag elephant access awful coffee hurt into matrix silent
   announce alien
 bip_39_word_space_2: public flag
 bip_39_word_space_3: public flag elephant
-bip_39_word_space_4: public flag elephant access
-bip_39_word_space_5: public flag elephant access awful
-bip_39_word_space_6: public flag elephant access awful coffee
-bip_39_word_space_7: public flag elephant access awful coffee hurt
-bip_39_word_space_8: public flag elephant access awful coffee hurt into
-bip_39_word_space_9: public flag elephant access awful coffee hurt into matrix
-bip_39_word_underscore_1: public
-bip_39_word_underscore_10: public_flag_elephant_access_awful_coffee_hurt_into_matrix_silent
-bip_39_word_underscore_11: public_flag_elephant_access_awful_coffee_hurt_into_matrix_silent_announce
 bip_39_word_underscore_12: public_flag_elephant_access_awful_coffee_hurt_into_matrix_silent_announce_alien
 bip_39_word_underscore_2: public_flag
 bip_39_word_underscore_3: public_flag_elephant
-bip_39_word_underscore_4: public_flag_elephant_access
-bip_39_word_underscore_5: public_flag_elephant_access_awful
-bip_39_word_underscore_6: public_flag_elephant_access_awful_coffee
-bip_39_word_underscore_7: public_flag_elephant_access_awful_coffee_hurt
-bip_39_word_underscore_8: public_flag_elephant_access_awful_coffee_hurt_into
-bip_39_word_underscore_9: public_flag_elephant_access_awful_coffee_hurt_into_matrix
 classification: project
 classification_capital: Project
 classification_first_letter: p

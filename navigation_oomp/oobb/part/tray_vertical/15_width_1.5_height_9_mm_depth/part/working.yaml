@@ -1,68 +1,9 @@
-bip_39_word_dash_1: play
-bip_39_word_dash_10: play-mixed-over-cycle-hollow-ridge-rigid-silk-concert-edit
-bip_39_word_dash_11: play-mixed-over-cycle-hollow-ridge-rigid-silk-concert-edit-burden
 bip_39_word_dash_12: play-mixed-over-cycle-hollow-ridge-rigid-silk-concert-edit-burden-assume
 bip_39_word_dash_2: play-mixed
 bip_39_word_dash_3: play-mixed-over
-bip_39_word_dash_4: play-mixed-over-cycle
-bip_39_word_dash_5: play-mixed-over-cycle-hollow
-bip_39_word_dash_6: play-mixed-over-cycle-hollow-ridge
-bip_39_word_dash_7: play-mixed-over-cycle-hollow-ridge-rigid
-bip_39_word_dash_8: play-mixed-over-cycle-hollow-ridge-rigid-silk
-bip_39_word_dash_9: play-mixed-over-cycle-hollow-ridge-rigid-silk-concert
-bip_39_word_new_br_1: play
-bip_39_word_new_br_10: play<br>mixed<br>over<br>cycle<br>hollow<br>ridge<br>rigid<br>silk<br>concert<br>edit
-bip_39_word_new_br_11: play<br>mixed<br>over<br>cycle<br>hollow<br>ridge<br>rigid<br>silk<br>concert<br>edit<br>burden
 bip_39_word_new_br_12: play<br>mixed<br>over<br>cycle<br>hollow<br>ridge<br>rigid<br>silk<br>concert<br>edit<br>burden<br>assume
 bip_39_word_new_br_2: play<br>mixed
 bip_39_word_new_br_3: play<br>mixed<br>over
-bip_39_word_new_br_4: play<br>mixed<br>over<br>cycle
-bip_39_word_new_br_5: play<br>mixed<br>over<br>cycle<br>hollow
-bip_39_word_new_br_6: play<br>mixed<br>over<br>cycle<br>hollow<br>ridge
-bip_39_word_new_br_7: play<br>mixed<br>over<br>cycle<br>hollow<br>ridge<br>rigid
-bip_39_word_new_br_8: play<br>mixed<br>over<br>cycle<br>hollow<br>ridge<br>rigid<br>silk
-bip_39_word_new_br_9: play<br>mixed<br>over<br>cycle<br>hollow<br>ridge<br>rigid<br>silk<br>concert
-bip_39_word_new_line_1: play
-bip_39_word_new_line_10: 'play
-
-  mixed
-
-  over
-
-  cycle
-
-  hollow
-
-  ridge
-
-  rigid
-
-  silk
-
-  concert
-
-  edit'
-bip_39_word_new_line_11: 'play
-
-  mixed
-
-  over
-
-  cycle
-
-  hollow
-
-  ridge
-
-  rigid
-
-  silk
-
-  concert
-
-  edit
-
-  burden'
 bip_39_word_new_line_12: 'play
 
   mixed
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'play
   mixed
 
   over'
-bip_39_word_new_line_4: 'play
-
-  mixed
-
-  over
-
-  cycle'
-bip_39_word_new_line_5: 'play
-
-  mixed
-
-  over
-
-  cycle
-
-  hollow'
-bip_39_word_new_line_6: 'play
-
-  mixed
-
-  over
-
-  cycle
-
-  hollow
-
-  ridge'
-bip_39_word_new_line_7: 'play
-
-  mixed
-
-  over
-
-  cycle
-
-  hollow
-
-  ridge
-
-  rigid'
-bip_39_word_new_line_8: 'play
-
-  mixed
-
-  over
-
-  cycle
-
-  hollow
-
-  ridge
-
-  rigid
-
-  silk'
-bip_39_word_new_line_9: 'play
-
-  mixed
-
-  over
-
-  cycle
-
-  hollow
-
-  ridge
-
-  rigid
-
-  silk
-
-  concert'
-bip_39_word_no_space_1: play
-bip_39_word_no_space_10: playmixedovercyclehollowridgerigidsilkconcertedit
-bip_39_word_no_space_11: playmixedovercyclehollowridgerigidsilkconcerteditburden
 bip_39_word_no_space_12: playmixedovercyclehollowridgerigidsilkconcerteditburdenassume
 bip_39_word_no_space_2: playmixed
 bip_39_word_no_space_3: playmixedover
-bip_39_word_no_space_4: playmixedovercycle
-bip_39_word_no_space_5: playmixedovercyclehollow
-bip_39_word_no_space_6: playmixedovercyclehollowridge
-bip_39_word_no_space_7: playmixedovercyclehollowridgerigid
-bip_39_word_no_space_8: playmixedovercyclehollowridgerigidsilk
-bip_39_word_no_space_9: playmixedovercyclehollowridgerigidsilkconcert
-bip_39_word_space_0:
-- play
-- mixed
-- over
-- cycle
-- hollow
-- ridge
-- rigid
-- silk
-- concert
-- edit
-- burden
-- assume
-bip_39_word_space_1: play
-bip_39_word_space_10: play mixed over cycle hollow ridge rigid silk concert edit
-bip_39_word_space_11: play mixed over cycle hollow ridge rigid silk concert edit burden
 bip_39_word_space_12: play mixed over cycle hollow ridge rigid silk concert edit burden
   assume
 bip_39_word_space_2: play mixed
 bip_39_word_space_3: play mixed over
-bip_39_word_space_4: play mixed over cycle
-bip_39_word_space_5: play mixed over cycle hollow
-bip_39_word_space_6: play mixed over cycle hollow ridge
-bip_39_word_space_7: play mixed over cycle hollow ridge rigid
-bip_39_word_space_8: play mixed over cycle hollow ridge rigid silk
-bip_39_word_space_9: play mixed over cycle hollow ridge rigid silk concert
-bip_39_word_underscore_1: play
-bip_39_word_underscore_10: play_mixed_over_cycle_hollow_ridge_rigid_silk_concert_edit
-bip_39_word_underscore_11: play_mixed_over_cycle_hollow_ridge_rigid_silk_concert_edit_burden
 bip_39_word_underscore_12: play_mixed_over_cycle_hollow_ridge_rigid_silk_concert_edit_burden_assume
 bip_39_word_underscore_2: play_mixed
 bip_39_word_underscore_3: play_mixed_over
-bip_39_word_underscore_4: play_mixed_over_cycle
-bip_39_word_underscore_5: play_mixed_over_cycle_hollow
-bip_39_word_underscore_6: play_mixed_over_cycle_hollow_ridge
-bip_39_word_underscore_7: play_mixed_over_cycle_hollow_ridge_rigid
-bip_39_word_underscore_8: play_mixed_over_cycle_hollow_ridge_rigid_silk
-bip_39_word_underscore_9: play_mixed_over_cycle_hollow_ridge_rigid_silk_concert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

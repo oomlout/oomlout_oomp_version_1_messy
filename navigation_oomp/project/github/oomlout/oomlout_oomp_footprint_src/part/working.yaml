@@ -1,68 +1,9 @@
-bip_39_word_dash_1: orchard
-bip_39_word_dash_10: orchard-garlic-test-spring-lobster-pony-reflect-mean-climb-ripple
-bip_39_word_dash_11: orchard-garlic-test-spring-lobster-pony-reflect-mean-climb-ripple-sing
 bip_39_word_dash_12: orchard-garlic-test-spring-lobster-pony-reflect-mean-climb-ripple-sing-advance
 bip_39_word_dash_2: orchard-garlic
 bip_39_word_dash_3: orchard-garlic-test
-bip_39_word_dash_4: orchard-garlic-test-spring
-bip_39_word_dash_5: orchard-garlic-test-spring-lobster
-bip_39_word_dash_6: orchard-garlic-test-spring-lobster-pony
-bip_39_word_dash_7: orchard-garlic-test-spring-lobster-pony-reflect
-bip_39_word_dash_8: orchard-garlic-test-spring-lobster-pony-reflect-mean
-bip_39_word_dash_9: orchard-garlic-test-spring-lobster-pony-reflect-mean-climb
-bip_39_word_new_br_1: orchard
-bip_39_word_new_br_10: orchard<br>garlic<br>test<br>spring<br>lobster<br>pony<br>reflect<br>mean<br>climb<br>ripple
-bip_39_word_new_br_11: orchard<br>garlic<br>test<br>spring<br>lobster<br>pony<br>reflect<br>mean<br>climb<br>ripple<br>sing
 bip_39_word_new_br_12: orchard<br>garlic<br>test<br>spring<br>lobster<br>pony<br>reflect<br>mean<br>climb<br>ripple<br>sing<br>advance
 bip_39_word_new_br_2: orchard<br>garlic
 bip_39_word_new_br_3: orchard<br>garlic<br>test
-bip_39_word_new_br_4: orchard<br>garlic<br>test<br>spring
-bip_39_word_new_br_5: orchard<br>garlic<br>test<br>spring<br>lobster
-bip_39_word_new_br_6: orchard<br>garlic<br>test<br>spring<br>lobster<br>pony
-bip_39_word_new_br_7: orchard<br>garlic<br>test<br>spring<br>lobster<br>pony<br>reflect
-bip_39_word_new_br_8: orchard<br>garlic<br>test<br>spring<br>lobster<br>pony<br>reflect<br>mean
-bip_39_word_new_br_9: orchard<br>garlic<br>test<br>spring<br>lobster<br>pony<br>reflect<br>mean<br>climb
-bip_39_word_new_line_1: orchard
-bip_39_word_new_line_10: 'orchard
-
-  garlic
-
-  test
-
-  spring
-
-  lobster
-
-  pony
-
-  reflect
-
-  mean
-
-  climb
-
-  ripple'
-bip_39_word_new_line_11: 'orchard
-
-  garlic
-
-  test
-
-  spring
-
-  lobster
-
-  pony
-
-  reflect
-
-  mean
-
-  climb
-
-  ripple
-
-  sing'
 bip_39_word_new_line_12: 'orchard
 
   garlic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'orchard
   garlic
 
   test'
-bip_39_word_new_line_4: 'orchard
-
-  garlic
-
-  test
-
-  spring'
-bip_39_word_new_line_5: 'orchard
-
-  garlic
-
-  test
-
-  spring
-
-  lobster'
-bip_39_word_new_line_6: 'orchard
-
-  garlic
-
-  test
-
-  spring
-
-  lobster
-
-  pony'
-bip_39_word_new_line_7: 'orchard
-
-  garlic
-
-  test
-
-  spring
-
-  lobster
-
-  pony
-
-  reflect'
-bip_39_word_new_line_8: 'orchard
-
-  garlic
-
-  test
-
-  spring
-
-  lobster
-
-  pony
-
-  reflect
-
-  mean'
-bip_39_word_new_line_9: 'orchard
-
-  garlic
-
-  test
-
-  spring
-
-  lobster
-
-  pony
-
-  reflect
-
-  mean
-
-  climb'
-bip_39_word_no_space_1: orchard
-bip_39_word_no_space_10: orchardgarlictestspringlobsterponyreflectmeanclimbripple
-bip_39_word_no_space_11: orchardgarlictestspringlobsterponyreflectmeanclimbripplesing
 bip_39_word_no_space_12: orchardgarlictestspringlobsterponyreflectmeanclimbripplesingadvance
 bip_39_word_no_space_2: orchardgarlic
 bip_39_word_no_space_3: orchardgarlictest
-bip_39_word_no_space_4: orchardgarlictestspring
-bip_39_word_no_space_5: orchardgarlictestspringlobster
-bip_39_word_no_space_6: orchardgarlictestspringlobsterpony
-bip_39_word_no_space_7: orchardgarlictestspringlobsterponyreflect
-bip_39_word_no_space_8: orchardgarlictestspringlobsterponyreflectmean
-bip_39_word_no_space_9: orchardgarlictestspringlobsterponyreflectmeanclimb
-bip_39_word_space_0:
-- orchard
-- garlic
-- test
-- spring
-- lobster
-- pony
-- reflect
-- mean
-- climb
-- ripple
-- sing
-- advance
-bip_39_word_space_1: orchard
-bip_39_word_space_10: orchard garlic test spring lobster pony reflect mean climb ripple
-bip_39_word_space_11: orchard garlic test spring lobster pony reflect mean climb ripple
-  sing
 bip_39_word_space_12: orchard garlic test spring lobster pony reflect mean climb ripple
   sing advance
 bip_39_word_space_2: orchard garlic
 bip_39_word_space_3: orchard garlic test
-bip_39_word_space_4: orchard garlic test spring
-bip_39_word_space_5: orchard garlic test spring lobster
-bip_39_word_space_6: orchard garlic test spring lobster pony
-bip_39_word_space_7: orchard garlic test spring lobster pony reflect
-bip_39_word_space_8: orchard garlic test spring lobster pony reflect mean
-bip_39_word_space_9: orchard garlic test spring lobster pony reflect mean climb
-bip_39_word_underscore_1: orchard
-bip_39_word_underscore_10: orchard_garlic_test_spring_lobster_pony_reflect_mean_climb_ripple
-bip_39_word_underscore_11: orchard_garlic_test_spring_lobster_pony_reflect_mean_climb_ripple_sing
 bip_39_word_underscore_12: orchard_garlic_test_spring_lobster_pony_reflect_mean_climb_ripple_sing_advance
 bip_39_word_underscore_2: orchard_garlic
 bip_39_word_underscore_3: orchard_garlic_test
-bip_39_word_underscore_4: orchard_garlic_test_spring
-bip_39_word_underscore_5: orchard_garlic_test_spring_lobster
-bip_39_word_underscore_6: orchard_garlic_test_spring_lobster_pony
-bip_39_word_underscore_7: orchard_garlic_test_spring_lobster_pony_reflect
-bip_39_word_underscore_8: orchard_garlic_test_spring_lobster_pony_reflect_mean
-bip_39_word_underscore_9: orchard_garlic_test_spring_lobster_pony_reflect_mean_climb
 classification: project
 classification_capital: Project
 classification_first_letter: p

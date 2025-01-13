@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420667326'
-bip_39_word_dash_1: bind
-bip_39_word_dash_10: bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law
-bip_39_word_dash_11: bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law-program
 bip_39_word_dash_12: bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law-program-ankle
 bip_39_word_dash_2: bind-enemy
 bip_39_word_dash_3: bind-enemy-ramp
-bip_39_word_dash_4: bind-enemy-ramp-pumpkin
-bip_39_word_dash_5: bind-enemy-ramp-pumpkin-under
-bip_39_word_dash_6: bind-enemy-ramp-pumpkin-under-black
-bip_39_word_dash_7: bind-enemy-ramp-pumpkin-under-black-picnic
-bip_39_word_dash_8: bind-enemy-ramp-pumpkin-under-black-picnic-oven
-bip_39_word_dash_9: bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine
-bip_39_word_new_br_1: bind
-bip_39_word_new_br_10: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law
-bip_39_word_new_br_11: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program
 bip_39_word_new_br_12: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program<br>ankle
 bip_39_word_new_br_2: bind<br>enemy
 bip_39_word_new_br_3: bind<br>enemy<br>ramp
-bip_39_word_new_br_4: bind<br>enemy<br>ramp<br>pumpkin
-bip_39_word_new_br_5: bind<br>enemy<br>ramp<br>pumpkin<br>under
-bip_39_word_new_br_6: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black
-bip_39_word_new_br_7: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic
-bip_39_word_new_br_8: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven
-bip_39_word_new_br_9: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine
-bip_39_word_new_line_1: bind
-bip_39_word_new_line_10: 'bind
-
-  enemy
-
-  ramp
-
-  pumpkin
-
-  under
-
-  black
-
-  picnic
-
-  oven
-
-  wine
-
-  law'
-bip_39_word_new_line_11: 'bind
-
-  enemy
-
-  ramp
-
-  pumpkin
-
-  under
-
-  black
-
-  picnic
-
-  oven
-
-  wine
-
-  law
-
-  program'
 bip_39_word_new_line_12: 'bind
 
   enemy
@@ -95,128 +36,16 @@ bip_39_word_new_line_3: 'bind
   enemy
 
   ramp'
-bip_39_word_new_line_4: 'bind
-
-  enemy
-
-  ramp
-
-  pumpkin'
-bip_39_word_new_line_5: 'bind
-
-  enemy
-
-  ramp
-
-  pumpkin
-
-  under'
-bip_39_word_new_line_6: 'bind
-
-  enemy
-
-  ramp
-
-  pumpkin
-
-  under
-
-  black'
-bip_39_word_new_line_7: 'bind
-
-  enemy
-
-  ramp
-
-  pumpkin
-
-  under
-
-  black
-
-  picnic'
-bip_39_word_new_line_8: 'bind
-
-  enemy
-
-  ramp
-
-  pumpkin
-
-  under
-
-  black
-
-  picnic
-
-  oven'
-bip_39_word_new_line_9: 'bind
-
-  enemy
-
-  ramp
-
-  pumpkin
-
-  under
-
-  black
-
-  picnic
-
-  oven
-
-  wine'
-bip_39_word_no_space_1: bind
-bip_39_word_no_space_10: bindenemyramppumpkinunderblackpicnicovenwinelaw
-bip_39_word_no_space_11: bindenemyramppumpkinunderblackpicnicovenwinelawprogram
 bip_39_word_no_space_12: bindenemyramppumpkinunderblackpicnicovenwinelawprogramankle
 bip_39_word_no_space_2: bindenemy
 bip_39_word_no_space_3: bindenemyramp
-bip_39_word_no_space_4: bindenemyramppumpkin
-bip_39_word_no_space_5: bindenemyramppumpkinunder
-bip_39_word_no_space_6: bindenemyramppumpkinunderblack
-bip_39_word_no_space_7: bindenemyramppumpkinunderblackpicnic
-bip_39_word_no_space_8: bindenemyramppumpkinunderblackpicnicoven
-bip_39_word_no_space_9: bindenemyramppumpkinunderblackpicnicovenwine
-bip_39_word_space_0:
-- bind
-- enemy
-- ramp
-- pumpkin
-- under
-- black
-- picnic
-- oven
-- wine
-- law
-- program
-- ankle
-bip_39_word_space_1: bind
-bip_39_word_space_10: bind enemy ramp pumpkin under black picnic oven wine law
-bip_39_word_space_11: bind enemy ramp pumpkin under black picnic oven wine law program
 bip_39_word_space_12: bind enemy ramp pumpkin under black picnic oven wine law program
   ankle
 bip_39_word_space_2: bind enemy
 bip_39_word_space_3: bind enemy ramp
-bip_39_word_space_4: bind enemy ramp pumpkin
-bip_39_word_space_5: bind enemy ramp pumpkin under
-bip_39_word_space_6: bind enemy ramp pumpkin under black
-bip_39_word_space_7: bind enemy ramp pumpkin under black picnic
-bip_39_word_space_8: bind enemy ramp pumpkin under black picnic oven
-bip_39_word_space_9: bind enemy ramp pumpkin under black picnic oven wine
-bip_39_word_underscore_1: bind
-bip_39_word_underscore_10: bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law
-bip_39_word_underscore_11: bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law_program
 bip_39_word_underscore_12: bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law_program_ankle
 bip_39_word_underscore_2: bind_enemy
 bip_39_word_underscore_3: bind_enemy_ramp
-bip_39_word_underscore_4: bind_enemy_ramp_pumpkin
-bip_39_word_underscore_5: bind_enemy_ramp_pumpkin_under
-bip_39_word_underscore_6: bind_enemy_ramp_pumpkin_under_black
-bip_39_word_underscore_7: bind_enemy_ramp_pumpkin_under_black_picnic
-bip_39_word_underscore_8: bind_enemy_ramp_pumpkin_under_black_picnic_oven
-bip_39_word_underscore_9: bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ladder
-bip_39_word_dash_10: ladder-stove-toilet-amused-grief-need-village-all-until-void
-bip_39_word_dash_11: ladder-stove-toilet-amused-grief-need-village-all-until-void-impulse
 bip_39_word_dash_12: ladder-stove-toilet-amused-grief-need-village-all-until-void-impulse-attack
 bip_39_word_dash_2: ladder-stove
 bip_39_word_dash_3: ladder-stove-toilet
-bip_39_word_dash_4: ladder-stove-toilet-amused
-bip_39_word_dash_5: ladder-stove-toilet-amused-grief
-bip_39_word_dash_6: ladder-stove-toilet-amused-grief-need
-bip_39_word_dash_7: ladder-stove-toilet-amused-grief-need-village
-bip_39_word_dash_8: ladder-stove-toilet-amused-grief-need-village-all
-bip_39_word_dash_9: ladder-stove-toilet-amused-grief-need-village-all-until
-bip_39_word_new_br_1: ladder
-bip_39_word_new_br_10: ladder<br>stove<br>toilet<br>amused<br>grief<br>need<br>village<br>all<br>until<br>void
-bip_39_word_new_br_11: ladder<br>stove<br>toilet<br>amused<br>grief<br>need<br>village<br>all<br>until<br>void<br>impulse
 bip_39_word_new_br_12: ladder<br>stove<br>toilet<br>amused<br>grief<br>need<br>village<br>all<br>until<br>void<br>impulse<br>attack
 bip_39_word_new_br_2: ladder<br>stove
 bip_39_word_new_br_3: ladder<br>stove<br>toilet
-bip_39_word_new_br_4: ladder<br>stove<br>toilet<br>amused
-bip_39_word_new_br_5: ladder<br>stove<br>toilet<br>amused<br>grief
-bip_39_word_new_br_6: ladder<br>stove<br>toilet<br>amused<br>grief<br>need
-bip_39_word_new_br_7: ladder<br>stove<br>toilet<br>amused<br>grief<br>need<br>village
-bip_39_word_new_br_8: ladder<br>stove<br>toilet<br>amused<br>grief<br>need<br>village<br>all
-bip_39_word_new_br_9: ladder<br>stove<br>toilet<br>amused<br>grief<br>need<br>village<br>all<br>until
-bip_39_word_new_line_1: ladder
-bip_39_word_new_line_10: 'ladder
-
-  stove
-
-  toilet
-
-  amused
-
-  grief
-
-  need
-
-  village
-
-  all
-
-  until
-
-  void'
-bip_39_word_new_line_11: 'ladder
-
-  stove
-
-  toilet
-
-  amused
-
-  grief
-
-  need
-
-  village
-
-  all
-
-  until
-
-  void
-
-  impulse'
 bip_39_word_new_line_12: 'ladder
 
   stove
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ladder
   stove
 
   toilet'
-bip_39_word_new_line_4: 'ladder
-
-  stove
-
-  toilet
-
-  amused'
-bip_39_word_new_line_5: 'ladder
-
-  stove
-
-  toilet
-
-  amused
-
-  grief'
-bip_39_word_new_line_6: 'ladder
-
-  stove
-
-  toilet
-
-  amused
-
-  grief
-
-  need'
-bip_39_word_new_line_7: 'ladder
-
-  stove
-
-  toilet
-
-  amused
-
-  grief
-
-  need
-
-  village'
-bip_39_word_new_line_8: 'ladder
-
-  stove
-
-  toilet
-
-  amused
-
-  grief
-
-  need
-
-  village
-
-  all'
-bip_39_word_new_line_9: 'ladder
-
-  stove
-
-  toilet
-
-  amused
-
-  grief
-
-  need
-
-  village
-
-  all
-
-  until'
-bip_39_word_no_space_1: ladder
-bip_39_word_no_space_10: ladderstovetoiletamusedgriefneedvillagealluntilvoid
-bip_39_word_no_space_11: ladderstovetoiletamusedgriefneedvillagealluntilvoidimpulse
 bip_39_word_no_space_12: ladderstovetoiletamusedgriefneedvillagealluntilvoidimpulseattack
 bip_39_word_no_space_2: ladderstove
 bip_39_word_no_space_3: ladderstovetoilet
-bip_39_word_no_space_4: ladderstovetoiletamused
-bip_39_word_no_space_5: ladderstovetoiletamusedgrief
-bip_39_word_no_space_6: ladderstovetoiletamusedgriefneed
-bip_39_word_no_space_7: ladderstovetoiletamusedgriefneedvillage
-bip_39_word_no_space_8: ladderstovetoiletamusedgriefneedvillageall
-bip_39_word_no_space_9: ladderstovetoiletamusedgriefneedvillagealluntil
-bip_39_word_space_0:
-- ladder
-- stove
-- toilet
-- amused
-- grief
-- need
-- village
-- all
-- until
-- void
-- impulse
-- attack
-bip_39_word_space_1: ladder
-bip_39_word_space_10: ladder stove toilet amused grief need village all until void
-bip_39_word_space_11: ladder stove toilet amused grief need village all until void
-  impulse
 bip_39_word_space_12: ladder stove toilet amused grief need village all until void
   impulse attack
 bip_39_word_space_2: ladder stove
 bip_39_word_space_3: ladder stove toilet
-bip_39_word_space_4: ladder stove toilet amused
-bip_39_word_space_5: ladder stove toilet amused grief
-bip_39_word_space_6: ladder stove toilet amused grief need
-bip_39_word_space_7: ladder stove toilet amused grief need village
-bip_39_word_space_8: ladder stove toilet amused grief need village all
-bip_39_word_space_9: ladder stove toilet amused grief need village all until
-bip_39_word_underscore_1: ladder
-bip_39_word_underscore_10: ladder_stove_toilet_amused_grief_need_village_all_until_void
-bip_39_word_underscore_11: ladder_stove_toilet_amused_grief_need_village_all_until_void_impulse
 bip_39_word_underscore_12: ladder_stove_toilet_amused_grief_need_village_all_until_void_impulse_attack
 bip_39_word_underscore_2: ladder_stove
 bip_39_word_underscore_3: ladder_stove_toilet
-bip_39_word_underscore_4: ladder_stove_toilet_amused
-bip_39_word_underscore_5: ladder_stove_toilet_amused_grief
-bip_39_word_underscore_6: ladder_stove_toilet_amused_grief_need
-bip_39_word_underscore_7: ladder_stove_toilet_amused_grief_need_village
-bip_39_word_underscore_8: ladder_stove_toilet_amused_grief_need_village_all
-bip_39_word_underscore_9: ladder_stove_toilet_amused_grief_need_village_all_until
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ice
-bip_39_word_dash_10: ice-rough-stock-exhibit-all-retire-shuffle-shrimp-assault-liar
-bip_39_word_dash_11: ice-rough-stock-exhibit-all-retire-shuffle-shrimp-assault-liar-disorder
 bip_39_word_dash_12: ice-rough-stock-exhibit-all-retire-shuffle-shrimp-assault-liar-disorder-arrest
 bip_39_word_dash_2: ice-rough
 bip_39_word_dash_3: ice-rough-stock
-bip_39_word_dash_4: ice-rough-stock-exhibit
-bip_39_word_dash_5: ice-rough-stock-exhibit-all
-bip_39_word_dash_6: ice-rough-stock-exhibit-all-retire
-bip_39_word_dash_7: ice-rough-stock-exhibit-all-retire-shuffle
-bip_39_word_dash_8: ice-rough-stock-exhibit-all-retire-shuffle-shrimp
-bip_39_word_dash_9: ice-rough-stock-exhibit-all-retire-shuffle-shrimp-assault
-bip_39_word_new_br_1: ice
-bip_39_word_new_br_10: ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar
-bip_39_word_new_br_11: ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar<br>disorder
 bip_39_word_new_br_12: ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault<br>liar<br>disorder<br>arrest
 bip_39_word_new_br_2: ice<br>rough
 bip_39_word_new_br_3: ice<br>rough<br>stock
-bip_39_word_new_br_4: ice<br>rough<br>stock<br>exhibit
-bip_39_word_new_br_5: ice<br>rough<br>stock<br>exhibit<br>all
-bip_39_word_new_br_6: ice<br>rough<br>stock<br>exhibit<br>all<br>retire
-bip_39_word_new_br_7: ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle
-bip_39_word_new_br_8: ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp
-bip_39_word_new_br_9: ice<br>rough<br>stock<br>exhibit<br>all<br>retire<br>shuffle<br>shrimp<br>assault
-bip_39_word_new_line_1: ice
-bip_39_word_new_line_10: 'ice
-
-  rough
-
-  stock
-
-  exhibit
-
-  all
-
-  retire
-
-  shuffle
-
-  shrimp
-
-  assault
-
-  liar'
-bip_39_word_new_line_11: 'ice
-
-  rough
-
-  stock
-
-  exhibit
-
-  all
-
-  retire
-
-  shuffle
-
-  shrimp
-
-  assault
-
-  liar
-
-  disorder'
 bip_39_word_new_line_12: 'ice
 
   rough
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ice
   rough
 
   stock'
-bip_39_word_new_line_4: 'ice
-
-  rough
-
-  stock
-
-  exhibit'
-bip_39_word_new_line_5: 'ice
-
-  rough
-
-  stock
-
-  exhibit
-
-  all'
-bip_39_word_new_line_6: 'ice
-
-  rough
-
-  stock
-
-  exhibit
-
-  all
-
-  retire'
-bip_39_word_new_line_7: 'ice
-
-  rough
-
-  stock
-
-  exhibit
-
-  all
-
-  retire
-
-  shuffle'
-bip_39_word_new_line_8: 'ice
-
-  rough
-
-  stock
-
-  exhibit
-
-  all
-
-  retire
-
-  shuffle
-
-  shrimp'
-bip_39_word_new_line_9: 'ice
-
-  rough
-
-  stock
-
-  exhibit
-
-  all
-
-  retire
-
-  shuffle
-
-  shrimp
-
-  assault'
-bip_39_word_no_space_1: ice
-bip_39_word_no_space_10: iceroughstockexhibitallretireshuffleshrimpassaultliar
-bip_39_word_no_space_11: iceroughstockexhibitallretireshuffleshrimpassaultliardisorder
 bip_39_word_no_space_12: iceroughstockexhibitallretireshuffleshrimpassaultliardisorderarrest
 bip_39_word_no_space_2: icerough
 bip_39_word_no_space_3: iceroughstock
-bip_39_word_no_space_4: iceroughstockexhibit
-bip_39_word_no_space_5: iceroughstockexhibitall
-bip_39_word_no_space_6: iceroughstockexhibitallretire
-bip_39_word_no_space_7: iceroughstockexhibitallretireshuffle
-bip_39_word_no_space_8: iceroughstockexhibitallretireshuffleshrimp
-bip_39_word_no_space_9: iceroughstockexhibitallretireshuffleshrimpassault
-bip_39_word_space_0:
-- ice
-- rough
-- stock
-- exhibit
-- all
-- retire
-- shuffle
-- shrimp
-- assault
-- liar
-- disorder
-- arrest
-bip_39_word_space_1: ice
-bip_39_word_space_10: ice rough stock exhibit all retire shuffle shrimp assault liar
-bip_39_word_space_11: ice rough stock exhibit all retire shuffle shrimp assault liar
-  disorder
 bip_39_word_space_12: ice rough stock exhibit all retire shuffle shrimp assault liar
   disorder arrest
 bip_39_word_space_2: ice rough
 bip_39_word_space_3: ice rough stock
-bip_39_word_space_4: ice rough stock exhibit
-bip_39_word_space_5: ice rough stock exhibit all
-bip_39_word_space_6: ice rough stock exhibit all retire
-bip_39_word_space_7: ice rough stock exhibit all retire shuffle
-bip_39_word_space_8: ice rough stock exhibit all retire shuffle shrimp
-bip_39_word_space_9: ice rough stock exhibit all retire shuffle shrimp assault
-bip_39_word_underscore_1: ice
-bip_39_word_underscore_10: ice_rough_stock_exhibit_all_retire_shuffle_shrimp_assault_liar
-bip_39_word_underscore_11: ice_rough_stock_exhibit_all_retire_shuffle_shrimp_assault_liar_disorder
 bip_39_word_underscore_12: ice_rough_stock_exhibit_all_retire_shuffle_shrimp_assault_liar_disorder_arrest
 bip_39_word_underscore_2: ice_rough
 bip_39_word_underscore_3: ice_rough_stock
-bip_39_word_underscore_4: ice_rough_stock_exhibit
-bip_39_word_underscore_5: ice_rough_stock_exhibit_all
-bip_39_word_underscore_6: ice_rough_stock_exhibit_all_retire
-bip_39_word_underscore_7: ice_rough_stock_exhibit_all_retire_shuffle
-bip_39_word_underscore_8: ice_rough_stock_exhibit_all_retire_shuffle_shrimp
-bip_39_word_underscore_9: ice_rough_stock_exhibit_all_retire_shuffle_shrimp_assault
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

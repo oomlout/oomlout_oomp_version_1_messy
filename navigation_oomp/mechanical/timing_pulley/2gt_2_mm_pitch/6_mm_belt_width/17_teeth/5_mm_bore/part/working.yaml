@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fence
-bip_39_word_dash_10: fence-pattern-surface-puzzle-supply-crazy-weasel-conduct-expose-fly
-bip_39_word_dash_11: fence-pattern-surface-puzzle-supply-crazy-weasel-conduct-expose-fly-soup
 bip_39_word_dash_12: fence-pattern-surface-puzzle-supply-crazy-weasel-conduct-expose-fly-soup-ahead
 bip_39_word_dash_2: fence-pattern
 bip_39_word_dash_3: fence-pattern-surface
-bip_39_word_dash_4: fence-pattern-surface-puzzle
-bip_39_word_dash_5: fence-pattern-surface-puzzle-supply
-bip_39_word_dash_6: fence-pattern-surface-puzzle-supply-crazy
-bip_39_word_dash_7: fence-pattern-surface-puzzle-supply-crazy-weasel
-bip_39_word_dash_8: fence-pattern-surface-puzzle-supply-crazy-weasel-conduct
-bip_39_word_dash_9: fence-pattern-surface-puzzle-supply-crazy-weasel-conduct-expose
-bip_39_word_new_br_1: fence
-bip_39_word_new_br_10: fence<br>pattern<br>surface<br>puzzle<br>supply<br>crazy<br>weasel<br>conduct<br>expose<br>fly
-bip_39_word_new_br_11: fence<br>pattern<br>surface<br>puzzle<br>supply<br>crazy<br>weasel<br>conduct<br>expose<br>fly<br>soup
 bip_39_word_new_br_12: fence<br>pattern<br>surface<br>puzzle<br>supply<br>crazy<br>weasel<br>conduct<br>expose<br>fly<br>soup<br>ahead
 bip_39_word_new_br_2: fence<br>pattern
 bip_39_word_new_br_3: fence<br>pattern<br>surface
-bip_39_word_new_br_4: fence<br>pattern<br>surface<br>puzzle
-bip_39_word_new_br_5: fence<br>pattern<br>surface<br>puzzle<br>supply
-bip_39_word_new_br_6: fence<br>pattern<br>surface<br>puzzle<br>supply<br>crazy
-bip_39_word_new_br_7: fence<br>pattern<br>surface<br>puzzle<br>supply<br>crazy<br>weasel
-bip_39_word_new_br_8: fence<br>pattern<br>surface<br>puzzle<br>supply<br>crazy<br>weasel<br>conduct
-bip_39_word_new_br_9: fence<br>pattern<br>surface<br>puzzle<br>supply<br>crazy<br>weasel<br>conduct<br>expose
-bip_39_word_new_line_1: fence
-bip_39_word_new_line_10: 'fence
-
-  pattern
-
-  surface
-
-  puzzle
-
-  supply
-
-  crazy
-
-  weasel
-
-  conduct
-
-  expose
-
-  fly'
-bip_39_word_new_line_11: 'fence
-
-  pattern
-
-  surface
-
-  puzzle
-
-  supply
-
-  crazy
-
-  weasel
-
-  conduct
-
-  expose
-
-  fly
-
-  soup'
 bip_39_word_new_line_12: 'fence
 
   pattern
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'fence
   pattern
 
   surface'
-bip_39_word_new_line_4: 'fence
-
-  pattern
-
-  surface
-
-  puzzle'
-bip_39_word_new_line_5: 'fence
-
-  pattern
-
-  surface
-
-  puzzle
-
-  supply'
-bip_39_word_new_line_6: 'fence
-
-  pattern
-
-  surface
-
-  puzzle
-
-  supply
-
-  crazy'
-bip_39_word_new_line_7: 'fence
-
-  pattern
-
-  surface
-
-  puzzle
-
-  supply
-
-  crazy
-
-  weasel'
-bip_39_word_new_line_8: 'fence
-
-  pattern
-
-  surface
-
-  puzzle
-
-  supply
-
-  crazy
-
-  weasel
-
-  conduct'
-bip_39_word_new_line_9: 'fence
-
-  pattern
-
-  surface
-
-  puzzle
-
-  supply
-
-  crazy
-
-  weasel
-
-  conduct
-
-  expose'
-bip_39_word_no_space_1: fence
-bip_39_word_no_space_10: fencepatternsurfacepuzzlesupplycrazyweaselconductexposefly
-bip_39_word_no_space_11: fencepatternsurfacepuzzlesupplycrazyweaselconductexposeflysoup
 bip_39_word_no_space_12: fencepatternsurfacepuzzlesupplycrazyweaselconductexposeflysoupahead
 bip_39_word_no_space_2: fencepattern
 bip_39_word_no_space_3: fencepatternsurface
-bip_39_word_no_space_4: fencepatternsurfacepuzzle
-bip_39_word_no_space_5: fencepatternsurfacepuzzlesupply
-bip_39_word_no_space_6: fencepatternsurfacepuzzlesupplycrazy
-bip_39_word_no_space_7: fencepatternsurfacepuzzlesupplycrazyweasel
-bip_39_word_no_space_8: fencepatternsurfacepuzzlesupplycrazyweaselconduct
-bip_39_word_no_space_9: fencepatternsurfacepuzzlesupplycrazyweaselconductexpose
-bip_39_word_space_0:
-- fence
-- pattern
-- surface
-- puzzle
-- supply
-- crazy
-- weasel
-- conduct
-- expose
-- fly
-- soup
-- ahead
-bip_39_word_space_1: fence
-bip_39_word_space_10: fence pattern surface puzzle supply crazy weasel conduct expose
-  fly
-bip_39_word_space_11: fence pattern surface puzzle supply crazy weasel conduct expose
-  fly soup
 bip_39_word_space_12: fence pattern surface puzzle supply crazy weasel conduct expose
   fly soup ahead
 bip_39_word_space_2: fence pattern
 bip_39_word_space_3: fence pattern surface
-bip_39_word_space_4: fence pattern surface puzzle
-bip_39_word_space_5: fence pattern surface puzzle supply
-bip_39_word_space_6: fence pattern surface puzzle supply crazy
-bip_39_word_space_7: fence pattern surface puzzle supply crazy weasel
-bip_39_word_space_8: fence pattern surface puzzle supply crazy weasel conduct
-bip_39_word_space_9: fence pattern surface puzzle supply crazy weasel conduct expose
-bip_39_word_underscore_1: fence
-bip_39_word_underscore_10: fence_pattern_surface_puzzle_supply_crazy_weasel_conduct_expose_fly
-bip_39_word_underscore_11: fence_pattern_surface_puzzle_supply_crazy_weasel_conduct_expose_fly_soup
 bip_39_word_underscore_12: fence_pattern_surface_puzzle_supply_crazy_weasel_conduct_expose_fly_soup_ahead
 bip_39_word_underscore_2: fence_pattern
 bip_39_word_underscore_3: fence_pattern_surface
-bip_39_word_underscore_4: fence_pattern_surface_puzzle
-bip_39_word_underscore_5: fence_pattern_surface_puzzle_supply
-bip_39_word_underscore_6: fence_pattern_surface_puzzle_supply_crazy
-bip_39_word_underscore_7: fence_pattern_surface_puzzle_supply_crazy_weasel
-bip_39_word_underscore_8: fence_pattern_surface_puzzle_supply_crazy_weasel_conduct
-bip_39_word_underscore_9: fence_pattern_surface_puzzle_supply_crazy_weasel_conduct_expose
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

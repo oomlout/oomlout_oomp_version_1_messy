@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lock
-bip_39_word_dash_10: lock-found-load-oak-pulse-duck-champion-brown-shove-floor
-bip_39_word_dash_11: lock-found-load-oak-pulse-duck-champion-brown-shove-floor-snow
 bip_39_word_dash_12: lock-found-load-oak-pulse-duck-champion-brown-shove-floor-snow-among
 bip_39_word_dash_2: lock-found
 bip_39_word_dash_3: lock-found-load
-bip_39_word_dash_4: lock-found-load-oak
-bip_39_word_dash_5: lock-found-load-oak-pulse
-bip_39_word_dash_6: lock-found-load-oak-pulse-duck
-bip_39_word_dash_7: lock-found-load-oak-pulse-duck-champion
-bip_39_word_dash_8: lock-found-load-oak-pulse-duck-champion-brown
-bip_39_word_dash_9: lock-found-load-oak-pulse-duck-champion-brown-shove
-bip_39_word_new_br_1: lock
-bip_39_word_new_br_10: lock<br>found<br>load<br>oak<br>pulse<br>duck<br>champion<br>brown<br>shove<br>floor
-bip_39_word_new_br_11: lock<br>found<br>load<br>oak<br>pulse<br>duck<br>champion<br>brown<br>shove<br>floor<br>snow
 bip_39_word_new_br_12: lock<br>found<br>load<br>oak<br>pulse<br>duck<br>champion<br>brown<br>shove<br>floor<br>snow<br>among
 bip_39_word_new_br_2: lock<br>found
 bip_39_word_new_br_3: lock<br>found<br>load
-bip_39_word_new_br_4: lock<br>found<br>load<br>oak
-bip_39_word_new_br_5: lock<br>found<br>load<br>oak<br>pulse
-bip_39_word_new_br_6: lock<br>found<br>load<br>oak<br>pulse<br>duck
-bip_39_word_new_br_7: lock<br>found<br>load<br>oak<br>pulse<br>duck<br>champion
-bip_39_word_new_br_8: lock<br>found<br>load<br>oak<br>pulse<br>duck<br>champion<br>brown
-bip_39_word_new_br_9: lock<br>found<br>load<br>oak<br>pulse<br>duck<br>champion<br>brown<br>shove
-bip_39_word_new_line_1: lock
-bip_39_word_new_line_10: 'lock
-
-  found
-
-  load
-
-  oak
-
-  pulse
-
-  duck
-
-  champion
-
-  brown
-
-  shove
-
-  floor'
-bip_39_word_new_line_11: 'lock
-
-  found
-
-  load
-
-  oak
-
-  pulse
-
-  duck
-
-  champion
-
-  brown
-
-  shove
-
-  floor
-
-  snow'
 bip_39_word_new_line_12: 'lock
 
   found
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'lock
   found
 
   load'
-bip_39_word_new_line_4: 'lock
-
-  found
-
-  load
-
-  oak'
-bip_39_word_new_line_5: 'lock
-
-  found
-
-  load
-
-  oak
-
-  pulse'
-bip_39_word_new_line_6: 'lock
-
-  found
-
-  load
-
-  oak
-
-  pulse
-
-  duck'
-bip_39_word_new_line_7: 'lock
-
-  found
-
-  load
-
-  oak
-
-  pulse
-
-  duck
-
-  champion'
-bip_39_word_new_line_8: 'lock
-
-  found
-
-  load
-
-  oak
-
-  pulse
-
-  duck
-
-  champion
-
-  brown'
-bip_39_word_new_line_9: 'lock
-
-  found
-
-  load
-
-  oak
-
-  pulse
-
-  duck
-
-  champion
-
-  brown
-
-  shove'
-bip_39_word_no_space_1: lock
-bip_39_word_no_space_10: lockfoundloadoakpulseduckchampionbrownshovefloor
-bip_39_word_no_space_11: lockfoundloadoakpulseduckchampionbrownshovefloorsnow
 bip_39_word_no_space_12: lockfoundloadoakpulseduckchampionbrownshovefloorsnowamong
 bip_39_word_no_space_2: lockfound
 bip_39_word_no_space_3: lockfoundload
-bip_39_word_no_space_4: lockfoundloadoak
-bip_39_word_no_space_5: lockfoundloadoakpulse
-bip_39_word_no_space_6: lockfoundloadoakpulseduck
-bip_39_word_no_space_7: lockfoundloadoakpulseduckchampion
-bip_39_word_no_space_8: lockfoundloadoakpulseduckchampionbrown
-bip_39_word_no_space_9: lockfoundloadoakpulseduckchampionbrownshove
-bip_39_word_space_0:
-- lock
-- found
-- load
-- oak
-- pulse
-- duck
-- champion
-- brown
-- shove
-- floor
-- snow
-- among
-bip_39_word_space_1: lock
-bip_39_word_space_10: lock found load oak pulse duck champion brown shove floor
-bip_39_word_space_11: lock found load oak pulse duck champion brown shove floor snow
 bip_39_word_space_12: lock found load oak pulse duck champion brown shove floor snow
   among
 bip_39_word_space_2: lock found
 bip_39_word_space_3: lock found load
-bip_39_word_space_4: lock found load oak
-bip_39_word_space_5: lock found load oak pulse
-bip_39_word_space_6: lock found load oak pulse duck
-bip_39_word_space_7: lock found load oak pulse duck champion
-bip_39_word_space_8: lock found load oak pulse duck champion brown
-bip_39_word_space_9: lock found load oak pulse duck champion brown shove
-bip_39_word_underscore_1: lock
-bip_39_word_underscore_10: lock_found_load_oak_pulse_duck_champion_brown_shove_floor
-bip_39_word_underscore_11: lock_found_load_oak_pulse_duck_champion_brown_shove_floor_snow
 bip_39_word_underscore_12: lock_found_load_oak_pulse_duck_champion_brown_shove_floor_snow_among
 bip_39_word_underscore_2: lock_found
 bip_39_word_underscore_3: lock_found_load
-bip_39_word_underscore_4: lock_found_load_oak
-bip_39_word_underscore_5: lock_found_load_oak_pulse
-bip_39_word_underscore_6: lock_found_load_oak_pulse_duck
-bip_39_word_underscore_7: lock_found_load_oak_pulse_duck_champion
-bip_39_word_underscore_8: lock_found_load_oak_pulse_duck_champion_brown
-bip_39_word_underscore_9: lock_found_load_oak_pulse_duck_champion_brown_shove
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scorpion
-bip_39_word_dash_10: scorpion-marriage-arena-iron-consider-author-receive-hammer-pencil-execute
-bip_39_word_dash_11: scorpion-marriage-arena-iron-consider-author-receive-hammer-pencil-execute-draw
 bip_39_word_dash_12: scorpion-marriage-arena-iron-consider-author-receive-hammer-pencil-execute-draw-assist
 bip_39_word_dash_2: scorpion-marriage
 bip_39_word_dash_3: scorpion-marriage-arena
-bip_39_word_dash_4: scorpion-marriage-arena-iron
-bip_39_word_dash_5: scorpion-marriage-arena-iron-consider
-bip_39_word_dash_6: scorpion-marriage-arena-iron-consider-author
-bip_39_word_dash_7: scorpion-marriage-arena-iron-consider-author-receive
-bip_39_word_dash_8: scorpion-marriage-arena-iron-consider-author-receive-hammer
-bip_39_word_dash_9: scorpion-marriage-arena-iron-consider-author-receive-hammer-pencil
-bip_39_word_new_br_1: scorpion
-bip_39_word_new_br_10: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author<br>receive<br>hammer<br>pencil<br>execute
-bip_39_word_new_br_11: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author<br>receive<br>hammer<br>pencil<br>execute<br>draw
 bip_39_word_new_br_12: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author<br>receive<br>hammer<br>pencil<br>execute<br>draw<br>assist
 bip_39_word_new_br_2: scorpion<br>marriage
 bip_39_word_new_br_3: scorpion<br>marriage<br>arena
-bip_39_word_new_br_4: scorpion<br>marriage<br>arena<br>iron
-bip_39_word_new_br_5: scorpion<br>marriage<br>arena<br>iron<br>consider
-bip_39_word_new_br_6: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author
-bip_39_word_new_br_7: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author<br>receive
-bip_39_word_new_br_8: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author<br>receive<br>hammer
-bip_39_word_new_br_9: scorpion<br>marriage<br>arena<br>iron<br>consider<br>author<br>receive<br>hammer<br>pencil
-bip_39_word_new_line_1: scorpion
-bip_39_word_new_line_10: 'scorpion
-
-  marriage
-
-  arena
-
-  iron
-
-  consider
-
-  author
-
-  receive
-
-  hammer
-
-  pencil
-
-  execute'
-bip_39_word_new_line_11: 'scorpion
-
-  marriage
-
-  arena
-
-  iron
-
-  consider
-
-  author
-
-  receive
-
-  hammer
-
-  pencil
-
-  execute
-
-  draw'
 bip_39_word_new_line_12: 'scorpion
 
   marriage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scorpion
   marriage
 
   arena'
-bip_39_word_new_line_4: 'scorpion
-
-  marriage
-
-  arena
-
-  iron'
-bip_39_word_new_line_5: 'scorpion
-
-  marriage
-
-  arena
-
-  iron
-
-  consider'
-bip_39_word_new_line_6: 'scorpion
-
-  marriage
-
-  arena
-
-  iron
-
-  consider
-
-  author'
-bip_39_word_new_line_7: 'scorpion
-
-  marriage
-
-  arena
-
-  iron
-
-  consider
-
-  author
-
-  receive'
-bip_39_word_new_line_8: 'scorpion
-
-  marriage
-
-  arena
-
-  iron
-
-  consider
-
-  author
-
-  receive
-
-  hammer'
-bip_39_word_new_line_9: 'scorpion
-
-  marriage
-
-  arena
-
-  iron
-
-  consider
-
-  author
-
-  receive
-
-  hammer
-
-  pencil'
-bip_39_word_no_space_1: scorpion
-bip_39_word_no_space_10: scorpionmarriagearenaironconsiderauthorreceivehammerpencilexecute
-bip_39_word_no_space_11: scorpionmarriagearenaironconsiderauthorreceivehammerpencilexecutedraw
 bip_39_word_no_space_12: scorpionmarriagearenaironconsiderauthorreceivehammerpencilexecutedrawassist
 bip_39_word_no_space_2: scorpionmarriage
 bip_39_word_no_space_3: scorpionmarriagearena
-bip_39_word_no_space_4: scorpionmarriagearenairon
-bip_39_word_no_space_5: scorpionmarriagearenaironconsider
-bip_39_word_no_space_6: scorpionmarriagearenaironconsiderauthor
-bip_39_word_no_space_7: scorpionmarriagearenaironconsiderauthorreceive
-bip_39_word_no_space_8: scorpionmarriagearenaironconsiderauthorreceivehammer
-bip_39_word_no_space_9: scorpionmarriagearenaironconsiderauthorreceivehammerpencil
-bip_39_word_space_0:
-- scorpion
-- marriage
-- arena
-- iron
-- consider
-- author
-- receive
-- hammer
-- pencil
-- execute
-- draw
-- assist
-bip_39_word_space_1: scorpion
-bip_39_word_space_10: scorpion marriage arena iron consider author receive hammer
-  pencil execute
-bip_39_word_space_11: scorpion marriage arena iron consider author receive hammer
-  pencil execute draw
 bip_39_word_space_12: scorpion marriage arena iron consider author receive hammer
   pencil execute draw assist
 bip_39_word_space_2: scorpion marriage
 bip_39_word_space_3: scorpion marriage arena
-bip_39_word_space_4: scorpion marriage arena iron
-bip_39_word_space_5: scorpion marriage arena iron consider
-bip_39_word_space_6: scorpion marriage arena iron consider author
-bip_39_word_space_7: scorpion marriage arena iron consider author receive
-bip_39_word_space_8: scorpion marriage arena iron consider author receive hammer
-bip_39_word_space_9: scorpion marriage arena iron consider author receive hammer pencil
-bip_39_word_underscore_1: scorpion
-bip_39_word_underscore_10: scorpion_marriage_arena_iron_consider_author_receive_hammer_pencil_execute
-bip_39_word_underscore_11: scorpion_marriage_arena_iron_consider_author_receive_hammer_pencil_execute_draw
 bip_39_word_underscore_12: scorpion_marriage_arena_iron_consider_author_receive_hammer_pencil_execute_draw_assist
 bip_39_word_underscore_2: scorpion_marriage
 bip_39_word_underscore_3: scorpion_marriage_arena
-bip_39_word_underscore_4: scorpion_marriage_arena_iron
-bip_39_word_underscore_5: scorpion_marriage_arena_iron_consider
-bip_39_word_underscore_6: scorpion_marriage_arena_iron_consider_author
-bip_39_word_underscore_7: scorpion_marriage_arena_iron_consider_author_receive
-bip_39_word_underscore_8: scorpion_marriage_arena_iron_consider_author_receive_hammer
-bip_39_word_underscore_9: scorpion_marriage_arena_iron_consider_author_receive_hammer_pencil
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

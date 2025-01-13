@@ -1,68 +1,9 @@
-bip_39_word_dash_1: allow
-bip_39_word_dash_10: allow-match-donor-fork-desert-label-increase-exhaust-nephew-rail
-bip_39_word_dash_11: allow-match-donor-fork-desert-label-increase-exhaust-nephew-rail-wave
 bip_39_word_dash_12: allow-match-donor-fork-desert-label-increase-exhaust-nephew-rail-wave-able
 bip_39_word_dash_2: allow-match
 bip_39_word_dash_3: allow-match-donor
-bip_39_word_dash_4: allow-match-donor-fork
-bip_39_word_dash_5: allow-match-donor-fork-desert
-bip_39_word_dash_6: allow-match-donor-fork-desert-label
-bip_39_word_dash_7: allow-match-donor-fork-desert-label-increase
-bip_39_word_dash_8: allow-match-donor-fork-desert-label-increase-exhaust
-bip_39_word_dash_9: allow-match-donor-fork-desert-label-increase-exhaust-nephew
-bip_39_word_new_br_1: allow
-bip_39_word_new_br_10: allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail
-bip_39_word_new_br_11: allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave
 bip_39_word_new_br_12: allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave<br>able
 bip_39_word_new_br_2: allow<br>match
 bip_39_word_new_br_3: allow<br>match<br>donor
-bip_39_word_new_br_4: allow<br>match<br>donor<br>fork
-bip_39_word_new_br_5: allow<br>match<br>donor<br>fork<br>desert
-bip_39_word_new_br_6: allow<br>match<br>donor<br>fork<br>desert<br>label
-bip_39_word_new_br_7: allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase
-bip_39_word_new_br_8: allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust
-bip_39_word_new_br_9: allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew
-bip_39_word_new_line_1: allow
-bip_39_word_new_line_10: 'allow
-
-  match
-
-  donor
-
-  fork
-
-  desert
-
-  label
-
-  increase
-
-  exhaust
-
-  nephew
-
-  rail'
-bip_39_word_new_line_11: 'allow
-
-  match
-
-  donor
-
-  fork
-
-  desert
-
-  label
-
-  increase
-
-  exhaust
-
-  nephew
-
-  rail
-
-  wave'
 bip_39_word_new_line_12: 'allow
 
   match
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'allow
   match
 
   donor'
-bip_39_word_new_line_4: 'allow
-
-  match
-
-  donor
-
-  fork'
-bip_39_word_new_line_5: 'allow
-
-  match
-
-  donor
-
-  fork
-
-  desert'
-bip_39_word_new_line_6: 'allow
-
-  match
-
-  donor
-
-  fork
-
-  desert
-
-  label'
-bip_39_word_new_line_7: 'allow
-
-  match
-
-  donor
-
-  fork
-
-  desert
-
-  label
-
-  increase'
-bip_39_word_new_line_8: 'allow
-
-  match
-
-  donor
-
-  fork
-
-  desert
-
-  label
-
-  increase
-
-  exhaust'
-bip_39_word_new_line_9: 'allow
-
-  match
-
-  donor
-
-  fork
-
-  desert
-
-  label
-
-  increase
-
-  exhaust
-
-  nephew'
-bip_39_word_no_space_1: allow
-bip_39_word_no_space_10: allowmatchdonorforkdesertlabelincreaseexhaustnephewrail
-bip_39_word_no_space_11: allowmatchdonorforkdesertlabelincreaseexhaustnephewrailwave
 bip_39_word_no_space_12: allowmatchdonorforkdesertlabelincreaseexhaustnephewrailwaveable
 bip_39_word_no_space_2: allowmatch
 bip_39_word_no_space_3: allowmatchdonor
-bip_39_word_no_space_4: allowmatchdonorfork
-bip_39_word_no_space_5: allowmatchdonorforkdesert
-bip_39_word_no_space_6: allowmatchdonorforkdesertlabel
-bip_39_word_no_space_7: allowmatchdonorforkdesertlabelincrease
-bip_39_word_no_space_8: allowmatchdonorforkdesertlabelincreaseexhaust
-bip_39_word_no_space_9: allowmatchdonorforkdesertlabelincreaseexhaustnephew
-bip_39_word_space_0:
-- allow
-- match
-- donor
-- fork
-- desert
-- label
-- increase
-- exhaust
-- nephew
-- rail
-- wave
-- able
-bip_39_word_space_1: allow
-bip_39_word_space_10: allow match donor fork desert label increase exhaust nephew
-  rail
-bip_39_word_space_11: allow match donor fork desert label increase exhaust nephew
-  rail wave
 bip_39_word_space_12: allow match donor fork desert label increase exhaust nephew
   rail wave able
 bip_39_word_space_2: allow match
 bip_39_word_space_3: allow match donor
-bip_39_word_space_4: allow match donor fork
-bip_39_word_space_5: allow match donor fork desert
-bip_39_word_space_6: allow match donor fork desert label
-bip_39_word_space_7: allow match donor fork desert label increase
-bip_39_word_space_8: allow match donor fork desert label increase exhaust
-bip_39_word_space_9: allow match donor fork desert label increase exhaust nephew
-bip_39_word_underscore_1: allow
-bip_39_word_underscore_10: allow_match_donor_fork_desert_label_increase_exhaust_nephew_rail
-bip_39_word_underscore_11: allow_match_donor_fork_desert_label_increase_exhaust_nephew_rail_wave
 bip_39_word_underscore_12: allow_match_donor_fork_desert_label_increase_exhaust_nephew_rail_wave_able
 bip_39_word_underscore_2: allow_match
 bip_39_word_underscore_3: allow_match_donor
-bip_39_word_underscore_4: allow_match_donor_fork
-bip_39_word_underscore_5: allow_match_donor_fork_desert
-bip_39_word_underscore_6: allow_match_donor_fork_desert_label
-bip_39_word_underscore_7: allow_match_donor_fork_desert_label_increase
-bip_39_word_underscore_8: allow_match_donor_fork_desert_label_increase_exhaust
-bip_39_word_underscore_9: allow_match_donor_fork_desert_label_increase_exhaust_nephew
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

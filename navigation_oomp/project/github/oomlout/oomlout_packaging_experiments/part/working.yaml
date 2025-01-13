@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wage
-bip_39_word_dash_10: wage-science-destroy-ride-celery-victory-civil-bread-fly-bacon
-bip_39_word_dash_11: wage-science-destroy-ride-celery-victory-civil-bread-fly-bacon-question
 bip_39_word_dash_12: wage-science-destroy-ride-celery-victory-civil-bread-fly-bacon-question-announce
 bip_39_word_dash_2: wage-science
 bip_39_word_dash_3: wage-science-destroy
-bip_39_word_dash_4: wage-science-destroy-ride
-bip_39_word_dash_5: wage-science-destroy-ride-celery
-bip_39_word_dash_6: wage-science-destroy-ride-celery-victory
-bip_39_word_dash_7: wage-science-destroy-ride-celery-victory-civil
-bip_39_word_dash_8: wage-science-destroy-ride-celery-victory-civil-bread
-bip_39_word_dash_9: wage-science-destroy-ride-celery-victory-civil-bread-fly
-bip_39_word_new_br_1: wage
-bip_39_word_new_br_10: wage<br>science<br>destroy<br>ride<br>celery<br>victory<br>civil<br>bread<br>fly<br>bacon
-bip_39_word_new_br_11: wage<br>science<br>destroy<br>ride<br>celery<br>victory<br>civil<br>bread<br>fly<br>bacon<br>question
 bip_39_word_new_br_12: wage<br>science<br>destroy<br>ride<br>celery<br>victory<br>civil<br>bread<br>fly<br>bacon<br>question<br>announce
 bip_39_word_new_br_2: wage<br>science
 bip_39_word_new_br_3: wage<br>science<br>destroy
-bip_39_word_new_br_4: wage<br>science<br>destroy<br>ride
-bip_39_word_new_br_5: wage<br>science<br>destroy<br>ride<br>celery
-bip_39_word_new_br_6: wage<br>science<br>destroy<br>ride<br>celery<br>victory
-bip_39_word_new_br_7: wage<br>science<br>destroy<br>ride<br>celery<br>victory<br>civil
-bip_39_word_new_br_8: wage<br>science<br>destroy<br>ride<br>celery<br>victory<br>civil<br>bread
-bip_39_word_new_br_9: wage<br>science<br>destroy<br>ride<br>celery<br>victory<br>civil<br>bread<br>fly
-bip_39_word_new_line_1: wage
-bip_39_word_new_line_10: 'wage
-
-  science
-
-  destroy
-
-  ride
-
-  celery
-
-  victory
-
-  civil
-
-  bread
-
-  fly
-
-  bacon'
-bip_39_word_new_line_11: 'wage
-
-  science
-
-  destroy
-
-  ride
-
-  celery
-
-  victory
-
-  civil
-
-  bread
-
-  fly
-
-  bacon
-
-  question'
 bip_39_word_new_line_12: 'wage
 
   science
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wage
   science
 
   destroy'
-bip_39_word_new_line_4: 'wage
-
-  science
-
-  destroy
-
-  ride'
-bip_39_word_new_line_5: 'wage
-
-  science
-
-  destroy
-
-  ride
-
-  celery'
-bip_39_word_new_line_6: 'wage
-
-  science
-
-  destroy
-
-  ride
-
-  celery
-
-  victory'
-bip_39_word_new_line_7: 'wage
-
-  science
-
-  destroy
-
-  ride
-
-  celery
-
-  victory
-
-  civil'
-bip_39_word_new_line_8: 'wage
-
-  science
-
-  destroy
-
-  ride
-
-  celery
-
-  victory
-
-  civil
-
-  bread'
-bip_39_word_new_line_9: 'wage
-
-  science
-
-  destroy
-
-  ride
-
-  celery
-
-  victory
-
-  civil
-
-  bread
-
-  fly'
-bip_39_word_no_space_1: wage
-bip_39_word_no_space_10: wagesciencedestroyrideceleryvictorycivilbreadflybacon
-bip_39_word_no_space_11: wagesciencedestroyrideceleryvictorycivilbreadflybaconquestion
 bip_39_word_no_space_12: wagesciencedestroyrideceleryvictorycivilbreadflybaconquestionannounce
 bip_39_word_no_space_2: wagescience
 bip_39_word_no_space_3: wagesciencedestroy
-bip_39_word_no_space_4: wagesciencedestroyride
-bip_39_word_no_space_5: wagesciencedestroyridecelery
-bip_39_word_no_space_6: wagesciencedestroyrideceleryvictory
-bip_39_word_no_space_7: wagesciencedestroyrideceleryvictorycivil
-bip_39_word_no_space_8: wagesciencedestroyrideceleryvictorycivilbread
-bip_39_word_no_space_9: wagesciencedestroyrideceleryvictorycivilbreadfly
-bip_39_word_space_0:
-- wage
-- science
-- destroy
-- ride
-- celery
-- victory
-- civil
-- bread
-- fly
-- bacon
-- question
-- announce
-bip_39_word_space_1: wage
-bip_39_word_space_10: wage science destroy ride celery victory civil bread fly bacon
-bip_39_word_space_11: wage science destroy ride celery victory civil bread fly bacon
-  question
 bip_39_word_space_12: wage science destroy ride celery victory civil bread fly bacon
   question announce
 bip_39_word_space_2: wage science
 bip_39_word_space_3: wage science destroy
-bip_39_word_space_4: wage science destroy ride
-bip_39_word_space_5: wage science destroy ride celery
-bip_39_word_space_6: wage science destroy ride celery victory
-bip_39_word_space_7: wage science destroy ride celery victory civil
-bip_39_word_space_8: wage science destroy ride celery victory civil bread
-bip_39_word_space_9: wage science destroy ride celery victory civil bread fly
-bip_39_word_underscore_1: wage
-bip_39_word_underscore_10: wage_science_destroy_ride_celery_victory_civil_bread_fly_bacon
-bip_39_word_underscore_11: wage_science_destroy_ride_celery_victory_civil_bread_fly_bacon_question
 bip_39_word_underscore_12: wage_science_destroy_ride_celery_victory_civil_bread_fly_bacon_question_announce
 bip_39_word_underscore_2: wage_science
 bip_39_word_underscore_3: wage_science_destroy
-bip_39_word_underscore_4: wage_science_destroy_ride
-bip_39_word_underscore_5: wage_science_destroy_ride_celery
-bip_39_word_underscore_6: wage_science_destroy_ride_celery_victory
-bip_39_word_underscore_7: wage_science_destroy_ride_celery_victory_civil
-bip_39_word_underscore_8: wage_science_destroy_ride_celery_victory_civil_bread
-bip_39_word_underscore_9: wage_science_destroy_ride_celery_victory_civil_bread_fly
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: model
-bip_39_word_dash_10: model-split-wool-today-excess-iron-someone-seminar-pepper-danger
-bip_39_word_dash_11: model-split-wool-today-excess-iron-someone-seminar-pepper-danger-brass
 bip_39_word_dash_12: model-split-wool-today-excess-iron-someone-seminar-pepper-danger-brass-army
 bip_39_word_dash_2: model-split
 bip_39_word_dash_3: model-split-wool
-bip_39_word_dash_4: model-split-wool-today
-bip_39_word_dash_5: model-split-wool-today-excess
-bip_39_word_dash_6: model-split-wool-today-excess-iron
-bip_39_word_dash_7: model-split-wool-today-excess-iron-someone
-bip_39_word_dash_8: model-split-wool-today-excess-iron-someone-seminar
-bip_39_word_dash_9: model-split-wool-today-excess-iron-someone-seminar-pepper
-bip_39_word_new_br_1: model
-bip_39_word_new_br_10: model<br>split<br>wool<br>today<br>excess<br>iron<br>someone<br>seminar<br>pepper<br>danger
-bip_39_word_new_br_11: model<br>split<br>wool<br>today<br>excess<br>iron<br>someone<br>seminar<br>pepper<br>danger<br>brass
 bip_39_word_new_br_12: model<br>split<br>wool<br>today<br>excess<br>iron<br>someone<br>seminar<br>pepper<br>danger<br>brass<br>army
 bip_39_word_new_br_2: model<br>split
 bip_39_word_new_br_3: model<br>split<br>wool
-bip_39_word_new_br_4: model<br>split<br>wool<br>today
-bip_39_word_new_br_5: model<br>split<br>wool<br>today<br>excess
-bip_39_word_new_br_6: model<br>split<br>wool<br>today<br>excess<br>iron
-bip_39_word_new_br_7: model<br>split<br>wool<br>today<br>excess<br>iron<br>someone
-bip_39_word_new_br_8: model<br>split<br>wool<br>today<br>excess<br>iron<br>someone<br>seminar
-bip_39_word_new_br_9: model<br>split<br>wool<br>today<br>excess<br>iron<br>someone<br>seminar<br>pepper
-bip_39_word_new_line_1: model
-bip_39_word_new_line_10: 'model
-
-  split
-
-  wool
-
-  today
-
-  excess
-
-  iron
-
-  someone
-
-  seminar
-
-  pepper
-
-  danger'
-bip_39_word_new_line_11: 'model
-
-  split
-
-  wool
-
-  today
-
-  excess
-
-  iron
-
-  someone
-
-  seminar
-
-  pepper
-
-  danger
-
-  brass'
 bip_39_word_new_line_12: 'model
 
   split
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'model
   split
 
   wool'
-bip_39_word_new_line_4: 'model
-
-  split
-
-  wool
-
-  today'
-bip_39_word_new_line_5: 'model
-
-  split
-
-  wool
-
-  today
-
-  excess'
-bip_39_word_new_line_6: 'model
-
-  split
-
-  wool
-
-  today
-
-  excess
-
-  iron'
-bip_39_word_new_line_7: 'model
-
-  split
-
-  wool
-
-  today
-
-  excess
-
-  iron
-
-  someone'
-bip_39_word_new_line_8: 'model
-
-  split
-
-  wool
-
-  today
-
-  excess
-
-  iron
-
-  someone
-
-  seminar'
-bip_39_word_new_line_9: 'model
-
-  split
-
-  wool
-
-  today
-
-  excess
-
-  iron
-
-  someone
-
-  seminar
-
-  pepper'
-bip_39_word_no_space_1: model
-bip_39_word_no_space_10: modelsplitwooltodayexcessironsomeoneseminarpepperdanger
-bip_39_word_no_space_11: modelsplitwooltodayexcessironsomeoneseminarpepperdangerbrass
 bip_39_word_no_space_12: modelsplitwooltodayexcessironsomeoneseminarpepperdangerbrassarmy
 bip_39_word_no_space_2: modelsplit
 bip_39_word_no_space_3: modelsplitwool
-bip_39_word_no_space_4: modelsplitwooltoday
-bip_39_word_no_space_5: modelsplitwooltodayexcess
-bip_39_word_no_space_6: modelsplitwooltodayexcessiron
-bip_39_word_no_space_7: modelsplitwooltodayexcessironsomeone
-bip_39_word_no_space_8: modelsplitwooltodayexcessironsomeoneseminar
-bip_39_word_no_space_9: modelsplitwooltodayexcessironsomeoneseminarpepper
-bip_39_word_space_0:
-- model
-- split
-- wool
-- today
-- excess
-- iron
-- someone
-- seminar
-- pepper
-- danger
-- brass
-- army
-bip_39_word_space_1: model
-bip_39_word_space_10: model split wool today excess iron someone seminar pepper danger
-bip_39_word_space_11: model split wool today excess iron someone seminar pepper danger
-  brass
 bip_39_word_space_12: model split wool today excess iron someone seminar pepper danger
   brass army
 bip_39_word_space_2: model split
 bip_39_word_space_3: model split wool
-bip_39_word_space_4: model split wool today
-bip_39_word_space_5: model split wool today excess
-bip_39_word_space_6: model split wool today excess iron
-bip_39_word_space_7: model split wool today excess iron someone
-bip_39_word_space_8: model split wool today excess iron someone seminar
-bip_39_word_space_9: model split wool today excess iron someone seminar pepper
-bip_39_word_underscore_1: model
-bip_39_word_underscore_10: model_split_wool_today_excess_iron_someone_seminar_pepper_danger
-bip_39_word_underscore_11: model_split_wool_today_excess_iron_someone_seminar_pepper_danger_brass
 bip_39_word_underscore_12: model_split_wool_today_excess_iron_someone_seminar_pepper_danger_brass_army
 bip_39_word_underscore_2: model_split
 bip_39_word_underscore_3: model_split_wool
-bip_39_word_underscore_4: model_split_wool_today
-bip_39_word_underscore_5: model_split_wool_today_excess
-bip_39_word_underscore_6: model_split_wool_today_excess_iron
-bip_39_word_underscore_7: model_split_wool_today_excess_iron_someone
-bip_39_word_underscore_8: model_split_wool_today_excess_iron_someone_seminar
-bip_39_word_underscore_9: model_split_wool_today_excess_iron_someone_seminar_pepper
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

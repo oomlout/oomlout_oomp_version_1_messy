@@ -1,68 +1,9 @@
-bip_39_word_dash_1: country
-bip_39_word_dash_10: country-shine-violin-food-clinic-spider-brain-force-gentle-miracle
-bip_39_word_dash_11: country-shine-violin-food-clinic-spider-brain-force-gentle-miracle-catch
 bip_39_word_dash_12: country-shine-violin-food-clinic-spider-brain-force-gentle-miracle-catch-alarm
 bip_39_word_dash_2: country-shine
 bip_39_word_dash_3: country-shine-violin
-bip_39_word_dash_4: country-shine-violin-food
-bip_39_word_dash_5: country-shine-violin-food-clinic
-bip_39_word_dash_6: country-shine-violin-food-clinic-spider
-bip_39_word_dash_7: country-shine-violin-food-clinic-spider-brain
-bip_39_word_dash_8: country-shine-violin-food-clinic-spider-brain-force
-bip_39_word_dash_9: country-shine-violin-food-clinic-spider-brain-force-gentle
-bip_39_word_new_br_1: country
-bip_39_word_new_br_10: country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle<br>miracle
-bip_39_word_new_br_11: country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle<br>miracle<br>catch
 bip_39_word_new_br_12: country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle<br>miracle<br>catch<br>alarm
 bip_39_word_new_br_2: country<br>shine
 bip_39_word_new_br_3: country<br>shine<br>violin
-bip_39_word_new_br_4: country<br>shine<br>violin<br>food
-bip_39_word_new_br_5: country<br>shine<br>violin<br>food<br>clinic
-bip_39_word_new_br_6: country<br>shine<br>violin<br>food<br>clinic<br>spider
-bip_39_word_new_br_7: country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain
-bip_39_word_new_br_8: country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force
-bip_39_word_new_br_9: country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle
-bip_39_word_new_line_1: country
-bip_39_word_new_line_10: 'country
-
-  shine
-
-  violin
-
-  food
-
-  clinic
-
-  spider
-
-  brain
-
-  force
-
-  gentle
-
-  miracle'
-bip_39_word_new_line_11: 'country
-
-  shine
-
-  violin
-
-  food
-
-  clinic
-
-  spider
-
-  brain
-
-  force
-
-  gentle
-
-  miracle
-
-  catch'
 bip_39_word_new_line_12: 'country
 
   shine
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'country
   shine
 
   violin'
-bip_39_word_new_line_4: 'country
-
-  shine
-
-  violin
-
-  food'
-bip_39_word_new_line_5: 'country
-
-  shine
-
-  violin
-
-  food
-
-  clinic'
-bip_39_word_new_line_6: 'country
-
-  shine
-
-  violin
-
-  food
-
-  clinic
-
-  spider'
-bip_39_word_new_line_7: 'country
-
-  shine
-
-  violin
-
-  food
-
-  clinic
-
-  spider
-
-  brain'
-bip_39_word_new_line_8: 'country
-
-  shine
-
-  violin
-
-  food
-
-  clinic
-
-  spider
-
-  brain
-
-  force'
-bip_39_word_new_line_9: 'country
-
-  shine
-
-  violin
-
-  food
-
-  clinic
-
-  spider
-
-  brain
-
-  force
-
-  gentle'
-bip_39_word_no_space_1: country
-bip_39_word_no_space_10: countryshineviolinfoodclinicspiderbrainforcegentlemiracle
-bip_39_word_no_space_11: countryshineviolinfoodclinicspiderbrainforcegentlemiraclecatch
 bip_39_word_no_space_12: countryshineviolinfoodclinicspiderbrainforcegentlemiraclecatchalarm
 bip_39_word_no_space_2: countryshine
 bip_39_word_no_space_3: countryshineviolin
-bip_39_word_no_space_4: countryshineviolinfood
-bip_39_word_no_space_5: countryshineviolinfoodclinic
-bip_39_word_no_space_6: countryshineviolinfoodclinicspider
-bip_39_word_no_space_7: countryshineviolinfoodclinicspiderbrain
-bip_39_word_no_space_8: countryshineviolinfoodclinicspiderbrainforce
-bip_39_word_no_space_9: countryshineviolinfoodclinicspiderbrainforcegentle
-bip_39_word_space_0:
-- country
-- shine
-- violin
-- food
-- clinic
-- spider
-- brain
-- force
-- gentle
-- miracle
-- catch
-- alarm
-bip_39_word_space_1: country
-bip_39_word_space_10: country shine violin food clinic spider brain force gentle miracle
-bip_39_word_space_11: country shine violin food clinic spider brain force gentle miracle
-  catch
 bip_39_word_space_12: country shine violin food clinic spider brain force gentle miracle
   catch alarm
 bip_39_word_space_2: country shine
 bip_39_word_space_3: country shine violin
-bip_39_word_space_4: country shine violin food
-bip_39_word_space_5: country shine violin food clinic
-bip_39_word_space_6: country shine violin food clinic spider
-bip_39_word_space_7: country shine violin food clinic spider brain
-bip_39_word_space_8: country shine violin food clinic spider brain force
-bip_39_word_space_9: country shine violin food clinic spider brain force gentle
-bip_39_word_underscore_1: country
-bip_39_word_underscore_10: country_shine_violin_food_clinic_spider_brain_force_gentle_miracle
-bip_39_word_underscore_11: country_shine_violin_food_clinic_spider_brain_force_gentle_miracle_catch
 bip_39_word_underscore_12: country_shine_violin_food_clinic_spider_brain_force_gentle_miracle_catch_alarm
 bip_39_word_underscore_2: country_shine
 bip_39_word_underscore_3: country_shine_violin
-bip_39_word_underscore_4: country_shine_violin_food
-bip_39_word_underscore_5: country_shine_violin_food_clinic
-bip_39_word_underscore_6: country_shine_violin_food_clinic_spider
-bip_39_word_underscore_7: country_shine_violin_food_clinic_spider_brain
-bip_39_word_underscore_8: country_shine_violin_food_clinic_spider_brain_force
-bip_39_word_underscore_9: country_shine_violin_food_clinic_spider_brain_force_gentle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

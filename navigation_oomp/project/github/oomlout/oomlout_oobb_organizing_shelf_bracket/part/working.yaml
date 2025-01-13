@@ -1,68 +1,9 @@
-bip_39_word_dash_1: finger
-bip_39_word_dash_10: finger-zoo-saddle-enemy-pumpkin-lonely-donate-chair-visa-love
-bip_39_word_dash_11: finger-zoo-saddle-enemy-pumpkin-lonely-donate-chair-visa-love-grow
 bip_39_word_dash_12: finger-zoo-saddle-enemy-pumpkin-lonely-donate-chair-visa-love-grow-amateur
 bip_39_word_dash_2: finger-zoo
 bip_39_word_dash_3: finger-zoo-saddle
-bip_39_word_dash_4: finger-zoo-saddle-enemy
-bip_39_word_dash_5: finger-zoo-saddle-enemy-pumpkin
-bip_39_word_dash_6: finger-zoo-saddle-enemy-pumpkin-lonely
-bip_39_word_dash_7: finger-zoo-saddle-enemy-pumpkin-lonely-donate
-bip_39_word_dash_8: finger-zoo-saddle-enemy-pumpkin-lonely-donate-chair
-bip_39_word_dash_9: finger-zoo-saddle-enemy-pumpkin-lonely-donate-chair-visa
-bip_39_word_new_br_1: finger
-bip_39_word_new_br_10: finger<br>zoo<br>saddle<br>enemy<br>pumpkin<br>lonely<br>donate<br>chair<br>visa<br>love
-bip_39_word_new_br_11: finger<br>zoo<br>saddle<br>enemy<br>pumpkin<br>lonely<br>donate<br>chair<br>visa<br>love<br>grow
 bip_39_word_new_br_12: finger<br>zoo<br>saddle<br>enemy<br>pumpkin<br>lonely<br>donate<br>chair<br>visa<br>love<br>grow<br>amateur
 bip_39_word_new_br_2: finger<br>zoo
 bip_39_word_new_br_3: finger<br>zoo<br>saddle
-bip_39_word_new_br_4: finger<br>zoo<br>saddle<br>enemy
-bip_39_word_new_br_5: finger<br>zoo<br>saddle<br>enemy<br>pumpkin
-bip_39_word_new_br_6: finger<br>zoo<br>saddle<br>enemy<br>pumpkin<br>lonely
-bip_39_word_new_br_7: finger<br>zoo<br>saddle<br>enemy<br>pumpkin<br>lonely<br>donate
-bip_39_word_new_br_8: finger<br>zoo<br>saddle<br>enemy<br>pumpkin<br>lonely<br>donate<br>chair
-bip_39_word_new_br_9: finger<br>zoo<br>saddle<br>enemy<br>pumpkin<br>lonely<br>donate<br>chair<br>visa
-bip_39_word_new_line_1: finger
-bip_39_word_new_line_10: 'finger
-
-  zoo
-
-  saddle
-
-  enemy
-
-  pumpkin
-
-  lonely
-
-  donate
-
-  chair
-
-  visa
-
-  love'
-bip_39_word_new_line_11: 'finger
-
-  zoo
-
-  saddle
-
-  enemy
-
-  pumpkin
-
-  lonely
-
-  donate
-
-  chair
-
-  visa
-
-  love
-
-  grow'
 bip_39_word_new_line_12: 'finger
 
   zoo
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'finger
   zoo
 
   saddle'
-bip_39_word_new_line_4: 'finger
-
-  zoo
-
-  saddle
-
-  enemy'
-bip_39_word_new_line_5: 'finger
-
-  zoo
-
-  saddle
-
-  enemy
-
-  pumpkin'
-bip_39_word_new_line_6: 'finger
-
-  zoo
-
-  saddle
-
-  enemy
-
-  pumpkin
-
-  lonely'
-bip_39_word_new_line_7: 'finger
-
-  zoo
-
-  saddle
-
-  enemy
-
-  pumpkin
-
-  lonely
-
-  donate'
-bip_39_word_new_line_8: 'finger
-
-  zoo
-
-  saddle
-
-  enemy
-
-  pumpkin
-
-  lonely
-
-  donate
-
-  chair'
-bip_39_word_new_line_9: 'finger
-
-  zoo
-
-  saddle
-
-  enemy
-
-  pumpkin
-
-  lonely
-
-  donate
-
-  chair
-
-  visa'
-bip_39_word_no_space_1: finger
-bip_39_word_no_space_10: fingerzoosaddleenemypumpkinlonelydonatechairvisalove
-bip_39_word_no_space_11: fingerzoosaddleenemypumpkinlonelydonatechairvisalovegrow
 bip_39_word_no_space_12: fingerzoosaddleenemypumpkinlonelydonatechairvisalovegrowamateur
 bip_39_word_no_space_2: fingerzoo
 bip_39_word_no_space_3: fingerzoosaddle
-bip_39_word_no_space_4: fingerzoosaddleenemy
-bip_39_word_no_space_5: fingerzoosaddleenemypumpkin
-bip_39_word_no_space_6: fingerzoosaddleenemypumpkinlonely
-bip_39_word_no_space_7: fingerzoosaddleenemypumpkinlonelydonate
-bip_39_word_no_space_8: fingerzoosaddleenemypumpkinlonelydonatechair
-bip_39_word_no_space_9: fingerzoosaddleenemypumpkinlonelydonatechairvisa
-bip_39_word_space_0:
-- finger
-- zoo
-- saddle
-- enemy
-- pumpkin
-- lonely
-- donate
-- chair
-- visa
-- love
-- grow
-- amateur
-bip_39_word_space_1: finger
-bip_39_word_space_10: finger zoo saddle enemy pumpkin lonely donate chair visa love
-bip_39_word_space_11: finger zoo saddle enemy pumpkin lonely donate chair visa love
-  grow
 bip_39_word_space_12: finger zoo saddle enemy pumpkin lonely donate chair visa love
   grow amateur
 bip_39_word_space_2: finger zoo
 bip_39_word_space_3: finger zoo saddle
-bip_39_word_space_4: finger zoo saddle enemy
-bip_39_word_space_5: finger zoo saddle enemy pumpkin
-bip_39_word_space_6: finger zoo saddle enemy pumpkin lonely
-bip_39_word_space_7: finger zoo saddle enemy pumpkin lonely donate
-bip_39_word_space_8: finger zoo saddle enemy pumpkin lonely donate chair
-bip_39_word_space_9: finger zoo saddle enemy pumpkin lonely donate chair visa
-bip_39_word_underscore_1: finger
-bip_39_word_underscore_10: finger_zoo_saddle_enemy_pumpkin_lonely_donate_chair_visa_love
-bip_39_word_underscore_11: finger_zoo_saddle_enemy_pumpkin_lonely_donate_chair_visa_love_grow
 bip_39_word_underscore_12: finger_zoo_saddle_enemy_pumpkin_lonely_donate_chair_visa_love_grow_amateur
 bip_39_word_underscore_2: finger_zoo
 bip_39_word_underscore_3: finger_zoo_saddle
-bip_39_word_underscore_4: finger_zoo_saddle_enemy
-bip_39_word_underscore_5: finger_zoo_saddle_enemy_pumpkin
-bip_39_word_underscore_6: finger_zoo_saddle_enemy_pumpkin_lonely
-bip_39_word_underscore_7: finger_zoo_saddle_enemy_pumpkin_lonely_donate
-bip_39_word_underscore_8: finger_zoo_saddle_enemy_pumpkin_lonely_donate_chair
-bip_39_word_underscore_9: finger_zoo_saddle_enemy_pumpkin_lonely_donate_chair_visa
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alley
-bip_39_word_dash_10: alley-oven-power-pluck-gospel-machine-lunar-cannon-glove-main
-bip_39_word_dash_11: alley-oven-power-pluck-gospel-machine-lunar-cannon-glove-main-side
 bip_39_word_dash_12: alley-oven-power-pluck-gospel-machine-lunar-cannon-glove-main-side-arrange
 bip_39_word_dash_2: alley-oven
 bip_39_word_dash_3: alley-oven-power
-bip_39_word_dash_4: alley-oven-power-pluck
-bip_39_word_dash_5: alley-oven-power-pluck-gospel
-bip_39_word_dash_6: alley-oven-power-pluck-gospel-machine
-bip_39_word_dash_7: alley-oven-power-pluck-gospel-machine-lunar
-bip_39_word_dash_8: alley-oven-power-pluck-gospel-machine-lunar-cannon
-bip_39_word_dash_9: alley-oven-power-pluck-gospel-machine-lunar-cannon-glove
-bip_39_word_new_br_1: alley
-bip_39_word_new_br_10: alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon<br>glove<br>main
-bip_39_word_new_br_11: alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon<br>glove<br>main<br>side
 bip_39_word_new_br_12: alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon<br>glove<br>main<br>side<br>arrange
 bip_39_word_new_br_2: alley<br>oven
 bip_39_word_new_br_3: alley<br>oven<br>power
-bip_39_word_new_br_4: alley<br>oven<br>power<br>pluck
-bip_39_word_new_br_5: alley<br>oven<br>power<br>pluck<br>gospel
-bip_39_word_new_br_6: alley<br>oven<br>power<br>pluck<br>gospel<br>machine
-bip_39_word_new_br_7: alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar
-bip_39_word_new_br_8: alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon
-bip_39_word_new_br_9: alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon<br>glove
-bip_39_word_new_line_1: alley
-bip_39_word_new_line_10: 'alley
-
-  oven
-
-  power
-
-  pluck
-
-  gospel
-
-  machine
-
-  lunar
-
-  cannon
-
-  glove
-
-  main'
-bip_39_word_new_line_11: 'alley
-
-  oven
-
-  power
-
-  pluck
-
-  gospel
-
-  machine
-
-  lunar
-
-  cannon
-
-  glove
-
-  main
-
-  side'
 bip_39_word_new_line_12: 'alley
 
   oven
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'alley
   oven
 
   power'
-bip_39_word_new_line_4: 'alley
-
-  oven
-
-  power
-
-  pluck'
-bip_39_word_new_line_5: 'alley
-
-  oven
-
-  power
-
-  pluck
-
-  gospel'
-bip_39_word_new_line_6: 'alley
-
-  oven
-
-  power
-
-  pluck
-
-  gospel
-
-  machine'
-bip_39_word_new_line_7: 'alley
-
-  oven
-
-  power
-
-  pluck
-
-  gospel
-
-  machine
-
-  lunar'
-bip_39_word_new_line_8: 'alley
-
-  oven
-
-  power
-
-  pluck
-
-  gospel
-
-  machine
-
-  lunar
-
-  cannon'
-bip_39_word_new_line_9: 'alley
-
-  oven
-
-  power
-
-  pluck
-
-  gospel
-
-  machine
-
-  lunar
-
-  cannon
-
-  glove'
-bip_39_word_no_space_1: alley
-bip_39_word_no_space_10: alleyovenpowerpluckgospelmachinelunarcannonglovemain
-bip_39_word_no_space_11: alleyovenpowerpluckgospelmachinelunarcannonglovemainside
 bip_39_word_no_space_12: alleyovenpowerpluckgospelmachinelunarcannonglovemainsidearrange
 bip_39_word_no_space_2: alleyoven
 bip_39_word_no_space_3: alleyovenpower
-bip_39_word_no_space_4: alleyovenpowerpluck
-bip_39_word_no_space_5: alleyovenpowerpluckgospel
-bip_39_word_no_space_6: alleyovenpowerpluckgospelmachine
-bip_39_word_no_space_7: alleyovenpowerpluckgospelmachinelunar
-bip_39_word_no_space_8: alleyovenpowerpluckgospelmachinelunarcannon
-bip_39_word_no_space_9: alleyovenpowerpluckgospelmachinelunarcannonglove
-bip_39_word_space_0:
-- alley
-- oven
-- power
-- pluck
-- gospel
-- machine
-- lunar
-- cannon
-- glove
-- main
-- side
-- arrange
-bip_39_word_space_1: alley
-bip_39_word_space_10: alley oven power pluck gospel machine lunar cannon glove main
-bip_39_word_space_11: alley oven power pluck gospel machine lunar cannon glove main
-  side
 bip_39_word_space_12: alley oven power pluck gospel machine lunar cannon glove main
   side arrange
 bip_39_word_space_2: alley oven
 bip_39_word_space_3: alley oven power
-bip_39_word_space_4: alley oven power pluck
-bip_39_word_space_5: alley oven power pluck gospel
-bip_39_word_space_6: alley oven power pluck gospel machine
-bip_39_word_space_7: alley oven power pluck gospel machine lunar
-bip_39_word_space_8: alley oven power pluck gospel machine lunar cannon
-bip_39_word_space_9: alley oven power pluck gospel machine lunar cannon glove
-bip_39_word_underscore_1: alley
-bip_39_word_underscore_10: alley_oven_power_pluck_gospel_machine_lunar_cannon_glove_main
-bip_39_word_underscore_11: alley_oven_power_pluck_gospel_machine_lunar_cannon_glove_main_side
 bip_39_word_underscore_12: alley_oven_power_pluck_gospel_machine_lunar_cannon_glove_main_side_arrange
 bip_39_word_underscore_2: alley_oven
 bip_39_word_underscore_3: alley_oven_power
-bip_39_word_underscore_4: alley_oven_power_pluck
-bip_39_word_underscore_5: alley_oven_power_pluck_gospel
-bip_39_word_underscore_6: alley_oven_power_pluck_gospel_machine
-bip_39_word_underscore_7: alley_oven_power_pluck_gospel_machine_lunar
-bip_39_word_underscore_8: alley_oven_power_pluck_gospel_machine_lunar_cannon
-bip_39_word_underscore_9: alley_oven_power_pluck_gospel_machine_lunar_cannon_glove
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

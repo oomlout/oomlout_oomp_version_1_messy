@@ -1,68 +1,9 @@
-bip_39_word_dash_1: admit
-bip_39_word_dash_10: admit-stick-smile-topple-sweet-select-maid-century-tip-require
-bip_39_word_dash_11: admit-stick-smile-topple-sweet-select-maid-century-tip-require-weasel
 bip_39_word_dash_12: admit-stick-smile-topple-sweet-select-maid-century-tip-require-weasel-arrange
 bip_39_word_dash_2: admit-stick
 bip_39_word_dash_3: admit-stick-smile
-bip_39_word_dash_4: admit-stick-smile-topple
-bip_39_word_dash_5: admit-stick-smile-topple-sweet
-bip_39_word_dash_6: admit-stick-smile-topple-sweet-select
-bip_39_word_dash_7: admit-stick-smile-topple-sweet-select-maid
-bip_39_word_dash_8: admit-stick-smile-topple-sweet-select-maid-century
-bip_39_word_dash_9: admit-stick-smile-topple-sweet-select-maid-century-tip
-bip_39_word_new_br_1: admit
-bip_39_word_new_br_10: admit<br>stick<br>smile<br>topple<br>sweet<br>select<br>maid<br>century<br>tip<br>require
-bip_39_word_new_br_11: admit<br>stick<br>smile<br>topple<br>sweet<br>select<br>maid<br>century<br>tip<br>require<br>weasel
 bip_39_word_new_br_12: admit<br>stick<br>smile<br>topple<br>sweet<br>select<br>maid<br>century<br>tip<br>require<br>weasel<br>arrange
 bip_39_word_new_br_2: admit<br>stick
 bip_39_word_new_br_3: admit<br>stick<br>smile
-bip_39_word_new_br_4: admit<br>stick<br>smile<br>topple
-bip_39_word_new_br_5: admit<br>stick<br>smile<br>topple<br>sweet
-bip_39_word_new_br_6: admit<br>stick<br>smile<br>topple<br>sweet<br>select
-bip_39_word_new_br_7: admit<br>stick<br>smile<br>topple<br>sweet<br>select<br>maid
-bip_39_word_new_br_8: admit<br>stick<br>smile<br>topple<br>sweet<br>select<br>maid<br>century
-bip_39_word_new_br_9: admit<br>stick<br>smile<br>topple<br>sweet<br>select<br>maid<br>century<br>tip
-bip_39_word_new_line_1: admit
-bip_39_word_new_line_10: 'admit
-
-  stick
-
-  smile
-
-  topple
-
-  sweet
-
-  select
-
-  maid
-
-  century
-
-  tip
-
-  require'
-bip_39_word_new_line_11: 'admit
-
-  stick
-
-  smile
-
-  topple
-
-  sweet
-
-  select
-
-  maid
-
-  century
-
-  tip
-
-  require
-
-  weasel'
 bip_39_word_new_line_12: 'admit
 
   stick
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'admit
   stick
 
   smile'
-bip_39_word_new_line_4: 'admit
-
-  stick
-
-  smile
-
-  topple'
-bip_39_word_new_line_5: 'admit
-
-  stick
-
-  smile
-
-  topple
-
-  sweet'
-bip_39_word_new_line_6: 'admit
-
-  stick
-
-  smile
-
-  topple
-
-  sweet
-
-  select'
-bip_39_word_new_line_7: 'admit
-
-  stick
-
-  smile
-
-  topple
-
-  sweet
-
-  select
-
-  maid'
-bip_39_word_new_line_8: 'admit
-
-  stick
-
-  smile
-
-  topple
-
-  sweet
-
-  select
-
-  maid
-
-  century'
-bip_39_word_new_line_9: 'admit
-
-  stick
-
-  smile
-
-  topple
-
-  sweet
-
-  select
-
-  maid
-
-  century
-
-  tip'
-bip_39_word_no_space_1: admit
-bip_39_word_no_space_10: admitsticksmiletopplesweetselectmaidcenturytiprequire
-bip_39_word_no_space_11: admitsticksmiletopplesweetselectmaidcenturytiprequireweasel
 bip_39_word_no_space_12: admitsticksmiletopplesweetselectmaidcenturytiprequireweaselarrange
 bip_39_word_no_space_2: admitstick
 bip_39_word_no_space_3: admitsticksmile
-bip_39_word_no_space_4: admitsticksmiletopple
-bip_39_word_no_space_5: admitsticksmiletopplesweet
-bip_39_word_no_space_6: admitsticksmiletopplesweetselect
-bip_39_word_no_space_7: admitsticksmiletopplesweetselectmaid
-bip_39_word_no_space_8: admitsticksmiletopplesweetselectmaidcentury
-bip_39_word_no_space_9: admitsticksmiletopplesweetselectmaidcenturytip
-bip_39_word_space_0:
-- admit
-- stick
-- smile
-- topple
-- sweet
-- select
-- maid
-- century
-- tip
-- require
-- weasel
-- arrange
-bip_39_word_space_1: admit
-bip_39_word_space_10: admit stick smile topple sweet select maid century tip require
-bip_39_word_space_11: admit stick smile topple sweet select maid century tip require
-  weasel
 bip_39_word_space_12: admit stick smile topple sweet select maid century tip require
   weasel arrange
 bip_39_word_space_2: admit stick
 bip_39_word_space_3: admit stick smile
-bip_39_word_space_4: admit stick smile topple
-bip_39_word_space_5: admit stick smile topple sweet
-bip_39_word_space_6: admit stick smile topple sweet select
-bip_39_word_space_7: admit stick smile topple sweet select maid
-bip_39_word_space_8: admit stick smile topple sweet select maid century
-bip_39_word_space_9: admit stick smile topple sweet select maid century tip
-bip_39_word_underscore_1: admit
-bip_39_word_underscore_10: admit_stick_smile_topple_sweet_select_maid_century_tip_require
-bip_39_word_underscore_11: admit_stick_smile_topple_sweet_select_maid_century_tip_require_weasel
 bip_39_word_underscore_12: admit_stick_smile_topple_sweet_select_maid_century_tip_require_weasel_arrange
 bip_39_word_underscore_2: admit_stick
 bip_39_word_underscore_3: admit_stick_smile
-bip_39_word_underscore_4: admit_stick_smile_topple
-bip_39_word_underscore_5: admit_stick_smile_topple_sweet
-bip_39_word_underscore_6: admit_stick_smile_topple_sweet_select
-bip_39_word_underscore_7: admit_stick_smile_topple_sweet_select_maid
-bip_39_word_underscore_8: admit_stick_smile_topple_sweet_select_maid_century
-bip_39_word_underscore_9: admit_stick_smile_topple_sweet_select_maid_century_tip
 classification: food
 classification_capital: Food
 classification_first_letter: f

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: deny
-bip_39_word_dash_10: deny-rude-arm-erosion-crack-frozen-window-define-peasant-crouch
-bip_39_word_dash_11: deny-rude-arm-erosion-crack-frozen-window-define-peasant-crouch-cruel
 bip_39_word_dash_12: deny-rude-arm-erosion-crack-frozen-window-define-peasant-crouch-cruel-answer
 bip_39_word_dash_2: deny-rude
 bip_39_word_dash_3: deny-rude-arm
-bip_39_word_dash_4: deny-rude-arm-erosion
-bip_39_word_dash_5: deny-rude-arm-erosion-crack
-bip_39_word_dash_6: deny-rude-arm-erosion-crack-frozen
-bip_39_word_dash_7: deny-rude-arm-erosion-crack-frozen-window
-bip_39_word_dash_8: deny-rude-arm-erosion-crack-frozen-window-define
-bip_39_word_dash_9: deny-rude-arm-erosion-crack-frozen-window-define-peasant
-bip_39_word_new_br_1: deny
-bip_39_word_new_br_10: deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch
-bip_39_word_new_br_11: deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch<br>cruel
 bip_39_word_new_br_12: deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant<br>crouch<br>cruel<br>answer
 bip_39_word_new_br_2: deny<br>rude
 bip_39_word_new_br_3: deny<br>rude<br>arm
-bip_39_word_new_br_4: deny<br>rude<br>arm<br>erosion
-bip_39_word_new_br_5: deny<br>rude<br>arm<br>erosion<br>crack
-bip_39_word_new_br_6: deny<br>rude<br>arm<br>erosion<br>crack<br>frozen
-bip_39_word_new_br_7: deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window
-bip_39_word_new_br_8: deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define
-bip_39_word_new_br_9: deny<br>rude<br>arm<br>erosion<br>crack<br>frozen<br>window<br>define<br>peasant
-bip_39_word_new_line_1: deny
-bip_39_word_new_line_10: 'deny
-
-  rude
-
-  arm
-
-  erosion
-
-  crack
-
-  frozen
-
-  window
-
-  define
-
-  peasant
-
-  crouch'
-bip_39_word_new_line_11: 'deny
-
-  rude
-
-  arm
-
-  erosion
-
-  crack
-
-  frozen
-
-  window
-
-  define
-
-  peasant
-
-  crouch
-
-  cruel'
 bip_39_word_new_line_12: 'deny
 
   rude
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'deny
   rude
 
   arm'
-bip_39_word_new_line_4: 'deny
-
-  rude
-
-  arm
-
-  erosion'
-bip_39_word_new_line_5: 'deny
-
-  rude
-
-  arm
-
-  erosion
-
-  crack'
-bip_39_word_new_line_6: 'deny
-
-  rude
-
-  arm
-
-  erosion
-
-  crack
-
-  frozen'
-bip_39_word_new_line_7: 'deny
-
-  rude
-
-  arm
-
-  erosion
-
-  crack
-
-  frozen
-
-  window'
-bip_39_word_new_line_8: 'deny
-
-  rude
-
-  arm
-
-  erosion
-
-  crack
-
-  frozen
-
-  window
-
-  define'
-bip_39_word_new_line_9: 'deny
-
-  rude
-
-  arm
-
-  erosion
-
-  crack
-
-  frozen
-
-  window
-
-  define
-
-  peasant'
-bip_39_word_no_space_1: deny
-bip_39_word_no_space_10: denyrudearmerosioncrackfrozenwindowdefinepeasantcrouch
-bip_39_word_no_space_11: denyrudearmerosioncrackfrozenwindowdefinepeasantcrouchcruel
 bip_39_word_no_space_12: denyrudearmerosioncrackfrozenwindowdefinepeasantcrouchcruelanswer
 bip_39_word_no_space_2: denyrude
 bip_39_word_no_space_3: denyrudearm
-bip_39_word_no_space_4: denyrudearmerosion
-bip_39_word_no_space_5: denyrudearmerosioncrack
-bip_39_word_no_space_6: denyrudearmerosioncrackfrozen
-bip_39_word_no_space_7: denyrudearmerosioncrackfrozenwindow
-bip_39_word_no_space_8: denyrudearmerosioncrackfrozenwindowdefine
-bip_39_word_no_space_9: denyrudearmerosioncrackfrozenwindowdefinepeasant
-bip_39_word_space_0:
-- deny
-- rude
-- arm
-- erosion
-- crack
-- frozen
-- window
-- define
-- peasant
-- crouch
-- cruel
-- answer
-bip_39_word_space_1: deny
-bip_39_word_space_10: deny rude arm erosion crack frozen window define peasant crouch
-bip_39_word_space_11: deny rude arm erosion crack frozen window define peasant crouch
-  cruel
 bip_39_word_space_12: deny rude arm erosion crack frozen window define peasant crouch
   cruel answer
 bip_39_word_space_2: deny rude
 bip_39_word_space_3: deny rude arm
-bip_39_word_space_4: deny rude arm erosion
-bip_39_word_space_5: deny rude arm erosion crack
-bip_39_word_space_6: deny rude arm erosion crack frozen
-bip_39_word_space_7: deny rude arm erosion crack frozen window
-bip_39_word_space_8: deny rude arm erosion crack frozen window define
-bip_39_word_space_9: deny rude arm erosion crack frozen window define peasant
-bip_39_word_underscore_1: deny
-bip_39_word_underscore_10: deny_rude_arm_erosion_crack_frozen_window_define_peasant_crouch
-bip_39_word_underscore_11: deny_rude_arm_erosion_crack_frozen_window_define_peasant_crouch_cruel
 bip_39_word_underscore_12: deny_rude_arm_erosion_crack_frozen_window_define_peasant_crouch_cruel_answer
 bip_39_word_underscore_2: deny_rude
 bip_39_word_underscore_3: deny_rude_arm
-bip_39_word_underscore_4: deny_rude_arm_erosion
-bip_39_word_underscore_5: deny_rude_arm_erosion_crack
-bip_39_word_underscore_6: deny_rude_arm_erosion_crack_frozen
-bip_39_word_underscore_7: deny_rude_arm_erosion_crack_frozen_window
-bip_39_word_underscore_8: deny_rude_arm_erosion_crack_frozen_window_define
-bip_39_word_underscore_9: deny_rude_arm_erosion_crack_frozen_window_define_peasant
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

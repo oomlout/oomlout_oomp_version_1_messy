@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gain
-bip_39_word_dash_10: gain-raw-train-distance-learn-ice-game-pluck-twist-relax
-bip_39_word_dash_11: gain-raw-train-distance-learn-ice-game-pluck-twist-relax-core
 bip_39_word_dash_12: gain-raw-train-distance-learn-ice-game-pluck-twist-relax-core-auction
 bip_39_word_dash_2: gain-raw
 bip_39_word_dash_3: gain-raw-train
-bip_39_word_dash_4: gain-raw-train-distance
-bip_39_word_dash_5: gain-raw-train-distance-learn
-bip_39_word_dash_6: gain-raw-train-distance-learn-ice
-bip_39_word_dash_7: gain-raw-train-distance-learn-ice-game
-bip_39_word_dash_8: gain-raw-train-distance-learn-ice-game-pluck
-bip_39_word_dash_9: gain-raw-train-distance-learn-ice-game-pluck-twist
-bip_39_word_new_br_1: gain
-bip_39_word_new_br_10: gain<br>raw<br>train<br>distance<br>learn<br>ice<br>game<br>pluck<br>twist<br>relax
-bip_39_word_new_br_11: gain<br>raw<br>train<br>distance<br>learn<br>ice<br>game<br>pluck<br>twist<br>relax<br>core
 bip_39_word_new_br_12: gain<br>raw<br>train<br>distance<br>learn<br>ice<br>game<br>pluck<br>twist<br>relax<br>core<br>auction
 bip_39_word_new_br_2: gain<br>raw
 bip_39_word_new_br_3: gain<br>raw<br>train
-bip_39_word_new_br_4: gain<br>raw<br>train<br>distance
-bip_39_word_new_br_5: gain<br>raw<br>train<br>distance<br>learn
-bip_39_word_new_br_6: gain<br>raw<br>train<br>distance<br>learn<br>ice
-bip_39_word_new_br_7: gain<br>raw<br>train<br>distance<br>learn<br>ice<br>game
-bip_39_word_new_br_8: gain<br>raw<br>train<br>distance<br>learn<br>ice<br>game<br>pluck
-bip_39_word_new_br_9: gain<br>raw<br>train<br>distance<br>learn<br>ice<br>game<br>pluck<br>twist
-bip_39_word_new_line_1: gain
-bip_39_word_new_line_10: 'gain
-
-  raw
-
-  train
-
-  distance
-
-  learn
-
-  ice
-
-  game
-
-  pluck
-
-  twist
-
-  relax'
-bip_39_word_new_line_11: 'gain
-
-  raw
-
-  train
-
-  distance
-
-  learn
-
-  ice
-
-  game
-
-  pluck
-
-  twist
-
-  relax
-
-  core'
 bip_39_word_new_line_12: 'gain
 
   raw
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'gain
   raw
 
   train'
-bip_39_word_new_line_4: 'gain
-
-  raw
-
-  train
-
-  distance'
-bip_39_word_new_line_5: 'gain
-
-  raw
-
-  train
-
-  distance
-
-  learn'
-bip_39_word_new_line_6: 'gain
-
-  raw
-
-  train
-
-  distance
-
-  learn
-
-  ice'
-bip_39_word_new_line_7: 'gain
-
-  raw
-
-  train
-
-  distance
-
-  learn
-
-  ice
-
-  game'
-bip_39_word_new_line_8: 'gain
-
-  raw
-
-  train
-
-  distance
-
-  learn
-
-  ice
-
-  game
-
-  pluck'
-bip_39_word_new_line_9: 'gain
-
-  raw
-
-  train
-
-  distance
-
-  learn
-
-  ice
-
-  game
-
-  pluck
-
-  twist'
-bip_39_word_no_space_1: gain
-bip_39_word_no_space_10: gainrawtraindistancelearnicegameplucktwistrelax
-bip_39_word_no_space_11: gainrawtraindistancelearnicegameplucktwistrelaxcore
 bip_39_word_no_space_12: gainrawtraindistancelearnicegameplucktwistrelaxcoreauction
 bip_39_word_no_space_2: gainraw
 bip_39_word_no_space_3: gainrawtrain
-bip_39_word_no_space_4: gainrawtraindistance
-bip_39_word_no_space_5: gainrawtraindistancelearn
-bip_39_word_no_space_6: gainrawtraindistancelearnice
-bip_39_word_no_space_7: gainrawtraindistancelearnicegame
-bip_39_word_no_space_8: gainrawtraindistancelearnicegamepluck
-bip_39_word_no_space_9: gainrawtraindistancelearnicegameplucktwist
-bip_39_word_space_0:
-- gain
-- raw
-- train
-- distance
-- learn
-- ice
-- game
-- pluck
-- twist
-- relax
-- core
-- auction
-bip_39_word_space_1: gain
-bip_39_word_space_10: gain raw train distance learn ice game pluck twist relax
-bip_39_word_space_11: gain raw train distance learn ice game pluck twist relax core
 bip_39_word_space_12: gain raw train distance learn ice game pluck twist relax core
   auction
 bip_39_word_space_2: gain raw
 bip_39_word_space_3: gain raw train
-bip_39_word_space_4: gain raw train distance
-bip_39_word_space_5: gain raw train distance learn
-bip_39_word_space_6: gain raw train distance learn ice
-bip_39_word_space_7: gain raw train distance learn ice game
-bip_39_word_space_8: gain raw train distance learn ice game pluck
-bip_39_word_space_9: gain raw train distance learn ice game pluck twist
-bip_39_word_underscore_1: gain
-bip_39_word_underscore_10: gain_raw_train_distance_learn_ice_game_pluck_twist_relax
-bip_39_word_underscore_11: gain_raw_train_distance_learn_ice_game_pluck_twist_relax_core
 bip_39_word_underscore_12: gain_raw_train_distance_learn_ice_game_pluck_twist_relax_core_auction
 bip_39_word_underscore_2: gain_raw
 bip_39_word_underscore_3: gain_raw_train
-bip_39_word_underscore_4: gain_raw_train_distance
-bip_39_word_underscore_5: gain_raw_train_distance_learn
-bip_39_word_underscore_6: gain_raw_train_distance_learn_ice
-bip_39_word_underscore_7: gain_raw_train_distance_learn_ice_game
-bip_39_word_underscore_8: gain_raw_train_distance_learn_ice_game_pluck
-bip_39_word_underscore_9: gain_raw_train_distance_learn_ice_game_pluck_twist
 classification: category
 classification_capital: Category
 classification_first_letter: c

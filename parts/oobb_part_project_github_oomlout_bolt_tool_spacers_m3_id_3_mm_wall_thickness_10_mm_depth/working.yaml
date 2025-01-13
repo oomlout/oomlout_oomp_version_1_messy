@@ -1,68 +1,9 @@
-bip_39_word_dash_1: illness
-bip_39_word_dash_10: illness-again-mechanic-coconut-armor-current-attack-rubber-burden-engine
-bip_39_word_dash_11: illness-again-mechanic-coconut-armor-current-attack-rubber-burden-engine-spare
 bip_39_word_dash_12: illness-again-mechanic-coconut-armor-current-attack-rubber-burden-engine-spare-ability
 bip_39_word_dash_2: illness-again
 bip_39_word_dash_3: illness-again-mechanic
-bip_39_word_dash_4: illness-again-mechanic-coconut
-bip_39_word_dash_5: illness-again-mechanic-coconut-armor
-bip_39_word_dash_6: illness-again-mechanic-coconut-armor-current
-bip_39_word_dash_7: illness-again-mechanic-coconut-armor-current-attack
-bip_39_word_dash_8: illness-again-mechanic-coconut-armor-current-attack-rubber
-bip_39_word_dash_9: illness-again-mechanic-coconut-armor-current-attack-rubber-burden
-bip_39_word_new_br_1: illness
-bip_39_word_new_br_10: illness<br>again<br>mechanic<br>coconut<br>armor<br>current<br>attack<br>rubber<br>burden<br>engine
-bip_39_word_new_br_11: illness<br>again<br>mechanic<br>coconut<br>armor<br>current<br>attack<br>rubber<br>burden<br>engine<br>spare
 bip_39_word_new_br_12: illness<br>again<br>mechanic<br>coconut<br>armor<br>current<br>attack<br>rubber<br>burden<br>engine<br>spare<br>ability
 bip_39_word_new_br_2: illness<br>again
 bip_39_word_new_br_3: illness<br>again<br>mechanic
-bip_39_word_new_br_4: illness<br>again<br>mechanic<br>coconut
-bip_39_word_new_br_5: illness<br>again<br>mechanic<br>coconut<br>armor
-bip_39_word_new_br_6: illness<br>again<br>mechanic<br>coconut<br>armor<br>current
-bip_39_word_new_br_7: illness<br>again<br>mechanic<br>coconut<br>armor<br>current<br>attack
-bip_39_word_new_br_8: illness<br>again<br>mechanic<br>coconut<br>armor<br>current<br>attack<br>rubber
-bip_39_word_new_br_9: illness<br>again<br>mechanic<br>coconut<br>armor<br>current<br>attack<br>rubber<br>burden
-bip_39_word_new_line_1: illness
-bip_39_word_new_line_10: 'illness
-
-  again
-
-  mechanic
-
-  coconut
-
-  armor
-
-  current
-
-  attack
-
-  rubber
-
-  burden
-
-  engine'
-bip_39_word_new_line_11: 'illness
-
-  again
-
-  mechanic
-
-  coconut
-
-  armor
-
-  current
-
-  attack
-
-  rubber
-
-  burden
-
-  engine
-
-  spare'
 bip_39_word_new_line_12: 'illness
 
   again
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'illness
   again
 
   mechanic'
-bip_39_word_new_line_4: 'illness
-
-  again
-
-  mechanic
-
-  coconut'
-bip_39_word_new_line_5: 'illness
-
-  again
-
-  mechanic
-
-  coconut
-
-  armor'
-bip_39_word_new_line_6: 'illness
-
-  again
-
-  mechanic
-
-  coconut
-
-  armor
-
-  current'
-bip_39_word_new_line_7: 'illness
-
-  again
-
-  mechanic
-
-  coconut
-
-  armor
-
-  current
-
-  attack'
-bip_39_word_new_line_8: 'illness
-
-  again
-
-  mechanic
-
-  coconut
-
-  armor
-
-  current
-
-  attack
-
-  rubber'
-bip_39_word_new_line_9: 'illness
-
-  again
-
-  mechanic
-
-  coconut
-
-  armor
-
-  current
-
-  attack
-
-  rubber
-
-  burden'
-bip_39_word_no_space_1: illness
-bip_39_word_no_space_10: illnessagainmechaniccoconutarmorcurrentattackrubberburdenengine
-bip_39_word_no_space_11: illnessagainmechaniccoconutarmorcurrentattackrubberburdenenginespare
 bip_39_word_no_space_12: illnessagainmechaniccoconutarmorcurrentattackrubberburdenenginespareability
 bip_39_word_no_space_2: illnessagain
 bip_39_word_no_space_3: illnessagainmechanic
-bip_39_word_no_space_4: illnessagainmechaniccoconut
-bip_39_word_no_space_5: illnessagainmechaniccoconutarmor
-bip_39_word_no_space_6: illnessagainmechaniccoconutarmorcurrent
-bip_39_word_no_space_7: illnessagainmechaniccoconutarmorcurrentattack
-bip_39_word_no_space_8: illnessagainmechaniccoconutarmorcurrentattackrubber
-bip_39_word_no_space_9: illnessagainmechaniccoconutarmorcurrentattackrubberburden
-bip_39_word_space_0:
-- illness
-- again
-- mechanic
-- coconut
-- armor
-- current
-- attack
-- rubber
-- burden
-- engine
-- spare
-- ability
-bip_39_word_space_1: illness
-bip_39_word_space_10: illness again mechanic coconut armor current attack rubber burden
-  engine
-bip_39_word_space_11: illness again mechanic coconut armor current attack rubber burden
-  engine spare
 bip_39_word_space_12: illness again mechanic coconut armor current attack rubber burden
   engine spare ability
 bip_39_word_space_2: illness again
 bip_39_word_space_3: illness again mechanic
-bip_39_word_space_4: illness again mechanic coconut
-bip_39_word_space_5: illness again mechanic coconut armor
-bip_39_word_space_6: illness again mechanic coconut armor current
-bip_39_word_space_7: illness again mechanic coconut armor current attack
-bip_39_word_space_8: illness again mechanic coconut armor current attack rubber
-bip_39_word_space_9: illness again mechanic coconut armor current attack rubber burden
-bip_39_word_underscore_1: illness
-bip_39_word_underscore_10: illness_again_mechanic_coconut_armor_current_attack_rubber_burden_engine
-bip_39_word_underscore_11: illness_again_mechanic_coconut_armor_current_attack_rubber_burden_engine_spare
 bip_39_word_underscore_12: illness_again_mechanic_coconut_armor_current_attack_rubber_burden_engine_spare_ability
 bip_39_word_underscore_2: illness_again
 bip_39_word_underscore_3: illness_again_mechanic
-bip_39_word_underscore_4: illness_again_mechanic_coconut
-bip_39_word_underscore_5: illness_again_mechanic_coconut_armor
-bip_39_word_underscore_6: illness_again_mechanic_coconut_armor_current
-bip_39_word_underscore_7: illness_again_mechanic_coconut_armor_current_attack
-bip_39_word_underscore_8: illness_again_mechanic_coconut_armor_current_attack_rubber
-bip_39_word_underscore_9: illness_again_mechanic_coconut_armor_current_attack_rubber_burden
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

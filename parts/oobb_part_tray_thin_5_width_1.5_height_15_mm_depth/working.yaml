@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gauge
-bip_39_word_dash_10: gauge-mistake-shrug-across-neutral-lazy-glory-before-step-curtain
-bip_39_word_dash_11: gauge-mistake-shrug-across-neutral-lazy-glory-before-step-curtain-trouble
 bip_39_word_dash_12: gauge-mistake-shrug-across-neutral-lazy-glory-before-step-curtain-trouble-always
 bip_39_word_dash_2: gauge-mistake
 bip_39_word_dash_3: gauge-mistake-shrug
-bip_39_word_dash_4: gauge-mistake-shrug-across
-bip_39_word_dash_5: gauge-mistake-shrug-across-neutral
-bip_39_word_dash_6: gauge-mistake-shrug-across-neutral-lazy
-bip_39_word_dash_7: gauge-mistake-shrug-across-neutral-lazy-glory
-bip_39_word_dash_8: gauge-mistake-shrug-across-neutral-lazy-glory-before
-bip_39_word_dash_9: gauge-mistake-shrug-across-neutral-lazy-glory-before-step
-bip_39_word_new_br_1: gauge
-bip_39_word_new_br_10: gauge<br>mistake<br>shrug<br>across<br>neutral<br>lazy<br>glory<br>before<br>step<br>curtain
-bip_39_word_new_br_11: gauge<br>mistake<br>shrug<br>across<br>neutral<br>lazy<br>glory<br>before<br>step<br>curtain<br>trouble
 bip_39_word_new_br_12: gauge<br>mistake<br>shrug<br>across<br>neutral<br>lazy<br>glory<br>before<br>step<br>curtain<br>trouble<br>always
 bip_39_word_new_br_2: gauge<br>mistake
 bip_39_word_new_br_3: gauge<br>mistake<br>shrug
-bip_39_word_new_br_4: gauge<br>mistake<br>shrug<br>across
-bip_39_word_new_br_5: gauge<br>mistake<br>shrug<br>across<br>neutral
-bip_39_word_new_br_6: gauge<br>mistake<br>shrug<br>across<br>neutral<br>lazy
-bip_39_word_new_br_7: gauge<br>mistake<br>shrug<br>across<br>neutral<br>lazy<br>glory
-bip_39_word_new_br_8: gauge<br>mistake<br>shrug<br>across<br>neutral<br>lazy<br>glory<br>before
-bip_39_word_new_br_9: gauge<br>mistake<br>shrug<br>across<br>neutral<br>lazy<br>glory<br>before<br>step
-bip_39_word_new_line_1: gauge
-bip_39_word_new_line_10: 'gauge
-
-  mistake
-
-  shrug
-
-  across
-
-  neutral
-
-  lazy
-
-  glory
-
-  before
-
-  step
-
-  curtain'
-bip_39_word_new_line_11: 'gauge
-
-  mistake
-
-  shrug
-
-  across
-
-  neutral
-
-  lazy
-
-  glory
-
-  before
-
-  step
-
-  curtain
-
-  trouble'
 bip_39_word_new_line_12: 'gauge
 
   mistake
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gauge
   mistake
 
   shrug'
-bip_39_word_new_line_4: 'gauge
-
-  mistake
-
-  shrug
-
-  across'
-bip_39_word_new_line_5: 'gauge
-
-  mistake
-
-  shrug
-
-  across
-
-  neutral'
-bip_39_word_new_line_6: 'gauge
-
-  mistake
-
-  shrug
-
-  across
-
-  neutral
-
-  lazy'
-bip_39_word_new_line_7: 'gauge
-
-  mistake
-
-  shrug
-
-  across
-
-  neutral
-
-  lazy
-
-  glory'
-bip_39_word_new_line_8: 'gauge
-
-  mistake
-
-  shrug
-
-  across
-
-  neutral
-
-  lazy
-
-  glory
-
-  before'
-bip_39_word_new_line_9: 'gauge
-
-  mistake
-
-  shrug
-
-  across
-
-  neutral
-
-  lazy
-
-  glory
-
-  before
-
-  step'
-bip_39_word_no_space_1: gauge
-bip_39_word_no_space_10: gaugemistakeshrugacrossneutrallazyglorybeforestepcurtain
-bip_39_word_no_space_11: gaugemistakeshrugacrossneutrallazyglorybeforestepcurtaintrouble
 bip_39_word_no_space_12: gaugemistakeshrugacrossneutrallazyglorybeforestepcurtaintroublealways
 bip_39_word_no_space_2: gaugemistake
 bip_39_word_no_space_3: gaugemistakeshrug
-bip_39_word_no_space_4: gaugemistakeshrugacross
-bip_39_word_no_space_5: gaugemistakeshrugacrossneutral
-bip_39_word_no_space_6: gaugemistakeshrugacrossneutrallazy
-bip_39_word_no_space_7: gaugemistakeshrugacrossneutrallazyglory
-bip_39_word_no_space_8: gaugemistakeshrugacrossneutrallazyglorybefore
-bip_39_word_no_space_9: gaugemistakeshrugacrossneutrallazyglorybeforestep
-bip_39_word_space_0:
-- gauge
-- mistake
-- shrug
-- across
-- neutral
-- lazy
-- glory
-- before
-- step
-- curtain
-- trouble
-- always
-bip_39_word_space_1: gauge
-bip_39_word_space_10: gauge mistake shrug across neutral lazy glory before step curtain
-bip_39_word_space_11: gauge mistake shrug across neutral lazy glory before step curtain
-  trouble
 bip_39_word_space_12: gauge mistake shrug across neutral lazy glory before step curtain
   trouble always
 bip_39_word_space_2: gauge mistake
 bip_39_word_space_3: gauge mistake shrug
-bip_39_word_space_4: gauge mistake shrug across
-bip_39_word_space_5: gauge mistake shrug across neutral
-bip_39_word_space_6: gauge mistake shrug across neutral lazy
-bip_39_word_space_7: gauge mistake shrug across neutral lazy glory
-bip_39_word_space_8: gauge mistake shrug across neutral lazy glory before
-bip_39_word_space_9: gauge mistake shrug across neutral lazy glory before step
-bip_39_word_underscore_1: gauge
-bip_39_word_underscore_10: gauge_mistake_shrug_across_neutral_lazy_glory_before_step_curtain
-bip_39_word_underscore_11: gauge_mistake_shrug_across_neutral_lazy_glory_before_step_curtain_trouble
 bip_39_word_underscore_12: gauge_mistake_shrug_across_neutral_lazy_glory_before_step_curtain_trouble_always
 bip_39_word_underscore_2: gauge_mistake
 bip_39_word_underscore_3: gauge_mistake_shrug
-bip_39_word_underscore_4: gauge_mistake_shrug_across
-bip_39_word_underscore_5: gauge_mistake_shrug_across_neutral
-bip_39_word_underscore_6: gauge_mistake_shrug_across_neutral_lazy
-bip_39_word_underscore_7: gauge_mistake_shrug_across_neutral_lazy_glory
-bip_39_word_underscore_8: gauge_mistake_shrug_across_neutral_lazy_glory_before
-bip_39_word_underscore_9: gauge_mistake_shrug_across_neutral_lazy_glory_before_step
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

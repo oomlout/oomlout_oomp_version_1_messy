@@ -1,68 +1,9 @@
-bip_39_word_dash_1: any
-bip_39_word_dash_10: any-glare-boat-flavor-upgrade-purpose-turn-couple-breeze-arch
-bip_39_word_dash_11: any-glare-boat-flavor-upgrade-purpose-turn-couple-breeze-arch-grit
 bip_39_word_dash_12: any-glare-boat-flavor-upgrade-purpose-turn-couple-breeze-arch-grit-again
 bip_39_word_dash_2: any-glare
 bip_39_word_dash_3: any-glare-boat
-bip_39_word_dash_4: any-glare-boat-flavor
-bip_39_word_dash_5: any-glare-boat-flavor-upgrade
-bip_39_word_dash_6: any-glare-boat-flavor-upgrade-purpose
-bip_39_word_dash_7: any-glare-boat-flavor-upgrade-purpose-turn
-bip_39_word_dash_8: any-glare-boat-flavor-upgrade-purpose-turn-couple
-bip_39_word_dash_9: any-glare-boat-flavor-upgrade-purpose-turn-couple-breeze
-bip_39_word_new_br_1: any
-bip_39_word_new_br_10: any<br>glare<br>boat<br>flavor<br>upgrade<br>purpose<br>turn<br>couple<br>breeze<br>arch
-bip_39_word_new_br_11: any<br>glare<br>boat<br>flavor<br>upgrade<br>purpose<br>turn<br>couple<br>breeze<br>arch<br>grit
 bip_39_word_new_br_12: any<br>glare<br>boat<br>flavor<br>upgrade<br>purpose<br>turn<br>couple<br>breeze<br>arch<br>grit<br>again
 bip_39_word_new_br_2: any<br>glare
 bip_39_word_new_br_3: any<br>glare<br>boat
-bip_39_word_new_br_4: any<br>glare<br>boat<br>flavor
-bip_39_word_new_br_5: any<br>glare<br>boat<br>flavor<br>upgrade
-bip_39_word_new_br_6: any<br>glare<br>boat<br>flavor<br>upgrade<br>purpose
-bip_39_word_new_br_7: any<br>glare<br>boat<br>flavor<br>upgrade<br>purpose<br>turn
-bip_39_word_new_br_8: any<br>glare<br>boat<br>flavor<br>upgrade<br>purpose<br>turn<br>couple
-bip_39_word_new_br_9: any<br>glare<br>boat<br>flavor<br>upgrade<br>purpose<br>turn<br>couple<br>breeze
-bip_39_word_new_line_1: any
-bip_39_word_new_line_10: 'any
-
-  glare
-
-  boat
-
-  flavor
-
-  upgrade
-
-  purpose
-
-  turn
-
-  couple
-
-  breeze
-
-  arch'
-bip_39_word_new_line_11: 'any
-
-  glare
-
-  boat
-
-  flavor
-
-  upgrade
-
-  purpose
-
-  turn
-
-  couple
-
-  breeze
-
-  arch
-
-  grit'
 bip_39_word_new_line_12: 'any
 
   glare
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'any
   glare
 
   boat'
-bip_39_word_new_line_4: 'any
-
-  glare
-
-  boat
-
-  flavor'
-bip_39_word_new_line_5: 'any
-
-  glare
-
-  boat
-
-  flavor
-
-  upgrade'
-bip_39_word_new_line_6: 'any
-
-  glare
-
-  boat
-
-  flavor
-
-  upgrade
-
-  purpose'
-bip_39_word_new_line_7: 'any
-
-  glare
-
-  boat
-
-  flavor
-
-  upgrade
-
-  purpose
-
-  turn'
-bip_39_word_new_line_8: 'any
-
-  glare
-
-  boat
-
-  flavor
-
-  upgrade
-
-  purpose
-
-  turn
-
-  couple'
-bip_39_word_new_line_9: 'any
-
-  glare
-
-  boat
-
-  flavor
-
-  upgrade
-
-  purpose
-
-  turn
-
-  couple
-
-  breeze'
-bip_39_word_no_space_1: any
-bip_39_word_no_space_10: anyglareboatflavorupgradepurposeturncouplebreezearch
-bip_39_word_no_space_11: anyglareboatflavorupgradepurposeturncouplebreezearchgrit
 bip_39_word_no_space_12: anyglareboatflavorupgradepurposeturncouplebreezearchgritagain
 bip_39_word_no_space_2: anyglare
 bip_39_word_no_space_3: anyglareboat
-bip_39_word_no_space_4: anyglareboatflavor
-bip_39_word_no_space_5: anyglareboatflavorupgrade
-bip_39_word_no_space_6: anyglareboatflavorupgradepurpose
-bip_39_word_no_space_7: anyglareboatflavorupgradepurposeturn
-bip_39_word_no_space_8: anyglareboatflavorupgradepurposeturncouple
-bip_39_word_no_space_9: anyglareboatflavorupgradepurposeturncouplebreeze
-bip_39_word_space_0:
-- any
-- glare
-- boat
-- flavor
-- upgrade
-- purpose
-- turn
-- couple
-- breeze
-- arch
-- grit
-- again
-bip_39_word_space_1: any
-bip_39_word_space_10: any glare boat flavor upgrade purpose turn couple breeze arch
-bip_39_word_space_11: any glare boat flavor upgrade purpose turn couple breeze arch
-  grit
 bip_39_word_space_12: any glare boat flavor upgrade purpose turn couple breeze arch
   grit again
 bip_39_word_space_2: any glare
 bip_39_word_space_3: any glare boat
-bip_39_word_space_4: any glare boat flavor
-bip_39_word_space_5: any glare boat flavor upgrade
-bip_39_word_space_6: any glare boat flavor upgrade purpose
-bip_39_word_space_7: any glare boat flavor upgrade purpose turn
-bip_39_word_space_8: any glare boat flavor upgrade purpose turn couple
-bip_39_word_space_9: any glare boat flavor upgrade purpose turn couple breeze
-bip_39_word_underscore_1: any
-bip_39_word_underscore_10: any_glare_boat_flavor_upgrade_purpose_turn_couple_breeze_arch
-bip_39_word_underscore_11: any_glare_boat_flavor_upgrade_purpose_turn_couple_breeze_arch_grit
 bip_39_word_underscore_12: any_glare_boat_flavor_upgrade_purpose_turn_couple_breeze_arch_grit_again
 bip_39_word_underscore_2: any_glare
 bip_39_word_underscore_3: any_glare_boat
-bip_39_word_underscore_4: any_glare_boat_flavor
-bip_39_word_underscore_5: any_glare_boat_flavor_upgrade
-bip_39_word_underscore_6: any_glare_boat_flavor_upgrade_purpose
-bip_39_word_underscore_7: any_glare_boat_flavor_upgrade_purpose_turn
-bip_39_word_underscore_8: any_glare_boat_flavor_upgrade_purpose_turn_couple
-bip_39_word_underscore_9: any_glare_boat_flavor_upgrade_purpose_turn_couple_breeze
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

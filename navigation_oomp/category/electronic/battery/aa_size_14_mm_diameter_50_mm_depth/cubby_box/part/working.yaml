@@ -1,68 +1,9 @@
-bip_39_word_dash_1: person
-bip_39_word_dash_10: person-other-digital-evidence-welcome-economy-amused-april-pull-trash
-bip_39_word_dash_11: person-other-digital-evidence-welcome-economy-amused-april-pull-trash-change
 bip_39_word_dash_12: person-other-digital-evidence-welcome-economy-amused-april-pull-trash-change-arctic
 bip_39_word_dash_2: person-other
 bip_39_word_dash_3: person-other-digital
-bip_39_word_dash_4: person-other-digital-evidence
-bip_39_word_dash_5: person-other-digital-evidence-welcome
-bip_39_word_dash_6: person-other-digital-evidence-welcome-economy
-bip_39_word_dash_7: person-other-digital-evidence-welcome-economy-amused
-bip_39_word_dash_8: person-other-digital-evidence-welcome-economy-amused-april
-bip_39_word_dash_9: person-other-digital-evidence-welcome-economy-amused-april-pull
-bip_39_word_new_br_1: person
-bip_39_word_new_br_10: person<br>other<br>digital<br>evidence<br>welcome<br>economy<br>amused<br>april<br>pull<br>trash
-bip_39_word_new_br_11: person<br>other<br>digital<br>evidence<br>welcome<br>economy<br>amused<br>april<br>pull<br>trash<br>change
 bip_39_word_new_br_12: person<br>other<br>digital<br>evidence<br>welcome<br>economy<br>amused<br>april<br>pull<br>trash<br>change<br>arctic
 bip_39_word_new_br_2: person<br>other
 bip_39_word_new_br_3: person<br>other<br>digital
-bip_39_word_new_br_4: person<br>other<br>digital<br>evidence
-bip_39_word_new_br_5: person<br>other<br>digital<br>evidence<br>welcome
-bip_39_word_new_br_6: person<br>other<br>digital<br>evidence<br>welcome<br>economy
-bip_39_word_new_br_7: person<br>other<br>digital<br>evidence<br>welcome<br>economy<br>amused
-bip_39_word_new_br_8: person<br>other<br>digital<br>evidence<br>welcome<br>economy<br>amused<br>april
-bip_39_word_new_br_9: person<br>other<br>digital<br>evidence<br>welcome<br>economy<br>amused<br>april<br>pull
-bip_39_word_new_line_1: person
-bip_39_word_new_line_10: 'person
-
-  other
-
-  digital
-
-  evidence
-
-  welcome
-
-  economy
-
-  amused
-
-  april
-
-  pull
-
-  trash'
-bip_39_word_new_line_11: 'person
-
-  other
-
-  digital
-
-  evidence
-
-  welcome
-
-  economy
-
-  amused
-
-  april
-
-  pull
-
-  trash
-
-  change'
 bip_39_word_new_line_12: 'person
 
   other
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'person
   other
 
   digital'
-bip_39_word_new_line_4: 'person
-
-  other
-
-  digital
-
-  evidence'
-bip_39_word_new_line_5: 'person
-
-  other
-
-  digital
-
-  evidence
-
-  welcome'
-bip_39_word_new_line_6: 'person
-
-  other
-
-  digital
-
-  evidence
-
-  welcome
-
-  economy'
-bip_39_word_new_line_7: 'person
-
-  other
-
-  digital
-
-  evidence
-
-  welcome
-
-  economy
-
-  amused'
-bip_39_word_new_line_8: 'person
-
-  other
-
-  digital
-
-  evidence
-
-  welcome
-
-  economy
-
-  amused
-
-  april'
-bip_39_word_new_line_9: 'person
-
-  other
-
-  digital
-
-  evidence
-
-  welcome
-
-  economy
-
-  amused
-
-  april
-
-  pull'
-bip_39_word_no_space_1: person
-bip_39_word_no_space_10: personotherdigitalevidencewelcomeeconomyamusedaprilpulltrash
-bip_39_word_no_space_11: personotherdigitalevidencewelcomeeconomyamusedaprilpulltrashchange
 bip_39_word_no_space_12: personotherdigitalevidencewelcomeeconomyamusedaprilpulltrashchangearctic
 bip_39_word_no_space_2: personother
 bip_39_word_no_space_3: personotherdigital
-bip_39_word_no_space_4: personotherdigitalevidence
-bip_39_word_no_space_5: personotherdigitalevidencewelcome
-bip_39_word_no_space_6: personotherdigitalevidencewelcomeeconomy
-bip_39_word_no_space_7: personotherdigitalevidencewelcomeeconomyamused
-bip_39_word_no_space_8: personotherdigitalevidencewelcomeeconomyamusedapril
-bip_39_word_no_space_9: personotherdigitalevidencewelcomeeconomyamusedaprilpull
-bip_39_word_space_0:
-- person
-- other
-- digital
-- evidence
-- welcome
-- economy
-- amused
-- april
-- pull
-- trash
-- change
-- arctic
-bip_39_word_space_1: person
-bip_39_word_space_10: person other digital evidence welcome economy amused april pull
-  trash
-bip_39_word_space_11: person other digital evidence welcome economy amused april pull
-  trash change
 bip_39_word_space_12: person other digital evidence welcome economy amused april pull
   trash change arctic
 bip_39_word_space_2: person other
 bip_39_word_space_3: person other digital
-bip_39_word_space_4: person other digital evidence
-bip_39_word_space_5: person other digital evidence welcome
-bip_39_word_space_6: person other digital evidence welcome economy
-bip_39_word_space_7: person other digital evidence welcome economy amused
-bip_39_word_space_8: person other digital evidence welcome economy amused april
-bip_39_word_space_9: person other digital evidence welcome economy amused april pull
-bip_39_word_underscore_1: person
-bip_39_word_underscore_10: person_other_digital_evidence_welcome_economy_amused_april_pull_trash
-bip_39_word_underscore_11: person_other_digital_evidence_welcome_economy_amused_april_pull_trash_change
 bip_39_word_underscore_12: person_other_digital_evidence_welcome_economy_amused_april_pull_trash_change_arctic
 bip_39_word_underscore_2: person_other
 bip_39_word_underscore_3: person_other_digital
-bip_39_word_underscore_4: person_other_digital_evidence
-bip_39_word_underscore_5: person_other_digital_evidence_welcome
-bip_39_word_underscore_6: person_other_digital_evidence_welcome_economy
-bip_39_word_underscore_7: person_other_digital_evidence_welcome_economy_amused
-bip_39_word_underscore_8: person_other_digital_evidence_welcome_economy_amused_april
-bip_39_word_underscore_9: person_other_digital_evidence_welcome_economy_amused_april_pull
 classification: category
 classification_capital: Category
 classification_first_letter: c

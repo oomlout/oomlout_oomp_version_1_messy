@@ -1,68 +1,9 @@
-bip_39_word_dash_1: liberty
-bip_39_word_dash_10: liberty-broom-enlist-arrest-robust-arch-oak-grid-message-punch
-bip_39_word_dash_11: liberty-broom-enlist-arrest-robust-arch-oak-grid-message-punch-piece
 bip_39_word_dash_12: liberty-broom-enlist-arrest-robust-arch-oak-grid-message-punch-piece-act
 bip_39_word_dash_2: liberty-broom
 bip_39_word_dash_3: liberty-broom-enlist
-bip_39_word_dash_4: liberty-broom-enlist-arrest
-bip_39_word_dash_5: liberty-broom-enlist-arrest-robust
-bip_39_word_dash_6: liberty-broom-enlist-arrest-robust-arch
-bip_39_word_dash_7: liberty-broom-enlist-arrest-robust-arch-oak
-bip_39_word_dash_8: liberty-broom-enlist-arrest-robust-arch-oak-grid
-bip_39_word_dash_9: liberty-broom-enlist-arrest-robust-arch-oak-grid-message
-bip_39_word_new_br_1: liberty
-bip_39_word_new_br_10: liberty<br>broom<br>enlist<br>arrest<br>robust<br>arch<br>oak<br>grid<br>message<br>punch
-bip_39_word_new_br_11: liberty<br>broom<br>enlist<br>arrest<br>robust<br>arch<br>oak<br>grid<br>message<br>punch<br>piece
 bip_39_word_new_br_12: liberty<br>broom<br>enlist<br>arrest<br>robust<br>arch<br>oak<br>grid<br>message<br>punch<br>piece<br>act
 bip_39_word_new_br_2: liberty<br>broom
 bip_39_word_new_br_3: liberty<br>broom<br>enlist
-bip_39_word_new_br_4: liberty<br>broom<br>enlist<br>arrest
-bip_39_word_new_br_5: liberty<br>broom<br>enlist<br>arrest<br>robust
-bip_39_word_new_br_6: liberty<br>broom<br>enlist<br>arrest<br>robust<br>arch
-bip_39_word_new_br_7: liberty<br>broom<br>enlist<br>arrest<br>robust<br>arch<br>oak
-bip_39_word_new_br_8: liberty<br>broom<br>enlist<br>arrest<br>robust<br>arch<br>oak<br>grid
-bip_39_word_new_br_9: liberty<br>broom<br>enlist<br>arrest<br>robust<br>arch<br>oak<br>grid<br>message
-bip_39_word_new_line_1: liberty
-bip_39_word_new_line_10: 'liberty
-
-  broom
-
-  enlist
-
-  arrest
-
-  robust
-
-  arch
-
-  oak
-
-  grid
-
-  message
-
-  punch'
-bip_39_word_new_line_11: 'liberty
-
-  broom
-
-  enlist
-
-  arrest
-
-  robust
-
-  arch
-
-  oak
-
-  grid
-
-  message
-
-  punch
-
-  piece'
 bip_39_word_new_line_12: 'liberty
 
   broom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'liberty
   broom
 
   enlist'
-bip_39_word_new_line_4: 'liberty
-
-  broom
-
-  enlist
-
-  arrest'
-bip_39_word_new_line_5: 'liberty
-
-  broom
-
-  enlist
-
-  arrest
-
-  robust'
-bip_39_word_new_line_6: 'liberty
-
-  broom
-
-  enlist
-
-  arrest
-
-  robust
-
-  arch'
-bip_39_word_new_line_7: 'liberty
-
-  broom
-
-  enlist
-
-  arrest
-
-  robust
-
-  arch
-
-  oak'
-bip_39_word_new_line_8: 'liberty
-
-  broom
-
-  enlist
-
-  arrest
-
-  robust
-
-  arch
-
-  oak
-
-  grid'
-bip_39_word_new_line_9: 'liberty
-
-  broom
-
-  enlist
-
-  arrest
-
-  robust
-
-  arch
-
-  oak
-
-  grid
-
-  message'
-bip_39_word_no_space_1: liberty
-bip_39_word_no_space_10: libertybroomenlistarrestrobustarchoakgridmessagepunch
-bip_39_word_no_space_11: libertybroomenlistarrestrobustarchoakgridmessagepunchpiece
 bip_39_word_no_space_12: libertybroomenlistarrestrobustarchoakgridmessagepunchpieceact
 bip_39_word_no_space_2: libertybroom
 bip_39_word_no_space_3: libertybroomenlist
-bip_39_word_no_space_4: libertybroomenlistarrest
-bip_39_word_no_space_5: libertybroomenlistarrestrobust
-bip_39_word_no_space_6: libertybroomenlistarrestrobustarch
-bip_39_word_no_space_7: libertybroomenlistarrestrobustarchoak
-bip_39_word_no_space_8: libertybroomenlistarrestrobustarchoakgrid
-bip_39_word_no_space_9: libertybroomenlistarrestrobustarchoakgridmessage
-bip_39_word_space_0:
-- liberty
-- broom
-- enlist
-- arrest
-- robust
-- arch
-- oak
-- grid
-- message
-- punch
-- piece
-- act
-bip_39_word_space_1: liberty
-bip_39_word_space_10: liberty broom enlist arrest robust arch oak grid message punch
-bip_39_word_space_11: liberty broom enlist arrest robust arch oak grid message punch
-  piece
 bip_39_word_space_12: liberty broom enlist arrest robust arch oak grid message punch
   piece act
 bip_39_word_space_2: liberty broom
 bip_39_word_space_3: liberty broom enlist
-bip_39_word_space_4: liberty broom enlist arrest
-bip_39_word_space_5: liberty broom enlist arrest robust
-bip_39_word_space_6: liberty broom enlist arrest robust arch
-bip_39_word_space_7: liberty broom enlist arrest robust arch oak
-bip_39_word_space_8: liberty broom enlist arrest robust arch oak grid
-bip_39_word_space_9: liberty broom enlist arrest robust arch oak grid message
-bip_39_word_underscore_1: liberty
-bip_39_word_underscore_10: liberty_broom_enlist_arrest_robust_arch_oak_grid_message_punch
-bip_39_word_underscore_11: liberty_broom_enlist_arrest_robust_arch_oak_grid_message_punch_piece
 bip_39_word_underscore_12: liberty_broom_enlist_arrest_robust_arch_oak_grid_message_punch_piece_act
 bip_39_word_underscore_2: liberty_broom
 bip_39_word_underscore_3: liberty_broom_enlist
-bip_39_word_underscore_4: liberty_broom_enlist_arrest
-bip_39_word_underscore_5: liberty_broom_enlist_arrest_robust
-bip_39_word_underscore_6: liberty_broom_enlist_arrest_robust_arch
-bip_39_word_underscore_7: liberty_broom_enlist_arrest_robust_arch_oak
-bip_39_word_underscore_8: liberty_broom_enlist_arrest_robust_arch_oak_grid
-bip_39_word_underscore_9: liberty_broom_enlist_arrest_robust_arch_oak_grid_message
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

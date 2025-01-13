@@ -1,68 +1,9 @@
-bip_39_word_dash_1: buffalo
-bip_39_word_dash_10: buffalo-myself-charge-nature-scorpion-sign-lonely-shift-outer-corn
-bip_39_word_dash_11: buffalo-myself-charge-nature-scorpion-sign-lonely-shift-outer-corn-leg
 bip_39_word_dash_12: buffalo-myself-charge-nature-scorpion-sign-lonely-shift-outer-corn-leg-another
 bip_39_word_dash_2: buffalo-myself
 bip_39_word_dash_3: buffalo-myself-charge
-bip_39_word_dash_4: buffalo-myself-charge-nature
-bip_39_word_dash_5: buffalo-myself-charge-nature-scorpion
-bip_39_word_dash_6: buffalo-myself-charge-nature-scorpion-sign
-bip_39_word_dash_7: buffalo-myself-charge-nature-scorpion-sign-lonely
-bip_39_word_dash_8: buffalo-myself-charge-nature-scorpion-sign-lonely-shift
-bip_39_word_dash_9: buffalo-myself-charge-nature-scorpion-sign-lonely-shift-outer
-bip_39_word_new_br_1: buffalo
-bip_39_word_new_br_10: buffalo<br>myself<br>charge<br>nature<br>scorpion<br>sign<br>lonely<br>shift<br>outer<br>corn
-bip_39_word_new_br_11: buffalo<br>myself<br>charge<br>nature<br>scorpion<br>sign<br>lonely<br>shift<br>outer<br>corn<br>leg
 bip_39_word_new_br_12: buffalo<br>myself<br>charge<br>nature<br>scorpion<br>sign<br>lonely<br>shift<br>outer<br>corn<br>leg<br>another
 bip_39_word_new_br_2: buffalo<br>myself
 bip_39_word_new_br_3: buffalo<br>myself<br>charge
-bip_39_word_new_br_4: buffalo<br>myself<br>charge<br>nature
-bip_39_word_new_br_5: buffalo<br>myself<br>charge<br>nature<br>scorpion
-bip_39_word_new_br_6: buffalo<br>myself<br>charge<br>nature<br>scorpion<br>sign
-bip_39_word_new_br_7: buffalo<br>myself<br>charge<br>nature<br>scorpion<br>sign<br>lonely
-bip_39_word_new_br_8: buffalo<br>myself<br>charge<br>nature<br>scorpion<br>sign<br>lonely<br>shift
-bip_39_word_new_br_9: buffalo<br>myself<br>charge<br>nature<br>scorpion<br>sign<br>lonely<br>shift<br>outer
-bip_39_word_new_line_1: buffalo
-bip_39_word_new_line_10: 'buffalo
-
-  myself
-
-  charge
-
-  nature
-
-  scorpion
-
-  sign
-
-  lonely
-
-  shift
-
-  outer
-
-  corn'
-bip_39_word_new_line_11: 'buffalo
-
-  myself
-
-  charge
-
-  nature
-
-  scorpion
-
-  sign
-
-  lonely
-
-  shift
-
-  outer
-
-  corn
-
-  leg'
 bip_39_word_new_line_12: 'buffalo
 
   myself
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'buffalo
   myself
 
   charge'
-bip_39_word_new_line_4: 'buffalo
-
-  myself
-
-  charge
-
-  nature'
-bip_39_word_new_line_5: 'buffalo
-
-  myself
-
-  charge
-
-  nature
-
-  scorpion'
-bip_39_word_new_line_6: 'buffalo
-
-  myself
-
-  charge
-
-  nature
-
-  scorpion
-
-  sign'
-bip_39_word_new_line_7: 'buffalo
-
-  myself
-
-  charge
-
-  nature
-
-  scorpion
-
-  sign
-
-  lonely'
-bip_39_word_new_line_8: 'buffalo
-
-  myself
-
-  charge
-
-  nature
-
-  scorpion
-
-  sign
-
-  lonely
-
-  shift'
-bip_39_word_new_line_9: 'buffalo
-
-  myself
-
-  charge
-
-  nature
-
-  scorpion
-
-  sign
-
-  lonely
-
-  shift
-
-  outer'
-bip_39_word_no_space_1: buffalo
-bip_39_word_no_space_10: buffalomyselfchargenaturescorpionsignlonelyshiftoutercorn
-bip_39_word_no_space_11: buffalomyselfchargenaturescorpionsignlonelyshiftoutercornleg
 bip_39_word_no_space_12: buffalomyselfchargenaturescorpionsignlonelyshiftoutercornleganother
 bip_39_word_no_space_2: buffalomyself
 bip_39_word_no_space_3: buffalomyselfcharge
-bip_39_word_no_space_4: buffalomyselfchargenature
-bip_39_word_no_space_5: buffalomyselfchargenaturescorpion
-bip_39_word_no_space_6: buffalomyselfchargenaturescorpionsign
-bip_39_word_no_space_7: buffalomyselfchargenaturescorpionsignlonely
-bip_39_word_no_space_8: buffalomyselfchargenaturescorpionsignlonelyshift
-bip_39_word_no_space_9: buffalomyselfchargenaturescorpionsignlonelyshiftouter
-bip_39_word_space_0:
-- buffalo
-- myself
-- charge
-- nature
-- scorpion
-- sign
-- lonely
-- shift
-- outer
-- corn
-- leg
-- another
-bip_39_word_space_1: buffalo
-bip_39_word_space_10: buffalo myself charge nature scorpion sign lonely shift outer
-  corn
-bip_39_word_space_11: buffalo myself charge nature scorpion sign lonely shift outer
-  corn leg
 bip_39_word_space_12: buffalo myself charge nature scorpion sign lonely shift outer
   corn leg another
 bip_39_word_space_2: buffalo myself
 bip_39_word_space_3: buffalo myself charge
-bip_39_word_space_4: buffalo myself charge nature
-bip_39_word_space_5: buffalo myself charge nature scorpion
-bip_39_word_space_6: buffalo myself charge nature scorpion sign
-bip_39_word_space_7: buffalo myself charge nature scorpion sign lonely
-bip_39_word_space_8: buffalo myself charge nature scorpion sign lonely shift
-bip_39_word_space_9: buffalo myself charge nature scorpion sign lonely shift outer
-bip_39_word_underscore_1: buffalo
-bip_39_word_underscore_10: buffalo_myself_charge_nature_scorpion_sign_lonely_shift_outer_corn
-bip_39_word_underscore_11: buffalo_myself_charge_nature_scorpion_sign_lonely_shift_outer_corn_leg
 bip_39_word_underscore_12: buffalo_myself_charge_nature_scorpion_sign_lonely_shift_outer_corn_leg_another
 bip_39_word_underscore_2: buffalo_myself
 bip_39_word_underscore_3: buffalo_myself_charge
-bip_39_word_underscore_4: buffalo_myself_charge_nature
-bip_39_word_underscore_5: buffalo_myself_charge_nature_scorpion
-bip_39_word_underscore_6: buffalo_myself_charge_nature_scorpion_sign
-bip_39_word_underscore_7: buffalo_myself_charge_nature_scorpion_sign_lonely
-bip_39_word_underscore_8: buffalo_myself_charge_nature_scorpion_sign_lonely_shift
-bip_39_word_underscore_9: buffalo_myself_charge_nature_scorpion_sign_lonely_shift_outer
 classification: remote_control
 classification_capital: Remote Control
 classification_first_letter: r

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: state
-bip_39_word_dash_10: state-talent-carry-reform-panda-sadness-furnace-room-snack-hurt
-bip_39_word_dash_11: state-talent-carry-reform-panda-sadness-furnace-room-snack-hurt-resemble
 bip_39_word_dash_12: state-talent-carry-reform-panda-sadness-furnace-room-snack-hurt-resemble-attend
 bip_39_word_dash_2: state-talent
 bip_39_word_dash_3: state-talent-carry
-bip_39_word_dash_4: state-talent-carry-reform
-bip_39_word_dash_5: state-talent-carry-reform-panda
-bip_39_word_dash_6: state-talent-carry-reform-panda-sadness
-bip_39_word_dash_7: state-talent-carry-reform-panda-sadness-furnace
-bip_39_word_dash_8: state-talent-carry-reform-panda-sadness-furnace-room
-bip_39_word_dash_9: state-talent-carry-reform-panda-sadness-furnace-room-snack
-bip_39_word_new_br_1: state
-bip_39_word_new_br_10: state<br>talent<br>carry<br>reform<br>panda<br>sadness<br>furnace<br>room<br>snack<br>hurt
-bip_39_word_new_br_11: state<br>talent<br>carry<br>reform<br>panda<br>sadness<br>furnace<br>room<br>snack<br>hurt<br>resemble
 bip_39_word_new_br_12: state<br>talent<br>carry<br>reform<br>panda<br>sadness<br>furnace<br>room<br>snack<br>hurt<br>resemble<br>attend
 bip_39_word_new_br_2: state<br>talent
 bip_39_word_new_br_3: state<br>talent<br>carry
-bip_39_word_new_br_4: state<br>talent<br>carry<br>reform
-bip_39_word_new_br_5: state<br>talent<br>carry<br>reform<br>panda
-bip_39_word_new_br_6: state<br>talent<br>carry<br>reform<br>panda<br>sadness
-bip_39_word_new_br_7: state<br>talent<br>carry<br>reform<br>panda<br>sadness<br>furnace
-bip_39_word_new_br_8: state<br>talent<br>carry<br>reform<br>panda<br>sadness<br>furnace<br>room
-bip_39_word_new_br_9: state<br>talent<br>carry<br>reform<br>panda<br>sadness<br>furnace<br>room<br>snack
-bip_39_word_new_line_1: state
-bip_39_word_new_line_10: 'state
-
-  talent
-
-  carry
-
-  reform
-
-  panda
-
-  sadness
-
-  furnace
-
-  room
-
-  snack
-
-  hurt'
-bip_39_word_new_line_11: 'state
-
-  talent
-
-  carry
-
-  reform
-
-  panda
-
-  sadness
-
-  furnace
-
-  room
-
-  snack
-
-  hurt
-
-  resemble'
 bip_39_word_new_line_12: 'state
 
   talent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'state
   talent
 
   carry'
-bip_39_word_new_line_4: 'state
-
-  talent
-
-  carry
-
-  reform'
-bip_39_word_new_line_5: 'state
-
-  talent
-
-  carry
-
-  reform
-
-  panda'
-bip_39_word_new_line_6: 'state
-
-  talent
-
-  carry
-
-  reform
-
-  panda
-
-  sadness'
-bip_39_word_new_line_7: 'state
-
-  talent
-
-  carry
-
-  reform
-
-  panda
-
-  sadness
-
-  furnace'
-bip_39_word_new_line_8: 'state
-
-  talent
-
-  carry
-
-  reform
-
-  panda
-
-  sadness
-
-  furnace
-
-  room'
-bip_39_word_new_line_9: 'state
-
-  talent
-
-  carry
-
-  reform
-
-  panda
-
-  sadness
-
-  furnace
-
-  room
-
-  snack'
-bip_39_word_no_space_1: state
-bip_39_word_no_space_10: statetalentcarryreformpandasadnessfurnaceroomsnackhurt
-bip_39_word_no_space_11: statetalentcarryreformpandasadnessfurnaceroomsnackhurtresemble
 bip_39_word_no_space_12: statetalentcarryreformpandasadnessfurnaceroomsnackhurtresembleattend
 bip_39_word_no_space_2: statetalent
 bip_39_word_no_space_3: statetalentcarry
-bip_39_word_no_space_4: statetalentcarryreform
-bip_39_word_no_space_5: statetalentcarryreformpanda
-bip_39_word_no_space_6: statetalentcarryreformpandasadness
-bip_39_word_no_space_7: statetalentcarryreformpandasadnessfurnace
-bip_39_word_no_space_8: statetalentcarryreformpandasadnessfurnaceroom
-bip_39_word_no_space_9: statetalentcarryreformpandasadnessfurnaceroomsnack
-bip_39_word_space_0:
-- state
-- talent
-- carry
-- reform
-- panda
-- sadness
-- furnace
-- room
-- snack
-- hurt
-- resemble
-- attend
-bip_39_word_space_1: state
-bip_39_word_space_10: state talent carry reform panda sadness furnace room snack hurt
-bip_39_word_space_11: state talent carry reform panda sadness furnace room snack hurt
-  resemble
 bip_39_word_space_12: state talent carry reform panda sadness furnace room snack hurt
   resemble attend
 bip_39_word_space_2: state talent
 bip_39_word_space_3: state talent carry
-bip_39_word_space_4: state talent carry reform
-bip_39_word_space_5: state talent carry reform panda
-bip_39_word_space_6: state talent carry reform panda sadness
-bip_39_word_space_7: state talent carry reform panda sadness furnace
-bip_39_word_space_8: state talent carry reform panda sadness furnace room
-bip_39_word_space_9: state talent carry reform panda sadness furnace room snack
-bip_39_word_underscore_1: state
-bip_39_word_underscore_10: state_talent_carry_reform_panda_sadness_furnace_room_snack_hurt
-bip_39_word_underscore_11: state_talent_carry_reform_panda_sadness_furnace_room_snack_hurt_resemble
 bip_39_word_underscore_12: state_talent_carry_reform_panda_sadness_furnace_room_snack_hurt_resemble_attend
 bip_39_word_underscore_2: state_talent
 bip_39_word_underscore_3: state_talent_carry
-bip_39_word_underscore_4: state_talent_carry_reform
-bip_39_word_underscore_5: state_talent_carry_reform_panda
-bip_39_word_underscore_6: state_talent_carry_reform_panda_sadness
-bip_39_word_underscore_7: state_talent_carry_reform_panda_sadness_furnace
-bip_39_word_underscore_8: state_talent_carry_reform_panda_sadness_furnace_room
-bip_39_word_underscore_9: state_talent_carry_reform_panda_sadness_furnace_room_snack
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

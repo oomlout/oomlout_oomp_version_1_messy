@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hamster
-bip_39_word_dash_10: hamster-clerk-capable-scrap-orient-course-success-innocent-diesel-earth
-bip_39_word_dash_11: hamster-clerk-capable-scrap-orient-course-success-innocent-diesel-earth-employ
 bip_39_word_dash_12: hamster-clerk-capable-scrap-orient-course-success-innocent-diesel-earth-employ-anchor
 bip_39_word_dash_2: hamster-clerk
 bip_39_word_dash_3: hamster-clerk-capable
-bip_39_word_dash_4: hamster-clerk-capable-scrap
-bip_39_word_dash_5: hamster-clerk-capable-scrap-orient
-bip_39_word_dash_6: hamster-clerk-capable-scrap-orient-course
-bip_39_word_dash_7: hamster-clerk-capable-scrap-orient-course-success
-bip_39_word_dash_8: hamster-clerk-capable-scrap-orient-course-success-innocent
-bip_39_word_dash_9: hamster-clerk-capable-scrap-orient-course-success-innocent-diesel
-bip_39_word_new_br_1: hamster
-bip_39_word_new_br_10: hamster<br>clerk<br>capable<br>scrap<br>orient<br>course<br>success<br>innocent<br>diesel<br>earth
-bip_39_word_new_br_11: hamster<br>clerk<br>capable<br>scrap<br>orient<br>course<br>success<br>innocent<br>diesel<br>earth<br>employ
 bip_39_word_new_br_12: hamster<br>clerk<br>capable<br>scrap<br>orient<br>course<br>success<br>innocent<br>diesel<br>earth<br>employ<br>anchor
 bip_39_word_new_br_2: hamster<br>clerk
 bip_39_word_new_br_3: hamster<br>clerk<br>capable
-bip_39_word_new_br_4: hamster<br>clerk<br>capable<br>scrap
-bip_39_word_new_br_5: hamster<br>clerk<br>capable<br>scrap<br>orient
-bip_39_word_new_br_6: hamster<br>clerk<br>capable<br>scrap<br>orient<br>course
-bip_39_word_new_br_7: hamster<br>clerk<br>capable<br>scrap<br>orient<br>course<br>success
-bip_39_word_new_br_8: hamster<br>clerk<br>capable<br>scrap<br>orient<br>course<br>success<br>innocent
-bip_39_word_new_br_9: hamster<br>clerk<br>capable<br>scrap<br>orient<br>course<br>success<br>innocent<br>diesel
-bip_39_word_new_line_1: hamster
-bip_39_word_new_line_10: 'hamster
-
-  clerk
-
-  capable
-
-  scrap
-
-  orient
-
-  course
-
-  success
-
-  innocent
-
-  diesel
-
-  earth'
-bip_39_word_new_line_11: 'hamster
-
-  clerk
-
-  capable
-
-  scrap
-
-  orient
-
-  course
-
-  success
-
-  innocent
-
-  diesel
-
-  earth
-
-  employ'
 bip_39_word_new_line_12: 'hamster
 
   clerk
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hamster
   clerk
 
   capable'
-bip_39_word_new_line_4: 'hamster
-
-  clerk
-
-  capable
-
-  scrap'
-bip_39_word_new_line_5: 'hamster
-
-  clerk
-
-  capable
-
-  scrap
-
-  orient'
-bip_39_word_new_line_6: 'hamster
-
-  clerk
-
-  capable
-
-  scrap
-
-  orient
-
-  course'
-bip_39_word_new_line_7: 'hamster
-
-  clerk
-
-  capable
-
-  scrap
-
-  orient
-
-  course
-
-  success'
-bip_39_word_new_line_8: 'hamster
-
-  clerk
-
-  capable
-
-  scrap
-
-  orient
-
-  course
-
-  success
-
-  innocent'
-bip_39_word_new_line_9: 'hamster
-
-  clerk
-
-  capable
-
-  scrap
-
-  orient
-
-  course
-
-  success
-
-  innocent
-
-  diesel'
-bip_39_word_no_space_1: hamster
-bip_39_word_no_space_10: hamsterclerkcapablescraporientcoursesuccessinnocentdieselearth
-bip_39_word_no_space_11: hamsterclerkcapablescraporientcoursesuccessinnocentdieselearthemploy
 bip_39_word_no_space_12: hamsterclerkcapablescraporientcoursesuccessinnocentdieselearthemployanchor
 bip_39_word_no_space_2: hamsterclerk
 bip_39_word_no_space_3: hamsterclerkcapable
-bip_39_word_no_space_4: hamsterclerkcapablescrap
-bip_39_word_no_space_5: hamsterclerkcapablescraporient
-bip_39_word_no_space_6: hamsterclerkcapablescraporientcourse
-bip_39_word_no_space_7: hamsterclerkcapablescraporientcoursesuccess
-bip_39_word_no_space_8: hamsterclerkcapablescraporientcoursesuccessinnocent
-bip_39_word_no_space_9: hamsterclerkcapablescraporientcoursesuccessinnocentdiesel
-bip_39_word_space_0:
-- hamster
-- clerk
-- capable
-- scrap
-- orient
-- course
-- success
-- innocent
-- diesel
-- earth
-- employ
-- anchor
-bip_39_word_space_1: hamster
-bip_39_word_space_10: hamster clerk capable scrap orient course success innocent diesel
-  earth
-bip_39_word_space_11: hamster clerk capable scrap orient course success innocent diesel
-  earth employ
 bip_39_word_space_12: hamster clerk capable scrap orient course success innocent diesel
   earth employ anchor
 bip_39_word_space_2: hamster clerk
 bip_39_word_space_3: hamster clerk capable
-bip_39_word_space_4: hamster clerk capable scrap
-bip_39_word_space_5: hamster clerk capable scrap orient
-bip_39_word_space_6: hamster clerk capable scrap orient course
-bip_39_word_space_7: hamster clerk capable scrap orient course success
-bip_39_word_space_8: hamster clerk capable scrap orient course success innocent
-bip_39_word_space_9: hamster clerk capable scrap orient course success innocent diesel
-bip_39_word_underscore_1: hamster
-bip_39_word_underscore_10: hamster_clerk_capable_scrap_orient_course_success_innocent_diesel_earth
-bip_39_word_underscore_11: hamster_clerk_capable_scrap_orient_course_success_innocent_diesel_earth_employ
 bip_39_word_underscore_12: hamster_clerk_capable_scrap_orient_course_success_innocent_diesel_earth_employ_anchor
 bip_39_word_underscore_2: hamster_clerk
 bip_39_word_underscore_3: hamster_clerk_capable
-bip_39_word_underscore_4: hamster_clerk_capable_scrap
-bip_39_word_underscore_5: hamster_clerk_capable_scrap_orient
-bip_39_word_underscore_6: hamster_clerk_capable_scrap_orient_course
-bip_39_word_underscore_7: hamster_clerk_capable_scrap_orient_course_success
-bip_39_word_underscore_8: hamster_clerk_capable_scrap_orient_course_success_innocent
-bip_39_word_underscore_9: hamster_clerk_capable_scrap_orient_course_success_innocent_diesel
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

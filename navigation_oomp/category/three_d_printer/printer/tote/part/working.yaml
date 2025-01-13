@@ -1,68 +1,9 @@
-bip_39_word_dash_1: client
-bip_39_word_dash_10: client-setup-cancel-utility-ramp-spot-transfer-smoke-victory-ginger
-bip_39_word_dash_11: client-setup-cancel-utility-ramp-spot-transfer-smoke-victory-ginger-liquid
 bip_39_word_dash_12: client-setup-cancel-utility-ramp-spot-transfer-smoke-victory-ginger-liquid-ask
 bip_39_word_dash_2: client-setup
 bip_39_word_dash_3: client-setup-cancel
-bip_39_word_dash_4: client-setup-cancel-utility
-bip_39_word_dash_5: client-setup-cancel-utility-ramp
-bip_39_word_dash_6: client-setup-cancel-utility-ramp-spot
-bip_39_word_dash_7: client-setup-cancel-utility-ramp-spot-transfer
-bip_39_word_dash_8: client-setup-cancel-utility-ramp-spot-transfer-smoke
-bip_39_word_dash_9: client-setup-cancel-utility-ramp-spot-transfer-smoke-victory
-bip_39_word_new_br_1: client
-bip_39_word_new_br_10: client<br>setup<br>cancel<br>utility<br>ramp<br>spot<br>transfer<br>smoke<br>victory<br>ginger
-bip_39_word_new_br_11: client<br>setup<br>cancel<br>utility<br>ramp<br>spot<br>transfer<br>smoke<br>victory<br>ginger<br>liquid
 bip_39_word_new_br_12: client<br>setup<br>cancel<br>utility<br>ramp<br>spot<br>transfer<br>smoke<br>victory<br>ginger<br>liquid<br>ask
 bip_39_word_new_br_2: client<br>setup
 bip_39_word_new_br_3: client<br>setup<br>cancel
-bip_39_word_new_br_4: client<br>setup<br>cancel<br>utility
-bip_39_word_new_br_5: client<br>setup<br>cancel<br>utility<br>ramp
-bip_39_word_new_br_6: client<br>setup<br>cancel<br>utility<br>ramp<br>spot
-bip_39_word_new_br_7: client<br>setup<br>cancel<br>utility<br>ramp<br>spot<br>transfer
-bip_39_word_new_br_8: client<br>setup<br>cancel<br>utility<br>ramp<br>spot<br>transfer<br>smoke
-bip_39_word_new_br_9: client<br>setup<br>cancel<br>utility<br>ramp<br>spot<br>transfer<br>smoke<br>victory
-bip_39_word_new_line_1: client
-bip_39_word_new_line_10: 'client
-
-  setup
-
-  cancel
-
-  utility
-
-  ramp
-
-  spot
-
-  transfer
-
-  smoke
-
-  victory
-
-  ginger'
-bip_39_word_new_line_11: 'client
-
-  setup
-
-  cancel
-
-  utility
-
-  ramp
-
-  spot
-
-  transfer
-
-  smoke
-
-  victory
-
-  ginger
-
-  liquid'
 bip_39_word_new_line_12: 'client
 
   setup
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'client
   setup
 
   cancel'
-bip_39_word_new_line_4: 'client
-
-  setup
-
-  cancel
-
-  utility'
-bip_39_word_new_line_5: 'client
-
-  setup
-
-  cancel
-
-  utility
-
-  ramp'
-bip_39_word_new_line_6: 'client
-
-  setup
-
-  cancel
-
-  utility
-
-  ramp
-
-  spot'
-bip_39_word_new_line_7: 'client
-
-  setup
-
-  cancel
-
-  utility
-
-  ramp
-
-  spot
-
-  transfer'
-bip_39_word_new_line_8: 'client
-
-  setup
-
-  cancel
-
-  utility
-
-  ramp
-
-  spot
-
-  transfer
-
-  smoke'
-bip_39_word_new_line_9: 'client
-
-  setup
-
-  cancel
-
-  utility
-
-  ramp
-
-  spot
-
-  transfer
-
-  smoke
-
-  victory'
-bip_39_word_no_space_1: client
-bip_39_word_no_space_10: clientsetupcancelutilityrampspottransfersmokevictoryginger
-bip_39_word_no_space_11: clientsetupcancelutilityrampspottransfersmokevictorygingerliquid
 bip_39_word_no_space_12: clientsetupcancelutilityrampspottransfersmokevictorygingerliquidask
 bip_39_word_no_space_2: clientsetup
 bip_39_word_no_space_3: clientsetupcancel
-bip_39_word_no_space_4: clientsetupcancelutility
-bip_39_word_no_space_5: clientsetupcancelutilityramp
-bip_39_word_no_space_6: clientsetupcancelutilityrampspot
-bip_39_word_no_space_7: clientsetupcancelutilityrampspottransfer
-bip_39_word_no_space_8: clientsetupcancelutilityrampspottransfersmoke
-bip_39_word_no_space_9: clientsetupcancelutilityrampspottransfersmokevictory
-bip_39_word_space_0:
-- client
-- setup
-- cancel
-- utility
-- ramp
-- spot
-- transfer
-- smoke
-- victory
-- ginger
-- liquid
-- ask
-bip_39_word_space_1: client
-bip_39_word_space_10: client setup cancel utility ramp spot transfer smoke victory
-  ginger
-bip_39_word_space_11: client setup cancel utility ramp spot transfer smoke victory
-  ginger liquid
 bip_39_word_space_12: client setup cancel utility ramp spot transfer smoke victory
   ginger liquid ask
 bip_39_word_space_2: client setup
 bip_39_word_space_3: client setup cancel
-bip_39_word_space_4: client setup cancel utility
-bip_39_word_space_5: client setup cancel utility ramp
-bip_39_word_space_6: client setup cancel utility ramp spot
-bip_39_word_space_7: client setup cancel utility ramp spot transfer
-bip_39_word_space_8: client setup cancel utility ramp spot transfer smoke
-bip_39_word_space_9: client setup cancel utility ramp spot transfer smoke victory
-bip_39_word_underscore_1: client
-bip_39_word_underscore_10: client_setup_cancel_utility_ramp_spot_transfer_smoke_victory_ginger
-bip_39_word_underscore_11: client_setup_cancel_utility_ramp_spot_transfer_smoke_victory_ginger_liquid
 bip_39_word_underscore_12: client_setup_cancel_utility_ramp_spot_transfer_smoke_victory_ginger_liquid_ask
 bip_39_word_underscore_2: client_setup
 bip_39_word_underscore_3: client_setup_cancel
-bip_39_word_underscore_4: client_setup_cancel_utility
-bip_39_word_underscore_5: client_setup_cancel_utility_ramp
-bip_39_word_underscore_6: client_setup_cancel_utility_ramp_spot
-bip_39_word_underscore_7: client_setup_cancel_utility_ramp_spot_transfer
-bip_39_word_underscore_8: client_setup_cancel_utility_ramp_spot_transfer_smoke
-bip_39_word_underscore_9: client_setup_cancel_utility_ramp_spot_transfer_smoke_victory
 classification: category
 classification_capital: Category
 classification_first_letter: c

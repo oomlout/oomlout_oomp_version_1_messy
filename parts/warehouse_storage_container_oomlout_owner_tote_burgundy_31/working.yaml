@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spin
-bip_39_word_dash_10: spin-pear-green-fall-trumpet-buddy-dress-glory-cloth-fame
-bip_39_word_dash_11: spin-pear-green-fall-trumpet-buddy-dress-glory-cloth-fame-inmate
 bip_39_word_dash_12: spin-pear-green-fall-trumpet-buddy-dress-glory-cloth-fame-inmate-always
 bip_39_word_dash_2: spin-pear
 bip_39_word_dash_3: spin-pear-green
-bip_39_word_dash_4: spin-pear-green-fall
-bip_39_word_dash_5: spin-pear-green-fall-trumpet
-bip_39_word_dash_6: spin-pear-green-fall-trumpet-buddy
-bip_39_word_dash_7: spin-pear-green-fall-trumpet-buddy-dress
-bip_39_word_dash_8: spin-pear-green-fall-trumpet-buddy-dress-glory
-bip_39_word_dash_9: spin-pear-green-fall-trumpet-buddy-dress-glory-cloth
-bip_39_word_new_br_1: spin
-bip_39_word_new_br_10: spin<br>pear<br>green<br>fall<br>trumpet<br>buddy<br>dress<br>glory<br>cloth<br>fame
-bip_39_word_new_br_11: spin<br>pear<br>green<br>fall<br>trumpet<br>buddy<br>dress<br>glory<br>cloth<br>fame<br>inmate
 bip_39_word_new_br_12: spin<br>pear<br>green<br>fall<br>trumpet<br>buddy<br>dress<br>glory<br>cloth<br>fame<br>inmate<br>always
 bip_39_word_new_br_2: spin<br>pear
 bip_39_word_new_br_3: spin<br>pear<br>green
-bip_39_word_new_br_4: spin<br>pear<br>green<br>fall
-bip_39_word_new_br_5: spin<br>pear<br>green<br>fall<br>trumpet
-bip_39_word_new_br_6: spin<br>pear<br>green<br>fall<br>trumpet<br>buddy
-bip_39_word_new_br_7: spin<br>pear<br>green<br>fall<br>trumpet<br>buddy<br>dress
-bip_39_word_new_br_8: spin<br>pear<br>green<br>fall<br>trumpet<br>buddy<br>dress<br>glory
-bip_39_word_new_br_9: spin<br>pear<br>green<br>fall<br>trumpet<br>buddy<br>dress<br>glory<br>cloth
-bip_39_word_new_line_1: spin
-bip_39_word_new_line_10: 'spin
-
-  pear
-
-  green
-
-  fall
-
-  trumpet
-
-  buddy
-
-  dress
-
-  glory
-
-  cloth
-
-  fame'
-bip_39_word_new_line_11: 'spin
-
-  pear
-
-  green
-
-  fall
-
-  trumpet
-
-  buddy
-
-  dress
-
-  glory
-
-  cloth
-
-  fame
-
-  inmate'
 bip_39_word_new_line_12: 'spin
 
   pear
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'spin
   pear
 
   green'
-bip_39_word_new_line_4: 'spin
-
-  pear
-
-  green
-
-  fall'
-bip_39_word_new_line_5: 'spin
-
-  pear
-
-  green
-
-  fall
-
-  trumpet'
-bip_39_word_new_line_6: 'spin
-
-  pear
-
-  green
-
-  fall
-
-  trumpet
-
-  buddy'
-bip_39_word_new_line_7: 'spin
-
-  pear
-
-  green
-
-  fall
-
-  trumpet
-
-  buddy
-
-  dress'
-bip_39_word_new_line_8: 'spin
-
-  pear
-
-  green
-
-  fall
-
-  trumpet
-
-  buddy
-
-  dress
-
-  glory'
-bip_39_word_new_line_9: 'spin
-
-  pear
-
-  green
-
-  fall
-
-  trumpet
-
-  buddy
-
-  dress
-
-  glory
-
-  cloth'
-bip_39_word_no_space_1: spin
-bip_39_word_no_space_10: spinpeargreenfalltrumpetbuddydressgloryclothfame
-bip_39_word_no_space_11: spinpeargreenfalltrumpetbuddydressgloryclothfameinmate
 bip_39_word_no_space_12: spinpeargreenfalltrumpetbuddydressgloryclothfameinmatealways
 bip_39_word_no_space_2: spinpear
 bip_39_word_no_space_3: spinpeargreen
-bip_39_word_no_space_4: spinpeargreenfall
-bip_39_word_no_space_5: spinpeargreenfalltrumpet
-bip_39_word_no_space_6: spinpeargreenfalltrumpetbuddy
-bip_39_word_no_space_7: spinpeargreenfalltrumpetbuddydress
-bip_39_word_no_space_8: spinpeargreenfalltrumpetbuddydressglory
-bip_39_word_no_space_9: spinpeargreenfalltrumpetbuddydressglorycloth
-bip_39_word_space_0:
-- spin
-- pear
-- green
-- fall
-- trumpet
-- buddy
-- dress
-- glory
-- cloth
-- fame
-- inmate
-- always
-bip_39_word_space_1: spin
-bip_39_word_space_10: spin pear green fall trumpet buddy dress glory cloth fame
-bip_39_word_space_11: spin pear green fall trumpet buddy dress glory cloth fame inmate
 bip_39_word_space_12: spin pear green fall trumpet buddy dress glory cloth fame inmate
   always
 bip_39_word_space_2: spin pear
 bip_39_word_space_3: spin pear green
-bip_39_word_space_4: spin pear green fall
-bip_39_word_space_5: spin pear green fall trumpet
-bip_39_word_space_6: spin pear green fall trumpet buddy
-bip_39_word_space_7: spin pear green fall trumpet buddy dress
-bip_39_word_space_8: spin pear green fall trumpet buddy dress glory
-bip_39_word_space_9: spin pear green fall trumpet buddy dress glory cloth
-bip_39_word_underscore_1: spin
-bip_39_word_underscore_10: spin_pear_green_fall_trumpet_buddy_dress_glory_cloth_fame
-bip_39_word_underscore_11: spin_pear_green_fall_trumpet_buddy_dress_glory_cloth_fame_inmate
 bip_39_word_underscore_12: spin_pear_green_fall_trumpet_buddy_dress_glory_cloth_fame_inmate_always
 bip_39_word_underscore_2: spin_pear
 bip_39_word_underscore_3: spin_pear_green
-bip_39_word_underscore_4: spin_pear_green_fall
-bip_39_word_underscore_5: spin_pear_green_fall_trumpet
-bip_39_word_underscore_6: spin_pear_green_fall_trumpet_buddy
-bip_39_word_underscore_7: spin_pear_green_fall_trumpet_buddy_dress
-bip_39_word_underscore_8: spin_pear_green_fall_trumpet_buddy_dress_glory
-bip_39_word_underscore_9: spin_pear_green_fall_trumpet_buddy_dress_glory_cloth
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: design
-bip_39_word_dash_10: design-appear-travel-gather-call-poet-deny-display-arrow-join
-bip_39_word_dash_11: design-appear-travel-gather-call-poet-deny-display-arrow-join-fly
 bip_39_word_dash_12: design-appear-travel-gather-call-poet-deny-display-arrow-join-fly-anxiety
 bip_39_word_dash_2: design-appear
 bip_39_word_dash_3: design-appear-travel
-bip_39_word_dash_4: design-appear-travel-gather
-bip_39_word_dash_5: design-appear-travel-gather-call
-bip_39_word_dash_6: design-appear-travel-gather-call-poet
-bip_39_word_dash_7: design-appear-travel-gather-call-poet-deny
-bip_39_word_dash_8: design-appear-travel-gather-call-poet-deny-display
-bip_39_word_dash_9: design-appear-travel-gather-call-poet-deny-display-arrow
-bip_39_word_new_br_1: design
-bip_39_word_new_br_10: design<br>appear<br>travel<br>gather<br>call<br>poet<br>deny<br>display<br>arrow<br>join
-bip_39_word_new_br_11: design<br>appear<br>travel<br>gather<br>call<br>poet<br>deny<br>display<br>arrow<br>join<br>fly
 bip_39_word_new_br_12: design<br>appear<br>travel<br>gather<br>call<br>poet<br>deny<br>display<br>arrow<br>join<br>fly<br>anxiety
 bip_39_word_new_br_2: design<br>appear
 bip_39_word_new_br_3: design<br>appear<br>travel
-bip_39_word_new_br_4: design<br>appear<br>travel<br>gather
-bip_39_word_new_br_5: design<br>appear<br>travel<br>gather<br>call
-bip_39_word_new_br_6: design<br>appear<br>travel<br>gather<br>call<br>poet
-bip_39_word_new_br_7: design<br>appear<br>travel<br>gather<br>call<br>poet<br>deny
-bip_39_word_new_br_8: design<br>appear<br>travel<br>gather<br>call<br>poet<br>deny<br>display
-bip_39_word_new_br_9: design<br>appear<br>travel<br>gather<br>call<br>poet<br>deny<br>display<br>arrow
-bip_39_word_new_line_1: design
-bip_39_word_new_line_10: 'design
-
-  appear
-
-  travel
-
-  gather
-
-  call
-
-  poet
-
-  deny
-
-  display
-
-  arrow
-
-  join'
-bip_39_word_new_line_11: 'design
-
-  appear
-
-  travel
-
-  gather
-
-  call
-
-  poet
-
-  deny
-
-  display
-
-  arrow
-
-  join
-
-  fly'
 bip_39_word_new_line_12: 'design
 
   appear
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'design
   appear
 
   travel'
-bip_39_word_new_line_4: 'design
-
-  appear
-
-  travel
-
-  gather'
-bip_39_word_new_line_5: 'design
-
-  appear
-
-  travel
-
-  gather
-
-  call'
-bip_39_word_new_line_6: 'design
-
-  appear
-
-  travel
-
-  gather
-
-  call
-
-  poet'
-bip_39_word_new_line_7: 'design
-
-  appear
-
-  travel
-
-  gather
-
-  call
-
-  poet
-
-  deny'
-bip_39_word_new_line_8: 'design
-
-  appear
-
-  travel
-
-  gather
-
-  call
-
-  poet
-
-  deny
-
-  display'
-bip_39_word_new_line_9: 'design
-
-  appear
-
-  travel
-
-  gather
-
-  call
-
-  poet
-
-  deny
-
-  display
-
-  arrow'
-bip_39_word_no_space_1: design
-bip_39_word_no_space_10: designappeartravelgathercallpoetdenydisplayarrowjoin
-bip_39_word_no_space_11: designappeartravelgathercallpoetdenydisplayarrowjoinfly
 bip_39_word_no_space_12: designappeartravelgathercallpoetdenydisplayarrowjoinflyanxiety
 bip_39_word_no_space_2: designappear
 bip_39_word_no_space_3: designappeartravel
-bip_39_word_no_space_4: designappeartravelgather
-bip_39_word_no_space_5: designappeartravelgathercall
-bip_39_word_no_space_6: designappeartravelgathercallpoet
-bip_39_word_no_space_7: designappeartravelgathercallpoetdeny
-bip_39_word_no_space_8: designappeartravelgathercallpoetdenydisplay
-bip_39_word_no_space_9: designappeartravelgathercallpoetdenydisplayarrow
-bip_39_word_space_0:
-- design
-- appear
-- travel
-- gather
-- call
-- poet
-- deny
-- display
-- arrow
-- join
-- fly
-- anxiety
-bip_39_word_space_1: design
-bip_39_word_space_10: design appear travel gather call poet deny display arrow join
-bip_39_word_space_11: design appear travel gather call poet deny display arrow join
-  fly
 bip_39_word_space_12: design appear travel gather call poet deny display arrow join
   fly anxiety
 bip_39_word_space_2: design appear
 bip_39_word_space_3: design appear travel
-bip_39_word_space_4: design appear travel gather
-bip_39_word_space_5: design appear travel gather call
-bip_39_word_space_6: design appear travel gather call poet
-bip_39_word_space_7: design appear travel gather call poet deny
-bip_39_word_space_8: design appear travel gather call poet deny display
-bip_39_word_space_9: design appear travel gather call poet deny display arrow
-bip_39_word_underscore_1: design
-bip_39_word_underscore_10: design_appear_travel_gather_call_poet_deny_display_arrow_join
-bip_39_word_underscore_11: design_appear_travel_gather_call_poet_deny_display_arrow_join_fly
 bip_39_word_underscore_12: design_appear_travel_gather_call_poet_deny_display_arrow_join_fly_anxiety
 bip_39_word_underscore_2: design_appear
 bip_39_word_underscore_3: design_appear_travel
-bip_39_word_underscore_4: design_appear_travel_gather
-bip_39_word_underscore_5: design_appear_travel_gather_call
-bip_39_word_underscore_6: design_appear_travel_gather_call_poet
-bip_39_word_underscore_7: design_appear_travel_gather_call_poet_deny
-bip_39_word_underscore_8: design_appear_travel_gather_call_poet_deny_display
-bip_39_word_underscore_9: design_appear_travel_gather_call_poet_deny_display_arrow
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

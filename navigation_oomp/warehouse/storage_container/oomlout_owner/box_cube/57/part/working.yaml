@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nurse
-bip_39_word_dash_10: nurse-gown-ability-print-echo-hobby-merge-payment-embrace-unique
-bip_39_word_dash_11: nurse-gown-ability-print-echo-hobby-merge-payment-embrace-unique-together
 bip_39_word_dash_12: nurse-gown-ability-print-echo-hobby-merge-payment-embrace-unique-together-aspect
 bip_39_word_dash_2: nurse-gown
 bip_39_word_dash_3: nurse-gown-ability
-bip_39_word_dash_4: nurse-gown-ability-print
-bip_39_word_dash_5: nurse-gown-ability-print-echo
-bip_39_word_dash_6: nurse-gown-ability-print-echo-hobby
-bip_39_word_dash_7: nurse-gown-ability-print-echo-hobby-merge
-bip_39_word_dash_8: nurse-gown-ability-print-echo-hobby-merge-payment
-bip_39_word_dash_9: nurse-gown-ability-print-echo-hobby-merge-payment-embrace
-bip_39_word_new_br_1: nurse
-bip_39_word_new_br_10: nurse<br>gown<br>ability<br>print<br>echo<br>hobby<br>merge<br>payment<br>embrace<br>unique
-bip_39_word_new_br_11: nurse<br>gown<br>ability<br>print<br>echo<br>hobby<br>merge<br>payment<br>embrace<br>unique<br>together
 bip_39_word_new_br_12: nurse<br>gown<br>ability<br>print<br>echo<br>hobby<br>merge<br>payment<br>embrace<br>unique<br>together<br>aspect
 bip_39_word_new_br_2: nurse<br>gown
 bip_39_word_new_br_3: nurse<br>gown<br>ability
-bip_39_word_new_br_4: nurse<br>gown<br>ability<br>print
-bip_39_word_new_br_5: nurse<br>gown<br>ability<br>print<br>echo
-bip_39_word_new_br_6: nurse<br>gown<br>ability<br>print<br>echo<br>hobby
-bip_39_word_new_br_7: nurse<br>gown<br>ability<br>print<br>echo<br>hobby<br>merge
-bip_39_word_new_br_8: nurse<br>gown<br>ability<br>print<br>echo<br>hobby<br>merge<br>payment
-bip_39_word_new_br_9: nurse<br>gown<br>ability<br>print<br>echo<br>hobby<br>merge<br>payment<br>embrace
-bip_39_word_new_line_1: nurse
-bip_39_word_new_line_10: 'nurse
-
-  gown
-
-  ability
-
-  print
-
-  echo
-
-  hobby
-
-  merge
-
-  payment
-
-  embrace
-
-  unique'
-bip_39_word_new_line_11: 'nurse
-
-  gown
-
-  ability
-
-  print
-
-  echo
-
-  hobby
-
-  merge
-
-  payment
-
-  embrace
-
-  unique
-
-  together'
 bip_39_word_new_line_12: 'nurse
 
   gown
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'nurse
   gown
 
   ability'
-bip_39_word_new_line_4: 'nurse
-
-  gown
-
-  ability
-
-  print'
-bip_39_word_new_line_5: 'nurse
-
-  gown
-
-  ability
-
-  print
-
-  echo'
-bip_39_word_new_line_6: 'nurse
-
-  gown
-
-  ability
-
-  print
-
-  echo
-
-  hobby'
-bip_39_word_new_line_7: 'nurse
-
-  gown
-
-  ability
-
-  print
-
-  echo
-
-  hobby
-
-  merge'
-bip_39_word_new_line_8: 'nurse
-
-  gown
-
-  ability
-
-  print
-
-  echo
-
-  hobby
-
-  merge
-
-  payment'
-bip_39_word_new_line_9: 'nurse
-
-  gown
-
-  ability
-
-  print
-
-  echo
-
-  hobby
-
-  merge
-
-  payment
-
-  embrace'
-bip_39_word_no_space_1: nurse
-bip_39_word_no_space_10: nursegownabilityprintechohobbymergepaymentembraceunique
-bip_39_word_no_space_11: nursegownabilityprintechohobbymergepaymentembraceuniquetogether
 bip_39_word_no_space_12: nursegownabilityprintechohobbymergepaymentembraceuniquetogetheraspect
 bip_39_word_no_space_2: nursegown
 bip_39_word_no_space_3: nursegownability
-bip_39_word_no_space_4: nursegownabilityprint
-bip_39_word_no_space_5: nursegownabilityprintecho
-bip_39_word_no_space_6: nursegownabilityprintechohobby
-bip_39_word_no_space_7: nursegownabilityprintechohobbymerge
-bip_39_word_no_space_8: nursegownabilityprintechohobbymergepayment
-bip_39_word_no_space_9: nursegownabilityprintechohobbymergepaymentembrace
-bip_39_word_space_0:
-- nurse
-- gown
-- ability
-- print
-- echo
-- hobby
-- merge
-- payment
-- embrace
-- unique
-- together
-- aspect
-bip_39_word_space_1: nurse
-bip_39_word_space_10: nurse gown ability print echo hobby merge payment embrace unique
-bip_39_word_space_11: nurse gown ability print echo hobby merge payment embrace unique
-  together
 bip_39_word_space_12: nurse gown ability print echo hobby merge payment embrace unique
   together aspect
 bip_39_word_space_2: nurse gown
 bip_39_word_space_3: nurse gown ability
-bip_39_word_space_4: nurse gown ability print
-bip_39_word_space_5: nurse gown ability print echo
-bip_39_word_space_6: nurse gown ability print echo hobby
-bip_39_word_space_7: nurse gown ability print echo hobby merge
-bip_39_word_space_8: nurse gown ability print echo hobby merge payment
-bip_39_word_space_9: nurse gown ability print echo hobby merge payment embrace
-bip_39_word_underscore_1: nurse
-bip_39_word_underscore_10: nurse_gown_ability_print_echo_hobby_merge_payment_embrace_unique
-bip_39_word_underscore_11: nurse_gown_ability_print_echo_hobby_merge_payment_embrace_unique_together
 bip_39_word_underscore_12: nurse_gown_ability_print_echo_hobby_merge_payment_embrace_unique_together_aspect
 bip_39_word_underscore_2: nurse_gown
 bip_39_word_underscore_3: nurse_gown_ability
-bip_39_word_underscore_4: nurse_gown_ability_print
-bip_39_word_underscore_5: nurse_gown_ability_print_echo
-bip_39_word_underscore_6: nurse_gown_ability_print_echo_hobby
-bip_39_word_underscore_7: nurse_gown_ability_print_echo_hobby_merge
-bip_39_word_underscore_8: nurse_gown_ability_print_echo_hobby_merge_payment
-bip_39_word_underscore_9: nurse_gown_ability_print_echo_hobby_merge_payment_embrace
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: poem
-bip_39_word_dash_10: poem-matrix-cart-above-firm-prison-crime-inflict-enforce-file
-bip_39_word_dash_11: poem-matrix-cart-above-firm-prison-crime-inflict-enforce-file-emotion
 bip_39_word_dash_12: poem-matrix-cart-above-firm-prison-crime-inflict-enforce-file-emotion-accident
 bip_39_word_dash_2: poem-matrix
 bip_39_word_dash_3: poem-matrix-cart
-bip_39_word_dash_4: poem-matrix-cart-above
-bip_39_word_dash_5: poem-matrix-cart-above-firm
-bip_39_word_dash_6: poem-matrix-cart-above-firm-prison
-bip_39_word_dash_7: poem-matrix-cart-above-firm-prison-crime
-bip_39_word_dash_8: poem-matrix-cart-above-firm-prison-crime-inflict
-bip_39_word_dash_9: poem-matrix-cart-above-firm-prison-crime-inflict-enforce
-bip_39_word_new_br_1: poem
-bip_39_word_new_br_10: poem<br>matrix<br>cart<br>above<br>firm<br>prison<br>crime<br>inflict<br>enforce<br>file
-bip_39_word_new_br_11: poem<br>matrix<br>cart<br>above<br>firm<br>prison<br>crime<br>inflict<br>enforce<br>file<br>emotion
 bip_39_word_new_br_12: poem<br>matrix<br>cart<br>above<br>firm<br>prison<br>crime<br>inflict<br>enforce<br>file<br>emotion<br>accident
 bip_39_word_new_br_2: poem<br>matrix
 bip_39_word_new_br_3: poem<br>matrix<br>cart
-bip_39_word_new_br_4: poem<br>matrix<br>cart<br>above
-bip_39_word_new_br_5: poem<br>matrix<br>cart<br>above<br>firm
-bip_39_word_new_br_6: poem<br>matrix<br>cart<br>above<br>firm<br>prison
-bip_39_word_new_br_7: poem<br>matrix<br>cart<br>above<br>firm<br>prison<br>crime
-bip_39_word_new_br_8: poem<br>matrix<br>cart<br>above<br>firm<br>prison<br>crime<br>inflict
-bip_39_word_new_br_9: poem<br>matrix<br>cart<br>above<br>firm<br>prison<br>crime<br>inflict<br>enforce
-bip_39_word_new_line_1: poem
-bip_39_word_new_line_10: 'poem
-
-  matrix
-
-  cart
-
-  above
-
-  firm
-
-  prison
-
-  crime
-
-  inflict
-
-  enforce
-
-  file'
-bip_39_word_new_line_11: 'poem
-
-  matrix
-
-  cart
-
-  above
-
-  firm
-
-  prison
-
-  crime
-
-  inflict
-
-  enforce
-
-  file
-
-  emotion'
 bip_39_word_new_line_12: 'poem
 
   matrix
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'poem
   matrix
 
   cart'
-bip_39_word_new_line_4: 'poem
-
-  matrix
-
-  cart
-
-  above'
-bip_39_word_new_line_5: 'poem
-
-  matrix
-
-  cart
-
-  above
-
-  firm'
-bip_39_word_new_line_6: 'poem
-
-  matrix
-
-  cart
-
-  above
-
-  firm
-
-  prison'
-bip_39_word_new_line_7: 'poem
-
-  matrix
-
-  cart
-
-  above
-
-  firm
-
-  prison
-
-  crime'
-bip_39_word_new_line_8: 'poem
-
-  matrix
-
-  cart
-
-  above
-
-  firm
-
-  prison
-
-  crime
-
-  inflict'
-bip_39_word_new_line_9: 'poem
-
-  matrix
-
-  cart
-
-  above
-
-  firm
-
-  prison
-
-  crime
-
-  inflict
-
-  enforce'
-bip_39_word_no_space_1: poem
-bip_39_word_no_space_10: poemmatrixcartabovefirmprisoncrimeinflictenforcefile
-bip_39_word_no_space_11: poemmatrixcartabovefirmprisoncrimeinflictenforcefileemotion
 bip_39_word_no_space_12: poemmatrixcartabovefirmprisoncrimeinflictenforcefileemotionaccident
 bip_39_word_no_space_2: poemmatrix
 bip_39_word_no_space_3: poemmatrixcart
-bip_39_word_no_space_4: poemmatrixcartabove
-bip_39_word_no_space_5: poemmatrixcartabovefirm
-bip_39_word_no_space_6: poemmatrixcartabovefirmprison
-bip_39_word_no_space_7: poemmatrixcartabovefirmprisoncrime
-bip_39_word_no_space_8: poemmatrixcartabovefirmprisoncrimeinflict
-bip_39_word_no_space_9: poemmatrixcartabovefirmprisoncrimeinflictenforce
-bip_39_word_space_0:
-- poem
-- matrix
-- cart
-- above
-- firm
-- prison
-- crime
-- inflict
-- enforce
-- file
-- emotion
-- accident
-bip_39_word_space_1: poem
-bip_39_word_space_10: poem matrix cart above firm prison crime inflict enforce file
-bip_39_word_space_11: poem matrix cart above firm prison crime inflict enforce file
-  emotion
 bip_39_word_space_12: poem matrix cart above firm prison crime inflict enforce file
   emotion accident
 bip_39_word_space_2: poem matrix
 bip_39_word_space_3: poem matrix cart
-bip_39_word_space_4: poem matrix cart above
-bip_39_word_space_5: poem matrix cart above firm
-bip_39_word_space_6: poem matrix cart above firm prison
-bip_39_word_space_7: poem matrix cart above firm prison crime
-bip_39_word_space_8: poem matrix cart above firm prison crime inflict
-bip_39_word_space_9: poem matrix cart above firm prison crime inflict enforce
-bip_39_word_underscore_1: poem
-bip_39_word_underscore_10: poem_matrix_cart_above_firm_prison_crime_inflict_enforce_file
-bip_39_word_underscore_11: poem_matrix_cart_above_firm_prison_crime_inflict_enforce_file_emotion
 bip_39_word_underscore_12: poem_matrix_cart_above_firm_prison_crime_inflict_enforce_file_emotion_accident
 bip_39_word_underscore_2: poem_matrix
 bip_39_word_underscore_3: poem_matrix_cart
-bip_39_word_underscore_4: poem_matrix_cart_above
-bip_39_word_underscore_5: poem_matrix_cart_above_firm
-bip_39_word_underscore_6: poem_matrix_cart_above_firm_prison
-bip_39_word_underscore_7: poem_matrix_cart_above_firm_prison_crime
-bip_39_word_underscore_8: poem_matrix_cart_above_firm_prison_crime_inflict
-bip_39_word_underscore_9: poem_matrix_cart_above_firm_prison_crime_inflict_enforce
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

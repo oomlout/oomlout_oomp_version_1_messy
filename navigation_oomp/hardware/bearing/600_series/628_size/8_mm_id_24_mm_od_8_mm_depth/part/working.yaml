@@ -1,68 +1,9 @@
-bip_39_word_dash_1: juice
-bip_39_word_dash_10: juice-grid-open-ignore-bid-close-cost-kiwi-interest-version
-bip_39_word_dash_11: juice-grid-open-ignore-bid-close-cost-kiwi-interest-version-enable
 bip_39_word_dash_12: juice-grid-open-ignore-bid-close-cost-kiwi-interest-version-enable-aim
 bip_39_word_dash_2: juice-grid
 bip_39_word_dash_3: juice-grid-open
-bip_39_word_dash_4: juice-grid-open-ignore
-bip_39_word_dash_5: juice-grid-open-ignore-bid
-bip_39_word_dash_6: juice-grid-open-ignore-bid-close
-bip_39_word_dash_7: juice-grid-open-ignore-bid-close-cost
-bip_39_word_dash_8: juice-grid-open-ignore-bid-close-cost-kiwi
-bip_39_word_dash_9: juice-grid-open-ignore-bid-close-cost-kiwi-interest
-bip_39_word_new_br_1: juice
-bip_39_word_new_br_10: juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version
-bip_39_word_new_br_11: juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version<br>enable
 bip_39_word_new_br_12: juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest<br>version<br>enable<br>aim
 bip_39_word_new_br_2: juice<br>grid
 bip_39_word_new_br_3: juice<br>grid<br>open
-bip_39_word_new_br_4: juice<br>grid<br>open<br>ignore
-bip_39_word_new_br_5: juice<br>grid<br>open<br>ignore<br>bid
-bip_39_word_new_br_6: juice<br>grid<br>open<br>ignore<br>bid<br>close
-bip_39_word_new_br_7: juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost
-bip_39_word_new_br_8: juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi
-bip_39_word_new_br_9: juice<br>grid<br>open<br>ignore<br>bid<br>close<br>cost<br>kiwi<br>interest
-bip_39_word_new_line_1: juice
-bip_39_word_new_line_10: 'juice
-
-  grid
-
-  open
-
-  ignore
-
-  bid
-
-  close
-
-  cost
-
-  kiwi
-
-  interest
-
-  version'
-bip_39_word_new_line_11: 'juice
-
-  grid
-
-  open
-
-  ignore
-
-  bid
-
-  close
-
-  cost
-
-  kiwi
-
-  interest
-
-  version
-
-  enable'
 bip_39_word_new_line_12: 'juice
 
   grid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'juice
   grid
 
   open'
-bip_39_word_new_line_4: 'juice
-
-  grid
-
-  open
-
-  ignore'
-bip_39_word_new_line_5: 'juice
-
-  grid
-
-  open
-
-  ignore
-
-  bid'
-bip_39_word_new_line_6: 'juice
-
-  grid
-
-  open
-
-  ignore
-
-  bid
-
-  close'
-bip_39_word_new_line_7: 'juice
-
-  grid
-
-  open
-
-  ignore
-
-  bid
-
-  close
-
-  cost'
-bip_39_word_new_line_8: 'juice
-
-  grid
-
-  open
-
-  ignore
-
-  bid
-
-  close
-
-  cost
-
-  kiwi'
-bip_39_word_new_line_9: 'juice
-
-  grid
-
-  open
-
-  ignore
-
-  bid
-
-  close
-
-  cost
-
-  kiwi
-
-  interest'
-bip_39_word_no_space_1: juice
-bip_39_word_no_space_10: juicegridopenignorebidclosecostkiwiinterestversion
-bip_39_word_no_space_11: juicegridopenignorebidclosecostkiwiinterestversionenable
 bip_39_word_no_space_12: juicegridopenignorebidclosecostkiwiinterestversionenableaim
 bip_39_word_no_space_2: juicegrid
 bip_39_word_no_space_3: juicegridopen
-bip_39_word_no_space_4: juicegridopenignore
-bip_39_word_no_space_5: juicegridopenignorebid
-bip_39_word_no_space_6: juicegridopenignorebidclose
-bip_39_word_no_space_7: juicegridopenignorebidclosecost
-bip_39_word_no_space_8: juicegridopenignorebidclosecostkiwi
-bip_39_word_no_space_9: juicegridopenignorebidclosecostkiwiinterest
-bip_39_word_space_0:
-- juice
-- grid
-- open
-- ignore
-- bid
-- close
-- cost
-- kiwi
-- interest
-- version
-- enable
-- aim
-bip_39_word_space_1: juice
-bip_39_word_space_10: juice grid open ignore bid close cost kiwi interest version
-bip_39_word_space_11: juice grid open ignore bid close cost kiwi interest version
-  enable
 bip_39_word_space_12: juice grid open ignore bid close cost kiwi interest version
   enable aim
 bip_39_word_space_2: juice grid
 bip_39_word_space_3: juice grid open
-bip_39_word_space_4: juice grid open ignore
-bip_39_word_space_5: juice grid open ignore bid
-bip_39_word_space_6: juice grid open ignore bid close
-bip_39_word_space_7: juice grid open ignore bid close cost
-bip_39_word_space_8: juice grid open ignore bid close cost kiwi
-bip_39_word_space_9: juice grid open ignore bid close cost kiwi interest
-bip_39_word_underscore_1: juice
-bip_39_word_underscore_10: juice_grid_open_ignore_bid_close_cost_kiwi_interest_version
-bip_39_word_underscore_11: juice_grid_open_ignore_bid_close_cost_kiwi_interest_version_enable
 bip_39_word_underscore_12: juice_grid_open_ignore_bid_close_cost_kiwi_interest_version_enable_aim
 bip_39_word_underscore_2: juice_grid
 bip_39_word_underscore_3: juice_grid_open
-bip_39_word_underscore_4: juice_grid_open_ignore
-bip_39_word_underscore_5: juice_grid_open_ignore_bid
-bip_39_word_underscore_6: juice_grid_open_ignore_bid_close
-bip_39_word_underscore_7: juice_grid_open_ignore_bid_close_cost
-bip_39_word_underscore_8: juice_grid_open_ignore_bid_close_cost_kiwi
-bip_39_word_underscore_9: juice_grid_open_ignore_bid_close_cost_kiwi_interest
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

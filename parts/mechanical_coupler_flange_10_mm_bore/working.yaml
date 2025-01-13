@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glue
-bip_39_word_dash_10: glue-item-truck-lazy-side-brother-dignity-exile-party-guilt
-bip_39_word_dash_11: glue-item-truck-lazy-side-brother-dignity-exile-party-guilt-title
 bip_39_word_dash_12: glue-item-truck-lazy-side-brother-dignity-exile-party-guilt-title-arrive
 bip_39_word_dash_2: glue-item
 bip_39_word_dash_3: glue-item-truck
-bip_39_word_dash_4: glue-item-truck-lazy
-bip_39_word_dash_5: glue-item-truck-lazy-side
-bip_39_word_dash_6: glue-item-truck-lazy-side-brother
-bip_39_word_dash_7: glue-item-truck-lazy-side-brother-dignity
-bip_39_word_dash_8: glue-item-truck-lazy-side-brother-dignity-exile
-bip_39_word_dash_9: glue-item-truck-lazy-side-brother-dignity-exile-party
-bip_39_word_new_br_1: glue
-bip_39_word_new_br_10: glue<br>item<br>truck<br>lazy<br>side<br>brother<br>dignity<br>exile<br>party<br>guilt
-bip_39_word_new_br_11: glue<br>item<br>truck<br>lazy<br>side<br>brother<br>dignity<br>exile<br>party<br>guilt<br>title
 bip_39_word_new_br_12: glue<br>item<br>truck<br>lazy<br>side<br>brother<br>dignity<br>exile<br>party<br>guilt<br>title<br>arrive
 bip_39_word_new_br_2: glue<br>item
 bip_39_word_new_br_3: glue<br>item<br>truck
-bip_39_word_new_br_4: glue<br>item<br>truck<br>lazy
-bip_39_word_new_br_5: glue<br>item<br>truck<br>lazy<br>side
-bip_39_word_new_br_6: glue<br>item<br>truck<br>lazy<br>side<br>brother
-bip_39_word_new_br_7: glue<br>item<br>truck<br>lazy<br>side<br>brother<br>dignity
-bip_39_word_new_br_8: glue<br>item<br>truck<br>lazy<br>side<br>brother<br>dignity<br>exile
-bip_39_word_new_br_9: glue<br>item<br>truck<br>lazy<br>side<br>brother<br>dignity<br>exile<br>party
-bip_39_word_new_line_1: glue
-bip_39_word_new_line_10: 'glue
-
-  item
-
-  truck
-
-  lazy
-
-  side
-
-  brother
-
-  dignity
-
-  exile
-
-  party
-
-  guilt'
-bip_39_word_new_line_11: 'glue
-
-  item
-
-  truck
-
-  lazy
-
-  side
-
-  brother
-
-  dignity
-
-  exile
-
-  party
-
-  guilt
-
-  title'
 bip_39_word_new_line_12: 'glue
 
   item
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'glue
   item
 
   truck'
-bip_39_word_new_line_4: 'glue
-
-  item
-
-  truck
-
-  lazy'
-bip_39_word_new_line_5: 'glue
-
-  item
-
-  truck
-
-  lazy
-
-  side'
-bip_39_word_new_line_6: 'glue
-
-  item
-
-  truck
-
-  lazy
-
-  side
-
-  brother'
-bip_39_word_new_line_7: 'glue
-
-  item
-
-  truck
-
-  lazy
-
-  side
-
-  brother
-
-  dignity'
-bip_39_word_new_line_8: 'glue
-
-  item
-
-  truck
-
-  lazy
-
-  side
-
-  brother
-
-  dignity
-
-  exile'
-bip_39_word_new_line_9: 'glue
-
-  item
-
-  truck
-
-  lazy
-
-  side
-
-  brother
-
-  dignity
-
-  exile
-
-  party'
-bip_39_word_no_space_1: glue
-bip_39_word_no_space_10: glueitemtrucklazysidebrotherdignityexilepartyguilt
-bip_39_word_no_space_11: glueitemtrucklazysidebrotherdignityexilepartyguilttitle
 bip_39_word_no_space_12: glueitemtrucklazysidebrotherdignityexilepartyguilttitlearrive
 bip_39_word_no_space_2: glueitem
 bip_39_word_no_space_3: glueitemtruck
-bip_39_word_no_space_4: glueitemtrucklazy
-bip_39_word_no_space_5: glueitemtrucklazyside
-bip_39_word_no_space_6: glueitemtrucklazysidebrother
-bip_39_word_no_space_7: glueitemtrucklazysidebrotherdignity
-bip_39_word_no_space_8: glueitemtrucklazysidebrotherdignityexile
-bip_39_word_no_space_9: glueitemtrucklazysidebrotherdignityexileparty
-bip_39_word_space_0:
-- glue
-- item
-- truck
-- lazy
-- side
-- brother
-- dignity
-- exile
-- party
-- guilt
-- title
-- arrive
-bip_39_word_space_1: glue
-bip_39_word_space_10: glue item truck lazy side brother dignity exile party guilt
-bip_39_word_space_11: glue item truck lazy side brother dignity exile party guilt
-  title
 bip_39_word_space_12: glue item truck lazy side brother dignity exile party guilt
   title arrive
 bip_39_word_space_2: glue item
 bip_39_word_space_3: glue item truck
-bip_39_word_space_4: glue item truck lazy
-bip_39_word_space_5: glue item truck lazy side
-bip_39_word_space_6: glue item truck lazy side brother
-bip_39_word_space_7: glue item truck lazy side brother dignity
-bip_39_word_space_8: glue item truck lazy side brother dignity exile
-bip_39_word_space_9: glue item truck lazy side brother dignity exile party
-bip_39_word_underscore_1: glue
-bip_39_word_underscore_10: glue_item_truck_lazy_side_brother_dignity_exile_party_guilt
-bip_39_word_underscore_11: glue_item_truck_lazy_side_brother_dignity_exile_party_guilt_title
 bip_39_word_underscore_12: glue_item_truck_lazy_side_brother_dignity_exile_party_guilt_title_arrive
 bip_39_word_underscore_2: glue_item
 bip_39_word_underscore_3: glue_item_truck
-bip_39_word_underscore_4: glue_item_truck_lazy
-bip_39_word_underscore_5: glue_item_truck_lazy_side
-bip_39_word_underscore_6: glue_item_truck_lazy_side_brother
-bip_39_word_underscore_7: glue_item_truck_lazy_side_brother_dignity
-bip_39_word_underscore_8: glue_item_truck_lazy_side_brother_dignity_exile
-bip_39_word_underscore_9: glue_item_truck_lazy_side_brother_dignity_exile_party
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

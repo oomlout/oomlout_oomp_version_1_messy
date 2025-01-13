@@ -1,68 +1,9 @@
-bip_39_word_dash_1: beef
-bip_39_word_dash_10: beef-law-orphan-obtain-safe-file-kangaroo-humble-pigeon-top
-bip_39_word_dash_11: beef-law-orphan-obtain-safe-file-kangaroo-humble-pigeon-top-innocent
 bip_39_word_dash_12: beef-law-orphan-obtain-safe-file-kangaroo-humble-pigeon-top-innocent-arctic
 bip_39_word_dash_2: beef-law
 bip_39_word_dash_3: beef-law-orphan
-bip_39_word_dash_4: beef-law-orphan-obtain
-bip_39_word_dash_5: beef-law-orphan-obtain-safe
-bip_39_word_dash_6: beef-law-orphan-obtain-safe-file
-bip_39_word_dash_7: beef-law-orphan-obtain-safe-file-kangaroo
-bip_39_word_dash_8: beef-law-orphan-obtain-safe-file-kangaroo-humble
-bip_39_word_dash_9: beef-law-orphan-obtain-safe-file-kangaroo-humble-pigeon
-bip_39_word_new_br_1: beef
-bip_39_word_new_br_10: beef<br>law<br>orphan<br>obtain<br>safe<br>file<br>kangaroo<br>humble<br>pigeon<br>top
-bip_39_word_new_br_11: beef<br>law<br>orphan<br>obtain<br>safe<br>file<br>kangaroo<br>humble<br>pigeon<br>top<br>innocent
 bip_39_word_new_br_12: beef<br>law<br>orphan<br>obtain<br>safe<br>file<br>kangaroo<br>humble<br>pigeon<br>top<br>innocent<br>arctic
 bip_39_word_new_br_2: beef<br>law
 bip_39_word_new_br_3: beef<br>law<br>orphan
-bip_39_word_new_br_4: beef<br>law<br>orphan<br>obtain
-bip_39_word_new_br_5: beef<br>law<br>orphan<br>obtain<br>safe
-bip_39_word_new_br_6: beef<br>law<br>orphan<br>obtain<br>safe<br>file
-bip_39_word_new_br_7: beef<br>law<br>orphan<br>obtain<br>safe<br>file<br>kangaroo
-bip_39_word_new_br_8: beef<br>law<br>orphan<br>obtain<br>safe<br>file<br>kangaroo<br>humble
-bip_39_word_new_br_9: beef<br>law<br>orphan<br>obtain<br>safe<br>file<br>kangaroo<br>humble<br>pigeon
-bip_39_word_new_line_1: beef
-bip_39_word_new_line_10: 'beef
-
-  law
-
-  orphan
-
-  obtain
-
-  safe
-
-  file
-
-  kangaroo
-
-  humble
-
-  pigeon
-
-  top'
-bip_39_word_new_line_11: 'beef
-
-  law
-
-  orphan
-
-  obtain
-
-  safe
-
-  file
-
-  kangaroo
-
-  humble
-
-  pigeon
-
-  top
-
-  innocent'
 bip_39_word_new_line_12: 'beef
 
   law
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'beef
   law
 
   orphan'
-bip_39_word_new_line_4: 'beef
-
-  law
-
-  orphan
-
-  obtain'
-bip_39_word_new_line_5: 'beef
-
-  law
-
-  orphan
-
-  obtain
-
-  safe'
-bip_39_word_new_line_6: 'beef
-
-  law
-
-  orphan
-
-  obtain
-
-  safe
-
-  file'
-bip_39_word_new_line_7: 'beef
-
-  law
-
-  orphan
-
-  obtain
-
-  safe
-
-  file
-
-  kangaroo'
-bip_39_word_new_line_8: 'beef
-
-  law
-
-  orphan
-
-  obtain
-
-  safe
-
-  file
-
-  kangaroo
-
-  humble'
-bip_39_word_new_line_9: 'beef
-
-  law
-
-  orphan
-
-  obtain
-
-  safe
-
-  file
-
-  kangaroo
-
-  humble
-
-  pigeon'
-bip_39_word_no_space_1: beef
-bip_39_word_no_space_10: beeflaworphanobtainsafefilekangaroohumblepigeontop
-bip_39_word_no_space_11: beeflaworphanobtainsafefilekangaroohumblepigeontopinnocent
 bip_39_word_no_space_12: beeflaworphanobtainsafefilekangaroohumblepigeontopinnocentarctic
 bip_39_word_no_space_2: beeflaw
 bip_39_word_no_space_3: beeflaworphan
-bip_39_word_no_space_4: beeflaworphanobtain
-bip_39_word_no_space_5: beeflaworphanobtainsafe
-bip_39_word_no_space_6: beeflaworphanobtainsafefile
-bip_39_word_no_space_7: beeflaworphanobtainsafefilekangaroo
-bip_39_word_no_space_8: beeflaworphanobtainsafefilekangaroohumble
-bip_39_word_no_space_9: beeflaworphanobtainsafefilekangaroohumblepigeon
-bip_39_word_space_0:
-- beef
-- law
-- orphan
-- obtain
-- safe
-- file
-- kangaroo
-- humble
-- pigeon
-- top
-- innocent
-- arctic
-bip_39_word_space_1: beef
-bip_39_word_space_10: beef law orphan obtain safe file kangaroo humble pigeon top
-bip_39_word_space_11: beef law orphan obtain safe file kangaroo humble pigeon top
-  innocent
 bip_39_word_space_12: beef law orphan obtain safe file kangaroo humble pigeon top
   innocent arctic
 bip_39_word_space_2: beef law
 bip_39_word_space_3: beef law orphan
-bip_39_word_space_4: beef law orphan obtain
-bip_39_word_space_5: beef law orphan obtain safe
-bip_39_word_space_6: beef law orphan obtain safe file
-bip_39_word_space_7: beef law orphan obtain safe file kangaroo
-bip_39_word_space_8: beef law orphan obtain safe file kangaroo humble
-bip_39_word_space_9: beef law orphan obtain safe file kangaroo humble pigeon
-bip_39_word_underscore_1: beef
-bip_39_word_underscore_10: beef_law_orphan_obtain_safe_file_kangaroo_humble_pigeon_top
-bip_39_word_underscore_11: beef_law_orphan_obtain_safe_file_kangaroo_humble_pigeon_top_innocent
 bip_39_word_underscore_12: beef_law_orphan_obtain_safe_file_kangaroo_humble_pigeon_top_innocent_arctic
 bip_39_word_underscore_2: beef_law
 bip_39_word_underscore_3: beef_law_orphan
-bip_39_word_underscore_4: beef_law_orphan_obtain
-bip_39_word_underscore_5: beef_law_orphan_obtain_safe
-bip_39_word_underscore_6: beef_law_orphan_obtain_safe_file
-bip_39_word_underscore_7: beef_law_orphan_obtain_safe_file_kangaroo
-bip_39_word_underscore_8: beef_law_orphan_obtain_safe_file_kangaroo_humble
-bip_39_word_underscore_9: beef_law_orphan_obtain_safe_file_kangaroo_humble_pigeon
 classification: category
 classification_capital: Category
 classification_first_letter: c

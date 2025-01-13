@@ -1,68 +1,9 @@
-bip_39_word_dash_1: box
-bip_39_word_dash_10: box-wink-worry-hedgehog-today-pull-alert-amateur-opera-excite
-bip_39_word_dash_11: box-wink-worry-hedgehog-today-pull-alert-amateur-opera-excite-drink
 bip_39_word_dash_12: box-wink-worry-hedgehog-today-pull-alert-amateur-opera-excite-drink-action
 bip_39_word_dash_2: box-wink
 bip_39_word_dash_3: box-wink-worry
-bip_39_word_dash_4: box-wink-worry-hedgehog
-bip_39_word_dash_5: box-wink-worry-hedgehog-today
-bip_39_word_dash_6: box-wink-worry-hedgehog-today-pull
-bip_39_word_dash_7: box-wink-worry-hedgehog-today-pull-alert
-bip_39_word_dash_8: box-wink-worry-hedgehog-today-pull-alert-amateur
-bip_39_word_dash_9: box-wink-worry-hedgehog-today-pull-alert-amateur-opera
-bip_39_word_new_br_1: box
-bip_39_word_new_br_10: box<br>wink<br>worry<br>hedgehog<br>today<br>pull<br>alert<br>amateur<br>opera<br>excite
-bip_39_word_new_br_11: box<br>wink<br>worry<br>hedgehog<br>today<br>pull<br>alert<br>amateur<br>opera<br>excite<br>drink
 bip_39_word_new_br_12: box<br>wink<br>worry<br>hedgehog<br>today<br>pull<br>alert<br>amateur<br>opera<br>excite<br>drink<br>action
 bip_39_word_new_br_2: box<br>wink
 bip_39_word_new_br_3: box<br>wink<br>worry
-bip_39_word_new_br_4: box<br>wink<br>worry<br>hedgehog
-bip_39_word_new_br_5: box<br>wink<br>worry<br>hedgehog<br>today
-bip_39_word_new_br_6: box<br>wink<br>worry<br>hedgehog<br>today<br>pull
-bip_39_word_new_br_7: box<br>wink<br>worry<br>hedgehog<br>today<br>pull<br>alert
-bip_39_word_new_br_8: box<br>wink<br>worry<br>hedgehog<br>today<br>pull<br>alert<br>amateur
-bip_39_word_new_br_9: box<br>wink<br>worry<br>hedgehog<br>today<br>pull<br>alert<br>amateur<br>opera
-bip_39_word_new_line_1: box
-bip_39_word_new_line_10: 'box
-
-  wink
-
-  worry
-
-  hedgehog
-
-  today
-
-  pull
-
-  alert
-
-  amateur
-
-  opera
-
-  excite'
-bip_39_word_new_line_11: 'box
-
-  wink
-
-  worry
-
-  hedgehog
-
-  today
-
-  pull
-
-  alert
-
-  amateur
-
-  opera
-
-  excite
-
-  drink'
 bip_39_word_new_line_12: 'box
 
   wink
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'box
   wink
 
   worry'
-bip_39_word_new_line_4: 'box
-
-  wink
-
-  worry
-
-  hedgehog'
-bip_39_word_new_line_5: 'box
-
-  wink
-
-  worry
-
-  hedgehog
-
-  today'
-bip_39_word_new_line_6: 'box
-
-  wink
-
-  worry
-
-  hedgehog
-
-  today
-
-  pull'
-bip_39_word_new_line_7: 'box
-
-  wink
-
-  worry
-
-  hedgehog
-
-  today
-
-  pull
-
-  alert'
-bip_39_word_new_line_8: 'box
-
-  wink
-
-  worry
-
-  hedgehog
-
-  today
-
-  pull
-
-  alert
-
-  amateur'
-bip_39_word_new_line_9: 'box
-
-  wink
-
-  worry
-
-  hedgehog
-
-  today
-
-  pull
-
-  alert
-
-  amateur
-
-  opera'
-bip_39_word_no_space_1: box
-bip_39_word_no_space_10: boxwinkworryhedgehogtodaypullalertamateuroperaexcite
-bip_39_word_no_space_11: boxwinkworryhedgehogtodaypullalertamateuroperaexcitedrink
 bip_39_word_no_space_12: boxwinkworryhedgehogtodaypullalertamateuroperaexcitedrinkaction
 bip_39_word_no_space_2: boxwink
 bip_39_word_no_space_3: boxwinkworry
-bip_39_word_no_space_4: boxwinkworryhedgehog
-bip_39_word_no_space_5: boxwinkworryhedgehogtoday
-bip_39_word_no_space_6: boxwinkworryhedgehogtodaypull
-bip_39_word_no_space_7: boxwinkworryhedgehogtodaypullalert
-bip_39_word_no_space_8: boxwinkworryhedgehogtodaypullalertamateur
-bip_39_word_no_space_9: boxwinkworryhedgehogtodaypullalertamateuropera
-bip_39_word_space_0:
-- box
-- wink
-- worry
-- hedgehog
-- today
-- pull
-- alert
-- amateur
-- opera
-- excite
-- drink
-- action
-bip_39_word_space_1: box
-bip_39_word_space_10: box wink worry hedgehog today pull alert amateur opera excite
-bip_39_word_space_11: box wink worry hedgehog today pull alert amateur opera excite
-  drink
 bip_39_word_space_12: box wink worry hedgehog today pull alert amateur opera excite
   drink action
 bip_39_word_space_2: box wink
 bip_39_word_space_3: box wink worry
-bip_39_word_space_4: box wink worry hedgehog
-bip_39_word_space_5: box wink worry hedgehog today
-bip_39_word_space_6: box wink worry hedgehog today pull
-bip_39_word_space_7: box wink worry hedgehog today pull alert
-bip_39_word_space_8: box wink worry hedgehog today pull alert amateur
-bip_39_word_space_9: box wink worry hedgehog today pull alert amateur opera
-bip_39_word_underscore_1: box
-bip_39_word_underscore_10: box_wink_worry_hedgehog_today_pull_alert_amateur_opera_excite
-bip_39_word_underscore_11: box_wink_worry_hedgehog_today_pull_alert_amateur_opera_excite_drink
 bip_39_word_underscore_12: box_wink_worry_hedgehog_today_pull_alert_amateur_opera_excite_drink_action
 bip_39_word_underscore_2: box_wink
 bip_39_word_underscore_3: box_wink_worry
-bip_39_word_underscore_4: box_wink_worry_hedgehog
-bip_39_word_underscore_5: box_wink_worry_hedgehog_today
-bip_39_word_underscore_6: box_wink_worry_hedgehog_today_pull
-bip_39_word_underscore_7: box_wink_worry_hedgehog_today_pull_alert
-bip_39_word_underscore_8: box_wink_worry_hedgehog_today_pull_alert_amateur
-bip_39_word_underscore_9: box_wink_worry_hedgehog_today_pull_alert_amateur_opera
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

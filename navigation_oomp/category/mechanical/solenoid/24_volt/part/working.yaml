@@ -1,68 +1,9 @@
-bip_39_word_dash_1: memory
-bip_39_word_dash_10: memory-breeze-rocket-crumble-connect-garden-betray-horror-panel-border
-bip_39_word_dash_11: memory-breeze-rocket-crumble-connect-garden-betray-horror-panel-border-banana
 bip_39_word_dash_12: memory-breeze-rocket-crumble-connect-garden-betray-horror-panel-border-banana-apart
 bip_39_word_dash_2: memory-breeze
 bip_39_word_dash_3: memory-breeze-rocket
-bip_39_word_dash_4: memory-breeze-rocket-crumble
-bip_39_word_dash_5: memory-breeze-rocket-crumble-connect
-bip_39_word_dash_6: memory-breeze-rocket-crumble-connect-garden
-bip_39_word_dash_7: memory-breeze-rocket-crumble-connect-garden-betray
-bip_39_word_dash_8: memory-breeze-rocket-crumble-connect-garden-betray-horror
-bip_39_word_dash_9: memory-breeze-rocket-crumble-connect-garden-betray-horror-panel
-bip_39_word_new_br_1: memory
-bip_39_word_new_br_10: memory<br>breeze<br>rocket<br>crumble<br>connect<br>garden<br>betray<br>horror<br>panel<br>border
-bip_39_word_new_br_11: memory<br>breeze<br>rocket<br>crumble<br>connect<br>garden<br>betray<br>horror<br>panel<br>border<br>banana
 bip_39_word_new_br_12: memory<br>breeze<br>rocket<br>crumble<br>connect<br>garden<br>betray<br>horror<br>panel<br>border<br>banana<br>apart
 bip_39_word_new_br_2: memory<br>breeze
 bip_39_word_new_br_3: memory<br>breeze<br>rocket
-bip_39_word_new_br_4: memory<br>breeze<br>rocket<br>crumble
-bip_39_word_new_br_5: memory<br>breeze<br>rocket<br>crumble<br>connect
-bip_39_word_new_br_6: memory<br>breeze<br>rocket<br>crumble<br>connect<br>garden
-bip_39_word_new_br_7: memory<br>breeze<br>rocket<br>crumble<br>connect<br>garden<br>betray
-bip_39_word_new_br_8: memory<br>breeze<br>rocket<br>crumble<br>connect<br>garden<br>betray<br>horror
-bip_39_word_new_br_9: memory<br>breeze<br>rocket<br>crumble<br>connect<br>garden<br>betray<br>horror<br>panel
-bip_39_word_new_line_1: memory
-bip_39_word_new_line_10: 'memory
-
-  breeze
-
-  rocket
-
-  crumble
-
-  connect
-
-  garden
-
-  betray
-
-  horror
-
-  panel
-
-  border'
-bip_39_word_new_line_11: 'memory
-
-  breeze
-
-  rocket
-
-  crumble
-
-  connect
-
-  garden
-
-  betray
-
-  horror
-
-  panel
-
-  border
-
-  banana'
 bip_39_word_new_line_12: 'memory
 
   breeze
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'memory
   breeze
 
   rocket'
-bip_39_word_new_line_4: 'memory
-
-  breeze
-
-  rocket
-
-  crumble'
-bip_39_word_new_line_5: 'memory
-
-  breeze
-
-  rocket
-
-  crumble
-
-  connect'
-bip_39_word_new_line_6: 'memory
-
-  breeze
-
-  rocket
-
-  crumble
-
-  connect
-
-  garden'
-bip_39_word_new_line_7: 'memory
-
-  breeze
-
-  rocket
-
-  crumble
-
-  connect
-
-  garden
-
-  betray'
-bip_39_word_new_line_8: 'memory
-
-  breeze
-
-  rocket
-
-  crumble
-
-  connect
-
-  garden
-
-  betray
-
-  horror'
-bip_39_word_new_line_9: 'memory
-
-  breeze
-
-  rocket
-
-  crumble
-
-  connect
-
-  garden
-
-  betray
-
-  horror
-
-  panel'
-bip_39_word_no_space_1: memory
-bip_39_word_no_space_10: memorybreezerocketcrumbleconnectgardenbetrayhorrorpanelborder
-bip_39_word_no_space_11: memorybreezerocketcrumbleconnectgardenbetrayhorrorpanelborderbanana
 bip_39_word_no_space_12: memorybreezerocketcrumbleconnectgardenbetrayhorrorpanelborderbananaapart
 bip_39_word_no_space_2: memorybreeze
 bip_39_word_no_space_3: memorybreezerocket
-bip_39_word_no_space_4: memorybreezerocketcrumble
-bip_39_word_no_space_5: memorybreezerocketcrumbleconnect
-bip_39_word_no_space_6: memorybreezerocketcrumbleconnectgarden
-bip_39_word_no_space_7: memorybreezerocketcrumbleconnectgardenbetray
-bip_39_word_no_space_8: memorybreezerocketcrumbleconnectgardenbetrayhorror
-bip_39_word_no_space_9: memorybreezerocketcrumbleconnectgardenbetrayhorrorpanel
-bip_39_word_space_0:
-- memory
-- breeze
-- rocket
-- crumble
-- connect
-- garden
-- betray
-- horror
-- panel
-- border
-- banana
-- apart
-bip_39_word_space_1: memory
-bip_39_word_space_10: memory breeze rocket crumble connect garden betray horror panel
-  border
-bip_39_word_space_11: memory breeze rocket crumble connect garden betray horror panel
-  border banana
 bip_39_word_space_12: memory breeze rocket crumble connect garden betray horror panel
   border banana apart
 bip_39_word_space_2: memory breeze
 bip_39_word_space_3: memory breeze rocket
-bip_39_word_space_4: memory breeze rocket crumble
-bip_39_word_space_5: memory breeze rocket crumble connect
-bip_39_word_space_6: memory breeze rocket crumble connect garden
-bip_39_word_space_7: memory breeze rocket crumble connect garden betray
-bip_39_word_space_8: memory breeze rocket crumble connect garden betray horror
-bip_39_word_space_9: memory breeze rocket crumble connect garden betray horror panel
-bip_39_word_underscore_1: memory
-bip_39_word_underscore_10: memory_breeze_rocket_crumble_connect_garden_betray_horror_panel_border
-bip_39_word_underscore_11: memory_breeze_rocket_crumble_connect_garden_betray_horror_panel_border_banana
 bip_39_word_underscore_12: memory_breeze_rocket_crumble_connect_garden_betray_horror_panel_border_banana_apart
 bip_39_word_underscore_2: memory_breeze
 bip_39_word_underscore_3: memory_breeze_rocket
-bip_39_word_underscore_4: memory_breeze_rocket_crumble
-bip_39_word_underscore_5: memory_breeze_rocket_crumble_connect
-bip_39_word_underscore_6: memory_breeze_rocket_crumble_connect_garden
-bip_39_word_underscore_7: memory_breeze_rocket_crumble_connect_garden_betray
-bip_39_word_underscore_8: memory_breeze_rocket_crumble_connect_garden_betray_horror
-bip_39_word_underscore_9: memory_breeze_rocket_crumble_connect_garden_betray_horror_panel
 classification: category
 classification_capital: Category
 classification_first_letter: c

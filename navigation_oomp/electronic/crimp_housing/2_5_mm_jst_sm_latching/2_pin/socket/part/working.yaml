@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rifle
-bip_39_word_dash_10: rifle-roof-target-stone-true-distance-reduce-inner-bag-drink
-bip_39_word_dash_11: rifle-roof-target-stone-true-distance-reduce-inner-bag-drink-year
 bip_39_word_dash_12: rifle-roof-target-stone-true-distance-reduce-inner-bag-drink-year-afraid
 bip_39_word_dash_2: rifle-roof
 bip_39_word_dash_3: rifle-roof-target
-bip_39_word_dash_4: rifle-roof-target-stone
-bip_39_word_dash_5: rifle-roof-target-stone-true
-bip_39_word_dash_6: rifle-roof-target-stone-true-distance
-bip_39_word_dash_7: rifle-roof-target-stone-true-distance-reduce
-bip_39_word_dash_8: rifle-roof-target-stone-true-distance-reduce-inner
-bip_39_word_dash_9: rifle-roof-target-stone-true-distance-reduce-inner-bag
-bip_39_word_new_br_1: rifle
-bip_39_word_new_br_10: rifle<br>roof<br>target<br>stone<br>true<br>distance<br>reduce<br>inner<br>bag<br>drink
-bip_39_word_new_br_11: rifle<br>roof<br>target<br>stone<br>true<br>distance<br>reduce<br>inner<br>bag<br>drink<br>year
 bip_39_word_new_br_12: rifle<br>roof<br>target<br>stone<br>true<br>distance<br>reduce<br>inner<br>bag<br>drink<br>year<br>afraid
 bip_39_word_new_br_2: rifle<br>roof
 bip_39_word_new_br_3: rifle<br>roof<br>target
-bip_39_word_new_br_4: rifle<br>roof<br>target<br>stone
-bip_39_word_new_br_5: rifle<br>roof<br>target<br>stone<br>true
-bip_39_word_new_br_6: rifle<br>roof<br>target<br>stone<br>true<br>distance
-bip_39_word_new_br_7: rifle<br>roof<br>target<br>stone<br>true<br>distance<br>reduce
-bip_39_word_new_br_8: rifle<br>roof<br>target<br>stone<br>true<br>distance<br>reduce<br>inner
-bip_39_word_new_br_9: rifle<br>roof<br>target<br>stone<br>true<br>distance<br>reduce<br>inner<br>bag
-bip_39_word_new_line_1: rifle
-bip_39_word_new_line_10: 'rifle
-
-  roof
-
-  target
-
-  stone
-
-  true
-
-  distance
-
-  reduce
-
-  inner
-
-  bag
-
-  drink'
-bip_39_word_new_line_11: 'rifle
-
-  roof
-
-  target
-
-  stone
-
-  true
-
-  distance
-
-  reduce
-
-  inner
-
-  bag
-
-  drink
-
-  year'
 bip_39_word_new_line_12: 'rifle
 
   roof
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rifle
   roof
 
   target'
-bip_39_word_new_line_4: 'rifle
-
-  roof
-
-  target
-
-  stone'
-bip_39_word_new_line_5: 'rifle
-
-  roof
-
-  target
-
-  stone
-
-  true'
-bip_39_word_new_line_6: 'rifle
-
-  roof
-
-  target
-
-  stone
-
-  true
-
-  distance'
-bip_39_word_new_line_7: 'rifle
-
-  roof
-
-  target
-
-  stone
-
-  true
-
-  distance
-
-  reduce'
-bip_39_word_new_line_8: 'rifle
-
-  roof
-
-  target
-
-  stone
-
-  true
-
-  distance
-
-  reduce
-
-  inner'
-bip_39_word_new_line_9: 'rifle
-
-  roof
-
-  target
-
-  stone
-
-  true
-
-  distance
-
-  reduce
-
-  inner
-
-  bag'
-bip_39_word_no_space_1: rifle
-bip_39_word_no_space_10: riflerooftargetstonetruedistancereduceinnerbagdrink
-bip_39_word_no_space_11: riflerooftargetstonetruedistancereduceinnerbagdrinkyear
 bip_39_word_no_space_12: riflerooftargetstonetruedistancereduceinnerbagdrinkyearafraid
 bip_39_word_no_space_2: rifleroof
 bip_39_word_no_space_3: riflerooftarget
-bip_39_word_no_space_4: riflerooftargetstone
-bip_39_word_no_space_5: riflerooftargetstonetrue
-bip_39_word_no_space_6: riflerooftargetstonetruedistance
-bip_39_word_no_space_7: riflerooftargetstonetruedistancereduce
-bip_39_word_no_space_8: riflerooftargetstonetruedistancereduceinner
-bip_39_word_no_space_9: riflerooftargetstonetruedistancereduceinnerbag
-bip_39_word_space_0:
-- rifle
-- roof
-- target
-- stone
-- 'true'
-- distance
-- reduce
-- inner
-- bag
-- drink
-- year
-- afraid
-bip_39_word_space_1: rifle
-bip_39_word_space_10: rifle roof target stone true distance reduce inner bag drink
-bip_39_word_space_11: rifle roof target stone true distance reduce inner bag drink
-  year
 bip_39_word_space_12: rifle roof target stone true distance reduce inner bag drink
   year afraid
 bip_39_word_space_2: rifle roof
 bip_39_word_space_3: rifle roof target
-bip_39_word_space_4: rifle roof target stone
-bip_39_word_space_5: rifle roof target stone true
-bip_39_word_space_6: rifle roof target stone true distance
-bip_39_word_space_7: rifle roof target stone true distance reduce
-bip_39_word_space_8: rifle roof target stone true distance reduce inner
-bip_39_word_space_9: rifle roof target stone true distance reduce inner bag
-bip_39_word_underscore_1: rifle
-bip_39_word_underscore_10: rifle_roof_target_stone_true_distance_reduce_inner_bag_drink
-bip_39_word_underscore_11: rifle_roof_target_stone_true_distance_reduce_inner_bag_drink_year
 bip_39_word_underscore_12: rifle_roof_target_stone_true_distance_reduce_inner_bag_drink_year_afraid
 bip_39_word_underscore_2: rifle_roof
 bip_39_word_underscore_3: rifle_roof_target
-bip_39_word_underscore_4: rifle_roof_target_stone
-bip_39_word_underscore_5: rifle_roof_target_stone_true
-bip_39_word_underscore_6: rifle_roof_target_stone_true_distance
-bip_39_word_underscore_7: rifle_roof_target_stone_true_distance_reduce
-bip_39_word_underscore_8: rifle_roof_target_stone_true_distance_reduce_inner
-bip_39_word_underscore_9: rifle_roof_target_stone_true_distance_reduce_inner_bag
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

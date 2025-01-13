@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tongue
-bip_39_word_dash_10: tongue-region-wonder-peace-dice-rival-agent-clerk-mesh-hybrid
-bip_39_word_dash_11: tongue-region-wonder-peace-dice-rival-agent-clerk-mesh-hybrid-shallow
 bip_39_word_dash_12: tongue-region-wonder-peace-dice-rival-agent-clerk-mesh-hybrid-shallow-alone
 bip_39_word_dash_2: tongue-region
 bip_39_word_dash_3: tongue-region-wonder
-bip_39_word_dash_4: tongue-region-wonder-peace
-bip_39_word_dash_5: tongue-region-wonder-peace-dice
-bip_39_word_dash_6: tongue-region-wonder-peace-dice-rival
-bip_39_word_dash_7: tongue-region-wonder-peace-dice-rival-agent
-bip_39_word_dash_8: tongue-region-wonder-peace-dice-rival-agent-clerk
-bip_39_word_dash_9: tongue-region-wonder-peace-dice-rival-agent-clerk-mesh
-bip_39_word_new_br_1: tongue
-bip_39_word_new_br_10: tongue<br>region<br>wonder<br>peace<br>dice<br>rival<br>agent<br>clerk<br>mesh<br>hybrid
-bip_39_word_new_br_11: tongue<br>region<br>wonder<br>peace<br>dice<br>rival<br>agent<br>clerk<br>mesh<br>hybrid<br>shallow
 bip_39_word_new_br_12: tongue<br>region<br>wonder<br>peace<br>dice<br>rival<br>agent<br>clerk<br>mesh<br>hybrid<br>shallow<br>alone
 bip_39_word_new_br_2: tongue<br>region
 bip_39_word_new_br_3: tongue<br>region<br>wonder
-bip_39_word_new_br_4: tongue<br>region<br>wonder<br>peace
-bip_39_word_new_br_5: tongue<br>region<br>wonder<br>peace<br>dice
-bip_39_word_new_br_6: tongue<br>region<br>wonder<br>peace<br>dice<br>rival
-bip_39_word_new_br_7: tongue<br>region<br>wonder<br>peace<br>dice<br>rival<br>agent
-bip_39_word_new_br_8: tongue<br>region<br>wonder<br>peace<br>dice<br>rival<br>agent<br>clerk
-bip_39_word_new_br_9: tongue<br>region<br>wonder<br>peace<br>dice<br>rival<br>agent<br>clerk<br>mesh
-bip_39_word_new_line_1: tongue
-bip_39_word_new_line_10: 'tongue
-
-  region
-
-  wonder
-
-  peace
-
-  dice
-
-  rival
-
-  agent
-
-  clerk
-
-  mesh
-
-  hybrid'
-bip_39_word_new_line_11: 'tongue
-
-  region
-
-  wonder
-
-  peace
-
-  dice
-
-  rival
-
-  agent
-
-  clerk
-
-  mesh
-
-  hybrid
-
-  shallow'
 bip_39_word_new_line_12: 'tongue
 
   region
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tongue
   region
 
   wonder'
-bip_39_word_new_line_4: 'tongue
-
-  region
-
-  wonder
-
-  peace'
-bip_39_word_new_line_5: 'tongue
-
-  region
-
-  wonder
-
-  peace
-
-  dice'
-bip_39_word_new_line_6: 'tongue
-
-  region
-
-  wonder
-
-  peace
-
-  dice
-
-  rival'
-bip_39_word_new_line_7: 'tongue
-
-  region
-
-  wonder
-
-  peace
-
-  dice
-
-  rival
-
-  agent'
-bip_39_word_new_line_8: 'tongue
-
-  region
-
-  wonder
-
-  peace
-
-  dice
-
-  rival
-
-  agent
-
-  clerk'
-bip_39_word_new_line_9: 'tongue
-
-  region
-
-  wonder
-
-  peace
-
-  dice
-
-  rival
-
-  agent
-
-  clerk
-
-  mesh'
-bip_39_word_no_space_1: tongue
-bip_39_word_no_space_10: tongueregionwonderpeacedicerivalagentclerkmeshhybrid
-bip_39_word_no_space_11: tongueregionwonderpeacedicerivalagentclerkmeshhybridshallow
 bip_39_word_no_space_12: tongueregionwonderpeacedicerivalagentclerkmeshhybridshallowalone
 bip_39_word_no_space_2: tongueregion
 bip_39_word_no_space_3: tongueregionwonder
-bip_39_word_no_space_4: tongueregionwonderpeace
-bip_39_word_no_space_5: tongueregionwonderpeacedice
-bip_39_word_no_space_6: tongueregionwonderpeacedicerival
-bip_39_word_no_space_7: tongueregionwonderpeacedicerivalagent
-bip_39_word_no_space_8: tongueregionwonderpeacedicerivalagentclerk
-bip_39_word_no_space_9: tongueregionwonderpeacedicerivalagentclerkmesh
-bip_39_word_space_0:
-- tongue
-- region
-- wonder
-- peace
-- dice
-- rival
-- agent
-- clerk
-- mesh
-- hybrid
-- shallow
-- alone
-bip_39_word_space_1: tongue
-bip_39_word_space_10: tongue region wonder peace dice rival agent clerk mesh hybrid
-bip_39_word_space_11: tongue region wonder peace dice rival agent clerk mesh hybrid
-  shallow
 bip_39_word_space_12: tongue region wonder peace dice rival agent clerk mesh hybrid
   shallow alone
 bip_39_word_space_2: tongue region
 bip_39_word_space_3: tongue region wonder
-bip_39_word_space_4: tongue region wonder peace
-bip_39_word_space_5: tongue region wonder peace dice
-bip_39_word_space_6: tongue region wonder peace dice rival
-bip_39_word_space_7: tongue region wonder peace dice rival agent
-bip_39_word_space_8: tongue region wonder peace dice rival agent clerk
-bip_39_word_space_9: tongue region wonder peace dice rival agent clerk mesh
-bip_39_word_underscore_1: tongue
-bip_39_word_underscore_10: tongue_region_wonder_peace_dice_rival_agent_clerk_mesh_hybrid
-bip_39_word_underscore_11: tongue_region_wonder_peace_dice_rival_agent_clerk_mesh_hybrid_shallow
 bip_39_word_underscore_12: tongue_region_wonder_peace_dice_rival_agent_clerk_mesh_hybrid_shallow_alone
 bip_39_word_underscore_2: tongue_region
 bip_39_word_underscore_3: tongue_region_wonder
-bip_39_word_underscore_4: tongue_region_wonder_peace
-bip_39_word_underscore_5: tongue_region_wonder_peace_dice
-bip_39_word_underscore_6: tongue_region_wonder_peace_dice_rival
-bip_39_word_underscore_7: tongue_region_wonder_peace_dice_rival_agent
-bip_39_word_underscore_8: tongue_region_wonder_peace_dice_rival_agent_clerk
-bip_39_word_underscore_9: tongue_region_wonder_peace_dice_rival_agent_clerk_mesh
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

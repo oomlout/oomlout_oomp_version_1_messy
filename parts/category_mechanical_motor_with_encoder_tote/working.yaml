@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dice
-bip_39_word_dash_10: dice-shaft-brisk-solid-table-repeat-tomato-kangaroo-crowd-tonight
-bip_39_word_dash_11: dice-shaft-brisk-solid-table-repeat-tomato-kangaroo-crowd-tonight-milk
 bip_39_word_dash_12: dice-shaft-brisk-solid-table-repeat-tomato-kangaroo-crowd-tonight-milk-another
 bip_39_word_dash_2: dice-shaft
 bip_39_word_dash_3: dice-shaft-brisk
-bip_39_word_dash_4: dice-shaft-brisk-solid
-bip_39_word_dash_5: dice-shaft-brisk-solid-table
-bip_39_word_dash_6: dice-shaft-brisk-solid-table-repeat
-bip_39_word_dash_7: dice-shaft-brisk-solid-table-repeat-tomato
-bip_39_word_dash_8: dice-shaft-brisk-solid-table-repeat-tomato-kangaroo
-bip_39_word_dash_9: dice-shaft-brisk-solid-table-repeat-tomato-kangaroo-crowd
-bip_39_word_new_br_1: dice
-bip_39_word_new_br_10: dice<br>shaft<br>brisk<br>solid<br>table<br>repeat<br>tomato<br>kangaroo<br>crowd<br>tonight
-bip_39_word_new_br_11: dice<br>shaft<br>brisk<br>solid<br>table<br>repeat<br>tomato<br>kangaroo<br>crowd<br>tonight<br>milk
 bip_39_word_new_br_12: dice<br>shaft<br>brisk<br>solid<br>table<br>repeat<br>tomato<br>kangaroo<br>crowd<br>tonight<br>milk<br>another
 bip_39_word_new_br_2: dice<br>shaft
 bip_39_word_new_br_3: dice<br>shaft<br>brisk
-bip_39_word_new_br_4: dice<br>shaft<br>brisk<br>solid
-bip_39_word_new_br_5: dice<br>shaft<br>brisk<br>solid<br>table
-bip_39_word_new_br_6: dice<br>shaft<br>brisk<br>solid<br>table<br>repeat
-bip_39_word_new_br_7: dice<br>shaft<br>brisk<br>solid<br>table<br>repeat<br>tomato
-bip_39_word_new_br_8: dice<br>shaft<br>brisk<br>solid<br>table<br>repeat<br>tomato<br>kangaroo
-bip_39_word_new_br_9: dice<br>shaft<br>brisk<br>solid<br>table<br>repeat<br>tomato<br>kangaroo<br>crowd
-bip_39_word_new_line_1: dice
-bip_39_word_new_line_10: 'dice
-
-  shaft
-
-  brisk
-
-  solid
-
-  table
-
-  repeat
-
-  tomato
-
-  kangaroo
-
-  crowd
-
-  tonight'
-bip_39_word_new_line_11: 'dice
-
-  shaft
-
-  brisk
-
-  solid
-
-  table
-
-  repeat
-
-  tomato
-
-  kangaroo
-
-  crowd
-
-  tonight
-
-  milk'
 bip_39_word_new_line_12: 'dice
 
   shaft
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dice
   shaft
 
   brisk'
-bip_39_word_new_line_4: 'dice
-
-  shaft
-
-  brisk
-
-  solid'
-bip_39_word_new_line_5: 'dice
-
-  shaft
-
-  brisk
-
-  solid
-
-  table'
-bip_39_word_new_line_6: 'dice
-
-  shaft
-
-  brisk
-
-  solid
-
-  table
-
-  repeat'
-bip_39_word_new_line_7: 'dice
-
-  shaft
-
-  brisk
-
-  solid
-
-  table
-
-  repeat
-
-  tomato'
-bip_39_word_new_line_8: 'dice
-
-  shaft
-
-  brisk
-
-  solid
-
-  table
-
-  repeat
-
-  tomato
-
-  kangaroo'
-bip_39_word_new_line_9: 'dice
-
-  shaft
-
-  brisk
-
-  solid
-
-  table
-
-  repeat
-
-  tomato
-
-  kangaroo
-
-  crowd'
-bip_39_word_no_space_1: dice
-bip_39_word_no_space_10: diceshaftbrisksolidtablerepeattomatokangaroocrowdtonight
-bip_39_word_no_space_11: diceshaftbrisksolidtablerepeattomatokangaroocrowdtonightmilk
 bip_39_word_no_space_12: diceshaftbrisksolidtablerepeattomatokangaroocrowdtonightmilkanother
 bip_39_word_no_space_2: diceshaft
 bip_39_word_no_space_3: diceshaftbrisk
-bip_39_word_no_space_4: diceshaftbrisksolid
-bip_39_word_no_space_5: diceshaftbrisksolidtable
-bip_39_word_no_space_6: diceshaftbrisksolidtablerepeat
-bip_39_word_no_space_7: diceshaftbrisksolidtablerepeattomato
-bip_39_word_no_space_8: diceshaftbrisksolidtablerepeattomatokangaroo
-bip_39_word_no_space_9: diceshaftbrisksolidtablerepeattomatokangaroocrowd
-bip_39_word_space_0:
-- dice
-- shaft
-- brisk
-- solid
-- table
-- repeat
-- tomato
-- kangaroo
-- crowd
-- tonight
-- milk
-- another
-bip_39_word_space_1: dice
-bip_39_word_space_10: dice shaft brisk solid table repeat tomato kangaroo crowd tonight
-bip_39_word_space_11: dice shaft brisk solid table repeat tomato kangaroo crowd tonight
-  milk
 bip_39_word_space_12: dice shaft brisk solid table repeat tomato kangaroo crowd tonight
   milk another
 bip_39_word_space_2: dice shaft
 bip_39_word_space_3: dice shaft brisk
-bip_39_word_space_4: dice shaft brisk solid
-bip_39_word_space_5: dice shaft brisk solid table
-bip_39_word_space_6: dice shaft brisk solid table repeat
-bip_39_word_space_7: dice shaft brisk solid table repeat tomato
-bip_39_word_space_8: dice shaft brisk solid table repeat tomato kangaroo
-bip_39_word_space_9: dice shaft brisk solid table repeat tomato kangaroo crowd
-bip_39_word_underscore_1: dice
-bip_39_word_underscore_10: dice_shaft_brisk_solid_table_repeat_tomato_kangaroo_crowd_tonight
-bip_39_word_underscore_11: dice_shaft_brisk_solid_table_repeat_tomato_kangaroo_crowd_tonight_milk
 bip_39_word_underscore_12: dice_shaft_brisk_solid_table_repeat_tomato_kangaroo_crowd_tonight_milk_another
 bip_39_word_underscore_2: dice_shaft
 bip_39_word_underscore_3: dice_shaft_brisk
-bip_39_word_underscore_4: dice_shaft_brisk_solid
-bip_39_word_underscore_5: dice_shaft_brisk_solid_table
-bip_39_word_underscore_6: dice_shaft_brisk_solid_table_repeat
-bip_39_word_underscore_7: dice_shaft_brisk_solid_table_repeat_tomato
-bip_39_word_underscore_8: dice_shaft_brisk_solid_table_repeat_tomato_kangaroo
-bip_39_word_underscore_9: dice_shaft_brisk_solid_table_repeat_tomato_kangaroo_crowd
 classification: category
 classification_capital: Category
 classification_first_letter: c

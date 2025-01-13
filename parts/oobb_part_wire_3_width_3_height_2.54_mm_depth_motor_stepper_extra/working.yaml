@@ -1,68 +1,9 @@
-bip_39_word_dash_1: avocado
-bip_39_word_dash_10: avocado-own-bracket-brand-any-all-answer-display-teach-dilemma
-bip_39_word_dash_11: avocado-own-bracket-brand-any-all-answer-display-teach-dilemma-cube
 bip_39_word_dash_12: avocado-own-bracket-brand-any-all-answer-display-teach-dilemma-cube-artefact
 bip_39_word_dash_2: avocado-own
 bip_39_word_dash_3: avocado-own-bracket
-bip_39_word_dash_4: avocado-own-bracket-brand
-bip_39_word_dash_5: avocado-own-bracket-brand-any
-bip_39_word_dash_6: avocado-own-bracket-brand-any-all
-bip_39_word_dash_7: avocado-own-bracket-brand-any-all-answer
-bip_39_word_dash_8: avocado-own-bracket-brand-any-all-answer-display
-bip_39_word_dash_9: avocado-own-bracket-brand-any-all-answer-display-teach
-bip_39_word_new_br_1: avocado
-bip_39_word_new_br_10: avocado<br>own<br>bracket<br>brand<br>any<br>all<br>answer<br>display<br>teach<br>dilemma
-bip_39_word_new_br_11: avocado<br>own<br>bracket<br>brand<br>any<br>all<br>answer<br>display<br>teach<br>dilemma<br>cube
 bip_39_word_new_br_12: avocado<br>own<br>bracket<br>brand<br>any<br>all<br>answer<br>display<br>teach<br>dilemma<br>cube<br>artefact
 bip_39_word_new_br_2: avocado<br>own
 bip_39_word_new_br_3: avocado<br>own<br>bracket
-bip_39_word_new_br_4: avocado<br>own<br>bracket<br>brand
-bip_39_word_new_br_5: avocado<br>own<br>bracket<br>brand<br>any
-bip_39_word_new_br_6: avocado<br>own<br>bracket<br>brand<br>any<br>all
-bip_39_word_new_br_7: avocado<br>own<br>bracket<br>brand<br>any<br>all<br>answer
-bip_39_word_new_br_8: avocado<br>own<br>bracket<br>brand<br>any<br>all<br>answer<br>display
-bip_39_word_new_br_9: avocado<br>own<br>bracket<br>brand<br>any<br>all<br>answer<br>display<br>teach
-bip_39_word_new_line_1: avocado
-bip_39_word_new_line_10: 'avocado
-
-  own
-
-  bracket
-
-  brand
-
-  any
-
-  all
-
-  answer
-
-  display
-
-  teach
-
-  dilemma'
-bip_39_word_new_line_11: 'avocado
-
-  own
-
-  bracket
-
-  brand
-
-  any
-
-  all
-
-  answer
-
-  display
-
-  teach
-
-  dilemma
-
-  cube'
 bip_39_word_new_line_12: 'avocado
 
   own
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'avocado
   own
 
   bracket'
-bip_39_word_new_line_4: 'avocado
-
-  own
-
-  bracket
-
-  brand'
-bip_39_word_new_line_5: 'avocado
-
-  own
-
-  bracket
-
-  brand
-
-  any'
-bip_39_word_new_line_6: 'avocado
-
-  own
-
-  bracket
-
-  brand
-
-  any
-
-  all'
-bip_39_word_new_line_7: 'avocado
-
-  own
-
-  bracket
-
-  brand
-
-  any
-
-  all
-
-  answer'
-bip_39_word_new_line_8: 'avocado
-
-  own
-
-  bracket
-
-  brand
-
-  any
-
-  all
-
-  answer
-
-  display'
-bip_39_word_new_line_9: 'avocado
-
-  own
-
-  bracket
-
-  brand
-
-  any
-
-  all
-
-  answer
-
-  display
-
-  teach'
-bip_39_word_no_space_1: avocado
-bip_39_word_no_space_10: avocadoownbracketbrandanyallanswerdisplayteachdilemma
-bip_39_word_no_space_11: avocadoownbracketbrandanyallanswerdisplayteachdilemmacube
 bip_39_word_no_space_12: avocadoownbracketbrandanyallanswerdisplayteachdilemmacubeartefact
 bip_39_word_no_space_2: avocadoown
 bip_39_word_no_space_3: avocadoownbracket
-bip_39_word_no_space_4: avocadoownbracketbrand
-bip_39_word_no_space_5: avocadoownbracketbrandany
-bip_39_word_no_space_6: avocadoownbracketbrandanyall
-bip_39_word_no_space_7: avocadoownbracketbrandanyallanswer
-bip_39_word_no_space_8: avocadoownbracketbrandanyallanswerdisplay
-bip_39_word_no_space_9: avocadoownbracketbrandanyallanswerdisplayteach
-bip_39_word_space_0:
-- avocado
-- own
-- bracket
-- brand
-- any
-- all
-- answer
-- display
-- teach
-- dilemma
-- cube
-- artefact
-bip_39_word_space_1: avocado
-bip_39_word_space_10: avocado own bracket brand any all answer display teach dilemma
-bip_39_word_space_11: avocado own bracket brand any all answer display teach dilemma
-  cube
 bip_39_word_space_12: avocado own bracket brand any all answer display teach dilemma
   cube artefact
 bip_39_word_space_2: avocado own
 bip_39_word_space_3: avocado own bracket
-bip_39_word_space_4: avocado own bracket brand
-bip_39_word_space_5: avocado own bracket brand any
-bip_39_word_space_6: avocado own bracket brand any all
-bip_39_word_space_7: avocado own bracket brand any all answer
-bip_39_word_space_8: avocado own bracket brand any all answer display
-bip_39_word_space_9: avocado own bracket brand any all answer display teach
-bip_39_word_underscore_1: avocado
-bip_39_word_underscore_10: avocado_own_bracket_brand_any_all_answer_display_teach_dilemma
-bip_39_word_underscore_11: avocado_own_bracket_brand_any_all_answer_display_teach_dilemma_cube
 bip_39_word_underscore_12: avocado_own_bracket_brand_any_all_answer_display_teach_dilemma_cube_artefact
 bip_39_word_underscore_2: avocado_own
 bip_39_word_underscore_3: avocado_own_bracket
-bip_39_word_underscore_4: avocado_own_bracket_brand
-bip_39_word_underscore_5: avocado_own_bracket_brand_any
-bip_39_word_underscore_6: avocado_own_bracket_brand_any_all
-bip_39_word_underscore_7: avocado_own_bracket_brand_any_all_answer
-bip_39_word_underscore_8: avocado_own_bracket_brand_any_all_answer_display
-bip_39_word_underscore_9: avocado_own_bracket_brand_any_all_answer_display_teach
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sunset
-bip_39_word_dash_10: sunset-patient-fame-equip-phrase-tortoise-whisper-bread-grape-flight
-bip_39_word_dash_11: sunset-patient-fame-equip-phrase-tortoise-whisper-bread-grape-flight-eagle
 bip_39_word_dash_12: sunset-patient-fame-equip-phrase-tortoise-whisper-bread-grape-flight-eagle-again
 bip_39_word_dash_2: sunset-patient
 bip_39_word_dash_3: sunset-patient-fame
-bip_39_word_dash_4: sunset-patient-fame-equip
-bip_39_word_dash_5: sunset-patient-fame-equip-phrase
-bip_39_word_dash_6: sunset-patient-fame-equip-phrase-tortoise
-bip_39_word_dash_7: sunset-patient-fame-equip-phrase-tortoise-whisper
-bip_39_word_dash_8: sunset-patient-fame-equip-phrase-tortoise-whisper-bread
-bip_39_word_dash_9: sunset-patient-fame-equip-phrase-tortoise-whisper-bread-grape
-bip_39_word_new_br_1: sunset
-bip_39_word_new_br_10: sunset<br>patient<br>fame<br>equip<br>phrase<br>tortoise<br>whisper<br>bread<br>grape<br>flight
-bip_39_word_new_br_11: sunset<br>patient<br>fame<br>equip<br>phrase<br>tortoise<br>whisper<br>bread<br>grape<br>flight<br>eagle
 bip_39_word_new_br_12: sunset<br>patient<br>fame<br>equip<br>phrase<br>tortoise<br>whisper<br>bread<br>grape<br>flight<br>eagle<br>again
 bip_39_word_new_br_2: sunset<br>patient
 bip_39_word_new_br_3: sunset<br>patient<br>fame
-bip_39_word_new_br_4: sunset<br>patient<br>fame<br>equip
-bip_39_word_new_br_5: sunset<br>patient<br>fame<br>equip<br>phrase
-bip_39_word_new_br_6: sunset<br>patient<br>fame<br>equip<br>phrase<br>tortoise
-bip_39_word_new_br_7: sunset<br>patient<br>fame<br>equip<br>phrase<br>tortoise<br>whisper
-bip_39_word_new_br_8: sunset<br>patient<br>fame<br>equip<br>phrase<br>tortoise<br>whisper<br>bread
-bip_39_word_new_br_9: sunset<br>patient<br>fame<br>equip<br>phrase<br>tortoise<br>whisper<br>bread<br>grape
-bip_39_word_new_line_1: sunset
-bip_39_word_new_line_10: 'sunset
-
-  patient
-
-  fame
-
-  equip
-
-  phrase
-
-  tortoise
-
-  whisper
-
-  bread
-
-  grape
-
-  flight'
-bip_39_word_new_line_11: 'sunset
-
-  patient
-
-  fame
-
-  equip
-
-  phrase
-
-  tortoise
-
-  whisper
-
-  bread
-
-  grape
-
-  flight
-
-  eagle'
 bip_39_word_new_line_12: 'sunset
 
   patient
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sunset
   patient
 
   fame'
-bip_39_word_new_line_4: 'sunset
-
-  patient
-
-  fame
-
-  equip'
-bip_39_word_new_line_5: 'sunset
-
-  patient
-
-  fame
-
-  equip
-
-  phrase'
-bip_39_word_new_line_6: 'sunset
-
-  patient
-
-  fame
-
-  equip
-
-  phrase
-
-  tortoise'
-bip_39_word_new_line_7: 'sunset
-
-  patient
-
-  fame
-
-  equip
-
-  phrase
-
-  tortoise
-
-  whisper'
-bip_39_word_new_line_8: 'sunset
-
-  patient
-
-  fame
-
-  equip
-
-  phrase
-
-  tortoise
-
-  whisper
-
-  bread'
-bip_39_word_new_line_9: 'sunset
-
-  patient
-
-  fame
-
-  equip
-
-  phrase
-
-  tortoise
-
-  whisper
-
-  bread
-
-  grape'
-bip_39_word_no_space_1: sunset
-bip_39_word_no_space_10: sunsetpatientfameequipphrasetortoisewhisperbreadgrapeflight
-bip_39_word_no_space_11: sunsetpatientfameequipphrasetortoisewhisperbreadgrapeflighteagle
 bip_39_word_no_space_12: sunsetpatientfameequipphrasetortoisewhisperbreadgrapeflighteagleagain
 bip_39_word_no_space_2: sunsetpatient
 bip_39_word_no_space_3: sunsetpatientfame
-bip_39_word_no_space_4: sunsetpatientfameequip
-bip_39_word_no_space_5: sunsetpatientfameequipphrase
-bip_39_word_no_space_6: sunsetpatientfameequipphrasetortoise
-bip_39_word_no_space_7: sunsetpatientfameequipphrasetortoisewhisper
-bip_39_word_no_space_8: sunsetpatientfameequipphrasetortoisewhisperbread
-bip_39_word_no_space_9: sunsetpatientfameequipphrasetortoisewhisperbreadgrape
-bip_39_word_space_0:
-- sunset
-- patient
-- fame
-- equip
-- phrase
-- tortoise
-- whisper
-- bread
-- grape
-- flight
-- eagle
-- again
-bip_39_word_space_1: sunset
-bip_39_word_space_10: sunset patient fame equip phrase tortoise whisper bread grape
-  flight
-bip_39_word_space_11: sunset patient fame equip phrase tortoise whisper bread grape
-  flight eagle
 bip_39_word_space_12: sunset patient fame equip phrase tortoise whisper bread grape
   flight eagle again
 bip_39_word_space_2: sunset patient
 bip_39_word_space_3: sunset patient fame
-bip_39_word_space_4: sunset patient fame equip
-bip_39_word_space_5: sunset patient fame equip phrase
-bip_39_word_space_6: sunset patient fame equip phrase tortoise
-bip_39_word_space_7: sunset patient fame equip phrase tortoise whisper
-bip_39_word_space_8: sunset patient fame equip phrase tortoise whisper bread
-bip_39_word_space_9: sunset patient fame equip phrase tortoise whisper bread grape
-bip_39_word_underscore_1: sunset
-bip_39_word_underscore_10: sunset_patient_fame_equip_phrase_tortoise_whisper_bread_grape_flight
-bip_39_word_underscore_11: sunset_patient_fame_equip_phrase_tortoise_whisper_bread_grape_flight_eagle
 bip_39_word_underscore_12: sunset_patient_fame_equip_phrase_tortoise_whisper_bread_grape_flight_eagle_again
 bip_39_word_underscore_2: sunset_patient
 bip_39_word_underscore_3: sunset_patient_fame
-bip_39_word_underscore_4: sunset_patient_fame_equip
-bip_39_word_underscore_5: sunset_patient_fame_equip_phrase
-bip_39_word_underscore_6: sunset_patient_fame_equip_phrase_tortoise
-bip_39_word_underscore_7: sunset_patient_fame_equip_phrase_tortoise_whisper
-bip_39_word_underscore_8: sunset_patient_fame_equip_phrase_tortoise_whisper_bread
-bip_39_word_underscore_9: sunset_patient_fame_equip_phrase_tortoise_whisper_bread_grape
 classification: category
 classification_capital: Category
 classification_first_letter: c

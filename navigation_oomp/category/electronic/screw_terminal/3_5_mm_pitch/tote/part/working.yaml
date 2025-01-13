@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dragon
-bip_39_word_dash_10: dragon-chunk-oxygen-nerve-harvest-doll-region-proof-announce-clump
-bip_39_word_dash_11: dragon-chunk-oxygen-nerve-harvest-doll-region-proof-announce-clump-abandon
 bip_39_word_dash_12: dragon-chunk-oxygen-nerve-harvest-doll-region-proof-announce-clump-abandon-atom
 bip_39_word_dash_2: dragon-chunk
 bip_39_word_dash_3: dragon-chunk-oxygen
-bip_39_word_dash_4: dragon-chunk-oxygen-nerve
-bip_39_word_dash_5: dragon-chunk-oxygen-nerve-harvest
-bip_39_word_dash_6: dragon-chunk-oxygen-nerve-harvest-doll
-bip_39_word_dash_7: dragon-chunk-oxygen-nerve-harvest-doll-region
-bip_39_word_dash_8: dragon-chunk-oxygen-nerve-harvest-doll-region-proof
-bip_39_word_dash_9: dragon-chunk-oxygen-nerve-harvest-doll-region-proof-announce
-bip_39_word_new_br_1: dragon
-bip_39_word_new_br_10: dragon<br>chunk<br>oxygen<br>nerve<br>harvest<br>doll<br>region<br>proof<br>announce<br>clump
-bip_39_word_new_br_11: dragon<br>chunk<br>oxygen<br>nerve<br>harvest<br>doll<br>region<br>proof<br>announce<br>clump<br>abandon
 bip_39_word_new_br_12: dragon<br>chunk<br>oxygen<br>nerve<br>harvest<br>doll<br>region<br>proof<br>announce<br>clump<br>abandon<br>atom
 bip_39_word_new_br_2: dragon<br>chunk
 bip_39_word_new_br_3: dragon<br>chunk<br>oxygen
-bip_39_word_new_br_4: dragon<br>chunk<br>oxygen<br>nerve
-bip_39_word_new_br_5: dragon<br>chunk<br>oxygen<br>nerve<br>harvest
-bip_39_word_new_br_6: dragon<br>chunk<br>oxygen<br>nerve<br>harvest<br>doll
-bip_39_word_new_br_7: dragon<br>chunk<br>oxygen<br>nerve<br>harvest<br>doll<br>region
-bip_39_word_new_br_8: dragon<br>chunk<br>oxygen<br>nerve<br>harvest<br>doll<br>region<br>proof
-bip_39_word_new_br_9: dragon<br>chunk<br>oxygen<br>nerve<br>harvest<br>doll<br>region<br>proof<br>announce
-bip_39_word_new_line_1: dragon
-bip_39_word_new_line_10: 'dragon
-
-  chunk
-
-  oxygen
-
-  nerve
-
-  harvest
-
-  doll
-
-  region
-
-  proof
-
-  announce
-
-  clump'
-bip_39_word_new_line_11: 'dragon
-
-  chunk
-
-  oxygen
-
-  nerve
-
-  harvest
-
-  doll
-
-  region
-
-  proof
-
-  announce
-
-  clump
-
-  abandon'
 bip_39_word_new_line_12: 'dragon
 
   chunk
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'dragon
   chunk
 
   oxygen'
-bip_39_word_new_line_4: 'dragon
-
-  chunk
-
-  oxygen
-
-  nerve'
-bip_39_word_new_line_5: 'dragon
-
-  chunk
-
-  oxygen
-
-  nerve
-
-  harvest'
-bip_39_word_new_line_6: 'dragon
-
-  chunk
-
-  oxygen
-
-  nerve
-
-  harvest
-
-  doll'
-bip_39_word_new_line_7: 'dragon
-
-  chunk
-
-  oxygen
-
-  nerve
-
-  harvest
-
-  doll
-
-  region'
-bip_39_word_new_line_8: 'dragon
-
-  chunk
-
-  oxygen
-
-  nerve
-
-  harvest
-
-  doll
-
-  region
-
-  proof'
-bip_39_word_new_line_9: 'dragon
-
-  chunk
-
-  oxygen
-
-  nerve
-
-  harvest
-
-  doll
-
-  region
-
-  proof
-
-  announce'
-bip_39_word_no_space_1: dragon
-bip_39_word_no_space_10: dragonchunkoxygennerveharvestdollregionproofannounceclump
-bip_39_word_no_space_11: dragonchunkoxygennerveharvestdollregionproofannounceclumpabandon
 bip_39_word_no_space_12: dragonchunkoxygennerveharvestdollregionproofannounceclumpabandonatom
 bip_39_word_no_space_2: dragonchunk
 bip_39_word_no_space_3: dragonchunkoxygen
-bip_39_word_no_space_4: dragonchunkoxygennerve
-bip_39_word_no_space_5: dragonchunkoxygennerveharvest
-bip_39_word_no_space_6: dragonchunkoxygennerveharvestdoll
-bip_39_word_no_space_7: dragonchunkoxygennerveharvestdollregion
-bip_39_word_no_space_8: dragonchunkoxygennerveharvestdollregionproof
-bip_39_word_no_space_9: dragonchunkoxygennerveharvestdollregionproofannounce
-bip_39_word_space_0:
-- dragon
-- chunk
-- oxygen
-- nerve
-- harvest
-- doll
-- region
-- proof
-- announce
-- clump
-- abandon
-- atom
-bip_39_word_space_1: dragon
-bip_39_word_space_10: dragon chunk oxygen nerve harvest doll region proof announce
-  clump
-bip_39_word_space_11: dragon chunk oxygen nerve harvest doll region proof announce
-  clump abandon
 bip_39_word_space_12: dragon chunk oxygen nerve harvest doll region proof announce
   clump abandon atom
 bip_39_word_space_2: dragon chunk
 bip_39_word_space_3: dragon chunk oxygen
-bip_39_word_space_4: dragon chunk oxygen nerve
-bip_39_word_space_5: dragon chunk oxygen nerve harvest
-bip_39_word_space_6: dragon chunk oxygen nerve harvest doll
-bip_39_word_space_7: dragon chunk oxygen nerve harvest doll region
-bip_39_word_space_8: dragon chunk oxygen nerve harvest doll region proof
-bip_39_word_space_9: dragon chunk oxygen nerve harvest doll region proof announce
-bip_39_word_underscore_1: dragon
-bip_39_word_underscore_10: dragon_chunk_oxygen_nerve_harvest_doll_region_proof_announce_clump
-bip_39_word_underscore_11: dragon_chunk_oxygen_nerve_harvest_doll_region_proof_announce_clump_abandon
 bip_39_word_underscore_12: dragon_chunk_oxygen_nerve_harvest_doll_region_proof_announce_clump_abandon_atom
 bip_39_word_underscore_2: dragon_chunk
 bip_39_word_underscore_3: dragon_chunk_oxygen
-bip_39_word_underscore_4: dragon_chunk_oxygen_nerve
-bip_39_word_underscore_5: dragon_chunk_oxygen_nerve_harvest
-bip_39_word_underscore_6: dragon_chunk_oxygen_nerve_harvest_doll
-bip_39_word_underscore_7: dragon_chunk_oxygen_nerve_harvest_doll_region
-bip_39_word_underscore_8: dragon_chunk_oxygen_nerve_harvest_doll_region_proof
-bip_39_word_underscore_9: dragon_chunk_oxygen_nerve_harvest_doll_region_proof_announce
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exact
-bip_39_word_dash_10: exact-useless-forward-isolate-replace-acid-weasel-nose-mistake-catch
-bip_39_word_dash_11: exact-useless-forward-isolate-replace-acid-weasel-nose-mistake-catch-survey
 bip_39_word_dash_12: exact-useless-forward-isolate-replace-acid-weasel-nose-mistake-catch-survey-action
 bip_39_word_dash_2: exact-useless
 bip_39_word_dash_3: exact-useless-forward
-bip_39_word_dash_4: exact-useless-forward-isolate
-bip_39_word_dash_5: exact-useless-forward-isolate-replace
-bip_39_word_dash_6: exact-useless-forward-isolate-replace-acid
-bip_39_word_dash_7: exact-useless-forward-isolate-replace-acid-weasel
-bip_39_word_dash_8: exact-useless-forward-isolate-replace-acid-weasel-nose
-bip_39_word_dash_9: exact-useless-forward-isolate-replace-acid-weasel-nose-mistake
-bip_39_word_new_br_1: exact
-bip_39_word_new_br_10: exact<br>useless<br>forward<br>isolate<br>replace<br>acid<br>weasel<br>nose<br>mistake<br>catch
-bip_39_word_new_br_11: exact<br>useless<br>forward<br>isolate<br>replace<br>acid<br>weasel<br>nose<br>mistake<br>catch<br>survey
 bip_39_word_new_br_12: exact<br>useless<br>forward<br>isolate<br>replace<br>acid<br>weasel<br>nose<br>mistake<br>catch<br>survey<br>action
 bip_39_word_new_br_2: exact<br>useless
 bip_39_word_new_br_3: exact<br>useless<br>forward
-bip_39_word_new_br_4: exact<br>useless<br>forward<br>isolate
-bip_39_word_new_br_5: exact<br>useless<br>forward<br>isolate<br>replace
-bip_39_word_new_br_6: exact<br>useless<br>forward<br>isolate<br>replace<br>acid
-bip_39_word_new_br_7: exact<br>useless<br>forward<br>isolate<br>replace<br>acid<br>weasel
-bip_39_word_new_br_8: exact<br>useless<br>forward<br>isolate<br>replace<br>acid<br>weasel<br>nose
-bip_39_word_new_br_9: exact<br>useless<br>forward<br>isolate<br>replace<br>acid<br>weasel<br>nose<br>mistake
-bip_39_word_new_line_1: exact
-bip_39_word_new_line_10: 'exact
-
-  useless
-
-  forward
-
-  isolate
-
-  replace
-
-  acid
-
-  weasel
-
-  nose
-
-  mistake
-
-  catch'
-bip_39_word_new_line_11: 'exact
-
-  useless
-
-  forward
-
-  isolate
-
-  replace
-
-  acid
-
-  weasel
-
-  nose
-
-  mistake
-
-  catch
-
-  survey'
 bip_39_word_new_line_12: 'exact
 
   useless
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'exact
   useless
 
   forward'
-bip_39_word_new_line_4: 'exact
-
-  useless
-
-  forward
-
-  isolate'
-bip_39_word_new_line_5: 'exact
-
-  useless
-
-  forward
-
-  isolate
-
-  replace'
-bip_39_word_new_line_6: 'exact
-
-  useless
-
-  forward
-
-  isolate
-
-  replace
-
-  acid'
-bip_39_word_new_line_7: 'exact
-
-  useless
-
-  forward
-
-  isolate
-
-  replace
-
-  acid
-
-  weasel'
-bip_39_word_new_line_8: 'exact
-
-  useless
-
-  forward
-
-  isolate
-
-  replace
-
-  acid
-
-  weasel
-
-  nose'
-bip_39_word_new_line_9: 'exact
-
-  useless
-
-  forward
-
-  isolate
-
-  replace
-
-  acid
-
-  weasel
-
-  nose
-
-  mistake'
-bip_39_word_no_space_1: exact
-bip_39_word_no_space_10: exactuselessforwardisolatereplaceacidweaselnosemistakecatch
-bip_39_word_no_space_11: exactuselessforwardisolatereplaceacidweaselnosemistakecatchsurvey
 bip_39_word_no_space_12: exactuselessforwardisolatereplaceacidweaselnosemistakecatchsurveyaction
 bip_39_word_no_space_2: exactuseless
 bip_39_word_no_space_3: exactuselessforward
-bip_39_word_no_space_4: exactuselessforwardisolate
-bip_39_word_no_space_5: exactuselessforwardisolatereplace
-bip_39_word_no_space_6: exactuselessforwardisolatereplaceacid
-bip_39_word_no_space_7: exactuselessforwardisolatereplaceacidweasel
-bip_39_word_no_space_8: exactuselessforwardisolatereplaceacidweaselnose
-bip_39_word_no_space_9: exactuselessforwardisolatereplaceacidweaselnosemistake
-bip_39_word_space_0:
-- exact
-- useless
-- forward
-- isolate
-- replace
-- acid
-- weasel
-- nose
-- mistake
-- catch
-- survey
-- action
-bip_39_word_space_1: exact
-bip_39_word_space_10: exact useless forward isolate replace acid weasel nose mistake
-  catch
-bip_39_word_space_11: exact useless forward isolate replace acid weasel nose mistake
-  catch survey
 bip_39_word_space_12: exact useless forward isolate replace acid weasel nose mistake
   catch survey action
 bip_39_word_space_2: exact useless
 bip_39_word_space_3: exact useless forward
-bip_39_word_space_4: exact useless forward isolate
-bip_39_word_space_5: exact useless forward isolate replace
-bip_39_word_space_6: exact useless forward isolate replace acid
-bip_39_word_space_7: exact useless forward isolate replace acid weasel
-bip_39_word_space_8: exact useless forward isolate replace acid weasel nose
-bip_39_word_space_9: exact useless forward isolate replace acid weasel nose mistake
-bip_39_word_underscore_1: exact
-bip_39_word_underscore_10: exact_useless_forward_isolate_replace_acid_weasel_nose_mistake_catch
-bip_39_word_underscore_11: exact_useless_forward_isolate_replace_acid_weasel_nose_mistake_catch_survey
 bip_39_word_underscore_12: exact_useless_forward_isolate_replace_acid_weasel_nose_mistake_catch_survey_action
 bip_39_word_underscore_2: exact_useless
 bip_39_word_underscore_3: exact_useless_forward
-bip_39_word_underscore_4: exact_useless_forward_isolate
-bip_39_word_underscore_5: exact_useless_forward_isolate_replace
-bip_39_word_underscore_6: exact_useless_forward_isolate_replace_acid
-bip_39_word_underscore_7: exact_useless_forward_isolate_replace_acid_weasel
-bip_39_word_underscore_8: exact_useless_forward_isolate_replace_acid_weasel_nose
-bip_39_word_underscore_9: exact_useless_forward_isolate_replace_acid_weasel_nose_mistake
 classification: category
 classification_capital: Category
 classification_first_letter: c

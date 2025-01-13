@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sauce
-bip_39_word_dash_10: sauce-train-cluster-common-develop-like-regular-glide-indoor-cluster
-bip_39_word_dash_11: sauce-train-cluster-common-develop-like-regular-glide-indoor-cluster-stuff
 bip_39_word_dash_12: sauce-train-cluster-common-develop-like-regular-glide-indoor-cluster-stuff-average
 bip_39_word_dash_2: sauce-train
 bip_39_word_dash_3: sauce-train-cluster
-bip_39_word_dash_4: sauce-train-cluster-common
-bip_39_word_dash_5: sauce-train-cluster-common-develop
-bip_39_word_dash_6: sauce-train-cluster-common-develop-like
-bip_39_word_dash_7: sauce-train-cluster-common-develop-like-regular
-bip_39_word_dash_8: sauce-train-cluster-common-develop-like-regular-glide
-bip_39_word_dash_9: sauce-train-cluster-common-develop-like-regular-glide-indoor
-bip_39_word_new_br_1: sauce
-bip_39_word_new_br_10: sauce<br>train<br>cluster<br>common<br>develop<br>like<br>regular<br>glide<br>indoor<br>cluster
-bip_39_word_new_br_11: sauce<br>train<br>cluster<br>common<br>develop<br>like<br>regular<br>glide<br>indoor<br>cluster<br>stuff
 bip_39_word_new_br_12: sauce<br>train<br>cluster<br>common<br>develop<br>like<br>regular<br>glide<br>indoor<br>cluster<br>stuff<br>average
 bip_39_word_new_br_2: sauce<br>train
 bip_39_word_new_br_3: sauce<br>train<br>cluster
-bip_39_word_new_br_4: sauce<br>train<br>cluster<br>common
-bip_39_word_new_br_5: sauce<br>train<br>cluster<br>common<br>develop
-bip_39_word_new_br_6: sauce<br>train<br>cluster<br>common<br>develop<br>like
-bip_39_word_new_br_7: sauce<br>train<br>cluster<br>common<br>develop<br>like<br>regular
-bip_39_word_new_br_8: sauce<br>train<br>cluster<br>common<br>develop<br>like<br>regular<br>glide
-bip_39_word_new_br_9: sauce<br>train<br>cluster<br>common<br>develop<br>like<br>regular<br>glide<br>indoor
-bip_39_word_new_line_1: sauce
-bip_39_word_new_line_10: 'sauce
-
-  train
-
-  cluster
-
-  common
-
-  develop
-
-  like
-
-  regular
-
-  glide
-
-  indoor
-
-  cluster'
-bip_39_word_new_line_11: 'sauce
-
-  train
-
-  cluster
-
-  common
-
-  develop
-
-  like
-
-  regular
-
-  glide
-
-  indoor
-
-  cluster
-
-  stuff'
 bip_39_word_new_line_12: 'sauce
 
   train
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sauce
   train
 
   cluster'
-bip_39_word_new_line_4: 'sauce
-
-  train
-
-  cluster
-
-  common'
-bip_39_word_new_line_5: 'sauce
-
-  train
-
-  cluster
-
-  common
-
-  develop'
-bip_39_word_new_line_6: 'sauce
-
-  train
-
-  cluster
-
-  common
-
-  develop
-
-  like'
-bip_39_word_new_line_7: 'sauce
-
-  train
-
-  cluster
-
-  common
-
-  develop
-
-  like
-
-  regular'
-bip_39_word_new_line_8: 'sauce
-
-  train
-
-  cluster
-
-  common
-
-  develop
-
-  like
-
-  regular
-
-  glide'
-bip_39_word_new_line_9: 'sauce
-
-  train
-
-  cluster
-
-  common
-
-  develop
-
-  like
-
-  regular
-
-  glide
-
-  indoor'
-bip_39_word_no_space_1: sauce
-bip_39_word_no_space_10: saucetrainclustercommondeveloplikeregularglideindoorcluster
-bip_39_word_no_space_11: saucetrainclustercommondeveloplikeregularglideindoorclusterstuff
 bip_39_word_no_space_12: saucetrainclustercommondeveloplikeregularglideindoorclusterstuffaverage
 bip_39_word_no_space_2: saucetrain
 bip_39_word_no_space_3: saucetraincluster
-bip_39_word_no_space_4: saucetrainclustercommon
-bip_39_word_no_space_5: saucetrainclustercommondevelop
-bip_39_word_no_space_6: saucetrainclustercommondeveloplike
-bip_39_word_no_space_7: saucetrainclustercommondeveloplikeregular
-bip_39_word_no_space_8: saucetrainclustercommondeveloplikeregularglide
-bip_39_word_no_space_9: saucetrainclustercommondeveloplikeregularglideindoor
-bip_39_word_space_0:
-- sauce
-- train
-- cluster
-- common
-- develop
-- like
-- regular
-- glide
-- indoor
-- cluster
-- stuff
-- average
-bip_39_word_space_1: sauce
-bip_39_word_space_10: sauce train cluster common develop like regular glide indoor
-  cluster
-bip_39_word_space_11: sauce train cluster common develop like regular glide indoor
-  cluster stuff
 bip_39_word_space_12: sauce train cluster common develop like regular glide indoor
   cluster stuff average
 bip_39_word_space_2: sauce train
 bip_39_word_space_3: sauce train cluster
-bip_39_word_space_4: sauce train cluster common
-bip_39_word_space_5: sauce train cluster common develop
-bip_39_word_space_6: sauce train cluster common develop like
-bip_39_word_space_7: sauce train cluster common develop like regular
-bip_39_word_space_8: sauce train cluster common develop like regular glide
-bip_39_word_space_9: sauce train cluster common develop like regular glide indoor
-bip_39_word_underscore_1: sauce
-bip_39_word_underscore_10: sauce_train_cluster_common_develop_like_regular_glide_indoor_cluster
-bip_39_word_underscore_11: sauce_train_cluster_common_develop_like_regular_glide_indoor_cluster_stuff
 bip_39_word_underscore_12: sauce_train_cluster_common_develop_like_regular_glide_indoor_cluster_stuff_average
 bip_39_word_underscore_2: sauce_train
 bip_39_word_underscore_3: sauce_train_cluster
-bip_39_word_underscore_4: sauce_train_cluster_common
-bip_39_word_underscore_5: sauce_train_cluster_common_develop
-bip_39_word_underscore_6: sauce_train_cluster_common_develop_like
-bip_39_word_underscore_7: sauce_train_cluster_common_develop_like_regular
-bip_39_word_underscore_8: sauce_train_cluster_common_develop_like_regular_glide
-bip_39_word_underscore_9: sauce_train_cluster_common_develop_like_regular_glide_indoor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

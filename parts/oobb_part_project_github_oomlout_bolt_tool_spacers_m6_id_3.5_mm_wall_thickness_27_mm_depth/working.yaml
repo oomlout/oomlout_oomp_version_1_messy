@@ -1,68 +1,9 @@
-bip_39_word_dash_1: always
-bip_39_word_dash_10: always-ship-grass-crash-glove-hard-harvest-unique-young-frost
-bip_39_word_dash_11: always-ship-grass-crash-glove-hard-harvest-unique-young-frost-special
 bip_39_word_dash_12: always-ship-grass-crash-glove-hard-harvest-unique-young-frost-special-any
 bip_39_word_dash_2: always-ship
 bip_39_word_dash_3: always-ship-grass
-bip_39_word_dash_4: always-ship-grass-crash
-bip_39_word_dash_5: always-ship-grass-crash-glove
-bip_39_word_dash_6: always-ship-grass-crash-glove-hard
-bip_39_word_dash_7: always-ship-grass-crash-glove-hard-harvest
-bip_39_word_dash_8: always-ship-grass-crash-glove-hard-harvest-unique
-bip_39_word_dash_9: always-ship-grass-crash-glove-hard-harvest-unique-young
-bip_39_word_new_br_1: always
-bip_39_word_new_br_10: always<br>ship<br>grass<br>crash<br>glove<br>hard<br>harvest<br>unique<br>young<br>frost
-bip_39_word_new_br_11: always<br>ship<br>grass<br>crash<br>glove<br>hard<br>harvest<br>unique<br>young<br>frost<br>special
 bip_39_word_new_br_12: always<br>ship<br>grass<br>crash<br>glove<br>hard<br>harvest<br>unique<br>young<br>frost<br>special<br>any
 bip_39_word_new_br_2: always<br>ship
 bip_39_word_new_br_3: always<br>ship<br>grass
-bip_39_word_new_br_4: always<br>ship<br>grass<br>crash
-bip_39_word_new_br_5: always<br>ship<br>grass<br>crash<br>glove
-bip_39_word_new_br_6: always<br>ship<br>grass<br>crash<br>glove<br>hard
-bip_39_word_new_br_7: always<br>ship<br>grass<br>crash<br>glove<br>hard<br>harvest
-bip_39_word_new_br_8: always<br>ship<br>grass<br>crash<br>glove<br>hard<br>harvest<br>unique
-bip_39_word_new_br_9: always<br>ship<br>grass<br>crash<br>glove<br>hard<br>harvest<br>unique<br>young
-bip_39_word_new_line_1: always
-bip_39_word_new_line_10: 'always
-
-  ship
-
-  grass
-
-  crash
-
-  glove
-
-  hard
-
-  harvest
-
-  unique
-
-  young
-
-  frost'
-bip_39_word_new_line_11: 'always
-
-  ship
-
-  grass
-
-  crash
-
-  glove
-
-  hard
-
-  harvest
-
-  unique
-
-  young
-
-  frost
-
-  special'
 bip_39_word_new_line_12: 'always
 
   ship
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'always
   ship
 
   grass'
-bip_39_word_new_line_4: 'always
-
-  ship
-
-  grass
-
-  crash'
-bip_39_word_new_line_5: 'always
-
-  ship
-
-  grass
-
-  crash
-
-  glove'
-bip_39_word_new_line_6: 'always
-
-  ship
-
-  grass
-
-  crash
-
-  glove
-
-  hard'
-bip_39_word_new_line_7: 'always
-
-  ship
-
-  grass
-
-  crash
-
-  glove
-
-  hard
-
-  harvest'
-bip_39_word_new_line_8: 'always
-
-  ship
-
-  grass
-
-  crash
-
-  glove
-
-  hard
-
-  harvest
-
-  unique'
-bip_39_word_new_line_9: 'always
-
-  ship
-
-  grass
-
-  crash
-
-  glove
-
-  hard
-
-  harvest
-
-  unique
-
-  young'
-bip_39_word_no_space_1: always
-bip_39_word_no_space_10: alwaysshipgrasscrashglovehardharvestuniqueyoungfrost
-bip_39_word_no_space_11: alwaysshipgrasscrashglovehardharvestuniqueyoungfrostspecial
 bip_39_word_no_space_12: alwaysshipgrasscrashglovehardharvestuniqueyoungfrostspecialany
 bip_39_word_no_space_2: alwaysship
 bip_39_word_no_space_3: alwaysshipgrass
-bip_39_word_no_space_4: alwaysshipgrasscrash
-bip_39_word_no_space_5: alwaysshipgrasscrashglove
-bip_39_word_no_space_6: alwaysshipgrasscrashglovehard
-bip_39_word_no_space_7: alwaysshipgrasscrashglovehardharvest
-bip_39_word_no_space_8: alwaysshipgrasscrashglovehardharvestunique
-bip_39_word_no_space_9: alwaysshipgrasscrashglovehardharvestuniqueyoung
-bip_39_word_space_0:
-- always
-- ship
-- grass
-- crash
-- glove
-- hard
-- harvest
-- unique
-- young
-- frost
-- special
-- any
-bip_39_word_space_1: always
-bip_39_word_space_10: always ship grass crash glove hard harvest unique young frost
-bip_39_word_space_11: always ship grass crash glove hard harvest unique young frost
-  special
 bip_39_word_space_12: always ship grass crash glove hard harvest unique young frost
   special any
 bip_39_word_space_2: always ship
 bip_39_word_space_3: always ship grass
-bip_39_word_space_4: always ship grass crash
-bip_39_word_space_5: always ship grass crash glove
-bip_39_word_space_6: always ship grass crash glove hard
-bip_39_word_space_7: always ship grass crash glove hard harvest
-bip_39_word_space_8: always ship grass crash glove hard harvest unique
-bip_39_word_space_9: always ship grass crash glove hard harvest unique young
-bip_39_word_underscore_1: always
-bip_39_word_underscore_10: always_ship_grass_crash_glove_hard_harvest_unique_young_frost
-bip_39_word_underscore_11: always_ship_grass_crash_glove_hard_harvest_unique_young_frost_special
 bip_39_word_underscore_12: always_ship_grass_crash_glove_hard_harvest_unique_young_frost_special_any
 bip_39_word_underscore_2: always_ship
 bip_39_word_underscore_3: always_ship_grass
-bip_39_word_underscore_4: always_ship_grass_crash
-bip_39_word_underscore_5: always_ship_grass_crash_glove
-bip_39_word_underscore_6: always_ship_grass_crash_glove_hard
-bip_39_word_underscore_7: always_ship_grass_crash_glove_hard_harvest
-bip_39_word_underscore_8: always_ship_grass_crash_glove_hard_harvest_unique
-bip_39_word_underscore_9: always_ship_grass_crash_glove_hard_harvest_unique_young
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

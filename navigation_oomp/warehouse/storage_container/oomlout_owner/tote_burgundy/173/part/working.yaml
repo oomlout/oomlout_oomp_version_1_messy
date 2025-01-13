@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pretty
-bip_39_word_dash_10: pretty-deny-all-spider-oak-leave-boy-mention-poverty-end
-bip_39_word_dash_11: pretty-deny-all-spider-oak-leave-boy-mention-poverty-end-depart
 bip_39_word_dash_12: pretty-deny-all-spider-oak-leave-boy-mention-poverty-end-depart-aim
 bip_39_word_dash_2: pretty-deny
 bip_39_word_dash_3: pretty-deny-all
-bip_39_word_dash_4: pretty-deny-all-spider
-bip_39_word_dash_5: pretty-deny-all-spider-oak
-bip_39_word_dash_6: pretty-deny-all-spider-oak-leave
-bip_39_word_dash_7: pretty-deny-all-spider-oak-leave-boy
-bip_39_word_dash_8: pretty-deny-all-spider-oak-leave-boy-mention
-bip_39_word_dash_9: pretty-deny-all-spider-oak-leave-boy-mention-poverty
-bip_39_word_new_br_1: pretty
-bip_39_word_new_br_10: pretty<br>deny<br>all<br>spider<br>oak<br>leave<br>boy<br>mention<br>poverty<br>end
-bip_39_word_new_br_11: pretty<br>deny<br>all<br>spider<br>oak<br>leave<br>boy<br>mention<br>poverty<br>end<br>depart
 bip_39_word_new_br_12: pretty<br>deny<br>all<br>spider<br>oak<br>leave<br>boy<br>mention<br>poverty<br>end<br>depart<br>aim
 bip_39_word_new_br_2: pretty<br>deny
 bip_39_word_new_br_3: pretty<br>deny<br>all
-bip_39_word_new_br_4: pretty<br>deny<br>all<br>spider
-bip_39_word_new_br_5: pretty<br>deny<br>all<br>spider<br>oak
-bip_39_word_new_br_6: pretty<br>deny<br>all<br>spider<br>oak<br>leave
-bip_39_word_new_br_7: pretty<br>deny<br>all<br>spider<br>oak<br>leave<br>boy
-bip_39_word_new_br_8: pretty<br>deny<br>all<br>spider<br>oak<br>leave<br>boy<br>mention
-bip_39_word_new_br_9: pretty<br>deny<br>all<br>spider<br>oak<br>leave<br>boy<br>mention<br>poverty
-bip_39_word_new_line_1: pretty
-bip_39_word_new_line_10: 'pretty
-
-  deny
-
-  all
-
-  spider
-
-  oak
-
-  leave
-
-  boy
-
-  mention
-
-  poverty
-
-  end'
-bip_39_word_new_line_11: 'pretty
-
-  deny
-
-  all
-
-  spider
-
-  oak
-
-  leave
-
-  boy
-
-  mention
-
-  poverty
-
-  end
-
-  depart'
 bip_39_word_new_line_12: 'pretty
 
   deny
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'pretty
   deny
 
   all'
-bip_39_word_new_line_4: 'pretty
-
-  deny
-
-  all
-
-  spider'
-bip_39_word_new_line_5: 'pretty
-
-  deny
-
-  all
-
-  spider
-
-  oak'
-bip_39_word_new_line_6: 'pretty
-
-  deny
-
-  all
-
-  spider
-
-  oak
-
-  leave'
-bip_39_word_new_line_7: 'pretty
-
-  deny
-
-  all
-
-  spider
-
-  oak
-
-  leave
-
-  boy'
-bip_39_word_new_line_8: 'pretty
-
-  deny
-
-  all
-
-  spider
-
-  oak
-
-  leave
-
-  boy
-
-  mention'
-bip_39_word_new_line_9: 'pretty
-
-  deny
-
-  all
-
-  spider
-
-  oak
-
-  leave
-
-  boy
-
-  mention
-
-  poverty'
-bip_39_word_no_space_1: pretty
-bip_39_word_no_space_10: prettydenyallspideroakleaveboymentionpovertyend
-bip_39_word_no_space_11: prettydenyallspideroakleaveboymentionpovertyenddepart
 bip_39_word_no_space_12: prettydenyallspideroakleaveboymentionpovertyenddepartaim
 bip_39_word_no_space_2: prettydeny
 bip_39_word_no_space_3: prettydenyall
-bip_39_word_no_space_4: prettydenyallspider
-bip_39_word_no_space_5: prettydenyallspideroak
-bip_39_word_no_space_6: prettydenyallspideroakleave
-bip_39_word_no_space_7: prettydenyallspideroakleaveboy
-bip_39_word_no_space_8: prettydenyallspideroakleaveboymention
-bip_39_word_no_space_9: prettydenyallspideroakleaveboymentionpoverty
-bip_39_word_space_0:
-- pretty
-- deny
-- all
-- spider
-- oak
-- leave
-- boy
-- mention
-- poverty
-- end
-- depart
-- aim
-bip_39_word_space_1: pretty
-bip_39_word_space_10: pretty deny all spider oak leave boy mention poverty end
-bip_39_word_space_11: pretty deny all spider oak leave boy mention poverty end depart
 bip_39_word_space_12: pretty deny all spider oak leave boy mention poverty end depart
   aim
 bip_39_word_space_2: pretty deny
 bip_39_word_space_3: pretty deny all
-bip_39_word_space_4: pretty deny all spider
-bip_39_word_space_5: pretty deny all spider oak
-bip_39_word_space_6: pretty deny all spider oak leave
-bip_39_word_space_7: pretty deny all spider oak leave boy
-bip_39_word_space_8: pretty deny all spider oak leave boy mention
-bip_39_word_space_9: pretty deny all spider oak leave boy mention poverty
-bip_39_word_underscore_1: pretty
-bip_39_word_underscore_10: pretty_deny_all_spider_oak_leave_boy_mention_poverty_end
-bip_39_word_underscore_11: pretty_deny_all_spider_oak_leave_boy_mention_poverty_end_depart
 bip_39_word_underscore_12: pretty_deny_all_spider_oak_leave_boy_mention_poverty_end_depart_aim
 bip_39_word_underscore_2: pretty_deny
 bip_39_word_underscore_3: pretty_deny_all
-bip_39_word_underscore_4: pretty_deny_all_spider
-bip_39_word_underscore_5: pretty_deny_all_spider_oak
-bip_39_word_underscore_6: pretty_deny_all_spider_oak_leave
-bip_39_word_underscore_7: pretty_deny_all_spider_oak_leave_boy
-bip_39_word_underscore_8: pretty_deny_all_spider_oak_leave_boy_mention
-bip_39_word_underscore_9: pretty_deny_all_spider_oak_leave_boy_mention_poverty
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

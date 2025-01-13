@@ -1,68 +1,9 @@
-bip_39_word_dash_1: someone
-bip_39_word_dash_10: someone-hat-abandon-become-bean-search-fine-bind-plastic-obvious
-bip_39_word_dash_11: someone-hat-abandon-become-bean-search-fine-bind-plastic-obvious-vote
 bip_39_word_dash_12: someone-hat-abandon-become-bean-search-fine-bind-plastic-obvious-vote-afraid
 bip_39_word_dash_2: someone-hat
 bip_39_word_dash_3: someone-hat-abandon
-bip_39_word_dash_4: someone-hat-abandon-become
-bip_39_word_dash_5: someone-hat-abandon-become-bean
-bip_39_word_dash_6: someone-hat-abandon-become-bean-search
-bip_39_word_dash_7: someone-hat-abandon-become-bean-search-fine
-bip_39_word_dash_8: someone-hat-abandon-become-bean-search-fine-bind
-bip_39_word_dash_9: someone-hat-abandon-become-bean-search-fine-bind-plastic
-bip_39_word_new_br_1: someone
-bip_39_word_new_br_10: someone<br>hat<br>abandon<br>become<br>bean<br>search<br>fine<br>bind<br>plastic<br>obvious
-bip_39_word_new_br_11: someone<br>hat<br>abandon<br>become<br>bean<br>search<br>fine<br>bind<br>plastic<br>obvious<br>vote
 bip_39_word_new_br_12: someone<br>hat<br>abandon<br>become<br>bean<br>search<br>fine<br>bind<br>plastic<br>obvious<br>vote<br>afraid
 bip_39_word_new_br_2: someone<br>hat
 bip_39_word_new_br_3: someone<br>hat<br>abandon
-bip_39_word_new_br_4: someone<br>hat<br>abandon<br>become
-bip_39_word_new_br_5: someone<br>hat<br>abandon<br>become<br>bean
-bip_39_word_new_br_6: someone<br>hat<br>abandon<br>become<br>bean<br>search
-bip_39_word_new_br_7: someone<br>hat<br>abandon<br>become<br>bean<br>search<br>fine
-bip_39_word_new_br_8: someone<br>hat<br>abandon<br>become<br>bean<br>search<br>fine<br>bind
-bip_39_word_new_br_9: someone<br>hat<br>abandon<br>become<br>bean<br>search<br>fine<br>bind<br>plastic
-bip_39_word_new_line_1: someone
-bip_39_word_new_line_10: 'someone
-
-  hat
-
-  abandon
-
-  become
-
-  bean
-
-  search
-
-  fine
-
-  bind
-
-  plastic
-
-  obvious'
-bip_39_word_new_line_11: 'someone
-
-  hat
-
-  abandon
-
-  become
-
-  bean
-
-  search
-
-  fine
-
-  bind
-
-  plastic
-
-  obvious
-
-  vote'
 bip_39_word_new_line_12: 'someone
 
   hat
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'someone
   hat
 
   abandon'
-bip_39_word_new_line_4: 'someone
-
-  hat
-
-  abandon
-
-  become'
-bip_39_word_new_line_5: 'someone
-
-  hat
-
-  abandon
-
-  become
-
-  bean'
-bip_39_word_new_line_6: 'someone
-
-  hat
-
-  abandon
-
-  become
-
-  bean
-
-  search'
-bip_39_word_new_line_7: 'someone
-
-  hat
-
-  abandon
-
-  become
-
-  bean
-
-  search
-
-  fine'
-bip_39_word_new_line_8: 'someone
-
-  hat
-
-  abandon
-
-  become
-
-  bean
-
-  search
-
-  fine
-
-  bind'
-bip_39_word_new_line_9: 'someone
-
-  hat
-
-  abandon
-
-  become
-
-  bean
-
-  search
-
-  fine
-
-  bind
-
-  plastic'
-bip_39_word_no_space_1: someone
-bip_39_word_no_space_10: someonehatabandonbecomebeansearchfinebindplasticobvious
-bip_39_word_no_space_11: someonehatabandonbecomebeansearchfinebindplasticobviousvote
 bip_39_word_no_space_12: someonehatabandonbecomebeansearchfinebindplasticobviousvoteafraid
 bip_39_word_no_space_2: someonehat
 bip_39_word_no_space_3: someonehatabandon
-bip_39_word_no_space_4: someonehatabandonbecome
-bip_39_word_no_space_5: someonehatabandonbecomebean
-bip_39_word_no_space_6: someonehatabandonbecomebeansearch
-bip_39_word_no_space_7: someonehatabandonbecomebeansearchfine
-bip_39_word_no_space_8: someonehatabandonbecomebeansearchfinebind
-bip_39_word_no_space_9: someonehatabandonbecomebeansearchfinebindplastic
-bip_39_word_space_0:
-- someone
-- hat
-- abandon
-- become
-- bean
-- search
-- fine
-- bind
-- plastic
-- obvious
-- vote
-- afraid
-bip_39_word_space_1: someone
-bip_39_word_space_10: someone hat abandon become bean search fine bind plastic obvious
-bip_39_word_space_11: someone hat abandon become bean search fine bind plastic obvious
-  vote
 bip_39_word_space_12: someone hat abandon become bean search fine bind plastic obvious
   vote afraid
 bip_39_word_space_2: someone hat
 bip_39_word_space_3: someone hat abandon
-bip_39_word_space_4: someone hat abandon become
-bip_39_word_space_5: someone hat abandon become bean
-bip_39_word_space_6: someone hat abandon become bean search
-bip_39_word_space_7: someone hat abandon become bean search fine
-bip_39_word_space_8: someone hat abandon become bean search fine bind
-bip_39_word_space_9: someone hat abandon become bean search fine bind plastic
-bip_39_word_underscore_1: someone
-bip_39_word_underscore_10: someone_hat_abandon_become_bean_search_fine_bind_plastic_obvious
-bip_39_word_underscore_11: someone_hat_abandon_become_bean_search_fine_bind_plastic_obvious_vote
 bip_39_word_underscore_12: someone_hat_abandon_become_bean_search_fine_bind_plastic_obvious_vote_afraid
 bip_39_word_underscore_2: someone_hat
 bip_39_word_underscore_3: someone_hat_abandon
-bip_39_word_underscore_4: someone_hat_abandon_become
-bip_39_word_underscore_5: someone_hat_abandon_become_bean
-bip_39_word_underscore_6: someone_hat_abandon_become_bean_search
-bip_39_word_underscore_7: someone_hat_abandon_become_bean_search_fine
-bip_39_word_underscore_8: someone_hat_abandon_become_bean_search_fine_bind
-bip_39_word_underscore_9: someone_hat_abandon_become_bean_search_fine_bind_plastic
 classification: project
 classification_capital: Project
 classification_first_letter: p

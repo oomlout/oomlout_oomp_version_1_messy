@@ -1,68 +1,9 @@
-bip_39_word_dash_1: script
-bip_39_word_dash_10: script-enemy-grief-sword-unusual-safe-unit-blouse-guard-junk
-bip_39_word_dash_11: script-enemy-grief-sword-unusual-safe-unit-blouse-guard-junk-trade
 bip_39_word_dash_12: script-enemy-grief-sword-unusual-safe-unit-blouse-guard-junk-trade-amazing
 bip_39_word_dash_2: script-enemy
 bip_39_word_dash_3: script-enemy-grief
-bip_39_word_dash_4: script-enemy-grief-sword
-bip_39_word_dash_5: script-enemy-grief-sword-unusual
-bip_39_word_dash_6: script-enemy-grief-sword-unusual-safe
-bip_39_word_dash_7: script-enemy-grief-sword-unusual-safe-unit
-bip_39_word_dash_8: script-enemy-grief-sword-unusual-safe-unit-blouse
-bip_39_word_dash_9: script-enemy-grief-sword-unusual-safe-unit-blouse-guard
-bip_39_word_new_br_1: script
-bip_39_word_new_br_10: script<br>enemy<br>grief<br>sword<br>unusual<br>safe<br>unit<br>blouse<br>guard<br>junk
-bip_39_word_new_br_11: script<br>enemy<br>grief<br>sword<br>unusual<br>safe<br>unit<br>blouse<br>guard<br>junk<br>trade
 bip_39_word_new_br_12: script<br>enemy<br>grief<br>sword<br>unusual<br>safe<br>unit<br>blouse<br>guard<br>junk<br>trade<br>amazing
 bip_39_word_new_br_2: script<br>enemy
 bip_39_word_new_br_3: script<br>enemy<br>grief
-bip_39_word_new_br_4: script<br>enemy<br>grief<br>sword
-bip_39_word_new_br_5: script<br>enemy<br>grief<br>sword<br>unusual
-bip_39_word_new_br_6: script<br>enemy<br>grief<br>sword<br>unusual<br>safe
-bip_39_word_new_br_7: script<br>enemy<br>grief<br>sword<br>unusual<br>safe<br>unit
-bip_39_word_new_br_8: script<br>enemy<br>grief<br>sword<br>unusual<br>safe<br>unit<br>blouse
-bip_39_word_new_br_9: script<br>enemy<br>grief<br>sword<br>unusual<br>safe<br>unit<br>blouse<br>guard
-bip_39_word_new_line_1: script
-bip_39_word_new_line_10: 'script
-
-  enemy
-
-  grief
-
-  sword
-
-  unusual
-
-  safe
-
-  unit
-
-  blouse
-
-  guard
-
-  junk'
-bip_39_word_new_line_11: 'script
-
-  enemy
-
-  grief
-
-  sword
-
-  unusual
-
-  safe
-
-  unit
-
-  blouse
-
-  guard
-
-  junk
-
-  trade'
 bip_39_word_new_line_12: 'script
 
   enemy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'script
   enemy
 
   grief'
-bip_39_word_new_line_4: 'script
-
-  enemy
-
-  grief
-
-  sword'
-bip_39_word_new_line_5: 'script
-
-  enemy
-
-  grief
-
-  sword
-
-  unusual'
-bip_39_word_new_line_6: 'script
-
-  enemy
-
-  grief
-
-  sword
-
-  unusual
-
-  safe'
-bip_39_word_new_line_7: 'script
-
-  enemy
-
-  grief
-
-  sword
-
-  unusual
-
-  safe
-
-  unit'
-bip_39_word_new_line_8: 'script
-
-  enemy
-
-  grief
-
-  sword
-
-  unusual
-
-  safe
-
-  unit
-
-  blouse'
-bip_39_word_new_line_9: 'script
-
-  enemy
-
-  grief
-
-  sword
-
-  unusual
-
-  safe
-
-  unit
-
-  blouse
-
-  guard'
-bip_39_word_no_space_1: script
-bip_39_word_no_space_10: scriptenemygriefswordunusualsafeunitblouseguardjunk
-bip_39_word_no_space_11: scriptenemygriefswordunusualsafeunitblouseguardjunktrade
 bip_39_word_no_space_12: scriptenemygriefswordunusualsafeunitblouseguardjunktradeamazing
 bip_39_word_no_space_2: scriptenemy
 bip_39_word_no_space_3: scriptenemygrief
-bip_39_word_no_space_4: scriptenemygriefsword
-bip_39_word_no_space_5: scriptenemygriefswordunusual
-bip_39_word_no_space_6: scriptenemygriefswordunusualsafe
-bip_39_word_no_space_7: scriptenemygriefswordunusualsafeunit
-bip_39_word_no_space_8: scriptenemygriefswordunusualsafeunitblouse
-bip_39_word_no_space_9: scriptenemygriefswordunusualsafeunitblouseguard
-bip_39_word_space_0:
-- script
-- enemy
-- grief
-- sword
-- unusual
-- safe
-- unit
-- blouse
-- guard
-- junk
-- trade
-- amazing
-bip_39_word_space_1: script
-bip_39_word_space_10: script enemy grief sword unusual safe unit blouse guard junk
-bip_39_word_space_11: script enemy grief sword unusual safe unit blouse guard junk
-  trade
 bip_39_word_space_12: script enemy grief sword unusual safe unit blouse guard junk
   trade amazing
 bip_39_word_space_2: script enemy
 bip_39_word_space_3: script enemy grief
-bip_39_word_space_4: script enemy grief sword
-bip_39_word_space_5: script enemy grief sword unusual
-bip_39_word_space_6: script enemy grief sword unusual safe
-bip_39_word_space_7: script enemy grief sword unusual safe unit
-bip_39_word_space_8: script enemy grief sword unusual safe unit blouse
-bip_39_word_space_9: script enemy grief sword unusual safe unit blouse guard
-bip_39_word_underscore_1: script
-bip_39_word_underscore_10: script_enemy_grief_sword_unusual_safe_unit_blouse_guard_junk
-bip_39_word_underscore_11: script_enemy_grief_sword_unusual_safe_unit_blouse_guard_junk_trade
 bip_39_word_underscore_12: script_enemy_grief_sword_unusual_safe_unit_blouse_guard_junk_trade_amazing
 bip_39_word_underscore_2: script_enemy
 bip_39_word_underscore_3: script_enemy_grief
-bip_39_word_underscore_4: script_enemy_grief_sword
-bip_39_word_underscore_5: script_enemy_grief_sword_unusual
-bip_39_word_underscore_6: script_enemy_grief_sword_unusual_safe
-bip_39_word_underscore_7: script_enemy_grief_sword_unusual_safe_unit
-bip_39_word_underscore_8: script_enemy_grief_sword_unusual_safe_unit_blouse
-bip_39_word_underscore_9: script_enemy_grief_sword_unusual_safe_unit_blouse_guard
 classification: category
 classification_capital: Category
 classification_first_letter: c

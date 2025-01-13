@@ -1,68 +1,9 @@
-bip_39_word_dash_1: couch
-bip_39_word_dash_10: couch-hunt-phone-drum-hurt-demise-radio-rail-room-measure
-bip_39_word_dash_11: couch-hunt-phone-drum-hurt-demise-radio-rail-room-measure-deliver
 bip_39_word_dash_12: couch-hunt-phone-drum-hurt-demise-radio-rail-room-measure-deliver-angry
 bip_39_word_dash_2: couch-hunt
 bip_39_word_dash_3: couch-hunt-phone
-bip_39_word_dash_4: couch-hunt-phone-drum
-bip_39_word_dash_5: couch-hunt-phone-drum-hurt
-bip_39_word_dash_6: couch-hunt-phone-drum-hurt-demise
-bip_39_word_dash_7: couch-hunt-phone-drum-hurt-demise-radio
-bip_39_word_dash_8: couch-hunt-phone-drum-hurt-demise-radio-rail
-bip_39_word_dash_9: couch-hunt-phone-drum-hurt-demise-radio-rail-room
-bip_39_word_new_br_1: couch
-bip_39_word_new_br_10: couch<br>hunt<br>phone<br>drum<br>hurt<br>demise<br>radio<br>rail<br>room<br>measure
-bip_39_word_new_br_11: couch<br>hunt<br>phone<br>drum<br>hurt<br>demise<br>radio<br>rail<br>room<br>measure<br>deliver
 bip_39_word_new_br_12: couch<br>hunt<br>phone<br>drum<br>hurt<br>demise<br>radio<br>rail<br>room<br>measure<br>deliver<br>angry
 bip_39_word_new_br_2: couch<br>hunt
 bip_39_word_new_br_3: couch<br>hunt<br>phone
-bip_39_word_new_br_4: couch<br>hunt<br>phone<br>drum
-bip_39_word_new_br_5: couch<br>hunt<br>phone<br>drum<br>hurt
-bip_39_word_new_br_6: couch<br>hunt<br>phone<br>drum<br>hurt<br>demise
-bip_39_word_new_br_7: couch<br>hunt<br>phone<br>drum<br>hurt<br>demise<br>radio
-bip_39_word_new_br_8: couch<br>hunt<br>phone<br>drum<br>hurt<br>demise<br>radio<br>rail
-bip_39_word_new_br_9: couch<br>hunt<br>phone<br>drum<br>hurt<br>demise<br>radio<br>rail<br>room
-bip_39_word_new_line_1: couch
-bip_39_word_new_line_10: 'couch
-
-  hunt
-
-  phone
-
-  drum
-
-  hurt
-
-  demise
-
-  radio
-
-  rail
-
-  room
-
-  measure'
-bip_39_word_new_line_11: 'couch
-
-  hunt
-
-  phone
-
-  drum
-
-  hurt
-
-  demise
-
-  radio
-
-  rail
-
-  room
-
-  measure
-
-  deliver'
 bip_39_word_new_line_12: 'couch
 
   hunt
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'couch
   hunt
 
   phone'
-bip_39_word_new_line_4: 'couch
-
-  hunt
-
-  phone
-
-  drum'
-bip_39_word_new_line_5: 'couch
-
-  hunt
-
-  phone
-
-  drum
-
-  hurt'
-bip_39_word_new_line_6: 'couch
-
-  hunt
-
-  phone
-
-  drum
-
-  hurt
-
-  demise'
-bip_39_word_new_line_7: 'couch
-
-  hunt
-
-  phone
-
-  drum
-
-  hurt
-
-  demise
-
-  radio'
-bip_39_word_new_line_8: 'couch
-
-  hunt
-
-  phone
-
-  drum
-
-  hurt
-
-  demise
-
-  radio
-
-  rail'
-bip_39_word_new_line_9: 'couch
-
-  hunt
-
-  phone
-
-  drum
-
-  hurt
-
-  demise
-
-  radio
-
-  rail
-
-  room'
-bip_39_word_no_space_1: couch
-bip_39_word_no_space_10: couchhuntphonedrumhurtdemiseradiorailroommeasure
-bip_39_word_no_space_11: couchhuntphonedrumhurtdemiseradiorailroommeasuredeliver
 bip_39_word_no_space_12: couchhuntphonedrumhurtdemiseradiorailroommeasuredeliverangry
 bip_39_word_no_space_2: couchhunt
 bip_39_word_no_space_3: couchhuntphone
-bip_39_word_no_space_4: couchhuntphonedrum
-bip_39_word_no_space_5: couchhuntphonedrumhurt
-bip_39_word_no_space_6: couchhuntphonedrumhurtdemise
-bip_39_word_no_space_7: couchhuntphonedrumhurtdemiseradio
-bip_39_word_no_space_8: couchhuntphonedrumhurtdemiseradiorail
-bip_39_word_no_space_9: couchhuntphonedrumhurtdemiseradiorailroom
-bip_39_word_space_0:
-- couch
-- hunt
-- phone
-- drum
-- hurt
-- demise
-- radio
-- rail
-- room
-- measure
-- deliver
-- angry
-bip_39_word_space_1: couch
-bip_39_word_space_10: couch hunt phone drum hurt demise radio rail room measure
-bip_39_word_space_11: couch hunt phone drum hurt demise radio rail room measure deliver
 bip_39_word_space_12: couch hunt phone drum hurt demise radio rail room measure deliver
   angry
 bip_39_word_space_2: couch hunt
 bip_39_word_space_3: couch hunt phone
-bip_39_word_space_4: couch hunt phone drum
-bip_39_word_space_5: couch hunt phone drum hurt
-bip_39_word_space_6: couch hunt phone drum hurt demise
-bip_39_word_space_7: couch hunt phone drum hurt demise radio
-bip_39_word_space_8: couch hunt phone drum hurt demise radio rail
-bip_39_word_space_9: couch hunt phone drum hurt demise radio rail room
-bip_39_word_underscore_1: couch
-bip_39_word_underscore_10: couch_hunt_phone_drum_hurt_demise_radio_rail_room_measure
-bip_39_word_underscore_11: couch_hunt_phone_drum_hurt_demise_radio_rail_room_measure_deliver
 bip_39_word_underscore_12: couch_hunt_phone_drum_hurt_demise_radio_rail_room_measure_deliver_angry
 bip_39_word_underscore_2: couch_hunt
 bip_39_word_underscore_3: couch_hunt_phone
-bip_39_word_underscore_4: couch_hunt_phone_drum
-bip_39_word_underscore_5: couch_hunt_phone_drum_hurt
-bip_39_word_underscore_6: couch_hunt_phone_drum_hurt_demise
-bip_39_word_underscore_7: couch_hunt_phone_drum_hurt_demise_radio
-bip_39_word_underscore_8: couch_hunt_phone_drum_hurt_demise_radio_rail
-bip_39_word_underscore_9: couch_hunt_phone_drum_hurt_demise_radio_rail_room
 classification: category
 classification_capital: Category
 classification_first_letter: c

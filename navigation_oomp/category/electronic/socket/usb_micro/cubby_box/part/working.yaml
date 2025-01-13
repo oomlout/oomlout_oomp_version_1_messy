@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shell
-bip_39_word_dash_10: shell-loop-glue-avocado-prefer-wedding-file-fine-tongue-speed
-bip_39_word_dash_11: shell-loop-glue-avocado-prefer-wedding-file-fine-tongue-speed-human
 bip_39_word_dash_12: shell-loop-glue-avocado-prefer-wedding-file-fine-tongue-speed-human-amateur
 bip_39_word_dash_2: shell-loop
 bip_39_word_dash_3: shell-loop-glue
-bip_39_word_dash_4: shell-loop-glue-avocado
-bip_39_word_dash_5: shell-loop-glue-avocado-prefer
-bip_39_word_dash_6: shell-loop-glue-avocado-prefer-wedding
-bip_39_word_dash_7: shell-loop-glue-avocado-prefer-wedding-file
-bip_39_word_dash_8: shell-loop-glue-avocado-prefer-wedding-file-fine
-bip_39_word_dash_9: shell-loop-glue-avocado-prefer-wedding-file-fine-tongue
-bip_39_word_new_br_1: shell
-bip_39_word_new_br_10: shell<br>loop<br>glue<br>avocado<br>prefer<br>wedding<br>file<br>fine<br>tongue<br>speed
-bip_39_word_new_br_11: shell<br>loop<br>glue<br>avocado<br>prefer<br>wedding<br>file<br>fine<br>tongue<br>speed<br>human
 bip_39_word_new_br_12: shell<br>loop<br>glue<br>avocado<br>prefer<br>wedding<br>file<br>fine<br>tongue<br>speed<br>human<br>amateur
 bip_39_word_new_br_2: shell<br>loop
 bip_39_word_new_br_3: shell<br>loop<br>glue
-bip_39_word_new_br_4: shell<br>loop<br>glue<br>avocado
-bip_39_word_new_br_5: shell<br>loop<br>glue<br>avocado<br>prefer
-bip_39_word_new_br_6: shell<br>loop<br>glue<br>avocado<br>prefer<br>wedding
-bip_39_word_new_br_7: shell<br>loop<br>glue<br>avocado<br>prefer<br>wedding<br>file
-bip_39_word_new_br_8: shell<br>loop<br>glue<br>avocado<br>prefer<br>wedding<br>file<br>fine
-bip_39_word_new_br_9: shell<br>loop<br>glue<br>avocado<br>prefer<br>wedding<br>file<br>fine<br>tongue
-bip_39_word_new_line_1: shell
-bip_39_word_new_line_10: 'shell
-
-  loop
-
-  glue
-
-  avocado
-
-  prefer
-
-  wedding
-
-  file
-
-  fine
-
-  tongue
-
-  speed'
-bip_39_word_new_line_11: 'shell
-
-  loop
-
-  glue
-
-  avocado
-
-  prefer
-
-  wedding
-
-  file
-
-  fine
-
-  tongue
-
-  speed
-
-  human'
 bip_39_word_new_line_12: 'shell
 
   loop
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shell
   loop
 
   glue'
-bip_39_word_new_line_4: 'shell
-
-  loop
-
-  glue
-
-  avocado'
-bip_39_word_new_line_5: 'shell
-
-  loop
-
-  glue
-
-  avocado
-
-  prefer'
-bip_39_word_new_line_6: 'shell
-
-  loop
-
-  glue
-
-  avocado
-
-  prefer
-
-  wedding'
-bip_39_word_new_line_7: 'shell
-
-  loop
-
-  glue
-
-  avocado
-
-  prefer
-
-  wedding
-
-  file'
-bip_39_word_new_line_8: 'shell
-
-  loop
-
-  glue
-
-  avocado
-
-  prefer
-
-  wedding
-
-  file
-
-  fine'
-bip_39_word_new_line_9: 'shell
-
-  loop
-
-  glue
-
-  avocado
-
-  prefer
-
-  wedding
-
-  file
-
-  fine
-
-  tongue'
-bip_39_word_no_space_1: shell
-bip_39_word_no_space_10: shellloopglueavocadopreferweddingfilefinetonguespeed
-bip_39_word_no_space_11: shellloopglueavocadopreferweddingfilefinetonguespeedhuman
 bip_39_word_no_space_12: shellloopglueavocadopreferweddingfilefinetonguespeedhumanamateur
 bip_39_word_no_space_2: shellloop
 bip_39_word_no_space_3: shellloopglue
-bip_39_word_no_space_4: shellloopglueavocado
-bip_39_word_no_space_5: shellloopglueavocadoprefer
-bip_39_word_no_space_6: shellloopglueavocadopreferwedding
-bip_39_word_no_space_7: shellloopglueavocadopreferweddingfile
-bip_39_word_no_space_8: shellloopglueavocadopreferweddingfilefine
-bip_39_word_no_space_9: shellloopglueavocadopreferweddingfilefinetongue
-bip_39_word_space_0:
-- shell
-- loop
-- glue
-- avocado
-- prefer
-- wedding
-- file
-- fine
-- tongue
-- speed
-- human
-- amateur
-bip_39_word_space_1: shell
-bip_39_word_space_10: shell loop glue avocado prefer wedding file fine tongue speed
-bip_39_word_space_11: shell loop glue avocado prefer wedding file fine tongue speed
-  human
 bip_39_word_space_12: shell loop glue avocado prefer wedding file fine tongue speed
   human amateur
 bip_39_word_space_2: shell loop
 bip_39_word_space_3: shell loop glue
-bip_39_word_space_4: shell loop glue avocado
-bip_39_word_space_5: shell loop glue avocado prefer
-bip_39_word_space_6: shell loop glue avocado prefer wedding
-bip_39_word_space_7: shell loop glue avocado prefer wedding file
-bip_39_word_space_8: shell loop glue avocado prefer wedding file fine
-bip_39_word_space_9: shell loop glue avocado prefer wedding file fine tongue
-bip_39_word_underscore_1: shell
-bip_39_word_underscore_10: shell_loop_glue_avocado_prefer_wedding_file_fine_tongue_speed
-bip_39_word_underscore_11: shell_loop_glue_avocado_prefer_wedding_file_fine_tongue_speed_human
 bip_39_word_underscore_12: shell_loop_glue_avocado_prefer_wedding_file_fine_tongue_speed_human_amateur
 bip_39_word_underscore_2: shell_loop
 bip_39_word_underscore_3: shell_loop_glue
-bip_39_word_underscore_4: shell_loop_glue_avocado
-bip_39_word_underscore_5: shell_loop_glue_avocado_prefer
-bip_39_word_underscore_6: shell_loop_glue_avocado_prefer_wedding
-bip_39_word_underscore_7: shell_loop_glue_avocado_prefer_wedding_file
-bip_39_word_underscore_8: shell_loop_glue_avocado_prefer_wedding_file_fine
-bip_39_word_underscore_9: shell_loop_glue_avocado_prefer_wedding_file_fine_tongue
 classification: category
 classification_capital: Category
 classification_first_letter: c

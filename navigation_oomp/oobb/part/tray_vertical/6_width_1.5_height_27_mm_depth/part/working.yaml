@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chimney
-bip_39_word_dash_10: chimney-bird-gallery-innocent-file-bag-repeat-artefact-frown-tower
-bip_39_word_dash_11: chimney-bird-gallery-innocent-file-bag-repeat-artefact-frown-tower-window
 bip_39_word_dash_12: chimney-bird-gallery-innocent-file-bag-repeat-artefact-frown-tower-window-alter
 bip_39_word_dash_2: chimney-bird
 bip_39_word_dash_3: chimney-bird-gallery
-bip_39_word_dash_4: chimney-bird-gallery-innocent
-bip_39_word_dash_5: chimney-bird-gallery-innocent-file
-bip_39_word_dash_6: chimney-bird-gallery-innocent-file-bag
-bip_39_word_dash_7: chimney-bird-gallery-innocent-file-bag-repeat
-bip_39_word_dash_8: chimney-bird-gallery-innocent-file-bag-repeat-artefact
-bip_39_word_dash_9: chimney-bird-gallery-innocent-file-bag-repeat-artefact-frown
-bip_39_word_new_br_1: chimney
-bip_39_word_new_br_10: chimney<br>bird<br>gallery<br>innocent<br>file<br>bag<br>repeat<br>artefact<br>frown<br>tower
-bip_39_word_new_br_11: chimney<br>bird<br>gallery<br>innocent<br>file<br>bag<br>repeat<br>artefact<br>frown<br>tower<br>window
 bip_39_word_new_br_12: chimney<br>bird<br>gallery<br>innocent<br>file<br>bag<br>repeat<br>artefact<br>frown<br>tower<br>window<br>alter
 bip_39_word_new_br_2: chimney<br>bird
 bip_39_word_new_br_3: chimney<br>bird<br>gallery
-bip_39_word_new_br_4: chimney<br>bird<br>gallery<br>innocent
-bip_39_word_new_br_5: chimney<br>bird<br>gallery<br>innocent<br>file
-bip_39_word_new_br_6: chimney<br>bird<br>gallery<br>innocent<br>file<br>bag
-bip_39_word_new_br_7: chimney<br>bird<br>gallery<br>innocent<br>file<br>bag<br>repeat
-bip_39_word_new_br_8: chimney<br>bird<br>gallery<br>innocent<br>file<br>bag<br>repeat<br>artefact
-bip_39_word_new_br_9: chimney<br>bird<br>gallery<br>innocent<br>file<br>bag<br>repeat<br>artefact<br>frown
-bip_39_word_new_line_1: chimney
-bip_39_word_new_line_10: 'chimney
-
-  bird
-
-  gallery
-
-  innocent
-
-  file
-
-  bag
-
-  repeat
-
-  artefact
-
-  frown
-
-  tower'
-bip_39_word_new_line_11: 'chimney
-
-  bird
-
-  gallery
-
-  innocent
-
-  file
-
-  bag
-
-  repeat
-
-  artefact
-
-  frown
-
-  tower
-
-  window'
 bip_39_word_new_line_12: 'chimney
 
   bird
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'chimney
   bird
 
   gallery'
-bip_39_word_new_line_4: 'chimney
-
-  bird
-
-  gallery
-
-  innocent'
-bip_39_word_new_line_5: 'chimney
-
-  bird
-
-  gallery
-
-  innocent
-
-  file'
-bip_39_word_new_line_6: 'chimney
-
-  bird
-
-  gallery
-
-  innocent
-
-  file
-
-  bag'
-bip_39_word_new_line_7: 'chimney
-
-  bird
-
-  gallery
-
-  innocent
-
-  file
-
-  bag
-
-  repeat'
-bip_39_word_new_line_8: 'chimney
-
-  bird
-
-  gallery
-
-  innocent
-
-  file
-
-  bag
-
-  repeat
-
-  artefact'
-bip_39_word_new_line_9: 'chimney
-
-  bird
-
-  gallery
-
-  innocent
-
-  file
-
-  bag
-
-  repeat
-
-  artefact
-
-  frown'
-bip_39_word_no_space_1: chimney
-bip_39_word_no_space_10: chimneybirdgalleryinnocentfilebagrepeatartefactfrowntower
-bip_39_word_no_space_11: chimneybirdgalleryinnocentfilebagrepeatartefactfrowntowerwindow
 bip_39_word_no_space_12: chimneybirdgalleryinnocentfilebagrepeatartefactfrowntowerwindowalter
 bip_39_word_no_space_2: chimneybird
 bip_39_word_no_space_3: chimneybirdgallery
-bip_39_word_no_space_4: chimneybirdgalleryinnocent
-bip_39_word_no_space_5: chimneybirdgalleryinnocentfile
-bip_39_word_no_space_6: chimneybirdgalleryinnocentfilebag
-bip_39_word_no_space_7: chimneybirdgalleryinnocentfilebagrepeat
-bip_39_word_no_space_8: chimneybirdgalleryinnocentfilebagrepeatartefact
-bip_39_word_no_space_9: chimneybirdgalleryinnocentfilebagrepeatartefactfrown
-bip_39_word_space_0:
-- chimney
-- bird
-- gallery
-- innocent
-- file
-- bag
-- repeat
-- artefact
-- frown
-- tower
-- window
-- alter
-bip_39_word_space_1: chimney
-bip_39_word_space_10: chimney bird gallery innocent file bag repeat artefact frown
-  tower
-bip_39_word_space_11: chimney bird gallery innocent file bag repeat artefact frown
-  tower window
 bip_39_word_space_12: chimney bird gallery innocent file bag repeat artefact frown
   tower window alter
 bip_39_word_space_2: chimney bird
 bip_39_word_space_3: chimney bird gallery
-bip_39_word_space_4: chimney bird gallery innocent
-bip_39_word_space_5: chimney bird gallery innocent file
-bip_39_word_space_6: chimney bird gallery innocent file bag
-bip_39_word_space_7: chimney bird gallery innocent file bag repeat
-bip_39_word_space_8: chimney bird gallery innocent file bag repeat artefact
-bip_39_word_space_9: chimney bird gallery innocent file bag repeat artefact frown
-bip_39_word_underscore_1: chimney
-bip_39_word_underscore_10: chimney_bird_gallery_innocent_file_bag_repeat_artefact_frown_tower
-bip_39_word_underscore_11: chimney_bird_gallery_innocent_file_bag_repeat_artefact_frown_tower_window
 bip_39_word_underscore_12: chimney_bird_gallery_innocent_file_bag_repeat_artefact_frown_tower_window_alter
 bip_39_word_underscore_2: chimney_bird
 bip_39_word_underscore_3: chimney_bird_gallery
-bip_39_word_underscore_4: chimney_bird_gallery_innocent
-bip_39_word_underscore_5: chimney_bird_gallery_innocent_file
-bip_39_word_underscore_6: chimney_bird_gallery_innocent_file_bag
-bip_39_word_underscore_7: chimney_bird_gallery_innocent_file_bag_repeat
-bip_39_word_underscore_8: chimney_bird_gallery_innocent_file_bag_repeat_artefact
-bip_39_word_underscore_9: chimney_bird_gallery_innocent_file_bag_repeat_artefact_frown
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

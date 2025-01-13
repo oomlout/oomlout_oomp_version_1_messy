@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sight
-bip_39_word_dash_10: sight-any-boss-travel-install-hurt-render-area-another-twelve
-bip_39_word_dash_11: sight-any-boss-travel-install-hurt-render-area-another-twelve-arrive
 bip_39_word_dash_12: sight-any-boss-travel-install-hurt-render-area-another-twelve-arrive-announce
 bip_39_word_dash_2: sight-any
 bip_39_word_dash_3: sight-any-boss
-bip_39_word_dash_4: sight-any-boss-travel
-bip_39_word_dash_5: sight-any-boss-travel-install
-bip_39_word_dash_6: sight-any-boss-travel-install-hurt
-bip_39_word_dash_7: sight-any-boss-travel-install-hurt-render
-bip_39_word_dash_8: sight-any-boss-travel-install-hurt-render-area
-bip_39_word_dash_9: sight-any-boss-travel-install-hurt-render-area-another
-bip_39_word_new_br_1: sight
-bip_39_word_new_br_10: sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve
-bip_39_word_new_br_11: sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve<br>arrive
 bip_39_word_new_br_12: sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another<br>twelve<br>arrive<br>announce
 bip_39_word_new_br_2: sight<br>any
 bip_39_word_new_br_3: sight<br>any<br>boss
-bip_39_word_new_br_4: sight<br>any<br>boss<br>travel
-bip_39_word_new_br_5: sight<br>any<br>boss<br>travel<br>install
-bip_39_word_new_br_6: sight<br>any<br>boss<br>travel<br>install<br>hurt
-bip_39_word_new_br_7: sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render
-bip_39_word_new_br_8: sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area
-bip_39_word_new_br_9: sight<br>any<br>boss<br>travel<br>install<br>hurt<br>render<br>area<br>another
-bip_39_word_new_line_1: sight
-bip_39_word_new_line_10: 'sight
-
-  any
-
-  boss
-
-  travel
-
-  install
-
-  hurt
-
-  render
-
-  area
-
-  another
-
-  twelve'
-bip_39_word_new_line_11: 'sight
-
-  any
-
-  boss
-
-  travel
-
-  install
-
-  hurt
-
-  render
-
-  area
-
-  another
-
-  twelve
-
-  arrive'
 bip_39_word_new_line_12: 'sight
 
   any
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sight
   any
 
   boss'
-bip_39_word_new_line_4: 'sight
-
-  any
-
-  boss
-
-  travel'
-bip_39_word_new_line_5: 'sight
-
-  any
-
-  boss
-
-  travel
-
-  install'
-bip_39_word_new_line_6: 'sight
-
-  any
-
-  boss
-
-  travel
-
-  install
-
-  hurt'
-bip_39_word_new_line_7: 'sight
-
-  any
-
-  boss
-
-  travel
-
-  install
-
-  hurt
-
-  render'
-bip_39_word_new_line_8: 'sight
-
-  any
-
-  boss
-
-  travel
-
-  install
-
-  hurt
-
-  render
-
-  area'
-bip_39_word_new_line_9: 'sight
-
-  any
-
-  boss
-
-  travel
-
-  install
-
-  hurt
-
-  render
-
-  area
-
-  another'
-bip_39_word_no_space_1: sight
-bip_39_word_no_space_10: sightanybosstravelinstallhurtrenderareaanothertwelve
-bip_39_word_no_space_11: sightanybosstravelinstallhurtrenderareaanothertwelvearrive
 bip_39_word_no_space_12: sightanybosstravelinstallhurtrenderareaanothertwelvearriveannounce
 bip_39_word_no_space_2: sightany
 bip_39_word_no_space_3: sightanyboss
-bip_39_word_no_space_4: sightanybosstravel
-bip_39_word_no_space_5: sightanybosstravelinstall
-bip_39_word_no_space_6: sightanybosstravelinstallhurt
-bip_39_word_no_space_7: sightanybosstravelinstallhurtrender
-bip_39_word_no_space_8: sightanybosstravelinstallhurtrenderarea
-bip_39_word_no_space_9: sightanybosstravelinstallhurtrenderareaanother
-bip_39_word_space_0:
-- sight
-- any
-- boss
-- travel
-- install
-- hurt
-- render
-- area
-- another
-- twelve
-- arrive
-- announce
-bip_39_word_space_1: sight
-bip_39_word_space_10: sight any boss travel install hurt render area another twelve
-bip_39_word_space_11: sight any boss travel install hurt render area another twelve
-  arrive
 bip_39_word_space_12: sight any boss travel install hurt render area another twelve
   arrive announce
 bip_39_word_space_2: sight any
 bip_39_word_space_3: sight any boss
-bip_39_word_space_4: sight any boss travel
-bip_39_word_space_5: sight any boss travel install
-bip_39_word_space_6: sight any boss travel install hurt
-bip_39_word_space_7: sight any boss travel install hurt render
-bip_39_word_space_8: sight any boss travel install hurt render area
-bip_39_word_space_9: sight any boss travel install hurt render area another
-bip_39_word_underscore_1: sight
-bip_39_word_underscore_10: sight_any_boss_travel_install_hurt_render_area_another_twelve
-bip_39_word_underscore_11: sight_any_boss_travel_install_hurt_render_area_another_twelve_arrive
 bip_39_word_underscore_12: sight_any_boss_travel_install_hurt_render_area_another_twelve_arrive_announce
 bip_39_word_underscore_2: sight_any
 bip_39_word_underscore_3: sight_any_boss
-bip_39_word_underscore_4: sight_any_boss_travel
-bip_39_word_underscore_5: sight_any_boss_travel_install
-bip_39_word_underscore_6: sight_any_boss_travel_install_hurt
-bip_39_word_underscore_7: sight_any_boss_travel_install_hurt_render
-bip_39_word_underscore_8: sight_any_boss_travel_install_hurt_render_area
-bip_39_word_underscore_9: sight_any_boss_travel_install_hurt_render_area_another
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

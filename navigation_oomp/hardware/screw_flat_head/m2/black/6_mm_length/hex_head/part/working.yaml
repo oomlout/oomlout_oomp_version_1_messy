@@ -1,68 +1,9 @@
-bip_39_word_dash_1: claw
-bip_39_word_dash_10: claw-what-manual-luggage-banana-plug-squirrel-custom-siege-vibrant
-bip_39_word_dash_11: claw-what-manual-luggage-banana-plug-squirrel-custom-siege-vibrant-hedgehog
 bip_39_word_dash_12: claw-what-manual-luggage-banana-plug-squirrel-custom-siege-vibrant-hedgehog-addict
 bip_39_word_dash_2: claw-what
 bip_39_word_dash_3: claw-what-manual
-bip_39_word_dash_4: claw-what-manual-luggage
-bip_39_word_dash_5: claw-what-manual-luggage-banana
-bip_39_word_dash_6: claw-what-manual-luggage-banana-plug
-bip_39_word_dash_7: claw-what-manual-luggage-banana-plug-squirrel
-bip_39_word_dash_8: claw-what-manual-luggage-banana-plug-squirrel-custom
-bip_39_word_dash_9: claw-what-manual-luggage-banana-plug-squirrel-custom-siege
-bip_39_word_new_br_1: claw
-bip_39_word_new_br_10: claw<br>what<br>manual<br>luggage<br>banana<br>plug<br>squirrel<br>custom<br>siege<br>vibrant
-bip_39_word_new_br_11: claw<br>what<br>manual<br>luggage<br>banana<br>plug<br>squirrel<br>custom<br>siege<br>vibrant<br>hedgehog
 bip_39_word_new_br_12: claw<br>what<br>manual<br>luggage<br>banana<br>plug<br>squirrel<br>custom<br>siege<br>vibrant<br>hedgehog<br>addict
 bip_39_word_new_br_2: claw<br>what
 bip_39_word_new_br_3: claw<br>what<br>manual
-bip_39_word_new_br_4: claw<br>what<br>manual<br>luggage
-bip_39_word_new_br_5: claw<br>what<br>manual<br>luggage<br>banana
-bip_39_word_new_br_6: claw<br>what<br>manual<br>luggage<br>banana<br>plug
-bip_39_word_new_br_7: claw<br>what<br>manual<br>luggage<br>banana<br>plug<br>squirrel
-bip_39_word_new_br_8: claw<br>what<br>manual<br>luggage<br>banana<br>plug<br>squirrel<br>custom
-bip_39_word_new_br_9: claw<br>what<br>manual<br>luggage<br>banana<br>plug<br>squirrel<br>custom<br>siege
-bip_39_word_new_line_1: claw
-bip_39_word_new_line_10: 'claw
-
-  what
-
-  manual
-
-  luggage
-
-  banana
-
-  plug
-
-  squirrel
-
-  custom
-
-  siege
-
-  vibrant'
-bip_39_word_new_line_11: 'claw
-
-  what
-
-  manual
-
-  luggage
-
-  banana
-
-  plug
-
-  squirrel
-
-  custom
-
-  siege
-
-  vibrant
-
-  hedgehog'
 bip_39_word_new_line_12: 'claw
 
   what
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'claw
   what
 
   manual'
-bip_39_word_new_line_4: 'claw
-
-  what
-
-  manual
-
-  luggage'
-bip_39_word_new_line_5: 'claw
-
-  what
-
-  manual
-
-  luggage
-
-  banana'
-bip_39_word_new_line_6: 'claw
-
-  what
-
-  manual
-
-  luggage
-
-  banana
-
-  plug'
-bip_39_word_new_line_7: 'claw
-
-  what
-
-  manual
-
-  luggage
-
-  banana
-
-  plug
-
-  squirrel'
-bip_39_word_new_line_8: 'claw
-
-  what
-
-  manual
-
-  luggage
-
-  banana
-
-  plug
-
-  squirrel
-
-  custom'
-bip_39_word_new_line_9: 'claw
-
-  what
-
-  manual
-
-  luggage
-
-  banana
-
-  plug
-
-  squirrel
-
-  custom
-
-  siege'
-bip_39_word_no_space_1: claw
-bip_39_word_no_space_10: clawwhatmanualluggagebananaplugsquirrelcustomsiegevibrant
-bip_39_word_no_space_11: clawwhatmanualluggagebananaplugsquirrelcustomsiegevibranthedgehog
 bip_39_word_no_space_12: clawwhatmanualluggagebananaplugsquirrelcustomsiegevibranthedgehogaddict
 bip_39_word_no_space_2: clawwhat
 bip_39_word_no_space_3: clawwhatmanual
-bip_39_word_no_space_4: clawwhatmanualluggage
-bip_39_word_no_space_5: clawwhatmanualluggagebanana
-bip_39_word_no_space_6: clawwhatmanualluggagebananaplug
-bip_39_word_no_space_7: clawwhatmanualluggagebananaplugsquirrel
-bip_39_word_no_space_8: clawwhatmanualluggagebananaplugsquirrelcustom
-bip_39_word_no_space_9: clawwhatmanualluggagebananaplugsquirrelcustomsiege
-bip_39_word_space_0:
-- claw
-- what
-- manual
-- luggage
-- banana
-- plug
-- squirrel
-- custom
-- siege
-- vibrant
-- hedgehog
-- addict
-bip_39_word_space_1: claw
-bip_39_word_space_10: claw what manual luggage banana plug squirrel custom siege vibrant
-bip_39_word_space_11: claw what manual luggage banana plug squirrel custom siege vibrant
-  hedgehog
 bip_39_word_space_12: claw what manual luggage banana plug squirrel custom siege vibrant
   hedgehog addict
 bip_39_word_space_2: claw what
 bip_39_word_space_3: claw what manual
-bip_39_word_space_4: claw what manual luggage
-bip_39_word_space_5: claw what manual luggage banana
-bip_39_word_space_6: claw what manual luggage banana plug
-bip_39_word_space_7: claw what manual luggage banana plug squirrel
-bip_39_word_space_8: claw what manual luggage banana plug squirrel custom
-bip_39_word_space_9: claw what manual luggage banana plug squirrel custom siege
-bip_39_word_underscore_1: claw
-bip_39_word_underscore_10: claw_what_manual_luggage_banana_plug_squirrel_custom_siege_vibrant
-bip_39_word_underscore_11: claw_what_manual_luggage_banana_plug_squirrel_custom_siege_vibrant_hedgehog
 bip_39_word_underscore_12: claw_what_manual_luggage_banana_plug_squirrel_custom_siege_vibrant_hedgehog_addict
 bip_39_word_underscore_2: claw_what
 bip_39_word_underscore_3: claw_what_manual
-bip_39_word_underscore_4: claw_what_manual_luggage
-bip_39_word_underscore_5: claw_what_manual_luggage_banana
-bip_39_word_underscore_6: claw_what_manual_luggage_banana_plug
-bip_39_word_underscore_7: claw_what_manual_luggage_banana_plug_squirrel
-bip_39_word_underscore_8: claw_what_manual_luggage_banana_plug_squirrel_custom
-bip_39_word_underscore_9: claw_what_manual_luggage_banana_plug_squirrel_custom_siege
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

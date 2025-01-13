@@ -1,68 +1,9 @@
-bip_39_word_dash_1: snake
-bip_39_word_dash_10: snake-fragile-notice-mule-seminar-multiply-copper-latin-canyon-purpose
-bip_39_word_dash_11: snake-fragile-notice-mule-seminar-multiply-copper-latin-canyon-purpose-regular
 bip_39_word_dash_12: snake-fragile-notice-mule-seminar-multiply-copper-latin-canyon-purpose-regular-able
 bip_39_word_dash_2: snake-fragile
 bip_39_word_dash_3: snake-fragile-notice
-bip_39_word_dash_4: snake-fragile-notice-mule
-bip_39_word_dash_5: snake-fragile-notice-mule-seminar
-bip_39_word_dash_6: snake-fragile-notice-mule-seminar-multiply
-bip_39_word_dash_7: snake-fragile-notice-mule-seminar-multiply-copper
-bip_39_word_dash_8: snake-fragile-notice-mule-seminar-multiply-copper-latin
-bip_39_word_dash_9: snake-fragile-notice-mule-seminar-multiply-copper-latin-canyon
-bip_39_word_new_br_1: snake
-bip_39_word_new_br_10: snake<br>fragile<br>notice<br>mule<br>seminar<br>multiply<br>copper<br>latin<br>canyon<br>purpose
-bip_39_word_new_br_11: snake<br>fragile<br>notice<br>mule<br>seminar<br>multiply<br>copper<br>latin<br>canyon<br>purpose<br>regular
 bip_39_word_new_br_12: snake<br>fragile<br>notice<br>mule<br>seminar<br>multiply<br>copper<br>latin<br>canyon<br>purpose<br>regular<br>able
 bip_39_word_new_br_2: snake<br>fragile
 bip_39_word_new_br_3: snake<br>fragile<br>notice
-bip_39_word_new_br_4: snake<br>fragile<br>notice<br>mule
-bip_39_word_new_br_5: snake<br>fragile<br>notice<br>mule<br>seminar
-bip_39_word_new_br_6: snake<br>fragile<br>notice<br>mule<br>seminar<br>multiply
-bip_39_word_new_br_7: snake<br>fragile<br>notice<br>mule<br>seminar<br>multiply<br>copper
-bip_39_word_new_br_8: snake<br>fragile<br>notice<br>mule<br>seminar<br>multiply<br>copper<br>latin
-bip_39_word_new_br_9: snake<br>fragile<br>notice<br>mule<br>seminar<br>multiply<br>copper<br>latin<br>canyon
-bip_39_word_new_line_1: snake
-bip_39_word_new_line_10: 'snake
-
-  fragile
-
-  notice
-
-  mule
-
-  seminar
-
-  multiply
-
-  copper
-
-  latin
-
-  canyon
-
-  purpose'
-bip_39_word_new_line_11: 'snake
-
-  fragile
-
-  notice
-
-  mule
-
-  seminar
-
-  multiply
-
-  copper
-
-  latin
-
-  canyon
-
-  purpose
-
-  regular'
 bip_39_word_new_line_12: 'snake
 
   fragile
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'snake
   fragile
 
   notice'
-bip_39_word_new_line_4: 'snake
-
-  fragile
-
-  notice
-
-  mule'
-bip_39_word_new_line_5: 'snake
-
-  fragile
-
-  notice
-
-  mule
-
-  seminar'
-bip_39_word_new_line_6: 'snake
-
-  fragile
-
-  notice
-
-  mule
-
-  seminar
-
-  multiply'
-bip_39_word_new_line_7: 'snake
-
-  fragile
-
-  notice
-
-  mule
-
-  seminar
-
-  multiply
-
-  copper'
-bip_39_word_new_line_8: 'snake
-
-  fragile
-
-  notice
-
-  mule
-
-  seminar
-
-  multiply
-
-  copper
-
-  latin'
-bip_39_word_new_line_9: 'snake
-
-  fragile
-
-  notice
-
-  mule
-
-  seminar
-
-  multiply
-
-  copper
-
-  latin
-
-  canyon'
-bip_39_word_no_space_1: snake
-bip_39_word_no_space_10: snakefragilenoticemuleseminarmultiplycopperlatincanyonpurpose
-bip_39_word_no_space_11: snakefragilenoticemuleseminarmultiplycopperlatincanyonpurposeregular
 bip_39_word_no_space_12: snakefragilenoticemuleseminarmultiplycopperlatincanyonpurposeregularable
 bip_39_word_no_space_2: snakefragile
 bip_39_word_no_space_3: snakefragilenotice
-bip_39_word_no_space_4: snakefragilenoticemule
-bip_39_word_no_space_5: snakefragilenoticemuleseminar
-bip_39_word_no_space_6: snakefragilenoticemuleseminarmultiply
-bip_39_word_no_space_7: snakefragilenoticemuleseminarmultiplycopper
-bip_39_word_no_space_8: snakefragilenoticemuleseminarmultiplycopperlatin
-bip_39_word_no_space_9: snakefragilenoticemuleseminarmultiplycopperlatincanyon
-bip_39_word_space_0:
-- snake
-- fragile
-- notice
-- mule
-- seminar
-- multiply
-- copper
-- latin
-- canyon
-- purpose
-- regular
-- able
-bip_39_word_space_1: snake
-bip_39_word_space_10: snake fragile notice mule seminar multiply copper latin canyon
-  purpose
-bip_39_word_space_11: snake fragile notice mule seminar multiply copper latin canyon
-  purpose regular
 bip_39_word_space_12: snake fragile notice mule seminar multiply copper latin canyon
   purpose regular able
 bip_39_word_space_2: snake fragile
 bip_39_word_space_3: snake fragile notice
-bip_39_word_space_4: snake fragile notice mule
-bip_39_word_space_5: snake fragile notice mule seminar
-bip_39_word_space_6: snake fragile notice mule seminar multiply
-bip_39_word_space_7: snake fragile notice mule seminar multiply copper
-bip_39_word_space_8: snake fragile notice mule seminar multiply copper latin
-bip_39_word_space_9: snake fragile notice mule seminar multiply copper latin canyon
-bip_39_word_underscore_1: snake
-bip_39_word_underscore_10: snake_fragile_notice_mule_seminar_multiply_copper_latin_canyon_purpose
-bip_39_word_underscore_11: snake_fragile_notice_mule_seminar_multiply_copper_latin_canyon_purpose_regular
 bip_39_word_underscore_12: snake_fragile_notice_mule_seminar_multiply_copper_latin_canyon_purpose_regular_able
 bip_39_word_underscore_2: snake_fragile
 bip_39_word_underscore_3: snake_fragile_notice
-bip_39_word_underscore_4: snake_fragile_notice_mule
-bip_39_word_underscore_5: snake_fragile_notice_mule_seminar
-bip_39_word_underscore_6: snake_fragile_notice_mule_seminar_multiply
-bip_39_word_underscore_7: snake_fragile_notice_mule_seminar_multiply_copper
-bip_39_word_underscore_8: snake_fragile_notice_mule_seminar_multiply_copper_latin
-bip_39_word_underscore_9: snake_fragile_notice_mule_seminar_multiply_copper_latin_canyon
 classification: category
 classification_capital: Category
 classification_first_letter: c

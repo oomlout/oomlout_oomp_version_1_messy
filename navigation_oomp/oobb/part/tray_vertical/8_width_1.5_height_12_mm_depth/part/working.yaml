@@ -1,68 +1,9 @@
-bip_39_word_dash_1: soft
-bip_39_word_dash_10: soft-age-lend-flat-sail-mountain-culture-hand-snap-canal
-bip_39_word_dash_11: soft-age-lend-flat-sail-mountain-culture-hand-snap-canal-snap
 bip_39_word_dash_12: soft-age-lend-flat-sail-mountain-culture-hand-snap-canal-snap-assume
 bip_39_word_dash_2: soft-age
 bip_39_word_dash_3: soft-age-lend
-bip_39_word_dash_4: soft-age-lend-flat
-bip_39_word_dash_5: soft-age-lend-flat-sail
-bip_39_word_dash_6: soft-age-lend-flat-sail-mountain
-bip_39_word_dash_7: soft-age-lend-flat-sail-mountain-culture
-bip_39_word_dash_8: soft-age-lend-flat-sail-mountain-culture-hand
-bip_39_word_dash_9: soft-age-lend-flat-sail-mountain-culture-hand-snap
-bip_39_word_new_br_1: soft
-bip_39_word_new_br_10: soft<br>age<br>lend<br>flat<br>sail<br>mountain<br>culture<br>hand<br>snap<br>canal
-bip_39_word_new_br_11: soft<br>age<br>lend<br>flat<br>sail<br>mountain<br>culture<br>hand<br>snap<br>canal<br>snap
 bip_39_word_new_br_12: soft<br>age<br>lend<br>flat<br>sail<br>mountain<br>culture<br>hand<br>snap<br>canal<br>snap<br>assume
 bip_39_word_new_br_2: soft<br>age
 bip_39_word_new_br_3: soft<br>age<br>lend
-bip_39_word_new_br_4: soft<br>age<br>lend<br>flat
-bip_39_word_new_br_5: soft<br>age<br>lend<br>flat<br>sail
-bip_39_word_new_br_6: soft<br>age<br>lend<br>flat<br>sail<br>mountain
-bip_39_word_new_br_7: soft<br>age<br>lend<br>flat<br>sail<br>mountain<br>culture
-bip_39_word_new_br_8: soft<br>age<br>lend<br>flat<br>sail<br>mountain<br>culture<br>hand
-bip_39_word_new_br_9: soft<br>age<br>lend<br>flat<br>sail<br>mountain<br>culture<br>hand<br>snap
-bip_39_word_new_line_1: soft
-bip_39_word_new_line_10: 'soft
-
-  age
-
-  lend
-
-  flat
-
-  sail
-
-  mountain
-
-  culture
-
-  hand
-
-  snap
-
-  canal'
-bip_39_word_new_line_11: 'soft
-
-  age
-
-  lend
-
-  flat
-
-  sail
-
-  mountain
-
-  culture
-
-  hand
-
-  snap
-
-  canal
-
-  snap'
 bip_39_word_new_line_12: 'soft
 
   age
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'soft
   age
 
   lend'
-bip_39_word_new_line_4: 'soft
-
-  age
-
-  lend
-
-  flat'
-bip_39_word_new_line_5: 'soft
-
-  age
-
-  lend
-
-  flat
-
-  sail'
-bip_39_word_new_line_6: 'soft
-
-  age
-
-  lend
-
-  flat
-
-  sail
-
-  mountain'
-bip_39_word_new_line_7: 'soft
-
-  age
-
-  lend
-
-  flat
-
-  sail
-
-  mountain
-
-  culture'
-bip_39_word_new_line_8: 'soft
-
-  age
-
-  lend
-
-  flat
-
-  sail
-
-  mountain
-
-  culture
-
-  hand'
-bip_39_word_new_line_9: 'soft
-
-  age
-
-  lend
-
-  flat
-
-  sail
-
-  mountain
-
-  culture
-
-  hand
-
-  snap'
-bip_39_word_no_space_1: soft
-bip_39_word_no_space_10: softagelendflatsailmountainculturehandsnapcanal
-bip_39_word_no_space_11: softagelendflatsailmountainculturehandsnapcanalsnap
 bip_39_word_no_space_12: softagelendflatsailmountainculturehandsnapcanalsnapassume
 bip_39_word_no_space_2: softage
 bip_39_word_no_space_3: softagelend
-bip_39_word_no_space_4: softagelendflat
-bip_39_word_no_space_5: softagelendflatsail
-bip_39_word_no_space_6: softagelendflatsailmountain
-bip_39_word_no_space_7: softagelendflatsailmountainculture
-bip_39_word_no_space_8: softagelendflatsailmountainculturehand
-bip_39_word_no_space_9: softagelendflatsailmountainculturehandsnap
-bip_39_word_space_0:
-- soft
-- age
-- lend
-- flat
-- sail
-- mountain
-- culture
-- hand
-- snap
-- canal
-- snap
-- assume
-bip_39_word_space_1: soft
-bip_39_word_space_10: soft age lend flat sail mountain culture hand snap canal
-bip_39_word_space_11: soft age lend flat sail mountain culture hand snap canal snap
 bip_39_word_space_12: soft age lend flat sail mountain culture hand snap canal snap
   assume
 bip_39_word_space_2: soft age
 bip_39_word_space_3: soft age lend
-bip_39_word_space_4: soft age lend flat
-bip_39_word_space_5: soft age lend flat sail
-bip_39_word_space_6: soft age lend flat sail mountain
-bip_39_word_space_7: soft age lend flat sail mountain culture
-bip_39_word_space_8: soft age lend flat sail mountain culture hand
-bip_39_word_space_9: soft age lend flat sail mountain culture hand snap
-bip_39_word_underscore_1: soft
-bip_39_word_underscore_10: soft_age_lend_flat_sail_mountain_culture_hand_snap_canal
-bip_39_word_underscore_11: soft_age_lend_flat_sail_mountain_culture_hand_snap_canal_snap
 bip_39_word_underscore_12: soft_age_lend_flat_sail_mountain_culture_hand_snap_canal_snap_assume
 bip_39_word_underscore_2: soft_age
 bip_39_word_underscore_3: soft_age_lend
-bip_39_word_underscore_4: soft_age_lend_flat
-bip_39_word_underscore_5: soft_age_lend_flat_sail
-bip_39_word_underscore_6: soft_age_lend_flat_sail_mountain
-bip_39_word_underscore_7: soft_age_lend_flat_sail_mountain_culture
-bip_39_word_underscore_8: soft_age_lend_flat_sail_mountain_culture_hand
-bip_39_word_underscore_9: soft_age_lend_flat_sail_mountain_culture_hand_snap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

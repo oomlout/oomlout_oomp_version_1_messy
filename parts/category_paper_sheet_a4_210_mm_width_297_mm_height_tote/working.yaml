@@ -1,68 +1,9 @@
-bip_39_word_dash_1: age
-bip_39_word_dash_10: age-ship-work-what-bonus-entry-alarm-seminar-step-moral
-bip_39_word_dash_11: age-ship-work-what-bonus-entry-alarm-seminar-step-moral-stem
 bip_39_word_dash_12: age-ship-work-what-bonus-entry-alarm-seminar-step-moral-stem-aunt
 bip_39_word_dash_2: age-ship
 bip_39_word_dash_3: age-ship-work
-bip_39_word_dash_4: age-ship-work-what
-bip_39_word_dash_5: age-ship-work-what-bonus
-bip_39_word_dash_6: age-ship-work-what-bonus-entry
-bip_39_word_dash_7: age-ship-work-what-bonus-entry-alarm
-bip_39_word_dash_8: age-ship-work-what-bonus-entry-alarm-seminar
-bip_39_word_dash_9: age-ship-work-what-bonus-entry-alarm-seminar-step
-bip_39_word_new_br_1: age
-bip_39_word_new_br_10: age<br>ship<br>work<br>what<br>bonus<br>entry<br>alarm<br>seminar<br>step<br>moral
-bip_39_word_new_br_11: age<br>ship<br>work<br>what<br>bonus<br>entry<br>alarm<br>seminar<br>step<br>moral<br>stem
 bip_39_word_new_br_12: age<br>ship<br>work<br>what<br>bonus<br>entry<br>alarm<br>seminar<br>step<br>moral<br>stem<br>aunt
 bip_39_word_new_br_2: age<br>ship
 bip_39_word_new_br_3: age<br>ship<br>work
-bip_39_word_new_br_4: age<br>ship<br>work<br>what
-bip_39_word_new_br_5: age<br>ship<br>work<br>what<br>bonus
-bip_39_word_new_br_6: age<br>ship<br>work<br>what<br>bonus<br>entry
-bip_39_word_new_br_7: age<br>ship<br>work<br>what<br>bonus<br>entry<br>alarm
-bip_39_word_new_br_8: age<br>ship<br>work<br>what<br>bonus<br>entry<br>alarm<br>seminar
-bip_39_word_new_br_9: age<br>ship<br>work<br>what<br>bonus<br>entry<br>alarm<br>seminar<br>step
-bip_39_word_new_line_1: age
-bip_39_word_new_line_10: 'age
-
-  ship
-
-  work
-
-  what
-
-  bonus
-
-  entry
-
-  alarm
-
-  seminar
-
-  step
-
-  moral'
-bip_39_word_new_line_11: 'age
-
-  ship
-
-  work
-
-  what
-
-  bonus
-
-  entry
-
-  alarm
-
-  seminar
-
-  step
-
-  moral
-
-  stem'
 bip_39_word_new_line_12: 'age
 
   ship
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'age
   ship
 
   work'
-bip_39_word_new_line_4: 'age
-
-  ship
-
-  work
-
-  what'
-bip_39_word_new_line_5: 'age
-
-  ship
-
-  work
-
-  what
-
-  bonus'
-bip_39_word_new_line_6: 'age
-
-  ship
-
-  work
-
-  what
-
-  bonus
-
-  entry'
-bip_39_word_new_line_7: 'age
-
-  ship
-
-  work
-
-  what
-
-  bonus
-
-  entry
-
-  alarm'
-bip_39_word_new_line_8: 'age
-
-  ship
-
-  work
-
-  what
-
-  bonus
-
-  entry
-
-  alarm
-
-  seminar'
-bip_39_word_new_line_9: 'age
-
-  ship
-
-  work
-
-  what
-
-  bonus
-
-  entry
-
-  alarm
-
-  seminar
-
-  step'
-bip_39_word_no_space_1: age
-bip_39_word_no_space_10: ageshipworkwhatbonusentryalarmseminarstepmoral
-bip_39_word_no_space_11: ageshipworkwhatbonusentryalarmseminarstepmoralstem
 bip_39_word_no_space_12: ageshipworkwhatbonusentryalarmseminarstepmoralstemaunt
 bip_39_word_no_space_2: ageship
 bip_39_word_no_space_3: ageshipwork
-bip_39_word_no_space_4: ageshipworkwhat
-bip_39_word_no_space_5: ageshipworkwhatbonus
-bip_39_word_no_space_6: ageshipworkwhatbonusentry
-bip_39_word_no_space_7: ageshipworkwhatbonusentryalarm
-bip_39_word_no_space_8: ageshipworkwhatbonusentryalarmseminar
-bip_39_word_no_space_9: ageshipworkwhatbonusentryalarmseminarstep
-bip_39_word_space_0:
-- age
-- ship
-- work
-- what
-- bonus
-- entry
-- alarm
-- seminar
-- step
-- moral
-- stem
-- aunt
-bip_39_word_space_1: age
-bip_39_word_space_10: age ship work what bonus entry alarm seminar step moral
-bip_39_word_space_11: age ship work what bonus entry alarm seminar step moral stem
 bip_39_word_space_12: age ship work what bonus entry alarm seminar step moral stem
   aunt
 bip_39_word_space_2: age ship
 bip_39_word_space_3: age ship work
-bip_39_word_space_4: age ship work what
-bip_39_word_space_5: age ship work what bonus
-bip_39_word_space_6: age ship work what bonus entry
-bip_39_word_space_7: age ship work what bonus entry alarm
-bip_39_word_space_8: age ship work what bonus entry alarm seminar
-bip_39_word_space_9: age ship work what bonus entry alarm seminar step
-bip_39_word_underscore_1: age
-bip_39_word_underscore_10: age_ship_work_what_bonus_entry_alarm_seminar_step_moral
-bip_39_word_underscore_11: age_ship_work_what_bonus_entry_alarm_seminar_step_moral_stem
 bip_39_word_underscore_12: age_ship_work_what_bonus_entry_alarm_seminar_step_moral_stem_aunt
 bip_39_word_underscore_2: age_ship
 bip_39_word_underscore_3: age_ship_work
-bip_39_word_underscore_4: age_ship_work_what
-bip_39_word_underscore_5: age_ship_work_what_bonus
-bip_39_word_underscore_6: age_ship_work_what_bonus_entry
-bip_39_word_underscore_7: age_ship_work_what_bonus_entry_alarm
-bip_39_word_underscore_8: age_ship_work_what_bonus_entry_alarm_seminar
-bip_39_word_underscore_9: age_ship_work_what_bonus_entry_alarm_seminar_step
 classification: category
 classification_capital: Category
 classification_first_letter: c

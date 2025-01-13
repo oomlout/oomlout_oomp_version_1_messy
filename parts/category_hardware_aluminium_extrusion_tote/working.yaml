@@ -1,68 +1,9 @@
-bip_39_word_dash_1: swim
-bip_39_word_dash_10: swim-sun-pyramid-sing-call-course-pledge-swim-heavy-eager
-bip_39_word_dash_11: swim-sun-pyramid-sing-call-course-pledge-swim-heavy-eager-sorry
 bip_39_word_dash_12: swim-sun-pyramid-sing-call-course-pledge-swim-heavy-eager-sorry-aisle
 bip_39_word_dash_2: swim-sun
 bip_39_word_dash_3: swim-sun-pyramid
-bip_39_word_dash_4: swim-sun-pyramid-sing
-bip_39_word_dash_5: swim-sun-pyramid-sing-call
-bip_39_word_dash_6: swim-sun-pyramid-sing-call-course
-bip_39_word_dash_7: swim-sun-pyramid-sing-call-course-pledge
-bip_39_word_dash_8: swim-sun-pyramid-sing-call-course-pledge-swim
-bip_39_word_dash_9: swim-sun-pyramid-sing-call-course-pledge-swim-heavy
-bip_39_word_new_br_1: swim
-bip_39_word_new_br_10: swim<br>sun<br>pyramid<br>sing<br>call<br>course<br>pledge<br>swim<br>heavy<br>eager
-bip_39_word_new_br_11: swim<br>sun<br>pyramid<br>sing<br>call<br>course<br>pledge<br>swim<br>heavy<br>eager<br>sorry
 bip_39_word_new_br_12: swim<br>sun<br>pyramid<br>sing<br>call<br>course<br>pledge<br>swim<br>heavy<br>eager<br>sorry<br>aisle
 bip_39_word_new_br_2: swim<br>sun
 bip_39_word_new_br_3: swim<br>sun<br>pyramid
-bip_39_word_new_br_4: swim<br>sun<br>pyramid<br>sing
-bip_39_word_new_br_5: swim<br>sun<br>pyramid<br>sing<br>call
-bip_39_word_new_br_6: swim<br>sun<br>pyramid<br>sing<br>call<br>course
-bip_39_word_new_br_7: swim<br>sun<br>pyramid<br>sing<br>call<br>course<br>pledge
-bip_39_word_new_br_8: swim<br>sun<br>pyramid<br>sing<br>call<br>course<br>pledge<br>swim
-bip_39_word_new_br_9: swim<br>sun<br>pyramid<br>sing<br>call<br>course<br>pledge<br>swim<br>heavy
-bip_39_word_new_line_1: swim
-bip_39_word_new_line_10: 'swim
-
-  sun
-
-  pyramid
-
-  sing
-
-  call
-
-  course
-
-  pledge
-
-  swim
-
-  heavy
-
-  eager'
-bip_39_word_new_line_11: 'swim
-
-  sun
-
-  pyramid
-
-  sing
-
-  call
-
-  course
-
-  pledge
-
-  swim
-
-  heavy
-
-  eager
-
-  sorry'
 bip_39_word_new_line_12: 'swim
 
   sun
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'swim
   sun
 
   pyramid'
-bip_39_word_new_line_4: 'swim
-
-  sun
-
-  pyramid
-
-  sing'
-bip_39_word_new_line_5: 'swim
-
-  sun
-
-  pyramid
-
-  sing
-
-  call'
-bip_39_word_new_line_6: 'swim
-
-  sun
-
-  pyramid
-
-  sing
-
-  call
-
-  course'
-bip_39_word_new_line_7: 'swim
-
-  sun
-
-  pyramid
-
-  sing
-
-  call
-
-  course
-
-  pledge'
-bip_39_word_new_line_8: 'swim
-
-  sun
-
-  pyramid
-
-  sing
-
-  call
-
-  course
-
-  pledge
-
-  swim'
-bip_39_word_new_line_9: 'swim
-
-  sun
-
-  pyramid
-
-  sing
-
-  call
-
-  course
-
-  pledge
-
-  swim
-
-  heavy'
-bip_39_word_no_space_1: swim
-bip_39_word_no_space_10: swimsunpyramidsingcallcoursepledgeswimheavyeager
-bip_39_word_no_space_11: swimsunpyramidsingcallcoursepledgeswimheavyeagersorry
 bip_39_word_no_space_12: swimsunpyramidsingcallcoursepledgeswimheavyeagersorryaisle
 bip_39_word_no_space_2: swimsun
 bip_39_word_no_space_3: swimsunpyramid
-bip_39_word_no_space_4: swimsunpyramidsing
-bip_39_word_no_space_5: swimsunpyramidsingcall
-bip_39_word_no_space_6: swimsunpyramidsingcallcourse
-bip_39_word_no_space_7: swimsunpyramidsingcallcoursepledge
-bip_39_word_no_space_8: swimsunpyramidsingcallcoursepledgeswim
-bip_39_word_no_space_9: swimsunpyramidsingcallcoursepledgeswimheavy
-bip_39_word_space_0:
-- swim
-- sun
-- pyramid
-- sing
-- call
-- course
-- pledge
-- swim
-- heavy
-- eager
-- sorry
-- aisle
-bip_39_word_space_1: swim
-bip_39_word_space_10: swim sun pyramid sing call course pledge swim heavy eager
-bip_39_word_space_11: swim sun pyramid sing call course pledge swim heavy eager sorry
 bip_39_word_space_12: swim sun pyramid sing call course pledge swim heavy eager sorry
   aisle
 bip_39_word_space_2: swim sun
 bip_39_word_space_3: swim sun pyramid
-bip_39_word_space_4: swim sun pyramid sing
-bip_39_word_space_5: swim sun pyramid sing call
-bip_39_word_space_6: swim sun pyramid sing call course
-bip_39_word_space_7: swim sun pyramid sing call course pledge
-bip_39_word_space_8: swim sun pyramid sing call course pledge swim
-bip_39_word_space_9: swim sun pyramid sing call course pledge swim heavy
-bip_39_word_underscore_1: swim
-bip_39_word_underscore_10: swim_sun_pyramid_sing_call_course_pledge_swim_heavy_eager
-bip_39_word_underscore_11: swim_sun_pyramid_sing_call_course_pledge_swim_heavy_eager_sorry
 bip_39_word_underscore_12: swim_sun_pyramid_sing_call_course_pledge_swim_heavy_eager_sorry_aisle
 bip_39_word_underscore_2: swim_sun
 bip_39_word_underscore_3: swim_sun_pyramid
-bip_39_word_underscore_4: swim_sun_pyramid_sing
-bip_39_word_underscore_5: swim_sun_pyramid_sing_call
-bip_39_word_underscore_6: swim_sun_pyramid_sing_call_course
-bip_39_word_underscore_7: swim_sun_pyramid_sing_call_course_pledge
-bip_39_word_underscore_8: swim_sun_pyramid_sing_call_course_pledge_swim
-bip_39_word_underscore_9: swim_sun_pyramid_sing_call_course_pledge_swim_heavy
 classification: category
 classification_capital: Category
 classification_first_letter: c

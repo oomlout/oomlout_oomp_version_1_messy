@@ -1,68 +1,9 @@
-bip_39_word_dash_1: carry
-bip_39_word_dash_10: carry-isolate-boil-hunt-swamp-slight-make-motor-common-approve
-bip_39_word_dash_11: carry-isolate-boil-hunt-swamp-slight-make-motor-common-approve-daughter
 bip_39_word_dash_12: carry-isolate-boil-hunt-swamp-slight-make-motor-common-approve-daughter-already
 bip_39_word_dash_2: carry-isolate
 bip_39_word_dash_3: carry-isolate-boil
-bip_39_word_dash_4: carry-isolate-boil-hunt
-bip_39_word_dash_5: carry-isolate-boil-hunt-swamp
-bip_39_word_dash_6: carry-isolate-boil-hunt-swamp-slight
-bip_39_word_dash_7: carry-isolate-boil-hunt-swamp-slight-make
-bip_39_word_dash_8: carry-isolate-boil-hunt-swamp-slight-make-motor
-bip_39_word_dash_9: carry-isolate-boil-hunt-swamp-slight-make-motor-common
-bip_39_word_new_br_1: carry
-bip_39_word_new_br_10: carry<br>isolate<br>boil<br>hunt<br>swamp<br>slight<br>make<br>motor<br>common<br>approve
-bip_39_word_new_br_11: carry<br>isolate<br>boil<br>hunt<br>swamp<br>slight<br>make<br>motor<br>common<br>approve<br>daughter
 bip_39_word_new_br_12: carry<br>isolate<br>boil<br>hunt<br>swamp<br>slight<br>make<br>motor<br>common<br>approve<br>daughter<br>already
 bip_39_word_new_br_2: carry<br>isolate
 bip_39_word_new_br_3: carry<br>isolate<br>boil
-bip_39_word_new_br_4: carry<br>isolate<br>boil<br>hunt
-bip_39_word_new_br_5: carry<br>isolate<br>boil<br>hunt<br>swamp
-bip_39_word_new_br_6: carry<br>isolate<br>boil<br>hunt<br>swamp<br>slight
-bip_39_word_new_br_7: carry<br>isolate<br>boil<br>hunt<br>swamp<br>slight<br>make
-bip_39_word_new_br_8: carry<br>isolate<br>boil<br>hunt<br>swamp<br>slight<br>make<br>motor
-bip_39_word_new_br_9: carry<br>isolate<br>boil<br>hunt<br>swamp<br>slight<br>make<br>motor<br>common
-bip_39_word_new_line_1: carry
-bip_39_word_new_line_10: 'carry
-
-  isolate
-
-  boil
-
-  hunt
-
-  swamp
-
-  slight
-
-  make
-
-  motor
-
-  common
-
-  approve'
-bip_39_word_new_line_11: 'carry
-
-  isolate
-
-  boil
-
-  hunt
-
-  swamp
-
-  slight
-
-  make
-
-  motor
-
-  common
-
-  approve
-
-  daughter'
 bip_39_word_new_line_12: 'carry
 
   isolate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'carry
   isolate
 
   boil'
-bip_39_word_new_line_4: 'carry
-
-  isolate
-
-  boil
-
-  hunt'
-bip_39_word_new_line_5: 'carry
-
-  isolate
-
-  boil
-
-  hunt
-
-  swamp'
-bip_39_word_new_line_6: 'carry
-
-  isolate
-
-  boil
-
-  hunt
-
-  swamp
-
-  slight'
-bip_39_word_new_line_7: 'carry
-
-  isolate
-
-  boil
-
-  hunt
-
-  swamp
-
-  slight
-
-  make'
-bip_39_word_new_line_8: 'carry
-
-  isolate
-
-  boil
-
-  hunt
-
-  swamp
-
-  slight
-
-  make
-
-  motor'
-bip_39_word_new_line_9: 'carry
-
-  isolate
-
-  boil
-
-  hunt
-
-  swamp
-
-  slight
-
-  make
-
-  motor
-
-  common'
-bip_39_word_no_space_1: carry
-bip_39_word_no_space_10: carryisolateboilhuntswampslightmakemotorcommonapprove
-bip_39_word_no_space_11: carryisolateboilhuntswampslightmakemotorcommonapprovedaughter
 bip_39_word_no_space_12: carryisolateboilhuntswampslightmakemotorcommonapprovedaughteralready
 bip_39_word_no_space_2: carryisolate
 bip_39_word_no_space_3: carryisolateboil
-bip_39_word_no_space_4: carryisolateboilhunt
-bip_39_word_no_space_5: carryisolateboilhuntswamp
-bip_39_word_no_space_6: carryisolateboilhuntswampslight
-bip_39_word_no_space_7: carryisolateboilhuntswampslightmake
-bip_39_word_no_space_8: carryisolateboilhuntswampslightmakemotor
-bip_39_word_no_space_9: carryisolateboilhuntswampslightmakemotorcommon
-bip_39_word_space_0:
-- carry
-- isolate
-- boil
-- hunt
-- swamp
-- slight
-- make
-- motor
-- common
-- approve
-- daughter
-- already
-bip_39_word_space_1: carry
-bip_39_word_space_10: carry isolate boil hunt swamp slight make motor common approve
-bip_39_word_space_11: carry isolate boil hunt swamp slight make motor common approve
-  daughter
 bip_39_word_space_12: carry isolate boil hunt swamp slight make motor common approve
   daughter already
 bip_39_word_space_2: carry isolate
 bip_39_word_space_3: carry isolate boil
-bip_39_word_space_4: carry isolate boil hunt
-bip_39_word_space_5: carry isolate boil hunt swamp
-bip_39_word_space_6: carry isolate boil hunt swamp slight
-bip_39_word_space_7: carry isolate boil hunt swamp slight make
-bip_39_word_space_8: carry isolate boil hunt swamp slight make motor
-bip_39_word_space_9: carry isolate boil hunt swamp slight make motor common
-bip_39_word_underscore_1: carry
-bip_39_word_underscore_10: carry_isolate_boil_hunt_swamp_slight_make_motor_common_approve
-bip_39_word_underscore_11: carry_isolate_boil_hunt_swamp_slight_make_motor_common_approve_daughter
 bip_39_word_underscore_12: carry_isolate_boil_hunt_swamp_slight_make_motor_common_approve_daughter_already
 bip_39_word_underscore_2: carry_isolate
 bip_39_word_underscore_3: carry_isolate_boil
-bip_39_word_underscore_4: carry_isolate_boil_hunt
-bip_39_word_underscore_5: carry_isolate_boil_hunt_swamp
-bip_39_word_underscore_6: carry_isolate_boil_hunt_swamp_slight
-bip_39_word_underscore_7: carry_isolate_boil_hunt_swamp_slight_make
-bip_39_word_underscore_8: carry_isolate_boil_hunt_swamp_slight_make_motor
-bip_39_word_underscore_9: carry_isolate_boil_hunt_swamp_slight_make_motor_common
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

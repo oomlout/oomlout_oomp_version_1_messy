@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uniform
-bip_39_word_dash_10: uniform-planet-bus-nose-summer-detect-patrol-joy-love-morning
-bip_39_word_dash_11: uniform-planet-bus-nose-summer-detect-patrol-joy-love-morning-install
 bip_39_word_dash_12: uniform-planet-bus-nose-summer-detect-patrol-joy-love-morning-install-apart
 bip_39_word_dash_2: uniform-planet
 bip_39_word_dash_3: uniform-planet-bus
-bip_39_word_dash_4: uniform-planet-bus-nose
-bip_39_word_dash_5: uniform-planet-bus-nose-summer
-bip_39_word_dash_6: uniform-planet-bus-nose-summer-detect
-bip_39_word_dash_7: uniform-planet-bus-nose-summer-detect-patrol
-bip_39_word_dash_8: uniform-planet-bus-nose-summer-detect-patrol-joy
-bip_39_word_dash_9: uniform-planet-bus-nose-summer-detect-patrol-joy-love
-bip_39_word_new_br_1: uniform
-bip_39_word_new_br_10: uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning
-bip_39_word_new_br_11: uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning<br>install
 bip_39_word_new_br_12: uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love<br>morning<br>install<br>apart
 bip_39_word_new_br_2: uniform<br>planet
 bip_39_word_new_br_3: uniform<br>planet<br>bus
-bip_39_word_new_br_4: uniform<br>planet<br>bus<br>nose
-bip_39_word_new_br_5: uniform<br>planet<br>bus<br>nose<br>summer
-bip_39_word_new_br_6: uniform<br>planet<br>bus<br>nose<br>summer<br>detect
-bip_39_word_new_br_7: uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol
-bip_39_word_new_br_8: uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy
-bip_39_word_new_br_9: uniform<br>planet<br>bus<br>nose<br>summer<br>detect<br>patrol<br>joy<br>love
-bip_39_word_new_line_1: uniform
-bip_39_word_new_line_10: 'uniform
-
-  planet
-
-  bus
-
-  nose
-
-  summer
-
-  detect
-
-  patrol
-
-  joy
-
-  love
-
-  morning'
-bip_39_word_new_line_11: 'uniform
-
-  planet
-
-  bus
-
-  nose
-
-  summer
-
-  detect
-
-  patrol
-
-  joy
-
-  love
-
-  morning
-
-  install'
 bip_39_word_new_line_12: 'uniform
 
   planet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'uniform
   planet
 
   bus'
-bip_39_word_new_line_4: 'uniform
-
-  planet
-
-  bus
-
-  nose'
-bip_39_word_new_line_5: 'uniform
-
-  planet
-
-  bus
-
-  nose
-
-  summer'
-bip_39_word_new_line_6: 'uniform
-
-  planet
-
-  bus
-
-  nose
-
-  summer
-
-  detect'
-bip_39_word_new_line_7: 'uniform
-
-  planet
-
-  bus
-
-  nose
-
-  summer
-
-  detect
-
-  patrol'
-bip_39_word_new_line_8: 'uniform
-
-  planet
-
-  bus
-
-  nose
-
-  summer
-
-  detect
-
-  patrol
-
-  joy'
-bip_39_word_new_line_9: 'uniform
-
-  planet
-
-  bus
-
-  nose
-
-  summer
-
-  detect
-
-  patrol
-
-  joy
-
-  love'
-bip_39_word_no_space_1: uniform
-bip_39_word_no_space_10: uniformplanetbusnosesummerdetectpatroljoylovemorning
-bip_39_word_no_space_11: uniformplanetbusnosesummerdetectpatroljoylovemorninginstall
 bip_39_word_no_space_12: uniformplanetbusnosesummerdetectpatroljoylovemorninginstallapart
 bip_39_word_no_space_2: uniformplanet
 bip_39_word_no_space_3: uniformplanetbus
-bip_39_word_no_space_4: uniformplanetbusnose
-bip_39_word_no_space_5: uniformplanetbusnosesummer
-bip_39_word_no_space_6: uniformplanetbusnosesummerdetect
-bip_39_word_no_space_7: uniformplanetbusnosesummerdetectpatrol
-bip_39_word_no_space_8: uniformplanetbusnosesummerdetectpatroljoy
-bip_39_word_no_space_9: uniformplanetbusnosesummerdetectpatroljoylove
-bip_39_word_space_0:
-- uniform
-- planet
-- bus
-- nose
-- summer
-- detect
-- patrol
-- joy
-- love
-- morning
-- install
-- apart
-bip_39_word_space_1: uniform
-bip_39_word_space_10: uniform planet bus nose summer detect patrol joy love morning
-bip_39_word_space_11: uniform planet bus nose summer detect patrol joy love morning
-  install
 bip_39_word_space_12: uniform planet bus nose summer detect patrol joy love morning
   install apart
 bip_39_word_space_2: uniform planet
 bip_39_word_space_3: uniform planet bus
-bip_39_word_space_4: uniform planet bus nose
-bip_39_word_space_5: uniform planet bus nose summer
-bip_39_word_space_6: uniform planet bus nose summer detect
-bip_39_word_space_7: uniform planet bus nose summer detect patrol
-bip_39_word_space_8: uniform planet bus nose summer detect patrol joy
-bip_39_word_space_9: uniform planet bus nose summer detect patrol joy love
-bip_39_word_underscore_1: uniform
-bip_39_word_underscore_10: uniform_planet_bus_nose_summer_detect_patrol_joy_love_morning
-bip_39_word_underscore_11: uniform_planet_bus_nose_summer_detect_patrol_joy_love_morning_install
 bip_39_word_underscore_12: uniform_planet_bus_nose_summer_detect_patrol_joy_love_morning_install_apart
 bip_39_word_underscore_2: uniform_planet
 bip_39_word_underscore_3: uniform_planet_bus
-bip_39_word_underscore_4: uniform_planet_bus_nose
-bip_39_word_underscore_5: uniform_planet_bus_nose_summer
-bip_39_word_underscore_6: uniform_planet_bus_nose_summer_detect
-bip_39_word_underscore_7: uniform_planet_bus_nose_summer_detect_patrol
-bip_39_word_underscore_8: uniform_planet_bus_nose_summer_detect_patrol_joy
-bip_39_word_underscore_9: uniform_planet_bus_nose_summer_detect_patrol_joy_love
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

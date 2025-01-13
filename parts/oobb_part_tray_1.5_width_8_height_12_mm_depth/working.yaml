@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ensure
-bip_39_word_dash_10: ensure-never-machine-stove-text-insane-destroy-find-ahead-cotton
-bip_39_word_dash_11: ensure-never-machine-stove-text-insane-destroy-find-ahead-cotton-quarter
 bip_39_word_dash_12: ensure-never-machine-stove-text-insane-destroy-find-ahead-cotton-quarter-asset
 bip_39_word_dash_2: ensure-never
 bip_39_word_dash_3: ensure-never-machine
-bip_39_word_dash_4: ensure-never-machine-stove
-bip_39_word_dash_5: ensure-never-machine-stove-text
-bip_39_word_dash_6: ensure-never-machine-stove-text-insane
-bip_39_word_dash_7: ensure-never-machine-stove-text-insane-destroy
-bip_39_word_dash_8: ensure-never-machine-stove-text-insane-destroy-find
-bip_39_word_dash_9: ensure-never-machine-stove-text-insane-destroy-find-ahead
-bip_39_word_new_br_1: ensure
-bip_39_word_new_br_10: ensure<br>never<br>machine<br>stove<br>text<br>insane<br>destroy<br>find<br>ahead<br>cotton
-bip_39_word_new_br_11: ensure<br>never<br>machine<br>stove<br>text<br>insane<br>destroy<br>find<br>ahead<br>cotton<br>quarter
 bip_39_word_new_br_12: ensure<br>never<br>machine<br>stove<br>text<br>insane<br>destroy<br>find<br>ahead<br>cotton<br>quarter<br>asset
 bip_39_word_new_br_2: ensure<br>never
 bip_39_word_new_br_3: ensure<br>never<br>machine
-bip_39_word_new_br_4: ensure<br>never<br>machine<br>stove
-bip_39_word_new_br_5: ensure<br>never<br>machine<br>stove<br>text
-bip_39_word_new_br_6: ensure<br>never<br>machine<br>stove<br>text<br>insane
-bip_39_word_new_br_7: ensure<br>never<br>machine<br>stove<br>text<br>insane<br>destroy
-bip_39_word_new_br_8: ensure<br>never<br>machine<br>stove<br>text<br>insane<br>destroy<br>find
-bip_39_word_new_br_9: ensure<br>never<br>machine<br>stove<br>text<br>insane<br>destroy<br>find<br>ahead
-bip_39_word_new_line_1: ensure
-bip_39_word_new_line_10: 'ensure
-
-  never
-
-  machine
-
-  stove
-
-  text
-
-  insane
-
-  destroy
-
-  find
-
-  ahead
-
-  cotton'
-bip_39_word_new_line_11: 'ensure
-
-  never
-
-  machine
-
-  stove
-
-  text
-
-  insane
-
-  destroy
-
-  find
-
-  ahead
-
-  cotton
-
-  quarter'
 bip_39_word_new_line_12: 'ensure
 
   never
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ensure
   never
 
   machine'
-bip_39_word_new_line_4: 'ensure
-
-  never
-
-  machine
-
-  stove'
-bip_39_word_new_line_5: 'ensure
-
-  never
-
-  machine
-
-  stove
-
-  text'
-bip_39_word_new_line_6: 'ensure
-
-  never
-
-  machine
-
-  stove
-
-  text
-
-  insane'
-bip_39_word_new_line_7: 'ensure
-
-  never
-
-  machine
-
-  stove
-
-  text
-
-  insane
-
-  destroy'
-bip_39_word_new_line_8: 'ensure
-
-  never
-
-  machine
-
-  stove
-
-  text
-
-  insane
-
-  destroy
-
-  find'
-bip_39_word_new_line_9: 'ensure
-
-  never
-
-  machine
-
-  stove
-
-  text
-
-  insane
-
-  destroy
-
-  find
-
-  ahead'
-bip_39_word_no_space_1: ensure
-bip_39_word_no_space_10: ensurenevermachinestovetextinsanedestroyfindaheadcotton
-bip_39_word_no_space_11: ensurenevermachinestovetextinsanedestroyfindaheadcottonquarter
 bip_39_word_no_space_12: ensurenevermachinestovetextinsanedestroyfindaheadcottonquarterasset
 bip_39_word_no_space_2: ensurenever
 bip_39_word_no_space_3: ensurenevermachine
-bip_39_word_no_space_4: ensurenevermachinestove
-bip_39_word_no_space_5: ensurenevermachinestovetext
-bip_39_word_no_space_6: ensurenevermachinestovetextinsane
-bip_39_word_no_space_7: ensurenevermachinestovetextinsanedestroy
-bip_39_word_no_space_8: ensurenevermachinestovetextinsanedestroyfind
-bip_39_word_no_space_9: ensurenevermachinestovetextinsanedestroyfindahead
-bip_39_word_space_0:
-- ensure
-- never
-- machine
-- stove
-- text
-- insane
-- destroy
-- find
-- ahead
-- cotton
-- quarter
-- asset
-bip_39_word_space_1: ensure
-bip_39_word_space_10: ensure never machine stove text insane destroy find ahead cotton
-bip_39_word_space_11: ensure never machine stove text insane destroy find ahead cotton
-  quarter
 bip_39_word_space_12: ensure never machine stove text insane destroy find ahead cotton
   quarter asset
 bip_39_word_space_2: ensure never
 bip_39_word_space_3: ensure never machine
-bip_39_word_space_4: ensure never machine stove
-bip_39_word_space_5: ensure never machine stove text
-bip_39_word_space_6: ensure never machine stove text insane
-bip_39_word_space_7: ensure never machine stove text insane destroy
-bip_39_word_space_8: ensure never machine stove text insane destroy find
-bip_39_word_space_9: ensure never machine stove text insane destroy find ahead
-bip_39_word_underscore_1: ensure
-bip_39_word_underscore_10: ensure_never_machine_stove_text_insane_destroy_find_ahead_cotton
-bip_39_word_underscore_11: ensure_never_machine_stove_text_insane_destroy_find_ahead_cotton_quarter
 bip_39_word_underscore_12: ensure_never_machine_stove_text_insane_destroy_find_ahead_cotton_quarter_asset
 bip_39_word_underscore_2: ensure_never
 bip_39_word_underscore_3: ensure_never_machine
-bip_39_word_underscore_4: ensure_never_machine_stove
-bip_39_word_underscore_5: ensure_never_machine_stove_text
-bip_39_word_underscore_6: ensure_never_machine_stove_text_insane
-bip_39_word_underscore_7: ensure_never_machine_stove_text_insane_destroy
-bip_39_word_underscore_8: ensure_never_machine_stove_text_insane_destroy_find
-bip_39_word_underscore_9: ensure_never_machine_stove_text_insane_destroy_find_ahead
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

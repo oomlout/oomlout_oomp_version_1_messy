@@ -1,68 +1,9 @@
-bip_39_word_dash_1: 'off'
-bip_39_word_dash_10: off-potato-daughter-merry-gasp-decorate-label-own-suggest-few
-bip_39_word_dash_11: off-potato-daughter-merry-gasp-decorate-label-own-suggest-few-stomach
 bip_39_word_dash_12: off-potato-daughter-merry-gasp-decorate-label-own-suggest-few-stomach-adapt
 bip_39_word_dash_2: off-potato
 bip_39_word_dash_3: off-potato-daughter
-bip_39_word_dash_4: off-potato-daughter-merry
-bip_39_word_dash_5: off-potato-daughter-merry-gasp
-bip_39_word_dash_6: off-potato-daughter-merry-gasp-decorate
-bip_39_word_dash_7: off-potato-daughter-merry-gasp-decorate-label
-bip_39_word_dash_8: off-potato-daughter-merry-gasp-decorate-label-own
-bip_39_word_dash_9: off-potato-daughter-merry-gasp-decorate-label-own-suggest
-bip_39_word_new_br_1: 'off'
-bip_39_word_new_br_10: off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest<br>few
-bip_39_word_new_br_11: off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest<br>few<br>stomach
 bip_39_word_new_br_12: off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest<br>few<br>stomach<br>adapt
 bip_39_word_new_br_2: off<br>potato
 bip_39_word_new_br_3: off<br>potato<br>daughter
-bip_39_word_new_br_4: off<br>potato<br>daughter<br>merry
-bip_39_word_new_br_5: off<br>potato<br>daughter<br>merry<br>gasp
-bip_39_word_new_br_6: off<br>potato<br>daughter<br>merry<br>gasp<br>decorate
-bip_39_word_new_br_7: off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label
-bip_39_word_new_br_8: off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own
-bip_39_word_new_br_9: off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest
-bip_39_word_new_line_1: 'off'
-bip_39_word_new_line_10: 'off
-
-  potato
-
-  daughter
-
-  merry
-
-  gasp
-
-  decorate
-
-  label
-
-  own
-
-  suggest
-
-  few'
-bip_39_word_new_line_11: 'off
-
-  potato
-
-  daughter
-
-  merry
-
-  gasp
-
-  decorate
-
-  label
-
-  own
-
-  suggest
-
-  few
-
-  stomach'
 bip_39_word_new_line_12: 'off
 
   potato
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'off
   potato
 
   daughter'
-bip_39_word_new_line_4: 'off
-
-  potato
-
-  daughter
-
-  merry'
-bip_39_word_new_line_5: 'off
-
-  potato
-
-  daughter
-
-  merry
-
-  gasp'
-bip_39_word_new_line_6: 'off
-
-  potato
-
-  daughter
-
-  merry
-
-  gasp
-
-  decorate'
-bip_39_word_new_line_7: 'off
-
-  potato
-
-  daughter
-
-  merry
-
-  gasp
-
-  decorate
-
-  label'
-bip_39_word_new_line_8: 'off
-
-  potato
-
-  daughter
-
-  merry
-
-  gasp
-
-  decorate
-
-  label
-
-  own'
-bip_39_word_new_line_9: 'off
-
-  potato
-
-  daughter
-
-  merry
-
-  gasp
-
-  decorate
-
-  label
-
-  own
-
-  suggest'
-bip_39_word_no_space_1: 'off'
-bip_39_word_no_space_10: offpotatodaughtermerrygaspdecoratelabelownsuggestfew
-bip_39_word_no_space_11: offpotatodaughtermerrygaspdecoratelabelownsuggestfewstomach
 bip_39_word_no_space_12: offpotatodaughtermerrygaspdecoratelabelownsuggestfewstomachadapt
 bip_39_word_no_space_2: offpotato
 bip_39_word_no_space_3: offpotatodaughter
-bip_39_word_no_space_4: offpotatodaughtermerry
-bip_39_word_no_space_5: offpotatodaughtermerrygasp
-bip_39_word_no_space_6: offpotatodaughtermerrygaspdecorate
-bip_39_word_no_space_7: offpotatodaughtermerrygaspdecoratelabel
-bip_39_word_no_space_8: offpotatodaughtermerrygaspdecoratelabelown
-bip_39_word_no_space_9: offpotatodaughtermerrygaspdecoratelabelownsuggest
-bip_39_word_space_0:
-- 'off'
-- potato
-- daughter
-- merry
-- gasp
-- decorate
-- label
-- own
-- suggest
-- few
-- stomach
-- adapt
-bip_39_word_space_1: 'off'
-bip_39_word_space_10: off potato daughter merry gasp decorate label own suggest few
-bip_39_word_space_11: off potato daughter merry gasp decorate label own suggest few
-  stomach
 bip_39_word_space_12: off potato daughter merry gasp decorate label own suggest few
   stomach adapt
 bip_39_word_space_2: off potato
 bip_39_word_space_3: off potato daughter
-bip_39_word_space_4: off potato daughter merry
-bip_39_word_space_5: off potato daughter merry gasp
-bip_39_word_space_6: off potato daughter merry gasp decorate
-bip_39_word_space_7: off potato daughter merry gasp decorate label
-bip_39_word_space_8: off potato daughter merry gasp decorate label own
-bip_39_word_space_9: off potato daughter merry gasp decorate label own suggest
-bip_39_word_underscore_1: 'off'
-bip_39_word_underscore_10: off_potato_daughter_merry_gasp_decorate_label_own_suggest_few
-bip_39_word_underscore_11: off_potato_daughter_merry_gasp_decorate_label_own_suggest_few_stomach
 bip_39_word_underscore_12: off_potato_daughter_merry_gasp_decorate_label_own_suggest_few_stomach_adapt
 bip_39_word_underscore_2: off_potato
 bip_39_word_underscore_3: off_potato_daughter
-bip_39_word_underscore_4: off_potato_daughter_merry
-bip_39_word_underscore_5: off_potato_daughter_merry_gasp
-bip_39_word_underscore_6: off_potato_daughter_merry_gasp_decorate
-bip_39_word_underscore_7: off_potato_daughter_merry_gasp_decorate_label
-bip_39_word_underscore_8: off_potato_daughter_merry_gasp_decorate_label_own
-bip_39_word_underscore_9: off_potato_daughter_merry_gasp_decorate_label_own_suggest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

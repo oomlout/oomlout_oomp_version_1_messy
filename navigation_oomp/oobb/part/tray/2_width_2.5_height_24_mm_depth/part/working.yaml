@@ -1,68 +1,9 @@
-bip_39_word_dash_1: echo
-bip_39_word_dash_10: echo-echo-tone-enroll-rural-keen-immune-trash-clump-victory
-bip_39_word_dash_11: echo-echo-tone-enroll-rural-keen-immune-trash-clump-victory-luxury
 bip_39_word_dash_12: echo-echo-tone-enroll-rural-keen-immune-trash-clump-victory-luxury-arrest
 bip_39_word_dash_2: echo-echo
 bip_39_word_dash_3: echo-echo-tone
-bip_39_word_dash_4: echo-echo-tone-enroll
-bip_39_word_dash_5: echo-echo-tone-enroll-rural
-bip_39_word_dash_6: echo-echo-tone-enroll-rural-keen
-bip_39_word_dash_7: echo-echo-tone-enroll-rural-keen-immune
-bip_39_word_dash_8: echo-echo-tone-enroll-rural-keen-immune-trash
-bip_39_word_dash_9: echo-echo-tone-enroll-rural-keen-immune-trash-clump
-bip_39_word_new_br_1: echo
-bip_39_word_new_br_10: echo<br>echo<br>tone<br>enroll<br>rural<br>keen<br>immune<br>trash<br>clump<br>victory
-bip_39_word_new_br_11: echo<br>echo<br>tone<br>enroll<br>rural<br>keen<br>immune<br>trash<br>clump<br>victory<br>luxury
 bip_39_word_new_br_12: echo<br>echo<br>tone<br>enroll<br>rural<br>keen<br>immune<br>trash<br>clump<br>victory<br>luxury<br>arrest
 bip_39_word_new_br_2: echo<br>echo
 bip_39_word_new_br_3: echo<br>echo<br>tone
-bip_39_word_new_br_4: echo<br>echo<br>tone<br>enroll
-bip_39_word_new_br_5: echo<br>echo<br>tone<br>enroll<br>rural
-bip_39_word_new_br_6: echo<br>echo<br>tone<br>enroll<br>rural<br>keen
-bip_39_word_new_br_7: echo<br>echo<br>tone<br>enroll<br>rural<br>keen<br>immune
-bip_39_word_new_br_8: echo<br>echo<br>tone<br>enroll<br>rural<br>keen<br>immune<br>trash
-bip_39_word_new_br_9: echo<br>echo<br>tone<br>enroll<br>rural<br>keen<br>immune<br>trash<br>clump
-bip_39_word_new_line_1: echo
-bip_39_word_new_line_10: 'echo
-
-  echo
-
-  tone
-
-  enroll
-
-  rural
-
-  keen
-
-  immune
-
-  trash
-
-  clump
-
-  victory'
-bip_39_word_new_line_11: 'echo
-
-  echo
-
-  tone
-
-  enroll
-
-  rural
-
-  keen
-
-  immune
-
-  trash
-
-  clump
-
-  victory
-
-  luxury'
 bip_39_word_new_line_12: 'echo
 
   echo
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'echo
   echo
 
   tone'
-bip_39_word_new_line_4: 'echo
-
-  echo
-
-  tone
-
-  enroll'
-bip_39_word_new_line_5: 'echo
-
-  echo
-
-  tone
-
-  enroll
-
-  rural'
-bip_39_word_new_line_6: 'echo
-
-  echo
-
-  tone
-
-  enroll
-
-  rural
-
-  keen'
-bip_39_word_new_line_7: 'echo
-
-  echo
-
-  tone
-
-  enroll
-
-  rural
-
-  keen
-
-  immune'
-bip_39_word_new_line_8: 'echo
-
-  echo
-
-  tone
-
-  enroll
-
-  rural
-
-  keen
-
-  immune
-
-  trash'
-bip_39_word_new_line_9: 'echo
-
-  echo
-
-  tone
-
-  enroll
-
-  rural
-
-  keen
-
-  immune
-
-  trash
-
-  clump'
-bip_39_word_no_space_1: echo
-bip_39_word_no_space_10: echoechotoneenrollruralkeenimmunetrashclumpvictory
-bip_39_word_no_space_11: echoechotoneenrollruralkeenimmunetrashclumpvictoryluxury
 bip_39_word_no_space_12: echoechotoneenrollruralkeenimmunetrashclumpvictoryluxuryarrest
 bip_39_word_no_space_2: echoecho
 bip_39_word_no_space_3: echoechotone
-bip_39_word_no_space_4: echoechotoneenroll
-bip_39_word_no_space_5: echoechotoneenrollrural
-bip_39_word_no_space_6: echoechotoneenrollruralkeen
-bip_39_word_no_space_7: echoechotoneenrollruralkeenimmune
-bip_39_word_no_space_8: echoechotoneenrollruralkeenimmunetrash
-bip_39_word_no_space_9: echoechotoneenrollruralkeenimmunetrashclump
-bip_39_word_space_0:
-- echo
-- echo
-- tone
-- enroll
-- rural
-- keen
-- immune
-- trash
-- clump
-- victory
-- luxury
-- arrest
-bip_39_word_space_1: echo
-bip_39_word_space_10: echo echo tone enroll rural keen immune trash clump victory
-bip_39_word_space_11: echo echo tone enroll rural keen immune trash clump victory
-  luxury
 bip_39_word_space_12: echo echo tone enroll rural keen immune trash clump victory
   luxury arrest
 bip_39_word_space_2: echo echo
 bip_39_word_space_3: echo echo tone
-bip_39_word_space_4: echo echo tone enroll
-bip_39_word_space_5: echo echo tone enroll rural
-bip_39_word_space_6: echo echo tone enroll rural keen
-bip_39_word_space_7: echo echo tone enroll rural keen immune
-bip_39_word_space_8: echo echo tone enroll rural keen immune trash
-bip_39_word_space_9: echo echo tone enroll rural keen immune trash clump
-bip_39_word_underscore_1: echo
-bip_39_word_underscore_10: echo_echo_tone_enroll_rural_keen_immune_trash_clump_victory
-bip_39_word_underscore_11: echo_echo_tone_enroll_rural_keen_immune_trash_clump_victory_luxury
 bip_39_word_underscore_12: echo_echo_tone_enroll_rural_keen_immune_trash_clump_victory_luxury_arrest
 bip_39_word_underscore_2: echo_echo
 bip_39_word_underscore_3: echo_echo_tone
-bip_39_word_underscore_4: echo_echo_tone_enroll
-bip_39_word_underscore_5: echo_echo_tone_enroll_rural
-bip_39_word_underscore_6: echo_echo_tone_enroll_rural_keen
-bip_39_word_underscore_7: echo_echo_tone_enroll_rural_keen_immune
-bip_39_word_underscore_8: echo_echo_tone_enroll_rural_keen_immune_trash
-bip_39_word_underscore_9: echo_echo_tone_enroll_rural_keen_immune_trash_clump
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

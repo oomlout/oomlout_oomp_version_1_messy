@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slab
-bip_39_word_dash_10: slab-toilet-fatigue-sell-repeat-symptom-shock-clarify-cliff-excite
-bip_39_word_dash_11: slab-toilet-fatigue-sell-repeat-symptom-shock-clarify-cliff-excite-bus
 bip_39_word_dash_12: slab-toilet-fatigue-sell-repeat-symptom-shock-clarify-cliff-excite-bus-animal
 bip_39_word_dash_2: slab-toilet
 bip_39_word_dash_3: slab-toilet-fatigue
-bip_39_word_dash_4: slab-toilet-fatigue-sell
-bip_39_word_dash_5: slab-toilet-fatigue-sell-repeat
-bip_39_word_dash_6: slab-toilet-fatigue-sell-repeat-symptom
-bip_39_word_dash_7: slab-toilet-fatigue-sell-repeat-symptom-shock
-bip_39_word_dash_8: slab-toilet-fatigue-sell-repeat-symptom-shock-clarify
-bip_39_word_dash_9: slab-toilet-fatigue-sell-repeat-symptom-shock-clarify-cliff
-bip_39_word_new_br_1: slab
-bip_39_word_new_br_10: slab<br>toilet<br>fatigue<br>sell<br>repeat<br>symptom<br>shock<br>clarify<br>cliff<br>excite
-bip_39_word_new_br_11: slab<br>toilet<br>fatigue<br>sell<br>repeat<br>symptom<br>shock<br>clarify<br>cliff<br>excite<br>bus
 bip_39_word_new_br_12: slab<br>toilet<br>fatigue<br>sell<br>repeat<br>symptom<br>shock<br>clarify<br>cliff<br>excite<br>bus<br>animal
 bip_39_word_new_br_2: slab<br>toilet
 bip_39_word_new_br_3: slab<br>toilet<br>fatigue
-bip_39_word_new_br_4: slab<br>toilet<br>fatigue<br>sell
-bip_39_word_new_br_5: slab<br>toilet<br>fatigue<br>sell<br>repeat
-bip_39_word_new_br_6: slab<br>toilet<br>fatigue<br>sell<br>repeat<br>symptom
-bip_39_word_new_br_7: slab<br>toilet<br>fatigue<br>sell<br>repeat<br>symptom<br>shock
-bip_39_word_new_br_8: slab<br>toilet<br>fatigue<br>sell<br>repeat<br>symptom<br>shock<br>clarify
-bip_39_word_new_br_9: slab<br>toilet<br>fatigue<br>sell<br>repeat<br>symptom<br>shock<br>clarify<br>cliff
-bip_39_word_new_line_1: slab
-bip_39_word_new_line_10: 'slab
-
-  toilet
-
-  fatigue
-
-  sell
-
-  repeat
-
-  symptom
-
-  shock
-
-  clarify
-
-  cliff
-
-  excite'
-bip_39_word_new_line_11: 'slab
-
-  toilet
-
-  fatigue
-
-  sell
-
-  repeat
-
-  symptom
-
-  shock
-
-  clarify
-
-  cliff
-
-  excite
-
-  bus'
 bip_39_word_new_line_12: 'slab
 
   toilet
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'slab
   toilet
 
   fatigue'
-bip_39_word_new_line_4: 'slab
-
-  toilet
-
-  fatigue
-
-  sell'
-bip_39_word_new_line_5: 'slab
-
-  toilet
-
-  fatigue
-
-  sell
-
-  repeat'
-bip_39_word_new_line_6: 'slab
-
-  toilet
-
-  fatigue
-
-  sell
-
-  repeat
-
-  symptom'
-bip_39_word_new_line_7: 'slab
-
-  toilet
-
-  fatigue
-
-  sell
-
-  repeat
-
-  symptom
-
-  shock'
-bip_39_word_new_line_8: 'slab
-
-  toilet
-
-  fatigue
-
-  sell
-
-  repeat
-
-  symptom
-
-  shock
-
-  clarify'
-bip_39_word_new_line_9: 'slab
-
-  toilet
-
-  fatigue
-
-  sell
-
-  repeat
-
-  symptom
-
-  shock
-
-  clarify
-
-  cliff'
-bip_39_word_no_space_1: slab
-bip_39_word_no_space_10: slabtoiletfatiguesellrepeatsymptomshockclarifycliffexcite
-bip_39_word_no_space_11: slabtoiletfatiguesellrepeatsymptomshockclarifycliffexcitebus
 bip_39_word_no_space_12: slabtoiletfatiguesellrepeatsymptomshockclarifycliffexcitebusanimal
 bip_39_word_no_space_2: slabtoilet
 bip_39_word_no_space_3: slabtoiletfatigue
-bip_39_word_no_space_4: slabtoiletfatiguesell
-bip_39_word_no_space_5: slabtoiletfatiguesellrepeat
-bip_39_word_no_space_6: slabtoiletfatiguesellrepeatsymptom
-bip_39_word_no_space_7: slabtoiletfatiguesellrepeatsymptomshock
-bip_39_word_no_space_8: slabtoiletfatiguesellrepeatsymptomshockclarify
-bip_39_word_no_space_9: slabtoiletfatiguesellrepeatsymptomshockclarifycliff
-bip_39_word_space_0:
-- slab
-- toilet
-- fatigue
-- sell
-- repeat
-- symptom
-- shock
-- clarify
-- cliff
-- excite
-- bus
-- animal
-bip_39_word_space_1: slab
-bip_39_word_space_10: slab toilet fatigue sell repeat symptom shock clarify cliff
-  excite
-bip_39_word_space_11: slab toilet fatigue sell repeat symptom shock clarify cliff
-  excite bus
 bip_39_word_space_12: slab toilet fatigue sell repeat symptom shock clarify cliff
   excite bus animal
 bip_39_word_space_2: slab toilet
 bip_39_word_space_3: slab toilet fatigue
-bip_39_word_space_4: slab toilet fatigue sell
-bip_39_word_space_5: slab toilet fatigue sell repeat
-bip_39_word_space_6: slab toilet fatigue sell repeat symptom
-bip_39_word_space_7: slab toilet fatigue sell repeat symptom shock
-bip_39_word_space_8: slab toilet fatigue sell repeat symptom shock clarify
-bip_39_word_space_9: slab toilet fatigue sell repeat symptom shock clarify cliff
-bip_39_word_underscore_1: slab
-bip_39_word_underscore_10: slab_toilet_fatigue_sell_repeat_symptom_shock_clarify_cliff_excite
-bip_39_word_underscore_11: slab_toilet_fatigue_sell_repeat_symptom_shock_clarify_cliff_excite_bus
 bip_39_word_underscore_12: slab_toilet_fatigue_sell_repeat_symptom_shock_clarify_cliff_excite_bus_animal
 bip_39_word_underscore_2: slab_toilet
 bip_39_word_underscore_3: slab_toilet_fatigue
-bip_39_word_underscore_4: slab_toilet_fatigue_sell
-bip_39_word_underscore_5: slab_toilet_fatigue_sell_repeat
-bip_39_word_underscore_6: slab_toilet_fatigue_sell_repeat_symptom
-bip_39_word_underscore_7: slab_toilet_fatigue_sell_repeat_symptom_shock
-bip_39_word_underscore_8: slab_toilet_fatigue_sell_repeat_symptom_shock_clarify
-bip_39_word_underscore_9: slab_toilet_fatigue_sell_repeat_symptom_shock_clarify_cliff
 classification: category
 classification_capital: Category
 classification_first_letter: c

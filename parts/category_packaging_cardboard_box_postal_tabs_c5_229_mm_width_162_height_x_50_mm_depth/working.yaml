@@ -1,68 +1,9 @@
-bip_39_word_dash_1: regret
-bip_39_word_dash_10: regret-pluck-faculty-awkward-reduce-idle-drip-bacon-decrease-tree
-bip_39_word_dash_11: regret-pluck-faculty-awkward-reduce-idle-drip-bacon-decrease-tree-rare
 bip_39_word_dash_12: regret-pluck-faculty-awkward-reduce-idle-drip-bacon-decrease-tree-rare-armed
 bip_39_word_dash_2: regret-pluck
 bip_39_word_dash_3: regret-pluck-faculty
-bip_39_word_dash_4: regret-pluck-faculty-awkward
-bip_39_word_dash_5: regret-pluck-faculty-awkward-reduce
-bip_39_word_dash_6: regret-pluck-faculty-awkward-reduce-idle
-bip_39_word_dash_7: regret-pluck-faculty-awkward-reduce-idle-drip
-bip_39_word_dash_8: regret-pluck-faculty-awkward-reduce-idle-drip-bacon
-bip_39_word_dash_9: regret-pluck-faculty-awkward-reduce-idle-drip-bacon-decrease
-bip_39_word_new_br_1: regret
-bip_39_word_new_br_10: regret<br>pluck<br>faculty<br>awkward<br>reduce<br>idle<br>drip<br>bacon<br>decrease<br>tree
-bip_39_word_new_br_11: regret<br>pluck<br>faculty<br>awkward<br>reduce<br>idle<br>drip<br>bacon<br>decrease<br>tree<br>rare
 bip_39_word_new_br_12: regret<br>pluck<br>faculty<br>awkward<br>reduce<br>idle<br>drip<br>bacon<br>decrease<br>tree<br>rare<br>armed
 bip_39_word_new_br_2: regret<br>pluck
 bip_39_word_new_br_3: regret<br>pluck<br>faculty
-bip_39_word_new_br_4: regret<br>pluck<br>faculty<br>awkward
-bip_39_word_new_br_5: regret<br>pluck<br>faculty<br>awkward<br>reduce
-bip_39_word_new_br_6: regret<br>pluck<br>faculty<br>awkward<br>reduce<br>idle
-bip_39_word_new_br_7: regret<br>pluck<br>faculty<br>awkward<br>reduce<br>idle<br>drip
-bip_39_word_new_br_8: regret<br>pluck<br>faculty<br>awkward<br>reduce<br>idle<br>drip<br>bacon
-bip_39_word_new_br_9: regret<br>pluck<br>faculty<br>awkward<br>reduce<br>idle<br>drip<br>bacon<br>decrease
-bip_39_word_new_line_1: regret
-bip_39_word_new_line_10: 'regret
-
-  pluck
-
-  faculty
-
-  awkward
-
-  reduce
-
-  idle
-
-  drip
-
-  bacon
-
-  decrease
-
-  tree'
-bip_39_word_new_line_11: 'regret
-
-  pluck
-
-  faculty
-
-  awkward
-
-  reduce
-
-  idle
-
-  drip
-
-  bacon
-
-  decrease
-
-  tree
-
-  rare'
 bip_39_word_new_line_12: 'regret
 
   pluck
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'regret
   pluck
 
   faculty'
-bip_39_word_new_line_4: 'regret
-
-  pluck
-
-  faculty
-
-  awkward'
-bip_39_word_new_line_5: 'regret
-
-  pluck
-
-  faculty
-
-  awkward
-
-  reduce'
-bip_39_word_new_line_6: 'regret
-
-  pluck
-
-  faculty
-
-  awkward
-
-  reduce
-
-  idle'
-bip_39_word_new_line_7: 'regret
-
-  pluck
-
-  faculty
-
-  awkward
-
-  reduce
-
-  idle
-
-  drip'
-bip_39_word_new_line_8: 'regret
-
-  pluck
-
-  faculty
-
-  awkward
-
-  reduce
-
-  idle
-
-  drip
-
-  bacon'
-bip_39_word_new_line_9: 'regret
-
-  pluck
-
-  faculty
-
-  awkward
-
-  reduce
-
-  idle
-
-  drip
-
-  bacon
-
-  decrease'
-bip_39_word_no_space_1: regret
-bip_39_word_no_space_10: regretpluckfacultyawkwardreduceidledripbacondecreasetree
-bip_39_word_no_space_11: regretpluckfacultyawkwardreduceidledripbacondecreasetreerare
 bip_39_word_no_space_12: regretpluckfacultyawkwardreduceidledripbacondecreasetreerarearmed
 bip_39_word_no_space_2: regretpluck
 bip_39_word_no_space_3: regretpluckfaculty
-bip_39_word_no_space_4: regretpluckfacultyawkward
-bip_39_word_no_space_5: regretpluckfacultyawkwardreduce
-bip_39_word_no_space_6: regretpluckfacultyawkwardreduceidle
-bip_39_word_no_space_7: regretpluckfacultyawkwardreduceidledrip
-bip_39_word_no_space_8: regretpluckfacultyawkwardreduceidledripbacon
-bip_39_word_no_space_9: regretpluckfacultyawkwardreduceidledripbacondecrease
-bip_39_word_space_0:
-- regret
-- pluck
-- faculty
-- awkward
-- reduce
-- idle
-- drip
-- bacon
-- decrease
-- tree
-- rare
-- armed
-bip_39_word_space_1: regret
-bip_39_word_space_10: regret pluck faculty awkward reduce idle drip bacon decrease
-  tree
-bip_39_word_space_11: regret pluck faculty awkward reduce idle drip bacon decrease
-  tree rare
 bip_39_word_space_12: regret pluck faculty awkward reduce idle drip bacon decrease
   tree rare armed
 bip_39_word_space_2: regret pluck
 bip_39_word_space_3: regret pluck faculty
-bip_39_word_space_4: regret pluck faculty awkward
-bip_39_word_space_5: regret pluck faculty awkward reduce
-bip_39_word_space_6: regret pluck faculty awkward reduce idle
-bip_39_word_space_7: regret pluck faculty awkward reduce idle drip
-bip_39_word_space_8: regret pluck faculty awkward reduce idle drip bacon
-bip_39_word_space_9: regret pluck faculty awkward reduce idle drip bacon decrease
-bip_39_word_underscore_1: regret
-bip_39_word_underscore_10: regret_pluck_faculty_awkward_reduce_idle_drip_bacon_decrease_tree
-bip_39_word_underscore_11: regret_pluck_faculty_awkward_reduce_idle_drip_bacon_decrease_tree_rare
 bip_39_word_underscore_12: regret_pluck_faculty_awkward_reduce_idle_drip_bacon_decrease_tree_rare_armed
 bip_39_word_underscore_2: regret_pluck
 bip_39_word_underscore_3: regret_pluck_faculty
-bip_39_word_underscore_4: regret_pluck_faculty_awkward
-bip_39_word_underscore_5: regret_pluck_faculty_awkward_reduce
-bip_39_word_underscore_6: regret_pluck_faculty_awkward_reduce_idle
-bip_39_word_underscore_7: regret_pluck_faculty_awkward_reduce_idle_drip
-bip_39_word_underscore_8: regret_pluck_faculty_awkward_reduce_idle_drip_bacon
-bip_39_word_underscore_9: regret_pluck_faculty_awkward_reduce_idle_drip_bacon_decrease
 classification: category
 classification_capital: Category
 classification_first_letter: c

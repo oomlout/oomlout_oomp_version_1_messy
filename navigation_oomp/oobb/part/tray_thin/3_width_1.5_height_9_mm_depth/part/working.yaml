@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pledge
-bip_39_word_dash_10: pledge-use-world-twelve-rookie-ridge-buyer-accident-holiday-armed
-bip_39_word_dash_11: pledge-use-world-twelve-rookie-ridge-buyer-accident-holiday-armed-group
 bip_39_word_dash_12: pledge-use-world-twelve-rookie-ridge-buyer-accident-holiday-armed-group-amateur
 bip_39_word_dash_2: pledge-use
 bip_39_word_dash_3: pledge-use-world
-bip_39_word_dash_4: pledge-use-world-twelve
-bip_39_word_dash_5: pledge-use-world-twelve-rookie
-bip_39_word_dash_6: pledge-use-world-twelve-rookie-ridge
-bip_39_word_dash_7: pledge-use-world-twelve-rookie-ridge-buyer
-bip_39_word_dash_8: pledge-use-world-twelve-rookie-ridge-buyer-accident
-bip_39_word_dash_9: pledge-use-world-twelve-rookie-ridge-buyer-accident-holiday
-bip_39_word_new_br_1: pledge
-bip_39_word_new_br_10: pledge<br>use<br>world<br>twelve<br>rookie<br>ridge<br>buyer<br>accident<br>holiday<br>armed
-bip_39_word_new_br_11: pledge<br>use<br>world<br>twelve<br>rookie<br>ridge<br>buyer<br>accident<br>holiday<br>armed<br>group
 bip_39_word_new_br_12: pledge<br>use<br>world<br>twelve<br>rookie<br>ridge<br>buyer<br>accident<br>holiday<br>armed<br>group<br>amateur
 bip_39_word_new_br_2: pledge<br>use
 bip_39_word_new_br_3: pledge<br>use<br>world
-bip_39_word_new_br_4: pledge<br>use<br>world<br>twelve
-bip_39_word_new_br_5: pledge<br>use<br>world<br>twelve<br>rookie
-bip_39_word_new_br_6: pledge<br>use<br>world<br>twelve<br>rookie<br>ridge
-bip_39_word_new_br_7: pledge<br>use<br>world<br>twelve<br>rookie<br>ridge<br>buyer
-bip_39_word_new_br_8: pledge<br>use<br>world<br>twelve<br>rookie<br>ridge<br>buyer<br>accident
-bip_39_word_new_br_9: pledge<br>use<br>world<br>twelve<br>rookie<br>ridge<br>buyer<br>accident<br>holiday
-bip_39_word_new_line_1: pledge
-bip_39_word_new_line_10: 'pledge
-
-  use
-
-  world
-
-  twelve
-
-  rookie
-
-  ridge
-
-  buyer
-
-  accident
-
-  holiday
-
-  armed'
-bip_39_word_new_line_11: 'pledge
-
-  use
-
-  world
-
-  twelve
-
-  rookie
-
-  ridge
-
-  buyer
-
-  accident
-
-  holiday
-
-  armed
-
-  group'
 bip_39_word_new_line_12: 'pledge
 
   use
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pledge
   use
 
   world'
-bip_39_word_new_line_4: 'pledge
-
-  use
-
-  world
-
-  twelve'
-bip_39_word_new_line_5: 'pledge
-
-  use
-
-  world
-
-  twelve
-
-  rookie'
-bip_39_word_new_line_6: 'pledge
-
-  use
-
-  world
-
-  twelve
-
-  rookie
-
-  ridge'
-bip_39_word_new_line_7: 'pledge
-
-  use
-
-  world
-
-  twelve
-
-  rookie
-
-  ridge
-
-  buyer'
-bip_39_word_new_line_8: 'pledge
-
-  use
-
-  world
-
-  twelve
-
-  rookie
-
-  ridge
-
-  buyer
-
-  accident'
-bip_39_word_new_line_9: 'pledge
-
-  use
-
-  world
-
-  twelve
-
-  rookie
-
-  ridge
-
-  buyer
-
-  accident
-
-  holiday'
-bip_39_word_no_space_1: pledge
-bip_39_word_no_space_10: pledgeuseworldtwelverookieridgebuyeraccidentholidayarmed
-bip_39_word_no_space_11: pledgeuseworldtwelverookieridgebuyeraccidentholidayarmedgroup
 bip_39_word_no_space_12: pledgeuseworldtwelverookieridgebuyeraccidentholidayarmedgroupamateur
 bip_39_word_no_space_2: pledgeuse
 bip_39_word_no_space_3: pledgeuseworld
-bip_39_word_no_space_4: pledgeuseworldtwelve
-bip_39_word_no_space_5: pledgeuseworldtwelverookie
-bip_39_word_no_space_6: pledgeuseworldtwelverookieridge
-bip_39_word_no_space_7: pledgeuseworldtwelverookieridgebuyer
-bip_39_word_no_space_8: pledgeuseworldtwelverookieridgebuyeraccident
-bip_39_word_no_space_9: pledgeuseworldtwelverookieridgebuyeraccidentholiday
-bip_39_word_space_0:
-- pledge
-- use
-- world
-- twelve
-- rookie
-- ridge
-- buyer
-- accident
-- holiday
-- armed
-- group
-- amateur
-bip_39_word_space_1: pledge
-bip_39_word_space_10: pledge use world twelve rookie ridge buyer accident holiday
-  armed
-bip_39_word_space_11: pledge use world twelve rookie ridge buyer accident holiday
-  armed group
 bip_39_word_space_12: pledge use world twelve rookie ridge buyer accident holiday
   armed group amateur
 bip_39_word_space_2: pledge use
 bip_39_word_space_3: pledge use world
-bip_39_word_space_4: pledge use world twelve
-bip_39_word_space_5: pledge use world twelve rookie
-bip_39_word_space_6: pledge use world twelve rookie ridge
-bip_39_word_space_7: pledge use world twelve rookie ridge buyer
-bip_39_word_space_8: pledge use world twelve rookie ridge buyer accident
-bip_39_word_space_9: pledge use world twelve rookie ridge buyer accident holiday
-bip_39_word_underscore_1: pledge
-bip_39_word_underscore_10: pledge_use_world_twelve_rookie_ridge_buyer_accident_holiday_armed
-bip_39_word_underscore_11: pledge_use_world_twelve_rookie_ridge_buyer_accident_holiday_armed_group
 bip_39_word_underscore_12: pledge_use_world_twelve_rookie_ridge_buyer_accident_holiday_armed_group_amateur
 bip_39_word_underscore_2: pledge_use
 bip_39_word_underscore_3: pledge_use_world
-bip_39_word_underscore_4: pledge_use_world_twelve
-bip_39_word_underscore_5: pledge_use_world_twelve_rookie
-bip_39_word_underscore_6: pledge_use_world_twelve_rookie_ridge
-bip_39_word_underscore_7: pledge_use_world_twelve_rookie_ridge_buyer
-bip_39_word_underscore_8: pledge_use_world_twelve_rookie_ridge_buyer_accident
-bip_39_word_underscore_9: pledge_use_world_twelve_rookie_ridge_buyer_accident_holiday
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

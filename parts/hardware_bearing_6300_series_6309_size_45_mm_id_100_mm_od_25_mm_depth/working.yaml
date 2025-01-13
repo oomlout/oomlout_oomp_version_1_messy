@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stadium
-bip_39_word_dash_10: stadium-cancel-cart-traffic-north-note-strike-squeeze-private-neutral
-bip_39_word_dash_11: stadium-cancel-cart-traffic-north-note-strike-squeeze-private-neutral-snow
 bip_39_word_dash_12: stadium-cancel-cart-traffic-north-note-strike-squeeze-private-neutral-snow-agree
 bip_39_word_dash_2: stadium-cancel
 bip_39_word_dash_3: stadium-cancel-cart
-bip_39_word_dash_4: stadium-cancel-cart-traffic
-bip_39_word_dash_5: stadium-cancel-cart-traffic-north
-bip_39_word_dash_6: stadium-cancel-cart-traffic-north-note
-bip_39_word_dash_7: stadium-cancel-cart-traffic-north-note-strike
-bip_39_word_dash_8: stadium-cancel-cart-traffic-north-note-strike-squeeze
-bip_39_word_dash_9: stadium-cancel-cart-traffic-north-note-strike-squeeze-private
-bip_39_word_new_br_1: stadium
-bip_39_word_new_br_10: stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private<br>neutral
-bip_39_word_new_br_11: stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private<br>neutral<br>snow
 bip_39_word_new_br_12: stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private<br>neutral<br>snow<br>agree
 bip_39_word_new_br_2: stadium<br>cancel
 bip_39_word_new_br_3: stadium<br>cancel<br>cart
-bip_39_word_new_br_4: stadium<br>cancel<br>cart<br>traffic
-bip_39_word_new_br_5: stadium<br>cancel<br>cart<br>traffic<br>north
-bip_39_word_new_br_6: stadium<br>cancel<br>cart<br>traffic<br>north<br>note
-bip_39_word_new_br_7: stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike
-bip_39_word_new_br_8: stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze
-bip_39_word_new_br_9: stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private
-bip_39_word_new_line_1: stadium
-bip_39_word_new_line_10: 'stadium
-
-  cancel
-
-  cart
-
-  traffic
-
-  north
-
-  note
-
-  strike
-
-  squeeze
-
-  private
-
-  neutral'
-bip_39_word_new_line_11: 'stadium
-
-  cancel
-
-  cart
-
-  traffic
-
-  north
-
-  note
-
-  strike
-
-  squeeze
-
-  private
-
-  neutral
-
-  snow'
 bip_39_word_new_line_12: 'stadium
 
   cancel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'stadium
   cancel
 
   cart'
-bip_39_word_new_line_4: 'stadium
-
-  cancel
-
-  cart
-
-  traffic'
-bip_39_word_new_line_5: 'stadium
-
-  cancel
-
-  cart
-
-  traffic
-
-  north'
-bip_39_word_new_line_6: 'stadium
-
-  cancel
-
-  cart
-
-  traffic
-
-  north
-
-  note'
-bip_39_word_new_line_7: 'stadium
-
-  cancel
-
-  cart
-
-  traffic
-
-  north
-
-  note
-
-  strike'
-bip_39_word_new_line_8: 'stadium
-
-  cancel
-
-  cart
-
-  traffic
-
-  north
-
-  note
-
-  strike
-
-  squeeze'
-bip_39_word_new_line_9: 'stadium
-
-  cancel
-
-  cart
-
-  traffic
-
-  north
-
-  note
-
-  strike
-
-  squeeze
-
-  private'
-bip_39_word_no_space_1: stadium
-bip_39_word_no_space_10: stadiumcancelcarttrafficnorthnotestrikesqueezeprivateneutral
-bip_39_word_no_space_11: stadiumcancelcarttrafficnorthnotestrikesqueezeprivateneutralsnow
 bip_39_word_no_space_12: stadiumcancelcarttrafficnorthnotestrikesqueezeprivateneutralsnowagree
 bip_39_word_no_space_2: stadiumcancel
 bip_39_word_no_space_3: stadiumcancelcart
-bip_39_word_no_space_4: stadiumcancelcarttraffic
-bip_39_word_no_space_5: stadiumcancelcarttrafficnorth
-bip_39_word_no_space_6: stadiumcancelcarttrafficnorthnote
-bip_39_word_no_space_7: stadiumcancelcarttrafficnorthnotestrike
-bip_39_word_no_space_8: stadiumcancelcarttrafficnorthnotestrikesqueeze
-bip_39_word_no_space_9: stadiumcancelcarttrafficnorthnotestrikesqueezeprivate
-bip_39_word_space_0:
-- stadium
-- cancel
-- cart
-- traffic
-- north
-- note
-- strike
-- squeeze
-- private
-- neutral
-- snow
-- agree
-bip_39_word_space_1: stadium
-bip_39_word_space_10: stadium cancel cart traffic north note strike squeeze private
-  neutral
-bip_39_word_space_11: stadium cancel cart traffic north note strike squeeze private
-  neutral snow
 bip_39_word_space_12: stadium cancel cart traffic north note strike squeeze private
   neutral snow agree
 bip_39_word_space_2: stadium cancel
 bip_39_word_space_3: stadium cancel cart
-bip_39_word_space_4: stadium cancel cart traffic
-bip_39_word_space_5: stadium cancel cart traffic north
-bip_39_word_space_6: stadium cancel cart traffic north note
-bip_39_word_space_7: stadium cancel cart traffic north note strike
-bip_39_word_space_8: stadium cancel cart traffic north note strike squeeze
-bip_39_word_space_9: stadium cancel cart traffic north note strike squeeze private
-bip_39_word_underscore_1: stadium
-bip_39_word_underscore_10: stadium_cancel_cart_traffic_north_note_strike_squeeze_private_neutral
-bip_39_word_underscore_11: stadium_cancel_cart_traffic_north_note_strike_squeeze_private_neutral_snow
 bip_39_word_underscore_12: stadium_cancel_cart_traffic_north_note_strike_squeeze_private_neutral_snow_agree
 bip_39_word_underscore_2: stadium_cancel
 bip_39_word_underscore_3: stadium_cancel_cart
-bip_39_word_underscore_4: stadium_cancel_cart_traffic
-bip_39_word_underscore_5: stadium_cancel_cart_traffic_north
-bip_39_word_underscore_6: stadium_cancel_cart_traffic_north_note
-bip_39_word_underscore_7: stadium_cancel_cart_traffic_north_note_strike
-bip_39_word_underscore_8: stadium_cancel_cart_traffic_north_note_strike_squeeze
-bip_39_word_underscore_9: stadium_cancel_cart_traffic_north_note_strike_squeeze_private
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

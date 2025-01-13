@@ -1,68 +1,9 @@
-bip_39_word_dash_1: balcony
-bip_39_word_dash_10: balcony-shrimp-true-captain-kangaroo-coin-present-custom-uniform-fetch
-bip_39_word_dash_11: balcony-shrimp-true-captain-kangaroo-coin-present-custom-uniform-fetch-warm
 bip_39_word_dash_12: balcony-shrimp-true-captain-kangaroo-coin-present-custom-uniform-fetch-warm-absurd
 bip_39_word_dash_2: balcony-shrimp
 bip_39_word_dash_3: balcony-shrimp-true
-bip_39_word_dash_4: balcony-shrimp-true-captain
-bip_39_word_dash_5: balcony-shrimp-true-captain-kangaroo
-bip_39_word_dash_6: balcony-shrimp-true-captain-kangaroo-coin
-bip_39_word_dash_7: balcony-shrimp-true-captain-kangaroo-coin-present
-bip_39_word_dash_8: balcony-shrimp-true-captain-kangaroo-coin-present-custom
-bip_39_word_dash_9: balcony-shrimp-true-captain-kangaroo-coin-present-custom-uniform
-bip_39_word_new_br_1: balcony
-bip_39_word_new_br_10: balcony<br>shrimp<br>true<br>captain<br>kangaroo<br>coin<br>present<br>custom<br>uniform<br>fetch
-bip_39_word_new_br_11: balcony<br>shrimp<br>true<br>captain<br>kangaroo<br>coin<br>present<br>custom<br>uniform<br>fetch<br>warm
 bip_39_word_new_br_12: balcony<br>shrimp<br>true<br>captain<br>kangaroo<br>coin<br>present<br>custom<br>uniform<br>fetch<br>warm<br>absurd
 bip_39_word_new_br_2: balcony<br>shrimp
 bip_39_word_new_br_3: balcony<br>shrimp<br>true
-bip_39_word_new_br_4: balcony<br>shrimp<br>true<br>captain
-bip_39_word_new_br_5: balcony<br>shrimp<br>true<br>captain<br>kangaroo
-bip_39_word_new_br_6: balcony<br>shrimp<br>true<br>captain<br>kangaroo<br>coin
-bip_39_word_new_br_7: balcony<br>shrimp<br>true<br>captain<br>kangaroo<br>coin<br>present
-bip_39_word_new_br_8: balcony<br>shrimp<br>true<br>captain<br>kangaroo<br>coin<br>present<br>custom
-bip_39_word_new_br_9: balcony<br>shrimp<br>true<br>captain<br>kangaroo<br>coin<br>present<br>custom<br>uniform
-bip_39_word_new_line_1: balcony
-bip_39_word_new_line_10: 'balcony
-
-  shrimp
-
-  true
-
-  captain
-
-  kangaroo
-
-  coin
-
-  present
-
-  custom
-
-  uniform
-
-  fetch'
-bip_39_word_new_line_11: 'balcony
-
-  shrimp
-
-  true
-
-  captain
-
-  kangaroo
-
-  coin
-
-  present
-
-  custom
-
-  uniform
-
-  fetch
-
-  warm'
 bip_39_word_new_line_12: 'balcony
 
   shrimp
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'balcony
   shrimp
 
   true'
-bip_39_word_new_line_4: 'balcony
-
-  shrimp
-
-  true
-
-  captain'
-bip_39_word_new_line_5: 'balcony
-
-  shrimp
-
-  true
-
-  captain
-
-  kangaroo'
-bip_39_word_new_line_6: 'balcony
-
-  shrimp
-
-  true
-
-  captain
-
-  kangaroo
-
-  coin'
-bip_39_word_new_line_7: 'balcony
-
-  shrimp
-
-  true
-
-  captain
-
-  kangaroo
-
-  coin
-
-  present'
-bip_39_word_new_line_8: 'balcony
-
-  shrimp
-
-  true
-
-  captain
-
-  kangaroo
-
-  coin
-
-  present
-
-  custom'
-bip_39_word_new_line_9: 'balcony
-
-  shrimp
-
-  true
-
-  captain
-
-  kangaroo
-
-  coin
-
-  present
-
-  custom
-
-  uniform'
-bip_39_word_no_space_1: balcony
-bip_39_word_no_space_10: balconyshrimptruecaptainkangaroocoinpresentcustomuniformfetch
-bip_39_word_no_space_11: balconyshrimptruecaptainkangaroocoinpresentcustomuniformfetchwarm
 bip_39_word_no_space_12: balconyshrimptruecaptainkangaroocoinpresentcustomuniformfetchwarmabsurd
 bip_39_word_no_space_2: balconyshrimp
 bip_39_word_no_space_3: balconyshrimptrue
-bip_39_word_no_space_4: balconyshrimptruecaptain
-bip_39_word_no_space_5: balconyshrimptruecaptainkangaroo
-bip_39_word_no_space_6: balconyshrimptruecaptainkangaroocoin
-bip_39_word_no_space_7: balconyshrimptruecaptainkangaroocoinpresent
-bip_39_word_no_space_8: balconyshrimptruecaptainkangaroocoinpresentcustom
-bip_39_word_no_space_9: balconyshrimptruecaptainkangaroocoinpresentcustomuniform
-bip_39_word_space_0:
-- balcony
-- shrimp
-- 'true'
-- captain
-- kangaroo
-- coin
-- present
-- custom
-- uniform
-- fetch
-- warm
-- absurd
-bip_39_word_space_1: balcony
-bip_39_word_space_10: balcony shrimp true captain kangaroo coin present custom uniform
-  fetch
-bip_39_word_space_11: balcony shrimp true captain kangaroo coin present custom uniform
-  fetch warm
 bip_39_word_space_12: balcony shrimp true captain kangaroo coin present custom uniform
   fetch warm absurd
 bip_39_word_space_2: balcony shrimp
 bip_39_word_space_3: balcony shrimp true
-bip_39_word_space_4: balcony shrimp true captain
-bip_39_word_space_5: balcony shrimp true captain kangaroo
-bip_39_word_space_6: balcony shrimp true captain kangaroo coin
-bip_39_word_space_7: balcony shrimp true captain kangaroo coin present
-bip_39_word_space_8: balcony shrimp true captain kangaroo coin present custom
-bip_39_word_space_9: balcony shrimp true captain kangaroo coin present custom uniform
-bip_39_word_underscore_1: balcony
-bip_39_word_underscore_10: balcony_shrimp_true_captain_kangaroo_coin_present_custom_uniform_fetch
-bip_39_word_underscore_11: balcony_shrimp_true_captain_kangaroo_coin_present_custom_uniform_fetch_warm
 bip_39_word_underscore_12: balcony_shrimp_true_captain_kangaroo_coin_present_custom_uniform_fetch_warm_absurd
 bip_39_word_underscore_2: balcony_shrimp
 bip_39_word_underscore_3: balcony_shrimp_true
-bip_39_word_underscore_4: balcony_shrimp_true_captain
-bip_39_word_underscore_5: balcony_shrimp_true_captain_kangaroo
-bip_39_word_underscore_6: balcony_shrimp_true_captain_kangaroo_coin
-bip_39_word_underscore_7: balcony_shrimp_true_captain_kangaroo_coin_present
-bip_39_word_underscore_8: balcony_shrimp_true_captain_kangaroo_coin_present_custom
-bip_39_word_underscore_9: balcony_shrimp_true_captain_kangaroo_coin_present_custom_uniform
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

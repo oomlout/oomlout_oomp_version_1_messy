@@ -1,68 +1,9 @@
-bip_39_word_dash_1: orbit
-bip_39_word_dash_10: orbit-arrange-squirrel-dentist-garment-erosion-fringe-voice-release-frown
-bip_39_word_dash_11: orbit-arrange-squirrel-dentist-garment-erosion-fringe-voice-release-frown-inmate
 bip_39_word_dash_12: orbit-arrange-squirrel-dentist-garment-erosion-fringe-voice-release-frown-inmate-arrive
 bip_39_word_dash_2: orbit-arrange
 bip_39_word_dash_3: orbit-arrange-squirrel
-bip_39_word_dash_4: orbit-arrange-squirrel-dentist
-bip_39_word_dash_5: orbit-arrange-squirrel-dentist-garment
-bip_39_word_dash_6: orbit-arrange-squirrel-dentist-garment-erosion
-bip_39_word_dash_7: orbit-arrange-squirrel-dentist-garment-erosion-fringe
-bip_39_word_dash_8: orbit-arrange-squirrel-dentist-garment-erosion-fringe-voice
-bip_39_word_dash_9: orbit-arrange-squirrel-dentist-garment-erosion-fringe-voice-release
-bip_39_word_new_br_1: orbit
-bip_39_word_new_br_10: orbit<br>arrange<br>squirrel<br>dentist<br>garment<br>erosion<br>fringe<br>voice<br>release<br>frown
-bip_39_word_new_br_11: orbit<br>arrange<br>squirrel<br>dentist<br>garment<br>erosion<br>fringe<br>voice<br>release<br>frown<br>inmate
 bip_39_word_new_br_12: orbit<br>arrange<br>squirrel<br>dentist<br>garment<br>erosion<br>fringe<br>voice<br>release<br>frown<br>inmate<br>arrive
 bip_39_word_new_br_2: orbit<br>arrange
 bip_39_word_new_br_3: orbit<br>arrange<br>squirrel
-bip_39_word_new_br_4: orbit<br>arrange<br>squirrel<br>dentist
-bip_39_word_new_br_5: orbit<br>arrange<br>squirrel<br>dentist<br>garment
-bip_39_word_new_br_6: orbit<br>arrange<br>squirrel<br>dentist<br>garment<br>erosion
-bip_39_word_new_br_7: orbit<br>arrange<br>squirrel<br>dentist<br>garment<br>erosion<br>fringe
-bip_39_word_new_br_8: orbit<br>arrange<br>squirrel<br>dentist<br>garment<br>erosion<br>fringe<br>voice
-bip_39_word_new_br_9: orbit<br>arrange<br>squirrel<br>dentist<br>garment<br>erosion<br>fringe<br>voice<br>release
-bip_39_word_new_line_1: orbit
-bip_39_word_new_line_10: 'orbit
-
-  arrange
-
-  squirrel
-
-  dentist
-
-  garment
-
-  erosion
-
-  fringe
-
-  voice
-
-  release
-
-  frown'
-bip_39_word_new_line_11: 'orbit
-
-  arrange
-
-  squirrel
-
-  dentist
-
-  garment
-
-  erosion
-
-  fringe
-
-  voice
-
-  release
-
-  frown
-
-  inmate'
 bip_39_word_new_line_12: 'orbit
 
   arrange
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'orbit
   arrange
 
   squirrel'
-bip_39_word_new_line_4: 'orbit
-
-  arrange
-
-  squirrel
-
-  dentist'
-bip_39_word_new_line_5: 'orbit
-
-  arrange
-
-  squirrel
-
-  dentist
-
-  garment'
-bip_39_word_new_line_6: 'orbit
-
-  arrange
-
-  squirrel
-
-  dentist
-
-  garment
-
-  erosion'
-bip_39_word_new_line_7: 'orbit
-
-  arrange
-
-  squirrel
-
-  dentist
-
-  garment
-
-  erosion
-
-  fringe'
-bip_39_word_new_line_8: 'orbit
-
-  arrange
-
-  squirrel
-
-  dentist
-
-  garment
-
-  erosion
-
-  fringe
-
-  voice'
-bip_39_word_new_line_9: 'orbit
-
-  arrange
-
-  squirrel
-
-  dentist
-
-  garment
-
-  erosion
-
-  fringe
-
-  voice
-
-  release'
-bip_39_word_no_space_1: orbit
-bip_39_word_no_space_10: orbitarrangesquirreldentistgarmenterosionfringevoicereleasefrown
-bip_39_word_no_space_11: orbitarrangesquirreldentistgarmenterosionfringevoicereleasefrowninmate
 bip_39_word_no_space_12: orbitarrangesquirreldentistgarmenterosionfringevoicereleasefrowninmatearrive
 bip_39_word_no_space_2: orbitarrange
 bip_39_word_no_space_3: orbitarrangesquirrel
-bip_39_word_no_space_4: orbitarrangesquirreldentist
-bip_39_word_no_space_5: orbitarrangesquirreldentistgarment
-bip_39_word_no_space_6: orbitarrangesquirreldentistgarmenterosion
-bip_39_word_no_space_7: orbitarrangesquirreldentistgarmenterosionfringe
-bip_39_word_no_space_8: orbitarrangesquirreldentistgarmenterosionfringevoice
-bip_39_word_no_space_9: orbitarrangesquirreldentistgarmenterosionfringevoicerelease
-bip_39_word_space_0:
-- orbit
-- arrange
-- squirrel
-- dentist
-- garment
-- erosion
-- fringe
-- voice
-- release
-- frown
-- inmate
-- arrive
-bip_39_word_space_1: orbit
-bip_39_word_space_10: orbit arrange squirrel dentist garment erosion fringe voice
-  release frown
-bip_39_word_space_11: orbit arrange squirrel dentist garment erosion fringe voice
-  release frown inmate
 bip_39_word_space_12: orbit arrange squirrel dentist garment erosion fringe voice
   release frown inmate arrive
 bip_39_word_space_2: orbit arrange
 bip_39_word_space_3: orbit arrange squirrel
-bip_39_word_space_4: orbit arrange squirrel dentist
-bip_39_word_space_5: orbit arrange squirrel dentist garment
-bip_39_word_space_6: orbit arrange squirrel dentist garment erosion
-bip_39_word_space_7: orbit arrange squirrel dentist garment erosion fringe
-bip_39_word_space_8: orbit arrange squirrel dentist garment erosion fringe voice
-bip_39_word_space_9: orbit arrange squirrel dentist garment erosion fringe voice release
-bip_39_word_underscore_1: orbit
-bip_39_word_underscore_10: orbit_arrange_squirrel_dentist_garment_erosion_fringe_voice_release_frown
-bip_39_word_underscore_11: orbit_arrange_squirrel_dentist_garment_erosion_fringe_voice_release_frown_inmate
 bip_39_word_underscore_12: orbit_arrange_squirrel_dentist_garment_erosion_fringe_voice_release_frown_inmate_arrive
 bip_39_word_underscore_2: orbit_arrange
 bip_39_word_underscore_3: orbit_arrange_squirrel
-bip_39_word_underscore_4: orbit_arrange_squirrel_dentist
-bip_39_word_underscore_5: orbit_arrange_squirrel_dentist_garment
-bip_39_word_underscore_6: orbit_arrange_squirrel_dentist_garment_erosion
-bip_39_word_underscore_7: orbit_arrange_squirrel_dentist_garment_erosion_fringe
-bip_39_word_underscore_8: orbit_arrange_squirrel_dentist_garment_erosion_fringe_voice
-bip_39_word_underscore_9: orbit_arrange_squirrel_dentist_garment_erosion_fringe_voice_release
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

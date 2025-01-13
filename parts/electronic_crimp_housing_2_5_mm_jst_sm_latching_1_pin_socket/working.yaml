@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slab
-bip_39_word_dash_10: slab-spice-pole-bar-acid-feel-jaguar-barely-latin-pluck
-bip_39_word_dash_11: slab-spice-pole-bar-acid-feel-jaguar-barely-latin-pluck-social
 bip_39_word_dash_12: slab-spice-pole-bar-acid-feel-jaguar-barely-latin-pluck-social-aisle
 bip_39_word_dash_2: slab-spice
 bip_39_word_dash_3: slab-spice-pole
-bip_39_word_dash_4: slab-spice-pole-bar
-bip_39_word_dash_5: slab-spice-pole-bar-acid
-bip_39_word_dash_6: slab-spice-pole-bar-acid-feel
-bip_39_word_dash_7: slab-spice-pole-bar-acid-feel-jaguar
-bip_39_word_dash_8: slab-spice-pole-bar-acid-feel-jaguar-barely
-bip_39_word_dash_9: slab-spice-pole-bar-acid-feel-jaguar-barely-latin
-bip_39_word_new_br_1: slab
-bip_39_word_new_br_10: slab<br>spice<br>pole<br>bar<br>acid<br>feel<br>jaguar<br>barely<br>latin<br>pluck
-bip_39_word_new_br_11: slab<br>spice<br>pole<br>bar<br>acid<br>feel<br>jaguar<br>barely<br>latin<br>pluck<br>social
 bip_39_word_new_br_12: slab<br>spice<br>pole<br>bar<br>acid<br>feel<br>jaguar<br>barely<br>latin<br>pluck<br>social<br>aisle
 bip_39_word_new_br_2: slab<br>spice
 bip_39_word_new_br_3: slab<br>spice<br>pole
-bip_39_word_new_br_4: slab<br>spice<br>pole<br>bar
-bip_39_word_new_br_5: slab<br>spice<br>pole<br>bar<br>acid
-bip_39_word_new_br_6: slab<br>spice<br>pole<br>bar<br>acid<br>feel
-bip_39_word_new_br_7: slab<br>spice<br>pole<br>bar<br>acid<br>feel<br>jaguar
-bip_39_word_new_br_8: slab<br>spice<br>pole<br>bar<br>acid<br>feel<br>jaguar<br>barely
-bip_39_word_new_br_9: slab<br>spice<br>pole<br>bar<br>acid<br>feel<br>jaguar<br>barely<br>latin
-bip_39_word_new_line_1: slab
-bip_39_word_new_line_10: 'slab
-
-  spice
-
-  pole
-
-  bar
-
-  acid
-
-  feel
-
-  jaguar
-
-  barely
-
-  latin
-
-  pluck'
-bip_39_word_new_line_11: 'slab
-
-  spice
-
-  pole
-
-  bar
-
-  acid
-
-  feel
-
-  jaguar
-
-  barely
-
-  latin
-
-  pluck
-
-  social'
 bip_39_word_new_line_12: 'slab
 
   spice
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'slab
   spice
 
   pole'
-bip_39_word_new_line_4: 'slab
-
-  spice
-
-  pole
-
-  bar'
-bip_39_word_new_line_5: 'slab
-
-  spice
-
-  pole
-
-  bar
-
-  acid'
-bip_39_word_new_line_6: 'slab
-
-  spice
-
-  pole
-
-  bar
-
-  acid
-
-  feel'
-bip_39_word_new_line_7: 'slab
-
-  spice
-
-  pole
-
-  bar
-
-  acid
-
-  feel
-
-  jaguar'
-bip_39_word_new_line_8: 'slab
-
-  spice
-
-  pole
-
-  bar
-
-  acid
-
-  feel
-
-  jaguar
-
-  barely'
-bip_39_word_new_line_9: 'slab
-
-  spice
-
-  pole
-
-  bar
-
-  acid
-
-  feel
-
-  jaguar
-
-  barely
-
-  latin'
-bip_39_word_no_space_1: slab
-bip_39_word_no_space_10: slabspicepolebaracidfeeljaguarbarelylatinpluck
-bip_39_word_no_space_11: slabspicepolebaracidfeeljaguarbarelylatinplucksocial
 bip_39_word_no_space_12: slabspicepolebaracidfeeljaguarbarelylatinplucksocialaisle
 bip_39_word_no_space_2: slabspice
 bip_39_word_no_space_3: slabspicepole
-bip_39_word_no_space_4: slabspicepolebar
-bip_39_word_no_space_5: slabspicepolebaracid
-bip_39_word_no_space_6: slabspicepolebaracidfeel
-bip_39_word_no_space_7: slabspicepolebaracidfeeljaguar
-bip_39_word_no_space_8: slabspicepolebaracidfeeljaguarbarely
-bip_39_word_no_space_9: slabspicepolebaracidfeeljaguarbarelylatin
-bip_39_word_space_0:
-- slab
-- spice
-- pole
-- bar
-- acid
-- feel
-- jaguar
-- barely
-- latin
-- pluck
-- social
-- aisle
-bip_39_word_space_1: slab
-bip_39_word_space_10: slab spice pole bar acid feel jaguar barely latin pluck
-bip_39_word_space_11: slab spice pole bar acid feel jaguar barely latin pluck social
 bip_39_word_space_12: slab spice pole bar acid feel jaguar barely latin pluck social
   aisle
 bip_39_word_space_2: slab spice
 bip_39_word_space_3: slab spice pole
-bip_39_word_space_4: slab spice pole bar
-bip_39_word_space_5: slab spice pole bar acid
-bip_39_word_space_6: slab spice pole bar acid feel
-bip_39_word_space_7: slab spice pole bar acid feel jaguar
-bip_39_word_space_8: slab spice pole bar acid feel jaguar barely
-bip_39_word_space_9: slab spice pole bar acid feel jaguar barely latin
-bip_39_word_underscore_1: slab
-bip_39_word_underscore_10: slab_spice_pole_bar_acid_feel_jaguar_barely_latin_pluck
-bip_39_word_underscore_11: slab_spice_pole_bar_acid_feel_jaguar_barely_latin_pluck_social
 bip_39_word_underscore_12: slab_spice_pole_bar_acid_feel_jaguar_barely_latin_pluck_social_aisle
 bip_39_word_underscore_2: slab_spice
 bip_39_word_underscore_3: slab_spice_pole
-bip_39_word_underscore_4: slab_spice_pole_bar
-bip_39_word_underscore_5: slab_spice_pole_bar_acid
-bip_39_word_underscore_6: slab_spice_pole_bar_acid_feel
-bip_39_word_underscore_7: slab_spice_pole_bar_acid_feel_jaguar
-bip_39_word_underscore_8: slab_spice_pole_bar_acid_feel_jaguar_barely
-bip_39_word_underscore_9: slab_spice_pole_bar_acid_feel_jaguar_barely_latin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

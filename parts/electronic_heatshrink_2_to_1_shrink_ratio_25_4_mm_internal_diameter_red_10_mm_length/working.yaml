@@ -1,68 +1,9 @@
-bip_39_word_dash_1: family
-bip_39_word_dash_10: family-party-today-jewel-transfer-blast-tunnel-fruit-nasty-project
-bip_39_word_dash_11: family-party-today-jewel-transfer-blast-tunnel-fruit-nasty-project-shoot
 bip_39_word_dash_12: family-party-today-jewel-transfer-blast-tunnel-fruit-nasty-project-shoot-already
 bip_39_word_dash_2: family-party
 bip_39_word_dash_3: family-party-today
-bip_39_word_dash_4: family-party-today-jewel
-bip_39_word_dash_5: family-party-today-jewel-transfer
-bip_39_word_dash_6: family-party-today-jewel-transfer-blast
-bip_39_word_dash_7: family-party-today-jewel-transfer-blast-tunnel
-bip_39_word_dash_8: family-party-today-jewel-transfer-blast-tunnel-fruit
-bip_39_word_dash_9: family-party-today-jewel-transfer-blast-tunnel-fruit-nasty
-bip_39_word_new_br_1: family
-bip_39_word_new_br_10: family<br>party<br>today<br>jewel<br>transfer<br>blast<br>tunnel<br>fruit<br>nasty<br>project
-bip_39_word_new_br_11: family<br>party<br>today<br>jewel<br>transfer<br>blast<br>tunnel<br>fruit<br>nasty<br>project<br>shoot
 bip_39_word_new_br_12: family<br>party<br>today<br>jewel<br>transfer<br>blast<br>tunnel<br>fruit<br>nasty<br>project<br>shoot<br>already
 bip_39_word_new_br_2: family<br>party
 bip_39_word_new_br_3: family<br>party<br>today
-bip_39_word_new_br_4: family<br>party<br>today<br>jewel
-bip_39_word_new_br_5: family<br>party<br>today<br>jewel<br>transfer
-bip_39_word_new_br_6: family<br>party<br>today<br>jewel<br>transfer<br>blast
-bip_39_word_new_br_7: family<br>party<br>today<br>jewel<br>transfer<br>blast<br>tunnel
-bip_39_word_new_br_8: family<br>party<br>today<br>jewel<br>transfer<br>blast<br>tunnel<br>fruit
-bip_39_word_new_br_9: family<br>party<br>today<br>jewel<br>transfer<br>blast<br>tunnel<br>fruit<br>nasty
-bip_39_word_new_line_1: family
-bip_39_word_new_line_10: 'family
-
-  party
-
-  today
-
-  jewel
-
-  transfer
-
-  blast
-
-  tunnel
-
-  fruit
-
-  nasty
-
-  project'
-bip_39_word_new_line_11: 'family
-
-  party
-
-  today
-
-  jewel
-
-  transfer
-
-  blast
-
-  tunnel
-
-  fruit
-
-  nasty
-
-  project
-
-  shoot'
 bip_39_word_new_line_12: 'family
 
   party
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'family
   party
 
   today'
-bip_39_word_new_line_4: 'family
-
-  party
-
-  today
-
-  jewel'
-bip_39_word_new_line_5: 'family
-
-  party
-
-  today
-
-  jewel
-
-  transfer'
-bip_39_word_new_line_6: 'family
-
-  party
-
-  today
-
-  jewel
-
-  transfer
-
-  blast'
-bip_39_word_new_line_7: 'family
-
-  party
-
-  today
-
-  jewel
-
-  transfer
-
-  blast
-
-  tunnel'
-bip_39_word_new_line_8: 'family
-
-  party
-
-  today
-
-  jewel
-
-  transfer
-
-  blast
-
-  tunnel
-
-  fruit'
-bip_39_word_new_line_9: 'family
-
-  party
-
-  today
-
-  jewel
-
-  transfer
-
-  blast
-
-  tunnel
-
-  fruit
-
-  nasty'
-bip_39_word_no_space_1: family
-bip_39_word_no_space_10: familypartytodayjeweltransferblasttunnelfruitnastyproject
-bip_39_word_no_space_11: familypartytodayjeweltransferblasttunnelfruitnastyprojectshoot
 bip_39_word_no_space_12: familypartytodayjeweltransferblasttunnelfruitnastyprojectshootalready
 bip_39_word_no_space_2: familyparty
 bip_39_word_no_space_3: familypartytoday
-bip_39_word_no_space_4: familypartytodayjewel
-bip_39_word_no_space_5: familypartytodayjeweltransfer
-bip_39_word_no_space_6: familypartytodayjeweltransferblast
-bip_39_word_no_space_7: familypartytodayjeweltransferblasttunnel
-bip_39_word_no_space_8: familypartytodayjeweltransferblasttunnelfruit
-bip_39_word_no_space_9: familypartytodayjeweltransferblasttunnelfruitnasty
-bip_39_word_space_0:
-- family
-- party
-- today
-- jewel
-- transfer
-- blast
-- tunnel
-- fruit
-- nasty
-- project
-- shoot
-- already
-bip_39_word_space_1: family
-bip_39_word_space_10: family party today jewel transfer blast tunnel fruit nasty project
-bip_39_word_space_11: family party today jewel transfer blast tunnel fruit nasty project
-  shoot
 bip_39_word_space_12: family party today jewel transfer blast tunnel fruit nasty project
   shoot already
 bip_39_word_space_2: family party
 bip_39_word_space_3: family party today
-bip_39_word_space_4: family party today jewel
-bip_39_word_space_5: family party today jewel transfer
-bip_39_word_space_6: family party today jewel transfer blast
-bip_39_word_space_7: family party today jewel transfer blast tunnel
-bip_39_word_space_8: family party today jewel transfer blast tunnel fruit
-bip_39_word_space_9: family party today jewel transfer blast tunnel fruit nasty
-bip_39_word_underscore_1: family
-bip_39_word_underscore_10: family_party_today_jewel_transfer_blast_tunnel_fruit_nasty_project
-bip_39_word_underscore_11: family_party_today_jewel_transfer_blast_tunnel_fruit_nasty_project_shoot
 bip_39_word_underscore_12: family_party_today_jewel_transfer_blast_tunnel_fruit_nasty_project_shoot_already
 bip_39_word_underscore_2: family_party
 bip_39_word_underscore_3: family_party_today
-bip_39_word_underscore_4: family_party_today_jewel
-bip_39_word_underscore_5: family_party_today_jewel_transfer
-bip_39_word_underscore_6: family_party_today_jewel_transfer_blast
-bip_39_word_underscore_7: family_party_today_jewel_transfer_blast_tunnel
-bip_39_word_underscore_8: family_party_today_jewel_transfer_blast_tunnel_fruit
-bip_39_word_underscore_9: family_party_today_jewel_transfer_blast_tunnel_fruit_nasty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

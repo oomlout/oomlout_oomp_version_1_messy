@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wink
-bip_39_word_dash_10: wink-valid-fortune-present-dutch-possible-wire-oppose-under-merge
-bip_39_word_dash_11: wink-valid-fortune-present-dutch-possible-wire-oppose-under-merge-sunny
 bip_39_word_dash_12: wink-valid-fortune-present-dutch-possible-wire-oppose-under-merge-sunny-angle
 bip_39_word_dash_2: wink-valid
 bip_39_word_dash_3: wink-valid-fortune
-bip_39_word_dash_4: wink-valid-fortune-present
-bip_39_word_dash_5: wink-valid-fortune-present-dutch
-bip_39_word_dash_6: wink-valid-fortune-present-dutch-possible
-bip_39_word_dash_7: wink-valid-fortune-present-dutch-possible-wire
-bip_39_word_dash_8: wink-valid-fortune-present-dutch-possible-wire-oppose
-bip_39_word_dash_9: wink-valid-fortune-present-dutch-possible-wire-oppose-under
-bip_39_word_new_br_1: wink
-bip_39_word_new_br_10: wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose<br>under<br>merge
-bip_39_word_new_br_11: wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose<br>under<br>merge<br>sunny
 bip_39_word_new_br_12: wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose<br>under<br>merge<br>sunny<br>angle
 bip_39_word_new_br_2: wink<br>valid
 bip_39_word_new_br_3: wink<br>valid<br>fortune
-bip_39_word_new_br_4: wink<br>valid<br>fortune<br>present
-bip_39_word_new_br_5: wink<br>valid<br>fortune<br>present<br>dutch
-bip_39_word_new_br_6: wink<br>valid<br>fortune<br>present<br>dutch<br>possible
-bip_39_word_new_br_7: wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire
-bip_39_word_new_br_8: wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose
-bip_39_word_new_br_9: wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose<br>under
-bip_39_word_new_line_1: wink
-bip_39_word_new_line_10: 'wink
-
-  valid
-
-  fortune
-
-  present
-
-  dutch
-
-  possible
-
-  wire
-
-  oppose
-
-  under
-
-  merge'
-bip_39_word_new_line_11: 'wink
-
-  valid
-
-  fortune
-
-  present
-
-  dutch
-
-  possible
-
-  wire
-
-  oppose
-
-  under
-
-  merge
-
-  sunny'
 bip_39_word_new_line_12: 'wink
 
   valid
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'wink
   valid
 
   fortune'
-bip_39_word_new_line_4: 'wink
-
-  valid
-
-  fortune
-
-  present'
-bip_39_word_new_line_5: 'wink
-
-  valid
-
-  fortune
-
-  present
-
-  dutch'
-bip_39_word_new_line_6: 'wink
-
-  valid
-
-  fortune
-
-  present
-
-  dutch
-
-  possible'
-bip_39_word_new_line_7: 'wink
-
-  valid
-
-  fortune
-
-  present
-
-  dutch
-
-  possible
-
-  wire'
-bip_39_word_new_line_8: 'wink
-
-  valid
-
-  fortune
-
-  present
-
-  dutch
-
-  possible
-
-  wire
-
-  oppose'
-bip_39_word_new_line_9: 'wink
-
-  valid
-
-  fortune
-
-  present
-
-  dutch
-
-  possible
-
-  wire
-
-  oppose
-
-  under'
-bip_39_word_no_space_1: wink
-bip_39_word_no_space_10: winkvalidfortunepresentdutchpossiblewireopposeundermerge
-bip_39_word_no_space_11: winkvalidfortunepresentdutchpossiblewireopposeundermergesunny
 bip_39_word_no_space_12: winkvalidfortunepresentdutchpossiblewireopposeundermergesunnyangle
 bip_39_word_no_space_2: winkvalid
 bip_39_word_no_space_3: winkvalidfortune
-bip_39_word_no_space_4: winkvalidfortunepresent
-bip_39_word_no_space_5: winkvalidfortunepresentdutch
-bip_39_word_no_space_6: winkvalidfortunepresentdutchpossible
-bip_39_word_no_space_7: winkvalidfortunepresentdutchpossiblewire
-bip_39_word_no_space_8: winkvalidfortunepresentdutchpossiblewireoppose
-bip_39_word_no_space_9: winkvalidfortunepresentdutchpossiblewireopposeunder
-bip_39_word_space_0:
-- wink
-- valid
-- fortune
-- present
-- dutch
-- possible
-- wire
-- oppose
-- under
-- merge
-- sunny
-- angle
-bip_39_word_space_1: wink
-bip_39_word_space_10: wink valid fortune present dutch possible wire oppose under
-  merge
-bip_39_word_space_11: wink valid fortune present dutch possible wire oppose under
-  merge sunny
 bip_39_word_space_12: wink valid fortune present dutch possible wire oppose under
   merge sunny angle
 bip_39_word_space_2: wink valid
 bip_39_word_space_3: wink valid fortune
-bip_39_word_space_4: wink valid fortune present
-bip_39_word_space_5: wink valid fortune present dutch
-bip_39_word_space_6: wink valid fortune present dutch possible
-bip_39_word_space_7: wink valid fortune present dutch possible wire
-bip_39_word_space_8: wink valid fortune present dutch possible wire oppose
-bip_39_word_space_9: wink valid fortune present dutch possible wire oppose under
-bip_39_word_underscore_1: wink
-bip_39_word_underscore_10: wink_valid_fortune_present_dutch_possible_wire_oppose_under_merge
-bip_39_word_underscore_11: wink_valid_fortune_present_dutch_possible_wire_oppose_under_merge_sunny
 bip_39_word_underscore_12: wink_valid_fortune_present_dutch_possible_wire_oppose_under_merge_sunny_angle
 bip_39_word_underscore_2: wink_valid
 bip_39_word_underscore_3: wink_valid_fortune
-bip_39_word_underscore_4: wink_valid_fortune_present
-bip_39_word_underscore_5: wink_valid_fortune_present_dutch
-bip_39_word_underscore_6: wink_valid_fortune_present_dutch_possible
-bip_39_word_underscore_7: wink_valid_fortune_present_dutch_possible_wire
-bip_39_word_underscore_8: wink_valid_fortune_present_dutch_possible_wire_oppose
-bip_39_word_underscore_9: wink_valid_fortune_present_dutch_possible_wire_oppose_under
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

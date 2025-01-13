@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hamster
-bip_39_word_dash_10: hamster-expect-mix-case-toilet-what-spirit-abstract-bomb-finish
-bip_39_word_dash_11: hamster-expect-mix-case-toilet-what-spirit-abstract-bomb-finish-buyer
 bip_39_word_dash_12: hamster-expect-mix-case-toilet-what-spirit-abstract-bomb-finish-buyer-agent
 bip_39_word_dash_2: hamster-expect
 bip_39_word_dash_3: hamster-expect-mix
-bip_39_word_dash_4: hamster-expect-mix-case
-bip_39_word_dash_5: hamster-expect-mix-case-toilet
-bip_39_word_dash_6: hamster-expect-mix-case-toilet-what
-bip_39_word_dash_7: hamster-expect-mix-case-toilet-what-spirit
-bip_39_word_dash_8: hamster-expect-mix-case-toilet-what-spirit-abstract
-bip_39_word_dash_9: hamster-expect-mix-case-toilet-what-spirit-abstract-bomb
-bip_39_word_new_br_1: hamster
-bip_39_word_new_br_10: hamster<br>expect<br>mix<br>case<br>toilet<br>what<br>spirit<br>abstract<br>bomb<br>finish
-bip_39_word_new_br_11: hamster<br>expect<br>mix<br>case<br>toilet<br>what<br>spirit<br>abstract<br>bomb<br>finish<br>buyer
 bip_39_word_new_br_12: hamster<br>expect<br>mix<br>case<br>toilet<br>what<br>spirit<br>abstract<br>bomb<br>finish<br>buyer<br>agent
 bip_39_word_new_br_2: hamster<br>expect
 bip_39_word_new_br_3: hamster<br>expect<br>mix
-bip_39_word_new_br_4: hamster<br>expect<br>mix<br>case
-bip_39_word_new_br_5: hamster<br>expect<br>mix<br>case<br>toilet
-bip_39_word_new_br_6: hamster<br>expect<br>mix<br>case<br>toilet<br>what
-bip_39_word_new_br_7: hamster<br>expect<br>mix<br>case<br>toilet<br>what<br>spirit
-bip_39_word_new_br_8: hamster<br>expect<br>mix<br>case<br>toilet<br>what<br>spirit<br>abstract
-bip_39_word_new_br_9: hamster<br>expect<br>mix<br>case<br>toilet<br>what<br>spirit<br>abstract<br>bomb
-bip_39_word_new_line_1: hamster
-bip_39_word_new_line_10: 'hamster
-
-  expect
-
-  mix
-
-  case
-
-  toilet
-
-  what
-
-  spirit
-
-  abstract
-
-  bomb
-
-  finish'
-bip_39_word_new_line_11: 'hamster
-
-  expect
-
-  mix
-
-  case
-
-  toilet
-
-  what
-
-  spirit
-
-  abstract
-
-  bomb
-
-  finish
-
-  buyer'
 bip_39_word_new_line_12: 'hamster
 
   expect
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hamster
   expect
 
   mix'
-bip_39_word_new_line_4: 'hamster
-
-  expect
-
-  mix
-
-  case'
-bip_39_word_new_line_5: 'hamster
-
-  expect
-
-  mix
-
-  case
-
-  toilet'
-bip_39_word_new_line_6: 'hamster
-
-  expect
-
-  mix
-
-  case
-
-  toilet
-
-  what'
-bip_39_word_new_line_7: 'hamster
-
-  expect
-
-  mix
-
-  case
-
-  toilet
-
-  what
-
-  spirit'
-bip_39_word_new_line_8: 'hamster
-
-  expect
-
-  mix
-
-  case
-
-  toilet
-
-  what
-
-  spirit
-
-  abstract'
-bip_39_word_new_line_9: 'hamster
-
-  expect
-
-  mix
-
-  case
-
-  toilet
-
-  what
-
-  spirit
-
-  abstract
-
-  bomb'
-bip_39_word_no_space_1: hamster
-bip_39_word_no_space_10: hamsterexpectmixcasetoiletwhatspiritabstractbombfinish
-bip_39_word_no_space_11: hamsterexpectmixcasetoiletwhatspiritabstractbombfinishbuyer
 bip_39_word_no_space_12: hamsterexpectmixcasetoiletwhatspiritabstractbombfinishbuyeragent
 bip_39_word_no_space_2: hamsterexpect
 bip_39_word_no_space_3: hamsterexpectmix
-bip_39_word_no_space_4: hamsterexpectmixcase
-bip_39_word_no_space_5: hamsterexpectmixcasetoilet
-bip_39_word_no_space_6: hamsterexpectmixcasetoiletwhat
-bip_39_word_no_space_7: hamsterexpectmixcasetoiletwhatspirit
-bip_39_word_no_space_8: hamsterexpectmixcasetoiletwhatspiritabstract
-bip_39_word_no_space_9: hamsterexpectmixcasetoiletwhatspiritabstractbomb
-bip_39_word_space_0:
-- hamster
-- expect
-- mix
-- case
-- toilet
-- what
-- spirit
-- abstract
-- bomb
-- finish
-- buyer
-- agent
-bip_39_word_space_1: hamster
-bip_39_word_space_10: hamster expect mix case toilet what spirit abstract bomb finish
-bip_39_word_space_11: hamster expect mix case toilet what spirit abstract bomb finish
-  buyer
 bip_39_word_space_12: hamster expect mix case toilet what spirit abstract bomb finish
   buyer agent
 bip_39_word_space_2: hamster expect
 bip_39_word_space_3: hamster expect mix
-bip_39_word_space_4: hamster expect mix case
-bip_39_word_space_5: hamster expect mix case toilet
-bip_39_word_space_6: hamster expect mix case toilet what
-bip_39_word_space_7: hamster expect mix case toilet what spirit
-bip_39_word_space_8: hamster expect mix case toilet what spirit abstract
-bip_39_word_space_9: hamster expect mix case toilet what spirit abstract bomb
-bip_39_word_underscore_1: hamster
-bip_39_word_underscore_10: hamster_expect_mix_case_toilet_what_spirit_abstract_bomb_finish
-bip_39_word_underscore_11: hamster_expect_mix_case_toilet_what_spirit_abstract_bomb_finish_buyer
 bip_39_word_underscore_12: hamster_expect_mix_case_toilet_what_spirit_abstract_bomb_finish_buyer_agent
 bip_39_word_underscore_2: hamster_expect
 bip_39_word_underscore_3: hamster_expect_mix
-bip_39_word_underscore_4: hamster_expect_mix_case
-bip_39_word_underscore_5: hamster_expect_mix_case_toilet
-bip_39_word_underscore_6: hamster_expect_mix_case_toilet_what
-bip_39_word_underscore_7: hamster_expect_mix_case_toilet_what_spirit
-bip_39_word_underscore_8: hamster_expect_mix_case_toilet_what_spirit_abstract
-bip_39_word_underscore_9: hamster_expect_mix_case_toilet_what_spirit_abstract_bomb
 classification: category
 classification_capital: Category
 classification_first_letter: c

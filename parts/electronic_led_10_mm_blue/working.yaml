@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sail
-bip_39_word_dash_10: sail-diesel-eagle-fitness-science-upgrade-away-gauge-surface-lab
-bip_39_word_dash_11: sail-diesel-eagle-fitness-science-upgrade-away-gauge-surface-lab-actor
 bip_39_word_dash_12: sail-diesel-eagle-fitness-science-upgrade-away-gauge-surface-lab-actor-always
 bip_39_word_dash_2: sail-diesel
 bip_39_word_dash_3: sail-diesel-eagle
-bip_39_word_dash_4: sail-diesel-eagle-fitness
-bip_39_word_dash_5: sail-diesel-eagle-fitness-science
-bip_39_word_dash_6: sail-diesel-eagle-fitness-science-upgrade
-bip_39_word_dash_7: sail-diesel-eagle-fitness-science-upgrade-away
-bip_39_word_dash_8: sail-diesel-eagle-fitness-science-upgrade-away-gauge
-bip_39_word_dash_9: sail-diesel-eagle-fitness-science-upgrade-away-gauge-surface
-bip_39_word_new_br_1: sail
-bip_39_word_new_br_10: sail<br>diesel<br>eagle<br>fitness<br>science<br>upgrade<br>away<br>gauge<br>surface<br>lab
-bip_39_word_new_br_11: sail<br>diesel<br>eagle<br>fitness<br>science<br>upgrade<br>away<br>gauge<br>surface<br>lab<br>actor
 bip_39_word_new_br_12: sail<br>diesel<br>eagle<br>fitness<br>science<br>upgrade<br>away<br>gauge<br>surface<br>lab<br>actor<br>always
 bip_39_word_new_br_2: sail<br>diesel
 bip_39_word_new_br_3: sail<br>diesel<br>eagle
-bip_39_word_new_br_4: sail<br>diesel<br>eagle<br>fitness
-bip_39_word_new_br_5: sail<br>diesel<br>eagle<br>fitness<br>science
-bip_39_word_new_br_6: sail<br>diesel<br>eagle<br>fitness<br>science<br>upgrade
-bip_39_word_new_br_7: sail<br>diesel<br>eagle<br>fitness<br>science<br>upgrade<br>away
-bip_39_word_new_br_8: sail<br>diesel<br>eagle<br>fitness<br>science<br>upgrade<br>away<br>gauge
-bip_39_word_new_br_9: sail<br>diesel<br>eagle<br>fitness<br>science<br>upgrade<br>away<br>gauge<br>surface
-bip_39_word_new_line_1: sail
-bip_39_word_new_line_10: 'sail
-
-  diesel
-
-  eagle
-
-  fitness
-
-  science
-
-  upgrade
-
-  away
-
-  gauge
-
-  surface
-
-  lab'
-bip_39_word_new_line_11: 'sail
-
-  diesel
-
-  eagle
-
-  fitness
-
-  science
-
-  upgrade
-
-  away
-
-  gauge
-
-  surface
-
-  lab
-
-  actor'
 bip_39_word_new_line_12: 'sail
 
   diesel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sail
   diesel
 
   eagle'
-bip_39_word_new_line_4: 'sail
-
-  diesel
-
-  eagle
-
-  fitness'
-bip_39_word_new_line_5: 'sail
-
-  diesel
-
-  eagle
-
-  fitness
-
-  science'
-bip_39_word_new_line_6: 'sail
-
-  diesel
-
-  eagle
-
-  fitness
-
-  science
-
-  upgrade'
-bip_39_word_new_line_7: 'sail
-
-  diesel
-
-  eagle
-
-  fitness
-
-  science
-
-  upgrade
-
-  away'
-bip_39_word_new_line_8: 'sail
-
-  diesel
-
-  eagle
-
-  fitness
-
-  science
-
-  upgrade
-
-  away
-
-  gauge'
-bip_39_word_new_line_9: 'sail
-
-  diesel
-
-  eagle
-
-  fitness
-
-  science
-
-  upgrade
-
-  away
-
-  gauge
-
-  surface'
-bip_39_word_no_space_1: sail
-bip_39_word_no_space_10: saildieseleaglefitnessscienceupgradeawaygaugesurfacelab
-bip_39_word_no_space_11: saildieseleaglefitnessscienceupgradeawaygaugesurfacelabactor
 bip_39_word_no_space_12: saildieseleaglefitnessscienceupgradeawaygaugesurfacelabactoralways
 bip_39_word_no_space_2: saildiesel
 bip_39_word_no_space_3: saildieseleagle
-bip_39_word_no_space_4: saildieseleaglefitness
-bip_39_word_no_space_5: saildieseleaglefitnessscience
-bip_39_word_no_space_6: saildieseleaglefitnessscienceupgrade
-bip_39_word_no_space_7: saildieseleaglefitnessscienceupgradeaway
-bip_39_word_no_space_8: saildieseleaglefitnessscienceupgradeawaygauge
-bip_39_word_no_space_9: saildieseleaglefitnessscienceupgradeawaygaugesurface
-bip_39_word_space_0:
-- sail
-- diesel
-- eagle
-- fitness
-- science
-- upgrade
-- away
-- gauge
-- surface
-- lab
-- actor
-- always
-bip_39_word_space_1: sail
-bip_39_word_space_10: sail diesel eagle fitness science upgrade away gauge surface
-  lab
-bip_39_word_space_11: sail diesel eagle fitness science upgrade away gauge surface
-  lab actor
 bip_39_word_space_12: sail diesel eagle fitness science upgrade away gauge surface
   lab actor always
 bip_39_word_space_2: sail diesel
 bip_39_word_space_3: sail diesel eagle
-bip_39_word_space_4: sail diesel eagle fitness
-bip_39_word_space_5: sail diesel eagle fitness science
-bip_39_word_space_6: sail diesel eagle fitness science upgrade
-bip_39_word_space_7: sail diesel eagle fitness science upgrade away
-bip_39_word_space_8: sail diesel eagle fitness science upgrade away gauge
-bip_39_word_space_9: sail diesel eagle fitness science upgrade away gauge surface
-bip_39_word_underscore_1: sail
-bip_39_word_underscore_10: sail_diesel_eagle_fitness_science_upgrade_away_gauge_surface_lab
-bip_39_word_underscore_11: sail_diesel_eagle_fitness_science_upgrade_away_gauge_surface_lab_actor
 bip_39_word_underscore_12: sail_diesel_eagle_fitness_science_upgrade_away_gauge_surface_lab_actor_always
 bip_39_word_underscore_2: sail_diesel
 bip_39_word_underscore_3: sail_diesel_eagle
-bip_39_word_underscore_4: sail_diesel_eagle_fitness
-bip_39_word_underscore_5: sail_diesel_eagle_fitness_science
-bip_39_word_underscore_6: sail_diesel_eagle_fitness_science_upgrade
-bip_39_word_underscore_7: sail_diesel_eagle_fitness_science_upgrade_away
-bip_39_word_underscore_8: sail_diesel_eagle_fitness_science_upgrade_away_gauge
-bip_39_word_underscore_9: sail_diesel_eagle_fitness_science_upgrade_away_gauge_surface
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

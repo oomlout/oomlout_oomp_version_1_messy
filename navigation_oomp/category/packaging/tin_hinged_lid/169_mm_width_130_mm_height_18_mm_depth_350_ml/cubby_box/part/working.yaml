@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mesh
-bip_39_word_dash_10: mesh-clean-mystery-much-long-secret-maze-spawn-excuse-keep
-bip_39_word_dash_11: mesh-clean-mystery-much-long-secret-maze-spawn-excuse-keep-immune
 bip_39_word_dash_12: mesh-clean-mystery-much-long-secret-maze-spawn-excuse-keep-immune-above
 bip_39_word_dash_2: mesh-clean
 bip_39_word_dash_3: mesh-clean-mystery
-bip_39_word_dash_4: mesh-clean-mystery-much
-bip_39_word_dash_5: mesh-clean-mystery-much-long
-bip_39_word_dash_6: mesh-clean-mystery-much-long-secret
-bip_39_word_dash_7: mesh-clean-mystery-much-long-secret-maze
-bip_39_word_dash_8: mesh-clean-mystery-much-long-secret-maze-spawn
-bip_39_word_dash_9: mesh-clean-mystery-much-long-secret-maze-spawn-excuse
-bip_39_word_new_br_1: mesh
-bip_39_word_new_br_10: mesh<br>clean<br>mystery<br>much<br>long<br>secret<br>maze<br>spawn<br>excuse<br>keep
-bip_39_word_new_br_11: mesh<br>clean<br>mystery<br>much<br>long<br>secret<br>maze<br>spawn<br>excuse<br>keep<br>immune
 bip_39_word_new_br_12: mesh<br>clean<br>mystery<br>much<br>long<br>secret<br>maze<br>spawn<br>excuse<br>keep<br>immune<br>above
 bip_39_word_new_br_2: mesh<br>clean
 bip_39_word_new_br_3: mesh<br>clean<br>mystery
-bip_39_word_new_br_4: mesh<br>clean<br>mystery<br>much
-bip_39_word_new_br_5: mesh<br>clean<br>mystery<br>much<br>long
-bip_39_word_new_br_6: mesh<br>clean<br>mystery<br>much<br>long<br>secret
-bip_39_word_new_br_7: mesh<br>clean<br>mystery<br>much<br>long<br>secret<br>maze
-bip_39_word_new_br_8: mesh<br>clean<br>mystery<br>much<br>long<br>secret<br>maze<br>spawn
-bip_39_word_new_br_9: mesh<br>clean<br>mystery<br>much<br>long<br>secret<br>maze<br>spawn<br>excuse
-bip_39_word_new_line_1: mesh
-bip_39_word_new_line_10: 'mesh
-
-  clean
-
-  mystery
-
-  much
-
-  long
-
-  secret
-
-  maze
-
-  spawn
-
-  excuse
-
-  keep'
-bip_39_word_new_line_11: 'mesh
-
-  clean
-
-  mystery
-
-  much
-
-  long
-
-  secret
-
-  maze
-
-  spawn
-
-  excuse
-
-  keep
-
-  immune'
 bip_39_word_new_line_12: 'mesh
 
   clean
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'mesh
   clean
 
   mystery'
-bip_39_word_new_line_4: 'mesh
-
-  clean
-
-  mystery
-
-  much'
-bip_39_word_new_line_5: 'mesh
-
-  clean
-
-  mystery
-
-  much
-
-  long'
-bip_39_word_new_line_6: 'mesh
-
-  clean
-
-  mystery
-
-  much
-
-  long
-
-  secret'
-bip_39_word_new_line_7: 'mesh
-
-  clean
-
-  mystery
-
-  much
-
-  long
-
-  secret
-
-  maze'
-bip_39_word_new_line_8: 'mesh
-
-  clean
-
-  mystery
-
-  much
-
-  long
-
-  secret
-
-  maze
-
-  spawn'
-bip_39_word_new_line_9: 'mesh
-
-  clean
-
-  mystery
-
-  much
-
-  long
-
-  secret
-
-  maze
-
-  spawn
-
-  excuse'
-bip_39_word_no_space_1: mesh
-bip_39_word_no_space_10: meshcleanmysterymuchlongsecretmazespawnexcusekeep
-bip_39_word_no_space_11: meshcleanmysterymuchlongsecretmazespawnexcusekeepimmune
 bip_39_word_no_space_12: meshcleanmysterymuchlongsecretmazespawnexcusekeepimmuneabove
 bip_39_word_no_space_2: meshclean
 bip_39_word_no_space_3: meshcleanmystery
-bip_39_word_no_space_4: meshcleanmysterymuch
-bip_39_word_no_space_5: meshcleanmysterymuchlong
-bip_39_word_no_space_6: meshcleanmysterymuchlongsecret
-bip_39_word_no_space_7: meshcleanmysterymuchlongsecretmaze
-bip_39_word_no_space_8: meshcleanmysterymuchlongsecretmazespawn
-bip_39_word_no_space_9: meshcleanmysterymuchlongsecretmazespawnexcuse
-bip_39_word_space_0:
-- mesh
-- clean
-- mystery
-- much
-- long
-- secret
-- maze
-- spawn
-- excuse
-- keep
-- immune
-- above
-bip_39_word_space_1: mesh
-bip_39_word_space_10: mesh clean mystery much long secret maze spawn excuse keep
-bip_39_word_space_11: mesh clean mystery much long secret maze spawn excuse keep immune
 bip_39_word_space_12: mesh clean mystery much long secret maze spawn excuse keep immune
   above
 bip_39_word_space_2: mesh clean
 bip_39_word_space_3: mesh clean mystery
-bip_39_word_space_4: mesh clean mystery much
-bip_39_word_space_5: mesh clean mystery much long
-bip_39_word_space_6: mesh clean mystery much long secret
-bip_39_word_space_7: mesh clean mystery much long secret maze
-bip_39_word_space_8: mesh clean mystery much long secret maze spawn
-bip_39_word_space_9: mesh clean mystery much long secret maze spawn excuse
-bip_39_word_underscore_1: mesh
-bip_39_word_underscore_10: mesh_clean_mystery_much_long_secret_maze_spawn_excuse_keep
-bip_39_word_underscore_11: mesh_clean_mystery_much_long_secret_maze_spawn_excuse_keep_immune
 bip_39_word_underscore_12: mesh_clean_mystery_much_long_secret_maze_spawn_excuse_keep_immune_above
 bip_39_word_underscore_2: mesh_clean
 bip_39_word_underscore_3: mesh_clean_mystery
-bip_39_word_underscore_4: mesh_clean_mystery_much
-bip_39_word_underscore_5: mesh_clean_mystery_much_long
-bip_39_word_underscore_6: mesh_clean_mystery_much_long_secret
-bip_39_word_underscore_7: mesh_clean_mystery_much_long_secret_maze
-bip_39_word_underscore_8: mesh_clean_mystery_much_long_secret_maze_spawn
-bip_39_word_underscore_9: mesh_clean_mystery_much_long_secret_maze_spawn_excuse
 classification: category
 classification_capital: Category
 classification_first_letter: c

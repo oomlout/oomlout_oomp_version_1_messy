@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tone
-bip_39_word_dash_10: tone-valley-pepper-hockey-invite-pelican-curve-ticket-diesel-penalty
-bip_39_word_dash_11: tone-valley-pepper-hockey-invite-pelican-curve-ticket-diesel-penalty-crawl
 bip_39_word_dash_12: tone-valley-pepper-hockey-invite-pelican-curve-ticket-diesel-penalty-crawl-alter
 bip_39_word_dash_2: tone-valley
 bip_39_word_dash_3: tone-valley-pepper
-bip_39_word_dash_4: tone-valley-pepper-hockey
-bip_39_word_dash_5: tone-valley-pepper-hockey-invite
-bip_39_word_dash_6: tone-valley-pepper-hockey-invite-pelican
-bip_39_word_dash_7: tone-valley-pepper-hockey-invite-pelican-curve
-bip_39_word_dash_8: tone-valley-pepper-hockey-invite-pelican-curve-ticket
-bip_39_word_dash_9: tone-valley-pepper-hockey-invite-pelican-curve-ticket-diesel
-bip_39_word_new_br_1: tone
-bip_39_word_new_br_10: tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty
-bip_39_word_new_br_11: tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty<br>crawl
 bip_39_word_new_br_12: tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel<br>penalty<br>crawl<br>alter
 bip_39_word_new_br_2: tone<br>valley
 bip_39_word_new_br_3: tone<br>valley<br>pepper
-bip_39_word_new_br_4: tone<br>valley<br>pepper<br>hockey
-bip_39_word_new_br_5: tone<br>valley<br>pepper<br>hockey<br>invite
-bip_39_word_new_br_6: tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican
-bip_39_word_new_br_7: tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve
-bip_39_word_new_br_8: tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket
-bip_39_word_new_br_9: tone<br>valley<br>pepper<br>hockey<br>invite<br>pelican<br>curve<br>ticket<br>diesel
-bip_39_word_new_line_1: tone
-bip_39_word_new_line_10: 'tone
-
-  valley
-
-  pepper
-
-  hockey
-
-  invite
-
-  pelican
-
-  curve
-
-  ticket
-
-  diesel
-
-  penalty'
-bip_39_word_new_line_11: 'tone
-
-  valley
-
-  pepper
-
-  hockey
-
-  invite
-
-  pelican
-
-  curve
-
-  ticket
-
-  diesel
-
-  penalty
-
-  crawl'
 bip_39_word_new_line_12: 'tone
 
   valley
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'tone
   valley
 
   pepper'
-bip_39_word_new_line_4: 'tone
-
-  valley
-
-  pepper
-
-  hockey'
-bip_39_word_new_line_5: 'tone
-
-  valley
-
-  pepper
-
-  hockey
-
-  invite'
-bip_39_word_new_line_6: 'tone
-
-  valley
-
-  pepper
-
-  hockey
-
-  invite
-
-  pelican'
-bip_39_word_new_line_7: 'tone
-
-  valley
-
-  pepper
-
-  hockey
-
-  invite
-
-  pelican
-
-  curve'
-bip_39_word_new_line_8: 'tone
-
-  valley
-
-  pepper
-
-  hockey
-
-  invite
-
-  pelican
-
-  curve
-
-  ticket'
-bip_39_word_new_line_9: 'tone
-
-  valley
-
-  pepper
-
-  hockey
-
-  invite
-
-  pelican
-
-  curve
-
-  ticket
-
-  diesel'
-bip_39_word_no_space_1: tone
-bip_39_word_no_space_10: tonevalleypepperhockeyinvitepelicancurveticketdieselpenalty
-bip_39_word_no_space_11: tonevalleypepperhockeyinvitepelicancurveticketdieselpenaltycrawl
 bip_39_word_no_space_12: tonevalleypepperhockeyinvitepelicancurveticketdieselpenaltycrawlalter
 bip_39_word_no_space_2: tonevalley
 bip_39_word_no_space_3: tonevalleypepper
-bip_39_word_no_space_4: tonevalleypepperhockey
-bip_39_word_no_space_5: tonevalleypepperhockeyinvite
-bip_39_word_no_space_6: tonevalleypepperhockeyinvitepelican
-bip_39_word_no_space_7: tonevalleypepperhockeyinvitepelicancurve
-bip_39_word_no_space_8: tonevalleypepperhockeyinvitepelicancurveticket
-bip_39_word_no_space_9: tonevalleypepperhockeyinvitepelicancurveticketdiesel
-bip_39_word_space_0:
-- tone
-- valley
-- pepper
-- hockey
-- invite
-- pelican
-- curve
-- ticket
-- diesel
-- penalty
-- crawl
-- alter
-bip_39_word_space_1: tone
-bip_39_word_space_10: tone valley pepper hockey invite pelican curve ticket diesel
-  penalty
-bip_39_word_space_11: tone valley pepper hockey invite pelican curve ticket diesel
-  penalty crawl
 bip_39_word_space_12: tone valley pepper hockey invite pelican curve ticket diesel
   penalty crawl alter
 bip_39_word_space_2: tone valley
 bip_39_word_space_3: tone valley pepper
-bip_39_word_space_4: tone valley pepper hockey
-bip_39_word_space_5: tone valley pepper hockey invite
-bip_39_word_space_6: tone valley pepper hockey invite pelican
-bip_39_word_space_7: tone valley pepper hockey invite pelican curve
-bip_39_word_space_8: tone valley pepper hockey invite pelican curve ticket
-bip_39_word_space_9: tone valley pepper hockey invite pelican curve ticket diesel
-bip_39_word_underscore_1: tone
-bip_39_word_underscore_10: tone_valley_pepper_hockey_invite_pelican_curve_ticket_diesel_penalty
-bip_39_word_underscore_11: tone_valley_pepper_hockey_invite_pelican_curve_ticket_diesel_penalty_crawl
 bip_39_word_underscore_12: tone_valley_pepper_hockey_invite_pelican_curve_ticket_diesel_penalty_crawl_alter
 bip_39_word_underscore_2: tone_valley
 bip_39_word_underscore_3: tone_valley_pepper
-bip_39_word_underscore_4: tone_valley_pepper_hockey
-bip_39_word_underscore_5: tone_valley_pepper_hockey_invite
-bip_39_word_underscore_6: tone_valley_pepper_hockey_invite_pelican
-bip_39_word_underscore_7: tone_valley_pepper_hockey_invite_pelican_curve
-bip_39_word_underscore_8: tone_valley_pepper_hockey_invite_pelican_curve_ticket
-bip_39_word_underscore_9: tone_valley_pepper_hockey_invite_pelican_curve_ticket_diesel
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

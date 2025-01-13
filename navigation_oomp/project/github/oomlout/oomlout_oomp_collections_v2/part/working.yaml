@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rescue
-bip_39_word_dash_10: rescue-deliver-shop-juice-capable-run-envelope-nephew-zebra-outdoor
-bip_39_word_dash_11: rescue-deliver-shop-juice-capable-run-envelope-nephew-zebra-outdoor-comfort
 bip_39_word_dash_12: rescue-deliver-shop-juice-capable-run-envelope-nephew-zebra-outdoor-comfort-armed
 bip_39_word_dash_2: rescue-deliver
 bip_39_word_dash_3: rescue-deliver-shop
-bip_39_word_dash_4: rescue-deliver-shop-juice
-bip_39_word_dash_5: rescue-deliver-shop-juice-capable
-bip_39_word_dash_6: rescue-deliver-shop-juice-capable-run
-bip_39_word_dash_7: rescue-deliver-shop-juice-capable-run-envelope
-bip_39_word_dash_8: rescue-deliver-shop-juice-capable-run-envelope-nephew
-bip_39_word_dash_9: rescue-deliver-shop-juice-capable-run-envelope-nephew-zebra
-bip_39_word_new_br_1: rescue
-bip_39_word_new_br_10: rescue<br>deliver<br>shop<br>juice<br>capable<br>run<br>envelope<br>nephew<br>zebra<br>outdoor
-bip_39_word_new_br_11: rescue<br>deliver<br>shop<br>juice<br>capable<br>run<br>envelope<br>nephew<br>zebra<br>outdoor<br>comfort
 bip_39_word_new_br_12: rescue<br>deliver<br>shop<br>juice<br>capable<br>run<br>envelope<br>nephew<br>zebra<br>outdoor<br>comfort<br>armed
 bip_39_word_new_br_2: rescue<br>deliver
 bip_39_word_new_br_3: rescue<br>deliver<br>shop
-bip_39_word_new_br_4: rescue<br>deliver<br>shop<br>juice
-bip_39_word_new_br_5: rescue<br>deliver<br>shop<br>juice<br>capable
-bip_39_word_new_br_6: rescue<br>deliver<br>shop<br>juice<br>capable<br>run
-bip_39_word_new_br_7: rescue<br>deliver<br>shop<br>juice<br>capable<br>run<br>envelope
-bip_39_word_new_br_8: rescue<br>deliver<br>shop<br>juice<br>capable<br>run<br>envelope<br>nephew
-bip_39_word_new_br_9: rescue<br>deliver<br>shop<br>juice<br>capable<br>run<br>envelope<br>nephew<br>zebra
-bip_39_word_new_line_1: rescue
-bip_39_word_new_line_10: 'rescue
-
-  deliver
-
-  shop
-
-  juice
-
-  capable
-
-  run
-
-  envelope
-
-  nephew
-
-  zebra
-
-  outdoor'
-bip_39_word_new_line_11: 'rescue
-
-  deliver
-
-  shop
-
-  juice
-
-  capable
-
-  run
-
-  envelope
-
-  nephew
-
-  zebra
-
-  outdoor
-
-  comfort'
 bip_39_word_new_line_12: 'rescue
 
   deliver
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'rescue
   deliver
 
   shop'
-bip_39_word_new_line_4: 'rescue
-
-  deliver
-
-  shop
-
-  juice'
-bip_39_word_new_line_5: 'rescue
-
-  deliver
-
-  shop
-
-  juice
-
-  capable'
-bip_39_word_new_line_6: 'rescue
-
-  deliver
-
-  shop
-
-  juice
-
-  capable
-
-  run'
-bip_39_word_new_line_7: 'rescue
-
-  deliver
-
-  shop
-
-  juice
-
-  capable
-
-  run
-
-  envelope'
-bip_39_word_new_line_8: 'rescue
-
-  deliver
-
-  shop
-
-  juice
-
-  capable
-
-  run
-
-  envelope
-
-  nephew'
-bip_39_word_new_line_9: 'rescue
-
-  deliver
-
-  shop
-
-  juice
-
-  capable
-
-  run
-
-  envelope
-
-  nephew
-
-  zebra'
-bip_39_word_no_space_1: rescue
-bip_39_word_no_space_10: rescuedelivershopjuicecapablerunenvelopenephewzebraoutdoor
-bip_39_word_no_space_11: rescuedelivershopjuicecapablerunenvelopenephewzebraoutdoorcomfort
 bip_39_word_no_space_12: rescuedelivershopjuicecapablerunenvelopenephewzebraoutdoorcomfortarmed
 bip_39_word_no_space_2: rescuedeliver
 bip_39_word_no_space_3: rescuedelivershop
-bip_39_word_no_space_4: rescuedelivershopjuice
-bip_39_word_no_space_5: rescuedelivershopjuicecapable
-bip_39_word_no_space_6: rescuedelivershopjuicecapablerun
-bip_39_word_no_space_7: rescuedelivershopjuicecapablerunenvelope
-bip_39_word_no_space_8: rescuedelivershopjuicecapablerunenvelopenephew
-bip_39_word_no_space_9: rescuedelivershopjuicecapablerunenvelopenephewzebra
-bip_39_word_space_0:
-- rescue
-- deliver
-- shop
-- juice
-- capable
-- run
-- envelope
-- nephew
-- zebra
-- outdoor
-- comfort
-- armed
-bip_39_word_space_1: rescue
-bip_39_word_space_10: rescue deliver shop juice capable run envelope nephew zebra
-  outdoor
-bip_39_word_space_11: rescue deliver shop juice capable run envelope nephew zebra
-  outdoor comfort
 bip_39_word_space_12: rescue deliver shop juice capable run envelope nephew zebra
   outdoor comfort armed
 bip_39_word_space_2: rescue deliver
 bip_39_word_space_3: rescue deliver shop
-bip_39_word_space_4: rescue deliver shop juice
-bip_39_word_space_5: rescue deliver shop juice capable
-bip_39_word_space_6: rescue deliver shop juice capable run
-bip_39_word_space_7: rescue deliver shop juice capable run envelope
-bip_39_word_space_8: rescue deliver shop juice capable run envelope nephew
-bip_39_word_space_9: rescue deliver shop juice capable run envelope nephew zebra
-bip_39_word_underscore_1: rescue
-bip_39_word_underscore_10: rescue_deliver_shop_juice_capable_run_envelope_nephew_zebra_outdoor
-bip_39_word_underscore_11: rescue_deliver_shop_juice_capable_run_envelope_nephew_zebra_outdoor_comfort
 bip_39_word_underscore_12: rescue_deliver_shop_juice_capable_run_envelope_nephew_zebra_outdoor_comfort_armed
 bip_39_word_underscore_2: rescue_deliver
 bip_39_word_underscore_3: rescue_deliver_shop
-bip_39_word_underscore_4: rescue_deliver_shop_juice
-bip_39_word_underscore_5: rescue_deliver_shop_juice_capable
-bip_39_word_underscore_6: rescue_deliver_shop_juice_capable_run
-bip_39_word_underscore_7: rescue_deliver_shop_juice_capable_run_envelope
-bip_39_word_underscore_8: rescue_deliver_shop_juice_capable_run_envelope_nephew
-bip_39_word_underscore_9: rescue_deliver_shop_juice_capable_run_envelope_nephew_zebra
 classification: project
 classification_capital: Project
 classification_first_letter: p

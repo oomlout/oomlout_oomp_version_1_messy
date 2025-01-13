@@ -1,68 +1,9 @@
-bip_39_word_dash_1: asset
-bip_39_word_dash_10: asset-main-endorse-glide-cabbage-arena-water-ball-amused-cotton
-bip_39_word_dash_11: asset-main-endorse-glide-cabbage-arena-water-ball-amused-cotton-plate
 bip_39_word_dash_12: asset-main-endorse-glide-cabbage-arena-water-ball-amused-cotton-plate-analyst
 bip_39_word_dash_2: asset-main
 bip_39_word_dash_3: asset-main-endorse
-bip_39_word_dash_4: asset-main-endorse-glide
-bip_39_word_dash_5: asset-main-endorse-glide-cabbage
-bip_39_word_dash_6: asset-main-endorse-glide-cabbage-arena
-bip_39_word_dash_7: asset-main-endorse-glide-cabbage-arena-water
-bip_39_word_dash_8: asset-main-endorse-glide-cabbage-arena-water-ball
-bip_39_word_dash_9: asset-main-endorse-glide-cabbage-arena-water-ball-amused
-bip_39_word_new_br_1: asset
-bip_39_word_new_br_10: asset<br>main<br>endorse<br>glide<br>cabbage<br>arena<br>water<br>ball<br>amused<br>cotton
-bip_39_word_new_br_11: asset<br>main<br>endorse<br>glide<br>cabbage<br>arena<br>water<br>ball<br>amused<br>cotton<br>plate
 bip_39_word_new_br_12: asset<br>main<br>endorse<br>glide<br>cabbage<br>arena<br>water<br>ball<br>amused<br>cotton<br>plate<br>analyst
 bip_39_word_new_br_2: asset<br>main
 bip_39_word_new_br_3: asset<br>main<br>endorse
-bip_39_word_new_br_4: asset<br>main<br>endorse<br>glide
-bip_39_word_new_br_5: asset<br>main<br>endorse<br>glide<br>cabbage
-bip_39_word_new_br_6: asset<br>main<br>endorse<br>glide<br>cabbage<br>arena
-bip_39_word_new_br_7: asset<br>main<br>endorse<br>glide<br>cabbage<br>arena<br>water
-bip_39_word_new_br_8: asset<br>main<br>endorse<br>glide<br>cabbage<br>arena<br>water<br>ball
-bip_39_word_new_br_9: asset<br>main<br>endorse<br>glide<br>cabbage<br>arena<br>water<br>ball<br>amused
-bip_39_word_new_line_1: asset
-bip_39_word_new_line_10: 'asset
-
-  main
-
-  endorse
-
-  glide
-
-  cabbage
-
-  arena
-
-  water
-
-  ball
-
-  amused
-
-  cotton'
-bip_39_word_new_line_11: 'asset
-
-  main
-
-  endorse
-
-  glide
-
-  cabbage
-
-  arena
-
-  water
-
-  ball
-
-  amused
-
-  cotton
-
-  plate'
 bip_39_word_new_line_12: 'asset
 
   main
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'asset
   main
 
   endorse'
-bip_39_word_new_line_4: 'asset
-
-  main
-
-  endorse
-
-  glide'
-bip_39_word_new_line_5: 'asset
-
-  main
-
-  endorse
-
-  glide
-
-  cabbage'
-bip_39_word_new_line_6: 'asset
-
-  main
-
-  endorse
-
-  glide
-
-  cabbage
-
-  arena'
-bip_39_word_new_line_7: 'asset
-
-  main
-
-  endorse
-
-  glide
-
-  cabbage
-
-  arena
-
-  water'
-bip_39_word_new_line_8: 'asset
-
-  main
-
-  endorse
-
-  glide
-
-  cabbage
-
-  arena
-
-  water
-
-  ball'
-bip_39_word_new_line_9: 'asset
-
-  main
-
-  endorse
-
-  glide
-
-  cabbage
-
-  arena
-
-  water
-
-  ball
-
-  amused'
-bip_39_word_no_space_1: asset
-bip_39_word_no_space_10: assetmainendorseglidecabbagearenawaterballamusedcotton
-bip_39_word_no_space_11: assetmainendorseglidecabbagearenawaterballamusedcottonplate
 bip_39_word_no_space_12: assetmainendorseglidecabbagearenawaterballamusedcottonplateanalyst
 bip_39_word_no_space_2: assetmain
 bip_39_word_no_space_3: assetmainendorse
-bip_39_word_no_space_4: assetmainendorseglide
-bip_39_word_no_space_5: assetmainendorseglidecabbage
-bip_39_word_no_space_6: assetmainendorseglidecabbagearena
-bip_39_word_no_space_7: assetmainendorseglidecabbagearenawater
-bip_39_word_no_space_8: assetmainendorseglidecabbagearenawaterball
-bip_39_word_no_space_9: assetmainendorseglidecabbagearenawaterballamused
-bip_39_word_space_0:
-- asset
-- main
-- endorse
-- glide
-- cabbage
-- arena
-- water
-- ball
-- amused
-- cotton
-- plate
-- analyst
-bip_39_word_space_1: asset
-bip_39_word_space_10: asset main endorse glide cabbage arena water ball amused cotton
-bip_39_word_space_11: asset main endorse glide cabbage arena water ball amused cotton
-  plate
 bip_39_word_space_12: asset main endorse glide cabbage arena water ball amused cotton
   plate analyst
 bip_39_word_space_2: asset main
 bip_39_word_space_3: asset main endorse
-bip_39_word_space_4: asset main endorse glide
-bip_39_word_space_5: asset main endorse glide cabbage
-bip_39_word_space_6: asset main endorse glide cabbage arena
-bip_39_word_space_7: asset main endorse glide cabbage arena water
-bip_39_word_space_8: asset main endorse glide cabbage arena water ball
-bip_39_word_space_9: asset main endorse glide cabbage arena water ball amused
-bip_39_word_underscore_1: asset
-bip_39_word_underscore_10: asset_main_endorse_glide_cabbage_arena_water_ball_amused_cotton
-bip_39_word_underscore_11: asset_main_endorse_glide_cabbage_arena_water_ball_amused_cotton_plate
 bip_39_word_underscore_12: asset_main_endorse_glide_cabbage_arena_water_ball_amused_cotton_plate_analyst
 bip_39_word_underscore_2: asset_main
 bip_39_word_underscore_3: asset_main_endorse
-bip_39_word_underscore_4: asset_main_endorse_glide
-bip_39_word_underscore_5: asset_main_endorse_glide_cabbage
-bip_39_word_underscore_6: asset_main_endorse_glide_cabbage_arena
-bip_39_word_underscore_7: asset_main_endorse_glide_cabbage_arena_water
-bip_39_word_underscore_8: asset_main_endorse_glide_cabbage_arena_water_ball
-bip_39_word_underscore_9: asset_main_endorse_glide_cabbage_arena_water_ball_amused
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

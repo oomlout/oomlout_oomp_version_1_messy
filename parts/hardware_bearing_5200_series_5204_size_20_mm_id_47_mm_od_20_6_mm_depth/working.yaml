@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fox
-bip_39_word_dash_10: fox-fever-rescue-brass-loyal-filter-cruise-wealth-cloud-often
-bip_39_word_dash_11: fox-fever-rescue-brass-loyal-filter-cruise-wealth-cloud-often-embrace
 bip_39_word_dash_12: fox-fever-rescue-brass-loyal-filter-cruise-wealth-cloud-often-embrace-asthma
 bip_39_word_dash_2: fox-fever
 bip_39_word_dash_3: fox-fever-rescue
-bip_39_word_dash_4: fox-fever-rescue-brass
-bip_39_word_dash_5: fox-fever-rescue-brass-loyal
-bip_39_word_dash_6: fox-fever-rescue-brass-loyal-filter
-bip_39_word_dash_7: fox-fever-rescue-brass-loyal-filter-cruise
-bip_39_word_dash_8: fox-fever-rescue-brass-loyal-filter-cruise-wealth
-bip_39_word_dash_9: fox-fever-rescue-brass-loyal-filter-cruise-wealth-cloud
-bip_39_word_new_br_1: fox
-bip_39_word_new_br_10: fox<br>fever<br>rescue<br>brass<br>loyal<br>filter<br>cruise<br>wealth<br>cloud<br>often
-bip_39_word_new_br_11: fox<br>fever<br>rescue<br>brass<br>loyal<br>filter<br>cruise<br>wealth<br>cloud<br>often<br>embrace
 bip_39_word_new_br_12: fox<br>fever<br>rescue<br>brass<br>loyal<br>filter<br>cruise<br>wealth<br>cloud<br>often<br>embrace<br>asthma
 bip_39_word_new_br_2: fox<br>fever
 bip_39_word_new_br_3: fox<br>fever<br>rescue
-bip_39_word_new_br_4: fox<br>fever<br>rescue<br>brass
-bip_39_word_new_br_5: fox<br>fever<br>rescue<br>brass<br>loyal
-bip_39_word_new_br_6: fox<br>fever<br>rescue<br>brass<br>loyal<br>filter
-bip_39_word_new_br_7: fox<br>fever<br>rescue<br>brass<br>loyal<br>filter<br>cruise
-bip_39_word_new_br_8: fox<br>fever<br>rescue<br>brass<br>loyal<br>filter<br>cruise<br>wealth
-bip_39_word_new_br_9: fox<br>fever<br>rescue<br>brass<br>loyal<br>filter<br>cruise<br>wealth<br>cloud
-bip_39_word_new_line_1: fox
-bip_39_word_new_line_10: 'fox
-
-  fever
-
-  rescue
-
-  brass
-
-  loyal
-
-  filter
-
-  cruise
-
-  wealth
-
-  cloud
-
-  often'
-bip_39_word_new_line_11: 'fox
-
-  fever
-
-  rescue
-
-  brass
-
-  loyal
-
-  filter
-
-  cruise
-
-  wealth
-
-  cloud
-
-  often
-
-  embrace'
 bip_39_word_new_line_12: 'fox
 
   fever
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fox
   fever
 
   rescue'
-bip_39_word_new_line_4: 'fox
-
-  fever
-
-  rescue
-
-  brass'
-bip_39_word_new_line_5: 'fox
-
-  fever
-
-  rescue
-
-  brass
-
-  loyal'
-bip_39_word_new_line_6: 'fox
-
-  fever
-
-  rescue
-
-  brass
-
-  loyal
-
-  filter'
-bip_39_word_new_line_7: 'fox
-
-  fever
-
-  rescue
-
-  brass
-
-  loyal
-
-  filter
-
-  cruise'
-bip_39_word_new_line_8: 'fox
-
-  fever
-
-  rescue
-
-  brass
-
-  loyal
-
-  filter
-
-  cruise
-
-  wealth'
-bip_39_word_new_line_9: 'fox
-
-  fever
-
-  rescue
-
-  brass
-
-  loyal
-
-  filter
-
-  cruise
-
-  wealth
-
-  cloud'
-bip_39_word_no_space_1: fox
-bip_39_word_no_space_10: foxfeverrescuebrassloyalfiltercruisewealthcloudoften
-bip_39_word_no_space_11: foxfeverrescuebrassloyalfiltercruisewealthcloudoftenembrace
 bip_39_word_no_space_12: foxfeverrescuebrassloyalfiltercruisewealthcloudoftenembraceasthma
 bip_39_word_no_space_2: foxfever
 bip_39_word_no_space_3: foxfeverrescue
-bip_39_word_no_space_4: foxfeverrescuebrass
-bip_39_word_no_space_5: foxfeverrescuebrassloyal
-bip_39_word_no_space_6: foxfeverrescuebrassloyalfilter
-bip_39_word_no_space_7: foxfeverrescuebrassloyalfiltercruise
-bip_39_word_no_space_8: foxfeverrescuebrassloyalfiltercruisewealth
-bip_39_word_no_space_9: foxfeverrescuebrassloyalfiltercruisewealthcloud
-bip_39_word_space_0:
-- fox
-- fever
-- rescue
-- brass
-- loyal
-- filter
-- cruise
-- wealth
-- cloud
-- often
-- embrace
-- asthma
-bip_39_word_space_1: fox
-bip_39_word_space_10: fox fever rescue brass loyal filter cruise wealth cloud often
-bip_39_word_space_11: fox fever rescue brass loyal filter cruise wealth cloud often
-  embrace
 bip_39_word_space_12: fox fever rescue brass loyal filter cruise wealth cloud often
   embrace asthma
 bip_39_word_space_2: fox fever
 bip_39_word_space_3: fox fever rescue
-bip_39_word_space_4: fox fever rescue brass
-bip_39_word_space_5: fox fever rescue brass loyal
-bip_39_word_space_6: fox fever rescue brass loyal filter
-bip_39_word_space_7: fox fever rescue brass loyal filter cruise
-bip_39_word_space_8: fox fever rescue brass loyal filter cruise wealth
-bip_39_word_space_9: fox fever rescue brass loyal filter cruise wealth cloud
-bip_39_word_underscore_1: fox
-bip_39_word_underscore_10: fox_fever_rescue_brass_loyal_filter_cruise_wealth_cloud_often
-bip_39_word_underscore_11: fox_fever_rescue_brass_loyal_filter_cruise_wealth_cloud_often_embrace
 bip_39_word_underscore_12: fox_fever_rescue_brass_loyal_filter_cruise_wealth_cloud_often_embrace_asthma
 bip_39_word_underscore_2: fox_fever
 bip_39_word_underscore_3: fox_fever_rescue
-bip_39_word_underscore_4: fox_fever_rescue_brass
-bip_39_word_underscore_5: fox_fever_rescue_brass_loyal
-bip_39_word_underscore_6: fox_fever_rescue_brass_loyal_filter
-bip_39_word_underscore_7: fox_fever_rescue_brass_loyal_filter_cruise
-bip_39_word_underscore_8: fox_fever_rescue_brass_loyal_filter_cruise_wealth
-bip_39_word_underscore_9: fox_fever_rescue_brass_loyal_filter_cruise_wealth_cloud
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ensure
-bip_39_word_dash_10: ensure-present-language-library-fever-chicken-story-mass-family-strategy
-bip_39_word_dash_11: ensure-present-language-library-fever-chicken-story-mass-family-strategy-loud
 bip_39_word_dash_12: ensure-present-language-library-fever-chicken-story-mass-family-strategy-loud-abstract
 bip_39_word_dash_2: ensure-present
 bip_39_word_dash_3: ensure-present-language
-bip_39_word_dash_4: ensure-present-language-library
-bip_39_word_dash_5: ensure-present-language-library-fever
-bip_39_word_dash_6: ensure-present-language-library-fever-chicken
-bip_39_word_dash_7: ensure-present-language-library-fever-chicken-story
-bip_39_word_dash_8: ensure-present-language-library-fever-chicken-story-mass
-bip_39_word_dash_9: ensure-present-language-library-fever-chicken-story-mass-family
-bip_39_word_new_br_1: ensure
-bip_39_word_new_br_10: ensure<br>present<br>language<br>library<br>fever<br>chicken<br>story<br>mass<br>family<br>strategy
-bip_39_word_new_br_11: ensure<br>present<br>language<br>library<br>fever<br>chicken<br>story<br>mass<br>family<br>strategy<br>loud
 bip_39_word_new_br_12: ensure<br>present<br>language<br>library<br>fever<br>chicken<br>story<br>mass<br>family<br>strategy<br>loud<br>abstract
 bip_39_word_new_br_2: ensure<br>present
 bip_39_word_new_br_3: ensure<br>present<br>language
-bip_39_word_new_br_4: ensure<br>present<br>language<br>library
-bip_39_word_new_br_5: ensure<br>present<br>language<br>library<br>fever
-bip_39_word_new_br_6: ensure<br>present<br>language<br>library<br>fever<br>chicken
-bip_39_word_new_br_7: ensure<br>present<br>language<br>library<br>fever<br>chicken<br>story
-bip_39_word_new_br_8: ensure<br>present<br>language<br>library<br>fever<br>chicken<br>story<br>mass
-bip_39_word_new_br_9: ensure<br>present<br>language<br>library<br>fever<br>chicken<br>story<br>mass<br>family
-bip_39_word_new_line_1: ensure
-bip_39_word_new_line_10: 'ensure
-
-  present
-
-  language
-
-  library
-
-  fever
-
-  chicken
-
-  story
-
-  mass
-
-  family
-
-  strategy'
-bip_39_word_new_line_11: 'ensure
-
-  present
-
-  language
-
-  library
-
-  fever
-
-  chicken
-
-  story
-
-  mass
-
-  family
-
-  strategy
-
-  loud'
 bip_39_word_new_line_12: 'ensure
 
   present
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ensure
   present
 
   language'
-bip_39_word_new_line_4: 'ensure
-
-  present
-
-  language
-
-  library'
-bip_39_word_new_line_5: 'ensure
-
-  present
-
-  language
-
-  library
-
-  fever'
-bip_39_word_new_line_6: 'ensure
-
-  present
-
-  language
-
-  library
-
-  fever
-
-  chicken'
-bip_39_word_new_line_7: 'ensure
-
-  present
-
-  language
-
-  library
-
-  fever
-
-  chicken
-
-  story'
-bip_39_word_new_line_8: 'ensure
-
-  present
-
-  language
-
-  library
-
-  fever
-
-  chicken
-
-  story
-
-  mass'
-bip_39_word_new_line_9: 'ensure
-
-  present
-
-  language
-
-  library
-
-  fever
-
-  chicken
-
-  story
-
-  mass
-
-  family'
-bip_39_word_no_space_1: ensure
-bip_39_word_no_space_10: ensurepresentlanguagelibraryfeverchickenstorymassfamilystrategy
-bip_39_word_no_space_11: ensurepresentlanguagelibraryfeverchickenstorymassfamilystrategyloud
 bip_39_word_no_space_12: ensurepresentlanguagelibraryfeverchickenstorymassfamilystrategyloudabstract
 bip_39_word_no_space_2: ensurepresent
 bip_39_word_no_space_3: ensurepresentlanguage
-bip_39_word_no_space_4: ensurepresentlanguagelibrary
-bip_39_word_no_space_5: ensurepresentlanguagelibraryfever
-bip_39_word_no_space_6: ensurepresentlanguagelibraryfeverchicken
-bip_39_word_no_space_7: ensurepresentlanguagelibraryfeverchickenstory
-bip_39_word_no_space_8: ensurepresentlanguagelibraryfeverchickenstorymass
-bip_39_word_no_space_9: ensurepresentlanguagelibraryfeverchickenstorymassfamily
-bip_39_word_space_0:
-- ensure
-- present
-- language
-- library
-- fever
-- chicken
-- story
-- mass
-- family
-- strategy
-- loud
-- abstract
-bip_39_word_space_1: ensure
-bip_39_word_space_10: ensure present language library fever chicken story mass family
-  strategy
-bip_39_word_space_11: ensure present language library fever chicken story mass family
-  strategy loud
 bip_39_word_space_12: ensure present language library fever chicken story mass family
   strategy loud abstract
 bip_39_word_space_2: ensure present
 bip_39_word_space_3: ensure present language
-bip_39_word_space_4: ensure present language library
-bip_39_word_space_5: ensure present language library fever
-bip_39_word_space_6: ensure present language library fever chicken
-bip_39_word_space_7: ensure present language library fever chicken story
-bip_39_word_space_8: ensure present language library fever chicken story mass
-bip_39_word_space_9: ensure present language library fever chicken story mass family
-bip_39_word_underscore_1: ensure
-bip_39_word_underscore_10: ensure_present_language_library_fever_chicken_story_mass_family_strategy
-bip_39_word_underscore_11: ensure_present_language_library_fever_chicken_story_mass_family_strategy_loud
 bip_39_word_underscore_12: ensure_present_language_library_fever_chicken_story_mass_family_strategy_loud_abstract
 bip_39_word_underscore_2: ensure_present
 bip_39_word_underscore_3: ensure_present_language
-bip_39_word_underscore_4: ensure_present_language_library
-bip_39_word_underscore_5: ensure_present_language_library_fever
-bip_39_word_underscore_6: ensure_present_language_library_fever_chicken
-bip_39_word_underscore_7: ensure_present_language_library_fever_chicken_story
-bip_39_word_underscore_8: ensure_present_language_library_fever_chicken_story_mass
-bip_39_word_underscore_9: ensure_present_language_library_fever_chicken_story_mass_family
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: web
-bip_39_word_dash_10: web-keep-peace-repeat-vicious-yard-dutch-goat-tornado-jeans
-bip_39_word_dash_11: web-keep-peace-repeat-vicious-yard-dutch-goat-tornado-jeans-humble
 bip_39_word_dash_12: web-keep-peace-repeat-vicious-yard-dutch-goat-tornado-jeans-humble-artist
 bip_39_word_dash_2: web-keep
 bip_39_word_dash_3: web-keep-peace
-bip_39_word_dash_4: web-keep-peace-repeat
-bip_39_word_dash_5: web-keep-peace-repeat-vicious
-bip_39_word_dash_6: web-keep-peace-repeat-vicious-yard
-bip_39_word_dash_7: web-keep-peace-repeat-vicious-yard-dutch
-bip_39_word_dash_8: web-keep-peace-repeat-vicious-yard-dutch-goat
-bip_39_word_dash_9: web-keep-peace-repeat-vicious-yard-dutch-goat-tornado
-bip_39_word_new_br_1: web
-bip_39_word_new_br_10: web<br>keep<br>peace<br>repeat<br>vicious<br>yard<br>dutch<br>goat<br>tornado<br>jeans
-bip_39_word_new_br_11: web<br>keep<br>peace<br>repeat<br>vicious<br>yard<br>dutch<br>goat<br>tornado<br>jeans<br>humble
 bip_39_word_new_br_12: web<br>keep<br>peace<br>repeat<br>vicious<br>yard<br>dutch<br>goat<br>tornado<br>jeans<br>humble<br>artist
 bip_39_word_new_br_2: web<br>keep
 bip_39_word_new_br_3: web<br>keep<br>peace
-bip_39_word_new_br_4: web<br>keep<br>peace<br>repeat
-bip_39_word_new_br_5: web<br>keep<br>peace<br>repeat<br>vicious
-bip_39_word_new_br_6: web<br>keep<br>peace<br>repeat<br>vicious<br>yard
-bip_39_word_new_br_7: web<br>keep<br>peace<br>repeat<br>vicious<br>yard<br>dutch
-bip_39_word_new_br_8: web<br>keep<br>peace<br>repeat<br>vicious<br>yard<br>dutch<br>goat
-bip_39_word_new_br_9: web<br>keep<br>peace<br>repeat<br>vicious<br>yard<br>dutch<br>goat<br>tornado
-bip_39_word_new_line_1: web
-bip_39_word_new_line_10: 'web
-
-  keep
-
-  peace
-
-  repeat
-
-  vicious
-
-  yard
-
-  dutch
-
-  goat
-
-  tornado
-
-  jeans'
-bip_39_word_new_line_11: 'web
-
-  keep
-
-  peace
-
-  repeat
-
-  vicious
-
-  yard
-
-  dutch
-
-  goat
-
-  tornado
-
-  jeans
-
-  humble'
 bip_39_word_new_line_12: 'web
 
   keep
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'web
   keep
 
   peace'
-bip_39_word_new_line_4: 'web
-
-  keep
-
-  peace
-
-  repeat'
-bip_39_word_new_line_5: 'web
-
-  keep
-
-  peace
-
-  repeat
-
-  vicious'
-bip_39_word_new_line_6: 'web
-
-  keep
-
-  peace
-
-  repeat
-
-  vicious
-
-  yard'
-bip_39_word_new_line_7: 'web
-
-  keep
-
-  peace
-
-  repeat
-
-  vicious
-
-  yard
-
-  dutch'
-bip_39_word_new_line_8: 'web
-
-  keep
-
-  peace
-
-  repeat
-
-  vicious
-
-  yard
-
-  dutch
-
-  goat'
-bip_39_word_new_line_9: 'web
-
-  keep
-
-  peace
-
-  repeat
-
-  vicious
-
-  yard
-
-  dutch
-
-  goat
-
-  tornado'
-bip_39_word_no_space_1: web
-bip_39_word_no_space_10: webkeeppeacerepeatviciousyarddutchgoattornadojeans
-bip_39_word_no_space_11: webkeeppeacerepeatviciousyarddutchgoattornadojeanshumble
 bip_39_word_no_space_12: webkeeppeacerepeatviciousyarddutchgoattornadojeanshumbleartist
 bip_39_word_no_space_2: webkeep
 bip_39_word_no_space_3: webkeeppeace
-bip_39_word_no_space_4: webkeeppeacerepeat
-bip_39_word_no_space_5: webkeeppeacerepeatvicious
-bip_39_word_no_space_6: webkeeppeacerepeatviciousyard
-bip_39_word_no_space_7: webkeeppeacerepeatviciousyarddutch
-bip_39_word_no_space_8: webkeeppeacerepeatviciousyarddutchgoat
-bip_39_word_no_space_9: webkeeppeacerepeatviciousyarddutchgoattornado
-bip_39_word_space_0:
-- web
-- keep
-- peace
-- repeat
-- vicious
-- yard
-- dutch
-- goat
-- tornado
-- jeans
-- humble
-- artist
-bip_39_word_space_1: web
-bip_39_word_space_10: web keep peace repeat vicious yard dutch goat tornado jeans
-bip_39_word_space_11: web keep peace repeat vicious yard dutch goat tornado jeans
-  humble
 bip_39_word_space_12: web keep peace repeat vicious yard dutch goat tornado jeans
   humble artist
 bip_39_word_space_2: web keep
 bip_39_word_space_3: web keep peace
-bip_39_word_space_4: web keep peace repeat
-bip_39_word_space_5: web keep peace repeat vicious
-bip_39_word_space_6: web keep peace repeat vicious yard
-bip_39_word_space_7: web keep peace repeat vicious yard dutch
-bip_39_word_space_8: web keep peace repeat vicious yard dutch goat
-bip_39_word_space_9: web keep peace repeat vicious yard dutch goat tornado
-bip_39_word_underscore_1: web
-bip_39_word_underscore_10: web_keep_peace_repeat_vicious_yard_dutch_goat_tornado_jeans
-bip_39_word_underscore_11: web_keep_peace_repeat_vicious_yard_dutch_goat_tornado_jeans_humble
 bip_39_word_underscore_12: web_keep_peace_repeat_vicious_yard_dutch_goat_tornado_jeans_humble_artist
 bip_39_word_underscore_2: web_keep
 bip_39_word_underscore_3: web_keep_peace
-bip_39_word_underscore_4: web_keep_peace_repeat
-bip_39_word_underscore_5: web_keep_peace_repeat_vicious
-bip_39_word_underscore_6: web_keep_peace_repeat_vicious_yard
-bip_39_word_underscore_7: web_keep_peace_repeat_vicious_yard_dutch
-bip_39_word_underscore_8: web_keep_peace_repeat_vicious_yard_dutch_goat
-bip_39_word_underscore_9: web_keep_peace_repeat_vicious_yard_dutch_goat_tornado
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

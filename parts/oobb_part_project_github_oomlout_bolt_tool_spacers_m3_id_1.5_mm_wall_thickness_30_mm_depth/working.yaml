@@ -1,68 +1,9 @@
-bip_39_word_dash_1: maze
-bip_39_word_dash_10: maze-drive-wealth-carry-blind-prize-stove-smile-task-trend
-bip_39_word_dash_11: maze-drive-wealth-carry-blind-prize-stove-smile-task-trend-ugly
 bip_39_word_dash_12: maze-drive-wealth-carry-blind-prize-stove-smile-task-trend-ugly-area
 bip_39_word_dash_2: maze-drive
 bip_39_word_dash_3: maze-drive-wealth
-bip_39_word_dash_4: maze-drive-wealth-carry
-bip_39_word_dash_5: maze-drive-wealth-carry-blind
-bip_39_word_dash_6: maze-drive-wealth-carry-blind-prize
-bip_39_word_dash_7: maze-drive-wealth-carry-blind-prize-stove
-bip_39_word_dash_8: maze-drive-wealth-carry-blind-prize-stove-smile
-bip_39_word_dash_9: maze-drive-wealth-carry-blind-prize-stove-smile-task
-bip_39_word_new_br_1: maze
-bip_39_word_new_br_10: maze<br>drive<br>wealth<br>carry<br>blind<br>prize<br>stove<br>smile<br>task<br>trend
-bip_39_word_new_br_11: maze<br>drive<br>wealth<br>carry<br>blind<br>prize<br>stove<br>smile<br>task<br>trend<br>ugly
 bip_39_word_new_br_12: maze<br>drive<br>wealth<br>carry<br>blind<br>prize<br>stove<br>smile<br>task<br>trend<br>ugly<br>area
 bip_39_word_new_br_2: maze<br>drive
 bip_39_word_new_br_3: maze<br>drive<br>wealth
-bip_39_word_new_br_4: maze<br>drive<br>wealth<br>carry
-bip_39_word_new_br_5: maze<br>drive<br>wealth<br>carry<br>blind
-bip_39_word_new_br_6: maze<br>drive<br>wealth<br>carry<br>blind<br>prize
-bip_39_word_new_br_7: maze<br>drive<br>wealth<br>carry<br>blind<br>prize<br>stove
-bip_39_word_new_br_8: maze<br>drive<br>wealth<br>carry<br>blind<br>prize<br>stove<br>smile
-bip_39_word_new_br_9: maze<br>drive<br>wealth<br>carry<br>blind<br>prize<br>stove<br>smile<br>task
-bip_39_word_new_line_1: maze
-bip_39_word_new_line_10: 'maze
-
-  drive
-
-  wealth
-
-  carry
-
-  blind
-
-  prize
-
-  stove
-
-  smile
-
-  task
-
-  trend'
-bip_39_word_new_line_11: 'maze
-
-  drive
-
-  wealth
-
-  carry
-
-  blind
-
-  prize
-
-  stove
-
-  smile
-
-  task
-
-  trend
-
-  ugly'
 bip_39_word_new_line_12: 'maze
 
   drive
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'maze
   drive
 
   wealth'
-bip_39_word_new_line_4: 'maze
-
-  drive
-
-  wealth
-
-  carry'
-bip_39_word_new_line_5: 'maze
-
-  drive
-
-  wealth
-
-  carry
-
-  blind'
-bip_39_word_new_line_6: 'maze
-
-  drive
-
-  wealth
-
-  carry
-
-  blind
-
-  prize'
-bip_39_word_new_line_7: 'maze
-
-  drive
-
-  wealth
-
-  carry
-
-  blind
-
-  prize
-
-  stove'
-bip_39_word_new_line_8: 'maze
-
-  drive
-
-  wealth
-
-  carry
-
-  blind
-
-  prize
-
-  stove
-
-  smile'
-bip_39_word_new_line_9: 'maze
-
-  drive
-
-  wealth
-
-  carry
-
-  blind
-
-  prize
-
-  stove
-
-  smile
-
-  task'
-bip_39_word_no_space_1: maze
-bip_39_word_no_space_10: mazedrivewealthcarryblindprizestovesmiletasktrend
-bip_39_word_no_space_11: mazedrivewealthcarryblindprizestovesmiletasktrendugly
 bip_39_word_no_space_12: mazedrivewealthcarryblindprizestovesmiletasktrenduglyarea
 bip_39_word_no_space_2: mazedrive
 bip_39_word_no_space_3: mazedrivewealth
-bip_39_word_no_space_4: mazedrivewealthcarry
-bip_39_word_no_space_5: mazedrivewealthcarryblind
-bip_39_word_no_space_6: mazedrivewealthcarryblindprize
-bip_39_word_no_space_7: mazedrivewealthcarryblindprizestove
-bip_39_word_no_space_8: mazedrivewealthcarryblindprizestovesmile
-bip_39_word_no_space_9: mazedrivewealthcarryblindprizestovesmiletask
-bip_39_word_space_0:
-- maze
-- drive
-- wealth
-- carry
-- blind
-- prize
-- stove
-- smile
-- task
-- trend
-- ugly
-- area
-bip_39_word_space_1: maze
-bip_39_word_space_10: maze drive wealth carry blind prize stove smile task trend
-bip_39_word_space_11: maze drive wealth carry blind prize stove smile task trend ugly
 bip_39_word_space_12: maze drive wealth carry blind prize stove smile task trend ugly
   area
 bip_39_word_space_2: maze drive
 bip_39_word_space_3: maze drive wealth
-bip_39_word_space_4: maze drive wealth carry
-bip_39_word_space_5: maze drive wealth carry blind
-bip_39_word_space_6: maze drive wealth carry blind prize
-bip_39_word_space_7: maze drive wealth carry blind prize stove
-bip_39_word_space_8: maze drive wealth carry blind prize stove smile
-bip_39_word_space_9: maze drive wealth carry blind prize stove smile task
-bip_39_word_underscore_1: maze
-bip_39_word_underscore_10: maze_drive_wealth_carry_blind_prize_stove_smile_task_trend
-bip_39_word_underscore_11: maze_drive_wealth_carry_blind_prize_stove_smile_task_trend_ugly
 bip_39_word_underscore_12: maze_drive_wealth_carry_blind_prize_stove_smile_task_trend_ugly_area
 bip_39_word_underscore_2: maze_drive
 bip_39_word_underscore_3: maze_drive_wealth
-bip_39_word_underscore_4: maze_drive_wealth_carry
-bip_39_word_underscore_5: maze_drive_wealth_carry_blind
-bip_39_word_underscore_6: maze_drive_wealth_carry_blind_prize
-bip_39_word_underscore_7: maze_drive_wealth_carry_blind_prize_stove
-bip_39_word_underscore_8: maze_drive_wealth_carry_blind_prize_stove_smile
-bip_39_word_underscore_9: maze_drive_wealth_carry_blind_prize_stove_smile_task
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

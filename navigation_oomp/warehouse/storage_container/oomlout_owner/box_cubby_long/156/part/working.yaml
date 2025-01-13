@@ -1,68 +1,9 @@
-bip_39_word_dash_1: people
-bip_39_word_dash_10: people-check-gorilla-table-solid-flavor-gown-coin-glass-luggage
-bip_39_word_dash_11: people-check-gorilla-table-solid-flavor-gown-coin-glass-luggage-priority
 bip_39_word_dash_12: people-check-gorilla-table-solid-flavor-gown-coin-glass-luggage-priority-auction
 bip_39_word_dash_2: people-check
 bip_39_word_dash_3: people-check-gorilla
-bip_39_word_dash_4: people-check-gorilla-table
-bip_39_word_dash_5: people-check-gorilla-table-solid
-bip_39_word_dash_6: people-check-gorilla-table-solid-flavor
-bip_39_word_dash_7: people-check-gorilla-table-solid-flavor-gown
-bip_39_word_dash_8: people-check-gorilla-table-solid-flavor-gown-coin
-bip_39_word_dash_9: people-check-gorilla-table-solid-flavor-gown-coin-glass
-bip_39_word_new_br_1: people
-bip_39_word_new_br_10: people<br>check<br>gorilla<br>table<br>solid<br>flavor<br>gown<br>coin<br>glass<br>luggage
-bip_39_word_new_br_11: people<br>check<br>gorilla<br>table<br>solid<br>flavor<br>gown<br>coin<br>glass<br>luggage<br>priority
 bip_39_word_new_br_12: people<br>check<br>gorilla<br>table<br>solid<br>flavor<br>gown<br>coin<br>glass<br>luggage<br>priority<br>auction
 bip_39_word_new_br_2: people<br>check
 bip_39_word_new_br_3: people<br>check<br>gorilla
-bip_39_word_new_br_4: people<br>check<br>gorilla<br>table
-bip_39_word_new_br_5: people<br>check<br>gorilla<br>table<br>solid
-bip_39_word_new_br_6: people<br>check<br>gorilla<br>table<br>solid<br>flavor
-bip_39_word_new_br_7: people<br>check<br>gorilla<br>table<br>solid<br>flavor<br>gown
-bip_39_word_new_br_8: people<br>check<br>gorilla<br>table<br>solid<br>flavor<br>gown<br>coin
-bip_39_word_new_br_9: people<br>check<br>gorilla<br>table<br>solid<br>flavor<br>gown<br>coin<br>glass
-bip_39_word_new_line_1: people
-bip_39_word_new_line_10: 'people
-
-  check
-
-  gorilla
-
-  table
-
-  solid
-
-  flavor
-
-  gown
-
-  coin
-
-  glass
-
-  luggage'
-bip_39_word_new_line_11: 'people
-
-  check
-
-  gorilla
-
-  table
-
-  solid
-
-  flavor
-
-  gown
-
-  coin
-
-  glass
-
-  luggage
-
-  priority'
 bip_39_word_new_line_12: 'people
 
   check
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'people
   check
 
   gorilla'
-bip_39_word_new_line_4: 'people
-
-  check
-
-  gorilla
-
-  table'
-bip_39_word_new_line_5: 'people
-
-  check
-
-  gorilla
-
-  table
-
-  solid'
-bip_39_word_new_line_6: 'people
-
-  check
-
-  gorilla
-
-  table
-
-  solid
-
-  flavor'
-bip_39_word_new_line_7: 'people
-
-  check
-
-  gorilla
-
-  table
-
-  solid
-
-  flavor
-
-  gown'
-bip_39_word_new_line_8: 'people
-
-  check
-
-  gorilla
-
-  table
-
-  solid
-
-  flavor
-
-  gown
-
-  coin'
-bip_39_word_new_line_9: 'people
-
-  check
-
-  gorilla
-
-  table
-
-  solid
-
-  flavor
-
-  gown
-
-  coin
-
-  glass'
-bip_39_word_no_space_1: people
-bip_39_word_no_space_10: peoplecheckgorillatablesolidflavorgowncoinglassluggage
-bip_39_word_no_space_11: peoplecheckgorillatablesolidflavorgowncoinglassluggagepriority
 bip_39_word_no_space_12: peoplecheckgorillatablesolidflavorgowncoinglassluggagepriorityauction
 bip_39_word_no_space_2: peoplecheck
 bip_39_word_no_space_3: peoplecheckgorilla
-bip_39_word_no_space_4: peoplecheckgorillatable
-bip_39_word_no_space_5: peoplecheckgorillatablesolid
-bip_39_word_no_space_6: peoplecheckgorillatablesolidflavor
-bip_39_word_no_space_7: peoplecheckgorillatablesolidflavorgown
-bip_39_word_no_space_8: peoplecheckgorillatablesolidflavorgowncoin
-bip_39_word_no_space_9: peoplecheckgorillatablesolidflavorgowncoinglass
-bip_39_word_space_0:
-- people
-- check
-- gorilla
-- table
-- solid
-- flavor
-- gown
-- coin
-- glass
-- luggage
-- priority
-- auction
-bip_39_word_space_1: people
-bip_39_word_space_10: people check gorilla table solid flavor gown coin glass luggage
-bip_39_word_space_11: people check gorilla table solid flavor gown coin glass luggage
-  priority
 bip_39_word_space_12: people check gorilla table solid flavor gown coin glass luggage
   priority auction
 bip_39_word_space_2: people check
 bip_39_word_space_3: people check gorilla
-bip_39_word_space_4: people check gorilla table
-bip_39_word_space_5: people check gorilla table solid
-bip_39_word_space_6: people check gorilla table solid flavor
-bip_39_word_space_7: people check gorilla table solid flavor gown
-bip_39_word_space_8: people check gorilla table solid flavor gown coin
-bip_39_word_space_9: people check gorilla table solid flavor gown coin glass
-bip_39_word_underscore_1: people
-bip_39_word_underscore_10: people_check_gorilla_table_solid_flavor_gown_coin_glass_luggage
-bip_39_word_underscore_11: people_check_gorilla_table_solid_flavor_gown_coin_glass_luggage_priority
 bip_39_word_underscore_12: people_check_gorilla_table_solid_flavor_gown_coin_glass_luggage_priority_auction
 bip_39_word_underscore_2: people_check
 bip_39_word_underscore_3: people_check_gorilla
-bip_39_word_underscore_4: people_check_gorilla_table
-bip_39_word_underscore_5: people_check_gorilla_table_solid
-bip_39_word_underscore_6: people_check_gorilla_table_solid_flavor
-bip_39_word_underscore_7: people_check_gorilla_table_solid_flavor_gown
-bip_39_word_underscore_8: people_check_gorilla_table_solid_flavor_gown_coin
-bip_39_word_underscore_9: people_check_gorilla_table_solid_flavor_gown_coin_glass
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

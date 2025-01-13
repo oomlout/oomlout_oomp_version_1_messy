@@ -1,68 +1,9 @@
-bip_39_word_dash_1: service
-bip_39_word_dash_10: service-mixed-glimpse-chunk-ice-purity-link-memory-enlist-faint
-bip_39_word_dash_11: service-mixed-glimpse-chunk-ice-purity-link-memory-enlist-faint-bring
 bip_39_word_dash_12: service-mixed-glimpse-chunk-ice-purity-link-memory-enlist-faint-bring-area
 bip_39_word_dash_2: service-mixed
 bip_39_word_dash_3: service-mixed-glimpse
-bip_39_word_dash_4: service-mixed-glimpse-chunk
-bip_39_word_dash_5: service-mixed-glimpse-chunk-ice
-bip_39_word_dash_6: service-mixed-glimpse-chunk-ice-purity
-bip_39_word_dash_7: service-mixed-glimpse-chunk-ice-purity-link
-bip_39_word_dash_8: service-mixed-glimpse-chunk-ice-purity-link-memory
-bip_39_word_dash_9: service-mixed-glimpse-chunk-ice-purity-link-memory-enlist
-bip_39_word_new_br_1: service
-bip_39_word_new_br_10: service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint
-bip_39_word_new_br_11: service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint<br>bring
 bip_39_word_new_br_12: service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist<br>faint<br>bring<br>area
 bip_39_word_new_br_2: service<br>mixed
 bip_39_word_new_br_3: service<br>mixed<br>glimpse
-bip_39_word_new_br_4: service<br>mixed<br>glimpse<br>chunk
-bip_39_word_new_br_5: service<br>mixed<br>glimpse<br>chunk<br>ice
-bip_39_word_new_br_6: service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity
-bip_39_word_new_br_7: service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link
-bip_39_word_new_br_8: service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory
-bip_39_word_new_br_9: service<br>mixed<br>glimpse<br>chunk<br>ice<br>purity<br>link<br>memory<br>enlist
-bip_39_word_new_line_1: service
-bip_39_word_new_line_10: 'service
-
-  mixed
-
-  glimpse
-
-  chunk
-
-  ice
-
-  purity
-
-  link
-
-  memory
-
-  enlist
-
-  faint'
-bip_39_word_new_line_11: 'service
-
-  mixed
-
-  glimpse
-
-  chunk
-
-  ice
-
-  purity
-
-  link
-
-  memory
-
-  enlist
-
-  faint
-
-  bring'
 bip_39_word_new_line_12: 'service
 
   mixed
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'service
   mixed
 
   glimpse'
-bip_39_word_new_line_4: 'service
-
-  mixed
-
-  glimpse
-
-  chunk'
-bip_39_word_new_line_5: 'service
-
-  mixed
-
-  glimpse
-
-  chunk
-
-  ice'
-bip_39_word_new_line_6: 'service
-
-  mixed
-
-  glimpse
-
-  chunk
-
-  ice
-
-  purity'
-bip_39_word_new_line_7: 'service
-
-  mixed
-
-  glimpse
-
-  chunk
-
-  ice
-
-  purity
-
-  link'
-bip_39_word_new_line_8: 'service
-
-  mixed
-
-  glimpse
-
-  chunk
-
-  ice
-
-  purity
-
-  link
-
-  memory'
-bip_39_word_new_line_9: 'service
-
-  mixed
-
-  glimpse
-
-  chunk
-
-  ice
-
-  purity
-
-  link
-
-  memory
-
-  enlist'
-bip_39_word_no_space_1: service
-bip_39_word_no_space_10: servicemixedglimpsechunkicepuritylinkmemoryenlistfaint
-bip_39_word_no_space_11: servicemixedglimpsechunkicepuritylinkmemoryenlistfaintbring
 bip_39_word_no_space_12: servicemixedglimpsechunkicepuritylinkmemoryenlistfaintbringarea
 bip_39_word_no_space_2: servicemixed
 bip_39_word_no_space_3: servicemixedglimpse
-bip_39_word_no_space_4: servicemixedglimpsechunk
-bip_39_word_no_space_5: servicemixedglimpsechunkice
-bip_39_word_no_space_6: servicemixedglimpsechunkicepurity
-bip_39_word_no_space_7: servicemixedglimpsechunkicepuritylink
-bip_39_word_no_space_8: servicemixedglimpsechunkicepuritylinkmemory
-bip_39_word_no_space_9: servicemixedglimpsechunkicepuritylinkmemoryenlist
-bip_39_word_space_0:
-- service
-- mixed
-- glimpse
-- chunk
-- ice
-- purity
-- link
-- memory
-- enlist
-- faint
-- bring
-- area
-bip_39_word_space_1: service
-bip_39_word_space_10: service mixed glimpse chunk ice purity link memory enlist faint
-bip_39_word_space_11: service mixed glimpse chunk ice purity link memory enlist faint
-  bring
 bip_39_word_space_12: service mixed glimpse chunk ice purity link memory enlist faint
   bring area
 bip_39_word_space_2: service mixed
 bip_39_word_space_3: service mixed glimpse
-bip_39_word_space_4: service mixed glimpse chunk
-bip_39_word_space_5: service mixed glimpse chunk ice
-bip_39_word_space_6: service mixed glimpse chunk ice purity
-bip_39_word_space_7: service mixed glimpse chunk ice purity link
-bip_39_word_space_8: service mixed glimpse chunk ice purity link memory
-bip_39_word_space_9: service mixed glimpse chunk ice purity link memory enlist
-bip_39_word_underscore_1: service
-bip_39_word_underscore_10: service_mixed_glimpse_chunk_ice_purity_link_memory_enlist_faint
-bip_39_word_underscore_11: service_mixed_glimpse_chunk_ice_purity_link_memory_enlist_faint_bring
 bip_39_word_underscore_12: service_mixed_glimpse_chunk_ice_purity_link_memory_enlist_faint_bring_area
 bip_39_word_underscore_2: service_mixed
 bip_39_word_underscore_3: service_mixed_glimpse
-bip_39_word_underscore_4: service_mixed_glimpse_chunk
-bip_39_word_underscore_5: service_mixed_glimpse_chunk_ice
-bip_39_word_underscore_6: service_mixed_glimpse_chunk_ice_purity
-bip_39_word_underscore_7: service_mixed_glimpse_chunk_ice_purity_link
-bip_39_word_underscore_8: service_mixed_glimpse_chunk_ice_purity_link_memory
-bip_39_word_underscore_9: service_mixed_glimpse_chunk_ice_purity_link_memory_enlist
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

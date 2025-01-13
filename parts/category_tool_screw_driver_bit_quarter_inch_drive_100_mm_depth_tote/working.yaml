@@ -1,68 +1,9 @@
-bip_39_word_dash_1: receive
-bip_39_word_dash_10: receive-adapt-frog-another-whisper-follow-bus-stadium-mind-island
-bip_39_word_dash_11: receive-adapt-frog-another-whisper-follow-bus-stadium-mind-island-absent
 bip_39_word_dash_12: receive-adapt-frog-another-whisper-follow-bus-stadium-mind-island-absent-accuse
 bip_39_word_dash_2: receive-adapt
 bip_39_word_dash_3: receive-adapt-frog
-bip_39_word_dash_4: receive-adapt-frog-another
-bip_39_word_dash_5: receive-adapt-frog-another-whisper
-bip_39_word_dash_6: receive-adapt-frog-another-whisper-follow
-bip_39_word_dash_7: receive-adapt-frog-another-whisper-follow-bus
-bip_39_word_dash_8: receive-adapt-frog-another-whisper-follow-bus-stadium
-bip_39_word_dash_9: receive-adapt-frog-another-whisper-follow-bus-stadium-mind
-bip_39_word_new_br_1: receive
-bip_39_word_new_br_10: receive<br>adapt<br>frog<br>another<br>whisper<br>follow<br>bus<br>stadium<br>mind<br>island
-bip_39_word_new_br_11: receive<br>adapt<br>frog<br>another<br>whisper<br>follow<br>bus<br>stadium<br>mind<br>island<br>absent
 bip_39_word_new_br_12: receive<br>adapt<br>frog<br>another<br>whisper<br>follow<br>bus<br>stadium<br>mind<br>island<br>absent<br>accuse
 bip_39_word_new_br_2: receive<br>adapt
 bip_39_word_new_br_3: receive<br>adapt<br>frog
-bip_39_word_new_br_4: receive<br>adapt<br>frog<br>another
-bip_39_word_new_br_5: receive<br>adapt<br>frog<br>another<br>whisper
-bip_39_word_new_br_6: receive<br>adapt<br>frog<br>another<br>whisper<br>follow
-bip_39_word_new_br_7: receive<br>adapt<br>frog<br>another<br>whisper<br>follow<br>bus
-bip_39_word_new_br_8: receive<br>adapt<br>frog<br>another<br>whisper<br>follow<br>bus<br>stadium
-bip_39_word_new_br_9: receive<br>adapt<br>frog<br>another<br>whisper<br>follow<br>bus<br>stadium<br>mind
-bip_39_word_new_line_1: receive
-bip_39_word_new_line_10: 'receive
-
-  adapt
-
-  frog
-
-  another
-
-  whisper
-
-  follow
-
-  bus
-
-  stadium
-
-  mind
-
-  island'
-bip_39_word_new_line_11: 'receive
-
-  adapt
-
-  frog
-
-  another
-
-  whisper
-
-  follow
-
-  bus
-
-  stadium
-
-  mind
-
-  island
-
-  absent'
 bip_39_word_new_line_12: 'receive
 
   adapt
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'receive
   adapt
 
   frog'
-bip_39_word_new_line_4: 'receive
-
-  adapt
-
-  frog
-
-  another'
-bip_39_word_new_line_5: 'receive
-
-  adapt
-
-  frog
-
-  another
-
-  whisper'
-bip_39_word_new_line_6: 'receive
-
-  adapt
-
-  frog
-
-  another
-
-  whisper
-
-  follow'
-bip_39_word_new_line_7: 'receive
-
-  adapt
-
-  frog
-
-  another
-
-  whisper
-
-  follow
-
-  bus'
-bip_39_word_new_line_8: 'receive
-
-  adapt
-
-  frog
-
-  another
-
-  whisper
-
-  follow
-
-  bus
-
-  stadium'
-bip_39_word_new_line_9: 'receive
-
-  adapt
-
-  frog
-
-  another
-
-  whisper
-
-  follow
-
-  bus
-
-  stadium
-
-  mind'
-bip_39_word_no_space_1: receive
-bip_39_word_no_space_10: receiveadaptfroganotherwhisperfollowbusstadiummindisland
-bip_39_word_no_space_11: receiveadaptfroganotherwhisperfollowbusstadiummindislandabsent
 bip_39_word_no_space_12: receiveadaptfroganotherwhisperfollowbusstadiummindislandabsentaccuse
 bip_39_word_no_space_2: receiveadapt
 bip_39_word_no_space_3: receiveadaptfrog
-bip_39_word_no_space_4: receiveadaptfroganother
-bip_39_word_no_space_5: receiveadaptfroganotherwhisper
-bip_39_word_no_space_6: receiveadaptfroganotherwhisperfollow
-bip_39_word_no_space_7: receiveadaptfroganotherwhisperfollowbus
-bip_39_word_no_space_8: receiveadaptfroganotherwhisperfollowbusstadium
-bip_39_word_no_space_9: receiveadaptfroganotherwhisperfollowbusstadiummind
-bip_39_word_space_0:
-- receive
-- adapt
-- frog
-- another
-- whisper
-- follow
-- bus
-- stadium
-- mind
-- island
-- absent
-- accuse
-bip_39_word_space_1: receive
-bip_39_word_space_10: receive adapt frog another whisper follow bus stadium mind island
-bip_39_word_space_11: receive adapt frog another whisper follow bus stadium mind island
-  absent
 bip_39_word_space_12: receive adapt frog another whisper follow bus stadium mind island
   absent accuse
 bip_39_word_space_2: receive adapt
 bip_39_word_space_3: receive adapt frog
-bip_39_word_space_4: receive adapt frog another
-bip_39_word_space_5: receive adapt frog another whisper
-bip_39_word_space_6: receive adapt frog another whisper follow
-bip_39_word_space_7: receive adapt frog another whisper follow bus
-bip_39_word_space_8: receive adapt frog another whisper follow bus stadium
-bip_39_word_space_9: receive adapt frog another whisper follow bus stadium mind
-bip_39_word_underscore_1: receive
-bip_39_word_underscore_10: receive_adapt_frog_another_whisper_follow_bus_stadium_mind_island
-bip_39_word_underscore_11: receive_adapt_frog_another_whisper_follow_bus_stadium_mind_island_absent
 bip_39_word_underscore_12: receive_adapt_frog_another_whisper_follow_bus_stadium_mind_island_absent_accuse
 bip_39_word_underscore_2: receive_adapt
 bip_39_word_underscore_3: receive_adapt_frog
-bip_39_word_underscore_4: receive_adapt_frog_another
-bip_39_word_underscore_5: receive_adapt_frog_another_whisper
-bip_39_word_underscore_6: receive_adapt_frog_another_whisper_follow
-bip_39_word_underscore_7: receive_adapt_frog_another_whisper_follow_bus
-bip_39_word_underscore_8: receive_adapt_frog_another_whisper_follow_bus_stadium
-bip_39_word_underscore_9: receive_adapt_frog_another_whisper_follow_bus_stadium_mind
 classification: category
 classification_capital: Category
 classification_first_letter: c

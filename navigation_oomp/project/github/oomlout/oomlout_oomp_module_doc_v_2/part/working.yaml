@@ -1,68 +1,9 @@
-bip_39_word_dash_1: public
-bip_39_word_dash_10: public-voice-inherit-luggage-mouse-marble-allow-cause-doctor-boost
-bip_39_word_dash_11: public-voice-inherit-luggage-mouse-marble-allow-cause-doctor-boost-pistol
 bip_39_word_dash_12: public-voice-inherit-luggage-mouse-marble-allow-cause-doctor-boost-pistol-artwork
 bip_39_word_dash_2: public-voice
 bip_39_word_dash_3: public-voice-inherit
-bip_39_word_dash_4: public-voice-inherit-luggage
-bip_39_word_dash_5: public-voice-inherit-luggage-mouse
-bip_39_word_dash_6: public-voice-inherit-luggage-mouse-marble
-bip_39_word_dash_7: public-voice-inherit-luggage-mouse-marble-allow
-bip_39_word_dash_8: public-voice-inherit-luggage-mouse-marble-allow-cause
-bip_39_word_dash_9: public-voice-inherit-luggage-mouse-marble-allow-cause-doctor
-bip_39_word_new_br_1: public
-bip_39_word_new_br_10: public<br>voice<br>inherit<br>luggage<br>mouse<br>marble<br>allow<br>cause<br>doctor<br>boost
-bip_39_word_new_br_11: public<br>voice<br>inherit<br>luggage<br>mouse<br>marble<br>allow<br>cause<br>doctor<br>boost<br>pistol
 bip_39_word_new_br_12: public<br>voice<br>inherit<br>luggage<br>mouse<br>marble<br>allow<br>cause<br>doctor<br>boost<br>pistol<br>artwork
 bip_39_word_new_br_2: public<br>voice
 bip_39_word_new_br_3: public<br>voice<br>inherit
-bip_39_word_new_br_4: public<br>voice<br>inherit<br>luggage
-bip_39_word_new_br_5: public<br>voice<br>inherit<br>luggage<br>mouse
-bip_39_word_new_br_6: public<br>voice<br>inherit<br>luggage<br>mouse<br>marble
-bip_39_word_new_br_7: public<br>voice<br>inherit<br>luggage<br>mouse<br>marble<br>allow
-bip_39_word_new_br_8: public<br>voice<br>inherit<br>luggage<br>mouse<br>marble<br>allow<br>cause
-bip_39_word_new_br_9: public<br>voice<br>inherit<br>luggage<br>mouse<br>marble<br>allow<br>cause<br>doctor
-bip_39_word_new_line_1: public
-bip_39_word_new_line_10: 'public
-
-  voice
-
-  inherit
-
-  luggage
-
-  mouse
-
-  marble
-
-  allow
-
-  cause
-
-  doctor
-
-  boost'
-bip_39_word_new_line_11: 'public
-
-  voice
-
-  inherit
-
-  luggage
-
-  mouse
-
-  marble
-
-  allow
-
-  cause
-
-  doctor
-
-  boost
-
-  pistol'
 bip_39_word_new_line_12: 'public
 
   voice
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'public
   voice
 
   inherit'
-bip_39_word_new_line_4: 'public
-
-  voice
-
-  inherit
-
-  luggage'
-bip_39_word_new_line_5: 'public
-
-  voice
-
-  inherit
-
-  luggage
-
-  mouse'
-bip_39_word_new_line_6: 'public
-
-  voice
-
-  inherit
-
-  luggage
-
-  mouse
-
-  marble'
-bip_39_word_new_line_7: 'public
-
-  voice
-
-  inherit
-
-  luggage
-
-  mouse
-
-  marble
-
-  allow'
-bip_39_word_new_line_8: 'public
-
-  voice
-
-  inherit
-
-  luggage
-
-  mouse
-
-  marble
-
-  allow
-
-  cause'
-bip_39_word_new_line_9: 'public
-
-  voice
-
-  inherit
-
-  luggage
-
-  mouse
-
-  marble
-
-  allow
-
-  cause
-
-  doctor'
-bip_39_word_no_space_1: public
-bip_39_word_no_space_10: publicvoiceinheritluggagemousemarbleallowcausedoctorboost
-bip_39_word_no_space_11: publicvoiceinheritluggagemousemarbleallowcausedoctorboostpistol
 bip_39_word_no_space_12: publicvoiceinheritluggagemousemarbleallowcausedoctorboostpistolartwork
 bip_39_word_no_space_2: publicvoice
 bip_39_word_no_space_3: publicvoiceinherit
-bip_39_word_no_space_4: publicvoiceinheritluggage
-bip_39_word_no_space_5: publicvoiceinheritluggagemouse
-bip_39_word_no_space_6: publicvoiceinheritluggagemousemarble
-bip_39_word_no_space_7: publicvoiceinheritluggagemousemarbleallow
-bip_39_word_no_space_8: publicvoiceinheritluggagemousemarbleallowcause
-bip_39_word_no_space_9: publicvoiceinheritluggagemousemarbleallowcausedoctor
-bip_39_word_space_0:
-- public
-- voice
-- inherit
-- luggage
-- mouse
-- marble
-- allow
-- cause
-- doctor
-- boost
-- pistol
-- artwork
-bip_39_word_space_1: public
-bip_39_word_space_10: public voice inherit luggage mouse marble allow cause doctor
-  boost
-bip_39_word_space_11: public voice inherit luggage mouse marble allow cause doctor
-  boost pistol
 bip_39_word_space_12: public voice inherit luggage mouse marble allow cause doctor
   boost pistol artwork
 bip_39_word_space_2: public voice
 bip_39_word_space_3: public voice inherit
-bip_39_word_space_4: public voice inherit luggage
-bip_39_word_space_5: public voice inherit luggage mouse
-bip_39_word_space_6: public voice inherit luggage mouse marble
-bip_39_word_space_7: public voice inherit luggage mouse marble allow
-bip_39_word_space_8: public voice inherit luggage mouse marble allow cause
-bip_39_word_space_9: public voice inherit luggage mouse marble allow cause doctor
-bip_39_word_underscore_1: public
-bip_39_word_underscore_10: public_voice_inherit_luggage_mouse_marble_allow_cause_doctor_boost
-bip_39_word_underscore_11: public_voice_inherit_luggage_mouse_marble_allow_cause_doctor_boost_pistol
 bip_39_word_underscore_12: public_voice_inherit_luggage_mouse_marble_allow_cause_doctor_boost_pistol_artwork
 bip_39_word_underscore_2: public_voice
 bip_39_word_underscore_3: public_voice_inherit
-bip_39_word_underscore_4: public_voice_inherit_luggage
-bip_39_word_underscore_5: public_voice_inherit_luggage_mouse
-bip_39_word_underscore_6: public_voice_inherit_luggage_mouse_marble
-bip_39_word_underscore_7: public_voice_inherit_luggage_mouse_marble_allow
-bip_39_word_underscore_8: public_voice_inherit_luggage_mouse_marble_allow_cause
-bip_39_word_underscore_9: public_voice_inherit_luggage_mouse_marble_allow_cause_doctor
 classification: project
 classification_capital: Project
 classification_first_letter: p

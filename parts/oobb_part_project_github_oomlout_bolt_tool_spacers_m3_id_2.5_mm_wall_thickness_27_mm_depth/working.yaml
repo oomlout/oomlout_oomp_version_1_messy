@@ -1,68 +1,9 @@
-bip_39_word_dash_1: solid
-bip_39_word_dash_10: solid-alarm-narrow-swim-orient-refuse-twist-trophy-pretty-fade
-bip_39_word_dash_11: solid-alarm-narrow-swim-orient-refuse-twist-trophy-pretty-fade-square
 bip_39_word_dash_12: solid-alarm-narrow-swim-orient-refuse-twist-trophy-pretty-fade-square-actor
 bip_39_word_dash_2: solid-alarm
 bip_39_word_dash_3: solid-alarm-narrow
-bip_39_word_dash_4: solid-alarm-narrow-swim
-bip_39_word_dash_5: solid-alarm-narrow-swim-orient
-bip_39_word_dash_6: solid-alarm-narrow-swim-orient-refuse
-bip_39_word_dash_7: solid-alarm-narrow-swim-orient-refuse-twist
-bip_39_word_dash_8: solid-alarm-narrow-swim-orient-refuse-twist-trophy
-bip_39_word_dash_9: solid-alarm-narrow-swim-orient-refuse-twist-trophy-pretty
-bip_39_word_new_br_1: solid
-bip_39_word_new_br_10: solid<br>alarm<br>narrow<br>swim<br>orient<br>refuse<br>twist<br>trophy<br>pretty<br>fade
-bip_39_word_new_br_11: solid<br>alarm<br>narrow<br>swim<br>orient<br>refuse<br>twist<br>trophy<br>pretty<br>fade<br>square
 bip_39_word_new_br_12: solid<br>alarm<br>narrow<br>swim<br>orient<br>refuse<br>twist<br>trophy<br>pretty<br>fade<br>square<br>actor
 bip_39_word_new_br_2: solid<br>alarm
 bip_39_word_new_br_3: solid<br>alarm<br>narrow
-bip_39_word_new_br_4: solid<br>alarm<br>narrow<br>swim
-bip_39_word_new_br_5: solid<br>alarm<br>narrow<br>swim<br>orient
-bip_39_word_new_br_6: solid<br>alarm<br>narrow<br>swim<br>orient<br>refuse
-bip_39_word_new_br_7: solid<br>alarm<br>narrow<br>swim<br>orient<br>refuse<br>twist
-bip_39_word_new_br_8: solid<br>alarm<br>narrow<br>swim<br>orient<br>refuse<br>twist<br>trophy
-bip_39_word_new_br_9: solid<br>alarm<br>narrow<br>swim<br>orient<br>refuse<br>twist<br>trophy<br>pretty
-bip_39_word_new_line_1: solid
-bip_39_word_new_line_10: 'solid
-
-  alarm
-
-  narrow
-
-  swim
-
-  orient
-
-  refuse
-
-  twist
-
-  trophy
-
-  pretty
-
-  fade'
-bip_39_word_new_line_11: 'solid
-
-  alarm
-
-  narrow
-
-  swim
-
-  orient
-
-  refuse
-
-  twist
-
-  trophy
-
-  pretty
-
-  fade
-
-  square'
 bip_39_word_new_line_12: 'solid
 
   alarm
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'solid
   alarm
 
   narrow'
-bip_39_word_new_line_4: 'solid
-
-  alarm
-
-  narrow
-
-  swim'
-bip_39_word_new_line_5: 'solid
-
-  alarm
-
-  narrow
-
-  swim
-
-  orient'
-bip_39_word_new_line_6: 'solid
-
-  alarm
-
-  narrow
-
-  swim
-
-  orient
-
-  refuse'
-bip_39_word_new_line_7: 'solid
-
-  alarm
-
-  narrow
-
-  swim
-
-  orient
-
-  refuse
-
-  twist'
-bip_39_word_new_line_8: 'solid
-
-  alarm
-
-  narrow
-
-  swim
-
-  orient
-
-  refuse
-
-  twist
-
-  trophy'
-bip_39_word_new_line_9: 'solid
-
-  alarm
-
-  narrow
-
-  swim
-
-  orient
-
-  refuse
-
-  twist
-
-  trophy
-
-  pretty'
-bip_39_word_no_space_1: solid
-bip_39_word_no_space_10: solidalarmnarrowswimorientrefusetwisttrophyprettyfade
-bip_39_word_no_space_11: solidalarmnarrowswimorientrefusetwisttrophyprettyfadesquare
 bip_39_word_no_space_12: solidalarmnarrowswimorientrefusetwisttrophyprettyfadesquareactor
 bip_39_word_no_space_2: solidalarm
 bip_39_word_no_space_3: solidalarmnarrow
-bip_39_word_no_space_4: solidalarmnarrowswim
-bip_39_word_no_space_5: solidalarmnarrowswimorient
-bip_39_word_no_space_6: solidalarmnarrowswimorientrefuse
-bip_39_word_no_space_7: solidalarmnarrowswimorientrefusetwist
-bip_39_word_no_space_8: solidalarmnarrowswimorientrefusetwisttrophy
-bip_39_word_no_space_9: solidalarmnarrowswimorientrefusetwisttrophypretty
-bip_39_word_space_0:
-- solid
-- alarm
-- narrow
-- swim
-- orient
-- refuse
-- twist
-- trophy
-- pretty
-- fade
-- square
-- actor
-bip_39_word_space_1: solid
-bip_39_word_space_10: solid alarm narrow swim orient refuse twist trophy pretty fade
-bip_39_word_space_11: solid alarm narrow swim orient refuse twist trophy pretty fade
-  square
 bip_39_word_space_12: solid alarm narrow swim orient refuse twist trophy pretty fade
   square actor
 bip_39_word_space_2: solid alarm
 bip_39_word_space_3: solid alarm narrow
-bip_39_word_space_4: solid alarm narrow swim
-bip_39_word_space_5: solid alarm narrow swim orient
-bip_39_word_space_6: solid alarm narrow swim orient refuse
-bip_39_word_space_7: solid alarm narrow swim orient refuse twist
-bip_39_word_space_8: solid alarm narrow swim orient refuse twist trophy
-bip_39_word_space_9: solid alarm narrow swim orient refuse twist trophy pretty
-bip_39_word_underscore_1: solid
-bip_39_word_underscore_10: solid_alarm_narrow_swim_orient_refuse_twist_trophy_pretty_fade
-bip_39_word_underscore_11: solid_alarm_narrow_swim_orient_refuse_twist_trophy_pretty_fade_square
 bip_39_word_underscore_12: solid_alarm_narrow_swim_orient_refuse_twist_trophy_pretty_fade_square_actor
 bip_39_word_underscore_2: solid_alarm
 bip_39_word_underscore_3: solid_alarm_narrow
-bip_39_word_underscore_4: solid_alarm_narrow_swim
-bip_39_word_underscore_5: solid_alarm_narrow_swim_orient
-bip_39_word_underscore_6: solid_alarm_narrow_swim_orient_refuse
-bip_39_word_underscore_7: solid_alarm_narrow_swim_orient_refuse_twist
-bip_39_word_underscore_8: solid_alarm_narrow_swim_orient_refuse_twist_trophy
-bip_39_word_underscore_9: solid_alarm_narrow_swim_orient_refuse_twist_trophy_pretty
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

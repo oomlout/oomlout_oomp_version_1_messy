@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pet
-bip_39_word_dash_10: pet-fog-pear-route-liberty-figure-squeeze-typical-want-teach
-bip_39_word_dash_11: pet-fog-pear-route-liberty-figure-squeeze-typical-want-teach-flame
 bip_39_word_dash_12: pet-fog-pear-route-liberty-figure-squeeze-typical-want-teach-flame-about
 bip_39_word_dash_2: pet-fog
 bip_39_word_dash_3: pet-fog-pear
-bip_39_word_dash_4: pet-fog-pear-route
-bip_39_word_dash_5: pet-fog-pear-route-liberty
-bip_39_word_dash_6: pet-fog-pear-route-liberty-figure
-bip_39_word_dash_7: pet-fog-pear-route-liberty-figure-squeeze
-bip_39_word_dash_8: pet-fog-pear-route-liberty-figure-squeeze-typical
-bip_39_word_dash_9: pet-fog-pear-route-liberty-figure-squeeze-typical-want
-bip_39_word_new_br_1: pet
-bip_39_word_new_br_10: pet<br>fog<br>pear<br>route<br>liberty<br>figure<br>squeeze<br>typical<br>want<br>teach
-bip_39_word_new_br_11: pet<br>fog<br>pear<br>route<br>liberty<br>figure<br>squeeze<br>typical<br>want<br>teach<br>flame
 bip_39_word_new_br_12: pet<br>fog<br>pear<br>route<br>liberty<br>figure<br>squeeze<br>typical<br>want<br>teach<br>flame<br>about
 bip_39_word_new_br_2: pet<br>fog
 bip_39_word_new_br_3: pet<br>fog<br>pear
-bip_39_word_new_br_4: pet<br>fog<br>pear<br>route
-bip_39_word_new_br_5: pet<br>fog<br>pear<br>route<br>liberty
-bip_39_word_new_br_6: pet<br>fog<br>pear<br>route<br>liberty<br>figure
-bip_39_word_new_br_7: pet<br>fog<br>pear<br>route<br>liberty<br>figure<br>squeeze
-bip_39_word_new_br_8: pet<br>fog<br>pear<br>route<br>liberty<br>figure<br>squeeze<br>typical
-bip_39_word_new_br_9: pet<br>fog<br>pear<br>route<br>liberty<br>figure<br>squeeze<br>typical<br>want
-bip_39_word_new_line_1: pet
-bip_39_word_new_line_10: 'pet
-
-  fog
-
-  pear
-
-  route
-
-  liberty
-
-  figure
-
-  squeeze
-
-  typical
-
-  want
-
-  teach'
-bip_39_word_new_line_11: 'pet
-
-  fog
-
-  pear
-
-  route
-
-  liberty
-
-  figure
-
-  squeeze
-
-  typical
-
-  want
-
-  teach
-
-  flame'
 bip_39_word_new_line_12: 'pet
 
   fog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pet
   fog
 
   pear'
-bip_39_word_new_line_4: 'pet
-
-  fog
-
-  pear
-
-  route'
-bip_39_word_new_line_5: 'pet
-
-  fog
-
-  pear
-
-  route
-
-  liberty'
-bip_39_word_new_line_6: 'pet
-
-  fog
-
-  pear
-
-  route
-
-  liberty
-
-  figure'
-bip_39_word_new_line_7: 'pet
-
-  fog
-
-  pear
-
-  route
-
-  liberty
-
-  figure
-
-  squeeze'
-bip_39_word_new_line_8: 'pet
-
-  fog
-
-  pear
-
-  route
-
-  liberty
-
-  figure
-
-  squeeze
-
-  typical'
-bip_39_word_new_line_9: 'pet
-
-  fog
-
-  pear
-
-  route
-
-  liberty
-
-  figure
-
-  squeeze
-
-  typical
-
-  want'
-bip_39_word_no_space_1: pet
-bip_39_word_no_space_10: petfogpearroutelibertyfiguresqueezetypicalwantteach
-bip_39_word_no_space_11: petfogpearroutelibertyfiguresqueezetypicalwantteachflame
 bip_39_word_no_space_12: petfogpearroutelibertyfiguresqueezetypicalwantteachflameabout
 bip_39_word_no_space_2: petfog
 bip_39_word_no_space_3: petfogpear
-bip_39_word_no_space_4: petfogpearroute
-bip_39_word_no_space_5: petfogpearrouteliberty
-bip_39_word_no_space_6: petfogpearroutelibertyfigure
-bip_39_word_no_space_7: petfogpearroutelibertyfiguresqueeze
-bip_39_word_no_space_8: petfogpearroutelibertyfiguresqueezetypical
-bip_39_word_no_space_9: petfogpearroutelibertyfiguresqueezetypicalwant
-bip_39_word_space_0:
-- pet
-- fog
-- pear
-- route
-- liberty
-- figure
-- squeeze
-- typical
-- want
-- teach
-- flame
-- about
-bip_39_word_space_1: pet
-bip_39_word_space_10: pet fog pear route liberty figure squeeze typical want teach
-bip_39_word_space_11: pet fog pear route liberty figure squeeze typical want teach
-  flame
 bip_39_word_space_12: pet fog pear route liberty figure squeeze typical want teach
   flame about
 bip_39_word_space_2: pet fog
 bip_39_word_space_3: pet fog pear
-bip_39_word_space_4: pet fog pear route
-bip_39_word_space_5: pet fog pear route liberty
-bip_39_word_space_6: pet fog pear route liberty figure
-bip_39_word_space_7: pet fog pear route liberty figure squeeze
-bip_39_word_space_8: pet fog pear route liberty figure squeeze typical
-bip_39_word_space_9: pet fog pear route liberty figure squeeze typical want
-bip_39_word_underscore_1: pet
-bip_39_word_underscore_10: pet_fog_pear_route_liberty_figure_squeeze_typical_want_teach
-bip_39_word_underscore_11: pet_fog_pear_route_liberty_figure_squeeze_typical_want_teach_flame
 bip_39_word_underscore_12: pet_fog_pear_route_liberty_figure_squeeze_typical_want_teach_flame_about
 bip_39_word_underscore_2: pet_fog
 bip_39_word_underscore_3: pet_fog_pear
-bip_39_word_underscore_4: pet_fog_pear_route
-bip_39_word_underscore_5: pet_fog_pear_route_liberty
-bip_39_word_underscore_6: pet_fog_pear_route_liberty_figure
-bip_39_word_underscore_7: pet_fog_pear_route_liberty_figure_squeeze
-bip_39_word_underscore_8: pet_fog_pear_route_liberty_figure_squeeze_typical
-bip_39_word_underscore_9: pet_fog_pear_route_liberty_figure_squeeze_typical_want
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: actor
-bip_39_word_dash_10: actor-this-noble-proud-danger-crush-giraffe-scene-hockey-leisure
-bip_39_word_dash_11: actor-this-noble-proud-danger-crush-giraffe-scene-hockey-leisure-jealous
 bip_39_word_dash_12: actor-this-noble-proud-danger-crush-giraffe-scene-hockey-leisure-jealous-arctic
 bip_39_word_dash_2: actor-this
 bip_39_word_dash_3: actor-this-noble
-bip_39_word_dash_4: actor-this-noble-proud
-bip_39_word_dash_5: actor-this-noble-proud-danger
-bip_39_word_dash_6: actor-this-noble-proud-danger-crush
-bip_39_word_dash_7: actor-this-noble-proud-danger-crush-giraffe
-bip_39_word_dash_8: actor-this-noble-proud-danger-crush-giraffe-scene
-bip_39_word_dash_9: actor-this-noble-proud-danger-crush-giraffe-scene-hockey
-bip_39_word_new_br_1: actor
-bip_39_word_new_br_10: actor<br>this<br>noble<br>proud<br>danger<br>crush<br>giraffe<br>scene<br>hockey<br>leisure
-bip_39_word_new_br_11: actor<br>this<br>noble<br>proud<br>danger<br>crush<br>giraffe<br>scene<br>hockey<br>leisure<br>jealous
 bip_39_word_new_br_12: actor<br>this<br>noble<br>proud<br>danger<br>crush<br>giraffe<br>scene<br>hockey<br>leisure<br>jealous<br>arctic
 bip_39_word_new_br_2: actor<br>this
 bip_39_word_new_br_3: actor<br>this<br>noble
-bip_39_word_new_br_4: actor<br>this<br>noble<br>proud
-bip_39_word_new_br_5: actor<br>this<br>noble<br>proud<br>danger
-bip_39_word_new_br_6: actor<br>this<br>noble<br>proud<br>danger<br>crush
-bip_39_word_new_br_7: actor<br>this<br>noble<br>proud<br>danger<br>crush<br>giraffe
-bip_39_word_new_br_8: actor<br>this<br>noble<br>proud<br>danger<br>crush<br>giraffe<br>scene
-bip_39_word_new_br_9: actor<br>this<br>noble<br>proud<br>danger<br>crush<br>giraffe<br>scene<br>hockey
-bip_39_word_new_line_1: actor
-bip_39_word_new_line_10: 'actor
-
-  this
-
-  noble
-
-  proud
-
-  danger
-
-  crush
-
-  giraffe
-
-  scene
-
-  hockey
-
-  leisure'
-bip_39_word_new_line_11: 'actor
-
-  this
-
-  noble
-
-  proud
-
-  danger
-
-  crush
-
-  giraffe
-
-  scene
-
-  hockey
-
-  leisure
-
-  jealous'
 bip_39_word_new_line_12: 'actor
 
   this
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'actor
   this
 
   noble'
-bip_39_word_new_line_4: 'actor
-
-  this
-
-  noble
-
-  proud'
-bip_39_word_new_line_5: 'actor
-
-  this
-
-  noble
-
-  proud
-
-  danger'
-bip_39_word_new_line_6: 'actor
-
-  this
-
-  noble
-
-  proud
-
-  danger
-
-  crush'
-bip_39_word_new_line_7: 'actor
-
-  this
-
-  noble
-
-  proud
-
-  danger
-
-  crush
-
-  giraffe'
-bip_39_word_new_line_8: 'actor
-
-  this
-
-  noble
-
-  proud
-
-  danger
-
-  crush
-
-  giraffe
-
-  scene'
-bip_39_word_new_line_9: 'actor
-
-  this
-
-  noble
-
-  proud
-
-  danger
-
-  crush
-
-  giraffe
-
-  scene
-
-  hockey'
-bip_39_word_no_space_1: actor
-bip_39_word_no_space_10: actorthisnobleprouddangercrushgiraffescenehockeyleisure
-bip_39_word_no_space_11: actorthisnobleprouddangercrushgiraffescenehockeyleisurejealous
 bip_39_word_no_space_12: actorthisnobleprouddangercrushgiraffescenehockeyleisurejealousarctic
 bip_39_word_no_space_2: actorthis
 bip_39_word_no_space_3: actorthisnoble
-bip_39_word_no_space_4: actorthisnobleproud
-bip_39_word_no_space_5: actorthisnobleprouddanger
-bip_39_word_no_space_6: actorthisnobleprouddangercrush
-bip_39_word_no_space_7: actorthisnobleprouddangercrushgiraffe
-bip_39_word_no_space_8: actorthisnobleprouddangercrushgiraffescene
-bip_39_word_no_space_9: actorthisnobleprouddangercrushgiraffescenehockey
-bip_39_word_space_0:
-- actor
-- this
-- noble
-- proud
-- danger
-- crush
-- giraffe
-- scene
-- hockey
-- leisure
-- jealous
-- arctic
-bip_39_word_space_1: actor
-bip_39_word_space_10: actor this noble proud danger crush giraffe scene hockey leisure
-bip_39_word_space_11: actor this noble proud danger crush giraffe scene hockey leisure
-  jealous
 bip_39_word_space_12: actor this noble proud danger crush giraffe scene hockey leisure
   jealous arctic
 bip_39_word_space_2: actor this
 bip_39_word_space_3: actor this noble
-bip_39_word_space_4: actor this noble proud
-bip_39_word_space_5: actor this noble proud danger
-bip_39_word_space_6: actor this noble proud danger crush
-bip_39_word_space_7: actor this noble proud danger crush giraffe
-bip_39_word_space_8: actor this noble proud danger crush giraffe scene
-bip_39_word_space_9: actor this noble proud danger crush giraffe scene hockey
-bip_39_word_underscore_1: actor
-bip_39_word_underscore_10: actor_this_noble_proud_danger_crush_giraffe_scene_hockey_leisure
-bip_39_word_underscore_11: actor_this_noble_proud_danger_crush_giraffe_scene_hockey_leisure_jealous
 bip_39_word_underscore_12: actor_this_noble_proud_danger_crush_giraffe_scene_hockey_leisure_jealous_arctic
 bip_39_word_underscore_2: actor_this
 bip_39_word_underscore_3: actor_this_noble
-bip_39_word_underscore_4: actor_this_noble_proud
-bip_39_word_underscore_5: actor_this_noble_proud_danger
-bip_39_word_underscore_6: actor_this_noble_proud_danger_crush
-bip_39_word_underscore_7: actor_this_noble_proud_danger_crush_giraffe
-bip_39_word_underscore_8: actor_this_noble_proud_danger_crush_giraffe_scene
-bip_39_word_underscore_9: actor_this_noble_proud_danger_crush_giraffe_scene_hockey
 classification: category
 classification_capital: Category
 classification_first_letter: c

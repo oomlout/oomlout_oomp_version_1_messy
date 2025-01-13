@@ -1,68 +1,9 @@
-bip_39_word_dash_1: frequent
-bip_39_word_dash_10: frequent-during-grab-squirrel-sausage-favorite-ugly-glow-prepare-neither
-bip_39_word_dash_11: frequent-during-grab-squirrel-sausage-favorite-ugly-glow-prepare-neither-nuclear
 bip_39_word_dash_12: frequent-during-grab-squirrel-sausage-favorite-ugly-glow-prepare-neither-nuclear-ancient
 bip_39_word_dash_2: frequent-during
 bip_39_word_dash_3: frequent-during-grab
-bip_39_word_dash_4: frequent-during-grab-squirrel
-bip_39_word_dash_5: frequent-during-grab-squirrel-sausage
-bip_39_word_dash_6: frequent-during-grab-squirrel-sausage-favorite
-bip_39_word_dash_7: frequent-during-grab-squirrel-sausage-favorite-ugly
-bip_39_word_dash_8: frequent-during-grab-squirrel-sausage-favorite-ugly-glow
-bip_39_word_dash_9: frequent-during-grab-squirrel-sausage-favorite-ugly-glow-prepare
-bip_39_word_new_br_1: frequent
-bip_39_word_new_br_10: frequent<br>during<br>grab<br>squirrel<br>sausage<br>favorite<br>ugly<br>glow<br>prepare<br>neither
-bip_39_word_new_br_11: frequent<br>during<br>grab<br>squirrel<br>sausage<br>favorite<br>ugly<br>glow<br>prepare<br>neither<br>nuclear
 bip_39_word_new_br_12: frequent<br>during<br>grab<br>squirrel<br>sausage<br>favorite<br>ugly<br>glow<br>prepare<br>neither<br>nuclear<br>ancient
 bip_39_word_new_br_2: frequent<br>during
 bip_39_word_new_br_3: frequent<br>during<br>grab
-bip_39_word_new_br_4: frequent<br>during<br>grab<br>squirrel
-bip_39_word_new_br_5: frequent<br>during<br>grab<br>squirrel<br>sausage
-bip_39_word_new_br_6: frequent<br>during<br>grab<br>squirrel<br>sausage<br>favorite
-bip_39_word_new_br_7: frequent<br>during<br>grab<br>squirrel<br>sausage<br>favorite<br>ugly
-bip_39_word_new_br_8: frequent<br>during<br>grab<br>squirrel<br>sausage<br>favorite<br>ugly<br>glow
-bip_39_word_new_br_9: frequent<br>during<br>grab<br>squirrel<br>sausage<br>favorite<br>ugly<br>glow<br>prepare
-bip_39_word_new_line_1: frequent
-bip_39_word_new_line_10: 'frequent
-
-  during
-
-  grab
-
-  squirrel
-
-  sausage
-
-  favorite
-
-  ugly
-
-  glow
-
-  prepare
-
-  neither'
-bip_39_word_new_line_11: 'frequent
-
-  during
-
-  grab
-
-  squirrel
-
-  sausage
-
-  favorite
-
-  ugly
-
-  glow
-
-  prepare
-
-  neither
-
-  nuclear'
 bip_39_word_new_line_12: 'frequent
 
   during
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'frequent
   during
 
   grab'
-bip_39_word_new_line_4: 'frequent
-
-  during
-
-  grab
-
-  squirrel'
-bip_39_word_new_line_5: 'frequent
-
-  during
-
-  grab
-
-  squirrel
-
-  sausage'
-bip_39_word_new_line_6: 'frequent
-
-  during
-
-  grab
-
-  squirrel
-
-  sausage
-
-  favorite'
-bip_39_word_new_line_7: 'frequent
-
-  during
-
-  grab
-
-  squirrel
-
-  sausage
-
-  favorite
-
-  ugly'
-bip_39_word_new_line_8: 'frequent
-
-  during
-
-  grab
-
-  squirrel
-
-  sausage
-
-  favorite
-
-  ugly
-
-  glow'
-bip_39_word_new_line_9: 'frequent
-
-  during
-
-  grab
-
-  squirrel
-
-  sausage
-
-  favorite
-
-  ugly
-
-  glow
-
-  prepare'
-bip_39_word_no_space_1: frequent
-bip_39_word_no_space_10: frequentduringgrabsquirrelsausagefavoriteuglyglowprepareneither
-bip_39_word_no_space_11: frequentduringgrabsquirrelsausagefavoriteuglyglowprepareneithernuclear
 bip_39_word_no_space_12: frequentduringgrabsquirrelsausagefavoriteuglyglowprepareneithernuclearancient
 bip_39_word_no_space_2: frequentduring
 bip_39_word_no_space_3: frequentduringgrab
-bip_39_word_no_space_4: frequentduringgrabsquirrel
-bip_39_word_no_space_5: frequentduringgrabsquirrelsausage
-bip_39_word_no_space_6: frequentduringgrabsquirrelsausagefavorite
-bip_39_word_no_space_7: frequentduringgrabsquirrelsausagefavoriteugly
-bip_39_word_no_space_8: frequentduringgrabsquirrelsausagefavoriteuglyglow
-bip_39_word_no_space_9: frequentduringgrabsquirrelsausagefavoriteuglyglowprepare
-bip_39_word_space_0:
-- frequent
-- during
-- grab
-- squirrel
-- sausage
-- favorite
-- ugly
-- glow
-- prepare
-- neither
-- nuclear
-- ancient
-bip_39_word_space_1: frequent
-bip_39_word_space_10: frequent during grab squirrel sausage favorite ugly glow prepare
-  neither
-bip_39_word_space_11: frequent during grab squirrel sausage favorite ugly glow prepare
-  neither nuclear
 bip_39_word_space_12: frequent during grab squirrel sausage favorite ugly glow prepare
   neither nuclear ancient
 bip_39_word_space_2: frequent during
 bip_39_word_space_3: frequent during grab
-bip_39_word_space_4: frequent during grab squirrel
-bip_39_word_space_5: frequent during grab squirrel sausage
-bip_39_word_space_6: frequent during grab squirrel sausage favorite
-bip_39_word_space_7: frequent during grab squirrel sausage favorite ugly
-bip_39_word_space_8: frequent during grab squirrel sausage favorite ugly glow
-bip_39_word_space_9: frequent during grab squirrel sausage favorite ugly glow prepare
-bip_39_word_underscore_1: frequent
-bip_39_word_underscore_10: frequent_during_grab_squirrel_sausage_favorite_ugly_glow_prepare_neither
-bip_39_word_underscore_11: frequent_during_grab_squirrel_sausage_favorite_ugly_glow_prepare_neither_nuclear
 bip_39_word_underscore_12: frequent_during_grab_squirrel_sausage_favorite_ugly_glow_prepare_neither_nuclear_ancient
 bip_39_word_underscore_2: frequent_during
 bip_39_word_underscore_3: frequent_during_grab
-bip_39_word_underscore_4: frequent_during_grab_squirrel
-bip_39_word_underscore_5: frequent_during_grab_squirrel_sausage
-bip_39_word_underscore_6: frequent_during_grab_squirrel_sausage_favorite
-bip_39_word_underscore_7: frequent_during_grab_squirrel_sausage_favorite_ugly
-bip_39_word_underscore_8: frequent_during_grab_squirrel_sausage_favorite_ugly_glow
-bip_39_word_underscore_9: frequent_during_grab_squirrel_sausage_favorite_ugly_glow_prepare
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: isolate
-bip_39_word_dash_10: isolate-become-fever-person-lab-luggage-priority-wreck-giraffe-loan
-bip_39_word_dash_11: isolate-become-fever-person-lab-luggage-priority-wreck-giraffe-loan-join
 bip_39_word_dash_12: isolate-become-fever-person-lab-luggage-priority-wreck-giraffe-loan-join-asset
 bip_39_word_dash_2: isolate-become
 bip_39_word_dash_3: isolate-become-fever
-bip_39_word_dash_4: isolate-become-fever-person
-bip_39_word_dash_5: isolate-become-fever-person-lab
-bip_39_word_dash_6: isolate-become-fever-person-lab-luggage
-bip_39_word_dash_7: isolate-become-fever-person-lab-luggage-priority
-bip_39_word_dash_8: isolate-become-fever-person-lab-luggage-priority-wreck
-bip_39_word_dash_9: isolate-become-fever-person-lab-luggage-priority-wreck-giraffe
-bip_39_word_new_br_1: isolate
-bip_39_word_new_br_10: isolate<br>become<br>fever<br>person<br>lab<br>luggage<br>priority<br>wreck<br>giraffe<br>loan
-bip_39_word_new_br_11: isolate<br>become<br>fever<br>person<br>lab<br>luggage<br>priority<br>wreck<br>giraffe<br>loan<br>join
 bip_39_word_new_br_12: isolate<br>become<br>fever<br>person<br>lab<br>luggage<br>priority<br>wreck<br>giraffe<br>loan<br>join<br>asset
 bip_39_word_new_br_2: isolate<br>become
 bip_39_word_new_br_3: isolate<br>become<br>fever
-bip_39_word_new_br_4: isolate<br>become<br>fever<br>person
-bip_39_word_new_br_5: isolate<br>become<br>fever<br>person<br>lab
-bip_39_word_new_br_6: isolate<br>become<br>fever<br>person<br>lab<br>luggage
-bip_39_word_new_br_7: isolate<br>become<br>fever<br>person<br>lab<br>luggage<br>priority
-bip_39_word_new_br_8: isolate<br>become<br>fever<br>person<br>lab<br>luggage<br>priority<br>wreck
-bip_39_word_new_br_9: isolate<br>become<br>fever<br>person<br>lab<br>luggage<br>priority<br>wreck<br>giraffe
-bip_39_word_new_line_1: isolate
-bip_39_word_new_line_10: 'isolate
-
-  become
-
-  fever
-
-  person
-
-  lab
-
-  luggage
-
-  priority
-
-  wreck
-
-  giraffe
-
-  loan'
-bip_39_word_new_line_11: 'isolate
-
-  become
-
-  fever
-
-  person
-
-  lab
-
-  luggage
-
-  priority
-
-  wreck
-
-  giraffe
-
-  loan
-
-  join'
 bip_39_word_new_line_12: 'isolate
 
   become
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'isolate
   become
 
   fever'
-bip_39_word_new_line_4: 'isolate
-
-  become
-
-  fever
-
-  person'
-bip_39_word_new_line_5: 'isolate
-
-  become
-
-  fever
-
-  person
-
-  lab'
-bip_39_word_new_line_6: 'isolate
-
-  become
-
-  fever
-
-  person
-
-  lab
-
-  luggage'
-bip_39_word_new_line_7: 'isolate
-
-  become
-
-  fever
-
-  person
-
-  lab
-
-  luggage
-
-  priority'
-bip_39_word_new_line_8: 'isolate
-
-  become
-
-  fever
-
-  person
-
-  lab
-
-  luggage
-
-  priority
-
-  wreck'
-bip_39_word_new_line_9: 'isolate
-
-  become
-
-  fever
-
-  person
-
-  lab
-
-  luggage
-
-  priority
-
-  wreck
-
-  giraffe'
-bip_39_word_no_space_1: isolate
-bip_39_word_no_space_10: isolatebecomefeverpersonlabluggageprioritywreckgiraffeloan
-bip_39_word_no_space_11: isolatebecomefeverpersonlabluggageprioritywreckgiraffeloanjoin
 bip_39_word_no_space_12: isolatebecomefeverpersonlabluggageprioritywreckgiraffeloanjoinasset
 bip_39_word_no_space_2: isolatebecome
 bip_39_word_no_space_3: isolatebecomefever
-bip_39_word_no_space_4: isolatebecomefeverperson
-bip_39_word_no_space_5: isolatebecomefeverpersonlab
-bip_39_word_no_space_6: isolatebecomefeverpersonlabluggage
-bip_39_word_no_space_7: isolatebecomefeverpersonlabluggagepriority
-bip_39_word_no_space_8: isolatebecomefeverpersonlabluggageprioritywreck
-bip_39_word_no_space_9: isolatebecomefeverpersonlabluggageprioritywreckgiraffe
-bip_39_word_space_0:
-- isolate
-- become
-- fever
-- person
-- lab
-- luggage
-- priority
-- wreck
-- giraffe
-- loan
-- join
-- asset
-bip_39_word_space_1: isolate
-bip_39_word_space_10: isolate become fever person lab luggage priority wreck giraffe
-  loan
-bip_39_word_space_11: isolate become fever person lab luggage priority wreck giraffe
-  loan join
 bip_39_word_space_12: isolate become fever person lab luggage priority wreck giraffe
   loan join asset
 bip_39_word_space_2: isolate become
 bip_39_word_space_3: isolate become fever
-bip_39_word_space_4: isolate become fever person
-bip_39_word_space_5: isolate become fever person lab
-bip_39_word_space_6: isolate become fever person lab luggage
-bip_39_word_space_7: isolate become fever person lab luggage priority
-bip_39_word_space_8: isolate become fever person lab luggage priority wreck
-bip_39_word_space_9: isolate become fever person lab luggage priority wreck giraffe
-bip_39_word_underscore_1: isolate
-bip_39_word_underscore_10: isolate_become_fever_person_lab_luggage_priority_wreck_giraffe_loan
-bip_39_word_underscore_11: isolate_become_fever_person_lab_luggage_priority_wreck_giraffe_loan_join
 bip_39_word_underscore_12: isolate_become_fever_person_lab_luggage_priority_wreck_giraffe_loan_join_asset
 bip_39_word_underscore_2: isolate_become
 bip_39_word_underscore_3: isolate_become_fever
-bip_39_word_underscore_4: isolate_become_fever_person
-bip_39_word_underscore_5: isolate_become_fever_person_lab
-bip_39_word_underscore_6: isolate_become_fever_person_lab_luggage
-bip_39_word_underscore_7: isolate_become_fever_person_lab_luggage_priority
-bip_39_word_underscore_8: isolate_become_fever_person_lab_luggage_priority_wreck
-bip_39_word_underscore_9: isolate_become_fever_person_lab_luggage_priority_wreck_giraffe
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

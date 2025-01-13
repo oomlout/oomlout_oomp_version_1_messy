@@ -1,68 +1,9 @@
-bip_39_word_dash_1: correct
-bip_39_word_dash_10: correct-north-rare-success-pride-bulb-patrol-pond-pen-kid
-bip_39_word_dash_11: correct-north-rare-success-pride-bulb-patrol-pond-pen-kid-zoo
 bip_39_word_dash_12: correct-north-rare-success-pride-bulb-patrol-pond-pen-kid-zoo-arena
 bip_39_word_dash_2: correct-north
 bip_39_word_dash_3: correct-north-rare
-bip_39_word_dash_4: correct-north-rare-success
-bip_39_word_dash_5: correct-north-rare-success-pride
-bip_39_word_dash_6: correct-north-rare-success-pride-bulb
-bip_39_word_dash_7: correct-north-rare-success-pride-bulb-patrol
-bip_39_word_dash_8: correct-north-rare-success-pride-bulb-patrol-pond
-bip_39_word_dash_9: correct-north-rare-success-pride-bulb-patrol-pond-pen
-bip_39_word_new_br_1: correct
-bip_39_word_new_br_10: correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen<br>kid
-bip_39_word_new_br_11: correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen<br>kid<br>zoo
 bip_39_word_new_br_12: correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen<br>kid<br>zoo<br>arena
 bip_39_word_new_br_2: correct<br>north
 bip_39_word_new_br_3: correct<br>north<br>rare
-bip_39_word_new_br_4: correct<br>north<br>rare<br>success
-bip_39_word_new_br_5: correct<br>north<br>rare<br>success<br>pride
-bip_39_word_new_br_6: correct<br>north<br>rare<br>success<br>pride<br>bulb
-bip_39_word_new_br_7: correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol
-bip_39_word_new_br_8: correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond
-bip_39_word_new_br_9: correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen
-bip_39_word_new_line_1: correct
-bip_39_word_new_line_10: 'correct
-
-  north
-
-  rare
-
-  success
-
-  pride
-
-  bulb
-
-  patrol
-
-  pond
-
-  pen
-
-  kid'
-bip_39_word_new_line_11: 'correct
-
-  north
-
-  rare
-
-  success
-
-  pride
-
-  bulb
-
-  patrol
-
-  pond
-
-  pen
-
-  kid
-
-  zoo'
 bip_39_word_new_line_12: 'correct
 
   north
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'correct
   north
 
   rare'
-bip_39_word_new_line_4: 'correct
-
-  north
-
-  rare
-
-  success'
-bip_39_word_new_line_5: 'correct
-
-  north
-
-  rare
-
-  success
-
-  pride'
-bip_39_word_new_line_6: 'correct
-
-  north
-
-  rare
-
-  success
-
-  pride
-
-  bulb'
-bip_39_word_new_line_7: 'correct
-
-  north
-
-  rare
-
-  success
-
-  pride
-
-  bulb
-
-  patrol'
-bip_39_word_new_line_8: 'correct
-
-  north
-
-  rare
-
-  success
-
-  pride
-
-  bulb
-
-  patrol
-
-  pond'
-bip_39_word_new_line_9: 'correct
-
-  north
-
-  rare
-
-  success
-
-  pride
-
-  bulb
-
-  patrol
-
-  pond
-
-  pen'
-bip_39_word_no_space_1: correct
-bip_39_word_no_space_10: correctnorthraresuccesspridebulbpatrolpondpenkid
-bip_39_word_no_space_11: correctnorthraresuccesspridebulbpatrolpondpenkidzoo
 bip_39_word_no_space_12: correctnorthraresuccesspridebulbpatrolpondpenkidzooarena
 bip_39_word_no_space_2: correctnorth
 bip_39_word_no_space_3: correctnorthrare
-bip_39_word_no_space_4: correctnorthraresuccess
-bip_39_word_no_space_5: correctnorthraresuccesspride
-bip_39_word_no_space_6: correctnorthraresuccesspridebulb
-bip_39_word_no_space_7: correctnorthraresuccesspridebulbpatrol
-bip_39_word_no_space_8: correctnorthraresuccesspridebulbpatrolpond
-bip_39_word_no_space_9: correctnorthraresuccesspridebulbpatrolpondpen
-bip_39_word_space_0:
-- correct
-- north
-- rare
-- success
-- pride
-- bulb
-- patrol
-- pond
-- pen
-- kid
-- zoo
-- arena
-bip_39_word_space_1: correct
-bip_39_word_space_10: correct north rare success pride bulb patrol pond pen kid
-bip_39_word_space_11: correct north rare success pride bulb patrol pond pen kid zoo
 bip_39_word_space_12: correct north rare success pride bulb patrol pond pen kid zoo
   arena
 bip_39_word_space_2: correct north
 bip_39_word_space_3: correct north rare
-bip_39_word_space_4: correct north rare success
-bip_39_word_space_5: correct north rare success pride
-bip_39_word_space_6: correct north rare success pride bulb
-bip_39_word_space_7: correct north rare success pride bulb patrol
-bip_39_word_space_8: correct north rare success pride bulb patrol pond
-bip_39_word_space_9: correct north rare success pride bulb patrol pond pen
-bip_39_word_underscore_1: correct
-bip_39_word_underscore_10: correct_north_rare_success_pride_bulb_patrol_pond_pen_kid
-bip_39_word_underscore_11: correct_north_rare_success_pride_bulb_patrol_pond_pen_kid_zoo
 bip_39_word_underscore_12: correct_north_rare_success_pride_bulb_patrol_pond_pen_kid_zoo_arena
 bip_39_word_underscore_2: correct_north
 bip_39_word_underscore_3: correct_north_rare
-bip_39_word_underscore_4: correct_north_rare_success
-bip_39_word_underscore_5: correct_north_rare_success_pride
-bip_39_word_underscore_6: correct_north_rare_success_pride_bulb
-bip_39_word_underscore_7: correct_north_rare_success_pride_bulb_patrol
-bip_39_word_underscore_8: correct_north_rare_success_pride_bulb_patrol_pond
-bip_39_word_underscore_9: correct_north_rare_success_pride_bulb_patrol_pond_pen
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

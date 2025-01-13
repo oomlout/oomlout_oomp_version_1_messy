@@ -1,68 +1,9 @@
-bip_39_word_dash_1: small
-bip_39_word_dash_10: small-split-moral-citizen-salad-kidney-alert-slim-taxi-trade
-bip_39_word_dash_11: small-split-moral-citizen-salad-kidney-alert-slim-taxi-trade-hand
 bip_39_word_dash_12: small-split-moral-citizen-salad-kidney-alert-slim-taxi-trade-hand-attack
 bip_39_word_dash_2: small-split
 bip_39_word_dash_3: small-split-moral
-bip_39_word_dash_4: small-split-moral-citizen
-bip_39_word_dash_5: small-split-moral-citizen-salad
-bip_39_word_dash_6: small-split-moral-citizen-salad-kidney
-bip_39_word_dash_7: small-split-moral-citizen-salad-kidney-alert
-bip_39_word_dash_8: small-split-moral-citizen-salad-kidney-alert-slim
-bip_39_word_dash_9: small-split-moral-citizen-salad-kidney-alert-slim-taxi
-bip_39_word_new_br_1: small
-bip_39_word_new_br_10: small<br>split<br>moral<br>citizen<br>salad<br>kidney<br>alert<br>slim<br>taxi<br>trade
-bip_39_word_new_br_11: small<br>split<br>moral<br>citizen<br>salad<br>kidney<br>alert<br>slim<br>taxi<br>trade<br>hand
 bip_39_word_new_br_12: small<br>split<br>moral<br>citizen<br>salad<br>kidney<br>alert<br>slim<br>taxi<br>trade<br>hand<br>attack
 bip_39_word_new_br_2: small<br>split
 bip_39_word_new_br_3: small<br>split<br>moral
-bip_39_word_new_br_4: small<br>split<br>moral<br>citizen
-bip_39_word_new_br_5: small<br>split<br>moral<br>citizen<br>salad
-bip_39_word_new_br_6: small<br>split<br>moral<br>citizen<br>salad<br>kidney
-bip_39_word_new_br_7: small<br>split<br>moral<br>citizen<br>salad<br>kidney<br>alert
-bip_39_word_new_br_8: small<br>split<br>moral<br>citizen<br>salad<br>kidney<br>alert<br>slim
-bip_39_word_new_br_9: small<br>split<br>moral<br>citizen<br>salad<br>kidney<br>alert<br>slim<br>taxi
-bip_39_word_new_line_1: small
-bip_39_word_new_line_10: 'small
-
-  split
-
-  moral
-
-  citizen
-
-  salad
-
-  kidney
-
-  alert
-
-  slim
-
-  taxi
-
-  trade'
-bip_39_word_new_line_11: 'small
-
-  split
-
-  moral
-
-  citizen
-
-  salad
-
-  kidney
-
-  alert
-
-  slim
-
-  taxi
-
-  trade
-
-  hand'
 bip_39_word_new_line_12: 'small
 
   split
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'small
   split
 
   moral'
-bip_39_word_new_line_4: 'small
-
-  split
-
-  moral
-
-  citizen'
-bip_39_word_new_line_5: 'small
-
-  split
-
-  moral
-
-  citizen
-
-  salad'
-bip_39_word_new_line_6: 'small
-
-  split
-
-  moral
-
-  citizen
-
-  salad
-
-  kidney'
-bip_39_word_new_line_7: 'small
-
-  split
-
-  moral
-
-  citizen
-
-  salad
-
-  kidney
-
-  alert'
-bip_39_word_new_line_8: 'small
-
-  split
-
-  moral
-
-  citizen
-
-  salad
-
-  kidney
-
-  alert
-
-  slim'
-bip_39_word_new_line_9: 'small
-
-  split
-
-  moral
-
-  citizen
-
-  salad
-
-  kidney
-
-  alert
-
-  slim
-
-  taxi'
-bip_39_word_no_space_1: small
-bip_39_word_no_space_10: smallsplitmoralcitizensaladkidneyalertslimtaxitrade
-bip_39_word_no_space_11: smallsplitmoralcitizensaladkidneyalertslimtaxitradehand
 bip_39_word_no_space_12: smallsplitmoralcitizensaladkidneyalertslimtaxitradehandattack
 bip_39_word_no_space_2: smallsplit
 bip_39_word_no_space_3: smallsplitmoral
-bip_39_word_no_space_4: smallsplitmoralcitizen
-bip_39_word_no_space_5: smallsplitmoralcitizensalad
-bip_39_word_no_space_6: smallsplitmoralcitizensaladkidney
-bip_39_word_no_space_7: smallsplitmoralcitizensaladkidneyalert
-bip_39_word_no_space_8: smallsplitmoralcitizensaladkidneyalertslim
-bip_39_word_no_space_9: smallsplitmoralcitizensaladkidneyalertslimtaxi
-bip_39_word_space_0:
-- small
-- split
-- moral
-- citizen
-- salad
-- kidney
-- alert
-- slim
-- taxi
-- trade
-- hand
-- attack
-bip_39_word_space_1: small
-bip_39_word_space_10: small split moral citizen salad kidney alert slim taxi trade
-bip_39_word_space_11: small split moral citizen salad kidney alert slim taxi trade
-  hand
 bip_39_word_space_12: small split moral citizen salad kidney alert slim taxi trade
   hand attack
 bip_39_word_space_2: small split
 bip_39_word_space_3: small split moral
-bip_39_word_space_4: small split moral citizen
-bip_39_word_space_5: small split moral citizen salad
-bip_39_word_space_6: small split moral citizen salad kidney
-bip_39_word_space_7: small split moral citizen salad kidney alert
-bip_39_word_space_8: small split moral citizen salad kidney alert slim
-bip_39_word_space_9: small split moral citizen salad kidney alert slim taxi
-bip_39_word_underscore_1: small
-bip_39_word_underscore_10: small_split_moral_citizen_salad_kidney_alert_slim_taxi_trade
-bip_39_word_underscore_11: small_split_moral_citizen_salad_kidney_alert_slim_taxi_trade_hand
 bip_39_word_underscore_12: small_split_moral_citizen_salad_kidney_alert_slim_taxi_trade_hand_attack
 bip_39_word_underscore_2: small_split
 bip_39_word_underscore_3: small_split_moral
-bip_39_word_underscore_4: small_split_moral_citizen
-bip_39_word_underscore_5: small_split_moral_citizen_salad
-bip_39_word_underscore_6: small_split_moral_citizen_salad_kidney
-bip_39_word_underscore_7: small_split_moral_citizen_salad_kidney_alert
-bip_39_word_underscore_8: small_split_moral_citizen_salad_kidney_alert_slim
-bip_39_word_underscore_9: small_split_moral_citizen_salad_kidney_alert_slim_taxi
 classification: category
 classification_capital: Category
 classification_first_letter: c

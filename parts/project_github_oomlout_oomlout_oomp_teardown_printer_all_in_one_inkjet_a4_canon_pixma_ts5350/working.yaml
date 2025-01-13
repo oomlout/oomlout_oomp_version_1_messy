@@ -1,68 +1,9 @@
-bip_39_word_dash_1: noise
-bip_39_word_dash_10: noise-broken-apple-junk-keep-tuition-ancient-grace-flee-fringe
-bip_39_word_dash_11: noise-broken-apple-junk-keep-tuition-ancient-grace-flee-fringe-tongue
 bip_39_word_dash_12: noise-broken-apple-junk-keep-tuition-ancient-grace-flee-fringe-tongue-anxiety
 bip_39_word_dash_2: noise-broken
 bip_39_word_dash_3: noise-broken-apple
-bip_39_word_dash_4: noise-broken-apple-junk
-bip_39_word_dash_5: noise-broken-apple-junk-keep
-bip_39_word_dash_6: noise-broken-apple-junk-keep-tuition
-bip_39_word_dash_7: noise-broken-apple-junk-keep-tuition-ancient
-bip_39_word_dash_8: noise-broken-apple-junk-keep-tuition-ancient-grace
-bip_39_word_dash_9: noise-broken-apple-junk-keep-tuition-ancient-grace-flee
-bip_39_word_new_br_1: noise
-bip_39_word_new_br_10: noise<br>broken<br>apple<br>junk<br>keep<br>tuition<br>ancient<br>grace<br>flee<br>fringe
-bip_39_word_new_br_11: noise<br>broken<br>apple<br>junk<br>keep<br>tuition<br>ancient<br>grace<br>flee<br>fringe<br>tongue
 bip_39_word_new_br_12: noise<br>broken<br>apple<br>junk<br>keep<br>tuition<br>ancient<br>grace<br>flee<br>fringe<br>tongue<br>anxiety
 bip_39_word_new_br_2: noise<br>broken
 bip_39_word_new_br_3: noise<br>broken<br>apple
-bip_39_word_new_br_4: noise<br>broken<br>apple<br>junk
-bip_39_word_new_br_5: noise<br>broken<br>apple<br>junk<br>keep
-bip_39_word_new_br_6: noise<br>broken<br>apple<br>junk<br>keep<br>tuition
-bip_39_word_new_br_7: noise<br>broken<br>apple<br>junk<br>keep<br>tuition<br>ancient
-bip_39_word_new_br_8: noise<br>broken<br>apple<br>junk<br>keep<br>tuition<br>ancient<br>grace
-bip_39_word_new_br_9: noise<br>broken<br>apple<br>junk<br>keep<br>tuition<br>ancient<br>grace<br>flee
-bip_39_word_new_line_1: noise
-bip_39_word_new_line_10: 'noise
-
-  broken
-
-  apple
-
-  junk
-
-  keep
-
-  tuition
-
-  ancient
-
-  grace
-
-  flee
-
-  fringe'
-bip_39_word_new_line_11: 'noise
-
-  broken
-
-  apple
-
-  junk
-
-  keep
-
-  tuition
-
-  ancient
-
-  grace
-
-  flee
-
-  fringe
-
-  tongue'
 bip_39_word_new_line_12: 'noise
 
   broken
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'noise
   broken
 
   apple'
-bip_39_word_new_line_4: 'noise
-
-  broken
-
-  apple
-
-  junk'
-bip_39_word_new_line_5: 'noise
-
-  broken
-
-  apple
-
-  junk
-
-  keep'
-bip_39_word_new_line_6: 'noise
-
-  broken
-
-  apple
-
-  junk
-
-  keep
-
-  tuition'
-bip_39_word_new_line_7: 'noise
-
-  broken
-
-  apple
-
-  junk
-
-  keep
-
-  tuition
-
-  ancient'
-bip_39_word_new_line_8: 'noise
-
-  broken
-
-  apple
-
-  junk
-
-  keep
-
-  tuition
-
-  ancient
-
-  grace'
-bip_39_word_new_line_9: 'noise
-
-  broken
-
-  apple
-
-  junk
-
-  keep
-
-  tuition
-
-  ancient
-
-  grace
-
-  flee'
-bip_39_word_no_space_1: noise
-bip_39_word_no_space_10: noisebrokenapplejunkkeeptuitionancientgracefleefringe
-bip_39_word_no_space_11: noisebrokenapplejunkkeeptuitionancientgracefleefringetongue
 bip_39_word_no_space_12: noisebrokenapplejunkkeeptuitionancientgracefleefringetongueanxiety
 bip_39_word_no_space_2: noisebroken
 bip_39_word_no_space_3: noisebrokenapple
-bip_39_word_no_space_4: noisebrokenapplejunk
-bip_39_word_no_space_5: noisebrokenapplejunkkeep
-bip_39_word_no_space_6: noisebrokenapplejunkkeeptuition
-bip_39_word_no_space_7: noisebrokenapplejunkkeeptuitionancient
-bip_39_word_no_space_8: noisebrokenapplejunkkeeptuitionancientgrace
-bip_39_word_no_space_9: noisebrokenapplejunkkeeptuitionancientgraceflee
-bip_39_word_space_0:
-- noise
-- broken
-- apple
-- junk
-- keep
-- tuition
-- ancient
-- grace
-- flee
-- fringe
-- tongue
-- anxiety
-bip_39_word_space_1: noise
-bip_39_word_space_10: noise broken apple junk keep tuition ancient grace flee fringe
-bip_39_word_space_11: noise broken apple junk keep tuition ancient grace flee fringe
-  tongue
 bip_39_word_space_12: noise broken apple junk keep tuition ancient grace flee fringe
   tongue anxiety
 bip_39_word_space_2: noise broken
 bip_39_word_space_3: noise broken apple
-bip_39_word_space_4: noise broken apple junk
-bip_39_word_space_5: noise broken apple junk keep
-bip_39_word_space_6: noise broken apple junk keep tuition
-bip_39_word_space_7: noise broken apple junk keep tuition ancient
-bip_39_word_space_8: noise broken apple junk keep tuition ancient grace
-bip_39_word_space_9: noise broken apple junk keep tuition ancient grace flee
-bip_39_word_underscore_1: noise
-bip_39_word_underscore_10: noise_broken_apple_junk_keep_tuition_ancient_grace_flee_fringe
-bip_39_word_underscore_11: noise_broken_apple_junk_keep_tuition_ancient_grace_flee_fringe_tongue
 bip_39_word_underscore_12: noise_broken_apple_junk_keep_tuition_ancient_grace_flee_fringe_tongue_anxiety
 bip_39_word_underscore_2: noise_broken
 bip_39_word_underscore_3: noise_broken_apple
-bip_39_word_underscore_4: noise_broken_apple_junk
-bip_39_word_underscore_5: noise_broken_apple_junk_keep
-bip_39_word_underscore_6: noise_broken_apple_junk_keep_tuition
-bip_39_word_underscore_7: noise_broken_apple_junk_keep_tuition_ancient
-bip_39_word_underscore_8: noise_broken_apple_junk_keep_tuition_ancient_grace
-bip_39_word_underscore_9: noise_broken_apple_junk_keep_tuition_ancient_grace_flee
 classification: project
 classification_capital: Project
 classification_first_letter: p

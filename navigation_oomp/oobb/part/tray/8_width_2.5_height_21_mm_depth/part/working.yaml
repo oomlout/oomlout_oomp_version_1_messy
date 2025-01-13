@@ -1,68 +1,9 @@
-bip_39_word_dash_1: panic
-bip_39_word_dash_10: panic-umbrella-charge-thunder-cattle-exhaust-wire-hurry-excite-chapter
-bip_39_word_dash_11: panic-umbrella-charge-thunder-cattle-exhaust-wire-hurry-excite-chapter-dirt
 bip_39_word_dash_12: panic-umbrella-charge-thunder-cattle-exhaust-wire-hurry-excite-chapter-dirt-all
 bip_39_word_dash_2: panic-umbrella
 bip_39_word_dash_3: panic-umbrella-charge
-bip_39_word_dash_4: panic-umbrella-charge-thunder
-bip_39_word_dash_5: panic-umbrella-charge-thunder-cattle
-bip_39_word_dash_6: panic-umbrella-charge-thunder-cattle-exhaust
-bip_39_word_dash_7: panic-umbrella-charge-thunder-cattle-exhaust-wire
-bip_39_word_dash_8: panic-umbrella-charge-thunder-cattle-exhaust-wire-hurry
-bip_39_word_dash_9: panic-umbrella-charge-thunder-cattle-exhaust-wire-hurry-excite
-bip_39_word_new_br_1: panic
-bip_39_word_new_br_10: panic<br>umbrella<br>charge<br>thunder<br>cattle<br>exhaust<br>wire<br>hurry<br>excite<br>chapter
-bip_39_word_new_br_11: panic<br>umbrella<br>charge<br>thunder<br>cattle<br>exhaust<br>wire<br>hurry<br>excite<br>chapter<br>dirt
 bip_39_word_new_br_12: panic<br>umbrella<br>charge<br>thunder<br>cattle<br>exhaust<br>wire<br>hurry<br>excite<br>chapter<br>dirt<br>all
 bip_39_word_new_br_2: panic<br>umbrella
 bip_39_word_new_br_3: panic<br>umbrella<br>charge
-bip_39_word_new_br_4: panic<br>umbrella<br>charge<br>thunder
-bip_39_word_new_br_5: panic<br>umbrella<br>charge<br>thunder<br>cattle
-bip_39_word_new_br_6: panic<br>umbrella<br>charge<br>thunder<br>cattle<br>exhaust
-bip_39_word_new_br_7: panic<br>umbrella<br>charge<br>thunder<br>cattle<br>exhaust<br>wire
-bip_39_word_new_br_8: panic<br>umbrella<br>charge<br>thunder<br>cattle<br>exhaust<br>wire<br>hurry
-bip_39_word_new_br_9: panic<br>umbrella<br>charge<br>thunder<br>cattle<br>exhaust<br>wire<br>hurry<br>excite
-bip_39_word_new_line_1: panic
-bip_39_word_new_line_10: 'panic
-
-  umbrella
-
-  charge
-
-  thunder
-
-  cattle
-
-  exhaust
-
-  wire
-
-  hurry
-
-  excite
-
-  chapter'
-bip_39_word_new_line_11: 'panic
-
-  umbrella
-
-  charge
-
-  thunder
-
-  cattle
-
-  exhaust
-
-  wire
-
-  hurry
-
-  excite
-
-  chapter
-
-  dirt'
 bip_39_word_new_line_12: 'panic
 
   umbrella
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'panic
   umbrella
 
   charge'
-bip_39_word_new_line_4: 'panic
-
-  umbrella
-
-  charge
-
-  thunder'
-bip_39_word_new_line_5: 'panic
-
-  umbrella
-
-  charge
-
-  thunder
-
-  cattle'
-bip_39_word_new_line_6: 'panic
-
-  umbrella
-
-  charge
-
-  thunder
-
-  cattle
-
-  exhaust'
-bip_39_word_new_line_7: 'panic
-
-  umbrella
-
-  charge
-
-  thunder
-
-  cattle
-
-  exhaust
-
-  wire'
-bip_39_word_new_line_8: 'panic
-
-  umbrella
-
-  charge
-
-  thunder
-
-  cattle
-
-  exhaust
-
-  wire
-
-  hurry'
-bip_39_word_new_line_9: 'panic
-
-  umbrella
-
-  charge
-
-  thunder
-
-  cattle
-
-  exhaust
-
-  wire
-
-  hurry
-
-  excite'
-bip_39_word_no_space_1: panic
-bip_39_word_no_space_10: panicumbrellachargethundercattleexhaustwirehurryexcitechapter
-bip_39_word_no_space_11: panicumbrellachargethundercattleexhaustwirehurryexcitechapterdirt
 bip_39_word_no_space_12: panicumbrellachargethundercattleexhaustwirehurryexcitechapterdirtall
 bip_39_word_no_space_2: panicumbrella
 bip_39_word_no_space_3: panicumbrellacharge
-bip_39_word_no_space_4: panicumbrellachargethunder
-bip_39_word_no_space_5: panicumbrellachargethundercattle
-bip_39_word_no_space_6: panicumbrellachargethundercattleexhaust
-bip_39_word_no_space_7: panicumbrellachargethundercattleexhaustwire
-bip_39_word_no_space_8: panicumbrellachargethundercattleexhaustwirehurry
-bip_39_word_no_space_9: panicumbrellachargethundercattleexhaustwirehurryexcite
-bip_39_word_space_0:
-- panic
-- umbrella
-- charge
-- thunder
-- cattle
-- exhaust
-- wire
-- hurry
-- excite
-- chapter
-- dirt
-- all
-bip_39_word_space_1: panic
-bip_39_word_space_10: panic umbrella charge thunder cattle exhaust wire hurry excite
-  chapter
-bip_39_word_space_11: panic umbrella charge thunder cattle exhaust wire hurry excite
-  chapter dirt
 bip_39_word_space_12: panic umbrella charge thunder cattle exhaust wire hurry excite
   chapter dirt all
 bip_39_word_space_2: panic umbrella
 bip_39_word_space_3: panic umbrella charge
-bip_39_word_space_4: panic umbrella charge thunder
-bip_39_word_space_5: panic umbrella charge thunder cattle
-bip_39_word_space_6: panic umbrella charge thunder cattle exhaust
-bip_39_word_space_7: panic umbrella charge thunder cattle exhaust wire
-bip_39_word_space_8: panic umbrella charge thunder cattle exhaust wire hurry
-bip_39_word_space_9: panic umbrella charge thunder cattle exhaust wire hurry excite
-bip_39_word_underscore_1: panic
-bip_39_word_underscore_10: panic_umbrella_charge_thunder_cattle_exhaust_wire_hurry_excite_chapter
-bip_39_word_underscore_11: panic_umbrella_charge_thunder_cattle_exhaust_wire_hurry_excite_chapter_dirt
 bip_39_word_underscore_12: panic_umbrella_charge_thunder_cattle_exhaust_wire_hurry_excite_chapter_dirt_all
 bip_39_word_underscore_2: panic_umbrella
 bip_39_word_underscore_3: panic_umbrella_charge
-bip_39_word_underscore_4: panic_umbrella_charge_thunder
-bip_39_word_underscore_5: panic_umbrella_charge_thunder_cattle
-bip_39_word_underscore_6: panic_umbrella_charge_thunder_cattle_exhaust
-bip_39_word_underscore_7: panic_umbrella_charge_thunder_cattle_exhaust_wire
-bip_39_word_underscore_8: panic_umbrella_charge_thunder_cattle_exhaust_wire_hurry
-bip_39_word_underscore_9: panic_umbrella_charge_thunder_cattle_exhaust_wire_hurry_excite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

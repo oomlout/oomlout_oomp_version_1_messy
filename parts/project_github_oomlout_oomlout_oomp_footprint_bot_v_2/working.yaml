@@ -1,68 +1,9 @@
-bip_39_word_dash_1: base
-bip_39_word_dash_10: base-stick-wire-vanish-margin-rhythm-drama-kite-clog-quantum
-bip_39_word_dash_11: base-stick-wire-vanish-margin-rhythm-drama-kite-clog-quantum-swift
 bip_39_word_dash_12: base-stick-wire-vanish-margin-rhythm-drama-kite-clog-quantum-swift-army
 bip_39_word_dash_2: base-stick
 bip_39_word_dash_3: base-stick-wire
-bip_39_word_dash_4: base-stick-wire-vanish
-bip_39_word_dash_5: base-stick-wire-vanish-margin
-bip_39_word_dash_6: base-stick-wire-vanish-margin-rhythm
-bip_39_word_dash_7: base-stick-wire-vanish-margin-rhythm-drama
-bip_39_word_dash_8: base-stick-wire-vanish-margin-rhythm-drama-kite
-bip_39_word_dash_9: base-stick-wire-vanish-margin-rhythm-drama-kite-clog
-bip_39_word_new_br_1: base
-bip_39_word_new_br_10: base<br>stick<br>wire<br>vanish<br>margin<br>rhythm<br>drama<br>kite<br>clog<br>quantum
-bip_39_word_new_br_11: base<br>stick<br>wire<br>vanish<br>margin<br>rhythm<br>drama<br>kite<br>clog<br>quantum<br>swift
 bip_39_word_new_br_12: base<br>stick<br>wire<br>vanish<br>margin<br>rhythm<br>drama<br>kite<br>clog<br>quantum<br>swift<br>army
 bip_39_word_new_br_2: base<br>stick
 bip_39_word_new_br_3: base<br>stick<br>wire
-bip_39_word_new_br_4: base<br>stick<br>wire<br>vanish
-bip_39_word_new_br_5: base<br>stick<br>wire<br>vanish<br>margin
-bip_39_word_new_br_6: base<br>stick<br>wire<br>vanish<br>margin<br>rhythm
-bip_39_word_new_br_7: base<br>stick<br>wire<br>vanish<br>margin<br>rhythm<br>drama
-bip_39_word_new_br_8: base<br>stick<br>wire<br>vanish<br>margin<br>rhythm<br>drama<br>kite
-bip_39_word_new_br_9: base<br>stick<br>wire<br>vanish<br>margin<br>rhythm<br>drama<br>kite<br>clog
-bip_39_word_new_line_1: base
-bip_39_word_new_line_10: 'base
-
-  stick
-
-  wire
-
-  vanish
-
-  margin
-
-  rhythm
-
-  drama
-
-  kite
-
-  clog
-
-  quantum'
-bip_39_word_new_line_11: 'base
-
-  stick
-
-  wire
-
-  vanish
-
-  margin
-
-  rhythm
-
-  drama
-
-  kite
-
-  clog
-
-  quantum
-
-  swift'
 bip_39_word_new_line_12: 'base
 
   stick
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'base
   stick
 
   wire'
-bip_39_word_new_line_4: 'base
-
-  stick
-
-  wire
-
-  vanish'
-bip_39_word_new_line_5: 'base
-
-  stick
-
-  wire
-
-  vanish
-
-  margin'
-bip_39_word_new_line_6: 'base
-
-  stick
-
-  wire
-
-  vanish
-
-  margin
-
-  rhythm'
-bip_39_word_new_line_7: 'base
-
-  stick
-
-  wire
-
-  vanish
-
-  margin
-
-  rhythm
-
-  drama'
-bip_39_word_new_line_8: 'base
-
-  stick
-
-  wire
-
-  vanish
-
-  margin
-
-  rhythm
-
-  drama
-
-  kite'
-bip_39_word_new_line_9: 'base
-
-  stick
-
-  wire
-
-  vanish
-
-  margin
-
-  rhythm
-
-  drama
-
-  kite
-
-  clog'
-bip_39_word_no_space_1: base
-bip_39_word_no_space_10: basestickwirevanishmarginrhythmdramakiteclogquantum
-bip_39_word_no_space_11: basestickwirevanishmarginrhythmdramakiteclogquantumswift
 bip_39_word_no_space_12: basestickwirevanishmarginrhythmdramakiteclogquantumswiftarmy
 bip_39_word_no_space_2: basestick
 bip_39_word_no_space_3: basestickwire
-bip_39_word_no_space_4: basestickwirevanish
-bip_39_word_no_space_5: basestickwirevanishmargin
-bip_39_word_no_space_6: basestickwirevanishmarginrhythm
-bip_39_word_no_space_7: basestickwirevanishmarginrhythmdrama
-bip_39_word_no_space_8: basestickwirevanishmarginrhythmdramakite
-bip_39_word_no_space_9: basestickwirevanishmarginrhythmdramakiteclog
-bip_39_word_space_0:
-- base
-- stick
-- wire
-- vanish
-- margin
-- rhythm
-- drama
-- kite
-- clog
-- quantum
-- swift
-- army
-bip_39_word_space_1: base
-bip_39_word_space_10: base stick wire vanish margin rhythm drama kite clog quantum
-bip_39_word_space_11: base stick wire vanish margin rhythm drama kite clog quantum
-  swift
 bip_39_word_space_12: base stick wire vanish margin rhythm drama kite clog quantum
   swift army
 bip_39_word_space_2: base stick
 bip_39_word_space_3: base stick wire
-bip_39_word_space_4: base stick wire vanish
-bip_39_word_space_5: base stick wire vanish margin
-bip_39_word_space_6: base stick wire vanish margin rhythm
-bip_39_word_space_7: base stick wire vanish margin rhythm drama
-bip_39_word_space_8: base stick wire vanish margin rhythm drama kite
-bip_39_word_space_9: base stick wire vanish margin rhythm drama kite clog
-bip_39_word_underscore_1: base
-bip_39_word_underscore_10: base_stick_wire_vanish_margin_rhythm_drama_kite_clog_quantum
-bip_39_word_underscore_11: base_stick_wire_vanish_margin_rhythm_drama_kite_clog_quantum_swift
 bip_39_word_underscore_12: base_stick_wire_vanish_margin_rhythm_drama_kite_clog_quantum_swift_army
 bip_39_word_underscore_2: base_stick
 bip_39_word_underscore_3: base_stick_wire
-bip_39_word_underscore_4: base_stick_wire_vanish
-bip_39_word_underscore_5: base_stick_wire_vanish_margin
-bip_39_word_underscore_6: base_stick_wire_vanish_margin_rhythm
-bip_39_word_underscore_7: base_stick_wire_vanish_margin_rhythm_drama
-bip_39_word_underscore_8: base_stick_wire_vanish_margin_rhythm_drama_kite
-bip_39_word_underscore_9: base_stick_wire_vanish_margin_rhythm_drama_kite_clog
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: menu
-bip_39_word_dash_10: menu-fire-pole-belt-someone-coconut-title-web-harvest-arrest
-bip_39_word_dash_11: menu-fire-pole-belt-someone-coconut-title-web-harvest-arrest-tourist
 bip_39_word_dash_12: menu-fire-pole-belt-someone-coconut-title-web-harvest-arrest-tourist-accident
 bip_39_word_dash_2: menu-fire
 bip_39_word_dash_3: menu-fire-pole
-bip_39_word_dash_4: menu-fire-pole-belt
-bip_39_word_dash_5: menu-fire-pole-belt-someone
-bip_39_word_dash_6: menu-fire-pole-belt-someone-coconut
-bip_39_word_dash_7: menu-fire-pole-belt-someone-coconut-title
-bip_39_word_dash_8: menu-fire-pole-belt-someone-coconut-title-web
-bip_39_word_dash_9: menu-fire-pole-belt-someone-coconut-title-web-harvest
-bip_39_word_new_br_1: menu
-bip_39_word_new_br_10: menu<br>fire<br>pole<br>belt<br>someone<br>coconut<br>title<br>web<br>harvest<br>arrest
-bip_39_word_new_br_11: menu<br>fire<br>pole<br>belt<br>someone<br>coconut<br>title<br>web<br>harvest<br>arrest<br>tourist
 bip_39_word_new_br_12: menu<br>fire<br>pole<br>belt<br>someone<br>coconut<br>title<br>web<br>harvest<br>arrest<br>tourist<br>accident
 bip_39_word_new_br_2: menu<br>fire
 bip_39_word_new_br_3: menu<br>fire<br>pole
-bip_39_word_new_br_4: menu<br>fire<br>pole<br>belt
-bip_39_word_new_br_5: menu<br>fire<br>pole<br>belt<br>someone
-bip_39_word_new_br_6: menu<br>fire<br>pole<br>belt<br>someone<br>coconut
-bip_39_word_new_br_7: menu<br>fire<br>pole<br>belt<br>someone<br>coconut<br>title
-bip_39_word_new_br_8: menu<br>fire<br>pole<br>belt<br>someone<br>coconut<br>title<br>web
-bip_39_word_new_br_9: menu<br>fire<br>pole<br>belt<br>someone<br>coconut<br>title<br>web<br>harvest
-bip_39_word_new_line_1: menu
-bip_39_word_new_line_10: 'menu
-
-  fire
-
-  pole
-
-  belt
-
-  someone
-
-  coconut
-
-  title
-
-  web
-
-  harvest
-
-  arrest'
-bip_39_word_new_line_11: 'menu
-
-  fire
-
-  pole
-
-  belt
-
-  someone
-
-  coconut
-
-  title
-
-  web
-
-  harvest
-
-  arrest
-
-  tourist'
 bip_39_word_new_line_12: 'menu
 
   fire
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'menu
   fire
 
   pole'
-bip_39_word_new_line_4: 'menu
-
-  fire
-
-  pole
-
-  belt'
-bip_39_word_new_line_5: 'menu
-
-  fire
-
-  pole
-
-  belt
-
-  someone'
-bip_39_word_new_line_6: 'menu
-
-  fire
-
-  pole
-
-  belt
-
-  someone
-
-  coconut'
-bip_39_word_new_line_7: 'menu
-
-  fire
-
-  pole
-
-  belt
-
-  someone
-
-  coconut
-
-  title'
-bip_39_word_new_line_8: 'menu
-
-  fire
-
-  pole
-
-  belt
-
-  someone
-
-  coconut
-
-  title
-
-  web'
-bip_39_word_new_line_9: 'menu
-
-  fire
-
-  pole
-
-  belt
-
-  someone
-
-  coconut
-
-  title
-
-  web
-
-  harvest'
-bip_39_word_no_space_1: menu
-bip_39_word_no_space_10: menufirepolebeltsomeonecoconuttitlewebharvestarrest
-bip_39_word_no_space_11: menufirepolebeltsomeonecoconuttitlewebharvestarresttourist
 bip_39_word_no_space_12: menufirepolebeltsomeonecoconuttitlewebharvestarresttouristaccident
 bip_39_word_no_space_2: menufire
 bip_39_word_no_space_3: menufirepole
-bip_39_word_no_space_4: menufirepolebelt
-bip_39_word_no_space_5: menufirepolebeltsomeone
-bip_39_word_no_space_6: menufirepolebeltsomeonecoconut
-bip_39_word_no_space_7: menufirepolebeltsomeonecoconuttitle
-bip_39_word_no_space_8: menufirepolebeltsomeonecoconuttitleweb
-bip_39_word_no_space_9: menufirepolebeltsomeonecoconuttitlewebharvest
-bip_39_word_space_0:
-- menu
-- fire
-- pole
-- belt
-- someone
-- coconut
-- title
-- web
-- harvest
-- arrest
-- tourist
-- accident
-bip_39_word_space_1: menu
-bip_39_word_space_10: menu fire pole belt someone coconut title web harvest arrest
-bip_39_word_space_11: menu fire pole belt someone coconut title web harvest arrest
-  tourist
 bip_39_word_space_12: menu fire pole belt someone coconut title web harvest arrest
   tourist accident
 bip_39_word_space_2: menu fire
 bip_39_word_space_3: menu fire pole
-bip_39_word_space_4: menu fire pole belt
-bip_39_word_space_5: menu fire pole belt someone
-bip_39_word_space_6: menu fire pole belt someone coconut
-bip_39_word_space_7: menu fire pole belt someone coconut title
-bip_39_word_space_8: menu fire pole belt someone coconut title web
-bip_39_word_space_9: menu fire pole belt someone coconut title web harvest
-bip_39_word_underscore_1: menu
-bip_39_word_underscore_10: menu_fire_pole_belt_someone_coconut_title_web_harvest_arrest
-bip_39_word_underscore_11: menu_fire_pole_belt_someone_coconut_title_web_harvest_arrest_tourist
 bip_39_word_underscore_12: menu_fire_pole_belt_someone_coconut_title_web_harvest_arrest_tourist_accident
 bip_39_word_underscore_2: menu_fire
 bip_39_word_underscore_3: menu_fire_pole
-bip_39_word_underscore_4: menu_fire_pole_belt
-bip_39_word_underscore_5: menu_fire_pole_belt_someone
-bip_39_word_underscore_6: menu_fire_pole_belt_someone_coconut
-bip_39_word_underscore_7: menu_fire_pole_belt_someone_coconut_title
-bip_39_word_underscore_8: menu_fire_pole_belt_someone_coconut_title_web
-bip_39_word_underscore_9: menu_fire_pole_belt_someone_coconut_title_web_harvest
 classification: project
 classification_capital: Project
 classification_first_letter: p

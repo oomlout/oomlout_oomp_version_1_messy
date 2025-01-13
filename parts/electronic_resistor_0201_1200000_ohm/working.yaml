@@ -1,68 +1,9 @@
-bip_39_word_dash_1: logic
-bip_39_word_dash_10: logic-dry-shed-submit-minor-source-fancy-curious-cloth-laptop
-bip_39_word_dash_11: logic-dry-shed-submit-minor-source-fancy-curious-cloth-laptop-wood
 bip_39_word_dash_12: logic-dry-shed-submit-minor-source-fancy-curious-cloth-laptop-wood-addict
 bip_39_word_dash_2: logic-dry
 bip_39_word_dash_3: logic-dry-shed
-bip_39_word_dash_4: logic-dry-shed-submit
-bip_39_word_dash_5: logic-dry-shed-submit-minor
-bip_39_word_dash_6: logic-dry-shed-submit-minor-source
-bip_39_word_dash_7: logic-dry-shed-submit-minor-source-fancy
-bip_39_word_dash_8: logic-dry-shed-submit-minor-source-fancy-curious
-bip_39_word_dash_9: logic-dry-shed-submit-minor-source-fancy-curious-cloth
-bip_39_word_new_br_1: logic
-bip_39_word_new_br_10: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop
-bip_39_word_new_br_11: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop<br>wood
 bip_39_word_new_br_12: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop<br>wood<br>addict
 bip_39_word_new_br_2: logic<br>dry
 bip_39_word_new_br_3: logic<br>dry<br>shed
-bip_39_word_new_br_4: logic<br>dry<br>shed<br>submit
-bip_39_word_new_br_5: logic<br>dry<br>shed<br>submit<br>minor
-bip_39_word_new_br_6: logic<br>dry<br>shed<br>submit<br>minor<br>source
-bip_39_word_new_br_7: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy
-bip_39_word_new_br_8: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious
-bip_39_word_new_br_9: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth
-bip_39_word_new_line_1: logic
-bip_39_word_new_line_10: 'logic
-
-  dry
-
-  shed
-
-  submit
-
-  minor
-
-  source
-
-  fancy
-
-  curious
-
-  cloth
-
-  laptop'
-bip_39_word_new_line_11: 'logic
-
-  dry
-
-  shed
-
-  submit
-
-  minor
-
-  source
-
-  fancy
-
-  curious
-
-  cloth
-
-  laptop
-
-  wood'
 bip_39_word_new_line_12: 'logic
 
   dry
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'logic
   dry
 
   shed'
-bip_39_word_new_line_4: 'logic
-
-  dry
-
-  shed
-
-  submit'
-bip_39_word_new_line_5: 'logic
-
-  dry
-
-  shed
-
-  submit
-
-  minor'
-bip_39_word_new_line_6: 'logic
-
-  dry
-
-  shed
-
-  submit
-
-  minor
-
-  source'
-bip_39_word_new_line_7: 'logic
-
-  dry
-
-  shed
-
-  submit
-
-  minor
-
-  source
-
-  fancy'
-bip_39_word_new_line_8: 'logic
-
-  dry
-
-  shed
-
-  submit
-
-  minor
-
-  source
-
-  fancy
-
-  curious'
-bip_39_word_new_line_9: 'logic
-
-  dry
-
-  shed
-
-  submit
-
-  minor
-
-  source
-
-  fancy
-
-  curious
-
-  cloth'
-bip_39_word_no_space_1: logic
-bip_39_word_no_space_10: logicdryshedsubmitminorsourcefancycuriousclothlaptop
-bip_39_word_no_space_11: logicdryshedsubmitminorsourcefancycuriousclothlaptopwood
 bip_39_word_no_space_12: logicdryshedsubmitminorsourcefancycuriousclothlaptopwoodaddict
 bip_39_word_no_space_2: logicdry
 bip_39_word_no_space_3: logicdryshed
-bip_39_word_no_space_4: logicdryshedsubmit
-bip_39_word_no_space_5: logicdryshedsubmitminor
-bip_39_word_no_space_6: logicdryshedsubmitminorsource
-bip_39_word_no_space_7: logicdryshedsubmitminorsourcefancy
-bip_39_word_no_space_8: logicdryshedsubmitminorsourcefancycurious
-bip_39_word_no_space_9: logicdryshedsubmitminorsourcefancycuriouscloth
-bip_39_word_space_0:
-- logic
-- dry
-- shed
-- submit
-- minor
-- source
-- fancy
-- curious
-- cloth
-- laptop
-- wood
-- addict
-bip_39_word_space_1: logic
-bip_39_word_space_10: logic dry shed submit minor source fancy curious cloth laptop
-bip_39_word_space_11: logic dry shed submit minor source fancy curious cloth laptop
-  wood
 bip_39_word_space_12: logic dry shed submit minor source fancy curious cloth laptop
   wood addict
 bip_39_word_space_2: logic dry
 bip_39_word_space_3: logic dry shed
-bip_39_word_space_4: logic dry shed submit
-bip_39_word_space_5: logic dry shed submit minor
-bip_39_word_space_6: logic dry shed submit minor source
-bip_39_word_space_7: logic dry shed submit minor source fancy
-bip_39_word_space_8: logic dry shed submit minor source fancy curious
-bip_39_word_space_9: logic dry shed submit minor source fancy curious cloth
-bip_39_word_underscore_1: logic
-bip_39_word_underscore_10: logic_dry_shed_submit_minor_source_fancy_curious_cloth_laptop
-bip_39_word_underscore_11: logic_dry_shed_submit_minor_source_fancy_curious_cloth_laptop_wood
 bip_39_word_underscore_12: logic_dry_shed_submit_minor_source_fancy_curious_cloth_laptop_wood_addict
 bip_39_word_underscore_2: logic_dry
 bip_39_word_underscore_3: logic_dry_shed
-bip_39_word_underscore_4: logic_dry_shed_submit
-bip_39_word_underscore_5: logic_dry_shed_submit_minor
-bip_39_word_underscore_6: logic_dry_shed_submit_minor_source
-bip_39_word_underscore_7: logic_dry_shed_submit_minor_source_fancy
-bip_39_word_underscore_8: logic_dry_shed_submit_minor_source_fancy_curious
-bip_39_word_underscore_9: logic_dry_shed_submit_minor_source_fancy_curious_cloth
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

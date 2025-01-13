@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lounge
-bip_39_word_dash_10: lounge-crawl-divorce-pass-grid-general-clap-surround-desert-myth
-bip_39_word_dash_11: lounge-crawl-divorce-pass-grid-general-clap-surround-desert-myth-flame
 bip_39_word_dash_12: lounge-crawl-divorce-pass-grid-general-clap-surround-desert-myth-flame-acoustic
 bip_39_word_dash_2: lounge-crawl
 bip_39_word_dash_3: lounge-crawl-divorce
-bip_39_word_dash_4: lounge-crawl-divorce-pass
-bip_39_word_dash_5: lounge-crawl-divorce-pass-grid
-bip_39_word_dash_6: lounge-crawl-divorce-pass-grid-general
-bip_39_word_dash_7: lounge-crawl-divorce-pass-grid-general-clap
-bip_39_word_dash_8: lounge-crawl-divorce-pass-grid-general-clap-surround
-bip_39_word_dash_9: lounge-crawl-divorce-pass-grid-general-clap-surround-desert
-bip_39_word_new_br_1: lounge
-bip_39_word_new_br_10: lounge<br>crawl<br>divorce<br>pass<br>grid<br>general<br>clap<br>surround<br>desert<br>myth
-bip_39_word_new_br_11: lounge<br>crawl<br>divorce<br>pass<br>grid<br>general<br>clap<br>surround<br>desert<br>myth<br>flame
 bip_39_word_new_br_12: lounge<br>crawl<br>divorce<br>pass<br>grid<br>general<br>clap<br>surround<br>desert<br>myth<br>flame<br>acoustic
 bip_39_word_new_br_2: lounge<br>crawl
 bip_39_word_new_br_3: lounge<br>crawl<br>divorce
-bip_39_word_new_br_4: lounge<br>crawl<br>divorce<br>pass
-bip_39_word_new_br_5: lounge<br>crawl<br>divorce<br>pass<br>grid
-bip_39_word_new_br_6: lounge<br>crawl<br>divorce<br>pass<br>grid<br>general
-bip_39_word_new_br_7: lounge<br>crawl<br>divorce<br>pass<br>grid<br>general<br>clap
-bip_39_word_new_br_8: lounge<br>crawl<br>divorce<br>pass<br>grid<br>general<br>clap<br>surround
-bip_39_word_new_br_9: lounge<br>crawl<br>divorce<br>pass<br>grid<br>general<br>clap<br>surround<br>desert
-bip_39_word_new_line_1: lounge
-bip_39_word_new_line_10: 'lounge
-
-  crawl
-
-  divorce
-
-  pass
-
-  grid
-
-  general
-
-  clap
-
-  surround
-
-  desert
-
-  myth'
-bip_39_word_new_line_11: 'lounge
-
-  crawl
-
-  divorce
-
-  pass
-
-  grid
-
-  general
-
-  clap
-
-  surround
-
-  desert
-
-  myth
-
-  flame'
 bip_39_word_new_line_12: 'lounge
 
   crawl
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'lounge
   crawl
 
   divorce'
-bip_39_word_new_line_4: 'lounge
-
-  crawl
-
-  divorce
-
-  pass'
-bip_39_word_new_line_5: 'lounge
-
-  crawl
-
-  divorce
-
-  pass
-
-  grid'
-bip_39_word_new_line_6: 'lounge
-
-  crawl
-
-  divorce
-
-  pass
-
-  grid
-
-  general'
-bip_39_word_new_line_7: 'lounge
-
-  crawl
-
-  divorce
-
-  pass
-
-  grid
-
-  general
-
-  clap'
-bip_39_word_new_line_8: 'lounge
-
-  crawl
-
-  divorce
-
-  pass
-
-  grid
-
-  general
-
-  clap
-
-  surround'
-bip_39_word_new_line_9: 'lounge
-
-  crawl
-
-  divorce
-
-  pass
-
-  grid
-
-  general
-
-  clap
-
-  surround
-
-  desert'
-bip_39_word_no_space_1: lounge
-bip_39_word_no_space_10: loungecrawldivorcepassgridgeneralclapsurrounddesertmyth
-bip_39_word_no_space_11: loungecrawldivorcepassgridgeneralclapsurrounddesertmythflame
 bip_39_word_no_space_12: loungecrawldivorcepassgridgeneralclapsurrounddesertmythflameacoustic
 bip_39_word_no_space_2: loungecrawl
 bip_39_word_no_space_3: loungecrawldivorce
-bip_39_word_no_space_4: loungecrawldivorcepass
-bip_39_word_no_space_5: loungecrawldivorcepassgrid
-bip_39_word_no_space_6: loungecrawldivorcepassgridgeneral
-bip_39_word_no_space_7: loungecrawldivorcepassgridgeneralclap
-bip_39_word_no_space_8: loungecrawldivorcepassgridgeneralclapsurround
-bip_39_word_no_space_9: loungecrawldivorcepassgridgeneralclapsurrounddesert
-bip_39_word_space_0:
-- lounge
-- crawl
-- divorce
-- pass
-- grid
-- general
-- clap
-- surround
-- desert
-- myth
-- flame
-- acoustic
-bip_39_word_space_1: lounge
-bip_39_word_space_10: lounge crawl divorce pass grid general clap surround desert
-  myth
-bip_39_word_space_11: lounge crawl divorce pass grid general clap surround desert
-  myth flame
 bip_39_word_space_12: lounge crawl divorce pass grid general clap surround desert
   myth flame acoustic
 bip_39_word_space_2: lounge crawl
 bip_39_word_space_3: lounge crawl divorce
-bip_39_word_space_4: lounge crawl divorce pass
-bip_39_word_space_5: lounge crawl divorce pass grid
-bip_39_word_space_6: lounge crawl divorce pass grid general
-bip_39_word_space_7: lounge crawl divorce pass grid general clap
-bip_39_word_space_8: lounge crawl divorce pass grid general clap surround
-bip_39_word_space_9: lounge crawl divorce pass grid general clap surround desert
-bip_39_word_underscore_1: lounge
-bip_39_word_underscore_10: lounge_crawl_divorce_pass_grid_general_clap_surround_desert_myth
-bip_39_word_underscore_11: lounge_crawl_divorce_pass_grid_general_clap_surround_desert_myth_flame
 bip_39_word_underscore_12: lounge_crawl_divorce_pass_grid_general_clap_surround_desert_myth_flame_acoustic
 bip_39_word_underscore_2: lounge_crawl
 bip_39_word_underscore_3: lounge_crawl_divorce
-bip_39_word_underscore_4: lounge_crawl_divorce_pass
-bip_39_word_underscore_5: lounge_crawl_divorce_pass_grid
-bip_39_word_underscore_6: lounge_crawl_divorce_pass_grid_general
-bip_39_word_underscore_7: lounge_crawl_divorce_pass_grid_general_clap
-bip_39_word_underscore_8: lounge_crawl_divorce_pass_grid_general_clap_surround
-bip_39_word_underscore_9: lounge_crawl_divorce_pass_grid_general_clap_surround_desert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

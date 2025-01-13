@@ -1,68 +1,9 @@
-bip_39_word_dash_1: leg
-bip_39_word_dash_10: leg-master-enforce-stove-ceiling-paper-night-target-fine-fee
-bip_39_word_dash_11: leg-master-enforce-stove-ceiling-paper-night-target-fine-fee-receive
 bip_39_word_dash_12: leg-master-enforce-stove-ceiling-paper-night-target-fine-fee-receive-animal
 bip_39_word_dash_2: leg-master
 bip_39_word_dash_3: leg-master-enforce
-bip_39_word_dash_4: leg-master-enforce-stove
-bip_39_word_dash_5: leg-master-enforce-stove-ceiling
-bip_39_word_dash_6: leg-master-enforce-stove-ceiling-paper
-bip_39_word_dash_7: leg-master-enforce-stove-ceiling-paper-night
-bip_39_word_dash_8: leg-master-enforce-stove-ceiling-paper-night-target
-bip_39_word_dash_9: leg-master-enforce-stove-ceiling-paper-night-target-fine
-bip_39_word_new_br_1: leg
-bip_39_word_new_br_10: leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine<br>fee
-bip_39_word_new_br_11: leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine<br>fee<br>receive
 bip_39_word_new_br_12: leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine<br>fee<br>receive<br>animal
 bip_39_word_new_br_2: leg<br>master
 bip_39_word_new_br_3: leg<br>master<br>enforce
-bip_39_word_new_br_4: leg<br>master<br>enforce<br>stove
-bip_39_word_new_br_5: leg<br>master<br>enforce<br>stove<br>ceiling
-bip_39_word_new_br_6: leg<br>master<br>enforce<br>stove<br>ceiling<br>paper
-bip_39_word_new_br_7: leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night
-bip_39_word_new_br_8: leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target
-bip_39_word_new_br_9: leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine
-bip_39_word_new_line_1: leg
-bip_39_word_new_line_10: 'leg
-
-  master
-
-  enforce
-
-  stove
-
-  ceiling
-
-  paper
-
-  night
-
-  target
-
-  fine
-
-  fee'
-bip_39_word_new_line_11: 'leg
-
-  master
-
-  enforce
-
-  stove
-
-  ceiling
-
-  paper
-
-  night
-
-  target
-
-  fine
-
-  fee
-
-  receive'
 bip_39_word_new_line_12: 'leg
 
   master
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'leg
   master
 
   enforce'
-bip_39_word_new_line_4: 'leg
-
-  master
-
-  enforce
-
-  stove'
-bip_39_word_new_line_5: 'leg
-
-  master
-
-  enforce
-
-  stove
-
-  ceiling'
-bip_39_word_new_line_6: 'leg
-
-  master
-
-  enforce
-
-  stove
-
-  ceiling
-
-  paper'
-bip_39_word_new_line_7: 'leg
-
-  master
-
-  enforce
-
-  stove
-
-  ceiling
-
-  paper
-
-  night'
-bip_39_word_new_line_8: 'leg
-
-  master
-
-  enforce
-
-  stove
-
-  ceiling
-
-  paper
-
-  night
-
-  target'
-bip_39_word_new_line_9: 'leg
-
-  master
-
-  enforce
-
-  stove
-
-  ceiling
-
-  paper
-
-  night
-
-  target
-
-  fine'
-bip_39_word_no_space_1: leg
-bip_39_word_no_space_10: legmasterenforcestoveceilingpapernighttargetfinefee
-bip_39_word_no_space_11: legmasterenforcestoveceilingpapernighttargetfinefeereceive
 bip_39_word_no_space_12: legmasterenforcestoveceilingpapernighttargetfinefeereceiveanimal
 bip_39_word_no_space_2: legmaster
 bip_39_word_no_space_3: legmasterenforce
-bip_39_word_no_space_4: legmasterenforcestove
-bip_39_word_no_space_5: legmasterenforcestoveceiling
-bip_39_word_no_space_6: legmasterenforcestoveceilingpaper
-bip_39_word_no_space_7: legmasterenforcestoveceilingpapernight
-bip_39_word_no_space_8: legmasterenforcestoveceilingpapernighttarget
-bip_39_word_no_space_9: legmasterenforcestoveceilingpapernighttargetfine
-bip_39_word_space_0:
-- leg
-- master
-- enforce
-- stove
-- ceiling
-- paper
-- night
-- target
-- fine
-- fee
-- receive
-- animal
-bip_39_word_space_1: leg
-bip_39_word_space_10: leg master enforce stove ceiling paper night target fine fee
-bip_39_word_space_11: leg master enforce stove ceiling paper night target fine fee
-  receive
 bip_39_word_space_12: leg master enforce stove ceiling paper night target fine fee
   receive animal
 bip_39_word_space_2: leg master
 bip_39_word_space_3: leg master enforce
-bip_39_word_space_4: leg master enforce stove
-bip_39_word_space_5: leg master enforce stove ceiling
-bip_39_word_space_6: leg master enforce stove ceiling paper
-bip_39_word_space_7: leg master enforce stove ceiling paper night
-bip_39_word_space_8: leg master enforce stove ceiling paper night target
-bip_39_word_space_9: leg master enforce stove ceiling paper night target fine
-bip_39_word_underscore_1: leg
-bip_39_word_underscore_10: leg_master_enforce_stove_ceiling_paper_night_target_fine_fee
-bip_39_word_underscore_11: leg_master_enforce_stove_ceiling_paper_night_target_fine_fee_receive
 bip_39_word_underscore_12: leg_master_enforce_stove_ceiling_paper_night_target_fine_fee_receive_animal
 bip_39_word_underscore_2: leg_master
 bip_39_word_underscore_3: leg_master_enforce
-bip_39_word_underscore_4: leg_master_enforce_stove
-bip_39_word_underscore_5: leg_master_enforce_stove_ceiling
-bip_39_word_underscore_6: leg_master_enforce_stove_ceiling_paper
-bip_39_word_underscore_7: leg_master_enforce_stove_ceiling_paper_night
-bip_39_word_underscore_8: leg_master_enforce_stove_ceiling_paper_night_target
-bip_39_word_underscore_9: leg_master_enforce_stove_ceiling_paper_night_target_fine
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

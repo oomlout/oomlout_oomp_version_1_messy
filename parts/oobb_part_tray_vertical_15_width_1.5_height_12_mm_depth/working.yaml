@@ -1,68 +1,9 @@
-bip_39_word_dash_1: prefer
-bip_39_word_dash_10: prefer-diary-nephew-heavy-grain-hand-mule-furnace-battle-cheese
-bip_39_word_dash_11: prefer-diary-nephew-heavy-grain-hand-mule-furnace-battle-cheese-leg
 bip_39_word_dash_12: prefer-diary-nephew-heavy-grain-hand-mule-furnace-battle-cheese-leg-admit
 bip_39_word_dash_2: prefer-diary
 bip_39_word_dash_3: prefer-diary-nephew
-bip_39_word_dash_4: prefer-diary-nephew-heavy
-bip_39_word_dash_5: prefer-diary-nephew-heavy-grain
-bip_39_word_dash_6: prefer-diary-nephew-heavy-grain-hand
-bip_39_word_dash_7: prefer-diary-nephew-heavy-grain-hand-mule
-bip_39_word_dash_8: prefer-diary-nephew-heavy-grain-hand-mule-furnace
-bip_39_word_dash_9: prefer-diary-nephew-heavy-grain-hand-mule-furnace-battle
-bip_39_word_new_br_1: prefer
-bip_39_word_new_br_10: prefer<br>diary<br>nephew<br>heavy<br>grain<br>hand<br>mule<br>furnace<br>battle<br>cheese
-bip_39_word_new_br_11: prefer<br>diary<br>nephew<br>heavy<br>grain<br>hand<br>mule<br>furnace<br>battle<br>cheese<br>leg
 bip_39_word_new_br_12: prefer<br>diary<br>nephew<br>heavy<br>grain<br>hand<br>mule<br>furnace<br>battle<br>cheese<br>leg<br>admit
 bip_39_word_new_br_2: prefer<br>diary
 bip_39_word_new_br_3: prefer<br>diary<br>nephew
-bip_39_word_new_br_4: prefer<br>diary<br>nephew<br>heavy
-bip_39_word_new_br_5: prefer<br>diary<br>nephew<br>heavy<br>grain
-bip_39_word_new_br_6: prefer<br>diary<br>nephew<br>heavy<br>grain<br>hand
-bip_39_word_new_br_7: prefer<br>diary<br>nephew<br>heavy<br>grain<br>hand<br>mule
-bip_39_word_new_br_8: prefer<br>diary<br>nephew<br>heavy<br>grain<br>hand<br>mule<br>furnace
-bip_39_word_new_br_9: prefer<br>diary<br>nephew<br>heavy<br>grain<br>hand<br>mule<br>furnace<br>battle
-bip_39_word_new_line_1: prefer
-bip_39_word_new_line_10: 'prefer
-
-  diary
-
-  nephew
-
-  heavy
-
-  grain
-
-  hand
-
-  mule
-
-  furnace
-
-  battle
-
-  cheese'
-bip_39_word_new_line_11: 'prefer
-
-  diary
-
-  nephew
-
-  heavy
-
-  grain
-
-  hand
-
-  mule
-
-  furnace
-
-  battle
-
-  cheese
-
-  leg'
 bip_39_word_new_line_12: 'prefer
 
   diary
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'prefer
   diary
 
   nephew'
-bip_39_word_new_line_4: 'prefer
-
-  diary
-
-  nephew
-
-  heavy'
-bip_39_word_new_line_5: 'prefer
-
-  diary
-
-  nephew
-
-  heavy
-
-  grain'
-bip_39_word_new_line_6: 'prefer
-
-  diary
-
-  nephew
-
-  heavy
-
-  grain
-
-  hand'
-bip_39_word_new_line_7: 'prefer
-
-  diary
-
-  nephew
-
-  heavy
-
-  grain
-
-  hand
-
-  mule'
-bip_39_word_new_line_8: 'prefer
-
-  diary
-
-  nephew
-
-  heavy
-
-  grain
-
-  hand
-
-  mule
-
-  furnace'
-bip_39_word_new_line_9: 'prefer
-
-  diary
-
-  nephew
-
-  heavy
-
-  grain
-
-  hand
-
-  mule
-
-  furnace
-
-  battle'
-bip_39_word_no_space_1: prefer
-bip_39_word_no_space_10: preferdiarynephewheavygrainhandmulefurnacebattlecheese
-bip_39_word_no_space_11: preferdiarynephewheavygrainhandmulefurnacebattlecheeseleg
 bip_39_word_no_space_12: preferdiarynephewheavygrainhandmulefurnacebattlecheeselegadmit
 bip_39_word_no_space_2: preferdiary
 bip_39_word_no_space_3: preferdiarynephew
-bip_39_word_no_space_4: preferdiarynephewheavy
-bip_39_word_no_space_5: preferdiarynephewheavygrain
-bip_39_word_no_space_6: preferdiarynephewheavygrainhand
-bip_39_word_no_space_7: preferdiarynephewheavygrainhandmule
-bip_39_word_no_space_8: preferdiarynephewheavygrainhandmulefurnace
-bip_39_word_no_space_9: preferdiarynephewheavygrainhandmulefurnacebattle
-bip_39_word_space_0:
-- prefer
-- diary
-- nephew
-- heavy
-- grain
-- hand
-- mule
-- furnace
-- battle
-- cheese
-- leg
-- admit
-bip_39_word_space_1: prefer
-bip_39_word_space_10: prefer diary nephew heavy grain hand mule furnace battle cheese
-bip_39_word_space_11: prefer diary nephew heavy grain hand mule furnace battle cheese
-  leg
 bip_39_word_space_12: prefer diary nephew heavy grain hand mule furnace battle cheese
   leg admit
 bip_39_word_space_2: prefer diary
 bip_39_word_space_3: prefer diary nephew
-bip_39_word_space_4: prefer diary nephew heavy
-bip_39_word_space_5: prefer diary nephew heavy grain
-bip_39_word_space_6: prefer diary nephew heavy grain hand
-bip_39_word_space_7: prefer diary nephew heavy grain hand mule
-bip_39_word_space_8: prefer diary nephew heavy grain hand mule furnace
-bip_39_word_space_9: prefer diary nephew heavy grain hand mule furnace battle
-bip_39_word_underscore_1: prefer
-bip_39_word_underscore_10: prefer_diary_nephew_heavy_grain_hand_mule_furnace_battle_cheese
-bip_39_word_underscore_11: prefer_diary_nephew_heavy_grain_hand_mule_furnace_battle_cheese_leg
 bip_39_word_underscore_12: prefer_diary_nephew_heavy_grain_hand_mule_furnace_battle_cheese_leg_admit
 bip_39_word_underscore_2: prefer_diary
 bip_39_word_underscore_3: prefer_diary_nephew
-bip_39_word_underscore_4: prefer_diary_nephew_heavy
-bip_39_word_underscore_5: prefer_diary_nephew_heavy_grain
-bip_39_word_underscore_6: prefer_diary_nephew_heavy_grain_hand
-bip_39_word_underscore_7: prefer_diary_nephew_heavy_grain_hand_mule
-bip_39_word_underscore_8: prefer_diary_nephew_heavy_grain_hand_mule_furnace
-bip_39_word_underscore_9: prefer_diary_nephew_heavy_grain_hand_mule_furnace_battle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: attract
-bip_39_word_dash_10: attract-delay-ginger-whip-taste-edge-great-dinosaur-defy-bunker
-bip_39_word_dash_11: attract-delay-ginger-whip-taste-edge-great-dinosaur-defy-bunker-siege
 bip_39_word_dash_12: attract-delay-ginger-whip-taste-edge-great-dinosaur-defy-bunker-siege-arctic
 bip_39_word_dash_2: attract-delay
 bip_39_word_dash_3: attract-delay-ginger
-bip_39_word_dash_4: attract-delay-ginger-whip
-bip_39_word_dash_5: attract-delay-ginger-whip-taste
-bip_39_word_dash_6: attract-delay-ginger-whip-taste-edge
-bip_39_word_dash_7: attract-delay-ginger-whip-taste-edge-great
-bip_39_word_dash_8: attract-delay-ginger-whip-taste-edge-great-dinosaur
-bip_39_word_dash_9: attract-delay-ginger-whip-taste-edge-great-dinosaur-defy
-bip_39_word_new_br_1: attract
-bip_39_word_new_br_10: attract<br>delay<br>ginger<br>whip<br>taste<br>edge<br>great<br>dinosaur<br>defy<br>bunker
-bip_39_word_new_br_11: attract<br>delay<br>ginger<br>whip<br>taste<br>edge<br>great<br>dinosaur<br>defy<br>bunker<br>siege
 bip_39_word_new_br_12: attract<br>delay<br>ginger<br>whip<br>taste<br>edge<br>great<br>dinosaur<br>defy<br>bunker<br>siege<br>arctic
 bip_39_word_new_br_2: attract<br>delay
 bip_39_word_new_br_3: attract<br>delay<br>ginger
-bip_39_word_new_br_4: attract<br>delay<br>ginger<br>whip
-bip_39_word_new_br_5: attract<br>delay<br>ginger<br>whip<br>taste
-bip_39_word_new_br_6: attract<br>delay<br>ginger<br>whip<br>taste<br>edge
-bip_39_word_new_br_7: attract<br>delay<br>ginger<br>whip<br>taste<br>edge<br>great
-bip_39_word_new_br_8: attract<br>delay<br>ginger<br>whip<br>taste<br>edge<br>great<br>dinosaur
-bip_39_word_new_br_9: attract<br>delay<br>ginger<br>whip<br>taste<br>edge<br>great<br>dinosaur<br>defy
-bip_39_word_new_line_1: attract
-bip_39_word_new_line_10: 'attract
-
-  delay
-
-  ginger
-
-  whip
-
-  taste
-
-  edge
-
-  great
-
-  dinosaur
-
-  defy
-
-  bunker'
-bip_39_word_new_line_11: 'attract
-
-  delay
-
-  ginger
-
-  whip
-
-  taste
-
-  edge
-
-  great
-
-  dinosaur
-
-  defy
-
-  bunker
-
-  siege'
 bip_39_word_new_line_12: 'attract
 
   delay
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'attract
   delay
 
   ginger'
-bip_39_word_new_line_4: 'attract
-
-  delay
-
-  ginger
-
-  whip'
-bip_39_word_new_line_5: 'attract
-
-  delay
-
-  ginger
-
-  whip
-
-  taste'
-bip_39_word_new_line_6: 'attract
-
-  delay
-
-  ginger
-
-  whip
-
-  taste
-
-  edge'
-bip_39_word_new_line_7: 'attract
-
-  delay
-
-  ginger
-
-  whip
-
-  taste
-
-  edge
-
-  great'
-bip_39_word_new_line_8: 'attract
-
-  delay
-
-  ginger
-
-  whip
-
-  taste
-
-  edge
-
-  great
-
-  dinosaur'
-bip_39_word_new_line_9: 'attract
-
-  delay
-
-  ginger
-
-  whip
-
-  taste
-
-  edge
-
-  great
-
-  dinosaur
-
-  defy'
-bip_39_word_no_space_1: attract
-bip_39_word_no_space_10: attractdelaygingerwhiptasteedgegreatdinosaurdefybunker
-bip_39_word_no_space_11: attractdelaygingerwhiptasteedgegreatdinosaurdefybunkersiege
 bip_39_word_no_space_12: attractdelaygingerwhiptasteedgegreatdinosaurdefybunkersiegearctic
 bip_39_word_no_space_2: attractdelay
 bip_39_word_no_space_3: attractdelayginger
-bip_39_word_no_space_4: attractdelaygingerwhip
-bip_39_word_no_space_5: attractdelaygingerwhiptaste
-bip_39_word_no_space_6: attractdelaygingerwhiptasteedge
-bip_39_word_no_space_7: attractdelaygingerwhiptasteedgegreat
-bip_39_word_no_space_8: attractdelaygingerwhiptasteedgegreatdinosaur
-bip_39_word_no_space_9: attractdelaygingerwhiptasteedgegreatdinosaurdefy
-bip_39_word_space_0:
-- attract
-- delay
-- ginger
-- whip
-- taste
-- edge
-- great
-- dinosaur
-- defy
-- bunker
-- siege
-- arctic
-bip_39_word_space_1: attract
-bip_39_word_space_10: attract delay ginger whip taste edge great dinosaur defy bunker
-bip_39_word_space_11: attract delay ginger whip taste edge great dinosaur defy bunker
-  siege
 bip_39_word_space_12: attract delay ginger whip taste edge great dinosaur defy bunker
   siege arctic
 bip_39_word_space_2: attract delay
 bip_39_word_space_3: attract delay ginger
-bip_39_word_space_4: attract delay ginger whip
-bip_39_word_space_5: attract delay ginger whip taste
-bip_39_word_space_6: attract delay ginger whip taste edge
-bip_39_word_space_7: attract delay ginger whip taste edge great
-bip_39_word_space_8: attract delay ginger whip taste edge great dinosaur
-bip_39_word_space_9: attract delay ginger whip taste edge great dinosaur defy
-bip_39_word_underscore_1: attract
-bip_39_word_underscore_10: attract_delay_ginger_whip_taste_edge_great_dinosaur_defy_bunker
-bip_39_word_underscore_11: attract_delay_ginger_whip_taste_edge_great_dinosaur_defy_bunker_siege
 bip_39_word_underscore_12: attract_delay_ginger_whip_taste_edge_great_dinosaur_defy_bunker_siege_arctic
 bip_39_word_underscore_2: attract_delay
 bip_39_word_underscore_3: attract_delay_ginger
-bip_39_word_underscore_4: attract_delay_ginger_whip
-bip_39_word_underscore_5: attract_delay_ginger_whip_taste
-bip_39_word_underscore_6: attract_delay_ginger_whip_taste_edge
-bip_39_word_underscore_7: attract_delay_ginger_whip_taste_edge_great
-bip_39_word_underscore_8: attract_delay_ginger_whip_taste_edge_great_dinosaur
-bip_39_word_underscore_9: attract_delay_ginger_whip_taste_edge_great_dinosaur_defy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

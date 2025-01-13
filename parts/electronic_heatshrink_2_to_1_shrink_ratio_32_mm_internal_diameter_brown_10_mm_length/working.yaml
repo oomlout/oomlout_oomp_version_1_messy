@@ -1,68 +1,9 @@
-bip_39_word_dash_1: test
-bip_39_word_dash_10: test-now-van-copper-acid-rally-vapor-almost-kiss-brown
-bip_39_word_dash_11: test-now-van-copper-acid-rally-vapor-almost-kiss-brown-theory
 bip_39_word_dash_12: test-now-van-copper-acid-rally-vapor-almost-kiss-brown-theory-antique
 bip_39_word_dash_2: test-now
 bip_39_word_dash_3: test-now-van
-bip_39_word_dash_4: test-now-van-copper
-bip_39_word_dash_5: test-now-van-copper-acid
-bip_39_word_dash_6: test-now-van-copper-acid-rally
-bip_39_word_dash_7: test-now-van-copper-acid-rally-vapor
-bip_39_word_dash_8: test-now-van-copper-acid-rally-vapor-almost
-bip_39_word_dash_9: test-now-van-copper-acid-rally-vapor-almost-kiss
-bip_39_word_new_br_1: test
-bip_39_word_new_br_10: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss<br>brown
-bip_39_word_new_br_11: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss<br>brown<br>theory
 bip_39_word_new_br_12: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss<br>brown<br>theory<br>antique
 bip_39_word_new_br_2: test<br>now
 bip_39_word_new_br_3: test<br>now<br>van
-bip_39_word_new_br_4: test<br>now<br>van<br>copper
-bip_39_word_new_br_5: test<br>now<br>van<br>copper<br>acid
-bip_39_word_new_br_6: test<br>now<br>van<br>copper<br>acid<br>rally
-bip_39_word_new_br_7: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor
-bip_39_word_new_br_8: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost
-bip_39_word_new_br_9: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss
-bip_39_word_new_line_1: test
-bip_39_word_new_line_10: 'test
-
-  now
-
-  van
-
-  copper
-
-  acid
-
-  rally
-
-  vapor
-
-  almost
-
-  kiss
-
-  brown'
-bip_39_word_new_line_11: 'test
-
-  now
-
-  van
-
-  copper
-
-  acid
-
-  rally
-
-  vapor
-
-  almost
-
-  kiss
-
-  brown
-
-  theory'
 bip_39_word_new_line_12: 'test
 
   now
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'test
   now
 
   van'
-bip_39_word_new_line_4: 'test
-
-  now
-
-  van
-
-  copper'
-bip_39_word_new_line_5: 'test
-
-  now
-
-  van
-
-  copper
-
-  acid'
-bip_39_word_new_line_6: 'test
-
-  now
-
-  van
-
-  copper
-
-  acid
-
-  rally'
-bip_39_word_new_line_7: 'test
-
-  now
-
-  van
-
-  copper
-
-  acid
-
-  rally
-
-  vapor'
-bip_39_word_new_line_8: 'test
-
-  now
-
-  van
-
-  copper
-
-  acid
-
-  rally
-
-  vapor
-
-  almost'
-bip_39_word_new_line_9: 'test
-
-  now
-
-  van
-
-  copper
-
-  acid
-
-  rally
-
-  vapor
-
-  almost
-
-  kiss'
-bip_39_word_no_space_1: test
-bip_39_word_no_space_10: testnowvancopperacidrallyvaporalmostkissbrown
-bip_39_word_no_space_11: testnowvancopperacidrallyvaporalmostkissbrowntheory
 bip_39_word_no_space_12: testnowvancopperacidrallyvaporalmostkissbrowntheoryantique
 bip_39_word_no_space_2: testnow
 bip_39_word_no_space_3: testnowvan
-bip_39_word_no_space_4: testnowvancopper
-bip_39_word_no_space_5: testnowvancopperacid
-bip_39_word_no_space_6: testnowvancopperacidrally
-bip_39_word_no_space_7: testnowvancopperacidrallyvapor
-bip_39_word_no_space_8: testnowvancopperacidrallyvaporalmost
-bip_39_word_no_space_9: testnowvancopperacidrallyvaporalmostkiss
-bip_39_word_space_0:
-- test
-- now
-- van
-- copper
-- acid
-- rally
-- vapor
-- almost
-- kiss
-- brown
-- theory
-- antique
-bip_39_word_space_1: test
-bip_39_word_space_10: test now van copper acid rally vapor almost kiss brown
-bip_39_word_space_11: test now van copper acid rally vapor almost kiss brown theory
 bip_39_word_space_12: test now van copper acid rally vapor almost kiss brown theory
   antique
 bip_39_word_space_2: test now
 bip_39_word_space_3: test now van
-bip_39_word_space_4: test now van copper
-bip_39_word_space_5: test now van copper acid
-bip_39_word_space_6: test now van copper acid rally
-bip_39_word_space_7: test now van copper acid rally vapor
-bip_39_word_space_8: test now van copper acid rally vapor almost
-bip_39_word_space_9: test now van copper acid rally vapor almost kiss
-bip_39_word_underscore_1: test
-bip_39_word_underscore_10: test_now_van_copper_acid_rally_vapor_almost_kiss_brown
-bip_39_word_underscore_11: test_now_van_copper_acid_rally_vapor_almost_kiss_brown_theory
 bip_39_word_underscore_12: test_now_van_copper_acid_rally_vapor_almost_kiss_brown_theory_antique
 bip_39_word_underscore_2: test_now
 bip_39_word_underscore_3: test_now_van
-bip_39_word_underscore_4: test_now_van_copper
-bip_39_word_underscore_5: test_now_van_copper_acid
-bip_39_word_underscore_6: test_now_van_copper_acid_rally
-bip_39_word_underscore_7: test_now_van_copper_acid_rally_vapor
-bip_39_word_underscore_8: test_now_van_copper_acid_rally_vapor_almost
-bip_39_word_underscore_9: test_now_van_copper_acid_rally_vapor_almost_kiss
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

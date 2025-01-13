@@ -1,68 +1,9 @@
-bip_39_word_dash_1: talk
-bip_39_word_dash_10: talk-shell-recycle-pilot-basic-fetch-error-next-frown-arrow
-bip_39_word_dash_11: talk-shell-recycle-pilot-basic-fetch-error-next-frown-arrow-denial
 bip_39_word_dash_12: talk-shell-recycle-pilot-basic-fetch-error-next-frown-arrow-denial-abuse
 bip_39_word_dash_2: talk-shell
 bip_39_word_dash_3: talk-shell-recycle
-bip_39_word_dash_4: talk-shell-recycle-pilot
-bip_39_word_dash_5: talk-shell-recycle-pilot-basic
-bip_39_word_dash_6: talk-shell-recycle-pilot-basic-fetch
-bip_39_word_dash_7: talk-shell-recycle-pilot-basic-fetch-error
-bip_39_word_dash_8: talk-shell-recycle-pilot-basic-fetch-error-next
-bip_39_word_dash_9: talk-shell-recycle-pilot-basic-fetch-error-next-frown
-bip_39_word_new_br_1: talk
-bip_39_word_new_br_10: talk<br>shell<br>recycle<br>pilot<br>basic<br>fetch<br>error<br>next<br>frown<br>arrow
-bip_39_word_new_br_11: talk<br>shell<br>recycle<br>pilot<br>basic<br>fetch<br>error<br>next<br>frown<br>arrow<br>denial
 bip_39_word_new_br_12: talk<br>shell<br>recycle<br>pilot<br>basic<br>fetch<br>error<br>next<br>frown<br>arrow<br>denial<br>abuse
 bip_39_word_new_br_2: talk<br>shell
 bip_39_word_new_br_3: talk<br>shell<br>recycle
-bip_39_word_new_br_4: talk<br>shell<br>recycle<br>pilot
-bip_39_word_new_br_5: talk<br>shell<br>recycle<br>pilot<br>basic
-bip_39_word_new_br_6: talk<br>shell<br>recycle<br>pilot<br>basic<br>fetch
-bip_39_word_new_br_7: talk<br>shell<br>recycle<br>pilot<br>basic<br>fetch<br>error
-bip_39_word_new_br_8: talk<br>shell<br>recycle<br>pilot<br>basic<br>fetch<br>error<br>next
-bip_39_word_new_br_9: talk<br>shell<br>recycle<br>pilot<br>basic<br>fetch<br>error<br>next<br>frown
-bip_39_word_new_line_1: talk
-bip_39_word_new_line_10: 'talk
-
-  shell
-
-  recycle
-
-  pilot
-
-  basic
-
-  fetch
-
-  error
-
-  next
-
-  frown
-
-  arrow'
-bip_39_word_new_line_11: 'talk
-
-  shell
-
-  recycle
-
-  pilot
-
-  basic
-
-  fetch
-
-  error
-
-  next
-
-  frown
-
-  arrow
-
-  denial'
 bip_39_word_new_line_12: 'talk
 
   shell
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'talk
   shell
 
   recycle'
-bip_39_word_new_line_4: 'talk
-
-  shell
-
-  recycle
-
-  pilot'
-bip_39_word_new_line_5: 'talk
-
-  shell
-
-  recycle
-
-  pilot
-
-  basic'
-bip_39_word_new_line_6: 'talk
-
-  shell
-
-  recycle
-
-  pilot
-
-  basic
-
-  fetch'
-bip_39_word_new_line_7: 'talk
-
-  shell
-
-  recycle
-
-  pilot
-
-  basic
-
-  fetch
-
-  error'
-bip_39_word_new_line_8: 'talk
-
-  shell
-
-  recycle
-
-  pilot
-
-  basic
-
-  fetch
-
-  error
-
-  next'
-bip_39_word_new_line_9: 'talk
-
-  shell
-
-  recycle
-
-  pilot
-
-  basic
-
-  fetch
-
-  error
-
-  next
-
-  frown'
-bip_39_word_no_space_1: talk
-bip_39_word_no_space_10: talkshellrecyclepilotbasicfetcherrornextfrownarrow
-bip_39_word_no_space_11: talkshellrecyclepilotbasicfetcherrornextfrownarrowdenial
 bip_39_word_no_space_12: talkshellrecyclepilotbasicfetcherrornextfrownarrowdenialabuse
 bip_39_word_no_space_2: talkshell
 bip_39_word_no_space_3: talkshellrecycle
-bip_39_word_no_space_4: talkshellrecyclepilot
-bip_39_word_no_space_5: talkshellrecyclepilotbasic
-bip_39_word_no_space_6: talkshellrecyclepilotbasicfetch
-bip_39_word_no_space_7: talkshellrecyclepilotbasicfetcherror
-bip_39_word_no_space_8: talkshellrecyclepilotbasicfetcherrornext
-bip_39_word_no_space_9: talkshellrecyclepilotbasicfetcherrornextfrown
-bip_39_word_space_0:
-- talk
-- shell
-- recycle
-- pilot
-- basic
-- fetch
-- error
-- next
-- frown
-- arrow
-- denial
-- abuse
-bip_39_word_space_1: talk
-bip_39_word_space_10: talk shell recycle pilot basic fetch error next frown arrow
-bip_39_word_space_11: talk shell recycle pilot basic fetch error next frown arrow
-  denial
 bip_39_word_space_12: talk shell recycle pilot basic fetch error next frown arrow
   denial abuse
 bip_39_word_space_2: talk shell
 bip_39_word_space_3: talk shell recycle
-bip_39_word_space_4: talk shell recycle pilot
-bip_39_word_space_5: talk shell recycle pilot basic
-bip_39_word_space_6: talk shell recycle pilot basic fetch
-bip_39_word_space_7: talk shell recycle pilot basic fetch error
-bip_39_word_space_8: talk shell recycle pilot basic fetch error next
-bip_39_word_space_9: talk shell recycle pilot basic fetch error next frown
-bip_39_word_underscore_1: talk
-bip_39_word_underscore_10: talk_shell_recycle_pilot_basic_fetch_error_next_frown_arrow
-bip_39_word_underscore_11: talk_shell_recycle_pilot_basic_fetch_error_next_frown_arrow_denial
 bip_39_word_underscore_12: talk_shell_recycle_pilot_basic_fetch_error_next_frown_arrow_denial_abuse
 bip_39_word_underscore_2: talk_shell
 bip_39_word_underscore_3: talk_shell_recycle
-bip_39_word_underscore_4: talk_shell_recycle_pilot
-bip_39_word_underscore_5: talk_shell_recycle_pilot_basic
-bip_39_word_underscore_6: talk_shell_recycle_pilot_basic_fetch
-bip_39_word_underscore_7: talk_shell_recycle_pilot_basic_fetch_error
-bip_39_word_underscore_8: talk_shell_recycle_pilot_basic_fetch_error_next
-bip_39_word_underscore_9: talk_shell_recycle_pilot_basic_fetch_error_next_frown
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

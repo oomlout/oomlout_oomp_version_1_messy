@@ -1,68 +1,9 @@
-bip_39_word_dash_1: horn
-bip_39_word_dash_10: horn-sentence-twist-nuclear-flash-element-once-seek-slam-act
-bip_39_word_dash_11: horn-sentence-twist-nuclear-flash-element-once-seek-slam-act-exist
 bip_39_word_dash_12: horn-sentence-twist-nuclear-flash-element-once-seek-slam-act-exist-already
 bip_39_word_dash_2: horn-sentence
 bip_39_word_dash_3: horn-sentence-twist
-bip_39_word_dash_4: horn-sentence-twist-nuclear
-bip_39_word_dash_5: horn-sentence-twist-nuclear-flash
-bip_39_word_dash_6: horn-sentence-twist-nuclear-flash-element
-bip_39_word_dash_7: horn-sentence-twist-nuclear-flash-element-once
-bip_39_word_dash_8: horn-sentence-twist-nuclear-flash-element-once-seek
-bip_39_word_dash_9: horn-sentence-twist-nuclear-flash-element-once-seek-slam
-bip_39_word_new_br_1: horn
-bip_39_word_new_br_10: horn<br>sentence<br>twist<br>nuclear<br>flash<br>element<br>once<br>seek<br>slam<br>act
-bip_39_word_new_br_11: horn<br>sentence<br>twist<br>nuclear<br>flash<br>element<br>once<br>seek<br>slam<br>act<br>exist
 bip_39_word_new_br_12: horn<br>sentence<br>twist<br>nuclear<br>flash<br>element<br>once<br>seek<br>slam<br>act<br>exist<br>already
 bip_39_word_new_br_2: horn<br>sentence
 bip_39_word_new_br_3: horn<br>sentence<br>twist
-bip_39_word_new_br_4: horn<br>sentence<br>twist<br>nuclear
-bip_39_word_new_br_5: horn<br>sentence<br>twist<br>nuclear<br>flash
-bip_39_word_new_br_6: horn<br>sentence<br>twist<br>nuclear<br>flash<br>element
-bip_39_word_new_br_7: horn<br>sentence<br>twist<br>nuclear<br>flash<br>element<br>once
-bip_39_word_new_br_8: horn<br>sentence<br>twist<br>nuclear<br>flash<br>element<br>once<br>seek
-bip_39_word_new_br_9: horn<br>sentence<br>twist<br>nuclear<br>flash<br>element<br>once<br>seek<br>slam
-bip_39_word_new_line_1: horn
-bip_39_word_new_line_10: 'horn
-
-  sentence
-
-  twist
-
-  nuclear
-
-  flash
-
-  element
-
-  once
-
-  seek
-
-  slam
-
-  act'
-bip_39_word_new_line_11: 'horn
-
-  sentence
-
-  twist
-
-  nuclear
-
-  flash
-
-  element
-
-  once
-
-  seek
-
-  slam
-
-  act
-
-  exist'
 bip_39_word_new_line_12: 'horn
 
   sentence
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'horn
   sentence
 
   twist'
-bip_39_word_new_line_4: 'horn
-
-  sentence
-
-  twist
-
-  nuclear'
-bip_39_word_new_line_5: 'horn
-
-  sentence
-
-  twist
-
-  nuclear
-
-  flash'
-bip_39_word_new_line_6: 'horn
-
-  sentence
-
-  twist
-
-  nuclear
-
-  flash
-
-  element'
-bip_39_word_new_line_7: 'horn
-
-  sentence
-
-  twist
-
-  nuclear
-
-  flash
-
-  element
-
-  once'
-bip_39_word_new_line_8: 'horn
-
-  sentence
-
-  twist
-
-  nuclear
-
-  flash
-
-  element
-
-  once
-
-  seek'
-bip_39_word_new_line_9: 'horn
-
-  sentence
-
-  twist
-
-  nuclear
-
-  flash
-
-  element
-
-  once
-
-  seek
-
-  slam'
-bip_39_word_no_space_1: horn
-bip_39_word_no_space_10: hornsentencetwistnuclearflashelementonceseekslamact
-bip_39_word_no_space_11: hornsentencetwistnuclearflashelementonceseekslamactexist
 bip_39_word_no_space_12: hornsentencetwistnuclearflashelementonceseekslamactexistalready
 bip_39_word_no_space_2: hornsentence
 bip_39_word_no_space_3: hornsentencetwist
-bip_39_word_no_space_4: hornsentencetwistnuclear
-bip_39_word_no_space_5: hornsentencetwistnuclearflash
-bip_39_word_no_space_6: hornsentencetwistnuclearflashelement
-bip_39_word_no_space_7: hornsentencetwistnuclearflashelementonce
-bip_39_word_no_space_8: hornsentencetwistnuclearflashelementonceseek
-bip_39_word_no_space_9: hornsentencetwistnuclearflashelementonceseekslam
-bip_39_word_space_0:
-- horn
-- sentence
-- twist
-- nuclear
-- flash
-- element
-- once
-- seek
-- slam
-- act
-- exist
-- already
-bip_39_word_space_1: horn
-bip_39_word_space_10: horn sentence twist nuclear flash element once seek slam act
-bip_39_word_space_11: horn sentence twist nuclear flash element once seek slam act
-  exist
 bip_39_word_space_12: horn sentence twist nuclear flash element once seek slam act
   exist already
 bip_39_word_space_2: horn sentence
 bip_39_word_space_3: horn sentence twist
-bip_39_word_space_4: horn sentence twist nuclear
-bip_39_word_space_5: horn sentence twist nuclear flash
-bip_39_word_space_6: horn sentence twist nuclear flash element
-bip_39_word_space_7: horn sentence twist nuclear flash element once
-bip_39_word_space_8: horn sentence twist nuclear flash element once seek
-bip_39_word_space_9: horn sentence twist nuclear flash element once seek slam
-bip_39_word_underscore_1: horn
-bip_39_word_underscore_10: horn_sentence_twist_nuclear_flash_element_once_seek_slam_act
-bip_39_word_underscore_11: horn_sentence_twist_nuclear_flash_element_once_seek_slam_act_exist
 bip_39_word_underscore_12: horn_sentence_twist_nuclear_flash_element_once_seek_slam_act_exist_already
 bip_39_word_underscore_2: horn_sentence
 bip_39_word_underscore_3: horn_sentence_twist
-bip_39_word_underscore_4: horn_sentence_twist_nuclear
-bip_39_word_underscore_5: horn_sentence_twist_nuclear_flash
-bip_39_word_underscore_6: horn_sentence_twist_nuclear_flash_element
-bip_39_word_underscore_7: horn_sentence_twist_nuclear_flash_element_once
-bip_39_word_underscore_8: horn_sentence_twist_nuclear_flash_element_once_seek
-bip_39_word_underscore_9: horn_sentence_twist_nuclear_flash_element_once_seek_slam
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

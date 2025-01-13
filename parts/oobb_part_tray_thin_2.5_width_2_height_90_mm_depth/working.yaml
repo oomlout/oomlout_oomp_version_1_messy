@@ -1,68 +1,9 @@
-bip_39_word_dash_1: saddle
-bip_39_word_dash_10: saddle-capital-mansion-ecology-marine-picture-negative-destroy-segment-dilemma
-bip_39_word_dash_11: saddle-capital-mansion-ecology-marine-picture-negative-destroy-segment-dilemma-double
 bip_39_word_dash_12: saddle-capital-mansion-ecology-marine-picture-negative-destroy-segment-dilemma-double-allow
 bip_39_word_dash_2: saddle-capital
 bip_39_word_dash_3: saddle-capital-mansion
-bip_39_word_dash_4: saddle-capital-mansion-ecology
-bip_39_word_dash_5: saddle-capital-mansion-ecology-marine
-bip_39_word_dash_6: saddle-capital-mansion-ecology-marine-picture
-bip_39_word_dash_7: saddle-capital-mansion-ecology-marine-picture-negative
-bip_39_word_dash_8: saddle-capital-mansion-ecology-marine-picture-negative-destroy
-bip_39_word_dash_9: saddle-capital-mansion-ecology-marine-picture-negative-destroy-segment
-bip_39_word_new_br_1: saddle
-bip_39_word_new_br_10: saddle<br>capital<br>mansion<br>ecology<br>marine<br>picture<br>negative<br>destroy<br>segment<br>dilemma
-bip_39_word_new_br_11: saddle<br>capital<br>mansion<br>ecology<br>marine<br>picture<br>negative<br>destroy<br>segment<br>dilemma<br>double
 bip_39_word_new_br_12: saddle<br>capital<br>mansion<br>ecology<br>marine<br>picture<br>negative<br>destroy<br>segment<br>dilemma<br>double<br>allow
 bip_39_word_new_br_2: saddle<br>capital
 bip_39_word_new_br_3: saddle<br>capital<br>mansion
-bip_39_word_new_br_4: saddle<br>capital<br>mansion<br>ecology
-bip_39_word_new_br_5: saddle<br>capital<br>mansion<br>ecology<br>marine
-bip_39_word_new_br_6: saddle<br>capital<br>mansion<br>ecology<br>marine<br>picture
-bip_39_word_new_br_7: saddle<br>capital<br>mansion<br>ecology<br>marine<br>picture<br>negative
-bip_39_word_new_br_8: saddle<br>capital<br>mansion<br>ecology<br>marine<br>picture<br>negative<br>destroy
-bip_39_word_new_br_9: saddle<br>capital<br>mansion<br>ecology<br>marine<br>picture<br>negative<br>destroy<br>segment
-bip_39_word_new_line_1: saddle
-bip_39_word_new_line_10: 'saddle
-
-  capital
-
-  mansion
-
-  ecology
-
-  marine
-
-  picture
-
-  negative
-
-  destroy
-
-  segment
-
-  dilemma'
-bip_39_word_new_line_11: 'saddle
-
-  capital
-
-  mansion
-
-  ecology
-
-  marine
-
-  picture
-
-  negative
-
-  destroy
-
-  segment
-
-  dilemma
-
-  double'
 bip_39_word_new_line_12: 'saddle
 
   capital
@@ -94,131 +35,16 @@ bip_39_word_new_line_3: 'saddle
   capital
 
   mansion'
-bip_39_word_new_line_4: 'saddle
-
-  capital
-
-  mansion
-
-  ecology'
-bip_39_word_new_line_5: 'saddle
-
-  capital
-
-  mansion
-
-  ecology
-
-  marine'
-bip_39_word_new_line_6: 'saddle
-
-  capital
-
-  mansion
-
-  ecology
-
-  marine
-
-  picture'
-bip_39_word_new_line_7: 'saddle
-
-  capital
-
-  mansion
-
-  ecology
-
-  marine
-
-  picture
-
-  negative'
-bip_39_word_new_line_8: 'saddle
-
-  capital
-
-  mansion
-
-  ecology
-
-  marine
-
-  picture
-
-  negative
-
-  destroy'
-bip_39_word_new_line_9: 'saddle
-
-  capital
-
-  mansion
-
-  ecology
-
-  marine
-
-  picture
-
-  negative
-
-  destroy
-
-  segment'
-bip_39_word_no_space_1: saddle
-bip_39_word_no_space_10: saddlecapitalmansionecologymarinepicturenegativedestroysegmentdilemma
-bip_39_word_no_space_11: saddlecapitalmansionecologymarinepicturenegativedestroysegmentdilemmadouble
 bip_39_word_no_space_12: saddlecapitalmansionecologymarinepicturenegativedestroysegmentdilemmadoubleallow
 bip_39_word_no_space_2: saddlecapital
 bip_39_word_no_space_3: saddlecapitalmansion
-bip_39_word_no_space_4: saddlecapitalmansionecology
-bip_39_word_no_space_5: saddlecapitalmansionecologymarine
-bip_39_word_no_space_6: saddlecapitalmansionecologymarinepicture
-bip_39_word_no_space_7: saddlecapitalmansionecologymarinepicturenegative
-bip_39_word_no_space_8: saddlecapitalmansionecologymarinepicturenegativedestroy
-bip_39_word_no_space_9: saddlecapitalmansionecologymarinepicturenegativedestroysegment
-bip_39_word_space_0:
-- saddle
-- capital
-- mansion
-- ecology
-- marine
-- picture
-- negative
-- destroy
-- segment
-- dilemma
-- double
-- allow
-bip_39_word_space_1: saddle
-bip_39_word_space_10: saddle capital mansion ecology marine picture negative destroy
-  segment dilemma
-bip_39_word_space_11: saddle capital mansion ecology marine picture negative destroy
-  segment dilemma double
 bip_39_word_space_12: saddle capital mansion ecology marine picture negative destroy
   segment dilemma double allow
 bip_39_word_space_2: saddle capital
 bip_39_word_space_3: saddle capital mansion
-bip_39_word_space_4: saddle capital mansion ecology
-bip_39_word_space_5: saddle capital mansion ecology marine
-bip_39_word_space_6: saddle capital mansion ecology marine picture
-bip_39_word_space_7: saddle capital mansion ecology marine picture negative
-bip_39_word_space_8: saddle capital mansion ecology marine picture negative destroy
-bip_39_word_space_9: saddle capital mansion ecology marine picture negative destroy
-  segment
-bip_39_word_underscore_1: saddle
-bip_39_word_underscore_10: saddle_capital_mansion_ecology_marine_picture_negative_destroy_segment_dilemma
-bip_39_word_underscore_11: saddle_capital_mansion_ecology_marine_picture_negative_destroy_segment_dilemma_double
 bip_39_word_underscore_12: saddle_capital_mansion_ecology_marine_picture_negative_destroy_segment_dilemma_double_allow
 bip_39_word_underscore_2: saddle_capital
 bip_39_word_underscore_3: saddle_capital_mansion
-bip_39_word_underscore_4: saddle_capital_mansion_ecology
-bip_39_word_underscore_5: saddle_capital_mansion_ecology_marine
-bip_39_word_underscore_6: saddle_capital_mansion_ecology_marine_picture
-bip_39_word_underscore_7: saddle_capital_mansion_ecology_marine_picture_negative
-bip_39_word_underscore_8: saddle_capital_mansion_ecology_marine_picture_negative_destroy
-bip_39_word_underscore_9: saddle_capital_mansion_ecology_marine_picture_negative_destroy_segment
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

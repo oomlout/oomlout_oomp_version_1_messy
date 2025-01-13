@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wire
-bip_39_word_dash_10: wire-dirt-high-dice-grit-volcano-innocent-quiz-transfer-choice
-bip_39_word_dash_11: wire-dirt-high-dice-grit-volcano-innocent-quiz-transfer-choice-crisp
 bip_39_word_dash_12: wire-dirt-high-dice-grit-volcano-innocent-quiz-transfer-choice-crisp-also
 bip_39_word_dash_2: wire-dirt
 bip_39_word_dash_3: wire-dirt-high
-bip_39_word_dash_4: wire-dirt-high-dice
-bip_39_word_dash_5: wire-dirt-high-dice-grit
-bip_39_word_dash_6: wire-dirt-high-dice-grit-volcano
-bip_39_word_dash_7: wire-dirt-high-dice-grit-volcano-innocent
-bip_39_word_dash_8: wire-dirt-high-dice-grit-volcano-innocent-quiz
-bip_39_word_dash_9: wire-dirt-high-dice-grit-volcano-innocent-quiz-transfer
-bip_39_word_new_br_1: wire
-bip_39_word_new_br_10: wire<br>dirt<br>high<br>dice<br>grit<br>volcano<br>innocent<br>quiz<br>transfer<br>choice
-bip_39_word_new_br_11: wire<br>dirt<br>high<br>dice<br>grit<br>volcano<br>innocent<br>quiz<br>transfer<br>choice<br>crisp
 bip_39_word_new_br_12: wire<br>dirt<br>high<br>dice<br>grit<br>volcano<br>innocent<br>quiz<br>transfer<br>choice<br>crisp<br>also
 bip_39_word_new_br_2: wire<br>dirt
 bip_39_word_new_br_3: wire<br>dirt<br>high
-bip_39_word_new_br_4: wire<br>dirt<br>high<br>dice
-bip_39_word_new_br_5: wire<br>dirt<br>high<br>dice<br>grit
-bip_39_word_new_br_6: wire<br>dirt<br>high<br>dice<br>grit<br>volcano
-bip_39_word_new_br_7: wire<br>dirt<br>high<br>dice<br>grit<br>volcano<br>innocent
-bip_39_word_new_br_8: wire<br>dirt<br>high<br>dice<br>grit<br>volcano<br>innocent<br>quiz
-bip_39_word_new_br_9: wire<br>dirt<br>high<br>dice<br>grit<br>volcano<br>innocent<br>quiz<br>transfer
-bip_39_word_new_line_1: wire
-bip_39_word_new_line_10: 'wire
-
-  dirt
-
-  high
-
-  dice
-
-  grit
-
-  volcano
-
-  innocent
-
-  quiz
-
-  transfer
-
-  choice'
-bip_39_word_new_line_11: 'wire
-
-  dirt
-
-  high
-
-  dice
-
-  grit
-
-  volcano
-
-  innocent
-
-  quiz
-
-  transfer
-
-  choice
-
-  crisp'
 bip_39_word_new_line_12: 'wire
 
   dirt
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wire
   dirt
 
   high'
-bip_39_word_new_line_4: 'wire
-
-  dirt
-
-  high
-
-  dice'
-bip_39_word_new_line_5: 'wire
-
-  dirt
-
-  high
-
-  dice
-
-  grit'
-bip_39_word_new_line_6: 'wire
-
-  dirt
-
-  high
-
-  dice
-
-  grit
-
-  volcano'
-bip_39_word_new_line_7: 'wire
-
-  dirt
-
-  high
-
-  dice
-
-  grit
-
-  volcano
-
-  innocent'
-bip_39_word_new_line_8: 'wire
-
-  dirt
-
-  high
-
-  dice
-
-  grit
-
-  volcano
-
-  innocent
-
-  quiz'
-bip_39_word_new_line_9: 'wire
-
-  dirt
-
-  high
-
-  dice
-
-  grit
-
-  volcano
-
-  innocent
-
-  quiz
-
-  transfer'
-bip_39_word_no_space_1: wire
-bip_39_word_no_space_10: wiredirthighdicegritvolcanoinnocentquiztransferchoice
-bip_39_word_no_space_11: wiredirthighdicegritvolcanoinnocentquiztransferchoicecrisp
 bip_39_word_no_space_12: wiredirthighdicegritvolcanoinnocentquiztransferchoicecrispalso
 bip_39_word_no_space_2: wiredirt
 bip_39_word_no_space_3: wiredirthigh
-bip_39_word_no_space_4: wiredirthighdice
-bip_39_word_no_space_5: wiredirthighdicegrit
-bip_39_word_no_space_6: wiredirthighdicegritvolcano
-bip_39_word_no_space_7: wiredirthighdicegritvolcanoinnocent
-bip_39_word_no_space_8: wiredirthighdicegritvolcanoinnocentquiz
-bip_39_word_no_space_9: wiredirthighdicegritvolcanoinnocentquiztransfer
-bip_39_word_space_0:
-- wire
-- dirt
-- high
-- dice
-- grit
-- volcano
-- innocent
-- quiz
-- transfer
-- choice
-- crisp
-- also
-bip_39_word_space_1: wire
-bip_39_word_space_10: wire dirt high dice grit volcano innocent quiz transfer choice
-bip_39_word_space_11: wire dirt high dice grit volcano innocent quiz transfer choice
-  crisp
 bip_39_word_space_12: wire dirt high dice grit volcano innocent quiz transfer choice
   crisp also
 bip_39_word_space_2: wire dirt
 bip_39_word_space_3: wire dirt high
-bip_39_word_space_4: wire dirt high dice
-bip_39_word_space_5: wire dirt high dice grit
-bip_39_word_space_6: wire dirt high dice grit volcano
-bip_39_word_space_7: wire dirt high dice grit volcano innocent
-bip_39_word_space_8: wire dirt high dice grit volcano innocent quiz
-bip_39_word_space_9: wire dirt high dice grit volcano innocent quiz transfer
-bip_39_word_underscore_1: wire
-bip_39_word_underscore_10: wire_dirt_high_dice_grit_volcano_innocent_quiz_transfer_choice
-bip_39_word_underscore_11: wire_dirt_high_dice_grit_volcano_innocent_quiz_transfer_choice_crisp
 bip_39_word_underscore_12: wire_dirt_high_dice_grit_volcano_innocent_quiz_transfer_choice_crisp_also
 bip_39_word_underscore_2: wire_dirt
 bip_39_word_underscore_3: wire_dirt_high
-bip_39_word_underscore_4: wire_dirt_high_dice
-bip_39_word_underscore_5: wire_dirt_high_dice_grit
-bip_39_word_underscore_6: wire_dirt_high_dice_grit_volcano
-bip_39_word_underscore_7: wire_dirt_high_dice_grit_volcano_innocent
-bip_39_word_underscore_8: wire_dirt_high_dice_grit_volcano_innocent_quiz
-bip_39_word_underscore_9: wire_dirt_high_dice_grit_volcano_innocent_quiz_transfer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

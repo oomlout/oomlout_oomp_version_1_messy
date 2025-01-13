@@ -1,68 +1,9 @@
-bip_39_word_dash_1: topic
-bip_39_word_dash_10: topic-churn-jar-foil-bamboo-beyond-corn-window-device-random
-bip_39_word_dash_11: topic-churn-jar-foil-bamboo-beyond-corn-window-device-random-cost
 bip_39_word_dash_12: topic-churn-jar-foil-bamboo-beyond-corn-window-device-random-cost-acquire
 bip_39_word_dash_2: topic-churn
 bip_39_word_dash_3: topic-churn-jar
-bip_39_word_dash_4: topic-churn-jar-foil
-bip_39_word_dash_5: topic-churn-jar-foil-bamboo
-bip_39_word_dash_6: topic-churn-jar-foil-bamboo-beyond
-bip_39_word_dash_7: topic-churn-jar-foil-bamboo-beyond-corn
-bip_39_word_dash_8: topic-churn-jar-foil-bamboo-beyond-corn-window
-bip_39_word_dash_9: topic-churn-jar-foil-bamboo-beyond-corn-window-device
-bip_39_word_new_br_1: topic
-bip_39_word_new_br_10: topic<br>churn<br>jar<br>foil<br>bamboo<br>beyond<br>corn<br>window<br>device<br>random
-bip_39_word_new_br_11: topic<br>churn<br>jar<br>foil<br>bamboo<br>beyond<br>corn<br>window<br>device<br>random<br>cost
 bip_39_word_new_br_12: topic<br>churn<br>jar<br>foil<br>bamboo<br>beyond<br>corn<br>window<br>device<br>random<br>cost<br>acquire
 bip_39_word_new_br_2: topic<br>churn
 bip_39_word_new_br_3: topic<br>churn<br>jar
-bip_39_word_new_br_4: topic<br>churn<br>jar<br>foil
-bip_39_word_new_br_5: topic<br>churn<br>jar<br>foil<br>bamboo
-bip_39_word_new_br_6: topic<br>churn<br>jar<br>foil<br>bamboo<br>beyond
-bip_39_word_new_br_7: topic<br>churn<br>jar<br>foil<br>bamboo<br>beyond<br>corn
-bip_39_word_new_br_8: topic<br>churn<br>jar<br>foil<br>bamboo<br>beyond<br>corn<br>window
-bip_39_word_new_br_9: topic<br>churn<br>jar<br>foil<br>bamboo<br>beyond<br>corn<br>window<br>device
-bip_39_word_new_line_1: topic
-bip_39_word_new_line_10: 'topic
-
-  churn
-
-  jar
-
-  foil
-
-  bamboo
-
-  beyond
-
-  corn
-
-  window
-
-  device
-
-  random'
-bip_39_word_new_line_11: 'topic
-
-  churn
-
-  jar
-
-  foil
-
-  bamboo
-
-  beyond
-
-  corn
-
-  window
-
-  device
-
-  random
-
-  cost'
 bip_39_word_new_line_12: 'topic
 
   churn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'topic
   churn
 
   jar'
-bip_39_word_new_line_4: 'topic
-
-  churn
-
-  jar
-
-  foil'
-bip_39_word_new_line_5: 'topic
-
-  churn
-
-  jar
-
-  foil
-
-  bamboo'
-bip_39_word_new_line_6: 'topic
-
-  churn
-
-  jar
-
-  foil
-
-  bamboo
-
-  beyond'
-bip_39_word_new_line_7: 'topic
-
-  churn
-
-  jar
-
-  foil
-
-  bamboo
-
-  beyond
-
-  corn'
-bip_39_word_new_line_8: 'topic
-
-  churn
-
-  jar
-
-  foil
-
-  bamboo
-
-  beyond
-
-  corn
-
-  window'
-bip_39_word_new_line_9: 'topic
-
-  churn
-
-  jar
-
-  foil
-
-  bamboo
-
-  beyond
-
-  corn
-
-  window
-
-  device'
-bip_39_word_no_space_1: topic
-bip_39_word_no_space_10: topicchurnjarfoilbamboobeyondcornwindowdevicerandom
-bip_39_word_no_space_11: topicchurnjarfoilbamboobeyondcornwindowdevicerandomcost
 bip_39_word_no_space_12: topicchurnjarfoilbamboobeyondcornwindowdevicerandomcostacquire
 bip_39_word_no_space_2: topicchurn
 bip_39_word_no_space_3: topicchurnjar
-bip_39_word_no_space_4: topicchurnjarfoil
-bip_39_word_no_space_5: topicchurnjarfoilbamboo
-bip_39_word_no_space_6: topicchurnjarfoilbamboobeyond
-bip_39_word_no_space_7: topicchurnjarfoilbamboobeyondcorn
-bip_39_word_no_space_8: topicchurnjarfoilbamboobeyondcornwindow
-bip_39_word_no_space_9: topicchurnjarfoilbamboobeyondcornwindowdevice
-bip_39_word_space_0:
-- topic
-- churn
-- jar
-- foil
-- bamboo
-- beyond
-- corn
-- window
-- device
-- random
-- cost
-- acquire
-bip_39_word_space_1: topic
-bip_39_word_space_10: topic churn jar foil bamboo beyond corn window device random
-bip_39_word_space_11: topic churn jar foil bamboo beyond corn window device random
-  cost
 bip_39_word_space_12: topic churn jar foil bamboo beyond corn window device random
   cost acquire
 bip_39_word_space_2: topic churn
 bip_39_word_space_3: topic churn jar
-bip_39_word_space_4: topic churn jar foil
-bip_39_word_space_5: topic churn jar foil bamboo
-bip_39_word_space_6: topic churn jar foil bamboo beyond
-bip_39_word_space_7: topic churn jar foil bamboo beyond corn
-bip_39_word_space_8: topic churn jar foil bamboo beyond corn window
-bip_39_word_space_9: topic churn jar foil bamboo beyond corn window device
-bip_39_word_underscore_1: topic
-bip_39_word_underscore_10: topic_churn_jar_foil_bamboo_beyond_corn_window_device_random
-bip_39_word_underscore_11: topic_churn_jar_foil_bamboo_beyond_corn_window_device_random_cost
 bip_39_word_underscore_12: topic_churn_jar_foil_bamboo_beyond_corn_window_device_random_cost_acquire
 bip_39_word_underscore_2: topic_churn
 bip_39_word_underscore_3: topic_churn_jar
-bip_39_word_underscore_4: topic_churn_jar_foil
-bip_39_word_underscore_5: topic_churn_jar_foil_bamboo
-bip_39_word_underscore_6: topic_churn_jar_foil_bamboo_beyond
-bip_39_word_underscore_7: topic_churn_jar_foil_bamboo_beyond_corn
-bip_39_word_underscore_8: topic_churn_jar_foil_bamboo_beyond_corn_window
-bip_39_word_underscore_9: topic_churn_jar_foil_bamboo_beyond_corn_window_device
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

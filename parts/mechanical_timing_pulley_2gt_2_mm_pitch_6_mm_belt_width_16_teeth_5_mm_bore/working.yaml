@@ -1,68 +1,9 @@
-bip_39_word_dash_1: play
-bip_39_word_dash_10: play-fee-silly-unknown-thing-bright-scorpion-head-scan-celery
-bip_39_word_dash_11: play-fee-silly-unknown-thing-bright-scorpion-head-scan-celery-winner
 bip_39_word_dash_12: play-fee-silly-unknown-thing-bright-scorpion-head-scan-celery-winner-addict
 bip_39_word_dash_2: play-fee
 bip_39_word_dash_3: play-fee-silly
-bip_39_word_dash_4: play-fee-silly-unknown
-bip_39_word_dash_5: play-fee-silly-unknown-thing
-bip_39_word_dash_6: play-fee-silly-unknown-thing-bright
-bip_39_word_dash_7: play-fee-silly-unknown-thing-bright-scorpion
-bip_39_word_dash_8: play-fee-silly-unknown-thing-bright-scorpion-head
-bip_39_word_dash_9: play-fee-silly-unknown-thing-bright-scorpion-head-scan
-bip_39_word_new_br_1: play
-bip_39_word_new_br_10: play<br>fee<br>silly<br>unknown<br>thing<br>bright<br>scorpion<br>head<br>scan<br>celery
-bip_39_word_new_br_11: play<br>fee<br>silly<br>unknown<br>thing<br>bright<br>scorpion<br>head<br>scan<br>celery<br>winner
 bip_39_word_new_br_12: play<br>fee<br>silly<br>unknown<br>thing<br>bright<br>scorpion<br>head<br>scan<br>celery<br>winner<br>addict
 bip_39_word_new_br_2: play<br>fee
 bip_39_word_new_br_3: play<br>fee<br>silly
-bip_39_word_new_br_4: play<br>fee<br>silly<br>unknown
-bip_39_word_new_br_5: play<br>fee<br>silly<br>unknown<br>thing
-bip_39_word_new_br_6: play<br>fee<br>silly<br>unknown<br>thing<br>bright
-bip_39_word_new_br_7: play<br>fee<br>silly<br>unknown<br>thing<br>bright<br>scorpion
-bip_39_word_new_br_8: play<br>fee<br>silly<br>unknown<br>thing<br>bright<br>scorpion<br>head
-bip_39_word_new_br_9: play<br>fee<br>silly<br>unknown<br>thing<br>bright<br>scorpion<br>head<br>scan
-bip_39_word_new_line_1: play
-bip_39_word_new_line_10: 'play
-
-  fee
-
-  silly
-
-  unknown
-
-  thing
-
-  bright
-
-  scorpion
-
-  head
-
-  scan
-
-  celery'
-bip_39_word_new_line_11: 'play
-
-  fee
-
-  silly
-
-  unknown
-
-  thing
-
-  bright
-
-  scorpion
-
-  head
-
-  scan
-
-  celery
-
-  winner'
 bip_39_word_new_line_12: 'play
 
   fee
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'play
   fee
 
   silly'
-bip_39_word_new_line_4: 'play
-
-  fee
-
-  silly
-
-  unknown'
-bip_39_word_new_line_5: 'play
-
-  fee
-
-  silly
-
-  unknown
-
-  thing'
-bip_39_word_new_line_6: 'play
-
-  fee
-
-  silly
-
-  unknown
-
-  thing
-
-  bright'
-bip_39_word_new_line_7: 'play
-
-  fee
-
-  silly
-
-  unknown
-
-  thing
-
-  bright
-
-  scorpion'
-bip_39_word_new_line_8: 'play
-
-  fee
-
-  silly
-
-  unknown
-
-  thing
-
-  bright
-
-  scorpion
-
-  head'
-bip_39_word_new_line_9: 'play
-
-  fee
-
-  silly
-
-  unknown
-
-  thing
-
-  bright
-
-  scorpion
-
-  head
-
-  scan'
-bip_39_word_no_space_1: play
-bip_39_word_no_space_10: playfeesillyunknownthingbrightscorpionheadscancelery
-bip_39_word_no_space_11: playfeesillyunknownthingbrightscorpionheadscancelerywinner
 bip_39_word_no_space_12: playfeesillyunknownthingbrightscorpionheadscancelerywinneraddict
 bip_39_word_no_space_2: playfee
 bip_39_word_no_space_3: playfeesilly
-bip_39_word_no_space_4: playfeesillyunknown
-bip_39_word_no_space_5: playfeesillyunknownthing
-bip_39_word_no_space_6: playfeesillyunknownthingbright
-bip_39_word_no_space_7: playfeesillyunknownthingbrightscorpion
-bip_39_word_no_space_8: playfeesillyunknownthingbrightscorpionhead
-bip_39_word_no_space_9: playfeesillyunknownthingbrightscorpionheadscan
-bip_39_word_space_0:
-- play
-- fee
-- silly
-- unknown
-- thing
-- bright
-- scorpion
-- head
-- scan
-- celery
-- winner
-- addict
-bip_39_word_space_1: play
-bip_39_word_space_10: play fee silly unknown thing bright scorpion head scan celery
-bip_39_word_space_11: play fee silly unknown thing bright scorpion head scan celery
-  winner
 bip_39_word_space_12: play fee silly unknown thing bright scorpion head scan celery
   winner addict
 bip_39_word_space_2: play fee
 bip_39_word_space_3: play fee silly
-bip_39_word_space_4: play fee silly unknown
-bip_39_word_space_5: play fee silly unknown thing
-bip_39_word_space_6: play fee silly unknown thing bright
-bip_39_word_space_7: play fee silly unknown thing bright scorpion
-bip_39_word_space_8: play fee silly unknown thing bright scorpion head
-bip_39_word_space_9: play fee silly unknown thing bright scorpion head scan
-bip_39_word_underscore_1: play
-bip_39_word_underscore_10: play_fee_silly_unknown_thing_bright_scorpion_head_scan_celery
-bip_39_word_underscore_11: play_fee_silly_unknown_thing_bright_scorpion_head_scan_celery_winner
 bip_39_word_underscore_12: play_fee_silly_unknown_thing_bright_scorpion_head_scan_celery_winner_addict
 bip_39_word_underscore_2: play_fee
 bip_39_word_underscore_3: play_fee_silly
-bip_39_word_underscore_4: play_fee_silly_unknown
-bip_39_word_underscore_5: play_fee_silly_unknown_thing
-bip_39_word_underscore_6: play_fee_silly_unknown_thing_bright
-bip_39_word_underscore_7: play_fee_silly_unknown_thing_bright_scorpion
-bip_39_word_underscore_8: play_fee_silly_unknown_thing_bright_scorpion_head
-bip_39_word_underscore_9: play_fee_silly_unknown_thing_bright_scorpion_head_scan
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: describe
-bip_39_word_dash_10: describe-priority-purity-chunk-believe-lend-raw-suggest-shield-correct
-bip_39_word_dash_11: describe-priority-purity-chunk-believe-lend-raw-suggest-shield-correct-critic
 bip_39_word_dash_12: describe-priority-purity-chunk-believe-lend-raw-suggest-shield-correct-critic-achieve
 bip_39_word_dash_2: describe-priority
 bip_39_word_dash_3: describe-priority-purity
-bip_39_word_dash_4: describe-priority-purity-chunk
-bip_39_word_dash_5: describe-priority-purity-chunk-believe
-bip_39_word_dash_6: describe-priority-purity-chunk-believe-lend
-bip_39_word_dash_7: describe-priority-purity-chunk-believe-lend-raw
-bip_39_word_dash_8: describe-priority-purity-chunk-believe-lend-raw-suggest
-bip_39_word_dash_9: describe-priority-purity-chunk-believe-lend-raw-suggest-shield
-bip_39_word_new_br_1: describe
-bip_39_word_new_br_10: describe<br>priority<br>purity<br>chunk<br>believe<br>lend<br>raw<br>suggest<br>shield<br>correct
-bip_39_word_new_br_11: describe<br>priority<br>purity<br>chunk<br>believe<br>lend<br>raw<br>suggest<br>shield<br>correct<br>critic
 bip_39_word_new_br_12: describe<br>priority<br>purity<br>chunk<br>believe<br>lend<br>raw<br>suggest<br>shield<br>correct<br>critic<br>achieve
 bip_39_word_new_br_2: describe<br>priority
 bip_39_word_new_br_3: describe<br>priority<br>purity
-bip_39_word_new_br_4: describe<br>priority<br>purity<br>chunk
-bip_39_word_new_br_5: describe<br>priority<br>purity<br>chunk<br>believe
-bip_39_word_new_br_6: describe<br>priority<br>purity<br>chunk<br>believe<br>lend
-bip_39_word_new_br_7: describe<br>priority<br>purity<br>chunk<br>believe<br>lend<br>raw
-bip_39_word_new_br_8: describe<br>priority<br>purity<br>chunk<br>believe<br>lend<br>raw<br>suggest
-bip_39_word_new_br_9: describe<br>priority<br>purity<br>chunk<br>believe<br>lend<br>raw<br>suggest<br>shield
-bip_39_word_new_line_1: describe
-bip_39_word_new_line_10: 'describe
-
-  priority
-
-  purity
-
-  chunk
-
-  believe
-
-  lend
-
-  raw
-
-  suggest
-
-  shield
-
-  correct'
-bip_39_word_new_line_11: 'describe
-
-  priority
-
-  purity
-
-  chunk
-
-  believe
-
-  lend
-
-  raw
-
-  suggest
-
-  shield
-
-  correct
-
-  critic'
 bip_39_word_new_line_12: 'describe
 
   priority
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'describe
   priority
 
   purity'
-bip_39_word_new_line_4: 'describe
-
-  priority
-
-  purity
-
-  chunk'
-bip_39_word_new_line_5: 'describe
-
-  priority
-
-  purity
-
-  chunk
-
-  believe'
-bip_39_word_new_line_6: 'describe
-
-  priority
-
-  purity
-
-  chunk
-
-  believe
-
-  lend'
-bip_39_word_new_line_7: 'describe
-
-  priority
-
-  purity
-
-  chunk
-
-  believe
-
-  lend
-
-  raw'
-bip_39_word_new_line_8: 'describe
-
-  priority
-
-  purity
-
-  chunk
-
-  believe
-
-  lend
-
-  raw
-
-  suggest'
-bip_39_word_new_line_9: 'describe
-
-  priority
-
-  purity
-
-  chunk
-
-  believe
-
-  lend
-
-  raw
-
-  suggest
-
-  shield'
-bip_39_word_no_space_1: describe
-bip_39_word_no_space_10: describeprioritypuritychunkbelievelendrawsuggestshieldcorrect
-bip_39_word_no_space_11: describeprioritypuritychunkbelievelendrawsuggestshieldcorrectcritic
 bip_39_word_no_space_12: describeprioritypuritychunkbelievelendrawsuggestshieldcorrectcriticachieve
 bip_39_word_no_space_2: describepriority
 bip_39_word_no_space_3: describeprioritypurity
-bip_39_word_no_space_4: describeprioritypuritychunk
-bip_39_word_no_space_5: describeprioritypuritychunkbelieve
-bip_39_word_no_space_6: describeprioritypuritychunkbelievelend
-bip_39_word_no_space_7: describeprioritypuritychunkbelievelendraw
-bip_39_word_no_space_8: describeprioritypuritychunkbelievelendrawsuggest
-bip_39_word_no_space_9: describeprioritypuritychunkbelievelendrawsuggestshield
-bip_39_word_space_0:
-- describe
-- priority
-- purity
-- chunk
-- believe
-- lend
-- raw
-- suggest
-- shield
-- correct
-- critic
-- achieve
-bip_39_word_space_1: describe
-bip_39_word_space_10: describe priority purity chunk believe lend raw suggest shield
-  correct
-bip_39_word_space_11: describe priority purity chunk believe lend raw suggest shield
-  correct critic
 bip_39_word_space_12: describe priority purity chunk believe lend raw suggest shield
   correct critic achieve
 bip_39_word_space_2: describe priority
 bip_39_word_space_3: describe priority purity
-bip_39_word_space_4: describe priority purity chunk
-bip_39_word_space_5: describe priority purity chunk believe
-bip_39_word_space_6: describe priority purity chunk believe lend
-bip_39_word_space_7: describe priority purity chunk believe lend raw
-bip_39_word_space_8: describe priority purity chunk believe lend raw suggest
-bip_39_word_space_9: describe priority purity chunk believe lend raw suggest shield
-bip_39_word_underscore_1: describe
-bip_39_word_underscore_10: describe_priority_purity_chunk_believe_lend_raw_suggest_shield_correct
-bip_39_word_underscore_11: describe_priority_purity_chunk_believe_lend_raw_suggest_shield_correct_critic
 bip_39_word_underscore_12: describe_priority_purity_chunk_believe_lend_raw_suggest_shield_correct_critic_achieve
 bip_39_word_underscore_2: describe_priority
 bip_39_word_underscore_3: describe_priority_purity
-bip_39_word_underscore_4: describe_priority_purity_chunk
-bip_39_word_underscore_5: describe_priority_purity_chunk_believe
-bip_39_word_underscore_6: describe_priority_purity_chunk_believe_lend
-bip_39_word_underscore_7: describe_priority_purity_chunk_believe_lend_raw
-bip_39_word_underscore_8: describe_priority_purity_chunk_believe_lend_raw_suggest
-bip_39_word_underscore_9: describe_priority_purity_chunk_believe_lend_raw_suggest_shield
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

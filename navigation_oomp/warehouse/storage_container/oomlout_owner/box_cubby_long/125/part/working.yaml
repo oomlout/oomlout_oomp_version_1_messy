@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gas
-bip_39_word_dash_10: gas-paddle-pig-rule-kitchen-flavor-federal-advance-coffee-aware
-bip_39_word_dash_11: gas-paddle-pig-rule-kitchen-flavor-federal-advance-coffee-aware-outer
 bip_39_word_dash_12: gas-paddle-pig-rule-kitchen-flavor-federal-advance-coffee-aware-outer-above
 bip_39_word_dash_2: gas-paddle
 bip_39_word_dash_3: gas-paddle-pig
-bip_39_word_dash_4: gas-paddle-pig-rule
-bip_39_word_dash_5: gas-paddle-pig-rule-kitchen
-bip_39_word_dash_6: gas-paddle-pig-rule-kitchen-flavor
-bip_39_word_dash_7: gas-paddle-pig-rule-kitchen-flavor-federal
-bip_39_word_dash_8: gas-paddle-pig-rule-kitchen-flavor-federal-advance
-bip_39_word_dash_9: gas-paddle-pig-rule-kitchen-flavor-federal-advance-coffee
-bip_39_word_new_br_1: gas
-bip_39_word_new_br_10: gas<br>paddle<br>pig<br>rule<br>kitchen<br>flavor<br>federal<br>advance<br>coffee<br>aware
-bip_39_word_new_br_11: gas<br>paddle<br>pig<br>rule<br>kitchen<br>flavor<br>federal<br>advance<br>coffee<br>aware<br>outer
 bip_39_word_new_br_12: gas<br>paddle<br>pig<br>rule<br>kitchen<br>flavor<br>federal<br>advance<br>coffee<br>aware<br>outer<br>above
 bip_39_word_new_br_2: gas<br>paddle
 bip_39_word_new_br_3: gas<br>paddle<br>pig
-bip_39_word_new_br_4: gas<br>paddle<br>pig<br>rule
-bip_39_word_new_br_5: gas<br>paddle<br>pig<br>rule<br>kitchen
-bip_39_word_new_br_6: gas<br>paddle<br>pig<br>rule<br>kitchen<br>flavor
-bip_39_word_new_br_7: gas<br>paddle<br>pig<br>rule<br>kitchen<br>flavor<br>federal
-bip_39_word_new_br_8: gas<br>paddle<br>pig<br>rule<br>kitchen<br>flavor<br>federal<br>advance
-bip_39_word_new_br_9: gas<br>paddle<br>pig<br>rule<br>kitchen<br>flavor<br>federal<br>advance<br>coffee
-bip_39_word_new_line_1: gas
-bip_39_word_new_line_10: 'gas
-
-  paddle
-
-  pig
-
-  rule
-
-  kitchen
-
-  flavor
-
-  federal
-
-  advance
-
-  coffee
-
-  aware'
-bip_39_word_new_line_11: 'gas
-
-  paddle
-
-  pig
-
-  rule
-
-  kitchen
-
-  flavor
-
-  federal
-
-  advance
-
-  coffee
-
-  aware
-
-  outer'
 bip_39_word_new_line_12: 'gas
 
   paddle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gas
   paddle
 
   pig'
-bip_39_word_new_line_4: 'gas
-
-  paddle
-
-  pig
-
-  rule'
-bip_39_word_new_line_5: 'gas
-
-  paddle
-
-  pig
-
-  rule
-
-  kitchen'
-bip_39_word_new_line_6: 'gas
-
-  paddle
-
-  pig
-
-  rule
-
-  kitchen
-
-  flavor'
-bip_39_word_new_line_7: 'gas
-
-  paddle
-
-  pig
-
-  rule
-
-  kitchen
-
-  flavor
-
-  federal'
-bip_39_word_new_line_8: 'gas
-
-  paddle
-
-  pig
-
-  rule
-
-  kitchen
-
-  flavor
-
-  federal
-
-  advance'
-bip_39_word_new_line_9: 'gas
-
-  paddle
-
-  pig
-
-  rule
-
-  kitchen
-
-  flavor
-
-  federal
-
-  advance
-
-  coffee'
-bip_39_word_no_space_1: gas
-bip_39_word_no_space_10: gaspaddlepigrulekitchenflavorfederaladvancecoffeeaware
-bip_39_word_no_space_11: gaspaddlepigrulekitchenflavorfederaladvancecoffeeawareouter
 bip_39_word_no_space_12: gaspaddlepigrulekitchenflavorfederaladvancecoffeeawareouterabove
 bip_39_word_no_space_2: gaspaddle
 bip_39_word_no_space_3: gaspaddlepig
-bip_39_word_no_space_4: gaspaddlepigrule
-bip_39_word_no_space_5: gaspaddlepigrulekitchen
-bip_39_word_no_space_6: gaspaddlepigrulekitchenflavor
-bip_39_word_no_space_7: gaspaddlepigrulekitchenflavorfederal
-bip_39_word_no_space_8: gaspaddlepigrulekitchenflavorfederaladvance
-bip_39_word_no_space_9: gaspaddlepigrulekitchenflavorfederaladvancecoffee
-bip_39_word_space_0:
-- gas
-- paddle
-- pig
-- rule
-- kitchen
-- flavor
-- federal
-- advance
-- coffee
-- aware
-- outer
-- above
-bip_39_word_space_1: gas
-bip_39_word_space_10: gas paddle pig rule kitchen flavor federal advance coffee aware
-bip_39_word_space_11: gas paddle pig rule kitchen flavor federal advance coffee aware
-  outer
 bip_39_word_space_12: gas paddle pig rule kitchen flavor federal advance coffee aware
   outer above
 bip_39_word_space_2: gas paddle
 bip_39_word_space_3: gas paddle pig
-bip_39_word_space_4: gas paddle pig rule
-bip_39_word_space_5: gas paddle pig rule kitchen
-bip_39_word_space_6: gas paddle pig rule kitchen flavor
-bip_39_word_space_7: gas paddle pig rule kitchen flavor federal
-bip_39_word_space_8: gas paddle pig rule kitchen flavor federal advance
-bip_39_word_space_9: gas paddle pig rule kitchen flavor federal advance coffee
-bip_39_word_underscore_1: gas
-bip_39_word_underscore_10: gas_paddle_pig_rule_kitchen_flavor_federal_advance_coffee_aware
-bip_39_word_underscore_11: gas_paddle_pig_rule_kitchen_flavor_federal_advance_coffee_aware_outer
 bip_39_word_underscore_12: gas_paddle_pig_rule_kitchen_flavor_federal_advance_coffee_aware_outer_above
 bip_39_word_underscore_2: gas_paddle
 bip_39_word_underscore_3: gas_paddle_pig
-bip_39_word_underscore_4: gas_paddle_pig_rule
-bip_39_word_underscore_5: gas_paddle_pig_rule_kitchen
-bip_39_word_underscore_6: gas_paddle_pig_rule_kitchen_flavor
-bip_39_word_underscore_7: gas_paddle_pig_rule_kitchen_flavor_federal
-bip_39_word_underscore_8: gas_paddle_pig_rule_kitchen_flavor_federal_advance
-bip_39_word_underscore_9: gas_paddle_pig_rule_kitchen_flavor_federal_advance_coffee
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

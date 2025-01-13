@@ -1,68 +1,9 @@
-bip_39_word_dash_1: daring
-bip_39_word_dash_10: daring-enemy-prison-clay-endorse-tunnel-marine-garlic-unable-ankle
-bip_39_word_dash_11: daring-enemy-prison-clay-endorse-tunnel-marine-garlic-unable-ankle-insane
 bip_39_word_dash_12: daring-enemy-prison-clay-endorse-tunnel-marine-garlic-unable-ankle-insane-aunt
 bip_39_word_dash_2: daring-enemy
 bip_39_word_dash_3: daring-enemy-prison
-bip_39_word_dash_4: daring-enemy-prison-clay
-bip_39_word_dash_5: daring-enemy-prison-clay-endorse
-bip_39_word_dash_6: daring-enemy-prison-clay-endorse-tunnel
-bip_39_word_dash_7: daring-enemy-prison-clay-endorse-tunnel-marine
-bip_39_word_dash_8: daring-enemy-prison-clay-endorse-tunnel-marine-garlic
-bip_39_word_dash_9: daring-enemy-prison-clay-endorse-tunnel-marine-garlic-unable
-bip_39_word_new_br_1: daring
-bip_39_word_new_br_10: daring<br>enemy<br>prison<br>clay<br>endorse<br>tunnel<br>marine<br>garlic<br>unable<br>ankle
-bip_39_word_new_br_11: daring<br>enemy<br>prison<br>clay<br>endorse<br>tunnel<br>marine<br>garlic<br>unable<br>ankle<br>insane
 bip_39_word_new_br_12: daring<br>enemy<br>prison<br>clay<br>endorse<br>tunnel<br>marine<br>garlic<br>unable<br>ankle<br>insane<br>aunt
 bip_39_word_new_br_2: daring<br>enemy
 bip_39_word_new_br_3: daring<br>enemy<br>prison
-bip_39_word_new_br_4: daring<br>enemy<br>prison<br>clay
-bip_39_word_new_br_5: daring<br>enemy<br>prison<br>clay<br>endorse
-bip_39_word_new_br_6: daring<br>enemy<br>prison<br>clay<br>endorse<br>tunnel
-bip_39_word_new_br_7: daring<br>enemy<br>prison<br>clay<br>endorse<br>tunnel<br>marine
-bip_39_word_new_br_8: daring<br>enemy<br>prison<br>clay<br>endorse<br>tunnel<br>marine<br>garlic
-bip_39_word_new_br_9: daring<br>enemy<br>prison<br>clay<br>endorse<br>tunnel<br>marine<br>garlic<br>unable
-bip_39_word_new_line_1: daring
-bip_39_word_new_line_10: 'daring
-
-  enemy
-
-  prison
-
-  clay
-
-  endorse
-
-  tunnel
-
-  marine
-
-  garlic
-
-  unable
-
-  ankle'
-bip_39_word_new_line_11: 'daring
-
-  enemy
-
-  prison
-
-  clay
-
-  endorse
-
-  tunnel
-
-  marine
-
-  garlic
-
-  unable
-
-  ankle
-
-  insane'
 bip_39_word_new_line_12: 'daring
 
   enemy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'daring
   enemy
 
   prison'
-bip_39_word_new_line_4: 'daring
-
-  enemy
-
-  prison
-
-  clay'
-bip_39_word_new_line_5: 'daring
-
-  enemy
-
-  prison
-
-  clay
-
-  endorse'
-bip_39_word_new_line_6: 'daring
-
-  enemy
-
-  prison
-
-  clay
-
-  endorse
-
-  tunnel'
-bip_39_word_new_line_7: 'daring
-
-  enemy
-
-  prison
-
-  clay
-
-  endorse
-
-  tunnel
-
-  marine'
-bip_39_word_new_line_8: 'daring
-
-  enemy
-
-  prison
-
-  clay
-
-  endorse
-
-  tunnel
-
-  marine
-
-  garlic'
-bip_39_word_new_line_9: 'daring
-
-  enemy
-
-  prison
-
-  clay
-
-  endorse
-
-  tunnel
-
-  marine
-
-  garlic
-
-  unable'
-bip_39_word_no_space_1: daring
-bip_39_word_no_space_10: daringenemyprisonclayendorsetunnelmarinegarlicunableankle
-bip_39_word_no_space_11: daringenemyprisonclayendorsetunnelmarinegarlicunableankleinsane
 bip_39_word_no_space_12: daringenemyprisonclayendorsetunnelmarinegarlicunableankleinsaneaunt
 bip_39_word_no_space_2: daringenemy
 bip_39_word_no_space_3: daringenemyprison
-bip_39_word_no_space_4: daringenemyprisonclay
-bip_39_word_no_space_5: daringenemyprisonclayendorse
-bip_39_word_no_space_6: daringenemyprisonclayendorsetunnel
-bip_39_word_no_space_7: daringenemyprisonclayendorsetunnelmarine
-bip_39_word_no_space_8: daringenemyprisonclayendorsetunnelmarinegarlic
-bip_39_word_no_space_9: daringenemyprisonclayendorsetunnelmarinegarlicunable
-bip_39_word_space_0:
-- daring
-- enemy
-- prison
-- clay
-- endorse
-- tunnel
-- marine
-- garlic
-- unable
-- ankle
-- insane
-- aunt
-bip_39_word_space_1: daring
-bip_39_word_space_10: daring enemy prison clay endorse tunnel marine garlic unable
-  ankle
-bip_39_word_space_11: daring enemy prison clay endorse tunnel marine garlic unable
-  ankle insane
 bip_39_word_space_12: daring enemy prison clay endorse tunnel marine garlic unable
   ankle insane aunt
 bip_39_word_space_2: daring enemy
 bip_39_word_space_3: daring enemy prison
-bip_39_word_space_4: daring enemy prison clay
-bip_39_word_space_5: daring enemy prison clay endorse
-bip_39_word_space_6: daring enemy prison clay endorse tunnel
-bip_39_word_space_7: daring enemy prison clay endorse tunnel marine
-bip_39_word_space_8: daring enemy prison clay endorse tunnel marine garlic
-bip_39_word_space_9: daring enemy prison clay endorse tunnel marine garlic unable
-bip_39_word_underscore_1: daring
-bip_39_word_underscore_10: daring_enemy_prison_clay_endorse_tunnel_marine_garlic_unable_ankle
-bip_39_word_underscore_11: daring_enemy_prison_clay_endorse_tunnel_marine_garlic_unable_ankle_insane
 bip_39_word_underscore_12: daring_enemy_prison_clay_endorse_tunnel_marine_garlic_unable_ankle_insane_aunt
 bip_39_word_underscore_2: daring_enemy
 bip_39_word_underscore_3: daring_enemy_prison
-bip_39_word_underscore_4: daring_enemy_prison_clay
-bip_39_word_underscore_5: daring_enemy_prison_clay_endorse
-bip_39_word_underscore_6: daring_enemy_prison_clay_endorse_tunnel
-bip_39_word_underscore_7: daring_enemy_prison_clay_endorse_tunnel_marine
-bip_39_word_underscore_8: daring_enemy_prison_clay_endorse_tunnel_marine_garlic
-bip_39_word_underscore_9: daring_enemy_prison_clay_endorse_tunnel_marine_garlic_unable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

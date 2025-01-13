@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unit
-bip_39_word_dash_10: unit-cat-bundle-engine-nation-feed-disagree-enact-pilot-glove
-bip_39_word_dash_11: unit-cat-bundle-engine-nation-feed-disagree-enact-pilot-glove-shine
 bip_39_word_dash_12: unit-cat-bundle-engine-nation-feed-disagree-enact-pilot-glove-shine-accident
 bip_39_word_dash_2: unit-cat
 bip_39_word_dash_3: unit-cat-bundle
-bip_39_word_dash_4: unit-cat-bundle-engine
-bip_39_word_dash_5: unit-cat-bundle-engine-nation
-bip_39_word_dash_6: unit-cat-bundle-engine-nation-feed
-bip_39_word_dash_7: unit-cat-bundle-engine-nation-feed-disagree
-bip_39_word_dash_8: unit-cat-bundle-engine-nation-feed-disagree-enact
-bip_39_word_dash_9: unit-cat-bundle-engine-nation-feed-disagree-enact-pilot
-bip_39_word_new_br_1: unit
-bip_39_word_new_br_10: unit<br>cat<br>bundle<br>engine<br>nation<br>feed<br>disagree<br>enact<br>pilot<br>glove
-bip_39_word_new_br_11: unit<br>cat<br>bundle<br>engine<br>nation<br>feed<br>disagree<br>enact<br>pilot<br>glove<br>shine
 bip_39_word_new_br_12: unit<br>cat<br>bundle<br>engine<br>nation<br>feed<br>disagree<br>enact<br>pilot<br>glove<br>shine<br>accident
 bip_39_word_new_br_2: unit<br>cat
 bip_39_word_new_br_3: unit<br>cat<br>bundle
-bip_39_word_new_br_4: unit<br>cat<br>bundle<br>engine
-bip_39_word_new_br_5: unit<br>cat<br>bundle<br>engine<br>nation
-bip_39_word_new_br_6: unit<br>cat<br>bundle<br>engine<br>nation<br>feed
-bip_39_word_new_br_7: unit<br>cat<br>bundle<br>engine<br>nation<br>feed<br>disagree
-bip_39_word_new_br_8: unit<br>cat<br>bundle<br>engine<br>nation<br>feed<br>disagree<br>enact
-bip_39_word_new_br_9: unit<br>cat<br>bundle<br>engine<br>nation<br>feed<br>disagree<br>enact<br>pilot
-bip_39_word_new_line_1: unit
-bip_39_word_new_line_10: 'unit
-
-  cat
-
-  bundle
-
-  engine
-
-  nation
-
-  feed
-
-  disagree
-
-  enact
-
-  pilot
-
-  glove'
-bip_39_word_new_line_11: 'unit
-
-  cat
-
-  bundle
-
-  engine
-
-  nation
-
-  feed
-
-  disagree
-
-  enact
-
-  pilot
-
-  glove
-
-  shine'
 bip_39_word_new_line_12: 'unit
 
   cat
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'unit
   cat
 
   bundle'
-bip_39_word_new_line_4: 'unit
-
-  cat
-
-  bundle
-
-  engine'
-bip_39_word_new_line_5: 'unit
-
-  cat
-
-  bundle
-
-  engine
-
-  nation'
-bip_39_word_new_line_6: 'unit
-
-  cat
-
-  bundle
-
-  engine
-
-  nation
-
-  feed'
-bip_39_word_new_line_7: 'unit
-
-  cat
-
-  bundle
-
-  engine
-
-  nation
-
-  feed
-
-  disagree'
-bip_39_word_new_line_8: 'unit
-
-  cat
-
-  bundle
-
-  engine
-
-  nation
-
-  feed
-
-  disagree
-
-  enact'
-bip_39_word_new_line_9: 'unit
-
-  cat
-
-  bundle
-
-  engine
-
-  nation
-
-  feed
-
-  disagree
-
-  enact
-
-  pilot'
-bip_39_word_no_space_1: unit
-bip_39_word_no_space_10: unitcatbundleenginenationfeeddisagreeenactpilotglove
-bip_39_word_no_space_11: unitcatbundleenginenationfeeddisagreeenactpilotgloveshine
 bip_39_word_no_space_12: unitcatbundleenginenationfeeddisagreeenactpilotgloveshineaccident
 bip_39_word_no_space_2: unitcat
 bip_39_word_no_space_3: unitcatbundle
-bip_39_word_no_space_4: unitcatbundleengine
-bip_39_word_no_space_5: unitcatbundleenginenation
-bip_39_word_no_space_6: unitcatbundleenginenationfeed
-bip_39_word_no_space_7: unitcatbundleenginenationfeeddisagree
-bip_39_word_no_space_8: unitcatbundleenginenationfeeddisagreeenact
-bip_39_word_no_space_9: unitcatbundleenginenationfeeddisagreeenactpilot
-bip_39_word_space_0:
-- unit
-- cat
-- bundle
-- engine
-- nation
-- feed
-- disagree
-- enact
-- pilot
-- glove
-- shine
-- accident
-bip_39_word_space_1: unit
-bip_39_word_space_10: unit cat bundle engine nation feed disagree enact pilot glove
-bip_39_word_space_11: unit cat bundle engine nation feed disagree enact pilot glove
-  shine
 bip_39_word_space_12: unit cat bundle engine nation feed disagree enact pilot glove
   shine accident
 bip_39_word_space_2: unit cat
 bip_39_word_space_3: unit cat bundle
-bip_39_word_space_4: unit cat bundle engine
-bip_39_word_space_5: unit cat bundle engine nation
-bip_39_word_space_6: unit cat bundle engine nation feed
-bip_39_word_space_7: unit cat bundle engine nation feed disagree
-bip_39_word_space_8: unit cat bundle engine nation feed disagree enact
-bip_39_word_space_9: unit cat bundle engine nation feed disagree enact pilot
-bip_39_word_underscore_1: unit
-bip_39_word_underscore_10: unit_cat_bundle_engine_nation_feed_disagree_enact_pilot_glove
-bip_39_word_underscore_11: unit_cat_bundle_engine_nation_feed_disagree_enact_pilot_glove_shine
 bip_39_word_underscore_12: unit_cat_bundle_engine_nation_feed_disagree_enact_pilot_glove_shine_accident
 bip_39_word_underscore_2: unit_cat
 bip_39_word_underscore_3: unit_cat_bundle
-bip_39_word_underscore_4: unit_cat_bundle_engine
-bip_39_word_underscore_5: unit_cat_bundle_engine_nation
-bip_39_word_underscore_6: unit_cat_bundle_engine_nation_feed
-bip_39_word_underscore_7: unit_cat_bundle_engine_nation_feed_disagree
-bip_39_word_underscore_8: unit_cat_bundle_engine_nation_feed_disagree_enact
-bip_39_word_underscore_9: unit_cat_bundle_engine_nation_feed_disagree_enact_pilot
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grant
-bip_39_word_dash_10: grant-vast-dash-cube-whisper-cliff-whip-organ-quantum-illness
-bip_39_word_dash_11: grant-vast-dash-cube-whisper-cliff-whip-organ-quantum-illness-garlic
 bip_39_word_dash_12: grant-vast-dash-cube-whisper-cliff-whip-organ-quantum-illness-garlic-analyst
 bip_39_word_dash_2: grant-vast
 bip_39_word_dash_3: grant-vast-dash
-bip_39_word_dash_4: grant-vast-dash-cube
-bip_39_word_dash_5: grant-vast-dash-cube-whisper
-bip_39_word_dash_6: grant-vast-dash-cube-whisper-cliff
-bip_39_word_dash_7: grant-vast-dash-cube-whisper-cliff-whip
-bip_39_word_dash_8: grant-vast-dash-cube-whisper-cliff-whip-organ
-bip_39_word_dash_9: grant-vast-dash-cube-whisper-cliff-whip-organ-quantum
-bip_39_word_new_br_1: grant
-bip_39_word_new_br_10: grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ<br>quantum<br>illness
-bip_39_word_new_br_11: grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ<br>quantum<br>illness<br>garlic
 bip_39_word_new_br_12: grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ<br>quantum<br>illness<br>garlic<br>analyst
 bip_39_word_new_br_2: grant<br>vast
 bip_39_word_new_br_3: grant<br>vast<br>dash
-bip_39_word_new_br_4: grant<br>vast<br>dash<br>cube
-bip_39_word_new_br_5: grant<br>vast<br>dash<br>cube<br>whisper
-bip_39_word_new_br_6: grant<br>vast<br>dash<br>cube<br>whisper<br>cliff
-bip_39_word_new_br_7: grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip
-bip_39_word_new_br_8: grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ
-bip_39_word_new_br_9: grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ<br>quantum
-bip_39_word_new_line_1: grant
-bip_39_word_new_line_10: 'grant
-
-  vast
-
-  dash
-
-  cube
-
-  whisper
-
-  cliff
-
-  whip
-
-  organ
-
-  quantum
-
-  illness'
-bip_39_word_new_line_11: 'grant
-
-  vast
-
-  dash
-
-  cube
-
-  whisper
-
-  cliff
-
-  whip
-
-  organ
-
-  quantum
-
-  illness
-
-  garlic'
 bip_39_word_new_line_12: 'grant
 
   vast
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grant
   vast
 
   dash'
-bip_39_word_new_line_4: 'grant
-
-  vast
-
-  dash
-
-  cube'
-bip_39_word_new_line_5: 'grant
-
-  vast
-
-  dash
-
-  cube
-
-  whisper'
-bip_39_word_new_line_6: 'grant
-
-  vast
-
-  dash
-
-  cube
-
-  whisper
-
-  cliff'
-bip_39_word_new_line_7: 'grant
-
-  vast
-
-  dash
-
-  cube
-
-  whisper
-
-  cliff
-
-  whip'
-bip_39_word_new_line_8: 'grant
-
-  vast
-
-  dash
-
-  cube
-
-  whisper
-
-  cliff
-
-  whip
-
-  organ'
-bip_39_word_new_line_9: 'grant
-
-  vast
-
-  dash
-
-  cube
-
-  whisper
-
-  cliff
-
-  whip
-
-  organ
-
-  quantum'
-bip_39_word_no_space_1: grant
-bip_39_word_no_space_10: grantvastdashcubewhispercliffwhiporganquantumillness
-bip_39_word_no_space_11: grantvastdashcubewhispercliffwhiporganquantumillnessgarlic
 bip_39_word_no_space_12: grantvastdashcubewhispercliffwhiporganquantumillnessgarlicanalyst
 bip_39_word_no_space_2: grantvast
 bip_39_word_no_space_3: grantvastdash
-bip_39_word_no_space_4: grantvastdashcube
-bip_39_word_no_space_5: grantvastdashcubewhisper
-bip_39_word_no_space_6: grantvastdashcubewhispercliff
-bip_39_word_no_space_7: grantvastdashcubewhispercliffwhip
-bip_39_word_no_space_8: grantvastdashcubewhispercliffwhiporgan
-bip_39_word_no_space_9: grantvastdashcubewhispercliffwhiporganquantum
-bip_39_word_space_0:
-- grant
-- vast
-- dash
-- cube
-- whisper
-- cliff
-- whip
-- organ
-- quantum
-- illness
-- garlic
-- analyst
-bip_39_word_space_1: grant
-bip_39_word_space_10: grant vast dash cube whisper cliff whip organ quantum illness
-bip_39_word_space_11: grant vast dash cube whisper cliff whip organ quantum illness
-  garlic
 bip_39_word_space_12: grant vast dash cube whisper cliff whip organ quantum illness
   garlic analyst
 bip_39_word_space_2: grant vast
 bip_39_word_space_3: grant vast dash
-bip_39_word_space_4: grant vast dash cube
-bip_39_word_space_5: grant vast dash cube whisper
-bip_39_word_space_6: grant vast dash cube whisper cliff
-bip_39_word_space_7: grant vast dash cube whisper cliff whip
-bip_39_word_space_8: grant vast dash cube whisper cliff whip organ
-bip_39_word_space_9: grant vast dash cube whisper cliff whip organ quantum
-bip_39_word_underscore_1: grant
-bip_39_word_underscore_10: grant_vast_dash_cube_whisper_cliff_whip_organ_quantum_illness
-bip_39_word_underscore_11: grant_vast_dash_cube_whisper_cliff_whip_organ_quantum_illness_garlic
 bip_39_word_underscore_12: grant_vast_dash_cube_whisper_cliff_whip_organ_quantum_illness_garlic_analyst
 bip_39_word_underscore_2: grant_vast
 bip_39_word_underscore_3: grant_vast_dash
-bip_39_word_underscore_4: grant_vast_dash_cube
-bip_39_word_underscore_5: grant_vast_dash_cube_whisper
-bip_39_word_underscore_6: grant_vast_dash_cube_whisper_cliff
-bip_39_word_underscore_7: grant_vast_dash_cube_whisper_cliff_whip
-bip_39_word_underscore_8: grant_vast_dash_cube_whisper_cliff_whip_organ
-bip_39_word_underscore_9: grant_vast_dash_cube_whisper_cliff_whip_organ_quantum
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inmate
-bip_39_word_dash_10: inmate-fish-tower-organ-design-ignore-giraffe-disease-plug-chaos
-bip_39_word_dash_11: inmate-fish-tower-organ-design-ignore-giraffe-disease-plug-chaos-avoid
 bip_39_word_dash_12: inmate-fish-tower-organ-design-ignore-giraffe-disease-plug-chaos-avoid-asthma
 bip_39_word_dash_2: inmate-fish
 bip_39_word_dash_3: inmate-fish-tower
-bip_39_word_dash_4: inmate-fish-tower-organ
-bip_39_word_dash_5: inmate-fish-tower-organ-design
-bip_39_word_dash_6: inmate-fish-tower-organ-design-ignore
-bip_39_word_dash_7: inmate-fish-tower-organ-design-ignore-giraffe
-bip_39_word_dash_8: inmate-fish-tower-organ-design-ignore-giraffe-disease
-bip_39_word_dash_9: inmate-fish-tower-organ-design-ignore-giraffe-disease-plug
-bip_39_word_new_br_1: inmate
-bip_39_word_new_br_10: inmate<br>fish<br>tower<br>organ<br>design<br>ignore<br>giraffe<br>disease<br>plug<br>chaos
-bip_39_word_new_br_11: inmate<br>fish<br>tower<br>organ<br>design<br>ignore<br>giraffe<br>disease<br>plug<br>chaos<br>avoid
 bip_39_word_new_br_12: inmate<br>fish<br>tower<br>organ<br>design<br>ignore<br>giraffe<br>disease<br>plug<br>chaos<br>avoid<br>asthma
 bip_39_word_new_br_2: inmate<br>fish
 bip_39_word_new_br_3: inmate<br>fish<br>tower
-bip_39_word_new_br_4: inmate<br>fish<br>tower<br>organ
-bip_39_word_new_br_5: inmate<br>fish<br>tower<br>organ<br>design
-bip_39_word_new_br_6: inmate<br>fish<br>tower<br>organ<br>design<br>ignore
-bip_39_word_new_br_7: inmate<br>fish<br>tower<br>organ<br>design<br>ignore<br>giraffe
-bip_39_word_new_br_8: inmate<br>fish<br>tower<br>organ<br>design<br>ignore<br>giraffe<br>disease
-bip_39_word_new_br_9: inmate<br>fish<br>tower<br>organ<br>design<br>ignore<br>giraffe<br>disease<br>plug
-bip_39_word_new_line_1: inmate
-bip_39_word_new_line_10: 'inmate
-
-  fish
-
-  tower
-
-  organ
-
-  design
-
-  ignore
-
-  giraffe
-
-  disease
-
-  plug
-
-  chaos'
-bip_39_word_new_line_11: 'inmate
-
-  fish
-
-  tower
-
-  organ
-
-  design
-
-  ignore
-
-  giraffe
-
-  disease
-
-  plug
-
-  chaos
-
-  avoid'
 bip_39_word_new_line_12: 'inmate
 
   fish
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inmate
   fish
 
   tower'
-bip_39_word_new_line_4: 'inmate
-
-  fish
-
-  tower
-
-  organ'
-bip_39_word_new_line_5: 'inmate
-
-  fish
-
-  tower
-
-  organ
-
-  design'
-bip_39_word_new_line_6: 'inmate
-
-  fish
-
-  tower
-
-  organ
-
-  design
-
-  ignore'
-bip_39_word_new_line_7: 'inmate
-
-  fish
-
-  tower
-
-  organ
-
-  design
-
-  ignore
-
-  giraffe'
-bip_39_word_new_line_8: 'inmate
-
-  fish
-
-  tower
-
-  organ
-
-  design
-
-  ignore
-
-  giraffe
-
-  disease'
-bip_39_word_new_line_9: 'inmate
-
-  fish
-
-  tower
-
-  organ
-
-  design
-
-  ignore
-
-  giraffe
-
-  disease
-
-  plug'
-bip_39_word_no_space_1: inmate
-bip_39_word_no_space_10: inmatefishtowerorgandesignignoregiraffediseaseplugchaos
-bip_39_word_no_space_11: inmatefishtowerorgandesignignoregiraffediseaseplugchaosavoid
 bip_39_word_no_space_12: inmatefishtowerorgandesignignoregiraffediseaseplugchaosavoidasthma
 bip_39_word_no_space_2: inmatefish
 bip_39_word_no_space_3: inmatefishtower
-bip_39_word_no_space_4: inmatefishtowerorgan
-bip_39_word_no_space_5: inmatefishtowerorgandesign
-bip_39_word_no_space_6: inmatefishtowerorgandesignignore
-bip_39_word_no_space_7: inmatefishtowerorgandesignignoregiraffe
-bip_39_word_no_space_8: inmatefishtowerorgandesignignoregiraffedisease
-bip_39_word_no_space_9: inmatefishtowerorgandesignignoregiraffediseaseplug
-bip_39_word_space_0:
-- inmate
-- fish
-- tower
-- organ
-- design
-- ignore
-- giraffe
-- disease
-- plug
-- chaos
-- avoid
-- asthma
-bip_39_word_space_1: inmate
-bip_39_word_space_10: inmate fish tower organ design ignore giraffe disease plug chaos
-bip_39_word_space_11: inmate fish tower organ design ignore giraffe disease plug chaos
-  avoid
 bip_39_word_space_12: inmate fish tower organ design ignore giraffe disease plug chaos
   avoid asthma
 bip_39_word_space_2: inmate fish
 bip_39_word_space_3: inmate fish tower
-bip_39_word_space_4: inmate fish tower organ
-bip_39_word_space_5: inmate fish tower organ design
-bip_39_word_space_6: inmate fish tower organ design ignore
-bip_39_word_space_7: inmate fish tower organ design ignore giraffe
-bip_39_word_space_8: inmate fish tower organ design ignore giraffe disease
-bip_39_word_space_9: inmate fish tower organ design ignore giraffe disease plug
-bip_39_word_underscore_1: inmate
-bip_39_word_underscore_10: inmate_fish_tower_organ_design_ignore_giraffe_disease_plug_chaos
-bip_39_word_underscore_11: inmate_fish_tower_organ_design_ignore_giraffe_disease_plug_chaos_avoid
 bip_39_word_underscore_12: inmate_fish_tower_organ_design_ignore_giraffe_disease_plug_chaos_avoid_asthma
 bip_39_word_underscore_2: inmate_fish
 bip_39_word_underscore_3: inmate_fish_tower
-bip_39_word_underscore_4: inmate_fish_tower_organ
-bip_39_word_underscore_5: inmate_fish_tower_organ_design
-bip_39_word_underscore_6: inmate_fish_tower_organ_design_ignore
-bip_39_word_underscore_7: inmate_fish_tower_organ_design_ignore_giraffe
-bip_39_word_underscore_8: inmate_fish_tower_organ_design_ignore_giraffe_disease
-bip_39_word_underscore_9: inmate_fish_tower_organ_design_ignore_giraffe_disease_plug
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

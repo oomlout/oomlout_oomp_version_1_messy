@@ -1,68 +1,9 @@
-bip_39_word_dash_1: anchor
-bip_39_word_dash_10: anchor-gloom-envelope-wing-damage-author-van-mean-start-auto
-bip_39_word_dash_11: anchor-gloom-envelope-wing-damage-author-van-mean-start-auto-thunder
 bip_39_word_dash_12: anchor-gloom-envelope-wing-damage-author-van-mean-start-auto-thunder-audit
 bip_39_word_dash_2: anchor-gloom
 bip_39_word_dash_3: anchor-gloom-envelope
-bip_39_word_dash_4: anchor-gloom-envelope-wing
-bip_39_word_dash_5: anchor-gloom-envelope-wing-damage
-bip_39_word_dash_6: anchor-gloom-envelope-wing-damage-author
-bip_39_word_dash_7: anchor-gloom-envelope-wing-damage-author-van
-bip_39_word_dash_8: anchor-gloom-envelope-wing-damage-author-van-mean
-bip_39_word_dash_9: anchor-gloom-envelope-wing-damage-author-van-mean-start
-bip_39_word_new_br_1: anchor
-bip_39_word_new_br_10: anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto
-bip_39_word_new_br_11: anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto<br>thunder
 bip_39_word_new_br_12: anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start<br>auto<br>thunder<br>audit
 bip_39_word_new_br_2: anchor<br>gloom
 bip_39_word_new_br_3: anchor<br>gloom<br>envelope
-bip_39_word_new_br_4: anchor<br>gloom<br>envelope<br>wing
-bip_39_word_new_br_5: anchor<br>gloom<br>envelope<br>wing<br>damage
-bip_39_word_new_br_6: anchor<br>gloom<br>envelope<br>wing<br>damage<br>author
-bip_39_word_new_br_7: anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van
-bip_39_word_new_br_8: anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean
-bip_39_word_new_br_9: anchor<br>gloom<br>envelope<br>wing<br>damage<br>author<br>van<br>mean<br>start
-bip_39_word_new_line_1: anchor
-bip_39_word_new_line_10: 'anchor
-
-  gloom
-
-  envelope
-
-  wing
-
-  damage
-
-  author
-
-  van
-
-  mean
-
-  start
-
-  auto'
-bip_39_word_new_line_11: 'anchor
-
-  gloom
-
-  envelope
-
-  wing
-
-  damage
-
-  author
-
-  van
-
-  mean
-
-  start
-
-  auto
-
-  thunder'
 bip_39_word_new_line_12: 'anchor
 
   gloom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'anchor
   gloom
 
   envelope'
-bip_39_word_new_line_4: 'anchor
-
-  gloom
-
-  envelope
-
-  wing'
-bip_39_word_new_line_5: 'anchor
-
-  gloom
-
-  envelope
-
-  wing
-
-  damage'
-bip_39_word_new_line_6: 'anchor
-
-  gloom
-
-  envelope
-
-  wing
-
-  damage
-
-  author'
-bip_39_word_new_line_7: 'anchor
-
-  gloom
-
-  envelope
-
-  wing
-
-  damage
-
-  author
-
-  van'
-bip_39_word_new_line_8: 'anchor
-
-  gloom
-
-  envelope
-
-  wing
-
-  damage
-
-  author
-
-  van
-
-  mean'
-bip_39_word_new_line_9: 'anchor
-
-  gloom
-
-  envelope
-
-  wing
-
-  damage
-
-  author
-
-  van
-
-  mean
-
-  start'
-bip_39_word_no_space_1: anchor
-bip_39_word_no_space_10: anchorgloomenvelopewingdamageauthorvanmeanstartauto
-bip_39_word_no_space_11: anchorgloomenvelopewingdamageauthorvanmeanstartautothunder
 bip_39_word_no_space_12: anchorgloomenvelopewingdamageauthorvanmeanstartautothunderaudit
 bip_39_word_no_space_2: anchorgloom
 bip_39_word_no_space_3: anchorgloomenvelope
-bip_39_word_no_space_4: anchorgloomenvelopewing
-bip_39_word_no_space_5: anchorgloomenvelopewingdamage
-bip_39_word_no_space_6: anchorgloomenvelopewingdamageauthor
-bip_39_word_no_space_7: anchorgloomenvelopewingdamageauthorvan
-bip_39_word_no_space_8: anchorgloomenvelopewingdamageauthorvanmean
-bip_39_word_no_space_9: anchorgloomenvelopewingdamageauthorvanmeanstart
-bip_39_word_space_0:
-- anchor
-- gloom
-- envelope
-- wing
-- damage
-- author
-- van
-- mean
-- start
-- auto
-- thunder
-- audit
-bip_39_word_space_1: anchor
-bip_39_word_space_10: anchor gloom envelope wing damage author van mean start auto
-bip_39_word_space_11: anchor gloom envelope wing damage author van mean start auto
-  thunder
 bip_39_word_space_12: anchor gloom envelope wing damage author van mean start auto
   thunder audit
 bip_39_word_space_2: anchor gloom
 bip_39_word_space_3: anchor gloom envelope
-bip_39_word_space_4: anchor gloom envelope wing
-bip_39_word_space_5: anchor gloom envelope wing damage
-bip_39_word_space_6: anchor gloom envelope wing damage author
-bip_39_word_space_7: anchor gloom envelope wing damage author van
-bip_39_word_space_8: anchor gloom envelope wing damage author van mean
-bip_39_word_space_9: anchor gloom envelope wing damage author van mean start
-bip_39_word_underscore_1: anchor
-bip_39_word_underscore_10: anchor_gloom_envelope_wing_damage_author_van_mean_start_auto
-bip_39_word_underscore_11: anchor_gloom_envelope_wing_damage_author_van_mean_start_auto_thunder
 bip_39_word_underscore_12: anchor_gloom_envelope_wing_damage_author_van_mean_start_auto_thunder_audit
 bip_39_word_underscore_2: anchor_gloom
 bip_39_word_underscore_3: anchor_gloom_envelope
-bip_39_word_underscore_4: anchor_gloom_envelope_wing
-bip_39_word_underscore_5: anchor_gloom_envelope_wing_damage
-bip_39_word_underscore_6: anchor_gloom_envelope_wing_damage_author
-bip_39_word_underscore_7: anchor_gloom_envelope_wing_damage_author_van
-bip_39_word_underscore_8: anchor_gloom_envelope_wing_damage_author_van_mean
-bip_39_word_underscore_9: anchor_gloom_envelope_wing_damage_author_van_mean_start
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

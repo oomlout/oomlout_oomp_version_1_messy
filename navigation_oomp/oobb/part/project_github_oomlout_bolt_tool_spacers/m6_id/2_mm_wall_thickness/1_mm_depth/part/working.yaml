@@ -1,68 +1,9 @@
-bip_39_word_dash_1: assume
-bip_39_word_dash_10: assume-grain-parent-robot-unveil-bird-track-huge-math-magic
-bip_39_word_dash_11: assume-grain-parent-robot-unveil-bird-track-huge-math-magic-gold
 bip_39_word_dash_12: assume-grain-parent-robot-unveil-bird-track-huge-math-magic-gold-air
 bip_39_word_dash_2: assume-grain
 bip_39_word_dash_3: assume-grain-parent
-bip_39_word_dash_4: assume-grain-parent-robot
-bip_39_word_dash_5: assume-grain-parent-robot-unveil
-bip_39_word_dash_6: assume-grain-parent-robot-unveil-bird
-bip_39_word_dash_7: assume-grain-parent-robot-unveil-bird-track
-bip_39_word_dash_8: assume-grain-parent-robot-unveil-bird-track-huge
-bip_39_word_dash_9: assume-grain-parent-robot-unveil-bird-track-huge-math
-bip_39_word_new_br_1: assume
-bip_39_word_new_br_10: assume<br>grain<br>parent<br>robot<br>unveil<br>bird<br>track<br>huge<br>math<br>magic
-bip_39_word_new_br_11: assume<br>grain<br>parent<br>robot<br>unveil<br>bird<br>track<br>huge<br>math<br>magic<br>gold
 bip_39_word_new_br_12: assume<br>grain<br>parent<br>robot<br>unveil<br>bird<br>track<br>huge<br>math<br>magic<br>gold<br>air
 bip_39_word_new_br_2: assume<br>grain
 bip_39_word_new_br_3: assume<br>grain<br>parent
-bip_39_word_new_br_4: assume<br>grain<br>parent<br>robot
-bip_39_word_new_br_5: assume<br>grain<br>parent<br>robot<br>unveil
-bip_39_word_new_br_6: assume<br>grain<br>parent<br>robot<br>unveil<br>bird
-bip_39_word_new_br_7: assume<br>grain<br>parent<br>robot<br>unveil<br>bird<br>track
-bip_39_word_new_br_8: assume<br>grain<br>parent<br>robot<br>unveil<br>bird<br>track<br>huge
-bip_39_word_new_br_9: assume<br>grain<br>parent<br>robot<br>unveil<br>bird<br>track<br>huge<br>math
-bip_39_word_new_line_1: assume
-bip_39_word_new_line_10: 'assume
-
-  grain
-
-  parent
-
-  robot
-
-  unveil
-
-  bird
-
-  track
-
-  huge
-
-  math
-
-  magic'
-bip_39_word_new_line_11: 'assume
-
-  grain
-
-  parent
-
-  robot
-
-  unveil
-
-  bird
-
-  track
-
-  huge
-
-  math
-
-  magic
-
-  gold'
 bip_39_word_new_line_12: 'assume
 
   grain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'assume
   grain
 
   parent'
-bip_39_word_new_line_4: 'assume
-
-  grain
-
-  parent
-
-  robot'
-bip_39_word_new_line_5: 'assume
-
-  grain
-
-  parent
-
-  robot
-
-  unveil'
-bip_39_word_new_line_6: 'assume
-
-  grain
-
-  parent
-
-  robot
-
-  unveil
-
-  bird'
-bip_39_word_new_line_7: 'assume
-
-  grain
-
-  parent
-
-  robot
-
-  unveil
-
-  bird
-
-  track'
-bip_39_word_new_line_8: 'assume
-
-  grain
-
-  parent
-
-  robot
-
-  unveil
-
-  bird
-
-  track
-
-  huge'
-bip_39_word_new_line_9: 'assume
-
-  grain
-
-  parent
-
-  robot
-
-  unveil
-
-  bird
-
-  track
-
-  huge
-
-  math'
-bip_39_word_no_space_1: assume
-bip_39_word_no_space_10: assumegrainparentrobotunveilbirdtrackhugemathmagic
-bip_39_word_no_space_11: assumegrainparentrobotunveilbirdtrackhugemathmagicgold
 bip_39_word_no_space_12: assumegrainparentrobotunveilbirdtrackhugemathmagicgoldair
 bip_39_word_no_space_2: assumegrain
 bip_39_word_no_space_3: assumegrainparent
-bip_39_word_no_space_4: assumegrainparentrobot
-bip_39_word_no_space_5: assumegrainparentrobotunveil
-bip_39_word_no_space_6: assumegrainparentrobotunveilbird
-bip_39_word_no_space_7: assumegrainparentrobotunveilbirdtrack
-bip_39_word_no_space_8: assumegrainparentrobotunveilbirdtrackhuge
-bip_39_word_no_space_9: assumegrainparentrobotunveilbirdtrackhugemath
-bip_39_word_space_0:
-- assume
-- grain
-- parent
-- robot
-- unveil
-- bird
-- track
-- huge
-- math
-- magic
-- gold
-- air
-bip_39_word_space_1: assume
-bip_39_word_space_10: assume grain parent robot unveil bird track huge math magic
-bip_39_word_space_11: assume grain parent robot unveil bird track huge math magic
-  gold
 bip_39_word_space_12: assume grain parent robot unveil bird track huge math magic
   gold air
 bip_39_word_space_2: assume grain
 bip_39_word_space_3: assume grain parent
-bip_39_word_space_4: assume grain parent robot
-bip_39_word_space_5: assume grain parent robot unveil
-bip_39_word_space_6: assume grain parent robot unveil bird
-bip_39_word_space_7: assume grain parent robot unveil bird track
-bip_39_word_space_8: assume grain parent robot unveil bird track huge
-bip_39_word_space_9: assume grain parent robot unveil bird track huge math
-bip_39_word_underscore_1: assume
-bip_39_word_underscore_10: assume_grain_parent_robot_unveil_bird_track_huge_math_magic
-bip_39_word_underscore_11: assume_grain_parent_robot_unveil_bird_track_huge_math_magic_gold
 bip_39_word_underscore_12: assume_grain_parent_robot_unveil_bird_track_huge_math_magic_gold_air
 bip_39_word_underscore_2: assume_grain
 bip_39_word_underscore_3: assume_grain_parent
-bip_39_word_underscore_4: assume_grain_parent_robot
-bip_39_word_underscore_5: assume_grain_parent_robot_unveil
-bip_39_word_underscore_6: assume_grain_parent_robot_unveil_bird
-bip_39_word_underscore_7: assume_grain_parent_robot_unveil_bird_track
-bip_39_word_underscore_8: assume_grain_parent_robot_unveil_bird_track_huge
-bip_39_word_underscore_9: assume_grain_parent_robot_unveil_bird_track_huge_math
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

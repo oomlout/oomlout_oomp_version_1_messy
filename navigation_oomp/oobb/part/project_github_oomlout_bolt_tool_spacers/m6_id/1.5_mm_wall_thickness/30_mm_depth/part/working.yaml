@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unveil
-bip_39_word_dash_10: unveil-nominee-fragile-demand-proof-area-void-decorate-transfer-gain
-bip_39_word_dash_11: unveil-nominee-fragile-demand-proof-area-void-decorate-transfer-gain-impact
 bip_39_word_dash_12: unveil-nominee-fragile-demand-proof-area-void-decorate-transfer-gain-impact-area
 bip_39_word_dash_2: unveil-nominee
 bip_39_word_dash_3: unveil-nominee-fragile
-bip_39_word_dash_4: unveil-nominee-fragile-demand
-bip_39_word_dash_5: unveil-nominee-fragile-demand-proof
-bip_39_word_dash_6: unveil-nominee-fragile-demand-proof-area
-bip_39_word_dash_7: unveil-nominee-fragile-demand-proof-area-void
-bip_39_word_dash_8: unveil-nominee-fragile-demand-proof-area-void-decorate
-bip_39_word_dash_9: unveil-nominee-fragile-demand-proof-area-void-decorate-transfer
-bip_39_word_new_br_1: unveil
-bip_39_word_new_br_10: unveil<br>nominee<br>fragile<br>demand<br>proof<br>area<br>void<br>decorate<br>transfer<br>gain
-bip_39_word_new_br_11: unveil<br>nominee<br>fragile<br>demand<br>proof<br>area<br>void<br>decorate<br>transfer<br>gain<br>impact
 bip_39_word_new_br_12: unveil<br>nominee<br>fragile<br>demand<br>proof<br>area<br>void<br>decorate<br>transfer<br>gain<br>impact<br>area
 bip_39_word_new_br_2: unveil<br>nominee
 bip_39_word_new_br_3: unveil<br>nominee<br>fragile
-bip_39_word_new_br_4: unveil<br>nominee<br>fragile<br>demand
-bip_39_word_new_br_5: unveil<br>nominee<br>fragile<br>demand<br>proof
-bip_39_word_new_br_6: unveil<br>nominee<br>fragile<br>demand<br>proof<br>area
-bip_39_word_new_br_7: unveil<br>nominee<br>fragile<br>demand<br>proof<br>area<br>void
-bip_39_word_new_br_8: unveil<br>nominee<br>fragile<br>demand<br>proof<br>area<br>void<br>decorate
-bip_39_word_new_br_9: unveil<br>nominee<br>fragile<br>demand<br>proof<br>area<br>void<br>decorate<br>transfer
-bip_39_word_new_line_1: unveil
-bip_39_word_new_line_10: 'unveil
-
-  nominee
-
-  fragile
-
-  demand
-
-  proof
-
-  area
-
-  void
-
-  decorate
-
-  transfer
-
-  gain'
-bip_39_word_new_line_11: 'unveil
-
-  nominee
-
-  fragile
-
-  demand
-
-  proof
-
-  area
-
-  void
-
-  decorate
-
-  transfer
-
-  gain
-
-  impact'
 bip_39_word_new_line_12: 'unveil
 
   nominee
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'unveil
   nominee
 
   fragile'
-bip_39_word_new_line_4: 'unveil
-
-  nominee
-
-  fragile
-
-  demand'
-bip_39_word_new_line_5: 'unveil
-
-  nominee
-
-  fragile
-
-  demand
-
-  proof'
-bip_39_word_new_line_6: 'unveil
-
-  nominee
-
-  fragile
-
-  demand
-
-  proof
-
-  area'
-bip_39_word_new_line_7: 'unveil
-
-  nominee
-
-  fragile
-
-  demand
-
-  proof
-
-  area
-
-  void'
-bip_39_word_new_line_8: 'unveil
-
-  nominee
-
-  fragile
-
-  demand
-
-  proof
-
-  area
-
-  void
-
-  decorate'
-bip_39_word_new_line_9: 'unveil
-
-  nominee
-
-  fragile
-
-  demand
-
-  proof
-
-  area
-
-  void
-
-  decorate
-
-  transfer'
-bip_39_word_no_space_1: unveil
-bip_39_word_no_space_10: unveilnomineefragiledemandproofareavoiddecoratetransfergain
-bip_39_word_no_space_11: unveilnomineefragiledemandproofareavoiddecoratetransfergainimpact
 bip_39_word_no_space_12: unveilnomineefragiledemandproofareavoiddecoratetransfergainimpactarea
 bip_39_word_no_space_2: unveilnominee
 bip_39_word_no_space_3: unveilnomineefragile
-bip_39_word_no_space_4: unveilnomineefragiledemand
-bip_39_word_no_space_5: unveilnomineefragiledemandproof
-bip_39_word_no_space_6: unveilnomineefragiledemandproofarea
-bip_39_word_no_space_7: unveilnomineefragiledemandproofareavoid
-bip_39_word_no_space_8: unveilnomineefragiledemandproofareavoiddecorate
-bip_39_word_no_space_9: unveilnomineefragiledemandproofareavoiddecoratetransfer
-bip_39_word_space_0:
-- unveil
-- nominee
-- fragile
-- demand
-- proof
-- area
-- void
-- decorate
-- transfer
-- gain
-- impact
-- area
-bip_39_word_space_1: unveil
-bip_39_word_space_10: unveil nominee fragile demand proof area void decorate transfer
-  gain
-bip_39_word_space_11: unveil nominee fragile demand proof area void decorate transfer
-  gain impact
 bip_39_word_space_12: unveil nominee fragile demand proof area void decorate transfer
   gain impact area
 bip_39_word_space_2: unveil nominee
 bip_39_word_space_3: unveil nominee fragile
-bip_39_word_space_4: unveil nominee fragile demand
-bip_39_word_space_5: unveil nominee fragile demand proof
-bip_39_word_space_6: unveil nominee fragile demand proof area
-bip_39_word_space_7: unveil nominee fragile demand proof area void
-bip_39_word_space_8: unveil nominee fragile demand proof area void decorate
-bip_39_word_space_9: unveil nominee fragile demand proof area void decorate transfer
-bip_39_word_underscore_1: unveil
-bip_39_word_underscore_10: unveil_nominee_fragile_demand_proof_area_void_decorate_transfer_gain
-bip_39_word_underscore_11: unveil_nominee_fragile_demand_proof_area_void_decorate_transfer_gain_impact
 bip_39_word_underscore_12: unveil_nominee_fragile_demand_proof_area_void_decorate_transfer_gain_impact_area
 bip_39_word_underscore_2: unveil_nominee
 bip_39_word_underscore_3: unveil_nominee_fragile
-bip_39_word_underscore_4: unveil_nominee_fragile_demand
-bip_39_word_underscore_5: unveil_nominee_fragile_demand_proof
-bip_39_word_underscore_6: unveil_nominee_fragile_demand_proof_area
-bip_39_word_underscore_7: unveil_nominee_fragile_demand_proof_area_void
-bip_39_word_underscore_8: unveil_nominee_fragile_demand_proof_area_void_decorate
-bip_39_word_underscore_9: unveil_nominee_fragile_demand_proof_area_void_decorate_transfer
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

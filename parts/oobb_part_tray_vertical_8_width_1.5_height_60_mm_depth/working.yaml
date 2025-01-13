@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cycle
-bip_39_word_dash_10: cycle-hire-glove-target-trigger-leave-hole-coral-goddess-kitchen
-bip_39_word_dash_11: cycle-hire-glove-target-trigger-leave-hole-coral-goddess-kitchen-prevent
 bip_39_word_dash_12: cycle-hire-glove-target-trigger-leave-hole-coral-goddess-kitchen-prevent-agree
 bip_39_word_dash_2: cycle-hire
 bip_39_word_dash_3: cycle-hire-glove
-bip_39_word_dash_4: cycle-hire-glove-target
-bip_39_word_dash_5: cycle-hire-glove-target-trigger
-bip_39_word_dash_6: cycle-hire-glove-target-trigger-leave
-bip_39_word_dash_7: cycle-hire-glove-target-trigger-leave-hole
-bip_39_word_dash_8: cycle-hire-glove-target-trigger-leave-hole-coral
-bip_39_word_dash_9: cycle-hire-glove-target-trigger-leave-hole-coral-goddess
-bip_39_word_new_br_1: cycle
-bip_39_word_new_br_10: cycle<br>hire<br>glove<br>target<br>trigger<br>leave<br>hole<br>coral<br>goddess<br>kitchen
-bip_39_word_new_br_11: cycle<br>hire<br>glove<br>target<br>trigger<br>leave<br>hole<br>coral<br>goddess<br>kitchen<br>prevent
 bip_39_word_new_br_12: cycle<br>hire<br>glove<br>target<br>trigger<br>leave<br>hole<br>coral<br>goddess<br>kitchen<br>prevent<br>agree
 bip_39_word_new_br_2: cycle<br>hire
 bip_39_word_new_br_3: cycle<br>hire<br>glove
-bip_39_word_new_br_4: cycle<br>hire<br>glove<br>target
-bip_39_word_new_br_5: cycle<br>hire<br>glove<br>target<br>trigger
-bip_39_word_new_br_6: cycle<br>hire<br>glove<br>target<br>trigger<br>leave
-bip_39_word_new_br_7: cycle<br>hire<br>glove<br>target<br>trigger<br>leave<br>hole
-bip_39_word_new_br_8: cycle<br>hire<br>glove<br>target<br>trigger<br>leave<br>hole<br>coral
-bip_39_word_new_br_9: cycle<br>hire<br>glove<br>target<br>trigger<br>leave<br>hole<br>coral<br>goddess
-bip_39_word_new_line_1: cycle
-bip_39_word_new_line_10: 'cycle
-
-  hire
-
-  glove
-
-  target
-
-  trigger
-
-  leave
-
-  hole
-
-  coral
-
-  goddess
-
-  kitchen'
-bip_39_word_new_line_11: 'cycle
-
-  hire
-
-  glove
-
-  target
-
-  trigger
-
-  leave
-
-  hole
-
-  coral
-
-  goddess
-
-  kitchen
-
-  prevent'
 bip_39_word_new_line_12: 'cycle
 
   hire
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cycle
   hire
 
   glove'
-bip_39_word_new_line_4: 'cycle
-
-  hire
-
-  glove
-
-  target'
-bip_39_word_new_line_5: 'cycle
-
-  hire
-
-  glove
-
-  target
-
-  trigger'
-bip_39_word_new_line_6: 'cycle
-
-  hire
-
-  glove
-
-  target
-
-  trigger
-
-  leave'
-bip_39_word_new_line_7: 'cycle
-
-  hire
-
-  glove
-
-  target
-
-  trigger
-
-  leave
-
-  hole'
-bip_39_word_new_line_8: 'cycle
-
-  hire
-
-  glove
-
-  target
-
-  trigger
-
-  leave
-
-  hole
-
-  coral'
-bip_39_word_new_line_9: 'cycle
-
-  hire
-
-  glove
-
-  target
-
-  trigger
-
-  leave
-
-  hole
-
-  coral
-
-  goddess'
-bip_39_word_no_space_1: cycle
-bip_39_word_no_space_10: cyclehireglovetargettriggerleaveholecoralgoddesskitchen
-bip_39_word_no_space_11: cyclehireglovetargettriggerleaveholecoralgoddesskitchenprevent
 bip_39_word_no_space_12: cyclehireglovetargettriggerleaveholecoralgoddesskitchenpreventagree
 bip_39_word_no_space_2: cyclehire
 bip_39_word_no_space_3: cyclehireglove
-bip_39_word_no_space_4: cyclehireglovetarget
-bip_39_word_no_space_5: cyclehireglovetargettrigger
-bip_39_word_no_space_6: cyclehireglovetargettriggerleave
-bip_39_word_no_space_7: cyclehireglovetargettriggerleavehole
-bip_39_word_no_space_8: cyclehireglovetargettriggerleaveholecoral
-bip_39_word_no_space_9: cyclehireglovetargettriggerleaveholecoralgoddess
-bip_39_word_space_0:
-- cycle
-- hire
-- glove
-- target
-- trigger
-- leave
-- hole
-- coral
-- goddess
-- kitchen
-- prevent
-- agree
-bip_39_word_space_1: cycle
-bip_39_word_space_10: cycle hire glove target trigger leave hole coral goddess kitchen
-bip_39_word_space_11: cycle hire glove target trigger leave hole coral goddess kitchen
-  prevent
 bip_39_word_space_12: cycle hire glove target trigger leave hole coral goddess kitchen
   prevent agree
 bip_39_word_space_2: cycle hire
 bip_39_word_space_3: cycle hire glove
-bip_39_word_space_4: cycle hire glove target
-bip_39_word_space_5: cycle hire glove target trigger
-bip_39_word_space_6: cycle hire glove target trigger leave
-bip_39_word_space_7: cycle hire glove target trigger leave hole
-bip_39_word_space_8: cycle hire glove target trigger leave hole coral
-bip_39_word_space_9: cycle hire glove target trigger leave hole coral goddess
-bip_39_word_underscore_1: cycle
-bip_39_word_underscore_10: cycle_hire_glove_target_trigger_leave_hole_coral_goddess_kitchen
-bip_39_word_underscore_11: cycle_hire_glove_target_trigger_leave_hole_coral_goddess_kitchen_prevent
 bip_39_word_underscore_12: cycle_hire_glove_target_trigger_leave_hole_coral_goddess_kitchen_prevent_agree
 bip_39_word_underscore_2: cycle_hire
 bip_39_word_underscore_3: cycle_hire_glove
-bip_39_word_underscore_4: cycle_hire_glove_target
-bip_39_word_underscore_5: cycle_hire_glove_target_trigger
-bip_39_word_underscore_6: cycle_hire_glove_target_trigger_leave
-bip_39_word_underscore_7: cycle_hire_glove_target_trigger_leave_hole
-bip_39_word_underscore_8: cycle_hire_glove_target_trigger_leave_hole_coral
-bip_39_word_underscore_9: cycle_hire_glove_target_trigger_leave_hole_coral_goddess
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

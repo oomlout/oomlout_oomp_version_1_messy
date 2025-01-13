@@ -1,68 +1,9 @@
-bip_39_word_dash_1: when
-bip_39_word_dash_10: when-cram-card-obvious-issue-garbage-box-exile-found-mansion
-bip_39_word_dash_11: when-cram-card-obvious-issue-garbage-box-exile-found-mansion-stool
 bip_39_word_dash_12: when-cram-card-obvious-issue-garbage-box-exile-found-mansion-stool-advance
 bip_39_word_dash_2: when-cram
 bip_39_word_dash_3: when-cram-card
-bip_39_word_dash_4: when-cram-card-obvious
-bip_39_word_dash_5: when-cram-card-obvious-issue
-bip_39_word_dash_6: when-cram-card-obvious-issue-garbage
-bip_39_word_dash_7: when-cram-card-obvious-issue-garbage-box
-bip_39_word_dash_8: when-cram-card-obvious-issue-garbage-box-exile
-bip_39_word_dash_9: when-cram-card-obvious-issue-garbage-box-exile-found
-bip_39_word_new_br_1: when
-bip_39_word_new_br_10: when<br>cram<br>card<br>obvious<br>issue<br>garbage<br>box<br>exile<br>found<br>mansion
-bip_39_word_new_br_11: when<br>cram<br>card<br>obvious<br>issue<br>garbage<br>box<br>exile<br>found<br>mansion<br>stool
 bip_39_word_new_br_12: when<br>cram<br>card<br>obvious<br>issue<br>garbage<br>box<br>exile<br>found<br>mansion<br>stool<br>advance
 bip_39_word_new_br_2: when<br>cram
 bip_39_word_new_br_3: when<br>cram<br>card
-bip_39_word_new_br_4: when<br>cram<br>card<br>obvious
-bip_39_word_new_br_5: when<br>cram<br>card<br>obvious<br>issue
-bip_39_word_new_br_6: when<br>cram<br>card<br>obvious<br>issue<br>garbage
-bip_39_word_new_br_7: when<br>cram<br>card<br>obvious<br>issue<br>garbage<br>box
-bip_39_word_new_br_8: when<br>cram<br>card<br>obvious<br>issue<br>garbage<br>box<br>exile
-bip_39_word_new_br_9: when<br>cram<br>card<br>obvious<br>issue<br>garbage<br>box<br>exile<br>found
-bip_39_word_new_line_1: when
-bip_39_word_new_line_10: 'when
-
-  cram
-
-  card
-
-  obvious
-
-  issue
-
-  garbage
-
-  box
-
-  exile
-
-  found
-
-  mansion'
-bip_39_word_new_line_11: 'when
-
-  cram
-
-  card
-
-  obvious
-
-  issue
-
-  garbage
-
-  box
-
-  exile
-
-  found
-
-  mansion
-
-  stool'
 bip_39_word_new_line_12: 'when
 
   cram
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'when
   cram
 
   card'
-bip_39_word_new_line_4: 'when
-
-  cram
-
-  card
-
-  obvious'
-bip_39_word_new_line_5: 'when
-
-  cram
-
-  card
-
-  obvious
-
-  issue'
-bip_39_word_new_line_6: 'when
-
-  cram
-
-  card
-
-  obvious
-
-  issue
-
-  garbage'
-bip_39_word_new_line_7: 'when
-
-  cram
-
-  card
-
-  obvious
-
-  issue
-
-  garbage
-
-  box'
-bip_39_word_new_line_8: 'when
-
-  cram
-
-  card
-
-  obvious
-
-  issue
-
-  garbage
-
-  box
-
-  exile'
-bip_39_word_new_line_9: 'when
-
-  cram
-
-  card
-
-  obvious
-
-  issue
-
-  garbage
-
-  box
-
-  exile
-
-  found'
-bip_39_word_no_space_1: when
-bip_39_word_no_space_10: whencramcardobviousissuegarbageboxexilefoundmansion
-bip_39_word_no_space_11: whencramcardobviousissuegarbageboxexilefoundmansionstool
 bip_39_word_no_space_12: whencramcardobviousissuegarbageboxexilefoundmansionstooladvance
 bip_39_word_no_space_2: whencram
 bip_39_word_no_space_3: whencramcard
-bip_39_word_no_space_4: whencramcardobvious
-bip_39_word_no_space_5: whencramcardobviousissue
-bip_39_word_no_space_6: whencramcardobviousissuegarbage
-bip_39_word_no_space_7: whencramcardobviousissuegarbagebox
-bip_39_word_no_space_8: whencramcardobviousissuegarbageboxexile
-bip_39_word_no_space_9: whencramcardobviousissuegarbageboxexilefound
-bip_39_word_space_0:
-- when
-- cram
-- card
-- obvious
-- issue
-- garbage
-- box
-- exile
-- found
-- mansion
-- stool
-- advance
-bip_39_word_space_1: when
-bip_39_word_space_10: when cram card obvious issue garbage box exile found mansion
-bip_39_word_space_11: when cram card obvious issue garbage box exile found mansion
-  stool
 bip_39_word_space_12: when cram card obvious issue garbage box exile found mansion
   stool advance
 bip_39_word_space_2: when cram
 bip_39_word_space_3: when cram card
-bip_39_word_space_4: when cram card obvious
-bip_39_word_space_5: when cram card obvious issue
-bip_39_word_space_6: when cram card obvious issue garbage
-bip_39_word_space_7: when cram card obvious issue garbage box
-bip_39_word_space_8: when cram card obvious issue garbage box exile
-bip_39_word_space_9: when cram card obvious issue garbage box exile found
-bip_39_word_underscore_1: when
-bip_39_word_underscore_10: when_cram_card_obvious_issue_garbage_box_exile_found_mansion
-bip_39_word_underscore_11: when_cram_card_obvious_issue_garbage_box_exile_found_mansion_stool
 bip_39_word_underscore_12: when_cram_card_obvious_issue_garbage_box_exile_found_mansion_stool_advance
 bip_39_word_underscore_2: when_cram
 bip_39_word_underscore_3: when_cram_card
-bip_39_word_underscore_4: when_cram_card_obvious
-bip_39_word_underscore_5: when_cram_card_obvious_issue
-bip_39_word_underscore_6: when_cram_card_obvious_issue_garbage
-bip_39_word_underscore_7: when_cram_card_obvious_issue_garbage_box
-bip_39_word_underscore_8: when_cram_card_obvious_issue_garbage_box_exile
-bip_39_word_underscore_9: when_cram_card_obvious_issue_garbage_box_exile_found
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

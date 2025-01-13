@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pig
-bip_39_word_dash_10: pig-dwarf-visa-staff-lab-rookie-problem-lady-boring-garden
-bip_39_word_dash_11: pig-dwarf-visa-staff-lab-rookie-problem-lady-boring-garden-damage
 bip_39_word_dash_12: pig-dwarf-visa-staff-lab-rookie-problem-lady-boring-garden-damage-acoustic
 bip_39_word_dash_2: pig-dwarf
 bip_39_word_dash_3: pig-dwarf-visa
-bip_39_word_dash_4: pig-dwarf-visa-staff
-bip_39_word_dash_5: pig-dwarf-visa-staff-lab
-bip_39_word_dash_6: pig-dwarf-visa-staff-lab-rookie
-bip_39_word_dash_7: pig-dwarf-visa-staff-lab-rookie-problem
-bip_39_word_dash_8: pig-dwarf-visa-staff-lab-rookie-problem-lady
-bip_39_word_dash_9: pig-dwarf-visa-staff-lab-rookie-problem-lady-boring
-bip_39_word_new_br_1: pig
-bip_39_word_new_br_10: pig<br>dwarf<br>visa<br>staff<br>lab<br>rookie<br>problem<br>lady<br>boring<br>garden
-bip_39_word_new_br_11: pig<br>dwarf<br>visa<br>staff<br>lab<br>rookie<br>problem<br>lady<br>boring<br>garden<br>damage
 bip_39_word_new_br_12: pig<br>dwarf<br>visa<br>staff<br>lab<br>rookie<br>problem<br>lady<br>boring<br>garden<br>damage<br>acoustic
 bip_39_word_new_br_2: pig<br>dwarf
 bip_39_word_new_br_3: pig<br>dwarf<br>visa
-bip_39_word_new_br_4: pig<br>dwarf<br>visa<br>staff
-bip_39_word_new_br_5: pig<br>dwarf<br>visa<br>staff<br>lab
-bip_39_word_new_br_6: pig<br>dwarf<br>visa<br>staff<br>lab<br>rookie
-bip_39_word_new_br_7: pig<br>dwarf<br>visa<br>staff<br>lab<br>rookie<br>problem
-bip_39_word_new_br_8: pig<br>dwarf<br>visa<br>staff<br>lab<br>rookie<br>problem<br>lady
-bip_39_word_new_br_9: pig<br>dwarf<br>visa<br>staff<br>lab<br>rookie<br>problem<br>lady<br>boring
-bip_39_word_new_line_1: pig
-bip_39_word_new_line_10: 'pig
-
-  dwarf
-
-  visa
-
-  staff
-
-  lab
-
-  rookie
-
-  problem
-
-  lady
-
-  boring
-
-  garden'
-bip_39_word_new_line_11: 'pig
-
-  dwarf
-
-  visa
-
-  staff
-
-  lab
-
-  rookie
-
-  problem
-
-  lady
-
-  boring
-
-  garden
-
-  damage'
 bip_39_word_new_line_12: 'pig
 
   dwarf
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'pig
   dwarf
 
   visa'
-bip_39_word_new_line_4: 'pig
-
-  dwarf
-
-  visa
-
-  staff'
-bip_39_word_new_line_5: 'pig
-
-  dwarf
-
-  visa
-
-  staff
-
-  lab'
-bip_39_word_new_line_6: 'pig
-
-  dwarf
-
-  visa
-
-  staff
-
-  lab
-
-  rookie'
-bip_39_word_new_line_7: 'pig
-
-  dwarf
-
-  visa
-
-  staff
-
-  lab
-
-  rookie
-
-  problem'
-bip_39_word_new_line_8: 'pig
-
-  dwarf
-
-  visa
-
-  staff
-
-  lab
-
-  rookie
-
-  problem
-
-  lady'
-bip_39_word_new_line_9: 'pig
-
-  dwarf
-
-  visa
-
-  staff
-
-  lab
-
-  rookie
-
-  problem
-
-  lady
-
-  boring'
-bip_39_word_no_space_1: pig
-bip_39_word_no_space_10: pigdwarfvisastafflabrookieproblemladyboringgarden
-bip_39_word_no_space_11: pigdwarfvisastafflabrookieproblemladyboringgardendamage
 bip_39_word_no_space_12: pigdwarfvisastafflabrookieproblemladyboringgardendamageacoustic
 bip_39_word_no_space_2: pigdwarf
 bip_39_word_no_space_3: pigdwarfvisa
-bip_39_word_no_space_4: pigdwarfvisastaff
-bip_39_word_no_space_5: pigdwarfvisastafflab
-bip_39_word_no_space_6: pigdwarfvisastafflabrookie
-bip_39_word_no_space_7: pigdwarfvisastafflabrookieproblem
-bip_39_word_no_space_8: pigdwarfvisastafflabrookieproblemlady
-bip_39_word_no_space_9: pigdwarfvisastafflabrookieproblemladyboring
-bip_39_word_space_0:
-- pig
-- dwarf
-- visa
-- staff
-- lab
-- rookie
-- problem
-- lady
-- boring
-- garden
-- damage
-- acoustic
-bip_39_word_space_1: pig
-bip_39_word_space_10: pig dwarf visa staff lab rookie problem lady boring garden
-bip_39_word_space_11: pig dwarf visa staff lab rookie problem lady boring garden damage
 bip_39_word_space_12: pig dwarf visa staff lab rookie problem lady boring garden damage
   acoustic
 bip_39_word_space_2: pig dwarf
 bip_39_word_space_3: pig dwarf visa
-bip_39_word_space_4: pig dwarf visa staff
-bip_39_word_space_5: pig dwarf visa staff lab
-bip_39_word_space_6: pig dwarf visa staff lab rookie
-bip_39_word_space_7: pig dwarf visa staff lab rookie problem
-bip_39_word_space_8: pig dwarf visa staff lab rookie problem lady
-bip_39_word_space_9: pig dwarf visa staff lab rookie problem lady boring
-bip_39_word_underscore_1: pig
-bip_39_word_underscore_10: pig_dwarf_visa_staff_lab_rookie_problem_lady_boring_garden
-bip_39_word_underscore_11: pig_dwarf_visa_staff_lab_rookie_problem_lady_boring_garden_damage
 bip_39_word_underscore_12: pig_dwarf_visa_staff_lab_rookie_problem_lady_boring_garden_damage_acoustic
 bip_39_word_underscore_2: pig_dwarf
 bip_39_word_underscore_3: pig_dwarf_visa
-bip_39_word_underscore_4: pig_dwarf_visa_staff
-bip_39_word_underscore_5: pig_dwarf_visa_staff_lab
-bip_39_word_underscore_6: pig_dwarf_visa_staff_lab_rookie
-bip_39_word_underscore_7: pig_dwarf_visa_staff_lab_rookie_problem
-bip_39_word_underscore_8: pig_dwarf_visa_staff_lab_rookie_problem_lady
-bip_39_word_underscore_9: pig_dwarf_visa_staff_lab_rookie_problem_lady_boring
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

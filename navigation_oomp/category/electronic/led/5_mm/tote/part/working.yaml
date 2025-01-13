@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arena
-bip_39_word_dash_10: arena-scrap-home-swarm-depend-caution-sand-wild-immune-song
-bip_39_word_dash_11: arena-scrap-home-swarm-depend-caution-sand-wild-immune-song-sadness
 bip_39_word_dash_12: arena-scrap-home-swarm-depend-caution-sand-wild-immune-song-sadness-attitude
 bip_39_word_dash_2: arena-scrap
 bip_39_word_dash_3: arena-scrap-home
-bip_39_word_dash_4: arena-scrap-home-swarm
-bip_39_word_dash_5: arena-scrap-home-swarm-depend
-bip_39_word_dash_6: arena-scrap-home-swarm-depend-caution
-bip_39_word_dash_7: arena-scrap-home-swarm-depend-caution-sand
-bip_39_word_dash_8: arena-scrap-home-swarm-depend-caution-sand-wild
-bip_39_word_dash_9: arena-scrap-home-swarm-depend-caution-sand-wild-immune
-bip_39_word_new_br_1: arena
-bip_39_word_new_br_10: arena<br>scrap<br>home<br>swarm<br>depend<br>caution<br>sand<br>wild<br>immune<br>song
-bip_39_word_new_br_11: arena<br>scrap<br>home<br>swarm<br>depend<br>caution<br>sand<br>wild<br>immune<br>song<br>sadness
 bip_39_word_new_br_12: arena<br>scrap<br>home<br>swarm<br>depend<br>caution<br>sand<br>wild<br>immune<br>song<br>sadness<br>attitude
 bip_39_word_new_br_2: arena<br>scrap
 bip_39_word_new_br_3: arena<br>scrap<br>home
-bip_39_word_new_br_4: arena<br>scrap<br>home<br>swarm
-bip_39_word_new_br_5: arena<br>scrap<br>home<br>swarm<br>depend
-bip_39_word_new_br_6: arena<br>scrap<br>home<br>swarm<br>depend<br>caution
-bip_39_word_new_br_7: arena<br>scrap<br>home<br>swarm<br>depend<br>caution<br>sand
-bip_39_word_new_br_8: arena<br>scrap<br>home<br>swarm<br>depend<br>caution<br>sand<br>wild
-bip_39_word_new_br_9: arena<br>scrap<br>home<br>swarm<br>depend<br>caution<br>sand<br>wild<br>immune
-bip_39_word_new_line_1: arena
-bip_39_word_new_line_10: 'arena
-
-  scrap
-
-  home
-
-  swarm
-
-  depend
-
-  caution
-
-  sand
-
-  wild
-
-  immune
-
-  song'
-bip_39_word_new_line_11: 'arena
-
-  scrap
-
-  home
-
-  swarm
-
-  depend
-
-  caution
-
-  sand
-
-  wild
-
-  immune
-
-  song
-
-  sadness'
 bip_39_word_new_line_12: 'arena
 
   scrap
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'arena
   scrap
 
   home'
-bip_39_word_new_line_4: 'arena
-
-  scrap
-
-  home
-
-  swarm'
-bip_39_word_new_line_5: 'arena
-
-  scrap
-
-  home
-
-  swarm
-
-  depend'
-bip_39_word_new_line_6: 'arena
-
-  scrap
-
-  home
-
-  swarm
-
-  depend
-
-  caution'
-bip_39_word_new_line_7: 'arena
-
-  scrap
-
-  home
-
-  swarm
-
-  depend
-
-  caution
-
-  sand'
-bip_39_word_new_line_8: 'arena
-
-  scrap
-
-  home
-
-  swarm
-
-  depend
-
-  caution
-
-  sand
-
-  wild'
-bip_39_word_new_line_9: 'arena
-
-  scrap
-
-  home
-
-  swarm
-
-  depend
-
-  caution
-
-  sand
-
-  wild
-
-  immune'
-bip_39_word_no_space_1: arena
-bip_39_word_no_space_10: arenascraphomeswarmdependcautionsandwildimmunesong
-bip_39_word_no_space_11: arenascraphomeswarmdependcautionsandwildimmunesongsadness
 bip_39_word_no_space_12: arenascraphomeswarmdependcautionsandwildimmunesongsadnessattitude
 bip_39_word_no_space_2: arenascrap
 bip_39_word_no_space_3: arenascraphome
-bip_39_word_no_space_4: arenascraphomeswarm
-bip_39_word_no_space_5: arenascraphomeswarmdepend
-bip_39_word_no_space_6: arenascraphomeswarmdependcaution
-bip_39_word_no_space_7: arenascraphomeswarmdependcautionsand
-bip_39_word_no_space_8: arenascraphomeswarmdependcautionsandwild
-bip_39_word_no_space_9: arenascraphomeswarmdependcautionsandwildimmune
-bip_39_word_space_0:
-- arena
-- scrap
-- home
-- swarm
-- depend
-- caution
-- sand
-- wild
-- immune
-- song
-- sadness
-- attitude
-bip_39_word_space_1: arena
-bip_39_word_space_10: arena scrap home swarm depend caution sand wild immune song
-bip_39_word_space_11: arena scrap home swarm depend caution sand wild immune song
-  sadness
 bip_39_word_space_12: arena scrap home swarm depend caution sand wild immune song
   sadness attitude
 bip_39_word_space_2: arena scrap
 bip_39_word_space_3: arena scrap home
-bip_39_word_space_4: arena scrap home swarm
-bip_39_word_space_5: arena scrap home swarm depend
-bip_39_word_space_6: arena scrap home swarm depend caution
-bip_39_word_space_7: arena scrap home swarm depend caution sand
-bip_39_word_space_8: arena scrap home swarm depend caution sand wild
-bip_39_word_space_9: arena scrap home swarm depend caution sand wild immune
-bip_39_word_underscore_1: arena
-bip_39_word_underscore_10: arena_scrap_home_swarm_depend_caution_sand_wild_immune_song
-bip_39_word_underscore_11: arena_scrap_home_swarm_depend_caution_sand_wild_immune_song_sadness
 bip_39_word_underscore_12: arena_scrap_home_swarm_depend_caution_sand_wild_immune_song_sadness_attitude
 bip_39_word_underscore_2: arena_scrap
 bip_39_word_underscore_3: arena_scrap_home
-bip_39_word_underscore_4: arena_scrap_home_swarm
-bip_39_word_underscore_5: arena_scrap_home_swarm_depend
-bip_39_word_underscore_6: arena_scrap_home_swarm_depend_caution
-bip_39_word_underscore_7: arena_scrap_home_swarm_depend_caution_sand
-bip_39_word_underscore_8: arena_scrap_home_swarm_depend_caution_sand_wild
-bip_39_word_underscore_9: arena_scrap_home_swarm_depend_caution_sand_wild_immune
 classification: category
 classification_capital: Category
 classification_first_letter: c

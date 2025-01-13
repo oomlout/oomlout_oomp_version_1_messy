@@ -1,68 +1,9 @@
-bip_39_word_dash_1: welcome
-bip_39_word_dash_10: welcome-claim-razor-garage-sniff-absorb-cherry-aim-chest-dad
-bip_39_word_dash_11: welcome-claim-razor-garage-sniff-absorb-cherry-aim-chest-dad-joke
 bip_39_word_dash_12: welcome-claim-razor-garage-sniff-absorb-cherry-aim-chest-dad-joke-acid
 bip_39_word_dash_2: welcome-claim
 bip_39_word_dash_3: welcome-claim-razor
-bip_39_word_dash_4: welcome-claim-razor-garage
-bip_39_word_dash_5: welcome-claim-razor-garage-sniff
-bip_39_word_dash_6: welcome-claim-razor-garage-sniff-absorb
-bip_39_word_dash_7: welcome-claim-razor-garage-sniff-absorb-cherry
-bip_39_word_dash_8: welcome-claim-razor-garage-sniff-absorb-cherry-aim
-bip_39_word_dash_9: welcome-claim-razor-garage-sniff-absorb-cherry-aim-chest
-bip_39_word_new_br_1: welcome
-bip_39_word_new_br_10: welcome<br>claim<br>razor<br>garage<br>sniff<br>absorb<br>cherry<br>aim<br>chest<br>dad
-bip_39_word_new_br_11: welcome<br>claim<br>razor<br>garage<br>sniff<br>absorb<br>cherry<br>aim<br>chest<br>dad<br>joke
 bip_39_word_new_br_12: welcome<br>claim<br>razor<br>garage<br>sniff<br>absorb<br>cherry<br>aim<br>chest<br>dad<br>joke<br>acid
 bip_39_word_new_br_2: welcome<br>claim
 bip_39_word_new_br_3: welcome<br>claim<br>razor
-bip_39_word_new_br_4: welcome<br>claim<br>razor<br>garage
-bip_39_word_new_br_5: welcome<br>claim<br>razor<br>garage<br>sniff
-bip_39_word_new_br_6: welcome<br>claim<br>razor<br>garage<br>sniff<br>absorb
-bip_39_word_new_br_7: welcome<br>claim<br>razor<br>garage<br>sniff<br>absorb<br>cherry
-bip_39_word_new_br_8: welcome<br>claim<br>razor<br>garage<br>sniff<br>absorb<br>cherry<br>aim
-bip_39_word_new_br_9: welcome<br>claim<br>razor<br>garage<br>sniff<br>absorb<br>cherry<br>aim<br>chest
-bip_39_word_new_line_1: welcome
-bip_39_word_new_line_10: 'welcome
-
-  claim
-
-  razor
-
-  garage
-
-  sniff
-
-  absorb
-
-  cherry
-
-  aim
-
-  chest
-
-  dad'
-bip_39_word_new_line_11: 'welcome
-
-  claim
-
-  razor
-
-  garage
-
-  sniff
-
-  absorb
-
-  cherry
-
-  aim
-
-  chest
-
-  dad
-
-  joke'
 bip_39_word_new_line_12: 'welcome
 
   claim
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'welcome
   claim
 
   razor'
-bip_39_word_new_line_4: 'welcome
-
-  claim
-
-  razor
-
-  garage'
-bip_39_word_new_line_5: 'welcome
-
-  claim
-
-  razor
-
-  garage
-
-  sniff'
-bip_39_word_new_line_6: 'welcome
-
-  claim
-
-  razor
-
-  garage
-
-  sniff
-
-  absorb'
-bip_39_word_new_line_7: 'welcome
-
-  claim
-
-  razor
-
-  garage
-
-  sniff
-
-  absorb
-
-  cherry'
-bip_39_word_new_line_8: 'welcome
-
-  claim
-
-  razor
-
-  garage
-
-  sniff
-
-  absorb
-
-  cherry
-
-  aim'
-bip_39_word_new_line_9: 'welcome
-
-  claim
-
-  razor
-
-  garage
-
-  sniff
-
-  absorb
-
-  cherry
-
-  aim
-
-  chest'
-bip_39_word_no_space_1: welcome
-bip_39_word_no_space_10: welcomeclaimrazorgaragesniffabsorbcherryaimchestdad
-bip_39_word_no_space_11: welcomeclaimrazorgaragesniffabsorbcherryaimchestdadjoke
 bip_39_word_no_space_12: welcomeclaimrazorgaragesniffabsorbcherryaimchestdadjokeacid
 bip_39_word_no_space_2: welcomeclaim
 bip_39_word_no_space_3: welcomeclaimrazor
-bip_39_word_no_space_4: welcomeclaimrazorgarage
-bip_39_word_no_space_5: welcomeclaimrazorgaragesniff
-bip_39_word_no_space_6: welcomeclaimrazorgaragesniffabsorb
-bip_39_word_no_space_7: welcomeclaimrazorgaragesniffabsorbcherry
-bip_39_word_no_space_8: welcomeclaimrazorgaragesniffabsorbcherryaim
-bip_39_word_no_space_9: welcomeclaimrazorgaragesniffabsorbcherryaimchest
-bip_39_word_space_0:
-- welcome
-- claim
-- razor
-- garage
-- sniff
-- absorb
-- cherry
-- aim
-- chest
-- dad
-- joke
-- acid
-bip_39_word_space_1: welcome
-bip_39_word_space_10: welcome claim razor garage sniff absorb cherry aim chest dad
-bip_39_word_space_11: welcome claim razor garage sniff absorb cherry aim chest dad
-  joke
 bip_39_word_space_12: welcome claim razor garage sniff absorb cherry aim chest dad
   joke acid
 bip_39_word_space_2: welcome claim
 bip_39_word_space_3: welcome claim razor
-bip_39_word_space_4: welcome claim razor garage
-bip_39_word_space_5: welcome claim razor garage sniff
-bip_39_word_space_6: welcome claim razor garage sniff absorb
-bip_39_word_space_7: welcome claim razor garage sniff absorb cherry
-bip_39_word_space_8: welcome claim razor garage sniff absorb cherry aim
-bip_39_word_space_9: welcome claim razor garage sniff absorb cherry aim chest
-bip_39_word_underscore_1: welcome
-bip_39_word_underscore_10: welcome_claim_razor_garage_sniff_absorb_cherry_aim_chest_dad
-bip_39_word_underscore_11: welcome_claim_razor_garage_sniff_absorb_cherry_aim_chest_dad_joke
 bip_39_word_underscore_12: welcome_claim_razor_garage_sniff_absorb_cherry_aim_chest_dad_joke_acid
 bip_39_word_underscore_2: welcome_claim
 bip_39_word_underscore_3: welcome_claim_razor
-bip_39_word_underscore_4: welcome_claim_razor_garage
-bip_39_word_underscore_5: welcome_claim_razor_garage_sniff
-bip_39_word_underscore_6: welcome_claim_razor_garage_sniff_absorb
-bip_39_word_underscore_7: welcome_claim_razor_garage_sniff_absorb_cherry
-bip_39_word_underscore_8: welcome_claim_razor_garage_sniff_absorb_cherry_aim
-bip_39_word_underscore_9: welcome_claim_razor_garage_sniff_absorb_cherry_aim_chest
 classification: category
 classification_capital: Category
 classification_first_letter: c

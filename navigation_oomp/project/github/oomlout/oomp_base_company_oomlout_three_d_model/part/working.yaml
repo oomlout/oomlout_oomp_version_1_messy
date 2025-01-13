@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cycle
-bip_39_word_dash_10: cycle-subject-target-coin-foot-vicious-novel-gravity-author-violin
-bip_39_word_dash_11: cycle-subject-target-coin-foot-vicious-novel-gravity-author-violin-ride
 bip_39_word_dash_12: cycle-subject-target-coin-foot-vicious-novel-gravity-author-violin-ride-arrest
 bip_39_word_dash_2: cycle-subject
 bip_39_word_dash_3: cycle-subject-target
-bip_39_word_dash_4: cycle-subject-target-coin
-bip_39_word_dash_5: cycle-subject-target-coin-foot
-bip_39_word_dash_6: cycle-subject-target-coin-foot-vicious
-bip_39_word_dash_7: cycle-subject-target-coin-foot-vicious-novel
-bip_39_word_dash_8: cycle-subject-target-coin-foot-vicious-novel-gravity
-bip_39_word_dash_9: cycle-subject-target-coin-foot-vicious-novel-gravity-author
-bip_39_word_new_br_1: cycle
-bip_39_word_new_br_10: cycle<br>subject<br>target<br>coin<br>foot<br>vicious<br>novel<br>gravity<br>author<br>violin
-bip_39_word_new_br_11: cycle<br>subject<br>target<br>coin<br>foot<br>vicious<br>novel<br>gravity<br>author<br>violin<br>ride
 bip_39_word_new_br_12: cycle<br>subject<br>target<br>coin<br>foot<br>vicious<br>novel<br>gravity<br>author<br>violin<br>ride<br>arrest
 bip_39_word_new_br_2: cycle<br>subject
 bip_39_word_new_br_3: cycle<br>subject<br>target
-bip_39_word_new_br_4: cycle<br>subject<br>target<br>coin
-bip_39_word_new_br_5: cycle<br>subject<br>target<br>coin<br>foot
-bip_39_word_new_br_6: cycle<br>subject<br>target<br>coin<br>foot<br>vicious
-bip_39_word_new_br_7: cycle<br>subject<br>target<br>coin<br>foot<br>vicious<br>novel
-bip_39_word_new_br_8: cycle<br>subject<br>target<br>coin<br>foot<br>vicious<br>novel<br>gravity
-bip_39_word_new_br_9: cycle<br>subject<br>target<br>coin<br>foot<br>vicious<br>novel<br>gravity<br>author
-bip_39_word_new_line_1: cycle
-bip_39_word_new_line_10: 'cycle
-
-  subject
-
-  target
-
-  coin
-
-  foot
-
-  vicious
-
-  novel
-
-  gravity
-
-  author
-
-  violin'
-bip_39_word_new_line_11: 'cycle
-
-  subject
-
-  target
-
-  coin
-
-  foot
-
-  vicious
-
-  novel
-
-  gravity
-
-  author
-
-  violin
-
-  ride'
 bip_39_word_new_line_12: 'cycle
 
   subject
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'cycle
   subject
 
   target'
-bip_39_word_new_line_4: 'cycle
-
-  subject
-
-  target
-
-  coin'
-bip_39_word_new_line_5: 'cycle
-
-  subject
-
-  target
-
-  coin
-
-  foot'
-bip_39_word_new_line_6: 'cycle
-
-  subject
-
-  target
-
-  coin
-
-  foot
-
-  vicious'
-bip_39_word_new_line_7: 'cycle
-
-  subject
-
-  target
-
-  coin
-
-  foot
-
-  vicious
-
-  novel'
-bip_39_word_new_line_8: 'cycle
-
-  subject
-
-  target
-
-  coin
-
-  foot
-
-  vicious
-
-  novel
-
-  gravity'
-bip_39_word_new_line_9: 'cycle
-
-  subject
-
-  target
-
-  coin
-
-  foot
-
-  vicious
-
-  novel
-
-  gravity
-
-  author'
-bip_39_word_no_space_1: cycle
-bip_39_word_no_space_10: cyclesubjecttargetcoinfootviciousnovelgravityauthorviolin
-bip_39_word_no_space_11: cyclesubjecttargetcoinfootviciousnovelgravityauthorviolinride
 bip_39_word_no_space_12: cyclesubjecttargetcoinfootviciousnovelgravityauthorviolinridearrest
 bip_39_word_no_space_2: cyclesubject
 bip_39_word_no_space_3: cyclesubjecttarget
-bip_39_word_no_space_4: cyclesubjecttargetcoin
-bip_39_word_no_space_5: cyclesubjecttargetcoinfoot
-bip_39_word_no_space_6: cyclesubjecttargetcoinfootvicious
-bip_39_word_no_space_7: cyclesubjecttargetcoinfootviciousnovel
-bip_39_word_no_space_8: cyclesubjecttargetcoinfootviciousnovelgravity
-bip_39_word_no_space_9: cyclesubjecttargetcoinfootviciousnovelgravityauthor
-bip_39_word_space_0:
-- cycle
-- subject
-- target
-- coin
-- foot
-- vicious
-- novel
-- gravity
-- author
-- violin
-- ride
-- arrest
-bip_39_word_space_1: cycle
-bip_39_word_space_10: cycle subject target coin foot vicious novel gravity author
-  violin
-bip_39_word_space_11: cycle subject target coin foot vicious novel gravity author
-  violin ride
 bip_39_word_space_12: cycle subject target coin foot vicious novel gravity author
   violin ride arrest
 bip_39_word_space_2: cycle subject
 bip_39_word_space_3: cycle subject target
-bip_39_word_space_4: cycle subject target coin
-bip_39_word_space_5: cycle subject target coin foot
-bip_39_word_space_6: cycle subject target coin foot vicious
-bip_39_word_space_7: cycle subject target coin foot vicious novel
-bip_39_word_space_8: cycle subject target coin foot vicious novel gravity
-bip_39_word_space_9: cycle subject target coin foot vicious novel gravity author
-bip_39_word_underscore_1: cycle
-bip_39_word_underscore_10: cycle_subject_target_coin_foot_vicious_novel_gravity_author_violin
-bip_39_word_underscore_11: cycle_subject_target_coin_foot_vicious_novel_gravity_author_violin_ride
 bip_39_word_underscore_12: cycle_subject_target_coin_foot_vicious_novel_gravity_author_violin_ride_arrest
 bip_39_word_underscore_2: cycle_subject
 bip_39_word_underscore_3: cycle_subject_target
-bip_39_word_underscore_4: cycle_subject_target_coin
-bip_39_word_underscore_5: cycle_subject_target_coin_foot
-bip_39_word_underscore_6: cycle_subject_target_coin_foot_vicious
-bip_39_word_underscore_7: cycle_subject_target_coin_foot_vicious_novel
-bip_39_word_underscore_8: cycle_subject_target_coin_foot_vicious_novel_gravity
-bip_39_word_underscore_9: cycle_subject_target_coin_foot_vicious_novel_gravity_author
 classification: project
 classification_capital: Project
 classification_first_letter: p

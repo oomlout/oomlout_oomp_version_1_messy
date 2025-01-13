@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phone
-bip_39_word_dash_10: phone-park-marine-pool-mammal-rare-valley-doctor-kid-arrive
-bip_39_word_dash_11: phone-park-marine-pool-mammal-rare-valley-doctor-kid-arrive-above
 bip_39_word_dash_12: phone-park-marine-pool-mammal-rare-valley-doctor-kid-arrive-above-analyst
 bip_39_word_dash_2: phone-park
 bip_39_word_dash_3: phone-park-marine
-bip_39_word_dash_4: phone-park-marine-pool
-bip_39_word_dash_5: phone-park-marine-pool-mammal
-bip_39_word_dash_6: phone-park-marine-pool-mammal-rare
-bip_39_word_dash_7: phone-park-marine-pool-mammal-rare-valley
-bip_39_word_dash_8: phone-park-marine-pool-mammal-rare-valley-doctor
-bip_39_word_dash_9: phone-park-marine-pool-mammal-rare-valley-doctor-kid
-bip_39_word_new_br_1: phone
-bip_39_word_new_br_10: phone<br>park<br>marine<br>pool<br>mammal<br>rare<br>valley<br>doctor<br>kid<br>arrive
-bip_39_word_new_br_11: phone<br>park<br>marine<br>pool<br>mammal<br>rare<br>valley<br>doctor<br>kid<br>arrive<br>above
 bip_39_word_new_br_12: phone<br>park<br>marine<br>pool<br>mammal<br>rare<br>valley<br>doctor<br>kid<br>arrive<br>above<br>analyst
 bip_39_word_new_br_2: phone<br>park
 bip_39_word_new_br_3: phone<br>park<br>marine
-bip_39_word_new_br_4: phone<br>park<br>marine<br>pool
-bip_39_word_new_br_5: phone<br>park<br>marine<br>pool<br>mammal
-bip_39_word_new_br_6: phone<br>park<br>marine<br>pool<br>mammal<br>rare
-bip_39_word_new_br_7: phone<br>park<br>marine<br>pool<br>mammal<br>rare<br>valley
-bip_39_word_new_br_8: phone<br>park<br>marine<br>pool<br>mammal<br>rare<br>valley<br>doctor
-bip_39_word_new_br_9: phone<br>park<br>marine<br>pool<br>mammal<br>rare<br>valley<br>doctor<br>kid
-bip_39_word_new_line_1: phone
-bip_39_word_new_line_10: 'phone
-
-  park
-
-  marine
-
-  pool
-
-  mammal
-
-  rare
-
-  valley
-
-  doctor
-
-  kid
-
-  arrive'
-bip_39_word_new_line_11: 'phone
-
-  park
-
-  marine
-
-  pool
-
-  mammal
-
-  rare
-
-  valley
-
-  doctor
-
-  kid
-
-  arrive
-
-  above'
 bip_39_word_new_line_12: 'phone
 
   park
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'phone
   park
 
   marine'
-bip_39_word_new_line_4: 'phone
-
-  park
-
-  marine
-
-  pool'
-bip_39_word_new_line_5: 'phone
-
-  park
-
-  marine
-
-  pool
-
-  mammal'
-bip_39_word_new_line_6: 'phone
-
-  park
-
-  marine
-
-  pool
-
-  mammal
-
-  rare'
-bip_39_word_new_line_7: 'phone
-
-  park
-
-  marine
-
-  pool
-
-  mammal
-
-  rare
-
-  valley'
-bip_39_word_new_line_8: 'phone
-
-  park
-
-  marine
-
-  pool
-
-  mammal
-
-  rare
-
-  valley
-
-  doctor'
-bip_39_word_new_line_9: 'phone
-
-  park
-
-  marine
-
-  pool
-
-  mammal
-
-  rare
-
-  valley
-
-  doctor
-
-  kid'
-bip_39_word_no_space_1: phone
-bip_39_word_no_space_10: phoneparkmarinepoolmammalrarevalleydoctorkidarrive
-bip_39_word_no_space_11: phoneparkmarinepoolmammalrarevalleydoctorkidarriveabove
 bip_39_word_no_space_12: phoneparkmarinepoolmammalrarevalleydoctorkidarriveaboveanalyst
 bip_39_word_no_space_2: phonepark
 bip_39_word_no_space_3: phoneparkmarine
-bip_39_word_no_space_4: phoneparkmarinepool
-bip_39_word_no_space_5: phoneparkmarinepoolmammal
-bip_39_word_no_space_6: phoneparkmarinepoolmammalrare
-bip_39_word_no_space_7: phoneparkmarinepoolmammalrarevalley
-bip_39_word_no_space_8: phoneparkmarinepoolmammalrarevalleydoctor
-bip_39_word_no_space_9: phoneparkmarinepoolmammalrarevalleydoctorkid
-bip_39_word_space_0:
-- phone
-- park
-- marine
-- pool
-- mammal
-- rare
-- valley
-- doctor
-- kid
-- arrive
-- above
-- analyst
-bip_39_word_space_1: phone
-bip_39_word_space_10: phone park marine pool mammal rare valley doctor kid arrive
-bip_39_word_space_11: phone park marine pool mammal rare valley doctor kid arrive
-  above
 bip_39_word_space_12: phone park marine pool mammal rare valley doctor kid arrive
   above analyst
 bip_39_word_space_2: phone park
 bip_39_word_space_3: phone park marine
-bip_39_word_space_4: phone park marine pool
-bip_39_word_space_5: phone park marine pool mammal
-bip_39_word_space_6: phone park marine pool mammal rare
-bip_39_word_space_7: phone park marine pool mammal rare valley
-bip_39_word_space_8: phone park marine pool mammal rare valley doctor
-bip_39_word_space_9: phone park marine pool mammal rare valley doctor kid
-bip_39_word_underscore_1: phone
-bip_39_word_underscore_10: phone_park_marine_pool_mammal_rare_valley_doctor_kid_arrive
-bip_39_word_underscore_11: phone_park_marine_pool_mammal_rare_valley_doctor_kid_arrive_above
 bip_39_word_underscore_12: phone_park_marine_pool_mammal_rare_valley_doctor_kid_arrive_above_analyst
 bip_39_word_underscore_2: phone_park
 bip_39_word_underscore_3: phone_park_marine
-bip_39_word_underscore_4: phone_park_marine_pool
-bip_39_word_underscore_5: phone_park_marine_pool_mammal
-bip_39_word_underscore_6: phone_park_marine_pool_mammal_rare
-bip_39_word_underscore_7: phone_park_marine_pool_mammal_rare_valley
-bip_39_word_underscore_8: phone_park_marine_pool_mammal_rare_valley_doctor
-bip_39_word_underscore_9: phone_park_marine_pool_mammal_rare_valley_doctor_kid
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slice
-bip_39_word_dash_10: slice-twist-nest-awesome-when-drill-valid-duck-paddle-purpose
-bip_39_word_dash_11: slice-twist-nest-awesome-when-drill-valid-duck-paddle-purpose-lake
 bip_39_word_dash_12: slice-twist-nest-awesome-when-drill-valid-duck-paddle-purpose-lake-accuse
 bip_39_word_dash_2: slice-twist
 bip_39_word_dash_3: slice-twist-nest
-bip_39_word_dash_4: slice-twist-nest-awesome
-bip_39_word_dash_5: slice-twist-nest-awesome-when
-bip_39_word_dash_6: slice-twist-nest-awesome-when-drill
-bip_39_word_dash_7: slice-twist-nest-awesome-when-drill-valid
-bip_39_word_dash_8: slice-twist-nest-awesome-when-drill-valid-duck
-bip_39_word_dash_9: slice-twist-nest-awesome-when-drill-valid-duck-paddle
-bip_39_word_new_br_1: slice
-bip_39_word_new_br_10: slice<br>twist<br>nest<br>awesome<br>when<br>drill<br>valid<br>duck<br>paddle<br>purpose
-bip_39_word_new_br_11: slice<br>twist<br>nest<br>awesome<br>when<br>drill<br>valid<br>duck<br>paddle<br>purpose<br>lake
 bip_39_word_new_br_12: slice<br>twist<br>nest<br>awesome<br>when<br>drill<br>valid<br>duck<br>paddle<br>purpose<br>lake<br>accuse
 bip_39_word_new_br_2: slice<br>twist
 bip_39_word_new_br_3: slice<br>twist<br>nest
-bip_39_word_new_br_4: slice<br>twist<br>nest<br>awesome
-bip_39_word_new_br_5: slice<br>twist<br>nest<br>awesome<br>when
-bip_39_word_new_br_6: slice<br>twist<br>nest<br>awesome<br>when<br>drill
-bip_39_word_new_br_7: slice<br>twist<br>nest<br>awesome<br>when<br>drill<br>valid
-bip_39_word_new_br_8: slice<br>twist<br>nest<br>awesome<br>when<br>drill<br>valid<br>duck
-bip_39_word_new_br_9: slice<br>twist<br>nest<br>awesome<br>when<br>drill<br>valid<br>duck<br>paddle
-bip_39_word_new_line_1: slice
-bip_39_word_new_line_10: 'slice
-
-  twist
-
-  nest
-
-  awesome
-
-  when
-
-  drill
-
-  valid
-
-  duck
-
-  paddle
-
-  purpose'
-bip_39_word_new_line_11: 'slice
-
-  twist
-
-  nest
-
-  awesome
-
-  when
-
-  drill
-
-  valid
-
-  duck
-
-  paddle
-
-  purpose
-
-  lake'
 bip_39_word_new_line_12: 'slice
 
   twist
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slice
   twist
 
   nest'
-bip_39_word_new_line_4: 'slice
-
-  twist
-
-  nest
-
-  awesome'
-bip_39_word_new_line_5: 'slice
-
-  twist
-
-  nest
-
-  awesome
-
-  when'
-bip_39_word_new_line_6: 'slice
-
-  twist
-
-  nest
-
-  awesome
-
-  when
-
-  drill'
-bip_39_word_new_line_7: 'slice
-
-  twist
-
-  nest
-
-  awesome
-
-  when
-
-  drill
-
-  valid'
-bip_39_word_new_line_8: 'slice
-
-  twist
-
-  nest
-
-  awesome
-
-  when
-
-  drill
-
-  valid
-
-  duck'
-bip_39_word_new_line_9: 'slice
-
-  twist
-
-  nest
-
-  awesome
-
-  when
-
-  drill
-
-  valid
-
-  duck
-
-  paddle'
-bip_39_word_no_space_1: slice
-bip_39_word_no_space_10: slicetwistnestawesomewhendrillvalidduckpaddlepurpose
-bip_39_word_no_space_11: slicetwistnestawesomewhendrillvalidduckpaddlepurposelake
 bip_39_word_no_space_12: slicetwistnestawesomewhendrillvalidduckpaddlepurposelakeaccuse
 bip_39_word_no_space_2: slicetwist
 bip_39_word_no_space_3: slicetwistnest
-bip_39_word_no_space_4: slicetwistnestawesome
-bip_39_word_no_space_5: slicetwistnestawesomewhen
-bip_39_word_no_space_6: slicetwistnestawesomewhendrill
-bip_39_word_no_space_7: slicetwistnestawesomewhendrillvalid
-bip_39_word_no_space_8: slicetwistnestawesomewhendrillvalidduck
-bip_39_word_no_space_9: slicetwistnestawesomewhendrillvalidduckpaddle
-bip_39_word_space_0:
-- slice
-- twist
-- nest
-- awesome
-- when
-- drill
-- valid
-- duck
-- paddle
-- purpose
-- lake
-- accuse
-bip_39_word_space_1: slice
-bip_39_word_space_10: slice twist nest awesome when drill valid duck paddle purpose
-bip_39_word_space_11: slice twist nest awesome when drill valid duck paddle purpose
-  lake
 bip_39_word_space_12: slice twist nest awesome when drill valid duck paddle purpose
   lake accuse
 bip_39_word_space_2: slice twist
 bip_39_word_space_3: slice twist nest
-bip_39_word_space_4: slice twist nest awesome
-bip_39_word_space_5: slice twist nest awesome when
-bip_39_word_space_6: slice twist nest awesome when drill
-bip_39_word_space_7: slice twist nest awesome when drill valid
-bip_39_word_space_8: slice twist nest awesome when drill valid duck
-bip_39_word_space_9: slice twist nest awesome when drill valid duck paddle
-bip_39_word_underscore_1: slice
-bip_39_word_underscore_10: slice_twist_nest_awesome_when_drill_valid_duck_paddle_purpose
-bip_39_word_underscore_11: slice_twist_nest_awesome_when_drill_valid_duck_paddle_purpose_lake
 bip_39_word_underscore_12: slice_twist_nest_awesome_when_drill_valid_duck_paddle_purpose_lake_accuse
 bip_39_word_underscore_2: slice_twist
 bip_39_word_underscore_3: slice_twist_nest
-bip_39_word_underscore_4: slice_twist_nest_awesome
-bip_39_word_underscore_5: slice_twist_nest_awesome_when
-bip_39_word_underscore_6: slice_twist_nest_awesome_when_drill
-bip_39_word_underscore_7: slice_twist_nest_awesome_when_drill_valid
-bip_39_word_underscore_8: slice_twist_nest_awesome_when_drill_valid_duck
-bip_39_word_underscore_9: slice_twist_nest_awesome_when_drill_valid_duck_paddle
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

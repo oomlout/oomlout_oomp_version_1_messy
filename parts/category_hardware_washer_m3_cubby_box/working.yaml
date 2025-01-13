@@ -1,68 +1,9 @@
-bip_39_word_dash_1: atom
-bip_39_word_dash_10: atom-lobster-live-furnace-tomorrow-desert-behind-penalty-weapon-close
-bip_39_word_dash_11: atom-lobster-live-furnace-tomorrow-desert-behind-penalty-weapon-close-nation
 bip_39_word_dash_12: atom-lobster-live-furnace-tomorrow-desert-behind-penalty-weapon-close-nation-army
 bip_39_word_dash_2: atom-lobster
 bip_39_word_dash_3: atom-lobster-live
-bip_39_word_dash_4: atom-lobster-live-furnace
-bip_39_word_dash_5: atom-lobster-live-furnace-tomorrow
-bip_39_word_dash_6: atom-lobster-live-furnace-tomorrow-desert
-bip_39_word_dash_7: atom-lobster-live-furnace-tomorrow-desert-behind
-bip_39_word_dash_8: atom-lobster-live-furnace-tomorrow-desert-behind-penalty
-bip_39_word_dash_9: atom-lobster-live-furnace-tomorrow-desert-behind-penalty-weapon
-bip_39_word_new_br_1: atom
-bip_39_word_new_br_10: atom<br>lobster<br>live<br>furnace<br>tomorrow<br>desert<br>behind<br>penalty<br>weapon<br>close
-bip_39_word_new_br_11: atom<br>lobster<br>live<br>furnace<br>tomorrow<br>desert<br>behind<br>penalty<br>weapon<br>close<br>nation
 bip_39_word_new_br_12: atom<br>lobster<br>live<br>furnace<br>tomorrow<br>desert<br>behind<br>penalty<br>weapon<br>close<br>nation<br>army
 bip_39_word_new_br_2: atom<br>lobster
 bip_39_word_new_br_3: atom<br>lobster<br>live
-bip_39_word_new_br_4: atom<br>lobster<br>live<br>furnace
-bip_39_word_new_br_5: atom<br>lobster<br>live<br>furnace<br>tomorrow
-bip_39_word_new_br_6: atom<br>lobster<br>live<br>furnace<br>tomorrow<br>desert
-bip_39_word_new_br_7: atom<br>lobster<br>live<br>furnace<br>tomorrow<br>desert<br>behind
-bip_39_word_new_br_8: atom<br>lobster<br>live<br>furnace<br>tomorrow<br>desert<br>behind<br>penalty
-bip_39_word_new_br_9: atom<br>lobster<br>live<br>furnace<br>tomorrow<br>desert<br>behind<br>penalty<br>weapon
-bip_39_word_new_line_1: atom
-bip_39_word_new_line_10: 'atom
-
-  lobster
-
-  live
-
-  furnace
-
-  tomorrow
-
-  desert
-
-  behind
-
-  penalty
-
-  weapon
-
-  close'
-bip_39_word_new_line_11: 'atom
-
-  lobster
-
-  live
-
-  furnace
-
-  tomorrow
-
-  desert
-
-  behind
-
-  penalty
-
-  weapon
-
-  close
-
-  nation'
 bip_39_word_new_line_12: 'atom
 
   lobster
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'atom
   lobster
 
   live'
-bip_39_word_new_line_4: 'atom
-
-  lobster
-
-  live
-
-  furnace'
-bip_39_word_new_line_5: 'atom
-
-  lobster
-
-  live
-
-  furnace
-
-  tomorrow'
-bip_39_word_new_line_6: 'atom
-
-  lobster
-
-  live
-
-  furnace
-
-  tomorrow
-
-  desert'
-bip_39_word_new_line_7: 'atom
-
-  lobster
-
-  live
-
-  furnace
-
-  tomorrow
-
-  desert
-
-  behind'
-bip_39_word_new_line_8: 'atom
-
-  lobster
-
-  live
-
-  furnace
-
-  tomorrow
-
-  desert
-
-  behind
-
-  penalty'
-bip_39_word_new_line_9: 'atom
-
-  lobster
-
-  live
-
-  furnace
-
-  tomorrow
-
-  desert
-
-  behind
-
-  penalty
-
-  weapon'
-bip_39_word_no_space_1: atom
-bip_39_word_no_space_10: atomlobsterlivefurnacetomorrowdesertbehindpenaltyweaponclose
-bip_39_word_no_space_11: atomlobsterlivefurnacetomorrowdesertbehindpenaltyweaponclosenation
 bip_39_word_no_space_12: atomlobsterlivefurnacetomorrowdesertbehindpenaltyweaponclosenationarmy
 bip_39_word_no_space_2: atomlobster
 bip_39_word_no_space_3: atomlobsterlive
-bip_39_word_no_space_4: atomlobsterlivefurnace
-bip_39_word_no_space_5: atomlobsterlivefurnacetomorrow
-bip_39_word_no_space_6: atomlobsterlivefurnacetomorrowdesert
-bip_39_word_no_space_7: atomlobsterlivefurnacetomorrowdesertbehind
-bip_39_word_no_space_8: atomlobsterlivefurnacetomorrowdesertbehindpenalty
-bip_39_word_no_space_9: atomlobsterlivefurnacetomorrowdesertbehindpenaltyweapon
-bip_39_word_space_0:
-- atom
-- lobster
-- live
-- furnace
-- tomorrow
-- desert
-- behind
-- penalty
-- weapon
-- close
-- nation
-- army
-bip_39_word_space_1: atom
-bip_39_word_space_10: atom lobster live furnace tomorrow desert behind penalty weapon
-  close
-bip_39_word_space_11: atom lobster live furnace tomorrow desert behind penalty weapon
-  close nation
 bip_39_word_space_12: atom lobster live furnace tomorrow desert behind penalty weapon
   close nation army
 bip_39_word_space_2: atom lobster
 bip_39_word_space_3: atom lobster live
-bip_39_word_space_4: atom lobster live furnace
-bip_39_word_space_5: atom lobster live furnace tomorrow
-bip_39_word_space_6: atom lobster live furnace tomorrow desert
-bip_39_word_space_7: atom lobster live furnace tomorrow desert behind
-bip_39_word_space_8: atom lobster live furnace tomorrow desert behind penalty
-bip_39_word_space_9: atom lobster live furnace tomorrow desert behind penalty weapon
-bip_39_word_underscore_1: atom
-bip_39_word_underscore_10: atom_lobster_live_furnace_tomorrow_desert_behind_penalty_weapon_close
-bip_39_word_underscore_11: atom_lobster_live_furnace_tomorrow_desert_behind_penalty_weapon_close_nation
 bip_39_word_underscore_12: atom_lobster_live_furnace_tomorrow_desert_behind_penalty_weapon_close_nation_army
 bip_39_word_underscore_2: atom_lobster
 bip_39_word_underscore_3: atom_lobster_live
-bip_39_word_underscore_4: atom_lobster_live_furnace
-bip_39_word_underscore_5: atom_lobster_live_furnace_tomorrow
-bip_39_word_underscore_6: atom_lobster_live_furnace_tomorrow_desert
-bip_39_word_underscore_7: atom_lobster_live_furnace_tomorrow_desert_behind
-bip_39_word_underscore_8: atom_lobster_live_furnace_tomorrow_desert_behind_penalty
-bip_39_word_underscore_9: atom_lobster_live_furnace_tomorrow_desert_behind_penalty_weapon
 classification: category
 classification_capital: Category
 classification_first_letter: c

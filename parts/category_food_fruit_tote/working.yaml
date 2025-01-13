@@ -1,68 +1,9 @@
-bip_39_word_dash_1: anchor
-bip_39_word_dash_10: anchor-flag-scale-adult-like-loud-already-assault-prepare-possible
-bip_39_word_dash_11: anchor-flag-scale-adult-like-loud-already-assault-prepare-possible-food
 bip_39_word_dash_12: anchor-flag-scale-adult-like-loud-already-assault-prepare-possible-food-achieve
 bip_39_word_dash_2: anchor-flag
 bip_39_word_dash_3: anchor-flag-scale
-bip_39_word_dash_4: anchor-flag-scale-adult
-bip_39_word_dash_5: anchor-flag-scale-adult-like
-bip_39_word_dash_6: anchor-flag-scale-adult-like-loud
-bip_39_word_dash_7: anchor-flag-scale-adult-like-loud-already
-bip_39_word_dash_8: anchor-flag-scale-adult-like-loud-already-assault
-bip_39_word_dash_9: anchor-flag-scale-adult-like-loud-already-assault-prepare
-bip_39_word_new_br_1: anchor
-bip_39_word_new_br_10: anchor<br>flag<br>scale<br>adult<br>like<br>loud<br>already<br>assault<br>prepare<br>possible
-bip_39_word_new_br_11: anchor<br>flag<br>scale<br>adult<br>like<br>loud<br>already<br>assault<br>prepare<br>possible<br>food
 bip_39_word_new_br_12: anchor<br>flag<br>scale<br>adult<br>like<br>loud<br>already<br>assault<br>prepare<br>possible<br>food<br>achieve
 bip_39_word_new_br_2: anchor<br>flag
 bip_39_word_new_br_3: anchor<br>flag<br>scale
-bip_39_word_new_br_4: anchor<br>flag<br>scale<br>adult
-bip_39_word_new_br_5: anchor<br>flag<br>scale<br>adult<br>like
-bip_39_word_new_br_6: anchor<br>flag<br>scale<br>adult<br>like<br>loud
-bip_39_word_new_br_7: anchor<br>flag<br>scale<br>adult<br>like<br>loud<br>already
-bip_39_word_new_br_8: anchor<br>flag<br>scale<br>adult<br>like<br>loud<br>already<br>assault
-bip_39_word_new_br_9: anchor<br>flag<br>scale<br>adult<br>like<br>loud<br>already<br>assault<br>prepare
-bip_39_word_new_line_1: anchor
-bip_39_word_new_line_10: 'anchor
-
-  flag
-
-  scale
-
-  adult
-
-  like
-
-  loud
-
-  already
-
-  assault
-
-  prepare
-
-  possible'
-bip_39_word_new_line_11: 'anchor
-
-  flag
-
-  scale
-
-  adult
-
-  like
-
-  loud
-
-  already
-
-  assault
-
-  prepare
-
-  possible
-
-  food'
 bip_39_word_new_line_12: 'anchor
 
   flag
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'anchor
   flag
 
   scale'
-bip_39_word_new_line_4: 'anchor
-
-  flag
-
-  scale
-
-  adult'
-bip_39_word_new_line_5: 'anchor
-
-  flag
-
-  scale
-
-  adult
-
-  like'
-bip_39_word_new_line_6: 'anchor
-
-  flag
-
-  scale
-
-  adult
-
-  like
-
-  loud'
-bip_39_word_new_line_7: 'anchor
-
-  flag
-
-  scale
-
-  adult
-
-  like
-
-  loud
-
-  already'
-bip_39_word_new_line_8: 'anchor
-
-  flag
-
-  scale
-
-  adult
-
-  like
-
-  loud
-
-  already
-
-  assault'
-bip_39_word_new_line_9: 'anchor
-
-  flag
-
-  scale
-
-  adult
-
-  like
-
-  loud
-
-  already
-
-  assault
-
-  prepare'
-bip_39_word_no_space_1: anchor
-bip_39_word_no_space_10: anchorflagscaleadultlikeloudalreadyassaultpreparepossible
-bip_39_word_no_space_11: anchorflagscaleadultlikeloudalreadyassaultpreparepossiblefood
 bip_39_word_no_space_12: anchorflagscaleadultlikeloudalreadyassaultpreparepossiblefoodachieve
 bip_39_word_no_space_2: anchorflag
 bip_39_word_no_space_3: anchorflagscale
-bip_39_word_no_space_4: anchorflagscaleadult
-bip_39_word_no_space_5: anchorflagscaleadultlike
-bip_39_word_no_space_6: anchorflagscaleadultlikeloud
-bip_39_word_no_space_7: anchorflagscaleadultlikeloudalready
-bip_39_word_no_space_8: anchorflagscaleadultlikeloudalreadyassault
-bip_39_word_no_space_9: anchorflagscaleadultlikeloudalreadyassaultprepare
-bip_39_word_space_0:
-- anchor
-- flag
-- scale
-- adult
-- like
-- loud
-- already
-- assault
-- prepare
-- possible
-- food
-- achieve
-bip_39_word_space_1: anchor
-bip_39_word_space_10: anchor flag scale adult like loud already assault prepare possible
-bip_39_word_space_11: anchor flag scale adult like loud already assault prepare possible
-  food
 bip_39_word_space_12: anchor flag scale adult like loud already assault prepare possible
   food achieve
 bip_39_word_space_2: anchor flag
 bip_39_word_space_3: anchor flag scale
-bip_39_word_space_4: anchor flag scale adult
-bip_39_word_space_5: anchor flag scale adult like
-bip_39_word_space_6: anchor flag scale adult like loud
-bip_39_word_space_7: anchor flag scale adult like loud already
-bip_39_word_space_8: anchor flag scale adult like loud already assault
-bip_39_word_space_9: anchor flag scale adult like loud already assault prepare
-bip_39_word_underscore_1: anchor
-bip_39_word_underscore_10: anchor_flag_scale_adult_like_loud_already_assault_prepare_possible
-bip_39_word_underscore_11: anchor_flag_scale_adult_like_loud_already_assault_prepare_possible_food
 bip_39_word_underscore_12: anchor_flag_scale_adult_like_loud_already_assault_prepare_possible_food_achieve
 bip_39_word_underscore_2: anchor_flag
 bip_39_word_underscore_3: anchor_flag_scale
-bip_39_word_underscore_4: anchor_flag_scale_adult
-bip_39_word_underscore_5: anchor_flag_scale_adult_like
-bip_39_word_underscore_6: anchor_flag_scale_adult_like_loud
-bip_39_word_underscore_7: anchor_flag_scale_adult_like_loud_already
-bip_39_word_underscore_8: anchor_flag_scale_adult_like_loud_already_assault
-bip_39_word_underscore_9: anchor_flag_scale_adult_like_loud_already_assault_prepare
 classification: category
 classification_capital: Category
 classification_first_letter: c

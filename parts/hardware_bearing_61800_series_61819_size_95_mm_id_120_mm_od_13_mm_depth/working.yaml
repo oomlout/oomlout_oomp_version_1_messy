@@ -1,68 +1,9 @@
-bip_39_word_dash_1: clinic
-bip_39_word_dash_10: clinic-hospital-rocket-arch-smart-episode-talent-wait-assist-chase
-bip_39_word_dash_11: clinic-hospital-rocket-arch-smart-episode-talent-wait-assist-chase-one
 bip_39_word_dash_12: clinic-hospital-rocket-arch-smart-episode-talent-wait-assist-chase-one-audit
 bip_39_word_dash_2: clinic-hospital
 bip_39_word_dash_3: clinic-hospital-rocket
-bip_39_word_dash_4: clinic-hospital-rocket-arch
-bip_39_word_dash_5: clinic-hospital-rocket-arch-smart
-bip_39_word_dash_6: clinic-hospital-rocket-arch-smart-episode
-bip_39_word_dash_7: clinic-hospital-rocket-arch-smart-episode-talent
-bip_39_word_dash_8: clinic-hospital-rocket-arch-smart-episode-talent-wait
-bip_39_word_dash_9: clinic-hospital-rocket-arch-smart-episode-talent-wait-assist
-bip_39_word_new_br_1: clinic
-bip_39_word_new_br_10: clinic<br>hospital<br>rocket<br>arch<br>smart<br>episode<br>talent<br>wait<br>assist<br>chase
-bip_39_word_new_br_11: clinic<br>hospital<br>rocket<br>arch<br>smart<br>episode<br>talent<br>wait<br>assist<br>chase<br>one
 bip_39_word_new_br_12: clinic<br>hospital<br>rocket<br>arch<br>smart<br>episode<br>talent<br>wait<br>assist<br>chase<br>one<br>audit
 bip_39_word_new_br_2: clinic<br>hospital
 bip_39_word_new_br_3: clinic<br>hospital<br>rocket
-bip_39_word_new_br_4: clinic<br>hospital<br>rocket<br>arch
-bip_39_word_new_br_5: clinic<br>hospital<br>rocket<br>arch<br>smart
-bip_39_word_new_br_6: clinic<br>hospital<br>rocket<br>arch<br>smart<br>episode
-bip_39_word_new_br_7: clinic<br>hospital<br>rocket<br>arch<br>smart<br>episode<br>talent
-bip_39_word_new_br_8: clinic<br>hospital<br>rocket<br>arch<br>smart<br>episode<br>talent<br>wait
-bip_39_word_new_br_9: clinic<br>hospital<br>rocket<br>arch<br>smart<br>episode<br>talent<br>wait<br>assist
-bip_39_word_new_line_1: clinic
-bip_39_word_new_line_10: 'clinic
-
-  hospital
-
-  rocket
-
-  arch
-
-  smart
-
-  episode
-
-  talent
-
-  wait
-
-  assist
-
-  chase'
-bip_39_word_new_line_11: 'clinic
-
-  hospital
-
-  rocket
-
-  arch
-
-  smart
-
-  episode
-
-  talent
-
-  wait
-
-  assist
-
-  chase
-
-  one'
 bip_39_word_new_line_12: 'clinic
 
   hospital
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'clinic
   hospital
 
   rocket'
-bip_39_word_new_line_4: 'clinic
-
-  hospital
-
-  rocket
-
-  arch'
-bip_39_word_new_line_5: 'clinic
-
-  hospital
-
-  rocket
-
-  arch
-
-  smart'
-bip_39_word_new_line_6: 'clinic
-
-  hospital
-
-  rocket
-
-  arch
-
-  smart
-
-  episode'
-bip_39_word_new_line_7: 'clinic
-
-  hospital
-
-  rocket
-
-  arch
-
-  smart
-
-  episode
-
-  talent'
-bip_39_word_new_line_8: 'clinic
-
-  hospital
-
-  rocket
-
-  arch
-
-  smart
-
-  episode
-
-  talent
-
-  wait'
-bip_39_word_new_line_9: 'clinic
-
-  hospital
-
-  rocket
-
-  arch
-
-  smart
-
-  episode
-
-  talent
-
-  wait
-
-  assist'
-bip_39_word_no_space_1: clinic
-bip_39_word_no_space_10: clinichospitalrocketarchsmartepisodetalentwaitassistchase
-bip_39_word_no_space_11: clinichospitalrocketarchsmartepisodetalentwaitassistchaseone
 bip_39_word_no_space_12: clinichospitalrocketarchsmartepisodetalentwaitassistchaseoneaudit
 bip_39_word_no_space_2: clinichospital
 bip_39_word_no_space_3: clinichospitalrocket
-bip_39_word_no_space_4: clinichospitalrocketarch
-bip_39_word_no_space_5: clinichospitalrocketarchsmart
-bip_39_word_no_space_6: clinichospitalrocketarchsmartepisode
-bip_39_word_no_space_7: clinichospitalrocketarchsmartepisodetalent
-bip_39_word_no_space_8: clinichospitalrocketarchsmartepisodetalentwait
-bip_39_word_no_space_9: clinichospitalrocketarchsmartepisodetalentwaitassist
-bip_39_word_space_0:
-- clinic
-- hospital
-- rocket
-- arch
-- smart
-- episode
-- talent
-- wait
-- assist
-- chase
-- one
-- audit
-bip_39_word_space_1: clinic
-bip_39_word_space_10: clinic hospital rocket arch smart episode talent wait assist
-  chase
-bip_39_word_space_11: clinic hospital rocket arch smart episode talent wait assist
-  chase one
 bip_39_word_space_12: clinic hospital rocket arch smart episode talent wait assist
   chase one audit
 bip_39_word_space_2: clinic hospital
 bip_39_word_space_3: clinic hospital rocket
-bip_39_word_space_4: clinic hospital rocket arch
-bip_39_word_space_5: clinic hospital rocket arch smart
-bip_39_word_space_6: clinic hospital rocket arch smart episode
-bip_39_word_space_7: clinic hospital rocket arch smart episode talent
-bip_39_word_space_8: clinic hospital rocket arch smart episode talent wait
-bip_39_word_space_9: clinic hospital rocket arch smart episode talent wait assist
-bip_39_word_underscore_1: clinic
-bip_39_word_underscore_10: clinic_hospital_rocket_arch_smart_episode_talent_wait_assist_chase
-bip_39_word_underscore_11: clinic_hospital_rocket_arch_smart_episode_talent_wait_assist_chase_one
 bip_39_word_underscore_12: clinic_hospital_rocket_arch_smart_episode_talent_wait_assist_chase_one_audit
 bip_39_word_underscore_2: clinic_hospital
 bip_39_word_underscore_3: clinic_hospital_rocket
-bip_39_word_underscore_4: clinic_hospital_rocket_arch
-bip_39_word_underscore_5: clinic_hospital_rocket_arch_smart
-bip_39_word_underscore_6: clinic_hospital_rocket_arch_smart_episode
-bip_39_word_underscore_7: clinic_hospital_rocket_arch_smart_episode_talent
-bip_39_word_underscore_8: clinic_hospital_rocket_arch_smart_episode_talent_wait
-bip_39_word_underscore_9: clinic_hospital_rocket_arch_smart_episode_talent_wait_assist
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

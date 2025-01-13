@@ -1,68 +1,9 @@
-bip_39_word_dash_1: recall
-bip_39_word_dash_10: recall-sick-potato-enable-swear-edge-either-autumn-drastic-bulk
-bip_39_word_dash_11: recall-sick-potato-enable-swear-edge-either-autumn-drastic-bulk-blanket
 bip_39_word_dash_12: recall-sick-potato-enable-swear-edge-either-autumn-drastic-bulk-blanket-airport
 bip_39_word_dash_2: recall-sick
 bip_39_word_dash_3: recall-sick-potato
-bip_39_word_dash_4: recall-sick-potato-enable
-bip_39_word_dash_5: recall-sick-potato-enable-swear
-bip_39_word_dash_6: recall-sick-potato-enable-swear-edge
-bip_39_word_dash_7: recall-sick-potato-enable-swear-edge-either
-bip_39_word_dash_8: recall-sick-potato-enable-swear-edge-either-autumn
-bip_39_word_dash_9: recall-sick-potato-enable-swear-edge-either-autumn-drastic
-bip_39_word_new_br_1: recall
-bip_39_word_new_br_10: recall<br>sick<br>potato<br>enable<br>swear<br>edge<br>either<br>autumn<br>drastic<br>bulk
-bip_39_word_new_br_11: recall<br>sick<br>potato<br>enable<br>swear<br>edge<br>either<br>autumn<br>drastic<br>bulk<br>blanket
 bip_39_word_new_br_12: recall<br>sick<br>potato<br>enable<br>swear<br>edge<br>either<br>autumn<br>drastic<br>bulk<br>blanket<br>airport
 bip_39_word_new_br_2: recall<br>sick
 bip_39_word_new_br_3: recall<br>sick<br>potato
-bip_39_word_new_br_4: recall<br>sick<br>potato<br>enable
-bip_39_word_new_br_5: recall<br>sick<br>potato<br>enable<br>swear
-bip_39_word_new_br_6: recall<br>sick<br>potato<br>enable<br>swear<br>edge
-bip_39_word_new_br_7: recall<br>sick<br>potato<br>enable<br>swear<br>edge<br>either
-bip_39_word_new_br_8: recall<br>sick<br>potato<br>enable<br>swear<br>edge<br>either<br>autumn
-bip_39_word_new_br_9: recall<br>sick<br>potato<br>enable<br>swear<br>edge<br>either<br>autumn<br>drastic
-bip_39_word_new_line_1: recall
-bip_39_word_new_line_10: 'recall
-
-  sick
-
-  potato
-
-  enable
-
-  swear
-
-  edge
-
-  either
-
-  autumn
-
-  drastic
-
-  bulk'
-bip_39_word_new_line_11: 'recall
-
-  sick
-
-  potato
-
-  enable
-
-  swear
-
-  edge
-
-  either
-
-  autumn
-
-  drastic
-
-  bulk
-
-  blanket'
 bip_39_word_new_line_12: 'recall
 
   sick
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'recall
   sick
 
   potato'
-bip_39_word_new_line_4: 'recall
-
-  sick
-
-  potato
-
-  enable'
-bip_39_word_new_line_5: 'recall
-
-  sick
-
-  potato
-
-  enable
-
-  swear'
-bip_39_word_new_line_6: 'recall
-
-  sick
-
-  potato
-
-  enable
-
-  swear
-
-  edge'
-bip_39_word_new_line_7: 'recall
-
-  sick
-
-  potato
-
-  enable
-
-  swear
-
-  edge
-
-  either'
-bip_39_word_new_line_8: 'recall
-
-  sick
-
-  potato
-
-  enable
-
-  swear
-
-  edge
-
-  either
-
-  autumn'
-bip_39_word_new_line_9: 'recall
-
-  sick
-
-  potato
-
-  enable
-
-  swear
-
-  edge
-
-  either
-
-  autumn
-
-  drastic'
-bip_39_word_no_space_1: recall
-bip_39_word_no_space_10: recallsickpotatoenableswearedgeeitherautumndrasticbulk
-bip_39_word_no_space_11: recallsickpotatoenableswearedgeeitherautumndrasticbulkblanket
 bip_39_word_no_space_12: recallsickpotatoenableswearedgeeitherautumndrasticbulkblanketairport
 bip_39_word_no_space_2: recallsick
 bip_39_word_no_space_3: recallsickpotato
-bip_39_word_no_space_4: recallsickpotatoenable
-bip_39_word_no_space_5: recallsickpotatoenableswear
-bip_39_word_no_space_6: recallsickpotatoenableswearedge
-bip_39_word_no_space_7: recallsickpotatoenableswearedgeeither
-bip_39_word_no_space_8: recallsickpotatoenableswearedgeeitherautumn
-bip_39_word_no_space_9: recallsickpotatoenableswearedgeeitherautumndrastic
-bip_39_word_space_0:
-- recall
-- sick
-- potato
-- enable
-- swear
-- edge
-- either
-- autumn
-- drastic
-- bulk
-- blanket
-- airport
-bip_39_word_space_1: recall
-bip_39_word_space_10: recall sick potato enable swear edge either autumn drastic bulk
-bip_39_word_space_11: recall sick potato enable swear edge either autumn drastic bulk
-  blanket
 bip_39_word_space_12: recall sick potato enable swear edge either autumn drastic bulk
   blanket airport
 bip_39_word_space_2: recall sick
 bip_39_word_space_3: recall sick potato
-bip_39_word_space_4: recall sick potato enable
-bip_39_word_space_5: recall sick potato enable swear
-bip_39_word_space_6: recall sick potato enable swear edge
-bip_39_word_space_7: recall sick potato enable swear edge either
-bip_39_word_space_8: recall sick potato enable swear edge either autumn
-bip_39_word_space_9: recall sick potato enable swear edge either autumn drastic
-bip_39_word_underscore_1: recall
-bip_39_word_underscore_10: recall_sick_potato_enable_swear_edge_either_autumn_drastic_bulk
-bip_39_word_underscore_11: recall_sick_potato_enable_swear_edge_either_autumn_drastic_bulk_blanket
 bip_39_word_underscore_12: recall_sick_potato_enable_swear_edge_either_autumn_drastic_bulk_blanket_airport
 bip_39_word_underscore_2: recall_sick
 bip_39_word_underscore_3: recall_sick_potato
-bip_39_word_underscore_4: recall_sick_potato_enable
-bip_39_word_underscore_5: recall_sick_potato_enable_swear
-bip_39_word_underscore_6: recall_sick_potato_enable_swear_edge
-bip_39_word_underscore_7: recall_sick_potato_enable_swear_edge_either
-bip_39_word_underscore_8: recall_sick_potato_enable_swear_edge_either_autumn
-bip_39_word_underscore_9: recall_sick_potato_enable_swear_edge_either_autumn_drastic
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: guard
-bip_39_word_dash_10: guard-domain-install-squeeze-face-butter-one-matter-evolve-saddle
-bip_39_word_dash_11: guard-domain-install-squeeze-face-butter-one-matter-evolve-saddle-earn
 bip_39_word_dash_12: guard-domain-install-squeeze-face-butter-one-matter-evolve-saddle-earn-acid
 bip_39_word_dash_2: guard-domain
 bip_39_word_dash_3: guard-domain-install
-bip_39_word_dash_4: guard-domain-install-squeeze
-bip_39_word_dash_5: guard-domain-install-squeeze-face
-bip_39_word_dash_6: guard-domain-install-squeeze-face-butter
-bip_39_word_dash_7: guard-domain-install-squeeze-face-butter-one
-bip_39_word_dash_8: guard-domain-install-squeeze-face-butter-one-matter
-bip_39_word_dash_9: guard-domain-install-squeeze-face-butter-one-matter-evolve
-bip_39_word_new_br_1: guard
-bip_39_word_new_br_10: guard<br>domain<br>install<br>squeeze<br>face<br>butter<br>one<br>matter<br>evolve<br>saddle
-bip_39_word_new_br_11: guard<br>domain<br>install<br>squeeze<br>face<br>butter<br>one<br>matter<br>evolve<br>saddle<br>earn
 bip_39_word_new_br_12: guard<br>domain<br>install<br>squeeze<br>face<br>butter<br>one<br>matter<br>evolve<br>saddle<br>earn<br>acid
 bip_39_word_new_br_2: guard<br>domain
 bip_39_word_new_br_3: guard<br>domain<br>install
-bip_39_word_new_br_4: guard<br>domain<br>install<br>squeeze
-bip_39_word_new_br_5: guard<br>domain<br>install<br>squeeze<br>face
-bip_39_word_new_br_6: guard<br>domain<br>install<br>squeeze<br>face<br>butter
-bip_39_word_new_br_7: guard<br>domain<br>install<br>squeeze<br>face<br>butter<br>one
-bip_39_word_new_br_8: guard<br>domain<br>install<br>squeeze<br>face<br>butter<br>one<br>matter
-bip_39_word_new_br_9: guard<br>domain<br>install<br>squeeze<br>face<br>butter<br>one<br>matter<br>evolve
-bip_39_word_new_line_1: guard
-bip_39_word_new_line_10: 'guard
-
-  domain
-
-  install
-
-  squeeze
-
-  face
-
-  butter
-
-  one
-
-  matter
-
-  evolve
-
-  saddle'
-bip_39_word_new_line_11: 'guard
-
-  domain
-
-  install
-
-  squeeze
-
-  face
-
-  butter
-
-  one
-
-  matter
-
-  evolve
-
-  saddle
-
-  earn'
 bip_39_word_new_line_12: 'guard
 
   domain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'guard
   domain
 
   install'
-bip_39_word_new_line_4: 'guard
-
-  domain
-
-  install
-
-  squeeze'
-bip_39_word_new_line_5: 'guard
-
-  domain
-
-  install
-
-  squeeze
-
-  face'
-bip_39_word_new_line_6: 'guard
-
-  domain
-
-  install
-
-  squeeze
-
-  face
-
-  butter'
-bip_39_word_new_line_7: 'guard
-
-  domain
-
-  install
-
-  squeeze
-
-  face
-
-  butter
-
-  one'
-bip_39_word_new_line_8: 'guard
-
-  domain
-
-  install
-
-  squeeze
-
-  face
-
-  butter
-
-  one
-
-  matter'
-bip_39_word_new_line_9: 'guard
-
-  domain
-
-  install
-
-  squeeze
-
-  face
-
-  butter
-
-  one
-
-  matter
-
-  evolve'
-bip_39_word_no_space_1: guard
-bip_39_word_no_space_10: guarddomaininstallsqueezefacebutteronematterevolvesaddle
-bip_39_word_no_space_11: guarddomaininstallsqueezefacebutteronematterevolvesaddleearn
 bip_39_word_no_space_12: guarddomaininstallsqueezefacebutteronematterevolvesaddleearnacid
 bip_39_word_no_space_2: guarddomain
 bip_39_word_no_space_3: guarddomaininstall
-bip_39_word_no_space_4: guarddomaininstallsqueeze
-bip_39_word_no_space_5: guarddomaininstallsqueezeface
-bip_39_word_no_space_6: guarddomaininstallsqueezefacebutter
-bip_39_word_no_space_7: guarddomaininstallsqueezefacebutterone
-bip_39_word_no_space_8: guarddomaininstallsqueezefacebutteronematter
-bip_39_word_no_space_9: guarddomaininstallsqueezefacebutteronematterevolve
-bip_39_word_space_0:
-- guard
-- domain
-- install
-- squeeze
-- face
-- butter
-- one
-- matter
-- evolve
-- saddle
-- earn
-- acid
-bip_39_word_space_1: guard
-bip_39_word_space_10: guard domain install squeeze face butter one matter evolve saddle
-bip_39_word_space_11: guard domain install squeeze face butter one matter evolve saddle
-  earn
 bip_39_word_space_12: guard domain install squeeze face butter one matter evolve saddle
   earn acid
 bip_39_word_space_2: guard domain
 bip_39_word_space_3: guard domain install
-bip_39_word_space_4: guard domain install squeeze
-bip_39_word_space_5: guard domain install squeeze face
-bip_39_word_space_6: guard domain install squeeze face butter
-bip_39_word_space_7: guard domain install squeeze face butter one
-bip_39_word_space_8: guard domain install squeeze face butter one matter
-bip_39_word_space_9: guard domain install squeeze face butter one matter evolve
-bip_39_word_underscore_1: guard
-bip_39_word_underscore_10: guard_domain_install_squeeze_face_butter_one_matter_evolve_saddle
-bip_39_word_underscore_11: guard_domain_install_squeeze_face_butter_one_matter_evolve_saddle_earn
 bip_39_word_underscore_12: guard_domain_install_squeeze_face_butter_one_matter_evolve_saddle_earn_acid
 bip_39_word_underscore_2: guard_domain
 bip_39_word_underscore_3: guard_domain_install
-bip_39_word_underscore_4: guard_domain_install_squeeze
-bip_39_word_underscore_5: guard_domain_install_squeeze_face
-bip_39_word_underscore_6: guard_domain_install_squeeze_face_butter
-bip_39_word_underscore_7: guard_domain_install_squeeze_face_butter_one
-bip_39_word_underscore_8: guard_domain_install_squeeze_face_butter_one_matter
-bip_39_word_underscore_9: guard_domain_install_squeeze_face_butter_one_matter_evolve
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

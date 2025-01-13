@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bracket
-bip_39_word_dash_10: bracket-trap-audit-city-suffer-cave-nuclear-grass-fly-toss
-bip_39_word_dash_11: bracket-trap-audit-city-suffer-cave-nuclear-grass-fly-toss-lobster
 bip_39_word_dash_12: bracket-trap-audit-city-suffer-cave-nuclear-grass-fly-toss-lobster-apple
 bip_39_word_dash_2: bracket-trap
 bip_39_word_dash_3: bracket-trap-audit
-bip_39_word_dash_4: bracket-trap-audit-city
-bip_39_word_dash_5: bracket-trap-audit-city-suffer
-bip_39_word_dash_6: bracket-trap-audit-city-suffer-cave
-bip_39_word_dash_7: bracket-trap-audit-city-suffer-cave-nuclear
-bip_39_word_dash_8: bracket-trap-audit-city-suffer-cave-nuclear-grass
-bip_39_word_dash_9: bracket-trap-audit-city-suffer-cave-nuclear-grass-fly
-bip_39_word_new_br_1: bracket
-bip_39_word_new_br_10: bracket<br>trap<br>audit<br>city<br>suffer<br>cave<br>nuclear<br>grass<br>fly<br>toss
-bip_39_word_new_br_11: bracket<br>trap<br>audit<br>city<br>suffer<br>cave<br>nuclear<br>grass<br>fly<br>toss<br>lobster
 bip_39_word_new_br_12: bracket<br>trap<br>audit<br>city<br>suffer<br>cave<br>nuclear<br>grass<br>fly<br>toss<br>lobster<br>apple
 bip_39_word_new_br_2: bracket<br>trap
 bip_39_word_new_br_3: bracket<br>trap<br>audit
-bip_39_word_new_br_4: bracket<br>trap<br>audit<br>city
-bip_39_word_new_br_5: bracket<br>trap<br>audit<br>city<br>suffer
-bip_39_word_new_br_6: bracket<br>trap<br>audit<br>city<br>suffer<br>cave
-bip_39_word_new_br_7: bracket<br>trap<br>audit<br>city<br>suffer<br>cave<br>nuclear
-bip_39_word_new_br_8: bracket<br>trap<br>audit<br>city<br>suffer<br>cave<br>nuclear<br>grass
-bip_39_word_new_br_9: bracket<br>trap<br>audit<br>city<br>suffer<br>cave<br>nuclear<br>grass<br>fly
-bip_39_word_new_line_1: bracket
-bip_39_word_new_line_10: 'bracket
-
-  trap
-
-  audit
-
-  city
-
-  suffer
-
-  cave
-
-  nuclear
-
-  grass
-
-  fly
-
-  toss'
-bip_39_word_new_line_11: 'bracket
-
-  trap
-
-  audit
-
-  city
-
-  suffer
-
-  cave
-
-  nuclear
-
-  grass
-
-  fly
-
-  toss
-
-  lobster'
 bip_39_word_new_line_12: 'bracket
 
   trap
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'bracket
   trap
 
   audit'
-bip_39_word_new_line_4: 'bracket
-
-  trap
-
-  audit
-
-  city'
-bip_39_word_new_line_5: 'bracket
-
-  trap
-
-  audit
-
-  city
-
-  suffer'
-bip_39_word_new_line_6: 'bracket
-
-  trap
-
-  audit
-
-  city
-
-  suffer
-
-  cave'
-bip_39_word_new_line_7: 'bracket
-
-  trap
-
-  audit
-
-  city
-
-  suffer
-
-  cave
-
-  nuclear'
-bip_39_word_new_line_8: 'bracket
-
-  trap
-
-  audit
-
-  city
-
-  suffer
-
-  cave
-
-  nuclear
-
-  grass'
-bip_39_word_new_line_9: 'bracket
-
-  trap
-
-  audit
-
-  city
-
-  suffer
-
-  cave
-
-  nuclear
-
-  grass
-
-  fly'
-bip_39_word_no_space_1: bracket
-bip_39_word_no_space_10: brackettrapauditcitysuffercavenucleargrassflytoss
-bip_39_word_no_space_11: brackettrapauditcitysuffercavenucleargrassflytosslobster
 bip_39_word_no_space_12: brackettrapauditcitysuffercavenucleargrassflytosslobsterapple
 bip_39_word_no_space_2: brackettrap
 bip_39_word_no_space_3: brackettrapaudit
-bip_39_word_no_space_4: brackettrapauditcity
-bip_39_word_no_space_5: brackettrapauditcitysuffer
-bip_39_word_no_space_6: brackettrapauditcitysuffercave
-bip_39_word_no_space_7: brackettrapauditcitysuffercavenuclear
-bip_39_word_no_space_8: brackettrapauditcitysuffercavenucleargrass
-bip_39_word_no_space_9: brackettrapauditcitysuffercavenucleargrassfly
-bip_39_word_space_0:
-- bracket
-- trap
-- audit
-- city
-- suffer
-- cave
-- nuclear
-- grass
-- fly
-- toss
-- lobster
-- apple
-bip_39_word_space_1: bracket
-bip_39_word_space_10: bracket trap audit city suffer cave nuclear grass fly toss
-bip_39_word_space_11: bracket trap audit city suffer cave nuclear grass fly toss lobster
 bip_39_word_space_12: bracket trap audit city suffer cave nuclear grass fly toss lobster
   apple
 bip_39_word_space_2: bracket trap
 bip_39_word_space_3: bracket trap audit
-bip_39_word_space_4: bracket trap audit city
-bip_39_word_space_5: bracket trap audit city suffer
-bip_39_word_space_6: bracket trap audit city suffer cave
-bip_39_word_space_7: bracket trap audit city suffer cave nuclear
-bip_39_word_space_8: bracket trap audit city suffer cave nuclear grass
-bip_39_word_space_9: bracket trap audit city suffer cave nuclear grass fly
-bip_39_word_underscore_1: bracket
-bip_39_word_underscore_10: bracket_trap_audit_city_suffer_cave_nuclear_grass_fly_toss
-bip_39_word_underscore_11: bracket_trap_audit_city_suffer_cave_nuclear_grass_fly_toss_lobster
 bip_39_word_underscore_12: bracket_trap_audit_city_suffer_cave_nuclear_grass_fly_toss_lobster_apple
 bip_39_word_underscore_2: bracket_trap
 bip_39_word_underscore_3: bracket_trap_audit
-bip_39_word_underscore_4: bracket_trap_audit_city
-bip_39_word_underscore_5: bracket_trap_audit_city_suffer
-bip_39_word_underscore_6: bracket_trap_audit_city_suffer_cave
-bip_39_word_underscore_7: bracket_trap_audit_city_suffer_cave_nuclear
-bip_39_word_underscore_8: bracket_trap_audit_city_suffer_cave_nuclear_grass
-bip_39_word_underscore_9: bracket_trap_audit_city_suffer_cave_nuclear_grass_fly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

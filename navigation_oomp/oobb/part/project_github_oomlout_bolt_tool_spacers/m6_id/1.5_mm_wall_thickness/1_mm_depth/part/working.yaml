@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slow
-bip_39_word_dash_10: slow-meat-address-invite-demand-deny-uniform-soup-accident-mask
-bip_39_word_dash_11: slow-meat-address-invite-demand-deny-uniform-soup-accident-mask-mixture
 bip_39_word_dash_12: slow-meat-address-invite-demand-deny-uniform-soup-accident-mask-mixture-almost
 bip_39_word_dash_2: slow-meat
 bip_39_word_dash_3: slow-meat-address
-bip_39_word_dash_4: slow-meat-address-invite
-bip_39_word_dash_5: slow-meat-address-invite-demand
-bip_39_word_dash_6: slow-meat-address-invite-demand-deny
-bip_39_word_dash_7: slow-meat-address-invite-demand-deny-uniform
-bip_39_word_dash_8: slow-meat-address-invite-demand-deny-uniform-soup
-bip_39_word_dash_9: slow-meat-address-invite-demand-deny-uniform-soup-accident
-bip_39_word_new_br_1: slow
-bip_39_word_new_br_10: slow<br>meat<br>address<br>invite<br>demand<br>deny<br>uniform<br>soup<br>accident<br>mask
-bip_39_word_new_br_11: slow<br>meat<br>address<br>invite<br>demand<br>deny<br>uniform<br>soup<br>accident<br>mask<br>mixture
 bip_39_word_new_br_12: slow<br>meat<br>address<br>invite<br>demand<br>deny<br>uniform<br>soup<br>accident<br>mask<br>mixture<br>almost
 bip_39_word_new_br_2: slow<br>meat
 bip_39_word_new_br_3: slow<br>meat<br>address
-bip_39_word_new_br_4: slow<br>meat<br>address<br>invite
-bip_39_word_new_br_5: slow<br>meat<br>address<br>invite<br>demand
-bip_39_word_new_br_6: slow<br>meat<br>address<br>invite<br>demand<br>deny
-bip_39_word_new_br_7: slow<br>meat<br>address<br>invite<br>demand<br>deny<br>uniform
-bip_39_word_new_br_8: slow<br>meat<br>address<br>invite<br>demand<br>deny<br>uniform<br>soup
-bip_39_word_new_br_9: slow<br>meat<br>address<br>invite<br>demand<br>deny<br>uniform<br>soup<br>accident
-bip_39_word_new_line_1: slow
-bip_39_word_new_line_10: 'slow
-
-  meat
-
-  address
-
-  invite
-
-  demand
-
-  deny
-
-  uniform
-
-  soup
-
-  accident
-
-  mask'
-bip_39_word_new_line_11: 'slow
-
-  meat
-
-  address
-
-  invite
-
-  demand
-
-  deny
-
-  uniform
-
-  soup
-
-  accident
-
-  mask
-
-  mixture'
 bip_39_word_new_line_12: 'slow
 
   meat
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slow
   meat
 
   address'
-bip_39_word_new_line_4: 'slow
-
-  meat
-
-  address
-
-  invite'
-bip_39_word_new_line_5: 'slow
-
-  meat
-
-  address
-
-  invite
-
-  demand'
-bip_39_word_new_line_6: 'slow
-
-  meat
-
-  address
-
-  invite
-
-  demand
-
-  deny'
-bip_39_word_new_line_7: 'slow
-
-  meat
-
-  address
-
-  invite
-
-  demand
-
-  deny
-
-  uniform'
-bip_39_word_new_line_8: 'slow
-
-  meat
-
-  address
-
-  invite
-
-  demand
-
-  deny
-
-  uniform
-
-  soup'
-bip_39_word_new_line_9: 'slow
-
-  meat
-
-  address
-
-  invite
-
-  demand
-
-  deny
-
-  uniform
-
-  soup
-
-  accident'
-bip_39_word_no_space_1: slow
-bip_39_word_no_space_10: slowmeataddressinvitedemanddenyuniformsoupaccidentmask
-bip_39_word_no_space_11: slowmeataddressinvitedemanddenyuniformsoupaccidentmaskmixture
 bip_39_word_no_space_12: slowmeataddressinvitedemanddenyuniformsoupaccidentmaskmixturealmost
 bip_39_word_no_space_2: slowmeat
 bip_39_word_no_space_3: slowmeataddress
-bip_39_word_no_space_4: slowmeataddressinvite
-bip_39_word_no_space_5: slowmeataddressinvitedemand
-bip_39_word_no_space_6: slowmeataddressinvitedemanddeny
-bip_39_word_no_space_7: slowmeataddressinvitedemanddenyuniform
-bip_39_word_no_space_8: slowmeataddressinvitedemanddenyuniformsoup
-bip_39_word_no_space_9: slowmeataddressinvitedemanddenyuniformsoupaccident
-bip_39_word_space_0:
-- slow
-- meat
-- address
-- invite
-- demand
-- deny
-- uniform
-- soup
-- accident
-- mask
-- mixture
-- almost
-bip_39_word_space_1: slow
-bip_39_word_space_10: slow meat address invite demand deny uniform soup accident mask
-bip_39_word_space_11: slow meat address invite demand deny uniform soup accident mask
-  mixture
 bip_39_word_space_12: slow meat address invite demand deny uniform soup accident mask
   mixture almost
 bip_39_word_space_2: slow meat
 bip_39_word_space_3: slow meat address
-bip_39_word_space_4: slow meat address invite
-bip_39_word_space_5: slow meat address invite demand
-bip_39_word_space_6: slow meat address invite demand deny
-bip_39_word_space_7: slow meat address invite demand deny uniform
-bip_39_word_space_8: slow meat address invite demand deny uniform soup
-bip_39_word_space_9: slow meat address invite demand deny uniform soup accident
-bip_39_word_underscore_1: slow
-bip_39_word_underscore_10: slow_meat_address_invite_demand_deny_uniform_soup_accident_mask
-bip_39_word_underscore_11: slow_meat_address_invite_demand_deny_uniform_soup_accident_mask_mixture
 bip_39_word_underscore_12: slow_meat_address_invite_demand_deny_uniform_soup_accident_mask_mixture_almost
 bip_39_word_underscore_2: slow_meat
 bip_39_word_underscore_3: slow_meat_address
-bip_39_word_underscore_4: slow_meat_address_invite
-bip_39_word_underscore_5: slow_meat_address_invite_demand
-bip_39_word_underscore_6: slow_meat_address_invite_demand_deny
-bip_39_word_underscore_7: slow_meat_address_invite_demand_deny_uniform
-bip_39_word_underscore_8: slow_meat_address_invite_demand_deny_uniform_soup
-bip_39_word_underscore_9: slow_meat_address_invite_demand_deny_uniform_soup_accident
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sail
-bip_39_word_dash_10: sail-office-soup-hub-thunder-lady-clerk-dog-engage-purpose
-bip_39_word_dash_11: sail-office-soup-hub-thunder-lady-clerk-dog-engage-purpose-route
 bip_39_word_dash_12: sail-office-soup-hub-thunder-lady-clerk-dog-engage-purpose-route-antique
 bip_39_word_dash_2: sail-office
 bip_39_word_dash_3: sail-office-soup
-bip_39_word_dash_4: sail-office-soup-hub
-bip_39_word_dash_5: sail-office-soup-hub-thunder
-bip_39_word_dash_6: sail-office-soup-hub-thunder-lady
-bip_39_word_dash_7: sail-office-soup-hub-thunder-lady-clerk
-bip_39_word_dash_8: sail-office-soup-hub-thunder-lady-clerk-dog
-bip_39_word_dash_9: sail-office-soup-hub-thunder-lady-clerk-dog-engage
-bip_39_word_new_br_1: sail
-bip_39_word_new_br_10: sail<br>office<br>soup<br>hub<br>thunder<br>lady<br>clerk<br>dog<br>engage<br>purpose
-bip_39_word_new_br_11: sail<br>office<br>soup<br>hub<br>thunder<br>lady<br>clerk<br>dog<br>engage<br>purpose<br>route
 bip_39_word_new_br_12: sail<br>office<br>soup<br>hub<br>thunder<br>lady<br>clerk<br>dog<br>engage<br>purpose<br>route<br>antique
 bip_39_word_new_br_2: sail<br>office
 bip_39_word_new_br_3: sail<br>office<br>soup
-bip_39_word_new_br_4: sail<br>office<br>soup<br>hub
-bip_39_word_new_br_5: sail<br>office<br>soup<br>hub<br>thunder
-bip_39_word_new_br_6: sail<br>office<br>soup<br>hub<br>thunder<br>lady
-bip_39_word_new_br_7: sail<br>office<br>soup<br>hub<br>thunder<br>lady<br>clerk
-bip_39_word_new_br_8: sail<br>office<br>soup<br>hub<br>thunder<br>lady<br>clerk<br>dog
-bip_39_word_new_br_9: sail<br>office<br>soup<br>hub<br>thunder<br>lady<br>clerk<br>dog<br>engage
-bip_39_word_new_line_1: sail
-bip_39_word_new_line_10: 'sail
-
-  office
-
-  soup
-
-  hub
-
-  thunder
-
-  lady
-
-  clerk
-
-  dog
-
-  engage
-
-  purpose'
-bip_39_word_new_line_11: 'sail
-
-  office
-
-  soup
-
-  hub
-
-  thunder
-
-  lady
-
-  clerk
-
-  dog
-
-  engage
-
-  purpose
-
-  route'
 bip_39_word_new_line_12: 'sail
 
   office
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'sail
   office
 
   soup'
-bip_39_word_new_line_4: 'sail
-
-  office
-
-  soup
-
-  hub'
-bip_39_word_new_line_5: 'sail
-
-  office
-
-  soup
-
-  hub
-
-  thunder'
-bip_39_word_new_line_6: 'sail
-
-  office
-
-  soup
-
-  hub
-
-  thunder
-
-  lady'
-bip_39_word_new_line_7: 'sail
-
-  office
-
-  soup
-
-  hub
-
-  thunder
-
-  lady
-
-  clerk'
-bip_39_word_new_line_8: 'sail
-
-  office
-
-  soup
-
-  hub
-
-  thunder
-
-  lady
-
-  clerk
-
-  dog'
-bip_39_word_new_line_9: 'sail
-
-  office
-
-  soup
-
-  hub
-
-  thunder
-
-  lady
-
-  clerk
-
-  dog
-
-  engage'
-bip_39_word_no_space_1: sail
-bip_39_word_no_space_10: sailofficesouphubthunderladyclerkdogengagepurpose
-bip_39_word_no_space_11: sailofficesouphubthunderladyclerkdogengagepurposeroute
 bip_39_word_no_space_12: sailofficesouphubthunderladyclerkdogengagepurposerouteantique
 bip_39_word_no_space_2: sailoffice
 bip_39_word_no_space_3: sailofficesoup
-bip_39_word_no_space_4: sailofficesouphub
-bip_39_word_no_space_5: sailofficesouphubthunder
-bip_39_word_no_space_6: sailofficesouphubthunderlady
-bip_39_word_no_space_7: sailofficesouphubthunderladyclerk
-bip_39_word_no_space_8: sailofficesouphubthunderladyclerkdog
-bip_39_word_no_space_9: sailofficesouphubthunderladyclerkdogengage
-bip_39_word_space_0:
-- sail
-- office
-- soup
-- hub
-- thunder
-- lady
-- clerk
-- dog
-- engage
-- purpose
-- route
-- antique
-bip_39_word_space_1: sail
-bip_39_word_space_10: sail office soup hub thunder lady clerk dog engage purpose
-bip_39_word_space_11: sail office soup hub thunder lady clerk dog engage purpose route
 bip_39_word_space_12: sail office soup hub thunder lady clerk dog engage purpose route
   antique
 bip_39_word_space_2: sail office
 bip_39_word_space_3: sail office soup
-bip_39_word_space_4: sail office soup hub
-bip_39_word_space_5: sail office soup hub thunder
-bip_39_word_space_6: sail office soup hub thunder lady
-bip_39_word_space_7: sail office soup hub thunder lady clerk
-bip_39_word_space_8: sail office soup hub thunder lady clerk dog
-bip_39_word_space_9: sail office soup hub thunder lady clerk dog engage
-bip_39_word_underscore_1: sail
-bip_39_word_underscore_10: sail_office_soup_hub_thunder_lady_clerk_dog_engage_purpose
-bip_39_word_underscore_11: sail_office_soup_hub_thunder_lady_clerk_dog_engage_purpose_route
 bip_39_word_underscore_12: sail_office_soup_hub_thunder_lady_clerk_dog_engage_purpose_route_antique
 bip_39_word_underscore_2: sail_office
 bip_39_word_underscore_3: sail_office_soup
-bip_39_word_underscore_4: sail_office_soup_hub
-bip_39_word_underscore_5: sail_office_soup_hub_thunder
-bip_39_word_underscore_6: sail_office_soup_hub_thunder_lady
-bip_39_word_underscore_7: sail_office_soup_hub_thunder_lady_clerk
-bip_39_word_underscore_8: sail_office_soup_hub_thunder_lady_clerk_dog
-bip_39_word_underscore_9: sail_office_soup_hub_thunder_lady_clerk_dog_engage
 classification: project
 classification_capital: Project
 classification_first_letter: p

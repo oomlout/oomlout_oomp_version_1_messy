@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crouch
-bip_39_word_dash_10: crouch-ball-owner-garbage-north-envelope-fire-alert-claim-tuna
-bip_39_word_dash_11: crouch-ball-owner-garbage-north-envelope-fire-alert-claim-tuna-stable
 bip_39_word_dash_12: crouch-ball-owner-garbage-north-envelope-fire-alert-claim-tuna-stable-angle
 bip_39_word_dash_2: crouch-ball
 bip_39_word_dash_3: crouch-ball-owner
-bip_39_word_dash_4: crouch-ball-owner-garbage
-bip_39_word_dash_5: crouch-ball-owner-garbage-north
-bip_39_word_dash_6: crouch-ball-owner-garbage-north-envelope
-bip_39_word_dash_7: crouch-ball-owner-garbage-north-envelope-fire
-bip_39_word_dash_8: crouch-ball-owner-garbage-north-envelope-fire-alert
-bip_39_word_dash_9: crouch-ball-owner-garbage-north-envelope-fire-alert-claim
-bip_39_word_new_br_1: crouch
-bip_39_word_new_br_10: crouch<br>ball<br>owner<br>garbage<br>north<br>envelope<br>fire<br>alert<br>claim<br>tuna
-bip_39_word_new_br_11: crouch<br>ball<br>owner<br>garbage<br>north<br>envelope<br>fire<br>alert<br>claim<br>tuna<br>stable
 bip_39_word_new_br_12: crouch<br>ball<br>owner<br>garbage<br>north<br>envelope<br>fire<br>alert<br>claim<br>tuna<br>stable<br>angle
 bip_39_word_new_br_2: crouch<br>ball
 bip_39_word_new_br_3: crouch<br>ball<br>owner
-bip_39_word_new_br_4: crouch<br>ball<br>owner<br>garbage
-bip_39_word_new_br_5: crouch<br>ball<br>owner<br>garbage<br>north
-bip_39_word_new_br_6: crouch<br>ball<br>owner<br>garbage<br>north<br>envelope
-bip_39_word_new_br_7: crouch<br>ball<br>owner<br>garbage<br>north<br>envelope<br>fire
-bip_39_word_new_br_8: crouch<br>ball<br>owner<br>garbage<br>north<br>envelope<br>fire<br>alert
-bip_39_word_new_br_9: crouch<br>ball<br>owner<br>garbage<br>north<br>envelope<br>fire<br>alert<br>claim
-bip_39_word_new_line_1: crouch
-bip_39_word_new_line_10: 'crouch
-
-  ball
-
-  owner
-
-  garbage
-
-  north
-
-  envelope
-
-  fire
-
-  alert
-
-  claim
-
-  tuna'
-bip_39_word_new_line_11: 'crouch
-
-  ball
-
-  owner
-
-  garbage
-
-  north
-
-  envelope
-
-  fire
-
-  alert
-
-  claim
-
-  tuna
-
-  stable'
 bip_39_word_new_line_12: 'crouch
 
   ball
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crouch
   ball
 
   owner'
-bip_39_word_new_line_4: 'crouch
-
-  ball
-
-  owner
-
-  garbage'
-bip_39_word_new_line_5: 'crouch
-
-  ball
-
-  owner
-
-  garbage
-
-  north'
-bip_39_word_new_line_6: 'crouch
-
-  ball
-
-  owner
-
-  garbage
-
-  north
-
-  envelope'
-bip_39_word_new_line_7: 'crouch
-
-  ball
-
-  owner
-
-  garbage
-
-  north
-
-  envelope
-
-  fire'
-bip_39_word_new_line_8: 'crouch
-
-  ball
-
-  owner
-
-  garbage
-
-  north
-
-  envelope
-
-  fire
-
-  alert'
-bip_39_word_new_line_9: 'crouch
-
-  ball
-
-  owner
-
-  garbage
-
-  north
-
-  envelope
-
-  fire
-
-  alert
-
-  claim'
-bip_39_word_no_space_1: crouch
-bip_39_word_no_space_10: crouchballownergarbagenorthenvelopefirealertclaimtuna
-bip_39_word_no_space_11: crouchballownergarbagenorthenvelopefirealertclaimtunastable
 bip_39_word_no_space_12: crouchballownergarbagenorthenvelopefirealertclaimtunastableangle
 bip_39_word_no_space_2: crouchball
 bip_39_word_no_space_3: crouchballowner
-bip_39_word_no_space_4: crouchballownergarbage
-bip_39_word_no_space_5: crouchballownergarbagenorth
-bip_39_word_no_space_6: crouchballownergarbagenorthenvelope
-bip_39_word_no_space_7: crouchballownergarbagenorthenvelopefire
-bip_39_word_no_space_8: crouchballownergarbagenorthenvelopefirealert
-bip_39_word_no_space_9: crouchballownergarbagenorthenvelopefirealertclaim
-bip_39_word_space_0:
-- crouch
-- ball
-- owner
-- garbage
-- north
-- envelope
-- fire
-- alert
-- claim
-- tuna
-- stable
-- angle
-bip_39_word_space_1: crouch
-bip_39_word_space_10: crouch ball owner garbage north envelope fire alert claim tuna
-bip_39_word_space_11: crouch ball owner garbage north envelope fire alert claim tuna
-  stable
 bip_39_word_space_12: crouch ball owner garbage north envelope fire alert claim tuna
   stable angle
 bip_39_word_space_2: crouch ball
 bip_39_word_space_3: crouch ball owner
-bip_39_word_space_4: crouch ball owner garbage
-bip_39_word_space_5: crouch ball owner garbage north
-bip_39_word_space_6: crouch ball owner garbage north envelope
-bip_39_word_space_7: crouch ball owner garbage north envelope fire
-bip_39_word_space_8: crouch ball owner garbage north envelope fire alert
-bip_39_word_space_9: crouch ball owner garbage north envelope fire alert claim
-bip_39_word_underscore_1: crouch
-bip_39_word_underscore_10: crouch_ball_owner_garbage_north_envelope_fire_alert_claim_tuna
-bip_39_word_underscore_11: crouch_ball_owner_garbage_north_envelope_fire_alert_claim_tuna_stable
 bip_39_word_underscore_12: crouch_ball_owner_garbage_north_envelope_fire_alert_claim_tuna_stable_angle
 bip_39_word_underscore_2: crouch_ball
 bip_39_word_underscore_3: crouch_ball_owner
-bip_39_word_underscore_4: crouch_ball_owner_garbage
-bip_39_word_underscore_5: crouch_ball_owner_garbage_north
-bip_39_word_underscore_6: crouch_ball_owner_garbage_north_envelope
-bip_39_word_underscore_7: crouch_ball_owner_garbage_north_envelope_fire
-bip_39_word_underscore_8: crouch_ball_owner_garbage_north_envelope_fire_alert
-bip_39_word_underscore_9: crouch_ball_owner_garbage_north_envelope_fire_alert_claim
 classification: category
 classification_capital: Category
 classification_first_letter: c

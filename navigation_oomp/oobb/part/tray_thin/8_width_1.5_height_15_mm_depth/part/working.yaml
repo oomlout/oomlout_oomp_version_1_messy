@@ -1,68 +1,9 @@
-bip_39_word_dash_1: claw
-bip_39_word_dash_10: claw-buzz-sun-crowd-vote-emotion-you-wrong-note-brick
-bip_39_word_dash_11: claw-buzz-sun-crowd-vote-emotion-you-wrong-note-brick-fever
 bip_39_word_dash_12: claw-buzz-sun-crowd-vote-emotion-you-wrong-note-brick-fever-accident
 bip_39_word_dash_2: claw-buzz
 bip_39_word_dash_3: claw-buzz-sun
-bip_39_word_dash_4: claw-buzz-sun-crowd
-bip_39_word_dash_5: claw-buzz-sun-crowd-vote
-bip_39_word_dash_6: claw-buzz-sun-crowd-vote-emotion
-bip_39_word_dash_7: claw-buzz-sun-crowd-vote-emotion-you
-bip_39_word_dash_8: claw-buzz-sun-crowd-vote-emotion-you-wrong
-bip_39_word_dash_9: claw-buzz-sun-crowd-vote-emotion-you-wrong-note
-bip_39_word_new_br_1: claw
-bip_39_word_new_br_10: claw<br>buzz<br>sun<br>crowd<br>vote<br>emotion<br>you<br>wrong<br>note<br>brick
-bip_39_word_new_br_11: claw<br>buzz<br>sun<br>crowd<br>vote<br>emotion<br>you<br>wrong<br>note<br>brick<br>fever
 bip_39_word_new_br_12: claw<br>buzz<br>sun<br>crowd<br>vote<br>emotion<br>you<br>wrong<br>note<br>brick<br>fever<br>accident
 bip_39_word_new_br_2: claw<br>buzz
 bip_39_word_new_br_3: claw<br>buzz<br>sun
-bip_39_word_new_br_4: claw<br>buzz<br>sun<br>crowd
-bip_39_word_new_br_5: claw<br>buzz<br>sun<br>crowd<br>vote
-bip_39_word_new_br_6: claw<br>buzz<br>sun<br>crowd<br>vote<br>emotion
-bip_39_word_new_br_7: claw<br>buzz<br>sun<br>crowd<br>vote<br>emotion<br>you
-bip_39_word_new_br_8: claw<br>buzz<br>sun<br>crowd<br>vote<br>emotion<br>you<br>wrong
-bip_39_word_new_br_9: claw<br>buzz<br>sun<br>crowd<br>vote<br>emotion<br>you<br>wrong<br>note
-bip_39_word_new_line_1: claw
-bip_39_word_new_line_10: 'claw
-
-  buzz
-
-  sun
-
-  crowd
-
-  vote
-
-  emotion
-
-  you
-
-  wrong
-
-  note
-
-  brick'
-bip_39_word_new_line_11: 'claw
-
-  buzz
-
-  sun
-
-  crowd
-
-  vote
-
-  emotion
-
-  you
-
-  wrong
-
-  note
-
-  brick
-
-  fever'
 bip_39_word_new_line_12: 'claw
 
   buzz
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'claw
   buzz
 
   sun'
-bip_39_word_new_line_4: 'claw
-
-  buzz
-
-  sun
-
-  crowd'
-bip_39_word_new_line_5: 'claw
-
-  buzz
-
-  sun
-
-  crowd
-
-  vote'
-bip_39_word_new_line_6: 'claw
-
-  buzz
-
-  sun
-
-  crowd
-
-  vote
-
-  emotion'
-bip_39_word_new_line_7: 'claw
-
-  buzz
-
-  sun
-
-  crowd
-
-  vote
-
-  emotion
-
-  you'
-bip_39_word_new_line_8: 'claw
-
-  buzz
-
-  sun
-
-  crowd
-
-  vote
-
-  emotion
-
-  you
-
-  wrong'
-bip_39_word_new_line_9: 'claw
-
-  buzz
-
-  sun
-
-  crowd
-
-  vote
-
-  emotion
-
-  you
-
-  wrong
-
-  note'
-bip_39_word_no_space_1: claw
-bip_39_word_no_space_10: clawbuzzsuncrowdvoteemotionyouwrongnotebrick
-bip_39_word_no_space_11: clawbuzzsuncrowdvoteemotionyouwrongnotebrickfever
 bip_39_word_no_space_12: clawbuzzsuncrowdvoteemotionyouwrongnotebrickfeveraccident
 bip_39_word_no_space_2: clawbuzz
 bip_39_word_no_space_3: clawbuzzsun
-bip_39_word_no_space_4: clawbuzzsuncrowd
-bip_39_word_no_space_5: clawbuzzsuncrowdvote
-bip_39_word_no_space_6: clawbuzzsuncrowdvoteemotion
-bip_39_word_no_space_7: clawbuzzsuncrowdvoteemotionyou
-bip_39_word_no_space_8: clawbuzzsuncrowdvoteemotionyouwrong
-bip_39_word_no_space_9: clawbuzzsuncrowdvoteemotionyouwrongnote
-bip_39_word_space_0:
-- claw
-- buzz
-- sun
-- crowd
-- vote
-- emotion
-- you
-- wrong
-- note
-- brick
-- fever
-- accident
-bip_39_word_space_1: claw
-bip_39_word_space_10: claw buzz sun crowd vote emotion you wrong note brick
-bip_39_word_space_11: claw buzz sun crowd vote emotion you wrong note brick fever
 bip_39_word_space_12: claw buzz sun crowd vote emotion you wrong note brick fever
   accident
 bip_39_word_space_2: claw buzz
 bip_39_word_space_3: claw buzz sun
-bip_39_word_space_4: claw buzz sun crowd
-bip_39_word_space_5: claw buzz sun crowd vote
-bip_39_word_space_6: claw buzz sun crowd vote emotion
-bip_39_word_space_7: claw buzz sun crowd vote emotion you
-bip_39_word_space_8: claw buzz sun crowd vote emotion you wrong
-bip_39_word_space_9: claw buzz sun crowd vote emotion you wrong note
-bip_39_word_underscore_1: claw
-bip_39_word_underscore_10: claw_buzz_sun_crowd_vote_emotion_you_wrong_note_brick
-bip_39_word_underscore_11: claw_buzz_sun_crowd_vote_emotion_you_wrong_note_brick_fever
 bip_39_word_underscore_12: claw_buzz_sun_crowd_vote_emotion_you_wrong_note_brick_fever_accident
 bip_39_word_underscore_2: claw_buzz
 bip_39_word_underscore_3: claw_buzz_sun
-bip_39_word_underscore_4: claw_buzz_sun_crowd
-bip_39_word_underscore_5: claw_buzz_sun_crowd_vote
-bip_39_word_underscore_6: claw_buzz_sun_crowd_vote_emotion
-bip_39_word_underscore_7: claw_buzz_sun_crowd_vote_emotion_you
-bip_39_word_underscore_8: claw_buzz_sun_crowd_vote_emotion_you_wrong
-bip_39_word_underscore_9: claw_buzz_sun_crowd_vote_emotion_you_wrong_note
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

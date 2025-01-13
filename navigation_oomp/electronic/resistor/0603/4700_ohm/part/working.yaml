@@ -1,68 +1,9 @@
-bip_39_word_dash_1: brisk
-bip_39_word_dash_10: brisk-swap-sword-equip-ridge-giant-orchard-rescue-camera-sweet
-bip_39_word_dash_11: brisk-swap-sword-equip-ridge-giant-orchard-rescue-camera-sweet-scan
 bip_39_word_dash_12: brisk-swap-sword-equip-ridge-giant-orchard-rescue-camera-sweet-scan-alter
 bip_39_word_dash_2: brisk-swap
 bip_39_word_dash_3: brisk-swap-sword
-bip_39_word_dash_4: brisk-swap-sword-equip
-bip_39_word_dash_5: brisk-swap-sword-equip-ridge
-bip_39_word_dash_6: brisk-swap-sword-equip-ridge-giant
-bip_39_word_dash_7: brisk-swap-sword-equip-ridge-giant-orchard
-bip_39_word_dash_8: brisk-swap-sword-equip-ridge-giant-orchard-rescue
-bip_39_word_dash_9: brisk-swap-sword-equip-ridge-giant-orchard-rescue-camera
-bip_39_word_new_br_1: brisk
-bip_39_word_new_br_10: brisk<br>swap<br>sword<br>equip<br>ridge<br>giant<br>orchard<br>rescue<br>camera<br>sweet
-bip_39_word_new_br_11: brisk<br>swap<br>sword<br>equip<br>ridge<br>giant<br>orchard<br>rescue<br>camera<br>sweet<br>scan
 bip_39_word_new_br_12: brisk<br>swap<br>sword<br>equip<br>ridge<br>giant<br>orchard<br>rescue<br>camera<br>sweet<br>scan<br>alter
 bip_39_word_new_br_2: brisk<br>swap
 bip_39_word_new_br_3: brisk<br>swap<br>sword
-bip_39_word_new_br_4: brisk<br>swap<br>sword<br>equip
-bip_39_word_new_br_5: brisk<br>swap<br>sword<br>equip<br>ridge
-bip_39_word_new_br_6: brisk<br>swap<br>sword<br>equip<br>ridge<br>giant
-bip_39_word_new_br_7: brisk<br>swap<br>sword<br>equip<br>ridge<br>giant<br>orchard
-bip_39_word_new_br_8: brisk<br>swap<br>sword<br>equip<br>ridge<br>giant<br>orchard<br>rescue
-bip_39_word_new_br_9: brisk<br>swap<br>sword<br>equip<br>ridge<br>giant<br>orchard<br>rescue<br>camera
-bip_39_word_new_line_1: brisk
-bip_39_word_new_line_10: 'brisk
-
-  swap
-
-  sword
-
-  equip
-
-  ridge
-
-  giant
-
-  orchard
-
-  rescue
-
-  camera
-
-  sweet'
-bip_39_word_new_line_11: 'brisk
-
-  swap
-
-  sword
-
-  equip
-
-  ridge
-
-  giant
-
-  orchard
-
-  rescue
-
-  camera
-
-  sweet
-
-  scan'
 bip_39_word_new_line_12: 'brisk
 
   swap
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'brisk
   swap
 
   sword'
-bip_39_word_new_line_4: 'brisk
-
-  swap
-
-  sword
-
-  equip'
-bip_39_word_new_line_5: 'brisk
-
-  swap
-
-  sword
-
-  equip
-
-  ridge'
-bip_39_word_new_line_6: 'brisk
-
-  swap
-
-  sword
-
-  equip
-
-  ridge
-
-  giant'
-bip_39_word_new_line_7: 'brisk
-
-  swap
-
-  sword
-
-  equip
-
-  ridge
-
-  giant
-
-  orchard'
-bip_39_word_new_line_8: 'brisk
-
-  swap
-
-  sword
-
-  equip
-
-  ridge
-
-  giant
-
-  orchard
-
-  rescue'
-bip_39_word_new_line_9: 'brisk
-
-  swap
-
-  sword
-
-  equip
-
-  ridge
-
-  giant
-
-  orchard
-
-  rescue
-
-  camera'
-bip_39_word_no_space_1: brisk
-bip_39_word_no_space_10: briskswapswordequipridgegiantorchardrescuecamerasweet
-bip_39_word_no_space_11: briskswapswordequipridgegiantorchardrescuecamerasweetscan
 bip_39_word_no_space_12: briskswapswordequipridgegiantorchardrescuecamerasweetscanalter
 bip_39_word_no_space_2: briskswap
 bip_39_word_no_space_3: briskswapsword
-bip_39_word_no_space_4: briskswapswordequip
-bip_39_word_no_space_5: briskswapswordequipridge
-bip_39_word_no_space_6: briskswapswordequipridgegiant
-bip_39_word_no_space_7: briskswapswordequipridgegiantorchard
-bip_39_word_no_space_8: briskswapswordequipridgegiantorchardrescue
-bip_39_word_no_space_9: briskswapswordequipridgegiantorchardrescuecamera
-bip_39_word_space_0:
-- brisk
-- swap
-- sword
-- equip
-- ridge
-- giant
-- orchard
-- rescue
-- camera
-- sweet
-- scan
-- alter
-bip_39_word_space_1: brisk
-bip_39_word_space_10: brisk swap sword equip ridge giant orchard rescue camera sweet
-bip_39_word_space_11: brisk swap sword equip ridge giant orchard rescue camera sweet
-  scan
 bip_39_word_space_12: brisk swap sword equip ridge giant orchard rescue camera sweet
   scan alter
 bip_39_word_space_2: brisk swap
 bip_39_word_space_3: brisk swap sword
-bip_39_word_space_4: brisk swap sword equip
-bip_39_word_space_5: brisk swap sword equip ridge
-bip_39_word_space_6: brisk swap sword equip ridge giant
-bip_39_word_space_7: brisk swap sword equip ridge giant orchard
-bip_39_word_space_8: brisk swap sword equip ridge giant orchard rescue
-bip_39_word_space_9: brisk swap sword equip ridge giant orchard rescue camera
-bip_39_word_underscore_1: brisk
-bip_39_word_underscore_10: brisk_swap_sword_equip_ridge_giant_orchard_rescue_camera_sweet
-bip_39_word_underscore_11: brisk_swap_sword_equip_ridge_giant_orchard_rescue_camera_sweet_scan
 bip_39_word_underscore_12: brisk_swap_sword_equip_ridge_giant_orchard_rescue_camera_sweet_scan_alter
 bip_39_word_underscore_2: brisk_swap
 bip_39_word_underscore_3: brisk_swap_sword
-bip_39_word_underscore_4: brisk_swap_sword_equip
-bip_39_word_underscore_5: brisk_swap_sword_equip_ridge
-bip_39_word_underscore_6: brisk_swap_sword_equip_ridge_giant
-bip_39_word_underscore_7: brisk_swap_sword_equip_ridge_giant_orchard
-bip_39_word_underscore_8: brisk_swap_sword_equip_ridge_giant_orchard_rescue
-bip_39_word_underscore_9: brisk_swap_sword_equip_ridge_giant_orchard_rescue_camera
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

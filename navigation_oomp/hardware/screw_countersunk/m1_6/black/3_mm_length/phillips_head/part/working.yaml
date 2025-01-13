@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phone
-bip_39_word_dash_10: phone-critic-someone-reunion-rifle-anxiety-muscle-stairs-utility-horse
-bip_39_word_dash_11: phone-critic-someone-reunion-rifle-anxiety-muscle-stairs-utility-horse-barely
 bip_39_word_dash_12: phone-critic-someone-reunion-rifle-anxiety-muscle-stairs-utility-horse-barely-advance
 bip_39_word_dash_2: phone-critic
 bip_39_word_dash_3: phone-critic-someone
-bip_39_word_dash_4: phone-critic-someone-reunion
-bip_39_word_dash_5: phone-critic-someone-reunion-rifle
-bip_39_word_dash_6: phone-critic-someone-reunion-rifle-anxiety
-bip_39_word_dash_7: phone-critic-someone-reunion-rifle-anxiety-muscle
-bip_39_word_dash_8: phone-critic-someone-reunion-rifle-anxiety-muscle-stairs
-bip_39_word_dash_9: phone-critic-someone-reunion-rifle-anxiety-muscle-stairs-utility
-bip_39_word_new_br_1: phone
-bip_39_word_new_br_10: phone<br>critic<br>someone<br>reunion<br>rifle<br>anxiety<br>muscle<br>stairs<br>utility<br>horse
-bip_39_word_new_br_11: phone<br>critic<br>someone<br>reunion<br>rifle<br>anxiety<br>muscle<br>stairs<br>utility<br>horse<br>barely
 bip_39_word_new_br_12: phone<br>critic<br>someone<br>reunion<br>rifle<br>anxiety<br>muscle<br>stairs<br>utility<br>horse<br>barely<br>advance
 bip_39_word_new_br_2: phone<br>critic
 bip_39_word_new_br_3: phone<br>critic<br>someone
-bip_39_word_new_br_4: phone<br>critic<br>someone<br>reunion
-bip_39_word_new_br_5: phone<br>critic<br>someone<br>reunion<br>rifle
-bip_39_word_new_br_6: phone<br>critic<br>someone<br>reunion<br>rifle<br>anxiety
-bip_39_word_new_br_7: phone<br>critic<br>someone<br>reunion<br>rifle<br>anxiety<br>muscle
-bip_39_word_new_br_8: phone<br>critic<br>someone<br>reunion<br>rifle<br>anxiety<br>muscle<br>stairs
-bip_39_word_new_br_9: phone<br>critic<br>someone<br>reunion<br>rifle<br>anxiety<br>muscle<br>stairs<br>utility
-bip_39_word_new_line_1: phone
-bip_39_word_new_line_10: 'phone
-
-  critic
-
-  someone
-
-  reunion
-
-  rifle
-
-  anxiety
-
-  muscle
-
-  stairs
-
-  utility
-
-  horse'
-bip_39_word_new_line_11: 'phone
-
-  critic
-
-  someone
-
-  reunion
-
-  rifle
-
-  anxiety
-
-  muscle
-
-  stairs
-
-  utility
-
-  horse
-
-  barely'
 bip_39_word_new_line_12: 'phone
 
   critic
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'phone
   critic
 
   someone'
-bip_39_word_new_line_4: 'phone
-
-  critic
-
-  someone
-
-  reunion'
-bip_39_word_new_line_5: 'phone
-
-  critic
-
-  someone
-
-  reunion
-
-  rifle'
-bip_39_word_new_line_6: 'phone
-
-  critic
-
-  someone
-
-  reunion
-
-  rifle
-
-  anxiety'
-bip_39_word_new_line_7: 'phone
-
-  critic
-
-  someone
-
-  reunion
-
-  rifle
-
-  anxiety
-
-  muscle'
-bip_39_word_new_line_8: 'phone
-
-  critic
-
-  someone
-
-  reunion
-
-  rifle
-
-  anxiety
-
-  muscle
-
-  stairs'
-bip_39_word_new_line_9: 'phone
-
-  critic
-
-  someone
-
-  reunion
-
-  rifle
-
-  anxiety
-
-  muscle
-
-  stairs
-
-  utility'
-bip_39_word_no_space_1: phone
-bip_39_word_no_space_10: phonecriticsomeonereunionrifleanxietymusclestairsutilityhorse
-bip_39_word_no_space_11: phonecriticsomeonereunionrifleanxietymusclestairsutilityhorsebarely
 bip_39_word_no_space_12: phonecriticsomeonereunionrifleanxietymusclestairsutilityhorsebarelyadvance
 bip_39_word_no_space_2: phonecritic
 bip_39_word_no_space_3: phonecriticsomeone
-bip_39_word_no_space_4: phonecriticsomeonereunion
-bip_39_word_no_space_5: phonecriticsomeonereunionrifle
-bip_39_word_no_space_6: phonecriticsomeonereunionrifleanxiety
-bip_39_word_no_space_7: phonecriticsomeonereunionrifleanxietymuscle
-bip_39_word_no_space_8: phonecriticsomeonereunionrifleanxietymusclestairs
-bip_39_word_no_space_9: phonecriticsomeonereunionrifleanxietymusclestairsutility
-bip_39_word_space_0:
-- phone
-- critic
-- someone
-- reunion
-- rifle
-- anxiety
-- muscle
-- stairs
-- utility
-- horse
-- barely
-- advance
-bip_39_word_space_1: phone
-bip_39_word_space_10: phone critic someone reunion rifle anxiety muscle stairs utility
-  horse
-bip_39_word_space_11: phone critic someone reunion rifle anxiety muscle stairs utility
-  horse barely
 bip_39_word_space_12: phone critic someone reunion rifle anxiety muscle stairs utility
   horse barely advance
 bip_39_word_space_2: phone critic
 bip_39_word_space_3: phone critic someone
-bip_39_word_space_4: phone critic someone reunion
-bip_39_word_space_5: phone critic someone reunion rifle
-bip_39_word_space_6: phone critic someone reunion rifle anxiety
-bip_39_word_space_7: phone critic someone reunion rifle anxiety muscle
-bip_39_word_space_8: phone critic someone reunion rifle anxiety muscle stairs
-bip_39_word_space_9: phone critic someone reunion rifle anxiety muscle stairs utility
-bip_39_word_underscore_1: phone
-bip_39_word_underscore_10: phone_critic_someone_reunion_rifle_anxiety_muscle_stairs_utility_horse
-bip_39_word_underscore_11: phone_critic_someone_reunion_rifle_anxiety_muscle_stairs_utility_horse_barely
 bip_39_word_underscore_12: phone_critic_someone_reunion_rifle_anxiety_muscle_stairs_utility_horse_barely_advance
 bip_39_word_underscore_2: phone_critic
 bip_39_word_underscore_3: phone_critic_someone
-bip_39_word_underscore_4: phone_critic_someone_reunion
-bip_39_word_underscore_5: phone_critic_someone_reunion_rifle
-bip_39_word_underscore_6: phone_critic_someone_reunion_rifle_anxiety
-bip_39_word_underscore_7: phone_critic_someone_reunion_rifle_anxiety_muscle
-bip_39_word_underscore_8: phone_critic_someone_reunion_rifle_anxiety_muscle_stairs
-bip_39_word_underscore_9: phone_critic_someone_reunion_rifle_anxiety_muscle_stairs_utility
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

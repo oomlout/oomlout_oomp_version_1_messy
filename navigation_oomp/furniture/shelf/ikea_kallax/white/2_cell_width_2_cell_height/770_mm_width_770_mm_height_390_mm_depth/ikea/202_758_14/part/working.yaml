@@ -1,68 +1,9 @@
-bip_39_word_dash_1: carry
-bip_39_word_dash_10: carry-sad-orphan-witness-erupt-spread-merry-coil-eager-tag
-bip_39_word_dash_11: carry-sad-orphan-witness-erupt-spread-merry-coil-eager-tag-merge
 bip_39_word_dash_12: carry-sad-orphan-witness-erupt-spread-merry-coil-eager-tag-merge-apology
 bip_39_word_dash_2: carry-sad
 bip_39_word_dash_3: carry-sad-orphan
-bip_39_word_dash_4: carry-sad-orphan-witness
-bip_39_word_dash_5: carry-sad-orphan-witness-erupt
-bip_39_word_dash_6: carry-sad-orphan-witness-erupt-spread
-bip_39_word_dash_7: carry-sad-orphan-witness-erupt-spread-merry
-bip_39_word_dash_8: carry-sad-orphan-witness-erupt-spread-merry-coil
-bip_39_word_dash_9: carry-sad-orphan-witness-erupt-spread-merry-coil-eager
-bip_39_word_new_br_1: carry
-bip_39_word_new_br_10: carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag
-bip_39_word_new_br_11: carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge
 bip_39_word_new_br_12: carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge<br>apology
 bip_39_word_new_br_2: carry<br>sad
 bip_39_word_new_br_3: carry<br>sad<br>orphan
-bip_39_word_new_br_4: carry<br>sad<br>orphan<br>witness
-bip_39_word_new_br_5: carry<br>sad<br>orphan<br>witness<br>erupt
-bip_39_word_new_br_6: carry<br>sad<br>orphan<br>witness<br>erupt<br>spread
-bip_39_word_new_br_7: carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry
-bip_39_word_new_br_8: carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil
-bip_39_word_new_br_9: carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager
-bip_39_word_new_line_1: carry
-bip_39_word_new_line_10: 'carry
-
-  sad
-
-  orphan
-
-  witness
-
-  erupt
-
-  spread
-
-  merry
-
-  coil
-
-  eager
-
-  tag'
-bip_39_word_new_line_11: 'carry
-
-  sad
-
-  orphan
-
-  witness
-
-  erupt
-
-  spread
-
-  merry
-
-  coil
-
-  eager
-
-  tag
-
-  merge'
 bip_39_word_new_line_12: 'carry
 
   sad
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'carry
   sad
 
   orphan'
-bip_39_word_new_line_4: 'carry
-
-  sad
-
-  orphan
-
-  witness'
-bip_39_word_new_line_5: 'carry
-
-  sad
-
-  orphan
-
-  witness
-
-  erupt'
-bip_39_word_new_line_6: 'carry
-
-  sad
-
-  orphan
-
-  witness
-
-  erupt
-
-  spread'
-bip_39_word_new_line_7: 'carry
-
-  sad
-
-  orphan
-
-  witness
-
-  erupt
-
-  spread
-
-  merry'
-bip_39_word_new_line_8: 'carry
-
-  sad
-
-  orphan
-
-  witness
-
-  erupt
-
-  spread
-
-  merry
-
-  coil'
-bip_39_word_new_line_9: 'carry
-
-  sad
-
-  orphan
-
-  witness
-
-  erupt
-
-  spread
-
-  merry
-
-  coil
-
-  eager'
-bip_39_word_no_space_1: carry
-bip_39_word_no_space_10: carrysadorphanwitnesseruptspreadmerrycoileagertag
-bip_39_word_no_space_11: carrysadorphanwitnesseruptspreadmerrycoileagertagmerge
 bip_39_word_no_space_12: carrysadorphanwitnesseruptspreadmerrycoileagertagmergeapology
 bip_39_word_no_space_2: carrysad
 bip_39_word_no_space_3: carrysadorphan
-bip_39_word_no_space_4: carrysadorphanwitness
-bip_39_word_no_space_5: carrysadorphanwitnesserupt
-bip_39_word_no_space_6: carrysadorphanwitnesseruptspread
-bip_39_word_no_space_7: carrysadorphanwitnesseruptspreadmerry
-bip_39_word_no_space_8: carrysadorphanwitnesseruptspreadmerrycoil
-bip_39_word_no_space_9: carrysadorphanwitnesseruptspreadmerrycoileager
-bip_39_word_space_0:
-- carry
-- sad
-- orphan
-- witness
-- erupt
-- spread
-- merry
-- coil
-- eager
-- tag
-- merge
-- apology
-bip_39_word_space_1: carry
-bip_39_word_space_10: carry sad orphan witness erupt spread merry coil eager tag
-bip_39_word_space_11: carry sad orphan witness erupt spread merry coil eager tag merge
 bip_39_word_space_12: carry sad orphan witness erupt spread merry coil eager tag merge
   apology
 bip_39_word_space_2: carry sad
 bip_39_word_space_3: carry sad orphan
-bip_39_word_space_4: carry sad orphan witness
-bip_39_word_space_5: carry sad orphan witness erupt
-bip_39_word_space_6: carry sad orphan witness erupt spread
-bip_39_word_space_7: carry sad orphan witness erupt spread merry
-bip_39_word_space_8: carry sad orphan witness erupt spread merry coil
-bip_39_word_space_9: carry sad orphan witness erupt spread merry coil eager
-bip_39_word_underscore_1: carry
-bip_39_word_underscore_10: carry_sad_orphan_witness_erupt_spread_merry_coil_eager_tag
-bip_39_word_underscore_11: carry_sad_orphan_witness_erupt_spread_merry_coil_eager_tag_merge
 bip_39_word_underscore_12: carry_sad_orphan_witness_erupt_spread_merry_coil_eager_tag_merge_apology
 bip_39_word_underscore_2: carry_sad
 bip_39_word_underscore_3: carry_sad_orphan
-bip_39_word_underscore_4: carry_sad_orphan_witness
-bip_39_word_underscore_5: carry_sad_orphan_witness_erupt
-bip_39_word_underscore_6: carry_sad_orphan_witness_erupt_spread
-bip_39_word_underscore_7: carry_sad_orphan_witness_erupt_spread_merry
-bip_39_word_underscore_8: carry_sad_orphan_witness_erupt_spread_merry_coil
-bip_39_word_underscore_9: carry_sad_orphan_witness_erupt_spread_merry_coil_eager
 classification: furniture
 classification_capital: Furniture
 classification_first_letter: f

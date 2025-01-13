@@ -1,68 +1,9 @@
-bip_39_word_dash_1: aisle
-bip_39_word_dash_10: aisle-blame-trip-pool-boring-strategy-tunnel-adjust-echo-awesome
-bip_39_word_dash_11: aisle-blame-trip-pool-boring-strategy-tunnel-adjust-echo-awesome-change
 bip_39_word_dash_12: aisle-blame-trip-pool-boring-strategy-tunnel-adjust-echo-awesome-change-agree
 bip_39_word_dash_2: aisle-blame
 bip_39_word_dash_3: aisle-blame-trip
-bip_39_word_dash_4: aisle-blame-trip-pool
-bip_39_word_dash_5: aisle-blame-trip-pool-boring
-bip_39_word_dash_6: aisle-blame-trip-pool-boring-strategy
-bip_39_word_dash_7: aisle-blame-trip-pool-boring-strategy-tunnel
-bip_39_word_dash_8: aisle-blame-trip-pool-boring-strategy-tunnel-adjust
-bip_39_word_dash_9: aisle-blame-trip-pool-boring-strategy-tunnel-adjust-echo
-bip_39_word_new_br_1: aisle
-bip_39_word_new_br_10: aisle<br>blame<br>trip<br>pool<br>boring<br>strategy<br>tunnel<br>adjust<br>echo<br>awesome
-bip_39_word_new_br_11: aisle<br>blame<br>trip<br>pool<br>boring<br>strategy<br>tunnel<br>adjust<br>echo<br>awesome<br>change
 bip_39_word_new_br_12: aisle<br>blame<br>trip<br>pool<br>boring<br>strategy<br>tunnel<br>adjust<br>echo<br>awesome<br>change<br>agree
 bip_39_word_new_br_2: aisle<br>blame
 bip_39_word_new_br_3: aisle<br>blame<br>trip
-bip_39_word_new_br_4: aisle<br>blame<br>trip<br>pool
-bip_39_word_new_br_5: aisle<br>blame<br>trip<br>pool<br>boring
-bip_39_word_new_br_6: aisle<br>blame<br>trip<br>pool<br>boring<br>strategy
-bip_39_word_new_br_7: aisle<br>blame<br>trip<br>pool<br>boring<br>strategy<br>tunnel
-bip_39_word_new_br_8: aisle<br>blame<br>trip<br>pool<br>boring<br>strategy<br>tunnel<br>adjust
-bip_39_word_new_br_9: aisle<br>blame<br>trip<br>pool<br>boring<br>strategy<br>tunnel<br>adjust<br>echo
-bip_39_word_new_line_1: aisle
-bip_39_word_new_line_10: 'aisle
-
-  blame
-
-  trip
-
-  pool
-
-  boring
-
-  strategy
-
-  tunnel
-
-  adjust
-
-  echo
-
-  awesome'
-bip_39_word_new_line_11: 'aisle
-
-  blame
-
-  trip
-
-  pool
-
-  boring
-
-  strategy
-
-  tunnel
-
-  adjust
-
-  echo
-
-  awesome
-
-  change'
 bip_39_word_new_line_12: 'aisle
 
   blame
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'aisle
   blame
 
   trip'
-bip_39_word_new_line_4: 'aisle
-
-  blame
-
-  trip
-
-  pool'
-bip_39_word_new_line_5: 'aisle
-
-  blame
-
-  trip
-
-  pool
-
-  boring'
-bip_39_word_new_line_6: 'aisle
-
-  blame
-
-  trip
-
-  pool
-
-  boring
-
-  strategy'
-bip_39_word_new_line_7: 'aisle
-
-  blame
-
-  trip
-
-  pool
-
-  boring
-
-  strategy
-
-  tunnel'
-bip_39_word_new_line_8: 'aisle
-
-  blame
-
-  trip
-
-  pool
-
-  boring
-
-  strategy
-
-  tunnel
-
-  adjust'
-bip_39_word_new_line_9: 'aisle
-
-  blame
-
-  trip
-
-  pool
-
-  boring
-
-  strategy
-
-  tunnel
-
-  adjust
-
-  echo'
-bip_39_word_no_space_1: aisle
-bip_39_word_no_space_10: aisleblametrippoolboringstrategytunneladjustechoawesome
-bip_39_word_no_space_11: aisleblametrippoolboringstrategytunneladjustechoawesomechange
 bip_39_word_no_space_12: aisleblametrippoolboringstrategytunneladjustechoawesomechangeagree
 bip_39_word_no_space_2: aisleblame
 bip_39_word_no_space_3: aisleblametrip
-bip_39_word_no_space_4: aisleblametrippool
-bip_39_word_no_space_5: aisleblametrippoolboring
-bip_39_word_no_space_6: aisleblametrippoolboringstrategy
-bip_39_word_no_space_7: aisleblametrippoolboringstrategytunnel
-bip_39_word_no_space_8: aisleblametrippoolboringstrategytunneladjust
-bip_39_word_no_space_9: aisleblametrippoolboringstrategytunneladjustecho
-bip_39_word_space_0:
-- aisle
-- blame
-- trip
-- pool
-- boring
-- strategy
-- tunnel
-- adjust
-- echo
-- awesome
-- change
-- agree
-bip_39_word_space_1: aisle
-bip_39_word_space_10: aisle blame trip pool boring strategy tunnel adjust echo awesome
-bip_39_word_space_11: aisle blame trip pool boring strategy tunnel adjust echo awesome
-  change
 bip_39_word_space_12: aisle blame trip pool boring strategy tunnel adjust echo awesome
   change agree
 bip_39_word_space_2: aisle blame
 bip_39_word_space_3: aisle blame trip
-bip_39_word_space_4: aisle blame trip pool
-bip_39_word_space_5: aisle blame trip pool boring
-bip_39_word_space_6: aisle blame trip pool boring strategy
-bip_39_word_space_7: aisle blame trip pool boring strategy tunnel
-bip_39_word_space_8: aisle blame trip pool boring strategy tunnel adjust
-bip_39_word_space_9: aisle blame trip pool boring strategy tunnel adjust echo
-bip_39_word_underscore_1: aisle
-bip_39_word_underscore_10: aisle_blame_trip_pool_boring_strategy_tunnel_adjust_echo_awesome
-bip_39_word_underscore_11: aisle_blame_trip_pool_boring_strategy_tunnel_adjust_echo_awesome_change
 bip_39_word_underscore_12: aisle_blame_trip_pool_boring_strategy_tunnel_adjust_echo_awesome_change_agree
 bip_39_word_underscore_2: aisle_blame
 bip_39_word_underscore_3: aisle_blame_trip
-bip_39_word_underscore_4: aisle_blame_trip_pool
-bip_39_word_underscore_5: aisle_blame_trip_pool_boring
-bip_39_word_underscore_6: aisle_blame_trip_pool_boring_strategy
-bip_39_word_underscore_7: aisle_blame_trip_pool_boring_strategy_tunnel
-bip_39_word_underscore_8: aisle_blame_trip_pool_boring_strategy_tunnel_adjust
-bip_39_word_underscore_9: aisle_blame_trip_pool_boring_strategy_tunnel_adjust_echo
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

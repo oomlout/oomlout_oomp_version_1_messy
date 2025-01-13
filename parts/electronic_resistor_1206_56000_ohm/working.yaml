@@ -1,68 +1,9 @@
-bip_39_word_dash_1: protect
-bip_39_word_dash_10: protect-skull-predict-always-swarm-train-hard-client-quick-soap
-bip_39_word_dash_11: protect-skull-predict-always-swarm-train-hard-client-quick-soap-seek
 bip_39_word_dash_12: protect-skull-predict-always-swarm-train-hard-client-quick-soap-seek-acid
 bip_39_word_dash_2: protect-skull
 bip_39_word_dash_3: protect-skull-predict
-bip_39_word_dash_4: protect-skull-predict-always
-bip_39_word_dash_5: protect-skull-predict-always-swarm
-bip_39_word_dash_6: protect-skull-predict-always-swarm-train
-bip_39_word_dash_7: protect-skull-predict-always-swarm-train-hard
-bip_39_word_dash_8: protect-skull-predict-always-swarm-train-hard-client
-bip_39_word_dash_9: protect-skull-predict-always-swarm-train-hard-client-quick
-bip_39_word_new_br_1: protect
-bip_39_word_new_br_10: protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick<br>soap
-bip_39_word_new_br_11: protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick<br>soap<br>seek
 bip_39_word_new_br_12: protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick<br>soap<br>seek<br>acid
 bip_39_word_new_br_2: protect<br>skull
 bip_39_word_new_br_3: protect<br>skull<br>predict
-bip_39_word_new_br_4: protect<br>skull<br>predict<br>always
-bip_39_word_new_br_5: protect<br>skull<br>predict<br>always<br>swarm
-bip_39_word_new_br_6: protect<br>skull<br>predict<br>always<br>swarm<br>train
-bip_39_word_new_br_7: protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard
-bip_39_word_new_br_8: protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client
-bip_39_word_new_br_9: protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick
-bip_39_word_new_line_1: protect
-bip_39_word_new_line_10: 'protect
-
-  skull
-
-  predict
-
-  always
-
-  swarm
-
-  train
-
-  hard
-
-  client
-
-  quick
-
-  soap'
-bip_39_word_new_line_11: 'protect
-
-  skull
-
-  predict
-
-  always
-
-  swarm
-
-  train
-
-  hard
-
-  client
-
-  quick
-
-  soap
-
-  seek'
 bip_39_word_new_line_12: 'protect
 
   skull
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'protect
   skull
 
   predict'
-bip_39_word_new_line_4: 'protect
-
-  skull
-
-  predict
-
-  always'
-bip_39_word_new_line_5: 'protect
-
-  skull
-
-  predict
-
-  always
-
-  swarm'
-bip_39_word_new_line_6: 'protect
-
-  skull
-
-  predict
-
-  always
-
-  swarm
-
-  train'
-bip_39_word_new_line_7: 'protect
-
-  skull
-
-  predict
-
-  always
-
-  swarm
-
-  train
-
-  hard'
-bip_39_word_new_line_8: 'protect
-
-  skull
-
-  predict
-
-  always
-
-  swarm
-
-  train
-
-  hard
-
-  client'
-bip_39_word_new_line_9: 'protect
-
-  skull
-
-  predict
-
-  always
-
-  swarm
-
-  train
-
-  hard
-
-  client
-
-  quick'
-bip_39_word_no_space_1: protect
-bip_39_word_no_space_10: protectskullpredictalwaysswarmtrainhardclientquicksoap
-bip_39_word_no_space_11: protectskullpredictalwaysswarmtrainhardclientquicksoapseek
 bip_39_word_no_space_12: protectskullpredictalwaysswarmtrainhardclientquicksoapseekacid
 bip_39_word_no_space_2: protectskull
 bip_39_word_no_space_3: protectskullpredict
-bip_39_word_no_space_4: protectskullpredictalways
-bip_39_word_no_space_5: protectskullpredictalwaysswarm
-bip_39_word_no_space_6: protectskullpredictalwaysswarmtrain
-bip_39_word_no_space_7: protectskullpredictalwaysswarmtrainhard
-bip_39_word_no_space_8: protectskullpredictalwaysswarmtrainhardclient
-bip_39_word_no_space_9: protectskullpredictalwaysswarmtrainhardclientquick
-bip_39_word_space_0:
-- protect
-- skull
-- predict
-- always
-- swarm
-- train
-- hard
-- client
-- quick
-- soap
-- seek
-- acid
-bip_39_word_space_1: protect
-bip_39_word_space_10: protect skull predict always swarm train hard client quick soap
-bip_39_word_space_11: protect skull predict always swarm train hard client quick soap
-  seek
 bip_39_word_space_12: protect skull predict always swarm train hard client quick soap
   seek acid
 bip_39_word_space_2: protect skull
 bip_39_word_space_3: protect skull predict
-bip_39_word_space_4: protect skull predict always
-bip_39_word_space_5: protect skull predict always swarm
-bip_39_word_space_6: protect skull predict always swarm train
-bip_39_word_space_7: protect skull predict always swarm train hard
-bip_39_word_space_8: protect skull predict always swarm train hard client
-bip_39_word_space_9: protect skull predict always swarm train hard client quick
-bip_39_word_underscore_1: protect
-bip_39_word_underscore_10: protect_skull_predict_always_swarm_train_hard_client_quick_soap
-bip_39_word_underscore_11: protect_skull_predict_always_swarm_train_hard_client_quick_soap_seek
 bip_39_word_underscore_12: protect_skull_predict_always_swarm_train_hard_client_quick_soap_seek_acid
 bip_39_word_underscore_2: protect_skull
 bip_39_word_underscore_3: protect_skull_predict
-bip_39_word_underscore_4: protect_skull_predict_always
-bip_39_word_underscore_5: protect_skull_predict_always_swarm
-bip_39_word_underscore_6: protect_skull_predict_always_swarm_train
-bip_39_word_underscore_7: protect_skull_predict_always_swarm_train_hard
-bip_39_word_underscore_8: protect_skull_predict_always_swarm_train_hard_client
-bip_39_word_underscore_9: protect_skull_predict_always_swarm_train_hard_client_quick
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

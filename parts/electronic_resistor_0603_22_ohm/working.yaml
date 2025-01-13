@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chase
-bip_39_word_dash_10: chase-tissue-comic-tuition-spike-inside-recall-hello-cloud-turn
-bip_39_word_dash_11: chase-tissue-comic-tuition-spike-inside-recall-hello-cloud-turn-copper
 bip_39_word_dash_12: chase-tissue-comic-tuition-spike-inside-recall-hello-cloud-turn-copper-army
 bip_39_word_dash_2: chase-tissue
 bip_39_word_dash_3: chase-tissue-comic
-bip_39_word_dash_4: chase-tissue-comic-tuition
-bip_39_word_dash_5: chase-tissue-comic-tuition-spike
-bip_39_word_dash_6: chase-tissue-comic-tuition-spike-inside
-bip_39_word_dash_7: chase-tissue-comic-tuition-spike-inside-recall
-bip_39_word_dash_8: chase-tissue-comic-tuition-spike-inside-recall-hello
-bip_39_word_dash_9: chase-tissue-comic-tuition-spike-inside-recall-hello-cloud
-bip_39_word_new_br_1: chase
-bip_39_word_new_br_10: chase<br>tissue<br>comic<br>tuition<br>spike<br>inside<br>recall<br>hello<br>cloud<br>turn
-bip_39_word_new_br_11: chase<br>tissue<br>comic<br>tuition<br>spike<br>inside<br>recall<br>hello<br>cloud<br>turn<br>copper
 bip_39_word_new_br_12: chase<br>tissue<br>comic<br>tuition<br>spike<br>inside<br>recall<br>hello<br>cloud<br>turn<br>copper<br>army
 bip_39_word_new_br_2: chase<br>tissue
 bip_39_word_new_br_3: chase<br>tissue<br>comic
-bip_39_word_new_br_4: chase<br>tissue<br>comic<br>tuition
-bip_39_word_new_br_5: chase<br>tissue<br>comic<br>tuition<br>spike
-bip_39_word_new_br_6: chase<br>tissue<br>comic<br>tuition<br>spike<br>inside
-bip_39_word_new_br_7: chase<br>tissue<br>comic<br>tuition<br>spike<br>inside<br>recall
-bip_39_word_new_br_8: chase<br>tissue<br>comic<br>tuition<br>spike<br>inside<br>recall<br>hello
-bip_39_word_new_br_9: chase<br>tissue<br>comic<br>tuition<br>spike<br>inside<br>recall<br>hello<br>cloud
-bip_39_word_new_line_1: chase
-bip_39_word_new_line_10: 'chase
-
-  tissue
-
-  comic
-
-  tuition
-
-  spike
-
-  inside
-
-  recall
-
-  hello
-
-  cloud
-
-  turn'
-bip_39_word_new_line_11: 'chase
-
-  tissue
-
-  comic
-
-  tuition
-
-  spike
-
-  inside
-
-  recall
-
-  hello
-
-  cloud
-
-  turn
-
-  copper'
 bip_39_word_new_line_12: 'chase
 
   tissue
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chase
   tissue
 
   comic'
-bip_39_word_new_line_4: 'chase
-
-  tissue
-
-  comic
-
-  tuition'
-bip_39_word_new_line_5: 'chase
-
-  tissue
-
-  comic
-
-  tuition
-
-  spike'
-bip_39_word_new_line_6: 'chase
-
-  tissue
-
-  comic
-
-  tuition
-
-  spike
-
-  inside'
-bip_39_word_new_line_7: 'chase
-
-  tissue
-
-  comic
-
-  tuition
-
-  spike
-
-  inside
-
-  recall'
-bip_39_word_new_line_8: 'chase
-
-  tissue
-
-  comic
-
-  tuition
-
-  spike
-
-  inside
-
-  recall
-
-  hello'
-bip_39_word_new_line_9: 'chase
-
-  tissue
-
-  comic
-
-  tuition
-
-  spike
-
-  inside
-
-  recall
-
-  hello
-
-  cloud'
-bip_39_word_no_space_1: chase
-bip_39_word_no_space_10: chasetissuecomictuitionspikeinsiderecallhellocloudturn
-bip_39_word_no_space_11: chasetissuecomictuitionspikeinsiderecallhellocloudturncopper
 bip_39_word_no_space_12: chasetissuecomictuitionspikeinsiderecallhellocloudturncopperarmy
 bip_39_word_no_space_2: chasetissue
 bip_39_word_no_space_3: chasetissuecomic
-bip_39_word_no_space_4: chasetissuecomictuition
-bip_39_word_no_space_5: chasetissuecomictuitionspike
-bip_39_word_no_space_6: chasetissuecomictuitionspikeinside
-bip_39_word_no_space_7: chasetissuecomictuitionspikeinsiderecall
-bip_39_word_no_space_8: chasetissuecomictuitionspikeinsiderecallhello
-bip_39_word_no_space_9: chasetissuecomictuitionspikeinsiderecallhellocloud
-bip_39_word_space_0:
-- chase
-- tissue
-- comic
-- tuition
-- spike
-- inside
-- recall
-- hello
-- cloud
-- turn
-- copper
-- army
-bip_39_word_space_1: chase
-bip_39_word_space_10: chase tissue comic tuition spike inside recall hello cloud turn
-bip_39_word_space_11: chase tissue comic tuition spike inside recall hello cloud turn
-  copper
 bip_39_word_space_12: chase tissue comic tuition spike inside recall hello cloud turn
   copper army
 bip_39_word_space_2: chase tissue
 bip_39_word_space_3: chase tissue comic
-bip_39_word_space_4: chase tissue comic tuition
-bip_39_word_space_5: chase tissue comic tuition spike
-bip_39_word_space_6: chase tissue comic tuition spike inside
-bip_39_word_space_7: chase tissue comic tuition spike inside recall
-bip_39_word_space_8: chase tissue comic tuition spike inside recall hello
-bip_39_word_space_9: chase tissue comic tuition spike inside recall hello cloud
-bip_39_word_underscore_1: chase
-bip_39_word_underscore_10: chase_tissue_comic_tuition_spike_inside_recall_hello_cloud_turn
-bip_39_word_underscore_11: chase_tissue_comic_tuition_spike_inside_recall_hello_cloud_turn_copper
 bip_39_word_underscore_12: chase_tissue_comic_tuition_spike_inside_recall_hello_cloud_turn_copper_army
 bip_39_word_underscore_2: chase_tissue
 bip_39_word_underscore_3: chase_tissue_comic
-bip_39_word_underscore_4: chase_tissue_comic_tuition
-bip_39_word_underscore_5: chase_tissue_comic_tuition_spike
-bip_39_word_underscore_6: chase_tissue_comic_tuition_spike_inside
-bip_39_word_underscore_7: chase_tissue_comic_tuition_spike_inside_recall
-bip_39_word_underscore_8: chase_tissue_comic_tuition_spike_inside_recall_hello
-bip_39_word_underscore_9: chase_tissue_comic_tuition_spike_inside_recall_hello_cloud
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: amount
-bip_39_word_dash_10: amount-pencil-orient-depend-elder-soup-bean-act-high-viable
-bip_39_word_dash_11: amount-pencil-orient-depend-elder-soup-bean-act-high-viable-assume
 bip_39_word_dash_12: amount-pencil-orient-depend-elder-soup-bean-act-high-viable-assume-argue
 bip_39_word_dash_2: amount-pencil
 bip_39_word_dash_3: amount-pencil-orient
-bip_39_word_dash_4: amount-pencil-orient-depend
-bip_39_word_dash_5: amount-pencil-orient-depend-elder
-bip_39_word_dash_6: amount-pencil-orient-depend-elder-soup
-bip_39_word_dash_7: amount-pencil-orient-depend-elder-soup-bean
-bip_39_word_dash_8: amount-pencil-orient-depend-elder-soup-bean-act
-bip_39_word_dash_9: amount-pencil-orient-depend-elder-soup-bean-act-high
-bip_39_word_new_br_1: amount
-bip_39_word_new_br_10: amount<br>pencil<br>orient<br>depend<br>elder<br>soup<br>bean<br>act<br>high<br>viable
-bip_39_word_new_br_11: amount<br>pencil<br>orient<br>depend<br>elder<br>soup<br>bean<br>act<br>high<br>viable<br>assume
 bip_39_word_new_br_12: amount<br>pencil<br>orient<br>depend<br>elder<br>soup<br>bean<br>act<br>high<br>viable<br>assume<br>argue
 bip_39_word_new_br_2: amount<br>pencil
 bip_39_word_new_br_3: amount<br>pencil<br>orient
-bip_39_word_new_br_4: amount<br>pencil<br>orient<br>depend
-bip_39_word_new_br_5: amount<br>pencil<br>orient<br>depend<br>elder
-bip_39_word_new_br_6: amount<br>pencil<br>orient<br>depend<br>elder<br>soup
-bip_39_word_new_br_7: amount<br>pencil<br>orient<br>depend<br>elder<br>soup<br>bean
-bip_39_word_new_br_8: amount<br>pencil<br>orient<br>depend<br>elder<br>soup<br>bean<br>act
-bip_39_word_new_br_9: amount<br>pencil<br>orient<br>depend<br>elder<br>soup<br>bean<br>act<br>high
-bip_39_word_new_line_1: amount
-bip_39_word_new_line_10: 'amount
-
-  pencil
-
-  orient
-
-  depend
-
-  elder
-
-  soup
-
-  bean
-
-  act
-
-  high
-
-  viable'
-bip_39_word_new_line_11: 'amount
-
-  pencil
-
-  orient
-
-  depend
-
-  elder
-
-  soup
-
-  bean
-
-  act
-
-  high
-
-  viable
-
-  assume'
 bip_39_word_new_line_12: 'amount
 
   pencil
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'amount
   pencil
 
   orient'
-bip_39_word_new_line_4: 'amount
-
-  pencil
-
-  orient
-
-  depend'
-bip_39_word_new_line_5: 'amount
-
-  pencil
-
-  orient
-
-  depend
-
-  elder'
-bip_39_word_new_line_6: 'amount
-
-  pencil
-
-  orient
-
-  depend
-
-  elder
-
-  soup'
-bip_39_word_new_line_7: 'amount
-
-  pencil
-
-  orient
-
-  depend
-
-  elder
-
-  soup
-
-  bean'
-bip_39_word_new_line_8: 'amount
-
-  pencil
-
-  orient
-
-  depend
-
-  elder
-
-  soup
-
-  bean
-
-  act'
-bip_39_word_new_line_9: 'amount
-
-  pencil
-
-  orient
-
-  depend
-
-  elder
-
-  soup
-
-  bean
-
-  act
-
-  high'
-bip_39_word_no_space_1: amount
-bip_39_word_no_space_10: amountpencilorientdependeldersoupbeanacthighviable
-bip_39_word_no_space_11: amountpencilorientdependeldersoupbeanacthighviableassume
 bip_39_word_no_space_12: amountpencilorientdependeldersoupbeanacthighviableassumeargue
 bip_39_word_no_space_2: amountpencil
 bip_39_word_no_space_3: amountpencilorient
-bip_39_word_no_space_4: amountpencilorientdepend
-bip_39_word_no_space_5: amountpencilorientdependelder
-bip_39_word_no_space_6: amountpencilorientdependeldersoup
-bip_39_word_no_space_7: amountpencilorientdependeldersoupbean
-bip_39_word_no_space_8: amountpencilorientdependeldersoupbeanact
-bip_39_word_no_space_9: amountpencilorientdependeldersoupbeanacthigh
-bip_39_word_space_0:
-- amount
-- pencil
-- orient
-- depend
-- elder
-- soup
-- bean
-- act
-- high
-- viable
-- assume
-- argue
-bip_39_word_space_1: amount
-bip_39_word_space_10: amount pencil orient depend elder soup bean act high viable
-bip_39_word_space_11: amount pencil orient depend elder soup bean act high viable
-  assume
 bip_39_word_space_12: amount pencil orient depend elder soup bean act high viable
   assume argue
 bip_39_word_space_2: amount pencil
 bip_39_word_space_3: amount pencil orient
-bip_39_word_space_4: amount pencil orient depend
-bip_39_word_space_5: amount pencil orient depend elder
-bip_39_word_space_6: amount pencil orient depend elder soup
-bip_39_word_space_7: amount pencil orient depend elder soup bean
-bip_39_word_space_8: amount pencil orient depend elder soup bean act
-bip_39_word_space_9: amount pencil orient depend elder soup bean act high
-bip_39_word_underscore_1: amount
-bip_39_word_underscore_10: amount_pencil_orient_depend_elder_soup_bean_act_high_viable
-bip_39_word_underscore_11: amount_pencil_orient_depend_elder_soup_bean_act_high_viable_assume
 bip_39_word_underscore_12: amount_pencil_orient_depend_elder_soup_bean_act_high_viable_assume_argue
 bip_39_word_underscore_2: amount_pencil
 bip_39_word_underscore_3: amount_pencil_orient
-bip_39_word_underscore_4: amount_pencil_orient_depend
-bip_39_word_underscore_5: amount_pencil_orient_depend_elder
-bip_39_word_underscore_6: amount_pencil_orient_depend_elder_soup
-bip_39_word_underscore_7: amount_pencil_orient_depend_elder_soup_bean
-bip_39_word_underscore_8: amount_pencil_orient_depend_elder_soup_bean_act
-bip_39_word_underscore_9: amount_pencil_orient_depend_elder_soup_bean_act_high
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

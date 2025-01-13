@@ -1,68 +1,9 @@
-bip_39_word_dash_1: say
-bip_39_word_dash_10: say-autumn-rifle-winner-delay-narrow-smoke-lucky-perfect-unit
-bip_39_word_dash_11: say-autumn-rifle-winner-delay-narrow-smoke-lucky-perfect-unit-pipe
 bip_39_word_dash_12: say-autumn-rifle-winner-delay-narrow-smoke-lucky-perfect-unit-pipe-always
 bip_39_word_dash_2: say-autumn
 bip_39_word_dash_3: say-autumn-rifle
-bip_39_word_dash_4: say-autumn-rifle-winner
-bip_39_word_dash_5: say-autumn-rifle-winner-delay
-bip_39_word_dash_6: say-autumn-rifle-winner-delay-narrow
-bip_39_word_dash_7: say-autumn-rifle-winner-delay-narrow-smoke
-bip_39_word_dash_8: say-autumn-rifle-winner-delay-narrow-smoke-lucky
-bip_39_word_dash_9: say-autumn-rifle-winner-delay-narrow-smoke-lucky-perfect
-bip_39_word_new_br_1: say
-bip_39_word_new_br_10: say<br>autumn<br>rifle<br>winner<br>delay<br>narrow<br>smoke<br>lucky<br>perfect<br>unit
-bip_39_word_new_br_11: say<br>autumn<br>rifle<br>winner<br>delay<br>narrow<br>smoke<br>lucky<br>perfect<br>unit<br>pipe
 bip_39_word_new_br_12: say<br>autumn<br>rifle<br>winner<br>delay<br>narrow<br>smoke<br>lucky<br>perfect<br>unit<br>pipe<br>always
 bip_39_word_new_br_2: say<br>autumn
 bip_39_word_new_br_3: say<br>autumn<br>rifle
-bip_39_word_new_br_4: say<br>autumn<br>rifle<br>winner
-bip_39_word_new_br_5: say<br>autumn<br>rifle<br>winner<br>delay
-bip_39_word_new_br_6: say<br>autumn<br>rifle<br>winner<br>delay<br>narrow
-bip_39_word_new_br_7: say<br>autumn<br>rifle<br>winner<br>delay<br>narrow<br>smoke
-bip_39_word_new_br_8: say<br>autumn<br>rifle<br>winner<br>delay<br>narrow<br>smoke<br>lucky
-bip_39_word_new_br_9: say<br>autumn<br>rifle<br>winner<br>delay<br>narrow<br>smoke<br>lucky<br>perfect
-bip_39_word_new_line_1: say
-bip_39_word_new_line_10: 'say
-
-  autumn
-
-  rifle
-
-  winner
-
-  delay
-
-  narrow
-
-  smoke
-
-  lucky
-
-  perfect
-
-  unit'
-bip_39_word_new_line_11: 'say
-
-  autumn
-
-  rifle
-
-  winner
-
-  delay
-
-  narrow
-
-  smoke
-
-  lucky
-
-  perfect
-
-  unit
-
-  pipe'
 bip_39_word_new_line_12: 'say
 
   autumn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'say
   autumn
 
   rifle'
-bip_39_word_new_line_4: 'say
-
-  autumn
-
-  rifle
-
-  winner'
-bip_39_word_new_line_5: 'say
-
-  autumn
-
-  rifle
-
-  winner
-
-  delay'
-bip_39_word_new_line_6: 'say
-
-  autumn
-
-  rifle
-
-  winner
-
-  delay
-
-  narrow'
-bip_39_word_new_line_7: 'say
-
-  autumn
-
-  rifle
-
-  winner
-
-  delay
-
-  narrow
-
-  smoke'
-bip_39_word_new_line_8: 'say
-
-  autumn
-
-  rifle
-
-  winner
-
-  delay
-
-  narrow
-
-  smoke
-
-  lucky'
-bip_39_word_new_line_9: 'say
-
-  autumn
-
-  rifle
-
-  winner
-
-  delay
-
-  narrow
-
-  smoke
-
-  lucky
-
-  perfect'
-bip_39_word_no_space_1: say
-bip_39_word_no_space_10: sayautumnriflewinnerdelaynarrowsmokeluckyperfectunit
-bip_39_word_no_space_11: sayautumnriflewinnerdelaynarrowsmokeluckyperfectunitpipe
 bip_39_word_no_space_12: sayautumnriflewinnerdelaynarrowsmokeluckyperfectunitpipealways
 bip_39_word_no_space_2: sayautumn
 bip_39_word_no_space_3: sayautumnrifle
-bip_39_word_no_space_4: sayautumnriflewinner
-bip_39_word_no_space_5: sayautumnriflewinnerdelay
-bip_39_word_no_space_6: sayautumnriflewinnerdelaynarrow
-bip_39_word_no_space_7: sayautumnriflewinnerdelaynarrowsmoke
-bip_39_word_no_space_8: sayautumnriflewinnerdelaynarrowsmokelucky
-bip_39_word_no_space_9: sayautumnriflewinnerdelaynarrowsmokeluckyperfect
-bip_39_word_space_0:
-- say
-- autumn
-- rifle
-- winner
-- delay
-- narrow
-- smoke
-- lucky
-- perfect
-- unit
-- pipe
-- always
-bip_39_word_space_1: say
-bip_39_word_space_10: say autumn rifle winner delay narrow smoke lucky perfect unit
-bip_39_word_space_11: say autumn rifle winner delay narrow smoke lucky perfect unit
-  pipe
 bip_39_word_space_12: say autumn rifle winner delay narrow smoke lucky perfect unit
   pipe always
 bip_39_word_space_2: say autumn
 bip_39_word_space_3: say autumn rifle
-bip_39_word_space_4: say autumn rifle winner
-bip_39_word_space_5: say autumn rifle winner delay
-bip_39_word_space_6: say autumn rifle winner delay narrow
-bip_39_word_space_7: say autumn rifle winner delay narrow smoke
-bip_39_word_space_8: say autumn rifle winner delay narrow smoke lucky
-bip_39_word_space_9: say autumn rifle winner delay narrow smoke lucky perfect
-bip_39_word_underscore_1: say
-bip_39_word_underscore_10: say_autumn_rifle_winner_delay_narrow_smoke_lucky_perfect_unit
-bip_39_word_underscore_11: say_autumn_rifle_winner_delay_narrow_smoke_lucky_perfect_unit_pipe
 bip_39_word_underscore_12: say_autumn_rifle_winner_delay_narrow_smoke_lucky_perfect_unit_pipe_always
 bip_39_word_underscore_2: say_autumn
 bip_39_word_underscore_3: say_autumn_rifle
-bip_39_word_underscore_4: say_autumn_rifle_winner
-bip_39_word_underscore_5: say_autumn_rifle_winner_delay
-bip_39_word_underscore_6: say_autumn_rifle_winner_delay_narrow
-bip_39_word_underscore_7: say_autumn_rifle_winner_delay_narrow_smoke
-bip_39_word_underscore_8: say_autumn_rifle_winner_delay_narrow_smoke_lucky
-bip_39_word_underscore_9: say_autumn_rifle_winner_delay_narrow_smoke_lucky_perfect
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

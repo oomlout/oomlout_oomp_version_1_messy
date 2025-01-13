@@ -1,68 +1,9 @@
-bip_39_word_dash_1: panic
-bip_39_word_dash_10: panic-term-turtle-goose-paddle-stairs-essay-fork-elite-salt
-bip_39_word_dash_11: panic-term-turtle-goose-paddle-stairs-essay-fork-elite-salt-stairs
 bip_39_word_dash_12: panic-term-turtle-goose-paddle-stairs-essay-fork-elite-salt-stairs-attract
 bip_39_word_dash_2: panic-term
 bip_39_word_dash_3: panic-term-turtle
-bip_39_word_dash_4: panic-term-turtle-goose
-bip_39_word_dash_5: panic-term-turtle-goose-paddle
-bip_39_word_dash_6: panic-term-turtle-goose-paddle-stairs
-bip_39_word_dash_7: panic-term-turtle-goose-paddle-stairs-essay
-bip_39_word_dash_8: panic-term-turtle-goose-paddle-stairs-essay-fork
-bip_39_word_dash_9: panic-term-turtle-goose-paddle-stairs-essay-fork-elite
-bip_39_word_new_br_1: panic
-bip_39_word_new_br_10: panic<br>term<br>turtle<br>goose<br>paddle<br>stairs<br>essay<br>fork<br>elite<br>salt
-bip_39_word_new_br_11: panic<br>term<br>turtle<br>goose<br>paddle<br>stairs<br>essay<br>fork<br>elite<br>salt<br>stairs
 bip_39_word_new_br_12: panic<br>term<br>turtle<br>goose<br>paddle<br>stairs<br>essay<br>fork<br>elite<br>salt<br>stairs<br>attract
 bip_39_word_new_br_2: panic<br>term
 bip_39_word_new_br_3: panic<br>term<br>turtle
-bip_39_word_new_br_4: panic<br>term<br>turtle<br>goose
-bip_39_word_new_br_5: panic<br>term<br>turtle<br>goose<br>paddle
-bip_39_word_new_br_6: panic<br>term<br>turtle<br>goose<br>paddle<br>stairs
-bip_39_word_new_br_7: panic<br>term<br>turtle<br>goose<br>paddle<br>stairs<br>essay
-bip_39_word_new_br_8: panic<br>term<br>turtle<br>goose<br>paddle<br>stairs<br>essay<br>fork
-bip_39_word_new_br_9: panic<br>term<br>turtle<br>goose<br>paddle<br>stairs<br>essay<br>fork<br>elite
-bip_39_word_new_line_1: panic
-bip_39_word_new_line_10: 'panic
-
-  term
-
-  turtle
-
-  goose
-
-  paddle
-
-  stairs
-
-  essay
-
-  fork
-
-  elite
-
-  salt'
-bip_39_word_new_line_11: 'panic
-
-  term
-
-  turtle
-
-  goose
-
-  paddle
-
-  stairs
-
-  essay
-
-  fork
-
-  elite
-
-  salt
-
-  stairs'
 bip_39_word_new_line_12: 'panic
 
   term
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'panic
   term
 
   turtle'
-bip_39_word_new_line_4: 'panic
-
-  term
-
-  turtle
-
-  goose'
-bip_39_word_new_line_5: 'panic
-
-  term
-
-  turtle
-
-  goose
-
-  paddle'
-bip_39_word_new_line_6: 'panic
-
-  term
-
-  turtle
-
-  goose
-
-  paddle
-
-  stairs'
-bip_39_word_new_line_7: 'panic
-
-  term
-
-  turtle
-
-  goose
-
-  paddle
-
-  stairs
-
-  essay'
-bip_39_word_new_line_8: 'panic
-
-  term
-
-  turtle
-
-  goose
-
-  paddle
-
-  stairs
-
-  essay
-
-  fork'
-bip_39_word_new_line_9: 'panic
-
-  term
-
-  turtle
-
-  goose
-
-  paddle
-
-  stairs
-
-  essay
-
-  fork
-
-  elite'
-bip_39_word_no_space_1: panic
-bip_39_word_no_space_10: panictermturtlegoosepaddlestairsessayforkelitesalt
-bip_39_word_no_space_11: panictermturtlegoosepaddlestairsessayforkelitesaltstairs
 bip_39_word_no_space_12: panictermturtlegoosepaddlestairsessayforkelitesaltstairsattract
 bip_39_word_no_space_2: panicterm
 bip_39_word_no_space_3: panictermturtle
-bip_39_word_no_space_4: panictermturtlegoose
-bip_39_word_no_space_5: panictermturtlegoosepaddle
-bip_39_word_no_space_6: panictermturtlegoosepaddlestairs
-bip_39_word_no_space_7: panictermturtlegoosepaddlestairsessay
-bip_39_word_no_space_8: panictermturtlegoosepaddlestairsessayfork
-bip_39_word_no_space_9: panictermturtlegoosepaddlestairsessayforkelite
-bip_39_word_space_0:
-- panic
-- term
-- turtle
-- goose
-- paddle
-- stairs
-- essay
-- fork
-- elite
-- salt
-- stairs
-- attract
-bip_39_word_space_1: panic
-bip_39_word_space_10: panic term turtle goose paddle stairs essay fork elite salt
-bip_39_word_space_11: panic term turtle goose paddle stairs essay fork elite salt
-  stairs
 bip_39_word_space_12: panic term turtle goose paddle stairs essay fork elite salt
   stairs attract
 bip_39_word_space_2: panic term
 bip_39_word_space_3: panic term turtle
-bip_39_word_space_4: panic term turtle goose
-bip_39_word_space_5: panic term turtle goose paddle
-bip_39_word_space_6: panic term turtle goose paddle stairs
-bip_39_word_space_7: panic term turtle goose paddle stairs essay
-bip_39_word_space_8: panic term turtle goose paddle stairs essay fork
-bip_39_word_space_9: panic term turtle goose paddle stairs essay fork elite
-bip_39_word_underscore_1: panic
-bip_39_word_underscore_10: panic_term_turtle_goose_paddle_stairs_essay_fork_elite_salt
-bip_39_word_underscore_11: panic_term_turtle_goose_paddle_stairs_essay_fork_elite_salt_stairs
 bip_39_word_underscore_12: panic_term_turtle_goose_paddle_stairs_essay_fork_elite_salt_stairs_attract
 bip_39_word_underscore_2: panic_term
 bip_39_word_underscore_3: panic_term_turtle
-bip_39_word_underscore_4: panic_term_turtle_goose
-bip_39_word_underscore_5: panic_term_turtle_goose_paddle
-bip_39_word_underscore_6: panic_term_turtle_goose_paddle_stairs
-bip_39_word_underscore_7: panic_term_turtle_goose_paddle_stairs_essay
-bip_39_word_underscore_8: panic_term_turtle_goose_paddle_stairs_essay_fork
-bip_39_word_underscore_9: panic_term_turtle_goose_paddle_stairs_essay_fork_elite
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phrase
-bip_39_word_dash_10: phrase-ensure-spread-panic-voice-clarify-woman-pause-affair-cake
-bip_39_word_dash_11: phrase-ensure-spread-panic-voice-clarify-woman-pause-affair-cake-hold
 bip_39_word_dash_12: phrase-ensure-spread-panic-voice-clarify-woman-pause-affair-cake-hold-among
 bip_39_word_dash_2: phrase-ensure
 bip_39_word_dash_3: phrase-ensure-spread
-bip_39_word_dash_4: phrase-ensure-spread-panic
-bip_39_word_dash_5: phrase-ensure-spread-panic-voice
-bip_39_word_dash_6: phrase-ensure-spread-panic-voice-clarify
-bip_39_word_dash_7: phrase-ensure-spread-panic-voice-clarify-woman
-bip_39_word_dash_8: phrase-ensure-spread-panic-voice-clarify-woman-pause
-bip_39_word_dash_9: phrase-ensure-spread-panic-voice-clarify-woman-pause-affair
-bip_39_word_new_br_1: phrase
-bip_39_word_new_br_10: phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair<br>cake
-bip_39_word_new_br_11: phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair<br>cake<br>hold
 bip_39_word_new_br_12: phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair<br>cake<br>hold<br>among
 bip_39_word_new_br_2: phrase<br>ensure
 bip_39_word_new_br_3: phrase<br>ensure<br>spread
-bip_39_word_new_br_4: phrase<br>ensure<br>spread<br>panic
-bip_39_word_new_br_5: phrase<br>ensure<br>spread<br>panic<br>voice
-bip_39_word_new_br_6: phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify
-bip_39_word_new_br_7: phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman
-bip_39_word_new_br_8: phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause
-bip_39_word_new_br_9: phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair
-bip_39_word_new_line_1: phrase
-bip_39_word_new_line_10: 'phrase
-
-  ensure
-
-  spread
-
-  panic
-
-  voice
-
-  clarify
-
-  woman
-
-  pause
-
-  affair
-
-  cake'
-bip_39_word_new_line_11: 'phrase
-
-  ensure
-
-  spread
-
-  panic
-
-  voice
-
-  clarify
-
-  woman
-
-  pause
-
-  affair
-
-  cake
-
-  hold'
 bip_39_word_new_line_12: 'phrase
 
   ensure
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'phrase
   ensure
 
   spread'
-bip_39_word_new_line_4: 'phrase
-
-  ensure
-
-  spread
-
-  panic'
-bip_39_word_new_line_5: 'phrase
-
-  ensure
-
-  spread
-
-  panic
-
-  voice'
-bip_39_word_new_line_6: 'phrase
-
-  ensure
-
-  spread
-
-  panic
-
-  voice
-
-  clarify'
-bip_39_word_new_line_7: 'phrase
-
-  ensure
-
-  spread
-
-  panic
-
-  voice
-
-  clarify
-
-  woman'
-bip_39_word_new_line_8: 'phrase
-
-  ensure
-
-  spread
-
-  panic
-
-  voice
-
-  clarify
-
-  woman
-
-  pause'
-bip_39_word_new_line_9: 'phrase
-
-  ensure
-
-  spread
-
-  panic
-
-  voice
-
-  clarify
-
-  woman
-
-  pause
-
-  affair'
-bip_39_word_no_space_1: phrase
-bip_39_word_no_space_10: phraseensurespreadpanicvoiceclarifywomanpauseaffaircake
-bip_39_word_no_space_11: phraseensurespreadpanicvoiceclarifywomanpauseaffaircakehold
 bip_39_word_no_space_12: phraseensurespreadpanicvoiceclarifywomanpauseaffaircakeholdamong
 bip_39_word_no_space_2: phraseensure
 bip_39_word_no_space_3: phraseensurespread
-bip_39_word_no_space_4: phraseensurespreadpanic
-bip_39_word_no_space_5: phraseensurespreadpanicvoice
-bip_39_word_no_space_6: phraseensurespreadpanicvoiceclarify
-bip_39_word_no_space_7: phraseensurespreadpanicvoiceclarifywoman
-bip_39_word_no_space_8: phraseensurespreadpanicvoiceclarifywomanpause
-bip_39_word_no_space_9: phraseensurespreadpanicvoiceclarifywomanpauseaffair
-bip_39_word_space_0:
-- phrase
-- ensure
-- spread
-- panic
-- voice
-- clarify
-- woman
-- pause
-- affair
-- cake
-- hold
-- among
-bip_39_word_space_1: phrase
-bip_39_word_space_10: phrase ensure spread panic voice clarify woman pause affair
-  cake
-bip_39_word_space_11: phrase ensure spread panic voice clarify woman pause affair
-  cake hold
 bip_39_word_space_12: phrase ensure spread panic voice clarify woman pause affair
   cake hold among
 bip_39_word_space_2: phrase ensure
 bip_39_word_space_3: phrase ensure spread
-bip_39_word_space_4: phrase ensure spread panic
-bip_39_word_space_5: phrase ensure spread panic voice
-bip_39_word_space_6: phrase ensure spread panic voice clarify
-bip_39_word_space_7: phrase ensure spread panic voice clarify woman
-bip_39_word_space_8: phrase ensure spread panic voice clarify woman pause
-bip_39_word_space_9: phrase ensure spread panic voice clarify woman pause affair
-bip_39_word_underscore_1: phrase
-bip_39_word_underscore_10: phrase_ensure_spread_panic_voice_clarify_woman_pause_affair_cake
-bip_39_word_underscore_11: phrase_ensure_spread_panic_voice_clarify_woman_pause_affair_cake_hold
 bip_39_word_underscore_12: phrase_ensure_spread_panic_voice_clarify_woman_pause_affair_cake_hold_among
 bip_39_word_underscore_2: phrase_ensure
 bip_39_word_underscore_3: phrase_ensure_spread
-bip_39_word_underscore_4: phrase_ensure_spread_panic
-bip_39_word_underscore_5: phrase_ensure_spread_panic_voice
-bip_39_word_underscore_6: phrase_ensure_spread_panic_voice_clarify
-bip_39_word_underscore_7: phrase_ensure_spread_panic_voice_clarify_woman
-bip_39_word_underscore_8: phrase_ensure_spread_panic_voice_clarify_woman_pause
-bip_39_word_underscore_9: phrase_ensure_spread_panic_voice_clarify_woman_pause_affair
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: valid
-bip_39_word_dash_10: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost
-bip_39_word_dash_11: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost-suggest
 bip_39_word_dash_12: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost-suggest-admit
 bip_39_word_dash_2: valid-frozen
 bip_39_word_dash_3: valid-frozen-hospital
-bip_39_word_dash_4: valid-frozen-hospital-task
-bip_39_word_dash_5: valid-frozen-hospital-task-horn
-bip_39_word_dash_6: valid-frozen-hospital-task-horn-sudden
-bip_39_word_dash_7: valid-frozen-hospital-task-horn-sudden-law
-bip_39_word_dash_8: valid-frozen-hospital-task-horn-sudden-law-mirror
-bip_39_word_dash_9: valid-frozen-hospital-task-horn-sudden-law-mirror-hello
-bip_39_word_new_br_1: valid
-bip_39_word_new_br_10: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost
-bip_39_word_new_br_11: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost<br>suggest
 bip_39_word_new_br_12: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost<br>suggest<br>admit
 bip_39_word_new_br_2: valid<br>frozen
 bip_39_word_new_br_3: valid<br>frozen<br>hospital
-bip_39_word_new_br_4: valid<br>frozen<br>hospital<br>task
-bip_39_word_new_br_5: valid<br>frozen<br>hospital<br>task<br>horn
-bip_39_word_new_br_6: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden
-bip_39_word_new_br_7: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law
-bip_39_word_new_br_8: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror
-bip_39_word_new_br_9: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello
-bip_39_word_new_line_1: valid
-bip_39_word_new_line_10: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law
-
-  mirror
-
-  hello
-
-  boost'
-bip_39_word_new_line_11: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law
-
-  mirror
-
-  hello
-
-  boost
-
-  suggest'
 bip_39_word_new_line_12: 'valid
 
   frozen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'valid
   frozen
 
   hospital'
-bip_39_word_new_line_4: 'valid
-
-  frozen
-
-  hospital
-
-  task'
-bip_39_word_new_line_5: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn'
-bip_39_word_new_line_6: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden'
-bip_39_word_new_line_7: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law'
-bip_39_word_new_line_8: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law
-
-  mirror'
-bip_39_word_new_line_9: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law
-
-  mirror
-
-  hello'
-bip_39_word_no_space_1: valid
-bip_39_word_no_space_10: validfrozenhospitaltaskhornsuddenlawmirrorhelloboost
-bip_39_word_no_space_11: validfrozenhospitaltaskhornsuddenlawmirrorhelloboostsuggest
 bip_39_word_no_space_12: validfrozenhospitaltaskhornsuddenlawmirrorhelloboostsuggestadmit
 bip_39_word_no_space_2: validfrozen
 bip_39_word_no_space_3: validfrozenhospital
-bip_39_word_no_space_4: validfrozenhospitaltask
-bip_39_word_no_space_5: validfrozenhospitaltaskhorn
-bip_39_word_no_space_6: validfrozenhospitaltaskhornsudden
-bip_39_word_no_space_7: validfrozenhospitaltaskhornsuddenlaw
-bip_39_word_no_space_8: validfrozenhospitaltaskhornsuddenlawmirror
-bip_39_word_no_space_9: validfrozenhospitaltaskhornsuddenlawmirrorhello
-bip_39_word_space_0:
-- valid
-- frozen
-- hospital
-- task
-- horn
-- sudden
-- law
-- mirror
-- hello
-- boost
-- suggest
-- admit
-bip_39_word_space_1: valid
-bip_39_word_space_10: valid frozen hospital task horn sudden law mirror hello boost
-bip_39_word_space_11: valid frozen hospital task horn sudden law mirror hello boost
-  suggest
 bip_39_word_space_12: valid frozen hospital task horn sudden law mirror hello boost
   suggest admit
 bip_39_word_space_2: valid frozen
 bip_39_word_space_3: valid frozen hospital
-bip_39_word_space_4: valid frozen hospital task
-bip_39_word_space_5: valid frozen hospital task horn
-bip_39_word_space_6: valid frozen hospital task horn sudden
-bip_39_word_space_7: valid frozen hospital task horn sudden law
-bip_39_word_space_8: valid frozen hospital task horn sudden law mirror
-bip_39_word_space_9: valid frozen hospital task horn sudden law mirror hello
-bip_39_word_underscore_1: valid
-bip_39_word_underscore_10: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost
-bip_39_word_underscore_11: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost_suggest
 bip_39_word_underscore_12: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost_suggest_admit
 bip_39_word_underscore_2: valid_frozen
 bip_39_word_underscore_3: valid_frozen_hospital
-bip_39_word_underscore_4: valid_frozen_hospital_task
-bip_39_word_underscore_5: valid_frozen_hospital_task_horn
-bip_39_word_underscore_6: valid_frozen_hospital_task_horn_sudden
-bip_39_word_underscore_7: valid_frozen_hospital_task_horn_sudden_law
-bip_39_word_underscore_8: valid_frozen_hospital_task_horn_sudden_law_mirror
-bip_39_word_underscore_9: valid_frozen_hospital_task_horn_sudden_law_mirror_hello
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

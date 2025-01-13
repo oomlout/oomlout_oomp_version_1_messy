@@ -1,68 +1,9 @@
-bip_39_word_dash_1: world
-bip_39_word_dash_10: world-detect-damp-guard-child-wait-mule-raise-bamboo-sock
-bip_39_word_dash_11: world-detect-damp-guard-child-wait-mule-raise-bamboo-sock-frozen
 bip_39_word_dash_12: world-detect-damp-guard-child-wait-mule-raise-bamboo-sock-frozen-ankle
 bip_39_word_dash_2: world-detect
 bip_39_word_dash_3: world-detect-damp
-bip_39_word_dash_4: world-detect-damp-guard
-bip_39_word_dash_5: world-detect-damp-guard-child
-bip_39_word_dash_6: world-detect-damp-guard-child-wait
-bip_39_word_dash_7: world-detect-damp-guard-child-wait-mule
-bip_39_word_dash_8: world-detect-damp-guard-child-wait-mule-raise
-bip_39_word_dash_9: world-detect-damp-guard-child-wait-mule-raise-bamboo
-bip_39_word_new_br_1: world
-bip_39_word_new_br_10: world<br>detect<br>damp<br>guard<br>child<br>wait<br>mule<br>raise<br>bamboo<br>sock
-bip_39_word_new_br_11: world<br>detect<br>damp<br>guard<br>child<br>wait<br>mule<br>raise<br>bamboo<br>sock<br>frozen
 bip_39_word_new_br_12: world<br>detect<br>damp<br>guard<br>child<br>wait<br>mule<br>raise<br>bamboo<br>sock<br>frozen<br>ankle
 bip_39_word_new_br_2: world<br>detect
 bip_39_word_new_br_3: world<br>detect<br>damp
-bip_39_word_new_br_4: world<br>detect<br>damp<br>guard
-bip_39_word_new_br_5: world<br>detect<br>damp<br>guard<br>child
-bip_39_word_new_br_6: world<br>detect<br>damp<br>guard<br>child<br>wait
-bip_39_word_new_br_7: world<br>detect<br>damp<br>guard<br>child<br>wait<br>mule
-bip_39_word_new_br_8: world<br>detect<br>damp<br>guard<br>child<br>wait<br>mule<br>raise
-bip_39_word_new_br_9: world<br>detect<br>damp<br>guard<br>child<br>wait<br>mule<br>raise<br>bamboo
-bip_39_word_new_line_1: world
-bip_39_word_new_line_10: 'world
-
-  detect
-
-  damp
-
-  guard
-
-  child
-
-  wait
-
-  mule
-
-  raise
-
-  bamboo
-
-  sock'
-bip_39_word_new_line_11: 'world
-
-  detect
-
-  damp
-
-  guard
-
-  child
-
-  wait
-
-  mule
-
-  raise
-
-  bamboo
-
-  sock
-
-  frozen'
 bip_39_word_new_line_12: 'world
 
   detect
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'world
   detect
 
   damp'
-bip_39_word_new_line_4: 'world
-
-  detect
-
-  damp
-
-  guard'
-bip_39_word_new_line_5: 'world
-
-  detect
-
-  damp
-
-  guard
-
-  child'
-bip_39_word_new_line_6: 'world
-
-  detect
-
-  damp
-
-  guard
-
-  child
-
-  wait'
-bip_39_word_new_line_7: 'world
-
-  detect
-
-  damp
-
-  guard
-
-  child
-
-  wait
-
-  mule'
-bip_39_word_new_line_8: 'world
-
-  detect
-
-  damp
-
-  guard
-
-  child
-
-  wait
-
-  mule
-
-  raise'
-bip_39_word_new_line_9: 'world
-
-  detect
-
-  damp
-
-  guard
-
-  child
-
-  wait
-
-  mule
-
-  raise
-
-  bamboo'
-bip_39_word_no_space_1: world
-bip_39_word_no_space_10: worlddetectdampguardchildwaitmuleraisebamboosock
-bip_39_word_no_space_11: worlddetectdampguardchildwaitmuleraisebamboosockfrozen
 bip_39_word_no_space_12: worlddetectdampguardchildwaitmuleraisebamboosockfrozenankle
 bip_39_word_no_space_2: worlddetect
 bip_39_word_no_space_3: worlddetectdamp
-bip_39_word_no_space_4: worlddetectdampguard
-bip_39_word_no_space_5: worlddetectdampguardchild
-bip_39_word_no_space_6: worlddetectdampguardchildwait
-bip_39_word_no_space_7: worlddetectdampguardchildwaitmule
-bip_39_word_no_space_8: worlddetectdampguardchildwaitmuleraise
-bip_39_word_no_space_9: worlddetectdampguardchildwaitmuleraisebamboo
-bip_39_word_space_0:
-- world
-- detect
-- damp
-- guard
-- child
-- wait
-- mule
-- raise
-- bamboo
-- sock
-- frozen
-- ankle
-bip_39_word_space_1: world
-bip_39_word_space_10: world detect damp guard child wait mule raise bamboo sock
-bip_39_word_space_11: world detect damp guard child wait mule raise bamboo sock frozen
 bip_39_word_space_12: world detect damp guard child wait mule raise bamboo sock frozen
   ankle
 bip_39_word_space_2: world detect
 bip_39_word_space_3: world detect damp
-bip_39_word_space_4: world detect damp guard
-bip_39_word_space_5: world detect damp guard child
-bip_39_word_space_6: world detect damp guard child wait
-bip_39_word_space_7: world detect damp guard child wait mule
-bip_39_word_space_8: world detect damp guard child wait mule raise
-bip_39_word_space_9: world detect damp guard child wait mule raise bamboo
-bip_39_word_underscore_1: world
-bip_39_word_underscore_10: world_detect_damp_guard_child_wait_mule_raise_bamboo_sock
-bip_39_word_underscore_11: world_detect_damp_guard_child_wait_mule_raise_bamboo_sock_frozen
 bip_39_word_underscore_12: world_detect_damp_guard_child_wait_mule_raise_bamboo_sock_frozen_ankle
 bip_39_word_underscore_2: world_detect
 bip_39_word_underscore_3: world_detect_damp
-bip_39_word_underscore_4: world_detect_damp_guard
-bip_39_word_underscore_5: world_detect_damp_guard_child
-bip_39_word_underscore_6: world_detect_damp_guard_child_wait
-bip_39_word_underscore_7: world_detect_damp_guard_child_wait_mule
-bip_39_word_underscore_8: world_detect_damp_guard_child_wait_mule_raise
-bip_39_word_underscore_9: world_detect_damp_guard_child_wait_mule_raise_bamboo
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

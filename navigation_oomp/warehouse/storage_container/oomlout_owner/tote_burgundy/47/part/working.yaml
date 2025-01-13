@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vote
-bip_39_word_dash_10: vote-twist-state-column-oxygen-cat-rhythm-inflict-secret-tunnel
-bip_39_word_dash_11: vote-twist-state-column-oxygen-cat-rhythm-inflict-secret-tunnel-replace
 bip_39_word_dash_12: vote-twist-state-column-oxygen-cat-rhythm-inflict-secret-tunnel-replace-antique
 bip_39_word_dash_2: vote-twist
 bip_39_word_dash_3: vote-twist-state
-bip_39_word_dash_4: vote-twist-state-column
-bip_39_word_dash_5: vote-twist-state-column-oxygen
-bip_39_word_dash_6: vote-twist-state-column-oxygen-cat
-bip_39_word_dash_7: vote-twist-state-column-oxygen-cat-rhythm
-bip_39_word_dash_8: vote-twist-state-column-oxygen-cat-rhythm-inflict
-bip_39_word_dash_9: vote-twist-state-column-oxygen-cat-rhythm-inflict-secret
-bip_39_word_new_br_1: vote
-bip_39_word_new_br_10: vote<br>twist<br>state<br>column<br>oxygen<br>cat<br>rhythm<br>inflict<br>secret<br>tunnel
-bip_39_word_new_br_11: vote<br>twist<br>state<br>column<br>oxygen<br>cat<br>rhythm<br>inflict<br>secret<br>tunnel<br>replace
 bip_39_word_new_br_12: vote<br>twist<br>state<br>column<br>oxygen<br>cat<br>rhythm<br>inflict<br>secret<br>tunnel<br>replace<br>antique
 bip_39_word_new_br_2: vote<br>twist
 bip_39_word_new_br_3: vote<br>twist<br>state
-bip_39_word_new_br_4: vote<br>twist<br>state<br>column
-bip_39_word_new_br_5: vote<br>twist<br>state<br>column<br>oxygen
-bip_39_word_new_br_6: vote<br>twist<br>state<br>column<br>oxygen<br>cat
-bip_39_word_new_br_7: vote<br>twist<br>state<br>column<br>oxygen<br>cat<br>rhythm
-bip_39_word_new_br_8: vote<br>twist<br>state<br>column<br>oxygen<br>cat<br>rhythm<br>inflict
-bip_39_word_new_br_9: vote<br>twist<br>state<br>column<br>oxygen<br>cat<br>rhythm<br>inflict<br>secret
-bip_39_word_new_line_1: vote
-bip_39_word_new_line_10: 'vote
-
-  twist
-
-  state
-
-  column
-
-  oxygen
-
-  cat
-
-  rhythm
-
-  inflict
-
-  secret
-
-  tunnel'
-bip_39_word_new_line_11: 'vote
-
-  twist
-
-  state
-
-  column
-
-  oxygen
-
-  cat
-
-  rhythm
-
-  inflict
-
-  secret
-
-  tunnel
-
-  replace'
 bip_39_word_new_line_12: 'vote
 
   twist
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vote
   twist
 
   state'
-bip_39_word_new_line_4: 'vote
-
-  twist
-
-  state
-
-  column'
-bip_39_word_new_line_5: 'vote
-
-  twist
-
-  state
-
-  column
-
-  oxygen'
-bip_39_word_new_line_6: 'vote
-
-  twist
-
-  state
-
-  column
-
-  oxygen
-
-  cat'
-bip_39_word_new_line_7: 'vote
-
-  twist
-
-  state
-
-  column
-
-  oxygen
-
-  cat
-
-  rhythm'
-bip_39_word_new_line_8: 'vote
-
-  twist
-
-  state
-
-  column
-
-  oxygen
-
-  cat
-
-  rhythm
-
-  inflict'
-bip_39_word_new_line_9: 'vote
-
-  twist
-
-  state
-
-  column
-
-  oxygen
-
-  cat
-
-  rhythm
-
-  inflict
-
-  secret'
-bip_39_word_no_space_1: vote
-bip_39_word_no_space_10: votetwiststatecolumnoxygencatrhythminflictsecrettunnel
-bip_39_word_no_space_11: votetwiststatecolumnoxygencatrhythminflictsecrettunnelreplace
 bip_39_word_no_space_12: votetwiststatecolumnoxygencatrhythminflictsecrettunnelreplaceantique
 bip_39_word_no_space_2: votetwist
 bip_39_word_no_space_3: votetwiststate
-bip_39_word_no_space_4: votetwiststatecolumn
-bip_39_word_no_space_5: votetwiststatecolumnoxygen
-bip_39_word_no_space_6: votetwiststatecolumnoxygencat
-bip_39_word_no_space_7: votetwiststatecolumnoxygencatrhythm
-bip_39_word_no_space_8: votetwiststatecolumnoxygencatrhythminflict
-bip_39_word_no_space_9: votetwiststatecolumnoxygencatrhythminflictsecret
-bip_39_word_space_0:
-- vote
-- twist
-- state
-- column
-- oxygen
-- cat
-- rhythm
-- inflict
-- secret
-- tunnel
-- replace
-- antique
-bip_39_word_space_1: vote
-bip_39_word_space_10: vote twist state column oxygen cat rhythm inflict secret tunnel
-bip_39_word_space_11: vote twist state column oxygen cat rhythm inflict secret tunnel
-  replace
 bip_39_word_space_12: vote twist state column oxygen cat rhythm inflict secret tunnel
   replace antique
 bip_39_word_space_2: vote twist
 bip_39_word_space_3: vote twist state
-bip_39_word_space_4: vote twist state column
-bip_39_word_space_5: vote twist state column oxygen
-bip_39_word_space_6: vote twist state column oxygen cat
-bip_39_word_space_7: vote twist state column oxygen cat rhythm
-bip_39_word_space_8: vote twist state column oxygen cat rhythm inflict
-bip_39_word_space_9: vote twist state column oxygen cat rhythm inflict secret
-bip_39_word_underscore_1: vote
-bip_39_word_underscore_10: vote_twist_state_column_oxygen_cat_rhythm_inflict_secret_tunnel
-bip_39_word_underscore_11: vote_twist_state_column_oxygen_cat_rhythm_inflict_secret_tunnel_replace
 bip_39_word_underscore_12: vote_twist_state_column_oxygen_cat_rhythm_inflict_secret_tunnel_replace_antique
 bip_39_word_underscore_2: vote_twist
 bip_39_word_underscore_3: vote_twist_state
-bip_39_word_underscore_4: vote_twist_state_column
-bip_39_word_underscore_5: vote_twist_state_column_oxygen
-bip_39_word_underscore_6: vote_twist_state_column_oxygen_cat
-bip_39_word_underscore_7: vote_twist_state_column_oxygen_cat_rhythm
-bip_39_word_underscore_8: vote_twist_state_column_oxygen_cat_rhythm_inflict
-bip_39_word_underscore_9: vote_twist_state_column_oxygen_cat_rhythm_inflict_secret
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

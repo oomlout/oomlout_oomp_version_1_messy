@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pitch
-bip_39_word_dash_10: pitch-taxi-wealth-surge-recycle-tunnel-unhappy-truth-tenant-bicycle
-bip_39_word_dash_11: pitch-taxi-wealth-surge-recycle-tunnel-unhappy-truth-tenant-bicycle-spin
 bip_39_word_dash_12: pitch-taxi-wealth-surge-recycle-tunnel-unhappy-truth-tenant-bicycle-spin-able
 bip_39_word_dash_2: pitch-taxi
 bip_39_word_dash_3: pitch-taxi-wealth
-bip_39_word_dash_4: pitch-taxi-wealth-surge
-bip_39_word_dash_5: pitch-taxi-wealth-surge-recycle
-bip_39_word_dash_6: pitch-taxi-wealth-surge-recycle-tunnel
-bip_39_word_dash_7: pitch-taxi-wealth-surge-recycle-tunnel-unhappy
-bip_39_word_dash_8: pitch-taxi-wealth-surge-recycle-tunnel-unhappy-truth
-bip_39_word_dash_9: pitch-taxi-wealth-surge-recycle-tunnel-unhappy-truth-tenant
-bip_39_word_new_br_1: pitch
-bip_39_word_new_br_10: pitch<br>taxi<br>wealth<br>surge<br>recycle<br>tunnel<br>unhappy<br>truth<br>tenant<br>bicycle
-bip_39_word_new_br_11: pitch<br>taxi<br>wealth<br>surge<br>recycle<br>tunnel<br>unhappy<br>truth<br>tenant<br>bicycle<br>spin
 bip_39_word_new_br_12: pitch<br>taxi<br>wealth<br>surge<br>recycle<br>tunnel<br>unhappy<br>truth<br>tenant<br>bicycle<br>spin<br>able
 bip_39_word_new_br_2: pitch<br>taxi
 bip_39_word_new_br_3: pitch<br>taxi<br>wealth
-bip_39_word_new_br_4: pitch<br>taxi<br>wealth<br>surge
-bip_39_word_new_br_5: pitch<br>taxi<br>wealth<br>surge<br>recycle
-bip_39_word_new_br_6: pitch<br>taxi<br>wealth<br>surge<br>recycle<br>tunnel
-bip_39_word_new_br_7: pitch<br>taxi<br>wealth<br>surge<br>recycle<br>tunnel<br>unhappy
-bip_39_word_new_br_8: pitch<br>taxi<br>wealth<br>surge<br>recycle<br>tunnel<br>unhappy<br>truth
-bip_39_word_new_br_9: pitch<br>taxi<br>wealth<br>surge<br>recycle<br>tunnel<br>unhappy<br>truth<br>tenant
-bip_39_word_new_line_1: pitch
-bip_39_word_new_line_10: 'pitch
-
-  taxi
-
-  wealth
-
-  surge
-
-  recycle
-
-  tunnel
-
-  unhappy
-
-  truth
-
-  tenant
-
-  bicycle'
-bip_39_word_new_line_11: 'pitch
-
-  taxi
-
-  wealth
-
-  surge
-
-  recycle
-
-  tunnel
-
-  unhappy
-
-  truth
-
-  tenant
-
-  bicycle
-
-  spin'
 bip_39_word_new_line_12: 'pitch
 
   taxi
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pitch
   taxi
 
   wealth'
-bip_39_word_new_line_4: 'pitch
-
-  taxi
-
-  wealth
-
-  surge'
-bip_39_word_new_line_5: 'pitch
-
-  taxi
-
-  wealth
-
-  surge
-
-  recycle'
-bip_39_word_new_line_6: 'pitch
-
-  taxi
-
-  wealth
-
-  surge
-
-  recycle
-
-  tunnel'
-bip_39_word_new_line_7: 'pitch
-
-  taxi
-
-  wealth
-
-  surge
-
-  recycle
-
-  tunnel
-
-  unhappy'
-bip_39_word_new_line_8: 'pitch
-
-  taxi
-
-  wealth
-
-  surge
-
-  recycle
-
-  tunnel
-
-  unhappy
-
-  truth'
-bip_39_word_new_line_9: 'pitch
-
-  taxi
-
-  wealth
-
-  surge
-
-  recycle
-
-  tunnel
-
-  unhappy
-
-  truth
-
-  tenant'
-bip_39_word_no_space_1: pitch
-bip_39_word_no_space_10: pitchtaxiwealthsurgerecycletunnelunhappytruthtenantbicycle
-bip_39_word_no_space_11: pitchtaxiwealthsurgerecycletunnelunhappytruthtenantbicyclespin
 bip_39_word_no_space_12: pitchtaxiwealthsurgerecycletunnelunhappytruthtenantbicyclespinable
 bip_39_word_no_space_2: pitchtaxi
 bip_39_word_no_space_3: pitchtaxiwealth
-bip_39_word_no_space_4: pitchtaxiwealthsurge
-bip_39_word_no_space_5: pitchtaxiwealthsurgerecycle
-bip_39_word_no_space_6: pitchtaxiwealthsurgerecycletunnel
-bip_39_word_no_space_7: pitchtaxiwealthsurgerecycletunnelunhappy
-bip_39_word_no_space_8: pitchtaxiwealthsurgerecycletunnelunhappytruth
-bip_39_word_no_space_9: pitchtaxiwealthsurgerecycletunnelunhappytruthtenant
-bip_39_word_space_0:
-- pitch
-- taxi
-- wealth
-- surge
-- recycle
-- tunnel
-- unhappy
-- truth
-- tenant
-- bicycle
-- spin
-- able
-bip_39_word_space_1: pitch
-bip_39_word_space_10: pitch taxi wealth surge recycle tunnel unhappy truth tenant
-  bicycle
-bip_39_word_space_11: pitch taxi wealth surge recycle tunnel unhappy truth tenant
-  bicycle spin
 bip_39_word_space_12: pitch taxi wealth surge recycle tunnel unhappy truth tenant
   bicycle spin able
 bip_39_word_space_2: pitch taxi
 bip_39_word_space_3: pitch taxi wealth
-bip_39_word_space_4: pitch taxi wealth surge
-bip_39_word_space_5: pitch taxi wealth surge recycle
-bip_39_word_space_6: pitch taxi wealth surge recycle tunnel
-bip_39_word_space_7: pitch taxi wealth surge recycle tunnel unhappy
-bip_39_word_space_8: pitch taxi wealth surge recycle tunnel unhappy truth
-bip_39_word_space_9: pitch taxi wealth surge recycle tunnel unhappy truth tenant
-bip_39_word_underscore_1: pitch
-bip_39_word_underscore_10: pitch_taxi_wealth_surge_recycle_tunnel_unhappy_truth_tenant_bicycle
-bip_39_word_underscore_11: pitch_taxi_wealth_surge_recycle_tunnel_unhappy_truth_tenant_bicycle_spin
 bip_39_word_underscore_12: pitch_taxi_wealth_surge_recycle_tunnel_unhappy_truth_tenant_bicycle_spin_able
 bip_39_word_underscore_2: pitch_taxi
 bip_39_word_underscore_3: pitch_taxi_wealth
-bip_39_word_underscore_4: pitch_taxi_wealth_surge
-bip_39_word_underscore_5: pitch_taxi_wealth_surge_recycle
-bip_39_word_underscore_6: pitch_taxi_wealth_surge_recycle_tunnel
-bip_39_word_underscore_7: pitch_taxi_wealth_surge_recycle_tunnel_unhappy
-bip_39_word_underscore_8: pitch_taxi_wealth_surge_recycle_tunnel_unhappy_truth
-bip_39_word_underscore_9: pitch_taxi_wealth_surge_recycle_tunnel_unhappy_truth_tenant
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

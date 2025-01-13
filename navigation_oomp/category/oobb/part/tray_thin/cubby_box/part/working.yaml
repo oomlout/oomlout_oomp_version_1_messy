@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nuclear
-bip_39_word_dash_10: nuclear-length-alone-alpha-giant-room-orphan-corn-number-join
-bip_39_word_dash_11: nuclear-length-alone-alpha-giant-room-orphan-corn-number-join-announce
 bip_39_word_dash_12: nuclear-length-alone-alpha-giant-room-orphan-corn-number-join-announce-april
 bip_39_word_dash_2: nuclear-length
 bip_39_word_dash_3: nuclear-length-alone
-bip_39_word_dash_4: nuclear-length-alone-alpha
-bip_39_word_dash_5: nuclear-length-alone-alpha-giant
-bip_39_word_dash_6: nuclear-length-alone-alpha-giant-room
-bip_39_word_dash_7: nuclear-length-alone-alpha-giant-room-orphan
-bip_39_word_dash_8: nuclear-length-alone-alpha-giant-room-orphan-corn
-bip_39_word_dash_9: nuclear-length-alone-alpha-giant-room-orphan-corn-number
-bip_39_word_new_br_1: nuclear
-bip_39_word_new_br_10: nuclear<br>length<br>alone<br>alpha<br>giant<br>room<br>orphan<br>corn<br>number<br>join
-bip_39_word_new_br_11: nuclear<br>length<br>alone<br>alpha<br>giant<br>room<br>orphan<br>corn<br>number<br>join<br>announce
 bip_39_word_new_br_12: nuclear<br>length<br>alone<br>alpha<br>giant<br>room<br>orphan<br>corn<br>number<br>join<br>announce<br>april
 bip_39_word_new_br_2: nuclear<br>length
 bip_39_word_new_br_3: nuclear<br>length<br>alone
-bip_39_word_new_br_4: nuclear<br>length<br>alone<br>alpha
-bip_39_word_new_br_5: nuclear<br>length<br>alone<br>alpha<br>giant
-bip_39_word_new_br_6: nuclear<br>length<br>alone<br>alpha<br>giant<br>room
-bip_39_word_new_br_7: nuclear<br>length<br>alone<br>alpha<br>giant<br>room<br>orphan
-bip_39_word_new_br_8: nuclear<br>length<br>alone<br>alpha<br>giant<br>room<br>orphan<br>corn
-bip_39_word_new_br_9: nuclear<br>length<br>alone<br>alpha<br>giant<br>room<br>orphan<br>corn<br>number
-bip_39_word_new_line_1: nuclear
-bip_39_word_new_line_10: 'nuclear
-
-  length
-
-  alone
-
-  alpha
-
-  giant
-
-  room
-
-  orphan
-
-  corn
-
-  number
-
-  join'
-bip_39_word_new_line_11: 'nuclear
-
-  length
-
-  alone
-
-  alpha
-
-  giant
-
-  room
-
-  orphan
-
-  corn
-
-  number
-
-  join
-
-  announce'
 bip_39_word_new_line_12: 'nuclear
 
   length
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'nuclear
   length
 
   alone'
-bip_39_word_new_line_4: 'nuclear
-
-  length
-
-  alone
-
-  alpha'
-bip_39_word_new_line_5: 'nuclear
-
-  length
-
-  alone
-
-  alpha
-
-  giant'
-bip_39_word_new_line_6: 'nuclear
-
-  length
-
-  alone
-
-  alpha
-
-  giant
-
-  room'
-bip_39_word_new_line_7: 'nuclear
-
-  length
-
-  alone
-
-  alpha
-
-  giant
-
-  room
-
-  orphan'
-bip_39_word_new_line_8: 'nuclear
-
-  length
-
-  alone
-
-  alpha
-
-  giant
-
-  room
-
-  orphan
-
-  corn'
-bip_39_word_new_line_9: 'nuclear
-
-  length
-
-  alone
-
-  alpha
-
-  giant
-
-  room
-
-  orphan
-
-  corn
-
-  number'
-bip_39_word_no_space_1: nuclear
-bip_39_word_no_space_10: nuclearlengthalonealphagiantroomorphancornnumberjoin
-bip_39_word_no_space_11: nuclearlengthalonealphagiantroomorphancornnumberjoinannounce
 bip_39_word_no_space_12: nuclearlengthalonealphagiantroomorphancornnumberjoinannounceapril
 bip_39_word_no_space_2: nuclearlength
 bip_39_word_no_space_3: nuclearlengthalone
-bip_39_word_no_space_4: nuclearlengthalonealpha
-bip_39_word_no_space_5: nuclearlengthalonealphagiant
-bip_39_word_no_space_6: nuclearlengthalonealphagiantroom
-bip_39_word_no_space_7: nuclearlengthalonealphagiantroomorphan
-bip_39_word_no_space_8: nuclearlengthalonealphagiantroomorphancorn
-bip_39_word_no_space_9: nuclearlengthalonealphagiantroomorphancornnumber
-bip_39_word_space_0:
-- nuclear
-- length
-- alone
-- alpha
-- giant
-- room
-- orphan
-- corn
-- number
-- join
-- announce
-- april
-bip_39_word_space_1: nuclear
-bip_39_word_space_10: nuclear length alone alpha giant room orphan corn number join
-bip_39_word_space_11: nuclear length alone alpha giant room orphan corn number join
-  announce
 bip_39_word_space_12: nuclear length alone alpha giant room orphan corn number join
   announce april
 bip_39_word_space_2: nuclear length
 bip_39_word_space_3: nuclear length alone
-bip_39_word_space_4: nuclear length alone alpha
-bip_39_word_space_5: nuclear length alone alpha giant
-bip_39_word_space_6: nuclear length alone alpha giant room
-bip_39_word_space_7: nuclear length alone alpha giant room orphan
-bip_39_word_space_8: nuclear length alone alpha giant room orphan corn
-bip_39_word_space_9: nuclear length alone alpha giant room orphan corn number
-bip_39_word_underscore_1: nuclear
-bip_39_word_underscore_10: nuclear_length_alone_alpha_giant_room_orphan_corn_number_join
-bip_39_word_underscore_11: nuclear_length_alone_alpha_giant_room_orphan_corn_number_join_announce
 bip_39_word_underscore_12: nuclear_length_alone_alpha_giant_room_orphan_corn_number_join_announce_april
 bip_39_word_underscore_2: nuclear_length
 bip_39_word_underscore_3: nuclear_length_alone
-bip_39_word_underscore_4: nuclear_length_alone_alpha
-bip_39_word_underscore_5: nuclear_length_alone_alpha_giant
-bip_39_word_underscore_6: nuclear_length_alone_alpha_giant_room
-bip_39_word_underscore_7: nuclear_length_alone_alpha_giant_room_orphan
-bip_39_word_underscore_8: nuclear_length_alone_alpha_giant_room_orphan_corn
-bip_39_word_underscore_9: nuclear_length_alone_alpha_giant_room_orphan_corn_number
 classification: category
 classification_capital: Category
 classification_first_letter: c

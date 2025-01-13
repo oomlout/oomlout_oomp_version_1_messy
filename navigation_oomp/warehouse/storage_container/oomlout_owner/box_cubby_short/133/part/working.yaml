@@ -1,68 +1,9 @@
-bip_39_word_dash_1: feature
-bip_39_word_dash_10: feature-rice-party-collect-empty-party-upset-nest-enroll-convince
-bip_39_word_dash_11: feature-rice-party-collect-empty-party-upset-nest-enroll-convince-box
 bip_39_word_dash_12: feature-rice-party-collect-empty-party-upset-nest-enroll-convince-box-alpha
 bip_39_word_dash_2: feature-rice
 bip_39_word_dash_3: feature-rice-party
-bip_39_word_dash_4: feature-rice-party-collect
-bip_39_word_dash_5: feature-rice-party-collect-empty
-bip_39_word_dash_6: feature-rice-party-collect-empty-party
-bip_39_word_dash_7: feature-rice-party-collect-empty-party-upset
-bip_39_word_dash_8: feature-rice-party-collect-empty-party-upset-nest
-bip_39_word_dash_9: feature-rice-party-collect-empty-party-upset-nest-enroll
-bip_39_word_new_br_1: feature
-bip_39_word_new_br_10: feature<br>rice<br>party<br>collect<br>empty<br>party<br>upset<br>nest<br>enroll<br>convince
-bip_39_word_new_br_11: feature<br>rice<br>party<br>collect<br>empty<br>party<br>upset<br>nest<br>enroll<br>convince<br>box
 bip_39_word_new_br_12: feature<br>rice<br>party<br>collect<br>empty<br>party<br>upset<br>nest<br>enroll<br>convince<br>box<br>alpha
 bip_39_word_new_br_2: feature<br>rice
 bip_39_word_new_br_3: feature<br>rice<br>party
-bip_39_word_new_br_4: feature<br>rice<br>party<br>collect
-bip_39_word_new_br_5: feature<br>rice<br>party<br>collect<br>empty
-bip_39_word_new_br_6: feature<br>rice<br>party<br>collect<br>empty<br>party
-bip_39_word_new_br_7: feature<br>rice<br>party<br>collect<br>empty<br>party<br>upset
-bip_39_word_new_br_8: feature<br>rice<br>party<br>collect<br>empty<br>party<br>upset<br>nest
-bip_39_word_new_br_9: feature<br>rice<br>party<br>collect<br>empty<br>party<br>upset<br>nest<br>enroll
-bip_39_word_new_line_1: feature
-bip_39_word_new_line_10: 'feature
-
-  rice
-
-  party
-
-  collect
-
-  empty
-
-  party
-
-  upset
-
-  nest
-
-  enroll
-
-  convince'
-bip_39_word_new_line_11: 'feature
-
-  rice
-
-  party
-
-  collect
-
-  empty
-
-  party
-
-  upset
-
-  nest
-
-  enroll
-
-  convince
-
-  box'
 bip_39_word_new_line_12: 'feature
 
   rice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'feature
   rice
 
   party'
-bip_39_word_new_line_4: 'feature
-
-  rice
-
-  party
-
-  collect'
-bip_39_word_new_line_5: 'feature
-
-  rice
-
-  party
-
-  collect
-
-  empty'
-bip_39_word_new_line_6: 'feature
-
-  rice
-
-  party
-
-  collect
-
-  empty
-
-  party'
-bip_39_word_new_line_7: 'feature
-
-  rice
-
-  party
-
-  collect
-
-  empty
-
-  party
-
-  upset'
-bip_39_word_new_line_8: 'feature
-
-  rice
-
-  party
-
-  collect
-
-  empty
-
-  party
-
-  upset
-
-  nest'
-bip_39_word_new_line_9: 'feature
-
-  rice
-
-  party
-
-  collect
-
-  empty
-
-  party
-
-  upset
-
-  nest
-
-  enroll'
-bip_39_word_no_space_1: feature
-bip_39_word_no_space_10: featurericepartycollectemptypartyupsetnestenrollconvince
-bip_39_word_no_space_11: featurericepartycollectemptypartyupsetnestenrollconvincebox
 bip_39_word_no_space_12: featurericepartycollectemptypartyupsetnestenrollconvinceboxalpha
 bip_39_word_no_space_2: featurerice
 bip_39_word_no_space_3: featurericeparty
-bip_39_word_no_space_4: featurericepartycollect
-bip_39_word_no_space_5: featurericepartycollectempty
-bip_39_word_no_space_6: featurericepartycollectemptyparty
-bip_39_word_no_space_7: featurericepartycollectemptypartyupset
-bip_39_word_no_space_8: featurericepartycollectemptypartyupsetnest
-bip_39_word_no_space_9: featurericepartycollectemptypartyupsetnestenroll
-bip_39_word_space_0:
-- feature
-- rice
-- party
-- collect
-- empty
-- party
-- upset
-- nest
-- enroll
-- convince
-- box
-- alpha
-bip_39_word_space_1: feature
-bip_39_word_space_10: feature rice party collect empty party upset nest enroll convince
-bip_39_word_space_11: feature rice party collect empty party upset nest enroll convince
-  box
 bip_39_word_space_12: feature rice party collect empty party upset nest enroll convince
   box alpha
 bip_39_word_space_2: feature rice
 bip_39_word_space_3: feature rice party
-bip_39_word_space_4: feature rice party collect
-bip_39_word_space_5: feature rice party collect empty
-bip_39_word_space_6: feature rice party collect empty party
-bip_39_word_space_7: feature rice party collect empty party upset
-bip_39_word_space_8: feature rice party collect empty party upset nest
-bip_39_word_space_9: feature rice party collect empty party upset nest enroll
-bip_39_word_underscore_1: feature
-bip_39_word_underscore_10: feature_rice_party_collect_empty_party_upset_nest_enroll_convince
-bip_39_word_underscore_11: feature_rice_party_collect_empty_party_upset_nest_enroll_convince_box
 bip_39_word_underscore_12: feature_rice_party_collect_empty_party_upset_nest_enroll_convince_box_alpha
 bip_39_word_underscore_2: feature_rice
 bip_39_word_underscore_3: feature_rice_party
-bip_39_word_underscore_4: feature_rice_party_collect
-bip_39_word_underscore_5: feature_rice_party_collect_empty
-bip_39_word_underscore_6: feature_rice_party_collect_empty_party
-bip_39_word_underscore_7: feature_rice_party_collect_empty_party_upset
-bip_39_word_underscore_8: feature_rice_party_collect_empty_party_upset_nest
-bip_39_word_underscore_9: feature_rice_party_collect_empty_party_upset_nest_enroll
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

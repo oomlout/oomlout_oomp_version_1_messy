@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enough
-bip_39_word_dash_10: enough-birth-myself-maid-rain-goddess-wood-board-team-scissors
-bip_39_word_dash_11: enough-birth-myself-maid-rain-goddess-wood-board-team-scissors-world
 bip_39_word_dash_12: enough-birth-myself-maid-rain-goddess-wood-board-team-scissors-world-actual
 bip_39_word_dash_2: enough-birth
 bip_39_word_dash_3: enough-birth-myself
-bip_39_word_dash_4: enough-birth-myself-maid
-bip_39_word_dash_5: enough-birth-myself-maid-rain
-bip_39_word_dash_6: enough-birth-myself-maid-rain-goddess
-bip_39_word_dash_7: enough-birth-myself-maid-rain-goddess-wood
-bip_39_word_dash_8: enough-birth-myself-maid-rain-goddess-wood-board
-bip_39_word_dash_9: enough-birth-myself-maid-rain-goddess-wood-board-team
-bip_39_word_new_br_1: enough
-bip_39_word_new_br_10: enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors
-bip_39_word_new_br_11: enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors<br>world
 bip_39_word_new_br_12: enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team<br>scissors<br>world<br>actual
 bip_39_word_new_br_2: enough<br>birth
 bip_39_word_new_br_3: enough<br>birth<br>myself
-bip_39_word_new_br_4: enough<br>birth<br>myself<br>maid
-bip_39_word_new_br_5: enough<br>birth<br>myself<br>maid<br>rain
-bip_39_word_new_br_6: enough<br>birth<br>myself<br>maid<br>rain<br>goddess
-bip_39_word_new_br_7: enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood
-bip_39_word_new_br_8: enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board
-bip_39_word_new_br_9: enough<br>birth<br>myself<br>maid<br>rain<br>goddess<br>wood<br>board<br>team
-bip_39_word_new_line_1: enough
-bip_39_word_new_line_10: 'enough
-
-  birth
-
-  myself
-
-  maid
-
-  rain
-
-  goddess
-
-  wood
-
-  board
-
-  team
-
-  scissors'
-bip_39_word_new_line_11: 'enough
-
-  birth
-
-  myself
-
-  maid
-
-  rain
-
-  goddess
-
-  wood
-
-  board
-
-  team
-
-  scissors
-
-  world'
 bip_39_word_new_line_12: 'enough
 
   birth
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'enough
   birth
 
   myself'
-bip_39_word_new_line_4: 'enough
-
-  birth
-
-  myself
-
-  maid'
-bip_39_word_new_line_5: 'enough
-
-  birth
-
-  myself
-
-  maid
-
-  rain'
-bip_39_word_new_line_6: 'enough
-
-  birth
-
-  myself
-
-  maid
-
-  rain
-
-  goddess'
-bip_39_word_new_line_7: 'enough
-
-  birth
-
-  myself
-
-  maid
-
-  rain
-
-  goddess
-
-  wood'
-bip_39_word_new_line_8: 'enough
-
-  birth
-
-  myself
-
-  maid
-
-  rain
-
-  goddess
-
-  wood
-
-  board'
-bip_39_word_new_line_9: 'enough
-
-  birth
-
-  myself
-
-  maid
-
-  rain
-
-  goddess
-
-  wood
-
-  board
-
-  team'
-bip_39_word_no_space_1: enough
-bip_39_word_no_space_10: enoughbirthmyselfmaidraingoddesswoodboardteamscissors
-bip_39_word_no_space_11: enoughbirthmyselfmaidraingoddesswoodboardteamscissorsworld
 bip_39_word_no_space_12: enoughbirthmyselfmaidraingoddesswoodboardteamscissorsworldactual
 bip_39_word_no_space_2: enoughbirth
 bip_39_word_no_space_3: enoughbirthmyself
-bip_39_word_no_space_4: enoughbirthmyselfmaid
-bip_39_word_no_space_5: enoughbirthmyselfmaidrain
-bip_39_word_no_space_6: enoughbirthmyselfmaidraingoddess
-bip_39_word_no_space_7: enoughbirthmyselfmaidraingoddesswood
-bip_39_word_no_space_8: enoughbirthmyselfmaidraingoddesswoodboard
-bip_39_word_no_space_9: enoughbirthmyselfmaidraingoddesswoodboardteam
-bip_39_word_space_0:
-- enough
-- birth
-- myself
-- maid
-- rain
-- goddess
-- wood
-- board
-- team
-- scissors
-- world
-- actual
-bip_39_word_space_1: enough
-bip_39_word_space_10: enough birth myself maid rain goddess wood board team scissors
-bip_39_word_space_11: enough birth myself maid rain goddess wood board team scissors
-  world
 bip_39_word_space_12: enough birth myself maid rain goddess wood board team scissors
   world actual
 bip_39_word_space_2: enough birth
 bip_39_word_space_3: enough birth myself
-bip_39_word_space_4: enough birth myself maid
-bip_39_word_space_5: enough birth myself maid rain
-bip_39_word_space_6: enough birth myself maid rain goddess
-bip_39_word_space_7: enough birth myself maid rain goddess wood
-bip_39_word_space_8: enough birth myself maid rain goddess wood board
-bip_39_word_space_9: enough birth myself maid rain goddess wood board team
-bip_39_word_underscore_1: enough
-bip_39_word_underscore_10: enough_birth_myself_maid_rain_goddess_wood_board_team_scissors
-bip_39_word_underscore_11: enough_birth_myself_maid_rain_goddess_wood_board_team_scissors_world
 bip_39_word_underscore_12: enough_birth_myself_maid_rain_goddess_wood_board_team_scissors_world_actual
 bip_39_word_underscore_2: enough_birth
 bip_39_word_underscore_3: enough_birth_myself
-bip_39_word_underscore_4: enough_birth_myself_maid
-bip_39_word_underscore_5: enough_birth_myself_maid_rain
-bip_39_word_underscore_6: enough_birth_myself_maid_rain_goddess
-bip_39_word_underscore_7: enough_birth_myself_maid_rain_goddess_wood
-bip_39_word_underscore_8: enough_birth_myself_maid_rain_goddess_wood_board
-bip_39_word_underscore_9: enough_birth_myself_maid_rain_goddess_wood_board_team
 classification: dish
 classification_capital: Dish
 classification_first_letter: d

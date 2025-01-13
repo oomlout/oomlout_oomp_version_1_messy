@@ -1,68 +1,9 @@
-bip_39_word_dash_1: divorce
-bip_39_word_dash_10: divorce-cargo-jewel-buddy-section-hint-goose-potato-object-bean
-bip_39_word_dash_11: divorce-cargo-jewel-buddy-section-hint-goose-potato-object-bean-citizen
 bip_39_word_dash_12: divorce-cargo-jewel-buddy-section-hint-goose-potato-object-bean-citizen-ask
 bip_39_word_dash_2: divorce-cargo
 bip_39_word_dash_3: divorce-cargo-jewel
-bip_39_word_dash_4: divorce-cargo-jewel-buddy
-bip_39_word_dash_5: divorce-cargo-jewel-buddy-section
-bip_39_word_dash_6: divorce-cargo-jewel-buddy-section-hint
-bip_39_word_dash_7: divorce-cargo-jewel-buddy-section-hint-goose
-bip_39_word_dash_8: divorce-cargo-jewel-buddy-section-hint-goose-potato
-bip_39_word_dash_9: divorce-cargo-jewel-buddy-section-hint-goose-potato-object
-bip_39_word_new_br_1: divorce
-bip_39_word_new_br_10: divorce<br>cargo<br>jewel<br>buddy<br>section<br>hint<br>goose<br>potato<br>object<br>bean
-bip_39_word_new_br_11: divorce<br>cargo<br>jewel<br>buddy<br>section<br>hint<br>goose<br>potato<br>object<br>bean<br>citizen
 bip_39_word_new_br_12: divorce<br>cargo<br>jewel<br>buddy<br>section<br>hint<br>goose<br>potato<br>object<br>bean<br>citizen<br>ask
 bip_39_word_new_br_2: divorce<br>cargo
 bip_39_word_new_br_3: divorce<br>cargo<br>jewel
-bip_39_word_new_br_4: divorce<br>cargo<br>jewel<br>buddy
-bip_39_word_new_br_5: divorce<br>cargo<br>jewel<br>buddy<br>section
-bip_39_word_new_br_6: divorce<br>cargo<br>jewel<br>buddy<br>section<br>hint
-bip_39_word_new_br_7: divorce<br>cargo<br>jewel<br>buddy<br>section<br>hint<br>goose
-bip_39_word_new_br_8: divorce<br>cargo<br>jewel<br>buddy<br>section<br>hint<br>goose<br>potato
-bip_39_word_new_br_9: divorce<br>cargo<br>jewel<br>buddy<br>section<br>hint<br>goose<br>potato<br>object
-bip_39_word_new_line_1: divorce
-bip_39_word_new_line_10: 'divorce
-
-  cargo
-
-  jewel
-
-  buddy
-
-  section
-
-  hint
-
-  goose
-
-  potato
-
-  object
-
-  bean'
-bip_39_word_new_line_11: 'divorce
-
-  cargo
-
-  jewel
-
-  buddy
-
-  section
-
-  hint
-
-  goose
-
-  potato
-
-  object
-
-  bean
-
-  citizen'
 bip_39_word_new_line_12: 'divorce
 
   cargo
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'divorce
   cargo
 
   jewel'
-bip_39_word_new_line_4: 'divorce
-
-  cargo
-
-  jewel
-
-  buddy'
-bip_39_word_new_line_5: 'divorce
-
-  cargo
-
-  jewel
-
-  buddy
-
-  section'
-bip_39_word_new_line_6: 'divorce
-
-  cargo
-
-  jewel
-
-  buddy
-
-  section
-
-  hint'
-bip_39_word_new_line_7: 'divorce
-
-  cargo
-
-  jewel
-
-  buddy
-
-  section
-
-  hint
-
-  goose'
-bip_39_word_new_line_8: 'divorce
-
-  cargo
-
-  jewel
-
-  buddy
-
-  section
-
-  hint
-
-  goose
-
-  potato'
-bip_39_word_new_line_9: 'divorce
-
-  cargo
-
-  jewel
-
-  buddy
-
-  section
-
-  hint
-
-  goose
-
-  potato
-
-  object'
-bip_39_word_no_space_1: divorce
-bip_39_word_no_space_10: divorcecargojewelbuddysectionhintgoosepotatoobjectbean
-bip_39_word_no_space_11: divorcecargojewelbuddysectionhintgoosepotatoobjectbeancitizen
 bip_39_word_no_space_12: divorcecargojewelbuddysectionhintgoosepotatoobjectbeancitizenask
 bip_39_word_no_space_2: divorcecargo
 bip_39_word_no_space_3: divorcecargojewel
-bip_39_word_no_space_4: divorcecargojewelbuddy
-bip_39_word_no_space_5: divorcecargojewelbuddysection
-bip_39_word_no_space_6: divorcecargojewelbuddysectionhint
-bip_39_word_no_space_7: divorcecargojewelbuddysectionhintgoose
-bip_39_word_no_space_8: divorcecargojewelbuddysectionhintgoosepotato
-bip_39_word_no_space_9: divorcecargojewelbuddysectionhintgoosepotatoobject
-bip_39_word_space_0:
-- divorce
-- cargo
-- jewel
-- buddy
-- section
-- hint
-- goose
-- potato
-- object
-- bean
-- citizen
-- ask
-bip_39_word_space_1: divorce
-bip_39_word_space_10: divorce cargo jewel buddy section hint goose potato object bean
-bip_39_word_space_11: divorce cargo jewel buddy section hint goose potato object bean
-  citizen
 bip_39_word_space_12: divorce cargo jewel buddy section hint goose potato object bean
   citizen ask
 bip_39_word_space_2: divorce cargo
 bip_39_word_space_3: divorce cargo jewel
-bip_39_word_space_4: divorce cargo jewel buddy
-bip_39_word_space_5: divorce cargo jewel buddy section
-bip_39_word_space_6: divorce cargo jewel buddy section hint
-bip_39_word_space_7: divorce cargo jewel buddy section hint goose
-bip_39_word_space_8: divorce cargo jewel buddy section hint goose potato
-bip_39_word_space_9: divorce cargo jewel buddy section hint goose potato object
-bip_39_word_underscore_1: divorce
-bip_39_word_underscore_10: divorce_cargo_jewel_buddy_section_hint_goose_potato_object_bean
-bip_39_word_underscore_11: divorce_cargo_jewel_buddy_section_hint_goose_potato_object_bean_citizen
 bip_39_word_underscore_12: divorce_cargo_jewel_buddy_section_hint_goose_potato_object_bean_citizen_ask
 bip_39_word_underscore_2: divorce_cargo
 bip_39_word_underscore_3: divorce_cargo_jewel
-bip_39_word_underscore_4: divorce_cargo_jewel_buddy
-bip_39_word_underscore_5: divorce_cargo_jewel_buddy_section
-bip_39_word_underscore_6: divorce_cargo_jewel_buddy_section_hint
-bip_39_word_underscore_7: divorce_cargo_jewel_buddy_section_hint_goose
-bip_39_word_underscore_8: divorce_cargo_jewel_buddy_section_hint_goose_potato
-bip_39_word_underscore_9: divorce_cargo_jewel_buddy_section_hint_goose_potato_object
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

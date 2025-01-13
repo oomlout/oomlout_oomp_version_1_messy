@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ostrich
-bip_39_word_dash_10: ostrich-space-garbage-text-bone-puzzle-fatal-region-nuclear-animal
-bip_39_word_dash_11: ostrich-space-garbage-text-bone-puzzle-fatal-region-nuclear-animal-crucial
 bip_39_word_dash_12: ostrich-space-garbage-text-bone-puzzle-fatal-region-nuclear-animal-crucial-alter
 bip_39_word_dash_2: ostrich-space
 bip_39_word_dash_3: ostrich-space-garbage
-bip_39_word_dash_4: ostrich-space-garbage-text
-bip_39_word_dash_5: ostrich-space-garbage-text-bone
-bip_39_word_dash_6: ostrich-space-garbage-text-bone-puzzle
-bip_39_word_dash_7: ostrich-space-garbage-text-bone-puzzle-fatal
-bip_39_word_dash_8: ostrich-space-garbage-text-bone-puzzle-fatal-region
-bip_39_word_dash_9: ostrich-space-garbage-text-bone-puzzle-fatal-region-nuclear
-bip_39_word_new_br_1: ostrich
-bip_39_word_new_br_10: ostrich<br>space<br>garbage<br>text<br>bone<br>puzzle<br>fatal<br>region<br>nuclear<br>animal
-bip_39_word_new_br_11: ostrich<br>space<br>garbage<br>text<br>bone<br>puzzle<br>fatal<br>region<br>nuclear<br>animal<br>crucial
 bip_39_word_new_br_12: ostrich<br>space<br>garbage<br>text<br>bone<br>puzzle<br>fatal<br>region<br>nuclear<br>animal<br>crucial<br>alter
 bip_39_word_new_br_2: ostrich<br>space
 bip_39_word_new_br_3: ostrich<br>space<br>garbage
-bip_39_word_new_br_4: ostrich<br>space<br>garbage<br>text
-bip_39_word_new_br_5: ostrich<br>space<br>garbage<br>text<br>bone
-bip_39_word_new_br_6: ostrich<br>space<br>garbage<br>text<br>bone<br>puzzle
-bip_39_word_new_br_7: ostrich<br>space<br>garbage<br>text<br>bone<br>puzzle<br>fatal
-bip_39_word_new_br_8: ostrich<br>space<br>garbage<br>text<br>bone<br>puzzle<br>fatal<br>region
-bip_39_word_new_br_9: ostrich<br>space<br>garbage<br>text<br>bone<br>puzzle<br>fatal<br>region<br>nuclear
-bip_39_word_new_line_1: ostrich
-bip_39_word_new_line_10: 'ostrich
-
-  space
-
-  garbage
-
-  text
-
-  bone
-
-  puzzle
-
-  fatal
-
-  region
-
-  nuclear
-
-  animal'
-bip_39_word_new_line_11: 'ostrich
-
-  space
-
-  garbage
-
-  text
-
-  bone
-
-  puzzle
-
-  fatal
-
-  region
-
-  nuclear
-
-  animal
-
-  crucial'
 bip_39_word_new_line_12: 'ostrich
 
   space
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ostrich
   space
 
   garbage'
-bip_39_word_new_line_4: 'ostrich
-
-  space
-
-  garbage
-
-  text'
-bip_39_word_new_line_5: 'ostrich
-
-  space
-
-  garbage
-
-  text
-
-  bone'
-bip_39_word_new_line_6: 'ostrich
-
-  space
-
-  garbage
-
-  text
-
-  bone
-
-  puzzle'
-bip_39_word_new_line_7: 'ostrich
-
-  space
-
-  garbage
-
-  text
-
-  bone
-
-  puzzle
-
-  fatal'
-bip_39_word_new_line_8: 'ostrich
-
-  space
-
-  garbage
-
-  text
-
-  bone
-
-  puzzle
-
-  fatal
-
-  region'
-bip_39_word_new_line_9: 'ostrich
-
-  space
-
-  garbage
-
-  text
-
-  bone
-
-  puzzle
-
-  fatal
-
-  region
-
-  nuclear'
-bip_39_word_no_space_1: ostrich
-bip_39_word_no_space_10: ostrichspacegarbagetextbonepuzzlefatalregionnuclearanimal
-bip_39_word_no_space_11: ostrichspacegarbagetextbonepuzzlefatalregionnuclearanimalcrucial
 bip_39_word_no_space_12: ostrichspacegarbagetextbonepuzzlefatalregionnuclearanimalcrucialalter
 bip_39_word_no_space_2: ostrichspace
 bip_39_word_no_space_3: ostrichspacegarbage
-bip_39_word_no_space_4: ostrichspacegarbagetext
-bip_39_word_no_space_5: ostrichspacegarbagetextbone
-bip_39_word_no_space_6: ostrichspacegarbagetextbonepuzzle
-bip_39_word_no_space_7: ostrichspacegarbagetextbonepuzzlefatal
-bip_39_word_no_space_8: ostrichspacegarbagetextbonepuzzlefatalregion
-bip_39_word_no_space_9: ostrichspacegarbagetextbonepuzzlefatalregionnuclear
-bip_39_word_space_0:
-- ostrich
-- space
-- garbage
-- text
-- bone
-- puzzle
-- fatal
-- region
-- nuclear
-- animal
-- crucial
-- alter
-bip_39_word_space_1: ostrich
-bip_39_word_space_10: ostrich space garbage text bone puzzle fatal region nuclear
-  animal
-bip_39_word_space_11: ostrich space garbage text bone puzzle fatal region nuclear
-  animal crucial
 bip_39_word_space_12: ostrich space garbage text bone puzzle fatal region nuclear
   animal crucial alter
 bip_39_word_space_2: ostrich space
 bip_39_word_space_3: ostrich space garbage
-bip_39_word_space_4: ostrich space garbage text
-bip_39_word_space_5: ostrich space garbage text bone
-bip_39_word_space_6: ostrich space garbage text bone puzzle
-bip_39_word_space_7: ostrich space garbage text bone puzzle fatal
-bip_39_word_space_8: ostrich space garbage text bone puzzle fatal region
-bip_39_word_space_9: ostrich space garbage text bone puzzle fatal region nuclear
-bip_39_word_underscore_1: ostrich
-bip_39_word_underscore_10: ostrich_space_garbage_text_bone_puzzle_fatal_region_nuclear_animal
-bip_39_word_underscore_11: ostrich_space_garbage_text_bone_puzzle_fatal_region_nuclear_animal_crucial
 bip_39_word_underscore_12: ostrich_space_garbage_text_bone_puzzle_fatal_region_nuclear_animal_crucial_alter
 bip_39_word_underscore_2: ostrich_space
 bip_39_word_underscore_3: ostrich_space_garbage
-bip_39_word_underscore_4: ostrich_space_garbage_text
-bip_39_word_underscore_5: ostrich_space_garbage_text_bone
-bip_39_word_underscore_6: ostrich_space_garbage_text_bone_puzzle
-bip_39_word_underscore_7: ostrich_space_garbage_text_bone_puzzle_fatal
-bip_39_word_underscore_8: ostrich_space_garbage_text_bone_puzzle_fatal_region
-bip_39_word_underscore_9: ostrich_space_garbage_text_bone_puzzle_fatal_region_nuclear
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

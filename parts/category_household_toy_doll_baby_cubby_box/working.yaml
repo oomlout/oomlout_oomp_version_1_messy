@@ -1,68 +1,9 @@
-bip_39_word_dash_1: payment
-bip_39_word_dash_10: payment-skate-belt-orange-moment-help-path-unique-neither-admit
-bip_39_word_dash_11: payment-skate-belt-orange-moment-help-path-unique-neither-admit-chimney
 bip_39_word_dash_12: payment-skate-belt-orange-moment-help-path-unique-neither-admit-chimney-address
 bip_39_word_dash_2: payment-skate
 bip_39_word_dash_3: payment-skate-belt
-bip_39_word_dash_4: payment-skate-belt-orange
-bip_39_word_dash_5: payment-skate-belt-orange-moment
-bip_39_word_dash_6: payment-skate-belt-orange-moment-help
-bip_39_word_dash_7: payment-skate-belt-orange-moment-help-path
-bip_39_word_dash_8: payment-skate-belt-orange-moment-help-path-unique
-bip_39_word_dash_9: payment-skate-belt-orange-moment-help-path-unique-neither
-bip_39_word_new_br_1: payment
-bip_39_word_new_br_10: payment<br>skate<br>belt<br>orange<br>moment<br>help<br>path<br>unique<br>neither<br>admit
-bip_39_word_new_br_11: payment<br>skate<br>belt<br>orange<br>moment<br>help<br>path<br>unique<br>neither<br>admit<br>chimney
 bip_39_word_new_br_12: payment<br>skate<br>belt<br>orange<br>moment<br>help<br>path<br>unique<br>neither<br>admit<br>chimney<br>address
 bip_39_word_new_br_2: payment<br>skate
 bip_39_word_new_br_3: payment<br>skate<br>belt
-bip_39_word_new_br_4: payment<br>skate<br>belt<br>orange
-bip_39_word_new_br_5: payment<br>skate<br>belt<br>orange<br>moment
-bip_39_word_new_br_6: payment<br>skate<br>belt<br>orange<br>moment<br>help
-bip_39_word_new_br_7: payment<br>skate<br>belt<br>orange<br>moment<br>help<br>path
-bip_39_word_new_br_8: payment<br>skate<br>belt<br>orange<br>moment<br>help<br>path<br>unique
-bip_39_word_new_br_9: payment<br>skate<br>belt<br>orange<br>moment<br>help<br>path<br>unique<br>neither
-bip_39_word_new_line_1: payment
-bip_39_word_new_line_10: 'payment
-
-  skate
-
-  belt
-
-  orange
-
-  moment
-
-  help
-
-  path
-
-  unique
-
-  neither
-
-  admit'
-bip_39_word_new_line_11: 'payment
-
-  skate
-
-  belt
-
-  orange
-
-  moment
-
-  help
-
-  path
-
-  unique
-
-  neither
-
-  admit
-
-  chimney'
 bip_39_word_new_line_12: 'payment
 
   skate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'payment
   skate
 
   belt'
-bip_39_word_new_line_4: 'payment
-
-  skate
-
-  belt
-
-  orange'
-bip_39_word_new_line_5: 'payment
-
-  skate
-
-  belt
-
-  orange
-
-  moment'
-bip_39_word_new_line_6: 'payment
-
-  skate
-
-  belt
-
-  orange
-
-  moment
-
-  help'
-bip_39_word_new_line_7: 'payment
-
-  skate
-
-  belt
-
-  orange
-
-  moment
-
-  help
-
-  path'
-bip_39_word_new_line_8: 'payment
-
-  skate
-
-  belt
-
-  orange
-
-  moment
-
-  help
-
-  path
-
-  unique'
-bip_39_word_new_line_9: 'payment
-
-  skate
-
-  belt
-
-  orange
-
-  moment
-
-  help
-
-  path
-
-  unique
-
-  neither'
-bip_39_word_no_space_1: payment
-bip_39_word_no_space_10: paymentskatebeltorangemomenthelppathuniqueneitheradmit
-bip_39_word_no_space_11: paymentskatebeltorangemomenthelppathuniqueneitheradmitchimney
 bip_39_word_no_space_12: paymentskatebeltorangemomenthelppathuniqueneitheradmitchimneyaddress
 bip_39_word_no_space_2: paymentskate
 bip_39_word_no_space_3: paymentskatebelt
-bip_39_word_no_space_4: paymentskatebeltorange
-bip_39_word_no_space_5: paymentskatebeltorangemoment
-bip_39_word_no_space_6: paymentskatebeltorangemomenthelp
-bip_39_word_no_space_7: paymentskatebeltorangemomenthelppath
-bip_39_word_no_space_8: paymentskatebeltorangemomenthelppathunique
-bip_39_word_no_space_9: paymentskatebeltorangemomenthelppathuniqueneither
-bip_39_word_space_0:
-- payment
-- skate
-- belt
-- orange
-- moment
-- help
-- path
-- unique
-- neither
-- admit
-- chimney
-- address
-bip_39_word_space_1: payment
-bip_39_word_space_10: payment skate belt orange moment help path unique neither admit
-bip_39_word_space_11: payment skate belt orange moment help path unique neither admit
-  chimney
 bip_39_word_space_12: payment skate belt orange moment help path unique neither admit
   chimney address
 bip_39_word_space_2: payment skate
 bip_39_word_space_3: payment skate belt
-bip_39_word_space_4: payment skate belt orange
-bip_39_word_space_5: payment skate belt orange moment
-bip_39_word_space_6: payment skate belt orange moment help
-bip_39_word_space_7: payment skate belt orange moment help path
-bip_39_word_space_8: payment skate belt orange moment help path unique
-bip_39_word_space_9: payment skate belt orange moment help path unique neither
-bip_39_word_underscore_1: payment
-bip_39_word_underscore_10: payment_skate_belt_orange_moment_help_path_unique_neither_admit
-bip_39_word_underscore_11: payment_skate_belt_orange_moment_help_path_unique_neither_admit_chimney
 bip_39_word_underscore_12: payment_skate_belt_orange_moment_help_path_unique_neither_admit_chimney_address
 bip_39_word_underscore_2: payment_skate
 bip_39_word_underscore_3: payment_skate_belt
-bip_39_word_underscore_4: payment_skate_belt_orange
-bip_39_word_underscore_5: payment_skate_belt_orange_moment
-bip_39_word_underscore_6: payment_skate_belt_orange_moment_help
-bip_39_word_underscore_7: payment_skate_belt_orange_moment_help_path
-bip_39_word_underscore_8: payment_skate_belt_orange_moment_help_path_unique
-bip_39_word_underscore_9: payment_skate_belt_orange_moment_help_path_unique_neither
 classification: category
 classification_capital: Category
 classification_first_letter: c

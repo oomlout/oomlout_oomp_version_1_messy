@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shoe
-bip_39_word_dash_10: shoe-marble-miss-junk-pulse-churn-bag-design-tool-purse
-bip_39_word_dash_11: shoe-marble-miss-junk-pulse-churn-bag-design-tool-purse-option
 bip_39_word_dash_12: shoe-marble-miss-junk-pulse-churn-bag-design-tool-purse-option-admit
 bip_39_word_dash_2: shoe-marble
 bip_39_word_dash_3: shoe-marble-miss
-bip_39_word_dash_4: shoe-marble-miss-junk
-bip_39_word_dash_5: shoe-marble-miss-junk-pulse
-bip_39_word_dash_6: shoe-marble-miss-junk-pulse-churn
-bip_39_word_dash_7: shoe-marble-miss-junk-pulse-churn-bag
-bip_39_word_dash_8: shoe-marble-miss-junk-pulse-churn-bag-design
-bip_39_word_dash_9: shoe-marble-miss-junk-pulse-churn-bag-design-tool
-bip_39_word_new_br_1: shoe
-bip_39_word_new_br_10: shoe<br>marble<br>miss<br>junk<br>pulse<br>churn<br>bag<br>design<br>tool<br>purse
-bip_39_word_new_br_11: shoe<br>marble<br>miss<br>junk<br>pulse<br>churn<br>bag<br>design<br>tool<br>purse<br>option
 bip_39_word_new_br_12: shoe<br>marble<br>miss<br>junk<br>pulse<br>churn<br>bag<br>design<br>tool<br>purse<br>option<br>admit
 bip_39_word_new_br_2: shoe<br>marble
 bip_39_word_new_br_3: shoe<br>marble<br>miss
-bip_39_word_new_br_4: shoe<br>marble<br>miss<br>junk
-bip_39_word_new_br_5: shoe<br>marble<br>miss<br>junk<br>pulse
-bip_39_word_new_br_6: shoe<br>marble<br>miss<br>junk<br>pulse<br>churn
-bip_39_word_new_br_7: shoe<br>marble<br>miss<br>junk<br>pulse<br>churn<br>bag
-bip_39_word_new_br_8: shoe<br>marble<br>miss<br>junk<br>pulse<br>churn<br>bag<br>design
-bip_39_word_new_br_9: shoe<br>marble<br>miss<br>junk<br>pulse<br>churn<br>bag<br>design<br>tool
-bip_39_word_new_line_1: shoe
-bip_39_word_new_line_10: 'shoe
-
-  marble
-
-  miss
-
-  junk
-
-  pulse
-
-  churn
-
-  bag
-
-  design
-
-  tool
-
-  purse'
-bip_39_word_new_line_11: 'shoe
-
-  marble
-
-  miss
-
-  junk
-
-  pulse
-
-  churn
-
-  bag
-
-  design
-
-  tool
-
-  purse
-
-  option'
 bip_39_word_new_line_12: 'shoe
 
   marble
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'shoe
   marble
 
   miss'
-bip_39_word_new_line_4: 'shoe
-
-  marble
-
-  miss
-
-  junk'
-bip_39_word_new_line_5: 'shoe
-
-  marble
-
-  miss
-
-  junk
-
-  pulse'
-bip_39_word_new_line_6: 'shoe
-
-  marble
-
-  miss
-
-  junk
-
-  pulse
-
-  churn'
-bip_39_word_new_line_7: 'shoe
-
-  marble
-
-  miss
-
-  junk
-
-  pulse
-
-  churn
-
-  bag'
-bip_39_word_new_line_8: 'shoe
-
-  marble
-
-  miss
-
-  junk
-
-  pulse
-
-  churn
-
-  bag
-
-  design'
-bip_39_word_new_line_9: 'shoe
-
-  marble
-
-  miss
-
-  junk
-
-  pulse
-
-  churn
-
-  bag
-
-  design
-
-  tool'
-bip_39_word_no_space_1: shoe
-bip_39_word_no_space_10: shoemarblemissjunkpulsechurnbagdesigntoolpurse
-bip_39_word_no_space_11: shoemarblemissjunkpulsechurnbagdesigntoolpurseoption
 bip_39_word_no_space_12: shoemarblemissjunkpulsechurnbagdesigntoolpurseoptionadmit
 bip_39_word_no_space_2: shoemarble
 bip_39_word_no_space_3: shoemarblemiss
-bip_39_word_no_space_4: shoemarblemissjunk
-bip_39_word_no_space_5: shoemarblemissjunkpulse
-bip_39_word_no_space_6: shoemarblemissjunkpulsechurn
-bip_39_word_no_space_7: shoemarblemissjunkpulsechurnbag
-bip_39_word_no_space_8: shoemarblemissjunkpulsechurnbagdesign
-bip_39_word_no_space_9: shoemarblemissjunkpulsechurnbagdesigntool
-bip_39_word_space_0:
-- shoe
-- marble
-- miss
-- junk
-- pulse
-- churn
-- bag
-- design
-- tool
-- purse
-- option
-- admit
-bip_39_word_space_1: shoe
-bip_39_word_space_10: shoe marble miss junk pulse churn bag design tool purse
-bip_39_word_space_11: shoe marble miss junk pulse churn bag design tool purse option
 bip_39_word_space_12: shoe marble miss junk pulse churn bag design tool purse option
   admit
 bip_39_word_space_2: shoe marble
 bip_39_word_space_3: shoe marble miss
-bip_39_word_space_4: shoe marble miss junk
-bip_39_word_space_5: shoe marble miss junk pulse
-bip_39_word_space_6: shoe marble miss junk pulse churn
-bip_39_word_space_7: shoe marble miss junk pulse churn bag
-bip_39_word_space_8: shoe marble miss junk pulse churn bag design
-bip_39_word_space_9: shoe marble miss junk pulse churn bag design tool
-bip_39_word_underscore_1: shoe
-bip_39_word_underscore_10: shoe_marble_miss_junk_pulse_churn_bag_design_tool_purse
-bip_39_word_underscore_11: shoe_marble_miss_junk_pulse_churn_bag_design_tool_purse_option
 bip_39_word_underscore_12: shoe_marble_miss_junk_pulse_churn_bag_design_tool_purse_option_admit
 bip_39_word_underscore_2: shoe_marble
 bip_39_word_underscore_3: shoe_marble_miss
-bip_39_word_underscore_4: shoe_marble_miss_junk
-bip_39_word_underscore_5: shoe_marble_miss_junk_pulse
-bip_39_word_underscore_6: shoe_marble_miss_junk_pulse_churn
-bip_39_word_underscore_7: shoe_marble_miss_junk_pulse_churn_bag
-bip_39_word_underscore_8: shoe_marble_miss_junk_pulse_churn_bag_design
-bip_39_word_underscore_9: shoe_marble_miss_junk_pulse_churn_bag_design_tool
 classification: food
 classification_capital: Food
 classification_first_letter: f

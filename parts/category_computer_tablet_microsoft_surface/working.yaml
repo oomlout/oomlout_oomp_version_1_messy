@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bracket
-bip_39_word_dash_10: bracket-caution-sort-soldier-grass-invite-unknown-laundry-month-inmate
-bip_39_word_dash_11: bracket-caution-sort-soldier-grass-invite-unknown-laundry-month-inmate-peasant
 bip_39_word_dash_12: bracket-caution-sort-soldier-grass-invite-unknown-laundry-month-inmate-peasant-artist
 bip_39_word_dash_2: bracket-caution
 bip_39_word_dash_3: bracket-caution-sort
-bip_39_word_dash_4: bracket-caution-sort-soldier
-bip_39_word_dash_5: bracket-caution-sort-soldier-grass
-bip_39_word_dash_6: bracket-caution-sort-soldier-grass-invite
-bip_39_word_dash_7: bracket-caution-sort-soldier-grass-invite-unknown
-bip_39_word_dash_8: bracket-caution-sort-soldier-grass-invite-unknown-laundry
-bip_39_word_dash_9: bracket-caution-sort-soldier-grass-invite-unknown-laundry-month
-bip_39_word_new_br_1: bracket
-bip_39_word_new_br_10: bracket<br>caution<br>sort<br>soldier<br>grass<br>invite<br>unknown<br>laundry<br>month<br>inmate
-bip_39_word_new_br_11: bracket<br>caution<br>sort<br>soldier<br>grass<br>invite<br>unknown<br>laundry<br>month<br>inmate<br>peasant
 bip_39_word_new_br_12: bracket<br>caution<br>sort<br>soldier<br>grass<br>invite<br>unknown<br>laundry<br>month<br>inmate<br>peasant<br>artist
 bip_39_word_new_br_2: bracket<br>caution
 bip_39_word_new_br_3: bracket<br>caution<br>sort
-bip_39_word_new_br_4: bracket<br>caution<br>sort<br>soldier
-bip_39_word_new_br_5: bracket<br>caution<br>sort<br>soldier<br>grass
-bip_39_word_new_br_6: bracket<br>caution<br>sort<br>soldier<br>grass<br>invite
-bip_39_word_new_br_7: bracket<br>caution<br>sort<br>soldier<br>grass<br>invite<br>unknown
-bip_39_word_new_br_8: bracket<br>caution<br>sort<br>soldier<br>grass<br>invite<br>unknown<br>laundry
-bip_39_word_new_br_9: bracket<br>caution<br>sort<br>soldier<br>grass<br>invite<br>unknown<br>laundry<br>month
-bip_39_word_new_line_1: bracket
-bip_39_word_new_line_10: 'bracket
-
-  caution
-
-  sort
-
-  soldier
-
-  grass
-
-  invite
-
-  unknown
-
-  laundry
-
-  month
-
-  inmate'
-bip_39_word_new_line_11: 'bracket
-
-  caution
-
-  sort
-
-  soldier
-
-  grass
-
-  invite
-
-  unknown
-
-  laundry
-
-  month
-
-  inmate
-
-  peasant'
 bip_39_word_new_line_12: 'bracket
 
   caution
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bracket
   caution
 
   sort'
-bip_39_word_new_line_4: 'bracket
-
-  caution
-
-  sort
-
-  soldier'
-bip_39_word_new_line_5: 'bracket
-
-  caution
-
-  sort
-
-  soldier
-
-  grass'
-bip_39_word_new_line_6: 'bracket
-
-  caution
-
-  sort
-
-  soldier
-
-  grass
-
-  invite'
-bip_39_word_new_line_7: 'bracket
-
-  caution
-
-  sort
-
-  soldier
-
-  grass
-
-  invite
-
-  unknown'
-bip_39_word_new_line_8: 'bracket
-
-  caution
-
-  sort
-
-  soldier
-
-  grass
-
-  invite
-
-  unknown
-
-  laundry'
-bip_39_word_new_line_9: 'bracket
-
-  caution
-
-  sort
-
-  soldier
-
-  grass
-
-  invite
-
-  unknown
-
-  laundry
-
-  month'
-bip_39_word_no_space_1: bracket
-bip_39_word_no_space_10: bracketcautionsortsoldiergrassinviteunknownlaundrymonthinmate
-bip_39_word_no_space_11: bracketcautionsortsoldiergrassinviteunknownlaundrymonthinmatepeasant
 bip_39_word_no_space_12: bracketcautionsortsoldiergrassinviteunknownlaundrymonthinmatepeasantartist
 bip_39_word_no_space_2: bracketcaution
 bip_39_word_no_space_3: bracketcautionsort
-bip_39_word_no_space_4: bracketcautionsortsoldier
-bip_39_word_no_space_5: bracketcautionsortsoldiergrass
-bip_39_word_no_space_6: bracketcautionsortsoldiergrassinvite
-bip_39_word_no_space_7: bracketcautionsortsoldiergrassinviteunknown
-bip_39_word_no_space_8: bracketcautionsortsoldiergrassinviteunknownlaundry
-bip_39_word_no_space_9: bracketcautionsortsoldiergrassinviteunknownlaundrymonth
-bip_39_word_space_0:
-- bracket
-- caution
-- sort
-- soldier
-- grass
-- invite
-- unknown
-- laundry
-- month
-- inmate
-- peasant
-- artist
-bip_39_word_space_1: bracket
-bip_39_word_space_10: bracket caution sort soldier grass invite unknown laundry month
-  inmate
-bip_39_word_space_11: bracket caution sort soldier grass invite unknown laundry month
-  inmate peasant
 bip_39_word_space_12: bracket caution sort soldier grass invite unknown laundry month
   inmate peasant artist
 bip_39_word_space_2: bracket caution
 bip_39_word_space_3: bracket caution sort
-bip_39_word_space_4: bracket caution sort soldier
-bip_39_word_space_5: bracket caution sort soldier grass
-bip_39_word_space_6: bracket caution sort soldier grass invite
-bip_39_word_space_7: bracket caution sort soldier grass invite unknown
-bip_39_word_space_8: bracket caution sort soldier grass invite unknown laundry
-bip_39_word_space_9: bracket caution sort soldier grass invite unknown laundry month
-bip_39_word_underscore_1: bracket
-bip_39_word_underscore_10: bracket_caution_sort_soldier_grass_invite_unknown_laundry_month_inmate
-bip_39_word_underscore_11: bracket_caution_sort_soldier_grass_invite_unknown_laundry_month_inmate_peasant
 bip_39_word_underscore_12: bracket_caution_sort_soldier_grass_invite_unknown_laundry_month_inmate_peasant_artist
 bip_39_word_underscore_2: bracket_caution
 bip_39_word_underscore_3: bracket_caution_sort
-bip_39_word_underscore_4: bracket_caution_sort_soldier
-bip_39_word_underscore_5: bracket_caution_sort_soldier_grass
-bip_39_word_underscore_6: bracket_caution_sort_soldier_grass_invite
-bip_39_word_underscore_7: bracket_caution_sort_soldier_grass_invite_unknown
-bip_39_word_underscore_8: bracket_caution_sort_soldier_grass_invite_unknown_laundry
-bip_39_word_underscore_9: bracket_caution_sort_soldier_grass_invite_unknown_laundry_month
 classification: category
 classification_capital: Category
 classification_first_letter: c

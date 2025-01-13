@@ -1,68 +1,9 @@
-bip_39_word_dash_1: army
-bip_39_word_dash_10: army-pen-flame-vicious-exile-winter-slender-warrior-pass-please
-bip_39_word_dash_11: army-pen-flame-vicious-exile-winter-slender-warrior-pass-please-radio
 bip_39_word_dash_12: army-pen-flame-vicious-exile-winter-slender-warrior-pass-please-radio-adapt
 bip_39_word_dash_2: army-pen
 bip_39_word_dash_3: army-pen-flame
-bip_39_word_dash_4: army-pen-flame-vicious
-bip_39_word_dash_5: army-pen-flame-vicious-exile
-bip_39_word_dash_6: army-pen-flame-vicious-exile-winter
-bip_39_word_dash_7: army-pen-flame-vicious-exile-winter-slender
-bip_39_word_dash_8: army-pen-flame-vicious-exile-winter-slender-warrior
-bip_39_word_dash_9: army-pen-flame-vicious-exile-winter-slender-warrior-pass
-bip_39_word_new_br_1: army
-bip_39_word_new_br_10: army<br>pen<br>flame<br>vicious<br>exile<br>winter<br>slender<br>warrior<br>pass<br>please
-bip_39_word_new_br_11: army<br>pen<br>flame<br>vicious<br>exile<br>winter<br>slender<br>warrior<br>pass<br>please<br>radio
 bip_39_word_new_br_12: army<br>pen<br>flame<br>vicious<br>exile<br>winter<br>slender<br>warrior<br>pass<br>please<br>radio<br>adapt
 bip_39_word_new_br_2: army<br>pen
 bip_39_word_new_br_3: army<br>pen<br>flame
-bip_39_word_new_br_4: army<br>pen<br>flame<br>vicious
-bip_39_word_new_br_5: army<br>pen<br>flame<br>vicious<br>exile
-bip_39_word_new_br_6: army<br>pen<br>flame<br>vicious<br>exile<br>winter
-bip_39_word_new_br_7: army<br>pen<br>flame<br>vicious<br>exile<br>winter<br>slender
-bip_39_word_new_br_8: army<br>pen<br>flame<br>vicious<br>exile<br>winter<br>slender<br>warrior
-bip_39_word_new_br_9: army<br>pen<br>flame<br>vicious<br>exile<br>winter<br>slender<br>warrior<br>pass
-bip_39_word_new_line_1: army
-bip_39_word_new_line_10: 'army
-
-  pen
-
-  flame
-
-  vicious
-
-  exile
-
-  winter
-
-  slender
-
-  warrior
-
-  pass
-
-  please'
-bip_39_word_new_line_11: 'army
-
-  pen
-
-  flame
-
-  vicious
-
-  exile
-
-  winter
-
-  slender
-
-  warrior
-
-  pass
-
-  please
-
-  radio'
 bip_39_word_new_line_12: 'army
 
   pen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'army
   pen
 
   flame'
-bip_39_word_new_line_4: 'army
-
-  pen
-
-  flame
-
-  vicious'
-bip_39_word_new_line_5: 'army
-
-  pen
-
-  flame
-
-  vicious
-
-  exile'
-bip_39_word_new_line_6: 'army
-
-  pen
-
-  flame
-
-  vicious
-
-  exile
-
-  winter'
-bip_39_word_new_line_7: 'army
-
-  pen
-
-  flame
-
-  vicious
-
-  exile
-
-  winter
-
-  slender'
-bip_39_word_new_line_8: 'army
-
-  pen
-
-  flame
-
-  vicious
-
-  exile
-
-  winter
-
-  slender
-
-  warrior'
-bip_39_word_new_line_9: 'army
-
-  pen
-
-  flame
-
-  vicious
-
-  exile
-
-  winter
-
-  slender
-
-  warrior
-
-  pass'
-bip_39_word_no_space_1: army
-bip_39_word_no_space_10: armypenflameviciousexilewinterslenderwarriorpassplease
-bip_39_word_no_space_11: armypenflameviciousexilewinterslenderwarriorpasspleaseradio
 bip_39_word_no_space_12: armypenflameviciousexilewinterslenderwarriorpasspleaseradioadapt
 bip_39_word_no_space_2: armypen
 bip_39_word_no_space_3: armypenflame
-bip_39_word_no_space_4: armypenflamevicious
-bip_39_word_no_space_5: armypenflameviciousexile
-bip_39_word_no_space_6: armypenflameviciousexilewinter
-bip_39_word_no_space_7: armypenflameviciousexilewinterslender
-bip_39_word_no_space_8: armypenflameviciousexilewinterslenderwarrior
-bip_39_word_no_space_9: armypenflameviciousexilewinterslenderwarriorpass
-bip_39_word_space_0:
-- army
-- pen
-- flame
-- vicious
-- exile
-- winter
-- slender
-- warrior
-- pass
-- please
-- radio
-- adapt
-bip_39_word_space_1: army
-bip_39_word_space_10: army pen flame vicious exile winter slender warrior pass please
-bip_39_word_space_11: army pen flame vicious exile winter slender warrior pass please
-  radio
 bip_39_word_space_12: army pen flame vicious exile winter slender warrior pass please
   radio adapt
 bip_39_word_space_2: army pen
 bip_39_word_space_3: army pen flame
-bip_39_word_space_4: army pen flame vicious
-bip_39_word_space_5: army pen flame vicious exile
-bip_39_word_space_6: army pen flame vicious exile winter
-bip_39_word_space_7: army pen flame vicious exile winter slender
-bip_39_word_space_8: army pen flame vicious exile winter slender warrior
-bip_39_word_space_9: army pen flame vicious exile winter slender warrior pass
-bip_39_word_underscore_1: army
-bip_39_word_underscore_10: army_pen_flame_vicious_exile_winter_slender_warrior_pass_please
-bip_39_word_underscore_11: army_pen_flame_vicious_exile_winter_slender_warrior_pass_please_radio
 bip_39_word_underscore_12: army_pen_flame_vicious_exile_winter_slender_warrior_pass_please_radio_adapt
 bip_39_word_underscore_2: army_pen
 bip_39_word_underscore_3: army_pen_flame
-bip_39_word_underscore_4: army_pen_flame_vicious
-bip_39_word_underscore_5: army_pen_flame_vicious_exile
-bip_39_word_underscore_6: army_pen_flame_vicious_exile_winter
-bip_39_word_underscore_7: army_pen_flame_vicious_exile_winter_slender
-bip_39_word_underscore_8: army_pen_flame_vicious_exile_winter_slender_warrior
-bip_39_word_underscore_9: army_pen_flame_vicious_exile_winter_slender_warrior_pass
 classification: category
 classification_capital: Category
 classification_first_letter: c

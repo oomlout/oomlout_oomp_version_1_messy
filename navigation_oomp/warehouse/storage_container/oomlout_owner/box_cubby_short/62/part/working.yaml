@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lemon
-bip_39_word_dash_10: lemon-dance-ginger-walnut-sauce-mom-flower-exhaust-such-tray
-bip_39_word_dash_11: lemon-dance-ginger-walnut-sauce-mom-flower-exhaust-such-tray-library
 bip_39_word_dash_12: lemon-dance-ginger-walnut-sauce-mom-flower-exhaust-such-tray-library-aisle
 bip_39_word_dash_2: lemon-dance
 bip_39_word_dash_3: lemon-dance-ginger
-bip_39_word_dash_4: lemon-dance-ginger-walnut
-bip_39_word_dash_5: lemon-dance-ginger-walnut-sauce
-bip_39_word_dash_6: lemon-dance-ginger-walnut-sauce-mom
-bip_39_word_dash_7: lemon-dance-ginger-walnut-sauce-mom-flower
-bip_39_word_dash_8: lemon-dance-ginger-walnut-sauce-mom-flower-exhaust
-bip_39_word_dash_9: lemon-dance-ginger-walnut-sauce-mom-flower-exhaust-such
-bip_39_word_new_br_1: lemon
-bip_39_word_new_br_10: lemon<br>dance<br>ginger<br>walnut<br>sauce<br>mom<br>flower<br>exhaust<br>such<br>tray
-bip_39_word_new_br_11: lemon<br>dance<br>ginger<br>walnut<br>sauce<br>mom<br>flower<br>exhaust<br>such<br>tray<br>library
 bip_39_word_new_br_12: lemon<br>dance<br>ginger<br>walnut<br>sauce<br>mom<br>flower<br>exhaust<br>such<br>tray<br>library<br>aisle
 bip_39_word_new_br_2: lemon<br>dance
 bip_39_word_new_br_3: lemon<br>dance<br>ginger
-bip_39_word_new_br_4: lemon<br>dance<br>ginger<br>walnut
-bip_39_word_new_br_5: lemon<br>dance<br>ginger<br>walnut<br>sauce
-bip_39_word_new_br_6: lemon<br>dance<br>ginger<br>walnut<br>sauce<br>mom
-bip_39_word_new_br_7: lemon<br>dance<br>ginger<br>walnut<br>sauce<br>mom<br>flower
-bip_39_word_new_br_8: lemon<br>dance<br>ginger<br>walnut<br>sauce<br>mom<br>flower<br>exhaust
-bip_39_word_new_br_9: lemon<br>dance<br>ginger<br>walnut<br>sauce<br>mom<br>flower<br>exhaust<br>such
-bip_39_word_new_line_1: lemon
-bip_39_word_new_line_10: 'lemon
-
-  dance
-
-  ginger
-
-  walnut
-
-  sauce
-
-  mom
-
-  flower
-
-  exhaust
-
-  such
-
-  tray'
-bip_39_word_new_line_11: 'lemon
-
-  dance
-
-  ginger
-
-  walnut
-
-  sauce
-
-  mom
-
-  flower
-
-  exhaust
-
-  such
-
-  tray
-
-  library'
 bip_39_word_new_line_12: 'lemon
 
   dance
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lemon
   dance
 
   ginger'
-bip_39_word_new_line_4: 'lemon
-
-  dance
-
-  ginger
-
-  walnut'
-bip_39_word_new_line_5: 'lemon
-
-  dance
-
-  ginger
-
-  walnut
-
-  sauce'
-bip_39_word_new_line_6: 'lemon
-
-  dance
-
-  ginger
-
-  walnut
-
-  sauce
-
-  mom'
-bip_39_word_new_line_7: 'lemon
-
-  dance
-
-  ginger
-
-  walnut
-
-  sauce
-
-  mom
-
-  flower'
-bip_39_word_new_line_8: 'lemon
-
-  dance
-
-  ginger
-
-  walnut
-
-  sauce
-
-  mom
-
-  flower
-
-  exhaust'
-bip_39_word_new_line_9: 'lemon
-
-  dance
-
-  ginger
-
-  walnut
-
-  sauce
-
-  mom
-
-  flower
-
-  exhaust
-
-  such'
-bip_39_word_no_space_1: lemon
-bip_39_word_no_space_10: lemondancegingerwalnutsaucemomflowerexhaustsuchtray
-bip_39_word_no_space_11: lemondancegingerwalnutsaucemomflowerexhaustsuchtraylibrary
 bip_39_word_no_space_12: lemondancegingerwalnutsaucemomflowerexhaustsuchtraylibraryaisle
 bip_39_word_no_space_2: lemondance
 bip_39_word_no_space_3: lemondanceginger
-bip_39_word_no_space_4: lemondancegingerwalnut
-bip_39_word_no_space_5: lemondancegingerwalnutsauce
-bip_39_word_no_space_6: lemondancegingerwalnutsaucemom
-bip_39_word_no_space_7: lemondancegingerwalnutsaucemomflower
-bip_39_word_no_space_8: lemondancegingerwalnutsaucemomflowerexhaust
-bip_39_word_no_space_9: lemondancegingerwalnutsaucemomflowerexhaustsuch
-bip_39_word_space_0:
-- lemon
-- dance
-- ginger
-- walnut
-- sauce
-- mom
-- flower
-- exhaust
-- such
-- tray
-- library
-- aisle
-bip_39_word_space_1: lemon
-bip_39_word_space_10: lemon dance ginger walnut sauce mom flower exhaust such tray
-bip_39_word_space_11: lemon dance ginger walnut sauce mom flower exhaust such tray
-  library
 bip_39_word_space_12: lemon dance ginger walnut sauce mom flower exhaust such tray
   library aisle
 bip_39_word_space_2: lemon dance
 bip_39_word_space_3: lemon dance ginger
-bip_39_word_space_4: lemon dance ginger walnut
-bip_39_word_space_5: lemon dance ginger walnut sauce
-bip_39_word_space_6: lemon dance ginger walnut sauce mom
-bip_39_word_space_7: lemon dance ginger walnut sauce mom flower
-bip_39_word_space_8: lemon dance ginger walnut sauce mom flower exhaust
-bip_39_word_space_9: lemon dance ginger walnut sauce mom flower exhaust such
-bip_39_word_underscore_1: lemon
-bip_39_word_underscore_10: lemon_dance_ginger_walnut_sauce_mom_flower_exhaust_such_tray
-bip_39_word_underscore_11: lemon_dance_ginger_walnut_sauce_mom_flower_exhaust_such_tray_library
 bip_39_word_underscore_12: lemon_dance_ginger_walnut_sauce_mom_flower_exhaust_such_tray_library_aisle
 bip_39_word_underscore_2: lemon_dance
 bip_39_word_underscore_3: lemon_dance_ginger
-bip_39_word_underscore_4: lemon_dance_ginger_walnut
-bip_39_word_underscore_5: lemon_dance_ginger_walnut_sauce
-bip_39_word_underscore_6: lemon_dance_ginger_walnut_sauce_mom
-bip_39_word_underscore_7: lemon_dance_ginger_walnut_sauce_mom_flower
-bip_39_word_underscore_8: lemon_dance_ginger_walnut_sauce_mom_flower_exhaust
-bip_39_word_underscore_9: lemon_dance_ginger_walnut_sauce_mom_flower_exhaust_such
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

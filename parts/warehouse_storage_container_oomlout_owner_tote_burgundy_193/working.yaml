@@ -1,68 +1,9 @@
-bip_39_word_dash_1: screen
-bip_39_word_dash_10: screen-phrase-cabbage-great-soft-erode-produce-slow-credit-short
-bip_39_word_dash_11: screen-phrase-cabbage-great-soft-erode-produce-slow-credit-short-leader
 bip_39_word_dash_12: screen-phrase-cabbage-great-soft-erode-produce-slow-credit-short-leader-alpha
 bip_39_word_dash_2: screen-phrase
 bip_39_word_dash_3: screen-phrase-cabbage
-bip_39_word_dash_4: screen-phrase-cabbage-great
-bip_39_word_dash_5: screen-phrase-cabbage-great-soft
-bip_39_word_dash_6: screen-phrase-cabbage-great-soft-erode
-bip_39_word_dash_7: screen-phrase-cabbage-great-soft-erode-produce
-bip_39_word_dash_8: screen-phrase-cabbage-great-soft-erode-produce-slow
-bip_39_word_dash_9: screen-phrase-cabbage-great-soft-erode-produce-slow-credit
-bip_39_word_new_br_1: screen
-bip_39_word_new_br_10: screen<br>phrase<br>cabbage<br>great<br>soft<br>erode<br>produce<br>slow<br>credit<br>short
-bip_39_word_new_br_11: screen<br>phrase<br>cabbage<br>great<br>soft<br>erode<br>produce<br>slow<br>credit<br>short<br>leader
 bip_39_word_new_br_12: screen<br>phrase<br>cabbage<br>great<br>soft<br>erode<br>produce<br>slow<br>credit<br>short<br>leader<br>alpha
 bip_39_word_new_br_2: screen<br>phrase
 bip_39_word_new_br_3: screen<br>phrase<br>cabbage
-bip_39_word_new_br_4: screen<br>phrase<br>cabbage<br>great
-bip_39_word_new_br_5: screen<br>phrase<br>cabbage<br>great<br>soft
-bip_39_word_new_br_6: screen<br>phrase<br>cabbage<br>great<br>soft<br>erode
-bip_39_word_new_br_7: screen<br>phrase<br>cabbage<br>great<br>soft<br>erode<br>produce
-bip_39_word_new_br_8: screen<br>phrase<br>cabbage<br>great<br>soft<br>erode<br>produce<br>slow
-bip_39_word_new_br_9: screen<br>phrase<br>cabbage<br>great<br>soft<br>erode<br>produce<br>slow<br>credit
-bip_39_word_new_line_1: screen
-bip_39_word_new_line_10: 'screen
-
-  phrase
-
-  cabbage
-
-  great
-
-  soft
-
-  erode
-
-  produce
-
-  slow
-
-  credit
-
-  short'
-bip_39_word_new_line_11: 'screen
-
-  phrase
-
-  cabbage
-
-  great
-
-  soft
-
-  erode
-
-  produce
-
-  slow
-
-  credit
-
-  short
-
-  leader'
 bip_39_word_new_line_12: 'screen
 
   phrase
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'screen
   phrase
 
   cabbage'
-bip_39_word_new_line_4: 'screen
-
-  phrase
-
-  cabbage
-
-  great'
-bip_39_word_new_line_5: 'screen
-
-  phrase
-
-  cabbage
-
-  great
-
-  soft'
-bip_39_word_new_line_6: 'screen
-
-  phrase
-
-  cabbage
-
-  great
-
-  soft
-
-  erode'
-bip_39_word_new_line_7: 'screen
-
-  phrase
-
-  cabbage
-
-  great
-
-  soft
-
-  erode
-
-  produce'
-bip_39_word_new_line_8: 'screen
-
-  phrase
-
-  cabbage
-
-  great
-
-  soft
-
-  erode
-
-  produce
-
-  slow'
-bip_39_word_new_line_9: 'screen
-
-  phrase
-
-  cabbage
-
-  great
-
-  soft
-
-  erode
-
-  produce
-
-  slow
-
-  credit'
-bip_39_word_no_space_1: screen
-bip_39_word_no_space_10: screenphrasecabbagegreatsofterodeproduceslowcreditshort
-bip_39_word_no_space_11: screenphrasecabbagegreatsofterodeproduceslowcreditshortleader
 bip_39_word_no_space_12: screenphrasecabbagegreatsofterodeproduceslowcreditshortleaderalpha
 bip_39_word_no_space_2: screenphrase
 bip_39_word_no_space_3: screenphrasecabbage
-bip_39_word_no_space_4: screenphrasecabbagegreat
-bip_39_word_no_space_5: screenphrasecabbagegreatsoft
-bip_39_word_no_space_6: screenphrasecabbagegreatsofterode
-bip_39_word_no_space_7: screenphrasecabbagegreatsofterodeproduce
-bip_39_word_no_space_8: screenphrasecabbagegreatsofterodeproduceslow
-bip_39_word_no_space_9: screenphrasecabbagegreatsofterodeproduceslowcredit
-bip_39_word_space_0:
-- screen
-- phrase
-- cabbage
-- great
-- soft
-- erode
-- produce
-- slow
-- credit
-- short
-- leader
-- alpha
-bip_39_word_space_1: screen
-bip_39_word_space_10: screen phrase cabbage great soft erode produce slow credit short
-bip_39_word_space_11: screen phrase cabbage great soft erode produce slow credit short
-  leader
 bip_39_word_space_12: screen phrase cabbage great soft erode produce slow credit short
   leader alpha
 bip_39_word_space_2: screen phrase
 bip_39_word_space_3: screen phrase cabbage
-bip_39_word_space_4: screen phrase cabbage great
-bip_39_word_space_5: screen phrase cabbage great soft
-bip_39_word_space_6: screen phrase cabbage great soft erode
-bip_39_word_space_7: screen phrase cabbage great soft erode produce
-bip_39_word_space_8: screen phrase cabbage great soft erode produce slow
-bip_39_word_space_9: screen phrase cabbage great soft erode produce slow credit
-bip_39_word_underscore_1: screen
-bip_39_word_underscore_10: screen_phrase_cabbage_great_soft_erode_produce_slow_credit_short
-bip_39_word_underscore_11: screen_phrase_cabbage_great_soft_erode_produce_slow_credit_short_leader
 bip_39_word_underscore_12: screen_phrase_cabbage_great_soft_erode_produce_slow_credit_short_leader_alpha
 bip_39_word_underscore_2: screen_phrase
 bip_39_word_underscore_3: screen_phrase_cabbage
-bip_39_word_underscore_4: screen_phrase_cabbage_great
-bip_39_word_underscore_5: screen_phrase_cabbage_great_soft
-bip_39_word_underscore_6: screen_phrase_cabbage_great_soft_erode
-bip_39_word_underscore_7: screen_phrase_cabbage_great_soft_erode_produce
-bip_39_word_underscore_8: screen_phrase_cabbage_great_soft_erode_produce_slow
-bip_39_word_underscore_9: screen_phrase_cabbage_great_soft_erode_produce_slow_credit
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

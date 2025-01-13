@@ -1,68 +1,9 @@
-bip_39_word_dash_1: maid
-bip_39_word_dash_10: maid-elevator-provide-width-attend-crash-spread-vault-coil-happy
-bip_39_word_dash_11: maid-elevator-provide-width-attend-crash-spread-vault-coil-happy-sentence
 bip_39_word_dash_12: maid-elevator-provide-width-attend-crash-spread-vault-coil-happy-sentence-address
 bip_39_word_dash_2: maid-elevator
 bip_39_word_dash_3: maid-elevator-provide
-bip_39_word_dash_4: maid-elevator-provide-width
-bip_39_word_dash_5: maid-elevator-provide-width-attend
-bip_39_word_dash_6: maid-elevator-provide-width-attend-crash
-bip_39_word_dash_7: maid-elevator-provide-width-attend-crash-spread
-bip_39_word_dash_8: maid-elevator-provide-width-attend-crash-spread-vault
-bip_39_word_dash_9: maid-elevator-provide-width-attend-crash-spread-vault-coil
-bip_39_word_new_br_1: maid
-bip_39_word_new_br_10: maid<br>elevator<br>provide<br>width<br>attend<br>crash<br>spread<br>vault<br>coil<br>happy
-bip_39_word_new_br_11: maid<br>elevator<br>provide<br>width<br>attend<br>crash<br>spread<br>vault<br>coil<br>happy<br>sentence
 bip_39_word_new_br_12: maid<br>elevator<br>provide<br>width<br>attend<br>crash<br>spread<br>vault<br>coil<br>happy<br>sentence<br>address
 bip_39_word_new_br_2: maid<br>elevator
 bip_39_word_new_br_3: maid<br>elevator<br>provide
-bip_39_word_new_br_4: maid<br>elevator<br>provide<br>width
-bip_39_word_new_br_5: maid<br>elevator<br>provide<br>width<br>attend
-bip_39_word_new_br_6: maid<br>elevator<br>provide<br>width<br>attend<br>crash
-bip_39_word_new_br_7: maid<br>elevator<br>provide<br>width<br>attend<br>crash<br>spread
-bip_39_word_new_br_8: maid<br>elevator<br>provide<br>width<br>attend<br>crash<br>spread<br>vault
-bip_39_word_new_br_9: maid<br>elevator<br>provide<br>width<br>attend<br>crash<br>spread<br>vault<br>coil
-bip_39_word_new_line_1: maid
-bip_39_word_new_line_10: 'maid
-
-  elevator
-
-  provide
-
-  width
-
-  attend
-
-  crash
-
-  spread
-
-  vault
-
-  coil
-
-  happy'
-bip_39_word_new_line_11: 'maid
-
-  elevator
-
-  provide
-
-  width
-
-  attend
-
-  crash
-
-  spread
-
-  vault
-
-  coil
-
-  happy
-
-  sentence'
 bip_39_word_new_line_12: 'maid
 
   elevator
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'maid
   elevator
 
   provide'
-bip_39_word_new_line_4: 'maid
-
-  elevator
-
-  provide
-
-  width'
-bip_39_word_new_line_5: 'maid
-
-  elevator
-
-  provide
-
-  width
-
-  attend'
-bip_39_word_new_line_6: 'maid
-
-  elevator
-
-  provide
-
-  width
-
-  attend
-
-  crash'
-bip_39_word_new_line_7: 'maid
-
-  elevator
-
-  provide
-
-  width
-
-  attend
-
-  crash
-
-  spread'
-bip_39_word_new_line_8: 'maid
-
-  elevator
-
-  provide
-
-  width
-
-  attend
-
-  crash
-
-  spread
-
-  vault'
-bip_39_word_new_line_9: 'maid
-
-  elevator
-
-  provide
-
-  width
-
-  attend
-
-  crash
-
-  spread
-
-  vault
-
-  coil'
-bip_39_word_no_space_1: maid
-bip_39_word_no_space_10: maidelevatorprovidewidthattendcrashspreadvaultcoilhappy
-bip_39_word_no_space_11: maidelevatorprovidewidthattendcrashspreadvaultcoilhappysentence
 bip_39_word_no_space_12: maidelevatorprovidewidthattendcrashspreadvaultcoilhappysentenceaddress
 bip_39_word_no_space_2: maidelevator
 bip_39_word_no_space_3: maidelevatorprovide
-bip_39_word_no_space_4: maidelevatorprovidewidth
-bip_39_word_no_space_5: maidelevatorprovidewidthattend
-bip_39_word_no_space_6: maidelevatorprovidewidthattendcrash
-bip_39_word_no_space_7: maidelevatorprovidewidthattendcrashspread
-bip_39_word_no_space_8: maidelevatorprovidewidthattendcrashspreadvault
-bip_39_word_no_space_9: maidelevatorprovidewidthattendcrashspreadvaultcoil
-bip_39_word_space_0:
-- maid
-- elevator
-- provide
-- width
-- attend
-- crash
-- spread
-- vault
-- coil
-- happy
-- sentence
-- address
-bip_39_word_space_1: maid
-bip_39_word_space_10: maid elevator provide width attend crash spread vault coil happy
-bip_39_word_space_11: maid elevator provide width attend crash spread vault coil happy
-  sentence
 bip_39_word_space_12: maid elevator provide width attend crash spread vault coil happy
   sentence address
 bip_39_word_space_2: maid elevator
 bip_39_word_space_3: maid elevator provide
-bip_39_word_space_4: maid elevator provide width
-bip_39_word_space_5: maid elevator provide width attend
-bip_39_word_space_6: maid elevator provide width attend crash
-bip_39_word_space_7: maid elevator provide width attend crash spread
-bip_39_word_space_8: maid elevator provide width attend crash spread vault
-bip_39_word_space_9: maid elevator provide width attend crash spread vault coil
-bip_39_word_underscore_1: maid
-bip_39_word_underscore_10: maid_elevator_provide_width_attend_crash_spread_vault_coil_happy
-bip_39_word_underscore_11: maid_elevator_provide_width_attend_crash_spread_vault_coil_happy_sentence
 bip_39_word_underscore_12: maid_elevator_provide_width_attend_crash_spread_vault_coil_happy_sentence_address
 bip_39_word_underscore_2: maid_elevator
 bip_39_word_underscore_3: maid_elevator_provide
-bip_39_word_underscore_4: maid_elevator_provide_width
-bip_39_word_underscore_5: maid_elevator_provide_width_attend
-bip_39_word_underscore_6: maid_elevator_provide_width_attend_crash
-bip_39_word_underscore_7: maid_elevator_provide_width_attend_crash_spread
-bip_39_word_underscore_8: maid_elevator_provide_width_attend_crash_spread_vault
-bip_39_word_underscore_9: maid_elevator_provide_width_attend_crash_spread_vault_coil
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tooth
-bip_39_word_dash_10: tooth-trash-spoil-sugar-tail-test-stand-filter-honey-rely
-bip_39_word_dash_11: tooth-trash-spoil-sugar-tail-test-stand-filter-honey-rely-usual
 bip_39_word_dash_12: tooth-trash-spoil-sugar-tail-test-stand-filter-honey-rely-usual-age
 bip_39_word_dash_2: tooth-trash
 bip_39_word_dash_3: tooth-trash-spoil
-bip_39_word_dash_4: tooth-trash-spoil-sugar
-bip_39_word_dash_5: tooth-trash-spoil-sugar-tail
-bip_39_word_dash_6: tooth-trash-spoil-sugar-tail-test
-bip_39_word_dash_7: tooth-trash-spoil-sugar-tail-test-stand
-bip_39_word_dash_8: tooth-trash-spoil-sugar-tail-test-stand-filter
-bip_39_word_dash_9: tooth-trash-spoil-sugar-tail-test-stand-filter-honey
-bip_39_word_new_br_1: tooth
-bip_39_word_new_br_10: tooth<br>trash<br>spoil<br>sugar<br>tail<br>test<br>stand<br>filter<br>honey<br>rely
-bip_39_word_new_br_11: tooth<br>trash<br>spoil<br>sugar<br>tail<br>test<br>stand<br>filter<br>honey<br>rely<br>usual
 bip_39_word_new_br_12: tooth<br>trash<br>spoil<br>sugar<br>tail<br>test<br>stand<br>filter<br>honey<br>rely<br>usual<br>age
 bip_39_word_new_br_2: tooth<br>trash
 bip_39_word_new_br_3: tooth<br>trash<br>spoil
-bip_39_word_new_br_4: tooth<br>trash<br>spoil<br>sugar
-bip_39_word_new_br_5: tooth<br>trash<br>spoil<br>sugar<br>tail
-bip_39_word_new_br_6: tooth<br>trash<br>spoil<br>sugar<br>tail<br>test
-bip_39_word_new_br_7: tooth<br>trash<br>spoil<br>sugar<br>tail<br>test<br>stand
-bip_39_word_new_br_8: tooth<br>trash<br>spoil<br>sugar<br>tail<br>test<br>stand<br>filter
-bip_39_word_new_br_9: tooth<br>trash<br>spoil<br>sugar<br>tail<br>test<br>stand<br>filter<br>honey
-bip_39_word_new_line_1: tooth
-bip_39_word_new_line_10: 'tooth
-
-  trash
-
-  spoil
-
-  sugar
-
-  tail
-
-  test
-
-  stand
-
-  filter
-
-  honey
-
-  rely'
-bip_39_word_new_line_11: 'tooth
-
-  trash
-
-  spoil
-
-  sugar
-
-  tail
-
-  test
-
-  stand
-
-  filter
-
-  honey
-
-  rely
-
-  usual'
 bip_39_word_new_line_12: 'tooth
 
   trash
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'tooth
   trash
 
   spoil'
-bip_39_word_new_line_4: 'tooth
-
-  trash
-
-  spoil
-
-  sugar'
-bip_39_word_new_line_5: 'tooth
-
-  trash
-
-  spoil
-
-  sugar
-
-  tail'
-bip_39_word_new_line_6: 'tooth
-
-  trash
-
-  spoil
-
-  sugar
-
-  tail
-
-  test'
-bip_39_word_new_line_7: 'tooth
-
-  trash
-
-  spoil
-
-  sugar
-
-  tail
-
-  test
-
-  stand'
-bip_39_word_new_line_8: 'tooth
-
-  trash
-
-  spoil
-
-  sugar
-
-  tail
-
-  test
-
-  stand
-
-  filter'
-bip_39_word_new_line_9: 'tooth
-
-  trash
-
-  spoil
-
-  sugar
-
-  tail
-
-  test
-
-  stand
-
-  filter
-
-  honey'
-bip_39_word_no_space_1: tooth
-bip_39_word_no_space_10: toothtrashspoilsugartailteststandfilterhoneyrely
-bip_39_word_no_space_11: toothtrashspoilsugartailteststandfilterhoneyrelyusual
 bip_39_word_no_space_12: toothtrashspoilsugartailteststandfilterhoneyrelyusualage
 bip_39_word_no_space_2: toothtrash
 bip_39_word_no_space_3: toothtrashspoil
-bip_39_word_no_space_4: toothtrashspoilsugar
-bip_39_word_no_space_5: toothtrashspoilsugartail
-bip_39_word_no_space_6: toothtrashspoilsugartailtest
-bip_39_word_no_space_7: toothtrashspoilsugartailteststand
-bip_39_word_no_space_8: toothtrashspoilsugartailteststandfilter
-bip_39_word_no_space_9: toothtrashspoilsugartailteststandfilterhoney
-bip_39_word_space_0:
-- tooth
-- trash
-- spoil
-- sugar
-- tail
-- test
-- stand
-- filter
-- honey
-- rely
-- usual
-- age
-bip_39_word_space_1: tooth
-bip_39_word_space_10: tooth trash spoil sugar tail test stand filter honey rely
-bip_39_word_space_11: tooth trash spoil sugar tail test stand filter honey rely usual
 bip_39_word_space_12: tooth trash spoil sugar tail test stand filter honey rely usual
   age
 bip_39_word_space_2: tooth trash
 bip_39_word_space_3: tooth trash spoil
-bip_39_word_space_4: tooth trash spoil sugar
-bip_39_word_space_5: tooth trash spoil sugar tail
-bip_39_word_space_6: tooth trash spoil sugar tail test
-bip_39_word_space_7: tooth trash spoil sugar tail test stand
-bip_39_word_space_8: tooth trash spoil sugar tail test stand filter
-bip_39_word_space_9: tooth trash spoil sugar tail test stand filter honey
-bip_39_word_underscore_1: tooth
-bip_39_word_underscore_10: tooth_trash_spoil_sugar_tail_test_stand_filter_honey_rely
-bip_39_word_underscore_11: tooth_trash_spoil_sugar_tail_test_stand_filter_honey_rely_usual
 bip_39_word_underscore_12: tooth_trash_spoil_sugar_tail_test_stand_filter_honey_rely_usual_age
 bip_39_word_underscore_2: tooth_trash
 bip_39_word_underscore_3: tooth_trash_spoil
-bip_39_word_underscore_4: tooth_trash_spoil_sugar
-bip_39_word_underscore_5: tooth_trash_spoil_sugar_tail
-bip_39_word_underscore_6: tooth_trash_spoil_sugar_tail_test
-bip_39_word_underscore_7: tooth_trash_spoil_sugar_tail_test_stand
-bip_39_word_underscore_8: tooth_trash_spoil_sugar_tail_test_stand_filter
-bip_39_word_underscore_9: tooth_trash_spoil_sugar_tail_test_stand_filter_honey
 classification: project
 classification_capital: Project
 classification_first_letter: p

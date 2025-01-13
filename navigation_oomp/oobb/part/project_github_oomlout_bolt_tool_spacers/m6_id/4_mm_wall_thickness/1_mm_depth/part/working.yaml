@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tornado
-bip_39_word_dash_10: tornado-fog-pumpkin-sorry-holiday-boy-annual-ask-settle-catch
-bip_39_word_dash_11: tornado-fog-pumpkin-sorry-holiday-boy-annual-ask-settle-catch-conduct
 bip_39_word_dash_12: tornado-fog-pumpkin-sorry-holiday-boy-annual-ask-settle-catch-conduct-alley
 bip_39_word_dash_2: tornado-fog
 bip_39_word_dash_3: tornado-fog-pumpkin
-bip_39_word_dash_4: tornado-fog-pumpkin-sorry
-bip_39_word_dash_5: tornado-fog-pumpkin-sorry-holiday
-bip_39_word_dash_6: tornado-fog-pumpkin-sorry-holiday-boy
-bip_39_word_dash_7: tornado-fog-pumpkin-sorry-holiday-boy-annual
-bip_39_word_dash_8: tornado-fog-pumpkin-sorry-holiday-boy-annual-ask
-bip_39_word_dash_9: tornado-fog-pumpkin-sorry-holiday-boy-annual-ask-settle
-bip_39_word_new_br_1: tornado
-bip_39_word_new_br_10: tornado<br>fog<br>pumpkin<br>sorry<br>holiday<br>boy<br>annual<br>ask<br>settle<br>catch
-bip_39_word_new_br_11: tornado<br>fog<br>pumpkin<br>sorry<br>holiday<br>boy<br>annual<br>ask<br>settle<br>catch<br>conduct
 bip_39_word_new_br_12: tornado<br>fog<br>pumpkin<br>sorry<br>holiday<br>boy<br>annual<br>ask<br>settle<br>catch<br>conduct<br>alley
 bip_39_word_new_br_2: tornado<br>fog
 bip_39_word_new_br_3: tornado<br>fog<br>pumpkin
-bip_39_word_new_br_4: tornado<br>fog<br>pumpkin<br>sorry
-bip_39_word_new_br_5: tornado<br>fog<br>pumpkin<br>sorry<br>holiday
-bip_39_word_new_br_6: tornado<br>fog<br>pumpkin<br>sorry<br>holiday<br>boy
-bip_39_word_new_br_7: tornado<br>fog<br>pumpkin<br>sorry<br>holiday<br>boy<br>annual
-bip_39_word_new_br_8: tornado<br>fog<br>pumpkin<br>sorry<br>holiday<br>boy<br>annual<br>ask
-bip_39_word_new_br_9: tornado<br>fog<br>pumpkin<br>sorry<br>holiday<br>boy<br>annual<br>ask<br>settle
-bip_39_word_new_line_1: tornado
-bip_39_word_new_line_10: 'tornado
-
-  fog
-
-  pumpkin
-
-  sorry
-
-  holiday
-
-  boy
-
-  annual
-
-  ask
-
-  settle
-
-  catch'
-bip_39_word_new_line_11: 'tornado
-
-  fog
-
-  pumpkin
-
-  sorry
-
-  holiday
-
-  boy
-
-  annual
-
-  ask
-
-  settle
-
-  catch
-
-  conduct'
 bip_39_word_new_line_12: 'tornado
 
   fog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tornado
   fog
 
   pumpkin'
-bip_39_word_new_line_4: 'tornado
-
-  fog
-
-  pumpkin
-
-  sorry'
-bip_39_word_new_line_5: 'tornado
-
-  fog
-
-  pumpkin
-
-  sorry
-
-  holiday'
-bip_39_word_new_line_6: 'tornado
-
-  fog
-
-  pumpkin
-
-  sorry
-
-  holiday
-
-  boy'
-bip_39_word_new_line_7: 'tornado
-
-  fog
-
-  pumpkin
-
-  sorry
-
-  holiday
-
-  boy
-
-  annual'
-bip_39_word_new_line_8: 'tornado
-
-  fog
-
-  pumpkin
-
-  sorry
-
-  holiday
-
-  boy
-
-  annual
-
-  ask'
-bip_39_word_new_line_9: 'tornado
-
-  fog
-
-  pumpkin
-
-  sorry
-
-  holiday
-
-  boy
-
-  annual
-
-  ask
-
-  settle'
-bip_39_word_no_space_1: tornado
-bip_39_word_no_space_10: tornadofogpumpkinsorryholidayboyannualasksettlecatch
-bip_39_word_no_space_11: tornadofogpumpkinsorryholidayboyannualasksettlecatchconduct
 bip_39_word_no_space_12: tornadofogpumpkinsorryholidayboyannualasksettlecatchconductalley
 bip_39_word_no_space_2: tornadofog
 bip_39_word_no_space_3: tornadofogpumpkin
-bip_39_word_no_space_4: tornadofogpumpkinsorry
-bip_39_word_no_space_5: tornadofogpumpkinsorryholiday
-bip_39_word_no_space_6: tornadofogpumpkinsorryholidayboy
-bip_39_word_no_space_7: tornadofogpumpkinsorryholidayboyannual
-bip_39_word_no_space_8: tornadofogpumpkinsorryholidayboyannualask
-bip_39_word_no_space_9: tornadofogpumpkinsorryholidayboyannualasksettle
-bip_39_word_space_0:
-- tornado
-- fog
-- pumpkin
-- sorry
-- holiday
-- boy
-- annual
-- ask
-- settle
-- catch
-- conduct
-- alley
-bip_39_word_space_1: tornado
-bip_39_word_space_10: tornado fog pumpkin sorry holiday boy annual ask settle catch
-bip_39_word_space_11: tornado fog pumpkin sorry holiday boy annual ask settle catch
-  conduct
 bip_39_word_space_12: tornado fog pumpkin sorry holiday boy annual ask settle catch
   conduct alley
 bip_39_word_space_2: tornado fog
 bip_39_word_space_3: tornado fog pumpkin
-bip_39_word_space_4: tornado fog pumpkin sorry
-bip_39_word_space_5: tornado fog pumpkin sorry holiday
-bip_39_word_space_6: tornado fog pumpkin sorry holiday boy
-bip_39_word_space_7: tornado fog pumpkin sorry holiday boy annual
-bip_39_word_space_8: tornado fog pumpkin sorry holiday boy annual ask
-bip_39_word_space_9: tornado fog pumpkin sorry holiday boy annual ask settle
-bip_39_word_underscore_1: tornado
-bip_39_word_underscore_10: tornado_fog_pumpkin_sorry_holiday_boy_annual_ask_settle_catch
-bip_39_word_underscore_11: tornado_fog_pumpkin_sorry_holiday_boy_annual_ask_settle_catch_conduct
 bip_39_word_underscore_12: tornado_fog_pumpkin_sorry_holiday_boy_annual_ask_settle_catch_conduct_alley
 bip_39_word_underscore_2: tornado_fog
 bip_39_word_underscore_3: tornado_fog_pumpkin
-bip_39_word_underscore_4: tornado_fog_pumpkin_sorry
-bip_39_word_underscore_5: tornado_fog_pumpkin_sorry_holiday
-bip_39_word_underscore_6: tornado_fog_pumpkin_sorry_holiday_boy
-bip_39_word_underscore_7: tornado_fog_pumpkin_sorry_holiday_boy_annual
-bip_39_word_underscore_8: tornado_fog_pumpkin_sorry_holiday_boy_annual_ask
-bip_39_word_underscore_9: tornado_fog_pumpkin_sorry_holiday_boy_annual_ask_settle
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

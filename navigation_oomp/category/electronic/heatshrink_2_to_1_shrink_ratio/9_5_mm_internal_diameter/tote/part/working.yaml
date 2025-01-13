@@ -1,68 +1,9 @@
-bip_39_word_dash_1: long
-bip_39_word_dash_10: long-lamp-aisle-multiply-maximum-near-seminar-close-obtain-have
-bip_39_word_dash_11: long-lamp-aisle-multiply-maximum-near-seminar-close-obtain-have-six
 bip_39_word_dash_12: long-lamp-aisle-multiply-maximum-near-seminar-close-obtain-have-six-acquire
 bip_39_word_dash_2: long-lamp
 bip_39_word_dash_3: long-lamp-aisle
-bip_39_word_dash_4: long-lamp-aisle-multiply
-bip_39_word_dash_5: long-lamp-aisle-multiply-maximum
-bip_39_word_dash_6: long-lamp-aisle-multiply-maximum-near
-bip_39_word_dash_7: long-lamp-aisle-multiply-maximum-near-seminar
-bip_39_word_dash_8: long-lamp-aisle-multiply-maximum-near-seminar-close
-bip_39_word_dash_9: long-lamp-aisle-multiply-maximum-near-seminar-close-obtain
-bip_39_word_new_br_1: long
-bip_39_word_new_br_10: long<br>lamp<br>aisle<br>multiply<br>maximum<br>near<br>seminar<br>close<br>obtain<br>have
-bip_39_word_new_br_11: long<br>lamp<br>aisle<br>multiply<br>maximum<br>near<br>seminar<br>close<br>obtain<br>have<br>six
 bip_39_word_new_br_12: long<br>lamp<br>aisle<br>multiply<br>maximum<br>near<br>seminar<br>close<br>obtain<br>have<br>six<br>acquire
 bip_39_word_new_br_2: long<br>lamp
 bip_39_word_new_br_3: long<br>lamp<br>aisle
-bip_39_word_new_br_4: long<br>lamp<br>aisle<br>multiply
-bip_39_word_new_br_5: long<br>lamp<br>aisle<br>multiply<br>maximum
-bip_39_word_new_br_6: long<br>lamp<br>aisle<br>multiply<br>maximum<br>near
-bip_39_word_new_br_7: long<br>lamp<br>aisle<br>multiply<br>maximum<br>near<br>seminar
-bip_39_word_new_br_8: long<br>lamp<br>aisle<br>multiply<br>maximum<br>near<br>seminar<br>close
-bip_39_word_new_br_9: long<br>lamp<br>aisle<br>multiply<br>maximum<br>near<br>seminar<br>close<br>obtain
-bip_39_word_new_line_1: long
-bip_39_word_new_line_10: 'long
-
-  lamp
-
-  aisle
-
-  multiply
-
-  maximum
-
-  near
-
-  seminar
-
-  close
-
-  obtain
-
-  have'
-bip_39_word_new_line_11: 'long
-
-  lamp
-
-  aisle
-
-  multiply
-
-  maximum
-
-  near
-
-  seminar
-
-  close
-
-  obtain
-
-  have
-
-  six'
 bip_39_word_new_line_12: 'long
 
   lamp
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'long
   lamp
 
   aisle'
-bip_39_word_new_line_4: 'long
-
-  lamp
-
-  aisle
-
-  multiply'
-bip_39_word_new_line_5: 'long
-
-  lamp
-
-  aisle
-
-  multiply
-
-  maximum'
-bip_39_word_new_line_6: 'long
-
-  lamp
-
-  aisle
-
-  multiply
-
-  maximum
-
-  near'
-bip_39_word_new_line_7: 'long
-
-  lamp
-
-  aisle
-
-  multiply
-
-  maximum
-
-  near
-
-  seminar'
-bip_39_word_new_line_8: 'long
-
-  lamp
-
-  aisle
-
-  multiply
-
-  maximum
-
-  near
-
-  seminar
-
-  close'
-bip_39_word_new_line_9: 'long
-
-  lamp
-
-  aisle
-
-  multiply
-
-  maximum
-
-  near
-
-  seminar
-
-  close
-
-  obtain'
-bip_39_word_no_space_1: long
-bip_39_word_no_space_10: longlampaislemultiplymaximumnearseminarcloseobtainhave
-bip_39_word_no_space_11: longlampaislemultiplymaximumnearseminarcloseobtainhavesix
 bip_39_word_no_space_12: longlampaislemultiplymaximumnearseminarcloseobtainhavesixacquire
 bip_39_word_no_space_2: longlamp
 bip_39_word_no_space_3: longlampaisle
-bip_39_word_no_space_4: longlampaislemultiply
-bip_39_word_no_space_5: longlampaislemultiplymaximum
-bip_39_word_no_space_6: longlampaislemultiplymaximumnear
-bip_39_word_no_space_7: longlampaislemultiplymaximumnearseminar
-bip_39_word_no_space_8: longlampaislemultiplymaximumnearseminarclose
-bip_39_word_no_space_9: longlampaislemultiplymaximumnearseminarcloseobtain
-bip_39_word_space_0:
-- long
-- lamp
-- aisle
-- multiply
-- maximum
-- near
-- seminar
-- close
-- obtain
-- have
-- six
-- acquire
-bip_39_word_space_1: long
-bip_39_word_space_10: long lamp aisle multiply maximum near seminar close obtain have
-bip_39_word_space_11: long lamp aisle multiply maximum near seminar close obtain have
-  six
 bip_39_word_space_12: long lamp aisle multiply maximum near seminar close obtain have
   six acquire
 bip_39_word_space_2: long lamp
 bip_39_word_space_3: long lamp aisle
-bip_39_word_space_4: long lamp aisle multiply
-bip_39_word_space_5: long lamp aisle multiply maximum
-bip_39_word_space_6: long lamp aisle multiply maximum near
-bip_39_word_space_7: long lamp aisle multiply maximum near seminar
-bip_39_word_space_8: long lamp aisle multiply maximum near seminar close
-bip_39_word_space_9: long lamp aisle multiply maximum near seminar close obtain
-bip_39_word_underscore_1: long
-bip_39_word_underscore_10: long_lamp_aisle_multiply_maximum_near_seminar_close_obtain_have
-bip_39_word_underscore_11: long_lamp_aisle_multiply_maximum_near_seminar_close_obtain_have_six
 bip_39_word_underscore_12: long_lamp_aisle_multiply_maximum_near_seminar_close_obtain_have_six_acquire
 bip_39_word_underscore_2: long_lamp
 bip_39_word_underscore_3: long_lamp_aisle
-bip_39_word_underscore_4: long_lamp_aisle_multiply
-bip_39_word_underscore_5: long_lamp_aisle_multiply_maximum
-bip_39_word_underscore_6: long_lamp_aisle_multiply_maximum_near
-bip_39_word_underscore_7: long_lamp_aisle_multiply_maximum_near_seminar
-bip_39_word_underscore_8: long_lamp_aisle_multiply_maximum_near_seminar_close
-bip_39_word_underscore_9: long_lamp_aisle_multiply_maximum_near_seminar_close_obtain
 classification: category
 classification_capital: Category
 classification_first_letter: c

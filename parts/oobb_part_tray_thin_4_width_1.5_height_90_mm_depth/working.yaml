@@ -1,68 +1,9 @@
-bip_39_word_dash_1: motor
-bip_39_word_dash_10: motor-sword-knock-stadium-divorce-load-salt-bicycle-envelope-forward
-bip_39_word_dash_11: motor-sword-knock-stadium-divorce-load-salt-bicycle-envelope-forward-million
 bip_39_word_dash_12: motor-sword-knock-stadium-divorce-load-salt-bicycle-envelope-forward-million-atom
 bip_39_word_dash_2: motor-sword
 bip_39_word_dash_3: motor-sword-knock
-bip_39_word_dash_4: motor-sword-knock-stadium
-bip_39_word_dash_5: motor-sword-knock-stadium-divorce
-bip_39_word_dash_6: motor-sword-knock-stadium-divorce-load
-bip_39_word_dash_7: motor-sword-knock-stadium-divorce-load-salt
-bip_39_word_dash_8: motor-sword-knock-stadium-divorce-load-salt-bicycle
-bip_39_word_dash_9: motor-sword-knock-stadium-divorce-load-salt-bicycle-envelope
-bip_39_word_new_br_1: motor
-bip_39_word_new_br_10: motor<br>sword<br>knock<br>stadium<br>divorce<br>load<br>salt<br>bicycle<br>envelope<br>forward
-bip_39_word_new_br_11: motor<br>sword<br>knock<br>stadium<br>divorce<br>load<br>salt<br>bicycle<br>envelope<br>forward<br>million
 bip_39_word_new_br_12: motor<br>sword<br>knock<br>stadium<br>divorce<br>load<br>salt<br>bicycle<br>envelope<br>forward<br>million<br>atom
 bip_39_word_new_br_2: motor<br>sword
 bip_39_word_new_br_3: motor<br>sword<br>knock
-bip_39_word_new_br_4: motor<br>sword<br>knock<br>stadium
-bip_39_word_new_br_5: motor<br>sword<br>knock<br>stadium<br>divorce
-bip_39_word_new_br_6: motor<br>sword<br>knock<br>stadium<br>divorce<br>load
-bip_39_word_new_br_7: motor<br>sword<br>knock<br>stadium<br>divorce<br>load<br>salt
-bip_39_word_new_br_8: motor<br>sword<br>knock<br>stadium<br>divorce<br>load<br>salt<br>bicycle
-bip_39_word_new_br_9: motor<br>sword<br>knock<br>stadium<br>divorce<br>load<br>salt<br>bicycle<br>envelope
-bip_39_word_new_line_1: motor
-bip_39_word_new_line_10: 'motor
-
-  sword
-
-  knock
-
-  stadium
-
-  divorce
-
-  load
-
-  salt
-
-  bicycle
-
-  envelope
-
-  forward'
-bip_39_word_new_line_11: 'motor
-
-  sword
-
-  knock
-
-  stadium
-
-  divorce
-
-  load
-
-  salt
-
-  bicycle
-
-  envelope
-
-  forward
-
-  million'
 bip_39_word_new_line_12: 'motor
 
   sword
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'motor
   sword
 
   knock'
-bip_39_word_new_line_4: 'motor
-
-  sword
-
-  knock
-
-  stadium'
-bip_39_word_new_line_5: 'motor
-
-  sword
-
-  knock
-
-  stadium
-
-  divorce'
-bip_39_word_new_line_6: 'motor
-
-  sword
-
-  knock
-
-  stadium
-
-  divorce
-
-  load'
-bip_39_word_new_line_7: 'motor
-
-  sword
-
-  knock
-
-  stadium
-
-  divorce
-
-  load
-
-  salt'
-bip_39_word_new_line_8: 'motor
-
-  sword
-
-  knock
-
-  stadium
-
-  divorce
-
-  load
-
-  salt
-
-  bicycle'
-bip_39_word_new_line_9: 'motor
-
-  sword
-
-  knock
-
-  stadium
-
-  divorce
-
-  load
-
-  salt
-
-  bicycle
-
-  envelope'
-bip_39_word_no_space_1: motor
-bip_39_word_no_space_10: motorswordknockstadiumdivorceloadsaltbicycleenvelopeforward
-bip_39_word_no_space_11: motorswordknockstadiumdivorceloadsaltbicycleenvelopeforwardmillion
 bip_39_word_no_space_12: motorswordknockstadiumdivorceloadsaltbicycleenvelopeforwardmillionatom
 bip_39_word_no_space_2: motorsword
 bip_39_word_no_space_3: motorswordknock
-bip_39_word_no_space_4: motorswordknockstadium
-bip_39_word_no_space_5: motorswordknockstadiumdivorce
-bip_39_word_no_space_6: motorswordknockstadiumdivorceload
-bip_39_word_no_space_7: motorswordknockstadiumdivorceloadsalt
-bip_39_word_no_space_8: motorswordknockstadiumdivorceloadsaltbicycle
-bip_39_word_no_space_9: motorswordknockstadiumdivorceloadsaltbicycleenvelope
-bip_39_word_space_0:
-- motor
-- sword
-- knock
-- stadium
-- divorce
-- load
-- salt
-- bicycle
-- envelope
-- forward
-- million
-- atom
-bip_39_word_space_1: motor
-bip_39_word_space_10: motor sword knock stadium divorce load salt bicycle envelope
-  forward
-bip_39_word_space_11: motor sword knock stadium divorce load salt bicycle envelope
-  forward million
 bip_39_word_space_12: motor sword knock stadium divorce load salt bicycle envelope
   forward million atom
 bip_39_word_space_2: motor sword
 bip_39_word_space_3: motor sword knock
-bip_39_word_space_4: motor sword knock stadium
-bip_39_word_space_5: motor sword knock stadium divorce
-bip_39_word_space_6: motor sword knock stadium divorce load
-bip_39_word_space_7: motor sword knock stadium divorce load salt
-bip_39_word_space_8: motor sword knock stadium divorce load salt bicycle
-bip_39_word_space_9: motor sword knock stadium divorce load salt bicycle envelope
-bip_39_word_underscore_1: motor
-bip_39_word_underscore_10: motor_sword_knock_stadium_divorce_load_salt_bicycle_envelope_forward
-bip_39_word_underscore_11: motor_sword_knock_stadium_divorce_load_salt_bicycle_envelope_forward_million
 bip_39_word_underscore_12: motor_sword_knock_stadium_divorce_load_salt_bicycle_envelope_forward_million_atom
 bip_39_word_underscore_2: motor_sword
 bip_39_word_underscore_3: motor_sword_knock
-bip_39_word_underscore_4: motor_sword_knock_stadium
-bip_39_word_underscore_5: motor_sword_knock_stadium_divorce
-bip_39_word_underscore_6: motor_sword_knock_stadium_divorce_load
-bip_39_word_underscore_7: motor_sword_knock_stadium_divorce_load_salt
-bip_39_word_underscore_8: motor_sword_knock_stadium_divorce_load_salt_bicycle
-bip_39_word_underscore_9: motor_sword_knock_stadium_divorce_load_salt_bicycle_envelope
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

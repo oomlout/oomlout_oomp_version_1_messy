@@ -1,68 +1,9 @@
-bip_39_word_dash_1: robust
-bip_39_word_dash_10: robust-umbrella-spot-undo-turkey-taxi-fan-weather-maid-level
-bip_39_word_dash_11: robust-umbrella-spot-undo-turkey-taxi-fan-weather-maid-level-give
 bip_39_word_dash_12: robust-umbrella-spot-undo-turkey-taxi-fan-weather-maid-level-give-alone
 bip_39_word_dash_2: robust-umbrella
 bip_39_word_dash_3: robust-umbrella-spot
-bip_39_word_dash_4: robust-umbrella-spot-undo
-bip_39_word_dash_5: robust-umbrella-spot-undo-turkey
-bip_39_word_dash_6: robust-umbrella-spot-undo-turkey-taxi
-bip_39_word_dash_7: robust-umbrella-spot-undo-turkey-taxi-fan
-bip_39_word_dash_8: robust-umbrella-spot-undo-turkey-taxi-fan-weather
-bip_39_word_dash_9: robust-umbrella-spot-undo-turkey-taxi-fan-weather-maid
-bip_39_word_new_br_1: robust
-bip_39_word_new_br_10: robust<br>umbrella<br>spot<br>undo<br>turkey<br>taxi<br>fan<br>weather<br>maid<br>level
-bip_39_word_new_br_11: robust<br>umbrella<br>spot<br>undo<br>turkey<br>taxi<br>fan<br>weather<br>maid<br>level<br>give
 bip_39_word_new_br_12: robust<br>umbrella<br>spot<br>undo<br>turkey<br>taxi<br>fan<br>weather<br>maid<br>level<br>give<br>alone
 bip_39_word_new_br_2: robust<br>umbrella
 bip_39_word_new_br_3: robust<br>umbrella<br>spot
-bip_39_word_new_br_4: robust<br>umbrella<br>spot<br>undo
-bip_39_word_new_br_5: robust<br>umbrella<br>spot<br>undo<br>turkey
-bip_39_word_new_br_6: robust<br>umbrella<br>spot<br>undo<br>turkey<br>taxi
-bip_39_word_new_br_7: robust<br>umbrella<br>spot<br>undo<br>turkey<br>taxi<br>fan
-bip_39_word_new_br_8: robust<br>umbrella<br>spot<br>undo<br>turkey<br>taxi<br>fan<br>weather
-bip_39_word_new_br_9: robust<br>umbrella<br>spot<br>undo<br>turkey<br>taxi<br>fan<br>weather<br>maid
-bip_39_word_new_line_1: robust
-bip_39_word_new_line_10: 'robust
-
-  umbrella
-
-  spot
-
-  undo
-
-  turkey
-
-  taxi
-
-  fan
-
-  weather
-
-  maid
-
-  level'
-bip_39_word_new_line_11: 'robust
-
-  umbrella
-
-  spot
-
-  undo
-
-  turkey
-
-  taxi
-
-  fan
-
-  weather
-
-  maid
-
-  level
-
-  give'
 bip_39_word_new_line_12: 'robust
 
   umbrella
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'robust
   umbrella
 
   spot'
-bip_39_word_new_line_4: 'robust
-
-  umbrella
-
-  spot
-
-  undo'
-bip_39_word_new_line_5: 'robust
-
-  umbrella
-
-  spot
-
-  undo
-
-  turkey'
-bip_39_word_new_line_6: 'robust
-
-  umbrella
-
-  spot
-
-  undo
-
-  turkey
-
-  taxi'
-bip_39_word_new_line_7: 'robust
-
-  umbrella
-
-  spot
-
-  undo
-
-  turkey
-
-  taxi
-
-  fan'
-bip_39_word_new_line_8: 'robust
-
-  umbrella
-
-  spot
-
-  undo
-
-  turkey
-
-  taxi
-
-  fan
-
-  weather'
-bip_39_word_new_line_9: 'robust
-
-  umbrella
-
-  spot
-
-  undo
-
-  turkey
-
-  taxi
-
-  fan
-
-  weather
-
-  maid'
-bip_39_word_no_space_1: robust
-bip_39_word_no_space_10: robustumbrellaspotundoturkeytaxifanweathermaidlevel
-bip_39_word_no_space_11: robustumbrellaspotundoturkeytaxifanweathermaidlevelgive
 bip_39_word_no_space_12: robustumbrellaspotundoturkeytaxifanweathermaidlevelgivealone
 bip_39_word_no_space_2: robustumbrella
 bip_39_word_no_space_3: robustumbrellaspot
-bip_39_word_no_space_4: robustumbrellaspotundo
-bip_39_word_no_space_5: robustumbrellaspotundoturkey
-bip_39_word_no_space_6: robustumbrellaspotundoturkeytaxi
-bip_39_word_no_space_7: robustumbrellaspotundoturkeytaxifan
-bip_39_word_no_space_8: robustumbrellaspotundoturkeytaxifanweather
-bip_39_word_no_space_9: robustumbrellaspotundoturkeytaxifanweathermaid
-bip_39_word_space_0:
-- robust
-- umbrella
-- spot
-- undo
-- turkey
-- taxi
-- fan
-- weather
-- maid
-- level
-- give
-- alone
-bip_39_word_space_1: robust
-bip_39_word_space_10: robust umbrella spot undo turkey taxi fan weather maid level
-bip_39_word_space_11: robust umbrella spot undo turkey taxi fan weather maid level
-  give
 bip_39_word_space_12: robust umbrella spot undo turkey taxi fan weather maid level
   give alone
 bip_39_word_space_2: robust umbrella
 bip_39_word_space_3: robust umbrella spot
-bip_39_word_space_4: robust umbrella spot undo
-bip_39_word_space_5: robust umbrella spot undo turkey
-bip_39_word_space_6: robust umbrella spot undo turkey taxi
-bip_39_word_space_7: robust umbrella spot undo turkey taxi fan
-bip_39_word_space_8: robust umbrella spot undo turkey taxi fan weather
-bip_39_word_space_9: robust umbrella spot undo turkey taxi fan weather maid
-bip_39_word_underscore_1: robust
-bip_39_word_underscore_10: robust_umbrella_spot_undo_turkey_taxi_fan_weather_maid_level
-bip_39_word_underscore_11: robust_umbrella_spot_undo_turkey_taxi_fan_weather_maid_level_give
 bip_39_word_underscore_12: robust_umbrella_spot_undo_turkey_taxi_fan_weather_maid_level_give_alone
 bip_39_word_underscore_2: robust_umbrella
 bip_39_word_underscore_3: robust_umbrella_spot
-bip_39_word_underscore_4: robust_umbrella_spot_undo
-bip_39_word_underscore_5: robust_umbrella_spot_undo_turkey
-bip_39_word_underscore_6: robust_umbrella_spot_undo_turkey_taxi
-bip_39_word_underscore_7: robust_umbrella_spot_undo_turkey_taxi_fan
-bip_39_word_underscore_8: robust_umbrella_spot_undo_turkey_taxi_fan_weather
-bip_39_word_underscore_9: robust_umbrella_spot_undo_turkey_taxi_fan_weather_maid
 classification: category
 classification_capital: Category
 classification_first_letter: c

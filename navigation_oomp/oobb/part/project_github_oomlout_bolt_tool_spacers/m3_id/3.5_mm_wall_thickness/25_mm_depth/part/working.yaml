@@ -1,68 +1,9 @@
-bip_39_word_dash_1: detect
-bip_39_word_dash_10: detect-trial-turn-someone-doll-region-vivid-patrol-secret-shop
-bip_39_word_dash_11: detect-trial-turn-someone-doll-region-vivid-patrol-secret-shop-hole
 bip_39_word_dash_12: detect-trial-turn-someone-doll-region-vivid-patrol-secret-shop-hole-aerobic
 bip_39_word_dash_2: detect-trial
 bip_39_word_dash_3: detect-trial-turn
-bip_39_word_dash_4: detect-trial-turn-someone
-bip_39_word_dash_5: detect-trial-turn-someone-doll
-bip_39_word_dash_6: detect-trial-turn-someone-doll-region
-bip_39_word_dash_7: detect-trial-turn-someone-doll-region-vivid
-bip_39_word_dash_8: detect-trial-turn-someone-doll-region-vivid-patrol
-bip_39_word_dash_9: detect-trial-turn-someone-doll-region-vivid-patrol-secret
-bip_39_word_new_br_1: detect
-bip_39_word_new_br_10: detect<br>trial<br>turn<br>someone<br>doll<br>region<br>vivid<br>patrol<br>secret<br>shop
-bip_39_word_new_br_11: detect<br>trial<br>turn<br>someone<br>doll<br>region<br>vivid<br>patrol<br>secret<br>shop<br>hole
 bip_39_word_new_br_12: detect<br>trial<br>turn<br>someone<br>doll<br>region<br>vivid<br>patrol<br>secret<br>shop<br>hole<br>aerobic
 bip_39_word_new_br_2: detect<br>trial
 bip_39_word_new_br_3: detect<br>trial<br>turn
-bip_39_word_new_br_4: detect<br>trial<br>turn<br>someone
-bip_39_word_new_br_5: detect<br>trial<br>turn<br>someone<br>doll
-bip_39_word_new_br_6: detect<br>trial<br>turn<br>someone<br>doll<br>region
-bip_39_word_new_br_7: detect<br>trial<br>turn<br>someone<br>doll<br>region<br>vivid
-bip_39_word_new_br_8: detect<br>trial<br>turn<br>someone<br>doll<br>region<br>vivid<br>patrol
-bip_39_word_new_br_9: detect<br>trial<br>turn<br>someone<br>doll<br>region<br>vivid<br>patrol<br>secret
-bip_39_word_new_line_1: detect
-bip_39_word_new_line_10: 'detect
-
-  trial
-
-  turn
-
-  someone
-
-  doll
-
-  region
-
-  vivid
-
-  patrol
-
-  secret
-
-  shop'
-bip_39_word_new_line_11: 'detect
-
-  trial
-
-  turn
-
-  someone
-
-  doll
-
-  region
-
-  vivid
-
-  patrol
-
-  secret
-
-  shop
-
-  hole'
 bip_39_word_new_line_12: 'detect
 
   trial
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'detect
   trial
 
   turn'
-bip_39_word_new_line_4: 'detect
-
-  trial
-
-  turn
-
-  someone'
-bip_39_word_new_line_5: 'detect
-
-  trial
-
-  turn
-
-  someone
-
-  doll'
-bip_39_word_new_line_6: 'detect
-
-  trial
-
-  turn
-
-  someone
-
-  doll
-
-  region'
-bip_39_word_new_line_7: 'detect
-
-  trial
-
-  turn
-
-  someone
-
-  doll
-
-  region
-
-  vivid'
-bip_39_word_new_line_8: 'detect
-
-  trial
-
-  turn
-
-  someone
-
-  doll
-
-  region
-
-  vivid
-
-  patrol'
-bip_39_word_new_line_9: 'detect
-
-  trial
-
-  turn
-
-  someone
-
-  doll
-
-  region
-
-  vivid
-
-  patrol
-
-  secret'
-bip_39_word_no_space_1: detect
-bip_39_word_no_space_10: detecttrialturnsomeonedollregionvividpatrolsecretshop
-bip_39_word_no_space_11: detecttrialturnsomeonedollregionvividpatrolsecretshophole
 bip_39_word_no_space_12: detecttrialturnsomeonedollregionvividpatrolsecretshopholeaerobic
 bip_39_word_no_space_2: detecttrial
 bip_39_word_no_space_3: detecttrialturn
-bip_39_word_no_space_4: detecttrialturnsomeone
-bip_39_word_no_space_5: detecttrialturnsomeonedoll
-bip_39_word_no_space_6: detecttrialturnsomeonedollregion
-bip_39_word_no_space_7: detecttrialturnsomeonedollregionvivid
-bip_39_word_no_space_8: detecttrialturnsomeonedollregionvividpatrol
-bip_39_word_no_space_9: detecttrialturnsomeonedollregionvividpatrolsecret
-bip_39_word_space_0:
-- detect
-- trial
-- turn
-- someone
-- doll
-- region
-- vivid
-- patrol
-- secret
-- shop
-- hole
-- aerobic
-bip_39_word_space_1: detect
-bip_39_word_space_10: detect trial turn someone doll region vivid patrol secret shop
-bip_39_word_space_11: detect trial turn someone doll region vivid patrol secret shop
-  hole
 bip_39_word_space_12: detect trial turn someone doll region vivid patrol secret shop
   hole aerobic
 bip_39_word_space_2: detect trial
 bip_39_word_space_3: detect trial turn
-bip_39_word_space_4: detect trial turn someone
-bip_39_word_space_5: detect trial turn someone doll
-bip_39_word_space_6: detect trial turn someone doll region
-bip_39_word_space_7: detect trial turn someone doll region vivid
-bip_39_word_space_8: detect trial turn someone doll region vivid patrol
-bip_39_word_space_9: detect trial turn someone doll region vivid patrol secret
-bip_39_word_underscore_1: detect
-bip_39_word_underscore_10: detect_trial_turn_someone_doll_region_vivid_patrol_secret_shop
-bip_39_word_underscore_11: detect_trial_turn_someone_doll_region_vivid_patrol_secret_shop_hole
 bip_39_word_underscore_12: detect_trial_turn_someone_doll_region_vivid_patrol_secret_shop_hole_aerobic
 bip_39_word_underscore_2: detect_trial
 bip_39_word_underscore_3: detect_trial_turn
-bip_39_word_underscore_4: detect_trial_turn_someone
-bip_39_word_underscore_5: detect_trial_turn_someone_doll
-bip_39_word_underscore_6: detect_trial_turn_someone_doll_region
-bip_39_word_underscore_7: detect_trial_turn_someone_doll_region_vivid
-bip_39_word_underscore_8: detect_trial_turn_someone_doll_region_vivid_patrol
-bip_39_word_underscore_9: detect_trial_turn_someone_doll_region_vivid_patrol_secret
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

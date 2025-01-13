@@ -1,68 +1,9 @@
-bip_39_word_dash_1: swear
-bip_39_word_dash_10: swear-office-consider-grocery-whale-also-isolate-void-aerobic-grab
-bip_39_word_dash_11: swear-office-consider-grocery-whale-also-isolate-void-aerobic-grab-rare
 bip_39_word_dash_12: swear-office-consider-grocery-whale-also-isolate-void-aerobic-grab-rare-among
 bip_39_word_dash_2: swear-office
 bip_39_word_dash_3: swear-office-consider
-bip_39_word_dash_4: swear-office-consider-grocery
-bip_39_word_dash_5: swear-office-consider-grocery-whale
-bip_39_word_dash_6: swear-office-consider-grocery-whale-also
-bip_39_word_dash_7: swear-office-consider-grocery-whale-also-isolate
-bip_39_word_dash_8: swear-office-consider-grocery-whale-also-isolate-void
-bip_39_word_dash_9: swear-office-consider-grocery-whale-also-isolate-void-aerobic
-bip_39_word_new_br_1: swear
-bip_39_word_new_br_10: swear<br>office<br>consider<br>grocery<br>whale<br>also<br>isolate<br>void<br>aerobic<br>grab
-bip_39_word_new_br_11: swear<br>office<br>consider<br>grocery<br>whale<br>also<br>isolate<br>void<br>aerobic<br>grab<br>rare
 bip_39_word_new_br_12: swear<br>office<br>consider<br>grocery<br>whale<br>also<br>isolate<br>void<br>aerobic<br>grab<br>rare<br>among
 bip_39_word_new_br_2: swear<br>office
 bip_39_word_new_br_3: swear<br>office<br>consider
-bip_39_word_new_br_4: swear<br>office<br>consider<br>grocery
-bip_39_word_new_br_5: swear<br>office<br>consider<br>grocery<br>whale
-bip_39_word_new_br_6: swear<br>office<br>consider<br>grocery<br>whale<br>also
-bip_39_word_new_br_7: swear<br>office<br>consider<br>grocery<br>whale<br>also<br>isolate
-bip_39_word_new_br_8: swear<br>office<br>consider<br>grocery<br>whale<br>also<br>isolate<br>void
-bip_39_word_new_br_9: swear<br>office<br>consider<br>grocery<br>whale<br>also<br>isolate<br>void<br>aerobic
-bip_39_word_new_line_1: swear
-bip_39_word_new_line_10: 'swear
-
-  office
-
-  consider
-
-  grocery
-
-  whale
-
-  also
-
-  isolate
-
-  void
-
-  aerobic
-
-  grab'
-bip_39_word_new_line_11: 'swear
-
-  office
-
-  consider
-
-  grocery
-
-  whale
-
-  also
-
-  isolate
-
-  void
-
-  aerobic
-
-  grab
-
-  rare'
 bip_39_word_new_line_12: 'swear
 
   office
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'swear
   office
 
   consider'
-bip_39_word_new_line_4: 'swear
-
-  office
-
-  consider
-
-  grocery'
-bip_39_word_new_line_5: 'swear
-
-  office
-
-  consider
-
-  grocery
-
-  whale'
-bip_39_word_new_line_6: 'swear
-
-  office
-
-  consider
-
-  grocery
-
-  whale
-
-  also'
-bip_39_word_new_line_7: 'swear
-
-  office
-
-  consider
-
-  grocery
-
-  whale
-
-  also
-
-  isolate'
-bip_39_word_new_line_8: 'swear
-
-  office
-
-  consider
-
-  grocery
-
-  whale
-
-  also
-
-  isolate
-
-  void'
-bip_39_word_new_line_9: 'swear
-
-  office
-
-  consider
-
-  grocery
-
-  whale
-
-  also
-
-  isolate
-
-  void
-
-  aerobic'
-bip_39_word_no_space_1: swear
-bip_39_word_no_space_10: swearofficeconsidergrocerywhalealsoisolatevoidaerobicgrab
-bip_39_word_no_space_11: swearofficeconsidergrocerywhalealsoisolatevoidaerobicgrabrare
 bip_39_word_no_space_12: swearofficeconsidergrocerywhalealsoisolatevoidaerobicgrabrareamong
 bip_39_word_no_space_2: swearoffice
 bip_39_word_no_space_3: swearofficeconsider
-bip_39_word_no_space_4: swearofficeconsidergrocery
-bip_39_word_no_space_5: swearofficeconsidergrocerywhale
-bip_39_word_no_space_6: swearofficeconsidergrocerywhalealso
-bip_39_word_no_space_7: swearofficeconsidergrocerywhalealsoisolate
-bip_39_word_no_space_8: swearofficeconsidergrocerywhalealsoisolatevoid
-bip_39_word_no_space_9: swearofficeconsidergrocerywhalealsoisolatevoidaerobic
-bip_39_word_space_0:
-- swear
-- office
-- consider
-- grocery
-- whale
-- also
-- isolate
-- void
-- aerobic
-- grab
-- rare
-- among
-bip_39_word_space_1: swear
-bip_39_word_space_10: swear office consider grocery whale also isolate void aerobic
-  grab
-bip_39_word_space_11: swear office consider grocery whale also isolate void aerobic
-  grab rare
 bip_39_word_space_12: swear office consider grocery whale also isolate void aerobic
   grab rare among
 bip_39_word_space_2: swear office
 bip_39_word_space_3: swear office consider
-bip_39_word_space_4: swear office consider grocery
-bip_39_word_space_5: swear office consider grocery whale
-bip_39_word_space_6: swear office consider grocery whale also
-bip_39_word_space_7: swear office consider grocery whale also isolate
-bip_39_word_space_8: swear office consider grocery whale also isolate void
-bip_39_word_space_9: swear office consider grocery whale also isolate void aerobic
-bip_39_word_underscore_1: swear
-bip_39_word_underscore_10: swear_office_consider_grocery_whale_also_isolate_void_aerobic_grab
-bip_39_word_underscore_11: swear_office_consider_grocery_whale_also_isolate_void_aerobic_grab_rare
 bip_39_word_underscore_12: swear_office_consider_grocery_whale_also_isolate_void_aerobic_grab_rare_among
 bip_39_word_underscore_2: swear_office
 bip_39_word_underscore_3: swear_office_consider
-bip_39_word_underscore_4: swear_office_consider_grocery
-bip_39_word_underscore_5: swear_office_consider_grocery_whale
-bip_39_word_underscore_6: swear_office_consider_grocery_whale_also
-bip_39_word_underscore_7: swear_office_consider_grocery_whale_also_isolate
-bip_39_word_underscore_8: swear_office_consider_grocery_whale_also_isolate_void
-bip_39_word_underscore_9: swear_office_consider_grocery_whale_also_isolate_void_aerobic
 classification: food
 classification_capital: Food
 classification_first_letter: f

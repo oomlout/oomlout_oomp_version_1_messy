@@ -1,68 +1,9 @@
-bip_39_word_dash_1: idle
-bip_39_word_dash_10: idle-come-fall-prize-run-spike-okay-defense-neither-ginger
-bip_39_word_dash_11: idle-come-fall-prize-run-spike-okay-defense-neither-ginger-festival
 bip_39_word_dash_12: idle-come-fall-prize-run-spike-okay-defense-neither-ginger-festival-ancient
 bip_39_word_dash_2: idle-come
 bip_39_word_dash_3: idle-come-fall
-bip_39_word_dash_4: idle-come-fall-prize
-bip_39_word_dash_5: idle-come-fall-prize-run
-bip_39_word_dash_6: idle-come-fall-prize-run-spike
-bip_39_word_dash_7: idle-come-fall-prize-run-spike-okay
-bip_39_word_dash_8: idle-come-fall-prize-run-spike-okay-defense
-bip_39_word_dash_9: idle-come-fall-prize-run-spike-okay-defense-neither
-bip_39_word_new_br_1: idle
-bip_39_word_new_br_10: idle<br>come<br>fall<br>prize<br>run<br>spike<br>okay<br>defense<br>neither<br>ginger
-bip_39_word_new_br_11: idle<br>come<br>fall<br>prize<br>run<br>spike<br>okay<br>defense<br>neither<br>ginger<br>festival
 bip_39_word_new_br_12: idle<br>come<br>fall<br>prize<br>run<br>spike<br>okay<br>defense<br>neither<br>ginger<br>festival<br>ancient
 bip_39_word_new_br_2: idle<br>come
 bip_39_word_new_br_3: idle<br>come<br>fall
-bip_39_word_new_br_4: idle<br>come<br>fall<br>prize
-bip_39_word_new_br_5: idle<br>come<br>fall<br>prize<br>run
-bip_39_word_new_br_6: idle<br>come<br>fall<br>prize<br>run<br>spike
-bip_39_word_new_br_7: idle<br>come<br>fall<br>prize<br>run<br>spike<br>okay
-bip_39_word_new_br_8: idle<br>come<br>fall<br>prize<br>run<br>spike<br>okay<br>defense
-bip_39_word_new_br_9: idle<br>come<br>fall<br>prize<br>run<br>spike<br>okay<br>defense<br>neither
-bip_39_word_new_line_1: idle
-bip_39_word_new_line_10: 'idle
-
-  come
-
-  fall
-
-  prize
-
-  run
-
-  spike
-
-  okay
-
-  defense
-
-  neither
-
-  ginger'
-bip_39_word_new_line_11: 'idle
-
-  come
-
-  fall
-
-  prize
-
-  run
-
-  spike
-
-  okay
-
-  defense
-
-  neither
-
-  ginger
-
-  festival'
 bip_39_word_new_line_12: 'idle
 
   come
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'idle
   come
 
   fall'
-bip_39_word_new_line_4: 'idle
-
-  come
-
-  fall
-
-  prize'
-bip_39_word_new_line_5: 'idle
-
-  come
-
-  fall
-
-  prize
-
-  run'
-bip_39_word_new_line_6: 'idle
-
-  come
-
-  fall
-
-  prize
-
-  run
-
-  spike'
-bip_39_word_new_line_7: 'idle
-
-  come
-
-  fall
-
-  prize
-
-  run
-
-  spike
-
-  okay'
-bip_39_word_new_line_8: 'idle
-
-  come
-
-  fall
-
-  prize
-
-  run
-
-  spike
-
-  okay
-
-  defense'
-bip_39_word_new_line_9: 'idle
-
-  come
-
-  fall
-
-  prize
-
-  run
-
-  spike
-
-  okay
-
-  defense
-
-  neither'
-bip_39_word_no_space_1: idle
-bip_39_word_no_space_10: idlecomefallprizerunspikeokaydefenseneitherginger
-bip_39_word_no_space_11: idlecomefallprizerunspikeokaydefenseneithergingerfestival
 bip_39_word_no_space_12: idlecomefallprizerunspikeokaydefenseneithergingerfestivalancient
 bip_39_word_no_space_2: idlecome
 bip_39_word_no_space_3: idlecomefall
-bip_39_word_no_space_4: idlecomefallprize
-bip_39_word_no_space_5: idlecomefallprizerun
-bip_39_word_no_space_6: idlecomefallprizerunspike
-bip_39_word_no_space_7: idlecomefallprizerunspikeokay
-bip_39_word_no_space_8: idlecomefallprizerunspikeokaydefense
-bip_39_word_no_space_9: idlecomefallprizerunspikeokaydefenseneither
-bip_39_word_space_0:
-- idle
-- come
-- fall
-- prize
-- run
-- spike
-- okay
-- defense
-- neither
-- ginger
-- festival
-- ancient
-bip_39_word_space_1: idle
-bip_39_word_space_10: idle come fall prize run spike okay defense neither ginger
-bip_39_word_space_11: idle come fall prize run spike okay defense neither ginger festival
 bip_39_word_space_12: idle come fall prize run spike okay defense neither ginger festival
   ancient
 bip_39_word_space_2: idle come
 bip_39_word_space_3: idle come fall
-bip_39_word_space_4: idle come fall prize
-bip_39_word_space_5: idle come fall prize run
-bip_39_word_space_6: idle come fall prize run spike
-bip_39_word_space_7: idle come fall prize run spike okay
-bip_39_word_space_8: idle come fall prize run spike okay defense
-bip_39_word_space_9: idle come fall prize run spike okay defense neither
-bip_39_word_underscore_1: idle
-bip_39_word_underscore_10: idle_come_fall_prize_run_spike_okay_defense_neither_ginger
-bip_39_word_underscore_11: idle_come_fall_prize_run_spike_okay_defense_neither_ginger_festival
 bip_39_word_underscore_12: idle_come_fall_prize_run_spike_okay_defense_neither_ginger_festival_ancient
 bip_39_word_underscore_2: idle_come
 bip_39_word_underscore_3: idle_come_fall
-bip_39_word_underscore_4: idle_come_fall_prize
-bip_39_word_underscore_5: idle_come_fall_prize_run
-bip_39_word_underscore_6: idle_come_fall_prize_run_spike
-bip_39_word_underscore_7: idle_come_fall_prize_run_spike_okay
-bip_39_word_underscore_8: idle_come_fall_prize_run_spike_okay_defense
-bip_39_word_underscore_9: idle_come_fall_prize_run_spike_okay_defense_neither
 classification: category
 classification_capital: Category
 classification_first_letter: c

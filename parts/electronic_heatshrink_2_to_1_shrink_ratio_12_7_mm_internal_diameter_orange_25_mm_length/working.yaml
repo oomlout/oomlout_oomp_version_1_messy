@@ -1,45 +1,9 @@
-bip_39_word_dash_1: execute
-bip_39_word_dash_10: execute-yellow-unaware-panic-place-zero-holiday-pluck-sport-photo
 bip_39_word_dash_11: execute-yellow-unaware-panic-place-zero-holiday-pluck-sport-photo-crane
 bip_39_word_dash_2: execute-yellow
 bip_39_word_dash_3: execute-yellow-unaware
-bip_39_word_dash_4: execute-yellow-unaware-panic
-bip_39_word_dash_5: execute-yellow-unaware-panic-place
-bip_39_word_dash_6: execute-yellow-unaware-panic-place-zero
-bip_39_word_dash_7: execute-yellow-unaware-panic-place-zero-holiday
-bip_39_word_dash_8: execute-yellow-unaware-panic-place-zero-holiday-pluck
-bip_39_word_dash_9: execute-yellow-unaware-panic-place-zero-holiday-pluck-sport
-bip_39_word_new_br_1: execute
-bip_39_word_new_br_10: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport<br>photo
 bip_39_word_new_br_11: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport<br>photo<br>crane
 bip_39_word_new_br_2: execute<br>yellow
 bip_39_word_new_br_3: execute<br>yellow<br>unaware
-bip_39_word_new_br_4: execute<br>yellow<br>unaware<br>panic
-bip_39_word_new_br_5: execute<br>yellow<br>unaware<br>panic<br>place
-bip_39_word_new_br_6: execute<br>yellow<br>unaware<br>panic<br>place<br>zero
-bip_39_word_new_br_7: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday
-bip_39_word_new_br_8: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck
-bip_39_word_new_br_9: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport
-bip_39_word_new_line_1: execute
-bip_39_word_new_line_10: 'execute
-
-  yellow
-
-  unaware
-
-  panic
-
-  place
-
-  zero
-
-  holiday
-
-  pluck
-
-  sport
-
-  photo'
 bip_39_word_new_line_11: 'execute
 
   yellow
@@ -69,125 +33,16 @@ bip_39_word_new_line_3: 'execute
   yellow
 
   unaware'
-bip_39_word_new_line_4: 'execute
-
-  yellow
-
-  unaware
-
-  panic'
-bip_39_word_new_line_5: 'execute
-
-  yellow
-
-  unaware
-
-  panic
-
-  place'
-bip_39_word_new_line_6: 'execute
-
-  yellow
-
-  unaware
-
-  panic
-
-  place
-
-  zero'
-bip_39_word_new_line_7: 'execute
-
-  yellow
-
-  unaware
-
-  panic
-
-  place
-
-  zero
-
-  holiday'
-bip_39_word_new_line_8: 'execute
-
-  yellow
-
-  unaware
-
-  panic
-
-  place
-
-  zero
-
-  holiday
-
-  pluck'
-bip_39_word_new_line_9: 'execute
-
-  yellow
-
-  unaware
-
-  panic
-
-  place
-
-  zero
-
-  holiday
-
-  pluck
-
-  sport'
-bip_39_word_no_space_1: execute
-bip_39_word_no_space_10: executeyellowunawarepanicplacezeroholidayplucksportphoto
 bip_39_word_no_space_11: executeyellowunawarepanicplacezeroholidayplucksportphotocrane
 bip_39_word_no_space_2: executeyellow
 bip_39_word_no_space_3: executeyellowunaware
-bip_39_word_no_space_4: executeyellowunawarepanic
-bip_39_word_no_space_5: executeyellowunawarepanicplace
-bip_39_word_no_space_6: executeyellowunawarepanicplacezero
-bip_39_word_no_space_7: executeyellowunawarepanicplacezeroholiday
-bip_39_word_no_space_8: executeyellowunawarepanicplacezeroholidaypluck
-bip_39_word_no_space_9: executeyellowunawarepanicplacezeroholidayplucksport
-bip_39_word_space_0:
-- execute
-- yellow
-- unaware
-- panic
-- place
-- zero
-- holiday
-- pluck
-- sport
-- photo
-- crane
-bip_39_word_space_1: execute
-bip_39_word_space_10: execute yellow unaware panic place zero holiday pluck sport
-  photo
 bip_39_word_space_11: execute yellow unaware panic place zero holiday pluck sport
   photo crane
 bip_39_word_space_2: execute yellow
 bip_39_word_space_3: execute yellow unaware
-bip_39_word_space_4: execute yellow unaware panic
-bip_39_word_space_5: execute yellow unaware panic place
-bip_39_word_space_6: execute yellow unaware panic place zero
-bip_39_word_space_7: execute yellow unaware panic place zero holiday
-bip_39_word_space_8: execute yellow unaware panic place zero holiday pluck
-bip_39_word_space_9: execute yellow unaware panic place zero holiday pluck sport
-bip_39_word_underscore_1: execute
-bip_39_word_underscore_10: execute_yellow_unaware_panic_place_zero_holiday_pluck_sport_photo
 bip_39_word_underscore_11: execute_yellow_unaware_panic_place_zero_holiday_pluck_sport_photo_crane
 bip_39_word_underscore_2: execute_yellow
 bip_39_word_underscore_3: execute_yellow_unaware
-bip_39_word_underscore_4: execute_yellow_unaware_panic
-bip_39_word_underscore_5: execute_yellow_unaware_panic_place
-bip_39_word_underscore_6: execute_yellow_unaware_panic_place_zero
-bip_39_word_underscore_7: execute_yellow_unaware_panic_place_zero_holiday
-bip_39_word_underscore_8: execute_yellow_unaware_panic_place_zero_holiday_pluck
-bip_39_word_underscore_9: execute_yellow_unaware_panic_place_zero_holiday_pluck_sport
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

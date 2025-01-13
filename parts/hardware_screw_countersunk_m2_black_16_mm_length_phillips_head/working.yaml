@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hunt
-bip_39_word_dash_10: hunt-trade-bleak-invest-link-blind-roast-believe-inflict-minimum
-bip_39_word_dash_11: hunt-trade-bleak-invest-link-blind-roast-believe-inflict-minimum-idle
 bip_39_word_dash_12: hunt-trade-bleak-invest-link-blind-roast-believe-inflict-minimum-idle-annual
 bip_39_word_dash_2: hunt-trade
 bip_39_word_dash_3: hunt-trade-bleak
-bip_39_word_dash_4: hunt-trade-bleak-invest
-bip_39_word_dash_5: hunt-trade-bleak-invest-link
-bip_39_word_dash_6: hunt-trade-bleak-invest-link-blind
-bip_39_word_dash_7: hunt-trade-bleak-invest-link-blind-roast
-bip_39_word_dash_8: hunt-trade-bleak-invest-link-blind-roast-believe
-bip_39_word_dash_9: hunt-trade-bleak-invest-link-blind-roast-believe-inflict
-bip_39_word_new_br_1: hunt
-bip_39_word_new_br_10: hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe<br>inflict<br>minimum
-bip_39_word_new_br_11: hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe<br>inflict<br>minimum<br>idle
 bip_39_word_new_br_12: hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe<br>inflict<br>minimum<br>idle<br>annual
 bip_39_word_new_br_2: hunt<br>trade
 bip_39_word_new_br_3: hunt<br>trade<br>bleak
-bip_39_word_new_br_4: hunt<br>trade<br>bleak<br>invest
-bip_39_word_new_br_5: hunt<br>trade<br>bleak<br>invest<br>link
-bip_39_word_new_br_6: hunt<br>trade<br>bleak<br>invest<br>link<br>blind
-bip_39_word_new_br_7: hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast
-bip_39_word_new_br_8: hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe
-bip_39_word_new_br_9: hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe<br>inflict
-bip_39_word_new_line_1: hunt
-bip_39_word_new_line_10: 'hunt
-
-  trade
-
-  bleak
-
-  invest
-
-  link
-
-  blind
-
-  roast
-
-  believe
-
-  inflict
-
-  minimum'
-bip_39_word_new_line_11: 'hunt
-
-  trade
-
-  bleak
-
-  invest
-
-  link
-
-  blind
-
-  roast
-
-  believe
-
-  inflict
-
-  minimum
-
-  idle'
 bip_39_word_new_line_12: 'hunt
 
   trade
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hunt
   trade
 
   bleak'
-bip_39_word_new_line_4: 'hunt
-
-  trade
-
-  bleak
-
-  invest'
-bip_39_word_new_line_5: 'hunt
-
-  trade
-
-  bleak
-
-  invest
-
-  link'
-bip_39_word_new_line_6: 'hunt
-
-  trade
-
-  bleak
-
-  invest
-
-  link
-
-  blind'
-bip_39_word_new_line_7: 'hunt
-
-  trade
-
-  bleak
-
-  invest
-
-  link
-
-  blind
-
-  roast'
-bip_39_word_new_line_8: 'hunt
-
-  trade
-
-  bleak
-
-  invest
-
-  link
-
-  blind
-
-  roast
-
-  believe'
-bip_39_word_new_line_9: 'hunt
-
-  trade
-
-  bleak
-
-  invest
-
-  link
-
-  blind
-
-  roast
-
-  believe
-
-  inflict'
-bip_39_word_no_space_1: hunt
-bip_39_word_no_space_10: hunttradebleakinvestlinkblindroastbelieveinflictminimum
-bip_39_word_no_space_11: hunttradebleakinvestlinkblindroastbelieveinflictminimumidle
 bip_39_word_no_space_12: hunttradebleakinvestlinkblindroastbelieveinflictminimumidleannual
 bip_39_word_no_space_2: hunttrade
 bip_39_word_no_space_3: hunttradebleak
-bip_39_word_no_space_4: hunttradebleakinvest
-bip_39_word_no_space_5: hunttradebleakinvestlink
-bip_39_word_no_space_6: hunttradebleakinvestlinkblind
-bip_39_word_no_space_7: hunttradebleakinvestlinkblindroast
-bip_39_word_no_space_8: hunttradebleakinvestlinkblindroastbelieve
-bip_39_word_no_space_9: hunttradebleakinvestlinkblindroastbelieveinflict
-bip_39_word_space_0:
-- hunt
-- trade
-- bleak
-- invest
-- link
-- blind
-- roast
-- believe
-- inflict
-- minimum
-- idle
-- annual
-bip_39_word_space_1: hunt
-bip_39_word_space_10: hunt trade bleak invest link blind roast believe inflict minimum
-bip_39_word_space_11: hunt trade bleak invest link blind roast believe inflict minimum
-  idle
 bip_39_word_space_12: hunt trade bleak invest link blind roast believe inflict minimum
   idle annual
 bip_39_word_space_2: hunt trade
 bip_39_word_space_3: hunt trade bleak
-bip_39_word_space_4: hunt trade bleak invest
-bip_39_word_space_5: hunt trade bleak invest link
-bip_39_word_space_6: hunt trade bleak invest link blind
-bip_39_word_space_7: hunt trade bleak invest link blind roast
-bip_39_word_space_8: hunt trade bleak invest link blind roast believe
-bip_39_word_space_9: hunt trade bleak invest link blind roast believe inflict
-bip_39_word_underscore_1: hunt
-bip_39_word_underscore_10: hunt_trade_bleak_invest_link_blind_roast_believe_inflict_minimum
-bip_39_word_underscore_11: hunt_trade_bleak_invest_link_blind_roast_believe_inflict_minimum_idle
 bip_39_word_underscore_12: hunt_trade_bleak_invest_link_blind_roast_believe_inflict_minimum_idle_annual
 bip_39_word_underscore_2: hunt_trade
 bip_39_word_underscore_3: hunt_trade_bleak
-bip_39_word_underscore_4: hunt_trade_bleak_invest
-bip_39_word_underscore_5: hunt_trade_bleak_invest_link
-bip_39_word_underscore_6: hunt_trade_bleak_invest_link_blind
-bip_39_word_underscore_7: hunt_trade_bleak_invest_link_blind_roast
-bip_39_word_underscore_8: hunt_trade_bleak_invest_link_blind_roast_believe
-bip_39_word_underscore_9: hunt_trade_bleak_invest_link_blind_roast_believe_inflict
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

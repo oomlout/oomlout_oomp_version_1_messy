@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tiny
-bip_39_word_dash_10: tiny-float-castle-vital-middle-cereal-kangaroo-coyote-improve-energy
-bip_39_word_dash_11: tiny-float-castle-vital-middle-cereal-kangaroo-coyote-improve-energy-shove
 bip_39_word_dash_12: tiny-float-castle-vital-middle-cereal-kangaroo-coyote-improve-energy-shove-already
 bip_39_word_dash_2: tiny-float
 bip_39_word_dash_3: tiny-float-castle
-bip_39_word_dash_4: tiny-float-castle-vital
-bip_39_word_dash_5: tiny-float-castle-vital-middle
-bip_39_word_dash_6: tiny-float-castle-vital-middle-cereal
-bip_39_word_dash_7: tiny-float-castle-vital-middle-cereal-kangaroo
-bip_39_word_dash_8: tiny-float-castle-vital-middle-cereal-kangaroo-coyote
-bip_39_word_dash_9: tiny-float-castle-vital-middle-cereal-kangaroo-coyote-improve
-bip_39_word_new_br_1: tiny
-bip_39_word_new_br_10: tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy
-bip_39_word_new_br_11: tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy<br>shove
 bip_39_word_new_br_12: tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve<br>energy<br>shove<br>already
 bip_39_word_new_br_2: tiny<br>float
 bip_39_word_new_br_3: tiny<br>float<br>castle
-bip_39_word_new_br_4: tiny<br>float<br>castle<br>vital
-bip_39_word_new_br_5: tiny<br>float<br>castle<br>vital<br>middle
-bip_39_word_new_br_6: tiny<br>float<br>castle<br>vital<br>middle<br>cereal
-bip_39_word_new_br_7: tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo
-bip_39_word_new_br_8: tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote
-bip_39_word_new_br_9: tiny<br>float<br>castle<br>vital<br>middle<br>cereal<br>kangaroo<br>coyote<br>improve
-bip_39_word_new_line_1: tiny
-bip_39_word_new_line_10: 'tiny
-
-  float
-
-  castle
-
-  vital
-
-  middle
-
-  cereal
-
-  kangaroo
-
-  coyote
-
-  improve
-
-  energy'
-bip_39_word_new_line_11: 'tiny
-
-  float
-
-  castle
-
-  vital
-
-  middle
-
-  cereal
-
-  kangaroo
-
-  coyote
-
-  improve
-
-  energy
-
-  shove'
 bip_39_word_new_line_12: 'tiny
 
   float
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'tiny
   float
 
   castle'
-bip_39_word_new_line_4: 'tiny
-
-  float
-
-  castle
-
-  vital'
-bip_39_word_new_line_5: 'tiny
-
-  float
-
-  castle
-
-  vital
-
-  middle'
-bip_39_word_new_line_6: 'tiny
-
-  float
-
-  castle
-
-  vital
-
-  middle
-
-  cereal'
-bip_39_word_new_line_7: 'tiny
-
-  float
-
-  castle
-
-  vital
-
-  middle
-
-  cereal
-
-  kangaroo'
-bip_39_word_new_line_8: 'tiny
-
-  float
-
-  castle
-
-  vital
-
-  middle
-
-  cereal
-
-  kangaroo
-
-  coyote'
-bip_39_word_new_line_9: 'tiny
-
-  float
-
-  castle
-
-  vital
-
-  middle
-
-  cereal
-
-  kangaroo
-
-  coyote
-
-  improve'
-bip_39_word_no_space_1: tiny
-bip_39_word_no_space_10: tinyfloatcastlevitalmiddlecerealkangaroocoyoteimproveenergy
-bip_39_word_no_space_11: tinyfloatcastlevitalmiddlecerealkangaroocoyoteimproveenergyshove
 bip_39_word_no_space_12: tinyfloatcastlevitalmiddlecerealkangaroocoyoteimproveenergyshovealready
 bip_39_word_no_space_2: tinyfloat
 bip_39_word_no_space_3: tinyfloatcastle
-bip_39_word_no_space_4: tinyfloatcastlevital
-bip_39_word_no_space_5: tinyfloatcastlevitalmiddle
-bip_39_word_no_space_6: tinyfloatcastlevitalmiddlecereal
-bip_39_word_no_space_7: tinyfloatcastlevitalmiddlecerealkangaroo
-bip_39_word_no_space_8: tinyfloatcastlevitalmiddlecerealkangaroocoyote
-bip_39_word_no_space_9: tinyfloatcastlevitalmiddlecerealkangaroocoyoteimprove
-bip_39_word_space_0:
-- tiny
-- float
-- castle
-- vital
-- middle
-- cereal
-- kangaroo
-- coyote
-- improve
-- energy
-- shove
-- already
-bip_39_word_space_1: tiny
-bip_39_word_space_10: tiny float castle vital middle cereal kangaroo coyote improve
-  energy
-bip_39_word_space_11: tiny float castle vital middle cereal kangaroo coyote improve
-  energy shove
 bip_39_word_space_12: tiny float castle vital middle cereal kangaroo coyote improve
   energy shove already
 bip_39_word_space_2: tiny float
 bip_39_word_space_3: tiny float castle
-bip_39_word_space_4: tiny float castle vital
-bip_39_word_space_5: tiny float castle vital middle
-bip_39_word_space_6: tiny float castle vital middle cereal
-bip_39_word_space_7: tiny float castle vital middle cereal kangaroo
-bip_39_word_space_8: tiny float castle vital middle cereal kangaroo coyote
-bip_39_word_space_9: tiny float castle vital middle cereal kangaroo coyote improve
-bip_39_word_underscore_1: tiny
-bip_39_word_underscore_10: tiny_float_castle_vital_middle_cereal_kangaroo_coyote_improve_energy
-bip_39_word_underscore_11: tiny_float_castle_vital_middle_cereal_kangaroo_coyote_improve_energy_shove
 bip_39_word_underscore_12: tiny_float_castle_vital_middle_cereal_kangaroo_coyote_improve_energy_shove_already
 bip_39_word_underscore_2: tiny_float
 bip_39_word_underscore_3: tiny_float_castle
-bip_39_word_underscore_4: tiny_float_castle_vital
-bip_39_word_underscore_5: tiny_float_castle_vital_middle
-bip_39_word_underscore_6: tiny_float_castle_vital_middle_cereal
-bip_39_word_underscore_7: tiny_float_castle_vital_middle_cereal_kangaroo
-bip_39_word_underscore_8: tiny_float_castle_vital_middle_cereal_kangaroo_coyote
-bip_39_word_underscore_9: tiny_float_castle_vital_middle_cereal_kangaroo_coyote_improve
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

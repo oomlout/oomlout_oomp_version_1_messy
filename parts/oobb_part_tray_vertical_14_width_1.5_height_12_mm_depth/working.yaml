@@ -1,68 +1,9 @@
-bip_39_word_dash_1: length
-bip_39_word_dash_10: length-apple-depend-rack-tenant-donor-tobacco-luggage-enjoy-boss
-bip_39_word_dash_11: length-apple-depend-rack-tenant-donor-tobacco-luggage-enjoy-boss-odor
 bip_39_word_dash_12: length-apple-depend-rack-tenant-donor-tobacco-luggage-enjoy-boss-odor-afraid
 bip_39_word_dash_2: length-apple
 bip_39_word_dash_3: length-apple-depend
-bip_39_word_dash_4: length-apple-depend-rack
-bip_39_word_dash_5: length-apple-depend-rack-tenant
-bip_39_word_dash_6: length-apple-depend-rack-tenant-donor
-bip_39_word_dash_7: length-apple-depend-rack-tenant-donor-tobacco
-bip_39_word_dash_8: length-apple-depend-rack-tenant-donor-tobacco-luggage
-bip_39_word_dash_9: length-apple-depend-rack-tenant-donor-tobacco-luggage-enjoy
-bip_39_word_new_br_1: length
-bip_39_word_new_br_10: length<br>apple<br>depend<br>rack<br>tenant<br>donor<br>tobacco<br>luggage<br>enjoy<br>boss
-bip_39_word_new_br_11: length<br>apple<br>depend<br>rack<br>tenant<br>donor<br>tobacco<br>luggage<br>enjoy<br>boss<br>odor
 bip_39_word_new_br_12: length<br>apple<br>depend<br>rack<br>tenant<br>donor<br>tobacco<br>luggage<br>enjoy<br>boss<br>odor<br>afraid
 bip_39_word_new_br_2: length<br>apple
 bip_39_word_new_br_3: length<br>apple<br>depend
-bip_39_word_new_br_4: length<br>apple<br>depend<br>rack
-bip_39_word_new_br_5: length<br>apple<br>depend<br>rack<br>tenant
-bip_39_word_new_br_6: length<br>apple<br>depend<br>rack<br>tenant<br>donor
-bip_39_word_new_br_7: length<br>apple<br>depend<br>rack<br>tenant<br>donor<br>tobacco
-bip_39_word_new_br_8: length<br>apple<br>depend<br>rack<br>tenant<br>donor<br>tobacco<br>luggage
-bip_39_word_new_br_9: length<br>apple<br>depend<br>rack<br>tenant<br>donor<br>tobacco<br>luggage<br>enjoy
-bip_39_word_new_line_1: length
-bip_39_word_new_line_10: 'length
-
-  apple
-
-  depend
-
-  rack
-
-  tenant
-
-  donor
-
-  tobacco
-
-  luggage
-
-  enjoy
-
-  boss'
-bip_39_word_new_line_11: 'length
-
-  apple
-
-  depend
-
-  rack
-
-  tenant
-
-  donor
-
-  tobacco
-
-  luggage
-
-  enjoy
-
-  boss
-
-  odor'
 bip_39_word_new_line_12: 'length
 
   apple
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'length
   apple
 
   depend'
-bip_39_word_new_line_4: 'length
-
-  apple
-
-  depend
-
-  rack'
-bip_39_word_new_line_5: 'length
-
-  apple
-
-  depend
-
-  rack
-
-  tenant'
-bip_39_word_new_line_6: 'length
-
-  apple
-
-  depend
-
-  rack
-
-  tenant
-
-  donor'
-bip_39_word_new_line_7: 'length
-
-  apple
-
-  depend
-
-  rack
-
-  tenant
-
-  donor
-
-  tobacco'
-bip_39_word_new_line_8: 'length
-
-  apple
-
-  depend
-
-  rack
-
-  tenant
-
-  donor
-
-  tobacco
-
-  luggage'
-bip_39_word_new_line_9: 'length
-
-  apple
-
-  depend
-
-  rack
-
-  tenant
-
-  donor
-
-  tobacco
-
-  luggage
-
-  enjoy'
-bip_39_word_no_space_1: length
-bip_39_word_no_space_10: lengthappledependracktenantdonortobaccoluggageenjoyboss
-bip_39_word_no_space_11: lengthappledependracktenantdonortobaccoluggageenjoybossodor
 bip_39_word_no_space_12: lengthappledependracktenantdonortobaccoluggageenjoybossodorafraid
 bip_39_word_no_space_2: lengthapple
 bip_39_word_no_space_3: lengthappledepend
-bip_39_word_no_space_4: lengthappledependrack
-bip_39_word_no_space_5: lengthappledependracktenant
-bip_39_word_no_space_6: lengthappledependracktenantdonor
-bip_39_word_no_space_7: lengthappledependracktenantdonortobacco
-bip_39_word_no_space_8: lengthappledependracktenantdonortobaccoluggage
-bip_39_word_no_space_9: lengthappledependracktenantdonortobaccoluggageenjoy
-bip_39_word_space_0:
-- length
-- apple
-- depend
-- rack
-- tenant
-- donor
-- tobacco
-- luggage
-- enjoy
-- boss
-- odor
-- afraid
-bip_39_word_space_1: length
-bip_39_word_space_10: length apple depend rack tenant donor tobacco luggage enjoy
-  boss
-bip_39_word_space_11: length apple depend rack tenant donor tobacco luggage enjoy
-  boss odor
 bip_39_word_space_12: length apple depend rack tenant donor tobacco luggage enjoy
   boss odor afraid
 bip_39_word_space_2: length apple
 bip_39_word_space_3: length apple depend
-bip_39_word_space_4: length apple depend rack
-bip_39_word_space_5: length apple depend rack tenant
-bip_39_word_space_6: length apple depend rack tenant donor
-bip_39_word_space_7: length apple depend rack tenant donor tobacco
-bip_39_word_space_8: length apple depend rack tenant donor tobacco luggage
-bip_39_word_space_9: length apple depend rack tenant donor tobacco luggage enjoy
-bip_39_word_underscore_1: length
-bip_39_word_underscore_10: length_apple_depend_rack_tenant_donor_tobacco_luggage_enjoy_boss
-bip_39_word_underscore_11: length_apple_depend_rack_tenant_donor_tobacco_luggage_enjoy_boss_odor
 bip_39_word_underscore_12: length_apple_depend_rack_tenant_donor_tobacco_luggage_enjoy_boss_odor_afraid
 bip_39_word_underscore_2: length_apple
 bip_39_word_underscore_3: length_apple_depend
-bip_39_word_underscore_4: length_apple_depend_rack
-bip_39_word_underscore_5: length_apple_depend_rack_tenant
-bip_39_word_underscore_6: length_apple_depend_rack_tenant_donor
-bip_39_word_underscore_7: length_apple_depend_rack_tenant_donor_tobacco
-bip_39_word_underscore_8: length_apple_depend_rack_tenant_donor_tobacco_luggage
-bip_39_word_underscore_9: length_apple_depend_rack_tenant_donor_tobacco_luggage_enjoy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: electric
-bip_39_word_dash_10: electric-rude-permit-brand-arena-salute-egg-repair-federal-chair
-bip_39_word_dash_11: electric-rude-permit-brand-arena-salute-egg-repair-federal-chair-bench
 bip_39_word_dash_12: electric-rude-permit-brand-arena-salute-egg-repair-federal-chair-bench-alley
 bip_39_word_dash_2: electric-rude
 bip_39_word_dash_3: electric-rude-permit
-bip_39_word_dash_4: electric-rude-permit-brand
-bip_39_word_dash_5: electric-rude-permit-brand-arena
-bip_39_word_dash_6: electric-rude-permit-brand-arena-salute
-bip_39_word_dash_7: electric-rude-permit-brand-arena-salute-egg
-bip_39_word_dash_8: electric-rude-permit-brand-arena-salute-egg-repair
-bip_39_word_dash_9: electric-rude-permit-brand-arena-salute-egg-repair-federal
-bip_39_word_new_br_1: electric
-bip_39_word_new_br_10: electric<br>rude<br>permit<br>brand<br>arena<br>salute<br>egg<br>repair<br>federal<br>chair
-bip_39_word_new_br_11: electric<br>rude<br>permit<br>brand<br>arena<br>salute<br>egg<br>repair<br>federal<br>chair<br>bench
 bip_39_word_new_br_12: electric<br>rude<br>permit<br>brand<br>arena<br>salute<br>egg<br>repair<br>federal<br>chair<br>bench<br>alley
 bip_39_word_new_br_2: electric<br>rude
 bip_39_word_new_br_3: electric<br>rude<br>permit
-bip_39_word_new_br_4: electric<br>rude<br>permit<br>brand
-bip_39_word_new_br_5: electric<br>rude<br>permit<br>brand<br>arena
-bip_39_word_new_br_6: electric<br>rude<br>permit<br>brand<br>arena<br>salute
-bip_39_word_new_br_7: electric<br>rude<br>permit<br>brand<br>arena<br>salute<br>egg
-bip_39_word_new_br_8: electric<br>rude<br>permit<br>brand<br>arena<br>salute<br>egg<br>repair
-bip_39_word_new_br_9: electric<br>rude<br>permit<br>brand<br>arena<br>salute<br>egg<br>repair<br>federal
-bip_39_word_new_line_1: electric
-bip_39_word_new_line_10: 'electric
-
-  rude
-
-  permit
-
-  brand
-
-  arena
-
-  salute
-
-  egg
-
-  repair
-
-  federal
-
-  chair'
-bip_39_word_new_line_11: 'electric
-
-  rude
-
-  permit
-
-  brand
-
-  arena
-
-  salute
-
-  egg
-
-  repair
-
-  federal
-
-  chair
-
-  bench'
 bip_39_word_new_line_12: 'electric
 
   rude
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'electric
   rude
 
   permit'
-bip_39_word_new_line_4: 'electric
-
-  rude
-
-  permit
-
-  brand'
-bip_39_word_new_line_5: 'electric
-
-  rude
-
-  permit
-
-  brand
-
-  arena'
-bip_39_word_new_line_6: 'electric
-
-  rude
-
-  permit
-
-  brand
-
-  arena
-
-  salute'
-bip_39_word_new_line_7: 'electric
-
-  rude
-
-  permit
-
-  brand
-
-  arena
-
-  salute
-
-  egg'
-bip_39_word_new_line_8: 'electric
-
-  rude
-
-  permit
-
-  brand
-
-  arena
-
-  salute
-
-  egg
-
-  repair'
-bip_39_word_new_line_9: 'electric
-
-  rude
-
-  permit
-
-  brand
-
-  arena
-
-  salute
-
-  egg
-
-  repair
-
-  federal'
-bip_39_word_no_space_1: electric
-bip_39_word_no_space_10: electricrudepermitbrandarenasaluteeggrepairfederalchair
-bip_39_word_no_space_11: electricrudepermitbrandarenasaluteeggrepairfederalchairbench
 bip_39_word_no_space_12: electricrudepermitbrandarenasaluteeggrepairfederalchairbenchalley
 bip_39_word_no_space_2: electricrude
 bip_39_word_no_space_3: electricrudepermit
-bip_39_word_no_space_4: electricrudepermitbrand
-bip_39_word_no_space_5: electricrudepermitbrandarena
-bip_39_word_no_space_6: electricrudepermitbrandarenasalute
-bip_39_word_no_space_7: electricrudepermitbrandarenasaluteegg
-bip_39_word_no_space_8: electricrudepermitbrandarenasaluteeggrepair
-bip_39_word_no_space_9: electricrudepermitbrandarenasaluteeggrepairfederal
-bip_39_word_space_0:
-- electric
-- rude
-- permit
-- brand
-- arena
-- salute
-- egg
-- repair
-- federal
-- chair
-- bench
-- alley
-bip_39_word_space_1: electric
-bip_39_word_space_10: electric rude permit brand arena salute egg repair federal chair
-bip_39_word_space_11: electric rude permit brand arena salute egg repair federal chair
-  bench
 bip_39_word_space_12: electric rude permit brand arena salute egg repair federal chair
   bench alley
 bip_39_word_space_2: electric rude
 bip_39_word_space_3: electric rude permit
-bip_39_word_space_4: electric rude permit brand
-bip_39_word_space_5: electric rude permit brand arena
-bip_39_word_space_6: electric rude permit brand arena salute
-bip_39_word_space_7: electric rude permit brand arena salute egg
-bip_39_word_space_8: electric rude permit brand arena salute egg repair
-bip_39_word_space_9: electric rude permit brand arena salute egg repair federal
-bip_39_word_underscore_1: electric
-bip_39_word_underscore_10: electric_rude_permit_brand_arena_salute_egg_repair_federal_chair
-bip_39_word_underscore_11: electric_rude_permit_brand_arena_salute_egg_repair_federal_chair_bench
 bip_39_word_underscore_12: electric_rude_permit_brand_arena_salute_egg_repair_federal_chair_bench_alley
 bip_39_word_underscore_2: electric_rude
 bip_39_word_underscore_3: electric_rude_permit
-bip_39_word_underscore_4: electric_rude_permit_brand
-bip_39_word_underscore_5: electric_rude_permit_brand_arena
-bip_39_word_underscore_6: electric_rude_permit_brand_arena_salute
-bip_39_word_underscore_7: electric_rude_permit_brand_arena_salute_egg
-bip_39_word_underscore_8: electric_rude_permit_brand_arena_salute_egg_repair
-bip_39_word_underscore_9: electric_rude_permit_brand_arena_salute_egg_repair_federal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

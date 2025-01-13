@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vocal
-bip_39_word_dash_10: vocal-void-soft-always-story-obey-crazy-jaguar-idle-wagon
-bip_39_word_dash_11: vocal-void-soft-always-story-obey-crazy-jaguar-idle-wagon-rent
 bip_39_word_dash_12: vocal-void-soft-always-story-obey-crazy-jaguar-idle-wagon-rent-actress
 bip_39_word_dash_2: vocal-void
 bip_39_word_dash_3: vocal-void-soft
-bip_39_word_dash_4: vocal-void-soft-always
-bip_39_word_dash_5: vocal-void-soft-always-story
-bip_39_word_dash_6: vocal-void-soft-always-story-obey
-bip_39_word_dash_7: vocal-void-soft-always-story-obey-crazy
-bip_39_word_dash_8: vocal-void-soft-always-story-obey-crazy-jaguar
-bip_39_word_dash_9: vocal-void-soft-always-story-obey-crazy-jaguar-idle
-bip_39_word_new_br_1: vocal
-bip_39_word_new_br_10: vocal<br>void<br>soft<br>always<br>story<br>obey<br>crazy<br>jaguar<br>idle<br>wagon
-bip_39_word_new_br_11: vocal<br>void<br>soft<br>always<br>story<br>obey<br>crazy<br>jaguar<br>idle<br>wagon<br>rent
 bip_39_word_new_br_12: vocal<br>void<br>soft<br>always<br>story<br>obey<br>crazy<br>jaguar<br>idle<br>wagon<br>rent<br>actress
 bip_39_word_new_br_2: vocal<br>void
 bip_39_word_new_br_3: vocal<br>void<br>soft
-bip_39_word_new_br_4: vocal<br>void<br>soft<br>always
-bip_39_word_new_br_5: vocal<br>void<br>soft<br>always<br>story
-bip_39_word_new_br_6: vocal<br>void<br>soft<br>always<br>story<br>obey
-bip_39_word_new_br_7: vocal<br>void<br>soft<br>always<br>story<br>obey<br>crazy
-bip_39_word_new_br_8: vocal<br>void<br>soft<br>always<br>story<br>obey<br>crazy<br>jaguar
-bip_39_word_new_br_9: vocal<br>void<br>soft<br>always<br>story<br>obey<br>crazy<br>jaguar<br>idle
-bip_39_word_new_line_1: vocal
-bip_39_word_new_line_10: 'vocal
-
-  void
-
-  soft
-
-  always
-
-  story
-
-  obey
-
-  crazy
-
-  jaguar
-
-  idle
-
-  wagon'
-bip_39_word_new_line_11: 'vocal
-
-  void
-
-  soft
-
-  always
-
-  story
-
-  obey
-
-  crazy
-
-  jaguar
-
-  idle
-
-  wagon
-
-  rent'
 bip_39_word_new_line_12: 'vocal
 
   void
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'vocal
   void
 
   soft'
-bip_39_word_new_line_4: 'vocal
-
-  void
-
-  soft
-
-  always'
-bip_39_word_new_line_5: 'vocal
-
-  void
-
-  soft
-
-  always
-
-  story'
-bip_39_word_new_line_6: 'vocal
-
-  void
-
-  soft
-
-  always
-
-  story
-
-  obey'
-bip_39_word_new_line_7: 'vocal
-
-  void
-
-  soft
-
-  always
-
-  story
-
-  obey
-
-  crazy'
-bip_39_word_new_line_8: 'vocal
-
-  void
-
-  soft
-
-  always
-
-  story
-
-  obey
-
-  crazy
-
-  jaguar'
-bip_39_word_new_line_9: 'vocal
-
-  void
-
-  soft
-
-  always
-
-  story
-
-  obey
-
-  crazy
-
-  jaguar
-
-  idle'
-bip_39_word_no_space_1: vocal
-bip_39_word_no_space_10: vocalvoidsoftalwaysstoryobeycrazyjaguaridlewagon
-bip_39_word_no_space_11: vocalvoidsoftalwaysstoryobeycrazyjaguaridlewagonrent
 bip_39_word_no_space_12: vocalvoidsoftalwaysstoryobeycrazyjaguaridlewagonrentactress
 bip_39_word_no_space_2: vocalvoid
 bip_39_word_no_space_3: vocalvoidsoft
-bip_39_word_no_space_4: vocalvoidsoftalways
-bip_39_word_no_space_5: vocalvoidsoftalwaysstory
-bip_39_word_no_space_6: vocalvoidsoftalwaysstoryobey
-bip_39_word_no_space_7: vocalvoidsoftalwaysstoryobeycrazy
-bip_39_word_no_space_8: vocalvoidsoftalwaysstoryobeycrazyjaguar
-bip_39_word_no_space_9: vocalvoidsoftalwaysstoryobeycrazyjaguaridle
-bip_39_word_space_0:
-- vocal
-- void
-- soft
-- always
-- story
-- obey
-- crazy
-- jaguar
-- idle
-- wagon
-- rent
-- actress
-bip_39_word_space_1: vocal
-bip_39_word_space_10: vocal void soft always story obey crazy jaguar idle wagon
-bip_39_word_space_11: vocal void soft always story obey crazy jaguar idle wagon rent
 bip_39_word_space_12: vocal void soft always story obey crazy jaguar idle wagon rent
   actress
 bip_39_word_space_2: vocal void
 bip_39_word_space_3: vocal void soft
-bip_39_word_space_4: vocal void soft always
-bip_39_word_space_5: vocal void soft always story
-bip_39_word_space_6: vocal void soft always story obey
-bip_39_word_space_7: vocal void soft always story obey crazy
-bip_39_word_space_8: vocal void soft always story obey crazy jaguar
-bip_39_word_space_9: vocal void soft always story obey crazy jaguar idle
-bip_39_word_underscore_1: vocal
-bip_39_word_underscore_10: vocal_void_soft_always_story_obey_crazy_jaguar_idle_wagon
-bip_39_word_underscore_11: vocal_void_soft_always_story_obey_crazy_jaguar_idle_wagon_rent
 bip_39_word_underscore_12: vocal_void_soft_always_story_obey_crazy_jaguar_idle_wagon_rent_actress
 bip_39_word_underscore_2: vocal_void
 bip_39_word_underscore_3: vocal_void_soft
-bip_39_word_underscore_4: vocal_void_soft_always
-bip_39_word_underscore_5: vocal_void_soft_always_story
-bip_39_word_underscore_6: vocal_void_soft_always_story_obey
-bip_39_word_underscore_7: vocal_void_soft_always_story_obey_crazy
-bip_39_word_underscore_8: vocal_void_soft_always_story_obey_crazy_jaguar
-bip_39_word_underscore_9: vocal_void_soft_always_story_obey_crazy_jaguar_idle
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

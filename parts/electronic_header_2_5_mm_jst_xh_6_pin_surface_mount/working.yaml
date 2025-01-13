@@ -1,68 +1,9 @@
-bip_39_word_dash_1: raise
-bip_39_word_dash_10: raise-climb-over-print-wagon-effort-fiscal-bag-govern-fuel
-bip_39_word_dash_11: raise-climb-over-print-wagon-effort-fiscal-bag-govern-fuel-harsh
 bip_39_word_dash_12: raise-climb-over-print-wagon-effort-fiscal-bag-govern-fuel-harsh-average
 bip_39_word_dash_2: raise-climb
 bip_39_word_dash_3: raise-climb-over
-bip_39_word_dash_4: raise-climb-over-print
-bip_39_word_dash_5: raise-climb-over-print-wagon
-bip_39_word_dash_6: raise-climb-over-print-wagon-effort
-bip_39_word_dash_7: raise-climb-over-print-wagon-effort-fiscal
-bip_39_word_dash_8: raise-climb-over-print-wagon-effort-fiscal-bag
-bip_39_word_dash_9: raise-climb-over-print-wagon-effort-fiscal-bag-govern
-bip_39_word_new_br_1: raise
-bip_39_word_new_br_10: raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern<br>fuel
-bip_39_word_new_br_11: raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern<br>fuel<br>harsh
 bip_39_word_new_br_12: raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern<br>fuel<br>harsh<br>average
 bip_39_word_new_br_2: raise<br>climb
 bip_39_word_new_br_3: raise<br>climb<br>over
-bip_39_word_new_br_4: raise<br>climb<br>over<br>print
-bip_39_word_new_br_5: raise<br>climb<br>over<br>print<br>wagon
-bip_39_word_new_br_6: raise<br>climb<br>over<br>print<br>wagon<br>effort
-bip_39_word_new_br_7: raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal
-bip_39_word_new_br_8: raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag
-bip_39_word_new_br_9: raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern
-bip_39_word_new_line_1: raise
-bip_39_word_new_line_10: 'raise
-
-  climb
-
-  over
-
-  print
-
-  wagon
-
-  effort
-
-  fiscal
-
-  bag
-
-  govern
-
-  fuel'
-bip_39_word_new_line_11: 'raise
-
-  climb
-
-  over
-
-  print
-
-  wagon
-
-  effort
-
-  fiscal
-
-  bag
-
-  govern
-
-  fuel
-
-  harsh'
 bip_39_word_new_line_12: 'raise
 
   climb
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'raise
   climb
 
   over'
-bip_39_word_new_line_4: 'raise
-
-  climb
-
-  over
-
-  print'
-bip_39_word_new_line_5: 'raise
-
-  climb
-
-  over
-
-  print
-
-  wagon'
-bip_39_word_new_line_6: 'raise
-
-  climb
-
-  over
-
-  print
-
-  wagon
-
-  effort'
-bip_39_word_new_line_7: 'raise
-
-  climb
-
-  over
-
-  print
-
-  wagon
-
-  effort
-
-  fiscal'
-bip_39_word_new_line_8: 'raise
-
-  climb
-
-  over
-
-  print
-
-  wagon
-
-  effort
-
-  fiscal
-
-  bag'
-bip_39_word_new_line_9: 'raise
-
-  climb
-
-  over
-
-  print
-
-  wagon
-
-  effort
-
-  fiscal
-
-  bag
-
-  govern'
-bip_39_word_no_space_1: raise
-bip_39_word_no_space_10: raiseclimboverprintwagoneffortfiscalbaggovernfuel
-bip_39_word_no_space_11: raiseclimboverprintwagoneffortfiscalbaggovernfuelharsh
 bip_39_word_no_space_12: raiseclimboverprintwagoneffortfiscalbaggovernfuelharshaverage
 bip_39_word_no_space_2: raiseclimb
 bip_39_word_no_space_3: raiseclimbover
-bip_39_word_no_space_4: raiseclimboverprint
-bip_39_word_no_space_5: raiseclimboverprintwagon
-bip_39_word_no_space_6: raiseclimboverprintwagoneffort
-bip_39_word_no_space_7: raiseclimboverprintwagoneffortfiscal
-bip_39_word_no_space_8: raiseclimboverprintwagoneffortfiscalbag
-bip_39_word_no_space_9: raiseclimboverprintwagoneffortfiscalbaggovern
-bip_39_word_space_0:
-- raise
-- climb
-- over
-- print
-- wagon
-- effort
-- fiscal
-- bag
-- govern
-- fuel
-- harsh
-- average
-bip_39_word_space_1: raise
-bip_39_word_space_10: raise climb over print wagon effort fiscal bag govern fuel
-bip_39_word_space_11: raise climb over print wagon effort fiscal bag govern fuel harsh
 bip_39_word_space_12: raise climb over print wagon effort fiscal bag govern fuel harsh
   average
 bip_39_word_space_2: raise climb
 bip_39_word_space_3: raise climb over
-bip_39_word_space_4: raise climb over print
-bip_39_word_space_5: raise climb over print wagon
-bip_39_word_space_6: raise climb over print wagon effort
-bip_39_word_space_7: raise climb over print wagon effort fiscal
-bip_39_word_space_8: raise climb over print wagon effort fiscal bag
-bip_39_word_space_9: raise climb over print wagon effort fiscal bag govern
-bip_39_word_underscore_1: raise
-bip_39_word_underscore_10: raise_climb_over_print_wagon_effort_fiscal_bag_govern_fuel
-bip_39_word_underscore_11: raise_climb_over_print_wagon_effort_fiscal_bag_govern_fuel_harsh
 bip_39_word_underscore_12: raise_climb_over_print_wagon_effort_fiscal_bag_govern_fuel_harsh_average
 bip_39_word_underscore_2: raise_climb
 bip_39_word_underscore_3: raise_climb_over
-bip_39_word_underscore_4: raise_climb_over_print
-bip_39_word_underscore_5: raise_climb_over_print_wagon
-bip_39_word_underscore_6: raise_climb_over_print_wagon_effort
-bip_39_word_underscore_7: raise_climb_over_print_wagon_effort_fiscal
-bip_39_word_underscore_8: raise_climb_over_print_wagon_effort_fiscal_bag
-bip_39_word_underscore_9: raise_climb_over_print_wagon_effort_fiscal_bag_govern
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: weasel
-bip_39_word_dash_10: weasel-steak-stadium-embody-poet-satisfy-together-close-pact-bench
-bip_39_word_dash_11: weasel-steak-stadium-embody-poet-satisfy-together-close-pact-bench-permit
 bip_39_word_dash_12: weasel-steak-stadium-embody-poet-satisfy-together-close-pact-bench-permit-antenna
 bip_39_word_dash_2: weasel-steak
 bip_39_word_dash_3: weasel-steak-stadium
-bip_39_word_dash_4: weasel-steak-stadium-embody
-bip_39_word_dash_5: weasel-steak-stadium-embody-poet
-bip_39_word_dash_6: weasel-steak-stadium-embody-poet-satisfy
-bip_39_word_dash_7: weasel-steak-stadium-embody-poet-satisfy-together
-bip_39_word_dash_8: weasel-steak-stadium-embody-poet-satisfy-together-close
-bip_39_word_dash_9: weasel-steak-stadium-embody-poet-satisfy-together-close-pact
-bip_39_word_new_br_1: weasel
-bip_39_word_new_br_10: weasel<br>steak<br>stadium<br>embody<br>poet<br>satisfy<br>together<br>close<br>pact<br>bench
-bip_39_word_new_br_11: weasel<br>steak<br>stadium<br>embody<br>poet<br>satisfy<br>together<br>close<br>pact<br>bench<br>permit
 bip_39_word_new_br_12: weasel<br>steak<br>stadium<br>embody<br>poet<br>satisfy<br>together<br>close<br>pact<br>bench<br>permit<br>antenna
 bip_39_word_new_br_2: weasel<br>steak
 bip_39_word_new_br_3: weasel<br>steak<br>stadium
-bip_39_word_new_br_4: weasel<br>steak<br>stadium<br>embody
-bip_39_word_new_br_5: weasel<br>steak<br>stadium<br>embody<br>poet
-bip_39_word_new_br_6: weasel<br>steak<br>stadium<br>embody<br>poet<br>satisfy
-bip_39_word_new_br_7: weasel<br>steak<br>stadium<br>embody<br>poet<br>satisfy<br>together
-bip_39_word_new_br_8: weasel<br>steak<br>stadium<br>embody<br>poet<br>satisfy<br>together<br>close
-bip_39_word_new_br_9: weasel<br>steak<br>stadium<br>embody<br>poet<br>satisfy<br>together<br>close<br>pact
-bip_39_word_new_line_1: weasel
-bip_39_word_new_line_10: 'weasel
-
-  steak
-
-  stadium
-
-  embody
-
-  poet
-
-  satisfy
-
-  together
-
-  close
-
-  pact
-
-  bench'
-bip_39_word_new_line_11: 'weasel
-
-  steak
-
-  stadium
-
-  embody
-
-  poet
-
-  satisfy
-
-  together
-
-  close
-
-  pact
-
-  bench
-
-  permit'
 bip_39_word_new_line_12: 'weasel
 
   steak
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'weasel
   steak
 
   stadium'
-bip_39_word_new_line_4: 'weasel
-
-  steak
-
-  stadium
-
-  embody'
-bip_39_word_new_line_5: 'weasel
-
-  steak
-
-  stadium
-
-  embody
-
-  poet'
-bip_39_word_new_line_6: 'weasel
-
-  steak
-
-  stadium
-
-  embody
-
-  poet
-
-  satisfy'
-bip_39_word_new_line_7: 'weasel
-
-  steak
-
-  stadium
-
-  embody
-
-  poet
-
-  satisfy
-
-  together'
-bip_39_word_new_line_8: 'weasel
-
-  steak
-
-  stadium
-
-  embody
-
-  poet
-
-  satisfy
-
-  together
-
-  close'
-bip_39_word_new_line_9: 'weasel
-
-  steak
-
-  stadium
-
-  embody
-
-  poet
-
-  satisfy
-
-  together
-
-  close
-
-  pact'
-bip_39_word_no_space_1: weasel
-bip_39_word_no_space_10: weaselsteakstadiumembodypoetsatisfytogetherclosepactbench
-bip_39_word_no_space_11: weaselsteakstadiumembodypoetsatisfytogetherclosepactbenchpermit
 bip_39_word_no_space_12: weaselsteakstadiumembodypoetsatisfytogetherclosepactbenchpermitantenna
 bip_39_word_no_space_2: weaselsteak
 bip_39_word_no_space_3: weaselsteakstadium
-bip_39_word_no_space_4: weaselsteakstadiumembody
-bip_39_word_no_space_5: weaselsteakstadiumembodypoet
-bip_39_word_no_space_6: weaselsteakstadiumembodypoetsatisfy
-bip_39_word_no_space_7: weaselsteakstadiumembodypoetsatisfytogether
-bip_39_word_no_space_8: weaselsteakstadiumembodypoetsatisfytogetherclose
-bip_39_word_no_space_9: weaselsteakstadiumembodypoetsatisfytogetherclosepact
-bip_39_word_space_0:
-- weasel
-- steak
-- stadium
-- embody
-- poet
-- satisfy
-- together
-- close
-- pact
-- bench
-- permit
-- antenna
-bip_39_word_space_1: weasel
-bip_39_word_space_10: weasel steak stadium embody poet satisfy together close pact
-  bench
-bip_39_word_space_11: weasel steak stadium embody poet satisfy together close pact
-  bench permit
 bip_39_word_space_12: weasel steak stadium embody poet satisfy together close pact
   bench permit antenna
 bip_39_word_space_2: weasel steak
 bip_39_word_space_3: weasel steak stadium
-bip_39_word_space_4: weasel steak stadium embody
-bip_39_word_space_5: weasel steak stadium embody poet
-bip_39_word_space_6: weasel steak stadium embody poet satisfy
-bip_39_word_space_7: weasel steak stadium embody poet satisfy together
-bip_39_word_space_8: weasel steak stadium embody poet satisfy together close
-bip_39_word_space_9: weasel steak stadium embody poet satisfy together close pact
-bip_39_word_underscore_1: weasel
-bip_39_word_underscore_10: weasel_steak_stadium_embody_poet_satisfy_together_close_pact_bench
-bip_39_word_underscore_11: weasel_steak_stadium_embody_poet_satisfy_together_close_pact_bench_permit
 bip_39_word_underscore_12: weasel_steak_stadium_embody_poet_satisfy_together_close_pact_bench_permit_antenna
 bip_39_word_underscore_2: weasel_steak
 bip_39_word_underscore_3: weasel_steak_stadium
-bip_39_word_underscore_4: weasel_steak_stadium_embody
-bip_39_word_underscore_5: weasel_steak_stadium_embody_poet
-bip_39_word_underscore_6: weasel_steak_stadium_embody_poet_satisfy
-bip_39_word_underscore_7: weasel_steak_stadium_embody_poet_satisfy_together
-bip_39_word_underscore_8: weasel_steak_stadium_embody_poet_satisfy_together_close
-bip_39_word_underscore_9: weasel_steak_stadium_embody_poet_satisfy_together_close_pact
 classification: food
 classification_capital: Food
 classification_first_letter: f

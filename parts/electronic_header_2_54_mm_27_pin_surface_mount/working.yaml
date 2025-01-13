@@ -1,68 +1,9 @@
-bip_39_word_dash_1: noise
-bip_39_word_dash_10: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge
-bip_39_word_dash_11: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge-nest
 bip_39_word_dash_12: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge-nest-amateur
 bip_39_word_dash_2: noise-region
 bip_39_word_dash_3: noise-region-alpha
-bip_39_word_dash_4: noise-region-alpha-soul
-bip_39_word_dash_5: noise-region-alpha-soul-sand
-bip_39_word_dash_6: noise-region-alpha-soul-sand-around
-bip_39_word_dash_7: noise-region-alpha-soul-sand-around-lonely
-bip_39_word_dash_8: noise-region-alpha-soul-sand-around-lonely-climb
-bip_39_word_dash_9: noise-region-alpha-soul-sand-around-lonely-climb-fold
-bip_39_word_new_br_1: noise
-bip_39_word_new_br_10: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge
-bip_39_word_new_br_11: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge<br>nest
 bip_39_word_new_br_12: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge<br>nest<br>amateur
 bip_39_word_new_br_2: noise<br>region
 bip_39_word_new_br_3: noise<br>region<br>alpha
-bip_39_word_new_br_4: noise<br>region<br>alpha<br>soul
-bip_39_word_new_br_5: noise<br>region<br>alpha<br>soul<br>sand
-bip_39_word_new_br_6: noise<br>region<br>alpha<br>soul<br>sand<br>around
-bip_39_word_new_br_7: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely
-bip_39_word_new_br_8: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb
-bip_39_word_new_br_9: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold
-bip_39_word_new_line_1: noise
-bip_39_word_new_line_10: 'noise
-
-  region
-
-  alpha
-
-  soul
-
-  sand
-
-  around
-
-  lonely
-
-  climb
-
-  fold
-
-  edge'
-bip_39_word_new_line_11: 'noise
-
-  region
-
-  alpha
-
-  soul
-
-  sand
-
-  around
-
-  lonely
-
-  climb
-
-  fold
-
-  edge
-
-  nest'
 bip_39_word_new_line_12: 'noise
 
   region
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'noise
   region
 
   alpha'
-bip_39_word_new_line_4: 'noise
-
-  region
-
-  alpha
-
-  soul'
-bip_39_word_new_line_5: 'noise
-
-  region
-
-  alpha
-
-  soul
-
-  sand'
-bip_39_word_new_line_6: 'noise
-
-  region
-
-  alpha
-
-  soul
-
-  sand
-
-  around'
-bip_39_word_new_line_7: 'noise
-
-  region
-
-  alpha
-
-  soul
-
-  sand
-
-  around
-
-  lonely'
-bip_39_word_new_line_8: 'noise
-
-  region
-
-  alpha
-
-  soul
-
-  sand
-
-  around
-
-  lonely
-
-  climb'
-bip_39_word_new_line_9: 'noise
-
-  region
-
-  alpha
-
-  soul
-
-  sand
-
-  around
-
-  lonely
-
-  climb
-
-  fold'
-bip_39_word_no_space_1: noise
-bip_39_word_no_space_10: noiseregionalphasoulsandaroundlonelyclimbfoldedge
-bip_39_word_no_space_11: noiseregionalphasoulsandaroundlonelyclimbfoldedgenest
 bip_39_word_no_space_12: noiseregionalphasoulsandaroundlonelyclimbfoldedgenestamateur
 bip_39_word_no_space_2: noiseregion
 bip_39_word_no_space_3: noiseregionalpha
-bip_39_word_no_space_4: noiseregionalphasoul
-bip_39_word_no_space_5: noiseregionalphasoulsand
-bip_39_word_no_space_6: noiseregionalphasoulsandaround
-bip_39_word_no_space_7: noiseregionalphasoulsandaroundlonely
-bip_39_word_no_space_8: noiseregionalphasoulsandaroundlonelyclimb
-bip_39_word_no_space_9: noiseregionalphasoulsandaroundlonelyclimbfold
-bip_39_word_space_0:
-- noise
-- region
-- alpha
-- soul
-- sand
-- around
-- lonely
-- climb
-- fold
-- edge
-- nest
-- amateur
-bip_39_word_space_1: noise
-bip_39_word_space_10: noise region alpha soul sand around lonely climb fold edge
-bip_39_word_space_11: noise region alpha soul sand around lonely climb fold edge nest
 bip_39_word_space_12: noise region alpha soul sand around lonely climb fold edge nest
   amateur
 bip_39_word_space_2: noise region
 bip_39_word_space_3: noise region alpha
-bip_39_word_space_4: noise region alpha soul
-bip_39_word_space_5: noise region alpha soul sand
-bip_39_word_space_6: noise region alpha soul sand around
-bip_39_word_space_7: noise region alpha soul sand around lonely
-bip_39_word_space_8: noise region alpha soul sand around lonely climb
-bip_39_word_space_9: noise region alpha soul sand around lonely climb fold
-bip_39_word_underscore_1: noise
-bip_39_word_underscore_10: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge
-bip_39_word_underscore_11: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge_nest
 bip_39_word_underscore_12: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge_nest_amateur
 bip_39_word_underscore_2: noise_region
 bip_39_word_underscore_3: noise_region_alpha
-bip_39_word_underscore_4: noise_region_alpha_soul
-bip_39_word_underscore_5: noise_region_alpha_soul_sand
-bip_39_word_underscore_6: noise_region_alpha_soul_sand_around
-bip_39_word_underscore_7: noise_region_alpha_soul_sand_around_lonely
-bip_39_word_underscore_8: noise_region_alpha_soul_sand_around_lonely_climb
-bip_39_word_underscore_9: noise_region_alpha_soul_sand_around_lonely_climb_fold
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

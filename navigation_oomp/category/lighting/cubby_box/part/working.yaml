@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tuna
-bip_39_word_dash_10: tuna-diary-grit-muffin-need-access-aim-jungle-gold-dawn
-bip_39_word_dash_11: tuna-diary-grit-muffin-need-access-aim-jungle-gold-dawn-trend
 bip_39_word_dash_12: tuna-diary-grit-muffin-need-access-aim-jungle-gold-dawn-trend-another
 bip_39_word_dash_2: tuna-diary
 bip_39_word_dash_3: tuna-diary-grit
-bip_39_word_dash_4: tuna-diary-grit-muffin
-bip_39_word_dash_5: tuna-diary-grit-muffin-need
-bip_39_word_dash_6: tuna-diary-grit-muffin-need-access
-bip_39_word_dash_7: tuna-diary-grit-muffin-need-access-aim
-bip_39_word_dash_8: tuna-diary-grit-muffin-need-access-aim-jungle
-bip_39_word_dash_9: tuna-diary-grit-muffin-need-access-aim-jungle-gold
-bip_39_word_new_br_1: tuna
-bip_39_word_new_br_10: tuna<br>diary<br>grit<br>muffin<br>need<br>access<br>aim<br>jungle<br>gold<br>dawn
-bip_39_word_new_br_11: tuna<br>diary<br>grit<br>muffin<br>need<br>access<br>aim<br>jungle<br>gold<br>dawn<br>trend
 bip_39_word_new_br_12: tuna<br>diary<br>grit<br>muffin<br>need<br>access<br>aim<br>jungle<br>gold<br>dawn<br>trend<br>another
 bip_39_word_new_br_2: tuna<br>diary
 bip_39_word_new_br_3: tuna<br>diary<br>grit
-bip_39_word_new_br_4: tuna<br>diary<br>grit<br>muffin
-bip_39_word_new_br_5: tuna<br>diary<br>grit<br>muffin<br>need
-bip_39_word_new_br_6: tuna<br>diary<br>grit<br>muffin<br>need<br>access
-bip_39_word_new_br_7: tuna<br>diary<br>grit<br>muffin<br>need<br>access<br>aim
-bip_39_word_new_br_8: tuna<br>diary<br>grit<br>muffin<br>need<br>access<br>aim<br>jungle
-bip_39_word_new_br_9: tuna<br>diary<br>grit<br>muffin<br>need<br>access<br>aim<br>jungle<br>gold
-bip_39_word_new_line_1: tuna
-bip_39_word_new_line_10: 'tuna
-
-  diary
-
-  grit
-
-  muffin
-
-  need
-
-  access
-
-  aim
-
-  jungle
-
-  gold
-
-  dawn'
-bip_39_word_new_line_11: 'tuna
-
-  diary
-
-  grit
-
-  muffin
-
-  need
-
-  access
-
-  aim
-
-  jungle
-
-  gold
-
-  dawn
-
-  trend'
 bip_39_word_new_line_12: 'tuna
 
   diary
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'tuna
   diary
 
   grit'
-bip_39_word_new_line_4: 'tuna
-
-  diary
-
-  grit
-
-  muffin'
-bip_39_word_new_line_5: 'tuna
-
-  diary
-
-  grit
-
-  muffin
-
-  need'
-bip_39_word_new_line_6: 'tuna
-
-  diary
-
-  grit
-
-  muffin
-
-  need
-
-  access'
-bip_39_word_new_line_7: 'tuna
-
-  diary
-
-  grit
-
-  muffin
-
-  need
-
-  access
-
-  aim'
-bip_39_word_new_line_8: 'tuna
-
-  diary
-
-  grit
-
-  muffin
-
-  need
-
-  access
-
-  aim
-
-  jungle'
-bip_39_word_new_line_9: 'tuna
-
-  diary
-
-  grit
-
-  muffin
-
-  need
-
-  access
-
-  aim
-
-  jungle
-
-  gold'
-bip_39_word_no_space_1: tuna
-bip_39_word_no_space_10: tunadiarygritmuffinneedaccessaimjunglegolddawn
-bip_39_word_no_space_11: tunadiarygritmuffinneedaccessaimjunglegolddawntrend
 bip_39_word_no_space_12: tunadiarygritmuffinneedaccessaimjunglegolddawntrendanother
 bip_39_word_no_space_2: tunadiary
 bip_39_word_no_space_3: tunadiarygrit
-bip_39_word_no_space_4: tunadiarygritmuffin
-bip_39_word_no_space_5: tunadiarygritmuffinneed
-bip_39_word_no_space_6: tunadiarygritmuffinneedaccess
-bip_39_word_no_space_7: tunadiarygritmuffinneedaccessaim
-bip_39_word_no_space_8: tunadiarygritmuffinneedaccessaimjungle
-bip_39_word_no_space_9: tunadiarygritmuffinneedaccessaimjunglegold
-bip_39_word_space_0:
-- tuna
-- diary
-- grit
-- muffin
-- need
-- access
-- aim
-- jungle
-- gold
-- dawn
-- trend
-- another
-bip_39_word_space_1: tuna
-bip_39_word_space_10: tuna diary grit muffin need access aim jungle gold dawn
-bip_39_word_space_11: tuna diary grit muffin need access aim jungle gold dawn trend
 bip_39_word_space_12: tuna diary grit muffin need access aim jungle gold dawn trend
   another
 bip_39_word_space_2: tuna diary
 bip_39_word_space_3: tuna diary grit
-bip_39_word_space_4: tuna diary grit muffin
-bip_39_word_space_5: tuna diary grit muffin need
-bip_39_word_space_6: tuna diary grit muffin need access
-bip_39_word_space_7: tuna diary grit muffin need access aim
-bip_39_word_space_8: tuna diary grit muffin need access aim jungle
-bip_39_word_space_9: tuna diary grit muffin need access aim jungle gold
-bip_39_word_underscore_1: tuna
-bip_39_word_underscore_10: tuna_diary_grit_muffin_need_access_aim_jungle_gold_dawn
-bip_39_word_underscore_11: tuna_diary_grit_muffin_need_access_aim_jungle_gold_dawn_trend
 bip_39_word_underscore_12: tuna_diary_grit_muffin_need_access_aim_jungle_gold_dawn_trend_another
 bip_39_word_underscore_2: tuna_diary
 bip_39_word_underscore_3: tuna_diary_grit
-bip_39_word_underscore_4: tuna_diary_grit_muffin
-bip_39_word_underscore_5: tuna_diary_grit_muffin_need
-bip_39_word_underscore_6: tuna_diary_grit_muffin_need_access
-bip_39_word_underscore_7: tuna_diary_grit_muffin_need_access_aim
-bip_39_word_underscore_8: tuna_diary_grit_muffin_need_access_aim_jungle
-bip_39_word_underscore_9: tuna_diary_grit_muffin_need_access_aim_jungle_gold
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dice
-bip_39_word_dash_10: dice-green-action-wall-rain-rather-clump-together-equal-sleep
-bip_39_word_dash_11: dice-green-action-wall-rain-rather-clump-together-equal-sleep-happy
 bip_39_word_dash_12: dice-green-action-wall-rain-rather-clump-together-equal-sleep-happy-arch
 bip_39_word_dash_2: dice-green
 bip_39_word_dash_3: dice-green-action
-bip_39_word_dash_4: dice-green-action-wall
-bip_39_word_dash_5: dice-green-action-wall-rain
-bip_39_word_dash_6: dice-green-action-wall-rain-rather
-bip_39_word_dash_7: dice-green-action-wall-rain-rather-clump
-bip_39_word_dash_8: dice-green-action-wall-rain-rather-clump-together
-bip_39_word_dash_9: dice-green-action-wall-rain-rather-clump-together-equal
-bip_39_word_new_br_1: dice
-bip_39_word_new_br_10: dice<br>green<br>action<br>wall<br>rain<br>rather<br>clump<br>together<br>equal<br>sleep
-bip_39_word_new_br_11: dice<br>green<br>action<br>wall<br>rain<br>rather<br>clump<br>together<br>equal<br>sleep<br>happy
 bip_39_word_new_br_12: dice<br>green<br>action<br>wall<br>rain<br>rather<br>clump<br>together<br>equal<br>sleep<br>happy<br>arch
 bip_39_word_new_br_2: dice<br>green
 bip_39_word_new_br_3: dice<br>green<br>action
-bip_39_word_new_br_4: dice<br>green<br>action<br>wall
-bip_39_word_new_br_5: dice<br>green<br>action<br>wall<br>rain
-bip_39_word_new_br_6: dice<br>green<br>action<br>wall<br>rain<br>rather
-bip_39_word_new_br_7: dice<br>green<br>action<br>wall<br>rain<br>rather<br>clump
-bip_39_word_new_br_8: dice<br>green<br>action<br>wall<br>rain<br>rather<br>clump<br>together
-bip_39_word_new_br_9: dice<br>green<br>action<br>wall<br>rain<br>rather<br>clump<br>together<br>equal
-bip_39_word_new_line_1: dice
-bip_39_word_new_line_10: 'dice
-
-  green
-
-  action
-
-  wall
-
-  rain
-
-  rather
-
-  clump
-
-  together
-
-  equal
-
-  sleep'
-bip_39_word_new_line_11: 'dice
-
-  green
-
-  action
-
-  wall
-
-  rain
-
-  rather
-
-  clump
-
-  together
-
-  equal
-
-  sleep
-
-  happy'
 bip_39_word_new_line_12: 'dice
 
   green
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dice
   green
 
   action'
-bip_39_word_new_line_4: 'dice
-
-  green
-
-  action
-
-  wall'
-bip_39_word_new_line_5: 'dice
-
-  green
-
-  action
-
-  wall
-
-  rain'
-bip_39_word_new_line_6: 'dice
-
-  green
-
-  action
-
-  wall
-
-  rain
-
-  rather'
-bip_39_word_new_line_7: 'dice
-
-  green
-
-  action
-
-  wall
-
-  rain
-
-  rather
-
-  clump'
-bip_39_word_new_line_8: 'dice
-
-  green
-
-  action
-
-  wall
-
-  rain
-
-  rather
-
-  clump
-
-  together'
-bip_39_word_new_line_9: 'dice
-
-  green
-
-  action
-
-  wall
-
-  rain
-
-  rather
-
-  clump
-
-  together
-
-  equal'
-bip_39_word_no_space_1: dice
-bip_39_word_no_space_10: dicegreenactionwallrainratherclumptogetherequalsleep
-bip_39_word_no_space_11: dicegreenactionwallrainratherclumptogetherequalsleephappy
 bip_39_word_no_space_12: dicegreenactionwallrainratherclumptogetherequalsleephappyarch
 bip_39_word_no_space_2: dicegreen
 bip_39_word_no_space_3: dicegreenaction
-bip_39_word_no_space_4: dicegreenactionwall
-bip_39_word_no_space_5: dicegreenactionwallrain
-bip_39_word_no_space_6: dicegreenactionwallrainrather
-bip_39_word_no_space_7: dicegreenactionwallrainratherclump
-bip_39_word_no_space_8: dicegreenactionwallrainratherclumptogether
-bip_39_word_no_space_9: dicegreenactionwallrainratherclumptogetherequal
-bip_39_word_space_0:
-- dice
-- green
-- action
-- wall
-- rain
-- rather
-- clump
-- together
-- equal
-- sleep
-- happy
-- arch
-bip_39_word_space_1: dice
-bip_39_word_space_10: dice green action wall rain rather clump together equal sleep
-bip_39_word_space_11: dice green action wall rain rather clump together equal sleep
-  happy
 bip_39_word_space_12: dice green action wall rain rather clump together equal sleep
   happy arch
 bip_39_word_space_2: dice green
 bip_39_word_space_3: dice green action
-bip_39_word_space_4: dice green action wall
-bip_39_word_space_5: dice green action wall rain
-bip_39_word_space_6: dice green action wall rain rather
-bip_39_word_space_7: dice green action wall rain rather clump
-bip_39_word_space_8: dice green action wall rain rather clump together
-bip_39_word_space_9: dice green action wall rain rather clump together equal
-bip_39_word_underscore_1: dice
-bip_39_word_underscore_10: dice_green_action_wall_rain_rather_clump_together_equal_sleep
-bip_39_word_underscore_11: dice_green_action_wall_rain_rather_clump_together_equal_sleep_happy
 bip_39_word_underscore_12: dice_green_action_wall_rain_rather_clump_together_equal_sleep_happy_arch
 bip_39_word_underscore_2: dice_green
 bip_39_word_underscore_3: dice_green_action
-bip_39_word_underscore_4: dice_green_action_wall
-bip_39_word_underscore_5: dice_green_action_wall_rain
-bip_39_word_underscore_6: dice_green_action_wall_rain_rather
-bip_39_word_underscore_7: dice_green_action_wall_rain_rather_clump
-bip_39_word_underscore_8: dice_green_action_wall_rain_rather_clump_together
-bip_39_word_underscore_9: dice_green_action_wall_rain_rather_clump_together_equal
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

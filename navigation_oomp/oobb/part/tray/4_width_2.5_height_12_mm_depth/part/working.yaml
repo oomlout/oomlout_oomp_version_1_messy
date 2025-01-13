@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pelican
-bip_39_word_dash_10: pelican-party-vague-venture-avoid-glue-sugar-lion-mansion-bus
-bip_39_word_dash_11: pelican-party-vague-venture-avoid-glue-sugar-lion-mansion-bus-correct
 bip_39_word_dash_12: pelican-party-vague-venture-avoid-glue-sugar-lion-mansion-bus-correct-aunt
 bip_39_word_dash_2: pelican-party
 bip_39_word_dash_3: pelican-party-vague
-bip_39_word_dash_4: pelican-party-vague-venture
-bip_39_word_dash_5: pelican-party-vague-venture-avoid
-bip_39_word_dash_6: pelican-party-vague-venture-avoid-glue
-bip_39_word_dash_7: pelican-party-vague-venture-avoid-glue-sugar
-bip_39_word_dash_8: pelican-party-vague-venture-avoid-glue-sugar-lion
-bip_39_word_dash_9: pelican-party-vague-venture-avoid-glue-sugar-lion-mansion
-bip_39_word_new_br_1: pelican
-bip_39_word_new_br_10: pelican<br>party<br>vague<br>venture<br>avoid<br>glue<br>sugar<br>lion<br>mansion<br>bus
-bip_39_word_new_br_11: pelican<br>party<br>vague<br>venture<br>avoid<br>glue<br>sugar<br>lion<br>mansion<br>bus<br>correct
 bip_39_word_new_br_12: pelican<br>party<br>vague<br>venture<br>avoid<br>glue<br>sugar<br>lion<br>mansion<br>bus<br>correct<br>aunt
 bip_39_word_new_br_2: pelican<br>party
 bip_39_word_new_br_3: pelican<br>party<br>vague
-bip_39_word_new_br_4: pelican<br>party<br>vague<br>venture
-bip_39_word_new_br_5: pelican<br>party<br>vague<br>venture<br>avoid
-bip_39_word_new_br_6: pelican<br>party<br>vague<br>venture<br>avoid<br>glue
-bip_39_word_new_br_7: pelican<br>party<br>vague<br>venture<br>avoid<br>glue<br>sugar
-bip_39_word_new_br_8: pelican<br>party<br>vague<br>venture<br>avoid<br>glue<br>sugar<br>lion
-bip_39_word_new_br_9: pelican<br>party<br>vague<br>venture<br>avoid<br>glue<br>sugar<br>lion<br>mansion
-bip_39_word_new_line_1: pelican
-bip_39_word_new_line_10: 'pelican
-
-  party
-
-  vague
-
-  venture
-
-  avoid
-
-  glue
-
-  sugar
-
-  lion
-
-  mansion
-
-  bus'
-bip_39_word_new_line_11: 'pelican
-
-  party
-
-  vague
-
-  venture
-
-  avoid
-
-  glue
-
-  sugar
-
-  lion
-
-  mansion
-
-  bus
-
-  correct'
 bip_39_word_new_line_12: 'pelican
 
   party
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pelican
   party
 
   vague'
-bip_39_word_new_line_4: 'pelican
-
-  party
-
-  vague
-
-  venture'
-bip_39_word_new_line_5: 'pelican
-
-  party
-
-  vague
-
-  venture
-
-  avoid'
-bip_39_word_new_line_6: 'pelican
-
-  party
-
-  vague
-
-  venture
-
-  avoid
-
-  glue'
-bip_39_word_new_line_7: 'pelican
-
-  party
-
-  vague
-
-  venture
-
-  avoid
-
-  glue
-
-  sugar'
-bip_39_word_new_line_8: 'pelican
-
-  party
-
-  vague
-
-  venture
-
-  avoid
-
-  glue
-
-  sugar
-
-  lion'
-bip_39_word_new_line_9: 'pelican
-
-  party
-
-  vague
-
-  venture
-
-  avoid
-
-  glue
-
-  sugar
-
-  lion
-
-  mansion'
-bip_39_word_no_space_1: pelican
-bip_39_word_no_space_10: pelicanpartyvagueventureavoidgluesugarlionmansionbus
-bip_39_word_no_space_11: pelicanpartyvagueventureavoidgluesugarlionmansionbuscorrect
 bip_39_word_no_space_12: pelicanpartyvagueventureavoidgluesugarlionmansionbuscorrectaunt
 bip_39_word_no_space_2: pelicanparty
 bip_39_word_no_space_3: pelicanpartyvague
-bip_39_word_no_space_4: pelicanpartyvagueventure
-bip_39_word_no_space_5: pelicanpartyvagueventureavoid
-bip_39_word_no_space_6: pelicanpartyvagueventureavoidglue
-bip_39_word_no_space_7: pelicanpartyvagueventureavoidgluesugar
-bip_39_word_no_space_8: pelicanpartyvagueventureavoidgluesugarlion
-bip_39_word_no_space_9: pelicanpartyvagueventureavoidgluesugarlionmansion
-bip_39_word_space_0:
-- pelican
-- party
-- vague
-- venture
-- avoid
-- glue
-- sugar
-- lion
-- mansion
-- bus
-- correct
-- aunt
-bip_39_word_space_1: pelican
-bip_39_word_space_10: pelican party vague venture avoid glue sugar lion mansion bus
-bip_39_word_space_11: pelican party vague venture avoid glue sugar lion mansion bus
-  correct
 bip_39_word_space_12: pelican party vague venture avoid glue sugar lion mansion bus
   correct aunt
 bip_39_word_space_2: pelican party
 bip_39_word_space_3: pelican party vague
-bip_39_word_space_4: pelican party vague venture
-bip_39_word_space_5: pelican party vague venture avoid
-bip_39_word_space_6: pelican party vague venture avoid glue
-bip_39_word_space_7: pelican party vague venture avoid glue sugar
-bip_39_word_space_8: pelican party vague venture avoid glue sugar lion
-bip_39_word_space_9: pelican party vague venture avoid glue sugar lion mansion
-bip_39_word_underscore_1: pelican
-bip_39_word_underscore_10: pelican_party_vague_venture_avoid_glue_sugar_lion_mansion_bus
-bip_39_word_underscore_11: pelican_party_vague_venture_avoid_glue_sugar_lion_mansion_bus_correct
 bip_39_word_underscore_12: pelican_party_vague_venture_avoid_glue_sugar_lion_mansion_bus_correct_aunt
 bip_39_word_underscore_2: pelican_party
 bip_39_word_underscore_3: pelican_party_vague
-bip_39_word_underscore_4: pelican_party_vague_venture
-bip_39_word_underscore_5: pelican_party_vague_venture_avoid
-bip_39_word_underscore_6: pelican_party_vague_venture_avoid_glue
-bip_39_word_underscore_7: pelican_party_vague_venture_avoid_glue_sugar
-bip_39_word_underscore_8: pelican_party_vague_venture_avoid_glue_sugar_lion
-bip_39_word_underscore_9: pelican_party_vague_venture_avoid_glue_sugar_lion_mansion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

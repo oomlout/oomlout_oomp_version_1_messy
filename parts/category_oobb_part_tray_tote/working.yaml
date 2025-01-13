@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uncle
-bip_39_word_dash_10: uncle-rent-public-truly-truly-hat-spoon-actor-assume-waste
-bip_39_word_dash_11: uncle-rent-public-truly-truly-hat-spoon-actor-assume-waste-artist
 bip_39_word_dash_12: uncle-rent-public-truly-truly-hat-spoon-actor-assume-waste-artist-artefact
 bip_39_word_dash_2: uncle-rent
 bip_39_word_dash_3: uncle-rent-public
-bip_39_word_dash_4: uncle-rent-public-truly
-bip_39_word_dash_5: uncle-rent-public-truly-truly
-bip_39_word_dash_6: uncle-rent-public-truly-truly-hat
-bip_39_word_dash_7: uncle-rent-public-truly-truly-hat-spoon
-bip_39_word_dash_8: uncle-rent-public-truly-truly-hat-spoon-actor
-bip_39_word_dash_9: uncle-rent-public-truly-truly-hat-spoon-actor-assume
-bip_39_word_new_br_1: uncle
-bip_39_word_new_br_10: uncle<br>rent<br>public<br>truly<br>truly<br>hat<br>spoon<br>actor<br>assume<br>waste
-bip_39_word_new_br_11: uncle<br>rent<br>public<br>truly<br>truly<br>hat<br>spoon<br>actor<br>assume<br>waste<br>artist
 bip_39_word_new_br_12: uncle<br>rent<br>public<br>truly<br>truly<br>hat<br>spoon<br>actor<br>assume<br>waste<br>artist<br>artefact
 bip_39_word_new_br_2: uncle<br>rent
 bip_39_word_new_br_3: uncle<br>rent<br>public
-bip_39_word_new_br_4: uncle<br>rent<br>public<br>truly
-bip_39_word_new_br_5: uncle<br>rent<br>public<br>truly<br>truly
-bip_39_word_new_br_6: uncle<br>rent<br>public<br>truly<br>truly<br>hat
-bip_39_word_new_br_7: uncle<br>rent<br>public<br>truly<br>truly<br>hat<br>spoon
-bip_39_word_new_br_8: uncle<br>rent<br>public<br>truly<br>truly<br>hat<br>spoon<br>actor
-bip_39_word_new_br_9: uncle<br>rent<br>public<br>truly<br>truly<br>hat<br>spoon<br>actor<br>assume
-bip_39_word_new_line_1: uncle
-bip_39_word_new_line_10: 'uncle
-
-  rent
-
-  public
-
-  truly
-
-  truly
-
-  hat
-
-  spoon
-
-  actor
-
-  assume
-
-  waste'
-bip_39_word_new_line_11: 'uncle
-
-  rent
-
-  public
-
-  truly
-
-  truly
-
-  hat
-
-  spoon
-
-  actor
-
-  assume
-
-  waste
-
-  artist'
 bip_39_word_new_line_12: 'uncle
 
   rent
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'uncle
   rent
 
   public'
-bip_39_word_new_line_4: 'uncle
-
-  rent
-
-  public
-
-  truly'
-bip_39_word_new_line_5: 'uncle
-
-  rent
-
-  public
-
-  truly
-
-  truly'
-bip_39_word_new_line_6: 'uncle
-
-  rent
-
-  public
-
-  truly
-
-  truly
-
-  hat'
-bip_39_word_new_line_7: 'uncle
-
-  rent
-
-  public
-
-  truly
-
-  truly
-
-  hat
-
-  spoon'
-bip_39_word_new_line_8: 'uncle
-
-  rent
-
-  public
-
-  truly
-
-  truly
-
-  hat
-
-  spoon
-
-  actor'
-bip_39_word_new_line_9: 'uncle
-
-  rent
-
-  public
-
-  truly
-
-  truly
-
-  hat
-
-  spoon
-
-  actor
-
-  assume'
-bip_39_word_no_space_1: uncle
-bip_39_word_no_space_10: unclerentpublictrulytrulyhatspoonactorassumewaste
-bip_39_word_no_space_11: unclerentpublictrulytrulyhatspoonactorassumewasteartist
 bip_39_word_no_space_12: unclerentpublictrulytrulyhatspoonactorassumewasteartistartefact
 bip_39_word_no_space_2: unclerent
 bip_39_word_no_space_3: unclerentpublic
-bip_39_word_no_space_4: unclerentpublictruly
-bip_39_word_no_space_5: unclerentpublictrulytruly
-bip_39_word_no_space_6: unclerentpublictrulytrulyhat
-bip_39_word_no_space_7: unclerentpublictrulytrulyhatspoon
-bip_39_word_no_space_8: unclerentpublictrulytrulyhatspoonactor
-bip_39_word_no_space_9: unclerentpublictrulytrulyhatspoonactorassume
-bip_39_word_space_0:
-- uncle
-- rent
-- public
-- truly
-- truly
-- hat
-- spoon
-- actor
-- assume
-- waste
-- artist
-- artefact
-bip_39_word_space_1: uncle
-bip_39_word_space_10: uncle rent public truly truly hat spoon actor assume waste
-bip_39_word_space_11: uncle rent public truly truly hat spoon actor assume waste artist
 bip_39_word_space_12: uncle rent public truly truly hat spoon actor assume waste artist
   artefact
 bip_39_word_space_2: uncle rent
 bip_39_word_space_3: uncle rent public
-bip_39_word_space_4: uncle rent public truly
-bip_39_word_space_5: uncle rent public truly truly
-bip_39_word_space_6: uncle rent public truly truly hat
-bip_39_word_space_7: uncle rent public truly truly hat spoon
-bip_39_word_space_8: uncle rent public truly truly hat spoon actor
-bip_39_word_space_9: uncle rent public truly truly hat spoon actor assume
-bip_39_word_underscore_1: uncle
-bip_39_word_underscore_10: uncle_rent_public_truly_truly_hat_spoon_actor_assume_waste
-bip_39_word_underscore_11: uncle_rent_public_truly_truly_hat_spoon_actor_assume_waste_artist
 bip_39_word_underscore_12: uncle_rent_public_truly_truly_hat_spoon_actor_assume_waste_artist_artefact
 bip_39_word_underscore_2: uncle_rent
 bip_39_word_underscore_3: uncle_rent_public
-bip_39_word_underscore_4: uncle_rent_public_truly
-bip_39_word_underscore_5: uncle_rent_public_truly_truly
-bip_39_word_underscore_6: uncle_rent_public_truly_truly_hat
-bip_39_word_underscore_7: uncle_rent_public_truly_truly_hat_spoon
-bip_39_word_underscore_8: uncle_rent_public_truly_truly_hat_spoon_actor
-bip_39_word_underscore_9: uncle_rent_public_truly_truly_hat_spoon_actor_assume
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: donkey
-bip_39_word_dash_10: donkey-garden-mimic-false-grape-oxygen-ridge-romance-victory-index
-bip_39_word_dash_11: donkey-garden-mimic-false-grape-oxygen-ridge-romance-victory-index-access
 bip_39_word_dash_12: donkey-garden-mimic-false-grape-oxygen-ridge-romance-victory-index-access-ask
 bip_39_word_dash_2: donkey-garden
 bip_39_word_dash_3: donkey-garden-mimic
-bip_39_word_dash_4: donkey-garden-mimic-false
-bip_39_word_dash_5: donkey-garden-mimic-false-grape
-bip_39_word_dash_6: donkey-garden-mimic-false-grape-oxygen
-bip_39_word_dash_7: donkey-garden-mimic-false-grape-oxygen-ridge
-bip_39_word_dash_8: donkey-garden-mimic-false-grape-oxygen-ridge-romance
-bip_39_word_dash_9: donkey-garden-mimic-false-grape-oxygen-ridge-romance-victory
-bip_39_word_new_br_1: donkey
-bip_39_word_new_br_10: donkey<br>garden<br>mimic<br>false<br>grape<br>oxygen<br>ridge<br>romance<br>victory<br>index
-bip_39_word_new_br_11: donkey<br>garden<br>mimic<br>false<br>grape<br>oxygen<br>ridge<br>romance<br>victory<br>index<br>access
 bip_39_word_new_br_12: donkey<br>garden<br>mimic<br>false<br>grape<br>oxygen<br>ridge<br>romance<br>victory<br>index<br>access<br>ask
 bip_39_word_new_br_2: donkey<br>garden
 bip_39_word_new_br_3: donkey<br>garden<br>mimic
-bip_39_word_new_br_4: donkey<br>garden<br>mimic<br>false
-bip_39_word_new_br_5: donkey<br>garden<br>mimic<br>false<br>grape
-bip_39_word_new_br_6: donkey<br>garden<br>mimic<br>false<br>grape<br>oxygen
-bip_39_word_new_br_7: donkey<br>garden<br>mimic<br>false<br>grape<br>oxygen<br>ridge
-bip_39_word_new_br_8: donkey<br>garden<br>mimic<br>false<br>grape<br>oxygen<br>ridge<br>romance
-bip_39_word_new_br_9: donkey<br>garden<br>mimic<br>false<br>grape<br>oxygen<br>ridge<br>romance<br>victory
-bip_39_word_new_line_1: donkey
-bip_39_word_new_line_10: 'donkey
-
-  garden
-
-  mimic
-
-  false
-
-  grape
-
-  oxygen
-
-  ridge
-
-  romance
-
-  victory
-
-  index'
-bip_39_word_new_line_11: 'donkey
-
-  garden
-
-  mimic
-
-  false
-
-  grape
-
-  oxygen
-
-  ridge
-
-  romance
-
-  victory
-
-  index
-
-  access'
 bip_39_word_new_line_12: 'donkey
 
   garden
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'donkey
   garden
 
   mimic'
-bip_39_word_new_line_4: 'donkey
-
-  garden
-
-  mimic
-
-  false'
-bip_39_word_new_line_5: 'donkey
-
-  garden
-
-  mimic
-
-  false
-
-  grape'
-bip_39_word_new_line_6: 'donkey
-
-  garden
-
-  mimic
-
-  false
-
-  grape
-
-  oxygen'
-bip_39_word_new_line_7: 'donkey
-
-  garden
-
-  mimic
-
-  false
-
-  grape
-
-  oxygen
-
-  ridge'
-bip_39_word_new_line_8: 'donkey
-
-  garden
-
-  mimic
-
-  false
-
-  grape
-
-  oxygen
-
-  ridge
-
-  romance'
-bip_39_word_new_line_9: 'donkey
-
-  garden
-
-  mimic
-
-  false
-
-  grape
-
-  oxygen
-
-  ridge
-
-  romance
-
-  victory'
-bip_39_word_no_space_1: donkey
-bip_39_word_no_space_10: donkeygardenmimicfalsegrapeoxygenridgeromancevictoryindex
-bip_39_word_no_space_11: donkeygardenmimicfalsegrapeoxygenridgeromancevictoryindexaccess
 bip_39_word_no_space_12: donkeygardenmimicfalsegrapeoxygenridgeromancevictoryindexaccessask
 bip_39_word_no_space_2: donkeygarden
 bip_39_word_no_space_3: donkeygardenmimic
-bip_39_word_no_space_4: donkeygardenmimicfalse
-bip_39_word_no_space_5: donkeygardenmimicfalsegrape
-bip_39_word_no_space_6: donkeygardenmimicfalsegrapeoxygen
-bip_39_word_no_space_7: donkeygardenmimicfalsegrapeoxygenridge
-bip_39_word_no_space_8: donkeygardenmimicfalsegrapeoxygenridgeromance
-bip_39_word_no_space_9: donkeygardenmimicfalsegrapeoxygenridgeromancevictory
-bip_39_word_space_0:
-- donkey
-- garden
-- mimic
-- 'false'
-- grape
-- oxygen
-- ridge
-- romance
-- victory
-- index
-- access
-- ask
-bip_39_word_space_1: donkey
-bip_39_word_space_10: donkey garden mimic false grape oxygen ridge romance victory
-  index
-bip_39_word_space_11: donkey garden mimic false grape oxygen ridge romance victory
-  index access
 bip_39_word_space_12: donkey garden mimic false grape oxygen ridge romance victory
   index access ask
 bip_39_word_space_2: donkey garden
 bip_39_word_space_3: donkey garden mimic
-bip_39_word_space_4: donkey garden mimic false
-bip_39_word_space_5: donkey garden mimic false grape
-bip_39_word_space_6: donkey garden mimic false grape oxygen
-bip_39_word_space_7: donkey garden mimic false grape oxygen ridge
-bip_39_word_space_8: donkey garden mimic false grape oxygen ridge romance
-bip_39_word_space_9: donkey garden mimic false grape oxygen ridge romance victory
-bip_39_word_underscore_1: donkey
-bip_39_word_underscore_10: donkey_garden_mimic_false_grape_oxygen_ridge_romance_victory_index
-bip_39_word_underscore_11: donkey_garden_mimic_false_grape_oxygen_ridge_romance_victory_index_access
 bip_39_word_underscore_12: donkey_garden_mimic_false_grape_oxygen_ridge_romance_victory_index_access_ask
 bip_39_word_underscore_2: donkey_garden
 bip_39_word_underscore_3: donkey_garden_mimic
-bip_39_word_underscore_4: donkey_garden_mimic_false
-bip_39_word_underscore_5: donkey_garden_mimic_false_grape
-bip_39_word_underscore_6: donkey_garden_mimic_false_grape_oxygen
-bip_39_word_underscore_7: donkey_garden_mimic_false_grape_oxygen_ridge
-bip_39_word_underscore_8: donkey_garden_mimic_false_grape_oxygen_ridge_romance
-bip_39_word_underscore_9: donkey_garden_mimic_false_grape_oxygen_ridge_romance_victory
 classification: category
 classification_capital: Category
 classification_first_letter: c

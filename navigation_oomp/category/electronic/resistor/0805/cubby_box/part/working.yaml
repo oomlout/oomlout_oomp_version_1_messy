@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mom
-bip_39_word_dash_10: mom-allow-demand-dial-connect-change-brother-follow-name-illegal
-bip_39_word_dash_11: mom-allow-demand-dial-connect-change-brother-follow-name-illegal-ocean
 bip_39_word_dash_12: mom-allow-demand-dial-connect-change-brother-follow-name-illegal-ocean-arena
 bip_39_word_dash_2: mom-allow
 bip_39_word_dash_3: mom-allow-demand
-bip_39_word_dash_4: mom-allow-demand-dial
-bip_39_word_dash_5: mom-allow-demand-dial-connect
-bip_39_word_dash_6: mom-allow-demand-dial-connect-change
-bip_39_word_dash_7: mom-allow-demand-dial-connect-change-brother
-bip_39_word_dash_8: mom-allow-demand-dial-connect-change-brother-follow
-bip_39_word_dash_9: mom-allow-demand-dial-connect-change-brother-follow-name
-bip_39_word_new_br_1: mom
-bip_39_word_new_br_10: mom<br>allow<br>demand<br>dial<br>connect<br>change<br>brother<br>follow<br>name<br>illegal
-bip_39_word_new_br_11: mom<br>allow<br>demand<br>dial<br>connect<br>change<br>brother<br>follow<br>name<br>illegal<br>ocean
 bip_39_word_new_br_12: mom<br>allow<br>demand<br>dial<br>connect<br>change<br>brother<br>follow<br>name<br>illegal<br>ocean<br>arena
 bip_39_word_new_br_2: mom<br>allow
 bip_39_word_new_br_3: mom<br>allow<br>demand
-bip_39_word_new_br_4: mom<br>allow<br>demand<br>dial
-bip_39_word_new_br_5: mom<br>allow<br>demand<br>dial<br>connect
-bip_39_word_new_br_6: mom<br>allow<br>demand<br>dial<br>connect<br>change
-bip_39_word_new_br_7: mom<br>allow<br>demand<br>dial<br>connect<br>change<br>brother
-bip_39_word_new_br_8: mom<br>allow<br>demand<br>dial<br>connect<br>change<br>brother<br>follow
-bip_39_word_new_br_9: mom<br>allow<br>demand<br>dial<br>connect<br>change<br>brother<br>follow<br>name
-bip_39_word_new_line_1: mom
-bip_39_word_new_line_10: 'mom
-
-  allow
-
-  demand
-
-  dial
-
-  connect
-
-  change
-
-  brother
-
-  follow
-
-  name
-
-  illegal'
-bip_39_word_new_line_11: 'mom
-
-  allow
-
-  demand
-
-  dial
-
-  connect
-
-  change
-
-  brother
-
-  follow
-
-  name
-
-  illegal
-
-  ocean'
 bip_39_word_new_line_12: 'mom
 
   allow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mom
   allow
 
   demand'
-bip_39_word_new_line_4: 'mom
-
-  allow
-
-  demand
-
-  dial'
-bip_39_word_new_line_5: 'mom
-
-  allow
-
-  demand
-
-  dial
-
-  connect'
-bip_39_word_new_line_6: 'mom
-
-  allow
-
-  demand
-
-  dial
-
-  connect
-
-  change'
-bip_39_word_new_line_7: 'mom
-
-  allow
-
-  demand
-
-  dial
-
-  connect
-
-  change
-
-  brother'
-bip_39_word_new_line_8: 'mom
-
-  allow
-
-  demand
-
-  dial
-
-  connect
-
-  change
-
-  brother
-
-  follow'
-bip_39_word_new_line_9: 'mom
-
-  allow
-
-  demand
-
-  dial
-
-  connect
-
-  change
-
-  brother
-
-  follow
-
-  name'
-bip_39_word_no_space_1: mom
-bip_39_word_no_space_10: momallowdemanddialconnectchangebrotherfollownameillegal
-bip_39_word_no_space_11: momallowdemanddialconnectchangebrotherfollownameillegalocean
 bip_39_word_no_space_12: momallowdemanddialconnectchangebrotherfollownameillegaloceanarena
 bip_39_word_no_space_2: momallow
 bip_39_word_no_space_3: momallowdemand
-bip_39_word_no_space_4: momallowdemanddial
-bip_39_word_no_space_5: momallowdemanddialconnect
-bip_39_word_no_space_6: momallowdemanddialconnectchange
-bip_39_word_no_space_7: momallowdemanddialconnectchangebrother
-bip_39_word_no_space_8: momallowdemanddialconnectchangebrotherfollow
-bip_39_word_no_space_9: momallowdemanddialconnectchangebrotherfollowname
-bip_39_word_space_0:
-- mom
-- allow
-- demand
-- dial
-- connect
-- change
-- brother
-- follow
-- name
-- illegal
-- ocean
-- arena
-bip_39_word_space_1: mom
-bip_39_word_space_10: mom allow demand dial connect change brother follow name illegal
-bip_39_word_space_11: mom allow demand dial connect change brother follow name illegal
-  ocean
 bip_39_word_space_12: mom allow demand dial connect change brother follow name illegal
   ocean arena
 bip_39_word_space_2: mom allow
 bip_39_word_space_3: mom allow demand
-bip_39_word_space_4: mom allow demand dial
-bip_39_word_space_5: mom allow demand dial connect
-bip_39_word_space_6: mom allow demand dial connect change
-bip_39_word_space_7: mom allow demand dial connect change brother
-bip_39_word_space_8: mom allow demand dial connect change brother follow
-bip_39_word_space_9: mom allow demand dial connect change brother follow name
-bip_39_word_underscore_1: mom
-bip_39_word_underscore_10: mom_allow_demand_dial_connect_change_brother_follow_name_illegal
-bip_39_word_underscore_11: mom_allow_demand_dial_connect_change_brother_follow_name_illegal_ocean
 bip_39_word_underscore_12: mom_allow_demand_dial_connect_change_brother_follow_name_illegal_ocean_arena
 bip_39_word_underscore_2: mom_allow
 bip_39_word_underscore_3: mom_allow_demand
-bip_39_word_underscore_4: mom_allow_demand_dial
-bip_39_word_underscore_5: mom_allow_demand_dial_connect
-bip_39_word_underscore_6: mom_allow_demand_dial_connect_change
-bip_39_word_underscore_7: mom_allow_demand_dial_connect_change_brother
-bip_39_word_underscore_8: mom_allow_demand_dial_connect_change_brother_follow
-bip_39_word_underscore_9: mom_allow_demand_dial_connect_change_brother_follow_name
 classification: category
 classification_capital: Category
 classification_first_letter: c

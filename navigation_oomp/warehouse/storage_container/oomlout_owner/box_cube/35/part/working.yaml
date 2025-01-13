@@ -1,68 +1,9 @@
-bip_39_word_dash_1: latin
-bip_39_word_dash_10: latin-link-flee-identify-behave-rare-vague-valley-draft-smoke
-bip_39_word_dash_11: latin-link-flee-identify-behave-rare-vague-valley-draft-smoke-wood
 bip_39_word_dash_12: latin-link-flee-identify-behave-rare-vague-valley-draft-smoke-wood-acoustic
 bip_39_word_dash_2: latin-link
 bip_39_word_dash_3: latin-link-flee
-bip_39_word_dash_4: latin-link-flee-identify
-bip_39_word_dash_5: latin-link-flee-identify-behave
-bip_39_word_dash_6: latin-link-flee-identify-behave-rare
-bip_39_word_dash_7: latin-link-flee-identify-behave-rare-vague
-bip_39_word_dash_8: latin-link-flee-identify-behave-rare-vague-valley
-bip_39_word_dash_9: latin-link-flee-identify-behave-rare-vague-valley-draft
-bip_39_word_new_br_1: latin
-bip_39_word_new_br_10: latin<br>link<br>flee<br>identify<br>behave<br>rare<br>vague<br>valley<br>draft<br>smoke
-bip_39_word_new_br_11: latin<br>link<br>flee<br>identify<br>behave<br>rare<br>vague<br>valley<br>draft<br>smoke<br>wood
 bip_39_word_new_br_12: latin<br>link<br>flee<br>identify<br>behave<br>rare<br>vague<br>valley<br>draft<br>smoke<br>wood<br>acoustic
 bip_39_word_new_br_2: latin<br>link
 bip_39_word_new_br_3: latin<br>link<br>flee
-bip_39_word_new_br_4: latin<br>link<br>flee<br>identify
-bip_39_word_new_br_5: latin<br>link<br>flee<br>identify<br>behave
-bip_39_word_new_br_6: latin<br>link<br>flee<br>identify<br>behave<br>rare
-bip_39_word_new_br_7: latin<br>link<br>flee<br>identify<br>behave<br>rare<br>vague
-bip_39_word_new_br_8: latin<br>link<br>flee<br>identify<br>behave<br>rare<br>vague<br>valley
-bip_39_word_new_br_9: latin<br>link<br>flee<br>identify<br>behave<br>rare<br>vague<br>valley<br>draft
-bip_39_word_new_line_1: latin
-bip_39_word_new_line_10: 'latin
-
-  link
-
-  flee
-
-  identify
-
-  behave
-
-  rare
-
-  vague
-
-  valley
-
-  draft
-
-  smoke'
-bip_39_word_new_line_11: 'latin
-
-  link
-
-  flee
-
-  identify
-
-  behave
-
-  rare
-
-  vague
-
-  valley
-
-  draft
-
-  smoke
-
-  wood'
 bip_39_word_new_line_12: 'latin
 
   link
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'latin
   link
 
   flee'
-bip_39_word_new_line_4: 'latin
-
-  link
-
-  flee
-
-  identify'
-bip_39_word_new_line_5: 'latin
-
-  link
-
-  flee
-
-  identify
-
-  behave'
-bip_39_word_new_line_6: 'latin
-
-  link
-
-  flee
-
-  identify
-
-  behave
-
-  rare'
-bip_39_word_new_line_7: 'latin
-
-  link
-
-  flee
-
-  identify
-
-  behave
-
-  rare
-
-  vague'
-bip_39_word_new_line_8: 'latin
-
-  link
-
-  flee
-
-  identify
-
-  behave
-
-  rare
-
-  vague
-
-  valley'
-bip_39_word_new_line_9: 'latin
-
-  link
-
-  flee
-
-  identify
-
-  behave
-
-  rare
-
-  vague
-
-  valley
-
-  draft'
-bip_39_word_no_space_1: latin
-bip_39_word_no_space_10: latinlinkfleeidentifybehaverarevaguevalleydraftsmoke
-bip_39_word_no_space_11: latinlinkfleeidentifybehaverarevaguevalleydraftsmokewood
 bip_39_word_no_space_12: latinlinkfleeidentifybehaverarevaguevalleydraftsmokewoodacoustic
 bip_39_word_no_space_2: latinlink
 bip_39_word_no_space_3: latinlinkflee
-bip_39_word_no_space_4: latinlinkfleeidentify
-bip_39_word_no_space_5: latinlinkfleeidentifybehave
-bip_39_word_no_space_6: latinlinkfleeidentifybehaverare
-bip_39_word_no_space_7: latinlinkfleeidentifybehaverarevague
-bip_39_word_no_space_8: latinlinkfleeidentifybehaverarevaguevalley
-bip_39_word_no_space_9: latinlinkfleeidentifybehaverarevaguevalleydraft
-bip_39_word_space_0:
-- latin
-- link
-- flee
-- identify
-- behave
-- rare
-- vague
-- valley
-- draft
-- smoke
-- wood
-- acoustic
-bip_39_word_space_1: latin
-bip_39_word_space_10: latin link flee identify behave rare vague valley draft smoke
-bip_39_word_space_11: latin link flee identify behave rare vague valley draft smoke
-  wood
 bip_39_word_space_12: latin link flee identify behave rare vague valley draft smoke
   wood acoustic
 bip_39_word_space_2: latin link
 bip_39_word_space_3: latin link flee
-bip_39_word_space_4: latin link flee identify
-bip_39_word_space_5: latin link flee identify behave
-bip_39_word_space_6: latin link flee identify behave rare
-bip_39_word_space_7: latin link flee identify behave rare vague
-bip_39_word_space_8: latin link flee identify behave rare vague valley
-bip_39_word_space_9: latin link flee identify behave rare vague valley draft
-bip_39_word_underscore_1: latin
-bip_39_word_underscore_10: latin_link_flee_identify_behave_rare_vague_valley_draft_smoke
-bip_39_word_underscore_11: latin_link_flee_identify_behave_rare_vague_valley_draft_smoke_wood
 bip_39_word_underscore_12: latin_link_flee_identify_behave_rare_vague_valley_draft_smoke_wood_acoustic
 bip_39_word_underscore_2: latin_link
 bip_39_word_underscore_3: latin_link_flee
-bip_39_word_underscore_4: latin_link_flee_identify
-bip_39_word_underscore_5: latin_link_flee_identify_behave
-bip_39_word_underscore_6: latin_link_flee_identify_behave_rare
-bip_39_word_underscore_7: latin_link_flee_identify_behave_rare_vague
-bip_39_word_underscore_8: latin_link_flee_identify_behave_rare_vague_valley
-bip_39_word_underscore_9: latin_link_flee_identify_behave_rare_vague_valley_draft
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

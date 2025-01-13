@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exclude
-bip_39_word_dash_10: exclude-puzzle-antique-silly-lawn-frame-spider-chair-cement-luggage
-bip_39_word_dash_11: exclude-puzzle-antique-silly-lawn-frame-spider-chair-cement-luggage-there
 bip_39_word_dash_12: exclude-puzzle-antique-silly-lawn-frame-spider-chair-cement-luggage-there-aisle
 bip_39_word_dash_2: exclude-puzzle
 bip_39_word_dash_3: exclude-puzzle-antique
-bip_39_word_dash_4: exclude-puzzle-antique-silly
-bip_39_word_dash_5: exclude-puzzle-antique-silly-lawn
-bip_39_word_dash_6: exclude-puzzle-antique-silly-lawn-frame
-bip_39_word_dash_7: exclude-puzzle-antique-silly-lawn-frame-spider
-bip_39_word_dash_8: exclude-puzzle-antique-silly-lawn-frame-spider-chair
-bip_39_word_dash_9: exclude-puzzle-antique-silly-lawn-frame-spider-chair-cement
-bip_39_word_new_br_1: exclude
-bip_39_word_new_br_10: exclude<br>puzzle<br>antique<br>silly<br>lawn<br>frame<br>spider<br>chair<br>cement<br>luggage
-bip_39_word_new_br_11: exclude<br>puzzle<br>antique<br>silly<br>lawn<br>frame<br>spider<br>chair<br>cement<br>luggage<br>there
 bip_39_word_new_br_12: exclude<br>puzzle<br>antique<br>silly<br>lawn<br>frame<br>spider<br>chair<br>cement<br>luggage<br>there<br>aisle
 bip_39_word_new_br_2: exclude<br>puzzle
 bip_39_word_new_br_3: exclude<br>puzzle<br>antique
-bip_39_word_new_br_4: exclude<br>puzzle<br>antique<br>silly
-bip_39_word_new_br_5: exclude<br>puzzle<br>antique<br>silly<br>lawn
-bip_39_word_new_br_6: exclude<br>puzzle<br>antique<br>silly<br>lawn<br>frame
-bip_39_word_new_br_7: exclude<br>puzzle<br>antique<br>silly<br>lawn<br>frame<br>spider
-bip_39_word_new_br_8: exclude<br>puzzle<br>antique<br>silly<br>lawn<br>frame<br>spider<br>chair
-bip_39_word_new_br_9: exclude<br>puzzle<br>antique<br>silly<br>lawn<br>frame<br>spider<br>chair<br>cement
-bip_39_word_new_line_1: exclude
-bip_39_word_new_line_10: 'exclude
-
-  puzzle
-
-  antique
-
-  silly
-
-  lawn
-
-  frame
-
-  spider
-
-  chair
-
-  cement
-
-  luggage'
-bip_39_word_new_line_11: 'exclude
-
-  puzzle
-
-  antique
-
-  silly
-
-  lawn
-
-  frame
-
-  spider
-
-  chair
-
-  cement
-
-  luggage
-
-  there'
 bip_39_word_new_line_12: 'exclude
 
   puzzle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'exclude
   puzzle
 
   antique'
-bip_39_word_new_line_4: 'exclude
-
-  puzzle
-
-  antique
-
-  silly'
-bip_39_word_new_line_5: 'exclude
-
-  puzzle
-
-  antique
-
-  silly
-
-  lawn'
-bip_39_word_new_line_6: 'exclude
-
-  puzzle
-
-  antique
-
-  silly
-
-  lawn
-
-  frame'
-bip_39_word_new_line_7: 'exclude
-
-  puzzle
-
-  antique
-
-  silly
-
-  lawn
-
-  frame
-
-  spider'
-bip_39_word_new_line_8: 'exclude
-
-  puzzle
-
-  antique
-
-  silly
-
-  lawn
-
-  frame
-
-  spider
-
-  chair'
-bip_39_word_new_line_9: 'exclude
-
-  puzzle
-
-  antique
-
-  silly
-
-  lawn
-
-  frame
-
-  spider
-
-  chair
-
-  cement'
-bip_39_word_no_space_1: exclude
-bip_39_word_no_space_10: excludepuzzleantiquesillylawnframespiderchaircementluggage
-bip_39_word_no_space_11: excludepuzzleantiquesillylawnframespiderchaircementluggagethere
 bip_39_word_no_space_12: excludepuzzleantiquesillylawnframespiderchaircementluggagethereaisle
 bip_39_word_no_space_2: excludepuzzle
 bip_39_word_no_space_3: excludepuzzleantique
-bip_39_word_no_space_4: excludepuzzleantiquesilly
-bip_39_word_no_space_5: excludepuzzleantiquesillylawn
-bip_39_word_no_space_6: excludepuzzleantiquesillylawnframe
-bip_39_word_no_space_7: excludepuzzleantiquesillylawnframespider
-bip_39_word_no_space_8: excludepuzzleantiquesillylawnframespiderchair
-bip_39_word_no_space_9: excludepuzzleantiquesillylawnframespiderchaircement
-bip_39_word_space_0:
-- exclude
-- puzzle
-- antique
-- silly
-- lawn
-- frame
-- spider
-- chair
-- cement
-- luggage
-- there
-- aisle
-bip_39_word_space_1: exclude
-bip_39_word_space_10: exclude puzzle antique silly lawn frame spider chair cement
-  luggage
-bip_39_word_space_11: exclude puzzle antique silly lawn frame spider chair cement
-  luggage there
 bip_39_word_space_12: exclude puzzle antique silly lawn frame spider chair cement
   luggage there aisle
 bip_39_word_space_2: exclude puzzle
 bip_39_word_space_3: exclude puzzle antique
-bip_39_word_space_4: exclude puzzle antique silly
-bip_39_word_space_5: exclude puzzle antique silly lawn
-bip_39_word_space_6: exclude puzzle antique silly lawn frame
-bip_39_word_space_7: exclude puzzle antique silly lawn frame spider
-bip_39_word_space_8: exclude puzzle antique silly lawn frame spider chair
-bip_39_word_space_9: exclude puzzle antique silly lawn frame spider chair cement
-bip_39_word_underscore_1: exclude
-bip_39_word_underscore_10: exclude_puzzle_antique_silly_lawn_frame_spider_chair_cement_luggage
-bip_39_word_underscore_11: exclude_puzzle_antique_silly_lawn_frame_spider_chair_cement_luggage_there
 bip_39_word_underscore_12: exclude_puzzle_antique_silly_lawn_frame_spider_chair_cement_luggage_there_aisle
 bip_39_word_underscore_2: exclude_puzzle
 bip_39_word_underscore_3: exclude_puzzle_antique
-bip_39_word_underscore_4: exclude_puzzle_antique_silly
-bip_39_word_underscore_5: exclude_puzzle_antique_silly_lawn
-bip_39_word_underscore_6: exclude_puzzle_antique_silly_lawn_frame
-bip_39_word_underscore_7: exclude_puzzle_antique_silly_lawn_frame_spider
-bip_39_word_underscore_8: exclude_puzzle_antique_silly_lawn_frame_spider_chair
-bip_39_word_underscore_9: exclude_puzzle_antique_silly_lawn_frame_spider_chair_cement
 classification: category
 classification_capital: Category
 classification_first_letter: c

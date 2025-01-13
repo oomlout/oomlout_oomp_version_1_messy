@@ -1,68 +1,9 @@
-bip_39_word_dash_1: parent
-bip_39_word_dash_10: parent-duck-clog-brush-universe-direct-cargo-glow-hood-crater
-bip_39_word_dash_11: parent-duck-clog-brush-universe-direct-cargo-glow-hood-crater-earth
 bip_39_word_dash_12: parent-duck-clog-brush-universe-direct-cargo-glow-hood-crater-earth-artwork
 bip_39_word_dash_2: parent-duck
 bip_39_word_dash_3: parent-duck-clog
-bip_39_word_dash_4: parent-duck-clog-brush
-bip_39_word_dash_5: parent-duck-clog-brush-universe
-bip_39_word_dash_6: parent-duck-clog-brush-universe-direct
-bip_39_word_dash_7: parent-duck-clog-brush-universe-direct-cargo
-bip_39_word_dash_8: parent-duck-clog-brush-universe-direct-cargo-glow
-bip_39_word_dash_9: parent-duck-clog-brush-universe-direct-cargo-glow-hood
-bip_39_word_new_br_1: parent
-bip_39_word_new_br_10: parent<br>duck<br>clog<br>brush<br>universe<br>direct<br>cargo<br>glow<br>hood<br>crater
-bip_39_word_new_br_11: parent<br>duck<br>clog<br>brush<br>universe<br>direct<br>cargo<br>glow<br>hood<br>crater<br>earth
 bip_39_word_new_br_12: parent<br>duck<br>clog<br>brush<br>universe<br>direct<br>cargo<br>glow<br>hood<br>crater<br>earth<br>artwork
 bip_39_word_new_br_2: parent<br>duck
 bip_39_word_new_br_3: parent<br>duck<br>clog
-bip_39_word_new_br_4: parent<br>duck<br>clog<br>brush
-bip_39_word_new_br_5: parent<br>duck<br>clog<br>brush<br>universe
-bip_39_word_new_br_6: parent<br>duck<br>clog<br>brush<br>universe<br>direct
-bip_39_word_new_br_7: parent<br>duck<br>clog<br>brush<br>universe<br>direct<br>cargo
-bip_39_word_new_br_8: parent<br>duck<br>clog<br>brush<br>universe<br>direct<br>cargo<br>glow
-bip_39_word_new_br_9: parent<br>duck<br>clog<br>brush<br>universe<br>direct<br>cargo<br>glow<br>hood
-bip_39_word_new_line_1: parent
-bip_39_word_new_line_10: 'parent
-
-  duck
-
-  clog
-
-  brush
-
-  universe
-
-  direct
-
-  cargo
-
-  glow
-
-  hood
-
-  crater'
-bip_39_word_new_line_11: 'parent
-
-  duck
-
-  clog
-
-  brush
-
-  universe
-
-  direct
-
-  cargo
-
-  glow
-
-  hood
-
-  crater
-
-  earth'
 bip_39_word_new_line_12: 'parent
 
   duck
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'parent
   duck
 
   clog'
-bip_39_word_new_line_4: 'parent
-
-  duck
-
-  clog
-
-  brush'
-bip_39_word_new_line_5: 'parent
-
-  duck
-
-  clog
-
-  brush
-
-  universe'
-bip_39_word_new_line_6: 'parent
-
-  duck
-
-  clog
-
-  brush
-
-  universe
-
-  direct'
-bip_39_word_new_line_7: 'parent
-
-  duck
-
-  clog
-
-  brush
-
-  universe
-
-  direct
-
-  cargo'
-bip_39_word_new_line_8: 'parent
-
-  duck
-
-  clog
-
-  brush
-
-  universe
-
-  direct
-
-  cargo
-
-  glow'
-bip_39_word_new_line_9: 'parent
-
-  duck
-
-  clog
-
-  brush
-
-  universe
-
-  direct
-
-  cargo
-
-  glow
-
-  hood'
-bip_39_word_no_space_1: parent
-bip_39_word_no_space_10: parentduckclogbrushuniversedirectcargoglowhoodcrater
-bip_39_word_no_space_11: parentduckclogbrushuniversedirectcargoglowhoodcraterearth
 bip_39_word_no_space_12: parentduckclogbrushuniversedirectcargoglowhoodcraterearthartwork
 bip_39_word_no_space_2: parentduck
 bip_39_word_no_space_3: parentduckclog
-bip_39_word_no_space_4: parentduckclogbrush
-bip_39_word_no_space_5: parentduckclogbrushuniverse
-bip_39_word_no_space_6: parentduckclogbrushuniversedirect
-bip_39_word_no_space_7: parentduckclogbrushuniversedirectcargo
-bip_39_word_no_space_8: parentduckclogbrushuniversedirectcargoglow
-bip_39_word_no_space_9: parentduckclogbrushuniversedirectcargoglowhood
-bip_39_word_space_0:
-- parent
-- duck
-- clog
-- brush
-- universe
-- direct
-- cargo
-- glow
-- hood
-- crater
-- earth
-- artwork
-bip_39_word_space_1: parent
-bip_39_word_space_10: parent duck clog brush universe direct cargo glow hood crater
-bip_39_word_space_11: parent duck clog brush universe direct cargo glow hood crater
-  earth
 bip_39_word_space_12: parent duck clog brush universe direct cargo glow hood crater
   earth artwork
 bip_39_word_space_2: parent duck
 bip_39_word_space_3: parent duck clog
-bip_39_word_space_4: parent duck clog brush
-bip_39_word_space_5: parent duck clog brush universe
-bip_39_word_space_6: parent duck clog brush universe direct
-bip_39_word_space_7: parent duck clog brush universe direct cargo
-bip_39_word_space_8: parent duck clog brush universe direct cargo glow
-bip_39_word_space_9: parent duck clog brush universe direct cargo glow hood
-bip_39_word_underscore_1: parent
-bip_39_word_underscore_10: parent_duck_clog_brush_universe_direct_cargo_glow_hood_crater
-bip_39_word_underscore_11: parent_duck_clog_brush_universe_direct_cargo_glow_hood_crater_earth
 bip_39_word_underscore_12: parent_duck_clog_brush_universe_direct_cargo_glow_hood_crater_earth_artwork
 bip_39_word_underscore_2: parent_duck
 bip_39_word_underscore_3: parent_duck_clog
-bip_39_word_underscore_4: parent_duck_clog_brush
-bip_39_word_underscore_5: parent_duck_clog_brush_universe
-bip_39_word_underscore_6: parent_duck_clog_brush_universe_direct
-bip_39_word_underscore_7: parent_duck_clog_brush_universe_direct_cargo
-bip_39_word_underscore_8: parent_duck_clog_brush_universe_direct_cargo_glow
-bip_39_word_underscore_9: parent_duck_clog_brush_universe_direct_cargo_glow_hood
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

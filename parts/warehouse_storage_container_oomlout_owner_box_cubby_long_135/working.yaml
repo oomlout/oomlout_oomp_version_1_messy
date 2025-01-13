@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slam
-bip_39_word_dash_10: slam-hurry-clarify-fever-grocery-attract-push-puppy-family-town
-bip_39_word_dash_11: slam-hurry-clarify-fever-grocery-attract-push-puppy-family-town-dinosaur
 bip_39_word_dash_12: slam-hurry-clarify-fever-grocery-attract-push-puppy-family-town-dinosaur-access
 bip_39_word_dash_2: slam-hurry
 bip_39_word_dash_3: slam-hurry-clarify
-bip_39_word_dash_4: slam-hurry-clarify-fever
-bip_39_word_dash_5: slam-hurry-clarify-fever-grocery
-bip_39_word_dash_6: slam-hurry-clarify-fever-grocery-attract
-bip_39_word_dash_7: slam-hurry-clarify-fever-grocery-attract-push
-bip_39_word_dash_8: slam-hurry-clarify-fever-grocery-attract-push-puppy
-bip_39_word_dash_9: slam-hurry-clarify-fever-grocery-attract-push-puppy-family
-bip_39_word_new_br_1: slam
-bip_39_word_new_br_10: slam<br>hurry<br>clarify<br>fever<br>grocery<br>attract<br>push<br>puppy<br>family<br>town
-bip_39_word_new_br_11: slam<br>hurry<br>clarify<br>fever<br>grocery<br>attract<br>push<br>puppy<br>family<br>town<br>dinosaur
 bip_39_word_new_br_12: slam<br>hurry<br>clarify<br>fever<br>grocery<br>attract<br>push<br>puppy<br>family<br>town<br>dinosaur<br>access
 bip_39_word_new_br_2: slam<br>hurry
 bip_39_word_new_br_3: slam<br>hurry<br>clarify
-bip_39_word_new_br_4: slam<br>hurry<br>clarify<br>fever
-bip_39_word_new_br_5: slam<br>hurry<br>clarify<br>fever<br>grocery
-bip_39_word_new_br_6: slam<br>hurry<br>clarify<br>fever<br>grocery<br>attract
-bip_39_word_new_br_7: slam<br>hurry<br>clarify<br>fever<br>grocery<br>attract<br>push
-bip_39_word_new_br_8: slam<br>hurry<br>clarify<br>fever<br>grocery<br>attract<br>push<br>puppy
-bip_39_word_new_br_9: slam<br>hurry<br>clarify<br>fever<br>grocery<br>attract<br>push<br>puppy<br>family
-bip_39_word_new_line_1: slam
-bip_39_word_new_line_10: 'slam
-
-  hurry
-
-  clarify
-
-  fever
-
-  grocery
-
-  attract
-
-  push
-
-  puppy
-
-  family
-
-  town'
-bip_39_word_new_line_11: 'slam
-
-  hurry
-
-  clarify
-
-  fever
-
-  grocery
-
-  attract
-
-  push
-
-  puppy
-
-  family
-
-  town
-
-  dinosaur'
 bip_39_word_new_line_12: 'slam
 
   hurry
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slam
   hurry
 
   clarify'
-bip_39_word_new_line_4: 'slam
-
-  hurry
-
-  clarify
-
-  fever'
-bip_39_word_new_line_5: 'slam
-
-  hurry
-
-  clarify
-
-  fever
-
-  grocery'
-bip_39_word_new_line_6: 'slam
-
-  hurry
-
-  clarify
-
-  fever
-
-  grocery
-
-  attract'
-bip_39_word_new_line_7: 'slam
-
-  hurry
-
-  clarify
-
-  fever
-
-  grocery
-
-  attract
-
-  push'
-bip_39_word_new_line_8: 'slam
-
-  hurry
-
-  clarify
-
-  fever
-
-  grocery
-
-  attract
-
-  push
-
-  puppy'
-bip_39_word_new_line_9: 'slam
-
-  hurry
-
-  clarify
-
-  fever
-
-  grocery
-
-  attract
-
-  push
-
-  puppy
-
-  family'
-bip_39_word_no_space_1: slam
-bip_39_word_no_space_10: slamhurryclarifyfevergroceryattractpushpuppyfamilytown
-bip_39_word_no_space_11: slamhurryclarifyfevergroceryattractpushpuppyfamilytowndinosaur
 bip_39_word_no_space_12: slamhurryclarifyfevergroceryattractpushpuppyfamilytowndinosauraccess
 bip_39_word_no_space_2: slamhurry
 bip_39_word_no_space_3: slamhurryclarify
-bip_39_word_no_space_4: slamhurryclarifyfever
-bip_39_word_no_space_5: slamhurryclarifyfevergrocery
-bip_39_word_no_space_6: slamhurryclarifyfevergroceryattract
-bip_39_word_no_space_7: slamhurryclarifyfevergroceryattractpush
-bip_39_word_no_space_8: slamhurryclarifyfevergroceryattractpushpuppy
-bip_39_word_no_space_9: slamhurryclarifyfevergroceryattractpushpuppyfamily
-bip_39_word_space_0:
-- slam
-- hurry
-- clarify
-- fever
-- grocery
-- attract
-- push
-- puppy
-- family
-- town
-- dinosaur
-- access
-bip_39_word_space_1: slam
-bip_39_word_space_10: slam hurry clarify fever grocery attract push puppy family town
-bip_39_word_space_11: slam hurry clarify fever grocery attract push puppy family town
-  dinosaur
 bip_39_word_space_12: slam hurry clarify fever grocery attract push puppy family town
   dinosaur access
 bip_39_word_space_2: slam hurry
 bip_39_word_space_3: slam hurry clarify
-bip_39_word_space_4: slam hurry clarify fever
-bip_39_word_space_5: slam hurry clarify fever grocery
-bip_39_word_space_6: slam hurry clarify fever grocery attract
-bip_39_word_space_7: slam hurry clarify fever grocery attract push
-bip_39_word_space_8: slam hurry clarify fever grocery attract push puppy
-bip_39_word_space_9: slam hurry clarify fever grocery attract push puppy family
-bip_39_word_underscore_1: slam
-bip_39_word_underscore_10: slam_hurry_clarify_fever_grocery_attract_push_puppy_family_town
-bip_39_word_underscore_11: slam_hurry_clarify_fever_grocery_attract_push_puppy_family_town_dinosaur
 bip_39_word_underscore_12: slam_hurry_clarify_fever_grocery_attract_push_puppy_family_town_dinosaur_access
 bip_39_word_underscore_2: slam_hurry
 bip_39_word_underscore_3: slam_hurry_clarify
-bip_39_word_underscore_4: slam_hurry_clarify_fever
-bip_39_word_underscore_5: slam_hurry_clarify_fever_grocery
-bip_39_word_underscore_6: slam_hurry_clarify_fever_grocery_attract
-bip_39_word_underscore_7: slam_hurry_clarify_fever_grocery_attract_push
-bip_39_word_underscore_8: slam_hurry_clarify_fever_grocery_attract_push_puppy
-bip_39_word_underscore_9: slam_hurry_clarify_fever_grocery_attract_push_puppy_family
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

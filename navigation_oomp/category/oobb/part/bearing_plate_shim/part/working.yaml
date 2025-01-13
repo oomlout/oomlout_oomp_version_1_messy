@@ -1,68 +1,9 @@
-bip_39_word_dash_1: target
-bip_39_word_dash_10: target-payment-there-welcome-ketchup-village-bonus-mystery-ride-method
-bip_39_word_dash_11: target-payment-there-welcome-ketchup-village-bonus-mystery-ride-method-chuckle
 bip_39_word_dash_12: target-payment-there-welcome-ketchup-village-bonus-mystery-ride-method-chuckle-abstract
 bip_39_word_dash_2: target-payment
 bip_39_word_dash_3: target-payment-there
-bip_39_word_dash_4: target-payment-there-welcome
-bip_39_word_dash_5: target-payment-there-welcome-ketchup
-bip_39_word_dash_6: target-payment-there-welcome-ketchup-village
-bip_39_word_dash_7: target-payment-there-welcome-ketchup-village-bonus
-bip_39_word_dash_8: target-payment-there-welcome-ketchup-village-bonus-mystery
-bip_39_word_dash_9: target-payment-there-welcome-ketchup-village-bonus-mystery-ride
-bip_39_word_new_br_1: target
-bip_39_word_new_br_10: target<br>payment<br>there<br>welcome<br>ketchup<br>village<br>bonus<br>mystery<br>ride<br>method
-bip_39_word_new_br_11: target<br>payment<br>there<br>welcome<br>ketchup<br>village<br>bonus<br>mystery<br>ride<br>method<br>chuckle
 bip_39_word_new_br_12: target<br>payment<br>there<br>welcome<br>ketchup<br>village<br>bonus<br>mystery<br>ride<br>method<br>chuckle<br>abstract
 bip_39_word_new_br_2: target<br>payment
 bip_39_word_new_br_3: target<br>payment<br>there
-bip_39_word_new_br_4: target<br>payment<br>there<br>welcome
-bip_39_word_new_br_5: target<br>payment<br>there<br>welcome<br>ketchup
-bip_39_word_new_br_6: target<br>payment<br>there<br>welcome<br>ketchup<br>village
-bip_39_word_new_br_7: target<br>payment<br>there<br>welcome<br>ketchup<br>village<br>bonus
-bip_39_word_new_br_8: target<br>payment<br>there<br>welcome<br>ketchup<br>village<br>bonus<br>mystery
-bip_39_word_new_br_9: target<br>payment<br>there<br>welcome<br>ketchup<br>village<br>bonus<br>mystery<br>ride
-bip_39_word_new_line_1: target
-bip_39_word_new_line_10: 'target
-
-  payment
-
-  there
-
-  welcome
-
-  ketchup
-
-  village
-
-  bonus
-
-  mystery
-
-  ride
-
-  method'
-bip_39_word_new_line_11: 'target
-
-  payment
-
-  there
-
-  welcome
-
-  ketchup
-
-  village
-
-  bonus
-
-  mystery
-
-  ride
-
-  method
-
-  chuckle'
 bip_39_word_new_line_12: 'target
 
   payment
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'target
   payment
 
   there'
-bip_39_word_new_line_4: 'target
-
-  payment
-
-  there
-
-  welcome'
-bip_39_word_new_line_5: 'target
-
-  payment
-
-  there
-
-  welcome
-
-  ketchup'
-bip_39_word_new_line_6: 'target
-
-  payment
-
-  there
-
-  welcome
-
-  ketchup
-
-  village'
-bip_39_word_new_line_7: 'target
-
-  payment
-
-  there
-
-  welcome
-
-  ketchup
-
-  village
-
-  bonus'
-bip_39_word_new_line_8: 'target
-
-  payment
-
-  there
-
-  welcome
-
-  ketchup
-
-  village
-
-  bonus
-
-  mystery'
-bip_39_word_new_line_9: 'target
-
-  payment
-
-  there
-
-  welcome
-
-  ketchup
-
-  village
-
-  bonus
-
-  mystery
-
-  ride'
-bip_39_word_no_space_1: target
-bip_39_word_no_space_10: targetpaymenttherewelcomeketchupvillagebonusmysteryridemethod
-bip_39_word_no_space_11: targetpaymenttherewelcomeketchupvillagebonusmysteryridemethodchuckle
 bip_39_word_no_space_12: targetpaymenttherewelcomeketchupvillagebonusmysteryridemethodchuckleabstract
 bip_39_word_no_space_2: targetpayment
 bip_39_word_no_space_3: targetpaymentthere
-bip_39_word_no_space_4: targetpaymenttherewelcome
-bip_39_word_no_space_5: targetpaymenttherewelcomeketchup
-bip_39_word_no_space_6: targetpaymenttherewelcomeketchupvillage
-bip_39_word_no_space_7: targetpaymenttherewelcomeketchupvillagebonus
-bip_39_word_no_space_8: targetpaymenttherewelcomeketchupvillagebonusmystery
-bip_39_word_no_space_9: targetpaymenttherewelcomeketchupvillagebonusmysteryride
-bip_39_word_space_0:
-- target
-- payment
-- there
-- welcome
-- ketchup
-- village
-- bonus
-- mystery
-- ride
-- method
-- chuckle
-- abstract
-bip_39_word_space_1: target
-bip_39_word_space_10: target payment there welcome ketchup village bonus mystery ride
-  method
-bip_39_word_space_11: target payment there welcome ketchup village bonus mystery ride
-  method chuckle
 bip_39_word_space_12: target payment there welcome ketchup village bonus mystery ride
   method chuckle abstract
 bip_39_word_space_2: target payment
 bip_39_word_space_3: target payment there
-bip_39_word_space_4: target payment there welcome
-bip_39_word_space_5: target payment there welcome ketchup
-bip_39_word_space_6: target payment there welcome ketchup village
-bip_39_word_space_7: target payment there welcome ketchup village bonus
-bip_39_word_space_8: target payment there welcome ketchup village bonus mystery
-bip_39_word_space_9: target payment there welcome ketchup village bonus mystery ride
-bip_39_word_underscore_1: target
-bip_39_word_underscore_10: target_payment_there_welcome_ketchup_village_bonus_mystery_ride_method
-bip_39_word_underscore_11: target_payment_there_welcome_ketchup_village_bonus_mystery_ride_method_chuckle
 bip_39_word_underscore_12: target_payment_there_welcome_ketchup_village_bonus_mystery_ride_method_chuckle_abstract
 bip_39_word_underscore_2: target_payment
 bip_39_word_underscore_3: target_payment_there
-bip_39_word_underscore_4: target_payment_there_welcome
-bip_39_word_underscore_5: target_payment_there_welcome_ketchup
-bip_39_word_underscore_6: target_payment_there_welcome_ketchup_village
-bip_39_word_underscore_7: target_payment_there_welcome_ketchup_village_bonus
-bip_39_word_underscore_8: target_payment_there_welcome_ketchup_village_bonus_mystery
-bip_39_word_underscore_9: target_payment_there_welcome_ketchup_village_bonus_mystery_ride
 classification: category
 classification_capital: Category
 classification_first_letter: c

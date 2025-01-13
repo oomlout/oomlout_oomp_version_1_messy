@@ -1,68 +1,9 @@
-bip_39_word_dash_1: myth
-bip_39_word_dash_10: myth-pair-usual-maze-noise-fringe-ship-youth-winner-dinner
-bip_39_word_dash_11: myth-pair-usual-maze-noise-fringe-ship-youth-winner-dinner-outer
 bip_39_word_dash_12: myth-pair-usual-maze-noise-fringe-ship-youth-winner-dinner-outer-arrange
 bip_39_word_dash_2: myth-pair
 bip_39_word_dash_3: myth-pair-usual
-bip_39_word_dash_4: myth-pair-usual-maze
-bip_39_word_dash_5: myth-pair-usual-maze-noise
-bip_39_word_dash_6: myth-pair-usual-maze-noise-fringe
-bip_39_word_dash_7: myth-pair-usual-maze-noise-fringe-ship
-bip_39_word_dash_8: myth-pair-usual-maze-noise-fringe-ship-youth
-bip_39_word_dash_9: myth-pair-usual-maze-noise-fringe-ship-youth-winner
-bip_39_word_new_br_1: myth
-bip_39_word_new_br_10: myth<br>pair<br>usual<br>maze<br>noise<br>fringe<br>ship<br>youth<br>winner<br>dinner
-bip_39_word_new_br_11: myth<br>pair<br>usual<br>maze<br>noise<br>fringe<br>ship<br>youth<br>winner<br>dinner<br>outer
 bip_39_word_new_br_12: myth<br>pair<br>usual<br>maze<br>noise<br>fringe<br>ship<br>youth<br>winner<br>dinner<br>outer<br>arrange
 bip_39_word_new_br_2: myth<br>pair
 bip_39_word_new_br_3: myth<br>pair<br>usual
-bip_39_word_new_br_4: myth<br>pair<br>usual<br>maze
-bip_39_word_new_br_5: myth<br>pair<br>usual<br>maze<br>noise
-bip_39_word_new_br_6: myth<br>pair<br>usual<br>maze<br>noise<br>fringe
-bip_39_word_new_br_7: myth<br>pair<br>usual<br>maze<br>noise<br>fringe<br>ship
-bip_39_word_new_br_8: myth<br>pair<br>usual<br>maze<br>noise<br>fringe<br>ship<br>youth
-bip_39_word_new_br_9: myth<br>pair<br>usual<br>maze<br>noise<br>fringe<br>ship<br>youth<br>winner
-bip_39_word_new_line_1: myth
-bip_39_word_new_line_10: 'myth
-
-  pair
-
-  usual
-
-  maze
-
-  noise
-
-  fringe
-
-  ship
-
-  youth
-
-  winner
-
-  dinner'
-bip_39_word_new_line_11: 'myth
-
-  pair
-
-  usual
-
-  maze
-
-  noise
-
-  fringe
-
-  ship
-
-  youth
-
-  winner
-
-  dinner
-
-  outer'
 bip_39_word_new_line_12: 'myth
 
   pair
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'myth
   pair
 
   usual'
-bip_39_word_new_line_4: 'myth
-
-  pair
-
-  usual
-
-  maze'
-bip_39_word_new_line_5: 'myth
-
-  pair
-
-  usual
-
-  maze
-
-  noise'
-bip_39_word_new_line_6: 'myth
-
-  pair
-
-  usual
-
-  maze
-
-  noise
-
-  fringe'
-bip_39_word_new_line_7: 'myth
-
-  pair
-
-  usual
-
-  maze
-
-  noise
-
-  fringe
-
-  ship'
-bip_39_word_new_line_8: 'myth
-
-  pair
-
-  usual
-
-  maze
-
-  noise
-
-  fringe
-
-  ship
-
-  youth'
-bip_39_word_new_line_9: 'myth
-
-  pair
-
-  usual
-
-  maze
-
-  noise
-
-  fringe
-
-  ship
-
-  youth
-
-  winner'
-bip_39_word_no_space_1: myth
-bip_39_word_no_space_10: mythpairusualmazenoisefringeshipyouthwinnerdinner
-bip_39_word_no_space_11: mythpairusualmazenoisefringeshipyouthwinnerdinnerouter
 bip_39_word_no_space_12: mythpairusualmazenoisefringeshipyouthwinnerdinnerouterarrange
 bip_39_word_no_space_2: mythpair
 bip_39_word_no_space_3: mythpairusual
-bip_39_word_no_space_4: mythpairusualmaze
-bip_39_word_no_space_5: mythpairusualmazenoise
-bip_39_word_no_space_6: mythpairusualmazenoisefringe
-bip_39_word_no_space_7: mythpairusualmazenoisefringeship
-bip_39_word_no_space_8: mythpairusualmazenoisefringeshipyouth
-bip_39_word_no_space_9: mythpairusualmazenoisefringeshipyouthwinner
-bip_39_word_space_0:
-- myth
-- pair
-- usual
-- maze
-- noise
-- fringe
-- ship
-- youth
-- winner
-- dinner
-- outer
-- arrange
-bip_39_word_space_1: myth
-bip_39_word_space_10: myth pair usual maze noise fringe ship youth winner dinner
-bip_39_word_space_11: myth pair usual maze noise fringe ship youth winner dinner outer
 bip_39_word_space_12: myth pair usual maze noise fringe ship youth winner dinner outer
   arrange
 bip_39_word_space_2: myth pair
 bip_39_word_space_3: myth pair usual
-bip_39_word_space_4: myth pair usual maze
-bip_39_word_space_5: myth pair usual maze noise
-bip_39_word_space_6: myth pair usual maze noise fringe
-bip_39_word_space_7: myth pair usual maze noise fringe ship
-bip_39_word_space_8: myth pair usual maze noise fringe ship youth
-bip_39_word_space_9: myth pair usual maze noise fringe ship youth winner
-bip_39_word_underscore_1: myth
-bip_39_word_underscore_10: myth_pair_usual_maze_noise_fringe_ship_youth_winner_dinner
-bip_39_word_underscore_11: myth_pair_usual_maze_noise_fringe_ship_youth_winner_dinner_outer
 bip_39_word_underscore_12: myth_pair_usual_maze_noise_fringe_ship_youth_winner_dinner_outer_arrange
 bip_39_word_underscore_2: myth_pair
 bip_39_word_underscore_3: myth_pair_usual
-bip_39_word_underscore_4: myth_pair_usual_maze
-bip_39_word_underscore_5: myth_pair_usual_maze_noise
-bip_39_word_underscore_6: myth_pair_usual_maze_noise_fringe
-bip_39_word_underscore_7: myth_pair_usual_maze_noise_fringe_ship
-bip_39_word_underscore_8: myth_pair_usual_maze_noise_fringe_ship_youth
-bip_39_word_underscore_9: myth_pair_usual_maze_noise_fringe_ship_youth_winner
 classification: tool
 classification_capital: Tool
 classification_first_letter: t

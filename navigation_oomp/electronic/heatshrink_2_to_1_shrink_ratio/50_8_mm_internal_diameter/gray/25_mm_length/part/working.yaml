@@ -1,68 +1,9 @@
-bip_39_word_dash_1: brain
-bip_39_word_dash_10: brain-child-cousin-there-public-panda-miss-river-measure-fancy
-bip_39_word_dash_11: brain-child-cousin-there-public-panda-miss-river-measure-fancy-hungry
 bip_39_word_dash_12: brain-child-cousin-there-public-panda-miss-river-measure-fancy-hungry-absurd
 bip_39_word_dash_2: brain-child
 bip_39_word_dash_3: brain-child-cousin
-bip_39_word_dash_4: brain-child-cousin-there
-bip_39_word_dash_5: brain-child-cousin-there-public
-bip_39_word_dash_6: brain-child-cousin-there-public-panda
-bip_39_word_dash_7: brain-child-cousin-there-public-panda-miss
-bip_39_word_dash_8: brain-child-cousin-there-public-panda-miss-river
-bip_39_word_dash_9: brain-child-cousin-there-public-panda-miss-river-measure
-bip_39_word_new_br_1: brain
-bip_39_word_new_br_10: brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river<br>measure<br>fancy
-bip_39_word_new_br_11: brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river<br>measure<br>fancy<br>hungry
 bip_39_word_new_br_12: brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river<br>measure<br>fancy<br>hungry<br>absurd
 bip_39_word_new_br_2: brain<br>child
 bip_39_word_new_br_3: brain<br>child<br>cousin
-bip_39_word_new_br_4: brain<br>child<br>cousin<br>there
-bip_39_word_new_br_5: brain<br>child<br>cousin<br>there<br>public
-bip_39_word_new_br_6: brain<br>child<br>cousin<br>there<br>public<br>panda
-bip_39_word_new_br_7: brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss
-bip_39_word_new_br_8: brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river
-bip_39_word_new_br_9: brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river<br>measure
-bip_39_word_new_line_1: brain
-bip_39_word_new_line_10: 'brain
-
-  child
-
-  cousin
-
-  there
-
-  public
-
-  panda
-
-  miss
-
-  river
-
-  measure
-
-  fancy'
-bip_39_word_new_line_11: 'brain
-
-  child
-
-  cousin
-
-  there
-
-  public
-
-  panda
-
-  miss
-
-  river
-
-  measure
-
-  fancy
-
-  hungry'
 bip_39_word_new_line_12: 'brain
 
   child
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'brain
   child
 
   cousin'
-bip_39_word_new_line_4: 'brain
-
-  child
-
-  cousin
-
-  there'
-bip_39_word_new_line_5: 'brain
-
-  child
-
-  cousin
-
-  there
-
-  public'
-bip_39_word_new_line_6: 'brain
-
-  child
-
-  cousin
-
-  there
-
-  public
-
-  panda'
-bip_39_word_new_line_7: 'brain
-
-  child
-
-  cousin
-
-  there
-
-  public
-
-  panda
-
-  miss'
-bip_39_word_new_line_8: 'brain
-
-  child
-
-  cousin
-
-  there
-
-  public
-
-  panda
-
-  miss
-
-  river'
-bip_39_word_new_line_9: 'brain
-
-  child
-
-  cousin
-
-  there
-
-  public
-
-  panda
-
-  miss
-
-  river
-
-  measure'
-bip_39_word_no_space_1: brain
-bip_39_word_no_space_10: brainchildcousintherepublicpandamissrivermeasurefancy
-bip_39_word_no_space_11: brainchildcousintherepublicpandamissrivermeasurefancyhungry
 bip_39_word_no_space_12: brainchildcousintherepublicpandamissrivermeasurefancyhungryabsurd
 bip_39_word_no_space_2: brainchild
 bip_39_word_no_space_3: brainchildcousin
-bip_39_word_no_space_4: brainchildcousinthere
-bip_39_word_no_space_5: brainchildcousintherepublic
-bip_39_word_no_space_6: brainchildcousintherepublicpanda
-bip_39_word_no_space_7: brainchildcousintherepublicpandamiss
-bip_39_word_no_space_8: brainchildcousintherepublicpandamissriver
-bip_39_word_no_space_9: brainchildcousintherepublicpandamissrivermeasure
-bip_39_word_space_0:
-- brain
-- child
-- cousin
-- there
-- public
-- panda
-- miss
-- river
-- measure
-- fancy
-- hungry
-- absurd
-bip_39_word_space_1: brain
-bip_39_word_space_10: brain child cousin there public panda miss river measure fancy
-bip_39_word_space_11: brain child cousin there public panda miss river measure fancy
-  hungry
 bip_39_word_space_12: brain child cousin there public panda miss river measure fancy
   hungry absurd
 bip_39_word_space_2: brain child
 bip_39_word_space_3: brain child cousin
-bip_39_word_space_4: brain child cousin there
-bip_39_word_space_5: brain child cousin there public
-bip_39_word_space_6: brain child cousin there public panda
-bip_39_word_space_7: brain child cousin there public panda miss
-bip_39_word_space_8: brain child cousin there public panda miss river
-bip_39_word_space_9: brain child cousin there public panda miss river measure
-bip_39_word_underscore_1: brain
-bip_39_word_underscore_10: brain_child_cousin_there_public_panda_miss_river_measure_fancy
-bip_39_word_underscore_11: brain_child_cousin_there_public_panda_miss_river_measure_fancy_hungry
 bip_39_word_underscore_12: brain_child_cousin_there_public_panda_miss_river_measure_fancy_hungry_absurd
 bip_39_word_underscore_2: brain_child
 bip_39_word_underscore_3: brain_child_cousin
-bip_39_word_underscore_4: brain_child_cousin_there
-bip_39_word_underscore_5: brain_child_cousin_there_public
-bip_39_word_underscore_6: brain_child_cousin_there_public_panda
-bip_39_word_underscore_7: brain_child_cousin_there_public_panda_miss
-bip_39_word_underscore_8: brain_child_cousin_there_public_panda_miss_river
-bip_39_word_underscore_9: brain_child_cousin_there_public_panda_miss_river_measure
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

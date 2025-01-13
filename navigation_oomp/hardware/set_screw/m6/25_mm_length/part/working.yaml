@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420654173'
-bip_39_word_dash_1: family
-bip_39_word_dash_10: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney
-bip_39_word_dash_11: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney-bullet
 bip_39_word_dash_12: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney-bullet-audit
 bip_39_word_dash_2: family-example
 bip_39_word_dash_3: family-example-kite
-bip_39_word_dash_4: family-example-kite-pottery
-bip_39_word_dash_5: family-example-kite-pottery-sick
-bip_39_word_dash_6: family-example-kite-pottery-sick-fatigue
-bip_39_word_dash_7: family-example-kite-pottery-sick-fatigue-update
-bip_39_word_dash_8: family-example-kite-pottery-sick-fatigue-update-cliff
-bip_39_word_dash_9: family-example-kite-pottery-sick-fatigue-update-cliff-agree
-bip_39_word_new_br_1: family
-bip_39_word_new_br_10: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree<br>chimney
-bip_39_word_new_br_11: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree<br>chimney<br>bullet
 bip_39_word_new_br_12: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree<br>chimney<br>bullet<br>audit
 bip_39_word_new_br_2: family<br>example
 bip_39_word_new_br_3: family<br>example<br>kite
-bip_39_word_new_br_4: family<br>example<br>kite<br>pottery
-bip_39_word_new_br_5: family<br>example<br>kite<br>pottery<br>sick
-bip_39_word_new_br_6: family<br>example<br>kite<br>pottery<br>sick<br>fatigue
-bip_39_word_new_br_7: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update
-bip_39_word_new_br_8: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff
-bip_39_word_new_br_9: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree
-bip_39_word_new_line_1: family
-bip_39_word_new_line_10: 'family
-
-  example
-
-  kite
-
-  pottery
-
-  sick
-
-  fatigue
-
-  update
-
-  cliff
-
-  agree
-
-  chimney'
-bip_39_word_new_line_11: 'family
-
-  example
-
-  kite
-
-  pottery
-
-  sick
-
-  fatigue
-
-  update
-
-  cliff
-
-  agree
-
-  chimney
-
-  bullet'
 bip_39_word_new_line_12: 'family
 
   example
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'family
   example
 
   kite'
-bip_39_word_new_line_4: 'family
-
-  example
-
-  kite
-
-  pottery'
-bip_39_word_new_line_5: 'family
-
-  example
-
-  kite
-
-  pottery
-
-  sick'
-bip_39_word_new_line_6: 'family
-
-  example
-
-  kite
-
-  pottery
-
-  sick
-
-  fatigue'
-bip_39_word_new_line_7: 'family
-
-  example
-
-  kite
-
-  pottery
-
-  sick
-
-  fatigue
-
-  update'
-bip_39_word_new_line_8: 'family
-
-  example
-
-  kite
-
-  pottery
-
-  sick
-
-  fatigue
-
-  update
-
-  cliff'
-bip_39_word_new_line_9: 'family
-
-  example
-
-  kite
-
-  pottery
-
-  sick
-
-  fatigue
-
-  update
-
-  cliff
-
-  agree'
-bip_39_word_no_space_1: family
-bip_39_word_no_space_10: familyexamplekitepotterysickfatigueupdatecliffagreechimney
-bip_39_word_no_space_11: familyexamplekitepotterysickfatigueupdatecliffagreechimneybullet
 bip_39_word_no_space_12: familyexamplekitepotterysickfatigueupdatecliffagreechimneybulletaudit
 bip_39_word_no_space_2: familyexample
 bip_39_word_no_space_3: familyexamplekite
-bip_39_word_no_space_4: familyexamplekitepottery
-bip_39_word_no_space_5: familyexamplekitepotterysick
-bip_39_word_no_space_6: familyexamplekitepotterysickfatigue
-bip_39_word_no_space_7: familyexamplekitepotterysickfatigueupdate
-bip_39_word_no_space_8: familyexamplekitepotterysickfatigueupdatecliff
-bip_39_word_no_space_9: familyexamplekitepotterysickfatigueupdatecliffagree
-bip_39_word_space_0:
-- family
-- example
-- kite
-- pottery
-- sick
-- fatigue
-- update
-- cliff
-- agree
-- chimney
-- bullet
-- audit
-bip_39_word_space_1: family
-bip_39_word_space_10: family example kite pottery sick fatigue update cliff agree
-  chimney
-bip_39_word_space_11: family example kite pottery sick fatigue update cliff agree
-  chimney bullet
 bip_39_word_space_12: family example kite pottery sick fatigue update cliff agree
   chimney bullet audit
 bip_39_word_space_2: family example
 bip_39_word_space_3: family example kite
-bip_39_word_space_4: family example kite pottery
-bip_39_word_space_5: family example kite pottery sick
-bip_39_word_space_6: family example kite pottery sick fatigue
-bip_39_word_space_7: family example kite pottery sick fatigue update
-bip_39_word_space_8: family example kite pottery sick fatigue update cliff
-bip_39_word_space_9: family example kite pottery sick fatigue update cliff agree
-bip_39_word_underscore_1: family
-bip_39_word_underscore_10: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney
-bip_39_word_underscore_11: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney_bullet
 bip_39_word_underscore_12: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney_bullet_audit
 bip_39_word_underscore_2: family_example
 bip_39_word_underscore_3: family_example_kite
-bip_39_word_underscore_4: family_example_kite_pottery
-bip_39_word_underscore_5: family_example_kite_pottery_sick
-bip_39_word_underscore_6: family_example_kite_pottery_sick_fatigue
-bip_39_word_underscore_7: family_example_kite_pottery_sick_fatigue_update
-bip_39_word_underscore_8: family_example_kite_pottery_sick_fatigue_update_cliff
-bip_39_word_underscore_9: family_example_kite_pottery_sick_fatigue_update_cliff_agree
 box_of_box_size_manufacturer_metalmate: '3000'
 box_size_manufacturer_metalmate: '500'
 classification: hardware

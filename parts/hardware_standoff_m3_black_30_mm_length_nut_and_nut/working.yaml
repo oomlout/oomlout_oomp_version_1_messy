@@ -1,68 +1,9 @@
-bip_39_word_dash_1: middle
-bip_39_word_dash_10: middle-fan-obscure-talk-issue-topple-crash-town-spare-veteran
-bip_39_word_dash_11: middle-fan-obscure-talk-issue-topple-crash-town-spare-veteran-zebra
 bip_39_word_dash_12: middle-fan-obscure-talk-issue-topple-crash-town-spare-veteran-zebra-aisle
 bip_39_word_dash_2: middle-fan
 bip_39_word_dash_3: middle-fan-obscure
-bip_39_word_dash_4: middle-fan-obscure-talk
-bip_39_word_dash_5: middle-fan-obscure-talk-issue
-bip_39_word_dash_6: middle-fan-obscure-talk-issue-topple
-bip_39_word_dash_7: middle-fan-obscure-talk-issue-topple-crash
-bip_39_word_dash_8: middle-fan-obscure-talk-issue-topple-crash-town
-bip_39_word_dash_9: middle-fan-obscure-talk-issue-topple-crash-town-spare
-bip_39_word_new_br_1: middle
-bip_39_word_new_br_10: middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran
-bip_39_word_new_br_11: middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran<br>zebra
 bip_39_word_new_br_12: middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran<br>zebra<br>aisle
 bip_39_word_new_br_2: middle<br>fan
 bip_39_word_new_br_3: middle<br>fan<br>obscure
-bip_39_word_new_br_4: middle<br>fan<br>obscure<br>talk
-bip_39_word_new_br_5: middle<br>fan<br>obscure<br>talk<br>issue
-bip_39_word_new_br_6: middle<br>fan<br>obscure<br>talk<br>issue<br>topple
-bip_39_word_new_br_7: middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash
-bip_39_word_new_br_8: middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town
-bip_39_word_new_br_9: middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare
-bip_39_word_new_line_1: middle
-bip_39_word_new_line_10: 'middle
-
-  fan
-
-  obscure
-
-  talk
-
-  issue
-
-  topple
-
-  crash
-
-  town
-
-  spare
-
-  veteran'
-bip_39_word_new_line_11: 'middle
-
-  fan
-
-  obscure
-
-  talk
-
-  issue
-
-  topple
-
-  crash
-
-  town
-
-  spare
-
-  veteran
-
-  zebra'
 bip_39_word_new_line_12: 'middle
 
   fan
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'middle
   fan
 
   obscure'
-bip_39_word_new_line_4: 'middle
-
-  fan
-
-  obscure
-
-  talk'
-bip_39_word_new_line_5: 'middle
-
-  fan
-
-  obscure
-
-  talk
-
-  issue'
-bip_39_word_new_line_6: 'middle
-
-  fan
-
-  obscure
-
-  talk
-
-  issue
-
-  topple'
-bip_39_word_new_line_7: 'middle
-
-  fan
-
-  obscure
-
-  talk
-
-  issue
-
-  topple
-
-  crash'
-bip_39_word_new_line_8: 'middle
-
-  fan
-
-  obscure
-
-  talk
-
-  issue
-
-  topple
-
-  crash
-
-  town'
-bip_39_word_new_line_9: 'middle
-
-  fan
-
-  obscure
-
-  talk
-
-  issue
-
-  topple
-
-  crash
-
-  town
-
-  spare'
-bip_39_word_no_space_1: middle
-bip_39_word_no_space_10: middlefanobscuretalkissuetopplecrashtownspareveteran
-bip_39_word_no_space_11: middlefanobscuretalkissuetopplecrashtownspareveteranzebra
 bip_39_word_no_space_12: middlefanobscuretalkissuetopplecrashtownspareveteranzebraaisle
 bip_39_word_no_space_2: middlefan
 bip_39_word_no_space_3: middlefanobscure
-bip_39_word_no_space_4: middlefanobscuretalk
-bip_39_word_no_space_5: middlefanobscuretalkissue
-bip_39_word_no_space_6: middlefanobscuretalkissuetopple
-bip_39_word_no_space_7: middlefanobscuretalkissuetopplecrash
-bip_39_word_no_space_8: middlefanobscuretalkissuetopplecrashtown
-bip_39_word_no_space_9: middlefanobscuretalkissuetopplecrashtownspare
-bip_39_word_space_0:
-- middle
-- fan
-- obscure
-- talk
-- issue
-- topple
-- crash
-- town
-- spare
-- veteran
-- zebra
-- aisle
-bip_39_word_space_1: middle
-bip_39_word_space_10: middle fan obscure talk issue topple crash town spare veteran
-bip_39_word_space_11: middle fan obscure talk issue topple crash town spare veteran
-  zebra
 bip_39_word_space_12: middle fan obscure talk issue topple crash town spare veteran
   zebra aisle
 bip_39_word_space_2: middle fan
 bip_39_word_space_3: middle fan obscure
-bip_39_word_space_4: middle fan obscure talk
-bip_39_word_space_5: middle fan obscure talk issue
-bip_39_word_space_6: middle fan obscure talk issue topple
-bip_39_word_space_7: middle fan obscure talk issue topple crash
-bip_39_word_space_8: middle fan obscure talk issue topple crash town
-bip_39_word_space_9: middle fan obscure talk issue topple crash town spare
-bip_39_word_underscore_1: middle
-bip_39_word_underscore_10: middle_fan_obscure_talk_issue_topple_crash_town_spare_veteran
-bip_39_word_underscore_11: middle_fan_obscure_talk_issue_topple_crash_town_spare_veteran_zebra
 bip_39_word_underscore_12: middle_fan_obscure_talk_issue_topple_crash_town_spare_veteran_zebra_aisle
 bip_39_word_underscore_2: middle_fan
 bip_39_word_underscore_3: middle_fan_obscure
-bip_39_word_underscore_4: middle_fan_obscure_talk
-bip_39_word_underscore_5: middle_fan_obscure_talk_issue
-bip_39_word_underscore_6: middle_fan_obscure_talk_issue_topple
-bip_39_word_underscore_7: middle_fan_obscure_talk_issue_topple_crash
-bip_39_word_underscore_8: middle_fan_obscure_talk_issue_topple_crash_town
-bip_39_word_underscore_9: middle_fan_obscure_talk_issue_topple_crash_town_spare
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

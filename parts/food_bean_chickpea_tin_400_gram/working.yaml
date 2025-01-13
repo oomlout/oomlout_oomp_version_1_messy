@@ -1,68 +1,9 @@
-bip_39_word_dash_1: goose
-bip_39_word_dash_10: goose-sound-naive-grape-machine-crumble-pen-begin-limit-mystery
-bip_39_word_dash_11: goose-sound-naive-grape-machine-crumble-pen-begin-limit-mystery-conduct
 bip_39_word_dash_12: goose-sound-naive-grape-machine-crumble-pen-begin-limit-mystery-conduct-act
 bip_39_word_dash_2: goose-sound
 bip_39_word_dash_3: goose-sound-naive
-bip_39_word_dash_4: goose-sound-naive-grape
-bip_39_word_dash_5: goose-sound-naive-grape-machine
-bip_39_word_dash_6: goose-sound-naive-grape-machine-crumble
-bip_39_word_dash_7: goose-sound-naive-grape-machine-crumble-pen
-bip_39_word_dash_8: goose-sound-naive-grape-machine-crumble-pen-begin
-bip_39_word_dash_9: goose-sound-naive-grape-machine-crumble-pen-begin-limit
-bip_39_word_new_br_1: goose
-bip_39_word_new_br_10: goose<br>sound<br>naive<br>grape<br>machine<br>crumble<br>pen<br>begin<br>limit<br>mystery
-bip_39_word_new_br_11: goose<br>sound<br>naive<br>grape<br>machine<br>crumble<br>pen<br>begin<br>limit<br>mystery<br>conduct
 bip_39_word_new_br_12: goose<br>sound<br>naive<br>grape<br>machine<br>crumble<br>pen<br>begin<br>limit<br>mystery<br>conduct<br>act
 bip_39_word_new_br_2: goose<br>sound
 bip_39_word_new_br_3: goose<br>sound<br>naive
-bip_39_word_new_br_4: goose<br>sound<br>naive<br>grape
-bip_39_word_new_br_5: goose<br>sound<br>naive<br>grape<br>machine
-bip_39_word_new_br_6: goose<br>sound<br>naive<br>grape<br>machine<br>crumble
-bip_39_word_new_br_7: goose<br>sound<br>naive<br>grape<br>machine<br>crumble<br>pen
-bip_39_word_new_br_8: goose<br>sound<br>naive<br>grape<br>machine<br>crumble<br>pen<br>begin
-bip_39_word_new_br_9: goose<br>sound<br>naive<br>grape<br>machine<br>crumble<br>pen<br>begin<br>limit
-bip_39_word_new_line_1: goose
-bip_39_word_new_line_10: 'goose
-
-  sound
-
-  naive
-
-  grape
-
-  machine
-
-  crumble
-
-  pen
-
-  begin
-
-  limit
-
-  mystery'
-bip_39_word_new_line_11: 'goose
-
-  sound
-
-  naive
-
-  grape
-
-  machine
-
-  crumble
-
-  pen
-
-  begin
-
-  limit
-
-  mystery
-
-  conduct'
 bip_39_word_new_line_12: 'goose
 
   sound
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'goose
   sound
 
   naive'
-bip_39_word_new_line_4: 'goose
-
-  sound
-
-  naive
-
-  grape'
-bip_39_word_new_line_5: 'goose
-
-  sound
-
-  naive
-
-  grape
-
-  machine'
-bip_39_word_new_line_6: 'goose
-
-  sound
-
-  naive
-
-  grape
-
-  machine
-
-  crumble'
-bip_39_word_new_line_7: 'goose
-
-  sound
-
-  naive
-
-  grape
-
-  machine
-
-  crumble
-
-  pen'
-bip_39_word_new_line_8: 'goose
-
-  sound
-
-  naive
-
-  grape
-
-  machine
-
-  crumble
-
-  pen
-
-  begin'
-bip_39_word_new_line_9: 'goose
-
-  sound
-
-  naive
-
-  grape
-
-  machine
-
-  crumble
-
-  pen
-
-  begin
-
-  limit'
-bip_39_word_no_space_1: goose
-bip_39_word_no_space_10: goosesoundnaivegrapemachinecrumblepenbeginlimitmystery
-bip_39_word_no_space_11: goosesoundnaivegrapemachinecrumblepenbeginlimitmysteryconduct
 bip_39_word_no_space_12: goosesoundnaivegrapemachinecrumblepenbeginlimitmysteryconductact
 bip_39_word_no_space_2: goosesound
 bip_39_word_no_space_3: goosesoundnaive
-bip_39_word_no_space_4: goosesoundnaivegrape
-bip_39_word_no_space_5: goosesoundnaivegrapemachine
-bip_39_word_no_space_6: goosesoundnaivegrapemachinecrumble
-bip_39_word_no_space_7: goosesoundnaivegrapemachinecrumblepen
-bip_39_word_no_space_8: goosesoundnaivegrapemachinecrumblepenbegin
-bip_39_word_no_space_9: goosesoundnaivegrapemachinecrumblepenbeginlimit
-bip_39_word_space_0:
-- goose
-- sound
-- naive
-- grape
-- machine
-- crumble
-- pen
-- begin
-- limit
-- mystery
-- conduct
-- act
-bip_39_word_space_1: goose
-bip_39_word_space_10: goose sound naive grape machine crumble pen begin limit mystery
-bip_39_word_space_11: goose sound naive grape machine crumble pen begin limit mystery
-  conduct
 bip_39_word_space_12: goose sound naive grape machine crumble pen begin limit mystery
   conduct act
 bip_39_word_space_2: goose sound
 bip_39_word_space_3: goose sound naive
-bip_39_word_space_4: goose sound naive grape
-bip_39_word_space_5: goose sound naive grape machine
-bip_39_word_space_6: goose sound naive grape machine crumble
-bip_39_word_space_7: goose sound naive grape machine crumble pen
-bip_39_word_space_8: goose sound naive grape machine crumble pen begin
-bip_39_word_space_9: goose sound naive grape machine crumble pen begin limit
-bip_39_word_underscore_1: goose
-bip_39_word_underscore_10: goose_sound_naive_grape_machine_crumble_pen_begin_limit_mystery
-bip_39_word_underscore_11: goose_sound_naive_grape_machine_crumble_pen_begin_limit_mystery_conduct
 bip_39_word_underscore_12: goose_sound_naive_grape_machine_crumble_pen_begin_limit_mystery_conduct_act
 bip_39_word_underscore_2: goose_sound
 bip_39_word_underscore_3: goose_sound_naive
-bip_39_word_underscore_4: goose_sound_naive_grape
-bip_39_word_underscore_5: goose_sound_naive_grape_machine
-bip_39_word_underscore_6: goose_sound_naive_grape_machine_crumble
-bip_39_word_underscore_7: goose_sound_naive_grape_machine_crumble_pen
-bip_39_word_underscore_8: goose_sound_naive_grape_machine_crumble_pen_begin
-bip_39_word_underscore_9: goose_sound_naive_grape_machine_crumble_pen_begin_limit
 classification: food
 classification_capital: Food
 classification_first_letter: f

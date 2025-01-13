@@ -1,68 +1,9 @@
-bip_39_word_dash_1: model
-bip_39_word_dash_10: model-hello-crane-begin-reduce-behind-elegant-gospel-theory-abstract
-bip_39_word_dash_11: model-hello-crane-begin-reduce-behind-elegant-gospel-theory-abstract-subway
 bip_39_word_dash_12: model-hello-crane-begin-reduce-behind-elegant-gospel-theory-abstract-subway-angry
 bip_39_word_dash_2: model-hello
 bip_39_word_dash_3: model-hello-crane
-bip_39_word_dash_4: model-hello-crane-begin
-bip_39_word_dash_5: model-hello-crane-begin-reduce
-bip_39_word_dash_6: model-hello-crane-begin-reduce-behind
-bip_39_word_dash_7: model-hello-crane-begin-reduce-behind-elegant
-bip_39_word_dash_8: model-hello-crane-begin-reduce-behind-elegant-gospel
-bip_39_word_dash_9: model-hello-crane-begin-reduce-behind-elegant-gospel-theory
-bip_39_word_new_br_1: model
-bip_39_word_new_br_10: model<br>hello<br>crane<br>begin<br>reduce<br>behind<br>elegant<br>gospel<br>theory<br>abstract
-bip_39_word_new_br_11: model<br>hello<br>crane<br>begin<br>reduce<br>behind<br>elegant<br>gospel<br>theory<br>abstract<br>subway
 bip_39_word_new_br_12: model<br>hello<br>crane<br>begin<br>reduce<br>behind<br>elegant<br>gospel<br>theory<br>abstract<br>subway<br>angry
 bip_39_word_new_br_2: model<br>hello
 bip_39_word_new_br_3: model<br>hello<br>crane
-bip_39_word_new_br_4: model<br>hello<br>crane<br>begin
-bip_39_word_new_br_5: model<br>hello<br>crane<br>begin<br>reduce
-bip_39_word_new_br_6: model<br>hello<br>crane<br>begin<br>reduce<br>behind
-bip_39_word_new_br_7: model<br>hello<br>crane<br>begin<br>reduce<br>behind<br>elegant
-bip_39_word_new_br_8: model<br>hello<br>crane<br>begin<br>reduce<br>behind<br>elegant<br>gospel
-bip_39_word_new_br_9: model<br>hello<br>crane<br>begin<br>reduce<br>behind<br>elegant<br>gospel<br>theory
-bip_39_word_new_line_1: model
-bip_39_word_new_line_10: 'model
-
-  hello
-
-  crane
-
-  begin
-
-  reduce
-
-  behind
-
-  elegant
-
-  gospel
-
-  theory
-
-  abstract'
-bip_39_word_new_line_11: 'model
-
-  hello
-
-  crane
-
-  begin
-
-  reduce
-
-  behind
-
-  elegant
-
-  gospel
-
-  theory
-
-  abstract
-
-  subway'
 bip_39_word_new_line_12: 'model
 
   hello
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'model
   hello
 
   crane'
-bip_39_word_new_line_4: 'model
-
-  hello
-
-  crane
-
-  begin'
-bip_39_word_new_line_5: 'model
-
-  hello
-
-  crane
-
-  begin
-
-  reduce'
-bip_39_word_new_line_6: 'model
-
-  hello
-
-  crane
-
-  begin
-
-  reduce
-
-  behind'
-bip_39_word_new_line_7: 'model
-
-  hello
-
-  crane
-
-  begin
-
-  reduce
-
-  behind
-
-  elegant'
-bip_39_word_new_line_8: 'model
-
-  hello
-
-  crane
-
-  begin
-
-  reduce
-
-  behind
-
-  elegant
-
-  gospel'
-bip_39_word_new_line_9: 'model
-
-  hello
-
-  crane
-
-  begin
-
-  reduce
-
-  behind
-
-  elegant
-
-  gospel
-
-  theory'
-bip_39_word_no_space_1: model
-bip_39_word_no_space_10: modelhellocranebeginreducebehindelegantgospeltheoryabstract
-bip_39_word_no_space_11: modelhellocranebeginreducebehindelegantgospeltheoryabstractsubway
 bip_39_word_no_space_12: modelhellocranebeginreducebehindelegantgospeltheoryabstractsubwayangry
 bip_39_word_no_space_2: modelhello
 bip_39_word_no_space_3: modelhellocrane
-bip_39_word_no_space_4: modelhellocranebegin
-bip_39_word_no_space_5: modelhellocranebeginreduce
-bip_39_word_no_space_6: modelhellocranebeginreducebehind
-bip_39_word_no_space_7: modelhellocranebeginreducebehindelegant
-bip_39_word_no_space_8: modelhellocranebeginreducebehindelegantgospel
-bip_39_word_no_space_9: modelhellocranebeginreducebehindelegantgospeltheory
-bip_39_word_space_0:
-- model
-- hello
-- crane
-- begin
-- reduce
-- behind
-- elegant
-- gospel
-- theory
-- abstract
-- subway
-- angry
-bip_39_word_space_1: model
-bip_39_word_space_10: model hello crane begin reduce behind elegant gospel theory
-  abstract
-bip_39_word_space_11: model hello crane begin reduce behind elegant gospel theory
-  abstract subway
 bip_39_word_space_12: model hello crane begin reduce behind elegant gospel theory
   abstract subway angry
 bip_39_word_space_2: model hello
 bip_39_word_space_3: model hello crane
-bip_39_word_space_4: model hello crane begin
-bip_39_word_space_5: model hello crane begin reduce
-bip_39_word_space_6: model hello crane begin reduce behind
-bip_39_word_space_7: model hello crane begin reduce behind elegant
-bip_39_word_space_8: model hello crane begin reduce behind elegant gospel
-bip_39_word_space_9: model hello crane begin reduce behind elegant gospel theory
-bip_39_word_underscore_1: model
-bip_39_word_underscore_10: model_hello_crane_begin_reduce_behind_elegant_gospel_theory_abstract
-bip_39_word_underscore_11: model_hello_crane_begin_reduce_behind_elegant_gospel_theory_abstract_subway
 bip_39_word_underscore_12: model_hello_crane_begin_reduce_behind_elegant_gospel_theory_abstract_subway_angry
 bip_39_word_underscore_2: model_hello
 bip_39_word_underscore_3: model_hello_crane
-bip_39_word_underscore_4: model_hello_crane_begin
-bip_39_word_underscore_5: model_hello_crane_begin_reduce
-bip_39_word_underscore_6: model_hello_crane_begin_reduce_behind
-bip_39_word_underscore_7: model_hello_crane_begin_reduce_behind_elegant
-bip_39_word_underscore_8: model_hello_crane_begin_reduce_behind_elegant_gospel
-bip_39_word_underscore_9: model_hello_crane_begin_reduce_behind_elegant_gospel_theory
 classification: category
 classification_capital: Category
 classification_first_letter: c

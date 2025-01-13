@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scrap
-bip_39_word_dash_10: scrap-escape-crouch-habit-van-lend-foster-daring-what-lizard
-bip_39_word_dash_11: scrap-escape-crouch-habit-van-lend-foster-daring-what-lizard-primary
 bip_39_word_dash_12: scrap-escape-crouch-habit-van-lend-foster-daring-what-lizard-primary-aspect
 bip_39_word_dash_2: scrap-escape
 bip_39_word_dash_3: scrap-escape-crouch
-bip_39_word_dash_4: scrap-escape-crouch-habit
-bip_39_word_dash_5: scrap-escape-crouch-habit-van
-bip_39_word_dash_6: scrap-escape-crouch-habit-van-lend
-bip_39_word_dash_7: scrap-escape-crouch-habit-van-lend-foster
-bip_39_word_dash_8: scrap-escape-crouch-habit-van-lend-foster-daring
-bip_39_word_dash_9: scrap-escape-crouch-habit-van-lend-foster-daring-what
-bip_39_word_new_br_1: scrap
-bip_39_word_new_br_10: scrap<br>escape<br>crouch<br>habit<br>van<br>lend<br>foster<br>daring<br>what<br>lizard
-bip_39_word_new_br_11: scrap<br>escape<br>crouch<br>habit<br>van<br>lend<br>foster<br>daring<br>what<br>lizard<br>primary
 bip_39_word_new_br_12: scrap<br>escape<br>crouch<br>habit<br>van<br>lend<br>foster<br>daring<br>what<br>lizard<br>primary<br>aspect
 bip_39_word_new_br_2: scrap<br>escape
 bip_39_word_new_br_3: scrap<br>escape<br>crouch
-bip_39_word_new_br_4: scrap<br>escape<br>crouch<br>habit
-bip_39_word_new_br_5: scrap<br>escape<br>crouch<br>habit<br>van
-bip_39_word_new_br_6: scrap<br>escape<br>crouch<br>habit<br>van<br>lend
-bip_39_word_new_br_7: scrap<br>escape<br>crouch<br>habit<br>van<br>lend<br>foster
-bip_39_word_new_br_8: scrap<br>escape<br>crouch<br>habit<br>van<br>lend<br>foster<br>daring
-bip_39_word_new_br_9: scrap<br>escape<br>crouch<br>habit<br>van<br>lend<br>foster<br>daring<br>what
-bip_39_word_new_line_1: scrap
-bip_39_word_new_line_10: 'scrap
-
-  escape
-
-  crouch
-
-  habit
-
-  van
-
-  lend
-
-  foster
-
-  daring
-
-  what
-
-  lizard'
-bip_39_word_new_line_11: 'scrap
-
-  escape
-
-  crouch
-
-  habit
-
-  van
-
-  lend
-
-  foster
-
-  daring
-
-  what
-
-  lizard
-
-  primary'
 bip_39_word_new_line_12: 'scrap
 
   escape
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scrap
   escape
 
   crouch'
-bip_39_word_new_line_4: 'scrap
-
-  escape
-
-  crouch
-
-  habit'
-bip_39_word_new_line_5: 'scrap
-
-  escape
-
-  crouch
-
-  habit
-
-  van'
-bip_39_word_new_line_6: 'scrap
-
-  escape
-
-  crouch
-
-  habit
-
-  van
-
-  lend'
-bip_39_word_new_line_7: 'scrap
-
-  escape
-
-  crouch
-
-  habit
-
-  van
-
-  lend
-
-  foster'
-bip_39_word_new_line_8: 'scrap
-
-  escape
-
-  crouch
-
-  habit
-
-  van
-
-  lend
-
-  foster
-
-  daring'
-bip_39_word_new_line_9: 'scrap
-
-  escape
-
-  crouch
-
-  habit
-
-  van
-
-  lend
-
-  foster
-
-  daring
-
-  what'
-bip_39_word_no_space_1: scrap
-bip_39_word_no_space_10: scrapescapecrouchhabitvanlendfosterdaringwhatlizard
-bip_39_word_no_space_11: scrapescapecrouchhabitvanlendfosterdaringwhatlizardprimary
 bip_39_word_no_space_12: scrapescapecrouchhabitvanlendfosterdaringwhatlizardprimaryaspect
 bip_39_word_no_space_2: scrapescape
 bip_39_word_no_space_3: scrapescapecrouch
-bip_39_word_no_space_4: scrapescapecrouchhabit
-bip_39_word_no_space_5: scrapescapecrouchhabitvan
-bip_39_word_no_space_6: scrapescapecrouchhabitvanlend
-bip_39_word_no_space_7: scrapescapecrouchhabitvanlendfoster
-bip_39_word_no_space_8: scrapescapecrouchhabitvanlendfosterdaring
-bip_39_word_no_space_9: scrapescapecrouchhabitvanlendfosterdaringwhat
-bip_39_word_space_0:
-- scrap
-- escape
-- crouch
-- habit
-- van
-- lend
-- foster
-- daring
-- what
-- lizard
-- primary
-- aspect
-bip_39_word_space_1: scrap
-bip_39_word_space_10: scrap escape crouch habit van lend foster daring what lizard
-bip_39_word_space_11: scrap escape crouch habit van lend foster daring what lizard
-  primary
 bip_39_word_space_12: scrap escape crouch habit van lend foster daring what lizard
   primary aspect
 bip_39_word_space_2: scrap escape
 bip_39_word_space_3: scrap escape crouch
-bip_39_word_space_4: scrap escape crouch habit
-bip_39_word_space_5: scrap escape crouch habit van
-bip_39_word_space_6: scrap escape crouch habit van lend
-bip_39_word_space_7: scrap escape crouch habit van lend foster
-bip_39_word_space_8: scrap escape crouch habit van lend foster daring
-bip_39_word_space_9: scrap escape crouch habit van lend foster daring what
-bip_39_word_underscore_1: scrap
-bip_39_word_underscore_10: scrap_escape_crouch_habit_van_lend_foster_daring_what_lizard
-bip_39_word_underscore_11: scrap_escape_crouch_habit_van_lend_foster_daring_what_lizard_primary
 bip_39_word_underscore_12: scrap_escape_crouch_habit_van_lend_foster_daring_what_lizard_primary_aspect
 bip_39_word_underscore_2: scrap_escape
 bip_39_word_underscore_3: scrap_escape_crouch
-bip_39_word_underscore_4: scrap_escape_crouch_habit
-bip_39_word_underscore_5: scrap_escape_crouch_habit_van
-bip_39_word_underscore_6: scrap_escape_crouch_habit_van_lend
-bip_39_word_underscore_7: scrap_escape_crouch_habit_van_lend_foster
-bip_39_word_underscore_8: scrap_escape_crouch_habit_van_lend_foster_daring
-bip_39_word_underscore_9: scrap_escape_crouch_habit_van_lend_foster_daring_what
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

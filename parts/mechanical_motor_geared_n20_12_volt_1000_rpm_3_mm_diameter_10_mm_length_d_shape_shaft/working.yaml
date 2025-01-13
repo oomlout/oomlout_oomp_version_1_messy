@@ -1,68 +1,9 @@
-bip_39_word_dash_1: verb
-bip_39_word_dash_10: verb-alone-spy-elegant-harsh-basic-oval-wet-abstract-good
-bip_39_word_dash_11: verb-alone-spy-elegant-harsh-basic-oval-wet-abstract-good-medal
 bip_39_word_dash_12: verb-alone-spy-elegant-harsh-basic-oval-wet-abstract-good-medal-again
 bip_39_word_dash_2: verb-alone
 bip_39_word_dash_3: verb-alone-spy
-bip_39_word_dash_4: verb-alone-spy-elegant
-bip_39_word_dash_5: verb-alone-spy-elegant-harsh
-bip_39_word_dash_6: verb-alone-spy-elegant-harsh-basic
-bip_39_word_dash_7: verb-alone-spy-elegant-harsh-basic-oval
-bip_39_word_dash_8: verb-alone-spy-elegant-harsh-basic-oval-wet
-bip_39_word_dash_9: verb-alone-spy-elegant-harsh-basic-oval-wet-abstract
-bip_39_word_new_br_1: verb
-bip_39_word_new_br_10: verb<br>alone<br>spy<br>elegant<br>harsh<br>basic<br>oval<br>wet<br>abstract<br>good
-bip_39_word_new_br_11: verb<br>alone<br>spy<br>elegant<br>harsh<br>basic<br>oval<br>wet<br>abstract<br>good<br>medal
 bip_39_word_new_br_12: verb<br>alone<br>spy<br>elegant<br>harsh<br>basic<br>oval<br>wet<br>abstract<br>good<br>medal<br>again
 bip_39_word_new_br_2: verb<br>alone
 bip_39_word_new_br_3: verb<br>alone<br>spy
-bip_39_word_new_br_4: verb<br>alone<br>spy<br>elegant
-bip_39_word_new_br_5: verb<br>alone<br>spy<br>elegant<br>harsh
-bip_39_word_new_br_6: verb<br>alone<br>spy<br>elegant<br>harsh<br>basic
-bip_39_word_new_br_7: verb<br>alone<br>spy<br>elegant<br>harsh<br>basic<br>oval
-bip_39_word_new_br_8: verb<br>alone<br>spy<br>elegant<br>harsh<br>basic<br>oval<br>wet
-bip_39_word_new_br_9: verb<br>alone<br>spy<br>elegant<br>harsh<br>basic<br>oval<br>wet<br>abstract
-bip_39_word_new_line_1: verb
-bip_39_word_new_line_10: 'verb
-
-  alone
-
-  spy
-
-  elegant
-
-  harsh
-
-  basic
-
-  oval
-
-  wet
-
-  abstract
-
-  good'
-bip_39_word_new_line_11: 'verb
-
-  alone
-
-  spy
-
-  elegant
-
-  harsh
-
-  basic
-
-  oval
-
-  wet
-
-  abstract
-
-  good
-
-  medal'
 bip_39_word_new_line_12: 'verb
 
   alone
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'verb
   alone
 
   spy'
-bip_39_word_new_line_4: 'verb
-
-  alone
-
-  spy
-
-  elegant'
-bip_39_word_new_line_5: 'verb
-
-  alone
-
-  spy
-
-  elegant
-
-  harsh'
-bip_39_word_new_line_6: 'verb
-
-  alone
-
-  spy
-
-  elegant
-
-  harsh
-
-  basic'
-bip_39_word_new_line_7: 'verb
-
-  alone
-
-  spy
-
-  elegant
-
-  harsh
-
-  basic
-
-  oval'
-bip_39_word_new_line_8: 'verb
-
-  alone
-
-  spy
-
-  elegant
-
-  harsh
-
-  basic
-
-  oval
-
-  wet'
-bip_39_word_new_line_9: 'verb
-
-  alone
-
-  spy
-
-  elegant
-
-  harsh
-
-  basic
-
-  oval
-
-  wet
-
-  abstract'
-bip_39_word_no_space_1: verb
-bip_39_word_no_space_10: verbalonespyelegantharshbasicovalwetabstractgood
-bip_39_word_no_space_11: verbalonespyelegantharshbasicovalwetabstractgoodmedal
 bip_39_word_no_space_12: verbalonespyelegantharshbasicovalwetabstractgoodmedalagain
 bip_39_word_no_space_2: verbalone
 bip_39_word_no_space_3: verbalonespy
-bip_39_word_no_space_4: verbalonespyelegant
-bip_39_word_no_space_5: verbalonespyelegantharsh
-bip_39_word_no_space_6: verbalonespyelegantharshbasic
-bip_39_word_no_space_7: verbalonespyelegantharshbasicoval
-bip_39_word_no_space_8: verbalonespyelegantharshbasicovalwet
-bip_39_word_no_space_9: verbalonespyelegantharshbasicovalwetabstract
-bip_39_word_space_0:
-- verb
-- alone
-- spy
-- elegant
-- harsh
-- basic
-- oval
-- wet
-- abstract
-- good
-- medal
-- again
-bip_39_word_space_1: verb
-bip_39_word_space_10: verb alone spy elegant harsh basic oval wet abstract good
-bip_39_word_space_11: verb alone spy elegant harsh basic oval wet abstract good medal
 bip_39_word_space_12: verb alone spy elegant harsh basic oval wet abstract good medal
   again
 bip_39_word_space_2: verb alone
 bip_39_word_space_3: verb alone spy
-bip_39_word_space_4: verb alone spy elegant
-bip_39_word_space_5: verb alone spy elegant harsh
-bip_39_word_space_6: verb alone spy elegant harsh basic
-bip_39_word_space_7: verb alone spy elegant harsh basic oval
-bip_39_word_space_8: verb alone spy elegant harsh basic oval wet
-bip_39_word_space_9: verb alone spy elegant harsh basic oval wet abstract
-bip_39_word_underscore_1: verb
-bip_39_word_underscore_10: verb_alone_spy_elegant_harsh_basic_oval_wet_abstract_good
-bip_39_word_underscore_11: verb_alone_spy_elegant_harsh_basic_oval_wet_abstract_good_medal
 bip_39_word_underscore_12: verb_alone_spy_elegant_harsh_basic_oval_wet_abstract_good_medal_again
 bip_39_word_underscore_2: verb_alone
 bip_39_word_underscore_3: verb_alone_spy
-bip_39_word_underscore_4: verb_alone_spy_elegant
-bip_39_word_underscore_5: verb_alone_spy_elegant_harsh
-bip_39_word_underscore_6: verb_alone_spy_elegant_harsh_basic
-bip_39_word_underscore_7: verb_alone_spy_elegant_harsh_basic_oval
-bip_39_word_underscore_8: verb_alone_spy_elegant_harsh_basic_oval_wet
-bip_39_word_underscore_9: verb_alone_spy_elegant_harsh_basic_oval_wet_abstract
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

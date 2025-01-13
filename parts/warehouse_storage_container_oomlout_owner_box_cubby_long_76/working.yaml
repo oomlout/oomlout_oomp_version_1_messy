@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sleep
-bip_39_word_dash_10: sleep-fluid-bench-feel-primary-return-turn-invite-hollow-snack
-bip_39_word_dash_11: sleep-fluid-bench-feel-primary-return-turn-invite-hollow-snack-meat
 bip_39_word_dash_12: sleep-fluid-bench-feel-primary-return-turn-invite-hollow-snack-meat-able
 bip_39_word_dash_2: sleep-fluid
 bip_39_word_dash_3: sleep-fluid-bench
-bip_39_word_dash_4: sleep-fluid-bench-feel
-bip_39_word_dash_5: sleep-fluid-bench-feel-primary
-bip_39_word_dash_6: sleep-fluid-bench-feel-primary-return
-bip_39_word_dash_7: sleep-fluid-bench-feel-primary-return-turn
-bip_39_word_dash_8: sleep-fluid-bench-feel-primary-return-turn-invite
-bip_39_word_dash_9: sleep-fluid-bench-feel-primary-return-turn-invite-hollow
-bip_39_word_new_br_1: sleep
-bip_39_word_new_br_10: sleep<br>fluid<br>bench<br>feel<br>primary<br>return<br>turn<br>invite<br>hollow<br>snack
-bip_39_word_new_br_11: sleep<br>fluid<br>bench<br>feel<br>primary<br>return<br>turn<br>invite<br>hollow<br>snack<br>meat
 bip_39_word_new_br_12: sleep<br>fluid<br>bench<br>feel<br>primary<br>return<br>turn<br>invite<br>hollow<br>snack<br>meat<br>able
 bip_39_word_new_br_2: sleep<br>fluid
 bip_39_word_new_br_3: sleep<br>fluid<br>bench
-bip_39_word_new_br_4: sleep<br>fluid<br>bench<br>feel
-bip_39_word_new_br_5: sleep<br>fluid<br>bench<br>feel<br>primary
-bip_39_word_new_br_6: sleep<br>fluid<br>bench<br>feel<br>primary<br>return
-bip_39_word_new_br_7: sleep<br>fluid<br>bench<br>feel<br>primary<br>return<br>turn
-bip_39_word_new_br_8: sleep<br>fluid<br>bench<br>feel<br>primary<br>return<br>turn<br>invite
-bip_39_word_new_br_9: sleep<br>fluid<br>bench<br>feel<br>primary<br>return<br>turn<br>invite<br>hollow
-bip_39_word_new_line_1: sleep
-bip_39_word_new_line_10: 'sleep
-
-  fluid
-
-  bench
-
-  feel
-
-  primary
-
-  return
-
-  turn
-
-  invite
-
-  hollow
-
-  snack'
-bip_39_word_new_line_11: 'sleep
-
-  fluid
-
-  bench
-
-  feel
-
-  primary
-
-  return
-
-  turn
-
-  invite
-
-  hollow
-
-  snack
-
-  meat'
 bip_39_word_new_line_12: 'sleep
 
   fluid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sleep
   fluid
 
   bench'
-bip_39_word_new_line_4: 'sleep
-
-  fluid
-
-  bench
-
-  feel'
-bip_39_word_new_line_5: 'sleep
-
-  fluid
-
-  bench
-
-  feel
-
-  primary'
-bip_39_word_new_line_6: 'sleep
-
-  fluid
-
-  bench
-
-  feel
-
-  primary
-
-  return'
-bip_39_word_new_line_7: 'sleep
-
-  fluid
-
-  bench
-
-  feel
-
-  primary
-
-  return
-
-  turn'
-bip_39_word_new_line_8: 'sleep
-
-  fluid
-
-  bench
-
-  feel
-
-  primary
-
-  return
-
-  turn
-
-  invite'
-bip_39_word_new_line_9: 'sleep
-
-  fluid
-
-  bench
-
-  feel
-
-  primary
-
-  return
-
-  turn
-
-  invite
-
-  hollow'
-bip_39_word_no_space_1: sleep
-bip_39_word_no_space_10: sleepfluidbenchfeelprimaryreturnturninvitehollowsnack
-bip_39_word_no_space_11: sleepfluidbenchfeelprimaryreturnturninvitehollowsnackmeat
 bip_39_word_no_space_12: sleepfluidbenchfeelprimaryreturnturninvitehollowsnackmeatable
 bip_39_word_no_space_2: sleepfluid
 bip_39_word_no_space_3: sleepfluidbench
-bip_39_word_no_space_4: sleepfluidbenchfeel
-bip_39_word_no_space_5: sleepfluidbenchfeelprimary
-bip_39_word_no_space_6: sleepfluidbenchfeelprimaryreturn
-bip_39_word_no_space_7: sleepfluidbenchfeelprimaryreturnturn
-bip_39_word_no_space_8: sleepfluidbenchfeelprimaryreturnturninvite
-bip_39_word_no_space_9: sleepfluidbenchfeelprimaryreturnturninvitehollow
-bip_39_word_space_0:
-- sleep
-- fluid
-- bench
-- feel
-- primary
-- return
-- turn
-- invite
-- hollow
-- snack
-- meat
-- able
-bip_39_word_space_1: sleep
-bip_39_word_space_10: sleep fluid bench feel primary return turn invite hollow snack
-bip_39_word_space_11: sleep fluid bench feel primary return turn invite hollow snack
-  meat
 bip_39_word_space_12: sleep fluid bench feel primary return turn invite hollow snack
   meat able
 bip_39_word_space_2: sleep fluid
 bip_39_word_space_3: sleep fluid bench
-bip_39_word_space_4: sleep fluid bench feel
-bip_39_word_space_5: sleep fluid bench feel primary
-bip_39_word_space_6: sleep fluid bench feel primary return
-bip_39_word_space_7: sleep fluid bench feel primary return turn
-bip_39_word_space_8: sleep fluid bench feel primary return turn invite
-bip_39_word_space_9: sleep fluid bench feel primary return turn invite hollow
-bip_39_word_underscore_1: sleep
-bip_39_word_underscore_10: sleep_fluid_bench_feel_primary_return_turn_invite_hollow_snack
-bip_39_word_underscore_11: sleep_fluid_bench_feel_primary_return_turn_invite_hollow_snack_meat
 bip_39_word_underscore_12: sleep_fluid_bench_feel_primary_return_turn_invite_hollow_snack_meat_able
 bip_39_word_underscore_2: sleep_fluid
 bip_39_word_underscore_3: sleep_fluid_bench
-bip_39_word_underscore_4: sleep_fluid_bench_feel
-bip_39_word_underscore_5: sleep_fluid_bench_feel_primary
-bip_39_word_underscore_6: sleep_fluid_bench_feel_primary_return
-bip_39_word_underscore_7: sleep_fluid_bench_feel_primary_return_turn
-bip_39_word_underscore_8: sleep_fluid_bench_feel_primary_return_turn_invite
-bip_39_word_underscore_9: sleep_fluid_bench_feel_primary_return_turn_invite_hollow
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

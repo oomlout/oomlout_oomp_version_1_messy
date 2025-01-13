@@ -1,68 +1,9 @@
-bip_39_word_dash_1: order
-bip_39_word_dash_10: order-state-limb-marble-vivid-catch-stamp-convince-final-original
-bip_39_word_dash_11: order-state-limb-marble-vivid-catch-stamp-convince-final-original-ship
 bip_39_word_dash_12: order-state-limb-marble-vivid-catch-stamp-convince-final-original-ship-alert
 bip_39_word_dash_2: order-state
 bip_39_word_dash_3: order-state-limb
-bip_39_word_dash_4: order-state-limb-marble
-bip_39_word_dash_5: order-state-limb-marble-vivid
-bip_39_word_dash_6: order-state-limb-marble-vivid-catch
-bip_39_word_dash_7: order-state-limb-marble-vivid-catch-stamp
-bip_39_word_dash_8: order-state-limb-marble-vivid-catch-stamp-convince
-bip_39_word_dash_9: order-state-limb-marble-vivid-catch-stamp-convince-final
-bip_39_word_new_br_1: order
-bip_39_word_new_br_10: order<br>state<br>limb<br>marble<br>vivid<br>catch<br>stamp<br>convince<br>final<br>original
-bip_39_word_new_br_11: order<br>state<br>limb<br>marble<br>vivid<br>catch<br>stamp<br>convince<br>final<br>original<br>ship
 bip_39_word_new_br_12: order<br>state<br>limb<br>marble<br>vivid<br>catch<br>stamp<br>convince<br>final<br>original<br>ship<br>alert
 bip_39_word_new_br_2: order<br>state
 bip_39_word_new_br_3: order<br>state<br>limb
-bip_39_word_new_br_4: order<br>state<br>limb<br>marble
-bip_39_word_new_br_5: order<br>state<br>limb<br>marble<br>vivid
-bip_39_word_new_br_6: order<br>state<br>limb<br>marble<br>vivid<br>catch
-bip_39_word_new_br_7: order<br>state<br>limb<br>marble<br>vivid<br>catch<br>stamp
-bip_39_word_new_br_8: order<br>state<br>limb<br>marble<br>vivid<br>catch<br>stamp<br>convince
-bip_39_word_new_br_9: order<br>state<br>limb<br>marble<br>vivid<br>catch<br>stamp<br>convince<br>final
-bip_39_word_new_line_1: order
-bip_39_word_new_line_10: 'order
-
-  state
-
-  limb
-
-  marble
-
-  vivid
-
-  catch
-
-  stamp
-
-  convince
-
-  final
-
-  original'
-bip_39_word_new_line_11: 'order
-
-  state
-
-  limb
-
-  marble
-
-  vivid
-
-  catch
-
-  stamp
-
-  convince
-
-  final
-
-  original
-
-  ship'
 bip_39_word_new_line_12: 'order
 
   state
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'order
   state
 
   limb'
-bip_39_word_new_line_4: 'order
-
-  state
-
-  limb
-
-  marble'
-bip_39_word_new_line_5: 'order
-
-  state
-
-  limb
-
-  marble
-
-  vivid'
-bip_39_word_new_line_6: 'order
-
-  state
-
-  limb
-
-  marble
-
-  vivid
-
-  catch'
-bip_39_word_new_line_7: 'order
-
-  state
-
-  limb
-
-  marble
-
-  vivid
-
-  catch
-
-  stamp'
-bip_39_word_new_line_8: 'order
-
-  state
-
-  limb
-
-  marble
-
-  vivid
-
-  catch
-
-  stamp
-
-  convince'
-bip_39_word_new_line_9: 'order
-
-  state
-
-  limb
-
-  marble
-
-  vivid
-
-  catch
-
-  stamp
-
-  convince
-
-  final'
-bip_39_word_no_space_1: order
-bip_39_word_no_space_10: orderstatelimbmarblevividcatchstampconvincefinaloriginal
-bip_39_word_no_space_11: orderstatelimbmarblevividcatchstampconvincefinaloriginalship
 bip_39_word_no_space_12: orderstatelimbmarblevividcatchstampconvincefinaloriginalshipalert
 bip_39_word_no_space_2: orderstate
 bip_39_word_no_space_3: orderstatelimb
-bip_39_word_no_space_4: orderstatelimbmarble
-bip_39_word_no_space_5: orderstatelimbmarblevivid
-bip_39_word_no_space_6: orderstatelimbmarblevividcatch
-bip_39_word_no_space_7: orderstatelimbmarblevividcatchstamp
-bip_39_word_no_space_8: orderstatelimbmarblevividcatchstampconvince
-bip_39_word_no_space_9: orderstatelimbmarblevividcatchstampconvincefinal
-bip_39_word_space_0:
-- order
-- state
-- limb
-- marble
-- vivid
-- catch
-- stamp
-- convince
-- final
-- original
-- ship
-- alert
-bip_39_word_space_1: order
-bip_39_word_space_10: order state limb marble vivid catch stamp convince final original
-bip_39_word_space_11: order state limb marble vivid catch stamp convince final original
-  ship
 bip_39_word_space_12: order state limb marble vivid catch stamp convince final original
   ship alert
 bip_39_word_space_2: order state
 bip_39_word_space_3: order state limb
-bip_39_word_space_4: order state limb marble
-bip_39_word_space_5: order state limb marble vivid
-bip_39_word_space_6: order state limb marble vivid catch
-bip_39_word_space_7: order state limb marble vivid catch stamp
-bip_39_word_space_8: order state limb marble vivid catch stamp convince
-bip_39_word_space_9: order state limb marble vivid catch stamp convince final
-bip_39_word_underscore_1: order
-bip_39_word_underscore_10: order_state_limb_marble_vivid_catch_stamp_convince_final_original
-bip_39_word_underscore_11: order_state_limb_marble_vivid_catch_stamp_convince_final_original_ship
 bip_39_word_underscore_12: order_state_limb_marble_vivid_catch_stamp_convince_final_original_ship_alert
 bip_39_word_underscore_2: order_state
 bip_39_word_underscore_3: order_state_limb
-bip_39_word_underscore_4: order_state_limb_marble
-bip_39_word_underscore_5: order_state_limb_marble_vivid
-bip_39_word_underscore_6: order_state_limb_marble_vivid_catch
-bip_39_word_underscore_7: order_state_limb_marble_vivid_catch_stamp
-bip_39_word_underscore_8: order_state_limb_marble_vivid_catch_stamp_convince
-bip_39_word_underscore_9: order_state_limb_marble_vivid_catch_stamp_convince_final
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

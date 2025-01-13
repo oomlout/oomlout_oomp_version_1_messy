@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fetch
-bip_39_word_dash_10: fetch-sausage-panda-birth-sleep-ring-just-attack-credit-orbit
-bip_39_word_dash_11: fetch-sausage-panda-birth-sleep-ring-just-attack-credit-orbit-case
 bip_39_word_dash_12: fetch-sausage-panda-birth-sleep-ring-just-attack-credit-orbit-case-almost
 bip_39_word_dash_2: fetch-sausage
 bip_39_word_dash_3: fetch-sausage-panda
-bip_39_word_dash_4: fetch-sausage-panda-birth
-bip_39_word_dash_5: fetch-sausage-panda-birth-sleep
-bip_39_word_dash_6: fetch-sausage-panda-birth-sleep-ring
-bip_39_word_dash_7: fetch-sausage-panda-birth-sleep-ring-just
-bip_39_word_dash_8: fetch-sausage-panda-birth-sleep-ring-just-attack
-bip_39_word_dash_9: fetch-sausage-panda-birth-sleep-ring-just-attack-credit
-bip_39_word_new_br_1: fetch
-bip_39_word_new_br_10: fetch<br>sausage<br>panda<br>birth<br>sleep<br>ring<br>just<br>attack<br>credit<br>orbit
-bip_39_word_new_br_11: fetch<br>sausage<br>panda<br>birth<br>sleep<br>ring<br>just<br>attack<br>credit<br>orbit<br>case
 bip_39_word_new_br_12: fetch<br>sausage<br>panda<br>birth<br>sleep<br>ring<br>just<br>attack<br>credit<br>orbit<br>case<br>almost
 bip_39_word_new_br_2: fetch<br>sausage
 bip_39_word_new_br_3: fetch<br>sausage<br>panda
-bip_39_word_new_br_4: fetch<br>sausage<br>panda<br>birth
-bip_39_word_new_br_5: fetch<br>sausage<br>panda<br>birth<br>sleep
-bip_39_word_new_br_6: fetch<br>sausage<br>panda<br>birth<br>sleep<br>ring
-bip_39_word_new_br_7: fetch<br>sausage<br>panda<br>birth<br>sleep<br>ring<br>just
-bip_39_word_new_br_8: fetch<br>sausage<br>panda<br>birth<br>sleep<br>ring<br>just<br>attack
-bip_39_word_new_br_9: fetch<br>sausage<br>panda<br>birth<br>sleep<br>ring<br>just<br>attack<br>credit
-bip_39_word_new_line_1: fetch
-bip_39_word_new_line_10: 'fetch
-
-  sausage
-
-  panda
-
-  birth
-
-  sleep
-
-  ring
-
-  just
-
-  attack
-
-  credit
-
-  orbit'
-bip_39_word_new_line_11: 'fetch
-
-  sausage
-
-  panda
-
-  birth
-
-  sleep
-
-  ring
-
-  just
-
-  attack
-
-  credit
-
-  orbit
-
-  case'
 bip_39_word_new_line_12: 'fetch
 
   sausage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fetch
   sausage
 
   panda'
-bip_39_word_new_line_4: 'fetch
-
-  sausage
-
-  panda
-
-  birth'
-bip_39_word_new_line_5: 'fetch
-
-  sausage
-
-  panda
-
-  birth
-
-  sleep'
-bip_39_word_new_line_6: 'fetch
-
-  sausage
-
-  panda
-
-  birth
-
-  sleep
-
-  ring'
-bip_39_word_new_line_7: 'fetch
-
-  sausage
-
-  panda
-
-  birth
-
-  sleep
-
-  ring
-
-  just'
-bip_39_word_new_line_8: 'fetch
-
-  sausage
-
-  panda
-
-  birth
-
-  sleep
-
-  ring
-
-  just
-
-  attack'
-bip_39_word_new_line_9: 'fetch
-
-  sausage
-
-  panda
-
-  birth
-
-  sleep
-
-  ring
-
-  just
-
-  attack
-
-  credit'
-bip_39_word_no_space_1: fetch
-bip_39_word_no_space_10: fetchsausagepandabirthsleepringjustattackcreditorbit
-bip_39_word_no_space_11: fetchsausagepandabirthsleepringjustattackcreditorbitcase
 bip_39_word_no_space_12: fetchsausagepandabirthsleepringjustattackcreditorbitcasealmost
 bip_39_word_no_space_2: fetchsausage
 bip_39_word_no_space_3: fetchsausagepanda
-bip_39_word_no_space_4: fetchsausagepandabirth
-bip_39_word_no_space_5: fetchsausagepandabirthsleep
-bip_39_word_no_space_6: fetchsausagepandabirthsleepring
-bip_39_word_no_space_7: fetchsausagepandabirthsleepringjust
-bip_39_word_no_space_8: fetchsausagepandabirthsleepringjustattack
-bip_39_word_no_space_9: fetchsausagepandabirthsleepringjustattackcredit
-bip_39_word_space_0:
-- fetch
-- sausage
-- panda
-- birth
-- sleep
-- ring
-- just
-- attack
-- credit
-- orbit
-- case
-- almost
-bip_39_word_space_1: fetch
-bip_39_word_space_10: fetch sausage panda birth sleep ring just attack credit orbit
-bip_39_word_space_11: fetch sausage panda birth sleep ring just attack credit orbit
-  case
 bip_39_word_space_12: fetch sausage panda birth sleep ring just attack credit orbit
   case almost
 bip_39_word_space_2: fetch sausage
 bip_39_word_space_3: fetch sausage panda
-bip_39_word_space_4: fetch sausage panda birth
-bip_39_word_space_5: fetch sausage panda birth sleep
-bip_39_word_space_6: fetch sausage panda birth sleep ring
-bip_39_word_space_7: fetch sausage panda birth sleep ring just
-bip_39_word_space_8: fetch sausage panda birth sleep ring just attack
-bip_39_word_space_9: fetch sausage panda birth sleep ring just attack credit
-bip_39_word_underscore_1: fetch
-bip_39_word_underscore_10: fetch_sausage_panda_birth_sleep_ring_just_attack_credit_orbit
-bip_39_word_underscore_11: fetch_sausage_panda_birth_sleep_ring_just_attack_credit_orbit_case
 bip_39_word_underscore_12: fetch_sausage_panda_birth_sleep_ring_just_attack_credit_orbit_case_almost
 bip_39_word_underscore_2: fetch_sausage
 bip_39_word_underscore_3: fetch_sausage_panda
-bip_39_word_underscore_4: fetch_sausage_panda_birth
-bip_39_word_underscore_5: fetch_sausage_panda_birth_sleep
-bip_39_word_underscore_6: fetch_sausage_panda_birth_sleep_ring
-bip_39_word_underscore_7: fetch_sausage_panda_birth_sleep_ring_just
-bip_39_word_underscore_8: fetch_sausage_panda_birth_sleep_ring_just_attack
-bip_39_word_underscore_9: fetch_sausage_panda_birth_sleep_ring_just_attack_credit
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

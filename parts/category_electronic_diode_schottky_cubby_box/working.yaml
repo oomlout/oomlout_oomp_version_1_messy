@@ -1,68 +1,9 @@
-bip_39_word_dash_1: liar
-bip_39_word_dash_10: liar-file-slab-purity-unfold-bread-shadow-tree-liberty-despair
-bip_39_word_dash_11: liar-file-slab-purity-unfold-bread-shadow-tree-liberty-despair-swim
 bip_39_word_dash_12: liar-file-slab-purity-unfold-bread-shadow-tree-liberty-despair-swim-arch
 bip_39_word_dash_2: liar-file
 bip_39_word_dash_3: liar-file-slab
-bip_39_word_dash_4: liar-file-slab-purity
-bip_39_word_dash_5: liar-file-slab-purity-unfold
-bip_39_word_dash_6: liar-file-slab-purity-unfold-bread
-bip_39_word_dash_7: liar-file-slab-purity-unfold-bread-shadow
-bip_39_word_dash_8: liar-file-slab-purity-unfold-bread-shadow-tree
-bip_39_word_dash_9: liar-file-slab-purity-unfold-bread-shadow-tree-liberty
-bip_39_word_new_br_1: liar
-bip_39_word_new_br_10: liar<br>file<br>slab<br>purity<br>unfold<br>bread<br>shadow<br>tree<br>liberty<br>despair
-bip_39_word_new_br_11: liar<br>file<br>slab<br>purity<br>unfold<br>bread<br>shadow<br>tree<br>liberty<br>despair<br>swim
 bip_39_word_new_br_12: liar<br>file<br>slab<br>purity<br>unfold<br>bread<br>shadow<br>tree<br>liberty<br>despair<br>swim<br>arch
 bip_39_word_new_br_2: liar<br>file
 bip_39_word_new_br_3: liar<br>file<br>slab
-bip_39_word_new_br_4: liar<br>file<br>slab<br>purity
-bip_39_word_new_br_5: liar<br>file<br>slab<br>purity<br>unfold
-bip_39_word_new_br_6: liar<br>file<br>slab<br>purity<br>unfold<br>bread
-bip_39_word_new_br_7: liar<br>file<br>slab<br>purity<br>unfold<br>bread<br>shadow
-bip_39_word_new_br_8: liar<br>file<br>slab<br>purity<br>unfold<br>bread<br>shadow<br>tree
-bip_39_word_new_br_9: liar<br>file<br>slab<br>purity<br>unfold<br>bread<br>shadow<br>tree<br>liberty
-bip_39_word_new_line_1: liar
-bip_39_word_new_line_10: 'liar
-
-  file
-
-  slab
-
-  purity
-
-  unfold
-
-  bread
-
-  shadow
-
-  tree
-
-  liberty
-
-  despair'
-bip_39_word_new_line_11: 'liar
-
-  file
-
-  slab
-
-  purity
-
-  unfold
-
-  bread
-
-  shadow
-
-  tree
-
-  liberty
-
-  despair
-
-  swim'
 bip_39_word_new_line_12: 'liar
 
   file
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'liar
   file
 
   slab'
-bip_39_word_new_line_4: 'liar
-
-  file
-
-  slab
-
-  purity'
-bip_39_word_new_line_5: 'liar
-
-  file
-
-  slab
-
-  purity
-
-  unfold'
-bip_39_word_new_line_6: 'liar
-
-  file
-
-  slab
-
-  purity
-
-  unfold
-
-  bread'
-bip_39_word_new_line_7: 'liar
-
-  file
-
-  slab
-
-  purity
-
-  unfold
-
-  bread
-
-  shadow'
-bip_39_word_new_line_8: 'liar
-
-  file
-
-  slab
-
-  purity
-
-  unfold
-
-  bread
-
-  shadow
-
-  tree'
-bip_39_word_new_line_9: 'liar
-
-  file
-
-  slab
-
-  purity
-
-  unfold
-
-  bread
-
-  shadow
-
-  tree
-
-  liberty'
-bip_39_word_no_space_1: liar
-bip_39_word_no_space_10: liarfileslabpurityunfoldbreadshadowtreelibertydespair
-bip_39_word_no_space_11: liarfileslabpurityunfoldbreadshadowtreelibertydespairswim
 bip_39_word_no_space_12: liarfileslabpurityunfoldbreadshadowtreelibertydespairswimarch
 bip_39_word_no_space_2: liarfile
 bip_39_word_no_space_3: liarfileslab
-bip_39_word_no_space_4: liarfileslabpurity
-bip_39_word_no_space_5: liarfileslabpurityunfold
-bip_39_word_no_space_6: liarfileslabpurityunfoldbread
-bip_39_word_no_space_7: liarfileslabpurityunfoldbreadshadow
-bip_39_word_no_space_8: liarfileslabpurityunfoldbreadshadowtree
-bip_39_word_no_space_9: liarfileslabpurityunfoldbreadshadowtreeliberty
-bip_39_word_space_0:
-- liar
-- file
-- slab
-- purity
-- unfold
-- bread
-- shadow
-- tree
-- liberty
-- despair
-- swim
-- arch
-bip_39_word_space_1: liar
-bip_39_word_space_10: liar file slab purity unfold bread shadow tree liberty despair
-bip_39_word_space_11: liar file slab purity unfold bread shadow tree liberty despair
-  swim
 bip_39_word_space_12: liar file slab purity unfold bread shadow tree liberty despair
   swim arch
 bip_39_word_space_2: liar file
 bip_39_word_space_3: liar file slab
-bip_39_word_space_4: liar file slab purity
-bip_39_word_space_5: liar file slab purity unfold
-bip_39_word_space_6: liar file slab purity unfold bread
-bip_39_word_space_7: liar file slab purity unfold bread shadow
-bip_39_word_space_8: liar file slab purity unfold bread shadow tree
-bip_39_word_space_9: liar file slab purity unfold bread shadow tree liberty
-bip_39_word_underscore_1: liar
-bip_39_word_underscore_10: liar_file_slab_purity_unfold_bread_shadow_tree_liberty_despair
-bip_39_word_underscore_11: liar_file_slab_purity_unfold_bread_shadow_tree_liberty_despair_swim
 bip_39_word_underscore_12: liar_file_slab_purity_unfold_bread_shadow_tree_liberty_despair_swim_arch
 bip_39_word_underscore_2: liar_file
 bip_39_word_underscore_3: liar_file_slab
-bip_39_word_underscore_4: liar_file_slab_purity
-bip_39_word_underscore_5: liar_file_slab_purity_unfold
-bip_39_word_underscore_6: liar_file_slab_purity_unfold_bread
-bip_39_word_underscore_7: liar_file_slab_purity_unfold_bread_shadow
-bip_39_word_underscore_8: liar_file_slab_purity_unfold_bread_shadow_tree
-bip_39_word_underscore_9: liar_file_slab_purity_unfold_bread_shadow_tree_liberty
 classification: category
 classification_capital: Category
 classification_first_letter: c

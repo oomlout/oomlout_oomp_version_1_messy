@@ -1,68 +1,9 @@
-bip_39_word_dash_1: silk
-bip_39_word_dash_10: silk-torch-pool-coil-pig-connect-spin-zebra-similar-want
-bip_39_word_dash_11: silk-torch-pool-coil-pig-connect-spin-zebra-similar-want-until
 bip_39_word_dash_12: silk-torch-pool-coil-pig-connect-spin-zebra-similar-want-until-announce
 bip_39_word_dash_2: silk-torch
 bip_39_word_dash_3: silk-torch-pool
-bip_39_word_dash_4: silk-torch-pool-coil
-bip_39_word_dash_5: silk-torch-pool-coil-pig
-bip_39_word_dash_6: silk-torch-pool-coil-pig-connect
-bip_39_word_dash_7: silk-torch-pool-coil-pig-connect-spin
-bip_39_word_dash_8: silk-torch-pool-coil-pig-connect-spin-zebra
-bip_39_word_dash_9: silk-torch-pool-coil-pig-connect-spin-zebra-similar
-bip_39_word_new_br_1: silk
-bip_39_word_new_br_10: silk<br>torch<br>pool<br>coil<br>pig<br>connect<br>spin<br>zebra<br>similar<br>want
-bip_39_word_new_br_11: silk<br>torch<br>pool<br>coil<br>pig<br>connect<br>spin<br>zebra<br>similar<br>want<br>until
 bip_39_word_new_br_12: silk<br>torch<br>pool<br>coil<br>pig<br>connect<br>spin<br>zebra<br>similar<br>want<br>until<br>announce
 bip_39_word_new_br_2: silk<br>torch
 bip_39_word_new_br_3: silk<br>torch<br>pool
-bip_39_word_new_br_4: silk<br>torch<br>pool<br>coil
-bip_39_word_new_br_5: silk<br>torch<br>pool<br>coil<br>pig
-bip_39_word_new_br_6: silk<br>torch<br>pool<br>coil<br>pig<br>connect
-bip_39_word_new_br_7: silk<br>torch<br>pool<br>coil<br>pig<br>connect<br>spin
-bip_39_word_new_br_8: silk<br>torch<br>pool<br>coil<br>pig<br>connect<br>spin<br>zebra
-bip_39_word_new_br_9: silk<br>torch<br>pool<br>coil<br>pig<br>connect<br>spin<br>zebra<br>similar
-bip_39_word_new_line_1: silk
-bip_39_word_new_line_10: 'silk
-
-  torch
-
-  pool
-
-  coil
-
-  pig
-
-  connect
-
-  spin
-
-  zebra
-
-  similar
-
-  want'
-bip_39_word_new_line_11: 'silk
-
-  torch
-
-  pool
-
-  coil
-
-  pig
-
-  connect
-
-  spin
-
-  zebra
-
-  similar
-
-  want
-
-  until'
 bip_39_word_new_line_12: 'silk
 
   torch
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'silk
   torch
 
   pool'
-bip_39_word_new_line_4: 'silk
-
-  torch
-
-  pool
-
-  coil'
-bip_39_word_new_line_5: 'silk
-
-  torch
-
-  pool
-
-  coil
-
-  pig'
-bip_39_word_new_line_6: 'silk
-
-  torch
-
-  pool
-
-  coil
-
-  pig
-
-  connect'
-bip_39_word_new_line_7: 'silk
-
-  torch
-
-  pool
-
-  coil
-
-  pig
-
-  connect
-
-  spin'
-bip_39_word_new_line_8: 'silk
-
-  torch
-
-  pool
-
-  coil
-
-  pig
-
-  connect
-
-  spin
-
-  zebra'
-bip_39_word_new_line_9: 'silk
-
-  torch
-
-  pool
-
-  coil
-
-  pig
-
-  connect
-
-  spin
-
-  zebra
-
-  similar'
-bip_39_word_no_space_1: silk
-bip_39_word_no_space_10: silktorchpoolcoilpigconnectspinzebrasimilarwant
-bip_39_word_no_space_11: silktorchpoolcoilpigconnectspinzebrasimilarwantuntil
 bip_39_word_no_space_12: silktorchpoolcoilpigconnectspinzebrasimilarwantuntilannounce
 bip_39_word_no_space_2: silktorch
 bip_39_word_no_space_3: silktorchpool
-bip_39_word_no_space_4: silktorchpoolcoil
-bip_39_word_no_space_5: silktorchpoolcoilpig
-bip_39_word_no_space_6: silktorchpoolcoilpigconnect
-bip_39_word_no_space_7: silktorchpoolcoilpigconnectspin
-bip_39_word_no_space_8: silktorchpoolcoilpigconnectspinzebra
-bip_39_word_no_space_9: silktorchpoolcoilpigconnectspinzebrasimilar
-bip_39_word_space_0:
-- silk
-- torch
-- pool
-- coil
-- pig
-- connect
-- spin
-- zebra
-- similar
-- want
-- until
-- announce
-bip_39_word_space_1: silk
-bip_39_word_space_10: silk torch pool coil pig connect spin zebra similar want
-bip_39_word_space_11: silk torch pool coil pig connect spin zebra similar want until
 bip_39_word_space_12: silk torch pool coil pig connect spin zebra similar want until
   announce
 bip_39_word_space_2: silk torch
 bip_39_word_space_3: silk torch pool
-bip_39_word_space_4: silk torch pool coil
-bip_39_word_space_5: silk torch pool coil pig
-bip_39_word_space_6: silk torch pool coil pig connect
-bip_39_word_space_7: silk torch pool coil pig connect spin
-bip_39_word_space_8: silk torch pool coil pig connect spin zebra
-bip_39_word_space_9: silk torch pool coil pig connect spin zebra similar
-bip_39_word_underscore_1: silk
-bip_39_word_underscore_10: silk_torch_pool_coil_pig_connect_spin_zebra_similar_want
-bip_39_word_underscore_11: silk_torch_pool_coil_pig_connect_spin_zebra_similar_want_until
 bip_39_word_underscore_12: silk_torch_pool_coil_pig_connect_spin_zebra_similar_want_until_announce
 bip_39_word_underscore_2: silk_torch
 bip_39_word_underscore_3: silk_torch_pool
-bip_39_word_underscore_4: silk_torch_pool_coil
-bip_39_word_underscore_5: silk_torch_pool_coil_pig
-bip_39_word_underscore_6: silk_torch_pool_coil_pig_connect
-bip_39_word_underscore_7: silk_torch_pool_coil_pig_connect_spin
-bip_39_word_underscore_8: silk_torch_pool_coil_pig_connect_spin_zebra
-bip_39_word_underscore_9: silk_torch_pool_coil_pig_connect_spin_zebra_similar
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

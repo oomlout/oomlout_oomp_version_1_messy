@@ -1,68 +1,9 @@
-bip_39_word_dash_1: program
-bip_39_word_dash_10: program-host-aim-idle-churn-vicious-level-net-weird-miss
-bip_39_word_dash_11: program-host-aim-idle-churn-vicious-level-net-weird-miss-sniff
 bip_39_word_dash_12: program-host-aim-idle-churn-vicious-level-net-weird-miss-sniff-answer
 bip_39_word_dash_2: program-host
 bip_39_word_dash_3: program-host-aim
-bip_39_word_dash_4: program-host-aim-idle
-bip_39_word_dash_5: program-host-aim-idle-churn
-bip_39_word_dash_6: program-host-aim-idle-churn-vicious
-bip_39_word_dash_7: program-host-aim-idle-churn-vicious-level
-bip_39_word_dash_8: program-host-aim-idle-churn-vicious-level-net
-bip_39_word_dash_9: program-host-aim-idle-churn-vicious-level-net-weird
-bip_39_word_new_br_1: program
-bip_39_word_new_br_10: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net<br>weird<br>miss
-bip_39_word_new_br_11: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net<br>weird<br>miss<br>sniff
 bip_39_word_new_br_12: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net<br>weird<br>miss<br>sniff<br>answer
 bip_39_word_new_br_2: program<br>host
 bip_39_word_new_br_3: program<br>host<br>aim
-bip_39_word_new_br_4: program<br>host<br>aim<br>idle
-bip_39_word_new_br_5: program<br>host<br>aim<br>idle<br>churn
-bip_39_word_new_br_6: program<br>host<br>aim<br>idle<br>churn<br>vicious
-bip_39_word_new_br_7: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level
-bip_39_word_new_br_8: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net
-bip_39_word_new_br_9: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net<br>weird
-bip_39_word_new_line_1: program
-bip_39_word_new_line_10: 'program
-
-  host
-
-  aim
-
-  idle
-
-  churn
-
-  vicious
-
-  level
-
-  net
-
-  weird
-
-  miss'
-bip_39_word_new_line_11: 'program
-
-  host
-
-  aim
-
-  idle
-
-  churn
-
-  vicious
-
-  level
-
-  net
-
-  weird
-
-  miss
-
-  sniff'
 bip_39_word_new_line_12: 'program
 
   host
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'program
   host
 
   aim'
-bip_39_word_new_line_4: 'program
-
-  host
-
-  aim
-
-  idle'
-bip_39_word_new_line_5: 'program
-
-  host
-
-  aim
-
-  idle
-
-  churn'
-bip_39_word_new_line_6: 'program
-
-  host
-
-  aim
-
-  idle
-
-  churn
-
-  vicious'
-bip_39_word_new_line_7: 'program
-
-  host
-
-  aim
-
-  idle
-
-  churn
-
-  vicious
-
-  level'
-bip_39_word_new_line_8: 'program
-
-  host
-
-  aim
-
-  idle
-
-  churn
-
-  vicious
-
-  level
-
-  net'
-bip_39_word_new_line_9: 'program
-
-  host
-
-  aim
-
-  idle
-
-  churn
-
-  vicious
-
-  level
-
-  net
-
-  weird'
-bip_39_word_no_space_1: program
-bip_39_word_no_space_10: programhostaimidlechurnviciouslevelnetweirdmiss
-bip_39_word_no_space_11: programhostaimidlechurnviciouslevelnetweirdmisssniff
 bip_39_word_no_space_12: programhostaimidlechurnviciouslevelnetweirdmisssniffanswer
 bip_39_word_no_space_2: programhost
 bip_39_word_no_space_3: programhostaim
-bip_39_word_no_space_4: programhostaimidle
-bip_39_word_no_space_5: programhostaimidlechurn
-bip_39_word_no_space_6: programhostaimidlechurnvicious
-bip_39_word_no_space_7: programhostaimidlechurnviciouslevel
-bip_39_word_no_space_8: programhostaimidlechurnviciouslevelnet
-bip_39_word_no_space_9: programhostaimidlechurnviciouslevelnetweird
-bip_39_word_space_0:
-- program
-- host
-- aim
-- idle
-- churn
-- vicious
-- level
-- net
-- weird
-- miss
-- sniff
-- answer
-bip_39_word_space_1: program
-bip_39_word_space_10: program host aim idle churn vicious level net weird miss
-bip_39_word_space_11: program host aim idle churn vicious level net weird miss sniff
 bip_39_word_space_12: program host aim idle churn vicious level net weird miss sniff
   answer
 bip_39_word_space_2: program host
 bip_39_word_space_3: program host aim
-bip_39_word_space_4: program host aim idle
-bip_39_word_space_5: program host aim idle churn
-bip_39_word_space_6: program host aim idle churn vicious
-bip_39_word_space_7: program host aim idle churn vicious level
-bip_39_word_space_8: program host aim idle churn vicious level net
-bip_39_word_space_9: program host aim idle churn vicious level net weird
-bip_39_word_underscore_1: program
-bip_39_word_underscore_10: program_host_aim_idle_churn_vicious_level_net_weird_miss
-bip_39_word_underscore_11: program_host_aim_idle_churn_vicious_level_net_weird_miss_sniff
 bip_39_word_underscore_12: program_host_aim_idle_churn_vicious_level_net_weird_miss_sniff_answer
 bip_39_word_underscore_2: program_host
 bip_39_word_underscore_3: program_host_aim
-bip_39_word_underscore_4: program_host_aim_idle
-bip_39_word_underscore_5: program_host_aim_idle_churn
-bip_39_word_underscore_6: program_host_aim_idle_churn_vicious
-bip_39_word_underscore_7: program_host_aim_idle_churn_vicious_level
-bip_39_word_underscore_8: program_host_aim_idle_churn_vicious_level_net
-bip_39_word_underscore_9: program_host_aim_idle_churn_vicious_level_net_weird
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

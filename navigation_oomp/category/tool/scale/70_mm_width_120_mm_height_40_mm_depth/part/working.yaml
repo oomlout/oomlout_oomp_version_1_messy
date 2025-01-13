@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ski
-bip_39_word_dash_10: ski-ranch-milk-trap-neutral-lumber-close-tool-witness-quiz
-bip_39_word_dash_11: ski-ranch-milk-trap-neutral-lumber-close-tool-witness-quiz-blind
 bip_39_word_dash_12: ski-ranch-milk-trap-neutral-lumber-close-tool-witness-quiz-blind-attend
 bip_39_word_dash_2: ski-ranch
 bip_39_word_dash_3: ski-ranch-milk
-bip_39_word_dash_4: ski-ranch-milk-trap
-bip_39_word_dash_5: ski-ranch-milk-trap-neutral
-bip_39_word_dash_6: ski-ranch-milk-trap-neutral-lumber
-bip_39_word_dash_7: ski-ranch-milk-trap-neutral-lumber-close
-bip_39_word_dash_8: ski-ranch-milk-trap-neutral-lumber-close-tool
-bip_39_word_dash_9: ski-ranch-milk-trap-neutral-lumber-close-tool-witness
-bip_39_word_new_br_1: ski
-bip_39_word_new_br_10: ski<br>ranch<br>milk<br>trap<br>neutral<br>lumber<br>close<br>tool<br>witness<br>quiz
-bip_39_word_new_br_11: ski<br>ranch<br>milk<br>trap<br>neutral<br>lumber<br>close<br>tool<br>witness<br>quiz<br>blind
 bip_39_word_new_br_12: ski<br>ranch<br>milk<br>trap<br>neutral<br>lumber<br>close<br>tool<br>witness<br>quiz<br>blind<br>attend
 bip_39_word_new_br_2: ski<br>ranch
 bip_39_word_new_br_3: ski<br>ranch<br>milk
-bip_39_word_new_br_4: ski<br>ranch<br>milk<br>trap
-bip_39_word_new_br_5: ski<br>ranch<br>milk<br>trap<br>neutral
-bip_39_word_new_br_6: ski<br>ranch<br>milk<br>trap<br>neutral<br>lumber
-bip_39_word_new_br_7: ski<br>ranch<br>milk<br>trap<br>neutral<br>lumber<br>close
-bip_39_word_new_br_8: ski<br>ranch<br>milk<br>trap<br>neutral<br>lumber<br>close<br>tool
-bip_39_word_new_br_9: ski<br>ranch<br>milk<br>trap<br>neutral<br>lumber<br>close<br>tool<br>witness
-bip_39_word_new_line_1: ski
-bip_39_word_new_line_10: 'ski
-
-  ranch
-
-  milk
-
-  trap
-
-  neutral
-
-  lumber
-
-  close
-
-  tool
-
-  witness
-
-  quiz'
-bip_39_word_new_line_11: 'ski
-
-  ranch
-
-  milk
-
-  trap
-
-  neutral
-
-  lumber
-
-  close
-
-  tool
-
-  witness
-
-  quiz
-
-  blind'
 bip_39_word_new_line_12: 'ski
 
   ranch
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'ski
   ranch
 
   milk'
-bip_39_word_new_line_4: 'ski
-
-  ranch
-
-  milk
-
-  trap'
-bip_39_word_new_line_5: 'ski
-
-  ranch
-
-  milk
-
-  trap
-
-  neutral'
-bip_39_word_new_line_6: 'ski
-
-  ranch
-
-  milk
-
-  trap
-
-  neutral
-
-  lumber'
-bip_39_word_new_line_7: 'ski
-
-  ranch
-
-  milk
-
-  trap
-
-  neutral
-
-  lumber
-
-  close'
-bip_39_word_new_line_8: 'ski
-
-  ranch
-
-  milk
-
-  trap
-
-  neutral
-
-  lumber
-
-  close
-
-  tool'
-bip_39_word_new_line_9: 'ski
-
-  ranch
-
-  milk
-
-  trap
-
-  neutral
-
-  lumber
-
-  close
-
-  tool
-
-  witness'
-bip_39_word_no_space_1: ski
-bip_39_word_no_space_10: skiranchmilktrapneutrallumberclosetoolwitnessquiz
-bip_39_word_no_space_11: skiranchmilktrapneutrallumberclosetoolwitnessquizblind
 bip_39_word_no_space_12: skiranchmilktrapneutrallumberclosetoolwitnessquizblindattend
 bip_39_word_no_space_2: skiranch
 bip_39_word_no_space_3: skiranchmilk
-bip_39_word_no_space_4: skiranchmilktrap
-bip_39_word_no_space_5: skiranchmilktrapneutral
-bip_39_word_no_space_6: skiranchmilktrapneutrallumber
-bip_39_word_no_space_7: skiranchmilktrapneutrallumberclose
-bip_39_word_no_space_8: skiranchmilktrapneutrallumberclosetool
-bip_39_word_no_space_9: skiranchmilktrapneutrallumberclosetoolwitness
-bip_39_word_space_0:
-- ski
-- ranch
-- milk
-- trap
-- neutral
-- lumber
-- close
-- tool
-- witness
-- quiz
-- blind
-- attend
-bip_39_word_space_1: ski
-bip_39_word_space_10: ski ranch milk trap neutral lumber close tool witness quiz
-bip_39_word_space_11: ski ranch milk trap neutral lumber close tool witness quiz blind
 bip_39_word_space_12: ski ranch milk trap neutral lumber close tool witness quiz blind
   attend
 bip_39_word_space_2: ski ranch
 bip_39_word_space_3: ski ranch milk
-bip_39_word_space_4: ski ranch milk trap
-bip_39_word_space_5: ski ranch milk trap neutral
-bip_39_word_space_6: ski ranch milk trap neutral lumber
-bip_39_word_space_7: ski ranch milk trap neutral lumber close
-bip_39_word_space_8: ski ranch milk trap neutral lumber close tool
-bip_39_word_space_9: ski ranch milk trap neutral lumber close tool witness
-bip_39_word_underscore_1: ski
-bip_39_word_underscore_10: ski_ranch_milk_trap_neutral_lumber_close_tool_witness_quiz
-bip_39_word_underscore_11: ski_ranch_milk_trap_neutral_lumber_close_tool_witness_quiz_blind
 bip_39_word_underscore_12: ski_ranch_milk_trap_neutral_lumber_close_tool_witness_quiz_blind_attend
 bip_39_word_underscore_2: ski_ranch
 bip_39_word_underscore_3: ski_ranch_milk
-bip_39_word_underscore_4: ski_ranch_milk_trap
-bip_39_word_underscore_5: ski_ranch_milk_trap_neutral
-bip_39_word_underscore_6: ski_ranch_milk_trap_neutral_lumber
-bip_39_word_underscore_7: ski_ranch_milk_trap_neutral_lumber_close
-bip_39_word_underscore_8: ski_ranch_milk_trap_neutral_lumber_close_tool
-bip_39_word_underscore_9: ski_ranch_milk_trap_neutral_lumber_close_tool_witness
 classification: category
 classification_capital: Category
 classification_first_letter: c

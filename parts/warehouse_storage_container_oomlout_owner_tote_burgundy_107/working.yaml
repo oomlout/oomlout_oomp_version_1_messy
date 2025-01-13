@@ -1,68 +1,9 @@
-bip_39_word_dash_1: void
-bip_39_word_dash_10: void-coyote-winter-tiny-vocal-firm-jelly-gasp-wave-scissors
-bip_39_word_dash_11: void-coyote-winter-tiny-vocal-firm-jelly-gasp-wave-scissors-sausage
 bip_39_word_dash_12: void-coyote-winter-tiny-vocal-firm-jelly-gasp-wave-scissors-sausage-any
 bip_39_word_dash_2: void-coyote
 bip_39_word_dash_3: void-coyote-winter
-bip_39_word_dash_4: void-coyote-winter-tiny
-bip_39_word_dash_5: void-coyote-winter-tiny-vocal
-bip_39_word_dash_6: void-coyote-winter-tiny-vocal-firm
-bip_39_word_dash_7: void-coyote-winter-tiny-vocal-firm-jelly
-bip_39_word_dash_8: void-coyote-winter-tiny-vocal-firm-jelly-gasp
-bip_39_word_dash_9: void-coyote-winter-tiny-vocal-firm-jelly-gasp-wave
-bip_39_word_new_br_1: void
-bip_39_word_new_br_10: void<br>coyote<br>winter<br>tiny<br>vocal<br>firm<br>jelly<br>gasp<br>wave<br>scissors
-bip_39_word_new_br_11: void<br>coyote<br>winter<br>tiny<br>vocal<br>firm<br>jelly<br>gasp<br>wave<br>scissors<br>sausage
 bip_39_word_new_br_12: void<br>coyote<br>winter<br>tiny<br>vocal<br>firm<br>jelly<br>gasp<br>wave<br>scissors<br>sausage<br>any
 bip_39_word_new_br_2: void<br>coyote
 bip_39_word_new_br_3: void<br>coyote<br>winter
-bip_39_word_new_br_4: void<br>coyote<br>winter<br>tiny
-bip_39_word_new_br_5: void<br>coyote<br>winter<br>tiny<br>vocal
-bip_39_word_new_br_6: void<br>coyote<br>winter<br>tiny<br>vocal<br>firm
-bip_39_word_new_br_7: void<br>coyote<br>winter<br>tiny<br>vocal<br>firm<br>jelly
-bip_39_word_new_br_8: void<br>coyote<br>winter<br>tiny<br>vocal<br>firm<br>jelly<br>gasp
-bip_39_word_new_br_9: void<br>coyote<br>winter<br>tiny<br>vocal<br>firm<br>jelly<br>gasp<br>wave
-bip_39_word_new_line_1: void
-bip_39_word_new_line_10: 'void
-
-  coyote
-
-  winter
-
-  tiny
-
-  vocal
-
-  firm
-
-  jelly
-
-  gasp
-
-  wave
-
-  scissors'
-bip_39_word_new_line_11: 'void
-
-  coyote
-
-  winter
-
-  tiny
-
-  vocal
-
-  firm
-
-  jelly
-
-  gasp
-
-  wave
-
-  scissors
-
-  sausage'
 bip_39_word_new_line_12: 'void
 
   coyote
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'void
   coyote
 
   winter'
-bip_39_word_new_line_4: 'void
-
-  coyote
-
-  winter
-
-  tiny'
-bip_39_word_new_line_5: 'void
-
-  coyote
-
-  winter
-
-  tiny
-
-  vocal'
-bip_39_word_new_line_6: 'void
-
-  coyote
-
-  winter
-
-  tiny
-
-  vocal
-
-  firm'
-bip_39_word_new_line_7: 'void
-
-  coyote
-
-  winter
-
-  tiny
-
-  vocal
-
-  firm
-
-  jelly'
-bip_39_word_new_line_8: 'void
-
-  coyote
-
-  winter
-
-  tiny
-
-  vocal
-
-  firm
-
-  jelly
-
-  gasp'
-bip_39_word_new_line_9: 'void
-
-  coyote
-
-  winter
-
-  tiny
-
-  vocal
-
-  firm
-
-  jelly
-
-  gasp
-
-  wave'
-bip_39_word_no_space_1: void
-bip_39_word_no_space_10: voidcoyotewintertinyvocalfirmjellygaspwavescissors
-bip_39_word_no_space_11: voidcoyotewintertinyvocalfirmjellygaspwavescissorssausage
 bip_39_word_no_space_12: voidcoyotewintertinyvocalfirmjellygaspwavescissorssausageany
 bip_39_word_no_space_2: voidcoyote
 bip_39_word_no_space_3: voidcoyotewinter
-bip_39_word_no_space_4: voidcoyotewintertiny
-bip_39_word_no_space_5: voidcoyotewintertinyvocal
-bip_39_word_no_space_6: voidcoyotewintertinyvocalfirm
-bip_39_word_no_space_7: voidcoyotewintertinyvocalfirmjelly
-bip_39_word_no_space_8: voidcoyotewintertinyvocalfirmjellygasp
-bip_39_word_no_space_9: voidcoyotewintertinyvocalfirmjellygaspwave
-bip_39_word_space_0:
-- void
-- coyote
-- winter
-- tiny
-- vocal
-- firm
-- jelly
-- gasp
-- wave
-- scissors
-- sausage
-- any
-bip_39_word_space_1: void
-bip_39_word_space_10: void coyote winter tiny vocal firm jelly gasp wave scissors
-bip_39_word_space_11: void coyote winter tiny vocal firm jelly gasp wave scissors
-  sausage
 bip_39_word_space_12: void coyote winter tiny vocal firm jelly gasp wave scissors
   sausage any
 bip_39_word_space_2: void coyote
 bip_39_word_space_3: void coyote winter
-bip_39_word_space_4: void coyote winter tiny
-bip_39_word_space_5: void coyote winter tiny vocal
-bip_39_word_space_6: void coyote winter tiny vocal firm
-bip_39_word_space_7: void coyote winter tiny vocal firm jelly
-bip_39_word_space_8: void coyote winter tiny vocal firm jelly gasp
-bip_39_word_space_9: void coyote winter tiny vocal firm jelly gasp wave
-bip_39_word_underscore_1: void
-bip_39_word_underscore_10: void_coyote_winter_tiny_vocal_firm_jelly_gasp_wave_scissors
-bip_39_word_underscore_11: void_coyote_winter_tiny_vocal_firm_jelly_gasp_wave_scissors_sausage
 bip_39_word_underscore_12: void_coyote_winter_tiny_vocal_firm_jelly_gasp_wave_scissors_sausage_any
 bip_39_word_underscore_2: void_coyote
 bip_39_word_underscore_3: void_coyote_winter
-bip_39_word_underscore_4: void_coyote_winter_tiny
-bip_39_word_underscore_5: void_coyote_winter_tiny_vocal
-bip_39_word_underscore_6: void_coyote_winter_tiny_vocal_firm
-bip_39_word_underscore_7: void_coyote_winter_tiny_vocal_firm_jelly
-bip_39_word_underscore_8: void_coyote_winter_tiny_vocal_firm_jelly_gasp
-bip_39_word_underscore_9: void_coyote_winter_tiny_vocal_firm_jelly_gasp_wave
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

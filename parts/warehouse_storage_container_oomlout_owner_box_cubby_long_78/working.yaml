@@ -1,68 +1,9 @@
-bip_39_word_dash_1: person
-bip_39_word_dash_10: person-sun-pudding-brisk-steel-about-ribbon-mammal-defy-zone
-bip_39_word_dash_11: person-sun-pudding-brisk-steel-about-ribbon-mammal-defy-zone-basket
 bip_39_word_dash_12: person-sun-pudding-brisk-steel-about-ribbon-mammal-defy-zone-basket-anchor
 bip_39_word_dash_2: person-sun
 bip_39_word_dash_3: person-sun-pudding
-bip_39_word_dash_4: person-sun-pudding-brisk
-bip_39_word_dash_5: person-sun-pudding-brisk-steel
-bip_39_word_dash_6: person-sun-pudding-brisk-steel-about
-bip_39_word_dash_7: person-sun-pudding-brisk-steel-about-ribbon
-bip_39_word_dash_8: person-sun-pudding-brisk-steel-about-ribbon-mammal
-bip_39_word_dash_9: person-sun-pudding-brisk-steel-about-ribbon-mammal-defy
-bip_39_word_new_br_1: person
-bip_39_word_new_br_10: person<br>sun<br>pudding<br>brisk<br>steel<br>about<br>ribbon<br>mammal<br>defy<br>zone
-bip_39_word_new_br_11: person<br>sun<br>pudding<br>brisk<br>steel<br>about<br>ribbon<br>mammal<br>defy<br>zone<br>basket
 bip_39_word_new_br_12: person<br>sun<br>pudding<br>brisk<br>steel<br>about<br>ribbon<br>mammal<br>defy<br>zone<br>basket<br>anchor
 bip_39_word_new_br_2: person<br>sun
 bip_39_word_new_br_3: person<br>sun<br>pudding
-bip_39_word_new_br_4: person<br>sun<br>pudding<br>brisk
-bip_39_word_new_br_5: person<br>sun<br>pudding<br>brisk<br>steel
-bip_39_word_new_br_6: person<br>sun<br>pudding<br>brisk<br>steel<br>about
-bip_39_word_new_br_7: person<br>sun<br>pudding<br>brisk<br>steel<br>about<br>ribbon
-bip_39_word_new_br_8: person<br>sun<br>pudding<br>brisk<br>steel<br>about<br>ribbon<br>mammal
-bip_39_word_new_br_9: person<br>sun<br>pudding<br>brisk<br>steel<br>about<br>ribbon<br>mammal<br>defy
-bip_39_word_new_line_1: person
-bip_39_word_new_line_10: 'person
-
-  sun
-
-  pudding
-
-  brisk
-
-  steel
-
-  about
-
-  ribbon
-
-  mammal
-
-  defy
-
-  zone'
-bip_39_word_new_line_11: 'person
-
-  sun
-
-  pudding
-
-  brisk
-
-  steel
-
-  about
-
-  ribbon
-
-  mammal
-
-  defy
-
-  zone
-
-  basket'
 bip_39_word_new_line_12: 'person
 
   sun
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'person
   sun
 
   pudding'
-bip_39_word_new_line_4: 'person
-
-  sun
-
-  pudding
-
-  brisk'
-bip_39_word_new_line_5: 'person
-
-  sun
-
-  pudding
-
-  brisk
-
-  steel'
-bip_39_word_new_line_6: 'person
-
-  sun
-
-  pudding
-
-  brisk
-
-  steel
-
-  about'
-bip_39_word_new_line_7: 'person
-
-  sun
-
-  pudding
-
-  brisk
-
-  steel
-
-  about
-
-  ribbon'
-bip_39_word_new_line_8: 'person
-
-  sun
-
-  pudding
-
-  brisk
-
-  steel
-
-  about
-
-  ribbon
-
-  mammal'
-bip_39_word_new_line_9: 'person
-
-  sun
-
-  pudding
-
-  brisk
-
-  steel
-
-  about
-
-  ribbon
-
-  mammal
-
-  defy'
-bip_39_word_no_space_1: person
-bip_39_word_no_space_10: personsunpuddingbrisksteelaboutribbonmammaldefyzone
-bip_39_word_no_space_11: personsunpuddingbrisksteelaboutribbonmammaldefyzonebasket
 bip_39_word_no_space_12: personsunpuddingbrisksteelaboutribbonmammaldefyzonebasketanchor
 bip_39_word_no_space_2: personsun
 bip_39_word_no_space_3: personsunpudding
-bip_39_word_no_space_4: personsunpuddingbrisk
-bip_39_word_no_space_5: personsunpuddingbrisksteel
-bip_39_word_no_space_6: personsunpuddingbrisksteelabout
-bip_39_word_no_space_7: personsunpuddingbrisksteelaboutribbon
-bip_39_word_no_space_8: personsunpuddingbrisksteelaboutribbonmammal
-bip_39_word_no_space_9: personsunpuddingbrisksteelaboutribbonmammaldefy
-bip_39_word_space_0:
-- person
-- sun
-- pudding
-- brisk
-- steel
-- about
-- ribbon
-- mammal
-- defy
-- zone
-- basket
-- anchor
-bip_39_word_space_1: person
-bip_39_word_space_10: person sun pudding brisk steel about ribbon mammal defy zone
-bip_39_word_space_11: person sun pudding brisk steel about ribbon mammal defy zone
-  basket
 bip_39_word_space_12: person sun pudding brisk steel about ribbon mammal defy zone
   basket anchor
 bip_39_word_space_2: person sun
 bip_39_word_space_3: person sun pudding
-bip_39_word_space_4: person sun pudding brisk
-bip_39_word_space_5: person sun pudding brisk steel
-bip_39_word_space_6: person sun pudding brisk steel about
-bip_39_word_space_7: person sun pudding brisk steel about ribbon
-bip_39_word_space_8: person sun pudding brisk steel about ribbon mammal
-bip_39_word_space_9: person sun pudding brisk steel about ribbon mammal defy
-bip_39_word_underscore_1: person
-bip_39_word_underscore_10: person_sun_pudding_brisk_steel_about_ribbon_mammal_defy_zone
-bip_39_word_underscore_11: person_sun_pudding_brisk_steel_about_ribbon_mammal_defy_zone_basket
 bip_39_word_underscore_12: person_sun_pudding_brisk_steel_about_ribbon_mammal_defy_zone_basket_anchor
 bip_39_word_underscore_2: person_sun
 bip_39_word_underscore_3: person_sun_pudding
-bip_39_word_underscore_4: person_sun_pudding_brisk
-bip_39_word_underscore_5: person_sun_pudding_brisk_steel
-bip_39_word_underscore_6: person_sun_pudding_brisk_steel_about
-bip_39_word_underscore_7: person_sun_pudding_brisk_steel_about_ribbon
-bip_39_word_underscore_8: person_sun_pudding_brisk_steel_about_ribbon_mammal
-bip_39_word_underscore_9: person_sun_pudding_brisk_steel_about_ribbon_mammal_defy
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

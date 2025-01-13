@@ -1,68 +1,9 @@
-bip_39_word_dash_1: call
-bip_39_word_dash_10: call-great-mushroom-cupboard-laundry-fold-tunnel-twice-little-guard
-bip_39_word_dash_11: call-great-mushroom-cupboard-laundry-fold-tunnel-twice-little-guard-hospital
 bip_39_word_dash_12: call-great-mushroom-cupboard-laundry-fold-tunnel-twice-little-guard-hospital-among
 bip_39_word_dash_2: call-great
 bip_39_word_dash_3: call-great-mushroom
-bip_39_word_dash_4: call-great-mushroom-cupboard
-bip_39_word_dash_5: call-great-mushroom-cupboard-laundry
-bip_39_word_dash_6: call-great-mushroom-cupboard-laundry-fold
-bip_39_word_dash_7: call-great-mushroom-cupboard-laundry-fold-tunnel
-bip_39_word_dash_8: call-great-mushroom-cupboard-laundry-fold-tunnel-twice
-bip_39_word_dash_9: call-great-mushroom-cupboard-laundry-fold-tunnel-twice-little
-bip_39_word_new_br_1: call
-bip_39_word_new_br_10: call<br>great<br>mushroom<br>cupboard<br>laundry<br>fold<br>tunnel<br>twice<br>little<br>guard
-bip_39_word_new_br_11: call<br>great<br>mushroom<br>cupboard<br>laundry<br>fold<br>tunnel<br>twice<br>little<br>guard<br>hospital
 bip_39_word_new_br_12: call<br>great<br>mushroom<br>cupboard<br>laundry<br>fold<br>tunnel<br>twice<br>little<br>guard<br>hospital<br>among
 bip_39_word_new_br_2: call<br>great
 bip_39_word_new_br_3: call<br>great<br>mushroom
-bip_39_word_new_br_4: call<br>great<br>mushroom<br>cupboard
-bip_39_word_new_br_5: call<br>great<br>mushroom<br>cupboard<br>laundry
-bip_39_word_new_br_6: call<br>great<br>mushroom<br>cupboard<br>laundry<br>fold
-bip_39_word_new_br_7: call<br>great<br>mushroom<br>cupboard<br>laundry<br>fold<br>tunnel
-bip_39_word_new_br_8: call<br>great<br>mushroom<br>cupboard<br>laundry<br>fold<br>tunnel<br>twice
-bip_39_word_new_br_9: call<br>great<br>mushroom<br>cupboard<br>laundry<br>fold<br>tunnel<br>twice<br>little
-bip_39_word_new_line_1: call
-bip_39_word_new_line_10: 'call
-
-  great
-
-  mushroom
-
-  cupboard
-
-  laundry
-
-  fold
-
-  tunnel
-
-  twice
-
-  little
-
-  guard'
-bip_39_word_new_line_11: 'call
-
-  great
-
-  mushroom
-
-  cupboard
-
-  laundry
-
-  fold
-
-  tunnel
-
-  twice
-
-  little
-
-  guard
-
-  hospital'
 bip_39_word_new_line_12: 'call
 
   great
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'call
   great
 
   mushroom'
-bip_39_word_new_line_4: 'call
-
-  great
-
-  mushroom
-
-  cupboard'
-bip_39_word_new_line_5: 'call
-
-  great
-
-  mushroom
-
-  cupboard
-
-  laundry'
-bip_39_word_new_line_6: 'call
-
-  great
-
-  mushroom
-
-  cupboard
-
-  laundry
-
-  fold'
-bip_39_word_new_line_7: 'call
-
-  great
-
-  mushroom
-
-  cupboard
-
-  laundry
-
-  fold
-
-  tunnel'
-bip_39_word_new_line_8: 'call
-
-  great
-
-  mushroom
-
-  cupboard
-
-  laundry
-
-  fold
-
-  tunnel
-
-  twice'
-bip_39_word_new_line_9: 'call
-
-  great
-
-  mushroom
-
-  cupboard
-
-  laundry
-
-  fold
-
-  tunnel
-
-  twice
-
-  little'
-bip_39_word_no_space_1: call
-bip_39_word_no_space_10: callgreatmushroomcupboardlaundryfoldtunneltwicelittleguard
-bip_39_word_no_space_11: callgreatmushroomcupboardlaundryfoldtunneltwicelittleguardhospital
 bip_39_word_no_space_12: callgreatmushroomcupboardlaundryfoldtunneltwicelittleguardhospitalamong
 bip_39_word_no_space_2: callgreat
 bip_39_word_no_space_3: callgreatmushroom
-bip_39_word_no_space_4: callgreatmushroomcupboard
-bip_39_word_no_space_5: callgreatmushroomcupboardlaundry
-bip_39_word_no_space_6: callgreatmushroomcupboardlaundryfold
-bip_39_word_no_space_7: callgreatmushroomcupboardlaundryfoldtunnel
-bip_39_word_no_space_8: callgreatmushroomcupboardlaundryfoldtunneltwice
-bip_39_word_no_space_9: callgreatmushroomcupboardlaundryfoldtunneltwicelittle
-bip_39_word_space_0:
-- call
-- great
-- mushroom
-- cupboard
-- laundry
-- fold
-- tunnel
-- twice
-- little
-- guard
-- hospital
-- among
-bip_39_word_space_1: call
-bip_39_word_space_10: call great mushroom cupboard laundry fold tunnel twice little
-  guard
-bip_39_word_space_11: call great mushroom cupboard laundry fold tunnel twice little
-  guard hospital
 bip_39_word_space_12: call great mushroom cupboard laundry fold tunnel twice little
   guard hospital among
 bip_39_word_space_2: call great
 bip_39_word_space_3: call great mushroom
-bip_39_word_space_4: call great mushroom cupboard
-bip_39_word_space_5: call great mushroom cupboard laundry
-bip_39_word_space_6: call great mushroom cupboard laundry fold
-bip_39_word_space_7: call great mushroom cupboard laundry fold tunnel
-bip_39_word_space_8: call great mushroom cupboard laundry fold tunnel twice
-bip_39_word_space_9: call great mushroom cupboard laundry fold tunnel twice little
-bip_39_word_underscore_1: call
-bip_39_word_underscore_10: call_great_mushroom_cupboard_laundry_fold_tunnel_twice_little_guard
-bip_39_word_underscore_11: call_great_mushroom_cupboard_laundry_fold_tunnel_twice_little_guard_hospital
 bip_39_word_underscore_12: call_great_mushroom_cupboard_laundry_fold_tunnel_twice_little_guard_hospital_among
 bip_39_word_underscore_2: call_great
 bip_39_word_underscore_3: call_great_mushroom
-bip_39_word_underscore_4: call_great_mushroom_cupboard
-bip_39_word_underscore_5: call_great_mushroom_cupboard_laundry
-bip_39_word_underscore_6: call_great_mushroom_cupboard_laundry_fold
-bip_39_word_underscore_7: call_great_mushroom_cupboard_laundry_fold_tunnel
-bip_39_word_underscore_8: call_great_mushroom_cupboard_laundry_fold_tunnel_twice
-bip_39_word_underscore_9: call_great_mushroom_cupboard_laundry_fold_tunnel_twice_little
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

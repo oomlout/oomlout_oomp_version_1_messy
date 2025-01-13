@@ -1,68 +1,9 @@
-bip_39_word_dash_1: verify
-bip_39_word_dash_10: verify-august-master-flee-soon-question-useless-turtle-bright-undo
-bip_39_word_dash_11: verify-august-master-flee-soon-question-useless-turtle-bright-undo-eager
 bip_39_word_dash_12: verify-august-master-flee-soon-question-useless-turtle-bright-undo-eager-adapt
 bip_39_word_dash_2: verify-august
 bip_39_word_dash_3: verify-august-master
-bip_39_word_dash_4: verify-august-master-flee
-bip_39_word_dash_5: verify-august-master-flee-soon
-bip_39_word_dash_6: verify-august-master-flee-soon-question
-bip_39_word_dash_7: verify-august-master-flee-soon-question-useless
-bip_39_word_dash_8: verify-august-master-flee-soon-question-useless-turtle
-bip_39_word_dash_9: verify-august-master-flee-soon-question-useless-turtle-bright
-bip_39_word_new_br_1: verify
-bip_39_word_new_br_10: verify<br>august<br>master<br>flee<br>soon<br>question<br>useless<br>turtle<br>bright<br>undo
-bip_39_word_new_br_11: verify<br>august<br>master<br>flee<br>soon<br>question<br>useless<br>turtle<br>bright<br>undo<br>eager
 bip_39_word_new_br_12: verify<br>august<br>master<br>flee<br>soon<br>question<br>useless<br>turtle<br>bright<br>undo<br>eager<br>adapt
 bip_39_word_new_br_2: verify<br>august
 bip_39_word_new_br_3: verify<br>august<br>master
-bip_39_word_new_br_4: verify<br>august<br>master<br>flee
-bip_39_word_new_br_5: verify<br>august<br>master<br>flee<br>soon
-bip_39_word_new_br_6: verify<br>august<br>master<br>flee<br>soon<br>question
-bip_39_word_new_br_7: verify<br>august<br>master<br>flee<br>soon<br>question<br>useless
-bip_39_word_new_br_8: verify<br>august<br>master<br>flee<br>soon<br>question<br>useless<br>turtle
-bip_39_word_new_br_9: verify<br>august<br>master<br>flee<br>soon<br>question<br>useless<br>turtle<br>bright
-bip_39_word_new_line_1: verify
-bip_39_word_new_line_10: 'verify
-
-  august
-
-  master
-
-  flee
-
-  soon
-
-  question
-
-  useless
-
-  turtle
-
-  bright
-
-  undo'
-bip_39_word_new_line_11: 'verify
-
-  august
-
-  master
-
-  flee
-
-  soon
-
-  question
-
-  useless
-
-  turtle
-
-  bright
-
-  undo
-
-  eager'
 bip_39_word_new_line_12: 'verify
 
   august
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'verify
   august
 
   master'
-bip_39_word_new_line_4: 'verify
-
-  august
-
-  master
-
-  flee'
-bip_39_word_new_line_5: 'verify
-
-  august
-
-  master
-
-  flee
-
-  soon'
-bip_39_word_new_line_6: 'verify
-
-  august
-
-  master
-
-  flee
-
-  soon
-
-  question'
-bip_39_word_new_line_7: 'verify
-
-  august
-
-  master
-
-  flee
-
-  soon
-
-  question
-
-  useless'
-bip_39_word_new_line_8: 'verify
-
-  august
-
-  master
-
-  flee
-
-  soon
-
-  question
-
-  useless
-
-  turtle'
-bip_39_word_new_line_9: 'verify
-
-  august
-
-  master
-
-  flee
-
-  soon
-
-  question
-
-  useless
-
-  turtle
-
-  bright'
-bip_39_word_no_space_1: verify
-bip_39_word_no_space_10: verifyaugustmasterfleesoonquestionuselessturtlebrightundo
-bip_39_word_no_space_11: verifyaugustmasterfleesoonquestionuselessturtlebrightundoeager
 bip_39_word_no_space_12: verifyaugustmasterfleesoonquestionuselessturtlebrightundoeageradapt
 bip_39_word_no_space_2: verifyaugust
 bip_39_word_no_space_3: verifyaugustmaster
-bip_39_word_no_space_4: verifyaugustmasterflee
-bip_39_word_no_space_5: verifyaugustmasterfleesoon
-bip_39_word_no_space_6: verifyaugustmasterfleesoonquestion
-bip_39_word_no_space_7: verifyaugustmasterfleesoonquestionuseless
-bip_39_word_no_space_8: verifyaugustmasterfleesoonquestionuselessturtle
-bip_39_word_no_space_9: verifyaugustmasterfleesoonquestionuselessturtlebright
-bip_39_word_space_0:
-- verify
-- august
-- master
-- flee
-- soon
-- question
-- useless
-- turtle
-- bright
-- undo
-- eager
-- adapt
-bip_39_word_space_1: verify
-bip_39_word_space_10: verify august master flee soon question useless turtle bright
-  undo
-bip_39_word_space_11: verify august master flee soon question useless turtle bright
-  undo eager
 bip_39_word_space_12: verify august master flee soon question useless turtle bright
   undo eager adapt
 bip_39_word_space_2: verify august
 bip_39_word_space_3: verify august master
-bip_39_word_space_4: verify august master flee
-bip_39_word_space_5: verify august master flee soon
-bip_39_word_space_6: verify august master flee soon question
-bip_39_word_space_7: verify august master flee soon question useless
-bip_39_word_space_8: verify august master flee soon question useless turtle
-bip_39_word_space_9: verify august master flee soon question useless turtle bright
-bip_39_word_underscore_1: verify
-bip_39_word_underscore_10: verify_august_master_flee_soon_question_useless_turtle_bright_undo
-bip_39_word_underscore_11: verify_august_master_flee_soon_question_useless_turtle_bright_undo_eager
 bip_39_word_underscore_12: verify_august_master_flee_soon_question_useless_turtle_bright_undo_eager_adapt
 bip_39_word_underscore_2: verify_august
 bip_39_word_underscore_3: verify_august_master
-bip_39_word_underscore_4: verify_august_master_flee
-bip_39_word_underscore_5: verify_august_master_flee_soon
-bip_39_word_underscore_6: verify_august_master_flee_soon_question
-bip_39_word_underscore_7: verify_august_master_flee_soon_question_useless
-bip_39_word_underscore_8: verify_august_master_flee_soon_question_useless_turtle
-bip_39_word_underscore_9: verify_august_master_flee_soon_question_useless_turtle_bright
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

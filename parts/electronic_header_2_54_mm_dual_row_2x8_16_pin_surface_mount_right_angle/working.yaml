@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chair
-bip_39_word_dash_10: chair-wool-pupil-pave-chimney-upon-lemon-guitar-moral-away
-bip_39_word_dash_11: chair-wool-pupil-pave-chimney-upon-lemon-guitar-moral-away-agree
 bip_39_word_dash_12: chair-wool-pupil-pave-chimney-upon-lemon-guitar-moral-away-agree-ahead
 bip_39_word_dash_2: chair-wool
 bip_39_word_dash_3: chair-wool-pupil
-bip_39_word_dash_4: chair-wool-pupil-pave
-bip_39_word_dash_5: chair-wool-pupil-pave-chimney
-bip_39_word_dash_6: chair-wool-pupil-pave-chimney-upon
-bip_39_word_dash_7: chair-wool-pupil-pave-chimney-upon-lemon
-bip_39_word_dash_8: chair-wool-pupil-pave-chimney-upon-lemon-guitar
-bip_39_word_dash_9: chair-wool-pupil-pave-chimney-upon-lemon-guitar-moral
-bip_39_word_new_br_1: chair
-bip_39_word_new_br_10: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon<br>lemon<br>guitar<br>moral<br>away
-bip_39_word_new_br_11: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon<br>lemon<br>guitar<br>moral<br>away<br>agree
 bip_39_word_new_br_12: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon<br>lemon<br>guitar<br>moral<br>away<br>agree<br>ahead
 bip_39_word_new_br_2: chair<br>wool
 bip_39_word_new_br_3: chair<br>wool<br>pupil
-bip_39_word_new_br_4: chair<br>wool<br>pupil<br>pave
-bip_39_word_new_br_5: chair<br>wool<br>pupil<br>pave<br>chimney
-bip_39_word_new_br_6: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon
-bip_39_word_new_br_7: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon<br>lemon
-bip_39_word_new_br_8: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon<br>lemon<br>guitar
-bip_39_word_new_br_9: chair<br>wool<br>pupil<br>pave<br>chimney<br>upon<br>lemon<br>guitar<br>moral
-bip_39_word_new_line_1: chair
-bip_39_word_new_line_10: 'chair
-
-  wool
-
-  pupil
-
-  pave
-
-  chimney
-
-  upon
-
-  lemon
-
-  guitar
-
-  moral
-
-  away'
-bip_39_word_new_line_11: 'chair
-
-  wool
-
-  pupil
-
-  pave
-
-  chimney
-
-  upon
-
-  lemon
-
-  guitar
-
-  moral
-
-  away
-
-  agree'
 bip_39_word_new_line_12: 'chair
 
   wool
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'chair
   wool
 
   pupil'
-bip_39_word_new_line_4: 'chair
-
-  wool
-
-  pupil
-
-  pave'
-bip_39_word_new_line_5: 'chair
-
-  wool
-
-  pupil
-
-  pave
-
-  chimney'
-bip_39_word_new_line_6: 'chair
-
-  wool
-
-  pupil
-
-  pave
-
-  chimney
-
-  upon'
-bip_39_word_new_line_7: 'chair
-
-  wool
-
-  pupil
-
-  pave
-
-  chimney
-
-  upon
-
-  lemon'
-bip_39_word_new_line_8: 'chair
-
-  wool
-
-  pupil
-
-  pave
-
-  chimney
-
-  upon
-
-  lemon
-
-  guitar'
-bip_39_word_new_line_9: 'chair
-
-  wool
-
-  pupil
-
-  pave
-
-  chimney
-
-  upon
-
-  lemon
-
-  guitar
-
-  moral'
-bip_39_word_no_space_1: chair
-bip_39_word_no_space_10: chairwoolpupilpavechimneyuponlemonguitarmoralaway
-bip_39_word_no_space_11: chairwoolpupilpavechimneyuponlemonguitarmoralawayagree
 bip_39_word_no_space_12: chairwoolpupilpavechimneyuponlemonguitarmoralawayagreeahead
 bip_39_word_no_space_2: chairwool
 bip_39_word_no_space_3: chairwoolpupil
-bip_39_word_no_space_4: chairwoolpupilpave
-bip_39_word_no_space_5: chairwoolpupilpavechimney
-bip_39_word_no_space_6: chairwoolpupilpavechimneyupon
-bip_39_word_no_space_7: chairwoolpupilpavechimneyuponlemon
-bip_39_word_no_space_8: chairwoolpupilpavechimneyuponlemonguitar
-bip_39_word_no_space_9: chairwoolpupilpavechimneyuponlemonguitarmoral
-bip_39_word_space_0:
-- chair
-- wool
-- pupil
-- pave
-- chimney
-- upon
-- lemon
-- guitar
-- moral
-- away
-- agree
-- ahead
-bip_39_word_space_1: chair
-bip_39_word_space_10: chair wool pupil pave chimney upon lemon guitar moral away
-bip_39_word_space_11: chair wool pupil pave chimney upon lemon guitar moral away agree
 bip_39_word_space_12: chair wool pupil pave chimney upon lemon guitar moral away agree
   ahead
 bip_39_word_space_2: chair wool
 bip_39_word_space_3: chair wool pupil
-bip_39_word_space_4: chair wool pupil pave
-bip_39_word_space_5: chair wool pupil pave chimney
-bip_39_word_space_6: chair wool pupil pave chimney upon
-bip_39_word_space_7: chair wool pupil pave chimney upon lemon
-bip_39_word_space_8: chair wool pupil pave chimney upon lemon guitar
-bip_39_word_space_9: chair wool pupil pave chimney upon lemon guitar moral
-bip_39_word_underscore_1: chair
-bip_39_word_underscore_10: chair_wool_pupil_pave_chimney_upon_lemon_guitar_moral_away
-bip_39_word_underscore_11: chair_wool_pupil_pave_chimney_upon_lemon_guitar_moral_away_agree
 bip_39_word_underscore_12: chair_wool_pupil_pave_chimney_upon_lemon_guitar_moral_away_agree_ahead
 bip_39_word_underscore_2: chair_wool
 bip_39_word_underscore_3: chair_wool_pupil
-bip_39_word_underscore_4: chair_wool_pupil_pave
-bip_39_word_underscore_5: chair_wool_pupil_pave_chimney
-bip_39_word_underscore_6: chair_wool_pupil_pave_chimney_upon
-bip_39_word_underscore_7: chair_wool_pupil_pave_chimney_upon_lemon
-bip_39_word_underscore_8: chair_wool_pupil_pave_chimney_upon_lemon_guitar
-bip_39_word_underscore_9: chair_wool_pupil_pave_chimney_upon_lemon_guitar_moral
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

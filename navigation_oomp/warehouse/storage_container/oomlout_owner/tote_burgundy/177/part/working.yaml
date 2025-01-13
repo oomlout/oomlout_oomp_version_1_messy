@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tumble
-bip_39_word_dash_10: tumble-vendor-dirt-exist-portion-acquire-country-sock-elder-spot
-bip_39_word_dash_11: tumble-vendor-dirt-exist-portion-acquire-country-sock-elder-spot-junior
 bip_39_word_dash_12: tumble-vendor-dirt-exist-portion-acquire-country-sock-elder-spot-junior-absent
 bip_39_word_dash_2: tumble-vendor
 bip_39_word_dash_3: tumble-vendor-dirt
-bip_39_word_dash_4: tumble-vendor-dirt-exist
-bip_39_word_dash_5: tumble-vendor-dirt-exist-portion
-bip_39_word_dash_6: tumble-vendor-dirt-exist-portion-acquire
-bip_39_word_dash_7: tumble-vendor-dirt-exist-portion-acquire-country
-bip_39_word_dash_8: tumble-vendor-dirt-exist-portion-acquire-country-sock
-bip_39_word_dash_9: tumble-vendor-dirt-exist-portion-acquire-country-sock-elder
-bip_39_word_new_br_1: tumble
-bip_39_word_new_br_10: tumble<br>vendor<br>dirt<br>exist<br>portion<br>acquire<br>country<br>sock<br>elder<br>spot
-bip_39_word_new_br_11: tumble<br>vendor<br>dirt<br>exist<br>portion<br>acquire<br>country<br>sock<br>elder<br>spot<br>junior
 bip_39_word_new_br_12: tumble<br>vendor<br>dirt<br>exist<br>portion<br>acquire<br>country<br>sock<br>elder<br>spot<br>junior<br>absent
 bip_39_word_new_br_2: tumble<br>vendor
 bip_39_word_new_br_3: tumble<br>vendor<br>dirt
-bip_39_word_new_br_4: tumble<br>vendor<br>dirt<br>exist
-bip_39_word_new_br_5: tumble<br>vendor<br>dirt<br>exist<br>portion
-bip_39_word_new_br_6: tumble<br>vendor<br>dirt<br>exist<br>portion<br>acquire
-bip_39_word_new_br_7: tumble<br>vendor<br>dirt<br>exist<br>portion<br>acquire<br>country
-bip_39_word_new_br_8: tumble<br>vendor<br>dirt<br>exist<br>portion<br>acquire<br>country<br>sock
-bip_39_word_new_br_9: tumble<br>vendor<br>dirt<br>exist<br>portion<br>acquire<br>country<br>sock<br>elder
-bip_39_word_new_line_1: tumble
-bip_39_word_new_line_10: 'tumble
-
-  vendor
-
-  dirt
-
-  exist
-
-  portion
-
-  acquire
-
-  country
-
-  sock
-
-  elder
-
-  spot'
-bip_39_word_new_line_11: 'tumble
-
-  vendor
-
-  dirt
-
-  exist
-
-  portion
-
-  acquire
-
-  country
-
-  sock
-
-  elder
-
-  spot
-
-  junior'
 bip_39_word_new_line_12: 'tumble
 
   vendor
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'tumble
   vendor
 
   dirt'
-bip_39_word_new_line_4: 'tumble
-
-  vendor
-
-  dirt
-
-  exist'
-bip_39_word_new_line_5: 'tumble
-
-  vendor
-
-  dirt
-
-  exist
-
-  portion'
-bip_39_word_new_line_6: 'tumble
-
-  vendor
-
-  dirt
-
-  exist
-
-  portion
-
-  acquire'
-bip_39_word_new_line_7: 'tumble
-
-  vendor
-
-  dirt
-
-  exist
-
-  portion
-
-  acquire
-
-  country'
-bip_39_word_new_line_8: 'tumble
-
-  vendor
-
-  dirt
-
-  exist
-
-  portion
-
-  acquire
-
-  country
-
-  sock'
-bip_39_word_new_line_9: 'tumble
-
-  vendor
-
-  dirt
-
-  exist
-
-  portion
-
-  acquire
-
-  country
-
-  sock
-
-  elder'
-bip_39_word_no_space_1: tumble
-bip_39_word_no_space_10: tumblevendordirtexistportionacquirecountrysockelderspot
-bip_39_word_no_space_11: tumblevendordirtexistportionacquirecountrysockelderspotjunior
 bip_39_word_no_space_12: tumblevendordirtexistportionacquirecountrysockelderspotjuniorabsent
 bip_39_word_no_space_2: tumblevendor
 bip_39_word_no_space_3: tumblevendordirt
-bip_39_word_no_space_4: tumblevendordirtexist
-bip_39_word_no_space_5: tumblevendordirtexistportion
-bip_39_word_no_space_6: tumblevendordirtexistportionacquire
-bip_39_word_no_space_7: tumblevendordirtexistportionacquirecountry
-bip_39_word_no_space_8: tumblevendordirtexistportionacquirecountrysock
-bip_39_word_no_space_9: tumblevendordirtexistportionacquirecountrysockelder
-bip_39_word_space_0:
-- tumble
-- vendor
-- dirt
-- exist
-- portion
-- acquire
-- country
-- sock
-- elder
-- spot
-- junior
-- absent
-bip_39_word_space_1: tumble
-bip_39_word_space_10: tumble vendor dirt exist portion acquire country sock elder
-  spot
-bip_39_word_space_11: tumble vendor dirt exist portion acquire country sock elder
-  spot junior
 bip_39_word_space_12: tumble vendor dirt exist portion acquire country sock elder
   spot junior absent
 bip_39_word_space_2: tumble vendor
 bip_39_word_space_3: tumble vendor dirt
-bip_39_word_space_4: tumble vendor dirt exist
-bip_39_word_space_5: tumble vendor dirt exist portion
-bip_39_word_space_6: tumble vendor dirt exist portion acquire
-bip_39_word_space_7: tumble vendor dirt exist portion acquire country
-bip_39_word_space_8: tumble vendor dirt exist portion acquire country sock
-bip_39_word_space_9: tumble vendor dirt exist portion acquire country sock elder
-bip_39_word_underscore_1: tumble
-bip_39_word_underscore_10: tumble_vendor_dirt_exist_portion_acquire_country_sock_elder_spot
-bip_39_word_underscore_11: tumble_vendor_dirt_exist_portion_acquire_country_sock_elder_spot_junior
 bip_39_word_underscore_12: tumble_vendor_dirt_exist_portion_acquire_country_sock_elder_spot_junior_absent
 bip_39_word_underscore_2: tumble_vendor
 bip_39_word_underscore_3: tumble_vendor_dirt
-bip_39_word_underscore_4: tumble_vendor_dirt_exist
-bip_39_word_underscore_5: tumble_vendor_dirt_exist_portion
-bip_39_word_underscore_6: tumble_vendor_dirt_exist_portion_acquire
-bip_39_word_underscore_7: tumble_vendor_dirt_exist_portion_acquire_country
-bip_39_word_underscore_8: tumble_vendor_dirt_exist_portion_acquire_country_sock
-bip_39_word_underscore_9: tumble_vendor_dirt_exist_portion_acquire_country_sock_elder
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

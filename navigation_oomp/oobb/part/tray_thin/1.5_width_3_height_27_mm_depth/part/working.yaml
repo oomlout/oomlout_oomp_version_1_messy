@@ -1,68 +1,9 @@
-bip_39_word_dash_1: panic
-bip_39_word_dash_10: panic-gadget-endorse-abstract-dune-comic-awesome-borrow-awake-neutral
-bip_39_word_dash_11: panic-gadget-endorse-abstract-dune-comic-awesome-borrow-awake-neutral-place
 bip_39_word_dash_12: panic-gadget-endorse-abstract-dune-comic-awesome-borrow-awake-neutral-place-always
 bip_39_word_dash_2: panic-gadget
 bip_39_word_dash_3: panic-gadget-endorse
-bip_39_word_dash_4: panic-gadget-endorse-abstract
-bip_39_word_dash_5: panic-gadget-endorse-abstract-dune
-bip_39_word_dash_6: panic-gadget-endorse-abstract-dune-comic
-bip_39_word_dash_7: panic-gadget-endorse-abstract-dune-comic-awesome
-bip_39_word_dash_8: panic-gadget-endorse-abstract-dune-comic-awesome-borrow
-bip_39_word_dash_9: panic-gadget-endorse-abstract-dune-comic-awesome-borrow-awake
-bip_39_word_new_br_1: panic
-bip_39_word_new_br_10: panic<br>gadget<br>endorse<br>abstract<br>dune<br>comic<br>awesome<br>borrow<br>awake<br>neutral
-bip_39_word_new_br_11: panic<br>gadget<br>endorse<br>abstract<br>dune<br>comic<br>awesome<br>borrow<br>awake<br>neutral<br>place
 bip_39_word_new_br_12: panic<br>gadget<br>endorse<br>abstract<br>dune<br>comic<br>awesome<br>borrow<br>awake<br>neutral<br>place<br>always
 bip_39_word_new_br_2: panic<br>gadget
 bip_39_word_new_br_3: panic<br>gadget<br>endorse
-bip_39_word_new_br_4: panic<br>gadget<br>endorse<br>abstract
-bip_39_word_new_br_5: panic<br>gadget<br>endorse<br>abstract<br>dune
-bip_39_word_new_br_6: panic<br>gadget<br>endorse<br>abstract<br>dune<br>comic
-bip_39_word_new_br_7: panic<br>gadget<br>endorse<br>abstract<br>dune<br>comic<br>awesome
-bip_39_word_new_br_8: panic<br>gadget<br>endorse<br>abstract<br>dune<br>comic<br>awesome<br>borrow
-bip_39_word_new_br_9: panic<br>gadget<br>endorse<br>abstract<br>dune<br>comic<br>awesome<br>borrow<br>awake
-bip_39_word_new_line_1: panic
-bip_39_word_new_line_10: 'panic
-
-  gadget
-
-  endorse
-
-  abstract
-
-  dune
-
-  comic
-
-  awesome
-
-  borrow
-
-  awake
-
-  neutral'
-bip_39_word_new_line_11: 'panic
-
-  gadget
-
-  endorse
-
-  abstract
-
-  dune
-
-  comic
-
-  awesome
-
-  borrow
-
-  awake
-
-  neutral
-
-  place'
 bip_39_word_new_line_12: 'panic
 
   gadget
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'panic
   gadget
 
   endorse'
-bip_39_word_new_line_4: 'panic
-
-  gadget
-
-  endorse
-
-  abstract'
-bip_39_word_new_line_5: 'panic
-
-  gadget
-
-  endorse
-
-  abstract
-
-  dune'
-bip_39_word_new_line_6: 'panic
-
-  gadget
-
-  endorse
-
-  abstract
-
-  dune
-
-  comic'
-bip_39_word_new_line_7: 'panic
-
-  gadget
-
-  endorse
-
-  abstract
-
-  dune
-
-  comic
-
-  awesome'
-bip_39_word_new_line_8: 'panic
-
-  gadget
-
-  endorse
-
-  abstract
-
-  dune
-
-  comic
-
-  awesome
-
-  borrow'
-bip_39_word_new_line_9: 'panic
-
-  gadget
-
-  endorse
-
-  abstract
-
-  dune
-
-  comic
-
-  awesome
-
-  borrow
-
-  awake'
-bip_39_word_no_space_1: panic
-bip_39_word_no_space_10: panicgadgetendorseabstractdunecomicawesomeborrowawakeneutral
-bip_39_word_no_space_11: panicgadgetendorseabstractdunecomicawesomeborrowawakeneutralplace
 bip_39_word_no_space_12: panicgadgetendorseabstractdunecomicawesomeborrowawakeneutralplacealways
 bip_39_word_no_space_2: panicgadget
 bip_39_word_no_space_3: panicgadgetendorse
-bip_39_word_no_space_4: panicgadgetendorseabstract
-bip_39_word_no_space_5: panicgadgetendorseabstractdune
-bip_39_word_no_space_6: panicgadgetendorseabstractdunecomic
-bip_39_word_no_space_7: panicgadgetendorseabstractdunecomicawesome
-bip_39_word_no_space_8: panicgadgetendorseabstractdunecomicawesomeborrow
-bip_39_word_no_space_9: panicgadgetendorseabstractdunecomicawesomeborrowawake
-bip_39_word_space_0:
-- panic
-- gadget
-- endorse
-- abstract
-- dune
-- comic
-- awesome
-- borrow
-- awake
-- neutral
-- place
-- always
-bip_39_word_space_1: panic
-bip_39_word_space_10: panic gadget endorse abstract dune comic awesome borrow awake
-  neutral
-bip_39_word_space_11: panic gadget endorse abstract dune comic awesome borrow awake
-  neutral place
 bip_39_word_space_12: panic gadget endorse abstract dune comic awesome borrow awake
   neutral place always
 bip_39_word_space_2: panic gadget
 bip_39_word_space_3: panic gadget endorse
-bip_39_word_space_4: panic gadget endorse abstract
-bip_39_word_space_5: panic gadget endorse abstract dune
-bip_39_word_space_6: panic gadget endorse abstract dune comic
-bip_39_word_space_7: panic gadget endorse abstract dune comic awesome
-bip_39_word_space_8: panic gadget endorse abstract dune comic awesome borrow
-bip_39_word_space_9: panic gadget endorse abstract dune comic awesome borrow awake
-bip_39_word_underscore_1: panic
-bip_39_word_underscore_10: panic_gadget_endorse_abstract_dune_comic_awesome_borrow_awake_neutral
-bip_39_word_underscore_11: panic_gadget_endorse_abstract_dune_comic_awesome_borrow_awake_neutral_place
 bip_39_word_underscore_12: panic_gadget_endorse_abstract_dune_comic_awesome_borrow_awake_neutral_place_always
 bip_39_word_underscore_2: panic_gadget
 bip_39_word_underscore_3: panic_gadget_endorse
-bip_39_word_underscore_4: panic_gadget_endorse_abstract
-bip_39_word_underscore_5: panic_gadget_endorse_abstract_dune
-bip_39_word_underscore_6: panic_gadget_endorse_abstract_dune_comic
-bip_39_word_underscore_7: panic_gadget_endorse_abstract_dune_comic_awesome
-bip_39_word_underscore_8: panic_gadget_endorse_abstract_dune_comic_awesome_borrow
-bip_39_word_underscore_9: panic_gadget_endorse_abstract_dune_comic_awesome_borrow_awake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

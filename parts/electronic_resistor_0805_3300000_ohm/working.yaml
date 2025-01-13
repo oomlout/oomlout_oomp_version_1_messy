@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exit
-bip_39_word_dash_10: exit-grain-patch-client-fat-cart-daring-work-inform-satoshi
-bip_39_word_dash_11: exit-grain-patch-client-fat-cart-daring-work-inform-satoshi-write
 bip_39_word_dash_12: exit-grain-patch-client-fat-cart-daring-work-inform-satoshi-write-adapt
 bip_39_word_dash_2: exit-grain
 bip_39_word_dash_3: exit-grain-patch
-bip_39_word_dash_4: exit-grain-patch-client
-bip_39_word_dash_5: exit-grain-patch-client-fat
-bip_39_word_dash_6: exit-grain-patch-client-fat-cart
-bip_39_word_dash_7: exit-grain-patch-client-fat-cart-daring
-bip_39_word_dash_8: exit-grain-patch-client-fat-cart-daring-work
-bip_39_word_dash_9: exit-grain-patch-client-fat-cart-daring-work-inform
-bip_39_word_new_br_1: exit
-bip_39_word_new_br_10: exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi
-bip_39_word_new_br_11: exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi<br>write
 bip_39_word_new_br_12: exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi<br>write<br>adapt
 bip_39_word_new_br_2: exit<br>grain
 bip_39_word_new_br_3: exit<br>grain<br>patch
-bip_39_word_new_br_4: exit<br>grain<br>patch<br>client
-bip_39_word_new_br_5: exit<br>grain<br>patch<br>client<br>fat
-bip_39_word_new_br_6: exit<br>grain<br>patch<br>client<br>fat<br>cart
-bip_39_word_new_br_7: exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring
-bip_39_word_new_br_8: exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work
-bip_39_word_new_br_9: exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform
-bip_39_word_new_line_1: exit
-bip_39_word_new_line_10: 'exit
-
-  grain
-
-  patch
-
-  client
-
-  fat
-
-  cart
-
-  daring
-
-  work
-
-  inform
-
-  satoshi'
-bip_39_word_new_line_11: 'exit
-
-  grain
-
-  patch
-
-  client
-
-  fat
-
-  cart
-
-  daring
-
-  work
-
-  inform
-
-  satoshi
-
-  write'
 bip_39_word_new_line_12: 'exit
 
   grain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'exit
   grain
 
   patch'
-bip_39_word_new_line_4: 'exit
-
-  grain
-
-  patch
-
-  client'
-bip_39_word_new_line_5: 'exit
-
-  grain
-
-  patch
-
-  client
-
-  fat'
-bip_39_word_new_line_6: 'exit
-
-  grain
-
-  patch
-
-  client
-
-  fat
-
-  cart'
-bip_39_word_new_line_7: 'exit
-
-  grain
-
-  patch
-
-  client
-
-  fat
-
-  cart
-
-  daring'
-bip_39_word_new_line_8: 'exit
-
-  grain
-
-  patch
-
-  client
-
-  fat
-
-  cart
-
-  daring
-
-  work'
-bip_39_word_new_line_9: 'exit
-
-  grain
-
-  patch
-
-  client
-
-  fat
-
-  cart
-
-  daring
-
-  work
-
-  inform'
-bip_39_word_no_space_1: exit
-bip_39_word_no_space_10: exitgrainpatchclientfatcartdaringworkinformsatoshi
-bip_39_word_no_space_11: exitgrainpatchclientfatcartdaringworkinformsatoshiwrite
 bip_39_word_no_space_12: exitgrainpatchclientfatcartdaringworkinformsatoshiwriteadapt
 bip_39_word_no_space_2: exitgrain
 bip_39_word_no_space_3: exitgrainpatch
-bip_39_word_no_space_4: exitgrainpatchclient
-bip_39_word_no_space_5: exitgrainpatchclientfat
-bip_39_word_no_space_6: exitgrainpatchclientfatcart
-bip_39_word_no_space_7: exitgrainpatchclientfatcartdaring
-bip_39_word_no_space_8: exitgrainpatchclientfatcartdaringwork
-bip_39_word_no_space_9: exitgrainpatchclientfatcartdaringworkinform
-bip_39_word_space_0:
-- exit
-- grain
-- patch
-- client
-- fat
-- cart
-- daring
-- work
-- inform
-- satoshi
-- write
-- adapt
-bip_39_word_space_1: exit
-bip_39_word_space_10: exit grain patch client fat cart daring work inform satoshi
-bip_39_word_space_11: exit grain patch client fat cart daring work inform satoshi
-  write
 bip_39_word_space_12: exit grain patch client fat cart daring work inform satoshi
   write adapt
 bip_39_word_space_2: exit grain
 bip_39_word_space_3: exit grain patch
-bip_39_word_space_4: exit grain patch client
-bip_39_word_space_5: exit grain patch client fat
-bip_39_word_space_6: exit grain patch client fat cart
-bip_39_word_space_7: exit grain patch client fat cart daring
-bip_39_word_space_8: exit grain patch client fat cart daring work
-bip_39_word_space_9: exit grain patch client fat cart daring work inform
-bip_39_word_underscore_1: exit
-bip_39_word_underscore_10: exit_grain_patch_client_fat_cart_daring_work_inform_satoshi
-bip_39_word_underscore_11: exit_grain_patch_client_fat_cart_daring_work_inform_satoshi_write
 bip_39_word_underscore_12: exit_grain_patch_client_fat_cart_daring_work_inform_satoshi_write_adapt
 bip_39_word_underscore_2: exit_grain
 bip_39_word_underscore_3: exit_grain_patch
-bip_39_word_underscore_4: exit_grain_patch_client
-bip_39_word_underscore_5: exit_grain_patch_client_fat
-bip_39_word_underscore_6: exit_grain_patch_client_fat_cart
-bip_39_word_underscore_7: exit_grain_patch_client_fat_cart_daring
-bip_39_word_underscore_8: exit_grain_patch_client_fat_cart_daring_work
-bip_39_word_underscore_9: exit_grain_patch_client_fat_cart_daring_work_inform
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

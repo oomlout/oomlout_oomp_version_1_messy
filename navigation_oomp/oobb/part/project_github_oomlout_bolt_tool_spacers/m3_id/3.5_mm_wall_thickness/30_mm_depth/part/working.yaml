@@ -1,68 +1,9 @@
-bip_39_word_dash_1: squirrel
-bip_39_word_dash_10: squirrel-air-walnut-surround-child-cruise-trap-trigger-century-capable
-bip_39_word_dash_11: squirrel-air-walnut-surround-child-cruise-trap-trigger-century-capable-oblige
 bip_39_word_dash_12: squirrel-air-walnut-surround-child-cruise-trap-trigger-century-capable-oblige-admit
 bip_39_word_dash_2: squirrel-air
 bip_39_word_dash_3: squirrel-air-walnut
-bip_39_word_dash_4: squirrel-air-walnut-surround
-bip_39_word_dash_5: squirrel-air-walnut-surround-child
-bip_39_word_dash_6: squirrel-air-walnut-surround-child-cruise
-bip_39_word_dash_7: squirrel-air-walnut-surround-child-cruise-trap
-bip_39_word_dash_8: squirrel-air-walnut-surround-child-cruise-trap-trigger
-bip_39_word_dash_9: squirrel-air-walnut-surround-child-cruise-trap-trigger-century
-bip_39_word_new_br_1: squirrel
-bip_39_word_new_br_10: squirrel<br>air<br>walnut<br>surround<br>child<br>cruise<br>trap<br>trigger<br>century<br>capable
-bip_39_word_new_br_11: squirrel<br>air<br>walnut<br>surround<br>child<br>cruise<br>trap<br>trigger<br>century<br>capable<br>oblige
 bip_39_word_new_br_12: squirrel<br>air<br>walnut<br>surround<br>child<br>cruise<br>trap<br>trigger<br>century<br>capable<br>oblige<br>admit
 bip_39_word_new_br_2: squirrel<br>air
 bip_39_word_new_br_3: squirrel<br>air<br>walnut
-bip_39_word_new_br_4: squirrel<br>air<br>walnut<br>surround
-bip_39_word_new_br_5: squirrel<br>air<br>walnut<br>surround<br>child
-bip_39_word_new_br_6: squirrel<br>air<br>walnut<br>surround<br>child<br>cruise
-bip_39_word_new_br_7: squirrel<br>air<br>walnut<br>surround<br>child<br>cruise<br>trap
-bip_39_word_new_br_8: squirrel<br>air<br>walnut<br>surround<br>child<br>cruise<br>trap<br>trigger
-bip_39_word_new_br_9: squirrel<br>air<br>walnut<br>surround<br>child<br>cruise<br>trap<br>trigger<br>century
-bip_39_word_new_line_1: squirrel
-bip_39_word_new_line_10: 'squirrel
-
-  air
-
-  walnut
-
-  surround
-
-  child
-
-  cruise
-
-  trap
-
-  trigger
-
-  century
-
-  capable'
-bip_39_word_new_line_11: 'squirrel
-
-  air
-
-  walnut
-
-  surround
-
-  child
-
-  cruise
-
-  trap
-
-  trigger
-
-  century
-
-  capable
-
-  oblige'
 bip_39_word_new_line_12: 'squirrel
 
   air
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'squirrel
   air
 
   walnut'
-bip_39_word_new_line_4: 'squirrel
-
-  air
-
-  walnut
-
-  surround'
-bip_39_word_new_line_5: 'squirrel
-
-  air
-
-  walnut
-
-  surround
-
-  child'
-bip_39_word_new_line_6: 'squirrel
-
-  air
-
-  walnut
-
-  surround
-
-  child
-
-  cruise'
-bip_39_word_new_line_7: 'squirrel
-
-  air
-
-  walnut
-
-  surround
-
-  child
-
-  cruise
-
-  trap'
-bip_39_word_new_line_8: 'squirrel
-
-  air
-
-  walnut
-
-  surround
-
-  child
-
-  cruise
-
-  trap
-
-  trigger'
-bip_39_word_new_line_9: 'squirrel
-
-  air
-
-  walnut
-
-  surround
-
-  child
-
-  cruise
-
-  trap
-
-  trigger
-
-  century'
-bip_39_word_no_space_1: squirrel
-bip_39_word_no_space_10: squirrelairwalnutsurroundchildcruisetraptriggercenturycapable
-bip_39_word_no_space_11: squirrelairwalnutsurroundchildcruisetraptriggercenturycapableoblige
 bip_39_word_no_space_12: squirrelairwalnutsurroundchildcruisetraptriggercenturycapableobligeadmit
 bip_39_word_no_space_2: squirrelair
 bip_39_word_no_space_3: squirrelairwalnut
-bip_39_word_no_space_4: squirrelairwalnutsurround
-bip_39_word_no_space_5: squirrelairwalnutsurroundchild
-bip_39_word_no_space_6: squirrelairwalnutsurroundchildcruise
-bip_39_word_no_space_7: squirrelairwalnutsurroundchildcruisetrap
-bip_39_word_no_space_8: squirrelairwalnutsurroundchildcruisetraptrigger
-bip_39_word_no_space_9: squirrelairwalnutsurroundchildcruisetraptriggercentury
-bip_39_word_space_0:
-- squirrel
-- air
-- walnut
-- surround
-- child
-- cruise
-- trap
-- trigger
-- century
-- capable
-- oblige
-- admit
-bip_39_word_space_1: squirrel
-bip_39_word_space_10: squirrel air walnut surround child cruise trap trigger century
-  capable
-bip_39_word_space_11: squirrel air walnut surround child cruise trap trigger century
-  capable oblige
 bip_39_word_space_12: squirrel air walnut surround child cruise trap trigger century
   capable oblige admit
 bip_39_word_space_2: squirrel air
 bip_39_word_space_3: squirrel air walnut
-bip_39_word_space_4: squirrel air walnut surround
-bip_39_word_space_5: squirrel air walnut surround child
-bip_39_word_space_6: squirrel air walnut surround child cruise
-bip_39_word_space_7: squirrel air walnut surround child cruise trap
-bip_39_word_space_8: squirrel air walnut surround child cruise trap trigger
-bip_39_word_space_9: squirrel air walnut surround child cruise trap trigger century
-bip_39_word_underscore_1: squirrel
-bip_39_word_underscore_10: squirrel_air_walnut_surround_child_cruise_trap_trigger_century_capable
-bip_39_word_underscore_11: squirrel_air_walnut_surround_child_cruise_trap_trigger_century_capable_oblige
 bip_39_word_underscore_12: squirrel_air_walnut_surround_child_cruise_trap_trigger_century_capable_oblige_admit
 bip_39_word_underscore_2: squirrel_air
 bip_39_word_underscore_3: squirrel_air_walnut
-bip_39_word_underscore_4: squirrel_air_walnut_surround
-bip_39_word_underscore_5: squirrel_air_walnut_surround_child
-bip_39_word_underscore_6: squirrel_air_walnut_surround_child_cruise
-bip_39_word_underscore_7: squirrel_air_walnut_surround_child_cruise_trap
-bip_39_word_underscore_8: squirrel_air_walnut_surround_child_cruise_trap_trigger
-bip_39_word_underscore_9: squirrel_air_walnut_surround_child_cruise_trap_trigger_century
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bench
-bip_39_word_dash_10: bench-island-simple-apology-theme-also-cheese-economy-faculty-palm
-bip_39_word_dash_11: bench-island-simple-apology-theme-also-cheese-economy-faculty-palm-child
 bip_39_word_dash_12: bench-island-simple-apology-theme-also-cheese-economy-faculty-palm-child-ancient
 bip_39_word_dash_2: bench-island
 bip_39_word_dash_3: bench-island-simple
-bip_39_word_dash_4: bench-island-simple-apology
-bip_39_word_dash_5: bench-island-simple-apology-theme
-bip_39_word_dash_6: bench-island-simple-apology-theme-also
-bip_39_word_dash_7: bench-island-simple-apology-theme-also-cheese
-bip_39_word_dash_8: bench-island-simple-apology-theme-also-cheese-economy
-bip_39_word_dash_9: bench-island-simple-apology-theme-also-cheese-economy-faculty
-bip_39_word_new_br_1: bench
-bip_39_word_new_br_10: bench<br>island<br>simple<br>apology<br>theme<br>also<br>cheese<br>economy<br>faculty<br>palm
-bip_39_word_new_br_11: bench<br>island<br>simple<br>apology<br>theme<br>also<br>cheese<br>economy<br>faculty<br>palm<br>child
 bip_39_word_new_br_12: bench<br>island<br>simple<br>apology<br>theme<br>also<br>cheese<br>economy<br>faculty<br>palm<br>child<br>ancient
 bip_39_word_new_br_2: bench<br>island
 bip_39_word_new_br_3: bench<br>island<br>simple
-bip_39_word_new_br_4: bench<br>island<br>simple<br>apology
-bip_39_word_new_br_5: bench<br>island<br>simple<br>apology<br>theme
-bip_39_word_new_br_6: bench<br>island<br>simple<br>apology<br>theme<br>also
-bip_39_word_new_br_7: bench<br>island<br>simple<br>apology<br>theme<br>also<br>cheese
-bip_39_word_new_br_8: bench<br>island<br>simple<br>apology<br>theme<br>also<br>cheese<br>economy
-bip_39_word_new_br_9: bench<br>island<br>simple<br>apology<br>theme<br>also<br>cheese<br>economy<br>faculty
-bip_39_word_new_line_1: bench
-bip_39_word_new_line_10: 'bench
-
-  island
-
-  simple
-
-  apology
-
-  theme
-
-  also
-
-  cheese
-
-  economy
-
-  faculty
-
-  palm'
-bip_39_word_new_line_11: 'bench
-
-  island
-
-  simple
-
-  apology
-
-  theme
-
-  also
-
-  cheese
-
-  economy
-
-  faculty
-
-  palm
-
-  child'
 bip_39_word_new_line_12: 'bench
 
   island
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bench
   island
 
   simple'
-bip_39_word_new_line_4: 'bench
-
-  island
-
-  simple
-
-  apology'
-bip_39_word_new_line_5: 'bench
-
-  island
-
-  simple
-
-  apology
-
-  theme'
-bip_39_word_new_line_6: 'bench
-
-  island
-
-  simple
-
-  apology
-
-  theme
-
-  also'
-bip_39_word_new_line_7: 'bench
-
-  island
-
-  simple
-
-  apology
-
-  theme
-
-  also
-
-  cheese'
-bip_39_word_new_line_8: 'bench
-
-  island
-
-  simple
-
-  apology
-
-  theme
-
-  also
-
-  cheese
-
-  economy'
-bip_39_word_new_line_9: 'bench
-
-  island
-
-  simple
-
-  apology
-
-  theme
-
-  also
-
-  cheese
-
-  economy
-
-  faculty'
-bip_39_word_no_space_1: bench
-bip_39_word_no_space_10: benchislandsimpleapologythemealsocheeseeconomyfacultypalm
-bip_39_word_no_space_11: benchislandsimpleapologythemealsocheeseeconomyfacultypalmchild
 bip_39_word_no_space_12: benchislandsimpleapologythemealsocheeseeconomyfacultypalmchildancient
 bip_39_word_no_space_2: benchisland
 bip_39_word_no_space_3: benchislandsimple
-bip_39_word_no_space_4: benchislandsimpleapology
-bip_39_word_no_space_5: benchislandsimpleapologytheme
-bip_39_word_no_space_6: benchislandsimpleapologythemealso
-bip_39_word_no_space_7: benchislandsimpleapologythemealsocheese
-bip_39_word_no_space_8: benchislandsimpleapologythemealsocheeseeconomy
-bip_39_word_no_space_9: benchislandsimpleapologythemealsocheeseeconomyfaculty
-bip_39_word_space_0:
-- bench
-- island
-- simple
-- apology
-- theme
-- also
-- cheese
-- economy
-- faculty
-- palm
-- child
-- ancient
-bip_39_word_space_1: bench
-bip_39_word_space_10: bench island simple apology theme also cheese economy faculty
-  palm
-bip_39_word_space_11: bench island simple apology theme also cheese economy faculty
-  palm child
 bip_39_word_space_12: bench island simple apology theme also cheese economy faculty
   palm child ancient
 bip_39_word_space_2: bench island
 bip_39_word_space_3: bench island simple
-bip_39_word_space_4: bench island simple apology
-bip_39_word_space_5: bench island simple apology theme
-bip_39_word_space_6: bench island simple apology theme also
-bip_39_word_space_7: bench island simple apology theme also cheese
-bip_39_word_space_8: bench island simple apology theme also cheese economy
-bip_39_word_space_9: bench island simple apology theme also cheese economy faculty
-bip_39_word_underscore_1: bench
-bip_39_word_underscore_10: bench_island_simple_apology_theme_also_cheese_economy_faculty_palm
-bip_39_word_underscore_11: bench_island_simple_apology_theme_also_cheese_economy_faculty_palm_child
 bip_39_word_underscore_12: bench_island_simple_apology_theme_also_cheese_economy_faculty_palm_child_ancient
 bip_39_word_underscore_2: bench_island
 bip_39_word_underscore_3: bench_island_simple
-bip_39_word_underscore_4: bench_island_simple_apology
-bip_39_word_underscore_5: bench_island_simple_apology_theme
-bip_39_word_underscore_6: bench_island_simple_apology_theme_also
-bip_39_word_underscore_7: bench_island_simple_apology_theme_also_cheese
-bip_39_word_underscore_8: bench_island_simple_apology_theme_also_cheese_economy
-bip_39_word_underscore_9: bench_island_simple_apology_theme_also_cheese_economy_faculty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

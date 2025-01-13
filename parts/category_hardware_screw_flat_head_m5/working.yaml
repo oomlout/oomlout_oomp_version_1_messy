@@ -1,68 +1,9 @@
-bip_39_word_dash_1: session
-bip_39_word_dash_10: session-pause-walk-crush-harvest-lizard-visa-accident-avoid-toy
-bip_39_word_dash_11: session-pause-walk-crush-harvest-lizard-visa-accident-avoid-toy-gadget
 bip_39_word_dash_12: session-pause-walk-crush-harvest-lizard-visa-accident-avoid-toy-gadget-artist
 bip_39_word_dash_2: session-pause
 bip_39_word_dash_3: session-pause-walk
-bip_39_word_dash_4: session-pause-walk-crush
-bip_39_word_dash_5: session-pause-walk-crush-harvest
-bip_39_word_dash_6: session-pause-walk-crush-harvest-lizard
-bip_39_word_dash_7: session-pause-walk-crush-harvest-lizard-visa
-bip_39_word_dash_8: session-pause-walk-crush-harvest-lizard-visa-accident
-bip_39_word_dash_9: session-pause-walk-crush-harvest-lizard-visa-accident-avoid
-bip_39_word_new_br_1: session
-bip_39_word_new_br_10: session<br>pause<br>walk<br>crush<br>harvest<br>lizard<br>visa<br>accident<br>avoid<br>toy
-bip_39_word_new_br_11: session<br>pause<br>walk<br>crush<br>harvest<br>lizard<br>visa<br>accident<br>avoid<br>toy<br>gadget
 bip_39_word_new_br_12: session<br>pause<br>walk<br>crush<br>harvest<br>lizard<br>visa<br>accident<br>avoid<br>toy<br>gadget<br>artist
 bip_39_word_new_br_2: session<br>pause
 bip_39_word_new_br_3: session<br>pause<br>walk
-bip_39_word_new_br_4: session<br>pause<br>walk<br>crush
-bip_39_word_new_br_5: session<br>pause<br>walk<br>crush<br>harvest
-bip_39_word_new_br_6: session<br>pause<br>walk<br>crush<br>harvest<br>lizard
-bip_39_word_new_br_7: session<br>pause<br>walk<br>crush<br>harvest<br>lizard<br>visa
-bip_39_word_new_br_8: session<br>pause<br>walk<br>crush<br>harvest<br>lizard<br>visa<br>accident
-bip_39_word_new_br_9: session<br>pause<br>walk<br>crush<br>harvest<br>lizard<br>visa<br>accident<br>avoid
-bip_39_word_new_line_1: session
-bip_39_word_new_line_10: 'session
-
-  pause
-
-  walk
-
-  crush
-
-  harvest
-
-  lizard
-
-  visa
-
-  accident
-
-  avoid
-
-  toy'
-bip_39_word_new_line_11: 'session
-
-  pause
-
-  walk
-
-  crush
-
-  harvest
-
-  lizard
-
-  visa
-
-  accident
-
-  avoid
-
-  toy
-
-  gadget'
 bip_39_word_new_line_12: 'session
 
   pause
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'session
   pause
 
   walk'
-bip_39_word_new_line_4: 'session
-
-  pause
-
-  walk
-
-  crush'
-bip_39_word_new_line_5: 'session
-
-  pause
-
-  walk
-
-  crush
-
-  harvest'
-bip_39_word_new_line_6: 'session
-
-  pause
-
-  walk
-
-  crush
-
-  harvest
-
-  lizard'
-bip_39_word_new_line_7: 'session
-
-  pause
-
-  walk
-
-  crush
-
-  harvest
-
-  lizard
-
-  visa'
-bip_39_word_new_line_8: 'session
-
-  pause
-
-  walk
-
-  crush
-
-  harvest
-
-  lizard
-
-  visa
-
-  accident'
-bip_39_word_new_line_9: 'session
-
-  pause
-
-  walk
-
-  crush
-
-  harvest
-
-  lizard
-
-  visa
-
-  accident
-
-  avoid'
-bip_39_word_no_space_1: session
-bip_39_word_no_space_10: sessionpausewalkcrushharvestlizardvisaaccidentavoidtoy
-bip_39_word_no_space_11: sessionpausewalkcrushharvestlizardvisaaccidentavoidtoygadget
 bip_39_word_no_space_12: sessionpausewalkcrushharvestlizardvisaaccidentavoidtoygadgetartist
 bip_39_word_no_space_2: sessionpause
 bip_39_word_no_space_3: sessionpausewalk
-bip_39_word_no_space_4: sessionpausewalkcrush
-bip_39_word_no_space_5: sessionpausewalkcrushharvest
-bip_39_word_no_space_6: sessionpausewalkcrushharvestlizard
-bip_39_word_no_space_7: sessionpausewalkcrushharvestlizardvisa
-bip_39_word_no_space_8: sessionpausewalkcrushharvestlizardvisaaccident
-bip_39_word_no_space_9: sessionpausewalkcrushharvestlizardvisaaccidentavoid
-bip_39_word_space_0:
-- session
-- pause
-- walk
-- crush
-- harvest
-- lizard
-- visa
-- accident
-- avoid
-- toy
-- gadget
-- artist
-bip_39_word_space_1: session
-bip_39_word_space_10: session pause walk crush harvest lizard visa accident avoid
-  toy
-bip_39_word_space_11: session pause walk crush harvest lizard visa accident avoid
-  toy gadget
 bip_39_word_space_12: session pause walk crush harvest lizard visa accident avoid
   toy gadget artist
 bip_39_word_space_2: session pause
 bip_39_word_space_3: session pause walk
-bip_39_word_space_4: session pause walk crush
-bip_39_word_space_5: session pause walk crush harvest
-bip_39_word_space_6: session pause walk crush harvest lizard
-bip_39_word_space_7: session pause walk crush harvest lizard visa
-bip_39_word_space_8: session pause walk crush harvest lizard visa accident
-bip_39_word_space_9: session pause walk crush harvest lizard visa accident avoid
-bip_39_word_underscore_1: session
-bip_39_word_underscore_10: session_pause_walk_crush_harvest_lizard_visa_accident_avoid_toy
-bip_39_word_underscore_11: session_pause_walk_crush_harvest_lizard_visa_accident_avoid_toy_gadget
 bip_39_word_underscore_12: session_pause_walk_crush_harvest_lizard_visa_accident_avoid_toy_gadget_artist
 bip_39_word_underscore_2: session_pause
 bip_39_word_underscore_3: session_pause_walk
-bip_39_word_underscore_4: session_pause_walk_crush
-bip_39_word_underscore_5: session_pause_walk_crush_harvest
-bip_39_word_underscore_6: session_pause_walk_crush_harvest_lizard
-bip_39_word_underscore_7: session_pause_walk_crush_harvest_lizard_visa
-bip_39_word_underscore_8: session_pause_walk_crush_harvest_lizard_visa_accident
-bip_39_word_underscore_9: session_pause_walk_crush_harvest_lizard_visa_accident_avoid
 classification: category
 classification_capital: Category
 classification_first_letter: c

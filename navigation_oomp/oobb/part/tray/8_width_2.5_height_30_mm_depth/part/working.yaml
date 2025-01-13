@@ -1,68 +1,9 @@
-bip_39_word_dash_1: script
-bip_39_word_dash_10: script-aspect-spend-main-gun-paddle-soup-urge-crowd-elder
-bip_39_word_dash_11: script-aspect-spend-main-gun-paddle-soup-urge-crowd-elder-crater
 bip_39_word_dash_12: script-aspect-spend-main-gun-paddle-soup-urge-crowd-elder-crater-attract
 bip_39_word_dash_2: script-aspect
 bip_39_word_dash_3: script-aspect-spend
-bip_39_word_dash_4: script-aspect-spend-main
-bip_39_word_dash_5: script-aspect-spend-main-gun
-bip_39_word_dash_6: script-aspect-spend-main-gun-paddle
-bip_39_word_dash_7: script-aspect-spend-main-gun-paddle-soup
-bip_39_word_dash_8: script-aspect-spend-main-gun-paddle-soup-urge
-bip_39_word_dash_9: script-aspect-spend-main-gun-paddle-soup-urge-crowd
-bip_39_word_new_br_1: script
-bip_39_word_new_br_10: script<br>aspect<br>spend<br>main<br>gun<br>paddle<br>soup<br>urge<br>crowd<br>elder
-bip_39_word_new_br_11: script<br>aspect<br>spend<br>main<br>gun<br>paddle<br>soup<br>urge<br>crowd<br>elder<br>crater
 bip_39_word_new_br_12: script<br>aspect<br>spend<br>main<br>gun<br>paddle<br>soup<br>urge<br>crowd<br>elder<br>crater<br>attract
 bip_39_word_new_br_2: script<br>aspect
 bip_39_word_new_br_3: script<br>aspect<br>spend
-bip_39_word_new_br_4: script<br>aspect<br>spend<br>main
-bip_39_word_new_br_5: script<br>aspect<br>spend<br>main<br>gun
-bip_39_word_new_br_6: script<br>aspect<br>spend<br>main<br>gun<br>paddle
-bip_39_word_new_br_7: script<br>aspect<br>spend<br>main<br>gun<br>paddle<br>soup
-bip_39_word_new_br_8: script<br>aspect<br>spend<br>main<br>gun<br>paddle<br>soup<br>urge
-bip_39_word_new_br_9: script<br>aspect<br>spend<br>main<br>gun<br>paddle<br>soup<br>urge<br>crowd
-bip_39_word_new_line_1: script
-bip_39_word_new_line_10: 'script
-
-  aspect
-
-  spend
-
-  main
-
-  gun
-
-  paddle
-
-  soup
-
-  urge
-
-  crowd
-
-  elder'
-bip_39_word_new_line_11: 'script
-
-  aspect
-
-  spend
-
-  main
-
-  gun
-
-  paddle
-
-  soup
-
-  urge
-
-  crowd
-
-  elder
-
-  crater'
 bip_39_word_new_line_12: 'script
 
   aspect
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'script
   aspect
 
   spend'
-bip_39_word_new_line_4: 'script
-
-  aspect
-
-  spend
-
-  main'
-bip_39_word_new_line_5: 'script
-
-  aspect
-
-  spend
-
-  main
-
-  gun'
-bip_39_word_new_line_6: 'script
-
-  aspect
-
-  spend
-
-  main
-
-  gun
-
-  paddle'
-bip_39_word_new_line_7: 'script
-
-  aspect
-
-  spend
-
-  main
-
-  gun
-
-  paddle
-
-  soup'
-bip_39_word_new_line_8: 'script
-
-  aspect
-
-  spend
-
-  main
-
-  gun
-
-  paddle
-
-  soup
-
-  urge'
-bip_39_word_new_line_9: 'script
-
-  aspect
-
-  spend
-
-  main
-
-  gun
-
-  paddle
-
-  soup
-
-  urge
-
-  crowd'
-bip_39_word_no_space_1: script
-bip_39_word_no_space_10: scriptaspectspendmaingunpaddlesoupurgecrowdelder
-bip_39_word_no_space_11: scriptaspectspendmaingunpaddlesoupurgecrowdeldercrater
 bip_39_word_no_space_12: scriptaspectspendmaingunpaddlesoupurgecrowdeldercraterattract
 bip_39_word_no_space_2: scriptaspect
 bip_39_word_no_space_3: scriptaspectspend
-bip_39_word_no_space_4: scriptaspectspendmain
-bip_39_word_no_space_5: scriptaspectspendmaingun
-bip_39_word_no_space_6: scriptaspectspendmaingunpaddle
-bip_39_word_no_space_7: scriptaspectspendmaingunpaddlesoup
-bip_39_word_no_space_8: scriptaspectspendmaingunpaddlesoupurge
-bip_39_word_no_space_9: scriptaspectspendmaingunpaddlesoupurgecrowd
-bip_39_word_space_0:
-- script
-- aspect
-- spend
-- main
-- gun
-- paddle
-- soup
-- urge
-- crowd
-- elder
-- crater
-- attract
-bip_39_word_space_1: script
-bip_39_word_space_10: script aspect spend main gun paddle soup urge crowd elder
-bip_39_word_space_11: script aspect spend main gun paddle soup urge crowd elder crater
 bip_39_word_space_12: script aspect spend main gun paddle soup urge crowd elder crater
   attract
 bip_39_word_space_2: script aspect
 bip_39_word_space_3: script aspect spend
-bip_39_word_space_4: script aspect spend main
-bip_39_word_space_5: script aspect spend main gun
-bip_39_word_space_6: script aspect spend main gun paddle
-bip_39_word_space_7: script aspect spend main gun paddle soup
-bip_39_word_space_8: script aspect spend main gun paddle soup urge
-bip_39_word_space_9: script aspect spend main gun paddle soup urge crowd
-bip_39_word_underscore_1: script
-bip_39_word_underscore_10: script_aspect_spend_main_gun_paddle_soup_urge_crowd_elder
-bip_39_word_underscore_11: script_aspect_spend_main_gun_paddle_soup_urge_crowd_elder_crater
 bip_39_word_underscore_12: script_aspect_spend_main_gun_paddle_soup_urge_crowd_elder_crater_attract
 bip_39_word_underscore_2: script_aspect
 bip_39_word_underscore_3: script_aspect_spend
-bip_39_word_underscore_4: script_aspect_spend_main
-bip_39_word_underscore_5: script_aspect_spend_main_gun
-bip_39_word_underscore_6: script_aspect_spend_main_gun_paddle
-bip_39_word_underscore_7: script_aspect_spend_main_gun_paddle_soup
-bip_39_word_underscore_8: script_aspect_spend_main_gun_paddle_soup_urge
-bip_39_word_underscore_9: script_aspect_spend_main_gun_paddle_soup_urge_crowd
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

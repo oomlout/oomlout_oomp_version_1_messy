@@ -1,68 +1,9 @@
-bip_39_word_dash_1: actor
-bip_39_word_dash_10: actor-kid-bomb-stay-moment-traffic-staff-double-leader-session
-bip_39_word_dash_11: actor-kid-bomb-stay-moment-traffic-staff-double-leader-session-book
 bip_39_word_dash_12: actor-kid-bomb-stay-moment-traffic-staff-double-leader-session-book-acoustic
 bip_39_word_dash_2: actor-kid
 bip_39_word_dash_3: actor-kid-bomb
-bip_39_word_dash_4: actor-kid-bomb-stay
-bip_39_word_dash_5: actor-kid-bomb-stay-moment
-bip_39_word_dash_6: actor-kid-bomb-stay-moment-traffic
-bip_39_word_dash_7: actor-kid-bomb-stay-moment-traffic-staff
-bip_39_word_dash_8: actor-kid-bomb-stay-moment-traffic-staff-double
-bip_39_word_dash_9: actor-kid-bomb-stay-moment-traffic-staff-double-leader
-bip_39_word_new_br_1: actor
-bip_39_word_new_br_10: actor<br>kid<br>bomb<br>stay<br>moment<br>traffic<br>staff<br>double<br>leader<br>session
-bip_39_word_new_br_11: actor<br>kid<br>bomb<br>stay<br>moment<br>traffic<br>staff<br>double<br>leader<br>session<br>book
 bip_39_word_new_br_12: actor<br>kid<br>bomb<br>stay<br>moment<br>traffic<br>staff<br>double<br>leader<br>session<br>book<br>acoustic
 bip_39_word_new_br_2: actor<br>kid
 bip_39_word_new_br_3: actor<br>kid<br>bomb
-bip_39_word_new_br_4: actor<br>kid<br>bomb<br>stay
-bip_39_word_new_br_5: actor<br>kid<br>bomb<br>stay<br>moment
-bip_39_word_new_br_6: actor<br>kid<br>bomb<br>stay<br>moment<br>traffic
-bip_39_word_new_br_7: actor<br>kid<br>bomb<br>stay<br>moment<br>traffic<br>staff
-bip_39_word_new_br_8: actor<br>kid<br>bomb<br>stay<br>moment<br>traffic<br>staff<br>double
-bip_39_word_new_br_9: actor<br>kid<br>bomb<br>stay<br>moment<br>traffic<br>staff<br>double<br>leader
-bip_39_word_new_line_1: actor
-bip_39_word_new_line_10: 'actor
-
-  kid
-
-  bomb
-
-  stay
-
-  moment
-
-  traffic
-
-  staff
-
-  double
-
-  leader
-
-  session'
-bip_39_word_new_line_11: 'actor
-
-  kid
-
-  bomb
-
-  stay
-
-  moment
-
-  traffic
-
-  staff
-
-  double
-
-  leader
-
-  session
-
-  book'
 bip_39_word_new_line_12: 'actor
 
   kid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'actor
   kid
 
   bomb'
-bip_39_word_new_line_4: 'actor
-
-  kid
-
-  bomb
-
-  stay'
-bip_39_word_new_line_5: 'actor
-
-  kid
-
-  bomb
-
-  stay
-
-  moment'
-bip_39_word_new_line_6: 'actor
-
-  kid
-
-  bomb
-
-  stay
-
-  moment
-
-  traffic'
-bip_39_word_new_line_7: 'actor
-
-  kid
-
-  bomb
-
-  stay
-
-  moment
-
-  traffic
-
-  staff'
-bip_39_word_new_line_8: 'actor
-
-  kid
-
-  bomb
-
-  stay
-
-  moment
-
-  traffic
-
-  staff
-
-  double'
-bip_39_word_new_line_9: 'actor
-
-  kid
-
-  bomb
-
-  stay
-
-  moment
-
-  traffic
-
-  staff
-
-  double
-
-  leader'
-bip_39_word_no_space_1: actor
-bip_39_word_no_space_10: actorkidbombstaymomenttrafficstaffdoubleleadersession
-bip_39_word_no_space_11: actorkidbombstaymomenttrafficstaffdoubleleadersessionbook
 bip_39_word_no_space_12: actorkidbombstaymomenttrafficstaffdoubleleadersessionbookacoustic
 bip_39_word_no_space_2: actorkid
 bip_39_word_no_space_3: actorkidbomb
-bip_39_word_no_space_4: actorkidbombstay
-bip_39_word_no_space_5: actorkidbombstaymoment
-bip_39_word_no_space_6: actorkidbombstaymomenttraffic
-bip_39_word_no_space_7: actorkidbombstaymomenttrafficstaff
-bip_39_word_no_space_8: actorkidbombstaymomenttrafficstaffdouble
-bip_39_word_no_space_9: actorkidbombstaymomenttrafficstaffdoubleleader
-bip_39_word_space_0:
-- actor
-- kid
-- bomb
-- stay
-- moment
-- traffic
-- staff
-- double
-- leader
-- session
-- book
-- acoustic
-bip_39_word_space_1: actor
-bip_39_word_space_10: actor kid bomb stay moment traffic staff double leader session
-bip_39_word_space_11: actor kid bomb stay moment traffic staff double leader session
-  book
 bip_39_word_space_12: actor kid bomb stay moment traffic staff double leader session
   book acoustic
 bip_39_word_space_2: actor kid
 bip_39_word_space_3: actor kid bomb
-bip_39_word_space_4: actor kid bomb stay
-bip_39_word_space_5: actor kid bomb stay moment
-bip_39_word_space_6: actor kid bomb stay moment traffic
-bip_39_word_space_7: actor kid bomb stay moment traffic staff
-bip_39_word_space_8: actor kid bomb stay moment traffic staff double
-bip_39_word_space_9: actor kid bomb stay moment traffic staff double leader
-bip_39_word_underscore_1: actor
-bip_39_word_underscore_10: actor_kid_bomb_stay_moment_traffic_staff_double_leader_session
-bip_39_word_underscore_11: actor_kid_bomb_stay_moment_traffic_staff_double_leader_session_book
 bip_39_word_underscore_12: actor_kid_bomb_stay_moment_traffic_staff_double_leader_session_book_acoustic
 bip_39_word_underscore_2: actor_kid
 bip_39_word_underscore_3: actor_kid_bomb
-bip_39_word_underscore_4: actor_kid_bomb_stay
-bip_39_word_underscore_5: actor_kid_bomb_stay_moment
-bip_39_word_underscore_6: actor_kid_bomb_stay_moment_traffic
-bip_39_word_underscore_7: actor_kid_bomb_stay_moment_traffic_staff
-bip_39_word_underscore_8: actor_kid_bomb_stay_moment_traffic_staff_double
-bip_39_word_underscore_9: actor_kid_bomb_stay_moment_traffic_staff_double_leader
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

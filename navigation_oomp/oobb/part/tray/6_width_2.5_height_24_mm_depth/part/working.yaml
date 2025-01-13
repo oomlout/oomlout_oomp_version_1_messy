@@ -1,68 +1,9 @@
-bip_39_word_dash_1: salute
-bip_39_word_dash_10: salute-buyer-advance-pledge-close-embrace-slender-prefer-wrist-digital
-bip_39_word_dash_11: salute-buyer-advance-pledge-close-embrace-slender-prefer-wrist-digital-breeze
 bip_39_word_dash_12: salute-buyer-advance-pledge-close-embrace-slender-prefer-wrist-digital-breeze-account
 bip_39_word_dash_2: salute-buyer
 bip_39_word_dash_3: salute-buyer-advance
-bip_39_word_dash_4: salute-buyer-advance-pledge
-bip_39_word_dash_5: salute-buyer-advance-pledge-close
-bip_39_word_dash_6: salute-buyer-advance-pledge-close-embrace
-bip_39_word_dash_7: salute-buyer-advance-pledge-close-embrace-slender
-bip_39_word_dash_8: salute-buyer-advance-pledge-close-embrace-slender-prefer
-bip_39_word_dash_9: salute-buyer-advance-pledge-close-embrace-slender-prefer-wrist
-bip_39_word_new_br_1: salute
-bip_39_word_new_br_10: salute<br>buyer<br>advance<br>pledge<br>close<br>embrace<br>slender<br>prefer<br>wrist<br>digital
-bip_39_word_new_br_11: salute<br>buyer<br>advance<br>pledge<br>close<br>embrace<br>slender<br>prefer<br>wrist<br>digital<br>breeze
 bip_39_word_new_br_12: salute<br>buyer<br>advance<br>pledge<br>close<br>embrace<br>slender<br>prefer<br>wrist<br>digital<br>breeze<br>account
 bip_39_word_new_br_2: salute<br>buyer
 bip_39_word_new_br_3: salute<br>buyer<br>advance
-bip_39_word_new_br_4: salute<br>buyer<br>advance<br>pledge
-bip_39_word_new_br_5: salute<br>buyer<br>advance<br>pledge<br>close
-bip_39_word_new_br_6: salute<br>buyer<br>advance<br>pledge<br>close<br>embrace
-bip_39_word_new_br_7: salute<br>buyer<br>advance<br>pledge<br>close<br>embrace<br>slender
-bip_39_word_new_br_8: salute<br>buyer<br>advance<br>pledge<br>close<br>embrace<br>slender<br>prefer
-bip_39_word_new_br_9: salute<br>buyer<br>advance<br>pledge<br>close<br>embrace<br>slender<br>prefer<br>wrist
-bip_39_word_new_line_1: salute
-bip_39_word_new_line_10: 'salute
-
-  buyer
-
-  advance
-
-  pledge
-
-  close
-
-  embrace
-
-  slender
-
-  prefer
-
-  wrist
-
-  digital'
-bip_39_word_new_line_11: 'salute
-
-  buyer
-
-  advance
-
-  pledge
-
-  close
-
-  embrace
-
-  slender
-
-  prefer
-
-  wrist
-
-  digital
-
-  breeze'
 bip_39_word_new_line_12: 'salute
 
   buyer
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'salute
   buyer
 
   advance'
-bip_39_word_new_line_4: 'salute
-
-  buyer
-
-  advance
-
-  pledge'
-bip_39_word_new_line_5: 'salute
-
-  buyer
-
-  advance
-
-  pledge
-
-  close'
-bip_39_word_new_line_6: 'salute
-
-  buyer
-
-  advance
-
-  pledge
-
-  close
-
-  embrace'
-bip_39_word_new_line_7: 'salute
-
-  buyer
-
-  advance
-
-  pledge
-
-  close
-
-  embrace
-
-  slender'
-bip_39_word_new_line_8: 'salute
-
-  buyer
-
-  advance
-
-  pledge
-
-  close
-
-  embrace
-
-  slender
-
-  prefer'
-bip_39_word_new_line_9: 'salute
-
-  buyer
-
-  advance
-
-  pledge
-
-  close
-
-  embrace
-
-  slender
-
-  prefer
-
-  wrist'
-bip_39_word_no_space_1: salute
-bip_39_word_no_space_10: salutebuyeradvancepledgecloseembraceslenderpreferwristdigital
-bip_39_word_no_space_11: salutebuyeradvancepledgecloseembraceslenderpreferwristdigitalbreeze
 bip_39_word_no_space_12: salutebuyeradvancepledgecloseembraceslenderpreferwristdigitalbreezeaccount
 bip_39_word_no_space_2: salutebuyer
 bip_39_word_no_space_3: salutebuyeradvance
-bip_39_word_no_space_4: salutebuyeradvancepledge
-bip_39_word_no_space_5: salutebuyeradvancepledgeclose
-bip_39_word_no_space_6: salutebuyeradvancepledgecloseembrace
-bip_39_word_no_space_7: salutebuyeradvancepledgecloseembraceslender
-bip_39_word_no_space_8: salutebuyeradvancepledgecloseembraceslenderprefer
-bip_39_word_no_space_9: salutebuyeradvancepledgecloseembraceslenderpreferwrist
-bip_39_word_space_0:
-- salute
-- buyer
-- advance
-- pledge
-- close
-- embrace
-- slender
-- prefer
-- wrist
-- digital
-- breeze
-- account
-bip_39_word_space_1: salute
-bip_39_word_space_10: salute buyer advance pledge close embrace slender prefer wrist
-  digital
-bip_39_word_space_11: salute buyer advance pledge close embrace slender prefer wrist
-  digital breeze
 bip_39_word_space_12: salute buyer advance pledge close embrace slender prefer wrist
   digital breeze account
 bip_39_word_space_2: salute buyer
 bip_39_word_space_3: salute buyer advance
-bip_39_word_space_4: salute buyer advance pledge
-bip_39_word_space_5: salute buyer advance pledge close
-bip_39_word_space_6: salute buyer advance pledge close embrace
-bip_39_word_space_7: salute buyer advance pledge close embrace slender
-bip_39_word_space_8: salute buyer advance pledge close embrace slender prefer
-bip_39_word_space_9: salute buyer advance pledge close embrace slender prefer wrist
-bip_39_word_underscore_1: salute
-bip_39_word_underscore_10: salute_buyer_advance_pledge_close_embrace_slender_prefer_wrist_digital
-bip_39_word_underscore_11: salute_buyer_advance_pledge_close_embrace_slender_prefer_wrist_digital_breeze
 bip_39_word_underscore_12: salute_buyer_advance_pledge_close_embrace_slender_prefer_wrist_digital_breeze_account
 bip_39_word_underscore_2: salute_buyer
 bip_39_word_underscore_3: salute_buyer_advance
-bip_39_word_underscore_4: salute_buyer_advance_pledge
-bip_39_word_underscore_5: salute_buyer_advance_pledge_close
-bip_39_word_underscore_6: salute_buyer_advance_pledge_close_embrace
-bip_39_word_underscore_7: salute_buyer_advance_pledge_close_embrace_slender
-bip_39_word_underscore_8: salute_buyer_advance_pledge_close_embrace_slender_prefer
-bip_39_word_underscore_9: salute_buyer_advance_pledge_close_embrace_slender_prefer_wrist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

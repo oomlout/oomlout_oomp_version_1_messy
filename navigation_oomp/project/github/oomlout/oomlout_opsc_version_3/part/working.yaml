@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phrase
-bip_39_word_dash_10: phrase-pattern-uphold-script-picnic-burger-whisper-jewel-depart-better
-bip_39_word_dash_11: phrase-pattern-uphold-script-picnic-burger-whisper-jewel-depart-better-empty
 bip_39_word_dash_12: phrase-pattern-uphold-script-picnic-burger-whisper-jewel-depart-better-empty-anchor
 bip_39_word_dash_2: phrase-pattern
 bip_39_word_dash_3: phrase-pattern-uphold
-bip_39_word_dash_4: phrase-pattern-uphold-script
-bip_39_word_dash_5: phrase-pattern-uphold-script-picnic
-bip_39_word_dash_6: phrase-pattern-uphold-script-picnic-burger
-bip_39_word_dash_7: phrase-pattern-uphold-script-picnic-burger-whisper
-bip_39_word_dash_8: phrase-pattern-uphold-script-picnic-burger-whisper-jewel
-bip_39_word_dash_9: phrase-pattern-uphold-script-picnic-burger-whisper-jewel-depart
-bip_39_word_new_br_1: phrase
-bip_39_word_new_br_10: phrase<br>pattern<br>uphold<br>script<br>picnic<br>burger<br>whisper<br>jewel<br>depart<br>better
-bip_39_word_new_br_11: phrase<br>pattern<br>uphold<br>script<br>picnic<br>burger<br>whisper<br>jewel<br>depart<br>better<br>empty
 bip_39_word_new_br_12: phrase<br>pattern<br>uphold<br>script<br>picnic<br>burger<br>whisper<br>jewel<br>depart<br>better<br>empty<br>anchor
 bip_39_word_new_br_2: phrase<br>pattern
 bip_39_word_new_br_3: phrase<br>pattern<br>uphold
-bip_39_word_new_br_4: phrase<br>pattern<br>uphold<br>script
-bip_39_word_new_br_5: phrase<br>pattern<br>uphold<br>script<br>picnic
-bip_39_word_new_br_6: phrase<br>pattern<br>uphold<br>script<br>picnic<br>burger
-bip_39_word_new_br_7: phrase<br>pattern<br>uphold<br>script<br>picnic<br>burger<br>whisper
-bip_39_word_new_br_8: phrase<br>pattern<br>uphold<br>script<br>picnic<br>burger<br>whisper<br>jewel
-bip_39_word_new_br_9: phrase<br>pattern<br>uphold<br>script<br>picnic<br>burger<br>whisper<br>jewel<br>depart
-bip_39_word_new_line_1: phrase
-bip_39_word_new_line_10: 'phrase
-
-  pattern
-
-  uphold
-
-  script
-
-  picnic
-
-  burger
-
-  whisper
-
-  jewel
-
-  depart
-
-  better'
-bip_39_word_new_line_11: 'phrase
-
-  pattern
-
-  uphold
-
-  script
-
-  picnic
-
-  burger
-
-  whisper
-
-  jewel
-
-  depart
-
-  better
-
-  empty'
 bip_39_word_new_line_12: 'phrase
 
   pattern
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'phrase
   pattern
 
   uphold'
-bip_39_word_new_line_4: 'phrase
-
-  pattern
-
-  uphold
-
-  script'
-bip_39_word_new_line_5: 'phrase
-
-  pattern
-
-  uphold
-
-  script
-
-  picnic'
-bip_39_word_new_line_6: 'phrase
-
-  pattern
-
-  uphold
-
-  script
-
-  picnic
-
-  burger'
-bip_39_word_new_line_7: 'phrase
-
-  pattern
-
-  uphold
-
-  script
-
-  picnic
-
-  burger
-
-  whisper'
-bip_39_word_new_line_8: 'phrase
-
-  pattern
-
-  uphold
-
-  script
-
-  picnic
-
-  burger
-
-  whisper
-
-  jewel'
-bip_39_word_new_line_9: 'phrase
-
-  pattern
-
-  uphold
-
-  script
-
-  picnic
-
-  burger
-
-  whisper
-
-  jewel
-
-  depart'
-bip_39_word_no_space_1: phrase
-bip_39_word_no_space_10: phrasepatternupholdscriptpicnicburgerwhisperjeweldepartbetter
-bip_39_word_no_space_11: phrasepatternupholdscriptpicnicburgerwhisperjeweldepartbetterempty
 bip_39_word_no_space_12: phrasepatternupholdscriptpicnicburgerwhisperjeweldepartbetteremptyanchor
 bip_39_word_no_space_2: phrasepattern
 bip_39_word_no_space_3: phrasepatternuphold
-bip_39_word_no_space_4: phrasepatternupholdscript
-bip_39_word_no_space_5: phrasepatternupholdscriptpicnic
-bip_39_word_no_space_6: phrasepatternupholdscriptpicnicburger
-bip_39_word_no_space_7: phrasepatternupholdscriptpicnicburgerwhisper
-bip_39_word_no_space_8: phrasepatternupholdscriptpicnicburgerwhisperjewel
-bip_39_word_no_space_9: phrasepatternupholdscriptpicnicburgerwhisperjeweldepart
-bip_39_word_space_0:
-- phrase
-- pattern
-- uphold
-- script
-- picnic
-- burger
-- whisper
-- jewel
-- depart
-- better
-- empty
-- anchor
-bip_39_word_space_1: phrase
-bip_39_word_space_10: phrase pattern uphold script picnic burger whisper jewel depart
-  better
-bip_39_word_space_11: phrase pattern uphold script picnic burger whisper jewel depart
-  better empty
 bip_39_word_space_12: phrase pattern uphold script picnic burger whisper jewel depart
   better empty anchor
 bip_39_word_space_2: phrase pattern
 bip_39_word_space_3: phrase pattern uphold
-bip_39_word_space_4: phrase pattern uphold script
-bip_39_word_space_5: phrase pattern uphold script picnic
-bip_39_word_space_6: phrase pattern uphold script picnic burger
-bip_39_word_space_7: phrase pattern uphold script picnic burger whisper
-bip_39_word_space_8: phrase pattern uphold script picnic burger whisper jewel
-bip_39_word_space_9: phrase pattern uphold script picnic burger whisper jewel depart
-bip_39_word_underscore_1: phrase
-bip_39_word_underscore_10: phrase_pattern_uphold_script_picnic_burger_whisper_jewel_depart_better
-bip_39_word_underscore_11: phrase_pattern_uphold_script_picnic_burger_whisper_jewel_depart_better_empty
 bip_39_word_underscore_12: phrase_pattern_uphold_script_picnic_burger_whisper_jewel_depart_better_empty_anchor
 bip_39_word_underscore_2: phrase_pattern
 bip_39_word_underscore_3: phrase_pattern_uphold
-bip_39_word_underscore_4: phrase_pattern_uphold_script
-bip_39_word_underscore_5: phrase_pattern_uphold_script_picnic
-bip_39_word_underscore_6: phrase_pattern_uphold_script_picnic_burger
-bip_39_word_underscore_7: phrase_pattern_uphold_script_picnic_burger_whisper
-bip_39_word_underscore_8: phrase_pattern_uphold_script_picnic_burger_whisper_jewel
-bip_39_word_underscore_9: phrase_pattern_uphold_script_picnic_burger_whisper_jewel_depart
 classification: project
 classification_capital: Project
 classification_first_letter: p

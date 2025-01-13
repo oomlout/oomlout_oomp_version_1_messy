@@ -1,68 +1,9 @@
-bip_39_word_dash_1: smoke
-bip_39_word_dash_10: smoke-amateur-animal-mesh-twelve-minor-mango-fresh-misery-stadium
-bip_39_word_dash_11: smoke-amateur-animal-mesh-twelve-minor-mango-fresh-misery-stadium-drive
 bip_39_word_dash_12: smoke-amateur-animal-mesh-twelve-minor-mango-fresh-misery-stadium-drive-amateur
 bip_39_word_dash_2: smoke-amateur
 bip_39_word_dash_3: smoke-amateur-animal
-bip_39_word_dash_4: smoke-amateur-animal-mesh
-bip_39_word_dash_5: smoke-amateur-animal-mesh-twelve
-bip_39_word_dash_6: smoke-amateur-animal-mesh-twelve-minor
-bip_39_word_dash_7: smoke-amateur-animal-mesh-twelve-minor-mango
-bip_39_word_dash_8: smoke-amateur-animal-mesh-twelve-minor-mango-fresh
-bip_39_word_dash_9: smoke-amateur-animal-mesh-twelve-minor-mango-fresh-misery
-bip_39_word_new_br_1: smoke
-bip_39_word_new_br_10: smoke<br>amateur<br>animal<br>mesh<br>twelve<br>minor<br>mango<br>fresh<br>misery<br>stadium
-bip_39_word_new_br_11: smoke<br>amateur<br>animal<br>mesh<br>twelve<br>minor<br>mango<br>fresh<br>misery<br>stadium<br>drive
 bip_39_word_new_br_12: smoke<br>amateur<br>animal<br>mesh<br>twelve<br>minor<br>mango<br>fresh<br>misery<br>stadium<br>drive<br>amateur
 bip_39_word_new_br_2: smoke<br>amateur
 bip_39_word_new_br_3: smoke<br>amateur<br>animal
-bip_39_word_new_br_4: smoke<br>amateur<br>animal<br>mesh
-bip_39_word_new_br_5: smoke<br>amateur<br>animal<br>mesh<br>twelve
-bip_39_word_new_br_6: smoke<br>amateur<br>animal<br>mesh<br>twelve<br>minor
-bip_39_word_new_br_7: smoke<br>amateur<br>animal<br>mesh<br>twelve<br>minor<br>mango
-bip_39_word_new_br_8: smoke<br>amateur<br>animal<br>mesh<br>twelve<br>minor<br>mango<br>fresh
-bip_39_word_new_br_9: smoke<br>amateur<br>animal<br>mesh<br>twelve<br>minor<br>mango<br>fresh<br>misery
-bip_39_word_new_line_1: smoke
-bip_39_word_new_line_10: 'smoke
-
-  amateur
-
-  animal
-
-  mesh
-
-  twelve
-
-  minor
-
-  mango
-
-  fresh
-
-  misery
-
-  stadium'
-bip_39_word_new_line_11: 'smoke
-
-  amateur
-
-  animal
-
-  mesh
-
-  twelve
-
-  minor
-
-  mango
-
-  fresh
-
-  misery
-
-  stadium
-
-  drive'
 bip_39_word_new_line_12: 'smoke
 
   amateur
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'smoke
   amateur
 
   animal'
-bip_39_word_new_line_4: 'smoke
-
-  amateur
-
-  animal
-
-  mesh'
-bip_39_word_new_line_5: 'smoke
-
-  amateur
-
-  animal
-
-  mesh
-
-  twelve'
-bip_39_word_new_line_6: 'smoke
-
-  amateur
-
-  animal
-
-  mesh
-
-  twelve
-
-  minor'
-bip_39_word_new_line_7: 'smoke
-
-  amateur
-
-  animal
-
-  mesh
-
-  twelve
-
-  minor
-
-  mango'
-bip_39_word_new_line_8: 'smoke
-
-  amateur
-
-  animal
-
-  mesh
-
-  twelve
-
-  minor
-
-  mango
-
-  fresh'
-bip_39_word_new_line_9: 'smoke
-
-  amateur
-
-  animal
-
-  mesh
-
-  twelve
-
-  minor
-
-  mango
-
-  fresh
-
-  misery'
-bip_39_word_no_space_1: smoke
-bip_39_word_no_space_10: smokeamateuranimalmeshtwelveminormangofreshmiserystadium
-bip_39_word_no_space_11: smokeamateuranimalmeshtwelveminormangofreshmiserystadiumdrive
 bip_39_word_no_space_12: smokeamateuranimalmeshtwelveminormangofreshmiserystadiumdriveamateur
 bip_39_word_no_space_2: smokeamateur
 bip_39_word_no_space_3: smokeamateuranimal
-bip_39_word_no_space_4: smokeamateuranimalmesh
-bip_39_word_no_space_5: smokeamateuranimalmeshtwelve
-bip_39_word_no_space_6: smokeamateuranimalmeshtwelveminor
-bip_39_word_no_space_7: smokeamateuranimalmeshtwelveminormango
-bip_39_word_no_space_8: smokeamateuranimalmeshtwelveminormangofresh
-bip_39_word_no_space_9: smokeamateuranimalmeshtwelveminormangofreshmisery
-bip_39_word_space_0:
-- smoke
-- amateur
-- animal
-- mesh
-- twelve
-- minor
-- mango
-- fresh
-- misery
-- stadium
-- drive
-- amateur
-bip_39_word_space_1: smoke
-bip_39_word_space_10: smoke amateur animal mesh twelve minor mango fresh misery stadium
-bip_39_word_space_11: smoke amateur animal mesh twelve minor mango fresh misery stadium
-  drive
 bip_39_word_space_12: smoke amateur animal mesh twelve minor mango fresh misery stadium
   drive amateur
 bip_39_word_space_2: smoke amateur
 bip_39_word_space_3: smoke amateur animal
-bip_39_word_space_4: smoke amateur animal mesh
-bip_39_word_space_5: smoke amateur animal mesh twelve
-bip_39_word_space_6: smoke amateur animal mesh twelve minor
-bip_39_word_space_7: smoke amateur animal mesh twelve minor mango
-bip_39_word_space_8: smoke amateur animal mesh twelve minor mango fresh
-bip_39_word_space_9: smoke amateur animal mesh twelve minor mango fresh misery
-bip_39_word_underscore_1: smoke
-bip_39_word_underscore_10: smoke_amateur_animal_mesh_twelve_minor_mango_fresh_misery_stadium
-bip_39_word_underscore_11: smoke_amateur_animal_mesh_twelve_minor_mango_fresh_misery_stadium_drive
 bip_39_word_underscore_12: smoke_amateur_animal_mesh_twelve_minor_mango_fresh_misery_stadium_drive_amateur
 bip_39_word_underscore_2: smoke_amateur
 bip_39_word_underscore_3: smoke_amateur_animal
-bip_39_word_underscore_4: smoke_amateur_animal_mesh
-bip_39_word_underscore_5: smoke_amateur_animal_mesh_twelve
-bip_39_word_underscore_6: smoke_amateur_animal_mesh_twelve_minor
-bip_39_word_underscore_7: smoke_amateur_animal_mesh_twelve_minor_mango
-bip_39_word_underscore_8: smoke_amateur_animal_mesh_twelve_minor_mango_fresh
-bip_39_word_underscore_9: smoke_amateur_animal_mesh_twelve_minor_mango_fresh_misery
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

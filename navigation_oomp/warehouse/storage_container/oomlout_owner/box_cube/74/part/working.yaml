@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hand
-bip_39_word_dash_10: hand-brown-spin-card-slow-fly-sleep-level-tennis-green
-bip_39_word_dash_11: hand-brown-spin-card-slow-fly-sleep-level-tennis-green-cheap
 bip_39_word_dash_12: hand-brown-spin-card-slow-fly-sleep-level-tennis-green-cheap-ancient
 bip_39_word_dash_2: hand-brown
 bip_39_word_dash_3: hand-brown-spin
-bip_39_word_dash_4: hand-brown-spin-card
-bip_39_word_dash_5: hand-brown-spin-card-slow
-bip_39_word_dash_6: hand-brown-spin-card-slow-fly
-bip_39_word_dash_7: hand-brown-spin-card-slow-fly-sleep
-bip_39_word_dash_8: hand-brown-spin-card-slow-fly-sleep-level
-bip_39_word_dash_9: hand-brown-spin-card-slow-fly-sleep-level-tennis
-bip_39_word_new_br_1: hand
-bip_39_word_new_br_10: hand<br>brown<br>spin<br>card<br>slow<br>fly<br>sleep<br>level<br>tennis<br>green
-bip_39_word_new_br_11: hand<br>brown<br>spin<br>card<br>slow<br>fly<br>sleep<br>level<br>tennis<br>green<br>cheap
 bip_39_word_new_br_12: hand<br>brown<br>spin<br>card<br>slow<br>fly<br>sleep<br>level<br>tennis<br>green<br>cheap<br>ancient
 bip_39_word_new_br_2: hand<br>brown
 bip_39_word_new_br_3: hand<br>brown<br>spin
-bip_39_word_new_br_4: hand<br>brown<br>spin<br>card
-bip_39_word_new_br_5: hand<br>brown<br>spin<br>card<br>slow
-bip_39_word_new_br_6: hand<br>brown<br>spin<br>card<br>slow<br>fly
-bip_39_word_new_br_7: hand<br>brown<br>spin<br>card<br>slow<br>fly<br>sleep
-bip_39_word_new_br_8: hand<br>brown<br>spin<br>card<br>slow<br>fly<br>sleep<br>level
-bip_39_word_new_br_9: hand<br>brown<br>spin<br>card<br>slow<br>fly<br>sleep<br>level<br>tennis
-bip_39_word_new_line_1: hand
-bip_39_word_new_line_10: 'hand
-
-  brown
-
-  spin
-
-  card
-
-  slow
-
-  fly
-
-  sleep
-
-  level
-
-  tennis
-
-  green'
-bip_39_word_new_line_11: 'hand
-
-  brown
-
-  spin
-
-  card
-
-  slow
-
-  fly
-
-  sleep
-
-  level
-
-  tennis
-
-  green
-
-  cheap'
 bip_39_word_new_line_12: 'hand
 
   brown
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'hand
   brown
 
   spin'
-bip_39_word_new_line_4: 'hand
-
-  brown
-
-  spin
-
-  card'
-bip_39_word_new_line_5: 'hand
-
-  brown
-
-  spin
-
-  card
-
-  slow'
-bip_39_word_new_line_6: 'hand
-
-  brown
-
-  spin
-
-  card
-
-  slow
-
-  fly'
-bip_39_word_new_line_7: 'hand
-
-  brown
-
-  spin
-
-  card
-
-  slow
-
-  fly
-
-  sleep'
-bip_39_word_new_line_8: 'hand
-
-  brown
-
-  spin
-
-  card
-
-  slow
-
-  fly
-
-  sleep
-
-  level'
-bip_39_word_new_line_9: 'hand
-
-  brown
-
-  spin
-
-  card
-
-  slow
-
-  fly
-
-  sleep
-
-  level
-
-  tennis'
-bip_39_word_no_space_1: hand
-bip_39_word_no_space_10: handbrownspincardslowflysleepleveltennisgreen
-bip_39_word_no_space_11: handbrownspincardslowflysleepleveltennisgreencheap
 bip_39_word_no_space_12: handbrownspincardslowflysleepleveltennisgreencheapancient
 bip_39_word_no_space_2: handbrown
 bip_39_word_no_space_3: handbrownspin
-bip_39_word_no_space_4: handbrownspincard
-bip_39_word_no_space_5: handbrownspincardslow
-bip_39_word_no_space_6: handbrownspincardslowfly
-bip_39_word_no_space_7: handbrownspincardslowflysleep
-bip_39_word_no_space_8: handbrownspincardslowflysleeplevel
-bip_39_word_no_space_9: handbrownspincardslowflysleepleveltennis
-bip_39_word_space_0:
-- hand
-- brown
-- spin
-- card
-- slow
-- fly
-- sleep
-- level
-- tennis
-- green
-- cheap
-- ancient
-bip_39_word_space_1: hand
-bip_39_word_space_10: hand brown spin card slow fly sleep level tennis green
-bip_39_word_space_11: hand brown spin card slow fly sleep level tennis green cheap
 bip_39_word_space_12: hand brown spin card slow fly sleep level tennis green cheap
   ancient
 bip_39_word_space_2: hand brown
 bip_39_word_space_3: hand brown spin
-bip_39_word_space_4: hand brown spin card
-bip_39_word_space_5: hand brown spin card slow
-bip_39_word_space_6: hand brown spin card slow fly
-bip_39_word_space_7: hand brown spin card slow fly sleep
-bip_39_word_space_8: hand brown spin card slow fly sleep level
-bip_39_word_space_9: hand brown spin card slow fly sleep level tennis
-bip_39_word_underscore_1: hand
-bip_39_word_underscore_10: hand_brown_spin_card_slow_fly_sleep_level_tennis_green
-bip_39_word_underscore_11: hand_brown_spin_card_slow_fly_sleep_level_tennis_green_cheap
 bip_39_word_underscore_12: hand_brown_spin_card_slow_fly_sleep_level_tennis_green_cheap_ancient
 bip_39_word_underscore_2: hand_brown
 bip_39_word_underscore_3: hand_brown_spin
-bip_39_word_underscore_4: hand_brown_spin_card
-bip_39_word_underscore_5: hand_brown_spin_card_slow
-bip_39_word_underscore_6: hand_brown_spin_card_slow_fly
-bip_39_word_underscore_7: hand_brown_spin_card_slow_fly_sleep
-bip_39_word_underscore_8: hand_brown_spin_card_slow_fly_sleep_level
-bip_39_word_underscore_9: hand_brown_spin_card_slow_fly_sleep_level_tennis
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

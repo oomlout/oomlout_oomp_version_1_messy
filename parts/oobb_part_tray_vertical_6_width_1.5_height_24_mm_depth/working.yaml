@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chief
-bip_39_word_dash_10: chief-sample-slow-test-frozen-inflict-like-upon-delay-victory
-bip_39_word_dash_11: chief-sample-slow-test-frozen-inflict-like-upon-delay-victory-boost
 bip_39_word_dash_12: chief-sample-slow-test-frozen-inflict-like-upon-delay-victory-boost-arrive
 bip_39_word_dash_2: chief-sample
 bip_39_word_dash_3: chief-sample-slow
-bip_39_word_dash_4: chief-sample-slow-test
-bip_39_word_dash_5: chief-sample-slow-test-frozen
-bip_39_word_dash_6: chief-sample-slow-test-frozen-inflict
-bip_39_word_dash_7: chief-sample-slow-test-frozen-inflict-like
-bip_39_word_dash_8: chief-sample-slow-test-frozen-inflict-like-upon
-bip_39_word_dash_9: chief-sample-slow-test-frozen-inflict-like-upon-delay
-bip_39_word_new_br_1: chief
-bip_39_word_new_br_10: chief<br>sample<br>slow<br>test<br>frozen<br>inflict<br>like<br>upon<br>delay<br>victory
-bip_39_word_new_br_11: chief<br>sample<br>slow<br>test<br>frozen<br>inflict<br>like<br>upon<br>delay<br>victory<br>boost
 bip_39_word_new_br_12: chief<br>sample<br>slow<br>test<br>frozen<br>inflict<br>like<br>upon<br>delay<br>victory<br>boost<br>arrive
 bip_39_word_new_br_2: chief<br>sample
 bip_39_word_new_br_3: chief<br>sample<br>slow
-bip_39_word_new_br_4: chief<br>sample<br>slow<br>test
-bip_39_word_new_br_5: chief<br>sample<br>slow<br>test<br>frozen
-bip_39_word_new_br_6: chief<br>sample<br>slow<br>test<br>frozen<br>inflict
-bip_39_word_new_br_7: chief<br>sample<br>slow<br>test<br>frozen<br>inflict<br>like
-bip_39_word_new_br_8: chief<br>sample<br>slow<br>test<br>frozen<br>inflict<br>like<br>upon
-bip_39_word_new_br_9: chief<br>sample<br>slow<br>test<br>frozen<br>inflict<br>like<br>upon<br>delay
-bip_39_word_new_line_1: chief
-bip_39_word_new_line_10: 'chief
-
-  sample
-
-  slow
-
-  test
-
-  frozen
-
-  inflict
-
-  like
-
-  upon
-
-  delay
-
-  victory'
-bip_39_word_new_line_11: 'chief
-
-  sample
-
-  slow
-
-  test
-
-  frozen
-
-  inflict
-
-  like
-
-  upon
-
-  delay
-
-  victory
-
-  boost'
 bip_39_word_new_line_12: 'chief
 
   sample
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chief
   sample
 
   slow'
-bip_39_word_new_line_4: 'chief
-
-  sample
-
-  slow
-
-  test'
-bip_39_word_new_line_5: 'chief
-
-  sample
-
-  slow
-
-  test
-
-  frozen'
-bip_39_word_new_line_6: 'chief
-
-  sample
-
-  slow
-
-  test
-
-  frozen
-
-  inflict'
-bip_39_word_new_line_7: 'chief
-
-  sample
-
-  slow
-
-  test
-
-  frozen
-
-  inflict
-
-  like'
-bip_39_word_new_line_8: 'chief
-
-  sample
-
-  slow
-
-  test
-
-  frozen
-
-  inflict
-
-  like
-
-  upon'
-bip_39_word_new_line_9: 'chief
-
-  sample
-
-  slow
-
-  test
-
-  frozen
-
-  inflict
-
-  like
-
-  upon
-
-  delay'
-bip_39_word_no_space_1: chief
-bip_39_word_no_space_10: chiefsampleslowtestfrozeninflictlikeupondelayvictory
-bip_39_word_no_space_11: chiefsampleslowtestfrozeninflictlikeupondelayvictoryboost
 bip_39_word_no_space_12: chiefsampleslowtestfrozeninflictlikeupondelayvictoryboostarrive
 bip_39_word_no_space_2: chiefsample
 bip_39_word_no_space_3: chiefsampleslow
-bip_39_word_no_space_4: chiefsampleslowtest
-bip_39_word_no_space_5: chiefsampleslowtestfrozen
-bip_39_word_no_space_6: chiefsampleslowtestfrozeninflict
-bip_39_word_no_space_7: chiefsampleslowtestfrozeninflictlike
-bip_39_word_no_space_8: chiefsampleslowtestfrozeninflictlikeupon
-bip_39_word_no_space_9: chiefsampleslowtestfrozeninflictlikeupondelay
-bip_39_word_space_0:
-- chief
-- sample
-- slow
-- test
-- frozen
-- inflict
-- like
-- upon
-- delay
-- victory
-- boost
-- arrive
-bip_39_word_space_1: chief
-bip_39_word_space_10: chief sample slow test frozen inflict like upon delay victory
-bip_39_word_space_11: chief sample slow test frozen inflict like upon delay victory
-  boost
 bip_39_word_space_12: chief sample slow test frozen inflict like upon delay victory
   boost arrive
 bip_39_word_space_2: chief sample
 bip_39_word_space_3: chief sample slow
-bip_39_word_space_4: chief sample slow test
-bip_39_word_space_5: chief sample slow test frozen
-bip_39_word_space_6: chief sample slow test frozen inflict
-bip_39_word_space_7: chief sample slow test frozen inflict like
-bip_39_word_space_8: chief sample slow test frozen inflict like upon
-bip_39_word_space_9: chief sample slow test frozen inflict like upon delay
-bip_39_word_underscore_1: chief
-bip_39_word_underscore_10: chief_sample_slow_test_frozen_inflict_like_upon_delay_victory
-bip_39_word_underscore_11: chief_sample_slow_test_frozen_inflict_like_upon_delay_victory_boost
 bip_39_word_underscore_12: chief_sample_slow_test_frozen_inflict_like_upon_delay_victory_boost_arrive
 bip_39_word_underscore_2: chief_sample
 bip_39_word_underscore_3: chief_sample_slow
-bip_39_word_underscore_4: chief_sample_slow_test
-bip_39_word_underscore_5: chief_sample_slow_test_frozen
-bip_39_word_underscore_6: chief_sample_slow_test_frozen_inflict
-bip_39_word_underscore_7: chief_sample_slow_test_frozen_inflict_like
-bip_39_word_underscore_8: chief_sample_slow_test_frozen_inflict_like_upon
-bip_39_word_underscore_9: chief_sample_slow_test_frozen_inflict_like_upon_delay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fabric
-bip_39_word_dash_10: fabric-situate-pony-toe-damp-planet-major-grape-flame-jazz
-bip_39_word_dash_11: fabric-situate-pony-toe-damp-planet-major-grape-flame-jazz-student
 bip_39_word_dash_12: fabric-situate-pony-toe-damp-planet-major-grape-flame-jazz-student-antenna
 bip_39_word_dash_2: fabric-situate
 bip_39_word_dash_3: fabric-situate-pony
-bip_39_word_dash_4: fabric-situate-pony-toe
-bip_39_word_dash_5: fabric-situate-pony-toe-damp
-bip_39_word_dash_6: fabric-situate-pony-toe-damp-planet
-bip_39_word_dash_7: fabric-situate-pony-toe-damp-planet-major
-bip_39_word_dash_8: fabric-situate-pony-toe-damp-planet-major-grape
-bip_39_word_dash_9: fabric-situate-pony-toe-damp-planet-major-grape-flame
-bip_39_word_new_br_1: fabric
-bip_39_word_new_br_10: fabric<br>situate<br>pony<br>toe<br>damp<br>planet<br>major<br>grape<br>flame<br>jazz
-bip_39_word_new_br_11: fabric<br>situate<br>pony<br>toe<br>damp<br>planet<br>major<br>grape<br>flame<br>jazz<br>student
 bip_39_word_new_br_12: fabric<br>situate<br>pony<br>toe<br>damp<br>planet<br>major<br>grape<br>flame<br>jazz<br>student<br>antenna
 bip_39_word_new_br_2: fabric<br>situate
 bip_39_word_new_br_3: fabric<br>situate<br>pony
-bip_39_word_new_br_4: fabric<br>situate<br>pony<br>toe
-bip_39_word_new_br_5: fabric<br>situate<br>pony<br>toe<br>damp
-bip_39_word_new_br_6: fabric<br>situate<br>pony<br>toe<br>damp<br>planet
-bip_39_word_new_br_7: fabric<br>situate<br>pony<br>toe<br>damp<br>planet<br>major
-bip_39_word_new_br_8: fabric<br>situate<br>pony<br>toe<br>damp<br>planet<br>major<br>grape
-bip_39_word_new_br_9: fabric<br>situate<br>pony<br>toe<br>damp<br>planet<br>major<br>grape<br>flame
-bip_39_word_new_line_1: fabric
-bip_39_word_new_line_10: 'fabric
-
-  situate
-
-  pony
-
-  toe
-
-  damp
-
-  planet
-
-  major
-
-  grape
-
-  flame
-
-  jazz'
-bip_39_word_new_line_11: 'fabric
-
-  situate
-
-  pony
-
-  toe
-
-  damp
-
-  planet
-
-  major
-
-  grape
-
-  flame
-
-  jazz
-
-  student'
 bip_39_word_new_line_12: 'fabric
 
   situate
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'fabric
   situate
 
   pony'
-bip_39_word_new_line_4: 'fabric
-
-  situate
-
-  pony
-
-  toe'
-bip_39_word_new_line_5: 'fabric
-
-  situate
-
-  pony
-
-  toe
-
-  damp'
-bip_39_word_new_line_6: 'fabric
-
-  situate
-
-  pony
-
-  toe
-
-  damp
-
-  planet'
-bip_39_word_new_line_7: 'fabric
-
-  situate
-
-  pony
-
-  toe
-
-  damp
-
-  planet
-
-  major'
-bip_39_word_new_line_8: 'fabric
-
-  situate
-
-  pony
-
-  toe
-
-  damp
-
-  planet
-
-  major
-
-  grape'
-bip_39_word_new_line_9: 'fabric
-
-  situate
-
-  pony
-
-  toe
-
-  damp
-
-  planet
-
-  major
-
-  grape
-
-  flame'
-bip_39_word_no_space_1: fabric
-bip_39_word_no_space_10: fabricsituateponytoedampplanetmajorgrapeflamejazz
-bip_39_word_no_space_11: fabricsituateponytoedampplanetmajorgrapeflamejazzstudent
 bip_39_word_no_space_12: fabricsituateponytoedampplanetmajorgrapeflamejazzstudentantenna
 bip_39_word_no_space_2: fabricsituate
 bip_39_word_no_space_3: fabricsituatepony
-bip_39_word_no_space_4: fabricsituateponytoe
-bip_39_word_no_space_5: fabricsituateponytoedamp
-bip_39_word_no_space_6: fabricsituateponytoedampplanet
-bip_39_word_no_space_7: fabricsituateponytoedampplanetmajor
-bip_39_word_no_space_8: fabricsituateponytoedampplanetmajorgrape
-bip_39_word_no_space_9: fabricsituateponytoedampplanetmajorgrapeflame
-bip_39_word_space_0:
-- fabric
-- situate
-- pony
-- toe
-- damp
-- planet
-- major
-- grape
-- flame
-- jazz
-- student
-- antenna
-bip_39_word_space_1: fabric
-bip_39_word_space_10: fabric situate pony toe damp planet major grape flame jazz
-bip_39_word_space_11: fabric situate pony toe damp planet major grape flame jazz student
 bip_39_word_space_12: fabric situate pony toe damp planet major grape flame jazz student
   antenna
 bip_39_word_space_2: fabric situate
 bip_39_word_space_3: fabric situate pony
-bip_39_word_space_4: fabric situate pony toe
-bip_39_word_space_5: fabric situate pony toe damp
-bip_39_word_space_6: fabric situate pony toe damp planet
-bip_39_word_space_7: fabric situate pony toe damp planet major
-bip_39_word_space_8: fabric situate pony toe damp planet major grape
-bip_39_word_space_9: fabric situate pony toe damp planet major grape flame
-bip_39_word_underscore_1: fabric
-bip_39_word_underscore_10: fabric_situate_pony_toe_damp_planet_major_grape_flame_jazz
-bip_39_word_underscore_11: fabric_situate_pony_toe_damp_planet_major_grape_flame_jazz_student
 bip_39_word_underscore_12: fabric_situate_pony_toe_damp_planet_major_grape_flame_jazz_student_antenna
 bip_39_word_underscore_2: fabric_situate
 bip_39_word_underscore_3: fabric_situate_pony
-bip_39_word_underscore_4: fabric_situate_pony_toe
-bip_39_word_underscore_5: fabric_situate_pony_toe_damp
-bip_39_word_underscore_6: fabric_situate_pony_toe_damp_planet
-bip_39_word_underscore_7: fabric_situate_pony_toe_damp_planet_major
-bip_39_word_underscore_8: fabric_situate_pony_toe_damp_planet_major_grape
-bip_39_word_underscore_9: fabric_situate_pony_toe_damp_planet_major_grape_flame
 classification: category
 classification_capital: Category
 classification_first_letter: c

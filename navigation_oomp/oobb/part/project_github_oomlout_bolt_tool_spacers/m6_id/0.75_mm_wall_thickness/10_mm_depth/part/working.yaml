@@ -1,68 +1,9 @@
-bip_39_word_dash_1: filter
-bip_39_word_dash_10: filter-escape-cram-steak-desk-idea-people-term-vibrant-foam
-bip_39_word_dash_11: filter-escape-cram-steak-desk-idea-people-term-vibrant-foam-allow
 bip_39_word_dash_12: filter-escape-cram-steak-desk-idea-people-term-vibrant-foam-allow-attitude
 bip_39_word_dash_2: filter-escape
 bip_39_word_dash_3: filter-escape-cram
-bip_39_word_dash_4: filter-escape-cram-steak
-bip_39_word_dash_5: filter-escape-cram-steak-desk
-bip_39_word_dash_6: filter-escape-cram-steak-desk-idea
-bip_39_word_dash_7: filter-escape-cram-steak-desk-idea-people
-bip_39_word_dash_8: filter-escape-cram-steak-desk-idea-people-term
-bip_39_word_dash_9: filter-escape-cram-steak-desk-idea-people-term-vibrant
-bip_39_word_new_br_1: filter
-bip_39_word_new_br_10: filter<br>escape<br>cram<br>steak<br>desk<br>idea<br>people<br>term<br>vibrant<br>foam
-bip_39_word_new_br_11: filter<br>escape<br>cram<br>steak<br>desk<br>idea<br>people<br>term<br>vibrant<br>foam<br>allow
 bip_39_word_new_br_12: filter<br>escape<br>cram<br>steak<br>desk<br>idea<br>people<br>term<br>vibrant<br>foam<br>allow<br>attitude
 bip_39_word_new_br_2: filter<br>escape
 bip_39_word_new_br_3: filter<br>escape<br>cram
-bip_39_word_new_br_4: filter<br>escape<br>cram<br>steak
-bip_39_word_new_br_5: filter<br>escape<br>cram<br>steak<br>desk
-bip_39_word_new_br_6: filter<br>escape<br>cram<br>steak<br>desk<br>idea
-bip_39_word_new_br_7: filter<br>escape<br>cram<br>steak<br>desk<br>idea<br>people
-bip_39_word_new_br_8: filter<br>escape<br>cram<br>steak<br>desk<br>idea<br>people<br>term
-bip_39_word_new_br_9: filter<br>escape<br>cram<br>steak<br>desk<br>idea<br>people<br>term<br>vibrant
-bip_39_word_new_line_1: filter
-bip_39_word_new_line_10: 'filter
-
-  escape
-
-  cram
-
-  steak
-
-  desk
-
-  idea
-
-  people
-
-  term
-
-  vibrant
-
-  foam'
-bip_39_word_new_line_11: 'filter
-
-  escape
-
-  cram
-
-  steak
-
-  desk
-
-  idea
-
-  people
-
-  term
-
-  vibrant
-
-  foam
-
-  allow'
 bip_39_word_new_line_12: 'filter
 
   escape
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'filter
   escape
 
   cram'
-bip_39_word_new_line_4: 'filter
-
-  escape
-
-  cram
-
-  steak'
-bip_39_word_new_line_5: 'filter
-
-  escape
-
-  cram
-
-  steak
-
-  desk'
-bip_39_word_new_line_6: 'filter
-
-  escape
-
-  cram
-
-  steak
-
-  desk
-
-  idea'
-bip_39_word_new_line_7: 'filter
-
-  escape
-
-  cram
-
-  steak
-
-  desk
-
-  idea
-
-  people'
-bip_39_word_new_line_8: 'filter
-
-  escape
-
-  cram
-
-  steak
-
-  desk
-
-  idea
-
-  people
-
-  term'
-bip_39_word_new_line_9: 'filter
-
-  escape
-
-  cram
-
-  steak
-
-  desk
-
-  idea
-
-  people
-
-  term
-
-  vibrant'
-bip_39_word_no_space_1: filter
-bip_39_word_no_space_10: filterescapecramsteakdeskideapeopletermvibrantfoam
-bip_39_word_no_space_11: filterescapecramsteakdeskideapeopletermvibrantfoamallow
 bip_39_word_no_space_12: filterescapecramsteakdeskideapeopletermvibrantfoamallowattitude
 bip_39_word_no_space_2: filterescape
 bip_39_word_no_space_3: filterescapecram
-bip_39_word_no_space_4: filterescapecramsteak
-bip_39_word_no_space_5: filterescapecramsteakdesk
-bip_39_word_no_space_6: filterescapecramsteakdeskidea
-bip_39_word_no_space_7: filterescapecramsteakdeskideapeople
-bip_39_word_no_space_8: filterescapecramsteakdeskideapeopleterm
-bip_39_word_no_space_9: filterescapecramsteakdeskideapeopletermvibrant
-bip_39_word_space_0:
-- filter
-- escape
-- cram
-- steak
-- desk
-- idea
-- people
-- term
-- vibrant
-- foam
-- allow
-- attitude
-bip_39_word_space_1: filter
-bip_39_word_space_10: filter escape cram steak desk idea people term vibrant foam
-bip_39_word_space_11: filter escape cram steak desk idea people term vibrant foam
-  allow
 bip_39_word_space_12: filter escape cram steak desk idea people term vibrant foam
   allow attitude
 bip_39_word_space_2: filter escape
 bip_39_word_space_3: filter escape cram
-bip_39_word_space_4: filter escape cram steak
-bip_39_word_space_5: filter escape cram steak desk
-bip_39_word_space_6: filter escape cram steak desk idea
-bip_39_word_space_7: filter escape cram steak desk idea people
-bip_39_word_space_8: filter escape cram steak desk idea people term
-bip_39_word_space_9: filter escape cram steak desk idea people term vibrant
-bip_39_word_underscore_1: filter
-bip_39_word_underscore_10: filter_escape_cram_steak_desk_idea_people_term_vibrant_foam
-bip_39_word_underscore_11: filter_escape_cram_steak_desk_idea_people_term_vibrant_foam_allow
 bip_39_word_underscore_12: filter_escape_cram_steak_desk_idea_people_term_vibrant_foam_allow_attitude
 bip_39_word_underscore_2: filter_escape
 bip_39_word_underscore_3: filter_escape_cram
-bip_39_word_underscore_4: filter_escape_cram_steak
-bip_39_word_underscore_5: filter_escape_cram_steak_desk
-bip_39_word_underscore_6: filter_escape_cram_steak_desk_idea
-bip_39_word_underscore_7: filter_escape_cram_steak_desk_idea_people
-bip_39_word_underscore_8: filter_escape_cram_steak_desk_idea_people_term
-bip_39_word_underscore_9: filter_escape_cram_steak_desk_idea_people_term_vibrant
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

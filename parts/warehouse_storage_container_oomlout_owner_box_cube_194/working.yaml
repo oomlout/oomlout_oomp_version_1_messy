@@ -1,68 +1,9 @@
-bip_39_word_dash_1: announce
-bip_39_word_dash_10: announce-term-tumble-puzzle-pelican-salt-food-announce-puppy-grocery
-bip_39_word_dash_11: announce-term-tumble-puzzle-pelican-salt-food-announce-puppy-grocery-ridge
 bip_39_word_dash_12: announce-term-tumble-puzzle-pelican-salt-food-announce-puppy-grocery-ridge-antenna
 bip_39_word_dash_2: announce-term
 bip_39_word_dash_3: announce-term-tumble
-bip_39_word_dash_4: announce-term-tumble-puzzle
-bip_39_word_dash_5: announce-term-tumble-puzzle-pelican
-bip_39_word_dash_6: announce-term-tumble-puzzle-pelican-salt
-bip_39_word_dash_7: announce-term-tumble-puzzle-pelican-salt-food
-bip_39_word_dash_8: announce-term-tumble-puzzle-pelican-salt-food-announce
-bip_39_word_dash_9: announce-term-tumble-puzzle-pelican-salt-food-announce-puppy
-bip_39_word_new_br_1: announce
-bip_39_word_new_br_10: announce<br>term<br>tumble<br>puzzle<br>pelican<br>salt<br>food<br>announce<br>puppy<br>grocery
-bip_39_word_new_br_11: announce<br>term<br>tumble<br>puzzle<br>pelican<br>salt<br>food<br>announce<br>puppy<br>grocery<br>ridge
 bip_39_word_new_br_12: announce<br>term<br>tumble<br>puzzle<br>pelican<br>salt<br>food<br>announce<br>puppy<br>grocery<br>ridge<br>antenna
 bip_39_word_new_br_2: announce<br>term
 bip_39_word_new_br_3: announce<br>term<br>tumble
-bip_39_word_new_br_4: announce<br>term<br>tumble<br>puzzle
-bip_39_word_new_br_5: announce<br>term<br>tumble<br>puzzle<br>pelican
-bip_39_word_new_br_6: announce<br>term<br>tumble<br>puzzle<br>pelican<br>salt
-bip_39_word_new_br_7: announce<br>term<br>tumble<br>puzzle<br>pelican<br>salt<br>food
-bip_39_word_new_br_8: announce<br>term<br>tumble<br>puzzle<br>pelican<br>salt<br>food<br>announce
-bip_39_word_new_br_9: announce<br>term<br>tumble<br>puzzle<br>pelican<br>salt<br>food<br>announce<br>puppy
-bip_39_word_new_line_1: announce
-bip_39_word_new_line_10: 'announce
-
-  term
-
-  tumble
-
-  puzzle
-
-  pelican
-
-  salt
-
-  food
-
-  announce
-
-  puppy
-
-  grocery'
-bip_39_word_new_line_11: 'announce
-
-  term
-
-  tumble
-
-  puzzle
-
-  pelican
-
-  salt
-
-  food
-
-  announce
-
-  puppy
-
-  grocery
-
-  ridge'
 bip_39_word_new_line_12: 'announce
 
   term
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'announce
   term
 
   tumble'
-bip_39_word_new_line_4: 'announce
-
-  term
-
-  tumble
-
-  puzzle'
-bip_39_word_new_line_5: 'announce
-
-  term
-
-  tumble
-
-  puzzle
-
-  pelican'
-bip_39_word_new_line_6: 'announce
-
-  term
-
-  tumble
-
-  puzzle
-
-  pelican
-
-  salt'
-bip_39_word_new_line_7: 'announce
-
-  term
-
-  tumble
-
-  puzzle
-
-  pelican
-
-  salt
-
-  food'
-bip_39_word_new_line_8: 'announce
-
-  term
-
-  tumble
-
-  puzzle
-
-  pelican
-
-  salt
-
-  food
-
-  announce'
-bip_39_word_new_line_9: 'announce
-
-  term
-
-  tumble
-
-  puzzle
-
-  pelican
-
-  salt
-
-  food
-
-  announce
-
-  puppy'
-bip_39_word_no_space_1: announce
-bip_39_word_no_space_10: announcetermtumblepuzzlepelicansaltfoodannouncepuppygrocery
-bip_39_word_no_space_11: announcetermtumblepuzzlepelicansaltfoodannouncepuppygroceryridge
 bip_39_word_no_space_12: announcetermtumblepuzzlepelicansaltfoodannouncepuppygroceryridgeantenna
 bip_39_word_no_space_2: announceterm
 bip_39_word_no_space_3: announcetermtumble
-bip_39_word_no_space_4: announcetermtumblepuzzle
-bip_39_word_no_space_5: announcetermtumblepuzzlepelican
-bip_39_word_no_space_6: announcetermtumblepuzzlepelicansalt
-bip_39_word_no_space_7: announcetermtumblepuzzlepelicansaltfood
-bip_39_word_no_space_8: announcetermtumblepuzzlepelicansaltfoodannounce
-bip_39_word_no_space_9: announcetermtumblepuzzlepelicansaltfoodannouncepuppy
-bip_39_word_space_0:
-- announce
-- term
-- tumble
-- puzzle
-- pelican
-- salt
-- food
-- announce
-- puppy
-- grocery
-- ridge
-- antenna
-bip_39_word_space_1: announce
-bip_39_word_space_10: announce term tumble puzzle pelican salt food announce puppy
-  grocery
-bip_39_word_space_11: announce term tumble puzzle pelican salt food announce puppy
-  grocery ridge
 bip_39_word_space_12: announce term tumble puzzle pelican salt food announce puppy
   grocery ridge antenna
 bip_39_word_space_2: announce term
 bip_39_word_space_3: announce term tumble
-bip_39_word_space_4: announce term tumble puzzle
-bip_39_word_space_5: announce term tumble puzzle pelican
-bip_39_word_space_6: announce term tumble puzzle pelican salt
-bip_39_word_space_7: announce term tumble puzzle pelican salt food
-bip_39_word_space_8: announce term tumble puzzle pelican salt food announce
-bip_39_word_space_9: announce term tumble puzzle pelican salt food announce puppy
-bip_39_word_underscore_1: announce
-bip_39_word_underscore_10: announce_term_tumble_puzzle_pelican_salt_food_announce_puppy_grocery
-bip_39_word_underscore_11: announce_term_tumble_puzzle_pelican_salt_food_announce_puppy_grocery_ridge
 bip_39_word_underscore_12: announce_term_tumble_puzzle_pelican_salt_food_announce_puppy_grocery_ridge_antenna
 bip_39_word_underscore_2: announce_term
 bip_39_word_underscore_3: announce_term_tumble
-bip_39_word_underscore_4: announce_term_tumble_puzzle
-bip_39_word_underscore_5: announce_term_tumble_puzzle_pelican
-bip_39_word_underscore_6: announce_term_tumble_puzzle_pelican_salt
-bip_39_word_underscore_7: announce_term_tumble_puzzle_pelican_salt_food
-bip_39_word_underscore_8: announce_term_tumble_puzzle_pelican_salt_food_announce
-bip_39_word_underscore_9: announce_term_tumble_puzzle_pelican_salt_food_announce_puppy
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

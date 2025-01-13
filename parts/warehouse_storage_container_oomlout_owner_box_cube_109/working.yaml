@@ -1,68 +1,9 @@
-bip_39_word_dash_1: release
-bip_39_word_dash_10: release-venture-hill-unveil-upgrade-empty-purity-evolve-duty-nation
-bip_39_word_dash_11: release-venture-hill-unveil-upgrade-empty-purity-evolve-duty-nation-exclude
 bip_39_word_dash_12: release-venture-hill-unveil-upgrade-empty-purity-evolve-duty-nation-exclude-angry
 bip_39_word_dash_2: release-venture
 bip_39_word_dash_3: release-venture-hill
-bip_39_word_dash_4: release-venture-hill-unveil
-bip_39_word_dash_5: release-venture-hill-unveil-upgrade
-bip_39_word_dash_6: release-venture-hill-unveil-upgrade-empty
-bip_39_word_dash_7: release-venture-hill-unveil-upgrade-empty-purity
-bip_39_word_dash_8: release-venture-hill-unveil-upgrade-empty-purity-evolve
-bip_39_word_dash_9: release-venture-hill-unveil-upgrade-empty-purity-evolve-duty
-bip_39_word_new_br_1: release
-bip_39_word_new_br_10: release<br>venture<br>hill<br>unveil<br>upgrade<br>empty<br>purity<br>evolve<br>duty<br>nation
-bip_39_word_new_br_11: release<br>venture<br>hill<br>unveil<br>upgrade<br>empty<br>purity<br>evolve<br>duty<br>nation<br>exclude
 bip_39_word_new_br_12: release<br>venture<br>hill<br>unveil<br>upgrade<br>empty<br>purity<br>evolve<br>duty<br>nation<br>exclude<br>angry
 bip_39_word_new_br_2: release<br>venture
 bip_39_word_new_br_3: release<br>venture<br>hill
-bip_39_word_new_br_4: release<br>venture<br>hill<br>unveil
-bip_39_word_new_br_5: release<br>venture<br>hill<br>unveil<br>upgrade
-bip_39_word_new_br_6: release<br>venture<br>hill<br>unveil<br>upgrade<br>empty
-bip_39_word_new_br_7: release<br>venture<br>hill<br>unveil<br>upgrade<br>empty<br>purity
-bip_39_word_new_br_8: release<br>venture<br>hill<br>unveil<br>upgrade<br>empty<br>purity<br>evolve
-bip_39_word_new_br_9: release<br>venture<br>hill<br>unveil<br>upgrade<br>empty<br>purity<br>evolve<br>duty
-bip_39_word_new_line_1: release
-bip_39_word_new_line_10: 'release
-
-  venture
-
-  hill
-
-  unveil
-
-  upgrade
-
-  empty
-
-  purity
-
-  evolve
-
-  duty
-
-  nation'
-bip_39_word_new_line_11: 'release
-
-  venture
-
-  hill
-
-  unveil
-
-  upgrade
-
-  empty
-
-  purity
-
-  evolve
-
-  duty
-
-  nation
-
-  exclude'
 bip_39_word_new_line_12: 'release
 
   venture
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'release
   venture
 
   hill'
-bip_39_word_new_line_4: 'release
-
-  venture
-
-  hill
-
-  unveil'
-bip_39_word_new_line_5: 'release
-
-  venture
-
-  hill
-
-  unveil
-
-  upgrade'
-bip_39_word_new_line_6: 'release
-
-  venture
-
-  hill
-
-  unveil
-
-  upgrade
-
-  empty'
-bip_39_word_new_line_7: 'release
-
-  venture
-
-  hill
-
-  unveil
-
-  upgrade
-
-  empty
-
-  purity'
-bip_39_word_new_line_8: 'release
-
-  venture
-
-  hill
-
-  unveil
-
-  upgrade
-
-  empty
-
-  purity
-
-  evolve'
-bip_39_word_new_line_9: 'release
-
-  venture
-
-  hill
-
-  unveil
-
-  upgrade
-
-  empty
-
-  purity
-
-  evolve
-
-  duty'
-bip_39_word_no_space_1: release
-bip_39_word_no_space_10: releaseventurehillunveilupgradeemptypurityevolvedutynation
-bip_39_word_no_space_11: releaseventurehillunveilupgradeemptypurityevolvedutynationexclude
 bip_39_word_no_space_12: releaseventurehillunveilupgradeemptypurityevolvedutynationexcludeangry
 bip_39_word_no_space_2: releaseventure
 bip_39_word_no_space_3: releaseventurehill
-bip_39_word_no_space_4: releaseventurehillunveil
-bip_39_word_no_space_5: releaseventurehillunveilupgrade
-bip_39_word_no_space_6: releaseventurehillunveilupgradeempty
-bip_39_word_no_space_7: releaseventurehillunveilupgradeemptypurity
-bip_39_word_no_space_8: releaseventurehillunveilupgradeemptypurityevolve
-bip_39_word_no_space_9: releaseventurehillunveilupgradeemptypurityevolveduty
-bip_39_word_space_0:
-- release
-- venture
-- hill
-- unveil
-- upgrade
-- empty
-- purity
-- evolve
-- duty
-- nation
-- exclude
-- angry
-bip_39_word_space_1: release
-bip_39_word_space_10: release venture hill unveil upgrade empty purity evolve duty
-  nation
-bip_39_word_space_11: release venture hill unveil upgrade empty purity evolve duty
-  nation exclude
 bip_39_word_space_12: release venture hill unveil upgrade empty purity evolve duty
   nation exclude angry
 bip_39_word_space_2: release venture
 bip_39_word_space_3: release venture hill
-bip_39_word_space_4: release venture hill unveil
-bip_39_word_space_5: release venture hill unveil upgrade
-bip_39_word_space_6: release venture hill unveil upgrade empty
-bip_39_word_space_7: release venture hill unveil upgrade empty purity
-bip_39_word_space_8: release venture hill unveil upgrade empty purity evolve
-bip_39_word_space_9: release venture hill unveil upgrade empty purity evolve duty
-bip_39_word_underscore_1: release
-bip_39_word_underscore_10: release_venture_hill_unveil_upgrade_empty_purity_evolve_duty_nation
-bip_39_word_underscore_11: release_venture_hill_unveil_upgrade_empty_purity_evolve_duty_nation_exclude
 bip_39_word_underscore_12: release_venture_hill_unveil_upgrade_empty_purity_evolve_duty_nation_exclude_angry
 bip_39_word_underscore_2: release_venture
 bip_39_word_underscore_3: release_venture_hill
-bip_39_word_underscore_4: release_venture_hill_unveil
-bip_39_word_underscore_5: release_venture_hill_unveil_upgrade
-bip_39_word_underscore_6: release_venture_hill_unveil_upgrade_empty
-bip_39_word_underscore_7: release_venture_hill_unveil_upgrade_empty_purity
-bip_39_word_underscore_8: release_venture_hill_unveil_upgrade_empty_purity_evolve
-bip_39_word_underscore_9: release_venture_hill_unveil_upgrade_empty_purity_evolve_duty
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

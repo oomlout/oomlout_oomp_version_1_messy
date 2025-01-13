@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vendor
-bip_39_word_dash_10: vendor-point-absurd-hybrid-cattle-arrange-clown-receive-focus-rabbit
-bip_39_word_dash_11: vendor-point-absurd-hybrid-cattle-arrange-clown-receive-focus-rabbit-tree
 bip_39_word_dash_12: vendor-point-absurd-hybrid-cattle-arrange-clown-receive-focus-rabbit-tree-alter
 bip_39_word_dash_2: vendor-point
 bip_39_word_dash_3: vendor-point-absurd
-bip_39_word_dash_4: vendor-point-absurd-hybrid
-bip_39_word_dash_5: vendor-point-absurd-hybrid-cattle
-bip_39_word_dash_6: vendor-point-absurd-hybrid-cattle-arrange
-bip_39_word_dash_7: vendor-point-absurd-hybrid-cattle-arrange-clown
-bip_39_word_dash_8: vendor-point-absurd-hybrid-cattle-arrange-clown-receive
-bip_39_word_dash_9: vendor-point-absurd-hybrid-cattle-arrange-clown-receive-focus
-bip_39_word_new_br_1: vendor
-bip_39_word_new_br_10: vendor<br>point<br>absurd<br>hybrid<br>cattle<br>arrange<br>clown<br>receive<br>focus<br>rabbit
-bip_39_word_new_br_11: vendor<br>point<br>absurd<br>hybrid<br>cattle<br>arrange<br>clown<br>receive<br>focus<br>rabbit<br>tree
 bip_39_word_new_br_12: vendor<br>point<br>absurd<br>hybrid<br>cattle<br>arrange<br>clown<br>receive<br>focus<br>rabbit<br>tree<br>alter
 bip_39_word_new_br_2: vendor<br>point
 bip_39_word_new_br_3: vendor<br>point<br>absurd
-bip_39_word_new_br_4: vendor<br>point<br>absurd<br>hybrid
-bip_39_word_new_br_5: vendor<br>point<br>absurd<br>hybrid<br>cattle
-bip_39_word_new_br_6: vendor<br>point<br>absurd<br>hybrid<br>cattle<br>arrange
-bip_39_word_new_br_7: vendor<br>point<br>absurd<br>hybrid<br>cattle<br>arrange<br>clown
-bip_39_word_new_br_8: vendor<br>point<br>absurd<br>hybrid<br>cattle<br>arrange<br>clown<br>receive
-bip_39_word_new_br_9: vendor<br>point<br>absurd<br>hybrid<br>cattle<br>arrange<br>clown<br>receive<br>focus
-bip_39_word_new_line_1: vendor
-bip_39_word_new_line_10: 'vendor
-
-  point
-
-  absurd
-
-  hybrid
-
-  cattle
-
-  arrange
-
-  clown
-
-  receive
-
-  focus
-
-  rabbit'
-bip_39_word_new_line_11: 'vendor
-
-  point
-
-  absurd
-
-  hybrid
-
-  cattle
-
-  arrange
-
-  clown
-
-  receive
-
-  focus
-
-  rabbit
-
-  tree'
 bip_39_word_new_line_12: 'vendor
 
   point
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'vendor
   point
 
   absurd'
-bip_39_word_new_line_4: 'vendor
-
-  point
-
-  absurd
-
-  hybrid'
-bip_39_word_new_line_5: 'vendor
-
-  point
-
-  absurd
-
-  hybrid
-
-  cattle'
-bip_39_word_new_line_6: 'vendor
-
-  point
-
-  absurd
-
-  hybrid
-
-  cattle
-
-  arrange'
-bip_39_word_new_line_7: 'vendor
-
-  point
-
-  absurd
-
-  hybrid
-
-  cattle
-
-  arrange
-
-  clown'
-bip_39_word_new_line_8: 'vendor
-
-  point
-
-  absurd
-
-  hybrid
-
-  cattle
-
-  arrange
-
-  clown
-
-  receive'
-bip_39_word_new_line_9: 'vendor
-
-  point
-
-  absurd
-
-  hybrid
-
-  cattle
-
-  arrange
-
-  clown
-
-  receive
-
-  focus'
-bip_39_word_no_space_1: vendor
-bip_39_word_no_space_10: vendorpointabsurdhybridcattlearrangeclownreceivefocusrabbit
-bip_39_word_no_space_11: vendorpointabsurdhybridcattlearrangeclownreceivefocusrabbittree
 bip_39_word_no_space_12: vendorpointabsurdhybridcattlearrangeclownreceivefocusrabbittreealter
 bip_39_word_no_space_2: vendorpoint
 bip_39_word_no_space_3: vendorpointabsurd
-bip_39_word_no_space_4: vendorpointabsurdhybrid
-bip_39_word_no_space_5: vendorpointabsurdhybridcattle
-bip_39_word_no_space_6: vendorpointabsurdhybridcattlearrange
-bip_39_word_no_space_7: vendorpointabsurdhybridcattlearrangeclown
-bip_39_word_no_space_8: vendorpointabsurdhybridcattlearrangeclownreceive
-bip_39_word_no_space_9: vendorpointabsurdhybridcattlearrangeclownreceivefocus
-bip_39_word_space_0:
-- vendor
-- point
-- absurd
-- hybrid
-- cattle
-- arrange
-- clown
-- receive
-- focus
-- rabbit
-- tree
-- alter
-bip_39_word_space_1: vendor
-bip_39_word_space_10: vendor point absurd hybrid cattle arrange clown receive focus
-  rabbit
-bip_39_word_space_11: vendor point absurd hybrid cattle arrange clown receive focus
-  rabbit tree
 bip_39_word_space_12: vendor point absurd hybrid cattle arrange clown receive focus
   rabbit tree alter
 bip_39_word_space_2: vendor point
 bip_39_word_space_3: vendor point absurd
-bip_39_word_space_4: vendor point absurd hybrid
-bip_39_word_space_5: vendor point absurd hybrid cattle
-bip_39_word_space_6: vendor point absurd hybrid cattle arrange
-bip_39_word_space_7: vendor point absurd hybrid cattle arrange clown
-bip_39_word_space_8: vendor point absurd hybrid cattle arrange clown receive
-bip_39_word_space_9: vendor point absurd hybrid cattle arrange clown receive focus
-bip_39_word_underscore_1: vendor
-bip_39_word_underscore_10: vendor_point_absurd_hybrid_cattle_arrange_clown_receive_focus_rabbit
-bip_39_word_underscore_11: vendor_point_absurd_hybrid_cattle_arrange_clown_receive_focus_rabbit_tree
 bip_39_word_underscore_12: vendor_point_absurd_hybrid_cattle_arrange_clown_receive_focus_rabbit_tree_alter
 bip_39_word_underscore_2: vendor_point
 bip_39_word_underscore_3: vendor_point_absurd
-bip_39_word_underscore_4: vendor_point_absurd_hybrid
-bip_39_word_underscore_5: vendor_point_absurd_hybrid_cattle
-bip_39_word_underscore_6: vendor_point_absurd_hybrid_cattle_arrange
-bip_39_word_underscore_7: vendor_point_absurd_hybrid_cattle_arrange_clown
-bip_39_word_underscore_8: vendor_point_absurd_hybrid_cattle_arrange_clown_receive
-bip_39_word_underscore_9: vendor_point_absurd_hybrid_cattle_arrange_clown_receive_focus
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

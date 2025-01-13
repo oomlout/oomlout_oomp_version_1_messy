@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dish
-bip_39_word_dash_10: dish-sad-pilot-more-armed-picnic-tired-code-clip-minute
-bip_39_word_dash_11: dish-sad-pilot-more-armed-picnic-tired-code-clip-minute-swim
 bip_39_word_dash_12: dish-sad-pilot-more-armed-picnic-tired-code-clip-minute-swim-all
 bip_39_word_dash_2: dish-sad
 bip_39_word_dash_3: dish-sad-pilot
-bip_39_word_dash_4: dish-sad-pilot-more
-bip_39_word_dash_5: dish-sad-pilot-more-armed
-bip_39_word_dash_6: dish-sad-pilot-more-armed-picnic
-bip_39_word_dash_7: dish-sad-pilot-more-armed-picnic-tired
-bip_39_word_dash_8: dish-sad-pilot-more-armed-picnic-tired-code
-bip_39_word_dash_9: dish-sad-pilot-more-armed-picnic-tired-code-clip
-bip_39_word_new_br_1: dish
-bip_39_word_new_br_10: dish<br>sad<br>pilot<br>more<br>armed<br>picnic<br>tired<br>code<br>clip<br>minute
-bip_39_word_new_br_11: dish<br>sad<br>pilot<br>more<br>armed<br>picnic<br>tired<br>code<br>clip<br>minute<br>swim
 bip_39_word_new_br_12: dish<br>sad<br>pilot<br>more<br>armed<br>picnic<br>tired<br>code<br>clip<br>minute<br>swim<br>all
 bip_39_word_new_br_2: dish<br>sad
 bip_39_word_new_br_3: dish<br>sad<br>pilot
-bip_39_word_new_br_4: dish<br>sad<br>pilot<br>more
-bip_39_word_new_br_5: dish<br>sad<br>pilot<br>more<br>armed
-bip_39_word_new_br_6: dish<br>sad<br>pilot<br>more<br>armed<br>picnic
-bip_39_word_new_br_7: dish<br>sad<br>pilot<br>more<br>armed<br>picnic<br>tired
-bip_39_word_new_br_8: dish<br>sad<br>pilot<br>more<br>armed<br>picnic<br>tired<br>code
-bip_39_word_new_br_9: dish<br>sad<br>pilot<br>more<br>armed<br>picnic<br>tired<br>code<br>clip
-bip_39_word_new_line_1: dish
-bip_39_word_new_line_10: 'dish
-
-  sad
-
-  pilot
-
-  more
-
-  armed
-
-  picnic
-
-  tired
-
-  code
-
-  clip
-
-  minute'
-bip_39_word_new_line_11: 'dish
-
-  sad
-
-  pilot
-
-  more
-
-  armed
-
-  picnic
-
-  tired
-
-  code
-
-  clip
-
-  minute
-
-  swim'
 bip_39_word_new_line_12: 'dish
 
   sad
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'dish
   sad
 
   pilot'
-bip_39_word_new_line_4: 'dish
-
-  sad
-
-  pilot
-
-  more'
-bip_39_word_new_line_5: 'dish
-
-  sad
-
-  pilot
-
-  more
-
-  armed'
-bip_39_word_new_line_6: 'dish
-
-  sad
-
-  pilot
-
-  more
-
-  armed
-
-  picnic'
-bip_39_word_new_line_7: 'dish
-
-  sad
-
-  pilot
-
-  more
-
-  armed
-
-  picnic
-
-  tired'
-bip_39_word_new_line_8: 'dish
-
-  sad
-
-  pilot
-
-  more
-
-  armed
-
-  picnic
-
-  tired
-
-  code'
-bip_39_word_new_line_9: 'dish
-
-  sad
-
-  pilot
-
-  more
-
-  armed
-
-  picnic
-
-  tired
-
-  code
-
-  clip'
-bip_39_word_no_space_1: dish
-bip_39_word_no_space_10: dishsadpilotmorearmedpicnictiredcodeclipminute
-bip_39_word_no_space_11: dishsadpilotmorearmedpicnictiredcodeclipminuteswim
 bip_39_word_no_space_12: dishsadpilotmorearmedpicnictiredcodeclipminuteswimall
 bip_39_word_no_space_2: dishsad
 bip_39_word_no_space_3: dishsadpilot
-bip_39_word_no_space_4: dishsadpilotmore
-bip_39_word_no_space_5: dishsadpilotmorearmed
-bip_39_word_no_space_6: dishsadpilotmorearmedpicnic
-bip_39_word_no_space_7: dishsadpilotmorearmedpicnictired
-bip_39_word_no_space_8: dishsadpilotmorearmedpicnictiredcode
-bip_39_word_no_space_9: dishsadpilotmorearmedpicnictiredcodeclip
-bip_39_word_space_0:
-- dish
-- sad
-- pilot
-- more
-- armed
-- picnic
-- tired
-- code
-- clip
-- minute
-- swim
-- all
-bip_39_word_space_1: dish
-bip_39_word_space_10: dish sad pilot more armed picnic tired code clip minute
-bip_39_word_space_11: dish sad pilot more armed picnic tired code clip minute swim
 bip_39_word_space_12: dish sad pilot more armed picnic tired code clip minute swim
   all
 bip_39_word_space_2: dish sad
 bip_39_word_space_3: dish sad pilot
-bip_39_word_space_4: dish sad pilot more
-bip_39_word_space_5: dish sad pilot more armed
-bip_39_word_space_6: dish sad pilot more armed picnic
-bip_39_word_space_7: dish sad pilot more armed picnic tired
-bip_39_word_space_8: dish sad pilot more armed picnic tired code
-bip_39_word_space_9: dish sad pilot more armed picnic tired code clip
-bip_39_word_underscore_1: dish
-bip_39_word_underscore_10: dish_sad_pilot_more_armed_picnic_tired_code_clip_minute
-bip_39_word_underscore_11: dish_sad_pilot_more_armed_picnic_tired_code_clip_minute_swim
 bip_39_word_underscore_12: dish_sad_pilot_more_armed_picnic_tired_code_clip_minute_swim_all
 bip_39_word_underscore_2: dish_sad
 bip_39_word_underscore_3: dish_sad_pilot
-bip_39_word_underscore_4: dish_sad_pilot_more
-bip_39_word_underscore_5: dish_sad_pilot_more_armed
-bip_39_word_underscore_6: dish_sad_pilot_more_armed_picnic
-bip_39_word_underscore_7: dish_sad_pilot_more_armed_picnic_tired
-bip_39_word_underscore_8: dish_sad_pilot_more_armed_picnic_tired_code
-bip_39_word_underscore_9: dish_sad_pilot_more_armed_picnic_tired_code_clip
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glory
-bip_39_word_dash_10: glory-ready-bird-salt-elegant-filter-dumb-blossom-flip-swarm
-bip_39_word_dash_11: glory-ready-bird-salt-elegant-filter-dumb-blossom-flip-swarm-denial
 bip_39_word_dash_12: glory-ready-bird-salt-elegant-filter-dumb-blossom-flip-swarm-denial-arrest
 bip_39_word_dash_2: glory-ready
 bip_39_word_dash_3: glory-ready-bird
-bip_39_word_dash_4: glory-ready-bird-salt
-bip_39_word_dash_5: glory-ready-bird-salt-elegant
-bip_39_word_dash_6: glory-ready-bird-salt-elegant-filter
-bip_39_word_dash_7: glory-ready-bird-salt-elegant-filter-dumb
-bip_39_word_dash_8: glory-ready-bird-salt-elegant-filter-dumb-blossom
-bip_39_word_dash_9: glory-ready-bird-salt-elegant-filter-dumb-blossom-flip
-bip_39_word_new_br_1: glory
-bip_39_word_new_br_10: glory<br>ready<br>bird<br>salt<br>elegant<br>filter<br>dumb<br>blossom<br>flip<br>swarm
-bip_39_word_new_br_11: glory<br>ready<br>bird<br>salt<br>elegant<br>filter<br>dumb<br>blossom<br>flip<br>swarm<br>denial
 bip_39_word_new_br_12: glory<br>ready<br>bird<br>salt<br>elegant<br>filter<br>dumb<br>blossom<br>flip<br>swarm<br>denial<br>arrest
 bip_39_word_new_br_2: glory<br>ready
 bip_39_word_new_br_3: glory<br>ready<br>bird
-bip_39_word_new_br_4: glory<br>ready<br>bird<br>salt
-bip_39_word_new_br_5: glory<br>ready<br>bird<br>salt<br>elegant
-bip_39_word_new_br_6: glory<br>ready<br>bird<br>salt<br>elegant<br>filter
-bip_39_word_new_br_7: glory<br>ready<br>bird<br>salt<br>elegant<br>filter<br>dumb
-bip_39_word_new_br_8: glory<br>ready<br>bird<br>salt<br>elegant<br>filter<br>dumb<br>blossom
-bip_39_word_new_br_9: glory<br>ready<br>bird<br>salt<br>elegant<br>filter<br>dumb<br>blossom<br>flip
-bip_39_word_new_line_1: glory
-bip_39_word_new_line_10: 'glory
-
-  ready
-
-  bird
-
-  salt
-
-  elegant
-
-  filter
-
-  dumb
-
-  blossom
-
-  flip
-
-  swarm'
-bip_39_word_new_line_11: 'glory
-
-  ready
-
-  bird
-
-  salt
-
-  elegant
-
-  filter
-
-  dumb
-
-  blossom
-
-  flip
-
-  swarm
-
-  denial'
 bip_39_word_new_line_12: 'glory
 
   ready
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'glory
   ready
 
   bird'
-bip_39_word_new_line_4: 'glory
-
-  ready
-
-  bird
-
-  salt'
-bip_39_word_new_line_5: 'glory
-
-  ready
-
-  bird
-
-  salt
-
-  elegant'
-bip_39_word_new_line_6: 'glory
-
-  ready
-
-  bird
-
-  salt
-
-  elegant
-
-  filter'
-bip_39_word_new_line_7: 'glory
-
-  ready
-
-  bird
-
-  salt
-
-  elegant
-
-  filter
-
-  dumb'
-bip_39_word_new_line_8: 'glory
-
-  ready
-
-  bird
-
-  salt
-
-  elegant
-
-  filter
-
-  dumb
-
-  blossom'
-bip_39_word_new_line_9: 'glory
-
-  ready
-
-  bird
-
-  salt
-
-  elegant
-
-  filter
-
-  dumb
-
-  blossom
-
-  flip'
-bip_39_word_no_space_1: glory
-bip_39_word_no_space_10: gloryreadybirdsaltelegantfilterdumbblossomflipswarm
-bip_39_word_no_space_11: gloryreadybirdsaltelegantfilterdumbblossomflipswarmdenial
 bip_39_word_no_space_12: gloryreadybirdsaltelegantfilterdumbblossomflipswarmdenialarrest
 bip_39_word_no_space_2: gloryready
 bip_39_word_no_space_3: gloryreadybird
-bip_39_word_no_space_4: gloryreadybirdsalt
-bip_39_word_no_space_5: gloryreadybirdsaltelegant
-bip_39_word_no_space_6: gloryreadybirdsaltelegantfilter
-bip_39_word_no_space_7: gloryreadybirdsaltelegantfilterdumb
-bip_39_word_no_space_8: gloryreadybirdsaltelegantfilterdumbblossom
-bip_39_word_no_space_9: gloryreadybirdsaltelegantfilterdumbblossomflip
-bip_39_word_space_0:
-- glory
-- ready
-- bird
-- salt
-- elegant
-- filter
-- dumb
-- blossom
-- flip
-- swarm
-- denial
-- arrest
-bip_39_word_space_1: glory
-bip_39_word_space_10: glory ready bird salt elegant filter dumb blossom flip swarm
-bip_39_word_space_11: glory ready bird salt elegant filter dumb blossom flip swarm
-  denial
 bip_39_word_space_12: glory ready bird salt elegant filter dumb blossom flip swarm
   denial arrest
 bip_39_word_space_2: glory ready
 bip_39_word_space_3: glory ready bird
-bip_39_word_space_4: glory ready bird salt
-bip_39_word_space_5: glory ready bird salt elegant
-bip_39_word_space_6: glory ready bird salt elegant filter
-bip_39_word_space_7: glory ready bird salt elegant filter dumb
-bip_39_word_space_8: glory ready bird salt elegant filter dumb blossom
-bip_39_word_space_9: glory ready bird salt elegant filter dumb blossom flip
-bip_39_word_underscore_1: glory
-bip_39_word_underscore_10: glory_ready_bird_salt_elegant_filter_dumb_blossom_flip_swarm
-bip_39_word_underscore_11: glory_ready_bird_salt_elegant_filter_dumb_blossom_flip_swarm_denial
 bip_39_word_underscore_12: glory_ready_bird_salt_elegant_filter_dumb_blossom_flip_swarm_denial_arrest
 bip_39_word_underscore_2: glory_ready
 bip_39_word_underscore_3: glory_ready_bird
-bip_39_word_underscore_4: glory_ready_bird_salt
-bip_39_word_underscore_5: glory_ready_bird_salt_elegant
-bip_39_word_underscore_6: glory_ready_bird_salt_elegant_filter
-bip_39_word_underscore_7: glory_ready_bird_salt_elegant_filter_dumb
-bip_39_word_underscore_8: glory_ready_bird_salt_elegant_filter_dumb_blossom
-bip_39_word_underscore_9: glory_ready_bird_salt_elegant_filter_dumb_blossom_flip
 classification: food
 classification_capital: Food
 classification_first_letter: f

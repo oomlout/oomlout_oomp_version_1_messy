@@ -1,45 +1,9 @@
-bip_39_word_dash_1: crawl
-bip_39_word_dash_10: crawl-brass-arrest-snake-stable-theory-way-parade-melt-hat
 bip_39_word_dash_11: crawl-brass-arrest-snake-stable-theory-way-parade-melt-hat-neck
 bip_39_word_dash_2: crawl-brass
 bip_39_word_dash_3: crawl-brass-arrest
-bip_39_word_dash_4: crawl-brass-arrest-snake
-bip_39_word_dash_5: crawl-brass-arrest-snake-stable
-bip_39_word_dash_6: crawl-brass-arrest-snake-stable-theory
-bip_39_word_dash_7: crawl-brass-arrest-snake-stable-theory-way
-bip_39_word_dash_8: crawl-brass-arrest-snake-stable-theory-way-parade
-bip_39_word_dash_9: crawl-brass-arrest-snake-stable-theory-way-parade-melt
-bip_39_word_new_br_1: crawl
-bip_39_word_new_br_10: crawl<br>brass<br>arrest<br>snake<br>stable<br>theory<br>way<br>parade<br>melt<br>hat
 bip_39_word_new_br_11: crawl<br>brass<br>arrest<br>snake<br>stable<br>theory<br>way<br>parade<br>melt<br>hat<br>neck
 bip_39_word_new_br_2: crawl<br>brass
 bip_39_word_new_br_3: crawl<br>brass<br>arrest
-bip_39_word_new_br_4: crawl<br>brass<br>arrest<br>snake
-bip_39_word_new_br_5: crawl<br>brass<br>arrest<br>snake<br>stable
-bip_39_word_new_br_6: crawl<br>brass<br>arrest<br>snake<br>stable<br>theory
-bip_39_word_new_br_7: crawl<br>brass<br>arrest<br>snake<br>stable<br>theory<br>way
-bip_39_word_new_br_8: crawl<br>brass<br>arrest<br>snake<br>stable<br>theory<br>way<br>parade
-bip_39_word_new_br_9: crawl<br>brass<br>arrest<br>snake<br>stable<br>theory<br>way<br>parade<br>melt
-bip_39_word_new_line_1: crawl
-bip_39_word_new_line_10: 'crawl
-
-  brass
-
-  arrest
-
-  snake
-
-  stable
-
-  theory
-
-  way
-
-  parade
-
-  melt
-
-  hat'
 bip_39_word_new_line_11: 'crawl
 
   brass
@@ -69,123 +33,15 @@ bip_39_word_new_line_3: 'crawl
   brass
 
   arrest'
-bip_39_word_new_line_4: 'crawl
-
-  brass
-
-  arrest
-
-  snake'
-bip_39_word_new_line_5: 'crawl
-
-  brass
-
-  arrest
-
-  snake
-
-  stable'
-bip_39_word_new_line_6: 'crawl
-
-  brass
-
-  arrest
-
-  snake
-
-  stable
-
-  theory'
-bip_39_word_new_line_7: 'crawl
-
-  brass
-
-  arrest
-
-  snake
-
-  stable
-
-  theory
-
-  way'
-bip_39_word_new_line_8: 'crawl
-
-  brass
-
-  arrest
-
-  snake
-
-  stable
-
-  theory
-
-  way
-
-  parade'
-bip_39_word_new_line_9: 'crawl
-
-  brass
-
-  arrest
-
-  snake
-
-  stable
-
-  theory
-
-  way
-
-  parade
-
-  melt'
-bip_39_word_no_space_1: crawl
-bip_39_word_no_space_10: crawlbrassarrestsnakestabletheorywayparademelthat
 bip_39_word_no_space_11: crawlbrassarrestsnakestabletheorywayparademelthatneck
 bip_39_word_no_space_2: crawlbrass
 bip_39_word_no_space_3: crawlbrassarrest
-bip_39_word_no_space_4: crawlbrassarrestsnake
-bip_39_word_no_space_5: crawlbrassarrestsnakestable
-bip_39_word_no_space_6: crawlbrassarrestsnakestabletheory
-bip_39_word_no_space_7: crawlbrassarrestsnakestabletheoryway
-bip_39_word_no_space_8: crawlbrassarrestsnakestabletheorywayparade
-bip_39_word_no_space_9: crawlbrassarrestsnakestabletheorywayparademelt
-bip_39_word_space_0:
-- crawl
-- brass
-- arrest
-- snake
-- stable
-- theory
-- way
-- parade
-- melt
-- hat
-- neck
-bip_39_word_space_1: crawl
-bip_39_word_space_10: crawl brass arrest snake stable theory way parade melt hat
 bip_39_word_space_11: crawl brass arrest snake stable theory way parade melt hat neck
 bip_39_word_space_2: crawl brass
 bip_39_word_space_3: crawl brass arrest
-bip_39_word_space_4: crawl brass arrest snake
-bip_39_word_space_5: crawl brass arrest snake stable
-bip_39_word_space_6: crawl brass arrest snake stable theory
-bip_39_word_space_7: crawl brass arrest snake stable theory way
-bip_39_word_space_8: crawl brass arrest snake stable theory way parade
-bip_39_word_space_9: crawl brass arrest snake stable theory way parade melt
-bip_39_word_underscore_1: crawl
-bip_39_word_underscore_10: crawl_brass_arrest_snake_stable_theory_way_parade_melt_hat
 bip_39_word_underscore_11: crawl_brass_arrest_snake_stable_theory_way_parade_melt_hat_neck
 bip_39_word_underscore_2: crawl_brass
 bip_39_word_underscore_3: crawl_brass_arrest
-bip_39_word_underscore_4: crawl_brass_arrest_snake
-bip_39_word_underscore_5: crawl_brass_arrest_snake_stable
-bip_39_word_underscore_6: crawl_brass_arrest_snake_stable_theory
-bip_39_word_underscore_7: crawl_brass_arrest_snake_stable_theory_way
-bip_39_word_underscore_8: crawl_brass_arrest_snake_stable_theory_way_parade
-bip_39_word_underscore_9: crawl_brass_arrest_snake_stable_theory_way_parade_melt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

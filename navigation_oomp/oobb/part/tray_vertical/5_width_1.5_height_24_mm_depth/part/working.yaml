@@ -1,68 +1,9 @@
-bip_39_word_dash_1: load
-bip_39_word_dash_10: load-cannon-develop-sugar-execute-voyage-crop-biology-guard-point
-bip_39_word_dash_11: load-cannon-develop-sugar-execute-voyage-crop-biology-guard-point-bar
 bip_39_word_dash_12: load-cannon-develop-sugar-execute-voyage-crop-biology-guard-point-bar-auto
 bip_39_word_dash_2: load-cannon
 bip_39_word_dash_3: load-cannon-develop
-bip_39_word_dash_4: load-cannon-develop-sugar
-bip_39_word_dash_5: load-cannon-develop-sugar-execute
-bip_39_word_dash_6: load-cannon-develop-sugar-execute-voyage
-bip_39_word_dash_7: load-cannon-develop-sugar-execute-voyage-crop
-bip_39_word_dash_8: load-cannon-develop-sugar-execute-voyage-crop-biology
-bip_39_word_dash_9: load-cannon-develop-sugar-execute-voyage-crop-biology-guard
-bip_39_word_new_br_1: load
-bip_39_word_new_br_10: load<br>cannon<br>develop<br>sugar<br>execute<br>voyage<br>crop<br>biology<br>guard<br>point
-bip_39_word_new_br_11: load<br>cannon<br>develop<br>sugar<br>execute<br>voyage<br>crop<br>biology<br>guard<br>point<br>bar
 bip_39_word_new_br_12: load<br>cannon<br>develop<br>sugar<br>execute<br>voyage<br>crop<br>biology<br>guard<br>point<br>bar<br>auto
 bip_39_word_new_br_2: load<br>cannon
 bip_39_word_new_br_3: load<br>cannon<br>develop
-bip_39_word_new_br_4: load<br>cannon<br>develop<br>sugar
-bip_39_word_new_br_5: load<br>cannon<br>develop<br>sugar<br>execute
-bip_39_word_new_br_6: load<br>cannon<br>develop<br>sugar<br>execute<br>voyage
-bip_39_word_new_br_7: load<br>cannon<br>develop<br>sugar<br>execute<br>voyage<br>crop
-bip_39_word_new_br_8: load<br>cannon<br>develop<br>sugar<br>execute<br>voyage<br>crop<br>biology
-bip_39_word_new_br_9: load<br>cannon<br>develop<br>sugar<br>execute<br>voyage<br>crop<br>biology<br>guard
-bip_39_word_new_line_1: load
-bip_39_word_new_line_10: 'load
-
-  cannon
-
-  develop
-
-  sugar
-
-  execute
-
-  voyage
-
-  crop
-
-  biology
-
-  guard
-
-  point'
-bip_39_word_new_line_11: 'load
-
-  cannon
-
-  develop
-
-  sugar
-
-  execute
-
-  voyage
-
-  crop
-
-  biology
-
-  guard
-
-  point
-
-  bar'
 bip_39_word_new_line_12: 'load
 
   cannon
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'load
   cannon
 
   develop'
-bip_39_word_new_line_4: 'load
-
-  cannon
-
-  develop
-
-  sugar'
-bip_39_word_new_line_5: 'load
-
-  cannon
-
-  develop
-
-  sugar
-
-  execute'
-bip_39_word_new_line_6: 'load
-
-  cannon
-
-  develop
-
-  sugar
-
-  execute
-
-  voyage'
-bip_39_word_new_line_7: 'load
-
-  cannon
-
-  develop
-
-  sugar
-
-  execute
-
-  voyage
-
-  crop'
-bip_39_word_new_line_8: 'load
-
-  cannon
-
-  develop
-
-  sugar
-
-  execute
-
-  voyage
-
-  crop
-
-  biology'
-bip_39_word_new_line_9: 'load
-
-  cannon
-
-  develop
-
-  sugar
-
-  execute
-
-  voyage
-
-  crop
-
-  biology
-
-  guard'
-bip_39_word_no_space_1: load
-bip_39_word_no_space_10: loadcannondevelopsugarexecutevoyagecropbiologyguardpoint
-bip_39_word_no_space_11: loadcannondevelopsugarexecutevoyagecropbiologyguardpointbar
 bip_39_word_no_space_12: loadcannondevelopsugarexecutevoyagecropbiologyguardpointbarauto
 bip_39_word_no_space_2: loadcannon
 bip_39_word_no_space_3: loadcannondevelop
-bip_39_word_no_space_4: loadcannondevelopsugar
-bip_39_word_no_space_5: loadcannondevelopsugarexecute
-bip_39_word_no_space_6: loadcannondevelopsugarexecutevoyage
-bip_39_word_no_space_7: loadcannondevelopsugarexecutevoyagecrop
-bip_39_word_no_space_8: loadcannondevelopsugarexecutevoyagecropbiology
-bip_39_word_no_space_9: loadcannondevelopsugarexecutevoyagecropbiologyguard
-bip_39_word_space_0:
-- load
-- cannon
-- develop
-- sugar
-- execute
-- voyage
-- crop
-- biology
-- guard
-- point
-- bar
-- auto
-bip_39_word_space_1: load
-bip_39_word_space_10: load cannon develop sugar execute voyage crop biology guard
-  point
-bip_39_word_space_11: load cannon develop sugar execute voyage crop biology guard
-  point bar
 bip_39_word_space_12: load cannon develop sugar execute voyage crop biology guard
   point bar auto
 bip_39_word_space_2: load cannon
 bip_39_word_space_3: load cannon develop
-bip_39_word_space_4: load cannon develop sugar
-bip_39_word_space_5: load cannon develop sugar execute
-bip_39_word_space_6: load cannon develop sugar execute voyage
-bip_39_word_space_7: load cannon develop sugar execute voyage crop
-bip_39_word_space_8: load cannon develop sugar execute voyage crop biology
-bip_39_word_space_9: load cannon develop sugar execute voyage crop biology guard
-bip_39_word_underscore_1: load
-bip_39_word_underscore_10: load_cannon_develop_sugar_execute_voyage_crop_biology_guard_point
-bip_39_word_underscore_11: load_cannon_develop_sugar_execute_voyage_crop_biology_guard_point_bar
 bip_39_word_underscore_12: load_cannon_develop_sugar_execute_voyage_crop_biology_guard_point_bar_auto
 bip_39_word_underscore_2: load_cannon
 bip_39_word_underscore_3: load_cannon_develop
-bip_39_word_underscore_4: load_cannon_develop_sugar
-bip_39_word_underscore_5: load_cannon_develop_sugar_execute
-bip_39_word_underscore_6: load_cannon_develop_sugar_execute_voyage
-bip_39_word_underscore_7: load_cannon_develop_sugar_execute_voyage_crop
-bip_39_word_underscore_8: load_cannon_develop_sugar_execute_voyage_crop_biology
-bip_39_word_underscore_9: load_cannon_develop_sugar_execute_voyage_crop_biology_guard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

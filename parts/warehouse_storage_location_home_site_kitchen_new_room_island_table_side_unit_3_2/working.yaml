@@ -1,68 +1,9 @@
-bip_39_word_dash_1: present
-bip_39_word_dash_10: present-oxygen-test-tone-dog-field-breeze-swarm-dust-try
-bip_39_word_dash_11: present-oxygen-test-tone-dog-field-breeze-swarm-dust-try-nose
 bip_39_word_dash_12: present-oxygen-test-tone-dog-field-breeze-swarm-dust-try-nose-achieve
 bip_39_word_dash_2: present-oxygen
 bip_39_word_dash_3: present-oxygen-test
-bip_39_word_dash_4: present-oxygen-test-tone
-bip_39_word_dash_5: present-oxygen-test-tone-dog
-bip_39_word_dash_6: present-oxygen-test-tone-dog-field
-bip_39_word_dash_7: present-oxygen-test-tone-dog-field-breeze
-bip_39_word_dash_8: present-oxygen-test-tone-dog-field-breeze-swarm
-bip_39_word_dash_9: present-oxygen-test-tone-dog-field-breeze-swarm-dust
-bip_39_word_new_br_1: present
-bip_39_word_new_br_10: present<br>oxygen<br>test<br>tone<br>dog<br>field<br>breeze<br>swarm<br>dust<br>try
-bip_39_word_new_br_11: present<br>oxygen<br>test<br>tone<br>dog<br>field<br>breeze<br>swarm<br>dust<br>try<br>nose
 bip_39_word_new_br_12: present<br>oxygen<br>test<br>tone<br>dog<br>field<br>breeze<br>swarm<br>dust<br>try<br>nose<br>achieve
 bip_39_word_new_br_2: present<br>oxygen
 bip_39_word_new_br_3: present<br>oxygen<br>test
-bip_39_word_new_br_4: present<br>oxygen<br>test<br>tone
-bip_39_word_new_br_5: present<br>oxygen<br>test<br>tone<br>dog
-bip_39_word_new_br_6: present<br>oxygen<br>test<br>tone<br>dog<br>field
-bip_39_word_new_br_7: present<br>oxygen<br>test<br>tone<br>dog<br>field<br>breeze
-bip_39_word_new_br_8: present<br>oxygen<br>test<br>tone<br>dog<br>field<br>breeze<br>swarm
-bip_39_word_new_br_9: present<br>oxygen<br>test<br>tone<br>dog<br>field<br>breeze<br>swarm<br>dust
-bip_39_word_new_line_1: present
-bip_39_word_new_line_10: 'present
-
-  oxygen
-
-  test
-
-  tone
-
-  dog
-
-  field
-
-  breeze
-
-  swarm
-
-  dust
-
-  try'
-bip_39_word_new_line_11: 'present
-
-  oxygen
-
-  test
-
-  tone
-
-  dog
-
-  field
-
-  breeze
-
-  swarm
-
-  dust
-
-  try
-
-  nose'
 bip_39_word_new_line_12: 'present
 
   oxygen
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'present
   oxygen
 
   test'
-bip_39_word_new_line_4: 'present
-
-  oxygen
-
-  test
-
-  tone'
-bip_39_word_new_line_5: 'present
-
-  oxygen
-
-  test
-
-  tone
-
-  dog'
-bip_39_word_new_line_6: 'present
-
-  oxygen
-
-  test
-
-  tone
-
-  dog
-
-  field'
-bip_39_word_new_line_7: 'present
-
-  oxygen
-
-  test
-
-  tone
-
-  dog
-
-  field
-
-  breeze'
-bip_39_word_new_line_8: 'present
-
-  oxygen
-
-  test
-
-  tone
-
-  dog
-
-  field
-
-  breeze
-
-  swarm'
-bip_39_word_new_line_9: 'present
-
-  oxygen
-
-  test
-
-  tone
-
-  dog
-
-  field
-
-  breeze
-
-  swarm
-
-  dust'
-bip_39_word_no_space_1: present
-bip_39_word_no_space_10: presentoxygentesttonedogfieldbreezeswarmdusttry
-bip_39_word_no_space_11: presentoxygentesttonedogfieldbreezeswarmdusttrynose
 bip_39_word_no_space_12: presentoxygentesttonedogfieldbreezeswarmdusttrynoseachieve
 bip_39_word_no_space_2: presentoxygen
 bip_39_word_no_space_3: presentoxygentest
-bip_39_word_no_space_4: presentoxygentesttone
-bip_39_word_no_space_5: presentoxygentesttonedog
-bip_39_word_no_space_6: presentoxygentesttonedogfield
-bip_39_word_no_space_7: presentoxygentesttonedogfieldbreeze
-bip_39_word_no_space_8: presentoxygentesttonedogfieldbreezeswarm
-bip_39_word_no_space_9: presentoxygentesttonedogfieldbreezeswarmdust
-bip_39_word_space_0:
-- present
-- oxygen
-- test
-- tone
-- dog
-- field
-- breeze
-- swarm
-- dust
-- try
-- nose
-- achieve
-bip_39_word_space_1: present
-bip_39_word_space_10: present oxygen test tone dog field breeze swarm dust try
-bip_39_word_space_11: present oxygen test tone dog field breeze swarm dust try nose
 bip_39_word_space_12: present oxygen test tone dog field breeze swarm dust try nose
   achieve
 bip_39_word_space_2: present oxygen
 bip_39_word_space_3: present oxygen test
-bip_39_word_space_4: present oxygen test tone
-bip_39_word_space_5: present oxygen test tone dog
-bip_39_word_space_6: present oxygen test tone dog field
-bip_39_word_space_7: present oxygen test tone dog field breeze
-bip_39_word_space_8: present oxygen test tone dog field breeze swarm
-bip_39_word_space_9: present oxygen test tone dog field breeze swarm dust
-bip_39_word_underscore_1: present
-bip_39_word_underscore_10: present_oxygen_test_tone_dog_field_breeze_swarm_dust_try
-bip_39_word_underscore_11: present_oxygen_test_tone_dog_field_breeze_swarm_dust_try_nose
 bip_39_word_underscore_12: present_oxygen_test_tone_dog_field_breeze_swarm_dust_try_nose_achieve
 bip_39_word_underscore_2: present_oxygen
 bip_39_word_underscore_3: present_oxygen_test
-bip_39_word_underscore_4: present_oxygen_test_tone
-bip_39_word_underscore_5: present_oxygen_test_tone_dog
-bip_39_word_underscore_6: present_oxygen_test_tone_dog_field
-bip_39_word_underscore_7: present_oxygen_test_tone_dog_field_breeze
-bip_39_word_underscore_8: present_oxygen_test_tone_dog_field_breeze_swarm
-bip_39_word_underscore_9: present_oxygen_test_tone_dog_field_breeze_swarm_dust
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

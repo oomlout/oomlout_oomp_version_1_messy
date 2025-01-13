@@ -1,68 +1,9 @@
-bip_39_word_dash_1: diesel
-bip_39_word_dash_10: diesel-such-dizzy-where-silk-whip-pill-glory-tornado-art
-bip_39_word_dash_11: diesel-such-dizzy-where-silk-whip-pill-glory-tornado-art-tragic
 bip_39_word_dash_12: diesel-such-dizzy-where-silk-whip-pill-glory-tornado-art-tragic-alert
 bip_39_word_dash_2: diesel-such
 bip_39_word_dash_3: diesel-such-dizzy
-bip_39_word_dash_4: diesel-such-dizzy-where
-bip_39_word_dash_5: diesel-such-dizzy-where-silk
-bip_39_word_dash_6: diesel-such-dizzy-where-silk-whip
-bip_39_word_dash_7: diesel-such-dizzy-where-silk-whip-pill
-bip_39_word_dash_8: diesel-such-dizzy-where-silk-whip-pill-glory
-bip_39_word_dash_9: diesel-such-dizzy-where-silk-whip-pill-glory-tornado
-bip_39_word_new_br_1: diesel
-bip_39_word_new_br_10: diesel<br>such<br>dizzy<br>where<br>silk<br>whip<br>pill<br>glory<br>tornado<br>art
-bip_39_word_new_br_11: diesel<br>such<br>dizzy<br>where<br>silk<br>whip<br>pill<br>glory<br>tornado<br>art<br>tragic
 bip_39_word_new_br_12: diesel<br>such<br>dizzy<br>where<br>silk<br>whip<br>pill<br>glory<br>tornado<br>art<br>tragic<br>alert
 bip_39_word_new_br_2: diesel<br>such
 bip_39_word_new_br_3: diesel<br>such<br>dizzy
-bip_39_word_new_br_4: diesel<br>such<br>dizzy<br>where
-bip_39_word_new_br_5: diesel<br>such<br>dizzy<br>where<br>silk
-bip_39_word_new_br_6: diesel<br>such<br>dizzy<br>where<br>silk<br>whip
-bip_39_word_new_br_7: diesel<br>such<br>dizzy<br>where<br>silk<br>whip<br>pill
-bip_39_word_new_br_8: diesel<br>such<br>dizzy<br>where<br>silk<br>whip<br>pill<br>glory
-bip_39_word_new_br_9: diesel<br>such<br>dizzy<br>where<br>silk<br>whip<br>pill<br>glory<br>tornado
-bip_39_word_new_line_1: diesel
-bip_39_word_new_line_10: 'diesel
-
-  such
-
-  dizzy
-
-  where
-
-  silk
-
-  whip
-
-  pill
-
-  glory
-
-  tornado
-
-  art'
-bip_39_word_new_line_11: 'diesel
-
-  such
-
-  dizzy
-
-  where
-
-  silk
-
-  whip
-
-  pill
-
-  glory
-
-  tornado
-
-  art
-
-  tragic'
 bip_39_word_new_line_12: 'diesel
 
   such
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'diesel
   such
 
   dizzy'
-bip_39_word_new_line_4: 'diesel
-
-  such
-
-  dizzy
-
-  where'
-bip_39_word_new_line_5: 'diesel
-
-  such
-
-  dizzy
-
-  where
-
-  silk'
-bip_39_word_new_line_6: 'diesel
-
-  such
-
-  dizzy
-
-  where
-
-  silk
-
-  whip'
-bip_39_word_new_line_7: 'diesel
-
-  such
-
-  dizzy
-
-  where
-
-  silk
-
-  whip
-
-  pill'
-bip_39_word_new_line_8: 'diesel
-
-  such
-
-  dizzy
-
-  where
-
-  silk
-
-  whip
-
-  pill
-
-  glory'
-bip_39_word_new_line_9: 'diesel
-
-  such
-
-  dizzy
-
-  where
-
-  silk
-
-  whip
-
-  pill
-
-  glory
-
-  tornado'
-bip_39_word_no_space_1: diesel
-bip_39_word_no_space_10: dieselsuchdizzywheresilkwhippillglorytornadoart
-bip_39_word_no_space_11: dieselsuchdizzywheresilkwhippillglorytornadoarttragic
 bip_39_word_no_space_12: dieselsuchdizzywheresilkwhippillglorytornadoarttragicalert
 bip_39_word_no_space_2: dieselsuch
 bip_39_word_no_space_3: dieselsuchdizzy
-bip_39_word_no_space_4: dieselsuchdizzywhere
-bip_39_word_no_space_5: dieselsuchdizzywheresilk
-bip_39_word_no_space_6: dieselsuchdizzywheresilkwhip
-bip_39_word_no_space_7: dieselsuchdizzywheresilkwhippill
-bip_39_word_no_space_8: dieselsuchdizzywheresilkwhippillglory
-bip_39_word_no_space_9: dieselsuchdizzywheresilkwhippillglorytornado
-bip_39_word_space_0:
-- diesel
-- such
-- dizzy
-- where
-- silk
-- whip
-- pill
-- glory
-- tornado
-- art
-- tragic
-- alert
-bip_39_word_space_1: diesel
-bip_39_word_space_10: diesel such dizzy where silk whip pill glory tornado art
-bip_39_word_space_11: diesel such dizzy where silk whip pill glory tornado art tragic
 bip_39_word_space_12: diesel such dizzy where silk whip pill glory tornado art tragic
   alert
 bip_39_word_space_2: diesel such
 bip_39_word_space_3: diesel such dizzy
-bip_39_word_space_4: diesel such dizzy where
-bip_39_word_space_5: diesel such dizzy where silk
-bip_39_word_space_6: diesel such dizzy where silk whip
-bip_39_word_space_7: diesel such dizzy where silk whip pill
-bip_39_word_space_8: diesel such dizzy where silk whip pill glory
-bip_39_word_space_9: diesel such dizzy where silk whip pill glory tornado
-bip_39_word_underscore_1: diesel
-bip_39_word_underscore_10: diesel_such_dizzy_where_silk_whip_pill_glory_tornado_art
-bip_39_word_underscore_11: diesel_such_dizzy_where_silk_whip_pill_glory_tornado_art_tragic
 bip_39_word_underscore_12: diesel_such_dizzy_where_silk_whip_pill_glory_tornado_art_tragic_alert
 bip_39_word_underscore_2: diesel_such
 bip_39_word_underscore_3: diesel_such_dizzy
-bip_39_word_underscore_4: diesel_such_dizzy_where
-bip_39_word_underscore_5: diesel_such_dizzy_where_silk
-bip_39_word_underscore_6: diesel_such_dizzy_where_silk_whip
-bip_39_word_underscore_7: diesel_such_dizzy_where_silk_whip_pill
-bip_39_word_underscore_8: diesel_such_dizzy_where_silk_whip_pill_glory
-bip_39_word_underscore_9: diesel_such_dizzy_where_silk_whip_pill_glory_tornado
 classification: category
 classification_capital: Category
 classification_first_letter: c

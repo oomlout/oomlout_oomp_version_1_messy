@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shuffle
-bip_39_word_dash_10: shuffle-false-remind-split-daughter-chief-health-harsh-enforce-old
-bip_39_word_dash_11: shuffle-false-remind-split-daughter-chief-health-harsh-enforce-old-bag
 bip_39_word_dash_12: shuffle-false-remind-split-daughter-chief-health-harsh-enforce-old-bag-artefact
 bip_39_word_dash_2: shuffle-false
 bip_39_word_dash_3: shuffle-false-remind
-bip_39_word_dash_4: shuffle-false-remind-split
-bip_39_word_dash_5: shuffle-false-remind-split-daughter
-bip_39_word_dash_6: shuffle-false-remind-split-daughter-chief
-bip_39_word_dash_7: shuffle-false-remind-split-daughter-chief-health
-bip_39_word_dash_8: shuffle-false-remind-split-daughter-chief-health-harsh
-bip_39_word_dash_9: shuffle-false-remind-split-daughter-chief-health-harsh-enforce
-bip_39_word_new_br_1: shuffle
-bip_39_word_new_br_10: shuffle<br>false<br>remind<br>split<br>daughter<br>chief<br>health<br>harsh<br>enforce<br>old
-bip_39_word_new_br_11: shuffle<br>false<br>remind<br>split<br>daughter<br>chief<br>health<br>harsh<br>enforce<br>old<br>bag
 bip_39_word_new_br_12: shuffle<br>false<br>remind<br>split<br>daughter<br>chief<br>health<br>harsh<br>enforce<br>old<br>bag<br>artefact
 bip_39_word_new_br_2: shuffle<br>false
 bip_39_word_new_br_3: shuffle<br>false<br>remind
-bip_39_word_new_br_4: shuffle<br>false<br>remind<br>split
-bip_39_word_new_br_5: shuffle<br>false<br>remind<br>split<br>daughter
-bip_39_word_new_br_6: shuffle<br>false<br>remind<br>split<br>daughter<br>chief
-bip_39_word_new_br_7: shuffle<br>false<br>remind<br>split<br>daughter<br>chief<br>health
-bip_39_word_new_br_8: shuffle<br>false<br>remind<br>split<br>daughter<br>chief<br>health<br>harsh
-bip_39_word_new_br_9: shuffle<br>false<br>remind<br>split<br>daughter<br>chief<br>health<br>harsh<br>enforce
-bip_39_word_new_line_1: shuffle
-bip_39_word_new_line_10: 'shuffle
-
-  false
-
-  remind
-
-  split
-
-  daughter
-
-  chief
-
-  health
-
-  harsh
-
-  enforce
-
-  old'
-bip_39_word_new_line_11: 'shuffle
-
-  false
-
-  remind
-
-  split
-
-  daughter
-
-  chief
-
-  health
-
-  harsh
-
-  enforce
-
-  old
-
-  bag'
 bip_39_word_new_line_12: 'shuffle
 
   false
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'shuffle
   false
 
   remind'
-bip_39_word_new_line_4: 'shuffle
-
-  false
-
-  remind
-
-  split'
-bip_39_word_new_line_5: 'shuffle
-
-  false
-
-  remind
-
-  split
-
-  daughter'
-bip_39_word_new_line_6: 'shuffle
-
-  false
-
-  remind
-
-  split
-
-  daughter
-
-  chief'
-bip_39_word_new_line_7: 'shuffle
-
-  false
-
-  remind
-
-  split
-
-  daughter
-
-  chief
-
-  health'
-bip_39_word_new_line_8: 'shuffle
-
-  false
-
-  remind
-
-  split
-
-  daughter
-
-  chief
-
-  health
-
-  harsh'
-bip_39_word_new_line_9: 'shuffle
-
-  false
-
-  remind
-
-  split
-
-  daughter
-
-  chief
-
-  health
-
-  harsh
-
-  enforce'
-bip_39_word_no_space_1: shuffle
-bip_39_word_no_space_10: shufflefalseremindsplitdaughterchiefhealthharshenforceold
-bip_39_word_no_space_11: shufflefalseremindsplitdaughterchiefhealthharshenforceoldbag
 bip_39_word_no_space_12: shufflefalseremindsplitdaughterchiefhealthharshenforceoldbagartefact
 bip_39_word_no_space_2: shufflefalse
 bip_39_word_no_space_3: shufflefalseremind
-bip_39_word_no_space_4: shufflefalseremindsplit
-bip_39_word_no_space_5: shufflefalseremindsplitdaughter
-bip_39_word_no_space_6: shufflefalseremindsplitdaughterchief
-bip_39_word_no_space_7: shufflefalseremindsplitdaughterchiefhealth
-bip_39_word_no_space_8: shufflefalseremindsplitdaughterchiefhealthharsh
-bip_39_word_no_space_9: shufflefalseremindsplitdaughterchiefhealthharshenforce
-bip_39_word_space_0:
-- shuffle
-- 'false'
-- remind
-- split
-- daughter
-- chief
-- health
-- harsh
-- enforce
-- old
-- bag
-- artefact
-bip_39_word_space_1: shuffle
-bip_39_word_space_10: shuffle false remind split daughter chief health harsh enforce
-  old
-bip_39_word_space_11: shuffle false remind split daughter chief health harsh enforce
-  old bag
 bip_39_word_space_12: shuffle false remind split daughter chief health harsh enforce
   old bag artefact
 bip_39_word_space_2: shuffle false
 bip_39_word_space_3: shuffle false remind
-bip_39_word_space_4: shuffle false remind split
-bip_39_word_space_5: shuffle false remind split daughter
-bip_39_word_space_6: shuffle false remind split daughter chief
-bip_39_word_space_7: shuffle false remind split daughter chief health
-bip_39_word_space_8: shuffle false remind split daughter chief health harsh
-bip_39_word_space_9: shuffle false remind split daughter chief health harsh enforce
-bip_39_word_underscore_1: shuffle
-bip_39_word_underscore_10: shuffle_false_remind_split_daughter_chief_health_harsh_enforce_old
-bip_39_word_underscore_11: shuffle_false_remind_split_daughter_chief_health_harsh_enforce_old_bag
 bip_39_word_underscore_12: shuffle_false_remind_split_daughter_chief_health_harsh_enforce_old_bag_artefact
 bip_39_word_underscore_2: shuffle_false
 bip_39_word_underscore_3: shuffle_false_remind
-bip_39_word_underscore_4: shuffle_false_remind_split
-bip_39_word_underscore_5: shuffle_false_remind_split_daughter
-bip_39_word_underscore_6: shuffle_false_remind_split_daughter_chief
-bip_39_word_underscore_7: shuffle_false_remind_split_daughter_chief_health
-bip_39_word_underscore_8: shuffle_false_remind_split_daughter_chief_health_harsh
-bip_39_word_underscore_9: shuffle_false_remind_split_daughter_chief_health_harsh_enforce
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: van
-bip_39_word_dash_10: van-pass-hello-devote-spend-vivid-park-brisk-require-twin
-bip_39_word_dash_11: van-pass-hello-devote-spend-vivid-park-brisk-require-twin-cute
 bip_39_word_dash_12: van-pass-hello-devote-spend-vivid-park-brisk-require-twin-cute-antique
 bip_39_word_dash_2: van-pass
 bip_39_word_dash_3: van-pass-hello
-bip_39_word_dash_4: van-pass-hello-devote
-bip_39_word_dash_5: van-pass-hello-devote-spend
-bip_39_word_dash_6: van-pass-hello-devote-spend-vivid
-bip_39_word_dash_7: van-pass-hello-devote-spend-vivid-park
-bip_39_word_dash_8: van-pass-hello-devote-spend-vivid-park-brisk
-bip_39_word_dash_9: van-pass-hello-devote-spend-vivid-park-brisk-require
-bip_39_word_new_br_1: van
-bip_39_word_new_br_10: van<br>pass<br>hello<br>devote<br>spend<br>vivid<br>park<br>brisk<br>require<br>twin
-bip_39_word_new_br_11: van<br>pass<br>hello<br>devote<br>spend<br>vivid<br>park<br>brisk<br>require<br>twin<br>cute
 bip_39_word_new_br_12: van<br>pass<br>hello<br>devote<br>spend<br>vivid<br>park<br>brisk<br>require<br>twin<br>cute<br>antique
 bip_39_word_new_br_2: van<br>pass
 bip_39_word_new_br_3: van<br>pass<br>hello
-bip_39_word_new_br_4: van<br>pass<br>hello<br>devote
-bip_39_word_new_br_5: van<br>pass<br>hello<br>devote<br>spend
-bip_39_word_new_br_6: van<br>pass<br>hello<br>devote<br>spend<br>vivid
-bip_39_word_new_br_7: van<br>pass<br>hello<br>devote<br>spend<br>vivid<br>park
-bip_39_word_new_br_8: van<br>pass<br>hello<br>devote<br>spend<br>vivid<br>park<br>brisk
-bip_39_word_new_br_9: van<br>pass<br>hello<br>devote<br>spend<br>vivid<br>park<br>brisk<br>require
-bip_39_word_new_line_1: van
-bip_39_word_new_line_10: 'van
-
-  pass
-
-  hello
-
-  devote
-
-  spend
-
-  vivid
-
-  park
-
-  brisk
-
-  require
-
-  twin'
-bip_39_word_new_line_11: 'van
-
-  pass
-
-  hello
-
-  devote
-
-  spend
-
-  vivid
-
-  park
-
-  brisk
-
-  require
-
-  twin
-
-  cute'
 bip_39_word_new_line_12: 'van
 
   pass
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'van
   pass
 
   hello'
-bip_39_word_new_line_4: 'van
-
-  pass
-
-  hello
-
-  devote'
-bip_39_word_new_line_5: 'van
-
-  pass
-
-  hello
-
-  devote
-
-  spend'
-bip_39_word_new_line_6: 'van
-
-  pass
-
-  hello
-
-  devote
-
-  spend
-
-  vivid'
-bip_39_word_new_line_7: 'van
-
-  pass
-
-  hello
-
-  devote
-
-  spend
-
-  vivid
-
-  park'
-bip_39_word_new_line_8: 'van
-
-  pass
-
-  hello
-
-  devote
-
-  spend
-
-  vivid
-
-  park
-
-  brisk'
-bip_39_word_new_line_9: 'van
-
-  pass
-
-  hello
-
-  devote
-
-  spend
-
-  vivid
-
-  park
-
-  brisk
-
-  require'
-bip_39_word_no_space_1: van
-bip_39_word_no_space_10: vanpasshellodevotespendvividparkbriskrequiretwin
-bip_39_word_no_space_11: vanpasshellodevotespendvividparkbriskrequiretwincute
 bip_39_word_no_space_12: vanpasshellodevotespendvividparkbriskrequiretwincuteantique
 bip_39_word_no_space_2: vanpass
 bip_39_word_no_space_3: vanpasshello
-bip_39_word_no_space_4: vanpasshellodevote
-bip_39_word_no_space_5: vanpasshellodevotespend
-bip_39_word_no_space_6: vanpasshellodevotespendvivid
-bip_39_word_no_space_7: vanpasshellodevotespendvividpark
-bip_39_word_no_space_8: vanpasshellodevotespendvividparkbrisk
-bip_39_word_no_space_9: vanpasshellodevotespendvividparkbriskrequire
-bip_39_word_space_0:
-- van
-- pass
-- hello
-- devote
-- spend
-- vivid
-- park
-- brisk
-- require
-- twin
-- cute
-- antique
-bip_39_word_space_1: van
-bip_39_word_space_10: van pass hello devote spend vivid park brisk require twin
-bip_39_word_space_11: van pass hello devote spend vivid park brisk require twin cute
 bip_39_word_space_12: van pass hello devote spend vivid park brisk require twin cute
   antique
 bip_39_word_space_2: van pass
 bip_39_word_space_3: van pass hello
-bip_39_word_space_4: van pass hello devote
-bip_39_word_space_5: van pass hello devote spend
-bip_39_word_space_6: van pass hello devote spend vivid
-bip_39_word_space_7: van pass hello devote spend vivid park
-bip_39_word_space_8: van pass hello devote spend vivid park brisk
-bip_39_word_space_9: van pass hello devote spend vivid park brisk require
-bip_39_word_underscore_1: van
-bip_39_word_underscore_10: van_pass_hello_devote_spend_vivid_park_brisk_require_twin
-bip_39_word_underscore_11: van_pass_hello_devote_spend_vivid_park_brisk_require_twin_cute
 bip_39_word_underscore_12: van_pass_hello_devote_spend_vivid_park_brisk_require_twin_cute_antique
 bip_39_word_underscore_2: van_pass
 bip_39_word_underscore_3: van_pass_hello
-bip_39_word_underscore_4: van_pass_hello_devote
-bip_39_word_underscore_5: van_pass_hello_devote_spend
-bip_39_word_underscore_6: van_pass_hello_devote_spend_vivid
-bip_39_word_underscore_7: van_pass_hello_devote_spend_vivid_park
-bip_39_word_underscore_8: van_pass_hello_devote_spend_vivid_park_brisk
-bip_39_word_underscore_9: van_pass_hello_devote_spend_vivid_park_brisk_require
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

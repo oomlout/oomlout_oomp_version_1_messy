@@ -1,68 +1,9 @@
-bip_39_word_dash_1: release
-bip_39_word_dash_10: release-siren-ozone-fog-strategy-slide-castle-urban-easy-peanut
-bip_39_word_dash_11: release-siren-ozone-fog-strategy-slide-castle-urban-easy-peanut-limb
 bip_39_word_dash_12: release-siren-ozone-fog-strategy-slide-castle-urban-easy-peanut-limb-analyst
 bip_39_word_dash_2: release-siren
 bip_39_word_dash_3: release-siren-ozone
-bip_39_word_dash_4: release-siren-ozone-fog
-bip_39_word_dash_5: release-siren-ozone-fog-strategy
-bip_39_word_dash_6: release-siren-ozone-fog-strategy-slide
-bip_39_word_dash_7: release-siren-ozone-fog-strategy-slide-castle
-bip_39_word_dash_8: release-siren-ozone-fog-strategy-slide-castle-urban
-bip_39_word_dash_9: release-siren-ozone-fog-strategy-slide-castle-urban-easy
-bip_39_word_new_br_1: release
-bip_39_word_new_br_10: release<br>siren<br>ozone<br>fog<br>strategy<br>slide<br>castle<br>urban<br>easy<br>peanut
-bip_39_word_new_br_11: release<br>siren<br>ozone<br>fog<br>strategy<br>slide<br>castle<br>urban<br>easy<br>peanut<br>limb
 bip_39_word_new_br_12: release<br>siren<br>ozone<br>fog<br>strategy<br>slide<br>castle<br>urban<br>easy<br>peanut<br>limb<br>analyst
 bip_39_word_new_br_2: release<br>siren
 bip_39_word_new_br_3: release<br>siren<br>ozone
-bip_39_word_new_br_4: release<br>siren<br>ozone<br>fog
-bip_39_word_new_br_5: release<br>siren<br>ozone<br>fog<br>strategy
-bip_39_word_new_br_6: release<br>siren<br>ozone<br>fog<br>strategy<br>slide
-bip_39_word_new_br_7: release<br>siren<br>ozone<br>fog<br>strategy<br>slide<br>castle
-bip_39_word_new_br_8: release<br>siren<br>ozone<br>fog<br>strategy<br>slide<br>castle<br>urban
-bip_39_word_new_br_9: release<br>siren<br>ozone<br>fog<br>strategy<br>slide<br>castle<br>urban<br>easy
-bip_39_word_new_line_1: release
-bip_39_word_new_line_10: 'release
-
-  siren
-
-  ozone
-
-  fog
-
-  strategy
-
-  slide
-
-  castle
-
-  urban
-
-  easy
-
-  peanut'
-bip_39_word_new_line_11: 'release
-
-  siren
-
-  ozone
-
-  fog
-
-  strategy
-
-  slide
-
-  castle
-
-  urban
-
-  easy
-
-  peanut
-
-  limb'
 bip_39_word_new_line_12: 'release
 
   siren
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'release
   siren
 
   ozone'
-bip_39_word_new_line_4: 'release
-
-  siren
-
-  ozone
-
-  fog'
-bip_39_word_new_line_5: 'release
-
-  siren
-
-  ozone
-
-  fog
-
-  strategy'
-bip_39_word_new_line_6: 'release
-
-  siren
-
-  ozone
-
-  fog
-
-  strategy
-
-  slide'
-bip_39_word_new_line_7: 'release
-
-  siren
-
-  ozone
-
-  fog
-
-  strategy
-
-  slide
-
-  castle'
-bip_39_word_new_line_8: 'release
-
-  siren
-
-  ozone
-
-  fog
-
-  strategy
-
-  slide
-
-  castle
-
-  urban'
-bip_39_word_new_line_9: 'release
-
-  siren
-
-  ozone
-
-  fog
-
-  strategy
-
-  slide
-
-  castle
-
-  urban
-
-  easy'
-bip_39_word_no_space_1: release
-bip_39_word_no_space_10: releasesirenozonefogstrategyslidecastleurbaneasypeanut
-bip_39_word_no_space_11: releasesirenozonefogstrategyslidecastleurbaneasypeanutlimb
 bip_39_word_no_space_12: releasesirenozonefogstrategyslidecastleurbaneasypeanutlimbanalyst
 bip_39_word_no_space_2: releasesiren
 bip_39_word_no_space_3: releasesirenozone
-bip_39_word_no_space_4: releasesirenozonefog
-bip_39_word_no_space_5: releasesirenozonefogstrategy
-bip_39_word_no_space_6: releasesirenozonefogstrategyslide
-bip_39_word_no_space_7: releasesirenozonefogstrategyslidecastle
-bip_39_word_no_space_8: releasesirenozonefogstrategyslidecastleurban
-bip_39_word_no_space_9: releasesirenozonefogstrategyslidecastleurbaneasy
-bip_39_word_space_0:
-- release
-- siren
-- ozone
-- fog
-- strategy
-- slide
-- castle
-- urban
-- easy
-- peanut
-- limb
-- analyst
-bip_39_word_space_1: release
-bip_39_word_space_10: release siren ozone fog strategy slide castle urban easy peanut
-bip_39_word_space_11: release siren ozone fog strategy slide castle urban easy peanut
-  limb
 bip_39_word_space_12: release siren ozone fog strategy slide castle urban easy peanut
   limb analyst
 bip_39_word_space_2: release siren
 bip_39_word_space_3: release siren ozone
-bip_39_word_space_4: release siren ozone fog
-bip_39_word_space_5: release siren ozone fog strategy
-bip_39_word_space_6: release siren ozone fog strategy slide
-bip_39_word_space_7: release siren ozone fog strategy slide castle
-bip_39_word_space_8: release siren ozone fog strategy slide castle urban
-bip_39_word_space_9: release siren ozone fog strategy slide castle urban easy
-bip_39_word_underscore_1: release
-bip_39_word_underscore_10: release_siren_ozone_fog_strategy_slide_castle_urban_easy_peanut
-bip_39_word_underscore_11: release_siren_ozone_fog_strategy_slide_castle_urban_easy_peanut_limb
 bip_39_word_underscore_12: release_siren_ozone_fog_strategy_slide_castle_urban_easy_peanut_limb_analyst
 bip_39_word_underscore_2: release_siren
 bip_39_word_underscore_3: release_siren_ozone
-bip_39_word_underscore_4: release_siren_ozone_fog
-bip_39_word_underscore_5: release_siren_ozone_fog_strategy
-bip_39_word_underscore_6: release_siren_ozone_fog_strategy_slide
-bip_39_word_underscore_7: release_siren_ozone_fog_strategy_slide_castle
-bip_39_word_underscore_8: release_siren_ozone_fog_strategy_slide_castle_urban
-bip_39_word_underscore_9: release_siren_ozone_fog_strategy_slide_castle_urban_easy
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

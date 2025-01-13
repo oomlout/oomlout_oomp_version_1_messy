@@ -1,68 +1,9 @@
-bip_39_word_dash_1: extend
-bip_39_word_dash_10: extend-area-erode-climb-wealth-trim-chief-identify-impact-limb
-bip_39_word_dash_11: extend-area-erode-climb-wealth-trim-chief-identify-impact-limb-width
 bip_39_word_dash_12: extend-area-erode-climb-wealth-trim-chief-identify-impact-limb-width-attack
 bip_39_word_dash_2: extend-area
 bip_39_word_dash_3: extend-area-erode
-bip_39_word_dash_4: extend-area-erode-climb
-bip_39_word_dash_5: extend-area-erode-climb-wealth
-bip_39_word_dash_6: extend-area-erode-climb-wealth-trim
-bip_39_word_dash_7: extend-area-erode-climb-wealth-trim-chief
-bip_39_word_dash_8: extend-area-erode-climb-wealth-trim-chief-identify
-bip_39_word_dash_9: extend-area-erode-climb-wealth-trim-chief-identify-impact
-bip_39_word_new_br_1: extend
-bip_39_word_new_br_10: extend<br>area<br>erode<br>climb<br>wealth<br>trim<br>chief<br>identify<br>impact<br>limb
-bip_39_word_new_br_11: extend<br>area<br>erode<br>climb<br>wealth<br>trim<br>chief<br>identify<br>impact<br>limb<br>width
 bip_39_word_new_br_12: extend<br>area<br>erode<br>climb<br>wealth<br>trim<br>chief<br>identify<br>impact<br>limb<br>width<br>attack
 bip_39_word_new_br_2: extend<br>area
 bip_39_word_new_br_3: extend<br>area<br>erode
-bip_39_word_new_br_4: extend<br>area<br>erode<br>climb
-bip_39_word_new_br_5: extend<br>area<br>erode<br>climb<br>wealth
-bip_39_word_new_br_6: extend<br>area<br>erode<br>climb<br>wealth<br>trim
-bip_39_word_new_br_7: extend<br>area<br>erode<br>climb<br>wealth<br>trim<br>chief
-bip_39_word_new_br_8: extend<br>area<br>erode<br>climb<br>wealth<br>trim<br>chief<br>identify
-bip_39_word_new_br_9: extend<br>area<br>erode<br>climb<br>wealth<br>trim<br>chief<br>identify<br>impact
-bip_39_word_new_line_1: extend
-bip_39_word_new_line_10: 'extend
-
-  area
-
-  erode
-
-  climb
-
-  wealth
-
-  trim
-
-  chief
-
-  identify
-
-  impact
-
-  limb'
-bip_39_word_new_line_11: 'extend
-
-  area
-
-  erode
-
-  climb
-
-  wealth
-
-  trim
-
-  chief
-
-  identify
-
-  impact
-
-  limb
-
-  width'
 bip_39_word_new_line_12: 'extend
 
   area
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'extend
   area
 
   erode'
-bip_39_word_new_line_4: 'extend
-
-  area
-
-  erode
-
-  climb'
-bip_39_word_new_line_5: 'extend
-
-  area
-
-  erode
-
-  climb
-
-  wealth'
-bip_39_word_new_line_6: 'extend
-
-  area
-
-  erode
-
-  climb
-
-  wealth
-
-  trim'
-bip_39_word_new_line_7: 'extend
-
-  area
-
-  erode
-
-  climb
-
-  wealth
-
-  trim
-
-  chief'
-bip_39_word_new_line_8: 'extend
-
-  area
-
-  erode
-
-  climb
-
-  wealth
-
-  trim
-
-  chief
-
-  identify'
-bip_39_word_new_line_9: 'extend
-
-  area
-
-  erode
-
-  climb
-
-  wealth
-
-  trim
-
-  chief
-
-  identify
-
-  impact'
-bip_39_word_no_space_1: extend
-bip_39_word_no_space_10: extendareaerodeclimbwealthtrimchiefidentifyimpactlimb
-bip_39_word_no_space_11: extendareaerodeclimbwealthtrimchiefidentifyimpactlimbwidth
 bip_39_word_no_space_12: extendareaerodeclimbwealthtrimchiefidentifyimpactlimbwidthattack
 bip_39_word_no_space_2: extendarea
 bip_39_word_no_space_3: extendareaerode
-bip_39_word_no_space_4: extendareaerodeclimb
-bip_39_word_no_space_5: extendareaerodeclimbwealth
-bip_39_word_no_space_6: extendareaerodeclimbwealthtrim
-bip_39_word_no_space_7: extendareaerodeclimbwealthtrimchief
-bip_39_word_no_space_8: extendareaerodeclimbwealthtrimchiefidentify
-bip_39_word_no_space_9: extendareaerodeclimbwealthtrimchiefidentifyimpact
-bip_39_word_space_0:
-- extend
-- area
-- erode
-- climb
-- wealth
-- trim
-- chief
-- identify
-- impact
-- limb
-- width
-- attack
-bip_39_word_space_1: extend
-bip_39_word_space_10: extend area erode climb wealth trim chief identify impact limb
-bip_39_word_space_11: extend area erode climb wealth trim chief identify impact limb
-  width
 bip_39_word_space_12: extend area erode climb wealth trim chief identify impact limb
   width attack
 bip_39_word_space_2: extend area
 bip_39_word_space_3: extend area erode
-bip_39_word_space_4: extend area erode climb
-bip_39_word_space_5: extend area erode climb wealth
-bip_39_word_space_6: extend area erode climb wealth trim
-bip_39_word_space_7: extend area erode climb wealth trim chief
-bip_39_word_space_8: extend area erode climb wealth trim chief identify
-bip_39_word_space_9: extend area erode climb wealth trim chief identify impact
-bip_39_word_underscore_1: extend
-bip_39_word_underscore_10: extend_area_erode_climb_wealth_trim_chief_identify_impact_limb
-bip_39_word_underscore_11: extend_area_erode_climb_wealth_trim_chief_identify_impact_limb_width
 bip_39_word_underscore_12: extend_area_erode_climb_wealth_trim_chief_identify_impact_limb_width_attack
 bip_39_word_underscore_2: extend_area
 bip_39_word_underscore_3: extend_area_erode
-bip_39_word_underscore_4: extend_area_erode_climb
-bip_39_word_underscore_5: extend_area_erode_climb_wealth
-bip_39_word_underscore_6: extend_area_erode_climb_wealth_trim
-bip_39_word_underscore_7: extend_area_erode_climb_wealth_trim_chief
-bip_39_word_underscore_8: extend_area_erode_climb_wealth_trim_chief_identify
-bip_39_word_underscore_9: extend_area_erode_climb_wealth_trim_chief_identify_impact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

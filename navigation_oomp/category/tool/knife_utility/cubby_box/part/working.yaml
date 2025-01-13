@@ -1,68 +1,9 @@
-bip_39_word_dash_1: visa
-bip_39_word_dash_10: visa-gap-sting-crowd-giraffe-guess-ivory-uphold-upon-silly
-bip_39_word_dash_11: visa-gap-sting-crowd-giraffe-guess-ivory-uphold-upon-silly-crouch
 bip_39_word_dash_12: visa-gap-sting-crowd-giraffe-guess-ivory-uphold-upon-silly-crouch-artwork
 bip_39_word_dash_2: visa-gap
 bip_39_word_dash_3: visa-gap-sting
-bip_39_word_dash_4: visa-gap-sting-crowd
-bip_39_word_dash_5: visa-gap-sting-crowd-giraffe
-bip_39_word_dash_6: visa-gap-sting-crowd-giraffe-guess
-bip_39_word_dash_7: visa-gap-sting-crowd-giraffe-guess-ivory
-bip_39_word_dash_8: visa-gap-sting-crowd-giraffe-guess-ivory-uphold
-bip_39_word_dash_9: visa-gap-sting-crowd-giraffe-guess-ivory-uphold-upon
-bip_39_word_new_br_1: visa
-bip_39_word_new_br_10: visa<br>gap<br>sting<br>crowd<br>giraffe<br>guess<br>ivory<br>uphold<br>upon<br>silly
-bip_39_word_new_br_11: visa<br>gap<br>sting<br>crowd<br>giraffe<br>guess<br>ivory<br>uphold<br>upon<br>silly<br>crouch
 bip_39_word_new_br_12: visa<br>gap<br>sting<br>crowd<br>giraffe<br>guess<br>ivory<br>uphold<br>upon<br>silly<br>crouch<br>artwork
 bip_39_word_new_br_2: visa<br>gap
 bip_39_word_new_br_3: visa<br>gap<br>sting
-bip_39_word_new_br_4: visa<br>gap<br>sting<br>crowd
-bip_39_word_new_br_5: visa<br>gap<br>sting<br>crowd<br>giraffe
-bip_39_word_new_br_6: visa<br>gap<br>sting<br>crowd<br>giraffe<br>guess
-bip_39_word_new_br_7: visa<br>gap<br>sting<br>crowd<br>giraffe<br>guess<br>ivory
-bip_39_word_new_br_8: visa<br>gap<br>sting<br>crowd<br>giraffe<br>guess<br>ivory<br>uphold
-bip_39_word_new_br_9: visa<br>gap<br>sting<br>crowd<br>giraffe<br>guess<br>ivory<br>uphold<br>upon
-bip_39_word_new_line_1: visa
-bip_39_word_new_line_10: 'visa
-
-  gap
-
-  sting
-
-  crowd
-
-  giraffe
-
-  guess
-
-  ivory
-
-  uphold
-
-  upon
-
-  silly'
-bip_39_word_new_line_11: 'visa
-
-  gap
-
-  sting
-
-  crowd
-
-  giraffe
-
-  guess
-
-  ivory
-
-  uphold
-
-  upon
-
-  silly
-
-  crouch'
 bip_39_word_new_line_12: 'visa
 
   gap
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'visa
   gap
 
   sting'
-bip_39_word_new_line_4: 'visa
-
-  gap
-
-  sting
-
-  crowd'
-bip_39_word_new_line_5: 'visa
-
-  gap
-
-  sting
-
-  crowd
-
-  giraffe'
-bip_39_word_new_line_6: 'visa
-
-  gap
-
-  sting
-
-  crowd
-
-  giraffe
-
-  guess'
-bip_39_word_new_line_7: 'visa
-
-  gap
-
-  sting
-
-  crowd
-
-  giraffe
-
-  guess
-
-  ivory'
-bip_39_word_new_line_8: 'visa
-
-  gap
-
-  sting
-
-  crowd
-
-  giraffe
-
-  guess
-
-  ivory
-
-  uphold'
-bip_39_word_new_line_9: 'visa
-
-  gap
-
-  sting
-
-  crowd
-
-  giraffe
-
-  guess
-
-  ivory
-
-  uphold
-
-  upon'
-bip_39_word_no_space_1: visa
-bip_39_word_no_space_10: visagapstingcrowdgiraffeguessivoryupholduponsilly
-bip_39_word_no_space_11: visagapstingcrowdgiraffeguessivoryupholduponsillycrouch
 bip_39_word_no_space_12: visagapstingcrowdgiraffeguessivoryupholduponsillycrouchartwork
 bip_39_word_no_space_2: visagap
 bip_39_word_no_space_3: visagapsting
-bip_39_word_no_space_4: visagapstingcrowd
-bip_39_word_no_space_5: visagapstingcrowdgiraffe
-bip_39_word_no_space_6: visagapstingcrowdgiraffeguess
-bip_39_word_no_space_7: visagapstingcrowdgiraffeguessivory
-bip_39_word_no_space_8: visagapstingcrowdgiraffeguessivoryuphold
-bip_39_word_no_space_9: visagapstingcrowdgiraffeguessivoryupholdupon
-bip_39_word_space_0:
-- visa
-- gap
-- sting
-- crowd
-- giraffe
-- guess
-- ivory
-- uphold
-- upon
-- silly
-- crouch
-- artwork
-bip_39_word_space_1: visa
-bip_39_word_space_10: visa gap sting crowd giraffe guess ivory uphold upon silly
-bip_39_word_space_11: visa gap sting crowd giraffe guess ivory uphold upon silly crouch
 bip_39_word_space_12: visa gap sting crowd giraffe guess ivory uphold upon silly crouch
   artwork
 bip_39_word_space_2: visa gap
 bip_39_word_space_3: visa gap sting
-bip_39_word_space_4: visa gap sting crowd
-bip_39_word_space_5: visa gap sting crowd giraffe
-bip_39_word_space_6: visa gap sting crowd giraffe guess
-bip_39_word_space_7: visa gap sting crowd giraffe guess ivory
-bip_39_word_space_8: visa gap sting crowd giraffe guess ivory uphold
-bip_39_word_space_9: visa gap sting crowd giraffe guess ivory uphold upon
-bip_39_word_underscore_1: visa
-bip_39_word_underscore_10: visa_gap_sting_crowd_giraffe_guess_ivory_uphold_upon_silly
-bip_39_word_underscore_11: visa_gap_sting_crowd_giraffe_guess_ivory_uphold_upon_silly_crouch
 bip_39_word_underscore_12: visa_gap_sting_crowd_giraffe_guess_ivory_uphold_upon_silly_crouch_artwork
 bip_39_word_underscore_2: visa_gap
 bip_39_word_underscore_3: visa_gap_sting
-bip_39_word_underscore_4: visa_gap_sting_crowd
-bip_39_word_underscore_5: visa_gap_sting_crowd_giraffe
-bip_39_word_underscore_6: visa_gap_sting_crowd_giraffe_guess
-bip_39_word_underscore_7: visa_gap_sting_crowd_giraffe_guess_ivory
-bip_39_word_underscore_8: visa_gap_sting_crowd_giraffe_guess_ivory_uphold
-bip_39_word_underscore_9: visa_gap_sting_crowd_giraffe_guess_ivory_uphold_upon
 classification: category
 classification_capital: Category
 classification_first_letter: c

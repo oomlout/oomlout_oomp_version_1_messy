@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rule
-bip_39_word_dash_10: rule-ceiling-run-nut-palm-gravity-release-slice-page-quality
-bip_39_word_dash_11: rule-ceiling-run-nut-palm-gravity-release-slice-page-quality-bunker
 bip_39_word_dash_12: rule-ceiling-run-nut-palm-gravity-release-slice-page-quality-bunker-agent
 bip_39_word_dash_2: rule-ceiling
 bip_39_word_dash_3: rule-ceiling-run
-bip_39_word_dash_4: rule-ceiling-run-nut
-bip_39_word_dash_5: rule-ceiling-run-nut-palm
-bip_39_word_dash_6: rule-ceiling-run-nut-palm-gravity
-bip_39_word_dash_7: rule-ceiling-run-nut-palm-gravity-release
-bip_39_word_dash_8: rule-ceiling-run-nut-palm-gravity-release-slice
-bip_39_word_dash_9: rule-ceiling-run-nut-palm-gravity-release-slice-page
-bip_39_word_new_br_1: rule
-bip_39_word_new_br_10: rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality
-bip_39_word_new_br_11: rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality<br>bunker
 bip_39_word_new_br_12: rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality<br>bunker<br>agent
 bip_39_word_new_br_2: rule<br>ceiling
 bip_39_word_new_br_3: rule<br>ceiling<br>run
-bip_39_word_new_br_4: rule<br>ceiling<br>run<br>nut
-bip_39_word_new_br_5: rule<br>ceiling<br>run<br>nut<br>palm
-bip_39_word_new_br_6: rule<br>ceiling<br>run<br>nut<br>palm<br>gravity
-bip_39_word_new_br_7: rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release
-bip_39_word_new_br_8: rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice
-bip_39_word_new_br_9: rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page
-bip_39_word_new_line_1: rule
-bip_39_word_new_line_10: 'rule
-
-  ceiling
-
-  run
-
-  nut
-
-  palm
-
-  gravity
-
-  release
-
-  slice
-
-  page
-
-  quality'
-bip_39_word_new_line_11: 'rule
-
-  ceiling
-
-  run
-
-  nut
-
-  palm
-
-  gravity
-
-  release
-
-  slice
-
-  page
-
-  quality
-
-  bunker'
 bip_39_word_new_line_12: 'rule
 
   ceiling
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rule
   ceiling
 
   run'
-bip_39_word_new_line_4: 'rule
-
-  ceiling
-
-  run
-
-  nut'
-bip_39_word_new_line_5: 'rule
-
-  ceiling
-
-  run
-
-  nut
-
-  palm'
-bip_39_word_new_line_6: 'rule
-
-  ceiling
-
-  run
-
-  nut
-
-  palm
-
-  gravity'
-bip_39_word_new_line_7: 'rule
-
-  ceiling
-
-  run
-
-  nut
-
-  palm
-
-  gravity
-
-  release'
-bip_39_word_new_line_8: 'rule
-
-  ceiling
-
-  run
-
-  nut
-
-  palm
-
-  gravity
-
-  release
-
-  slice'
-bip_39_word_new_line_9: 'rule
-
-  ceiling
-
-  run
-
-  nut
-
-  palm
-
-  gravity
-
-  release
-
-  slice
-
-  page'
-bip_39_word_no_space_1: rule
-bip_39_word_no_space_10: ruleceilingrunnutpalmgravityreleaseslicepagequality
-bip_39_word_no_space_11: ruleceilingrunnutpalmgravityreleaseslicepagequalitybunker
 bip_39_word_no_space_12: ruleceilingrunnutpalmgravityreleaseslicepagequalitybunkeragent
 bip_39_word_no_space_2: ruleceiling
 bip_39_word_no_space_3: ruleceilingrun
-bip_39_word_no_space_4: ruleceilingrunnut
-bip_39_word_no_space_5: ruleceilingrunnutpalm
-bip_39_word_no_space_6: ruleceilingrunnutpalmgravity
-bip_39_word_no_space_7: ruleceilingrunnutpalmgravityrelease
-bip_39_word_no_space_8: ruleceilingrunnutpalmgravityreleaseslice
-bip_39_word_no_space_9: ruleceilingrunnutpalmgravityreleaseslicepage
-bip_39_word_space_0:
-- rule
-- ceiling
-- run
-- nut
-- palm
-- gravity
-- release
-- slice
-- page
-- quality
-- bunker
-- agent
-bip_39_word_space_1: rule
-bip_39_word_space_10: rule ceiling run nut palm gravity release slice page quality
-bip_39_word_space_11: rule ceiling run nut palm gravity release slice page quality
-  bunker
 bip_39_word_space_12: rule ceiling run nut palm gravity release slice page quality
   bunker agent
 bip_39_word_space_2: rule ceiling
 bip_39_word_space_3: rule ceiling run
-bip_39_word_space_4: rule ceiling run nut
-bip_39_word_space_5: rule ceiling run nut palm
-bip_39_word_space_6: rule ceiling run nut palm gravity
-bip_39_word_space_7: rule ceiling run nut palm gravity release
-bip_39_word_space_8: rule ceiling run nut palm gravity release slice
-bip_39_word_space_9: rule ceiling run nut palm gravity release slice page
-bip_39_word_underscore_1: rule
-bip_39_word_underscore_10: rule_ceiling_run_nut_palm_gravity_release_slice_page_quality
-bip_39_word_underscore_11: rule_ceiling_run_nut_palm_gravity_release_slice_page_quality_bunker
 bip_39_word_underscore_12: rule_ceiling_run_nut_palm_gravity_release_slice_page_quality_bunker_agent
 bip_39_word_underscore_2: rule_ceiling
 bip_39_word_underscore_3: rule_ceiling_run
-bip_39_word_underscore_4: rule_ceiling_run_nut
-bip_39_word_underscore_5: rule_ceiling_run_nut_palm
-bip_39_word_underscore_6: rule_ceiling_run_nut_palm_gravity
-bip_39_word_underscore_7: rule_ceiling_run_nut_palm_gravity_release
-bip_39_word_underscore_8: rule_ceiling_run_nut_palm_gravity_release_slice
-bip_39_word_underscore_9: rule_ceiling_run_nut_palm_gravity_release_slice_page
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

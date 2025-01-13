@@ -1,68 +1,9 @@
-bip_39_word_dash_1: control
-bip_39_word_dash_10: control-spawn-steak-noise-speak-number-addict-target-foam-swear
-bip_39_word_dash_11: control-spawn-steak-noise-speak-number-addict-target-foam-swear-benefit
 bip_39_word_dash_12: control-spawn-steak-noise-speak-number-addict-target-foam-swear-benefit-amused
 bip_39_word_dash_2: control-spawn
 bip_39_word_dash_3: control-spawn-steak
-bip_39_word_dash_4: control-spawn-steak-noise
-bip_39_word_dash_5: control-spawn-steak-noise-speak
-bip_39_word_dash_6: control-spawn-steak-noise-speak-number
-bip_39_word_dash_7: control-spawn-steak-noise-speak-number-addict
-bip_39_word_dash_8: control-spawn-steak-noise-speak-number-addict-target
-bip_39_word_dash_9: control-spawn-steak-noise-speak-number-addict-target-foam
-bip_39_word_new_br_1: control
-bip_39_word_new_br_10: control<br>spawn<br>steak<br>noise<br>speak<br>number<br>addict<br>target<br>foam<br>swear
-bip_39_word_new_br_11: control<br>spawn<br>steak<br>noise<br>speak<br>number<br>addict<br>target<br>foam<br>swear<br>benefit
 bip_39_word_new_br_12: control<br>spawn<br>steak<br>noise<br>speak<br>number<br>addict<br>target<br>foam<br>swear<br>benefit<br>amused
 bip_39_word_new_br_2: control<br>spawn
 bip_39_word_new_br_3: control<br>spawn<br>steak
-bip_39_word_new_br_4: control<br>spawn<br>steak<br>noise
-bip_39_word_new_br_5: control<br>spawn<br>steak<br>noise<br>speak
-bip_39_word_new_br_6: control<br>spawn<br>steak<br>noise<br>speak<br>number
-bip_39_word_new_br_7: control<br>spawn<br>steak<br>noise<br>speak<br>number<br>addict
-bip_39_word_new_br_8: control<br>spawn<br>steak<br>noise<br>speak<br>number<br>addict<br>target
-bip_39_word_new_br_9: control<br>spawn<br>steak<br>noise<br>speak<br>number<br>addict<br>target<br>foam
-bip_39_word_new_line_1: control
-bip_39_word_new_line_10: 'control
-
-  spawn
-
-  steak
-
-  noise
-
-  speak
-
-  number
-
-  addict
-
-  target
-
-  foam
-
-  swear'
-bip_39_word_new_line_11: 'control
-
-  spawn
-
-  steak
-
-  noise
-
-  speak
-
-  number
-
-  addict
-
-  target
-
-  foam
-
-  swear
-
-  benefit'
 bip_39_word_new_line_12: 'control
 
   spawn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'control
   spawn
 
   steak'
-bip_39_word_new_line_4: 'control
-
-  spawn
-
-  steak
-
-  noise'
-bip_39_word_new_line_5: 'control
-
-  spawn
-
-  steak
-
-  noise
-
-  speak'
-bip_39_word_new_line_6: 'control
-
-  spawn
-
-  steak
-
-  noise
-
-  speak
-
-  number'
-bip_39_word_new_line_7: 'control
-
-  spawn
-
-  steak
-
-  noise
-
-  speak
-
-  number
-
-  addict'
-bip_39_word_new_line_8: 'control
-
-  spawn
-
-  steak
-
-  noise
-
-  speak
-
-  number
-
-  addict
-
-  target'
-bip_39_word_new_line_9: 'control
-
-  spawn
-
-  steak
-
-  noise
-
-  speak
-
-  number
-
-  addict
-
-  target
-
-  foam'
-bip_39_word_no_space_1: control
-bip_39_word_no_space_10: controlspawnsteaknoisespeaknumberaddicttargetfoamswear
-bip_39_word_no_space_11: controlspawnsteaknoisespeaknumberaddicttargetfoamswearbenefit
 bip_39_word_no_space_12: controlspawnsteaknoisespeaknumberaddicttargetfoamswearbenefitamused
 bip_39_word_no_space_2: controlspawn
 bip_39_word_no_space_3: controlspawnsteak
-bip_39_word_no_space_4: controlspawnsteaknoise
-bip_39_word_no_space_5: controlspawnsteaknoisespeak
-bip_39_word_no_space_6: controlspawnsteaknoisespeaknumber
-bip_39_word_no_space_7: controlspawnsteaknoisespeaknumberaddict
-bip_39_word_no_space_8: controlspawnsteaknoisespeaknumberaddicttarget
-bip_39_word_no_space_9: controlspawnsteaknoisespeaknumberaddicttargetfoam
-bip_39_word_space_0:
-- control
-- spawn
-- steak
-- noise
-- speak
-- number
-- addict
-- target
-- foam
-- swear
-- benefit
-- amused
-bip_39_word_space_1: control
-bip_39_word_space_10: control spawn steak noise speak number addict target foam swear
-bip_39_word_space_11: control spawn steak noise speak number addict target foam swear
-  benefit
 bip_39_word_space_12: control spawn steak noise speak number addict target foam swear
   benefit amused
 bip_39_word_space_2: control spawn
 bip_39_word_space_3: control spawn steak
-bip_39_word_space_4: control spawn steak noise
-bip_39_word_space_5: control spawn steak noise speak
-bip_39_word_space_6: control spawn steak noise speak number
-bip_39_word_space_7: control spawn steak noise speak number addict
-bip_39_word_space_8: control spawn steak noise speak number addict target
-bip_39_word_space_9: control spawn steak noise speak number addict target foam
-bip_39_word_underscore_1: control
-bip_39_word_underscore_10: control_spawn_steak_noise_speak_number_addict_target_foam_swear
-bip_39_word_underscore_11: control_spawn_steak_noise_speak_number_addict_target_foam_swear_benefit
 bip_39_word_underscore_12: control_spawn_steak_noise_speak_number_addict_target_foam_swear_benefit_amused
 bip_39_word_underscore_2: control_spawn
 bip_39_word_underscore_3: control_spawn_steak
-bip_39_word_underscore_4: control_spawn_steak_noise
-bip_39_word_underscore_5: control_spawn_steak_noise_speak
-bip_39_word_underscore_6: control_spawn_steak_noise_speak_number
-bip_39_word_underscore_7: control_spawn_steak_noise_speak_number_addict
-bip_39_word_underscore_8: control_spawn_steak_noise_speak_number_addict_target
-bip_39_word_underscore_9: control_spawn_steak_noise_speak_number_addict_target_foam
 classification: category
 classification_capital: Category
 classification_first_letter: c

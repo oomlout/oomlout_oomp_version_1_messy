@@ -1,68 +1,9 @@
-bip_39_word_dash_1: price
-bip_39_word_dash_10: price-dog-leave-stove-bread-please-false-depth-clutch-degree
-bip_39_word_dash_11: price-dog-leave-stove-bread-please-false-depth-clutch-degree-win
 bip_39_word_dash_12: price-dog-leave-stove-bread-please-false-depth-clutch-degree-win-assist
 bip_39_word_dash_2: price-dog
 bip_39_word_dash_3: price-dog-leave
-bip_39_word_dash_4: price-dog-leave-stove
-bip_39_word_dash_5: price-dog-leave-stove-bread
-bip_39_word_dash_6: price-dog-leave-stove-bread-please
-bip_39_word_dash_7: price-dog-leave-stove-bread-please-false
-bip_39_word_dash_8: price-dog-leave-stove-bread-please-false-depth
-bip_39_word_dash_9: price-dog-leave-stove-bread-please-false-depth-clutch
-bip_39_word_new_br_1: price
-bip_39_word_new_br_10: price<br>dog<br>leave<br>stove<br>bread<br>please<br>false<br>depth<br>clutch<br>degree
-bip_39_word_new_br_11: price<br>dog<br>leave<br>stove<br>bread<br>please<br>false<br>depth<br>clutch<br>degree<br>win
 bip_39_word_new_br_12: price<br>dog<br>leave<br>stove<br>bread<br>please<br>false<br>depth<br>clutch<br>degree<br>win<br>assist
 bip_39_word_new_br_2: price<br>dog
 bip_39_word_new_br_3: price<br>dog<br>leave
-bip_39_word_new_br_4: price<br>dog<br>leave<br>stove
-bip_39_word_new_br_5: price<br>dog<br>leave<br>stove<br>bread
-bip_39_word_new_br_6: price<br>dog<br>leave<br>stove<br>bread<br>please
-bip_39_word_new_br_7: price<br>dog<br>leave<br>stove<br>bread<br>please<br>false
-bip_39_word_new_br_8: price<br>dog<br>leave<br>stove<br>bread<br>please<br>false<br>depth
-bip_39_word_new_br_9: price<br>dog<br>leave<br>stove<br>bread<br>please<br>false<br>depth<br>clutch
-bip_39_word_new_line_1: price
-bip_39_word_new_line_10: 'price
-
-  dog
-
-  leave
-
-  stove
-
-  bread
-
-  please
-
-  false
-
-  depth
-
-  clutch
-
-  degree'
-bip_39_word_new_line_11: 'price
-
-  dog
-
-  leave
-
-  stove
-
-  bread
-
-  please
-
-  false
-
-  depth
-
-  clutch
-
-  degree
-
-  win'
 bip_39_word_new_line_12: 'price
 
   dog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'price
   dog
 
   leave'
-bip_39_word_new_line_4: 'price
-
-  dog
-
-  leave
-
-  stove'
-bip_39_word_new_line_5: 'price
-
-  dog
-
-  leave
-
-  stove
-
-  bread'
-bip_39_word_new_line_6: 'price
-
-  dog
-
-  leave
-
-  stove
-
-  bread
-
-  please'
-bip_39_word_new_line_7: 'price
-
-  dog
-
-  leave
-
-  stove
-
-  bread
-
-  please
-
-  false'
-bip_39_word_new_line_8: 'price
-
-  dog
-
-  leave
-
-  stove
-
-  bread
-
-  please
-
-  false
-
-  depth'
-bip_39_word_new_line_9: 'price
-
-  dog
-
-  leave
-
-  stove
-
-  bread
-
-  please
-
-  false
-
-  depth
-
-  clutch'
-bip_39_word_no_space_1: price
-bip_39_word_no_space_10: pricedogleavestovebreadpleasefalsedepthclutchdegree
-bip_39_word_no_space_11: pricedogleavestovebreadpleasefalsedepthclutchdegreewin
 bip_39_word_no_space_12: pricedogleavestovebreadpleasefalsedepthclutchdegreewinassist
 bip_39_word_no_space_2: pricedog
 bip_39_word_no_space_3: pricedogleave
-bip_39_word_no_space_4: pricedogleavestove
-bip_39_word_no_space_5: pricedogleavestovebread
-bip_39_word_no_space_6: pricedogleavestovebreadplease
-bip_39_word_no_space_7: pricedogleavestovebreadpleasefalse
-bip_39_word_no_space_8: pricedogleavestovebreadpleasefalsedepth
-bip_39_word_no_space_9: pricedogleavestovebreadpleasefalsedepthclutch
-bip_39_word_space_0:
-- price
-- dog
-- leave
-- stove
-- bread
-- please
-- 'false'
-- depth
-- clutch
-- degree
-- win
-- assist
-bip_39_word_space_1: price
-bip_39_word_space_10: price dog leave stove bread please false depth clutch degree
-bip_39_word_space_11: price dog leave stove bread please false depth clutch degree
-  win
 bip_39_word_space_12: price dog leave stove bread please false depth clutch degree
   win assist
 bip_39_word_space_2: price dog
 bip_39_word_space_3: price dog leave
-bip_39_word_space_4: price dog leave stove
-bip_39_word_space_5: price dog leave stove bread
-bip_39_word_space_6: price dog leave stove bread please
-bip_39_word_space_7: price dog leave stove bread please false
-bip_39_word_space_8: price dog leave stove bread please false depth
-bip_39_word_space_9: price dog leave stove bread please false depth clutch
-bip_39_word_underscore_1: price
-bip_39_word_underscore_10: price_dog_leave_stove_bread_please_false_depth_clutch_degree
-bip_39_word_underscore_11: price_dog_leave_stove_bread_please_false_depth_clutch_degree_win
 bip_39_word_underscore_12: price_dog_leave_stove_bread_please_false_depth_clutch_degree_win_assist
 bip_39_word_underscore_2: price_dog
 bip_39_word_underscore_3: price_dog_leave
-bip_39_word_underscore_4: price_dog_leave_stove
-bip_39_word_underscore_5: price_dog_leave_stove_bread
-bip_39_word_underscore_6: price_dog_leave_stove_bread_please
-bip_39_word_underscore_7: price_dog_leave_stove_bread_please_false
-bip_39_word_underscore_8: price_dog_leave_stove_bread_please_false_depth
-bip_39_word_underscore_9: price_dog_leave_stove_bread_please_false_depth_clutch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

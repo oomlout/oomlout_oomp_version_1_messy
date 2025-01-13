@@ -1,68 +1,9 @@
-bip_39_word_dash_1: squeeze
-bip_39_word_dash_10: squeeze-struggle-laugh-injury-afford-matter-float-dentist-mass-approve
-bip_39_word_dash_11: squeeze-struggle-laugh-injury-afford-matter-float-dentist-mass-approve-response
 bip_39_word_dash_12: squeeze-struggle-laugh-injury-afford-matter-float-dentist-mass-approve-response-analyst
 bip_39_word_dash_2: squeeze-struggle
 bip_39_word_dash_3: squeeze-struggle-laugh
-bip_39_word_dash_4: squeeze-struggle-laugh-injury
-bip_39_word_dash_5: squeeze-struggle-laugh-injury-afford
-bip_39_word_dash_6: squeeze-struggle-laugh-injury-afford-matter
-bip_39_word_dash_7: squeeze-struggle-laugh-injury-afford-matter-float
-bip_39_word_dash_8: squeeze-struggle-laugh-injury-afford-matter-float-dentist
-bip_39_word_dash_9: squeeze-struggle-laugh-injury-afford-matter-float-dentist-mass
-bip_39_word_new_br_1: squeeze
-bip_39_word_new_br_10: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve
-bip_39_word_new_br_11: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve<br>response
 bip_39_word_new_br_12: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve<br>response<br>analyst
 bip_39_word_new_br_2: squeeze<br>struggle
 bip_39_word_new_br_3: squeeze<br>struggle<br>laugh
-bip_39_word_new_br_4: squeeze<br>struggle<br>laugh<br>injury
-bip_39_word_new_br_5: squeeze<br>struggle<br>laugh<br>injury<br>afford
-bip_39_word_new_br_6: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter
-bip_39_word_new_br_7: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float
-bip_39_word_new_br_8: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist
-bip_39_word_new_br_9: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass
-bip_39_word_new_line_1: squeeze
-bip_39_word_new_line_10: 'squeeze
-
-  struggle
-
-  laugh
-
-  injury
-
-  afford
-
-  matter
-
-  float
-
-  dentist
-
-  mass
-
-  approve'
-bip_39_word_new_line_11: 'squeeze
-
-  struggle
-
-  laugh
-
-  injury
-
-  afford
-
-  matter
-
-  float
-
-  dentist
-
-  mass
-
-  approve
-
-  response'
 bip_39_word_new_line_12: 'squeeze
 
   struggle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'squeeze
   struggle
 
   laugh'
-bip_39_word_new_line_4: 'squeeze
-
-  struggle
-
-  laugh
-
-  injury'
-bip_39_word_new_line_5: 'squeeze
-
-  struggle
-
-  laugh
-
-  injury
-
-  afford'
-bip_39_word_new_line_6: 'squeeze
-
-  struggle
-
-  laugh
-
-  injury
-
-  afford
-
-  matter'
-bip_39_word_new_line_7: 'squeeze
-
-  struggle
-
-  laugh
-
-  injury
-
-  afford
-
-  matter
-
-  float'
-bip_39_word_new_line_8: 'squeeze
-
-  struggle
-
-  laugh
-
-  injury
-
-  afford
-
-  matter
-
-  float
-
-  dentist'
-bip_39_word_new_line_9: 'squeeze
-
-  struggle
-
-  laugh
-
-  injury
-
-  afford
-
-  matter
-
-  float
-
-  dentist
-
-  mass'
-bip_39_word_no_space_1: squeeze
-bip_39_word_no_space_10: squeezestrugglelaughinjuryaffordmatterfloatdentistmassapprove
-bip_39_word_no_space_11: squeezestrugglelaughinjuryaffordmatterfloatdentistmassapproveresponse
 bip_39_word_no_space_12: squeezestrugglelaughinjuryaffordmatterfloatdentistmassapproveresponseanalyst
 bip_39_word_no_space_2: squeezestruggle
 bip_39_word_no_space_3: squeezestrugglelaugh
-bip_39_word_no_space_4: squeezestrugglelaughinjury
-bip_39_word_no_space_5: squeezestrugglelaughinjuryafford
-bip_39_word_no_space_6: squeezestrugglelaughinjuryaffordmatter
-bip_39_word_no_space_7: squeezestrugglelaughinjuryaffordmatterfloat
-bip_39_word_no_space_8: squeezestrugglelaughinjuryaffordmatterfloatdentist
-bip_39_word_no_space_9: squeezestrugglelaughinjuryaffordmatterfloatdentistmass
-bip_39_word_space_0:
-- squeeze
-- struggle
-- laugh
-- injury
-- afford
-- matter
-- float
-- dentist
-- mass
-- approve
-- response
-- analyst
-bip_39_word_space_1: squeeze
-bip_39_word_space_10: squeeze struggle laugh injury afford matter float dentist mass
-  approve
-bip_39_word_space_11: squeeze struggle laugh injury afford matter float dentist mass
-  approve response
 bip_39_word_space_12: squeeze struggle laugh injury afford matter float dentist mass
   approve response analyst
 bip_39_word_space_2: squeeze struggle
 bip_39_word_space_3: squeeze struggle laugh
-bip_39_word_space_4: squeeze struggle laugh injury
-bip_39_word_space_5: squeeze struggle laugh injury afford
-bip_39_word_space_6: squeeze struggle laugh injury afford matter
-bip_39_word_space_7: squeeze struggle laugh injury afford matter float
-bip_39_word_space_8: squeeze struggle laugh injury afford matter float dentist
-bip_39_word_space_9: squeeze struggle laugh injury afford matter float dentist mass
-bip_39_word_underscore_1: squeeze
-bip_39_word_underscore_10: squeeze_struggle_laugh_injury_afford_matter_float_dentist_mass_approve
-bip_39_word_underscore_11: squeeze_struggle_laugh_injury_afford_matter_float_dentist_mass_approve_response
 bip_39_word_underscore_12: squeeze_struggle_laugh_injury_afford_matter_float_dentist_mass_approve_response_analyst
 bip_39_word_underscore_2: squeeze_struggle
 bip_39_word_underscore_3: squeeze_struggle_laugh
-bip_39_word_underscore_4: squeeze_struggle_laugh_injury
-bip_39_word_underscore_5: squeeze_struggle_laugh_injury_afford
-bip_39_word_underscore_6: squeeze_struggle_laugh_injury_afford_matter
-bip_39_word_underscore_7: squeeze_struggle_laugh_injury_afford_matter_float
-bip_39_word_underscore_8: squeeze_struggle_laugh_injury_afford_matter_float_dentist
-bip_39_word_underscore_9: squeeze_struggle_laugh_injury_afford_matter_float_dentist_mass
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

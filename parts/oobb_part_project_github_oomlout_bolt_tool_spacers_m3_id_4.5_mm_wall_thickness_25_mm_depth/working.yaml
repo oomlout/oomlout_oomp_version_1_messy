@@ -1,68 +1,9 @@
-bip_39_word_dash_1: option
-bip_39_word_dash_10: option-cycle-laundry-street-funny-donate-process-ill-mystery-trial
-bip_39_word_dash_11: option-cycle-laundry-street-funny-donate-process-ill-mystery-trial-green
 bip_39_word_dash_12: option-cycle-laundry-street-funny-donate-process-ill-mystery-trial-green-amused
 bip_39_word_dash_2: option-cycle
 bip_39_word_dash_3: option-cycle-laundry
-bip_39_word_dash_4: option-cycle-laundry-street
-bip_39_word_dash_5: option-cycle-laundry-street-funny
-bip_39_word_dash_6: option-cycle-laundry-street-funny-donate
-bip_39_word_dash_7: option-cycle-laundry-street-funny-donate-process
-bip_39_word_dash_8: option-cycle-laundry-street-funny-donate-process-ill
-bip_39_word_dash_9: option-cycle-laundry-street-funny-donate-process-ill-mystery
-bip_39_word_new_br_1: option
-bip_39_word_new_br_10: option<br>cycle<br>laundry<br>street<br>funny<br>donate<br>process<br>ill<br>mystery<br>trial
-bip_39_word_new_br_11: option<br>cycle<br>laundry<br>street<br>funny<br>donate<br>process<br>ill<br>mystery<br>trial<br>green
 bip_39_word_new_br_12: option<br>cycle<br>laundry<br>street<br>funny<br>donate<br>process<br>ill<br>mystery<br>trial<br>green<br>amused
 bip_39_word_new_br_2: option<br>cycle
 bip_39_word_new_br_3: option<br>cycle<br>laundry
-bip_39_word_new_br_4: option<br>cycle<br>laundry<br>street
-bip_39_word_new_br_5: option<br>cycle<br>laundry<br>street<br>funny
-bip_39_word_new_br_6: option<br>cycle<br>laundry<br>street<br>funny<br>donate
-bip_39_word_new_br_7: option<br>cycle<br>laundry<br>street<br>funny<br>donate<br>process
-bip_39_word_new_br_8: option<br>cycle<br>laundry<br>street<br>funny<br>donate<br>process<br>ill
-bip_39_word_new_br_9: option<br>cycle<br>laundry<br>street<br>funny<br>donate<br>process<br>ill<br>mystery
-bip_39_word_new_line_1: option
-bip_39_word_new_line_10: 'option
-
-  cycle
-
-  laundry
-
-  street
-
-  funny
-
-  donate
-
-  process
-
-  ill
-
-  mystery
-
-  trial'
-bip_39_word_new_line_11: 'option
-
-  cycle
-
-  laundry
-
-  street
-
-  funny
-
-  donate
-
-  process
-
-  ill
-
-  mystery
-
-  trial
-
-  green'
 bip_39_word_new_line_12: 'option
 
   cycle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'option
   cycle
 
   laundry'
-bip_39_word_new_line_4: 'option
-
-  cycle
-
-  laundry
-
-  street'
-bip_39_word_new_line_5: 'option
-
-  cycle
-
-  laundry
-
-  street
-
-  funny'
-bip_39_word_new_line_6: 'option
-
-  cycle
-
-  laundry
-
-  street
-
-  funny
-
-  donate'
-bip_39_word_new_line_7: 'option
-
-  cycle
-
-  laundry
-
-  street
-
-  funny
-
-  donate
-
-  process'
-bip_39_word_new_line_8: 'option
-
-  cycle
-
-  laundry
-
-  street
-
-  funny
-
-  donate
-
-  process
-
-  ill'
-bip_39_word_new_line_9: 'option
-
-  cycle
-
-  laundry
-
-  street
-
-  funny
-
-  donate
-
-  process
-
-  ill
-
-  mystery'
-bip_39_word_no_space_1: option
-bip_39_word_no_space_10: optioncyclelaundrystreetfunnydonateprocessillmysterytrial
-bip_39_word_no_space_11: optioncyclelaundrystreetfunnydonateprocessillmysterytrialgreen
 bip_39_word_no_space_12: optioncyclelaundrystreetfunnydonateprocessillmysterytrialgreenamused
 bip_39_word_no_space_2: optioncycle
 bip_39_word_no_space_3: optioncyclelaundry
-bip_39_word_no_space_4: optioncyclelaundrystreet
-bip_39_word_no_space_5: optioncyclelaundrystreetfunny
-bip_39_word_no_space_6: optioncyclelaundrystreetfunnydonate
-bip_39_word_no_space_7: optioncyclelaundrystreetfunnydonateprocess
-bip_39_word_no_space_8: optioncyclelaundrystreetfunnydonateprocessill
-bip_39_word_no_space_9: optioncyclelaundrystreetfunnydonateprocessillmystery
-bip_39_word_space_0:
-- option
-- cycle
-- laundry
-- street
-- funny
-- donate
-- process
-- ill
-- mystery
-- trial
-- green
-- amused
-bip_39_word_space_1: option
-bip_39_word_space_10: option cycle laundry street funny donate process ill mystery
-  trial
-bip_39_word_space_11: option cycle laundry street funny donate process ill mystery
-  trial green
 bip_39_word_space_12: option cycle laundry street funny donate process ill mystery
   trial green amused
 bip_39_word_space_2: option cycle
 bip_39_word_space_3: option cycle laundry
-bip_39_word_space_4: option cycle laundry street
-bip_39_word_space_5: option cycle laundry street funny
-bip_39_word_space_6: option cycle laundry street funny donate
-bip_39_word_space_7: option cycle laundry street funny donate process
-bip_39_word_space_8: option cycle laundry street funny donate process ill
-bip_39_word_space_9: option cycle laundry street funny donate process ill mystery
-bip_39_word_underscore_1: option
-bip_39_word_underscore_10: option_cycle_laundry_street_funny_donate_process_ill_mystery_trial
-bip_39_word_underscore_11: option_cycle_laundry_street_funny_donate_process_ill_mystery_trial_green
 bip_39_word_underscore_12: option_cycle_laundry_street_funny_donate_process_ill_mystery_trial_green_amused
 bip_39_word_underscore_2: option_cycle
 bip_39_word_underscore_3: option_cycle_laundry
-bip_39_word_underscore_4: option_cycle_laundry_street
-bip_39_word_underscore_5: option_cycle_laundry_street_funny
-bip_39_word_underscore_6: option_cycle_laundry_street_funny_donate
-bip_39_word_underscore_7: option_cycle_laundry_street_funny_donate_process
-bip_39_word_underscore_8: option_cycle_laundry_street_funny_donate_process_ill
-bip_39_word_underscore_9: option_cycle_laundry_street_funny_donate_process_ill_mystery
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

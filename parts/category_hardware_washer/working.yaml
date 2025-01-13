@@ -1,68 +1,9 @@
-bip_39_word_dash_1: echo
-bip_39_word_dash_10: echo-night-extend-silly-excuse-rain-moment-devote-bean-faculty
-bip_39_word_dash_11: echo-night-extend-silly-excuse-rain-moment-devote-bean-faculty-combine
 bip_39_word_dash_12: echo-night-extend-silly-excuse-rain-moment-devote-bean-faculty-combine-approve
 bip_39_word_dash_2: echo-night
 bip_39_word_dash_3: echo-night-extend
-bip_39_word_dash_4: echo-night-extend-silly
-bip_39_word_dash_5: echo-night-extend-silly-excuse
-bip_39_word_dash_6: echo-night-extend-silly-excuse-rain
-bip_39_word_dash_7: echo-night-extend-silly-excuse-rain-moment
-bip_39_word_dash_8: echo-night-extend-silly-excuse-rain-moment-devote
-bip_39_word_dash_9: echo-night-extend-silly-excuse-rain-moment-devote-bean
-bip_39_word_new_br_1: echo
-bip_39_word_new_br_10: echo<br>night<br>extend<br>silly<br>excuse<br>rain<br>moment<br>devote<br>bean<br>faculty
-bip_39_word_new_br_11: echo<br>night<br>extend<br>silly<br>excuse<br>rain<br>moment<br>devote<br>bean<br>faculty<br>combine
 bip_39_word_new_br_12: echo<br>night<br>extend<br>silly<br>excuse<br>rain<br>moment<br>devote<br>bean<br>faculty<br>combine<br>approve
 bip_39_word_new_br_2: echo<br>night
 bip_39_word_new_br_3: echo<br>night<br>extend
-bip_39_word_new_br_4: echo<br>night<br>extend<br>silly
-bip_39_word_new_br_5: echo<br>night<br>extend<br>silly<br>excuse
-bip_39_word_new_br_6: echo<br>night<br>extend<br>silly<br>excuse<br>rain
-bip_39_word_new_br_7: echo<br>night<br>extend<br>silly<br>excuse<br>rain<br>moment
-bip_39_word_new_br_8: echo<br>night<br>extend<br>silly<br>excuse<br>rain<br>moment<br>devote
-bip_39_word_new_br_9: echo<br>night<br>extend<br>silly<br>excuse<br>rain<br>moment<br>devote<br>bean
-bip_39_word_new_line_1: echo
-bip_39_word_new_line_10: 'echo
-
-  night
-
-  extend
-
-  silly
-
-  excuse
-
-  rain
-
-  moment
-
-  devote
-
-  bean
-
-  faculty'
-bip_39_word_new_line_11: 'echo
-
-  night
-
-  extend
-
-  silly
-
-  excuse
-
-  rain
-
-  moment
-
-  devote
-
-  bean
-
-  faculty
-
-  combine'
 bip_39_word_new_line_12: 'echo
 
   night
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'echo
   night
 
   extend'
-bip_39_word_new_line_4: 'echo
-
-  night
-
-  extend
-
-  silly'
-bip_39_word_new_line_5: 'echo
-
-  night
-
-  extend
-
-  silly
-
-  excuse'
-bip_39_word_new_line_6: 'echo
-
-  night
-
-  extend
-
-  silly
-
-  excuse
-
-  rain'
-bip_39_word_new_line_7: 'echo
-
-  night
-
-  extend
-
-  silly
-
-  excuse
-
-  rain
-
-  moment'
-bip_39_word_new_line_8: 'echo
-
-  night
-
-  extend
-
-  silly
-
-  excuse
-
-  rain
-
-  moment
-
-  devote'
-bip_39_word_new_line_9: 'echo
-
-  night
-
-  extend
-
-  silly
-
-  excuse
-
-  rain
-
-  moment
-
-  devote
-
-  bean'
-bip_39_word_no_space_1: echo
-bip_39_word_no_space_10: echonightextendsillyexcuserainmomentdevotebeanfaculty
-bip_39_word_no_space_11: echonightextendsillyexcuserainmomentdevotebeanfacultycombine
 bip_39_word_no_space_12: echonightextendsillyexcuserainmomentdevotebeanfacultycombineapprove
 bip_39_word_no_space_2: echonight
 bip_39_word_no_space_3: echonightextend
-bip_39_word_no_space_4: echonightextendsilly
-bip_39_word_no_space_5: echonightextendsillyexcuse
-bip_39_word_no_space_6: echonightextendsillyexcuserain
-bip_39_word_no_space_7: echonightextendsillyexcuserainmoment
-bip_39_word_no_space_8: echonightextendsillyexcuserainmomentdevote
-bip_39_word_no_space_9: echonightextendsillyexcuserainmomentdevotebean
-bip_39_word_space_0:
-- echo
-- night
-- extend
-- silly
-- excuse
-- rain
-- moment
-- devote
-- bean
-- faculty
-- combine
-- approve
-bip_39_word_space_1: echo
-bip_39_word_space_10: echo night extend silly excuse rain moment devote bean faculty
-bip_39_word_space_11: echo night extend silly excuse rain moment devote bean faculty
-  combine
 bip_39_word_space_12: echo night extend silly excuse rain moment devote bean faculty
   combine approve
 bip_39_word_space_2: echo night
 bip_39_word_space_3: echo night extend
-bip_39_word_space_4: echo night extend silly
-bip_39_word_space_5: echo night extend silly excuse
-bip_39_word_space_6: echo night extend silly excuse rain
-bip_39_word_space_7: echo night extend silly excuse rain moment
-bip_39_word_space_8: echo night extend silly excuse rain moment devote
-bip_39_word_space_9: echo night extend silly excuse rain moment devote bean
-bip_39_word_underscore_1: echo
-bip_39_word_underscore_10: echo_night_extend_silly_excuse_rain_moment_devote_bean_faculty
-bip_39_word_underscore_11: echo_night_extend_silly_excuse_rain_moment_devote_bean_faculty_combine
 bip_39_word_underscore_12: echo_night_extend_silly_excuse_rain_moment_devote_bean_faculty_combine_approve
 bip_39_word_underscore_2: echo_night
 bip_39_word_underscore_3: echo_night_extend
-bip_39_word_underscore_4: echo_night_extend_silly
-bip_39_word_underscore_5: echo_night_extend_silly_excuse
-bip_39_word_underscore_6: echo_night_extend_silly_excuse_rain
-bip_39_word_underscore_7: echo_night_extend_silly_excuse_rain_moment
-bip_39_word_underscore_8: echo_night_extend_silly_excuse_rain_moment_devote
-bip_39_word_underscore_9: echo_night_extend_silly_excuse_rain_moment_devote_bean
 classification: category
 classification_capital: Category
 classification_first_letter: c

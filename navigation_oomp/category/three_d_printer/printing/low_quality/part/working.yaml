@@ -1,68 +1,9 @@
-bip_39_word_dash_1: idle
-bip_39_word_dash_10: idle-panic-claim-type-rebuild-tiny-draw-present-horse-dignity
-bip_39_word_dash_11: idle-panic-claim-type-rebuild-tiny-draw-present-horse-dignity-weird
 bip_39_word_dash_12: idle-panic-claim-type-rebuild-tiny-draw-present-horse-dignity-weird-arena
 bip_39_word_dash_2: idle-panic
 bip_39_word_dash_3: idle-panic-claim
-bip_39_word_dash_4: idle-panic-claim-type
-bip_39_word_dash_5: idle-panic-claim-type-rebuild
-bip_39_word_dash_6: idle-panic-claim-type-rebuild-tiny
-bip_39_word_dash_7: idle-panic-claim-type-rebuild-tiny-draw
-bip_39_word_dash_8: idle-panic-claim-type-rebuild-tiny-draw-present
-bip_39_word_dash_9: idle-panic-claim-type-rebuild-tiny-draw-present-horse
-bip_39_word_new_br_1: idle
-bip_39_word_new_br_10: idle<br>panic<br>claim<br>type<br>rebuild<br>tiny<br>draw<br>present<br>horse<br>dignity
-bip_39_word_new_br_11: idle<br>panic<br>claim<br>type<br>rebuild<br>tiny<br>draw<br>present<br>horse<br>dignity<br>weird
 bip_39_word_new_br_12: idle<br>panic<br>claim<br>type<br>rebuild<br>tiny<br>draw<br>present<br>horse<br>dignity<br>weird<br>arena
 bip_39_word_new_br_2: idle<br>panic
 bip_39_word_new_br_3: idle<br>panic<br>claim
-bip_39_word_new_br_4: idle<br>panic<br>claim<br>type
-bip_39_word_new_br_5: idle<br>panic<br>claim<br>type<br>rebuild
-bip_39_word_new_br_6: idle<br>panic<br>claim<br>type<br>rebuild<br>tiny
-bip_39_word_new_br_7: idle<br>panic<br>claim<br>type<br>rebuild<br>tiny<br>draw
-bip_39_word_new_br_8: idle<br>panic<br>claim<br>type<br>rebuild<br>tiny<br>draw<br>present
-bip_39_word_new_br_9: idle<br>panic<br>claim<br>type<br>rebuild<br>tiny<br>draw<br>present<br>horse
-bip_39_word_new_line_1: idle
-bip_39_word_new_line_10: 'idle
-
-  panic
-
-  claim
-
-  type
-
-  rebuild
-
-  tiny
-
-  draw
-
-  present
-
-  horse
-
-  dignity'
-bip_39_word_new_line_11: 'idle
-
-  panic
-
-  claim
-
-  type
-
-  rebuild
-
-  tiny
-
-  draw
-
-  present
-
-  horse
-
-  dignity
-
-  weird'
 bip_39_word_new_line_12: 'idle
 
   panic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'idle
   panic
 
   claim'
-bip_39_word_new_line_4: 'idle
-
-  panic
-
-  claim
-
-  type'
-bip_39_word_new_line_5: 'idle
-
-  panic
-
-  claim
-
-  type
-
-  rebuild'
-bip_39_word_new_line_6: 'idle
-
-  panic
-
-  claim
-
-  type
-
-  rebuild
-
-  tiny'
-bip_39_word_new_line_7: 'idle
-
-  panic
-
-  claim
-
-  type
-
-  rebuild
-
-  tiny
-
-  draw'
-bip_39_word_new_line_8: 'idle
-
-  panic
-
-  claim
-
-  type
-
-  rebuild
-
-  tiny
-
-  draw
-
-  present'
-bip_39_word_new_line_9: 'idle
-
-  panic
-
-  claim
-
-  type
-
-  rebuild
-
-  tiny
-
-  draw
-
-  present
-
-  horse'
-bip_39_word_no_space_1: idle
-bip_39_word_no_space_10: idlepanicclaimtyperebuildtinydrawpresenthorsedignity
-bip_39_word_no_space_11: idlepanicclaimtyperebuildtinydrawpresenthorsedignityweird
 bip_39_word_no_space_12: idlepanicclaimtyperebuildtinydrawpresenthorsedignityweirdarena
 bip_39_word_no_space_2: idlepanic
 bip_39_word_no_space_3: idlepanicclaim
-bip_39_word_no_space_4: idlepanicclaimtype
-bip_39_word_no_space_5: idlepanicclaimtyperebuild
-bip_39_word_no_space_6: idlepanicclaimtyperebuildtiny
-bip_39_word_no_space_7: idlepanicclaimtyperebuildtinydraw
-bip_39_word_no_space_8: idlepanicclaimtyperebuildtinydrawpresent
-bip_39_word_no_space_9: idlepanicclaimtyperebuildtinydrawpresenthorse
-bip_39_word_space_0:
-- idle
-- panic
-- claim
-- type
-- rebuild
-- tiny
-- draw
-- present
-- horse
-- dignity
-- weird
-- arena
-bip_39_word_space_1: idle
-bip_39_word_space_10: idle panic claim type rebuild tiny draw present horse dignity
-bip_39_word_space_11: idle panic claim type rebuild tiny draw present horse dignity
-  weird
 bip_39_word_space_12: idle panic claim type rebuild tiny draw present horse dignity
   weird arena
 bip_39_word_space_2: idle panic
 bip_39_word_space_3: idle panic claim
-bip_39_word_space_4: idle panic claim type
-bip_39_word_space_5: idle panic claim type rebuild
-bip_39_word_space_6: idle panic claim type rebuild tiny
-bip_39_word_space_7: idle panic claim type rebuild tiny draw
-bip_39_word_space_8: idle panic claim type rebuild tiny draw present
-bip_39_word_space_9: idle panic claim type rebuild tiny draw present horse
-bip_39_word_underscore_1: idle
-bip_39_word_underscore_10: idle_panic_claim_type_rebuild_tiny_draw_present_horse_dignity
-bip_39_word_underscore_11: idle_panic_claim_type_rebuild_tiny_draw_present_horse_dignity_weird
 bip_39_word_underscore_12: idle_panic_claim_type_rebuild_tiny_draw_present_horse_dignity_weird_arena
 bip_39_word_underscore_2: idle_panic
 bip_39_word_underscore_3: idle_panic_claim
-bip_39_word_underscore_4: idle_panic_claim_type
-bip_39_word_underscore_5: idle_panic_claim_type_rebuild
-bip_39_word_underscore_6: idle_panic_claim_type_rebuild_tiny
-bip_39_word_underscore_7: idle_panic_claim_type_rebuild_tiny_draw
-bip_39_word_underscore_8: idle_panic_claim_type_rebuild_tiny_draw_present
-bip_39_word_underscore_9: idle_panic_claim_type_rebuild_tiny_draw_present_horse
 classification: category
 classification_capital: Category
 classification_first_letter: c

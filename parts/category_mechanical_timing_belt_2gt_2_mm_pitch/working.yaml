@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wrong
-bip_39_word_dash_10: wrong-there-torch-track-inhale-source-control-slush-tornado-other
-bip_39_word_dash_11: wrong-there-torch-track-inhale-source-control-slush-tornado-other-bridge
 bip_39_word_dash_12: wrong-there-torch-track-inhale-source-control-slush-tornado-other-bridge-apart
 bip_39_word_dash_2: wrong-there
 bip_39_word_dash_3: wrong-there-torch
-bip_39_word_dash_4: wrong-there-torch-track
-bip_39_word_dash_5: wrong-there-torch-track-inhale
-bip_39_word_dash_6: wrong-there-torch-track-inhale-source
-bip_39_word_dash_7: wrong-there-torch-track-inhale-source-control
-bip_39_word_dash_8: wrong-there-torch-track-inhale-source-control-slush
-bip_39_word_dash_9: wrong-there-torch-track-inhale-source-control-slush-tornado
-bip_39_word_new_br_1: wrong
-bip_39_word_new_br_10: wrong<br>there<br>torch<br>track<br>inhale<br>source<br>control<br>slush<br>tornado<br>other
-bip_39_word_new_br_11: wrong<br>there<br>torch<br>track<br>inhale<br>source<br>control<br>slush<br>tornado<br>other<br>bridge
 bip_39_word_new_br_12: wrong<br>there<br>torch<br>track<br>inhale<br>source<br>control<br>slush<br>tornado<br>other<br>bridge<br>apart
 bip_39_word_new_br_2: wrong<br>there
 bip_39_word_new_br_3: wrong<br>there<br>torch
-bip_39_word_new_br_4: wrong<br>there<br>torch<br>track
-bip_39_word_new_br_5: wrong<br>there<br>torch<br>track<br>inhale
-bip_39_word_new_br_6: wrong<br>there<br>torch<br>track<br>inhale<br>source
-bip_39_word_new_br_7: wrong<br>there<br>torch<br>track<br>inhale<br>source<br>control
-bip_39_word_new_br_8: wrong<br>there<br>torch<br>track<br>inhale<br>source<br>control<br>slush
-bip_39_word_new_br_9: wrong<br>there<br>torch<br>track<br>inhale<br>source<br>control<br>slush<br>tornado
-bip_39_word_new_line_1: wrong
-bip_39_word_new_line_10: 'wrong
-
-  there
-
-  torch
-
-  track
-
-  inhale
-
-  source
-
-  control
-
-  slush
-
-  tornado
-
-  other'
-bip_39_word_new_line_11: 'wrong
-
-  there
-
-  torch
-
-  track
-
-  inhale
-
-  source
-
-  control
-
-  slush
-
-  tornado
-
-  other
-
-  bridge'
 bip_39_word_new_line_12: 'wrong
 
   there
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'wrong
   there
 
   torch'
-bip_39_word_new_line_4: 'wrong
-
-  there
-
-  torch
-
-  track'
-bip_39_word_new_line_5: 'wrong
-
-  there
-
-  torch
-
-  track
-
-  inhale'
-bip_39_word_new_line_6: 'wrong
-
-  there
-
-  torch
-
-  track
-
-  inhale
-
-  source'
-bip_39_word_new_line_7: 'wrong
-
-  there
-
-  torch
-
-  track
-
-  inhale
-
-  source
-
-  control'
-bip_39_word_new_line_8: 'wrong
-
-  there
-
-  torch
-
-  track
-
-  inhale
-
-  source
-
-  control
-
-  slush'
-bip_39_word_new_line_9: 'wrong
-
-  there
-
-  torch
-
-  track
-
-  inhale
-
-  source
-
-  control
-
-  slush
-
-  tornado'
-bip_39_word_no_space_1: wrong
-bip_39_word_no_space_10: wrongtheretorchtrackinhalesourcecontrolslushtornadoother
-bip_39_word_no_space_11: wrongtheretorchtrackinhalesourcecontrolslushtornadootherbridge
 bip_39_word_no_space_12: wrongtheretorchtrackinhalesourcecontrolslushtornadootherbridgeapart
 bip_39_word_no_space_2: wrongthere
 bip_39_word_no_space_3: wrongtheretorch
-bip_39_word_no_space_4: wrongtheretorchtrack
-bip_39_word_no_space_5: wrongtheretorchtrackinhale
-bip_39_word_no_space_6: wrongtheretorchtrackinhalesource
-bip_39_word_no_space_7: wrongtheretorchtrackinhalesourcecontrol
-bip_39_word_no_space_8: wrongtheretorchtrackinhalesourcecontrolslush
-bip_39_word_no_space_9: wrongtheretorchtrackinhalesourcecontrolslushtornado
-bip_39_word_space_0:
-- wrong
-- there
-- torch
-- track
-- inhale
-- source
-- control
-- slush
-- tornado
-- other
-- bridge
-- apart
-bip_39_word_space_1: wrong
-bip_39_word_space_10: wrong there torch track inhale source control slush tornado
-  other
-bip_39_word_space_11: wrong there torch track inhale source control slush tornado
-  other bridge
 bip_39_word_space_12: wrong there torch track inhale source control slush tornado
   other bridge apart
 bip_39_word_space_2: wrong there
 bip_39_word_space_3: wrong there torch
-bip_39_word_space_4: wrong there torch track
-bip_39_word_space_5: wrong there torch track inhale
-bip_39_word_space_6: wrong there torch track inhale source
-bip_39_word_space_7: wrong there torch track inhale source control
-bip_39_word_space_8: wrong there torch track inhale source control slush
-bip_39_word_space_9: wrong there torch track inhale source control slush tornado
-bip_39_word_underscore_1: wrong
-bip_39_word_underscore_10: wrong_there_torch_track_inhale_source_control_slush_tornado_other
-bip_39_word_underscore_11: wrong_there_torch_track_inhale_source_control_slush_tornado_other_bridge
 bip_39_word_underscore_12: wrong_there_torch_track_inhale_source_control_slush_tornado_other_bridge_apart
 bip_39_word_underscore_2: wrong_there
 bip_39_word_underscore_3: wrong_there_torch
-bip_39_word_underscore_4: wrong_there_torch_track
-bip_39_word_underscore_5: wrong_there_torch_track_inhale
-bip_39_word_underscore_6: wrong_there_torch_track_inhale_source
-bip_39_word_underscore_7: wrong_there_torch_track_inhale_source_control
-bip_39_word_underscore_8: wrong_there_torch_track_inhale_source_control_slush
-bip_39_word_underscore_9: wrong_there_torch_track_inhale_source_control_slush_tornado
 classification: category
 classification_capital: Category
 classification_first_letter: c

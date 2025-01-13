@@ -1,68 +1,9 @@
-bip_39_word_dash_1: save
-bip_39_word_dash_10: save-harvest-vehicle-brisk-finger-brother-destroy-muffin-emerge-lizard
-bip_39_word_dash_11: save-harvest-vehicle-brisk-finger-brother-destroy-muffin-emerge-lizard-broom
 bip_39_word_dash_12: save-harvest-vehicle-brisk-finger-brother-destroy-muffin-emerge-lizard-broom-afraid
 bip_39_word_dash_2: save-harvest
 bip_39_word_dash_3: save-harvest-vehicle
-bip_39_word_dash_4: save-harvest-vehicle-brisk
-bip_39_word_dash_5: save-harvest-vehicle-brisk-finger
-bip_39_word_dash_6: save-harvest-vehicle-brisk-finger-brother
-bip_39_word_dash_7: save-harvest-vehicle-brisk-finger-brother-destroy
-bip_39_word_dash_8: save-harvest-vehicle-brisk-finger-brother-destroy-muffin
-bip_39_word_dash_9: save-harvest-vehicle-brisk-finger-brother-destroy-muffin-emerge
-bip_39_word_new_br_1: save
-bip_39_word_new_br_10: save<br>harvest<br>vehicle<br>brisk<br>finger<br>brother<br>destroy<br>muffin<br>emerge<br>lizard
-bip_39_word_new_br_11: save<br>harvest<br>vehicle<br>brisk<br>finger<br>brother<br>destroy<br>muffin<br>emerge<br>lizard<br>broom
 bip_39_word_new_br_12: save<br>harvest<br>vehicle<br>brisk<br>finger<br>brother<br>destroy<br>muffin<br>emerge<br>lizard<br>broom<br>afraid
 bip_39_word_new_br_2: save<br>harvest
 bip_39_word_new_br_3: save<br>harvest<br>vehicle
-bip_39_word_new_br_4: save<br>harvest<br>vehicle<br>brisk
-bip_39_word_new_br_5: save<br>harvest<br>vehicle<br>brisk<br>finger
-bip_39_word_new_br_6: save<br>harvest<br>vehicle<br>brisk<br>finger<br>brother
-bip_39_word_new_br_7: save<br>harvest<br>vehicle<br>brisk<br>finger<br>brother<br>destroy
-bip_39_word_new_br_8: save<br>harvest<br>vehicle<br>brisk<br>finger<br>brother<br>destroy<br>muffin
-bip_39_word_new_br_9: save<br>harvest<br>vehicle<br>brisk<br>finger<br>brother<br>destroy<br>muffin<br>emerge
-bip_39_word_new_line_1: save
-bip_39_word_new_line_10: 'save
-
-  harvest
-
-  vehicle
-
-  brisk
-
-  finger
-
-  brother
-
-  destroy
-
-  muffin
-
-  emerge
-
-  lizard'
-bip_39_word_new_line_11: 'save
-
-  harvest
-
-  vehicle
-
-  brisk
-
-  finger
-
-  brother
-
-  destroy
-
-  muffin
-
-  emerge
-
-  lizard
-
-  broom'
 bip_39_word_new_line_12: 'save
 
   harvest
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'save
   harvest
 
   vehicle'
-bip_39_word_new_line_4: 'save
-
-  harvest
-
-  vehicle
-
-  brisk'
-bip_39_word_new_line_5: 'save
-
-  harvest
-
-  vehicle
-
-  brisk
-
-  finger'
-bip_39_word_new_line_6: 'save
-
-  harvest
-
-  vehicle
-
-  brisk
-
-  finger
-
-  brother'
-bip_39_word_new_line_7: 'save
-
-  harvest
-
-  vehicle
-
-  brisk
-
-  finger
-
-  brother
-
-  destroy'
-bip_39_word_new_line_8: 'save
-
-  harvest
-
-  vehicle
-
-  brisk
-
-  finger
-
-  brother
-
-  destroy
-
-  muffin'
-bip_39_word_new_line_9: 'save
-
-  harvest
-
-  vehicle
-
-  brisk
-
-  finger
-
-  brother
-
-  destroy
-
-  muffin
-
-  emerge'
-bip_39_word_no_space_1: save
-bip_39_word_no_space_10: saveharvestvehiclebriskfingerbrotherdestroymuffinemergelizard
-bip_39_word_no_space_11: saveharvestvehiclebriskfingerbrotherdestroymuffinemergelizardbroom
 bip_39_word_no_space_12: saveharvestvehiclebriskfingerbrotherdestroymuffinemergelizardbroomafraid
 bip_39_word_no_space_2: saveharvest
 bip_39_word_no_space_3: saveharvestvehicle
-bip_39_word_no_space_4: saveharvestvehiclebrisk
-bip_39_word_no_space_5: saveharvestvehiclebriskfinger
-bip_39_word_no_space_6: saveharvestvehiclebriskfingerbrother
-bip_39_word_no_space_7: saveharvestvehiclebriskfingerbrotherdestroy
-bip_39_word_no_space_8: saveharvestvehiclebriskfingerbrotherdestroymuffin
-bip_39_word_no_space_9: saveharvestvehiclebriskfingerbrotherdestroymuffinemerge
-bip_39_word_space_0:
-- save
-- harvest
-- vehicle
-- brisk
-- finger
-- brother
-- destroy
-- muffin
-- emerge
-- lizard
-- broom
-- afraid
-bip_39_word_space_1: save
-bip_39_word_space_10: save harvest vehicle brisk finger brother destroy muffin emerge
-  lizard
-bip_39_word_space_11: save harvest vehicle brisk finger brother destroy muffin emerge
-  lizard broom
 bip_39_word_space_12: save harvest vehicle brisk finger brother destroy muffin emerge
   lizard broom afraid
 bip_39_word_space_2: save harvest
 bip_39_word_space_3: save harvest vehicle
-bip_39_word_space_4: save harvest vehicle brisk
-bip_39_word_space_5: save harvest vehicle brisk finger
-bip_39_word_space_6: save harvest vehicle brisk finger brother
-bip_39_word_space_7: save harvest vehicle brisk finger brother destroy
-bip_39_word_space_8: save harvest vehicle brisk finger brother destroy muffin
-bip_39_word_space_9: save harvest vehicle brisk finger brother destroy muffin emerge
-bip_39_word_underscore_1: save
-bip_39_word_underscore_10: save_harvest_vehicle_brisk_finger_brother_destroy_muffin_emerge_lizard
-bip_39_word_underscore_11: save_harvest_vehicle_brisk_finger_brother_destroy_muffin_emerge_lizard_broom
 bip_39_word_underscore_12: save_harvest_vehicle_brisk_finger_brother_destroy_muffin_emerge_lizard_broom_afraid
 bip_39_word_underscore_2: save_harvest
 bip_39_word_underscore_3: save_harvest_vehicle
-bip_39_word_underscore_4: save_harvest_vehicle_brisk
-bip_39_word_underscore_5: save_harvest_vehicle_brisk_finger
-bip_39_word_underscore_6: save_harvest_vehicle_brisk_finger_brother
-bip_39_word_underscore_7: save_harvest_vehicle_brisk_finger_brother_destroy
-bip_39_word_underscore_8: save_harvest_vehicle_brisk_finger_brother_destroy_muffin
-bip_39_word_underscore_9: save_harvest_vehicle_brisk_finger_brother_destroy_muffin_emerge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

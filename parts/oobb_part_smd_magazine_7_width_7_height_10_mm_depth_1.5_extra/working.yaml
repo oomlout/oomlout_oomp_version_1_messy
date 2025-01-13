@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tone
-bip_39_word_dash_10: tone-swear-figure-song-foot-village-stick-gravity-purchase-orchard
-bip_39_word_dash_11: tone-swear-figure-song-foot-village-stick-gravity-purchase-orchard-ozone
 bip_39_word_dash_12: tone-swear-figure-song-foot-village-stick-gravity-purchase-orchard-ozone-animal
 bip_39_word_dash_2: tone-swear
 bip_39_word_dash_3: tone-swear-figure
-bip_39_word_dash_4: tone-swear-figure-song
-bip_39_word_dash_5: tone-swear-figure-song-foot
-bip_39_word_dash_6: tone-swear-figure-song-foot-village
-bip_39_word_dash_7: tone-swear-figure-song-foot-village-stick
-bip_39_word_dash_8: tone-swear-figure-song-foot-village-stick-gravity
-bip_39_word_dash_9: tone-swear-figure-song-foot-village-stick-gravity-purchase
-bip_39_word_new_br_1: tone
-bip_39_word_new_br_10: tone<br>swear<br>figure<br>song<br>foot<br>village<br>stick<br>gravity<br>purchase<br>orchard
-bip_39_word_new_br_11: tone<br>swear<br>figure<br>song<br>foot<br>village<br>stick<br>gravity<br>purchase<br>orchard<br>ozone
 bip_39_word_new_br_12: tone<br>swear<br>figure<br>song<br>foot<br>village<br>stick<br>gravity<br>purchase<br>orchard<br>ozone<br>animal
 bip_39_word_new_br_2: tone<br>swear
 bip_39_word_new_br_3: tone<br>swear<br>figure
-bip_39_word_new_br_4: tone<br>swear<br>figure<br>song
-bip_39_word_new_br_5: tone<br>swear<br>figure<br>song<br>foot
-bip_39_word_new_br_6: tone<br>swear<br>figure<br>song<br>foot<br>village
-bip_39_word_new_br_7: tone<br>swear<br>figure<br>song<br>foot<br>village<br>stick
-bip_39_word_new_br_8: tone<br>swear<br>figure<br>song<br>foot<br>village<br>stick<br>gravity
-bip_39_word_new_br_9: tone<br>swear<br>figure<br>song<br>foot<br>village<br>stick<br>gravity<br>purchase
-bip_39_word_new_line_1: tone
-bip_39_word_new_line_10: 'tone
-
-  swear
-
-  figure
-
-  song
-
-  foot
-
-  village
-
-  stick
-
-  gravity
-
-  purchase
-
-  orchard'
-bip_39_word_new_line_11: 'tone
-
-  swear
-
-  figure
-
-  song
-
-  foot
-
-  village
-
-  stick
-
-  gravity
-
-  purchase
-
-  orchard
-
-  ozone'
 bip_39_word_new_line_12: 'tone
 
   swear
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tone
   swear
 
   figure'
-bip_39_word_new_line_4: 'tone
-
-  swear
-
-  figure
-
-  song'
-bip_39_word_new_line_5: 'tone
-
-  swear
-
-  figure
-
-  song
-
-  foot'
-bip_39_word_new_line_6: 'tone
-
-  swear
-
-  figure
-
-  song
-
-  foot
-
-  village'
-bip_39_word_new_line_7: 'tone
-
-  swear
-
-  figure
-
-  song
-
-  foot
-
-  village
-
-  stick'
-bip_39_word_new_line_8: 'tone
-
-  swear
-
-  figure
-
-  song
-
-  foot
-
-  village
-
-  stick
-
-  gravity'
-bip_39_word_new_line_9: 'tone
-
-  swear
-
-  figure
-
-  song
-
-  foot
-
-  village
-
-  stick
-
-  gravity
-
-  purchase'
-bip_39_word_no_space_1: tone
-bip_39_word_no_space_10: toneswearfiguresongfootvillagestickgravitypurchaseorchard
-bip_39_word_no_space_11: toneswearfiguresongfootvillagestickgravitypurchaseorchardozone
 bip_39_word_no_space_12: toneswearfiguresongfootvillagestickgravitypurchaseorchardozoneanimal
 bip_39_word_no_space_2: toneswear
 bip_39_word_no_space_3: toneswearfigure
-bip_39_word_no_space_4: toneswearfiguresong
-bip_39_word_no_space_5: toneswearfiguresongfoot
-bip_39_word_no_space_6: toneswearfiguresongfootvillage
-bip_39_word_no_space_7: toneswearfiguresongfootvillagestick
-bip_39_word_no_space_8: toneswearfiguresongfootvillagestickgravity
-bip_39_word_no_space_9: toneswearfiguresongfootvillagestickgravitypurchase
-bip_39_word_space_0:
-- tone
-- swear
-- figure
-- song
-- foot
-- village
-- stick
-- gravity
-- purchase
-- orchard
-- ozone
-- animal
-bip_39_word_space_1: tone
-bip_39_word_space_10: tone swear figure song foot village stick gravity purchase orchard
-bip_39_word_space_11: tone swear figure song foot village stick gravity purchase orchard
-  ozone
 bip_39_word_space_12: tone swear figure song foot village stick gravity purchase orchard
   ozone animal
 bip_39_word_space_2: tone swear
 bip_39_word_space_3: tone swear figure
-bip_39_word_space_4: tone swear figure song
-bip_39_word_space_5: tone swear figure song foot
-bip_39_word_space_6: tone swear figure song foot village
-bip_39_word_space_7: tone swear figure song foot village stick
-bip_39_word_space_8: tone swear figure song foot village stick gravity
-bip_39_word_space_9: tone swear figure song foot village stick gravity purchase
-bip_39_word_underscore_1: tone
-bip_39_word_underscore_10: tone_swear_figure_song_foot_village_stick_gravity_purchase_orchard
-bip_39_word_underscore_11: tone_swear_figure_song_foot_village_stick_gravity_purchase_orchard_ozone
 bip_39_word_underscore_12: tone_swear_figure_song_foot_village_stick_gravity_purchase_orchard_ozone_animal
 bip_39_word_underscore_2: tone_swear
 bip_39_word_underscore_3: tone_swear_figure
-bip_39_word_underscore_4: tone_swear_figure_song
-bip_39_word_underscore_5: tone_swear_figure_song_foot
-bip_39_word_underscore_6: tone_swear_figure_song_foot_village
-bip_39_word_underscore_7: tone_swear_figure_song_foot_village_stick
-bip_39_word_underscore_8: tone_swear_figure_song_foot_village_stick_gravity
-bip_39_word_underscore_9: tone_swear_figure_song_foot_village_stick_gravity_purchase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

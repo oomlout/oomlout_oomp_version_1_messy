@@ -1,68 +1,9 @@
-bip_39_word_dash_1: relax
-bip_39_word_dash_10: relax-element-pool-clean-force-fame-describe-force-practice-hurdle
-bip_39_word_dash_11: relax-element-pool-clean-force-fame-describe-force-practice-hurdle-wisdom
 bip_39_word_dash_12: relax-element-pool-clean-force-fame-describe-force-practice-hurdle-wisdom-aspect
 bip_39_word_dash_2: relax-element
 bip_39_word_dash_3: relax-element-pool
-bip_39_word_dash_4: relax-element-pool-clean
-bip_39_word_dash_5: relax-element-pool-clean-force
-bip_39_word_dash_6: relax-element-pool-clean-force-fame
-bip_39_word_dash_7: relax-element-pool-clean-force-fame-describe
-bip_39_word_dash_8: relax-element-pool-clean-force-fame-describe-force
-bip_39_word_dash_9: relax-element-pool-clean-force-fame-describe-force-practice
-bip_39_word_new_br_1: relax
-bip_39_word_new_br_10: relax<br>element<br>pool<br>clean<br>force<br>fame<br>describe<br>force<br>practice<br>hurdle
-bip_39_word_new_br_11: relax<br>element<br>pool<br>clean<br>force<br>fame<br>describe<br>force<br>practice<br>hurdle<br>wisdom
 bip_39_word_new_br_12: relax<br>element<br>pool<br>clean<br>force<br>fame<br>describe<br>force<br>practice<br>hurdle<br>wisdom<br>aspect
 bip_39_word_new_br_2: relax<br>element
 bip_39_word_new_br_3: relax<br>element<br>pool
-bip_39_word_new_br_4: relax<br>element<br>pool<br>clean
-bip_39_word_new_br_5: relax<br>element<br>pool<br>clean<br>force
-bip_39_word_new_br_6: relax<br>element<br>pool<br>clean<br>force<br>fame
-bip_39_word_new_br_7: relax<br>element<br>pool<br>clean<br>force<br>fame<br>describe
-bip_39_word_new_br_8: relax<br>element<br>pool<br>clean<br>force<br>fame<br>describe<br>force
-bip_39_word_new_br_9: relax<br>element<br>pool<br>clean<br>force<br>fame<br>describe<br>force<br>practice
-bip_39_word_new_line_1: relax
-bip_39_word_new_line_10: 'relax
-
-  element
-
-  pool
-
-  clean
-
-  force
-
-  fame
-
-  describe
-
-  force
-
-  practice
-
-  hurdle'
-bip_39_word_new_line_11: 'relax
-
-  element
-
-  pool
-
-  clean
-
-  force
-
-  fame
-
-  describe
-
-  force
-
-  practice
-
-  hurdle
-
-  wisdom'
 bip_39_word_new_line_12: 'relax
 
   element
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'relax
   element
 
   pool'
-bip_39_word_new_line_4: 'relax
-
-  element
-
-  pool
-
-  clean'
-bip_39_word_new_line_5: 'relax
-
-  element
-
-  pool
-
-  clean
-
-  force'
-bip_39_word_new_line_6: 'relax
-
-  element
-
-  pool
-
-  clean
-
-  force
-
-  fame'
-bip_39_word_new_line_7: 'relax
-
-  element
-
-  pool
-
-  clean
-
-  force
-
-  fame
-
-  describe'
-bip_39_word_new_line_8: 'relax
-
-  element
-
-  pool
-
-  clean
-
-  force
-
-  fame
-
-  describe
-
-  force'
-bip_39_word_new_line_9: 'relax
-
-  element
-
-  pool
-
-  clean
-
-  force
-
-  fame
-
-  describe
-
-  force
-
-  practice'
-bip_39_word_no_space_1: relax
-bip_39_word_no_space_10: relaxelementpoolcleanforcefamedescribeforcepracticehurdle
-bip_39_word_no_space_11: relaxelementpoolcleanforcefamedescribeforcepracticehurdlewisdom
 bip_39_word_no_space_12: relaxelementpoolcleanforcefamedescribeforcepracticehurdlewisdomaspect
 bip_39_word_no_space_2: relaxelement
 bip_39_word_no_space_3: relaxelementpool
-bip_39_word_no_space_4: relaxelementpoolclean
-bip_39_word_no_space_5: relaxelementpoolcleanforce
-bip_39_word_no_space_6: relaxelementpoolcleanforcefame
-bip_39_word_no_space_7: relaxelementpoolcleanforcefamedescribe
-bip_39_word_no_space_8: relaxelementpoolcleanforcefamedescribeforce
-bip_39_word_no_space_9: relaxelementpoolcleanforcefamedescribeforcepractice
-bip_39_word_space_0:
-- relax
-- element
-- pool
-- clean
-- force
-- fame
-- describe
-- force
-- practice
-- hurdle
-- wisdom
-- aspect
-bip_39_word_space_1: relax
-bip_39_word_space_10: relax element pool clean force fame describe force practice
-  hurdle
-bip_39_word_space_11: relax element pool clean force fame describe force practice
-  hurdle wisdom
 bip_39_word_space_12: relax element pool clean force fame describe force practice
   hurdle wisdom aspect
 bip_39_word_space_2: relax element
 bip_39_word_space_3: relax element pool
-bip_39_word_space_4: relax element pool clean
-bip_39_word_space_5: relax element pool clean force
-bip_39_word_space_6: relax element pool clean force fame
-bip_39_word_space_7: relax element pool clean force fame describe
-bip_39_word_space_8: relax element pool clean force fame describe force
-bip_39_word_space_9: relax element pool clean force fame describe force practice
-bip_39_word_underscore_1: relax
-bip_39_word_underscore_10: relax_element_pool_clean_force_fame_describe_force_practice_hurdle
-bip_39_word_underscore_11: relax_element_pool_clean_force_fame_describe_force_practice_hurdle_wisdom
 bip_39_word_underscore_12: relax_element_pool_clean_force_fame_describe_force_practice_hurdle_wisdom_aspect
 bip_39_word_underscore_2: relax_element
 bip_39_word_underscore_3: relax_element_pool
-bip_39_word_underscore_4: relax_element_pool_clean
-bip_39_word_underscore_5: relax_element_pool_clean_force
-bip_39_word_underscore_6: relax_element_pool_clean_force_fame
-bip_39_word_underscore_7: relax_element_pool_clean_force_fame_describe
-bip_39_word_underscore_8: relax_element_pool_clean_force_fame_describe_force
-bip_39_word_underscore_9: relax_element_pool_clean_force_fame_describe_force_practice
 classification: category
 classification_capital: Category
 classification_first_letter: c

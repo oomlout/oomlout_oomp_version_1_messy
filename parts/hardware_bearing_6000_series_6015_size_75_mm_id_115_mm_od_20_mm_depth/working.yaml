@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sauce
-bip_39_word_dash_10: sauce-today-always-laundry-ridge-depart-panic-have-motor-famous
-bip_39_word_dash_11: sauce-today-always-laundry-ridge-depart-panic-have-motor-famous-tuna
 bip_39_word_dash_12: sauce-today-always-laundry-ridge-depart-panic-have-motor-famous-tuna-address
 bip_39_word_dash_2: sauce-today
 bip_39_word_dash_3: sauce-today-always
-bip_39_word_dash_4: sauce-today-always-laundry
-bip_39_word_dash_5: sauce-today-always-laundry-ridge
-bip_39_word_dash_6: sauce-today-always-laundry-ridge-depart
-bip_39_word_dash_7: sauce-today-always-laundry-ridge-depart-panic
-bip_39_word_dash_8: sauce-today-always-laundry-ridge-depart-panic-have
-bip_39_word_dash_9: sauce-today-always-laundry-ridge-depart-panic-have-motor
-bip_39_word_new_br_1: sauce
-bip_39_word_new_br_10: sauce<br>today<br>always<br>laundry<br>ridge<br>depart<br>panic<br>have<br>motor<br>famous
-bip_39_word_new_br_11: sauce<br>today<br>always<br>laundry<br>ridge<br>depart<br>panic<br>have<br>motor<br>famous<br>tuna
 bip_39_word_new_br_12: sauce<br>today<br>always<br>laundry<br>ridge<br>depart<br>panic<br>have<br>motor<br>famous<br>tuna<br>address
 bip_39_word_new_br_2: sauce<br>today
 bip_39_word_new_br_3: sauce<br>today<br>always
-bip_39_word_new_br_4: sauce<br>today<br>always<br>laundry
-bip_39_word_new_br_5: sauce<br>today<br>always<br>laundry<br>ridge
-bip_39_word_new_br_6: sauce<br>today<br>always<br>laundry<br>ridge<br>depart
-bip_39_word_new_br_7: sauce<br>today<br>always<br>laundry<br>ridge<br>depart<br>panic
-bip_39_word_new_br_8: sauce<br>today<br>always<br>laundry<br>ridge<br>depart<br>panic<br>have
-bip_39_word_new_br_9: sauce<br>today<br>always<br>laundry<br>ridge<br>depart<br>panic<br>have<br>motor
-bip_39_word_new_line_1: sauce
-bip_39_word_new_line_10: 'sauce
-
-  today
-
-  always
-
-  laundry
-
-  ridge
-
-  depart
-
-  panic
-
-  have
-
-  motor
-
-  famous'
-bip_39_word_new_line_11: 'sauce
-
-  today
-
-  always
-
-  laundry
-
-  ridge
-
-  depart
-
-  panic
-
-  have
-
-  motor
-
-  famous
-
-  tuna'
 bip_39_word_new_line_12: 'sauce
 
   today
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sauce
   today
 
   always'
-bip_39_word_new_line_4: 'sauce
-
-  today
-
-  always
-
-  laundry'
-bip_39_word_new_line_5: 'sauce
-
-  today
-
-  always
-
-  laundry
-
-  ridge'
-bip_39_word_new_line_6: 'sauce
-
-  today
-
-  always
-
-  laundry
-
-  ridge
-
-  depart'
-bip_39_word_new_line_7: 'sauce
-
-  today
-
-  always
-
-  laundry
-
-  ridge
-
-  depart
-
-  panic'
-bip_39_word_new_line_8: 'sauce
-
-  today
-
-  always
-
-  laundry
-
-  ridge
-
-  depart
-
-  panic
-
-  have'
-bip_39_word_new_line_9: 'sauce
-
-  today
-
-  always
-
-  laundry
-
-  ridge
-
-  depart
-
-  panic
-
-  have
-
-  motor'
-bip_39_word_no_space_1: sauce
-bip_39_word_no_space_10: saucetodayalwayslaundryridgedepartpanichavemotorfamous
-bip_39_word_no_space_11: saucetodayalwayslaundryridgedepartpanichavemotorfamoustuna
 bip_39_word_no_space_12: saucetodayalwayslaundryridgedepartpanichavemotorfamoustunaaddress
 bip_39_word_no_space_2: saucetoday
 bip_39_word_no_space_3: saucetodayalways
-bip_39_word_no_space_4: saucetodayalwayslaundry
-bip_39_word_no_space_5: saucetodayalwayslaundryridge
-bip_39_word_no_space_6: saucetodayalwayslaundryridgedepart
-bip_39_word_no_space_7: saucetodayalwayslaundryridgedepartpanic
-bip_39_word_no_space_8: saucetodayalwayslaundryridgedepartpanichave
-bip_39_word_no_space_9: saucetodayalwayslaundryridgedepartpanichavemotor
-bip_39_word_space_0:
-- sauce
-- today
-- always
-- laundry
-- ridge
-- depart
-- panic
-- have
-- motor
-- famous
-- tuna
-- address
-bip_39_word_space_1: sauce
-bip_39_word_space_10: sauce today always laundry ridge depart panic have motor famous
-bip_39_word_space_11: sauce today always laundry ridge depart panic have motor famous
-  tuna
 bip_39_word_space_12: sauce today always laundry ridge depart panic have motor famous
   tuna address
 bip_39_word_space_2: sauce today
 bip_39_word_space_3: sauce today always
-bip_39_word_space_4: sauce today always laundry
-bip_39_word_space_5: sauce today always laundry ridge
-bip_39_word_space_6: sauce today always laundry ridge depart
-bip_39_word_space_7: sauce today always laundry ridge depart panic
-bip_39_word_space_8: sauce today always laundry ridge depart panic have
-bip_39_word_space_9: sauce today always laundry ridge depart panic have motor
-bip_39_word_underscore_1: sauce
-bip_39_word_underscore_10: sauce_today_always_laundry_ridge_depart_panic_have_motor_famous
-bip_39_word_underscore_11: sauce_today_always_laundry_ridge_depart_panic_have_motor_famous_tuna
 bip_39_word_underscore_12: sauce_today_always_laundry_ridge_depart_panic_have_motor_famous_tuna_address
 bip_39_word_underscore_2: sauce_today
 bip_39_word_underscore_3: sauce_today_always
-bip_39_word_underscore_4: sauce_today_always_laundry
-bip_39_word_underscore_5: sauce_today_always_laundry_ridge
-bip_39_word_underscore_6: sauce_today_always_laundry_ridge_depart
-bip_39_word_underscore_7: sauce_today_always_laundry_ridge_depart_panic
-bip_39_word_underscore_8: sauce_today_always_laundry_ridge_depart_panic_have
-bip_39_word_underscore_9: sauce_today_always_laundry_ridge_depart_panic_have_motor
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

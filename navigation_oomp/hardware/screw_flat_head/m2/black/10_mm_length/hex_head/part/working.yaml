@@ -1,68 +1,9 @@
-bip_39_word_dash_1: collect
-bip_39_word_dash_10: collect-choose-clay-guess-blade-sword-scatter-year-arctic-garden
-bip_39_word_dash_11: collect-choose-clay-guess-blade-sword-scatter-year-arctic-garden-equal
 bip_39_word_dash_12: collect-choose-clay-guess-blade-sword-scatter-year-arctic-garden-equal-apology
 bip_39_word_dash_2: collect-choose
 bip_39_word_dash_3: collect-choose-clay
-bip_39_word_dash_4: collect-choose-clay-guess
-bip_39_word_dash_5: collect-choose-clay-guess-blade
-bip_39_word_dash_6: collect-choose-clay-guess-blade-sword
-bip_39_word_dash_7: collect-choose-clay-guess-blade-sword-scatter
-bip_39_word_dash_8: collect-choose-clay-guess-blade-sword-scatter-year
-bip_39_word_dash_9: collect-choose-clay-guess-blade-sword-scatter-year-arctic
-bip_39_word_new_br_1: collect
-bip_39_word_new_br_10: collect<br>choose<br>clay<br>guess<br>blade<br>sword<br>scatter<br>year<br>arctic<br>garden
-bip_39_word_new_br_11: collect<br>choose<br>clay<br>guess<br>blade<br>sword<br>scatter<br>year<br>arctic<br>garden<br>equal
 bip_39_word_new_br_12: collect<br>choose<br>clay<br>guess<br>blade<br>sword<br>scatter<br>year<br>arctic<br>garden<br>equal<br>apology
 bip_39_word_new_br_2: collect<br>choose
 bip_39_word_new_br_3: collect<br>choose<br>clay
-bip_39_word_new_br_4: collect<br>choose<br>clay<br>guess
-bip_39_word_new_br_5: collect<br>choose<br>clay<br>guess<br>blade
-bip_39_word_new_br_6: collect<br>choose<br>clay<br>guess<br>blade<br>sword
-bip_39_word_new_br_7: collect<br>choose<br>clay<br>guess<br>blade<br>sword<br>scatter
-bip_39_word_new_br_8: collect<br>choose<br>clay<br>guess<br>blade<br>sword<br>scatter<br>year
-bip_39_word_new_br_9: collect<br>choose<br>clay<br>guess<br>blade<br>sword<br>scatter<br>year<br>arctic
-bip_39_word_new_line_1: collect
-bip_39_word_new_line_10: 'collect
-
-  choose
-
-  clay
-
-  guess
-
-  blade
-
-  sword
-
-  scatter
-
-  year
-
-  arctic
-
-  garden'
-bip_39_word_new_line_11: 'collect
-
-  choose
-
-  clay
-
-  guess
-
-  blade
-
-  sword
-
-  scatter
-
-  year
-
-  arctic
-
-  garden
-
-  equal'
 bip_39_word_new_line_12: 'collect
 
   choose
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'collect
   choose
 
   clay'
-bip_39_word_new_line_4: 'collect
-
-  choose
-
-  clay
-
-  guess'
-bip_39_word_new_line_5: 'collect
-
-  choose
-
-  clay
-
-  guess
-
-  blade'
-bip_39_word_new_line_6: 'collect
-
-  choose
-
-  clay
-
-  guess
-
-  blade
-
-  sword'
-bip_39_word_new_line_7: 'collect
-
-  choose
-
-  clay
-
-  guess
-
-  blade
-
-  sword
-
-  scatter'
-bip_39_word_new_line_8: 'collect
-
-  choose
-
-  clay
-
-  guess
-
-  blade
-
-  sword
-
-  scatter
-
-  year'
-bip_39_word_new_line_9: 'collect
-
-  choose
-
-  clay
-
-  guess
-
-  blade
-
-  sword
-
-  scatter
-
-  year
-
-  arctic'
-bip_39_word_no_space_1: collect
-bip_39_word_no_space_10: collectchooseclayguessbladeswordscatteryeararcticgarden
-bip_39_word_no_space_11: collectchooseclayguessbladeswordscatteryeararcticgardenequal
 bip_39_word_no_space_12: collectchooseclayguessbladeswordscatteryeararcticgardenequalapology
 bip_39_word_no_space_2: collectchoose
 bip_39_word_no_space_3: collectchooseclay
-bip_39_word_no_space_4: collectchooseclayguess
-bip_39_word_no_space_5: collectchooseclayguessblade
-bip_39_word_no_space_6: collectchooseclayguessbladesword
-bip_39_word_no_space_7: collectchooseclayguessbladeswordscatter
-bip_39_word_no_space_8: collectchooseclayguessbladeswordscatteryear
-bip_39_word_no_space_9: collectchooseclayguessbladeswordscatteryeararctic
-bip_39_word_space_0:
-- collect
-- choose
-- clay
-- guess
-- blade
-- sword
-- scatter
-- year
-- arctic
-- garden
-- equal
-- apology
-bip_39_word_space_1: collect
-bip_39_word_space_10: collect choose clay guess blade sword scatter year arctic garden
-bip_39_word_space_11: collect choose clay guess blade sword scatter year arctic garden
-  equal
 bip_39_word_space_12: collect choose clay guess blade sword scatter year arctic garden
   equal apology
 bip_39_word_space_2: collect choose
 bip_39_word_space_3: collect choose clay
-bip_39_word_space_4: collect choose clay guess
-bip_39_word_space_5: collect choose clay guess blade
-bip_39_word_space_6: collect choose clay guess blade sword
-bip_39_word_space_7: collect choose clay guess blade sword scatter
-bip_39_word_space_8: collect choose clay guess blade sword scatter year
-bip_39_word_space_9: collect choose clay guess blade sword scatter year arctic
-bip_39_word_underscore_1: collect
-bip_39_word_underscore_10: collect_choose_clay_guess_blade_sword_scatter_year_arctic_garden
-bip_39_word_underscore_11: collect_choose_clay_guess_blade_sword_scatter_year_arctic_garden_equal
 bip_39_word_underscore_12: collect_choose_clay_guess_blade_sword_scatter_year_arctic_garden_equal_apology
 bip_39_word_underscore_2: collect_choose
 bip_39_word_underscore_3: collect_choose_clay
-bip_39_word_underscore_4: collect_choose_clay_guess
-bip_39_word_underscore_5: collect_choose_clay_guess_blade
-bip_39_word_underscore_6: collect_choose_clay_guess_blade_sword
-bip_39_word_underscore_7: collect_choose_clay_guess_blade_sword_scatter
-bip_39_word_underscore_8: collect_choose_clay_guess_blade_sword_scatter_year
-bip_39_word_underscore_9: collect_choose_clay_guess_blade_sword_scatter_year_arctic
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

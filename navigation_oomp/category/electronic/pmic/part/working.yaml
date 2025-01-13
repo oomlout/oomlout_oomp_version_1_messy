@@ -1,68 +1,9 @@
-bip_39_word_dash_1: guard
-bip_39_word_dash_10: guard-inherit-cricket-initial-pioneer-business-library-dash-learn-frequent
-bip_39_word_dash_11: guard-inherit-cricket-initial-pioneer-business-library-dash-learn-frequent-sting
 bip_39_word_dash_12: guard-inherit-cricket-initial-pioneer-business-library-dash-learn-frequent-sting-actual
 bip_39_word_dash_2: guard-inherit
 bip_39_word_dash_3: guard-inherit-cricket
-bip_39_word_dash_4: guard-inherit-cricket-initial
-bip_39_word_dash_5: guard-inherit-cricket-initial-pioneer
-bip_39_word_dash_6: guard-inherit-cricket-initial-pioneer-business
-bip_39_word_dash_7: guard-inherit-cricket-initial-pioneer-business-library
-bip_39_word_dash_8: guard-inherit-cricket-initial-pioneer-business-library-dash
-bip_39_word_dash_9: guard-inherit-cricket-initial-pioneer-business-library-dash-learn
-bip_39_word_new_br_1: guard
-bip_39_word_new_br_10: guard<br>inherit<br>cricket<br>initial<br>pioneer<br>business<br>library<br>dash<br>learn<br>frequent
-bip_39_word_new_br_11: guard<br>inherit<br>cricket<br>initial<br>pioneer<br>business<br>library<br>dash<br>learn<br>frequent<br>sting
 bip_39_word_new_br_12: guard<br>inherit<br>cricket<br>initial<br>pioneer<br>business<br>library<br>dash<br>learn<br>frequent<br>sting<br>actual
 bip_39_word_new_br_2: guard<br>inherit
 bip_39_word_new_br_3: guard<br>inherit<br>cricket
-bip_39_word_new_br_4: guard<br>inherit<br>cricket<br>initial
-bip_39_word_new_br_5: guard<br>inherit<br>cricket<br>initial<br>pioneer
-bip_39_word_new_br_6: guard<br>inherit<br>cricket<br>initial<br>pioneer<br>business
-bip_39_word_new_br_7: guard<br>inherit<br>cricket<br>initial<br>pioneer<br>business<br>library
-bip_39_word_new_br_8: guard<br>inherit<br>cricket<br>initial<br>pioneer<br>business<br>library<br>dash
-bip_39_word_new_br_9: guard<br>inherit<br>cricket<br>initial<br>pioneer<br>business<br>library<br>dash<br>learn
-bip_39_word_new_line_1: guard
-bip_39_word_new_line_10: 'guard
-
-  inherit
-
-  cricket
-
-  initial
-
-  pioneer
-
-  business
-
-  library
-
-  dash
-
-  learn
-
-  frequent'
-bip_39_word_new_line_11: 'guard
-
-  inherit
-
-  cricket
-
-  initial
-
-  pioneer
-
-  business
-
-  library
-
-  dash
-
-  learn
-
-  frequent
-
-  sting'
 bip_39_word_new_line_12: 'guard
 
   inherit
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'guard
   inherit
 
   cricket'
-bip_39_word_new_line_4: 'guard
-
-  inherit
-
-  cricket
-
-  initial'
-bip_39_word_new_line_5: 'guard
-
-  inherit
-
-  cricket
-
-  initial
-
-  pioneer'
-bip_39_word_new_line_6: 'guard
-
-  inherit
-
-  cricket
-
-  initial
-
-  pioneer
-
-  business'
-bip_39_word_new_line_7: 'guard
-
-  inherit
-
-  cricket
-
-  initial
-
-  pioneer
-
-  business
-
-  library'
-bip_39_word_new_line_8: 'guard
-
-  inherit
-
-  cricket
-
-  initial
-
-  pioneer
-
-  business
-
-  library
-
-  dash'
-bip_39_word_new_line_9: 'guard
-
-  inherit
-
-  cricket
-
-  initial
-
-  pioneer
-
-  business
-
-  library
-
-  dash
-
-  learn'
-bip_39_word_no_space_1: guard
-bip_39_word_no_space_10: guardinheritcricketinitialpioneerbusinesslibrarydashlearnfrequent
-bip_39_word_no_space_11: guardinheritcricketinitialpioneerbusinesslibrarydashlearnfrequentsting
 bip_39_word_no_space_12: guardinheritcricketinitialpioneerbusinesslibrarydashlearnfrequentstingactual
 bip_39_word_no_space_2: guardinherit
 bip_39_word_no_space_3: guardinheritcricket
-bip_39_word_no_space_4: guardinheritcricketinitial
-bip_39_word_no_space_5: guardinheritcricketinitialpioneer
-bip_39_word_no_space_6: guardinheritcricketinitialpioneerbusiness
-bip_39_word_no_space_7: guardinheritcricketinitialpioneerbusinesslibrary
-bip_39_word_no_space_8: guardinheritcricketinitialpioneerbusinesslibrarydash
-bip_39_word_no_space_9: guardinheritcricketinitialpioneerbusinesslibrarydashlearn
-bip_39_word_space_0:
-- guard
-- inherit
-- cricket
-- initial
-- pioneer
-- business
-- library
-- dash
-- learn
-- frequent
-- sting
-- actual
-bip_39_word_space_1: guard
-bip_39_word_space_10: guard inherit cricket initial pioneer business library dash
-  learn frequent
-bip_39_word_space_11: guard inherit cricket initial pioneer business library dash
-  learn frequent sting
 bip_39_word_space_12: guard inherit cricket initial pioneer business library dash
   learn frequent sting actual
 bip_39_word_space_2: guard inherit
 bip_39_word_space_3: guard inherit cricket
-bip_39_word_space_4: guard inherit cricket initial
-bip_39_word_space_5: guard inherit cricket initial pioneer
-bip_39_word_space_6: guard inherit cricket initial pioneer business
-bip_39_word_space_7: guard inherit cricket initial pioneer business library
-bip_39_word_space_8: guard inherit cricket initial pioneer business library dash
-bip_39_word_space_9: guard inherit cricket initial pioneer business library dash learn
-bip_39_word_underscore_1: guard
-bip_39_word_underscore_10: guard_inherit_cricket_initial_pioneer_business_library_dash_learn_frequent
-bip_39_word_underscore_11: guard_inherit_cricket_initial_pioneer_business_library_dash_learn_frequent_sting
 bip_39_word_underscore_12: guard_inherit_cricket_initial_pioneer_business_library_dash_learn_frequent_sting_actual
 bip_39_word_underscore_2: guard_inherit
 bip_39_word_underscore_3: guard_inherit_cricket
-bip_39_word_underscore_4: guard_inherit_cricket_initial
-bip_39_word_underscore_5: guard_inherit_cricket_initial_pioneer
-bip_39_word_underscore_6: guard_inherit_cricket_initial_pioneer_business
-bip_39_word_underscore_7: guard_inherit_cricket_initial_pioneer_business_library
-bip_39_word_underscore_8: guard_inherit_cricket_initial_pioneer_business_library_dash
-bip_39_word_underscore_9: guard_inherit_cricket_initial_pioneer_business_library_dash_learn
 classification: category
 classification_capital: Category
 classification_first_letter: c

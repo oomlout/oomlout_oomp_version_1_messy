@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wild
-bip_39_word_dash_10: wild-tobacco-tomorrow-idle-desert-have-yellow-proof-lunch-glimpse
-bip_39_word_dash_11: wild-tobacco-tomorrow-idle-desert-have-yellow-proof-lunch-glimpse-symptom
 bip_39_word_dash_12: wild-tobacco-tomorrow-idle-desert-have-yellow-proof-lunch-glimpse-symptom-arch
 bip_39_word_dash_2: wild-tobacco
 bip_39_word_dash_3: wild-tobacco-tomorrow
-bip_39_word_dash_4: wild-tobacco-tomorrow-idle
-bip_39_word_dash_5: wild-tobacco-tomorrow-idle-desert
-bip_39_word_dash_6: wild-tobacco-tomorrow-idle-desert-have
-bip_39_word_dash_7: wild-tobacco-tomorrow-idle-desert-have-yellow
-bip_39_word_dash_8: wild-tobacco-tomorrow-idle-desert-have-yellow-proof
-bip_39_word_dash_9: wild-tobacco-tomorrow-idle-desert-have-yellow-proof-lunch
-bip_39_word_new_br_1: wild
-bip_39_word_new_br_10: wild<br>tobacco<br>tomorrow<br>idle<br>desert<br>have<br>yellow<br>proof<br>lunch<br>glimpse
-bip_39_word_new_br_11: wild<br>tobacco<br>tomorrow<br>idle<br>desert<br>have<br>yellow<br>proof<br>lunch<br>glimpse<br>symptom
 bip_39_word_new_br_12: wild<br>tobacco<br>tomorrow<br>idle<br>desert<br>have<br>yellow<br>proof<br>lunch<br>glimpse<br>symptom<br>arch
 bip_39_word_new_br_2: wild<br>tobacco
 bip_39_word_new_br_3: wild<br>tobacco<br>tomorrow
-bip_39_word_new_br_4: wild<br>tobacco<br>tomorrow<br>idle
-bip_39_word_new_br_5: wild<br>tobacco<br>tomorrow<br>idle<br>desert
-bip_39_word_new_br_6: wild<br>tobacco<br>tomorrow<br>idle<br>desert<br>have
-bip_39_word_new_br_7: wild<br>tobacco<br>tomorrow<br>idle<br>desert<br>have<br>yellow
-bip_39_word_new_br_8: wild<br>tobacco<br>tomorrow<br>idle<br>desert<br>have<br>yellow<br>proof
-bip_39_word_new_br_9: wild<br>tobacco<br>tomorrow<br>idle<br>desert<br>have<br>yellow<br>proof<br>lunch
-bip_39_word_new_line_1: wild
-bip_39_word_new_line_10: 'wild
-
-  tobacco
-
-  tomorrow
-
-  idle
-
-  desert
-
-  have
-
-  yellow
-
-  proof
-
-  lunch
-
-  glimpse'
-bip_39_word_new_line_11: 'wild
-
-  tobacco
-
-  tomorrow
-
-  idle
-
-  desert
-
-  have
-
-  yellow
-
-  proof
-
-  lunch
-
-  glimpse
-
-  symptom'
 bip_39_word_new_line_12: 'wild
 
   tobacco
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wild
   tobacco
 
   tomorrow'
-bip_39_word_new_line_4: 'wild
-
-  tobacco
-
-  tomorrow
-
-  idle'
-bip_39_word_new_line_5: 'wild
-
-  tobacco
-
-  tomorrow
-
-  idle
-
-  desert'
-bip_39_word_new_line_6: 'wild
-
-  tobacco
-
-  tomorrow
-
-  idle
-
-  desert
-
-  have'
-bip_39_word_new_line_7: 'wild
-
-  tobacco
-
-  tomorrow
-
-  idle
-
-  desert
-
-  have
-
-  yellow'
-bip_39_word_new_line_8: 'wild
-
-  tobacco
-
-  tomorrow
-
-  idle
-
-  desert
-
-  have
-
-  yellow
-
-  proof'
-bip_39_word_new_line_9: 'wild
-
-  tobacco
-
-  tomorrow
-
-  idle
-
-  desert
-
-  have
-
-  yellow
-
-  proof
-
-  lunch'
-bip_39_word_no_space_1: wild
-bip_39_word_no_space_10: wildtobaccotomorrowidledeserthaveyellowprooflunchglimpse
-bip_39_word_no_space_11: wildtobaccotomorrowidledeserthaveyellowprooflunchglimpsesymptom
 bip_39_word_no_space_12: wildtobaccotomorrowidledeserthaveyellowprooflunchglimpsesymptomarch
 bip_39_word_no_space_2: wildtobacco
 bip_39_word_no_space_3: wildtobaccotomorrow
-bip_39_word_no_space_4: wildtobaccotomorrowidle
-bip_39_word_no_space_5: wildtobaccotomorrowidledesert
-bip_39_word_no_space_6: wildtobaccotomorrowidledeserthave
-bip_39_word_no_space_7: wildtobaccotomorrowidledeserthaveyellow
-bip_39_word_no_space_8: wildtobaccotomorrowidledeserthaveyellowproof
-bip_39_word_no_space_9: wildtobaccotomorrowidledeserthaveyellowprooflunch
-bip_39_word_space_0:
-- wild
-- tobacco
-- tomorrow
-- idle
-- desert
-- have
-- yellow
-- proof
-- lunch
-- glimpse
-- symptom
-- arch
-bip_39_word_space_1: wild
-bip_39_word_space_10: wild tobacco tomorrow idle desert have yellow proof lunch glimpse
-bip_39_word_space_11: wild tobacco tomorrow idle desert have yellow proof lunch glimpse
-  symptom
 bip_39_word_space_12: wild tobacco tomorrow idle desert have yellow proof lunch glimpse
   symptom arch
 bip_39_word_space_2: wild tobacco
 bip_39_word_space_3: wild tobacco tomorrow
-bip_39_word_space_4: wild tobacco tomorrow idle
-bip_39_word_space_5: wild tobacco tomorrow idle desert
-bip_39_word_space_6: wild tobacco tomorrow idle desert have
-bip_39_word_space_7: wild tobacco tomorrow idle desert have yellow
-bip_39_word_space_8: wild tobacco tomorrow idle desert have yellow proof
-bip_39_word_space_9: wild tobacco tomorrow idle desert have yellow proof lunch
-bip_39_word_underscore_1: wild
-bip_39_word_underscore_10: wild_tobacco_tomorrow_idle_desert_have_yellow_proof_lunch_glimpse
-bip_39_word_underscore_11: wild_tobacco_tomorrow_idle_desert_have_yellow_proof_lunch_glimpse_symptom
 bip_39_word_underscore_12: wild_tobacco_tomorrow_idle_desert_have_yellow_proof_lunch_glimpse_symptom_arch
 bip_39_word_underscore_2: wild_tobacco
 bip_39_word_underscore_3: wild_tobacco_tomorrow
-bip_39_word_underscore_4: wild_tobacco_tomorrow_idle
-bip_39_word_underscore_5: wild_tobacco_tomorrow_idle_desert
-bip_39_word_underscore_6: wild_tobacco_tomorrow_idle_desert_have
-bip_39_word_underscore_7: wild_tobacco_tomorrow_idle_desert_have_yellow
-bip_39_word_underscore_8: wild_tobacco_tomorrow_idle_desert_have_yellow_proof
-bip_39_word_underscore_9: wild_tobacco_tomorrow_idle_desert_have_yellow_proof_lunch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

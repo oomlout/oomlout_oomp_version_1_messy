@@ -1,68 +1,9 @@
-bip_39_word_dash_1: swap
-bip_39_word_dash_10: swap-have-transfer-wheel-crouch-nation-ladder-stone-board-clump
-bip_39_word_dash_11: swap-have-transfer-wheel-crouch-nation-ladder-stone-board-clump-dish
 bip_39_word_dash_12: swap-have-transfer-wheel-crouch-nation-ladder-stone-board-clump-dish-aim
 bip_39_word_dash_2: swap-have
 bip_39_word_dash_3: swap-have-transfer
-bip_39_word_dash_4: swap-have-transfer-wheel
-bip_39_word_dash_5: swap-have-transfer-wheel-crouch
-bip_39_word_dash_6: swap-have-transfer-wheel-crouch-nation
-bip_39_word_dash_7: swap-have-transfer-wheel-crouch-nation-ladder
-bip_39_word_dash_8: swap-have-transfer-wheel-crouch-nation-ladder-stone
-bip_39_word_dash_9: swap-have-transfer-wheel-crouch-nation-ladder-stone-board
-bip_39_word_new_br_1: swap
-bip_39_word_new_br_10: swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump
-bip_39_word_new_br_11: swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump<br>dish
 bip_39_word_new_br_12: swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board<br>clump<br>dish<br>aim
 bip_39_word_new_br_2: swap<br>have
 bip_39_word_new_br_3: swap<br>have<br>transfer
-bip_39_word_new_br_4: swap<br>have<br>transfer<br>wheel
-bip_39_word_new_br_5: swap<br>have<br>transfer<br>wheel<br>crouch
-bip_39_word_new_br_6: swap<br>have<br>transfer<br>wheel<br>crouch<br>nation
-bip_39_word_new_br_7: swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder
-bip_39_word_new_br_8: swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone
-bip_39_word_new_br_9: swap<br>have<br>transfer<br>wheel<br>crouch<br>nation<br>ladder<br>stone<br>board
-bip_39_word_new_line_1: swap
-bip_39_word_new_line_10: 'swap
-
-  have
-
-  transfer
-
-  wheel
-
-  crouch
-
-  nation
-
-  ladder
-
-  stone
-
-  board
-
-  clump'
-bip_39_word_new_line_11: 'swap
-
-  have
-
-  transfer
-
-  wheel
-
-  crouch
-
-  nation
-
-  ladder
-
-  stone
-
-  board
-
-  clump
-
-  dish'
 bip_39_word_new_line_12: 'swap
 
   have
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'swap
   have
 
   transfer'
-bip_39_word_new_line_4: 'swap
-
-  have
-
-  transfer
-
-  wheel'
-bip_39_word_new_line_5: 'swap
-
-  have
-
-  transfer
-
-  wheel
-
-  crouch'
-bip_39_word_new_line_6: 'swap
-
-  have
-
-  transfer
-
-  wheel
-
-  crouch
-
-  nation'
-bip_39_word_new_line_7: 'swap
-
-  have
-
-  transfer
-
-  wheel
-
-  crouch
-
-  nation
-
-  ladder'
-bip_39_word_new_line_8: 'swap
-
-  have
-
-  transfer
-
-  wheel
-
-  crouch
-
-  nation
-
-  ladder
-
-  stone'
-bip_39_word_new_line_9: 'swap
-
-  have
-
-  transfer
-
-  wheel
-
-  crouch
-
-  nation
-
-  ladder
-
-  stone
-
-  board'
-bip_39_word_no_space_1: swap
-bip_39_word_no_space_10: swaphavetransferwheelcrouchnationladderstoneboardclump
-bip_39_word_no_space_11: swaphavetransferwheelcrouchnationladderstoneboardclumpdish
 bip_39_word_no_space_12: swaphavetransferwheelcrouchnationladderstoneboardclumpdishaim
 bip_39_word_no_space_2: swaphave
 bip_39_word_no_space_3: swaphavetransfer
-bip_39_word_no_space_4: swaphavetransferwheel
-bip_39_word_no_space_5: swaphavetransferwheelcrouch
-bip_39_word_no_space_6: swaphavetransferwheelcrouchnation
-bip_39_word_no_space_7: swaphavetransferwheelcrouchnationladder
-bip_39_word_no_space_8: swaphavetransferwheelcrouchnationladderstone
-bip_39_word_no_space_9: swaphavetransferwheelcrouchnationladderstoneboard
-bip_39_word_space_0:
-- swap
-- have
-- transfer
-- wheel
-- crouch
-- nation
-- ladder
-- stone
-- board
-- clump
-- dish
-- aim
-bip_39_word_space_1: swap
-bip_39_word_space_10: swap have transfer wheel crouch nation ladder stone board clump
-bip_39_word_space_11: swap have transfer wheel crouch nation ladder stone board clump
-  dish
 bip_39_word_space_12: swap have transfer wheel crouch nation ladder stone board clump
   dish aim
 bip_39_word_space_2: swap have
 bip_39_word_space_3: swap have transfer
-bip_39_word_space_4: swap have transfer wheel
-bip_39_word_space_5: swap have transfer wheel crouch
-bip_39_word_space_6: swap have transfer wheel crouch nation
-bip_39_word_space_7: swap have transfer wheel crouch nation ladder
-bip_39_word_space_8: swap have transfer wheel crouch nation ladder stone
-bip_39_word_space_9: swap have transfer wheel crouch nation ladder stone board
-bip_39_word_underscore_1: swap
-bip_39_word_underscore_10: swap_have_transfer_wheel_crouch_nation_ladder_stone_board_clump
-bip_39_word_underscore_11: swap_have_transfer_wheel_crouch_nation_ladder_stone_board_clump_dish
 bip_39_word_underscore_12: swap_have_transfer_wheel_crouch_nation_ladder_stone_board_clump_dish_aim
 bip_39_word_underscore_2: swap_have
 bip_39_word_underscore_3: swap_have_transfer
-bip_39_word_underscore_4: swap_have_transfer_wheel
-bip_39_word_underscore_5: swap_have_transfer_wheel_crouch
-bip_39_word_underscore_6: swap_have_transfer_wheel_crouch_nation
-bip_39_word_underscore_7: swap_have_transfer_wheel_crouch_nation_ladder
-bip_39_word_underscore_8: swap_have_transfer_wheel_crouch_nation_ladder_stone
-bip_39_word_underscore_9: swap_have_transfer_wheel_crouch_nation_ladder_stone_board
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

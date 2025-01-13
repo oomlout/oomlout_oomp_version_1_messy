@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fuel
-bip_39_word_dash_10: fuel-maximum-leopard-opera-evoke-curve-around-yard-bean-math
-bip_39_word_dash_11: fuel-maximum-leopard-opera-evoke-curve-around-yard-bean-math-cotton
 bip_39_word_dash_12: fuel-maximum-leopard-opera-evoke-curve-around-yard-bean-math-cotton-acid
 bip_39_word_dash_2: fuel-maximum
 bip_39_word_dash_3: fuel-maximum-leopard
-bip_39_word_dash_4: fuel-maximum-leopard-opera
-bip_39_word_dash_5: fuel-maximum-leopard-opera-evoke
-bip_39_word_dash_6: fuel-maximum-leopard-opera-evoke-curve
-bip_39_word_dash_7: fuel-maximum-leopard-opera-evoke-curve-around
-bip_39_word_dash_8: fuel-maximum-leopard-opera-evoke-curve-around-yard
-bip_39_word_dash_9: fuel-maximum-leopard-opera-evoke-curve-around-yard-bean
-bip_39_word_new_br_1: fuel
-bip_39_word_new_br_10: fuel<br>maximum<br>leopard<br>opera<br>evoke<br>curve<br>around<br>yard<br>bean<br>math
-bip_39_word_new_br_11: fuel<br>maximum<br>leopard<br>opera<br>evoke<br>curve<br>around<br>yard<br>bean<br>math<br>cotton
 bip_39_word_new_br_12: fuel<br>maximum<br>leopard<br>opera<br>evoke<br>curve<br>around<br>yard<br>bean<br>math<br>cotton<br>acid
 bip_39_word_new_br_2: fuel<br>maximum
 bip_39_word_new_br_3: fuel<br>maximum<br>leopard
-bip_39_word_new_br_4: fuel<br>maximum<br>leopard<br>opera
-bip_39_word_new_br_5: fuel<br>maximum<br>leopard<br>opera<br>evoke
-bip_39_word_new_br_6: fuel<br>maximum<br>leopard<br>opera<br>evoke<br>curve
-bip_39_word_new_br_7: fuel<br>maximum<br>leopard<br>opera<br>evoke<br>curve<br>around
-bip_39_word_new_br_8: fuel<br>maximum<br>leopard<br>opera<br>evoke<br>curve<br>around<br>yard
-bip_39_word_new_br_9: fuel<br>maximum<br>leopard<br>opera<br>evoke<br>curve<br>around<br>yard<br>bean
-bip_39_word_new_line_1: fuel
-bip_39_word_new_line_10: 'fuel
-
-  maximum
-
-  leopard
-
-  opera
-
-  evoke
-
-  curve
-
-  around
-
-  yard
-
-  bean
-
-  math'
-bip_39_word_new_line_11: 'fuel
-
-  maximum
-
-  leopard
-
-  opera
-
-  evoke
-
-  curve
-
-  around
-
-  yard
-
-  bean
-
-  math
-
-  cotton'
 bip_39_word_new_line_12: 'fuel
 
   maximum
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fuel
   maximum
 
   leopard'
-bip_39_word_new_line_4: 'fuel
-
-  maximum
-
-  leopard
-
-  opera'
-bip_39_word_new_line_5: 'fuel
-
-  maximum
-
-  leopard
-
-  opera
-
-  evoke'
-bip_39_word_new_line_6: 'fuel
-
-  maximum
-
-  leopard
-
-  opera
-
-  evoke
-
-  curve'
-bip_39_word_new_line_7: 'fuel
-
-  maximum
-
-  leopard
-
-  opera
-
-  evoke
-
-  curve
-
-  around'
-bip_39_word_new_line_8: 'fuel
-
-  maximum
-
-  leopard
-
-  opera
-
-  evoke
-
-  curve
-
-  around
-
-  yard'
-bip_39_word_new_line_9: 'fuel
-
-  maximum
-
-  leopard
-
-  opera
-
-  evoke
-
-  curve
-
-  around
-
-  yard
-
-  bean'
-bip_39_word_no_space_1: fuel
-bip_39_word_no_space_10: fuelmaximumleopardoperaevokecurvearoundyardbeanmath
-bip_39_word_no_space_11: fuelmaximumleopardoperaevokecurvearoundyardbeanmathcotton
 bip_39_word_no_space_12: fuelmaximumleopardoperaevokecurvearoundyardbeanmathcottonacid
 bip_39_word_no_space_2: fuelmaximum
 bip_39_word_no_space_3: fuelmaximumleopard
-bip_39_word_no_space_4: fuelmaximumleopardopera
-bip_39_word_no_space_5: fuelmaximumleopardoperaevoke
-bip_39_word_no_space_6: fuelmaximumleopardoperaevokecurve
-bip_39_word_no_space_7: fuelmaximumleopardoperaevokecurvearound
-bip_39_word_no_space_8: fuelmaximumleopardoperaevokecurvearoundyard
-bip_39_word_no_space_9: fuelmaximumleopardoperaevokecurvearoundyardbean
-bip_39_word_space_0:
-- fuel
-- maximum
-- leopard
-- opera
-- evoke
-- curve
-- around
-- yard
-- bean
-- math
-- cotton
-- acid
-bip_39_word_space_1: fuel
-bip_39_word_space_10: fuel maximum leopard opera evoke curve around yard bean math
-bip_39_word_space_11: fuel maximum leopard opera evoke curve around yard bean math
-  cotton
 bip_39_word_space_12: fuel maximum leopard opera evoke curve around yard bean math
   cotton acid
 bip_39_word_space_2: fuel maximum
 bip_39_word_space_3: fuel maximum leopard
-bip_39_word_space_4: fuel maximum leopard opera
-bip_39_word_space_5: fuel maximum leopard opera evoke
-bip_39_word_space_6: fuel maximum leopard opera evoke curve
-bip_39_word_space_7: fuel maximum leopard opera evoke curve around
-bip_39_word_space_8: fuel maximum leopard opera evoke curve around yard
-bip_39_word_space_9: fuel maximum leopard opera evoke curve around yard bean
-bip_39_word_underscore_1: fuel
-bip_39_word_underscore_10: fuel_maximum_leopard_opera_evoke_curve_around_yard_bean_math
-bip_39_word_underscore_11: fuel_maximum_leopard_opera_evoke_curve_around_yard_bean_math_cotton
 bip_39_word_underscore_12: fuel_maximum_leopard_opera_evoke_curve_around_yard_bean_math_cotton_acid
 bip_39_word_underscore_2: fuel_maximum
 bip_39_word_underscore_3: fuel_maximum_leopard
-bip_39_word_underscore_4: fuel_maximum_leopard_opera
-bip_39_word_underscore_5: fuel_maximum_leopard_opera_evoke
-bip_39_word_underscore_6: fuel_maximum_leopard_opera_evoke_curve
-bip_39_word_underscore_7: fuel_maximum_leopard_opera_evoke_curve_around
-bip_39_word_underscore_8: fuel_maximum_leopard_opera_evoke_curve_around_yard
-bip_39_word_underscore_9: fuel_maximum_leopard_opera_evoke_curve_around_yard_bean
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

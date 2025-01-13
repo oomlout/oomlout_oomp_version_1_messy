@@ -1,68 +1,9 @@
-bip_39_word_dash_1: donkey
-bip_39_word_dash_10: donkey-air-crunch-piece-absurd-artist-inherit-hotel-spot-rapid
-bip_39_word_dash_11: donkey-air-crunch-piece-absurd-artist-inherit-hotel-spot-rapid-only
 bip_39_word_dash_12: donkey-air-crunch-piece-absurd-artist-inherit-hotel-spot-rapid-only-author
 bip_39_word_dash_2: donkey-air
 bip_39_word_dash_3: donkey-air-crunch
-bip_39_word_dash_4: donkey-air-crunch-piece
-bip_39_word_dash_5: donkey-air-crunch-piece-absurd
-bip_39_word_dash_6: donkey-air-crunch-piece-absurd-artist
-bip_39_word_dash_7: donkey-air-crunch-piece-absurd-artist-inherit
-bip_39_word_dash_8: donkey-air-crunch-piece-absurd-artist-inherit-hotel
-bip_39_word_dash_9: donkey-air-crunch-piece-absurd-artist-inherit-hotel-spot
-bip_39_word_new_br_1: donkey
-bip_39_word_new_br_10: donkey<br>air<br>crunch<br>piece<br>absurd<br>artist<br>inherit<br>hotel<br>spot<br>rapid
-bip_39_word_new_br_11: donkey<br>air<br>crunch<br>piece<br>absurd<br>artist<br>inherit<br>hotel<br>spot<br>rapid<br>only
 bip_39_word_new_br_12: donkey<br>air<br>crunch<br>piece<br>absurd<br>artist<br>inherit<br>hotel<br>spot<br>rapid<br>only<br>author
 bip_39_word_new_br_2: donkey<br>air
 bip_39_word_new_br_3: donkey<br>air<br>crunch
-bip_39_word_new_br_4: donkey<br>air<br>crunch<br>piece
-bip_39_word_new_br_5: donkey<br>air<br>crunch<br>piece<br>absurd
-bip_39_word_new_br_6: donkey<br>air<br>crunch<br>piece<br>absurd<br>artist
-bip_39_word_new_br_7: donkey<br>air<br>crunch<br>piece<br>absurd<br>artist<br>inherit
-bip_39_word_new_br_8: donkey<br>air<br>crunch<br>piece<br>absurd<br>artist<br>inherit<br>hotel
-bip_39_word_new_br_9: donkey<br>air<br>crunch<br>piece<br>absurd<br>artist<br>inherit<br>hotel<br>spot
-bip_39_word_new_line_1: donkey
-bip_39_word_new_line_10: 'donkey
-
-  air
-
-  crunch
-
-  piece
-
-  absurd
-
-  artist
-
-  inherit
-
-  hotel
-
-  spot
-
-  rapid'
-bip_39_word_new_line_11: 'donkey
-
-  air
-
-  crunch
-
-  piece
-
-  absurd
-
-  artist
-
-  inherit
-
-  hotel
-
-  spot
-
-  rapid
-
-  only'
 bip_39_word_new_line_12: 'donkey
 
   air
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'donkey
   air
 
   crunch'
-bip_39_word_new_line_4: 'donkey
-
-  air
-
-  crunch
-
-  piece'
-bip_39_word_new_line_5: 'donkey
-
-  air
-
-  crunch
-
-  piece
-
-  absurd'
-bip_39_word_new_line_6: 'donkey
-
-  air
-
-  crunch
-
-  piece
-
-  absurd
-
-  artist'
-bip_39_word_new_line_7: 'donkey
-
-  air
-
-  crunch
-
-  piece
-
-  absurd
-
-  artist
-
-  inherit'
-bip_39_word_new_line_8: 'donkey
-
-  air
-
-  crunch
-
-  piece
-
-  absurd
-
-  artist
-
-  inherit
-
-  hotel'
-bip_39_word_new_line_9: 'donkey
-
-  air
-
-  crunch
-
-  piece
-
-  absurd
-
-  artist
-
-  inherit
-
-  hotel
-
-  spot'
-bip_39_word_no_space_1: donkey
-bip_39_word_no_space_10: donkeyaircrunchpieceabsurdartistinherithotelspotrapid
-bip_39_word_no_space_11: donkeyaircrunchpieceabsurdartistinherithotelspotrapidonly
 bip_39_word_no_space_12: donkeyaircrunchpieceabsurdartistinherithotelspotrapidonlyauthor
 bip_39_word_no_space_2: donkeyair
 bip_39_word_no_space_3: donkeyaircrunch
-bip_39_word_no_space_4: donkeyaircrunchpiece
-bip_39_word_no_space_5: donkeyaircrunchpieceabsurd
-bip_39_word_no_space_6: donkeyaircrunchpieceabsurdartist
-bip_39_word_no_space_7: donkeyaircrunchpieceabsurdartistinherit
-bip_39_word_no_space_8: donkeyaircrunchpieceabsurdartistinherithotel
-bip_39_word_no_space_9: donkeyaircrunchpieceabsurdartistinherithotelspot
-bip_39_word_space_0:
-- donkey
-- air
-- crunch
-- piece
-- absurd
-- artist
-- inherit
-- hotel
-- spot
-- rapid
-- only
-- author
-bip_39_word_space_1: donkey
-bip_39_word_space_10: donkey air crunch piece absurd artist inherit hotel spot rapid
-bip_39_word_space_11: donkey air crunch piece absurd artist inherit hotel spot rapid
-  only
 bip_39_word_space_12: donkey air crunch piece absurd artist inherit hotel spot rapid
   only author
 bip_39_word_space_2: donkey air
 bip_39_word_space_3: donkey air crunch
-bip_39_word_space_4: donkey air crunch piece
-bip_39_word_space_5: donkey air crunch piece absurd
-bip_39_word_space_6: donkey air crunch piece absurd artist
-bip_39_word_space_7: donkey air crunch piece absurd artist inherit
-bip_39_word_space_8: donkey air crunch piece absurd artist inherit hotel
-bip_39_word_space_9: donkey air crunch piece absurd artist inherit hotel spot
-bip_39_word_underscore_1: donkey
-bip_39_word_underscore_10: donkey_air_crunch_piece_absurd_artist_inherit_hotel_spot_rapid
-bip_39_word_underscore_11: donkey_air_crunch_piece_absurd_artist_inherit_hotel_spot_rapid_only
 bip_39_word_underscore_12: donkey_air_crunch_piece_absurd_artist_inherit_hotel_spot_rapid_only_author
 bip_39_word_underscore_2: donkey_air
 bip_39_word_underscore_3: donkey_air_crunch
-bip_39_word_underscore_4: donkey_air_crunch_piece
-bip_39_word_underscore_5: donkey_air_crunch_piece_absurd
-bip_39_word_underscore_6: donkey_air_crunch_piece_absurd_artist
-bip_39_word_underscore_7: donkey_air_crunch_piece_absurd_artist_inherit
-bip_39_word_underscore_8: donkey_air_crunch_piece_absurd_artist_inherit_hotel
-bip_39_word_underscore_9: donkey_air_crunch_piece_absurd_artist_inherit_hotel_spot
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

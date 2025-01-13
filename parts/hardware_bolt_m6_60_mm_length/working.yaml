@@ -1,68 +1,9 @@
-bip_39_word_dash_1: panic
-bip_39_word_dash_10: panic-ill-tail-edge-marine-patrol-type-paddle-tilt-salon
-bip_39_word_dash_11: panic-ill-tail-edge-marine-patrol-type-paddle-tilt-salon-leader
 bip_39_word_dash_12: panic-ill-tail-edge-marine-patrol-type-paddle-tilt-salon-leader-achieve
 bip_39_word_dash_2: panic-ill
 bip_39_word_dash_3: panic-ill-tail
-bip_39_word_dash_4: panic-ill-tail-edge
-bip_39_word_dash_5: panic-ill-tail-edge-marine
-bip_39_word_dash_6: panic-ill-tail-edge-marine-patrol
-bip_39_word_dash_7: panic-ill-tail-edge-marine-patrol-type
-bip_39_word_dash_8: panic-ill-tail-edge-marine-patrol-type-paddle
-bip_39_word_dash_9: panic-ill-tail-edge-marine-patrol-type-paddle-tilt
-bip_39_word_new_br_1: panic
-bip_39_word_new_br_10: panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle<br>tilt<br>salon
-bip_39_word_new_br_11: panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle<br>tilt<br>salon<br>leader
 bip_39_word_new_br_12: panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle<br>tilt<br>salon<br>leader<br>achieve
 bip_39_word_new_br_2: panic<br>ill
 bip_39_word_new_br_3: panic<br>ill<br>tail
-bip_39_word_new_br_4: panic<br>ill<br>tail<br>edge
-bip_39_word_new_br_5: panic<br>ill<br>tail<br>edge<br>marine
-bip_39_word_new_br_6: panic<br>ill<br>tail<br>edge<br>marine<br>patrol
-bip_39_word_new_br_7: panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type
-bip_39_word_new_br_8: panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle
-bip_39_word_new_br_9: panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle<br>tilt
-bip_39_word_new_line_1: panic
-bip_39_word_new_line_10: 'panic
-
-  ill
-
-  tail
-
-  edge
-
-  marine
-
-  patrol
-
-  type
-
-  paddle
-
-  tilt
-
-  salon'
-bip_39_word_new_line_11: 'panic
-
-  ill
-
-  tail
-
-  edge
-
-  marine
-
-  patrol
-
-  type
-
-  paddle
-
-  tilt
-
-  salon
-
-  leader'
 bip_39_word_new_line_12: 'panic
 
   ill
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'panic
   ill
 
   tail'
-bip_39_word_new_line_4: 'panic
-
-  ill
-
-  tail
-
-  edge'
-bip_39_word_new_line_5: 'panic
-
-  ill
-
-  tail
-
-  edge
-
-  marine'
-bip_39_word_new_line_6: 'panic
-
-  ill
-
-  tail
-
-  edge
-
-  marine
-
-  patrol'
-bip_39_word_new_line_7: 'panic
-
-  ill
-
-  tail
-
-  edge
-
-  marine
-
-  patrol
-
-  type'
-bip_39_word_new_line_8: 'panic
-
-  ill
-
-  tail
-
-  edge
-
-  marine
-
-  patrol
-
-  type
-
-  paddle'
-bip_39_word_new_line_9: 'panic
-
-  ill
-
-  tail
-
-  edge
-
-  marine
-
-  patrol
-
-  type
-
-  paddle
-
-  tilt'
-bip_39_word_no_space_1: panic
-bip_39_word_no_space_10: panicilltailedgemarinepatroltypepaddletiltsalon
-bip_39_word_no_space_11: panicilltailedgemarinepatroltypepaddletiltsalonleader
 bip_39_word_no_space_12: panicilltailedgemarinepatroltypepaddletiltsalonleaderachieve
 bip_39_word_no_space_2: panicill
 bip_39_word_no_space_3: panicilltail
-bip_39_word_no_space_4: panicilltailedge
-bip_39_word_no_space_5: panicilltailedgemarine
-bip_39_word_no_space_6: panicilltailedgemarinepatrol
-bip_39_word_no_space_7: panicilltailedgemarinepatroltype
-bip_39_word_no_space_8: panicilltailedgemarinepatroltypepaddle
-bip_39_word_no_space_9: panicilltailedgemarinepatroltypepaddletilt
-bip_39_word_space_0:
-- panic
-- ill
-- tail
-- edge
-- marine
-- patrol
-- type
-- paddle
-- tilt
-- salon
-- leader
-- achieve
-bip_39_word_space_1: panic
-bip_39_word_space_10: panic ill tail edge marine patrol type paddle tilt salon
-bip_39_word_space_11: panic ill tail edge marine patrol type paddle tilt salon leader
 bip_39_word_space_12: panic ill tail edge marine patrol type paddle tilt salon leader
   achieve
 bip_39_word_space_2: panic ill
 bip_39_word_space_3: panic ill tail
-bip_39_word_space_4: panic ill tail edge
-bip_39_word_space_5: panic ill tail edge marine
-bip_39_word_space_6: panic ill tail edge marine patrol
-bip_39_word_space_7: panic ill tail edge marine patrol type
-bip_39_word_space_8: panic ill tail edge marine patrol type paddle
-bip_39_word_space_9: panic ill tail edge marine patrol type paddle tilt
-bip_39_word_underscore_1: panic
-bip_39_word_underscore_10: panic_ill_tail_edge_marine_patrol_type_paddle_tilt_salon
-bip_39_word_underscore_11: panic_ill_tail_edge_marine_patrol_type_paddle_tilt_salon_leader
 bip_39_word_underscore_12: panic_ill_tail_edge_marine_patrol_type_paddle_tilt_salon_leader_achieve
 bip_39_word_underscore_2: panic_ill
 bip_39_word_underscore_3: panic_ill_tail
-bip_39_word_underscore_4: panic_ill_tail_edge
-bip_39_word_underscore_5: panic_ill_tail_edge_marine
-bip_39_word_underscore_6: panic_ill_tail_edge_marine_patrol
-bip_39_word_underscore_7: panic_ill_tail_edge_marine_patrol_type
-bip_39_word_underscore_8: panic_ill_tail_edge_marine_patrol_type_paddle
-bip_39_word_underscore_9: panic_ill_tail_edge_marine_patrol_type_paddle_tilt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

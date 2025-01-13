@@ -1,68 +1,9 @@
-bip_39_word_dash_1: limit
-bip_39_word_dash_10: limit-lobster-view-rotate-face-sing-expose-tube-supply-system
-bip_39_word_dash_11: limit-lobster-view-rotate-face-sing-expose-tube-supply-system-organ
 bip_39_word_dash_12: limit-lobster-view-rotate-face-sing-expose-tube-supply-system-organ-acid
 bip_39_word_dash_2: limit-lobster
 bip_39_word_dash_3: limit-lobster-view
-bip_39_word_dash_4: limit-lobster-view-rotate
-bip_39_word_dash_5: limit-lobster-view-rotate-face
-bip_39_word_dash_6: limit-lobster-view-rotate-face-sing
-bip_39_word_dash_7: limit-lobster-view-rotate-face-sing-expose
-bip_39_word_dash_8: limit-lobster-view-rotate-face-sing-expose-tube
-bip_39_word_dash_9: limit-lobster-view-rotate-face-sing-expose-tube-supply
-bip_39_word_new_br_1: limit
-bip_39_word_new_br_10: limit<br>lobster<br>view<br>rotate<br>face<br>sing<br>expose<br>tube<br>supply<br>system
-bip_39_word_new_br_11: limit<br>lobster<br>view<br>rotate<br>face<br>sing<br>expose<br>tube<br>supply<br>system<br>organ
 bip_39_word_new_br_12: limit<br>lobster<br>view<br>rotate<br>face<br>sing<br>expose<br>tube<br>supply<br>system<br>organ<br>acid
 bip_39_word_new_br_2: limit<br>lobster
 bip_39_word_new_br_3: limit<br>lobster<br>view
-bip_39_word_new_br_4: limit<br>lobster<br>view<br>rotate
-bip_39_word_new_br_5: limit<br>lobster<br>view<br>rotate<br>face
-bip_39_word_new_br_6: limit<br>lobster<br>view<br>rotate<br>face<br>sing
-bip_39_word_new_br_7: limit<br>lobster<br>view<br>rotate<br>face<br>sing<br>expose
-bip_39_word_new_br_8: limit<br>lobster<br>view<br>rotate<br>face<br>sing<br>expose<br>tube
-bip_39_word_new_br_9: limit<br>lobster<br>view<br>rotate<br>face<br>sing<br>expose<br>tube<br>supply
-bip_39_word_new_line_1: limit
-bip_39_word_new_line_10: 'limit
-
-  lobster
-
-  view
-
-  rotate
-
-  face
-
-  sing
-
-  expose
-
-  tube
-
-  supply
-
-  system'
-bip_39_word_new_line_11: 'limit
-
-  lobster
-
-  view
-
-  rotate
-
-  face
-
-  sing
-
-  expose
-
-  tube
-
-  supply
-
-  system
-
-  organ'
 bip_39_word_new_line_12: 'limit
 
   lobster
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'limit
   lobster
 
   view'
-bip_39_word_new_line_4: 'limit
-
-  lobster
-
-  view
-
-  rotate'
-bip_39_word_new_line_5: 'limit
-
-  lobster
-
-  view
-
-  rotate
-
-  face'
-bip_39_word_new_line_6: 'limit
-
-  lobster
-
-  view
-
-  rotate
-
-  face
-
-  sing'
-bip_39_word_new_line_7: 'limit
-
-  lobster
-
-  view
-
-  rotate
-
-  face
-
-  sing
-
-  expose'
-bip_39_word_new_line_8: 'limit
-
-  lobster
-
-  view
-
-  rotate
-
-  face
-
-  sing
-
-  expose
-
-  tube'
-bip_39_word_new_line_9: 'limit
-
-  lobster
-
-  view
-
-  rotate
-
-  face
-
-  sing
-
-  expose
-
-  tube
-
-  supply'
-bip_39_word_no_space_1: limit
-bip_39_word_no_space_10: limitlobsterviewrotatefacesingexposetubesupplysystem
-bip_39_word_no_space_11: limitlobsterviewrotatefacesingexposetubesupplysystemorgan
 bip_39_word_no_space_12: limitlobsterviewrotatefacesingexposetubesupplysystemorganacid
 bip_39_word_no_space_2: limitlobster
 bip_39_word_no_space_3: limitlobsterview
-bip_39_word_no_space_4: limitlobsterviewrotate
-bip_39_word_no_space_5: limitlobsterviewrotateface
-bip_39_word_no_space_6: limitlobsterviewrotatefacesing
-bip_39_word_no_space_7: limitlobsterviewrotatefacesingexpose
-bip_39_word_no_space_8: limitlobsterviewrotatefacesingexposetube
-bip_39_word_no_space_9: limitlobsterviewrotatefacesingexposetubesupply
-bip_39_word_space_0:
-- limit
-- lobster
-- view
-- rotate
-- face
-- sing
-- expose
-- tube
-- supply
-- system
-- organ
-- acid
-bip_39_word_space_1: limit
-bip_39_word_space_10: limit lobster view rotate face sing expose tube supply system
-bip_39_word_space_11: limit lobster view rotate face sing expose tube supply system
-  organ
 bip_39_word_space_12: limit lobster view rotate face sing expose tube supply system
   organ acid
 bip_39_word_space_2: limit lobster
 bip_39_word_space_3: limit lobster view
-bip_39_word_space_4: limit lobster view rotate
-bip_39_word_space_5: limit lobster view rotate face
-bip_39_word_space_6: limit lobster view rotate face sing
-bip_39_word_space_7: limit lobster view rotate face sing expose
-bip_39_word_space_8: limit lobster view rotate face sing expose tube
-bip_39_word_space_9: limit lobster view rotate face sing expose tube supply
-bip_39_word_underscore_1: limit
-bip_39_word_underscore_10: limit_lobster_view_rotate_face_sing_expose_tube_supply_system
-bip_39_word_underscore_11: limit_lobster_view_rotate_face_sing_expose_tube_supply_system_organ
 bip_39_word_underscore_12: limit_lobster_view_rotate_face_sing_expose_tube_supply_system_organ_acid
 bip_39_word_underscore_2: limit_lobster
 bip_39_word_underscore_3: limit_lobster_view
-bip_39_word_underscore_4: limit_lobster_view_rotate
-bip_39_word_underscore_5: limit_lobster_view_rotate_face
-bip_39_word_underscore_6: limit_lobster_view_rotate_face_sing
-bip_39_word_underscore_7: limit_lobster_view_rotate_face_sing_expose
-bip_39_word_underscore_8: limit_lobster_view_rotate_face_sing_expose_tube
-bip_39_word_underscore_9: limit_lobster_view_rotate_face_sing_expose_tube_supply
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

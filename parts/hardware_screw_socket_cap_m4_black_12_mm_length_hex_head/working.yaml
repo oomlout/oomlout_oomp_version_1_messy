@@ -1,68 +1,9 @@
-bip_39_word_dash_1: select
-bip_39_word_dash_10: select-echo-super-discover-lizard-sea-barrel-topple-carry-truth
-bip_39_word_dash_11: select-echo-super-discover-lizard-sea-barrel-topple-carry-truth-under
 bip_39_word_dash_12: select-echo-super-discover-lizard-sea-barrel-topple-carry-truth-under-artist
 bip_39_word_dash_2: select-echo
 bip_39_word_dash_3: select-echo-super
-bip_39_word_dash_4: select-echo-super-discover
-bip_39_word_dash_5: select-echo-super-discover-lizard
-bip_39_word_dash_6: select-echo-super-discover-lizard-sea
-bip_39_word_dash_7: select-echo-super-discover-lizard-sea-barrel
-bip_39_word_dash_8: select-echo-super-discover-lizard-sea-barrel-topple
-bip_39_word_dash_9: select-echo-super-discover-lizard-sea-barrel-topple-carry
-bip_39_word_new_br_1: select
-bip_39_word_new_br_10: select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth
-bip_39_word_new_br_11: select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under
 bip_39_word_new_br_12: select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under<br>artist
 bip_39_word_new_br_2: select<br>echo
 bip_39_word_new_br_3: select<br>echo<br>super
-bip_39_word_new_br_4: select<br>echo<br>super<br>discover
-bip_39_word_new_br_5: select<br>echo<br>super<br>discover<br>lizard
-bip_39_word_new_br_6: select<br>echo<br>super<br>discover<br>lizard<br>sea
-bip_39_word_new_br_7: select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel
-bip_39_word_new_br_8: select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple
-bip_39_word_new_br_9: select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry
-bip_39_word_new_line_1: select
-bip_39_word_new_line_10: 'select
-
-  echo
-
-  super
-
-  discover
-
-  lizard
-
-  sea
-
-  barrel
-
-  topple
-
-  carry
-
-  truth'
-bip_39_word_new_line_11: 'select
-
-  echo
-
-  super
-
-  discover
-
-  lizard
-
-  sea
-
-  barrel
-
-  topple
-
-  carry
-
-  truth
-
-  under'
 bip_39_word_new_line_12: 'select
 
   echo
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'select
   echo
 
   super'
-bip_39_word_new_line_4: 'select
-
-  echo
-
-  super
-
-  discover'
-bip_39_word_new_line_5: 'select
-
-  echo
-
-  super
-
-  discover
-
-  lizard'
-bip_39_word_new_line_6: 'select
-
-  echo
-
-  super
-
-  discover
-
-  lizard
-
-  sea'
-bip_39_word_new_line_7: 'select
-
-  echo
-
-  super
-
-  discover
-
-  lizard
-
-  sea
-
-  barrel'
-bip_39_word_new_line_8: 'select
-
-  echo
-
-  super
-
-  discover
-
-  lizard
-
-  sea
-
-  barrel
-
-  topple'
-bip_39_word_new_line_9: 'select
-
-  echo
-
-  super
-
-  discover
-
-  lizard
-
-  sea
-
-  barrel
-
-  topple
-
-  carry'
-bip_39_word_no_space_1: select
-bip_39_word_no_space_10: selectechosuperdiscoverlizardseabarreltopplecarrytruth
-bip_39_word_no_space_11: selectechosuperdiscoverlizardseabarreltopplecarrytruthunder
 bip_39_word_no_space_12: selectechosuperdiscoverlizardseabarreltopplecarrytruthunderartist
 bip_39_word_no_space_2: selectecho
 bip_39_word_no_space_3: selectechosuper
-bip_39_word_no_space_4: selectechosuperdiscover
-bip_39_word_no_space_5: selectechosuperdiscoverlizard
-bip_39_word_no_space_6: selectechosuperdiscoverlizardsea
-bip_39_word_no_space_7: selectechosuperdiscoverlizardseabarrel
-bip_39_word_no_space_8: selectechosuperdiscoverlizardseabarreltopple
-bip_39_word_no_space_9: selectechosuperdiscoverlizardseabarreltopplecarry
-bip_39_word_space_0:
-- select
-- echo
-- super
-- discover
-- lizard
-- sea
-- barrel
-- topple
-- carry
-- truth
-- under
-- artist
-bip_39_word_space_1: select
-bip_39_word_space_10: select echo super discover lizard sea barrel topple carry truth
-bip_39_word_space_11: select echo super discover lizard sea barrel topple carry truth
-  under
 bip_39_word_space_12: select echo super discover lizard sea barrel topple carry truth
   under artist
 bip_39_word_space_2: select echo
 bip_39_word_space_3: select echo super
-bip_39_word_space_4: select echo super discover
-bip_39_word_space_5: select echo super discover lizard
-bip_39_word_space_6: select echo super discover lizard sea
-bip_39_word_space_7: select echo super discover lizard sea barrel
-bip_39_word_space_8: select echo super discover lizard sea barrel topple
-bip_39_word_space_9: select echo super discover lizard sea barrel topple carry
-bip_39_word_underscore_1: select
-bip_39_word_underscore_10: select_echo_super_discover_lizard_sea_barrel_topple_carry_truth
-bip_39_word_underscore_11: select_echo_super_discover_lizard_sea_barrel_topple_carry_truth_under
 bip_39_word_underscore_12: select_echo_super_discover_lizard_sea_barrel_topple_carry_truth_under_artist
 bip_39_word_underscore_2: select_echo
 bip_39_word_underscore_3: select_echo_super
-bip_39_word_underscore_4: select_echo_super_discover
-bip_39_word_underscore_5: select_echo_super_discover_lizard
-bip_39_word_underscore_6: select_echo_super_discover_lizard_sea
-bip_39_word_underscore_7: select_echo_super_discover_lizard_sea_barrel
-bip_39_word_underscore_8: select_echo_super_discover_lizard_sea_barrel_topple
-bip_39_word_underscore_9: select_echo_super_discover_lizard_sea_barrel_topple_carry
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

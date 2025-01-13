@@ -1,68 +1,9 @@
-bip_39_word_dash_1: area
-bip_39_word_dash_10: area-kangaroo-access-draft-violin-cupboard-obvious-sock-brown-forget
-bip_39_word_dash_11: area-kangaroo-access-draft-violin-cupboard-obvious-sock-brown-forget-seek
 bip_39_word_dash_12: area-kangaroo-access-draft-violin-cupboard-obvious-sock-brown-forget-seek-assume
 bip_39_word_dash_2: area-kangaroo
 bip_39_word_dash_3: area-kangaroo-access
-bip_39_word_dash_4: area-kangaroo-access-draft
-bip_39_word_dash_5: area-kangaroo-access-draft-violin
-bip_39_word_dash_6: area-kangaroo-access-draft-violin-cupboard
-bip_39_word_dash_7: area-kangaroo-access-draft-violin-cupboard-obvious
-bip_39_word_dash_8: area-kangaroo-access-draft-violin-cupboard-obvious-sock
-bip_39_word_dash_9: area-kangaroo-access-draft-violin-cupboard-obvious-sock-brown
-bip_39_word_new_br_1: area
-bip_39_word_new_br_10: area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown<br>forget
-bip_39_word_new_br_11: area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown<br>forget<br>seek
 bip_39_word_new_br_12: area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown<br>forget<br>seek<br>assume
 bip_39_word_new_br_2: area<br>kangaroo
 bip_39_word_new_br_3: area<br>kangaroo<br>access
-bip_39_word_new_br_4: area<br>kangaroo<br>access<br>draft
-bip_39_word_new_br_5: area<br>kangaroo<br>access<br>draft<br>violin
-bip_39_word_new_br_6: area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard
-bip_39_word_new_br_7: area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious
-bip_39_word_new_br_8: area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock
-bip_39_word_new_br_9: area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown
-bip_39_word_new_line_1: area
-bip_39_word_new_line_10: 'area
-
-  kangaroo
-
-  access
-
-  draft
-
-  violin
-
-  cupboard
-
-  obvious
-
-  sock
-
-  brown
-
-  forget'
-bip_39_word_new_line_11: 'area
-
-  kangaroo
-
-  access
-
-  draft
-
-  violin
-
-  cupboard
-
-  obvious
-
-  sock
-
-  brown
-
-  forget
-
-  seek'
 bip_39_word_new_line_12: 'area
 
   kangaroo
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'area
   kangaroo
 
   access'
-bip_39_word_new_line_4: 'area
-
-  kangaroo
-
-  access
-
-  draft'
-bip_39_word_new_line_5: 'area
-
-  kangaroo
-
-  access
-
-  draft
-
-  violin'
-bip_39_word_new_line_6: 'area
-
-  kangaroo
-
-  access
-
-  draft
-
-  violin
-
-  cupboard'
-bip_39_word_new_line_7: 'area
-
-  kangaroo
-
-  access
-
-  draft
-
-  violin
-
-  cupboard
-
-  obvious'
-bip_39_word_new_line_8: 'area
-
-  kangaroo
-
-  access
-
-  draft
-
-  violin
-
-  cupboard
-
-  obvious
-
-  sock'
-bip_39_word_new_line_9: 'area
-
-  kangaroo
-
-  access
-
-  draft
-
-  violin
-
-  cupboard
-
-  obvious
-
-  sock
-
-  brown'
-bip_39_word_no_space_1: area
-bip_39_word_no_space_10: areakangarooaccessdraftviolincupboardobvioussockbrownforget
-bip_39_word_no_space_11: areakangarooaccessdraftviolincupboardobvioussockbrownforgetseek
 bip_39_word_no_space_12: areakangarooaccessdraftviolincupboardobvioussockbrownforgetseekassume
 bip_39_word_no_space_2: areakangaroo
 bip_39_word_no_space_3: areakangarooaccess
-bip_39_word_no_space_4: areakangarooaccessdraft
-bip_39_word_no_space_5: areakangarooaccessdraftviolin
-bip_39_word_no_space_6: areakangarooaccessdraftviolincupboard
-bip_39_word_no_space_7: areakangarooaccessdraftviolincupboardobvious
-bip_39_word_no_space_8: areakangarooaccessdraftviolincupboardobvioussock
-bip_39_word_no_space_9: areakangarooaccessdraftviolincupboardobvioussockbrown
-bip_39_word_space_0:
-- area
-- kangaroo
-- access
-- draft
-- violin
-- cupboard
-- obvious
-- sock
-- brown
-- forget
-- seek
-- assume
-bip_39_word_space_1: area
-bip_39_word_space_10: area kangaroo access draft violin cupboard obvious sock brown
-  forget
-bip_39_word_space_11: area kangaroo access draft violin cupboard obvious sock brown
-  forget seek
 bip_39_word_space_12: area kangaroo access draft violin cupboard obvious sock brown
   forget seek assume
 bip_39_word_space_2: area kangaroo
 bip_39_word_space_3: area kangaroo access
-bip_39_word_space_4: area kangaroo access draft
-bip_39_word_space_5: area kangaroo access draft violin
-bip_39_word_space_6: area kangaroo access draft violin cupboard
-bip_39_word_space_7: area kangaroo access draft violin cupboard obvious
-bip_39_word_space_8: area kangaroo access draft violin cupboard obvious sock
-bip_39_word_space_9: area kangaroo access draft violin cupboard obvious sock brown
-bip_39_word_underscore_1: area
-bip_39_word_underscore_10: area_kangaroo_access_draft_violin_cupboard_obvious_sock_brown_forget
-bip_39_word_underscore_11: area_kangaroo_access_draft_violin_cupboard_obvious_sock_brown_forget_seek
 bip_39_word_underscore_12: area_kangaroo_access_draft_violin_cupboard_obvious_sock_brown_forget_seek_assume
 bip_39_word_underscore_2: area_kangaroo
 bip_39_word_underscore_3: area_kangaroo_access
-bip_39_word_underscore_4: area_kangaroo_access_draft
-bip_39_word_underscore_5: area_kangaroo_access_draft_violin
-bip_39_word_underscore_6: area_kangaroo_access_draft_violin_cupboard
-bip_39_word_underscore_7: area_kangaroo_access_draft_violin_cupboard_obvious
-bip_39_word_underscore_8: area_kangaroo_access_draft_violin_cupboard_obvious_sock
-bip_39_word_underscore_9: area_kangaroo_access_draft_violin_cupboard_obvious_sock_brown
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

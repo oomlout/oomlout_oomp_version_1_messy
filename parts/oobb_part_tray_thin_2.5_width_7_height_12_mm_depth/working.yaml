@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cat
-bip_39_word_dash_10: cat-ring-six-sense-olive-chef-next-doll-index-exclude
-bip_39_word_dash_11: cat-ring-six-sense-olive-chef-next-doll-index-exclude-kit
 bip_39_word_dash_12: cat-ring-six-sense-olive-chef-next-doll-index-exclude-kit-auto
 bip_39_word_dash_2: cat-ring
 bip_39_word_dash_3: cat-ring-six
-bip_39_word_dash_4: cat-ring-six-sense
-bip_39_word_dash_5: cat-ring-six-sense-olive
-bip_39_word_dash_6: cat-ring-six-sense-olive-chef
-bip_39_word_dash_7: cat-ring-six-sense-olive-chef-next
-bip_39_word_dash_8: cat-ring-six-sense-olive-chef-next-doll
-bip_39_word_dash_9: cat-ring-six-sense-olive-chef-next-doll-index
-bip_39_word_new_br_1: cat
-bip_39_word_new_br_10: cat<br>ring<br>six<br>sense<br>olive<br>chef<br>next<br>doll<br>index<br>exclude
-bip_39_word_new_br_11: cat<br>ring<br>six<br>sense<br>olive<br>chef<br>next<br>doll<br>index<br>exclude<br>kit
 bip_39_word_new_br_12: cat<br>ring<br>six<br>sense<br>olive<br>chef<br>next<br>doll<br>index<br>exclude<br>kit<br>auto
 bip_39_word_new_br_2: cat<br>ring
 bip_39_word_new_br_3: cat<br>ring<br>six
-bip_39_word_new_br_4: cat<br>ring<br>six<br>sense
-bip_39_word_new_br_5: cat<br>ring<br>six<br>sense<br>olive
-bip_39_word_new_br_6: cat<br>ring<br>six<br>sense<br>olive<br>chef
-bip_39_word_new_br_7: cat<br>ring<br>six<br>sense<br>olive<br>chef<br>next
-bip_39_word_new_br_8: cat<br>ring<br>six<br>sense<br>olive<br>chef<br>next<br>doll
-bip_39_word_new_br_9: cat<br>ring<br>six<br>sense<br>olive<br>chef<br>next<br>doll<br>index
-bip_39_word_new_line_1: cat
-bip_39_word_new_line_10: 'cat
-
-  ring
-
-  six
-
-  sense
-
-  olive
-
-  chef
-
-  next
-
-  doll
-
-  index
-
-  exclude'
-bip_39_word_new_line_11: 'cat
-
-  ring
-
-  six
-
-  sense
-
-  olive
-
-  chef
-
-  next
-
-  doll
-
-  index
-
-  exclude
-
-  kit'
 bip_39_word_new_line_12: 'cat
 
   ring
@@ -94,127 +35,15 @@ bip_39_word_new_line_3: 'cat
   ring
 
   six'
-bip_39_word_new_line_4: 'cat
-
-  ring
-
-  six
-
-  sense'
-bip_39_word_new_line_5: 'cat
-
-  ring
-
-  six
-
-  sense
-
-  olive'
-bip_39_word_new_line_6: 'cat
-
-  ring
-
-  six
-
-  sense
-
-  olive
-
-  chef'
-bip_39_word_new_line_7: 'cat
-
-  ring
-
-  six
-
-  sense
-
-  olive
-
-  chef
-
-  next'
-bip_39_word_new_line_8: 'cat
-
-  ring
-
-  six
-
-  sense
-
-  olive
-
-  chef
-
-  next
-
-  doll'
-bip_39_word_new_line_9: 'cat
-
-  ring
-
-  six
-
-  sense
-
-  olive
-
-  chef
-
-  next
-
-  doll
-
-  index'
-bip_39_word_no_space_1: cat
-bip_39_word_no_space_10: catringsixsenseolivechefnextdollindexexclude
-bip_39_word_no_space_11: catringsixsenseolivechefnextdollindexexcludekit
 bip_39_word_no_space_12: catringsixsenseolivechefnextdollindexexcludekitauto
 bip_39_word_no_space_2: catring
 bip_39_word_no_space_3: catringsix
-bip_39_word_no_space_4: catringsixsense
-bip_39_word_no_space_5: catringsixsenseolive
-bip_39_word_no_space_6: catringsixsenseolivechef
-bip_39_word_no_space_7: catringsixsenseolivechefnext
-bip_39_word_no_space_8: catringsixsenseolivechefnextdoll
-bip_39_word_no_space_9: catringsixsenseolivechefnextdollindex
-bip_39_word_space_0:
-- cat
-- ring
-- six
-- sense
-- olive
-- chef
-- next
-- doll
-- index
-- exclude
-- kit
-- auto
-bip_39_word_space_1: cat
-bip_39_word_space_10: cat ring six sense olive chef next doll index exclude
-bip_39_word_space_11: cat ring six sense olive chef next doll index exclude kit
 bip_39_word_space_12: cat ring six sense olive chef next doll index exclude kit auto
 bip_39_word_space_2: cat ring
 bip_39_word_space_3: cat ring six
-bip_39_word_space_4: cat ring six sense
-bip_39_word_space_5: cat ring six sense olive
-bip_39_word_space_6: cat ring six sense olive chef
-bip_39_word_space_7: cat ring six sense olive chef next
-bip_39_word_space_8: cat ring six sense olive chef next doll
-bip_39_word_space_9: cat ring six sense olive chef next doll index
-bip_39_word_underscore_1: cat
-bip_39_word_underscore_10: cat_ring_six_sense_olive_chef_next_doll_index_exclude
-bip_39_word_underscore_11: cat_ring_six_sense_olive_chef_next_doll_index_exclude_kit
 bip_39_word_underscore_12: cat_ring_six_sense_olive_chef_next_doll_index_exclude_kit_auto
 bip_39_word_underscore_2: cat_ring
 bip_39_word_underscore_3: cat_ring_six
-bip_39_word_underscore_4: cat_ring_six_sense
-bip_39_word_underscore_5: cat_ring_six_sense_olive
-bip_39_word_underscore_6: cat_ring_six_sense_olive_chef
-bip_39_word_underscore_7: cat_ring_six_sense_olive_chef_next
-bip_39_word_underscore_8: cat_ring_six_sense_olive_chef_next_doll
-bip_39_word_underscore_9: cat_ring_six_sense_olive_chef_next_doll_index
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

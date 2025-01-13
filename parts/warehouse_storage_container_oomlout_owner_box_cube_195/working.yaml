@@ -1,68 +1,9 @@
-bip_39_word_dash_1: satoshi
-bip_39_word_dash_10: satoshi-economy-rice-gap-tape-crazy-silver-device-fresh-vivid
-bip_39_word_dash_11: satoshi-economy-rice-gap-tape-crazy-silver-device-fresh-vivid-super
 bip_39_word_dash_12: satoshi-economy-rice-gap-tape-crazy-silver-device-fresh-vivid-super-armed
 bip_39_word_dash_2: satoshi-economy
 bip_39_word_dash_3: satoshi-economy-rice
-bip_39_word_dash_4: satoshi-economy-rice-gap
-bip_39_word_dash_5: satoshi-economy-rice-gap-tape
-bip_39_word_dash_6: satoshi-economy-rice-gap-tape-crazy
-bip_39_word_dash_7: satoshi-economy-rice-gap-tape-crazy-silver
-bip_39_word_dash_8: satoshi-economy-rice-gap-tape-crazy-silver-device
-bip_39_word_dash_9: satoshi-economy-rice-gap-tape-crazy-silver-device-fresh
-bip_39_word_new_br_1: satoshi
-bip_39_word_new_br_10: satoshi<br>economy<br>rice<br>gap<br>tape<br>crazy<br>silver<br>device<br>fresh<br>vivid
-bip_39_word_new_br_11: satoshi<br>economy<br>rice<br>gap<br>tape<br>crazy<br>silver<br>device<br>fresh<br>vivid<br>super
 bip_39_word_new_br_12: satoshi<br>economy<br>rice<br>gap<br>tape<br>crazy<br>silver<br>device<br>fresh<br>vivid<br>super<br>armed
 bip_39_word_new_br_2: satoshi<br>economy
 bip_39_word_new_br_3: satoshi<br>economy<br>rice
-bip_39_word_new_br_4: satoshi<br>economy<br>rice<br>gap
-bip_39_word_new_br_5: satoshi<br>economy<br>rice<br>gap<br>tape
-bip_39_word_new_br_6: satoshi<br>economy<br>rice<br>gap<br>tape<br>crazy
-bip_39_word_new_br_7: satoshi<br>economy<br>rice<br>gap<br>tape<br>crazy<br>silver
-bip_39_word_new_br_8: satoshi<br>economy<br>rice<br>gap<br>tape<br>crazy<br>silver<br>device
-bip_39_word_new_br_9: satoshi<br>economy<br>rice<br>gap<br>tape<br>crazy<br>silver<br>device<br>fresh
-bip_39_word_new_line_1: satoshi
-bip_39_word_new_line_10: 'satoshi
-
-  economy
-
-  rice
-
-  gap
-
-  tape
-
-  crazy
-
-  silver
-
-  device
-
-  fresh
-
-  vivid'
-bip_39_word_new_line_11: 'satoshi
-
-  economy
-
-  rice
-
-  gap
-
-  tape
-
-  crazy
-
-  silver
-
-  device
-
-  fresh
-
-  vivid
-
-  super'
 bip_39_word_new_line_12: 'satoshi
 
   economy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'satoshi
   economy
 
   rice'
-bip_39_word_new_line_4: 'satoshi
-
-  economy
-
-  rice
-
-  gap'
-bip_39_word_new_line_5: 'satoshi
-
-  economy
-
-  rice
-
-  gap
-
-  tape'
-bip_39_word_new_line_6: 'satoshi
-
-  economy
-
-  rice
-
-  gap
-
-  tape
-
-  crazy'
-bip_39_word_new_line_7: 'satoshi
-
-  economy
-
-  rice
-
-  gap
-
-  tape
-
-  crazy
-
-  silver'
-bip_39_word_new_line_8: 'satoshi
-
-  economy
-
-  rice
-
-  gap
-
-  tape
-
-  crazy
-
-  silver
-
-  device'
-bip_39_word_new_line_9: 'satoshi
-
-  economy
-
-  rice
-
-  gap
-
-  tape
-
-  crazy
-
-  silver
-
-  device
-
-  fresh'
-bip_39_word_no_space_1: satoshi
-bip_39_word_no_space_10: satoshieconomyricegaptapecrazysilverdevicefreshvivid
-bip_39_word_no_space_11: satoshieconomyricegaptapecrazysilverdevicefreshvividsuper
 bip_39_word_no_space_12: satoshieconomyricegaptapecrazysilverdevicefreshvividsuperarmed
 bip_39_word_no_space_2: satoshieconomy
 bip_39_word_no_space_3: satoshieconomyrice
-bip_39_word_no_space_4: satoshieconomyricegap
-bip_39_word_no_space_5: satoshieconomyricegaptape
-bip_39_word_no_space_6: satoshieconomyricegaptapecrazy
-bip_39_word_no_space_7: satoshieconomyricegaptapecrazysilver
-bip_39_word_no_space_8: satoshieconomyricegaptapecrazysilverdevice
-bip_39_word_no_space_9: satoshieconomyricegaptapecrazysilverdevicefresh
-bip_39_word_space_0:
-- satoshi
-- economy
-- rice
-- gap
-- tape
-- crazy
-- silver
-- device
-- fresh
-- vivid
-- super
-- armed
-bip_39_word_space_1: satoshi
-bip_39_word_space_10: satoshi economy rice gap tape crazy silver device fresh vivid
-bip_39_word_space_11: satoshi economy rice gap tape crazy silver device fresh vivid
-  super
 bip_39_word_space_12: satoshi economy rice gap tape crazy silver device fresh vivid
   super armed
 bip_39_word_space_2: satoshi economy
 bip_39_word_space_3: satoshi economy rice
-bip_39_word_space_4: satoshi economy rice gap
-bip_39_word_space_5: satoshi economy rice gap tape
-bip_39_word_space_6: satoshi economy rice gap tape crazy
-bip_39_word_space_7: satoshi economy rice gap tape crazy silver
-bip_39_word_space_8: satoshi economy rice gap tape crazy silver device
-bip_39_word_space_9: satoshi economy rice gap tape crazy silver device fresh
-bip_39_word_underscore_1: satoshi
-bip_39_word_underscore_10: satoshi_economy_rice_gap_tape_crazy_silver_device_fresh_vivid
-bip_39_word_underscore_11: satoshi_economy_rice_gap_tape_crazy_silver_device_fresh_vivid_super
 bip_39_word_underscore_12: satoshi_economy_rice_gap_tape_crazy_silver_device_fresh_vivid_super_armed
 bip_39_word_underscore_2: satoshi_economy
 bip_39_word_underscore_3: satoshi_economy_rice
-bip_39_word_underscore_4: satoshi_economy_rice_gap
-bip_39_word_underscore_5: satoshi_economy_rice_gap_tape
-bip_39_word_underscore_6: satoshi_economy_rice_gap_tape_crazy
-bip_39_word_underscore_7: satoshi_economy_rice_gap_tape_crazy_silver
-bip_39_word_underscore_8: satoshi_economy_rice_gap_tape_crazy_silver_device
-bip_39_word_underscore_9: satoshi_economy_rice_gap_tape_crazy_silver_device_fresh
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

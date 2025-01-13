@@ -1,68 +1,9 @@
-bip_39_word_dash_1: meat
-bip_39_word_dash_10: meat-embody-shiver-attitude-cinnamon-water-account-naive-sauce-bulb
-bip_39_word_dash_11: meat-embody-shiver-attitude-cinnamon-water-account-naive-sauce-bulb-injury
 bip_39_word_dash_12: meat-embody-shiver-attitude-cinnamon-water-account-naive-sauce-bulb-injury-asset
 bip_39_word_dash_2: meat-embody
 bip_39_word_dash_3: meat-embody-shiver
-bip_39_word_dash_4: meat-embody-shiver-attitude
-bip_39_word_dash_5: meat-embody-shiver-attitude-cinnamon
-bip_39_word_dash_6: meat-embody-shiver-attitude-cinnamon-water
-bip_39_word_dash_7: meat-embody-shiver-attitude-cinnamon-water-account
-bip_39_word_dash_8: meat-embody-shiver-attitude-cinnamon-water-account-naive
-bip_39_word_dash_9: meat-embody-shiver-attitude-cinnamon-water-account-naive-sauce
-bip_39_word_new_br_1: meat
-bip_39_word_new_br_10: meat<br>embody<br>shiver<br>attitude<br>cinnamon<br>water<br>account<br>naive<br>sauce<br>bulb
-bip_39_word_new_br_11: meat<br>embody<br>shiver<br>attitude<br>cinnamon<br>water<br>account<br>naive<br>sauce<br>bulb<br>injury
 bip_39_word_new_br_12: meat<br>embody<br>shiver<br>attitude<br>cinnamon<br>water<br>account<br>naive<br>sauce<br>bulb<br>injury<br>asset
 bip_39_word_new_br_2: meat<br>embody
 bip_39_word_new_br_3: meat<br>embody<br>shiver
-bip_39_word_new_br_4: meat<br>embody<br>shiver<br>attitude
-bip_39_word_new_br_5: meat<br>embody<br>shiver<br>attitude<br>cinnamon
-bip_39_word_new_br_6: meat<br>embody<br>shiver<br>attitude<br>cinnamon<br>water
-bip_39_word_new_br_7: meat<br>embody<br>shiver<br>attitude<br>cinnamon<br>water<br>account
-bip_39_word_new_br_8: meat<br>embody<br>shiver<br>attitude<br>cinnamon<br>water<br>account<br>naive
-bip_39_word_new_br_9: meat<br>embody<br>shiver<br>attitude<br>cinnamon<br>water<br>account<br>naive<br>sauce
-bip_39_word_new_line_1: meat
-bip_39_word_new_line_10: 'meat
-
-  embody
-
-  shiver
-
-  attitude
-
-  cinnamon
-
-  water
-
-  account
-
-  naive
-
-  sauce
-
-  bulb'
-bip_39_word_new_line_11: 'meat
-
-  embody
-
-  shiver
-
-  attitude
-
-  cinnamon
-
-  water
-
-  account
-
-  naive
-
-  sauce
-
-  bulb
-
-  injury'
 bip_39_word_new_line_12: 'meat
 
   embody
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'meat
   embody
 
   shiver'
-bip_39_word_new_line_4: 'meat
-
-  embody
-
-  shiver
-
-  attitude'
-bip_39_word_new_line_5: 'meat
-
-  embody
-
-  shiver
-
-  attitude
-
-  cinnamon'
-bip_39_word_new_line_6: 'meat
-
-  embody
-
-  shiver
-
-  attitude
-
-  cinnamon
-
-  water'
-bip_39_word_new_line_7: 'meat
-
-  embody
-
-  shiver
-
-  attitude
-
-  cinnamon
-
-  water
-
-  account'
-bip_39_word_new_line_8: 'meat
-
-  embody
-
-  shiver
-
-  attitude
-
-  cinnamon
-
-  water
-
-  account
-
-  naive'
-bip_39_word_new_line_9: 'meat
-
-  embody
-
-  shiver
-
-  attitude
-
-  cinnamon
-
-  water
-
-  account
-
-  naive
-
-  sauce'
-bip_39_word_no_space_1: meat
-bip_39_word_no_space_10: meatembodyshiverattitudecinnamonwateraccountnaivesaucebulb
-bip_39_word_no_space_11: meatembodyshiverattitudecinnamonwateraccountnaivesaucebulbinjury
 bip_39_word_no_space_12: meatembodyshiverattitudecinnamonwateraccountnaivesaucebulbinjuryasset
 bip_39_word_no_space_2: meatembody
 bip_39_word_no_space_3: meatembodyshiver
-bip_39_word_no_space_4: meatembodyshiverattitude
-bip_39_word_no_space_5: meatembodyshiverattitudecinnamon
-bip_39_word_no_space_6: meatembodyshiverattitudecinnamonwater
-bip_39_word_no_space_7: meatembodyshiverattitudecinnamonwateraccount
-bip_39_word_no_space_8: meatembodyshiverattitudecinnamonwateraccountnaive
-bip_39_word_no_space_9: meatembodyshiverattitudecinnamonwateraccountnaivesauce
-bip_39_word_space_0:
-- meat
-- embody
-- shiver
-- attitude
-- cinnamon
-- water
-- account
-- naive
-- sauce
-- bulb
-- injury
-- asset
-bip_39_word_space_1: meat
-bip_39_word_space_10: meat embody shiver attitude cinnamon water account naive sauce
-  bulb
-bip_39_word_space_11: meat embody shiver attitude cinnamon water account naive sauce
-  bulb injury
 bip_39_word_space_12: meat embody shiver attitude cinnamon water account naive sauce
   bulb injury asset
 bip_39_word_space_2: meat embody
 bip_39_word_space_3: meat embody shiver
-bip_39_word_space_4: meat embody shiver attitude
-bip_39_word_space_5: meat embody shiver attitude cinnamon
-bip_39_word_space_6: meat embody shiver attitude cinnamon water
-bip_39_word_space_7: meat embody shiver attitude cinnamon water account
-bip_39_word_space_8: meat embody shiver attitude cinnamon water account naive
-bip_39_word_space_9: meat embody shiver attitude cinnamon water account naive sauce
-bip_39_word_underscore_1: meat
-bip_39_word_underscore_10: meat_embody_shiver_attitude_cinnamon_water_account_naive_sauce_bulb
-bip_39_word_underscore_11: meat_embody_shiver_attitude_cinnamon_water_account_naive_sauce_bulb_injury
 bip_39_word_underscore_12: meat_embody_shiver_attitude_cinnamon_water_account_naive_sauce_bulb_injury_asset
 bip_39_word_underscore_2: meat_embody
 bip_39_word_underscore_3: meat_embody_shiver
-bip_39_word_underscore_4: meat_embody_shiver_attitude
-bip_39_word_underscore_5: meat_embody_shiver_attitude_cinnamon
-bip_39_word_underscore_6: meat_embody_shiver_attitude_cinnamon_water
-bip_39_word_underscore_7: meat_embody_shiver_attitude_cinnamon_water_account
-bip_39_word_underscore_8: meat_embody_shiver_attitude_cinnamon_water_account_naive
-bip_39_word_underscore_9: meat_embody_shiver_attitude_cinnamon_water_account_naive_sauce
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

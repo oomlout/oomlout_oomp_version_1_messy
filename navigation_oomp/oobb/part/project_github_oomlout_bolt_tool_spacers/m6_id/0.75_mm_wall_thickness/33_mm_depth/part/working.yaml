@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spread
-bip_39_word_dash_10: spread-adapt-vicious-satoshi-royal-settle-middle-capable-stumble-diary
-bip_39_word_dash_11: spread-adapt-vicious-satoshi-royal-settle-middle-capable-stumble-diary-innocent
 bip_39_word_dash_12: spread-adapt-vicious-satoshi-royal-settle-middle-capable-stumble-diary-innocent-affair
 bip_39_word_dash_2: spread-adapt
 bip_39_word_dash_3: spread-adapt-vicious
-bip_39_word_dash_4: spread-adapt-vicious-satoshi
-bip_39_word_dash_5: spread-adapt-vicious-satoshi-royal
-bip_39_word_dash_6: spread-adapt-vicious-satoshi-royal-settle
-bip_39_word_dash_7: spread-adapt-vicious-satoshi-royal-settle-middle
-bip_39_word_dash_8: spread-adapt-vicious-satoshi-royal-settle-middle-capable
-bip_39_word_dash_9: spread-adapt-vicious-satoshi-royal-settle-middle-capable-stumble
-bip_39_word_new_br_1: spread
-bip_39_word_new_br_10: spread<br>adapt<br>vicious<br>satoshi<br>royal<br>settle<br>middle<br>capable<br>stumble<br>diary
-bip_39_word_new_br_11: spread<br>adapt<br>vicious<br>satoshi<br>royal<br>settle<br>middle<br>capable<br>stumble<br>diary<br>innocent
 bip_39_word_new_br_12: spread<br>adapt<br>vicious<br>satoshi<br>royal<br>settle<br>middle<br>capable<br>stumble<br>diary<br>innocent<br>affair
 bip_39_word_new_br_2: spread<br>adapt
 bip_39_word_new_br_3: spread<br>adapt<br>vicious
-bip_39_word_new_br_4: spread<br>adapt<br>vicious<br>satoshi
-bip_39_word_new_br_5: spread<br>adapt<br>vicious<br>satoshi<br>royal
-bip_39_word_new_br_6: spread<br>adapt<br>vicious<br>satoshi<br>royal<br>settle
-bip_39_word_new_br_7: spread<br>adapt<br>vicious<br>satoshi<br>royal<br>settle<br>middle
-bip_39_word_new_br_8: spread<br>adapt<br>vicious<br>satoshi<br>royal<br>settle<br>middle<br>capable
-bip_39_word_new_br_9: spread<br>adapt<br>vicious<br>satoshi<br>royal<br>settle<br>middle<br>capable<br>stumble
-bip_39_word_new_line_1: spread
-bip_39_word_new_line_10: 'spread
-
-  adapt
-
-  vicious
-
-  satoshi
-
-  royal
-
-  settle
-
-  middle
-
-  capable
-
-  stumble
-
-  diary'
-bip_39_word_new_line_11: 'spread
-
-  adapt
-
-  vicious
-
-  satoshi
-
-  royal
-
-  settle
-
-  middle
-
-  capable
-
-  stumble
-
-  diary
-
-  innocent'
 bip_39_word_new_line_12: 'spread
 
   adapt
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spread
   adapt
 
   vicious'
-bip_39_word_new_line_4: 'spread
-
-  adapt
-
-  vicious
-
-  satoshi'
-bip_39_word_new_line_5: 'spread
-
-  adapt
-
-  vicious
-
-  satoshi
-
-  royal'
-bip_39_word_new_line_6: 'spread
-
-  adapt
-
-  vicious
-
-  satoshi
-
-  royal
-
-  settle'
-bip_39_word_new_line_7: 'spread
-
-  adapt
-
-  vicious
-
-  satoshi
-
-  royal
-
-  settle
-
-  middle'
-bip_39_word_new_line_8: 'spread
-
-  adapt
-
-  vicious
-
-  satoshi
-
-  royal
-
-  settle
-
-  middle
-
-  capable'
-bip_39_word_new_line_9: 'spread
-
-  adapt
-
-  vicious
-
-  satoshi
-
-  royal
-
-  settle
-
-  middle
-
-  capable
-
-  stumble'
-bip_39_word_no_space_1: spread
-bip_39_word_no_space_10: spreadadaptvicioussatoshiroyalsettlemiddlecapablestumblediary
-bip_39_word_no_space_11: spreadadaptvicioussatoshiroyalsettlemiddlecapablestumblediaryinnocent
 bip_39_word_no_space_12: spreadadaptvicioussatoshiroyalsettlemiddlecapablestumblediaryinnocentaffair
 bip_39_word_no_space_2: spreadadapt
 bip_39_word_no_space_3: spreadadaptvicious
-bip_39_word_no_space_4: spreadadaptvicioussatoshi
-bip_39_word_no_space_5: spreadadaptvicioussatoshiroyal
-bip_39_word_no_space_6: spreadadaptvicioussatoshiroyalsettle
-bip_39_word_no_space_7: spreadadaptvicioussatoshiroyalsettlemiddle
-bip_39_word_no_space_8: spreadadaptvicioussatoshiroyalsettlemiddlecapable
-bip_39_word_no_space_9: spreadadaptvicioussatoshiroyalsettlemiddlecapablestumble
-bip_39_word_space_0:
-- spread
-- adapt
-- vicious
-- satoshi
-- royal
-- settle
-- middle
-- capable
-- stumble
-- diary
-- innocent
-- affair
-bip_39_word_space_1: spread
-bip_39_word_space_10: spread adapt vicious satoshi royal settle middle capable stumble
-  diary
-bip_39_word_space_11: spread adapt vicious satoshi royal settle middle capable stumble
-  diary innocent
 bip_39_word_space_12: spread adapt vicious satoshi royal settle middle capable stumble
   diary innocent affair
 bip_39_word_space_2: spread adapt
 bip_39_word_space_3: spread adapt vicious
-bip_39_word_space_4: spread adapt vicious satoshi
-bip_39_word_space_5: spread adapt vicious satoshi royal
-bip_39_word_space_6: spread adapt vicious satoshi royal settle
-bip_39_word_space_7: spread adapt vicious satoshi royal settle middle
-bip_39_word_space_8: spread adapt vicious satoshi royal settle middle capable
-bip_39_word_space_9: spread adapt vicious satoshi royal settle middle capable stumble
-bip_39_word_underscore_1: spread
-bip_39_word_underscore_10: spread_adapt_vicious_satoshi_royal_settle_middle_capable_stumble_diary
-bip_39_word_underscore_11: spread_adapt_vicious_satoshi_royal_settle_middle_capable_stumble_diary_innocent
 bip_39_word_underscore_12: spread_adapt_vicious_satoshi_royal_settle_middle_capable_stumble_diary_innocent_affair
 bip_39_word_underscore_2: spread_adapt
 bip_39_word_underscore_3: spread_adapt_vicious
-bip_39_word_underscore_4: spread_adapt_vicious_satoshi
-bip_39_word_underscore_5: spread_adapt_vicious_satoshi_royal
-bip_39_word_underscore_6: spread_adapt_vicious_satoshi_royal_settle
-bip_39_word_underscore_7: spread_adapt_vicious_satoshi_royal_settle_middle
-bip_39_word_underscore_8: spread_adapt_vicious_satoshi_royal_settle_middle_capable
-bip_39_word_underscore_9: spread_adapt_vicious_satoshi_royal_settle_middle_capable_stumble
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

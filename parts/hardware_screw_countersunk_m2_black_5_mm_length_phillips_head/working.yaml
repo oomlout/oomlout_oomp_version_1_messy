@@ -1,68 +1,9 @@
-bip_39_word_dash_1: desk
-bip_39_word_dash_10: desk-clock-derive-ship-ignore-sport-squeeze-mechanic-secret-sing
-bip_39_word_dash_11: desk-clock-derive-ship-ignore-sport-squeeze-mechanic-secret-sing-aware
 bip_39_word_dash_12: desk-clock-derive-ship-ignore-sport-squeeze-mechanic-secret-sing-aware-abstract
 bip_39_word_dash_2: desk-clock
 bip_39_word_dash_3: desk-clock-derive
-bip_39_word_dash_4: desk-clock-derive-ship
-bip_39_word_dash_5: desk-clock-derive-ship-ignore
-bip_39_word_dash_6: desk-clock-derive-ship-ignore-sport
-bip_39_word_dash_7: desk-clock-derive-ship-ignore-sport-squeeze
-bip_39_word_dash_8: desk-clock-derive-ship-ignore-sport-squeeze-mechanic
-bip_39_word_dash_9: desk-clock-derive-ship-ignore-sport-squeeze-mechanic-secret
-bip_39_word_new_br_1: desk
-bip_39_word_new_br_10: desk<br>clock<br>derive<br>ship<br>ignore<br>sport<br>squeeze<br>mechanic<br>secret<br>sing
-bip_39_word_new_br_11: desk<br>clock<br>derive<br>ship<br>ignore<br>sport<br>squeeze<br>mechanic<br>secret<br>sing<br>aware
 bip_39_word_new_br_12: desk<br>clock<br>derive<br>ship<br>ignore<br>sport<br>squeeze<br>mechanic<br>secret<br>sing<br>aware<br>abstract
 bip_39_word_new_br_2: desk<br>clock
 bip_39_word_new_br_3: desk<br>clock<br>derive
-bip_39_word_new_br_4: desk<br>clock<br>derive<br>ship
-bip_39_word_new_br_5: desk<br>clock<br>derive<br>ship<br>ignore
-bip_39_word_new_br_6: desk<br>clock<br>derive<br>ship<br>ignore<br>sport
-bip_39_word_new_br_7: desk<br>clock<br>derive<br>ship<br>ignore<br>sport<br>squeeze
-bip_39_word_new_br_8: desk<br>clock<br>derive<br>ship<br>ignore<br>sport<br>squeeze<br>mechanic
-bip_39_word_new_br_9: desk<br>clock<br>derive<br>ship<br>ignore<br>sport<br>squeeze<br>mechanic<br>secret
-bip_39_word_new_line_1: desk
-bip_39_word_new_line_10: 'desk
-
-  clock
-
-  derive
-
-  ship
-
-  ignore
-
-  sport
-
-  squeeze
-
-  mechanic
-
-  secret
-
-  sing'
-bip_39_word_new_line_11: 'desk
-
-  clock
-
-  derive
-
-  ship
-
-  ignore
-
-  sport
-
-  squeeze
-
-  mechanic
-
-  secret
-
-  sing
-
-  aware'
 bip_39_word_new_line_12: 'desk
 
   clock
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'desk
   clock
 
   derive'
-bip_39_word_new_line_4: 'desk
-
-  clock
-
-  derive
-
-  ship'
-bip_39_word_new_line_5: 'desk
-
-  clock
-
-  derive
-
-  ship
-
-  ignore'
-bip_39_word_new_line_6: 'desk
-
-  clock
-
-  derive
-
-  ship
-
-  ignore
-
-  sport'
-bip_39_word_new_line_7: 'desk
-
-  clock
-
-  derive
-
-  ship
-
-  ignore
-
-  sport
-
-  squeeze'
-bip_39_word_new_line_8: 'desk
-
-  clock
-
-  derive
-
-  ship
-
-  ignore
-
-  sport
-
-  squeeze
-
-  mechanic'
-bip_39_word_new_line_9: 'desk
-
-  clock
-
-  derive
-
-  ship
-
-  ignore
-
-  sport
-
-  squeeze
-
-  mechanic
-
-  secret'
-bip_39_word_no_space_1: desk
-bip_39_word_no_space_10: deskclockderiveshipignoresportsqueezemechanicsecretsing
-bip_39_word_no_space_11: deskclockderiveshipignoresportsqueezemechanicsecretsingaware
 bip_39_word_no_space_12: deskclockderiveshipignoresportsqueezemechanicsecretsingawareabstract
 bip_39_word_no_space_2: deskclock
 bip_39_word_no_space_3: deskclockderive
-bip_39_word_no_space_4: deskclockderiveship
-bip_39_word_no_space_5: deskclockderiveshipignore
-bip_39_word_no_space_6: deskclockderiveshipignoresport
-bip_39_word_no_space_7: deskclockderiveshipignoresportsqueeze
-bip_39_word_no_space_8: deskclockderiveshipignoresportsqueezemechanic
-bip_39_word_no_space_9: deskclockderiveshipignoresportsqueezemechanicsecret
-bip_39_word_space_0:
-- desk
-- clock
-- derive
-- ship
-- ignore
-- sport
-- squeeze
-- mechanic
-- secret
-- sing
-- aware
-- abstract
-bip_39_word_space_1: desk
-bip_39_word_space_10: desk clock derive ship ignore sport squeeze mechanic secret
-  sing
-bip_39_word_space_11: desk clock derive ship ignore sport squeeze mechanic secret
-  sing aware
 bip_39_word_space_12: desk clock derive ship ignore sport squeeze mechanic secret
   sing aware abstract
 bip_39_word_space_2: desk clock
 bip_39_word_space_3: desk clock derive
-bip_39_word_space_4: desk clock derive ship
-bip_39_word_space_5: desk clock derive ship ignore
-bip_39_word_space_6: desk clock derive ship ignore sport
-bip_39_word_space_7: desk clock derive ship ignore sport squeeze
-bip_39_word_space_8: desk clock derive ship ignore sport squeeze mechanic
-bip_39_word_space_9: desk clock derive ship ignore sport squeeze mechanic secret
-bip_39_word_underscore_1: desk
-bip_39_word_underscore_10: desk_clock_derive_ship_ignore_sport_squeeze_mechanic_secret_sing
-bip_39_word_underscore_11: desk_clock_derive_ship_ignore_sport_squeeze_mechanic_secret_sing_aware
 bip_39_word_underscore_12: desk_clock_derive_ship_ignore_sport_squeeze_mechanic_secret_sing_aware_abstract
 bip_39_word_underscore_2: desk_clock
 bip_39_word_underscore_3: desk_clock_derive
-bip_39_word_underscore_4: desk_clock_derive_ship
-bip_39_word_underscore_5: desk_clock_derive_ship_ignore
-bip_39_word_underscore_6: desk_clock_derive_ship_ignore_sport
-bip_39_word_underscore_7: desk_clock_derive_ship_ignore_sport_squeeze
-bip_39_word_underscore_8: desk_clock_derive_ship_ignore_sport_squeeze_mechanic
-bip_39_word_underscore_9: desk_clock_derive_ship_ignore_sport_squeeze_mechanic_secret
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

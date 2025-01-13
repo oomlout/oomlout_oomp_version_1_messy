@@ -1,68 +1,9 @@
-bip_39_word_dash_1: round
-bip_39_word_dash_10: round-clown-clerk-invest-ordinary-note-notice-bulk-usage-conduct
-bip_39_word_dash_11: round-clown-clerk-invest-ordinary-note-notice-bulk-usage-conduct-pull
 bip_39_word_dash_12: round-clown-clerk-invest-ordinary-note-notice-bulk-usage-conduct-pull-alter
 bip_39_word_dash_2: round-clown
 bip_39_word_dash_3: round-clown-clerk
-bip_39_word_dash_4: round-clown-clerk-invest
-bip_39_word_dash_5: round-clown-clerk-invest-ordinary
-bip_39_word_dash_6: round-clown-clerk-invest-ordinary-note
-bip_39_word_dash_7: round-clown-clerk-invest-ordinary-note-notice
-bip_39_word_dash_8: round-clown-clerk-invest-ordinary-note-notice-bulk
-bip_39_word_dash_9: round-clown-clerk-invest-ordinary-note-notice-bulk-usage
-bip_39_word_new_br_1: round
-bip_39_word_new_br_10: round<br>clown<br>clerk<br>invest<br>ordinary<br>note<br>notice<br>bulk<br>usage<br>conduct
-bip_39_word_new_br_11: round<br>clown<br>clerk<br>invest<br>ordinary<br>note<br>notice<br>bulk<br>usage<br>conduct<br>pull
 bip_39_word_new_br_12: round<br>clown<br>clerk<br>invest<br>ordinary<br>note<br>notice<br>bulk<br>usage<br>conduct<br>pull<br>alter
 bip_39_word_new_br_2: round<br>clown
 bip_39_word_new_br_3: round<br>clown<br>clerk
-bip_39_word_new_br_4: round<br>clown<br>clerk<br>invest
-bip_39_word_new_br_5: round<br>clown<br>clerk<br>invest<br>ordinary
-bip_39_word_new_br_6: round<br>clown<br>clerk<br>invest<br>ordinary<br>note
-bip_39_word_new_br_7: round<br>clown<br>clerk<br>invest<br>ordinary<br>note<br>notice
-bip_39_word_new_br_8: round<br>clown<br>clerk<br>invest<br>ordinary<br>note<br>notice<br>bulk
-bip_39_word_new_br_9: round<br>clown<br>clerk<br>invest<br>ordinary<br>note<br>notice<br>bulk<br>usage
-bip_39_word_new_line_1: round
-bip_39_word_new_line_10: 'round
-
-  clown
-
-  clerk
-
-  invest
-
-  ordinary
-
-  note
-
-  notice
-
-  bulk
-
-  usage
-
-  conduct'
-bip_39_word_new_line_11: 'round
-
-  clown
-
-  clerk
-
-  invest
-
-  ordinary
-
-  note
-
-  notice
-
-  bulk
-
-  usage
-
-  conduct
-
-  pull'
 bip_39_word_new_line_12: 'round
 
   clown
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'round
   clown
 
   clerk'
-bip_39_word_new_line_4: 'round
-
-  clown
-
-  clerk
-
-  invest'
-bip_39_word_new_line_5: 'round
-
-  clown
-
-  clerk
-
-  invest
-
-  ordinary'
-bip_39_word_new_line_6: 'round
-
-  clown
-
-  clerk
-
-  invest
-
-  ordinary
-
-  note'
-bip_39_word_new_line_7: 'round
-
-  clown
-
-  clerk
-
-  invest
-
-  ordinary
-
-  note
-
-  notice'
-bip_39_word_new_line_8: 'round
-
-  clown
-
-  clerk
-
-  invest
-
-  ordinary
-
-  note
-
-  notice
-
-  bulk'
-bip_39_word_new_line_9: 'round
-
-  clown
-
-  clerk
-
-  invest
-
-  ordinary
-
-  note
-
-  notice
-
-  bulk
-
-  usage'
-bip_39_word_no_space_1: round
-bip_39_word_no_space_10: roundclownclerkinvestordinarynotenoticebulkusageconduct
-bip_39_word_no_space_11: roundclownclerkinvestordinarynotenoticebulkusageconductpull
 bip_39_word_no_space_12: roundclownclerkinvestordinarynotenoticebulkusageconductpullalter
 bip_39_word_no_space_2: roundclown
 bip_39_word_no_space_3: roundclownclerk
-bip_39_word_no_space_4: roundclownclerkinvest
-bip_39_word_no_space_5: roundclownclerkinvestordinary
-bip_39_word_no_space_6: roundclownclerkinvestordinarynote
-bip_39_word_no_space_7: roundclownclerkinvestordinarynotenotice
-bip_39_word_no_space_8: roundclownclerkinvestordinarynotenoticebulk
-bip_39_word_no_space_9: roundclownclerkinvestordinarynotenoticebulkusage
-bip_39_word_space_0:
-- round
-- clown
-- clerk
-- invest
-- ordinary
-- note
-- notice
-- bulk
-- usage
-- conduct
-- pull
-- alter
-bip_39_word_space_1: round
-bip_39_word_space_10: round clown clerk invest ordinary note notice bulk usage conduct
-bip_39_word_space_11: round clown clerk invest ordinary note notice bulk usage conduct
-  pull
 bip_39_word_space_12: round clown clerk invest ordinary note notice bulk usage conduct
   pull alter
 bip_39_word_space_2: round clown
 bip_39_word_space_3: round clown clerk
-bip_39_word_space_4: round clown clerk invest
-bip_39_word_space_5: round clown clerk invest ordinary
-bip_39_word_space_6: round clown clerk invest ordinary note
-bip_39_word_space_7: round clown clerk invest ordinary note notice
-bip_39_word_space_8: round clown clerk invest ordinary note notice bulk
-bip_39_word_space_9: round clown clerk invest ordinary note notice bulk usage
-bip_39_word_underscore_1: round
-bip_39_word_underscore_10: round_clown_clerk_invest_ordinary_note_notice_bulk_usage_conduct
-bip_39_word_underscore_11: round_clown_clerk_invest_ordinary_note_notice_bulk_usage_conduct_pull
 bip_39_word_underscore_12: round_clown_clerk_invest_ordinary_note_notice_bulk_usage_conduct_pull_alter
 bip_39_word_underscore_2: round_clown
 bip_39_word_underscore_3: round_clown_clerk
-bip_39_word_underscore_4: round_clown_clerk_invest
-bip_39_word_underscore_5: round_clown_clerk_invest_ordinary
-bip_39_word_underscore_6: round_clown_clerk_invest_ordinary_note
-bip_39_word_underscore_7: round_clown_clerk_invest_ordinary_note_notice
-bip_39_word_underscore_8: round_clown_clerk_invest_ordinary_note_notice_bulk
-bip_39_word_underscore_9: round_clown_clerk_invest_ordinary_note_notice_bulk_usage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

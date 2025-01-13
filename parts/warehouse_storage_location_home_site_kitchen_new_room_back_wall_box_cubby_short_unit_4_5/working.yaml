@@ -1,68 +1,9 @@
-bip_39_word_dash_1: range
-bip_39_word_dash_10: range-guard-always-ice-chase-pride-appear-stumble-primary-fantasy
-bip_39_word_dash_11: range-guard-always-ice-chase-pride-appear-stumble-primary-fantasy-flush
 bip_39_word_dash_12: range-guard-always-ice-chase-pride-appear-stumble-primary-fantasy-flush-amount
 bip_39_word_dash_2: range-guard
 bip_39_word_dash_3: range-guard-always
-bip_39_word_dash_4: range-guard-always-ice
-bip_39_word_dash_5: range-guard-always-ice-chase
-bip_39_word_dash_6: range-guard-always-ice-chase-pride
-bip_39_word_dash_7: range-guard-always-ice-chase-pride-appear
-bip_39_word_dash_8: range-guard-always-ice-chase-pride-appear-stumble
-bip_39_word_dash_9: range-guard-always-ice-chase-pride-appear-stumble-primary
-bip_39_word_new_br_1: range
-bip_39_word_new_br_10: range<br>guard<br>always<br>ice<br>chase<br>pride<br>appear<br>stumble<br>primary<br>fantasy
-bip_39_word_new_br_11: range<br>guard<br>always<br>ice<br>chase<br>pride<br>appear<br>stumble<br>primary<br>fantasy<br>flush
 bip_39_word_new_br_12: range<br>guard<br>always<br>ice<br>chase<br>pride<br>appear<br>stumble<br>primary<br>fantasy<br>flush<br>amount
 bip_39_word_new_br_2: range<br>guard
 bip_39_word_new_br_3: range<br>guard<br>always
-bip_39_word_new_br_4: range<br>guard<br>always<br>ice
-bip_39_word_new_br_5: range<br>guard<br>always<br>ice<br>chase
-bip_39_word_new_br_6: range<br>guard<br>always<br>ice<br>chase<br>pride
-bip_39_word_new_br_7: range<br>guard<br>always<br>ice<br>chase<br>pride<br>appear
-bip_39_word_new_br_8: range<br>guard<br>always<br>ice<br>chase<br>pride<br>appear<br>stumble
-bip_39_word_new_br_9: range<br>guard<br>always<br>ice<br>chase<br>pride<br>appear<br>stumble<br>primary
-bip_39_word_new_line_1: range
-bip_39_word_new_line_10: 'range
-
-  guard
-
-  always
-
-  ice
-
-  chase
-
-  pride
-
-  appear
-
-  stumble
-
-  primary
-
-  fantasy'
-bip_39_word_new_line_11: 'range
-
-  guard
-
-  always
-
-  ice
-
-  chase
-
-  pride
-
-  appear
-
-  stumble
-
-  primary
-
-  fantasy
-
-  flush'
 bip_39_word_new_line_12: 'range
 
   guard
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'range
   guard
 
   always'
-bip_39_word_new_line_4: 'range
-
-  guard
-
-  always
-
-  ice'
-bip_39_word_new_line_5: 'range
-
-  guard
-
-  always
-
-  ice
-
-  chase'
-bip_39_word_new_line_6: 'range
-
-  guard
-
-  always
-
-  ice
-
-  chase
-
-  pride'
-bip_39_word_new_line_7: 'range
-
-  guard
-
-  always
-
-  ice
-
-  chase
-
-  pride
-
-  appear'
-bip_39_word_new_line_8: 'range
-
-  guard
-
-  always
-
-  ice
-
-  chase
-
-  pride
-
-  appear
-
-  stumble'
-bip_39_word_new_line_9: 'range
-
-  guard
-
-  always
-
-  ice
-
-  chase
-
-  pride
-
-  appear
-
-  stumble
-
-  primary'
-bip_39_word_no_space_1: range
-bip_39_word_no_space_10: rangeguardalwaysicechaseprideappearstumbleprimaryfantasy
-bip_39_word_no_space_11: rangeguardalwaysicechaseprideappearstumbleprimaryfantasyflush
 bip_39_word_no_space_12: rangeguardalwaysicechaseprideappearstumbleprimaryfantasyflushamount
 bip_39_word_no_space_2: rangeguard
 bip_39_word_no_space_3: rangeguardalways
-bip_39_word_no_space_4: rangeguardalwaysice
-bip_39_word_no_space_5: rangeguardalwaysicechase
-bip_39_word_no_space_6: rangeguardalwaysicechasepride
-bip_39_word_no_space_7: rangeguardalwaysicechaseprideappear
-bip_39_word_no_space_8: rangeguardalwaysicechaseprideappearstumble
-bip_39_word_no_space_9: rangeguardalwaysicechaseprideappearstumbleprimary
-bip_39_word_space_0:
-- range
-- guard
-- always
-- ice
-- chase
-- pride
-- appear
-- stumble
-- primary
-- fantasy
-- flush
-- amount
-bip_39_word_space_1: range
-bip_39_word_space_10: range guard always ice chase pride appear stumble primary fantasy
-bip_39_word_space_11: range guard always ice chase pride appear stumble primary fantasy
-  flush
 bip_39_word_space_12: range guard always ice chase pride appear stumble primary fantasy
   flush amount
 bip_39_word_space_2: range guard
 bip_39_word_space_3: range guard always
-bip_39_word_space_4: range guard always ice
-bip_39_word_space_5: range guard always ice chase
-bip_39_word_space_6: range guard always ice chase pride
-bip_39_word_space_7: range guard always ice chase pride appear
-bip_39_word_space_8: range guard always ice chase pride appear stumble
-bip_39_word_space_9: range guard always ice chase pride appear stumble primary
-bip_39_word_underscore_1: range
-bip_39_word_underscore_10: range_guard_always_ice_chase_pride_appear_stumble_primary_fantasy
-bip_39_word_underscore_11: range_guard_always_ice_chase_pride_appear_stumble_primary_fantasy_flush
 bip_39_word_underscore_12: range_guard_always_ice_chase_pride_appear_stumble_primary_fantasy_flush_amount
 bip_39_word_underscore_2: range_guard
 bip_39_word_underscore_3: range_guard_always
-bip_39_word_underscore_4: range_guard_always_ice
-bip_39_word_underscore_5: range_guard_always_ice_chase
-bip_39_word_underscore_6: range_guard_always_ice_chase_pride
-bip_39_word_underscore_7: range_guard_always_ice_chase_pride_appear
-bip_39_word_underscore_8: range_guard_always_ice_chase_pride_appear_stumble
-bip_39_word_underscore_9: range_guard_always_ice_chase_pride_appear_stumble_primary
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

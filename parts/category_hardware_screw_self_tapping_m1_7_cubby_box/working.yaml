@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ball
-bip_39_word_dash_10: ball-piano-ability-action-super-eager-charge-unique-refuse-athlete
-bip_39_word_dash_11: ball-piano-ability-action-super-eager-charge-unique-refuse-athlete-race
 bip_39_word_dash_12: ball-piano-ability-action-super-eager-charge-unique-refuse-athlete-race-absorb
 bip_39_word_dash_2: ball-piano
 bip_39_word_dash_3: ball-piano-ability
-bip_39_word_dash_4: ball-piano-ability-action
-bip_39_word_dash_5: ball-piano-ability-action-super
-bip_39_word_dash_6: ball-piano-ability-action-super-eager
-bip_39_word_dash_7: ball-piano-ability-action-super-eager-charge
-bip_39_word_dash_8: ball-piano-ability-action-super-eager-charge-unique
-bip_39_word_dash_9: ball-piano-ability-action-super-eager-charge-unique-refuse
-bip_39_word_new_br_1: ball
-bip_39_word_new_br_10: ball<br>piano<br>ability<br>action<br>super<br>eager<br>charge<br>unique<br>refuse<br>athlete
-bip_39_word_new_br_11: ball<br>piano<br>ability<br>action<br>super<br>eager<br>charge<br>unique<br>refuse<br>athlete<br>race
 bip_39_word_new_br_12: ball<br>piano<br>ability<br>action<br>super<br>eager<br>charge<br>unique<br>refuse<br>athlete<br>race<br>absorb
 bip_39_word_new_br_2: ball<br>piano
 bip_39_word_new_br_3: ball<br>piano<br>ability
-bip_39_word_new_br_4: ball<br>piano<br>ability<br>action
-bip_39_word_new_br_5: ball<br>piano<br>ability<br>action<br>super
-bip_39_word_new_br_6: ball<br>piano<br>ability<br>action<br>super<br>eager
-bip_39_word_new_br_7: ball<br>piano<br>ability<br>action<br>super<br>eager<br>charge
-bip_39_word_new_br_8: ball<br>piano<br>ability<br>action<br>super<br>eager<br>charge<br>unique
-bip_39_word_new_br_9: ball<br>piano<br>ability<br>action<br>super<br>eager<br>charge<br>unique<br>refuse
-bip_39_word_new_line_1: ball
-bip_39_word_new_line_10: 'ball
-
-  piano
-
-  ability
-
-  action
-
-  super
-
-  eager
-
-  charge
-
-  unique
-
-  refuse
-
-  athlete'
-bip_39_word_new_line_11: 'ball
-
-  piano
-
-  ability
-
-  action
-
-  super
-
-  eager
-
-  charge
-
-  unique
-
-  refuse
-
-  athlete
-
-  race'
 bip_39_word_new_line_12: 'ball
 
   piano
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ball
   piano
 
   ability'
-bip_39_word_new_line_4: 'ball
-
-  piano
-
-  ability
-
-  action'
-bip_39_word_new_line_5: 'ball
-
-  piano
-
-  ability
-
-  action
-
-  super'
-bip_39_word_new_line_6: 'ball
-
-  piano
-
-  ability
-
-  action
-
-  super
-
-  eager'
-bip_39_word_new_line_7: 'ball
-
-  piano
-
-  ability
-
-  action
-
-  super
-
-  eager
-
-  charge'
-bip_39_word_new_line_8: 'ball
-
-  piano
-
-  ability
-
-  action
-
-  super
-
-  eager
-
-  charge
-
-  unique'
-bip_39_word_new_line_9: 'ball
-
-  piano
-
-  ability
-
-  action
-
-  super
-
-  eager
-
-  charge
-
-  unique
-
-  refuse'
-bip_39_word_no_space_1: ball
-bip_39_word_no_space_10: ballpianoabilityactionsupereagerchargeuniquerefuseathlete
-bip_39_word_no_space_11: ballpianoabilityactionsupereagerchargeuniquerefuseathleterace
 bip_39_word_no_space_12: ballpianoabilityactionsupereagerchargeuniquerefuseathleteraceabsorb
 bip_39_word_no_space_2: ballpiano
 bip_39_word_no_space_3: ballpianoability
-bip_39_word_no_space_4: ballpianoabilityaction
-bip_39_word_no_space_5: ballpianoabilityactionsuper
-bip_39_word_no_space_6: ballpianoabilityactionsupereager
-bip_39_word_no_space_7: ballpianoabilityactionsupereagercharge
-bip_39_word_no_space_8: ballpianoabilityactionsupereagerchargeunique
-bip_39_word_no_space_9: ballpianoabilityactionsupereagerchargeuniquerefuse
-bip_39_word_space_0:
-- ball
-- piano
-- ability
-- action
-- super
-- eager
-- charge
-- unique
-- refuse
-- athlete
-- race
-- absorb
-bip_39_word_space_1: ball
-bip_39_word_space_10: ball piano ability action super eager charge unique refuse athlete
-bip_39_word_space_11: ball piano ability action super eager charge unique refuse athlete
-  race
 bip_39_word_space_12: ball piano ability action super eager charge unique refuse athlete
   race absorb
 bip_39_word_space_2: ball piano
 bip_39_word_space_3: ball piano ability
-bip_39_word_space_4: ball piano ability action
-bip_39_word_space_5: ball piano ability action super
-bip_39_word_space_6: ball piano ability action super eager
-bip_39_word_space_7: ball piano ability action super eager charge
-bip_39_word_space_8: ball piano ability action super eager charge unique
-bip_39_word_space_9: ball piano ability action super eager charge unique refuse
-bip_39_word_underscore_1: ball
-bip_39_word_underscore_10: ball_piano_ability_action_super_eager_charge_unique_refuse_athlete
-bip_39_word_underscore_11: ball_piano_ability_action_super_eager_charge_unique_refuse_athlete_race
 bip_39_word_underscore_12: ball_piano_ability_action_super_eager_charge_unique_refuse_athlete_race_absorb
 bip_39_word_underscore_2: ball_piano
 bip_39_word_underscore_3: ball_piano_ability
-bip_39_word_underscore_4: ball_piano_ability_action
-bip_39_word_underscore_5: ball_piano_ability_action_super
-bip_39_word_underscore_6: ball_piano_ability_action_super_eager
-bip_39_word_underscore_7: ball_piano_ability_action_super_eager_charge
-bip_39_word_underscore_8: ball_piano_ability_action_super_eager_charge_unique
-bip_39_word_underscore_9: ball_piano_ability_action_super_eager_charge_unique_refuse
 classification: category
 classification_capital: Category
 classification_first_letter: c

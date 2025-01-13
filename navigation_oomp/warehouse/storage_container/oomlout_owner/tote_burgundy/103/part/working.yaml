@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lizard
-bip_39_word_dash_10: lizard-angle-stay-dust-million-summer-path-next-edit-avocado
-bip_39_word_dash_11: lizard-angle-stay-dust-million-summer-path-next-edit-avocado-meadow
 bip_39_word_dash_12: lizard-angle-stay-dust-million-summer-path-next-edit-avocado-meadow-assume
 bip_39_word_dash_2: lizard-angle
 bip_39_word_dash_3: lizard-angle-stay
-bip_39_word_dash_4: lizard-angle-stay-dust
-bip_39_word_dash_5: lizard-angle-stay-dust-million
-bip_39_word_dash_6: lizard-angle-stay-dust-million-summer
-bip_39_word_dash_7: lizard-angle-stay-dust-million-summer-path
-bip_39_word_dash_8: lizard-angle-stay-dust-million-summer-path-next
-bip_39_word_dash_9: lizard-angle-stay-dust-million-summer-path-next-edit
-bip_39_word_new_br_1: lizard
-bip_39_word_new_br_10: lizard<br>angle<br>stay<br>dust<br>million<br>summer<br>path<br>next<br>edit<br>avocado
-bip_39_word_new_br_11: lizard<br>angle<br>stay<br>dust<br>million<br>summer<br>path<br>next<br>edit<br>avocado<br>meadow
 bip_39_word_new_br_12: lizard<br>angle<br>stay<br>dust<br>million<br>summer<br>path<br>next<br>edit<br>avocado<br>meadow<br>assume
 bip_39_word_new_br_2: lizard<br>angle
 bip_39_word_new_br_3: lizard<br>angle<br>stay
-bip_39_word_new_br_4: lizard<br>angle<br>stay<br>dust
-bip_39_word_new_br_5: lizard<br>angle<br>stay<br>dust<br>million
-bip_39_word_new_br_6: lizard<br>angle<br>stay<br>dust<br>million<br>summer
-bip_39_word_new_br_7: lizard<br>angle<br>stay<br>dust<br>million<br>summer<br>path
-bip_39_word_new_br_8: lizard<br>angle<br>stay<br>dust<br>million<br>summer<br>path<br>next
-bip_39_word_new_br_9: lizard<br>angle<br>stay<br>dust<br>million<br>summer<br>path<br>next<br>edit
-bip_39_word_new_line_1: lizard
-bip_39_word_new_line_10: 'lizard
-
-  angle
-
-  stay
-
-  dust
-
-  million
-
-  summer
-
-  path
-
-  next
-
-  edit
-
-  avocado'
-bip_39_word_new_line_11: 'lizard
-
-  angle
-
-  stay
-
-  dust
-
-  million
-
-  summer
-
-  path
-
-  next
-
-  edit
-
-  avocado
-
-  meadow'
 bip_39_word_new_line_12: 'lizard
 
   angle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lizard
   angle
 
   stay'
-bip_39_word_new_line_4: 'lizard
-
-  angle
-
-  stay
-
-  dust'
-bip_39_word_new_line_5: 'lizard
-
-  angle
-
-  stay
-
-  dust
-
-  million'
-bip_39_word_new_line_6: 'lizard
-
-  angle
-
-  stay
-
-  dust
-
-  million
-
-  summer'
-bip_39_word_new_line_7: 'lizard
-
-  angle
-
-  stay
-
-  dust
-
-  million
-
-  summer
-
-  path'
-bip_39_word_new_line_8: 'lizard
-
-  angle
-
-  stay
-
-  dust
-
-  million
-
-  summer
-
-  path
-
-  next'
-bip_39_word_new_line_9: 'lizard
-
-  angle
-
-  stay
-
-  dust
-
-  million
-
-  summer
-
-  path
-
-  next
-
-  edit'
-bip_39_word_no_space_1: lizard
-bip_39_word_no_space_10: lizardanglestaydustmillionsummerpathnexteditavocado
-bip_39_word_no_space_11: lizardanglestaydustmillionsummerpathnexteditavocadomeadow
 bip_39_word_no_space_12: lizardanglestaydustmillionsummerpathnexteditavocadomeadowassume
 bip_39_word_no_space_2: lizardangle
 bip_39_word_no_space_3: lizardanglestay
-bip_39_word_no_space_4: lizardanglestaydust
-bip_39_word_no_space_5: lizardanglestaydustmillion
-bip_39_word_no_space_6: lizardanglestaydustmillionsummer
-bip_39_word_no_space_7: lizardanglestaydustmillionsummerpath
-bip_39_word_no_space_8: lizardanglestaydustmillionsummerpathnext
-bip_39_word_no_space_9: lizardanglestaydustmillionsummerpathnextedit
-bip_39_word_space_0:
-- lizard
-- angle
-- stay
-- dust
-- million
-- summer
-- path
-- next
-- edit
-- avocado
-- meadow
-- assume
-bip_39_word_space_1: lizard
-bip_39_word_space_10: lizard angle stay dust million summer path next edit avocado
-bip_39_word_space_11: lizard angle stay dust million summer path next edit avocado
-  meadow
 bip_39_word_space_12: lizard angle stay dust million summer path next edit avocado
   meadow assume
 bip_39_word_space_2: lizard angle
 bip_39_word_space_3: lizard angle stay
-bip_39_word_space_4: lizard angle stay dust
-bip_39_word_space_5: lizard angle stay dust million
-bip_39_word_space_6: lizard angle stay dust million summer
-bip_39_word_space_7: lizard angle stay dust million summer path
-bip_39_word_space_8: lizard angle stay dust million summer path next
-bip_39_word_space_9: lizard angle stay dust million summer path next edit
-bip_39_word_underscore_1: lizard
-bip_39_word_underscore_10: lizard_angle_stay_dust_million_summer_path_next_edit_avocado
-bip_39_word_underscore_11: lizard_angle_stay_dust_million_summer_path_next_edit_avocado_meadow
 bip_39_word_underscore_12: lizard_angle_stay_dust_million_summer_path_next_edit_avocado_meadow_assume
 bip_39_word_underscore_2: lizard_angle
 bip_39_word_underscore_3: lizard_angle_stay
-bip_39_word_underscore_4: lizard_angle_stay_dust
-bip_39_word_underscore_5: lizard_angle_stay_dust_million
-bip_39_word_underscore_6: lizard_angle_stay_dust_million_summer
-bip_39_word_underscore_7: lizard_angle_stay_dust_million_summer_path
-bip_39_word_underscore_8: lizard_angle_stay_dust_million_summer_path_next
-bip_39_word_underscore_9: lizard_angle_stay_dust_million_summer_path_next_edit
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

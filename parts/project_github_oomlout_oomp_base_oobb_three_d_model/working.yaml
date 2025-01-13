@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alley
-bip_39_word_dash_10: alley-radar-fox-beach-junk-jazz-square-apology-resource-rescue
-bip_39_word_dash_11: alley-radar-fox-beach-junk-jazz-square-apology-resource-rescue-liar
 bip_39_word_dash_12: alley-radar-fox-beach-junk-jazz-square-apology-resource-rescue-liar-alter
 bip_39_word_dash_2: alley-radar
 bip_39_word_dash_3: alley-radar-fox
-bip_39_word_dash_4: alley-radar-fox-beach
-bip_39_word_dash_5: alley-radar-fox-beach-junk
-bip_39_word_dash_6: alley-radar-fox-beach-junk-jazz
-bip_39_word_dash_7: alley-radar-fox-beach-junk-jazz-square
-bip_39_word_dash_8: alley-radar-fox-beach-junk-jazz-square-apology
-bip_39_word_dash_9: alley-radar-fox-beach-junk-jazz-square-apology-resource
-bip_39_word_new_br_1: alley
-bip_39_word_new_br_10: alley<br>radar<br>fox<br>beach<br>junk<br>jazz<br>square<br>apology<br>resource<br>rescue
-bip_39_word_new_br_11: alley<br>radar<br>fox<br>beach<br>junk<br>jazz<br>square<br>apology<br>resource<br>rescue<br>liar
 bip_39_word_new_br_12: alley<br>radar<br>fox<br>beach<br>junk<br>jazz<br>square<br>apology<br>resource<br>rescue<br>liar<br>alter
 bip_39_word_new_br_2: alley<br>radar
 bip_39_word_new_br_3: alley<br>radar<br>fox
-bip_39_word_new_br_4: alley<br>radar<br>fox<br>beach
-bip_39_word_new_br_5: alley<br>radar<br>fox<br>beach<br>junk
-bip_39_word_new_br_6: alley<br>radar<br>fox<br>beach<br>junk<br>jazz
-bip_39_word_new_br_7: alley<br>radar<br>fox<br>beach<br>junk<br>jazz<br>square
-bip_39_word_new_br_8: alley<br>radar<br>fox<br>beach<br>junk<br>jazz<br>square<br>apology
-bip_39_word_new_br_9: alley<br>radar<br>fox<br>beach<br>junk<br>jazz<br>square<br>apology<br>resource
-bip_39_word_new_line_1: alley
-bip_39_word_new_line_10: 'alley
-
-  radar
-
-  fox
-
-  beach
-
-  junk
-
-  jazz
-
-  square
-
-  apology
-
-  resource
-
-  rescue'
-bip_39_word_new_line_11: 'alley
-
-  radar
-
-  fox
-
-  beach
-
-  junk
-
-  jazz
-
-  square
-
-  apology
-
-  resource
-
-  rescue
-
-  liar'
 bip_39_word_new_line_12: 'alley
 
   radar
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'alley
   radar
 
   fox'
-bip_39_word_new_line_4: 'alley
-
-  radar
-
-  fox
-
-  beach'
-bip_39_word_new_line_5: 'alley
-
-  radar
-
-  fox
-
-  beach
-
-  junk'
-bip_39_word_new_line_6: 'alley
-
-  radar
-
-  fox
-
-  beach
-
-  junk
-
-  jazz'
-bip_39_word_new_line_7: 'alley
-
-  radar
-
-  fox
-
-  beach
-
-  junk
-
-  jazz
-
-  square'
-bip_39_word_new_line_8: 'alley
-
-  radar
-
-  fox
-
-  beach
-
-  junk
-
-  jazz
-
-  square
-
-  apology'
-bip_39_word_new_line_9: 'alley
-
-  radar
-
-  fox
-
-  beach
-
-  junk
-
-  jazz
-
-  square
-
-  apology
-
-  resource'
-bip_39_word_no_space_1: alley
-bip_39_word_no_space_10: alleyradarfoxbeachjunkjazzsquareapologyresourcerescue
-bip_39_word_no_space_11: alleyradarfoxbeachjunkjazzsquareapologyresourcerescueliar
 bip_39_word_no_space_12: alleyradarfoxbeachjunkjazzsquareapologyresourcerescueliaralter
 bip_39_word_no_space_2: alleyradar
 bip_39_word_no_space_3: alleyradarfox
-bip_39_word_no_space_4: alleyradarfoxbeach
-bip_39_word_no_space_5: alleyradarfoxbeachjunk
-bip_39_word_no_space_6: alleyradarfoxbeachjunkjazz
-bip_39_word_no_space_7: alleyradarfoxbeachjunkjazzsquare
-bip_39_word_no_space_8: alleyradarfoxbeachjunkjazzsquareapology
-bip_39_word_no_space_9: alleyradarfoxbeachjunkjazzsquareapologyresource
-bip_39_word_space_0:
-- alley
-- radar
-- fox
-- beach
-- junk
-- jazz
-- square
-- apology
-- resource
-- rescue
-- liar
-- alter
-bip_39_word_space_1: alley
-bip_39_word_space_10: alley radar fox beach junk jazz square apology resource rescue
-bip_39_word_space_11: alley radar fox beach junk jazz square apology resource rescue
-  liar
 bip_39_word_space_12: alley radar fox beach junk jazz square apology resource rescue
   liar alter
 bip_39_word_space_2: alley radar
 bip_39_word_space_3: alley radar fox
-bip_39_word_space_4: alley radar fox beach
-bip_39_word_space_5: alley radar fox beach junk
-bip_39_word_space_6: alley radar fox beach junk jazz
-bip_39_word_space_7: alley radar fox beach junk jazz square
-bip_39_word_space_8: alley radar fox beach junk jazz square apology
-bip_39_word_space_9: alley radar fox beach junk jazz square apology resource
-bip_39_word_underscore_1: alley
-bip_39_word_underscore_10: alley_radar_fox_beach_junk_jazz_square_apology_resource_rescue
-bip_39_word_underscore_11: alley_radar_fox_beach_junk_jazz_square_apology_resource_rescue_liar
 bip_39_word_underscore_12: alley_radar_fox_beach_junk_jazz_square_apology_resource_rescue_liar_alter
 bip_39_word_underscore_2: alley_radar
 bip_39_word_underscore_3: alley_radar_fox
-bip_39_word_underscore_4: alley_radar_fox_beach
-bip_39_word_underscore_5: alley_radar_fox_beach_junk
-bip_39_word_underscore_6: alley_radar_fox_beach_junk_jazz
-bip_39_word_underscore_7: alley_radar_fox_beach_junk_jazz_square
-bip_39_word_underscore_8: alley_radar_fox_beach_junk_jazz_square_apology
-bip_39_word_underscore_9: alley_radar_fox_beach_junk_jazz_square_apology_resource
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: business
-bip_39_word_dash_10: business-brisk-misery-brand-faculty-delay-monkey-record-curious-tennis
-bip_39_word_dash_11: business-brisk-misery-brand-faculty-delay-monkey-record-curious-tennis-impulse
 bip_39_word_dash_12: business-brisk-misery-brand-faculty-delay-monkey-record-curious-tennis-impulse-agent
 bip_39_word_dash_2: business-brisk
 bip_39_word_dash_3: business-brisk-misery
-bip_39_word_dash_4: business-brisk-misery-brand
-bip_39_word_dash_5: business-brisk-misery-brand-faculty
-bip_39_word_dash_6: business-brisk-misery-brand-faculty-delay
-bip_39_word_dash_7: business-brisk-misery-brand-faculty-delay-monkey
-bip_39_word_dash_8: business-brisk-misery-brand-faculty-delay-monkey-record
-bip_39_word_dash_9: business-brisk-misery-brand-faculty-delay-monkey-record-curious
-bip_39_word_new_br_1: business
-bip_39_word_new_br_10: business<br>brisk<br>misery<br>brand<br>faculty<br>delay<br>monkey<br>record<br>curious<br>tennis
-bip_39_word_new_br_11: business<br>brisk<br>misery<br>brand<br>faculty<br>delay<br>monkey<br>record<br>curious<br>tennis<br>impulse
 bip_39_word_new_br_12: business<br>brisk<br>misery<br>brand<br>faculty<br>delay<br>monkey<br>record<br>curious<br>tennis<br>impulse<br>agent
 bip_39_word_new_br_2: business<br>brisk
 bip_39_word_new_br_3: business<br>brisk<br>misery
-bip_39_word_new_br_4: business<br>brisk<br>misery<br>brand
-bip_39_word_new_br_5: business<br>brisk<br>misery<br>brand<br>faculty
-bip_39_word_new_br_6: business<br>brisk<br>misery<br>brand<br>faculty<br>delay
-bip_39_word_new_br_7: business<br>brisk<br>misery<br>brand<br>faculty<br>delay<br>monkey
-bip_39_word_new_br_8: business<br>brisk<br>misery<br>brand<br>faculty<br>delay<br>monkey<br>record
-bip_39_word_new_br_9: business<br>brisk<br>misery<br>brand<br>faculty<br>delay<br>monkey<br>record<br>curious
-bip_39_word_new_line_1: business
-bip_39_word_new_line_10: 'business
-
-  brisk
-
-  misery
-
-  brand
-
-  faculty
-
-  delay
-
-  monkey
-
-  record
-
-  curious
-
-  tennis'
-bip_39_word_new_line_11: 'business
-
-  brisk
-
-  misery
-
-  brand
-
-  faculty
-
-  delay
-
-  monkey
-
-  record
-
-  curious
-
-  tennis
-
-  impulse'
 bip_39_word_new_line_12: 'business
 
   brisk
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'business
   brisk
 
   misery'
-bip_39_word_new_line_4: 'business
-
-  brisk
-
-  misery
-
-  brand'
-bip_39_word_new_line_5: 'business
-
-  brisk
-
-  misery
-
-  brand
-
-  faculty'
-bip_39_word_new_line_6: 'business
-
-  brisk
-
-  misery
-
-  brand
-
-  faculty
-
-  delay'
-bip_39_word_new_line_7: 'business
-
-  brisk
-
-  misery
-
-  brand
-
-  faculty
-
-  delay
-
-  monkey'
-bip_39_word_new_line_8: 'business
-
-  brisk
-
-  misery
-
-  brand
-
-  faculty
-
-  delay
-
-  monkey
-
-  record'
-bip_39_word_new_line_9: 'business
-
-  brisk
-
-  misery
-
-  brand
-
-  faculty
-
-  delay
-
-  monkey
-
-  record
-
-  curious'
-bip_39_word_no_space_1: business
-bip_39_word_no_space_10: businessbriskmiserybrandfacultydelaymonkeyrecordcurioustennis
-bip_39_word_no_space_11: businessbriskmiserybrandfacultydelaymonkeyrecordcurioustennisimpulse
 bip_39_word_no_space_12: businessbriskmiserybrandfacultydelaymonkeyrecordcurioustennisimpulseagent
 bip_39_word_no_space_2: businessbrisk
 bip_39_word_no_space_3: businessbriskmisery
-bip_39_word_no_space_4: businessbriskmiserybrand
-bip_39_word_no_space_5: businessbriskmiserybrandfaculty
-bip_39_word_no_space_6: businessbriskmiserybrandfacultydelay
-bip_39_word_no_space_7: businessbriskmiserybrandfacultydelaymonkey
-bip_39_word_no_space_8: businessbriskmiserybrandfacultydelaymonkeyrecord
-bip_39_word_no_space_9: businessbriskmiserybrandfacultydelaymonkeyrecordcurious
-bip_39_word_space_0:
-- business
-- brisk
-- misery
-- brand
-- faculty
-- delay
-- monkey
-- record
-- curious
-- tennis
-- impulse
-- agent
-bip_39_word_space_1: business
-bip_39_word_space_10: business brisk misery brand faculty delay monkey record curious
-  tennis
-bip_39_word_space_11: business brisk misery brand faculty delay monkey record curious
-  tennis impulse
 bip_39_word_space_12: business brisk misery brand faculty delay monkey record curious
   tennis impulse agent
 bip_39_word_space_2: business brisk
 bip_39_word_space_3: business brisk misery
-bip_39_word_space_4: business brisk misery brand
-bip_39_word_space_5: business brisk misery brand faculty
-bip_39_word_space_6: business brisk misery brand faculty delay
-bip_39_word_space_7: business brisk misery brand faculty delay monkey
-bip_39_word_space_8: business brisk misery brand faculty delay monkey record
-bip_39_word_space_9: business brisk misery brand faculty delay monkey record curious
-bip_39_word_underscore_1: business
-bip_39_word_underscore_10: business_brisk_misery_brand_faculty_delay_monkey_record_curious_tennis
-bip_39_word_underscore_11: business_brisk_misery_brand_faculty_delay_monkey_record_curious_tennis_impulse
 bip_39_word_underscore_12: business_brisk_misery_brand_faculty_delay_monkey_record_curious_tennis_impulse_agent
 bip_39_word_underscore_2: business_brisk
 bip_39_word_underscore_3: business_brisk_misery
-bip_39_word_underscore_4: business_brisk_misery_brand
-bip_39_word_underscore_5: business_brisk_misery_brand_faculty
-bip_39_word_underscore_6: business_brisk_misery_brand_faculty_delay
-bip_39_word_underscore_7: business_brisk_misery_brand_faculty_delay_monkey
-bip_39_word_underscore_8: business_brisk_misery_brand_faculty_delay_monkey_record
-bip_39_word_underscore_9: business_brisk_misery_brand_faculty_delay_monkey_record_curious
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

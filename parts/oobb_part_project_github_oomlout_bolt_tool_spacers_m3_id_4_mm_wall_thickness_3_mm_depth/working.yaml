@@ -1,68 +1,9 @@
-bip_39_word_dash_1: filter
-bip_39_word_dash_10: filter-patrol-core-expire-matrix-border-yellow-task-stairs-concert
-bip_39_word_dash_11: filter-patrol-core-expire-matrix-border-yellow-task-stairs-concert-hard
 bip_39_word_dash_12: filter-patrol-core-expire-matrix-border-yellow-task-stairs-concert-hard-antenna
 bip_39_word_dash_2: filter-patrol
 bip_39_word_dash_3: filter-patrol-core
-bip_39_word_dash_4: filter-patrol-core-expire
-bip_39_word_dash_5: filter-patrol-core-expire-matrix
-bip_39_word_dash_6: filter-patrol-core-expire-matrix-border
-bip_39_word_dash_7: filter-patrol-core-expire-matrix-border-yellow
-bip_39_word_dash_8: filter-patrol-core-expire-matrix-border-yellow-task
-bip_39_word_dash_9: filter-patrol-core-expire-matrix-border-yellow-task-stairs
-bip_39_word_new_br_1: filter
-bip_39_word_new_br_10: filter<br>patrol<br>core<br>expire<br>matrix<br>border<br>yellow<br>task<br>stairs<br>concert
-bip_39_word_new_br_11: filter<br>patrol<br>core<br>expire<br>matrix<br>border<br>yellow<br>task<br>stairs<br>concert<br>hard
 bip_39_word_new_br_12: filter<br>patrol<br>core<br>expire<br>matrix<br>border<br>yellow<br>task<br>stairs<br>concert<br>hard<br>antenna
 bip_39_word_new_br_2: filter<br>patrol
 bip_39_word_new_br_3: filter<br>patrol<br>core
-bip_39_word_new_br_4: filter<br>patrol<br>core<br>expire
-bip_39_word_new_br_5: filter<br>patrol<br>core<br>expire<br>matrix
-bip_39_word_new_br_6: filter<br>patrol<br>core<br>expire<br>matrix<br>border
-bip_39_word_new_br_7: filter<br>patrol<br>core<br>expire<br>matrix<br>border<br>yellow
-bip_39_word_new_br_8: filter<br>patrol<br>core<br>expire<br>matrix<br>border<br>yellow<br>task
-bip_39_word_new_br_9: filter<br>patrol<br>core<br>expire<br>matrix<br>border<br>yellow<br>task<br>stairs
-bip_39_word_new_line_1: filter
-bip_39_word_new_line_10: 'filter
-
-  patrol
-
-  core
-
-  expire
-
-  matrix
-
-  border
-
-  yellow
-
-  task
-
-  stairs
-
-  concert'
-bip_39_word_new_line_11: 'filter
-
-  patrol
-
-  core
-
-  expire
-
-  matrix
-
-  border
-
-  yellow
-
-  task
-
-  stairs
-
-  concert
-
-  hard'
 bip_39_word_new_line_12: 'filter
 
   patrol
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'filter
   patrol
 
   core'
-bip_39_word_new_line_4: 'filter
-
-  patrol
-
-  core
-
-  expire'
-bip_39_word_new_line_5: 'filter
-
-  patrol
-
-  core
-
-  expire
-
-  matrix'
-bip_39_word_new_line_6: 'filter
-
-  patrol
-
-  core
-
-  expire
-
-  matrix
-
-  border'
-bip_39_word_new_line_7: 'filter
-
-  patrol
-
-  core
-
-  expire
-
-  matrix
-
-  border
-
-  yellow'
-bip_39_word_new_line_8: 'filter
-
-  patrol
-
-  core
-
-  expire
-
-  matrix
-
-  border
-
-  yellow
-
-  task'
-bip_39_word_new_line_9: 'filter
-
-  patrol
-
-  core
-
-  expire
-
-  matrix
-
-  border
-
-  yellow
-
-  task
-
-  stairs'
-bip_39_word_no_space_1: filter
-bip_39_word_no_space_10: filterpatrolcoreexpirematrixborderyellowtaskstairsconcert
-bip_39_word_no_space_11: filterpatrolcoreexpirematrixborderyellowtaskstairsconcerthard
 bip_39_word_no_space_12: filterpatrolcoreexpirematrixborderyellowtaskstairsconcerthardantenna
 bip_39_word_no_space_2: filterpatrol
 bip_39_word_no_space_3: filterpatrolcore
-bip_39_word_no_space_4: filterpatrolcoreexpire
-bip_39_word_no_space_5: filterpatrolcoreexpirematrix
-bip_39_word_no_space_6: filterpatrolcoreexpirematrixborder
-bip_39_word_no_space_7: filterpatrolcoreexpirematrixborderyellow
-bip_39_word_no_space_8: filterpatrolcoreexpirematrixborderyellowtask
-bip_39_word_no_space_9: filterpatrolcoreexpirematrixborderyellowtaskstairs
-bip_39_word_space_0:
-- filter
-- patrol
-- core
-- expire
-- matrix
-- border
-- yellow
-- task
-- stairs
-- concert
-- hard
-- antenna
-bip_39_word_space_1: filter
-bip_39_word_space_10: filter patrol core expire matrix border yellow task stairs concert
-bip_39_word_space_11: filter patrol core expire matrix border yellow task stairs concert
-  hard
 bip_39_word_space_12: filter patrol core expire matrix border yellow task stairs concert
   hard antenna
 bip_39_word_space_2: filter patrol
 bip_39_word_space_3: filter patrol core
-bip_39_word_space_4: filter patrol core expire
-bip_39_word_space_5: filter patrol core expire matrix
-bip_39_word_space_6: filter patrol core expire matrix border
-bip_39_word_space_7: filter patrol core expire matrix border yellow
-bip_39_word_space_8: filter patrol core expire matrix border yellow task
-bip_39_word_space_9: filter patrol core expire matrix border yellow task stairs
-bip_39_word_underscore_1: filter
-bip_39_word_underscore_10: filter_patrol_core_expire_matrix_border_yellow_task_stairs_concert
-bip_39_word_underscore_11: filter_patrol_core_expire_matrix_border_yellow_task_stairs_concert_hard
 bip_39_word_underscore_12: filter_patrol_core_expire_matrix_border_yellow_task_stairs_concert_hard_antenna
 bip_39_word_underscore_2: filter_patrol
 bip_39_word_underscore_3: filter_patrol_core
-bip_39_word_underscore_4: filter_patrol_core_expire
-bip_39_word_underscore_5: filter_patrol_core_expire_matrix
-bip_39_word_underscore_6: filter_patrol_core_expire_matrix_border
-bip_39_word_underscore_7: filter_patrol_core_expire_matrix_border_yellow
-bip_39_word_underscore_8: filter_patrol_core_expire_matrix_border_yellow_task
-bip_39_word_underscore_9: filter_patrol_core_expire_matrix_border_yellow_task_stairs
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

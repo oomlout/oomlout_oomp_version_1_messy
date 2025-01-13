@@ -1,68 +1,9 @@
-bip_39_word_dash_1: blind
-bip_39_word_dash_10: blind-arrive-brief-fish-crew-million-cushion-buddy-cricket-maximum
-bip_39_word_dash_11: blind-arrive-brief-fish-crew-million-cushion-buddy-cricket-maximum-ozone
 bip_39_word_dash_12: blind-arrive-brief-fish-crew-million-cushion-buddy-cricket-maximum-ozone-average
 bip_39_word_dash_2: blind-arrive
 bip_39_word_dash_3: blind-arrive-brief
-bip_39_word_dash_4: blind-arrive-brief-fish
-bip_39_word_dash_5: blind-arrive-brief-fish-crew
-bip_39_word_dash_6: blind-arrive-brief-fish-crew-million
-bip_39_word_dash_7: blind-arrive-brief-fish-crew-million-cushion
-bip_39_word_dash_8: blind-arrive-brief-fish-crew-million-cushion-buddy
-bip_39_word_dash_9: blind-arrive-brief-fish-crew-million-cushion-buddy-cricket
-bip_39_word_new_br_1: blind
-bip_39_word_new_br_10: blind<br>arrive<br>brief<br>fish<br>crew<br>million<br>cushion<br>buddy<br>cricket<br>maximum
-bip_39_word_new_br_11: blind<br>arrive<br>brief<br>fish<br>crew<br>million<br>cushion<br>buddy<br>cricket<br>maximum<br>ozone
 bip_39_word_new_br_12: blind<br>arrive<br>brief<br>fish<br>crew<br>million<br>cushion<br>buddy<br>cricket<br>maximum<br>ozone<br>average
 bip_39_word_new_br_2: blind<br>arrive
 bip_39_word_new_br_3: blind<br>arrive<br>brief
-bip_39_word_new_br_4: blind<br>arrive<br>brief<br>fish
-bip_39_word_new_br_5: blind<br>arrive<br>brief<br>fish<br>crew
-bip_39_word_new_br_6: blind<br>arrive<br>brief<br>fish<br>crew<br>million
-bip_39_word_new_br_7: blind<br>arrive<br>brief<br>fish<br>crew<br>million<br>cushion
-bip_39_word_new_br_8: blind<br>arrive<br>brief<br>fish<br>crew<br>million<br>cushion<br>buddy
-bip_39_word_new_br_9: blind<br>arrive<br>brief<br>fish<br>crew<br>million<br>cushion<br>buddy<br>cricket
-bip_39_word_new_line_1: blind
-bip_39_word_new_line_10: 'blind
-
-  arrive
-
-  brief
-
-  fish
-
-  crew
-
-  million
-
-  cushion
-
-  buddy
-
-  cricket
-
-  maximum'
-bip_39_word_new_line_11: 'blind
-
-  arrive
-
-  brief
-
-  fish
-
-  crew
-
-  million
-
-  cushion
-
-  buddy
-
-  cricket
-
-  maximum
-
-  ozone'
 bip_39_word_new_line_12: 'blind
 
   arrive
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'blind
   arrive
 
   brief'
-bip_39_word_new_line_4: 'blind
-
-  arrive
-
-  brief
-
-  fish'
-bip_39_word_new_line_5: 'blind
-
-  arrive
-
-  brief
-
-  fish
-
-  crew'
-bip_39_word_new_line_6: 'blind
-
-  arrive
-
-  brief
-
-  fish
-
-  crew
-
-  million'
-bip_39_word_new_line_7: 'blind
-
-  arrive
-
-  brief
-
-  fish
-
-  crew
-
-  million
-
-  cushion'
-bip_39_word_new_line_8: 'blind
-
-  arrive
-
-  brief
-
-  fish
-
-  crew
-
-  million
-
-  cushion
-
-  buddy'
-bip_39_word_new_line_9: 'blind
-
-  arrive
-
-  brief
-
-  fish
-
-  crew
-
-  million
-
-  cushion
-
-  buddy
-
-  cricket'
-bip_39_word_no_space_1: blind
-bip_39_word_no_space_10: blindarrivebrieffishcrewmillioncushionbuddycricketmaximum
-bip_39_word_no_space_11: blindarrivebrieffishcrewmillioncushionbuddycricketmaximumozone
 bip_39_word_no_space_12: blindarrivebrieffishcrewmillioncushionbuddycricketmaximumozoneaverage
 bip_39_word_no_space_2: blindarrive
 bip_39_word_no_space_3: blindarrivebrief
-bip_39_word_no_space_4: blindarrivebrieffish
-bip_39_word_no_space_5: blindarrivebrieffishcrew
-bip_39_word_no_space_6: blindarrivebrieffishcrewmillion
-bip_39_word_no_space_7: blindarrivebrieffishcrewmillioncushion
-bip_39_word_no_space_8: blindarrivebrieffishcrewmillioncushionbuddy
-bip_39_word_no_space_9: blindarrivebrieffishcrewmillioncushionbuddycricket
-bip_39_word_space_0:
-- blind
-- arrive
-- brief
-- fish
-- crew
-- million
-- cushion
-- buddy
-- cricket
-- maximum
-- ozone
-- average
-bip_39_word_space_1: blind
-bip_39_word_space_10: blind arrive brief fish crew million cushion buddy cricket maximum
-bip_39_word_space_11: blind arrive brief fish crew million cushion buddy cricket maximum
-  ozone
 bip_39_word_space_12: blind arrive brief fish crew million cushion buddy cricket maximum
   ozone average
 bip_39_word_space_2: blind arrive
 bip_39_word_space_3: blind arrive brief
-bip_39_word_space_4: blind arrive brief fish
-bip_39_word_space_5: blind arrive brief fish crew
-bip_39_word_space_6: blind arrive brief fish crew million
-bip_39_word_space_7: blind arrive brief fish crew million cushion
-bip_39_word_space_8: blind arrive brief fish crew million cushion buddy
-bip_39_word_space_9: blind arrive brief fish crew million cushion buddy cricket
-bip_39_word_underscore_1: blind
-bip_39_word_underscore_10: blind_arrive_brief_fish_crew_million_cushion_buddy_cricket_maximum
-bip_39_word_underscore_11: blind_arrive_brief_fish_crew_million_cushion_buddy_cricket_maximum_ozone
 bip_39_word_underscore_12: blind_arrive_brief_fish_crew_million_cushion_buddy_cricket_maximum_ozone_average
 bip_39_word_underscore_2: blind_arrive
 bip_39_word_underscore_3: blind_arrive_brief
-bip_39_word_underscore_4: blind_arrive_brief_fish
-bip_39_word_underscore_5: blind_arrive_brief_fish_crew
-bip_39_word_underscore_6: blind_arrive_brief_fish_crew_million
-bip_39_word_underscore_7: blind_arrive_brief_fish_crew_million_cushion
-bip_39_word_underscore_8: blind_arrive_brief_fish_crew_million_cushion_buddy
-bip_39_word_underscore_9: blind_arrive_brief_fish_crew_million_cushion_buddy_cricket
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

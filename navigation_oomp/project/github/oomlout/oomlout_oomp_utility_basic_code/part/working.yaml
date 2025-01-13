@@ -1,68 +1,9 @@
-bip_39_word_dash_1: copper
-bip_39_word_dash_10: copper-acquire-margin-fetch-scrap-chase-over-abandon-cave-tray
-bip_39_word_dash_11: copper-acquire-margin-fetch-scrap-chase-over-abandon-cave-tray-bleak
 bip_39_word_dash_12: copper-acquire-margin-fetch-scrap-chase-over-abandon-cave-tray-bleak-amateur
 bip_39_word_dash_2: copper-acquire
 bip_39_word_dash_3: copper-acquire-margin
-bip_39_word_dash_4: copper-acquire-margin-fetch
-bip_39_word_dash_5: copper-acquire-margin-fetch-scrap
-bip_39_word_dash_6: copper-acquire-margin-fetch-scrap-chase
-bip_39_word_dash_7: copper-acquire-margin-fetch-scrap-chase-over
-bip_39_word_dash_8: copper-acquire-margin-fetch-scrap-chase-over-abandon
-bip_39_word_dash_9: copper-acquire-margin-fetch-scrap-chase-over-abandon-cave
-bip_39_word_new_br_1: copper
-bip_39_word_new_br_10: copper<br>acquire<br>margin<br>fetch<br>scrap<br>chase<br>over<br>abandon<br>cave<br>tray
-bip_39_word_new_br_11: copper<br>acquire<br>margin<br>fetch<br>scrap<br>chase<br>over<br>abandon<br>cave<br>tray<br>bleak
 bip_39_word_new_br_12: copper<br>acquire<br>margin<br>fetch<br>scrap<br>chase<br>over<br>abandon<br>cave<br>tray<br>bleak<br>amateur
 bip_39_word_new_br_2: copper<br>acquire
 bip_39_word_new_br_3: copper<br>acquire<br>margin
-bip_39_word_new_br_4: copper<br>acquire<br>margin<br>fetch
-bip_39_word_new_br_5: copper<br>acquire<br>margin<br>fetch<br>scrap
-bip_39_word_new_br_6: copper<br>acquire<br>margin<br>fetch<br>scrap<br>chase
-bip_39_word_new_br_7: copper<br>acquire<br>margin<br>fetch<br>scrap<br>chase<br>over
-bip_39_word_new_br_8: copper<br>acquire<br>margin<br>fetch<br>scrap<br>chase<br>over<br>abandon
-bip_39_word_new_br_9: copper<br>acquire<br>margin<br>fetch<br>scrap<br>chase<br>over<br>abandon<br>cave
-bip_39_word_new_line_1: copper
-bip_39_word_new_line_10: 'copper
-
-  acquire
-
-  margin
-
-  fetch
-
-  scrap
-
-  chase
-
-  over
-
-  abandon
-
-  cave
-
-  tray'
-bip_39_word_new_line_11: 'copper
-
-  acquire
-
-  margin
-
-  fetch
-
-  scrap
-
-  chase
-
-  over
-
-  abandon
-
-  cave
-
-  tray
-
-  bleak'
 bip_39_word_new_line_12: 'copper
 
   acquire
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'copper
   acquire
 
   margin'
-bip_39_word_new_line_4: 'copper
-
-  acquire
-
-  margin
-
-  fetch'
-bip_39_word_new_line_5: 'copper
-
-  acquire
-
-  margin
-
-  fetch
-
-  scrap'
-bip_39_word_new_line_6: 'copper
-
-  acquire
-
-  margin
-
-  fetch
-
-  scrap
-
-  chase'
-bip_39_word_new_line_7: 'copper
-
-  acquire
-
-  margin
-
-  fetch
-
-  scrap
-
-  chase
-
-  over'
-bip_39_word_new_line_8: 'copper
-
-  acquire
-
-  margin
-
-  fetch
-
-  scrap
-
-  chase
-
-  over
-
-  abandon'
-bip_39_word_new_line_9: 'copper
-
-  acquire
-
-  margin
-
-  fetch
-
-  scrap
-
-  chase
-
-  over
-
-  abandon
-
-  cave'
-bip_39_word_no_space_1: copper
-bip_39_word_no_space_10: copperacquiremarginfetchscrapchaseoverabandoncavetray
-bip_39_word_no_space_11: copperacquiremarginfetchscrapchaseoverabandoncavetraybleak
 bip_39_word_no_space_12: copperacquiremarginfetchscrapchaseoverabandoncavetraybleakamateur
 bip_39_word_no_space_2: copperacquire
 bip_39_word_no_space_3: copperacquiremargin
-bip_39_word_no_space_4: copperacquiremarginfetch
-bip_39_word_no_space_5: copperacquiremarginfetchscrap
-bip_39_word_no_space_6: copperacquiremarginfetchscrapchase
-bip_39_word_no_space_7: copperacquiremarginfetchscrapchaseover
-bip_39_word_no_space_8: copperacquiremarginfetchscrapchaseoverabandon
-bip_39_word_no_space_9: copperacquiremarginfetchscrapchaseoverabandoncave
-bip_39_word_space_0:
-- copper
-- acquire
-- margin
-- fetch
-- scrap
-- chase
-- over
-- abandon
-- cave
-- tray
-- bleak
-- amateur
-bip_39_word_space_1: copper
-bip_39_word_space_10: copper acquire margin fetch scrap chase over abandon cave tray
-bip_39_word_space_11: copper acquire margin fetch scrap chase over abandon cave tray
-  bleak
 bip_39_word_space_12: copper acquire margin fetch scrap chase over abandon cave tray
   bleak amateur
 bip_39_word_space_2: copper acquire
 bip_39_word_space_3: copper acquire margin
-bip_39_word_space_4: copper acquire margin fetch
-bip_39_word_space_5: copper acquire margin fetch scrap
-bip_39_word_space_6: copper acquire margin fetch scrap chase
-bip_39_word_space_7: copper acquire margin fetch scrap chase over
-bip_39_word_space_8: copper acquire margin fetch scrap chase over abandon
-bip_39_word_space_9: copper acquire margin fetch scrap chase over abandon cave
-bip_39_word_underscore_1: copper
-bip_39_word_underscore_10: copper_acquire_margin_fetch_scrap_chase_over_abandon_cave_tray
-bip_39_word_underscore_11: copper_acquire_margin_fetch_scrap_chase_over_abandon_cave_tray_bleak
 bip_39_word_underscore_12: copper_acquire_margin_fetch_scrap_chase_over_abandon_cave_tray_bleak_amateur
 bip_39_word_underscore_2: copper_acquire
 bip_39_word_underscore_3: copper_acquire_margin
-bip_39_word_underscore_4: copper_acquire_margin_fetch
-bip_39_word_underscore_5: copper_acquire_margin_fetch_scrap
-bip_39_word_underscore_6: copper_acquire_margin_fetch_scrap_chase
-bip_39_word_underscore_7: copper_acquire_margin_fetch_scrap_chase_over
-bip_39_word_underscore_8: copper_acquire_margin_fetch_scrap_chase_over_abandon
-bip_39_word_underscore_9: copper_acquire_margin_fetch_scrap_chase_over_abandon_cave
 classification: project
 classification_capital: Project
 classification_first_letter: p

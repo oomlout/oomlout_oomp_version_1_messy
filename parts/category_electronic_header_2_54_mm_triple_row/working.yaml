@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cliff
-bip_39_word_dash_10: cliff-antenna-cloud-eight-sustain-bundle-awesome-glare-fun-round
-bip_39_word_dash_11: cliff-antenna-cloud-eight-sustain-bundle-awesome-glare-fun-round-name
 bip_39_word_dash_12: cliff-antenna-cloud-eight-sustain-bundle-awesome-glare-fun-round-name-all
 bip_39_word_dash_2: cliff-antenna
 bip_39_word_dash_3: cliff-antenna-cloud
-bip_39_word_dash_4: cliff-antenna-cloud-eight
-bip_39_word_dash_5: cliff-antenna-cloud-eight-sustain
-bip_39_word_dash_6: cliff-antenna-cloud-eight-sustain-bundle
-bip_39_word_dash_7: cliff-antenna-cloud-eight-sustain-bundle-awesome
-bip_39_word_dash_8: cliff-antenna-cloud-eight-sustain-bundle-awesome-glare
-bip_39_word_dash_9: cliff-antenna-cloud-eight-sustain-bundle-awesome-glare-fun
-bip_39_word_new_br_1: cliff
-bip_39_word_new_br_10: cliff<br>antenna<br>cloud<br>eight<br>sustain<br>bundle<br>awesome<br>glare<br>fun<br>round
-bip_39_word_new_br_11: cliff<br>antenna<br>cloud<br>eight<br>sustain<br>bundle<br>awesome<br>glare<br>fun<br>round<br>name
 bip_39_word_new_br_12: cliff<br>antenna<br>cloud<br>eight<br>sustain<br>bundle<br>awesome<br>glare<br>fun<br>round<br>name<br>all
 bip_39_word_new_br_2: cliff<br>antenna
 bip_39_word_new_br_3: cliff<br>antenna<br>cloud
-bip_39_word_new_br_4: cliff<br>antenna<br>cloud<br>eight
-bip_39_word_new_br_5: cliff<br>antenna<br>cloud<br>eight<br>sustain
-bip_39_word_new_br_6: cliff<br>antenna<br>cloud<br>eight<br>sustain<br>bundle
-bip_39_word_new_br_7: cliff<br>antenna<br>cloud<br>eight<br>sustain<br>bundle<br>awesome
-bip_39_word_new_br_8: cliff<br>antenna<br>cloud<br>eight<br>sustain<br>bundle<br>awesome<br>glare
-bip_39_word_new_br_9: cliff<br>antenna<br>cloud<br>eight<br>sustain<br>bundle<br>awesome<br>glare<br>fun
-bip_39_word_new_line_1: cliff
-bip_39_word_new_line_10: 'cliff
-
-  antenna
-
-  cloud
-
-  eight
-
-  sustain
-
-  bundle
-
-  awesome
-
-  glare
-
-  fun
-
-  round'
-bip_39_word_new_line_11: 'cliff
-
-  antenna
-
-  cloud
-
-  eight
-
-  sustain
-
-  bundle
-
-  awesome
-
-  glare
-
-  fun
-
-  round
-
-  name'
 bip_39_word_new_line_12: 'cliff
 
   antenna
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cliff
   antenna
 
   cloud'
-bip_39_word_new_line_4: 'cliff
-
-  antenna
-
-  cloud
-
-  eight'
-bip_39_word_new_line_5: 'cliff
-
-  antenna
-
-  cloud
-
-  eight
-
-  sustain'
-bip_39_word_new_line_6: 'cliff
-
-  antenna
-
-  cloud
-
-  eight
-
-  sustain
-
-  bundle'
-bip_39_word_new_line_7: 'cliff
-
-  antenna
-
-  cloud
-
-  eight
-
-  sustain
-
-  bundle
-
-  awesome'
-bip_39_word_new_line_8: 'cliff
-
-  antenna
-
-  cloud
-
-  eight
-
-  sustain
-
-  bundle
-
-  awesome
-
-  glare'
-bip_39_word_new_line_9: 'cliff
-
-  antenna
-
-  cloud
-
-  eight
-
-  sustain
-
-  bundle
-
-  awesome
-
-  glare
-
-  fun'
-bip_39_word_no_space_1: cliff
-bip_39_word_no_space_10: cliffantennacloudeightsustainbundleawesomeglarefunround
-bip_39_word_no_space_11: cliffantennacloudeightsustainbundleawesomeglarefunroundname
 bip_39_word_no_space_12: cliffantennacloudeightsustainbundleawesomeglarefunroundnameall
 bip_39_word_no_space_2: cliffantenna
 bip_39_word_no_space_3: cliffantennacloud
-bip_39_word_no_space_4: cliffantennacloudeight
-bip_39_word_no_space_5: cliffantennacloudeightsustain
-bip_39_word_no_space_6: cliffantennacloudeightsustainbundle
-bip_39_word_no_space_7: cliffantennacloudeightsustainbundleawesome
-bip_39_word_no_space_8: cliffantennacloudeightsustainbundleawesomeglare
-bip_39_word_no_space_9: cliffantennacloudeightsustainbundleawesomeglarefun
-bip_39_word_space_0:
-- cliff
-- antenna
-- cloud
-- eight
-- sustain
-- bundle
-- awesome
-- glare
-- fun
-- round
-- name
-- all
-bip_39_word_space_1: cliff
-bip_39_word_space_10: cliff antenna cloud eight sustain bundle awesome glare fun round
-bip_39_word_space_11: cliff antenna cloud eight sustain bundle awesome glare fun round
-  name
 bip_39_word_space_12: cliff antenna cloud eight sustain bundle awesome glare fun round
   name all
 bip_39_word_space_2: cliff antenna
 bip_39_word_space_3: cliff antenna cloud
-bip_39_word_space_4: cliff antenna cloud eight
-bip_39_word_space_5: cliff antenna cloud eight sustain
-bip_39_word_space_6: cliff antenna cloud eight sustain bundle
-bip_39_word_space_7: cliff antenna cloud eight sustain bundle awesome
-bip_39_word_space_8: cliff antenna cloud eight sustain bundle awesome glare
-bip_39_word_space_9: cliff antenna cloud eight sustain bundle awesome glare fun
-bip_39_word_underscore_1: cliff
-bip_39_word_underscore_10: cliff_antenna_cloud_eight_sustain_bundle_awesome_glare_fun_round
-bip_39_word_underscore_11: cliff_antenna_cloud_eight_sustain_bundle_awesome_glare_fun_round_name
 bip_39_word_underscore_12: cliff_antenna_cloud_eight_sustain_bundle_awesome_glare_fun_round_name_all
 bip_39_word_underscore_2: cliff_antenna
 bip_39_word_underscore_3: cliff_antenna_cloud
-bip_39_word_underscore_4: cliff_antenna_cloud_eight
-bip_39_word_underscore_5: cliff_antenna_cloud_eight_sustain
-bip_39_word_underscore_6: cliff_antenna_cloud_eight_sustain_bundle
-bip_39_word_underscore_7: cliff_antenna_cloud_eight_sustain_bundle_awesome
-bip_39_word_underscore_8: cliff_antenna_cloud_eight_sustain_bundle_awesome_glare
-bip_39_word_underscore_9: cliff_antenna_cloud_eight_sustain_bundle_awesome_glare_fun
 classification: category
 classification_capital: Category
 classification_first_letter: c

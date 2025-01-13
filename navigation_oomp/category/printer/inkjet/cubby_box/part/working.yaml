@@ -1,68 +1,9 @@
-bip_39_word_dash_1: circle
-bip_39_word_dash_10: circle-around-cake-salad-grace-orient-baby-obscure-ocean-nerve
-bip_39_word_dash_11: circle-around-cake-salad-grace-orient-baby-obscure-ocean-nerve-salon
 bip_39_word_dash_12: circle-around-cake-salad-grace-orient-baby-obscure-ocean-nerve-salon-april
 bip_39_word_dash_2: circle-around
 bip_39_word_dash_3: circle-around-cake
-bip_39_word_dash_4: circle-around-cake-salad
-bip_39_word_dash_5: circle-around-cake-salad-grace
-bip_39_word_dash_6: circle-around-cake-salad-grace-orient
-bip_39_word_dash_7: circle-around-cake-salad-grace-orient-baby
-bip_39_word_dash_8: circle-around-cake-salad-grace-orient-baby-obscure
-bip_39_word_dash_9: circle-around-cake-salad-grace-orient-baby-obscure-ocean
-bip_39_word_new_br_1: circle
-bip_39_word_new_br_10: circle<br>around<br>cake<br>salad<br>grace<br>orient<br>baby<br>obscure<br>ocean<br>nerve
-bip_39_word_new_br_11: circle<br>around<br>cake<br>salad<br>grace<br>orient<br>baby<br>obscure<br>ocean<br>nerve<br>salon
 bip_39_word_new_br_12: circle<br>around<br>cake<br>salad<br>grace<br>orient<br>baby<br>obscure<br>ocean<br>nerve<br>salon<br>april
 bip_39_word_new_br_2: circle<br>around
 bip_39_word_new_br_3: circle<br>around<br>cake
-bip_39_word_new_br_4: circle<br>around<br>cake<br>salad
-bip_39_word_new_br_5: circle<br>around<br>cake<br>salad<br>grace
-bip_39_word_new_br_6: circle<br>around<br>cake<br>salad<br>grace<br>orient
-bip_39_word_new_br_7: circle<br>around<br>cake<br>salad<br>grace<br>orient<br>baby
-bip_39_word_new_br_8: circle<br>around<br>cake<br>salad<br>grace<br>orient<br>baby<br>obscure
-bip_39_word_new_br_9: circle<br>around<br>cake<br>salad<br>grace<br>orient<br>baby<br>obscure<br>ocean
-bip_39_word_new_line_1: circle
-bip_39_word_new_line_10: 'circle
-
-  around
-
-  cake
-
-  salad
-
-  grace
-
-  orient
-
-  baby
-
-  obscure
-
-  ocean
-
-  nerve'
-bip_39_word_new_line_11: 'circle
-
-  around
-
-  cake
-
-  salad
-
-  grace
-
-  orient
-
-  baby
-
-  obscure
-
-  ocean
-
-  nerve
-
-  salon'
 bip_39_word_new_line_12: 'circle
 
   around
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'circle
   around
 
   cake'
-bip_39_word_new_line_4: 'circle
-
-  around
-
-  cake
-
-  salad'
-bip_39_word_new_line_5: 'circle
-
-  around
-
-  cake
-
-  salad
-
-  grace'
-bip_39_word_new_line_6: 'circle
-
-  around
-
-  cake
-
-  salad
-
-  grace
-
-  orient'
-bip_39_word_new_line_7: 'circle
-
-  around
-
-  cake
-
-  salad
-
-  grace
-
-  orient
-
-  baby'
-bip_39_word_new_line_8: 'circle
-
-  around
-
-  cake
-
-  salad
-
-  grace
-
-  orient
-
-  baby
-
-  obscure'
-bip_39_word_new_line_9: 'circle
-
-  around
-
-  cake
-
-  salad
-
-  grace
-
-  orient
-
-  baby
-
-  obscure
-
-  ocean'
-bip_39_word_no_space_1: circle
-bip_39_word_no_space_10: circlearoundcakesaladgraceorientbabyobscureoceannerve
-bip_39_word_no_space_11: circlearoundcakesaladgraceorientbabyobscureoceannervesalon
 bip_39_word_no_space_12: circlearoundcakesaladgraceorientbabyobscureoceannervesalonapril
 bip_39_word_no_space_2: circlearound
 bip_39_word_no_space_3: circlearoundcake
-bip_39_word_no_space_4: circlearoundcakesalad
-bip_39_word_no_space_5: circlearoundcakesaladgrace
-bip_39_word_no_space_6: circlearoundcakesaladgraceorient
-bip_39_word_no_space_7: circlearoundcakesaladgraceorientbaby
-bip_39_word_no_space_8: circlearoundcakesaladgraceorientbabyobscure
-bip_39_word_no_space_9: circlearoundcakesaladgraceorientbabyobscureocean
-bip_39_word_space_0:
-- circle
-- around
-- cake
-- salad
-- grace
-- orient
-- baby
-- obscure
-- ocean
-- nerve
-- salon
-- april
-bip_39_word_space_1: circle
-bip_39_word_space_10: circle around cake salad grace orient baby obscure ocean nerve
-bip_39_word_space_11: circle around cake salad grace orient baby obscure ocean nerve
-  salon
 bip_39_word_space_12: circle around cake salad grace orient baby obscure ocean nerve
   salon april
 bip_39_word_space_2: circle around
 bip_39_word_space_3: circle around cake
-bip_39_word_space_4: circle around cake salad
-bip_39_word_space_5: circle around cake salad grace
-bip_39_word_space_6: circle around cake salad grace orient
-bip_39_word_space_7: circle around cake salad grace orient baby
-bip_39_word_space_8: circle around cake salad grace orient baby obscure
-bip_39_word_space_9: circle around cake salad grace orient baby obscure ocean
-bip_39_word_underscore_1: circle
-bip_39_word_underscore_10: circle_around_cake_salad_grace_orient_baby_obscure_ocean_nerve
-bip_39_word_underscore_11: circle_around_cake_salad_grace_orient_baby_obscure_ocean_nerve_salon
 bip_39_word_underscore_12: circle_around_cake_salad_grace_orient_baby_obscure_ocean_nerve_salon_april
 bip_39_word_underscore_2: circle_around
 bip_39_word_underscore_3: circle_around_cake
-bip_39_word_underscore_4: circle_around_cake_salad
-bip_39_word_underscore_5: circle_around_cake_salad_grace
-bip_39_word_underscore_6: circle_around_cake_salad_grace_orient
-bip_39_word_underscore_7: circle_around_cake_salad_grace_orient_baby
-bip_39_word_underscore_8: circle_around_cake_salad_grace_orient_baby_obscure
-bip_39_word_underscore_9: circle_around_cake_salad_grace_orient_baby_obscure_ocean
 classification: category
 classification_capital: Category
 classification_first_letter: c

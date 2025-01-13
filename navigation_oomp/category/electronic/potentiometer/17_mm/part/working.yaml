@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mountain
-bip_39_word_dash_10: mountain-potato-calm-myself-build-wage-cage-light-since-soft
-bip_39_word_dash_11: mountain-potato-calm-myself-build-wage-cage-light-since-soft-wrap
 bip_39_word_dash_12: mountain-potato-calm-myself-build-wage-cage-light-since-soft-wrap-acquire
 bip_39_word_dash_2: mountain-potato
 bip_39_word_dash_3: mountain-potato-calm
-bip_39_word_dash_4: mountain-potato-calm-myself
-bip_39_word_dash_5: mountain-potato-calm-myself-build
-bip_39_word_dash_6: mountain-potato-calm-myself-build-wage
-bip_39_word_dash_7: mountain-potato-calm-myself-build-wage-cage
-bip_39_word_dash_8: mountain-potato-calm-myself-build-wage-cage-light
-bip_39_word_dash_9: mountain-potato-calm-myself-build-wage-cage-light-since
-bip_39_word_new_br_1: mountain
-bip_39_word_new_br_10: mountain<br>potato<br>calm<br>myself<br>build<br>wage<br>cage<br>light<br>since<br>soft
-bip_39_word_new_br_11: mountain<br>potato<br>calm<br>myself<br>build<br>wage<br>cage<br>light<br>since<br>soft<br>wrap
 bip_39_word_new_br_12: mountain<br>potato<br>calm<br>myself<br>build<br>wage<br>cage<br>light<br>since<br>soft<br>wrap<br>acquire
 bip_39_word_new_br_2: mountain<br>potato
 bip_39_word_new_br_3: mountain<br>potato<br>calm
-bip_39_word_new_br_4: mountain<br>potato<br>calm<br>myself
-bip_39_word_new_br_5: mountain<br>potato<br>calm<br>myself<br>build
-bip_39_word_new_br_6: mountain<br>potato<br>calm<br>myself<br>build<br>wage
-bip_39_word_new_br_7: mountain<br>potato<br>calm<br>myself<br>build<br>wage<br>cage
-bip_39_word_new_br_8: mountain<br>potato<br>calm<br>myself<br>build<br>wage<br>cage<br>light
-bip_39_word_new_br_9: mountain<br>potato<br>calm<br>myself<br>build<br>wage<br>cage<br>light<br>since
-bip_39_word_new_line_1: mountain
-bip_39_word_new_line_10: 'mountain
-
-  potato
-
-  calm
-
-  myself
-
-  build
-
-  wage
-
-  cage
-
-  light
-
-  since
-
-  soft'
-bip_39_word_new_line_11: 'mountain
-
-  potato
-
-  calm
-
-  myself
-
-  build
-
-  wage
-
-  cage
-
-  light
-
-  since
-
-  soft
-
-  wrap'
 bip_39_word_new_line_12: 'mountain
 
   potato
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mountain
   potato
 
   calm'
-bip_39_word_new_line_4: 'mountain
-
-  potato
-
-  calm
-
-  myself'
-bip_39_word_new_line_5: 'mountain
-
-  potato
-
-  calm
-
-  myself
-
-  build'
-bip_39_word_new_line_6: 'mountain
-
-  potato
-
-  calm
-
-  myself
-
-  build
-
-  wage'
-bip_39_word_new_line_7: 'mountain
-
-  potato
-
-  calm
-
-  myself
-
-  build
-
-  wage
-
-  cage'
-bip_39_word_new_line_8: 'mountain
-
-  potato
-
-  calm
-
-  myself
-
-  build
-
-  wage
-
-  cage
-
-  light'
-bip_39_word_new_line_9: 'mountain
-
-  potato
-
-  calm
-
-  myself
-
-  build
-
-  wage
-
-  cage
-
-  light
-
-  since'
-bip_39_word_no_space_1: mountain
-bip_39_word_no_space_10: mountainpotatocalmmyselfbuildwagecagelightsincesoft
-bip_39_word_no_space_11: mountainpotatocalmmyselfbuildwagecagelightsincesoftwrap
 bip_39_word_no_space_12: mountainpotatocalmmyselfbuildwagecagelightsincesoftwrapacquire
 bip_39_word_no_space_2: mountainpotato
 bip_39_word_no_space_3: mountainpotatocalm
-bip_39_word_no_space_4: mountainpotatocalmmyself
-bip_39_word_no_space_5: mountainpotatocalmmyselfbuild
-bip_39_word_no_space_6: mountainpotatocalmmyselfbuildwage
-bip_39_word_no_space_7: mountainpotatocalmmyselfbuildwagecage
-bip_39_word_no_space_8: mountainpotatocalmmyselfbuildwagecagelight
-bip_39_word_no_space_9: mountainpotatocalmmyselfbuildwagecagelightsince
-bip_39_word_space_0:
-- mountain
-- potato
-- calm
-- myself
-- build
-- wage
-- cage
-- light
-- since
-- soft
-- wrap
-- acquire
-bip_39_word_space_1: mountain
-bip_39_word_space_10: mountain potato calm myself build wage cage light since soft
-bip_39_word_space_11: mountain potato calm myself build wage cage light since soft
-  wrap
 bip_39_word_space_12: mountain potato calm myself build wage cage light since soft
   wrap acquire
 bip_39_word_space_2: mountain potato
 bip_39_word_space_3: mountain potato calm
-bip_39_word_space_4: mountain potato calm myself
-bip_39_word_space_5: mountain potato calm myself build
-bip_39_word_space_6: mountain potato calm myself build wage
-bip_39_word_space_7: mountain potato calm myself build wage cage
-bip_39_word_space_8: mountain potato calm myself build wage cage light
-bip_39_word_space_9: mountain potato calm myself build wage cage light since
-bip_39_word_underscore_1: mountain
-bip_39_word_underscore_10: mountain_potato_calm_myself_build_wage_cage_light_since_soft
-bip_39_word_underscore_11: mountain_potato_calm_myself_build_wage_cage_light_since_soft_wrap
 bip_39_word_underscore_12: mountain_potato_calm_myself_build_wage_cage_light_since_soft_wrap_acquire
 bip_39_word_underscore_2: mountain_potato
 bip_39_word_underscore_3: mountain_potato_calm
-bip_39_word_underscore_4: mountain_potato_calm_myself
-bip_39_word_underscore_5: mountain_potato_calm_myself_build
-bip_39_word_underscore_6: mountain_potato_calm_myself_build_wage
-bip_39_word_underscore_7: mountain_potato_calm_myself_build_wage_cage
-bip_39_word_underscore_8: mountain_potato_calm_myself_build_wage_cage_light
-bip_39_word_underscore_9: mountain_potato_calm_myself_build_wage_cage_light_since
 classification: category
 classification_capital: Category
 classification_first_letter: c

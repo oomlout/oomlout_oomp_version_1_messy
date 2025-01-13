@@ -1,68 +1,9 @@
-bip_39_word_dash_1: length
-bip_39_word_dash_10: length-affair-eagle-sting-shoulder-hammer-lake-doctor-boost-appear
-bip_39_word_dash_11: length-affair-eagle-sting-shoulder-hammer-lake-doctor-boost-appear-twenty
 bip_39_word_dash_12: length-affair-eagle-sting-shoulder-hammer-lake-doctor-boost-appear-twenty-arctic
 bip_39_word_dash_2: length-affair
 bip_39_word_dash_3: length-affair-eagle
-bip_39_word_dash_4: length-affair-eagle-sting
-bip_39_word_dash_5: length-affair-eagle-sting-shoulder
-bip_39_word_dash_6: length-affair-eagle-sting-shoulder-hammer
-bip_39_word_dash_7: length-affair-eagle-sting-shoulder-hammer-lake
-bip_39_word_dash_8: length-affair-eagle-sting-shoulder-hammer-lake-doctor
-bip_39_word_dash_9: length-affair-eagle-sting-shoulder-hammer-lake-doctor-boost
-bip_39_word_new_br_1: length
-bip_39_word_new_br_10: length<br>affair<br>eagle<br>sting<br>shoulder<br>hammer<br>lake<br>doctor<br>boost<br>appear
-bip_39_word_new_br_11: length<br>affair<br>eagle<br>sting<br>shoulder<br>hammer<br>lake<br>doctor<br>boost<br>appear<br>twenty
 bip_39_word_new_br_12: length<br>affair<br>eagle<br>sting<br>shoulder<br>hammer<br>lake<br>doctor<br>boost<br>appear<br>twenty<br>arctic
 bip_39_word_new_br_2: length<br>affair
 bip_39_word_new_br_3: length<br>affair<br>eagle
-bip_39_word_new_br_4: length<br>affair<br>eagle<br>sting
-bip_39_word_new_br_5: length<br>affair<br>eagle<br>sting<br>shoulder
-bip_39_word_new_br_6: length<br>affair<br>eagle<br>sting<br>shoulder<br>hammer
-bip_39_word_new_br_7: length<br>affair<br>eagle<br>sting<br>shoulder<br>hammer<br>lake
-bip_39_word_new_br_8: length<br>affair<br>eagle<br>sting<br>shoulder<br>hammer<br>lake<br>doctor
-bip_39_word_new_br_9: length<br>affair<br>eagle<br>sting<br>shoulder<br>hammer<br>lake<br>doctor<br>boost
-bip_39_word_new_line_1: length
-bip_39_word_new_line_10: 'length
-
-  affair
-
-  eagle
-
-  sting
-
-  shoulder
-
-  hammer
-
-  lake
-
-  doctor
-
-  boost
-
-  appear'
-bip_39_word_new_line_11: 'length
-
-  affair
-
-  eagle
-
-  sting
-
-  shoulder
-
-  hammer
-
-  lake
-
-  doctor
-
-  boost
-
-  appear
-
-  twenty'
 bip_39_word_new_line_12: 'length
 
   affair
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'length
   affair
 
   eagle'
-bip_39_word_new_line_4: 'length
-
-  affair
-
-  eagle
-
-  sting'
-bip_39_word_new_line_5: 'length
-
-  affair
-
-  eagle
-
-  sting
-
-  shoulder'
-bip_39_word_new_line_6: 'length
-
-  affair
-
-  eagle
-
-  sting
-
-  shoulder
-
-  hammer'
-bip_39_word_new_line_7: 'length
-
-  affair
-
-  eagle
-
-  sting
-
-  shoulder
-
-  hammer
-
-  lake'
-bip_39_word_new_line_8: 'length
-
-  affair
-
-  eagle
-
-  sting
-
-  shoulder
-
-  hammer
-
-  lake
-
-  doctor'
-bip_39_word_new_line_9: 'length
-
-  affair
-
-  eagle
-
-  sting
-
-  shoulder
-
-  hammer
-
-  lake
-
-  doctor
-
-  boost'
-bip_39_word_no_space_1: length
-bip_39_word_no_space_10: lengthaffaireaglestingshoulderhammerlakedoctorboostappear
-bip_39_word_no_space_11: lengthaffaireaglestingshoulderhammerlakedoctorboostappeartwenty
 bip_39_word_no_space_12: lengthaffaireaglestingshoulderhammerlakedoctorboostappeartwentyarctic
 bip_39_word_no_space_2: lengthaffair
 bip_39_word_no_space_3: lengthaffaireagle
-bip_39_word_no_space_4: lengthaffaireaglesting
-bip_39_word_no_space_5: lengthaffaireaglestingshoulder
-bip_39_word_no_space_6: lengthaffaireaglestingshoulderhammer
-bip_39_word_no_space_7: lengthaffaireaglestingshoulderhammerlake
-bip_39_word_no_space_8: lengthaffaireaglestingshoulderhammerlakedoctor
-bip_39_word_no_space_9: lengthaffaireaglestingshoulderhammerlakedoctorboost
-bip_39_word_space_0:
-- length
-- affair
-- eagle
-- sting
-- shoulder
-- hammer
-- lake
-- doctor
-- boost
-- appear
-- twenty
-- arctic
-bip_39_word_space_1: length
-bip_39_word_space_10: length affair eagle sting shoulder hammer lake doctor boost
-  appear
-bip_39_word_space_11: length affair eagle sting shoulder hammer lake doctor boost
-  appear twenty
 bip_39_word_space_12: length affair eagle sting shoulder hammer lake doctor boost
   appear twenty arctic
 bip_39_word_space_2: length affair
 bip_39_word_space_3: length affair eagle
-bip_39_word_space_4: length affair eagle sting
-bip_39_word_space_5: length affair eagle sting shoulder
-bip_39_word_space_6: length affair eagle sting shoulder hammer
-bip_39_word_space_7: length affair eagle sting shoulder hammer lake
-bip_39_word_space_8: length affair eagle sting shoulder hammer lake doctor
-bip_39_word_space_9: length affair eagle sting shoulder hammer lake doctor boost
-bip_39_word_underscore_1: length
-bip_39_word_underscore_10: length_affair_eagle_sting_shoulder_hammer_lake_doctor_boost_appear
-bip_39_word_underscore_11: length_affair_eagle_sting_shoulder_hammer_lake_doctor_boost_appear_twenty
 bip_39_word_underscore_12: length_affair_eagle_sting_shoulder_hammer_lake_doctor_boost_appear_twenty_arctic
 bip_39_word_underscore_2: length_affair
 bip_39_word_underscore_3: length_affair_eagle
-bip_39_word_underscore_4: length_affair_eagle_sting
-bip_39_word_underscore_5: length_affair_eagle_sting_shoulder
-bip_39_word_underscore_6: length_affair_eagle_sting_shoulder_hammer
-bip_39_word_underscore_7: length_affair_eagle_sting_shoulder_hammer_lake
-bip_39_word_underscore_8: length_affair_eagle_sting_shoulder_hammer_lake_doctor
-bip_39_word_underscore_9: length_affair_eagle_sting_shoulder_hammer_lake_doctor_boost
 classification: project
 classification_capital: Project
 classification_first_letter: p

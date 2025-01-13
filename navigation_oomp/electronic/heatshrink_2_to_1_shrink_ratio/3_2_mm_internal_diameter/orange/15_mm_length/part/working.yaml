@@ -1,68 +1,9 @@
-bip_39_word_dash_1: monitor
-bip_39_word_dash_10: monitor-parade-buzz-wide-enrich-silk-jar-milk-kitten-almost
-bip_39_word_dash_11: monitor-parade-buzz-wide-enrich-silk-jar-milk-kitten-almost-crisp
 bip_39_word_dash_12: monitor-parade-buzz-wide-enrich-silk-jar-milk-kitten-almost-crisp-avocado
 bip_39_word_dash_2: monitor-parade
 bip_39_word_dash_3: monitor-parade-buzz
-bip_39_word_dash_4: monitor-parade-buzz-wide
-bip_39_word_dash_5: monitor-parade-buzz-wide-enrich
-bip_39_word_dash_6: monitor-parade-buzz-wide-enrich-silk
-bip_39_word_dash_7: monitor-parade-buzz-wide-enrich-silk-jar
-bip_39_word_dash_8: monitor-parade-buzz-wide-enrich-silk-jar-milk
-bip_39_word_dash_9: monitor-parade-buzz-wide-enrich-silk-jar-milk-kitten
-bip_39_word_new_br_1: monitor
-bip_39_word_new_br_10: monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk<br>kitten<br>almost
-bip_39_word_new_br_11: monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk<br>kitten<br>almost<br>crisp
 bip_39_word_new_br_12: monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk<br>kitten<br>almost<br>crisp<br>avocado
 bip_39_word_new_br_2: monitor<br>parade
 bip_39_word_new_br_3: monitor<br>parade<br>buzz
-bip_39_word_new_br_4: monitor<br>parade<br>buzz<br>wide
-bip_39_word_new_br_5: monitor<br>parade<br>buzz<br>wide<br>enrich
-bip_39_word_new_br_6: monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk
-bip_39_word_new_br_7: monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar
-bip_39_word_new_br_8: monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk
-bip_39_word_new_br_9: monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk<br>kitten
-bip_39_word_new_line_1: monitor
-bip_39_word_new_line_10: 'monitor
-
-  parade
-
-  buzz
-
-  wide
-
-  enrich
-
-  silk
-
-  jar
-
-  milk
-
-  kitten
-
-  almost'
-bip_39_word_new_line_11: 'monitor
-
-  parade
-
-  buzz
-
-  wide
-
-  enrich
-
-  silk
-
-  jar
-
-  milk
-
-  kitten
-
-  almost
-
-  crisp'
 bip_39_word_new_line_12: 'monitor
 
   parade
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'monitor
   parade
 
   buzz'
-bip_39_word_new_line_4: 'monitor
-
-  parade
-
-  buzz
-
-  wide'
-bip_39_word_new_line_5: 'monitor
-
-  parade
-
-  buzz
-
-  wide
-
-  enrich'
-bip_39_word_new_line_6: 'monitor
-
-  parade
-
-  buzz
-
-  wide
-
-  enrich
-
-  silk'
-bip_39_word_new_line_7: 'monitor
-
-  parade
-
-  buzz
-
-  wide
-
-  enrich
-
-  silk
-
-  jar'
-bip_39_word_new_line_8: 'monitor
-
-  parade
-
-  buzz
-
-  wide
-
-  enrich
-
-  silk
-
-  jar
-
-  milk'
-bip_39_word_new_line_9: 'monitor
-
-  parade
-
-  buzz
-
-  wide
-
-  enrich
-
-  silk
-
-  jar
-
-  milk
-
-  kitten'
-bip_39_word_no_space_1: monitor
-bip_39_word_no_space_10: monitorparadebuzzwideenrichsilkjarmilkkittenalmost
-bip_39_word_no_space_11: monitorparadebuzzwideenrichsilkjarmilkkittenalmostcrisp
 bip_39_word_no_space_12: monitorparadebuzzwideenrichsilkjarmilkkittenalmostcrispavocado
 bip_39_word_no_space_2: monitorparade
 bip_39_word_no_space_3: monitorparadebuzz
-bip_39_word_no_space_4: monitorparadebuzzwide
-bip_39_word_no_space_5: monitorparadebuzzwideenrich
-bip_39_word_no_space_6: monitorparadebuzzwideenrichsilk
-bip_39_word_no_space_7: monitorparadebuzzwideenrichsilkjar
-bip_39_word_no_space_8: monitorparadebuzzwideenrichsilkjarmilk
-bip_39_word_no_space_9: monitorparadebuzzwideenrichsilkjarmilkkitten
-bip_39_word_space_0:
-- monitor
-- parade
-- buzz
-- wide
-- enrich
-- silk
-- jar
-- milk
-- kitten
-- almost
-- crisp
-- avocado
-bip_39_word_space_1: monitor
-bip_39_word_space_10: monitor parade buzz wide enrich silk jar milk kitten almost
-bip_39_word_space_11: monitor parade buzz wide enrich silk jar milk kitten almost
-  crisp
 bip_39_word_space_12: monitor parade buzz wide enrich silk jar milk kitten almost
   crisp avocado
 bip_39_word_space_2: monitor parade
 bip_39_word_space_3: monitor parade buzz
-bip_39_word_space_4: monitor parade buzz wide
-bip_39_word_space_5: monitor parade buzz wide enrich
-bip_39_word_space_6: monitor parade buzz wide enrich silk
-bip_39_word_space_7: monitor parade buzz wide enrich silk jar
-bip_39_word_space_8: monitor parade buzz wide enrich silk jar milk
-bip_39_word_space_9: monitor parade buzz wide enrich silk jar milk kitten
-bip_39_word_underscore_1: monitor
-bip_39_word_underscore_10: monitor_parade_buzz_wide_enrich_silk_jar_milk_kitten_almost
-bip_39_word_underscore_11: monitor_parade_buzz_wide_enrich_silk_jar_milk_kitten_almost_crisp
 bip_39_word_underscore_12: monitor_parade_buzz_wide_enrich_silk_jar_milk_kitten_almost_crisp_avocado
 bip_39_word_underscore_2: monitor_parade
 bip_39_word_underscore_3: monitor_parade_buzz
-bip_39_word_underscore_4: monitor_parade_buzz_wide
-bip_39_word_underscore_5: monitor_parade_buzz_wide_enrich
-bip_39_word_underscore_6: monitor_parade_buzz_wide_enrich_silk
-bip_39_word_underscore_7: monitor_parade_buzz_wide_enrich_silk_jar
-bip_39_word_underscore_8: monitor_parade_buzz_wide_enrich_silk_jar_milk
-bip_39_word_underscore_9: monitor_parade_buzz_wide_enrich_silk_jar_milk_kitten
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

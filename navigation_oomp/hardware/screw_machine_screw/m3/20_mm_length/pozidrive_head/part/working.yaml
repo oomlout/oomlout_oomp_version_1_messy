@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dress
-bip_39_word_dash_10: dress-lend-dose-risk-castle-luggage-miss-special-drama-health
-bip_39_word_dash_11: dress-lend-dose-risk-castle-luggage-miss-special-drama-health-gospel
 bip_39_word_dash_12: dress-lend-dose-risk-castle-luggage-miss-special-drama-health-gospel-again
 bip_39_word_dash_2: dress-lend
 bip_39_word_dash_3: dress-lend-dose
-bip_39_word_dash_4: dress-lend-dose-risk
-bip_39_word_dash_5: dress-lend-dose-risk-castle
-bip_39_word_dash_6: dress-lend-dose-risk-castle-luggage
-bip_39_word_dash_7: dress-lend-dose-risk-castle-luggage-miss
-bip_39_word_dash_8: dress-lend-dose-risk-castle-luggage-miss-special
-bip_39_word_dash_9: dress-lend-dose-risk-castle-luggage-miss-special-drama
-bip_39_word_new_br_1: dress
-bip_39_word_new_br_10: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama<br>health
-bip_39_word_new_br_11: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama<br>health<br>gospel
 bip_39_word_new_br_12: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama<br>health<br>gospel<br>again
 bip_39_word_new_br_2: dress<br>lend
 bip_39_word_new_br_3: dress<br>lend<br>dose
-bip_39_word_new_br_4: dress<br>lend<br>dose<br>risk
-bip_39_word_new_br_5: dress<br>lend<br>dose<br>risk<br>castle
-bip_39_word_new_br_6: dress<br>lend<br>dose<br>risk<br>castle<br>luggage
-bip_39_word_new_br_7: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss
-bip_39_word_new_br_8: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special
-bip_39_word_new_br_9: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama
-bip_39_word_new_line_1: dress
-bip_39_word_new_line_10: 'dress
-
-  lend
-
-  dose
-
-  risk
-
-  castle
-
-  luggage
-
-  miss
-
-  special
-
-  drama
-
-  health'
-bip_39_word_new_line_11: 'dress
-
-  lend
-
-  dose
-
-  risk
-
-  castle
-
-  luggage
-
-  miss
-
-  special
-
-  drama
-
-  health
-
-  gospel'
 bip_39_word_new_line_12: 'dress
 
   lend
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dress
   lend
 
   dose'
-bip_39_word_new_line_4: 'dress
-
-  lend
-
-  dose
-
-  risk'
-bip_39_word_new_line_5: 'dress
-
-  lend
-
-  dose
-
-  risk
-
-  castle'
-bip_39_word_new_line_6: 'dress
-
-  lend
-
-  dose
-
-  risk
-
-  castle
-
-  luggage'
-bip_39_word_new_line_7: 'dress
-
-  lend
-
-  dose
-
-  risk
-
-  castle
-
-  luggage
-
-  miss'
-bip_39_word_new_line_8: 'dress
-
-  lend
-
-  dose
-
-  risk
-
-  castle
-
-  luggage
-
-  miss
-
-  special'
-bip_39_word_new_line_9: 'dress
-
-  lend
-
-  dose
-
-  risk
-
-  castle
-
-  luggage
-
-  miss
-
-  special
-
-  drama'
-bip_39_word_no_space_1: dress
-bip_39_word_no_space_10: dresslenddoseriskcastleluggagemissspecialdramahealth
-bip_39_word_no_space_11: dresslenddoseriskcastleluggagemissspecialdramahealthgospel
 bip_39_word_no_space_12: dresslenddoseriskcastleluggagemissspecialdramahealthgospelagain
 bip_39_word_no_space_2: dresslend
 bip_39_word_no_space_3: dresslenddose
-bip_39_word_no_space_4: dresslenddoserisk
-bip_39_word_no_space_5: dresslenddoseriskcastle
-bip_39_word_no_space_6: dresslenddoseriskcastleluggage
-bip_39_word_no_space_7: dresslenddoseriskcastleluggagemiss
-bip_39_word_no_space_8: dresslenddoseriskcastleluggagemissspecial
-bip_39_word_no_space_9: dresslenddoseriskcastleluggagemissspecialdrama
-bip_39_word_space_0:
-- dress
-- lend
-- dose
-- risk
-- castle
-- luggage
-- miss
-- special
-- drama
-- health
-- gospel
-- again
-bip_39_word_space_1: dress
-bip_39_word_space_10: dress lend dose risk castle luggage miss special drama health
-bip_39_word_space_11: dress lend dose risk castle luggage miss special drama health
-  gospel
 bip_39_word_space_12: dress lend dose risk castle luggage miss special drama health
   gospel again
 bip_39_word_space_2: dress lend
 bip_39_word_space_3: dress lend dose
-bip_39_word_space_4: dress lend dose risk
-bip_39_word_space_5: dress lend dose risk castle
-bip_39_word_space_6: dress lend dose risk castle luggage
-bip_39_word_space_7: dress lend dose risk castle luggage miss
-bip_39_word_space_8: dress lend dose risk castle luggage miss special
-bip_39_word_space_9: dress lend dose risk castle luggage miss special drama
-bip_39_word_underscore_1: dress
-bip_39_word_underscore_10: dress_lend_dose_risk_castle_luggage_miss_special_drama_health
-bip_39_word_underscore_11: dress_lend_dose_risk_castle_luggage_miss_special_drama_health_gospel
 bip_39_word_underscore_12: dress_lend_dose_risk_castle_luggage_miss_special_drama_health_gospel_again
 bip_39_word_underscore_2: dress_lend
 bip_39_word_underscore_3: dress_lend_dose
-bip_39_word_underscore_4: dress_lend_dose_risk
-bip_39_word_underscore_5: dress_lend_dose_risk_castle
-bip_39_word_underscore_6: dress_lend_dose_risk_castle_luggage
-bip_39_word_underscore_7: dress_lend_dose_risk_castle_luggage_miss
-bip_39_word_underscore_8: dress_lend_dose_risk_castle_luggage_miss_special
-bip_39_word_underscore_9: dress_lend_dose_risk_castle_luggage_miss_special_drama
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

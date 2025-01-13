@@ -1,68 +1,9 @@
-bip_39_word_dash_1: art
-bip_39_word_dash_10: art-base-child-term-fancy-reflect-stumble-swarm-dismiss-furnace
-bip_39_word_dash_11: art-base-child-term-fancy-reflect-stumble-swarm-dismiss-furnace-upper
 bip_39_word_dash_12: art-base-child-term-fancy-reflect-stumble-swarm-dismiss-furnace-upper-answer
 bip_39_word_dash_2: art-base
 bip_39_word_dash_3: art-base-child
-bip_39_word_dash_4: art-base-child-term
-bip_39_word_dash_5: art-base-child-term-fancy
-bip_39_word_dash_6: art-base-child-term-fancy-reflect
-bip_39_word_dash_7: art-base-child-term-fancy-reflect-stumble
-bip_39_word_dash_8: art-base-child-term-fancy-reflect-stumble-swarm
-bip_39_word_dash_9: art-base-child-term-fancy-reflect-stumble-swarm-dismiss
-bip_39_word_new_br_1: art
-bip_39_word_new_br_10: art<br>base<br>child<br>term<br>fancy<br>reflect<br>stumble<br>swarm<br>dismiss<br>furnace
-bip_39_word_new_br_11: art<br>base<br>child<br>term<br>fancy<br>reflect<br>stumble<br>swarm<br>dismiss<br>furnace<br>upper
 bip_39_word_new_br_12: art<br>base<br>child<br>term<br>fancy<br>reflect<br>stumble<br>swarm<br>dismiss<br>furnace<br>upper<br>answer
 bip_39_word_new_br_2: art<br>base
 bip_39_word_new_br_3: art<br>base<br>child
-bip_39_word_new_br_4: art<br>base<br>child<br>term
-bip_39_word_new_br_5: art<br>base<br>child<br>term<br>fancy
-bip_39_word_new_br_6: art<br>base<br>child<br>term<br>fancy<br>reflect
-bip_39_word_new_br_7: art<br>base<br>child<br>term<br>fancy<br>reflect<br>stumble
-bip_39_word_new_br_8: art<br>base<br>child<br>term<br>fancy<br>reflect<br>stumble<br>swarm
-bip_39_word_new_br_9: art<br>base<br>child<br>term<br>fancy<br>reflect<br>stumble<br>swarm<br>dismiss
-bip_39_word_new_line_1: art
-bip_39_word_new_line_10: 'art
-
-  base
-
-  child
-
-  term
-
-  fancy
-
-  reflect
-
-  stumble
-
-  swarm
-
-  dismiss
-
-  furnace'
-bip_39_word_new_line_11: 'art
-
-  base
-
-  child
-
-  term
-
-  fancy
-
-  reflect
-
-  stumble
-
-  swarm
-
-  dismiss
-
-  furnace
-
-  upper'
 bip_39_word_new_line_12: 'art
 
   base
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'art
   base
 
   child'
-bip_39_word_new_line_4: 'art
-
-  base
-
-  child
-
-  term'
-bip_39_word_new_line_5: 'art
-
-  base
-
-  child
-
-  term
-
-  fancy'
-bip_39_word_new_line_6: 'art
-
-  base
-
-  child
-
-  term
-
-  fancy
-
-  reflect'
-bip_39_word_new_line_7: 'art
-
-  base
-
-  child
-
-  term
-
-  fancy
-
-  reflect
-
-  stumble'
-bip_39_word_new_line_8: 'art
-
-  base
-
-  child
-
-  term
-
-  fancy
-
-  reflect
-
-  stumble
-
-  swarm'
-bip_39_word_new_line_9: 'art
-
-  base
-
-  child
-
-  term
-
-  fancy
-
-  reflect
-
-  stumble
-
-  swarm
-
-  dismiss'
-bip_39_word_no_space_1: art
-bip_39_word_no_space_10: artbasechildtermfancyreflectstumbleswarmdismissfurnace
-bip_39_word_no_space_11: artbasechildtermfancyreflectstumbleswarmdismissfurnaceupper
 bip_39_word_no_space_12: artbasechildtermfancyreflectstumbleswarmdismissfurnaceupperanswer
 bip_39_word_no_space_2: artbase
 bip_39_word_no_space_3: artbasechild
-bip_39_word_no_space_4: artbasechildterm
-bip_39_word_no_space_5: artbasechildtermfancy
-bip_39_word_no_space_6: artbasechildtermfancyreflect
-bip_39_word_no_space_7: artbasechildtermfancyreflectstumble
-bip_39_word_no_space_8: artbasechildtermfancyreflectstumbleswarm
-bip_39_word_no_space_9: artbasechildtermfancyreflectstumbleswarmdismiss
-bip_39_word_space_0:
-- art
-- base
-- child
-- term
-- fancy
-- reflect
-- stumble
-- swarm
-- dismiss
-- furnace
-- upper
-- answer
-bip_39_word_space_1: art
-bip_39_word_space_10: art base child term fancy reflect stumble swarm dismiss furnace
-bip_39_word_space_11: art base child term fancy reflect stumble swarm dismiss furnace
-  upper
 bip_39_word_space_12: art base child term fancy reflect stumble swarm dismiss furnace
   upper answer
 bip_39_word_space_2: art base
 bip_39_word_space_3: art base child
-bip_39_word_space_4: art base child term
-bip_39_word_space_5: art base child term fancy
-bip_39_word_space_6: art base child term fancy reflect
-bip_39_word_space_7: art base child term fancy reflect stumble
-bip_39_word_space_8: art base child term fancy reflect stumble swarm
-bip_39_word_space_9: art base child term fancy reflect stumble swarm dismiss
-bip_39_word_underscore_1: art
-bip_39_word_underscore_10: art_base_child_term_fancy_reflect_stumble_swarm_dismiss_furnace
-bip_39_word_underscore_11: art_base_child_term_fancy_reflect_stumble_swarm_dismiss_furnace_upper
 bip_39_word_underscore_12: art_base_child_term_fancy_reflect_stumble_swarm_dismiss_furnace_upper_answer
 bip_39_word_underscore_2: art_base
 bip_39_word_underscore_3: art_base_child
-bip_39_word_underscore_4: art_base_child_term
-bip_39_word_underscore_5: art_base_child_term_fancy
-bip_39_word_underscore_6: art_base_child_term_fancy_reflect
-bip_39_word_underscore_7: art_base_child_term_fancy_reflect_stumble
-bip_39_word_underscore_8: art_base_child_term_fancy_reflect_stumble_swarm
-bip_39_word_underscore_9: art_base_child_term_fancy_reflect_stumble_swarm_dismiss
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

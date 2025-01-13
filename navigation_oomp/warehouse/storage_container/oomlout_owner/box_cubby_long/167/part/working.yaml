@@ -1,68 +1,9 @@
-bip_39_word_dash_1: couch
-bip_39_word_dash_10: couch-sheriff-squirrel-cabin-run-reason-business-point-blue-spatial
-bip_39_word_dash_11: couch-sheriff-squirrel-cabin-run-reason-business-point-blue-spatial-alarm
 bip_39_word_dash_12: couch-sheriff-squirrel-cabin-run-reason-business-point-blue-spatial-alarm-ancient
 bip_39_word_dash_2: couch-sheriff
 bip_39_word_dash_3: couch-sheriff-squirrel
-bip_39_word_dash_4: couch-sheriff-squirrel-cabin
-bip_39_word_dash_5: couch-sheriff-squirrel-cabin-run
-bip_39_word_dash_6: couch-sheriff-squirrel-cabin-run-reason
-bip_39_word_dash_7: couch-sheriff-squirrel-cabin-run-reason-business
-bip_39_word_dash_8: couch-sheriff-squirrel-cabin-run-reason-business-point
-bip_39_word_dash_9: couch-sheriff-squirrel-cabin-run-reason-business-point-blue
-bip_39_word_new_br_1: couch
-bip_39_word_new_br_10: couch<br>sheriff<br>squirrel<br>cabin<br>run<br>reason<br>business<br>point<br>blue<br>spatial
-bip_39_word_new_br_11: couch<br>sheriff<br>squirrel<br>cabin<br>run<br>reason<br>business<br>point<br>blue<br>spatial<br>alarm
 bip_39_word_new_br_12: couch<br>sheriff<br>squirrel<br>cabin<br>run<br>reason<br>business<br>point<br>blue<br>spatial<br>alarm<br>ancient
 bip_39_word_new_br_2: couch<br>sheriff
 bip_39_word_new_br_3: couch<br>sheriff<br>squirrel
-bip_39_word_new_br_4: couch<br>sheriff<br>squirrel<br>cabin
-bip_39_word_new_br_5: couch<br>sheriff<br>squirrel<br>cabin<br>run
-bip_39_word_new_br_6: couch<br>sheriff<br>squirrel<br>cabin<br>run<br>reason
-bip_39_word_new_br_7: couch<br>sheriff<br>squirrel<br>cabin<br>run<br>reason<br>business
-bip_39_word_new_br_8: couch<br>sheriff<br>squirrel<br>cabin<br>run<br>reason<br>business<br>point
-bip_39_word_new_br_9: couch<br>sheriff<br>squirrel<br>cabin<br>run<br>reason<br>business<br>point<br>blue
-bip_39_word_new_line_1: couch
-bip_39_word_new_line_10: 'couch
-
-  sheriff
-
-  squirrel
-
-  cabin
-
-  run
-
-  reason
-
-  business
-
-  point
-
-  blue
-
-  spatial'
-bip_39_word_new_line_11: 'couch
-
-  sheriff
-
-  squirrel
-
-  cabin
-
-  run
-
-  reason
-
-  business
-
-  point
-
-  blue
-
-  spatial
-
-  alarm'
 bip_39_word_new_line_12: 'couch
 
   sheriff
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'couch
   sheriff
 
   squirrel'
-bip_39_word_new_line_4: 'couch
-
-  sheriff
-
-  squirrel
-
-  cabin'
-bip_39_word_new_line_5: 'couch
-
-  sheriff
-
-  squirrel
-
-  cabin
-
-  run'
-bip_39_word_new_line_6: 'couch
-
-  sheriff
-
-  squirrel
-
-  cabin
-
-  run
-
-  reason'
-bip_39_word_new_line_7: 'couch
-
-  sheriff
-
-  squirrel
-
-  cabin
-
-  run
-
-  reason
-
-  business'
-bip_39_word_new_line_8: 'couch
-
-  sheriff
-
-  squirrel
-
-  cabin
-
-  run
-
-  reason
-
-  business
-
-  point'
-bip_39_word_new_line_9: 'couch
-
-  sheriff
-
-  squirrel
-
-  cabin
-
-  run
-
-  reason
-
-  business
-
-  point
-
-  blue'
-bip_39_word_no_space_1: couch
-bip_39_word_no_space_10: couchsheriffsquirrelcabinrunreasonbusinesspointbluespatial
-bip_39_word_no_space_11: couchsheriffsquirrelcabinrunreasonbusinesspointbluespatialalarm
 bip_39_word_no_space_12: couchsheriffsquirrelcabinrunreasonbusinesspointbluespatialalarmancient
 bip_39_word_no_space_2: couchsheriff
 bip_39_word_no_space_3: couchsheriffsquirrel
-bip_39_word_no_space_4: couchsheriffsquirrelcabin
-bip_39_word_no_space_5: couchsheriffsquirrelcabinrun
-bip_39_word_no_space_6: couchsheriffsquirrelcabinrunreason
-bip_39_word_no_space_7: couchsheriffsquirrelcabinrunreasonbusiness
-bip_39_word_no_space_8: couchsheriffsquirrelcabinrunreasonbusinesspoint
-bip_39_word_no_space_9: couchsheriffsquirrelcabinrunreasonbusinesspointblue
-bip_39_word_space_0:
-- couch
-- sheriff
-- squirrel
-- cabin
-- run
-- reason
-- business
-- point
-- blue
-- spatial
-- alarm
-- ancient
-bip_39_word_space_1: couch
-bip_39_word_space_10: couch sheriff squirrel cabin run reason business point blue
-  spatial
-bip_39_word_space_11: couch sheriff squirrel cabin run reason business point blue
-  spatial alarm
 bip_39_word_space_12: couch sheriff squirrel cabin run reason business point blue
   spatial alarm ancient
 bip_39_word_space_2: couch sheriff
 bip_39_word_space_3: couch sheriff squirrel
-bip_39_word_space_4: couch sheriff squirrel cabin
-bip_39_word_space_5: couch sheriff squirrel cabin run
-bip_39_word_space_6: couch sheriff squirrel cabin run reason
-bip_39_word_space_7: couch sheriff squirrel cabin run reason business
-bip_39_word_space_8: couch sheriff squirrel cabin run reason business point
-bip_39_word_space_9: couch sheriff squirrel cabin run reason business point blue
-bip_39_word_underscore_1: couch
-bip_39_word_underscore_10: couch_sheriff_squirrel_cabin_run_reason_business_point_blue_spatial
-bip_39_word_underscore_11: couch_sheriff_squirrel_cabin_run_reason_business_point_blue_spatial_alarm
 bip_39_word_underscore_12: couch_sheriff_squirrel_cabin_run_reason_business_point_blue_spatial_alarm_ancient
 bip_39_word_underscore_2: couch_sheriff
 bip_39_word_underscore_3: couch_sheriff_squirrel
-bip_39_word_underscore_4: couch_sheriff_squirrel_cabin
-bip_39_word_underscore_5: couch_sheriff_squirrel_cabin_run
-bip_39_word_underscore_6: couch_sheriff_squirrel_cabin_run_reason
-bip_39_word_underscore_7: couch_sheriff_squirrel_cabin_run_reason_business
-bip_39_word_underscore_8: couch_sheriff_squirrel_cabin_run_reason_business_point
-bip_39_word_underscore_9: couch_sheriff_squirrel_cabin_run_reason_business_point_blue
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

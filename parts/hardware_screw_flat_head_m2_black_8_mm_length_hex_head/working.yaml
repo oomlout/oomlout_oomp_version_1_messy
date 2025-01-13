@@ -1,68 +1,9 @@
-bip_39_word_dash_1: leg
-bip_39_word_dash_10: leg-rail-whip-squirrel-adapt-opinion-refuse-grain-bulk-also
-bip_39_word_dash_11: leg-rail-whip-squirrel-adapt-opinion-refuse-grain-bulk-also-rotate
 bip_39_word_dash_12: leg-rail-whip-squirrel-adapt-opinion-refuse-grain-bulk-also-rotate-aunt
 bip_39_word_dash_2: leg-rail
 bip_39_word_dash_3: leg-rail-whip
-bip_39_word_dash_4: leg-rail-whip-squirrel
-bip_39_word_dash_5: leg-rail-whip-squirrel-adapt
-bip_39_word_dash_6: leg-rail-whip-squirrel-adapt-opinion
-bip_39_word_dash_7: leg-rail-whip-squirrel-adapt-opinion-refuse
-bip_39_word_dash_8: leg-rail-whip-squirrel-adapt-opinion-refuse-grain
-bip_39_word_dash_9: leg-rail-whip-squirrel-adapt-opinion-refuse-grain-bulk
-bip_39_word_new_br_1: leg
-bip_39_word_new_br_10: leg<br>rail<br>whip<br>squirrel<br>adapt<br>opinion<br>refuse<br>grain<br>bulk<br>also
-bip_39_word_new_br_11: leg<br>rail<br>whip<br>squirrel<br>adapt<br>opinion<br>refuse<br>grain<br>bulk<br>also<br>rotate
 bip_39_word_new_br_12: leg<br>rail<br>whip<br>squirrel<br>adapt<br>opinion<br>refuse<br>grain<br>bulk<br>also<br>rotate<br>aunt
 bip_39_word_new_br_2: leg<br>rail
 bip_39_word_new_br_3: leg<br>rail<br>whip
-bip_39_word_new_br_4: leg<br>rail<br>whip<br>squirrel
-bip_39_word_new_br_5: leg<br>rail<br>whip<br>squirrel<br>adapt
-bip_39_word_new_br_6: leg<br>rail<br>whip<br>squirrel<br>adapt<br>opinion
-bip_39_word_new_br_7: leg<br>rail<br>whip<br>squirrel<br>adapt<br>opinion<br>refuse
-bip_39_word_new_br_8: leg<br>rail<br>whip<br>squirrel<br>adapt<br>opinion<br>refuse<br>grain
-bip_39_word_new_br_9: leg<br>rail<br>whip<br>squirrel<br>adapt<br>opinion<br>refuse<br>grain<br>bulk
-bip_39_word_new_line_1: leg
-bip_39_word_new_line_10: 'leg
-
-  rail
-
-  whip
-
-  squirrel
-
-  adapt
-
-  opinion
-
-  refuse
-
-  grain
-
-  bulk
-
-  also'
-bip_39_word_new_line_11: 'leg
-
-  rail
-
-  whip
-
-  squirrel
-
-  adapt
-
-  opinion
-
-  refuse
-
-  grain
-
-  bulk
-
-  also
-
-  rotate'
 bip_39_word_new_line_12: 'leg
 
   rail
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'leg
   rail
 
   whip'
-bip_39_word_new_line_4: 'leg
-
-  rail
-
-  whip
-
-  squirrel'
-bip_39_word_new_line_5: 'leg
-
-  rail
-
-  whip
-
-  squirrel
-
-  adapt'
-bip_39_word_new_line_6: 'leg
-
-  rail
-
-  whip
-
-  squirrel
-
-  adapt
-
-  opinion'
-bip_39_word_new_line_7: 'leg
-
-  rail
-
-  whip
-
-  squirrel
-
-  adapt
-
-  opinion
-
-  refuse'
-bip_39_word_new_line_8: 'leg
-
-  rail
-
-  whip
-
-  squirrel
-
-  adapt
-
-  opinion
-
-  refuse
-
-  grain'
-bip_39_word_new_line_9: 'leg
-
-  rail
-
-  whip
-
-  squirrel
-
-  adapt
-
-  opinion
-
-  refuse
-
-  grain
-
-  bulk'
-bip_39_word_no_space_1: leg
-bip_39_word_no_space_10: legrailwhipsquirreladaptopinionrefusegrainbulkalso
-bip_39_word_no_space_11: legrailwhipsquirreladaptopinionrefusegrainbulkalsorotate
 bip_39_word_no_space_12: legrailwhipsquirreladaptopinionrefusegrainbulkalsorotateaunt
 bip_39_word_no_space_2: legrail
 bip_39_word_no_space_3: legrailwhip
-bip_39_word_no_space_4: legrailwhipsquirrel
-bip_39_word_no_space_5: legrailwhipsquirreladapt
-bip_39_word_no_space_6: legrailwhipsquirreladaptopinion
-bip_39_word_no_space_7: legrailwhipsquirreladaptopinionrefuse
-bip_39_word_no_space_8: legrailwhipsquirreladaptopinionrefusegrain
-bip_39_word_no_space_9: legrailwhipsquirreladaptopinionrefusegrainbulk
-bip_39_word_space_0:
-- leg
-- rail
-- whip
-- squirrel
-- adapt
-- opinion
-- refuse
-- grain
-- bulk
-- also
-- rotate
-- aunt
-bip_39_word_space_1: leg
-bip_39_word_space_10: leg rail whip squirrel adapt opinion refuse grain bulk also
-bip_39_word_space_11: leg rail whip squirrel adapt opinion refuse grain bulk also
-  rotate
 bip_39_word_space_12: leg rail whip squirrel adapt opinion refuse grain bulk also
   rotate aunt
 bip_39_word_space_2: leg rail
 bip_39_word_space_3: leg rail whip
-bip_39_word_space_4: leg rail whip squirrel
-bip_39_word_space_5: leg rail whip squirrel adapt
-bip_39_word_space_6: leg rail whip squirrel adapt opinion
-bip_39_word_space_7: leg rail whip squirrel adapt opinion refuse
-bip_39_word_space_8: leg rail whip squirrel adapt opinion refuse grain
-bip_39_word_space_9: leg rail whip squirrel adapt opinion refuse grain bulk
-bip_39_word_underscore_1: leg
-bip_39_word_underscore_10: leg_rail_whip_squirrel_adapt_opinion_refuse_grain_bulk_also
-bip_39_word_underscore_11: leg_rail_whip_squirrel_adapt_opinion_refuse_grain_bulk_also_rotate
 bip_39_word_underscore_12: leg_rail_whip_squirrel_adapt_opinion_refuse_grain_bulk_also_rotate_aunt
 bip_39_word_underscore_2: leg_rail
 bip_39_word_underscore_3: leg_rail_whip
-bip_39_word_underscore_4: leg_rail_whip_squirrel
-bip_39_word_underscore_5: leg_rail_whip_squirrel_adapt
-bip_39_word_underscore_6: leg_rail_whip_squirrel_adapt_opinion
-bip_39_word_underscore_7: leg_rail_whip_squirrel_adapt_opinion_refuse
-bip_39_word_underscore_8: leg_rail_whip_squirrel_adapt_opinion_refuse_grain
-bip_39_word_underscore_9: leg_rail_whip_squirrel_adapt_opinion_refuse_grain_bulk
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

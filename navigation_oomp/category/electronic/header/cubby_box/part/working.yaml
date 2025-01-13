@@ -1,68 +1,9 @@
-bip_39_word_dash_1: float
-bip_39_word_dash_10: float-acoustic-bunker-simple-someone-drama-charge-modify-inside-theory
-bip_39_word_dash_11: float-acoustic-bunker-simple-someone-drama-charge-modify-inside-theory-spread
 bip_39_word_dash_12: float-acoustic-bunker-simple-someone-drama-charge-modify-inside-theory-spread-armed
 bip_39_word_dash_2: float-acoustic
 bip_39_word_dash_3: float-acoustic-bunker
-bip_39_word_dash_4: float-acoustic-bunker-simple
-bip_39_word_dash_5: float-acoustic-bunker-simple-someone
-bip_39_word_dash_6: float-acoustic-bunker-simple-someone-drama
-bip_39_word_dash_7: float-acoustic-bunker-simple-someone-drama-charge
-bip_39_word_dash_8: float-acoustic-bunker-simple-someone-drama-charge-modify
-bip_39_word_dash_9: float-acoustic-bunker-simple-someone-drama-charge-modify-inside
-bip_39_word_new_br_1: float
-bip_39_word_new_br_10: float<br>acoustic<br>bunker<br>simple<br>someone<br>drama<br>charge<br>modify<br>inside<br>theory
-bip_39_word_new_br_11: float<br>acoustic<br>bunker<br>simple<br>someone<br>drama<br>charge<br>modify<br>inside<br>theory<br>spread
 bip_39_word_new_br_12: float<br>acoustic<br>bunker<br>simple<br>someone<br>drama<br>charge<br>modify<br>inside<br>theory<br>spread<br>armed
 bip_39_word_new_br_2: float<br>acoustic
 bip_39_word_new_br_3: float<br>acoustic<br>bunker
-bip_39_word_new_br_4: float<br>acoustic<br>bunker<br>simple
-bip_39_word_new_br_5: float<br>acoustic<br>bunker<br>simple<br>someone
-bip_39_word_new_br_6: float<br>acoustic<br>bunker<br>simple<br>someone<br>drama
-bip_39_word_new_br_7: float<br>acoustic<br>bunker<br>simple<br>someone<br>drama<br>charge
-bip_39_word_new_br_8: float<br>acoustic<br>bunker<br>simple<br>someone<br>drama<br>charge<br>modify
-bip_39_word_new_br_9: float<br>acoustic<br>bunker<br>simple<br>someone<br>drama<br>charge<br>modify<br>inside
-bip_39_word_new_line_1: float
-bip_39_word_new_line_10: 'float
-
-  acoustic
-
-  bunker
-
-  simple
-
-  someone
-
-  drama
-
-  charge
-
-  modify
-
-  inside
-
-  theory'
-bip_39_word_new_line_11: 'float
-
-  acoustic
-
-  bunker
-
-  simple
-
-  someone
-
-  drama
-
-  charge
-
-  modify
-
-  inside
-
-  theory
-
-  spread'
 bip_39_word_new_line_12: 'float
 
   acoustic
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'float
   acoustic
 
   bunker'
-bip_39_word_new_line_4: 'float
-
-  acoustic
-
-  bunker
-
-  simple'
-bip_39_word_new_line_5: 'float
-
-  acoustic
-
-  bunker
-
-  simple
-
-  someone'
-bip_39_word_new_line_6: 'float
-
-  acoustic
-
-  bunker
-
-  simple
-
-  someone
-
-  drama'
-bip_39_word_new_line_7: 'float
-
-  acoustic
-
-  bunker
-
-  simple
-
-  someone
-
-  drama
-
-  charge'
-bip_39_word_new_line_8: 'float
-
-  acoustic
-
-  bunker
-
-  simple
-
-  someone
-
-  drama
-
-  charge
-
-  modify'
-bip_39_word_new_line_9: 'float
-
-  acoustic
-
-  bunker
-
-  simple
-
-  someone
-
-  drama
-
-  charge
-
-  modify
-
-  inside'
-bip_39_word_no_space_1: float
-bip_39_word_no_space_10: floatacousticbunkersimplesomeonedramachargemodifyinsidetheory
-bip_39_word_no_space_11: floatacousticbunkersimplesomeonedramachargemodifyinsidetheoryspread
 bip_39_word_no_space_12: floatacousticbunkersimplesomeonedramachargemodifyinsidetheoryspreadarmed
 bip_39_word_no_space_2: floatacoustic
 bip_39_word_no_space_3: floatacousticbunker
-bip_39_word_no_space_4: floatacousticbunkersimple
-bip_39_word_no_space_5: floatacousticbunkersimplesomeone
-bip_39_word_no_space_6: floatacousticbunkersimplesomeonedrama
-bip_39_word_no_space_7: floatacousticbunkersimplesomeonedramacharge
-bip_39_word_no_space_8: floatacousticbunkersimplesomeonedramachargemodify
-bip_39_word_no_space_9: floatacousticbunkersimplesomeonedramachargemodifyinside
-bip_39_word_space_0:
-- float
-- acoustic
-- bunker
-- simple
-- someone
-- drama
-- charge
-- modify
-- inside
-- theory
-- spread
-- armed
-bip_39_word_space_1: float
-bip_39_word_space_10: float acoustic bunker simple someone drama charge modify inside
-  theory
-bip_39_word_space_11: float acoustic bunker simple someone drama charge modify inside
-  theory spread
 bip_39_word_space_12: float acoustic bunker simple someone drama charge modify inside
   theory spread armed
 bip_39_word_space_2: float acoustic
 bip_39_word_space_3: float acoustic bunker
-bip_39_word_space_4: float acoustic bunker simple
-bip_39_word_space_5: float acoustic bunker simple someone
-bip_39_word_space_6: float acoustic bunker simple someone drama
-bip_39_word_space_7: float acoustic bunker simple someone drama charge
-bip_39_word_space_8: float acoustic bunker simple someone drama charge modify
-bip_39_word_space_9: float acoustic bunker simple someone drama charge modify inside
-bip_39_word_underscore_1: float
-bip_39_word_underscore_10: float_acoustic_bunker_simple_someone_drama_charge_modify_inside_theory
-bip_39_word_underscore_11: float_acoustic_bunker_simple_someone_drama_charge_modify_inside_theory_spread
 bip_39_word_underscore_12: float_acoustic_bunker_simple_someone_drama_charge_modify_inside_theory_spread_armed
 bip_39_word_underscore_2: float_acoustic
 bip_39_word_underscore_3: float_acoustic_bunker
-bip_39_word_underscore_4: float_acoustic_bunker_simple
-bip_39_word_underscore_5: float_acoustic_bunker_simple_someone
-bip_39_word_underscore_6: float_acoustic_bunker_simple_someone_drama
-bip_39_word_underscore_7: float_acoustic_bunker_simple_someone_drama_charge
-bip_39_word_underscore_8: float_acoustic_bunker_simple_someone_drama_charge_modify
-bip_39_word_underscore_9: float_acoustic_bunker_simple_someone_drama_charge_modify_inside
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,45 +1,9 @@
-bip_39_word_dash_1: message
-bip_39_word_dash_10: message-army-critic-salt-express-viable-toss-keep-swap-original
 bip_39_word_dash_11: message-army-critic-salt-express-viable-toss-keep-swap-original-beach
 bip_39_word_dash_2: message-army
 bip_39_word_dash_3: message-army-critic
-bip_39_word_dash_4: message-army-critic-salt
-bip_39_word_dash_5: message-army-critic-salt-express
-bip_39_word_dash_6: message-army-critic-salt-express-viable
-bip_39_word_dash_7: message-army-critic-salt-express-viable-toss
-bip_39_word_dash_8: message-army-critic-salt-express-viable-toss-keep
-bip_39_word_dash_9: message-army-critic-salt-express-viable-toss-keep-swap
-bip_39_word_new_br_1: message
-bip_39_word_new_br_10: message<br>army<br>critic<br>salt<br>express<br>viable<br>toss<br>keep<br>swap<br>original
 bip_39_word_new_br_11: message<br>army<br>critic<br>salt<br>express<br>viable<br>toss<br>keep<br>swap<br>original<br>beach
 bip_39_word_new_br_2: message<br>army
 bip_39_word_new_br_3: message<br>army<br>critic
-bip_39_word_new_br_4: message<br>army<br>critic<br>salt
-bip_39_word_new_br_5: message<br>army<br>critic<br>salt<br>express
-bip_39_word_new_br_6: message<br>army<br>critic<br>salt<br>express<br>viable
-bip_39_word_new_br_7: message<br>army<br>critic<br>salt<br>express<br>viable<br>toss
-bip_39_word_new_br_8: message<br>army<br>critic<br>salt<br>express<br>viable<br>toss<br>keep
-bip_39_word_new_br_9: message<br>army<br>critic<br>salt<br>express<br>viable<br>toss<br>keep<br>swap
-bip_39_word_new_line_1: message
-bip_39_word_new_line_10: 'message
-
-  army
-
-  critic
-
-  salt
-
-  express
-
-  viable
-
-  toss
-
-  keep
-
-  swap
-
-  original'
 bip_39_word_new_line_11: 'message
 
   army
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'message
   army
 
   critic'
-bip_39_word_new_line_4: 'message
-
-  army
-
-  critic
-
-  salt'
-bip_39_word_new_line_5: 'message
-
-  army
-
-  critic
-
-  salt
-
-  express'
-bip_39_word_new_line_6: 'message
-
-  army
-
-  critic
-
-  salt
-
-  express
-
-  viable'
-bip_39_word_new_line_7: 'message
-
-  army
-
-  critic
-
-  salt
-
-  express
-
-  viable
-
-  toss'
-bip_39_word_new_line_8: 'message
-
-  army
-
-  critic
-
-  salt
-
-  express
-
-  viable
-
-  toss
-
-  keep'
-bip_39_word_new_line_9: 'message
-
-  army
-
-  critic
-
-  salt
-
-  express
-
-  viable
-
-  toss
-
-  keep
-
-  swap'
-bip_39_word_no_space_1: message
-bip_39_word_no_space_10: messagearmycriticsaltexpressviabletosskeepswaporiginal
 bip_39_word_no_space_11: messagearmycriticsaltexpressviabletosskeepswaporiginalbeach
 bip_39_word_no_space_2: messagearmy
 bip_39_word_no_space_3: messagearmycritic
-bip_39_word_no_space_4: messagearmycriticsalt
-bip_39_word_no_space_5: messagearmycriticsaltexpress
-bip_39_word_no_space_6: messagearmycriticsaltexpressviable
-bip_39_word_no_space_7: messagearmycriticsaltexpressviabletoss
-bip_39_word_no_space_8: messagearmycriticsaltexpressviabletosskeep
-bip_39_word_no_space_9: messagearmycriticsaltexpressviabletosskeepswap
-bip_39_word_space_0:
-- message
-- army
-- critic
-- salt
-- express
-- viable
-- toss
-- keep
-- swap
-- original
-- beach
-bip_39_word_space_1: message
-bip_39_word_space_10: message army critic salt express viable toss keep swap original
 bip_39_word_space_11: message army critic salt express viable toss keep swap original
   beach
 bip_39_word_space_2: message army
 bip_39_word_space_3: message army critic
-bip_39_word_space_4: message army critic salt
-bip_39_word_space_5: message army critic salt express
-bip_39_word_space_6: message army critic salt express viable
-bip_39_word_space_7: message army critic salt express viable toss
-bip_39_word_space_8: message army critic salt express viable toss keep
-bip_39_word_space_9: message army critic salt express viable toss keep swap
-bip_39_word_underscore_1: message
-bip_39_word_underscore_10: message_army_critic_salt_express_viable_toss_keep_swap_original
 bip_39_word_underscore_11: message_army_critic_salt_express_viable_toss_keep_swap_original_beach
 bip_39_word_underscore_2: message_army
 bip_39_word_underscore_3: message_army_critic
-bip_39_word_underscore_4: message_army_critic_salt
-bip_39_word_underscore_5: message_army_critic_salt_express
-bip_39_word_underscore_6: message_army_critic_salt_express_viable
-bip_39_word_underscore_7: message_army_critic_salt_express_viable_toss
-bip_39_word_underscore_8: message_army_critic_salt_express_viable_toss_keep
-bip_39_word_underscore_9: message_army_critic_salt_express_viable_toss_keep_swap
 classification: category
 classification_capital: Category
 classification_first_letter: c

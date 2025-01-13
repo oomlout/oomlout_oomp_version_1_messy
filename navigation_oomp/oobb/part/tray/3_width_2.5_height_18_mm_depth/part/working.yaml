@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hello
-bip_39_word_dash_10: hello-ask-van-captain-provide-horn-fold-avocado-slow-slot
-bip_39_word_dash_11: hello-ask-van-captain-provide-horn-fold-avocado-slow-slot-bright
 bip_39_word_dash_12: hello-ask-van-captain-provide-horn-fold-avocado-slow-slot-bright-account
 bip_39_word_dash_2: hello-ask
 bip_39_word_dash_3: hello-ask-van
-bip_39_word_dash_4: hello-ask-van-captain
-bip_39_word_dash_5: hello-ask-van-captain-provide
-bip_39_word_dash_6: hello-ask-van-captain-provide-horn
-bip_39_word_dash_7: hello-ask-van-captain-provide-horn-fold
-bip_39_word_dash_8: hello-ask-van-captain-provide-horn-fold-avocado
-bip_39_word_dash_9: hello-ask-van-captain-provide-horn-fold-avocado-slow
-bip_39_word_new_br_1: hello
-bip_39_word_new_br_10: hello<br>ask<br>van<br>captain<br>provide<br>horn<br>fold<br>avocado<br>slow<br>slot
-bip_39_word_new_br_11: hello<br>ask<br>van<br>captain<br>provide<br>horn<br>fold<br>avocado<br>slow<br>slot<br>bright
 bip_39_word_new_br_12: hello<br>ask<br>van<br>captain<br>provide<br>horn<br>fold<br>avocado<br>slow<br>slot<br>bright<br>account
 bip_39_word_new_br_2: hello<br>ask
 bip_39_word_new_br_3: hello<br>ask<br>van
-bip_39_word_new_br_4: hello<br>ask<br>van<br>captain
-bip_39_word_new_br_5: hello<br>ask<br>van<br>captain<br>provide
-bip_39_word_new_br_6: hello<br>ask<br>van<br>captain<br>provide<br>horn
-bip_39_word_new_br_7: hello<br>ask<br>van<br>captain<br>provide<br>horn<br>fold
-bip_39_word_new_br_8: hello<br>ask<br>van<br>captain<br>provide<br>horn<br>fold<br>avocado
-bip_39_word_new_br_9: hello<br>ask<br>van<br>captain<br>provide<br>horn<br>fold<br>avocado<br>slow
-bip_39_word_new_line_1: hello
-bip_39_word_new_line_10: 'hello
-
-  ask
-
-  van
-
-  captain
-
-  provide
-
-  horn
-
-  fold
-
-  avocado
-
-  slow
-
-  slot'
-bip_39_word_new_line_11: 'hello
-
-  ask
-
-  van
-
-  captain
-
-  provide
-
-  horn
-
-  fold
-
-  avocado
-
-  slow
-
-  slot
-
-  bright'
 bip_39_word_new_line_12: 'hello
 
   ask
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'hello
   ask
 
   van'
-bip_39_word_new_line_4: 'hello
-
-  ask
-
-  van
-
-  captain'
-bip_39_word_new_line_5: 'hello
-
-  ask
-
-  van
-
-  captain
-
-  provide'
-bip_39_word_new_line_6: 'hello
-
-  ask
-
-  van
-
-  captain
-
-  provide
-
-  horn'
-bip_39_word_new_line_7: 'hello
-
-  ask
-
-  van
-
-  captain
-
-  provide
-
-  horn
-
-  fold'
-bip_39_word_new_line_8: 'hello
-
-  ask
-
-  van
-
-  captain
-
-  provide
-
-  horn
-
-  fold
-
-  avocado'
-bip_39_word_new_line_9: 'hello
-
-  ask
-
-  van
-
-  captain
-
-  provide
-
-  horn
-
-  fold
-
-  avocado
-
-  slow'
-bip_39_word_no_space_1: hello
-bip_39_word_no_space_10: helloaskvancaptainprovidehornfoldavocadoslowslot
-bip_39_word_no_space_11: helloaskvancaptainprovidehornfoldavocadoslowslotbright
 bip_39_word_no_space_12: helloaskvancaptainprovidehornfoldavocadoslowslotbrightaccount
 bip_39_word_no_space_2: helloask
 bip_39_word_no_space_3: helloaskvan
-bip_39_word_no_space_4: helloaskvancaptain
-bip_39_word_no_space_5: helloaskvancaptainprovide
-bip_39_word_no_space_6: helloaskvancaptainprovidehorn
-bip_39_word_no_space_7: helloaskvancaptainprovidehornfold
-bip_39_word_no_space_8: helloaskvancaptainprovidehornfoldavocado
-bip_39_word_no_space_9: helloaskvancaptainprovidehornfoldavocadoslow
-bip_39_word_space_0:
-- hello
-- ask
-- van
-- captain
-- provide
-- horn
-- fold
-- avocado
-- slow
-- slot
-- bright
-- account
-bip_39_word_space_1: hello
-bip_39_word_space_10: hello ask van captain provide horn fold avocado slow slot
-bip_39_word_space_11: hello ask van captain provide horn fold avocado slow slot bright
 bip_39_word_space_12: hello ask van captain provide horn fold avocado slow slot bright
   account
 bip_39_word_space_2: hello ask
 bip_39_word_space_3: hello ask van
-bip_39_word_space_4: hello ask van captain
-bip_39_word_space_5: hello ask van captain provide
-bip_39_word_space_6: hello ask van captain provide horn
-bip_39_word_space_7: hello ask van captain provide horn fold
-bip_39_word_space_8: hello ask van captain provide horn fold avocado
-bip_39_word_space_9: hello ask van captain provide horn fold avocado slow
-bip_39_word_underscore_1: hello
-bip_39_word_underscore_10: hello_ask_van_captain_provide_horn_fold_avocado_slow_slot
-bip_39_word_underscore_11: hello_ask_van_captain_provide_horn_fold_avocado_slow_slot_bright
 bip_39_word_underscore_12: hello_ask_van_captain_provide_horn_fold_avocado_slow_slot_bright_account
 bip_39_word_underscore_2: hello_ask
 bip_39_word_underscore_3: hello_ask_van
-bip_39_word_underscore_4: hello_ask_van_captain
-bip_39_word_underscore_5: hello_ask_van_captain_provide
-bip_39_word_underscore_6: hello_ask_van_captain_provide_horn
-bip_39_word_underscore_7: hello_ask_van_captain_provide_horn_fold
-bip_39_word_underscore_8: hello_ask_van_captain_provide_horn_fold_avocado
-bip_39_word_underscore_9: hello_ask_van_captain_provide_horn_fold_avocado_slow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

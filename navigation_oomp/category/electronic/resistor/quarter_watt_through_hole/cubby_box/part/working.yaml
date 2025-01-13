@@ -1,68 +1,9 @@
-bip_39_word_dash_1: system
-bip_39_word_dash_10: system-enter-zone-aware-stairs-glue-anchor-book-actor-turtle
-bip_39_word_dash_11: system-enter-zone-aware-stairs-glue-anchor-book-actor-turtle-mercy
 bip_39_word_dash_12: system-enter-zone-aware-stairs-glue-anchor-book-actor-turtle-mercy-auto
 bip_39_word_dash_2: system-enter
 bip_39_word_dash_3: system-enter-zone
-bip_39_word_dash_4: system-enter-zone-aware
-bip_39_word_dash_5: system-enter-zone-aware-stairs
-bip_39_word_dash_6: system-enter-zone-aware-stairs-glue
-bip_39_word_dash_7: system-enter-zone-aware-stairs-glue-anchor
-bip_39_word_dash_8: system-enter-zone-aware-stairs-glue-anchor-book
-bip_39_word_dash_9: system-enter-zone-aware-stairs-glue-anchor-book-actor
-bip_39_word_new_br_1: system
-bip_39_word_new_br_10: system<br>enter<br>zone<br>aware<br>stairs<br>glue<br>anchor<br>book<br>actor<br>turtle
-bip_39_word_new_br_11: system<br>enter<br>zone<br>aware<br>stairs<br>glue<br>anchor<br>book<br>actor<br>turtle<br>mercy
 bip_39_word_new_br_12: system<br>enter<br>zone<br>aware<br>stairs<br>glue<br>anchor<br>book<br>actor<br>turtle<br>mercy<br>auto
 bip_39_word_new_br_2: system<br>enter
 bip_39_word_new_br_3: system<br>enter<br>zone
-bip_39_word_new_br_4: system<br>enter<br>zone<br>aware
-bip_39_word_new_br_5: system<br>enter<br>zone<br>aware<br>stairs
-bip_39_word_new_br_6: system<br>enter<br>zone<br>aware<br>stairs<br>glue
-bip_39_word_new_br_7: system<br>enter<br>zone<br>aware<br>stairs<br>glue<br>anchor
-bip_39_word_new_br_8: system<br>enter<br>zone<br>aware<br>stairs<br>glue<br>anchor<br>book
-bip_39_word_new_br_9: system<br>enter<br>zone<br>aware<br>stairs<br>glue<br>anchor<br>book<br>actor
-bip_39_word_new_line_1: system
-bip_39_word_new_line_10: 'system
-
-  enter
-
-  zone
-
-  aware
-
-  stairs
-
-  glue
-
-  anchor
-
-  book
-
-  actor
-
-  turtle'
-bip_39_word_new_line_11: 'system
-
-  enter
-
-  zone
-
-  aware
-
-  stairs
-
-  glue
-
-  anchor
-
-  book
-
-  actor
-
-  turtle
-
-  mercy'
 bip_39_word_new_line_12: 'system
 
   enter
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'system
   enter
 
   zone'
-bip_39_word_new_line_4: 'system
-
-  enter
-
-  zone
-
-  aware'
-bip_39_word_new_line_5: 'system
-
-  enter
-
-  zone
-
-  aware
-
-  stairs'
-bip_39_word_new_line_6: 'system
-
-  enter
-
-  zone
-
-  aware
-
-  stairs
-
-  glue'
-bip_39_word_new_line_7: 'system
-
-  enter
-
-  zone
-
-  aware
-
-  stairs
-
-  glue
-
-  anchor'
-bip_39_word_new_line_8: 'system
-
-  enter
-
-  zone
-
-  aware
-
-  stairs
-
-  glue
-
-  anchor
-
-  book'
-bip_39_word_new_line_9: 'system
-
-  enter
-
-  zone
-
-  aware
-
-  stairs
-
-  glue
-
-  anchor
-
-  book
-
-  actor'
-bip_39_word_no_space_1: system
-bip_39_word_no_space_10: systementerzoneawarestairsglueanchorbookactorturtle
-bip_39_word_no_space_11: systementerzoneawarestairsglueanchorbookactorturtlemercy
 bip_39_word_no_space_12: systementerzoneawarestairsglueanchorbookactorturtlemercyauto
 bip_39_word_no_space_2: systementer
 bip_39_word_no_space_3: systementerzone
-bip_39_word_no_space_4: systementerzoneaware
-bip_39_word_no_space_5: systementerzoneawarestairs
-bip_39_word_no_space_6: systementerzoneawarestairsglue
-bip_39_word_no_space_7: systementerzoneawarestairsglueanchor
-bip_39_word_no_space_8: systementerzoneawarestairsglueanchorbook
-bip_39_word_no_space_9: systementerzoneawarestairsglueanchorbookactor
-bip_39_word_space_0:
-- system
-- enter
-- zone
-- aware
-- stairs
-- glue
-- anchor
-- book
-- actor
-- turtle
-- mercy
-- auto
-bip_39_word_space_1: system
-bip_39_word_space_10: system enter zone aware stairs glue anchor book actor turtle
-bip_39_word_space_11: system enter zone aware stairs glue anchor book actor turtle
-  mercy
 bip_39_word_space_12: system enter zone aware stairs glue anchor book actor turtle
   mercy auto
 bip_39_word_space_2: system enter
 bip_39_word_space_3: system enter zone
-bip_39_word_space_4: system enter zone aware
-bip_39_word_space_5: system enter zone aware stairs
-bip_39_word_space_6: system enter zone aware stairs glue
-bip_39_word_space_7: system enter zone aware stairs glue anchor
-bip_39_word_space_8: system enter zone aware stairs glue anchor book
-bip_39_word_space_9: system enter zone aware stairs glue anchor book actor
-bip_39_word_underscore_1: system
-bip_39_word_underscore_10: system_enter_zone_aware_stairs_glue_anchor_book_actor_turtle
-bip_39_word_underscore_11: system_enter_zone_aware_stairs_glue_anchor_book_actor_turtle_mercy
 bip_39_word_underscore_12: system_enter_zone_aware_stairs_glue_anchor_book_actor_turtle_mercy_auto
 bip_39_word_underscore_2: system_enter
 bip_39_word_underscore_3: system_enter_zone
-bip_39_word_underscore_4: system_enter_zone_aware
-bip_39_word_underscore_5: system_enter_zone_aware_stairs
-bip_39_word_underscore_6: system_enter_zone_aware_stairs_glue
-bip_39_word_underscore_7: system_enter_zone_aware_stairs_glue_anchor
-bip_39_word_underscore_8: system_enter_zone_aware_stairs_glue_anchor_book
-bip_39_word_underscore_9: system_enter_zone_aware_stairs_glue_anchor_book_actor
 classification: category
 classification_capital: Category
 classification_first_letter: c

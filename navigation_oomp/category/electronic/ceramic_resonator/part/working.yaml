@@ -1,68 +1,9 @@
-bip_39_word_dash_1: when
-bip_39_word_dash_10: when-whisper-accident-famous-caution-edge-drastic-baby-brisk-little
-bip_39_word_dash_11: when-whisper-accident-famous-caution-edge-drastic-baby-brisk-little-raven
 bip_39_word_dash_12: when-whisper-accident-famous-caution-edge-drastic-baby-brisk-little-raven-aunt
 bip_39_word_dash_2: when-whisper
 bip_39_word_dash_3: when-whisper-accident
-bip_39_word_dash_4: when-whisper-accident-famous
-bip_39_word_dash_5: when-whisper-accident-famous-caution
-bip_39_word_dash_6: when-whisper-accident-famous-caution-edge
-bip_39_word_dash_7: when-whisper-accident-famous-caution-edge-drastic
-bip_39_word_dash_8: when-whisper-accident-famous-caution-edge-drastic-baby
-bip_39_word_dash_9: when-whisper-accident-famous-caution-edge-drastic-baby-brisk
-bip_39_word_new_br_1: when
-bip_39_word_new_br_10: when<br>whisper<br>accident<br>famous<br>caution<br>edge<br>drastic<br>baby<br>brisk<br>little
-bip_39_word_new_br_11: when<br>whisper<br>accident<br>famous<br>caution<br>edge<br>drastic<br>baby<br>brisk<br>little<br>raven
 bip_39_word_new_br_12: when<br>whisper<br>accident<br>famous<br>caution<br>edge<br>drastic<br>baby<br>brisk<br>little<br>raven<br>aunt
 bip_39_word_new_br_2: when<br>whisper
 bip_39_word_new_br_3: when<br>whisper<br>accident
-bip_39_word_new_br_4: when<br>whisper<br>accident<br>famous
-bip_39_word_new_br_5: when<br>whisper<br>accident<br>famous<br>caution
-bip_39_word_new_br_6: when<br>whisper<br>accident<br>famous<br>caution<br>edge
-bip_39_word_new_br_7: when<br>whisper<br>accident<br>famous<br>caution<br>edge<br>drastic
-bip_39_word_new_br_8: when<br>whisper<br>accident<br>famous<br>caution<br>edge<br>drastic<br>baby
-bip_39_word_new_br_9: when<br>whisper<br>accident<br>famous<br>caution<br>edge<br>drastic<br>baby<br>brisk
-bip_39_word_new_line_1: when
-bip_39_word_new_line_10: 'when
-
-  whisper
-
-  accident
-
-  famous
-
-  caution
-
-  edge
-
-  drastic
-
-  baby
-
-  brisk
-
-  little'
-bip_39_word_new_line_11: 'when
-
-  whisper
-
-  accident
-
-  famous
-
-  caution
-
-  edge
-
-  drastic
-
-  baby
-
-  brisk
-
-  little
-
-  raven'
 bip_39_word_new_line_12: 'when
 
   whisper
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'when
   whisper
 
   accident'
-bip_39_word_new_line_4: 'when
-
-  whisper
-
-  accident
-
-  famous'
-bip_39_word_new_line_5: 'when
-
-  whisper
-
-  accident
-
-  famous
-
-  caution'
-bip_39_word_new_line_6: 'when
-
-  whisper
-
-  accident
-
-  famous
-
-  caution
-
-  edge'
-bip_39_word_new_line_7: 'when
-
-  whisper
-
-  accident
-
-  famous
-
-  caution
-
-  edge
-
-  drastic'
-bip_39_word_new_line_8: 'when
-
-  whisper
-
-  accident
-
-  famous
-
-  caution
-
-  edge
-
-  drastic
-
-  baby'
-bip_39_word_new_line_9: 'when
-
-  whisper
-
-  accident
-
-  famous
-
-  caution
-
-  edge
-
-  drastic
-
-  baby
-
-  brisk'
-bip_39_word_no_space_1: when
-bip_39_word_no_space_10: whenwhisperaccidentfamouscautionedgedrasticbabybrisklittle
-bip_39_word_no_space_11: whenwhisperaccidentfamouscautionedgedrasticbabybrisklittleraven
 bip_39_word_no_space_12: whenwhisperaccidentfamouscautionedgedrasticbabybrisklittleravenaunt
 bip_39_word_no_space_2: whenwhisper
 bip_39_word_no_space_3: whenwhisperaccident
-bip_39_word_no_space_4: whenwhisperaccidentfamous
-bip_39_word_no_space_5: whenwhisperaccidentfamouscaution
-bip_39_word_no_space_6: whenwhisperaccidentfamouscautionedge
-bip_39_word_no_space_7: whenwhisperaccidentfamouscautionedgedrastic
-bip_39_word_no_space_8: whenwhisperaccidentfamouscautionedgedrasticbaby
-bip_39_word_no_space_9: whenwhisperaccidentfamouscautionedgedrasticbabybrisk
-bip_39_word_space_0:
-- when
-- whisper
-- accident
-- famous
-- caution
-- edge
-- drastic
-- baby
-- brisk
-- little
-- raven
-- aunt
-bip_39_word_space_1: when
-bip_39_word_space_10: when whisper accident famous caution edge drastic baby brisk
-  little
-bip_39_word_space_11: when whisper accident famous caution edge drastic baby brisk
-  little raven
 bip_39_word_space_12: when whisper accident famous caution edge drastic baby brisk
   little raven aunt
 bip_39_word_space_2: when whisper
 bip_39_word_space_3: when whisper accident
-bip_39_word_space_4: when whisper accident famous
-bip_39_word_space_5: when whisper accident famous caution
-bip_39_word_space_6: when whisper accident famous caution edge
-bip_39_word_space_7: when whisper accident famous caution edge drastic
-bip_39_word_space_8: when whisper accident famous caution edge drastic baby
-bip_39_word_space_9: when whisper accident famous caution edge drastic baby brisk
-bip_39_word_underscore_1: when
-bip_39_word_underscore_10: when_whisper_accident_famous_caution_edge_drastic_baby_brisk_little
-bip_39_word_underscore_11: when_whisper_accident_famous_caution_edge_drastic_baby_brisk_little_raven
 bip_39_word_underscore_12: when_whisper_accident_famous_caution_edge_drastic_baby_brisk_little_raven_aunt
 bip_39_word_underscore_2: when_whisper
 bip_39_word_underscore_3: when_whisper_accident
-bip_39_word_underscore_4: when_whisper_accident_famous
-bip_39_word_underscore_5: when_whisper_accident_famous_caution
-bip_39_word_underscore_6: when_whisper_accident_famous_caution_edge
-bip_39_word_underscore_7: when_whisper_accident_famous_caution_edge_drastic
-bip_39_word_underscore_8: when_whisper_accident_famous_caution_edge_drastic_baby
-bip_39_word_underscore_9: when_whisper_accident_famous_caution_edge_drastic_baby_brisk
 classification: category
 classification_capital: Category
 classification_first_letter: c

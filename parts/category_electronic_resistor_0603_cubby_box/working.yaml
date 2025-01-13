@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cube
-bip_39_word_dash_10: cube-wet-auto-over-level-cactus-size-road-secret-lunar
-bip_39_word_dash_11: cube-wet-auto-over-level-cactus-size-road-secret-lunar-chase
 bip_39_word_dash_12: cube-wet-auto-over-level-cactus-size-road-secret-lunar-chase-aunt
 bip_39_word_dash_2: cube-wet
 bip_39_word_dash_3: cube-wet-auto
-bip_39_word_dash_4: cube-wet-auto-over
-bip_39_word_dash_5: cube-wet-auto-over-level
-bip_39_word_dash_6: cube-wet-auto-over-level-cactus
-bip_39_word_dash_7: cube-wet-auto-over-level-cactus-size
-bip_39_word_dash_8: cube-wet-auto-over-level-cactus-size-road
-bip_39_word_dash_9: cube-wet-auto-over-level-cactus-size-road-secret
-bip_39_word_new_br_1: cube
-bip_39_word_new_br_10: cube<br>wet<br>auto<br>over<br>level<br>cactus<br>size<br>road<br>secret<br>lunar
-bip_39_word_new_br_11: cube<br>wet<br>auto<br>over<br>level<br>cactus<br>size<br>road<br>secret<br>lunar<br>chase
 bip_39_word_new_br_12: cube<br>wet<br>auto<br>over<br>level<br>cactus<br>size<br>road<br>secret<br>lunar<br>chase<br>aunt
 bip_39_word_new_br_2: cube<br>wet
 bip_39_word_new_br_3: cube<br>wet<br>auto
-bip_39_word_new_br_4: cube<br>wet<br>auto<br>over
-bip_39_word_new_br_5: cube<br>wet<br>auto<br>over<br>level
-bip_39_word_new_br_6: cube<br>wet<br>auto<br>over<br>level<br>cactus
-bip_39_word_new_br_7: cube<br>wet<br>auto<br>over<br>level<br>cactus<br>size
-bip_39_word_new_br_8: cube<br>wet<br>auto<br>over<br>level<br>cactus<br>size<br>road
-bip_39_word_new_br_9: cube<br>wet<br>auto<br>over<br>level<br>cactus<br>size<br>road<br>secret
-bip_39_word_new_line_1: cube
-bip_39_word_new_line_10: 'cube
-
-  wet
-
-  auto
-
-  over
-
-  level
-
-  cactus
-
-  size
-
-  road
-
-  secret
-
-  lunar'
-bip_39_word_new_line_11: 'cube
-
-  wet
-
-  auto
-
-  over
-
-  level
-
-  cactus
-
-  size
-
-  road
-
-  secret
-
-  lunar
-
-  chase'
 bip_39_word_new_line_12: 'cube
 
   wet
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'cube
   wet
 
   auto'
-bip_39_word_new_line_4: 'cube
-
-  wet
-
-  auto
-
-  over'
-bip_39_word_new_line_5: 'cube
-
-  wet
-
-  auto
-
-  over
-
-  level'
-bip_39_word_new_line_6: 'cube
-
-  wet
-
-  auto
-
-  over
-
-  level
-
-  cactus'
-bip_39_word_new_line_7: 'cube
-
-  wet
-
-  auto
-
-  over
-
-  level
-
-  cactus
-
-  size'
-bip_39_word_new_line_8: 'cube
-
-  wet
-
-  auto
-
-  over
-
-  level
-
-  cactus
-
-  size
-
-  road'
-bip_39_word_new_line_9: 'cube
-
-  wet
-
-  auto
-
-  over
-
-  level
-
-  cactus
-
-  size
-
-  road
-
-  secret'
-bip_39_word_no_space_1: cube
-bip_39_word_no_space_10: cubewetautooverlevelcactussizeroadsecretlunar
-bip_39_word_no_space_11: cubewetautooverlevelcactussizeroadsecretlunarchase
 bip_39_word_no_space_12: cubewetautooverlevelcactussizeroadsecretlunarchaseaunt
 bip_39_word_no_space_2: cubewet
 bip_39_word_no_space_3: cubewetauto
-bip_39_word_no_space_4: cubewetautoover
-bip_39_word_no_space_5: cubewetautooverlevel
-bip_39_word_no_space_6: cubewetautooverlevelcactus
-bip_39_word_no_space_7: cubewetautooverlevelcactussize
-bip_39_word_no_space_8: cubewetautooverlevelcactussizeroad
-bip_39_word_no_space_9: cubewetautooverlevelcactussizeroadsecret
-bip_39_word_space_0:
-- cube
-- wet
-- auto
-- over
-- level
-- cactus
-- size
-- road
-- secret
-- lunar
-- chase
-- aunt
-bip_39_word_space_1: cube
-bip_39_word_space_10: cube wet auto over level cactus size road secret lunar
-bip_39_word_space_11: cube wet auto over level cactus size road secret lunar chase
 bip_39_word_space_12: cube wet auto over level cactus size road secret lunar chase
   aunt
 bip_39_word_space_2: cube wet
 bip_39_word_space_3: cube wet auto
-bip_39_word_space_4: cube wet auto over
-bip_39_word_space_5: cube wet auto over level
-bip_39_word_space_6: cube wet auto over level cactus
-bip_39_word_space_7: cube wet auto over level cactus size
-bip_39_word_space_8: cube wet auto over level cactus size road
-bip_39_word_space_9: cube wet auto over level cactus size road secret
-bip_39_word_underscore_1: cube
-bip_39_word_underscore_10: cube_wet_auto_over_level_cactus_size_road_secret_lunar
-bip_39_word_underscore_11: cube_wet_auto_over_level_cactus_size_road_secret_lunar_chase
 bip_39_word_underscore_12: cube_wet_auto_over_level_cactus_size_road_secret_lunar_chase_aunt
 bip_39_word_underscore_2: cube_wet
 bip_39_word_underscore_3: cube_wet_auto
-bip_39_word_underscore_4: cube_wet_auto_over
-bip_39_word_underscore_5: cube_wet_auto_over_level
-bip_39_word_underscore_6: cube_wet_auto_over_level_cactus
-bip_39_word_underscore_7: cube_wet_auto_over_level_cactus_size
-bip_39_word_underscore_8: cube_wet_auto_over_level_cactus_size_road
-bip_39_word_underscore_9: cube_wet_auto_over_level_cactus_size_road_secret
 classification: category
 classification_capital: Category
 classification_first_letter: c

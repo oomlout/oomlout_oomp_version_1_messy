@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lazy
-bip_39_word_dash_10: lazy-tuition-recycle-undo-voyage-define-copy-rabbit-witness-merit
-bip_39_word_dash_11: lazy-tuition-recycle-undo-voyage-define-copy-rabbit-witness-merit-report
 bip_39_word_dash_12: lazy-tuition-recycle-undo-voyage-define-copy-rabbit-witness-merit-report-attract
 bip_39_word_dash_2: lazy-tuition
 bip_39_word_dash_3: lazy-tuition-recycle
-bip_39_word_dash_4: lazy-tuition-recycle-undo
-bip_39_word_dash_5: lazy-tuition-recycle-undo-voyage
-bip_39_word_dash_6: lazy-tuition-recycle-undo-voyage-define
-bip_39_word_dash_7: lazy-tuition-recycle-undo-voyage-define-copy
-bip_39_word_dash_8: lazy-tuition-recycle-undo-voyage-define-copy-rabbit
-bip_39_word_dash_9: lazy-tuition-recycle-undo-voyage-define-copy-rabbit-witness
-bip_39_word_new_br_1: lazy
-bip_39_word_new_br_10: lazy<br>tuition<br>recycle<br>undo<br>voyage<br>define<br>copy<br>rabbit<br>witness<br>merit
-bip_39_word_new_br_11: lazy<br>tuition<br>recycle<br>undo<br>voyage<br>define<br>copy<br>rabbit<br>witness<br>merit<br>report
 bip_39_word_new_br_12: lazy<br>tuition<br>recycle<br>undo<br>voyage<br>define<br>copy<br>rabbit<br>witness<br>merit<br>report<br>attract
 bip_39_word_new_br_2: lazy<br>tuition
 bip_39_word_new_br_3: lazy<br>tuition<br>recycle
-bip_39_word_new_br_4: lazy<br>tuition<br>recycle<br>undo
-bip_39_word_new_br_5: lazy<br>tuition<br>recycle<br>undo<br>voyage
-bip_39_word_new_br_6: lazy<br>tuition<br>recycle<br>undo<br>voyage<br>define
-bip_39_word_new_br_7: lazy<br>tuition<br>recycle<br>undo<br>voyage<br>define<br>copy
-bip_39_word_new_br_8: lazy<br>tuition<br>recycle<br>undo<br>voyage<br>define<br>copy<br>rabbit
-bip_39_word_new_br_9: lazy<br>tuition<br>recycle<br>undo<br>voyage<br>define<br>copy<br>rabbit<br>witness
-bip_39_word_new_line_1: lazy
-bip_39_word_new_line_10: 'lazy
-
-  tuition
-
-  recycle
-
-  undo
-
-  voyage
-
-  define
-
-  copy
-
-  rabbit
-
-  witness
-
-  merit'
-bip_39_word_new_line_11: 'lazy
-
-  tuition
-
-  recycle
-
-  undo
-
-  voyage
-
-  define
-
-  copy
-
-  rabbit
-
-  witness
-
-  merit
-
-  report'
 bip_39_word_new_line_12: 'lazy
 
   tuition
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'lazy
   tuition
 
   recycle'
-bip_39_word_new_line_4: 'lazy
-
-  tuition
-
-  recycle
-
-  undo'
-bip_39_word_new_line_5: 'lazy
-
-  tuition
-
-  recycle
-
-  undo
-
-  voyage'
-bip_39_word_new_line_6: 'lazy
-
-  tuition
-
-  recycle
-
-  undo
-
-  voyage
-
-  define'
-bip_39_word_new_line_7: 'lazy
-
-  tuition
-
-  recycle
-
-  undo
-
-  voyage
-
-  define
-
-  copy'
-bip_39_word_new_line_8: 'lazy
-
-  tuition
-
-  recycle
-
-  undo
-
-  voyage
-
-  define
-
-  copy
-
-  rabbit'
-bip_39_word_new_line_9: 'lazy
-
-  tuition
-
-  recycle
-
-  undo
-
-  voyage
-
-  define
-
-  copy
-
-  rabbit
-
-  witness'
-bip_39_word_no_space_1: lazy
-bip_39_word_no_space_10: lazytuitionrecycleundovoyagedefinecopyrabbitwitnessmerit
-bip_39_word_no_space_11: lazytuitionrecycleundovoyagedefinecopyrabbitwitnessmeritreport
 bip_39_word_no_space_12: lazytuitionrecycleundovoyagedefinecopyrabbitwitnessmeritreportattract
 bip_39_word_no_space_2: lazytuition
 bip_39_word_no_space_3: lazytuitionrecycle
-bip_39_word_no_space_4: lazytuitionrecycleundo
-bip_39_word_no_space_5: lazytuitionrecycleundovoyage
-bip_39_word_no_space_6: lazytuitionrecycleundovoyagedefine
-bip_39_word_no_space_7: lazytuitionrecycleundovoyagedefinecopy
-bip_39_word_no_space_8: lazytuitionrecycleundovoyagedefinecopyrabbit
-bip_39_word_no_space_9: lazytuitionrecycleundovoyagedefinecopyrabbitwitness
-bip_39_word_space_0:
-- lazy
-- tuition
-- recycle
-- undo
-- voyage
-- define
-- copy
-- rabbit
-- witness
-- merit
-- report
-- attract
-bip_39_word_space_1: lazy
-bip_39_word_space_10: lazy tuition recycle undo voyage define copy rabbit witness
-  merit
-bip_39_word_space_11: lazy tuition recycle undo voyage define copy rabbit witness
-  merit report
 bip_39_word_space_12: lazy tuition recycle undo voyage define copy rabbit witness
   merit report attract
 bip_39_word_space_2: lazy tuition
 bip_39_word_space_3: lazy tuition recycle
-bip_39_word_space_4: lazy tuition recycle undo
-bip_39_word_space_5: lazy tuition recycle undo voyage
-bip_39_word_space_6: lazy tuition recycle undo voyage define
-bip_39_word_space_7: lazy tuition recycle undo voyage define copy
-bip_39_word_space_8: lazy tuition recycle undo voyage define copy rabbit
-bip_39_word_space_9: lazy tuition recycle undo voyage define copy rabbit witness
-bip_39_word_underscore_1: lazy
-bip_39_word_underscore_10: lazy_tuition_recycle_undo_voyage_define_copy_rabbit_witness_merit
-bip_39_word_underscore_11: lazy_tuition_recycle_undo_voyage_define_copy_rabbit_witness_merit_report
 bip_39_word_underscore_12: lazy_tuition_recycle_undo_voyage_define_copy_rabbit_witness_merit_report_attract
 bip_39_word_underscore_2: lazy_tuition
 bip_39_word_underscore_3: lazy_tuition_recycle
-bip_39_word_underscore_4: lazy_tuition_recycle_undo
-bip_39_word_underscore_5: lazy_tuition_recycle_undo_voyage
-bip_39_word_underscore_6: lazy_tuition_recycle_undo_voyage_define
-bip_39_word_underscore_7: lazy_tuition_recycle_undo_voyage_define_copy
-bip_39_word_underscore_8: lazy_tuition_recycle_undo_voyage_define_copy_rabbit
-bip_39_word_underscore_9: lazy_tuition_recycle_undo_voyage_define_copy_rabbit_witness
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

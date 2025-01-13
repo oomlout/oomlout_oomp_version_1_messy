@@ -1,68 +1,9 @@
-bip_39_word_dash_1: patient
-bip_39_word_dash_10: patient-boost-loop-accuse-question-staff-weekend-dumb-stable-hat
-bip_39_word_dash_11: patient-boost-loop-accuse-question-staff-weekend-dumb-stable-hat-paper
 bip_39_word_dash_12: patient-boost-loop-accuse-question-staff-weekend-dumb-stable-hat-paper-approve
 bip_39_word_dash_2: patient-boost
 bip_39_word_dash_3: patient-boost-loop
-bip_39_word_dash_4: patient-boost-loop-accuse
-bip_39_word_dash_5: patient-boost-loop-accuse-question
-bip_39_word_dash_6: patient-boost-loop-accuse-question-staff
-bip_39_word_dash_7: patient-boost-loop-accuse-question-staff-weekend
-bip_39_word_dash_8: patient-boost-loop-accuse-question-staff-weekend-dumb
-bip_39_word_dash_9: patient-boost-loop-accuse-question-staff-weekend-dumb-stable
-bip_39_word_new_br_1: patient
-bip_39_word_new_br_10: patient<br>boost<br>loop<br>accuse<br>question<br>staff<br>weekend<br>dumb<br>stable<br>hat
-bip_39_word_new_br_11: patient<br>boost<br>loop<br>accuse<br>question<br>staff<br>weekend<br>dumb<br>stable<br>hat<br>paper
 bip_39_word_new_br_12: patient<br>boost<br>loop<br>accuse<br>question<br>staff<br>weekend<br>dumb<br>stable<br>hat<br>paper<br>approve
 bip_39_word_new_br_2: patient<br>boost
 bip_39_word_new_br_3: patient<br>boost<br>loop
-bip_39_word_new_br_4: patient<br>boost<br>loop<br>accuse
-bip_39_word_new_br_5: patient<br>boost<br>loop<br>accuse<br>question
-bip_39_word_new_br_6: patient<br>boost<br>loop<br>accuse<br>question<br>staff
-bip_39_word_new_br_7: patient<br>boost<br>loop<br>accuse<br>question<br>staff<br>weekend
-bip_39_word_new_br_8: patient<br>boost<br>loop<br>accuse<br>question<br>staff<br>weekend<br>dumb
-bip_39_word_new_br_9: patient<br>boost<br>loop<br>accuse<br>question<br>staff<br>weekend<br>dumb<br>stable
-bip_39_word_new_line_1: patient
-bip_39_word_new_line_10: 'patient
-
-  boost
-
-  loop
-
-  accuse
-
-  question
-
-  staff
-
-  weekend
-
-  dumb
-
-  stable
-
-  hat'
-bip_39_word_new_line_11: 'patient
-
-  boost
-
-  loop
-
-  accuse
-
-  question
-
-  staff
-
-  weekend
-
-  dumb
-
-  stable
-
-  hat
-
-  paper'
 bip_39_word_new_line_12: 'patient
 
   boost
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'patient
   boost
 
   loop'
-bip_39_word_new_line_4: 'patient
-
-  boost
-
-  loop
-
-  accuse'
-bip_39_word_new_line_5: 'patient
-
-  boost
-
-  loop
-
-  accuse
-
-  question'
-bip_39_word_new_line_6: 'patient
-
-  boost
-
-  loop
-
-  accuse
-
-  question
-
-  staff'
-bip_39_word_new_line_7: 'patient
-
-  boost
-
-  loop
-
-  accuse
-
-  question
-
-  staff
-
-  weekend'
-bip_39_word_new_line_8: 'patient
-
-  boost
-
-  loop
-
-  accuse
-
-  question
-
-  staff
-
-  weekend
-
-  dumb'
-bip_39_word_new_line_9: 'patient
-
-  boost
-
-  loop
-
-  accuse
-
-  question
-
-  staff
-
-  weekend
-
-  dumb
-
-  stable'
-bip_39_word_no_space_1: patient
-bip_39_word_no_space_10: patientboostloopaccusequestionstaffweekenddumbstablehat
-bip_39_word_no_space_11: patientboostloopaccusequestionstaffweekenddumbstablehatpaper
 bip_39_word_no_space_12: patientboostloopaccusequestionstaffweekenddumbstablehatpaperapprove
 bip_39_word_no_space_2: patientboost
 bip_39_word_no_space_3: patientboostloop
-bip_39_word_no_space_4: patientboostloopaccuse
-bip_39_word_no_space_5: patientboostloopaccusequestion
-bip_39_word_no_space_6: patientboostloopaccusequestionstaff
-bip_39_word_no_space_7: patientboostloopaccusequestionstaffweekend
-bip_39_word_no_space_8: patientboostloopaccusequestionstaffweekenddumb
-bip_39_word_no_space_9: patientboostloopaccusequestionstaffweekenddumbstable
-bip_39_word_space_0:
-- patient
-- boost
-- loop
-- accuse
-- question
-- staff
-- weekend
-- dumb
-- stable
-- hat
-- paper
-- approve
-bip_39_word_space_1: patient
-bip_39_word_space_10: patient boost loop accuse question staff weekend dumb stable
-  hat
-bip_39_word_space_11: patient boost loop accuse question staff weekend dumb stable
-  hat paper
 bip_39_word_space_12: patient boost loop accuse question staff weekend dumb stable
   hat paper approve
 bip_39_word_space_2: patient boost
 bip_39_word_space_3: patient boost loop
-bip_39_word_space_4: patient boost loop accuse
-bip_39_word_space_5: patient boost loop accuse question
-bip_39_word_space_6: patient boost loop accuse question staff
-bip_39_word_space_7: patient boost loop accuse question staff weekend
-bip_39_word_space_8: patient boost loop accuse question staff weekend dumb
-bip_39_word_space_9: patient boost loop accuse question staff weekend dumb stable
-bip_39_word_underscore_1: patient
-bip_39_word_underscore_10: patient_boost_loop_accuse_question_staff_weekend_dumb_stable_hat
-bip_39_word_underscore_11: patient_boost_loop_accuse_question_staff_weekend_dumb_stable_hat_paper
 bip_39_word_underscore_12: patient_boost_loop_accuse_question_staff_weekend_dumb_stable_hat_paper_approve
 bip_39_word_underscore_2: patient_boost
 bip_39_word_underscore_3: patient_boost_loop
-bip_39_word_underscore_4: patient_boost_loop_accuse
-bip_39_word_underscore_5: patient_boost_loop_accuse_question
-bip_39_word_underscore_6: patient_boost_loop_accuse_question_staff
-bip_39_word_underscore_7: patient_boost_loop_accuse_question_staff_weekend
-bip_39_word_underscore_8: patient_boost_loop_accuse_question_staff_weekend_dumb
-bip_39_word_underscore_9: patient_boost_loop_accuse_question_staff_weekend_dumb_stable
 classification: category
 classification_capital: Category
 classification_first_letter: c

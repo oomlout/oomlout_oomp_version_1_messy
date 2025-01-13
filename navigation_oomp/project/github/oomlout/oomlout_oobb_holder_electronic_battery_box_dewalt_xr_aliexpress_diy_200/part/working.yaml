@@ -1,68 +1,9 @@
-bip_39_word_dash_1: destroy
-bip_39_word_dash_10: destroy-either-vast-second-arm-hurt-crystal-network-common-person
-bip_39_word_dash_11: destroy-either-vast-second-arm-hurt-crystal-network-common-person-retire
 bip_39_word_dash_12: destroy-either-vast-second-arm-hurt-crystal-network-common-person-retire-audit
 bip_39_word_dash_2: destroy-either
 bip_39_word_dash_3: destroy-either-vast
-bip_39_word_dash_4: destroy-either-vast-second
-bip_39_word_dash_5: destroy-either-vast-second-arm
-bip_39_word_dash_6: destroy-either-vast-second-arm-hurt
-bip_39_word_dash_7: destroy-either-vast-second-arm-hurt-crystal
-bip_39_word_dash_8: destroy-either-vast-second-arm-hurt-crystal-network
-bip_39_word_dash_9: destroy-either-vast-second-arm-hurt-crystal-network-common
-bip_39_word_new_br_1: destroy
-bip_39_word_new_br_10: destroy<br>either<br>vast<br>second<br>arm<br>hurt<br>crystal<br>network<br>common<br>person
-bip_39_word_new_br_11: destroy<br>either<br>vast<br>second<br>arm<br>hurt<br>crystal<br>network<br>common<br>person<br>retire
 bip_39_word_new_br_12: destroy<br>either<br>vast<br>second<br>arm<br>hurt<br>crystal<br>network<br>common<br>person<br>retire<br>audit
 bip_39_word_new_br_2: destroy<br>either
 bip_39_word_new_br_3: destroy<br>either<br>vast
-bip_39_word_new_br_4: destroy<br>either<br>vast<br>second
-bip_39_word_new_br_5: destroy<br>either<br>vast<br>second<br>arm
-bip_39_word_new_br_6: destroy<br>either<br>vast<br>second<br>arm<br>hurt
-bip_39_word_new_br_7: destroy<br>either<br>vast<br>second<br>arm<br>hurt<br>crystal
-bip_39_word_new_br_8: destroy<br>either<br>vast<br>second<br>arm<br>hurt<br>crystal<br>network
-bip_39_word_new_br_9: destroy<br>either<br>vast<br>second<br>arm<br>hurt<br>crystal<br>network<br>common
-bip_39_word_new_line_1: destroy
-bip_39_word_new_line_10: 'destroy
-
-  either
-
-  vast
-
-  second
-
-  arm
-
-  hurt
-
-  crystal
-
-  network
-
-  common
-
-  person'
-bip_39_word_new_line_11: 'destroy
-
-  either
-
-  vast
-
-  second
-
-  arm
-
-  hurt
-
-  crystal
-
-  network
-
-  common
-
-  person
-
-  retire'
 bip_39_word_new_line_12: 'destroy
 
   either
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'destroy
   either
 
   vast'
-bip_39_word_new_line_4: 'destroy
-
-  either
-
-  vast
-
-  second'
-bip_39_word_new_line_5: 'destroy
-
-  either
-
-  vast
-
-  second
-
-  arm'
-bip_39_word_new_line_6: 'destroy
-
-  either
-
-  vast
-
-  second
-
-  arm
-
-  hurt'
-bip_39_word_new_line_7: 'destroy
-
-  either
-
-  vast
-
-  second
-
-  arm
-
-  hurt
-
-  crystal'
-bip_39_word_new_line_8: 'destroy
-
-  either
-
-  vast
-
-  second
-
-  arm
-
-  hurt
-
-  crystal
-
-  network'
-bip_39_word_new_line_9: 'destroy
-
-  either
-
-  vast
-
-  second
-
-  arm
-
-  hurt
-
-  crystal
-
-  network
-
-  common'
-bip_39_word_no_space_1: destroy
-bip_39_word_no_space_10: destroyeithervastsecondarmhurtcrystalnetworkcommonperson
-bip_39_word_no_space_11: destroyeithervastsecondarmhurtcrystalnetworkcommonpersonretire
 bip_39_word_no_space_12: destroyeithervastsecondarmhurtcrystalnetworkcommonpersonretireaudit
 bip_39_word_no_space_2: destroyeither
 bip_39_word_no_space_3: destroyeithervast
-bip_39_word_no_space_4: destroyeithervastsecond
-bip_39_word_no_space_5: destroyeithervastsecondarm
-bip_39_word_no_space_6: destroyeithervastsecondarmhurt
-bip_39_word_no_space_7: destroyeithervastsecondarmhurtcrystal
-bip_39_word_no_space_8: destroyeithervastsecondarmhurtcrystalnetwork
-bip_39_word_no_space_9: destroyeithervastsecondarmhurtcrystalnetworkcommon
-bip_39_word_space_0:
-- destroy
-- either
-- vast
-- second
-- arm
-- hurt
-- crystal
-- network
-- common
-- person
-- retire
-- audit
-bip_39_word_space_1: destroy
-bip_39_word_space_10: destroy either vast second arm hurt crystal network common person
-bip_39_word_space_11: destroy either vast second arm hurt crystal network common person
-  retire
 bip_39_word_space_12: destroy either vast second arm hurt crystal network common person
   retire audit
 bip_39_word_space_2: destroy either
 bip_39_word_space_3: destroy either vast
-bip_39_word_space_4: destroy either vast second
-bip_39_word_space_5: destroy either vast second arm
-bip_39_word_space_6: destroy either vast second arm hurt
-bip_39_word_space_7: destroy either vast second arm hurt crystal
-bip_39_word_space_8: destroy either vast second arm hurt crystal network
-bip_39_word_space_9: destroy either vast second arm hurt crystal network common
-bip_39_word_underscore_1: destroy
-bip_39_word_underscore_10: destroy_either_vast_second_arm_hurt_crystal_network_common_person
-bip_39_word_underscore_11: destroy_either_vast_second_arm_hurt_crystal_network_common_person_retire
 bip_39_word_underscore_12: destroy_either_vast_second_arm_hurt_crystal_network_common_person_retire_audit
 bip_39_word_underscore_2: destroy_either
 bip_39_word_underscore_3: destroy_either_vast
-bip_39_word_underscore_4: destroy_either_vast_second
-bip_39_word_underscore_5: destroy_either_vast_second_arm
-bip_39_word_underscore_6: destroy_either_vast_second_arm_hurt
-bip_39_word_underscore_7: destroy_either_vast_second_arm_hurt_crystal
-bip_39_word_underscore_8: destroy_either_vast_second_arm_hurt_crystal_network
-bip_39_word_underscore_9: destroy_either_vast_second_arm_hurt_crystal_network_common
 classification: project
 classification_capital: Project
 classification_first_letter: p

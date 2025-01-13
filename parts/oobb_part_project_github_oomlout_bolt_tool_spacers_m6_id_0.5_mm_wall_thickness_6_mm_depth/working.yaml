@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lion
-bip_39_word_dash_10: lion-this-okay-climb-screen-explain-ceiling-style-alien-resource
-bip_39_word_dash_11: lion-this-okay-climb-screen-explain-ceiling-style-alien-resource-royal
 bip_39_word_dash_12: lion-this-okay-climb-screen-explain-ceiling-style-alien-resource-royal-arch
 bip_39_word_dash_2: lion-this
 bip_39_word_dash_3: lion-this-okay
-bip_39_word_dash_4: lion-this-okay-climb
-bip_39_word_dash_5: lion-this-okay-climb-screen
-bip_39_word_dash_6: lion-this-okay-climb-screen-explain
-bip_39_word_dash_7: lion-this-okay-climb-screen-explain-ceiling
-bip_39_word_dash_8: lion-this-okay-climb-screen-explain-ceiling-style
-bip_39_word_dash_9: lion-this-okay-climb-screen-explain-ceiling-style-alien
-bip_39_word_new_br_1: lion
-bip_39_word_new_br_10: lion<br>this<br>okay<br>climb<br>screen<br>explain<br>ceiling<br>style<br>alien<br>resource
-bip_39_word_new_br_11: lion<br>this<br>okay<br>climb<br>screen<br>explain<br>ceiling<br>style<br>alien<br>resource<br>royal
 bip_39_word_new_br_12: lion<br>this<br>okay<br>climb<br>screen<br>explain<br>ceiling<br>style<br>alien<br>resource<br>royal<br>arch
 bip_39_word_new_br_2: lion<br>this
 bip_39_word_new_br_3: lion<br>this<br>okay
-bip_39_word_new_br_4: lion<br>this<br>okay<br>climb
-bip_39_word_new_br_5: lion<br>this<br>okay<br>climb<br>screen
-bip_39_word_new_br_6: lion<br>this<br>okay<br>climb<br>screen<br>explain
-bip_39_word_new_br_7: lion<br>this<br>okay<br>climb<br>screen<br>explain<br>ceiling
-bip_39_word_new_br_8: lion<br>this<br>okay<br>climb<br>screen<br>explain<br>ceiling<br>style
-bip_39_word_new_br_9: lion<br>this<br>okay<br>climb<br>screen<br>explain<br>ceiling<br>style<br>alien
-bip_39_word_new_line_1: lion
-bip_39_word_new_line_10: 'lion
-
-  this
-
-  okay
-
-  climb
-
-  screen
-
-  explain
-
-  ceiling
-
-  style
-
-  alien
-
-  resource'
-bip_39_word_new_line_11: 'lion
-
-  this
-
-  okay
-
-  climb
-
-  screen
-
-  explain
-
-  ceiling
-
-  style
-
-  alien
-
-  resource
-
-  royal'
 bip_39_word_new_line_12: 'lion
 
   this
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lion
   this
 
   okay'
-bip_39_word_new_line_4: 'lion
-
-  this
-
-  okay
-
-  climb'
-bip_39_word_new_line_5: 'lion
-
-  this
-
-  okay
-
-  climb
-
-  screen'
-bip_39_word_new_line_6: 'lion
-
-  this
-
-  okay
-
-  climb
-
-  screen
-
-  explain'
-bip_39_word_new_line_7: 'lion
-
-  this
-
-  okay
-
-  climb
-
-  screen
-
-  explain
-
-  ceiling'
-bip_39_word_new_line_8: 'lion
-
-  this
-
-  okay
-
-  climb
-
-  screen
-
-  explain
-
-  ceiling
-
-  style'
-bip_39_word_new_line_9: 'lion
-
-  this
-
-  okay
-
-  climb
-
-  screen
-
-  explain
-
-  ceiling
-
-  style
-
-  alien'
-bip_39_word_no_space_1: lion
-bip_39_word_no_space_10: lionthisokayclimbscreenexplainceilingstylealienresource
-bip_39_word_no_space_11: lionthisokayclimbscreenexplainceilingstylealienresourceroyal
 bip_39_word_no_space_12: lionthisokayclimbscreenexplainceilingstylealienresourceroyalarch
 bip_39_word_no_space_2: lionthis
 bip_39_word_no_space_3: lionthisokay
-bip_39_word_no_space_4: lionthisokayclimb
-bip_39_word_no_space_5: lionthisokayclimbscreen
-bip_39_word_no_space_6: lionthisokayclimbscreenexplain
-bip_39_word_no_space_7: lionthisokayclimbscreenexplainceiling
-bip_39_word_no_space_8: lionthisokayclimbscreenexplainceilingstyle
-bip_39_word_no_space_9: lionthisokayclimbscreenexplainceilingstylealien
-bip_39_word_space_0:
-- lion
-- this
-- okay
-- climb
-- screen
-- explain
-- ceiling
-- style
-- alien
-- resource
-- royal
-- arch
-bip_39_word_space_1: lion
-bip_39_word_space_10: lion this okay climb screen explain ceiling style alien resource
-bip_39_word_space_11: lion this okay climb screen explain ceiling style alien resource
-  royal
 bip_39_word_space_12: lion this okay climb screen explain ceiling style alien resource
   royal arch
 bip_39_word_space_2: lion this
 bip_39_word_space_3: lion this okay
-bip_39_word_space_4: lion this okay climb
-bip_39_word_space_5: lion this okay climb screen
-bip_39_word_space_6: lion this okay climb screen explain
-bip_39_word_space_7: lion this okay climb screen explain ceiling
-bip_39_word_space_8: lion this okay climb screen explain ceiling style
-bip_39_word_space_9: lion this okay climb screen explain ceiling style alien
-bip_39_word_underscore_1: lion
-bip_39_word_underscore_10: lion_this_okay_climb_screen_explain_ceiling_style_alien_resource
-bip_39_word_underscore_11: lion_this_okay_climb_screen_explain_ceiling_style_alien_resource_royal
 bip_39_word_underscore_12: lion_this_okay_climb_screen_explain_ceiling_style_alien_resource_royal_arch
 bip_39_word_underscore_2: lion_this
 bip_39_word_underscore_3: lion_this_okay
-bip_39_word_underscore_4: lion_this_okay_climb
-bip_39_word_underscore_5: lion_this_okay_climb_screen
-bip_39_word_underscore_6: lion_this_okay_climb_screen_explain
-bip_39_word_underscore_7: lion_this_okay_climb_screen_explain_ceiling
-bip_39_word_underscore_8: lion_this_okay_climb_screen_explain_ceiling_style
-bip_39_word_underscore_9: lion_this_okay_climb_screen_explain_ceiling_style_alien
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

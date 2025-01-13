@@ -1,68 +1,9 @@
-bip_39_word_dash_1: invest
-bip_39_word_dash_10: invest-train-feature-owner-clerk-limit-series-suggest-nature-doctor
-bip_39_word_dash_11: invest-train-feature-owner-clerk-limit-series-suggest-nature-doctor-budget
 bip_39_word_dash_12: invest-train-feature-owner-clerk-limit-series-suggest-nature-doctor-budget-artwork
 bip_39_word_dash_2: invest-train
 bip_39_word_dash_3: invest-train-feature
-bip_39_word_dash_4: invest-train-feature-owner
-bip_39_word_dash_5: invest-train-feature-owner-clerk
-bip_39_word_dash_6: invest-train-feature-owner-clerk-limit
-bip_39_word_dash_7: invest-train-feature-owner-clerk-limit-series
-bip_39_word_dash_8: invest-train-feature-owner-clerk-limit-series-suggest
-bip_39_word_dash_9: invest-train-feature-owner-clerk-limit-series-suggest-nature
-bip_39_word_new_br_1: invest
-bip_39_word_new_br_10: invest<br>train<br>feature<br>owner<br>clerk<br>limit<br>series<br>suggest<br>nature<br>doctor
-bip_39_word_new_br_11: invest<br>train<br>feature<br>owner<br>clerk<br>limit<br>series<br>suggest<br>nature<br>doctor<br>budget
 bip_39_word_new_br_12: invest<br>train<br>feature<br>owner<br>clerk<br>limit<br>series<br>suggest<br>nature<br>doctor<br>budget<br>artwork
 bip_39_word_new_br_2: invest<br>train
 bip_39_word_new_br_3: invest<br>train<br>feature
-bip_39_word_new_br_4: invest<br>train<br>feature<br>owner
-bip_39_word_new_br_5: invest<br>train<br>feature<br>owner<br>clerk
-bip_39_word_new_br_6: invest<br>train<br>feature<br>owner<br>clerk<br>limit
-bip_39_word_new_br_7: invest<br>train<br>feature<br>owner<br>clerk<br>limit<br>series
-bip_39_word_new_br_8: invest<br>train<br>feature<br>owner<br>clerk<br>limit<br>series<br>suggest
-bip_39_word_new_br_9: invest<br>train<br>feature<br>owner<br>clerk<br>limit<br>series<br>suggest<br>nature
-bip_39_word_new_line_1: invest
-bip_39_word_new_line_10: 'invest
-
-  train
-
-  feature
-
-  owner
-
-  clerk
-
-  limit
-
-  series
-
-  suggest
-
-  nature
-
-  doctor'
-bip_39_word_new_line_11: 'invest
-
-  train
-
-  feature
-
-  owner
-
-  clerk
-
-  limit
-
-  series
-
-  suggest
-
-  nature
-
-  doctor
-
-  budget'
 bip_39_word_new_line_12: 'invest
 
   train
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'invest
   train
 
   feature'
-bip_39_word_new_line_4: 'invest
-
-  train
-
-  feature
-
-  owner'
-bip_39_word_new_line_5: 'invest
-
-  train
-
-  feature
-
-  owner
-
-  clerk'
-bip_39_word_new_line_6: 'invest
-
-  train
-
-  feature
-
-  owner
-
-  clerk
-
-  limit'
-bip_39_word_new_line_7: 'invest
-
-  train
-
-  feature
-
-  owner
-
-  clerk
-
-  limit
-
-  series'
-bip_39_word_new_line_8: 'invest
-
-  train
-
-  feature
-
-  owner
-
-  clerk
-
-  limit
-
-  series
-
-  suggest'
-bip_39_word_new_line_9: 'invest
-
-  train
-
-  feature
-
-  owner
-
-  clerk
-
-  limit
-
-  series
-
-  suggest
-
-  nature'
-bip_39_word_no_space_1: invest
-bip_39_word_no_space_10: investtrainfeatureownerclerklimitseriessuggestnaturedoctor
-bip_39_word_no_space_11: investtrainfeatureownerclerklimitseriessuggestnaturedoctorbudget
 bip_39_word_no_space_12: investtrainfeatureownerclerklimitseriessuggestnaturedoctorbudgetartwork
 bip_39_word_no_space_2: investtrain
 bip_39_word_no_space_3: investtrainfeature
-bip_39_word_no_space_4: investtrainfeatureowner
-bip_39_word_no_space_5: investtrainfeatureownerclerk
-bip_39_word_no_space_6: investtrainfeatureownerclerklimit
-bip_39_word_no_space_7: investtrainfeatureownerclerklimitseries
-bip_39_word_no_space_8: investtrainfeatureownerclerklimitseriessuggest
-bip_39_word_no_space_9: investtrainfeatureownerclerklimitseriessuggestnature
-bip_39_word_space_0:
-- invest
-- train
-- feature
-- owner
-- clerk
-- limit
-- series
-- suggest
-- nature
-- doctor
-- budget
-- artwork
-bip_39_word_space_1: invest
-bip_39_word_space_10: invest train feature owner clerk limit series suggest nature
-  doctor
-bip_39_word_space_11: invest train feature owner clerk limit series suggest nature
-  doctor budget
 bip_39_word_space_12: invest train feature owner clerk limit series suggest nature
   doctor budget artwork
 bip_39_word_space_2: invest train
 bip_39_word_space_3: invest train feature
-bip_39_word_space_4: invest train feature owner
-bip_39_word_space_5: invest train feature owner clerk
-bip_39_word_space_6: invest train feature owner clerk limit
-bip_39_word_space_7: invest train feature owner clerk limit series
-bip_39_word_space_8: invest train feature owner clerk limit series suggest
-bip_39_word_space_9: invest train feature owner clerk limit series suggest nature
-bip_39_word_underscore_1: invest
-bip_39_word_underscore_10: invest_train_feature_owner_clerk_limit_series_suggest_nature_doctor
-bip_39_word_underscore_11: invest_train_feature_owner_clerk_limit_series_suggest_nature_doctor_budget
 bip_39_word_underscore_12: invest_train_feature_owner_clerk_limit_series_suggest_nature_doctor_budget_artwork
 bip_39_word_underscore_2: invest_train
 bip_39_word_underscore_3: invest_train_feature
-bip_39_word_underscore_4: invest_train_feature_owner
-bip_39_word_underscore_5: invest_train_feature_owner_clerk
-bip_39_word_underscore_6: invest_train_feature_owner_clerk_limit
-bip_39_word_underscore_7: invest_train_feature_owner_clerk_limit_series
-bip_39_word_underscore_8: invest_train_feature_owner_clerk_limit_series_suggest
-bip_39_word_underscore_9: invest_train_feature_owner_clerk_limit_series_suggest_nature
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

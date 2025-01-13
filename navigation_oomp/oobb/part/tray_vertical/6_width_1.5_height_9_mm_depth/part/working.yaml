@@ -1,68 +1,9 @@
-bip_39_word_dash_1: junk
-bip_39_word_dash_10: junk-answer-carpet-parrot-panic-walnut-stove-gate-sphere-flat
-bip_39_word_dash_11: junk-answer-carpet-parrot-panic-walnut-stove-gate-sphere-flat-family
 bip_39_word_dash_12: junk-answer-carpet-parrot-panic-walnut-stove-gate-sphere-flat-family-ahead
 bip_39_word_dash_2: junk-answer
 bip_39_word_dash_3: junk-answer-carpet
-bip_39_word_dash_4: junk-answer-carpet-parrot
-bip_39_word_dash_5: junk-answer-carpet-parrot-panic
-bip_39_word_dash_6: junk-answer-carpet-parrot-panic-walnut
-bip_39_word_dash_7: junk-answer-carpet-parrot-panic-walnut-stove
-bip_39_word_dash_8: junk-answer-carpet-parrot-panic-walnut-stove-gate
-bip_39_word_dash_9: junk-answer-carpet-parrot-panic-walnut-stove-gate-sphere
-bip_39_word_new_br_1: junk
-bip_39_word_new_br_10: junk<br>answer<br>carpet<br>parrot<br>panic<br>walnut<br>stove<br>gate<br>sphere<br>flat
-bip_39_word_new_br_11: junk<br>answer<br>carpet<br>parrot<br>panic<br>walnut<br>stove<br>gate<br>sphere<br>flat<br>family
 bip_39_word_new_br_12: junk<br>answer<br>carpet<br>parrot<br>panic<br>walnut<br>stove<br>gate<br>sphere<br>flat<br>family<br>ahead
 bip_39_word_new_br_2: junk<br>answer
 bip_39_word_new_br_3: junk<br>answer<br>carpet
-bip_39_word_new_br_4: junk<br>answer<br>carpet<br>parrot
-bip_39_word_new_br_5: junk<br>answer<br>carpet<br>parrot<br>panic
-bip_39_word_new_br_6: junk<br>answer<br>carpet<br>parrot<br>panic<br>walnut
-bip_39_word_new_br_7: junk<br>answer<br>carpet<br>parrot<br>panic<br>walnut<br>stove
-bip_39_word_new_br_8: junk<br>answer<br>carpet<br>parrot<br>panic<br>walnut<br>stove<br>gate
-bip_39_word_new_br_9: junk<br>answer<br>carpet<br>parrot<br>panic<br>walnut<br>stove<br>gate<br>sphere
-bip_39_word_new_line_1: junk
-bip_39_word_new_line_10: 'junk
-
-  answer
-
-  carpet
-
-  parrot
-
-  panic
-
-  walnut
-
-  stove
-
-  gate
-
-  sphere
-
-  flat'
-bip_39_word_new_line_11: 'junk
-
-  answer
-
-  carpet
-
-  parrot
-
-  panic
-
-  walnut
-
-  stove
-
-  gate
-
-  sphere
-
-  flat
-
-  family'
 bip_39_word_new_line_12: 'junk
 
   answer
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'junk
   answer
 
   carpet'
-bip_39_word_new_line_4: 'junk
-
-  answer
-
-  carpet
-
-  parrot'
-bip_39_word_new_line_5: 'junk
-
-  answer
-
-  carpet
-
-  parrot
-
-  panic'
-bip_39_word_new_line_6: 'junk
-
-  answer
-
-  carpet
-
-  parrot
-
-  panic
-
-  walnut'
-bip_39_word_new_line_7: 'junk
-
-  answer
-
-  carpet
-
-  parrot
-
-  panic
-
-  walnut
-
-  stove'
-bip_39_word_new_line_8: 'junk
-
-  answer
-
-  carpet
-
-  parrot
-
-  panic
-
-  walnut
-
-  stove
-
-  gate'
-bip_39_word_new_line_9: 'junk
-
-  answer
-
-  carpet
-
-  parrot
-
-  panic
-
-  walnut
-
-  stove
-
-  gate
-
-  sphere'
-bip_39_word_no_space_1: junk
-bip_39_word_no_space_10: junkanswercarpetparrotpanicwalnutstovegatesphereflat
-bip_39_word_no_space_11: junkanswercarpetparrotpanicwalnutstovegatesphereflatfamily
 bip_39_word_no_space_12: junkanswercarpetparrotpanicwalnutstovegatesphereflatfamilyahead
 bip_39_word_no_space_2: junkanswer
 bip_39_word_no_space_3: junkanswercarpet
-bip_39_word_no_space_4: junkanswercarpetparrot
-bip_39_word_no_space_5: junkanswercarpetparrotpanic
-bip_39_word_no_space_6: junkanswercarpetparrotpanicwalnut
-bip_39_word_no_space_7: junkanswercarpetparrotpanicwalnutstove
-bip_39_word_no_space_8: junkanswercarpetparrotpanicwalnutstovegate
-bip_39_word_no_space_9: junkanswercarpetparrotpanicwalnutstovegatesphere
-bip_39_word_space_0:
-- junk
-- answer
-- carpet
-- parrot
-- panic
-- walnut
-- stove
-- gate
-- sphere
-- flat
-- family
-- ahead
-bip_39_word_space_1: junk
-bip_39_word_space_10: junk answer carpet parrot panic walnut stove gate sphere flat
-bip_39_word_space_11: junk answer carpet parrot panic walnut stove gate sphere flat
-  family
 bip_39_word_space_12: junk answer carpet parrot panic walnut stove gate sphere flat
   family ahead
 bip_39_word_space_2: junk answer
 bip_39_word_space_3: junk answer carpet
-bip_39_word_space_4: junk answer carpet parrot
-bip_39_word_space_5: junk answer carpet parrot panic
-bip_39_word_space_6: junk answer carpet parrot panic walnut
-bip_39_word_space_7: junk answer carpet parrot panic walnut stove
-bip_39_word_space_8: junk answer carpet parrot panic walnut stove gate
-bip_39_word_space_9: junk answer carpet parrot panic walnut stove gate sphere
-bip_39_word_underscore_1: junk
-bip_39_word_underscore_10: junk_answer_carpet_parrot_panic_walnut_stove_gate_sphere_flat
-bip_39_word_underscore_11: junk_answer_carpet_parrot_panic_walnut_stove_gate_sphere_flat_family
 bip_39_word_underscore_12: junk_answer_carpet_parrot_panic_walnut_stove_gate_sphere_flat_family_ahead
 bip_39_word_underscore_2: junk_answer
 bip_39_word_underscore_3: junk_answer_carpet
-bip_39_word_underscore_4: junk_answer_carpet_parrot
-bip_39_word_underscore_5: junk_answer_carpet_parrot_panic
-bip_39_word_underscore_6: junk_answer_carpet_parrot_panic_walnut
-bip_39_word_underscore_7: junk_answer_carpet_parrot_panic_walnut_stove
-bip_39_word_underscore_8: junk_answer_carpet_parrot_panic_walnut_stove_gate
-bip_39_word_underscore_9: junk_answer_carpet_parrot_panic_walnut_stove_gate_sphere
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

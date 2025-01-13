@@ -1,68 +1,9 @@
-bip_39_word_dash_1: blood
-bip_39_word_dash_10: blood-end-flee-rifle-slush-victory-robust-strategy-flee-attend
-bip_39_word_dash_11: blood-end-flee-rifle-slush-victory-robust-strategy-flee-attend-kick
 bip_39_word_dash_12: blood-end-flee-rifle-slush-victory-robust-strategy-flee-attend-kick-alert
 bip_39_word_dash_2: blood-end
 bip_39_word_dash_3: blood-end-flee
-bip_39_word_dash_4: blood-end-flee-rifle
-bip_39_word_dash_5: blood-end-flee-rifle-slush
-bip_39_word_dash_6: blood-end-flee-rifle-slush-victory
-bip_39_word_dash_7: blood-end-flee-rifle-slush-victory-robust
-bip_39_word_dash_8: blood-end-flee-rifle-slush-victory-robust-strategy
-bip_39_word_dash_9: blood-end-flee-rifle-slush-victory-robust-strategy-flee
-bip_39_word_new_br_1: blood
-bip_39_word_new_br_10: blood<br>end<br>flee<br>rifle<br>slush<br>victory<br>robust<br>strategy<br>flee<br>attend
-bip_39_word_new_br_11: blood<br>end<br>flee<br>rifle<br>slush<br>victory<br>robust<br>strategy<br>flee<br>attend<br>kick
 bip_39_word_new_br_12: blood<br>end<br>flee<br>rifle<br>slush<br>victory<br>robust<br>strategy<br>flee<br>attend<br>kick<br>alert
 bip_39_word_new_br_2: blood<br>end
 bip_39_word_new_br_3: blood<br>end<br>flee
-bip_39_word_new_br_4: blood<br>end<br>flee<br>rifle
-bip_39_word_new_br_5: blood<br>end<br>flee<br>rifle<br>slush
-bip_39_word_new_br_6: blood<br>end<br>flee<br>rifle<br>slush<br>victory
-bip_39_word_new_br_7: blood<br>end<br>flee<br>rifle<br>slush<br>victory<br>robust
-bip_39_word_new_br_8: blood<br>end<br>flee<br>rifle<br>slush<br>victory<br>robust<br>strategy
-bip_39_word_new_br_9: blood<br>end<br>flee<br>rifle<br>slush<br>victory<br>robust<br>strategy<br>flee
-bip_39_word_new_line_1: blood
-bip_39_word_new_line_10: 'blood
-
-  end
-
-  flee
-
-  rifle
-
-  slush
-
-  victory
-
-  robust
-
-  strategy
-
-  flee
-
-  attend'
-bip_39_word_new_line_11: 'blood
-
-  end
-
-  flee
-
-  rifle
-
-  slush
-
-  victory
-
-  robust
-
-  strategy
-
-  flee
-
-  attend
-
-  kick'
 bip_39_word_new_line_12: 'blood
 
   end
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'blood
   end
 
   flee'
-bip_39_word_new_line_4: 'blood
-
-  end
-
-  flee
-
-  rifle'
-bip_39_word_new_line_5: 'blood
-
-  end
-
-  flee
-
-  rifle
-
-  slush'
-bip_39_word_new_line_6: 'blood
-
-  end
-
-  flee
-
-  rifle
-
-  slush
-
-  victory'
-bip_39_word_new_line_7: 'blood
-
-  end
-
-  flee
-
-  rifle
-
-  slush
-
-  victory
-
-  robust'
-bip_39_word_new_line_8: 'blood
-
-  end
-
-  flee
-
-  rifle
-
-  slush
-
-  victory
-
-  robust
-
-  strategy'
-bip_39_word_new_line_9: 'blood
-
-  end
-
-  flee
-
-  rifle
-
-  slush
-
-  victory
-
-  robust
-
-  strategy
-
-  flee'
-bip_39_word_no_space_1: blood
-bip_39_word_no_space_10: bloodendfleerifleslushvictoryrobuststrategyfleeattend
-bip_39_word_no_space_11: bloodendfleerifleslushvictoryrobuststrategyfleeattendkick
 bip_39_word_no_space_12: bloodendfleerifleslushvictoryrobuststrategyfleeattendkickalert
 bip_39_word_no_space_2: bloodend
 bip_39_word_no_space_3: bloodendflee
-bip_39_word_no_space_4: bloodendfleerifle
-bip_39_word_no_space_5: bloodendfleerifleslush
-bip_39_word_no_space_6: bloodendfleerifleslushvictory
-bip_39_word_no_space_7: bloodendfleerifleslushvictoryrobust
-bip_39_word_no_space_8: bloodendfleerifleslushvictoryrobuststrategy
-bip_39_word_no_space_9: bloodendfleerifleslushvictoryrobuststrategyflee
-bip_39_word_space_0:
-- blood
-- end
-- flee
-- rifle
-- slush
-- victory
-- robust
-- strategy
-- flee
-- attend
-- kick
-- alert
-bip_39_word_space_1: blood
-bip_39_word_space_10: blood end flee rifle slush victory robust strategy flee attend
-bip_39_word_space_11: blood end flee rifle slush victory robust strategy flee attend
-  kick
 bip_39_word_space_12: blood end flee rifle slush victory robust strategy flee attend
   kick alert
 bip_39_word_space_2: blood end
 bip_39_word_space_3: blood end flee
-bip_39_word_space_4: blood end flee rifle
-bip_39_word_space_5: blood end flee rifle slush
-bip_39_word_space_6: blood end flee rifle slush victory
-bip_39_word_space_7: blood end flee rifle slush victory robust
-bip_39_word_space_8: blood end flee rifle slush victory robust strategy
-bip_39_word_space_9: blood end flee rifle slush victory robust strategy flee
-bip_39_word_underscore_1: blood
-bip_39_word_underscore_10: blood_end_flee_rifle_slush_victory_robust_strategy_flee_attend
-bip_39_word_underscore_11: blood_end_flee_rifle_slush_victory_robust_strategy_flee_attend_kick
 bip_39_word_underscore_12: blood_end_flee_rifle_slush_victory_robust_strategy_flee_attend_kick_alert
 bip_39_word_underscore_2: blood_end
 bip_39_word_underscore_3: blood_end_flee
-bip_39_word_underscore_4: blood_end_flee_rifle
-bip_39_word_underscore_5: blood_end_flee_rifle_slush
-bip_39_word_underscore_6: blood_end_flee_rifle_slush_victory
-bip_39_word_underscore_7: blood_end_flee_rifle_slush_victory_robust
-bip_39_word_underscore_8: blood_end_flee_rifle_slush_victory_robust_strategy
-bip_39_word_underscore_9: blood_end_flee_rifle_slush_victory_robust_strategy_flee
 classification: category
 classification_capital: Category
 classification_first_letter: c

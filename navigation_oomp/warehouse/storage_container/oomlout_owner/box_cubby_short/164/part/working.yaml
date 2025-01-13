@@ -1,68 +1,9 @@
-bip_39_word_dash_1: derive
-bip_39_word_dash_10: derive-reject-return-coconut-coin-burger-cream-behave-maze-focus
-bip_39_word_dash_11: derive-reject-return-coconut-coin-burger-cream-behave-maze-focus-undo
 bip_39_word_dash_12: derive-reject-return-coconut-coin-burger-cream-behave-maze-focus-undo-airport
 bip_39_word_dash_2: derive-reject
 bip_39_word_dash_3: derive-reject-return
-bip_39_word_dash_4: derive-reject-return-coconut
-bip_39_word_dash_5: derive-reject-return-coconut-coin
-bip_39_word_dash_6: derive-reject-return-coconut-coin-burger
-bip_39_word_dash_7: derive-reject-return-coconut-coin-burger-cream
-bip_39_word_dash_8: derive-reject-return-coconut-coin-burger-cream-behave
-bip_39_word_dash_9: derive-reject-return-coconut-coin-burger-cream-behave-maze
-bip_39_word_new_br_1: derive
-bip_39_word_new_br_10: derive<br>reject<br>return<br>coconut<br>coin<br>burger<br>cream<br>behave<br>maze<br>focus
-bip_39_word_new_br_11: derive<br>reject<br>return<br>coconut<br>coin<br>burger<br>cream<br>behave<br>maze<br>focus<br>undo
 bip_39_word_new_br_12: derive<br>reject<br>return<br>coconut<br>coin<br>burger<br>cream<br>behave<br>maze<br>focus<br>undo<br>airport
 bip_39_word_new_br_2: derive<br>reject
 bip_39_word_new_br_3: derive<br>reject<br>return
-bip_39_word_new_br_4: derive<br>reject<br>return<br>coconut
-bip_39_word_new_br_5: derive<br>reject<br>return<br>coconut<br>coin
-bip_39_word_new_br_6: derive<br>reject<br>return<br>coconut<br>coin<br>burger
-bip_39_word_new_br_7: derive<br>reject<br>return<br>coconut<br>coin<br>burger<br>cream
-bip_39_word_new_br_8: derive<br>reject<br>return<br>coconut<br>coin<br>burger<br>cream<br>behave
-bip_39_word_new_br_9: derive<br>reject<br>return<br>coconut<br>coin<br>burger<br>cream<br>behave<br>maze
-bip_39_word_new_line_1: derive
-bip_39_word_new_line_10: 'derive
-
-  reject
-
-  return
-
-  coconut
-
-  coin
-
-  burger
-
-  cream
-
-  behave
-
-  maze
-
-  focus'
-bip_39_word_new_line_11: 'derive
-
-  reject
-
-  return
-
-  coconut
-
-  coin
-
-  burger
-
-  cream
-
-  behave
-
-  maze
-
-  focus
-
-  undo'
 bip_39_word_new_line_12: 'derive
 
   reject
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'derive
   reject
 
   return'
-bip_39_word_new_line_4: 'derive
-
-  reject
-
-  return
-
-  coconut'
-bip_39_word_new_line_5: 'derive
-
-  reject
-
-  return
-
-  coconut
-
-  coin'
-bip_39_word_new_line_6: 'derive
-
-  reject
-
-  return
-
-  coconut
-
-  coin
-
-  burger'
-bip_39_word_new_line_7: 'derive
-
-  reject
-
-  return
-
-  coconut
-
-  coin
-
-  burger
-
-  cream'
-bip_39_word_new_line_8: 'derive
-
-  reject
-
-  return
-
-  coconut
-
-  coin
-
-  burger
-
-  cream
-
-  behave'
-bip_39_word_new_line_9: 'derive
-
-  reject
-
-  return
-
-  coconut
-
-  coin
-
-  burger
-
-  cream
-
-  behave
-
-  maze'
-bip_39_word_no_space_1: derive
-bip_39_word_no_space_10: deriverejectreturncoconutcoinburgercreambehavemazefocus
-bip_39_word_no_space_11: deriverejectreturncoconutcoinburgercreambehavemazefocusundo
 bip_39_word_no_space_12: deriverejectreturncoconutcoinburgercreambehavemazefocusundoairport
 bip_39_word_no_space_2: derivereject
 bip_39_word_no_space_3: deriverejectreturn
-bip_39_word_no_space_4: deriverejectreturncoconut
-bip_39_word_no_space_5: deriverejectreturncoconutcoin
-bip_39_word_no_space_6: deriverejectreturncoconutcoinburger
-bip_39_word_no_space_7: deriverejectreturncoconutcoinburgercream
-bip_39_word_no_space_8: deriverejectreturncoconutcoinburgercreambehave
-bip_39_word_no_space_9: deriverejectreturncoconutcoinburgercreambehavemaze
-bip_39_word_space_0:
-- derive
-- reject
-- return
-- coconut
-- coin
-- burger
-- cream
-- behave
-- maze
-- focus
-- undo
-- airport
-bip_39_word_space_1: derive
-bip_39_word_space_10: derive reject return coconut coin burger cream behave maze focus
-bip_39_word_space_11: derive reject return coconut coin burger cream behave maze focus
-  undo
 bip_39_word_space_12: derive reject return coconut coin burger cream behave maze focus
   undo airport
 bip_39_word_space_2: derive reject
 bip_39_word_space_3: derive reject return
-bip_39_word_space_4: derive reject return coconut
-bip_39_word_space_5: derive reject return coconut coin
-bip_39_word_space_6: derive reject return coconut coin burger
-bip_39_word_space_7: derive reject return coconut coin burger cream
-bip_39_word_space_8: derive reject return coconut coin burger cream behave
-bip_39_word_space_9: derive reject return coconut coin burger cream behave maze
-bip_39_word_underscore_1: derive
-bip_39_word_underscore_10: derive_reject_return_coconut_coin_burger_cream_behave_maze_focus
-bip_39_word_underscore_11: derive_reject_return_coconut_coin_burger_cream_behave_maze_focus_undo
 bip_39_word_underscore_12: derive_reject_return_coconut_coin_burger_cream_behave_maze_focus_undo_airport
 bip_39_word_underscore_2: derive_reject
 bip_39_word_underscore_3: derive_reject_return
-bip_39_word_underscore_4: derive_reject_return_coconut
-bip_39_word_underscore_5: derive_reject_return_coconut_coin
-bip_39_word_underscore_6: derive_reject_return_coconut_coin_burger
-bip_39_word_underscore_7: derive_reject_return_coconut_coin_burger_cream
-bip_39_word_underscore_8: derive_reject_return_coconut_coin_burger_cream_behave
-bip_39_word_underscore_9: derive_reject_return_coconut_coin_burger_cream_behave_maze
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

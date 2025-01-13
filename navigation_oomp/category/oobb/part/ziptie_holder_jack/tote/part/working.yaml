@@ -1,45 +1,9 @@
-bip_39_word_dash_1: error
-bip_39_word_dash_10: error-sample-camera-tide-lumber-book-snack-sudden-shove-shiver
 bip_39_word_dash_11: error-sample-camera-tide-lumber-book-snack-sudden-shove-shiver-power
 bip_39_word_dash_2: error-sample
 bip_39_word_dash_3: error-sample-camera
-bip_39_word_dash_4: error-sample-camera-tide
-bip_39_word_dash_5: error-sample-camera-tide-lumber
-bip_39_word_dash_6: error-sample-camera-tide-lumber-book
-bip_39_word_dash_7: error-sample-camera-tide-lumber-book-snack
-bip_39_word_dash_8: error-sample-camera-tide-lumber-book-snack-sudden
-bip_39_word_dash_9: error-sample-camera-tide-lumber-book-snack-sudden-shove
-bip_39_word_new_br_1: error
-bip_39_word_new_br_10: error<br>sample<br>camera<br>tide<br>lumber<br>book<br>snack<br>sudden<br>shove<br>shiver
 bip_39_word_new_br_11: error<br>sample<br>camera<br>tide<br>lumber<br>book<br>snack<br>sudden<br>shove<br>shiver<br>power
 bip_39_word_new_br_2: error<br>sample
 bip_39_word_new_br_3: error<br>sample<br>camera
-bip_39_word_new_br_4: error<br>sample<br>camera<br>tide
-bip_39_word_new_br_5: error<br>sample<br>camera<br>tide<br>lumber
-bip_39_word_new_br_6: error<br>sample<br>camera<br>tide<br>lumber<br>book
-bip_39_word_new_br_7: error<br>sample<br>camera<br>tide<br>lumber<br>book<br>snack
-bip_39_word_new_br_8: error<br>sample<br>camera<br>tide<br>lumber<br>book<br>snack<br>sudden
-bip_39_word_new_br_9: error<br>sample<br>camera<br>tide<br>lumber<br>book<br>snack<br>sudden<br>shove
-bip_39_word_new_line_1: error
-bip_39_word_new_line_10: 'error
-
-  sample
-
-  camera
-
-  tide
-
-  lumber
-
-  book
-
-  snack
-
-  sudden
-
-  shove
-
-  shiver'
 bip_39_word_new_line_11: 'error
 
   sample
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'error
   sample
 
   camera'
-bip_39_word_new_line_4: 'error
-
-  sample
-
-  camera
-
-  tide'
-bip_39_word_new_line_5: 'error
-
-  sample
-
-  camera
-
-  tide
-
-  lumber'
-bip_39_word_new_line_6: 'error
-
-  sample
-
-  camera
-
-  tide
-
-  lumber
-
-  book'
-bip_39_word_new_line_7: 'error
-
-  sample
-
-  camera
-
-  tide
-
-  lumber
-
-  book
-
-  snack'
-bip_39_word_new_line_8: 'error
-
-  sample
-
-  camera
-
-  tide
-
-  lumber
-
-  book
-
-  snack
-
-  sudden'
-bip_39_word_new_line_9: 'error
-
-  sample
-
-  camera
-
-  tide
-
-  lumber
-
-  book
-
-  snack
-
-  sudden
-
-  shove'
-bip_39_word_no_space_1: error
-bip_39_word_no_space_10: errorsamplecameratidelumberbooksnacksuddenshoveshiver
 bip_39_word_no_space_11: errorsamplecameratidelumberbooksnacksuddenshoveshiverpower
 bip_39_word_no_space_2: errorsample
 bip_39_word_no_space_3: errorsamplecamera
-bip_39_word_no_space_4: errorsamplecameratide
-bip_39_word_no_space_5: errorsamplecameratidelumber
-bip_39_word_no_space_6: errorsamplecameratidelumberbook
-bip_39_word_no_space_7: errorsamplecameratidelumberbooksnack
-bip_39_word_no_space_8: errorsamplecameratidelumberbooksnacksudden
-bip_39_word_no_space_9: errorsamplecameratidelumberbooksnacksuddenshove
-bip_39_word_space_0:
-- error
-- sample
-- camera
-- tide
-- lumber
-- book
-- snack
-- sudden
-- shove
-- shiver
-- power
-bip_39_word_space_1: error
-bip_39_word_space_10: error sample camera tide lumber book snack sudden shove shiver
 bip_39_word_space_11: error sample camera tide lumber book snack sudden shove shiver
   power
 bip_39_word_space_2: error sample
 bip_39_word_space_3: error sample camera
-bip_39_word_space_4: error sample camera tide
-bip_39_word_space_5: error sample camera tide lumber
-bip_39_word_space_6: error sample camera tide lumber book
-bip_39_word_space_7: error sample camera tide lumber book snack
-bip_39_word_space_8: error sample camera tide lumber book snack sudden
-bip_39_word_space_9: error sample camera tide lumber book snack sudden shove
-bip_39_word_underscore_1: error
-bip_39_word_underscore_10: error_sample_camera_tide_lumber_book_snack_sudden_shove_shiver
 bip_39_word_underscore_11: error_sample_camera_tide_lumber_book_snack_sudden_shove_shiver_power
 bip_39_word_underscore_2: error_sample
 bip_39_word_underscore_3: error_sample_camera
-bip_39_word_underscore_4: error_sample_camera_tide
-bip_39_word_underscore_5: error_sample_camera_tide_lumber
-bip_39_word_underscore_6: error_sample_camera_tide_lumber_book
-bip_39_word_underscore_7: error_sample_camera_tide_lumber_book_snack
-bip_39_word_underscore_8: error_sample_camera_tide_lumber_book_snack_sudden
-bip_39_word_underscore_9: error_sample_camera_tide_lumber_book_snack_sudden_shove
 classification: category
 classification_capital: Category
 classification_first_letter: c

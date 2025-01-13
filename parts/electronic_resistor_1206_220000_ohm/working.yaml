@@ -1,68 +1,9 @@
-bip_39_word_dash_1: doctor
-bip_39_word_dash_10: doctor-good-later-mimic-upset-soda-kite-swim-expose-peace
-bip_39_word_dash_11: doctor-good-later-mimic-upset-soda-kite-swim-expose-peace-keen
 bip_39_word_dash_12: doctor-good-later-mimic-upset-soda-kite-swim-expose-peace-keen-analyst
 bip_39_word_dash_2: doctor-good
 bip_39_word_dash_3: doctor-good-later
-bip_39_word_dash_4: doctor-good-later-mimic
-bip_39_word_dash_5: doctor-good-later-mimic-upset
-bip_39_word_dash_6: doctor-good-later-mimic-upset-soda
-bip_39_word_dash_7: doctor-good-later-mimic-upset-soda-kite
-bip_39_word_dash_8: doctor-good-later-mimic-upset-soda-kite-swim
-bip_39_word_dash_9: doctor-good-later-mimic-upset-soda-kite-swim-expose
-bip_39_word_new_br_1: doctor
-bip_39_word_new_br_10: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace
-bip_39_word_new_br_11: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace<br>keen
 bip_39_word_new_br_12: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace<br>keen<br>analyst
 bip_39_word_new_br_2: doctor<br>good
 bip_39_word_new_br_3: doctor<br>good<br>later
-bip_39_word_new_br_4: doctor<br>good<br>later<br>mimic
-bip_39_word_new_br_5: doctor<br>good<br>later<br>mimic<br>upset
-bip_39_word_new_br_6: doctor<br>good<br>later<br>mimic<br>upset<br>soda
-bip_39_word_new_br_7: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite
-bip_39_word_new_br_8: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim
-bip_39_word_new_br_9: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose
-bip_39_word_new_line_1: doctor
-bip_39_word_new_line_10: 'doctor
-
-  good
-
-  later
-
-  mimic
-
-  upset
-
-  soda
-
-  kite
-
-  swim
-
-  expose
-
-  peace'
-bip_39_word_new_line_11: 'doctor
-
-  good
-
-  later
-
-  mimic
-
-  upset
-
-  soda
-
-  kite
-
-  swim
-
-  expose
-
-  peace
-
-  keen'
 bip_39_word_new_line_12: 'doctor
 
   good
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'doctor
   good
 
   later'
-bip_39_word_new_line_4: 'doctor
-
-  good
-
-  later
-
-  mimic'
-bip_39_word_new_line_5: 'doctor
-
-  good
-
-  later
-
-  mimic
-
-  upset'
-bip_39_word_new_line_6: 'doctor
-
-  good
-
-  later
-
-  mimic
-
-  upset
-
-  soda'
-bip_39_word_new_line_7: 'doctor
-
-  good
-
-  later
-
-  mimic
-
-  upset
-
-  soda
-
-  kite'
-bip_39_word_new_line_8: 'doctor
-
-  good
-
-  later
-
-  mimic
-
-  upset
-
-  soda
-
-  kite
-
-  swim'
-bip_39_word_new_line_9: 'doctor
-
-  good
-
-  later
-
-  mimic
-
-  upset
-
-  soda
-
-  kite
-
-  swim
-
-  expose'
-bip_39_word_no_space_1: doctor
-bip_39_word_no_space_10: doctorgoodlatermimicupsetsodakiteswimexposepeace
-bip_39_word_no_space_11: doctorgoodlatermimicupsetsodakiteswimexposepeacekeen
 bip_39_word_no_space_12: doctorgoodlatermimicupsetsodakiteswimexposepeacekeenanalyst
 bip_39_word_no_space_2: doctorgood
 bip_39_word_no_space_3: doctorgoodlater
-bip_39_word_no_space_4: doctorgoodlatermimic
-bip_39_word_no_space_5: doctorgoodlatermimicupset
-bip_39_word_no_space_6: doctorgoodlatermimicupsetsoda
-bip_39_word_no_space_7: doctorgoodlatermimicupsetsodakite
-bip_39_word_no_space_8: doctorgoodlatermimicupsetsodakiteswim
-bip_39_word_no_space_9: doctorgoodlatermimicupsetsodakiteswimexpose
-bip_39_word_space_0:
-- doctor
-- good
-- later
-- mimic
-- upset
-- soda
-- kite
-- swim
-- expose
-- peace
-- keen
-- analyst
-bip_39_word_space_1: doctor
-bip_39_word_space_10: doctor good later mimic upset soda kite swim expose peace
-bip_39_word_space_11: doctor good later mimic upset soda kite swim expose peace keen
 bip_39_word_space_12: doctor good later mimic upset soda kite swim expose peace keen
   analyst
 bip_39_word_space_2: doctor good
 bip_39_word_space_3: doctor good later
-bip_39_word_space_4: doctor good later mimic
-bip_39_word_space_5: doctor good later mimic upset
-bip_39_word_space_6: doctor good later mimic upset soda
-bip_39_word_space_7: doctor good later mimic upset soda kite
-bip_39_word_space_8: doctor good later mimic upset soda kite swim
-bip_39_word_space_9: doctor good later mimic upset soda kite swim expose
-bip_39_word_underscore_1: doctor
-bip_39_word_underscore_10: doctor_good_later_mimic_upset_soda_kite_swim_expose_peace
-bip_39_word_underscore_11: doctor_good_later_mimic_upset_soda_kite_swim_expose_peace_keen
 bip_39_word_underscore_12: doctor_good_later_mimic_upset_soda_kite_swim_expose_peace_keen_analyst
 bip_39_word_underscore_2: doctor_good
 bip_39_word_underscore_3: doctor_good_later
-bip_39_word_underscore_4: doctor_good_later_mimic
-bip_39_word_underscore_5: doctor_good_later_mimic_upset
-bip_39_word_underscore_6: doctor_good_later_mimic_upset_soda
-bip_39_word_underscore_7: doctor_good_later_mimic_upset_soda_kite
-bip_39_word_underscore_8: doctor_good_later_mimic_upset_soda_kite_swim
-bip_39_word_underscore_9: doctor_good_later_mimic_upset_soda_kite_swim_expose
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

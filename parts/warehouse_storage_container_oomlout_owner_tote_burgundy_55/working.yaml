@@ -1,68 +1,9 @@
-bip_39_word_dash_1: payment
-bip_39_word_dash_10: payment-sugar-depend-plunge-trick-trip-typical-help-lawn-kick
-bip_39_word_dash_11: payment-sugar-depend-plunge-trick-trip-typical-help-lawn-kick-episode
 bip_39_word_dash_12: payment-sugar-depend-plunge-trick-trip-typical-help-lawn-kick-episode-ahead
 bip_39_word_dash_2: payment-sugar
 bip_39_word_dash_3: payment-sugar-depend
-bip_39_word_dash_4: payment-sugar-depend-plunge
-bip_39_word_dash_5: payment-sugar-depend-plunge-trick
-bip_39_word_dash_6: payment-sugar-depend-plunge-trick-trip
-bip_39_word_dash_7: payment-sugar-depend-plunge-trick-trip-typical
-bip_39_word_dash_8: payment-sugar-depend-plunge-trick-trip-typical-help
-bip_39_word_dash_9: payment-sugar-depend-plunge-trick-trip-typical-help-lawn
-bip_39_word_new_br_1: payment
-bip_39_word_new_br_10: payment<br>sugar<br>depend<br>plunge<br>trick<br>trip<br>typical<br>help<br>lawn<br>kick
-bip_39_word_new_br_11: payment<br>sugar<br>depend<br>plunge<br>trick<br>trip<br>typical<br>help<br>lawn<br>kick<br>episode
 bip_39_word_new_br_12: payment<br>sugar<br>depend<br>plunge<br>trick<br>trip<br>typical<br>help<br>lawn<br>kick<br>episode<br>ahead
 bip_39_word_new_br_2: payment<br>sugar
 bip_39_word_new_br_3: payment<br>sugar<br>depend
-bip_39_word_new_br_4: payment<br>sugar<br>depend<br>plunge
-bip_39_word_new_br_5: payment<br>sugar<br>depend<br>plunge<br>trick
-bip_39_word_new_br_6: payment<br>sugar<br>depend<br>plunge<br>trick<br>trip
-bip_39_word_new_br_7: payment<br>sugar<br>depend<br>plunge<br>trick<br>trip<br>typical
-bip_39_word_new_br_8: payment<br>sugar<br>depend<br>plunge<br>trick<br>trip<br>typical<br>help
-bip_39_word_new_br_9: payment<br>sugar<br>depend<br>plunge<br>trick<br>trip<br>typical<br>help<br>lawn
-bip_39_word_new_line_1: payment
-bip_39_word_new_line_10: 'payment
-
-  sugar
-
-  depend
-
-  plunge
-
-  trick
-
-  trip
-
-  typical
-
-  help
-
-  lawn
-
-  kick'
-bip_39_word_new_line_11: 'payment
-
-  sugar
-
-  depend
-
-  plunge
-
-  trick
-
-  trip
-
-  typical
-
-  help
-
-  lawn
-
-  kick
-
-  episode'
 bip_39_word_new_line_12: 'payment
 
   sugar
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'payment
   sugar
 
   depend'
-bip_39_word_new_line_4: 'payment
-
-  sugar
-
-  depend
-
-  plunge'
-bip_39_word_new_line_5: 'payment
-
-  sugar
-
-  depend
-
-  plunge
-
-  trick'
-bip_39_word_new_line_6: 'payment
-
-  sugar
-
-  depend
-
-  plunge
-
-  trick
-
-  trip'
-bip_39_word_new_line_7: 'payment
-
-  sugar
-
-  depend
-
-  plunge
-
-  trick
-
-  trip
-
-  typical'
-bip_39_word_new_line_8: 'payment
-
-  sugar
-
-  depend
-
-  plunge
-
-  trick
-
-  trip
-
-  typical
-
-  help'
-bip_39_word_new_line_9: 'payment
-
-  sugar
-
-  depend
-
-  plunge
-
-  trick
-
-  trip
-
-  typical
-
-  help
-
-  lawn'
-bip_39_word_no_space_1: payment
-bip_39_word_no_space_10: paymentsugardependplungetricktriptypicalhelplawnkick
-bip_39_word_no_space_11: paymentsugardependplungetricktriptypicalhelplawnkickepisode
 bip_39_word_no_space_12: paymentsugardependplungetricktriptypicalhelplawnkickepisodeahead
 bip_39_word_no_space_2: paymentsugar
 bip_39_word_no_space_3: paymentsugardepend
-bip_39_word_no_space_4: paymentsugardependplunge
-bip_39_word_no_space_5: paymentsugardependplungetrick
-bip_39_word_no_space_6: paymentsugardependplungetricktrip
-bip_39_word_no_space_7: paymentsugardependplungetricktriptypical
-bip_39_word_no_space_8: paymentsugardependplungetricktriptypicalhelp
-bip_39_word_no_space_9: paymentsugardependplungetricktriptypicalhelplawn
-bip_39_word_space_0:
-- payment
-- sugar
-- depend
-- plunge
-- trick
-- trip
-- typical
-- help
-- lawn
-- kick
-- episode
-- ahead
-bip_39_word_space_1: payment
-bip_39_word_space_10: payment sugar depend plunge trick trip typical help lawn kick
-bip_39_word_space_11: payment sugar depend plunge trick trip typical help lawn kick
-  episode
 bip_39_word_space_12: payment sugar depend plunge trick trip typical help lawn kick
   episode ahead
 bip_39_word_space_2: payment sugar
 bip_39_word_space_3: payment sugar depend
-bip_39_word_space_4: payment sugar depend plunge
-bip_39_word_space_5: payment sugar depend plunge trick
-bip_39_word_space_6: payment sugar depend plunge trick trip
-bip_39_word_space_7: payment sugar depend plunge trick trip typical
-bip_39_word_space_8: payment sugar depend plunge trick trip typical help
-bip_39_word_space_9: payment sugar depend plunge trick trip typical help lawn
-bip_39_word_underscore_1: payment
-bip_39_word_underscore_10: payment_sugar_depend_plunge_trick_trip_typical_help_lawn_kick
-bip_39_word_underscore_11: payment_sugar_depend_plunge_trick_trip_typical_help_lawn_kick_episode
 bip_39_word_underscore_12: payment_sugar_depend_plunge_trick_trip_typical_help_lawn_kick_episode_ahead
 bip_39_word_underscore_2: payment_sugar
 bip_39_word_underscore_3: payment_sugar_depend
-bip_39_word_underscore_4: payment_sugar_depend_plunge
-bip_39_word_underscore_5: payment_sugar_depend_plunge_trick
-bip_39_word_underscore_6: payment_sugar_depend_plunge_trick_trip
-bip_39_word_underscore_7: payment_sugar_depend_plunge_trick_trip_typical
-bip_39_word_underscore_8: payment_sugar_depend_plunge_trick_trip_typical_help
-bip_39_word_underscore_9: payment_sugar_depend_plunge_trick_trip_typical_help_lawn
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

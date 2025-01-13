@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glue
-bip_39_word_dash_10: glue-visa-frost-slice-nurse-broccoli-sing-cradle-park-index
-bip_39_word_dash_11: glue-visa-frost-slice-nurse-broccoli-sing-cradle-park-index-pudding
 bip_39_word_dash_12: glue-visa-frost-slice-nurse-broccoli-sing-cradle-park-index-pudding-admit
 bip_39_word_dash_2: glue-visa
 bip_39_word_dash_3: glue-visa-frost
-bip_39_word_dash_4: glue-visa-frost-slice
-bip_39_word_dash_5: glue-visa-frost-slice-nurse
-bip_39_word_dash_6: glue-visa-frost-slice-nurse-broccoli
-bip_39_word_dash_7: glue-visa-frost-slice-nurse-broccoli-sing
-bip_39_word_dash_8: glue-visa-frost-slice-nurse-broccoli-sing-cradle
-bip_39_word_dash_9: glue-visa-frost-slice-nurse-broccoli-sing-cradle-park
-bip_39_word_new_br_1: glue
-bip_39_word_new_br_10: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index
-bip_39_word_new_br_11: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index<br>pudding
 bip_39_word_new_br_12: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park<br>index<br>pudding<br>admit
 bip_39_word_new_br_2: glue<br>visa
 bip_39_word_new_br_3: glue<br>visa<br>frost
-bip_39_word_new_br_4: glue<br>visa<br>frost<br>slice
-bip_39_word_new_br_5: glue<br>visa<br>frost<br>slice<br>nurse
-bip_39_word_new_br_6: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli
-bip_39_word_new_br_7: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing
-bip_39_word_new_br_8: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle
-bip_39_word_new_br_9: glue<br>visa<br>frost<br>slice<br>nurse<br>broccoli<br>sing<br>cradle<br>park
-bip_39_word_new_line_1: glue
-bip_39_word_new_line_10: 'glue
-
-  visa
-
-  frost
-
-  slice
-
-  nurse
-
-  broccoli
-
-  sing
-
-  cradle
-
-  park
-
-  index'
-bip_39_word_new_line_11: 'glue
-
-  visa
-
-  frost
-
-  slice
-
-  nurse
-
-  broccoli
-
-  sing
-
-  cradle
-
-  park
-
-  index
-
-  pudding'
 bip_39_word_new_line_12: 'glue
 
   visa
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'glue
   visa
 
   frost'
-bip_39_word_new_line_4: 'glue
-
-  visa
-
-  frost
-
-  slice'
-bip_39_word_new_line_5: 'glue
-
-  visa
-
-  frost
-
-  slice
-
-  nurse'
-bip_39_word_new_line_6: 'glue
-
-  visa
-
-  frost
-
-  slice
-
-  nurse
-
-  broccoli'
-bip_39_word_new_line_7: 'glue
-
-  visa
-
-  frost
-
-  slice
-
-  nurse
-
-  broccoli
-
-  sing'
-bip_39_word_new_line_8: 'glue
-
-  visa
-
-  frost
-
-  slice
-
-  nurse
-
-  broccoli
-
-  sing
-
-  cradle'
-bip_39_word_new_line_9: 'glue
-
-  visa
-
-  frost
-
-  slice
-
-  nurse
-
-  broccoli
-
-  sing
-
-  cradle
-
-  park'
-bip_39_word_no_space_1: glue
-bip_39_word_no_space_10: gluevisafrostslicenursebroccolisingcradleparkindex
-bip_39_word_no_space_11: gluevisafrostslicenursebroccolisingcradleparkindexpudding
 bip_39_word_no_space_12: gluevisafrostslicenursebroccolisingcradleparkindexpuddingadmit
 bip_39_word_no_space_2: gluevisa
 bip_39_word_no_space_3: gluevisafrost
-bip_39_word_no_space_4: gluevisafrostslice
-bip_39_word_no_space_5: gluevisafrostslicenurse
-bip_39_word_no_space_6: gluevisafrostslicenursebroccoli
-bip_39_word_no_space_7: gluevisafrostslicenursebroccolising
-bip_39_word_no_space_8: gluevisafrostslicenursebroccolisingcradle
-bip_39_word_no_space_9: gluevisafrostslicenursebroccolisingcradlepark
-bip_39_word_space_0:
-- glue
-- visa
-- frost
-- slice
-- nurse
-- broccoli
-- sing
-- cradle
-- park
-- index
-- pudding
-- admit
-bip_39_word_space_1: glue
-bip_39_word_space_10: glue visa frost slice nurse broccoli sing cradle park index
-bip_39_word_space_11: glue visa frost slice nurse broccoli sing cradle park index
-  pudding
 bip_39_word_space_12: glue visa frost slice nurse broccoli sing cradle park index
   pudding admit
 bip_39_word_space_2: glue visa
 bip_39_word_space_3: glue visa frost
-bip_39_word_space_4: glue visa frost slice
-bip_39_word_space_5: glue visa frost slice nurse
-bip_39_word_space_6: glue visa frost slice nurse broccoli
-bip_39_word_space_7: glue visa frost slice nurse broccoli sing
-bip_39_word_space_8: glue visa frost slice nurse broccoli sing cradle
-bip_39_word_space_9: glue visa frost slice nurse broccoli sing cradle park
-bip_39_word_underscore_1: glue
-bip_39_word_underscore_10: glue_visa_frost_slice_nurse_broccoli_sing_cradle_park_index
-bip_39_word_underscore_11: glue_visa_frost_slice_nurse_broccoli_sing_cradle_park_index_pudding
 bip_39_word_underscore_12: glue_visa_frost_slice_nurse_broccoli_sing_cradle_park_index_pudding_admit
 bip_39_word_underscore_2: glue_visa
 bip_39_word_underscore_3: glue_visa_frost
-bip_39_word_underscore_4: glue_visa_frost_slice
-bip_39_word_underscore_5: glue_visa_frost_slice_nurse
-bip_39_word_underscore_6: glue_visa_frost_slice_nurse_broccoli
-bip_39_word_underscore_7: glue_visa_frost_slice_nurse_broccoli_sing
-bip_39_word_underscore_8: glue_visa_frost_slice_nurse_broccoli_sing_cradle
-bip_39_word_underscore_9: glue_visa_frost_slice_nurse_broccoli_sing_cradle_park
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

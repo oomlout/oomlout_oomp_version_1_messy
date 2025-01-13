@@ -1,68 +1,9 @@
-bip_39_word_dash_1: depart
-bip_39_word_dash_10: depart-turn-embark-grain-gadget-cook-elevator-velvet-awesome-then
-bip_39_word_dash_11: depart-turn-embark-grain-gadget-cook-elevator-velvet-awesome-then-apology
 bip_39_word_dash_12: depart-turn-embark-grain-gadget-cook-elevator-velvet-awesome-then-apology-answer
 bip_39_word_dash_2: depart-turn
 bip_39_word_dash_3: depart-turn-embark
-bip_39_word_dash_4: depart-turn-embark-grain
-bip_39_word_dash_5: depart-turn-embark-grain-gadget
-bip_39_word_dash_6: depart-turn-embark-grain-gadget-cook
-bip_39_word_dash_7: depart-turn-embark-grain-gadget-cook-elevator
-bip_39_word_dash_8: depart-turn-embark-grain-gadget-cook-elevator-velvet
-bip_39_word_dash_9: depart-turn-embark-grain-gadget-cook-elevator-velvet-awesome
-bip_39_word_new_br_1: depart
-bip_39_word_new_br_10: depart<br>turn<br>embark<br>grain<br>gadget<br>cook<br>elevator<br>velvet<br>awesome<br>then
-bip_39_word_new_br_11: depart<br>turn<br>embark<br>grain<br>gadget<br>cook<br>elevator<br>velvet<br>awesome<br>then<br>apology
 bip_39_word_new_br_12: depart<br>turn<br>embark<br>grain<br>gadget<br>cook<br>elevator<br>velvet<br>awesome<br>then<br>apology<br>answer
 bip_39_word_new_br_2: depart<br>turn
 bip_39_word_new_br_3: depart<br>turn<br>embark
-bip_39_word_new_br_4: depart<br>turn<br>embark<br>grain
-bip_39_word_new_br_5: depart<br>turn<br>embark<br>grain<br>gadget
-bip_39_word_new_br_6: depart<br>turn<br>embark<br>grain<br>gadget<br>cook
-bip_39_word_new_br_7: depart<br>turn<br>embark<br>grain<br>gadget<br>cook<br>elevator
-bip_39_word_new_br_8: depart<br>turn<br>embark<br>grain<br>gadget<br>cook<br>elevator<br>velvet
-bip_39_word_new_br_9: depart<br>turn<br>embark<br>grain<br>gadget<br>cook<br>elevator<br>velvet<br>awesome
-bip_39_word_new_line_1: depart
-bip_39_word_new_line_10: 'depart
-
-  turn
-
-  embark
-
-  grain
-
-  gadget
-
-  cook
-
-  elevator
-
-  velvet
-
-  awesome
-
-  then'
-bip_39_word_new_line_11: 'depart
-
-  turn
-
-  embark
-
-  grain
-
-  gadget
-
-  cook
-
-  elevator
-
-  velvet
-
-  awesome
-
-  then
-
-  apology'
 bip_39_word_new_line_12: 'depart
 
   turn
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'depart
   turn
 
   embark'
-bip_39_word_new_line_4: 'depart
-
-  turn
-
-  embark
-
-  grain'
-bip_39_word_new_line_5: 'depart
-
-  turn
-
-  embark
-
-  grain
-
-  gadget'
-bip_39_word_new_line_6: 'depart
-
-  turn
-
-  embark
-
-  grain
-
-  gadget
-
-  cook'
-bip_39_word_new_line_7: 'depart
-
-  turn
-
-  embark
-
-  grain
-
-  gadget
-
-  cook
-
-  elevator'
-bip_39_word_new_line_8: 'depart
-
-  turn
-
-  embark
-
-  grain
-
-  gadget
-
-  cook
-
-  elevator
-
-  velvet'
-bip_39_word_new_line_9: 'depart
-
-  turn
-
-  embark
-
-  grain
-
-  gadget
-
-  cook
-
-  elevator
-
-  velvet
-
-  awesome'
-bip_39_word_no_space_1: depart
-bip_39_word_no_space_10: departturnembarkgraingadgetcookelevatorvelvetawesomethen
-bip_39_word_no_space_11: departturnembarkgraingadgetcookelevatorvelvetawesomethenapology
 bip_39_word_no_space_12: departturnembarkgraingadgetcookelevatorvelvetawesomethenapologyanswer
 bip_39_word_no_space_2: departturn
 bip_39_word_no_space_3: departturnembark
-bip_39_word_no_space_4: departturnembarkgrain
-bip_39_word_no_space_5: departturnembarkgraingadget
-bip_39_word_no_space_6: departturnembarkgraingadgetcook
-bip_39_word_no_space_7: departturnembarkgraingadgetcookelevator
-bip_39_word_no_space_8: departturnembarkgraingadgetcookelevatorvelvet
-bip_39_word_no_space_9: departturnembarkgraingadgetcookelevatorvelvetawesome
-bip_39_word_space_0:
-- depart
-- turn
-- embark
-- grain
-- gadget
-- cook
-- elevator
-- velvet
-- awesome
-- then
-- apology
-- answer
-bip_39_word_space_1: depart
-bip_39_word_space_10: depart turn embark grain gadget cook elevator velvet awesome
-  then
-bip_39_word_space_11: depart turn embark grain gadget cook elevator velvet awesome
-  then apology
 bip_39_word_space_12: depart turn embark grain gadget cook elevator velvet awesome
   then apology answer
 bip_39_word_space_2: depart turn
 bip_39_word_space_3: depart turn embark
-bip_39_word_space_4: depart turn embark grain
-bip_39_word_space_5: depart turn embark grain gadget
-bip_39_word_space_6: depart turn embark grain gadget cook
-bip_39_word_space_7: depart turn embark grain gadget cook elevator
-bip_39_word_space_8: depart turn embark grain gadget cook elevator velvet
-bip_39_word_space_9: depart turn embark grain gadget cook elevator velvet awesome
-bip_39_word_underscore_1: depart
-bip_39_word_underscore_10: depart_turn_embark_grain_gadget_cook_elevator_velvet_awesome_then
-bip_39_word_underscore_11: depart_turn_embark_grain_gadget_cook_elevator_velvet_awesome_then_apology
 bip_39_word_underscore_12: depart_turn_embark_grain_gadget_cook_elevator_velvet_awesome_then_apology_answer
 bip_39_word_underscore_2: depart_turn
 bip_39_word_underscore_3: depart_turn_embark
-bip_39_word_underscore_4: depart_turn_embark_grain
-bip_39_word_underscore_5: depart_turn_embark_grain_gadget
-bip_39_word_underscore_6: depart_turn_embark_grain_gadget_cook
-bip_39_word_underscore_7: depart_turn_embark_grain_gadget_cook_elevator
-bip_39_word_underscore_8: depart_turn_embark_grain_gadget_cook_elevator_velvet
-bip_39_word_underscore_9: depart_turn_embark_grain_gadget_cook_elevator_velvet_awesome
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

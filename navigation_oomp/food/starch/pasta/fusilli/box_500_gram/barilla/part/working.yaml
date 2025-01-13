@@ -1,68 +1,9 @@
-bip_39_word_dash_1: build
-bip_39_word_dash_10: build-elegant-arm-trigger-exhaust-glad-asthma-stomach-sword-forward
-bip_39_word_dash_11: build-elegant-arm-trigger-exhaust-glad-asthma-stomach-sword-forward-divorce
 bip_39_word_dash_12: build-elegant-arm-trigger-exhaust-glad-asthma-stomach-sword-forward-divorce-arm
 bip_39_word_dash_2: build-elegant
 bip_39_word_dash_3: build-elegant-arm
-bip_39_word_dash_4: build-elegant-arm-trigger
-bip_39_word_dash_5: build-elegant-arm-trigger-exhaust
-bip_39_word_dash_6: build-elegant-arm-trigger-exhaust-glad
-bip_39_word_dash_7: build-elegant-arm-trigger-exhaust-glad-asthma
-bip_39_word_dash_8: build-elegant-arm-trigger-exhaust-glad-asthma-stomach
-bip_39_word_dash_9: build-elegant-arm-trigger-exhaust-glad-asthma-stomach-sword
-bip_39_word_new_br_1: build
-bip_39_word_new_br_10: build<br>elegant<br>arm<br>trigger<br>exhaust<br>glad<br>asthma<br>stomach<br>sword<br>forward
-bip_39_word_new_br_11: build<br>elegant<br>arm<br>trigger<br>exhaust<br>glad<br>asthma<br>stomach<br>sword<br>forward<br>divorce
 bip_39_word_new_br_12: build<br>elegant<br>arm<br>trigger<br>exhaust<br>glad<br>asthma<br>stomach<br>sword<br>forward<br>divorce<br>arm
 bip_39_word_new_br_2: build<br>elegant
 bip_39_word_new_br_3: build<br>elegant<br>arm
-bip_39_word_new_br_4: build<br>elegant<br>arm<br>trigger
-bip_39_word_new_br_5: build<br>elegant<br>arm<br>trigger<br>exhaust
-bip_39_word_new_br_6: build<br>elegant<br>arm<br>trigger<br>exhaust<br>glad
-bip_39_word_new_br_7: build<br>elegant<br>arm<br>trigger<br>exhaust<br>glad<br>asthma
-bip_39_word_new_br_8: build<br>elegant<br>arm<br>trigger<br>exhaust<br>glad<br>asthma<br>stomach
-bip_39_word_new_br_9: build<br>elegant<br>arm<br>trigger<br>exhaust<br>glad<br>asthma<br>stomach<br>sword
-bip_39_word_new_line_1: build
-bip_39_word_new_line_10: 'build
-
-  elegant
-
-  arm
-
-  trigger
-
-  exhaust
-
-  glad
-
-  asthma
-
-  stomach
-
-  sword
-
-  forward'
-bip_39_word_new_line_11: 'build
-
-  elegant
-
-  arm
-
-  trigger
-
-  exhaust
-
-  glad
-
-  asthma
-
-  stomach
-
-  sword
-
-  forward
-
-  divorce'
 bip_39_word_new_line_12: 'build
 
   elegant
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'build
   elegant
 
   arm'
-bip_39_word_new_line_4: 'build
-
-  elegant
-
-  arm
-
-  trigger'
-bip_39_word_new_line_5: 'build
-
-  elegant
-
-  arm
-
-  trigger
-
-  exhaust'
-bip_39_word_new_line_6: 'build
-
-  elegant
-
-  arm
-
-  trigger
-
-  exhaust
-
-  glad'
-bip_39_word_new_line_7: 'build
-
-  elegant
-
-  arm
-
-  trigger
-
-  exhaust
-
-  glad
-
-  asthma'
-bip_39_word_new_line_8: 'build
-
-  elegant
-
-  arm
-
-  trigger
-
-  exhaust
-
-  glad
-
-  asthma
-
-  stomach'
-bip_39_word_new_line_9: 'build
-
-  elegant
-
-  arm
-
-  trigger
-
-  exhaust
-
-  glad
-
-  asthma
-
-  stomach
-
-  sword'
-bip_39_word_no_space_1: build
-bip_39_word_no_space_10: buildelegantarmtriggerexhaustgladasthmastomachswordforward
-bip_39_word_no_space_11: buildelegantarmtriggerexhaustgladasthmastomachswordforwarddivorce
 bip_39_word_no_space_12: buildelegantarmtriggerexhaustgladasthmastomachswordforwarddivorcearm
 bip_39_word_no_space_2: buildelegant
 bip_39_word_no_space_3: buildelegantarm
-bip_39_word_no_space_4: buildelegantarmtrigger
-bip_39_word_no_space_5: buildelegantarmtriggerexhaust
-bip_39_word_no_space_6: buildelegantarmtriggerexhaustglad
-bip_39_word_no_space_7: buildelegantarmtriggerexhaustgladasthma
-bip_39_word_no_space_8: buildelegantarmtriggerexhaustgladasthmastomach
-bip_39_word_no_space_9: buildelegantarmtriggerexhaustgladasthmastomachsword
-bip_39_word_space_0:
-- build
-- elegant
-- arm
-- trigger
-- exhaust
-- glad
-- asthma
-- stomach
-- sword
-- forward
-- divorce
-- arm
-bip_39_word_space_1: build
-bip_39_word_space_10: build elegant arm trigger exhaust glad asthma stomach sword
-  forward
-bip_39_word_space_11: build elegant arm trigger exhaust glad asthma stomach sword
-  forward divorce
 bip_39_word_space_12: build elegant arm trigger exhaust glad asthma stomach sword
   forward divorce arm
 bip_39_word_space_2: build elegant
 bip_39_word_space_3: build elegant arm
-bip_39_word_space_4: build elegant arm trigger
-bip_39_word_space_5: build elegant arm trigger exhaust
-bip_39_word_space_6: build elegant arm trigger exhaust glad
-bip_39_word_space_7: build elegant arm trigger exhaust glad asthma
-bip_39_word_space_8: build elegant arm trigger exhaust glad asthma stomach
-bip_39_word_space_9: build elegant arm trigger exhaust glad asthma stomach sword
-bip_39_word_underscore_1: build
-bip_39_word_underscore_10: build_elegant_arm_trigger_exhaust_glad_asthma_stomach_sword_forward
-bip_39_word_underscore_11: build_elegant_arm_trigger_exhaust_glad_asthma_stomach_sword_forward_divorce
 bip_39_word_underscore_12: build_elegant_arm_trigger_exhaust_glad_asthma_stomach_sword_forward_divorce_arm
 bip_39_word_underscore_2: build_elegant
 bip_39_word_underscore_3: build_elegant_arm
-bip_39_word_underscore_4: build_elegant_arm_trigger
-bip_39_word_underscore_5: build_elegant_arm_trigger_exhaust
-bip_39_word_underscore_6: build_elegant_arm_trigger_exhaust_glad
-bip_39_word_underscore_7: build_elegant_arm_trigger_exhaust_glad_asthma
-bip_39_word_underscore_8: build_elegant_arm_trigger_exhaust_glad_asthma_stomach
-bip_39_word_underscore_9: build_elegant_arm_trigger_exhaust_glad_asthma_stomach_sword
 classification: food
 classification_capital: Food
 classification_first_letter: f

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cement
-bip_39_word_dash_10: cement-bus-involve-step-genius-drive-expect-uncover-swing-dentist
-bip_39_word_dash_11: cement-bus-involve-step-genius-drive-expect-uncover-swing-dentist-broken
 bip_39_word_dash_12: cement-bus-involve-step-genius-drive-expect-uncover-swing-dentist-broken-angle
 bip_39_word_dash_2: cement-bus
 bip_39_word_dash_3: cement-bus-involve
-bip_39_word_dash_4: cement-bus-involve-step
-bip_39_word_dash_5: cement-bus-involve-step-genius
-bip_39_word_dash_6: cement-bus-involve-step-genius-drive
-bip_39_word_dash_7: cement-bus-involve-step-genius-drive-expect
-bip_39_word_dash_8: cement-bus-involve-step-genius-drive-expect-uncover
-bip_39_word_dash_9: cement-bus-involve-step-genius-drive-expect-uncover-swing
-bip_39_word_new_br_1: cement
-bip_39_word_new_br_10: cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover<br>swing<br>dentist
-bip_39_word_new_br_11: cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover<br>swing<br>dentist<br>broken
 bip_39_word_new_br_12: cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover<br>swing<br>dentist<br>broken<br>angle
 bip_39_word_new_br_2: cement<br>bus
 bip_39_word_new_br_3: cement<br>bus<br>involve
-bip_39_word_new_br_4: cement<br>bus<br>involve<br>step
-bip_39_word_new_br_5: cement<br>bus<br>involve<br>step<br>genius
-bip_39_word_new_br_6: cement<br>bus<br>involve<br>step<br>genius<br>drive
-bip_39_word_new_br_7: cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect
-bip_39_word_new_br_8: cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover
-bip_39_word_new_br_9: cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover<br>swing
-bip_39_word_new_line_1: cement
-bip_39_word_new_line_10: 'cement
-
-  bus
-
-  involve
-
-  step
-
-  genius
-
-  drive
-
-  expect
-
-  uncover
-
-  swing
-
-  dentist'
-bip_39_word_new_line_11: 'cement
-
-  bus
-
-  involve
-
-  step
-
-  genius
-
-  drive
-
-  expect
-
-  uncover
-
-  swing
-
-  dentist
-
-  broken'
 bip_39_word_new_line_12: 'cement
 
   bus
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cement
   bus
 
   involve'
-bip_39_word_new_line_4: 'cement
-
-  bus
-
-  involve
-
-  step'
-bip_39_word_new_line_5: 'cement
-
-  bus
-
-  involve
-
-  step
-
-  genius'
-bip_39_word_new_line_6: 'cement
-
-  bus
-
-  involve
-
-  step
-
-  genius
-
-  drive'
-bip_39_word_new_line_7: 'cement
-
-  bus
-
-  involve
-
-  step
-
-  genius
-
-  drive
-
-  expect'
-bip_39_word_new_line_8: 'cement
-
-  bus
-
-  involve
-
-  step
-
-  genius
-
-  drive
-
-  expect
-
-  uncover'
-bip_39_word_new_line_9: 'cement
-
-  bus
-
-  involve
-
-  step
-
-  genius
-
-  drive
-
-  expect
-
-  uncover
-
-  swing'
-bip_39_word_no_space_1: cement
-bip_39_word_no_space_10: cementbusinvolvestepgeniusdriveexpectuncoverswingdentist
-bip_39_word_no_space_11: cementbusinvolvestepgeniusdriveexpectuncoverswingdentistbroken
 bip_39_word_no_space_12: cementbusinvolvestepgeniusdriveexpectuncoverswingdentistbrokenangle
 bip_39_word_no_space_2: cementbus
 bip_39_word_no_space_3: cementbusinvolve
-bip_39_word_no_space_4: cementbusinvolvestep
-bip_39_word_no_space_5: cementbusinvolvestepgenius
-bip_39_word_no_space_6: cementbusinvolvestepgeniusdrive
-bip_39_word_no_space_7: cementbusinvolvestepgeniusdriveexpect
-bip_39_word_no_space_8: cementbusinvolvestepgeniusdriveexpectuncover
-bip_39_word_no_space_9: cementbusinvolvestepgeniusdriveexpectuncoverswing
-bip_39_word_space_0:
-- cement
-- bus
-- involve
-- step
-- genius
-- drive
-- expect
-- uncover
-- swing
-- dentist
-- broken
-- angle
-bip_39_word_space_1: cement
-bip_39_word_space_10: cement bus involve step genius drive expect uncover swing dentist
-bip_39_word_space_11: cement bus involve step genius drive expect uncover swing dentist
-  broken
 bip_39_word_space_12: cement bus involve step genius drive expect uncover swing dentist
   broken angle
 bip_39_word_space_2: cement bus
 bip_39_word_space_3: cement bus involve
-bip_39_word_space_4: cement bus involve step
-bip_39_word_space_5: cement bus involve step genius
-bip_39_word_space_6: cement bus involve step genius drive
-bip_39_word_space_7: cement bus involve step genius drive expect
-bip_39_word_space_8: cement bus involve step genius drive expect uncover
-bip_39_word_space_9: cement bus involve step genius drive expect uncover swing
-bip_39_word_underscore_1: cement
-bip_39_word_underscore_10: cement_bus_involve_step_genius_drive_expect_uncover_swing_dentist
-bip_39_word_underscore_11: cement_bus_involve_step_genius_drive_expect_uncover_swing_dentist_broken
 bip_39_word_underscore_12: cement_bus_involve_step_genius_drive_expect_uncover_swing_dentist_broken_angle
 bip_39_word_underscore_2: cement_bus
 bip_39_word_underscore_3: cement_bus_involve
-bip_39_word_underscore_4: cement_bus_involve_step
-bip_39_word_underscore_5: cement_bus_involve_step_genius
-bip_39_word_underscore_6: cement_bus_involve_step_genius_drive
-bip_39_word_underscore_7: cement_bus_involve_step_genius_drive_expect
-bip_39_word_underscore_8: cement_bus_involve_step_genius_drive_expect_uncover
-bip_39_word_underscore_9: cement_bus_involve_step_genius_drive_expect_uncover_swing
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

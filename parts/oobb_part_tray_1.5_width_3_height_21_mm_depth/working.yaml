@@ -1,68 +1,9 @@
-bip_39_word_dash_1: swim
-bip_39_word_dash_10: swim-cargo-other-swarm-surface-divide-physical-gloom-gate-flush
-bip_39_word_dash_11: swim-cargo-other-swarm-surface-divide-physical-gloom-gate-flush-pact
 bip_39_word_dash_12: swim-cargo-other-swarm-surface-divide-physical-gloom-gate-flush-pact-audit
 bip_39_word_dash_2: swim-cargo
 bip_39_word_dash_3: swim-cargo-other
-bip_39_word_dash_4: swim-cargo-other-swarm
-bip_39_word_dash_5: swim-cargo-other-swarm-surface
-bip_39_word_dash_6: swim-cargo-other-swarm-surface-divide
-bip_39_word_dash_7: swim-cargo-other-swarm-surface-divide-physical
-bip_39_word_dash_8: swim-cargo-other-swarm-surface-divide-physical-gloom
-bip_39_word_dash_9: swim-cargo-other-swarm-surface-divide-physical-gloom-gate
-bip_39_word_new_br_1: swim
-bip_39_word_new_br_10: swim<br>cargo<br>other<br>swarm<br>surface<br>divide<br>physical<br>gloom<br>gate<br>flush
-bip_39_word_new_br_11: swim<br>cargo<br>other<br>swarm<br>surface<br>divide<br>physical<br>gloom<br>gate<br>flush<br>pact
 bip_39_word_new_br_12: swim<br>cargo<br>other<br>swarm<br>surface<br>divide<br>physical<br>gloom<br>gate<br>flush<br>pact<br>audit
 bip_39_word_new_br_2: swim<br>cargo
 bip_39_word_new_br_3: swim<br>cargo<br>other
-bip_39_word_new_br_4: swim<br>cargo<br>other<br>swarm
-bip_39_word_new_br_5: swim<br>cargo<br>other<br>swarm<br>surface
-bip_39_word_new_br_6: swim<br>cargo<br>other<br>swarm<br>surface<br>divide
-bip_39_word_new_br_7: swim<br>cargo<br>other<br>swarm<br>surface<br>divide<br>physical
-bip_39_word_new_br_8: swim<br>cargo<br>other<br>swarm<br>surface<br>divide<br>physical<br>gloom
-bip_39_word_new_br_9: swim<br>cargo<br>other<br>swarm<br>surface<br>divide<br>physical<br>gloom<br>gate
-bip_39_word_new_line_1: swim
-bip_39_word_new_line_10: 'swim
-
-  cargo
-
-  other
-
-  swarm
-
-  surface
-
-  divide
-
-  physical
-
-  gloom
-
-  gate
-
-  flush'
-bip_39_word_new_line_11: 'swim
-
-  cargo
-
-  other
-
-  swarm
-
-  surface
-
-  divide
-
-  physical
-
-  gloom
-
-  gate
-
-  flush
-
-  pact'
 bip_39_word_new_line_12: 'swim
 
   cargo
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'swim
   cargo
 
   other'
-bip_39_word_new_line_4: 'swim
-
-  cargo
-
-  other
-
-  swarm'
-bip_39_word_new_line_5: 'swim
-
-  cargo
-
-  other
-
-  swarm
-
-  surface'
-bip_39_word_new_line_6: 'swim
-
-  cargo
-
-  other
-
-  swarm
-
-  surface
-
-  divide'
-bip_39_word_new_line_7: 'swim
-
-  cargo
-
-  other
-
-  swarm
-
-  surface
-
-  divide
-
-  physical'
-bip_39_word_new_line_8: 'swim
-
-  cargo
-
-  other
-
-  swarm
-
-  surface
-
-  divide
-
-  physical
-
-  gloom'
-bip_39_word_new_line_9: 'swim
-
-  cargo
-
-  other
-
-  swarm
-
-  surface
-
-  divide
-
-  physical
-
-  gloom
-
-  gate'
-bip_39_word_no_space_1: swim
-bip_39_word_no_space_10: swimcargootherswarmsurfacedividephysicalgloomgateflush
-bip_39_word_no_space_11: swimcargootherswarmsurfacedividephysicalgloomgateflushpact
 bip_39_word_no_space_12: swimcargootherswarmsurfacedividephysicalgloomgateflushpactaudit
 bip_39_word_no_space_2: swimcargo
 bip_39_word_no_space_3: swimcargoother
-bip_39_word_no_space_4: swimcargootherswarm
-bip_39_word_no_space_5: swimcargootherswarmsurface
-bip_39_word_no_space_6: swimcargootherswarmsurfacedivide
-bip_39_word_no_space_7: swimcargootherswarmsurfacedividephysical
-bip_39_word_no_space_8: swimcargootherswarmsurfacedividephysicalgloom
-bip_39_word_no_space_9: swimcargootherswarmsurfacedividephysicalgloomgate
-bip_39_word_space_0:
-- swim
-- cargo
-- other
-- swarm
-- surface
-- divide
-- physical
-- gloom
-- gate
-- flush
-- pact
-- audit
-bip_39_word_space_1: swim
-bip_39_word_space_10: swim cargo other swarm surface divide physical gloom gate flush
-bip_39_word_space_11: swim cargo other swarm surface divide physical gloom gate flush
-  pact
 bip_39_word_space_12: swim cargo other swarm surface divide physical gloom gate flush
   pact audit
 bip_39_word_space_2: swim cargo
 bip_39_word_space_3: swim cargo other
-bip_39_word_space_4: swim cargo other swarm
-bip_39_word_space_5: swim cargo other swarm surface
-bip_39_word_space_6: swim cargo other swarm surface divide
-bip_39_word_space_7: swim cargo other swarm surface divide physical
-bip_39_word_space_8: swim cargo other swarm surface divide physical gloom
-bip_39_word_space_9: swim cargo other swarm surface divide physical gloom gate
-bip_39_word_underscore_1: swim
-bip_39_word_underscore_10: swim_cargo_other_swarm_surface_divide_physical_gloom_gate_flush
-bip_39_word_underscore_11: swim_cargo_other_swarm_surface_divide_physical_gloom_gate_flush_pact
 bip_39_word_underscore_12: swim_cargo_other_swarm_surface_divide_physical_gloom_gate_flush_pact_audit
 bip_39_word_underscore_2: swim_cargo
 bip_39_word_underscore_3: swim_cargo_other
-bip_39_word_underscore_4: swim_cargo_other_swarm
-bip_39_word_underscore_5: swim_cargo_other_swarm_surface
-bip_39_word_underscore_6: swim_cargo_other_swarm_surface_divide
-bip_39_word_underscore_7: swim_cargo_other_swarm_surface_divide_physical
-bip_39_word_underscore_8: swim_cargo_other_swarm_surface_divide_physical_gloom
-bip_39_word_underscore_9: swim_cargo_other_swarm_surface_divide_physical_gloom_gate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

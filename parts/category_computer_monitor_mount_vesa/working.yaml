@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bid
-bip_39_word_dash_10: bid-elevator-hat-direct-farm-daughter-success-accident-maple-when
-bip_39_word_dash_11: bid-elevator-hat-direct-farm-daughter-success-accident-maple-when-gain
 bip_39_word_dash_12: bid-elevator-hat-direct-farm-daughter-success-accident-maple-when-gain-artefact
 bip_39_word_dash_2: bid-elevator
 bip_39_word_dash_3: bid-elevator-hat
-bip_39_word_dash_4: bid-elevator-hat-direct
-bip_39_word_dash_5: bid-elevator-hat-direct-farm
-bip_39_word_dash_6: bid-elevator-hat-direct-farm-daughter
-bip_39_word_dash_7: bid-elevator-hat-direct-farm-daughter-success
-bip_39_word_dash_8: bid-elevator-hat-direct-farm-daughter-success-accident
-bip_39_word_dash_9: bid-elevator-hat-direct-farm-daughter-success-accident-maple
-bip_39_word_new_br_1: bid
-bip_39_word_new_br_10: bid<br>elevator<br>hat<br>direct<br>farm<br>daughter<br>success<br>accident<br>maple<br>when
-bip_39_word_new_br_11: bid<br>elevator<br>hat<br>direct<br>farm<br>daughter<br>success<br>accident<br>maple<br>when<br>gain
 bip_39_word_new_br_12: bid<br>elevator<br>hat<br>direct<br>farm<br>daughter<br>success<br>accident<br>maple<br>when<br>gain<br>artefact
 bip_39_word_new_br_2: bid<br>elevator
 bip_39_word_new_br_3: bid<br>elevator<br>hat
-bip_39_word_new_br_4: bid<br>elevator<br>hat<br>direct
-bip_39_word_new_br_5: bid<br>elevator<br>hat<br>direct<br>farm
-bip_39_word_new_br_6: bid<br>elevator<br>hat<br>direct<br>farm<br>daughter
-bip_39_word_new_br_7: bid<br>elevator<br>hat<br>direct<br>farm<br>daughter<br>success
-bip_39_word_new_br_8: bid<br>elevator<br>hat<br>direct<br>farm<br>daughter<br>success<br>accident
-bip_39_word_new_br_9: bid<br>elevator<br>hat<br>direct<br>farm<br>daughter<br>success<br>accident<br>maple
-bip_39_word_new_line_1: bid
-bip_39_word_new_line_10: 'bid
-
-  elevator
-
-  hat
-
-  direct
-
-  farm
-
-  daughter
-
-  success
-
-  accident
-
-  maple
-
-  when'
-bip_39_word_new_line_11: 'bid
-
-  elevator
-
-  hat
-
-  direct
-
-  farm
-
-  daughter
-
-  success
-
-  accident
-
-  maple
-
-  when
-
-  gain'
 bip_39_word_new_line_12: 'bid
 
   elevator
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bid
   elevator
 
   hat'
-bip_39_word_new_line_4: 'bid
-
-  elevator
-
-  hat
-
-  direct'
-bip_39_word_new_line_5: 'bid
-
-  elevator
-
-  hat
-
-  direct
-
-  farm'
-bip_39_word_new_line_6: 'bid
-
-  elevator
-
-  hat
-
-  direct
-
-  farm
-
-  daughter'
-bip_39_word_new_line_7: 'bid
-
-  elevator
-
-  hat
-
-  direct
-
-  farm
-
-  daughter
-
-  success'
-bip_39_word_new_line_8: 'bid
-
-  elevator
-
-  hat
-
-  direct
-
-  farm
-
-  daughter
-
-  success
-
-  accident'
-bip_39_word_new_line_9: 'bid
-
-  elevator
-
-  hat
-
-  direct
-
-  farm
-
-  daughter
-
-  success
-
-  accident
-
-  maple'
-bip_39_word_no_space_1: bid
-bip_39_word_no_space_10: bidelevatorhatdirectfarmdaughtersuccessaccidentmaplewhen
-bip_39_word_no_space_11: bidelevatorhatdirectfarmdaughtersuccessaccidentmaplewhengain
 bip_39_word_no_space_12: bidelevatorhatdirectfarmdaughtersuccessaccidentmaplewhengainartefact
 bip_39_word_no_space_2: bidelevator
 bip_39_word_no_space_3: bidelevatorhat
-bip_39_word_no_space_4: bidelevatorhatdirect
-bip_39_word_no_space_5: bidelevatorhatdirectfarm
-bip_39_word_no_space_6: bidelevatorhatdirectfarmdaughter
-bip_39_word_no_space_7: bidelevatorhatdirectfarmdaughtersuccess
-bip_39_word_no_space_8: bidelevatorhatdirectfarmdaughtersuccessaccident
-bip_39_word_no_space_9: bidelevatorhatdirectfarmdaughtersuccessaccidentmaple
-bip_39_word_space_0:
-- bid
-- elevator
-- hat
-- direct
-- farm
-- daughter
-- success
-- accident
-- maple
-- when
-- gain
-- artefact
-bip_39_word_space_1: bid
-bip_39_word_space_10: bid elevator hat direct farm daughter success accident maple
-  when
-bip_39_word_space_11: bid elevator hat direct farm daughter success accident maple
-  when gain
 bip_39_word_space_12: bid elevator hat direct farm daughter success accident maple
   when gain artefact
 bip_39_word_space_2: bid elevator
 bip_39_word_space_3: bid elevator hat
-bip_39_word_space_4: bid elevator hat direct
-bip_39_word_space_5: bid elevator hat direct farm
-bip_39_word_space_6: bid elevator hat direct farm daughter
-bip_39_word_space_7: bid elevator hat direct farm daughter success
-bip_39_word_space_8: bid elevator hat direct farm daughter success accident
-bip_39_word_space_9: bid elevator hat direct farm daughter success accident maple
-bip_39_word_underscore_1: bid
-bip_39_word_underscore_10: bid_elevator_hat_direct_farm_daughter_success_accident_maple_when
-bip_39_word_underscore_11: bid_elevator_hat_direct_farm_daughter_success_accident_maple_when_gain
 bip_39_word_underscore_12: bid_elevator_hat_direct_farm_daughter_success_accident_maple_when_gain_artefact
 bip_39_word_underscore_2: bid_elevator
 bip_39_word_underscore_3: bid_elevator_hat
-bip_39_word_underscore_4: bid_elevator_hat_direct
-bip_39_word_underscore_5: bid_elevator_hat_direct_farm
-bip_39_word_underscore_6: bid_elevator_hat_direct_farm_daughter
-bip_39_word_underscore_7: bid_elevator_hat_direct_farm_daughter_success
-bip_39_word_underscore_8: bid_elevator_hat_direct_farm_daughter_success_accident
-bip_39_word_underscore_9: bid_elevator_hat_direct_farm_daughter_success_accident_maple
 classification: category
 classification_capital: Category
 classification_first_letter: c

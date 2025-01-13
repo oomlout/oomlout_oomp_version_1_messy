@@ -1,68 +1,9 @@
-bip_39_word_dash_1: deer
-bip_39_word_dash_10: deer-three-knock-floor-chunk-fade-flower-rival-weasel-neither
-bip_39_word_dash_11: deer-three-knock-floor-chunk-fade-flower-rival-weasel-neither-cactus
 bip_39_word_dash_12: deer-three-knock-floor-chunk-fade-flower-rival-weasel-neither-cactus-arch
 bip_39_word_dash_2: deer-three
 bip_39_word_dash_3: deer-three-knock
-bip_39_word_dash_4: deer-three-knock-floor
-bip_39_word_dash_5: deer-three-knock-floor-chunk
-bip_39_word_dash_6: deer-three-knock-floor-chunk-fade
-bip_39_word_dash_7: deer-three-knock-floor-chunk-fade-flower
-bip_39_word_dash_8: deer-three-knock-floor-chunk-fade-flower-rival
-bip_39_word_dash_9: deer-three-knock-floor-chunk-fade-flower-rival-weasel
-bip_39_word_new_br_1: deer
-bip_39_word_new_br_10: deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither
-bip_39_word_new_br_11: deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither<br>cactus
 bip_39_word_new_br_12: deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel<br>neither<br>cactus<br>arch
 bip_39_word_new_br_2: deer<br>three
 bip_39_word_new_br_3: deer<br>three<br>knock
-bip_39_word_new_br_4: deer<br>three<br>knock<br>floor
-bip_39_word_new_br_5: deer<br>three<br>knock<br>floor<br>chunk
-bip_39_word_new_br_6: deer<br>three<br>knock<br>floor<br>chunk<br>fade
-bip_39_word_new_br_7: deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower
-bip_39_word_new_br_8: deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival
-bip_39_word_new_br_9: deer<br>three<br>knock<br>floor<br>chunk<br>fade<br>flower<br>rival<br>weasel
-bip_39_word_new_line_1: deer
-bip_39_word_new_line_10: 'deer
-
-  three
-
-  knock
-
-  floor
-
-  chunk
-
-  fade
-
-  flower
-
-  rival
-
-  weasel
-
-  neither'
-bip_39_word_new_line_11: 'deer
-
-  three
-
-  knock
-
-  floor
-
-  chunk
-
-  fade
-
-  flower
-
-  rival
-
-  weasel
-
-  neither
-
-  cactus'
 bip_39_word_new_line_12: 'deer
 
   three
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'deer
   three
 
   knock'
-bip_39_word_new_line_4: 'deer
-
-  three
-
-  knock
-
-  floor'
-bip_39_word_new_line_5: 'deer
-
-  three
-
-  knock
-
-  floor
-
-  chunk'
-bip_39_word_new_line_6: 'deer
-
-  three
-
-  knock
-
-  floor
-
-  chunk
-
-  fade'
-bip_39_word_new_line_7: 'deer
-
-  three
-
-  knock
-
-  floor
-
-  chunk
-
-  fade
-
-  flower'
-bip_39_word_new_line_8: 'deer
-
-  three
-
-  knock
-
-  floor
-
-  chunk
-
-  fade
-
-  flower
-
-  rival'
-bip_39_word_new_line_9: 'deer
-
-  three
-
-  knock
-
-  floor
-
-  chunk
-
-  fade
-
-  flower
-
-  rival
-
-  weasel'
-bip_39_word_no_space_1: deer
-bip_39_word_no_space_10: deerthreeknockfloorchunkfadeflowerrivalweaselneither
-bip_39_word_no_space_11: deerthreeknockfloorchunkfadeflowerrivalweaselneithercactus
 bip_39_word_no_space_12: deerthreeknockfloorchunkfadeflowerrivalweaselneithercactusarch
 bip_39_word_no_space_2: deerthree
 bip_39_word_no_space_3: deerthreeknock
-bip_39_word_no_space_4: deerthreeknockfloor
-bip_39_word_no_space_5: deerthreeknockfloorchunk
-bip_39_word_no_space_6: deerthreeknockfloorchunkfade
-bip_39_word_no_space_7: deerthreeknockfloorchunkfadeflower
-bip_39_word_no_space_8: deerthreeknockfloorchunkfadeflowerrival
-bip_39_word_no_space_9: deerthreeknockfloorchunkfadeflowerrivalweasel
-bip_39_word_space_0:
-- deer
-- three
-- knock
-- floor
-- chunk
-- fade
-- flower
-- rival
-- weasel
-- neither
-- cactus
-- arch
-bip_39_word_space_1: deer
-bip_39_word_space_10: deer three knock floor chunk fade flower rival weasel neither
-bip_39_word_space_11: deer three knock floor chunk fade flower rival weasel neither
-  cactus
 bip_39_word_space_12: deer three knock floor chunk fade flower rival weasel neither
   cactus arch
 bip_39_word_space_2: deer three
 bip_39_word_space_3: deer three knock
-bip_39_word_space_4: deer three knock floor
-bip_39_word_space_5: deer three knock floor chunk
-bip_39_word_space_6: deer three knock floor chunk fade
-bip_39_word_space_7: deer three knock floor chunk fade flower
-bip_39_word_space_8: deer three knock floor chunk fade flower rival
-bip_39_word_space_9: deer three knock floor chunk fade flower rival weasel
-bip_39_word_underscore_1: deer
-bip_39_word_underscore_10: deer_three_knock_floor_chunk_fade_flower_rival_weasel_neither
-bip_39_word_underscore_11: deer_three_knock_floor_chunk_fade_flower_rival_weasel_neither_cactus
 bip_39_word_underscore_12: deer_three_knock_floor_chunk_fade_flower_rival_weasel_neither_cactus_arch
 bip_39_word_underscore_2: deer_three
 bip_39_word_underscore_3: deer_three_knock
-bip_39_word_underscore_4: deer_three_knock_floor
-bip_39_word_underscore_5: deer_three_knock_floor_chunk
-bip_39_word_underscore_6: deer_three_knock_floor_chunk_fade
-bip_39_word_underscore_7: deer_three_knock_floor_chunk_fade_flower
-bip_39_word_underscore_8: deer_three_knock_floor_chunk_fade_flower_rival
-bip_39_word_underscore_9: deer_three_knock_floor_chunk_fade_flower_rival_weasel
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

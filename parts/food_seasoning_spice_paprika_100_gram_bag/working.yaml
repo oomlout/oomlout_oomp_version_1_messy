@@ -1,68 +1,9 @@
-bip_39_word_dash_1: satoshi
-bip_39_word_dash_10: satoshi-purchase-arctic-unaware-strike-prefer-cry-sign-spare-typical
-bip_39_word_dash_11: satoshi-purchase-arctic-unaware-strike-prefer-cry-sign-spare-typical-mountain
 bip_39_word_dash_12: satoshi-purchase-arctic-unaware-strike-prefer-cry-sign-spare-typical-mountain-arm
 bip_39_word_dash_2: satoshi-purchase
 bip_39_word_dash_3: satoshi-purchase-arctic
-bip_39_word_dash_4: satoshi-purchase-arctic-unaware
-bip_39_word_dash_5: satoshi-purchase-arctic-unaware-strike
-bip_39_word_dash_6: satoshi-purchase-arctic-unaware-strike-prefer
-bip_39_word_dash_7: satoshi-purchase-arctic-unaware-strike-prefer-cry
-bip_39_word_dash_8: satoshi-purchase-arctic-unaware-strike-prefer-cry-sign
-bip_39_word_dash_9: satoshi-purchase-arctic-unaware-strike-prefer-cry-sign-spare
-bip_39_word_new_br_1: satoshi
-bip_39_word_new_br_10: satoshi<br>purchase<br>arctic<br>unaware<br>strike<br>prefer<br>cry<br>sign<br>spare<br>typical
-bip_39_word_new_br_11: satoshi<br>purchase<br>arctic<br>unaware<br>strike<br>prefer<br>cry<br>sign<br>spare<br>typical<br>mountain
 bip_39_word_new_br_12: satoshi<br>purchase<br>arctic<br>unaware<br>strike<br>prefer<br>cry<br>sign<br>spare<br>typical<br>mountain<br>arm
 bip_39_word_new_br_2: satoshi<br>purchase
 bip_39_word_new_br_3: satoshi<br>purchase<br>arctic
-bip_39_word_new_br_4: satoshi<br>purchase<br>arctic<br>unaware
-bip_39_word_new_br_5: satoshi<br>purchase<br>arctic<br>unaware<br>strike
-bip_39_word_new_br_6: satoshi<br>purchase<br>arctic<br>unaware<br>strike<br>prefer
-bip_39_word_new_br_7: satoshi<br>purchase<br>arctic<br>unaware<br>strike<br>prefer<br>cry
-bip_39_word_new_br_8: satoshi<br>purchase<br>arctic<br>unaware<br>strike<br>prefer<br>cry<br>sign
-bip_39_word_new_br_9: satoshi<br>purchase<br>arctic<br>unaware<br>strike<br>prefer<br>cry<br>sign<br>spare
-bip_39_word_new_line_1: satoshi
-bip_39_word_new_line_10: 'satoshi
-
-  purchase
-
-  arctic
-
-  unaware
-
-  strike
-
-  prefer
-
-  cry
-
-  sign
-
-  spare
-
-  typical'
-bip_39_word_new_line_11: 'satoshi
-
-  purchase
-
-  arctic
-
-  unaware
-
-  strike
-
-  prefer
-
-  cry
-
-  sign
-
-  spare
-
-  typical
-
-  mountain'
 bip_39_word_new_line_12: 'satoshi
 
   purchase
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'satoshi
   purchase
 
   arctic'
-bip_39_word_new_line_4: 'satoshi
-
-  purchase
-
-  arctic
-
-  unaware'
-bip_39_word_new_line_5: 'satoshi
-
-  purchase
-
-  arctic
-
-  unaware
-
-  strike'
-bip_39_word_new_line_6: 'satoshi
-
-  purchase
-
-  arctic
-
-  unaware
-
-  strike
-
-  prefer'
-bip_39_word_new_line_7: 'satoshi
-
-  purchase
-
-  arctic
-
-  unaware
-
-  strike
-
-  prefer
-
-  cry'
-bip_39_word_new_line_8: 'satoshi
-
-  purchase
-
-  arctic
-
-  unaware
-
-  strike
-
-  prefer
-
-  cry
-
-  sign'
-bip_39_word_new_line_9: 'satoshi
-
-  purchase
-
-  arctic
-
-  unaware
-
-  strike
-
-  prefer
-
-  cry
-
-  sign
-
-  spare'
-bip_39_word_no_space_1: satoshi
-bip_39_word_no_space_10: satoshipurchasearcticunawarestrikeprefercrysignsparetypical
-bip_39_word_no_space_11: satoshipurchasearcticunawarestrikeprefercrysignsparetypicalmountain
 bip_39_word_no_space_12: satoshipurchasearcticunawarestrikeprefercrysignsparetypicalmountainarm
 bip_39_word_no_space_2: satoshipurchase
 bip_39_word_no_space_3: satoshipurchasearctic
-bip_39_word_no_space_4: satoshipurchasearcticunaware
-bip_39_word_no_space_5: satoshipurchasearcticunawarestrike
-bip_39_word_no_space_6: satoshipurchasearcticunawarestrikeprefer
-bip_39_word_no_space_7: satoshipurchasearcticunawarestrikeprefercry
-bip_39_word_no_space_8: satoshipurchasearcticunawarestrikeprefercrysign
-bip_39_word_no_space_9: satoshipurchasearcticunawarestrikeprefercrysignspare
-bip_39_word_space_0:
-- satoshi
-- purchase
-- arctic
-- unaware
-- strike
-- prefer
-- cry
-- sign
-- spare
-- typical
-- mountain
-- arm
-bip_39_word_space_1: satoshi
-bip_39_word_space_10: satoshi purchase arctic unaware strike prefer cry sign spare
-  typical
-bip_39_word_space_11: satoshi purchase arctic unaware strike prefer cry sign spare
-  typical mountain
 bip_39_word_space_12: satoshi purchase arctic unaware strike prefer cry sign spare
   typical mountain arm
 bip_39_word_space_2: satoshi purchase
 bip_39_word_space_3: satoshi purchase arctic
-bip_39_word_space_4: satoshi purchase arctic unaware
-bip_39_word_space_5: satoshi purchase arctic unaware strike
-bip_39_word_space_6: satoshi purchase arctic unaware strike prefer
-bip_39_word_space_7: satoshi purchase arctic unaware strike prefer cry
-bip_39_word_space_8: satoshi purchase arctic unaware strike prefer cry sign
-bip_39_word_space_9: satoshi purchase arctic unaware strike prefer cry sign spare
-bip_39_word_underscore_1: satoshi
-bip_39_word_underscore_10: satoshi_purchase_arctic_unaware_strike_prefer_cry_sign_spare_typical
-bip_39_word_underscore_11: satoshi_purchase_arctic_unaware_strike_prefer_cry_sign_spare_typical_mountain
 bip_39_word_underscore_12: satoshi_purchase_arctic_unaware_strike_prefer_cry_sign_spare_typical_mountain_arm
 bip_39_word_underscore_2: satoshi_purchase
 bip_39_word_underscore_3: satoshi_purchase_arctic
-bip_39_word_underscore_4: satoshi_purchase_arctic_unaware
-bip_39_word_underscore_5: satoshi_purchase_arctic_unaware_strike
-bip_39_word_underscore_6: satoshi_purchase_arctic_unaware_strike_prefer
-bip_39_word_underscore_7: satoshi_purchase_arctic_unaware_strike_prefer_cry
-bip_39_word_underscore_8: satoshi_purchase_arctic_unaware_strike_prefer_cry_sign
-bip_39_word_underscore_9: satoshi_purchase_arctic_unaware_strike_prefer_cry_sign_spare
 classification: food
 classification_capital: Food
 classification_first_letter: f

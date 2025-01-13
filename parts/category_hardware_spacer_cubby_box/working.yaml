@@ -1,68 +1,9 @@
-bip_39_word_dash_1: foil
-bip_39_word_dash_10: foil-account-crawl-hungry-lobster-sauce-control-dismiss-repeat-resist
-bip_39_word_dash_11: foil-account-crawl-hungry-lobster-sauce-control-dismiss-repeat-resist-retire
 bip_39_word_dash_12: foil-account-crawl-hungry-lobster-sauce-control-dismiss-repeat-resist-retire-animal
 bip_39_word_dash_2: foil-account
 bip_39_word_dash_3: foil-account-crawl
-bip_39_word_dash_4: foil-account-crawl-hungry
-bip_39_word_dash_5: foil-account-crawl-hungry-lobster
-bip_39_word_dash_6: foil-account-crawl-hungry-lobster-sauce
-bip_39_word_dash_7: foil-account-crawl-hungry-lobster-sauce-control
-bip_39_word_dash_8: foil-account-crawl-hungry-lobster-sauce-control-dismiss
-bip_39_word_dash_9: foil-account-crawl-hungry-lobster-sauce-control-dismiss-repeat
-bip_39_word_new_br_1: foil
-bip_39_word_new_br_10: foil<br>account<br>crawl<br>hungry<br>lobster<br>sauce<br>control<br>dismiss<br>repeat<br>resist
-bip_39_word_new_br_11: foil<br>account<br>crawl<br>hungry<br>lobster<br>sauce<br>control<br>dismiss<br>repeat<br>resist<br>retire
 bip_39_word_new_br_12: foil<br>account<br>crawl<br>hungry<br>lobster<br>sauce<br>control<br>dismiss<br>repeat<br>resist<br>retire<br>animal
 bip_39_word_new_br_2: foil<br>account
 bip_39_word_new_br_3: foil<br>account<br>crawl
-bip_39_word_new_br_4: foil<br>account<br>crawl<br>hungry
-bip_39_word_new_br_5: foil<br>account<br>crawl<br>hungry<br>lobster
-bip_39_word_new_br_6: foil<br>account<br>crawl<br>hungry<br>lobster<br>sauce
-bip_39_word_new_br_7: foil<br>account<br>crawl<br>hungry<br>lobster<br>sauce<br>control
-bip_39_word_new_br_8: foil<br>account<br>crawl<br>hungry<br>lobster<br>sauce<br>control<br>dismiss
-bip_39_word_new_br_9: foil<br>account<br>crawl<br>hungry<br>lobster<br>sauce<br>control<br>dismiss<br>repeat
-bip_39_word_new_line_1: foil
-bip_39_word_new_line_10: 'foil
-
-  account
-
-  crawl
-
-  hungry
-
-  lobster
-
-  sauce
-
-  control
-
-  dismiss
-
-  repeat
-
-  resist'
-bip_39_word_new_line_11: 'foil
-
-  account
-
-  crawl
-
-  hungry
-
-  lobster
-
-  sauce
-
-  control
-
-  dismiss
-
-  repeat
-
-  resist
-
-  retire'
 bip_39_word_new_line_12: 'foil
 
   account
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'foil
   account
 
   crawl'
-bip_39_word_new_line_4: 'foil
-
-  account
-
-  crawl
-
-  hungry'
-bip_39_word_new_line_5: 'foil
-
-  account
-
-  crawl
-
-  hungry
-
-  lobster'
-bip_39_word_new_line_6: 'foil
-
-  account
-
-  crawl
-
-  hungry
-
-  lobster
-
-  sauce'
-bip_39_word_new_line_7: 'foil
-
-  account
-
-  crawl
-
-  hungry
-
-  lobster
-
-  sauce
-
-  control'
-bip_39_word_new_line_8: 'foil
-
-  account
-
-  crawl
-
-  hungry
-
-  lobster
-
-  sauce
-
-  control
-
-  dismiss'
-bip_39_word_new_line_9: 'foil
-
-  account
-
-  crawl
-
-  hungry
-
-  lobster
-
-  sauce
-
-  control
-
-  dismiss
-
-  repeat'
-bip_39_word_no_space_1: foil
-bip_39_word_no_space_10: foilaccountcrawlhungrylobstersaucecontroldismissrepeatresist
-bip_39_word_no_space_11: foilaccountcrawlhungrylobstersaucecontroldismissrepeatresistretire
 bip_39_word_no_space_12: foilaccountcrawlhungrylobstersaucecontroldismissrepeatresistretireanimal
 bip_39_word_no_space_2: foilaccount
 bip_39_word_no_space_3: foilaccountcrawl
-bip_39_word_no_space_4: foilaccountcrawlhungry
-bip_39_word_no_space_5: foilaccountcrawlhungrylobster
-bip_39_word_no_space_6: foilaccountcrawlhungrylobstersauce
-bip_39_word_no_space_7: foilaccountcrawlhungrylobstersaucecontrol
-bip_39_word_no_space_8: foilaccountcrawlhungrylobstersaucecontroldismiss
-bip_39_word_no_space_9: foilaccountcrawlhungrylobstersaucecontroldismissrepeat
-bip_39_word_space_0:
-- foil
-- account
-- crawl
-- hungry
-- lobster
-- sauce
-- control
-- dismiss
-- repeat
-- resist
-- retire
-- animal
-bip_39_word_space_1: foil
-bip_39_word_space_10: foil account crawl hungry lobster sauce control dismiss repeat
-  resist
-bip_39_word_space_11: foil account crawl hungry lobster sauce control dismiss repeat
-  resist retire
 bip_39_word_space_12: foil account crawl hungry lobster sauce control dismiss repeat
   resist retire animal
 bip_39_word_space_2: foil account
 bip_39_word_space_3: foil account crawl
-bip_39_word_space_4: foil account crawl hungry
-bip_39_word_space_5: foil account crawl hungry lobster
-bip_39_word_space_6: foil account crawl hungry lobster sauce
-bip_39_word_space_7: foil account crawl hungry lobster sauce control
-bip_39_word_space_8: foil account crawl hungry lobster sauce control dismiss
-bip_39_word_space_9: foil account crawl hungry lobster sauce control dismiss repeat
-bip_39_word_underscore_1: foil
-bip_39_word_underscore_10: foil_account_crawl_hungry_lobster_sauce_control_dismiss_repeat_resist
-bip_39_word_underscore_11: foil_account_crawl_hungry_lobster_sauce_control_dismiss_repeat_resist_retire
 bip_39_word_underscore_12: foil_account_crawl_hungry_lobster_sauce_control_dismiss_repeat_resist_retire_animal
 bip_39_word_underscore_2: foil_account
 bip_39_word_underscore_3: foil_account_crawl
-bip_39_word_underscore_4: foil_account_crawl_hungry
-bip_39_word_underscore_5: foil_account_crawl_hungry_lobster
-bip_39_word_underscore_6: foil_account_crawl_hungry_lobster_sauce
-bip_39_word_underscore_7: foil_account_crawl_hungry_lobster_sauce_control
-bip_39_word_underscore_8: foil_account_crawl_hungry_lobster_sauce_control_dismiss
-bip_39_word_underscore_9: foil_account_crawl_hungry_lobster_sauce_control_dismiss_repeat
 classification: category
 classification_capital: Category
 classification_first_letter: c

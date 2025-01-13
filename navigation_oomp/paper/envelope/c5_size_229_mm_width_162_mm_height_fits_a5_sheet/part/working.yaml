@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trip
-bip_39_word_dash_10: trip-usage-join-novel-come-laugh-omit-install-double-era
-bip_39_word_dash_11: trip-usage-join-novel-come-laugh-omit-install-double-era-pair
 bip_39_word_dash_12: trip-usage-join-novel-come-laugh-omit-install-double-era-pair-arrange
 bip_39_word_dash_2: trip-usage
 bip_39_word_dash_3: trip-usage-join
-bip_39_word_dash_4: trip-usage-join-novel
-bip_39_word_dash_5: trip-usage-join-novel-come
-bip_39_word_dash_6: trip-usage-join-novel-come-laugh
-bip_39_word_dash_7: trip-usage-join-novel-come-laugh-omit
-bip_39_word_dash_8: trip-usage-join-novel-come-laugh-omit-install
-bip_39_word_dash_9: trip-usage-join-novel-come-laugh-omit-install-double
-bip_39_word_new_br_1: trip
-bip_39_word_new_br_10: trip<br>usage<br>join<br>novel<br>come<br>laugh<br>omit<br>install<br>double<br>era
-bip_39_word_new_br_11: trip<br>usage<br>join<br>novel<br>come<br>laugh<br>omit<br>install<br>double<br>era<br>pair
 bip_39_word_new_br_12: trip<br>usage<br>join<br>novel<br>come<br>laugh<br>omit<br>install<br>double<br>era<br>pair<br>arrange
 bip_39_word_new_br_2: trip<br>usage
 bip_39_word_new_br_3: trip<br>usage<br>join
-bip_39_word_new_br_4: trip<br>usage<br>join<br>novel
-bip_39_word_new_br_5: trip<br>usage<br>join<br>novel<br>come
-bip_39_word_new_br_6: trip<br>usage<br>join<br>novel<br>come<br>laugh
-bip_39_word_new_br_7: trip<br>usage<br>join<br>novel<br>come<br>laugh<br>omit
-bip_39_word_new_br_8: trip<br>usage<br>join<br>novel<br>come<br>laugh<br>omit<br>install
-bip_39_word_new_br_9: trip<br>usage<br>join<br>novel<br>come<br>laugh<br>omit<br>install<br>double
-bip_39_word_new_line_1: trip
-bip_39_word_new_line_10: 'trip
-
-  usage
-
-  join
-
-  novel
-
-  come
-
-  laugh
-
-  omit
-
-  install
-
-  double
-
-  era'
-bip_39_word_new_line_11: 'trip
-
-  usage
-
-  join
-
-  novel
-
-  come
-
-  laugh
-
-  omit
-
-  install
-
-  double
-
-  era
-
-  pair'
 bip_39_word_new_line_12: 'trip
 
   usage
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'trip
   usage
 
   join'
-bip_39_word_new_line_4: 'trip
-
-  usage
-
-  join
-
-  novel'
-bip_39_word_new_line_5: 'trip
-
-  usage
-
-  join
-
-  novel
-
-  come'
-bip_39_word_new_line_6: 'trip
-
-  usage
-
-  join
-
-  novel
-
-  come
-
-  laugh'
-bip_39_word_new_line_7: 'trip
-
-  usage
-
-  join
-
-  novel
-
-  come
-
-  laugh
-
-  omit'
-bip_39_word_new_line_8: 'trip
-
-  usage
-
-  join
-
-  novel
-
-  come
-
-  laugh
-
-  omit
-
-  install'
-bip_39_word_new_line_9: 'trip
-
-  usage
-
-  join
-
-  novel
-
-  come
-
-  laugh
-
-  omit
-
-  install
-
-  double'
-bip_39_word_no_space_1: trip
-bip_39_word_no_space_10: tripusagejoinnovelcomelaughomitinstalldoubleera
-bip_39_word_no_space_11: tripusagejoinnovelcomelaughomitinstalldoubleerapair
 bip_39_word_no_space_12: tripusagejoinnovelcomelaughomitinstalldoubleerapairarrange
 bip_39_word_no_space_2: tripusage
 bip_39_word_no_space_3: tripusagejoin
-bip_39_word_no_space_4: tripusagejoinnovel
-bip_39_word_no_space_5: tripusagejoinnovelcome
-bip_39_word_no_space_6: tripusagejoinnovelcomelaugh
-bip_39_word_no_space_7: tripusagejoinnovelcomelaughomit
-bip_39_word_no_space_8: tripusagejoinnovelcomelaughomitinstall
-bip_39_word_no_space_9: tripusagejoinnovelcomelaughomitinstalldouble
-bip_39_word_space_0:
-- trip
-- usage
-- join
-- novel
-- come
-- laugh
-- omit
-- install
-- double
-- era
-- pair
-- arrange
-bip_39_word_space_1: trip
-bip_39_word_space_10: trip usage join novel come laugh omit install double era
-bip_39_word_space_11: trip usage join novel come laugh omit install double era pair
 bip_39_word_space_12: trip usage join novel come laugh omit install double era pair
   arrange
 bip_39_word_space_2: trip usage
 bip_39_word_space_3: trip usage join
-bip_39_word_space_4: trip usage join novel
-bip_39_word_space_5: trip usage join novel come
-bip_39_word_space_6: trip usage join novel come laugh
-bip_39_word_space_7: trip usage join novel come laugh omit
-bip_39_word_space_8: trip usage join novel come laugh omit install
-bip_39_word_space_9: trip usage join novel come laugh omit install double
-bip_39_word_underscore_1: trip
-bip_39_word_underscore_10: trip_usage_join_novel_come_laugh_omit_install_double_era
-bip_39_word_underscore_11: trip_usage_join_novel_come_laugh_omit_install_double_era_pair
 bip_39_word_underscore_12: trip_usage_join_novel_come_laugh_omit_install_double_era_pair_arrange
 bip_39_word_underscore_2: trip_usage
 bip_39_word_underscore_3: trip_usage_join
-bip_39_word_underscore_4: trip_usage_join_novel
-bip_39_word_underscore_5: trip_usage_join_novel_come
-bip_39_word_underscore_6: trip_usage_join_novel_come_laugh
-bip_39_word_underscore_7: trip_usage_join_novel_come_laugh_omit
-bip_39_word_underscore_8: trip_usage_join_novel_come_laugh_omit_install
-bip_39_word_underscore_9: trip_usage_join_novel_come_laugh_omit_install_double
 classification: paper
 classification_capital: Paper
 classification_first_letter: p

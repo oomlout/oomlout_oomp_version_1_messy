@@ -1,68 +1,9 @@
-bip_39_word_dash_1: awkward
-bip_39_word_dash_10: awkward-foot-hedgehog-gallery-blind-shrimp-random-junk-engage-gorilla
-bip_39_word_dash_11: awkward-foot-hedgehog-gallery-blind-shrimp-random-junk-engage-gorilla-impact
 bip_39_word_dash_12: awkward-foot-hedgehog-gallery-blind-shrimp-random-junk-engage-gorilla-impact-artefact
 bip_39_word_dash_2: awkward-foot
 bip_39_word_dash_3: awkward-foot-hedgehog
-bip_39_word_dash_4: awkward-foot-hedgehog-gallery
-bip_39_word_dash_5: awkward-foot-hedgehog-gallery-blind
-bip_39_word_dash_6: awkward-foot-hedgehog-gallery-blind-shrimp
-bip_39_word_dash_7: awkward-foot-hedgehog-gallery-blind-shrimp-random
-bip_39_word_dash_8: awkward-foot-hedgehog-gallery-blind-shrimp-random-junk
-bip_39_word_dash_9: awkward-foot-hedgehog-gallery-blind-shrimp-random-junk-engage
-bip_39_word_new_br_1: awkward
-bip_39_word_new_br_10: awkward<br>foot<br>hedgehog<br>gallery<br>blind<br>shrimp<br>random<br>junk<br>engage<br>gorilla
-bip_39_word_new_br_11: awkward<br>foot<br>hedgehog<br>gallery<br>blind<br>shrimp<br>random<br>junk<br>engage<br>gorilla<br>impact
 bip_39_word_new_br_12: awkward<br>foot<br>hedgehog<br>gallery<br>blind<br>shrimp<br>random<br>junk<br>engage<br>gorilla<br>impact<br>artefact
 bip_39_word_new_br_2: awkward<br>foot
 bip_39_word_new_br_3: awkward<br>foot<br>hedgehog
-bip_39_word_new_br_4: awkward<br>foot<br>hedgehog<br>gallery
-bip_39_word_new_br_5: awkward<br>foot<br>hedgehog<br>gallery<br>blind
-bip_39_word_new_br_6: awkward<br>foot<br>hedgehog<br>gallery<br>blind<br>shrimp
-bip_39_word_new_br_7: awkward<br>foot<br>hedgehog<br>gallery<br>blind<br>shrimp<br>random
-bip_39_word_new_br_8: awkward<br>foot<br>hedgehog<br>gallery<br>blind<br>shrimp<br>random<br>junk
-bip_39_word_new_br_9: awkward<br>foot<br>hedgehog<br>gallery<br>blind<br>shrimp<br>random<br>junk<br>engage
-bip_39_word_new_line_1: awkward
-bip_39_word_new_line_10: 'awkward
-
-  foot
-
-  hedgehog
-
-  gallery
-
-  blind
-
-  shrimp
-
-  random
-
-  junk
-
-  engage
-
-  gorilla'
-bip_39_word_new_line_11: 'awkward
-
-  foot
-
-  hedgehog
-
-  gallery
-
-  blind
-
-  shrimp
-
-  random
-
-  junk
-
-  engage
-
-  gorilla
-
-  impact'
 bip_39_word_new_line_12: 'awkward
 
   foot
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'awkward
   foot
 
   hedgehog'
-bip_39_word_new_line_4: 'awkward
-
-  foot
-
-  hedgehog
-
-  gallery'
-bip_39_word_new_line_5: 'awkward
-
-  foot
-
-  hedgehog
-
-  gallery
-
-  blind'
-bip_39_word_new_line_6: 'awkward
-
-  foot
-
-  hedgehog
-
-  gallery
-
-  blind
-
-  shrimp'
-bip_39_word_new_line_7: 'awkward
-
-  foot
-
-  hedgehog
-
-  gallery
-
-  blind
-
-  shrimp
-
-  random'
-bip_39_word_new_line_8: 'awkward
-
-  foot
-
-  hedgehog
-
-  gallery
-
-  blind
-
-  shrimp
-
-  random
-
-  junk'
-bip_39_word_new_line_9: 'awkward
-
-  foot
-
-  hedgehog
-
-  gallery
-
-  blind
-
-  shrimp
-
-  random
-
-  junk
-
-  engage'
-bip_39_word_no_space_1: awkward
-bip_39_word_no_space_10: awkwardfoothedgehoggalleryblindshrimprandomjunkengagegorilla
-bip_39_word_no_space_11: awkwardfoothedgehoggalleryblindshrimprandomjunkengagegorillaimpact
 bip_39_word_no_space_12: awkwardfoothedgehoggalleryblindshrimprandomjunkengagegorillaimpactartefact
 bip_39_word_no_space_2: awkwardfoot
 bip_39_word_no_space_3: awkwardfoothedgehog
-bip_39_word_no_space_4: awkwardfoothedgehoggallery
-bip_39_word_no_space_5: awkwardfoothedgehoggalleryblind
-bip_39_word_no_space_6: awkwardfoothedgehoggalleryblindshrimp
-bip_39_word_no_space_7: awkwardfoothedgehoggalleryblindshrimprandom
-bip_39_word_no_space_8: awkwardfoothedgehoggalleryblindshrimprandomjunk
-bip_39_word_no_space_9: awkwardfoothedgehoggalleryblindshrimprandomjunkengage
-bip_39_word_space_0:
-- awkward
-- foot
-- hedgehog
-- gallery
-- blind
-- shrimp
-- random
-- junk
-- engage
-- gorilla
-- impact
-- artefact
-bip_39_word_space_1: awkward
-bip_39_word_space_10: awkward foot hedgehog gallery blind shrimp random junk engage
-  gorilla
-bip_39_word_space_11: awkward foot hedgehog gallery blind shrimp random junk engage
-  gorilla impact
 bip_39_word_space_12: awkward foot hedgehog gallery blind shrimp random junk engage
   gorilla impact artefact
 bip_39_word_space_2: awkward foot
 bip_39_word_space_3: awkward foot hedgehog
-bip_39_word_space_4: awkward foot hedgehog gallery
-bip_39_word_space_5: awkward foot hedgehog gallery blind
-bip_39_word_space_6: awkward foot hedgehog gallery blind shrimp
-bip_39_word_space_7: awkward foot hedgehog gallery blind shrimp random
-bip_39_word_space_8: awkward foot hedgehog gallery blind shrimp random junk
-bip_39_word_space_9: awkward foot hedgehog gallery blind shrimp random junk engage
-bip_39_word_underscore_1: awkward
-bip_39_word_underscore_10: awkward_foot_hedgehog_gallery_blind_shrimp_random_junk_engage_gorilla
-bip_39_word_underscore_11: awkward_foot_hedgehog_gallery_blind_shrimp_random_junk_engage_gorilla_impact
 bip_39_word_underscore_12: awkward_foot_hedgehog_gallery_blind_shrimp_random_junk_engage_gorilla_impact_artefact
 bip_39_word_underscore_2: awkward_foot
 bip_39_word_underscore_3: awkward_foot_hedgehog
-bip_39_word_underscore_4: awkward_foot_hedgehog_gallery
-bip_39_word_underscore_5: awkward_foot_hedgehog_gallery_blind
-bip_39_word_underscore_6: awkward_foot_hedgehog_gallery_blind_shrimp
-bip_39_word_underscore_7: awkward_foot_hedgehog_gallery_blind_shrimp_random
-bip_39_word_underscore_8: awkward_foot_hedgehog_gallery_blind_shrimp_random_junk
-bip_39_word_underscore_9: awkward_foot_hedgehog_gallery_blind_shrimp_random_junk_engage
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

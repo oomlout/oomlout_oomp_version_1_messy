@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gaze
-bip_39_word_dash_10: gaze-million-finger-bird-black-south-dad-again-reject-mimic
-bip_39_word_dash_11: gaze-million-finger-bird-black-south-dad-again-reject-mimic-blind
 bip_39_word_dash_12: gaze-million-finger-bird-black-south-dad-again-reject-mimic-blind-also
 bip_39_word_dash_2: gaze-million
 bip_39_word_dash_3: gaze-million-finger
-bip_39_word_dash_4: gaze-million-finger-bird
-bip_39_word_dash_5: gaze-million-finger-bird-black
-bip_39_word_dash_6: gaze-million-finger-bird-black-south
-bip_39_word_dash_7: gaze-million-finger-bird-black-south-dad
-bip_39_word_dash_8: gaze-million-finger-bird-black-south-dad-again
-bip_39_word_dash_9: gaze-million-finger-bird-black-south-dad-again-reject
-bip_39_word_new_br_1: gaze
-bip_39_word_new_br_10: gaze<br>million<br>finger<br>bird<br>black<br>south<br>dad<br>again<br>reject<br>mimic
-bip_39_word_new_br_11: gaze<br>million<br>finger<br>bird<br>black<br>south<br>dad<br>again<br>reject<br>mimic<br>blind
 bip_39_word_new_br_12: gaze<br>million<br>finger<br>bird<br>black<br>south<br>dad<br>again<br>reject<br>mimic<br>blind<br>also
 bip_39_word_new_br_2: gaze<br>million
 bip_39_word_new_br_3: gaze<br>million<br>finger
-bip_39_word_new_br_4: gaze<br>million<br>finger<br>bird
-bip_39_word_new_br_5: gaze<br>million<br>finger<br>bird<br>black
-bip_39_word_new_br_6: gaze<br>million<br>finger<br>bird<br>black<br>south
-bip_39_word_new_br_7: gaze<br>million<br>finger<br>bird<br>black<br>south<br>dad
-bip_39_word_new_br_8: gaze<br>million<br>finger<br>bird<br>black<br>south<br>dad<br>again
-bip_39_word_new_br_9: gaze<br>million<br>finger<br>bird<br>black<br>south<br>dad<br>again<br>reject
-bip_39_word_new_line_1: gaze
-bip_39_word_new_line_10: 'gaze
-
-  million
-
-  finger
-
-  bird
-
-  black
-
-  south
-
-  dad
-
-  again
-
-  reject
-
-  mimic'
-bip_39_word_new_line_11: 'gaze
-
-  million
-
-  finger
-
-  bird
-
-  black
-
-  south
-
-  dad
-
-  again
-
-  reject
-
-  mimic
-
-  blind'
 bip_39_word_new_line_12: 'gaze
 
   million
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gaze
   million
 
   finger'
-bip_39_word_new_line_4: 'gaze
-
-  million
-
-  finger
-
-  bird'
-bip_39_word_new_line_5: 'gaze
-
-  million
-
-  finger
-
-  bird
-
-  black'
-bip_39_word_new_line_6: 'gaze
-
-  million
-
-  finger
-
-  bird
-
-  black
-
-  south'
-bip_39_word_new_line_7: 'gaze
-
-  million
-
-  finger
-
-  bird
-
-  black
-
-  south
-
-  dad'
-bip_39_word_new_line_8: 'gaze
-
-  million
-
-  finger
-
-  bird
-
-  black
-
-  south
-
-  dad
-
-  again'
-bip_39_word_new_line_9: 'gaze
-
-  million
-
-  finger
-
-  bird
-
-  black
-
-  south
-
-  dad
-
-  again
-
-  reject'
-bip_39_word_no_space_1: gaze
-bip_39_word_no_space_10: gazemillionfingerbirdblacksouthdadagainrejectmimic
-bip_39_word_no_space_11: gazemillionfingerbirdblacksouthdadagainrejectmimicblind
 bip_39_word_no_space_12: gazemillionfingerbirdblacksouthdadagainrejectmimicblindalso
 bip_39_word_no_space_2: gazemillion
 bip_39_word_no_space_3: gazemillionfinger
-bip_39_word_no_space_4: gazemillionfingerbird
-bip_39_word_no_space_5: gazemillionfingerbirdblack
-bip_39_word_no_space_6: gazemillionfingerbirdblacksouth
-bip_39_word_no_space_7: gazemillionfingerbirdblacksouthdad
-bip_39_word_no_space_8: gazemillionfingerbirdblacksouthdadagain
-bip_39_word_no_space_9: gazemillionfingerbirdblacksouthdadagainreject
-bip_39_word_space_0:
-- gaze
-- million
-- finger
-- bird
-- black
-- south
-- dad
-- again
-- reject
-- mimic
-- blind
-- also
-bip_39_word_space_1: gaze
-bip_39_word_space_10: gaze million finger bird black south dad again reject mimic
-bip_39_word_space_11: gaze million finger bird black south dad again reject mimic
-  blind
 bip_39_word_space_12: gaze million finger bird black south dad again reject mimic
   blind also
 bip_39_word_space_2: gaze million
 bip_39_word_space_3: gaze million finger
-bip_39_word_space_4: gaze million finger bird
-bip_39_word_space_5: gaze million finger bird black
-bip_39_word_space_6: gaze million finger bird black south
-bip_39_word_space_7: gaze million finger bird black south dad
-bip_39_word_space_8: gaze million finger bird black south dad again
-bip_39_word_space_9: gaze million finger bird black south dad again reject
-bip_39_word_underscore_1: gaze
-bip_39_word_underscore_10: gaze_million_finger_bird_black_south_dad_again_reject_mimic
-bip_39_word_underscore_11: gaze_million_finger_bird_black_south_dad_again_reject_mimic_blind
 bip_39_word_underscore_12: gaze_million_finger_bird_black_south_dad_again_reject_mimic_blind_also
 bip_39_word_underscore_2: gaze_million
 bip_39_word_underscore_3: gaze_million_finger
-bip_39_word_underscore_4: gaze_million_finger_bird
-bip_39_word_underscore_5: gaze_million_finger_bird_black
-bip_39_word_underscore_6: gaze_million_finger_bird_black_south
-bip_39_word_underscore_7: gaze_million_finger_bird_black_south_dad
-bip_39_word_underscore_8: gaze_million_finger_bird_black_south_dad_again
-bip_39_word_underscore_9: gaze_million_finger_bird_black_south_dad_again_reject
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

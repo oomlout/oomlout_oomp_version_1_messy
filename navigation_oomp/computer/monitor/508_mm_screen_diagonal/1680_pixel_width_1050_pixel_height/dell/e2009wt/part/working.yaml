@@ -1,68 +1,9 @@
-bip_39_word_dash_1: series
-bip_39_word_dash_10: series-portion-avoid-borrow-breeze-vacant-flock-floor-document-refuse
-bip_39_word_dash_11: series-portion-avoid-borrow-breeze-vacant-flock-floor-document-refuse-photo
 bip_39_word_dash_12: series-portion-avoid-borrow-breeze-vacant-flock-floor-document-refuse-photo-average
 bip_39_word_dash_2: series-portion
 bip_39_word_dash_3: series-portion-avoid
-bip_39_word_dash_4: series-portion-avoid-borrow
-bip_39_word_dash_5: series-portion-avoid-borrow-breeze
-bip_39_word_dash_6: series-portion-avoid-borrow-breeze-vacant
-bip_39_word_dash_7: series-portion-avoid-borrow-breeze-vacant-flock
-bip_39_word_dash_8: series-portion-avoid-borrow-breeze-vacant-flock-floor
-bip_39_word_dash_9: series-portion-avoid-borrow-breeze-vacant-flock-floor-document
-bip_39_word_new_br_1: series
-bip_39_word_new_br_10: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant<br>flock<br>floor<br>document<br>refuse
-bip_39_word_new_br_11: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant<br>flock<br>floor<br>document<br>refuse<br>photo
 bip_39_word_new_br_12: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant<br>flock<br>floor<br>document<br>refuse<br>photo<br>average
 bip_39_word_new_br_2: series<br>portion
 bip_39_word_new_br_3: series<br>portion<br>avoid
-bip_39_word_new_br_4: series<br>portion<br>avoid<br>borrow
-bip_39_word_new_br_5: series<br>portion<br>avoid<br>borrow<br>breeze
-bip_39_word_new_br_6: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant
-bip_39_word_new_br_7: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant<br>flock
-bip_39_word_new_br_8: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant<br>flock<br>floor
-bip_39_word_new_br_9: series<br>portion<br>avoid<br>borrow<br>breeze<br>vacant<br>flock<br>floor<br>document
-bip_39_word_new_line_1: series
-bip_39_word_new_line_10: 'series
-
-  portion
-
-  avoid
-
-  borrow
-
-  breeze
-
-  vacant
-
-  flock
-
-  floor
-
-  document
-
-  refuse'
-bip_39_word_new_line_11: 'series
-
-  portion
-
-  avoid
-
-  borrow
-
-  breeze
-
-  vacant
-
-  flock
-
-  floor
-
-  document
-
-  refuse
-
-  photo'
 bip_39_word_new_line_12: 'series
 
   portion
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'series
   portion
 
   avoid'
-bip_39_word_new_line_4: 'series
-
-  portion
-
-  avoid
-
-  borrow'
-bip_39_word_new_line_5: 'series
-
-  portion
-
-  avoid
-
-  borrow
-
-  breeze'
-bip_39_word_new_line_6: 'series
-
-  portion
-
-  avoid
-
-  borrow
-
-  breeze
-
-  vacant'
-bip_39_word_new_line_7: 'series
-
-  portion
-
-  avoid
-
-  borrow
-
-  breeze
-
-  vacant
-
-  flock'
-bip_39_word_new_line_8: 'series
-
-  portion
-
-  avoid
-
-  borrow
-
-  breeze
-
-  vacant
-
-  flock
-
-  floor'
-bip_39_word_new_line_9: 'series
-
-  portion
-
-  avoid
-
-  borrow
-
-  breeze
-
-  vacant
-
-  flock
-
-  floor
-
-  document'
-bip_39_word_no_space_1: series
-bip_39_word_no_space_10: seriesportionavoidborrowbreezevacantflockfloordocumentrefuse
-bip_39_word_no_space_11: seriesportionavoidborrowbreezevacantflockfloordocumentrefusephoto
 bip_39_word_no_space_12: seriesportionavoidborrowbreezevacantflockfloordocumentrefusephotoaverage
 bip_39_word_no_space_2: seriesportion
 bip_39_word_no_space_3: seriesportionavoid
-bip_39_word_no_space_4: seriesportionavoidborrow
-bip_39_word_no_space_5: seriesportionavoidborrowbreeze
-bip_39_word_no_space_6: seriesportionavoidborrowbreezevacant
-bip_39_word_no_space_7: seriesportionavoidborrowbreezevacantflock
-bip_39_word_no_space_8: seriesportionavoidborrowbreezevacantflockfloor
-bip_39_word_no_space_9: seriesportionavoidborrowbreezevacantflockfloordocument
-bip_39_word_space_0:
-- series
-- portion
-- avoid
-- borrow
-- breeze
-- vacant
-- flock
-- floor
-- document
-- refuse
-- photo
-- average
-bip_39_word_space_1: series
-bip_39_word_space_10: series portion avoid borrow breeze vacant flock floor document
-  refuse
-bip_39_word_space_11: series portion avoid borrow breeze vacant flock floor document
-  refuse photo
 bip_39_word_space_12: series portion avoid borrow breeze vacant flock floor document
   refuse photo average
 bip_39_word_space_2: series portion
 bip_39_word_space_3: series portion avoid
-bip_39_word_space_4: series portion avoid borrow
-bip_39_word_space_5: series portion avoid borrow breeze
-bip_39_word_space_6: series portion avoid borrow breeze vacant
-bip_39_word_space_7: series portion avoid borrow breeze vacant flock
-bip_39_word_space_8: series portion avoid borrow breeze vacant flock floor
-bip_39_word_space_9: series portion avoid borrow breeze vacant flock floor document
-bip_39_word_underscore_1: series
-bip_39_word_underscore_10: series_portion_avoid_borrow_breeze_vacant_flock_floor_document_refuse
-bip_39_word_underscore_11: series_portion_avoid_borrow_breeze_vacant_flock_floor_document_refuse_photo
 bip_39_word_underscore_12: series_portion_avoid_borrow_breeze_vacant_flock_floor_document_refuse_photo_average
 bip_39_word_underscore_2: series_portion
 bip_39_word_underscore_3: series_portion_avoid
-bip_39_word_underscore_4: series_portion_avoid_borrow
-bip_39_word_underscore_5: series_portion_avoid_borrow_breeze
-bip_39_word_underscore_6: series_portion_avoid_borrow_breeze_vacant
-bip_39_word_underscore_7: series_portion_avoid_borrow_breeze_vacant_flock
-bip_39_word_underscore_8: series_portion_avoid_borrow_breeze_vacant_flock_floor
-bip_39_word_underscore_9: series_portion_avoid_borrow_breeze_vacant_flock_floor_document
 classification: computer
 classification_capital: Computer
 classification_first_letter: c

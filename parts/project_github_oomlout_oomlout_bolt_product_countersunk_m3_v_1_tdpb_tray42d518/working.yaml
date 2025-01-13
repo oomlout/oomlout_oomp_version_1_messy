@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spot
-bip_39_word_dash_10: spot-chaos-survey-program-happy-hard-damage-dwarf-burden-midnight
-bip_39_word_dash_11: spot-chaos-survey-program-happy-hard-damage-dwarf-burden-midnight-document
 bip_39_word_dash_12: spot-chaos-survey-program-happy-hard-damage-dwarf-burden-midnight-document-apple
 bip_39_word_dash_2: spot-chaos
 bip_39_word_dash_3: spot-chaos-survey
-bip_39_word_dash_4: spot-chaos-survey-program
-bip_39_word_dash_5: spot-chaos-survey-program-happy
-bip_39_word_dash_6: spot-chaos-survey-program-happy-hard
-bip_39_word_dash_7: spot-chaos-survey-program-happy-hard-damage
-bip_39_word_dash_8: spot-chaos-survey-program-happy-hard-damage-dwarf
-bip_39_word_dash_9: spot-chaos-survey-program-happy-hard-damage-dwarf-burden
-bip_39_word_new_br_1: spot
-bip_39_word_new_br_10: spot<br>chaos<br>survey<br>program<br>happy<br>hard<br>damage<br>dwarf<br>burden<br>midnight
-bip_39_word_new_br_11: spot<br>chaos<br>survey<br>program<br>happy<br>hard<br>damage<br>dwarf<br>burden<br>midnight<br>document
 bip_39_word_new_br_12: spot<br>chaos<br>survey<br>program<br>happy<br>hard<br>damage<br>dwarf<br>burden<br>midnight<br>document<br>apple
 bip_39_word_new_br_2: spot<br>chaos
 bip_39_word_new_br_3: spot<br>chaos<br>survey
-bip_39_word_new_br_4: spot<br>chaos<br>survey<br>program
-bip_39_word_new_br_5: spot<br>chaos<br>survey<br>program<br>happy
-bip_39_word_new_br_6: spot<br>chaos<br>survey<br>program<br>happy<br>hard
-bip_39_word_new_br_7: spot<br>chaos<br>survey<br>program<br>happy<br>hard<br>damage
-bip_39_word_new_br_8: spot<br>chaos<br>survey<br>program<br>happy<br>hard<br>damage<br>dwarf
-bip_39_word_new_br_9: spot<br>chaos<br>survey<br>program<br>happy<br>hard<br>damage<br>dwarf<br>burden
-bip_39_word_new_line_1: spot
-bip_39_word_new_line_10: 'spot
-
-  chaos
-
-  survey
-
-  program
-
-  happy
-
-  hard
-
-  damage
-
-  dwarf
-
-  burden
-
-  midnight'
-bip_39_word_new_line_11: 'spot
-
-  chaos
-
-  survey
-
-  program
-
-  happy
-
-  hard
-
-  damage
-
-  dwarf
-
-  burden
-
-  midnight
-
-  document'
 bip_39_word_new_line_12: 'spot
 
   chaos
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spot
   chaos
 
   survey'
-bip_39_word_new_line_4: 'spot
-
-  chaos
-
-  survey
-
-  program'
-bip_39_word_new_line_5: 'spot
-
-  chaos
-
-  survey
-
-  program
-
-  happy'
-bip_39_word_new_line_6: 'spot
-
-  chaos
-
-  survey
-
-  program
-
-  happy
-
-  hard'
-bip_39_word_new_line_7: 'spot
-
-  chaos
-
-  survey
-
-  program
-
-  happy
-
-  hard
-
-  damage'
-bip_39_word_new_line_8: 'spot
-
-  chaos
-
-  survey
-
-  program
-
-  happy
-
-  hard
-
-  damage
-
-  dwarf'
-bip_39_word_new_line_9: 'spot
-
-  chaos
-
-  survey
-
-  program
-
-  happy
-
-  hard
-
-  damage
-
-  dwarf
-
-  burden'
-bip_39_word_no_space_1: spot
-bip_39_word_no_space_10: spotchaossurveyprogramhappyharddamagedwarfburdenmidnight
-bip_39_word_no_space_11: spotchaossurveyprogramhappyharddamagedwarfburdenmidnightdocument
 bip_39_word_no_space_12: spotchaossurveyprogramhappyharddamagedwarfburdenmidnightdocumentapple
 bip_39_word_no_space_2: spotchaos
 bip_39_word_no_space_3: spotchaossurvey
-bip_39_word_no_space_4: spotchaossurveyprogram
-bip_39_word_no_space_5: spotchaossurveyprogramhappy
-bip_39_word_no_space_6: spotchaossurveyprogramhappyhard
-bip_39_word_no_space_7: spotchaossurveyprogramhappyharddamage
-bip_39_word_no_space_8: spotchaossurveyprogramhappyharddamagedwarf
-bip_39_word_no_space_9: spotchaossurveyprogramhappyharddamagedwarfburden
-bip_39_word_space_0:
-- spot
-- chaos
-- survey
-- program
-- happy
-- hard
-- damage
-- dwarf
-- burden
-- midnight
-- document
-- apple
-bip_39_word_space_1: spot
-bip_39_word_space_10: spot chaos survey program happy hard damage dwarf burden midnight
-bip_39_word_space_11: spot chaos survey program happy hard damage dwarf burden midnight
-  document
 bip_39_word_space_12: spot chaos survey program happy hard damage dwarf burden midnight
   document apple
 bip_39_word_space_2: spot chaos
 bip_39_word_space_3: spot chaos survey
-bip_39_word_space_4: spot chaos survey program
-bip_39_word_space_5: spot chaos survey program happy
-bip_39_word_space_6: spot chaos survey program happy hard
-bip_39_word_space_7: spot chaos survey program happy hard damage
-bip_39_word_space_8: spot chaos survey program happy hard damage dwarf
-bip_39_word_space_9: spot chaos survey program happy hard damage dwarf burden
-bip_39_word_underscore_1: spot
-bip_39_word_underscore_10: spot_chaos_survey_program_happy_hard_damage_dwarf_burden_midnight
-bip_39_word_underscore_11: spot_chaos_survey_program_happy_hard_damage_dwarf_burden_midnight_document
 bip_39_word_underscore_12: spot_chaos_survey_program_happy_hard_damage_dwarf_burden_midnight_document_apple
 bip_39_word_underscore_2: spot_chaos
 bip_39_word_underscore_3: spot_chaos_survey
-bip_39_word_underscore_4: spot_chaos_survey_program
-bip_39_word_underscore_5: spot_chaos_survey_program_happy
-bip_39_word_underscore_6: spot_chaos_survey_program_happy_hard
-bip_39_word_underscore_7: spot_chaos_survey_program_happy_hard_damage
-bip_39_word_underscore_8: spot_chaos_survey_program_happy_hard_damage_dwarf
-bip_39_word_underscore_9: spot_chaos_survey_program_happy_hard_damage_dwarf_burden
 classification: project
 classification_capital: Project
 classification_first_letter: p

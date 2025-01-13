@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cigar
-bip_39_word_dash_10: cigar-south-note-sort-lonely-correct-couple-keep-warfare-pizza
-bip_39_word_dash_11: cigar-south-note-sort-lonely-correct-couple-keep-warfare-pizza-confirm
 bip_39_word_dash_12: cigar-south-note-sort-lonely-correct-couple-keep-warfare-pizza-confirm-abuse
 bip_39_word_dash_2: cigar-south
 bip_39_word_dash_3: cigar-south-note
-bip_39_word_dash_4: cigar-south-note-sort
-bip_39_word_dash_5: cigar-south-note-sort-lonely
-bip_39_word_dash_6: cigar-south-note-sort-lonely-correct
-bip_39_word_dash_7: cigar-south-note-sort-lonely-correct-couple
-bip_39_word_dash_8: cigar-south-note-sort-lonely-correct-couple-keep
-bip_39_word_dash_9: cigar-south-note-sort-lonely-correct-couple-keep-warfare
-bip_39_word_new_br_1: cigar
-bip_39_word_new_br_10: cigar<br>south<br>note<br>sort<br>lonely<br>correct<br>couple<br>keep<br>warfare<br>pizza
-bip_39_word_new_br_11: cigar<br>south<br>note<br>sort<br>lonely<br>correct<br>couple<br>keep<br>warfare<br>pizza<br>confirm
 bip_39_word_new_br_12: cigar<br>south<br>note<br>sort<br>lonely<br>correct<br>couple<br>keep<br>warfare<br>pizza<br>confirm<br>abuse
 bip_39_word_new_br_2: cigar<br>south
 bip_39_word_new_br_3: cigar<br>south<br>note
-bip_39_word_new_br_4: cigar<br>south<br>note<br>sort
-bip_39_word_new_br_5: cigar<br>south<br>note<br>sort<br>lonely
-bip_39_word_new_br_6: cigar<br>south<br>note<br>sort<br>lonely<br>correct
-bip_39_word_new_br_7: cigar<br>south<br>note<br>sort<br>lonely<br>correct<br>couple
-bip_39_word_new_br_8: cigar<br>south<br>note<br>sort<br>lonely<br>correct<br>couple<br>keep
-bip_39_word_new_br_9: cigar<br>south<br>note<br>sort<br>lonely<br>correct<br>couple<br>keep<br>warfare
-bip_39_word_new_line_1: cigar
-bip_39_word_new_line_10: 'cigar
-
-  south
-
-  note
-
-  sort
-
-  lonely
-
-  correct
-
-  couple
-
-  keep
-
-  warfare
-
-  pizza'
-bip_39_word_new_line_11: 'cigar
-
-  south
-
-  note
-
-  sort
-
-  lonely
-
-  correct
-
-  couple
-
-  keep
-
-  warfare
-
-  pizza
-
-  confirm'
 bip_39_word_new_line_12: 'cigar
 
   south
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cigar
   south
 
   note'
-bip_39_word_new_line_4: 'cigar
-
-  south
-
-  note
-
-  sort'
-bip_39_word_new_line_5: 'cigar
-
-  south
-
-  note
-
-  sort
-
-  lonely'
-bip_39_word_new_line_6: 'cigar
-
-  south
-
-  note
-
-  sort
-
-  lonely
-
-  correct'
-bip_39_word_new_line_7: 'cigar
-
-  south
-
-  note
-
-  sort
-
-  lonely
-
-  correct
-
-  couple'
-bip_39_word_new_line_8: 'cigar
-
-  south
-
-  note
-
-  sort
-
-  lonely
-
-  correct
-
-  couple
-
-  keep'
-bip_39_word_new_line_9: 'cigar
-
-  south
-
-  note
-
-  sort
-
-  lonely
-
-  correct
-
-  couple
-
-  keep
-
-  warfare'
-bip_39_word_no_space_1: cigar
-bip_39_word_no_space_10: cigarsouthnotesortlonelycorrectcouplekeepwarfarepizza
-bip_39_word_no_space_11: cigarsouthnotesortlonelycorrectcouplekeepwarfarepizzaconfirm
 bip_39_word_no_space_12: cigarsouthnotesortlonelycorrectcouplekeepwarfarepizzaconfirmabuse
 bip_39_word_no_space_2: cigarsouth
 bip_39_word_no_space_3: cigarsouthnote
-bip_39_word_no_space_4: cigarsouthnotesort
-bip_39_word_no_space_5: cigarsouthnotesortlonely
-bip_39_word_no_space_6: cigarsouthnotesortlonelycorrect
-bip_39_word_no_space_7: cigarsouthnotesortlonelycorrectcouple
-bip_39_word_no_space_8: cigarsouthnotesortlonelycorrectcouplekeep
-bip_39_word_no_space_9: cigarsouthnotesortlonelycorrectcouplekeepwarfare
-bip_39_word_space_0:
-- cigar
-- south
-- note
-- sort
-- lonely
-- correct
-- couple
-- keep
-- warfare
-- pizza
-- confirm
-- abuse
-bip_39_word_space_1: cigar
-bip_39_word_space_10: cigar south note sort lonely correct couple keep warfare pizza
-bip_39_word_space_11: cigar south note sort lonely correct couple keep warfare pizza
-  confirm
 bip_39_word_space_12: cigar south note sort lonely correct couple keep warfare pizza
   confirm abuse
 bip_39_word_space_2: cigar south
 bip_39_word_space_3: cigar south note
-bip_39_word_space_4: cigar south note sort
-bip_39_word_space_5: cigar south note sort lonely
-bip_39_word_space_6: cigar south note sort lonely correct
-bip_39_word_space_7: cigar south note sort lonely correct couple
-bip_39_word_space_8: cigar south note sort lonely correct couple keep
-bip_39_word_space_9: cigar south note sort lonely correct couple keep warfare
-bip_39_word_underscore_1: cigar
-bip_39_word_underscore_10: cigar_south_note_sort_lonely_correct_couple_keep_warfare_pizza
-bip_39_word_underscore_11: cigar_south_note_sort_lonely_correct_couple_keep_warfare_pizza_confirm
 bip_39_word_underscore_12: cigar_south_note_sort_lonely_correct_couple_keep_warfare_pizza_confirm_abuse
 bip_39_word_underscore_2: cigar_south
 bip_39_word_underscore_3: cigar_south_note
-bip_39_word_underscore_4: cigar_south_note_sort
-bip_39_word_underscore_5: cigar_south_note_sort_lonely
-bip_39_word_underscore_6: cigar_south_note_sort_lonely_correct
-bip_39_word_underscore_7: cigar_south_note_sort_lonely_correct_couple
-bip_39_word_underscore_8: cigar_south_note_sort_lonely_correct_couple_keep
-bip_39_word_underscore_9: cigar_south_note_sort_lonely_correct_couple_keep_warfare
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

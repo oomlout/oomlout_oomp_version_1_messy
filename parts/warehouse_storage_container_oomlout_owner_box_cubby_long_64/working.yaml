@@ -1,68 +1,9 @@
-bip_39_word_dash_1: apple
-bip_39_word_dash_10: apple-sauce-spring-beach-reason-lake-arctic-risk-alert-ship
-bip_39_word_dash_11: apple-sauce-spring-beach-reason-lake-arctic-risk-alert-ship-horse
 bip_39_word_dash_12: apple-sauce-spring-beach-reason-lake-arctic-risk-alert-ship-horse-agree
 bip_39_word_dash_2: apple-sauce
 bip_39_word_dash_3: apple-sauce-spring
-bip_39_word_dash_4: apple-sauce-spring-beach
-bip_39_word_dash_5: apple-sauce-spring-beach-reason
-bip_39_word_dash_6: apple-sauce-spring-beach-reason-lake
-bip_39_word_dash_7: apple-sauce-spring-beach-reason-lake-arctic
-bip_39_word_dash_8: apple-sauce-spring-beach-reason-lake-arctic-risk
-bip_39_word_dash_9: apple-sauce-spring-beach-reason-lake-arctic-risk-alert
-bip_39_word_new_br_1: apple
-bip_39_word_new_br_10: apple<br>sauce<br>spring<br>beach<br>reason<br>lake<br>arctic<br>risk<br>alert<br>ship
-bip_39_word_new_br_11: apple<br>sauce<br>spring<br>beach<br>reason<br>lake<br>arctic<br>risk<br>alert<br>ship<br>horse
 bip_39_word_new_br_12: apple<br>sauce<br>spring<br>beach<br>reason<br>lake<br>arctic<br>risk<br>alert<br>ship<br>horse<br>agree
 bip_39_word_new_br_2: apple<br>sauce
 bip_39_word_new_br_3: apple<br>sauce<br>spring
-bip_39_word_new_br_4: apple<br>sauce<br>spring<br>beach
-bip_39_word_new_br_5: apple<br>sauce<br>spring<br>beach<br>reason
-bip_39_word_new_br_6: apple<br>sauce<br>spring<br>beach<br>reason<br>lake
-bip_39_word_new_br_7: apple<br>sauce<br>spring<br>beach<br>reason<br>lake<br>arctic
-bip_39_word_new_br_8: apple<br>sauce<br>spring<br>beach<br>reason<br>lake<br>arctic<br>risk
-bip_39_word_new_br_9: apple<br>sauce<br>spring<br>beach<br>reason<br>lake<br>arctic<br>risk<br>alert
-bip_39_word_new_line_1: apple
-bip_39_word_new_line_10: 'apple
-
-  sauce
-
-  spring
-
-  beach
-
-  reason
-
-  lake
-
-  arctic
-
-  risk
-
-  alert
-
-  ship'
-bip_39_word_new_line_11: 'apple
-
-  sauce
-
-  spring
-
-  beach
-
-  reason
-
-  lake
-
-  arctic
-
-  risk
-
-  alert
-
-  ship
-
-  horse'
 bip_39_word_new_line_12: 'apple
 
   sauce
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'apple
   sauce
 
   spring'
-bip_39_word_new_line_4: 'apple
-
-  sauce
-
-  spring
-
-  beach'
-bip_39_word_new_line_5: 'apple
-
-  sauce
-
-  spring
-
-  beach
-
-  reason'
-bip_39_word_new_line_6: 'apple
-
-  sauce
-
-  spring
-
-  beach
-
-  reason
-
-  lake'
-bip_39_word_new_line_7: 'apple
-
-  sauce
-
-  spring
-
-  beach
-
-  reason
-
-  lake
-
-  arctic'
-bip_39_word_new_line_8: 'apple
-
-  sauce
-
-  spring
-
-  beach
-
-  reason
-
-  lake
-
-  arctic
-
-  risk'
-bip_39_word_new_line_9: 'apple
-
-  sauce
-
-  spring
-
-  beach
-
-  reason
-
-  lake
-
-  arctic
-
-  risk
-
-  alert'
-bip_39_word_no_space_1: apple
-bip_39_word_no_space_10: applesaucespringbeachreasonlakearcticriskalertship
-bip_39_word_no_space_11: applesaucespringbeachreasonlakearcticriskalertshiphorse
 bip_39_word_no_space_12: applesaucespringbeachreasonlakearcticriskalertshiphorseagree
 bip_39_word_no_space_2: applesauce
 bip_39_word_no_space_3: applesaucespring
-bip_39_word_no_space_4: applesaucespringbeach
-bip_39_word_no_space_5: applesaucespringbeachreason
-bip_39_word_no_space_6: applesaucespringbeachreasonlake
-bip_39_word_no_space_7: applesaucespringbeachreasonlakearctic
-bip_39_word_no_space_8: applesaucespringbeachreasonlakearcticrisk
-bip_39_word_no_space_9: applesaucespringbeachreasonlakearcticriskalert
-bip_39_word_space_0:
-- apple
-- sauce
-- spring
-- beach
-- reason
-- lake
-- arctic
-- risk
-- alert
-- ship
-- horse
-- agree
-bip_39_word_space_1: apple
-bip_39_word_space_10: apple sauce spring beach reason lake arctic risk alert ship
-bip_39_word_space_11: apple sauce spring beach reason lake arctic risk alert ship
-  horse
 bip_39_word_space_12: apple sauce spring beach reason lake arctic risk alert ship
   horse agree
 bip_39_word_space_2: apple sauce
 bip_39_word_space_3: apple sauce spring
-bip_39_word_space_4: apple sauce spring beach
-bip_39_word_space_5: apple sauce spring beach reason
-bip_39_word_space_6: apple sauce spring beach reason lake
-bip_39_word_space_7: apple sauce spring beach reason lake arctic
-bip_39_word_space_8: apple sauce spring beach reason lake arctic risk
-bip_39_word_space_9: apple sauce spring beach reason lake arctic risk alert
-bip_39_word_underscore_1: apple
-bip_39_word_underscore_10: apple_sauce_spring_beach_reason_lake_arctic_risk_alert_ship
-bip_39_word_underscore_11: apple_sauce_spring_beach_reason_lake_arctic_risk_alert_ship_horse
 bip_39_word_underscore_12: apple_sauce_spring_beach_reason_lake_arctic_risk_alert_ship_horse_agree
 bip_39_word_underscore_2: apple_sauce
 bip_39_word_underscore_3: apple_sauce_spring
-bip_39_word_underscore_4: apple_sauce_spring_beach
-bip_39_word_underscore_5: apple_sauce_spring_beach_reason
-bip_39_word_underscore_6: apple_sauce_spring_beach_reason_lake
-bip_39_word_underscore_7: apple_sauce_spring_beach_reason_lake_arctic
-bip_39_word_underscore_8: apple_sauce_spring_beach_reason_lake_arctic_risk
-bip_39_word_underscore_9: apple_sauce_spring_beach_reason_lake_arctic_risk_alert
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

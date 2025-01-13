@@ -1,68 +1,9 @@
-bip_39_word_dash_1: label
-bip_39_word_dash_10: label-voyage-high-cattle-hand-absent-pave-tree-spell-magic
-bip_39_word_dash_11: label-voyage-high-cattle-hand-absent-pave-tree-spell-magic-blast
 bip_39_word_dash_12: label-voyage-high-cattle-hand-absent-pave-tree-spell-magic-blast-angry
 bip_39_word_dash_2: label-voyage
 bip_39_word_dash_3: label-voyage-high
-bip_39_word_dash_4: label-voyage-high-cattle
-bip_39_word_dash_5: label-voyage-high-cattle-hand
-bip_39_word_dash_6: label-voyage-high-cattle-hand-absent
-bip_39_word_dash_7: label-voyage-high-cattle-hand-absent-pave
-bip_39_word_dash_8: label-voyage-high-cattle-hand-absent-pave-tree
-bip_39_word_dash_9: label-voyage-high-cattle-hand-absent-pave-tree-spell
-bip_39_word_new_br_1: label
-bip_39_word_new_br_10: label<br>voyage<br>high<br>cattle<br>hand<br>absent<br>pave<br>tree<br>spell<br>magic
-bip_39_word_new_br_11: label<br>voyage<br>high<br>cattle<br>hand<br>absent<br>pave<br>tree<br>spell<br>magic<br>blast
 bip_39_word_new_br_12: label<br>voyage<br>high<br>cattle<br>hand<br>absent<br>pave<br>tree<br>spell<br>magic<br>blast<br>angry
 bip_39_word_new_br_2: label<br>voyage
 bip_39_word_new_br_3: label<br>voyage<br>high
-bip_39_word_new_br_4: label<br>voyage<br>high<br>cattle
-bip_39_word_new_br_5: label<br>voyage<br>high<br>cattle<br>hand
-bip_39_word_new_br_6: label<br>voyage<br>high<br>cattle<br>hand<br>absent
-bip_39_word_new_br_7: label<br>voyage<br>high<br>cattle<br>hand<br>absent<br>pave
-bip_39_word_new_br_8: label<br>voyage<br>high<br>cattle<br>hand<br>absent<br>pave<br>tree
-bip_39_word_new_br_9: label<br>voyage<br>high<br>cattle<br>hand<br>absent<br>pave<br>tree<br>spell
-bip_39_word_new_line_1: label
-bip_39_word_new_line_10: 'label
-
-  voyage
-
-  high
-
-  cattle
-
-  hand
-
-  absent
-
-  pave
-
-  tree
-
-  spell
-
-  magic'
-bip_39_word_new_line_11: 'label
-
-  voyage
-
-  high
-
-  cattle
-
-  hand
-
-  absent
-
-  pave
-
-  tree
-
-  spell
-
-  magic
-
-  blast'
 bip_39_word_new_line_12: 'label
 
   voyage
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'label
   voyage
 
   high'
-bip_39_word_new_line_4: 'label
-
-  voyage
-
-  high
-
-  cattle'
-bip_39_word_new_line_5: 'label
-
-  voyage
-
-  high
-
-  cattle
-
-  hand'
-bip_39_word_new_line_6: 'label
-
-  voyage
-
-  high
-
-  cattle
-
-  hand
-
-  absent'
-bip_39_word_new_line_7: 'label
-
-  voyage
-
-  high
-
-  cattle
-
-  hand
-
-  absent
-
-  pave'
-bip_39_word_new_line_8: 'label
-
-  voyage
-
-  high
-
-  cattle
-
-  hand
-
-  absent
-
-  pave
-
-  tree'
-bip_39_word_new_line_9: 'label
-
-  voyage
-
-  high
-
-  cattle
-
-  hand
-
-  absent
-
-  pave
-
-  tree
-
-  spell'
-bip_39_word_no_space_1: label
-bip_39_word_no_space_10: labelvoyagehighcattlehandabsentpavetreespellmagic
-bip_39_word_no_space_11: labelvoyagehighcattlehandabsentpavetreespellmagicblast
 bip_39_word_no_space_12: labelvoyagehighcattlehandabsentpavetreespellmagicblastangry
 bip_39_word_no_space_2: labelvoyage
 bip_39_word_no_space_3: labelvoyagehigh
-bip_39_word_no_space_4: labelvoyagehighcattle
-bip_39_word_no_space_5: labelvoyagehighcattlehand
-bip_39_word_no_space_6: labelvoyagehighcattlehandabsent
-bip_39_word_no_space_7: labelvoyagehighcattlehandabsentpave
-bip_39_word_no_space_8: labelvoyagehighcattlehandabsentpavetree
-bip_39_word_no_space_9: labelvoyagehighcattlehandabsentpavetreespell
-bip_39_word_space_0:
-- label
-- voyage
-- high
-- cattle
-- hand
-- absent
-- pave
-- tree
-- spell
-- magic
-- blast
-- angry
-bip_39_word_space_1: label
-bip_39_word_space_10: label voyage high cattle hand absent pave tree spell magic
-bip_39_word_space_11: label voyage high cattle hand absent pave tree spell magic blast
 bip_39_word_space_12: label voyage high cattle hand absent pave tree spell magic blast
   angry
 bip_39_word_space_2: label voyage
 bip_39_word_space_3: label voyage high
-bip_39_word_space_4: label voyage high cattle
-bip_39_word_space_5: label voyage high cattle hand
-bip_39_word_space_6: label voyage high cattle hand absent
-bip_39_word_space_7: label voyage high cattle hand absent pave
-bip_39_word_space_8: label voyage high cattle hand absent pave tree
-bip_39_word_space_9: label voyage high cattle hand absent pave tree spell
-bip_39_word_underscore_1: label
-bip_39_word_underscore_10: label_voyage_high_cattle_hand_absent_pave_tree_spell_magic
-bip_39_word_underscore_11: label_voyage_high_cattle_hand_absent_pave_tree_spell_magic_blast
 bip_39_word_underscore_12: label_voyage_high_cattle_hand_absent_pave_tree_spell_magic_blast_angry
 bip_39_word_underscore_2: label_voyage
 bip_39_word_underscore_3: label_voyage_high
-bip_39_word_underscore_4: label_voyage_high_cattle
-bip_39_word_underscore_5: label_voyage_high_cattle_hand
-bip_39_word_underscore_6: label_voyage_high_cattle_hand_absent
-bip_39_word_underscore_7: label_voyage_high_cattle_hand_absent_pave
-bip_39_word_underscore_8: label_voyage_high_cattle_hand_absent_pave_tree
-bip_39_word_underscore_9: label_voyage_high_cattle_hand_absent_pave_tree_spell
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

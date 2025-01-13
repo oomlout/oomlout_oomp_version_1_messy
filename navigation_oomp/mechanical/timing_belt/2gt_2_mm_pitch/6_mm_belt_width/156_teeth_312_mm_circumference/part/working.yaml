@@ -1,68 +1,9 @@
-bip_39_word_dash_1: memory
-bip_39_word_dash_10: memory-convince-ivory-party-gym-trash-risk-snow-kiss-impact
-bip_39_word_dash_11: memory-convince-ivory-party-gym-trash-risk-snow-kiss-impact-home
 bip_39_word_dash_12: memory-convince-ivory-party-gym-trash-risk-snow-kiss-impact-home-about
 bip_39_word_dash_2: memory-convince
 bip_39_word_dash_3: memory-convince-ivory
-bip_39_word_dash_4: memory-convince-ivory-party
-bip_39_word_dash_5: memory-convince-ivory-party-gym
-bip_39_word_dash_6: memory-convince-ivory-party-gym-trash
-bip_39_word_dash_7: memory-convince-ivory-party-gym-trash-risk
-bip_39_word_dash_8: memory-convince-ivory-party-gym-trash-risk-snow
-bip_39_word_dash_9: memory-convince-ivory-party-gym-trash-risk-snow-kiss
-bip_39_word_new_br_1: memory
-bip_39_word_new_br_10: memory<br>convince<br>ivory<br>party<br>gym<br>trash<br>risk<br>snow<br>kiss<br>impact
-bip_39_word_new_br_11: memory<br>convince<br>ivory<br>party<br>gym<br>trash<br>risk<br>snow<br>kiss<br>impact<br>home
 bip_39_word_new_br_12: memory<br>convince<br>ivory<br>party<br>gym<br>trash<br>risk<br>snow<br>kiss<br>impact<br>home<br>about
 bip_39_word_new_br_2: memory<br>convince
 bip_39_word_new_br_3: memory<br>convince<br>ivory
-bip_39_word_new_br_4: memory<br>convince<br>ivory<br>party
-bip_39_word_new_br_5: memory<br>convince<br>ivory<br>party<br>gym
-bip_39_word_new_br_6: memory<br>convince<br>ivory<br>party<br>gym<br>trash
-bip_39_word_new_br_7: memory<br>convince<br>ivory<br>party<br>gym<br>trash<br>risk
-bip_39_word_new_br_8: memory<br>convince<br>ivory<br>party<br>gym<br>trash<br>risk<br>snow
-bip_39_word_new_br_9: memory<br>convince<br>ivory<br>party<br>gym<br>trash<br>risk<br>snow<br>kiss
-bip_39_word_new_line_1: memory
-bip_39_word_new_line_10: 'memory
-
-  convince
-
-  ivory
-
-  party
-
-  gym
-
-  trash
-
-  risk
-
-  snow
-
-  kiss
-
-  impact'
-bip_39_word_new_line_11: 'memory
-
-  convince
-
-  ivory
-
-  party
-
-  gym
-
-  trash
-
-  risk
-
-  snow
-
-  kiss
-
-  impact
-
-  home'
 bip_39_word_new_line_12: 'memory
 
   convince
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'memory
   convince
 
   ivory'
-bip_39_word_new_line_4: 'memory
-
-  convince
-
-  ivory
-
-  party'
-bip_39_word_new_line_5: 'memory
-
-  convince
-
-  ivory
-
-  party
-
-  gym'
-bip_39_word_new_line_6: 'memory
-
-  convince
-
-  ivory
-
-  party
-
-  gym
-
-  trash'
-bip_39_word_new_line_7: 'memory
-
-  convince
-
-  ivory
-
-  party
-
-  gym
-
-  trash
-
-  risk'
-bip_39_word_new_line_8: 'memory
-
-  convince
-
-  ivory
-
-  party
-
-  gym
-
-  trash
-
-  risk
-
-  snow'
-bip_39_word_new_line_9: 'memory
-
-  convince
-
-  ivory
-
-  party
-
-  gym
-
-  trash
-
-  risk
-
-  snow
-
-  kiss'
-bip_39_word_no_space_1: memory
-bip_39_word_no_space_10: memoryconvinceivorypartygymtrashrisksnowkissimpact
-bip_39_word_no_space_11: memoryconvinceivorypartygymtrashrisksnowkissimpacthome
 bip_39_word_no_space_12: memoryconvinceivorypartygymtrashrisksnowkissimpacthomeabout
 bip_39_word_no_space_2: memoryconvince
 bip_39_word_no_space_3: memoryconvinceivory
-bip_39_word_no_space_4: memoryconvinceivoryparty
-bip_39_word_no_space_5: memoryconvinceivorypartygym
-bip_39_word_no_space_6: memoryconvinceivorypartygymtrash
-bip_39_word_no_space_7: memoryconvinceivorypartygymtrashrisk
-bip_39_word_no_space_8: memoryconvinceivorypartygymtrashrisksnow
-bip_39_word_no_space_9: memoryconvinceivorypartygymtrashrisksnowkiss
-bip_39_word_space_0:
-- memory
-- convince
-- ivory
-- party
-- gym
-- trash
-- risk
-- snow
-- kiss
-- impact
-- home
-- about
-bip_39_word_space_1: memory
-bip_39_word_space_10: memory convince ivory party gym trash risk snow kiss impact
-bip_39_word_space_11: memory convince ivory party gym trash risk snow kiss impact
-  home
 bip_39_word_space_12: memory convince ivory party gym trash risk snow kiss impact
   home about
 bip_39_word_space_2: memory convince
 bip_39_word_space_3: memory convince ivory
-bip_39_word_space_4: memory convince ivory party
-bip_39_word_space_5: memory convince ivory party gym
-bip_39_word_space_6: memory convince ivory party gym trash
-bip_39_word_space_7: memory convince ivory party gym trash risk
-bip_39_word_space_8: memory convince ivory party gym trash risk snow
-bip_39_word_space_9: memory convince ivory party gym trash risk snow kiss
-bip_39_word_underscore_1: memory
-bip_39_word_underscore_10: memory_convince_ivory_party_gym_trash_risk_snow_kiss_impact
-bip_39_word_underscore_11: memory_convince_ivory_party_gym_trash_risk_snow_kiss_impact_home
 bip_39_word_underscore_12: memory_convince_ivory_party_gym_trash_risk_snow_kiss_impact_home_about
 bip_39_word_underscore_2: memory_convince
 bip_39_word_underscore_3: memory_convince_ivory
-bip_39_word_underscore_4: memory_convince_ivory_party
-bip_39_word_underscore_5: memory_convince_ivory_party_gym
-bip_39_word_underscore_6: memory_convince_ivory_party_gym_trash
-bip_39_word_underscore_7: memory_convince_ivory_party_gym_trash_risk
-bip_39_word_underscore_8: memory_convince_ivory_party_gym_trash_risk_snow
-bip_39_word_underscore_9: memory_convince_ivory_party_gym_trash_risk_snow_kiss
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

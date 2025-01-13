@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lend
-bip_39_word_dash_10: lend-luggage-item-purchase-bid-camp-aerobic-estate-parent-plate
-bip_39_word_dash_11: lend-luggage-item-purchase-bid-camp-aerobic-estate-parent-plate-prevent
 bip_39_word_dash_12: lend-luggage-item-purchase-bid-camp-aerobic-estate-parent-plate-prevent-art
 bip_39_word_dash_2: lend-luggage
 bip_39_word_dash_3: lend-luggage-item
-bip_39_word_dash_4: lend-luggage-item-purchase
-bip_39_word_dash_5: lend-luggage-item-purchase-bid
-bip_39_word_dash_6: lend-luggage-item-purchase-bid-camp
-bip_39_word_dash_7: lend-luggage-item-purchase-bid-camp-aerobic
-bip_39_word_dash_8: lend-luggage-item-purchase-bid-camp-aerobic-estate
-bip_39_word_dash_9: lend-luggage-item-purchase-bid-camp-aerobic-estate-parent
-bip_39_word_new_br_1: lend
-bip_39_word_new_br_10: lend<br>luggage<br>item<br>purchase<br>bid<br>camp<br>aerobic<br>estate<br>parent<br>plate
-bip_39_word_new_br_11: lend<br>luggage<br>item<br>purchase<br>bid<br>camp<br>aerobic<br>estate<br>parent<br>plate<br>prevent
 bip_39_word_new_br_12: lend<br>luggage<br>item<br>purchase<br>bid<br>camp<br>aerobic<br>estate<br>parent<br>plate<br>prevent<br>art
 bip_39_word_new_br_2: lend<br>luggage
 bip_39_word_new_br_3: lend<br>luggage<br>item
-bip_39_word_new_br_4: lend<br>luggage<br>item<br>purchase
-bip_39_word_new_br_5: lend<br>luggage<br>item<br>purchase<br>bid
-bip_39_word_new_br_6: lend<br>luggage<br>item<br>purchase<br>bid<br>camp
-bip_39_word_new_br_7: lend<br>luggage<br>item<br>purchase<br>bid<br>camp<br>aerobic
-bip_39_word_new_br_8: lend<br>luggage<br>item<br>purchase<br>bid<br>camp<br>aerobic<br>estate
-bip_39_word_new_br_9: lend<br>luggage<br>item<br>purchase<br>bid<br>camp<br>aerobic<br>estate<br>parent
-bip_39_word_new_line_1: lend
-bip_39_word_new_line_10: 'lend
-
-  luggage
-
-  item
-
-  purchase
-
-  bid
-
-  camp
-
-  aerobic
-
-  estate
-
-  parent
-
-  plate'
-bip_39_word_new_line_11: 'lend
-
-  luggage
-
-  item
-
-  purchase
-
-  bid
-
-  camp
-
-  aerobic
-
-  estate
-
-  parent
-
-  plate
-
-  prevent'
 bip_39_word_new_line_12: 'lend
 
   luggage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lend
   luggage
 
   item'
-bip_39_word_new_line_4: 'lend
-
-  luggage
-
-  item
-
-  purchase'
-bip_39_word_new_line_5: 'lend
-
-  luggage
-
-  item
-
-  purchase
-
-  bid'
-bip_39_word_new_line_6: 'lend
-
-  luggage
-
-  item
-
-  purchase
-
-  bid
-
-  camp'
-bip_39_word_new_line_7: 'lend
-
-  luggage
-
-  item
-
-  purchase
-
-  bid
-
-  camp
-
-  aerobic'
-bip_39_word_new_line_8: 'lend
-
-  luggage
-
-  item
-
-  purchase
-
-  bid
-
-  camp
-
-  aerobic
-
-  estate'
-bip_39_word_new_line_9: 'lend
-
-  luggage
-
-  item
-
-  purchase
-
-  bid
-
-  camp
-
-  aerobic
-
-  estate
-
-  parent'
-bip_39_word_no_space_1: lend
-bip_39_word_no_space_10: lendluggageitempurchasebidcampaerobicestateparentplate
-bip_39_word_no_space_11: lendluggageitempurchasebidcampaerobicestateparentplateprevent
 bip_39_word_no_space_12: lendluggageitempurchasebidcampaerobicestateparentplatepreventart
 bip_39_word_no_space_2: lendluggage
 bip_39_word_no_space_3: lendluggageitem
-bip_39_word_no_space_4: lendluggageitempurchase
-bip_39_word_no_space_5: lendluggageitempurchasebid
-bip_39_word_no_space_6: lendluggageitempurchasebidcamp
-bip_39_word_no_space_7: lendluggageitempurchasebidcampaerobic
-bip_39_word_no_space_8: lendluggageitempurchasebidcampaerobicestate
-bip_39_word_no_space_9: lendluggageitempurchasebidcampaerobicestateparent
-bip_39_word_space_0:
-- lend
-- luggage
-- item
-- purchase
-- bid
-- camp
-- aerobic
-- estate
-- parent
-- plate
-- prevent
-- art
-bip_39_word_space_1: lend
-bip_39_word_space_10: lend luggage item purchase bid camp aerobic estate parent plate
-bip_39_word_space_11: lend luggage item purchase bid camp aerobic estate parent plate
-  prevent
 bip_39_word_space_12: lend luggage item purchase bid camp aerobic estate parent plate
   prevent art
 bip_39_word_space_2: lend luggage
 bip_39_word_space_3: lend luggage item
-bip_39_word_space_4: lend luggage item purchase
-bip_39_word_space_5: lend luggage item purchase bid
-bip_39_word_space_6: lend luggage item purchase bid camp
-bip_39_word_space_7: lend luggage item purchase bid camp aerobic
-bip_39_word_space_8: lend luggage item purchase bid camp aerobic estate
-bip_39_word_space_9: lend luggage item purchase bid camp aerobic estate parent
-bip_39_word_underscore_1: lend
-bip_39_word_underscore_10: lend_luggage_item_purchase_bid_camp_aerobic_estate_parent_plate
-bip_39_word_underscore_11: lend_luggage_item_purchase_bid_camp_aerobic_estate_parent_plate_prevent
 bip_39_word_underscore_12: lend_luggage_item_purchase_bid_camp_aerobic_estate_parent_plate_prevent_art
 bip_39_word_underscore_2: lend_luggage
 bip_39_word_underscore_3: lend_luggage_item
-bip_39_word_underscore_4: lend_luggage_item_purchase
-bip_39_word_underscore_5: lend_luggage_item_purchase_bid
-bip_39_word_underscore_6: lend_luggage_item_purchase_bid_camp
-bip_39_word_underscore_7: lend_luggage_item_purchase_bid_camp_aerobic
-bip_39_word_underscore_8: lend_luggage_item_purchase_bid_camp_aerobic_estate
-bip_39_word_underscore_9: lend_luggage_item_purchase_bid_camp_aerobic_estate_parent
 classification: project
 classification_capital: Project
 classification_first_letter: p

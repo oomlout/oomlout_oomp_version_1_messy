@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fever
-bip_39_word_dash_10: fever-dentist-salute-hill-mixed-atom-hip-enroll-life-saddle
-bip_39_word_dash_11: fever-dentist-salute-hill-mixed-atom-hip-enroll-life-saddle-mail
 bip_39_word_dash_12: fever-dentist-salute-hill-mixed-atom-hip-enroll-life-saddle-mail-already
 bip_39_word_dash_2: fever-dentist
 bip_39_word_dash_3: fever-dentist-salute
-bip_39_word_dash_4: fever-dentist-salute-hill
-bip_39_word_dash_5: fever-dentist-salute-hill-mixed
-bip_39_word_dash_6: fever-dentist-salute-hill-mixed-atom
-bip_39_word_dash_7: fever-dentist-salute-hill-mixed-atom-hip
-bip_39_word_dash_8: fever-dentist-salute-hill-mixed-atom-hip-enroll
-bip_39_word_dash_9: fever-dentist-salute-hill-mixed-atom-hip-enroll-life
-bip_39_word_new_br_1: fever
-bip_39_word_new_br_10: fever<br>dentist<br>salute<br>hill<br>mixed<br>atom<br>hip<br>enroll<br>life<br>saddle
-bip_39_word_new_br_11: fever<br>dentist<br>salute<br>hill<br>mixed<br>atom<br>hip<br>enroll<br>life<br>saddle<br>mail
 bip_39_word_new_br_12: fever<br>dentist<br>salute<br>hill<br>mixed<br>atom<br>hip<br>enroll<br>life<br>saddle<br>mail<br>already
 bip_39_word_new_br_2: fever<br>dentist
 bip_39_word_new_br_3: fever<br>dentist<br>salute
-bip_39_word_new_br_4: fever<br>dentist<br>salute<br>hill
-bip_39_word_new_br_5: fever<br>dentist<br>salute<br>hill<br>mixed
-bip_39_word_new_br_6: fever<br>dentist<br>salute<br>hill<br>mixed<br>atom
-bip_39_word_new_br_7: fever<br>dentist<br>salute<br>hill<br>mixed<br>atom<br>hip
-bip_39_word_new_br_8: fever<br>dentist<br>salute<br>hill<br>mixed<br>atom<br>hip<br>enroll
-bip_39_word_new_br_9: fever<br>dentist<br>salute<br>hill<br>mixed<br>atom<br>hip<br>enroll<br>life
-bip_39_word_new_line_1: fever
-bip_39_word_new_line_10: 'fever
-
-  dentist
-
-  salute
-
-  hill
-
-  mixed
-
-  atom
-
-  hip
-
-  enroll
-
-  life
-
-  saddle'
-bip_39_word_new_line_11: 'fever
-
-  dentist
-
-  salute
-
-  hill
-
-  mixed
-
-  atom
-
-  hip
-
-  enroll
-
-  life
-
-  saddle
-
-  mail'
 bip_39_word_new_line_12: 'fever
 
   dentist
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fever
   dentist
 
   salute'
-bip_39_word_new_line_4: 'fever
-
-  dentist
-
-  salute
-
-  hill'
-bip_39_word_new_line_5: 'fever
-
-  dentist
-
-  salute
-
-  hill
-
-  mixed'
-bip_39_word_new_line_6: 'fever
-
-  dentist
-
-  salute
-
-  hill
-
-  mixed
-
-  atom'
-bip_39_word_new_line_7: 'fever
-
-  dentist
-
-  salute
-
-  hill
-
-  mixed
-
-  atom
-
-  hip'
-bip_39_word_new_line_8: 'fever
-
-  dentist
-
-  salute
-
-  hill
-
-  mixed
-
-  atom
-
-  hip
-
-  enroll'
-bip_39_word_new_line_9: 'fever
-
-  dentist
-
-  salute
-
-  hill
-
-  mixed
-
-  atom
-
-  hip
-
-  enroll
-
-  life'
-bip_39_word_no_space_1: fever
-bip_39_word_no_space_10: feverdentistsalutehillmixedatomhipenrolllifesaddle
-bip_39_word_no_space_11: feverdentistsalutehillmixedatomhipenrolllifesaddlemail
 bip_39_word_no_space_12: feverdentistsalutehillmixedatomhipenrolllifesaddlemailalready
 bip_39_word_no_space_2: feverdentist
 bip_39_word_no_space_3: feverdentistsalute
-bip_39_word_no_space_4: feverdentistsalutehill
-bip_39_word_no_space_5: feverdentistsalutehillmixed
-bip_39_word_no_space_6: feverdentistsalutehillmixedatom
-bip_39_word_no_space_7: feverdentistsalutehillmixedatomhip
-bip_39_word_no_space_8: feverdentistsalutehillmixedatomhipenroll
-bip_39_word_no_space_9: feverdentistsalutehillmixedatomhipenrolllife
-bip_39_word_space_0:
-- fever
-- dentist
-- salute
-- hill
-- mixed
-- atom
-- hip
-- enroll
-- life
-- saddle
-- mail
-- already
-bip_39_word_space_1: fever
-bip_39_word_space_10: fever dentist salute hill mixed atom hip enroll life saddle
-bip_39_word_space_11: fever dentist salute hill mixed atom hip enroll life saddle
-  mail
 bip_39_word_space_12: fever dentist salute hill mixed atom hip enroll life saddle
   mail already
 bip_39_word_space_2: fever dentist
 bip_39_word_space_3: fever dentist salute
-bip_39_word_space_4: fever dentist salute hill
-bip_39_word_space_5: fever dentist salute hill mixed
-bip_39_word_space_6: fever dentist salute hill mixed atom
-bip_39_word_space_7: fever dentist salute hill mixed atom hip
-bip_39_word_space_8: fever dentist salute hill mixed atom hip enroll
-bip_39_word_space_9: fever dentist salute hill mixed atom hip enroll life
-bip_39_word_underscore_1: fever
-bip_39_word_underscore_10: fever_dentist_salute_hill_mixed_atom_hip_enroll_life_saddle
-bip_39_word_underscore_11: fever_dentist_salute_hill_mixed_atom_hip_enroll_life_saddle_mail
 bip_39_word_underscore_12: fever_dentist_salute_hill_mixed_atom_hip_enroll_life_saddle_mail_already
 bip_39_word_underscore_2: fever_dentist
 bip_39_word_underscore_3: fever_dentist_salute
-bip_39_word_underscore_4: fever_dentist_salute_hill
-bip_39_word_underscore_5: fever_dentist_salute_hill_mixed
-bip_39_word_underscore_6: fever_dentist_salute_hill_mixed_atom
-bip_39_word_underscore_7: fever_dentist_salute_hill_mixed_atom_hip
-bip_39_word_underscore_8: fever_dentist_salute_hill_mixed_atom_hip_enroll
-bip_39_word_underscore_9: fever_dentist_salute_hill_mixed_atom_hip_enroll_life
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

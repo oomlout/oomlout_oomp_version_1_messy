@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chapter
-bip_39_word_dash_10: chapter-small-buzz-palace-all-broom-play-body-keep-mango
-bip_39_word_dash_11: chapter-small-buzz-palace-all-broom-play-body-keep-mango-scrub
 bip_39_word_dash_12: chapter-small-buzz-palace-all-broom-play-body-keep-mango-scrub-afraid
 bip_39_word_dash_2: chapter-small
 bip_39_word_dash_3: chapter-small-buzz
-bip_39_word_dash_4: chapter-small-buzz-palace
-bip_39_word_dash_5: chapter-small-buzz-palace-all
-bip_39_word_dash_6: chapter-small-buzz-palace-all-broom
-bip_39_word_dash_7: chapter-small-buzz-palace-all-broom-play
-bip_39_word_dash_8: chapter-small-buzz-palace-all-broom-play-body
-bip_39_word_dash_9: chapter-small-buzz-palace-all-broom-play-body-keep
-bip_39_word_new_br_1: chapter
-bip_39_word_new_br_10: chapter<br>small<br>buzz<br>palace<br>all<br>broom<br>play<br>body<br>keep<br>mango
-bip_39_word_new_br_11: chapter<br>small<br>buzz<br>palace<br>all<br>broom<br>play<br>body<br>keep<br>mango<br>scrub
 bip_39_word_new_br_12: chapter<br>small<br>buzz<br>palace<br>all<br>broom<br>play<br>body<br>keep<br>mango<br>scrub<br>afraid
 bip_39_word_new_br_2: chapter<br>small
 bip_39_word_new_br_3: chapter<br>small<br>buzz
-bip_39_word_new_br_4: chapter<br>small<br>buzz<br>palace
-bip_39_word_new_br_5: chapter<br>small<br>buzz<br>palace<br>all
-bip_39_word_new_br_6: chapter<br>small<br>buzz<br>palace<br>all<br>broom
-bip_39_word_new_br_7: chapter<br>small<br>buzz<br>palace<br>all<br>broom<br>play
-bip_39_word_new_br_8: chapter<br>small<br>buzz<br>palace<br>all<br>broom<br>play<br>body
-bip_39_word_new_br_9: chapter<br>small<br>buzz<br>palace<br>all<br>broom<br>play<br>body<br>keep
-bip_39_word_new_line_1: chapter
-bip_39_word_new_line_10: 'chapter
-
-  small
-
-  buzz
-
-  palace
-
-  all
-
-  broom
-
-  play
-
-  body
-
-  keep
-
-  mango'
-bip_39_word_new_line_11: 'chapter
-
-  small
-
-  buzz
-
-  palace
-
-  all
-
-  broom
-
-  play
-
-  body
-
-  keep
-
-  mango
-
-  scrub'
 bip_39_word_new_line_12: 'chapter
 
   small
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'chapter
   small
 
   buzz'
-bip_39_word_new_line_4: 'chapter
-
-  small
-
-  buzz
-
-  palace'
-bip_39_word_new_line_5: 'chapter
-
-  small
-
-  buzz
-
-  palace
-
-  all'
-bip_39_word_new_line_6: 'chapter
-
-  small
-
-  buzz
-
-  palace
-
-  all
-
-  broom'
-bip_39_word_new_line_7: 'chapter
-
-  small
-
-  buzz
-
-  palace
-
-  all
-
-  broom
-
-  play'
-bip_39_word_new_line_8: 'chapter
-
-  small
-
-  buzz
-
-  palace
-
-  all
-
-  broom
-
-  play
-
-  body'
-bip_39_word_new_line_9: 'chapter
-
-  small
-
-  buzz
-
-  palace
-
-  all
-
-  broom
-
-  play
-
-  body
-
-  keep'
-bip_39_word_no_space_1: chapter
-bip_39_word_no_space_10: chaptersmallbuzzpalaceallbroomplaybodykeepmango
-bip_39_word_no_space_11: chaptersmallbuzzpalaceallbroomplaybodykeepmangoscrub
 bip_39_word_no_space_12: chaptersmallbuzzpalaceallbroomplaybodykeepmangoscrubafraid
 bip_39_word_no_space_2: chaptersmall
 bip_39_word_no_space_3: chaptersmallbuzz
-bip_39_word_no_space_4: chaptersmallbuzzpalace
-bip_39_word_no_space_5: chaptersmallbuzzpalaceall
-bip_39_word_no_space_6: chaptersmallbuzzpalaceallbroom
-bip_39_word_no_space_7: chaptersmallbuzzpalaceallbroomplay
-bip_39_word_no_space_8: chaptersmallbuzzpalaceallbroomplaybody
-bip_39_word_no_space_9: chaptersmallbuzzpalaceallbroomplaybodykeep
-bip_39_word_space_0:
-- chapter
-- small
-- buzz
-- palace
-- all
-- broom
-- play
-- body
-- keep
-- mango
-- scrub
-- afraid
-bip_39_word_space_1: chapter
-bip_39_word_space_10: chapter small buzz palace all broom play body keep mango
-bip_39_word_space_11: chapter small buzz palace all broom play body keep mango scrub
 bip_39_word_space_12: chapter small buzz palace all broom play body keep mango scrub
   afraid
 bip_39_word_space_2: chapter small
 bip_39_word_space_3: chapter small buzz
-bip_39_word_space_4: chapter small buzz palace
-bip_39_word_space_5: chapter small buzz palace all
-bip_39_word_space_6: chapter small buzz palace all broom
-bip_39_word_space_7: chapter small buzz palace all broom play
-bip_39_word_space_8: chapter small buzz palace all broom play body
-bip_39_word_space_9: chapter small buzz palace all broom play body keep
-bip_39_word_underscore_1: chapter
-bip_39_word_underscore_10: chapter_small_buzz_palace_all_broom_play_body_keep_mango
-bip_39_word_underscore_11: chapter_small_buzz_palace_all_broom_play_body_keep_mango_scrub
 bip_39_word_underscore_12: chapter_small_buzz_palace_all_broom_play_body_keep_mango_scrub_afraid
 bip_39_word_underscore_2: chapter_small
 bip_39_word_underscore_3: chapter_small_buzz
-bip_39_word_underscore_4: chapter_small_buzz_palace
-bip_39_word_underscore_5: chapter_small_buzz_palace_all
-bip_39_word_underscore_6: chapter_small_buzz_palace_all_broom
-bip_39_word_underscore_7: chapter_small_buzz_palace_all_broom_play
-bip_39_word_underscore_8: chapter_small_buzz_palace_all_broom_play_body
-bip_39_word_underscore_9: chapter_small_buzz_palace_all_broom_play_body_keep
 classification: category
 classification_capital: Category
 classification_first_letter: c

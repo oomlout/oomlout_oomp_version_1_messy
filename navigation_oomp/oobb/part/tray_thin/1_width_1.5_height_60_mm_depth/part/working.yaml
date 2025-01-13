@@ -1,68 +1,9 @@
-bip_39_word_dash_1: session
-bip_39_word_dash_10: session-climb-bean-illness-taxi-search-talk-pet-beach-flower
-bip_39_word_dash_11: session-climb-bean-illness-taxi-search-talk-pet-beach-flower-few
 bip_39_word_dash_12: session-climb-bean-illness-taxi-search-talk-pet-beach-flower-few-adapt
 bip_39_word_dash_2: session-climb
 bip_39_word_dash_3: session-climb-bean
-bip_39_word_dash_4: session-climb-bean-illness
-bip_39_word_dash_5: session-climb-bean-illness-taxi
-bip_39_word_dash_6: session-climb-bean-illness-taxi-search
-bip_39_word_dash_7: session-climb-bean-illness-taxi-search-talk
-bip_39_word_dash_8: session-climb-bean-illness-taxi-search-talk-pet
-bip_39_word_dash_9: session-climb-bean-illness-taxi-search-talk-pet-beach
-bip_39_word_new_br_1: session
-bip_39_word_new_br_10: session<br>climb<br>bean<br>illness<br>taxi<br>search<br>talk<br>pet<br>beach<br>flower
-bip_39_word_new_br_11: session<br>climb<br>bean<br>illness<br>taxi<br>search<br>talk<br>pet<br>beach<br>flower<br>few
 bip_39_word_new_br_12: session<br>climb<br>bean<br>illness<br>taxi<br>search<br>talk<br>pet<br>beach<br>flower<br>few<br>adapt
 bip_39_word_new_br_2: session<br>climb
 bip_39_word_new_br_3: session<br>climb<br>bean
-bip_39_word_new_br_4: session<br>climb<br>bean<br>illness
-bip_39_word_new_br_5: session<br>climb<br>bean<br>illness<br>taxi
-bip_39_word_new_br_6: session<br>climb<br>bean<br>illness<br>taxi<br>search
-bip_39_word_new_br_7: session<br>climb<br>bean<br>illness<br>taxi<br>search<br>talk
-bip_39_word_new_br_8: session<br>climb<br>bean<br>illness<br>taxi<br>search<br>talk<br>pet
-bip_39_word_new_br_9: session<br>climb<br>bean<br>illness<br>taxi<br>search<br>talk<br>pet<br>beach
-bip_39_word_new_line_1: session
-bip_39_word_new_line_10: 'session
-
-  climb
-
-  bean
-
-  illness
-
-  taxi
-
-  search
-
-  talk
-
-  pet
-
-  beach
-
-  flower'
-bip_39_word_new_line_11: 'session
-
-  climb
-
-  bean
-
-  illness
-
-  taxi
-
-  search
-
-  talk
-
-  pet
-
-  beach
-
-  flower
-
-  few'
 bip_39_word_new_line_12: 'session
 
   climb
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'session
   climb
 
   bean'
-bip_39_word_new_line_4: 'session
-
-  climb
-
-  bean
-
-  illness'
-bip_39_word_new_line_5: 'session
-
-  climb
-
-  bean
-
-  illness
-
-  taxi'
-bip_39_word_new_line_6: 'session
-
-  climb
-
-  bean
-
-  illness
-
-  taxi
-
-  search'
-bip_39_word_new_line_7: 'session
-
-  climb
-
-  bean
-
-  illness
-
-  taxi
-
-  search
-
-  talk'
-bip_39_word_new_line_8: 'session
-
-  climb
-
-  bean
-
-  illness
-
-  taxi
-
-  search
-
-  talk
-
-  pet'
-bip_39_word_new_line_9: 'session
-
-  climb
-
-  bean
-
-  illness
-
-  taxi
-
-  search
-
-  talk
-
-  pet
-
-  beach'
-bip_39_word_no_space_1: session
-bip_39_word_no_space_10: sessionclimbbeanillnesstaxisearchtalkpetbeachflower
-bip_39_word_no_space_11: sessionclimbbeanillnesstaxisearchtalkpetbeachflowerfew
 bip_39_word_no_space_12: sessionclimbbeanillnesstaxisearchtalkpetbeachflowerfewadapt
 bip_39_word_no_space_2: sessionclimb
 bip_39_word_no_space_3: sessionclimbbean
-bip_39_word_no_space_4: sessionclimbbeanillness
-bip_39_word_no_space_5: sessionclimbbeanillnesstaxi
-bip_39_word_no_space_6: sessionclimbbeanillnesstaxisearch
-bip_39_word_no_space_7: sessionclimbbeanillnesstaxisearchtalk
-bip_39_word_no_space_8: sessionclimbbeanillnesstaxisearchtalkpet
-bip_39_word_no_space_9: sessionclimbbeanillnesstaxisearchtalkpetbeach
-bip_39_word_space_0:
-- session
-- climb
-- bean
-- illness
-- taxi
-- search
-- talk
-- pet
-- beach
-- flower
-- few
-- adapt
-bip_39_word_space_1: session
-bip_39_word_space_10: session climb bean illness taxi search talk pet beach flower
-bip_39_word_space_11: session climb bean illness taxi search talk pet beach flower
-  few
 bip_39_word_space_12: session climb bean illness taxi search talk pet beach flower
   few adapt
 bip_39_word_space_2: session climb
 bip_39_word_space_3: session climb bean
-bip_39_word_space_4: session climb bean illness
-bip_39_word_space_5: session climb bean illness taxi
-bip_39_word_space_6: session climb bean illness taxi search
-bip_39_word_space_7: session climb bean illness taxi search talk
-bip_39_word_space_8: session climb bean illness taxi search talk pet
-bip_39_word_space_9: session climb bean illness taxi search talk pet beach
-bip_39_word_underscore_1: session
-bip_39_word_underscore_10: session_climb_bean_illness_taxi_search_talk_pet_beach_flower
-bip_39_word_underscore_11: session_climb_bean_illness_taxi_search_talk_pet_beach_flower_few
 bip_39_word_underscore_12: session_climb_bean_illness_taxi_search_talk_pet_beach_flower_few_adapt
 bip_39_word_underscore_2: session_climb
 bip_39_word_underscore_3: session_climb_bean
-bip_39_word_underscore_4: session_climb_bean_illness
-bip_39_word_underscore_5: session_climb_bean_illness_taxi
-bip_39_word_underscore_6: session_climb_bean_illness_taxi_search
-bip_39_word_underscore_7: session_climb_bean_illness_taxi_search_talk
-bip_39_word_underscore_8: session_climb_bean_illness_taxi_search_talk_pet
-bip_39_word_underscore_9: session_climb_bean_illness_taxi_search_talk_pet_beach
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

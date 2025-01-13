@@ -1,68 +1,9 @@
-bip_39_word_dash_1: paddle
-bip_39_word_dash_10: paddle-suggest-ostrich-kiss-harbor-admit-neglect-inmate-cube-please
-bip_39_word_dash_11: paddle-suggest-ostrich-kiss-harbor-admit-neglect-inmate-cube-please-hole
 bip_39_word_dash_12: paddle-suggest-ostrich-kiss-harbor-admit-neglect-inmate-cube-please-hole-actual
 bip_39_word_dash_2: paddle-suggest
 bip_39_word_dash_3: paddle-suggest-ostrich
-bip_39_word_dash_4: paddle-suggest-ostrich-kiss
-bip_39_word_dash_5: paddle-suggest-ostrich-kiss-harbor
-bip_39_word_dash_6: paddle-suggest-ostrich-kiss-harbor-admit
-bip_39_word_dash_7: paddle-suggest-ostrich-kiss-harbor-admit-neglect
-bip_39_word_dash_8: paddle-suggest-ostrich-kiss-harbor-admit-neglect-inmate
-bip_39_word_dash_9: paddle-suggest-ostrich-kiss-harbor-admit-neglect-inmate-cube
-bip_39_word_new_br_1: paddle
-bip_39_word_new_br_10: paddle<br>suggest<br>ostrich<br>kiss<br>harbor<br>admit<br>neglect<br>inmate<br>cube<br>please
-bip_39_word_new_br_11: paddle<br>suggest<br>ostrich<br>kiss<br>harbor<br>admit<br>neglect<br>inmate<br>cube<br>please<br>hole
 bip_39_word_new_br_12: paddle<br>suggest<br>ostrich<br>kiss<br>harbor<br>admit<br>neglect<br>inmate<br>cube<br>please<br>hole<br>actual
 bip_39_word_new_br_2: paddle<br>suggest
 bip_39_word_new_br_3: paddle<br>suggest<br>ostrich
-bip_39_word_new_br_4: paddle<br>suggest<br>ostrich<br>kiss
-bip_39_word_new_br_5: paddle<br>suggest<br>ostrich<br>kiss<br>harbor
-bip_39_word_new_br_6: paddle<br>suggest<br>ostrich<br>kiss<br>harbor<br>admit
-bip_39_word_new_br_7: paddle<br>suggest<br>ostrich<br>kiss<br>harbor<br>admit<br>neglect
-bip_39_word_new_br_8: paddle<br>suggest<br>ostrich<br>kiss<br>harbor<br>admit<br>neglect<br>inmate
-bip_39_word_new_br_9: paddle<br>suggest<br>ostrich<br>kiss<br>harbor<br>admit<br>neglect<br>inmate<br>cube
-bip_39_word_new_line_1: paddle
-bip_39_word_new_line_10: 'paddle
-
-  suggest
-
-  ostrich
-
-  kiss
-
-  harbor
-
-  admit
-
-  neglect
-
-  inmate
-
-  cube
-
-  please'
-bip_39_word_new_line_11: 'paddle
-
-  suggest
-
-  ostrich
-
-  kiss
-
-  harbor
-
-  admit
-
-  neglect
-
-  inmate
-
-  cube
-
-  please
-
-  hole'
 bip_39_word_new_line_12: 'paddle
 
   suggest
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'paddle
   suggest
 
   ostrich'
-bip_39_word_new_line_4: 'paddle
-
-  suggest
-
-  ostrich
-
-  kiss'
-bip_39_word_new_line_5: 'paddle
-
-  suggest
-
-  ostrich
-
-  kiss
-
-  harbor'
-bip_39_word_new_line_6: 'paddle
-
-  suggest
-
-  ostrich
-
-  kiss
-
-  harbor
-
-  admit'
-bip_39_word_new_line_7: 'paddle
-
-  suggest
-
-  ostrich
-
-  kiss
-
-  harbor
-
-  admit
-
-  neglect'
-bip_39_word_new_line_8: 'paddle
-
-  suggest
-
-  ostrich
-
-  kiss
-
-  harbor
-
-  admit
-
-  neglect
-
-  inmate'
-bip_39_word_new_line_9: 'paddle
-
-  suggest
-
-  ostrich
-
-  kiss
-
-  harbor
-
-  admit
-
-  neglect
-
-  inmate
-
-  cube'
-bip_39_word_no_space_1: paddle
-bip_39_word_no_space_10: paddlesuggestostrichkissharboradmitneglectinmatecubeplease
-bip_39_word_no_space_11: paddlesuggestostrichkissharboradmitneglectinmatecubepleasehole
 bip_39_word_no_space_12: paddlesuggestostrichkissharboradmitneglectinmatecubepleaseholeactual
 bip_39_word_no_space_2: paddlesuggest
 bip_39_word_no_space_3: paddlesuggestostrich
-bip_39_word_no_space_4: paddlesuggestostrichkiss
-bip_39_word_no_space_5: paddlesuggestostrichkissharbor
-bip_39_word_no_space_6: paddlesuggestostrichkissharboradmit
-bip_39_word_no_space_7: paddlesuggestostrichkissharboradmitneglect
-bip_39_word_no_space_8: paddlesuggestostrichkissharboradmitneglectinmate
-bip_39_word_no_space_9: paddlesuggestostrichkissharboradmitneglectinmatecube
-bip_39_word_space_0:
-- paddle
-- suggest
-- ostrich
-- kiss
-- harbor
-- admit
-- neglect
-- inmate
-- cube
-- please
-- hole
-- actual
-bip_39_word_space_1: paddle
-bip_39_word_space_10: paddle suggest ostrich kiss harbor admit neglect inmate cube
-  please
-bip_39_word_space_11: paddle suggest ostrich kiss harbor admit neglect inmate cube
-  please hole
 bip_39_word_space_12: paddle suggest ostrich kiss harbor admit neglect inmate cube
   please hole actual
 bip_39_word_space_2: paddle suggest
 bip_39_word_space_3: paddle suggest ostrich
-bip_39_word_space_4: paddle suggest ostrich kiss
-bip_39_word_space_5: paddle suggest ostrich kiss harbor
-bip_39_word_space_6: paddle suggest ostrich kiss harbor admit
-bip_39_word_space_7: paddle suggest ostrich kiss harbor admit neglect
-bip_39_word_space_8: paddle suggest ostrich kiss harbor admit neglect inmate
-bip_39_word_space_9: paddle suggest ostrich kiss harbor admit neglect inmate cube
-bip_39_word_underscore_1: paddle
-bip_39_word_underscore_10: paddle_suggest_ostrich_kiss_harbor_admit_neglect_inmate_cube_please
-bip_39_word_underscore_11: paddle_suggest_ostrich_kiss_harbor_admit_neglect_inmate_cube_please_hole
 bip_39_word_underscore_12: paddle_suggest_ostrich_kiss_harbor_admit_neglect_inmate_cube_please_hole_actual
 bip_39_word_underscore_2: paddle_suggest
 bip_39_word_underscore_3: paddle_suggest_ostrich
-bip_39_word_underscore_4: paddle_suggest_ostrich_kiss
-bip_39_word_underscore_5: paddle_suggest_ostrich_kiss_harbor
-bip_39_word_underscore_6: paddle_suggest_ostrich_kiss_harbor_admit
-bip_39_word_underscore_7: paddle_suggest_ostrich_kiss_harbor_admit_neglect
-bip_39_word_underscore_8: paddle_suggest_ostrich_kiss_harbor_admit_neglect_inmate
-bip_39_word_underscore_9: paddle_suggest_ostrich_kiss_harbor_admit_neglect_inmate_cube
 classification: category
 classification_capital: Category
 classification_first_letter: c

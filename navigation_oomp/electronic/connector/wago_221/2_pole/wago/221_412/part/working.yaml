@@ -1,68 +1,9 @@
-bip_39_word_dash_1: diary
-bip_39_word_dash_10: diary-health-south-cage-charge-future-humble-damp-midnight-bachelor
-bip_39_word_dash_11: diary-health-south-cage-charge-future-humble-damp-midnight-bachelor-there
 bip_39_word_dash_12: diary-health-south-cage-charge-future-humble-damp-midnight-bachelor-there-assist
 bip_39_word_dash_2: diary-health
 bip_39_word_dash_3: diary-health-south
-bip_39_word_dash_4: diary-health-south-cage
-bip_39_word_dash_5: diary-health-south-cage-charge
-bip_39_word_dash_6: diary-health-south-cage-charge-future
-bip_39_word_dash_7: diary-health-south-cage-charge-future-humble
-bip_39_word_dash_8: diary-health-south-cage-charge-future-humble-damp
-bip_39_word_dash_9: diary-health-south-cage-charge-future-humble-damp-midnight
-bip_39_word_new_br_1: diary
-bip_39_word_new_br_10: diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor
-bip_39_word_new_br_11: diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor<br>there
 bip_39_word_new_br_12: diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor<br>there<br>assist
 bip_39_word_new_br_2: diary<br>health
 bip_39_word_new_br_3: diary<br>health<br>south
-bip_39_word_new_br_4: diary<br>health<br>south<br>cage
-bip_39_word_new_br_5: diary<br>health<br>south<br>cage<br>charge
-bip_39_word_new_br_6: diary<br>health<br>south<br>cage<br>charge<br>future
-bip_39_word_new_br_7: diary<br>health<br>south<br>cage<br>charge<br>future<br>humble
-bip_39_word_new_br_8: diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp
-bip_39_word_new_br_9: diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight
-bip_39_word_new_line_1: diary
-bip_39_word_new_line_10: 'diary
-
-  health
-
-  south
-
-  cage
-
-  charge
-
-  future
-
-  humble
-
-  damp
-
-  midnight
-
-  bachelor'
-bip_39_word_new_line_11: 'diary
-
-  health
-
-  south
-
-  cage
-
-  charge
-
-  future
-
-  humble
-
-  damp
-
-  midnight
-
-  bachelor
-
-  there'
 bip_39_word_new_line_12: 'diary
 
   health
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'diary
   health
 
   south'
-bip_39_word_new_line_4: 'diary
-
-  health
-
-  south
-
-  cage'
-bip_39_word_new_line_5: 'diary
-
-  health
-
-  south
-
-  cage
-
-  charge'
-bip_39_word_new_line_6: 'diary
-
-  health
-
-  south
-
-  cage
-
-  charge
-
-  future'
-bip_39_word_new_line_7: 'diary
-
-  health
-
-  south
-
-  cage
-
-  charge
-
-  future
-
-  humble'
-bip_39_word_new_line_8: 'diary
-
-  health
-
-  south
-
-  cage
-
-  charge
-
-  future
-
-  humble
-
-  damp'
-bip_39_word_new_line_9: 'diary
-
-  health
-
-  south
-
-  cage
-
-  charge
-
-  future
-
-  humble
-
-  damp
-
-  midnight'
-bip_39_word_no_space_1: diary
-bip_39_word_no_space_10: diaryhealthsouthcagechargefuturehumbledampmidnightbachelor
-bip_39_word_no_space_11: diaryhealthsouthcagechargefuturehumbledampmidnightbachelorthere
 bip_39_word_no_space_12: diaryhealthsouthcagechargefuturehumbledampmidnightbachelorthereassist
 bip_39_word_no_space_2: diaryhealth
 bip_39_word_no_space_3: diaryhealthsouth
-bip_39_word_no_space_4: diaryhealthsouthcage
-bip_39_word_no_space_5: diaryhealthsouthcagecharge
-bip_39_word_no_space_6: diaryhealthsouthcagechargefuture
-bip_39_word_no_space_7: diaryhealthsouthcagechargefuturehumble
-bip_39_word_no_space_8: diaryhealthsouthcagechargefuturehumbledamp
-bip_39_word_no_space_9: diaryhealthsouthcagechargefuturehumbledampmidnight
-bip_39_word_space_0:
-- diary
-- health
-- south
-- cage
-- charge
-- future
-- humble
-- damp
-- midnight
-- bachelor
-- there
-- assist
-bip_39_word_space_1: diary
-bip_39_word_space_10: diary health south cage charge future humble damp midnight bachelor
-bip_39_word_space_11: diary health south cage charge future humble damp midnight bachelor
-  there
 bip_39_word_space_12: diary health south cage charge future humble damp midnight bachelor
   there assist
 bip_39_word_space_2: diary health
 bip_39_word_space_3: diary health south
-bip_39_word_space_4: diary health south cage
-bip_39_word_space_5: diary health south cage charge
-bip_39_word_space_6: diary health south cage charge future
-bip_39_word_space_7: diary health south cage charge future humble
-bip_39_word_space_8: diary health south cage charge future humble damp
-bip_39_word_space_9: diary health south cage charge future humble damp midnight
-bip_39_word_underscore_1: diary
-bip_39_word_underscore_10: diary_health_south_cage_charge_future_humble_damp_midnight_bachelor
-bip_39_word_underscore_11: diary_health_south_cage_charge_future_humble_damp_midnight_bachelor_there
 bip_39_word_underscore_12: diary_health_south_cage_charge_future_humble_damp_midnight_bachelor_there_assist
 bip_39_word_underscore_2: diary_health
 bip_39_word_underscore_3: diary_health_south
-bip_39_word_underscore_4: diary_health_south_cage
-bip_39_word_underscore_5: diary_health_south_cage_charge
-bip_39_word_underscore_6: diary_health_south_cage_charge_future
-bip_39_word_underscore_7: diary_health_south_cage_charge_future_humble
-bip_39_word_underscore_8: diary_health_south_cage_charge_future_humble_damp
-bip_39_word_underscore_9: diary_health_south_cage_charge_future_humble_damp_midnight
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

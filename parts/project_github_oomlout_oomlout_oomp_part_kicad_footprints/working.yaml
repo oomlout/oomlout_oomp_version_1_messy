@@ -1,68 +1,9 @@
-bip_39_word_dash_1: depend
-bip_39_word_dash_10: depend-rich-flock-account-amazing-giant-rule-edit-consider-cannon
-bip_39_word_dash_11: depend-rich-flock-account-amazing-giant-rule-edit-consider-cannon-shoulder
 bip_39_word_dash_12: depend-rich-flock-account-amazing-giant-rule-edit-consider-cannon-shoulder-arrive
 bip_39_word_dash_2: depend-rich
 bip_39_word_dash_3: depend-rich-flock
-bip_39_word_dash_4: depend-rich-flock-account
-bip_39_word_dash_5: depend-rich-flock-account-amazing
-bip_39_word_dash_6: depend-rich-flock-account-amazing-giant
-bip_39_word_dash_7: depend-rich-flock-account-amazing-giant-rule
-bip_39_word_dash_8: depend-rich-flock-account-amazing-giant-rule-edit
-bip_39_word_dash_9: depend-rich-flock-account-amazing-giant-rule-edit-consider
-bip_39_word_new_br_1: depend
-bip_39_word_new_br_10: depend<br>rich<br>flock<br>account<br>amazing<br>giant<br>rule<br>edit<br>consider<br>cannon
-bip_39_word_new_br_11: depend<br>rich<br>flock<br>account<br>amazing<br>giant<br>rule<br>edit<br>consider<br>cannon<br>shoulder
 bip_39_word_new_br_12: depend<br>rich<br>flock<br>account<br>amazing<br>giant<br>rule<br>edit<br>consider<br>cannon<br>shoulder<br>arrive
 bip_39_word_new_br_2: depend<br>rich
 bip_39_word_new_br_3: depend<br>rich<br>flock
-bip_39_word_new_br_4: depend<br>rich<br>flock<br>account
-bip_39_word_new_br_5: depend<br>rich<br>flock<br>account<br>amazing
-bip_39_word_new_br_6: depend<br>rich<br>flock<br>account<br>amazing<br>giant
-bip_39_word_new_br_7: depend<br>rich<br>flock<br>account<br>amazing<br>giant<br>rule
-bip_39_word_new_br_8: depend<br>rich<br>flock<br>account<br>amazing<br>giant<br>rule<br>edit
-bip_39_word_new_br_9: depend<br>rich<br>flock<br>account<br>amazing<br>giant<br>rule<br>edit<br>consider
-bip_39_word_new_line_1: depend
-bip_39_word_new_line_10: 'depend
-
-  rich
-
-  flock
-
-  account
-
-  amazing
-
-  giant
-
-  rule
-
-  edit
-
-  consider
-
-  cannon'
-bip_39_word_new_line_11: 'depend
-
-  rich
-
-  flock
-
-  account
-
-  amazing
-
-  giant
-
-  rule
-
-  edit
-
-  consider
-
-  cannon
-
-  shoulder'
 bip_39_word_new_line_12: 'depend
 
   rich
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'depend
   rich
 
   flock'
-bip_39_word_new_line_4: 'depend
-
-  rich
-
-  flock
-
-  account'
-bip_39_word_new_line_5: 'depend
-
-  rich
-
-  flock
-
-  account
-
-  amazing'
-bip_39_word_new_line_6: 'depend
-
-  rich
-
-  flock
-
-  account
-
-  amazing
-
-  giant'
-bip_39_word_new_line_7: 'depend
-
-  rich
-
-  flock
-
-  account
-
-  amazing
-
-  giant
-
-  rule'
-bip_39_word_new_line_8: 'depend
-
-  rich
-
-  flock
-
-  account
-
-  amazing
-
-  giant
-
-  rule
-
-  edit'
-bip_39_word_new_line_9: 'depend
-
-  rich
-
-  flock
-
-  account
-
-  amazing
-
-  giant
-
-  rule
-
-  edit
-
-  consider'
-bip_39_word_no_space_1: depend
-bip_39_word_no_space_10: dependrichflockaccountamazinggiantruleeditconsidercannon
-bip_39_word_no_space_11: dependrichflockaccountamazinggiantruleeditconsidercannonshoulder
 bip_39_word_no_space_12: dependrichflockaccountamazinggiantruleeditconsidercannonshoulderarrive
 bip_39_word_no_space_2: dependrich
 bip_39_word_no_space_3: dependrichflock
-bip_39_word_no_space_4: dependrichflockaccount
-bip_39_word_no_space_5: dependrichflockaccountamazing
-bip_39_word_no_space_6: dependrichflockaccountamazinggiant
-bip_39_word_no_space_7: dependrichflockaccountamazinggiantrule
-bip_39_word_no_space_8: dependrichflockaccountamazinggiantruleedit
-bip_39_word_no_space_9: dependrichflockaccountamazinggiantruleeditconsider
-bip_39_word_space_0:
-- depend
-- rich
-- flock
-- account
-- amazing
-- giant
-- rule
-- edit
-- consider
-- cannon
-- shoulder
-- arrive
-bip_39_word_space_1: depend
-bip_39_word_space_10: depend rich flock account amazing giant rule edit consider cannon
-bip_39_word_space_11: depend rich flock account amazing giant rule edit consider cannon
-  shoulder
 bip_39_word_space_12: depend rich flock account amazing giant rule edit consider cannon
   shoulder arrive
 bip_39_word_space_2: depend rich
 bip_39_word_space_3: depend rich flock
-bip_39_word_space_4: depend rich flock account
-bip_39_word_space_5: depend rich flock account amazing
-bip_39_word_space_6: depend rich flock account amazing giant
-bip_39_word_space_7: depend rich flock account amazing giant rule
-bip_39_word_space_8: depend rich flock account amazing giant rule edit
-bip_39_word_space_9: depend rich flock account amazing giant rule edit consider
-bip_39_word_underscore_1: depend
-bip_39_word_underscore_10: depend_rich_flock_account_amazing_giant_rule_edit_consider_cannon
-bip_39_word_underscore_11: depend_rich_flock_account_amazing_giant_rule_edit_consider_cannon_shoulder
 bip_39_word_underscore_12: depend_rich_flock_account_amazing_giant_rule_edit_consider_cannon_shoulder_arrive
 bip_39_word_underscore_2: depend_rich
 bip_39_word_underscore_3: depend_rich_flock
-bip_39_word_underscore_4: depend_rich_flock_account
-bip_39_word_underscore_5: depend_rich_flock_account_amazing
-bip_39_word_underscore_6: depend_rich_flock_account_amazing_giant
-bip_39_word_underscore_7: depend_rich_flock_account_amazing_giant_rule
-bip_39_word_underscore_8: depend_rich_flock_account_amazing_giant_rule_edit
-bip_39_word_underscore_9: depend_rich_flock_account_amazing_giant_rule_edit_consider
 classification: project
 classification_capital: Project
 classification_first_letter: p

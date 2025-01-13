@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gate
-bip_39_word_dash_10: gate-pumpkin-poverty-spike-naive-enter-recipe-search-ripple-picture
-bip_39_word_dash_11: gate-pumpkin-poverty-spike-naive-enter-recipe-search-ripple-picture-umbrella
 bip_39_word_dash_12: gate-pumpkin-poverty-spike-naive-enter-recipe-search-ripple-picture-umbrella-assist
 bip_39_word_dash_2: gate-pumpkin
 bip_39_word_dash_3: gate-pumpkin-poverty
-bip_39_word_dash_4: gate-pumpkin-poverty-spike
-bip_39_word_dash_5: gate-pumpkin-poverty-spike-naive
-bip_39_word_dash_6: gate-pumpkin-poverty-spike-naive-enter
-bip_39_word_dash_7: gate-pumpkin-poverty-spike-naive-enter-recipe
-bip_39_word_dash_8: gate-pumpkin-poverty-spike-naive-enter-recipe-search
-bip_39_word_dash_9: gate-pumpkin-poverty-spike-naive-enter-recipe-search-ripple
-bip_39_word_new_br_1: gate
-bip_39_word_new_br_10: gate<br>pumpkin<br>poverty<br>spike<br>naive<br>enter<br>recipe<br>search<br>ripple<br>picture
-bip_39_word_new_br_11: gate<br>pumpkin<br>poverty<br>spike<br>naive<br>enter<br>recipe<br>search<br>ripple<br>picture<br>umbrella
 bip_39_word_new_br_12: gate<br>pumpkin<br>poverty<br>spike<br>naive<br>enter<br>recipe<br>search<br>ripple<br>picture<br>umbrella<br>assist
 bip_39_word_new_br_2: gate<br>pumpkin
 bip_39_word_new_br_3: gate<br>pumpkin<br>poverty
-bip_39_word_new_br_4: gate<br>pumpkin<br>poverty<br>spike
-bip_39_word_new_br_5: gate<br>pumpkin<br>poverty<br>spike<br>naive
-bip_39_word_new_br_6: gate<br>pumpkin<br>poverty<br>spike<br>naive<br>enter
-bip_39_word_new_br_7: gate<br>pumpkin<br>poverty<br>spike<br>naive<br>enter<br>recipe
-bip_39_word_new_br_8: gate<br>pumpkin<br>poverty<br>spike<br>naive<br>enter<br>recipe<br>search
-bip_39_word_new_br_9: gate<br>pumpkin<br>poverty<br>spike<br>naive<br>enter<br>recipe<br>search<br>ripple
-bip_39_word_new_line_1: gate
-bip_39_word_new_line_10: 'gate
-
-  pumpkin
-
-  poverty
-
-  spike
-
-  naive
-
-  enter
-
-  recipe
-
-  search
-
-  ripple
-
-  picture'
-bip_39_word_new_line_11: 'gate
-
-  pumpkin
-
-  poverty
-
-  spike
-
-  naive
-
-  enter
-
-  recipe
-
-  search
-
-  ripple
-
-  picture
-
-  umbrella'
 bip_39_word_new_line_12: 'gate
 
   pumpkin
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'gate
   pumpkin
 
   poverty'
-bip_39_word_new_line_4: 'gate
-
-  pumpkin
-
-  poverty
-
-  spike'
-bip_39_word_new_line_5: 'gate
-
-  pumpkin
-
-  poverty
-
-  spike
-
-  naive'
-bip_39_word_new_line_6: 'gate
-
-  pumpkin
-
-  poverty
-
-  spike
-
-  naive
-
-  enter'
-bip_39_word_new_line_7: 'gate
-
-  pumpkin
-
-  poverty
-
-  spike
-
-  naive
-
-  enter
-
-  recipe'
-bip_39_word_new_line_8: 'gate
-
-  pumpkin
-
-  poverty
-
-  spike
-
-  naive
-
-  enter
-
-  recipe
-
-  search'
-bip_39_word_new_line_9: 'gate
-
-  pumpkin
-
-  poverty
-
-  spike
-
-  naive
-
-  enter
-
-  recipe
-
-  search
-
-  ripple'
-bip_39_word_no_space_1: gate
-bip_39_word_no_space_10: gatepumpkinpovertyspikenaiveenterrecipesearchripplepicture
-bip_39_word_no_space_11: gatepumpkinpovertyspikenaiveenterrecipesearchripplepictureumbrella
 bip_39_word_no_space_12: gatepumpkinpovertyspikenaiveenterrecipesearchripplepictureumbrellaassist
 bip_39_word_no_space_2: gatepumpkin
 bip_39_word_no_space_3: gatepumpkinpoverty
-bip_39_word_no_space_4: gatepumpkinpovertyspike
-bip_39_word_no_space_5: gatepumpkinpovertyspikenaive
-bip_39_word_no_space_6: gatepumpkinpovertyspikenaiveenter
-bip_39_word_no_space_7: gatepumpkinpovertyspikenaiveenterrecipe
-bip_39_word_no_space_8: gatepumpkinpovertyspikenaiveenterrecipesearch
-bip_39_word_no_space_9: gatepumpkinpovertyspikenaiveenterrecipesearchripple
-bip_39_word_space_0:
-- gate
-- pumpkin
-- poverty
-- spike
-- naive
-- enter
-- recipe
-- search
-- ripple
-- picture
-- umbrella
-- assist
-bip_39_word_space_1: gate
-bip_39_word_space_10: gate pumpkin poverty spike naive enter recipe search ripple
-  picture
-bip_39_word_space_11: gate pumpkin poverty spike naive enter recipe search ripple
-  picture umbrella
 bip_39_word_space_12: gate pumpkin poverty spike naive enter recipe search ripple
   picture umbrella assist
 bip_39_word_space_2: gate pumpkin
 bip_39_word_space_3: gate pumpkin poverty
-bip_39_word_space_4: gate pumpkin poverty spike
-bip_39_word_space_5: gate pumpkin poverty spike naive
-bip_39_word_space_6: gate pumpkin poverty spike naive enter
-bip_39_word_space_7: gate pumpkin poverty spike naive enter recipe
-bip_39_word_space_8: gate pumpkin poverty spike naive enter recipe search
-bip_39_word_space_9: gate pumpkin poverty spike naive enter recipe search ripple
-bip_39_word_underscore_1: gate
-bip_39_word_underscore_10: gate_pumpkin_poverty_spike_naive_enter_recipe_search_ripple_picture
-bip_39_word_underscore_11: gate_pumpkin_poverty_spike_naive_enter_recipe_search_ripple_picture_umbrella
 bip_39_word_underscore_12: gate_pumpkin_poverty_spike_naive_enter_recipe_search_ripple_picture_umbrella_assist
 bip_39_word_underscore_2: gate_pumpkin
 bip_39_word_underscore_3: gate_pumpkin_poverty
-bip_39_word_underscore_4: gate_pumpkin_poverty_spike
-bip_39_word_underscore_5: gate_pumpkin_poverty_spike_naive
-bip_39_word_underscore_6: gate_pumpkin_poverty_spike_naive_enter
-bip_39_word_underscore_7: gate_pumpkin_poverty_spike_naive_enter_recipe
-bip_39_word_underscore_8: gate_pumpkin_poverty_spike_naive_enter_recipe_search
-bip_39_word_underscore_9: gate_pumpkin_poverty_spike_naive_enter_recipe_search_ripple
 classification: category
 classification_capital: Category
 classification_first_letter: c

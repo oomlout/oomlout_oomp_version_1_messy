@@ -1,68 +1,9 @@
-bip_39_word_dash_1: human
-bip_39_word_dash_10: human-retire-develop-legend-lock-drop-pet-boil-fortune-civil
-bip_39_word_dash_11: human-retire-develop-legend-lock-drop-pet-boil-fortune-civil-course
 bip_39_word_dash_12: human-retire-develop-legend-lock-drop-pet-boil-fortune-civil-course-alcohol
 bip_39_word_dash_2: human-retire
 bip_39_word_dash_3: human-retire-develop
-bip_39_word_dash_4: human-retire-develop-legend
-bip_39_word_dash_5: human-retire-develop-legend-lock
-bip_39_word_dash_6: human-retire-develop-legend-lock-drop
-bip_39_word_dash_7: human-retire-develop-legend-lock-drop-pet
-bip_39_word_dash_8: human-retire-develop-legend-lock-drop-pet-boil
-bip_39_word_dash_9: human-retire-develop-legend-lock-drop-pet-boil-fortune
-bip_39_word_new_br_1: human
-bip_39_word_new_br_10: human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune<br>civil
-bip_39_word_new_br_11: human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune<br>civil<br>course
 bip_39_word_new_br_12: human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune<br>civil<br>course<br>alcohol
 bip_39_word_new_br_2: human<br>retire
 bip_39_word_new_br_3: human<br>retire<br>develop
-bip_39_word_new_br_4: human<br>retire<br>develop<br>legend
-bip_39_word_new_br_5: human<br>retire<br>develop<br>legend<br>lock
-bip_39_word_new_br_6: human<br>retire<br>develop<br>legend<br>lock<br>drop
-bip_39_word_new_br_7: human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet
-bip_39_word_new_br_8: human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil
-bip_39_word_new_br_9: human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune
-bip_39_word_new_line_1: human
-bip_39_word_new_line_10: 'human
-
-  retire
-
-  develop
-
-  legend
-
-  lock
-
-  drop
-
-  pet
-
-  boil
-
-  fortune
-
-  civil'
-bip_39_word_new_line_11: 'human
-
-  retire
-
-  develop
-
-  legend
-
-  lock
-
-  drop
-
-  pet
-
-  boil
-
-  fortune
-
-  civil
-
-  course'
 bip_39_word_new_line_12: 'human
 
   retire
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'human
   retire
 
   develop'
-bip_39_word_new_line_4: 'human
-
-  retire
-
-  develop
-
-  legend'
-bip_39_word_new_line_5: 'human
-
-  retire
-
-  develop
-
-  legend
-
-  lock'
-bip_39_word_new_line_6: 'human
-
-  retire
-
-  develop
-
-  legend
-
-  lock
-
-  drop'
-bip_39_word_new_line_7: 'human
-
-  retire
-
-  develop
-
-  legend
-
-  lock
-
-  drop
-
-  pet'
-bip_39_word_new_line_8: 'human
-
-  retire
-
-  develop
-
-  legend
-
-  lock
-
-  drop
-
-  pet
-
-  boil'
-bip_39_word_new_line_9: 'human
-
-  retire
-
-  develop
-
-  legend
-
-  lock
-
-  drop
-
-  pet
-
-  boil
-
-  fortune'
-bip_39_word_no_space_1: human
-bip_39_word_no_space_10: humanretiredeveloplegendlockdroppetboilfortunecivil
-bip_39_word_no_space_11: humanretiredeveloplegendlockdroppetboilfortunecivilcourse
 bip_39_word_no_space_12: humanretiredeveloplegendlockdroppetboilfortunecivilcoursealcohol
 bip_39_word_no_space_2: humanretire
 bip_39_word_no_space_3: humanretiredevelop
-bip_39_word_no_space_4: humanretiredeveloplegend
-bip_39_word_no_space_5: humanretiredeveloplegendlock
-bip_39_word_no_space_6: humanretiredeveloplegendlockdrop
-bip_39_word_no_space_7: humanretiredeveloplegendlockdroppet
-bip_39_word_no_space_8: humanretiredeveloplegendlockdroppetboil
-bip_39_word_no_space_9: humanretiredeveloplegendlockdroppetboilfortune
-bip_39_word_space_0:
-- human
-- retire
-- develop
-- legend
-- lock
-- drop
-- pet
-- boil
-- fortune
-- civil
-- course
-- alcohol
-bip_39_word_space_1: human
-bip_39_word_space_10: human retire develop legend lock drop pet boil fortune civil
-bip_39_word_space_11: human retire develop legend lock drop pet boil fortune civil
-  course
 bip_39_word_space_12: human retire develop legend lock drop pet boil fortune civil
   course alcohol
 bip_39_word_space_2: human retire
 bip_39_word_space_3: human retire develop
-bip_39_word_space_4: human retire develop legend
-bip_39_word_space_5: human retire develop legend lock
-bip_39_word_space_6: human retire develop legend lock drop
-bip_39_word_space_7: human retire develop legend lock drop pet
-bip_39_word_space_8: human retire develop legend lock drop pet boil
-bip_39_word_space_9: human retire develop legend lock drop pet boil fortune
-bip_39_word_underscore_1: human
-bip_39_word_underscore_10: human_retire_develop_legend_lock_drop_pet_boil_fortune_civil
-bip_39_word_underscore_11: human_retire_develop_legend_lock_drop_pet_boil_fortune_civil_course
 bip_39_word_underscore_12: human_retire_develop_legend_lock_drop_pet_boil_fortune_civil_course_alcohol
 bip_39_word_underscore_2: human_retire
 bip_39_word_underscore_3: human_retire_develop
-bip_39_word_underscore_4: human_retire_develop_legend
-bip_39_word_underscore_5: human_retire_develop_legend_lock
-bip_39_word_underscore_6: human_retire_develop_legend_lock_drop
-bip_39_word_underscore_7: human_retire_develop_legend_lock_drop_pet
-bip_39_word_underscore_8: human_retire_develop_legend_lock_drop_pet_boil
-bip_39_word_underscore_9: human_retire_develop_legend_lock_drop_pet_boil_fortune
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

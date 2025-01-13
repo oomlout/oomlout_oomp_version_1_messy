@@ -1,68 +1,9 @@
-bip_39_word_dash_1: again
-bip_39_word_dash_10: again-mother-rapid-veteran-pact-trap-mansion-enforce-crazy-bar
-bip_39_word_dash_11: again-mother-rapid-veteran-pact-trap-mansion-enforce-crazy-bar-focus
 bip_39_word_dash_12: again-mother-rapid-veteran-pact-trap-mansion-enforce-crazy-bar-focus-anger
 bip_39_word_dash_2: again-mother
 bip_39_word_dash_3: again-mother-rapid
-bip_39_word_dash_4: again-mother-rapid-veteran
-bip_39_word_dash_5: again-mother-rapid-veteran-pact
-bip_39_word_dash_6: again-mother-rapid-veteran-pact-trap
-bip_39_word_dash_7: again-mother-rapid-veteran-pact-trap-mansion
-bip_39_word_dash_8: again-mother-rapid-veteran-pact-trap-mansion-enforce
-bip_39_word_dash_9: again-mother-rapid-veteran-pact-trap-mansion-enforce-crazy
-bip_39_word_new_br_1: again
-bip_39_word_new_br_10: again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce<br>crazy<br>bar
-bip_39_word_new_br_11: again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce<br>crazy<br>bar<br>focus
 bip_39_word_new_br_12: again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce<br>crazy<br>bar<br>focus<br>anger
 bip_39_word_new_br_2: again<br>mother
 bip_39_word_new_br_3: again<br>mother<br>rapid
-bip_39_word_new_br_4: again<br>mother<br>rapid<br>veteran
-bip_39_word_new_br_5: again<br>mother<br>rapid<br>veteran<br>pact
-bip_39_word_new_br_6: again<br>mother<br>rapid<br>veteran<br>pact<br>trap
-bip_39_word_new_br_7: again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion
-bip_39_word_new_br_8: again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce
-bip_39_word_new_br_9: again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce<br>crazy
-bip_39_word_new_line_1: again
-bip_39_word_new_line_10: 'again
-
-  mother
-
-  rapid
-
-  veteran
-
-  pact
-
-  trap
-
-  mansion
-
-  enforce
-
-  crazy
-
-  bar'
-bip_39_word_new_line_11: 'again
-
-  mother
-
-  rapid
-
-  veteran
-
-  pact
-
-  trap
-
-  mansion
-
-  enforce
-
-  crazy
-
-  bar
-
-  focus'
 bip_39_word_new_line_12: 'again
 
   mother
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'again
   mother
 
   rapid'
-bip_39_word_new_line_4: 'again
-
-  mother
-
-  rapid
-
-  veteran'
-bip_39_word_new_line_5: 'again
-
-  mother
-
-  rapid
-
-  veteran
-
-  pact'
-bip_39_word_new_line_6: 'again
-
-  mother
-
-  rapid
-
-  veteran
-
-  pact
-
-  trap'
-bip_39_word_new_line_7: 'again
-
-  mother
-
-  rapid
-
-  veteran
-
-  pact
-
-  trap
-
-  mansion'
-bip_39_word_new_line_8: 'again
-
-  mother
-
-  rapid
-
-  veteran
-
-  pact
-
-  trap
-
-  mansion
-
-  enforce'
-bip_39_word_new_line_9: 'again
-
-  mother
-
-  rapid
-
-  veteran
-
-  pact
-
-  trap
-
-  mansion
-
-  enforce
-
-  crazy'
-bip_39_word_no_space_1: again
-bip_39_word_no_space_10: againmotherrapidveteranpacttrapmansionenforcecrazybar
-bip_39_word_no_space_11: againmotherrapidveteranpacttrapmansionenforcecrazybarfocus
 bip_39_word_no_space_12: againmotherrapidveteranpacttrapmansionenforcecrazybarfocusanger
 bip_39_word_no_space_2: againmother
 bip_39_word_no_space_3: againmotherrapid
-bip_39_word_no_space_4: againmotherrapidveteran
-bip_39_word_no_space_5: againmotherrapidveteranpact
-bip_39_word_no_space_6: againmotherrapidveteranpacttrap
-bip_39_word_no_space_7: againmotherrapidveteranpacttrapmansion
-bip_39_word_no_space_8: againmotherrapidveteranpacttrapmansionenforce
-bip_39_word_no_space_9: againmotherrapidveteranpacttrapmansionenforcecrazy
-bip_39_word_space_0:
-- again
-- mother
-- rapid
-- veteran
-- pact
-- trap
-- mansion
-- enforce
-- crazy
-- bar
-- focus
-- anger
-bip_39_word_space_1: again
-bip_39_word_space_10: again mother rapid veteran pact trap mansion enforce crazy bar
-bip_39_word_space_11: again mother rapid veteran pact trap mansion enforce crazy bar
-  focus
 bip_39_word_space_12: again mother rapid veteran pact trap mansion enforce crazy bar
   focus anger
 bip_39_word_space_2: again mother
 bip_39_word_space_3: again mother rapid
-bip_39_word_space_4: again mother rapid veteran
-bip_39_word_space_5: again mother rapid veteran pact
-bip_39_word_space_6: again mother rapid veteran pact trap
-bip_39_word_space_7: again mother rapid veteran pact trap mansion
-bip_39_word_space_8: again mother rapid veteran pact trap mansion enforce
-bip_39_word_space_9: again mother rapid veteran pact trap mansion enforce crazy
-bip_39_word_underscore_1: again
-bip_39_word_underscore_10: again_mother_rapid_veteran_pact_trap_mansion_enforce_crazy_bar
-bip_39_word_underscore_11: again_mother_rapid_veteran_pact_trap_mansion_enforce_crazy_bar_focus
 bip_39_word_underscore_12: again_mother_rapid_veteran_pact_trap_mansion_enforce_crazy_bar_focus_anger
 bip_39_word_underscore_2: again_mother
 bip_39_word_underscore_3: again_mother_rapid
-bip_39_word_underscore_4: again_mother_rapid_veteran
-bip_39_word_underscore_5: again_mother_rapid_veteran_pact
-bip_39_word_underscore_6: again_mother_rapid_veteran_pact_trap
-bip_39_word_underscore_7: again_mother_rapid_veteran_pact_trap_mansion
-bip_39_word_underscore_8: again_mother_rapid_veteran_pact_trap_mansion_enforce
-bip_39_word_underscore_9: again_mother_rapid_veteran_pact_trap_mansion_enforce_crazy
 classification: company_oomlout
 classification_capital: Company Oomlout
 classification_first_letter: c

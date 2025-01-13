@@ -1,68 +1,9 @@
-bip_39_word_dash_1: echo
-bip_39_word_dash_10: echo-debris-text-window-fetch-purpose-tattoo-high-coil-army
-bip_39_word_dash_11: echo-debris-text-window-fetch-purpose-tattoo-high-coil-army-sister
 bip_39_word_dash_12: echo-debris-text-window-fetch-purpose-tattoo-high-coil-army-sister-arrow
 bip_39_word_dash_2: echo-debris
 bip_39_word_dash_3: echo-debris-text
-bip_39_word_dash_4: echo-debris-text-window
-bip_39_word_dash_5: echo-debris-text-window-fetch
-bip_39_word_dash_6: echo-debris-text-window-fetch-purpose
-bip_39_word_dash_7: echo-debris-text-window-fetch-purpose-tattoo
-bip_39_word_dash_8: echo-debris-text-window-fetch-purpose-tattoo-high
-bip_39_word_dash_9: echo-debris-text-window-fetch-purpose-tattoo-high-coil
-bip_39_word_new_br_1: echo
-bip_39_word_new_br_10: echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army
-bip_39_word_new_br_11: echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army<br>sister
 bip_39_word_new_br_12: echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil<br>army<br>sister<br>arrow
 bip_39_word_new_br_2: echo<br>debris
 bip_39_word_new_br_3: echo<br>debris<br>text
-bip_39_word_new_br_4: echo<br>debris<br>text<br>window
-bip_39_word_new_br_5: echo<br>debris<br>text<br>window<br>fetch
-bip_39_word_new_br_6: echo<br>debris<br>text<br>window<br>fetch<br>purpose
-bip_39_word_new_br_7: echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo
-bip_39_word_new_br_8: echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high
-bip_39_word_new_br_9: echo<br>debris<br>text<br>window<br>fetch<br>purpose<br>tattoo<br>high<br>coil
-bip_39_word_new_line_1: echo
-bip_39_word_new_line_10: 'echo
-
-  debris
-
-  text
-
-  window
-
-  fetch
-
-  purpose
-
-  tattoo
-
-  high
-
-  coil
-
-  army'
-bip_39_word_new_line_11: 'echo
-
-  debris
-
-  text
-
-  window
-
-  fetch
-
-  purpose
-
-  tattoo
-
-  high
-
-  coil
-
-  army
-
-  sister'
 bip_39_word_new_line_12: 'echo
 
   debris
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'echo
   debris
 
   text'
-bip_39_word_new_line_4: 'echo
-
-  debris
-
-  text
-
-  window'
-bip_39_word_new_line_5: 'echo
-
-  debris
-
-  text
-
-  window
-
-  fetch'
-bip_39_word_new_line_6: 'echo
-
-  debris
-
-  text
-
-  window
-
-  fetch
-
-  purpose'
-bip_39_word_new_line_7: 'echo
-
-  debris
-
-  text
-
-  window
-
-  fetch
-
-  purpose
-
-  tattoo'
-bip_39_word_new_line_8: 'echo
-
-  debris
-
-  text
-
-  window
-
-  fetch
-
-  purpose
-
-  tattoo
-
-  high'
-bip_39_word_new_line_9: 'echo
-
-  debris
-
-  text
-
-  window
-
-  fetch
-
-  purpose
-
-  tattoo
-
-  high
-
-  coil'
-bip_39_word_no_space_1: echo
-bip_39_word_no_space_10: echodebristextwindowfetchpurposetattoohighcoilarmy
-bip_39_word_no_space_11: echodebristextwindowfetchpurposetattoohighcoilarmysister
 bip_39_word_no_space_12: echodebristextwindowfetchpurposetattoohighcoilarmysisterarrow
 bip_39_word_no_space_2: echodebris
 bip_39_word_no_space_3: echodebristext
-bip_39_word_no_space_4: echodebristextwindow
-bip_39_word_no_space_5: echodebristextwindowfetch
-bip_39_word_no_space_6: echodebristextwindowfetchpurpose
-bip_39_word_no_space_7: echodebristextwindowfetchpurposetattoo
-bip_39_word_no_space_8: echodebristextwindowfetchpurposetattoohigh
-bip_39_word_no_space_9: echodebristextwindowfetchpurposetattoohighcoil
-bip_39_word_space_0:
-- echo
-- debris
-- text
-- window
-- fetch
-- purpose
-- tattoo
-- high
-- coil
-- army
-- sister
-- arrow
-bip_39_word_space_1: echo
-bip_39_word_space_10: echo debris text window fetch purpose tattoo high coil army
-bip_39_word_space_11: echo debris text window fetch purpose tattoo high coil army
-  sister
 bip_39_word_space_12: echo debris text window fetch purpose tattoo high coil army
   sister arrow
 bip_39_word_space_2: echo debris
 bip_39_word_space_3: echo debris text
-bip_39_word_space_4: echo debris text window
-bip_39_word_space_5: echo debris text window fetch
-bip_39_word_space_6: echo debris text window fetch purpose
-bip_39_word_space_7: echo debris text window fetch purpose tattoo
-bip_39_word_space_8: echo debris text window fetch purpose tattoo high
-bip_39_word_space_9: echo debris text window fetch purpose tattoo high coil
-bip_39_word_underscore_1: echo
-bip_39_word_underscore_10: echo_debris_text_window_fetch_purpose_tattoo_high_coil_army
-bip_39_word_underscore_11: echo_debris_text_window_fetch_purpose_tattoo_high_coil_army_sister
 bip_39_word_underscore_12: echo_debris_text_window_fetch_purpose_tattoo_high_coil_army_sister_arrow
 bip_39_word_underscore_2: echo_debris
 bip_39_word_underscore_3: echo_debris_text
-bip_39_word_underscore_4: echo_debris_text_window
-bip_39_word_underscore_5: echo_debris_text_window_fetch
-bip_39_word_underscore_6: echo_debris_text_window_fetch_purpose
-bip_39_word_underscore_7: echo_debris_text_window_fetch_purpose_tattoo
-bip_39_word_underscore_8: echo_debris_text_window_fetch_purpose_tattoo_high
-bip_39_word_underscore_9: echo_debris_text_window_fetch_purpose_tattoo_high_coil
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

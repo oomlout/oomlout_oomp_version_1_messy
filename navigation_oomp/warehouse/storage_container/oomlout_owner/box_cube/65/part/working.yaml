@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lend
-bip_39_word_dash_10: lend-fiber-doctor-cruise-dawn-priority-fiscal-tray-hedgehog-fatal
-bip_39_word_dash_11: lend-fiber-doctor-cruise-dawn-priority-fiscal-tray-hedgehog-fatal-stable
 bip_39_word_dash_12: lend-fiber-doctor-cruise-dawn-priority-fiscal-tray-hedgehog-fatal-stable-arch
 bip_39_word_dash_2: lend-fiber
 bip_39_word_dash_3: lend-fiber-doctor
-bip_39_word_dash_4: lend-fiber-doctor-cruise
-bip_39_word_dash_5: lend-fiber-doctor-cruise-dawn
-bip_39_word_dash_6: lend-fiber-doctor-cruise-dawn-priority
-bip_39_word_dash_7: lend-fiber-doctor-cruise-dawn-priority-fiscal
-bip_39_word_dash_8: lend-fiber-doctor-cruise-dawn-priority-fiscal-tray
-bip_39_word_dash_9: lend-fiber-doctor-cruise-dawn-priority-fiscal-tray-hedgehog
-bip_39_word_new_br_1: lend
-bip_39_word_new_br_10: lend<br>fiber<br>doctor<br>cruise<br>dawn<br>priority<br>fiscal<br>tray<br>hedgehog<br>fatal
-bip_39_word_new_br_11: lend<br>fiber<br>doctor<br>cruise<br>dawn<br>priority<br>fiscal<br>tray<br>hedgehog<br>fatal<br>stable
 bip_39_word_new_br_12: lend<br>fiber<br>doctor<br>cruise<br>dawn<br>priority<br>fiscal<br>tray<br>hedgehog<br>fatal<br>stable<br>arch
 bip_39_word_new_br_2: lend<br>fiber
 bip_39_word_new_br_3: lend<br>fiber<br>doctor
-bip_39_word_new_br_4: lend<br>fiber<br>doctor<br>cruise
-bip_39_word_new_br_5: lend<br>fiber<br>doctor<br>cruise<br>dawn
-bip_39_word_new_br_6: lend<br>fiber<br>doctor<br>cruise<br>dawn<br>priority
-bip_39_word_new_br_7: lend<br>fiber<br>doctor<br>cruise<br>dawn<br>priority<br>fiscal
-bip_39_word_new_br_8: lend<br>fiber<br>doctor<br>cruise<br>dawn<br>priority<br>fiscal<br>tray
-bip_39_word_new_br_9: lend<br>fiber<br>doctor<br>cruise<br>dawn<br>priority<br>fiscal<br>tray<br>hedgehog
-bip_39_word_new_line_1: lend
-bip_39_word_new_line_10: 'lend
-
-  fiber
-
-  doctor
-
-  cruise
-
-  dawn
-
-  priority
-
-  fiscal
-
-  tray
-
-  hedgehog
-
-  fatal'
-bip_39_word_new_line_11: 'lend
-
-  fiber
-
-  doctor
-
-  cruise
-
-  dawn
-
-  priority
-
-  fiscal
-
-  tray
-
-  hedgehog
-
-  fatal
-
-  stable'
 bip_39_word_new_line_12: 'lend
 
   fiber
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'lend
   fiber
 
   doctor'
-bip_39_word_new_line_4: 'lend
-
-  fiber
-
-  doctor
-
-  cruise'
-bip_39_word_new_line_5: 'lend
-
-  fiber
-
-  doctor
-
-  cruise
-
-  dawn'
-bip_39_word_new_line_6: 'lend
-
-  fiber
-
-  doctor
-
-  cruise
-
-  dawn
-
-  priority'
-bip_39_word_new_line_7: 'lend
-
-  fiber
-
-  doctor
-
-  cruise
-
-  dawn
-
-  priority
-
-  fiscal'
-bip_39_word_new_line_8: 'lend
-
-  fiber
-
-  doctor
-
-  cruise
-
-  dawn
-
-  priority
-
-  fiscal
-
-  tray'
-bip_39_word_new_line_9: 'lend
-
-  fiber
-
-  doctor
-
-  cruise
-
-  dawn
-
-  priority
-
-  fiscal
-
-  tray
-
-  hedgehog'
-bip_39_word_no_space_1: lend
-bip_39_word_no_space_10: lendfiberdoctorcruisedawnpriorityfiscaltrayhedgehogfatal
-bip_39_word_no_space_11: lendfiberdoctorcruisedawnpriorityfiscaltrayhedgehogfatalstable
 bip_39_word_no_space_12: lendfiberdoctorcruisedawnpriorityfiscaltrayhedgehogfatalstablearch
 bip_39_word_no_space_2: lendfiber
 bip_39_word_no_space_3: lendfiberdoctor
-bip_39_word_no_space_4: lendfiberdoctorcruise
-bip_39_word_no_space_5: lendfiberdoctorcruisedawn
-bip_39_word_no_space_6: lendfiberdoctorcruisedawnpriority
-bip_39_word_no_space_7: lendfiberdoctorcruisedawnpriorityfiscal
-bip_39_word_no_space_8: lendfiberdoctorcruisedawnpriorityfiscaltray
-bip_39_word_no_space_9: lendfiberdoctorcruisedawnpriorityfiscaltrayhedgehog
-bip_39_word_space_0:
-- lend
-- fiber
-- doctor
-- cruise
-- dawn
-- priority
-- fiscal
-- tray
-- hedgehog
-- fatal
-- stable
-- arch
-bip_39_word_space_1: lend
-bip_39_word_space_10: lend fiber doctor cruise dawn priority fiscal tray hedgehog
-  fatal
-bip_39_word_space_11: lend fiber doctor cruise dawn priority fiscal tray hedgehog
-  fatal stable
 bip_39_word_space_12: lend fiber doctor cruise dawn priority fiscal tray hedgehog
   fatal stable arch
 bip_39_word_space_2: lend fiber
 bip_39_word_space_3: lend fiber doctor
-bip_39_word_space_4: lend fiber doctor cruise
-bip_39_word_space_5: lend fiber doctor cruise dawn
-bip_39_word_space_6: lend fiber doctor cruise dawn priority
-bip_39_word_space_7: lend fiber doctor cruise dawn priority fiscal
-bip_39_word_space_8: lend fiber doctor cruise dawn priority fiscal tray
-bip_39_word_space_9: lend fiber doctor cruise dawn priority fiscal tray hedgehog
-bip_39_word_underscore_1: lend
-bip_39_word_underscore_10: lend_fiber_doctor_cruise_dawn_priority_fiscal_tray_hedgehog_fatal
-bip_39_word_underscore_11: lend_fiber_doctor_cruise_dawn_priority_fiscal_tray_hedgehog_fatal_stable
 bip_39_word_underscore_12: lend_fiber_doctor_cruise_dawn_priority_fiscal_tray_hedgehog_fatal_stable_arch
 bip_39_word_underscore_2: lend_fiber
 bip_39_word_underscore_3: lend_fiber_doctor
-bip_39_word_underscore_4: lend_fiber_doctor_cruise
-bip_39_word_underscore_5: lend_fiber_doctor_cruise_dawn
-bip_39_word_underscore_6: lend_fiber_doctor_cruise_dawn_priority
-bip_39_word_underscore_7: lend_fiber_doctor_cruise_dawn_priority_fiscal
-bip_39_word_underscore_8: lend_fiber_doctor_cruise_dawn_priority_fiscal_tray
-bip_39_word_underscore_9: lend_fiber_doctor_cruise_dawn_priority_fiscal_tray_hedgehog
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

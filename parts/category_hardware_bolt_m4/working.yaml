@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trip
-bip_39_word_dash_10: trip-cheap-voyage-ahead-build-crush-dinosaur-solve-punch-loop
-bip_39_word_dash_11: trip-cheap-voyage-ahead-build-crush-dinosaur-solve-punch-loop-tube
 bip_39_word_dash_12: trip-cheap-voyage-ahead-build-crush-dinosaur-solve-punch-loop-tube-alarm
 bip_39_word_dash_2: trip-cheap
 bip_39_word_dash_3: trip-cheap-voyage
-bip_39_word_dash_4: trip-cheap-voyage-ahead
-bip_39_word_dash_5: trip-cheap-voyage-ahead-build
-bip_39_word_dash_6: trip-cheap-voyage-ahead-build-crush
-bip_39_word_dash_7: trip-cheap-voyage-ahead-build-crush-dinosaur
-bip_39_word_dash_8: trip-cheap-voyage-ahead-build-crush-dinosaur-solve
-bip_39_word_dash_9: trip-cheap-voyage-ahead-build-crush-dinosaur-solve-punch
-bip_39_word_new_br_1: trip
-bip_39_word_new_br_10: trip<br>cheap<br>voyage<br>ahead<br>build<br>crush<br>dinosaur<br>solve<br>punch<br>loop
-bip_39_word_new_br_11: trip<br>cheap<br>voyage<br>ahead<br>build<br>crush<br>dinosaur<br>solve<br>punch<br>loop<br>tube
 bip_39_word_new_br_12: trip<br>cheap<br>voyage<br>ahead<br>build<br>crush<br>dinosaur<br>solve<br>punch<br>loop<br>tube<br>alarm
 bip_39_word_new_br_2: trip<br>cheap
 bip_39_word_new_br_3: trip<br>cheap<br>voyage
-bip_39_word_new_br_4: trip<br>cheap<br>voyage<br>ahead
-bip_39_word_new_br_5: trip<br>cheap<br>voyage<br>ahead<br>build
-bip_39_word_new_br_6: trip<br>cheap<br>voyage<br>ahead<br>build<br>crush
-bip_39_word_new_br_7: trip<br>cheap<br>voyage<br>ahead<br>build<br>crush<br>dinosaur
-bip_39_word_new_br_8: trip<br>cheap<br>voyage<br>ahead<br>build<br>crush<br>dinosaur<br>solve
-bip_39_word_new_br_9: trip<br>cheap<br>voyage<br>ahead<br>build<br>crush<br>dinosaur<br>solve<br>punch
-bip_39_word_new_line_1: trip
-bip_39_word_new_line_10: 'trip
-
-  cheap
-
-  voyage
-
-  ahead
-
-  build
-
-  crush
-
-  dinosaur
-
-  solve
-
-  punch
-
-  loop'
-bip_39_word_new_line_11: 'trip
-
-  cheap
-
-  voyage
-
-  ahead
-
-  build
-
-  crush
-
-  dinosaur
-
-  solve
-
-  punch
-
-  loop
-
-  tube'
 bip_39_word_new_line_12: 'trip
 
   cheap
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'trip
   cheap
 
   voyage'
-bip_39_word_new_line_4: 'trip
-
-  cheap
-
-  voyage
-
-  ahead'
-bip_39_word_new_line_5: 'trip
-
-  cheap
-
-  voyage
-
-  ahead
-
-  build'
-bip_39_word_new_line_6: 'trip
-
-  cheap
-
-  voyage
-
-  ahead
-
-  build
-
-  crush'
-bip_39_word_new_line_7: 'trip
-
-  cheap
-
-  voyage
-
-  ahead
-
-  build
-
-  crush
-
-  dinosaur'
-bip_39_word_new_line_8: 'trip
-
-  cheap
-
-  voyage
-
-  ahead
-
-  build
-
-  crush
-
-  dinosaur
-
-  solve'
-bip_39_word_new_line_9: 'trip
-
-  cheap
-
-  voyage
-
-  ahead
-
-  build
-
-  crush
-
-  dinosaur
-
-  solve
-
-  punch'
-bip_39_word_no_space_1: trip
-bip_39_word_no_space_10: tripcheapvoyageaheadbuildcrushdinosaursolvepunchloop
-bip_39_word_no_space_11: tripcheapvoyageaheadbuildcrushdinosaursolvepunchlooptube
 bip_39_word_no_space_12: tripcheapvoyageaheadbuildcrushdinosaursolvepunchlooptubealarm
 bip_39_word_no_space_2: tripcheap
 bip_39_word_no_space_3: tripcheapvoyage
-bip_39_word_no_space_4: tripcheapvoyageahead
-bip_39_word_no_space_5: tripcheapvoyageaheadbuild
-bip_39_word_no_space_6: tripcheapvoyageaheadbuildcrush
-bip_39_word_no_space_7: tripcheapvoyageaheadbuildcrushdinosaur
-bip_39_word_no_space_8: tripcheapvoyageaheadbuildcrushdinosaursolve
-bip_39_word_no_space_9: tripcheapvoyageaheadbuildcrushdinosaursolvepunch
-bip_39_word_space_0:
-- trip
-- cheap
-- voyage
-- ahead
-- build
-- crush
-- dinosaur
-- solve
-- punch
-- loop
-- tube
-- alarm
-bip_39_word_space_1: trip
-bip_39_word_space_10: trip cheap voyage ahead build crush dinosaur solve punch loop
-bip_39_word_space_11: trip cheap voyage ahead build crush dinosaur solve punch loop
-  tube
 bip_39_word_space_12: trip cheap voyage ahead build crush dinosaur solve punch loop
   tube alarm
 bip_39_word_space_2: trip cheap
 bip_39_word_space_3: trip cheap voyage
-bip_39_word_space_4: trip cheap voyage ahead
-bip_39_word_space_5: trip cheap voyage ahead build
-bip_39_word_space_6: trip cheap voyage ahead build crush
-bip_39_word_space_7: trip cheap voyage ahead build crush dinosaur
-bip_39_word_space_8: trip cheap voyage ahead build crush dinosaur solve
-bip_39_word_space_9: trip cheap voyage ahead build crush dinosaur solve punch
-bip_39_word_underscore_1: trip
-bip_39_word_underscore_10: trip_cheap_voyage_ahead_build_crush_dinosaur_solve_punch_loop
-bip_39_word_underscore_11: trip_cheap_voyage_ahead_build_crush_dinosaur_solve_punch_loop_tube
 bip_39_word_underscore_12: trip_cheap_voyage_ahead_build_crush_dinosaur_solve_punch_loop_tube_alarm
 bip_39_word_underscore_2: trip_cheap
 bip_39_word_underscore_3: trip_cheap_voyage
-bip_39_word_underscore_4: trip_cheap_voyage_ahead
-bip_39_word_underscore_5: trip_cheap_voyage_ahead_build
-bip_39_word_underscore_6: trip_cheap_voyage_ahead_build_crush
-bip_39_word_underscore_7: trip_cheap_voyage_ahead_build_crush_dinosaur
-bip_39_word_underscore_8: trip_cheap_voyage_ahead_build_crush_dinosaur_solve
-bip_39_word_underscore_9: trip_cheap_voyage_ahead_build_crush_dinosaur_solve_punch
 classification: category
 classification_capital: Category
 classification_first_letter: c

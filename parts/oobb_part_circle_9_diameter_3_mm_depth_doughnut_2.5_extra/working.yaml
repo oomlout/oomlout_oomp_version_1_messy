@@ -1,68 +1,9 @@
-bip_39_word_dash_1: income
-bip_39_word_dash_10: income-keen-taste-alone-retire-target-dish-tongue-service-special
-bip_39_word_dash_11: income-keen-taste-alone-retire-target-dish-tongue-service-special-work
 bip_39_word_dash_12: income-keen-taste-alone-retire-target-dish-tongue-service-special-work-able
 bip_39_word_dash_2: income-keen
 bip_39_word_dash_3: income-keen-taste
-bip_39_word_dash_4: income-keen-taste-alone
-bip_39_word_dash_5: income-keen-taste-alone-retire
-bip_39_word_dash_6: income-keen-taste-alone-retire-target
-bip_39_word_dash_7: income-keen-taste-alone-retire-target-dish
-bip_39_word_dash_8: income-keen-taste-alone-retire-target-dish-tongue
-bip_39_word_dash_9: income-keen-taste-alone-retire-target-dish-tongue-service
-bip_39_word_new_br_1: income
-bip_39_word_new_br_10: income<br>keen<br>taste<br>alone<br>retire<br>target<br>dish<br>tongue<br>service<br>special
-bip_39_word_new_br_11: income<br>keen<br>taste<br>alone<br>retire<br>target<br>dish<br>tongue<br>service<br>special<br>work
 bip_39_word_new_br_12: income<br>keen<br>taste<br>alone<br>retire<br>target<br>dish<br>tongue<br>service<br>special<br>work<br>able
 bip_39_word_new_br_2: income<br>keen
 bip_39_word_new_br_3: income<br>keen<br>taste
-bip_39_word_new_br_4: income<br>keen<br>taste<br>alone
-bip_39_word_new_br_5: income<br>keen<br>taste<br>alone<br>retire
-bip_39_word_new_br_6: income<br>keen<br>taste<br>alone<br>retire<br>target
-bip_39_word_new_br_7: income<br>keen<br>taste<br>alone<br>retire<br>target<br>dish
-bip_39_word_new_br_8: income<br>keen<br>taste<br>alone<br>retire<br>target<br>dish<br>tongue
-bip_39_word_new_br_9: income<br>keen<br>taste<br>alone<br>retire<br>target<br>dish<br>tongue<br>service
-bip_39_word_new_line_1: income
-bip_39_word_new_line_10: 'income
-
-  keen
-
-  taste
-
-  alone
-
-  retire
-
-  target
-
-  dish
-
-  tongue
-
-  service
-
-  special'
-bip_39_word_new_line_11: 'income
-
-  keen
-
-  taste
-
-  alone
-
-  retire
-
-  target
-
-  dish
-
-  tongue
-
-  service
-
-  special
-
-  work'
 bip_39_word_new_line_12: 'income
 
   keen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'income
   keen
 
   taste'
-bip_39_word_new_line_4: 'income
-
-  keen
-
-  taste
-
-  alone'
-bip_39_word_new_line_5: 'income
-
-  keen
-
-  taste
-
-  alone
-
-  retire'
-bip_39_word_new_line_6: 'income
-
-  keen
-
-  taste
-
-  alone
-
-  retire
-
-  target'
-bip_39_word_new_line_7: 'income
-
-  keen
-
-  taste
-
-  alone
-
-  retire
-
-  target
-
-  dish'
-bip_39_word_new_line_8: 'income
-
-  keen
-
-  taste
-
-  alone
-
-  retire
-
-  target
-
-  dish
-
-  tongue'
-bip_39_word_new_line_9: 'income
-
-  keen
-
-  taste
-
-  alone
-
-  retire
-
-  target
-
-  dish
-
-  tongue
-
-  service'
-bip_39_word_no_space_1: income
-bip_39_word_no_space_10: incomekeentastealoneretiretargetdishtongueservicespecial
-bip_39_word_no_space_11: incomekeentastealoneretiretargetdishtongueservicespecialwork
 bip_39_word_no_space_12: incomekeentastealoneretiretargetdishtongueservicespecialworkable
 bip_39_word_no_space_2: incomekeen
 bip_39_word_no_space_3: incomekeentaste
-bip_39_word_no_space_4: incomekeentastealone
-bip_39_word_no_space_5: incomekeentastealoneretire
-bip_39_word_no_space_6: incomekeentastealoneretiretarget
-bip_39_word_no_space_7: incomekeentastealoneretiretargetdish
-bip_39_word_no_space_8: incomekeentastealoneretiretargetdishtongue
-bip_39_word_no_space_9: incomekeentastealoneretiretargetdishtongueservice
-bip_39_word_space_0:
-- income
-- keen
-- taste
-- alone
-- retire
-- target
-- dish
-- tongue
-- service
-- special
-- work
-- able
-bip_39_word_space_1: income
-bip_39_word_space_10: income keen taste alone retire target dish tongue service special
-bip_39_word_space_11: income keen taste alone retire target dish tongue service special
-  work
 bip_39_word_space_12: income keen taste alone retire target dish tongue service special
   work able
 bip_39_word_space_2: income keen
 bip_39_word_space_3: income keen taste
-bip_39_word_space_4: income keen taste alone
-bip_39_word_space_5: income keen taste alone retire
-bip_39_word_space_6: income keen taste alone retire target
-bip_39_word_space_7: income keen taste alone retire target dish
-bip_39_word_space_8: income keen taste alone retire target dish tongue
-bip_39_word_space_9: income keen taste alone retire target dish tongue service
-bip_39_word_underscore_1: income
-bip_39_word_underscore_10: income_keen_taste_alone_retire_target_dish_tongue_service_special
-bip_39_word_underscore_11: income_keen_taste_alone_retire_target_dish_tongue_service_special_work
 bip_39_word_underscore_12: income_keen_taste_alone_retire_target_dish_tongue_service_special_work_able
 bip_39_word_underscore_2: income_keen
 bip_39_word_underscore_3: income_keen_taste
-bip_39_word_underscore_4: income_keen_taste_alone
-bip_39_word_underscore_5: income_keen_taste_alone_retire
-bip_39_word_underscore_6: income_keen_taste_alone_retire_target
-bip_39_word_underscore_7: income_keen_taste_alone_retire_target_dish
-bip_39_word_underscore_8: income_keen_taste_alone_retire_target_dish_tongue
-bip_39_word_underscore_9: income_keen_taste_alone_retire_target_dish_tongue_service
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

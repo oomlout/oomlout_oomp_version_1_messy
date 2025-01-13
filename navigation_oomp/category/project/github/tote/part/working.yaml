@@ -1,68 +1,9 @@
-bip_39_word_dash_1: average
-bip_39_word_dash_10: average-print-clump-neutral-crash-equal-giant-term-chuckle-habit
-bip_39_word_dash_11: average-print-clump-neutral-crash-equal-giant-term-chuckle-habit-cherry
 bip_39_word_dash_12: average-print-clump-neutral-crash-equal-giant-term-chuckle-habit-cherry-assume
 bip_39_word_dash_2: average-print
 bip_39_word_dash_3: average-print-clump
-bip_39_word_dash_4: average-print-clump-neutral
-bip_39_word_dash_5: average-print-clump-neutral-crash
-bip_39_word_dash_6: average-print-clump-neutral-crash-equal
-bip_39_word_dash_7: average-print-clump-neutral-crash-equal-giant
-bip_39_word_dash_8: average-print-clump-neutral-crash-equal-giant-term
-bip_39_word_dash_9: average-print-clump-neutral-crash-equal-giant-term-chuckle
-bip_39_word_new_br_1: average
-bip_39_word_new_br_10: average<br>print<br>clump<br>neutral<br>crash<br>equal<br>giant<br>term<br>chuckle<br>habit
-bip_39_word_new_br_11: average<br>print<br>clump<br>neutral<br>crash<br>equal<br>giant<br>term<br>chuckle<br>habit<br>cherry
 bip_39_word_new_br_12: average<br>print<br>clump<br>neutral<br>crash<br>equal<br>giant<br>term<br>chuckle<br>habit<br>cherry<br>assume
 bip_39_word_new_br_2: average<br>print
 bip_39_word_new_br_3: average<br>print<br>clump
-bip_39_word_new_br_4: average<br>print<br>clump<br>neutral
-bip_39_word_new_br_5: average<br>print<br>clump<br>neutral<br>crash
-bip_39_word_new_br_6: average<br>print<br>clump<br>neutral<br>crash<br>equal
-bip_39_word_new_br_7: average<br>print<br>clump<br>neutral<br>crash<br>equal<br>giant
-bip_39_word_new_br_8: average<br>print<br>clump<br>neutral<br>crash<br>equal<br>giant<br>term
-bip_39_word_new_br_9: average<br>print<br>clump<br>neutral<br>crash<br>equal<br>giant<br>term<br>chuckle
-bip_39_word_new_line_1: average
-bip_39_word_new_line_10: 'average
-
-  print
-
-  clump
-
-  neutral
-
-  crash
-
-  equal
-
-  giant
-
-  term
-
-  chuckle
-
-  habit'
-bip_39_word_new_line_11: 'average
-
-  print
-
-  clump
-
-  neutral
-
-  crash
-
-  equal
-
-  giant
-
-  term
-
-  chuckle
-
-  habit
-
-  cherry'
 bip_39_word_new_line_12: 'average
 
   print
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'average
   print
 
   clump'
-bip_39_word_new_line_4: 'average
-
-  print
-
-  clump
-
-  neutral'
-bip_39_word_new_line_5: 'average
-
-  print
-
-  clump
-
-  neutral
-
-  crash'
-bip_39_word_new_line_6: 'average
-
-  print
-
-  clump
-
-  neutral
-
-  crash
-
-  equal'
-bip_39_word_new_line_7: 'average
-
-  print
-
-  clump
-
-  neutral
-
-  crash
-
-  equal
-
-  giant'
-bip_39_word_new_line_8: 'average
-
-  print
-
-  clump
-
-  neutral
-
-  crash
-
-  equal
-
-  giant
-
-  term'
-bip_39_word_new_line_9: 'average
-
-  print
-
-  clump
-
-  neutral
-
-  crash
-
-  equal
-
-  giant
-
-  term
-
-  chuckle'
-bip_39_word_no_space_1: average
-bip_39_word_no_space_10: averageprintclumpneutralcrashequalgianttermchucklehabit
-bip_39_word_no_space_11: averageprintclumpneutralcrashequalgianttermchucklehabitcherry
 bip_39_word_no_space_12: averageprintclumpneutralcrashequalgianttermchucklehabitcherryassume
 bip_39_word_no_space_2: averageprint
 bip_39_word_no_space_3: averageprintclump
-bip_39_word_no_space_4: averageprintclumpneutral
-bip_39_word_no_space_5: averageprintclumpneutralcrash
-bip_39_word_no_space_6: averageprintclumpneutralcrashequal
-bip_39_word_no_space_7: averageprintclumpneutralcrashequalgiant
-bip_39_word_no_space_8: averageprintclumpneutralcrashequalgiantterm
-bip_39_word_no_space_9: averageprintclumpneutralcrashequalgianttermchuckle
-bip_39_word_space_0:
-- average
-- print
-- clump
-- neutral
-- crash
-- equal
-- giant
-- term
-- chuckle
-- habit
-- cherry
-- assume
-bip_39_word_space_1: average
-bip_39_word_space_10: average print clump neutral crash equal giant term chuckle habit
-bip_39_word_space_11: average print clump neutral crash equal giant term chuckle habit
-  cherry
 bip_39_word_space_12: average print clump neutral crash equal giant term chuckle habit
   cherry assume
 bip_39_word_space_2: average print
 bip_39_word_space_3: average print clump
-bip_39_word_space_4: average print clump neutral
-bip_39_word_space_5: average print clump neutral crash
-bip_39_word_space_6: average print clump neutral crash equal
-bip_39_word_space_7: average print clump neutral crash equal giant
-bip_39_word_space_8: average print clump neutral crash equal giant term
-bip_39_word_space_9: average print clump neutral crash equal giant term chuckle
-bip_39_word_underscore_1: average
-bip_39_word_underscore_10: average_print_clump_neutral_crash_equal_giant_term_chuckle_habit
-bip_39_word_underscore_11: average_print_clump_neutral_crash_equal_giant_term_chuckle_habit_cherry
 bip_39_word_underscore_12: average_print_clump_neutral_crash_equal_giant_term_chuckle_habit_cherry_assume
 bip_39_word_underscore_2: average_print
 bip_39_word_underscore_3: average_print_clump
-bip_39_word_underscore_4: average_print_clump_neutral
-bip_39_word_underscore_5: average_print_clump_neutral_crash
-bip_39_word_underscore_6: average_print_clump_neutral_crash_equal
-bip_39_word_underscore_7: average_print_clump_neutral_crash_equal_giant
-bip_39_word_underscore_8: average_print_clump_neutral_crash_equal_giant_term
-bip_39_word_underscore_9: average_print_clump_neutral_crash_equal_giant_term_chuckle
 classification: category
 classification_capital: Category
 classification_first_letter: c

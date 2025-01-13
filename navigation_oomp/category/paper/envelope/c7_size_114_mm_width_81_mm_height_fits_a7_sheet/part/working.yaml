@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rabbit
-bip_39_word_dash_10: rabbit-fix-turtle-sting-fancy-nose-inflict-shift-spend-leaf
-bip_39_word_dash_11: rabbit-fix-turtle-sting-fancy-nose-inflict-shift-spend-leaf-undo
 bip_39_word_dash_12: rabbit-fix-turtle-sting-fancy-nose-inflict-shift-spend-leaf-undo-album
 bip_39_word_dash_2: rabbit-fix
 bip_39_word_dash_3: rabbit-fix-turtle
-bip_39_word_dash_4: rabbit-fix-turtle-sting
-bip_39_word_dash_5: rabbit-fix-turtle-sting-fancy
-bip_39_word_dash_6: rabbit-fix-turtle-sting-fancy-nose
-bip_39_word_dash_7: rabbit-fix-turtle-sting-fancy-nose-inflict
-bip_39_word_dash_8: rabbit-fix-turtle-sting-fancy-nose-inflict-shift
-bip_39_word_dash_9: rabbit-fix-turtle-sting-fancy-nose-inflict-shift-spend
-bip_39_word_new_br_1: rabbit
-bip_39_word_new_br_10: rabbit<br>fix<br>turtle<br>sting<br>fancy<br>nose<br>inflict<br>shift<br>spend<br>leaf
-bip_39_word_new_br_11: rabbit<br>fix<br>turtle<br>sting<br>fancy<br>nose<br>inflict<br>shift<br>spend<br>leaf<br>undo
 bip_39_word_new_br_12: rabbit<br>fix<br>turtle<br>sting<br>fancy<br>nose<br>inflict<br>shift<br>spend<br>leaf<br>undo<br>album
 bip_39_word_new_br_2: rabbit<br>fix
 bip_39_word_new_br_3: rabbit<br>fix<br>turtle
-bip_39_word_new_br_4: rabbit<br>fix<br>turtle<br>sting
-bip_39_word_new_br_5: rabbit<br>fix<br>turtle<br>sting<br>fancy
-bip_39_word_new_br_6: rabbit<br>fix<br>turtle<br>sting<br>fancy<br>nose
-bip_39_word_new_br_7: rabbit<br>fix<br>turtle<br>sting<br>fancy<br>nose<br>inflict
-bip_39_word_new_br_8: rabbit<br>fix<br>turtle<br>sting<br>fancy<br>nose<br>inflict<br>shift
-bip_39_word_new_br_9: rabbit<br>fix<br>turtle<br>sting<br>fancy<br>nose<br>inflict<br>shift<br>spend
-bip_39_word_new_line_1: rabbit
-bip_39_word_new_line_10: 'rabbit
-
-  fix
-
-  turtle
-
-  sting
-
-  fancy
-
-  nose
-
-  inflict
-
-  shift
-
-  spend
-
-  leaf'
-bip_39_word_new_line_11: 'rabbit
-
-  fix
-
-  turtle
-
-  sting
-
-  fancy
-
-  nose
-
-  inflict
-
-  shift
-
-  spend
-
-  leaf
-
-  undo'
 bip_39_word_new_line_12: 'rabbit
 
   fix
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rabbit
   fix
 
   turtle'
-bip_39_word_new_line_4: 'rabbit
-
-  fix
-
-  turtle
-
-  sting'
-bip_39_word_new_line_5: 'rabbit
-
-  fix
-
-  turtle
-
-  sting
-
-  fancy'
-bip_39_word_new_line_6: 'rabbit
-
-  fix
-
-  turtle
-
-  sting
-
-  fancy
-
-  nose'
-bip_39_word_new_line_7: 'rabbit
-
-  fix
-
-  turtle
-
-  sting
-
-  fancy
-
-  nose
-
-  inflict'
-bip_39_word_new_line_8: 'rabbit
-
-  fix
-
-  turtle
-
-  sting
-
-  fancy
-
-  nose
-
-  inflict
-
-  shift'
-bip_39_word_new_line_9: 'rabbit
-
-  fix
-
-  turtle
-
-  sting
-
-  fancy
-
-  nose
-
-  inflict
-
-  shift
-
-  spend'
-bip_39_word_no_space_1: rabbit
-bip_39_word_no_space_10: rabbitfixturtlestingfancynoseinflictshiftspendleaf
-bip_39_word_no_space_11: rabbitfixturtlestingfancynoseinflictshiftspendleafundo
 bip_39_word_no_space_12: rabbitfixturtlestingfancynoseinflictshiftspendleafundoalbum
 bip_39_word_no_space_2: rabbitfix
 bip_39_word_no_space_3: rabbitfixturtle
-bip_39_word_no_space_4: rabbitfixturtlesting
-bip_39_word_no_space_5: rabbitfixturtlestingfancy
-bip_39_word_no_space_6: rabbitfixturtlestingfancynose
-bip_39_word_no_space_7: rabbitfixturtlestingfancynoseinflict
-bip_39_word_no_space_8: rabbitfixturtlestingfancynoseinflictshift
-bip_39_word_no_space_9: rabbitfixturtlestingfancynoseinflictshiftspend
-bip_39_word_space_0:
-- rabbit
-- fix
-- turtle
-- sting
-- fancy
-- nose
-- inflict
-- shift
-- spend
-- leaf
-- undo
-- album
-bip_39_word_space_1: rabbit
-bip_39_word_space_10: rabbit fix turtle sting fancy nose inflict shift spend leaf
-bip_39_word_space_11: rabbit fix turtle sting fancy nose inflict shift spend leaf
-  undo
 bip_39_word_space_12: rabbit fix turtle sting fancy nose inflict shift spend leaf
   undo album
 bip_39_word_space_2: rabbit fix
 bip_39_word_space_3: rabbit fix turtle
-bip_39_word_space_4: rabbit fix turtle sting
-bip_39_word_space_5: rabbit fix turtle sting fancy
-bip_39_word_space_6: rabbit fix turtle sting fancy nose
-bip_39_word_space_7: rabbit fix turtle sting fancy nose inflict
-bip_39_word_space_8: rabbit fix turtle sting fancy nose inflict shift
-bip_39_word_space_9: rabbit fix turtle sting fancy nose inflict shift spend
-bip_39_word_underscore_1: rabbit
-bip_39_word_underscore_10: rabbit_fix_turtle_sting_fancy_nose_inflict_shift_spend_leaf
-bip_39_word_underscore_11: rabbit_fix_turtle_sting_fancy_nose_inflict_shift_spend_leaf_undo
 bip_39_word_underscore_12: rabbit_fix_turtle_sting_fancy_nose_inflict_shift_spend_leaf_undo_album
 bip_39_word_underscore_2: rabbit_fix
 bip_39_word_underscore_3: rabbit_fix_turtle
-bip_39_word_underscore_4: rabbit_fix_turtle_sting
-bip_39_word_underscore_5: rabbit_fix_turtle_sting_fancy
-bip_39_word_underscore_6: rabbit_fix_turtle_sting_fancy_nose
-bip_39_word_underscore_7: rabbit_fix_turtle_sting_fancy_nose_inflict
-bip_39_word_underscore_8: rabbit_fix_turtle_sting_fancy_nose_inflict_shift
-bip_39_word_underscore_9: rabbit_fix_turtle_sting_fancy_nose_inflict_shift_spend
 classification: category
 classification_capital: Category
 classification_first_letter: c

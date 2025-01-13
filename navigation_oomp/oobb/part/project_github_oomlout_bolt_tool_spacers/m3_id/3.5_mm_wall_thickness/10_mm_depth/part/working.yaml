@@ -1,68 +1,9 @@
-bip_39_word_dash_1: asset
-bip_39_word_dash_10: asset-screen-elevator-reunion-happy-danger-opera-embark-umbrella-trumpet
-bip_39_word_dash_11: asset-screen-elevator-reunion-happy-danger-opera-embark-umbrella-trumpet-concert
 bip_39_word_dash_12: asset-screen-elevator-reunion-happy-danger-opera-embark-umbrella-trumpet-concert-assault
 bip_39_word_dash_2: asset-screen
 bip_39_word_dash_3: asset-screen-elevator
-bip_39_word_dash_4: asset-screen-elevator-reunion
-bip_39_word_dash_5: asset-screen-elevator-reunion-happy
-bip_39_word_dash_6: asset-screen-elevator-reunion-happy-danger
-bip_39_word_dash_7: asset-screen-elevator-reunion-happy-danger-opera
-bip_39_word_dash_8: asset-screen-elevator-reunion-happy-danger-opera-embark
-bip_39_word_dash_9: asset-screen-elevator-reunion-happy-danger-opera-embark-umbrella
-bip_39_word_new_br_1: asset
-bip_39_word_new_br_10: asset<br>screen<br>elevator<br>reunion<br>happy<br>danger<br>opera<br>embark<br>umbrella<br>trumpet
-bip_39_word_new_br_11: asset<br>screen<br>elevator<br>reunion<br>happy<br>danger<br>opera<br>embark<br>umbrella<br>trumpet<br>concert
 bip_39_word_new_br_12: asset<br>screen<br>elevator<br>reunion<br>happy<br>danger<br>opera<br>embark<br>umbrella<br>trumpet<br>concert<br>assault
 bip_39_word_new_br_2: asset<br>screen
 bip_39_word_new_br_3: asset<br>screen<br>elevator
-bip_39_word_new_br_4: asset<br>screen<br>elevator<br>reunion
-bip_39_word_new_br_5: asset<br>screen<br>elevator<br>reunion<br>happy
-bip_39_word_new_br_6: asset<br>screen<br>elevator<br>reunion<br>happy<br>danger
-bip_39_word_new_br_7: asset<br>screen<br>elevator<br>reunion<br>happy<br>danger<br>opera
-bip_39_word_new_br_8: asset<br>screen<br>elevator<br>reunion<br>happy<br>danger<br>opera<br>embark
-bip_39_word_new_br_9: asset<br>screen<br>elevator<br>reunion<br>happy<br>danger<br>opera<br>embark<br>umbrella
-bip_39_word_new_line_1: asset
-bip_39_word_new_line_10: 'asset
-
-  screen
-
-  elevator
-
-  reunion
-
-  happy
-
-  danger
-
-  opera
-
-  embark
-
-  umbrella
-
-  trumpet'
-bip_39_word_new_line_11: 'asset
-
-  screen
-
-  elevator
-
-  reunion
-
-  happy
-
-  danger
-
-  opera
-
-  embark
-
-  umbrella
-
-  trumpet
-
-  concert'
 bip_39_word_new_line_12: 'asset
 
   screen
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'asset
   screen
 
   elevator'
-bip_39_word_new_line_4: 'asset
-
-  screen
-
-  elevator
-
-  reunion'
-bip_39_word_new_line_5: 'asset
-
-  screen
-
-  elevator
-
-  reunion
-
-  happy'
-bip_39_word_new_line_6: 'asset
-
-  screen
-
-  elevator
-
-  reunion
-
-  happy
-
-  danger'
-bip_39_word_new_line_7: 'asset
-
-  screen
-
-  elevator
-
-  reunion
-
-  happy
-
-  danger
-
-  opera'
-bip_39_word_new_line_8: 'asset
-
-  screen
-
-  elevator
-
-  reunion
-
-  happy
-
-  danger
-
-  opera
-
-  embark'
-bip_39_word_new_line_9: 'asset
-
-  screen
-
-  elevator
-
-  reunion
-
-  happy
-
-  danger
-
-  opera
-
-  embark
-
-  umbrella'
-bip_39_word_no_space_1: asset
-bip_39_word_no_space_10: assetscreenelevatorreunionhappydangeroperaembarkumbrellatrumpet
-bip_39_word_no_space_11: assetscreenelevatorreunionhappydangeroperaembarkumbrellatrumpetconcert
 bip_39_word_no_space_12: assetscreenelevatorreunionhappydangeroperaembarkumbrellatrumpetconcertassault
 bip_39_word_no_space_2: assetscreen
 bip_39_word_no_space_3: assetscreenelevator
-bip_39_word_no_space_4: assetscreenelevatorreunion
-bip_39_word_no_space_5: assetscreenelevatorreunionhappy
-bip_39_word_no_space_6: assetscreenelevatorreunionhappydanger
-bip_39_word_no_space_7: assetscreenelevatorreunionhappydangeropera
-bip_39_word_no_space_8: assetscreenelevatorreunionhappydangeroperaembark
-bip_39_word_no_space_9: assetscreenelevatorreunionhappydangeroperaembarkumbrella
-bip_39_word_space_0:
-- asset
-- screen
-- elevator
-- reunion
-- happy
-- danger
-- opera
-- embark
-- umbrella
-- trumpet
-- concert
-- assault
-bip_39_word_space_1: asset
-bip_39_word_space_10: asset screen elevator reunion happy danger opera embark umbrella
-  trumpet
-bip_39_word_space_11: asset screen elevator reunion happy danger opera embark umbrella
-  trumpet concert
 bip_39_word_space_12: asset screen elevator reunion happy danger opera embark umbrella
   trumpet concert assault
 bip_39_word_space_2: asset screen
 bip_39_word_space_3: asset screen elevator
-bip_39_word_space_4: asset screen elevator reunion
-bip_39_word_space_5: asset screen elevator reunion happy
-bip_39_word_space_6: asset screen elevator reunion happy danger
-bip_39_word_space_7: asset screen elevator reunion happy danger opera
-bip_39_word_space_8: asset screen elevator reunion happy danger opera embark
-bip_39_word_space_9: asset screen elevator reunion happy danger opera embark umbrella
-bip_39_word_underscore_1: asset
-bip_39_word_underscore_10: asset_screen_elevator_reunion_happy_danger_opera_embark_umbrella_trumpet
-bip_39_word_underscore_11: asset_screen_elevator_reunion_happy_danger_opera_embark_umbrella_trumpet_concert
 bip_39_word_underscore_12: asset_screen_elevator_reunion_happy_danger_opera_embark_umbrella_trumpet_concert_assault
 bip_39_word_underscore_2: asset_screen
 bip_39_word_underscore_3: asset_screen_elevator
-bip_39_word_underscore_4: asset_screen_elevator_reunion
-bip_39_word_underscore_5: asset_screen_elevator_reunion_happy
-bip_39_word_underscore_6: asset_screen_elevator_reunion_happy_danger
-bip_39_word_underscore_7: asset_screen_elevator_reunion_happy_danger_opera
-bip_39_word_underscore_8: asset_screen_elevator_reunion_happy_danger_opera_embark
-bip_39_word_underscore_9: asset_screen_elevator_reunion_happy_danger_opera_embark_umbrella
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

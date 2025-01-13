@@ -1,68 +1,9 @@
-bip_39_word_dash_1: receive
-bip_39_word_dash_10: receive-wool-vault-peace-awesome-potato-congress-interest-onion-release
-bip_39_word_dash_11: receive-wool-vault-peace-awesome-potato-congress-interest-onion-release-alert
 bip_39_word_dash_12: receive-wool-vault-peace-awesome-potato-congress-interest-onion-release-alert-amount
 bip_39_word_dash_2: receive-wool
 bip_39_word_dash_3: receive-wool-vault
-bip_39_word_dash_4: receive-wool-vault-peace
-bip_39_word_dash_5: receive-wool-vault-peace-awesome
-bip_39_word_dash_6: receive-wool-vault-peace-awesome-potato
-bip_39_word_dash_7: receive-wool-vault-peace-awesome-potato-congress
-bip_39_word_dash_8: receive-wool-vault-peace-awesome-potato-congress-interest
-bip_39_word_dash_9: receive-wool-vault-peace-awesome-potato-congress-interest-onion
-bip_39_word_new_br_1: receive
-bip_39_word_new_br_10: receive<br>wool<br>vault<br>peace<br>awesome<br>potato<br>congress<br>interest<br>onion<br>release
-bip_39_word_new_br_11: receive<br>wool<br>vault<br>peace<br>awesome<br>potato<br>congress<br>interest<br>onion<br>release<br>alert
 bip_39_word_new_br_12: receive<br>wool<br>vault<br>peace<br>awesome<br>potato<br>congress<br>interest<br>onion<br>release<br>alert<br>amount
 bip_39_word_new_br_2: receive<br>wool
 bip_39_word_new_br_3: receive<br>wool<br>vault
-bip_39_word_new_br_4: receive<br>wool<br>vault<br>peace
-bip_39_word_new_br_5: receive<br>wool<br>vault<br>peace<br>awesome
-bip_39_word_new_br_6: receive<br>wool<br>vault<br>peace<br>awesome<br>potato
-bip_39_word_new_br_7: receive<br>wool<br>vault<br>peace<br>awesome<br>potato<br>congress
-bip_39_word_new_br_8: receive<br>wool<br>vault<br>peace<br>awesome<br>potato<br>congress<br>interest
-bip_39_word_new_br_9: receive<br>wool<br>vault<br>peace<br>awesome<br>potato<br>congress<br>interest<br>onion
-bip_39_word_new_line_1: receive
-bip_39_word_new_line_10: 'receive
-
-  wool
-
-  vault
-
-  peace
-
-  awesome
-
-  potato
-
-  congress
-
-  interest
-
-  onion
-
-  release'
-bip_39_word_new_line_11: 'receive
-
-  wool
-
-  vault
-
-  peace
-
-  awesome
-
-  potato
-
-  congress
-
-  interest
-
-  onion
-
-  release
-
-  alert'
 bip_39_word_new_line_12: 'receive
 
   wool
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'receive
   wool
 
   vault'
-bip_39_word_new_line_4: 'receive
-
-  wool
-
-  vault
-
-  peace'
-bip_39_word_new_line_5: 'receive
-
-  wool
-
-  vault
-
-  peace
-
-  awesome'
-bip_39_word_new_line_6: 'receive
-
-  wool
-
-  vault
-
-  peace
-
-  awesome
-
-  potato'
-bip_39_word_new_line_7: 'receive
-
-  wool
-
-  vault
-
-  peace
-
-  awesome
-
-  potato
-
-  congress'
-bip_39_word_new_line_8: 'receive
-
-  wool
-
-  vault
-
-  peace
-
-  awesome
-
-  potato
-
-  congress
-
-  interest'
-bip_39_word_new_line_9: 'receive
-
-  wool
-
-  vault
-
-  peace
-
-  awesome
-
-  potato
-
-  congress
-
-  interest
-
-  onion'
-bip_39_word_no_space_1: receive
-bip_39_word_no_space_10: receivewoolvaultpeaceawesomepotatocongressinterestonionrelease
-bip_39_word_no_space_11: receivewoolvaultpeaceawesomepotatocongressinterestonionreleasealert
 bip_39_word_no_space_12: receivewoolvaultpeaceawesomepotatocongressinterestonionreleasealertamount
 bip_39_word_no_space_2: receivewool
 bip_39_word_no_space_3: receivewoolvault
-bip_39_word_no_space_4: receivewoolvaultpeace
-bip_39_word_no_space_5: receivewoolvaultpeaceawesome
-bip_39_word_no_space_6: receivewoolvaultpeaceawesomepotato
-bip_39_word_no_space_7: receivewoolvaultpeaceawesomepotatocongress
-bip_39_word_no_space_8: receivewoolvaultpeaceawesomepotatocongressinterest
-bip_39_word_no_space_9: receivewoolvaultpeaceawesomepotatocongressinterestonion
-bip_39_word_space_0:
-- receive
-- wool
-- vault
-- peace
-- awesome
-- potato
-- congress
-- interest
-- onion
-- release
-- alert
-- amount
-bip_39_word_space_1: receive
-bip_39_word_space_10: receive wool vault peace awesome potato congress interest onion
-  release
-bip_39_word_space_11: receive wool vault peace awesome potato congress interest onion
-  release alert
 bip_39_word_space_12: receive wool vault peace awesome potato congress interest onion
   release alert amount
 bip_39_word_space_2: receive wool
 bip_39_word_space_3: receive wool vault
-bip_39_word_space_4: receive wool vault peace
-bip_39_word_space_5: receive wool vault peace awesome
-bip_39_word_space_6: receive wool vault peace awesome potato
-bip_39_word_space_7: receive wool vault peace awesome potato congress
-bip_39_word_space_8: receive wool vault peace awesome potato congress interest
-bip_39_word_space_9: receive wool vault peace awesome potato congress interest onion
-bip_39_word_underscore_1: receive
-bip_39_word_underscore_10: receive_wool_vault_peace_awesome_potato_congress_interest_onion_release
-bip_39_word_underscore_11: receive_wool_vault_peace_awesome_potato_congress_interest_onion_release_alert
 bip_39_word_underscore_12: receive_wool_vault_peace_awesome_potato_congress_interest_onion_release_alert_amount
 bip_39_word_underscore_2: receive_wool
 bip_39_word_underscore_3: receive_wool_vault
-bip_39_word_underscore_4: receive_wool_vault_peace
-bip_39_word_underscore_5: receive_wool_vault_peace_awesome
-bip_39_word_underscore_6: receive_wool_vault_peace_awesome_potato
-bip_39_word_underscore_7: receive_wool_vault_peace_awesome_potato_congress
-bip_39_word_underscore_8: receive_wool_vault_peace_awesome_potato_congress_interest
-bip_39_word_underscore_9: receive_wool_vault_peace_awesome_potato_congress_interest_onion
 classification: category
 classification_capital: Category
 classification_first_letter: c

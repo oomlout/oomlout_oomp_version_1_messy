@@ -1,68 +1,9 @@
-bip_39_word_dash_1: upgrade
-bip_39_word_dash_10: upgrade-doctor-custom-error-frost-angry-diamond-flee-execute-sphere
-bip_39_word_dash_11: upgrade-doctor-custom-error-frost-angry-diamond-flee-execute-sphere-upon
 bip_39_word_dash_12: upgrade-doctor-custom-error-frost-angry-diamond-flee-execute-sphere-upon-above
 bip_39_word_dash_2: upgrade-doctor
 bip_39_word_dash_3: upgrade-doctor-custom
-bip_39_word_dash_4: upgrade-doctor-custom-error
-bip_39_word_dash_5: upgrade-doctor-custom-error-frost
-bip_39_word_dash_6: upgrade-doctor-custom-error-frost-angry
-bip_39_word_dash_7: upgrade-doctor-custom-error-frost-angry-diamond
-bip_39_word_dash_8: upgrade-doctor-custom-error-frost-angry-diamond-flee
-bip_39_word_dash_9: upgrade-doctor-custom-error-frost-angry-diamond-flee-execute
-bip_39_word_new_br_1: upgrade
-bip_39_word_new_br_10: upgrade<br>doctor<br>custom<br>error<br>frost<br>angry<br>diamond<br>flee<br>execute<br>sphere
-bip_39_word_new_br_11: upgrade<br>doctor<br>custom<br>error<br>frost<br>angry<br>diamond<br>flee<br>execute<br>sphere<br>upon
 bip_39_word_new_br_12: upgrade<br>doctor<br>custom<br>error<br>frost<br>angry<br>diamond<br>flee<br>execute<br>sphere<br>upon<br>above
 bip_39_word_new_br_2: upgrade<br>doctor
 bip_39_word_new_br_3: upgrade<br>doctor<br>custom
-bip_39_word_new_br_4: upgrade<br>doctor<br>custom<br>error
-bip_39_word_new_br_5: upgrade<br>doctor<br>custom<br>error<br>frost
-bip_39_word_new_br_6: upgrade<br>doctor<br>custom<br>error<br>frost<br>angry
-bip_39_word_new_br_7: upgrade<br>doctor<br>custom<br>error<br>frost<br>angry<br>diamond
-bip_39_word_new_br_8: upgrade<br>doctor<br>custom<br>error<br>frost<br>angry<br>diamond<br>flee
-bip_39_word_new_br_9: upgrade<br>doctor<br>custom<br>error<br>frost<br>angry<br>diamond<br>flee<br>execute
-bip_39_word_new_line_1: upgrade
-bip_39_word_new_line_10: 'upgrade
-
-  doctor
-
-  custom
-
-  error
-
-  frost
-
-  angry
-
-  diamond
-
-  flee
-
-  execute
-
-  sphere'
-bip_39_word_new_line_11: 'upgrade
-
-  doctor
-
-  custom
-
-  error
-
-  frost
-
-  angry
-
-  diamond
-
-  flee
-
-  execute
-
-  sphere
-
-  upon'
 bip_39_word_new_line_12: 'upgrade
 
   doctor
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'upgrade
   doctor
 
   custom'
-bip_39_word_new_line_4: 'upgrade
-
-  doctor
-
-  custom
-
-  error'
-bip_39_word_new_line_5: 'upgrade
-
-  doctor
-
-  custom
-
-  error
-
-  frost'
-bip_39_word_new_line_6: 'upgrade
-
-  doctor
-
-  custom
-
-  error
-
-  frost
-
-  angry'
-bip_39_word_new_line_7: 'upgrade
-
-  doctor
-
-  custom
-
-  error
-
-  frost
-
-  angry
-
-  diamond'
-bip_39_word_new_line_8: 'upgrade
-
-  doctor
-
-  custom
-
-  error
-
-  frost
-
-  angry
-
-  diamond
-
-  flee'
-bip_39_word_new_line_9: 'upgrade
-
-  doctor
-
-  custom
-
-  error
-
-  frost
-
-  angry
-
-  diamond
-
-  flee
-
-  execute'
-bip_39_word_no_space_1: upgrade
-bip_39_word_no_space_10: upgradedoctorcustomerrorfrostangrydiamondfleeexecutesphere
-bip_39_word_no_space_11: upgradedoctorcustomerrorfrostangrydiamondfleeexecutesphereupon
 bip_39_word_no_space_12: upgradedoctorcustomerrorfrostangrydiamondfleeexecutesphereuponabove
 bip_39_word_no_space_2: upgradedoctor
 bip_39_word_no_space_3: upgradedoctorcustom
-bip_39_word_no_space_4: upgradedoctorcustomerror
-bip_39_word_no_space_5: upgradedoctorcustomerrorfrost
-bip_39_word_no_space_6: upgradedoctorcustomerrorfrostangry
-bip_39_word_no_space_7: upgradedoctorcustomerrorfrostangrydiamond
-bip_39_word_no_space_8: upgradedoctorcustomerrorfrostangrydiamondflee
-bip_39_word_no_space_9: upgradedoctorcustomerrorfrostangrydiamondfleeexecute
-bip_39_word_space_0:
-- upgrade
-- doctor
-- custom
-- error
-- frost
-- angry
-- diamond
-- flee
-- execute
-- sphere
-- upon
-- above
-bip_39_word_space_1: upgrade
-bip_39_word_space_10: upgrade doctor custom error frost angry diamond flee execute
-  sphere
-bip_39_word_space_11: upgrade doctor custom error frost angry diamond flee execute
-  sphere upon
 bip_39_word_space_12: upgrade doctor custom error frost angry diamond flee execute
   sphere upon above
 bip_39_word_space_2: upgrade doctor
 bip_39_word_space_3: upgrade doctor custom
-bip_39_word_space_4: upgrade doctor custom error
-bip_39_word_space_5: upgrade doctor custom error frost
-bip_39_word_space_6: upgrade doctor custom error frost angry
-bip_39_word_space_7: upgrade doctor custom error frost angry diamond
-bip_39_word_space_8: upgrade doctor custom error frost angry diamond flee
-bip_39_word_space_9: upgrade doctor custom error frost angry diamond flee execute
-bip_39_word_underscore_1: upgrade
-bip_39_word_underscore_10: upgrade_doctor_custom_error_frost_angry_diamond_flee_execute_sphere
-bip_39_word_underscore_11: upgrade_doctor_custom_error_frost_angry_diamond_flee_execute_sphere_upon
 bip_39_word_underscore_12: upgrade_doctor_custom_error_frost_angry_diamond_flee_execute_sphere_upon_above
 bip_39_word_underscore_2: upgrade_doctor
 bip_39_word_underscore_3: upgrade_doctor_custom
-bip_39_word_underscore_4: upgrade_doctor_custom_error
-bip_39_word_underscore_5: upgrade_doctor_custom_error_frost
-bip_39_word_underscore_6: upgrade_doctor_custom_error_frost_angry
-bip_39_word_underscore_7: upgrade_doctor_custom_error_frost_angry_diamond
-bip_39_word_underscore_8: upgrade_doctor_custom_error_frost_angry_diamond_flee
-bip_39_word_underscore_9: upgrade_doctor_custom_error_frost_angry_diamond_flee_execute
 classification: category
 classification_capital: Category
 classification_first_letter: c

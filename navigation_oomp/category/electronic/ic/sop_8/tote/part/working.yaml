@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hold
-bip_39_word_dash_10: hold-zebra-aunt-bright-arrest-twist-snap-gold-height-rude
-bip_39_word_dash_11: hold-zebra-aunt-bright-arrest-twist-snap-gold-height-rude-code
 bip_39_word_dash_12: hold-zebra-aunt-bright-arrest-twist-snap-gold-height-rude-code-assault
 bip_39_word_dash_2: hold-zebra
 bip_39_word_dash_3: hold-zebra-aunt
-bip_39_word_dash_4: hold-zebra-aunt-bright
-bip_39_word_dash_5: hold-zebra-aunt-bright-arrest
-bip_39_word_dash_6: hold-zebra-aunt-bright-arrest-twist
-bip_39_word_dash_7: hold-zebra-aunt-bright-arrest-twist-snap
-bip_39_word_dash_8: hold-zebra-aunt-bright-arrest-twist-snap-gold
-bip_39_word_dash_9: hold-zebra-aunt-bright-arrest-twist-snap-gold-height
-bip_39_word_new_br_1: hold
-bip_39_word_new_br_10: hold<br>zebra<br>aunt<br>bright<br>arrest<br>twist<br>snap<br>gold<br>height<br>rude
-bip_39_word_new_br_11: hold<br>zebra<br>aunt<br>bright<br>arrest<br>twist<br>snap<br>gold<br>height<br>rude<br>code
 bip_39_word_new_br_12: hold<br>zebra<br>aunt<br>bright<br>arrest<br>twist<br>snap<br>gold<br>height<br>rude<br>code<br>assault
 bip_39_word_new_br_2: hold<br>zebra
 bip_39_word_new_br_3: hold<br>zebra<br>aunt
-bip_39_word_new_br_4: hold<br>zebra<br>aunt<br>bright
-bip_39_word_new_br_5: hold<br>zebra<br>aunt<br>bright<br>arrest
-bip_39_word_new_br_6: hold<br>zebra<br>aunt<br>bright<br>arrest<br>twist
-bip_39_word_new_br_7: hold<br>zebra<br>aunt<br>bright<br>arrest<br>twist<br>snap
-bip_39_word_new_br_8: hold<br>zebra<br>aunt<br>bright<br>arrest<br>twist<br>snap<br>gold
-bip_39_word_new_br_9: hold<br>zebra<br>aunt<br>bright<br>arrest<br>twist<br>snap<br>gold<br>height
-bip_39_word_new_line_1: hold
-bip_39_word_new_line_10: 'hold
-
-  zebra
-
-  aunt
-
-  bright
-
-  arrest
-
-  twist
-
-  snap
-
-  gold
-
-  height
-
-  rude'
-bip_39_word_new_line_11: 'hold
-
-  zebra
-
-  aunt
-
-  bright
-
-  arrest
-
-  twist
-
-  snap
-
-  gold
-
-  height
-
-  rude
-
-  code'
 bip_39_word_new_line_12: 'hold
 
   zebra
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'hold
   zebra
 
   aunt'
-bip_39_word_new_line_4: 'hold
-
-  zebra
-
-  aunt
-
-  bright'
-bip_39_word_new_line_5: 'hold
-
-  zebra
-
-  aunt
-
-  bright
-
-  arrest'
-bip_39_word_new_line_6: 'hold
-
-  zebra
-
-  aunt
-
-  bright
-
-  arrest
-
-  twist'
-bip_39_word_new_line_7: 'hold
-
-  zebra
-
-  aunt
-
-  bright
-
-  arrest
-
-  twist
-
-  snap'
-bip_39_word_new_line_8: 'hold
-
-  zebra
-
-  aunt
-
-  bright
-
-  arrest
-
-  twist
-
-  snap
-
-  gold'
-bip_39_word_new_line_9: 'hold
-
-  zebra
-
-  aunt
-
-  bright
-
-  arrest
-
-  twist
-
-  snap
-
-  gold
-
-  height'
-bip_39_word_no_space_1: hold
-bip_39_word_no_space_10: holdzebraauntbrightarresttwistsnapgoldheightrude
-bip_39_word_no_space_11: holdzebraauntbrightarresttwistsnapgoldheightrudecode
 bip_39_word_no_space_12: holdzebraauntbrightarresttwistsnapgoldheightrudecodeassault
 bip_39_word_no_space_2: holdzebra
 bip_39_word_no_space_3: holdzebraaunt
-bip_39_word_no_space_4: holdzebraauntbright
-bip_39_word_no_space_5: holdzebraauntbrightarrest
-bip_39_word_no_space_6: holdzebraauntbrightarresttwist
-bip_39_word_no_space_7: holdzebraauntbrightarresttwistsnap
-bip_39_word_no_space_8: holdzebraauntbrightarresttwistsnapgold
-bip_39_word_no_space_9: holdzebraauntbrightarresttwistsnapgoldheight
-bip_39_word_space_0:
-- hold
-- zebra
-- aunt
-- bright
-- arrest
-- twist
-- snap
-- gold
-- height
-- rude
-- code
-- assault
-bip_39_word_space_1: hold
-bip_39_word_space_10: hold zebra aunt bright arrest twist snap gold height rude
-bip_39_word_space_11: hold zebra aunt bright arrest twist snap gold height rude code
 bip_39_word_space_12: hold zebra aunt bright arrest twist snap gold height rude code
   assault
 bip_39_word_space_2: hold zebra
 bip_39_word_space_3: hold zebra aunt
-bip_39_word_space_4: hold zebra aunt bright
-bip_39_word_space_5: hold zebra aunt bright arrest
-bip_39_word_space_6: hold zebra aunt bright arrest twist
-bip_39_word_space_7: hold zebra aunt bright arrest twist snap
-bip_39_word_space_8: hold zebra aunt bright arrest twist snap gold
-bip_39_word_space_9: hold zebra aunt bright arrest twist snap gold height
-bip_39_word_underscore_1: hold
-bip_39_word_underscore_10: hold_zebra_aunt_bright_arrest_twist_snap_gold_height_rude
-bip_39_word_underscore_11: hold_zebra_aunt_bright_arrest_twist_snap_gold_height_rude_code
 bip_39_word_underscore_12: hold_zebra_aunt_bright_arrest_twist_snap_gold_height_rude_code_assault
 bip_39_word_underscore_2: hold_zebra
 bip_39_word_underscore_3: hold_zebra_aunt
-bip_39_word_underscore_4: hold_zebra_aunt_bright
-bip_39_word_underscore_5: hold_zebra_aunt_bright_arrest
-bip_39_word_underscore_6: hold_zebra_aunt_bright_arrest_twist
-bip_39_word_underscore_7: hold_zebra_aunt_bright_arrest_twist_snap
-bip_39_word_underscore_8: hold_zebra_aunt_bright_arrest_twist_snap_gold
-bip_39_word_underscore_9: hold_zebra_aunt_bright_arrest_twist_snap_gold_height
 classification: category
 classification_capital: Category
 classification_first_letter: c

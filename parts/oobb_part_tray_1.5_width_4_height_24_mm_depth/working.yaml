@@ -1,68 +1,9 @@
-bip_39_word_dash_1: aisle
-bip_39_word_dash_10: aisle-peanut-announce-enjoy-rug-nation-search-inquiry-farm-truck
-bip_39_word_dash_11: aisle-peanut-announce-enjoy-rug-nation-search-inquiry-farm-truck-disorder
 bip_39_word_dash_12: aisle-peanut-announce-enjoy-rug-nation-search-inquiry-farm-truck-disorder-artefact
 bip_39_word_dash_2: aisle-peanut
 bip_39_word_dash_3: aisle-peanut-announce
-bip_39_word_dash_4: aisle-peanut-announce-enjoy
-bip_39_word_dash_5: aisle-peanut-announce-enjoy-rug
-bip_39_word_dash_6: aisle-peanut-announce-enjoy-rug-nation
-bip_39_word_dash_7: aisle-peanut-announce-enjoy-rug-nation-search
-bip_39_word_dash_8: aisle-peanut-announce-enjoy-rug-nation-search-inquiry
-bip_39_word_dash_9: aisle-peanut-announce-enjoy-rug-nation-search-inquiry-farm
-bip_39_word_new_br_1: aisle
-bip_39_word_new_br_10: aisle<br>peanut<br>announce<br>enjoy<br>rug<br>nation<br>search<br>inquiry<br>farm<br>truck
-bip_39_word_new_br_11: aisle<br>peanut<br>announce<br>enjoy<br>rug<br>nation<br>search<br>inquiry<br>farm<br>truck<br>disorder
 bip_39_word_new_br_12: aisle<br>peanut<br>announce<br>enjoy<br>rug<br>nation<br>search<br>inquiry<br>farm<br>truck<br>disorder<br>artefact
 bip_39_word_new_br_2: aisle<br>peanut
 bip_39_word_new_br_3: aisle<br>peanut<br>announce
-bip_39_word_new_br_4: aisle<br>peanut<br>announce<br>enjoy
-bip_39_word_new_br_5: aisle<br>peanut<br>announce<br>enjoy<br>rug
-bip_39_word_new_br_6: aisle<br>peanut<br>announce<br>enjoy<br>rug<br>nation
-bip_39_word_new_br_7: aisle<br>peanut<br>announce<br>enjoy<br>rug<br>nation<br>search
-bip_39_word_new_br_8: aisle<br>peanut<br>announce<br>enjoy<br>rug<br>nation<br>search<br>inquiry
-bip_39_word_new_br_9: aisle<br>peanut<br>announce<br>enjoy<br>rug<br>nation<br>search<br>inquiry<br>farm
-bip_39_word_new_line_1: aisle
-bip_39_word_new_line_10: 'aisle
-
-  peanut
-
-  announce
-
-  enjoy
-
-  rug
-
-  nation
-
-  search
-
-  inquiry
-
-  farm
-
-  truck'
-bip_39_word_new_line_11: 'aisle
-
-  peanut
-
-  announce
-
-  enjoy
-
-  rug
-
-  nation
-
-  search
-
-  inquiry
-
-  farm
-
-  truck
-
-  disorder'
 bip_39_word_new_line_12: 'aisle
 
   peanut
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'aisle
   peanut
 
   announce'
-bip_39_word_new_line_4: 'aisle
-
-  peanut
-
-  announce
-
-  enjoy'
-bip_39_word_new_line_5: 'aisle
-
-  peanut
-
-  announce
-
-  enjoy
-
-  rug'
-bip_39_word_new_line_6: 'aisle
-
-  peanut
-
-  announce
-
-  enjoy
-
-  rug
-
-  nation'
-bip_39_word_new_line_7: 'aisle
-
-  peanut
-
-  announce
-
-  enjoy
-
-  rug
-
-  nation
-
-  search'
-bip_39_word_new_line_8: 'aisle
-
-  peanut
-
-  announce
-
-  enjoy
-
-  rug
-
-  nation
-
-  search
-
-  inquiry'
-bip_39_word_new_line_9: 'aisle
-
-  peanut
-
-  announce
-
-  enjoy
-
-  rug
-
-  nation
-
-  search
-
-  inquiry
-
-  farm'
-bip_39_word_no_space_1: aisle
-bip_39_word_no_space_10: aislepeanutannounceenjoyrugnationsearchinquiryfarmtruck
-bip_39_word_no_space_11: aislepeanutannounceenjoyrugnationsearchinquiryfarmtruckdisorder
 bip_39_word_no_space_12: aislepeanutannounceenjoyrugnationsearchinquiryfarmtruckdisorderartefact
 bip_39_word_no_space_2: aislepeanut
 bip_39_word_no_space_3: aislepeanutannounce
-bip_39_word_no_space_4: aislepeanutannounceenjoy
-bip_39_word_no_space_5: aislepeanutannounceenjoyrug
-bip_39_word_no_space_6: aislepeanutannounceenjoyrugnation
-bip_39_word_no_space_7: aislepeanutannounceenjoyrugnationsearch
-bip_39_word_no_space_8: aislepeanutannounceenjoyrugnationsearchinquiry
-bip_39_word_no_space_9: aislepeanutannounceenjoyrugnationsearchinquiryfarm
-bip_39_word_space_0:
-- aisle
-- peanut
-- announce
-- enjoy
-- rug
-- nation
-- search
-- inquiry
-- farm
-- truck
-- disorder
-- artefact
-bip_39_word_space_1: aisle
-bip_39_word_space_10: aisle peanut announce enjoy rug nation search inquiry farm truck
-bip_39_word_space_11: aisle peanut announce enjoy rug nation search inquiry farm truck
-  disorder
 bip_39_word_space_12: aisle peanut announce enjoy rug nation search inquiry farm truck
   disorder artefact
 bip_39_word_space_2: aisle peanut
 bip_39_word_space_3: aisle peanut announce
-bip_39_word_space_4: aisle peanut announce enjoy
-bip_39_word_space_5: aisle peanut announce enjoy rug
-bip_39_word_space_6: aisle peanut announce enjoy rug nation
-bip_39_word_space_7: aisle peanut announce enjoy rug nation search
-bip_39_word_space_8: aisle peanut announce enjoy rug nation search inquiry
-bip_39_word_space_9: aisle peanut announce enjoy rug nation search inquiry farm
-bip_39_word_underscore_1: aisle
-bip_39_word_underscore_10: aisle_peanut_announce_enjoy_rug_nation_search_inquiry_farm_truck
-bip_39_word_underscore_11: aisle_peanut_announce_enjoy_rug_nation_search_inquiry_farm_truck_disorder
 bip_39_word_underscore_12: aisle_peanut_announce_enjoy_rug_nation_search_inquiry_farm_truck_disorder_artefact
 bip_39_word_underscore_2: aisle_peanut
 bip_39_word_underscore_3: aisle_peanut_announce
-bip_39_word_underscore_4: aisle_peanut_announce_enjoy
-bip_39_word_underscore_5: aisle_peanut_announce_enjoy_rug
-bip_39_word_underscore_6: aisle_peanut_announce_enjoy_rug_nation
-bip_39_word_underscore_7: aisle_peanut_announce_enjoy_rug_nation_search
-bip_39_word_underscore_8: aisle_peanut_announce_enjoy_rug_nation_search_inquiry
-bip_39_word_underscore_9: aisle_peanut_announce_enjoy_rug_nation_search_inquiry_farm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: focus
-bip_39_word_dash_10: focus-very-young-never-honey-mask-merit-fury-cluster-sadness
-bip_39_word_dash_11: focus-very-young-never-honey-mask-merit-fury-cluster-sadness-board
 bip_39_word_dash_12: focus-very-young-never-honey-mask-merit-fury-cluster-sadness-board-all
 bip_39_word_dash_2: focus-very
 bip_39_word_dash_3: focus-very-young
-bip_39_word_dash_4: focus-very-young-never
-bip_39_word_dash_5: focus-very-young-never-honey
-bip_39_word_dash_6: focus-very-young-never-honey-mask
-bip_39_word_dash_7: focus-very-young-never-honey-mask-merit
-bip_39_word_dash_8: focus-very-young-never-honey-mask-merit-fury
-bip_39_word_dash_9: focus-very-young-never-honey-mask-merit-fury-cluster
-bip_39_word_new_br_1: focus
-bip_39_word_new_br_10: focus<br>very<br>young<br>never<br>honey<br>mask<br>merit<br>fury<br>cluster<br>sadness
-bip_39_word_new_br_11: focus<br>very<br>young<br>never<br>honey<br>mask<br>merit<br>fury<br>cluster<br>sadness<br>board
 bip_39_word_new_br_12: focus<br>very<br>young<br>never<br>honey<br>mask<br>merit<br>fury<br>cluster<br>sadness<br>board<br>all
 bip_39_word_new_br_2: focus<br>very
 bip_39_word_new_br_3: focus<br>very<br>young
-bip_39_word_new_br_4: focus<br>very<br>young<br>never
-bip_39_word_new_br_5: focus<br>very<br>young<br>never<br>honey
-bip_39_word_new_br_6: focus<br>very<br>young<br>never<br>honey<br>mask
-bip_39_word_new_br_7: focus<br>very<br>young<br>never<br>honey<br>mask<br>merit
-bip_39_word_new_br_8: focus<br>very<br>young<br>never<br>honey<br>mask<br>merit<br>fury
-bip_39_word_new_br_9: focus<br>very<br>young<br>never<br>honey<br>mask<br>merit<br>fury<br>cluster
-bip_39_word_new_line_1: focus
-bip_39_word_new_line_10: 'focus
-
-  very
-
-  young
-
-  never
-
-  honey
-
-  mask
-
-  merit
-
-  fury
-
-  cluster
-
-  sadness'
-bip_39_word_new_line_11: 'focus
-
-  very
-
-  young
-
-  never
-
-  honey
-
-  mask
-
-  merit
-
-  fury
-
-  cluster
-
-  sadness
-
-  board'
 bip_39_word_new_line_12: 'focus
 
   very
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'focus
   very
 
   young'
-bip_39_word_new_line_4: 'focus
-
-  very
-
-  young
-
-  never'
-bip_39_word_new_line_5: 'focus
-
-  very
-
-  young
-
-  never
-
-  honey'
-bip_39_word_new_line_6: 'focus
-
-  very
-
-  young
-
-  never
-
-  honey
-
-  mask'
-bip_39_word_new_line_7: 'focus
-
-  very
-
-  young
-
-  never
-
-  honey
-
-  mask
-
-  merit'
-bip_39_word_new_line_8: 'focus
-
-  very
-
-  young
-
-  never
-
-  honey
-
-  mask
-
-  merit
-
-  fury'
-bip_39_word_new_line_9: 'focus
-
-  very
-
-  young
-
-  never
-
-  honey
-
-  mask
-
-  merit
-
-  fury
-
-  cluster'
-bip_39_word_no_space_1: focus
-bip_39_word_no_space_10: focusveryyoungneverhoneymaskmeritfuryclustersadness
-bip_39_word_no_space_11: focusveryyoungneverhoneymaskmeritfuryclustersadnessboard
 bip_39_word_no_space_12: focusveryyoungneverhoneymaskmeritfuryclustersadnessboardall
 bip_39_word_no_space_2: focusvery
 bip_39_word_no_space_3: focusveryyoung
-bip_39_word_no_space_4: focusveryyoungnever
-bip_39_word_no_space_5: focusveryyoungneverhoney
-bip_39_word_no_space_6: focusveryyoungneverhoneymask
-bip_39_word_no_space_7: focusveryyoungneverhoneymaskmerit
-bip_39_word_no_space_8: focusveryyoungneverhoneymaskmeritfury
-bip_39_word_no_space_9: focusveryyoungneverhoneymaskmeritfurycluster
-bip_39_word_space_0:
-- focus
-- very
-- young
-- never
-- honey
-- mask
-- merit
-- fury
-- cluster
-- sadness
-- board
-- all
-bip_39_word_space_1: focus
-bip_39_word_space_10: focus very young never honey mask merit fury cluster sadness
-bip_39_word_space_11: focus very young never honey mask merit fury cluster sadness
-  board
 bip_39_word_space_12: focus very young never honey mask merit fury cluster sadness
   board all
 bip_39_word_space_2: focus very
 bip_39_word_space_3: focus very young
-bip_39_word_space_4: focus very young never
-bip_39_word_space_5: focus very young never honey
-bip_39_word_space_6: focus very young never honey mask
-bip_39_word_space_7: focus very young never honey mask merit
-bip_39_word_space_8: focus very young never honey mask merit fury
-bip_39_word_space_9: focus very young never honey mask merit fury cluster
-bip_39_word_underscore_1: focus
-bip_39_word_underscore_10: focus_very_young_never_honey_mask_merit_fury_cluster_sadness
-bip_39_word_underscore_11: focus_very_young_never_honey_mask_merit_fury_cluster_sadness_board
 bip_39_word_underscore_12: focus_very_young_never_honey_mask_merit_fury_cluster_sadness_board_all
 bip_39_word_underscore_2: focus_very
 bip_39_word_underscore_3: focus_very_young
-bip_39_word_underscore_4: focus_very_young_never
-bip_39_word_underscore_5: focus_very_young_never_honey
-bip_39_word_underscore_6: focus_very_young_never_honey_mask
-bip_39_word_underscore_7: focus_very_young_never_honey_mask_merit
-bip_39_word_underscore_8: focus_very_young_never_honey_mask_merit_fury
-bip_39_word_underscore_9: focus_very_young_never_honey_mask_merit_fury_cluster
 classification: category
 classification_capital: Category
 classification_first_letter: c

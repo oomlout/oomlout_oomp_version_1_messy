@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chunk
-bip_39_word_dash_10: chunk-session-sound-capital-drop-arctic-faint-small-defy-snake
-bip_39_word_dash_11: chunk-session-sound-capital-drop-arctic-faint-small-defy-snake-trend
 bip_39_word_dash_12: chunk-session-sound-capital-drop-arctic-faint-small-defy-snake-trend-alert
 bip_39_word_dash_2: chunk-session
 bip_39_word_dash_3: chunk-session-sound
-bip_39_word_dash_4: chunk-session-sound-capital
-bip_39_word_dash_5: chunk-session-sound-capital-drop
-bip_39_word_dash_6: chunk-session-sound-capital-drop-arctic
-bip_39_word_dash_7: chunk-session-sound-capital-drop-arctic-faint
-bip_39_word_dash_8: chunk-session-sound-capital-drop-arctic-faint-small
-bip_39_word_dash_9: chunk-session-sound-capital-drop-arctic-faint-small-defy
-bip_39_word_new_br_1: chunk
-bip_39_word_new_br_10: chunk<br>session<br>sound<br>capital<br>drop<br>arctic<br>faint<br>small<br>defy<br>snake
-bip_39_word_new_br_11: chunk<br>session<br>sound<br>capital<br>drop<br>arctic<br>faint<br>small<br>defy<br>snake<br>trend
 bip_39_word_new_br_12: chunk<br>session<br>sound<br>capital<br>drop<br>arctic<br>faint<br>small<br>defy<br>snake<br>trend<br>alert
 bip_39_word_new_br_2: chunk<br>session
 bip_39_word_new_br_3: chunk<br>session<br>sound
-bip_39_word_new_br_4: chunk<br>session<br>sound<br>capital
-bip_39_word_new_br_5: chunk<br>session<br>sound<br>capital<br>drop
-bip_39_word_new_br_6: chunk<br>session<br>sound<br>capital<br>drop<br>arctic
-bip_39_word_new_br_7: chunk<br>session<br>sound<br>capital<br>drop<br>arctic<br>faint
-bip_39_word_new_br_8: chunk<br>session<br>sound<br>capital<br>drop<br>arctic<br>faint<br>small
-bip_39_word_new_br_9: chunk<br>session<br>sound<br>capital<br>drop<br>arctic<br>faint<br>small<br>defy
-bip_39_word_new_line_1: chunk
-bip_39_word_new_line_10: 'chunk
-
-  session
-
-  sound
-
-  capital
-
-  drop
-
-  arctic
-
-  faint
-
-  small
-
-  defy
-
-  snake'
-bip_39_word_new_line_11: 'chunk
-
-  session
-
-  sound
-
-  capital
-
-  drop
-
-  arctic
-
-  faint
-
-  small
-
-  defy
-
-  snake
-
-  trend'
 bip_39_word_new_line_12: 'chunk
 
   session
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chunk
   session
 
   sound'
-bip_39_word_new_line_4: 'chunk
-
-  session
-
-  sound
-
-  capital'
-bip_39_word_new_line_5: 'chunk
-
-  session
-
-  sound
-
-  capital
-
-  drop'
-bip_39_word_new_line_6: 'chunk
-
-  session
-
-  sound
-
-  capital
-
-  drop
-
-  arctic'
-bip_39_word_new_line_7: 'chunk
-
-  session
-
-  sound
-
-  capital
-
-  drop
-
-  arctic
-
-  faint'
-bip_39_word_new_line_8: 'chunk
-
-  session
-
-  sound
-
-  capital
-
-  drop
-
-  arctic
-
-  faint
-
-  small'
-bip_39_word_new_line_9: 'chunk
-
-  session
-
-  sound
-
-  capital
-
-  drop
-
-  arctic
-
-  faint
-
-  small
-
-  defy'
-bip_39_word_no_space_1: chunk
-bip_39_word_no_space_10: chunksessionsoundcapitaldroparcticfaintsmalldefysnake
-bip_39_word_no_space_11: chunksessionsoundcapitaldroparcticfaintsmalldefysnaketrend
 bip_39_word_no_space_12: chunksessionsoundcapitaldroparcticfaintsmalldefysnaketrendalert
 bip_39_word_no_space_2: chunksession
 bip_39_word_no_space_3: chunksessionsound
-bip_39_word_no_space_4: chunksessionsoundcapital
-bip_39_word_no_space_5: chunksessionsoundcapitaldrop
-bip_39_word_no_space_6: chunksessionsoundcapitaldroparctic
-bip_39_word_no_space_7: chunksessionsoundcapitaldroparcticfaint
-bip_39_word_no_space_8: chunksessionsoundcapitaldroparcticfaintsmall
-bip_39_word_no_space_9: chunksessionsoundcapitaldroparcticfaintsmalldefy
-bip_39_word_space_0:
-- chunk
-- session
-- sound
-- capital
-- drop
-- arctic
-- faint
-- small
-- defy
-- snake
-- trend
-- alert
-bip_39_word_space_1: chunk
-bip_39_word_space_10: chunk session sound capital drop arctic faint small defy snake
-bip_39_word_space_11: chunk session sound capital drop arctic faint small defy snake
-  trend
 bip_39_word_space_12: chunk session sound capital drop arctic faint small defy snake
   trend alert
 bip_39_word_space_2: chunk session
 bip_39_word_space_3: chunk session sound
-bip_39_word_space_4: chunk session sound capital
-bip_39_word_space_5: chunk session sound capital drop
-bip_39_word_space_6: chunk session sound capital drop arctic
-bip_39_word_space_7: chunk session sound capital drop arctic faint
-bip_39_word_space_8: chunk session sound capital drop arctic faint small
-bip_39_word_space_9: chunk session sound capital drop arctic faint small defy
-bip_39_word_underscore_1: chunk
-bip_39_word_underscore_10: chunk_session_sound_capital_drop_arctic_faint_small_defy_snake
-bip_39_word_underscore_11: chunk_session_sound_capital_drop_arctic_faint_small_defy_snake_trend
 bip_39_word_underscore_12: chunk_session_sound_capital_drop_arctic_faint_small_defy_snake_trend_alert
 bip_39_word_underscore_2: chunk_session
 bip_39_word_underscore_3: chunk_session_sound
-bip_39_word_underscore_4: chunk_session_sound_capital
-bip_39_word_underscore_5: chunk_session_sound_capital_drop
-bip_39_word_underscore_6: chunk_session_sound_capital_drop_arctic
-bip_39_word_underscore_7: chunk_session_sound_capital_drop_arctic_faint
-bip_39_word_underscore_8: chunk_session_sound_capital_drop_arctic_faint_small
-bip_39_word_underscore_9: chunk_session_sound_capital_drop_arctic_faint_small_defy
 classification: project
 classification_capital: Project
 classification_first_letter: p

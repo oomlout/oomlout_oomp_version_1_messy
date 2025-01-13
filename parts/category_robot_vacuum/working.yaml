@@ -1,68 +1,9 @@
-bip_39_word_dash_1: expand
-bip_39_word_dash_10: expand-antenna-item-junk-office-brick-woman-fence-wage-neck
-bip_39_word_dash_11: expand-antenna-item-junk-office-brick-woman-fence-wage-neck-allow
 bip_39_word_dash_12: expand-antenna-item-junk-office-brick-woman-fence-wage-neck-allow-anchor
 bip_39_word_dash_2: expand-antenna
 bip_39_word_dash_3: expand-antenna-item
-bip_39_word_dash_4: expand-antenna-item-junk
-bip_39_word_dash_5: expand-antenna-item-junk-office
-bip_39_word_dash_6: expand-antenna-item-junk-office-brick
-bip_39_word_dash_7: expand-antenna-item-junk-office-brick-woman
-bip_39_word_dash_8: expand-antenna-item-junk-office-brick-woman-fence
-bip_39_word_dash_9: expand-antenna-item-junk-office-brick-woman-fence-wage
-bip_39_word_new_br_1: expand
-bip_39_word_new_br_10: expand<br>antenna<br>item<br>junk<br>office<br>brick<br>woman<br>fence<br>wage<br>neck
-bip_39_word_new_br_11: expand<br>antenna<br>item<br>junk<br>office<br>brick<br>woman<br>fence<br>wage<br>neck<br>allow
 bip_39_word_new_br_12: expand<br>antenna<br>item<br>junk<br>office<br>brick<br>woman<br>fence<br>wage<br>neck<br>allow<br>anchor
 bip_39_word_new_br_2: expand<br>antenna
 bip_39_word_new_br_3: expand<br>antenna<br>item
-bip_39_word_new_br_4: expand<br>antenna<br>item<br>junk
-bip_39_word_new_br_5: expand<br>antenna<br>item<br>junk<br>office
-bip_39_word_new_br_6: expand<br>antenna<br>item<br>junk<br>office<br>brick
-bip_39_word_new_br_7: expand<br>antenna<br>item<br>junk<br>office<br>brick<br>woman
-bip_39_word_new_br_8: expand<br>antenna<br>item<br>junk<br>office<br>brick<br>woman<br>fence
-bip_39_word_new_br_9: expand<br>antenna<br>item<br>junk<br>office<br>brick<br>woman<br>fence<br>wage
-bip_39_word_new_line_1: expand
-bip_39_word_new_line_10: 'expand
-
-  antenna
-
-  item
-
-  junk
-
-  office
-
-  brick
-
-  woman
-
-  fence
-
-  wage
-
-  neck'
-bip_39_word_new_line_11: 'expand
-
-  antenna
-
-  item
-
-  junk
-
-  office
-
-  brick
-
-  woman
-
-  fence
-
-  wage
-
-  neck
-
-  allow'
 bip_39_word_new_line_12: 'expand
 
   antenna
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'expand
   antenna
 
   item'
-bip_39_word_new_line_4: 'expand
-
-  antenna
-
-  item
-
-  junk'
-bip_39_word_new_line_5: 'expand
-
-  antenna
-
-  item
-
-  junk
-
-  office'
-bip_39_word_new_line_6: 'expand
-
-  antenna
-
-  item
-
-  junk
-
-  office
-
-  brick'
-bip_39_word_new_line_7: 'expand
-
-  antenna
-
-  item
-
-  junk
-
-  office
-
-  brick
-
-  woman'
-bip_39_word_new_line_8: 'expand
-
-  antenna
-
-  item
-
-  junk
-
-  office
-
-  brick
-
-  woman
-
-  fence'
-bip_39_word_new_line_9: 'expand
-
-  antenna
-
-  item
-
-  junk
-
-  office
-
-  brick
-
-  woman
-
-  fence
-
-  wage'
-bip_39_word_no_space_1: expand
-bip_39_word_no_space_10: expandantennaitemjunkofficebrickwomanfencewageneck
-bip_39_word_no_space_11: expandantennaitemjunkofficebrickwomanfencewageneckallow
 bip_39_word_no_space_12: expandantennaitemjunkofficebrickwomanfencewageneckallowanchor
 bip_39_word_no_space_2: expandantenna
 bip_39_word_no_space_3: expandantennaitem
-bip_39_word_no_space_4: expandantennaitemjunk
-bip_39_word_no_space_5: expandantennaitemjunkoffice
-bip_39_word_no_space_6: expandantennaitemjunkofficebrick
-bip_39_word_no_space_7: expandantennaitemjunkofficebrickwoman
-bip_39_word_no_space_8: expandantennaitemjunkofficebrickwomanfence
-bip_39_word_no_space_9: expandantennaitemjunkofficebrickwomanfencewage
-bip_39_word_space_0:
-- expand
-- antenna
-- item
-- junk
-- office
-- brick
-- woman
-- fence
-- wage
-- neck
-- allow
-- anchor
-bip_39_word_space_1: expand
-bip_39_word_space_10: expand antenna item junk office brick woman fence wage neck
-bip_39_word_space_11: expand antenna item junk office brick woman fence wage neck
-  allow
 bip_39_word_space_12: expand antenna item junk office brick woman fence wage neck
   allow anchor
 bip_39_word_space_2: expand antenna
 bip_39_word_space_3: expand antenna item
-bip_39_word_space_4: expand antenna item junk
-bip_39_word_space_5: expand antenna item junk office
-bip_39_word_space_6: expand antenna item junk office brick
-bip_39_word_space_7: expand antenna item junk office brick woman
-bip_39_word_space_8: expand antenna item junk office brick woman fence
-bip_39_word_space_9: expand antenna item junk office brick woman fence wage
-bip_39_word_underscore_1: expand
-bip_39_word_underscore_10: expand_antenna_item_junk_office_brick_woman_fence_wage_neck
-bip_39_word_underscore_11: expand_antenna_item_junk_office_brick_woman_fence_wage_neck_allow
 bip_39_word_underscore_12: expand_antenna_item_junk_office_brick_woman_fence_wage_neck_allow_anchor
 bip_39_word_underscore_2: expand_antenna
 bip_39_word_underscore_3: expand_antenna_item
-bip_39_word_underscore_4: expand_antenna_item_junk
-bip_39_word_underscore_5: expand_antenna_item_junk_office
-bip_39_word_underscore_6: expand_antenna_item_junk_office_brick
-bip_39_word_underscore_7: expand_antenna_item_junk_office_brick_woman
-bip_39_word_underscore_8: expand_antenna_item_junk_office_brick_woman_fence
-bip_39_word_underscore_9: expand_antenna_item_junk_office_brick_woman_fence_wage
 classification: category
 classification_capital: Category
 classification_first_letter: c

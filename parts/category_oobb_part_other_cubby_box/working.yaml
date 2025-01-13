@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alarm
-bip_39_word_dash_10: alarm-ready-cat-decade-shock-scorpion-imitate-drastic-state-flash
-bip_39_word_dash_11: alarm-ready-cat-decade-shock-scorpion-imitate-drastic-state-flash-hole
 bip_39_word_dash_12: alarm-ready-cat-decade-shock-scorpion-imitate-drastic-state-flash-hole-argue
 bip_39_word_dash_2: alarm-ready
 bip_39_word_dash_3: alarm-ready-cat
-bip_39_word_dash_4: alarm-ready-cat-decade
-bip_39_word_dash_5: alarm-ready-cat-decade-shock
-bip_39_word_dash_6: alarm-ready-cat-decade-shock-scorpion
-bip_39_word_dash_7: alarm-ready-cat-decade-shock-scorpion-imitate
-bip_39_word_dash_8: alarm-ready-cat-decade-shock-scorpion-imitate-drastic
-bip_39_word_dash_9: alarm-ready-cat-decade-shock-scorpion-imitate-drastic-state
-bip_39_word_new_br_1: alarm
-bip_39_word_new_br_10: alarm<br>ready<br>cat<br>decade<br>shock<br>scorpion<br>imitate<br>drastic<br>state<br>flash
-bip_39_word_new_br_11: alarm<br>ready<br>cat<br>decade<br>shock<br>scorpion<br>imitate<br>drastic<br>state<br>flash<br>hole
 bip_39_word_new_br_12: alarm<br>ready<br>cat<br>decade<br>shock<br>scorpion<br>imitate<br>drastic<br>state<br>flash<br>hole<br>argue
 bip_39_word_new_br_2: alarm<br>ready
 bip_39_word_new_br_3: alarm<br>ready<br>cat
-bip_39_word_new_br_4: alarm<br>ready<br>cat<br>decade
-bip_39_word_new_br_5: alarm<br>ready<br>cat<br>decade<br>shock
-bip_39_word_new_br_6: alarm<br>ready<br>cat<br>decade<br>shock<br>scorpion
-bip_39_word_new_br_7: alarm<br>ready<br>cat<br>decade<br>shock<br>scorpion<br>imitate
-bip_39_word_new_br_8: alarm<br>ready<br>cat<br>decade<br>shock<br>scorpion<br>imitate<br>drastic
-bip_39_word_new_br_9: alarm<br>ready<br>cat<br>decade<br>shock<br>scorpion<br>imitate<br>drastic<br>state
-bip_39_word_new_line_1: alarm
-bip_39_word_new_line_10: 'alarm
-
-  ready
-
-  cat
-
-  decade
-
-  shock
-
-  scorpion
-
-  imitate
-
-  drastic
-
-  state
-
-  flash'
-bip_39_word_new_line_11: 'alarm
-
-  ready
-
-  cat
-
-  decade
-
-  shock
-
-  scorpion
-
-  imitate
-
-  drastic
-
-  state
-
-  flash
-
-  hole'
 bip_39_word_new_line_12: 'alarm
 
   ready
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'alarm
   ready
 
   cat'
-bip_39_word_new_line_4: 'alarm
-
-  ready
-
-  cat
-
-  decade'
-bip_39_word_new_line_5: 'alarm
-
-  ready
-
-  cat
-
-  decade
-
-  shock'
-bip_39_word_new_line_6: 'alarm
-
-  ready
-
-  cat
-
-  decade
-
-  shock
-
-  scorpion'
-bip_39_word_new_line_7: 'alarm
-
-  ready
-
-  cat
-
-  decade
-
-  shock
-
-  scorpion
-
-  imitate'
-bip_39_word_new_line_8: 'alarm
-
-  ready
-
-  cat
-
-  decade
-
-  shock
-
-  scorpion
-
-  imitate
-
-  drastic'
-bip_39_word_new_line_9: 'alarm
-
-  ready
-
-  cat
-
-  decade
-
-  shock
-
-  scorpion
-
-  imitate
-
-  drastic
-
-  state'
-bip_39_word_no_space_1: alarm
-bip_39_word_no_space_10: alarmreadycatdecadeshockscorpionimitatedrasticstateflash
-bip_39_word_no_space_11: alarmreadycatdecadeshockscorpionimitatedrasticstateflashhole
 bip_39_word_no_space_12: alarmreadycatdecadeshockscorpionimitatedrasticstateflashholeargue
 bip_39_word_no_space_2: alarmready
 bip_39_word_no_space_3: alarmreadycat
-bip_39_word_no_space_4: alarmreadycatdecade
-bip_39_word_no_space_5: alarmreadycatdecadeshock
-bip_39_word_no_space_6: alarmreadycatdecadeshockscorpion
-bip_39_word_no_space_7: alarmreadycatdecadeshockscorpionimitate
-bip_39_word_no_space_8: alarmreadycatdecadeshockscorpionimitatedrastic
-bip_39_word_no_space_9: alarmreadycatdecadeshockscorpionimitatedrasticstate
-bip_39_word_space_0:
-- alarm
-- ready
-- cat
-- decade
-- shock
-- scorpion
-- imitate
-- drastic
-- state
-- flash
-- hole
-- argue
-bip_39_word_space_1: alarm
-bip_39_word_space_10: alarm ready cat decade shock scorpion imitate drastic state
-  flash
-bip_39_word_space_11: alarm ready cat decade shock scorpion imitate drastic state
-  flash hole
 bip_39_word_space_12: alarm ready cat decade shock scorpion imitate drastic state
   flash hole argue
 bip_39_word_space_2: alarm ready
 bip_39_word_space_3: alarm ready cat
-bip_39_word_space_4: alarm ready cat decade
-bip_39_word_space_5: alarm ready cat decade shock
-bip_39_word_space_6: alarm ready cat decade shock scorpion
-bip_39_word_space_7: alarm ready cat decade shock scorpion imitate
-bip_39_word_space_8: alarm ready cat decade shock scorpion imitate drastic
-bip_39_word_space_9: alarm ready cat decade shock scorpion imitate drastic state
-bip_39_word_underscore_1: alarm
-bip_39_word_underscore_10: alarm_ready_cat_decade_shock_scorpion_imitate_drastic_state_flash
-bip_39_word_underscore_11: alarm_ready_cat_decade_shock_scorpion_imitate_drastic_state_flash_hole
 bip_39_word_underscore_12: alarm_ready_cat_decade_shock_scorpion_imitate_drastic_state_flash_hole_argue
 bip_39_word_underscore_2: alarm_ready
 bip_39_word_underscore_3: alarm_ready_cat
-bip_39_word_underscore_4: alarm_ready_cat_decade
-bip_39_word_underscore_5: alarm_ready_cat_decade_shock
-bip_39_word_underscore_6: alarm_ready_cat_decade_shock_scorpion
-bip_39_word_underscore_7: alarm_ready_cat_decade_shock_scorpion_imitate
-bip_39_word_underscore_8: alarm_ready_cat_decade_shock_scorpion_imitate_drastic
-bip_39_word_underscore_9: alarm_ready_cat_decade_shock_scorpion_imitate_drastic_state
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: total
-bip_39_word_dash_10: total-spatial-crouch-torch-day-genius-unit-vague-effort-wisdom
-bip_39_word_dash_11: total-spatial-crouch-torch-day-genius-unit-vague-effort-wisdom-evoke
 bip_39_word_dash_12: total-spatial-crouch-torch-day-genius-unit-vague-effort-wisdom-evoke-anger
 bip_39_word_dash_2: total-spatial
 bip_39_word_dash_3: total-spatial-crouch
-bip_39_word_dash_4: total-spatial-crouch-torch
-bip_39_word_dash_5: total-spatial-crouch-torch-day
-bip_39_word_dash_6: total-spatial-crouch-torch-day-genius
-bip_39_word_dash_7: total-spatial-crouch-torch-day-genius-unit
-bip_39_word_dash_8: total-spatial-crouch-torch-day-genius-unit-vague
-bip_39_word_dash_9: total-spatial-crouch-torch-day-genius-unit-vague-effort
-bip_39_word_new_br_1: total
-bip_39_word_new_br_10: total<br>spatial<br>crouch<br>torch<br>day<br>genius<br>unit<br>vague<br>effort<br>wisdom
-bip_39_word_new_br_11: total<br>spatial<br>crouch<br>torch<br>day<br>genius<br>unit<br>vague<br>effort<br>wisdom<br>evoke
 bip_39_word_new_br_12: total<br>spatial<br>crouch<br>torch<br>day<br>genius<br>unit<br>vague<br>effort<br>wisdom<br>evoke<br>anger
 bip_39_word_new_br_2: total<br>spatial
 bip_39_word_new_br_3: total<br>spatial<br>crouch
-bip_39_word_new_br_4: total<br>spatial<br>crouch<br>torch
-bip_39_word_new_br_5: total<br>spatial<br>crouch<br>torch<br>day
-bip_39_word_new_br_6: total<br>spatial<br>crouch<br>torch<br>day<br>genius
-bip_39_word_new_br_7: total<br>spatial<br>crouch<br>torch<br>day<br>genius<br>unit
-bip_39_word_new_br_8: total<br>spatial<br>crouch<br>torch<br>day<br>genius<br>unit<br>vague
-bip_39_word_new_br_9: total<br>spatial<br>crouch<br>torch<br>day<br>genius<br>unit<br>vague<br>effort
-bip_39_word_new_line_1: total
-bip_39_word_new_line_10: 'total
-
-  spatial
-
-  crouch
-
-  torch
-
-  day
-
-  genius
-
-  unit
-
-  vague
-
-  effort
-
-  wisdom'
-bip_39_word_new_line_11: 'total
-
-  spatial
-
-  crouch
-
-  torch
-
-  day
-
-  genius
-
-  unit
-
-  vague
-
-  effort
-
-  wisdom
-
-  evoke'
 bip_39_word_new_line_12: 'total
 
   spatial
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'total
   spatial
 
   crouch'
-bip_39_word_new_line_4: 'total
-
-  spatial
-
-  crouch
-
-  torch'
-bip_39_word_new_line_5: 'total
-
-  spatial
-
-  crouch
-
-  torch
-
-  day'
-bip_39_word_new_line_6: 'total
-
-  spatial
-
-  crouch
-
-  torch
-
-  day
-
-  genius'
-bip_39_word_new_line_7: 'total
-
-  spatial
-
-  crouch
-
-  torch
-
-  day
-
-  genius
-
-  unit'
-bip_39_word_new_line_8: 'total
-
-  spatial
-
-  crouch
-
-  torch
-
-  day
-
-  genius
-
-  unit
-
-  vague'
-bip_39_word_new_line_9: 'total
-
-  spatial
-
-  crouch
-
-  torch
-
-  day
-
-  genius
-
-  unit
-
-  vague
-
-  effort'
-bip_39_word_no_space_1: total
-bip_39_word_no_space_10: totalspatialcrouchtorchdaygeniusunitvagueeffortwisdom
-bip_39_word_no_space_11: totalspatialcrouchtorchdaygeniusunitvagueeffortwisdomevoke
 bip_39_word_no_space_12: totalspatialcrouchtorchdaygeniusunitvagueeffortwisdomevokeanger
 bip_39_word_no_space_2: totalspatial
 bip_39_word_no_space_3: totalspatialcrouch
-bip_39_word_no_space_4: totalspatialcrouchtorch
-bip_39_word_no_space_5: totalspatialcrouchtorchday
-bip_39_word_no_space_6: totalspatialcrouchtorchdaygenius
-bip_39_word_no_space_7: totalspatialcrouchtorchdaygeniusunit
-bip_39_word_no_space_8: totalspatialcrouchtorchdaygeniusunitvague
-bip_39_word_no_space_9: totalspatialcrouchtorchdaygeniusunitvagueeffort
-bip_39_word_space_0:
-- total
-- spatial
-- crouch
-- torch
-- day
-- genius
-- unit
-- vague
-- effort
-- wisdom
-- evoke
-- anger
-bip_39_word_space_1: total
-bip_39_word_space_10: total spatial crouch torch day genius unit vague effort wisdom
-bip_39_word_space_11: total spatial crouch torch day genius unit vague effort wisdom
-  evoke
 bip_39_word_space_12: total spatial crouch torch day genius unit vague effort wisdom
   evoke anger
 bip_39_word_space_2: total spatial
 bip_39_word_space_3: total spatial crouch
-bip_39_word_space_4: total spatial crouch torch
-bip_39_word_space_5: total spatial crouch torch day
-bip_39_word_space_6: total spatial crouch torch day genius
-bip_39_word_space_7: total spatial crouch torch day genius unit
-bip_39_word_space_8: total spatial crouch torch day genius unit vague
-bip_39_word_space_9: total spatial crouch torch day genius unit vague effort
-bip_39_word_underscore_1: total
-bip_39_word_underscore_10: total_spatial_crouch_torch_day_genius_unit_vague_effort_wisdom
-bip_39_word_underscore_11: total_spatial_crouch_torch_day_genius_unit_vague_effort_wisdom_evoke
 bip_39_word_underscore_12: total_spatial_crouch_torch_day_genius_unit_vague_effort_wisdom_evoke_anger
 bip_39_word_underscore_2: total_spatial
 bip_39_word_underscore_3: total_spatial_crouch
-bip_39_word_underscore_4: total_spatial_crouch_torch
-bip_39_word_underscore_5: total_spatial_crouch_torch_day
-bip_39_word_underscore_6: total_spatial_crouch_torch_day_genius
-bip_39_word_underscore_7: total_spatial_crouch_torch_day_genius_unit
-bip_39_word_underscore_8: total_spatial_crouch_torch_day_genius_unit_vague
-bip_39_word_underscore_9: total_spatial_crouch_torch_day_genius_unit_vague_effort
 classification: category
 classification_capital: Category
 classification_first_letter: c

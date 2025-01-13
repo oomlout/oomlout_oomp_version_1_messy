@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wire
-bip_39_word_dash_10: wire-depth-nuclear-tenant-brisk-actor-bean-strong-wire-desk
-bip_39_word_dash_11: wire-depth-nuclear-tenant-brisk-actor-bean-strong-wire-desk-tiger
 bip_39_word_dash_12: wire-depth-nuclear-tenant-brisk-actor-bean-strong-wire-desk-tiger-absent
 bip_39_word_dash_2: wire-depth
 bip_39_word_dash_3: wire-depth-nuclear
-bip_39_word_dash_4: wire-depth-nuclear-tenant
-bip_39_word_dash_5: wire-depth-nuclear-tenant-brisk
-bip_39_word_dash_6: wire-depth-nuclear-tenant-brisk-actor
-bip_39_word_dash_7: wire-depth-nuclear-tenant-brisk-actor-bean
-bip_39_word_dash_8: wire-depth-nuclear-tenant-brisk-actor-bean-strong
-bip_39_word_dash_9: wire-depth-nuclear-tenant-brisk-actor-bean-strong-wire
-bip_39_word_new_br_1: wire
-bip_39_word_new_br_10: wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk
-bip_39_word_new_br_11: wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk<br>tiger
 bip_39_word_new_br_12: wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire<br>desk<br>tiger<br>absent
 bip_39_word_new_br_2: wire<br>depth
 bip_39_word_new_br_3: wire<br>depth<br>nuclear
-bip_39_word_new_br_4: wire<br>depth<br>nuclear<br>tenant
-bip_39_word_new_br_5: wire<br>depth<br>nuclear<br>tenant<br>brisk
-bip_39_word_new_br_6: wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor
-bip_39_word_new_br_7: wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean
-bip_39_word_new_br_8: wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong
-bip_39_word_new_br_9: wire<br>depth<br>nuclear<br>tenant<br>brisk<br>actor<br>bean<br>strong<br>wire
-bip_39_word_new_line_1: wire
-bip_39_word_new_line_10: 'wire
-
-  depth
-
-  nuclear
-
-  tenant
-
-  brisk
-
-  actor
-
-  bean
-
-  strong
-
-  wire
-
-  desk'
-bip_39_word_new_line_11: 'wire
-
-  depth
-
-  nuclear
-
-  tenant
-
-  brisk
-
-  actor
-
-  bean
-
-  strong
-
-  wire
-
-  desk
-
-  tiger'
 bip_39_word_new_line_12: 'wire
 
   depth
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wire
   depth
 
   nuclear'
-bip_39_word_new_line_4: 'wire
-
-  depth
-
-  nuclear
-
-  tenant'
-bip_39_word_new_line_5: 'wire
-
-  depth
-
-  nuclear
-
-  tenant
-
-  brisk'
-bip_39_word_new_line_6: 'wire
-
-  depth
-
-  nuclear
-
-  tenant
-
-  brisk
-
-  actor'
-bip_39_word_new_line_7: 'wire
-
-  depth
-
-  nuclear
-
-  tenant
-
-  brisk
-
-  actor
-
-  bean'
-bip_39_word_new_line_8: 'wire
-
-  depth
-
-  nuclear
-
-  tenant
-
-  brisk
-
-  actor
-
-  bean
-
-  strong'
-bip_39_word_new_line_9: 'wire
-
-  depth
-
-  nuclear
-
-  tenant
-
-  brisk
-
-  actor
-
-  bean
-
-  strong
-
-  wire'
-bip_39_word_no_space_1: wire
-bip_39_word_no_space_10: wiredepthnucleartenantbriskactorbeanstrongwiredesk
-bip_39_word_no_space_11: wiredepthnucleartenantbriskactorbeanstrongwiredesktiger
 bip_39_word_no_space_12: wiredepthnucleartenantbriskactorbeanstrongwiredesktigerabsent
 bip_39_word_no_space_2: wiredepth
 bip_39_word_no_space_3: wiredepthnuclear
-bip_39_word_no_space_4: wiredepthnucleartenant
-bip_39_word_no_space_5: wiredepthnucleartenantbrisk
-bip_39_word_no_space_6: wiredepthnucleartenantbriskactor
-bip_39_word_no_space_7: wiredepthnucleartenantbriskactorbean
-bip_39_word_no_space_8: wiredepthnucleartenantbriskactorbeanstrong
-bip_39_word_no_space_9: wiredepthnucleartenantbriskactorbeanstrongwire
-bip_39_word_space_0:
-- wire
-- depth
-- nuclear
-- tenant
-- brisk
-- actor
-- bean
-- strong
-- wire
-- desk
-- tiger
-- absent
-bip_39_word_space_1: wire
-bip_39_word_space_10: wire depth nuclear tenant brisk actor bean strong wire desk
-bip_39_word_space_11: wire depth nuclear tenant brisk actor bean strong wire desk
-  tiger
 bip_39_word_space_12: wire depth nuclear tenant brisk actor bean strong wire desk
   tiger absent
 bip_39_word_space_2: wire depth
 bip_39_word_space_3: wire depth nuclear
-bip_39_word_space_4: wire depth nuclear tenant
-bip_39_word_space_5: wire depth nuclear tenant brisk
-bip_39_word_space_6: wire depth nuclear tenant brisk actor
-bip_39_word_space_7: wire depth nuclear tenant brisk actor bean
-bip_39_word_space_8: wire depth nuclear tenant brisk actor bean strong
-bip_39_word_space_9: wire depth nuclear tenant brisk actor bean strong wire
-bip_39_word_underscore_1: wire
-bip_39_word_underscore_10: wire_depth_nuclear_tenant_brisk_actor_bean_strong_wire_desk
-bip_39_word_underscore_11: wire_depth_nuclear_tenant_brisk_actor_bean_strong_wire_desk_tiger
 bip_39_word_underscore_12: wire_depth_nuclear_tenant_brisk_actor_bean_strong_wire_desk_tiger_absent
 bip_39_word_underscore_2: wire_depth
 bip_39_word_underscore_3: wire_depth_nuclear
-bip_39_word_underscore_4: wire_depth_nuclear_tenant
-bip_39_word_underscore_5: wire_depth_nuclear_tenant_brisk
-bip_39_word_underscore_6: wire_depth_nuclear_tenant_brisk_actor
-bip_39_word_underscore_7: wire_depth_nuclear_tenant_brisk_actor_bean
-bip_39_word_underscore_8: wire_depth_nuclear_tenant_brisk_actor_bean_strong
-bip_39_word_underscore_9: wire_depth_nuclear_tenant_brisk_actor_bean_strong_wire
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lock
-bip_39_word_dash_10: lock-purity-monster-one-carbon-assume-deposit-glue-someone-differ
-bip_39_word_dash_11: lock-purity-monster-one-carbon-assume-deposit-glue-someone-differ-decide
 bip_39_word_dash_12: lock-purity-monster-one-carbon-assume-deposit-glue-someone-differ-decide-album
 bip_39_word_dash_2: lock-purity
 bip_39_word_dash_3: lock-purity-monster
-bip_39_word_dash_4: lock-purity-monster-one
-bip_39_word_dash_5: lock-purity-monster-one-carbon
-bip_39_word_dash_6: lock-purity-monster-one-carbon-assume
-bip_39_word_dash_7: lock-purity-monster-one-carbon-assume-deposit
-bip_39_word_dash_8: lock-purity-monster-one-carbon-assume-deposit-glue
-bip_39_word_dash_9: lock-purity-monster-one-carbon-assume-deposit-glue-someone
-bip_39_word_new_br_1: lock
-bip_39_word_new_br_10: lock<br>purity<br>monster<br>one<br>carbon<br>assume<br>deposit<br>glue<br>someone<br>differ
-bip_39_word_new_br_11: lock<br>purity<br>monster<br>one<br>carbon<br>assume<br>deposit<br>glue<br>someone<br>differ<br>decide
 bip_39_word_new_br_12: lock<br>purity<br>monster<br>one<br>carbon<br>assume<br>deposit<br>glue<br>someone<br>differ<br>decide<br>album
 bip_39_word_new_br_2: lock<br>purity
 bip_39_word_new_br_3: lock<br>purity<br>monster
-bip_39_word_new_br_4: lock<br>purity<br>monster<br>one
-bip_39_word_new_br_5: lock<br>purity<br>monster<br>one<br>carbon
-bip_39_word_new_br_6: lock<br>purity<br>monster<br>one<br>carbon<br>assume
-bip_39_word_new_br_7: lock<br>purity<br>monster<br>one<br>carbon<br>assume<br>deposit
-bip_39_word_new_br_8: lock<br>purity<br>monster<br>one<br>carbon<br>assume<br>deposit<br>glue
-bip_39_word_new_br_9: lock<br>purity<br>monster<br>one<br>carbon<br>assume<br>deposit<br>glue<br>someone
-bip_39_word_new_line_1: lock
-bip_39_word_new_line_10: 'lock
-
-  purity
-
-  monster
-
-  one
-
-  carbon
-
-  assume
-
-  deposit
-
-  glue
-
-  someone
-
-  differ'
-bip_39_word_new_line_11: 'lock
-
-  purity
-
-  monster
-
-  one
-
-  carbon
-
-  assume
-
-  deposit
-
-  glue
-
-  someone
-
-  differ
-
-  decide'
 bip_39_word_new_line_12: 'lock
 
   purity
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lock
   purity
 
   monster'
-bip_39_word_new_line_4: 'lock
-
-  purity
-
-  monster
-
-  one'
-bip_39_word_new_line_5: 'lock
-
-  purity
-
-  monster
-
-  one
-
-  carbon'
-bip_39_word_new_line_6: 'lock
-
-  purity
-
-  monster
-
-  one
-
-  carbon
-
-  assume'
-bip_39_word_new_line_7: 'lock
-
-  purity
-
-  monster
-
-  one
-
-  carbon
-
-  assume
-
-  deposit'
-bip_39_word_new_line_8: 'lock
-
-  purity
-
-  monster
-
-  one
-
-  carbon
-
-  assume
-
-  deposit
-
-  glue'
-bip_39_word_new_line_9: 'lock
-
-  purity
-
-  monster
-
-  one
-
-  carbon
-
-  assume
-
-  deposit
-
-  glue
-
-  someone'
-bip_39_word_no_space_1: lock
-bip_39_word_no_space_10: lockpuritymonsteronecarbonassumedepositgluesomeonediffer
-bip_39_word_no_space_11: lockpuritymonsteronecarbonassumedepositgluesomeonedifferdecide
 bip_39_word_no_space_12: lockpuritymonsteronecarbonassumedepositgluesomeonedifferdecidealbum
 bip_39_word_no_space_2: lockpurity
 bip_39_word_no_space_3: lockpuritymonster
-bip_39_word_no_space_4: lockpuritymonsterone
-bip_39_word_no_space_5: lockpuritymonsteronecarbon
-bip_39_word_no_space_6: lockpuritymonsteronecarbonassume
-bip_39_word_no_space_7: lockpuritymonsteronecarbonassumedeposit
-bip_39_word_no_space_8: lockpuritymonsteronecarbonassumedepositglue
-bip_39_word_no_space_9: lockpuritymonsteronecarbonassumedepositgluesomeone
-bip_39_word_space_0:
-- lock
-- purity
-- monster
-- one
-- carbon
-- assume
-- deposit
-- glue
-- someone
-- differ
-- decide
-- album
-bip_39_word_space_1: lock
-bip_39_word_space_10: lock purity monster one carbon assume deposit glue someone differ
-bip_39_word_space_11: lock purity monster one carbon assume deposit glue someone differ
-  decide
 bip_39_word_space_12: lock purity monster one carbon assume deposit glue someone differ
   decide album
 bip_39_word_space_2: lock purity
 bip_39_word_space_3: lock purity monster
-bip_39_word_space_4: lock purity monster one
-bip_39_word_space_5: lock purity monster one carbon
-bip_39_word_space_6: lock purity monster one carbon assume
-bip_39_word_space_7: lock purity monster one carbon assume deposit
-bip_39_word_space_8: lock purity monster one carbon assume deposit glue
-bip_39_word_space_9: lock purity monster one carbon assume deposit glue someone
-bip_39_word_underscore_1: lock
-bip_39_word_underscore_10: lock_purity_monster_one_carbon_assume_deposit_glue_someone_differ
-bip_39_word_underscore_11: lock_purity_monster_one_carbon_assume_deposit_glue_someone_differ_decide
 bip_39_word_underscore_12: lock_purity_monster_one_carbon_assume_deposit_glue_someone_differ_decide_album
 bip_39_word_underscore_2: lock_purity
 bip_39_word_underscore_3: lock_purity_monster
-bip_39_word_underscore_4: lock_purity_monster_one
-bip_39_word_underscore_5: lock_purity_monster_one_carbon
-bip_39_word_underscore_6: lock_purity_monster_one_carbon_assume
-bip_39_word_underscore_7: lock_purity_monster_one_carbon_assume_deposit
-bip_39_word_underscore_8: lock_purity_monster_one_carbon_assume_deposit_glue
-bip_39_word_underscore_9: lock_purity_monster_one_carbon_assume_deposit_glue_someone
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

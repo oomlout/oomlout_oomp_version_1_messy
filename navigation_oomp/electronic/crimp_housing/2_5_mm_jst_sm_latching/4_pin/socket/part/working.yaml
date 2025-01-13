@@ -1,68 +1,9 @@
-bip_39_word_dash_1: usual
-bip_39_word_dash_10: usual-churn-okay-castle-fortune-traffic-degree-immense-slim-divorce
-bip_39_word_dash_11: usual-churn-okay-castle-fortune-traffic-degree-immense-slim-divorce-proud
 bip_39_word_dash_12: usual-churn-okay-castle-fortune-traffic-degree-immense-slim-divorce-proud-afraid
 bip_39_word_dash_2: usual-churn
 bip_39_word_dash_3: usual-churn-okay
-bip_39_word_dash_4: usual-churn-okay-castle
-bip_39_word_dash_5: usual-churn-okay-castle-fortune
-bip_39_word_dash_6: usual-churn-okay-castle-fortune-traffic
-bip_39_word_dash_7: usual-churn-okay-castle-fortune-traffic-degree
-bip_39_word_dash_8: usual-churn-okay-castle-fortune-traffic-degree-immense
-bip_39_word_dash_9: usual-churn-okay-castle-fortune-traffic-degree-immense-slim
-bip_39_word_new_br_1: usual
-bip_39_word_new_br_10: usual<br>churn<br>okay<br>castle<br>fortune<br>traffic<br>degree<br>immense<br>slim<br>divorce
-bip_39_word_new_br_11: usual<br>churn<br>okay<br>castle<br>fortune<br>traffic<br>degree<br>immense<br>slim<br>divorce<br>proud
 bip_39_word_new_br_12: usual<br>churn<br>okay<br>castle<br>fortune<br>traffic<br>degree<br>immense<br>slim<br>divorce<br>proud<br>afraid
 bip_39_word_new_br_2: usual<br>churn
 bip_39_word_new_br_3: usual<br>churn<br>okay
-bip_39_word_new_br_4: usual<br>churn<br>okay<br>castle
-bip_39_word_new_br_5: usual<br>churn<br>okay<br>castle<br>fortune
-bip_39_word_new_br_6: usual<br>churn<br>okay<br>castle<br>fortune<br>traffic
-bip_39_word_new_br_7: usual<br>churn<br>okay<br>castle<br>fortune<br>traffic<br>degree
-bip_39_word_new_br_8: usual<br>churn<br>okay<br>castle<br>fortune<br>traffic<br>degree<br>immense
-bip_39_word_new_br_9: usual<br>churn<br>okay<br>castle<br>fortune<br>traffic<br>degree<br>immense<br>slim
-bip_39_word_new_line_1: usual
-bip_39_word_new_line_10: 'usual
-
-  churn
-
-  okay
-
-  castle
-
-  fortune
-
-  traffic
-
-  degree
-
-  immense
-
-  slim
-
-  divorce'
-bip_39_word_new_line_11: 'usual
-
-  churn
-
-  okay
-
-  castle
-
-  fortune
-
-  traffic
-
-  degree
-
-  immense
-
-  slim
-
-  divorce
-
-  proud'
 bip_39_word_new_line_12: 'usual
 
   churn
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'usual
   churn
 
   okay'
-bip_39_word_new_line_4: 'usual
-
-  churn
-
-  okay
-
-  castle'
-bip_39_word_new_line_5: 'usual
-
-  churn
-
-  okay
-
-  castle
-
-  fortune'
-bip_39_word_new_line_6: 'usual
-
-  churn
-
-  okay
-
-  castle
-
-  fortune
-
-  traffic'
-bip_39_word_new_line_7: 'usual
-
-  churn
-
-  okay
-
-  castle
-
-  fortune
-
-  traffic
-
-  degree'
-bip_39_word_new_line_8: 'usual
-
-  churn
-
-  okay
-
-  castle
-
-  fortune
-
-  traffic
-
-  degree
-
-  immense'
-bip_39_word_new_line_9: 'usual
-
-  churn
-
-  okay
-
-  castle
-
-  fortune
-
-  traffic
-
-  degree
-
-  immense
-
-  slim'
-bip_39_word_no_space_1: usual
-bip_39_word_no_space_10: usualchurnokaycastlefortunetrafficdegreeimmenseslimdivorce
-bip_39_word_no_space_11: usualchurnokaycastlefortunetrafficdegreeimmenseslimdivorceproud
 bip_39_word_no_space_12: usualchurnokaycastlefortunetrafficdegreeimmenseslimdivorceproudafraid
 bip_39_word_no_space_2: usualchurn
 bip_39_word_no_space_3: usualchurnokay
-bip_39_word_no_space_4: usualchurnokaycastle
-bip_39_word_no_space_5: usualchurnokaycastlefortune
-bip_39_word_no_space_6: usualchurnokaycastlefortunetraffic
-bip_39_word_no_space_7: usualchurnokaycastlefortunetrafficdegree
-bip_39_word_no_space_8: usualchurnokaycastlefortunetrafficdegreeimmense
-bip_39_word_no_space_9: usualchurnokaycastlefortunetrafficdegreeimmenseslim
-bip_39_word_space_0:
-- usual
-- churn
-- okay
-- castle
-- fortune
-- traffic
-- degree
-- immense
-- slim
-- divorce
-- proud
-- afraid
-bip_39_word_space_1: usual
-bip_39_word_space_10: usual churn okay castle fortune traffic degree immense slim
-  divorce
-bip_39_word_space_11: usual churn okay castle fortune traffic degree immense slim
-  divorce proud
 bip_39_word_space_12: usual churn okay castle fortune traffic degree immense slim
   divorce proud afraid
 bip_39_word_space_2: usual churn
 bip_39_word_space_3: usual churn okay
-bip_39_word_space_4: usual churn okay castle
-bip_39_word_space_5: usual churn okay castle fortune
-bip_39_word_space_6: usual churn okay castle fortune traffic
-bip_39_word_space_7: usual churn okay castle fortune traffic degree
-bip_39_word_space_8: usual churn okay castle fortune traffic degree immense
-bip_39_word_space_9: usual churn okay castle fortune traffic degree immense slim
-bip_39_word_underscore_1: usual
-bip_39_word_underscore_10: usual_churn_okay_castle_fortune_traffic_degree_immense_slim_divorce
-bip_39_word_underscore_11: usual_churn_okay_castle_fortune_traffic_degree_immense_slim_divorce_proud
 bip_39_word_underscore_12: usual_churn_okay_castle_fortune_traffic_degree_immense_slim_divorce_proud_afraid
 bip_39_word_underscore_2: usual_churn
 bip_39_word_underscore_3: usual_churn_okay
-bip_39_word_underscore_4: usual_churn_okay_castle
-bip_39_word_underscore_5: usual_churn_okay_castle_fortune
-bip_39_word_underscore_6: usual_churn_okay_castle_fortune_traffic
-bip_39_word_underscore_7: usual_churn_okay_castle_fortune_traffic_degree
-bip_39_word_underscore_8: usual_churn_okay_castle_fortune_traffic_degree_immense
-bip_39_word_underscore_9: usual_churn_okay_castle_fortune_traffic_degree_immense_slim
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

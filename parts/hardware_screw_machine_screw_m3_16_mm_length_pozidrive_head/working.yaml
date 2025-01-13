@@ -1,68 +1,9 @@
-bip_39_word_dash_1: picnic
-bip_39_word_dash_10: picnic-fetch-myself-adult-sword-sustain-hobby-actor-muffin-gorilla
-bip_39_word_dash_11: picnic-fetch-myself-adult-sword-sustain-hobby-actor-muffin-gorilla-ensure
 bip_39_word_dash_12: picnic-fetch-myself-adult-sword-sustain-hobby-actor-muffin-gorilla-ensure-abstract
 bip_39_word_dash_2: picnic-fetch
 bip_39_word_dash_3: picnic-fetch-myself
-bip_39_word_dash_4: picnic-fetch-myself-adult
-bip_39_word_dash_5: picnic-fetch-myself-adult-sword
-bip_39_word_dash_6: picnic-fetch-myself-adult-sword-sustain
-bip_39_word_dash_7: picnic-fetch-myself-adult-sword-sustain-hobby
-bip_39_word_dash_8: picnic-fetch-myself-adult-sword-sustain-hobby-actor
-bip_39_word_dash_9: picnic-fetch-myself-adult-sword-sustain-hobby-actor-muffin
-bip_39_word_new_br_1: picnic
-bip_39_word_new_br_10: picnic<br>fetch<br>myself<br>adult<br>sword<br>sustain<br>hobby<br>actor<br>muffin<br>gorilla
-bip_39_word_new_br_11: picnic<br>fetch<br>myself<br>adult<br>sword<br>sustain<br>hobby<br>actor<br>muffin<br>gorilla<br>ensure
 bip_39_word_new_br_12: picnic<br>fetch<br>myself<br>adult<br>sword<br>sustain<br>hobby<br>actor<br>muffin<br>gorilla<br>ensure<br>abstract
 bip_39_word_new_br_2: picnic<br>fetch
 bip_39_word_new_br_3: picnic<br>fetch<br>myself
-bip_39_word_new_br_4: picnic<br>fetch<br>myself<br>adult
-bip_39_word_new_br_5: picnic<br>fetch<br>myself<br>adult<br>sword
-bip_39_word_new_br_6: picnic<br>fetch<br>myself<br>adult<br>sword<br>sustain
-bip_39_word_new_br_7: picnic<br>fetch<br>myself<br>adult<br>sword<br>sustain<br>hobby
-bip_39_word_new_br_8: picnic<br>fetch<br>myself<br>adult<br>sword<br>sustain<br>hobby<br>actor
-bip_39_word_new_br_9: picnic<br>fetch<br>myself<br>adult<br>sword<br>sustain<br>hobby<br>actor<br>muffin
-bip_39_word_new_line_1: picnic
-bip_39_word_new_line_10: 'picnic
-
-  fetch
-
-  myself
-
-  adult
-
-  sword
-
-  sustain
-
-  hobby
-
-  actor
-
-  muffin
-
-  gorilla'
-bip_39_word_new_line_11: 'picnic
-
-  fetch
-
-  myself
-
-  adult
-
-  sword
-
-  sustain
-
-  hobby
-
-  actor
-
-  muffin
-
-  gorilla
-
-  ensure'
 bip_39_word_new_line_12: 'picnic
 
   fetch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'picnic
   fetch
 
   myself'
-bip_39_word_new_line_4: 'picnic
-
-  fetch
-
-  myself
-
-  adult'
-bip_39_word_new_line_5: 'picnic
-
-  fetch
-
-  myself
-
-  adult
-
-  sword'
-bip_39_word_new_line_6: 'picnic
-
-  fetch
-
-  myself
-
-  adult
-
-  sword
-
-  sustain'
-bip_39_word_new_line_7: 'picnic
-
-  fetch
-
-  myself
-
-  adult
-
-  sword
-
-  sustain
-
-  hobby'
-bip_39_word_new_line_8: 'picnic
-
-  fetch
-
-  myself
-
-  adult
-
-  sword
-
-  sustain
-
-  hobby
-
-  actor'
-bip_39_word_new_line_9: 'picnic
-
-  fetch
-
-  myself
-
-  adult
-
-  sword
-
-  sustain
-
-  hobby
-
-  actor
-
-  muffin'
-bip_39_word_no_space_1: picnic
-bip_39_word_no_space_10: picnicfetchmyselfadultswordsustainhobbyactormuffingorilla
-bip_39_word_no_space_11: picnicfetchmyselfadultswordsustainhobbyactormuffingorillaensure
 bip_39_word_no_space_12: picnicfetchmyselfadultswordsustainhobbyactormuffingorillaensureabstract
 bip_39_word_no_space_2: picnicfetch
 bip_39_word_no_space_3: picnicfetchmyself
-bip_39_word_no_space_4: picnicfetchmyselfadult
-bip_39_word_no_space_5: picnicfetchmyselfadultsword
-bip_39_word_no_space_6: picnicfetchmyselfadultswordsustain
-bip_39_word_no_space_7: picnicfetchmyselfadultswordsustainhobby
-bip_39_word_no_space_8: picnicfetchmyselfadultswordsustainhobbyactor
-bip_39_word_no_space_9: picnicfetchmyselfadultswordsustainhobbyactormuffin
-bip_39_word_space_0:
-- picnic
-- fetch
-- myself
-- adult
-- sword
-- sustain
-- hobby
-- actor
-- muffin
-- gorilla
-- ensure
-- abstract
-bip_39_word_space_1: picnic
-bip_39_word_space_10: picnic fetch myself adult sword sustain hobby actor muffin gorilla
-bip_39_word_space_11: picnic fetch myself adult sword sustain hobby actor muffin gorilla
-  ensure
 bip_39_word_space_12: picnic fetch myself adult sword sustain hobby actor muffin gorilla
   ensure abstract
 bip_39_word_space_2: picnic fetch
 bip_39_word_space_3: picnic fetch myself
-bip_39_word_space_4: picnic fetch myself adult
-bip_39_word_space_5: picnic fetch myself adult sword
-bip_39_word_space_6: picnic fetch myself adult sword sustain
-bip_39_word_space_7: picnic fetch myself adult sword sustain hobby
-bip_39_word_space_8: picnic fetch myself adult sword sustain hobby actor
-bip_39_word_space_9: picnic fetch myself adult sword sustain hobby actor muffin
-bip_39_word_underscore_1: picnic
-bip_39_word_underscore_10: picnic_fetch_myself_adult_sword_sustain_hobby_actor_muffin_gorilla
-bip_39_word_underscore_11: picnic_fetch_myself_adult_sword_sustain_hobby_actor_muffin_gorilla_ensure
 bip_39_word_underscore_12: picnic_fetch_myself_adult_sword_sustain_hobby_actor_muffin_gorilla_ensure_abstract
 bip_39_word_underscore_2: picnic_fetch
 bip_39_word_underscore_3: picnic_fetch_myself
-bip_39_word_underscore_4: picnic_fetch_myself_adult
-bip_39_word_underscore_5: picnic_fetch_myself_adult_sword
-bip_39_word_underscore_6: picnic_fetch_myself_adult_sword_sustain
-bip_39_word_underscore_7: picnic_fetch_myself_adult_sword_sustain_hobby
-bip_39_word_underscore_8: picnic_fetch_myself_adult_sword_sustain_hobby_actor
-bip_39_word_underscore_9: picnic_fetch_myself_adult_sword_sustain_hobby_actor_muffin
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

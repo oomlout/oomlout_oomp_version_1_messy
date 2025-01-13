@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fragile
-bip_39_word_dash_10: fragile-stuff-hire-return-cancel-hat-reflect-shiver-boil-aisle
-bip_39_word_dash_11: fragile-stuff-hire-return-cancel-hat-reflect-shiver-boil-aisle-guide
 bip_39_word_dash_12: fragile-stuff-hire-return-cancel-hat-reflect-shiver-boil-aisle-guide-anchor
 bip_39_word_dash_2: fragile-stuff
 bip_39_word_dash_3: fragile-stuff-hire
-bip_39_word_dash_4: fragile-stuff-hire-return
-bip_39_word_dash_5: fragile-stuff-hire-return-cancel
-bip_39_word_dash_6: fragile-stuff-hire-return-cancel-hat
-bip_39_word_dash_7: fragile-stuff-hire-return-cancel-hat-reflect
-bip_39_word_dash_8: fragile-stuff-hire-return-cancel-hat-reflect-shiver
-bip_39_word_dash_9: fragile-stuff-hire-return-cancel-hat-reflect-shiver-boil
-bip_39_word_new_br_1: fragile
-bip_39_word_new_br_10: fragile<br>stuff<br>hire<br>return<br>cancel<br>hat<br>reflect<br>shiver<br>boil<br>aisle
-bip_39_word_new_br_11: fragile<br>stuff<br>hire<br>return<br>cancel<br>hat<br>reflect<br>shiver<br>boil<br>aisle<br>guide
 bip_39_word_new_br_12: fragile<br>stuff<br>hire<br>return<br>cancel<br>hat<br>reflect<br>shiver<br>boil<br>aisle<br>guide<br>anchor
 bip_39_word_new_br_2: fragile<br>stuff
 bip_39_word_new_br_3: fragile<br>stuff<br>hire
-bip_39_word_new_br_4: fragile<br>stuff<br>hire<br>return
-bip_39_word_new_br_5: fragile<br>stuff<br>hire<br>return<br>cancel
-bip_39_word_new_br_6: fragile<br>stuff<br>hire<br>return<br>cancel<br>hat
-bip_39_word_new_br_7: fragile<br>stuff<br>hire<br>return<br>cancel<br>hat<br>reflect
-bip_39_word_new_br_8: fragile<br>stuff<br>hire<br>return<br>cancel<br>hat<br>reflect<br>shiver
-bip_39_word_new_br_9: fragile<br>stuff<br>hire<br>return<br>cancel<br>hat<br>reflect<br>shiver<br>boil
-bip_39_word_new_line_1: fragile
-bip_39_word_new_line_10: 'fragile
-
-  stuff
-
-  hire
-
-  return
-
-  cancel
-
-  hat
-
-  reflect
-
-  shiver
-
-  boil
-
-  aisle'
-bip_39_word_new_line_11: 'fragile
-
-  stuff
-
-  hire
-
-  return
-
-  cancel
-
-  hat
-
-  reflect
-
-  shiver
-
-  boil
-
-  aisle
-
-  guide'
 bip_39_word_new_line_12: 'fragile
 
   stuff
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fragile
   stuff
 
   hire'
-bip_39_word_new_line_4: 'fragile
-
-  stuff
-
-  hire
-
-  return'
-bip_39_word_new_line_5: 'fragile
-
-  stuff
-
-  hire
-
-  return
-
-  cancel'
-bip_39_word_new_line_6: 'fragile
-
-  stuff
-
-  hire
-
-  return
-
-  cancel
-
-  hat'
-bip_39_word_new_line_7: 'fragile
-
-  stuff
-
-  hire
-
-  return
-
-  cancel
-
-  hat
-
-  reflect'
-bip_39_word_new_line_8: 'fragile
-
-  stuff
-
-  hire
-
-  return
-
-  cancel
-
-  hat
-
-  reflect
-
-  shiver'
-bip_39_word_new_line_9: 'fragile
-
-  stuff
-
-  hire
-
-  return
-
-  cancel
-
-  hat
-
-  reflect
-
-  shiver
-
-  boil'
-bip_39_word_no_space_1: fragile
-bip_39_word_no_space_10: fragilestuffhirereturncancelhatreflectshiverboilaisle
-bip_39_word_no_space_11: fragilestuffhirereturncancelhatreflectshiverboilaisleguide
 bip_39_word_no_space_12: fragilestuffhirereturncancelhatreflectshiverboilaisleguideanchor
 bip_39_word_no_space_2: fragilestuff
 bip_39_word_no_space_3: fragilestuffhire
-bip_39_word_no_space_4: fragilestuffhirereturn
-bip_39_word_no_space_5: fragilestuffhirereturncancel
-bip_39_word_no_space_6: fragilestuffhirereturncancelhat
-bip_39_word_no_space_7: fragilestuffhirereturncancelhatreflect
-bip_39_word_no_space_8: fragilestuffhirereturncancelhatreflectshiver
-bip_39_word_no_space_9: fragilestuffhirereturncancelhatreflectshiverboil
-bip_39_word_space_0:
-- fragile
-- stuff
-- hire
-- return
-- cancel
-- hat
-- reflect
-- shiver
-- boil
-- aisle
-- guide
-- anchor
-bip_39_word_space_1: fragile
-bip_39_word_space_10: fragile stuff hire return cancel hat reflect shiver boil aisle
-bip_39_word_space_11: fragile stuff hire return cancel hat reflect shiver boil aisle
-  guide
 bip_39_word_space_12: fragile stuff hire return cancel hat reflect shiver boil aisle
   guide anchor
 bip_39_word_space_2: fragile stuff
 bip_39_word_space_3: fragile stuff hire
-bip_39_word_space_4: fragile stuff hire return
-bip_39_word_space_5: fragile stuff hire return cancel
-bip_39_word_space_6: fragile stuff hire return cancel hat
-bip_39_word_space_7: fragile stuff hire return cancel hat reflect
-bip_39_word_space_8: fragile stuff hire return cancel hat reflect shiver
-bip_39_word_space_9: fragile stuff hire return cancel hat reflect shiver boil
-bip_39_word_underscore_1: fragile
-bip_39_word_underscore_10: fragile_stuff_hire_return_cancel_hat_reflect_shiver_boil_aisle
-bip_39_word_underscore_11: fragile_stuff_hire_return_cancel_hat_reflect_shiver_boil_aisle_guide
 bip_39_word_underscore_12: fragile_stuff_hire_return_cancel_hat_reflect_shiver_boil_aisle_guide_anchor
 bip_39_word_underscore_2: fragile_stuff
 bip_39_word_underscore_3: fragile_stuff_hire
-bip_39_word_underscore_4: fragile_stuff_hire_return
-bip_39_word_underscore_5: fragile_stuff_hire_return_cancel
-bip_39_word_underscore_6: fragile_stuff_hire_return_cancel_hat
-bip_39_word_underscore_7: fragile_stuff_hire_return_cancel_hat_reflect
-bip_39_word_underscore_8: fragile_stuff_hire_return_cancel_hat_reflect_shiver
-bip_39_word_underscore_9: fragile_stuff_hire_return_cancel_hat_reflect_shiver_boil
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

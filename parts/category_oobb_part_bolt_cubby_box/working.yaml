@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tuna
-bip_39_word_dash_10: tuna-volcano-wheel-cash-tray-ignore-summer-soda-nuclear-alley
-bip_39_word_dash_11: tuna-volcano-wheel-cash-tray-ignore-summer-soda-nuclear-alley-tobacco
 bip_39_word_dash_12: tuna-volcano-wheel-cash-tray-ignore-summer-soda-nuclear-alley-tobacco-acoustic
 bip_39_word_dash_2: tuna-volcano
 bip_39_word_dash_3: tuna-volcano-wheel
-bip_39_word_dash_4: tuna-volcano-wheel-cash
-bip_39_word_dash_5: tuna-volcano-wheel-cash-tray
-bip_39_word_dash_6: tuna-volcano-wheel-cash-tray-ignore
-bip_39_word_dash_7: tuna-volcano-wheel-cash-tray-ignore-summer
-bip_39_word_dash_8: tuna-volcano-wheel-cash-tray-ignore-summer-soda
-bip_39_word_dash_9: tuna-volcano-wheel-cash-tray-ignore-summer-soda-nuclear
-bip_39_word_new_br_1: tuna
-bip_39_word_new_br_10: tuna<br>volcano<br>wheel<br>cash<br>tray<br>ignore<br>summer<br>soda<br>nuclear<br>alley
-bip_39_word_new_br_11: tuna<br>volcano<br>wheel<br>cash<br>tray<br>ignore<br>summer<br>soda<br>nuclear<br>alley<br>tobacco
 bip_39_word_new_br_12: tuna<br>volcano<br>wheel<br>cash<br>tray<br>ignore<br>summer<br>soda<br>nuclear<br>alley<br>tobacco<br>acoustic
 bip_39_word_new_br_2: tuna<br>volcano
 bip_39_word_new_br_3: tuna<br>volcano<br>wheel
-bip_39_word_new_br_4: tuna<br>volcano<br>wheel<br>cash
-bip_39_word_new_br_5: tuna<br>volcano<br>wheel<br>cash<br>tray
-bip_39_word_new_br_6: tuna<br>volcano<br>wheel<br>cash<br>tray<br>ignore
-bip_39_word_new_br_7: tuna<br>volcano<br>wheel<br>cash<br>tray<br>ignore<br>summer
-bip_39_word_new_br_8: tuna<br>volcano<br>wheel<br>cash<br>tray<br>ignore<br>summer<br>soda
-bip_39_word_new_br_9: tuna<br>volcano<br>wheel<br>cash<br>tray<br>ignore<br>summer<br>soda<br>nuclear
-bip_39_word_new_line_1: tuna
-bip_39_word_new_line_10: 'tuna
-
-  volcano
-
-  wheel
-
-  cash
-
-  tray
-
-  ignore
-
-  summer
-
-  soda
-
-  nuclear
-
-  alley'
-bip_39_word_new_line_11: 'tuna
-
-  volcano
-
-  wheel
-
-  cash
-
-  tray
-
-  ignore
-
-  summer
-
-  soda
-
-  nuclear
-
-  alley
-
-  tobacco'
 bip_39_word_new_line_12: 'tuna
 
   volcano
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tuna
   volcano
 
   wheel'
-bip_39_word_new_line_4: 'tuna
-
-  volcano
-
-  wheel
-
-  cash'
-bip_39_word_new_line_5: 'tuna
-
-  volcano
-
-  wheel
-
-  cash
-
-  tray'
-bip_39_word_new_line_6: 'tuna
-
-  volcano
-
-  wheel
-
-  cash
-
-  tray
-
-  ignore'
-bip_39_word_new_line_7: 'tuna
-
-  volcano
-
-  wheel
-
-  cash
-
-  tray
-
-  ignore
-
-  summer'
-bip_39_word_new_line_8: 'tuna
-
-  volcano
-
-  wheel
-
-  cash
-
-  tray
-
-  ignore
-
-  summer
-
-  soda'
-bip_39_word_new_line_9: 'tuna
-
-  volcano
-
-  wheel
-
-  cash
-
-  tray
-
-  ignore
-
-  summer
-
-  soda
-
-  nuclear'
-bip_39_word_no_space_1: tuna
-bip_39_word_no_space_10: tunavolcanowheelcashtrayignoresummersodanuclearalley
-bip_39_word_no_space_11: tunavolcanowheelcashtrayignoresummersodanuclearalleytobacco
 bip_39_word_no_space_12: tunavolcanowheelcashtrayignoresummersodanuclearalleytobaccoacoustic
 bip_39_word_no_space_2: tunavolcano
 bip_39_word_no_space_3: tunavolcanowheel
-bip_39_word_no_space_4: tunavolcanowheelcash
-bip_39_word_no_space_5: tunavolcanowheelcashtray
-bip_39_word_no_space_6: tunavolcanowheelcashtrayignore
-bip_39_word_no_space_7: tunavolcanowheelcashtrayignoresummer
-bip_39_word_no_space_8: tunavolcanowheelcashtrayignoresummersoda
-bip_39_word_no_space_9: tunavolcanowheelcashtrayignoresummersodanuclear
-bip_39_word_space_0:
-- tuna
-- volcano
-- wheel
-- cash
-- tray
-- ignore
-- summer
-- soda
-- nuclear
-- alley
-- tobacco
-- acoustic
-bip_39_word_space_1: tuna
-bip_39_word_space_10: tuna volcano wheel cash tray ignore summer soda nuclear alley
-bip_39_word_space_11: tuna volcano wheel cash tray ignore summer soda nuclear alley
-  tobacco
 bip_39_word_space_12: tuna volcano wheel cash tray ignore summer soda nuclear alley
   tobacco acoustic
 bip_39_word_space_2: tuna volcano
 bip_39_word_space_3: tuna volcano wheel
-bip_39_word_space_4: tuna volcano wheel cash
-bip_39_word_space_5: tuna volcano wheel cash tray
-bip_39_word_space_6: tuna volcano wheel cash tray ignore
-bip_39_word_space_7: tuna volcano wheel cash tray ignore summer
-bip_39_word_space_8: tuna volcano wheel cash tray ignore summer soda
-bip_39_word_space_9: tuna volcano wheel cash tray ignore summer soda nuclear
-bip_39_word_underscore_1: tuna
-bip_39_word_underscore_10: tuna_volcano_wheel_cash_tray_ignore_summer_soda_nuclear_alley
-bip_39_word_underscore_11: tuna_volcano_wheel_cash_tray_ignore_summer_soda_nuclear_alley_tobacco
 bip_39_word_underscore_12: tuna_volcano_wheel_cash_tray_ignore_summer_soda_nuclear_alley_tobacco_acoustic
 bip_39_word_underscore_2: tuna_volcano
 bip_39_word_underscore_3: tuna_volcano_wheel
-bip_39_word_underscore_4: tuna_volcano_wheel_cash
-bip_39_word_underscore_5: tuna_volcano_wheel_cash_tray
-bip_39_word_underscore_6: tuna_volcano_wheel_cash_tray_ignore
-bip_39_word_underscore_7: tuna_volcano_wheel_cash_tray_ignore_summer
-bip_39_word_underscore_8: tuna_volcano_wheel_cash_tray_ignore_summer_soda
-bip_39_word_underscore_9: tuna_volcano_wheel_cash_tray_ignore_summer_soda_nuclear
 classification: category
 classification_capital: Category
 classification_first_letter: c

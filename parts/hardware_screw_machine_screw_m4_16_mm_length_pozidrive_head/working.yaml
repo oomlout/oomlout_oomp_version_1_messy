@@ -1,68 +1,9 @@
-bip_39_word_dash_1: olive
-bip_39_word_dash_10: olive-improve-aisle-patch-response-crisp-ribbon-horse-orchard-nut
-bip_39_word_dash_11: olive-improve-aisle-patch-response-crisp-ribbon-horse-orchard-nut-transfer
 bip_39_word_dash_12: olive-improve-aisle-patch-response-crisp-ribbon-horse-orchard-nut-transfer-acid
 bip_39_word_dash_2: olive-improve
 bip_39_word_dash_3: olive-improve-aisle
-bip_39_word_dash_4: olive-improve-aisle-patch
-bip_39_word_dash_5: olive-improve-aisle-patch-response
-bip_39_word_dash_6: olive-improve-aisle-patch-response-crisp
-bip_39_word_dash_7: olive-improve-aisle-patch-response-crisp-ribbon
-bip_39_word_dash_8: olive-improve-aisle-patch-response-crisp-ribbon-horse
-bip_39_word_dash_9: olive-improve-aisle-patch-response-crisp-ribbon-horse-orchard
-bip_39_word_new_br_1: olive
-bip_39_word_new_br_10: olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse<br>orchard<br>nut
-bip_39_word_new_br_11: olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse<br>orchard<br>nut<br>transfer
 bip_39_word_new_br_12: olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse<br>orchard<br>nut<br>transfer<br>acid
 bip_39_word_new_br_2: olive<br>improve
 bip_39_word_new_br_3: olive<br>improve<br>aisle
-bip_39_word_new_br_4: olive<br>improve<br>aisle<br>patch
-bip_39_word_new_br_5: olive<br>improve<br>aisle<br>patch<br>response
-bip_39_word_new_br_6: olive<br>improve<br>aisle<br>patch<br>response<br>crisp
-bip_39_word_new_br_7: olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon
-bip_39_word_new_br_8: olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse
-bip_39_word_new_br_9: olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse<br>orchard
-bip_39_word_new_line_1: olive
-bip_39_word_new_line_10: 'olive
-
-  improve
-
-  aisle
-
-  patch
-
-  response
-
-  crisp
-
-  ribbon
-
-  horse
-
-  orchard
-
-  nut'
-bip_39_word_new_line_11: 'olive
-
-  improve
-
-  aisle
-
-  patch
-
-  response
-
-  crisp
-
-  ribbon
-
-  horse
-
-  orchard
-
-  nut
-
-  transfer'
 bip_39_word_new_line_12: 'olive
 
   improve
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'olive
   improve
 
   aisle'
-bip_39_word_new_line_4: 'olive
-
-  improve
-
-  aisle
-
-  patch'
-bip_39_word_new_line_5: 'olive
-
-  improve
-
-  aisle
-
-  patch
-
-  response'
-bip_39_word_new_line_6: 'olive
-
-  improve
-
-  aisle
-
-  patch
-
-  response
-
-  crisp'
-bip_39_word_new_line_7: 'olive
-
-  improve
-
-  aisle
-
-  patch
-
-  response
-
-  crisp
-
-  ribbon'
-bip_39_word_new_line_8: 'olive
-
-  improve
-
-  aisle
-
-  patch
-
-  response
-
-  crisp
-
-  ribbon
-
-  horse'
-bip_39_word_new_line_9: 'olive
-
-  improve
-
-  aisle
-
-  patch
-
-  response
-
-  crisp
-
-  ribbon
-
-  horse
-
-  orchard'
-bip_39_word_no_space_1: olive
-bip_39_word_no_space_10: oliveimproveaislepatchresponsecrispribbonhorseorchardnut
-bip_39_word_no_space_11: oliveimproveaislepatchresponsecrispribbonhorseorchardnuttransfer
 bip_39_word_no_space_12: oliveimproveaislepatchresponsecrispribbonhorseorchardnuttransferacid
 bip_39_word_no_space_2: oliveimprove
 bip_39_word_no_space_3: oliveimproveaisle
-bip_39_word_no_space_4: oliveimproveaislepatch
-bip_39_word_no_space_5: oliveimproveaislepatchresponse
-bip_39_word_no_space_6: oliveimproveaislepatchresponsecrisp
-bip_39_word_no_space_7: oliveimproveaislepatchresponsecrispribbon
-bip_39_word_no_space_8: oliveimproveaislepatchresponsecrispribbonhorse
-bip_39_word_no_space_9: oliveimproveaislepatchresponsecrispribbonhorseorchard
-bip_39_word_space_0:
-- olive
-- improve
-- aisle
-- patch
-- response
-- crisp
-- ribbon
-- horse
-- orchard
-- nut
-- transfer
-- acid
-bip_39_word_space_1: olive
-bip_39_word_space_10: olive improve aisle patch response crisp ribbon horse orchard
-  nut
-bip_39_word_space_11: olive improve aisle patch response crisp ribbon horse orchard
-  nut transfer
 bip_39_word_space_12: olive improve aisle patch response crisp ribbon horse orchard
   nut transfer acid
 bip_39_word_space_2: olive improve
 bip_39_word_space_3: olive improve aisle
-bip_39_word_space_4: olive improve aisle patch
-bip_39_word_space_5: olive improve aisle patch response
-bip_39_word_space_6: olive improve aisle patch response crisp
-bip_39_word_space_7: olive improve aisle patch response crisp ribbon
-bip_39_word_space_8: olive improve aisle patch response crisp ribbon horse
-bip_39_word_space_9: olive improve aisle patch response crisp ribbon horse orchard
-bip_39_word_underscore_1: olive
-bip_39_word_underscore_10: olive_improve_aisle_patch_response_crisp_ribbon_horse_orchard_nut
-bip_39_word_underscore_11: olive_improve_aisle_patch_response_crisp_ribbon_horse_orchard_nut_transfer
 bip_39_word_underscore_12: olive_improve_aisle_patch_response_crisp_ribbon_horse_orchard_nut_transfer_acid
 bip_39_word_underscore_2: olive_improve
 bip_39_word_underscore_3: olive_improve_aisle
-bip_39_word_underscore_4: olive_improve_aisle_patch
-bip_39_word_underscore_5: olive_improve_aisle_patch_response
-bip_39_word_underscore_6: olive_improve_aisle_patch_response_crisp
-bip_39_word_underscore_7: olive_improve_aisle_patch_response_crisp_ribbon
-bip_39_word_underscore_8: olive_improve_aisle_patch_response_crisp_ribbon_horse
-bip_39_word_underscore_9: olive_improve_aisle_patch_response_crisp_ribbon_horse_orchard
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

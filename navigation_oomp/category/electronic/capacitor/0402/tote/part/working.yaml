@@ -1,45 +1,9 @@
-bip_39_word_dash_1: repeat
-bip_39_word_dash_10: repeat-device-recycle-dumb-derive-ask-piano-narrow-shrimp-select
 bip_39_word_dash_11: repeat-device-recycle-dumb-derive-ask-piano-narrow-shrimp-select-scan
 bip_39_word_dash_2: repeat-device
 bip_39_word_dash_3: repeat-device-recycle
-bip_39_word_dash_4: repeat-device-recycle-dumb
-bip_39_word_dash_5: repeat-device-recycle-dumb-derive
-bip_39_word_dash_6: repeat-device-recycle-dumb-derive-ask
-bip_39_word_dash_7: repeat-device-recycle-dumb-derive-ask-piano
-bip_39_word_dash_8: repeat-device-recycle-dumb-derive-ask-piano-narrow
-bip_39_word_dash_9: repeat-device-recycle-dumb-derive-ask-piano-narrow-shrimp
-bip_39_word_new_br_1: repeat
-bip_39_word_new_br_10: repeat<br>device<br>recycle<br>dumb<br>derive<br>ask<br>piano<br>narrow<br>shrimp<br>select
 bip_39_word_new_br_11: repeat<br>device<br>recycle<br>dumb<br>derive<br>ask<br>piano<br>narrow<br>shrimp<br>select<br>scan
 bip_39_word_new_br_2: repeat<br>device
 bip_39_word_new_br_3: repeat<br>device<br>recycle
-bip_39_word_new_br_4: repeat<br>device<br>recycle<br>dumb
-bip_39_word_new_br_5: repeat<br>device<br>recycle<br>dumb<br>derive
-bip_39_word_new_br_6: repeat<br>device<br>recycle<br>dumb<br>derive<br>ask
-bip_39_word_new_br_7: repeat<br>device<br>recycle<br>dumb<br>derive<br>ask<br>piano
-bip_39_word_new_br_8: repeat<br>device<br>recycle<br>dumb<br>derive<br>ask<br>piano<br>narrow
-bip_39_word_new_br_9: repeat<br>device<br>recycle<br>dumb<br>derive<br>ask<br>piano<br>narrow<br>shrimp
-bip_39_word_new_line_1: repeat
-bip_39_word_new_line_10: 'repeat
-
-  device
-
-  recycle
-
-  dumb
-
-  derive
-
-  ask
-
-  piano
-
-  narrow
-
-  shrimp
-
-  select'
 bip_39_word_new_line_11: 'repeat
 
   device
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'repeat
   device
 
   recycle'
-bip_39_word_new_line_4: 'repeat
-
-  device
-
-  recycle
-
-  dumb'
-bip_39_word_new_line_5: 'repeat
-
-  device
-
-  recycle
-
-  dumb
-
-  derive'
-bip_39_word_new_line_6: 'repeat
-
-  device
-
-  recycle
-
-  dumb
-
-  derive
-
-  ask'
-bip_39_word_new_line_7: 'repeat
-
-  device
-
-  recycle
-
-  dumb
-
-  derive
-
-  ask
-
-  piano'
-bip_39_word_new_line_8: 'repeat
-
-  device
-
-  recycle
-
-  dumb
-
-  derive
-
-  ask
-
-  piano
-
-  narrow'
-bip_39_word_new_line_9: 'repeat
-
-  device
-
-  recycle
-
-  dumb
-
-  derive
-
-  ask
-
-  piano
-
-  narrow
-
-  shrimp'
-bip_39_word_no_space_1: repeat
-bip_39_word_no_space_10: repeatdevicerecycledumbderiveaskpianonarrowshrimpselect
 bip_39_word_no_space_11: repeatdevicerecycledumbderiveaskpianonarrowshrimpselectscan
 bip_39_word_no_space_2: repeatdevice
 bip_39_word_no_space_3: repeatdevicerecycle
-bip_39_word_no_space_4: repeatdevicerecycledumb
-bip_39_word_no_space_5: repeatdevicerecycledumbderive
-bip_39_word_no_space_6: repeatdevicerecycledumbderiveask
-bip_39_word_no_space_7: repeatdevicerecycledumbderiveaskpiano
-bip_39_word_no_space_8: repeatdevicerecycledumbderiveaskpianonarrow
-bip_39_word_no_space_9: repeatdevicerecycledumbderiveaskpianonarrowshrimp
-bip_39_word_space_0:
-- repeat
-- device
-- recycle
-- dumb
-- derive
-- ask
-- piano
-- narrow
-- shrimp
-- select
-- scan
-bip_39_word_space_1: repeat
-bip_39_word_space_10: repeat device recycle dumb derive ask piano narrow shrimp select
 bip_39_word_space_11: repeat device recycle dumb derive ask piano narrow shrimp select
   scan
 bip_39_word_space_2: repeat device
 bip_39_word_space_3: repeat device recycle
-bip_39_word_space_4: repeat device recycle dumb
-bip_39_word_space_5: repeat device recycle dumb derive
-bip_39_word_space_6: repeat device recycle dumb derive ask
-bip_39_word_space_7: repeat device recycle dumb derive ask piano
-bip_39_word_space_8: repeat device recycle dumb derive ask piano narrow
-bip_39_word_space_9: repeat device recycle dumb derive ask piano narrow shrimp
-bip_39_word_underscore_1: repeat
-bip_39_word_underscore_10: repeat_device_recycle_dumb_derive_ask_piano_narrow_shrimp_select
 bip_39_word_underscore_11: repeat_device_recycle_dumb_derive_ask_piano_narrow_shrimp_select_scan
 bip_39_word_underscore_2: repeat_device
 bip_39_word_underscore_3: repeat_device_recycle
-bip_39_word_underscore_4: repeat_device_recycle_dumb
-bip_39_word_underscore_5: repeat_device_recycle_dumb_derive
-bip_39_word_underscore_6: repeat_device_recycle_dumb_derive_ask
-bip_39_word_underscore_7: repeat_device_recycle_dumb_derive_ask_piano
-bip_39_word_underscore_8: repeat_device_recycle_dumb_derive_ask_piano_narrow
-bip_39_word_underscore_9: repeat_device_recycle_dumb_derive_ask_piano_narrow_shrimp
 classification: category
 classification_capital: Category
 classification_first_letter: c

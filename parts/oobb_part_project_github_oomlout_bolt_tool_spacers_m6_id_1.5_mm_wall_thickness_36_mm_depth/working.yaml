@@ -1,68 +1,9 @@
-bip_39_word_dash_1: street
-bip_39_word_dash_10: street-same-script-leg-arena-huge-awkward-inhale-hockey-flip
-bip_39_word_dash_11: street-same-script-leg-arena-huge-awkward-inhale-hockey-flip-unknown
 bip_39_word_dash_12: street-same-script-leg-arena-huge-awkward-inhale-hockey-flip-unknown-afraid
 bip_39_word_dash_2: street-same
 bip_39_word_dash_3: street-same-script
-bip_39_word_dash_4: street-same-script-leg
-bip_39_word_dash_5: street-same-script-leg-arena
-bip_39_word_dash_6: street-same-script-leg-arena-huge
-bip_39_word_dash_7: street-same-script-leg-arena-huge-awkward
-bip_39_word_dash_8: street-same-script-leg-arena-huge-awkward-inhale
-bip_39_word_dash_9: street-same-script-leg-arena-huge-awkward-inhale-hockey
-bip_39_word_new_br_1: street
-bip_39_word_new_br_10: street<br>same<br>script<br>leg<br>arena<br>huge<br>awkward<br>inhale<br>hockey<br>flip
-bip_39_word_new_br_11: street<br>same<br>script<br>leg<br>arena<br>huge<br>awkward<br>inhale<br>hockey<br>flip<br>unknown
 bip_39_word_new_br_12: street<br>same<br>script<br>leg<br>arena<br>huge<br>awkward<br>inhale<br>hockey<br>flip<br>unknown<br>afraid
 bip_39_word_new_br_2: street<br>same
 bip_39_word_new_br_3: street<br>same<br>script
-bip_39_word_new_br_4: street<br>same<br>script<br>leg
-bip_39_word_new_br_5: street<br>same<br>script<br>leg<br>arena
-bip_39_word_new_br_6: street<br>same<br>script<br>leg<br>arena<br>huge
-bip_39_word_new_br_7: street<br>same<br>script<br>leg<br>arena<br>huge<br>awkward
-bip_39_word_new_br_8: street<br>same<br>script<br>leg<br>arena<br>huge<br>awkward<br>inhale
-bip_39_word_new_br_9: street<br>same<br>script<br>leg<br>arena<br>huge<br>awkward<br>inhale<br>hockey
-bip_39_word_new_line_1: street
-bip_39_word_new_line_10: 'street
-
-  same
-
-  script
-
-  leg
-
-  arena
-
-  huge
-
-  awkward
-
-  inhale
-
-  hockey
-
-  flip'
-bip_39_word_new_line_11: 'street
-
-  same
-
-  script
-
-  leg
-
-  arena
-
-  huge
-
-  awkward
-
-  inhale
-
-  hockey
-
-  flip
-
-  unknown'
 bip_39_word_new_line_12: 'street
 
   same
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'street
   same
 
   script'
-bip_39_word_new_line_4: 'street
-
-  same
-
-  script
-
-  leg'
-bip_39_word_new_line_5: 'street
-
-  same
-
-  script
-
-  leg
-
-  arena'
-bip_39_word_new_line_6: 'street
-
-  same
-
-  script
-
-  leg
-
-  arena
-
-  huge'
-bip_39_word_new_line_7: 'street
-
-  same
-
-  script
-
-  leg
-
-  arena
-
-  huge
-
-  awkward'
-bip_39_word_new_line_8: 'street
-
-  same
-
-  script
-
-  leg
-
-  arena
-
-  huge
-
-  awkward
-
-  inhale'
-bip_39_word_new_line_9: 'street
-
-  same
-
-  script
-
-  leg
-
-  arena
-
-  huge
-
-  awkward
-
-  inhale
-
-  hockey'
-bip_39_word_no_space_1: street
-bip_39_word_no_space_10: streetsamescriptlegarenahugeawkwardinhalehockeyflip
-bip_39_word_no_space_11: streetsamescriptlegarenahugeawkwardinhalehockeyflipunknown
 bip_39_word_no_space_12: streetsamescriptlegarenahugeawkwardinhalehockeyflipunknownafraid
 bip_39_word_no_space_2: streetsame
 bip_39_word_no_space_3: streetsamescript
-bip_39_word_no_space_4: streetsamescriptleg
-bip_39_word_no_space_5: streetsamescriptlegarena
-bip_39_word_no_space_6: streetsamescriptlegarenahuge
-bip_39_word_no_space_7: streetsamescriptlegarenahugeawkward
-bip_39_word_no_space_8: streetsamescriptlegarenahugeawkwardinhale
-bip_39_word_no_space_9: streetsamescriptlegarenahugeawkwardinhalehockey
-bip_39_word_space_0:
-- street
-- same
-- script
-- leg
-- arena
-- huge
-- awkward
-- inhale
-- hockey
-- flip
-- unknown
-- afraid
-bip_39_word_space_1: street
-bip_39_word_space_10: street same script leg arena huge awkward inhale hockey flip
-bip_39_word_space_11: street same script leg arena huge awkward inhale hockey flip
-  unknown
 bip_39_word_space_12: street same script leg arena huge awkward inhale hockey flip
   unknown afraid
 bip_39_word_space_2: street same
 bip_39_word_space_3: street same script
-bip_39_word_space_4: street same script leg
-bip_39_word_space_5: street same script leg arena
-bip_39_word_space_6: street same script leg arena huge
-bip_39_word_space_7: street same script leg arena huge awkward
-bip_39_word_space_8: street same script leg arena huge awkward inhale
-bip_39_word_space_9: street same script leg arena huge awkward inhale hockey
-bip_39_word_underscore_1: street
-bip_39_word_underscore_10: street_same_script_leg_arena_huge_awkward_inhale_hockey_flip
-bip_39_word_underscore_11: street_same_script_leg_arena_huge_awkward_inhale_hockey_flip_unknown
 bip_39_word_underscore_12: street_same_script_leg_arena_huge_awkward_inhale_hockey_flip_unknown_afraid
 bip_39_word_underscore_2: street_same
 bip_39_word_underscore_3: street_same_script
-bip_39_word_underscore_4: street_same_script_leg
-bip_39_word_underscore_5: street_same_script_leg_arena
-bip_39_word_underscore_6: street_same_script_leg_arena_huge
-bip_39_word_underscore_7: street_same_script_leg_arena_huge_awkward
-bip_39_word_underscore_8: street_same_script_leg_arena_huge_awkward_inhale
-bip_39_word_underscore_9: street_same_script_leg_arena_huge_awkward_inhale_hockey
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

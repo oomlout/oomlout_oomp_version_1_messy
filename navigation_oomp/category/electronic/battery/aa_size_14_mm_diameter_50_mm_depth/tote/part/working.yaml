@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dolphin
-bip_39_word_dash_10: dolphin-cart-scrap-swamp-delay-purse-risk-impact-copper-neither
-bip_39_word_dash_11: dolphin-cart-scrap-swamp-delay-purse-risk-impact-copper-neither-inject
 bip_39_word_dash_12: dolphin-cart-scrap-swamp-delay-purse-risk-impact-copper-neither-inject-apart
 bip_39_word_dash_2: dolphin-cart
 bip_39_word_dash_3: dolphin-cart-scrap
-bip_39_word_dash_4: dolphin-cart-scrap-swamp
-bip_39_word_dash_5: dolphin-cart-scrap-swamp-delay
-bip_39_word_dash_6: dolphin-cart-scrap-swamp-delay-purse
-bip_39_word_dash_7: dolphin-cart-scrap-swamp-delay-purse-risk
-bip_39_word_dash_8: dolphin-cart-scrap-swamp-delay-purse-risk-impact
-bip_39_word_dash_9: dolphin-cart-scrap-swamp-delay-purse-risk-impact-copper
-bip_39_word_new_br_1: dolphin
-bip_39_word_new_br_10: dolphin<br>cart<br>scrap<br>swamp<br>delay<br>purse<br>risk<br>impact<br>copper<br>neither
-bip_39_word_new_br_11: dolphin<br>cart<br>scrap<br>swamp<br>delay<br>purse<br>risk<br>impact<br>copper<br>neither<br>inject
 bip_39_word_new_br_12: dolphin<br>cart<br>scrap<br>swamp<br>delay<br>purse<br>risk<br>impact<br>copper<br>neither<br>inject<br>apart
 bip_39_word_new_br_2: dolphin<br>cart
 bip_39_word_new_br_3: dolphin<br>cart<br>scrap
-bip_39_word_new_br_4: dolphin<br>cart<br>scrap<br>swamp
-bip_39_word_new_br_5: dolphin<br>cart<br>scrap<br>swamp<br>delay
-bip_39_word_new_br_6: dolphin<br>cart<br>scrap<br>swamp<br>delay<br>purse
-bip_39_word_new_br_7: dolphin<br>cart<br>scrap<br>swamp<br>delay<br>purse<br>risk
-bip_39_word_new_br_8: dolphin<br>cart<br>scrap<br>swamp<br>delay<br>purse<br>risk<br>impact
-bip_39_word_new_br_9: dolphin<br>cart<br>scrap<br>swamp<br>delay<br>purse<br>risk<br>impact<br>copper
-bip_39_word_new_line_1: dolphin
-bip_39_word_new_line_10: 'dolphin
-
-  cart
-
-  scrap
-
-  swamp
-
-  delay
-
-  purse
-
-  risk
-
-  impact
-
-  copper
-
-  neither'
-bip_39_word_new_line_11: 'dolphin
-
-  cart
-
-  scrap
-
-  swamp
-
-  delay
-
-  purse
-
-  risk
-
-  impact
-
-  copper
-
-  neither
-
-  inject'
 bip_39_word_new_line_12: 'dolphin
 
   cart
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dolphin
   cart
 
   scrap'
-bip_39_word_new_line_4: 'dolphin
-
-  cart
-
-  scrap
-
-  swamp'
-bip_39_word_new_line_5: 'dolphin
-
-  cart
-
-  scrap
-
-  swamp
-
-  delay'
-bip_39_word_new_line_6: 'dolphin
-
-  cart
-
-  scrap
-
-  swamp
-
-  delay
-
-  purse'
-bip_39_word_new_line_7: 'dolphin
-
-  cart
-
-  scrap
-
-  swamp
-
-  delay
-
-  purse
-
-  risk'
-bip_39_word_new_line_8: 'dolphin
-
-  cart
-
-  scrap
-
-  swamp
-
-  delay
-
-  purse
-
-  risk
-
-  impact'
-bip_39_word_new_line_9: 'dolphin
-
-  cart
-
-  scrap
-
-  swamp
-
-  delay
-
-  purse
-
-  risk
-
-  impact
-
-  copper'
-bip_39_word_no_space_1: dolphin
-bip_39_word_no_space_10: dolphincartscrapswampdelaypurseriskimpactcopperneither
-bip_39_word_no_space_11: dolphincartscrapswampdelaypurseriskimpactcopperneitherinject
 bip_39_word_no_space_12: dolphincartscrapswampdelaypurseriskimpactcopperneitherinjectapart
 bip_39_word_no_space_2: dolphincart
 bip_39_word_no_space_3: dolphincartscrap
-bip_39_word_no_space_4: dolphincartscrapswamp
-bip_39_word_no_space_5: dolphincartscrapswampdelay
-bip_39_word_no_space_6: dolphincartscrapswampdelaypurse
-bip_39_word_no_space_7: dolphincartscrapswampdelaypurserisk
-bip_39_word_no_space_8: dolphincartscrapswampdelaypurseriskimpact
-bip_39_word_no_space_9: dolphincartscrapswampdelaypurseriskimpactcopper
-bip_39_word_space_0:
-- dolphin
-- cart
-- scrap
-- swamp
-- delay
-- purse
-- risk
-- impact
-- copper
-- neither
-- inject
-- apart
-bip_39_word_space_1: dolphin
-bip_39_word_space_10: dolphin cart scrap swamp delay purse risk impact copper neither
-bip_39_word_space_11: dolphin cart scrap swamp delay purse risk impact copper neither
-  inject
 bip_39_word_space_12: dolphin cart scrap swamp delay purse risk impact copper neither
   inject apart
 bip_39_word_space_2: dolphin cart
 bip_39_word_space_3: dolphin cart scrap
-bip_39_word_space_4: dolphin cart scrap swamp
-bip_39_word_space_5: dolphin cart scrap swamp delay
-bip_39_word_space_6: dolphin cart scrap swamp delay purse
-bip_39_word_space_7: dolphin cart scrap swamp delay purse risk
-bip_39_word_space_8: dolphin cart scrap swamp delay purse risk impact
-bip_39_word_space_9: dolphin cart scrap swamp delay purse risk impact copper
-bip_39_word_underscore_1: dolphin
-bip_39_word_underscore_10: dolphin_cart_scrap_swamp_delay_purse_risk_impact_copper_neither
-bip_39_word_underscore_11: dolphin_cart_scrap_swamp_delay_purse_risk_impact_copper_neither_inject
 bip_39_word_underscore_12: dolphin_cart_scrap_swamp_delay_purse_risk_impact_copper_neither_inject_apart
 bip_39_word_underscore_2: dolphin_cart
 bip_39_word_underscore_3: dolphin_cart_scrap
-bip_39_word_underscore_4: dolphin_cart_scrap_swamp
-bip_39_word_underscore_5: dolphin_cart_scrap_swamp_delay
-bip_39_word_underscore_6: dolphin_cart_scrap_swamp_delay_purse
-bip_39_word_underscore_7: dolphin_cart_scrap_swamp_delay_purse_risk
-bip_39_word_underscore_8: dolphin_cart_scrap_swamp_delay_purse_risk_impact
-bip_39_word_underscore_9: dolphin_cart_scrap_swamp_delay_purse_risk_impact_copper
 classification: category
 classification_capital: Category
 classification_first_letter: c

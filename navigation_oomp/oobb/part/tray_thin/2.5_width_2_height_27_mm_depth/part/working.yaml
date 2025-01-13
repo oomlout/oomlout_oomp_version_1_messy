@@ -1,68 +1,9 @@
-bip_39_word_dash_1: control
-bip_39_word_dash_10: control-citizen-person-wasp-fork-spend-report-gown-observe-check
-bip_39_word_dash_11: control-citizen-person-wasp-fork-spend-report-gown-observe-check-subject
 bip_39_word_dash_12: control-citizen-person-wasp-fork-spend-report-gown-observe-check-subject-access
 bip_39_word_dash_2: control-citizen
 bip_39_word_dash_3: control-citizen-person
-bip_39_word_dash_4: control-citizen-person-wasp
-bip_39_word_dash_5: control-citizen-person-wasp-fork
-bip_39_word_dash_6: control-citizen-person-wasp-fork-spend
-bip_39_word_dash_7: control-citizen-person-wasp-fork-spend-report
-bip_39_word_dash_8: control-citizen-person-wasp-fork-spend-report-gown
-bip_39_word_dash_9: control-citizen-person-wasp-fork-spend-report-gown-observe
-bip_39_word_new_br_1: control
-bip_39_word_new_br_10: control<br>citizen<br>person<br>wasp<br>fork<br>spend<br>report<br>gown<br>observe<br>check
-bip_39_word_new_br_11: control<br>citizen<br>person<br>wasp<br>fork<br>spend<br>report<br>gown<br>observe<br>check<br>subject
 bip_39_word_new_br_12: control<br>citizen<br>person<br>wasp<br>fork<br>spend<br>report<br>gown<br>observe<br>check<br>subject<br>access
 bip_39_word_new_br_2: control<br>citizen
 bip_39_word_new_br_3: control<br>citizen<br>person
-bip_39_word_new_br_4: control<br>citizen<br>person<br>wasp
-bip_39_word_new_br_5: control<br>citizen<br>person<br>wasp<br>fork
-bip_39_word_new_br_6: control<br>citizen<br>person<br>wasp<br>fork<br>spend
-bip_39_word_new_br_7: control<br>citizen<br>person<br>wasp<br>fork<br>spend<br>report
-bip_39_word_new_br_8: control<br>citizen<br>person<br>wasp<br>fork<br>spend<br>report<br>gown
-bip_39_word_new_br_9: control<br>citizen<br>person<br>wasp<br>fork<br>spend<br>report<br>gown<br>observe
-bip_39_word_new_line_1: control
-bip_39_word_new_line_10: 'control
-
-  citizen
-
-  person
-
-  wasp
-
-  fork
-
-  spend
-
-  report
-
-  gown
-
-  observe
-
-  check'
-bip_39_word_new_line_11: 'control
-
-  citizen
-
-  person
-
-  wasp
-
-  fork
-
-  spend
-
-  report
-
-  gown
-
-  observe
-
-  check
-
-  subject'
 bip_39_word_new_line_12: 'control
 
   citizen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'control
   citizen
 
   person'
-bip_39_word_new_line_4: 'control
-
-  citizen
-
-  person
-
-  wasp'
-bip_39_word_new_line_5: 'control
-
-  citizen
-
-  person
-
-  wasp
-
-  fork'
-bip_39_word_new_line_6: 'control
-
-  citizen
-
-  person
-
-  wasp
-
-  fork
-
-  spend'
-bip_39_word_new_line_7: 'control
-
-  citizen
-
-  person
-
-  wasp
-
-  fork
-
-  spend
-
-  report'
-bip_39_word_new_line_8: 'control
-
-  citizen
-
-  person
-
-  wasp
-
-  fork
-
-  spend
-
-  report
-
-  gown'
-bip_39_word_new_line_9: 'control
-
-  citizen
-
-  person
-
-  wasp
-
-  fork
-
-  spend
-
-  report
-
-  gown
-
-  observe'
-bip_39_word_no_space_1: control
-bip_39_word_no_space_10: controlcitizenpersonwaspforkspendreportgownobservecheck
-bip_39_word_no_space_11: controlcitizenpersonwaspforkspendreportgownobservechecksubject
 bip_39_word_no_space_12: controlcitizenpersonwaspforkspendreportgownobservechecksubjectaccess
 bip_39_word_no_space_2: controlcitizen
 bip_39_word_no_space_3: controlcitizenperson
-bip_39_word_no_space_4: controlcitizenpersonwasp
-bip_39_word_no_space_5: controlcitizenpersonwaspfork
-bip_39_word_no_space_6: controlcitizenpersonwaspforkspend
-bip_39_word_no_space_7: controlcitizenpersonwaspforkspendreport
-bip_39_word_no_space_8: controlcitizenpersonwaspforkspendreportgown
-bip_39_word_no_space_9: controlcitizenpersonwaspforkspendreportgownobserve
-bip_39_word_space_0:
-- control
-- citizen
-- person
-- wasp
-- fork
-- spend
-- report
-- gown
-- observe
-- check
-- subject
-- access
-bip_39_word_space_1: control
-bip_39_word_space_10: control citizen person wasp fork spend report gown observe check
-bip_39_word_space_11: control citizen person wasp fork spend report gown observe check
-  subject
 bip_39_word_space_12: control citizen person wasp fork spend report gown observe check
   subject access
 bip_39_word_space_2: control citizen
 bip_39_word_space_3: control citizen person
-bip_39_word_space_4: control citizen person wasp
-bip_39_word_space_5: control citizen person wasp fork
-bip_39_word_space_6: control citizen person wasp fork spend
-bip_39_word_space_7: control citizen person wasp fork spend report
-bip_39_word_space_8: control citizen person wasp fork spend report gown
-bip_39_word_space_9: control citizen person wasp fork spend report gown observe
-bip_39_word_underscore_1: control
-bip_39_word_underscore_10: control_citizen_person_wasp_fork_spend_report_gown_observe_check
-bip_39_word_underscore_11: control_citizen_person_wasp_fork_spend_report_gown_observe_check_subject
 bip_39_word_underscore_12: control_citizen_person_wasp_fork_spend_report_gown_observe_check_subject_access
 bip_39_word_underscore_2: control_citizen
 bip_39_word_underscore_3: control_citizen_person
-bip_39_word_underscore_4: control_citizen_person_wasp
-bip_39_word_underscore_5: control_citizen_person_wasp_fork
-bip_39_word_underscore_6: control_citizen_person_wasp_fork_spend
-bip_39_word_underscore_7: control_citizen_person_wasp_fork_spend_report
-bip_39_word_underscore_8: control_citizen_person_wasp_fork_spend_report_gown
-bip_39_word_underscore_9: control_citizen_person_wasp_fork_spend_report_gown_observe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

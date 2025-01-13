@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scatter
-bip_39_word_dash_10: scatter-base-kangaroo-excite-image-boring-shuffle-visit-because-hedgehog
-bip_39_word_dash_11: scatter-base-kangaroo-excite-image-boring-shuffle-visit-because-hedgehog-syrup
 bip_39_word_dash_12: scatter-base-kangaroo-excite-image-boring-shuffle-visit-because-hedgehog-syrup-armor
 bip_39_word_dash_2: scatter-base
 bip_39_word_dash_3: scatter-base-kangaroo
-bip_39_word_dash_4: scatter-base-kangaroo-excite
-bip_39_word_dash_5: scatter-base-kangaroo-excite-image
-bip_39_word_dash_6: scatter-base-kangaroo-excite-image-boring
-bip_39_word_dash_7: scatter-base-kangaroo-excite-image-boring-shuffle
-bip_39_word_dash_8: scatter-base-kangaroo-excite-image-boring-shuffle-visit
-bip_39_word_dash_9: scatter-base-kangaroo-excite-image-boring-shuffle-visit-because
-bip_39_word_new_br_1: scatter
-bip_39_word_new_br_10: scatter<br>base<br>kangaroo<br>excite<br>image<br>boring<br>shuffle<br>visit<br>because<br>hedgehog
-bip_39_word_new_br_11: scatter<br>base<br>kangaroo<br>excite<br>image<br>boring<br>shuffle<br>visit<br>because<br>hedgehog<br>syrup
 bip_39_word_new_br_12: scatter<br>base<br>kangaroo<br>excite<br>image<br>boring<br>shuffle<br>visit<br>because<br>hedgehog<br>syrup<br>armor
 bip_39_word_new_br_2: scatter<br>base
 bip_39_word_new_br_3: scatter<br>base<br>kangaroo
-bip_39_word_new_br_4: scatter<br>base<br>kangaroo<br>excite
-bip_39_word_new_br_5: scatter<br>base<br>kangaroo<br>excite<br>image
-bip_39_word_new_br_6: scatter<br>base<br>kangaroo<br>excite<br>image<br>boring
-bip_39_word_new_br_7: scatter<br>base<br>kangaroo<br>excite<br>image<br>boring<br>shuffle
-bip_39_word_new_br_8: scatter<br>base<br>kangaroo<br>excite<br>image<br>boring<br>shuffle<br>visit
-bip_39_word_new_br_9: scatter<br>base<br>kangaroo<br>excite<br>image<br>boring<br>shuffle<br>visit<br>because
-bip_39_word_new_line_1: scatter
-bip_39_word_new_line_10: 'scatter
-
-  base
-
-  kangaroo
-
-  excite
-
-  image
-
-  boring
-
-  shuffle
-
-  visit
-
-  because
-
-  hedgehog'
-bip_39_word_new_line_11: 'scatter
-
-  base
-
-  kangaroo
-
-  excite
-
-  image
-
-  boring
-
-  shuffle
-
-  visit
-
-  because
-
-  hedgehog
-
-  syrup'
 bip_39_word_new_line_12: 'scatter
 
   base
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scatter
   base
 
   kangaroo'
-bip_39_word_new_line_4: 'scatter
-
-  base
-
-  kangaroo
-
-  excite'
-bip_39_word_new_line_5: 'scatter
-
-  base
-
-  kangaroo
-
-  excite
-
-  image'
-bip_39_word_new_line_6: 'scatter
-
-  base
-
-  kangaroo
-
-  excite
-
-  image
-
-  boring'
-bip_39_word_new_line_7: 'scatter
-
-  base
-
-  kangaroo
-
-  excite
-
-  image
-
-  boring
-
-  shuffle'
-bip_39_word_new_line_8: 'scatter
-
-  base
-
-  kangaroo
-
-  excite
-
-  image
-
-  boring
-
-  shuffle
-
-  visit'
-bip_39_word_new_line_9: 'scatter
-
-  base
-
-  kangaroo
-
-  excite
-
-  image
-
-  boring
-
-  shuffle
-
-  visit
-
-  because'
-bip_39_word_no_space_1: scatter
-bip_39_word_no_space_10: scatterbasekangarooexciteimageboringshufflevisitbecausehedgehog
-bip_39_word_no_space_11: scatterbasekangarooexciteimageboringshufflevisitbecausehedgehogsyrup
 bip_39_word_no_space_12: scatterbasekangarooexciteimageboringshufflevisitbecausehedgehogsyruparmor
 bip_39_word_no_space_2: scatterbase
 bip_39_word_no_space_3: scatterbasekangaroo
-bip_39_word_no_space_4: scatterbasekangarooexcite
-bip_39_word_no_space_5: scatterbasekangarooexciteimage
-bip_39_word_no_space_6: scatterbasekangarooexciteimageboring
-bip_39_word_no_space_7: scatterbasekangarooexciteimageboringshuffle
-bip_39_word_no_space_8: scatterbasekangarooexciteimageboringshufflevisit
-bip_39_word_no_space_9: scatterbasekangarooexciteimageboringshufflevisitbecause
-bip_39_word_space_0:
-- scatter
-- base
-- kangaroo
-- excite
-- image
-- boring
-- shuffle
-- visit
-- because
-- hedgehog
-- syrup
-- armor
-bip_39_word_space_1: scatter
-bip_39_word_space_10: scatter base kangaroo excite image boring shuffle visit because
-  hedgehog
-bip_39_word_space_11: scatter base kangaroo excite image boring shuffle visit because
-  hedgehog syrup
 bip_39_word_space_12: scatter base kangaroo excite image boring shuffle visit because
   hedgehog syrup armor
 bip_39_word_space_2: scatter base
 bip_39_word_space_3: scatter base kangaroo
-bip_39_word_space_4: scatter base kangaroo excite
-bip_39_word_space_5: scatter base kangaroo excite image
-bip_39_word_space_6: scatter base kangaroo excite image boring
-bip_39_word_space_7: scatter base kangaroo excite image boring shuffle
-bip_39_word_space_8: scatter base kangaroo excite image boring shuffle visit
-bip_39_word_space_9: scatter base kangaroo excite image boring shuffle visit because
-bip_39_word_underscore_1: scatter
-bip_39_word_underscore_10: scatter_base_kangaroo_excite_image_boring_shuffle_visit_because_hedgehog
-bip_39_word_underscore_11: scatter_base_kangaroo_excite_image_boring_shuffle_visit_because_hedgehog_syrup
 bip_39_word_underscore_12: scatter_base_kangaroo_excite_image_boring_shuffle_visit_because_hedgehog_syrup_armor
 bip_39_word_underscore_2: scatter_base
 bip_39_word_underscore_3: scatter_base_kangaroo
-bip_39_word_underscore_4: scatter_base_kangaroo_excite
-bip_39_word_underscore_5: scatter_base_kangaroo_excite_image
-bip_39_word_underscore_6: scatter_base_kangaroo_excite_image_boring
-bip_39_word_underscore_7: scatter_base_kangaroo_excite_image_boring_shuffle
-bip_39_word_underscore_8: scatter_base_kangaroo_excite_image_boring_shuffle_visit
-bip_39_word_underscore_9: scatter_base_kangaroo_excite_image_boring_shuffle_visit_because
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

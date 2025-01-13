@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scorpion
-bip_39_word_dash_10: scorpion-clog-pilot-maid-spread-inch-dish-chimney-book-deny
-bip_39_word_dash_11: scorpion-clog-pilot-maid-spread-inch-dish-chimney-book-deny-maid
 bip_39_word_dash_12: scorpion-clog-pilot-maid-spread-inch-dish-chimney-book-deny-maid-aunt
 bip_39_word_dash_2: scorpion-clog
 bip_39_word_dash_3: scorpion-clog-pilot
-bip_39_word_dash_4: scorpion-clog-pilot-maid
-bip_39_word_dash_5: scorpion-clog-pilot-maid-spread
-bip_39_word_dash_6: scorpion-clog-pilot-maid-spread-inch
-bip_39_word_dash_7: scorpion-clog-pilot-maid-spread-inch-dish
-bip_39_word_dash_8: scorpion-clog-pilot-maid-spread-inch-dish-chimney
-bip_39_word_dash_9: scorpion-clog-pilot-maid-spread-inch-dish-chimney-book
-bip_39_word_new_br_1: scorpion
-bip_39_word_new_br_10: scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch<br>dish<br>chimney<br>book<br>deny
-bip_39_word_new_br_11: scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch<br>dish<br>chimney<br>book<br>deny<br>maid
 bip_39_word_new_br_12: scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch<br>dish<br>chimney<br>book<br>deny<br>maid<br>aunt
 bip_39_word_new_br_2: scorpion<br>clog
 bip_39_word_new_br_3: scorpion<br>clog<br>pilot
-bip_39_word_new_br_4: scorpion<br>clog<br>pilot<br>maid
-bip_39_word_new_br_5: scorpion<br>clog<br>pilot<br>maid<br>spread
-bip_39_word_new_br_6: scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch
-bip_39_word_new_br_7: scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch<br>dish
-bip_39_word_new_br_8: scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch<br>dish<br>chimney
-bip_39_word_new_br_9: scorpion<br>clog<br>pilot<br>maid<br>spread<br>inch<br>dish<br>chimney<br>book
-bip_39_word_new_line_1: scorpion
-bip_39_word_new_line_10: 'scorpion
-
-  clog
-
-  pilot
-
-  maid
-
-  spread
-
-  inch
-
-  dish
-
-  chimney
-
-  book
-
-  deny'
-bip_39_word_new_line_11: 'scorpion
-
-  clog
-
-  pilot
-
-  maid
-
-  spread
-
-  inch
-
-  dish
-
-  chimney
-
-  book
-
-  deny
-
-  maid'
 bip_39_word_new_line_12: 'scorpion
 
   clog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scorpion
   clog
 
   pilot'
-bip_39_word_new_line_4: 'scorpion
-
-  clog
-
-  pilot
-
-  maid'
-bip_39_word_new_line_5: 'scorpion
-
-  clog
-
-  pilot
-
-  maid
-
-  spread'
-bip_39_word_new_line_6: 'scorpion
-
-  clog
-
-  pilot
-
-  maid
-
-  spread
-
-  inch'
-bip_39_word_new_line_7: 'scorpion
-
-  clog
-
-  pilot
-
-  maid
-
-  spread
-
-  inch
-
-  dish'
-bip_39_word_new_line_8: 'scorpion
-
-  clog
-
-  pilot
-
-  maid
-
-  spread
-
-  inch
-
-  dish
-
-  chimney'
-bip_39_word_new_line_9: 'scorpion
-
-  clog
-
-  pilot
-
-  maid
-
-  spread
-
-  inch
-
-  dish
-
-  chimney
-
-  book'
-bip_39_word_no_space_1: scorpion
-bip_39_word_no_space_10: scorpionclogpilotmaidspreadinchdishchimneybookdeny
-bip_39_word_no_space_11: scorpionclogpilotmaidspreadinchdishchimneybookdenymaid
 bip_39_word_no_space_12: scorpionclogpilotmaidspreadinchdishchimneybookdenymaidaunt
 bip_39_word_no_space_2: scorpionclog
 bip_39_word_no_space_3: scorpionclogpilot
-bip_39_word_no_space_4: scorpionclogpilotmaid
-bip_39_word_no_space_5: scorpionclogpilotmaidspread
-bip_39_word_no_space_6: scorpionclogpilotmaidspreadinch
-bip_39_word_no_space_7: scorpionclogpilotmaidspreadinchdish
-bip_39_word_no_space_8: scorpionclogpilotmaidspreadinchdishchimney
-bip_39_word_no_space_9: scorpionclogpilotmaidspreadinchdishchimneybook
-bip_39_word_space_0:
-- scorpion
-- clog
-- pilot
-- maid
-- spread
-- inch
-- dish
-- chimney
-- book
-- deny
-- maid
-- aunt
-bip_39_word_space_1: scorpion
-bip_39_word_space_10: scorpion clog pilot maid spread inch dish chimney book deny
-bip_39_word_space_11: scorpion clog pilot maid spread inch dish chimney book deny
-  maid
 bip_39_word_space_12: scorpion clog pilot maid spread inch dish chimney book deny
   maid aunt
 bip_39_word_space_2: scorpion clog
 bip_39_word_space_3: scorpion clog pilot
-bip_39_word_space_4: scorpion clog pilot maid
-bip_39_word_space_5: scorpion clog pilot maid spread
-bip_39_word_space_6: scorpion clog pilot maid spread inch
-bip_39_word_space_7: scorpion clog pilot maid spread inch dish
-bip_39_word_space_8: scorpion clog pilot maid spread inch dish chimney
-bip_39_word_space_9: scorpion clog pilot maid spread inch dish chimney book
-bip_39_word_underscore_1: scorpion
-bip_39_word_underscore_10: scorpion_clog_pilot_maid_spread_inch_dish_chimney_book_deny
-bip_39_word_underscore_11: scorpion_clog_pilot_maid_spread_inch_dish_chimney_book_deny_maid
 bip_39_word_underscore_12: scorpion_clog_pilot_maid_spread_inch_dish_chimney_book_deny_maid_aunt
 bip_39_word_underscore_2: scorpion_clog
 bip_39_word_underscore_3: scorpion_clog_pilot
-bip_39_word_underscore_4: scorpion_clog_pilot_maid
-bip_39_word_underscore_5: scorpion_clog_pilot_maid_spread
-bip_39_word_underscore_6: scorpion_clog_pilot_maid_spread_inch
-bip_39_word_underscore_7: scorpion_clog_pilot_maid_spread_inch_dish
-bip_39_word_underscore_8: scorpion_clog_pilot_maid_spread_inch_dish_chimney
-bip_39_word_underscore_9: scorpion_clog_pilot_maid_spread_inch_dish_chimney_book
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

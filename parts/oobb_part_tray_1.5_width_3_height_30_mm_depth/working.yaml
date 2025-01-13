@@ -1,68 +1,9 @@
-bip_39_word_dash_1: monkey
-bip_39_word_dash_10: monkey-cheap-loyal-life-lady-deer-gorilla-protect-coffee-path
-bip_39_word_dash_11: monkey-cheap-loyal-life-lady-deer-gorilla-protect-coffee-path-outer
 bip_39_word_dash_12: monkey-cheap-loyal-life-lady-deer-gorilla-protect-coffee-path-outer-absurd
 bip_39_word_dash_2: monkey-cheap
 bip_39_word_dash_3: monkey-cheap-loyal
-bip_39_word_dash_4: monkey-cheap-loyal-life
-bip_39_word_dash_5: monkey-cheap-loyal-life-lady
-bip_39_word_dash_6: monkey-cheap-loyal-life-lady-deer
-bip_39_word_dash_7: monkey-cheap-loyal-life-lady-deer-gorilla
-bip_39_word_dash_8: monkey-cheap-loyal-life-lady-deer-gorilla-protect
-bip_39_word_dash_9: monkey-cheap-loyal-life-lady-deer-gorilla-protect-coffee
-bip_39_word_new_br_1: monkey
-bip_39_word_new_br_10: monkey<br>cheap<br>loyal<br>life<br>lady<br>deer<br>gorilla<br>protect<br>coffee<br>path
-bip_39_word_new_br_11: monkey<br>cheap<br>loyal<br>life<br>lady<br>deer<br>gorilla<br>protect<br>coffee<br>path<br>outer
 bip_39_word_new_br_12: monkey<br>cheap<br>loyal<br>life<br>lady<br>deer<br>gorilla<br>protect<br>coffee<br>path<br>outer<br>absurd
 bip_39_word_new_br_2: monkey<br>cheap
 bip_39_word_new_br_3: monkey<br>cheap<br>loyal
-bip_39_word_new_br_4: monkey<br>cheap<br>loyal<br>life
-bip_39_word_new_br_5: monkey<br>cheap<br>loyal<br>life<br>lady
-bip_39_word_new_br_6: monkey<br>cheap<br>loyal<br>life<br>lady<br>deer
-bip_39_word_new_br_7: monkey<br>cheap<br>loyal<br>life<br>lady<br>deer<br>gorilla
-bip_39_word_new_br_8: monkey<br>cheap<br>loyal<br>life<br>lady<br>deer<br>gorilla<br>protect
-bip_39_word_new_br_9: monkey<br>cheap<br>loyal<br>life<br>lady<br>deer<br>gorilla<br>protect<br>coffee
-bip_39_word_new_line_1: monkey
-bip_39_word_new_line_10: 'monkey
-
-  cheap
-
-  loyal
-
-  life
-
-  lady
-
-  deer
-
-  gorilla
-
-  protect
-
-  coffee
-
-  path'
-bip_39_word_new_line_11: 'monkey
-
-  cheap
-
-  loyal
-
-  life
-
-  lady
-
-  deer
-
-  gorilla
-
-  protect
-
-  coffee
-
-  path
-
-  outer'
 bip_39_word_new_line_12: 'monkey
 
   cheap
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'monkey
   cheap
 
   loyal'
-bip_39_word_new_line_4: 'monkey
-
-  cheap
-
-  loyal
-
-  life'
-bip_39_word_new_line_5: 'monkey
-
-  cheap
-
-  loyal
-
-  life
-
-  lady'
-bip_39_word_new_line_6: 'monkey
-
-  cheap
-
-  loyal
-
-  life
-
-  lady
-
-  deer'
-bip_39_word_new_line_7: 'monkey
-
-  cheap
-
-  loyal
-
-  life
-
-  lady
-
-  deer
-
-  gorilla'
-bip_39_word_new_line_8: 'monkey
-
-  cheap
-
-  loyal
-
-  life
-
-  lady
-
-  deer
-
-  gorilla
-
-  protect'
-bip_39_word_new_line_9: 'monkey
-
-  cheap
-
-  loyal
-
-  life
-
-  lady
-
-  deer
-
-  gorilla
-
-  protect
-
-  coffee'
-bip_39_word_no_space_1: monkey
-bip_39_word_no_space_10: monkeycheaployallifeladydeergorillaprotectcoffeepath
-bip_39_word_no_space_11: monkeycheaployallifeladydeergorillaprotectcoffeepathouter
 bip_39_word_no_space_12: monkeycheaployallifeladydeergorillaprotectcoffeepathouterabsurd
 bip_39_word_no_space_2: monkeycheap
 bip_39_word_no_space_3: monkeycheaployal
-bip_39_word_no_space_4: monkeycheaployallife
-bip_39_word_no_space_5: monkeycheaployallifelady
-bip_39_word_no_space_6: monkeycheaployallifeladydeer
-bip_39_word_no_space_7: monkeycheaployallifeladydeergorilla
-bip_39_word_no_space_8: monkeycheaployallifeladydeergorillaprotect
-bip_39_word_no_space_9: monkeycheaployallifeladydeergorillaprotectcoffee
-bip_39_word_space_0:
-- monkey
-- cheap
-- loyal
-- life
-- lady
-- deer
-- gorilla
-- protect
-- coffee
-- path
-- outer
-- absurd
-bip_39_word_space_1: monkey
-bip_39_word_space_10: monkey cheap loyal life lady deer gorilla protect coffee path
-bip_39_word_space_11: monkey cheap loyal life lady deer gorilla protect coffee path
-  outer
 bip_39_word_space_12: monkey cheap loyal life lady deer gorilla protect coffee path
   outer absurd
 bip_39_word_space_2: monkey cheap
 bip_39_word_space_3: monkey cheap loyal
-bip_39_word_space_4: monkey cheap loyal life
-bip_39_word_space_5: monkey cheap loyal life lady
-bip_39_word_space_6: monkey cheap loyal life lady deer
-bip_39_word_space_7: monkey cheap loyal life lady deer gorilla
-bip_39_word_space_8: monkey cheap loyal life lady deer gorilla protect
-bip_39_word_space_9: monkey cheap loyal life lady deer gorilla protect coffee
-bip_39_word_underscore_1: monkey
-bip_39_word_underscore_10: monkey_cheap_loyal_life_lady_deer_gorilla_protect_coffee_path
-bip_39_word_underscore_11: monkey_cheap_loyal_life_lady_deer_gorilla_protect_coffee_path_outer
 bip_39_word_underscore_12: monkey_cheap_loyal_life_lady_deer_gorilla_protect_coffee_path_outer_absurd
 bip_39_word_underscore_2: monkey_cheap
 bip_39_word_underscore_3: monkey_cheap_loyal
-bip_39_word_underscore_4: monkey_cheap_loyal_life
-bip_39_word_underscore_5: monkey_cheap_loyal_life_lady
-bip_39_word_underscore_6: monkey_cheap_loyal_life_lady_deer
-bip_39_word_underscore_7: monkey_cheap_loyal_life_lady_deer_gorilla
-bip_39_word_underscore_8: monkey_cheap_loyal_life_lady_deer_gorilla_protect
-bip_39_word_underscore_9: monkey_cheap_loyal_life_lady_deer_gorilla_protect_coffee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

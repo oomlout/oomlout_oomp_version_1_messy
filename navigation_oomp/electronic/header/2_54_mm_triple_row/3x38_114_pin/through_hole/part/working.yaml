@@ -1,68 +1,9 @@
-bip_39_word_dash_1: adult
-bip_39_word_dash_10: adult-kitchen-torch-roast-resource-machine-sleep-cruise-glare-damp
-bip_39_word_dash_11: adult-kitchen-torch-roast-resource-machine-sleep-cruise-glare-damp-sound
 bip_39_word_dash_12: adult-kitchen-torch-roast-resource-machine-sleep-cruise-glare-damp-sound-aspect
 bip_39_word_dash_2: adult-kitchen
 bip_39_word_dash_3: adult-kitchen-torch
-bip_39_word_dash_4: adult-kitchen-torch-roast
-bip_39_word_dash_5: adult-kitchen-torch-roast-resource
-bip_39_word_dash_6: adult-kitchen-torch-roast-resource-machine
-bip_39_word_dash_7: adult-kitchen-torch-roast-resource-machine-sleep
-bip_39_word_dash_8: adult-kitchen-torch-roast-resource-machine-sleep-cruise
-bip_39_word_dash_9: adult-kitchen-torch-roast-resource-machine-sleep-cruise-glare
-bip_39_word_new_br_1: adult
-bip_39_word_new_br_10: adult<br>kitchen<br>torch<br>roast<br>resource<br>machine<br>sleep<br>cruise<br>glare<br>damp
-bip_39_word_new_br_11: adult<br>kitchen<br>torch<br>roast<br>resource<br>machine<br>sleep<br>cruise<br>glare<br>damp<br>sound
 bip_39_word_new_br_12: adult<br>kitchen<br>torch<br>roast<br>resource<br>machine<br>sleep<br>cruise<br>glare<br>damp<br>sound<br>aspect
 bip_39_word_new_br_2: adult<br>kitchen
 bip_39_word_new_br_3: adult<br>kitchen<br>torch
-bip_39_word_new_br_4: adult<br>kitchen<br>torch<br>roast
-bip_39_word_new_br_5: adult<br>kitchen<br>torch<br>roast<br>resource
-bip_39_word_new_br_6: adult<br>kitchen<br>torch<br>roast<br>resource<br>machine
-bip_39_word_new_br_7: adult<br>kitchen<br>torch<br>roast<br>resource<br>machine<br>sleep
-bip_39_word_new_br_8: adult<br>kitchen<br>torch<br>roast<br>resource<br>machine<br>sleep<br>cruise
-bip_39_word_new_br_9: adult<br>kitchen<br>torch<br>roast<br>resource<br>machine<br>sleep<br>cruise<br>glare
-bip_39_word_new_line_1: adult
-bip_39_word_new_line_10: 'adult
-
-  kitchen
-
-  torch
-
-  roast
-
-  resource
-
-  machine
-
-  sleep
-
-  cruise
-
-  glare
-
-  damp'
-bip_39_word_new_line_11: 'adult
-
-  kitchen
-
-  torch
-
-  roast
-
-  resource
-
-  machine
-
-  sleep
-
-  cruise
-
-  glare
-
-  damp
-
-  sound'
 bip_39_word_new_line_12: 'adult
 
   kitchen
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'adult
   kitchen
 
   torch'
-bip_39_word_new_line_4: 'adult
-
-  kitchen
-
-  torch
-
-  roast'
-bip_39_word_new_line_5: 'adult
-
-  kitchen
-
-  torch
-
-  roast
-
-  resource'
-bip_39_word_new_line_6: 'adult
-
-  kitchen
-
-  torch
-
-  roast
-
-  resource
-
-  machine'
-bip_39_word_new_line_7: 'adult
-
-  kitchen
-
-  torch
-
-  roast
-
-  resource
-
-  machine
-
-  sleep'
-bip_39_word_new_line_8: 'adult
-
-  kitchen
-
-  torch
-
-  roast
-
-  resource
-
-  machine
-
-  sleep
-
-  cruise'
-bip_39_word_new_line_9: 'adult
-
-  kitchen
-
-  torch
-
-  roast
-
-  resource
-
-  machine
-
-  sleep
-
-  cruise
-
-  glare'
-bip_39_word_no_space_1: adult
-bip_39_word_no_space_10: adultkitchentorchroastresourcemachinesleepcruiseglaredamp
-bip_39_word_no_space_11: adultkitchentorchroastresourcemachinesleepcruiseglaredampsound
 bip_39_word_no_space_12: adultkitchentorchroastresourcemachinesleepcruiseglaredampsoundaspect
 bip_39_word_no_space_2: adultkitchen
 bip_39_word_no_space_3: adultkitchentorch
-bip_39_word_no_space_4: adultkitchentorchroast
-bip_39_word_no_space_5: adultkitchentorchroastresource
-bip_39_word_no_space_6: adultkitchentorchroastresourcemachine
-bip_39_word_no_space_7: adultkitchentorchroastresourcemachinesleep
-bip_39_word_no_space_8: adultkitchentorchroastresourcemachinesleepcruise
-bip_39_word_no_space_9: adultkitchentorchroastresourcemachinesleepcruiseglare
-bip_39_word_space_0:
-- adult
-- kitchen
-- torch
-- roast
-- resource
-- machine
-- sleep
-- cruise
-- glare
-- damp
-- sound
-- aspect
-bip_39_word_space_1: adult
-bip_39_word_space_10: adult kitchen torch roast resource machine sleep cruise glare
-  damp
-bip_39_word_space_11: adult kitchen torch roast resource machine sleep cruise glare
-  damp sound
 bip_39_word_space_12: adult kitchen torch roast resource machine sleep cruise glare
   damp sound aspect
 bip_39_word_space_2: adult kitchen
 bip_39_word_space_3: adult kitchen torch
-bip_39_word_space_4: adult kitchen torch roast
-bip_39_word_space_5: adult kitchen torch roast resource
-bip_39_word_space_6: adult kitchen torch roast resource machine
-bip_39_word_space_7: adult kitchen torch roast resource machine sleep
-bip_39_word_space_8: adult kitchen torch roast resource machine sleep cruise
-bip_39_word_space_9: adult kitchen torch roast resource machine sleep cruise glare
-bip_39_word_underscore_1: adult
-bip_39_word_underscore_10: adult_kitchen_torch_roast_resource_machine_sleep_cruise_glare_damp
-bip_39_word_underscore_11: adult_kitchen_torch_roast_resource_machine_sleep_cruise_glare_damp_sound
 bip_39_word_underscore_12: adult_kitchen_torch_roast_resource_machine_sleep_cruise_glare_damp_sound_aspect
 bip_39_word_underscore_2: adult_kitchen
 bip_39_word_underscore_3: adult_kitchen_torch
-bip_39_word_underscore_4: adult_kitchen_torch_roast
-bip_39_word_underscore_5: adult_kitchen_torch_roast_resource
-bip_39_word_underscore_6: adult_kitchen_torch_roast_resource_machine
-bip_39_word_underscore_7: adult_kitchen_torch_roast_resource_machine_sleep
-bip_39_word_underscore_8: adult_kitchen_torch_roast_resource_machine_sleep_cruise
-bip_39_word_underscore_9: adult_kitchen_torch_roast_resource_machine_sleep_cruise_glare
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

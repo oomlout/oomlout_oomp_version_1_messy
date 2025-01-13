@@ -1,68 +1,9 @@
-bip_39_word_dash_1: small
-bip_39_word_dash_10: small-peace-chef-force-atom-right-winner-assume-sample-vanish
-bip_39_word_dash_11: small-peace-chef-force-atom-right-winner-assume-sample-vanish-stable
 bip_39_word_dash_12: small-peace-chef-force-atom-right-winner-assume-sample-vanish-stable-accident
 bip_39_word_dash_2: small-peace
 bip_39_word_dash_3: small-peace-chef
-bip_39_word_dash_4: small-peace-chef-force
-bip_39_word_dash_5: small-peace-chef-force-atom
-bip_39_word_dash_6: small-peace-chef-force-atom-right
-bip_39_word_dash_7: small-peace-chef-force-atom-right-winner
-bip_39_word_dash_8: small-peace-chef-force-atom-right-winner-assume
-bip_39_word_dash_9: small-peace-chef-force-atom-right-winner-assume-sample
-bip_39_word_new_br_1: small
-bip_39_word_new_br_10: small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample<br>vanish
-bip_39_word_new_br_11: small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample<br>vanish<br>stable
 bip_39_word_new_br_12: small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample<br>vanish<br>stable<br>accident
 bip_39_word_new_br_2: small<br>peace
 bip_39_word_new_br_3: small<br>peace<br>chef
-bip_39_word_new_br_4: small<br>peace<br>chef<br>force
-bip_39_word_new_br_5: small<br>peace<br>chef<br>force<br>atom
-bip_39_word_new_br_6: small<br>peace<br>chef<br>force<br>atom<br>right
-bip_39_word_new_br_7: small<br>peace<br>chef<br>force<br>atom<br>right<br>winner
-bip_39_word_new_br_8: small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume
-bip_39_word_new_br_9: small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample
-bip_39_word_new_line_1: small
-bip_39_word_new_line_10: 'small
-
-  peace
-
-  chef
-
-  force
-
-  atom
-
-  right
-
-  winner
-
-  assume
-
-  sample
-
-  vanish'
-bip_39_word_new_line_11: 'small
-
-  peace
-
-  chef
-
-  force
-
-  atom
-
-  right
-
-  winner
-
-  assume
-
-  sample
-
-  vanish
-
-  stable'
 bip_39_word_new_line_12: 'small
 
   peace
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'small
   peace
 
   chef'
-bip_39_word_new_line_4: 'small
-
-  peace
-
-  chef
-
-  force'
-bip_39_word_new_line_5: 'small
-
-  peace
-
-  chef
-
-  force
-
-  atom'
-bip_39_word_new_line_6: 'small
-
-  peace
-
-  chef
-
-  force
-
-  atom
-
-  right'
-bip_39_word_new_line_7: 'small
-
-  peace
-
-  chef
-
-  force
-
-  atom
-
-  right
-
-  winner'
-bip_39_word_new_line_8: 'small
-
-  peace
-
-  chef
-
-  force
-
-  atom
-
-  right
-
-  winner
-
-  assume'
-bip_39_word_new_line_9: 'small
-
-  peace
-
-  chef
-
-  force
-
-  atom
-
-  right
-
-  winner
-
-  assume
-
-  sample'
-bip_39_word_no_space_1: small
-bip_39_word_no_space_10: smallpeacechefforceatomrightwinnerassumesamplevanish
-bip_39_word_no_space_11: smallpeacechefforceatomrightwinnerassumesamplevanishstable
 bip_39_word_no_space_12: smallpeacechefforceatomrightwinnerassumesamplevanishstableaccident
 bip_39_word_no_space_2: smallpeace
 bip_39_word_no_space_3: smallpeacechef
-bip_39_word_no_space_4: smallpeacechefforce
-bip_39_word_no_space_5: smallpeacechefforceatom
-bip_39_word_no_space_6: smallpeacechefforceatomright
-bip_39_word_no_space_7: smallpeacechefforceatomrightwinner
-bip_39_word_no_space_8: smallpeacechefforceatomrightwinnerassume
-bip_39_word_no_space_9: smallpeacechefforceatomrightwinnerassumesample
-bip_39_word_space_0:
-- small
-- peace
-- chef
-- force
-- atom
-- right
-- winner
-- assume
-- sample
-- vanish
-- stable
-- accident
-bip_39_word_space_1: small
-bip_39_word_space_10: small peace chef force atom right winner assume sample vanish
-bip_39_word_space_11: small peace chef force atom right winner assume sample vanish
-  stable
 bip_39_word_space_12: small peace chef force atom right winner assume sample vanish
   stable accident
 bip_39_word_space_2: small peace
 bip_39_word_space_3: small peace chef
-bip_39_word_space_4: small peace chef force
-bip_39_word_space_5: small peace chef force atom
-bip_39_word_space_6: small peace chef force atom right
-bip_39_word_space_7: small peace chef force atom right winner
-bip_39_word_space_8: small peace chef force atom right winner assume
-bip_39_word_space_9: small peace chef force atom right winner assume sample
-bip_39_word_underscore_1: small
-bip_39_word_underscore_10: small_peace_chef_force_atom_right_winner_assume_sample_vanish
-bip_39_word_underscore_11: small_peace_chef_force_atom_right_winner_assume_sample_vanish_stable
 bip_39_word_underscore_12: small_peace_chef_force_atom_right_winner_assume_sample_vanish_stable_accident
 bip_39_word_underscore_2: small_peace
 bip_39_word_underscore_3: small_peace_chef
-bip_39_word_underscore_4: small_peace_chef_force
-bip_39_word_underscore_5: small_peace_chef_force_atom
-bip_39_word_underscore_6: small_peace_chef_force_atom_right
-bip_39_word_underscore_7: small_peace_chef_force_atom_right_winner
-bip_39_word_underscore_8: small_peace_chef_force_atom_right_winner_assume
-bip_39_word_underscore_9: small_peace_chef_force_atom_right_winner_assume_sample
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

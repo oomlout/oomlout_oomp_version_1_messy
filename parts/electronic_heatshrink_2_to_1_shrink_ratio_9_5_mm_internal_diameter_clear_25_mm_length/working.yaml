@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lumber
-bip_39_word_dash_10: lumber-shadow-island-shove-spare-talk-there-silly-expire-base
-bip_39_word_dash_11: lumber-shadow-island-shove-spare-talk-there-silly-expire-base-armor
 bip_39_word_dash_12: lumber-shadow-island-shove-spare-talk-there-silly-expire-base-armor-address
 bip_39_word_dash_2: lumber-shadow
 bip_39_word_dash_3: lumber-shadow-island
-bip_39_word_dash_4: lumber-shadow-island-shove
-bip_39_word_dash_5: lumber-shadow-island-shove-spare
-bip_39_word_dash_6: lumber-shadow-island-shove-spare-talk
-bip_39_word_dash_7: lumber-shadow-island-shove-spare-talk-there
-bip_39_word_dash_8: lumber-shadow-island-shove-spare-talk-there-silly
-bip_39_word_dash_9: lumber-shadow-island-shove-spare-talk-there-silly-expire
-bip_39_word_new_br_1: lumber
-bip_39_word_new_br_10: lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly<br>expire<br>base
-bip_39_word_new_br_11: lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly<br>expire<br>base<br>armor
 bip_39_word_new_br_12: lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly<br>expire<br>base<br>armor<br>address
 bip_39_word_new_br_2: lumber<br>shadow
 bip_39_word_new_br_3: lumber<br>shadow<br>island
-bip_39_word_new_br_4: lumber<br>shadow<br>island<br>shove
-bip_39_word_new_br_5: lumber<br>shadow<br>island<br>shove<br>spare
-bip_39_word_new_br_6: lumber<br>shadow<br>island<br>shove<br>spare<br>talk
-bip_39_word_new_br_7: lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there
-bip_39_word_new_br_8: lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly
-bip_39_word_new_br_9: lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly<br>expire
-bip_39_word_new_line_1: lumber
-bip_39_word_new_line_10: 'lumber
-
-  shadow
-
-  island
-
-  shove
-
-  spare
-
-  talk
-
-  there
-
-  silly
-
-  expire
-
-  base'
-bip_39_word_new_line_11: 'lumber
-
-  shadow
-
-  island
-
-  shove
-
-  spare
-
-  talk
-
-  there
-
-  silly
-
-  expire
-
-  base
-
-  armor'
 bip_39_word_new_line_12: 'lumber
 
   shadow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lumber
   shadow
 
   island'
-bip_39_word_new_line_4: 'lumber
-
-  shadow
-
-  island
-
-  shove'
-bip_39_word_new_line_5: 'lumber
-
-  shadow
-
-  island
-
-  shove
-
-  spare'
-bip_39_word_new_line_6: 'lumber
-
-  shadow
-
-  island
-
-  shove
-
-  spare
-
-  talk'
-bip_39_word_new_line_7: 'lumber
-
-  shadow
-
-  island
-
-  shove
-
-  spare
-
-  talk
-
-  there'
-bip_39_word_new_line_8: 'lumber
-
-  shadow
-
-  island
-
-  shove
-
-  spare
-
-  talk
-
-  there
-
-  silly'
-bip_39_word_new_line_9: 'lumber
-
-  shadow
-
-  island
-
-  shove
-
-  spare
-
-  talk
-
-  there
-
-  silly
-
-  expire'
-bip_39_word_no_space_1: lumber
-bip_39_word_no_space_10: lumbershadowislandshovesparetalktheresillyexpirebase
-bip_39_word_no_space_11: lumbershadowislandshovesparetalktheresillyexpirebasearmor
 bip_39_word_no_space_12: lumbershadowislandshovesparetalktheresillyexpirebasearmoraddress
 bip_39_word_no_space_2: lumbershadow
 bip_39_word_no_space_3: lumbershadowisland
-bip_39_word_no_space_4: lumbershadowislandshove
-bip_39_word_no_space_5: lumbershadowislandshovespare
-bip_39_word_no_space_6: lumbershadowislandshovesparetalk
-bip_39_word_no_space_7: lumbershadowislandshovesparetalkthere
-bip_39_word_no_space_8: lumbershadowislandshovesparetalktheresilly
-bip_39_word_no_space_9: lumbershadowislandshovesparetalktheresillyexpire
-bip_39_word_space_0:
-- lumber
-- shadow
-- island
-- shove
-- spare
-- talk
-- there
-- silly
-- expire
-- base
-- armor
-- address
-bip_39_word_space_1: lumber
-bip_39_word_space_10: lumber shadow island shove spare talk there silly expire base
-bip_39_word_space_11: lumber shadow island shove spare talk there silly expire base
-  armor
 bip_39_word_space_12: lumber shadow island shove spare talk there silly expire base
   armor address
 bip_39_word_space_2: lumber shadow
 bip_39_word_space_3: lumber shadow island
-bip_39_word_space_4: lumber shadow island shove
-bip_39_word_space_5: lumber shadow island shove spare
-bip_39_word_space_6: lumber shadow island shove spare talk
-bip_39_word_space_7: lumber shadow island shove spare talk there
-bip_39_word_space_8: lumber shadow island shove spare talk there silly
-bip_39_word_space_9: lumber shadow island shove spare talk there silly expire
-bip_39_word_underscore_1: lumber
-bip_39_word_underscore_10: lumber_shadow_island_shove_spare_talk_there_silly_expire_base
-bip_39_word_underscore_11: lumber_shadow_island_shove_spare_talk_there_silly_expire_base_armor
 bip_39_word_underscore_12: lumber_shadow_island_shove_spare_talk_there_silly_expire_base_armor_address
 bip_39_word_underscore_2: lumber_shadow
 bip_39_word_underscore_3: lumber_shadow_island
-bip_39_word_underscore_4: lumber_shadow_island_shove
-bip_39_word_underscore_5: lumber_shadow_island_shove_spare
-bip_39_word_underscore_6: lumber_shadow_island_shove_spare_talk
-bip_39_word_underscore_7: lumber_shadow_island_shove_spare_talk_there
-bip_39_word_underscore_8: lumber_shadow_island_shove_spare_talk_there_silly
-bip_39_word_underscore_9: lumber_shadow_island_shove_spare_talk_there_silly_expire
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

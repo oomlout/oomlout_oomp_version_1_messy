@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sentence
-bip_39_word_dash_10: sentence-naive-execute-call-addict-letter-gas-session-creek-fall
-bip_39_word_dash_11: sentence-naive-execute-call-addict-letter-gas-session-creek-fall-evil
 bip_39_word_dash_12: sentence-naive-execute-call-addict-letter-gas-session-creek-fall-evil-average
 bip_39_word_dash_2: sentence-naive
 bip_39_word_dash_3: sentence-naive-execute
-bip_39_word_dash_4: sentence-naive-execute-call
-bip_39_word_dash_5: sentence-naive-execute-call-addict
-bip_39_word_dash_6: sentence-naive-execute-call-addict-letter
-bip_39_word_dash_7: sentence-naive-execute-call-addict-letter-gas
-bip_39_word_dash_8: sentence-naive-execute-call-addict-letter-gas-session
-bip_39_word_dash_9: sentence-naive-execute-call-addict-letter-gas-session-creek
-bip_39_word_new_br_1: sentence
-bip_39_word_new_br_10: sentence<br>naive<br>execute<br>call<br>addict<br>letter<br>gas<br>session<br>creek<br>fall
-bip_39_word_new_br_11: sentence<br>naive<br>execute<br>call<br>addict<br>letter<br>gas<br>session<br>creek<br>fall<br>evil
 bip_39_word_new_br_12: sentence<br>naive<br>execute<br>call<br>addict<br>letter<br>gas<br>session<br>creek<br>fall<br>evil<br>average
 bip_39_word_new_br_2: sentence<br>naive
 bip_39_word_new_br_3: sentence<br>naive<br>execute
-bip_39_word_new_br_4: sentence<br>naive<br>execute<br>call
-bip_39_word_new_br_5: sentence<br>naive<br>execute<br>call<br>addict
-bip_39_word_new_br_6: sentence<br>naive<br>execute<br>call<br>addict<br>letter
-bip_39_word_new_br_7: sentence<br>naive<br>execute<br>call<br>addict<br>letter<br>gas
-bip_39_word_new_br_8: sentence<br>naive<br>execute<br>call<br>addict<br>letter<br>gas<br>session
-bip_39_word_new_br_9: sentence<br>naive<br>execute<br>call<br>addict<br>letter<br>gas<br>session<br>creek
-bip_39_word_new_line_1: sentence
-bip_39_word_new_line_10: 'sentence
-
-  naive
-
-  execute
-
-  call
-
-  addict
-
-  letter
-
-  gas
-
-  session
-
-  creek
-
-  fall'
-bip_39_word_new_line_11: 'sentence
-
-  naive
-
-  execute
-
-  call
-
-  addict
-
-  letter
-
-  gas
-
-  session
-
-  creek
-
-  fall
-
-  evil'
 bip_39_word_new_line_12: 'sentence
 
   naive
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sentence
   naive
 
   execute'
-bip_39_word_new_line_4: 'sentence
-
-  naive
-
-  execute
-
-  call'
-bip_39_word_new_line_5: 'sentence
-
-  naive
-
-  execute
-
-  call
-
-  addict'
-bip_39_word_new_line_6: 'sentence
-
-  naive
-
-  execute
-
-  call
-
-  addict
-
-  letter'
-bip_39_word_new_line_7: 'sentence
-
-  naive
-
-  execute
-
-  call
-
-  addict
-
-  letter
-
-  gas'
-bip_39_word_new_line_8: 'sentence
-
-  naive
-
-  execute
-
-  call
-
-  addict
-
-  letter
-
-  gas
-
-  session'
-bip_39_word_new_line_9: 'sentence
-
-  naive
-
-  execute
-
-  call
-
-  addict
-
-  letter
-
-  gas
-
-  session
-
-  creek'
-bip_39_word_no_space_1: sentence
-bip_39_word_no_space_10: sentencenaiveexecutecalladdictlettergassessioncreekfall
-bip_39_word_no_space_11: sentencenaiveexecutecalladdictlettergassessioncreekfallevil
 bip_39_word_no_space_12: sentencenaiveexecutecalladdictlettergassessioncreekfallevilaverage
 bip_39_word_no_space_2: sentencenaive
 bip_39_word_no_space_3: sentencenaiveexecute
-bip_39_word_no_space_4: sentencenaiveexecutecall
-bip_39_word_no_space_5: sentencenaiveexecutecalladdict
-bip_39_word_no_space_6: sentencenaiveexecutecalladdictletter
-bip_39_word_no_space_7: sentencenaiveexecutecalladdictlettergas
-bip_39_word_no_space_8: sentencenaiveexecutecalladdictlettergassession
-bip_39_word_no_space_9: sentencenaiveexecutecalladdictlettergassessioncreek
-bip_39_word_space_0:
-- sentence
-- naive
-- execute
-- call
-- addict
-- letter
-- gas
-- session
-- creek
-- fall
-- evil
-- average
-bip_39_word_space_1: sentence
-bip_39_word_space_10: sentence naive execute call addict letter gas session creek
-  fall
-bip_39_word_space_11: sentence naive execute call addict letter gas session creek
-  fall evil
 bip_39_word_space_12: sentence naive execute call addict letter gas session creek
   fall evil average
 bip_39_word_space_2: sentence naive
 bip_39_word_space_3: sentence naive execute
-bip_39_word_space_4: sentence naive execute call
-bip_39_word_space_5: sentence naive execute call addict
-bip_39_word_space_6: sentence naive execute call addict letter
-bip_39_word_space_7: sentence naive execute call addict letter gas
-bip_39_word_space_8: sentence naive execute call addict letter gas session
-bip_39_word_space_9: sentence naive execute call addict letter gas session creek
-bip_39_word_underscore_1: sentence
-bip_39_word_underscore_10: sentence_naive_execute_call_addict_letter_gas_session_creek_fall
-bip_39_word_underscore_11: sentence_naive_execute_call_addict_letter_gas_session_creek_fall_evil
 bip_39_word_underscore_12: sentence_naive_execute_call_addict_letter_gas_session_creek_fall_evil_average
 bip_39_word_underscore_2: sentence_naive
 bip_39_word_underscore_3: sentence_naive_execute
-bip_39_word_underscore_4: sentence_naive_execute_call
-bip_39_word_underscore_5: sentence_naive_execute_call_addict
-bip_39_word_underscore_6: sentence_naive_execute_call_addict_letter
-bip_39_word_underscore_7: sentence_naive_execute_call_addict_letter_gas
-bip_39_word_underscore_8: sentence_naive_execute_call_addict_letter_gas_session
-bip_39_word_underscore_9: sentence_naive_execute_call_addict_letter_gas_session_creek
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

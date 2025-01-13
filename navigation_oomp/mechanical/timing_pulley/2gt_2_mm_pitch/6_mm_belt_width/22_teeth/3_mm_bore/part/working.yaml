@@ -1,68 +1,9 @@
-bip_39_word_dash_1: peanut
-bip_39_word_dash_10: peanut-fork-hammer-vanish-east-battle-card-onion-harbor-monkey
-bip_39_word_dash_11: peanut-fork-hammer-vanish-east-battle-card-onion-harbor-monkey-oak
 bip_39_word_dash_12: peanut-fork-hammer-vanish-east-battle-card-onion-harbor-monkey-oak-acid
 bip_39_word_dash_2: peanut-fork
 bip_39_word_dash_3: peanut-fork-hammer
-bip_39_word_dash_4: peanut-fork-hammer-vanish
-bip_39_word_dash_5: peanut-fork-hammer-vanish-east
-bip_39_word_dash_6: peanut-fork-hammer-vanish-east-battle
-bip_39_word_dash_7: peanut-fork-hammer-vanish-east-battle-card
-bip_39_word_dash_8: peanut-fork-hammer-vanish-east-battle-card-onion
-bip_39_word_dash_9: peanut-fork-hammer-vanish-east-battle-card-onion-harbor
-bip_39_word_new_br_1: peanut
-bip_39_word_new_br_10: peanut<br>fork<br>hammer<br>vanish<br>east<br>battle<br>card<br>onion<br>harbor<br>monkey
-bip_39_word_new_br_11: peanut<br>fork<br>hammer<br>vanish<br>east<br>battle<br>card<br>onion<br>harbor<br>monkey<br>oak
 bip_39_word_new_br_12: peanut<br>fork<br>hammer<br>vanish<br>east<br>battle<br>card<br>onion<br>harbor<br>monkey<br>oak<br>acid
 bip_39_word_new_br_2: peanut<br>fork
 bip_39_word_new_br_3: peanut<br>fork<br>hammer
-bip_39_word_new_br_4: peanut<br>fork<br>hammer<br>vanish
-bip_39_word_new_br_5: peanut<br>fork<br>hammer<br>vanish<br>east
-bip_39_word_new_br_6: peanut<br>fork<br>hammer<br>vanish<br>east<br>battle
-bip_39_word_new_br_7: peanut<br>fork<br>hammer<br>vanish<br>east<br>battle<br>card
-bip_39_word_new_br_8: peanut<br>fork<br>hammer<br>vanish<br>east<br>battle<br>card<br>onion
-bip_39_word_new_br_9: peanut<br>fork<br>hammer<br>vanish<br>east<br>battle<br>card<br>onion<br>harbor
-bip_39_word_new_line_1: peanut
-bip_39_word_new_line_10: 'peanut
-
-  fork
-
-  hammer
-
-  vanish
-
-  east
-
-  battle
-
-  card
-
-  onion
-
-  harbor
-
-  monkey'
-bip_39_word_new_line_11: 'peanut
-
-  fork
-
-  hammer
-
-  vanish
-
-  east
-
-  battle
-
-  card
-
-  onion
-
-  harbor
-
-  monkey
-
-  oak'
 bip_39_word_new_line_12: 'peanut
 
   fork
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'peanut
   fork
 
   hammer'
-bip_39_word_new_line_4: 'peanut
-
-  fork
-
-  hammer
-
-  vanish'
-bip_39_word_new_line_5: 'peanut
-
-  fork
-
-  hammer
-
-  vanish
-
-  east'
-bip_39_word_new_line_6: 'peanut
-
-  fork
-
-  hammer
-
-  vanish
-
-  east
-
-  battle'
-bip_39_word_new_line_7: 'peanut
-
-  fork
-
-  hammer
-
-  vanish
-
-  east
-
-  battle
-
-  card'
-bip_39_word_new_line_8: 'peanut
-
-  fork
-
-  hammer
-
-  vanish
-
-  east
-
-  battle
-
-  card
-
-  onion'
-bip_39_word_new_line_9: 'peanut
-
-  fork
-
-  hammer
-
-  vanish
-
-  east
-
-  battle
-
-  card
-
-  onion
-
-  harbor'
-bip_39_word_no_space_1: peanut
-bip_39_word_no_space_10: peanutforkhammervanisheastbattlecardonionharbormonkey
-bip_39_word_no_space_11: peanutforkhammervanisheastbattlecardonionharbormonkeyoak
 bip_39_word_no_space_12: peanutforkhammervanisheastbattlecardonionharbormonkeyoakacid
 bip_39_word_no_space_2: peanutfork
 bip_39_word_no_space_3: peanutforkhammer
-bip_39_word_no_space_4: peanutforkhammervanish
-bip_39_word_no_space_5: peanutforkhammervanisheast
-bip_39_word_no_space_6: peanutforkhammervanisheastbattle
-bip_39_word_no_space_7: peanutforkhammervanisheastbattlecard
-bip_39_word_no_space_8: peanutforkhammervanisheastbattlecardonion
-bip_39_word_no_space_9: peanutforkhammervanisheastbattlecardonionharbor
-bip_39_word_space_0:
-- peanut
-- fork
-- hammer
-- vanish
-- east
-- battle
-- card
-- onion
-- harbor
-- monkey
-- oak
-- acid
-bip_39_word_space_1: peanut
-bip_39_word_space_10: peanut fork hammer vanish east battle card onion harbor monkey
-bip_39_word_space_11: peanut fork hammer vanish east battle card onion harbor monkey
-  oak
 bip_39_word_space_12: peanut fork hammer vanish east battle card onion harbor monkey
   oak acid
 bip_39_word_space_2: peanut fork
 bip_39_word_space_3: peanut fork hammer
-bip_39_word_space_4: peanut fork hammer vanish
-bip_39_word_space_5: peanut fork hammer vanish east
-bip_39_word_space_6: peanut fork hammer vanish east battle
-bip_39_word_space_7: peanut fork hammer vanish east battle card
-bip_39_word_space_8: peanut fork hammer vanish east battle card onion
-bip_39_word_space_9: peanut fork hammer vanish east battle card onion harbor
-bip_39_word_underscore_1: peanut
-bip_39_word_underscore_10: peanut_fork_hammer_vanish_east_battle_card_onion_harbor_monkey
-bip_39_word_underscore_11: peanut_fork_hammer_vanish_east_battle_card_onion_harbor_monkey_oak
 bip_39_word_underscore_12: peanut_fork_hammer_vanish_east_battle_card_onion_harbor_monkey_oak_acid
 bip_39_word_underscore_2: peanut_fork
 bip_39_word_underscore_3: peanut_fork_hammer
-bip_39_word_underscore_4: peanut_fork_hammer_vanish
-bip_39_word_underscore_5: peanut_fork_hammer_vanish_east
-bip_39_word_underscore_6: peanut_fork_hammer_vanish_east_battle
-bip_39_word_underscore_7: peanut_fork_hammer_vanish_east_battle_card
-bip_39_word_underscore_8: peanut_fork_hammer_vanish_east_battle_card_onion
-bip_39_word_underscore_9: peanut_fork_hammer_vanish_east_battle_card_onion_harbor
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

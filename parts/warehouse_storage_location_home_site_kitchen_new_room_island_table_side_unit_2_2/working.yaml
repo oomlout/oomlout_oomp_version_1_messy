@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mimic
-bip_39_word_dash_10: mimic-execute-blade-animal-oyster-involve-actor-toy-vicious-lemon
-bip_39_word_dash_11: mimic-execute-blade-animal-oyster-involve-actor-toy-vicious-lemon-pact
 bip_39_word_dash_12: mimic-execute-blade-animal-oyster-involve-actor-toy-vicious-lemon-pact-anxiety
 bip_39_word_dash_2: mimic-execute
 bip_39_word_dash_3: mimic-execute-blade
-bip_39_word_dash_4: mimic-execute-blade-animal
-bip_39_word_dash_5: mimic-execute-blade-animal-oyster
-bip_39_word_dash_6: mimic-execute-blade-animal-oyster-involve
-bip_39_word_dash_7: mimic-execute-blade-animal-oyster-involve-actor
-bip_39_word_dash_8: mimic-execute-blade-animal-oyster-involve-actor-toy
-bip_39_word_dash_9: mimic-execute-blade-animal-oyster-involve-actor-toy-vicious
-bip_39_word_new_br_1: mimic
-bip_39_word_new_br_10: mimic<br>execute<br>blade<br>animal<br>oyster<br>involve<br>actor<br>toy<br>vicious<br>lemon
-bip_39_word_new_br_11: mimic<br>execute<br>blade<br>animal<br>oyster<br>involve<br>actor<br>toy<br>vicious<br>lemon<br>pact
 bip_39_word_new_br_12: mimic<br>execute<br>blade<br>animal<br>oyster<br>involve<br>actor<br>toy<br>vicious<br>lemon<br>pact<br>anxiety
 bip_39_word_new_br_2: mimic<br>execute
 bip_39_word_new_br_3: mimic<br>execute<br>blade
-bip_39_word_new_br_4: mimic<br>execute<br>blade<br>animal
-bip_39_word_new_br_5: mimic<br>execute<br>blade<br>animal<br>oyster
-bip_39_word_new_br_6: mimic<br>execute<br>blade<br>animal<br>oyster<br>involve
-bip_39_word_new_br_7: mimic<br>execute<br>blade<br>animal<br>oyster<br>involve<br>actor
-bip_39_word_new_br_8: mimic<br>execute<br>blade<br>animal<br>oyster<br>involve<br>actor<br>toy
-bip_39_word_new_br_9: mimic<br>execute<br>blade<br>animal<br>oyster<br>involve<br>actor<br>toy<br>vicious
-bip_39_word_new_line_1: mimic
-bip_39_word_new_line_10: 'mimic
-
-  execute
-
-  blade
-
-  animal
-
-  oyster
-
-  involve
-
-  actor
-
-  toy
-
-  vicious
-
-  lemon'
-bip_39_word_new_line_11: 'mimic
-
-  execute
-
-  blade
-
-  animal
-
-  oyster
-
-  involve
-
-  actor
-
-  toy
-
-  vicious
-
-  lemon
-
-  pact'
 bip_39_word_new_line_12: 'mimic
 
   execute
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'mimic
   execute
 
   blade'
-bip_39_word_new_line_4: 'mimic
-
-  execute
-
-  blade
-
-  animal'
-bip_39_word_new_line_5: 'mimic
-
-  execute
-
-  blade
-
-  animal
-
-  oyster'
-bip_39_word_new_line_6: 'mimic
-
-  execute
-
-  blade
-
-  animal
-
-  oyster
-
-  involve'
-bip_39_word_new_line_7: 'mimic
-
-  execute
-
-  blade
-
-  animal
-
-  oyster
-
-  involve
-
-  actor'
-bip_39_word_new_line_8: 'mimic
-
-  execute
-
-  blade
-
-  animal
-
-  oyster
-
-  involve
-
-  actor
-
-  toy'
-bip_39_word_new_line_9: 'mimic
-
-  execute
-
-  blade
-
-  animal
-
-  oyster
-
-  involve
-
-  actor
-
-  toy
-
-  vicious'
-bip_39_word_no_space_1: mimic
-bip_39_word_no_space_10: mimicexecutebladeanimaloysterinvolveactortoyviciouslemon
-bip_39_word_no_space_11: mimicexecutebladeanimaloysterinvolveactortoyviciouslemonpact
 bip_39_word_no_space_12: mimicexecutebladeanimaloysterinvolveactortoyviciouslemonpactanxiety
 bip_39_word_no_space_2: mimicexecute
 bip_39_word_no_space_3: mimicexecuteblade
-bip_39_word_no_space_4: mimicexecutebladeanimal
-bip_39_word_no_space_5: mimicexecutebladeanimaloyster
-bip_39_word_no_space_6: mimicexecutebladeanimaloysterinvolve
-bip_39_word_no_space_7: mimicexecutebladeanimaloysterinvolveactor
-bip_39_word_no_space_8: mimicexecutebladeanimaloysterinvolveactortoy
-bip_39_word_no_space_9: mimicexecutebladeanimaloysterinvolveactortoyvicious
-bip_39_word_space_0:
-- mimic
-- execute
-- blade
-- animal
-- oyster
-- involve
-- actor
-- toy
-- vicious
-- lemon
-- pact
-- anxiety
-bip_39_word_space_1: mimic
-bip_39_word_space_10: mimic execute blade animal oyster involve actor toy vicious
-  lemon
-bip_39_word_space_11: mimic execute blade animal oyster involve actor toy vicious
-  lemon pact
 bip_39_word_space_12: mimic execute blade animal oyster involve actor toy vicious
   lemon pact anxiety
 bip_39_word_space_2: mimic execute
 bip_39_word_space_3: mimic execute blade
-bip_39_word_space_4: mimic execute blade animal
-bip_39_word_space_5: mimic execute blade animal oyster
-bip_39_word_space_6: mimic execute blade animal oyster involve
-bip_39_word_space_7: mimic execute blade animal oyster involve actor
-bip_39_word_space_8: mimic execute blade animal oyster involve actor toy
-bip_39_word_space_9: mimic execute blade animal oyster involve actor toy vicious
-bip_39_word_underscore_1: mimic
-bip_39_word_underscore_10: mimic_execute_blade_animal_oyster_involve_actor_toy_vicious_lemon
-bip_39_word_underscore_11: mimic_execute_blade_animal_oyster_involve_actor_toy_vicious_lemon_pact
 bip_39_word_underscore_12: mimic_execute_blade_animal_oyster_involve_actor_toy_vicious_lemon_pact_anxiety
 bip_39_word_underscore_2: mimic_execute
 bip_39_word_underscore_3: mimic_execute_blade
-bip_39_word_underscore_4: mimic_execute_blade_animal
-bip_39_word_underscore_5: mimic_execute_blade_animal_oyster
-bip_39_word_underscore_6: mimic_execute_blade_animal_oyster_involve
-bip_39_word_underscore_7: mimic_execute_blade_animal_oyster_involve_actor
-bip_39_word_underscore_8: mimic_execute_blade_animal_oyster_involve_actor_toy
-bip_39_word_underscore_9: mimic_execute_blade_animal_oyster_involve_actor_toy_vicious
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

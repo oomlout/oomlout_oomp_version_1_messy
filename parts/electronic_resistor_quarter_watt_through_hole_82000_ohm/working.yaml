@@ -1,68 +1,9 @@
-bip_39_word_dash_1: client
-bip_39_word_dash_10: client-fall-jewel-lucky-muffin-pave-donor-vapor-usual-right
-bip_39_word_dash_11: client-fall-jewel-lucky-muffin-pave-donor-vapor-usual-right-squeeze
 bip_39_word_dash_12: client-fall-jewel-lucky-muffin-pave-donor-vapor-usual-right-squeeze-again
 bip_39_word_dash_2: client-fall
 bip_39_word_dash_3: client-fall-jewel
-bip_39_word_dash_4: client-fall-jewel-lucky
-bip_39_word_dash_5: client-fall-jewel-lucky-muffin
-bip_39_word_dash_6: client-fall-jewel-lucky-muffin-pave
-bip_39_word_dash_7: client-fall-jewel-lucky-muffin-pave-donor
-bip_39_word_dash_8: client-fall-jewel-lucky-muffin-pave-donor-vapor
-bip_39_word_dash_9: client-fall-jewel-lucky-muffin-pave-donor-vapor-usual
-bip_39_word_new_br_1: client
-bip_39_word_new_br_10: client<br>fall<br>jewel<br>lucky<br>muffin<br>pave<br>donor<br>vapor<br>usual<br>right
-bip_39_word_new_br_11: client<br>fall<br>jewel<br>lucky<br>muffin<br>pave<br>donor<br>vapor<br>usual<br>right<br>squeeze
 bip_39_word_new_br_12: client<br>fall<br>jewel<br>lucky<br>muffin<br>pave<br>donor<br>vapor<br>usual<br>right<br>squeeze<br>again
 bip_39_word_new_br_2: client<br>fall
 bip_39_word_new_br_3: client<br>fall<br>jewel
-bip_39_word_new_br_4: client<br>fall<br>jewel<br>lucky
-bip_39_word_new_br_5: client<br>fall<br>jewel<br>lucky<br>muffin
-bip_39_word_new_br_6: client<br>fall<br>jewel<br>lucky<br>muffin<br>pave
-bip_39_word_new_br_7: client<br>fall<br>jewel<br>lucky<br>muffin<br>pave<br>donor
-bip_39_word_new_br_8: client<br>fall<br>jewel<br>lucky<br>muffin<br>pave<br>donor<br>vapor
-bip_39_word_new_br_9: client<br>fall<br>jewel<br>lucky<br>muffin<br>pave<br>donor<br>vapor<br>usual
-bip_39_word_new_line_1: client
-bip_39_word_new_line_10: 'client
-
-  fall
-
-  jewel
-
-  lucky
-
-  muffin
-
-  pave
-
-  donor
-
-  vapor
-
-  usual
-
-  right'
-bip_39_word_new_line_11: 'client
-
-  fall
-
-  jewel
-
-  lucky
-
-  muffin
-
-  pave
-
-  donor
-
-  vapor
-
-  usual
-
-  right
-
-  squeeze'
 bip_39_word_new_line_12: 'client
 
   fall
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'client
   fall
 
   jewel'
-bip_39_word_new_line_4: 'client
-
-  fall
-
-  jewel
-
-  lucky'
-bip_39_word_new_line_5: 'client
-
-  fall
-
-  jewel
-
-  lucky
-
-  muffin'
-bip_39_word_new_line_6: 'client
-
-  fall
-
-  jewel
-
-  lucky
-
-  muffin
-
-  pave'
-bip_39_word_new_line_7: 'client
-
-  fall
-
-  jewel
-
-  lucky
-
-  muffin
-
-  pave
-
-  donor'
-bip_39_word_new_line_8: 'client
-
-  fall
-
-  jewel
-
-  lucky
-
-  muffin
-
-  pave
-
-  donor
-
-  vapor'
-bip_39_word_new_line_9: 'client
-
-  fall
-
-  jewel
-
-  lucky
-
-  muffin
-
-  pave
-
-  donor
-
-  vapor
-
-  usual'
-bip_39_word_no_space_1: client
-bip_39_word_no_space_10: clientfalljewelluckymuffinpavedonorvaporusualright
-bip_39_word_no_space_11: clientfalljewelluckymuffinpavedonorvaporusualrightsqueeze
 bip_39_word_no_space_12: clientfalljewelluckymuffinpavedonorvaporusualrightsqueezeagain
 bip_39_word_no_space_2: clientfall
 bip_39_word_no_space_3: clientfalljewel
-bip_39_word_no_space_4: clientfalljewellucky
-bip_39_word_no_space_5: clientfalljewelluckymuffin
-bip_39_word_no_space_6: clientfalljewelluckymuffinpave
-bip_39_word_no_space_7: clientfalljewelluckymuffinpavedonor
-bip_39_word_no_space_8: clientfalljewelluckymuffinpavedonorvapor
-bip_39_word_no_space_9: clientfalljewelluckymuffinpavedonorvaporusual
-bip_39_word_space_0:
-- client
-- fall
-- jewel
-- lucky
-- muffin
-- pave
-- donor
-- vapor
-- usual
-- right
-- squeeze
-- again
-bip_39_word_space_1: client
-bip_39_word_space_10: client fall jewel lucky muffin pave donor vapor usual right
-bip_39_word_space_11: client fall jewel lucky muffin pave donor vapor usual right
-  squeeze
 bip_39_word_space_12: client fall jewel lucky muffin pave donor vapor usual right
   squeeze again
 bip_39_word_space_2: client fall
 bip_39_word_space_3: client fall jewel
-bip_39_word_space_4: client fall jewel lucky
-bip_39_word_space_5: client fall jewel lucky muffin
-bip_39_word_space_6: client fall jewel lucky muffin pave
-bip_39_word_space_7: client fall jewel lucky muffin pave donor
-bip_39_word_space_8: client fall jewel lucky muffin pave donor vapor
-bip_39_word_space_9: client fall jewel lucky muffin pave donor vapor usual
-bip_39_word_underscore_1: client
-bip_39_word_underscore_10: client_fall_jewel_lucky_muffin_pave_donor_vapor_usual_right
-bip_39_word_underscore_11: client_fall_jewel_lucky_muffin_pave_donor_vapor_usual_right_squeeze
 bip_39_word_underscore_12: client_fall_jewel_lucky_muffin_pave_donor_vapor_usual_right_squeeze_again
 bip_39_word_underscore_2: client_fall
 bip_39_word_underscore_3: client_fall_jewel
-bip_39_word_underscore_4: client_fall_jewel_lucky
-bip_39_word_underscore_5: client_fall_jewel_lucky_muffin
-bip_39_word_underscore_6: client_fall_jewel_lucky_muffin_pave
-bip_39_word_underscore_7: client_fall_jewel_lucky_muffin_pave_donor
-bip_39_word_underscore_8: client_fall_jewel_lucky_muffin_pave_donor_vapor
-bip_39_word_underscore_9: client_fall_jewel_lucky_muffin_pave_donor_vapor_usual
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

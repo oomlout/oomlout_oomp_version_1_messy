@@ -1,68 +1,9 @@
-bip_39_word_dash_1: region
-bip_39_word_dash_10: region-seed-lend-raw-act-hidden-shell-teach-cradle-finish
-bip_39_word_dash_11: region-seed-lend-raw-act-hidden-shell-teach-cradle-finish-double
 bip_39_word_dash_12: region-seed-lend-raw-act-hidden-shell-teach-cradle-finish-double-air
 bip_39_word_dash_2: region-seed
 bip_39_word_dash_3: region-seed-lend
-bip_39_word_dash_4: region-seed-lend-raw
-bip_39_word_dash_5: region-seed-lend-raw-act
-bip_39_word_dash_6: region-seed-lend-raw-act-hidden
-bip_39_word_dash_7: region-seed-lend-raw-act-hidden-shell
-bip_39_word_dash_8: region-seed-lend-raw-act-hidden-shell-teach
-bip_39_word_dash_9: region-seed-lend-raw-act-hidden-shell-teach-cradle
-bip_39_word_new_br_1: region
-bip_39_word_new_br_10: region<br>seed<br>lend<br>raw<br>act<br>hidden<br>shell<br>teach<br>cradle<br>finish
-bip_39_word_new_br_11: region<br>seed<br>lend<br>raw<br>act<br>hidden<br>shell<br>teach<br>cradle<br>finish<br>double
 bip_39_word_new_br_12: region<br>seed<br>lend<br>raw<br>act<br>hidden<br>shell<br>teach<br>cradle<br>finish<br>double<br>air
 bip_39_word_new_br_2: region<br>seed
 bip_39_word_new_br_3: region<br>seed<br>lend
-bip_39_word_new_br_4: region<br>seed<br>lend<br>raw
-bip_39_word_new_br_5: region<br>seed<br>lend<br>raw<br>act
-bip_39_word_new_br_6: region<br>seed<br>lend<br>raw<br>act<br>hidden
-bip_39_word_new_br_7: region<br>seed<br>lend<br>raw<br>act<br>hidden<br>shell
-bip_39_word_new_br_8: region<br>seed<br>lend<br>raw<br>act<br>hidden<br>shell<br>teach
-bip_39_word_new_br_9: region<br>seed<br>lend<br>raw<br>act<br>hidden<br>shell<br>teach<br>cradle
-bip_39_word_new_line_1: region
-bip_39_word_new_line_10: 'region
-
-  seed
-
-  lend
-
-  raw
-
-  act
-
-  hidden
-
-  shell
-
-  teach
-
-  cradle
-
-  finish'
-bip_39_word_new_line_11: 'region
-
-  seed
-
-  lend
-
-  raw
-
-  act
-
-  hidden
-
-  shell
-
-  teach
-
-  cradle
-
-  finish
-
-  double'
 bip_39_word_new_line_12: 'region
 
   seed
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'region
   seed
 
   lend'
-bip_39_word_new_line_4: 'region
-
-  seed
-
-  lend
-
-  raw'
-bip_39_word_new_line_5: 'region
-
-  seed
-
-  lend
-
-  raw
-
-  act'
-bip_39_word_new_line_6: 'region
-
-  seed
-
-  lend
-
-  raw
-
-  act
-
-  hidden'
-bip_39_word_new_line_7: 'region
-
-  seed
-
-  lend
-
-  raw
-
-  act
-
-  hidden
-
-  shell'
-bip_39_word_new_line_8: 'region
-
-  seed
-
-  lend
-
-  raw
-
-  act
-
-  hidden
-
-  shell
-
-  teach'
-bip_39_word_new_line_9: 'region
-
-  seed
-
-  lend
-
-  raw
-
-  act
-
-  hidden
-
-  shell
-
-  teach
-
-  cradle'
-bip_39_word_no_space_1: region
-bip_39_word_no_space_10: regionseedlendrawacthiddenshellteachcradlefinish
-bip_39_word_no_space_11: regionseedlendrawacthiddenshellteachcradlefinishdouble
 bip_39_word_no_space_12: regionseedlendrawacthiddenshellteachcradlefinishdoubleair
 bip_39_word_no_space_2: regionseed
 bip_39_word_no_space_3: regionseedlend
-bip_39_word_no_space_4: regionseedlendraw
-bip_39_word_no_space_5: regionseedlendrawact
-bip_39_word_no_space_6: regionseedlendrawacthidden
-bip_39_word_no_space_7: regionseedlendrawacthiddenshell
-bip_39_word_no_space_8: regionseedlendrawacthiddenshellteach
-bip_39_word_no_space_9: regionseedlendrawacthiddenshellteachcradle
-bip_39_word_space_0:
-- region
-- seed
-- lend
-- raw
-- act
-- hidden
-- shell
-- teach
-- cradle
-- finish
-- double
-- air
-bip_39_word_space_1: region
-bip_39_word_space_10: region seed lend raw act hidden shell teach cradle finish
-bip_39_word_space_11: region seed lend raw act hidden shell teach cradle finish double
 bip_39_word_space_12: region seed lend raw act hidden shell teach cradle finish double
   air
 bip_39_word_space_2: region seed
 bip_39_word_space_3: region seed lend
-bip_39_word_space_4: region seed lend raw
-bip_39_word_space_5: region seed lend raw act
-bip_39_word_space_6: region seed lend raw act hidden
-bip_39_word_space_7: region seed lend raw act hidden shell
-bip_39_word_space_8: region seed lend raw act hidden shell teach
-bip_39_word_space_9: region seed lend raw act hidden shell teach cradle
-bip_39_word_underscore_1: region
-bip_39_word_underscore_10: region_seed_lend_raw_act_hidden_shell_teach_cradle_finish
-bip_39_word_underscore_11: region_seed_lend_raw_act_hidden_shell_teach_cradle_finish_double
 bip_39_word_underscore_12: region_seed_lend_raw_act_hidden_shell_teach_cradle_finish_double_air
 bip_39_word_underscore_2: region_seed
 bip_39_word_underscore_3: region_seed_lend
-bip_39_word_underscore_4: region_seed_lend_raw
-bip_39_word_underscore_5: region_seed_lend_raw_act
-bip_39_word_underscore_6: region_seed_lend_raw_act_hidden
-bip_39_word_underscore_7: region_seed_lend_raw_act_hidden_shell
-bip_39_word_underscore_8: region_seed_lend_raw_act_hidden_shell_teach
-bip_39_word_underscore_9: region_seed_lend_raw_act_hidden_shell_teach_cradle
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

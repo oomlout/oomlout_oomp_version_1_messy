@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vendor
-bip_39_word_dash_10: vendor-cruel-top-timber-love-method-win-anger-census-clever
-bip_39_word_dash_11: vendor-cruel-top-timber-love-method-win-anger-census-clever-bright
 bip_39_word_dash_12: vendor-cruel-top-timber-love-method-win-anger-census-clever-bright-above
 bip_39_word_dash_2: vendor-cruel
 bip_39_word_dash_3: vendor-cruel-top
-bip_39_word_dash_4: vendor-cruel-top-timber
-bip_39_word_dash_5: vendor-cruel-top-timber-love
-bip_39_word_dash_6: vendor-cruel-top-timber-love-method
-bip_39_word_dash_7: vendor-cruel-top-timber-love-method-win
-bip_39_word_dash_8: vendor-cruel-top-timber-love-method-win-anger
-bip_39_word_dash_9: vendor-cruel-top-timber-love-method-win-anger-census
-bip_39_word_new_br_1: vendor
-bip_39_word_new_br_10: vendor<br>cruel<br>top<br>timber<br>love<br>method<br>win<br>anger<br>census<br>clever
-bip_39_word_new_br_11: vendor<br>cruel<br>top<br>timber<br>love<br>method<br>win<br>anger<br>census<br>clever<br>bright
 bip_39_word_new_br_12: vendor<br>cruel<br>top<br>timber<br>love<br>method<br>win<br>anger<br>census<br>clever<br>bright<br>above
 bip_39_word_new_br_2: vendor<br>cruel
 bip_39_word_new_br_3: vendor<br>cruel<br>top
-bip_39_word_new_br_4: vendor<br>cruel<br>top<br>timber
-bip_39_word_new_br_5: vendor<br>cruel<br>top<br>timber<br>love
-bip_39_word_new_br_6: vendor<br>cruel<br>top<br>timber<br>love<br>method
-bip_39_word_new_br_7: vendor<br>cruel<br>top<br>timber<br>love<br>method<br>win
-bip_39_word_new_br_8: vendor<br>cruel<br>top<br>timber<br>love<br>method<br>win<br>anger
-bip_39_word_new_br_9: vendor<br>cruel<br>top<br>timber<br>love<br>method<br>win<br>anger<br>census
-bip_39_word_new_line_1: vendor
-bip_39_word_new_line_10: 'vendor
-
-  cruel
-
-  top
-
-  timber
-
-  love
-
-  method
-
-  win
-
-  anger
-
-  census
-
-  clever'
-bip_39_word_new_line_11: 'vendor
-
-  cruel
-
-  top
-
-  timber
-
-  love
-
-  method
-
-  win
-
-  anger
-
-  census
-
-  clever
-
-  bright'
 bip_39_word_new_line_12: 'vendor
 
   cruel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vendor
   cruel
 
   top'
-bip_39_word_new_line_4: 'vendor
-
-  cruel
-
-  top
-
-  timber'
-bip_39_word_new_line_5: 'vendor
-
-  cruel
-
-  top
-
-  timber
-
-  love'
-bip_39_word_new_line_6: 'vendor
-
-  cruel
-
-  top
-
-  timber
-
-  love
-
-  method'
-bip_39_word_new_line_7: 'vendor
-
-  cruel
-
-  top
-
-  timber
-
-  love
-
-  method
-
-  win'
-bip_39_word_new_line_8: 'vendor
-
-  cruel
-
-  top
-
-  timber
-
-  love
-
-  method
-
-  win
-
-  anger'
-bip_39_word_new_line_9: 'vendor
-
-  cruel
-
-  top
-
-  timber
-
-  love
-
-  method
-
-  win
-
-  anger
-
-  census'
-bip_39_word_no_space_1: vendor
-bip_39_word_no_space_10: vendorcrueltoptimberlovemethodwinangercensusclever
-bip_39_word_no_space_11: vendorcrueltoptimberlovemethodwinangercensuscleverbright
 bip_39_word_no_space_12: vendorcrueltoptimberlovemethodwinangercensuscleverbrightabove
 bip_39_word_no_space_2: vendorcruel
 bip_39_word_no_space_3: vendorcrueltop
-bip_39_word_no_space_4: vendorcrueltoptimber
-bip_39_word_no_space_5: vendorcrueltoptimberlove
-bip_39_word_no_space_6: vendorcrueltoptimberlovemethod
-bip_39_word_no_space_7: vendorcrueltoptimberlovemethodwin
-bip_39_word_no_space_8: vendorcrueltoptimberlovemethodwinanger
-bip_39_word_no_space_9: vendorcrueltoptimberlovemethodwinangercensus
-bip_39_word_space_0:
-- vendor
-- cruel
-- top
-- timber
-- love
-- method
-- win
-- anger
-- census
-- clever
-- bright
-- above
-bip_39_word_space_1: vendor
-bip_39_word_space_10: vendor cruel top timber love method win anger census clever
-bip_39_word_space_11: vendor cruel top timber love method win anger census clever
-  bright
 bip_39_word_space_12: vendor cruel top timber love method win anger census clever
   bright above
 bip_39_word_space_2: vendor cruel
 bip_39_word_space_3: vendor cruel top
-bip_39_word_space_4: vendor cruel top timber
-bip_39_word_space_5: vendor cruel top timber love
-bip_39_word_space_6: vendor cruel top timber love method
-bip_39_word_space_7: vendor cruel top timber love method win
-bip_39_word_space_8: vendor cruel top timber love method win anger
-bip_39_word_space_9: vendor cruel top timber love method win anger census
-bip_39_word_underscore_1: vendor
-bip_39_word_underscore_10: vendor_cruel_top_timber_love_method_win_anger_census_clever
-bip_39_word_underscore_11: vendor_cruel_top_timber_love_method_win_anger_census_clever_bright
 bip_39_word_underscore_12: vendor_cruel_top_timber_love_method_win_anger_census_clever_bright_above
 bip_39_word_underscore_2: vendor_cruel
 bip_39_word_underscore_3: vendor_cruel_top
-bip_39_word_underscore_4: vendor_cruel_top_timber
-bip_39_word_underscore_5: vendor_cruel_top_timber_love
-bip_39_word_underscore_6: vendor_cruel_top_timber_love_method
-bip_39_word_underscore_7: vendor_cruel_top_timber_love_method_win
-bip_39_word_underscore_8: vendor_cruel_top_timber_love_method_win_anger
-bip_39_word_underscore_9: vendor_cruel_top_timber_love_method_win_anger_census
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

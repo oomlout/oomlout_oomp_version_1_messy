@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lock
-bip_39_word_dash_10: lock-more-render-bamboo-cash-split-cabbage-example-vapor-sell
-bip_39_word_dash_11: lock-more-render-bamboo-cash-split-cabbage-example-vapor-sell-tool
 bip_39_word_dash_12: lock-more-render-bamboo-cash-split-cabbage-example-vapor-sell-tool-approve
 bip_39_word_dash_2: lock-more
 bip_39_word_dash_3: lock-more-render
-bip_39_word_dash_4: lock-more-render-bamboo
-bip_39_word_dash_5: lock-more-render-bamboo-cash
-bip_39_word_dash_6: lock-more-render-bamboo-cash-split
-bip_39_word_dash_7: lock-more-render-bamboo-cash-split-cabbage
-bip_39_word_dash_8: lock-more-render-bamboo-cash-split-cabbage-example
-bip_39_word_dash_9: lock-more-render-bamboo-cash-split-cabbage-example-vapor
-bip_39_word_new_br_1: lock
-bip_39_word_new_br_10: lock<br>more<br>render<br>bamboo<br>cash<br>split<br>cabbage<br>example<br>vapor<br>sell
-bip_39_word_new_br_11: lock<br>more<br>render<br>bamboo<br>cash<br>split<br>cabbage<br>example<br>vapor<br>sell<br>tool
 bip_39_word_new_br_12: lock<br>more<br>render<br>bamboo<br>cash<br>split<br>cabbage<br>example<br>vapor<br>sell<br>tool<br>approve
 bip_39_word_new_br_2: lock<br>more
 bip_39_word_new_br_3: lock<br>more<br>render
-bip_39_word_new_br_4: lock<br>more<br>render<br>bamboo
-bip_39_word_new_br_5: lock<br>more<br>render<br>bamboo<br>cash
-bip_39_word_new_br_6: lock<br>more<br>render<br>bamboo<br>cash<br>split
-bip_39_word_new_br_7: lock<br>more<br>render<br>bamboo<br>cash<br>split<br>cabbage
-bip_39_word_new_br_8: lock<br>more<br>render<br>bamboo<br>cash<br>split<br>cabbage<br>example
-bip_39_word_new_br_9: lock<br>more<br>render<br>bamboo<br>cash<br>split<br>cabbage<br>example<br>vapor
-bip_39_word_new_line_1: lock
-bip_39_word_new_line_10: 'lock
-
-  more
-
-  render
-
-  bamboo
-
-  cash
-
-  split
-
-  cabbage
-
-  example
-
-  vapor
-
-  sell'
-bip_39_word_new_line_11: 'lock
-
-  more
-
-  render
-
-  bamboo
-
-  cash
-
-  split
-
-  cabbage
-
-  example
-
-  vapor
-
-  sell
-
-  tool'
 bip_39_word_new_line_12: 'lock
 
   more
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lock
   more
 
   render'
-bip_39_word_new_line_4: 'lock
-
-  more
-
-  render
-
-  bamboo'
-bip_39_word_new_line_5: 'lock
-
-  more
-
-  render
-
-  bamboo
-
-  cash'
-bip_39_word_new_line_6: 'lock
-
-  more
-
-  render
-
-  bamboo
-
-  cash
-
-  split'
-bip_39_word_new_line_7: 'lock
-
-  more
-
-  render
-
-  bamboo
-
-  cash
-
-  split
-
-  cabbage'
-bip_39_word_new_line_8: 'lock
-
-  more
-
-  render
-
-  bamboo
-
-  cash
-
-  split
-
-  cabbage
-
-  example'
-bip_39_word_new_line_9: 'lock
-
-  more
-
-  render
-
-  bamboo
-
-  cash
-
-  split
-
-  cabbage
-
-  example
-
-  vapor'
-bip_39_word_no_space_1: lock
-bip_39_word_no_space_10: lockmorerenderbamboocashsplitcabbageexamplevaporsell
-bip_39_word_no_space_11: lockmorerenderbamboocashsplitcabbageexamplevaporselltool
 bip_39_word_no_space_12: lockmorerenderbamboocashsplitcabbageexamplevaporselltoolapprove
 bip_39_word_no_space_2: lockmore
 bip_39_word_no_space_3: lockmorerender
-bip_39_word_no_space_4: lockmorerenderbamboo
-bip_39_word_no_space_5: lockmorerenderbamboocash
-bip_39_word_no_space_6: lockmorerenderbamboocashsplit
-bip_39_word_no_space_7: lockmorerenderbamboocashsplitcabbage
-bip_39_word_no_space_8: lockmorerenderbamboocashsplitcabbageexample
-bip_39_word_no_space_9: lockmorerenderbamboocashsplitcabbageexamplevapor
-bip_39_word_space_0:
-- lock
-- more
-- render
-- bamboo
-- cash
-- split
-- cabbage
-- example
-- vapor
-- sell
-- tool
-- approve
-bip_39_word_space_1: lock
-bip_39_word_space_10: lock more render bamboo cash split cabbage example vapor sell
-bip_39_word_space_11: lock more render bamboo cash split cabbage example vapor sell
-  tool
 bip_39_word_space_12: lock more render bamboo cash split cabbage example vapor sell
   tool approve
 bip_39_word_space_2: lock more
 bip_39_word_space_3: lock more render
-bip_39_word_space_4: lock more render bamboo
-bip_39_word_space_5: lock more render bamboo cash
-bip_39_word_space_6: lock more render bamboo cash split
-bip_39_word_space_7: lock more render bamboo cash split cabbage
-bip_39_word_space_8: lock more render bamboo cash split cabbage example
-bip_39_word_space_9: lock more render bamboo cash split cabbage example vapor
-bip_39_word_underscore_1: lock
-bip_39_word_underscore_10: lock_more_render_bamboo_cash_split_cabbage_example_vapor_sell
-bip_39_word_underscore_11: lock_more_render_bamboo_cash_split_cabbage_example_vapor_sell_tool
 bip_39_word_underscore_12: lock_more_render_bamboo_cash_split_cabbage_example_vapor_sell_tool_approve
 bip_39_word_underscore_2: lock_more
 bip_39_word_underscore_3: lock_more_render
-bip_39_word_underscore_4: lock_more_render_bamboo
-bip_39_word_underscore_5: lock_more_render_bamboo_cash
-bip_39_word_underscore_6: lock_more_render_bamboo_cash_split
-bip_39_word_underscore_7: lock_more_render_bamboo_cash_split_cabbage
-bip_39_word_underscore_8: lock_more_render_bamboo_cash_split_cabbage_example
-bip_39_word_underscore_9: lock_more_render_bamboo_cash_split_cabbage_example_vapor
 classification: project
 classification_capital: Project
 classification_first_letter: p

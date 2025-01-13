@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tube
-bip_39_word_dash_10: tube-squirrel-stove-spoil-local-trigger-flight-infant-crucial-trash
-bip_39_word_dash_11: tube-squirrel-stove-spoil-local-trigger-flight-infant-crucial-trash-spawn
 bip_39_word_dash_12: tube-squirrel-stove-spoil-local-trigger-flight-infant-crucial-trash-spawn-amateur
 bip_39_word_dash_2: tube-squirrel
 bip_39_word_dash_3: tube-squirrel-stove
-bip_39_word_dash_4: tube-squirrel-stove-spoil
-bip_39_word_dash_5: tube-squirrel-stove-spoil-local
-bip_39_word_dash_6: tube-squirrel-stove-spoil-local-trigger
-bip_39_word_dash_7: tube-squirrel-stove-spoil-local-trigger-flight
-bip_39_word_dash_8: tube-squirrel-stove-spoil-local-trigger-flight-infant
-bip_39_word_dash_9: tube-squirrel-stove-spoil-local-trigger-flight-infant-crucial
-bip_39_word_new_br_1: tube
-bip_39_word_new_br_10: tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial<br>trash
-bip_39_word_new_br_11: tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial<br>trash<br>spawn
 bip_39_word_new_br_12: tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial<br>trash<br>spawn<br>amateur
 bip_39_word_new_br_2: tube<br>squirrel
 bip_39_word_new_br_3: tube<br>squirrel<br>stove
-bip_39_word_new_br_4: tube<br>squirrel<br>stove<br>spoil
-bip_39_word_new_br_5: tube<br>squirrel<br>stove<br>spoil<br>local
-bip_39_word_new_br_6: tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger
-bip_39_word_new_br_7: tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight
-bip_39_word_new_br_8: tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant
-bip_39_word_new_br_9: tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial
-bip_39_word_new_line_1: tube
-bip_39_word_new_line_10: 'tube
-
-  squirrel
-
-  stove
-
-  spoil
-
-  local
-
-  trigger
-
-  flight
-
-  infant
-
-  crucial
-
-  trash'
-bip_39_word_new_line_11: 'tube
-
-  squirrel
-
-  stove
-
-  spoil
-
-  local
-
-  trigger
-
-  flight
-
-  infant
-
-  crucial
-
-  trash
-
-  spawn'
 bip_39_word_new_line_12: 'tube
 
   squirrel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'tube
   squirrel
 
   stove'
-bip_39_word_new_line_4: 'tube
-
-  squirrel
-
-  stove
-
-  spoil'
-bip_39_word_new_line_5: 'tube
-
-  squirrel
-
-  stove
-
-  spoil
-
-  local'
-bip_39_word_new_line_6: 'tube
-
-  squirrel
-
-  stove
-
-  spoil
-
-  local
-
-  trigger'
-bip_39_word_new_line_7: 'tube
-
-  squirrel
-
-  stove
-
-  spoil
-
-  local
-
-  trigger
-
-  flight'
-bip_39_word_new_line_8: 'tube
-
-  squirrel
-
-  stove
-
-  spoil
-
-  local
-
-  trigger
-
-  flight
-
-  infant'
-bip_39_word_new_line_9: 'tube
-
-  squirrel
-
-  stove
-
-  spoil
-
-  local
-
-  trigger
-
-  flight
-
-  infant
-
-  crucial'
-bip_39_word_no_space_1: tube
-bip_39_word_no_space_10: tubesquirrelstovespoillocaltriggerflightinfantcrucialtrash
-bip_39_word_no_space_11: tubesquirrelstovespoillocaltriggerflightinfantcrucialtrashspawn
 bip_39_word_no_space_12: tubesquirrelstovespoillocaltriggerflightinfantcrucialtrashspawnamateur
 bip_39_word_no_space_2: tubesquirrel
 bip_39_word_no_space_3: tubesquirrelstove
-bip_39_word_no_space_4: tubesquirrelstovespoil
-bip_39_word_no_space_5: tubesquirrelstovespoillocal
-bip_39_word_no_space_6: tubesquirrelstovespoillocaltrigger
-bip_39_word_no_space_7: tubesquirrelstovespoillocaltriggerflight
-bip_39_word_no_space_8: tubesquirrelstovespoillocaltriggerflightinfant
-bip_39_word_no_space_9: tubesquirrelstovespoillocaltriggerflightinfantcrucial
-bip_39_word_space_0:
-- tube
-- squirrel
-- stove
-- spoil
-- local
-- trigger
-- flight
-- infant
-- crucial
-- trash
-- spawn
-- amateur
-bip_39_word_space_1: tube
-bip_39_word_space_10: tube squirrel stove spoil local trigger flight infant crucial
-  trash
-bip_39_word_space_11: tube squirrel stove spoil local trigger flight infant crucial
-  trash spawn
 bip_39_word_space_12: tube squirrel stove spoil local trigger flight infant crucial
   trash spawn amateur
 bip_39_word_space_2: tube squirrel
 bip_39_word_space_3: tube squirrel stove
-bip_39_word_space_4: tube squirrel stove spoil
-bip_39_word_space_5: tube squirrel stove spoil local
-bip_39_word_space_6: tube squirrel stove spoil local trigger
-bip_39_word_space_7: tube squirrel stove spoil local trigger flight
-bip_39_word_space_8: tube squirrel stove spoil local trigger flight infant
-bip_39_word_space_9: tube squirrel stove spoil local trigger flight infant crucial
-bip_39_word_underscore_1: tube
-bip_39_word_underscore_10: tube_squirrel_stove_spoil_local_trigger_flight_infant_crucial_trash
-bip_39_word_underscore_11: tube_squirrel_stove_spoil_local_trigger_flight_infant_crucial_trash_spawn
 bip_39_word_underscore_12: tube_squirrel_stove_spoil_local_trigger_flight_infant_crucial_trash_spawn_amateur
 bip_39_word_underscore_2: tube_squirrel
 bip_39_word_underscore_3: tube_squirrel_stove
-bip_39_word_underscore_4: tube_squirrel_stove_spoil
-bip_39_word_underscore_5: tube_squirrel_stove_spoil_local
-bip_39_word_underscore_6: tube_squirrel_stove_spoil_local_trigger
-bip_39_word_underscore_7: tube_squirrel_stove_spoil_local_trigger_flight
-bip_39_word_underscore_8: tube_squirrel_stove_spoil_local_trigger_flight_infant
-bip_39_word_underscore_9: tube_squirrel_stove_spoil_local_trigger_flight_infant_crucial
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

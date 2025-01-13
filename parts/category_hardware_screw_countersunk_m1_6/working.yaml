@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rule
-bip_39_word_dash_10: rule-harsh-canyon-green-peace-force-hole-double-hybrid-afford
-bip_39_word_dash_11: rule-harsh-canyon-green-peace-force-hole-double-hybrid-afford-cruise
 bip_39_word_dash_12: rule-harsh-canyon-green-peace-force-hole-double-hybrid-afford-cruise-attend
 bip_39_word_dash_2: rule-harsh
 bip_39_word_dash_3: rule-harsh-canyon
-bip_39_word_dash_4: rule-harsh-canyon-green
-bip_39_word_dash_5: rule-harsh-canyon-green-peace
-bip_39_word_dash_6: rule-harsh-canyon-green-peace-force
-bip_39_word_dash_7: rule-harsh-canyon-green-peace-force-hole
-bip_39_word_dash_8: rule-harsh-canyon-green-peace-force-hole-double
-bip_39_word_dash_9: rule-harsh-canyon-green-peace-force-hole-double-hybrid
-bip_39_word_new_br_1: rule
-bip_39_word_new_br_10: rule<br>harsh<br>canyon<br>green<br>peace<br>force<br>hole<br>double<br>hybrid<br>afford
-bip_39_word_new_br_11: rule<br>harsh<br>canyon<br>green<br>peace<br>force<br>hole<br>double<br>hybrid<br>afford<br>cruise
 bip_39_word_new_br_12: rule<br>harsh<br>canyon<br>green<br>peace<br>force<br>hole<br>double<br>hybrid<br>afford<br>cruise<br>attend
 bip_39_word_new_br_2: rule<br>harsh
 bip_39_word_new_br_3: rule<br>harsh<br>canyon
-bip_39_word_new_br_4: rule<br>harsh<br>canyon<br>green
-bip_39_word_new_br_5: rule<br>harsh<br>canyon<br>green<br>peace
-bip_39_word_new_br_6: rule<br>harsh<br>canyon<br>green<br>peace<br>force
-bip_39_word_new_br_7: rule<br>harsh<br>canyon<br>green<br>peace<br>force<br>hole
-bip_39_word_new_br_8: rule<br>harsh<br>canyon<br>green<br>peace<br>force<br>hole<br>double
-bip_39_word_new_br_9: rule<br>harsh<br>canyon<br>green<br>peace<br>force<br>hole<br>double<br>hybrid
-bip_39_word_new_line_1: rule
-bip_39_word_new_line_10: 'rule
-
-  harsh
-
-  canyon
-
-  green
-
-  peace
-
-  force
-
-  hole
-
-  double
-
-  hybrid
-
-  afford'
-bip_39_word_new_line_11: 'rule
-
-  harsh
-
-  canyon
-
-  green
-
-  peace
-
-  force
-
-  hole
-
-  double
-
-  hybrid
-
-  afford
-
-  cruise'
 bip_39_word_new_line_12: 'rule
 
   harsh
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rule
   harsh
 
   canyon'
-bip_39_word_new_line_4: 'rule
-
-  harsh
-
-  canyon
-
-  green'
-bip_39_word_new_line_5: 'rule
-
-  harsh
-
-  canyon
-
-  green
-
-  peace'
-bip_39_word_new_line_6: 'rule
-
-  harsh
-
-  canyon
-
-  green
-
-  peace
-
-  force'
-bip_39_word_new_line_7: 'rule
-
-  harsh
-
-  canyon
-
-  green
-
-  peace
-
-  force
-
-  hole'
-bip_39_word_new_line_8: 'rule
-
-  harsh
-
-  canyon
-
-  green
-
-  peace
-
-  force
-
-  hole
-
-  double'
-bip_39_word_new_line_9: 'rule
-
-  harsh
-
-  canyon
-
-  green
-
-  peace
-
-  force
-
-  hole
-
-  double
-
-  hybrid'
-bip_39_word_no_space_1: rule
-bip_39_word_no_space_10: ruleharshcanyongreenpeaceforceholedoublehybridafford
-bip_39_word_no_space_11: ruleharshcanyongreenpeaceforceholedoublehybridaffordcruise
 bip_39_word_no_space_12: ruleharshcanyongreenpeaceforceholedoublehybridaffordcruiseattend
 bip_39_word_no_space_2: ruleharsh
 bip_39_word_no_space_3: ruleharshcanyon
-bip_39_word_no_space_4: ruleharshcanyongreen
-bip_39_word_no_space_5: ruleharshcanyongreenpeace
-bip_39_word_no_space_6: ruleharshcanyongreenpeaceforce
-bip_39_word_no_space_7: ruleharshcanyongreenpeaceforcehole
-bip_39_word_no_space_8: ruleharshcanyongreenpeaceforceholedouble
-bip_39_word_no_space_9: ruleharshcanyongreenpeaceforceholedoublehybrid
-bip_39_word_space_0:
-- rule
-- harsh
-- canyon
-- green
-- peace
-- force
-- hole
-- double
-- hybrid
-- afford
-- cruise
-- attend
-bip_39_word_space_1: rule
-bip_39_word_space_10: rule harsh canyon green peace force hole double hybrid afford
-bip_39_word_space_11: rule harsh canyon green peace force hole double hybrid afford
-  cruise
 bip_39_word_space_12: rule harsh canyon green peace force hole double hybrid afford
   cruise attend
 bip_39_word_space_2: rule harsh
 bip_39_word_space_3: rule harsh canyon
-bip_39_word_space_4: rule harsh canyon green
-bip_39_word_space_5: rule harsh canyon green peace
-bip_39_word_space_6: rule harsh canyon green peace force
-bip_39_word_space_7: rule harsh canyon green peace force hole
-bip_39_word_space_8: rule harsh canyon green peace force hole double
-bip_39_word_space_9: rule harsh canyon green peace force hole double hybrid
-bip_39_word_underscore_1: rule
-bip_39_word_underscore_10: rule_harsh_canyon_green_peace_force_hole_double_hybrid_afford
-bip_39_word_underscore_11: rule_harsh_canyon_green_peace_force_hole_double_hybrid_afford_cruise
 bip_39_word_underscore_12: rule_harsh_canyon_green_peace_force_hole_double_hybrid_afford_cruise_attend
 bip_39_word_underscore_2: rule_harsh
 bip_39_word_underscore_3: rule_harsh_canyon
-bip_39_word_underscore_4: rule_harsh_canyon_green
-bip_39_word_underscore_5: rule_harsh_canyon_green_peace
-bip_39_word_underscore_6: rule_harsh_canyon_green_peace_force
-bip_39_word_underscore_7: rule_harsh_canyon_green_peace_force_hole
-bip_39_word_underscore_8: rule_harsh_canyon_green_peace_force_hole_double
-bip_39_word_underscore_9: rule_harsh_canyon_green_peace_force_hole_double_hybrid
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: midnight
-bip_39_word_dash_10: midnight-near-hint-around-journey-hope-dynamic-open-either-tower
-bip_39_word_dash_11: midnight-near-hint-around-journey-hope-dynamic-open-either-tower-shove
 bip_39_word_dash_12: midnight-near-hint-around-journey-hope-dynamic-open-either-tower-shove-achieve
 bip_39_word_dash_2: midnight-near
 bip_39_word_dash_3: midnight-near-hint
-bip_39_word_dash_4: midnight-near-hint-around
-bip_39_word_dash_5: midnight-near-hint-around-journey
-bip_39_word_dash_6: midnight-near-hint-around-journey-hope
-bip_39_word_dash_7: midnight-near-hint-around-journey-hope-dynamic
-bip_39_word_dash_8: midnight-near-hint-around-journey-hope-dynamic-open
-bip_39_word_dash_9: midnight-near-hint-around-journey-hope-dynamic-open-either
-bip_39_word_new_br_1: midnight
-bip_39_word_new_br_10: midnight<br>near<br>hint<br>around<br>journey<br>hope<br>dynamic<br>open<br>either<br>tower
-bip_39_word_new_br_11: midnight<br>near<br>hint<br>around<br>journey<br>hope<br>dynamic<br>open<br>either<br>tower<br>shove
 bip_39_word_new_br_12: midnight<br>near<br>hint<br>around<br>journey<br>hope<br>dynamic<br>open<br>either<br>tower<br>shove<br>achieve
 bip_39_word_new_br_2: midnight<br>near
 bip_39_word_new_br_3: midnight<br>near<br>hint
-bip_39_word_new_br_4: midnight<br>near<br>hint<br>around
-bip_39_word_new_br_5: midnight<br>near<br>hint<br>around<br>journey
-bip_39_word_new_br_6: midnight<br>near<br>hint<br>around<br>journey<br>hope
-bip_39_word_new_br_7: midnight<br>near<br>hint<br>around<br>journey<br>hope<br>dynamic
-bip_39_word_new_br_8: midnight<br>near<br>hint<br>around<br>journey<br>hope<br>dynamic<br>open
-bip_39_word_new_br_9: midnight<br>near<br>hint<br>around<br>journey<br>hope<br>dynamic<br>open<br>either
-bip_39_word_new_line_1: midnight
-bip_39_word_new_line_10: 'midnight
-
-  near
-
-  hint
-
-  around
-
-  journey
-
-  hope
-
-  dynamic
-
-  open
-
-  either
-
-  tower'
-bip_39_word_new_line_11: 'midnight
-
-  near
-
-  hint
-
-  around
-
-  journey
-
-  hope
-
-  dynamic
-
-  open
-
-  either
-
-  tower
-
-  shove'
 bip_39_word_new_line_12: 'midnight
 
   near
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'midnight
   near
 
   hint'
-bip_39_word_new_line_4: 'midnight
-
-  near
-
-  hint
-
-  around'
-bip_39_word_new_line_5: 'midnight
-
-  near
-
-  hint
-
-  around
-
-  journey'
-bip_39_word_new_line_6: 'midnight
-
-  near
-
-  hint
-
-  around
-
-  journey
-
-  hope'
-bip_39_word_new_line_7: 'midnight
-
-  near
-
-  hint
-
-  around
-
-  journey
-
-  hope
-
-  dynamic'
-bip_39_word_new_line_8: 'midnight
-
-  near
-
-  hint
-
-  around
-
-  journey
-
-  hope
-
-  dynamic
-
-  open'
-bip_39_word_new_line_9: 'midnight
-
-  near
-
-  hint
-
-  around
-
-  journey
-
-  hope
-
-  dynamic
-
-  open
-
-  either'
-bip_39_word_no_space_1: midnight
-bip_39_word_no_space_10: midnightnearhintaroundjourneyhopedynamicopeneithertower
-bip_39_word_no_space_11: midnightnearhintaroundjourneyhopedynamicopeneithertowershove
 bip_39_word_no_space_12: midnightnearhintaroundjourneyhopedynamicopeneithertowershoveachieve
 bip_39_word_no_space_2: midnightnear
 bip_39_word_no_space_3: midnightnearhint
-bip_39_word_no_space_4: midnightnearhintaround
-bip_39_word_no_space_5: midnightnearhintaroundjourney
-bip_39_word_no_space_6: midnightnearhintaroundjourneyhope
-bip_39_word_no_space_7: midnightnearhintaroundjourneyhopedynamic
-bip_39_word_no_space_8: midnightnearhintaroundjourneyhopedynamicopen
-bip_39_word_no_space_9: midnightnearhintaroundjourneyhopedynamicopeneither
-bip_39_word_space_0:
-- midnight
-- near
-- hint
-- around
-- journey
-- hope
-- dynamic
-- open
-- either
-- tower
-- shove
-- achieve
-bip_39_word_space_1: midnight
-bip_39_word_space_10: midnight near hint around journey hope dynamic open either tower
-bip_39_word_space_11: midnight near hint around journey hope dynamic open either tower
-  shove
 bip_39_word_space_12: midnight near hint around journey hope dynamic open either tower
   shove achieve
 bip_39_word_space_2: midnight near
 bip_39_word_space_3: midnight near hint
-bip_39_word_space_4: midnight near hint around
-bip_39_word_space_5: midnight near hint around journey
-bip_39_word_space_6: midnight near hint around journey hope
-bip_39_word_space_7: midnight near hint around journey hope dynamic
-bip_39_word_space_8: midnight near hint around journey hope dynamic open
-bip_39_word_space_9: midnight near hint around journey hope dynamic open either
-bip_39_word_underscore_1: midnight
-bip_39_word_underscore_10: midnight_near_hint_around_journey_hope_dynamic_open_either_tower
-bip_39_word_underscore_11: midnight_near_hint_around_journey_hope_dynamic_open_either_tower_shove
 bip_39_word_underscore_12: midnight_near_hint_around_journey_hope_dynamic_open_either_tower_shove_achieve
 bip_39_word_underscore_2: midnight_near
 bip_39_word_underscore_3: midnight_near_hint
-bip_39_word_underscore_4: midnight_near_hint_around
-bip_39_word_underscore_5: midnight_near_hint_around_journey
-bip_39_word_underscore_6: midnight_near_hint_around_journey_hope
-bip_39_word_underscore_7: midnight_near_hint_around_journey_hope_dynamic
-bip_39_word_underscore_8: midnight_near_hint_around_journey_hope_dynamic_open
-bip_39_word_underscore_9: midnight_near_hint_around_journey_hope_dynamic_open_either
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

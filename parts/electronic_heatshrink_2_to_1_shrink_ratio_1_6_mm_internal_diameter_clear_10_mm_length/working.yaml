@@ -1,68 +1,9 @@
-bip_39_word_dash_1: domain
-bip_39_word_dash_10: domain-absent-zone-trap-pen-able-foam-problem-certain-jeans
-bip_39_word_dash_11: domain-absent-zone-trap-pen-able-foam-problem-certain-jeans-year
 bip_39_word_dash_12: domain-absent-zone-trap-pen-able-foam-problem-certain-jeans-year-analyst
 bip_39_word_dash_2: domain-absent
 bip_39_word_dash_3: domain-absent-zone
-bip_39_word_dash_4: domain-absent-zone-trap
-bip_39_word_dash_5: domain-absent-zone-trap-pen
-bip_39_word_dash_6: domain-absent-zone-trap-pen-able
-bip_39_word_dash_7: domain-absent-zone-trap-pen-able-foam
-bip_39_word_dash_8: domain-absent-zone-trap-pen-able-foam-problem
-bip_39_word_dash_9: domain-absent-zone-trap-pen-able-foam-problem-certain
-bip_39_word_new_br_1: domain
-bip_39_word_new_br_10: domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain<br>jeans
-bip_39_word_new_br_11: domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain<br>jeans<br>year
 bip_39_word_new_br_12: domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain<br>jeans<br>year<br>analyst
 bip_39_word_new_br_2: domain<br>absent
 bip_39_word_new_br_3: domain<br>absent<br>zone
-bip_39_word_new_br_4: domain<br>absent<br>zone<br>trap
-bip_39_word_new_br_5: domain<br>absent<br>zone<br>trap<br>pen
-bip_39_word_new_br_6: domain<br>absent<br>zone<br>trap<br>pen<br>able
-bip_39_word_new_br_7: domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam
-bip_39_word_new_br_8: domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem
-bip_39_word_new_br_9: domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain
-bip_39_word_new_line_1: domain
-bip_39_word_new_line_10: 'domain
-
-  absent
-
-  zone
-
-  trap
-
-  pen
-
-  able
-
-  foam
-
-  problem
-
-  certain
-
-  jeans'
-bip_39_word_new_line_11: 'domain
-
-  absent
-
-  zone
-
-  trap
-
-  pen
-
-  able
-
-  foam
-
-  problem
-
-  certain
-
-  jeans
-
-  year'
 bip_39_word_new_line_12: 'domain
 
   absent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'domain
   absent
 
   zone'
-bip_39_word_new_line_4: 'domain
-
-  absent
-
-  zone
-
-  trap'
-bip_39_word_new_line_5: 'domain
-
-  absent
-
-  zone
-
-  trap
-
-  pen'
-bip_39_word_new_line_6: 'domain
-
-  absent
-
-  zone
-
-  trap
-
-  pen
-
-  able'
-bip_39_word_new_line_7: 'domain
-
-  absent
-
-  zone
-
-  trap
-
-  pen
-
-  able
-
-  foam'
-bip_39_word_new_line_8: 'domain
-
-  absent
-
-  zone
-
-  trap
-
-  pen
-
-  able
-
-  foam
-
-  problem'
-bip_39_word_new_line_9: 'domain
-
-  absent
-
-  zone
-
-  trap
-
-  pen
-
-  able
-
-  foam
-
-  problem
-
-  certain'
-bip_39_word_no_space_1: domain
-bip_39_word_no_space_10: domainabsentzonetrappenablefoamproblemcertainjeans
-bip_39_word_no_space_11: domainabsentzonetrappenablefoamproblemcertainjeansyear
 bip_39_word_no_space_12: domainabsentzonetrappenablefoamproblemcertainjeansyearanalyst
 bip_39_word_no_space_2: domainabsent
 bip_39_word_no_space_3: domainabsentzone
-bip_39_word_no_space_4: domainabsentzonetrap
-bip_39_word_no_space_5: domainabsentzonetrappen
-bip_39_word_no_space_6: domainabsentzonetrappenable
-bip_39_word_no_space_7: domainabsentzonetrappenablefoam
-bip_39_word_no_space_8: domainabsentzonetrappenablefoamproblem
-bip_39_word_no_space_9: domainabsentzonetrappenablefoamproblemcertain
-bip_39_word_space_0:
-- domain
-- absent
-- zone
-- trap
-- pen
-- able
-- foam
-- problem
-- certain
-- jeans
-- year
-- analyst
-bip_39_word_space_1: domain
-bip_39_word_space_10: domain absent zone trap pen able foam problem certain jeans
-bip_39_word_space_11: domain absent zone trap pen able foam problem certain jeans
-  year
 bip_39_word_space_12: domain absent zone trap pen able foam problem certain jeans
   year analyst
 bip_39_word_space_2: domain absent
 bip_39_word_space_3: domain absent zone
-bip_39_word_space_4: domain absent zone trap
-bip_39_word_space_5: domain absent zone trap pen
-bip_39_word_space_6: domain absent zone trap pen able
-bip_39_word_space_7: domain absent zone trap pen able foam
-bip_39_word_space_8: domain absent zone trap pen able foam problem
-bip_39_word_space_9: domain absent zone trap pen able foam problem certain
-bip_39_word_underscore_1: domain
-bip_39_word_underscore_10: domain_absent_zone_trap_pen_able_foam_problem_certain_jeans
-bip_39_word_underscore_11: domain_absent_zone_trap_pen_able_foam_problem_certain_jeans_year
 bip_39_word_underscore_12: domain_absent_zone_trap_pen_able_foam_problem_certain_jeans_year_analyst
 bip_39_word_underscore_2: domain_absent
 bip_39_word_underscore_3: domain_absent_zone
-bip_39_word_underscore_4: domain_absent_zone_trap
-bip_39_word_underscore_5: domain_absent_zone_trap_pen
-bip_39_word_underscore_6: domain_absent_zone_trap_pen_able
-bip_39_word_underscore_7: domain_absent_zone_trap_pen_able_foam
-bip_39_word_underscore_8: domain_absent_zone_trap_pen_able_foam_problem
-bip_39_word_underscore_9: domain_absent_zone_trap_pen_able_foam_problem_certain
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

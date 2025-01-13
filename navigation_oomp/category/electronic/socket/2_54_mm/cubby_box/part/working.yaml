@@ -1,68 +1,9 @@
-bip_39_word_dash_1: message
-bip_39_word_dash_10: message-sweet-distance-pig-derive-mind-clay-twist-bonus-maximum
-bip_39_word_dash_11: message-sweet-distance-pig-derive-mind-clay-twist-bonus-maximum-loop
 bip_39_word_dash_12: message-sweet-distance-pig-derive-mind-clay-twist-bonus-maximum-loop-afford
 bip_39_word_dash_2: message-sweet
 bip_39_word_dash_3: message-sweet-distance
-bip_39_word_dash_4: message-sweet-distance-pig
-bip_39_word_dash_5: message-sweet-distance-pig-derive
-bip_39_word_dash_6: message-sweet-distance-pig-derive-mind
-bip_39_word_dash_7: message-sweet-distance-pig-derive-mind-clay
-bip_39_word_dash_8: message-sweet-distance-pig-derive-mind-clay-twist
-bip_39_word_dash_9: message-sweet-distance-pig-derive-mind-clay-twist-bonus
-bip_39_word_new_br_1: message
-bip_39_word_new_br_10: message<br>sweet<br>distance<br>pig<br>derive<br>mind<br>clay<br>twist<br>bonus<br>maximum
-bip_39_word_new_br_11: message<br>sweet<br>distance<br>pig<br>derive<br>mind<br>clay<br>twist<br>bonus<br>maximum<br>loop
 bip_39_word_new_br_12: message<br>sweet<br>distance<br>pig<br>derive<br>mind<br>clay<br>twist<br>bonus<br>maximum<br>loop<br>afford
 bip_39_word_new_br_2: message<br>sweet
 bip_39_word_new_br_3: message<br>sweet<br>distance
-bip_39_word_new_br_4: message<br>sweet<br>distance<br>pig
-bip_39_word_new_br_5: message<br>sweet<br>distance<br>pig<br>derive
-bip_39_word_new_br_6: message<br>sweet<br>distance<br>pig<br>derive<br>mind
-bip_39_word_new_br_7: message<br>sweet<br>distance<br>pig<br>derive<br>mind<br>clay
-bip_39_word_new_br_8: message<br>sweet<br>distance<br>pig<br>derive<br>mind<br>clay<br>twist
-bip_39_word_new_br_9: message<br>sweet<br>distance<br>pig<br>derive<br>mind<br>clay<br>twist<br>bonus
-bip_39_word_new_line_1: message
-bip_39_word_new_line_10: 'message
-
-  sweet
-
-  distance
-
-  pig
-
-  derive
-
-  mind
-
-  clay
-
-  twist
-
-  bonus
-
-  maximum'
-bip_39_word_new_line_11: 'message
-
-  sweet
-
-  distance
-
-  pig
-
-  derive
-
-  mind
-
-  clay
-
-  twist
-
-  bonus
-
-  maximum
-
-  loop'
 bip_39_word_new_line_12: 'message
 
   sweet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'message
   sweet
 
   distance'
-bip_39_word_new_line_4: 'message
-
-  sweet
-
-  distance
-
-  pig'
-bip_39_word_new_line_5: 'message
-
-  sweet
-
-  distance
-
-  pig
-
-  derive'
-bip_39_word_new_line_6: 'message
-
-  sweet
-
-  distance
-
-  pig
-
-  derive
-
-  mind'
-bip_39_word_new_line_7: 'message
-
-  sweet
-
-  distance
-
-  pig
-
-  derive
-
-  mind
-
-  clay'
-bip_39_word_new_line_8: 'message
-
-  sweet
-
-  distance
-
-  pig
-
-  derive
-
-  mind
-
-  clay
-
-  twist'
-bip_39_word_new_line_9: 'message
-
-  sweet
-
-  distance
-
-  pig
-
-  derive
-
-  mind
-
-  clay
-
-  twist
-
-  bonus'
-bip_39_word_no_space_1: message
-bip_39_word_no_space_10: messagesweetdistancepigderivemindclaytwistbonusmaximum
-bip_39_word_no_space_11: messagesweetdistancepigderivemindclaytwistbonusmaximumloop
 bip_39_word_no_space_12: messagesweetdistancepigderivemindclaytwistbonusmaximumloopafford
 bip_39_word_no_space_2: messagesweet
 bip_39_word_no_space_3: messagesweetdistance
-bip_39_word_no_space_4: messagesweetdistancepig
-bip_39_word_no_space_5: messagesweetdistancepigderive
-bip_39_word_no_space_6: messagesweetdistancepigderivemind
-bip_39_word_no_space_7: messagesweetdistancepigderivemindclay
-bip_39_word_no_space_8: messagesweetdistancepigderivemindclaytwist
-bip_39_word_no_space_9: messagesweetdistancepigderivemindclaytwistbonus
-bip_39_word_space_0:
-- message
-- sweet
-- distance
-- pig
-- derive
-- mind
-- clay
-- twist
-- bonus
-- maximum
-- loop
-- afford
-bip_39_word_space_1: message
-bip_39_word_space_10: message sweet distance pig derive mind clay twist bonus maximum
-bip_39_word_space_11: message sweet distance pig derive mind clay twist bonus maximum
-  loop
 bip_39_word_space_12: message sweet distance pig derive mind clay twist bonus maximum
   loop afford
 bip_39_word_space_2: message sweet
 bip_39_word_space_3: message sweet distance
-bip_39_word_space_4: message sweet distance pig
-bip_39_word_space_5: message sweet distance pig derive
-bip_39_word_space_6: message sweet distance pig derive mind
-bip_39_word_space_7: message sweet distance pig derive mind clay
-bip_39_word_space_8: message sweet distance pig derive mind clay twist
-bip_39_word_space_9: message sweet distance pig derive mind clay twist bonus
-bip_39_word_underscore_1: message
-bip_39_word_underscore_10: message_sweet_distance_pig_derive_mind_clay_twist_bonus_maximum
-bip_39_word_underscore_11: message_sweet_distance_pig_derive_mind_clay_twist_bonus_maximum_loop
 bip_39_word_underscore_12: message_sweet_distance_pig_derive_mind_clay_twist_bonus_maximum_loop_afford
 bip_39_word_underscore_2: message_sweet
 bip_39_word_underscore_3: message_sweet_distance
-bip_39_word_underscore_4: message_sweet_distance_pig
-bip_39_word_underscore_5: message_sweet_distance_pig_derive
-bip_39_word_underscore_6: message_sweet_distance_pig_derive_mind
-bip_39_word_underscore_7: message_sweet_distance_pig_derive_mind_clay
-bip_39_word_underscore_8: message_sweet_distance_pig_derive_mind_clay_twist
-bip_39_word_underscore_9: message_sweet_distance_pig_derive_mind_clay_twist_bonus
 classification: category
 classification_capital: Category
 classification_first_letter: c

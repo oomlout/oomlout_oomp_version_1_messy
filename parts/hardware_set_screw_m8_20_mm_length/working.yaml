@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420654265'
-bip_39_word_dash_1: mention
-bip_39_word_dash_10: mention-train-tired-network-wash-retire-fashion-casino-drive-brand
-bip_39_word_dash_11: mention-train-tired-network-wash-retire-fashion-casino-drive-brand-bag
 bip_39_word_dash_12: mention-train-tired-network-wash-retire-fashion-casino-drive-brand-bag-apple
 bip_39_word_dash_2: mention-train
 bip_39_word_dash_3: mention-train-tired
-bip_39_word_dash_4: mention-train-tired-network
-bip_39_word_dash_5: mention-train-tired-network-wash
-bip_39_word_dash_6: mention-train-tired-network-wash-retire
-bip_39_word_dash_7: mention-train-tired-network-wash-retire-fashion
-bip_39_word_dash_8: mention-train-tired-network-wash-retire-fashion-casino
-bip_39_word_dash_9: mention-train-tired-network-wash-retire-fashion-casino-drive
-bip_39_word_new_br_1: mention
-bip_39_word_new_br_10: mention<br>train<br>tired<br>network<br>wash<br>retire<br>fashion<br>casino<br>drive<br>brand
-bip_39_word_new_br_11: mention<br>train<br>tired<br>network<br>wash<br>retire<br>fashion<br>casino<br>drive<br>brand<br>bag
 bip_39_word_new_br_12: mention<br>train<br>tired<br>network<br>wash<br>retire<br>fashion<br>casino<br>drive<br>brand<br>bag<br>apple
 bip_39_word_new_br_2: mention<br>train
 bip_39_word_new_br_3: mention<br>train<br>tired
-bip_39_word_new_br_4: mention<br>train<br>tired<br>network
-bip_39_word_new_br_5: mention<br>train<br>tired<br>network<br>wash
-bip_39_word_new_br_6: mention<br>train<br>tired<br>network<br>wash<br>retire
-bip_39_word_new_br_7: mention<br>train<br>tired<br>network<br>wash<br>retire<br>fashion
-bip_39_word_new_br_8: mention<br>train<br>tired<br>network<br>wash<br>retire<br>fashion<br>casino
-bip_39_word_new_br_9: mention<br>train<br>tired<br>network<br>wash<br>retire<br>fashion<br>casino<br>drive
-bip_39_word_new_line_1: mention
-bip_39_word_new_line_10: 'mention
-
-  train
-
-  tired
-
-  network
-
-  wash
-
-  retire
-
-  fashion
-
-  casino
-
-  drive
-
-  brand'
-bip_39_word_new_line_11: 'mention
-
-  train
-
-  tired
-
-  network
-
-  wash
-
-  retire
-
-  fashion
-
-  casino
-
-  drive
-
-  brand
-
-  bag'
 bip_39_word_new_line_12: 'mention
 
   train
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'mention
   train
 
   tired'
-bip_39_word_new_line_4: 'mention
-
-  train
-
-  tired
-
-  network'
-bip_39_word_new_line_5: 'mention
-
-  train
-
-  tired
-
-  network
-
-  wash'
-bip_39_word_new_line_6: 'mention
-
-  train
-
-  tired
-
-  network
-
-  wash
-
-  retire'
-bip_39_word_new_line_7: 'mention
-
-  train
-
-  tired
-
-  network
-
-  wash
-
-  retire
-
-  fashion'
-bip_39_word_new_line_8: 'mention
-
-  train
-
-  tired
-
-  network
-
-  wash
-
-  retire
-
-  fashion
-
-  casino'
-bip_39_word_new_line_9: 'mention
-
-  train
-
-  tired
-
-  network
-
-  wash
-
-  retire
-
-  fashion
-
-  casino
-
-  drive'
-bip_39_word_no_space_1: mention
-bip_39_word_no_space_10: mentiontraintirednetworkwashretirefashioncasinodrivebrand
-bip_39_word_no_space_11: mentiontraintirednetworkwashretirefashioncasinodrivebrandbag
 bip_39_word_no_space_12: mentiontraintirednetworkwashretirefashioncasinodrivebrandbagapple
 bip_39_word_no_space_2: mentiontrain
 bip_39_word_no_space_3: mentiontraintired
-bip_39_word_no_space_4: mentiontraintirednetwork
-bip_39_word_no_space_5: mentiontraintirednetworkwash
-bip_39_word_no_space_6: mentiontraintirednetworkwashretire
-bip_39_word_no_space_7: mentiontraintirednetworkwashretirefashion
-bip_39_word_no_space_8: mentiontraintirednetworkwashretirefashioncasino
-bip_39_word_no_space_9: mentiontraintirednetworkwashretirefashioncasinodrive
-bip_39_word_space_0:
-- mention
-- train
-- tired
-- network
-- wash
-- retire
-- fashion
-- casino
-- drive
-- brand
-- bag
-- apple
-bip_39_word_space_1: mention
-bip_39_word_space_10: mention train tired network wash retire fashion casino drive
-  brand
-bip_39_word_space_11: mention train tired network wash retire fashion casino drive
-  brand bag
 bip_39_word_space_12: mention train tired network wash retire fashion casino drive
   brand bag apple
 bip_39_word_space_2: mention train
 bip_39_word_space_3: mention train tired
-bip_39_word_space_4: mention train tired network
-bip_39_word_space_5: mention train tired network wash
-bip_39_word_space_6: mention train tired network wash retire
-bip_39_word_space_7: mention train tired network wash retire fashion
-bip_39_word_space_8: mention train tired network wash retire fashion casino
-bip_39_word_space_9: mention train tired network wash retire fashion casino drive
-bip_39_word_underscore_1: mention
-bip_39_word_underscore_10: mention_train_tired_network_wash_retire_fashion_casino_drive_brand
-bip_39_word_underscore_11: mention_train_tired_network_wash_retire_fashion_casino_drive_brand_bag
 bip_39_word_underscore_12: mention_train_tired_network_wash_retire_fashion_casino_drive_brand_bag_apple
 bip_39_word_underscore_2: mention_train
 bip_39_word_underscore_3: mention_train_tired
-bip_39_word_underscore_4: mention_train_tired_network
-bip_39_word_underscore_5: mention_train_tired_network_wash
-bip_39_word_underscore_6: mention_train_tired_network_wash_retire
-bip_39_word_underscore_7: mention_train_tired_network_wash_retire_fashion
-bip_39_word_underscore_8: mention_train_tired_network_wash_retire_fashion_casino
-bip_39_word_underscore_9: mention_train_tired_network_wash_retire_fashion_casino_drive
 box_of_box_size_manufacturer_metalmate: '1600'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: maze
-bip_39_word_dash_10: maze-recall-consider-pledge-puzzle-dream-swift-bacon-insane-stay
-bip_39_word_dash_11: maze-recall-consider-pledge-puzzle-dream-swift-bacon-insane-stay-unable
 bip_39_word_dash_12: maze-recall-consider-pledge-puzzle-dream-swift-bacon-insane-stay-unable-attitude
 bip_39_word_dash_2: maze-recall
 bip_39_word_dash_3: maze-recall-consider
-bip_39_word_dash_4: maze-recall-consider-pledge
-bip_39_word_dash_5: maze-recall-consider-pledge-puzzle
-bip_39_word_dash_6: maze-recall-consider-pledge-puzzle-dream
-bip_39_word_dash_7: maze-recall-consider-pledge-puzzle-dream-swift
-bip_39_word_dash_8: maze-recall-consider-pledge-puzzle-dream-swift-bacon
-bip_39_word_dash_9: maze-recall-consider-pledge-puzzle-dream-swift-bacon-insane
-bip_39_word_new_br_1: maze
-bip_39_word_new_br_10: maze<br>recall<br>consider<br>pledge<br>puzzle<br>dream<br>swift<br>bacon<br>insane<br>stay
-bip_39_word_new_br_11: maze<br>recall<br>consider<br>pledge<br>puzzle<br>dream<br>swift<br>bacon<br>insane<br>stay<br>unable
 bip_39_word_new_br_12: maze<br>recall<br>consider<br>pledge<br>puzzle<br>dream<br>swift<br>bacon<br>insane<br>stay<br>unable<br>attitude
 bip_39_word_new_br_2: maze<br>recall
 bip_39_word_new_br_3: maze<br>recall<br>consider
-bip_39_word_new_br_4: maze<br>recall<br>consider<br>pledge
-bip_39_word_new_br_5: maze<br>recall<br>consider<br>pledge<br>puzzle
-bip_39_word_new_br_6: maze<br>recall<br>consider<br>pledge<br>puzzle<br>dream
-bip_39_word_new_br_7: maze<br>recall<br>consider<br>pledge<br>puzzle<br>dream<br>swift
-bip_39_word_new_br_8: maze<br>recall<br>consider<br>pledge<br>puzzle<br>dream<br>swift<br>bacon
-bip_39_word_new_br_9: maze<br>recall<br>consider<br>pledge<br>puzzle<br>dream<br>swift<br>bacon<br>insane
-bip_39_word_new_line_1: maze
-bip_39_word_new_line_10: 'maze
-
-  recall
-
-  consider
-
-  pledge
-
-  puzzle
-
-  dream
-
-  swift
-
-  bacon
-
-  insane
-
-  stay'
-bip_39_word_new_line_11: 'maze
-
-  recall
-
-  consider
-
-  pledge
-
-  puzzle
-
-  dream
-
-  swift
-
-  bacon
-
-  insane
-
-  stay
-
-  unable'
 bip_39_word_new_line_12: 'maze
 
   recall
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'maze
   recall
 
   consider'
-bip_39_word_new_line_4: 'maze
-
-  recall
-
-  consider
-
-  pledge'
-bip_39_word_new_line_5: 'maze
-
-  recall
-
-  consider
-
-  pledge
-
-  puzzle'
-bip_39_word_new_line_6: 'maze
-
-  recall
-
-  consider
-
-  pledge
-
-  puzzle
-
-  dream'
-bip_39_word_new_line_7: 'maze
-
-  recall
-
-  consider
-
-  pledge
-
-  puzzle
-
-  dream
-
-  swift'
-bip_39_word_new_line_8: 'maze
-
-  recall
-
-  consider
-
-  pledge
-
-  puzzle
-
-  dream
-
-  swift
-
-  bacon'
-bip_39_word_new_line_9: 'maze
-
-  recall
-
-  consider
-
-  pledge
-
-  puzzle
-
-  dream
-
-  swift
-
-  bacon
-
-  insane'
-bip_39_word_no_space_1: maze
-bip_39_word_no_space_10: mazerecallconsiderpledgepuzzledreamswiftbaconinsanestay
-bip_39_word_no_space_11: mazerecallconsiderpledgepuzzledreamswiftbaconinsanestayunable
 bip_39_word_no_space_12: mazerecallconsiderpledgepuzzledreamswiftbaconinsanestayunableattitude
 bip_39_word_no_space_2: mazerecall
 bip_39_word_no_space_3: mazerecallconsider
-bip_39_word_no_space_4: mazerecallconsiderpledge
-bip_39_word_no_space_5: mazerecallconsiderpledgepuzzle
-bip_39_word_no_space_6: mazerecallconsiderpledgepuzzledream
-bip_39_word_no_space_7: mazerecallconsiderpledgepuzzledreamswift
-bip_39_word_no_space_8: mazerecallconsiderpledgepuzzledreamswiftbacon
-bip_39_word_no_space_9: mazerecallconsiderpledgepuzzledreamswiftbaconinsane
-bip_39_word_space_0:
-- maze
-- recall
-- consider
-- pledge
-- puzzle
-- dream
-- swift
-- bacon
-- insane
-- stay
-- unable
-- attitude
-bip_39_word_space_1: maze
-bip_39_word_space_10: maze recall consider pledge puzzle dream swift bacon insane
-  stay
-bip_39_word_space_11: maze recall consider pledge puzzle dream swift bacon insane
-  stay unable
 bip_39_word_space_12: maze recall consider pledge puzzle dream swift bacon insane
   stay unable attitude
 bip_39_word_space_2: maze recall
 bip_39_word_space_3: maze recall consider
-bip_39_word_space_4: maze recall consider pledge
-bip_39_word_space_5: maze recall consider pledge puzzle
-bip_39_word_space_6: maze recall consider pledge puzzle dream
-bip_39_word_space_7: maze recall consider pledge puzzle dream swift
-bip_39_word_space_8: maze recall consider pledge puzzle dream swift bacon
-bip_39_word_space_9: maze recall consider pledge puzzle dream swift bacon insane
-bip_39_word_underscore_1: maze
-bip_39_word_underscore_10: maze_recall_consider_pledge_puzzle_dream_swift_bacon_insane_stay
-bip_39_word_underscore_11: maze_recall_consider_pledge_puzzle_dream_swift_bacon_insane_stay_unable
 bip_39_word_underscore_12: maze_recall_consider_pledge_puzzle_dream_swift_bacon_insane_stay_unable_attitude
 bip_39_word_underscore_2: maze_recall
 bip_39_word_underscore_3: maze_recall_consider
-bip_39_word_underscore_4: maze_recall_consider_pledge
-bip_39_word_underscore_5: maze_recall_consider_pledge_puzzle
-bip_39_word_underscore_6: maze_recall_consider_pledge_puzzle_dream
-bip_39_word_underscore_7: maze_recall_consider_pledge_puzzle_dream_swift
-bip_39_word_underscore_8: maze_recall_consider_pledge_puzzle_dream_swift_bacon
-bip_39_word_underscore_9: maze_recall_consider_pledge_puzzle_dream_swift_bacon_insane
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

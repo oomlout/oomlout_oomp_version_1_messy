@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scan
-bip_39_word_dash_10: scan-jewel-draft-peasant-raven-cheap-rich-fragile-reward-nerve
-bip_39_word_dash_11: scan-jewel-draft-peasant-raven-cheap-rich-fragile-reward-nerve-level
 bip_39_word_dash_12: scan-jewel-draft-peasant-raven-cheap-rich-fragile-reward-nerve-level-among
 bip_39_word_dash_2: scan-jewel
 bip_39_word_dash_3: scan-jewel-draft
-bip_39_word_dash_4: scan-jewel-draft-peasant
-bip_39_word_dash_5: scan-jewel-draft-peasant-raven
-bip_39_word_dash_6: scan-jewel-draft-peasant-raven-cheap
-bip_39_word_dash_7: scan-jewel-draft-peasant-raven-cheap-rich
-bip_39_word_dash_8: scan-jewel-draft-peasant-raven-cheap-rich-fragile
-bip_39_word_dash_9: scan-jewel-draft-peasant-raven-cheap-rich-fragile-reward
-bip_39_word_new_br_1: scan
-bip_39_word_new_br_10: scan<br>jewel<br>draft<br>peasant<br>raven<br>cheap<br>rich<br>fragile<br>reward<br>nerve
-bip_39_word_new_br_11: scan<br>jewel<br>draft<br>peasant<br>raven<br>cheap<br>rich<br>fragile<br>reward<br>nerve<br>level
 bip_39_word_new_br_12: scan<br>jewel<br>draft<br>peasant<br>raven<br>cheap<br>rich<br>fragile<br>reward<br>nerve<br>level<br>among
 bip_39_word_new_br_2: scan<br>jewel
 bip_39_word_new_br_3: scan<br>jewel<br>draft
-bip_39_word_new_br_4: scan<br>jewel<br>draft<br>peasant
-bip_39_word_new_br_5: scan<br>jewel<br>draft<br>peasant<br>raven
-bip_39_word_new_br_6: scan<br>jewel<br>draft<br>peasant<br>raven<br>cheap
-bip_39_word_new_br_7: scan<br>jewel<br>draft<br>peasant<br>raven<br>cheap<br>rich
-bip_39_word_new_br_8: scan<br>jewel<br>draft<br>peasant<br>raven<br>cheap<br>rich<br>fragile
-bip_39_word_new_br_9: scan<br>jewel<br>draft<br>peasant<br>raven<br>cheap<br>rich<br>fragile<br>reward
-bip_39_word_new_line_1: scan
-bip_39_word_new_line_10: 'scan
-
-  jewel
-
-  draft
-
-  peasant
-
-  raven
-
-  cheap
-
-  rich
-
-  fragile
-
-  reward
-
-  nerve'
-bip_39_word_new_line_11: 'scan
-
-  jewel
-
-  draft
-
-  peasant
-
-  raven
-
-  cheap
-
-  rich
-
-  fragile
-
-  reward
-
-  nerve
-
-  level'
 bip_39_word_new_line_12: 'scan
 
   jewel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scan
   jewel
 
   draft'
-bip_39_word_new_line_4: 'scan
-
-  jewel
-
-  draft
-
-  peasant'
-bip_39_word_new_line_5: 'scan
-
-  jewel
-
-  draft
-
-  peasant
-
-  raven'
-bip_39_word_new_line_6: 'scan
-
-  jewel
-
-  draft
-
-  peasant
-
-  raven
-
-  cheap'
-bip_39_word_new_line_7: 'scan
-
-  jewel
-
-  draft
-
-  peasant
-
-  raven
-
-  cheap
-
-  rich'
-bip_39_word_new_line_8: 'scan
-
-  jewel
-
-  draft
-
-  peasant
-
-  raven
-
-  cheap
-
-  rich
-
-  fragile'
-bip_39_word_new_line_9: 'scan
-
-  jewel
-
-  draft
-
-  peasant
-
-  raven
-
-  cheap
-
-  rich
-
-  fragile
-
-  reward'
-bip_39_word_no_space_1: scan
-bip_39_word_no_space_10: scanjeweldraftpeasantravencheaprichfragilerewardnerve
-bip_39_word_no_space_11: scanjeweldraftpeasantravencheaprichfragilerewardnervelevel
 bip_39_word_no_space_12: scanjeweldraftpeasantravencheaprichfragilerewardnervelevelamong
 bip_39_word_no_space_2: scanjewel
 bip_39_word_no_space_3: scanjeweldraft
-bip_39_word_no_space_4: scanjeweldraftpeasant
-bip_39_word_no_space_5: scanjeweldraftpeasantraven
-bip_39_word_no_space_6: scanjeweldraftpeasantravencheap
-bip_39_word_no_space_7: scanjeweldraftpeasantravencheaprich
-bip_39_word_no_space_8: scanjeweldraftpeasantravencheaprichfragile
-bip_39_word_no_space_9: scanjeweldraftpeasantravencheaprichfragilereward
-bip_39_word_space_0:
-- scan
-- jewel
-- draft
-- peasant
-- raven
-- cheap
-- rich
-- fragile
-- reward
-- nerve
-- level
-- among
-bip_39_word_space_1: scan
-bip_39_word_space_10: scan jewel draft peasant raven cheap rich fragile reward nerve
-bip_39_word_space_11: scan jewel draft peasant raven cheap rich fragile reward nerve
-  level
 bip_39_word_space_12: scan jewel draft peasant raven cheap rich fragile reward nerve
   level among
 bip_39_word_space_2: scan jewel
 bip_39_word_space_3: scan jewel draft
-bip_39_word_space_4: scan jewel draft peasant
-bip_39_word_space_5: scan jewel draft peasant raven
-bip_39_word_space_6: scan jewel draft peasant raven cheap
-bip_39_word_space_7: scan jewel draft peasant raven cheap rich
-bip_39_word_space_8: scan jewel draft peasant raven cheap rich fragile
-bip_39_word_space_9: scan jewel draft peasant raven cheap rich fragile reward
-bip_39_word_underscore_1: scan
-bip_39_word_underscore_10: scan_jewel_draft_peasant_raven_cheap_rich_fragile_reward_nerve
-bip_39_word_underscore_11: scan_jewel_draft_peasant_raven_cheap_rich_fragile_reward_nerve_level
 bip_39_word_underscore_12: scan_jewel_draft_peasant_raven_cheap_rich_fragile_reward_nerve_level_among
 bip_39_word_underscore_2: scan_jewel
 bip_39_word_underscore_3: scan_jewel_draft
-bip_39_word_underscore_4: scan_jewel_draft_peasant
-bip_39_word_underscore_5: scan_jewel_draft_peasant_raven
-bip_39_word_underscore_6: scan_jewel_draft_peasant_raven_cheap
-bip_39_word_underscore_7: scan_jewel_draft_peasant_raven_cheap_rich
-bip_39_word_underscore_8: scan_jewel_draft_peasant_raven_cheap_rich_fragile
-bip_39_word_underscore_9: scan_jewel_draft_peasant_raven_cheap_rich_fragile_reward
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

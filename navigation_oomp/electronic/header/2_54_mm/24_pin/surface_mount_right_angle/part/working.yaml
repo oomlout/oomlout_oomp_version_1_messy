@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dream
-bip_39_word_dash_10: dream-blood-dress-blood-rebuild-army-large-biology-remember-angle
-bip_39_word_dash_11: dream-blood-dress-blood-rebuild-army-large-biology-remember-angle-audit
 bip_39_word_dash_12: dream-blood-dress-blood-rebuild-army-large-biology-remember-angle-audit-art
 bip_39_word_dash_2: dream-blood
 bip_39_word_dash_3: dream-blood-dress
-bip_39_word_dash_4: dream-blood-dress-blood
-bip_39_word_dash_5: dream-blood-dress-blood-rebuild
-bip_39_word_dash_6: dream-blood-dress-blood-rebuild-army
-bip_39_word_dash_7: dream-blood-dress-blood-rebuild-army-large
-bip_39_word_dash_8: dream-blood-dress-blood-rebuild-army-large-biology
-bip_39_word_dash_9: dream-blood-dress-blood-rebuild-army-large-biology-remember
-bip_39_word_new_br_1: dream
-bip_39_word_new_br_10: dream<br>blood<br>dress<br>blood<br>rebuild<br>army<br>large<br>biology<br>remember<br>angle
-bip_39_word_new_br_11: dream<br>blood<br>dress<br>blood<br>rebuild<br>army<br>large<br>biology<br>remember<br>angle<br>audit
 bip_39_word_new_br_12: dream<br>blood<br>dress<br>blood<br>rebuild<br>army<br>large<br>biology<br>remember<br>angle<br>audit<br>art
 bip_39_word_new_br_2: dream<br>blood
 bip_39_word_new_br_3: dream<br>blood<br>dress
-bip_39_word_new_br_4: dream<br>blood<br>dress<br>blood
-bip_39_word_new_br_5: dream<br>blood<br>dress<br>blood<br>rebuild
-bip_39_word_new_br_6: dream<br>blood<br>dress<br>blood<br>rebuild<br>army
-bip_39_word_new_br_7: dream<br>blood<br>dress<br>blood<br>rebuild<br>army<br>large
-bip_39_word_new_br_8: dream<br>blood<br>dress<br>blood<br>rebuild<br>army<br>large<br>biology
-bip_39_word_new_br_9: dream<br>blood<br>dress<br>blood<br>rebuild<br>army<br>large<br>biology<br>remember
-bip_39_word_new_line_1: dream
-bip_39_word_new_line_10: 'dream
-
-  blood
-
-  dress
-
-  blood
-
-  rebuild
-
-  army
-
-  large
-
-  biology
-
-  remember
-
-  angle'
-bip_39_word_new_line_11: 'dream
-
-  blood
-
-  dress
-
-  blood
-
-  rebuild
-
-  army
-
-  large
-
-  biology
-
-  remember
-
-  angle
-
-  audit'
 bip_39_word_new_line_12: 'dream
 
   blood
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'dream
   blood
 
   dress'
-bip_39_word_new_line_4: 'dream
-
-  blood
-
-  dress
-
-  blood'
-bip_39_word_new_line_5: 'dream
-
-  blood
-
-  dress
-
-  blood
-
-  rebuild'
-bip_39_word_new_line_6: 'dream
-
-  blood
-
-  dress
-
-  blood
-
-  rebuild
-
-  army'
-bip_39_word_new_line_7: 'dream
-
-  blood
-
-  dress
-
-  blood
-
-  rebuild
-
-  army
-
-  large'
-bip_39_word_new_line_8: 'dream
-
-  blood
-
-  dress
-
-  blood
-
-  rebuild
-
-  army
-
-  large
-
-  biology'
-bip_39_word_new_line_9: 'dream
-
-  blood
-
-  dress
-
-  blood
-
-  rebuild
-
-  army
-
-  large
-
-  biology
-
-  remember'
-bip_39_word_no_space_1: dream
-bip_39_word_no_space_10: dreamblooddressbloodrebuildarmylargebiologyrememberangle
-bip_39_word_no_space_11: dreamblooddressbloodrebuildarmylargebiologyrememberangleaudit
 bip_39_word_no_space_12: dreamblooddressbloodrebuildarmylargebiologyrememberangleauditart
 bip_39_word_no_space_2: dreamblood
 bip_39_word_no_space_3: dreamblooddress
-bip_39_word_no_space_4: dreamblooddressblood
-bip_39_word_no_space_5: dreamblooddressbloodrebuild
-bip_39_word_no_space_6: dreamblooddressbloodrebuildarmy
-bip_39_word_no_space_7: dreamblooddressbloodrebuildarmylarge
-bip_39_word_no_space_8: dreamblooddressbloodrebuildarmylargebiology
-bip_39_word_no_space_9: dreamblooddressbloodrebuildarmylargebiologyremember
-bip_39_word_space_0:
-- dream
-- blood
-- dress
-- blood
-- rebuild
-- army
-- large
-- biology
-- remember
-- angle
-- audit
-- art
-bip_39_word_space_1: dream
-bip_39_word_space_10: dream blood dress blood rebuild army large biology remember
-  angle
-bip_39_word_space_11: dream blood dress blood rebuild army large biology remember
-  angle audit
 bip_39_word_space_12: dream blood dress blood rebuild army large biology remember
   angle audit art
 bip_39_word_space_2: dream blood
 bip_39_word_space_3: dream blood dress
-bip_39_word_space_4: dream blood dress blood
-bip_39_word_space_5: dream blood dress blood rebuild
-bip_39_word_space_6: dream blood dress blood rebuild army
-bip_39_word_space_7: dream blood dress blood rebuild army large
-bip_39_word_space_8: dream blood dress blood rebuild army large biology
-bip_39_word_space_9: dream blood dress blood rebuild army large biology remember
-bip_39_word_underscore_1: dream
-bip_39_word_underscore_10: dream_blood_dress_blood_rebuild_army_large_biology_remember_angle
-bip_39_word_underscore_11: dream_blood_dress_blood_rebuild_army_large_biology_remember_angle_audit
 bip_39_word_underscore_12: dream_blood_dress_blood_rebuild_army_large_biology_remember_angle_audit_art
 bip_39_word_underscore_2: dream_blood
 bip_39_word_underscore_3: dream_blood_dress
-bip_39_word_underscore_4: dream_blood_dress_blood
-bip_39_word_underscore_5: dream_blood_dress_blood_rebuild
-bip_39_word_underscore_6: dream_blood_dress_blood_rebuild_army
-bip_39_word_underscore_7: dream_blood_dress_blood_rebuild_army_large
-bip_39_word_underscore_8: dream_blood_dress_blood_rebuild_army_large_biology
-bip_39_word_underscore_9: dream_blood_dress_blood_rebuild_army_large_biology_remember
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

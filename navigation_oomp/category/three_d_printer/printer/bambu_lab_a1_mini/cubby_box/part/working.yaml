@@ -1,68 +1,9 @@
-bip_39_word_dash_1: suit
-bip_39_word_dash_10: suit-flock-dwarf-rural-jar-churn-dinner-fashion-cricket-crunch
-bip_39_word_dash_11: suit-flock-dwarf-rural-jar-churn-dinner-fashion-cricket-crunch-version
 bip_39_word_dash_12: suit-flock-dwarf-rural-jar-churn-dinner-fashion-cricket-crunch-version-age
 bip_39_word_dash_2: suit-flock
 bip_39_word_dash_3: suit-flock-dwarf
-bip_39_word_dash_4: suit-flock-dwarf-rural
-bip_39_word_dash_5: suit-flock-dwarf-rural-jar
-bip_39_word_dash_6: suit-flock-dwarf-rural-jar-churn
-bip_39_word_dash_7: suit-flock-dwarf-rural-jar-churn-dinner
-bip_39_word_dash_8: suit-flock-dwarf-rural-jar-churn-dinner-fashion
-bip_39_word_dash_9: suit-flock-dwarf-rural-jar-churn-dinner-fashion-cricket
-bip_39_word_new_br_1: suit
-bip_39_word_new_br_10: suit<br>flock<br>dwarf<br>rural<br>jar<br>churn<br>dinner<br>fashion<br>cricket<br>crunch
-bip_39_word_new_br_11: suit<br>flock<br>dwarf<br>rural<br>jar<br>churn<br>dinner<br>fashion<br>cricket<br>crunch<br>version
 bip_39_word_new_br_12: suit<br>flock<br>dwarf<br>rural<br>jar<br>churn<br>dinner<br>fashion<br>cricket<br>crunch<br>version<br>age
 bip_39_word_new_br_2: suit<br>flock
 bip_39_word_new_br_3: suit<br>flock<br>dwarf
-bip_39_word_new_br_4: suit<br>flock<br>dwarf<br>rural
-bip_39_word_new_br_5: suit<br>flock<br>dwarf<br>rural<br>jar
-bip_39_word_new_br_6: suit<br>flock<br>dwarf<br>rural<br>jar<br>churn
-bip_39_word_new_br_7: suit<br>flock<br>dwarf<br>rural<br>jar<br>churn<br>dinner
-bip_39_word_new_br_8: suit<br>flock<br>dwarf<br>rural<br>jar<br>churn<br>dinner<br>fashion
-bip_39_word_new_br_9: suit<br>flock<br>dwarf<br>rural<br>jar<br>churn<br>dinner<br>fashion<br>cricket
-bip_39_word_new_line_1: suit
-bip_39_word_new_line_10: 'suit
-
-  flock
-
-  dwarf
-
-  rural
-
-  jar
-
-  churn
-
-  dinner
-
-  fashion
-
-  cricket
-
-  crunch'
-bip_39_word_new_line_11: 'suit
-
-  flock
-
-  dwarf
-
-  rural
-
-  jar
-
-  churn
-
-  dinner
-
-  fashion
-
-  cricket
-
-  crunch
-
-  version'
 bip_39_word_new_line_12: 'suit
 
   flock
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'suit
   flock
 
   dwarf'
-bip_39_word_new_line_4: 'suit
-
-  flock
-
-  dwarf
-
-  rural'
-bip_39_word_new_line_5: 'suit
-
-  flock
-
-  dwarf
-
-  rural
-
-  jar'
-bip_39_word_new_line_6: 'suit
-
-  flock
-
-  dwarf
-
-  rural
-
-  jar
-
-  churn'
-bip_39_word_new_line_7: 'suit
-
-  flock
-
-  dwarf
-
-  rural
-
-  jar
-
-  churn
-
-  dinner'
-bip_39_word_new_line_8: 'suit
-
-  flock
-
-  dwarf
-
-  rural
-
-  jar
-
-  churn
-
-  dinner
-
-  fashion'
-bip_39_word_new_line_9: 'suit
-
-  flock
-
-  dwarf
-
-  rural
-
-  jar
-
-  churn
-
-  dinner
-
-  fashion
-
-  cricket'
-bip_39_word_no_space_1: suit
-bip_39_word_no_space_10: suitflockdwarfruraljarchurndinnerfashioncricketcrunch
-bip_39_word_no_space_11: suitflockdwarfruraljarchurndinnerfashioncricketcrunchversion
 bip_39_word_no_space_12: suitflockdwarfruraljarchurndinnerfashioncricketcrunchversionage
 bip_39_word_no_space_2: suitflock
 bip_39_word_no_space_3: suitflockdwarf
-bip_39_word_no_space_4: suitflockdwarfrural
-bip_39_word_no_space_5: suitflockdwarfruraljar
-bip_39_word_no_space_6: suitflockdwarfruraljarchurn
-bip_39_word_no_space_7: suitflockdwarfruraljarchurndinner
-bip_39_word_no_space_8: suitflockdwarfruraljarchurndinnerfashion
-bip_39_word_no_space_9: suitflockdwarfruraljarchurndinnerfashioncricket
-bip_39_word_space_0:
-- suit
-- flock
-- dwarf
-- rural
-- jar
-- churn
-- dinner
-- fashion
-- cricket
-- crunch
-- version
-- age
-bip_39_word_space_1: suit
-bip_39_word_space_10: suit flock dwarf rural jar churn dinner fashion cricket crunch
-bip_39_word_space_11: suit flock dwarf rural jar churn dinner fashion cricket crunch
-  version
 bip_39_word_space_12: suit flock dwarf rural jar churn dinner fashion cricket crunch
   version age
 bip_39_word_space_2: suit flock
 bip_39_word_space_3: suit flock dwarf
-bip_39_word_space_4: suit flock dwarf rural
-bip_39_word_space_5: suit flock dwarf rural jar
-bip_39_word_space_6: suit flock dwarf rural jar churn
-bip_39_word_space_7: suit flock dwarf rural jar churn dinner
-bip_39_word_space_8: suit flock dwarf rural jar churn dinner fashion
-bip_39_word_space_9: suit flock dwarf rural jar churn dinner fashion cricket
-bip_39_word_underscore_1: suit
-bip_39_word_underscore_10: suit_flock_dwarf_rural_jar_churn_dinner_fashion_cricket_crunch
-bip_39_word_underscore_11: suit_flock_dwarf_rural_jar_churn_dinner_fashion_cricket_crunch_version
 bip_39_word_underscore_12: suit_flock_dwarf_rural_jar_churn_dinner_fashion_cricket_crunch_version_age
 bip_39_word_underscore_2: suit_flock
 bip_39_word_underscore_3: suit_flock_dwarf
-bip_39_word_underscore_4: suit_flock_dwarf_rural
-bip_39_word_underscore_5: suit_flock_dwarf_rural_jar
-bip_39_word_underscore_6: suit_flock_dwarf_rural_jar_churn
-bip_39_word_underscore_7: suit_flock_dwarf_rural_jar_churn_dinner
-bip_39_word_underscore_8: suit_flock_dwarf_rural_jar_churn_dinner_fashion
-bip_39_word_underscore_9: suit_flock_dwarf_rural_jar_churn_dinner_fashion_cricket
 classification: category
 classification_capital: Category
 classification_first_letter: c

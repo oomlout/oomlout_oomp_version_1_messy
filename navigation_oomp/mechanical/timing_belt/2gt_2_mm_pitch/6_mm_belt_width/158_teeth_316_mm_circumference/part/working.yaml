@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chicken
-bip_39_word_dash_10: chicken-tower-sugar-true-member-steel-gym-agree-word-foot
-bip_39_word_dash_11: chicken-tower-sugar-true-member-steel-gym-agree-word-foot-wire
 bip_39_word_dash_12: chicken-tower-sugar-true-member-steel-gym-agree-word-foot-wire-attack
 bip_39_word_dash_2: chicken-tower
 bip_39_word_dash_3: chicken-tower-sugar
-bip_39_word_dash_4: chicken-tower-sugar-true
-bip_39_word_dash_5: chicken-tower-sugar-true-member
-bip_39_word_dash_6: chicken-tower-sugar-true-member-steel
-bip_39_word_dash_7: chicken-tower-sugar-true-member-steel-gym
-bip_39_word_dash_8: chicken-tower-sugar-true-member-steel-gym-agree
-bip_39_word_dash_9: chicken-tower-sugar-true-member-steel-gym-agree-word
-bip_39_word_new_br_1: chicken
-bip_39_word_new_br_10: chicken<br>tower<br>sugar<br>true<br>member<br>steel<br>gym<br>agree<br>word<br>foot
-bip_39_word_new_br_11: chicken<br>tower<br>sugar<br>true<br>member<br>steel<br>gym<br>agree<br>word<br>foot<br>wire
 bip_39_word_new_br_12: chicken<br>tower<br>sugar<br>true<br>member<br>steel<br>gym<br>agree<br>word<br>foot<br>wire<br>attack
 bip_39_word_new_br_2: chicken<br>tower
 bip_39_word_new_br_3: chicken<br>tower<br>sugar
-bip_39_word_new_br_4: chicken<br>tower<br>sugar<br>true
-bip_39_word_new_br_5: chicken<br>tower<br>sugar<br>true<br>member
-bip_39_word_new_br_6: chicken<br>tower<br>sugar<br>true<br>member<br>steel
-bip_39_word_new_br_7: chicken<br>tower<br>sugar<br>true<br>member<br>steel<br>gym
-bip_39_word_new_br_8: chicken<br>tower<br>sugar<br>true<br>member<br>steel<br>gym<br>agree
-bip_39_word_new_br_9: chicken<br>tower<br>sugar<br>true<br>member<br>steel<br>gym<br>agree<br>word
-bip_39_word_new_line_1: chicken
-bip_39_word_new_line_10: 'chicken
-
-  tower
-
-  sugar
-
-  true
-
-  member
-
-  steel
-
-  gym
-
-  agree
-
-  word
-
-  foot'
-bip_39_word_new_line_11: 'chicken
-
-  tower
-
-  sugar
-
-  true
-
-  member
-
-  steel
-
-  gym
-
-  agree
-
-  word
-
-  foot
-
-  wire'
 bip_39_word_new_line_12: 'chicken
 
   tower
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'chicken
   tower
 
   sugar'
-bip_39_word_new_line_4: 'chicken
-
-  tower
-
-  sugar
-
-  true'
-bip_39_word_new_line_5: 'chicken
-
-  tower
-
-  sugar
-
-  true
-
-  member'
-bip_39_word_new_line_6: 'chicken
-
-  tower
-
-  sugar
-
-  true
-
-  member
-
-  steel'
-bip_39_word_new_line_7: 'chicken
-
-  tower
-
-  sugar
-
-  true
-
-  member
-
-  steel
-
-  gym'
-bip_39_word_new_line_8: 'chicken
-
-  tower
-
-  sugar
-
-  true
-
-  member
-
-  steel
-
-  gym
-
-  agree'
-bip_39_word_new_line_9: 'chicken
-
-  tower
-
-  sugar
-
-  true
-
-  member
-
-  steel
-
-  gym
-
-  agree
-
-  word'
-bip_39_word_no_space_1: chicken
-bip_39_word_no_space_10: chickentowersugartruemembersteelgymagreewordfoot
-bip_39_word_no_space_11: chickentowersugartruemembersteelgymagreewordfootwire
 bip_39_word_no_space_12: chickentowersugartruemembersteelgymagreewordfootwireattack
 bip_39_word_no_space_2: chickentower
 bip_39_word_no_space_3: chickentowersugar
-bip_39_word_no_space_4: chickentowersugartrue
-bip_39_word_no_space_5: chickentowersugartruemember
-bip_39_word_no_space_6: chickentowersugartruemembersteel
-bip_39_word_no_space_7: chickentowersugartruemembersteelgym
-bip_39_word_no_space_8: chickentowersugartruemembersteelgymagree
-bip_39_word_no_space_9: chickentowersugartruemembersteelgymagreeword
-bip_39_word_space_0:
-- chicken
-- tower
-- sugar
-- 'true'
-- member
-- steel
-- gym
-- agree
-- word
-- foot
-- wire
-- attack
-bip_39_word_space_1: chicken
-bip_39_word_space_10: chicken tower sugar true member steel gym agree word foot
-bip_39_word_space_11: chicken tower sugar true member steel gym agree word foot wire
 bip_39_word_space_12: chicken tower sugar true member steel gym agree word foot wire
   attack
 bip_39_word_space_2: chicken tower
 bip_39_word_space_3: chicken tower sugar
-bip_39_word_space_4: chicken tower sugar true
-bip_39_word_space_5: chicken tower sugar true member
-bip_39_word_space_6: chicken tower sugar true member steel
-bip_39_word_space_7: chicken tower sugar true member steel gym
-bip_39_word_space_8: chicken tower sugar true member steel gym agree
-bip_39_word_space_9: chicken tower sugar true member steel gym agree word
-bip_39_word_underscore_1: chicken
-bip_39_word_underscore_10: chicken_tower_sugar_true_member_steel_gym_agree_word_foot
-bip_39_word_underscore_11: chicken_tower_sugar_true_member_steel_gym_agree_word_foot_wire
 bip_39_word_underscore_12: chicken_tower_sugar_true_member_steel_gym_agree_word_foot_wire_attack
 bip_39_word_underscore_2: chicken_tower
 bip_39_word_underscore_3: chicken_tower_sugar
-bip_39_word_underscore_4: chicken_tower_sugar_true
-bip_39_word_underscore_5: chicken_tower_sugar_true_member
-bip_39_word_underscore_6: chicken_tower_sugar_true_member_steel
-bip_39_word_underscore_7: chicken_tower_sugar_true_member_steel_gym
-bip_39_word_underscore_8: chicken_tower_sugar_true_member_steel_gym_agree
-bip_39_word_underscore_9: chicken_tower_sugar_true_member_steel_gym_agree_word
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hobby
-bip_39_word_dash_10: hobby-hard-resemble-lake-nuclear-sorry-session-fun-toy-math
-bip_39_word_dash_11: hobby-hard-resemble-lake-nuclear-sorry-session-fun-toy-math-staff
 bip_39_word_dash_12: hobby-hard-resemble-lake-nuclear-sorry-session-fun-toy-math-staff-act
 bip_39_word_dash_2: hobby-hard
 bip_39_word_dash_3: hobby-hard-resemble
-bip_39_word_dash_4: hobby-hard-resemble-lake
-bip_39_word_dash_5: hobby-hard-resemble-lake-nuclear
-bip_39_word_dash_6: hobby-hard-resemble-lake-nuclear-sorry
-bip_39_word_dash_7: hobby-hard-resemble-lake-nuclear-sorry-session
-bip_39_word_dash_8: hobby-hard-resemble-lake-nuclear-sorry-session-fun
-bip_39_word_dash_9: hobby-hard-resemble-lake-nuclear-sorry-session-fun-toy
-bip_39_word_new_br_1: hobby
-bip_39_word_new_br_10: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy<br>math
-bip_39_word_new_br_11: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy<br>math<br>staff
 bip_39_word_new_br_12: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy<br>math<br>staff<br>act
 bip_39_word_new_br_2: hobby<br>hard
 bip_39_word_new_br_3: hobby<br>hard<br>resemble
-bip_39_word_new_br_4: hobby<br>hard<br>resemble<br>lake
-bip_39_word_new_br_5: hobby<br>hard<br>resemble<br>lake<br>nuclear
-bip_39_word_new_br_6: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry
-bip_39_word_new_br_7: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session
-bip_39_word_new_br_8: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun
-bip_39_word_new_br_9: hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy
-bip_39_word_new_line_1: hobby
-bip_39_word_new_line_10: 'hobby
-
-  hard
-
-  resemble
-
-  lake
-
-  nuclear
-
-  sorry
-
-  session
-
-  fun
-
-  toy
-
-  math'
-bip_39_word_new_line_11: 'hobby
-
-  hard
-
-  resemble
-
-  lake
-
-  nuclear
-
-  sorry
-
-  session
-
-  fun
-
-  toy
-
-  math
-
-  staff'
 bip_39_word_new_line_12: 'hobby
 
   hard
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hobby
   hard
 
   resemble'
-bip_39_word_new_line_4: 'hobby
-
-  hard
-
-  resemble
-
-  lake'
-bip_39_word_new_line_5: 'hobby
-
-  hard
-
-  resemble
-
-  lake
-
-  nuclear'
-bip_39_word_new_line_6: 'hobby
-
-  hard
-
-  resemble
-
-  lake
-
-  nuclear
-
-  sorry'
-bip_39_word_new_line_7: 'hobby
-
-  hard
-
-  resemble
-
-  lake
-
-  nuclear
-
-  sorry
-
-  session'
-bip_39_word_new_line_8: 'hobby
-
-  hard
-
-  resemble
-
-  lake
-
-  nuclear
-
-  sorry
-
-  session
-
-  fun'
-bip_39_word_new_line_9: 'hobby
-
-  hard
-
-  resemble
-
-  lake
-
-  nuclear
-
-  sorry
-
-  session
-
-  fun
-
-  toy'
-bip_39_word_no_space_1: hobby
-bip_39_word_no_space_10: hobbyhardresemblelakenuclearsorrysessionfuntoymath
-bip_39_word_no_space_11: hobbyhardresemblelakenuclearsorrysessionfuntoymathstaff
 bip_39_word_no_space_12: hobbyhardresemblelakenuclearsorrysessionfuntoymathstaffact
 bip_39_word_no_space_2: hobbyhard
 bip_39_word_no_space_3: hobbyhardresemble
-bip_39_word_no_space_4: hobbyhardresemblelake
-bip_39_word_no_space_5: hobbyhardresemblelakenuclear
-bip_39_word_no_space_6: hobbyhardresemblelakenuclearsorry
-bip_39_word_no_space_7: hobbyhardresemblelakenuclearsorrysession
-bip_39_word_no_space_8: hobbyhardresemblelakenuclearsorrysessionfun
-bip_39_word_no_space_9: hobbyhardresemblelakenuclearsorrysessionfuntoy
-bip_39_word_space_0:
-- hobby
-- hard
-- resemble
-- lake
-- nuclear
-- sorry
-- session
-- fun
-- toy
-- math
-- staff
-- act
-bip_39_word_space_1: hobby
-bip_39_word_space_10: hobby hard resemble lake nuclear sorry session fun toy math
-bip_39_word_space_11: hobby hard resemble lake nuclear sorry session fun toy math
-  staff
 bip_39_word_space_12: hobby hard resemble lake nuclear sorry session fun toy math
   staff act
 bip_39_word_space_2: hobby hard
 bip_39_word_space_3: hobby hard resemble
-bip_39_word_space_4: hobby hard resemble lake
-bip_39_word_space_5: hobby hard resemble lake nuclear
-bip_39_word_space_6: hobby hard resemble lake nuclear sorry
-bip_39_word_space_7: hobby hard resemble lake nuclear sorry session
-bip_39_word_space_8: hobby hard resemble lake nuclear sorry session fun
-bip_39_word_space_9: hobby hard resemble lake nuclear sorry session fun toy
-bip_39_word_underscore_1: hobby
-bip_39_word_underscore_10: hobby_hard_resemble_lake_nuclear_sorry_session_fun_toy_math
-bip_39_word_underscore_11: hobby_hard_resemble_lake_nuclear_sorry_session_fun_toy_math_staff
 bip_39_word_underscore_12: hobby_hard_resemble_lake_nuclear_sorry_session_fun_toy_math_staff_act
 bip_39_word_underscore_2: hobby_hard
 bip_39_word_underscore_3: hobby_hard_resemble
-bip_39_word_underscore_4: hobby_hard_resemble_lake
-bip_39_word_underscore_5: hobby_hard_resemble_lake_nuclear
-bip_39_word_underscore_6: hobby_hard_resemble_lake_nuclear_sorry
-bip_39_word_underscore_7: hobby_hard_resemble_lake_nuclear_sorry_session
-bip_39_word_underscore_8: hobby_hard_resemble_lake_nuclear_sorry_session_fun
-bip_39_word_underscore_9: hobby_hard_resemble_lake_nuclear_sorry_session_fun_toy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

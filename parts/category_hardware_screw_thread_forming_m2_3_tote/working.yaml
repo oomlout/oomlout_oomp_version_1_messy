@@ -1,68 +1,9 @@
-bip_39_word_dash_1: control
-bip_39_word_dash_10: control-sibling-coffee-tragic-wisdom-meat-forget-caution-alone-ensure
-bip_39_word_dash_11: control-sibling-coffee-tragic-wisdom-meat-forget-caution-alone-ensure-magic
 bip_39_word_dash_12: control-sibling-coffee-tragic-wisdom-meat-forget-caution-alone-ensure-magic-alcohol
 bip_39_word_dash_2: control-sibling
 bip_39_word_dash_3: control-sibling-coffee
-bip_39_word_dash_4: control-sibling-coffee-tragic
-bip_39_word_dash_5: control-sibling-coffee-tragic-wisdom
-bip_39_word_dash_6: control-sibling-coffee-tragic-wisdom-meat
-bip_39_word_dash_7: control-sibling-coffee-tragic-wisdom-meat-forget
-bip_39_word_dash_8: control-sibling-coffee-tragic-wisdom-meat-forget-caution
-bip_39_word_dash_9: control-sibling-coffee-tragic-wisdom-meat-forget-caution-alone
-bip_39_word_new_br_1: control
-bip_39_word_new_br_10: control<br>sibling<br>coffee<br>tragic<br>wisdom<br>meat<br>forget<br>caution<br>alone<br>ensure
-bip_39_word_new_br_11: control<br>sibling<br>coffee<br>tragic<br>wisdom<br>meat<br>forget<br>caution<br>alone<br>ensure<br>magic
 bip_39_word_new_br_12: control<br>sibling<br>coffee<br>tragic<br>wisdom<br>meat<br>forget<br>caution<br>alone<br>ensure<br>magic<br>alcohol
 bip_39_word_new_br_2: control<br>sibling
 bip_39_word_new_br_3: control<br>sibling<br>coffee
-bip_39_word_new_br_4: control<br>sibling<br>coffee<br>tragic
-bip_39_word_new_br_5: control<br>sibling<br>coffee<br>tragic<br>wisdom
-bip_39_word_new_br_6: control<br>sibling<br>coffee<br>tragic<br>wisdom<br>meat
-bip_39_word_new_br_7: control<br>sibling<br>coffee<br>tragic<br>wisdom<br>meat<br>forget
-bip_39_word_new_br_8: control<br>sibling<br>coffee<br>tragic<br>wisdom<br>meat<br>forget<br>caution
-bip_39_word_new_br_9: control<br>sibling<br>coffee<br>tragic<br>wisdom<br>meat<br>forget<br>caution<br>alone
-bip_39_word_new_line_1: control
-bip_39_word_new_line_10: 'control
-
-  sibling
-
-  coffee
-
-  tragic
-
-  wisdom
-
-  meat
-
-  forget
-
-  caution
-
-  alone
-
-  ensure'
-bip_39_word_new_line_11: 'control
-
-  sibling
-
-  coffee
-
-  tragic
-
-  wisdom
-
-  meat
-
-  forget
-
-  caution
-
-  alone
-
-  ensure
-
-  magic'
 bip_39_word_new_line_12: 'control
 
   sibling
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'control
   sibling
 
   coffee'
-bip_39_word_new_line_4: 'control
-
-  sibling
-
-  coffee
-
-  tragic'
-bip_39_word_new_line_5: 'control
-
-  sibling
-
-  coffee
-
-  tragic
-
-  wisdom'
-bip_39_word_new_line_6: 'control
-
-  sibling
-
-  coffee
-
-  tragic
-
-  wisdom
-
-  meat'
-bip_39_word_new_line_7: 'control
-
-  sibling
-
-  coffee
-
-  tragic
-
-  wisdom
-
-  meat
-
-  forget'
-bip_39_word_new_line_8: 'control
-
-  sibling
-
-  coffee
-
-  tragic
-
-  wisdom
-
-  meat
-
-  forget
-
-  caution'
-bip_39_word_new_line_9: 'control
-
-  sibling
-
-  coffee
-
-  tragic
-
-  wisdom
-
-  meat
-
-  forget
-
-  caution
-
-  alone'
-bip_39_word_no_space_1: control
-bip_39_word_no_space_10: controlsiblingcoffeetragicwisdommeatforgetcautionaloneensure
-bip_39_word_no_space_11: controlsiblingcoffeetragicwisdommeatforgetcautionaloneensuremagic
 bip_39_word_no_space_12: controlsiblingcoffeetragicwisdommeatforgetcautionaloneensuremagicalcohol
 bip_39_word_no_space_2: controlsibling
 bip_39_word_no_space_3: controlsiblingcoffee
-bip_39_word_no_space_4: controlsiblingcoffeetragic
-bip_39_word_no_space_5: controlsiblingcoffeetragicwisdom
-bip_39_word_no_space_6: controlsiblingcoffeetragicwisdommeat
-bip_39_word_no_space_7: controlsiblingcoffeetragicwisdommeatforget
-bip_39_word_no_space_8: controlsiblingcoffeetragicwisdommeatforgetcaution
-bip_39_word_no_space_9: controlsiblingcoffeetragicwisdommeatforgetcautionalone
-bip_39_word_space_0:
-- control
-- sibling
-- coffee
-- tragic
-- wisdom
-- meat
-- forget
-- caution
-- alone
-- ensure
-- magic
-- alcohol
-bip_39_word_space_1: control
-bip_39_word_space_10: control sibling coffee tragic wisdom meat forget caution alone
-  ensure
-bip_39_word_space_11: control sibling coffee tragic wisdom meat forget caution alone
-  ensure magic
 bip_39_word_space_12: control sibling coffee tragic wisdom meat forget caution alone
   ensure magic alcohol
 bip_39_word_space_2: control sibling
 bip_39_word_space_3: control sibling coffee
-bip_39_word_space_4: control sibling coffee tragic
-bip_39_word_space_5: control sibling coffee tragic wisdom
-bip_39_word_space_6: control sibling coffee tragic wisdom meat
-bip_39_word_space_7: control sibling coffee tragic wisdom meat forget
-bip_39_word_space_8: control sibling coffee tragic wisdom meat forget caution
-bip_39_word_space_9: control sibling coffee tragic wisdom meat forget caution alone
-bip_39_word_underscore_1: control
-bip_39_word_underscore_10: control_sibling_coffee_tragic_wisdom_meat_forget_caution_alone_ensure
-bip_39_word_underscore_11: control_sibling_coffee_tragic_wisdom_meat_forget_caution_alone_ensure_magic
 bip_39_word_underscore_12: control_sibling_coffee_tragic_wisdom_meat_forget_caution_alone_ensure_magic_alcohol
 bip_39_word_underscore_2: control_sibling
 bip_39_word_underscore_3: control_sibling_coffee
-bip_39_word_underscore_4: control_sibling_coffee_tragic
-bip_39_word_underscore_5: control_sibling_coffee_tragic_wisdom
-bip_39_word_underscore_6: control_sibling_coffee_tragic_wisdom_meat
-bip_39_word_underscore_7: control_sibling_coffee_tragic_wisdom_meat_forget
-bip_39_word_underscore_8: control_sibling_coffee_tragic_wisdom_meat_forget_caution
-bip_39_word_underscore_9: control_sibling_coffee_tragic_wisdom_meat_forget_caution_alone
 classification: category
 classification_capital: Category
 classification_first_letter: c

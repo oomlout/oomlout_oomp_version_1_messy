@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kid
-bip_39_word_dash_10: kid-voice-arctic-trip-silent-flavor-issue-shrug-repeat-uphold
-bip_39_word_dash_11: kid-voice-arctic-trip-silent-flavor-issue-shrug-repeat-uphold-loud
 bip_39_word_dash_12: kid-voice-arctic-trip-silent-flavor-issue-shrug-repeat-uphold-loud-audit
 bip_39_word_dash_2: kid-voice
 bip_39_word_dash_3: kid-voice-arctic
-bip_39_word_dash_4: kid-voice-arctic-trip
-bip_39_word_dash_5: kid-voice-arctic-trip-silent
-bip_39_word_dash_6: kid-voice-arctic-trip-silent-flavor
-bip_39_word_dash_7: kid-voice-arctic-trip-silent-flavor-issue
-bip_39_word_dash_8: kid-voice-arctic-trip-silent-flavor-issue-shrug
-bip_39_word_dash_9: kid-voice-arctic-trip-silent-flavor-issue-shrug-repeat
-bip_39_word_new_br_1: kid
-bip_39_word_new_br_10: kid<br>voice<br>arctic<br>trip<br>silent<br>flavor<br>issue<br>shrug<br>repeat<br>uphold
-bip_39_word_new_br_11: kid<br>voice<br>arctic<br>trip<br>silent<br>flavor<br>issue<br>shrug<br>repeat<br>uphold<br>loud
 bip_39_word_new_br_12: kid<br>voice<br>arctic<br>trip<br>silent<br>flavor<br>issue<br>shrug<br>repeat<br>uphold<br>loud<br>audit
 bip_39_word_new_br_2: kid<br>voice
 bip_39_word_new_br_3: kid<br>voice<br>arctic
-bip_39_word_new_br_4: kid<br>voice<br>arctic<br>trip
-bip_39_word_new_br_5: kid<br>voice<br>arctic<br>trip<br>silent
-bip_39_word_new_br_6: kid<br>voice<br>arctic<br>trip<br>silent<br>flavor
-bip_39_word_new_br_7: kid<br>voice<br>arctic<br>trip<br>silent<br>flavor<br>issue
-bip_39_word_new_br_8: kid<br>voice<br>arctic<br>trip<br>silent<br>flavor<br>issue<br>shrug
-bip_39_word_new_br_9: kid<br>voice<br>arctic<br>trip<br>silent<br>flavor<br>issue<br>shrug<br>repeat
-bip_39_word_new_line_1: kid
-bip_39_word_new_line_10: 'kid
-
-  voice
-
-  arctic
-
-  trip
-
-  silent
-
-  flavor
-
-  issue
-
-  shrug
-
-  repeat
-
-  uphold'
-bip_39_word_new_line_11: 'kid
-
-  voice
-
-  arctic
-
-  trip
-
-  silent
-
-  flavor
-
-  issue
-
-  shrug
-
-  repeat
-
-  uphold
-
-  loud'
 bip_39_word_new_line_12: 'kid
 
   voice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kid
   voice
 
   arctic'
-bip_39_word_new_line_4: 'kid
-
-  voice
-
-  arctic
-
-  trip'
-bip_39_word_new_line_5: 'kid
-
-  voice
-
-  arctic
-
-  trip
-
-  silent'
-bip_39_word_new_line_6: 'kid
-
-  voice
-
-  arctic
-
-  trip
-
-  silent
-
-  flavor'
-bip_39_word_new_line_7: 'kid
-
-  voice
-
-  arctic
-
-  trip
-
-  silent
-
-  flavor
-
-  issue'
-bip_39_word_new_line_8: 'kid
-
-  voice
-
-  arctic
-
-  trip
-
-  silent
-
-  flavor
-
-  issue
-
-  shrug'
-bip_39_word_new_line_9: 'kid
-
-  voice
-
-  arctic
-
-  trip
-
-  silent
-
-  flavor
-
-  issue
-
-  shrug
-
-  repeat'
-bip_39_word_no_space_1: kid
-bip_39_word_no_space_10: kidvoicearctictripsilentflavorissueshrugrepeatuphold
-bip_39_word_no_space_11: kidvoicearctictripsilentflavorissueshrugrepeatupholdloud
 bip_39_word_no_space_12: kidvoicearctictripsilentflavorissueshrugrepeatupholdloudaudit
 bip_39_word_no_space_2: kidvoice
 bip_39_word_no_space_3: kidvoicearctic
-bip_39_word_no_space_4: kidvoicearctictrip
-bip_39_word_no_space_5: kidvoicearctictripsilent
-bip_39_word_no_space_6: kidvoicearctictripsilentflavor
-bip_39_word_no_space_7: kidvoicearctictripsilentflavorissue
-bip_39_word_no_space_8: kidvoicearctictripsilentflavorissueshrug
-bip_39_word_no_space_9: kidvoicearctictripsilentflavorissueshrugrepeat
-bip_39_word_space_0:
-- kid
-- voice
-- arctic
-- trip
-- silent
-- flavor
-- issue
-- shrug
-- repeat
-- uphold
-- loud
-- audit
-bip_39_word_space_1: kid
-bip_39_word_space_10: kid voice arctic trip silent flavor issue shrug repeat uphold
-bip_39_word_space_11: kid voice arctic trip silent flavor issue shrug repeat uphold
-  loud
 bip_39_word_space_12: kid voice arctic trip silent flavor issue shrug repeat uphold
   loud audit
 bip_39_word_space_2: kid voice
 bip_39_word_space_3: kid voice arctic
-bip_39_word_space_4: kid voice arctic trip
-bip_39_word_space_5: kid voice arctic trip silent
-bip_39_word_space_6: kid voice arctic trip silent flavor
-bip_39_word_space_7: kid voice arctic trip silent flavor issue
-bip_39_word_space_8: kid voice arctic trip silent flavor issue shrug
-bip_39_word_space_9: kid voice arctic trip silent flavor issue shrug repeat
-bip_39_word_underscore_1: kid
-bip_39_word_underscore_10: kid_voice_arctic_trip_silent_flavor_issue_shrug_repeat_uphold
-bip_39_word_underscore_11: kid_voice_arctic_trip_silent_flavor_issue_shrug_repeat_uphold_loud
 bip_39_word_underscore_12: kid_voice_arctic_trip_silent_flavor_issue_shrug_repeat_uphold_loud_audit
 bip_39_word_underscore_2: kid_voice
 bip_39_word_underscore_3: kid_voice_arctic
-bip_39_word_underscore_4: kid_voice_arctic_trip
-bip_39_word_underscore_5: kid_voice_arctic_trip_silent
-bip_39_word_underscore_6: kid_voice_arctic_trip_silent_flavor
-bip_39_word_underscore_7: kid_voice_arctic_trip_silent_flavor_issue
-bip_39_word_underscore_8: kid_voice_arctic_trip_silent_flavor_issue_shrug
-bip_39_word_underscore_9: kid_voice_arctic_trip_silent_flavor_issue_shrug_repeat
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

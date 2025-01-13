@@ -1,68 +1,9 @@
-bip_39_word_dash_1: smooth
-bip_39_word_dash_10: smooth-fit-record-degree-note-cross-travel-curve-time-base
-bip_39_word_dash_11: smooth-fit-record-degree-note-cross-travel-curve-time-base-like
 bip_39_word_dash_12: smooth-fit-record-degree-note-cross-travel-curve-time-base-like-accident
 bip_39_word_dash_2: smooth-fit
 bip_39_word_dash_3: smooth-fit-record
-bip_39_word_dash_4: smooth-fit-record-degree
-bip_39_word_dash_5: smooth-fit-record-degree-note
-bip_39_word_dash_6: smooth-fit-record-degree-note-cross
-bip_39_word_dash_7: smooth-fit-record-degree-note-cross-travel
-bip_39_word_dash_8: smooth-fit-record-degree-note-cross-travel-curve
-bip_39_word_dash_9: smooth-fit-record-degree-note-cross-travel-curve-time
-bip_39_word_new_br_1: smooth
-bip_39_word_new_br_10: smooth<br>fit<br>record<br>degree<br>note<br>cross<br>travel<br>curve<br>time<br>base
-bip_39_word_new_br_11: smooth<br>fit<br>record<br>degree<br>note<br>cross<br>travel<br>curve<br>time<br>base<br>like
 bip_39_word_new_br_12: smooth<br>fit<br>record<br>degree<br>note<br>cross<br>travel<br>curve<br>time<br>base<br>like<br>accident
 bip_39_word_new_br_2: smooth<br>fit
 bip_39_word_new_br_3: smooth<br>fit<br>record
-bip_39_word_new_br_4: smooth<br>fit<br>record<br>degree
-bip_39_word_new_br_5: smooth<br>fit<br>record<br>degree<br>note
-bip_39_word_new_br_6: smooth<br>fit<br>record<br>degree<br>note<br>cross
-bip_39_word_new_br_7: smooth<br>fit<br>record<br>degree<br>note<br>cross<br>travel
-bip_39_word_new_br_8: smooth<br>fit<br>record<br>degree<br>note<br>cross<br>travel<br>curve
-bip_39_word_new_br_9: smooth<br>fit<br>record<br>degree<br>note<br>cross<br>travel<br>curve<br>time
-bip_39_word_new_line_1: smooth
-bip_39_word_new_line_10: 'smooth
-
-  fit
-
-  record
-
-  degree
-
-  note
-
-  cross
-
-  travel
-
-  curve
-
-  time
-
-  base'
-bip_39_word_new_line_11: 'smooth
-
-  fit
-
-  record
-
-  degree
-
-  note
-
-  cross
-
-  travel
-
-  curve
-
-  time
-
-  base
-
-  like'
 bip_39_word_new_line_12: 'smooth
 
   fit
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'smooth
   fit
 
   record'
-bip_39_word_new_line_4: 'smooth
-
-  fit
-
-  record
-
-  degree'
-bip_39_word_new_line_5: 'smooth
-
-  fit
-
-  record
-
-  degree
-
-  note'
-bip_39_word_new_line_6: 'smooth
-
-  fit
-
-  record
-
-  degree
-
-  note
-
-  cross'
-bip_39_word_new_line_7: 'smooth
-
-  fit
-
-  record
-
-  degree
-
-  note
-
-  cross
-
-  travel'
-bip_39_word_new_line_8: 'smooth
-
-  fit
-
-  record
-
-  degree
-
-  note
-
-  cross
-
-  travel
-
-  curve'
-bip_39_word_new_line_9: 'smooth
-
-  fit
-
-  record
-
-  degree
-
-  note
-
-  cross
-
-  travel
-
-  curve
-
-  time'
-bip_39_word_no_space_1: smooth
-bip_39_word_no_space_10: smoothfitrecorddegreenotecrosstravelcurvetimebase
-bip_39_word_no_space_11: smoothfitrecorddegreenotecrosstravelcurvetimebaselike
 bip_39_word_no_space_12: smoothfitrecorddegreenotecrosstravelcurvetimebaselikeaccident
 bip_39_word_no_space_2: smoothfit
 bip_39_word_no_space_3: smoothfitrecord
-bip_39_word_no_space_4: smoothfitrecorddegree
-bip_39_word_no_space_5: smoothfitrecorddegreenote
-bip_39_word_no_space_6: smoothfitrecorddegreenotecross
-bip_39_word_no_space_7: smoothfitrecorddegreenotecrosstravel
-bip_39_word_no_space_8: smoothfitrecorddegreenotecrosstravelcurve
-bip_39_word_no_space_9: smoothfitrecorddegreenotecrosstravelcurvetime
-bip_39_word_space_0:
-- smooth
-- fit
-- record
-- degree
-- note
-- cross
-- travel
-- curve
-- time
-- base
-- like
-- accident
-bip_39_word_space_1: smooth
-bip_39_word_space_10: smooth fit record degree note cross travel curve time base
-bip_39_word_space_11: smooth fit record degree note cross travel curve time base like
 bip_39_word_space_12: smooth fit record degree note cross travel curve time base like
   accident
 bip_39_word_space_2: smooth fit
 bip_39_word_space_3: smooth fit record
-bip_39_word_space_4: smooth fit record degree
-bip_39_word_space_5: smooth fit record degree note
-bip_39_word_space_6: smooth fit record degree note cross
-bip_39_word_space_7: smooth fit record degree note cross travel
-bip_39_word_space_8: smooth fit record degree note cross travel curve
-bip_39_word_space_9: smooth fit record degree note cross travel curve time
-bip_39_word_underscore_1: smooth
-bip_39_word_underscore_10: smooth_fit_record_degree_note_cross_travel_curve_time_base
-bip_39_word_underscore_11: smooth_fit_record_degree_note_cross_travel_curve_time_base_like
 bip_39_word_underscore_12: smooth_fit_record_degree_note_cross_travel_curve_time_base_like_accident
 bip_39_word_underscore_2: smooth_fit
 bip_39_word_underscore_3: smooth_fit_record
-bip_39_word_underscore_4: smooth_fit_record_degree
-bip_39_word_underscore_5: smooth_fit_record_degree_note
-bip_39_word_underscore_6: smooth_fit_record_degree_note_cross
-bip_39_word_underscore_7: smooth_fit_record_degree_note_cross_travel
-bip_39_word_underscore_8: smooth_fit_record_degree_note_cross_travel_curve
-bip_39_word_underscore_9: smooth_fit_record_degree_note_cross_travel_curve_time
 classification: category
 classification_capital: Category
 classification_first_letter: c

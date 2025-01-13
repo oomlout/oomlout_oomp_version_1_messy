@@ -1,68 +1,9 @@
-bip_39_word_dash_1: similar
-bip_39_word_dash_10: similar-bulb-nothing-fire-supply-amateur-soul-pupil-spirit-human
-bip_39_word_dash_11: similar-bulb-nothing-fire-supply-amateur-soul-pupil-spirit-human-grief
 bip_39_word_dash_12: similar-bulb-nothing-fire-supply-amateur-soul-pupil-spirit-human-grief-account
 bip_39_word_dash_2: similar-bulb
 bip_39_word_dash_3: similar-bulb-nothing
-bip_39_word_dash_4: similar-bulb-nothing-fire
-bip_39_word_dash_5: similar-bulb-nothing-fire-supply
-bip_39_word_dash_6: similar-bulb-nothing-fire-supply-amateur
-bip_39_word_dash_7: similar-bulb-nothing-fire-supply-amateur-soul
-bip_39_word_dash_8: similar-bulb-nothing-fire-supply-amateur-soul-pupil
-bip_39_word_dash_9: similar-bulb-nothing-fire-supply-amateur-soul-pupil-spirit
-bip_39_word_new_br_1: similar
-bip_39_word_new_br_10: similar<br>bulb<br>nothing<br>fire<br>supply<br>amateur<br>soul<br>pupil<br>spirit<br>human
-bip_39_word_new_br_11: similar<br>bulb<br>nothing<br>fire<br>supply<br>amateur<br>soul<br>pupil<br>spirit<br>human<br>grief
 bip_39_word_new_br_12: similar<br>bulb<br>nothing<br>fire<br>supply<br>amateur<br>soul<br>pupil<br>spirit<br>human<br>grief<br>account
 bip_39_word_new_br_2: similar<br>bulb
 bip_39_word_new_br_3: similar<br>bulb<br>nothing
-bip_39_word_new_br_4: similar<br>bulb<br>nothing<br>fire
-bip_39_word_new_br_5: similar<br>bulb<br>nothing<br>fire<br>supply
-bip_39_word_new_br_6: similar<br>bulb<br>nothing<br>fire<br>supply<br>amateur
-bip_39_word_new_br_7: similar<br>bulb<br>nothing<br>fire<br>supply<br>amateur<br>soul
-bip_39_word_new_br_8: similar<br>bulb<br>nothing<br>fire<br>supply<br>amateur<br>soul<br>pupil
-bip_39_word_new_br_9: similar<br>bulb<br>nothing<br>fire<br>supply<br>amateur<br>soul<br>pupil<br>spirit
-bip_39_word_new_line_1: similar
-bip_39_word_new_line_10: 'similar
-
-  bulb
-
-  nothing
-
-  fire
-
-  supply
-
-  amateur
-
-  soul
-
-  pupil
-
-  spirit
-
-  human'
-bip_39_word_new_line_11: 'similar
-
-  bulb
-
-  nothing
-
-  fire
-
-  supply
-
-  amateur
-
-  soul
-
-  pupil
-
-  spirit
-
-  human
-
-  grief'
 bip_39_word_new_line_12: 'similar
 
   bulb
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'similar
   bulb
 
   nothing'
-bip_39_word_new_line_4: 'similar
-
-  bulb
-
-  nothing
-
-  fire'
-bip_39_word_new_line_5: 'similar
-
-  bulb
-
-  nothing
-
-  fire
-
-  supply'
-bip_39_word_new_line_6: 'similar
-
-  bulb
-
-  nothing
-
-  fire
-
-  supply
-
-  amateur'
-bip_39_word_new_line_7: 'similar
-
-  bulb
-
-  nothing
-
-  fire
-
-  supply
-
-  amateur
-
-  soul'
-bip_39_word_new_line_8: 'similar
-
-  bulb
-
-  nothing
-
-  fire
-
-  supply
-
-  amateur
-
-  soul
-
-  pupil'
-bip_39_word_new_line_9: 'similar
-
-  bulb
-
-  nothing
-
-  fire
-
-  supply
-
-  amateur
-
-  soul
-
-  pupil
-
-  spirit'
-bip_39_word_no_space_1: similar
-bip_39_word_no_space_10: similarbulbnothingfiresupplyamateursoulpupilspirithuman
-bip_39_word_no_space_11: similarbulbnothingfiresupplyamateursoulpupilspirithumangrief
 bip_39_word_no_space_12: similarbulbnothingfiresupplyamateursoulpupilspirithumangriefaccount
 bip_39_word_no_space_2: similarbulb
 bip_39_word_no_space_3: similarbulbnothing
-bip_39_word_no_space_4: similarbulbnothingfire
-bip_39_word_no_space_5: similarbulbnothingfiresupply
-bip_39_word_no_space_6: similarbulbnothingfiresupplyamateur
-bip_39_word_no_space_7: similarbulbnothingfiresupplyamateursoul
-bip_39_word_no_space_8: similarbulbnothingfiresupplyamateursoulpupil
-bip_39_word_no_space_9: similarbulbnothingfiresupplyamateursoulpupilspirit
-bip_39_word_space_0:
-- similar
-- bulb
-- nothing
-- fire
-- supply
-- amateur
-- soul
-- pupil
-- spirit
-- human
-- grief
-- account
-bip_39_word_space_1: similar
-bip_39_word_space_10: similar bulb nothing fire supply amateur soul pupil spirit human
-bip_39_word_space_11: similar bulb nothing fire supply amateur soul pupil spirit human
-  grief
 bip_39_word_space_12: similar bulb nothing fire supply amateur soul pupil spirit human
   grief account
 bip_39_word_space_2: similar bulb
 bip_39_word_space_3: similar bulb nothing
-bip_39_word_space_4: similar bulb nothing fire
-bip_39_word_space_5: similar bulb nothing fire supply
-bip_39_word_space_6: similar bulb nothing fire supply amateur
-bip_39_word_space_7: similar bulb nothing fire supply amateur soul
-bip_39_word_space_8: similar bulb nothing fire supply amateur soul pupil
-bip_39_word_space_9: similar bulb nothing fire supply amateur soul pupil spirit
-bip_39_word_underscore_1: similar
-bip_39_word_underscore_10: similar_bulb_nothing_fire_supply_amateur_soul_pupil_spirit_human
-bip_39_word_underscore_11: similar_bulb_nothing_fire_supply_amateur_soul_pupil_spirit_human_grief
 bip_39_word_underscore_12: similar_bulb_nothing_fire_supply_amateur_soul_pupil_spirit_human_grief_account
 bip_39_word_underscore_2: similar_bulb
 bip_39_word_underscore_3: similar_bulb_nothing
-bip_39_word_underscore_4: similar_bulb_nothing_fire
-bip_39_word_underscore_5: similar_bulb_nothing_fire_supply
-bip_39_word_underscore_6: similar_bulb_nothing_fire_supply_amateur
-bip_39_word_underscore_7: similar_bulb_nothing_fire_supply_amateur_soul
-bip_39_word_underscore_8: similar_bulb_nothing_fire_supply_amateur_soul_pupil
-bip_39_word_underscore_9: similar_bulb_nothing_fire_supply_amateur_soul_pupil_spirit
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

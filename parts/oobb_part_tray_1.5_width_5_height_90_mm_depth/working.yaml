@@ -1,68 +1,9 @@
-bip_39_word_dash_1: foot
-bip_39_word_dash_10: foot-sting-burden-snow-misery-almost-tower-outer-label-face
-bip_39_word_dash_11: foot-sting-burden-snow-misery-almost-tower-outer-label-face-purity
 bip_39_word_dash_12: foot-sting-burden-snow-misery-almost-tower-outer-label-face-purity-afford
 bip_39_word_dash_2: foot-sting
 bip_39_word_dash_3: foot-sting-burden
-bip_39_word_dash_4: foot-sting-burden-snow
-bip_39_word_dash_5: foot-sting-burden-snow-misery
-bip_39_word_dash_6: foot-sting-burden-snow-misery-almost
-bip_39_word_dash_7: foot-sting-burden-snow-misery-almost-tower
-bip_39_word_dash_8: foot-sting-burden-snow-misery-almost-tower-outer
-bip_39_word_dash_9: foot-sting-burden-snow-misery-almost-tower-outer-label
-bip_39_word_new_br_1: foot
-bip_39_word_new_br_10: foot<br>sting<br>burden<br>snow<br>misery<br>almost<br>tower<br>outer<br>label<br>face
-bip_39_word_new_br_11: foot<br>sting<br>burden<br>snow<br>misery<br>almost<br>tower<br>outer<br>label<br>face<br>purity
 bip_39_word_new_br_12: foot<br>sting<br>burden<br>snow<br>misery<br>almost<br>tower<br>outer<br>label<br>face<br>purity<br>afford
 bip_39_word_new_br_2: foot<br>sting
 bip_39_word_new_br_3: foot<br>sting<br>burden
-bip_39_word_new_br_4: foot<br>sting<br>burden<br>snow
-bip_39_word_new_br_5: foot<br>sting<br>burden<br>snow<br>misery
-bip_39_word_new_br_6: foot<br>sting<br>burden<br>snow<br>misery<br>almost
-bip_39_word_new_br_7: foot<br>sting<br>burden<br>snow<br>misery<br>almost<br>tower
-bip_39_word_new_br_8: foot<br>sting<br>burden<br>snow<br>misery<br>almost<br>tower<br>outer
-bip_39_word_new_br_9: foot<br>sting<br>burden<br>snow<br>misery<br>almost<br>tower<br>outer<br>label
-bip_39_word_new_line_1: foot
-bip_39_word_new_line_10: 'foot
-
-  sting
-
-  burden
-
-  snow
-
-  misery
-
-  almost
-
-  tower
-
-  outer
-
-  label
-
-  face'
-bip_39_word_new_line_11: 'foot
-
-  sting
-
-  burden
-
-  snow
-
-  misery
-
-  almost
-
-  tower
-
-  outer
-
-  label
-
-  face
-
-  purity'
 bip_39_word_new_line_12: 'foot
 
   sting
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'foot
   sting
 
   burden'
-bip_39_word_new_line_4: 'foot
-
-  sting
-
-  burden
-
-  snow'
-bip_39_word_new_line_5: 'foot
-
-  sting
-
-  burden
-
-  snow
-
-  misery'
-bip_39_word_new_line_6: 'foot
-
-  sting
-
-  burden
-
-  snow
-
-  misery
-
-  almost'
-bip_39_word_new_line_7: 'foot
-
-  sting
-
-  burden
-
-  snow
-
-  misery
-
-  almost
-
-  tower'
-bip_39_word_new_line_8: 'foot
-
-  sting
-
-  burden
-
-  snow
-
-  misery
-
-  almost
-
-  tower
-
-  outer'
-bip_39_word_new_line_9: 'foot
-
-  sting
-
-  burden
-
-  snow
-
-  misery
-
-  almost
-
-  tower
-
-  outer
-
-  label'
-bip_39_word_no_space_1: foot
-bip_39_word_no_space_10: footstingburdensnowmiseryalmosttowerouterlabelface
-bip_39_word_no_space_11: footstingburdensnowmiseryalmosttowerouterlabelfacepurity
 bip_39_word_no_space_12: footstingburdensnowmiseryalmosttowerouterlabelfacepurityafford
 bip_39_word_no_space_2: footsting
 bip_39_word_no_space_3: footstingburden
-bip_39_word_no_space_4: footstingburdensnow
-bip_39_word_no_space_5: footstingburdensnowmisery
-bip_39_word_no_space_6: footstingburdensnowmiseryalmost
-bip_39_word_no_space_7: footstingburdensnowmiseryalmosttower
-bip_39_word_no_space_8: footstingburdensnowmiseryalmosttowerouter
-bip_39_word_no_space_9: footstingburdensnowmiseryalmosttowerouterlabel
-bip_39_word_space_0:
-- foot
-- sting
-- burden
-- snow
-- misery
-- almost
-- tower
-- outer
-- label
-- face
-- purity
-- afford
-bip_39_word_space_1: foot
-bip_39_word_space_10: foot sting burden snow misery almost tower outer label face
-bip_39_word_space_11: foot sting burden snow misery almost tower outer label face
-  purity
 bip_39_word_space_12: foot sting burden snow misery almost tower outer label face
   purity afford
 bip_39_word_space_2: foot sting
 bip_39_word_space_3: foot sting burden
-bip_39_word_space_4: foot sting burden snow
-bip_39_word_space_5: foot sting burden snow misery
-bip_39_word_space_6: foot sting burden snow misery almost
-bip_39_word_space_7: foot sting burden snow misery almost tower
-bip_39_word_space_8: foot sting burden snow misery almost tower outer
-bip_39_word_space_9: foot sting burden snow misery almost tower outer label
-bip_39_word_underscore_1: foot
-bip_39_word_underscore_10: foot_sting_burden_snow_misery_almost_tower_outer_label_face
-bip_39_word_underscore_11: foot_sting_burden_snow_misery_almost_tower_outer_label_face_purity
 bip_39_word_underscore_12: foot_sting_burden_snow_misery_almost_tower_outer_label_face_purity_afford
 bip_39_word_underscore_2: foot_sting
 bip_39_word_underscore_3: foot_sting_burden
-bip_39_word_underscore_4: foot_sting_burden_snow
-bip_39_word_underscore_5: foot_sting_burden_snow_misery
-bip_39_word_underscore_6: foot_sting_burden_snow_misery_almost
-bip_39_word_underscore_7: foot_sting_burden_snow_misery_almost_tower
-bip_39_word_underscore_8: foot_sting_burden_snow_misery_almost_tower_outer
-bip_39_word_underscore_9: foot_sting_burden_snow_misery_almost_tower_outer_label
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

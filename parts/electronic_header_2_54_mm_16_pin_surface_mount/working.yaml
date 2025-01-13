@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rule
-bip_39_word_dash_10: rule-donkey-exercise-expect-best-glove-cable-trust-liquid-resource
-bip_39_word_dash_11: rule-donkey-exercise-expect-best-glove-cable-trust-liquid-resource-unable
 bip_39_word_dash_12: rule-donkey-exercise-expect-best-glove-cable-trust-liquid-resource-unable-alcohol
 bip_39_word_dash_2: rule-donkey
 bip_39_word_dash_3: rule-donkey-exercise
-bip_39_word_dash_4: rule-donkey-exercise-expect
-bip_39_word_dash_5: rule-donkey-exercise-expect-best
-bip_39_word_dash_6: rule-donkey-exercise-expect-best-glove
-bip_39_word_dash_7: rule-donkey-exercise-expect-best-glove-cable
-bip_39_word_dash_8: rule-donkey-exercise-expect-best-glove-cable-trust
-bip_39_word_dash_9: rule-donkey-exercise-expect-best-glove-cable-trust-liquid
-bip_39_word_new_br_1: rule
-bip_39_word_new_br_10: rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid<br>resource
-bip_39_word_new_br_11: rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid<br>resource<br>unable
 bip_39_word_new_br_12: rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid<br>resource<br>unable<br>alcohol
 bip_39_word_new_br_2: rule<br>donkey
 bip_39_word_new_br_3: rule<br>donkey<br>exercise
-bip_39_word_new_br_4: rule<br>donkey<br>exercise<br>expect
-bip_39_word_new_br_5: rule<br>donkey<br>exercise<br>expect<br>best
-bip_39_word_new_br_6: rule<br>donkey<br>exercise<br>expect<br>best<br>glove
-bip_39_word_new_br_7: rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable
-bip_39_word_new_br_8: rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust
-bip_39_word_new_br_9: rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid
-bip_39_word_new_line_1: rule
-bip_39_word_new_line_10: 'rule
-
-  donkey
-
-  exercise
-
-  expect
-
-  best
-
-  glove
-
-  cable
-
-  trust
-
-  liquid
-
-  resource'
-bip_39_word_new_line_11: 'rule
-
-  donkey
-
-  exercise
-
-  expect
-
-  best
-
-  glove
-
-  cable
-
-  trust
-
-  liquid
-
-  resource
-
-  unable'
 bip_39_word_new_line_12: 'rule
 
   donkey
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rule
   donkey
 
   exercise'
-bip_39_word_new_line_4: 'rule
-
-  donkey
-
-  exercise
-
-  expect'
-bip_39_word_new_line_5: 'rule
-
-  donkey
-
-  exercise
-
-  expect
-
-  best'
-bip_39_word_new_line_6: 'rule
-
-  donkey
-
-  exercise
-
-  expect
-
-  best
-
-  glove'
-bip_39_word_new_line_7: 'rule
-
-  donkey
-
-  exercise
-
-  expect
-
-  best
-
-  glove
-
-  cable'
-bip_39_word_new_line_8: 'rule
-
-  donkey
-
-  exercise
-
-  expect
-
-  best
-
-  glove
-
-  cable
-
-  trust'
-bip_39_word_new_line_9: 'rule
-
-  donkey
-
-  exercise
-
-  expect
-
-  best
-
-  glove
-
-  cable
-
-  trust
-
-  liquid'
-bip_39_word_no_space_1: rule
-bip_39_word_no_space_10: ruledonkeyexerciseexpectbestglovecabletrustliquidresource
-bip_39_word_no_space_11: ruledonkeyexerciseexpectbestglovecabletrustliquidresourceunable
 bip_39_word_no_space_12: ruledonkeyexerciseexpectbestglovecabletrustliquidresourceunablealcohol
 bip_39_word_no_space_2: ruledonkey
 bip_39_word_no_space_3: ruledonkeyexercise
-bip_39_word_no_space_4: ruledonkeyexerciseexpect
-bip_39_word_no_space_5: ruledonkeyexerciseexpectbest
-bip_39_word_no_space_6: ruledonkeyexerciseexpectbestglove
-bip_39_word_no_space_7: ruledonkeyexerciseexpectbestglovecable
-bip_39_word_no_space_8: ruledonkeyexerciseexpectbestglovecabletrust
-bip_39_word_no_space_9: ruledonkeyexerciseexpectbestglovecabletrustliquid
-bip_39_word_space_0:
-- rule
-- donkey
-- exercise
-- expect
-- best
-- glove
-- cable
-- trust
-- liquid
-- resource
-- unable
-- alcohol
-bip_39_word_space_1: rule
-bip_39_word_space_10: rule donkey exercise expect best glove cable trust liquid resource
-bip_39_word_space_11: rule donkey exercise expect best glove cable trust liquid resource
-  unable
 bip_39_word_space_12: rule donkey exercise expect best glove cable trust liquid resource
   unable alcohol
 bip_39_word_space_2: rule donkey
 bip_39_word_space_3: rule donkey exercise
-bip_39_word_space_4: rule donkey exercise expect
-bip_39_word_space_5: rule donkey exercise expect best
-bip_39_word_space_6: rule donkey exercise expect best glove
-bip_39_word_space_7: rule donkey exercise expect best glove cable
-bip_39_word_space_8: rule donkey exercise expect best glove cable trust
-bip_39_word_space_9: rule donkey exercise expect best glove cable trust liquid
-bip_39_word_underscore_1: rule
-bip_39_word_underscore_10: rule_donkey_exercise_expect_best_glove_cable_trust_liquid_resource
-bip_39_word_underscore_11: rule_donkey_exercise_expect_best_glove_cable_trust_liquid_resource_unable
 bip_39_word_underscore_12: rule_donkey_exercise_expect_best_glove_cable_trust_liquid_resource_unable_alcohol
 bip_39_word_underscore_2: rule_donkey
 bip_39_word_underscore_3: rule_donkey_exercise
-bip_39_word_underscore_4: rule_donkey_exercise_expect
-bip_39_word_underscore_5: rule_donkey_exercise_expect_best
-bip_39_word_underscore_6: rule_donkey_exercise_expect_best_glove
-bip_39_word_underscore_7: rule_donkey_exercise_expect_best_glove_cable
-bip_39_word_underscore_8: rule_donkey_exercise_expect_best_glove_cable_trust
-bip_39_word_underscore_9: rule_donkey_exercise_expect_best_glove_cable_trust_liquid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

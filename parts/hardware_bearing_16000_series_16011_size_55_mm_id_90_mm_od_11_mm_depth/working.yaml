@@ -1,68 +1,9 @@
-bip_39_word_dash_1: circle
-bip_39_word_dash_10: circle-end-unfair-sweet-sweet-laugh-middle-attend-symptom-horror
-bip_39_word_dash_11: circle-end-unfair-sweet-sweet-laugh-middle-attend-symptom-horror-enemy
 bip_39_word_dash_12: circle-end-unfair-sweet-sweet-laugh-middle-attend-symptom-horror-enemy-act
 bip_39_word_dash_2: circle-end
 bip_39_word_dash_3: circle-end-unfair
-bip_39_word_dash_4: circle-end-unfair-sweet
-bip_39_word_dash_5: circle-end-unfair-sweet-sweet
-bip_39_word_dash_6: circle-end-unfair-sweet-sweet-laugh
-bip_39_word_dash_7: circle-end-unfair-sweet-sweet-laugh-middle
-bip_39_word_dash_8: circle-end-unfair-sweet-sweet-laugh-middle-attend
-bip_39_word_dash_9: circle-end-unfair-sweet-sweet-laugh-middle-attend-symptom
-bip_39_word_new_br_1: circle
-bip_39_word_new_br_10: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror
-bip_39_word_new_br_11: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror<br>enemy
 bip_39_word_new_br_12: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom<br>horror<br>enemy<br>act
 bip_39_word_new_br_2: circle<br>end
 bip_39_word_new_br_3: circle<br>end<br>unfair
-bip_39_word_new_br_4: circle<br>end<br>unfair<br>sweet
-bip_39_word_new_br_5: circle<br>end<br>unfair<br>sweet<br>sweet
-bip_39_word_new_br_6: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh
-bip_39_word_new_br_7: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle
-bip_39_word_new_br_8: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend
-bip_39_word_new_br_9: circle<br>end<br>unfair<br>sweet<br>sweet<br>laugh<br>middle<br>attend<br>symptom
-bip_39_word_new_line_1: circle
-bip_39_word_new_line_10: 'circle
-
-  end
-
-  unfair
-
-  sweet
-
-  sweet
-
-  laugh
-
-  middle
-
-  attend
-
-  symptom
-
-  horror'
-bip_39_word_new_line_11: 'circle
-
-  end
-
-  unfair
-
-  sweet
-
-  sweet
-
-  laugh
-
-  middle
-
-  attend
-
-  symptom
-
-  horror
-
-  enemy'
 bip_39_word_new_line_12: 'circle
 
   end
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'circle
   end
 
   unfair'
-bip_39_word_new_line_4: 'circle
-
-  end
-
-  unfair
-
-  sweet'
-bip_39_word_new_line_5: 'circle
-
-  end
-
-  unfair
-
-  sweet
-
-  sweet'
-bip_39_word_new_line_6: 'circle
-
-  end
-
-  unfair
-
-  sweet
-
-  sweet
-
-  laugh'
-bip_39_word_new_line_7: 'circle
-
-  end
-
-  unfair
-
-  sweet
-
-  sweet
-
-  laugh
-
-  middle'
-bip_39_word_new_line_8: 'circle
-
-  end
-
-  unfair
-
-  sweet
-
-  sweet
-
-  laugh
-
-  middle
-
-  attend'
-bip_39_word_new_line_9: 'circle
-
-  end
-
-  unfair
-
-  sweet
-
-  sweet
-
-  laugh
-
-  middle
-
-  attend
-
-  symptom'
-bip_39_word_no_space_1: circle
-bip_39_word_no_space_10: circleendunfairsweetsweetlaughmiddleattendsymptomhorror
-bip_39_word_no_space_11: circleendunfairsweetsweetlaughmiddleattendsymptomhorrorenemy
 bip_39_word_no_space_12: circleendunfairsweetsweetlaughmiddleattendsymptomhorrorenemyact
 bip_39_word_no_space_2: circleend
 bip_39_word_no_space_3: circleendunfair
-bip_39_word_no_space_4: circleendunfairsweet
-bip_39_word_no_space_5: circleendunfairsweetsweet
-bip_39_word_no_space_6: circleendunfairsweetsweetlaugh
-bip_39_word_no_space_7: circleendunfairsweetsweetlaughmiddle
-bip_39_word_no_space_8: circleendunfairsweetsweetlaughmiddleattend
-bip_39_word_no_space_9: circleendunfairsweetsweetlaughmiddleattendsymptom
-bip_39_word_space_0:
-- circle
-- end
-- unfair
-- sweet
-- sweet
-- laugh
-- middle
-- attend
-- symptom
-- horror
-- enemy
-- act
-bip_39_word_space_1: circle
-bip_39_word_space_10: circle end unfair sweet sweet laugh middle attend symptom horror
-bip_39_word_space_11: circle end unfair sweet sweet laugh middle attend symptom horror
-  enemy
 bip_39_word_space_12: circle end unfair sweet sweet laugh middle attend symptom horror
   enemy act
 bip_39_word_space_2: circle end
 bip_39_word_space_3: circle end unfair
-bip_39_word_space_4: circle end unfair sweet
-bip_39_word_space_5: circle end unfair sweet sweet
-bip_39_word_space_6: circle end unfair sweet sweet laugh
-bip_39_word_space_7: circle end unfair sweet sweet laugh middle
-bip_39_word_space_8: circle end unfair sweet sweet laugh middle attend
-bip_39_word_space_9: circle end unfair sweet sweet laugh middle attend symptom
-bip_39_word_underscore_1: circle
-bip_39_word_underscore_10: circle_end_unfair_sweet_sweet_laugh_middle_attend_symptom_horror
-bip_39_word_underscore_11: circle_end_unfair_sweet_sweet_laugh_middle_attend_symptom_horror_enemy
 bip_39_word_underscore_12: circle_end_unfair_sweet_sweet_laugh_middle_attend_symptom_horror_enemy_act
 bip_39_word_underscore_2: circle_end
 bip_39_word_underscore_3: circle_end_unfair
-bip_39_word_underscore_4: circle_end_unfair_sweet
-bip_39_word_underscore_5: circle_end_unfair_sweet_sweet
-bip_39_word_underscore_6: circle_end_unfair_sweet_sweet_laugh
-bip_39_word_underscore_7: circle_end_unfair_sweet_sweet_laugh_middle
-bip_39_word_underscore_8: circle_end_unfair_sweet_sweet_laugh_middle_attend
-bip_39_word_underscore_9: circle_end_unfair_sweet_sweet_laugh_middle_attend_symptom
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

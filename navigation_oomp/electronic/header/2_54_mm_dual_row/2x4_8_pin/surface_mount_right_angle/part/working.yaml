@@ -1,68 +1,9 @@
-bip_39_word_dash_1: surround
-bip_39_word_dash_10: surround-common-crumble-sorry-stairs-adapt-curve-cook-script-piano
-bip_39_word_dash_11: surround-common-crumble-sorry-stairs-adapt-curve-cook-script-piano-clarify
 bip_39_word_dash_12: surround-common-crumble-sorry-stairs-adapt-curve-cook-script-piano-clarify-armed
 bip_39_word_dash_2: surround-common
 bip_39_word_dash_3: surround-common-crumble
-bip_39_word_dash_4: surround-common-crumble-sorry
-bip_39_word_dash_5: surround-common-crumble-sorry-stairs
-bip_39_word_dash_6: surround-common-crumble-sorry-stairs-adapt
-bip_39_word_dash_7: surround-common-crumble-sorry-stairs-adapt-curve
-bip_39_word_dash_8: surround-common-crumble-sorry-stairs-adapt-curve-cook
-bip_39_word_dash_9: surround-common-crumble-sorry-stairs-adapt-curve-cook-script
-bip_39_word_new_br_1: surround
-bip_39_word_new_br_10: surround<br>common<br>crumble<br>sorry<br>stairs<br>adapt<br>curve<br>cook<br>script<br>piano
-bip_39_word_new_br_11: surround<br>common<br>crumble<br>sorry<br>stairs<br>adapt<br>curve<br>cook<br>script<br>piano<br>clarify
 bip_39_word_new_br_12: surround<br>common<br>crumble<br>sorry<br>stairs<br>adapt<br>curve<br>cook<br>script<br>piano<br>clarify<br>armed
 bip_39_word_new_br_2: surround<br>common
 bip_39_word_new_br_3: surround<br>common<br>crumble
-bip_39_word_new_br_4: surround<br>common<br>crumble<br>sorry
-bip_39_word_new_br_5: surround<br>common<br>crumble<br>sorry<br>stairs
-bip_39_word_new_br_6: surround<br>common<br>crumble<br>sorry<br>stairs<br>adapt
-bip_39_word_new_br_7: surround<br>common<br>crumble<br>sorry<br>stairs<br>adapt<br>curve
-bip_39_word_new_br_8: surround<br>common<br>crumble<br>sorry<br>stairs<br>adapt<br>curve<br>cook
-bip_39_word_new_br_9: surround<br>common<br>crumble<br>sorry<br>stairs<br>adapt<br>curve<br>cook<br>script
-bip_39_word_new_line_1: surround
-bip_39_word_new_line_10: 'surround
-
-  common
-
-  crumble
-
-  sorry
-
-  stairs
-
-  adapt
-
-  curve
-
-  cook
-
-  script
-
-  piano'
-bip_39_word_new_line_11: 'surround
-
-  common
-
-  crumble
-
-  sorry
-
-  stairs
-
-  adapt
-
-  curve
-
-  cook
-
-  script
-
-  piano
-
-  clarify'
 bip_39_word_new_line_12: 'surround
 
   common
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'surround
   common
 
   crumble'
-bip_39_word_new_line_4: 'surround
-
-  common
-
-  crumble
-
-  sorry'
-bip_39_word_new_line_5: 'surround
-
-  common
-
-  crumble
-
-  sorry
-
-  stairs'
-bip_39_word_new_line_6: 'surround
-
-  common
-
-  crumble
-
-  sorry
-
-  stairs
-
-  adapt'
-bip_39_word_new_line_7: 'surround
-
-  common
-
-  crumble
-
-  sorry
-
-  stairs
-
-  adapt
-
-  curve'
-bip_39_word_new_line_8: 'surround
-
-  common
-
-  crumble
-
-  sorry
-
-  stairs
-
-  adapt
-
-  curve
-
-  cook'
-bip_39_word_new_line_9: 'surround
-
-  common
-
-  crumble
-
-  sorry
-
-  stairs
-
-  adapt
-
-  curve
-
-  cook
-
-  script'
-bip_39_word_no_space_1: surround
-bip_39_word_no_space_10: surroundcommoncrumblesorrystairsadaptcurvecookscriptpiano
-bip_39_word_no_space_11: surroundcommoncrumblesorrystairsadaptcurvecookscriptpianoclarify
 bip_39_word_no_space_12: surroundcommoncrumblesorrystairsadaptcurvecookscriptpianoclarifyarmed
 bip_39_word_no_space_2: surroundcommon
 bip_39_word_no_space_3: surroundcommoncrumble
-bip_39_word_no_space_4: surroundcommoncrumblesorry
-bip_39_word_no_space_5: surroundcommoncrumblesorrystairs
-bip_39_word_no_space_6: surroundcommoncrumblesorrystairsadapt
-bip_39_word_no_space_7: surroundcommoncrumblesorrystairsadaptcurve
-bip_39_word_no_space_8: surroundcommoncrumblesorrystairsadaptcurvecook
-bip_39_word_no_space_9: surroundcommoncrumblesorrystairsadaptcurvecookscript
-bip_39_word_space_0:
-- surround
-- common
-- crumble
-- sorry
-- stairs
-- adapt
-- curve
-- cook
-- script
-- piano
-- clarify
-- armed
-bip_39_word_space_1: surround
-bip_39_word_space_10: surround common crumble sorry stairs adapt curve cook script
-  piano
-bip_39_word_space_11: surround common crumble sorry stairs adapt curve cook script
-  piano clarify
 bip_39_word_space_12: surround common crumble sorry stairs adapt curve cook script
   piano clarify armed
 bip_39_word_space_2: surround common
 bip_39_word_space_3: surround common crumble
-bip_39_word_space_4: surround common crumble sorry
-bip_39_word_space_5: surround common crumble sorry stairs
-bip_39_word_space_6: surround common crumble sorry stairs adapt
-bip_39_word_space_7: surround common crumble sorry stairs adapt curve
-bip_39_word_space_8: surround common crumble sorry stairs adapt curve cook
-bip_39_word_space_9: surround common crumble sorry stairs adapt curve cook script
-bip_39_word_underscore_1: surround
-bip_39_word_underscore_10: surround_common_crumble_sorry_stairs_adapt_curve_cook_script_piano
-bip_39_word_underscore_11: surround_common_crumble_sorry_stairs_adapt_curve_cook_script_piano_clarify
 bip_39_word_underscore_12: surround_common_crumble_sorry_stairs_adapt_curve_cook_script_piano_clarify_armed
 bip_39_word_underscore_2: surround_common
 bip_39_word_underscore_3: surround_common_crumble
-bip_39_word_underscore_4: surround_common_crumble_sorry
-bip_39_word_underscore_5: surround_common_crumble_sorry_stairs
-bip_39_word_underscore_6: surround_common_crumble_sorry_stairs_adapt
-bip_39_word_underscore_7: surround_common_crumble_sorry_stairs_adapt_curve
-bip_39_word_underscore_8: surround_common_crumble_sorry_stairs_adapt_curve_cook
-bip_39_word_underscore_9: surround_common_crumble_sorry_stairs_adapt_curve_cook_script
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

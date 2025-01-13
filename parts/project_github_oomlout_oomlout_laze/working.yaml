@@ -1,68 +1,9 @@
-bip_39_word_dash_1: leopard
-bip_39_word_dash_10: leopard-bag-punch-picnic-retreat-ability-clap-interest-sock-vessel
-bip_39_word_dash_11: leopard-bag-punch-picnic-retreat-ability-clap-interest-sock-vessel-crush
 bip_39_word_dash_12: leopard-bag-punch-picnic-retreat-ability-clap-interest-sock-vessel-crush-alien
 bip_39_word_dash_2: leopard-bag
 bip_39_word_dash_3: leopard-bag-punch
-bip_39_word_dash_4: leopard-bag-punch-picnic
-bip_39_word_dash_5: leopard-bag-punch-picnic-retreat
-bip_39_word_dash_6: leopard-bag-punch-picnic-retreat-ability
-bip_39_word_dash_7: leopard-bag-punch-picnic-retreat-ability-clap
-bip_39_word_dash_8: leopard-bag-punch-picnic-retreat-ability-clap-interest
-bip_39_word_dash_9: leopard-bag-punch-picnic-retreat-ability-clap-interest-sock
-bip_39_word_new_br_1: leopard
-bip_39_word_new_br_10: leopard<br>bag<br>punch<br>picnic<br>retreat<br>ability<br>clap<br>interest<br>sock<br>vessel
-bip_39_word_new_br_11: leopard<br>bag<br>punch<br>picnic<br>retreat<br>ability<br>clap<br>interest<br>sock<br>vessel<br>crush
 bip_39_word_new_br_12: leopard<br>bag<br>punch<br>picnic<br>retreat<br>ability<br>clap<br>interest<br>sock<br>vessel<br>crush<br>alien
 bip_39_word_new_br_2: leopard<br>bag
 bip_39_word_new_br_3: leopard<br>bag<br>punch
-bip_39_word_new_br_4: leopard<br>bag<br>punch<br>picnic
-bip_39_word_new_br_5: leopard<br>bag<br>punch<br>picnic<br>retreat
-bip_39_word_new_br_6: leopard<br>bag<br>punch<br>picnic<br>retreat<br>ability
-bip_39_word_new_br_7: leopard<br>bag<br>punch<br>picnic<br>retreat<br>ability<br>clap
-bip_39_word_new_br_8: leopard<br>bag<br>punch<br>picnic<br>retreat<br>ability<br>clap<br>interest
-bip_39_word_new_br_9: leopard<br>bag<br>punch<br>picnic<br>retreat<br>ability<br>clap<br>interest<br>sock
-bip_39_word_new_line_1: leopard
-bip_39_word_new_line_10: 'leopard
-
-  bag
-
-  punch
-
-  picnic
-
-  retreat
-
-  ability
-
-  clap
-
-  interest
-
-  sock
-
-  vessel'
-bip_39_word_new_line_11: 'leopard
-
-  bag
-
-  punch
-
-  picnic
-
-  retreat
-
-  ability
-
-  clap
-
-  interest
-
-  sock
-
-  vessel
-
-  crush'
 bip_39_word_new_line_12: 'leopard
 
   bag
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'leopard
   bag
 
   punch'
-bip_39_word_new_line_4: 'leopard
-
-  bag
-
-  punch
-
-  picnic'
-bip_39_word_new_line_5: 'leopard
-
-  bag
-
-  punch
-
-  picnic
-
-  retreat'
-bip_39_word_new_line_6: 'leopard
-
-  bag
-
-  punch
-
-  picnic
-
-  retreat
-
-  ability'
-bip_39_word_new_line_7: 'leopard
-
-  bag
-
-  punch
-
-  picnic
-
-  retreat
-
-  ability
-
-  clap'
-bip_39_word_new_line_8: 'leopard
-
-  bag
-
-  punch
-
-  picnic
-
-  retreat
-
-  ability
-
-  clap
-
-  interest'
-bip_39_word_new_line_9: 'leopard
-
-  bag
-
-  punch
-
-  picnic
-
-  retreat
-
-  ability
-
-  clap
-
-  interest
-
-  sock'
-bip_39_word_no_space_1: leopard
-bip_39_word_no_space_10: leopardbagpunchpicnicretreatabilityclapinterestsockvessel
-bip_39_word_no_space_11: leopardbagpunchpicnicretreatabilityclapinterestsockvesselcrush
 bip_39_word_no_space_12: leopardbagpunchpicnicretreatabilityclapinterestsockvesselcrushalien
 bip_39_word_no_space_2: leopardbag
 bip_39_word_no_space_3: leopardbagpunch
-bip_39_word_no_space_4: leopardbagpunchpicnic
-bip_39_word_no_space_5: leopardbagpunchpicnicretreat
-bip_39_word_no_space_6: leopardbagpunchpicnicretreatability
-bip_39_word_no_space_7: leopardbagpunchpicnicretreatabilityclap
-bip_39_word_no_space_8: leopardbagpunchpicnicretreatabilityclapinterest
-bip_39_word_no_space_9: leopardbagpunchpicnicretreatabilityclapinterestsock
-bip_39_word_space_0:
-- leopard
-- bag
-- punch
-- picnic
-- retreat
-- ability
-- clap
-- interest
-- sock
-- vessel
-- crush
-- alien
-bip_39_word_space_1: leopard
-bip_39_word_space_10: leopard bag punch picnic retreat ability clap interest sock
-  vessel
-bip_39_word_space_11: leopard bag punch picnic retreat ability clap interest sock
-  vessel crush
 bip_39_word_space_12: leopard bag punch picnic retreat ability clap interest sock
   vessel crush alien
 bip_39_word_space_2: leopard bag
 bip_39_word_space_3: leopard bag punch
-bip_39_word_space_4: leopard bag punch picnic
-bip_39_word_space_5: leopard bag punch picnic retreat
-bip_39_word_space_6: leopard bag punch picnic retreat ability
-bip_39_word_space_7: leopard bag punch picnic retreat ability clap
-bip_39_word_space_8: leopard bag punch picnic retreat ability clap interest
-bip_39_word_space_9: leopard bag punch picnic retreat ability clap interest sock
-bip_39_word_underscore_1: leopard
-bip_39_word_underscore_10: leopard_bag_punch_picnic_retreat_ability_clap_interest_sock_vessel
-bip_39_word_underscore_11: leopard_bag_punch_picnic_retreat_ability_clap_interest_sock_vessel_crush
 bip_39_word_underscore_12: leopard_bag_punch_picnic_retreat_ability_clap_interest_sock_vessel_crush_alien
 bip_39_word_underscore_2: leopard_bag
 bip_39_word_underscore_3: leopard_bag_punch
-bip_39_word_underscore_4: leopard_bag_punch_picnic
-bip_39_word_underscore_5: leopard_bag_punch_picnic_retreat
-bip_39_word_underscore_6: leopard_bag_punch_picnic_retreat_ability
-bip_39_word_underscore_7: leopard_bag_punch_picnic_retreat_ability_clap
-bip_39_word_underscore_8: leopard_bag_punch_picnic_retreat_ability_clap_interest
-bip_39_word_underscore_9: leopard_bag_punch_picnic_retreat_ability_clap_interest_sock
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: prefer
-bip_39_word_dash_10: prefer-divorce-mail-mansion-hat-rigid-siren-mosquito-curve-razor
-bip_39_word_dash_11: prefer-divorce-mail-mansion-hat-rigid-siren-mosquito-curve-razor-onion
 bip_39_word_dash_12: prefer-divorce-mail-mansion-hat-rigid-siren-mosquito-curve-razor-onion-air
 bip_39_word_dash_2: prefer-divorce
 bip_39_word_dash_3: prefer-divorce-mail
-bip_39_word_dash_4: prefer-divorce-mail-mansion
-bip_39_word_dash_5: prefer-divorce-mail-mansion-hat
-bip_39_word_dash_6: prefer-divorce-mail-mansion-hat-rigid
-bip_39_word_dash_7: prefer-divorce-mail-mansion-hat-rigid-siren
-bip_39_word_dash_8: prefer-divorce-mail-mansion-hat-rigid-siren-mosquito
-bip_39_word_dash_9: prefer-divorce-mail-mansion-hat-rigid-siren-mosquito-curve
-bip_39_word_new_br_1: prefer
-bip_39_word_new_br_10: prefer<br>divorce<br>mail<br>mansion<br>hat<br>rigid<br>siren<br>mosquito<br>curve<br>razor
-bip_39_word_new_br_11: prefer<br>divorce<br>mail<br>mansion<br>hat<br>rigid<br>siren<br>mosquito<br>curve<br>razor<br>onion
 bip_39_word_new_br_12: prefer<br>divorce<br>mail<br>mansion<br>hat<br>rigid<br>siren<br>mosquito<br>curve<br>razor<br>onion<br>air
 bip_39_word_new_br_2: prefer<br>divorce
 bip_39_word_new_br_3: prefer<br>divorce<br>mail
-bip_39_word_new_br_4: prefer<br>divorce<br>mail<br>mansion
-bip_39_word_new_br_5: prefer<br>divorce<br>mail<br>mansion<br>hat
-bip_39_word_new_br_6: prefer<br>divorce<br>mail<br>mansion<br>hat<br>rigid
-bip_39_word_new_br_7: prefer<br>divorce<br>mail<br>mansion<br>hat<br>rigid<br>siren
-bip_39_word_new_br_8: prefer<br>divorce<br>mail<br>mansion<br>hat<br>rigid<br>siren<br>mosquito
-bip_39_word_new_br_9: prefer<br>divorce<br>mail<br>mansion<br>hat<br>rigid<br>siren<br>mosquito<br>curve
-bip_39_word_new_line_1: prefer
-bip_39_word_new_line_10: 'prefer
-
-  divorce
-
-  mail
-
-  mansion
-
-  hat
-
-  rigid
-
-  siren
-
-  mosquito
-
-  curve
-
-  razor'
-bip_39_word_new_line_11: 'prefer
-
-  divorce
-
-  mail
-
-  mansion
-
-  hat
-
-  rigid
-
-  siren
-
-  mosquito
-
-  curve
-
-  razor
-
-  onion'
 bip_39_word_new_line_12: 'prefer
 
   divorce
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'prefer
   divorce
 
   mail'
-bip_39_word_new_line_4: 'prefer
-
-  divorce
-
-  mail
-
-  mansion'
-bip_39_word_new_line_5: 'prefer
-
-  divorce
-
-  mail
-
-  mansion
-
-  hat'
-bip_39_word_new_line_6: 'prefer
-
-  divorce
-
-  mail
-
-  mansion
-
-  hat
-
-  rigid'
-bip_39_word_new_line_7: 'prefer
-
-  divorce
-
-  mail
-
-  mansion
-
-  hat
-
-  rigid
-
-  siren'
-bip_39_word_new_line_8: 'prefer
-
-  divorce
-
-  mail
-
-  mansion
-
-  hat
-
-  rigid
-
-  siren
-
-  mosquito'
-bip_39_word_new_line_9: 'prefer
-
-  divorce
-
-  mail
-
-  mansion
-
-  hat
-
-  rigid
-
-  siren
-
-  mosquito
-
-  curve'
-bip_39_word_no_space_1: prefer
-bip_39_word_no_space_10: preferdivorcemailmansionhatrigidsirenmosquitocurverazor
-bip_39_word_no_space_11: preferdivorcemailmansionhatrigidsirenmosquitocurverazoronion
 bip_39_word_no_space_12: preferdivorcemailmansionhatrigidsirenmosquitocurverazoronionair
 bip_39_word_no_space_2: preferdivorce
 bip_39_word_no_space_3: preferdivorcemail
-bip_39_word_no_space_4: preferdivorcemailmansion
-bip_39_word_no_space_5: preferdivorcemailmansionhat
-bip_39_word_no_space_6: preferdivorcemailmansionhatrigid
-bip_39_word_no_space_7: preferdivorcemailmansionhatrigidsiren
-bip_39_word_no_space_8: preferdivorcemailmansionhatrigidsirenmosquito
-bip_39_word_no_space_9: preferdivorcemailmansionhatrigidsirenmosquitocurve
-bip_39_word_space_0:
-- prefer
-- divorce
-- mail
-- mansion
-- hat
-- rigid
-- siren
-- mosquito
-- curve
-- razor
-- onion
-- air
-bip_39_word_space_1: prefer
-bip_39_word_space_10: prefer divorce mail mansion hat rigid siren mosquito curve razor
-bip_39_word_space_11: prefer divorce mail mansion hat rigid siren mosquito curve razor
-  onion
 bip_39_word_space_12: prefer divorce mail mansion hat rigid siren mosquito curve razor
   onion air
 bip_39_word_space_2: prefer divorce
 bip_39_word_space_3: prefer divorce mail
-bip_39_word_space_4: prefer divorce mail mansion
-bip_39_word_space_5: prefer divorce mail mansion hat
-bip_39_word_space_6: prefer divorce mail mansion hat rigid
-bip_39_word_space_7: prefer divorce mail mansion hat rigid siren
-bip_39_word_space_8: prefer divorce mail mansion hat rigid siren mosquito
-bip_39_word_space_9: prefer divorce mail mansion hat rigid siren mosquito curve
-bip_39_word_underscore_1: prefer
-bip_39_word_underscore_10: prefer_divorce_mail_mansion_hat_rigid_siren_mosquito_curve_razor
-bip_39_word_underscore_11: prefer_divorce_mail_mansion_hat_rigid_siren_mosquito_curve_razor_onion
 bip_39_word_underscore_12: prefer_divorce_mail_mansion_hat_rigid_siren_mosquito_curve_razor_onion_air
 bip_39_word_underscore_2: prefer_divorce
 bip_39_word_underscore_3: prefer_divorce_mail
-bip_39_word_underscore_4: prefer_divorce_mail_mansion
-bip_39_word_underscore_5: prefer_divorce_mail_mansion_hat
-bip_39_word_underscore_6: prefer_divorce_mail_mansion_hat_rigid
-bip_39_word_underscore_7: prefer_divorce_mail_mansion_hat_rigid_siren
-bip_39_word_underscore_8: prefer_divorce_mail_mansion_hat_rigid_siren_mosquito
-bip_39_word_underscore_9: prefer_divorce_mail_mansion_hat_rigid_siren_mosquito_curve
 classification: food
 classification_capital: Food
 classification_first_letter: f

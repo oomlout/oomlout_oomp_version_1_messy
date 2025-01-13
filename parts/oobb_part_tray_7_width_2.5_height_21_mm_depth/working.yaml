@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pistol
-bip_39_word_dash_10: pistol-iron-swallow-rhythm-faith-emerge-ostrich-congress-replace-chalk
-bip_39_word_dash_11: pistol-iron-swallow-rhythm-faith-emerge-ostrich-congress-replace-chalk-approve
 bip_39_word_dash_12: pistol-iron-swallow-rhythm-faith-emerge-ostrich-congress-replace-chalk-approve-announce
 bip_39_word_dash_2: pistol-iron
 bip_39_word_dash_3: pistol-iron-swallow
-bip_39_word_dash_4: pistol-iron-swallow-rhythm
-bip_39_word_dash_5: pistol-iron-swallow-rhythm-faith
-bip_39_word_dash_6: pistol-iron-swallow-rhythm-faith-emerge
-bip_39_word_dash_7: pistol-iron-swallow-rhythm-faith-emerge-ostrich
-bip_39_word_dash_8: pistol-iron-swallow-rhythm-faith-emerge-ostrich-congress
-bip_39_word_dash_9: pistol-iron-swallow-rhythm-faith-emerge-ostrich-congress-replace
-bip_39_word_new_br_1: pistol
-bip_39_word_new_br_10: pistol<br>iron<br>swallow<br>rhythm<br>faith<br>emerge<br>ostrich<br>congress<br>replace<br>chalk
-bip_39_word_new_br_11: pistol<br>iron<br>swallow<br>rhythm<br>faith<br>emerge<br>ostrich<br>congress<br>replace<br>chalk<br>approve
 bip_39_word_new_br_12: pistol<br>iron<br>swallow<br>rhythm<br>faith<br>emerge<br>ostrich<br>congress<br>replace<br>chalk<br>approve<br>announce
 bip_39_word_new_br_2: pistol<br>iron
 bip_39_word_new_br_3: pistol<br>iron<br>swallow
-bip_39_word_new_br_4: pistol<br>iron<br>swallow<br>rhythm
-bip_39_word_new_br_5: pistol<br>iron<br>swallow<br>rhythm<br>faith
-bip_39_word_new_br_6: pistol<br>iron<br>swallow<br>rhythm<br>faith<br>emerge
-bip_39_word_new_br_7: pistol<br>iron<br>swallow<br>rhythm<br>faith<br>emerge<br>ostrich
-bip_39_word_new_br_8: pistol<br>iron<br>swallow<br>rhythm<br>faith<br>emerge<br>ostrich<br>congress
-bip_39_word_new_br_9: pistol<br>iron<br>swallow<br>rhythm<br>faith<br>emerge<br>ostrich<br>congress<br>replace
-bip_39_word_new_line_1: pistol
-bip_39_word_new_line_10: 'pistol
-
-  iron
-
-  swallow
-
-  rhythm
-
-  faith
-
-  emerge
-
-  ostrich
-
-  congress
-
-  replace
-
-  chalk'
-bip_39_word_new_line_11: 'pistol
-
-  iron
-
-  swallow
-
-  rhythm
-
-  faith
-
-  emerge
-
-  ostrich
-
-  congress
-
-  replace
-
-  chalk
-
-  approve'
 bip_39_word_new_line_12: 'pistol
 
   iron
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pistol
   iron
 
   swallow'
-bip_39_word_new_line_4: 'pistol
-
-  iron
-
-  swallow
-
-  rhythm'
-bip_39_word_new_line_5: 'pistol
-
-  iron
-
-  swallow
-
-  rhythm
-
-  faith'
-bip_39_word_new_line_6: 'pistol
-
-  iron
-
-  swallow
-
-  rhythm
-
-  faith
-
-  emerge'
-bip_39_word_new_line_7: 'pistol
-
-  iron
-
-  swallow
-
-  rhythm
-
-  faith
-
-  emerge
-
-  ostrich'
-bip_39_word_new_line_8: 'pistol
-
-  iron
-
-  swallow
-
-  rhythm
-
-  faith
-
-  emerge
-
-  ostrich
-
-  congress'
-bip_39_word_new_line_9: 'pistol
-
-  iron
-
-  swallow
-
-  rhythm
-
-  faith
-
-  emerge
-
-  ostrich
-
-  congress
-
-  replace'
-bip_39_word_no_space_1: pistol
-bip_39_word_no_space_10: pistolironswallowrhythmfaithemergeostrichcongressreplacechalk
-bip_39_word_no_space_11: pistolironswallowrhythmfaithemergeostrichcongressreplacechalkapprove
 bip_39_word_no_space_12: pistolironswallowrhythmfaithemergeostrichcongressreplacechalkapproveannounce
 bip_39_word_no_space_2: pistoliron
 bip_39_word_no_space_3: pistolironswallow
-bip_39_word_no_space_4: pistolironswallowrhythm
-bip_39_word_no_space_5: pistolironswallowrhythmfaith
-bip_39_word_no_space_6: pistolironswallowrhythmfaithemerge
-bip_39_word_no_space_7: pistolironswallowrhythmfaithemergeostrich
-bip_39_word_no_space_8: pistolironswallowrhythmfaithemergeostrichcongress
-bip_39_word_no_space_9: pistolironswallowrhythmfaithemergeostrichcongressreplace
-bip_39_word_space_0:
-- pistol
-- iron
-- swallow
-- rhythm
-- faith
-- emerge
-- ostrich
-- congress
-- replace
-- chalk
-- approve
-- announce
-bip_39_word_space_1: pistol
-bip_39_word_space_10: pistol iron swallow rhythm faith emerge ostrich congress replace
-  chalk
-bip_39_word_space_11: pistol iron swallow rhythm faith emerge ostrich congress replace
-  chalk approve
 bip_39_word_space_12: pistol iron swallow rhythm faith emerge ostrich congress replace
   chalk approve announce
 bip_39_word_space_2: pistol iron
 bip_39_word_space_3: pistol iron swallow
-bip_39_word_space_4: pistol iron swallow rhythm
-bip_39_word_space_5: pistol iron swallow rhythm faith
-bip_39_word_space_6: pistol iron swallow rhythm faith emerge
-bip_39_word_space_7: pistol iron swallow rhythm faith emerge ostrich
-bip_39_word_space_8: pistol iron swallow rhythm faith emerge ostrich congress
-bip_39_word_space_9: pistol iron swallow rhythm faith emerge ostrich congress replace
-bip_39_word_underscore_1: pistol
-bip_39_word_underscore_10: pistol_iron_swallow_rhythm_faith_emerge_ostrich_congress_replace_chalk
-bip_39_word_underscore_11: pistol_iron_swallow_rhythm_faith_emerge_ostrich_congress_replace_chalk_approve
 bip_39_word_underscore_12: pistol_iron_swallow_rhythm_faith_emerge_ostrich_congress_replace_chalk_approve_announce
 bip_39_word_underscore_2: pistol_iron
 bip_39_word_underscore_3: pistol_iron_swallow
-bip_39_word_underscore_4: pistol_iron_swallow_rhythm
-bip_39_word_underscore_5: pistol_iron_swallow_rhythm_faith
-bip_39_word_underscore_6: pistol_iron_swallow_rhythm_faith_emerge
-bip_39_word_underscore_7: pistol_iron_swallow_rhythm_faith_emerge_ostrich
-bip_39_word_underscore_8: pistol_iron_swallow_rhythm_faith_emerge_ostrich_congress
-bip_39_word_underscore_9: pistol_iron_swallow_rhythm_faith_emerge_ostrich_congress_replace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

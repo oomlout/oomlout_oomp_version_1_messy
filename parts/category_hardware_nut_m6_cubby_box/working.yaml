@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bronze
-bip_39_word_dash_10: bronze-win-quit-mind-grass-toward-brain-duck-write-image
-bip_39_word_dash_11: bronze-win-quit-mind-grass-toward-brain-duck-write-image-hawk
 bip_39_word_dash_12: bronze-win-quit-mind-grass-toward-brain-duck-write-image-hawk-answer
 bip_39_word_dash_2: bronze-win
 bip_39_word_dash_3: bronze-win-quit
-bip_39_word_dash_4: bronze-win-quit-mind
-bip_39_word_dash_5: bronze-win-quit-mind-grass
-bip_39_word_dash_6: bronze-win-quit-mind-grass-toward
-bip_39_word_dash_7: bronze-win-quit-mind-grass-toward-brain
-bip_39_word_dash_8: bronze-win-quit-mind-grass-toward-brain-duck
-bip_39_word_dash_9: bronze-win-quit-mind-grass-toward-brain-duck-write
-bip_39_word_new_br_1: bronze
-bip_39_word_new_br_10: bronze<br>win<br>quit<br>mind<br>grass<br>toward<br>brain<br>duck<br>write<br>image
-bip_39_word_new_br_11: bronze<br>win<br>quit<br>mind<br>grass<br>toward<br>brain<br>duck<br>write<br>image<br>hawk
 bip_39_word_new_br_12: bronze<br>win<br>quit<br>mind<br>grass<br>toward<br>brain<br>duck<br>write<br>image<br>hawk<br>answer
 bip_39_word_new_br_2: bronze<br>win
 bip_39_word_new_br_3: bronze<br>win<br>quit
-bip_39_word_new_br_4: bronze<br>win<br>quit<br>mind
-bip_39_word_new_br_5: bronze<br>win<br>quit<br>mind<br>grass
-bip_39_word_new_br_6: bronze<br>win<br>quit<br>mind<br>grass<br>toward
-bip_39_word_new_br_7: bronze<br>win<br>quit<br>mind<br>grass<br>toward<br>brain
-bip_39_word_new_br_8: bronze<br>win<br>quit<br>mind<br>grass<br>toward<br>brain<br>duck
-bip_39_word_new_br_9: bronze<br>win<br>quit<br>mind<br>grass<br>toward<br>brain<br>duck<br>write
-bip_39_word_new_line_1: bronze
-bip_39_word_new_line_10: 'bronze
-
-  win
-
-  quit
-
-  mind
-
-  grass
-
-  toward
-
-  brain
-
-  duck
-
-  write
-
-  image'
-bip_39_word_new_line_11: 'bronze
-
-  win
-
-  quit
-
-  mind
-
-  grass
-
-  toward
-
-  brain
-
-  duck
-
-  write
-
-  image
-
-  hawk'
 bip_39_word_new_line_12: 'bronze
 
   win
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'bronze
   win
 
   quit'
-bip_39_word_new_line_4: 'bronze
-
-  win
-
-  quit
-
-  mind'
-bip_39_word_new_line_5: 'bronze
-
-  win
-
-  quit
-
-  mind
-
-  grass'
-bip_39_word_new_line_6: 'bronze
-
-  win
-
-  quit
-
-  mind
-
-  grass
-
-  toward'
-bip_39_word_new_line_7: 'bronze
-
-  win
-
-  quit
-
-  mind
-
-  grass
-
-  toward
-
-  brain'
-bip_39_word_new_line_8: 'bronze
-
-  win
-
-  quit
-
-  mind
-
-  grass
-
-  toward
-
-  brain
-
-  duck'
-bip_39_word_new_line_9: 'bronze
-
-  win
-
-  quit
-
-  mind
-
-  grass
-
-  toward
-
-  brain
-
-  duck
-
-  write'
-bip_39_word_no_space_1: bronze
-bip_39_word_no_space_10: bronzewinquitmindgrasstowardbrainduckwriteimage
-bip_39_word_no_space_11: bronzewinquitmindgrasstowardbrainduckwriteimagehawk
 bip_39_word_no_space_12: bronzewinquitmindgrasstowardbrainduckwriteimagehawkanswer
 bip_39_word_no_space_2: bronzewin
 bip_39_word_no_space_3: bronzewinquit
-bip_39_word_no_space_4: bronzewinquitmind
-bip_39_word_no_space_5: bronzewinquitmindgrass
-bip_39_word_no_space_6: bronzewinquitmindgrasstoward
-bip_39_word_no_space_7: bronzewinquitmindgrasstowardbrain
-bip_39_word_no_space_8: bronzewinquitmindgrasstowardbrainduck
-bip_39_word_no_space_9: bronzewinquitmindgrasstowardbrainduckwrite
-bip_39_word_space_0:
-- bronze
-- win
-- quit
-- mind
-- grass
-- toward
-- brain
-- duck
-- write
-- image
-- hawk
-- answer
-bip_39_word_space_1: bronze
-bip_39_word_space_10: bronze win quit mind grass toward brain duck write image
-bip_39_word_space_11: bronze win quit mind grass toward brain duck write image hawk
 bip_39_word_space_12: bronze win quit mind grass toward brain duck write image hawk
   answer
 bip_39_word_space_2: bronze win
 bip_39_word_space_3: bronze win quit
-bip_39_word_space_4: bronze win quit mind
-bip_39_word_space_5: bronze win quit mind grass
-bip_39_word_space_6: bronze win quit mind grass toward
-bip_39_word_space_7: bronze win quit mind grass toward brain
-bip_39_word_space_8: bronze win quit mind grass toward brain duck
-bip_39_word_space_9: bronze win quit mind grass toward brain duck write
-bip_39_word_underscore_1: bronze
-bip_39_word_underscore_10: bronze_win_quit_mind_grass_toward_brain_duck_write_image
-bip_39_word_underscore_11: bronze_win_quit_mind_grass_toward_brain_duck_write_image_hawk
 bip_39_word_underscore_12: bronze_win_quit_mind_grass_toward_brain_duck_write_image_hawk_answer
 bip_39_word_underscore_2: bronze_win
 bip_39_word_underscore_3: bronze_win_quit
-bip_39_word_underscore_4: bronze_win_quit_mind
-bip_39_word_underscore_5: bronze_win_quit_mind_grass
-bip_39_word_underscore_6: bronze_win_quit_mind_grass_toward
-bip_39_word_underscore_7: bronze_win_quit_mind_grass_toward_brain
-bip_39_word_underscore_8: bronze_win_quit_mind_grass_toward_brain_duck
-bip_39_word_underscore_9: bronze_win_quit_mind_grass_toward_brain_duck_write
 classification: category
 classification_capital: Category
 classification_first_letter: c

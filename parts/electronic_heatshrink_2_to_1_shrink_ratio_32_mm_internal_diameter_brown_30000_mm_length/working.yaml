@@ -1,68 +1,9 @@
-bip_39_word_dash_1: noodle
-bip_39_word_dash_10: noodle-panel-blue-fiscal-book-amused-inject-spell-nature-super
-bip_39_word_dash_11: noodle-panel-blue-fiscal-book-amused-inject-spell-nature-super-pet
 bip_39_word_dash_12: noodle-panel-blue-fiscal-book-amused-inject-spell-nature-super-pet-alcohol
 bip_39_word_dash_2: noodle-panel
 bip_39_word_dash_3: noodle-panel-blue
-bip_39_word_dash_4: noodle-panel-blue-fiscal
-bip_39_word_dash_5: noodle-panel-blue-fiscal-book
-bip_39_word_dash_6: noodle-panel-blue-fiscal-book-amused
-bip_39_word_dash_7: noodle-panel-blue-fiscal-book-amused-inject
-bip_39_word_dash_8: noodle-panel-blue-fiscal-book-amused-inject-spell
-bip_39_word_dash_9: noodle-panel-blue-fiscal-book-amused-inject-spell-nature
-bip_39_word_new_br_1: noodle
-bip_39_word_new_br_10: noodle<br>panel<br>blue<br>fiscal<br>book<br>amused<br>inject<br>spell<br>nature<br>super
-bip_39_word_new_br_11: noodle<br>panel<br>blue<br>fiscal<br>book<br>amused<br>inject<br>spell<br>nature<br>super<br>pet
 bip_39_word_new_br_12: noodle<br>panel<br>blue<br>fiscal<br>book<br>amused<br>inject<br>spell<br>nature<br>super<br>pet<br>alcohol
 bip_39_word_new_br_2: noodle<br>panel
 bip_39_word_new_br_3: noodle<br>panel<br>blue
-bip_39_word_new_br_4: noodle<br>panel<br>blue<br>fiscal
-bip_39_word_new_br_5: noodle<br>panel<br>blue<br>fiscal<br>book
-bip_39_word_new_br_6: noodle<br>panel<br>blue<br>fiscal<br>book<br>amused
-bip_39_word_new_br_7: noodle<br>panel<br>blue<br>fiscal<br>book<br>amused<br>inject
-bip_39_word_new_br_8: noodle<br>panel<br>blue<br>fiscal<br>book<br>amused<br>inject<br>spell
-bip_39_word_new_br_9: noodle<br>panel<br>blue<br>fiscal<br>book<br>amused<br>inject<br>spell<br>nature
-bip_39_word_new_line_1: noodle
-bip_39_word_new_line_10: 'noodle
-
-  panel
-
-  blue
-
-  fiscal
-
-  book
-
-  amused
-
-  inject
-
-  spell
-
-  nature
-
-  super'
-bip_39_word_new_line_11: 'noodle
-
-  panel
-
-  blue
-
-  fiscal
-
-  book
-
-  amused
-
-  inject
-
-  spell
-
-  nature
-
-  super
-
-  pet'
 bip_39_word_new_line_12: 'noodle
 
   panel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'noodle
   panel
 
   blue'
-bip_39_word_new_line_4: 'noodle
-
-  panel
-
-  blue
-
-  fiscal'
-bip_39_word_new_line_5: 'noodle
-
-  panel
-
-  blue
-
-  fiscal
-
-  book'
-bip_39_word_new_line_6: 'noodle
-
-  panel
-
-  blue
-
-  fiscal
-
-  book
-
-  amused'
-bip_39_word_new_line_7: 'noodle
-
-  panel
-
-  blue
-
-  fiscal
-
-  book
-
-  amused
-
-  inject'
-bip_39_word_new_line_8: 'noodle
-
-  panel
-
-  blue
-
-  fiscal
-
-  book
-
-  amused
-
-  inject
-
-  spell'
-bip_39_word_new_line_9: 'noodle
-
-  panel
-
-  blue
-
-  fiscal
-
-  book
-
-  amused
-
-  inject
-
-  spell
-
-  nature'
-bip_39_word_no_space_1: noodle
-bip_39_word_no_space_10: noodlepanelbluefiscalbookamusedinjectspellnaturesuper
-bip_39_word_no_space_11: noodlepanelbluefiscalbookamusedinjectspellnaturesuperpet
 bip_39_word_no_space_12: noodlepanelbluefiscalbookamusedinjectspellnaturesuperpetalcohol
 bip_39_word_no_space_2: noodlepanel
 bip_39_word_no_space_3: noodlepanelblue
-bip_39_word_no_space_4: noodlepanelbluefiscal
-bip_39_word_no_space_5: noodlepanelbluefiscalbook
-bip_39_word_no_space_6: noodlepanelbluefiscalbookamused
-bip_39_word_no_space_7: noodlepanelbluefiscalbookamusedinject
-bip_39_word_no_space_8: noodlepanelbluefiscalbookamusedinjectspell
-bip_39_word_no_space_9: noodlepanelbluefiscalbookamusedinjectspellnature
-bip_39_word_space_0:
-- noodle
-- panel
-- blue
-- fiscal
-- book
-- amused
-- inject
-- spell
-- nature
-- super
-- pet
-- alcohol
-bip_39_word_space_1: noodle
-bip_39_word_space_10: noodle panel blue fiscal book amused inject spell nature super
-bip_39_word_space_11: noodle panel blue fiscal book amused inject spell nature super
-  pet
 bip_39_word_space_12: noodle panel blue fiscal book amused inject spell nature super
   pet alcohol
 bip_39_word_space_2: noodle panel
 bip_39_word_space_3: noodle panel blue
-bip_39_word_space_4: noodle panel blue fiscal
-bip_39_word_space_5: noodle panel blue fiscal book
-bip_39_word_space_6: noodle panel blue fiscal book amused
-bip_39_word_space_7: noodle panel blue fiscal book amused inject
-bip_39_word_space_8: noodle panel blue fiscal book amused inject spell
-bip_39_word_space_9: noodle panel blue fiscal book amused inject spell nature
-bip_39_word_underscore_1: noodle
-bip_39_word_underscore_10: noodle_panel_blue_fiscal_book_amused_inject_spell_nature_super
-bip_39_word_underscore_11: noodle_panel_blue_fiscal_book_amused_inject_spell_nature_super_pet
 bip_39_word_underscore_12: noodle_panel_blue_fiscal_book_amused_inject_spell_nature_super_pet_alcohol
 bip_39_word_underscore_2: noodle_panel
 bip_39_word_underscore_3: noodle_panel_blue
-bip_39_word_underscore_4: noodle_panel_blue_fiscal
-bip_39_word_underscore_5: noodle_panel_blue_fiscal_book
-bip_39_word_underscore_6: noodle_panel_blue_fiscal_book_amused
-bip_39_word_underscore_7: noodle_panel_blue_fiscal_book_amused_inject
-bip_39_word_underscore_8: noodle_panel_blue_fiscal_book_amused_inject_spell
-bip_39_word_underscore_9: noodle_panel_blue_fiscal_book_amused_inject_spell_nature
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

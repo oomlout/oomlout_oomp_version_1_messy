@@ -1,68 +1,9 @@
-bip_39_word_dash_1: verify
-bip_39_word_dash_10: verify-flower-task-eternal-want-ghost-bullet-atom-october-smart
-bip_39_word_dash_11: verify-flower-task-eternal-want-ghost-bullet-atom-october-smart-blame
 bip_39_word_dash_12: verify-flower-task-eternal-want-ghost-bullet-atom-october-smart-blame-assault
 bip_39_word_dash_2: verify-flower
 bip_39_word_dash_3: verify-flower-task
-bip_39_word_dash_4: verify-flower-task-eternal
-bip_39_word_dash_5: verify-flower-task-eternal-want
-bip_39_word_dash_6: verify-flower-task-eternal-want-ghost
-bip_39_word_dash_7: verify-flower-task-eternal-want-ghost-bullet
-bip_39_word_dash_8: verify-flower-task-eternal-want-ghost-bullet-atom
-bip_39_word_dash_9: verify-flower-task-eternal-want-ghost-bullet-atom-october
-bip_39_word_new_br_1: verify
-bip_39_word_new_br_10: verify<br>flower<br>task<br>eternal<br>want<br>ghost<br>bullet<br>atom<br>october<br>smart
-bip_39_word_new_br_11: verify<br>flower<br>task<br>eternal<br>want<br>ghost<br>bullet<br>atom<br>october<br>smart<br>blame
 bip_39_word_new_br_12: verify<br>flower<br>task<br>eternal<br>want<br>ghost<br>bullet<br>atom<br>october<br>smart<br>blame<br>assault
 bip_39_word_new_br_2: verify<br>flower
 bip_39_word_new_br_3: verify<br>flower<br>task
-bip_39_word_new_br_4: verify<br>flower<br>task<br>eternal
-bip_39_word_new_br_5: verify<br>flower<br>task<br>eternal<br>want
-bip_39_word_new_br_6: verify<br>flower<br>task<br>eternal<br>want<br>ghost
-bip_39_word_new_br_7: verify<br>flower<br>task<br>eternal<br>want<br>ghost<br>bullet
-bip_39_word_new_br_8: verify<br>flower<br>task<br>eternal<br>want<br>ghost<br>bullet<br>atom
-bip_39_word_new_br_9: verify<br>flower<br>task<br>eternal<br>want<br>ghost<br>bullet<br>atom<br>october
-bip_39_word_new_line_1: verify
-bip_39_word_new_line_10: 'verify
-
-  flower
-
-  task
-
-  eternal
-
-  want
-
-  ghost
-
-  bullet
-
-  atom
-
-  october
-
-  smart'
-bip_39_word_new_line_11: 'verify
-
-  flower
-
-  task
-
-  eternal
-
-  want
-
-  ghost
-
-  bullet
-
-  atom
-
-  october
-
-  smart
-
-  blame'
 bip_39_word_new_line_12: 'verify
 
   flower
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'verify
   flower
 
   task'
-bip_39_word_new_line_4: 'verify
-
-  flower
-
-  task
-
-  eternal'
-bip_39_word_new_line_5: 'verify
-
-  flower
-
-  task
-
-  eternal
-
-  want'
-bip_39_word_new_line_6: 'verify
-
-  flower
-
-  task
-
-  eternal
-
-  want
-
-  ghost'
-bip_39_word_new_line_7: 'verify
-
-  flower
-
-  task
-
-  eternal
-
-  want
-
-  ghost
-
-  bullet'
-bip_39_word_new_line_8: 'verify
-
-  flower
-
-  task
-
-  eternal
-
-  want
-
-  ghost
-
-  bullet
-
-  atom'
-bip_39_word_new_line_9: 'verify
-
-  flower
-
-  task
-
-  eternal
-
-  want
-
-  ghost
-
-  bullet
-
-  atom
-
-  october'
-bip_39_word_no_space_1: verify
-bip_39_word_no_space_10: verifyflowertasketernalwantghostbulletatomoctobersmart
-bip_39_word_no_space_11: verifyflowertasketernalwantghostbulletatomoctobersmartblame
 bip_39_word_no_space_12: verifyflowertasketernalwantghostbulletatomoctobersmartblameassault
 bip_39_word_no_space_2: verifyflower
 bip_39_word_no_space_3: verifyflowertask
-bip_39_word_no_space_4: verifyflowertasketernal
-bip_39_word_no_space_5: verifyflowertasketernalwant
-bip_39_word_no_space_6: verifyflowertasketernalwantghost
-bip_39_word_no_space_7: verifyflowertasketernalwantghostbullet
-bip_39_word_no_space_8: verifyflowertasketernalwantghostbulletatom
-bip_39_word_no_space_9: verifyflowertasketernalwantghostbulletatomoctober
-bip_39_word_space_0:
-- verify
-- flower
-- task
-- eternal
-- want
-- ghost
-- bullet
-- atom
-- october
-- smart
-- blame
-- assault
-bip_39_word_space_1: verify
-bip_39_word_space_10: verify flower task eternal want ghost bullet atom october smart
-bip_39_word_space_11: verify flower task eternal want ghost bullet atom october smart
-  blame
 bip_39_word_space_12: verify flower task eternal want ghost bullet atom october smart
   blame assault
 bip_39_word_space_2: verify flower
 bip_39_word_space_3: verify flower task
-bip_39_word_space_4: verify flower task eternal
-bip_39_word_space_5: verify flower task eternal want
-bip_39_word_space_6: verify flower task eternal want ghost
-bip_39_word_space_7: verify flower task eternal want ghost bullet
-bip_39_word_space_8: verify flower task eternal want ghost bullet atom
-bip_39_word_space_9: verify flower task eternal want ghost bullet atom october
-bip_39_word_underscore_1: verify
-bip_39_word_underscore_10: verify_flower_task_eternal_want_ghost_bullet_atom_october_smart
-bip_39_word_underscore_11: verify_flower_task_eternal_want_ghost_bullet_atom_october_smart_blame
 bip_39_word_underscore_12: verify_flower_task_eternal_want_ghost_bullet_atom_october_smart_blame_assault
 bip_39_word_underscore_2: verify_flower
 bip_39_word_underscore_3: verify_flower_task
-bip_39_word_underscore_4: verify_flower_task_eternal
-bip_39_word_underscore_5: verify_flower_task_eternal_want
-bip_39_word_underscore_6: verify_flower_task_eternal_want_ghost
-bip_39_word_underscore_7: verify_flower_task_eternal_want_ghost_bullet
-bip_39_word_underscore_8: verify_flower_task_eternal_want_ghost_bullet_atom
-bip_39_word_underscore_9: verify_flower_task_eternal_want_ghost_bullet_atom_october
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

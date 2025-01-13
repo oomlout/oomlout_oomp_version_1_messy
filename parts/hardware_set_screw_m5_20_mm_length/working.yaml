@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420654098'
-bip_39_word_dash_1: witness
-bip_39_word_dash_10: witness-snap-two-source-punch-coconut-own-climb-sunset-matrix
-bip_39_word_dash_11: witness-snap-two-source-punch-coconut-own-climb-sunset-matrix-reveal
 bip_39_word_dash_12: witness-snap-two-source-punch-coconut-own-climb-sunset-matrix-reveal-any
 bip_39_word_dash_2: witness-snap
 bip_39_word_dash_3: witness-snap-two
-bip_39_word_dash_4: witness-snap-two-source
-bip_39_word_dash_5: witness-snap-two-source-punch
-bip_39_word_dash_6: witness-snap-two-source-punch-coconut
-bip_39_word_dash_7: witness-snap-two-source-punch-coconut-own
-bip_39_word_dash_8: witness-snap-two-source-punch-coconut-own-climb
-bip_39_word_dash_9: witness-snap-two-source-punch-coconut-own-climb-sunset
-bip_39_word_new_br_1: witness
-bip_39_word_new_br_10: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix
-bip_39_word_new_br_11: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix<br>reveal
 bip_39_word_new_br_12: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix<br>reveal<br>any
 bip_39_word_new_br_2: witness<br>snap
 bip_39_word_new_br_3: witness<br>snap<br>two
-bip_39_word_new_br_4: witness<br>snap<br>two<br>source
-bip_39_word_new_br_5: witness<br>snap<br>two<br>source<br>punch
-bip_39_word_new_br_6: witness<br>snap<br>two<br>source<br>punch<br>coconut
-bip_39_word_new_br_7: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own
-bip_39_word_new_br_8: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb
-bip_39_word_new_br_9: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset
-bip_39_word_new_line_1: witness
-bip_39_word_new_line_10: 'witness
-
-  snap
-
-  two
-
-  source
-
-  punch
-
-  coconut
-
-  own
-
-  climb
-
-  sunset
-
-  matrix'
-bip_39_word_new_line_11: 'witness
-
-  snap
-
-  two
-
-  source
-
-  punch
-
-  coconut
-
-  own
-
-  climb
-
-  sunset
-
-  matrix
-
-  reveal'
 bip_39_word_new_line_12: 'witness
 
   snap
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'witness
   snap
 
   two'
-bip_39_word_new_line_4: 'witness
-
-  snap
-
-  two
-
-  source'
-bip_39_word_new_line_5: 'witness
-
-  snap
-
-  two
-
-  source
-
-  punch'
-bip_39_word_new_line_6: 'witness
-
-  snap
-
-  two
-
-  source
-
-  punch
-
-  coconut'
-bip_39_word_new_line_7: 'witness
-
-  snap
-
-  two
-
-  source
-
-  punch
-
-  coconut
-
-  own'
-bip_39_word_new_line_8: 'witness
-
-  snap
-
-  two
-
-  source
-
-  punch
-
-  coconut
-
-  own
-
-  climb'
-bip_39_word_new_line_9: 'witness
-
-  snap
-
-  two
-
-  source
-
-  punch
-
-  coconut
-
-  own
-
-  climb
-
-  sunset'
-bip_39_word_no_space_1: witness
-bip_39_word_no_space_10: witnesssnaptwosourcepunchcoconutownclimbsunsetmatrix
-bip_39_word_no_space_11: witnesssnaptwosourcepunchcoconutownclimbsunsetmatrixreveal
 bip_39_word_no_space_12: witnesssnaptwosourcepunchcoconutownclimbsunsetmatrixrevealany
 bip_39_word_no_space_2: witnesssnap
 bip_39_word_no_space_3: witnesssnaptwo
-bip_39_word_no_space_4: witnesssnaptwosource
-bip_39_word_no_space_5: witnesssnaptwosourcepunch
-bip_39_word_no_space_6: witnesssnaptwosourcepunchcoconut
-bip_39_word_no_space_7: witnesssnaptwosourcepunchcoconutown
-bip_39_word_no_space_8: witnesssnaptwosourcepunchcoconutownclimb
-bip_39_word_no_space_9: witnesssnaptwosourcepunchcoconutownclimbsunset
-bip_39_word_space_0:
-- witness
-- snap
-- two
-- source
-- punch
-- coconut
-- own
-- climb
-- sunset
-- matrix
-- reveal
-- any
-bip_39_word_space_1: witness
-bip_39_word_space_10: witness snap two source punch coconut own climb sunset matrix
-bip_39_word_space_11: witness snap two source punch coconut own climb sunset matrix
-  reveal
 bip_39_word_space_12: witness snap two source punch coconut own climb sunset matrix
   reveal any
 bip_39_word_space_2: witness snap
 bip_39_word_space_3: witness snap two
-bip_39_word_space_4: witness snap two source
-bip_39_word_space_5: witness snap two source punch
-bip_39_word_space_6: witness snap two source punch coconut
-bip_39_word_space_7: witness snap two source punch coconut own
-bip_39_word_space_8: witness snap two source punch coconut own climb
-bip_39_word_space_9: witness snap two source punch coconut own climb sunset
-bip_39_word_underscore_1: witness
-bip_39_word_underscore_10: witness_snap_two_source_punch_coconut_own_climb_sunset_matrix
-bip_39_word_underscore_11: witness_snap_two_source_punch_coconut_own_climb_sunset_matrix_reveal
 bip_39_word_underscore_12: witness_snap_two_source_punch_coconut_own_climb_sunset_matrix_reveal_any
 bip_39_word_underscore_2: witness_snap
 bip_39_word_underscore_3: witness_snap_two
-bip_39_word_underscore_4: witness_snap_two_source
-bip_39_word_underscore_5: witness_snap_two_source_punch
-bip_39_word_underscore_6: witness_snap_two_source_punch_coconut
-bip_39_word_underscore_7: witness_snap_two_source_punch_coconut_own
-bip_39_word_underscore_8: witness_snap_two_source_punch_coconut_own_climb
-bip_39_word_underscore_9: witness_snap_two_source_punch_coconut_own_climb_sunset
 box_of_box_size_manufacturer_metalmate: '5000'
 box_size_manufacturer_metalmate: '500'
 classification: hardware

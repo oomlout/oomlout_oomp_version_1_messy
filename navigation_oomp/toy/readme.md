@@ -4,5 +4,8 @@
       * [mechano](mechano/car_remote_control/lambourghini_huracan_green/mechano)
 * [remote_control](remote_control)
   * [2_4_ghz_controller](remote_control/2_4_ghz_controller)
+    * [excavator_300_mm_width_105_mm_height_150_mm_depth](remote_control/2_4_ghz_controller/excavator_300_mm_width_105_mm_height_150_mm_depth)
+      * [yi_gong_toys](remote_control/2_4_ghz_controller/excavator_300_mm_width_105_mm_height_150_mm_depth/yi_gong_toys)
+        * [bc1044](remote_control/2_4_ghz_controller/excavator_300_mm_width_105_mm_height_150_mm_depth/yi_gong_toys/bc1044)
     * [stunt_car_green_165_mm_width_155_mm_height_75_mm_depth](remote_control/2_4_ghz_controller/stunt_car_green_165_mm_width_155_mm_height_75_mm_depth)
     * [stunt_car_green_95_mm_width_80_mm_height_40_mm_depth](remote_control/2_4_ghz_controller/stunt_car_green_95_mm_width_80_mm_height_40_mm_depth)

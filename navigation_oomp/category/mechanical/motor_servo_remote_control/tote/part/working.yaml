@@ -1,68 +1,9 @@
-bip_39_word_dash_1: coyote
-bip_39_word_dash_10: coyote-denial-say-ketchup-banana-run-save-any-property-carbon
-bip_39_word_dash_11: coyote-denial-say-ketchup-banana-run-save-any-property-carbon-crane
 bip_39_word_dash_12: coyote-denial-say-ketchup-banana-run-save-any-property-carbon-crane-accuse
 bip_39_word_dash_2: coyote-denial
 bip_39_word_dash_3: coyote-denial-say
-bip_39_word_dash_4: coyote-denial-say-ketchup
-bip_39_word_dash_5: coyote-denial-say-ketchup-banana
-bip_39_word_dash_6: coyote-denial-say-ketchup-banana-run
-bip_39_word_dash_7: coyote-denial-say-ketchup-banana-run-save
-bip_39_word_dash_8: coyote-denial-say-ketchup-banana-run-save-any
-bip_39_word_dash_9: coyote-denial-say-ketchup-banana-run-save-any-property
-bip_39_word_new_br_1: coyote
-bip_39_word_new_br_10: coyote<br>denial<br>say<br>ketchup<br>banana<br>run<br>save<br>any<br>property<br>carbon
-bip_39_word_new_br_11: coyote<br>denial<br>say<br>ketchup<br>banana<br>run<br>save<br>any<br>property<br>carbon<br>crane
 bip_39_word_new_br_12: coyote<br>denial<br>say<br>ketchup<br>banana<br>run<br>save<br>any<br>property<br>carbon<br>crane<br>accuse
 bip_39_word_new_br_2: coyote<br>denial
 bip_39_word_new_br_3: coyote<br>denial<br>say
-bip_39_word_new_br_4: coyote<br>denial<br>say<br>ketchup
-bip_39_word_new_br_5: coyote<br>denial<br>say<br>ketchup<br>banana
-bip_39_word_new_br_6: coyote<br>denial<br>say<br>ketchup<br>banana<br>run
-bip_39_word_new_br_7: coyote<br>denial<br>say<br>ketchup<br>banana<br>run<br>save
-bip_39_word_new_br_8: coyote<br>denial<br>say<br>ketchup<br>banana<br>run<br>save<br>any
-bip_39_word_new_br_9: coyote<br>denial<br>say<br>ketchup<br>banana<br>run<br>save<br>any<br>property
-bip_39_word_new_line_1: coyote
-bip_39_word_new_line_10: 'coyote
-
-  denial
-
-  say
-
-  ketchup
-
-  banana
-
-  run
-
-  save
-
-  any
-
-  property
-
-  carbon'
-bip_39_word_new_line_11: 'coyote
-
-  denial
-
-  say
-
-  ketchup
-
-  banana
-
-  run
-
-  save
-
-  any
-
-  property
-
-  carbon
-
-  crane'
 bip_39_word_new_line_12: 'coyote
 
   denial
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'coyote
   denial
 
   say'
-bip_39_word_new_line_4: 'coyote
-
-  denial
-
-  say
-
-  ketchup'
-bip_39_word_new_line_5: 'coyote
-
-  denial
-
-  say
-
-  ketchup
-
-  banana'
-bip_39_word_new_line_6: 'coyote
-
-  denial
-
-  say
-
-  ketchup
-
-  banana
-
-  run'
-bip_39_word_new_line_7: 'coyote
-
-  denial
-
-  say
-
-  ketchup
-
-  banana
-
-  run
-
-  save'
-bip_39_word_new_line_8: 'coyote
-
-  denial
-
-  say
-
-  ketchup
-
-  banana
-
-  run
-
-  save
-
-  any'
-bip_39_word_new_line_9: 'coyote
-
-  denial
-
-  say
-
-  ketchup
-
-  banana
-
-  run
-
-  save
-
-  any
-
-  property'
-bip_39_word_no_space_1: coyote
-bip_39_word_no_space_10: coyotedenialsayketchupbananarunsaveanypropertycarbon
-bip_39_word_no_space_11: coyotedenialsayketchupbananarunsaveanypropertycarboncrane
 bip_39_word_no_space_12: coyotedenialsayketchupbananarunsaveanypropertycarboncraneaccuse
 bip_39_word_no_space_2: coyotedenial
 bip_39_word_no_space_3: coyotedenialsay
-bip_39_word_no_space_4: coyotedenialsayketchup
-bip_39_word_no_space_5: coyotedenialsayketchupbanana
-bip_39_word_no_space_6: coyotedenialsayketchupbananarun
-bip_39_word_no_space_7: coyotedenialsayketchupbananarunsave
-bip_39_word_no_space_8: coyotedenialsayketchupbananarunsaveany
-bip_39_word_no_space_9: coyotedenialsayketchupbananarunsaveanyproperty
-bip_39_word_space_0:
-- coyote
-- denial
-- say
-- ketchup
-- banana
-- run
-- save
-- any
-- property
-- carbon
-- crane
-- accuse
-bip_39_word_space_1: coyote
-bip_39_word_space_10: coyote denial say ketchup banana run save any property carbon
-bip_39_word_space_11: coyote denial say ketchup banana run save any property carbon
-  crane
 bip_39_word_space_12: coyote denial say ketchup banana run save any property carbon
   crane accuse
 bip_39_word_space_2: coyote denial
 bip_39_word_space_3: coyote denial say
-bip_39_word_space_4: coyote denial say ketchup
-bip_39_word_space_5: coyote denial say ketchup banana
-bip_39_word_space_6: coyote denial say ketchup banana run
-bip_39_word_space_7: coyote denial say ketchup banana run save
-bip_39_word_space_8: coyote denial say ketchup banana run save any
-bip_39_word_space_9: coyote denial say ketchup banana run save any property
-bip_39_word_underscore_1: coyote
-bip_39_word_underscore_10: coyote_denial_say_ketchup_banana_run_save_any_property_carbon
-bip_39_word_underscore_11: coyote_denial_say_ketchup_banana_run_save_any_property_carbon_crane
 bip_39_word_underscore_12: coyote_denial_say_ketchup_banana_run_save_any_property_carbon_crane_accuse
 bip_39_word_underscore_2: coyote_denial
 bip_39_word_underscore_3: coyote_denial_say
-bip_39_word_underscore_4: coyote_denial_say_ketchup
-bip_39_word_underscore_5: coyote_denial_say_ketchup_banana
-bip_39_word_underscore_6: coyote_denial_say_ketchup_banana_run
-bip_39_word_underscore_7: coyote_denial_say_ketchup_banana_run_save
-bip_39_word_underscore_8: coyote_denial_say_ketchup_banana_run_save_any
-bip_39_word_underscore_9: coyote_denial_say_ketchup_banana_run_save_any_property
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: eyebrow
-bip_39_word_dash_10: eyebrow-sunset-coyote-fruit-ladder-egg-glance-depth-hospital-verb
-bip_39_word_dash_11: eyebrow-sunset-coyote-fruit-ladder-egg-glance-depth-hospital-verb-journey
 bip_39_word_dash_12: eyebrow-sunset-coyote-fruit-ladder-egg-glance-depth-hospital-verb-journey-amazing
 bip_39_word_dash_2: eyebrow-sunset
 bip_39_word_dash_3: eyebrow-sunset-coyote
-bip_39_word_dash_4: eyebrow-sunset-coyote-fruit
-bip_39_word_dash_5: eyebrow-sunset-coyote-fruit-ladder
-bip_39_word_dash_6: eyebrow-sunset-coyote-fruit-ladder-egg
-bip_39_word_dash_7: eyebrow-sunset-coyote-fruit-ladder-egg-glance
-bip_39_word_dash_8: eyebrow-sunset-coyote-fruit-ladder-egg-glance-depth
-bip_39_word_dash_9: eyebrow-sunset-coyote-fruit-ladder-egg-glance-depth-hospital
-bip_39_word_new_br_1: eyebrow
-bip_39_word_new_br_10: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb
-bip_39_word_new_br_11: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb<br>journey
 bip_39_word_new_br_12: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb<br>journey<br>amazing
 bip_39_word_new_br_2: eyebrow<br>sunset
 bip_39_word_new_br_3: eyebrow<br>sunset<br>coyote
-bip_39_word_new_br_4: eyebrow<br>sunset<br>coyote<br>fruit
-bip_39_word_new_br_5: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder
-bip_39_word_new_br_6: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg
-bip_39_word_new_br_7: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance
-bip_39_word_new_br_8: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth
-bip_39_word_new_br_9: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital
-bip_39_word_new_line_1: eyebrow
-bip_39_word_new_line_10: 'eyebrow
-
-  sunset
-
-  coyote
-
-  fruit
-
-  ladder
-
-  egg
-
-  glance
-
-  depth
-
-  hospital
-
-  verb'
-bip_39_word_new_line_11: 'eyebrow
-
-  sunset
-
-  coyote
-
-  fruit
-
-  ladder
-
-  egg
-
-  glance
-
-  depth
-
-  hospital
-
-  verb
-
-  journey'
 bip_39_word_new_line_12: 'eyebrow
 
   sunset
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'eyebrow
   sunset
 
   coyote'
-bip_39_word_new_line_4: 'eyebrow
-
-  sunset
-
-  coyote
-
-  fruit'
-bip_39_word_new_line_5: 'eyebrow
-
-  sunset
-
-  coyote
-
-  fruit
-
-  ladder'
-bip_39_word_new_line_6: 'eyebrow
-
-  sunset
-
-  coyote
-
-  fruit
-
-  ladder
-
-  egg'
-bip_39_word_new_line_7: 'eyebrow
-
-  sunset
-
-  coyote
-
-  fruit
-
-  ladder
-
-  egg
-
-  glance'
-bip_39_word_new_line_8: 'eyebrow
-
-  sunset
-
-  coyote
-
-  fruit
-
-  ladder
-
-  egg
-
-  glance
-
-  depth'
-bip_39_word_new_line_9: 'eyebrow
-
-  sunset
-
-  coyote
-
-  fruit
-
-  ladder
-
-  egg
-
-  glance
-
-  depth
-
-  hospital'
-bip_39_word_no_space_1: eyebrow
-bip_39_word_no_space_10: eyebrowsunsetcoyotefruitladdereggglancedepthhospitalverb
-bip_39_word_no_space_11: eyebrowsunsetcoyotefruitladdereggglancedepthhospitalverbjourney
 bip_39_word_no_space_12: eyebrowsunsetcoyotefruitladdereggglancedepthhospitalverbjourneyamazing
 bip_39_word_no_space_2: eyebrowsunset
 bip_39_word_no_space_3: eyebrowsunsetcoyote
-bip_39_word_no_space_4: eyebrowsunsetcoyotefruit
-bip_39_word_no_space_5: eyebrowsunsetcoyotefruitladder
-bip_39_word_no_space_6: eyebrowsunsetcoyotefruitladderegg
-bip_39_word_no_space_7: eyebrowsunsetcoyotefruitladdereggglance
-bip_39_word_no_space_8: eyebrowsunsetcoyotefruitladdereggglancedepth
-bip_39_word_no_space_9: eyebrowsunsetcoyotefruitladdereggglancedepthhospital
-bip_39_word_space_0:
-- eyebrow
-- sunset
-- coyote
-- fruit
-- ladder
-- egg
-- glance
-- depth
-- hospital
-- verb
-- journey
-- amazing
-bip_39_word_space_1: eyebrow
-bip_39_word_space_10: eyebrow sunset coyote fruit ladder egg glance depth hospital
-  verb
-bip_39_word_space_11: eyebrow sunset coyote fruit ladder egg glance depth hospital
-  verb journey
 bip_39_word_space_12: eyebrow sunset coyote fruit ladder egg glance depth hospital
   verb journey amazing
 bip_39_word_space_2: eyebrow sunset
 bip_39_word_space_3: eyebrow sunset coyote
-bip_39_word_space_4: eyebrow sunset coyote fruit
-bip_39_word_space_5: eyebrow sunset coyote fruit ladder
-bip_39_word_space_6: eyebrow sunset coyote fruit ladder egg
-bip_39_word_space_7: eyebrow sunset coyote fruit ladder egg glance
-bip_39_word_space_8: eyebrow sunset coyote fruit ladder egg glance depth
-bip_39_word_space_9: eyebrow sunset coyote fruit ladder egg glance depth hospital
-bip_39_word_underscore_1: eyebrow
-bip_39_word_underscore_10: eyebrow_sunset_coyote_fruit_ladder_egg_glance_depth_hospital_verb
-bip_39_word_underscore_11: eyebrow_sunset_coyote_fruit_ladder_egg_glance_depth_hospital_verb_journey
 bip_39_word_underscore_12: eyebrow_sunset_coyote_fruit_ladder_egg_glance_depth_hospital_verb_journey_amazing
 bip_39_word_underscore_2: eyebrow_sunset
 bip_39_word_underscore_3: eyebrow_sunset_coyote
-bip_39_word_underscore_4: eyebrow_sunset_coyote_fruit
-bip_39_word_underscore_5: eyebrow_sunset_coyote_fruit_ladder
-bip_39_word_underscore_6: eyebrow_sunset_coyote_fruit_ladder_egg
-bip_39_word_underscore_7: eyebrow_sunset_coyote_fruit_ladder_egg_glance
-bip_39_word_underscore_8: eyebrow_sunset_coyote_fruit_ladder_egg_glance_depth
-bip_39_word_underscore_9: eyebrow_sunset_coyote_fruit_ladder_egg_glance_depth_hospital
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

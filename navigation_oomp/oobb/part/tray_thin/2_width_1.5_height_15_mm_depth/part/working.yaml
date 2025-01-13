@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tray
-bip_39_word_dash_10: tray-left-release-knock-duty-join-zebra-unveil-outside-switch
-bip_39_word_dash_11: tray-left-release-knock-duty-join-zebra-unveil-outside-switch-wire
 bip_39_word_dash_12: tray-left-release-knock-duty-join-zebra-unveil-outside-switch-wire-avocado
 bip_39_word_dash_2: tray-left
 bip_39_word_dash_3: tray-left-release
-bip_39_word_dash_4: tray-left-release-knock
-bip_39_word_dash_5: tray-left-release-knock-duty
-bip_39_word_dash_6: tray-left-release-knock-duty-join
-bip_39_word_dash_7: tray-left-release-knock-duty-join-zebra
-bip_39_word_dash_8: tray-left-release-knock-duty-join-zebra-unveil
-bip_39_word_dash_9: tray-left-release-knock-duty-join-zebra-unveil-outside
-bip_39_word_new_br_1: tray
-bip_39_word_new_br_10: tray<br>left<br>release<br>knock<br>duty<br>join<br>zebra<br>unveil<br>outside<br>switch
-bip_39_word_new_br_11: tray<br>left<br>release<br>knock<br>duty<br>join<br>zebra<br>unveil<br>outside<br>switch<br>wire
 bip_39_word_new_br_12: tray<br>left<br>release<br>knock<br>duty<br>join<br>zebra<br>unveil<br>outside<br>switch<br>wire<br>avocado
 bip_39_word_new_br_2: tray<br>left
 bip_39_word_new_br_3: tray<br>left<br>release
-bip_39_word_new_br_4: tray<br>left<br>release<br>knock
-bip_39_word_new_br_5: tray<br>left<br>release<br>knock<br>duty
-bip_39_word_new_br_6: tray<br>left<br>release<br>knock<br>duty<br>join
-bip_39_word_new_br_7: tray<br>left<br>release<br>knock<br>duty<br>join<br>zebra
-bip_39_word_new_br_8: tray<br>left<br>release<br>knock<br>duty<br>join<br>zebra<br>unveil
-bip_39_word_new_br_9: tray<br>left<br>release<br>knock<br>duty<br>join<br>zebra<br>unveil<br>outside
-bip_39_word_new_line_1: tray
-bip_39_word_new_line_10: 'tray
-
-  left
-
-  release
-
-  knock
-
-  duty
-
-  join
-
-  zebra
-
-  unveil
-
-  outside
-
-  switch'
-bip_39_word_new_line_11: 'tray
-
-  left
-
-  release
-
-  knock
-
-  duty
-
-  join
-
-  zebra
-
-  unveil
-
-  outside
-
-  switch
-
-  wire'
 bip_39_word_new_line_12: 'tray
 
   left
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tray
   left
 
   release'
-bip_39_word_new_line_4: 'tray
-
-  left
-
-  release
-
-  knock'
-bip_39_word_new_line_5: 'tray
-
-  left
-
-  release
-
-  knock
-
-  duty'
-bip_39_word_new_line_6: 'tray
-
-  left
-
-  release
-
-  knock
-
-  duty
-
-  join'
-bip_39_word_new_line_7: 'tray
-
-  left
-
-  release
-
-  knock
-
-  duty
-
-  join
-
-  zebra'
-bip_39_word_new_line_8: 'tray
-
-  left
-
-  release
-
-  knock
-
-  duty
-
-  join
-
-  zebra
-
-  unveil'
-bip_39_word_new_line_9: 'tray
-
-  left
-
-  release
-
-  knock
-
-  duty
-
-  join
-
-  zebra
-
-  unveil
-
-  outside'
-bip_39_word_no_space_1: tray
-bip_39_word_no_space_10: trayleftreleaseknockdutyjoinzebraunveiloutsideswitch
-bip_39_word_no_space_11: trayleftreleaseknockdutyjoinzebraunveiloutsideswitchwire
 bip_39_word_no_space_12: trayleftreleaseknockdutyjoinzebraunveiloutsideswitchwireavocado
 bip_39_word_no_space_2: trayleft
 bip_39_word_no_space_3: trayleftrelease
-bip_39_word_no_space_4: trayleftreleaseknock
-bip_39_word_no_space_5: trayleftreleaseknockduty
-bip_39_word_no_space_6: trayleftreleaseknockdutyjoin
-bip_39_word_no_space_7: trayleftreleaseknockdutyjoinzebra
-bip_39_word_no_space_8: trayleftreleaseknockdutyjoinzebraunveil
-bip_39_word_no_space_9: trayleftreleaseknockdutyjoinzebraunveiloutside
-bip_39_word_space_0:
-- tray
-- left
-- release
-- knock
-- duty
-- join
-- zebra
-- unveil
-- outside
-- switch
-- wire
-- avocado
-bip_39_word_space_1: tray
-bip_39_word_space_10: tray left release knock duty join zebra unveil outside switch
-bip_39_word_space_11: tray left release knock duty join zebra unveil outside switch
-  wire
 bip_39_word_space_12: tray left release knock duty join zebra unveil outside switch
   wire avocado
 bip_39_word_space_2: tray left
 bip_39_word_space_3: tray left release
-bip_39_word_space_4: tray left release knock
-bip_39_word_space_5: tray left release knock duty
-bip_39_word_space_6: tray left release knock duty join
-bip_39_word_space_7: tray left release knock duty join zebra
-bip_39_word_space_8: tray left release knock duty join zebra unveil
-bip_39_word_space_9: tray left release knock duty join zebra unveil outside
-bip_39_word_underscore_1: tray
-bip_39_word_underscore_10: tray_left_release_knock_duty_join_zebra_unveil_outside_switch
-bip_39_word_underscore_11: tray_left_release_knock_duty_join_zebra_unveil_outside_switch_wire
 bip_39_word_underscore_12: tray_left_release_knock_duty_join_zebra_unveil_outside_switch_wire_avocado
 bip_39_word_underscore_2: tray_left
 bip_39_word_underscore_3: tray_left_release
-bip_39_word_underscore_4: tray_left_release_knock
-bip_39_word_underscore_5: tray_left_release_knock_duty
-bip_39_word_underscore_6: tray_left_release_knock_duty_join
-bip_39_word_underscore_7: tray_left_release_knock_duty_join_zebra
-bip_39_word_underscore_8: tray_left_release_knock_duty_join_zebra_unveil
-bip_39_word_underscore_9: tray_left_release_knock_duty_join_zebra_unveil_outside
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

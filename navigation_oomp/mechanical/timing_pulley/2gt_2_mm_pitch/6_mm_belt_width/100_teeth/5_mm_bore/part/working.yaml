@@ -1,68 +1,9 @@
-bip_39_word_dash_1: memory
-bip_39_word_dash_10: memory-leaf-east-write-wrestle-marble-uniform-middle-dirt-want
-bip_39_word_dash_11: memory-leaf-east-write-wrestle-marble-uniform-middle-dirt-want-sudden
 bip_39_word_dash_12: memory-leaf-east-write-wrestle-marble-uniform-middle-dirt-want-sudden-alert
 bip_39_word_dash_2: memory-leaf
 bip_39_word_dash_3: memory-leaf-east
-bip_39_word_dash_4: memory-leaf-east-write
-bip_39_word_dash_5: memory-leaf-east-write-wrestle
-bip_39_word_dash_6: memory-leaf-east-write-wrestle-marble
-bip_39_word_dash_7: memory-leaf-east-write-wrestle-marble-uniform
-bip_39_word_dash_8: memory-leaf-east-write-wrestle-marble-uniform-middle
-bip_39_word_dash_9: memory-leaf-east-write-wrestle-marble-uniform-middle-dirt
-bip_39_word_new_br_1: memory
-bip_39_word_new_br_10: memory<br>leaf<br>east<br>write<br>wrestle<br>marble<br>uniform<br>middle<br>dirt<br>want
-bip_39_word_new_br_11: memory<br>leaf<br>east<br>write<br>wrestle<br>marble<br>uniform<br>middle<br>dirt<br>want<br>sudden
 bip_39_word_new_br_12: memory<br>leaf<br>east<br>write<br>wrestle<br>marble<br>uniform<br>middle<br>dirt<br>want<br>sudden<br>alert
 bip_39_word_new_br_2: memory<br>leaf
 bip_39_word_new_br_3: memory<br>leaf<br>east
-bip_39_word_new_br_4: memory<br>leaf<br>east<br>write
-bip_39_word_new_br_5: memory<br>leaf<br>east<br>write<br>wrestle
-bip_39_word_new_br_6: memory<br>leaf<br>east<br>write<br>wrestle<br>marble
-bip_39_word_new_br_7: memory<br>leaf<br>east<br>write<br>wrestle<br>marble<br>uniform
-bip_39_word_new_br_8: memory<br>leaf<br>east<br>write<br>wrestle<br>marble<br>uniform<br>middle
-bip_39_word_new_br_9: memory<br>leaf<br>east<br>write<br>wrestle<br>marble<br>uniform<br>middle<br>dirt
-bip_39_word_new_line_1: memory
-bip_39_word_new_line_10: 'memory
-
-  leaf
-
-  east
-
-  write
-
-  wrestle
-
-  marble
-
-  uniform
-
-  middle
-
-  dirt
-
-  want'
-bip_39_word_new_line_11: 'memory
-
-  leaf
-
-  east
-
-  write
-
-  wrestle
-
-  marble
-
-  uniform
-
-  middle
-
-  dirt
-
-  want
-
-  sudden'
 bip_39_word_new_line_12: 'memory
 
   leaf
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'memory
   leaf
 
   east'
-bip_39_word_new_line_4: 'memory
-
-  leaf
-
-  east
-
-  write'
-bip_39_word_new_line_5: 'memory
-
-  leaf
-
-  east
-
-  write
-
-  wrestle'
-bip_39_word_new_line_6: 'memory
-
-  leaf
-
-  east
-
-  write
-
-  wrestle
-
-  marble'
-bip_39_word_new_line_7: 'memory
-
-  leaf
-
-  east
-
-  write
-
-  wrestle
-
-  marble
-
-  uniform'
-bip_39_word_new_line_8: 'memory
-
-  leaf
-
-  east
-
-  write
-
-  wrestle
-
-  marble
-
-  uniform
-
-  middle'
-bip_39_word_new_line_9: 'memory
-
-  leaf
-
-  east
-
-  write
-
-  wrestle
-
-  marble
-
-  uniform
-
-  middle
-
-  dirt'
-bip_39_word_no_space_1: memory
-bip_39_word_no_space_10: memoryleafeastwritewrestlemarbleuniformmiddledirtwant
-bip_39_word_no_space_11: memoryleafeastwritewrestlemarbleuniformmiddledirtwantsudden
 bip_39_word_no_space_12: memoryleafeastwritewrestlemarbleuniformmiddledirtwantsuddenalert
 bip_39_word_no_space_2: memoryleaf
 bip_39_word_no_space_3: memoryleafeast
-bip_39_word_no_space_4: memoryleafeastwrite
-bip_39_word_no_space_5: memoryleafeastwritewrestle
-bip_39_word_no_space_6: memoryleafeastwritewrestlemarble
-bip_39_word_no_space_7: memoryleafeastwritewrestlemarbleuniform
-bip_39_word_no_space_8: memoryleafeastwritewrestlemarbleuniformmiddle
-bip_39_word_no_space_9: memoryleafeastwritewrestlemarbleuniformmiddledirt
-bip_39_word_space_0:
-- memory
-- leaf
-- east
-- write
-- wrestle
-- marble
-- uniform
-- middle
-- dirt
-- want
-- sudden
-- alert
-bip_39_word_space_1: memory
-bip_39_word_space_10: memory leaf east write wrestle marble uniform middle dirt want
-bip_39_word_space_11: memory leaf east write wrestle marble uniform middle dirt want
-  sudden
 bip_39_word_space_12: memory leaf east write wrestle marble uniform middle dirt want
   sudden alert
 bip_39_word_space_2: memory leaf
 bip_39_word_space_3: memory leaf east
-bip_39_word_space_4: memory leaf east write
-bip_39_word_space_5: memory leaf east write wrestle
-bip_39_word_space_6: memory leaf east write wrestle marble
-bip_39_word_space_7: memory leaf east write wrestle marble uniform
-bip_39_word_space_8: memory leaf east write wrestle marble uniform middle
-bip_39_word_space_9: memory leaf east write wrestle marble uniform middle dirt
-bip_39_word_underscore_1: memory
-bip_39_word_underscore_10: memory_leaf_east_write_wrestle_marble_uniform_middle_dirt_want
-bip_39_word_underscore_11: memory_leaf_east_write_wrestle_marble_uniform_middle_dirt_want_sudden
 bip_39_word_underscore_12: memory_leaf_east_write_wrestle_marble_uniform_middle_dirt_want_sudden_alert
 bip_39_word_underscore_2: memory_leaf
 bip_39_word_underscore_3: memory_leaf_east
-bip_39_word_underscore_4: memory_leaf_east_write
-bip_39_word_underscore_5: memory_leaf_east_write_wrestle
-bip_39_word_underscore_6: memory_leaf_east_write_wrestle_marble
-bip_39_word_underscore_7: memory_leaf_east_write_wrestle_marble_uniform
-bip_39_word_underscore_8: memory_leaf_east_write_wrestle_marble_uniform_middle
-bip_39_word_underscore_9: memory_leaf_east_write_wrestle_marble_uniform_middle_dirt
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

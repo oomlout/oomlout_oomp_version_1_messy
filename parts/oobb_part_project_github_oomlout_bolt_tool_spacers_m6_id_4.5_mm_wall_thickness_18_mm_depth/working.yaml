@@ -1,68 +1,9 @@
-bip_39_word_dash_1: divert
-bip_39_word_dash_10: divert-maze-around-humble-fog-mango-airport-rabbit-expand-onion
-bip_39_word_dash_11: divert-maze-around-humble-fog-mango-airport-rabbit-expand-onion-seed
 bip_39_word_dash_12: divert-maze-around-humble-fog-mango-airport-rabbit-expand-onion-seed-always
 bip_39_word_dash_2: divert-maze
 bip_39_word_dash_3: divert-maze-around
-bip_39_word_dash_4: divert-maze-around-humble
-bip_39_word_dash_5: divert-maze-around-humble-fog
-bip_39_word_dash_6: divert-maze-around-humble-fog-mango
-bip_39_word_dash_7: divert-maze-around-humble-fog-mango-airport
-bip_39_word_dash_8: divert-maze-around-humble-fog-mango-airport-rabbit
-bip_39_word_dash_9: divert-maze-around-humble-fog-mango-airport-rabbit-expand
-bip_39_word_new_br_1: divert
-bip_39_word_new_br_10: divert<br>maze<br>around<br>humble<br>fog<br>mango<br>airport<br>rabbit<br>expand<br>onion
-bip_39_word_new_br_11: divert<br>maze<br>around<br>humble<br>fog<br>mango<br>airport<br>rabbit<br>expand<br>onion<br>seed
 bip_39_word_new_br_12: divert<br>maze<br>around<br>humble<br>fog<br>mango<br>airport<br>rabbit<br>expand<br>onion<br>seed<br>always
 bip_39_word_new_br_2: divert<br>maze
 bip_39_word_new_br_3: divert<br>maze<br>around
-bip_39_word_new_br_4: divert<br>maze<br>around<br>humble
-bip_39_word_new_br_5: divert<br>maze<br>around<br>humble<br>fog
-bip_39_word_new_br_6: divert<br>maze<br>around<br>humble<br>fog<br>mango
-bip_39_word_new_br_7: divert<br>maze<br>around<br>humble<br>fog<br>mango<br>airport
-bip_39_word_new_br_8: divert<br>maze<br>around<br>humble<br>fog<br>mango<br>airport<br>rabbit
-bip_39_word_new_br_9: divert<br>maze<br>around<br>humble<br>fog<br>mango<br>airport<br>rabbit<br>expand
-bip_39_word_new_line_1: divert
-bip_39_word_new_line_10: 'divert
-
-  maze
-
-  around
-
-  humble
-
-  fog
-
-  mango
-
-  airport
-
-  rabbit
-
-  expand
-
-  onion'
-bip_39_word_new_line_11: 'divert
-
-  maze
-
-  around
-
-  humble
-
-  fog
-
-  mango
-
-  airport
-
-  rabbit
-
-  expand
-
-  onion
-
-  seed'
 bip_39_word_new_line_12: 'divert
 
   maze
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'divert
   maze
 
   around'
-bip_39_word_new_line_4: 'divert
-
-  maze
-
-  around
-
-  humble'
-bip_39_word_new_line_5: 'divert
-
-  maze
-
-  around
-
-  humble
-
-  fog'
-bip_39_word_new_line_6: 'divert
-
-  maze
-
-  around
-
-  humble
-
-  fog
-
-  mango'
-bip_39_word_new_line_7: 'divert
-
-  maze
-
-  around
-
-  humble
-
-  fog
-
-  mango
-
-  airport'
-bip_39_word_new_line_8: 'divert
-
-  maze
-
-  around
-
-  humble
-
-  fog
-
-  mango
-
-  airport
-
-  rabbit'
-bip_39_word_new_line_9: 'divert
-
-  maze
-
-  around
-
-  humble
-
-  fog
-
-  mango
-
-  airport
-
-  rabbit
-
-  expand'
-bip_39_word_no_space_1: divert
-bip_39_word_no_space_10: divertmazearoundhumblefogmangoairportrabbitexpandonion
-bip_39_word_no_space_11: divertmazearoundhumblefogmangoairportrabbitexpandonionseed
 bip_39_word_no_space_12: divertmazearoundhumblefogmangoairportrabbitexpandonionseedalways
 bip_39_word_no_space_2: divertmaze
 bip_39_word_no_space_3: divertmazearound
-bip_39_word_no_space_4: divertmazearoundhumble
-bip_39_word_no_space_5: divertmazearoundhumblefog
-bip_39_word_no_space_6: divertmazearoundhumblefogmango
-bip_39_word_no_space_7: divertmazearoundhumblefogmangoairport
-bip_39_word_no_space_8: divertmazearoundhumblefogmangoairportrabbit
-bip_39_word_no_space_9: divertmazearoundhumblefogmangoairportrabbitexpand
-bip_39_word_space_0:
-- divert
-- maze
-- around
-- humble
-- fog
-- mango
-- airport
-- rabbit
-- expand
-- onion
-- seed
-- always
-bip_39_word_space_1: divert
-bip_39_word_space_10: divert maze around humble fog mango airport rabbit expand onion
-bip_39_word_space_11: divert maze around humble fog mango airport rabbit expand onion
-  seed
 bip_39_word_space_12: divert maze around humble fog mango airport rabbit expand onion
   seed always
 bip_39_word_space_2: divert maze
 bip_39_word_space_3: divert maze around
-bip_39_word_space_4: divert maze around humble
-bip_39_word_space_5: divert maze around humble fog
-bip_39_word_space_6: divert maze around humble fog mango
-bip_39_word_space_7: divert maze around humble fog mango airport
-bip_39_word_space_8: divert maze around humble fog mango airport rabbit
-bip_39_word_space_9: divert maze around humble fog mango airport rabbit expand
-bip_39_word_underscore_1: divert
-bip_39_word_underscore_10: divert_maze_around_humble_fog_mango_airport_rabbit_expand_onion
-bip_39_word_underscore_11: divert_maze_around_humble_fog_mango_airport_rabbit_expand_onion_seed
 bip_39_word_underscore_12: divert_maze_around_humble_fog_mango_airport_rabbit_expand_onion_seed_always
 bip_39_word_underscore_2: divert_maze
 bip_39_word_underscore_3: divert_maze_around
-bip_39_word_underscore_4: divert_maze_around_humble
-bip_39_word_underscore_5: divert_maze_around_humble_fog
-bip_39_word_underscore_6: divert_maze_around_humble_fog_mango
-bip_39_word_underscore_7: divert_maze_around_humble_fog_mango_airport
-bip_39_word_underscore_8: divert_maze_around_humble_fog_mango_airport_rabbit
-bip_39_word_underscore_9: divert_maze_around_humble_fog_mango_airport_rabbit_expand
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

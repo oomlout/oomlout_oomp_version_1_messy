@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cigar
-bip_39_word_dash_10: cigar-clerk-talent-violin-company-dance-report-note-color-still
-bip_39_word_dash_11: cigar-clerk-talent-violin-company-dance-report-note-color-still-decade
 bip_39_word_dash_12: cigar-clerk-talent-violin-company-dance-report-note-color-still-decade-arm
 bip_39_word_dash_2: cigar-clerk
 bip_39_word_dash_3: cigar-clerk-talent
-bip_39_word_dash_4: cigar-clerk-talent-violin
-bip_39_word_dash_5: cigar-clerk-talent-violin-company
-bip_39_word_dash_6: cigar-clerk-talent-violin-company-dance
-bip_39_word_dash_7: cigar-clerk-talent-violin-company-dance-report
-bip_39_word_dash_8: cigar-clerk-talent-violin-company-dance-report-note
-bip_39_word_dash_9: cigar-clerk-talent-violin-company-dance-report-note-color
-bip_39_word_new_br_1: cigar
-bip_39_word_new_br_10: cigar<br>clerk<br>talent<br>violin<br>company<br>dance<br>report<br>note<br>color<br>still
-bip_39_word_new_br_11: cigar<br>clerk<br>talent<br>violin<br>company<br>dance<br>report<br>note<br>color<br>still<br>decade
 bip_39_word_new_br_12: cigar<br>clerk<br>talent<br>violin<br>company<br>dance<br>report<br>note<br>color<br>still<br>decade<br>arm
 bip_39_word_new_br_2: cigar<br>clerk
 bip_39_word_new_br_3: cigar<br>clerk<br>talent
-bip_39_word_new_br_4: cigar<br>clerk<br>talent<br>violin
-bip_39_word_new_br_5: cigar<br>clerk<br>talent<br>violin<br>company
-bip_39_word_new_br_6: cigar<br>clerk<br>talent<br>violin<br>company<br>dance
-bip_39_word_new_br_7: cigar<br>clerk<br>talent<br>violin<br>company<br>dance<br>report
-bip_39_word_new_br_8: cigar<br>clerk<br>talent<br>violin<br>company<br>dance<br>report<br>note
-bip_39_word_new_br_9: cigar<br>clerk<br>talent<br>violin<br>company<br>dance<br>report<br>note<br>color
-bip_39_word_new_line_1: cigar
-bip_39_word_new_line_10: 'cigar
-
-  clerk
-
-  talent
-
-  violin
-
-  company
-
-  dance
-
-  report
-
-  note
-
-  color
-
-  still'
-bip_39_word_new_line_11: 'cigar
-
-  clerk
-
-  talent
-
-  violin
-
-  company
-
-  dance
-
-  report
-
-  note
-
-  color
-
-  still
-
-  decade'
 bip_39_word_new_line_12: 'cigar
 
   clerk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cigar
   clerk
 
   talent'
-bip_39_word_new_line_4: 'cigar
-
-  clerk
-
-  talent
-
-  violin'
-bip_39_word_new_line_5: 'cigar
-
-  clerk
-
-  talent
-
-  violin
-
-  company'
-bip_39_word_new_line_6: 'cigar
-
-  clerk
-
-  talent
-
-  violin
-
-  company
-
-  dance'
-bip_39_word_new_line_7: 'cigar
-
-  clerk
-
-  talent
-
-  violin
-
-  company
-
-  dance
-
-  report'
-bip_39_word_new_line_8: 'cigar
-
-  clerk
-
-  talent
-
-  violin
-
-  company
-
-  dance
-
-  report
-
-  note'
-bip_39_word_new_line_9: 'cigar
-
-  clerk
-
-  talent
-
-  violin
-
-  company
-
-  dance
-
-  report
-
-  note
-
-  color'
-bip_39_word_no_space_1: cigar
-bip_39_word_no_space_10: cigarclerktalentviolincompanydancereportnotecolorstill
-bip_39_word_no_space_11: cigarclerktalentviolincompanydancereportnotecolorstilldecade
 bip_39_word_no_space_12: cigarclerktalentviolincompanydancereportnotecolorstilldecadearm
 bip_39_word_no_space_2: cigarclerk
 bip_39_word_no_space_3: cigarclerktalent
-bip_39_word_no_space_4: cigarclerktalentviolin
-bip_39_word_no_space_5: cigarclerktalentviolincompany
-bip_39_word_no_space_6: cigarclerktalentviolincompanydance
-bip_39_word_no_space_7: cigarclerktalentviolincompanydancereport
-bip_39_word_no_space_8: cigarclerktalentviolincompanydancereportnote
-bip_39_word_no_space_9: cigarclerktalentviolincompanydancereportnotecolor
-bip_39_word_space_0:
-- cigar
-- clerk
-- talent
-- violin
-- company
-- dance
-- report
-- note
-- color
-- still
-- decade
-- arm
-bip_39_word_space_1: cigar
-bip_39_word_space_10: cigar clerk talent violin company dance report note color still
-bip_39_word_space_11: cigar clerk talent violin company dance report note color still
-  decade
 bip_39_word_space_12: cigar clerk talent violin company dance report note color still
   decade arm
 bip_39_word_space_2: cigar clerk
 bip_39_word_space_3: cigar clerk talent
-bip_39_word_space_4: cigar clerk talent violin
-bip_39_word_space_5: cigar clerk talent violin company
-bip_39_word_space_6: cigar clerk talent violin company dance
-bip_39_word_space_7: cigar clerk talent violin company dance report
-bip_39_word_space_8: cigar clerk talent violin company dance report note
-bip_39_word_space_9: cigar clerk talent violin company dance report note color
-bip_39_word_underscore_1: cigar
-bip_39_word_underscore_10: cigar_clerk_talent_violin_company_dance_report_note_color_still
-bip_39_word_underscore_11: cigar_clerk_talent_violin_company_dance_report_note_color_still_decade
 bip_39_word_underscore_12: cigar_clerk_talent_violin_company_dance_report_note_color_still_decade_arm
 bip_39_word_underscore_2: cigar_clerk
 bip_39_word_underscore_3: cigar_clerk_talent
-bip_39_word_underscore_4: cigar_clerk_talent_violin
-bip_39_word_underscore_5: cigar_clerk_talent_violin_company
-bip_39_word_underscore_6: cigar_clerk_talent_violin_company_dance
-bip_39_word_underscore_7: cigar_clerk_talent_violin_company_dance_report
-bip_39_word_underscore_8: cigar_clerk_talent_violin_company_dance_report_note
-bip_39_word_underscore_9: cigar_clerk_talent_violin_company_dance_report_note_color
 classification: project
 classification_capital: Project
 classification_first_letter: p

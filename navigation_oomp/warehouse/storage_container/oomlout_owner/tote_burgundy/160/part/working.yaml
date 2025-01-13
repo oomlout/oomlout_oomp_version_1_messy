@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sound
-bip_39_word_dash_10: sound-matter-pistol-lecture-video-divide-yard-post-claim-pond
-bip_39_word_dash_11: sound-matter-pistol-lecture-video-divide-yard-post-claim-pond-spare
 bip_39_word_dash_12: sound-matter-pistol-lecture-video-divide-yard-post-claim-pond-spare-avocado
 bip_39_word_dash_2: sound-matter
 bip_39_word_dash_3: sound-matter-pistol
-bip_39_word_dash_4: sound-matter-pistol-lecture
-bip_39_word_dash_5: sound-matter-pistol-lecture-video
-bip_39_word_dash_6: sound-matter-pistol-lecture-video-divide
-bip_39_word_dash_7: sound-matter-pistol-lecture-video-divide-yard
-bip_39_word_dash_8: sound-matter-pistol-lecture-video-divide-yard-post
-bip_39_word_dash_9: sound-matter-pistol-lecture-video-divide-yard-post-claim
-bip_39_word_new_br_1: sound
-bip_39_word_new_br_10: sound<br>matter<br>pistol<br>lecture<br>video<br>divide<br>yard<br>post<br>claim<br>pond
-bip_39_word_new_br_11: sound<br>matter<br>pistol<br>lecture<br>video<br>divide<br>yard<br>post<br>claim<br>pond<br>spare
 bip_39_word_new_br_12: sound<br>matter<br>pistol<br>lecture<br>video<br>divide<br>yard<br>post<br>claim<br>pond<br>spare<br>avocado
 bip_39_word_new_br_2: sound<br>matter
 bip_39_word_new_br_3: sound<br>matter<br>pistol
-bip_39_word_new_br_4: sound<br>matter<br>pistol<br>lecture
-bip_39_word_new_br_5: sound<br>matter<br>pistol<br>lecture<br>video
-bip_39_word_new_br_6: sound<br>matter<br>pistol<br>lecture<br>video<br>divide
-bip_39_word_new_br_7: sound<br>matter<br>pistol<br>lecture<br>video<br>divide<br>yard
-bip_39_word_new_br_8: sound<br>matter<br>pistol<br>lecture<br>video<br>divide<br>yard<br>post
-bip_39_word_new_br_9: sound<br>matter<br>pistol<br>lecture<br>video<br>divide<br>yard<br>post<br>claim
-bip_39_word_new_line_1: sound
-bip_39_word_new_line_10: 'sound
-
-  matter
-
-  pistol
-
-  lecture
-
-  video
-
-  divide
-
-  yard
-
-  post
-
-  claim
-
-  pond'
-bip_39_word_new_line_11: 'sound
-
-  matter
-
-  pistol
-
-  lecture
-
-  video
-
-  divide
-
-  yard
-
-  post
-
-  claim
-
-  pond
-
-  spare'
 bip_39_word_new_line_12: 'sound
 
   matter
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sound
   matter
 
   pistol'
-bip_39_word_new_line_4: 'sound
-
-  matter
-
-  pistol
-
-  lecture'
-bip_39_word_new_line_5: 'sound
-
-  matter
-
-  pistol
-
-  lecture
-
-  video'
-bip_39_word_new_line_6: 'sound
-
-  matter
-
-  pistol
-
-  lecture
-
-  video
-
-  divide'
-bip_39_word_new_line_7: 'sound
-
-  matter
-
-  pistol
-
-  lecture
-
-  video
-
-  divide
-
-  yard'
-bip_39_word_new_line_8: 'sound
-
-  matter
-
-  pistol
-
-  lecture
-
-  video
-
-  divide
-
-  yard
-
-  post'
-bip_39_word_new_line_9: 'sound
-
-  matter
-
-  pistol
-
-  lecture
-
-  video
-
-  divide
-
-  yard
-
-  post
-
-  claim'
-bip_39_word_no_space_1: sound
-bip_39_word_no_space_10: soundmatterpistollecturevideodivideyardpostclaimpond
-bip_39_word_no_space_11: soundmatterpistollecturevideodivideyardpostclaimpondspare
 bip_39_word_no_space_12: soundmatterpistollecturevideodivideyardpostclaimpondspareavocado
 bip_39_word_no_space_2: soundmatter
 bip_39_word_no_space_3: soundmatterpistol
-bip_39_word_no_space_4: soundmatterpistollecture
-bip_39_word_no_space_5: soundmatterpistollecturevideo
-bip_39_word_no_space_6: soundmatterpistollecturevideodivide
-bip_39_word_no_space_7: soundmatterpistollecturevideodivideyard
-bip_39_word_no_space_8: soundmatterpistollecturevideodivideyardpost
-bip_39_word_no_space_9: soundmatterpistollecturevideodivideyardpostclaim
-bip_39_word_space_0:
-- sound
-- matter
-- pistol
-- lecture
-- video
-- divide
-- yard
-- post
-- claim
-- pond
-- spare
-- avocado
-bip_39_word_space_1: sound
-bip_39_word_space_10: sound matter pistol lecture video divide yard post claim pond
-bip_39_word_space_11: sound matter pistol lecture video divide yard post claim pond
-  spare
 bip_39_word_space_12: sound matter pistol lecture video divide yard post claim pond
   spare avocado
 bip_39_word_space_2: sound matter
 bip_39_word_space_3: sound matter pistol
-bip_39_word_space_4: sound matter pistol lecture
-bip_39_word_space_5: sound matter pistol lecture video
-bip_39_word_space_6: sound matter pistol lecture video divide
-bip_39_word_space_7: sound matter pistol lecture video divide yard
-bip_39_word_space_8: sound matter pistol lecture video divide yard post
-bip_39_word_space_9: sound matter pistol lecture video divide yard post claim
-bip_39_word_underscore_1: sound
-bip_39_word_underscore_10: sound_matter_pistol_lecture_video_divide_yard_post_claim_pond
-bip_39_word_underscore_11: sound_matter_pistol_lecture_video_divide_yard_post_claim_pond_spare
 bip_39_word_underscore_12: sound_matter_pistol_lecture_video_divide_yard_post_claim_pond_spare_avocado
 bip_39_word_underscore_2: sound_matter
 bip_39_word_underscore_3: sound_matter_pistol
-bip_39_word_underscore_4: sound_matter_pistol_lecture
-bip_39_word_underscore_5: sound_matter_pistol_lecture_video
-bip_39_word_underscore_6: sound_matter_pistol_lecture_video_divide
-bip_39_word_underscore_7: sound_matter_pistol_lecture_video_divide_yard
-bip_39_word_underscore_8: sound_matter_pistol_lecture_video_divide_yard_post
-bip_39_word_underscore_9: sound_matter_pistol_lecture_video_divide_yard_post_claim
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

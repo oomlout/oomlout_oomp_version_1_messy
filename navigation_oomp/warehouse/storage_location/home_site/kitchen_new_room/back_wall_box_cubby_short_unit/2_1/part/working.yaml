@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cost
-bip_39_word_dash_10: cost-eagle-credit-innocent-dash-grant-crisp-stumble-order-snow
-bip_39_word_dash_11: cost-eagle-credit-innocent-dash-grant-crisp-stumble-order-snow-move
 bip_39_word_dash_12: cost-eagle-credit-innocent-dash-grant-crisp-stumble-order-snow-move-ask
 bip_39_word_dash_2: cost-eagle
 bip_39_word_dash_3: cost-eagle-credit
-bip_39_word_dash_4: cost-eagle-credit-innocent
-bip_39_word_dash_5: cost-eagle-credit-innocent-dash
-bip_39_word_dash_6: cost-eagle-credit-innocent-dash-grant
-bip_39_word_dash_7: cost-eagle-credit-innocent-dash-grant-crisp
-bip_39_word_dash_8: cost-eagle-credit-innocent-dash-grant-crisp-stumble
-bip_39_word_dash_9: cost-eagle-credit-innocent-dash-grant-crisp-stumble-order
-bip_39_word_new_br_1: cost
-bip_39_word_new_br_10: cost<br>eagle<br>credit<br>innocent<br>dash<br>grant<br>crisp<br>stumble<br>order<br>snow
-bip_39_word_new_br_11: cost<br>eagle<br>credit<br>innocent<br>dash<br>grant<br>crisp<br>stumble<br>order<br>snow<br>move
 bip_39_word_new_br_12: cost<br>eagle<br>credit<br>innocent<br>dash<br>grant<br>crisp<br>stumble<br>order<br>snow<br>move<br>ask
 bip_39_word_new_br_2: cost<br>eagle
 bip_39_word_new_br_3: cost<br>eagle<br>credit
-bip_39_word_new_br_4: cost<br>eagle<br>credit<br>innocent
-bip_39_word_new_br_5: cost<br>eagle<br>credit<br>innocent<br>dash
-bip_39_word_new_br_6: cost<br>eagle<br>credit<br>innocent<br>dash<br>grant
-bip_39_word_new_br_7: cost<br>eagle<br>credit<br>innocent<br>dash<br>grant<br>crisp
-bip_39_word_new_br_8: cost<br>eagle<br>credit<br>innocent<br>dash<br>grant<br>crisp<br>stumble
-bip_39_word_new_br_9: cost<br>eagle<br>credit<br>innocent<br>dash<br>grant<br>crisp<br>stumble<br>order
-bip_39_word_new_line_1: cost
-bip_39_word_new_line_10: 'cost
-
-  eagle
-
-  credit
-
-  innocent
-
-  dash
-
-  grant
-
-  crisp
-
-  stumble
-
-  order
-
-  snow'
-bip_39_word_new_line_11: 'cost
-
-  eagle
-
-  credit
-
-  innocent
-
-  dash
-
-  grant
-
-  crisp
-
-  stumble
-
-  order
-
-  snow
-
-  move'
 bip_39_word_new_line_12: 'cost
 
   eagle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cost
   eagle
 
   credit'
-bip_39_word_new_line_4: 'cost
-
-  eagle
-
-  credit
-
-  innocent'
-bip_39_word_new_line_5: 'cost
-
-  eagle
-
-  credit
-
-  innocent
-
-  dash'
-bip_39_word_new_line_6: 'cost
-
-  eagle
-
-  credit
-
-  innocent
-
-  dash
-
-  grant'
-bip_39_word_new_line_7: 'cost
-
-  eagle
-
-  credit
-
-  innocent
-
-  dash
-
-  grant
-
-  crisp'
-bip_39_word_new_line_8: 'cost
-
-  eagle
-
-  credit
-
-  innocent
-
-  dash
-
-  grant
-
-  crisp
-
-  stumble'
-bip_39_word_new_line_9: 'cost
-
-  eagle
-
-  credit
-
-  innocent
-
-  dash
-
-  grant
-
-  crisp
-
-  stumble
-
-  order'
-bip_39_word_no_space_1: cost
-bip_39_word_no_space_10: costeaglecreditinnocentdashgrantcrispstumbleordersnow
-bip_39_word_no_space_11: costeaglecreditinnocentdashgrantcrispstumbleordersnowmove
 bip_39_word_no_space_12: costeaglecreditinnocentdashgrantcrispstumbleordersnowmoveask
 bip_39_word_no_space_2: costeagle
 bip_39_word_no_space_3: costeaglecredit
-bip_39_word_no_space_4: costeaglecreditinnocent
-bip_39_word_no_space_5: costeaglecreditinnocentdash
-bip_39_word_no_space_6: costeaglecreditinnocentdashgrant
-bip_39_word_no_space_7: costeaglecreditinnocentdashgrantcrisp
-bip_39_word_no_space_8: costeaglecreditinnocentdashgrantcrispstumble
-bip_39_word_no_space_9: costeaglecreditinnocentdashgrantcrispstumbleorder
-bip_39_word_space_0:
-- cost
-- eagle
-- credit
-- innocent
-- dash
-- grant
-- crisp
-- stumble
-- order
-- snow
-- move
-- ask
-bip_39_word_space_1: cost
-bip_39_word_space_10: cost eagle credit innocent dash grant crisp stumble order snow
-bip_39_word_space_11: cost eagle credit innocent dash grant crisp stumble order snow
-  move
 bip_39_word_space_12: cost eagle credit innocent dash grant crisp stumble order snow
   move ask
 bip_39_word_space_2: cost eagle
 bip_39_word_space_3: cost eagle credit
-bip_39_word_space_4: cost eagle credit innocent
-bip_39_word_space_5: cost eagle credit innocent dash
-bip_39_word_space_6: cost eagle credit innocent dash grant
-bip_39_word_space_7: cost eagle credit innocent dash grant crisp
-bip_39_word_space_8: cost eagle credit innocent dash grant crisp stumble
-bip_39_word_space_9: cost eagle credit innocent dash grant crisp stumble order
-bip_39_word_underscore_1: cost
-bip_39_word_underscore_10: cost_eagle_credit_innocent_dash_grant_crisp_stumble_order_snow
-bip_39_word_underscore_11: cost_eagle_credit_innocent_dash_grant_crisp_stumble_order_snow_move
 bip_39_word_underscore_12: cost_eagle_credit_innocent_dash_grant_crisp_stumble_order_snow_move_ask
 bip_39_word_underscore_2: cost_eagle
 bip_39_word_underscore_3: cost_eagle_credit
-bip_39_word_underscore_4: cost_eagle_credit_innocent
-bip_39_word_underscore_5: cost_eagle_credit_innocent_dash
-bip_39_word_underscore_6: cost_eagle_credit_innocent_dash_grant
-bip_39_word_underscore_7: cost_eagle_credit_innocent_dash_grant_crisp
-bip_39_word_underscore_8: cost_eagle_credit_innocent_dash_grant_crisp_stumble
-bip_39_word_underscore_9: cost_eagle_credit_innocent_dash_grant_crisp_stumble_order
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

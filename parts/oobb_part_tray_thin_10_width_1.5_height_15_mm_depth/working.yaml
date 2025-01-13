@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spot
-bip_39_word_dash_10: spot-clap-method-age-guilt-rent-summer-promote-skate-violin
-bip_39_word_dash_11: spot-clap-method-age-guilt-rent-summer-promote-skate-violin-hedgehog
 bip_39_word_dash_12: spot-clap-method-age-guilt-rent-summer-promote-skate-violin-hedgehog-auto
 bip_39_word_dash_2: spot-clap
 bip_39_word_dash_3: spot-clap-method
-bip_39_word_dash_4: spot-clap-method-age
-bip_39_word_dash_5: spot-clap-method-age-guilt
-bip_39_word_dash_6: spot-clap-method-age-guilt-rent
-bip_39_word_dash_7: spot-clap-method-age-guilt-rent-summer
-bip_39_word_dash_8: spot-clap-method-age-guilt-rent-summer-promote
-bip_39_word_dash_9: spot-clap-method-age-guilt-rent-summer-promote-skate
-bip_39_word_new_br_1: spot
-bip_39_word_new_br_10: spot<br>clap<br>method<br>age<br>guilt<br>rent<br>summer<br>promote<br>skate<br>violin
-bip_39_word_new_br_11: spot<br>clap<br>method<br>age<br>guilt<br>rent<br>summer<br>promote<br>skate<br>violin<br>hedgehog
 bip_39_word_new_br_12: spot<br>clap<br>method<br>age<br>guilt<br>rent<br>summer<br>promote<br>skate<br>violin<br>hedgehog<br>auto
 bip_39_word_new_br_2: spot<br>clap
 bip_39_word_new_br_3: spot<br>clap<br>method
-bip_39_word_new_br_4: spot<br>clap<br>method<br>age
-bip_39_word_new_br_5: spot<br>clap<br>method<br>age<br>guilt
-bip_39_word_new_br_6: spot<br>clap<br>method<br>age<br>guilt<br>rent
-bip_39_word_new_br_7: spot<br>clap<br>method<br>age<br>guilt<br>rent<br>summer
-bip_39_word_new_br_8: spot<br>clap<br>method<br>age<br>guilt<br>rent<br>summer<br>promote
-bip_39_word_new_br_9: spot<br>clap<br>method<br>age<br>guilt<br>rent<br>summer<br>promote<br>skate
-bip_39_word_new_line_1: spot
-bip_39_word_new_line_10: 'spot
-
-  clap
-
-  method
-
-  age
-
-  guilt
-
-  rent
-
-  summer
-
-  promote
-
-  skate
-
-  violin'
-bip_39_word_new_line_11: 'spot
-
-  clap
-
-  method
-
-  age
-
-  guilt
-
-  rent
-
-  summer
-
-  promote
-
-  skate
-
-  violin
-
-  hedgehog'
 bip_39_word_new_line_12: 'spot
 
   clap
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spot
   clap
 
   method'
-bip_39_word_new_line_4: 'spot
-
-  clap
-
-  method
-
-  age'
-bip_39_word_new_line_5: 'spot
-
-  clap
-
-  method
-
-  age
-
-  guilt'
-bip_39_word_new_line_6: 'spot
-
-  clap
-
-  method
-
-  age
-
-  guilt
-
-  rent'
-bip_39_word_new_line_7: 'spot
-
-  clap
-
-  method
-
-  age
-
-  guilt
-
-  rent
-
-  summer'
-bip_39_word_new_line_8: 'spot
-
-  clap
-
-  method
-
-  age
-
-  guilt
-
-  rent
-
-  summer
-
-  promote'
-bip_39_word_new_line_9: 'spot
-
-  clap
-
-  method
-
-  age
-
-  guilt
-
-  rent
-
-  summer
-
-  promote
-
-  skate'
-bip_39_word_no_space_1: spot
-bip_39_word_no_space_10: spotclapmethodageguiltrentsummerpromoteskateviolin
-bip_39_word_no_space_11: spotclapmethodageguiltrentsummerpromoteskateviolinhedgehog
 bip_39_word_no_space_12: spotclapmethodageguiltrentsummerpromoteskateviolinhedgehogauto
 bip_39_word_no_space_2: spotclap
 bip_39_word_no_space_3: spotclapmethod
-bip_39_word_no_space_4: spotclapmethodage
-bip_39_word_no_space_5: spotclapmethodageguilt
-bip_39_word_no_space_6: spotclapmethodageguiltrent
-bip_39_word_no_space_7: spotclapmethodageguiltrentsummer
-bip_39_word_no_space_8: spotclapmethodageguiltrentsummerpromote
-bip_39_word_no_space_9: spotclapmethodageguiltrentsummerpromoteskate
-bip_39_word_space_0:
-- spot
-- clap
-- method
-- age
-- guilt
-- rent
-- summer
-- promote
-- skate
-- violin
-- hedgehog
-- auto
-bip_39_word_space_1: spot
-bip_39_word_space_10: spot clap method age guilt rent summer promote skate violin
-bip_39_word_space_11: spot clap method age guilt rent summer promote skate violin
-  hedgehog
 bip_39_word_space_12: spot clap method age guilt rent summer promote skate violin
   hedgehog auto
 bip_39_word_space_2: spot clap
 bip_39_word_space_3: spot clap method
-bip_39_word_space_4: spot clap method age
-bip_39_word_space_5: spot clap method age guilt
-bip_39_word_space_6: spot clap method age guilt rent
-bip_39_word_space_7: spot clap method age guilt rent summer
-bip_39_word_space_8: spot clap method age guilt rent summer promote
-bip_39_word_space_9: spot clap method age guilt rent summer promote skate
-bip_39_word_underscore_1: spot
-bip_39_word_underscore_10: spot_clap_method_age_guilt_rent_summer_promote_skate_violin
-bip_39_word_underscore_11: spot_clap_method_age_guilt_rent_summer_promote_skate_violin_hedgehog
 bip_39_word_underscore_12: spot_clap_method_age_guilt_rent_summer_promote_skate_violin_hedgehog_auto
 bip_39_word_underscore_2: spot_clap
 bip_39_word_underscore_3: spot_clap_method
-bip_39_word_underscore_4: spot_clap_method_age
-bip_39_word_underscore_5: spot_clap_method_age_guilt
-bip_39_word_underscore_6: spot_clap_method_age_guilt_rent
-bip_39_word_underscore_7: spot_clap_method_age_guilt_rent_summer
-bip_39_word_underscore_8: spot_clap_method_age_guilt_rent_summer_promote
-bip_39_word_underscore_9: spot_clap_method_age_guilt_rent_summer_promote_skate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

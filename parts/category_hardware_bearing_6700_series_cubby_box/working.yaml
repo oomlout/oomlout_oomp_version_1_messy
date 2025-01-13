@@ -1,68 +1,9 @@
-bip_39_word_dash_1: citizen
-bip_39_word_dash_10: citizen-return-kind-harsh-possible-vast-below-lawn-limit-main
-bip_39_word_dash_11: citizen-return-kind-harsh-possible-vast-below-lawn-limit-main-badge
 bip_39_word_dash_12: citizen-return-kind-harsh-possible-vast-below-lawn-limit-main-badge-attract
 bip_39_word_dash_2: citizen-return
 bip_39_word_dash_3: citizen-return-kind
-bip_39_word_dash_4: citizen-return-kind-harsh
-bip_39_word_dash_5: citizen-return-kind-harsh-possible
-bip_39_word_dash_6: citizen-return-kind-harsh-possible-vast
-bip_39_word_dash_7: citizen-return-kind-harsh-possible-vast-below
-bip_39_word_dash_8: citizen-return-kind-harsh-possible-vast-below-lawn
-bip_39_word_dash_9: citizen-return-kind-harsh-possible-vast-below-lawn-limit
-bip_39_word_new_br_1: citizen
-bip_39_word_new_br_10: citizen<br>return<br>kind<br>harsh<br>possible<br>vast<br>below<br>lawn<br>limit<br>main
-bip_39_word_new_br_11: citizen<br>return<br>kind<br>harsh<br>possible<br>vast<br>below<br>lawn<br>limit<br>main<br>badge
 bip_39_word_new_br_12: citizen<br>return<br>kind<br>harsh<br>possible<br>vast<br>below<br>lawn<br>limit<br>main<br>badge<br>attract
 bip_39_word_new_br_2: citizen<br>return
 bip_39_word_new_br_3: citizen<br>return<br>kind
-bip_39_word_new_br_4: citizen<br>return<br>kind<br>harsh
-bip_39_word_new_br_5: citizen<br>return<br>kind<br>harsh<br>possible
-bip_39_word_new_br_6: citizen<br>return<br>kind<br>harsh<br>possible<br>vast
-bip_39_word_new_br_7: citizen<br>return<br>kind<br>harsh<br>possible<br>vast<br>below
-bip_39_word_new_br_8: citizen<br>return<br>kind<br>harsh<br>possible<br>vast<br>below<br>lawn
-bip_39_word_new_br_9: citizen<br>return<br>kind<br>harsh<br>possible<br>vast<br>below<br>lawn<br>limit
-bip_39_word_new_line_1: citizen
-bip_39_word_new_line_10: 'citizen
-
-  return
-
-  kind
-
-  harsh
-
-  possible
-
-  vast
-
-  below
-
-  lawn
-
-  limit
-
-  main'
-bip_39_word_new_line_11: 'citizen
-
-  return
-
-  kind
-
-  harsh
-
-  possible
-
-  vast
-
-  below
-
-  lawn
-
-  limit
-
-  main
-
-  badge'
 bip_39_word_new_line_12: 'citizen
 
   return
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'citizen
   return
 
   kind'
-bip_39_word_new_line_4: 'citizen
-
-  return
-
-  kind
-
-  harsh'
-bip_39_word_new_line_5: 'citizen
-
-  return
-
-  kind
-
-  harsh
-
-  possible'
-bip_39_word_new_line_6: 'citizen
-
-  return
-
-  kind
-
-  harsh
-
-  possible
-
-  vast'
-bip_39_word_new_line_7: 'citizen
-
-  return
-
-  kind
-
-  harsh
-
-  possible
-
-  vast
-
-  below'
-bip_39_word_new_line_8: 'citizen
-
-  return
-
-  kind
-
-  harsh
-
-  possible
-
-  vast
-
-  below
-
-  lawn'
-bip_39_word_new_line_9: 'citizen
-
-  return
-
-  kind
-
-  harsh
-
-  possible
-
-  vast
-
-  below
-
-  lawn
-
-  limit'
-bip_39_word_no_space_1: citizen
-bip_39_word_no_space_10: citizenreturnkindharshpossiblevastbelowlawnlimitmain
-bip_39_word_no_space_11: citizenreturnkindharshpossiblevastbelowlawnlimitmainbadge
 bip_39_word_no_space_12: citizenreturnkindharshpossiblevastbelowlawnlimitmainbadgeattract
 bip_39_word_no_space_2: citizenreturn
 bip_39_word_no_space_3: citizenreturnkind
-bip_39_word_no_space_4: citizenreturnkindharsh
-bip_39_word_no_space_5: citizenreturnkindharshpossible
-bip_39_word_no_space_6: citizenreturnkindharshpossiblevast
-bip_39_word_no_space_7: citizenreturnkindharshpossiblevastbelow
-bip_39_word_no_space_8: citizenreturnkindharshpossiblevastbelowlawn
-bip_39_word_no_space_9: citizenreturnkindharshpossiblevastbelowlawnlimit
-bip_39_word_space_0:
-- citizen
-- return
-- kind
-- harsh
-- possible
-- vast
-- below
-- lawn
-- limit
-- main
-- badge
-- attract
-bip_39_word_space_1: citizen
-bip_39_word_space_10: citizen return kind harsh possible vast below lawn limit main
-bip_39_word_space_11: citizen return kind harsh possible vast below lawn limit main
-  badge
 bip_39_word_space_12: citizen return kind harsh possible vast below lawn limit main
   badge attract
 bip_39_word_space_2: citizen return
 bip_39_word_space_3: citizen return kind
-bip_39_word_space_4: citizen return kind harsh
-bip_39_word_space_5: citizen return kind harsh possible
-bip_39_word_space_6: citizen return kind harsh possible vast
-bip_39_word_space_7: citizen return kind harsh possible vast below
-bip_39_word_space_8: citizen return kind harsh possible vast below lawn
-bip_39_word_space_9: citizen return kind harsh possible vast below lawn limit
-bip_39_word_underscore_1: citizen
-bip_39_word_underscore_10: citizen_return_kind_harsh_possible_vast_below_lawn_limit_main
-bip_39_word_underscore_11: citizen_return_kind_harsh_possible_vast_below_lawn_limit_main_badge
 bip_39_word_underscore_12: citizen_return_kind_harsh_possible_vast_below_lawn_limit_main_badge_attract
 bip_39_word_underscore_2: citizen_return
 bip_39_word_underscore_3: citizen_return_kind
-bip_39_word_underscore_4: citizen_return_kind_harsh
-bip_39_word_underscore_5: citizen_return_kind_harsh_possible
-bip_39_word_underscore_6: citizen_return_kind_harsh_possible_vast
-bip_39_word_underscore_7: citizen_return_kind_harsh_possible_vast_below
-bip_39_word_underscore_8: citizen_return_kind_harsh_possible_vast_below_lawn
-bip_39_word_underscore_9: citizen_return_kind_harsh_possible_vast_below_lawn_limit
 classification: category
 classification_capital: Category
 classification_first_letter: c

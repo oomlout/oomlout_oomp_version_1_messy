@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lens
-bip_39_word_dash_10: lens-segment-dog-lamp-road-usual-bag-used-balcony-category
-bip_39_word_dash_11: lens-segment-dog-lamp-road-usual-bag-used-balcony-category-belt
 bip_39_word_dash_12: lens-segment-dog-lamp-road-usual-bag-used-balcony-category-belt-assault
 bip_39_word_dash_2: lens-segment
 bip_39_word_dash_3: lens-segment-dog
-bip_39_word_dash_4: lens-segment-dog-lamp
-bip_39_word_dash_5: lens-segment-dog-lamp-road
-bip_39_word_dash_6: lens-segment-dog-lamp-road-usual
-bip_39_word_dash_7: lens-segment-dog-lamp-road-usual-bag
-bip_39_word_dash_8: lens-segment-dog-lamp-road-usual-bag-used
-bip_39_word_dash_9: lens-segment-dog-lamp-road-usual-bag-used-balcony
-bip_39_word_new_br_1: lens
-bip_39_word_new_br_10: lens<br>segment<br>dog<br>lamp<br>road<br>usual<br>bag<br>used<br>balcony<br>category
-bip_39_word_new_br_11: lens<br>segment<br>dog<br>lamp<br>road<br>usual<br>bag<br>used<br>balcony<br>category<br>belt
 bip_39_word_new_br_12: lens<br>segment<br>dog<br>lamp<br>road<br>usual<br>bag<br>used<br>balcony<br>category<br>belt<br>assault
 bip_39_word_new_br_2: lens<br>segment
 bip_39_word_new_br_3: lens<br>segment<br>dog
-bip_39_word_new_br_4: lens<br>segment<br>dog<br>lamp
-bip_39_word_new_br_5: lens<br>segment<br>dog<br>lamp<br>road
-bip_39_word_new_br_6: lens<br>segment<br>dog<br>lamp<br>road<br>usual
-bip_39_word_new_br_7: lens<br>segment<br>dog<br>lamp<br>road<br>usual<br>bag
-bip_39_word_new_br_8: lens<br>segment<br>dog<br>lamp<br>road<br>usual<br>bag<br>used
-bip_39_word_new_br_9: lens<br>segment<br>dog<br>lamp<br>road<br>usual<br>bag<br>used<br>balcony
-bip_39_word_new_line_1: lens
-bip_39_word_new_line_10: 'lens
-
-  segment
-
-  dog
-
-  lamp
-
-  road
-
-  usual
-
-  bag
-
-  used
-
-  balcony
-
-  category'
-bip_39_word_new_line_11: 'lens
-
-  segment
-
-  dog
-
-  lamp
-
-  road
-
-  usual
-
-  bag
-
-  used
-
-  balcony
-
-  category
-
-  belt'
 bip_39_word_new_line_12: 'lens
 
   segment
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'lens
   segment
 
   dog'
-bip_39_word_new_line_4: 'lens
-
-  segment
-
-  dog
-
-  lamp'
-bip_39_word_new_line_5: 'lens
-
-  segment
-
-  dog
-
-  lamp
-
-  road'
-bip_39_word_new_line_6: 'lens
-
-  segment
-
-  dog
-
-  lamp
-
-  road
-
-  usual'
-bip_39_word_new_line_7: 'lens
-
-  segment
-
-  dog
-
-  lamp
-
-  road
-
-  usual
-
-  bag'
-bip_39_word_new_line_8: 'lens
-
-  segment
-
-  dog
-
-  lamp
-
-  road
-
-  usual
-
-  bag
-
-  used'
-bip_39_word_new_line_9: 'lens
-
-  segment
-
-  dog
-
-  lamp
-
-  road
-
-  usual
-
-  bag
-
-  used
-
-  balcony'
-bip_39_word_no_space_1: lens
-bip_39_word_no_space_10: lenssegmentdoglamproadusualbagusedbalconycategory
-bip_39_word_no_space_11: lenssegmentdoglamproadusualbagusedbalconycategorybelt
 bip_39_word_no_space_12: lenssegmentdoglamproadusualbagusedbalconycategorybeltassault
 bip_39_word_no_space_2: lenssegment
 bip_39_word_no_space_3: lenssegmentdog
-bip_39_word_no_space_4: lenssegmentdoglamp
-bip_39_word_no_space_5: lenssegmentdoglamproad
-bip_39_word_no_space_6: lenssegmentdoglamproadusual
-bip_39_word_no_space_7: lenssegmentdoglamproadusualbag
-bip_39_word_no_space_8: lenssegmentdoglamproadusualbagused
-bip_39_word_no_space_9: lenssegmentdoglamproadusualbagusedbalcony
-bip_39_word_space_0:
-- lens
-- segment
-- dog
-- lamp
-- road
-- usual
-- bag
-- used
-- balcony
-- category
-- belt
-- assault
-bip_39_word_space_1: lens
-bip_39_word_space_10: lens segment dog lamp road usual bag used balcony category
-bip_39_word_space_11: lens segment dog lamp road usual bag used balcony category belt
 bip_39_word_space_12: lens segment dog lamp road usual bag used balcony category belt
   assault
 bip_39_word_space_2: lens segment
 bip_39_word_space_3: lens segment dog
-bip_39_word_space_4: lens segment dog lamp
-bip_39_word_space_5: lens segment dog lamp road
-bip_39_word_space_6: lens segment dog lamp road usual
-bip_39_word_space_7: lens segment dog lamp road usual bag
-bip_39_word_space_8: lens segment dog lamp road usual bag used
-bip_39_word_space_9: lens segment dog lamp road usual bag used balcony
-bip_39_word_underscore_1: lens
-bip_39_word_underscore_10: lens_segment_dog_lamp_road_usual_bag_used_balcony_category
-bip_39_word_underscore_11: lens_segment_dog_lamp_road_usual_bag_used_balcony_category_belt
 bip_39_word_underscore_12: lens_segment_dog_lamp_road_usual_bag_used_balcony_category_belt_assault
 bip_39_word_underscore_2: lens_segment
 bip_39_word_underscore_3: lens_segment_dog
-bip_39_word_underscore_4: lens_segment_dog_lamp
-bip_39_word_underscore_5: lens_segment_dog_lamp_road
-bip_39_word_underscore_6: lens_segment_dog_lamp_road_usual
-bip_39_word_underscore_7: lens_segment_dog_lamp_road_usual_bag
-bip_39_word_underscore_8: lens_segment_dog_lamp_road_usual_bag_used
-bip_39_word_underscore_9: lens_segment_dog_lamp_road_usual_bag_used_balcony
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

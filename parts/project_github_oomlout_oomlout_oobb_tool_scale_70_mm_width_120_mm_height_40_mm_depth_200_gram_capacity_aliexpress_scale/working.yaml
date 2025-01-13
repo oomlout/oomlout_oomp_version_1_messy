@@ -1,68 +1,9 @@
-bip_39_word_dash_1: walnut
-bip_39_word_dash_10: walnut-steel-gate-divide-weasel-asset-assist-nuclear-february-wild
-bip_39_word_dash_11: walnut-steel-gate-divide-weasel-asset-assist-nuclear-february-wild-jaguar
 bip_39_word_dash_12: walnut-steel-gate-divide-weasel-asset-assist-nuclear-february-wild-jaguar-affair
 bip_39_word_dash_2: walnut-steel
 bip_39_word_dash_3: walnut-steel-gate
-bip_39_word_dash_4: walnut-steel-gate-divide
-bip_39_word_dash_5: walnut-steel-gate-divide-weasel
-bip_39_word_dash_6: walnut-steel-gate-divide-weasel-asset
-bip_39_word_dash_7: walnut-steel-gate-divide-weasel-asset-assist
-bip_39_word_dash_8: walnut-steel-gate-divide-weasel-asset-assist-nuclear
-bip_39_word_dash_9: walnut-steel-gate-divide-weasel-asset-assist-nuclear-february
-bip_39_word_new_br_1: walnut
-bip_39_word_new_br_10: walnut<br>steel<br>gate<br>divide<br>weasel<br>asset<br>assist<br>nuclear<br>february<br>wild
-bip_39_word_new_br_11: walnut<br>steel<br>gate<br>divide<br>weasel<br>asset<br>assist<br>nuclear<br>february<br>wild<br>jaguar
 bip_39_word_new_br_12: walnut<br>steel<br>gate<br>divide<br>weasel<br>asset<br>assist<br>nuclear<br>february<br>wild<br>jaguar<br>affair
 bip_39_word_new_br_2: walnut<br>steel
 bip_39_word_new_br_3: walnut<br>steel<br>gate
-bip_39_word_new_br_4: walnut<br>steel<br>gate<br>divide
-bip_39_word_new_br_5: walnut<br>steel<br>gate<br>divide<br>weasel
-bip_39_word_new_br_6: walnut<br>steel<br>gate<br>divide<br>weasel<br>asset
-bip_39_word_new_br_7: walnut<br>steel<br>gate<br>divide<br>weasel<br>asset<br>assist
-bip_39_word_new_br_8: walnut<br>steel<br>gate<br>divide<br>weasel<br>asset<br>assist<br>nuclear
-bip_39_word_new_br_9: walnut<br>steel<br>gate<br>divide<br>weasel<br>asset<br>assist<br>nuclear<br>february
-bip_39_word_new_line_1: walnut
-bip_39_word_new_line_10: 'walnut
-
-  steel
-
-  gate
-
-  divide
-
-  weasel
-
-  asset
-
-  assist
-
-  nuclear
-
-  february
-
-  wild'
-bip_39_word_new_line_11: 'walnut
-
-  steel
-
-  gate
-
-  divide
-
-  weasel
-
-  asset
-
-  assist
-
-  nuclear
-
-  february
-
-  wild
-
-  jaguar'
 bip_39_word_new_line_12: 'walnut
 
   steel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'walnut
   steel
 
   gate'
-bip_39_word_new_line_4: 'walnut
-
-  steel
-
-  gate
-
-  divide'
-bip_39_word_new_line_5: 'walnut
-
-  steel
-
-  gate
-
-  divide
-
-  weasel'
-bip_39_word_new_line_6: 'walnut
-
-  steel
-
-  gate
-
-  divide
-
-  weasel
-
-  asset'
-bip_39_word_new_line_7: 'walnut
-
-  steel
-
-  gate
-
-  divide
-
-  weasel
-
-  asset
-
-  assist'
-bip_39_word_new_line_8: 'walnut
-
-  steel
-
-  gate
-
-  divide
-
-  weasel
-
-  asset
-
-  assist
-
-  nuclear'
-bip_39_word_new_line_9: 'walnut
-
-  steel
-
-  gate
-
-  divide
-
-  weasel
-
-  asset
-
-  assist
-
-  nuclear
-
-  february'
-bip_39_word_no_space_1: walnut
-bip_39_word_no_space_10: walnutsteelgatedivideweaselassetassistnuclearfebruarywild
-bip_39_word_no_space_11: walnutsteelgatedivideweaselassetassistnuclearfebruarywildjaguar
 bip_39_word_no_space_12: walnutsteelgatedivideweaselassetassistnuclearfebruarywildjaguaraffair
 bip_39_word_no_space_2: walnutsteel
 bip_39_word_no_space_3: walnutsteelgate
-bip_39_word_no_space_4: walnutsteelgatedivide
-bip_39_word_no_space_5: walnutsteelgatedivideweasel
-bip_39_word_no_space_6: walnutsteelgatedivideweaselasset
-bip_39_word_no_space_7: walnutsteelgatedivideweaselassetassist
-bip_39_word_no_space_8: walnutsteelgatedivideweaselassetassistnuclear
-bip_39_word_no_space_9: walnutsteelgatedivideweaselassetassistnuclearfebruary
-bip_39_word_space_0:
-- walnut
-- steel
-- gate
-- divide
-- weasel
-- asset
-- assist
-- nuclear
-- february
-- wild
-- jaguar
-- affair
-bip_39_word_space_1: walnut
-bip_39_word_space_10: walnut steel gate divide weasel asset assist nuclear february
-  wild
-bip_39_word_space_11: walnut steel gate divide weasel asset assist nuclear february
-  wild jaguar
 bip_39_word_space_12: walnut steel gate divide weasel asset assist nuclear february
   wild jaguar affair
 bip_39_word_space_2: walnut steel
 bip_39_word_space_3: walnut steel gate
-bip_39_word_space_4: walnut steel gate divide
-bip_39_word_space_5: walnut steel gate divide weasel
-bip_39_word_space_6: walnut steel gate divide weasel asset
-bip_39_word_space_7: walnut steel gate divide weasel asset assist
-bip_39_word_space_8: walnut steel gate divide weasel asset assist nuclear
-bip_39_word_space_9: walnut steel gate divide weasel asset assist nuclear february
-bip_39_word_underscore_1: walnut
-bip_39_word_underscore_10: walnut_steel_gate_divide_weasel_asset_assist_nuclear_february_wild
-bip_39_word_underscore_11: walnut_steel_gate_divide_weasel_asset_assist_nuclear_february_wild_jaguar
 bip_39_word_underscore_12: walnut_steel_gate_divide_weasel_asset_assist_nuclear_february_wild_jaguar_affair
 bip_39_word_underscore_2: walnut_steel
 bip_39_word_underscore_3: walnut_steel_gate
-bip_39_word_underscore_4: walnut_steel_gate_divide
-bip_39_word_underscore_5: walnut_steel_gate_divide_weasel
-bip_39_word_underscore_6: walnut_steel_gate_divide_weasel_asset
-bip_39_word_underscore_7: walnut_steel_gate_divide_weasel_asset_assist
-bip_39_word_underscore_8: walnut_steel_gate_divide_weasel_asset_assist_nuclear
-bip_39_word_underscore_9: walnut_steel_gate_divide_weasel_asset_assist_nuclear_february
 classification: project
 classification_capital: Project
 classification_first_letter: p

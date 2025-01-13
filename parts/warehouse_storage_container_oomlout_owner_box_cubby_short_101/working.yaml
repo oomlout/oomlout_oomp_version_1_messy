@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sleep
-bip_39_word_dash_10: sleep-list-target-join-wasp-gadget-first-toilet-brave-cream
-bip_39_word_dash_11: sleep-list-target-join-wasp-gadget-first-toilet-brave-cream-fix
 bip_39_word_dash_12: sleep-list-target-join-wasp-gadget-first-toilet-brave-cream-fix-actress
 bip_39_word_dash_2: sleep-list
 bip_39_word_dash_3: sleep-list-target
-bip_39_word_dash_4: sleep-list-target-join
-bip_39_word_dash_5: sleep-list-target-join-wasp
-bip_39_word_dash_6: sleep-list-target-join-wasp-gadget
-bip_39_word_dash_7: sleep-list-target-join-wasp-gadget-first
-bip_39_word_dash_8: sleep-list-target-join-wasp-gadget-first-toilet
-bip_39_word_dash_9: sleep-list-target-join-wasp-gadget-first-toilet-brave
-bip_39_word_new_br_1: sleep
-bip_39_word_new_br_10: sleep<br>list<br>target<br>join<br>wasp<br>gadget<br>first<br>toilet<br>brave<br>cream
-bip_39_word_new_br_11: sleep<br>list<br>target<br>join<br>wasp<br>gadget<br>first<br>toilet<br>brave<br>cream<br>fix
 bip_39_word_new_br_12: sleep<br>list<br>target<br>join<br>wasp<br>gadget<br>first<br>toilet<br>brave<br>cream<br>fix<br>actress
 bip_39_word_new_br_2: sleep<br>list
 bip_39_word_new_br_3: sleep<br>list<br>target
-bip_39_word_new_br_4: sleep<br>list<br>target<br>join
-bip_39_word_new_br_5: sleep<br>list<br>target<br>join<br>wasp
-bip_39_word_new_br_6: sleep<br>list<br>target<br>join<br>wasp<br>gadget
-bip_39_word_new_br_7: sleep<br>list<br>target<br>join<br>wasp<br>gadget<br>first
-bip_39_word_new_br_8: sleep<br>list<br>target<br>join<br>wasp<br>gadget<br>first<br>toilet
-bip_39_word_new_br_9: sleep<br>list<br>target<br>join<br>wasp<br>gadget<br>first<br>toilet<br>brave
-bip_39_word_new_line_1: sleep
-bip_39_word_new_line_10: 'sleep
-
-  list
-
-  target
-
-  join
-
-  wasp
-
-  gadget
-
-  first
-
-  toilet
-
-  brave
-
-  cream'
-bip_39_word_new_line_11: 'sleep
-
-  list
-
-  target
-
-  join
-
-  wasp
-
-  gadget
-
-  first
-
-  toilet
-
-  brave
-
-  cream
-
-  fix'
 bip_39_word_new_line_12: 'sleep
 
   list
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sleep
   list
 
   target'
-bip_39_word_new_line_4: 'sleep
-
-  list
-
-  target
-
-  join'
-bip_39_word_new_line_5: 'sleep
-
-  list
-
-  target
-
-  join
-
-  wasp'
-bip_39_word_new_line_6: 'sleep
-
-  list
-
-  target
-
-  join
-
-  wasp
-
-  gadget'
-bip_39_word_new_line_7: 'sleep
-
-  list
-
-  target
-
-  join
-
-  wasp
-
-  gadget
-
-  first'
-bip_39_word_new_line_8: 'sleep
-
-  list
-
-  target
-
-  join
-
-  wasp
-
-  gadget
-
-  first
-
-  toilet'
-bip_39_word_new_line_9: 'sleep
-
-  list
-
-  target
-
-  join
-
-  wasp
-
-  gadget
-
-  first
-
-  toilet
-
-  brave'
-bip_39_word_no_space_1: sleep
-bip_39_word_no_space_10: sleeplisttargetjoinwaspgadgetfirsttoiletbravecream
-bip_39_word_no_space_11: sleeplisttargetjoinwaspgadgetfirsttoiletbravecreamfix
 bip_39_word_no_space_12: sleeplisttargetjoinwaspgadgetfirsttoiletbravecreamfixactress
 bip_39_word_no_space_2: sleeplist
 bip_39_word_no_space_3: sleeplisttarget
-bip_39_word_no_space_4: sleeplisttargetjoin
-bip_39_word_no_space_5: sleeplisttargetjoinwasp
-bip_39_word_no_space_6: sleeplisttargetjoinwaspgadget
-bip_39_word_no_space_7: sleeplisttargetjoinwaspgadgetfirst
-bip_39_word_no_space_8: sleeplisttargetjoinwaspgadgetfirsttoilet
-bip_39_word_no_space_9: sleeplisttargetjoinwaspgadgetfirsttoiletbrave
-bip_39_word_space_0:
-- sleep
-- list
-- target
-- join
-- wasp
-- gadget
-- first
-- toilet
-- brave
-- cream
-- fix
-- actress
-bip_39_word_space_1: sleep
-bip_39_word_space_10: sleep list target join wasp gadget first toilet brave cream
-bip_39_word_space_11: sleep list target join wasp gadget first toilet brave cream
-  fix
 bip_39_word_space_12: sleep list target join wasp gadget first toilet brave cream
   fix actress
 bip_39_word_space_2: sleep list
 bip_39_word_space_3: sleep list target
-bip_39_word_space_4: sleep list target join
-bip_39_word_space_5: sleep list target join wasp
-bip_39_word_space_6: sleep list target join wasp gadget
-bip_39_word_space_7: sleep list target join wasp gadget first
-bip_39_word_space_8: sleep list target join wasp gadget first toilet
-bip_39_word_space_9: sleep list target join wasp gadget first toilet brave
-bip_39_word_underscore_1: sleep
-bip_39_word_underscore_10: sleep_list_target_join_wasp_gadget_first_toilet_brave_cream
-bip_39_word_underscore_11: sleep_list_target_join_wasp_gadget_first_toilet_brave_cream_fix
 bip_39_word_underscore_12: sleep_list_target_join_wasp_gadget_first_toilet_brave_cream_fix_actress
 bip_39_word_underscore_2: sleep_list
 bip_39_word_underscore_3: sleep_list_target
-bip_39_word_underscore_4: sleep_list_target_join
-bip_39_word_underscore_5: sleep_list_target_join_wasp
-bip_39_word_underscore_6: sleep_list_target_join_wasp_gadget
-bip_39_word_underscore_7: sleep_list_target_join_wasp_gadget_first
-bip_39_word_underscore_8: sleep_list_target_join_wasp_gadget_first_toilet
-bip_39_word_underscore_9: sleep_list_target_join_wasp_gadget_first_toilet_brave
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

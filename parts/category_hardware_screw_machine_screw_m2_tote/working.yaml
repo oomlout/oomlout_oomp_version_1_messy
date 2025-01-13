@@ -1,45 +1,9 @@
-bip_39_word_dash_1: mandate
-bip_39_word_dash_10: mandate-crowd-fog-flat-pluck-traffic-sniff-order-robust-spice
 bip_39_word_dash_11: mandate-crowd-fog-flat-pluck-traffic-sniff-order-robust-spice-habit
 bip_39_word_dash_2: mandate-crowd
 bip_39_word_dash_3: mandate-crowd-fog
-bip_39_word_dash_4: mandate-crowd-fog-flat
-bip_39_word_dash_5: mandate-crowd-fog-flat-pluck
-bip_39_word_dash_6: mandate-crowd-fog-flat-pluck-traffic
-bip_39_word_dash_7: mandate-crowd-fog-flat-pluck-traffic-sniff
-bip_39_word_dash_8: mandate-crowd-fog-flat-pluck-traffic-sniff-order
-bip_39_word_dash_9: mandate-crowd-fog-flat-pluck-traffic-sniff-order-robust
-bip_39_word_new_br_1: mandate
-bip_39_word_new_br_10: mandate<br>crowd<br>fog<br>flat<br>pluck<br>traffic<br>sniff<br>order<br>robust<br>spice
 bip_39_word_new_br_11: mandate<br>crowd<br>fog<br>flat<br>pluck<br>traffic<br>sniff<br>order<br>robust<br>spice<br>habit
 bip_39_word_new_br_2: mandate<br>crowd
 bip_39_word_new_br_3: mandate<br>crowd<br>fog
-bip_39_word_new_br_4: mandate<br>crowd<br>fog<br>flat
-bip_39_word_new_br_5: mandate<br>crowd<br>fog<br>flat<br>pluck
-bip_39_word_new_br_6: mandate<br>crowd<br>fog<br>flat<br>pluck<br>traffic
-bip_39_word_new_br_7: mandate<br>crowd<br>fog<br>flat<br>pluck<br>traffic<br>sniff
-bip_39_word_new_br_8: mandate<br>crowd<br>fog<br>flat<br>pluck<br>traffic<br>sniff<br>order
-bip_39_word_new_br_9: mandate<br>crowd<br>fog<br>flat<br>pluck<br>traffic<br>sniff<br>order<br>robust
-bip_39_word_new_line_1: mandate
-bip_39_word_new_line_10: 'mandate
-
-  crowd
-
-  fog
-
-  flat
-
-  pluck
-
-  traffic
-
-  sniff
-
-  order
-
-  robust
-
-  spice'
 bip_39_word_new_line_11: 'mandate
 
   crowd
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'mandate
   crowd
 
   fog'
-bip_39_word_new_line_4: 'mandate
-
-  crowd
-
-  fog
-
-  flat'
-bip_39_word_new_line_5: 'mandate
-
-  crowd
-
-  fog
-
-  flat
-
-  pluck'
-bip_39_word_new_line_6: 'mandate
-
-  crowd
-
-  fog
-
-  flat
-
-  pluck
-
-  traffic'
-bip_39_word_new_line_7: 'mandate
-
-  crowd
-
-  fog
-
-  flat
-
-  pluck
-
-  traffic
-
-  sniff'
-bip_39_word_new_line_8: 'mandate
-
-  crowd
-
-  fog
-
-  flat
-
-  pluck
-
-  traffic
-
-  sniff
-
-  order'
-bip_39_word_new_line_9: 'mandate
-
-  crowd
-
-  fog
-
-  flat
-
-  pluck
-
-  traffic
-
-  sniff
-
-  order
-
-  robust'
-bip_39_word_no_space_1: mandate
-bip_39_word_no_space_10: mandatecrowdfogflatplucktrafficsnifforderrobustspice
 bip_39_word_no_space_11: mandatecrowdfogflatplucktrafficsnifforderrobustspicehabit
 bip_39_word_no_space_2: mandatecrowd
 bip_39_word_no_space_3: mandatecrowdfog
-bip_39_word_no_space_4: mandatecrowdfogflat
-bip_39_word_no_space_5: mandatecrowdfogflatpluck
-bip_39_word_no_space_6: mandatecrowdfogflatplucktraffic
-bip_39_word_no_space_7: mandatecrowdfogflatplucktrafficsniff
-bip_39_word_no_space_8: mandatecrowdfogflatplucktrafficsnifforder
-bip_39_word_no_space_9: mandatecrowdfogflatplucktrafficsnifforderrobust
-bip_39_word_space_0:
-- mandate
-- crowd
-- fog
-- flat
-- pluck
-- traffic
-- sniff
-- order
-- robust
-- spice
-- habit
-bip_39_word_space_1: mandate
-bip_39_word_space_10: mandate crowd fog flat pluck traffic sniff order robust spice
 bip_39_word_space_11: mandate crowd fog flat pluck traffic sniff order robust spice
   habit
 bip_39_word_space_2: mandate crowd
 bip_39_word_space_3: mandate crowd fog
-bip_39_word_space_4: mandate crowd fog flat
-bip_39_word_space_5: mandate crowd fog flat pluck
-bip_39_word_space_6: mandate crowd fog flat pluck traffic
-bip_39_word_space_7: mandate crowd fog flat pluck traffic sniff
-bip_39_word_space_8: mandate crowd fog flat pluck traffic sniff order
-bip_39_word_space_9: mandate crowd fog flat pluck traffic sniff order robust
-bip_39_word_underscore_1: mandate
-bip_39_word_underscore_10: mandate_crowd_fog_flat_pluck_traffic_sniff_order_robust_spice
 bip_39_word_underscore_11: mandate_crowd_fog_flat_pluck_traffic_sniff_order_robust_spice_habit
 bip_39_word_underscore_2: mandate_crowd
 bip_39_word_underscore_3: mandate_crowd_fog
-bip_39_word_underscore_4: mandate_crowd_fog_flat
-bip_39_word_underscore_5: mandate_crowd_fog_flat_pluck
-bip_39_word_underscore_6: mandate_crowd_fog_flat_pluck_traffic
-bip_39_word_underscore_7: mandate_crowd_fog_flat_pluck_traffic_sniff
-bip_39_word_underscore_8: mandate_crowd_fog_flat_pluck_traffic_sniff_order
-bip_39_word_underscore_9: mandate_crowd_fog_flat_pluck_traffic_sniff_order_robust
 classification: category
 classification_capital: Category
 classification_first_letter: c

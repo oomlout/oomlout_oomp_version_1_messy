@@ -1,68 +1,9 @@
-bip_39_word_dash_1: network
-bip_39_word_dash_10: network-keep-insect-among-wave-stick-brother-ankle-beyond-winner
-bip_39_word_dash_11: network-keep-insect-among-wave-stick-brother-ankle-beyond-winner-aware
 bip_39_word_dash_12: network-keep-insect-among-wave-stick-brother-ankle-beyond-winner-aware-actual
 bip_39_word_dash_2: network-keep
 bip_39_word_dash_3: network-keep-insect
-bip_39_word_dash_4: network-keep-insect-among
-bip_39_word_dash_5: network-keep-insect-among-wave
-bip_39_word_dash_6: network-keep-insect-among-wave-stick
-bip_39_word_dash_7: network-keep-insect-among-wave-stick-brother
-bip_39_word_dash_8: network-keep-insect-among-wave-stick-brother-ankle
-bip_39_word_dash_9: network-keep-insect-among-wave-stick-brother-ankle-beyond
-bip_39_word_new_br_1: network
-bip_39_word_new_br_10: network<br>keep<br>insect<br>among<br>wave<br>stick<br>brother<br>ankle<br>beyond<br>winner
-bip_39_word_new_br_11: network<br>keep<br>insect<br>among<br>wave<br>stick<br>brother<br>ankle<br>beyond<br>winner<br>aware
 bip_39_word_new_br_12: network<br>keep<br>insect<br>among<br>wave<br>stick<br>brother<br>ankle<br>beyond<br>winner<br>aware<br>actual
 bip_39_word_new_br_2: network<br>keep
 bip_39_word_new_br_3: network<br>keep<br>insect
-bip_39_word_new_br_4: network<br>keep<br>insect<br>among
-bip_39_word_new_br_5: network<br>keep<br>insect<br>among<br>wave
-bip_39_word_new_br_6: network<br>keep<br>insect<br>among<br>wave<br>stick
-bip_39_word_new_br_7: network<br>keep<br>insect<br>among<br>wave<br>stick<br>brother
-bip_39_word_new_br_8: network<br>keep<br>insect<br>among<br>wave<br>stick<br>brother<br>ankle
-bip_39_word_new_br_9: network<br>keep<br>insect<br>among<br>wave<br>stick<br>brother<br>ankle<br>beyond
-bip_39_word_new_line_1: network
-bip_39_word_new_line_10: 'network
-
-  keep
-
-  insect
-
-  among
-
-  wave
-
-  stick
-
-  brother
-
-  ankle
-
-  beyond
-
-  winner'
-bip_39_word_new_line_11: 'network
-
-  keep
-
-  insect
-
-  among
-
-  wave
-
-  stick
-
-  brother
-
-  ankle
-
-  beyond
-
-  winner
-
-  aware'
 bip_39_word_new_line_12: 'network
 
   keep
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'network
   keep
 
   insect'
-bip_39_word_new_line_4: 'network
-
-  keep
-
-  insect
-
-  among'
-bip_39_word_new_line_5: 'network
-
-  keep
-
-  insect
-
-  among
-
-  wave'
-bip_39_word_new_line_6: 'network
-
-  keep
-
-  insect
-
-  among
-
-  wave
-
-  stick'
-bip_39_word_new_line_7: 'network
-
-  keep
-
-  insect
-
-  among
-
-  wave
-
-  stick
-
-  brother'
-bip_39_word_new_line_8: 'network
-
-  keep
-
-  insect
-
-  among
-
-  wave
-
-  stick
-
-  brother
-
-  ankle'
-bip_39_word_new_line_9: 'network
-
-  keep
-
-  insect
-
-  among
-
-  wave
-
-  stick
-
-  brother
-
-  ankle
-
-  beyond'
-bip_39_word_no_space_1: network
-bip_39_word_no_space_10: networkkeepinsectamongwavestickbrotheranklebeyondwinner
-bip_39_word_no_space_11: networkkeepinsectamongwavestickbrotheranklebeyondwinneraware
 bip_39_word_no_space_12: networkkeepinsectamongwavestickbrotheranklebeyondwinnerawareactual
 bip_39_word_no_space_2: networkkeep
 bip_39_word_no_space_3: networkkeepinsect
-bip_39_word_no_space_4: networkkeepinsectamong
-bip_39_word_no_space_5: networkkeepinsectamongwave
-bip_39_word_no_space_6: networkkeepinsectamongwavestick
-bip_39_word_no_space_7: networkkeepinsectamongwavestickbrother
-bip_39_word_no_space_8: networkkeepinsectamongwavestickbrotherankle
-bip_39_word_no_space_9: networkkeepinsectamongwavestickbrotheranklebeyond
-bip_39_word_space_0:
-- network
-- keep
-- insect
-- among
-- wave
-- stick
-- brother
-- ankle
-- beyond
-- winner
-- aware
-- actual
-bip_39_word_space_1: network
-bip_39_word_space_10: network keep insect among wave stick brother ankle beyond winner
-bip_39_word_space_11: network keep insect among wave stick brother ankle beyond winner
-  aware
 bip_39_word_space_12: network keep insect among wave stick brother ankle beyond winner
   aware actual
 bip_39_word_space_2: network keep
 bip_39_word_space_3: network keep insect
-bip_39_word_space_4: network keep insect among
-bip_39_word_space_5: network keep insect among wave
-bip_39_word_space_6: network keep insect among wave stick
-bip_39_word_space_7: network keep insect among wave stick brother
-bip_39_word_space_8: network keep insect among wave stick brother ankle
-bip_39_word_space_9: network keep insect among wave stick brother ankle beyond
-bip_39_word_underscore_1: network
-bip_39_word_underscore_10: network_keep_insect_among_wave_stick_brother_ankle_beyond_winner
-bip_39_word_underscore_11: network_keep_insect_among_wave_stick_brother_ankle_beyond_winner_aware
 bip_39_word_underscore_12: network_keep_insect_among_wave_stick_brother_ankle_beyond_winner_aware_actual
 bip_39_word_underscore_2: network_keep
 bip_39_word_underscore_3: network_keep_insect
-bip_39_word_underscore_4: network_keep_insect_among
-bip_39_word_underscore_5: network_keep_insect_among_wave
-bip_39_word_underscore_6: network_keep_insect_among_wave_stick
-bip_39_word_underscore_7: network_keep_insect_among_wave_stick_brother
-bip_39_word_underscore_8: network_keep_insect_among_wave_stick_brother_ankle
-bip_39_word_underscore_9: network_keep_insect_among_wave_stick_brother_ankle_beyond
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glove
-bip_39_word_dash_10: glove-stay-wool-predict-mystery-avocado-canal-require-expose-shaft
-bip_39_word_dash_11: glove-stay-wool-predict-mystery-avocado-canal-require-expose-shaft-federal
 bip_39_word_dash_12: glove-stay-wool-predict-mystery-avocado-canal-require-expose-shaft-federal-announce
 bip_39_word_dash_2: glove-stay
 bip_39_word_dash_3: glove-stay-wool
-bip_39_word_dash_4: glove-stay-wool-predict
-bip_39_word_dash_5: glove-stay-wool-predict-mystery
-bip_39_word_dash_6: glove-stay-wool-predict-mystery-avocado
-bip_39_word_dash_7: glove-stay-wool-predict-mystery-avocado-canal
-bip_39_word_dash_8: glove-stay-wool-predict-mystery-avocado-canal-require
-bip_39_word_dash_9: glove-stay-wool-predict-mystery-avocado-canal-require-expose
-bip_39_word_new_br_1: glove
-bip_39_word_new_br_10: glove<br>stay<br>wool<br>predict<br>mystery<br>avocado<br>canal<br>require<br>expose<br>shaft
-bip_39_word_new_br_11: glove<br>stay<br>wool<br>predict<br>mystery<br>avocado<br>canal<br>require<br>expose<br>shaft<br>federal
 bip_39_word_new_br_12: glove<br>stay<br>wool<br>predict<br>mystery<br>avocado<br>canal<br>require<br>expose<br>shaft<br>federal<br>announce
 bip_39_word_new_br_2: glove<br>stay
 bip_39_word_new_br_3: glove<br>stay<br>wool
-bip_39_word_new_br_4: glove<br>stay<br>wool<br>predict
-bip_39_word_new_br_5: glove<br>stay<br>wool<br>predict<br>mystery
-bip_39_word_new_br_6: glove<br>stay<br>wool<br>predict<br>mystery<br>avocado
-bip_39_word_new_br_7: glove<br>stay<br>wool<br>predict<br>mystery<br>avocado<br>canal
-bip_39_word_new_br_8: glove<br>stay<br>wool<br>predict<br>mystery<br>avocado<br>canal<br>require
-bip_39_word_new_br_9: glove<br>stay<br>wool<br>predict<br>mystery<br>avocado<br>canal<br>require<br>expose
-bip_39_word_new_line_1: glove
-bip_39_word_new_line_10: 'glove
-
-  stay
-
-  wool
-
-  predict
-
-  mystery
-
-  avocado
-
-  canal
-
-  require
-
-  expose
-
-  shaft'
-bip_39_word_new_line_11: 'glove
-
-  stay
-
-  wool
-
-  predict
-
-  mystery
-
-  avocado
-
-  canal
-
-  require
-
-  expose
-
-  shaft
-
-  federal'
 bip_39_word_new_line_12: 'glove
 
   stay
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'glove
   stay
 
   wool'
-bip_39_word_new_line_4: 'glove
-
-  stay
-
-  wool
-
-  predict'
-bip_39_word_new_line_5: 'glove
-
-  stay
-
-  wool
-
-  predict
-
-  mystery'
-bip_39_word_new_line_6: 'glove
-
-  stay
-
-  wool
-
-  predict
-
-  mystery
-
-  avocado'
-bip_39_word_new_line_7: 'glove
-
-  stay
-
-  wool
-
-  predict
-
-  mystery
-
-  avocado
-
-  canal'
-bip_39_word_new_line_8: 'glove
-
-  stay
-
-  wool
-
-  predict
-
-  mystery
-
-  avocado
-
-  canal
-
-  require'
-bip_39_word_new_line_9: 'glove
-
-  stay
-
-  wool
-
-  predict
-
-  mystery
-
-  avocado
-
-  canal
-
-  require
-
-  expose'
-bip_39_word_no_space_1: glove
-bip_39_word_no_space_10: glovestaywoolpredictmysteryavocadocanalrequireexposeshaft
-bip_39_word_no_space_11: glovestaywoolpredictmysteryavocadocanalrequireexposeshaftfederal
 bip_39_word_no_space_12: glovestaywoolpredictmysteryavocadocanalrequireexposeshaftfederalannounce
 bip_39_word_no_space_2: glovestay
 bip_39_word_no_space_3: glovestaywool
-bip_39_word_no_space_4: glovestaywoolpredict
-bip_39_word_no_space_5: glovestaywoolpredictmystery
-bip_39_word_no_space_6: glovestaywoolpredictmysteryavocado
-bip_39_word_no_space_7: glovestaywoolpredictmysteryavocadocanal
-bip_39_word_no_space_8: glovestaywoolpredictmysteryavocadocanalrequire
-bip_39_word_no_space_9: glovestaywoolpredictmysteryavocadocanalrequireexpose
-bip_39_word_space_0:
-- glove
-- stay
-- wool
-- predict
-- mystery
-- avocado
-- canal
-- require
-- expose
-- shaft
-- federal
-- announce
-bip_39_word_space_1: glove
-bip_39_word_space_10: glove stay wool predict mystery avocado canal require expose
-  shaft
-bip_39_word_space_11: glove stay wool predict mystery avocado canal require expose
-  shaft federal
 bip_39_word_space_12: glove stay wool predict mystery avocado canal require expose
   shaft federal announce
 bip_39_word_space_2: glove stay
 bip_39_word_space_3: glove stay wool
-bip_39_word_space_4: glove stay wool predict
-bip_39_word_space_5: glove stay wool predict mystery
-bip_39_word_space_6: glove stay wool predict mystery avocado
-bip_39_word_space_7: glove stay wool predict mystery avocado canal
-bip_39_word_space_8: glove stay wool predict mystery avocado canal require
-bip_39_word_space_9: glove stay wool predict mystery avocado canal require expose
-bip_39_word_underscore_1: glove
-bip_39_word_underscore_10: glove_stay_wool_predict_mystery_avocado_canal_require_expose_shaft
-bip_39_word_underscore_11: glove_stay_wool_predict_mystery_avocado_canal_require_expose_shaft_federal
 bip_39_word_underscore_12: glove_stay_wool_predict_mystery_avocado_canal_require_expose_shaft_federal_announce
 bip_39_word_underscore_2: glove_stay
 bip_39_word_underscore_3: glove_stay_wool
-bip_39_word_underscore_4: glove_stay_wool_predict
-bip_39_word_underscore_5: glove_stay_wool_predict_mystery
-bip_39_word_underscore_6: glove_stay_wool_predict_mystery_avocado
-bip_39_word_underscore_7: glove_stay_wool_predict_mystery_avocado_canal
-bip_39_word_underscore_8: glove_stay_wool_predict_mystery_avocado_canal_require
-bip_39_word_underscore_9: glove_stay_wool_predict_mystery_avocado_canal_require_expose
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

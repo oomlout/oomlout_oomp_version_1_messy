@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scheme
-bip_39_word_dash_10: scheme-vehicle-drastic-scissors-assume-coast-trust-cactus-tool-denial
-bip_39_word_dash_11: scheme-vehicle-drastic-scissors-assume-coast-trust-cactus-tool-denial-faith
 bip_39_word_dash_12: scheme-vehicle-drastic-scissors-assume-coast-trust-cactus-tool-denial-faith-air
 bip_39_word_dash_2: scheme-vehicle
 bip_39_word_dash_3: scheme-vehicle-drastic
-bip_39_word_dash_4: scheme-vehicle-drastic-scissors
-bip_39_word_dash_5: scheme-vehicle-drastic-scissors-assume
-bip_39_word_dash_6: scheme-vehicle-drastic-scissors-assume-coast
-bip_39_word_dash_7: scheme-vehicle-drastic-scissors-assume-coast-trust
-bip_39_word_dash_8: scheme-vehicle-drastic-scissors-assume-coast-trust-cactus
-bip_39_word_dash_9: scheme-vehicle-drastic-scissors-assume-coast-trust-cactus-tool
-bip_39_word_new_br_1: scheme
-bip_39_word_new_br_10: scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus<br>tool<br>denial
-bip_39_word_new_br_11: scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus<br>tool<br>denial<br>faith
 bip_39_word_new_br_12: scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus<br>tool<br>denial<br>faith<br>air
 bip_39_word_new_br_2: scheme<br>vehicle
 bip_39_word_new_br_3: scheme<br>vehicle<br>drastic
-bip_39_word_new_br_4: scheme<br>vehicle<br>drastic<br>scissors
-bip_39_word_new_br_5: scheme<br>vehicle<br>drastic<br>scissors<br>assume
-bip_39_word_new_br_6: scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast
-bip_39_word_new_br_7: scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust
-bip_39_word_new_br_8: scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus
-bip_39_word_new_br_9: scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus<br>tool
-bip_39_word_new_line_1: scheme
-bip_39_word_new_line_10: 'scheme
-
-  vehicle
-
-  drastic
-
-  scissors
-
-  assume
-
-  coast
-
-  trust
-
-  cactus
-
-  tool
-
-  denial'
-bip_39_word_new_line_11: 'scheme
-
-  vehicle
-
-  drastic
-
-  scissors
-
-  assume
-
-  coast
-
-  trust
-
-  cactus
-
-  tool
-
-  denial
-
-  faith'
 bip_39_word_new_line_12: 'scheme
 
   vehicle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scheme
   vehicle
 
   drastic'
-bip_39_word_new_line_4: 'scheme
-
-  vehicle
-
-  drastic
-
-  scissors'
-bip_39_word_new_line_5: 'scheme
-
-  vehicle
-
-  drastic
-
-  scissors
-
-  assume'
-bip_39_word_new_line_6: 'scheme
-
-  vehicle
-
-  drastic
-
-  scissors
-
-  assume
-
-  coast'
-bip_39_word_new_line_7: 'scheme
-
-  vehicle
-
-  drastic
-
-  scissors
-
-  assume
-
-  coast
-
-  trust'
-bip_39_word_new_line_8: 'scheme
-
-  vehicle
-
-  drastic
-
-  scissors
-
-  assume
-
-  coast
-
-  trust
-
-  cactus'
-bip_39_word_new_line_9: 'scheme
-
-  vehicle
-
-  drastic
-
-  scissors
-
-  assume
-
-  coast
-
-  trust
-
-  cactus
-
-  tool'
-bip_39_word_no_space_1: scheme
-bip_39_word_no_space_10: schemevehicledrasticscissorsassumecoasttrustcactustooldenial
-bip_39_word_no_space_11: schemevehicledrasticscissorsassumecoasttrustcactustooldenialfaith
 bip_39_word_no_space_12: schemevehicledrasticscissorsassumecoasttrustcactustooldenialfaithair
 bip_39_word_no_space_2: schemevehicle
 bip_39_word_no_space_3: schemevehicledrastic
-bip_39_word_no_space_4: schemevehicledrasticscissors
-bip_39_word_no_space_5: schemevehicledrasticscissorsassume
-bip_39_word_no_space_6: schemevehicledrasticscissorsassumecoast
-bip_39_word_no_space_7: schemevehicledrasticscissorsassumecoasttrust
-bip_39_word_no_space_8: schemevehicledrasticscissorsassumecoasttrustcactus
-bip_39_word_no_space_9: schemevehicledrasticscissorsassumecoasttrustcactustool
-bip_39_word_space_0:
-- scheme
-- vehicle
-- drastic
-- scissors
-- assume
-- coast
-- trust
-- cactus
-- tool
-- denial
-- faith
-- air
-bip_39_word_space_1: scheme
-bip_39_word_space_10: scheme vehicle drastic scissors assume coast trust cactus tool
-  denial
-bip_39_word_space_11: scheme vehicle drastic scissors assume coast trust cactus tool
-  denial faith
 bip_39_word_space_12: scheme vehicle drastic scissors assume coast trust cactus tool
   denial faith air
 bip_39_word_space_2: scheme vehicle
 bip_39_word_space_3: scheme vehicle drastic
-bip_39_word_space_4: scheme vehicle drastic scissors
-bip_39_word_space_5: scheme vehicle drastic scissors assume
-bip_39_word_space_6: scheme vehicle drastic scissors assume coast
-bip_39_word_space_7: scheme vehicle drastic scissors assume coast trust
-bip_39_word_space_8: scheme vehicle drastic scissors assume coast trust cactus
-bip_39_word_space_9: scheme vehicle drastic scissors assume coast trust cactus tool
-bip_39_word_underscore_1: scheme
-bip_39_word_underscore_10: scheme_vehicle_drastic_scissors_assume_coast_trust_cactus_tool_denial
-bip_39_word_underscore_11: scheme_vehicle_drastic_scissors_assume_coast_trust_cactus_tool_denial_faith
 bip_39_word_underscore_12: scheme_vehicle_drastic_scissors_assume_coast_trust_cactus_tool_denial_faith_air
 bip_39_word_underscore_2: scheme_vehicle
 bip_39_word_underscore_3: scheme_vehicle_drastic
-bip_39_word_underscore_4: scheme_vehicle_drastic_scissors
-bip_39_word_underscore_5: scheme_vehicle_drastic_scissors_assume
-bip_39_word_underscore_6: scheme_vehicle_drastic_scissors_assume_coast
-bip_39_word_underscore_7: scheme_vehicle_drastic_scissors_assume_coast_trust
-bip_39_word_underscore_8: scheme_vehicle_drastic_scissors_assume_coast_trust_cactus
-bip_39_word_underscore_9: scheme_vehicle_drastic_scissors_assume_coast_trust_cactus_tool
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

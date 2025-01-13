@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gauge
-bip_39_word_dash_10: gauge-pond-evolve-library-royal-normal-switch-fire-because-oblige
-bip_39_word_dash_11: gauge-pond-evolve-library-royal-normal-switch-fire-because-oblige-east
 bip_39_word_dash_12: gauge-pond-evolve-library-royal-normal-switch-fire-because-oblige-east-action
 bip_39_word_dash_2: gauge-pond
 bip_39_word_dash_3: gauge-pond-evolve
-bip_39_word_dash_4: gauge-pond-evolve-library
-bip_39_word_dash_5: gauge-pond-evolve-library-royal
-bip_39_word_dash_6: gauge-pond-evolve-library-royal-normal
-bip_39_word_dash_7: gauge-pond-evolve-library-royal-normal-switch
-bip_39_word_dash_8: gauge-pond-evolve-library-royal-normal-switch-fire
-bip_39_word_dash_9: gauge-pond-evolve-library-royal-normal-switch-fire-because
-bip_39_word_new_br_1: gauge
-bip_39_word_new_br_10: gauge<br>pond<br>evolve<br>library<br>royal<br>normal<br>switch<br>fire<br>because<br>oblige
-bip_39_word_new_br_11: gauge<br>pond<br>evolve<br>library<br>royal<br>normal<br>switch<br>fire<br>because<br>oblige<br>east
 bip_39_word_new_br_12: gauge<br>pond<br>evolve<br>library<br>royal<br>normal<br>switch<br>fire<br>because<br>oblige<br>east<br>action
 bip_39_word_new_br_2: gauge<br>pond
 bip_39_word_new_br_3: gauge<br>pond<br>evolve
-bip_39_word_new_br_4: gauge<br>pond<br>evolve<br>library
-bip_39_word_new_br_5: gauge<br>pond<br>evolve<br>library<br>royal
-bip_39_word_new_br_6: gauge<br>pond<br>evolve<br>library<br>royal<br>normal
-bip_39_word_new_br_7: gauge<br>pond<br>evolve<br>library<br>royal<br>normal<br>switch
-bip_39_word_new_br_8: gauge<br>pond<br>evolve<br>library<br>royal<br>normal<br>switch<br>fire
-bip_39_word_new_br_9: gauge<br>pond<br>evolve<br>library<br>royal<br>normal<br>switch<br>fire<br>because
-bip_39_word_new_line_1: gauge
-bip_39_word_new_line_10: 'gauge
-
-  pond
-
-  evolve
-
-  library
-
-  royal
-
-  normal
-
-  switch
-
-  fire
-
-  because
-
-  oblige'
-bip_39_word_new_line_11: 'gauge
-
-  pond
-
-  evolve
-
-  library
-
-  royal
-
-  normal
-
-  switch
-
-  fire
-
-  because
-
-  oblige
-
-  east'
 bip_39_word_new_line_12: 'gauge
 
   pond
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gauge
   pond
 
   evolve'
-bip_39_word_new_line_4: 'gauge
-
-  pond
-
-  evolve
-
-  library'
-bip_39_word_new_line_5: 'gauge
-
-  pond
-
-  evolve
-
-  library
-
-  royal'
-bip_39_word_new_line_6: 'gauge
-
-  pond
-
-  evolve
-
-  library
-
-  royal
-
-  normal'
-bip_39_word_new_line_7: 'gauge
-
-  pond
-
-  evolve
-
-  library
-
-  royal
-
-  normal
-
-  switch'
-bip_39_word_new_line_8: 'gauge
-
-  pond
-
-  evolve
-
-  library
-
-  royal
-
-  normal
-
-  switch
-
-  fire'
-bip_39_word_new_line_9: 'gauge
-
-  pond
-
-  evolve
-
-  library
-
-  royal
-
-  normal
-
-  switch
-
-  fire
-
-  because'
-bip_39_word_no_space_1: gauge
-bip_39_word_no_space_10: gaugepondevolvelibraryroyalnormalswitchfirebecauseoblige
-bip_39_word_no_space_11: gaugepondevolvelibraryroyalnormalswitchfirebecauseobligeeast
 bip_39_word_no_space_12: gaugepondevolvelibraryroyalnormalswitchfirebecauseobligeeastaction
 bip_39_word_no_space_2: gaugepond
 bip_39_word_no_space_3: gaugepondevolve
-bip_39_word_no_space_4: gaugepondevolvelibrary
-bip_39_word_no_space_5: gaugepondevolvelibraryroyal
-bip_39_word_no_space_6: gaugepondevolvelibraryroyalnormal
-bip_39_word_no_space_7: gaugepondevolvelibraryroyalnormalswitch
-bip_39_word_no_space_8: gaugepondevolvelibraryroyalnormalswitchfire
-bip_39_word_no_space_9: gaugepondevolvelibraryroyalnormalswitchfirebecause
-bip_39_word_space_0:
-- gauge
-- pond
-- evolve
-- library
-- royal
-- normal
-- switch
-- fire
-- because
-- oblige
-- east
-- action
-bip_39_word_space_1: gauge
-bip_39_word_space_10: gauge pond evolve library royal normal switch fire because oblige
-bip_39_word_space_11: gauge pond evolve library royal normal switch fire because oblige
-  east
 bip_39_word_space_12: gauge pond evolve library royal normal switch fire because oblige
   east action
 bip_39_word_space_2: gauge pond
 bip_39_word_space_3: gauge pond evolve
-bip_39_word_space_4: gauge pond evolve library
-bip_39_word_space_5: gauge pond evolve library royal
-bip_39_word_space_6: gauge pond evolve library royal normal
-bip_39_word_space_7: gauge pond evolve library royal normal switch
-bip_39_word_space_8: gauge pond evolve library royal normal switch fire
-bip_39_word_space_9: gauge pond evolve library royal normal switch fire because
-bip_39_word_underscore_1: gauge
-bip_39_word_underscore_10: gauge_pond_evolve_library_royal_normal_switch_fire_because_oblige
-bip_39_word_underscore_11: gauge_pond_evolve_library_royal_normal_switch_fire_because_oblige_east
 bip_39_word_underscore_12: gauge_pond_evolve_library_royal_normal_switch_fire_because_oblige_east_action
 bip_39_word_underscore_2: gauge_pond
 bip_39_word_underscore_3: gauge_pond_evolve
-bip_39_word_underscore_4: gauge_pond_evolve_library
-bip_39_word_underscore_5: gauge_pond_evolve_library_royal
-bip_39_word_underscore_6: gauge_pond_evolve_library_royal_normal
-bip_39_word_underscore_7: gauge_pond_evolve_library_royal_normal_switch
-bip_39_word_underscore_8: gauge_pond_evolve_library_royal_normal_switch_fire
-bip_39_word_underscore_9: gauge_pond_evolve_library_royal_normal_switch_fire_because
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

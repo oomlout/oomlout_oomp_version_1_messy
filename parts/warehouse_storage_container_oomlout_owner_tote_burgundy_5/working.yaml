@@ -1,68 +1,9 @@
-bip_39_word_dash_1: car
-bip_39_word_dash_10: car-endless-inside-neck-never-nephew-govern-wolf-great-verify
-bip_39_word_dash_11: car-endless-inside-neck-never-nephew-govern-wolf-great-verify-weird
 bip_39_word_dash_12: car-endless-inside-neck-never-nephew-govern-wolf-great-verify-weird-approve
 bip_39_word_dash_2: car-endless
 bip_39_word_dash_3: car-endless-inside
-bip_39_word_dash_4: car-endless-inside-neck
-bip_39_word_dash_5: car-endless-inside-neck-never
-bip_39_word_dash_6: car-endless-inside-neck-never-nephew
-bip_39_word_dash_7: car-endless-inside-neck-never-nephew-govern
-bip_39_word_dash_8: car-endless-inside-neck-never-nephew-govern-wolf
-bip_39_word_dash_9: car-endless-inside-neck-never-nephew-govern-wolf-great
-bip_39_word_new_br_1: car
-bip_39_word_new_br_10: car<br>endless<br>inside<br>neck<br>never<br>nephew<br>govern<br>wolf<br>great<br>verify
-bip_39_word_new_br_11: car<br>endless<br>inside<br>neck<br>never<br>nephew<br>govern<br>wolf<br>great<br>verify<br>weird
 bip_39_word_new_br_12: car<br>endless<br>inside<br>neck<br>never<br>nephew<br>govern<br>wolf<br>great<br>verify<br>weird<br>approve
 bip_39_word_new_br_2: car<br>endless
 bip_39_word_new_br_3: car<br>endless<br>inside
-bip_39_word_new_br_4: car<br>endless<br>inside<br>neck
-bip_39_word_new_br_5: car<br>endless<br>inside<br>neck<br>never
-bip_39_word_new_br_6: car<br>endless<br>inside<br>neck<br>never<br>nephew
-bip_39_word_new_br_7: car<br>endless<br>inside<br>neck<br>never<br>nephew<br>govern
-bip_39_word_new_br_8: car<br>endless<br>inside<br>neck<br>never<br>nephew<br>govern<br>wolf
-bip_39_word_new_br_9: car<br>endless<br>inside<br>neck<br>never<br>nephew<br>govern<br>wolf<br>great
-bip_39_word_new_line_1: car
-bip_39_word_new_line_10: 'car
-
-  endless
-
-  inside
-
-  neck
-
-  never
-
-  nephew
-
-  govern
-
-  wolf
-
-  great
-
-  verify'
-bip_39_word_new_line_11: 'car
-
-  endless
-
-  inside
-
-  neck
-
-  never
-
-  nephew
-
-  govern
-
-  wolf
-
-  great
-
-  verify
-
-  weird'
 bip_39_word_new_line_12: 'car
 
   endless
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'car
   endless
 
   inside'
-bip_39_word_new_line_4: 'car
-
-  endless
-
-  inside
-
-  neck'
-bip_39_word_new_line_5: 'car
-
-  endless
-
-  inside
-
-  neck
-
-  never'
-bip_39_word_new_line_6: 'car
-
-  endless
-
-  inside
-
-  neck
-
-  never
-
-  nephew'
-bip_39_word_new_line_7: 'car
-
-  endless
-
-  inside
-
-  neck
-
-  never
-
-  nephew
-
-  govern'
-bip_39_word_new_line_8: 'car
-
-  endless
-
-  inside
-
-  neck
-
-  never
-
-  nephew
-
-  govern
-
-  wolf'
-bip_39_word_new_line_9: 'car
-
-  endless
-
-  inside
-
-  neck
-
-  never
-
-  nephew
-
-  govern
-
-  wolf
-
-  great'
-bip_39_word_no_space_1: car
-bip_39_word_no_space_10: carendlessinsidenecknevernephewgovernwolfgreatverify
-bip_39_word_no_space_11: carendlessinsidenecknevernephewgovernwolfgreatverifyweird
 bip_39_word_no_space_12: carendlessinsidenecknevernephewgovernwolfgreatverifyweirdapprove
 bip_39_word_no_space_2: carendless
 bip_39_word_no_space_3: carendlessinside
-bip_39_word_no_space_4: carendlessinsideneck
-bip_39_word_no_space_5: carendlessinsidenecknever
-bip_39_word_no_space_6: carendlessinsidenecknevernephew
-bip_39_word_no_space_7: carendlessinsidenecknevernephewgovern
-bip_39_word_no_space_8: carendlessinsidenecknevernephewgovernwolf
-bip_39_word_no_space_9: carendlessinsidenecknevernephewgovernwolfgreat
-bip_39_word_space_0:
-- car
-- endless
-- inside
-- neck
-- never
-- nephew
-- govern
-- wolf
-- great
-- verify
-- weird
-- approve
-bip_39_word_space_1: car
-bip_39_word_space_10: car endless inside neck never nephew govern wolf great verify
-bip_39_word_space_11: car endless inside neck never nephew govern wolf great verify
-  weird
 bip_39_word_space_12: car endless inside neck never nephew govern wolf great verify
   weird approve
 bip_39_word_space_2: car endless
 bip_39_word_space_3: car endless inside
-bip_39_word_space_4: car endless inside neck
-bip_39_word_space_5: car endless inside neck never
-bip_39_word_space_6: car endless inside neck never nephew
-bip_39_word_space_7: car endless inside neck never nephew govern
-bip_39_word_space_8: car endless inside neck never nephew govern wolf
-bip_39_word_space_9: car endless inside neck never nephew govern wolf great
-bip_39_word_underscore_1: car
-bip_39_word_underscore_10: car_endless_inside_neck_never_nephew_govern_wolf_great_verify
-bip_39_word_underscore_11: car_endless_inside_neck_never_nephew_govern_wolf_great_verify_weird
 bip_39_word_underscore_12: car_endless_inside_neck_never_nephew_govern_wolf_great_verify_weird_approve
 bip_39_word_underscore_2: car_endless
 bip_39_word_underscore_3: car_endless_inside
-bip_39_word_underscore_4: car_endless_inside_neck
-bip_39_word_underscore_5: car_endless_inside_neck_never
-bip_39_word_underscore_6: car_endless_inside_neck_never_nephew
-bip_39_word_underscore_7: car_endless_inside_neck_never_nephew_govern
-bip_39_word_underscore_8: car_endless_inside_neck_never_nephew_govern_wolf
-bip_39_word_underscore_9: car_endless_inside_neck_never_nephew_govern_wolf_great
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

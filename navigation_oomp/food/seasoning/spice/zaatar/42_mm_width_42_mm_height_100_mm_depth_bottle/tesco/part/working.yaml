@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vendor
-bip_39_word_dash_10: vendor-pig-sorry-someone-rather-twin-wrestle-donor-issue-cross
-bip_39_word_dash_11: vendor-pig-sorry-someone-rather-twin-wrestle-donor-issue-cross-fragile
 bip_39_word_dash_12: vendor-pig-sorry-someone-rather-twin-wrestle-donor-issue-cross-fragile-amused
 bip_39_word_dash_2: vendor-pig
 bip_39_word_dash_3: vendor-pig-sorry
-bip_39_word_dash_4: vendor-pig-sorry-someone
-bip_39_word_dash_5: vendor-pig-sorry-someone-rather
-bip_39_word_dash_6: vendor-pig-sorry-someone-rather-twin
-bip_39_word_dash_7: vendor-pig-sorry-someone-rather-twin-wrestle
-bip_39_word_dash_8: vendor-pig-sorry-someone-rather-twin-wrestle-donor
-bip_39_word_dash_9: vendor-pig-sorry-someone-rather-twin-wrestle-donor-issue
-bip_39_word_new_br_1: vendor
-bip_39_word_new_br_10: vendor<br>pig<br>sorry<br>someone<br>rather<br>twin<br>wrestle<br>donor<br>issue<br>cross
-bip_39_word_new_br_11: vendor<br>pig<br>sorry<br>someone<br>rather<br>twin<br>wrestle<br>donor<br>issue<br>cross<br>fragile
 bip_39_word_new_br_12: vendor<br>pig<br>sorry<br>someone<br>rather<br>twin<br>wrestle<br>donor<br>issue<br>cross<br>fragile<br>amused
 bip_39_word_new_br_2: vendor<br>pig
 bip_39_word_new_br_3: vendor<br>pig<br>sorry
-bip_39_word_new_br_4: vendor<br>pig<br>sorry<br>someone
-bip_39_word_new_br_5: vendor<br>pig<br>sorry<br>someone<br>rather
-bip_39_word_new_br_6: vendor<br>pig<br>sorry<br>someone<br>rather<br>twin
-bip_39_word_new_br_7: vendor<br>pig<br>sorry<br>someone<br>rather<br>twin<br>wrestle
-bip_39_word_new_br_8: vendor<br>pig<br>sorry<br>someone<br>rather<br>twin<br>wrestle<br>donor
-bip_39_word_new_br_9: vendor<br>pig<br>sorry<br>someone<br>rather<br>twin<br>wrestle<br>donor<br>issue
-bip_39_word_new_line_1: vendor
-bip_39_word_new_line_10: 'vendor
-
-  pig
-
-  sorry
-
-  someone
-
-  rather
-
-  twin
-
-  wrestle
-
-  donor
-
-  issue
-
-  cross'
-bip_39_word_new_line_11: 'vendor
-
-  pig
-
-  sorry
-
-  someone
-
-  rather
-
-  twin
-
-  wrestle
-
-  donor
-
-  issue
-
-  cross
-
-  fragile'
 bip_39_word_new_line_12: 'vendor
 
   pig
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vendor
   pig
 
   sorry'
-bip_39_word_new_line_4: 'vendor
-
-  pig
-
-  sorry
-
-  someone'
-bip_39_word_new_line_5: 'vendor
-
-  pig
-
-  sorry
-
-  someone
-
-  rather'
-bip_39_word_new_line_6: 'vendor
-
-  pig
-
-  sorry
-
-  someone
-
-  rather
-
-  twin'
-bip_39_word_new_line_7: 'vendor
-
-  pig
-
-  sorry
-
-  someone
-
-  rather
-
-  twin
-
-  wrestle'
-bip_39_word_new_line_8: 'vendor
-
-  pig
-
-  sorry
-
-  someone
-
-  rather
-
-  twin
-
-  wrestle
-
-  donor'
-bip_39_word_new_line_9: 'vendor
-
-  pig
-
-  sorry
-
-  someone
-
-  rather
-
-  twin
-
-  wrestle
-
-  donor
-
-  issue'
-bip_39_word_no_space_1: vendor
-bip_39_word_no_space_10: vendorpigsorrysomeonerathertwinwrestledonorissuecross
-bip_39_word_no_space_11: vendorpigsorrysomeonerathertwinwrestledonorissuecrossfragile
 bip_39_word_no_space_12: vendorpigsorrysomeonerathertwinwrestledonorissuecrossfragileamused
 bip_39_word_no_space_2: vendorpig
 bip_39_word_no_space_3: vendorpigsorry
-bip_39_word_no_space_4: vendorpigsorrysomeone
-bip_39_word_no_space_5: vendorpigsorrysomeonerather
-bip_39_word_no_space_6: vendorpigsorrysomeonerathertwin
-bip_39_word_no_space_7: vendorpigsorrysomeonerathertwinwrestle
-bip_39_word_no_space_8: vendorpigsorrysomeonerathertwinwrestledonor
-bip_39_word_no_space_9: vendorpigsorrysomeonerathertwinwrestledonorissue
-bip_39_word_space_0:
-- vendor
-- pig
-- sorry
-- someone
-- rather
-- twin
-- wrestle
-- donor
-- issue
-- cross
-- fragile
-- amused
-bip_39_word_space_1: vendor
-bip_39_word_space_10: vendor pig sorry someone rather twin wrestle donor issue cross
-bip_39_word_space_11: vendor pig sorry someone rather twin wrestle donor issue cross
-  fragile
 bip_39_word_space_12: vendor pig sorry someone rather twin wrestle donor issue cross
   fragile amused
 bip_39_word_space_2: vendor pig
 bip_39_word_space_3: vendor pig sorry
-bip_39_word_space_4: vendor pig sorry someone
-bip_39_word_space_5: vendor pig sorry someone rather
-bip_39_word_space_6: vendor pig sorry someone rather twin
-bip_39_word_space_7: vendor pig sorry someone rather twin wrestle
-bip_39_word_space_8: vendor pig sorry someone rather twin wrestle donor
-bip_39_word_space_9: vendor pig sorry someone rather twin wrestle donor issue
-bip_39_word_underscore_1: vendor
-bip_39_word_underscore_10: vendor_pig_sorry_someone_rather_twin_wrestle_donor_issue_cross
-bip_39_word_underscore_11: vendor_pig_sorry_someone_rather_twin_wrestle_donor_issue_cross_fragile
 bip_39_word_underscore_12: vendor_pig_sorry_someone_rather_twin_wrestle_donor_issue_cross_fragile_amused
 bip_39_word_underscore_2: vendor_pig
 bip_39_word_underscore_3: vendor_pig_sorry
-bip_39_word_underscore_4: vendor_pig_sorry_someone
-bip_39_word_underscore_5: vendor_pig_sorry_someone_rather
-bip_39_word_underscore_6: vendor_pig_sorry_someone_rather_twin
-bip_39_word_underscore_7: vendor_pig_sorry_someone_rather_twin_wrestle
-bip_39_word_underscore_8: vendor_pig_sorry_someone_rather_twin_wrestle_donor
-bip_39_word_underscore_9: vendor_pig_sorry_someone_rather_twin_wrestle_donor_issue
 classification: food
 classification_capital: Food
 classification_first_letter: f

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unhappy
-bip_39_word_dash_10: unhappy-critic-grass-company-grab-rabbit-reform-trade-sauce-effort
-bip_39_word_dash_11: unhappy-critic-grass-company-grab-rabbit-reform-trade-sauce-effort-audit
 bip_39_word_dash_12: unhappy-critic-grass-company-grab-rabbit-reform-trade-sauce-effort-audit-air
 bip_39_word_dash_2: unhappy-critic
 bip_39_word_dash_3: unhappy-critic-grass
-bip_39_word_dash_4: unhappy-critic-grass-company
-bip_39_word_dash_5: unhappy-critic-grass-company-grab
-bip_39_word_dash_6: unhappy-critic-grass-company-grab-rabbit
-bip_39_word_dash_7: unhappy-critic-grass-company-grab-rabbit-reform
-bip_39_word_dash_8: unhappy-critic-grass-company-grab-rabbit-reform-trade
-bip_39_word_dash_9: unhappy-critic-grass-company-grab-rabbit-reform-trade-sauce
-bip_39_word_new_br_1: unhappy
-bip_39_word_new_br_10: unhappy<br>critic<br>grass<br>company<br>grab<br>rabbit<br>reform<br>trade<br>sauce<br>effort
-bip_39_word_new_br_11: unhappy<br>critic<br>grass<br>company<br>grab<br>rabbit<br>reform<br>trade<br>sauce<br>effort<br>audit
 bip_39_word_new_br_12: unhappy<br>critic<br>grass<br>company<br>grab<br>rabbit<br>reform<br>trade<br>sauce<br>effort<br>audit<br>air
 bip_39_word_new_br_2: unhappy<br>critic
 bip_39_word_new_br_3: unhappy<br>critic<br>grass
-bip_39_word_new_br_4: unhappy<br>critic<br>grass<br>company
-bip_39_word_new_br_5: unhappy<br>critic<br>grass<br>company<br>grab
-bip_39_word_new_br_6: unhappy<br>critic<br>grass<br>company<br>grab<br>rabbit
-bip_39_word_new_br_7: unhappy<br>critic<br>grass<br>company<br>grab<br>rabbit<br>reform
-bip_39_word_new_br_8: unhappy<br>critic<br>grass<br>company<br>grab<br>rabbit<br>reform<br>trade
-bip_39_word_new_br_9: unhappy<br>critic<br>grass<br>company<br>grab<br>rabbit<br>reform<br>trade<br>sauce
-bip_39_word_new_line_1: unhappy
-bip_39_word_new_line_10: 'unhappy
-
-  critic
-
-  grass
-
-  company
-
-  grab
-
-  rabbit
-
-  reform
-
-  trade
-
-  sauce
-
-  effort'
-bip_39_word_new_line_11: 'unhappy
-
-  critic
-
-  grass
-
-  company
-
-  grab
-
-  rabbit
-
-  reform
-
-  trade
-
-  sauce
-
-  effort
-
-  audit'
 bip_39_word_new_line_12: 'unhappy
 
   critic
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'unhappy
   critic
 
   grass'
-bip_39_word_new_line_4: 'unhappy
-
-  critic
-
-  grass
-
-  company'
-bip_39_word_new_line_5: 'unhappy
-
-  critic
-
-  grass
-
-  company
-
-  grab'
-bip_39_word_new_line_6: 'unhappy
-
-  critic
-
-  grass
-
-  company
-
-  grab
-
-  rabbit'
-bip_39_word_new_line_7: 'unhappy
-
-  critic
-
-  grass
-
-  company
-
-  grab
-
-  rabbit
-
-  reform'
-bip_39_word_new_line_8: 'unhappy
-
-  critic
-
-  grass
-
-  company
-
-  grab
-
-  rabbit
-
-  reform
-
-  trade'
-bip_39_word_new_line_9: 'unhappy
-
-  critic
-
-  grass
-
-  company
-
-  grab
-
-  rabbit
-
-  reform
-
-  trade
-
-  sauce'
-bip_39_word_no_space_1: unhappy
-bip_39_word_no_space_10: unhappycriticgrasscompanygrabrabbitreformtradesauceeffort
-bip_39_word_no_space_11: unhappycriticgrasscompanygrabrabbitreformtradesauceeffortaudit
 bip_39_word_no_space_12: unhappycriticgrasscompanygrabrabbitreformtradesauceeffortauditair
 bip_39_word_no_space_2: unhappycritic
 bip_39_word_no_space_3: unhappycriticgrass
-bip_39_word_no_space_4: unhappycriticgrasscompany
-bip_39_word_no_space_5: unhappycriticgrasscompanygrab
-bip_39_word_no_space_6: unhappycriticgrasscompanygrabrabbit
-bip_39_word_no_space_7: unhappycriticgrasscompanygrabrabbitreform
-bip_39_word_no_space_8: unhappycriticgrasscompanygrabrabbitreformtrade
-bip_39_word_no_space_9: unhappycriticgrasscompanygrabrabbitreformtradesauce
-bip_39_word_space_0:
-- unhappy
-- critic
-- grass
-- company
-- grab
-- rabbit
-- reform
-- trade
-- sauce
-- effort
-- audit
-- air
-bip_39_word_space_1: unhappy
-bip_39_word_space_10: unhappy critic grass company grab rabbit reform trade sauce
-  effort
-bip_39_word_space_11: unhappy critic grass company grab rabbit reform trade sauce
-  effort audit
 bip_39_word_space_12: unhappy critic grass company grab rabbit reform trade sauce
   effort audit air
 bip_39_word_space_2: unhappy critic
 bip_39_word_space_3: unhappy critic grass
-bip_39_word_space_4: unhappy critic grass company
-bip_39_word_space_5: unhappy critic grass company grab
-bip_39_word_space_6: unhappy critic grass company grab rabbit
-bip_39_word_space_7: unhappy critic grass company grab rabbit reform
-bip_39_word_space_8: unhappy critic grass company grab rabbit reform trade
-bip_39_word_space_9: unhappy critic grass company grab rabbit reform trade sauce
-bip_39_word_underscore_1: unhappy
-bip_39_word_underscore_10: unhappy_critic_grass_company_grab_rabbit_reform_trade_sauce_effort
-bip_39_word_underscore_11: unhappy_critic_grass_company_grab_rabbit_reform_trade_sauce_effort_audit
 bip_39_word_underscore_12: unhappy_critic_grass_company_grab_rabbit_reform_trade_sauce_effort_audit_air
 bip_39_word_underscore_2: unhappy_critic
 bip_39_word_underscore_3: unhappy_critic_grass
-bip_39_word_underscore_4: unhappy_critic_grass_company
-bip_39_word_underscore_5: unhappy_critic_grass_company_grab
-bip_39_word_underscore_6: unhappy_critic_grass_company_grab_rabbit
-bip_39_word_underscore_7: unhappy_critic_grass_company_grab_rabbit_reform
-bip_39_word_underscore_8: unhappy_critic_grass_company_grab_rabbit_reform_trade
-bip_39_word_underscore_9: unhappy_critic_grass_company_grab_rabbit_reform_trade_sauce
 classification: category
 classification_capital: Category
 classification_first_letter: c

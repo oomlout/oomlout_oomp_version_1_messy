@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sense
-bip_39_word_dash_10: sense-dial-release-ignore-forest-minimum-tumble-gossip-iron-update
-bip_39_word_dash_11: sense-dial-release-ignore-forest-minimum-tumble-gossip-iron-update-struggle
 bip_39_word_dash_12: sense-dial-release-ignore-forest-minimum-tumble-gossip-iron-update-struggle-attitude
 bip_39_word_dash_2: sense-dial
 bip_39_word_dash_3: sense-dial-release
-bip_39_word_dash_4: sense-dial-release-ignore
-bip_39_word_dash_5: sense-dial-release-ignore-forest
-bip_39_word_dash_6: sense-dial-release-ignore-forest-minimum
-bip_39_word_dash_7: sense-dial-release-ignore-forest-minimum-tumble
-bip_39_word_dash_8: sense-dial-release-ignore-forest-minimum-tumble-gossip
-bip_39_word_dash_9: sense-dial-release-ignore-forest-minimum-tumble-gossip-iron
-bip_39_word_new_br_1: sense
-bip_39_word_new_br_10: sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update
-bip_39_word_new_br_11: sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update<br>struggle
 bip_39_word_new_br_12: sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron<br>update<br>struggle<br>attitude
 bip_39_word_new_br_2: sense<br>dial
 bip_39_word_new_br_3: sense<br>dial<br>release
-bip_39_word_new_br_4: sense<br>dial<br>release<br>ignore
-bip_39_word_new_br_5: sense<br>dial<br>release<br>ignore<br>forest
-bip_39_word_new_br_6: sense<br>dial<br>release<br>ignore<br>forest<br>minimum
-bip_39_word_new_br_7: sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble
-bip_39_word_new_br_8: sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip
-bip_39_word_new_br_9: sense<br>dial<br>release<br>ignore<br>forest<br>minimum<br>tumble<br>gossip<br>iron
-bip_39_word_new_line_1: sense
-bip_39_word_new_line_10: 'sense
-
-  dial
-
-  release
-
-  ignore
-
-  forest
-
-  minimum
-
-  tumble
-
-  gossip
-
-  iron
-
-  update'
-bip_39_word_new_line_11: 'sense
-
-  dial
-
-  release
-
-  ignore
-
-  forest
-
-  minimum
-
-  tumble
-
-  gossip
-
-  iron
-
-  update
-
-  struggle'
 bip_39_word_new_line_12: 'sense
 
   dial
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sense
   dial
 
   release'
-bip_39_word_new_line_4: 'sense
-
-  dial
-
-  release
-
-  ignore'
-bip_39_word_new_line_5: 'sense
-
-  dial
-
-  release
-
-  ignore
-
-  forest'
-bip_39_word_new_line_6: 'sense
-
-  dial
-
-  release
-
-  ignore
-
-  forest
-
-  minimum'
-bip_39_word_new_line_7: 'sense
-
-  dial
-
-  release
-
-  ignore
-
-  forest
-
-  minimum
-
-  tumble'
-bip_39_word_new_line_8: 'sense
-
-  dial
-
-  release
-
-  ignore
-
-  forest
-
-  minimum
-
-  tumble
-
-  gossip'
-bip_39_word_new_line_9: 'sense
-
-  dial
-
-  release
-
-  ignore
-
-  forest
-
-  minimum
-
-  tumble
-
-  gossip
-
-  iron'
-bip_39_word_no_space_1: sense
-bip_39_word_no_space_10: sensedialreleaseignoreforestminimumtumblegossipironupdate
-bip_39_word_no_space_11: sensedialreleaseignoreforestminimumtumblegossipironupdatestruggle
 bip_39_word_no_space_12: sensedialreleaseignoreforestminimumtumblegossipironupdatestruggleattitude
 bip_39_word_no_space_2: sensedial
 bip_39_word_no_space_3: sensedialrelease
-bip_39_word_no_space_4: sensedialreleaseignore
-bip_39_word_no_space_5: sensedialreleaseignoreforest
-bip_39_word_no_space_6: sensedialreleaseignoreforestminimum
-bip_39_word_no_space_7: sensedialreleaseignoreforestminimumtumble
-bip_39_word_no_space_8: sensedialreleaseignoreforestminimumtumblegossip
-bip_39_word_no_space_9: sensedialreleaseignoreforestminimumtumblegossipiron
-bip_39_word_space_0:
-- sense
-- dial
-- release
-- ignore
-- forest
-- minimum
-- tumble
-- gossip
-- iron
-- update
-- struggle
-- attitude
-bip_39_word_space_1: sense
-bip_39_word_space_10: sense dial release ignore forest minimum tumble gossip iron
-  update
-bip_39_word_space_11: sense dial release ignore forest minimum tumble gossip iron
-  update struggle
 bip_39_word_space_12: sense dial release ignore forest minimum tumble gossip iron
   update struggle attitude
 bip_39_word_space_2: sense dial
 bip_39_word_space_3: sense dial release
-bip_39_word_space_4: sense dial release ignore
-bip_39_word_space_5: sense dial release ignore forest
-bip_39_word_space_6: sense dial release ignore forest minimum
-bip_39_word_space_7: sense dial release ignore forest minimum tumble
-bip_39_word_space_8: sense dial release ignore forest minimum tumble gossip
-bip_39_word_space_9: sense dial release ignore forest minimum tumble gossip iron
-bip_39_word_underscore_1: sense
-bip_39_word_underscore_10: sense_dial_release_ignore_forest_minimum_tumble_gossip_iron_update
-bip_39_word_underscore_11: sense_dial_release_ignore_forest_minimum_tumble_gossip_iron_update_struggle
 bip_39_word_underscore_12: sense_dial_release_ignore_forest_minimum_tumble_gossip_iron_update_struggle_attitude
 bip_39_word_underscore_2: sense_dial
 bip_39_word_underscore_3: sense_dial_release
-bip_39_word_underscore_4: sense_dial_release_ignore
-bip_39_word_underscore_5: sense_dial_release_ignore_forest
-bip_39_word_underscore_6: sense_dial_release_ignore_forest_minimum
-bip_39_word_underscore_7: sense_dial_release_ignore_forest_minimum_tumble
-bip_39_word_underscore_8: sense_dial_release_ignore_forest_minimum_tumble_gossip
-bip_39_word_underscore_9: sense_dial_release_ignore_forest_minimum_tumble_gossip_iron
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

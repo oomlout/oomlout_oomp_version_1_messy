@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trade
-bip_39_word_dash_10: trade-loop-bleak-poet-duty-affair-industry-lucky-stairs-dignity
-bip_39_word_dash_11: trade-loop-bleak-poet-duty-affair-industry-lucky-stairs-dignity-gown
 bip_39_word_dash_12: trade-loop-bleak-poet-duty-affair-industry-lucky-stairs-dignity-gown-anger
 bip_39_word_dash_2: trade-loop
 bip_39_word_dash_3: trade-loop-bleak
-bip_39_word_dash_4: trade-loop-bleak-poet
-bip_39_word_dash_5: trade-loop-bleak-poet-duty
-bip_39_word_dash_6: trade-loop-bleak-poet-duty-affair
-bip_39_word_dash_7: trade-loop-bleak-poet-duty-affair-industry
-bip_39_word_dash_8: trade-loop-bleak-poet-duty-affair-industry-lucky
-bip_39_word_dash_9: trade-loop-bleak-poet-duty-affair-industry-lucky-stairs
-bip_39_word_new_br_1: trade
-bip_39_word_new_br_10: trade<br>loop<br>bleak<br>poet<br>duty<br>affair<br>industry<br>lucky<br>stairs<br>dignity
-bip_39_word_new_br_11: trade<br>loop<br>bleak<br>poet<br>duty<br>affair<br>industry<br>lucky<br>stairs<br>dignity<br>gown
 bip_39_word_new_br_12: trade<br>loop<br>bleak<br>poet<br>duty<br>affair<br>industry<br>lucky<br>stairs<br>dignity<br>gown<br>anger
 bip_39_word_new_br_2: trade<br>loop
 bip_39_word_new_br_3: trade<br>loop<br>bleak
-bip_39_word_new_br_4: trade<br>loop<br>bleak<br>poet
-bip_39_word_new_br_5: trade<br>loop<br>bleak<br>poet<br>duty
-bip_39_word_new_br_6: trade<br>loop<br>bleak<br>poet<br>duty<br>affair
-bip_39_word_new_br_7: trade<br>loop<br>bleak<br>poet<br>duty<br>affair<br>industry
-bip_39_word_new_br_8: trade<br>loop<br>bleak<br>poet<br>duty<br>affair<br>industry<br>lucky
-bip_39_word_new_br_9: trade<br>loop<br>bleak<br>poet<br>duty<br>affair<br>industry<br>lucky<br>stairs
-bip_39_word_new_line_1: trade
-bip_39_word_new_line_10: 'trade
-
-  loop
-
-  bleak
-
-  poet
-
-  duty
-
-  affair
-
-  industry
-
-  lucky
-
-  stairs
-
-  dignity'
-bip_39_word_new_line_11: 'trade
-
-  loop
-
-  bleak
-
-  poet
-
-  duty
-
-  affair
-
-  industry
-
-  lucky
-
-  stairs
-
-  dignity
-
-  gown'
 bip_39_word_new_line_12: 'trade
 
   loop
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'trade
   loop
 
   bleak'
-bip_39_word_new_line_4: 'trade
-
-  loop
-
-  bleak
-
-  poet'
-bip_39_word_new_line_5: 'trade
-
-  loop
-
-  bleak
-
-  poet
-
-  duty'
-bip_39_word_new_line_6: 'trade
-
-  loop
-
-  bleak
-
-  poet
-
-  duty
-
-  affair'
-bip_39_word_new_line_7: 'trade
-
-  loop
-
-  bleak
-
-  poet
-
-  duty
-
-  affair
-
-  industry'
-bip_39_word_new_line_8: 'trade
-
-  loop
-
-  bleak
-
-  poet
-
-  duty
-
-  affair
-
-  industry
-
-  lucky'
-bip_39_word_new_line_9: 'trade
-
-  loop
-
-  bleak
-
-  poet
-
-  duty
-
-  affair
-
-  industry
-
-  lucky
-
-  stairs'
-bip_39_word_no_space_1: trade
-bip_39_word_no_space_10: tradeloopbleakpoetdutyaffairindustryluckystairsdignity
-bip_39_word_no_space_11: tradeloopbleakpoetdutyaffairindustryluckystairsdignitygown
 bip_39_word_no_space_12: tradeloopbleakpoetdutyaffairindustryluckystairsdignitygownanger
 bip_39_word_no_space_2: tradeloop
 bip_39_word_no_space_3: tradeloopbleak
-bip_39_word_no_space_4: tradeloopbleakpoet
-bip_39_word_no_space_5: tradeloopbleakpoetduty
-bip_39_word_no_space_6: tradeloopbleakpoetdutyaffair
-bip_39_word_no_space_7: tradeloopbleakpoetdutyaffairindustry
-bip_39_word_no_space_8: tradeloopbleakpoetdutyaffairindustrylucky
-bip_39_word_no_space_9: tradeloopbleakpoetdutyaffairindustryluckystairs
-bip_39_word_space_0:
-- trade
-- loop
-- bleak
-- poet
-- duty
-- affair
-- industry
-- lucky
-- stairs
-- dignity
-- gown
-- anger
-bip_39_word_space_1: trade
-bip_39_word_space_10: trade loop bleak poet duty affair industry lucky stairs dignity
-bip_39_word_space_11: trade loop bleak poet duty affair industry lucky stairs dignity
-  gown
 bip_39_word_space_12: trade loop bleak poet duty affair industry lucky stairs dignity
   gown anger
 bip_39_word_space_2: trade loop
 bip_39_word_space_3: trade loop bleak
-bip_39_word_space_4: trade loop bleak poet
-bip_39_word_space_5: trade loop bleak poet duty
-bip_39_word_space_6: trade loop bleak poet duty affair
-bip_39_word_space_7: trade loop bleak poet duty affair industry
-bip_39_word_space_8: trade loop bleak poet duty affair industry lucky
-bip_39_word_space_9: trade loop bleak poet duty affair industry lucky stairs
-bip_39_word_underscore_1: trade
-bip_39_word_underscore_10: trade_loop_bleak_poet_duty_affair_industry_lucky_stairs_dignity
-bip_39_word_underscore_11: trade_loop_bleak_poet_duty_affair_industry_lucky_stairs_dignity_gown
 bip_39_word_underscore_12: trade_loop_bleak_poet_duty_affair_industry_lucky_stairs_dignity_gown_anger
 bip_39_word_underscore_2: trade_loop
 bip_39_word_underscore_3: trade_loop_bleak
-bip_39_word_underscore_4: trade_loop_bleak_poet
-bip_39_word_underscore_5: trade_loop_bleak_poet_duty
-bip_39_word_underscore_6: trade_loop_bleak_poet_duty_affair
-bip_39_word_underscore_7: trade_loop_bleak_poet_duty_affair_industry
-bip_39_word_underscore_8: trade_loop_bleak_poet_duty_affair_industry_lucky
-bip_39_word_underscore_9: trade_loop_bleak_poet_duty_affair_industry_lucky_stairs
 classification: category
 classification_capital: Category
 classification_first_letter: c

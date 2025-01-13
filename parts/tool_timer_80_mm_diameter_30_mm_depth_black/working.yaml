@@ -1,68 +1,9 @@
-bip_39_word_dash_1: head
-bip_39_word_dash_10: head-must-donor-aisle-sleep-steel-hotel-execute-uniform-belt
-bip_39_word_dash_11: head-must-donor-aisle-sleep-steel-hotel-execute-uniform-belt-antenna
 bip_39_word_dash_12: head-must-donor-aisle-sleep-steel-hotel-execute-uniform-belt-antenna-address
 bip_39_word_dash_2: head-must
 bip_39_word_dash_3: head-must-donor
-bip_39_word_dash_4: head-must-donor-aisle
-bip_39_word_dash_5: head-must-donor-aisle-sleep
-bip_39_word_dash_6: head-must-donor-aisle-sleep-steel
-bip_39_word_dash_7: head-must-donor-aisle-sleep-steel-hotel
-bip_39_word_dash_8: head-must-donor-aisle-sleep-steel-hotel-execute
-bip_39_word_dash_9: head-must-donor-aisle-sleep-steel-hotel-execute-uniform
-bip_39_word_new_br_1: head
-bip_39_word_new_br_10: head<br>must<br>donor<br>aisle<br>sleep<br>steel<br>hotel<br>execute<br>uniform<br>belt
-bip_39_word_new_br_11: head<br>must<br>donor<br>aisle<br>sleep<br>steel<br>hotel<br>execute<br>uniform<br>belt<br>antenna
 bip_39_word_new_br_12: head<br>must<br>donor<br>aisle<br>sleep<br>steel<br>hotel<br>execute<br>uniform<br>belt<br>antenna<br>address
 bip_39_word_new_br_2: head<br>must
 bip_39_word_new_br_3: head<br>must<br>donor
-bip_39_word_new_br_4: head<br>must<br>donor<br>aisle
-bip_39_word_new_br_5: head<br>must<br>donor<br>aisle<br>sleep
-bip_39_word_new_br_6: head<br>must<br>donor<br>aisle<br>sleep<br>steel
-bip_39_word_new_br_7: head<br>must<br>donor<br>aisle<br>sleep<br>steel<br>hotel
-bip_39_word_new_br_8: head<br>must<br>donor<br>aisle<br>sleep<br>steel<br>hotel<br>execute
-bip_39_word_new_br_9: head<br>must<br>donor<br>aisle<br>sleep<br>steel<br>hotel<br>execute<br>uniform
-bip_39_word_new_line_1: head
-bip_39_word_new_line_10: 'head
-
-  must
-
-  donor
-
-  aisle
-
-  sleep
-
-  steel
-
-  hotel
-
-  execute
-
-  uniform
-
-  belt'
-bip_39_word_new_line_11: 'head
-
-  must
-
-  donor
-
-  aisle
-
-  sleep
-
-  steel
-
-  hotel
-
-  execute
-
-  uniform
-
-  belt
-
-  antenna'
 bip_39_word_new_line_12: 'head
 
   must
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'head
   must
 
   donor'
-bip_39_word_new_line_4: 'head
-
-  must
-
-  donor
-
-  aisle'
-bip_39_word_new_line_5: 'head
-
-  must
-
-  donor
-
-  aisle
-
-  sleep'
-bip_39_word_new_line_6: 'head
-
-  must
-
-  donor
-
-  aisle
-
-  sleep
-
-  steel'
-bip_39_word_new_line_7: 'head
-
-  must
-
-  donor
-
-  aisle
-
-  sleep
-
-  steel
-
-  hotel'
-bip_39_word_new_line_8: 'head
-
-  must
-
-  donor
-
-  aisle
-
-  sleep
-
-  steel
-
-  hotel
-
-  execute'
-bip_39_word_new_line_9: 'head
-
-  must
-
-  donor
-
-  aisle
-
-  sleep
-
-  steel
-
-  hotel
-
-  execute
-
-  uniform'
-bip_39_word_no_space_1: head
-bip_39_word_no_space_10: headmustdonoraislesleepsteelhotelexecuteuniformbelt
-bip_39_word_no_space_11: headmustdonoraislesleepsteelhotelexecuteuniformbeltantenna
 bip_39_word_no_space_12: headmustdonoraislesleepsteelhotelexecuteuniformbeltantennaaddress
 bip_39_word_no_space_2: headmust
 bip_39_word_no_space_3: headmustdonor
-bip_39_word_no_space_4: headmustdonoraisle
-bip_39_word_no_space_5: headmustdonoraislesleep
-bip_39_word_no_space_6: headmustdonoraislesleepsteel
-bip_39_word_no_space_7: headmustdonoraislesleepsteelhotel
-bip_39_word_no_space_8: headmustdonoraislesleepsteelhotelexecute
-bip_39_word_no_space_9: headmustdonoraislesleepsteelhotelexecuteuniform
-bip_39_word_space_0:
-- head
-- must
-- donor
-- aisle
-- sleep
-- steel
-- hotel
-- execute
-- uniform
-- belt
-- antenna
-- address
-bip_39_word_space_1: head
-bip_39_word_space_10: head must donor aisle sleep steel hotel execute uniform belt
-bip_39_word_space_11: head must donor aisle sleep steel hotel execute uniform belt
-  antenna
 bip_39_word_space_12: head must donor aisle sleep steel hotel execute uniform belt
   antenna address
 bip_39_word_space_2: head must
 bip_39_word_space_3: head must donor
-bip_39_word_space_4: head must donor aisle
-bip_39_word_space_5: head must donor aisle sleep
-bip_39_word_space_6: head must donor aisle sleep steel
-bip_39_word_space_7: head must donor aisle sleep steel hotel
-bip_39_word_space_8: head must donor aisle sleep steel hotel execute
-bip_39_word_space_9: head must donor aisle sleep steel hotel execute uniform
-bip_39_word_underscore_1: head
-bip_39_word_underscore_10: head_must_donor_aisle_sleep_steel_hotel_execute_uniform_belt
-bip_39_word_underscore_11: head_must_donor_aisle_sleep_steel_hotel_execute_uniform_belt_antenna
 bip_39_word_underscore_12: head_must_donor_aisle_sleep_steel_hotel_execute_uniform_belt_antenna_address
 bip_39_word_underscore_2: head_must
 bip_39_word_underscore_3: head_must_donor
-bip_39_word_underscore_4: head_must_donor_aisle
-bip_39_word_underscore_5: head_must_donor_aisle_sleep
-bip_39_word_underscore_6: head_must_donor_aisle_sleep_steel
-bip_39_word_underscore_7: head_must_donor_aisle_sleep_steel_hotel
-bip_39_word_underscore_8: head_must_donor_aisle_sleep_steel_hotel_execute
-bip_39_word_underscore_9: head_must_donor_aisle_sleep_steel_hotel_execute_uniform
 classification: tool
 classification_capital: Tool
 classification_first_letter: t

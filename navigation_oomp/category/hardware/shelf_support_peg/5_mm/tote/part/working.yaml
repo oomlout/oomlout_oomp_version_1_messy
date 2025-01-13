@@ -1,68 +1,9 @@
-bip_39_word_dash_1: book
-bip_39_word_dash_10: book-chunk-kangaroo-this-pigeon-easily-vacuum-siren-winner-impulse
-bip_39_word_dash_11: book-chunk-kangaroo-this-pigeon-easily-vacuum-siren-winner-impulse-open
 bip_39_word_dash_12: book-chunk-kangaroo-this-pigeon-easily-vacuum-siren-winner-impulse-open-arm
 bip_39_word_dash_2: book-chunk
 bip_39_word_dash_3: book-chunk-kangaroo
-bip_39_word_dash_4: book-chunk-kangaroo-this
-bip_39_word_dash_5: book-chunk-kangaroo-this-pigeon
-bip_39_word_dash_6: book-chunk-kangaroo-this-pigeon-easily
-bip_39_word_dash_7: book-chunk-kangaroo-this-pigeon-easily-vacuum
-bip_39_word_dash_8: book-chunk-kangaroo-this-pigeon-easily-vacuum-siren
-bip_39_word_dash_9: book-chunk-kangaroo-this-pigeon-easily-vacuum-siren-winner
-bip_39_word_new_br_1: book
-bip_39_word_new_br_10: book<br>chunk<br>kangaroo<br>this<br>pigeon<br>easily<br>vacuum<br>siren<br>winner<br>impulse
-bip_39_word_new_br_11: book<br>chunk<br>kangaroo<br>this<br>pigeon<br>easily<br>vacuum<br>siren<br>winner<br>impulse<br>open
 bip_39_word_new_br_12: book<br>chunk<br>kangaroo<br>this<br>pigeon<br>easily<br>vacuum<br>siren<br>winner<br>impulse<br>open<br>arm
 bip_39_word_new_br_2: book<br>chunk
 bip_39_word_new_br_3: book<br>chunk<br>kangaroo
-bip_39_word_new_br_4: book<br>chunk<br>kangaroo<br>this
-bip_39_word_new_br_5: book<br>chunk<br>kangaroo<br>this<br>pigeon
-bip_39_word_new_br_6: book<br>chunk<br>kangaroo<br>this<br>pigeon<br>easily
-bip_39_word_new_br_7: book<br>chunk<br>kangaroo<br>this<br>pigeon<br>easily<br>vacuum
-bip_39_word_new_br_8: book<br>chunk<br>kangaroo<br>this<br>pigeon<br>easily<br>vacuum<br>siren
-bip_39_word_new_br_9: book<br>chunk<br>kangaroo<br>this<br>pigeon<br>easily<br>vacuum<br>siren<br>winner
-bip_39_word_new_line_1: book
-bip_39_word_new_line_10: 'book
-
-  chunk
-
-  kangaroo
-
-  this
-
-  pigeon
-
-  easily
-
-  vacuum
-
-  siren
-
-  winner
-
-  impulse'
-bip_39_word_new_line_11: 'book
-
-  chunk
-
-  kangaroo
-
-  this
-
-  pigeon
-
-  easily
-
-  vacuum
-
-  siren
-
-  winner
-
-  impulse
-
-  open'
 bip_39_word_new_line_12: 'book
 
   chunk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'book
   chunk
 
   kangaroo'
-bip_39_word_new_line_4: 'book
-
-  chunk
-
-  kangaroo
-
-  this'
-bip_39_word_new_line_5: 'book
-
-  chunk
-
-  kangaroo
-
-  this
-
-  pigeon'
-bip_39_word_new_line_6: 'book
-
-  chunk
-
-  kangaroo
-
-  this
-
-  pigeon
-
-  easily'
-bip_39_word_new_line_7: 'book
-
-  chunk
-
-  kangaroo
-
-  this
-
-  pigeon
-
-  easily
-
-  vacuum'
-bip_39_word_new_line_8: 'book
-
-  chunk
-
-  kangaroo
-
-  this
-
-  pigeon
-
-  easily
-
-  vacuum
-
-  siren'
-bip_39_word_new_line_9: 'book
-
-  chunk
-
-  kangaroo
-
-  this
-
-  pigeon
-
-  easily
-
-  vacuum
-
-  siren
-
-  winner'
-bip_39_word_no_space_1: book
-bip_39_word_no_space_10: bookchunkkangaroothispigeoneasilyvacuumsirenwinnerimpulse
-bip_39_word_no_space_11: bookchunkkangaroothispigeoneasilyvacuumsirenwinnerimpulseopen
 bip_39_word_no_space_12: bookchunkkangaroothispigeoneasilyvacuumsirenwinnerimpulseopenarm
 bip_39_word_no_space_2: bookchunk
 bip_39_word_no_space_3: bookchunkkangaroo
-bip_39_word_no_space_4: bookchunkkangaroothis
-bip_39_word_no_space_5: bookchunkkangaroothispigeon
-bip_39_word_no_space_6: bookchunkkangaroothispigeoneasily
-bip_39_word_no_space_7: bookchunkkangaroothispigeoneasilyvacuum
-bip_39_word_no_space_8: bookchunkkangaroothispigeoneasilyvacuumsiren
-bip_39_word_no_space_9: bookchunkkangaroothispigeoneasilyvacuumsirenwinner
-bip_39_word_space_0:
-- book
-- chunk
-- kangaroo
-- this
-- pigeon
-- easily
-- vacuum
-- siren
-- winner
-- impulse
-- open
-- arm
-bip_39_word_space_1: book
-bip_39_word_space_10: book chunk kangaroo this pigeon easily vacuum siren winner impulse
-bip_39_word_space_11: book chunk kangaroo this pigeon easily vacuum siren winner impulse
-  open
 bip_39_word_space_12: book chunk kangaroo this pigeon easily vacuum siren winner impulse
   open arm
 bip_39_word_space_2: book chunk
 bip_39_word_space_3: book chunk kangaroo
-bip_39_word_space_4: book chunk kangaroo this
-bip_39_word_space_5: book chunk kangaroo this pigeon
-bip_39_word_space_6: book chunk kangaroo this pigeon easily
-bip_39_word_space_7: book chunk kangaroo this pigeon easily vacuum
-bip_39_word_space_8: book chunk kangaroo this pigeon easily vacuum siren
-bip_39_word_space_9: book chunk kangaroo this pigeon easily vacuum siren winner
-bip_39_word_underscore_1: book
-bip_39_word_underscore_10: book_chunk_kangaroo_this_pigeon_easily_vacuum_siren_winner_impulse
-bip_39_word_underscore_11: book_chunk_kangaroo_this_pigeon_easily_vacuum_siren_winner_impulse_open
 bip_39_word_underscore_12: book_chunk_kangaroo_this_pigeon_easily_vacuum_siren_winner_impulse_open_arm
 bip_39_word_underscore_2: book_chunk
 bip_39_word_underscore_3: book_chunk_kangaroo
-bip_39_word_underscore_4: book_chunk_kangaroo_this
-bip_39_word_underscore_5: book_chunk_kangaroo_this_pigeon
-bip_39_word_underscore_6: book_chunk_kangaroo_this_pigeon_easily
-bip_39_word_underscore_7: book_chunk_kangaroo_this_pigeon_easily_vacuum
-bip_39_word_underscore_8: book_chunk_kangaroo_this_pigeon_easily_vacuum_siren
-bip_39_word_underscore_9: book_chunk_kangaroo_this_pigeon_easily_vacuum_siren_winner
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spice
-bip_39_word_dash_10: spice-decade-slush-conduct-logic-ladder-degree-father-floor-zebra
-bip_39_word_dash_11: spice-decade-slush-conduct-logic-ladder-degree-father-floor-zebra-north
 bip_39_word_dash_12: spice-decade-slush-conduct-logic-ladder-degree-father-floor-zebra-north-armed
 bip_39_word_dash_2: spice-decade
 bip_39_word_dash_3: spice-decade-slush
-bip_39_word_dash_4: spice-decade-slush-conduct
-bip_39_word_dash_5: spice-decade-slush-conduct-logic
-bip_39_word_dash_6: spice-decade-slush-conduct-logic-ladder
-bip_39_word_dash_7: spice-decade-slush-conduct-logic-ladder-degree
-bip_39_word_dash_8: spice-decade-slush-conduct-logic-ladder-degree-father
-bip_39_word_dash_9: spice-decade-slush-conduct-logic-ladder-degree-father-floor
-bip_39_word_new_br_1: spice
-bip_39_word_new_br_10: spice<br>decade<br>slush<br>conduct<br>logic<br>ladder<br>degree<br>father<br>floor<br>zebra
-bip_39_word_new_br_11: spice<br>decade<br>slush<br>conduct<br>logic<br>ladder<br>degree<br>father<br>floor<br>zebra<br>north
 bip_39_word_new_br_12: spice<br>decade<br>slush<br>conduct<br>logic<br>ladder<br>degree<br>father<br>floor<br>zebra<br>north<br>armed
 bip_39_word_new_br_2: spice<br>decade
 bip_39_word_new_br_3: spice<br>decade<br>slush
-bip_39_word_new_br_4: spice<br>decade<br>slush<br>conduct
-bip_39_word_new_br_5: spice<br>decade<br>slush<br>conduct<br>logic
-bip_39_word_new_br_6: spice<br>decade<br>slush<br>conduct<br>logic<br>ladder
-bip_39_word_new_br_7: spice<br>decade<br>slush<br>conduct<br>logic<br>ladder<br>degree
-bip_39_word_new_br_8: spice<br>decade<br>slush<br>conduct<br>logic<br>ladder<br>degree<br>father
-bip_39_word_new_br_9: spice<br>decade<br>slush<br>conduct<br>logic<br>ladder<br>degree<br>father<br>floor
-bip_39_word_new_line_1: spice
-bip_39_word_new_line_10: 'spice
-
-  decade
-
-  slush
-
-  conduct
-
-  logic
-
-  ladder
-
-  degree
-
-  father
-
-  floor
-
-  zebra'
-bip_39_word_new_line_11: 'spice
-
-  decade
-
-  slush
-
-  conduct
-
-  logic
-
-  ladder
-
-  degree
-
-  father
-
-  floor
-
-  zebra
-
-  north'
 bip_39_word_new_line_12: 'spice
 
   decade
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spice
   decade
 
   slush'
-bip_39_word_new_line_4: 'spice
-
-  decade
-
-  slush
-
-  conduct'
-bip_39_word_new_line_5: 'spice
-
-  decade
-
-  slush
-
-  conduct
-
-  logic'
-bip_39_word_new_line_6: 'spice
-
-  decade
-
-  slush
-
-  conduct
-
-  logic
-
-  ladder'
-bip_39_word_new_line_7: 'spice
-
-  decade
-
-  slush
-
-  conduct
-
-  logic
-
-  ladder
-
-  degree'
-bip_39_word_new_line_8: 'spice
-
-  decade
-
-  slush
-
-  conduct
-
-  logic
-
-  ladder
-
-  degree
-
-  father'
-bip_39_word_new_line_9: 'spice
-
-  decade
-
-  slush
-
-  conduct
-
-  logic
-
-  ladder
-
-  degree
-
-  father
-
-  floor'
-bip_39_word_no_space_1: spice
-bip_39_word_no_space_10: spicedecadeslushconductlogicladderdegreefatherfloorzebra
-bip_39_word_no_space_11: spicedecadeslushconductlogicladderdegreefatherfloorzebranorth
 bip_39_word_no_space_12: spicedecadeslushconductlogicladderdegreefatherfloorzebranortharmed
 bip_39_word_no_space_2: spicedecade
 bip_39_word_no_space_3: spicedecadeslush
-bip_39_word_no_space_4: spicedecadeslushconduct
-bip_39_word_no_space_5: spicedecadeslushconductlogic
-bip_39_word_no_space_6: spicedecadeslushconductlogicladder
-bip_39_word_no_space_7: spicedecadeslushconductlogicladderdegree
-bip_39_word_no_space_8: spicedecadeslushconductlogicladderdegreefather
-bip_39_word_no_space_9: spicedecadeslushconductlogicladderdegreefatherfloor
-bip_39_word_space_0:
-- spice
-- decade
-- slush
-- conduct
-- logic
-- ladder
-- degree
-- father
-- floor
-- zebra
-- north
-- armed
-bip_39_word_space_1: spice
-bip_39_word_space_10: spice decade slush conduct logic ladder degree father floor
-  zebra
-bip_39_word_space_11: spice decade slush conduct logic ladder degree father floor
-  zebra north
 bip_39_word_space_12: spice decade slush conduct logic ladder degree father floor
   zebra north armed
 bip_39_word_space_2: spice decade
 bip_39_word_space_3: spice decade slush
-bip_39_word_space_4: spice decade slush conduct
-bip_39_word_space_5: spice decade slush conduct logic
-bip_39_word_space_6: spice decade slush conduct logic ladder
-bip_39_word_space_7: spice decade slush conduct logic ladder degree
-bip_39_word_space_8: spice decade slush conduct logic ladder degree father
-bip_39_word_space_9: spice decade slush conduct logic ladder degree father floor
-bip_39_word_underscore_1: spice
-bip_39_word_underscore_10: spice_decade_slush_conduct_logic_ladder_degree_father_floor_zebra
-bip_39_word_underscore_11: spice_decade_slush_conduct_logic_ladder_degree_father_floor_zebra_north
 bip_39_word_underscore_12: spice_decade_slush_conduct_logic_ladder_degree_father_floor_zebra_north_armed
 bip_39_word_underscore_2: spice_decade
 bip_39_word_underscore_3: spice_decade_slush
-bip_39_word_underscore_4: spice_decade_slush_conduct
-bip_39_word_underscore_5: spice_decade_slush_conduct_logic
-bip_39_word_underscore_6: spice_decade_slush_conduct_logic_ladder
-bip_39_word_underscore_7: spice_decade_slush_conduct_logic_ladder_degree
-bip_39_word_underscore_8: spice_decade_slush_conduct_logic_ladder_degree_father
-bip_39_word_underscore_9: spice_decade_slush_conduct_logic_ladder_degree_father_floor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

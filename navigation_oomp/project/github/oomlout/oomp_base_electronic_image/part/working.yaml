@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sentence
-bip_39_word_dash_10: sentence-anger-clay-guess-poverty-banana-fringe-another-art-pupil
-bip_39_word_dash_11: sentence-anger-clay-guess-poverty-banana-fringe-another-art-pupil-scorpion
 bip_39_word_dash_12: sentence-anger-clay-guess-poverty-banana-fringe-another-art-pupil-scorpion-art
 bip_39_word_dash_2: sentence-anger
 bip_39_word_dash_3: sentence-anger-clay
-bip_39_word_dash_4: sentence-anger-clay-guess
-bip_39_word_dash_5: sentence-anger-clay-guess-poverty
-bip_39_word_dash_6: sentence-anger-clay-guess-poverty-banana
-bip_39_word_dash_7: sentence-anger-clay-guess-poverty-banana-fringe
-bip_39_word_dash_8: sentence-anger-clay-guess-poverty-banana-fringe-another
-bip_39_word_dash_9: sentence-anger-clay-guess-poverty-banana-fringe-another-art
-bip_39_word_new_br_1: sentence
-bip_39_word_new_br_10: sentence<br>anger<br>clay<br>guess<br>poverty<br>banana<br>fringe<br>another<br>art<br>pupil
-bip_39_word_new_br_11: sentence<br>anger<br>clay<br>guess<br>poverty<br>banana<br>fringe<br>another<br>art<br>pupil<br>scorpion
 bip_39_word_new_br_12: sentence<br>anger<br>clay<br>guess<br>poverty<br>banana<br>fringe<br>another<br>art<br>pupil<br>scorpion<br>art
 bip_39_word_new_br_2: sentence<br>anger
 bip_39_word_new_br_3: sentence<br>anger<br>clay
-bip_39_word_new_br_4: sentence<br>anger<br>clay<br>guess
-bip_39_word_new_br_5: sentence<br>anger<br>clay<br>guess<br>poverty
-bip_39_word_new_br_6: sentence<br>anger<br>clay<br>guess<br>poverty<br>banana
-bip_39_word_new_br_7: sentence<br>anger<br>clay<br>guess<br>poverty<br>banana<br>fringe
-bip_39_word_new_br_8: sentence<br>anger<br>clay<br>guess<br>poverty<br>banana<br>fringe<br>another
-bip_39_word_new_br_9: sentence<br>anger<br>clay<br>guess<br>poverty<br>banana<br>fringe<br>another<br>art
-bip_39_word_new_line_1: sentence
-bip_39_word_new_line_10: 'sentence
-
-  anger
-
-  clay
-
-  guess
-
-  poverty
-
-  banana
-
-  fringe
-
-  another
-
-  art
-
-  pupil'
-bip_39_word_new_line_11: 'sentence
-
-  anger
-
-  clay
-
-  guess
-
-  poverty
-
-  banana
-
-  fringe
-
-  another
-
-  art
-
-  pupil
-
-  scorpion'
 bip_39_word_new_line_12: 'sentence
 
   anger
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sentence
   anger
 
   clay'
-bip_39_word_new_line_4: 'sentence
-
-  anger
-
-  clay
-
-  guess'
-bip_39_word_new_line_5: 'sentence
-
-  anger
-
-  clay
-
-  guess
-
-  poverty'
-bip_39_word_new_line_6: 'sentence
-
-  anger
-
-  clay
-
-  guess
-
-  poverty
-
-  banana'
-bip_39_word_new_line_7: 'sentence
-
-  anger
-
-  clay
-
-  guess
-
-  poverty
-
-  banana
-
-  fringe'
-bip_39_word_new_line_8: 'sentence
-
-  anger
-
-  clay
-
-  guess
-
-  poverty
-
-  banana
-
-  fringe
-
-  another'
-bip_39_word_new_line_9: 'sentence
-
-  anger
-
-  clay
-
-  guess
-
-  poverty
-
-  banana
-
-  fringe
-
-  another
-
-  art'
-bip_39_word_no_space_1: sentence
-bip_39_word_no_space_10: sentenceangerclayguesspovertybananafringeanotherartpupil
-bip_39_word_no_space_11: sentenceangerclayguesspovertybananafringeanotherartpupilscorpion
 bip_39_word_no_space_12: sentenceangerclayguesspovertybananafringeanotherartpupilscorpionart
 bip_39_word_no_space_2: sentenceanger
 bip_39_word_no_space_3: sentenceangerclay
-bip_39_word_no_space_4: sentenceangerclayguess
-bip_39_word_no_space_5: sentenceangerclayguesspoverty
-bip_39_word_no_space_6: sentenceangerclayguesspovertybanana
-bip_39_word_no_space_7: sentenceangerclayguesspovertybananafringe
-bip_39_word_no_space_8: sentenceangerclayguesspovertybananafringeanother
-bip_39_word_no_space_9: sentenceangerclayguesspovertybananafringeanotherart
-bip_39_word_space_0:
-- sentence
-- anger
-- clay
-- guess
-- poverty
-- banana
-- fringe
-- another
-- art
-- pupil
-- scorpion
-- art
-bip_39_word_space_1: sentence
-bip_39_word_space_10: sentence anger clay guess poverty banana fringe another art
-  pupil
-bip_39_word_space_11: sentence anger clay guess poverty banana fringe another art
-  pupil scorpion
 bip_39_word_space_12: sentence anger clay guess poverty banana fringe another art
   pupil scorpion art
 bip_39_word_space_2: sentence anger
 bip_39_word_space_3: sentence anger clay
-bip_39_word_space_4: sentence anger clay guess
-bip_39_word_space_5: sentence anger clay guess poverty
-bip_39_word_space_6: sentence anger clay guess poverty banana
-bip_39_word_space_7: sentence anger clay guess poverty banana fringe
-bip_39_word_space_8: sentence anger clay guess poverty banana fringe another
-bip_39_word_space_9: sentence anger clay guess poverty banana fringe another art
-bip_39_word_underscore_1: sentence
-bip_39_word_underscore_10: sentence_anger_clay_guess_poverty_banana_fringe_another_art_pupil
-bip_39_word_underscore_11: sentence_anger_clay_guess_poverty_banana_fringe_another_art_pupil_scorpion
 bip_39_word_underscore_12: sentence_anger_clay_guess_poverty_banana_fringe_another_art_pupil_scorpion_art
 bip_39_word_underscore_2: sentence_anger
 bip_39_word_underscore_3: sentence_anger_clay
-bip_39_word_underscore_4: sentence_anger_clay_guess
-bip_39_word_underscore_5: sentence_anger_clay_guess_poverty
-bip_39_word_underscore_6: sentence_anger_clay_guess_poverty_banana
-bip_39_word_underscore_7: sentence_anger_clay_guess_poverty_banana_fringe
-bip_39_word_underscore_8: sentence_anger_clay_guess_poverty_banana_fringe_another
-bip_39_word_underscore_9: sentence_anger_clay_guess_poverty_banana_fringe_another_art
 classification: project
 classification_capital: Project
 classification_first_letter: p

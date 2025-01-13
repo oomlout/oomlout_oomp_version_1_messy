@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tomato
-bip_39_word_dash_10: tomato-put-head-enter-wild-card-cabin-stone-frost-write
-bip_39_word_dash_11: tomato-put-head-enter-wild-card-cabin-stone-frost-write-banana
 bip_39_word_dash_12: tomato-put-head-enter-wild-card-cabin-stone-frost-write-banana-attack
 bip_39_word_dash_2: tomato-put
 bip_39_word_dash_3: tomato-put-head
-bip_39_word_dash_4: tomato-put-head-enter
-bip_39_word_dash_5: tomato-put-head-enter-wild
-bip_39_word_dash_6: tomato-put-head-enter-wild-card
-bip_39_word_dash_7: tomato-put-head-enter-wild-card-cabin
-bip_39_word_dash_8: tomato-put-head-enter-wild-card-cabin-stone
-bip_39_word_dash_9: tomato-put-head-enter-wild-card-cabin-stone-frost
-bip_39_word_new_br_1: tomato
-bip_39_word_new_br_10: tomato<br>put<br>head<br>enter<br>wild<br>card<br>cabin<br>stone<br>frost<br>write
-bip_39_word_new_br_11: tomato<br>put<br>head<br>enter<br>wild<br>card<br>cabin<br>stone<br>frost<br>write<br>banana
 bip_39_word_new_br_12: tomato<br>put<br>head<br>enter<br>wild<br>card<br>cabin<br>stone<br>frost<br>write<br>banana<br>attack
 bip_39_word_new_br_2: tomato<br>put
 bip_39_word_new_br_3: tomato<br>put<br>head
-bip_39_word_new_br_4: tomato<br>put<br>head<br>enter
-bip_39_word_new_br_5: tomato<br>put<br>head<br>enter<br>wild
-bip_39_word_new_br_6: tomato<br>put<br>head<br>enter<br>wild<br>card
-bip_39_word_new_br_7: tomato<br>put<br>head<br>enter<br>wild<br>card<br>cabin
-bip_39_word_new_br_8: tomato<br>put<br>head<br>enter<br>wild<br>card<br>cabin<br>stone
-bip_39_word_new_br_9: tomato<br>put<br>head<br>enter<br>wild<br>card<br>cabin<br>stone<br>frost
-bip_39_word_new_line_1: tomato
-bip_39_word_new_line_10: 'tomato
-
-  put
-
-  head
-
-  enter
-
-  wild
-
-  card
-
-  cabin
-
-  stone
-
-  frost
-
-  write'
-bip_39_word_new_line_11: 'tomato
-
-  put
-
-  head
-
-  enter
-
-  wild
-
-  card
-
-  cabin
-
-  stone
-
-  frost
-
-  write
-
-  banana'
 bip_39_word_new_line_12: 'tomato
 
   put
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'tomato
   put
 
   head'
-bip_39_word_new_line_4: 'tomato
-
-  put
-
-  head
-
-  enter'
-bip_39_word_new_line_5: 'tomato
-
-  put
-
-  head
-
-  enter
-
-  wild'
-bip_39_word_new_line_6: 'tomato
-
-  put
-
-  head
-
-  enter
-
-  wild
-
-  card'
-bip_39_word_new_line_7: 'tomato
-
-  put
-
-  head
-
-  enter
-
-  wild
-
-  card
-
-  cabin'
-bip_39_word_new_line_8: 'tomato
-
-  put
-
-  head
-
-  enter
-
-  wild
-
-  card
-
-  cabin
-
-  stone'
-bip_39_word_new_line_9: 'tomato
-
-  put
-
-  head
-
-  enter
-
-  wild
-
-  card
-
-  cabin
-
-  stone
-
-  frost'
-bip_39_word_no_space_1: tomato
-bip_39_word_no_space_10: tomatoputheadenterwildcardcabinstonefrostwrite
-bip_39_word_no_space_11: tomatoputheadenterwildcardcabinstonefrostwritebanana
 bip_39_word_no_space_12: tomatoputheadenterwildcardcabinstonefrostwritebananaattack
 bip_39_word_no_space_2: tomatoput
 bip_39_word_no_space_3: tomatoputhead
-bip_39_word_no_space_4: tomatoputheadenter
-bip_39_word_no_space_5: tomatoputheadenterwild
-bip_39_word_no_space_6: tomatoputheadenterwildcard
-bip_39_word_no_space_7: tomatoputheadenterwildcardcabin
-bip_39_word_no_space_8: tomatoputheadenterwildcardcabinstone
-bip_39_word_no_space_9: tomatoputheadenterwildcardcabinstonefrost
-bip_39_word_space_0:
-- tomato
-- put
-- head
-- enter
-- wild
-- card
-- cabin
-- stone
-- frost
-- write
-- banana
-- attack
-bip_39_word_space_1: tomato
-bip_39_word_space_10: tomato put head enter wild card cabin stone frost write
-bip_39_word_space_11: tomato put head enter wild card cabin stone frost write banana
 bip_39_word_space_12: tomato put head enter wild card cabin stone frost write banana
   attack
 bip_39_word_space_2: tomato put
 bip_39_word_space_3: tomato put head
-bip_39_word_space_4: tomato put head enter
-bip_39_word_space_5: tomato put head enter wild
-bip_39_word_space_6: tomato put head enter wild card
-bip_39_word_space_7: tomato put head enter wild card cabin
-bip_39_word_space_8: tomato put head enter wild card cabin stone
-bip_39_word_space_9: tomato put head enter wild card cabin stone frost
-bip_39_word_underscore_1: tomato
-bip_39_word_underscore_10: tomato_put_head_enter_wild_card_cabin_stone_frost_write
-bip_39_word_underscore_11: tomato_put_head_enter_wild_card_cabin_stone_frost_write_banana
 bip_39_word_underscore_12: tomato_put_head_enter_wild_card_cabin_stone_frost_write_banana_attack
 bip_39_word_underscore_2: tomato_put
 bip_39_word_underscore_3: tomato_put_head
-bip_39_word_underscore_4: tomato_put_head_enter
-bip_39_word_underscore_5: tomato_put_head_enter_wild
-bip_39_word_underscore_6: tomato_put_head_enter_wild_card
-bip_39_word_underscore_7: tomato_put_head_enter_wild_card_cabin
-bip_39_word_underscore_8: tomato_put_head_enter_wild_card_cabin_stone
-bip_39_word_underscore_9: tomato_put_head_enter_wild_card_cabin_stone_frost
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

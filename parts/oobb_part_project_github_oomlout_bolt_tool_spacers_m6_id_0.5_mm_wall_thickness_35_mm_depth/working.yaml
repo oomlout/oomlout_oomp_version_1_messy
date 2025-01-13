@@ -1,68 +1,9 @@
-bip_39_word_dash_1: deny
-bip_39_word_dash_10: deny-agent-bamboo-target-public-lyrics-throw-select-slide-swear
-bip_39_word_dash_11: deny-agent-bamboo-target-public-lyrics-throw-select-slide-swear-oven
 bip_39_word_dash_12: deny-agent-bamboo-target-public-lyrics-throw-select-slide-swear-oven-achieve
 bip_39_word_dash_2: deny-agent
 bip_39_word_dash_3: deny-agent-bamboo
-bip_39_word_dash_4: deny-agent-bamboo-target
-bip_39_word_dash_5: deny-agent-bamboo-target-public
-bip_39_word_dash_6: deny-agent-bamboo-target-public-lyrics
-bip_39_word_dash_7: deny-agent-bamboo-target-public-lyrics-throw
-bip_39_word_dash_8: deny-agent-bamboo-target-public-lyrics-throw-select
-bip_39_word_dash_9: deny-agent-bamboo-target-public-lyrics-throw-select-slide
-bip_39_word_new_br_1: deny
-bip_39_word_new_br_10: deny<br>agent<br>bamboo<br>target<br>public<br>lyrics<br>throw<br>select<br>slide<br>swear
-bip_39_word_new_br_11: deny<br>agent<br>bamboo<br>target<br>public<br>lyrics<br>throw<br>select<br>slide<br>swear<br>oven
 bip_39_word_new_br_12: deny<br>agent<br>bamboo<br>target<br>public<br>lyrics<br>throw<br>select<br>slide<br>swear<br>oven<br>achieve
 bip_39_word_new_br_2: deny<br>agent
 bip_39_word_new_br_3: deny<br>agent<br>bamboo
-bip_39_word_new_br_4: deny<br>agent<br>bamboo<br>target
-bip_39_word_new_br_5: deny<br>agent<br>bamboo<br>target<br>public
-bip_39_word_new_br_6: deny<br>agent<br>bamboo<br>target<br>public<br>lyrics
-bip_39_word_new_br_7: deny<br>agent<br>bamboo<br>target<br>public<br>lyrics<br>throw
-bip_39_word_new_br_8: deny<br>agent<br>bamboo<br>target<br>public<br>lyrics<br>throw<br>select
-bip_39_word_new_br_9: deny<br>agent<br>bamboo<br>target<br>public<br>lyrics<br>throw<br>select<br>slide
-bip_39_word_new_line_1: deny
-bip_39_word_new_line_10: 'deny
-
-  agent
-
-  bamboo
-
-  target
-
-  public
-
-  lyrics
-
-  throw
-
-  select
-
-  slide
-
-  swear'
-bip_39_word_new_line_11: 'deny
-
-  agent
-
-  bamboo
-
-  target
-
-  public
-
-  lyrics
-
-  throw
-
-  select
-
-  slide
-
-  swear
-
-  oven'
 bip_39_word_new_line_12: 'deny
 
   agent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'deny
   agent
 
   bamboo'
-bip_39_word_new_line_4: 'deny
-
-  agent
-
-  bamboo
-
-  target'
-bip_39_word_new_line_5: 'deny
-
-  agent
-
-  bamboo
-
-  target
-
-  public'
-bip_39_word_new_line_6: 'deny
-
-  agent
-
-  bamboo
-
-  target
-
-  public
-
-  lyrics'
-bip_39_word_new_line_7: 'deny
-
-  agent
-
-  bamboo
-
-  target
-
-  public
-
-  lyrics
-
-  throw'
-bip_39_word_new_line_8: 'deny
-
-  agent
-
-  bamboo
-
-  target
-
-  public
-
-  lyrics
-
-  throw
-
-  select'
-bip_39_word_new_line_9: 'deny
-
-  agent
-
-  bamboo
-
-  target
-
-  public
-
-  lyrics
-
-  throw
-
-  select
-
-  slide'
-bip_39_word_no_space_1: deny
-bip_39_word_no_space_10: denyagentbambootargetpubliclyricsthrowselectslideswear
-bip_39_word_no_space_11: denyagentbambootargetpubliclyricsthrowselectslideswearoven
 bip_39_word_no_space_12: denyagentbambootargetpubliclyricsthrowselectslideswearovenachieve
 bip_39_word_no_space_2: denyagent
 bip_39_word_no_space_3: denyagentbamboo
-bip_39_word_no_space_4: denyagentbambootarget
-bip_39_word_no_space_5: denyagentbambootargetpublic
-bip_39_word_no_space_6: denyagentbambootargetpubliclyrics
-bip_39_word_no_space_7: denyagentbambootargetpubliclyricsthrow
-bip_39_word_no_space_8: denyagentbambootargetpubliclyricsthrowselect
-bip_39_word_no_space_9: denyagentbambootargetpubliclyricsthrowselectslide
-bip_39_word_space_0:
-- deny
-- agent
-- bamboo
-- target
-- public
-- lyrics
-- throw
-- select
-- slide
-- swear
-- oven
-- achieve
-bip_39_word_space_1: deny
-bip_39_word_space_10: deny agent bamboo target public lyrics throw select slide swear
-bip_39_word_space_11: deny agent bamboo target public lyrics throw select slide swear
-  oven
 bip_39_word_space_12: deny agent bamboo target public lyrics throw select slide swear
   oven achieve
 bip_39_word_space_2: deny agent
 bip_39_word_space_3: deny agent bamboo
-bip_39_word_space_4: deny agent bamboo target
-bip_39_word_space_5: deny agent bamboo target public
-bip_39_word_space_6: deny agent bamboo target public lyrics
-bip_39_word_space_7: deny agent bamboo target public lyrics throw
-bip_39_word_space_8: deny agent bamboo target public lyrics throw select
-bip_39_word_space_9: deny agent bamboo target public lyrics throw select slide
-bip_39_word_underscore_1: deny
-bip_39_word_underscore_10: deny_agent_bamboo_target_public_lyrics_throw_select_slide_swear
-bip_39_word_underscore_11: deny_agent_bamboo_target_public_lyrics_throw_select_slide_swear_oven
 bip_39_word_underscore_12: deny_agent_bamboo_target_public_lyrics_throw_select_slide_swear_oven_achieve
 bip_39_word_underscore_2: deny_agent
 bip_39_word_underscore_3: deny_agent_bamboo
-bip_39_word_underscore_4: deny_agent_bamboo_target
-bip_39_word_underscore_5: deny_agent_bamboo_target_public
-bip_39_word_underscore_6: deny_agent_bamboo_target_public_lyrics
-bip_39_word_underscore_7: deny_agent_bamboo_target_public_lyrics_throw
-bip_39_word_underscore_8: deny_agent_bamboo_target_public_lyrics_throw_select
-bip_39_word_underscore_9: deny_agent_bamboo_target_public_lyrics_throw_select_slide
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mail
-bip_39_word_dash_10: mail-salmon-upset-audit-strategy-hedgehog-sadness-observe-idea-tray
-bip_39_word_dash_11: mail-salmon-upset-audit-strategy-hedgehog-sadness-observe-idea-tray-vault
 bip_39_word_dash_12: mail-salmon-upset-audit-strategy-hedgehog-sadness-observe-idea-tray-vault-able
 bip_39_word_dash_2: mail-salmon
 bip_39_word_dash_3: mail-salmon-upset
-bip_39_word_dash_4: mail-salmon-upset-audit
-bip_39_word_dash_5: mail-salmon-upset-audit-strategy
-bip_39_word_dash_6: mail-salmon-upset-audit-strategy-hedgehog
-bip_39_word_dash_7: mail-salmon-upset-audit-strategy-hedgehog-sadness
-bip_39_word_dash_8: mail-salmon-upset-audit-strategy-hedgehog-sadness-observe
-bip_39_word_dash_9: mail-salmon-upset-audit-strategy-hedgehog-sadness-observe-idea
-bip_39_word_new_br_1: mail
-bip_39_word_new_br_10: mail<br>salmon<br>upset<br>audit<br>strategy<br>hedgehog<br>sadness<br>observe<br>idea<br>tray
-bip_39_word_new_br_11: mail<br>salmon<br>upset<br>audit<br>strategy<br>hedgehog<br>sadness<br>observe<br>idea<br>tray<br>vault
 bip_39_word_new_br_12: mail<br>salmon<br>upset<br>audit<br>strategy<br>hedgehog<br>sadness<br>observe<br>idea<br>tray<br>vault<br>able
 bip_39_word_new_br_2: mail<br>salmon
 bip_39_word_new_br_3: mail<br>salmon<br>upset
-bip_39_word_new_br_4: mail<br>salmon<br>upset<br>audit
-bip_39_word_new_br_5: mail<br>salmon<br>upset<br>audit<br>strategy
-bip_39_word_new_br_6: mail<br>salmon<br>upset<br>audit<br>strategy<br>hedgehog
-bip_39_word_new_br_7: mail<br>salmon<br>upset<br>audit<br>strategy<br>hedgehog<br>sadness
-bip_39_word_new_br_8: mail<br>salmon<br>upset<br>audit<br>strategy<br>hedgehog<br>sadness<br>observe
-bip_39_word_new_br_9: mail<br>salmon<br>upset<br>audit<br>strategy<br>hedgehog<br>sadness<br>observe<br>idea
-bip_39_word_new_line_1: mail
-bip_39_word_new_line_10: 'mail
-
-  salmon
-
-  upset
-
-  audit
-
-  strategy
-
-  hedgehog
-
-  sadness
-
-  observe
-
-  idea
-
-  tray'
-bip_39_word_new_line_11: 'mail
-
-  salmon
-
-  upset
-
-  audit
-
-  strategy
-
-  hedgehog
-
-  sadness
-
-  observe
-
-  idea
-
-  tray
-
-  vault'
 bip_39_word_new_line_12: 'mail
 
   salmon
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'mail
   salmon
 
   upset'
-bip_39_word_new_line_4: 'mail
-
-  salmon
-
-  upset
-
-  audit'
-bip_39_word_new_line_5: 'mail
-
-  salmon
-
-  upset
-
-  audit
-
-  strategy'
-bip_39_word_new_line_6: 'mail
-
-  salmon
-
-  upset
-
-  audit
-
-  strategy
-
-  hedgehog'
-bip_39_word_new_line_7: 'mail
-
-  salmon
-
-  upset
-
-  audit
-
-  strategy
-
-  hedgehog
-
-  sadness'
-bip_39_word_new_line_8: 'mail
-
-  salmon
-
-  upset
-
-  audit
-
-  strategy
-
-  hedgehog
-
-  sadness
-
-  observe'
-bip_39_word_new_line_9: 'mail
-
-  salmon
-
-  upset
-
-  audit
-
-  strategy
-
-  hedgehog
-
-  sadness
-
-  observe
-
-  idea'
-bip_39_word_no_space_1: mail
-bip_39_word_no_space_10: mailsalmonupsetauditstrategyhedgehogsadnessobserveideatray
-bip_39_word_no_space_11: mailsalmonupsetauditstrategyhedgehogsadnessobserveideatrayvault
 bip_39_word_no_space_12: mailsalmonupsetauditstrategyhedgehogsadnessobserveideatrayvaultable
 bip_39_word_no_space_2: mailsalmon
 bip_39_word_no_space_3: mailsalmonupset
-bip_39_word_no_space_4: mailsalmonupsetaudit
-bip_39_word_no_space_5: mailsalmonupsetauditstrategy
-bip_39_word_no_space_6: mailsalmonupsetauditstrategyhedgehog
-bip_39_word_no_space_7: mailsalmonupsetauditstrategyhedgehogsadness
-bip_39_word_no_space_8: mailsalmonupsetauditstrategyhedgehogsadnessobserve
-bip_39_word_no_space_9: mailsalmonupsetauditstrategyhedgehogsadnessobserveidea
-bip_39_word_space_0:
-- mail
-- salmon
-- upset
-- audit
-- strategy
-- hedgehog
-- sadness
-- observe
-- idea
-- tray
-- vault
-- able
-bip_39_word_space_1: mail
-bip_39_word_space_10: mail salmon upset audit strategy hedgehog sadness observe idea
-  tray
-bip_39_word_space_11: mail salmon upset audit strategy hedgehog sadness observe idea
-  tray vault
 bip_39_word_space_12: mail salmon upset audit strategy hedgehog sadness observe idea
   tray vault able
 bip_39_word_space_2: mail salmon
 bip_39_word_space_3: mail salmon upset
-bip_39_word_space_4: mail salmon upset audit
-bip_39_word_space_5: mail salmon upset audit strategy
-bip_39_word_space_6: mail salmon upset audit strategy hedgehog
-bip_39_word_space_7: mail salmon upset audit strategy hedgehog sadness
-bip_39_word_space_8: mail salmon upset audit strategy hedgehog sadness observe
-bip_39_word_space_9: mail salmon upset audit strategy hedgehog sadness observe idea
-bip_39_word_underscore_1: mail
-bip_39_word_underscore_10: mail_salmon_upset_audit_strategy_hedgehog_sadness_observe_idea_tray
-bip_39_word_underscore_11: mail_salmon_upset_audit_strategy_hedgehog_sadness_observe_idea_tray_vault
 bip_39_word_underscore_12: mail_salmon_upset_audit_strategy_hedgehog_sadness_observe_idea_tray_vault_able
 bip_39_word_underscore_2: mail_salmon
 bip_39_word_underscore_3: mail_salmon_upset
-bip_39_word_underscore_4: mail_salmon_upset_audit
-bip_39_word_underscore_5: mail_salmon_upset_audit_strategy
-bip_39_word_underscore_6: mail_salmon_upset_audit_strategy_hedgehog
-bip_39_word_underscore_7: mail_salmon_upset_audit_strategy_hedgehog_sadness
-bip_39_word_underscore_8: mail_salmon_upset_audit_strategy_hedgehog_sadness_observe
-bip_39_word_underscore_9: mail_salmon_upset_audit_strategy_hedgehog_sadness_observe_idea
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

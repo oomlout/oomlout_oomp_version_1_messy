@@ -1,68 +1,9 @@
-bip_39_word_dash_1: behind
-bip_39_word_dash_10: behind-gloom-because-tragic-coyote-hello-help-blossom-rely-tilt
-bip_39_word_dash_11: behind-gloom-because-tragic-coyote-hello-help-blossom-rely-tilt-fluid
 bip_39_word_dash_12: behind-gloom-because-tragic-coyote-hello-help-blossom-rely-tilt-fluid-adapt
 bip_39_word_dash_2: behind-gloom
 bip_39_word_dash_3: behind-gloom-because
-bip_39_word_dash_4: behind-gloom-because-tragic
-bip_39_word_dash_5: behind-gloom-because-tragic-coyote
-bip_39_word_dash_6: behind-gloom-because-tragic-coyote-hello
-bip_39_word_dash_7: behind-gloom-because-tragic-coyote-hello-help
-bip_39_word_dash_8: behind-gloom-because-tragic-coyote-hello-help-blossom
-bip_39_word_dash_9: behind-gloom-because-tragic-coyote-hello-help-blossom-rely
-bip_39_word_new_br_1: behind
-bip_39_word_new_br_10: behind<br>gloom<br>because<br>tragic<br>coyote<br>hello<br>help<br>blossom<br>rely<br>tilt
-bip_39_word_new_br_11: behind<br>gloom<br>because<br>tragic<br>coyote<br>hello<br>help<br>blossom<br>rely<br>tilt<br>fluid
 bip_39_word_new_br_12: behind<br>gloom<br>because<br>tragic<br>coyote<br>hello<br>help<br>blossom<br>rely<br>tilt<br>fluid<br>adapt
 bip_39_word_new_br_2: behind<br>gloom
 bip_39_word_new_br_3: behind<br>gloom<br>because
-bip_39_word_new_br_4: behind<br>gloom<br>because<br>tragic
-bip_39_word_new_br_5: behind<br>gloom<br>because<br>tragic<br>coyote
-bip_39_word_new_br_6: behind<br>gloom<br>because<br>tragic<br>coyote<br>hello
-bip_39_word_new_br_7: behind<br>gloom<br>because<br>tragic<br>coyote<br>hello<br>help
-bip_39_word_new_br_8: behind<br>gloom<br>because<br>tragic<br>coyote<br>hello<br>help<br>blossom
-bip_39_word_new_br_9: behind<br>gloom<br>because<br>tragic<br>coyote<br>hello<br>help<br>blossom<br>rely
-bip_39_word_new_line_1: behind
-bip_39_word_new_line_10: 'behind
-
-  gloom
-
-  because
-
-  tragic
-
-  coyote
-
-  hello
-
-  help
-
-  blossom
-
-  rely
-
-  tilt'
-bip_39_word_new_line_11: 'behind
-
-  gloom
-
-  because
-
-  tragic
-
-  coyote
-
-  hello
-
-  help
-
-  blossom
-
-  rely
-
-  tilt
-
-  fluid'
 bip_39_word_new_line_12: 'behind
 
   gloom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'behind
   gloom
 
   because'
-bip_39_word_new_line_4: 'behind
-
-  gloom
-
-  because
-
-  tragic'
-bip_39_word_new_line_5: 'behind
-
-  gloom
-
-  because
-
-  tragic
-
-  coyote'
-bip_39_word_new_line_6: 'behind
-
-  gloom
-
-  because
-
-  tragic
-
-  coyote
-
-  hello'
-bip_39_word_new_line_7: 'behind
-
-  gloom
-
-  because
-
-  tragic
-
-  coyote
-
-  hello
-
-  help'
-bip_39_word_new_line_8: 'behind
-
-  gloom
-
-  because
-
-  tragic
-
-  coyote
-
-  hello
-
-  help
-
-  blossom'
-bip_39_word_new_line_9: 'behind
-
-  gloom
-
-  because
-
-  tragic
-
-  coyote
-
-  hello
-
-  help
-
-  blossom
-
-  rely'
-bip_39_word_no_space_1: behind
-bip_39_word_no_space_10: behindgloombecausetragiccoyotehellohelpblossomrelytilt
-bip_39_word_no_space_11: behindgloombecausetragiccoyotehellohelpblossomrelytiltfluid
 bip_39_word_no_space_12: behindgloombecausetragiccoyotehellohelpblossomrelytiltfluidadapt
 bip_39_word_no_space_2: behindgloom
 bip_39_word_no_space_3: behindgloombecause
-bip_39_word_no_space_4: behindgloombecausetragic
-bip_39_word_no_space_5: behindgloombecausetragiccoyote
-bip_39_word_no_space_6: behindgloombecausetragiccoyotehello
-bip_39_word_no_space_7: behindgloombecausetragiccoyotehellohelp
-bip_39_word_no_space_8: behindgloombecausetragiccoyotehellohelpblossom
-bip_39_word_no_space_9: behindgloombecausetragiccoyotehellohelpblossomrely
-bip_39_word_space_0:
-- behind
-- gloom
-- because
-- tragic
-- coyote
-- hello
-- help
-- blossom
-- rely
-- tilt
-- fluid
-- adapt
-bip_39_word_space_1: behind
-bip_39_word_space_10: behind gloom because tragic coyote hello help blossom rely tilt
-bip_39_word_space_11: behind gloom because tragic coyote hello help blossom rely tilt
-  fluid
 bip_39_word_space_12: behind gloom because tragic coyote hello help blossom rely tilt
   fluid adapt
 bip_39_word_space_2: behind gloom
 bip_39_word_space_3: behind gloom because
-bip_39_word_space_4: behind gloom because tragic
-bip_39_word_space_5: behind gloom because tragic coyote
-bip_39_word_space_6: behind gloom because tragic coyote hello
-bip_39_word_space_7: behind gloom because tragic coyote hello help
-bip_39_word_space_8: behind gloom because tragic coyote hello help blossom
-bip_39_word_space_9: behind gloom because tragic coyote hello help blossom rely
-bip_39_word_underscore_1: behind
-bip_39_word_underscore_10: behind_gloom_because_tragic_coyote_hello_help_blossom_rely_tilt
-bip_39_word_underscore_11: behind_gloom_because_tragic_coyote_hello_help_blossom_rely_tilt_fluid
 bip_39_word_underscore_12: behind_gloom_because_tragic_coyote_hello_help_blossom_rely_tilt_fluid_adapt
 bip_39_word_underscore_2: behind_gloom
 bip_39_word_underscore_3: behind_gloom_because
-bip_39_word_underscore_4: behind_gloom_because_tragic
-bip_39_word_underscore_5: behind_gloom_because_tragic_coyote
-bip_39_word_underscore_6: behind_gloom_because_tragic_coyote_hello
-bip_39_word_underscore_7: behind_gloom_because_tragic_coyote_hello_help
-bip_39_word_underscore_8: behind_gloom_because_tragic_coyote_hello_help_blossom
-bip_39_word_underscore_9: behind_gloom_because_tragic_coyote_hello_help_blossom_rely
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

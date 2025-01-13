@@ -1,68 +1,9 @@
-bip_39_word_dash_1: airport
-bip_39_word_dash_10: airport-race-ability-bird-mechanic-bachelor-turtle-mouse-almost-ribbon
-bip_39_word_dash_11: airport-race-ability-bird-mechanic-bachelor-turtle-mouse-almost-ribbon-erase
 bip_39_word_dash_12: airport-race-ability-bird-mechanic-bachelor-turtle-mouse-almost-ribbon-erase-artefact
 bip_39_word_dash_2: airport-race
 bip_39_word_dash_3: airport-race-ability
-bip_39_word_dash_4: airport-race-ability-bird
-bip_39_word_dash_5: airport-race-ability-bird-mechanic
-bip_39_word_dash_6: airport-race-ability-bird-mechanic-bachelor
-bip_39_word_dash_7: airport-race-ability-bird-mechanic-bachelor-turtle
-bip_39_word_dash_8: airport-race-ability-bird-mechanic-bachelor-turtle-mouse
-bip_39_word_dash_9: airport-race-ability-bird-mechanic-bachelor-turtle-mouse-almost
-bip_39_word_new_br_1: airport
-bip_39_word_new_br_10: airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon
-bip_39_word_new_br_11: airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon<br>erase
 bip_39_word_new_br_12: airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost<br>ribbon<br>erase<br>artefact
 bip_39_word_new_br_2: airport<br>race
 bip_39_word_new_br_3: airport<br>race<br>ability
-bip_39_word_new_br_4: airport<br>race<br>ability<br>bird
-bip_39_word_new_br_5: airport<br>race<br>ability<br>bird<br>mechanic
-bip_39_word_new_br_6: airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor
-bip_39_word_new_br_7: airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle
-bip_39_word_new_br_8: airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse
-bip_39_word_new_br_9: airport<br>race<br>ability<br>bird<br>mechanic<br>bachelor<br>turtle<br>mouse<br>almost
-bip_39_word_new_line_1: airport
-bip_39_word_new_line_10: 'airport
-
-  race
-
-  ability
-
-  bird
-
-  mechanic
-
-  bachelor
-
-  turtle
-
-  mouse
-
-  almost
-
-  ribbon'
-bip_39_word_new_line_11: 'airport
-
-  race
-
-  ability
-
-  bird
-
-  mechanic
-
-  bachelor
-
-  turtle
-
-  mouse
-
-  almost
-
-  ribbon
-
-  erase'
 bip_39_word_new_line_12: 'airport
 
   race
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'airport
   race
 
   ability'
-bip_39_word_new_line_4: 'airport
-
-  race
-
-  ability
-
-  bird'
-bip_39_word_new_line_5: 'airport
-
-  race
-
-  ability
-
-  bird
-
-  mechanic'
-bip_39_word_new_line_6: 'airport
-
-  race
-
-  ability
-
-  bird
-
-  mechanic
-
-  bachelor'
-bip_39_word_new_line_7: 'airport
-
-  race
-
-  ability
-
-  bird
-
-  mechanic
-
-  bachelor
-
-  turtle'
-bip_39_word_new_line_8: 'airport
-
-  race
-
-  ability
-
-  bird
-
-  mechanic
-
-  bachelor
-
-  turtle
-
-  mouse'
-bip_39_word_new_line_9: 'airport
-
-  race
-
-  ability
-
-  bird
-
-  mechanic
-
-  bachelor
-
-  turtle
-
-  mouse
-
-  almost'
-bip_39_word_no_space_1: airport
-bip_39_word_no_space_10: airportraceabilitybirdmechanicbachelorturtlemousealmostribbon
-bip_39_word_no_space_11: airportraceabilitybirdmechanicbachelorturtlemousealmostribbonerase
 bip_39_word_no_space_12: airportraceabilitybirdmechanicbachelorturtlemousealmostribboneraseartefact
 bip_39_word_no_space_2: airportrace
 bip_39_word_no_space_3: airportraceability
-bip_39_word_no_space_4: airportraceabilitybird
-bip_39_word_no_space_5: airportraceabilitybirdmechanic
-bip_39_word_no_space_6: airportraceabilitybirdmechanicbachelor
-bip_39_word_no_space_7: airportraceabilitybirdmechanicbachelorturtle
-bip_39_word_no_space_8: airportraceabilitybirdmechanicbachelorturtlemouse
-bip_39_word_no_space_9: airportraceabilitybirdmechanicbachelorturtlemousealmost
-bip_39_word_space_0:
-- airport
-- race
-- ability
-- bird
-- mechanic
-- bachelor
-- turtle
-- mouse
-- almost
-- ribbon
-- erase
-- artefact
-bip_39_word_space_1: airport
-bip_39_word_space_10: airport race ability bird mechanic bachelor turtle mouse almost
-  ribbon
-bip_39_word_space_11: airport race ability bird mechanic bachelor turtle mouse almost
-  ribbon erase
 bip_39_word_space_12: airport race ability bird mechanic bachelor turtle mouse almost
   ribbon erase artefact
 bip_39_word_space_2: airport race
 bip_39_word_space_3: airport race ability
-bip_39_word_space_4: airport race ability bird
-bip_39_word_space_5: airport race ability bird mechanic
-bip_39_word_space_6: airport race ability bird mechanic bachelor
-bip_39_word_space_7: airport race ability bird mechanic bachelor turtle
-bip_39_word_space_8: airport race ability bird mechanic bachelor turtle mouse
-bip_39_word_space_9: airport race ability bird mechanic bachelor turtle mouse almost
-bip_39_word_underscore_1: airport
-bip_39_word_underscore_10: airport_race_ability_bird_mechanic_bachelor_turtle_mouse_almost_ribbon
-bip_39_word_underscore_11: airport_race_ability_bird_mechanic_bachelor_turtle_mouse_almost_ribbon_erase
 bip_39_word_underscore_12: airport_race_ability_bird_mechanic_bachelor_turtle_mouse_almost_ribbon_erase_artefact
 bip_39_word_underscore_2: airport_race
 bip_39_word_underscore_3: airport_race_ability
-bip_39_word_underscore_4: airport_race_ability_bird
-bip_39_word_underscore_5: airport_race_ability_bird_mechanic
-bip_39_word_underscore_6: airport_race_ability_bird_mechanic_bachelor
-bip_39_word_underscore_7: airport_race_ability_bird_mechanic_bachelor_turtle
-bip_39_word_underscore_8: airport_race_ability_bird_mechanic_bachelor_turtle_mouse
-bip_39_word_underscore_9: airport_race_ability_bird_mechanic_bachelor_turtle_mouse_almost
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

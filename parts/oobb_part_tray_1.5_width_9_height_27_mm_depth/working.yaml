@@ -1,68 +1,9 @@
-bip_39_word_dash_1: equip
-bip_39_word_dash_10: equip-spell-digital-science-shiver-surface-catch-cupboard-clean-horse
-bip_39_word_dash_11: equip-spell-digital-science-shiver-surface-catch-cupboard-clean-horse-village
 bip_39_word_dash_12: equip-spell-digital-science-shiver-surface-catch-cupboard-clean-horse-village-aim
 bip_39_word_dash_2: equip-spell
 bip_39_word_dash_3: equip-spell-digital
-bip_39_word_dash_4: equip-spell-digital-science
-bip_39_word_dash_5: equip-spell-digital-science-shiver
-bip_39_word_dash_6: equip-spell-digital-science-shiver-surface
-bip_39_word_dash_7: equip-spell-digital-science-shiver-surface-catch
-bip_39_word_dash_8: equip-spell-digital-science-shiver-surface-catch-cupboard
-bip_39_word_dash_9: equip-spell-digital-science-shiver-surface-catch-cupboard-clean
-bip_39_word_new_br_1: equip
-bip_39_word_new_br_10: equip<br>spell<br>digital<br>science<br>shiver<br>surface<br>catch<br>cupboard<br>clean<br>horse
-bip_39_word_new_br_11: equip<br>spell<br>digital<br>science<br>shiver<br>surface<br>catch<br>cupboard<br>clean<br>horse<br>village
 bip_39_word_new_br_12: equip<br>spell<br>digital<br>science<br>shiver<br>surface<br>catch<br>cupboard<br>clean<br>horse<br>village<br>aim
 bip_39_word_new_br_2: equip<br>spell
 bip_39_word_new_br_3: equip<br>spell<br>digital
-bip_39_word_new_br_4: equip<br>spell<br>digital<br>science
-bip_39_word_new_br_5: equip<br>spell<br>digital<br>science<br>shiver
-bip_39_word_new_br_6: equip<br>spell<br>digital<br>science<br>shiver<br>surface
-bip_39_word_new_br_7: equip<br>spell<br>digital<br>science<br>shiver<br>surface<br>catch
-bip_39_word_new_br_8: equip<br>spell<br>digital<br>science<br>shiver<br>surface<br>catch<br>cupboard
-bip_39_word_new_br_9: equip<br>spell<br>digital<br>science<br>shiver<br>surface<br>catch<br>cupboard<br>clean
-bip_39_word_new_line_1: equip
-bip_39_word_new_line_10: 'equip
-
-  spell
-
-  digital
-
-  science
-
-  shiver
-
-  surface
-
-  catch
-
-  cupboard
-
-  clean
-
-  horse'
-bip_39_word_new_line_11: 'equip
-
-  spell
-
-  digital
-
-  science
-
-  shiver
-
-  surface
-
-  catch
-
-  cupboard
-
-  clean
-
-  horse
-
-  village'
 bip_39_word_new_line_12: 'equip
 
   spell
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'equip
   spell
 
   digital'
-bip_39_word_new_line_4: 'equip
-
-  spell
-
-  digital
-
-  science'
-bip_39_word_new_line_5: 'equip
-
-  spell
-
-  digital
-
-  science
-
-  shiver'
-bip_39_word_new_line_6: 'equip
-
-  spell
-
-  digital
-
-  science
-
-  shiver
-
-  surface'
-bip_39_word_new_line_7: 'equip
-
-  spell
-
-  digital
-
-  science
-
-  shiver
-
-  surface
-
-  catch'
-bip_39_word_new_line_8: 'equip
-
-  spell
-
-  digital
-
-  science
-
-  shiver
-
-  surface
-
-  catch
-
-  cupboard'
-bip_39_word_new_line_9: 'equip
-
-  spell
-
-  digital
-
-  science
-
-  shiver
-
-  surface
-
-  catch
-
-  cupboard
-
-  clean'
-bip_39_word_no_space_1: equip
-bip_39_word_no_space_10: equipspelldigitalscienceshiversurfacecatchcupboardcleanhorse
-bip_39_word_no_space_11: equipspelldigitalscienceshiversurfacecatchcupboardcleanhorsevillage
 bip_39_word_no_space_12: equipspelldigitalscienceshiversurfacecatchcupboardcleanhorsevillageaim
 bip_39_word_no_space_2: equipspell
 bip_39_word_no_space_3: equipspelldigital
-bip_39_word_no_space_4: equipspelldigitalscience
-bip_39_word_no_space_5: equipspelldigitalscienceshiver
-bip_39_word_no_space_6: equipspelldigitalscienceshiversurface
-bip_39_word_no_space_7: equipspelldigitalscienceshiversurfacecatch
-bip_39_word_no_space_8: equipspelldigitalscienceshiversurfacecatchcupboard
-bip_39_word_no_space_9: equipspelldigitalscienceshiversurfacecatchcupboardclean
-bip_39_word_space_0:
-- equip
-- spell
-- digital
-- science
-- shiver
-- surface
-- catch
-- cupboard
-- clean
-- horse
-- village
-- aim
-bip_39_word_space_1: equip
-bip_39_word_space_10: equip spell digital science shiver surface catch cupboard clean
-  horse
-bip_39_word_space_11: equip spell digital science shiver surface catch cupboard clean
-  horse village
 bip_39_word_space_12: equip spell digital science shiver surface catch cupboard clean
   horse village aim
 bip_39_word_space_2: equip spell
 bip_39_word_space_3: equip spell digital
-bip_39_word_space_4: equip spell digital science
-bip_39_word_space_5: equip spell digital science shiver
-bip_39_word_space_6: equip spell digital science shiver surface
-bip_39_word_space_7: equip spell digital science shiver surface catch
-bip_39_word_space_8: equip spell digital science shiver surface catch cupboard
-bip_39_word_space_9: equip spell digital science shiver surface catch cupboard clean
-bip_39_word_underscore_1: equip
-bip_39_word_underscore_10: equip_spell_digital_science_shiver_surface_catch_cupboard_clean_horse
-bip_39_word_underscore_11: equip_spell_digital_science_shiver_surface_catch_cupboard_clean_horse_village
 bip_39_word_underscore_12: equip_spell_digital_science_shiver_surface_catch_cupboard_clean_horse_village_aim
 bip_39_word_underscore_2: equip_spell
 bip_39_word_underscore_3: equip_spell_digital
-bip_39_word_underscore_4: equip_spell_digital_science
-bip_39_word_underscore_5: equip_spell_digital_science_shiver
-bip_39_word_underscore_6: equip_spell_digital_science_shiver_surface
-bip_39_word_underscore_7: equip_spell_digital_science_shiver_surface_catch
-bip_39_word_underscore_8: equip_spell_digital_science_shiver_surface_catch_cupboard
-bip_39_word_underscore_9: equip_spell_digital_science_shiver_surface_catch_cupboard_clean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

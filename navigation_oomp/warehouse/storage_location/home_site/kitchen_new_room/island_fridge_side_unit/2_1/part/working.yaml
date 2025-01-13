@@ -1,68 +1,9 @@
-bip_39_word_dash_1: people
-bip_39_word_dash_10: people-blind-knife-clog-slam-echo-clap-leg-kidney-elephant
-bip_39_word_dash_11: people-blind-knife-clog-slam-echo-clap-leg-kidney-elephant-two
 bip_39_word_dash_12: people-blind-knife-clog-slam-echo-clap-leg-kidney-elephant-two-any
 bip_39_word_dash_2: people-blind
 bip_39_word_dash_3: people-blind-knife
-bip_39_word_dash_4: people-blind-knife-clog
-bip_39_word_dash_5: people-blind-knife-clog-slam
-bip_39_word_dash_6: people-blind-knife-clog-slam-echo
-bip_39_word_dash_7: people-blind-knife-clog-slam-echo-clap
-bip_39_word_dash_8: people-blind-knife-clog-slam-echo-clap-leg
-bip_39_word_dash_9: people-blind-knife-clog-slam-echo-clap-leg-kidney
-bip_39_word_new_br_1: people
-bip_39_word_new_br_10: people<br>blind<br>knife<br>clog<br>slam<br>echo<br>clap<br>leg<br>kidney<br>elephant
-bip_39_word_new_br_11: people<br>blind<br>knife<br>clog<br>slam<br>echo<br>clap<br>leg<br>kidney<br>elephant<br>two
 bip_39_word_new_br_12: people<br>blind<br>knife<br>clog<br>slam<br>echo<br>clap<br>leg<br>kidney<br>elephant<br>two<br>any
 bip_39_word_new_br_2: people<br>blind
 bip_39_word_new_br_3: people<br>blind<br>knife
-bip_39_word_new_br_4: people<br>blind<br>knife<br>clog
-bip_39_word_new_br_5: people<br>blind<br>knife<br>clog<br>slam
-bip_39_word_new_br_6: people<br>blind<br>knife<br>clog<br>slam<br>echo
-bip_39_word_new_br_7: people<br>blind<br>knife<br>clog<br>slam<br>echo<br>clap
-bip_39_word_new_br_8: people<br>blind<br>knife<br>clog<br>slam<br>echo<br>clap<br>leg
-bip_39_word_new_br_9: people<br>blind<br>knife<br>clog<br>slam<br>echo<br>clap<br>leg<br>kidney
-bip_39_word_new_line_1: people
-bip_39_word_new_line_10: 'people
-
-  blind
-
-  knife
-
-  clog
-
-  slam
-
-  echo
-
-  clap
-
-  leg
-
-  kidney
-
-  elephant'
-bip_39_word_new_line_11: 'people
-
-  blind
-
-  knife
-
-  clog
-
-  slam
-
-  echo
-
-  clap
-
-  leg
-
-  kidney
-
-  elephant
-
-  two'
 bip_39_word_new_line_12: 'people
 
   blind
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'people
   blind
 
   knife'
-bip_39_word_new_line_4: 'people
-
-  blind
-
-  knife
-
-  clog'
-bip_39_word_new_line_5: 'people
-
-  blind
-
-  knife
-
-  clog
-
-  slam'
-bip_39_word_new_line_6: 'people
-
-  blind
-
-  knife
-
-  clog
-
-  slam
-
-  echo'
-bip_39_word_new_line_7: 'people
-
-  blind
-
-  knife
-
-  clog
-
-  slam
-
-  echo
-
-  clap'
-bip_39_word_new_line_8: 'people
-
-  blind
-
-  knife
-
-  clog
-
-  slam
-
-  echo
-
-  clap
-
-  leg'
-bip_39_word_new_line_9: 'people
-
-  blind
-
-  knife
-
-  clog
-
-  slam
-
-  echo
-
-  clap
-
-  leg
-
-  kidney'
-bip_39_word_no_space_1: people
-bip_39_word_no_space_10: peopleblindknifeclogslamechoclaplegkidneyelephant
-bip_39_word_no_space_11: peopleblindknifeclogslamechoclaplegkidneyelephanttwo
 bip_39_word_no_space_12: peopleblindknifeclogslamechoclaplegkidneyelephanttwoany
 bip_39_word_no_space_2: peopleblind
 bip_39_word_no_space_3: peopleblindknife
-bip_39_word_no_space_4: peopleblindknifeclog
-bip_39_word_no_space_5: peopleblindknifeclogslam
-bip_39_word_no_space_6: peopleblindknifeclogslamecho
-bip_39_word_no_space_7: peopleblindknifeclogslamechoclap
-bip_39_word_no_space_8: peopleblindknifeclogslamechoclapleg
-bip_39_word_no_space_9: peopleblindknifeclogslamechoclaplegkidney
-bip_39_word_space_0:
-- people
-- blind
-- knife
-- clog
-- slam
-- echo
-- clap
-- leg
-- kidney
-- elephant
-- two
-- any
-bip_39_word_space_1: people
-bip_39_word_space_10: people blind knife clog slam echo clap leg kidney elephant
-bip_39_word_space_11: people blind knife clog slam echo clap leg kidney elephant two
 bip_39_word_space_12: people blind knife clog slam echo clap leg kidney elephant two
   any
 bip_39_word_space_2: people blind
 bip_39_word_space_3: people blind knife
-bip_39_word_space_4: people blind knife clog
-bip_39_word_space_5: people blind knife clog slam
-bip_39_word_space_6: people blind knife clog slam echo
-bip_39_word_space_7: people blind knife clog slam echo clap
-bip_39_word_space_8: people blind knife clog slam echo clap leg
-bip_39_word_space_9: people blind knife clog slam echo clap leg kidney
-bip_39_word_underscore_1: people
-bip_39_word_underscore_10: people_blind_knife_clog_slam_echo_clap_leg_kidney_elephant
-bip_39_word_underscore_11: people_blind_knife_clog_slam_echo_clap_leg_kidney_elephant_two
 bip_39_word_underscore_12: people_blind_knife_clog_slam_echo_clap_leg_kidney_elephant_two_any
 bip_39_word_underscore_2: people_blind
 bip_39_word_underscore_3: people_blind_knife
-bip_39_word_underscore_4: people_blind_knife_clog
-bip_39_word_underscore_5: people_blind_knife_clog_slam
-bip_39_word_underscore_6: people_blind_knife_clog_slam_echo
-bip_39_word_underscore_7: people_blind_knife_clog_slam_echo_clap
-bip_39_word_underscore_8: people_blind_knife_clog_slam_echo_clap_leg
-bip_39_word_underscore_9: people_blind_knife_clog_slam_echo_clap_leg_kidney
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

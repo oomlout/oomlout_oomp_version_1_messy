@@ -1,68 +1,9 @@
-bip_39_word_dash_1: valid
-bip_39_word_dash_10: valid-trim-future-excite-wild-dove-horse-wheat-sport-remind
-bip_39_word_dash_11: valid-trim-future-excite-wild-dove-horse-wheat-sport-remind-promote
 bip_39_word_dash_12: valid-trim-future-excite-wild-dove-horse-wheat-sport-remind-promote-across
 bip_39_word_dash_2: valid-trim
 bip_39_word_dash_3: valid-trim-future
-bip_39_word_dash_4: valid-trim-future-excite
-bip_39_word_dash_5: valid-trim-future-excite-wild
-bip_39_word_dash_6: valid-trim-future-excite-wild-dove
-bip_39_word_dash_7: valid-trim-future-excite-wild-dove-horse
-bip_39_word_dash_8: valid-trim-future-excite-wild-dove-horse-wheat
-bip_39_word_dash_9: valid-trim-future-excite-wild-dove-horse-wheat-sport
-bip_39_word_new_br_1: valid
-bip_39_word_new_br_10: valid<br>trim<br>future<br>excite<br>wild<br>dove<br>horse<br>wheat<br>sport<br>remind
-bip_39_word_new_br_11: valid<br>trim<br>future<br>excite<br>wild<br>dove<br>horse<br>wheat<br>sport<br>remind<br>promote
 bip_39_word_new_br_12: valid<br>trim<br>future<br>excite<br>wild<br>dove<br>horse<br>wheat<br>sport<br>remind<br>promote<br>across
 bip_39_word_new_br_2: valid<br>trim
 bip_39_word_new_br_3: valid<br>trim<br>future
-bip_39_word_new_br_4: valid<br>trim<br>future<br>excite
-bip_39_word_new_br_5: valid<br>trim<br>future<br>excite<br>wild
-bip_39_word_new_br_6: valid<br>trim<br>future<br>excite<br>wild<br>dove
-bip_39_word_new_br_7: valid<br>trim<br>future<br>excite<br>wild<br>dove<br>horse
-bip_39_word_new_br_8: valid<br>trim<br>future<br>excite<br>wild<br>dove<br>horse<br>wheat
-bip_39_word_new_br_9: valid<br>trim<br>future<br>excite<br>wild<br>dove<br>horse<br>wheat<br>sport
-bip_39_word_new_line_1: valid
-bip_39_word_new_line_10: 'valid
-
-  trim
-
-  future
-
-  excite
-
-  wild
-
-  dove
-
-  horse
-
-  wheat
-
-  sport
-
-  remind'
-bip_39_word_new_line_11: 'valid
-
-  trim
-
-  future
-
-  excite
-
-  wild
-
-  dove
-
-  horse
-
-  wheat
-
-  sport
-
-  remind
-
-  promote'
 bip_39_word_new_line_12: 'valid
 
   trim
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'valid
   trim
 
   future'
-bip_39_word_new_line_4: 'valid
-
-  trim
-
-  future
-
-  excite'
-bip_39_word_new_line_5: 'valid
-
-  trim
-
-  future
-
-  excite
-
-  wild'
-bip_39_word_new_line_6: 'valid
-
-  trim
-
-  future
-
-  excite
-
-  wild
-
-  dove'
-bip_39_word_new_line_7: 'valid
-
-  trim
-
-  future
-
-  excite
-
-  wild
-
-  dove
-
-  horse'
-bip_39_word_new_line_8: 'valid
-
-  trim
-
-  future
-
-  excite
-
-  wild
-
-  dove
-
-  horse
-
-  wheat'
-bip_39_word_new_line_9: 'valid
-
-  trim
-
-  future
-
-  excite
-
-  wild
-
-  dove
-
-  horse
-
-  wheat
-
-  sport'
-bip_39_word_no_space_1: valid
-bip_39_word_no_space_10: validtrimfutureexcitewilddovehorsewheatsportremind
-bip_39_word_no_space_11: validtrimfutureexcitewilddovehorsewheatsportremindpromote
 bip_39_word_no_space_12: validtrimfutureexcitewilddovehorsewheatsportremindpromoteacross
 bip_39_word_no_space_2: validtrim
 bip_39_word_no_space_3: validtrimfuture
-bip_39_word_no_space_4: validtrimfutureexcite
-bip_39_word_no_space_5: validtrimfutureexcitewild
-bip_39_word_no_space_6: validtrimfutureexcitewilddove
-bip_39_word_no_space_7: validtrimfutureexcitewilddovehorse
-bip_39_word_no_space_8: validtrimfutureexcitewilddovehorsewheat
-bip_39_word_no_space_9: validtrimfutureexcitewilddovehorsewheatsport
-bip_39_word_space_0:
-- valid
-- trim
-- future
-- excite
-- wild
-- dove
-- horse
-- wheat
-- sport
-- remind
-- promote
-- across
-bip_39_word_space_1: valid
-bip_39_word_space_10: valid trim future excite wild dove horse wheat sport remind
-bip_39_word_space_11: valid trim future excite wild dove horse wheat sport remind
-  promote
 bip_39_word_space_12: valid trim future excite wild dove horse wheat sport remind
   promote across
 bip_39_word_space_2: valid trim
 bip_39_word_space_3: valid trim future
-bip_39_word_space_4: valid trim future excite
-bip_39_word_space_5: valid trim future excite wild
-bip_39_word_space_6: valid trim future excite wild dove
-bip_39_word_space_7: valid trim future excite wild dove horse
-bip_39_word_space_8: valid trim future excite wild dove horse wheat
-bip_39_word_space_9: valid trim future excite wild dove horse wheat sport
-bip_39_word_underscore_1: valid
-bip_39_word_underscore_10: valid_trim_future_excite_wild_dove_horse_wheat_sport_remind
-bip_39_word_underscore_11: valid_trim_future_excite_wild_dove_horse_wheat_sport_remind_promote
 bip_39_word_underscore_12: valid_trim_future_excite_wild_dove_horse_wheat_sport_remind_promote_across
 bip_39_word_underscore_2: valid_trim
 bip_39_word_underscore_3: valid_trim_future
-bip_39_word_underscore_4: valid_trim_future_excite
-bip_39_word_underscore_5: valid_trim_future_excite_wild
-bip_39_word_underscore_6: valid_trim_future_excite_wild_dove
-bip_39_word_underscore_7: valid_trim_future_excite_wild_dove_horse
-bip_39_word_underscore_8: valid_trim_future_excite_wild_dove_horse_wheat
-bip_39_word_underscore_9: valid_trim_future_excite_wild_dove_horse_wheat_sport
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

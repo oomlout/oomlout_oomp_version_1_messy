@@ -1,68 +1,9 @@
-bip_39_word_dash_1: account
-bip_39_word_dash_10: account-raccoon-palace-wage-idea-device-hello-youth-ceiling-latin
-bip_39_word_dash_11: account-raccoon-palace-wage-idea-device-hello-youth-ceiling-latin-exit
 bip_39_word_dash_12: account-raccoon-palace-wage-idea-device-hello-youth-ceiling-latin-exit-angry
 bip_39_word_dash_2: account-raccoon
 bip_39_word_dash_3: account-raccoon-palace
-bip_39_word_dash_4: account-raccoon-palace-wage
-bip_39_word_dash_5: account-raccoon-palace-wage-idea
-bip_39_word_dash_6: account-raccoon-palace-wage-idea-device
-bip_39_word_dash_7: account-raccoon-palace-wage-idea-device-hello
-bip_39_word_dash_8: account-raccoon-palace-wage-idea-device-hello-youth
-bip_39_word_dash_9: account-raccoon-palace-wage-idea-device-hello-youth-ceiling
-bip_39_word_new_br_1: account
-bip_39_word_new_br_10: account<br>raccoon<br>palace<br>wage<br>idea<br>device<br>hello<br>youth<br>ceiling<br>latin
-bip_39_word_new_br_11: account<br>raccoon<br>palace<br>wage<br>idea<br>device<br>hello<br>youth<br>ceiling<br>latin<br>exit
 bip_39_word_new_br_12: account<br>raccoon<br>palace<br>wage<br>idea<br>device<br>hello<br>youth<br>ceiling<br>latin<br>exit<br>angry
 bip_39_word_new_br_2: account<br>raccoon
 bip_39_word_new_br_3: account<br>raccoon<br>palace
-bip_39_word_new_br_4: account<br>raccoon<br>palace<br>wage
-bip_39_word_new_br_5: account<br>raccoon<br>palace<br>wage<br>idea
-bip_39_word_new_br_6: account<br>raccoon<br>palace<br>wage<br>idea<br>device
-bip_39_word_new_br_7: account<br>raccoon<br>palace<br>wage<br>idea<br>device<br>hello
-bip_39_word_new_br_8: account<br>raccoon<br>palace<br>wage<br>idea<br>device<br>hello<br>youth
-bip_39_word_new_br_9: account<br>raccoon<br>palace<br>wage<br>idea<br>device<br>hello<br>youth<br>ceiling
-bip_39_word_new_line_1: account
-bip_39_word_new_line_10: 'account
-
-  raccoon
-
-  palace
-
-  wage
-
-  idea
-
-  device
-
-  hello
-
-  youth
-
-  ceiling
-
-  latin'
-bip_39_word_new_line_11: 'account
-
-  raccoon
-
-  palace
-
-  wage
-
-  idea
-
-  device
-
-  hello
-
-  youth
-
-  ceiling
-
-  latin
-
-  exit'
 bip_39_word_new_line_12: 'account
 
   raccoon
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'account
   raccoon
 
   palace'
-bip_39_word_new_line_4: 'account
-
-  raccoon
-
-  palace
-
-  wage'
-bip_39_word_new_line_5: 'account
-
-  raccoon
-
-  palace
-
-  wage
-
-  idea'
-bip_39_word_new_line_6: 'account
-
-  raccoon
-
-  palace
-
-  wage
-
-  idea
-
-  device'
-bip_39_word_new_line_7: 'account
-
-  raccoon
-
-  palace
-
-  wage
-
-  idea
-
-  device
-
-  hello'
-bip_39_word_new_line_8: 'account
-
-  raccoon
-
-  palace
-
-  wage
-
-  idea
-
-  device
-
-  hello
-
-  youth'
-bip_39_word_new_line_9: 'account
-
-  raccoon
-
-  palace
-
-  wage
-
-  idea
-
-  device
-
-  hello
-
-  youth
-
-  ceiling'
-bip_39_word_no_space_1: account
-bip_39_word_no_space_10: accountraccoonpalacewageideadevicehelloyouthceilinglatin
-bip_39_word_no_space_11: accountraccoonpalacewageideadevicehelloyouthceilinglatinexit
 bip_39_word_no_space_12: accountraccoonpalacewageideadevicehelloyouthceilinglatinexitangry
 bip_39_word_no_space_2: accountraccoon
 bip_39_word_no_space_3: accountraccoonpalace
-bip_39_word_no_space_4: accountraccoonpalacewage
-bip_39_word_no_space_5: accountraccoonpalacewageidea
-bip_39_word_no_space_6: accountraccoonpalacewageideadevice
-bip_39_word_no_space_7: accountraccoonpalacewageideadevicehello
-bip_39_word_no_space_8: accountraccoonpalacewageideadevicehelloyouth
-bip_39_word_no_space_9: accountraccoonpalacewageideadevicehelloyouthceiling
-bip_39_word_space_0:
-- account
-- raccoon
-- palace
-- wage
-- idea
-- device
-- hello
-- youth
-- ceiling
-- latin
-- exit
-- angry
-bip_39_word_space_1: account
-bip_39_word_space_10: account raccoon palace wage idea device hello youth ceiling
-  latin
-bip_39_word_space_11: account raccoon palace wage idea device hello youth ceiling
-  latin exit
 bip_39_word_space_12: account raccoon palace wage idea device hello youth ceiling
   latin exit angry
 bip_39_word_space_2: account raccoon
 bip_39_word_space_3: account raccoon palace
-bip_39_word_space_4: account raccoon palace wage
-bip_39_word_space_5: account raccoon palace wage idea
-bip_39_word_space_6: account raccoon palace wage idea device
-bip_39_word_space_7: account raccoon palace wage idea device hello
-bip_39_word_space_8: account raccoon palace wage idea device hello youth
-bip_39_word_space_9: account raccoon palace wage idea device hello youth ceiling
-bip_39_word_underscore_1: account
-bip_39_word_underscore_10: account_raccoon_palace_wage_idea_device_hello_youth_ceiling_latin
-bip_39_word_underscore_11: account_raccoon_palace_wage_idea_device_hello_youth_ceiling_latin_exit
 bip_39_word_underscore_12: account_raccoon_palace_wage_idea_device_hello_youth_ceiling_latin_exit_angry
 bip_39_word_underscore_2: account_raccoon
 bip_39_word_underscore_3: account_raccoon_palace
-bip_39_word_underscore_4: account_raccoon_palace_wage
-bip_39_word_underscore_5: account_raccoon_palace_wage_idea
-bip_39_word_underscore_6: account_raccoon_palace_wage_idea_device
-bip_39_word_underscore_7: account_raccoon_palace_wage_idea_device_hello
-bip_39_word_underscore_8: account_raccoon_palace_wage_idea_device_hello_youth
-bip_39_word_underscore_9: account_raccoon_palace_wage_idea_device_hello_youth_ceiling
 classification: category
 classification_capital: Category
 classification_first_letter: c

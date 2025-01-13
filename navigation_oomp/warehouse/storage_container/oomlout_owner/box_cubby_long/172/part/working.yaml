@@ -1,68 +1,9 @@
-bip_39_word_dash_1: connect
-bip_39_word_dash_10: connect-cook-arrive-joy-stick-depth-lion-burden-ethics-upset
-bip_39_word_dash_11: connect-cook-arrive-joy-stick-depth-lion-burden-ethics-upset-client
 bip_39_word_dash_12: connect-cook-arrive-joy-stick-depth-lion-burden-ethics-upset-client-atom
 bip_39_word_dash_2: connect-cook
 bip_39_word_dash_3: connect-cook-arrive
-bip_39_word_dash_4: connect-cook-arrive-joy
-bip_39_word_dash_5: connect-cook-arrive-joy-stick
-bip_39_word_dash_6: connect-cook-arrive-joy-stick-depth
-bip_39_word_dash_7: connect-cook-arrive-joy-stick-depth-lion
-bip_39_word_dash_8: connect-cook-arrive-joy-stick-depth-lion-burden
-bip_39_word_dash_9: connect-cook-arrive-joy-stick-depth-lion-burden-ethics
-bip_39_word_new_br_1: connect
-bip_39_word_new_br_10: connect<br>cook<br>arrive<br>joy<br>stick<br>depth<br>lion<br>burden<br>ethics<br>upset
-bip_39_word_new_br_11: connect<br>cook<br>arrive<br>joy<br>stick<br>depth<br>lion<br>burden<br>ethics<br>upset<br>client
 bip_39_word_new_br_12: connect<br>cook<br>arrive<br>joy<br>stick<br>depth<br>lion<br>burden<br>ethics<br>upset<br>client<br>atom
 bip_39_word_new_br_2: connect<br>cook
 bip_39_word_new_br_3: connect<br>cook<br>arrive
-bip_39_word_new_br_4: connect<br>cook<br>arrive<br>joy
-bip_39_word_new_br_5: connect<br>cook<br>arrive<br>joy<br>stick
-bip_39_word_new_br_6: connect<br>cook<br>arrive<br>joy<br>stick<br>depth
-bip_39_word_new_br_7: connect<br>cook<br>arrive<br>joy<br>stick<br>depth<br>lion
-bip_39_word_new_br_8: connect<br>cook<br>arrive<br>joy<br>stick<br>depth<br>lion<br>burden
-bip_39_word_new_br_9: connect<br>cook<br>arrive<br>joy<br>stick<br>depth<br>lion<br>burden<br>ethics
-bip_39_word_new_line_1: connect
-bip_39_word_new_line_10: 'connect
-
-  cook
-
-  arrive
-
-  joy
-
-  stick
-
-  depth
-
-  lion
-
-  burden
-
-  ethics
-
-  upset'
-bip_39_word_new_line_11: 'connect
-
-  cook
-
-  arrive
-
-  joy
-
-  stick
-
-  depth
-
-  lion
-
-  burden
-
-  ethics
-
-  upset
-
-  client'
 bip_39_word_new_line_12: 'connect
 
   cook
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'connect
   cook
 
   arrive'
-bip_39_word_new_line_4: 'connect
-
-  cook
-
-  arrive
-
-  joy'
-bip_39_word_new_line_5: 'connect
-
-  cook
-
-  arrive
-
-  joy
-
-  stick'
-bip_39_word_new_line_6: 'connect
-
-  cook
-
-  arrive
-
-  joy
-
-  stick
-
-  depth'
-bip_39_word_new_line_7: 'connect
-
-  cook
-
-  arrive
-
-  joy
-
-  stick
-
-  depth
-
-  lion'
-bip_39_word_new_line_8: 'connect
-
-  cook
-
-  arrive
-
-  joy
-
-  stick
-
-  depth
-
-  lion
-
-  burden'
-bip_39_word_new_line_9: 'connect
-
-  cook
-
-  arrive
-
-  joy
-
-  stick
-
-  depth
-
-  lion
-
-  burden
-
-  ethics'
-bip_39_word_no_space_1: connect
-bip_39_word_no_space_10: connectcookarrivejoystickdepthlionburdenethicsupset
-bip_39_word_no_space_11: connectcookarrivejoystickdepthlionburdenethicsupsetclient
 bip_39_word_no_space_12: connectcookarrivejoystickdepthlionburdenethicsupsetclientatom
 bip_39_word_no_space_2: connectcook
 bip_39_word_no_space_3: connectcookarrive
-bip_39_word_no_space_4: connectcookarrivejoy
-bip_39_word_no_space_5: connectcookarrivejoystick
-bip_39_word_no_space_6: connectcookarrivejoystickdepth
-bip_39_word_no_space_7: connectcookarrivejoystickdepthlion
-bip_39_word_no_space_8: connectcookarrivejoystickdepthlionburden
-bip_39_word_no_space_9: connectcookarrivejoystickdepthlionburdenethics
-bip_39_word_space_0:
-- connect
-- cook
-- arrive
-- joy
-- stick
-- depth
-- lion
-- burden
-- ethics
-- upset
-- client
-- atom
-bip_39_word_space_1: connect
-bip_39_word_space_10: connect cook arrive joy stick depth lion burden ethics upset
-bip_39_word_space_11: connect cook arrive joy stick depth lion burden ethics upset
-  client
 bip_39_word_space_12: connect cook arrive joy stick depth lion burden ethics upset
   client atom
 bip_39_word_space_2: connect cook
 bip_39_word_space_3: connect cook arrive
-bip_39_word_space_4: connect cook arrive joy
-bip_39_word_space_5: connect cook arrive joy stick
-bip_39_word_space_6: connect cook arrive joy stick depth
-bip_39_word_space_7: connect cook arrive joy stick depth lion
-bip_39_word_space_8: connect cook arrive joy stick depth lion burden
-bip_39_word_space_9: connect cook arrive joy stick depth lion burden ethics
-bip_39_word_underscore_1: connect
-bip_39_word_underscore_10: connect_cook_arrive_joy_stick_depth_lion_burden_ethics_upset
-bip_39_word_underscore_11: connect_cook_arrive_joy_stick_depth_lion_burden_ethics_upset_client
 bip_39_word_underscore_12: connect_cook_arrive_joy_stick_depth_lion_burden_ethics_upset_client_atom
 bip_39_word_underscore_2: connect_cook
 bip_39_word_underscore_3: connect_cook_arrive
-bip_39_word_underscore_4: connect_cook_arrive_joy
-bip_39_word_underscore_5: connect_cook_arrive_joy_stick
-bip_39_word_underscore_6: connect_cook_arrive_joy_stick_depth
-bip_39_word_underscore_7: connect_cook_arrive_joy_stick_depth_lion
-bip_39_word_underscore_8: connect_cook_arrive_joy_stick_depth_lion_burden
-bip_39_word_underscore_9: connect_cook_arrive_joy_stick_depth_lion_burden_ethics
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inmate
-bip_39_word_dash_10: inmate-repair-hold-regular-habit-borrow-december-damage-narrow-maze
-bip_39_word_dash_11: inmate-repair-hold-regular-habit-borrow-december-damage-narrow-maze-aisle
 bip_39_word_dash_12: inmate-repair-hold-regular-habit-borrow-december-damage-narrow-maze-aisle-alpha
 bip_39_word_dash_2: inmate-repair
 bip_39_word_dash_3: inmate-repair-hold
-bip_39_word_dash_4: inmate-repair-hold-regular
-bip_39_word_dash_5: inmate-repair-hold-regular-habit
-bip_39_word_dash_6: inmate-repair-hold-regular-habit-borrow
-bip_39_word_dash_7: inmate-repair-hold-regular-habit-borrow-december
-bip_39_word_dash_8: inmate-repair-hold-regular-habit-borrow-december-damage
-bip_39_word_dash_9: inmate-repair-hold-regular-habit-borrow-december-damage-narrow
-bip_39_word_new_br_1: inmate
-bip_39_word_new_br_10: inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze
-bip_39_word_new_br_11: inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze<br>aisle
 bip_39_word_new_br_12: inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze<br>aisle<br>alpha
 bip_39_word_new_br_2: inmate<br>repair
 bip_39_word_new_br_3: inmate<br>repair<br>hold
-bip_39_word_new_br_4: inmate<br>repair<br>hold<br>regular
-bip_39_word_new_br_5: inmate<br>repair<br>hold<br>regular<br>habit
-bip_39_word_new_br_6: inmate<br>repair<br>hold<br>regular<br>habit<br>borrow
-bip_39_word_new_br_7: inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december
-bip_39_word_new_br_8: inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage
-bip_39_word_new_br_9: inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow
-bip_39_word_new_line_1: inmate
-bip_39_word_new_line_10: 'inmate
-
-  repair
-
-  hold
-
-  regular
-
-  habit
-
-  borrow
-
-  december
-
-  damage
-
-  narrow
-
-  maze'
-bip_39_word_new_line_11: 'inmate
-
-  repair
-
-  hold
-
-  regular
-
-  habit
-
-  borrow
-
-  december
-
-  damage
-
-  narrow
-
-  maze
-
-  aisle'
 bip_39_word_new_line_12: 'inmate
 
   repair
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'inmate
   repair
 
   hold'
-bip_39_word_new_line_4: 'inmate
-
-  repair
-
-  hold
-
-  regular'
-bip_39_word_new_line_5: 'inmate
-
-  repair
-
-  hold
-
-  regular
-
-  habit'
-bip_39_word_new_line_6: 'inmate
-
-  repair
-
-  hold
-
-  regular
-
-  habit
-
-  borrow'
-bip_39_word_new_line_7: 'inmate
-
-  repair
-
-  hold
-
-  regular
-
-  habit
-
-  borrow
-
-  december'
-bip_39_word_new_line_8: 'inmate
-
-  repair
-
-  hold
-
-  regular
-
-  habit
-
-  borrow
-
-  december
-
-  damage'
-bip_39_word_new_line_9: 'inmate
-
-  repair
-
-  hold
-
-  regular
-
-  habit
-
-  borrow
-
-  december
-
-  damage
-
-  narrow'
-bip_39_word_no_space_1: inmate
-bip_39_word_no_space_10: inmaterepairholdregularhabitborrowdecemberdamagenarrowmaze
-bip_39_word_no_space_11: inmaterepairholdregularhabitborrowdecemberdamagenarrowmazeaisle
 bip_39_word_no_space_12: inmaterepairholdregularhabitborrowdecemberdamagenarrowmazeaislealpha
 bip_39_word_no_space_2: inmaterepair
 bip_39_word_no_space_3: inmaterepairhold
-bip_39_word_no_space_4: inmaterepairholdregular
-bip_39_word_no_space_5: inmaterepairholdregularhabit
-bip_39_word_no_space_6: inmaterepairholdregularhabitborrow
-bip_39_word_no_space_7: inmaterepairholdregularhabitborrowdecember
-bip_39_word_no_space_8: inmaterepairholdregularhabitborrowdecemberdamage
-bip_39_word_no_space_9: inmaterepairholdregularhabitborrowdecemberdamagenarrow
-bip_39_word_space_0:
-- inmate
-- repair
-- hold
-- regular
-- habit
-- borrow
-- december
-- damage
-- narrow
-- maze
-- aisle
-- alpha
-bip_39_word_space_1: inmate
-bip_39_word_space_10: inmate repair hold regular habit borrow december damage narrow
-  maze
-bip_39_word_space_11: inmate repair hold regular habit borrow december damage narrow
-  maze aisle
 bip_39_word_space_12: inmate repair hold regular habit borrow december damage narrow
   maze aisle alpha
 bip_39_word_space_2: inmate repair
 bip_39_word_space_3: inmate repair hold
-bip_39_word_space_4: inmate repair hold regular
-bip_39_word_space_5: inmate repair hold regular habit
-bip_39_word_space_6: inmate repair hold regular habit borrow
-bip_39_word_space_7: inmate repair hold regular habit borrow december
-bip_39_word_space_8: inmate repair hold regular habit borrow december damage
-bip_39_word_space_9: inmate repair hold regular habit borrow december damage narrow
-bip_39_word_underscore_1: inmate
-bip_39_word_underscore_10: inmate_repair_hold_regular_habit_borrow_december_damage_narrow_maze
-bip_39_word_underscore_11: inmate_repair_hold_regular_habit_borrow_december_damage_narrow_maze_aisle
 bip_39_word_underscore_12: inmate_repair_hold_regular_habit_borrow_december_damage_narrow_maze_aisle_alpha
 bip_39_word_underscore_2: inmate_repair
 bip_39_word_underscore_3: inmate_repair_hold
-bip_39_word_underscore_4: inmate_repair_hold_regular
-bip_39_word_underscore_5: inmate_repair_hold_regular_habit
-bip_39_word_underscore_6: inmate_repair_hold_regular_habit_borrow
-bip_39_word_underscore_7: inmate_repair_hold_regular_habit_borrow_december
-bip_39_word_underscore_8: inmate_repair_hold_regular_habit_borrow_december_damage
-bip_39_word_underscore_9: inmate_repair_hold_regular_habit_borrow_december_damage_narrow
 classification: furniture
 classification_capital: Furniture
 classification_first_letter: f

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arch
-bip_39_word_dash_10: arch-inject-poet-cute-pull-artefact-member-bring-duck-bomb
-bip_39_word_dash_11: arch-inject-poet-cute-pull-artefact-member-bring-duck-bomb-human
 bip_39_word_dash_12: arch-inject-poet-cute-pull-artefact-member-bring-duck-bomb-human-actual
 bip_39_word_dash_2: arch-inject
 bip_39_word_dash_3: arch-inject-poet
-bip_39_word_dash_4: arch-inject-poet-cute
-bip_39_word_dash_5: arch-inject-poet-cute-pull
-bip_39_word_dash_6: arch-inject-poet-cute-pull-artefact
-bip_39_word_dash_7: arch-inject-poet-cute-pull-artefact-member
-bip_39_word_dash_8: arch-inject-poet-cute-pull-artefact-member-bring
-bip_39_word_dash_9: arch-inject-poet-cute-pull-artefact-member-bring-duck
-bip_39_word_new_br_1: arch
-bip_39_word_new_br_10: arch<br>inject<br>poet<br>cute<br>pull<br>artefact<br>member<br>bring<br>duck<br>bomb
-bip_39_word_new_br_11: arch<br>inject<br>poet<br>cute<br>pull<br>artefact<br>member<br>bring<br>duck<br>bomb<br>human
 bip_39_word_new_br_12: arch<br>inject<br>poet<br>cute<br>pull<br>artefact<br>member<br>bring<br>duck<br>bomb<br>human<br>actual
 bip_39_word_new_br_2: arch<br>inject
 bip_39_word_new_br_3: arch<br>inject<br>poet
-bip_39_word_new_br_4: arch<br>inject<br>poet<br>cute
-bip_39_word_new_br_5: arch<br>inject<br>poet<br>cute<br>pull
-bip_39_word_new_br_6: arch<br>inject<br>poet<br>cute<br>pull<br>artefact
-bip_39_word_new_br_7: arch<br>inject<br>poet<br>cute<br>pull<br>artefact<br>member
-bip_39_word_new_br_8: arch<br>inject<br>poet<br>cute<br>pull<br>artefact<br>member<br>bring
-bip_39_word_new_br_9: arch<br>inject<br>poet<br>cute<br>pull<br>artefact<br>member<br>bring<br>duck
-bip_39_word_new_line_1: arch
-bip_39_word_new_line_10: 'arch
-
-  inject
-
-  poet
-
-  cute
-
-  pull
-
-  artefact
-
-  member
-
-  bring
-
-  duck
-
-  bomb'
-bip_39_word_new_line_11: 'arch
-
-  inject
-
-  poet
-
-  cute
-
-  pull
-
-  artefact
-
-  member
-
-  bring
-
-  duck
-
-  bomb
-
-  human'
 bip_39_word_new_line_12: 'arch
 
   inject
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'arch
   inject
 
   poet'
-bip_39_word_new_line_4: 'arch
-
-  inject
-
-  poet
-
-  cute'
-bip_39_word_new_line_5: 'arch
-
-  inject
-
-  poet
-
-  cute
-
-  pull'
-bip_39_word_new_line_6: 'arch
-
-  inject
-
-  poet
-
-  cute
-
-  pull
-
-  artefact'
-bip_39_word_new_line_7: 'arch
-
-  inject
-
-  poet
-
-  cute
-
-  pull
-
-  artefact
-
-  member'
-bip_39_word_new_line_8: 'arch
-
-  inject
-
-  poet
-
-  cute
-
-  pull
-
-  artefact
-
-  member
-
-  bring'
-bip_39_word_new_line_9: 'arch
-
-  inject
-
-  poet
-
-  cute
-
-  pull
-
-  artefact
-
-  member
-
-  bring
-
-  duck'
-bip_39_word_no_space_1: arch
-bip_39_word_no_space_10: archinjectpoetcutepullartefactmemberbringduckbomb
-bip_39_word_no_space_11: archinjectpoetcutepullartefactmemberbringduckbombhuman
 bip_39_word_no_space_12: archinjectpoetcutepullartefactmemberbringduckbombhumanactual
 bip_39_word_no_space_2: archinject
 bip_39_word_no_space_3: archinjectpoet
-bip_39_word_no_space_4: archinjectpoetcute
-bip_39_word_no_space_5: archinjectpoetcutepull
-bip_39_word_no_space_6: archinjectpoetcutepullartefact
-bip_39_word_no_space_7: archinjectpoetcutepullartefactmember
-bip_39_word_no_space_8: archinjectpoetcutepullartefactmemberbring
-bip_39_word_no_space_9: archinjectpoetcutepullartefactmemberbringduck
-bip_39_word_space_0:
-- arch
-- inject
-- poet
-- cute
-- pull
-- artefact
-- member
-- bring
-- duck
-- bomb
-- human
-- actual
-bip_39_word_space_1: arch
-bip_39_word_space_10: arch inject poet cute pull artefact member bring duck bomb
-bip_39_word_space_11: arch inject poet cute pull artefact member bring duck bomb human
 bip_39_word_space_12: arch inject poet cute pull artefact member bring duck bomb human
   actual
 bip_39_word_space_2: arch inject
 bip_39_word_space_3: arch inject poet
-bip_39_word_space_4: arch inject poet cute
-bip_39_word_space_5: arch inject poet cute pull
-bip_39_word_space_6: arch inject poet cute pull artefact
-bip_39_word_space_7: arch inject poet cute pull artefact member
-bip_39_word_space_8: arch inject poet cute pull artefact member bring
-bip_39_word_space_9: arch inject poet cute pull artefact member bring duck
-bip_39_word_underscore_1: arch
-bip_39_word_underscore_10: arch_inject_poet_cute_pull_artefact_member_bring_duck_bomb
-bip_39_word_underscore_11: arch_inject_poet_cute_pull_artefact_member_bring_duck_bomb_human
 bip_39_word_underscore_12: arch_inject_poet_cute_pull_artefact_member_bring_duck_bomb_human_actual
 bip_39_word_underscore_2: arch_inject
 bip_39_word_underscore_3: arch_inject_poet
-bip_39_word_underscore_4: arch_inject_poet_cute
-bip_39_word_underscore_5: arch_inject_poet_cute_pull
-bip_39_word_underscore_6: arch_inject_poet_cute_pull_artefact
-bip_39_word_underscore_7: arch_inject_poet_cute_pull_artefact_member
-bip_39_word_underscore_8: arch_inject_poet_cute_pull_artefact_member_bring
-bip_39_word_underscore_9: arch_inject_poet_cute_pull_artefact_member_bring_duck
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

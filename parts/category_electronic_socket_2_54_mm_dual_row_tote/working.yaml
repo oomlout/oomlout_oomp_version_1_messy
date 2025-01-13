@@ -1,68 +1,9 @@
-bip_39_word_dash_1: coyote
-bip_39_word_dash_10: coyote-maid-garden-weekend-ugly-fragile-faint-engage-elegant-aisle
-bip_39_word_dash_11: coyote-maid-garden-weekend-ugly-fragile-faint-engage-elegant-aisle-sight
 bip_39_word_dash_12: coyote-maid-garden-weekend-ugly-fragile-faint-engage-elegant-aisle-sight-afraid
 bip_39_word_dash_2: coyote-maid
 bip_39_word_dash_3: coyote-maid-garden
-bip_39_word_dash_4: coyote-maid-garden-weekend
-bip_39_word_dash_5: coyote-maid-garden-weekend-ugly
-bip_39_word_dash_6: coyote-maid-garden-weekend-ugly-fragile
-bip_39_word_dash_7: coyote-maid-garden-weekend-ugly-fragile-faint
-bip_39_word_dash_8: coyote-maid-garden-weekend-ugly-fragile-faint-engage
-bip_39_word_dash_9: coyote-maid-garden-weekend-ugly-fragile-faint-engage-elegant
-bip_39_word_new_br_1: coyote
-bip_39_word_new_br_10: coyote<br>maid<br>garden<br>weekend<br>ugly<br>fragile<br>faint<br>engage<br>elegant<br>aisle
-bip_39_word_new_br_11: coyote<br>maid<br>garden<br>weekend<br>ugly<br>fragile<br>faint<br>engage<br>elegant<br>aisle<br>sight
 bip_39_word_new_br_12: coyote<br>maid<br>garden<br>weekend<br>ugly<br>fragile<br>faint<br>engage<br>elegant<br>aisle<br>sight<br>afraid
 bip_39_word_new_br_2: coyote<br>maid
 bip_39_word_new_br_3: coyote<br>maid<br>garden
-bip_39_word_new_br_4: coyote<br>maid<br>garden<br>weekend
-bip_39_word_new_br_5: coyote<br>maid<br>garden<br>weekend<br>ugly
-bip_39_word_new_br_6: coyote<br>maid<br>garden<br>weekend<br>ugly<br>fragile
-bip_39_word_new_br_7: coyote<br>maid<br>garden<br>weekend<br>ugly<br>fragile<br>faint
-bip_39_word_new_br_8: coyote<br>maid<br>garden<br>weekend<br>ugly<br>fragile<br>faint<br>engage
-bip_39_word_new_br_9: coyote<br>maid<br>garden<br>weekend<br>ugly<br>fragile<br>faint<br>engage<br>elegant
-bip_39_word_new_line_1: coyote
-bip_39_word_new_line_10: 'coyote
-
-  maid
-
-  garden
-
-  weekend
-
-  ugly
-
-  fragile
-
-  faint
-
-  engage
-
-  elegant
-
-  aisle'
-bip_39_word_new_line_11: 'coyote
-
-  maid
-
-  garden
-
-  weekend
-
-  ugly
-
-  fragile
-
-  faint
-
-  engage
-
-  elegant
-
-  aisle
-
-  sight'
 bip_39_word_new_line_12: 'coyote
 
   maid
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'coyote
   maid
 
   garden'
-bip_39_word_new_line_4: 'coyote
-
-  maid
-
-  garden
-
-  weekend'
-bip_39_word_new_line_5: 'coyote
-
-  maid
-
-  garden
-
-  weekend
-
-  ugly'
-bip_39_word_new_line_6: 'coyote
-
-  maid
-
-  garden
-
-  weekend
-
-  ugly
-
-  fragile'
-bip_39_word_new_line_7: 'coyote
-
-  maid
-
-  garden
-
-  weekend
-
-  ugly
-
-  fragile
-
-  faint'
-bip_39_word_new_line_8: 'coyote
-
-  maid
-
-  garden
-
-  weekend
-
-  ugly
-
-  fragile
-
-  faint
-
-  engage'
-bip_39_word_new_line_9: 'coyote
-
-  maid
-
-  garden
-
-  weekend
-
-  ugly
-
-  fragile
-
-  faint
-
-  engage
-
-  elegant'
-bip_39_word_no_space_1: coyote
-bip_39_word_no_space_10: coyotemaidgardenweekenduglyfragilefaintengageelegantaisle
-bip_39_word_no_space_11: coyotemaidgardenweekenduglyfragilefaintengageelegantaislesight
 bip_39_word_no_space_12: coyotemaidgardenweekenduglyfragilefaintengageelegantaislesightafraid
 bip_39_word_no_space_2: coyotemaid
 bip_39_word_no_space_3: coyotemaidgarden
-bip_39_word_no_space_4: coyotemaidgardenweekend
-bip_39_word_no_space_5: coyotemaidgardenweekendugly
-bip_39_word_no_space_6: coyotemaidgardenweekenduglyfragile
-bip_39_word_no_space_7: coyotemaidgardenweekenduglyfragilefaint
-bip_39_word_no_space_8: coyotemaidgardenweekenduglyfragilefaintengage
-bip_39_word_no_space_9: coyotemaidgardenweekenduglyfragilefaintengageelegant
-bip_39_word_space_0:
-- coyote
-- maid
-- garden
-- weekend
-- ugly
-- fragile
-- faint
-- engage
-- elegant
-- aisle
-- sight
-- afraid
-bip_39_word_space_1: coyote
-bip_39_word_space_10: coyote maid garden weekend ugly fragile faint engage elegant
-  aisle
-bip_39_word_space_11: coyote maid garden weekend ugly fragile faint engage elegant
-  aisle sight
 bip_39_word_space_12: coyote maid garden weekend ugly fragile faint engage elegant
   aisle sight afraid
 bip_39_word_space_2: coyote maid
 bip_39_word_space_3: coyote maid garden
-bip_39_word_space_4: coyote maid garden weekend
-bip_39_word_space_5: coyote maid garden weekend ugly
-bip_39_word_space_6: coyote maid garden weekend ugly fragile
-bip_39_word_space_7: coyote maid garden weekend ugly fragile faint
-bip_39_word_space_8: coyote maid garden weekend ugly fragile faint engage
-bip_39_word_space_9: coyote maid garden weekend ugly fragile faint engage elegant
-bip_39_word_underscore_1: coyote
-bip_39_word_underscore_10: coyote_maid_garden_weekend_ugly_fragile_faint_engage_elegant_aisle
-bip_39_word_underscore_11: coyote_maid_garden_weekend_ugly_fragile_faint_engage_elegant_aisle_sight
 bip_39_word_underscore_12: coyote_maid_garden_weekend_ugly_fragile_faint_engage_elegant_aisle_sight_afraid
 bip_39_word_underscore_2: coyote_maid
 bip_39_word_underscore_3: coyote_maid_garden
-bip_39_word_underscore_4: coyote_maid_garden_weekend
-bip_39_word_underscore_5: coyote_maid_garden_weekend_ugly
-bip_39_word_underscore_6: coyote_maid_garden_weekend_ugly_fragile
-bip_39_word_underscore_7: coyote_maid_garden_weekend_ugly_fragile_faint
-bip_39_word_underscore_8: coyote_maid_garden_weekend_ugly_fragile_faint_engage
-bip_39_word_underscore_9: coyote_maid_garden_weekend_ugly_fragile_faint_engage_elegant
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: leader
-bip_39_word_dash_10: leader-horn-meadow-finger-problem-sudden-hole-piano-unfair-movie
-bip_39_word_dash_11: leader-horn-meadow-finger-problem-sudden-hole-piano-unfair-movie-celery
 bip_39_word_dash_12: leader-horn-meadow-finger-problem-sudden-hole-piano-unfair-movie-celery-apart
 bip_39_word_dash_2: leader-horn
 bip_39_word_dash_3: leader-horn-meadow
-bip_39_word_dash_4: leader-horn-meadow-finger
-bip_39_word_dash_5: leader-horn-meadow-finger-problem
-bip_39_word_dash_6: leader-horn-meadow-finger-problem-sudden
-bip_39_word_dash_7: leader-horn-meadow-finger-problem-sudden-hole
-bip_39_word_dash_8: leader-horn-meadow-finger-problem-sudden-hole-piano
-bip_39_word_dash_9: leader-horn-meadow-finger-problem-sudden-hole-piano-unfair
-bip_39_word_new_br_1: leader
-bip_39_word_new_br_10: leader<br>horn<br>meadow<br>finger<br>problem<br>sudden<br>hole<br>piano<br>unfair<br>movie
-bip_39_word_new_br_11: leader<br>horn<br>meadow<br>finger<br>problem<br>sudden<br>hole<br>piano<br>unfair<br>movie<br>celery
 bip_39_word_new_br_12: leader<br>horn<br>meadow<br>finger<br>problem<br>sudden<br>hole<br>piano<br>unfair<br>movie<br>celery<br>apart
 bip_39_word_new_br_2: leader<br>horn
 bip_39_word_new_br_3: leader<br>horn<br>meadow
-bip_39_word_new_br_4: leader<br>horn<br>meadow<br>finger
-bip_39_word_new_br_5: leader<br>horn<br>meadow<br>finger<br>problem
-bip_39_word_new_br_6: leader<br>horn<br>meadow<br>finger<br>problem<br>sudden
-bip_39_word_new_br_7: leader<br>horn<br>meadow<br>finger<br>problem<br>sudden<br>hole
-bip_39_word_new_br_8: leader<br>horn<br>meadow<br>finger<br>problem<br>sudden<br>hole<br>piano
-bip_39_word_new_br_9: leader<br>horn<br>meadow<br>finger<br>problem<br>sudden<br>hole<br>piano<br>unfair
-bip_39_word_new_line_1: leader
-bip_39_word_new_line_10: 'leader
-
-  horn
-
-  meadow
-
-  finger
-
-  problem
-
-  sudden
-
-  hole
-
-  piano
-
-  unfair
-
-  movie'
-bip_39_word_new_line_11: 'leader
-
-  horn
-
-  meadow
-
-  finger
-
-  problem
-
-  sudden
-
-  hole
-
-  piano
-
-  unfair
-
-  movie
-
-  celery'
 bip_39_word_new_line_12: 'leader
 
   horn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'leader
   horn
 
   meadow'
-bip_39_word_new_line_4: 'leader
-
-  horn
-
-  meadow
-
-  finger'
-bip_39_word_new_line_5: 'leader
-
-  horn
-
-  meadow
-
-  finger
-
-  problem'
-bip_39_word_new_line_6: 'leader
-
-  horn
-
-  meadow
-
-  finger
-
-  problem
-
-  sudden'
-bip_39_word_new_line_7: 'leader
-
-  horn
-
-  meadow
-
-  finger
-
-  problem
-
-  sudden
-
-  hole'
-bip_39_word_new_line_8: 'leader
-
-  horn
-
-  meadow
-
-  finger
-
-  problem
-
-  sudden
-
-  hole
-
-  piano'
-bip_39_word_new_line_9: 'leader
-
-  horn
-
-  meadow
-
-  finger
-
-  problem
-
-  sudden
-
-  hole
-
-  piano
-
-  unfair'
-bip_39_word_no_space_1: leader
-bip_39_word_no_space_10: leaderhornmeadowfingerproblemsuddenholepianounfairmovie
-bip_39_word_no_space_11: leaderhornmeadowfingerproblemsuddenholepianounfairmoviecelery
 bip_39_word_no_space_12: leaderhornmeadowfingerproblemsuddenholepianounfairmovieceleryapart
 bip_39_word_no_space_2: leaderhorn
 bip_39_word_no_space_3: leaderhornmeadow
-bip_39_word_no_space_4: leaderhornmeadowfinger
-bip_39_word_no_space_5: leaderhornmeadowfingerproblem
-bip_39_word_no_space_6: leaderhornmeadowfingerproblemsudden
-bip_39_word_no_space_7: leaderhornmeadowfingerproblemsuddenhole
-bip_39_word_no_space_8: leaderhornmeadowfingerproblemsuddenholepiano
-bip_39_word_no_space_9: leaderhornmeadowfingerproblemsuddenholepianounfair
-bip_39_word_space_0:
-- leader
-- horn
-- meadow
-- finger
-- problem
-- sudden
-- hole
-- piano
-- unfair
-- movie
-- celery
-- apart
-bip_39_word_space_1: leader
-bip_39_word_space_10: leader horn meadow finger problem sudden hole piano unfair movie
-bip_39_word_space_11: leader horn meadow finger problem sudden hole piano unfair movie
-  celery
 bip_39_word_space_12: leader horn meadow finger problem sudden hole piano unfair movie
   celery apart
 bip_39_word_space_2: leader horn
 bip_39_word_space_3: leader horn meadow
-bip_39_word_space_4: leader horn meadow finger
-bip_39_word_space_5: leader horn meadow finger problem
-bip_39_word_space_6: leader horn meadow finger problem sudden
-bip_39_word_space_7: leader horn meadow finger problem sudden hole
-bip_39_word_space_8: leader horn meadow finger problem sudden hole piano
-bip_39_word_space_9: leader horn meadow finger problem sudden hole piano unfair
-bip_39_word_underscore_1: leader
-bip_39_word_underscore_10: leader_horn_meadow_finger_problem_sudden_hole_piano_unfair_movie
-bip_39_word_underscore_11: leader_horn_meadow_finger_problem_sudden_hole_piano_unfair_movie_celery
 bip_39_word_underscore_12: leader_horn_meadow_finger_problem_sudden_hole_piano_unfair_movie_celery_apart
 bip_39_word_underscore_2: leader_horn
 bip_39_word_underscore_3: leader_horn_meadow
-bip_39_word_underscore_4: leader_horn_meadow_finger
-bip_39_word_underscore_5: leader_horn_meadow_finger_problem
-bip_39_word_underscore_6: leader_horn_meadow_finger_problem_sudden
-bip_39_word_underscore_7: leader_horn_meadow_finger_problem_sudden_hole
-bip_39_word_underscore_8: leader_horn_meadow_finger_problem_sudden_hole_piano
-bip_39_word_underscore_9: leader_horn_meadow_finger_problem_sudden_hole_piano_unfair
 classification: category
 classification_capital: Category
 classification_first_letter: c

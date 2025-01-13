@@ -1,68 +1,9 @@
-bip_39_word_dash_1: visa
-bip_39_word_dash_10: visa-marine-drift-ladder-derive-grunt-middle-tobacco-fetch-happy
-bip_39_word_dash_11: visa-marine-drift-ladder-derive-grunt-middle-tobacco-fetch-happy-sword
 bip_39_word_dash_12: visa-marine-drift-ladder-derive-grunt-middle-tobacco-fetch-happy-sword-aspect
 bip_39_word_dash_2: visa-marine
 bip_39_word_dash_3: visa-marine-drift
-bip_39_word_dash_4: visa-marine-drift-ladder
-bip_39_word_dash_5: visa-marine-drift-ladder-derive
-bip_39_word_dash_6: visa-marine-drift-ladder-derive-grunt
-bip_39_word_dash_7: visa-marine-drift-ladder-derive-grunt-middle
-bip_39_word_dash_8: visa-marine-drift-ladder-derive-grunt-middle-tobacco
-bip_39_word_dash_9: visa-marine-drift-ladder-derive-grunt-middle-tobacco-fetch
-bip_39_word_new_br_1: visa
-bip_39_word_new_br_10: visa<br>marine<br>drift<br>ladder<br>derive<br>grunt<br>middle<br>tobacco<br>fetch<br>happy
-bip_39_word_new_br_11: visa<br>marine<br>drift<br>ladder<br>derive<br>grunt<br>middle<br>tobacco<br>fetch<br>happy<br>sword
 bip_39_word_new_br_12: visa<br>marine<br>drift<br>ladder<br>derive<br>grunt<br>middle<br>tobacco<br>fetch<br>happy<br>sword<br>aspect
 bip_39_word_new_br_2: visa<br>marine
 bip_39_word_new_br_3: visa<br>marine<br>drift
-bip_39_word_new_br_4: visa<br>marine<br>drift<br>ladder
-bip_39_word_new_br_5: visa<br>marine<br>drift<br>ladder<br>derive
-bip_39_word_new_br_6: visa<br>marine<br>drift<br>ladder<br>derive<br>grunt
-bip_39_word_new_br_7: visa<br>marine<br>drift<br>ladder<br>derive<br>grunt<br>middle
-bip_39_word_new_br_8: visa<br>marine<br>drift<br>ladder<br>derive<br>grunt<br>middle<br>tobacco
-bip_39_word_new_br_9: visa<br>marine<br>drift<br>ladder<br>derive<br>grunt<br>middle<br>tobacco<br>fetch
-bip_39_word_new_line_1: visa
-bip_39_word_new_line_10: 'visa
-
-  marine
-
-  drift
-
-  ladder
-
-  derive
-
-  grunt
-
-  middle
-
-  tobacco
-
-  fetch
-
-  happy'
-bip_39_word_new_line_11: 'visa
-
-  marine
-
-  drift
-
-  ladder
-
-  derive
-
-  grunt
-
-  middle
-
-  tobacco
-
-  fetch
-
-  happy
-
-  sword'
 bip_39_word_new_line_12: 'visa
 
   marine
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'visa
   marine
 
   drift'
-bip_39_word_new_line_4: 'visa
-
-  marine
-
-  drift
-
-  ladder'
-bip_39_word_new_line_5: 'visa
-
-  marine
-
-  drift
-
-  ladder
-
-  derive'
-bip_39_word_new_line_6: 'visa
-
-  marine
-
-  drift
-
-  ladder
-
-  derive
-
-  grunt'
-bip_39_word_new_line_7: 'visa
-
-  marine
-
-  drift
-
-  ladder
-
-  derive
-
-  grunt
-
-  middle'
-bip_39_word_new_line_8: 'visa
-
-  marine
-
-  drift
-
-  ladder
-
-  derive
-
-  grunt
-
-  middle
-
-  tobacco'
-bip_39_word_new_line_9: 'visa
-
-  marine
-
-  drift
-
-  ladder
-
-  derive
-
-  grunt
-
-  middle
-
-  tobacco
-
-  fetch'
-bip_39_word_no_space_1: visa
-bip_39_word_no_space_10: visamarinedriftladderderivegruntmiddletobaccofetchhappy
-bip_39_word_no_space_11: visamarinedriftladderderivegruntmiddletobaccofetchhappysword
 bip_39_word_no_space_12: visamarinedriftladderderivegruntmiddletobaccofetchhappyswordaspect
 bip_39_word_no_space_2: visamarine
 bip_39_word_no_space_3: visamarinedrift
-bip_39_word_no_space_4: visamarinedriftladder
-bip_39_word_no_space_5: visamarinedriftladderderive
-bip_39_word_no_space_6: visamarinedriftladderderivegrunt
-bip_39_word_no_space_7: visamarinedriftladderderivegruntmiddle
-bip_39_word_no_space_8: visamarinedriftladderderivegruntmiddletobacco
-bip_39_word_no_space_9: visamarinedriftladderderivegruntmiddletobaccofetch
-bip_39_word_space_0:
-- visa
-- marine
-- drift
-- ladder
-- derive
-- grunt
-- middle
-- tobacco
-- fetch
-- happy
-- sword
-- aspect
-bip_39_word_space_1: visa
-bip_39_word_space_10: visa marine drift ladder derive grunt middle tobacco fetch happy
-bip_39_word_space_11: visa marine drift ladder derive grunt middle tobacco fetch happy
-  sword
 bip_39_word_space_12: visa marine drift ladder derive grunt middle tobacco fetch happy
   sword aspect
 bip_39_word_space_2: visa marine
 bip_39_word_space_3: visa marine drift
-bip_39_word_space_4: visa marine drift ladder
-bip_39_word_space_5: visa marine drift ladder derive
-bip_39_word_space_6: visa marine drift ladder derive grunt
-bip_39_word_space_7: visa marine drift ladder derive grunt middle
-bip_39_word_space_8: visa marine drift ladder derive grunt middle tobacco
-bip_39_word_space_9: visa marine drift ladder derive grunt middle tobacco fetch
-bip_39_word_underscore_1: visa
-bip_39_word_underscore_10: visa_marine_drift_ladder_derive_grunt_middle_tobacco_fetch_happy
-bip_39_word_underscore_11: visa_marine_drift_ladder_derive_grunt_middle_tobacco_fetch_happy_sword
 bip_39_word_underscore_12: visa_marine_drift_ladder_derive_grunt_middle_tobacco_fetch_happy_sword_aspect
 bip_39_word_underscore_2: visa_marine
 bip_39_word_underscore_3: visa_marine_drift
-bip_39_word_underscore_4: visa_marine_drift_ladder
-bip_39_word_underscore_5: visa_marine_drift_ladder_derive
-bip_39_word_underscore_6: visa_marine_drift_ladder_derive_grunt
-bip_39_word_underscore_7: visa_marine_drift_ladder_derive_grunt_middle
-bip_39_word_underscore_8: visa_marine_drift_ladder_derive_grunt_middle_tobacco
-bip_39_word_underscore_9: visa_marine_drift_ladder_derive_grunt_middle_tobacco_fetch
 classification: category
 classification_capital: Category
 classification_first_letter: c

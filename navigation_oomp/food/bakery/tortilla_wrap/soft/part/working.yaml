@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wife
-bip_39_word_dash_10: wife-hedgehog-true-ridge-viable-fragile-person-kiss-delay-cover
-bip_39_word_dash_11: wife-hedgehog-true-ridge-viable-fragile-person-kiss-delay-cover-hockey
 bip_39_word_dash_12: wife-hedgehog-true-ridge-viable-fragile-person-kiss-delay-cover-hockey-appear
 bip_39_word_dash_2: wife-hedgehog
 bip_39_word_dash_3: wife-hedgehog-true
-bip_39_word_dash_4: wife-hedgehog-true-ridge
-bip_39_word_dash_5: wife-hedgehog-true-ridge-viable
-bip_39_word_dash_6: wife-hedgehog-true-ridge-viable-fragile
-bip_39_word_dash_7: wife-hedgehog-true-ridge-viable-fragile-person
-bip_39_word_dash_8: wife-hedgehog-true-ridge-viable-fragile-person-kiss
-bip_39_word_dash_9: wife-hedgehog-true-ridge-viable-fragile-person-kiss-delay
-bip_39_word_new_br_1: wife
-bip_39_word_new_br_10: wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover
-bip_39_word_new_br_11: wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover<br>hockey
 bip_39_word_new_br_12: wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay<br>cover<br>hockey<br>appear
 bip_39_word_new_br_2: wife<br>hedgehog
 bip_39_word_new_br_3: wife<br>hedgehog<br>true
-bip_39_word_new_br_4: wife<br>hedgehog<br>true<br>ridge
-bip_39_word_new_br_5: wife<br>hedgehog<br>true<br>ridge<br>viable
-bip_39_word_new_br_6: wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile
-bip_39_word_new_br_7: wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person
-bip_39_word_new_br_8: wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss
-bip_39_word_new_br_9: wife<br>hedgehog<br>true<br>ridge<br>viable<br>fragile<br>person<br>kiss<br>delay
-bip_39_word_new_line_1: wife
-bip_39_word_new_line_10: 'wife
-
-  hedgehog
-
-  true
-
-  ridge
-
-  viable
-
-  fragile
-
-  person
-
-  kiss
-
-  delay
-
-  cover'
-bip_39_word_new_line_11: 'wife
-
-  hedgehog
-
-  true
-
-  ridge
-
-  viable
-
-  fragile
-
-  person
-
-  kiss
-
-  delay
-
-  cover
-
-  hockey'
 bip_39_word_new_line_12: 'wife
 
   hedgehog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wife
   hedgehog
 
   true'
-bip_39_word_new_line_4: 'wife
-
-  hedgehog
-
-  true
-
-  ridge'
-bip_39_word_new_line_5: 'wife
-
-  hedgehog
-
-  true
-
-  ridge
-
-  viable'
-bip_39_word_new_line_6: 'wife
-
-  hedgehog
-
-  true
-
-  ridge
-
-  viable
-
-  fragile'
-bip_39_word_new_line_7: 'wife
-
-  hedgehog
-
-  true
-
-  ridge
-
-  viable
-
-  fragile
-
-  person'
-bip_39_word_new_line_8: 'wife
-
-  hedgehog
-
-  true
-
-  ridge
-
-  viable
-
-  fragile
-
-  person
-
-  kiss'
-bip_39_word_new_line_9: 'wife
-
-  hedgehog
-
-  true
-
-  ridge
-
-  viable
-
-  fragile
-
-  person
-
-  kiss
-
-  delay'
-bip_39_word_no_space_1: wife
-bip_39_word_no_space_10: wifehedgehogtrueridgeviablefragilepersonkissdelaycover
-bip_39_word_no_space_11: wifehedgehogtrueridgeviablefragilepersonkissdelaycoverhockey
 bip_39_word_no_space_12: wifehedgehogtrueridgeviablefragilepersonkissdelaycoverhockeyappear
 bip_39_word_no_space_2: wifehedgehog
 bip_39_word_no_space_3: wifehedgehogtrue
-bip_39_word_no_space_4: wifehedgehogtrueridge
-bip_39_word_no_space_5: wifehedgehogtrueridgeviable
-bip_39_word_no_space_6: wifehedgehogtrueridgeviablefragile
-bip_39_word_no_space_7: wifehedgehogtrueridgeviablefragileperson
-bip_39_word_no_space_8: wifehedgehogtrueridgeviablefragilepersonkiss
-bip_39_word_no_space_9: wifehedgehogtrueridgeviablefragilepersonkissdelay
-bip_39_word_space_0:
-- wife
-- hedgehog
-- 'true'
-- ridge
-- viable
-- fragile
-- person
-- kiss
-- delay
-- cover
-- hockey
-- appear
-bip_39_word_space_1: wife
-bip_39_word_space_10: wife hedgehog true ridge viable fragile person kiss delay cover
-bip_39_word_space_11: wife hedgehog true ridge viable fragile person kiss delay cover
-  hockey
 bip_39_word_space_12: wife hedgehog true ridge viable fragile person kiss delay cover
   hockey appear
 bip_39_word_space_2: wife hedgehog
 bip_39_word_space_3: wife hedgehog true
-bip_39_word_space_4: wife hedgehog true ridge
-bip_39_word_space_5: wife hedgehog true ridge viable
-bip_39_word_space_6: wife hedgehog true ridge viable fragile
-bip_39_word_space_7: wife hedgehog true ridge viable fragile person
-bip_39_word_space_8: wife hedgehog true ridge viable fragile person kiss
-bip_39_word_space_9: wife hedgehog true ridge viable fragile person kiss delay
-bip_39_word_underscore_1: wife
-bip_39_word_underscore_10: wife_hedgehog_true_ridge_viable_fragile_person_kiss_delay_cover
-bip_39_word_underscore_11: wife_hedgehog_true_ridge_viable_fragile_person_kiss_delay_cover_hockey
 bip_39_word_underscore_12: wife_hedgehog_true_ridge_viable_fragile_person_kiss_delay_cover_hockey_appear
 bip_39_word_underscore_2: wife_hedgehog
 bip_39_word_underscore_3: wife_hedgehog_true
-bip_39_word_underscore_4: wife_hedgehog_true_ridge
-bip_39_word_underscore_5: wife_hedgehog_true_ridge_viable
-bip_39_word_underscore_6: wife_hedgehog_true_ridge_viable_fragile
-bip_39_word_underscore_7: wife_hedgehog_true_ridge_viable_fragile_person
-bip_39_word_underscore_8: wife_hedgehog_true_ridge_viable_fragile_person_kiss
-bip_39_word_underscore_9: wife_hedgehog_true_ridge_viable_fragile_person_kiss_delay
 classification: food
 classification_capital: Food
 classification_first_letter: f

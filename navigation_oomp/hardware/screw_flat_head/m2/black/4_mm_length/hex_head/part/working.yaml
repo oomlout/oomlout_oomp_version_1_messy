@@ -1,68 +1,9 @@
-bip_39_word_dash_1: airport
-bip_39_word_dash_10: airport-deposit-cry-flame-differ-shuffle-cloth-huge-shop-obey
-bip_39_word_dash_11: airport-deposit-cry-flame-differ-shuffle-cloth-huge-shop-obey-relax
 bip_39_word_dash_12: airport-deposit-cry-flame-differ-shuffle-cloth-huge-shop-obey-relax-alone
 bip_39_word_dash_2: airport-deposit
 bip_39_word_dash_3: airport-deposit-cry
-bip_39_word_dash_4: airport-deposit-cry-flame
-bip_39_word_dash_5: airport-deposit-cry-flame-differ
-bip_39_word_dash_6: airport-deposit-cry-flame-differ-shuffle
-bip_39_word_dash_7: airport-deposit-cry-flame-differ-shuffle-cloth
-bip_39_word_dash_8: airport-deposit-cry-flame-differ-shuffle-cloth-huge
-bip_39_word_dash_9: airport-deposit-cry-flame-differ-shuffle-cloth-huge-shop
-bip_39_word_new_br_1: airport
-bip_39_word_new_br_10: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge<br>shop<br>obey
-bip_39_word_new_br_11: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge<br>shop<br>obey<br>relax
 bip_39_word_new_br_12: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge<br>shop<br>obey<br>relax<br>alone
 bip_39_word_new_br_2: airport<br>deposit
 bip_39_word_new_br_3: airport<br>deposit<br>cry
-bip_39_word_new_br_4: airport<br>deposit<br>cry<br>flame
-bip_39_word_new_br_5: airport<br>deposit<br>cry<br>flame<br>differ
-bip_39_word_new_br_6: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle
-bip_39_word_new_br_7: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth
-bip_39_word_new_br_8: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge
-bip_39_word_new_br_9: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge<br>shop
-bip_39_word_new_line_1: airport
-bip_39_word_new_line_10: 'airport
-
-  deposit
-
-  cry
-
-  flame
-
-  differ
-
-  shuffle
-
-  cloth
-
-  huge
-
-  shop
-
-  obey'
-bip_39_word_new_line_11: 'airport
-
-  deposit
-
-  cry
-
-  flame
-
-  differ
-
-  shuffle
-
-  cloth
-
-  huge
-
-  shop
-
-  obey
-
-  relax'
 bip_39_word_new_line_12: 'airport
 
   deposit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'airport
   deposit
 
   cry'
-bip_39_word_new_line_4: 'airport
-
-  deposit
-
-  cry
-
-  flame'
-bip_39_word_new_line_5: 'airport
-
-  deposit
-
-  cry
-
-  flame
-
-  differ'
-bip_39_word_new_line_6: 'airport
-
-  deposit
-
-  cry
-
-  flame
-
-  differ
-
-  shuffle'
-bip_39_word_new_line_7: 'airport
-
-  deposit
-
-  cry
-
-  flame
-
-  differ
-
-  shuffle
-
-  cloth'
-bip_39_word_new_line_8: 'airport
-
-  deposit
-
-  cry
-
-  flame
-
-  differ
-
-  shuffle
-
-  cloth
-
-  huge'
-bip_39_word_new_line_9: 'airport
-
-  deposit
-
-  cry
-
-  flame
-
-  differ
-
-  shuffle
-
-  cloth
-
-  huge
-
-  shop'
-bip_39_word_no_space_1: airport
-bip_39_word_no_space_10: airportdepositcryflamediffershuffleclothhugeshopobey
-bip_39_word_no_space_11: airportdepositcryflamediffershuffleclothhugeshopobeyrelax
 bip_39_word_no_space_12: airportdepositcryflamediffershuffleclothhugeshopobeyrelaxalone
 bip_39_word_no_space_2: airportdeposit
 bip_39_word_no_space_3: airportdepositcry
-bip_39_word_no_space_4: airportdepositcryflame
-bip_39_word_no_space_5: airportdepositcryflamediffer
-bip_39_word_no_space_6: airportdepositcryflamediffershuffle
-bip_39_word_no_space_7: airportdepositcryflamediffershufflecloth
-bip_39_word_no_space_8: airportdepositcryflamediffershuffleclothhuge
-bip_39_word_no_space_9: airportdepositcryflamediffershuffleclothhugeshop
-bip_39_word_space_0:
-- airport
-- deposit
-- cry
-- flame
-- differ
-- shuffle
-- cloth
-- huge
-- shop
-- obey
-- relax
-- alone
-bip_39_word_space_1: airport
-bip_39_word_space_10: airport deposit cry flame differ shuffle cloth huge shop obey
-bip_39_word_space_11: airport deposit cry flame differ shuffle cloth huge shop obey
-  relax
 bip_39_word_space_12: airport deposit cry flame differ shuffle cloth huge shop obey
   relax alone
 bip_39_word_space_2: airport deposit
 bip_39_word_space_3: airport deposit cry
-bip_39_word_space_4: airport deposit cry flame
-bip_39_word_space_5: airport deposit cry flame differ
-bip_39_word_space_6: airport deposit cry flame differ shuffle
-bip_39_word_space_7: airport deposit cry flame differ shuffle cloth
-bip_39_word_space_8: airport deposit cry flame differ shuffle cloth huge
-bip_39_word_space_9: airport deposit cry flame differ shuffle cloth huge shop
-bip_39_word_underscore_1: airport
-bip_39_word_underscore_10: airport_deposit_cry_flame_differ_shuffle_cloth_huge_shop_obey
-bip_39_word_underscore_11: airport_deposit_cry_flame_differ_shuffle_cloth_huge_shop_obey_relax
 bip_39_word_underscore_12: airport_deposit_cry_flame_differ_shuffle_cloth_huge_shop_obey_relax_alone
 bip_39_word_underscore_2: airport_deposit
 bip_39_word_underscore_3: airport_deposit_cry
-bip_39_word_underscore_4: airport_deposit_cry_flame
-bip_39_word_underscore_5: airport_deposit_cry_flame_differ
-bip_39_word_underscore_6: airport_deposit_cry_flame_differ_shuffle
-bip_39_word_underscore_7: airport_deposit_cry_flame_differ_shuffle_cloth
-bip_39_word_underscore_8: airport_deposit_cry_flame_differ_shuffle_cloth_huge
-bip_39_word_underscore_9: airport_deposit_cry_flame_differ_shuffle_cloth_huge_shop
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

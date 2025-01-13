@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lazy
-bip_39_word_dash_10: lazy-confirm-connect-twist-hidden-host-title-carbon-sister-provide
-bip_39_word_dash_11: lazy-confirm-connect-twist-hidden-host-title-carbon-sister-provide-annual
 bip_39_word_dash_12: lazy-confirm-connect-twist-hidden-host-title-carbon-sister-provide-annual-actual
 bip_39_word_dash_2: lazy-confirm
 bip_39_word_dash_3: lazy-confirm-connect
-bip_39_word_dash_4: lazy-confirm-connect-twist
-bip_39_word_dash_5: lazy-confirm-connect-twist-hidden
-bip_39_word_dash_6: lazy-confirm-connect-twist-hidden-host
-bip_39_word_dash_7: lazy-confirm-connect-twist-hidden-host-title
-bip_39_word_dash_8: lazy-confirm-connect-twist-hidden-host-title-carbon
-bip_39_word_dash_9: lazy-confirm-connect-twist-hidden-host-title-carbon-sister
-bip_39_word_new_br_1: lazy
-bip_39_word_new_br_10: lazy<br>confirm<br>connect<br>twist<br>hidden<br>host<br>title<br>carbon<br>sister<br>provide
-bip_39_word_new_br_11: lazy<br>confirm<br>connect<br>twist<br>hidden<br>host<br>title<br>carbon<br>sister<br>provide<br>annual
 bip_39_word_new_br_12: lazy<br>confirm<br>connect<br>twist<br>hidden<br>host<br>title<br>carbon<br>sister<br>provide<br>annual<br>actual
 bip_39_word_new_br_2: lazy<br>confirm
 bip_39_word_new_br_3: lazy<br>confirm<br>connect
-bip_39_word_new_br_4: lazy<br>confirm<br>connect<br>twist
-bip_39_word_new_br_5: lazy<br>confirm<br>connect<br>twist<br>hidden
-bip_39_word_new_br_6: lazy<br>confirm<br>connect<br>twist<br>hidden<br>host
-bip_39_word_new_br_7: lazy<br>confirm<br>connect<br>twist<br>hidden<br>host<br>title
-bip_39_word_new_br_8: lazy<br>confirm<br>connect<br>twist<br>hidden<br>host<br>title<br>carbon
-bip_39_word_new_br_9: lazy<br>confirm<br>connect<br>twist<br>hidden<br>host<br>title<br>carbon<br>sister
-bip_39_word_new_line_1: lazy
-bip_39_word_new_line_10: 'lazy
-
-  confirm
-
-  connect
-
-  twist
-
-  hidden
-
-  host
-
-  title
-
-  carbon
-
-  sister
-
-  provide'
-bip_39_word_new_line_11: 'lazy
-
-  confirm
-
-  connect
-
-  twist
-
-  hidden
-
-  host
-
-  title
-
-  carbon
-
-  sister
-
-  provide
-
-  annual'
 bip_39_word_new_line_12: 'lazy
 
   confirm
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lazy
   confirm
 
   connect'
-bip_39_word_new_line_4: 'lazy
-
-  confirm
-
-  connect
-
-  twist'
-bip_39_word_new_line_5: 'lazy
-
-  confirm
-
-  connect
-
-  twist
-
-  hidden'
-bip_39_word_new_line_6: 'lazy
-
-  confirm
-
-  connect
-
-  twist
-
-  hidden
-
-  host'
-bip_39_word_new_line_7: 'lazy
-
-  confirm
-
-  connect
-
-  twist
-
-  hidden
-
-  host
-
-  title'
-bip_39_word_new_line_8: 'lazy
-
-  confirm
-
-  connect
-
-  twist
-
-  hidden
-
-  host
-
-  title
-
-  carbon'
-bip_39_word_new_line_9: 'lazy
-
-  confirm
-
-  connect
-
-  twist
-
-  hidden
-
-  host
-
-  title
-
-  carbon
-
-  sister'
-bip_39_word_no_space_1: lazy
-bip_39_word_no_space_10: lazyconfirmconnecttwisthiddenhosttitlecarbonsisterprovide
-bip_39_word_no_space_11: lazyconfirmconnecttwisthiddenhosttitlecarbonsisterprovideannual
 bip_39_word_no_space_12: lazyconfirmconnecttwisthiddenhosttitlecarbonsisterprovideannualactual
 bip_39_word_no_space_2: lazyconfirm
 bip_39_word_no_space_3: lazyconfirmconnect
-bip_39_word_no_space_4: lazyconfirmconnecttwist
-bip_39_word_no_space_5: lazyconfirmconnecttwisthidden
-bip_39_word_no_space_6: lazyconfirmconnecttwisthiddenhost
-bip_39_word_no_space_7: lazyconfirmconnecttwisthiddenhosttitle
-bip_39_word_no_space_8: lazyconfirmconnecttwisthiddenhosttitlecarbon
-bip_39_word_no_space_9: lazyconfirmconnecttwisthiddenhosttitlecarbonsister
-bip_39_word_space_0:
-- lazy
-- confirm
-- connect
-- twist
-- hidden
-- host
-- title
-- carbon
-- sister
-- provide
-- annual
-- actual
-bip_39_word_space_1: lazy
-bip_39_word_space_10: lazy confirm connect twist hidden host title carbon sister provide
-bip_39_word_space_11: lazy confirm connect twist hidden host title carbon sister provide
-  annual
 bip_39_word_space_12: lazy confirm connect twist hidden host title carbon sister provide
   annual actual
 bip_39_word_space_2: lazy confirm
 bip_39_word_space_3: lazy confirm connect
-bip_39_word_space_4: lazy confirm connect twist
-bip_39_word_space_5: lazy confirm connect twist hidden
-bip_39_word_space_6: lazy confirm connect twist hidden host
-bip_39_word_space_7: lazy confirm connect twist hidden host title
-bip_39_word_space_8: lazy confirm connect twist hidden host title carbon
-bip_39_word_space_9: lazy confirm connect twist hidden host title carbon sister
-bip_39_word_underscore_1: lazy
-bip_39_word_underscore_10: lazy_confirm_connect_twist_hidden_host_title_carbon_sister_provide
-bip_39_word_underscore_11: lazy_confirm_connect_twist_hidden_host_title_carbon_sister_provide_annual
 bip_39_word_underscore_12: lazy_confirm_connect_twist_hidden_host_title_carbon_sister_provide_annual_actual
 bip_39_word_underscore_2: lazy_confirm
 bip_39_word_underscore_3: lazy_confirm_connect
-bip_39_word_underscore_4: lazy_confirm_connect_twist
-bip_39_word_underscore_5: lazy_confirm_connect_twist_hidden
-bip_39_word_underscore_6: lazy_confirm_connect_twist_hidden_host
-bip_39_word_underscore_7: lazy_confirm_connect_twist_hidden_host_title
-bip_39_word_underscore_8: lazy_confirm_connect_twist_hidden_host_title_carbon
-bip_39_word_underscore_9: lazy_confirm_connect_twist_hidden_host_title_carbon_sister
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

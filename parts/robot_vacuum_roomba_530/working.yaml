@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mask
-bip_39_word_dash_10: mask-toward-rib-idle-omit-enrich-ride-wrong-any-wheat
-bip_39_word_dash_11: mask-toward-rib-idle-omit-enrich-ride-wrong-any-wheat-flock
 bip_39_word_dash_12: mask-toward-rib-idle-omit-enrich-ride-wrong-any-wheat-flock-advice
 bip_39_word_dash_2: mask-toward
 bip_39_word_dash_3: mask-toward-rib
-bip_39_word_dash_4: mask-toward-rib-idle
-bip_39_word_dash_5: mask-toward-rib-idle-omit
-bip_39_word_dash_6: mask-toward-rib-idle-omit-enrich
-bip_39_word_dash_7: mask-toward-rib-idle-omit-enrich-ride
-bip_39_word_dash_8: mask-toward-rib-idle-omit-enrich-ride-wrong
-bip_39_word_dash_9: mask-toward-rib-idle-omit-enrich-ride-wrong-any
-bip_39_word_new_br_1: mask
-bip_39_word_new_br_10: mask<br>toward<br>rib<br>idle<br>omit<br>enrich<br>ride<br>wrong<br>any<br>wheat
-bip_39_word_new_br_11: mask<br>toward<br>rib<br>idle<br>omit<br>enrich<br>ride<br>wrong<br>any<br>wheat<br>flock
 bip_39_word_new_br_12: mask<br>toward<br>rib<br>idle<br>omit<br>enrich<br>ride<br>wrong<br>any<br>wheat<br>flock<br>advice
 bip_39_word_new_br_2: mask<br>toward
 bip_39_word_new_br_3: mask<br>toward<br>rib
-bip_39_word_new_br_4: mask<br>toward<br>rib<br>idle
-bip_39_word_new_br_5: mask<br>toward<br>rib<br>idle<br>omit
-bip_39_word_new_br_6: mask<br>toward<br>rib<br>idle<br>omit<br>enrich
-bip_39_word_new_br_7: mask<br>toward<br>rib<br>idle<br>omit<br>enrich<br>ride
-bip_39_word_new_br_8: mask<br>toward<br>rib<br>idle<br>omit<br>enrich<br>ride<br>wrong
-bip_39_word_new_br_9: mask<br>toward<br>rib<br>idle<br>omit<br>enrich<br>ride<br>wrong<br>any
-bip_39_word_new_line_1: mask
-bip_39_word_new_line_10: 'mask
-
-  toward
-
-  rib
-
-  idle
-
-  omit
-
-  enrich
-
-  ride
-
-  wrong
-
-  any
-
-  wheat'
-bip_39_word_new_line_11: 'mask
-
-  toward
-
-  rib
-
-  idle
-
-  omit
-
-  enrich
-
-  ride
-
-  wrong
-
-  any
-
-  wheat
-
-  flock'
 bip_39_word_new_line_12: 'mask
 
   toward
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'mask
   toward
 
   rib'
-bip_39_word_new_line_4: 'mask
-
-  toward
-
-  rib
-
-  idle'
-bip_39_word_new_line_5: 'mask
-
-  toward
-
-  rib
-
-  idle
-
-  omit'
-bip_39_word_new_line_6: 'mask
-
-  toward
-
-  rib
-
-  idle
-
-  omit
-
-  enrich'
-bip_39_word_new_line_7: 'mask
-
-  toward
-
-  rib
-
-  idle
-
-  omit
-
-  enrich
-
-  ride'
-bip_39_word_new_line_8: 'mask
-
-  toward
-
-  rib
-
-  idle
-
-  omit
-
-  enrich
-
-  ride
-
-  wrong'
-bip_39_word_new_line_9: 'mask
-
-  toward
-
-  rib
-
-  idle
-
-  omit
-
-  enrich
-
-  ride
-
-  wrong
-
-  any'
-bip_39_word_no_space_1: mask
-bip_39_word_no_space_10: masktowardribidleomitenrichridewronganywheat
-bip_39_word_no_space_11: masktowardribidleomitenrichridewronganywheatflock
 bip_39_word_no_space_12: masktowardribidleomitenrichridewronganywheatflockadvice
 bip_39_word_no_space_2: masktoward
 bip_39_word_no_space_3: masktowardrib
-bip_39_word_no_space_4: masktowardribidle
-bip_39_word_no_space_5: masktowardribidleomit
-bip_39_word_no_space_6: masktowardribidleomitenrich
-bip_39_word_no_space_7: masktowardribidleomitenrichride
-bip_39_word_no_space_8: masktowardribidleomitenrichridewrong
-bip_39_word_no_space_9: masktowardribidleomitenrichridewrongany
-bip_39_word_space_0:
-- mask
-- toward
-- rib
-- idle
-- omit
-- enrich
-- ride
-- wrong
-- any
-- wheat
-- flock
-- advice
-bip_39_word_space_1: mask
-bip_39_word_space_10: mask toward rib idle omit enrich ride wrong any wheat
-bip_39_word_space_11: mask toward rib idle omit enrich ride wrong any wheat flock
 bip_39_word_space_12: mask toward rib idle omit enrich ride wrong any wheat flock
   advice
 bip_39_word_space_2: mask toward
 bip_39_word_space_3: mask toward rib
-bip_39_word_space_4: mask toward rib idle
-bip_39_word_space_5: mask toward rib idle omit
-bip_39_word_space_6: mask toward rib idle omit enrich
-bip_39_word_space_7: mask toward rib idle omit enrich ride
-bip_39_word_space_8: mask toward rib idle omit enrich ride wrong
-bip_39_word_space_9: mask toward rib idle omit enrich ride wrong any
-bip_39_word_underscore_1: mask
-bip_39_word_underscore_10: mask_toward_rib_idle_omit_enrich_ride_wrong_any_wheat
-bip_39_word_underscore_11: mask_toward_rib_idle_omit_enrich_ride_wrong_any_wheat_flock
 bip_39_word_underscore_12: mask_toward_rib_idle_omit_enrich_ride_wrong_any_wheat_flock_advice
 bip_39_word_underscore_2: mask_toward
 bip_39_word_underscore_3: mask_toward_rib
-bip_39_word_underscore_4: mask_toward_rib_idle
-bip_39_word_underscore_5: mask_toward_rib_idle_omit
-bip_39_word_underscore_6: mask_toward_rib_idle_omit_enrich
-bip_39_word_underscore_7: mask_toward_rib_idle_omit_enrich_ride
-bip_39_word_underscore_8: mask_toward_rib_idle_omit_enrich_ride_wrong
-bip_39_word_underscore_9: mask_toward_rib_idle_omit_enrich_ride_wrong_any
 classification: robot_vacuum
 classification_capital: Robot Vacuum
 classification_first_letter: r

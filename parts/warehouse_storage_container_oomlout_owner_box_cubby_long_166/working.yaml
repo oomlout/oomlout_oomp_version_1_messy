@@ -1,68 +1,9 @@
-bip_39_word_dash_1: erupt
-bip_39_word_dash_10: erupt-start-balcony-road-snow-general-network-island-dose-rose
-bip_39_word_dash_11: erupt-start-balcony-road-snow-general-network-island-dose-rose-earth
 bip_39_word_dash_12: erupt-start-balcony-road-snow-general-network-island-dose-rose-earth-antique
 bip_39_word_dash_2: erupt-start
 bip_39_word_dash_3: erupt-start-balcony
-bip_39_word_dash_4: erupt-start-balcony-road
-bip_39_word_dash_5: erupt-start-balcony-road-snow
-bip_39_word_dash_6: erupt-start-balcony-road-snow-general
-bip_39_word_dash_7: erupt-start-balcony-road-snow-general-network
-bip_39_word_dash_8: erupt-start-balcony-road-snow-general-network-island
-bip_39_word_dash_9: erupt-start-balcony-road-snow-general-network-island-dose
-bip_39_word_new_br_1: erupt
-bip_39_word_new_br_10: erupt<br>start<br>balcony<br>road<br>snow<br>general<br>network<br>island<br>dose<br>rose
-bip_39_word_new_br_11: erupt<br>start<br>balcony<br>road<br>snow<br>general<br>network<br>island<br>dose<br>rose<br>earth
 bip_39_word_new_br_12: erupt<br>start<br>balcony<br>road<br>snow<br>general<br>network<br>island<br>dose<br>rose<br>earth<br>antique
 bip_39_word_new_br_2: erupt<br>start
 bip_39_word_new_br_3: erupt<br>start<br>balcony
-bip_39_word_new_br_4: erupt<br>start<br>balcony<br>road
-bip_39_word_new_br_5: erupt<br>start<br>balcony<br>road<br>snow
-bip_39_word_new_br_6: erupt<br>start<br>balcony<br>road<br>snow<br>general
-bip_39_word_new_br_7: erupt<br>start<br>balcony<br>road<br>snow<br>general<br>network
-bip_39_word_new_br_8: erupt<br>start<br>balcony<br>road<br>snow<br>general<br>network<br>island
-bip_39_word_new_br_9: erupt<br>start<br>balcony<br>road<br>snow<br>general<br>network<br>island<br>dose
-bip_39_word_new_line_1: erupt
-bip_39_word_new_line_10: 'erupt
-
-  start
-
-  balcony
-
-  road
-
-  snow
-
-  general
-
-  network
-
-  island
-
-  dose
-
-  rose'
-bip_39_word_new_line_11: 'erupt
-
-  start
-
-  balcony
-
-  road
-
-  snow
-
-  general
-
-  network
-
-  island
-
-  dose
-
-  rose
-
-  earth'
 bip_39_word_new_line_12: 'erupt
 
   start
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'erupt
   start
 
   balcony'
-bip_39_word_new_line_4: 'erupt
-
-  start
-
-  balcony
-
-  road'
-bip_39_word_new_line_5: 'erupt
-
-  start
-
-  balcony
-
-  road
-
-  snow'
-bip_39_word_new_line_6: 'erupt
-
-  start
-
-  balcony
-
-  road
-
-  snow
-
-  general'
-bip_39_word_new_line_7: 'erupt
-
-  start
-
-  balcony
-
-  road
-
-  snow
-
-  general
-
-  network'
-bip_39_word_new_line_8: 'erupt
-
-  start
-
-  balcony
-
-  road
-
-  snow
-
-  general
-
-  network
-
-  island'
-bip_39_word_new_line_9: 'erupt
-
-  start
-
-  balcony
-
-  road
-
-  snow
-
-  general
-
-  network
-
-  island
-
-  dose'
-bip_39_word_no_space_1: erupt
-bip_39_word_no_space_10: eruptstartbalconyroadsnowgeneralnetworkislanddoserose
-bip_39_word_no_space_11: eruptstartbalconyroadsnowgeneralnetworkislanddoseroseearth
 bip_39_word_no_space_12: eruptstartbalconyroadsnowgeneralnetworkislanddoseroseearthantique
 bip_39_word_no_space_2: eruptstart
 bip_39_word_no_space_3: eruptstartbalcony
-bip_39_word_no_space_4: eruptstartbalconyroad
-bip_39_word_no_space_5: eruptstartbalconyroadsnow
-bip_39_word_no_space_6: eruptstartbalconyroadsnowgeneral
-bip_39_word_no_space_7: eruptstartbalconyroadsnowgeneralnetwork
-bip_39_word_no_space_8: eruptstartbalconyroadsnowgeneralnetworkisland
-bip_39_word_no_space_9: eruptstartbalconyroadsnowgeneralnetworkislanddose
-bip_39_word_space_0:
-- erupt
-- start
-- balcony
-- road
-- snow
-- general
-- network
-- island
-- dose
-- rose
-- earth
-- antique
-bip_39_word_space_1: erupt
-bip_39_word_space_10: erupt start balcony road snow general network island dose rose
-bip_39_word_space_11: erupt start balcony road snow general network island dose rose
-  earth
 bip_39_word_space_12: erupt start balcony road snow general network island dose rose
   earth antique
 bip_39_word_space_2: erupt start
 bip_39_word_space_3: erupt start balcony
-bip_39_word_space_4: erupt start balcony road
-bip_39_word_space_5: erupt start balcony road snow
-bip_39_word_space_6: erupt start balcony road snow general
-bip_39_word_space_7: erupt start balcony road snow general network
-bip_39_word_space_8: erupt start balcony road snow general network island
-bip_39_word_space_9: erupt start balcony road snow general network island dose
-bip_39_word_underscore_1: erupt
-bip_39_word_underscore_10: erupt_start_balcony_road_snow_general_network_island_dose_rose
-bip_39_word_underscore_11: erupt_start_balcony_road_snow_general_network_island_dose_rose_earth
 bip_39_word_underscore_12: erupt_start_balcony_road_snow_general_network_island_dose_rose_earth_antique
 bip_39_word_underscore_2: erupt_start
 bip_39_word_underscore_3: erupt_start_balcony
-bip_39_word_underscore_4: erupt_start_balcony_road
-bip_39_word_underscore_5: erupt_start_balcony_road_snow
-bip_39_word_underscore_6: erupt_start_balcony_road_snow_general
-bip_39_word_underscore_7: erupt_start_balcony_road_snow_general_network
-bip_39_word_underscore_8: erupt_start_balcony_road_snow_general_network_island
-bip_39_word_underscore_9: erupt_start_balcony_road_snow_general_network_island_dose
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

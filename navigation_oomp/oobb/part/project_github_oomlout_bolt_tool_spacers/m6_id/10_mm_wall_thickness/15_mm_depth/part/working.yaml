@@ -1,68 +1,9 @@
-bip_39_word_dash_1: caution
-bip_39_word_dash_10: caution-ecology-decade-wine-select-behave-isolate-swap-present-ask
-bip_39_word_dash_11: caution-ecology-decade-wine-select-behave-isolate-swap-present-ask-crater
 bip_39_word_dash_12: caution-ecology-decade-wine-select-behave-isolate-swap-present-ask-crater-argue
 bip_39_word_dash_2: caution-ecology
 bip_39_word_dash_3: caution-ecology-decade
-bip_39_word_dash_4: caution-ecology-decade-wine
-bip_39_word_dash_5: caution-ecology-decade-wine-select
-bip_39_word_dash_6: caution-ecology-decade-wine-select-behave
-bip_39_word_dash_7: caution-ecology-decade-wine-select-behave-isolate
-bip_39_word_dash_8: caution-ecology-decade-wine-select-behave-isolate-swap
-bip_39_word_dash_9: caution-ecology-decade-wine-select-behave-isolate-swap-present
-bip_39_word_new_br_1: caution
-bip_39_word_new_br_10: caution<br>ecology<br>decade<br>wine<br>select<br>behave<br>isolate<br>swap<br>present<br>ask
-bip_39_word_new_br_11: caution<br>ecology<br>decade<br>wine<br>select<br>behave<br>isolate<br>swap<br>present<br>ask<br>crater
 bip_39_word_new_br_12: caution<br>ecology<br>decade<br>wine<br>select<br>behave<br>isolate<br>swap<br>present<br>ask<br>crater<br>argue
 bip_39_word_new_br_2: caution<br>ecology
 bip_39_word_new_br_3: caution<br>ecology<br>decade
-bip_39_word_new_br_4: caution<br>ecology<br>decade<br>wine
-bip_39_word_new_br_5: caution<br>ecology<br>decade<br>wine<br>select
-bip_39_word_new_br_6: caution<br>ecology<br>decade<br>wine<br>select<br>behave
-bip_39_word_new_br_7: caution<br>ecology<br>decade<br>wine<br>select<br>behave<br>isolate
-bip_39_word_new_br_8: caution<br>ecology<br>decade<br>wine<br>select<br>behave<br>isolate<br>swap
-bip_39_word_new_br_9: caution<br>ecology<br>decade<br>wine<br>select<br>behave<br>isolate<br>swap<br>present
-bip_39_word_new_line_1: caution
-bip_39_word_new_line_10: 'caution
-
-  ecology
-
-  decade
-
-  wine
-
-  select
-
-  behave
-
-  isolate
-
-  swap
-
-  present
-
-  ask'
-bip_39_word_new_line_11: 'caution
-
-  ecology
-
-  decade
-
-  wine
-
-  select
-
-  behave
-
-  isolate
-
-  swap
-
-  present
-
-  ask
-
-  crater'
 bip_39_word_new_line_12: 'caution
 
   ecology
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'caution
   ecology
 
   decade'
-bip_39_word_new_line_4: 'caution
-
-  ecology
-
-  decade
-
-  wine'
-bip_39_word_new_line_5: 'caution
-
-  ecology
-
-  decade
-
-  wine
-
-  select'
-bip_39_word_new_line_6: 'caution
-
-  ecology
-
-  decade
-
-  wine
-
-  select
-
-  behave'
-bip_39_word_new_line_7: 'caution
-
-  ecology
-
-  decade
-
-  wine
-
-  select
-
-  behave
-
-  isolate'
-bip_39_word_new_line_8: 'caution
-
-  ecology
-
-  decade
-
-  wine
-
-  select
-
-  behave
-
-  isolate
-
-  swap'
-bip_39_word_new_line_9: 'caution
-
-  ecology
-
-  decade
-
-  wine
-
-  select
-
-  behave
-
-  isolate
-
-  swap
-
-  present'
-bip_39_word_no_space_1: caution
-bip_39_word_no_space_10: cautionecologydecadewineselectbehaveisolateswappresentask
-bip_39_word_no_space_11: cautionecologydecadewineselectbehaveisolateswappresentaskcrater
 bip_39_word_no_space_12: cautionecologydecadewineselectbehaveisolateswappresentaskcraterargue
 bip_39_word_no_space_2: cautionecology
 bip_39_word_no_space_3: cautionecologydecade
-bip_39_word_no_space_4: cautionecologydecadewine
-bip_39_word_no_space_5: cautionecologydecadewineselect
-bip_39_word_no_space_6: cautionecologydecadewineselectbehave
-bip_39_word_no_space_7: cautionecologydecadewineselectbehaveisolate
-bip_39_word_no_space_8: cautionecologydecadewineselectbehaveisolateswap
-bip_39_word_no_space_9: cautionecologydecadewineselectbehaveisolateswappresent
-bip_39_word_space_0:
-- caution
-- ecology
-- decade
-- wine
-- select
-- behave
-- isolate
-- swap
-- present
-- ask
-- crater
-- argue
-bip_39_word_space_1: caution
-bip_39_word_space_10: caution ecology decade wine select behave isolate swap present
-  ask
-bip_39_word_space_11: caution ecology decade wine select behave isolate swap present
-  ask crater
 bip_39_word_space_12: caution ecology decade wine select behave isolate swap present
   ask crater argue
 bip_39_word_space_2: caution ecology
 bip_39_word_space_3: caution ecology decade
-bip_39_word_space_4: caution ecology decade wine
-bip_39_word_space_5: caution ecology decade wine select
-bip_39_word_space_6: caution ecology decade wine select behave
-bip_39_word_space_7: caution ecology decade wine select behave isolate
-bip_39_word_space_8: caution ecology decade wine select behave isolate swap
-bip_39_word_space_9: caution ecology decade wine select behave isolate swap present
-bip_39_word_underscore_1: caution
-bip_39_word_underscore_10: caution_ecology_decade_wine_select_behave_isolate_swap_present_ask
-bip_39_word_underscore_11: caution_ecology_decade_wine_select_behave_isolate_swap_present_ask_crater
 bip_39_word_underscore_12: caution_ecology_decade_wine_select_behave_isolate_swap_present_ask_crater_argue
 bip_39_word_underscore_2: caution_ecology
 bip_39_word_underscore_3: caution_ecology_decade
-bip_39_word_underscore_4: caution_ecology_decade_wine
-bip_39_word_underscore_5: caution_ecology_decade_wine_select
-bip_39_word_underscore_6: caution_ecology_decade_wine_select_behave
-bip_39_word_underscore_7: caution_ecology_decade_wine_select_behave_isolate
-bip_39_word_underscore_8: caution_ecology_decade_wine_select_behave_isolate_swap
-bip_39_word_underscore_9: caution_ecology_decade_wine_select_behave_isolate_swap_present
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

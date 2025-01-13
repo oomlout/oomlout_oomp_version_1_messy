@@ -1,68 +1,9 @@
-bip_39_word_dash_1: load
-bip_39_word_dash_10: load-pluck-give-debate-domain-wash-ball-frown-affair-exchange
-bip_39_word_dash_11: load-pluck-give-debate-domain-wash-ball-frown-affair-exchange-harsh
 bip_39_word_dash_12: load-pluck-give-debate-domain-wash-ball-frown-affair-exchange-harsh-aim
 bip_39_word_dash_2: load-pluck
 bip_39_word_dash_3: load-pluck-give
-bip_39_word_dash_4: load-pluck-give-debate
-bip_39_word_dash_5: load-pluck-give-debate-domain
-bip_39_word_dash_6: load-pluck-give-debate-domain-wash
-bip_39_word_dash_7: load-pluck-give-debate-domain-wash-ball
-bip_39_word_dash_8: load-pluck-give-debate-domain-wash-ball-frown
-bip_39_word_dash_9: load-pluck-give-debate-domain-wash-ball-frown-affair
-bip_39_word_new_br_1: load
-bip_39_word_new_br_10: load<br>pluck<br>give<br>debate<br>domain<br>wash<br>ball<br>frown<br>affair<br>exchange
-bip_39_word_new_br_11: load<br>pluck<br>give<br>debate<br>domain<br>wash<br>ball<br>frown<br>affair<br>exchange<br>harsh
 bip_39_word_new_br_12: load<br>pluck<br>give<br>debate<br>domain<br>wash<br>ball<br>frown<br>affair<br>exchange<br>harsh<br>aim
 bip_39_word_new_br_2: load<br>pluck
 bip_39_word_new_br_3: load<br>pluck<br>give
-bip_39_word_new_br_4: load<br>pluck<br>give<br>debate
-bip_39_word_new_br_5: load<br>pluck<br>give<br>debate<br>domain
-bip_39_word_new_br_6: load<br>pluck<br>give<br>debate<br>domain<br>wash
-bip_39_word_new_br_7: load<br>pluck<br>give<br>debate<br>domain<br>wash<br>ball
-bip_39_word_new_br_8: load<br>pluck<br>give<br>debate<br>domain<br>wash<br>ball<br>frown
-bip_39_word_new_br_9: load<br>pluck<br>give<br>debate<br>domain<br>wash<br>ball<br>frown<br>affair
-bip_39_word_new_line_1: load
-bip_39_word_new_line_10: 'load
-
-  pluck
-
-  give
-
-  debate
-
-  domain
-
-  wash
-
-  ball
-
-  frown
-
-  affair
-
-  exchange'
-bip_39_word_new_line_11: 'load
-
-  pluck
-
-  give
-
-  debate
-
-  domain
-
-  wash
-
-  ball
-
-  frown
-
-  affair
-
-  exchange
-
-  harsh'
 bip_39_word_new_line_12: 'load
 
   pluck
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'load
   pluck
 
   give'
-bip_39_word_new_line_4: 'load
-
-  pluck
-
-  give
-
-  debate'
-bip_39_word_new_line_5: 'load
-
-  pluck
-
-  give
-
-  debate
-
-  domain'
-bip_39_word_new_line_6: 'load
-
-  pluck
-
-  give
-
-  debate
-
-  domain
-
-  wash'
-bip_39_word_new_line_7: 'load
-
-  pluck
-
-  give
-
-  debate
-
-  domain
-
-  wash
-
-  ball'
-bip_39_word_new_line_8: 'load
-
-  pluck
-
-  give
-
-  debate
-
-  domain
-
-  wash
-
-  ball
-
-  frown'
-bip_39_word_new_line_9: 'load
-
-  pluck
-
-  give
-
-  debate
-
-  domain
-
-  wash
-
-  ball
-
-  frown
-
-  affair'
-bip_39_word_no_space_1: load
-bip_39_word_no_space_10: loadpluckgivedebatedomainwashballfrownaffairexchange
-bip_39_word_no_space_11: loadpluckgivedebatedomainwashballfrownaffairexchangeharsh
 bip_39_word_no_space_12: loadpluckgivedebatedomainwashballfrownaffairexchangeharshaim
 bip_39_word_no_space_2: loadpluck
 bip_39_word_no_space_3: loadpluckgive
-bip_39_word_no_space_4: loadpluckgivedebate
-bip_39_word_no_space_5: loadpluckgivedebatedomain
-bip_39_word_no_space_6: loadpluckgivedebatedomainwash
-bip_39_word_no_space_7: loadpluckgivedebatedomainwashball
-bip_39_word_no_space_8: loadpluckgivedebatedomainwashballfrown
-bip_39_word_no_space_9: loadpluckgivedebatedomainwashballfrownaffair
-bip_39_word_space_0:
-- load
-- pluck
-- give
-- debate
-- domain
-- wash
-- ball
-- frown
-- affair
-- exchange
-- harsh
-- aim
-bip_39_word_space_1: load
-bip_39_word_space_10: load pluck give debate domain wash ball frown affair exchange
-bip_39_word_space_11: load pluck give debate domain wash ball frown affair exchange
-  harsh
 bip_39_word_space_12: load pluck give debate domain wash ball frown affair exchange
   harsh aim
 bip_39_word_space_2: load pluck
 bip_39_word_space_3: load pluck give
-bip_39_word_space_4: load pluck give debate
-bip_39_word_space_5: load pluck give debate domain
-bip_39_word_space_6: load pluck give debate domain wash
-bip_39_word_space_7: load pluck give debate domain wash ball
-bip_39_word_space_8: load pluck give debate domain wash ball frown
-bip_39_word_space_9: load pluck give debate domain wash ball frown affair
-bip_39_word_underscore_1: load
-bip_39_word_underscore_10: load_pluck_give_debate_domain_wash_ball_frown_affair_exchange
-bip_39_word_underscore_11: load_pluck_give_debate_domain_wash_ball_frown_affair_exchange_harsh
 bip_39_word_underscore_12: load_pluck_give_debate_domain_wash_ball_frown_affair_exchange_harsh_aim
 bip_39_word_underscore_2: load_pluck
 bip_39_word_underscore_3: load_pluck_give
-bip_39_word_underscore_4: load_pluck_give_debate
-bip_39_word_underscore_5: load_pluck_give_debate_domain
-bip_39_word_underscore_6: load_pluck_give_debate_domain_wash
-bip_39_word_underscore_7: load_pluck_give_debate_domain_wash_ball
-bip_39_word_underscore_8: load_pluck_give_debate_domain_wash_ball_frown
-bip_39_word_underscore_9: load_pluck_give_debate_domain_wash_ball_frown_affair
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: script
-bip_39_word_dash_10: script-fatal-spend-develop-loan-betray-chalk-stable-drink-step
-bip_39_word_dash_11: script-fatal-spend-develop-loan-betray-chalk-stable-drink-step-push
 bip_39_word_dash_12: script-fatal-spend-develop-loan-betray-chalk-stable-drink-step-push-addict
 bip_39_word_dash_2: script-fatal
 bip_39_word_dash_3: script-fatal-spend
-bip_39_word_dash_4: script-fatal-spend-develop
-bip_39_word_dash_5: script-fatal-spend-develop-loan
-bip_39_word_dash_6: script-fatal-spend-develop-loan-betray
-bip_39_word_dash_7: script-fatal-spend-develop-loan-betray-chalk
-bip_39_word_dash_8: script-fatal-spend-develop-loan-betray-chalk-stable
-bip_39_word_dash_9: script-fatal-spend-develop-loan-betray-chalk-stable-drink
-bip_39_word_new_br_1: script
-bip_39_word_new_br_10: script<br>fatal<br>spend<br>develop<br>loan<br>betray<br>chalk<br>stable<br>drink<br>step
-bip_39_word_new_br_11: script<br>fatal<br>spend<br>develop<br>loan<br>betray<br>chalk<br>stable<br>drink<br>step<br>push
 bip_39_word_new_br_12: script<br>fatal<br>spend<br>develop<br>loan<br>betray<br>chalk<br>stable<br>drink<br>step<br>push<br>addict
 bip_39_word_new_br_2: script<br>fatal
 bip_39_word_new_br_3: script<br>fatal<br>spend
-bip_39_word_new_br_4: script<br>fatal<br>spend<br>develop
-bip_39_word_new_br_5: script<br>fatal<br>spend<br>develop<br>loan
-bip_39_word_new_br_6: script<br>fatal<br>spend<br>develop<br>loan<br>betray
-bip_39_word_new_br_7: script<br>fatal<br>spend<br>develop<br>loan<br>betray<br>chalk
-bip_39_word_new_br_8: script<br>fatal<br>spend<br>develop<br>loan<br>betray<br>chalk<br>stable
-bip_39_word_new_br_9: script<br>fatal<br>spend<br>develop<br>loan<br>betray<br>chalk<br>stable<br>drink
-bip_39_word_new_line_1: script
-bip_39_word_new_line_10: 'script
-
-  fatal
-
-  spend
-
-  develop
-
-  loan
-
-  betray
-
-  chalk
-
-  stable
-
-  drink
-
-  step'
-bip_39_word_new_line_11: 'script
-
-  fatal
-
-  spend
-
-  develop
-
-  loan
-
-  betray
-
-  chalk
-
-  stable
-
-  drink
-
-  step
-
-  push'
 bip_39_word_new_line_12: 'script
 
   fatal
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'script
   fatal
 
   spend'
-bip_39_word_new_line_4: 'script
-
-  fatal
-
-  spend
-
-  develop'
-bip_39_word_new_line_5: 'script
-
-  fatal
-
-  spend
-
-  develop
-
-  loan'
-bip_39_word_new_line_6: 'script
-
-  fatal
-
-  spend
-
-  develop
-
-  loan
-
-  betray'
-bip_39_word_new_line_7: 'script
-
-  fatal
-
-  spend
-
-  develop
-
-  loan
-
-  betray
-
-  chalk'
-bip_39_word_new_line_8: 'script
-
-  fatal
-
-  spend
-
-  develop
-
-  loan
-
-  betray
-
-  chalk
-
-  stable'
-bip_39_word_new_line_9: 'script
-
-  fatal
-
-  spend
-
-  develop
-
-  loan
-
-  betray
-
-  chalk
-
-  stable
-
-  drink'
-bip_39_word_no_space_1: script
-bip_39_word_no_space_10: scriptfatalspenddeveloploanbetraychalkstabledrinkstep
-bip_39_word_no_space_11: scriptfatalspenddeveloploanbetraychalkstabledrinksteppush
 bip_39_word_no_space_12: scriptfatalspenddeveloploanbetraychalkstabledrinksteppushaddict
 bip_39_word_no_space_2: scriptfatal
 bip_39_word_no_space_3: scriptfatalspend
-bip_39_word_no_space_4: scriptfatalspenddevelop
-bip_39_word_no_space_5: scriptfatalspenddeveloploan
-bip_39_word_no_space_6: scriptfatalspenddeveloploanbetray
-bip_39_word_no_space_7: scriptfatalspenddeveloploanbetraychalk
-bip_39_word_no_space_8: scriptfatalspenddeveloploanbetraychalkstable
-bip_39_word_no_space_9: scriptfatalspenddeveloploanbetraychalkstabledrink
-bip_39_word_space_0:
-- script
-- fatal
-- spend
-- develop
-- loan
-- betray
-- chalk
-- stable
-- drink
-- step
-- push
-- addict
-bip_39_word_space_1: script
-bip_39_word_space_10: script fatal spend develop loan betray chalk stable drink step
-bip_39_word_space_11: script fatal spend develop loan betray chalk stable drink step
-  push
 bip_39_word_space_12: script fatal spend develop loan betray chalk stable drink step
   push addict
 bip_39_word_space_2: script fatal
 bip_39_word_space_3: script fatal spend
-bip_39_word_space_4: script fatal spend develop
-bip_39_word_space_5: script fatal spend develop loan
-bip_39_word_space_6: script fatal spend develop loan betray
-bip_39_word_space_7: script fatal spend develop loan betray chalk
-bip_39_word_space_8: script fatal spend develop loan betray chalk stable
-bip_39_word_space_9: script fatal spend develop loan betray chalk stable drink
-bip_39_word_underscore_1: script
-bip_39_word_underscore_10: script_fatal_spend_develop_loan_betray_chalk_stable_drink_step
-bip_39_word_underscore_11: script_fatal_spend_develop_loan_betray_chalk_stable_drink_step_push
 bip_39_word_underscore_12: script_fatal_spend_develop_loan_betray_chalk_stable_drink_step_push_addict
 bip_39_word_underscore_2: script_fatal
 bip_39_word_underscore_3: script_fatal_spend
-bip_39_word_underscore_4: script_fatal_spend_develop
-bip_39_word_underscore_5: script_fatal_spend_develop_loan
-bip_39_word_underscore_6: script_fatal_spend_develop_loan_betray
-bip_39_word_underscore_7: script_fatal_spend_develop_loan_betray_chalk
-bip_39_word_underscore_8: script_fatal_spend_develop_loan_betray_chalk_stable
-bip_39_word_underscore_9: script_fatal_spend_develop_loan_betray_chalk_stable_drink
 classification: food
 classification_capital: Food
 classification_first_letter: f

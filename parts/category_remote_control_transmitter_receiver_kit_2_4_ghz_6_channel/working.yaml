@@ -1,68 +1,9 @@
-bip_39_word_dash_1: climb
-bip_39_word_dash_10: climb-impulse-corn-diamond-regret-blanket-barrel-giraffe-agent-deliver
-bip_39_word_dash_11: climb-impulse-corn-diamond-regret-blanket-barrel-giraffe-agent-deliver-trust
 bip_39_word_dash_12: climb-impulse-corn-diamond-regret-blanket-barrel-giraffe-agent-deliver-trust-alter
 bip_39_word_dash_2: climb-impulse
 bip_39_word_dash_3: climb-impulse-corn
-bip_39_word_dash_4: climb-impulse-corn-diamond
-bip_39_word_dash_5: climb-impulse-corn-diamond-regret
-bip_39_word_dash_6: climb-impulse-corn-diamond-regret-blanket
-bip_39_word_dash_7: climb-impulse-corn-diamond-regret-blanket-barrel
-bip_39_word_dash_8: climb-impulse-corn-diamond-regret-blanket-barrel-giraffe
-bip_39_word_dash_9: climb-impulse-corn-diamond-regret-blanket-barrel-giraffe-agent
-bip_39_word_new_br_1: climb
-bip_39_word_new_br_10: climb<br>impulse<br>corn<br>diamond<br>regret<br>blanket<br>barrel<br>giraffe<br>agent<br>deliver
-bip_39_word_new_br_11: climb<br>impulse<br>corn<br>diamond<br>regret<br>blanket<br>barrel<br>giraffe<br>agent<br>deliver<br>trust
 bip_39_word_new_br_12: climb<br>impulse<br>corn<br>diamond<br>regret<br>blanket<br>barrel<br>giraffe<br>agent<br>deliver<br>trust<br>alter
 bip_39_word_new_br_2: climb<br>impulse
 bip_39_word_new_br_3: climb<br>impulse<br>corn
-bip_39_word_new_br_4: climb<br>impulse<br>corn<br>diamond
-bip_39_word_new_br_5: climb<br>impulse<br>corn<br>diamond<br>regret
-bip_39_word_new_br_6: climb<br>impulse<br>corn<br>diamond<br>regret<br>blanket
-bip_39_word_new_br_7: climb<br>impulse<br>corn<br>diamond<br>regret<br>blanket<br>barrel
-bip_39_word_new_br_8: climb<br>impulse<br>corn<br>diamond<br>regret<br>blanket<br>barrel<br>giraffe
-bip_39_word_new_br_9: climb<br>impulse<br>corn<br>diamond<br>regret<br>blanket<br>barrel<br>giraffe<br>agent
-bip_39_word_new_line_1: climb
-bip_39_word_new_line_10: 'climb
-
-  impulse
-
-  corn
-
-  diamond
-
-  regret
-
-  blanket
-
-  barrel
-
-  giraffe
-
-  agent
-
-  deliver'
-bip_39_word_new_line_11: 'climb
-
-  impulse
-
-  corn
-
-  diamond
-
-  regret
-
-  blanket
-
-  barrel
-
-  giraffe
-
-  agent
-
-  deliver
-
-  trust'
 bip_39_word_new_line_12: 'climb
 
   impulse
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'climb
   impulse
 
   corn'
-bip_39_word_new_line_4: 'climb
-
-  impulse
-
-  corn
-
-  diamond'
-bip_39_word_new_line_5: 'climb
-
-  impulse
-
-  corn
-
-  diamond
-
-  regret'
-bip_39_word_new_line_6: 'climb
-
-  impulse
-
-  corn
-
-  diamond
-
-  regret
-
-  blanket'
-bip_39_word_new_line_7: 'climb
-
-  impulse
-
-  corn
-
-  diamond
-
-  regret
-
-  blanket
-
-  barrel'
-bip_39_word_new_line_8: 'climb
-
-  impulse
-
-  corn
-
-  diamond
-
-  regret
-
-  blanket
-
-  barrel
-
-  giraffe'
-bip_39_word_new_line_9: 'climb
-
-  impulse
-
-  corn
-
-  diamond
-
-  regret
-
-  blanket
-
-  barrel
-
-  giraffe
-
-  agent'
-bip_39_word_no_space_1: climb
-bip_39_word_no_space_10: climbimpulsecorndiamondregretblanketbarrelgiraffeagentdeliver
-bip_39_word_no_space_11: climbimpulsecorndiamondregretblanketbarrelgiraffeagentdelivertrust
 bip_39_word_no_space_12: climbimpulsecorndiamondregretblanketbarrelgiraffeagentdelivertrustalter
 bip_39_word_no_space_2: climbimpulse
 bip_39_word_no_space_3: climbimpulsecorn
-bip_39_word_no_space_4: climbimpulsecorndiamond
-bip_39_word_no_space_5: climbimpulsecorndiamondregret
-bip_39_word_no_space_6: climbimpulsecorndiamondregretblanket
-bip_39_word_no_space_7: climbimpulsecorndiamondregretblanketbarrel
-bip_39_word_no_space_8: climbimpulsecorndiamondregretblanketbarrelgiraffe
-bip_39_word_no_space_9: climbimpulsecorndiamondregretblanketbarrelgiraffeagent
-bip_39_word_space_0:
-- climb
-- impulse
-- corn
-- diamond
-- regret
-- blanket
-- barrel
-- giraffe
-- agent
-- deliver
-- trust
-- alter
-bip_39_word_space_1: climb
-bip_39_word_space_10: climb impulse corn diamond regret blanket barrel giraffe agent
-  deliver
-bip_39_word_space_11: climb impulse corn diamond regret blanket barrel giraffe agent
-  deliver trust
 bip_39_word_space_12: climb impulse corn diamond regret blanket barrel giraffe agent
   deliver trust alter
 bip_39_word_space_2: climb impulse
 bip_39_word_space_3: climb impulse corn
-bip_39_word_space_4: climb impulse corn diamond
-bip_39_word_space_5: climb impulse corn diamond regret
-bip_39_word_space_6: climb impulse corn diamond regret blanket
-bip_39_word_space_7: climb impulse corn diamond regret blanket barrel
-bip_39_word_space_8: climb impulse corn diamond regret blanket barrel giraffe
-bip_39_word_space_9: climb impulse corn diamond regret blanket barrel giraffe agent
-bip_39_word_underscore_1: climb
-bip_39_word_underscore_10: climb_impulse_corn_diamond_regret_blanket_barrel_giraffe_agent_deliver
-bip_39_word_underscore_11: climb_impulse_corn_diamond_regret_blanket_barrel_giraffe_agent_deliver_trust
 bip_39_word_underscore_12: climb_impulse_corn_diamond_regret_blanket_barrel_giraffe_agent_deliver_trust_alter
 bip_39_word_underscore_2: climb_impulse
 bip_39_word_underscore_3: climb_impulse_corn
-bip_39_word_underscore_4: climb_impulse_corn_diamond
-bip_39_word_underscore_5: climb_impulse_corn_diamond_regret
-bip_39_word_underscore_6: climb_impulse_corn_diamond_regret_blanket
-bip_39_word_underscore_7: climb_impulse_corn_diamond_regret_blanket_barrel
-bip_39_word_underscore_8: climb_impulse_corn_diamond_regret_blanket_barrel_giraffe
-bip_39_word_underscore_9: climb_impulse_corn_diamond_regret_blanket_barrel_giraffe_agent
 classification: category
 classification_capital: Category
 classification_first_letter: c

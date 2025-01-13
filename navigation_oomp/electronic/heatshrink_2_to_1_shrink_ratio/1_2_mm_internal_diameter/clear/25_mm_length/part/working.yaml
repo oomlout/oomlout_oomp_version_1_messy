@@ -1,68 +1,9 @@
-bip_39_word_dash_1: buyer
-bip_39_word_dash_10: buyer-shiver-day-bean-tiny-action-hungry-usage-flower-cross
-bip_39_word_dash_11: buyer-shiver-day-bean-tiny-action-hungry-usage-flower-cross-citizen
 bip_39_word_dash_12: buyer-shiver-day-bean-tiny-action-hungry-usage-flower-cross-citizen-angry
 bip_39_word_dash_2: buyer-shiver
 bip_39_word_dash_3: buyer-shiver-day
-bip_39_word_dash_4: buyer-shiver-day-bean
-bip_39_word_dash_5: buyer-shiver-day-bean-tiny
-bip_39_word_dash_6: buyer-shiver-day-bean-tiny-action
-bip_39_word_dash_7: buyer-shiver-day-bean-tiny-action-hungry
-bip_39_word_dash_8: buyer-shiver-day-bean-tiny-action-hungry-usage
-bip_39_word_dash_9: buyer-shiver-day-bean-tiny-action-hungry-usage-flower
-bip_39_word_new_br_1: buyer
-bip_39_word_new_br_10: buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross
-bip_39_word_new_br_11: buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross<br>citizen
 bip_39_word_new_br_12: buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower<br>cross<br>citizen<br>angry
 bip_39_word_new_br_2: buyer<br>shiver
 bip_39_word_new_br_3: buyer<br>shiver<br>day
-bip_39_word_new_br_4: buyer<br>shiver<br>day<br>bean
-bip_39_word_new_br_5: buyer<br>shiver<br>day<br>bean<br>tiny
-bip_39_word_new_br_6: buyer<br>shiver<br>day<br>bean<br>tiny<br>action
-bip_39_word_new_br_7: buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry
-bip_39_word_new_br_8: buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage
-bip_39_word_new_br_9: buyer<br>shiver<br>day<br>bean<br>tiny<br>action<br>hungry<br>usage<br>flower
-bip_39_word_new_line_1: buyer
-bip_39_word_new_line_10: 'buyer
-
-  shiver
-
-  day
-
-  bean
-
-  tiny
-
-  action
-
-  hungry
-
-  usage
-
-  flower
-
-  cross'
-bip_39_word_new_line_11: 'buyer
-
-  shiver
-
-  day
-
-  bean
-
-  tiny
-
-  action
-
-  hungry
-
-  usage
-
-  flower
-
-  cross
-
-  citizen'
 bip_39_word_new_line_12: 'buyer
 
   shiver
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'buyer
   shiver
 
   day'
-bip_39_word_new_line_4: 'buyer
-
-  shiver
-
-  day
-
-  bean'
-bip_39_word_new_line_5: 'buyer
-
-  shiver
-
-  day
-
-  bean
-
-  tiny'
-bip_39_word_new_line_6: 'buyer
-
-  shiver
-
-  day
-
-  bean
-
-  tiny
-
-  action'
-bip_39_word_new_line_7: 'buyer
-
-  shiver
-
-  day
-
-  bean
-
-  tiny
-
-  action
-
-  hungry'
-bip_39_word_new_line_8: 'buyer
-
-  shiver
-
-  day
-
-  bean
-
-  tiny
-
-  action
-
-  hungry
-
-  usage'
-bip_39_word_new_line_9: 'buyer
-
-  shiver
-
-  day
-
-  bean
-
-  tiny
-
-  action
-
-  hungry
-
-  usage
-
-  flower'
-bip_39_word_no_space_1: buyer
-bip_39_word_no_space_10: buyershiverdaybeantinyactionhungryusageflowercross
-bip_39_word_no_space_11: buyershiverdaybeantinyactionhungryusageflowercrosscitizen
 bip_39_word_no_space_12: buyershiverdaybeantinyactionhungryusageflowercrosscitizenangry
 bip_39_word_no_space_2: buyershiver
 bip_39_word_no_space_3: buyershiverday
-bip_39_word_no_space_4: buyershiverdaybean
-bip_39_word_no_space_5: buyershiverdaybeantiny
-bip_39_word_no_space_6: buyershiverdaybeantinyaction
-bip_39_word_no_space_7: buyershiverdaybeantinyactionhungry
-bip_39_word_no_space_8: buyershiverdaybeantinyactionhungryusage
-bip_39_word_no_space_9: buyershiverdaybeantinyactionhungryusageflower
-bip_39_word_space_0:
-- buyer
-- shiver
-- day
-- bean
-- tiny
-- action
-- hungry
-- usage
-- flower
-- cross
-- citizen
-- angry
-bip_39_word_space_1: buyer
-bip_39_word_space_10: buyer shiver day bean tiny action hungry usage flower cross
-bip_39_word_space_11: buyer shiver day bean tiny action hungry usage flower cross
-  citizen
 bip_39_word_space_12: buyer shiver day bean tiny action hungry usage flower cross
   citizen angry
 bip_39_word_space_2: buyer shiver
 bip_39_word_space_3: buyer shiver day
-bip_39_word_space_4: buyer shiver day bean
-bip_39_word_space_5: buyer shiver day bean tiny
-bip_39_word_space_6: buyer shiver day bean tiny action
-bip_39_word_space_7: buyer shiver day bean tiny action hungry
-bip_39_word_space_8: buyer shiver day bean tiny action hungry usage
-bip_39_word_space_9: buyer shiver day bean tiny action hungry usage flower
-bip_39_word_underscore_1: buyer
-bip_39_word_underscore_10: buyer_shiver_day_bean_tiny_action_hungry_usage_flower_cross
-bip_39_word_underscore_11: buyer_shiver_day_bean_tiny_action_hungry_usage_flower_cross_citizen
 bip_39_word_underscore_12: buyer_shiver_day_bean_tiny_action_hungry_usage_flower_cross_citizen_angry
 bip_39_word_underscore_2: buyer_shiver
 bip_39_word_underscore_3: buyer_shiver_day
-bip_39_word_underscore_4: buyer_shiver_day_bean
-bip_39_word_underscore_5: buyer_shiver_day_bean_tiny
-bip_39_word_underscore_6: buyer_shiver_day_bean_tiny_action
-bip_39_word_underscore_7: buyer_shiver_day_bean_tiny_action_hungry
-bip_39_word_underscore_8: buyer_shiver_day_bean_tiny_action_hungry_usage
-bip_39_word_underscore_9: buyer_shiver_day_bean_tiny_action_hungry_usage_flower
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

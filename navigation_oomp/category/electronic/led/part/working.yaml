@@ -1,68 +1,9 @@
-bip_39_word_dash_1: security
-bip_39_word_dash_10: security-cute-upgrade-avocado-detail-speed-slab-resource-forward-merge
-bip_39_word_dash_11: security-cute-upgrade-avocado-detail-speed-slab-resource-forward-merge-alcohol
 bip_39_word_dash_12: security-cute-upgrade-avocado-detail-speed-slab-resource-forward-merge-alcohol-alien
 bip_39_word_dash_2: security-cute
 bip_39_word_dash_3: security-cute-upgrade
-bip_39_word_dash_4: security-cute-upgrade-avocado
-bip_39_word_dash_5: security-cute-upgrade-avocado-detail
-bip_39_word_dash_6: security-cute-upgrade-avocado-detail-speed
-bip_39_word_dash_7: security-cute-upgrade-avocado-detail-speed-slab
-bip_39_word_dash_8: security-cute-upgrade-avocado-detail-speed-slab-resource
-bip_39_word_dash_9: security-cute-upgrade-avocado-detail-speed-slab-resource-forward
-bip_39_word_new_br_1: security
-bip_39_word_new_br_10: security<br>cute<br>upgrade<br>avocado<br>detail<br>speed<br>slab<br>resource<br>forward<br>merge
-bip_39_word_new_br_11: security<br>cute<br>upgrade<br>avocado<br>detail<br>speed<br>slab<br>resource<br>forward<br>merge<br>alcohol
 bip_39_word_new_br_12: security<br>cute<br>upgrade<br>avocado<br>detail<br>speed<br>slab<br>resource<br>forward<br>merge<br>alcohol<br>alien
 bip_39_word_new_br_2: security<br>cute
 bip_39_word_new_br_3: security<br>cute<br>upgrade
-bip_39_word_new_br_4: security<br>cute<br>upgrade<br>avocado
-bip_39_word_new_br_5: security<br>cute<br>upgrade<br>avocado<br>detail
-bip_39_word_new_br_6: security<br>cute<br>upgrade<br>avocado<br>detail<br>speed
-bip_39_word_new_br_7: security<br>cute<br>upgrade<br>avocado<br>detail<br>speed<br>slab
-bip_39_word_new_br_8: security<br>cute<br>upgrade<br>avocado<br>detail<br>speed<br>slab<br>resource
-bip_39_word_new_br_9: security<br>cute<br>upgrade<br>avocado<br>detail<br>speed<br>slab<br>resource<br>forward
-bip_39_word_new_line_1: security
-bip_39_word_new_line_10: 'security
-
-  cute
-
-  upgrade
-
-  avocado
-
-  detail
-
-  speed
-
-  slab
-
-  resource
-
-  forward
-
-  merge'
-bip_39_word_new_line_11: 'security
-
-  cute
-
-  upgrade
-
-  avocado
-
-  detail
-
-  speed
-
-  slab
-
-  resource
-
-  forward
-
-  merge
-
-  alcohol'
 bip_39_word_new_line_12: 'security
 
   cute
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'security
   cute
 
   upgrade'
-bip_39_word_new_line_4: 'security
-
-  cute
-
-  upgrade
-
-  avocado'
-bip_39_word_new_line_5: 'security
-
-  cute
-
-  upgrade
-
-  avocado
-
-  detail'
-bip_39_word_new_line_6: 'security
-
-  cute
-
-  upgrade
-
-  avocado
-
-  detail
-
-  speed'
-bip_39_word_new_line_7: 'security
-
-  cute
-
-  upgrade
-
-  avocado
-
-  detail
-
-  speed
-
-  slab'
-bip_39_word_new_line_8: 'security
-
-  cute
-
-  upgrade
-
-  avocado
-
-  detail
-
-  speed
-
-  slab
-
-  resource'
-bip_39_word_new_line_9: 'security
-
-  cute
-
-  upgrade
-
-  avocado
-
-  detail
-
-  speed
-
-  slab
-
-  resource
-
-  forward'
-bip_39_word_no_space_1: security
-bip_39_word_no_space_10: securitycuteupgradeavocadodetailspeedslabresourceforwardmerge
-bip_39_word_no_space_11: securitycuteupgradeavocadodetailspeedslabresourceforwardmergealcohol
 bip_39_word_no_space_12: securitycuteupgradeavocadodetailspeedslabresourceforwardmergealcoholalien
 bip_39_word_no_space_2: securitycute
 bip_39_word_no_space_3: securitycuteupgrade
-bip_39_word_no_space_4: securitycuteupgradeavocado
-bip_39_word_no_space_5: securitycuteupgradeavocadodetail
-bip_39_word_no_space_6: securitycuteupgradeavocadodetailspeed
-bip_39_word_no_space_7: securitycuteupgradeavocadodetailspeedslab
-bip_39_word_no_space_8: securitycuteupgradeavocadodetailspeedslabresource
-bip_39_word_no_space_9: securitycuteupgradeavocadodetailspeedslabresourceforward
-bip_39_word_space_0:
-- security
-- cute
-- upgrade
-- avocado
-- detail
-- speed
-- slab
-- resource
-- forward
-- merge
-- alcohol
-- alien
-bip_39_word_space_1: security
-bip_39_word_space_10: security cute upgrade avocado detail speed slab resource forward
-  merge
-bip_39_word_space_11: security cute upgrade avocado detail speed slab resource forward
-  merge alcohol
 bip_39_word_space_12: security cute upgrade avocado detail speed slab resource forward
   merge alcohol alien
 bip_39_word_space_2: security cute
 bip_39_word_space_3: security cute upgrade
-bip_39_word_space_4: security cute upgrade avocado
-bip_39_word_space_5: security cute upgrade avocado detail
-bip_39_word_space_6: security cute upgrade avocado detail speed
-bip_39_word_space_7: security cute upgrade avocado detail speed slab
-bip_39_word_space_8: security cute upgrade avocado detail speed slab resource
-bip_39_word_space_9: security cute upgrade avocado detail speed slab resource forward
-bip_39_word_underscore_1: security
-bip_39_word_underscore_10: security_cute_upgrade_avocado_detail_speed_slab_resource_forward_merge
-bip_39_word_underscore_11: security_cute_upgrade_avocado_detail_speed_slab_resource_forward_merge_alcohol
 bip_39_word_underscore_12: security_cute_upgrade_avocado_detail_speed_slab_resource_forward_merge_alcohol_alien
 bip_39_word_underscore_2: security_cute
 bip_39_word_underscore_3: security_cute_upgrade
-bip_39_word_underscore_4: security_cute_upgrade_avocado
-bip_39_word_underscore_5: security_cute_upgrade_avocado_detail
-bip_39_word_underscore_6: security_cute_upgrade_avocado_detail_speed
-bip_39_word_underscore_7: security_cute_upgrade_avocado_detail_speed_slab
-bip_39_word_underscore_8: security_cute_upgrade_avocado_detail_speed_slab_resource
-bip_39_word_underscore_9: security_cute_upgrade_avocado_detail_speed_slab_resource_forward
 classification: category
 classification_capital: Category
 classification_first_letter: c

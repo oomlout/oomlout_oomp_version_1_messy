@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chimney
-bip_39_word_dash_10: chimney-label-special-art-position-daring-pony-echo-hurt-luxury
-bip_39_word_dash_11: chimney-label-special-art-position-daring-pony-echo-hurt-luxury-purse
 bip_39_word_dash_12: chimney-label-special-art-position-daring-pony-echo-hurt-luxury-purse-absent
 bip_39_word_dash_2: chimney-label
 bip_39_word_dash_3: chimney-label-special
-bip_39_word_dash_4: chimney-label-special-art
-bip_39_word_dash_5: chimney-label-special-art-position
-bip_39_word_dash_6: chimney-label-special-art-position-daring
-bip_39_word_dash_7: chimney-label-special-art-position-daring-pony
-bip_39_word_dash_8: chimney-label-special-art-position-daring-pony-echo
-bip_39_word_dash_9: chimney-label-special-art-position-daring-pony-echo-hurt
-bip_39_word_new_br_1: chimney
-bip_39_word_new_br_10: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt<br>luxury
-bip_39_word_new_br_11: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt<br>luxury<br>purse
 bip_39_word_new_br_12: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt<br>luxury<br>purse<br>absent
 bip_39_word_new_br_2: chimney<br>label
 bip_39_word_new_br_3: chimney<br>label<br>special
-bip_39_word_new_br_4: chimney<br>label<br>special<br>art
-bip_39_word_new_br_5: chimney<br>label<br>special<br>art<br>position
-bip_39_word_new_br_6: chimney<br>label<br>special<br>art<br>position<br>daring
-bip_39_word_new_br_7: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony
-bip_39_word_new_br_8: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo
-bip_39_word_new_br_9: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt
-bip_39_word_new_line_1: chimney
-bip_39_word_new_line_10: 'chimney
-
-  label
-
-  special
-
-  art
-
-  position
-
-  daring
-
-  pony
-
-  echo
-
-  hurt
-
-  luxury'
-bip_39_word_new_line_11: 'chimney
-
-  label
-
-  special
-
-  art
-
-  position
-
-  daring
-
-  pony
-
-  echo
-
-  hurt
-
-  luxury
-
-  purse'
 bip_39_word_new_line_12: 'chimney
 
   label
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chimney
   label
 
   special'
-bip_39_word_new_line_4: 'chimney
-
-  label
-
-  special
-
-  art'
-bip_39_word_new_line_5: 'chimney
-
-  label
-
-  special
-
-  art
-
-  position'
-bip_39_word_new_line_6: 'chimney
-
-  label
-
-  special
-
-  art
-
-  position
-
-  daring'
-bip_39_word_new_line_7: 'chimney
-
-  label
-
-  special
-
-  art
-
-  position
-
-  daring
-
-  pony'
-bip_39_word_new_line_8: 'chimney
-
-  label
-
-  special
-
-  art
-
-  position
-
-  daring
-
-  pony
-
-  echo'
-bip_39_word_new_line_9: 'chimney
-
-  label
-
-  special
-
-  art
-
-  position
-
-  daring
-
-  pony
-
-  echo
-
-  hurt'
-bip_39_word_no_space_1: chimney
-bip_39_word_no_space_10: chimneylabelspecialartpositiondaringponyechohurtluxury
-bip_39_word_no_space_11: chimneylabelspecialartpositiondaringponyechohurtluxurypurse
 bip_39_word_no_space_12: chimneylabelspecialartpositiondaringponyechohurtluxurypurseabsent
 bip_39_word_no_space_2: chimneylabel
 bip_39_word_no_space_3: chimneylabelspecial
-bip_39_word_no_space_4: chimneylabelspecialart
-bip_39_word_no_space_5: chimneylabelspecialartposition
-bip_39_word_no_space_6: chimneylabelspecialartpositiondaring
-bip_39_word_no_space_7: chimneylabelspecialartpositiondaringpony
-bip_39_word_no_space_8: chimneylabelspecialartpositiondaringponyecho
-bip_39_word_no_space_9: chimneylabelspecialartpositiondaringponyechohurt
-bip_39_word_space_0:
-- chimney
-- label
-- special
-- art
-- position
-- daring
-- pony
-- echo
-- hurt
-- luxury
-- purse
-- absent
-bip_39_word_space_1: chimney
-bip_39_word_space_10: chimney label special art position daring pony echo hurt luxury
-bip_39_word_space_11: chimney label special art position daring pony echo hurt luxury
-  purse
 bip_39_word_space_12: chimney label special art position daring pony echo hurt luxury
   purse absent
 bip_39_word_space_2: chimney label
 bip_39_word_space_3: chimney label special
-bip_39_word_space_4: chimney label special art
-bip_39_word_space_5: chimney label special art position
-bip_39_word_space_6: chimney label special art position daring
-bip_39_word_space_7: chimney label special art position daring pony
-bip_39_word_space_8: chimney label special art position daring pony echo
-bip_39_word_space_9: chimney label special art position daring pony echo hurt
-bip_39_word_underscore_1: chimney
-bip_39_word_underscore_10: chimney_label_special_art_position_daring_pony_echo_hurt_luxury
-bip_39_word_underscore_11: chimney_label_special_art_position_daring_pony_echo_hurt_luxury_purse
 bip_39_word_underscore_12: chimney_label_special_art_position_daring_pony_echo_hurt_luxury_purse_absent
 bip_39_word_underscore_2: chimney_label
 bip_39_word_underscore_3: chimney_label_special
-bip_39_word_underscore_4: chimney_label_special_art
-bip_39_word_underscore_5: chimney_label_special_art_position
-bip_39_word_underscore_6: chimney_label_special_art_position_daring
-bip_39_word_underscore_7: chimney_label_special_art_position_daring_pony
-bip_39_word_underscore_8: chimney_label_special_art_position_daring_pony_echo
-bip_39_word_underscore_9: chimney_label_special_art_position_daring_pony_echo_hurt
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

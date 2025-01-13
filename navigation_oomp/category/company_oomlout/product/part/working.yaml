@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kingdom
-bip_39_word_dash_10: kingdom-hollow-before-estate-risk-hedgehog-achieve-voyage-music-tiny
-bip_39_word_dash_11: kingdom-hollow-before-estate-risk-hedgehog-achieve-voyage-music-tiny-property
 bip_39_word_dash_12: kingdom-hollow-before-estate-risk-hedgehog-achieve-voyage-music-tiny-property-account
 bip_39_word_dash_2: kingdom-hollow
 bip_39_word_dash_3: kingdom-hollow-before
-bip_39_word_dash_4: kingdom-hollow-before-estate
-bip_39_word_dash_5: kingdom-hollow-before-estate-risk
-bip_39_word_dash_6: kingdom-hollow-before-estate-risk-hedgehog
-bip_39_word_dash_7: kingdom-hollow-before-estate-risk-hedgehog-achieve
-bip_39_word_dash_8: kingdom-hollow-before-estate-risk-hedgehog-achieve-voyage
-bip_39_word_dash_9: kingdom-hollow-before-estate-risk-hedgehog-achieve-voyage-music
-bip_39_word_new_br_1: kingdom
-bip_39_word_new_br_10: kingdom<br>hollow<br>before<br>estate<br>risk<br>hedgehog<br>achieve<br>voyage<br>music<br>tiny
-bip_39_word_new_br_11: kingdom<br>hollow<br>before<br>estate<br>risk<br>hedgehog<br>achieve<br>voyage<br>music<br>tiny<br>property
 bip_39_word_new_br_12: kingdom<br>hollow<br>before<br>estate<br>risk<br>hedgehog<br>achieve<br>voyage<br>music<br>tiny<br>property<br>account
 bip_39_word_new_br_2: kingdom<br>hollow
 bip_39_word_new_br_3: kingdom<br>hollow<br>before
-bip_39_word_new_br_4: kingdom<br>hollow<br>before<br>estate
-bip_39_word_new_br_5: kingdom<br>hollow<br>before<br>estate<br>risk
-bip_39_word_new_br_6: kingdom<br>hollow<br>before<br>estate<br>risk<br>hedgehog
-bip_39_word_new_br_7: kingdom<br>hollow<br>before<br>estate<br>risk<br>hedgehog<br>achieve
-bip_39_word_new_br_8: kingdom<br>hollow<br>before<br>estate<br>risk<br>hedgehog<br>achieve<br>voyage
-bip_39_word_new_br_9: kingdom<br>hollow<br>before<br>estate<br>risk<br>hedgehog<br>achieve<br>voyage<br>music
-bip_39_word_new_line_1: kingdom
-bip_39_word_new_line_10: 'kingdom
-
-  hollow
-
-  before
-
-  estate
-
-  risk
-
-  hedgehog
-
-  achieve
-
-  voyage
-
-  music
-
-  tiny'
-bip_39_word_new_line_11: 'kingdom
-
-  hollow
-
-  before
-
-  estate
-
-  risk
-
-  hedgehog
-
-  achieve
-
-  voyage
-
-  music
-
-  tiny
-
-  property'
 bip_39_word_new_line_12: 'kingdom
 
   hollow
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'kingdom
   hollow
 
   before'
-bip_39_word_new_line_4: 'kingdom
-
-  hollow
-
-  before
-
-  estate'
-bip_39_word_new_line_5: 'kingdom
-
-  hollow
-
-  before
-
-  estate
-
-  risk'
-bip_39_word_new_line_6: 'kingdom
-
-  hollow
-
-  before
-
-  estate
-
-  risk
-
-  hedgehog'
-bip_39_word_new_line_7: 'kingdom
-
-  hollow
-
-  before
-
-  estate
-
-  risk
-
-  hedgehog
-
-  achieve'
-bip_39_word_new_line_8: 'kingdom
-
-  hollow
-
-  before
-
-  estate
-
-  risk
-
-  hedgehog
-
-  achieve
-
-  voyage'
-bip_39_word_new_line_9: 'kingdom
-
-  hollow
-
-  before
-
-  estate
-
-  risk
-
-  hedgehog
-
-  achieve
-
-  voyage
-
-  music'
-bip_39_word_no_space_1: kingdom
-bip_39_word_no_space_10: kingdomhollowbeforeestateriskhedgehogachievevoyagemusictiny
-bip_39_word_no_space_11: kingdomhollowbeforeestateriskhedgehogachievevoyagemusictinyproperty
 bip_39_word_no_space_12: kingdomhollowbeforeestateriskhedgehogachievevoyagemusictinypropertyaccount
 bip_39_word_no_space_2: kingdomhollow
 bip_39_word_no_space_3: kingdomhollowbefore
-bip_39_word_no_space_4: kingdomhollowbeforeestate
-bip_39_word_no_space_5: kingdomhollowbeforeestaterisk
-bip_39_word_no_space_6: kingdomhollowbeforeestateriskhedgehog
-bip_39_word_no_space_7: kingdomhollowbeforeestateriskhedgehogachieve
-bip_39_word_no_space_8: kingdomhollowbeforeestateriskhedgehogachievevoyage
-bip_39_word_no_space_9: kingdomhollowbeforeestateriskhedgehogachievevoyagemusic
-bip_39_word_space_0:
-- kingdom
-- hollow
-- before
-- estate
-- risk
-- hedgehog
-- achieve
-- voyage
-- music
-- tiny
-- property
-- account
-bip_39_word_space_1: kingdom
-bip_39_word_space_10: kingdom hollow before estate risk hedgehog achieve voyage music
-  tiny
-bip_39_word_space_11: kingdom hollow before estate risk hedgehog achieve voyage music
-  tiny property
 bip_39_word_space_12: kingdom hollow before estate risk hedgehog achieve voyage music
   tiny property account
 bip_39_word_space_2: kingdom hollow
 bip_39_word_space_3: kingdom hollow before
-bip_39_word_space_4: kingdom hollow before estate
-bip_39_word_space_5: kingdom hollow before estate risk
-bip_39_word_space_6: kingdom hollow before estate risk hedgehog
-bip_39_word_space_7: kingdom hollow before estate risk hedgehog achieve
-bip_39_word_space_8: kingdom hollow before estate risk hedgehog achieve voyage
-bip_39_word_space_9: kingdom hollow before estate risk hedgehog achieve voyage music
-bip_39_word_underscore_1: kingdom
-bip_39_word_underscore_10: kingdom_hollow_before_estate_risk_hedgehog_achieve_voyage_music_tiny
-bip_39_word_underscore_11: kingdom_hollow_before_estate_risk_hedgehog_achieve_voyage_music_tiny_property
 bip_39_word_underscore_12: kingdom_hollow_before_estate_risk_hedgehog_achieve_voyage_music_tiny_property_account
 bip_39_word_underscore_2: kingdom_hollow
 bip_39_word_underscore_3: kingdom_hollow_before
-bip_39_word_underscore_4: kingdom_hollow_before_estate
-bip_39_word_underscore_5: kingdom_hollow_before_estate_risk
-bip_39_word_underscore_6: kingdom_hollow_before_estate_risk_hedgehog
-bip_39_word_underscore_7: kingdom_hollow_before_estate_risk_hedgehog_achieve
-bip_39_word_underscore_8: kingdom_hollow_before_estate_risk_hedgehog_achieve_voyage
-bip_39_word_underscore_9: kingdom_hollow_before_estate_risk_hedgehog_achieve_voyage_music
 classification: category
 classification_capital: Category
 classification_first_letter: c

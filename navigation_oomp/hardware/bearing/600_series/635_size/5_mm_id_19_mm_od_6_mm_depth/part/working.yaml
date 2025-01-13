@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scrub
-bip_39_word_dash_10: scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo-brain-honey
-bip_39_word_dash_11: scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo-brain-honey-wife
 bip_39_word_dash_12: scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo-brain-honey-wife-appear
 bip_39_word_dash_2: scrub-jaguar
 bip_39_word_dash_3: scrub-jaguar-derive
-bip_39_word_dash_4: scrub-jaguar-derive-avocado
-bip_39_word_dash_5: scrub-jaguar-derive-avocado-eagle
-bip_39_word_dash_6: scrub-jaguar-derive-avocado-eagle-month
-bip_39_word_dash_7: scrub-jaguar-derive-avocado-eagle-month-bulb
-bip_39_word_dash_8: scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo
-bip_39_word_dash_9: scrub-jaguar-derive-avocado-eagle-month-bulb-kangaroo-brain
-bip_39_word_new_br_1: scrub
-bip_39_word_new_br_10: scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain<br>honey
-bip_39_word_new_br_11: scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain<br>honey<br>wife
 bip_39_word_new_br_12: scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain<br>honey<br>wife<br>appear
 bip_39_word_new_br_2: scrub<br>jaguar
 bip_39_word_new_br_3: scrub<br>jaguar<br>derive
-bip_39_word_new_br_4: scrub<br>jaguar<br>derive<br>avocado
-bip_39_word_new_br_5: scrub<br>jaguar<br>derive<br>avocado<br>eagle
-bip_39_word_new_br_6: scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month
-bip_39_word_new_br_7: scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb
-bip_39_word_new_br_8: scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo
-bip_39_word_new_br_9: scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain
-bip_39_word_new_line_1: scrub
-bip_39_word_new_line_10: 'scrub
-
-  jaguar
-
-  derive
-
-  avocado
-
-  eagle
-
-  month
-
-  bulb
-
-  kangaroo
-
-  brain
-
-  honey'
-bip_39_word_new_line_11: 'scrub
-
-  jaguar
-
-  derive
-
-  avocado
-
-  eagle
-
-  month
-
-  bulb
-
-  kangaroo
-
-  brain
-
-  honey
-
-  wife'
 bip_39_word_new_line_12: 'scrub
 
   jaguar
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scrub
   jaguar
 
   derive'
-bip_39_word_new_line_4: 'scrub
-
-  jaguar
-
-  derive
-
-  avocado'
-bip_39_word_new_line_5: 'scrub
-
-  jaguar
-
-  derive
-
-  avocado
-
-  eagle'
-bip_39_word_new_line_6: 'scrub
-
-  jaguar
-
-  derive
-
-  avocado
-
-  eagle
-
-  month'
-bip_39_word_new_line_7: 'scrub
-
-  jaguar
-
-  derive
-
-  avocado
-
-  eagle
-
-  month
-
-  bulb'
-bip_39_word_new_line_8: 'scrub
-
-  jaguar
-
-  derive
-
-  avocado
-
-  eagle
-
-  month
-
-  bulb
-
-  kangaroo'
-bip_39_word_new_line_9: 'scrub
-
-  jaguar
-
-  derive
-
-  avocado
-
-  eagle
-
-  month
-
-  bulb
-
-  kangaroo
-
-  brain'
-bip_39_word_no_space_1: scrub
-bip_39_word_no_space_10: scrubjaguarderiveavocadoeaglemonthbulbkangaroobrainhoney
-bip_39_word_no_space_11: scrubjaguarderiveavocadoeaglemonthbulbkangaroobrainhoneywife
 bip_39_word_no_space_12: scrubjaguarderiveavocadoeaglemonthbulbkangaroobrainhoneywifeappear
 bip_39_word_no_space_2: scrubjaguar
 bip_39_word_no_space_3: scrubjaguarderive
-bip_39_word_no_space_4: scrubjaguarderiveavocado
-bip_39_word_no_space_5: scrubjaguarderiveavocadoeagle
-bip_39_word_no_space_6: scrubjaguarderiveavocadoeaglemonth
-bip_39_word_no_space_7: scrubjaguarderiveavocadoeaglemonthbulb
-bip_39_word_no_space_8: scrubjaguarderiveavocadoeaglemonthbulbkangaroo
-bip_39_word_no_space_9: scrubjaguarderiveavocadoeaglemonthbulbkangaroobrain
-bip_39_word_space_0:
-- scrub
-- jaguar
-- derive
-- avocado
-- eagle
-- month
-- bulb
-- kangaroo
-- brain
-- honey
-- wife
-- appear
-bip_39_word_space_1: scrub
-bip_39_word_space_10: scrub jaguar derive avocado eagle month bulb kangaroo brain
-  honey
-bip_39_word_space_11: scrub jaguar derive avocado eagle month bulb kangaroo brain
-  honey wife
 bip_39_word_space_12: scrub jaguar derive avocado eagle month bulb kangaroo brain
   honey wife appear
 bip_39_word_space_2: scrub jaguar
 bip_39_word_space_3: scrub jaguar derive
-bip_39_word_space_4: scrub jaguar derive avocado
-bip_39_word_space_5: scrub jaguar derive avocado eagle
-bip_39_word_space_6: scrub jaguar derive avocado eagle month
-bip_39_word_space_7: scrub jaguar derive avocado eagle month bulb
-bip_39_word_space_8: scrub jaguar derive avocado eagle month bulb kangaroo
-bip_39_word_space_9: scrub jaguar derive avocado eagle month bulb kangaroo brain
-bip_39_word_underscore_1: scrub
-bip_39_word_underscore_10: scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo_brain_honey
-bip_39_word_underscore_11: scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo_brain_honey_wife
 bip_39_word_underscore_12: scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo_brain_honey_wife_appear
 bip_39_word_underscore_2: scrub_jaguar
 bip_39_word_underscore_3: scrub_jaguar_derive
-bip_39_word_underscore_4: scrub_jaguar_derive_avocado
-bip_39_word_underscore_5: scrub_jaguar_derive_avocado_eagle
-bip_39_word_underscore_6: scrub_jaguar_derive_avocado_eagle_month
-bip_39_word_underscore_7: scrub_jaguar_derive_avocado_eagle_month_bulb
-bip_39_word_underscore_8: scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo
-bip_39_word_underscore_9: scrub_jaguar_derive_avocado_eagle_month_bulb_kangaroo_brain
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

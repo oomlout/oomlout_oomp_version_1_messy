@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sound
-bip_39_word_dash_10: sound-moral-useless-obtain-alone-ripple-noble-security-leopard-clap
-bip_39_word_dash_11: sound-moral-useless-obtain-alone-ripple-noble-security-leopard-clap-enhance
 bip_39_word_dash_12: sound-moral-useless-obtain-alone-ripple-noble-security-leopard-clap-enhance-amateur
 bip_39_word_dash_2: sound-moral
 bip_39_word_dash_3: sound-moral-useless
-bip_39_word_dash_4: sound-moral-useless-obtain
-bip_39_word_dash_5: sound-moral-useless-obtain-alone
-bip_39_word_dash_6: sound-moral-useless-obtain-alone-ripple
-bip_39_word_dash_7: sound-moral-useless-obtain-alone-ripple-noble
-bip_39_word_dash_8: sound-moral-useless-obtain-alone-ripple-noble-security
-bip_39_word_dash_9: sound-moral-useless-obtain-alone-ripple-noble-security-leopard
-bip_39_word_new_br_1: sound
-bip_39_word_new_br_10: sound<br>moral<br>useless<br>obtain<br>alone<br>ripple<br>noble<br>security<br>leopard<br>clap
-bip_39_word_new_br_11: sound<br>moral<br>useless<br>obtain<br>alone<br>ripple<br>noble<br>security<br>leopard<br>clap<br>enhance
 bip_39_word_new_br_12: sound<br>moral<br>useless<br>obtain<br>alone<br>ripple<br>noble<br>security<br>leopard<br>clap<br>enhance<br>amateur
 bip_39_word_new_br_2: sound<br>moral
 bip_39_word_new_br_3: sound<br>moral<br>useless
-bip_39_word_new_br_4: sound<br>moral<br>useless<br>obtain
-bip_39_word_new_br_5: sound<br>moral<br>useless<br>obtain<br>alone
-bip_39_word_new_br_6: sound<br>moral<br>useless<br>obtain<br>alone<br>ripple
-bip_39_word_new_br_7: sound<br>moral<br>useless<br>obtain<br>alone<br>ripple<br>noble
-bip_39_word_new_br_8: sound<br>moral<br>useless<br>obtain<br>alone<br>ripple<br>noble<br>security
-bip_39_word_new_br_9: sound<br>moral<br>useless<br>obtain<br>alone<br>ripple<br>noble<br>security<br>leopard
-bip_39_word_new_line_1: sound
-bip_39_word_new_line_10: 'sound
-
-  moral
-
-  useless
-
-  obtain
-
-  alone
-
-  ripple
-
-  noble
-
-  security
-
-  leopard
-
-  clap'
-bip_39_word_new_line_11: 'sound
-
-  moral
-
-  useless
-
-  obtain
-
-  alone
-
-  ripple
-
-  noble
-
-  security
-
-  leopard
-
-  clap
-
-  enhance'
 bip_39_word_new_line_12: 'sound
 
   moral
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sound
   moral
 
   useless'
-bip_39_word_new_line_4: 'sound
-
-  moral
-
-  useless
-
-  obtain'
-bip_39_word_new_line_5: 'sound
-
-  moral
-
-  useless
-
-  obtain
-
-  alone'
-bip_39_word_new_line_6: 'sound
-
-  moral
-
-  useless
-
-  obtain
-
-  alone
-
-  ripple'
-bip_39_word_new_line_7: 'sound
-
-  moral
-
-  useless
-
-  obtain
-
-  alone
-
-  ripple
-
-  noble'
-bip_39_word_new_line_8: 'sound
-
-  moral
-
-  useless
-
-  obtain
-
-  alone
-
-  ripple
-
-  noble
-
-  security'
-bip_39_word_new_line_9: 'sound
-
-  moral
-
-  useless
-
-  obtain
-
-  alone
-
-  ripple
-
-  noble
-
-  security
-
-  leopard'
-bip_39_word_no_space_1: sound
-bip_39_word_no_space_10: soundmoraluselessobtainaloneripplenoblesecurityleopardclap
-bip_39_word_no_space_11: soundmoraluselessobtainaloneripplenoblesecurityleopardclapenhance
 bip_39_word_no_space_12: soundmoraluselessobtainaloneripplenoblesecurityleopardclapenhanceamateur
 bip_39_word_no_space_2: soundmoral
 bip_39_word_no_space_3: soundmoraluseless
-bip_39_word_no_space_4: soundmoraluselessobtain
-bip_39_word_no_space_5: soundmoraluselessobtainalone
-bip_39_word_no_space_6: soundmoraluselessobtainaloneripple
-bip_39_word_no_space_7: soundmoraluselessobtainaloneripplenoble
-bip_39_word_no_space_8: soundmoraluselessobtainaloneripplenoblesecurity
-bip_39_word_no_space_9: soundmoraluselessobtainaloneripplenoblesecurityleopard
-bip_39_word_space_0:
-- sound
-- moral
-- useless
-- obtain
-- alone
-- ripple
-- noble
-- security
-- leopard
-- clap
-- enhance
-- amateur
-bip_39_word_space_1: sound
-bip_39_word_space_10: sound moral useless obtain alone ripple noble security leopard
-  clap
-bip_39_word_space_11: sound moral useless obtain alone ripple noble security leopard
-  clap enhance
 bip_39_word_space_12: sound moral useless obtain alone ripple noble security leopard
   clap enhance amateur
 bip_39_word_space_2: sound moral
 bip_39_word_space_3: sound moral useless
-bip_39_word_space_4: sound moral useless obtain
-bip_39_word_space_5: sound moral useless obtain alone
-bip_39_word_space_6: sound moral useless obtain alone ripple
-bip_39_word_space_7: sound moral useless obtain alone ripple noble
-bip_39_word_space_8: sound moral useless obtain alone ripple noble security
-bip_39_word_space_9: sound moral useless obtain alone ripple noble security leopard
-bip_39_word_underscore_1: sound
-bip_39_word_underscore_10: sound_moral_useless_obtain_alone_ripple_noble_security_leopard_clap
-bip_39_word_underscore_11: sound_moral_useless_obtain_alone_ripple_noble_security_leopard_clap_enhance
 bip_39_word_underscore_12: sound_moral_useless_obtain_alone_ripple_noble_security_leopard_clap_enhance_amateur
 bip_39_word_underscore_2: sound_moral
 bip_39_word_underscore_3: sound_moral_useless
-bip_39_word_underscore_4: sound_moral_useless_obtain
-bip_39_word_underscore_5: sound_moral_useless_obtain_alone
-bip_39_word_underscore_6: sound_moral_useless_obtain_alone_ripple
-bip_39_word_underscore_7: sound_moral_useless_obtain_alone_ripple_noble
-bip_39_word_underscore_8: sound_moral_useless_obtain_alone_ripple_noble_security
-bip_39_word_underscore_9: sound_moral_useless_obtain_alone_ripple_noble_security_leopard
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

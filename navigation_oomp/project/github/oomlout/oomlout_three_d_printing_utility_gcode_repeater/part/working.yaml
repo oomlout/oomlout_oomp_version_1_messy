@@ -1,68 +1,9 @@
-bip_39_word_dash_1: weird
-bip_39_word_dash_10: weird-mass-riot-noise-vendor-require-toilet-bunker-animal-year
-bip_39_word_dash_11: weird-mass-riot-noise-vendor-require-toilet-bunker-animal-year-panther
 bip_39_word_dash_12: weird-mass-riot-noise-vendor-require-toilet-bunker-animal-year-panther-acquire
 bip_39_word_dash_2: weird-mass
 bip_39_word_dash_3: weird-mass-riot
-bip_39_word_dash_4: weird-mass-riot-noise
-bip_39_word_dash_5: weird-mass-riot-noise-vendor
-bip_39_word_dash_6: weird-mass-riot-noise-vendor-require
-bip_39_word_dash_7: weird-mass-riot-noise-vendor-require-toilet
-bip_39_word_dash_8: weird-mass-riot-noise-vendor-require-toilet-bunker
-bip_39_word_dash_9: weird-mass-riot-noise-vendor-require-toilet-bunker-animal
-bip_39_word_new_br_1: weird
-bip_39_word_new_br_10: weird<br>mass<br>riot<br>noise<br>vendor<br>require<br>toilet<br>bunker<br>animal<br>year
-bip_39_word_new_br_11: weird<br>mass<br>riot<br>noise<br>vendor<br>require<br>toilet<br>bunker<br>animal<br>year<br>panther
 bip_39_word_new_br_12: weird<br>mass<br>riot<br>noise<br>vendor<br>require<br>toilet<br>bunker<br>animal<br>year<br>panther<br>acquire
 bip_39_word_new_br_2: weird<br>mass
 bip_39_word_new_br_3: weird<br>mass<br>riot
-bip_39_word_new_br_4: weird<br>mass<br>riot<br>noise
-bip_39_word_new_br_5: weird<br>mass<br>riot<br>noise<br>vendor
-bip_39_word_new_br_6: weird<br>mass<br>riot<br>noise<br>vendor<br>require
-bip_39_word_new_br_7: weird<br>mass<br>riot<br>noise<br>vendor<br>require<br>toilet
-bip_39_word_new_br_8: weird<br>mass<br>riot<br>noise<br>vendor<br>require<br>toilet<br>bunker
-bip_39_word_new_br_9: weird<br>mass<br>riot<br>noise<br>vendor<br>require<br>toilet<br>bunker<br>animal
-bip_39_word_new_line_1: weird
-bip_39_word_new_line_10: 'weird
-
-  mass
-
-  riot
-
-  noise
-
-  vendor
-
-  require
-
-  toilet
-
-  bunker
-
-  animal
-
-  year'
-bip_39_word_new_line_11: 'weird
-
-  mass
-
-  riot
-
-  noise
-
-  vendor
-
-  require
-
-  toilet
-
-  bunker
-
-  animal
-
-  year
-
-  panther'
 bip_39_word_new_line_12: 'weird
 
   mass
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'weird
   mass
 
   riot'
-bip_39_word_new_line_4: 'weird
-
-  mass
-
-  riot
-
-  noise'
-bip_39_word_new_line_5: 'weird
-
-  mass
-
-  riot
-
-  noise
-
-  vendor'
-bip_39_word_new_line_6: 'weird
-
-  mass
-
-  riot
-
-  noise
-
-  vendor
-
-  require'
-bip_39_word_new_line_7: 'weird
-
-  mass
-
-  riot
-
-  noise
-
-  vendor
-
-  require
-
-  toilet'
-bip_39_word_new_line_8: 'weird
-
-  mass
-
-  riot
-
-  noise
-
-  vendor
-
-  require
-
-  toilet
-
-  bunker'
-bip_39_word_new_line_9: 'weird
-
-  mass
-
-  riot
-
-  noise
-
-  vendor
-
-  require
-
-  toilet
-
-  bunker
-
-  animal'
-bip_39_word_no_space_1: weird
-bip_39_word_no_space_10: weirdmassriotnoisevendorrequiretoiletbunkeranimalyear
-bip_39_word_no_space_11: weirdmassriotnoisevendorrequiretoiletbunkeranimalyearpanther
 bip_39_word_no_space_12: weirdmassriotnoisevendorrequiretoiletbunkeranimalyearpantheracquire
 bip_39_word_no_space_2: weirdmass
 bip_39_word_no_space_3: weirdmassriot
-bip_39_word_no_space_4: weirdmassriotnoise
-bip_39_word_no_space_5: weirdmassriotnoisevendor
-bip_39_word_no_space_6: weirdmassriotnoisevendorrequire
-bip_39_word_no_space_7: weirdmassriotnoisevendorrequiretoilet
-bip_39_word_no_space_8: weirdmassriotnoisevendorrequiretoiletbunker
-bip_39_word_no_space_9: weirdmassriotnoisevendorrequiretoiletbunkeranimal
-bip_39_word_space_0:
-- weird
-- mass
-- riot
-- noise
-- vendor
-- require
-- toilet
-- bunker
-- animal
-- year
-- panther
-- acquire
-bip_39_word_space_1: weird
-bip_39_word_space_10: weird mass riot noise vendor require toilet bunker animal year
-bip_39_word_space_11: weird mass riot noise vendor require toilet bunker animal year
-  panther
 bip_39_word_space_12: weird mass riot noise vendor require toilet bunker animal year
   panther acquire
 bip_39_word_space_2: weird mass
 bip_39_word_space_3: weird mass riot
-bip_39_word_space_4: weird mass riot noise
-bip_39_word_space_5: weird mass riot noise vendor
-bip_39_word_space_6: weird mass riot noise vendor require
-bip_39_word_space_7: weird mass riot noise vendor require toilet
-bip_39_word_space_8: weird mass riot noise vendor require toilet bunker
-bip_39_word_space_9: weird mass riot noise vendor require toilet bunker animal
-bip_39_word_underscore_1: weird
-bip_39_word_underscore_10: weird_mass_riot_noise_vendor_require_toilet_bunker_animal_year
-bip_39_word_underscore_11: weird_mass_riot_noise_vendor_require_toilet_bunker_animal_year_panther
 bip_39_word_underscore_12: weird_mass_riot_noise_vendor_require_toilet_bunker_animal_year_panther_acquire
 bip_39_word_underscore_2: weird_mass
 bip_39_word_underscore_3: weird_mass_riot
-bip_39_word_underscore_4: weird_mass_riot_noise
-bip_39_word_underscore_5: weird_mass_riot_noise_vendor
-bip_39_word_underscore_6: weird_mass_riot_noise_vendor_require
-bip_39_word_underscore_7: weird_mass_riot_noise_vendor_require_toilet
-bip_39_word_underscore_8: weird_mass_riot_noise_vendor_require_toilet_bunker
-bip_39_word_underscore_9: weird_mass_riot_noise_vendor_require_toilet_bunker_animal
 classification: project
 classification_capital: Project
 classification_first_letter: p

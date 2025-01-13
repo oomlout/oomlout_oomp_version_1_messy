@@ -1,68 +1,9 @@
-bip_39_word_dash_1: desert
-bip_39_word_dash_10: desert-economy-veteran-vault-vivid-puzzle-bulb-rail-enlist-student
-bip_39_word_dash_11: desert-economy-veteran-vault-vivid-puzzle-bulb-rail-enlist-student-biology
 bip_39_word_dash_12: desert-economy-veteran-vault-vivid-puzzle-bulb-rail-enlist-student-biology-above
 bip_39_word_dash_2: desert-economy
 bip_39_word_dash_3: desert-economy-veteran
-bip_39_word_dash_4: desert-economy-veteran-vault
-bip_39_word_dash_5: desert-economy-veteran-vault-vivid
-bip_39_word_dash_6: desert-economy-veteran-vault-vivid-puzzle
-bip_39_word_dash_7: desert-economy-veteran-vault-vivid-puzzle-bulb
-bip_39_word_dash_8: desert-economy-veteran-vault-vivid-puzzle-bulb-rail
-bip_39_word_dash_9: desert-economy-veteran-vault-vivid-puzzle-bulb-rail-enlist
-bip_39_word_new_br_1: desert
-bip_39_word_new_br_10: desert<br>economy<br>veteran<br>vault<br>vivid<br>puzzle<br>bulb<br>rail<br>enlist<br>student
-bip_39_word_new_br_11: desert<br>economy<br>veteran<br>vault<br>vivid<br>puzzle<br>bulb<br>rail<br>enlist<br>student<br>biology
 bip_39_word_new_br_12: desert<br>economy<br>veteran<br>vault<br>vivid<br>puzzle<br>bulb<br>rail<br>enlist<br>student<br>biology<br>above
 bip_39_word_new_br_2: desert<br>economy
 bip_39_word_new_br_3: desert<br>economy<br>veteran
-bip_39_word_new_br_4: desert<br>economy<br>veteran<br>vault
-bip_39_word_new_br_5: desert<br>economy<br>veteran<br>vault<br>vivid
-bip_39_word_new_br_6: desert<br>economy<br>veteran<br>vault<br>vivid<br>puzzle
-bip_39_word_new_br_7: desert<br>economy<br>veteran<br>vault<br>vivid<br>puzzle<br>bulb
-bip_39_word_new_br_8: desert<br>economy<br>veteran<br>vault<br>vivid<br>puzzle<br>bulb<br>rail
-bip_39_word_new_br_9: desert<br>economy<br>veteran<br>vault<br>vivid<br>puzzle<br>bulb<br>rail<br>enlist
-bip_39_word_new_line_1: desert
-bip_39_word_new_line_10: 'desert
-
-  economy
-
-  veteran
-
-  vault
-
-  vivid
-
-  puzzle
-
-  bulb
-
-  rail
-
-  enlist
-
-  student'
-bip_39_word_new_line_11: 'desert
-
-  economy
-
-  veteran
-
-  vault
-
-  vivid
-
-  puzzle
-
-  bulb
-
-  rail
-
-  enlist
-
-  student
-
-  biology'
 bip_39_word_new_line_12: 'desert
 
   economy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'desert
   economy
 
   veteran'
-bip_39_word_new_line_4: 'desert
-
-  economy
-
-  veteran
-
-  vault'
-bip_39_word_new_line_5: 'desert
-
-  economy
-
-  veteran
-
-  vault
-
-  vivid'
-bip_39_word_new_line_6: 'desert
-
-  economy
-
-  veteran
-
-  vault
-
-  vivid
-
-  puzzle'
-bip_39_word_new_line_7: 'desert
-
-  economy
-
-  veteran
-
-  vault
-
-  vivid
-
-  puzzle
-
-  bulb'
-bip_39_word_new_line_8: 'desert
-
-  economy
-
-  veteran
-
-  vault
-
-  vivid
-
-  puzzle
-
-  bulb
-
-  rail'
-bip_39_word_new_line_9: 'desert
-
-  economy
-
-  veteran
-
-  vault
-
-  vivid
-
-  puzzle
-
-  bulb
-
-  rail
-
-  enlist'
-bip_39_word_no_space_1: desert
-bip_39_word_no_space_10: deserteconomyveteranvaultvividpuzzlebulbrailenliststudent
-bip_39_word_no_space_11: deserteconomyveteranvaultvividpuzzlebulbrailenliststudentbiology
 bip_39_word_no_space_12: deserteconomyveteranvaultvividpuzzlebulbrailenliststudentbiologyabove
 bip_39_word_no_space_2: deserteconomy
 bip_39_word_no_space_3: deserteconomyveteran
-bip_39_word_no_space_4: deserteconomyveteranvault
-bip_39_word_no_space_5: deserteconomyveteranvaultvivid
-bip_39_word_no_space_6: deserteconomyveteranvaultvividpuzzle
-bip_39_word_no_space_7: deserteconomyveteranvaultvividpuzzlebulb
-bip_39_word_no_space_8: deserteconomyveteranvaultvividpuzzlebulbrail
-bip_39_word_no_space_9: deserteconomyveteranvaultvividpuzzlebulbrailenlist
-bip_39_word_space_0:
-- desert
-- economy
-- veteran
-- vault
-- vivid
-- puzzle
-- bulb
-- rail
-- enlist
-- student
-- biology
-- above
-bip_39_word_space_1: desert
-bip_39_word_space_10: desert economy veteran vault vivid puzzle bulb rail enlist student
-bip_39_word_space_11: desert economy veteran vault vivid puzzle bulb rail enlist student
-  biology
 bip_39_word_space_12: desert economy veteran vault vivid puzzle bulb rail enlist student
   biology above
 bip_39_word_space_2: desert economy
 bip_39_word_space_3: desert economy veteran
-bip_39_word_space_4: desert economy veteran vault
-bip_39_word_space_5: desert economy veteran vault vivid
-bip_39_word_space_6: desert economy veteran vault vivid puzzle
-bip_39_word_space_7: desert economy veteran vault vivid puzzle bulb
-bip_39_word_space_8: desert economy veteran vault vivid puzzle bulb rail
-bip_39_word_space_9: desert economy veteran vault vivid puzzle bulb rail enlist
-bip_39_word_underscore_1: desert
-bip_39_word_underscore_10: desert_economy_veteran_vault_vivid_puzzle_bulb_rail_enlist_student
-bip_39_word_underscore_11: desert_economy_veteran_vault_vivid_puzzle_bulb_rail_enlist_student_biology
 bip_39_word_underscore_12: desert_economy_veteran_vault_vivid_puzzle_bulb_rail_enlist_student_biology_above
 bip_39_word_underscore_2: desert_economy
 bip_39_word_underscore_3: desert_economy_veteran
-bip_39_word_underscore_4: desert_economy_veteran_vault
-bip_39_word_underscore_5: desert_economy_veteran_vault_vivid
-bip_39_word_underscore_6: desert_economy_veteran_vault_vivid_puzzle
-bip_39_word_underscore_7: desert_economy_veteran_vault_vivid_puzzle_bulb
-bip_39_word_underscore_8: desert_economy_veteran_vault_vivid_puzzle_bulb_rail
-bip_39_word_underscore_9: desert_economy_veteran_vault_vivid_puzzle_bulb_rail_enlist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

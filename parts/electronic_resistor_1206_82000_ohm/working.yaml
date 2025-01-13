@@ -1,68 +1,9 @@
-bip_39_word_dash_1: desk
-bip_39_word_dash_10: desk-salmon-tobacco-drum-fall-coin-envelope-base-flight-prize
-bip_39_word_dash_11: desk-salmon-tobacco-drum-fall-coin-envelope-base-flight-prize-direct
 bip_39_word_dash_12: desk-salmon-tobacco-drum-fall-coin-envelope-base-flight-prize-direct-alien
 bip_39_word_dash_2: desk-salmon
 bip_39_word_dash_3: desk-salmon-tobacco
-bip_39_word_dash_4: desk-salmon-tobacco-drum
-bip_39_word_dash_5: desk-salmon-tobacco-drum-fall
-bip_39_word_dash_6: desk-salmon-tobacco-drum-fall-coin
-bip_39_word_dash_7: desk-salmon-tobacco-drum-fall-coin-envelope
-bip_39_word_dash_8: desk-salmon-tobacco-drum-fall-coin-envelope-base
-bip_39_word_dash_9: desk-salmon-tobacco-drum-fall-coin-envelope-base-flight
-bip_39_word_new_br_1: desk
-bip_39_word_new_br_10: desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize
-bip_39_word_new_br_11: desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize<br>direct
 bip_39_word_new_br_12: desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight<br>prize<br>direct<br>alien
 bip_39_word_new_br_2: desk<br>salmon
 bip_39_word_new_br_3: desk<br>salmon<br>tobacco
-bip_39_word_new_br_4: desk<br>salmon<br>tobacco<br>drum
-bip_39_word_new_br_5: desk<br>salmon<br>tobacco<br>drum<br>fall
-bip_39_word_new_br_6: desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin
-bip_39_word_new_br_7: desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope
-bip_39_word_new_br_8: desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base
-bip_39_word_new_br_9: desk<br>salmon<br>tobacco<br>drum<br>fall<br>coin<br>envelope<br>base<br>flight
-bip_39_word_new_line_1: desk
-bip_39_word_new_line_10: 'desk
-
-  salmon
-
-  tobacco
-
-  drum
-
-  fall
-
-  coin
-
-  envelope
-
-  base
-
-  flight
-
-  prize'
-bip_39_word_new_line_11: 'desk
-
-  salmon
-
-  tobacco
-
-  drum
-
-  fall
-
-  coin
-
-  envelope
-
-  base
-
-  flight
-
-  prize
-
-  direct'
 bip_39_word_new_line_12: 'desk
 
   salmon
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'desk
   salmon
 
   tobacco'
-bip_39_word_new_line_4: 'desk
-
-  salmon
-
-  tobacco
-
-  drum'
-bip_39_word_new_line_5: 'desk
-
-  salmon
-
-  tobacco
-
-  drum
-
-  fall'
-bip_39_word_new_line_6: 'desk
-
-  salmon
-
-  tobacco
-
-  drum
-
-  fall
-
-  coin'
-bip_39_word_new_line_7: 'desk
-
-  salmon
-
-  tobacco
-
-  drum
-
-  fall
-
-  coin
-
-  envelope'
-bip_39_word_new_line_8: 'desk
-
-  salmon
-
-  tobacco
-
-  drum
-
-  fall
-
-  coin
-
-  envelope
-
-  base'
-bip_39_word_new_line_9: 'desk
-
-  salmon
-
-  tobacco
-
-  drum
-
-  fall
-
-  coin
-
-  envelope
-
-  base
-
-  flight'
-bip_39_word_no_space_1: desk
-bip_39_word_no_space_10: desksalmontobaccodrumfallcoinenvelopebaseflightprize
-bip_39_word_no_space_11: desksalmontobaccodrumfallcoinenvelopebaseflightprizedirect
 bip_39_word_no_space_12: desksalmontobaccodrumfallcoinenvelopebaseflightprizedirectalien
 bip_39_word_no_space_2: desksalmon
 bip_39_word_no_space_3: desksalmontobacco
-bip_39_word_no_space_4: desksalmontobaccodrum
-bip_39_word_no_space_5: desksalmontobaccodrumfall
-bip_39_word_no_space_6: desksalmontobaccodrumfallcoin
-bip_39_word_no_space_7: desksalmontobaccodrumfallcoinenvelope
-bip_39_word_no_space_8: desksalmontobaccodrumfallcoinenvelopebase
-bip_39_word_no_space_9: desksalmontobaccodrumfallcoinenvelopebaseflight
-bip_39_word_space_0:
-- desk
-- salmon
-- tobacco
-- drum
-- fall
-- coin
-- envelope
-- base
-- flight
-- prize
-- direct
-- alien
-bip_39_word_space_1: desk
-bip_39_word_space_10: desk salmon tobacco drum fall coin envelope base flight prize
-bip_39_word_space_11: desk salmon tobacco drum fall coin envelope base flight prize
-  direct
 bip_39_word_space_12: desk salmon tobacco drum fall coin envelope base flight prize
   direct alien
 bip_39_word_space_2: desk salmon
 bip_39_word_space_3: desk salmon tobacco
-bip_39_word_space_4: desk salmon tobacco drum
-bip_39_word_space_5: desk salmon tobacco drum fall
-bip_39_word_space_6: desk salmon tobacco drum fall coin
-bip_39_word_space_7: desk salmon tobacco drum fall coin envelope
-bip_39_word_space_8: desk salmon tobacco drum fall coin envelope base
-bip_39_word_space_9: desk salmon tobacco drum fall coin envelope base flight
-bip_39_word_underscore_1: desk
-bip_39_word_underscore_10: desk_salmon_tobacco_drum_fall_coin_envelope_base_flight_prize
-bip_39_word_underscore_11: desk_salmon_tobacco_drum_fall_coin_envelope_base_flight_prize_direct
 bip_39_word_underscore_12: desk_salmon_tobacco_drum_fall_coin_envelope_base_flight_prize_direct_alien
 bip_39_word_underscore_2: desk_salmon
 bip_39_word_underscore_3: desk_salmon_tobacco
-bip_39_word_underscore_4: desk_salmon_tobacco_drum
-bip_39_word_underscore_5: desk_salmon_tobacco_drum_fall
-bip_39_word_underscore_6: desk_salmon_tobacco_drum_fall_coin
-bip_39_word_underscore_7: desk_salmon_tobacco_drum_fall_coin_envelope
-bip_39_word_underscore_8: desk_salmon_tobacco_drum_fall_coin_envelope_base
-bip_39_word_underscore_9: desk_salmon_tobacco_drum_fall_coin_envelope_base_flight
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

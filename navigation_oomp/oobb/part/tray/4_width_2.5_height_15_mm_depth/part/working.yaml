@@ -1,68 +1,9 @@
-bip_39_word_dash_1: elevator
-bip_39_word_dash_10: elevator-iron-mobile-twin-base-believe-actual-toss-alone-idle
-bip_39_word_dash_11: elevator-iron-mobile-twin-base-believe-actual-toss-alone-idle-merge
 bip_39_word_dash_12: elevator-iron-mobile-twin-base-believe-actual-toss-alone-idle-merge-actual
 bip_39_word_dash_2: elevator-iron
 bip_39_word_dash_3: elevator-iron-mobile
-bip_39_word_dash_4: elevator-iron-mobile-twin
-bip_39_word_dash_5: elevator-iron-mobile-twin-base
-bip_39_word_dash_6: elevator-iron-mobile-twin-base-believe
-bip_39_word_dash_7: elevator-iron-mobile-twin-base-believe-actual
-bip_39_word_dash_8: elevator-iron-mobile-twin-base-believe-actual-toss
-bip_39_word_dash_9: elevator-iron-mobile-twin-base-believe-actual-toss-alone
-bip_39_word_new_br_1: elevator
-bip_39_word_new_br_10: elevator<br>iron<br>mobile<br>twin<br>base<br>believe<br>actual<br>toss<br>alone<br>idle
-bip_39_word_new_br_11: elevator<br>iron<br>mobile<br>twin<br>base<br>believe<br>actual<br>toss<br>alone<br>idle<br>merge
 bip_39_word_new_br_12: elevator<br>iron<br>mobile<br>twin<br>base<br>believe<br>actual<br>toss<br>alone<br>idle<br>merge<br>actual
 bip_39_word_new_br_2: elevator<br>iron
 bip_39_word_new_br_3: elevator<br>iron<br>mobile
-bip_39_word_new_br_4: elevator<br>iron<br>mobile<br>twin
-bip_39_word_new_br_5: elevator<br>iron<br>mobile<br>twin<br>base
-bip_39_word_new_br_6: elevator<br>iron<br>mobile<br>twin<br>base<br>believe
-bip_39_word_new_br_7: elevator<br>iron<br>mobile<br>twin<br>base<br>believe<br>actual
-bip_39_word_new_br_8: elevator<br>iron<br>mobile<br>twin<br>base<br>believe<br>actual<br>toss
-bip_39_word_new_br_9: elevator<br>iron<br>mobile<br>twin<br>base<br>believe<br>actual<br>toss<br>alone
-bip_39_word_new_line_1: elevator
-bip_39_word_new_line_10: 'elevator
-
-  iron
-
-  mobile
-
-  twin
-
-  base
-
-  believe
-
-  actual
-
-  toss
-
-  alone
-
-  idle'
-bip_39_word_new_line_11: 'elevator
-
-  iron
-
-  mobile
-
-  twin
-
-  base
-
-  believe
-
-  actual
-
-  toss
-
-  alone
-
-  idle
-
-  merge'
 bip_39_word_new_line_12: 'elevator
 
   iron
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'elevator
   iron
 
   mobile'
-bip_39_word_new_line_4: 'elevator
-
-  iron
-
-  mobile
-
-  twin'
-bip_39_word_new_line_5: 'elevator
-
-  iron
-
-  mobile
-
-  twin
-
-  base'
-bip_39_word_new_line_6: 'elevator
-
-  iron
-
-  mobile
-
-  twin
-
-  base
-
-  believe'
-bip_39_word_new_line_7: 'elevator
-
-  iron
-
-  mobile
-
-  twin
-
-  base
-
-  believe
-
-  actual'
-bip_39_word_new_line_8: 'elevator
-
-  iron
-
-  mobile
-
-  twin
-
-  base
-
-  believe
-
-  actual
-
-  toss'
-bip_39_word_new_line_9: 'elevator
-
-  iron
-
-  mobile
-
-  twin
-
-  base
-
-  believe
-
-  actual
-
-  toss
-
-  alone'
-bip_39_word_no_space_1: elevator
-bip_39_word_no_space_10: elevatorironmobiletwinbasebelieveactualtossaloneidle
-bip_39_word_no_space_11: elevatorironmobiletwinbasebelieveactualtossaloneidlemerge
 bip_39_word_no_space_12: elevatorironmobiletwinbasebelieveactualtossaloneidlemergeactual
 bip_39_word_no_space_2: elevatoriron
 bip_39_word_no_space_3: elevatorironmobile
-bip_39_word_no_space_4: elevatorironmobiletwin
-bip_39_word_no_space_5: elevatorironmobiletwinbase
-bip_39_word_no_space_6: elevatorironmobiletwinbasebelieve
-bip_39_word_no_space_7: elevatorironmobiletwinbasebelieveactual
-bip_39_word_no_space_8: elevatorironmobiletwinbasebelieveactualtoss
-bip_39_word_no_space_9: elevatorironmobiletwinbasebelieveactualtossalone
-bip_39_word_space_0:
-- elevator
-- iron
-- mobile
-- twin
-- base
-- believe
-- actual
-- toss
-- alone
-- idle
-- merge
-- actual
-bip_39_word_space_1: elevator
-bip_39_word_space_10: elevator iron mobile twin base believe actual toss alone idle
-bip_39_word_space_11: elevator iron mobile twin base believe actual toss alone idle
-  merge
 bip_39_word_space_12: elevator iron mobile twin base believe actual toss alone idle
   merge actual
 bip_39_word_space_2: elevator iron
 bip_39_word_space_3: elevator iron mobile
-bip_39_word_space_4: elevator iron mobile twin
-bip_39_word_space_5: elevator iron mobile twin base
-bip_39_word_space_6: elevator iron mobile twin base believe
-bip_39_word_space_7: elevator iron mobile twin base believe actual
-bip_39_word_space_8: elevator iron mobile twin base believe actual toss
-bip_39_word_space_9: elevator iron mobile twin base believe actual toss alone
-bip_39_word_underscore_1: elevator
-bip_39_word_underscore_10: elevator_iron_mobile_twin_base_believe_actual_toss_alone_idle
-bip_39_word_underscore_11: elevator_iron_mobile_twin_base_believe_actual_toss_alone_idle_merge
 bip_39_word_underscore_12: elevator_iron_mobile_twin_base_believe_actual_toss_alone_idle_merge_actual
 bip_39_word_underscore_2: elevator_iron
 bip_39_word_underscore_3: elevator_iron_mobile
-bip_39_word_underscore_4: elevator_iron_mobile_twin
-bip_39_word_underscore_5: elevator_iron_mobile_twin_base
-bip_39_word_underscore_6: elevator_iron_mobile_twin_base_believe
-bip_39_word_underscore_7: elevator_iron_mobile_twin_base_believe_actual
-bip_39_word_underscore_8: elevator_iron_mobile_twin_base_believe_actual_toss
-bip_39_word_underscore_9: elevator_iron_mobile_twin_base_believe_actual_toss_alone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

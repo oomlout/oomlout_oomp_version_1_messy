@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420675901'
-bip_39_word_dash_1: suspect
-bip_39_word_dash_10: suspect-damp-voice-cram-assume-trick-hard-bargain-mean-grow
-bip_39_word_dash_11: suspect-damp-voice-cram-assume-trick-hard-bargain-mean-grow-more
 bip_39_word_dash_12: suspect-damp-voice-cram-assume-trick-hard-bargain-mean-grow-more-address
 bip_39_word_dash_2: suspect-damp
 bip_39_word_dash_3: suspect-damp-voice
-bip_39_word_dash_4: suspect-damp-voice-cram
-bip_39_word_dash_5: suspect-damp-voice-cram-assume
-bip_39_word_dash_6: suspect-damp-voice-cram-assume-trick
-bip_39_word_dash_7: suspect-damp-voice-cram-assume-trick-hard
-bip_39_word_dash_8: suspect-damp-voice-cram-assume-trick-hard-bargain
-bip_39_word_dash_9: suspect-damp-voice-cram-assume-trick-hard-bargain-mean
-bip_39_word_new_br_1: suspect
-bip_39_word_new_br_10: suspect<br>damp<br>voice<br>cram<br>assume<br>trick<br>hard<br>bargain<br>mean<br>grow
-bip_39_word_new_br_11: suspect<br>damp<br>voice<br>cram<br>assume<br>trick<br>hard<br>bargain<br>mean<br>grow<br>more
 bip_39_word_new_br_12: suspect<br>damp<br>voice<br>cram<br>assume<br>trick<br>hard<br>bargain<br>mean<br>grow<br>more<br>address
 bip_39_word_new_br_2: suspect<br>damp
 bip_39_word_new_br_3: suspect<br>damp<br>voice
-bip_39_word_new_br_4: suspect<br>damp<br>voice<br>cram
-bip_39_word_new_br_5: suspect<br>damp<br>voice<br>cram<br>assume
-bip_39_word_new_br_6: suspect<br>damp<br>voice<br>cram<br>assume<br>trick
-bip_39_word_new_br_7: suspect<br>damp<br>voice<br>cram<br>assume<br>trick<br>hard
-bip_39_word_new_br_8: suspect<br>damp<br>voice<br>cram<br>assume<br>trick<br>hard<br>bargain
-bip_39_word_new_br_9: suspect<br>damp<br>voice<br>cram<br>assume<br>trick<br>hard<br>bargain<br>mean
-bip_39_word_new_line_1: suspect
-bip_39_word_new_line_10: 'suspect
-
-  damp
-
-  voice
-
-  cram
-
-  assume
-
-  trick
-
-  hard
-
-  bargain
-
-  mean
-
-  grow'
-bip_39_word_new_line_11: 'suspect
-
-  damp
-
-  voice
-
-  cram
-
-  assume
-
-  trick
-
-  hard
-
-  bargain
-
-  mean
-
-  grow
-
-  more'
 bip_39_word_new_line_12: 'suspect
 
   damp
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'suspect
   damp
 
   voice'
-bip_39_word_new_line_4: 'suspect
-
-  damp
-
-  voice
-
-  cram'
-bip_39_word_new_line_5: 'suspect
-
-  damp
-
-  voice
-
-  cram
-
-  assume'
-bip_39_word_new_line_6: 'suspect
-
-  damp
-
-  voice
-
-  cram
-
-  assume
-
-  trick'
-bip_39_word_new_line_7: 'suspect
-
-  damp
-
-  voice
-
-  cram
-
-  assume
-
-  trick
-
-  hard'
-bip_39_word_new_line_8: 'suspect
-
-  damp
-
-  voice
-
-  cram
-
-  assume
-
-  trick
-
-  hard
-
-  bargain'
-bip_39_word_new_line_9: 'suspect
-
-  damp
-
-  voice
-
-  cram
-
-  assume
-
-  trick
-
-  hard
-
-  bargain
-
-  mean'
-bip_39_word_no_space_1: suspect
-bip_39_word_no_space_10: suspectdampvoicecramassumetrickhardbargainmeangrow
-bip_39_word_no_space_11: suspectdampvoicecramassumetrickhardbargainmeangrowmore
 bip_39_word_no_space_12: suspectdampvoicecramassumetrickhardbargainmeangrowmoreaddress
 bip_39_word_no_space_2: suspectdamp
 bip_39_word_no_space_3: suspectdampvoice
-bip_39_word_no_space_4: suspectdampvoicecram
-bip_39_word_no_space_5: suspectdampvoicecramassume
-bip_39_word_no_space_6: suspectdampvoicecramassumetrick
-bip_39_word_no_space_7: suspectdampvoicecramassumetrickhard
-bip_39_word_no_space_8: suspectdampvoicecramassumetrickhardbargain
-bip_39_word_no_space_9: suspectdampvoicecramassumetrickhardbargainmean
-bip_39_word_space_0:
-- suspect
-- damp
-- voice
-- cram
-- assume
-- trick
-- hard
-- bargain
-- mean
-- grow
-- more
-- address
-bip_39_word_space_1: suspect
-bip_39_word_space_10: suspect damp voice cram assume trick hard bargain mean grow
-bip_39_word_space_11: suspect damp voice cram assume trick hard bargain mean grow
-  more
 bip_39_word_space_12: suspect damp voice cram assume trick hard bargain mean grow
   more address
 bip_39_word_space_2: suspect damp
 bip_39_word_space_3: suspect damp voice
-bip_39_word_space_4: suspect damp voice cram
-bip_39_word_space_5: suspect damp voice cram assume
-bip_39_word_space_6: suspect damp voice cram assume trick
-bip_39_word_space_7: suspect damp voice cram assume trick hard
-bip_39_word_space_8: suspect damp voice cram assume trick hard bargain
-bip_39_word_space_9: suspect damp voice cram assume trick hard bargain mean
-bip_39_word_underscore_1: suspect
-bip_39_word_underscore_10: suspect_damp_voice_cram_assume_trick_hard_bargain_mean_grow
-bip_39_word_underscore_11: suspect_damp_voice_cram_assume_trick_hard_bargain_mean_grow_more
 bip_39_word_underscore_12: suspect_damp_voice_cram_assume_trick_hard_bargain_mean_grow_more_address
 bip_39_word_underscore_2: suspect_damp
 bip_39_word_underscore_3: suspect_damp_voice
-bip_39_word_underscore_4: suspect_damp_voice_cram
-bip_39_word_underscore_5: suspect_damp_voice_cram_assume
-bip_39_word_underscore_6: suspect_damp_voice_cram_assume_trick
-bip_39_word_underscore_7: suspect_damp_voice_cram_assume_trick_hard
-bip_39_word_underscore_8: suspect_damp_voice_cram_assume_trick_hard_bargain
-bip_39_word_underscore_9: suspect_damp_voice_cram_assume_trick_hard_bargain_mean
 box_of_box_size_manufacturer_metalmate: '2400'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

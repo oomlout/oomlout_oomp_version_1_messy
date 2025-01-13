@@ -1,68 +1,9 @@
-bip_39_word_dash_1: message
-bip_39_word_dash_10: message-someone-first-type-idle-media-payment-access-laugh-inform
-bip_39_word_dash_11: message-someone-first-type-idle-media-payment-access-laugh-inform-click
 bip_39_word_dash_12: message-someone-first-type-idle-media-payment-access-laugh-inform-click-asset
 bip_39_word_dash_2: message-someone
 bip_39_word_dash_3: message-someone-first
-bip_39_word_dash_4: message-someone-first-type
-bip_39_word_dash_5: message-someone-first-type-idle
-bip_39_word_dash_6: message-someone-first-type-idle-media
-bip_39_word_dash_7: message-someone-first-type-idle-media-payment
-bip_39_word_dash_8: message-someone-first-type-idle-media-payment-access
-bip_39_word_dash_9: message-someone-first-type-idle-media-payment-access-laugh
-bip_39_word_new_br_1: message
-bip_39_word_new_br_10: message<br>someone<br>first<br>type<br>idle<br>media<br>payment<br>access<br>laugh<br>inform
-bip_39_word_new_br_11: message<br>someone<br>first<br>type<br>idle<br>media<br>payment<br>access<br>laugh<br>inform<br>click
 bip_39_word_new_br_12: message<br>someone<br>first<br>type<br>idle<br>media<br>payment<br>access<br>laugh<br>inform<br>click<br>asset
 bip_39_word_new_br_2: message<br>someone
 bip_39_word_new_br_3: message<br>someone<br>first
-bip_39_word_new_br_4: message<br>someone<br>first<br>type
-bip_39_word_new_br_5: message<br>someone<br>first<br>type<br>idle
-bip_39_word_new_br_6: message<br>someone<br>first<br>type<br>idle<br>media
-bip_39_word_new_br_7: message<br>someone<br>first<br>type<br>idle<br>media<br>payment
-bip_39_word_new_br_8: message<br>someone<br>first<br>type<br>idle<br>media<br>payment<br>access
-bip_39_word_new_br_9: message<br>someone<br>first<br>type<br>idle<br>media<br>payment<br>access<br>laugh
-bip_39_word_new_line_1: message
-bip_39_word_new_line_10: 'message
-
-  someone
-
-  first
-
-  type
-
-  idle
-
-  media
-
-  payment
-
-  access
-
-  laugh
-
-  inform'
-bip_39_word_new_line_11: 'message
-
-  someone
-
-  first
-
-  type
-
-  idle
-
-  media
-
-  payment
-
-  access
-
-  laugh
-
-  inform
-
-  click'
 bip_39_word_new_line_12: 'message
 
   someone
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'message
   someone
 
   first'
-bip_39_word_new_line_4: 'message
-
-  someone
-
-  first
-
-  type'
-bip_39_word_new_line_5: 'message
-
-  someone
-
-  first
-
-  type
-
-  idle'
-bip_39_word_new_line_6: 'message
-
-  someone
-
-  first
-
-  type
-
-  idle
-
-  media'
-bip_39_word_new_line_7: 'message
-
-  someone
-
-  first
-
-  type
-
-  idle
-
-  media
-
-  payment'
-bip_39_word_new_line_8: 'message
-
-  someone
-
-  first
-
-  type
-
-  idle
-
-  media
-
-  payment
-
-  access'
-bip_39_word_new_line_9: 'message
-
-  someone
-
-  first
-
-  type
-
-  idle
-
-  media
-
-  payment
-
-  access
-
-  laugh'
-bip_39_word_no_space_1: message
-bip_39_word_no_space_10: messagesomeonefirsttypeidlemediapaymentaccesslaughinform
-bip_39_word_no_space_11: messagesomeonefirsttypeidlemediapaymentaccesslaughinformclick
 bip_39_word_no_space_12: messagesomeonefirsttypeidlemediapaymentaccesslaughinformclickasset
 bip_39_word_no_space_2: messagesomeone
 bip_39_word_no_space_3: messagesomeonefirst
-bip_39_word_no_space_4: messagesomeonefirsttype
-bip_39_word_no_space_5: messagesomeonefirsttypeidle
-bip_39_word_no_space_6: messagesomeonefirsttypeidlemedia
-bip_39_word_no_space_7: messagesomeonefirsttypeidlemediapayment
-bip_39_word_no_space_8: messagesomeonefirsttypeidlemediapaymentaccess
-bip_39_word_no_space_9: messagesomeonefirsttypeidlemediapaymentaccesslaugh
-bip_39_word_space_0:
-- message
-- someone
-- first
-- type
-- idle
-- media
-- payment
-- access
-- laugh
-- inform
-- click
-- asset
-bip_39_word_space_1: message
-bip_39_word_space_10: message someone first type idle media payment access laugh inform
-bip_39_word_space_11: message someone first type idle media payment access laugh inform
-  click
 bip_39_word_space_12: message someone first type idle media payment access laugh inform
   click asset
 bip_39_word_space_2: message someone
 bip_39_word_space_3: message someone first
-bip_39_word_space_4: message someone first type
-bip_39_word_space_5: message someone first type idle
-bip_39_word_space_6: message someone first type idle media
-bip_39_word_space_7: message someone first type idle media payment
-bip_39_word_space_8: message someone first type idle media payment access
-bip_39_word_space_9: message someone first type idle media payment access laugh
-bip_39_word_underscore_1: message
-bip_39_word_underscore_10: message_someone_first_type_idle_media_payment_access_laugh_inform
-bip_39_word_underscore_11: message_someone_first_type_idle_media_payment_access_laugh_inform_click
 bip_39_word_underscore_12: message_someone_first_type_idle_media_payment_access_laugh_inform_click_asset
 bip_39_word_underscore_2: message_someone
 bip_39_word_underscore_3: message_someone_first
-bip_39_word_underscore_4: message_someone_first_type
-bip_39_word_underscore_5: message_someone_first_type_idle
-bip_39_word_underscore_6: message_someone_first_type_idle_media
-bip_39_word_underscore_7: message_someone_first_type_idle_media_payment
-bip_39_word_underscore_8: message_someone_first_type_idle_media_payment_access
-bip_39_word_underscore_9: message_someone_first_type_idle_media_payment_access_laugh
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

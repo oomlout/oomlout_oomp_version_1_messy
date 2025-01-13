@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spend
-bip_39_word_dash_10: spend-until-wheel-satoshi-someone-twelve-hybrid-toddler-orient-involve
-bip_39_word_dash_11: spend-until-wheel-satoshi-someone-twelve-hybrid-toddler-orient-involve-chest
 bip_39_word_dash_12: spend-until-wheel-satoshi-someone-twelve-hybrid-toddler-orient-involve-chest-alone
 bip_39_word_dash_2: spend-until
 bip_39_word_dash_3: spend-until-wheel
-bip_39_word_dash_4: spend-until-wheel-satoshi
-bip_39_word_dash_5: spend-until-wheel-satoshi-someone
-bip_39_word_dash_6: spend-until-wheel-satoshi-someone-twelve
-bip_39_word_dash_7: spend-until-wheel-satoshi-someone-twelve-hybrid
-bip_39_word_dash_8: spend-until-wheel-satoshi-someone-twelve-hybrid-toddler
-bip_39_word_dash_9: spend-until-wheel-satoshi-someone-twelve-hybrid-toddler-orient
-bip_39_word_new_br_1: spend
-bip_39_word_new_br_10: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve
-bip_39_word_new_br_11: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest
 bip_39_word_new_br_12: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest<br>alone
 bip_39_word_new_br_2: spend<br>until
 bip_39_word_new_br_3: spend<br>until<br>wheel
-bip_39_word_new_br_4: spend<br>until<br>wheel<br>satoshi
-bip_39_word_new_br_5: spend<br>until<br>wheel<br>satoshi<br>someone
-bip_39_word_new_br_6: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve
-bip_39_word_new_br_7: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid
-bip_39_word_new_br_8: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler
-bip_39_word_new_br_9: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient
-bip_39_word_new_line_1: spend
-bip_39_word_new_line_10: 'spend
-
-  until
-
-  wheel
-
-  satoshi
-
-  someone
-
-  twelve
-
-  hybrid
-
-  toddler
-
-  orient
-
-  involve'
-bip_39_word_new_line_11: 'spend
-
-  until
-
-  wheel
-
-  satoshi
-
-  someone
-
-  twelve
-
-  hybrid
-
-  toddler
-
-  orient
-
-  involve
-
-  chest'
 bip_39_word_new_line_12: 'spend
 
   until
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spend
   until
 
   wheel'
-bip_39_word_new_line_4: 'spend
-
-  until
-
-  wheel
-
-  satoshi'
-bip_39_word_new_line_5: 'spend
-
-  until
-
-  wheel
-
-  satoshi
-
-  someone'
-bip_39_word_new_line_6: 'spend
-
-  until
-
-  wheel
-
-  satoshi
-
-  someone
-
-  twelve'
-bip_39_word_new_line_7: 'spend
-
-  until
-
-  wheel
-
-  satoshi
-
-  someone
-
-  twelve
-
-  hybrid'
-bip_39_word_new_line_8: 'spend
-
-  until
-
-  wheel
-
-  satoshi
-
-  someone
-
-  twelve
-
-  hybrid
-
-  toddler'
-bip_39_word_new_line_9: 'spend
-
-  until
-
-  wheel
-
-  satoshi
-
-  someone
-
-  twelve
-
-  hybrid
-
-  toddler
-
-  orient'
-bip_39_word_no_space_1: spend
-bip_39_word_no_space_10: spenduntilwheelsatoshisomeonetwelvehybridtoddlerorientinvolve
-bip_39_word_no_space_11: spenduntilwheelsatoshisomeonetwelvehybridtoddlerorientinvolvechest
 bip_39_word_no_space_12: spenduntilwheelsatoshisomeonetwelvehybridtoddlerorientinvolvechestalone
 bip_39_word_no_space_2: spenduntil
 bip_39_word_no_space_3: spenduntilwheel
-bip_39_word_no_space_4: spenduntilwheelsatoshi
-bip_39_word_no_space_5: spenduntilwheelsatoshisomeone
-bip_39_word_no_space_6: spenduntilwheelsatoshisomeonetwelve
-bip_39_word_no_space_7: spenduntilwheelsatoshisomeonetwelvehybrid
-bip_39_word_no_space_8: spenduntilwheelsatoshisomeonetwelvehybridtoddler
-bip_39_word_no_space_9: spenduntilwheelsatoshisomeonetwelvehybridtoddlerorient
-bip_39_word_space_0:
-- spend
-- until
-- wheel
-- satoshi
-- someone
-- twelve
-- hybrid
-- toddler
-- orient
-- involve
-- chest
-- alone
-bip_39_word_space_1: spend
-bip_39_word_space_10: spend until wheel satoshi someone twelve hybrid toddler orient
-  involve
-bip_39_word_space_11: spend until wheel satoshi someone twelve hybrid toddler orient
-  involve chest
 bip_39_word_space_12: spend until wheel satoshi someone twelve hybrid toddler orient
   involve chest alone
 bip_39_word_space_2: spend until
 bip_39_word_space_3: spend until wheel
-bip_39_word_space_4: spend until wheel satoshi
-bip_39_word_space_5: spend until wheel satoshi someone
-bip_39_word_space_6: spend until wheel satoshi someone twelve
-bip_39_word_space_7: spend until wheel satoshi someone twelve hybrid
-bip_39_word_space_8: spend until wheel satoshi someone twelve hybrid toddler
-bip_39_word_space_9: spend until wheel satoshi someone twelve hybrid toddler orient
-bip_39_word_underscore_1: spend
-bip_39_word_underscore_10: spend_until_wheel_satoshi_someone_twelve_hybrid_toddler_orient_involve
-bip_39_word_underscore_11: spend_until_wheel_satoshi_someone_twelve_hybrid_toddler_orient_involve_chest
 bip_39_word_underscore_12: spend_until_wheel_satoshi_someone_twelve_hybrid_toddler_orient_involve_chest_alone
 bip_39_word_underscore_2: spend_until
 bip_39_word_underscore_3: spend_until_wheel
-bip_39_word_underscore_4: spend_until_wheel_satoshi
-bip_39_word_underscore_5: spend_until_wheel_satoshi_someone
-bip_39_word_underscore_6: spend_until_wheel_satoshi_someone_twelve
-bip_39_word_underscore_7: spend_until_wheel_satoshi_someone_twelve_hybrid
-bip_39_word_underscore_8: spend_until_wheel_satoshi_someone_twelve_hybrid_toddler
-bip_39_word_underscore_9: spend_until_wheel_satoshi_someone_twelve_hybrid_toddler_orient
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

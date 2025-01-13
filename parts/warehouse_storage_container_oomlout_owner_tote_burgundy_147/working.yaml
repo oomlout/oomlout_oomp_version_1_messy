@@ -1,68 +1,9 @@
-bip_39_word_dash_1: memory
-bip_39_word_dash_10: memory-art-thought-depend-antenna-argue-heart-obscure-pony-drink
-bip_39_word_dash_11: memory-art-thought-depend-antenna-argue-heart-obscure-pony-drink-loop
 bip_39_word_dash_12: memory-art-thought-depend-antenna-argue-heart-obscure-pony-drink-loop-arena
 bip_39_word_dash_2: memory-art
 bip_39_word_dash_3: memory-art-thought
-bip_39_word_dash_4: memory-art-thought-depend
-bip_39_word_dash_5: memory-art-thought-depend-antenna
-bip_39_word_dash_6: memory-art-thought-depend-antenna-argue
-bip_39_word_dash_7: memory-art-thought-depend-antenna-argue-heart
-bip_39_word_dash_8: memory-art-thought-depend-antenna-argue-heart-obscure
-bip_39_word_dash_9: memory-art-thought-depend-antenna-argue-heart-obscure-pony
-bip_39_word_new_br_1: memory
-bip_39_word_new_br_10: memory<br>art<br>thought<br>depend<br>antenna<br>argue<br>heart<br>obscure<br>pony<br>drink
-bip_39_word_new_br_11: memory<br>art<br>thought<br>depend<br>antenna<br>argue<br>heart<br>obscure<br>pony<br>drink<br>loop
 bip_39_word_new_br_12: memory<br>art<br>thought<br>depend<br>antenna<br>argue<br>heart<br>obscure<br>pony<br>drink<br>loop<br>arena
 bip_39_word_new_br_2: memory<br>art
 bip_39_word_new_br_3: memory<br>art<br>thought
-bip_39_word_new_br_4: memory<br>art<br>thought<br>depend
-bip_39_word_new_br_5: memory<br>art<br>thought<br>depend<br>antenna
-bip_39_word_new_br_6: memory<br>art<br>thought<br>depend<br>antenna<br>argue
-bip_39_word_new_br_7: memory<br>art<br>thought<br>depend<br>antenna<br>argue<br>heart
-bip_39_word_new_br_8: memory<br>art<br>thought<br>depend<br>antenna<br>argue<br>heart<br>obscure
-bip_39_word_new_br_9: memory<br>art<br>thought<br>depend<br>antenna<br>argue<br>heart<br>obscure<br>pony
-bip_39_word_new_line_1: memory
-bip_39_word_new_line_10: 'memory
-
-  art
-
-  thought
-
-  depend
-
-  antenna
-
-  argue
-
-  heart
-
-  obscure
-
-  pony
-
-  drink'
-bip_39_word_new_line_11: 'memory
-
-  art
-
-  thought
-
-  depend
-
-  antenna
-
-  argue
-
-  heart
-
-  obscure
-
-  pony
-
-  drink
-
-  loop'
 bip_39_word_new_line_12: 'memory
 
   art
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'memory
   art
 
   thought'
-bip_39_word_new_line_4: 'memory
-
-  art
-
-  thought
-
-  depend'
-bip_39_word_new_line_5: 'memory
-
-  art
-
-  thought
-
-  depend
-
-  antenna'
-bip_39_word_new_line_6: 'memory
-
-  art
-
-  thought
-
-  depend
-
-  antenna
-
-  argue'
-bip_39_word_new_line_7: 'memory
-
-  art
-
-  thought
-
-  depend
-
-  antenna
-
-  argue
-
-  heart'
-bip_39_word_new_line_8: 'memory
-
-  art
-
-  thought
-
-  depend
-
-  antenna
-
-  argue
-
-  heart
-
-  obscure'
-bip_39_word_new_line_9: 'memory
-
-  art
-
-  thought
-
-  depend
-
-  antenna
-
-  argue
-
-  heart
-
-  obscure
-
-  pony'
-bip_39_word_no_space_1: memory
-bip_39_word_no_space_10: memoryartthoughtdependantennaargueheartobscureponydrink
-bip_39_word_no_space_11: memoryartthoughtdependantennaargueheartobscureponydrinkloop
 bip_39_word_no_space_12: memoryartthoughtdependantennaargueheartobscureponydrinklooparena
 bip_39_word_no_space_2: memoryart
 bip_39_word_no_space_3: memoryartthought
-bip_39_word_no_space_4: memoryartthoughtdepend
-bip_39_word_no_space_5: memoryartthoughtdependantenna
-bip_39_word_no_space_6: memoryartthoughtdependantennaargue
-bip_39_word_no_space_7: memoryartthoughtdependantennaargueheart
-bip_39_word_no_space_8: memoryartthoughtdependantennaargueheartobscure
-bip_39_word_no_space_9: memoryartthoughtdependantennaargueheartobscurepony
-bip_39_word_space_0:
-- memory
-- art
-- thought
-- depend
-- antenna
-- argue
-- heart
-- obscure
-- pony
-- drink
-- loop
-- arena
-bip_39_word_space_1: memory
-bip_39_word_space_10: memory art thought depend antenna argue heart obscure pony drink
-bip_39_word_space_11: memory art thought depend antenna argue heart obscure pony drink
-  loop
 bip_39_word_space_12: memory art thought depend antenna argue heart obscure pony drink
   loop arena
 bip_39_word_space_2: memory art
 bip_39_word_space_3: memory art thought
-bip_39_word_space_4: memory art thought depend
-bip_39_word_space_5: memory art thought depend antenna
-bip_39_word_space_6: memory art thought depend antenna argue
-bip_39_word_space_7: memory art thought depend antenna argue heart
-bip_39_word_space_8: memory art thought depend antenna argue heart obscure
-bip_39_word_space_9: memory art thought depend antenna argue heart obscure pony
-bip_39_word_underscore_1: memory
-bip_39_word_underscore_10: memory_art_thought_depend_antenna_argue_heart_obscure_pony_drink
-bip_39_word_underscore_11: memory_art_thought_depend_antenna_argue_heart_obscure_pony_drink_loop
 bip_39_word_underscore_12: memory_art_thought_depend_antenna_argue_heart_obscure_pony_drink_loop_arena
 bip_39_word_underscore_2: memory_art
 bip_39_word_underscore_3: memory_art_thought
-bip_39_word_underscore_4: memory_art_thought_depend
-bip_39_word_underscore_5: memory_art_thought_depend_antenna
-bip_39_word_underscore_6: memory_art_thought_depend_antenna_argue
-bip_39_word_underscore_7: memory_art_thought_depend_antenna_argue_heart
-bip_39_word_underscore_8: memory_art_thought_depend_antenna_argue_heart_obscure
-bip_39_word_underscore_9: memory_art_thought_depend_antenna_argue_heart_obscure_pony
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

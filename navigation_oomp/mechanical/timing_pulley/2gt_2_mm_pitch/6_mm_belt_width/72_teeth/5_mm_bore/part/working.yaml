@@ -1,68 +1,9 @@
-bip_39_word_dash_1: boil
-bip_39_word_dash_10: boil-lock-decade-vote-flavor-guide-stem-suit-kind-nurse
-bip_39_word_dash_11: boil-lock-decade-vote-flavor-guide-stem-suit-kind-nurse-grab
 bip_39_word_dash_12: boil-lock-decade-vote-flavor-guide-stem-suit-kind-nurse-grab-allow
 bip_39_word_dash_2: boil-lock
 bip_39_word_dash_3: boil-lock-decade
-bip_39_word_dash_4: boil-lock-decade-vote
-bip_39_word_dash_5: boil-lock-decade-vote-flavor
-bip_39_word_dash_6: boil-lock-decade-vote-flavor-guide
-bip_39_word_dash_7: boil-lock-decade-vote-flavor-guide-stem
-bip_39_word_dash_8: boil-lock-decade-vote-flavor-guide-stem-suit
-bip_39_word_dash_9: boil-lock-decade-vote-flavor-guide-stem-suit-kind
-bip_39_word_new_br_1: boil
-bip_39_word_new_br_10: boil<br>lock<br>decade<br>vote<br>flavor<br>guide<br>stem<br>suit<br>kind<br>nurse
-bip_39_word_new_br_11: boil<br>lock<br>decade<br>vote<br>flavor<br>guide<br>stem<br>suit<br>kind<br>nurse<br>grab
 bip_39_word_new_br_12: boil<br>lock<br>decade<br>vote<br>flavor<br>guide<br>stem<br>suit<br>kind<br>nurse<br>grab<br>allow
 bip_39_word_new_br_2: boil<br>lock
 bip_39_word_new_br_3: boil<br>lock<br>decade
-bip_39_word_new_br_4: boil<br>lock<br>decade<br>vote
-bip_39_word_new_br_5: boil<br>lock<br>decade<br>vote<br>flavor
-bip_39_word_new_br_6: boil<br>lock<br>decade<br>vote<br>flavor<br>guide
-bip_39_word_new_br_7: boil<br>lock<br>decade<br>vote<br>flavor<br>guide<br>stem
-bip_39_word_new_br_8: boil<br>lock<br>decade<br>vote<br>flavor<br>guide<br>stem<br>suit
-bip_39_word_new_br_9: boil<br>lock<br>decade<br>vote<br>flavor<br>guide<br>stem<br>suit<br>kind
-bip_39_word_new_line_1: boil
-bip_39_word_new_line_10: 'boil
-
-  lock
-
-  decade
-
-  vote
-
-  flavor
-
-  guide
-
-  stem
-
-  suit
-
-  kind
-
-  nurse'
-bip_39_word_new_line_11: 'boil
-
-  lock
-
-  decade
-
-  vote
-
-  flavor
-
-  guide
-
-  stem
-
-  suit
-
-  kind
-
-  nurse
-
-  grab'
 bip_39_word_new_line_12: 'boil
 
   lock
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'boil
   lock
 
   decade'
-bip_39_word_new_line_4: 'boil
-
-  lock
-
-  decade
-
-  vote'
-bip_39_word_new_line_5: 'boil
-
-  lock
-
-  decade
-
-  vote
-
-  flavor'
-bip_39_word_new_line_6: 'boil
-
-  lock
-
-  decade
-
-  vote
-
-  flavor
-
-  guide'
-bip_39_word_new_line_7: 'boil
-
-  lock
-
-  decade
-
-  vote
-
-  flavor
-
-  guide
-
-  stem'
-bip_39_word_new_line_8: 'boil
-
-  lock
-
-  decade
-
-  vote
-
-  flavor
-
-  guide
-
-  stem
-
-  suit'
-bip_39_word_new_line_9: 'boil
-
-  lock
-
-  decade
-
-  vote
-
-  flavor
-
-  guide
-
-  stem
-
-  suit
-
-  kind'
-bip_39_word_no_space_1: boil
-bip_39_word_no_space_10: boillockdecadevoteflavorguidestemsuitkindnurse
-bip_39_word_no_space_11: boillockdecadevoteflavorguidestemsuitkindnursegrab
 bip_39_word_no_space_12: boillockdecadevoteflavorguidestemsuitkindnursegraballow
 bip_39_word_no_space_2: boillock
 bip_39_word_no_space_3: boillockdecade
-bip_39_word_no_space_4: boillockdecadevote
-bip_39_word_no_space_5: boillockdecadevoteflavor
-bip_39_word_no_space_6: boillockdecadevoteflavorguide
-bip_39_word_no_space_7: boillockdecadevoteflavorguidestem
-bip_39_word_no_space_8: boillockdecadevoteflavorguidestemsuit
-bip_39_word_no_space_9: boillockdecadevoteflavorguidestemsuitkind
-bip_39_word_space_0:
-- boil
-- lock
-- decade
-- vote
-- flavor
-- guide
-- stem
-- suit
-- kind
-- nurse
-- grab
-- allow
-bip_39_word_space_1: boil
-bip_39_word_space_10: boil lock decade vote flavor guide stem suit kind nurse
-bip_39_word_space_11: boil lock decade vote flavor guide stem suit kind nurse grab
 bip_39_word_space_12: boil lock decade vote flavor guide stem suit kind nurse grab
   allow
 bip_39_word_space_2: boil lock
 bip_39_word_space_3: boil lock decade
-bip_39_word_space_4: boil lock decade vote
-bip_39_word_space_5: boil lock decade vote flavor
-bip_39_word_space_6: boil lock decade vote flavor guide
-bip_39_word_space_7: boil lock decade vote flavor guide stem
-bip_39_word_space_8: boil lock decade vote flavor guide stem suit
-bip_39_word_space_9: boil lock decade vote flavor guide stem suit kind
-bip_39_word_underscore_1: boil
-bip_39_word_underscore_10: boil_lock_decade_vote_flavor_guide_stem_suit_kind_nurse
-bip_39_word_underscore_11: boil_lock_decade_vote_flavor_guide_stem_suit_kind_nurse_grab
 bip_39_word_underscore_12: boil_lock_decade_vote_flavor_guide_stem_suit_kind_nurse_grab_allow
 bip_39_word_underscore_2: boil_lock
 bip_39_word_underscore_3: boil_lock_decade
-bip_39_word_underscore_4: boil_lock_decade_vote
-bip_39_word_underscore_5: boil_lock_decade_vote_flavor
-bip_39_word_underscore_6: boil_lock_decade_vote_flavor_guide
-bip_39_word_underscore_7: boil_lock_decade_vote_flavor_guide_stem
-bip_39_word_underscore_8: boil_lock_decade_vote_flavor_guide_stem_suit
-bip_39_word_underscore_9: boil_lock_decade_vote_flavor_guide_stem_suit_kind
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

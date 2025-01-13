@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wasp
-bip_39_word_dash_10: wasp-demand-fatigue-fiscal-grain-imitate-stem-joke-legal-ordinary
-bip_39_word_dash_11: wasp-demand-fatigue-fiscal-grain-imitate-stem-joke-legal-ordinary-gown
 bip_39_word_dash_12: wasp-demand-fatigue-fiscal-grain-imitate-stem-joke-legal-ordinary-gown-arm
 bip_39_word_dash_2: wasp-demand
 bip_39_word_dash_3: wasp-demand-fatigue
-bip_39_word_dash_4: wasp-demand-fatigue-fiscal
-bip_39_word_dash_5: wasp-demand-fatigue-fiscal-grain
-bip_39_word_dash_6: wasp-demand-fatigue-fiscal-grain-imitate
-bip_39_word_dash_7: wasp-demand-fatigue-fiscal-grain-imitate-stem
-bip_39_word_dash_8: wasp-demand-fatigue-fiscal-grain-imitate-stem-joke
-bip_39_word_dash_9: wasp-demand-fatigue-fiscal-grain-imitate-stem-joke-legal
-bip_39_word_new_br_1: wasp
-bip_39_word_new_br_10: wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary
-bip_39_word_new_br_11: wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary<br>gown
 bip_39_word_new_br_12: wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal<br>ordinary<br>gown<br>arm
 bip_39_word_new_br_2: wasp<br>demand
 bip_39_word_new_br_3: wasp<br>demand<br>fatigue
-bip_39_word_new_br_4: wasp<br>demand<br>fatigue<br>fiscal
-bip_39_word_new_br_5: wasp<br>demand<br>fatigue<br>fiscal<br>grain
-bip_39_word_new_br_6: wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate
-bip_39_word_new_br_7: wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem
-bip_39_word_new_br_8: wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke
-bip_39_word_new_br_9: wasp<br>demand<br>fatigue<br>fiscal<br>grain<br>imitate<br>stem<br>joke<br>legal
-bip_39_word_new_line_1: wasp
-bip_39_word_new_line_10: 'wasp
-
-  demand
-
-  fatigue
-
-  fiscal
-
-  grain
-
-  imitate
-
-  stem
-
-  joke
-
-  legal
-
-  ordinary'
-bip_39_word_new_line_11: 'wasp
-
-  demand
-
-  fatigue
-
-  fiscal
-
-  grain
-
-  imitate
-
-  stem
-
-  joke
-
-  legal
-
-  ordinary
-
-  gown'
 bip_39_word_new_line_12: 'wasp
 
   demand
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wasp
   demand
 
   fatigue'
-bip_39_word_new_line_4: 'wasp
-
-  demand
-
-  fatigue
-
-  fiscal'
-bip_39_word_new_line_5: 'wasp
-
-  demand
-
-  fatigue
-
-  fiscal
-
-  grain'
-bip_39_word_new_line_6: 'wasp
-
-  demand
-
-  fatigue
-
-  fiscal
-
-  grain
-
-  imitate'
-bip_39_word_new_line_7: 'wasp
-
-  demand
-
-  fatigue
-
-  fiscal
-
-  grain
-
-  imitate
-
-  stem'
-bip_39_word_new_line_8: 'wasp
-
-  demand
-
-  fatigue
-
-  fiscal
-
-  grain
-
-  imitate
-
-  stem
-
-  joke'
-bip_39_word_new_line_9: 'wasp
-
-  demand
-
-  fatigue
-
-  fiscal
-
-  grain
-
-  imitate
-
-  stem
-
-  joke
-
-  legal'
-bip_39_word_no_space_1: wasp
-bip_39_word_no_space_10: waspdemandfatiguefiscalgrainimitatestemjokelegalordinary
-bip_39_word_no_space_11: waspdemandfatiguefiscalgrainimitatestemjokelegalordinarygown
 bip_39_word_no_space_12: waspdemandfatiguefiscalgrainimitatestemjokelegalordinarygownarm
 bip_39_word_no_space_2: waspdemand
 bip_39_word_no_space_3: waspdemandfatigue
-bip_39_word_no_space_4: waspdemandfatiguefiscal
-bip_39_word_no_space_5: waspdemandfatiguefiscalgrain
-bip_39_word_no_space_6: waspdemandfatiguefiscalgrainimitate
-bip_39_word_no_space_7: waspdemandfatiguefiscalgrainimitatestem
-bip_39_word_no_space_8: waspdemandfatiguefiscalgrainimitatestemjoke
-bip_39_word_no_space_9: waspdemandfatiguefiscalgrainimitatestemjokelegal
-bip_39_word_space_0:
-- wasp
-- demand
-- fatigue
-- fiscal
-- grain
-- imitate
-- stem
-- joke
-- legal
-- ordinary
-- gown
-- arm
-bip_39_word_space_1: wasp
-bip_39_word_space_10: wasp demand fatigue fiscal grain imitate stem joke legal ordinary
-bip_39_word_space_11: wasp demand fatigue fiscal grain imitate stem joke legal ordinary
-  gown
 bip_39_word_space_12: wasp demand fatigue fiscal grain imitate stem joke legal ordinary
   gown arm
 bip_39_word_space_2: wasp demand
 bip_39_word_space_3: wasp demand fatigue
-bip_39_word_space_4: wasp demand fatigue fiscal
-bip_39_word_space_5: wasp demand fatigue fiscal grain
-bip_39_word_space_6: wasp demand fatigue fiscal grain imitate
-bip_39_word_space_7: wasp demand fatigue fiscal grain imitate stem
-bip_39_word_space_8: wasp demand fatigue fiscal grain imitate stem joke
-bip_39_word_space_9: wasp demand fatigue fiscal grain imitate stem joke legal
-bip_39_word_underscore_1: wasp
-bip_39_word_underscore_10: wasp_demand_fatigue_fiscal_grain_imitate_stem_joke_legal_ordinary
-bip_39_word_underscore_11: wasp_demand_fatigue_fiscal_grain_imitate_stem_joke_legal_ordinary_gown
 bip_39_word_underscore_12: wasp_demand_fatigue_fiscal_grain_imitate_stem_joke_legal_ordinary_gown_arm
 bip_39_word_underscore_2: wasp_demand
 bip_39_word_underscore_3: wasp_demand_fatigue
-bip_39_word_underscore_4: wasp_demand_fatigue_fiscal
-bip_39_word_underscore_5: wasp_demand_fatigue_fiscal_grain
-bip_39_word_underscore_6: wasp_demand_fatigue_fiscal_grain_imitate
-bip_39_word_underscore_7: wasp_demand_fatigue_fiscal_grain_imitate_stem
-bip_39_word_underscore_8: wasp_demand_fatigue_fiscal_grain_imitate_stem_joke
-bip_39_word_underscore_9: wasp_demand_fatigue_fiscal_grain_imitate_stem_joke_legal
 classification: food
 classification_capital: Food
 classification_first_letter: f

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: echo
-bip_39_word_dash_10: echo-edge-velvet-domain-royal-toy-rib-cage-brain-school
-bip_39_word_dash_11: echo-edge-velvet-domain-royal-toy-rib-cage-brain-school-subway
 bip_39_word_dash_12: echo-edge-velvet-domain-royal-toy-rib-cage-brain-school-subway-anger
 bip_39_word_dash_2: echo-edge
 bip_39_word_dash_3: echo-edge-velvet
-bip_39_word_dash_4: echo-edge-velvet-domain
-bip_39_word_dash_5: echo-edge-velvet-domain-royal
-bip_39_word_dash_6: echo-edge-velvet-domain-royal-toy
-bip_39_word_dash_7: echo-edge-velvet-domain-royal-toy-rib
-bip_39_word_dash_8: echo-edge-velvet-domain-royal-toy-rib-cage
-bip_39_word_dash_9: echo-edge-velvet-domain-royal-toy-rib-cage-brain
-bip_39_word_new_br_1: echo
-bip_39_word_new_br_10: echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school
-bip_39_word_new_br_11: echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school<br>subway
 bip_39_word_new_br_12: echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain<br>school<br>subway<br>anger
 bip_39_word_new_br_2: echo<br>edge
 bip_39_word_new_br_3: echo<br>edge<br>velvet
-bip_39_word_new_br_4: echo<br>edge<br>velvet<br>domain
-bip_39_word_new_br_5: echo<br>edge<br>velvet<br>domain<br>royal
-bip_39_word_new_br_6: echo<br>edge<br>velvet<br>domain<br>royal<br>toy
-bip_39_word_new_br_7: echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib
-bip_39_word_new_br_8: echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage
-bip_39_word_new_br_9: echo<br>edge<br>velvet<br>domain<br>royal<br>toy<br>rib<br>cage<br>brain
-bip_39_word_new_line_1: echo
-bip_39_word_new_line_10: 'echo
-
-  edge
-
-  velvet
-
-  domain
-
-  royal
-
-  toy
-
-  rib
-
-  cage
-
-  brain
-
-  school'
-bip_39_word_new_line_11: 'echo
-
-  edge
-
-  velvet
-
-  domain
-
-  royal
-
-  toy
-
-  rib
-
-  cage
-
-  brain
-
-  school
-
-  subway'
 bip_39_word_new_line_12: 'echo
 
   edge
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'echo
   edge
 
   velvet'
-bip_39_word_new_line_4: 'echo
-
-  edge
-
-  velvet
-
-  domain'
-bip_39_word_new_line_5: 'echo
-
-  edge
-
-  velvet
-
-  domain
-
-  royal'
-bip_39_word_new_line_6: 'echo
-
-  edge
-
-  velvet
-
-  domain
-
-  royal
-
-  toy'
-bip_39_word_new_line_7: 'echo
-
-  edge
-
-  velvet
-
-  domain
-
-  royal
-
-  toy
-
-  rib'
-bip_39_word_new_line_8: 'echo
-
-  edge
-
-  velvet
-
-  domain
-
-  royal
-
-  toy
-
-  rib
-
-  cage'
-bip_39_word_new_line_9: 'echo
-
-  edge
-
-  velvet
-
-  domain
-
-  royal
-
-  toy
-
-  rib
-
-  cage
-
-  brain'
-bip_39_word_no_space_1: echo
-bip_39_word_no_space_10: echoedgevelvetdomainroyaltoyribcagebrainschool
-bip_39_word_no_space_11: echoedgevelvetdomainroyaltoyribcagebrainschoolsubway
 bip_39_word_no_space_12: echoedgevelvetdomainroyaltoyribcagebrainschoolsubwayanger
 bip_39_word_no_space_2: echoedge
 bip_39_word_no_space_3: echoedgevelvet
-bip_39_word_no_space_4: echoedgevelvetdomain
-bip_39_word_no_space_5: echoedgevelvetdomainroyal
-bip_39_word_no_space_6: echoedgevelvetdomainroyaltoy
-bip_39_word_no_space_7: echoedgevelvetdomainroyaltoyrib
-bip_39_word_no_space_8: echoedgevelvetdomainroyaltoyribcage
-bip_39_word_no_space_9: echoedgevelvetdomainroyaltoyribcagebrain
-bip_39_word_space_0:
-- echo
-- edge
-- velvet
-- domain
-- royal
-- toy
-- rib
-- cage
-- brain
-- school
-- subway
-- anger
-bip_39_word_space_1: echo
-bip_39_word_space_10: echo edge velvet domain royal toy rib cage brain school
-bip_39_word_space_11: echo edge velvet domain royal toy rib cage brain school subway
 bip_39_word_space_12: echo edge velvet domain royal toy rib cage brain school subway
   anger
 bip_39_word_space_2: echo edge
 bip_39_word_space_3: echo edge velvet
-bip_39_word_space_4: echo edge velvet domain
-bip_39_word_space_5: echo edge velvet domain royal
-bip_39_word_space_6: echo edge velvet domain royal toy
-bip_39_word_space_7: echo edge velvet domain royal toy rib
-bip_39_word_space_8: echo edge velvet domain royal toy rib cage
-bip_39_word_space_9: echo edge velvet domain royal toy rib cage brain
-bip_39_word_underscore_1: echo
-bip_39_word_underscore_10: echo_edge_velvet_domain_royal_toy_rib_cage_brain_school
-bip_39_word_underscore_11: echo_edge_velvet_domain_royal_toy_rib_cage_brain_school_subway
 bip_39_word_underscore_12: echo_edge_velvet_domain_royal_toy_rib_cage_brain_school_subway_anger
 bip_39_word_underscore_2: echo_edge
 bip_39_word_underscore_3: echo_edge_velvet
-bip_39_word_underscore_4: echo_edge_velvet_domain
-bip_39_word_underscore_5: echo_edge_velvet_domain_royal
-bip_39_word_underscore_6: echo_edge_velvet_domain_royal_toy
-bip_39_word_underscore_7: echo_edge_velvet_domain_royal_toy_rib
-bip_39_word_underscore_8: echo_edge_velvet_domain_royal_toy_rib_cage
-bip_39_word_underscore_9: echo_edge_velvet_domain_royal_toy_rib_cage_brain
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

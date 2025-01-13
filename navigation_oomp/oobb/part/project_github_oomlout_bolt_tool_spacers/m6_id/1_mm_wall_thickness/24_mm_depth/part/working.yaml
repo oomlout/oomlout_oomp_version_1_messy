@@ -1,68 +1,9 @@
-bip_39_word_dash_1: security
-bip_39_word_dash_10: security-horse-chat-trick-ancient-old-shrug-buddy-pond-wrap
-bip_39_word_dash_11: security-horse-chat-trick-ancient-old-shrug-buddy-pond-wrap-garbage
 bip_39_word_dash_12: security-horse-chat-trick-ancient-old-shrug-buddy-pond-wrap-garbage-aunt
 bip_39_word_dash_2: security-horse
 bip_39_word_dash_3: security-horse-chat
-bip_39_word_dash_4: security-horse-chat-trick
-bip_39_word_dash_5: security-horse-chat-trick-ancient
-bip_39_word_dash_6: security-horse-chat-trick-ancient-old
-bip_39_word_dash_7: security-horse-chat-trick-ancient-old-shrug
-bip_39_word_dash_8: security-horse-chat-trick-ancient-old-shrug-buddy
-bip_39_word_dash_9: security-horse-chat-trick-ancient-old-shrug-buddy-pond
-bip_39_word_new_br_1: security
-bip_39_word_new_br_10: security<br>horse<br>chat<br>trick<br>ancient<br>old<br>shrug<br>buddy<br>pond<br>wrap
-bip_39_word_new_br_11: security<br>horse<br>chat<br>trick<br>ancient<br>old<br>shrug<br>buddy<br>pond<br>wrap<br>garbage
 bip_39_word_new_br_12: security<br>horse<br>chat<br>trick<br>ancient<br>old<br>shrug<br>buddy<br>pond<br>wrap<br>garbage<br>aunt
 bip_39_word_new_br_2: security<br>horse
 bip_39_word_new_br_3: security<br>horse<br>chat
-bip_39_word_new_br_4: security<br>horse<br>chat<br>trick
-bip_39_word_new_br_5: security<br>horse<br>chat<br>trick<br>ancient
-bip_39_word_new_br_6: security<br>horse<br>chat<br>trick<br>ancient<br>old
-bip_39_word_new_br_7: security<br>horse<br>chat<br>trick<br>ancient<br>old<br>shrug
-bip_39_word_new_br_8: security<br>horse<br>chat<br>trick<br>ancient<br>old<br>shrug<br>buddy
-bip_39_word_new_br_9: security<br>horse<br>chat<br>trick<br>ancient<br>old<br>shrug<br>buddy<br>pond
-bip_39_word_new_line_1: security
-bip_39_word_new_line_10: 'security
-
-  horse
-
-  chat
-
-  trick
-
-  ancient
-
-  old
-
-  shrug
-
-  buddy
-
-  pond
-
-  wrap'
-bip_39_word_new_line_11: 'security
-
-  horse
-
-  chat
-
-  trick
-
-  ancient
-
-  old
-
-  shrug
-
-  buddy
-
-  pond
-
-  wrap
-
-  garbage'
 bip_39_word_new_line_12: 'security
 
   horse
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'security
   horse
 
   chat'
-bip_39_word_new_line_4: 'security
-
-  horse
-
-  chat
-
-  trick'
-bip_39_word_new_line_5: 'security
-
-  horse
-
-  chat
-
-  trick
-
-  ancient'
-bip_39_word_new_line_6: 'security
-
-  horse
-
-  chat
-
-  trick
-
-  ancient
-
-  old'
-bip_39_word_new_line_7: 'security
-
-  horse
-
-  chat
-
-  trick
-
-  ancient
-
-  old
-
-  shrug'
-bip_39_word_new_line_8: 'security
-
-  horse
-
-  chat
-
-  trick
-
-  ancient
-
-  old
-
-  shrug
-
-  buddy'
-bip_39_word_new_line_9: 'security
-
-  horse
-
-  chat
-
-  trick
-
-  ancient
-
-  old
-
-  shrug
-
-  buddy
-
-  pond'
-bip_39_word_no_space_1: security
-bip_39_word_no_space_10: securityhorsechattrickancientoldshrugbuddypondwrap
-bip_39_word_no_space_11: securityhorsechattrickancientoldshrugbuddypondwrapgarbage
 bip_39_word_no_space_12: securityhorsechattrickancientoldshrugbuddypondwrapgarbageaunt
 bip_39_word_no_space_2: securityhorse
 bip_39_word_no_space_3: securityhorsechat
-bip_39_word_no_space_4: securityhorsechattrick
-bip_39_word_no_space_5: securityhorsechattrickancient
-bip_39_word_no_space_6: securityhorsechattrickancientold
-bip_39_word_no_space_7: securityhorsechattrickancientoldshrug
-bip_39_word_no_space_8: securityhorsechattrickancientoldshrugbuddy
-bip_39_word_no_space_9: securityhorsechattrickancientoldshrugbuddypond
-bip_39_word_space_0:
-- security
-- horse
-- chat
-- trick
-- ancient
-- old
-- shrug
-- buddy
-- pond
-- wrap
-- garbage
-- aunt
-bip_39_word_space_1: security
-bip_39_word_space_10: security horse chat trick ancient old shrug buddy pond wrap
-bip_39_word_space_11: security horse chat trick ancient old shrug buddy pond wrap
-  garbage
 bip_39_word_space_12: security horse chat trick ancient old shrug buddy pond wrap
   garbage aunt
 bip_39_word_space_2: security horse
 bip_39_word_space_3: security horse chat
-bip_39_word_space_4: security horse chat trick
-bip_39_word_space_5: security horse chat trick ancient
-bip_39_word_space_6: security horse chat trick ancient old
-bip_39_word_space_7: security horse chat trick ancient old shrug
-bip_39_word_space_8: security horse chat trick ancient old shrug buddy
-bip_39_word_space_9: security horse chat trick ancient old shrug buddy pond
-bip_39_word_underscore_1: security
-bip_39_word_underscore_10: security_horse_chat_trick_ancient_old_shrug_buddy_pond_wrap
-bip_39_word_underscore_11: security_horse_chat_trick_ancient_old_shrug_buddy_pond_wrap_garbage
 bip_39_word_underscore_12: security_horse_chat_trick_ancient_old_shrug_buddy_pond_wrap_garbage_aunt
 bip_39_word_underscore_2: security_horse
 bip_39_word_underscore_3: security_horse_chat
-bip_39_word_underscore_4: security_horse_chat_trick
-bip_39_word_underscore_5: security_horse_chat_trick_ancient
-bip_39_word_underscore_6: security_horse_chat_trick_ancient_old
-bip_39_word_underscore_7: security_horse_chat_trick_ancient_old_shrug
-bip_39_word_underscore_8: security_horse_chat_trick_ancient_old_shrug_buddy
-bip_39_word_underscore_9: security_horse_chat_trick_ancient_old_shrug_buddy_pond
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

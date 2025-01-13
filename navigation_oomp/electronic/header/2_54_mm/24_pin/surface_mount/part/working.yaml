@@ -1,68 +1,9 @@
-bip_39_word_dash_1: valid
-bip_39_word_dash_10: valid-awesome-visit-express-sugar-jungle-step-road-afraid-museum
-bip_39_word_dash_11: valid-awesome-visit-express-sugar-jungle-step-road-afraid-museum-april
 bip_39_word_dash_12: valid-awesome-visit-express-sugar-jungle-step-road-afraid-museum-april-add
 bip_39_word_dash_2: valid-awesome
 bip_39_word_dash_3: valid-awesome-visit
-bip_39_word_dash_4: valid-awesome-visit-express
-bip_39_word_dash_5: valid-awesome-visit-express-sugar
-bip_39_word_dash_6: valid-awesome-visit-express-sugar-jungle
-bip_39_word_dash_7: valid-awesome-visit-express-sugar-jungle-step
-bip_39_word_dash_8: valid-awesome-visit-express-sugar-jungle-step-road
-bip_39_word_dash_9: valid-awesome-visit-express-sugar-jungle-step-road-afraid
-bip_39_word_new_br_1: valid
-bip_39_word_new_br_10: valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road<br>afraid<br>museum
-bip_39_word_new_br_11: valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road<br>afraid<br>museum<br>april
 bip_39_word_new_br_12: valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road<br>afraid<br>museum<br>april<br>add
 bip_39_word_new_br_2: valid<br>awesome
 bip_39_word_new_br_3: valid<br>awesome<br>visit
-bip_39_word_new_br_4: valid<br>awesome<br>visit<br>express
-bip_39_word_new_br_5: valid<br>awesome<br>visit<br>express<br>sugar
-bip_39_word_new_br_6: valid<br>awesome<br>visit<br>express<br>sugar<br>jungle
-bip_39_word_new_br_7: valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step
-bip_39_word_new_br_8: valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road
-bip_39_word_new_br_9: valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road<br>afraid
-bip_39_word_new_line_1: valid
-bip_39_word_new_line_10: 'valid
-
-  awesome
-
-  visit
-
-  express
-
-  sugar
-
-  jungle
-
-  step
-
-  road
-
-  afraid
-
-  museum'
-bip_39_word_new_line_11: 'valid
-
-  awesome
-
-  visit
-
-  express
-
-  sugar
-
-  jungle
-
-  step
-
-  road
-
-  afraid
-
-  museum
-
-  april'
 bip_39_word_new_line_12: 'valid
 
   awesome
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'valid
   awesome
 
   visit'
-bip_39_word_new_line_4: 'valid
-
-  awesome
-
-  visit
-
-  express'
-bip_39_word_new_line_5: 'valid
-
-  awesome
-
-  visit
-
-  express
-
-  sugar'
-bip_39_word_new_line_6: 'valid
-
-  awesome
-
-  visit
-
-  express
-
-  sugar
-
-  jungle'
-bip_39_word_new_line_7: 'valid
-
-  awesome
-
-  visit
-
-  express
-
-  sugar
-
-  jungle
-
-  step'
-bip_39_word_new_line_8: 'valid
-
-  awesome
-
-  visit
-
-  express
-
-  sugar
-
-  jungle
-
-  step
-
-  road'
-bip_39_word_new_line_9: 'valid
-
-  awesome
-
-  visit
-
-  express
-
-  sugar
-
-  jungle
-
-  step
-
-  road
-
-  afraid'
-bip_39_word_no_space_1: valid
-bip_39_word_no_space_10: validawesomevisitexpresssugarjunglesteproadafraidmuseum
-bip_39_word_no_space_11: validawesomevisitexpresssugarjunglesteproadafraidmuseumapril
 bip_39_word_no_space_12: validawesomevisitexpresssugarjunglesteproadafraidmuseumapriladd
 bip_39_word_no_space_2: validawesome
 bip_39_word_no_space_3: validawesomevisit
-bip_39_word_no_space_4: validawesomevisitexpress
-bip_39_word_no_space_5: validawesomevisitexpresssugar
-bip_39_word_no_space_6: validawesomevisitexpresssugarjungle
-bip_39_word_no_space_7: validawesomevisitexpresssugarjunglestep
-bip_39_word_no_space_8: validawesomevisitexpresssugarjunglesteproad
-bip_39_word_no_space_9: validawesomevisitexpresssugarjunglesteproadafraid
-bip_39_word_space_0:
-- valid
-- awesome
-- visit
-- express
-- sugar
-- jungle
-- step
-- road
-- afraid
-- museum
-- april
-- add
-bip_39_word_space_1: valid
-bip_39_word_space_10: valid awesome visit express sugar jungle step road afraid museum
-bip_39_word_space_11: valid awesome visit express sugar jungle step road afraid museum
-  april
 bip_39_word_space_12: valid awesome visit express sugar jungle step road afraid museum
   april add
 bip_39_word_space_2: valid awesome
 bip_39_word_space_3: valid awesome visit
-bip_39_word_space_4: valid awesome visit express
-bip_39_word_space_5: valid awesome visit express sugar
-bip_39_word_space_6: valid awesome visit express sugar jungle
-bip_39_word_space_7: valid awesome visit express sugar jungle step
-bip_39_word_space_8: valid awesome visit express sugar jungle step road
-bip_39_word_space_9: valid awesome visit express sugar jungle step road afraid
-bip_39_word_underscore_1: valid
-bip_39_word_underscore_10: valid_awesome_visit_express_sugar_jungle_step_road_afraid_museum
-bip_39_word_underscore_11: valid_awesome_visit_express_sugar_jungle_step_road_afraid_museum_april
 bip_39_word_underscore_12: valid_awesome_visit_express_sugar_jungle_step_road_afraid_museum_april_add
 bip_39_word_underscore_2: valid_awesome
 bip_39_word_underscore_3: valid_awesome_visit
-bip_39_word_underscore_4: valid_awesome_visit_express
-bip_39_word_underscore_5: valid_awesome_visit_express_sugar
-bip_39_word_underscore_6: valid_awesome_visit_express_sugar_jungle
-bip_39_word_underscore_7: valid_awesome_visit_express_sugar_jungle_step
-bip_39_word_underscore_8: valid_awesome_visit_express_sugar_jungle_step_road
-bip_39_word_underscore_9: valid_awesome_visit_express_sugar_jungle_step_road_afraid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: item
-bip_39_word_dash_10: item-brick-mixture-leave-brief-cousin-trap-veteran-page-rookie
-bip_39_word_dash_11: item-brick-mixture-leave-brief-cousin-trap-veteran-page-rookie-flower
 bip_39_word_dash_12: item-brick-mixture-leave-brief-cousin-trap-veteran-page-rookie-flower-achieve
 bip_39_word_dash_2: item-brick
 bip_39_word_dash_3: item-brick-mixture
-bip_39_word_dash_4: item-brick-mixture-leave
-bip_39_word_dash_5: item-brick-mixture-leave-brief
-bip_39_word_dash_6: item-brick-mixture-leave-brief-cousin
-bip_39_word_dash_7: item-brick-mixture-leave-brief-cousin-trap
-bip_39_word_dash_8: item-brick-mixture-leave-brief-cousin-trap-veteran
-bip_39_word_dash_9: item-brick-mixture-leave-brief-cousin-trap-veteran-page
-bip_39_word_new_br_1: item
-bip_39_word_new_br_10: item<br>brick<br>mixture<br>leave<br>brief<br>cousin<br>trap<br>veteran<br>page<br>rookie
-bip_39_word_new_br_11: item<br>brick<br>mixture<br>leave<br>brief<br>cousin<br>trap<br>veteran<br>page<br>rookie<br>flower
 bip_39_word_new_br_12: item<br>brick<br>mixture<br>leave<br>brief<br>cousin<br>trap<br>veteran<br>page<br>rookie<br>flower<br>achieve
 bip_39_word_new_br_2: item<br>brick
 bip_39_word_new_br_3: item<br>brick<br>mixture
-bip_39_word_new_br_4: item<br>brick<br>mixture<br>leave
-bip_39_word_new_br_5: item<br>brick<br>mixture<br>leave<br>brief
-bip_39_word_new_br_6: item<br>brick<br>mixture<br>leave<br>brief<br>cousin
-bip_39_word_new_br_7: item<br>brick<br>mixture<br>leave<br>brief<br>cousin<br>trap
-bip_39_word_new_br_8: item<br>brick<br>mixture<br>leave<br>brief<br>cousin<br>trap<br>veteran
-bip_39_word_new_br_9: item<br>brick<br>mixture<br>leave<br>brief<br>cousin<br>trap<br>veteran<br>page
-bip_39_word_new_line_1: item
-bip_39_word_new_line_10: 'item
-
-  brick
-
-  mixture
-
-  leave
-
-  brief
-
-  cousin
-
-  trap
-
-  veteran
-
-  page
-
-  rookie'
-bip_39_word_new_line_11: 'item
-
-  brick
-
-  mixture
-
-  leave
-
-  brief
-
-  cousin
-
-  trap
-
-  veteran
-
-  page
-
-  rookie
-
-  flower'
 bip_39_word_new_line_12: 'item
 
   brick
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'item
   brick
 
   mixture'
-bip_39_word_new_line_4: 'item
-
-  brick
-
-  mixture
-
-  leave'
-bip_39_word_new_line_5: 'item
-
-  brick
-
-  mixture
-
-  leave
-
-  brief'
-bip_39_word_new_line_6: 'item
-
-  brick
-
-  mixture
-
-  leave
-
-  brief
-
-  cousin'
-bip_39_word_new_line_7: 'item
-
-  brick
-
-  mixture
-
-  leave
-
-  brief
-
-  cousin
-
-  trap'
-bip_39_word_new_line_8: 'item
-
-  brick
-
-  mixture
-
-  leave
-
-  brief
-
-  cousin
-
-  trap
-
-  veteran'
-bip_39_word_new_line_9: 'item
-
-  brick
-
-  mixture
-
-  leave
-
-  brief
-
-  cousin
-
-  trap
-
-  veteran
-
-  page'
-bip_39_word_no_space_1: item
-bip_39_word_no_space_10: itembrickmixtureleavebriefcousintrapveteranpagerookie
-bip_39_word_no_space_11: itembrickmixtureleavebriefcousintrapveteranpagerookieflower
 bip_39_word_no_space_12: itembrickmixtureleavebriefcousintrapveteranpagerookieflowerachieve
 bip_39_word_no_space_2: itembrick
 bip_39_word_no_space_3: itembrickmixture
-bip_39_word_no_space_4: itembrickmixtureleave
-bip_39_word_no_space_5: itembrickmixtureleavebrief
-bip_39_word_no_space_6: itembrickmixtureleavebriefcousin
-bip_39_word_no_space_7: itembrickmixtureleavebriefcousintrap
-bip_39_word_no_space_8: itembrickmixtureleavebriefcousintrapveteran
-bip_39_word_no_space_9: itembrickmixtureleavebriefcousintrapveteranpage
-bip_39_word_space_0:
-- item
-- brick
-- mixture
-- leave
-- brief
-- cousin
-- trap
-- veteran
-- page
-- rookie
-- flower
-- achieve
-bip_39_word_space_1: item
-bip_39_word_space_10: item brick mixture leave brief cousin trap veteran page rookie
-bip_39_word_space_11: item brick mixture leave brief cousin trap veteran page rookie
-  flower
 bip_39_word_space_12: item brick mixture leave brief cousin trap veteran page rookie
   flower achieve
 bip_39_word_space_2: item brick
 bip_39_word_space_3: item brick mixture
-bip_39_word_space_4: item brick mixture leave
-bip_39_word_space_5: item brick mixture leave brief
-bip_39_word_space_6: item brick mixture leave brief cousin
-bip_39_word_space_7: item brick mixture leave brief cousin trap
-bip_39_word_space_8: item brick mixture leave brief cousin trap veteran
-bip_39_word_space_9: item brick mixture leave brief cousin trap veteran page
-bip_39_word_underscore_1: item
-bip_39_word_underscore_10: item_brick_mixture_leave_brief_cousin_trap_veteran_page_rookie
-bip_39_word_underscore_11: item_brick_mixture_leave_brief_cousin_trap_veteran_page_rookie_flower
 bip_39_word_underscore_12: item_brick_mixture_leave_brief_cousin_trap_veteran_page_rookie_flower_achieve
 bip_39_word_underscore_2: item_brick
 bip_39_word_underscore_3: item_brick_mixture
-bip_39_word_underscore_4: item_brick_mixture_leave
-bip_39_word_underscore_5: item_brick_mixture_leave_brief
-bip_39_word_underscore_6: item_brick_mixture_leave_brief_cousin
-bip_39_word_underscore_7: item_brick_mixture_leave_brief_cousin_trap
-bip_39_word_underscore_8: item_brick_mixture_leave_brief_cousin_trap_veteran
-bip_39_word_underscore_9: item_brick_mixture_leave_brief_cousin_trap_veteran_page
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: paddle
-bip_39_word_dash_10: paddle-work-version-ready-spend-sponsor-question-clerk-disease-young
-bip_39_word_dash_11: paddle-work-version-ready-spend-sponsor-question-clerk-disease-young-robust
 bip_39_word_dash_12: paddle-work-version-ready-spend-sponsor-question-clerk-disease-young-robust-aim
 bip_39_word_dash_2: paddle-work
 bip_39_word_dash_3: paddle-work-version
-bip_39_word_dash_4: paddle-work-version-ready
-bip_39_word_dash_5: paddle-work-version-ready-spend
-bip_39_word_dash_6: paddle-work-version-ready-spend-sponsor
-bip_39_word_dash_7: paddle-work-version-ready-spend-sponsor-question
-bip_39_word_dash_8: paddle-work-version-ready-spend-sponsor-question-clerk
-bip_39_word_dash_9: paddle-work-version-ready-spend-sponsor-question-clerk-disease
-bip_39_word_new_br_1: paddle
-bip_39_word_new_br_10: paddle<br>work<br>version<br>ready<br>spend<br>sponsor<br>question<br>clerk<br>disease<br>young
-bip_39_word_new_br_11: paddle<br>work<br>version<br>ready<br>spend<br>sponsor<br>question<br>clerk<br>disease<br>young<br>robust
 bip_39_word_new_br_12: paddle<br>work<br>version<br>ready<br>spend<br>sponsor<br>question<br>clerk<br>disease<br>young<br>robust<br>aim
 bip_39_word_new_br_2: paddle<br>work
 bip_39_word_new_br_3: paddle<br>work<br>version
-bip_39_word_new_br_4: paddle<br>work<br>version<br>ready
-bip_39_word_new_br_5: paddle<br>work<br>version<br>ready<br>spend
-bip_39_word_new_br_6: paddle<br>work<br>version<br>ready<br>spend<br>sponsor
-bip_39_word_new_br_7: paddle<br>work<br>version<br>ready<br>spend<br>sponsor<br>question
-bip_39_word_new_br_8: paddle<br>work<br>version<br>ready<br>spend<br>sponsor<br>question<br>clerk
-bip_39_word_new_br_9: paddle<br>work<br>version<br>ready<br>spend<br>sponsor<br>question<br>clerk<br>disease
-bip_39_word_new_line_1: paddle
-bip_39_word_new_line_10: 'paddle
-
-  work
-
-  version
-
-  ready
-
-  spend
-
-  sponsor
-
-  question
-
-  clerk
-
-  disease
-
-  young'
-bip_39_word_new_line_11: 'paddle
-
-  work
-
-  version
-
-  ready
-
-  spend
-
-  sponsor
-
-  question
-
-  clerk
-
-  disease
-
-  young
-
-  robust'
 bip_39_word_new_line_12: 'paddle
 
   work
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'paddle
   work
 
   version'
-bip_39_word_new_line_4: 'paddle
-
-  work
-
-  version
-
-  ready'
-bip_39_word_new_line_5: 'paddle
-
-  work
-
-  version
-
-  ready
-
-  spend'
-bip_39_word_new_line_6: 'paddle
-
-  work
-
-  version
-
-  ready
-
-  spend
-
-  sponsor'
-bip_39_word_new_line_7: 'paddle
-
-  work
-
-  version
-
-  ready
-
-  spend
-
-  sponsor
-
-  question'
-bip_39_word_new_line_8: 'paddle
-
-  work
-
-  version
-
-  ready
-
-  spend
-
-  sponsor
-
-  question
-
-  clerk'
-bip_39_word_new_line_9: 'paddle
-
-  work
-
-  version
-
-  ready
-
-  spend
-
-  sponsor
-
-  question
-
-  clerk
-
-  disease'
-bip_39_word_no_space_1: paddle
-bip_39_word_no_space_10: paddleworkversionreadyspendsponsorquestionclerkdiseaseyoung
-bip_39_word_no_space_11: paddleworkversionreadyspendsponsorquestionclerkdiseaseyoungrobust
 bip_39_word_no_space_12: paddleworkversionreadyspendsponsorquestionclerkdiseaseyoungrobustaim
 bip_39_word_no_space_2: paddlework
 bip_39_word_no_space_3: paddleworkversion
-bip_39_word_no_space_4: paddleworkversionready
-bip_39_word_no_space_5: paddleworkversionreadyspend
-bip_39_word_no_space_6: paddleworkversionreadyspendsponsor
-bip_39_word_no_space_7: paddleworkversionreadyspendsponsorquestion
-bip_39_word_no_space_8: paddleworkversionreadyspendsponsorquestionclerk
-bip_39_word_no_space_9: paddleworkversionreadyspendsponsorquestionclerkdisease
-bip_39_word_space_0:
-- paddle
-- work
-- version
-- ready
-- spend
-- sponsor
-- question
-- clerk
-- disease
-- young
-- robust
-- aim
-bip_39_word_space_1: paddle
-bip_39_word_space_10: paddle work version ready spend sponsor question clerk disease
-  young
-bip_39_word_space_11: paddle work version ready spend sponsor question clerk disease
-  young robust
 bip_39_word_space_12: paddle work version ready spend sponsor question clerk disease
   young robust aim
 bip_39_word_space_2: paddle work
 bip_39_word_space_3: paddle work version
-bip_39_word_space_4: paddle work version ready
-bip_39_word_space_5: paddle work version ready spend
-bip_39_word_space_6: paddle work version ready spend sponsor
-bip_39_word_space_7: paddle work version ready spend sponsor question
-bip_39_word_space_8: paddle work version ready spend sponsor question clerk
-bip_39_word_space_9: paddle work version ready spend sponsor question clerk disease
-bip_39_word_underscore_1: paddle
-bip_39_word_underscore_10: paddle_work_version_ready_spend_sponsor_question_clerk_disease_young
-bip_39_word_underscore_11: paddle_work_version_ready_spend_sponsor_question_clerk_disease_young_robust
 bip_39_word_underscore_12: paddle_work_version_ready_spend_sponsor_question_clerk_disease_young_robust_aim
 bip_39_word_underscore_2: paddle_work
 bip_39_word_underscore_3: paddle_work_version
-bip_39_word_underscore_4: paddle_work_version_ready
-bip_39_word_underscore_5: paddle_work_version_ready_spend
-bip_39_word_underscore_6: paddle_work_version_ready_spend_sponsor
-bip_39_word_underscore_7: paddle_work_version_ready_spend_sponsor_question
-bip_39_word_underscore_8: paddle_work_version_ready_spend_sponsor_question_clerk
-bip_39_word_underscore_9: paddle_work_version_ready_spend_sponsor_question_clerk_disease
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

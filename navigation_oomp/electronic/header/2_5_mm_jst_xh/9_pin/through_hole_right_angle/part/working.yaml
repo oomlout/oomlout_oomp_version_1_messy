@@ -1,68 +1,9 @@
-bip_39_word_dash_1: border
-bip_39_word_dash_10: border-mosquito-brush-crunch-exist-satoshi-voyage-market-repair-ready
-bip_39_word_dash_11: border-mosquito-brush-crunch-exist-satoshi-voyage-market-repair-ready-fuel
 bip_39_word_dash_12: border-mosquito-brush-crunch-exist-satoshi-voyage-market-repair-ready-fuel-assault
 bip_39_word_dash_2: border-mosquito
 bip_39_word_dash_3: border-mosquito-brush
-bip_39_word_dash_4: border-mosquito-brush-crunch
-bip_39_word_dash_5: border-mosquito-brush-crunch-exist
-bip_39_word_dash_6: border-mosquito-brush-crunch-exist-satoshi
-bip_39_word_dash_7: border-mosquito-brush-crunch-exist-satoshi-voyage
-bip_39_word_dash_8: border-mosquito-brush-crunch-exist-satoshi-voyage-market
-bip_39_word_dash_9: border-mosquito-brush-crunch-exist-satoshi-voyage-market-repair
-bip_39_word_new_br_1: border
-bip_39_word_new_br_10: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market<br>repair<br>ready
-bip_39_word_new_br_11: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market<br>repair<br>ready<br>fuel
 bip_39_word_new_br_12: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market<br>repair<br>ready<br>fuel<br>assault
 bip_39_word_new_br_2: border<br>mosquito
 bip_39_word_new_br_3: border<br>mosquito<br>brush
-bip_39_word_new_br_4: border<br>mosquito<br>brush<br>crunch
-bip_39_word_new_br_5: border<br>mosquito<br>brush<br>crunch<br>exist
-bip_39_word_new_br_6: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi
-bip_39_word_new_br_7: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage
-bip_39_word_new_br_8: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market
-bip_39_word_new_br_9: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market<br>repair
-bip_39_word_new_line_1: border
-bip_39_word_new_line_10: 'border
-
-  mosquito
-
-  brush
-
-  crunch
-
-  exist
-
-  satoshi
-
-  voyage
-
-  market
-
-  repair
-
-  ready'
-bip_39_word_new_line_11: 'border
-
-  mosquito
-
-  brush
-
-  crunch
-
-  exist
-
-  satoshi
-
-  voyage
-
-  market
-
-  repair
-
-  ready
-
-  fuel'
 bip_39_word_new_line_12: 'border
 
   mosquito
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'border
   mosquito
 
   brush'
-bip_39_word_new_line_4: 'border
-
-  mosquito
-
-  brush
-
-  crunch'
-bip_39_word_new_line_5: 'border
-
-  mosquito
-
-  brush
-
-  crunch
-
-  exist'
-bip_39_word_new_line_6: 'border
-
-  mosquito
-
-  brush
-
-  crunch
-
-  exist
-
-  satoshi'
-bip_39_word_new_line_7: 'border
-
-  mosquito
-
-  brush
-
-  crunch
-
-  exist
-
-  satoshi
-
-  voyage'
-bip_39_word_new_line_8: 'border
-
-  mosquito
-
-  brush
-
-  crunch
-
-  exist
-
-  satoshi
-
-  voyage
-
-  market'
-bip_39_word_new_line_9: 'border
-
-  mosquito
-
-  brush
-
-  crunch
-
-  exist
-
-  satoshi
-
-  voyage
-
-  market
-
-  repair'
-bip_39_word_no_space_1: border
-bip_39_word_no_space_10: bordermosquitobrushcrunchexistsatoshivoyagemarketrepairready
-bip_39_word_no_space_11: bordermosquitobrushcrunchexistsatoshivoyagemarketrepairreadyfuel
 bip_39_word_no_space_12: bordermosquitobrushcrunchexistsatoshivoyagemarketrepairreadyfuelassault
 bip_39_word_no_space_2: bordermosquito
 bip_39_word_no_space_3: bordermosquitobrush
-bip_39_word_no_space_4: bordermosquitobrushcrunch
-bip_39_word_no_space_5: bordermosquitobrushcrunchexist
-bip_39_word_no_space_6: bordermosquitobrushcrunchexistsatoshi
-bip_39_word_no_space_7: bordermosquitobrushcrunchexistsatoshivoyage
-bip_39_word_no_space_8: bordermosquitobrushcrunchexistsatoshivoyagemarket
-bip_39_word_no_space_9: bordermosquitobrushcrunchexistsatoshivoyagemarketrepair
-bip_39_word_space_0:
-- border
-- mosquito
-- brush
-- crunch
-- exist
-- satoshi
-- voyage
-- market
-- repair
-- ready
-- fuel
-- assault
-bip_39_word_space_1: border
-bip_39_word_space_10: border mosquito brush crunch exist satoshi voyage market repair
-  ready
-bip_39_word_space_11: border mosquito brush crunch exist satoshi voyage market repair
-  ready fuel
 bip_39_word_space_12: border mosquito brush crunch exist satoshi voyage market repair
   ready fuel assault
 bip_39_word_space_2: border mosquito
 bip_39_word_space_3: border mosquito brush
-bip_39_word_space_4: border mosquito brush crunch
-bip_39_word_space_5: border mosquito brush crunch exist
-bip_39_word_space_6: border mosquito brush crunch exist satoshi
-bip_39_word_space_7: border mosquito brush crunch exist satoshi voyage
-bip_39_word_space_8: border mosquito brush crunch exist satoshi voyage market
-bip_39_word_space_9: border mosquito brush crunch exist satoshi voyage market repair
-bip_39_word_underscore_1: border
-bip_39_word_underscore_10: border_mosquito_brush_crunch_exist_satoshi_voyage_market_repair_ready
-bip_39_word_underscore_11: border_mosquito_brush_crunch_exist_satoshi_voyage_market_repair_ready_fuel
 bip_39_word_underscore_12: border_mosquito_brush_crunch_exist_satoshi_voyage_market_repair_ready_fuel_assault
 bip_39_word_underscore_2: border_mosquito
 bip_39_word_underscore_3: border_mosquito_brush
-bip_39_word_underscore_4: border_mosquito_brush_crunch
-bip_39_word_underscore_5: border_mosquito_brush_crunch_exist
-bip_39_word_underscore_6: border_mosquito_brush_crunch_exist_satoshi
-bip_39_word_underscore_7: border_mosquito_brush_crunch_exist_satoshi_voyage
-bip_39_word_underscore_8: border_mosquito_brush_crunch_exist_satoshi_voyage_market
-bip_39_word_underscore_9: border_mosquito_brush_crunch_exist_satoshi_voyage_market_repair
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

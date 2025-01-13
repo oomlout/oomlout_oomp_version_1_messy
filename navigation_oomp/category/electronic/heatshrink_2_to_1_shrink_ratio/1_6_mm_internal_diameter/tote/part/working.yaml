@@ -1,68 +1,9 @@
-bip_39_word_dash_1: help
-bip_39_word_dash_10: help-garbage-unable-spike-beef-flee-present-seminar-health-pistol
-bip_39_word_dash_11: help-garbage-unable-spike-beef-flee-present-seminar-health-pistol-midnight
 bip_39_word_dash_12: help-garbage-unable-spike-beef-flee-present-seminar-health-pistol-midnight-able
 bip_39_word_dash_2: help-garbage
 bip_39_word_dash_3: help-garbage-unable
-bip_39_word_dash_4: help-garbage-unable-spike
-bip_39_word_dash_5: help-garbage-unable-spike-beef
-bip_39_word_dash_6: help-garbage-unable-spike-beef-flee
-bip_39_word_dash_7: help-garbage-unable-spike-beef-flee-present
-bip_39_word_dash_8: help-garbage-unable-spike-beef-flee-present-seminar
-bip_39_word_dash_9: help-garbage-unable-spike-beef-flee-present-seminar-health
-bip_39_word_new_br_1: help
-bip_39_word_new_br_10: help<br>garbage<br>unable<br>spike<br>beef<br>flee<br>present<br>seminar<br>health<br>pistol
-bip_39_word_new_br_11: help<br>garbage<br>unable<br>spike<br>beef<br>flee<br>present<br>seminar<br>health<br>pistol<br>midnight
 bip_39_word_new_br_12: help<br>garbage<br>unable<br>spike<br>beef<br>flee<br>present<br>seminar<br>health<br>pistol<br>midnight<br>able
 bip_39_word_new_br_2: help<br>garbage
 bip_39_word_new_br_3: help<br>garbage<br>unable
-bip_39_word_new_br_4: help<br>garbage<br>unable<br>spike
-bip_39_word_new_br_5: help<br>garbage<br>unable<br>spike<br>beef
-bip_39_word_new_br_6: help<br>garbage<br>unable<br>spike<br>beef<br>flee
-bip_39_word_new_br_7: help<br>garbage<br>unable<br>spike<br>beef<br>flee<br>present
-bip_39_word_new_br_8: help<br>garbage<br>unable<br>spike<br>beef<br>flee<br>present<br>seminar
-bip_39_word_new_br_9: help<br>garbage<br>unable<br>spike<br>beef<br>flee<br>present<br>seminar<br>health
-bip_39_word_new_line_1: help
-bip_39_word_new_line_10: 'help
-
-  garbage
-
-  unable
-
-  spike
-
-  beef
-
-  flee
-
-  present
-
-  seminar
-
-  health
-
-  pistol'
-bip_39_word_new_line_11: 'help
-
-  garbage
-
-  unable
-
-  spike
-
-  beef
-
-  flee
-
-  present
-
-  seminar
-
-  health
-
-  pistol
-
-  midnight'
 bip_39_word_new_line_12: 'help
 
   garbage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'help
   garbage
 
   unable'
-bip_39_word_new_line_4: 'help
-
-  garbage
-
-  unable
-
-  spike'
-bip_39_word_new_line_5: 'help
-
-  garbage
-
-  unable
-
-  spike
-
-  beef'
-bip_39_word_new_line_6: 'help
-
-  garbage
-
-  unable
-
-  spike
-
-  beef
-
-  flee'
-bip_39_word_new_line_7: 'help
-
-  garbage
-
-  unable
-
-  spike
-
-  beef
-
-  flee
-
-  present'
-bip_39_word_new_line_8: 'help
-
-  garbage
-
-  unable
-
-  spike
-
-  beef
-
-  flee
-
-  present
-
-  seminar'
-bip_39_word_new_line_9: 'help
-
-  garbage
-
-  unable
-
-  spike
-
-  beef
-
-  flee
-
-  present
-
-  seminar
-
-  health'
-bip_39_word_no_space_1: help
-bip_39_word_no_space_10: helpgarbageunablespikebeeffleepresentseminarhealthpistol
-bip_39_word_no_space_11: helpgarbageunablespikebeeffleepresentseminarhealthpistolmidnight
 bip_39_word_no_space_12: helpgarbageunablespikebeeffleepresentseminarhealthpistolmidnightable
 bip_39_word_no_space_2: helpgarbage
 bip_39_word_no_space_3: helpgarbageunable
-bip_39_word_no_space_4: helpgarbageunablespike
-bip_39_word_no_space_5: helpgarbageunablespikebeef
-bip_39_word_no_space_6: helpgarbageunablespikebeefflee
-bip_39_word_no_space_7: helpgarbageunablespikebeeffleepresent
-bip_39_word_no_space_8: helpgarbageunablespikebeeffleepresentseminar
-bip_39_word_no_space_9: helpgarbageunablespikebeeffleepresentseminarhealth
-bip_39_word_space_0:
-- help
-- garbage
-- unable
-- spike
-- beef
-- flee
-- present
-- seminar
-- health
-- pistol
-- midnight
-- able
-bip_39_word_space_1: help
-bip_39_word_space_10: help garbage unable spike beef flee present seminar health pistol
-bip_39_word_space_11: help garbage unable spike beef flee present seminar health pistol
-  midnight
 bip_39_word_space_12: help garbage unable spike beef flee present seminar health pistol
   midnight able
 bip_39_word_space_2: help garbage
 bip_39_word_space_3: help garbage unable
-bip_39_word_space_4: help garbage unable spike
-bip_39_word_space_5: help garbage unable spike beef
-bip_39_word_space_6: help garbage unable spike beef flee
-bip_39_word_space_7: help garbage unable spike beef flee present
-bip_39_word_space_8: help garbage unable spike beef flee present seminar
-bip_39_word_space_9: help garbage unable spike beef flee present seminar health
-bip_39_word_underscore_1: help
-bip_39_word_underscore_10: help_garbage_unable_spike_beef_flee_present_seminar_health_pistol
-bip_39_word_underscore_11: help_garbage_unable_spike_beef_flee_present_seminar_health_pistol_midnight
 bip_39_word_underscore_12: help_garbage_unable_spike_beef_flee_present_seminar_health_pistol_midnight_able
 bip_39_word_underscore_2: help_garbage
 bip_39_word_underscore_3: help_garbage_unable
-bip_39_word_underscore_4: help_garbage_unable_spike
-bip_39_word_underscore_5: help_garbage_unable_spike_beef
-bip_39_word_underscore_6: help_garbage_unable_spike_beef_flee
-bip_39_word_underscore_7: help_garbage_unable_spike_beef_flee_present
-bip_39_word_underscore_8: help_garbage_unable_spike_beef_flee_present_seminar
-bip_39_word_underscore_9: help_garbage_unable_spike_beef_flee_present_seminar_health
 classification: category
 classification_capital: Category
 classification_first_letter: c

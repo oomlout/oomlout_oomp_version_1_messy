@@ -1,68 +1,9 @@
-bip_39_word_dash_1: step
-bip_39_word_dash_10: step-coin-bike-fog-couple-laundry-castle-machine-situate-rare
-bip_39_word_dash_11: step-coin-bike-fog-couple-laundry-castle-machine-situate-rare-river
 bip_39_word_dash_12: step-coin-bike-fog-couple-laundry-castle-machine-situate-rare-river-arrive
 bip_39_word_dash_2: step-coin
 bip_39_word_dash_3: step-coin-bike
-bip_39_word_dash_4: step-coin-bike-fog
-bip_39_word_dash_5: step-coin-bike-fog-couple
-bip_39_word_dash_6: step-coin-bike-fog-couple-laundry
-bip_39_word_dash_7: step-coin-bike-fog-couple-laundry-castle
-bip_39_word_dash_8: step-coin-bike-fog-couple-laundry-castle-machine
-bip_39_word_dash_9: step-coin-bike-fog-couple-laundry-castle-machine-situate
-bip_39_word_new_br_1: step
-bip_39_word_new_br_10: step<br>coin<br>bike<br>fog<br>couple<br>laundry<br>castle<br>machine<br>situate<br>rare
-bip_39_word_new_br_11: step<br>coin<br>bike<br>fog<br>couple<br>laundry<br>castle<br>machine<br>situate<br>rare<br>river
 bip_39_word_new_br_12: step<br>coin<br>bike<br>fog<br>couple<br>laundry<br>castle<br>machine<br>situate<br>rare<br>river<br>arrive
 bip_39_word_new_br_2: step<br>coin
 bip_39_word_new_br_3: step<br>coin<br>bike
-bip_39_word_new_br_4: step<br>coin<br>bike<br>fog
-bip_39_word_new_br_5: step<br>coin<br>bike<br>fog<br>couple
-bip_39_word_new_br_6: step<br>coin<br>bike<br>fog<br>couple<br>laundry
-bip_39_word_new_br_7: step<br>coin<br>bike<br>fog<br>couple<br>laundry<br>castle
-bip_39_word_new_br_8: step<br>coin<br>bike<br>fog<br>couple<br>laundry<br>castle<br>machine
-bip_39_word_new_br_9: step<br>coin<br>bike<br>fog<br>couple<br>laundry<br>castle<br>machine<br>situate
-bip_39_word_new_line_1: step
-bip_39_word_new_line_10: 'step
-
-  coin
-
-  bike
-
-  fog
-
-  couple
-
-  laundry
-
-  castle
-
-  machine
-
-  situate
-
-  rare'
-bip_39_word_new_line_11: 'step
-
-  coin
-
-  bike
-
-  fog
-
-  couple
-
-  laundry
-
-  castle
-
-  machine
-
-  situate
-
-  rare
-
-  river'
 bip_39_word_new_line_12: 'step
 
   coin
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'step
   coin
 
   bike'
-bip_39_word_new_line_4: 'step
-
-  coin
-
-  bike
-
-  fog'
-bip_39_word_new_line_5: 'step
-
-  coin
-
-  bike
-
-  fog
-
-  couple'
-bip_39_word_new_line_6: 'step
-
-  coin
-
-  bike
-
-  fog
-
-  couple
-
-  laundry'
-bip_39_word_new_line_7: 'step
-
-  coin
-
-  bike
-
-  fog
-
-  couple
-
-  laundry
-
-  castle'
-bip_39_word_new_line_8: 'step
-
-  coin
-
-  bike
-
-  fog
-
-  couple
-
-  laundry
-
-  castle
-
-  machine'
-bip_39_word_new_line_9: 'step
-
-  coin
-
-  bike
-
-  fog
-
-  couple
-
-  laundry
-
-  castle
-
-  machine
-
-  situate'
-bip_39_word_no_space_1: step
-bip_39_word_no_space_10: stepcoinbikefogcouplelaundrycastlemachinesituaterare
-bip_39_word_no_space_11: stepcoinbikefogcouplelaundrycastlemachinesituaterareriver
 bip_39_word_no_space_12: stepcoinbikefogcouplelaundrycastlemachinesituaterareriverarrive
 bip_39_word_no_space_2: stepcoin
 bip_39_word_no_space_3: stepcoinbike
-bip_39_word_no_space_4: stepcoinbikefog
-bip_39_word_no_space_5: stepcoinbikefogcouple
-bip_39_word_no_space_6: stepcoinbikefogcouplelaundry
-bip_39_word_no_space_7: stepcoinbikefogcouplelaundrycastle
-bip_39_word_no_space_8: stepcoinbikefogcouplelaundrycastlemachine
-bip_39_word_no_space_9: stepcoinbikefogcouplelaundrycastlemachinesituate
-bip_39_word_space_0:
-- step
-- coin
-- bike
-- fog
-- couple
-- laundry
-- castle
-- machine
-- situate
-- rare
-- river
-- arrive
-bip_39_word_space_1: step
-bip_39_word_space_10: step coin bike fog couple laundry castle machine situate rare
-bip_39_word_space_11: step coin bike fog couple laundry castle machine situate rare
-  river
 bip_39_word_space_12: step coin bike fog couple laundry castle machine situate rare
   river arrive
 bip_39_word_space_2: step coin
 bip_39_word_space_3: step coin bike
-bip_39_word_space_4: step coin bike fog
-bip_39_word_space_5: step coin bike fog couple
-bip_39_word_space_6: step coin bike fog couple laundry
-bip_39_word_space_7: step coin bike fog couple laundry castle
-bip_39_word_space_8: step coin bike fog couple laundry castle machine
-bip_39_word_space_9: step coin bike fog couple laundry castle machine situate
-bip_39_word_underscore_1: step
-bip_39_word_underscore_10: step_coin_bike_fog_couple_laundry_castle_machine_situate_rare
-bip_39_word_underscore_11: step_coin_bike_fog_couple_laundry_castle_machine_situate_rare_river
 bip_39_word_underscore_12: step_coin_bike_fog_couple_laundry_castle_machine_situate_rare_river_arrive
 bip_39_word_underscore_2: step_coin
 bip_39_word_underscore_3: step_coin_bike
-bip_39_word_underscore_4: step_coin_bike_fog
-bip_39_word_underscore_5: step_coin_bike_fog_couple
-bip_39_word_underscore_6: step_coin_bike_fog_couple_laundry
-bip_39_word_underscore_7: step_coin_bike_fog_couple_laundry_castle
-bip_39_word_underscore_8: step_coin_bike_fog_couple_laundry_castle_machine
-bip_39_word_underscore_9: step_coin_bike_fog_couple_laundry_castle_machine_situate
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

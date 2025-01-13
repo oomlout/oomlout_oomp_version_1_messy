@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spatial
-bip_39_word_dash_10: spatial-chaos-wish-solution-argue-debate-pumpkin-bone-act-pen
-bip_39_word_dash_11: spatial-chaos-wish-solution-argue-debate-pumpkin-bone-act-pen-force
 bip_39_word_dash_12: spatial-chaos-wish-solution-argue-debate-pumpkin-bone-act-pen-force-assume
 bip_39_word_dash_2: spatial-chaos
 bip_39_word_dash_3: spatial-chaos-wish
-bip_39_word_dash_4: spatial-chaos-wish-solution
-bip_39_word_dash_5: spatial-chaos-wish-solution-argue
-bip_39_word_dash_6: spatial-chaos-wish-solution-argue-debate
-bip_39_word_dash_7: spatial-chaos-wish-solution-argue-debate-pumpkin
-bip_39_word_dash_8: spatial-chaos-wish-solution-argue-debate-pumpkin-bone
-bip_39_word_dash_9: spatial-chaos-wish-solution-argue-debate-pumpkin-bone-act
-bip_39_word_new_br_1: spatial
-bip_39_word_new_br_10: spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen
-bip_39_word_new_br_11: spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force
 bip_39_word_new_br_12: spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force<br>assume
 bip_39_word_new_br_2: spatial<br>chaos
 bip_39_word_new_br_3: spatial<br>chaos<br>wish
-bip_39_word_new_br_4: spatial<br>chaos<br>wish<br>solution
-bip_39_word_new_br_5: spatial<br>chaos<br>wish<br>solution<br>argue
-bip_39_word_new_br_6: spatial<br>chaos<br>wish<br>solution<br>argue<br>debate
-bip_39_word_new_br_7: spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin
-bip_39_word_new_br_8: spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone
-bip_39_word_new_br_9: spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act
-bip_39_word_new_line_1: spatial
-bip_39_word_new_line_10: 'spatial
-
-  chaos
-
-  wish
-
-  solution
-
-  argue
-
-  debate
-
-  pumpkin
-
-  bone
-
-  act
-
-  pen'
-bip_39_word_new_line_11: 'spatial
-
-  chaos
-
-  wish
-
-  solution
-
-  argue
-
-  debate
-
-  pumpkin
-
-  bone
-
-  act
-
-  pen
-
-  force'
 bip_39_word_new_line_12: 'spatial
 
   chaos
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spatial
   chaos
 
   wish'
-bip_39_word_new_line_4: 'spatial
-
-  chaos
-
-  wish
-
-  solution'
-bip_39_word_new_line_5: 'spatial
-
-  chaos
-
-  wish
-
-  solution
-
-  argue'
-bip_39_word_new_line_6: 'spatial
-
-  chaos
-
-  wish
-
-  solution
-
-  argue
-
-  debate'
-bip_39_word_new_line_7: 'spatial
-
-  chaos
-
-  wish
-
-  solution
-
-  argue
-
-  debate
-
-  pumpkin'
-bip_39_word_new_line_8: 'spatial
-
-  chaos
-
-  wish
-
-  solution
-
-  argue
-
-  debate
-
-  pumpkin
-
-  bone'
-bip_39_word_new_line_9: 'spatial
-
-  chaos
-
-  wish
-
-  solution
-
-  argue
-
-  debate
-
-  pumpkin
-
-  bone
-
-  act'
-bip_39_word_no_space_1: spatial
-bip_39_word_no_space_10: spatialchaoswishsolutionarguedebatepumpkinboneactpen
-bip_39_word_no_space_11: spatialchaoswishsolutionarguedebatepumpkinboneactpenforce
 bip_39_word_no_space_12: spatialchaoswishsolutionarguedebatepumpkinboneactpenforceassume
 bip_39_word_no_space_2: spatialchaos
 bip_39_word_no_space_3: spatialchaoswish
-bip_39_word_no_space_4: spatialchaoswishsolution
-bip_39_word_no_space_5: spatialchaoswishsolutionargue
-bip_39_word_no_space_6: spatialchaoswishsolutionarguedebate
-bip_39_word_no_space_7: spatialchaoswishsolutionarguedebatepumpkin
-bip_39_word_no_space_8: spatialchaoswishsolutionarguedebatepumpkinbone
-bip_39_word_no_space_9: spatialchaoswishsolutionarguedebatepumpkinboneact
-bip_39_word_space_0:
-- spatial
-- chaos
-- wish
-- solution
-- argue
-- debate
-- pumpkin
-- bone
-- act
-- pen
-- force
-- assume
-bip_39_word_space_1: spatial
-bip_39_word_space_10: spatial chaos wish solution argue debate pumpkin bone act pen
-bip_39_word_space_11: spatial chaos wish solution argue debate pumpkin bone act pen
-  force
 bip_39_word_space_12: spatial chaos wish solution argue debate pumpkin bone act pen
   force assume
 bip_39_word_space_2: spatial chaos
 bip_39_word_space_3: spatial chaos wish
-bip_39_word_space_4: spatial chaos wish solution
-bip_39_word_space_5: spatial chaos wish solution argue
-bip_39_word_space_6: spatial chaos wish solution argue debate
-bip_39_word_space_7: spatial chaos wish solution argue debate pumpkin
-bip_39_word_space_8: spatial chaos wish solution argue debate pumpkin bone
-bip_39_word_space_9: spatial chaos wish solution argue debate pumpkin bone act
-bip_39_word_underscore_1: spatial
-bip_39_word_underscore_10: spatial_chaos_wish_solution_argue_debate_pumpkin_bone_act_pen
-bip_39_word_underscore_11: spatial_chaos_wish_solution_argue_debate_pumpkin_bone_act_pen_force
 bip_39_word_underscore_12: spatial_chaos_wish_solution_argue_debate_pumpkin_bone_act_pen_force_assume
 bip_39_word_underscore_2: spatial_chaos
 bip_39_word_underscore_3: spatial_chaos_wish
-bip_39_word_underscore_4: spatial_chaos_wish_solution
-bip_39_word_underscore_5: spatial_chaos_wish_solution_argue
-bip_39_word_underscore_6: spatial_chaos_wish_solution_argue_debate
-bip_39_word_underscore_7: spatial_chaos_wish_solution_argue_debate_pumpkin
-bip_39_word_underscore_8: spatial_chaos_wish_solution_argue_debate_pumpkin_bone
-bip_39_word_underscore_9: spatial_chaos_wish_solution_argue_debate_pumpkin_bone_act
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

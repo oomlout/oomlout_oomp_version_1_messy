@@ -1,68 +1,9 @@
-bip_39_word_dash_1: balance
-bip_39_word_dash_10: balance-pride-address-you-silent-enact-dwarf-satoshi-peace-clock
-bip_39_word_dash_11: balance-pride-address-you-silent-enact-dwarf-satoshi-peace-clock-guilt
 bip_39_word_dash_12: balance-pride-address-you-silent-enact-dwarf-satoshi-peace-clock-guilt-angle
 bip_39_word_dash_2: balance-pride
 bip_39_word_dash_3: balance-pride-address
-bip_39_word_dash_4: balance-pride-address-you
-bip_39_word_dash_5: balance-pride-address-you-silent
-bip_39_word_dash_6: balance-pride-address-you-silent-enact
-bip_39_word_dash_7: balance-pride-address-you-silent-enact-dwarf
-bip_39_word_dash_8: balance-pride-address-you-silent-enact-dwarf-satoshi
-bip_39_word_dash_9: balance-pride-address-you-silent-enact-dwarf-satoshi-peace
-bip_39_word_new_br_1: balance
-bip_39_word_new_br_10: balance<br>pride<br>address<br>you<br>silent<br>enact<br>dwarf<br>satoshi<br>peace<br>clock
-bip_39_word_new_br_11: balance<br>pride<br>address<br>you<br>silent<br>enact<br>dwarf<br>satoshi<br>peace<br>clock<br>guilt
 bip_39_word_new_br_12: balance<br>pride<br>address<br>you<br>silent<br>enact<br>dwarf<br>satoshi<br>peace<br>clock<br>guilt<br>angle
 bip_39_word_new_br_2: balance<br>pride
 bip_39_word_new_br_3: balance<br>pride<br>address
-bip_39_word_new_br_4: balance<br>pride<br>address<br>you
-bip_39_word_new_br_5: balance<br>pride<br>address<br>you<br>silent
-bip_39_word_new_br_6: balance<br>pride<br>address<br>you<br>silent<br>enact
-bip_39_word_new_br_7: balance<br>pride<br>address<br>you<br>silent<br>enact<br>dwarf
-bip_39_word_new_br_8: balance<br>pride<br>address<br>you<br>silent<br>enact<br>dwarf<br>satoshi
-bip_39_word_new_br_9: balance<br>pride<br>address<br>you<br>silent<br>enact<br>dwarf<br>satoshi<br>peace
-bip_39_word_new_line_1: balance
-bip_39_word_new_line_10: 'balance
-
-  pride
-
-  address
-
-  you
-
-  silent
-
-  enact
-
-  dwarf
-
-  satoshi
-
-  peace
-
-  clock'
-bip_39_word_new_line_11: 'balance
-
-  pride
-
-  address
-
-  you
-
-  silent
-
-  enact
-
-  dwarf
-
-  satoshi
-
-  peace
-
-  clock
-
-  guilt'
 bip_39_word_new_line_12: 'balance
 
   pride
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'balance
   pride
 
   address'
-bip_39_word_new_line_4: 'balance
-
-  pride
-
-  address
-
-  you'
-bip_39_word_new_line_5: 'balance
-
-  pride
-
-  address
-
-  you
-
-  silent'
-bip_39_word_new_line_6: 'balance
-
-  pride
-
-  address
-
-  you
-
-  silent
-
-  enact'
-bip_39_word_new_line_7: 'balance
-
-  pride
-
-  address
-
-  you
-
-  silent
-
-  enact
-
-  dwarf'
-bip_39_word_new_line_8: 'balance
-
-  pride
-
-  address
-
-  you
-
-  silent
-
-  enact
-
-  dwarf
-
-  satoshi'
-bip_39_word_new_line_9: 'balance
-
-  pride
-
-  address
-
-  you
-
-  silent
-
-  enact
-
-  dwarf
-
-  satoshi
-
-  peace'
-bip_39_word_no_space_1: balance
-bip_39_word_no_space_10: balanceprideaddressyousilentenactdwarfsatoshipeaceclock
-bip_39_word_no_space_11: balanceprideaddressyousilentenactdwarfsatoshipeaceclockguilt
 bip_39_word_no_space_12: balanceprideaddressyousilentenactdwarfsatoshipeaceclockguiltangle
 bip_39_word_no_space_2: balancepride
 bip_39_word_no_space_3: balanceprideaddress
-bip_39_word_no_space_4: balanceprideaddressyou
-bip_39_word_no_space_5: balanceprideaddressyousilent
-bip_39_word_no_space_6: balanceprideaddressyousilentenact
-bip_39_word_no_space_7: balanceprideaddressyousilentenactdwarf
-bip_39_word_no_space_8: balanceprideaddressyousilentenactdwarfsatoshi
-bip_39_word_no_space_9: balanceprideaddressyousilentenactdwarfsatoshipeace
-bip_39_word_space_0:
-- balance
-- pride
-- address
-- you
-- silent
-- enact
-- dwarf
-- satoshi
-- peace
-- clock
-- guilt
-- angle
-bip_39_word_space_1: balance
-bip_39_word_space_10: balance pride address you silent enact dwarf satoshi peace clock
-bip_39_word_space_11: balance pride address you silent enact dwarf satoshi peace clock
-  guilt
 bip_39_word_space_12: balance pride address you silent enact dwarf satoshi peace clock
   guilt angle
 bip_39_word_space_2: balance pride
 bip_39_word_space_3: balance pride address
-bip_39_word_space_4: balance pride address you
-bip_39_word_space_5: balance pride address you silent
-bip_39_word_space_6: balance pride address you silent enact
-bip_39_word_space_7: balance pride address you silent enact dwarf
-bip_39_word_space_8: balance pride address you silent enact dwarf satoshi
-bip_39_word_space_9: balance pride address you silent enact dwarf satoshi peace
-bip_39_word_underscore_1: balance
-bip_39_word_underscore_10: balance_pride_address_you_silent_enact_dwarf_satoshi_peace_clock
-bip_39_word_underscore_11: balance_pride_address_you_silent_enact_dwarf_satoshi_peace_clock_guilt
 bip_39_word_underscore_12: balance_pride_address_you_silent_enact_dwarf_satoshi_peace_clock_guilt_angle
 bip_39_word_underscore_2: balance_pride
 bip_39_word_underscore_3: balance_pride_address
-bip_39_word_underscore_4: balance_pride_address_you
-bip_39_word_underscore_5: balance_pride_address_you_silent
-bip_39_word_underscore_6: balance_pride_address_you_silent_enact
-bip_39_word_underscore_7: balance_pride_address_you_silent_enact_dwarf
-bip_39_word_underscore_8: balance_pride_address_you_silent_enact_dwarf_satoshi
-bip_39_word_underscore_9: balance_pride_address_you_silent_enact_dwarf_satoshi_peace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

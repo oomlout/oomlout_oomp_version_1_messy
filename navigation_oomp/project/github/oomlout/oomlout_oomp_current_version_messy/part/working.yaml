@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stone
-bip_39_word_dash_10: stone-nasty-caution-rebuild-chest-token-amused-security-father-cereal
-bip_39_word_dash_11: stone-nasty-caution-rebuild-chest-token-amused-security-father-cereal-identify
 bip_39_word_dash_12: stone-nasty-caution-rebuild-chest-token-amused-security-father-cereal-identify-amused
 bip_39_word_dash_2: stone-nasty
 bip_39_word_dash_3: stone-nasty-caution
-bip_39_word_dash_4: stone-nasty-caution-rebuild
-bip_39_word_dash_5: stone-nasty-caution-rebuild-chest
-bip_39_word_dash_6: stone-nasty-caution-rebuild-chest-token
-bip_39_word_dash_7: stone-nasty-caution-rebuild-chest-token-amused
-bip_39_word_dash_8: stone-nasty-caution-rebuild-chest-token-amused-security
-bip_39_word_dash_9: stone-nasty-caution-rebuild-chest-token-amused-security-father
-bip_39_word_new_br_1: stone
-bip_39_word_new_br_10: stone<br>nasty<br>caution<br>rebuild<br>chest<br>token<br>amused<br>security<br>father<br>cereal
-bip_39_word_new_br_11: stone<br>nasty<br>caution<br>rebuild<br>chest<br>token<br>amused<br>security<br>father<br>cereal<br>identify
 bip_39_word_new_br_12: stone<br>nasty<br>caution<br>rebuild<br>chest<br>token<br>amused<br>security<br>father<br>cereal<br>identify<br>amused
 bip_39_word_new_br_2: stone<br>nasty
 bip_39_word_new_br_3: stone<br>nasty<br>caution
-bip_39_word_new_br_4: stone<br>nasty<br>caution<br>rebuild
-bip_39_word_new_br_5: stone<br>nasty<br>caution<br>rebuild<br>chest
-bip_39_word_new_br_6: stone<br>nasty<br>caution<br>rebuild<br>chest<br>token
-bip_39_word_new_br_7: stone<br>nasty<br>caution<br>rebuild<br>chest<br>token<br>amused
-bip_39_word_new_br_8: stone<br>nasty<br>caution<br>rebuild<br>chest<br>token<br>amused<br>security
-bip_39_word_new_br_9: stone<br>nasty<br>caution<br>rebuild<br>chest<br>token<br>amused<br>security<br>father
-bip_39_word_new_line_1: stone
-bip_39_word_new_line_10: 'stone
-
-  nasty
-
-  caution
-
-  rebuild
-
-  chest
-
-  token
-
-  amused
-
-  security
-
-  father
-
-  cereal'
-bip_39_word_new_line_11: 'stone
-
-  nasty
-
-  caution
-
-  rebuild
-
-  chest
-
-  token
-
-  amused
-
-  security
-
-  father
-
-  cereal
-
-  identify'
 bip_39_word_new_line_12: 'stone
 
   nasty
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'stone
   nasty
 
   caution'
-bip_39_word_new_line_4: 'stone
-
-  nasty
-
-  caution
-
-  rebuild'
-bip_39_word_new_line_5: 'stone
-
-  nasty
-
-  caution
-
-  rebuild
-
-  chest'
-bip_39_word_new_line_6: 'stone
-
-  nasty
-
-  caution
-
-  rebuild
-
-  chest
-
-  token'
-bip_39_word_new_line_7: 'stone
-
-  nasty
-
-  caution
-
-  rebuild
-
-  chest
-
-  token
-
-  amused'
-bip_39_word_new_line_8: 'stone
-
-  nasty
-
-  caution
-
-  rebuild
-
-  chest
-
-  token
-
-  amused
-
-  security'
-bip_39_word_new_line_9: 'stone
-
-  nasty
-
-  caution
-
-  rebuild
-
-  chest
-
-  token
-
-  amused
-
-  security
-
-  father'
-bip_39_word_no_space_1: stone
-bip_39_word_no_space_10: stonenastycautionrebuildchesttokenamusedsecurityfathercereal
-bip_39_word_no_space_11: stonenastycautionrebuildchesttokenamusedsecurityfathercerealidentify
 bip_39_word_no_space_12: stonenastycautionrebuildchesttokenamusedsecurityfathercerealidentifyamused
 bip_39_word_no_space_2: stonenasty
 bip_39_word_no_space_3: stonenastycaution
-bip_39_word_no_space_4: stonenastycautionrebuild
-bip_39_word_no_space_5: stonenastycautionrebuildchest
-bip_39_word_no_space_6: stonenastycautionrebuildchesttoken
-bip_39_word_no_space_7: stonenastycautionrebuildchesttokenamused
-bip_39_word_no_space_8: stonenastycautionrebuildchesttokenamusedsecurity
-bip_39_word_no_space_9: stonenastycautionrebuildchesttokenamusedsecurityfather
-bip_39_word_space_0:
-- stone
-- nasty
-- caution
-- rebuild
-- chest
-- token
-- amused
-- security
-- father
-- cereal
-- identify
-- amused
-bip_39_word_space_1: stone
-bip_39_word_space_10: stone nasty caution rebuild chest token amused security father
-  cereal
-bip_39_word_space_11: stone nasty caution rebuild chest token amused security father
-  cereal identify
 bip_39_word_space_12: stone nasty caution rebuild chest token amused security father
   cereal identify amused
 bip_39_word_space_2: stone nasty
 bip_39_word_space_3: stone nasty caution
-bip_39_word_space_4: stone nasty caution rebuild
-bip_39_word_space_5: stone nasty caution rebuild chest
-bip_39_word_space_6: stone nasty caution rebuild chest token
-bip_39_word_space_7: stone nasty caution rebuild chest token amused
-bip_39_word_space_8: stone nasty caution rebuild chest token amused security
-bip_39_word_space_9: stone nasty caution rebuild chest token amused security father
-bip_39_word_underscore_1: stone
-bip_39_word_underscore_10: stone_nasty_caution_rebuild_chest_token_amused_security_father_cereal
-bip_39_word_underscore_11: stone_nasty_caution_rebuild_chest_token_amused_security_father_cereal_identify
 bip_39_word_underscore_12: stone_nasty_caution_rebuild_chest_token_amused_security_father_cereal_identify_amused
 bip_39_word_underscore_2: stone_nasty
 bip_39_word_underscore_3: stone_nasty_caution
-bip_39_word_underscore_4: stone_nasty_caution_rebuild
-bip_39_word_underscore_5: stone_nasty_caution_rebuild_chest
-bip_39_word_underscore_6: stone_nasty_caution_rebuild_chest_token
-bip_39_word_underscore_7: stone_nasty_caution_rebuild_chest_token_amused
-bip_39_word_underscore_8: stone_nasty_caution_rebuild_chest_token_amused_security
-bip_39_word_underscore_9: stone_nasty_caution_rebuild_chest_token_amused_security_father
 classification: project
 classification_capital: Project
 classification_first_letter: p

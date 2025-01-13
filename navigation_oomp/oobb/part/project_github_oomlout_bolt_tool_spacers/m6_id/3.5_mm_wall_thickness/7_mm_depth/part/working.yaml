@@ -1,68 +1,9 @@
-bip_39_word_dash_1: east
-bip_39_word_dash_10: east-welcome-voice-prefer-mail-detail-drum-sun-soup-believe
-bip_39_word_dash_11: east-welcome-voice-prefer-mail-detail-drum-sun-soup-believe-reflect
 bip_39_word_dash_12: east-welcome-voice-prefer-mail-detail-drum-sun-soup-believe-reflect-absurd
 bip_39_word_dash_2: east-welcome
 bip_39_word_dash_3: east-welcome-voice
-bip_39_word_dash_4: east-welcome-voice-prefer
-bip_39_word_dash_5: east-welcome-voice-prefer-mail
-bip_39_word_dash_6: east-welcome-voice-prefer-mail-detail
-bip_39_word_dash_7: east-welcome-voice-prefer-mail-detail-drum
-bip_39_word_dash_8: east-welcome-voice-prefer-mail-detail-drum-sun
-bip_39_word_dash_9: east-welcome-voice-prefer-mail-detail-drum-sun-soup
-bip_39_word_new_br_1: east
-bip_39_word_new_br_10: east<br>welcome<br>voice<br>prefer<br>mail<br>detail<br>drum<br>sun<br>soup<br>believe
-bip_39_word_new_br_11: east<br>welcome<br>voice<br>prefer<br>mail<br>detail<br>drum<br>sun<br>soup<br>believe<br>reflect
 bip_39_word_new_br_12: east<br>welcome<br>voice<br>prefer<br>mail<br>detail<br>drum<br>sun<br>soup<br>believe<br>reflect<br>absurd
 bip_39_word_new_br_2: east<br>welcome
 bip_39_word_new_br_3: east<br>welcome<br>voice
-bip_39_word_new_br_4: east<br>welcome<br>voice<br>prefer
-bip_39_word_new_br_5: east<br>welcome<br>voice<br>prefer<br>mail
-bip_39_word_new_br_6: east<br>welcome<br>voice<br>prefer<br>mail<br>detail
-bip_39_word_new_br_7: east<br>welcome<br>voice<br>prefer<br>mail<br>detail<br>drum
-bip_39_word_new_br_8: east<br>welcome<br>voice<br>prefer<br>mail<br>detail<br>drum<br>sun
-bip_39_word_new_br_9: east<br>welcome<br>voice<br>prefer<br>mail<br>detail<br>drum<br>sun<br>soup
-bip_39_word_new_line_1: east
-bip_39_word_new_line_10: 'east
-
-  welcome
-
-  voice
-
-  prefer
-
-  mail
-
-  detail
-
-  drum
-
-  sun
-
-  soup
-
-  believe'
-bip_39_word_new_line_11: 'east
-
-  welcome
-
-  voice
-
-  prefer
-
-  mail
-
-  detail
-
-  drum
-
-  sun
-
-  soup
-
-  believe
-
-  reflect'
 bip_39_word_new_line_12: 'east
 
   welcome
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'east
   welcome
 
   voice'
-bip_39_word_new_line_4: 'east
-
-  welcome
-
-  voice
-
-  prefer'
-bip_39_word_new_line_5: 'east
-
-  welcome
-
-  voice
-
-  prefer
-
-  mail'
-bip_39_word_new_line_6: 'east
-
-  welcome
-
-  voice
-
-  prefer
-
-  mail
-
-  detail'
-bip_39_word_new_line_7: 'east
-
-  welcome
-
-  voice
-
-  prefer
-
-  mail
-
-  detail
-
-  drum'
-bip_39_word_new_line_8: 'east
-
-  welcome
-
-  voice
-
-  prefer
-
-  mail
-
-  detail
-
-  drum
-
-  sun'
-bip_39_word_new_line_9: 'east
-
-  welcome
-
-  voice
-
-  prefer
-
-  mail
-
-  detail
-
-  drum
-
-  sun
-
-  soup'
-bip_39_word_no_space_1: east
-bip_39_word_no_space_10: eastwelcomevoiceprefermaildetaildrumsunsoupbelieve
-bip_39_word_no_space_11: eastwelcomevoiceprefermaildetaildrumsunsoupbelievereflect
 bip_39_word_no_space_12: eastwelcomevoiceprefermaildetaildrumsunsoupbelievereflectabsurd
 bip_39_word_no_space_2: eastwelcome
 bip_39_word_no_space_3: eastwelcomevoice
-bip_39_word_no_space_4: eastwelcomevoiceprefer
-bip_39_word_no_space_5: eastwelcomevoiceprefermail
-bip_39_word_no_space_6: eastwelcomevoiceprefermaildetail
-bip_39_word_no_space_7: eastwelcomevoiceprefermaildetaildrum
-bip_39_word_no_space_8: eastwelcomevoiceprefermaildetaildrumsun
-bip_39_word_no_space_9: eastwelcomevoiceprefermaildetaildrumsunsoup
-bip_39_word_space_0:
-- east
-- welcome
-- voice
-- prefer
-- mail
-- detail
-- drum
-- sun
-- soup
-- believe
-- reflect
-- absurd
-bip_39_word_space_1: east
-bip_39_word_space_10: east welcome voice prefer mail detail drum sun soup believe
-bip_39_word_space_11: east welcome voice prefer mail detail drum sun soup believe
-  reflect
 bip_39_word_space_12: east welcome voice prefer mail detail drum sun soup believe
   reflect absurd
 bip_39_word_space_2: east welcome
 bip_39_word_space_3: east welcome voice
-bip_39_word_space_4: east welcome voice prefer
-bip_39_word_space_5: east welcome voice prefer mail
-bip_39_word_space_6: east welcome voice prefer mail detail
-bip_39_word_space_7: east welcome voice prefer mail detail drum
-bip_39_word_space_8: east welcome voice prefer mail detail drum sun
-bip_39_word_space_9: east welcome voice prefer mail detail drum sun soup
-bip_39_word_underscore_1: east
-bip_39_word_underscore_10: east_welcome_voice_prefer_mail_detail_drum_sun_soup_believe
-bip_39_word_underscore_11: east_welcome_voice_prefer_mail_detail_drum_sun_soup_believe_reflect
 bip_39_word_underscore_12: east_welcome_voice_prefer_mail_detail_drum_sun_soup_believe_reflect_absurd
 bip_39_word_underscore_2: east_welcome
 bip_39_word_underscore_3: east_welcome_voice
-bip_39_word_underscore_4: east_welcome_voice_prefer
-bip_39_word_underscore_5: east_welcome_voice_prefer_mail
-bip_39_word_underscore_6: east_welcome_voice_prefer_mail_detail
-bip_39_word_underscore_7: east_welcome_voice_prefer_mail_detail_drum
-bip_39_word_underscore_8: east_welcome_voice_prefer_mail_detail_drum_sun
-bip_39_word_underscore_9: east_welcome_voice_prefer_mail_detail_drum_sun_soup
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

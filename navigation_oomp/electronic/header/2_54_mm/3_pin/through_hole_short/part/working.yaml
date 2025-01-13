@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fence
-bip_39_word_dash_10: fence-clever-debris-stereo-artist-retreat-dawn-mass-taxi-floor
-bip_39_word_dash_11: fence-clever-debris-stereo-artist-retreat-dawn-mass-taxi-floor-lounge
 bip_39_word_dash_12: fence-clever-debris-stereo-artist-retreat-dawn-mass-taxi-floor-lounge-arrange
 bip_39_word_dash_2: fence-clever
 bip_39_word_dash_3: fence-clever-debris
-bip_39_word_dash_4: fence-clever-debris-stereo
-bip_39_word_dash_5: fence-clever-debris-stereo-artist
-bip_39_word_dash_6: fence-clever-debris-stereo-artist-retreat
-bip_39_word_dash_7: fence-clever-debris-stereo-artist-retreat-dawn
-bip_39_word_dash_8: fence-clever-debris-stereo-artist-retreat-dawn-mass
-bip_39_word_dash_9: fence-clever-debris-stereo-artist-retreat-dawn-mass-taxi
-bip_39_word_new_br_1: fence
-bip_39_word_new_br_10: fence<br>clever<br>debris<br>stereo<br>artist<br>retreat<br>dawn<br>mass<br>taxi<br>floor
-bip_39_word_new_br_11: fence<br>clever<br>debris<br>stereo<br>artist<br>retreat<br>dawn<br>mass<br>taxi<br>floor<br>lounge
 bip_39_word_new_br_12: fence<br>clever<br>debris<br>stereo<br>artist<br>retreat<br>dawn<br>mass<br>taxi<br>floor<br>lounge<br>arrange
 bip_39_word_new_br_2: fence<br>clever
 bip_39_word_new_br_3: fence<br>clever<br>debris
-bip_39_word_new_br_4: fence<br>clever<br>debris<br>stereo
-bip_39_word_new_br_5: fence<br>clever<br>debris<br>stereo<br>artist
-bip_39_word_new_br_6: fence<br>clever<br>debris<br>stereo<br>artist<br>retreat
-bip_39_word_new_br_7: fence<br>clever<br>debris<br>stereo<br>artist<br>retreat<br>dawn
-bip_39_word_new_br_8: fence<br>clever<br>debris<br>stereo<br>artist<br>retreat<br>dawn<br>mass
-bip_39_word_new_br_9: fence<br>clever<br>debris<br>stereo<br>artist<br>retreat<br>dawn<br>mass<br>taxi
-bip_39_word_new_line_1: fence
-bip_39_word_new_line_10: 'fence
-
-  clever
-
-  debris
-
-  stereo
-
-  artist
-
-  retreat
-
-  dawn
-
-  mass
-
-  taxi
-
-  floor'
-bip_39_word_new_line_11: 'fence
-
-  clever
-
-  debris
-
-  stereo
-
-  artist
-
-  retreat
-
-  dawn
-
-  mass
-
-  taxi
-
-  floor
-
-  lounge'
 bip_39_word_new_line_12: 'fence
 
   clever
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fence
   clever
 
   debris'
-bip_39_word_new_line_4: 'fence
-
-  clever
-
-  debris
-
-  stereo'
-bip_39_word_new_line_5: 'fence
-
-  clever
-
-  debris
-
-  stereo
-
-  artist'
-bip_39_word_new_line_6: 'fence
-
-  clever
-
-  debris
-
-  stereo
-
-  artist
-
-  retreat'
-bip_39_word_new_line_7: 'fence
-
-  clever
-
-  debris
-
-  stereo
-
-  artist
-
-  retreat
-
-  dawn'
-bip_39_word_new_line_8: 'fence
-
-  clever
-
-  debris
-
-  stereo
-
-  artist
-
-  retreat
-
-  dawn
-
-  mass'
-bip_39_word_new_line_9: 'fence
-
-  clever
-
-  debris
-
-  stereo
-
-  artist
-
-  retreat
-
-  dawn
-
-  mass
-
-  taxi'
-bip_39_word_no_space_1: fence
-bip_39_word_no_space_10: fencecleverdebrisstereoartistretreatdawnmasstaxifloor
-bip_39_word_no_space_11: fencecleverdebrisstereoartistretreatdawnmasstaxifloorlounge
 bip_39_word_no_space_12: fencecleverdebrisstereoartistretreatdawnmasstaxifloorloungearrange
 bip_39_word_no_space_2: fenceclever
 bip_39_word_no_space_3: fencecleverdebris
-bip_39_word_no_space_4: fencecleverdebrisstereo
-bip_39_word_no_space_5: fencecleverdebrisstereoartist
-bip_39_word_no_space_6: fencecleverdebrisstereoartistretreat
-bip_39_word_no_space_7: fencecleverdebrisstereoartistretreatdawn
-bip_39_word_no_space_8: fencecleverdebrisstereoartistretreatdawnmass
-bip_39_word_no_space_9: fencecleverdebrisstereoartistretreatdawnmasstaxi
-bip_39_word_space_0:
-- fence
-- clever
-- debris
-- stereo
-- artist
-- retreat
-- dawn
-- mass
-- taxi
-- floor
-- lounge
-- arrange
-bip_39_word_space_1: fence
-bip_39_word_space_10: fence clever debris stereo artist retreat dawn mass taxi floor
-bip_39_word_space_11: fence clever debris stereo artist retreat dawn mass taxi floor
-  lounge
 bip_39_word_space_12: fence clever debris stereo artist retreat dawn mass taxi floor
   lounge arrange
 bip_39_word_space_2: fence clever
 bip_39_word_space_3: fence clever debris
-bip_39_word_space_4: fence clever debris stereo
-bip_39_word_space_5: fence clever debris stereo artist
-bip_39_word_space_6: fence clever debris stereo artist retreat
-bip_39_word_space_7: fence clever debris stereo artist retreat dawn
-bip_39_word_space_8: fence clever debris stereo artist retreat dawn mass
-bip_39_word_space_9: fence clever debris stereo artist retreat dawn mass taxi
-bip_39_word_underscore_1: fence
-bip_39_word_underscore_10: fence_clever_debris_stereo_artist_retreat_dawn_mass_taxi_floor
-bip_39_word_underscore_11: fence_clever_debris_stereo_artist_retreat_dawn_mass_taxi_floor_lounge
 bip_39_word_underscore_12: fence_clever_debris_stereo_artist_retreat_dawn_mass_taxi_floor_lounge_arrange
 bip_39_word_underscore_2: fence_clever
 bip_39_word_underscore_3: fence_clever_debris
-bip_39_word_underscore_4: fence_clever_debris_stereo
-bip_39_word_underscore_5: fence_clever_debris_stereo_artist
-bip_39_word_underscore_6: fence_clever_debris_stereo_artist_retreat
-bip_39_word_underscore_7: fence_clever_debris_stereo_artist_retreat_dawn
-bip_39_word_underscore_8: fence_clever_debris_stereo_artist_retreat_dawn_mass
-bip_39_word_underscore_9: fence_clever_debris_stereo_artist_retreat_dawn_mass_taxi
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

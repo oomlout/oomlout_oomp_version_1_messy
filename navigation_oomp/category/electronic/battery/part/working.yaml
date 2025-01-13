@@ -1,68 +1,9 @@
-bip_39_word_dash_1: print
-bip_39_word_dash_10: print-relax-tower-taxi-host-spawn-venue-accuse-fitness-sea
-bip_39_word_dash_11: print-relax-tower-taxi-host-spawn-venue-accuse-fitness-sea-soul
 bip_39_word_dash_12: print-relax-tower-taxi-host-spawn-venue-accuse-fitness-sea-soul-assume
 bip_39_word_dash_2: print-relax
 bip_39_word_dash_3: print-relax-tower
-bip_39_word_dash_4: print-relax-tower-taxi
-bip_39_word_dash_5: print-relax-tower-taxi-host
-bip_39_word_dash_6: print-relax-tower-taxi-host-spawn
-bip_39_word_dash_7: print-relax-tower-taxi-host-spawn-venue
-bip_39_word_dash_8: print-relax-tower-taxi-host-spawn-venue-accuse
-bip_39_word_dash_9: print-relax-tower-taxi-host-spawn-venue-accuse-fitness
-bip_39_word_new_br_1: print
-bip_39_word_new_br_10: print<br>relax<br>tower<br>taxi<br>host<br>spawn<br>venue<br>accuse<br>fitness<br>sea
-bip_39_word_new_br_11: print<br>relax<br>tower<br>taxi<br>host<br>spawn<br>venue<br>accuse<br>fitness<br>sea<br>soul
 bip_39_word_new_br_12: print<br>relax<br>tower<br>taxi<br>host<br>spawn<br>venue<br>accuse<br>fitness<br>sea<br>soul<br>assume
 bip_39_word_new_br_2: print<br>relax
 bip_39_word_new_br_3: print<br>relax<br>tower
-bip_39_word_new_br_4: print<br>relax<br>tower<br>taxi
-bip_39_word_new_br_5: print<br>relax<br>tower<br>taxi<br>host
-bip_39_word_new_br_6: print<br>relax<br>tower<br>taxi<br>host<br>spawn
-bip_39_word_new_br_7: print<br>relax<br>tower<br>taxi<br>host<br>spawn<br>venue
-bip_39_word_new_br_8: print<br>relax<br>tower<br>taxi<br>host<br>spawn<br>venue<br>accuse
-bip_39_word_new_br_9: print<br>relax<br>tower<br>taxi<br>host<br>spawn<br>venue<br>accuse<br>fitness
-bip_39_word_new_line_1: print
-bip_39_word_new_line_10: 'print
-
-  relax
-
-  tower
-
-  taxi
-
-  host
-
-  spawn
-
-  venue
-
-  accuse
-
-  fitness
-
-  sea'
-bip_39_word_new_line_11: 'print
-
-  relax
-
-  tower
-
-  taxi
-
-  host
-
-  spawn
-
-  venue
-
-  accuse
-
-  fitness
-
-  sea
-
-  soul'
 bip_39_word_new_line_12: 'print
 
   relax
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'print
   relax
 
   tower'
-bip_39_word_new_line_4: 'print
-
-  relax
-
-  tower
-
-  taxi'
-bip_39_word_new_line_5: 'print
-
-  relax
-
-  tower
-
-  taxi
-
-  host'
-bip_39_word_new_line_6: 'print
-
-  relax
-
-  tower
-
-  taxi
-
-  host
-
-  spawn'
-bip_39_word_new_line_7: 'print
-
-  relax
-
-  tower
-
-  taxi
-
-  host
-
-  spawn
-
-  venue'
-bip_39_word_new_line_8: 'print
-
-  relax
-
-  tower
-
-  taxi
-
-  host
-
-  spawn
-
-  venue
-
-  accuse'
-bip_39_word_new_line_9: 'print
-
-  relax
-
-  tower
-
-  taxi
-
-  host
-
-  spawn
-
-  venue
-
-  accuse
-
-  fitness'
-bip_39_word_no_space_1: print
-bip_39_word_no_space_10: printrelaxtowertaxihostspawnvenueaccusefitnesssea
-bip_39_word_no_space_11: printrelaxtowertaxihostspawnvenueaccusefitnessseasoul
 bip_39_word_no_space_12: printrelaxtowertaxihostspawnvenueaccusefitnessseasoulassume
 bip_39_word_no_space_2: printrelax
 bip_39_word_no_space_3: printrelaxtower
-bip_39_word_no_space_4: printrelaxtowertaxi
-bip_39_word_no_space_5: printrelaxtowertaxihost
-bip_39_word_no_space_6: printrelaxtowertaxihostspawn
-bip_39_word_no_space_7: printrelaxtowertaxihostspawnvenue
-bip_39_word_no_space_8: printrelaxtowertaxihostspawnvenueaccuse
-bip_39_word_no_space_9: printrelaxtowertaxihostspawnvenueaccusefitness
-bip_39_word_space_0:
-- print
-- relax
-- tower
-- taxi
-- host
-- spawn
-- venue
-- accuse
-- fitness
-- sea
-- soul
-- assume
-bip_39_word_space_1: print
-bip_39_word_space_10: print relax tower taxi host spawn venue accuse fitness sea
-bip_39_word_space_11: print relax tower taxi host spawn venue accuse fitness sea soul
 bip_39_word_space_12: print relax tower taxi host spawn venue accuse fitness sea soul
   assume
 bip_39_word_space_2: print relax
 bip_39_word_space_3: print relax tower
-bip_39_word_space_4: print relax tower taxi
-bip_39_word_space_5: print relax tower taxi host
-bip_39_word_space_6: print relax tower taxi host spawn
-bip_39_word_space_7: print relax tower taxi host spawn venue
-bip_39_word_space_8: print relax tower taxi host spawn venue accuse
-bip_39_word_space_9: print relax tower taxi host spawn venue accuse fitness
-bip_39_word_underscore_1: print
-bip_39_word_underscore_10: print_relax_tower_taxi_host_spawn_venue_accuse_fitness_sea
-bip_39_word_underscore_11: print_relax_tower_taxi_host_spawn_venue_accuse_fitness_sea_soul
 bip_39_word_underscore_12: print_relax_tower_taxi_host_spawn_venue_accuse_fitness_sea_soul_assume
 bip_39_word_underscore_2: print_relax
 bip_39_word_underscore_3: print_relax_tower
-bip_39_word_underscore_4: print_relax_tower_taxi
-bip_39_word_underscore_5: print_relax_tower_taxi_host
-bip_39_word_underscore_6: print_relax_tower_taxi_host_spawn
-bip_39_word_underscore_7: print_relax_tower_taxi_host_spawn_venue
-bip_39_word_underscore_8: print_relax_tower_taxi_host_spawn_venue_accuse
-bip_39_word_underscore_9: print_relax_tower_taxi_host_spawn_venue_accuse_fitness
 classification: category
 classification_capital: Category
 classification_first_letter: c

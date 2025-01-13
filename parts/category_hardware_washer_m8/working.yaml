@@ -1,68 +1,9 @@
-bip_39_word_dash_1: level
-bip_39_word_dash_10: level-depth-remove-yellow-duck-stock-melt-tube-double-bind
-bip_39_word_dash_11: level-depth-remove-yellow-duck-stock-melt-tube-double-bind-begin
 bip_39_word_dash_12: level-depth-remove-yellow-duck-stock-melt-tube-double-bind-begin-angry
 bip_39_word_dash_2: level-depth
 bip_39_word_dash_3: level-depth-remove
-bip_39_word_dash_4: level-depth-remove-yellow
-bip_39_word_dash_5: level-depth-remove-yellow-duck
-bip_39_word_dash_6: level-depth-remove-yellow-duck-stock
-bip_39_word_dash_7: level-depth-remove-yellow-duck-stock-melt
-bip_39_word_dash_8: level-depth-remove-yellow-duck-stock-melt-tube
-bip_39_word_dash_9: level-depth-remove-yellow-duck-stock-melt-tube-double
-bip_39_word_new_br_1: level
-bip_39_word_new_br_10: level<br>depth<br>remove<br>yellow<br>duck<br>stock<br>melt<br>tube<br>double<br>bind
-bip_39_word_new_br_11: level<br>depth<br>remove<br>yellow<br>duck<br>stock<br>melt<br>tube<br>double<br>bind<br>begin
 bip_39_word_new_br_12: level<br>depth<br>remove<br>yellow<br>duck<br>stock<br>melt<br>tube<br>double<br>bind<br>begin<br>angry
 bip_39_word_new_br_2: level<br>depth
 bip_39_word_new_br_3: level<br>depth<br>remove
-bip_39_word_new_br_4: level<br>depth<br>remove<br>yellow
-bip_39_word_new_br_5: level<br>depth<br>remove<br>yellow<br>duck
-bip_39_word_new_br_6: level<br>depth<br>remove<br>yellow<br>duck<br>stock
-bip_39_word_new_br_7: level<br>depth<br>remove<br>yellow<br>duck<br>stock<br>melt
-bip_39_word_new_br_8: level<br>depth<br>remove<br>yellow<br>duck<br>stock<br>melt<br>tube
-bip_39_word_new_br_9: level<br>depth<br>remove<br>yellow<br>duck<br>stock<br>melt<br>tube<br>double
-bip_39_word_new_line_1: level
-bip_39_word_new_line_10: 'level
-
-  depth
-
-  remove
-
-  yellow
-
-  duck
-
-  stock
-
-  melt
-
-  tube
-
-  double
-
-  bind'
-bip_39_word_new_line_11: 'level
-
-  depth
-
-  remove
-
-  yellow
-
-  duck
-
-  stock
-
-  melt
-
-  tube
-
-  double
-
-  bind
-
-  begin'
 bip_39_word_new_line_12: 'level
 
   depth
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'level
   depth
 
   remove'
-bip_39_word_new_line_4: 'level
-
-  depth
-
-  remove
-
-  yellow'
-bip_39_word_new_line_5: 'level
-
-  depth
-
-  remove
-
-  yellow
-
-  duck'
-bip_39_word_new_line_6: 'level
-
-  depth
-
-  remove
-
-  yellow
-
-  duck
-
-  stock'
-bip_39_word_new_line_7: 'level
-
-  depth
-
-  remove
-
-  yellow
-
-  duck
-
-  stock
-
-  melt'
-bip_39_word_new_line_8: 'level
-
-  depth
-
-  remove
-
-  yellow
-
-  duck
-
-  stock
-
-  melt
-
-  tube'
-bip_39_word_new_line_9: 'level
-
-  depth
-
-  remove
-
-  yellow
-
-  duck
-
-  stock
-
-  melt
-
-  tube
-
-  double'
-bip_39_word_no_space_1: level
-bip_39_word_no_space_10: leveldepthremoveyellowduckstockmelttubedoublebind
-bip_39_word_no_space_11: leveldepthremoveyellowduckstockmelttubedoublebindbegin
 bip_39_word_no_space_12: leveldepthremoveyellowduckstockmelttubedoublebindbeginangry
 bip_39_word_no_space_2: leveldepth
 bip_39_word_no_space_3: leveldepthremove
-bip_39_word_no_space_4: leveldepthremoveyellow
-bip_39_word_no_space_5: leveldepthremoveyellowduck
-bip_39_word_no_space_6: leveldepthremoveyellowduckstock
-bip_39_word_no_space_7: leveldepthremoveyellowduckstockmelt
-bip_39_word_no_space_8: leveldepthremoveyellowduckstockmelttube
-bip_39_word_no_space_9: leveldepthremoveyellowduckstockmelttubedouble
-bip_39_word_space_0:
-- level
-- depth
-- remove
-- yellow
-- duck
-- stock
-- melt
-- tube
-- double
-- bind
-- begin
-- angry
-bip_39_word_space_1: level
-bip_39_word_space_10: level depth remove yellow duck stock melt tube double bind
-bip_39_word_space_11: level depth remove yellow duck stock melt tube double bind begin
 bip_39_word_space_12: level depth remove yellow duck stock melt tube double bind begin
   angry
 bip_39_word_space_2: level depth
 bip_39_word_space_3: level depth remove
-bip_39_word_space_4: level depth remove yellow
-bip_39_word_space_5: level depth remove yellow duck
-bip_39_word_space_6: level depth remove yellow duck stock
-bip_39_word_space_7: level depth remove yellow duck stock melt
-bip_39_word_space_8: level depth remove yellow duck stock melt tube
-bip_39_word_space_9: level depth remove yellow duck stock melt tube double
-bip_39_word_underscore_1: level
-bip_39_word_underscore_10: level_depth_remove_yellow_duck_stock_melt_tube_double_bind
-bip_39_word_underscore_11: level_depth_remove_yellow_duck_stock_melt_tube_double_bind_begin
 bip_39_word_underscore_12: level_depth_remove_yellow_duck_stock_melt_tube_double_bind_begin_angry
 bip_39_word_underscore_2: level_depth
 bip_39_word_underscore_3: level_depth_remove
-bip_39_word_underscore_4: level_depth_remove_yellow
-bip_39_word_underscore_5: level_depth_remove_yellow_duck
-bip_39_word_underscore_6: level_depth_remove_yellow_duck_stock
-bip_39_word_underscore_7: level_depth_remove_yellow_duck_stock_melt
-bip_39_word_underscore_8: level_depth_remove_yellow_duck_stock_melt_tube
-bip_39_word_underscore_9: level_depth_remove_yellow_duck_stock_melt_tube_double
 classification: category
 classification_capital: Category
 classification_first_letter: c

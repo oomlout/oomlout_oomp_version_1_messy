@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cheap
-bip_39_word_dash_10: cheap-garbage-base-uniform-width-crew-custom-giggle-seat-express
-bip_39_word_dash_11: cheap-garbage-base-uniform-width-crew-custom-giggle-seat-express-throw
 bip_39_word_dash_12: cheap-garbage-base-uniform-width-crew-custom-giggle-seat-express-throw-aisle
 bip_39_word_dash_2: cheap-garbage
 bip_39_word_dash_3: cheap-garbage-base
-bip_39_word_dash_4: cheap-garbage-base-uniform
-bip_39_word_dash_5: cheap-garbage-base-uniform-width
-bip_39_word_dash_6: cheap-garbage-base-uniform-width-crew
-bip_39_word_dash_7: cheap-garbage-base-uniform-width-crew-custom
-bip_39_word_dash_8: cheap-garbage-base-uniform-width-crew-custom-giggle
-bip_39_word_dash_9: cheap-garbage-base-uniform-width-crew-custom-giggle-seat
-bip_39_word_new_br_1: cheap
-bip_39_word_new_br_10: cheap<br>garbage<br>base<br>uniform<br>width<br>crew<br>custom<br>giggle<br>seat<br>express
-bip_39_word_new_br_11: cheap<br>garbage<br>base<br>uniform<br>width<br>crew<br>custom<br>giggle<br>seat<br>express<br>throw
 bip_39_word_new_br_12: cheap<br>garbage<br>base<br>uniform<br>width<br>crew<br>custom<br>giggle<br>seat<br>express<br>throw<br>aisle
 bip_39_word_new_br_2: cheap<br>garbage
 bip_39_word_new_br_3: cheap<br>garbage<br>base
-bip_39_word_new_br_4: cheap<br>garbage<br>base<br>uniform
-bip_39_word_new_br_5: cheap<br>garbage<br>base<br>uniform<br>width
-bip_39_word_new_br_6: cheap<br>garbage<br>base<br>uniform<br>width<br>crew
-bip_39_word_new_br_7: cheap<br>garbage<br>base<br>uniform<br>width<br>crew<br>custom
-bip_39_word_new_br_8: cheap<br>garbage<br>base<br>uniform<br>width<br>crew<br>custom<br>giggle
-bip_39_word_new_br_9: cheap<br>garbage<br>base<br>uniform<br>width<br>crew<br>custom<br>giggle<br>seat
-bip_39_word_new_line_1: cheap
-bip_39_word_new_line_10: 'cheap
-
-  garbage
-
-  base
-
-  uniform
-
-  width
-
-  crew
-
-  custom
-
-  giggle
-
-  seat
-
-  express'
-bip_39_word_new_line_11: 'cheap
-
-  garbage
-
-  base
-
-  uniform
-
-  width
-
-  crew
-
-  custom
-
-  giggle
-
-  seat
-
-  express
-
-  throw'
 bip_39_word_new_line_12: 'cheap
 
   garbage
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cheap
   garbage
 
   base'
-bip_39_word_new_line_4: 'cheap
-
-  garbage
-
-  base
-
-  uniform'
-bip_39_word_new_line_5: 'cheap
-
-  garbage
-
-  base
-
-  uniform
-
-  width'
-bip_39_word_new_line_6: 'cheap
-
-  garbage
-
-  base
-
-  uniform
-
-  width
-
-  crew'
-bip_39_word_new_line_7: 'cheap
-
-  garbage
-
-  base
-
-  uniform
-
-  width
-
-  crew
-
-  custom'
-bip_39_word_new_line_8: 'cheap
-
-  garbage
-
-  base
-
-  uniform
-
-  width
-
-  crew
-
-  custom
-
-  giggle'
-bip_39_word_new_line_9: 'cheap
-
-  garbage
-
-  base
-
-  uniform
-
-  width
-
-  crew
-
-  custom
-
-  giggle
-
-  seat'
-bip_39_word_no_space_1: cheap
-bip_39_word_no_space_10: cheapgarbagebaseuniformwidthcrewcustomgiggleseatexpress
-bip_39_word_no_space_11: cheapgarbagebaseuniformwidthcrewcustomgiggleseatexpressthrow
 bip_39_word_no_space_12: cheapgarbagebaseuniformwidthcrewcustomgiggleseatexpressthrowaisle
 bip_39_word_no_space_2: cheapgarbage
 bip_39_word_no_space_3: cheapgarbagebase
-bip_39_word_no_space_4: cheapgarbagebaseuniform
-bip_39_word_no_space_5: cheapgarbagebaseuniformwidth
-bip_39_word_no_space_6: cheapgarbagebaseuniformwidthcrew
-bip_39_word_no_space_7: cheapgarbagebaseuniformwidthcrewcustom
-bip_39_word_no_space_8: cheapgarbagebaseuniformwidthcrewcustomgiggle
-bip_39_word_no_space_9: cheapgarbagebaseuniformwidthcrewcustomgiggleseat
-bip_39_word_space_0:
-- cheap
-- garbage
-- base
-- uniform
-- width
-- crew
-- custom
-- giggle
-- seat
-- express
-- throw
-- aisle
-bip_39_word_space_1: cheap
-bip_39_word_space_10: cheap garbage base uniform width crew custom giggle seat express
-bip_39_word_space_11: cheap garbage base uniform width crew custom giggle seat express
-  throw
 bip_39_word_space_12: cheap garbage base uniform width crew custom giggle seat express
   throw aisle
 bip_39_word_space_2: cheap garbage
 bip_39_word_space_3: cheap garbage base
-bip_39_word_space_4: cheap garbage base uniform
-bip_39_word_space_5: cheap garbage base uniform width
-bip_39_word_space_6: cheap garbage base uniform width crew
-bip_39_word_space_7: cheap garbage base uniform width crew custom
-bip_39_word_space_8: cheap garbage base uniform width crew custom giggle
-bip_39_word_space_9: cheap garbage base uniform width crew custom giggle seat
-bip_39_word_underscore_1: cheap
-bip_39_word_underscore_10: cheap_garbage_base_uniform_width_crew_custom_giggle_seat_express
-bip_39_word_underscore_11: cheap_garbage_base_uniform_width_crew_custom_giggle_seat_express_throw
 bip_39_word_underscore_12: cheap_garbage_base_uniform_width_crew_custom_giggle_seat_express_throw_aisle
 bip_39_word_underscore_2: cheap_garbage
 bip_39_word_underscore_3: cheap_garbage_base
-bip_39_word_underscore_4: cheap_garbage_base_uniform
-bip_39_word_underscore_5: cheap_garbage_base_uniform_width
-bip_39_word_underscore_6: cheap_garbage_base_uniform_width_crew
-bip_39_word_underscore_7: cheap_garbage_base_uniform_width_crew_custom
-bip_39_word_underscore_8: cheap_garbage_base_uniform_width_crew_custom_giggle
-bip_39_word_underscore_9: cheap_garbage_base_uniform_width_crew_custom_giggle_seat
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

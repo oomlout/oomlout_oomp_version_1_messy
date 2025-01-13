@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cash
-bip_39_word_dash_10: cash-peanut-school-orphan-what-beef-range-pave-model-kangaroo
-bip_39_word_dash_11: cash-peanut-school-orphan-what-beef-range-pave-model-kangaroo-solid
 bip_39_word_dash_12: cash-peanut-school-orphan-what-beef-range-pave-model-kangaroo-solid-angry
 bip_39_word_dash_2: cash-peanut
 bip_39_word_dash_3: cash-peanut-school
-bip_39_word_dash_4: cash-peanut-school-orphan
-bip_39_word_dash_5: cash-peanut-school-orphan-what
-bip_39_word_dash_6: cash-peanut-school-orphan-what-beef
-bip_39_word_dash_7: cash-peanut-school-orphan-what-beef-range
-bip_39_word_dash_8: cash-peanut-school-orphan-what-beef-range-pave
-bip_39_word_dash_9: cash-peanut-school-orphan-what-beef-range-pave-model
-bip_39_word_new_br_1: cash
-bip_39_word_new_br_10: cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model<br>kangaroo
-bip_39_word_new_br_11: cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model<br>kangaroo<br>solid
 bip_39_word_new_br_12: cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model<br>kangaroo<br>solid<br>angry
 bip_39_word_new_br_2: cash<br>peanut
 bip_39_word_new_br_3: cash<br>peanut<br>school
-bip_39_word_new_br_4: cash<br>peanut<br>school<br>orphan
-bip_39_word_new_br_5: cash<br>peanut<br>school<br>orphan<br>what
-bip_39_word_new_br_6: cash<br>peanut<br>school<br>orphan<br>what<br>beef
-bip_39_word_new_br_7: cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range
-bip_39_word_new_br_8: cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave
-bip_39_word_new_br_9: cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model
-bip_39_word_new_line_1: cash
-bip_39_word_new_line_10: 'cash
-
-  peanut
-
-  school
-
-  orphan
-
-  what
-
-  beef
-
-  range
-
-  pave
-
-  model
-
-  kangaroo'
-bip_39_word_new_line_11: 'cash
-
-  peanut
-
-  school
-
-  orphan
-
-  what
-
-  beef
-
-  range
-
-  pave
-
-  model
-
-  kangaroo
-
-  solid'
 bip_39_word_new_line_12: 'cash
 
   peanut
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cash
   peanut
 
   school'
-bip_39_word_new_line_4: 'cash
-
-  peanut
-
-  school
-
-  orphan'
-bip_39_word_new_line_5: 'cash
-
-  peanut
-
-  school
-
-  orphan
-
-  what'
-bip_39_word_new_line_6: 'cash
-
-  peanut
-
-  school
-
-  orphan
-
-  what
-
-  beef'
-bip_39_word_new_line_7: 'cash
-
-  peanut
-
-  school
-
-  orphan
-
-  what
-
-  beef
-
-  range'
-bip_39_word_new_line_8: 'cash
-
-  peanut
-
-  school
-
-  orphan
-
-  what
-
-  beef
-
-  range
-
-  pave'
-bip_39_word_new_line_9: 'cash
-
-  peanut
-
-  school
-
-  orphan
-
-  what
-
-  beef
-
-  range
-
-  pave
-
-  model'
-bip_39_word_no_space_1: cash
-bip_39_word_no_space_10: cashpeanutschoolorphanwhatbeefrangepavemodelkangaroo
-bip_39_word_no_space_11: cashpeanutschoolorphanwhatbeefrangepavemodelkangaroosolid
 bip_39_word_no_space_12: cashpeanutschoolorphanwhatbeefrangepavemodelkangaroosolidangry
 bip_39_word_no_space_2: cashpeanut
 bip_39_word_no_space_3: cashpeanutschool
-bip_39_word_no_space_4: cashpeanutschoolorphan
-bip_39_word_no_space_5: cashpeanutschoolorphanwhat
-bip_39_word_no_space_6: cashpeanutschoolorphanwhatbeef
-bip_39_word_no_space_7: cashpeanutschoolorphanwhatbeefrange
-bip_39_word_no_space_8: cashpeanutschoolorphanwhatbeefrangepave
-bip_39_word_no_space_9: cashpeanutschoolorphanwhatbeefrangepavemodel
-bip_39_word_space_0:
-- cash
-- peanut
-- school
-- orphan
-- what
-- beef
-- range
-- pave
-- model
-- kangaroo
-- solid
-- angry
-bip_39_word_space_1: cash
-bip_39_word_space_10: cash peanut school orphan what beef range pave model kangaroo
-bip_39_word_space_11: cash peanut school orphan what beef range pave model kangaroo
-  solid
 bip_39_word_space_12: cash peanut school orphan what beef range pave model kangaroo
   solid angry
 bip_39_word_space_2: cash peanut
 bip_39_word_space_3: cash peanut school
-bip_39_word_space_4: cash peanut school orphan
-bip_39_word_space_5: cash peanut school orphan what
-bip_39_word_space_6: cash peanut school orphan what beef
-bip_39_word_space_7: cash peanut school orphan what beef range
-bip_39_word_space_8: cash peanut school orphan what beef range pave
-bip_39_word_space_9: cash peanut school orphan what beef range pave model
-bip_39_word_underscore_1: cash
-bip_39_word_underscore_10: cash_peanut_school_orphan_what_beef_range_pave_model_kangaroo
-bip_39_word_underscore_11: cash_peanut_school_orphan_what_beef_range_pave_model_kangaroo_solid
 bip_39_word_underscore_12: cash_peanut_school_orphan_what_beef_range_pave_model_kangaroo_solid_angry
 bip_39_word_underscore_2: cash_peanut
 bip_39_word_underscore_3: cash_peanut_school
-bip_39_word_underscore_4: cash_peanut_school_orphan
-bip_39_word_underscore_5: cash_peanut_school_orphan_what
-bip_39_word_underscore_6: cash_peanut_school_orphan_what_beef
-bip_39_word_underscore_7: cash_peanut_school_orphan_what_beef_range
-bip_39_word_underscore_8: cash_peanut_school_orphan_what_beef_range_pave
-bip_39_word_underscore_9: cash_peanut_school_orphan_what_beef_range_pave_model
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

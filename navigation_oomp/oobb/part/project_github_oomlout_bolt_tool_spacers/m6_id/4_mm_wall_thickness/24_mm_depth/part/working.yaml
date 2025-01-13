@@ -1,68 +1,9 @@
-bip_39_word_dash_1: maze
-bip_39_word_dash_10: maze-major-tomorrow-alarm-finish-whale-clap-cannon-select-uncover
-bip_39_word_dash_11: maze-major-tomorrow-alarm-finish-whale-clap-cannon-select-uncover-expect
 bip_39_word_dash_12: maze-major-tomorrow-alarm-finish-whale-clap-cannon-select-uncover-expect-afford
 bip_39_word_dash_2: maze-major
 bip_39_word_dash_3: maze-major-tomorrow
-bip_39_word_dash_4: maze-major-tomorrow-alarm
-bip_39_word_dash_5: maze-major-tomorrow-alarm-finish
-bip_39_word_dash_6: maze-major-tomorrow-alarm-finish-whale
-bip_39_word_dash_7: maze-major-tomorrow-alarm-finish-whale-clap
-bip_39_word_dash_8: maze-major-tomorrow-alarm-finish-whale-clap-cannon
-bip_39_word_dash_9: maze-major-tomorrow-alarm-finish-whale-clap-cannon-select
-bip_39_word_new_br_1: maze
-bip_39_word_new_br_10: maze<br>major<br>tomorrow<br>alarm<br>finish<br>whale<br>clap<br>cannon<br>select<br>uncover
-bip_39_word_new_br_11: maze<br>major<br>tomorrow<br>alarm<br>finish<br>whale<br>clap<br>cannon<br>select<br>uncover<br>expect
 bip_39_word_new_br_12: maze<br>major<br>tomorrow<br>alarm<br>finish<br>whale<br>clap<br>cannon<br>select<br>uncover<br>expect<br>afford
 bip_39_word_new_br_2: maze<br>major
 bip_39_word_new_br_3: maze<br>major<br>tomorrow
-bip_39_word_new_br_4: maze<br>major<br>tomorrow<br>alarm
-bip_39_word_new_br_5: maze<br>major<br>tomorrow<br>alarm<br>finish
-bip_39_word_new_br_6: maze<br>major<br>tomorrow<br>alarm<br>finish<br>whale
-bip_39_word_new_br_7: maze<br>major<br>tomorrow<br>alarm<br>finish<br>whale<br>clap
-bip_39_word_new_br_8: maze<br>major<br>tomorrow<br>alarm<br>finish<br>whale<br>clap<br>cannon
-bip_39_word_new_br_9: maze<br>major<br>tomorrow<br>alarm<br>finish<br>whale<br>clap<br>cannon<br>select
-bip_39_word_new_line_1: maze
-bip_39_word_new_line_10: 'maze
-
-  major
-
-  tomorrow
-
-  alarm
-
-  finish
-
-  whale
-
-  clap
-
-  cannon
-
-  select
-
-  uncover'
-bip_39_word_new_line_11: 'maze
-
-  major
-
-  tomorrow
-
-  alarm
-
-  finish
-
-  whale
-
-  clap
-
-  cannon
-
-  select
-
-  uncover
-
-  expect'
 bip_39_word_new_line_12: 'maze
 
   major
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'maze
   major
 
   tomorrow'
-bip_39_word_new_line_4: 'maze
-
-  major
-
-  tomorrow
-
-  alarm'
-bip_39_word_new_line_5: 'maze
-
-  major
-
-  tomorrow
-
-  alarm
-
-  finish'
-bip_39_word_new_line_6: 'maze
-
-  major
-
-  tomorrow
-
-  alarm
-
-  finish
-
-  whale'
-bip_39_word_new_line_7: 'maze
-
-  major
-
-  tomorrow
-
-  alarm
-
-  finish
-
-  whale
-
-  clap'
-bip_39_word_new_line_8: 'maze
-
-  major
-
-  tomorrow
-
-  alarm
-
-  finish
-
-  whale
-
-  clap
-
-  cannon'
-bip_39_word_new_line_9: 'maze
-
-  major
-
-  tomorrow
-
-  alarm
-
-  finish
-
-  whale
-
-  clap
-
-  cannon
-
-  select'
-bip_39_word_no_space_1: maze
-bip_39_word_no_space_10: mazemajortomorrowalarmfinishwhaleclapcannonselectuncover
-bip_39_word_no_space_11: mazemajortomorrowalarmfinishwhaleclapcannonselectuncoverexpect
 bip_39_word_no_space_12: mazemajortomorrowalarmfinishwhaleclapcannonselectuncoverexpectafford
 bip_39_word_no_space_2: mazemajor
 bip_39_word_no_space_3: mazemajortomorrow
-bip_39_word_no_space_4: mazemajortomorrowalarm
-bip_39_word_no_space_5: mazemajortomorrowalarmfinish
-bip_39_word_no_space_6: mazemajortomorrowalarmfinishwhale
-bip_39_word_no_space_7: mazemajortomorrowalarmfinishwhaleclap
-bip_39_word_no_space_8: mazemajortomorrowalarmfinishwhaleclapcannon
-bip_39_word_no_space_9: mazemajortomorrowalarmfinishwhaleclapcannonselect
-bip_39_word_space_0:
-- maze
-- major
-- tomorrow
-- alarm
-- finish
-- whale
-- clap
-- cannon
-- select
-- uncover
-- expect
-- afford
-bip_39_word_space_1: maze
-bip_39_word_space_10: maze major tomorrow alarm finish whale clap cannon select uncover
-bip_39_word_space_11: maze major tomorrow alarm finish whale clap cannon select uncover
-  expect
 bip_39_word_space_12: maze major tomorrow alarm finish whale clap cannon select uncover
   expect afford
 bip_39_word_space_2: maze major
 bip_39_word_space_3: maze major tomorrow
-bip_39_word_space_4: maze major tomorrow alarm
-bip_39_word_space_5: maze major tomorrow alarm finish
-bip_39_word_space_6: maze major tomorrow alarm finish whale
-bip_39_word_space_7: maze major tomorrow alarm finish whale clap
-bip_39_word_space_8: maze major tomorrow alarm finish whale clap cannon
-bip_39_word_space_9: maze major tomorrow alarm finish whale clap cannon select
-bip_39_word_underscore_1: maze
-bip_39_word_underscore_10: maze_major_tomorrow_alarm_finish_whale_clap_cannon_select_uncover
-bip_39_word_underscore_11: maze_major_tomorrow_alarm_finish_whale_clap_cannon_select_uncover_expect
 bip_39_word_underscore_12: maze_major_tomorrow_alarm_finish_whale_clap_cannon_select_uncover_expect_afford
 bip_39_word_underscore_2: maze_major
 bip_39_word_underscore_3: maze_major_tomorrow
-bip_39_word_underscore_4: maze_major_tomorrow_alarm
-bip_39_word_underscore_5: maze_major_tomorrow_alarm_finish
-bip_39_word_underscore_6: maze_major_tomorrow_alarm_finish_whale
-bip_39_word_underscore_7: maze_major_tomorrow_alarm_finish_whale_clap
-bip_39_word_underscore_8: maze_major_tomorrow_alarm_finish_whale_clap_cannon
-bip_39_word_underscore_9: maze_major_tomorrow_alarm_finish_whale_clap_cannon_select
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

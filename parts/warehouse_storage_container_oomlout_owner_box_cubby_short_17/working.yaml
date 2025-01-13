@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hybrid
-bip_39_word_dash_10: hybrid-goat-vocal-pen-wagon-vault-rival-grief-fish-boil
-bip_39_word_dash_11: hybrid-goat-vocal-pen-wagon-vault-rival-grief-fish-boil-evil
 bip_39_word_dash_12: hybrid-goat-vocal-pen-wagon-vault-rival-grief-fish-boil-evil-artist
 bip_39_word_dash_2: hybrid-goat
 bip_39_word_dash_3: hybrid-goat-vocal
-bip_39_word_dash_4: hybrid-goat-vocal-pen
-bip_39_word_dash_5: hybrid-goat-vocal-pen-wagon
-bip_39_word_dash_6: hybrid-goat-vocal-pen-wagon-vault
-bip_39_word_dash_7: hybrid-goat-vocal-pen-wagon-vault-rival
-bip_39_word_dash_8: hybrid-goat-vocal-pen-wagon-vault-rival-grief
-bip_39_word_dash_9: hybrid-goat-vocal-pen-wagon-vault-rival-grief-fish
-bip_39_word_new_br_1: hybrid
-bip_39_word_new_br_10: hybrid<br>goat<br>vocal<br>pen<br>wagon<br>vault<br>rival<br>grief<br>fish<br>boil
-bip_39_word_new_br_11: hybrid<br>goat<br>vocal<br>pen<br>wagon<br>vault<br>rival<br>grief<br>fish<br>boil<br>evil
 bip_39_word_new_br_12: hybrid<br>goat<br>vocal<br>pen<br>wagon<br>vault<br>rival<br>grief<br>fish<br>boil<br>evil<br>artist
 bip_39_word_new_br_2: hybrid<br>goat
 bip_39_word_new_br_3: hybrid<br>goat<br>vocal
-bip_39_word_new_br_4: hybrid<br>goat<br>vocal<br>pen
-bip_39_word_new_br_5: hybrid<br>goat<br>vocal<br>pen<br>wagon
-bip_39_word_new_br_6: hybrid<br>goat<br>vocal<br>pen<br>wagon<br>vault
-bip_39_word_new_br_7: hybrid<br>goat<br>vocal<br>pen<br>wagon<br>vault<br>rival
-bip_39_word_new_br_8: hybrid<br>goat<br>vocal<br>pen<br>wagon<br>vault<br>rival<br>grief
-bip_39_word_new_br_9: hybrid<br>goat<br>vocal<br>pen<br>wagon<br>vault<br>rival<br>grief<br>fish
-bip_39_word_new_line_1: hybrid
-bip_39_word_new_line_10: 'hybrid
-
-  goat
-
-  vocal
-
-  pen
-
-  wagon
-
-  vault
-
-  rival
-
-  grief
-
-  fish
-
-  boil'
-bip_39_word_new_line_11: 'hybrid
-
-  goat
-
-  vocal
-
-  pen
-
-  wagon
-
-  vault
-
-  rival
-
-  grief
-
-  fish
-
-  boil
-
-  evil'
 bip_39_word_new_line_12: 'hybrid
 
   goat
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'hybrid
   goat
 
   vocal'
-bip_39_word_new_line_4: 'hybrid
-
-  goat
-
-  vocal
-
-  pen'
-bip_39_word_new_line_5: 'hybrid
-
-  goat
-
-  vocal
-
-  pen
-
-  wagon'
-bip_39_word_new_line_6: 'hybrid
-
-  goat
-
-  vocal
-
-  pen
-
-  wagon
-
-  vault'
-bip_39_word_new_line_7: 'hybrid
-
-  goat
-
-  vocal
-
-  pen
-
-  wagon
-
-  vault
-
-  rival'
-bip_39_word_new_line_8: 'hybrid
-
-  goat
-
-  vocal
-
-  pen
-
-  wagon
-
-  vault
-
-  rival
-
-  grief'
-bip_39_word_new_line_9: 'hybrid
-
-  goat
-
-  vocal
-
-  pen
-
-  wagon
-
-  vault
-
-  rival
-
-  grief
-
-  fish'
-bip_39_word_no_space_1: hybrid
-bip_39_word_no_space_10: hybridgoatvocalpenwagonvaultrivalgrieffishboil
-bip_39_word_no_space_11: hybridgoatvocalpenwagonvaultrivalgrieffishboilevil
 bip_39_word_no_space_12: hybridgoatvocalpenwagonvaultrivalgrieffishboilevilartist
 bip_39_word_no_space_2: hybridgoat
 bip_39_word_no_space_3: hybridgoatvocal
-bip_39_word_no_space_4: hybridgoatvocalpen
-bip_39_word_no_space_5: hybridgoatvocalpenwagon
-bip_39_word_no_space_6: hybridgoatvocalpenwagonvault
-bip_39_word_no_space_7: hybridgoatvocalpenwagonvaultrival
-bip_39_word_no_space_8: hybridgoatvocalpenwagonvaultrivalgrief
-bip_39_word_no_space_9: hybridgoatvocalpenwagonvaultrivalgrieffish
-bip_39_word_space_0:
-- hybrid
-- goat
-- vocal
-- pen
-- wagon
-- vault
-- rival
-- grief
-- fish
-- boil
-- evil
-- artist
-bip_39_word_space_1: hybrid
-bip_39_word_space_10: hybrid goat vocal pen wagon vault rival grief fish boil
-bip_39_word_space_11: hybrid goat vocal pen wagon vault rival grief fish boil evil
 bip_39_word_space_12: hybrid goat vocal pen wagon vault rival grief fish boil evil
   artist
 bip_39_word_space_2: hybrid goat
 bip_39_word_space_3: hybrid goat vocal
-bip_39_word_space_4: hybrid goat vocal pen
-bip_39_word_space_5: hybrid goat vocal pen wagon
-bip_39_word_space_6: hybrid goat vocal pen wagon vault
-bip_39_word_space_7: hybrid goat vocal pen wagon vault rival
-bip_39_word_space_8: hybrid goat vocal pen wagon vault rival grief
-bip_39_word_space_9: hybrid goat vocal pen wagon vault rival grief fish
-bip_39_word_underscore_1: hybrid
-bip_39_word_underscore_10: hybrid_goat_vocal_pen_wagon_vault_rival_grief_fish_boil
-bip_39_word_underscore_11: hybrid_goat_vocal_pen_wagon_vault_rival_grief_fish_boil_evil
 bip_39_word_underscore_12: hybrid_goat_vocal_pen_wagon_vault_rival_grief_fish_boil_evil_artist
 bip_39_word_underscore_2: hybrid_goat
 bip_39_word_underscore_3: hybrid_goat_vocal
-bip_39_word_underscore_4: hybrid_goat_vocal_pen
-bip_39_word_underscore_5: hybrid_goat_vocal_pen_wagon
-bip_39_word_underscore_6: hybrid_goat_vocal_pen_wagon_vault
-bip_39_word_underscore_7: hybrid_goat_vocal_pen_wagon_vault_rival
-bip_39_word_underscore_8: hybrid_goat_vocal_pen_wagon_vault_rival_grief
-bip_39_word_underscore_9: hybrid_goat_vocal_pen_wagon_vault_rival_grief_fish
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

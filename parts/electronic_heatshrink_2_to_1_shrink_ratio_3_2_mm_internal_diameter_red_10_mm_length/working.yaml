@@ -1,68 +1,9 @@
-bip_39_word_dash_1: name
-bip_39_word_dash_10: name-purse-couch-crazy-blade-bronze-hour-object-salute-patient
-bip_39_word_dash_11: name-purse-couch-crazy-blade-bronze-hour-object-salute-patient-annual
 bip_39_word_dash_12: name-purse-couch-crazy-blade-bronze-hour-object-salute-patient-annual-any
 bip_39_word_dash_2: name-purse
 bip_39_word_dash_3: name-purse-couch
-bip_39_word_dash_4: name-purse-couch-crazy
-bip_39_word_dash_5: name-purse-couch-crazy-blade
-bip_39_word_dash_6: name-purse-couch-crazy-blade-bronze
-bip_39_word_dash_7: name-purse-couch-crazy-blade-bronze-hour
-bip_39_word_dash_8: name-purse-couch-crazy-blade-bronze-hour-object
-bip_39_word_dash_9: name-purse-couch-crazy-blade-bronze-hour-object-salute
-bip_39_word_new_br_1: name
-bip_39_word_new_br_10: name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute<br>patient
-bip_39_word_new_br_11: name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute<br>patient<br>annual
 bip_39_word_new_br_12: name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute<br>patient<br>annual<br>any
 bip_39_word_new_br_2: name<br>purse
 bip_39_word_new_br_3: name<br>purse<br>couch
-bip_39_word_new_br_4: name<br>purse<br>couch<br>crazy
-bip_39_word_new_br_5: name<br>purse<br>couch<br>crazy<br>blade
-bip_39_word_new_br_6: name<br>purse<br>couch<br>crazy<br>blade<br>bronze
-bip_39_word_new_br_7: name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour
-bip_39_word_new_br_8: name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object
-bip_39_word_new_br_9: name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute
-bip_39_word_new_line_1: name
-bip_39_word_new_line_10: 'name
-
-  purse
-
-  couch
-
-  crazy
-
-  blade
-
-  bronze
-
-  hour
-
-  object
-
-  salute
-
-  patient'
-bip_39_word_new_line_11: 'name
-
-  purse
-
-  couch
-
-  crazy
-
-  blade
-
-  bronze
-
-  hour
-
-  object
-
-  salute
-
-  patient
-
-  annual'
 bip_39_word_new_line_12: 'name
 
   purse
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'name
   purse
 
   couch'
-bip_39_word_new_line_4: 'name
-
-  purse
-
-  couch
-
-  crazy'
-bip_39_word_new_line_5: 'name
-
-  purse
-
-  couch
-
-  crazy
-
-  blade'
-bip_39_word_new_line_6: 'name
-
-  purse
-
-  couch
-
-  crazy
-
-  blade
-
-  bronze'
-bip_39_word_new_line_7: 'name
-
-  purse
-
-  couch
-
-  crazy
-
-  blade
-
-  bronze
-
-  hour'
-bip_39_word_new_line_8: 'name
-
-  purse
-
-  couch
-
-  crazy
-
-  blade
-
-  bronze
-
-  hour
-
-  object'
-bip_39_word_new_line_9: 'name
-
-  purse
-
-  couch
-
-  crazy
-
-  blade
-
-  bronze
-
-  hour
-
-  object
-
-  salute'
-bip_39_word_no_space_1: name
-bip_39_word_no_space_10: namepursecouchcrazybladebronzehourobjectsalutepatient
-bip_39_word_no_space_11: namepursecouchcrazybladebronzehourobjectsalutepatientannual
 bip_39_word_no_space_12: namepursecouchcrazybladebronzehourobjectsalutepatientannualany
 bip_39_word_no_space_2: namepurse
 bip_39_word_no_space_3: namepursecouch
-bip_39_word_no_space_4: namepursecouchcrazy
-bip_39_word_no_space_5: namepursecouchcrazyblade
-bip_39_word_no_space_6: namepursecouchcrazybladebronze
-bip_39_word_no_space_7: namepursecouchcrazybladebronzehour
-bip_39_word_no_space_8: namepursecouchcrazybladebronzehourobject
-bip_39_word_no_space_9: namepursecouchcrazybladebronzehourobjectsalute
-bip_39_word_space_0:
-- name
-- purse
-- couch
-- crazy
-- blade
-- bronze
-- hour
-- object
-- salute
-- patient
-- annual
-- any
-bip_39_word_space_1: name
-bip_39_word_space_10: name purse couch crazy blade bronze hour object salute patient
-bip_39_word_space_11: name purse couch crazy blade bronze hour object salute patient
-  annual
 bip_39_word_space_12: name purse couch crazy blade bronze hour object salute patient
   annual any
 bip_39_word_space_2: name purse
 bip_39_word_space_3: name purse couch
-bip_39_word_space_4: name purse couch crazy
-bip_39_word_space_5: name purse couch crazy blade
-bip_39_word_space_6: name purse couch crazy blade bronze
-bip_39_word_space_7: name purse couch crazy blade bronze hour
-bip_39_word_space_8: name purse couch crazy blade bronze hour object
-bip_39_word_space_9: name purse couch crazy blade bronze hour object salute
-bip_39_word_underscore_1: name
-bip_39_word_underscore_10: name_purse_couch_crazy_blade_bronze_hour_object_salute_patient
-bip_39_word_underscore_11: name_purse_couch_crazy_blade_bronze_hour_object_salute_patient_annual
 bip_39_word_underscore_12: name_purse_couch_crazy_blade_bronze_hour_object_salute_patient_annual_any
 bip_39_word_underscore_2: name_purse
 bip_39_word_underscore_3: name_purse_couch
-bip_39_word_underscore_4: name_purse_couch_crazy
-bip_39_word_underscore_5: name_purse_couch_crazy_blade
-bip_39_word_underscore_6: name_purse_couch_crazy_blade_bronze
-bip_39_word_underscore_7: name_purse_couch_crazy_blade_bronze_hour
-bip_39_word_underscore_8: name_purse_couch_crazy_blade_bronze_hour_object
-bip_39_word_underscore_9: name_purse_couch_crazy_blade_bronze_hour_object_salute
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

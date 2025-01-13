@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scorpion
-bip_39_word_dash_10: scorpion-inmate-coffee-mango-ghost-brush-enlist-hen-grid-uniform
-bip_39_word_dash_11: scorpion-inmate-coffee-mango-ghost-brush-enlist-hen-grid-uniform-aerobic
 bip_39_word_dash_12: scorpion-inmate-coffee-mango-ghost-brush-enlist-hen-grid-uniform-aerobic-aunt
 bip_39_word_dash_2: scorpion-inmate
 bip_39_word_dash_3: scorpion-inmate-coffee
-bip_39_word_dash_4: scorpion-inmate-coffee-mango
-bip_39_word_dash_5: scorpion-inmate-coffee-mango-ghost
-bip_39_word_dash_6: scorpion-inmate-coffee-mango-ghost-brush
-bip_39_word_dash_7: scorpion-inmate-coffee-mango-ghost-brush-enlist
-bip_39_word_dash_8: scorpion-inmate-coffee-mango-ghost-brush-enlist-hen
-bip_39_word_dash_9: scorpion-inmate-coffee-mango-ghost-brush-enlist-hen-grid
-bip_39_word_new_br_1: scorpion
-bip_39_word_new_br_10: scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid<br>uniform
-bip_39_word_new_br_11: scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid<br>uniform<br>aerobic
 bip_39_word_new_br_12: scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid<br>uniform<br>aerobic<br>aunt
 bip_39_word_new_br_2: scorpion<br>inmate
 bip_39_word_new_br_3: scorpion<br>inmate<br>coffee
-bip_39_word_new_br_4: scorpion<br>inmate<br>coffee<br>mango
-bip_39_word_new_br_5: scorpion<br>inmate<br>coffee<br>mango<br>ghost
-bip_39_word_new_br_6: scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush
-bip_39_word_new_br_7: scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist
-bip_39_word_new_br_8: scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen
-bip_39_word_new_br_9: scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid
-bip_39_word_new_line_1: scorpion
-bip_39_word_new_line_10: 'scorpion
-
-  inmate
-
-  coffee
-
-  mango
-
-  ghost
-
-  brush
-
-  enlist
-
-  hen
-
-  grid
-
-  uniform'
-bip_39_word_new_line_11: 'scorpion
-
-  inmate
-
-  coffee
-
-  mango
-
-  ghost
-
-  brush
-
-  enlist
-
-  hen
-
-  grid
-
-  uniform
-
-  aerobic'
 bip_39_word_new_line_12: 'scorpion
 
   inmate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scorpion
   inmate
 
   coffee'
-bip_39_word_new_line_4: 'scorpion
-
-  inmate
-
-  coffee
-
-  mango'
-bip_39_word_new_line_5: 'scorpion
-
-  inmate
-
-  coffee
-
-  mango
-
-  ghost'
-bip_39_word_new_line_6: 'scorpion
-
-  inmate
-
-  coffee
-
-  mango
-
-  ghost
-
-  brush'
-bip_39_word_new_line_7: 'scorpion
-
-  inmate
-
-  coffee
-
-  mango
-
-  ghost
-
-  brush
-
-  enlist'
-bip_39_word_new_line_8: 'scorpion
-
-  inmate
-
-  coffee
-
-  mango
-
-  ghost
-
-  brush
-
-  enlist
-
-  hen'
-bip_39_word_new_line_9: 'scorpion
-
-  inmate
-
-  coffee
-
-  mango
-
-  ghost
-
-  brush
-
-  enlist
-
-  hen
-
-  grid'
-bip_39_word_no_space_1: scorpion
-bip_39_word_no_space_10: scorpioninmatecoffeemangoghostbrushenlisthengriduniform
-bip_39_word_no_space_11: scorpioninmatecoffeemangoghostbrushenlisthengriduniformaerobic
 bip_39_word_no_space_12: scorpioninmatecoffeemangoghostbrushenlisthengriduniformaerobicaunt
 bip_39_word_no_space_2: scorpioninmate
 bip_39_word_no_space_3: scorpioninmatecoffee
-bip_39_word_no_space_4: scorpioninmatecoffeemango
-bip_39_word_no_space_5: scorpioninmatecoffeemangoghost
-bip_39_word_no_space_6: scorpioninmatecoffeemangoghostbrush
-bip_39_word_no_space_7: scorpioninmatecoffeemangoghostbrushenlist
-bip_39_word_no_space_8: scorpioninmatecoffeemangoghostbrushenlisthen
-bip_39_word_no_space_9: scorpioninmatecoffeemangoghostbrushenlisthengrid
-bip_39_word_space_0:
-- scorpion
-- inmate
-- coffee
-- mango
-- ghost
-- brush
-- enlist
-- hen
-- grid
-- uniform
-- aerobic
-- aunt
-bip_39_word_space_1: scorpion
-bip_39_word_space_10: scorpion inmate coffee mango ghost brush enlist hen grid uniform
-bip_39_word_space_11: scorpion inmate coffee mango ghost brush enlist hen grid uniform
-  aerobic
 bip_39_word_space_12: scorpion inmate coffee mango ghost brush enlist hen grid uniform
   aerobic aunt
 bip_39_word_space_2: scorpion inmate
 bip_39_word_space_3: scorpion inmate coffee
-bip_39_word_space_4: scorpion inmate coffee mango
-bip_39_word_space_5: scorpion inmate coffee mango ghost
-bip_39_word_space_6: scorpion inmate coffee mango ghost brush
-bip_39_word_space_7: scorpion inmate coffee mango ghost brush enlist
-bip_39_word_space_8: scorpion inmate coffee mango ghost brush enlist hen
-bip_39_word_space_9: scorpion inmate coffee mango ghost brush enlist hen grid
-bip_39_word_underscore_1: scorpion
-bip_39_word_underscore_10: scorpion_inmate_coffee_mango_ghost_brush_enlist_hen_grid_uniform
-bip_39_word_underscore_11: scorpion_inmate_coffee_mango_ghost_brush_enlist_hen_grid_uniform_aerobic
 bip_39_word_underscore_12: scorpion_inmate_coffee_mango_ghost_brush_enlist_hen_grid_uniform_aerobic_aunt
 bip_39_word_underscore_2: scorpion_inmate
 bip_39_word_underscore_3: scorpion_inmate_coffee
-bip_39_word_underscore_4: scorpion_inmate_coffee_mango
-bip_39_word_underscore_5: scorpion_inmate_coffee_mango_ghost
-bip_39_word_underscore_6: scorpion_inmate_coffee_mango_ghost_brush
-bip_39_word_underscore_7: scorpion_inmate_coffee_mango_ghost_brush_enlist
-bip_39_word_underscore_8: scorpion_inmate_coffee_mango_ghost_brush_enlist_hen
-bip_39_word_underscore_9: scorpion_inmate_coffee_mango_ghost_brush_enlist_hen_grid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

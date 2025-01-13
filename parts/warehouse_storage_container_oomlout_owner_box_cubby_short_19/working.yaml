@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grid
-bip_39_word_dash_10: grid-vague-close-fix-library-plate-envelope-layer-mountain-worry
-bip_39_word_dash_11: grid-vague-close-fix-library-plate-envelope-layer-mountain-worry-enable
 bip_39_word_dash_12: grid-vague-close-fix-library-plate-envelope-layer-mountain-worry-enable-agent
 bip_39_word_dash_2: grid-vague
 bip_39_word_dash_3: grid-vague-close
-bip_39_word_dash_4: grid-vague-close-fix
-bip_39_word_dash_5: grid-vague-close-fix-library
-bip_39_word_dash_6: grid-vague-close-fix-library-plate
-bip_39_word_dash_7: grid-vague-close-fix-library-plate-envelope
-bip_39_word_dash_8: grid-vague-close-fix-library-plate-envelope-layer
-bip_39_word_dash_9: grid-vague-close-fix-library-plate-envelope-layer-mountain
-bip_39_word_new_br_1: grid
-bip_39_word_new_br_10: grid<br>vague<br>close<br>fix<br>library<br>plate<br>envelope<br>layer<br>mountain<br>worry
-bip_39_word_new_br_11: grid<br>vague<br>close<br>fix<br>library<br>plate<br>envelope<br>layer<br>mountain<br>worry<br>enable
 bip_39_word_new_br_12: grid<br>vague<br>close<br>fix<br>library<br>plate<br>envelope<br>layer<br>mountain<br>worry<br>enable<br>agent
 bip_39_word_new_br_2: grid<br>vague
 bip_39_word_new_br_3: grid<br>vague<br>close
-bip_39_word_new_br_4: grid<br>vague<br>close<br>fix
-bip_39_word_new_br_5: grid<br>vague<br>close<br>fix<br>library
-bip_39_word_new_br_6: grid<br>vague<br>close<br>fix<br>library<br>plate
-bip_39_word_new_br_7: grid<br>vague<br>close<br>fix<br>library<br>plate<br>envelope
-bip_39_word_new_br_8: grid<br>vague<br>close<br>fix<br>library<br>plate<br>envelope<br>layer
-bip_39_word_new_br_9: grid<br>vague<br>close<br>fix<br>library<br>plate<br>envelope<br>layer<br>mountain
-bip_39_word_new_line_1: grid
-bip_39_word_new_line_10: 'grid
-
-  vague
-
-  close
-
-  fix
-
-  library
-
-  plate
-
-  envelope
-
-  layer
-
-  mountain
-
-  worry'
-bip_39_word_new_line_11: 'grid
-
-  vague
-
-  close
-
-  fix
-
-  library
-
-  plate
-
-  envelope
-
-  layer
-
-  mountain
-
-  worry
-
-  enable'
 bip_39_word_new_line_12: 'grid
 
   vague
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grid
   vague
 
   close'
-bip_39_word_new_line_4: 'grid
-
-  vague
-
-  close
-
-  fix'
-bip_39_word_new_line_5: 'grid
-
-  vague
-
-  close
-
-  fix
-
-  library'
-bip_39_word_new_line_6: 'grid
-
-  vague
-
-  close
-
-  fix
-
-  library
-
-  plate'
-bip_39_word_new_line_7: 'grid
-
-  vague
-
-  close
-
-  fix
-
-  library
-
-  plate
-
-  envelope'
-bip_39_word_new_line_8: 'grid
-
-  vague
-
-  close
-
-  fix
-
-  library
-
-  plate
-
-  envelope
-
-  layer'
-bip_39_word_new_line_9: 'grid
-
-  vague
-
-  close
-
-  fix
-
-  library
-
-  plate
-
-  envelope
-
-  layer
-
-  mountain'
-bip_39_word_no_space_1: grid
-bip_39_word_no_space_10: gridvagueclosefixlibraryplateenvelopelayermountainworry
-bip_39_word_no_space_11: gridvagueclosefixlibraryplateenvelopelayermountainworryenable
 bip_39_word_no_space_12: gridvagueclosefixlibraryplateenvelopelayermountainworryenableagent
 bip_39_word_no_space_2: gridvague
 bip_39_word_no_space_3: gridvagueclose
-bip_39_word_no_space_4: gridvagueclosefix
-bip_39_word_no_space_5: gridvagueclosefixlibrary
-bip_39_word_no_space_6: gridvagueclosefixlibraryplate
-bip_39_word_no_space_7: gridvagueclosefixlibraryplateenvelope
-bip_39_word_no_space_8: gridvagueclosefixlibraryplateenvelopelayer
-bip_39_word_no_space_9: gridvagueclosefixlibraryplateenvelopelayermountain
-bip_39_word_space_0:
-- grid
-- vague
-- close
-- fix
-- library
-- plate
-- envelope
-- layer
-- mountain
-- worry
-- enable
-- agent
-bip_39_word_space_1: grid
-bip_39_word_space_10: grid vague close fix library plate envelope layer mountain worry
-bip_39_word_space_11: grid vague close fix library plate envelope layer mountain worry
-  enable
 bip_39_word_space_12: grid vague close fix library plate envelope layer mountain worry
   enable agent
 bip_39_word_space_2: grid vague
 bip_39_word_space_3: grid vague close
-bip_39_word_space_4: grid vague close fix
-bip_39_word_space_5: grid vague close fix library
-bip_39_word_space_6: grid vague close fix library plate
-bip_39_word_space_7: grid vague close fix library plate envelope
-bip_39_word_space_8: grid vague close fix library plate envelope layer
-bip_39_word_space_9: grid vague close fix library plate envelope layer mountain
-bip_39_word_underscore_1: grid
-bip_39_word_underscore_10: grid_vague_close_fix_library_plate_envelope_layer_mountain_worry
-bip_39_word_underscore_11: grid_vague_close_fix_library_plate_envelope_layer_mountain_worry_enable
 bip_39_word_underscore_12: grid_vague_close_fix_library_plate_envelope_layer_mountain_worry_enable_agent
 bip_39_word_underscore_2: grid_vague
 bip_39_word_underscore_3: grid_vague_close
-bip_39_word_underscore_4: grid_vague_close_fix
-bip_39_word_underscore_5: grid_vague_close_fix_library
-bip_39_word_underscore_6: grid_vague_close_fix_library_plate
-bip_39_word_underscore_7: grid_vague_close_fix_library_plate_envelope
-bip_39_word_underscore_8: grid_vague_close_fix_library_plate_envelope_layer
-bip_39_word_underscore_9: grid_vague_close_fix_library_plate_envelope_layer_mountain
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: canvas
-bip_39_word_dash_10: canvas-okay-already-secret-taste-used-duty-utility-school-army
-bip_39_word_dash_11: canvas-okay-already-secret-taste-used-duty-utility-school-army-bar
 bip_39_word_dash_12: canvas-okay-already-secret-taste-used-duty-utility-school-army-bar-absent
 bip_39_word_dash_2: canvas-okay
 bip_39_word_dash_3: canvas-okay-already
-bip_39_word_dash_4: canvas-okay-already-secret
-bip_39_word_dash_5: canvas-okay-already-secret-taste
-bip_39_word_dash_6: canvas-okay-already-secret-taste-used
-bip_39_word_dash_7: canvas-okay-already-secret-taste-used-duty
-bip_39_word_dash_8: canvas-okay-already-secret-taste-used-duty-utility
-bip_39_word_dash_9: canvas-okay-already-secret-taste-used-duty-utility-school
-bip_39_word_new_br_1: canvas
-bip_39_word_new_br_10: canvas<br>okay<br>already<br>secret<br>taste<br>used<br>duty<br>utility<br>school<br>army
-bip_39_word_new_br_11: canvas<br>okay<br>already<br>secret<br>taste<br>used<br>duty<br>utility<br>school<br>army<br>bar
 bip_39_word_new_br_12: canvas<br>okay<br>already<br>secret<br>taste<br>used<br>duty<br>utility<br>school<br>army<br>bar<br>absent
 bip_39_word_new_br_2: canvas<br>okay
 bip_39_word_new_br_3: canvas<br>okay<br>already
-bip_39_word_new_br_4: canvas<br>okay<br>already<br>secret
-bip_39_word_new_br_5: canvas<br>okay<br>already<br>secret<br>taste
-bip_39_word_new_br_6: canvas<br>okay<br>already<br>secret<br>taste<br>used
-bip_39_word_new_br_7: canvas<br>okay<br>already<br>secret<br>taste<br>used<br>duty
-bip_39_word_new_br_8: canvas<br>okay<br>already<br>secret<br>taste<br>used<br>duty<br>utility
-bip_39_word_new_br_9: canvas<br>okay<br>already<br>secret<br>taste<br>used<br>duty<br>utility<br>school
-bip_39_word_new_line_1: canvas
-bip_39_word_new_line_10: 'canvas
-
-  okay
-
-  already
-
-  secret
-
-  taste
-
-  used
-
-  duty
-
-  utility
-
-  school
-
-  army'
-bip_39_word_new_line_11: 'canvas
-
-  okay
-
-  already
-
-  secret
-
-  taste
-
-  used
-
-  duty
-
-  utility
-
-  school
-
-  army
-
-  bar'
 bip_39_word_new_line_12: 'canvas
 
   okay
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'canvas
   okay
 
   already'
-bip_39_word_new_line_4: 'canvas
-
-  okay
-
-  already
-
-  secret'
-bip_39_word_new_line_5: 'canvas
-
-  okay
-
-  already
-
-  secret
-
-  taste'
-bip_39_word_new_line_6: 'canvas
-
-  okay
-
-  already
-
-  secret
-
-  taste
-
-  used'
-bip_39_word_new_line_7: 'canvas
-
-  okay
-
-  already
-
-  secret
-
-  taste
-
-  used
-
-  duty'
-bip_39_word_new_line_8: 'canvas
-
-  okay
-
-  already
-
-  secret
-
-  taste
-
-  used
-
-  duty
-
-  utility'
-bip_39_word_new_line_9: 'canvas
-
-  okay
-
-  already
-
-  secret
-
-  taste
-
-  used
-
-  duty
-
-  utility
-
-  school'
-bip_39_word_no_space_1: canvas
-bip_39_word_no_space_10: canvasokayalreadysecrettasteuseddutyutilityschoolarmy
-bip_39_word_no_space_11: canvasokayalreadysecrettasteuseddutyutilityschoolarmybar
 bip_39_word_no_space_12: canvasokayalreadysecrettasteuseddutyutilityschoolarmybarabsent
 bip_39_word_no_space_2: canvasokay
 bip_39_word_no_space_3: canvasokayalready
-bip_39_word_no_space_4: canvasokayalreadysecret
-bip_39_word_no_space_5: canvasokayalreadysecrettaste
-bip_39_word_no_space_6: canvasokayalreadysecrettasteused
-bip_39_word_no_space_7: canvasokayalreadysecrettasteusedduty
-bip_39_word_no_space_8: canvasokayalreadysecrettasteuseddutyutility
-bip_39_word_no_space_9: canvasokayalreadysecrettasteuseddutyutilityschool
-bip_39_word_space_0:
-- canvas
-- okay
-- already
-- secret
-- taste
-- used
-- duty
-- utility
-- school
-- army
-- bar
-- absent
-bip_39_word_space_1: canvas
-bip_39_word_space_10: canvas okay already secret taste used duty utility school army
-bip_39_word_space_11: canvas okay already secret taste used duty utility school army
-  bar
 bip_39_word_space_12: canvas okay already secret taste used duty utility school army
   bar absent
 bip_39_word_space_2: canvas okay
 bip_39_word_space_3: canvas okay already
-bip_39_word_space_4: canvas okay already secret
-bip_39_word_space_5: canvas okay already secret taste
-bip_39_word_space_6: canvas okay already secret taste used
-bip_39_word_space_7: canvas okay already secret taste used duty
-bip_39_word_space_8: canvas okay already secret taste used duty utility
-bip_39_word_space_9: canvas okay already secret taste used duty utility school
-bip_39_word_underscore_1: canvas
-bip_39_word_underscore_10: canvas_okay_already_secret_taste_used_duty_utility_school_army
-bip_39_word_underscore_11: canvas_okay_already_secret_taste_used_duty_utility_school_army_bar
 bip_39_word_underscore_12: canvas_okay_already_secret_taste_used_duty_utility_school_army_bar_absent
 bip_39_word_underscore_2: canvas_okay
 bip_39_word_underscore_3: canvas_okay_already
-bip_39_word_underscore_4: canvas_okay_already_secret
-bip_39_word_underscore_5: canvas_okay_already_secret_taste
-bip_39_word_underscore_6: canvas_okay_already_secret_taste_used
-bip_39_word_underscore_7: canvas_okay_already_secret_taste_used_duty
-bip_39_word_underscore_8: canvas_okay_already_secret_taste_used_duty_utility
-bip_39_word_underscore_9: canvas_okay_already_secret_taste_used_duty_utility_school
 classification: category
 classification_capital: Category
 classification_first_letter: c

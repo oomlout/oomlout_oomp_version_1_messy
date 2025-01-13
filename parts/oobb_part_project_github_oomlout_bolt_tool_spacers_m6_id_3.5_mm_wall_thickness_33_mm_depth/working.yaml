@@ -1,68 +1,9 @@
-bip_39_word_dash_1: taste
-bip_39_word_dash_10: taste-saddle-salute-lens-report-wasp-tornado-shoulder-ill-grant
-bip_39_word_dash_11: taste-saddle-salute-lens-report-wasp-tornado-shoulder-ill-grant-again
 bip_39_word_dash_12: taste-saddle-salute-lens-report-wasp-tornado-shoulder-ill-grant-again-above
 bip_39_word_dash_2: taste-saddle
 bip_39_word_dash_3: taste-saddle-salute
-bip_39_word_dash_4: taste-saddle-salute-lens
-bip_39_word_dash_5: taste-saddle-salute-lens-report
-bip_39_word_dash_6: taste-saddle-salute-lens-report-wasp
-bip_39_word_dash_7: taste-saddle-salute-lens-report-wasp-tornado
-bip_39_word_dash_8: taste-saddle-salute-lens-report-wasp-tornado-shoulder
-bip_39_word_dash_9: taste-saddle-salute-lens-report-wasp-tornado-shoulder-ill
-bip_39_word_new_br_1: taste
-bip_39_word_new_br_10: taste<br>saddle<br>salute<br>lens<br>report<br>wasp<br>tornado<br>shoulder<br>ill<br>grant
-bip_39_word_new_br_11: taste<br>saddle<br>salute<br>lens<br>report<br>wasp<br>tornado<br>shoulder<br>ill<br>grant<br>again
 bip_39_word_new_br_12: taste<br>saddle<br>salute<br>lens<br>report<br>wasp<br>tornado<br>shoulder<br>ill<br>grant<br>again<br>above
 bip_39_word_new_br_2: taste<br>saddle
 bip_39_word_new_br_3: taste<br>saddle<br>salute
-bip_39_word_new_br_4: taste<br>saddle<br>salute<br>lens
-bip_39_word_new_br_5: taste<br>saddle<br>salute<br>lens<br>report
-bip_39_word_new_br_6: taste<br>saddle<br>salute<br>lens<br>report<br>wasp
-bip_39_word_new_br_7: taste<br>saddle<br>salute<br>lens<br>report<br>wasp<br>tornado
-bip_39_word_new_br_8: taste<br>saddle<br>salute<br>lens<br>report<br>wasp<br>tornado<br>shoulder
-bip_39_word_new_br_9: taste<br>saddle<br>salute<br>lens<br>report<br>wasp<br>tornado<br>shoulder<br>ill
-bip_39_word_new_line_1: taste
-bip_39_word_new_line_10: 'taste
-
-  saddle
-
-  salute
-
-  lens
-
-  report
-
-  wasp
-
-  tornado
-
-  shoulder
-
-  ill
-
-  grant'
-bip_39_word_new_line_11: 'taste
-
-  saddle
-
-  salute
-
-  lens
-
-  report
-
-  wasp
-
-  tornado
-
-  shoulder
-
-  ill
-
-  grant
-
-  again'
 bip_39_word_new_line_12: 'taste
 
   saddle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'taste
   saddle
 
   salute'
-bip_39_word_new_line_4: 'taste
-
-  saddle
-
-  salute
-
-  lens'
-bip_39_word_new_line_5: 'taste
-
-  saddle
-
-  salute
-
-  lens
-
-  report'
-bip_39_word_new_line_6: 'taste
-
-  saddle
-
-  salute
-
-  lens
-
-  report
-
-  wasp'
-bip_39_word_new_line_7: 'taste
-
-  saddle
-
-  salute
-
-  lens
-
-  report
-
-  wasp
-
-  tornado'
-bip_39_word_new_line_8: 'taste
-
-  saddle
-
-  salute
-
-  lens
-
-  report
-
-  wasp
-
-  tornado
-
-  shoulder'
-bip_39_word_new_line_9: 'taste
-
-  saddle
-
-  salute
-
-  lens
-
-  report
-
-  wasp
-
-  tornado
-
-  shoulder
-
-  ill'
-bip_39_word_no_space_1: taste
-bip_39_word_no_space_10: tastesaddlesalutelensreportwasptornadoshoulderillgrant
-bip_39_word_no_space_11: tastesaddlesalutelensreportwasptornadoshoulderillgrantagain
 bip_39_word_no_space_12: tastesaddlesalutelensreportwasptornadoshoulderillgrantagainabove
 bip_39_word_no_space_2: tastesaddle
 bip_39_word_no_space_3: tastesaddlesalute
-bip_39_word_no_space_4: tastesaddlesalutelens
-bip_39_word_no_space_5: tastesaddlesalutelensreport
-bip_39_word_no_space_6: tastesaddlesalutelensreportwasp
-bip_39_word_no_space_7: tastesaddlesalutelensreportwasptornado
-bip_39_word_no_space_8: tastesaddlesalutelensreportwasptornadoshoulder
-bip_39_word_no_space_9: tastesaddlesalutelensreportwasptornadoshoulderill
-bip_39_word_space_0:
-- taste
-- saddle
-- salute
-- lens
-- report
-- wasp
-- tornado
-- shoulder
-- ill
-- grant
-- again
-- above
-bip_39_word_space_1: taste
-bip_39_word_space_10: taste saddle salute lens report wasp tornado shoulder ill grant
-bip_39_word_space_11: taste saddle salute lens report wasp tornado shoulder ill grant
-  again
 bip_39_word_space_12: taste saddle salute lens report wasp tornado shoulder ill grant
   again above
 bip_39_word_space_2: taste saddle
 bip_39_word_space_3: taste saddle salute
-bip_39_word_space_4: taste saddle salute lens
-bip_39_word_space_5: taste saddle salute lens report
-bip_39_word_space_6: taste saddle salute lens report wasp
-bip_39_word_space_7: taste saddle salute lens report wasp tornado
-bip_39_word_space_8: taste saddle salute lens report wasp tornado shoulder
-bip_39_word_space_9: taste saddle salute lens report wasp tornado shoulder ill
-bip_39_word_underscore_1: taste
-bip_39_word_underscore_10: taste_saddle_salute_lens_report_wasp_tornado_shoulder_ill_grant
-bip_39_word_underscore_11: taste_saddle_salute_lens_report_wasp_tornado_shoulder_ill_grant_again
 bip_39_word_underscore_12: taste_saddle_salute_lens_report_wasp_tornado_shoulder_ill_grant_again_above
 bip_39_word_underscore_2: taste_saddle
 bip_39_word_underscore_3: taste_saddle_salute
-bip_39_word_underscore_4: taste_saddle_salute_lens
-bip_39_word_underscore_5: taste_saddle_salute_lens_report
-bip_39_word_underscore_6: taste_saddle_salute_lens_report_wasp
-bip_39_word_underscore_7: taste_saddle_salute_lens_report_wasp_tornado
-bip_39_word_underscore_8: taste_saddle_salute_lens_report_wasp_tornado_shoulder
-bip_39_word_underscore_9: taste_saddle_salute_lens_report_wasp_tornado_shoulder_ill
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

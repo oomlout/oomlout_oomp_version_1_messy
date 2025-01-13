@@ -1,68 +1,9 @@
-bip_39_word_dash_1: job
-bip_39_word_dash_10: job-skull-pelican-jaguar-asset-sentence-relief-ship-scheme-grain
-bip_39_word_dash_11: job-skull-pelican-jaguar-asset-sentence-relief-ship-scheme-grain-crush
 bip_39_word_dash_12: job-skull-pelican-jaguar-asset-sentence-relief-ship-scheme-grain-crush-address
 bip_39_word_dash_2: job-skull
 bip_39_word_dash_3: job-skull-pelican
-bip_39_word_dash_4: job-skull-pelican-jaguar
-bip_39_word_dash_5: job-skull-pelican-jaguar-asset
-bip_39_word_dash_6: job-skull-pelican-jaguar-asset-sentence
-bip_39_word_dash_7: job-skull-pelican-jaguar-asset-sentence-relief
-bip_39_word_dash_8: job-skull-pelican-jaguar-asset-sentence-relief-ship
-bip_39_word_dash_9: job-skull-pelican-jaguar-asset-sentence-relief-ship-scheme
-bip_39_word_new_br_1: job
-bip_39_word_new_br_10: job<br>skull<br>pelican<br>jaguar<br>asset<br>sentence<br>relief<br>ship<br>scheme<br>grain
-bip_39_word_new_br_11: job<br>skull<br>pelican<br>jaguar<br>asset<br>sentence<br>relief<br>ship<br>scheme<br>grain<br>crush
 bip_39_word_new_br_12: job<br>skull<br>pelican<br>jaguar<br>asset<br>sentence<br>relief<br>ship<br>scheme<br>grain<br>crush<br>address
 bip_39_word_new_br_2: job<br>skull
 bip_39_word_new_br_3: job<br>skull<br>pelican
-bip_39_word_new_br_4: job<br>skull<br>pelican<br>jaguar
-bip_39_word_new_br_5: job<br>skull<br>pelican<br>jaguar<br>asset
-bip_39_word_new_br_6: job<br>skull<br>pelican<br>jaguar<br>asset<br>sentence
-bip_39_word_new_br_7: job<br>skull<br>pelican<br>jaguar<br>asset<br>sentence<br>relief
-bip_39_word_new_br_8: job<br>skull<br>pelican<br>jaguar<br>asset<br>sentence<br>relief<br>ship
-bip_39_word_new_br_9: job<br>skull<br>pelican<br>jaguar<br>asset<br>sentence<br>relief<br>ship<br>scheme
-bip_39_word_new_line_1: job
-bip_39_word_new_line_10: 'job
-
-  skull
-
-  pelican
-
-  jaguar
-
-  asset
-
-  sentence
-
-  relief
-
-  ship
-
-  scheme
-
-  grain'
-bip_39_word_new_line_11: 'job
-
-  skull
-
-  pelican
-
-  jaguar
-
-  asset
-
-  sentence
-
-  relief
-
-  ship
-
-  scheme
-
-  grain
-
-  crush'
 bip_39_word_new_line_12: 'job
 
   skull
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'job
   skull
 
   pelican'
-bip_39_word_new_line_4: 'job
-
-  skull
-
-  pelican
-
-  jaguar'
-bip_39_word_new_line_5: 'job
-
-  skull
-
-  pelican
-
-  jaguar
-
-  asset'
-bip_39_word_new_line_6: 'job
-
-  skull
-
-  pelican
-
-  jaguar
-
-  asset
-
-  sentence'
-bip_39_word_new_line_7: 'job
-
-  skull
-
-  pelican
-
-  jaguar
-
-  asset
-
-  sentence
-
-  relief'
-bip_39_word_new_line_8: 'job
-
-  skull
-
-  pelican
-
-  jaguar
-
-  asset
-
-  sentence
-
-  relief
-
-  ship'
-bip_39_word_new_line_9: 'job
-
-  skull
-
-  pelican
-
-  jaguar
-
-  asset
-
-  sentence
-
-  relief
-
-  ship
-
-  scheme'
-bip_39_word_no_space_1: job
-bip_39_word_no_space_10: jobskullpelicanjaguarassetsentencereliefshipschemegrain
-bip_39_word_no_space_11: jobskullpelicanjaguarassetsentencereliefshipschemegraincrush
 bip_39_word_no_space_12: jobskullpelicanjaguarassetsentencereliefshipschemegraincrushaddress
 bip_39_word_no_space_2: jobskull
 bip_39_word_no_space_3: jobskullpelican
-bip_39_word_no_space_4: jobskullpelicanjaguar
-bip_39_word_no_space_5: jobskullpelicanjaguarasset
-bip_39_word_no_space_6: jobskullpelicanjaguarassetsentence
-bip_39_word_no_space_7: jobskullpelicanjaguarassetsentencerelief
-bip_39_word_no_space_8: jobskullpelicanjaguarassetsentencereliefship
-bip_39_word_no_space_9: jobskullpelicanjaguarassetsentencereliefshipscheme
-bip_39_word_space_0:
-- job
-- skull
-- pelican
-- jaguar
-- asset
-- sentence
-- relief
-- ship
-- scheme
-- grain
-- crush
-- address
-bip_39_word_space_1: job
-bip_39_word_space_10: job skull pelican jaguar asset sentence relief ship scheme grain
-bip_39_word_space_11: job skull pelican jaguar asset sentence relief ship scheme grain
-  crush
 bip_39_word_space_12: job skull pelican jaguar asset sentence relief ship scheme grain
   crush address
 bip_39_word_space_2: job skull
 bip_39_word_space_3: job skull pelican
-bip_39_word_space_4: job skull pelican jaguar
-bip_39_word_space_5: job skull pelican jaguar asset
-bip_39_word_space_6: job skull pelican jaguar asset sentence
-bip_39_word_space_7: job skull pelican jaguar asset sentence relief
-bip_39_word_space_8: job skull pelican jaguar asset sentence relief ship
-bip_39_word_space_9: job skull pelican jaguar asset sentence relief ship scheme
-bip_39_word_underscore_1: job
-bip_39_word_underscore_10: job_skull_pelican_jaguar_asset_sentence_relief_ship_scheme_grain
-bip_39_word_underscore_11: job_skull_pelican_jaguar_asset_sentence_relief_ship_scheme_grain_crush
 bip_39_word_underscore_12: job_skull_pelican_jaguar_asset_sentence_relief_ship_scheme_grain_crush_address
 bip_39_word_underscore_2: job_skull
 bip_39_word_underscore_3: job_skull_pelican
-bip_39_word_underscore_4: job_skull_pelican_jaguar
-bip_39_word_underscore_5: job_skull_pelican_jaguar_asset
-bip_39_word_underscore_6: job_skull_pelican_jaguar_asset_sentence
-bip_39_word_underscore_7: job_skull_pelican_jaguar_asset_sentence_relief
-bip_39_word_underscore_8: job_skull_pelican_jaguar_asset_sentence_relief_ship
-bip_39_word_underscore_9: job_skull_pelican_jaguar_asset_sentence_relief_ship_scheme
 classification: category
 classification_capital: Category
 classification_first_letter: c

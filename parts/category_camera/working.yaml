@@ -1,68 +1,9 @@
-bip_39_word_dash_1: profit
-bip_39_word_dash_10: profit-peasant-gloom-supply-dutch-radio-eye-enact-much-country
-bip_39_word_dash_11: profit-peasant-gloom-supply-dutch-radio-eye-enact-much-country-blood
 bip_39_word_dash_12: profit-peasant-gloom-supply-dutch-radio-eye-enact-much-country-blood-animal
 bip_39_word_dash_2: profit-peasant
 bip_39_word_dash_3: profit-peasant-gloom
-bip_39_word_dash_4: profit-peasant-gloom-supply
-bip_39_word_dash_5: profit-peasant-gloom-supply-dutch
-bip_39_word_dash_6: profit-peasant-gloom-supply-dutch-radio
-bip_39_word_dash_7: profit-peasant-gloom-supply-dutch-radio-eye
-bip_39_word_dash_8: profit-peasant-gloom-supply-dutch-radio-eye-enact
-bip_39_word_dash_9: profit-peasant-gloom-supply-dutch-radio-eye-enact-much
-bip_39_word_new_br_1: profit
-bip_39_word_new_br_10: profit<br>peasant<br>gloom<br>supply<br>dutch<br>radio<br>eye<br>enact<br>much<br>country
-bip_39_word_new_br_11: profit<br>peasant<br>gloom<br>supply<br>dutch<br>radio<br>eye<br>enact<br>much<br>country<br>blood
 bip_39_word_new_br_12: profit<br>peasant<br>gloom<br>supply<br>dutch<br>radio<br>eye<br>enact<br>much<br>country<br>blood<br>animal
 bip_39_word_new_br_2: profit<br>peasant
 bip_39_word_new_br_3: profit<br>peasant<br>gloom
-bip_39_word_new_br_4: profit<br>peasant<br>gloom<br>supply
-bip_39_word_new_br_5: profit<br>peasant<br>gloom<br>supply<br>dutch
-bip_39_word_new_br_6: profit<br>peasant<br>gloom<br>supply<br>dutch<br>radio
-bip_39_word_new_br_7: profit<br>peasant<br>gloom<br>supply<br>dutch<br>radio<br>eye
-bip_39_word_new_br_8: profit<br>peasant<br>gloom<br>supply<br>dutch<br>radio<br>eye<br>enact
-bip_39_word_new_br_9: profit<br>peasant<br>gloom<br>supply<br>dutch<br>radio<br>eye<br>enact<br>much
-bip_39_word_new_line_1: profit
-bip_39_word_new_line_10: 'profit
-
-  peasant
-
-  gloom
-
-  supply
-
-  dutch
-
-  radio
-
-  eye
-
-  enact
-
-  much
-
-  country'
-bip_39_word_new_line_11: 'profit
-
-  peasant
-
-  gloom
-
-  supply
-
-  dutch
-
-  radio
-
-  eye
-
-  enact
-
-  much
-
-  country
-
-  blood'
 bip_39_word_new_line_12: 'profit
 
   peasant
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'profit
   peasant
 
   gloom'
-bip_39_word_new_line_4: 'profit
-
-  peasant
-
-  gloom
-
-  supply'
-bip_39_word_new_line_5: 'profit
-
-  peasant
-
-  gloom
-
-  supply
-
-  dutch'
-bip_39_word_new_line_6: 'profit
-
-  peasant
-
-  gloom
-
-  supply
-
-  dutch
-
-  radio'
-bip_39_word_new_line_7: 'profit
-
-  peasant
-
-  gloom
-
-  supply
-
-  dutch
-
-  radio
-
-  eye'
-bip_39_word_new_line_8: 'profit
-
-  peasant
-
-  gloom
-
-  supply
-
-  dutch
-
-  radio
-
-  eye
-
-  enact'
-bip_39_word_new_line_9: 'profit
-
-  peasant
-
-  gloom
-
-  supply
-
-  dutch
-
-  radio
-
-  eye
-
-  enact
-
-  much'
-bip_39_word_no_space_1: profit
-bip_39_word_no_space_10: profitpeasantgloomsupplydutchradioeyeenactmuchcountry
-bip_39_word_no_space_11: profitpeasantgloomsupplydutchradioeyeenactmuchcountryblood
 bip_39_word_no_space_12: profitpeasantgloomsupplydutchradioeyeenactmuchcountrybloodanimal
 bip_39_word_no_space_2: profitpeasant
 bip_39_word_no_space_3: profitpeasantgloom
-bip_39_word_no_space_4: profitpeasantgloomsupply
-bip_39_word_no_space_5: profitpeasantgloomsupplydutch
-bip_39_word_no_space_6: profitpeasantgloomsupplydutchradio
-bip_39_word_no_space_7: profitpeasantgloomsupplydutchradioeye
-bip_39_word_no_space_8: profitpeasantgloomsupplydutchradioeyeenact
-bip_39_word_no_space_9: profitpeasantgloomsupplydutchradioeyeenactmuch
-bip_39_word_space_0:
-- profit
-- peasant
-- gloom
-- supply
-- dutch
-- radio
-- eye
-- enact
-- much
-- country
-- blood
-- animal
-bip_39_word_space_1: profit
-bip_39_word_space_10: profit peasant gloom supply dutch radio eye enact much country
-bip_39_word_space_11: profit peasant gloom supply dutch radio eye enact much country
-  blood
 bip_39_word_space_12: profit peasant gloom supply dutch radio eye enact much country
   blood animal
 bip_39_word_space_2: profit peasant
 bip_39_word_space_3: profit peasant gloom
-bip_39_word_space_4: profit peasant gloom supply
-bip_39_word_space_5: profit peasant gloom supply dutch
-bip_39_word_space_6: profit peasant gloom supply dutch radio
-bip_39_word_space_7: profit peasant gloom supply dutch radio eye
-bip_39_word_space_8: profit peasant gloom supply dutch radio eye enact
-bip_39_word_space_9: profit peasant gloom supply dutch radio eye enact much
-bip_39_word_underscore_1: profit
-bip_39_word_underscore_10: profit_peasant_gloom_supply_dutch_radio_eye_enact_much_country
-bip_39_word_underscore_11: profit_peasant_gloom_supply_dutch_radio_eye_enact_much_country_blood
 bip_39_word_underscore_12: profit_peasant_gloom_supply_dutch_radio_eye_enact_much_country_blood_animal
 bip_39_word_underscore_2: profit_peasant
 bip_39_word_underscore_3: profit_peasant_gloom
-bip_39_word_underscore_4: profit_peasant_gloom_supply
-bip_39_word_underscore_5: profit_peasant_gloom_supply_dutch
-bip_39_word_underscore_6: profit_peasant_gloom_supply_dutch_radio
-bip_39_word_underscore_7: profit_peasant_gloom_supply_dutch_radio_eye
-bip_39_word_underscore_8: profit_peasant_gloom_supply_dutch_radio_eye_enact
-bip_39_word_underscore_9: profit_peasant_gloom_supply_dutch_radio_eye_enact_much
 classification: category
 classification_capital: Category
 classification_first_letter: c

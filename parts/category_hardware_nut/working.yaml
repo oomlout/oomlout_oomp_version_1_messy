@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enforce
-bip_39_word_dash_10: enforce-cancel-dumb-custom-health-teach-please-measure-reopen-there
-bip_39_word_dash_11: enforce-cancel-dumb-custom-health-teach-please-measure-reopen-there-attitude
 bip_39_word_dash_12: enforce-cancel-dumb-custom-health-teach-please-measure-reopen-there-attitude-air
 bip_39_word_dash_2: enforce-cancel
 bip_39_word_dash_3: enforce-cancel-dumb
-bip_39_word_dash_4: enforce-cancel-dumb-custom
-bip_39_word_dash_5: enforce-cancel-dumb-custom-health
-bip_39_word_dash_6: enforce-cancel-dumb-custom-health-teach
-bip_39_word_dash_7: enforce-cancel-dumb-custom-health-teach-please
-bip_39_word_dash_8: enforce-cancel-dumb-custom-health-teach-please-measure
-bip_39_word_dash_9: enforce-cancel-dumb-custom-health-teach-please-measure-reopen
-bip_39_word_new_br_1: enforce
-bip_39_word_new_br_10: enforce<br>cancel<br>dumb<br>custom<br>health<br>teach<br>please<br>measure<br>reopen<br>there
-bip_39_word_new_br_11: enforce<br>cancel<br>dumb<br>custom<br>health<br>teach<br>please<br>measure<br>reopen<br>there<br>attitude
 bip_39_word_new_br_12: enforce<br>cancel<br>dumb<br>custom<br>health<br>teach<br>please<br>measure<br>reopen<br>there<br>attitude<br>air
 bip_39_word_new_br_2: enforce<br>cancel
 bip_39_word_new_br_3: enforce<br>cancel<br>dumb
-bip_39_word_new_br_4: enforce<br>cancel<br>dumb<br>custom
-bip_39_word_new_br_5: enforce<br>cancel<br>dumb<br>custom<br>health
-bip_39_word_new_br_6: enforce<br>cancel<br>dumb<br>custom<br>health<br>teach
-bip_39_word_new_br_7: enforce<br>cancel<br>dumb<br>custom<br>health<br>teach<br>please
-bip_39_word_new_br_8: enforce<br>cancel<br>dumb<br>custom<br>health<br>teach<br>please<br>measure
-bip_39_word_new_br_9: enforce<br>cancel<br>dumb<br>custom<br>health<br>teach<br>please<br>measure<br>reopen
-bip_39_word_new_line_1: enforce
-bip_39_word_new_line_10: 'enforce
-
-  cancel
-
-  dumb
-
-  custom
-
-  health
-
-  teach
-
-  please
-
-  measure
-
-  reopen
-
-  there'
-bip_39_word_new_line_11: 'enforce
-
-  cancel
-
-  dumb
-
-  custom
-
-  health
-
-  teach
-
-  please
-
-  measure
-
-  reopen
-
-  there
-
-  attitude'
 bip_39_word_new_line_12: 'enforce
 
   cancel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'enforce
   cancel
 
   dumb'
-bip_39_word_new_line_4: 'enforce
-
-  cancel
-
-  dumb
-
-  custom'
-bip_39_word_new_line_5: 'enforce
-
-  cancel
-
-  dumb
-
-  custom
-
-  health'
-bip_39_word_new_line_6: 'enforce
-
-  cancel
-
-  dumb
-
-  custom
-
-  health
-
-  teach'
-bip_39_word_new_line_7: 'enforce
-
-  cancel
-
-  dumb
-
-  custom
-
-  health
-
-  teach
-
-  please'
-bip_39_word_new_line_8: 'enforce
-
-  cancel
-
-  dumb
-
-  custom
-
-  health
-
-  teach
-
-  please
-
-  measure'
-bip_39_word_new_line_9: 'enforce
-
-  cancel
-
-  dumb
-
-  custom
-
-  health
-
-  teach
-
-  please
-
-  measure
-
-  reopen'
-bip_39_word_no_space_1: enforce
-bip_39_word_no_space_10: enforcecanceldumbcustomhealthteachpleasemeasurereopenthere
-bip_39_word_no_space_11: enforcecanceldumbcustomhealthteachpleasemeasurereopenthereattitude
 bip_39_word_no_space_12: enforcecanceldumbcustomhealthteachpleasemeasurereopenthereattitudeair
 bip_39_word_no_space_2: enforcecancel
 bip_39_word_no_space_3: enforcecanceldumb
-bip_39_word_no_space_4: enforcecanceldumbcustom
-bip_39_word_no_space_5: enforcecanceldumbcustomhealth
-bip_39_word_no_space_6: enforcecanceldumbcustomhealthteach
-bip_39_word_no_space_7: enforcecanceldumbcustomhealthteachplease
-bip_39_word_no_space_8: enforcecanceldumbcustomhealthteachpleasemeasure
-bip_39_word_no_space_9: enforcecanceldumbcustomhealthteachpleasemeasurereopen
-bip_39_word_space_0:
-- enforce
-- cancel
-- dumb
-- custom
-- health
-- teach
-- please
-- measure
-- reopen
-- there
-- attitude
-- air
-bip_39_word_space_1: enforce
-bip_39_word_space_10: enforce cancel dumb custom health teach please measure reopen
-  there
-bip_39_word_space_11: enforce cancel dumb custom health teach please measure reopen
-  there attitude
 bip_39_word_space_12: enforce cancel dumb custom health teach please measure reopen
   there attitude air
 bip_39_word_space_2: enforce cancel
 bip_39_word_space_3: enforce cancel dumb
-bip_39_word_space_4: enforce cancel dumb custom
-bip_39_word_space_5: enforce cancel dumb custom health
-bip_39_word_space_6: enforce cancel dumb custom health teach
-bip_39_word_space_7: enforce cancel dumb custom health teach please
-bip_39_word_space_8: enforce cancel dumb custom health teach please measure
-bip_39_word_space_9: enforce cancel dumb custom health teach please measure reopen
-bip_39_word_underscore_1: enforce
-bip_39_word_underscore_10: enforce_cancel_dumb_custom_health_teach_please_measure_reopen_there
-bip_39_word_underscore_11: enforce_cancel_dumb_custom_health_teach_please_measure_reopen_there_attitude
 bip_39_word_underscore_12: enforce_cancel_dumb_custom_health_teach_please_measure_reopen_there_attitude_air
 bip_39_word_underscore_2: enforce_cancel
 bip_39_word_underscore_3: enforce_cancel_dumb
-bip_39_word_underscore_4: enforce_cancel_dumb_custom
-bip_39_word_underscore_5: enforce_cancel_dumb_custom_health
-bip_39_word_underscore_6: enforce_cancel_dumb_custom_health_teach
-bip_39_word_underscore_7: enforce_cancel_dumb_custom_health_teach_please
-bip_39_word_underscore_8: enforce_cancel_dumb_custom_health_teach_please_measure
-bip_39_word_underscore_9: enforce_cancel_dumb_custom_health_teach_please_measure_reopen
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: turtle
-bip_39_word_dash_10: turtle-cabbage-machine-audit-stairs-roast-shoot-summer-next-novel
-bip_39_word_dash_11: turtle-cabbage-machine-audit-stairs-roast-shoot-summer-next-novel-camp
 bip_39_word_dash_12: turtle-cabbage-machine-audit-stairs-roast-shoot-summer-next-novel-camp-anger
 bip_39_word_dash_2: turtle-cabbage
 bip_39_word_dash_3: turtle-cabbage-machine
-bip_39_word_dash_4: turtle-cabbage-machine-audit
-bip_39_word_dash_5: turtle-cabbage-machine-audit-stairs
-bip_39_word_dash_6: turtle-cabbage-machine-audit-stairs-roast
-bip_39_word_dash_7: turtle-cabbage-machine-audit-stairs-roast-shoot
-bip_39_word_dash_8: turtle-cabbage-machine-audit-stairs-roast-shoot-summer
-bip_39_word_dash_9: turtle-cabbage-machine-audit-stairs-roast-shoot-summer-next
-bip_39_word_new_br_1: turtle
-bip_39_word_new_br_10: turtle<br>cabbage<br>machine<br>audit<br>stairs<br>roast<br>shoot<br>summer<br>next<br>novel
-bip_39_word_new_br_11: turtle<br>cabbage<br>machine<br>audit<br>stairs<br>roast<br>shoot<br>summer<br>next<br>novel<br>camp
 bip_39_word_new_br_12: turtle<br>cabbage<br>machine<br>audit<br>stairs<br>roast<br>shoot<br>summer<br>next<br>novel<br>camp<br>anger
 bip_39_word_new_br_2: turtle<br>cabbage
 bip_39_word_new_br_3: turtle<br>cabbage<br>machine
-bip_39_word_new_br_4: turtle<br>cabbage<br>machine<br>audit
-bip_39_word_new_br_5: turtle<br>cabbage<br>machine<br>audit<br>stairs
-bip_39_word_new_br_6: turtle<br>cabbage<br>machine<br>audit<br>stairs<br>roast
-bip_39_word_new_br_7: turtle<br>cabbage<br>machine<br>audit<br>stairs<br>roast<br>shoot
-bip_39_word_new_br_8: turtle<br>cabbage<br>machine<br>audit<br>stairs<br>roast<br>shoot<br>summer
-bip_39_word_new_br_9: turtle<br>cabbage<br>machine<br>audit<br>stairs<br>roast<br>shoot<br>summer<br>next
-bip_39_word_new_line_1: turtle
-bip_39_word_new_line_10: 'turtle
-
-  cabbage
-
-  machine
-
-  audit
-
-  stairs
-
-  roast
-
-  shoot
-
-  summer
-
-  next
-
-  novel'
-bip_39_word_new_line_11: 'turtle
-
-  cabbage
-
-  machine
-
-  audit
-
-  stairs
-
-  roast
-
-  shoot
-
-  summer
-
-  next
-
-  novel
-
-  camp'
 bip_39_word_new_line_12: 'turtle
 
   cabbage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'turtle
   cabbage
 
   machine'
-bip_39_word_new_line_4: 'turtle
-
-  cabbage
-
-  machine
-
-  audit'
-bip_39_word_new_line_5: 'turtle
-
-  cabbage
-
-  machine
-
-  audit
-
-  stairs'
-bip_39_word_new_line_6: 'turtle
-
-  cabbage
-
-  machine
-
-  audit
-
-  stairs
-
-  roast'
-bip_39_word_new_line_7: 'turtle
-
-  cabbage
-
-  machine
-
-  audit
-
-  stairs
-
-  roast
-
-  shoot'
-bip_39_word_new_line_8: 'turtle
-
-  cabbage
-
-  machine
-
-  audit
-
-  stairs
-
-  roast
-
-  shoot
-
-  summer'
-bip_39_word_new_line_9: 'turtle
-
-  cabbage
-
-  machine
-
-  audit
-
-  stairs
-
-  roast
-
-  shoot
-
-  summer
-
-  next'
-bip_39_word_no_space_1: turtle
-bip_39_word_no_space_10: turtlecabbagemachineauditstairsroastshootsummernextnovel
-bip_39_word_no_space_11: turtlecabbagemachineauditstairsroastshootsummernextnovelcamp
 bip_39_word_no_space_12: turtlecabbagemachineauditstairsroastshootsummernextnovelcampanger
 bip_39_word_no_space_2: turtlecabbage
 bip_39_word_no_space_3: turtlecabbagemachine
-bip_39_word_no_space_4: turtlecabbagemachineaudit
-bip_39_word_no_space_5: turtlecabbagemachineauditstairs
-bip_39_word_no_space_6: turtlecabbagemachineauditstairsroast
-bip_39_word_no_space_7: turtlecabbagemachineauditstairsroastshoot
-bip_39_word_no_space_8: turtlecabbagemachineauditstairsroastshootsummer
-bip_39_word_no_space_9: turtlecabbagemachineauditstairsroastshootsummernext
-bip_39_word_space_0:
-- turtle
-- cabbage
-- machine
-- audit
-- stairs
-- roast
-- shoot
-- summer
-- next
-- novel
-- camp
-- anger
-bip_39_word_space_1: turtle
-bip_39_word_space_10: turtle cabbage machine audit stairs roast shoot summer next
-  novel
-bip_39_word_space_11: turtle cabbage machine audit stairs roast shoot summer next
-  novel camp
 bip_39_word_space_12: turtle cabbage machine audit stairs roast shoot summer next
   novel camp anger
 bip_39_word_space_2: turtle cabbage
 bip_39_word_space_3: turtle cabbage machine
-bip_39_word_space_4: turtle cabbage machine audit
-bip_39_word_space_5: turtle cabbage machine audit stairs
-bip_39_word_space_6: turtle cabbage machine audit stairs roast
-bip_39_word_space_7: turtle cabbage machine audit stairs roast shoot
-bip_39_word_space_8: turtle cabbage machine audit stairs roast shoot summer
-bip_39_word_space_9: turtle cabbage machine audit stairs roast shoot summer next
-bip_39_word_underscore_1: turtle
-bip_39_word_underscore_10: turtle_cabbage_machine_audit_stairs_roast_shoot_summer_next_novel
-bip_39_word_underscore_11: turtle_cabbage_machine_audit_stairs_roast_shoot_summer_next_novel_camp
 bip_39_word_underscore_12: turtle_cabbage_machine_audit_stairs_roast_shoot_summer_next_novel_camp_anger
 bip_39_word_underscore_2: turtle_cabbage
 bip_39_word_underscore_3: turtle_cabbage_machine
-bip_39_word_underscore_4: turtle_cabbage_machine_audit
-bip_39_word_underscore_5: turtle_cabbage_machine_audit_stairs
-bip_39_word_underscore_6: turtle_cabbage_machine_audit_stairs_roast
-bip_39_word_underscore_7: turtle_cabbage_machine_audit_stairs_roast_shoot
-bip_39_word_underscore_8: turtle_cabbage_machine_audit_stairs_roast_shoot_summer
-bip_39_word_underscore_9: turtle_cabbage_machine_audit_stairs_roast_shoot_summer_next
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

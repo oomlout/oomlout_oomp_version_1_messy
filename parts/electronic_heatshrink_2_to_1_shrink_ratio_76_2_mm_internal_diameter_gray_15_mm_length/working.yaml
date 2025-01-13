@@ -1,68 +1,9 @@
-bip_39_word_dash_1: make
-bip_39_word_dash_10: make-blame-raccoon-swallow-firm-gloom-double-craft-meadow-exercise
-bip_39_word_dash_11: make-blame-raccoon-swallow-firm-gloom-double-craft-meadow-exercise-payment
 bip_39_word_dash_12: make-blame-raccoon-swallow-firm-gloom-double-craft-meadow-exercise-payment-armor
 bip_39_word_dash_2: make-blame
 bip_39_word_dash_3: make-blame-raccoon
-bip_39_word_dash_4: make-blame-raccoon-swallow
-bip_39_word_dash_5: make-blame-raccoon-swallow-firm
-bip_39_word_dash_6: make-blame-raccoon-swallow-firm-gloom
-bip_39_word_dash_7: make-blame-raccoon-swallow-firm-gloom-double
-bip_39_word_dash_8: make-blame-raccoon-swallow-firm-gloom-double-craft
-bip_39_word_dash_9: make-blame-raccoon-swallow-firm-gloom-double-craft-meadow
-bip_39_word_new_br_1: make
-bip_39_word_new_br_10: make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom<br>double<br>craft<br>meadow<br>exercise
-bip_39_word_new_br_11: make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom<br>double<br>craft<br>meadow<br>exercise<br>payment
 bip_39_word_new_br_12: make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom<br>double<br>craft<br>meadow<br>exercise<br>payment<br>armor
 bip_39_word_new_br_2: make<br>blame
 bip_39_word_new_br_3: make<br>blame<br>raccoon
-bip_39_word_new_br_4: make<br>blame<br>raccoon<br>swallow
-bip_39_word_new_br_5: make<br>blame<br>raccoon<br>swallow<br>firm
-bip_39_word_new_br_6: make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom
-bip_39_word_new_br_7: make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom<br>double
-bip_39_word_new_br_8: make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom<br>double<br>craft
-bip_39_word_new_br_9: make<br>blame<br>raccoon<br>swallow<br>firm<br>gloom<br>double<br>craft<br>meadow
-bip_39_word_new_line_1: make
-bip_39_word_new_line_10: 'make
-
-  blame
-
-  raccoon
-
-  swallow
-
-  firm
-
-  gloom
-
-  double
-
-  craft
-
-  meadow
-
-  exercise'
-bip_39_word_new_line_11: 'make
-
-  blame
-
-  raccoon
-
-  swallow
-
-  firm
-
-  gloom
-
-  double
-
-  craft
-
-  meadow
-
-  exercise
-
-  payment'
 bip_39_word_new_line_12: 'make
 
   blame
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'make
   blame
 
   raccoon'
-bip_39_word_new_line_4: 'make
-
-  blame
-
-  raccoon
-
-  swallow'
-bip_39_word_new_line_5: 'make
-
-  blame
-
-  raccoon
-
-  swallow
-
-  firm'
-bip_39_word_new_line_6: 'make
-
-  blame
-
-  raccoon
-
-  swallow
-
-  firm
-
-  gloom'
-bip_39_word_new_line_7: 'make
-
-  blame
-
-  raccoon
-
-  swallow
-
-  firm
-
-  gloom
-
-  double'
-bip_39_word_new_line_8: 'make
-
-  blame
-
-  raccoon
-
-  swallow
-
-  firm
-
-  gloom
-
-  double
-
-  craft'
-bip_39_word_new_line_9: 'make
-
-  blame
-
-  raccoon
-
-  swallow
-
-  firm
-
-  gloom
-
-  double
-
-  craft
-
-  meadow'
-bip_39_word_no_space_1: make
-bip_39_word_no_space_10: makeblameraccoonswallowfirmgloomdoublecraftmeadowexercise
-bip_39_word_no_space_11: makeblameraccoonswallowfirmgloomdoublecraftmeadowexercisepayment
 bip_39_word_no_space_12: makeblameraccoonswallowfirmgloomdoublecraftmeadowexercisepaymentarmor
 bip_39_word_no_space_2: makeblame
 bip_39_word_no_space_3: makeblameraccoon
-bip_39_word_no_space_4: makeblameraccoonswallow
-bip_39_word_no_space_5: makeblameraccoonswallowfirm
-bip_39_word_no_space_6: makeblameraccoonswallowfirmgloom
-bip_39_word_no_space_7: makeblameraccoonswallowfirmgloomdouble
-bip_39_word_no_space_8: makeblameraccoonswallowfirmgloomdoublecraft
-bip_39_word_no_space_9: makeblameraccoonswallowfirmgloomdoublecraftmeadow
-bip_39_word_space_0:
-- make
-- blame
-- raccoon
-- swallow
-- firm
-- gloom
-- double
-- craft
-- meadow
-- exercise
-- payment
-- armor
-bip_39_word_space_1: make
-bip_39_word_space_10: make blame raccoon swallow firm gloom double craft meadow exercise
-bip_39_word_space_11: make blame raccoon swallow firm gloom double craft meadow exercise
-  payment
 bip_39_word_space_12: make blame raccoon swallow firm gloom double craft meadow exercise
   payment armor
 bip_39_word_space_2: make blame
 bip_39_word_space_3: make blame raccoon
-bip_39_word_space_4: make blame raccoon swallow
-bip_39_word_space_5: make blame raccoon swallow firm
-bip_39_word_space_6: make blame raccoon swallow firm gloom
-bip_39_word_space_7: make blame raccoon swallow firm gloom double
-bip_39_word_space_8: make blame raccoon swallow firm gloom double craft
-bip_39_word_space_9: make blame raccoon swallow firm gloom double craft meadow
-bip_39_word_underscore_1: make
-bip_39_word_underscore_10: make_blame_raccoon_swallow_firm_gloom_double_craft_meadow_exercise
-bip_39_word_underscore_11: make_blame_raccoon_swallow_firm_gloom_double_craft_meadow_exercise_payment
 bip_39_word_underscore_12: make_blame_raccoon_swallow_firm_gloom_double_craft_meadow_exercise_payment_armor
 bip_39_word_underscore_2: make_blame
 bip_39_word_underscore_3: make_blame_raccoon
-bip_39_word_underscore_4: make_blame_raccoon_swallow
-bip_39_word_underscore_5: make_blame_raccoon_swallow_firm
-bip_39_word_underscore_6: make_blame_raccoon_swallow_firm_gloom
-bip_39_word_underscore_7: make_blame_raccoon_swallow_firm_gloom_double
-bip_39_word_underscore_8: make_blame_raccoon_swallow_firm_gloom_double_craft
-bip_39_word_underscore_9: make_blame_raccoon_swallow_firm_gloom_double_craft_meadow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

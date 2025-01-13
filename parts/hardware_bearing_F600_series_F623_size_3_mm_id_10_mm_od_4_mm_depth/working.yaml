@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vast
-bip_39_word_dash_10: vast-buyer-have-index-man-orchard-scout-acquire-beyond-roast
-bip_39_word_dash_11: vast-buyer-have-index-man-orchard-scout-acquire-beyond-roast-apart
 bip_39_word_dash_12: vast-buyer-have-index-man-orchard-scout-acquire-beyond-roast-apart-advance
 bip_39_word_dash_2: vast-buyer
 bip_39_word_dash_3: vast-buyer-have
-bip_39_word_dash_4: vast-buyer-have-index
-bip_39_word_dash_5: vast-buyer-have-index-man
-bip_39_word_dash_6: vast-buyer-have-index-man-orchard
-bip_39_word_dash_7: vast-buyer-have-index-man-orchard-scout
-bip_39_word_dash_8: vast-buyer-have-index-man-orchard-scout-acquire
-bip_39_word_dash_9: vast-buyer-have-index-man-orchard-scout-acquire-beyond
-bip_39_word_new_br_1: vast
-bip_39_word_new_br_10: vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond<br>roast
-bip_39_word_new_br_11: vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond<br>roast<br>apart
 bip_39_word_new_br_12: vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond<br>roast<br>apart<br>advance
 bip_39_word_new_br_2: vast<br>buyer
 bip_39_word_new_br_3: vast<br>buyer<br>have
-bip_39_word_new_br_4: vast<br>buyer<br>have<br>index
-bip_39_word_new_br_5: vast<br>buyer<br>have<br>index<br>man
-bip_39_word_new_br_6: vast<br>buyer<br>have<br>index<br>man<br>orchard
-bip_39_word_new_br_7: vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout
-bip_39_word_new_br_8: vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire
-bip_39_word_new_br_9: vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond
-bip_39_word_new_line_1: vast
-bip_39_word_new_line_10: 'vast
-
-  buyer
-
-  have
-
-  index
-
-  man
-
-  orchard
-
-  scout
-
-  acquire
-
-  beyond
-
-  roast'
-bip_39_word_new_line_11: 'vast
-
-  buyer
-
-  have
-
-  index
-
-  man
-
-  orchard
-
-  scout
-
-  acquire
-
-  beyond
-
-  roast
-
-  apart'
 bip_39_word_new_line_12: 'vast
 
   buyer
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vast
   buyer
 
   have'
-bip_39_word_new_line_4: 'vast
-
-  buyer
-
-  have
-
-  index'
-bip_39_word_new_line_5: 'vast
-
-  buyer
-
-  have
-
-  index
-
-  man'
-bip_39_word_new_line_6: 'vast
-
-  buyer
-
-  have
-
-  index
-
-  man
-
-  orchard'
-bip_39_word_new_line_7: 'vast
-
-  buyer
-
-  have
-
-  index
-
-  man
-
-  orchard
-
-  scout'
-bip_39_word_new_line_8: 'vast
-
-  buyer
-
-  have
-
-  index
-
-  man
-
-  orchard
-
-  scout
-
-  acquire'
-bip_39_word_new_line_9: 'vast
-
-  buyer
-
-  have
-
-  index
-
-  man
-
-  orchard
-
-  scout
-
-  acquire
-
-  beyond'
-bip_39_word_no_space_1: vast
-bip_39_word_no_space_10: vastbuyerhaveindexmanorchardscoutacquirebeyondroast
-bip_39_word_no_space_11: vastbuyerhaveindexmanorchardscoutacquirebeyondroastapart
 bip_39_word_no_space_12: vastbuyerhaveindexmanorchardscoutacquirebeyondroastapartadvance
 bip_39_word_no_space_2: vastbuyer
 bip_39_word_no_space_3: vastbuyerhave
-bip_39_word_no_space_4: vastbuyerhaveindex
-bip_39_word_no_space_5: vastbuyerhaveindexman
-bip_39_word_no_space_6: vastbuyerhaveindexmanorchard
-bip_39_word_no_space_7: vastbuyerhaveindexmanorchardscout
-bip_39_word_no_space_8: vastbuyerhaveindexmanorchardscoutacquire
-bip_39_word_no_space_9: vastbuyerhaveindexmanorchardscoutacquirebeyond
-bip_39_word_space_0:
-- vast
-- buyer
-- have
-- index
-- man
-- orchard
-- scout
-- acquire
-- beyond
-- roast
-- apart
-- advance
-bip_39_word_space_1: vast
-bip_39_word_space_10: vast buyer have index man orchard scout acquire beyond roast
-bip_39_word_space_11: vast buyer have index man orchard scout acquire beyond roast
-  apart
 bip_39_word_space_12: vast buyer have index man orchard scout acquire beyond roast
   apart advance
 bip_39_word_space_2: vast buyer
 bip_39_word_space_3: vast buyer have
-bip_39_word_space_4: vast buyer have index
-bip_39_word_space_5: vast buyer have index man
-bip_39_word_space_6: vast buyer have index man orchard
-bip_39_word_space_7: vast buyer have index man orchard scout
-bip_39_word_space_8: vast buyer have index man orchard scout acquire
-bip_39_word_space_9: vast buyer have index man orchard scout acquire beyond
-bip_39_word_underscore_1: vast
-bip_39_word_underscore_10: vast_buyer_have_index_man_orchard_scout_acquire_beyond_roast
-bip_39_word_underscore_11: vast_buyer_have_index_man_orchard_scout_acquire_beyond_roast_apart
 bip_39_word_underscore_12: vast_buyer_have_index_man_orchard_scout_acquire_beyond_roast_apart_advance
 bip_39_word_underscore_2: vast_buyer
 bip_39_word_underscore_3: vast_buyer_have
-bip_39_word_underscore_4: vast_buyer_have_index
-bip_39_word_underscore_5: vast_buyer_have_index_man
-bip_39_word_underscore_6: vast_buyer_have_index_man_orchard
-bip_39_word_underscore_7: vast_buyer_have_index_man_orchard_scout
-bip_39_word_underscore_8: vast_buyer_have_index_man_orchard_scout_acquire
-bip_39_word_underscore_9: vast_buyer_have_index_man_orchard_scout_acquire_beyond
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

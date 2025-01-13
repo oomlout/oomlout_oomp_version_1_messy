@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spawn
-bip_39_word_dash_10: spawn-load-kitten-someone-virtual-produce-snow-captain-birth-media
-bip_39_word_dash_11: spawn-load-kitten-someone-virtual-produce-snow-captain-birth-media-broccoli
 bip_39_word_dash_12: spawn-load-kitten-someone-virtual-produce-snow-captain-birth-media-broccoli-achieve
 bip_39_word_dash_2: spawn-load
 bip_39_word_dash_3: spawn-load-kitten
-bip_39_word_dash_4: spawn-load-kitten-someone
-bip_39_word_dash_5: spawn-load-kitten-someone-virtual
-bip_39_word_dash_6: spawn-load-kitten-someone-virtual-produce
-bip_39_word_dash_7: spawn-load-kitten-someone-virtual-produce-snow
-bip_39_word_dash_8: spawn-load-kitten-someone-virtual-produce-snow-captain
-bip_39_word_dash_9: spawn-load-kitten-someone-virtual-produce-snow-captain-birth
-bip_39_word_new_br_1: spawn
-bip_39_word_new_br_10: spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media
-bip_39_word_new_br_11: spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media<br>broccoli
 bip_39_word_new_br_12: spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth<br>media<br>broccoli<br>achieve
 bip_39_word_new_br_2: spawn<br>load
 bip_39_word_new_br_3: spawn<br>load<br>kitten
-bip_39_word_new_br_4: spawn<br>load<br>kitten<br>someone
-bip_39_word_new_br_5: spawn<br>load<br>kitten<br>someone<br>virtual
-bip_39_word_new_br_6: spawn<br>load<br>kitten<br>someone<br>virtual<br>produce
-bip_39_word_new_br_7: spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow
-bip_39_word_new_br_8: spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain
-bip_39_word_new_br_9: spawn<br>load<br>kitten<br>someone<br>virtual<br>produce<br>snow<br>captain<br>birth
-bip_39_word_new_line_1: spawn
-bip_39_word_new_line_10: 'spawn
-
-  load
-
-  kitten
-
-  someone
-
-  virtual
-
-  produce
-
-  snow
-
-  captain
-
-  birth
-
-  media'
-bip_39_word_new_line_11: 'spawn
-
-  load
-
-  kitten
-
-  someone
-
-  virtual
-
-  produce
-
-  snow
-
-  captain
-
-  birth
-
-  media
-
-  broccoli'
 bip_39_word_new_line_12: 'spawn
 
   load
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spawn
   load
 
   kitten'
-bip_39_word_new_line_4: 'spawn
-
-  load
-
-  kitten
-
-  someone'
-bip_39_word_new_line_5: 'spawn
-
-  load
-
-  kitten
-
-  someone
-
-  virtual'
-bip_39_word_new_line_6: 'spawn
-
-  load
-
-  kitten
-
-  someone
-
-  virtual
-
-  produce'
-bip_39_word_new_line_7: 'spawn
-
-  load
-
-  kitten
-
-  someone
-
-  virtual
-
-  produce
-
-  snow'
-bip_39_word_new_line_8: 'spawn
-
-  load
-
-  kitten
-
-  someone
-
-  virtual
-
-  produce
-
-  snow
-
-  captain'
-bip_39_word_new_line_9: 'spawn
-
-  load
-
-  kitten
-
-  someone
-
-  virtual
-
-  produce
-
-  snow
-
-  captain
-
-  birth'
-bip_39_word_no_space_1: spawn
-bip_39_word_no_space_10: spawnloadkittensomeonevirtualproducesnowcaptainbirthmedia
-bip_39_word_no_space_11: spawnloadkittensomeonevirtualproducesnowcaptainbirthmediabroccoli
 bip_39_word_no_space_12: spawnloadkittensomeonevirtualproducesnowcaptainbirthmediabroccoliachieve
 bip_39_word_no_space_2: spawnload
 bip_39_word_no_space_3: spawnloadkitten
-bip_39_word_no_space_4: spawnloadkittensomeone
-bip_39_word_no_space_5: spawnloadkittensomeonevirtual
-bip_39_word_no_space_6: spawnloadkittensomeonevirtualproduce
-bip_39_word_no_space_7: spawnloadkittensomeonevirtualproducesnow
-bip_39_word_no_space_8: spawnloadkittensomeonevirtualproducesnowcaptain
-bip_39_word_no_space_9: spawnloadkittensomeonevirtualproducesnowcaptainbirth
-bip_39_word_space_0:
-- spawn
-- load
-- kitten
-- someone
-- virtual
-- produce
-- snow
-- captain
-- birth
-- media
-- broccoli
-- achieve
-bip_39_word_space_1: spawn
-bip_39_word_space_10: spawn load kitten someone virtual produce snow captain birth
-  media
-bip_39_word_space_11: spawn load kitten someone virtual produce snow captain birth
-  media broccoli
 bip_39_word_space_12: spawn load kitten someone virtual produce snow captain birth
   media broccoli achieve
 bip_39_word_space_2: spawn load
 bip_39_word_space_3: spawn load kitten
-bip_39_word_space_4: spawn load kitten someone
-bip_39_word_space_5: spawn load kitten someone virtual
-bip_39_word_space_6: spawn load kitten someone virtual produce
-bip_39_word_space_7: spawn load kitten someone virtual produce snow
-bip_39_word_space_8: spawn load kitten someone virtual produce snow captain
-bip_39_word_space_9: spawn load kitten someone virtual produce snow captain birth
-bip_39_word_underscore_1: spawn
-bip_39_word_underscore_10: spawn_load_kitten_someone_virtual_produce_snow_captain_birth_media
-bip_39_word_underscore_11: spawn_load_kitten_someone_virtual_produce_snow_captain_birth_media_broccoli
 bip_39_word_underscore_12: spawn_load_kitten_someone_virtual_produce_snow_captain_birth_media_broccoli_achieve
 bip_39_word_underscore_2: spawn_load
 bip_39_word_underscore_3: spawn_load_kitten
-bip_39_word_underscore_4: spawn_load_kitten_someone
-bip_39_word_underscore_5: spawn_load_kitten_someone_virtual
-bip_39_word_underscore_6: spawn_load_kitten_someone_virtual_produce
-bip_39_word_underscore_7: spawn_load_kitten_someone_virtual_produce_snow
-bip_39_word_underscore_8: spawn_load_kitten_someone_virtual_produce_snow_captain
-bip_39_word_underscore_9: spawn_load_kitten_someone_virtual_produce_snow_captain_birth
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

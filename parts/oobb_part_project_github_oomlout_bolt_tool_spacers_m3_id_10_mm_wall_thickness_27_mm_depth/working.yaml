@@ -1,68 +1,9 @@
-bip_39_word_dash_1: curve
-bip_39_word_dash_10: curve-bus-rifle-mass-bag-meadow-push-radio-into-tray
-bip_39_word_dash_11: curve-bus-rifle-mass-bag-meadow-push-radio-into-tray-drum
 bip_39_word_dash_12: curve-bus-rifle-mass-bag-meadow-push-radio-into-tray-drum-actress
 bip_39_word_dash_2: curve-bus
 bip_39_word_dash_3: curve-bus-rifle
-bip_39_word_dash_4: curve-bus-rifle-mass
-bip_39_word_dash_5: curve-bus-rifle-mass-bag
-bip_39_word_dash_6: curve-bus-rifle-mass-bag-meadow
-bip_39_word_dash_7: curve-bus-rifle-mass-bag-meadow-push
-bip_39_word_dash_8: curve-bus-rifle-mass-bag-meadow-push-radio
-bip_39_word_dash_9: curve-bus-rifle-mass-bag-meadow-push-radio-into
-bip_39_word_new_br_1: curve
-bip_39_word_new_br_10: curve<br>bus<br>rifle<br>mass<br>bag<br>meadow<br>push<br>radio<br>into<br>tray
-bip_39_word_new_br_11: curve<br>bus<br>rifle<br>mass<br>bag<br>meadow<br>push<br>radio<br>into<br>tray<br>drum
 bip_39_word_new_br_12: curve<br>bus<br>rifle<br>mass<br>bag<br>meadow<br>push<br>radio<br>into<br>tray<br>drum<br>actress
 bip_39_word_new_br_2: curve<br>bus
 bip_39_word_new_br_3: curve<br>bus<br>rifle
-bip_39_word_new_br_4: curve<br>bus<br>rifle<br>mass
-bip_39_word_new_br_5: curve<br>bus<br>rifle<br>mass<br>bag
-bip_39_word_new_br_6: curve<br>bus<br>rifle<br>mass<br>bag<br>meadow
-bip_39_word_new_br_7: curve<br>bus<br>rifle<br>mass<br>bag<br>meadow<br>push
-bip_39_word_new_br_8: curve<br>bus<br>rifle<br>mass<br>bag<br>meadow<br>push<br>radio
-bip_39_word_new_br_9: curve<br>bus<br>rifle<br>mass<br>bag<br>meadow<br>push<br>radio<br>into
-bip_39_word_new_line_1: curve
-bip_39_word_new_line_10: 'curve
-
-  bus
-
-  rifle
-
-  mass
-
-  bag
-
-  meadow
-
-  push
-
-  radio
-
-  into
-
-  tray'
-bip_39_word_new_line_11: 'curve
-
-  bus
-
-  rifle
-
-  mass
-
-  bag
-
-  meadow
-
-  push
-
-  radio
-
-  into
-
-  tray
-
-  drum'
 bip_39_word_new_line_12: 'curve
 
   bus
@@ -94,127 +35,15 @@ bip_39_word_new_line_3: 'curve
   bus
 
   rifle'
-bip_39_word_new_line_4: 'curve
-
-  bus
-
-  rifle
-
-  mass'
-bip_39_word_new_line_5: 'curve
-
-  bus
-
-  rifle
-
-  mass
-
-  bag'
-bip_39_word_new_line_6: 'curve
-
-  bus
-
-  rifle
-
-  mass
-
-  bag
-
-  meadow'
-bip_39_word_new_line_7: 'curve
-
-  bus
-
-  rifle
-
-  mass
-
-  bag
-
-  meadow
-
-  push'
-bip_39_word_new_line_8: 'curve
-
-  bus
-
-  rifle
-
-  mass
-
-  bag
-
-  meadow
-
-  push
-
-  radio'
-bip_39_word_new_line_9: 'curve
-
-  bus
-
-  rifle
-
-  mass
-
-  bag
-
-  meadow
-
-  push
-
-  radio
-
-  into'
-bip_39_word_no_space_1: curve
-bip_39_word_no_space_10: curvebusriflemassbagmeadowpushradiointotray
-bip_39_word_no_space_11: curvebusriflemassbagmeadowpushradiointotraydrum
 bip_39_word_no_space_12: curvebusriflemassbagmeadowpushradiointotraydrumactress
 bip_39_word_no_space_2: curvebus
 bip_39_word_no_space_3: curvebusrifle
-bip_39_word_no_space_4: curvebusriflemass
-bip_39_word_no_space_5: curvebusriflemassbag
-bip_39_word_no_space_6: curvebusriflemassbagmeadow
-bip_39_word_no_space_7: curvebusriflemassbagmeadowpush
-bip_39_word_no_space_8: curvebusriflemassbagmeadowpushradio
-bip_39_word_no_space_9: curvebusriflemassbagmeadowpushradiointo
-bip_39_word_space_0:
-- curve
-- bus
-- rifle
-- mass
-- bag
-- meadow
-- push
-- radio
-- into
-- tray
-- drum
-- actress
-bip_39_word_space_1: curve
-bip_39_word_space_10: curve bus rifle mass bag meadow push radio into tray
-bip_39_word_space_11: curve bus rifle mass bag meadow push radio into tray drum
 bip_39_word_space_12: curve bus rifle mass bag meadow push radio into tray drum actress
 bip_39_word_space_2: curve bus
 bip_39_word_space_3: curve bus rifle
-bip_39_word_space_4: curve bus rifle mass
-bip_39_word_space_5: curve bus rifle mass bag
-bip_39_word_space_6: curve bus rifle mass bag meadow
-bip_39_word_space_7: curve bus rifle mass bag meadow push
-bip_39_word_space_8: curve bus rifle mass bag meadow push radio
-bip_39_word_space_9: curve bus rifle mass bag meadow push radio into
-bip_39_word_underscore_1: curve
-bip_39_word_underscore_10: curve_bus_rifle_mass_bag_meadow_push_radio_into_tray
-bip_39_word_underscore_11: curve_bus_rifle_mass_bag_meadow_push_radio_into_tray_drum
 bip_39_word_underscore_12: curve_bus_rifle_mass_bag_meadow_push_radio_into_tray_drum_actress
 bip_39_word_underscore_2: curve_bus
 bip_39_word_underscore_3: curve_bus_rifle
-bip_39_word_underscore_4: curve_bus_rifle_mass
-bip_39_word_underscore_5: curve_bus_rifle_mass_bag
-bip_39_word_underscore_6: curve_bus_rifle_mass_bag_meadow
-bip_39_word_underscore_7: curve_bus_rifle_mass_bag_meadow_push
-bip_39_word_underscore_8: curve_bus_rifle_mass_bag_meadow_push_radio
-bip_39_word_underscore_9: curve_bus_rifle_mass_bag_meadow_push_radio_into
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: expand
-bip_39_word_dash_10: expand-flame-riot-pitch-spell-whale-chef-lady-avoid-confirm
-bip_39_word_dash_11: expand-flame-riot-pitch-spell-whale-chef-lady-avoid-confirm-adapt
 bip_39_word_dash_12: expand-flame-riot-pitch-spell-whale-chef-lady-avoid-confirm-adapt-aerobic
 bip_39_word_dash_2: expand-flame
 bip_39_word_dash_3: expand-flame-riot
-bip_39_word_dash_4: expand-flame-riot-pitch
-bip_39_word_dash_5: expand-flame-riot-pitch-spell
-bip_39_word_dash_6: expand-flame-riot-pitch-spell-whale
-bip_39_word_dash_7: expand-flame-riot-pitch-spell-whale-chef
-bip_39_word_dash_8: expand-flame-riot-pitch-spell-whale-chef-lady
-bip_39_word_dash_9: expand-flame-riot-pitch-spell-whale-chef-lady-avoid
-bip_39_word_new_br_1: expand
-bip_39_word_new_br_10: expand<br>flame<br>riot<br>pitch<br>spell<br>whale<br>chef<br>lady<br>avoid<br>confirm
-bip_39_word_new_br_11: expand<br>flame<br>riot<br>pitch<br>spell<br>whale<br>chef<br>lady<br>avoid<br>confirm<br>adapt
 bip_39_word_new_br_12: expand<br>flame<br>riot<br>pitch<br>spell<br>whale<br>chef<br>lady<br>avoid<br>confirm<br>adapt<br>aerobic
 bip_39_word_new_br_2: expand<br>flame
 bip_39_word_new_br_3: expand<br>flame<br>riot
-bip_39_word_new_br_4: expand<br>flame<br>riot<br>pitch
-bip_39_word_new_br_5: expand<br>flame<br>riot<br>pitch<br>spell
-bip_39_word_new_br_6: expand<br>flame<br>riot<br>pitch<br>spell<br>whale
-bip_39_word_new_br_7: expand<br>flame<br>riot<br>pitch<br>spell<br>whale<br>chef
-bip_39_word_new_br_8: expand<br>flame<br>riot<br>pitch<br>spell<br>whale<br>chef<br>lady
-bip_39_word_new_br_9: expand<br>flame<br>riot<br>pitch<br>spell<br>whale<br>chef<br>lady<br>avoid
-bip_39_word_new_line_1: expand
-bip_39_word_new_line_10: 'expand
-
-  flame
-
-  riot
-
-  pitch
-
-  spell
-
-  whale
-
-  chef
-
-  lady
-
-  avoid
-
-  confirm'
-bip_39_word_new_line_11: 'expand
-
-  flame
-
-  riot
-
-  pitch
-
-  spell
-
-  whale
-
-  chef
-
-  lady
-
-  avoid
-
-  confirm
-
-  adapt'
 bip_39_word_new_line_12: 'expand
 
   flame
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'expand
   flame
 
   riot'
-bip_39_word_new_line_4: 'expand
-
-  flame
-
-  riot
-
-  pitch'
-bip_39_word_new_line_5: 'expand
-
-  flame
-
-  riot
-
-  pitch
-
-  spell'
-bip_39_word_new_line_6: 'expand
-
-  flame
-
-  riot
-
-  pitch
-
-  spell
-
-  whale'
-bip_39_word_new_line_7: 'expand
-
-  flame
-
-  riot
-
-  pitch
-
-  spell
-
-  whale
-
-  chef'
-bip_39_word_new_line_8: 'expand
-
-  flame
-
-  riot
-
-  pitch
-
-  spell
-
-  whale
-
-  chef
-
-  lady'
-bip_39_word_new_line_9: 'expand
-
-  flame
-
-  riot
-
-  pitch
-
-  spell
-
-  whale
-
-  chef
-
-  lady
-
-  avoid'
-bip_39_word_no_space_1: expand
-bip_39_word_no_space_10: expandflameriotpitchspellwhalechefladyavoidconfirm
-bip_39_word_no_space_11: expandflameriotpitchspellwhalechefladyavoidconfirmadapt
 bip_39_word_no_space_12: expandflameriotpitchspellwhalechefladyavoidconfirmadaptaerobic
 bip_39_word_no_space_2: expandflame
 bip_39_word_no_space_3: expandflameriot
-bip_39_word_no_space_4: expandflameriotpitch
-bip_39_word_no_space_5: expandflameriotpitchspell
-bip_39_word_no_space_6: expandflameriotpitchspellwhale
-bip_39_word_no_space_7: expandflameriotpitchspellwhalechef
-bip_39_word_no_space_8: expandflameriotpitchspellwhalecheflady
-bip_39_word_no_space_9: expandflameriotpitchspellwhalechefladyavoid
-bip_39_word_space_0:
-- expand
-- flame
-- riot
-- pitch
-- spell
-- whale
-- chef
-- lady
-- avoid
-- confirm
-- adapt
-- aerobic
-bip_39_word_space_1: expand
-bip_39_word_space_10: expand flame riot pitch spell whale chef lady avoid confirm
-bip_39_word_space_11: expand flame riot pitch spell whale chef lady avoid confirm
-  adapt
 bip_39_word_space_12: expand flame riot pitch spell whale chef lady avoid confirm
   adapt aerobic
 bip_39_word_space_2: expand flame
 bip_39_word_space_3: expand flame riot
-bip_39_word_space_4: expand flame riot pitch
-bip_39_word_space_5: expand flame riot pitch spell
-bip_39_word_space_6: expand flame riot pitch spell whale
-bip_39_word_space_7: expand flame riot pitch spell whale chef
-bip_39_word_space_8: expand flame riot pitch spell whale chef lady
-bip_39_word_space_9: expand flame riot pitch spell whale chef lady avoid
-bip_39_word_underscore_1: expand
-bip_39_word_underscore_10: expand_flame_riot_pitch_spell_whale_chef_lady_avoid_confirm
-bip_39_word_underscore_11: expand_flame_riot_pitch_spell_whale_chef_lady_avoid_confirm_adapt
 bip_39_word_underscore_12: expand_flame_riot_pitch_spell_whale_chef_lady_avoid_confirm_adapt_aerobic
 bip_39_word_underscore_2: expand_flame
 bip_39_word_underscore_3: expand_flame_riot
-bip_39_word_underscore_4: expand_flame_riot_pitch
-bip_39_word_underscore_5: expand_flame_riot_pitch_spell
-bip_39_word_underscore_6: expand_flame_riot_pitch_spell_whale
-bip_39_word_underscore_7: expand_flame_riot_pitch_spell_whale_chef
-bip_39_word_underscore_8: expand_flame_riot_pitch_spell_whale_chef_lady
-bip_39_word_underscore_9: expand_flame_riot_pitch_spell_whale_chef_lady_avoid
 classification: category
 classification_capital: Category
 classification_first_letter: c

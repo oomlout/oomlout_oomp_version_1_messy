@@ -1,68 +1,9 @@
-bip_39_word_dash_1: style
-bip_39_word_dash_10: style-skill-clay-wrist-stadium-prison-eager-apology-absent-addict
-bip_39_word_dash_11: style-skill-clay-wrist-stadium-prison-eager-apology-absent-addict-found
 bip_39_word_dash_12: style-skill-clay-wrist-stadium-prison-eager-apology-absent-addict-found-address
 bip_39_word_dash_2: style-skill
 bip_39_word_dash_3: style-skill-clay
-bip_39_word_dash_4: style-skill-clay-wrist
-bip_39_word_dash_5: style-skill-clay-wrist-stadium
-bip_39_word_dash_6: style-skill-clay-wrist-stadium-prison
-bip_39_word_dash_7: style-skill-clay-wrist-stadium-prison-eager
-bip_39_word_dash_8: style-skill-clay-wrist-stadium-prison-eager-apology
-bip_39_word_dash_9: style-skill-clay-wrist-stadium-prison-eager-apology-absent
-bip_39_word_new_br_1: style
-bip_39_word_new_br_10: style<br>skill<br>clay<br>wrist<br>stadium<br>prison<br>eager<br>apology<br>absent<br>addict
-bip_39_word_new_br_11: style<br>skill<br>clay<br>wrist<br>stadium<br>prison<br>eager<br>apology<br>absent<br>addict<br>found
 bip_39_word_new_br_12: style<br>skill<br>clay<br>wrist<br>stadium<br>prison<br>eager<br>apology<br>absent<br>addict<br>found<br>address
 bip_39_word_new_br_2: style<br>skill
 bip_39_word_new_br_3: style<br>skill<br>clay
-bip_39_word_new_br_4: style<br>skill<br>clay<br>wrist
-bip_39_word_new_br_5: style<br>skill<br>clay<br>wrist<br>stadium
-bip_39_word_new_br_6: style<br>skill<br>clay<br>wrist<br>stadium<br>prison
-bip_39_word_new_br_7: style<br>skill<br>clay<br>wrist<br>stadium<br>prison<br>eager
-bip_39_word_new_br_8: style<br>skill<br>clay<br>wrist<br>stadium<br>prison<br>eager<br>apology
-bip_39_word_new_br_9: style<br>skill<br>clay<br>wrist<br>stadium<br>prison<br>eager<br>apology<br>absent
-bip_39_word_new_line_1: style
-bip_39_word_new_line_10: 'style
-
-  skill
-
-  clay
-
-  wrist
-
-  stadium
-
-  prison
-
-  eager
-
-  apology
-
-  absent
-
-  addict'
-bip_39_word_new_line_11: 'style
-
-  skill
-
-  clay
-
-  wrist
-
-  stadium
-
-  prison
-
-  eager
-
-  apology
-
-  absent
-
-  addict
-
-  found'
 bip_39_word_new_line_12: 'style
 
   skill
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'style
   skill
 
   clay'
-bip_39_word_new_line_4: 'style
-
-  skill
-
-  clay
-
-  wrist'
-bip_39_word_new_line_5: 'style
-
-  skill
-
-  clay
-
-  wrist
-
-  stadium'
-bip_39_word_new_line_6: 'style
-
-  skill
-
-  clay
-
-  wrist
-
-  stadium
-
-  prison'
-bip_39_word_new_line_7: 'style
-
-  skill
-
-  clay
-
-  wrist
-
-  stadium
-
-  prison
-
-  eager'
-bip_39_word_new_line_8: 'style
-
-  skill
-
-  clay
-
-  wrist
-
-  stadium
-
-  prison
-
-  eager
-
-  apology'
-bip_39_word_new_line_9: 'style
-
-  skill
-
-  clay
-
-  wrist
-
-  stadium
-
-  prison
-
-  eager
-
-  apology
-
-  absent'
-bip_39_word_no_space_1: style
-bip_39_word_no_space_10: styleskillclaywriststadiumprisoneagerapologyabsentaddict
-bip_39_word_no_space_11: styleskillclaywriststadiumprisoneagerapologyabsentaddictfound
 bip_39_word_no_space_12: styleskillclaywriststadiumprisoneagerapologyabsentaddictfoundaddress
 bip_39_word_no_space_2: styleskill
 bip_39_word_no_space_3: styleskillclay
-bip_39_word_no_space_4: styleskillclaywrist
-bip_39_word_no_space_5: styleskillclaywriststadium
-bip_39_word_no_space_6: styleskillclaywriststadiumprison
-bip_39_word_no_space_7: styleskillclaywriststadiumprisoneager
-bip_39_word_no_space_8: styleskillclaywriststadiumprisoneagerapology
-bip_39_word_no_space_9: styleskillclaywriststadiumprisoneagerapologyabsent
-bip_39_word_space_0:
-- style
-- skill
-- clay
-- wrist
-- stadium
-- prison
-- eager
-- apology
-- absent
-- addict
-- found
-- address
-bip_39_word_space_1: style
-bip_39_word_space_10: style skill clay wrist stadium prison eager apology absent addict
-bip_39_word_space_11: style skill clay wrist stadium prison eager apology absent addict
-  found
 bip_39_word_space_12: style skill clay wrist stadium prison eager apology absent addict
   found address
 bip_39_word_space_2: style skill
 bip_39_word_space_3: style skill clay
-bip_39_word_space_4: style skill clay wrist
-bip_39_word_space_5: style skill clay wrist stadium
-bip_39_word_space_6: style skill clay wrist stadium prison
-bip_39_word_space_7: style skill clay wrist stadium prison eager
-bip_39_word_space_8: style skill clay wrist stadium prison eager apology
-bip_39_word_space_9: style skill clay wrist stadium prison eager apology absent
-bip_39_word_underscore_1: style
-bip_39_word_underscore_10: style_skill_clay_wrist_stadium_prison_eager_apology_absent_addict
-bip_39_word_underscore_11: style_skill_clay_wrist_stadium_prison_eager_apology_absent_addict_found
 bip_39_word_underscore_12: style_skill_clay_wrist_stadium_prison_eager_apology_absent_addict_found_address
 bip_39_word_underscore_2: style_skill
 bip_39_word_underscore_3: style_skill_clay
-bip_39_word_underscore_4: style_skill_clay_wrist
-bip_39_word_underscore_5: style_skill_clay_wrist_stadium
-bip_39_word_underscore_6: style_skill_clay_wrist_stadium_prison
-bip_39_word_underscore_7: style_skill_clay_wrist_stadium_prison_eager
-bip_39_word_underscore_8: style_skill_clay_wrist_stadium_prison_eager_apology
-bip_39_word_underscore_9: style_skill_clay_wrist_stadium_prison_eager_apology_absent
 classification: food
 classification_capital: Food
 classification_first_letter: f

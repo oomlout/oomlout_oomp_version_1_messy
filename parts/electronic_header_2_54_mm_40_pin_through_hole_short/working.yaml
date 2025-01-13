@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bar
-bip_39_word_dash_10: bar-bitter-elevator-often-toward-convince-donate-danger-library-adult
-bip_39_word_dash_11: bar-bitter-elevator-often-toward-convince-donate-danger-library-adult-veteran
 bip_39_word_dash_12: bar-bitter-elevator-often-toward-convince-donate-danger-library-adult-veteran-any
 bip_39_word_dash_2: bar-bitter
 bip_39_word_dash_3: bar-bitter-elevator
-bip_39_word_dash_4: bar-bitter-elevator-often
-bip_39_word_dash_5: bar-bitter-elevator-often-toward
-bip_39_word_dash_6: bar-bitter-elevator-often-toward-convince
-bip_39_word_dash_7: bar-bitter-elevator-often-toward-convince-donate
-bip_39_word_dash_8: bar-bitter-elevator-often-toward-convince-donate-danger
-bip_39_word_dash_9: bar-bitter-elevator-often-toward-convince-donate-danger-library
-bip_39_word_new_br_1: bar
-bip_39_word_new_br_10: bar<br>bitter<br>elevator<br>often<br>toward<br>convince<br>donate<br>danger<br>library<br>adult
-bip_39_word_new_br_11: bar<br>bitter<br>elevator<br>often<br>toward<br>convince<br>donate<br>danger<br>library<br>adult<br>veteran
 bip_39_word_new_br_12: bar<br>bitter<br>elevator<br>often<br>toward<br>convince<br>donate<br>danger<br>library<br>adult<br>veteran<br>any
 bip_39_word_new_br_2: bar<br>bitter
 bip_39_word_new_br_3: bar<br>bitter<br>elevator
-bip_39_word_new_br_4: bar<br>bitter<br>elevator<br>often
-bip_39_word_new_br_5: bar<br>bitter<br>elevator<br>often<br>toward
-bip_39_word_new_br_6: bar<br>bitter<br>elevator<br>often<br>toward<br>convince
-bip_39_word_new_br_7: bar<br>bitter<br>elevator<br>often<br>toward<br>convince<br>donate
-bip_39_word_new_br_8: bar<br>bitter<br>elevator<br>often<br>toward<br>convince<br>donate<br>danger
-bip_39_word_new_br_9: bar<br>bitter<br>elevator<br>often<br>toward<br>convince<br>donate<br>danger<br>library
-bip_39_word_new_line_1: bar
-bip_39_word_new_line_10: 'bar
-
-  bitter
-
-  elevator
-
-  often
-
-  toward
-
-  convince
-
-  donate
-
-  danger
-
-  library
-
-  adult'
-bip_39_word_new_line_11: 'bar
-
-  bitter
-
-  elevator
-
-  often
-
-  toward
-
-  convince
-
-  donate
-
-  danger
-
-  library
-
-  adult
-
-  veteran'
 bip_39_word_new_line_12: 'bar
 
   bitter
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bar
   bitter
 
   elevator'
-bip_39_word_new_line_4: 'bar
-
-  bitter
-
-  elevator
-
-  often'
-bip_39_word_new_line_5: 'bar
-
-  bitter
-
-  elevator
-
-  often
-
-  toward'
-bip_39_word_new_line_6: 'bar
-
-  bitter
-
-  elevator
-
-  often
-
-  toward
-
-  convince'
-bip_39_word_new_line_7: 'bar
-
-  bitter
-
-  elevator
-
-  often
-
-  toward
-
-  convince
-
-  donate'
-bip_39_word_new_line_8: 'bar
-
-  bitter
-
-  elevator
-
-  often
-
-  toward
-
-  convince
-
-  donate
-
-  danger'
-bip_39_word_new_line_9: 'bar
-
-  bitter
-
-  elevator
-
-  often
-
-  toward
-
-  convince
-
-  donate
-
-  danger
-
-  library'
-bip_39_word_no_space_1: bar
-bip_39_word_no_space_10: barbitterelevatoroftentowardconvincedonatedangerlibraryadult
-bip_39_word_no_space_11: barbitterelevatoroftentowardconvincedonatedangerlibraryadultveteran
 bip_39_word_no_space_12: barbitterelevatoroftentowardconvincedonatedangerlibraryadultveteranany
 bip_39_word_no_space_2: barbitter
 bip_39_word_no_space_3: barbitterelevator
-bip_39_word_no_space_4: barbitterelevatoroften
-bip_39_word_no_space_5: barbitterelevatoroftentoward
-bip_39_word_no_space_6: barbitterelevatoroftentowardconvince
-bip_39_word_no_space_7: barbitterelevatoroftentowardconvincedonate
-bip_39_word_no_space_8: barbitterelevatoroftentowardconvincedonatedanger
-bip_39_word_no_space_9: barbitterelevatoroftentowardconvincedonatedangerlibrary
-bip_39_word_space_0:
-- bar
-- bitter
-- elevator
-- often
-- toward
-- convince
-- donate
-- danger
-- library
-- adult
-- veteran
-- any
-bip_39_word_space_1: bar
-bip_39_word_space_10: bar bitter elevator often toward convince donate danger library
-  adult
-bip_39_word_space_11: bar bitter elevator often toward convince donate danger library
-  adult veteran
 bip_39_word_space_12: bar bitter elevator often toward convince donate danger library
   adult veteran any
 bip_39_word_space_2: bar bitter
 bip_39_word_space_3: bar bitter elevator
-bip_39_word_space_4: bar bitter elevator often
-bip_39_word_space_5: bar bitter elevator often toward
-bip_39_word_space_6: bar bitter elevator often toward convince
-bip_39_word_space_7: bar bitter elevator often toward convince donate
-bip_39_word_space_8: bar bitter elevator often toward convince donate danger
-bip_39_word_space_9: bar bitter elevator often toward convince donate danger library
-bip_39_word_underscore_1: bar
-bip_39_word_underscore_10: bar_bitter_elevator_often_toward_convince_donate_danger_library_adult
-bip_39_word_underscore_11: bar_bitter_elevator_often_toward_convince_donate_danger_library_adult_veteran
 bip_39_word_underscore_12: bar_bitter_elevator_often_toward_convince_donate_danger_library_adult_veteran_any
 bip_39_word_underscore_2: bar_bitter
 bip_39_word_underscore_3: bar_bitter_elevator
-bip_39_word_underscore_4: bar_bitter_elevator_often
-bip_39_word_underscore_5: bar_bitter_elevator_often_toward
-bip_39_word_underscore_6: bar_bitter_elevator_often_toward_convince
-bip_39_word_underscore_7: bar_bitter_elevator_often_toward_convince_donate
-bip_39_word_underscore_8: bar_bitter_elevator_often_toward_convince_donate_danger
-bip_39_word_underscore_9: bar_bitter_elevator_often_toward_convince_donate_danger_library
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

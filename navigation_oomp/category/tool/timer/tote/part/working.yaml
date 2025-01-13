@@ -1,68 +1,9 @@
-bip_39_word_dash_1: oak
-bip_39_word_dash_10: oak-bargain-latin-clog-catch-cousin-tenant-above-worth-over
-bip_39_word_dash_11: oak-bargain-latin-clog-catch-cousin-tenant-above-worth-over-bag
 bip_39_word_dash_12: oak-bargain-latin-clog-catch-cousin-tenant-above-worth-over-bag-attack
 bip_39_word_dash_2: oak-bargain
 bip_39_word_dash_3: oak-bargain-latin
-bip_39_word_dash_4: oak-bargain-latin-clog
-bip_39_word_dash_5: oak-bargain-latin-clog-catch
-bip_39_word_dash_6: oak-bargain-latin-clog-catch-cousin
-bip_39_word_dash_7: oak-bargain-latin-clog-catch-cousin-tenant
-bip_39_word_dash_8: oak-bargain-latin-clog-catch-cousin-tenant-above
-bip_39_word_dash_9: oak-bargain-latin-clog-catch-cousin-tenant-above-worth
-bip_39_word_new_br_1: oak
-bip_39_word_new_br_10: oak<br>bargain<br>latin<br>clog<br>catch<br>cousin<br>tenant<br>above<br>worth<br>over
-bip_39_word_new_br_11: oak<br>bargain<br>latin<br>clog<br>catch<br>cousin<br>tenant<br>above<br>worth<br>over<br>bag
 bip_39_word_new_br_12: oak<br>bargain<br>latin<br>clog<br>catch<br>cousin<br>tenant<br>above<br>worth<br>over<br>bag<br>attack
 bip_39_word_new_br_2: oak<br>bargain
 bip_39_word_new_br_3: oak<br>bargain<br>latin
-bip_39_word_new_br_4: oak<br>bargain<br>latin<br>clog
-bip_39_word_new_br_5: oak<br>bargain<br>latin<br>clog<br>catch
-bip_39_word_new_br_6: oak<br>bargain<br>latin<br>clog<br>catch<br>cousin
-bip_39_word_new_br_7: oak<br>bargain<br>latin<br>clog<br>catch<br>cousin<br>tenant
-bip_39_word_new_br_8: oak<br>bargain<br>latin<br>clog<br>catch<br>cousin<br>tenant<br>above
-bip_39_word_new_br_9: oak<br>bargain<br>latin<br>clog<br>catch<br>cousin<br>tenant<br>above<br>worth
-bip_39_word_new_line_1: oak
-bip_39_word_new_line_10: 'oak
-
-  bargain
-
-  latin
-
-  clog
-
-  catch
-
-  cousin
-
-  tenant
-
-  above
-
-  worth
-
-  over'
-bip_39_word_new_line_11: 'oak
-
-  bargain
-
-  latin
-
-  clog
-
-  catch
-
-  cousin
-
-  tenant
-
-  above
-
-  worth
-
-  over
-
-  bag'
 bip_39_word_new_line_12: 'oak
 
   bargain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'oak
   bargain
 
   latin'
-bip_39_word_new_line_4: 'oak
-
-  bargain
-
-  latin
-
-  clog'
-bip_39_word_new_line_5: 'oak
-
-  bargain
-
-  latin
-
-  clog
-
-  catch'
-bip_39_word_new_line_6: 'oak
-
-  bargain
-
-  latin
-
-  clog
-
-  catch
-
-  cousin'
-bip_39_word_new_line_7: 'oak
-
-  bargain
-
-  latin
-
-  clog
-
-  catch
-
-  cousin
-
-  tenant'
-bip_39_word_new_line_8: 'oak
-
-  bargain
-
-  latin
-
-  clog
-
-  catch
-
-  cousin
-
-  tenant
-
-  above'
-bip_39_word_new_line_9: 'oak
-
-  bargain
-
-  latin
-
-  clog
-
-  catch
-
-  cousin
-
-  tenant
-
-  above
-
-  worth'
-bip_39_word_no_space_1: oak
-bip_39_word_no_space_10: oakbargainlatinclogcatchcousintenantaboveworthover
-bip_39_word_no_space_11: oakbargainlatinclogcatchcousintenantaboveworthoverbag
 bip_39_word_no_space_12: oakbargainlatinclogcatchcousintenantaboveworthoverbagattack
 bip_39_word_no_space_2: oakbargain
 bip_39_word_no_space_3: oakbargainlatin
-bip_39_word_no_space_4: oakbargainlatinclog
-bip_39_word_no_space_5: oakbargainlatinclogcatch
-bip_39_word_no_space_6: oakbargainlatinclogcatchcousin
-bip_39_word_no_space_7: oakbargainlatinclogcatchcousintenant
-bip_39_word_no_space_8: oakbargainlatinclogcatchcousintenantabove
-bip_39_word_no_space_9: oakbargainlatinclogcatchcousintenantaboveworth
-bip_39_word_space_0:
-- oak
-- bargain
-- latin
-- clog
-- catch
-- cousin
-- tenant
-- above
-- worth
-- over
-- bag
-- attack
-bip_39_word_space_1: oak
-bip_39_word_space_10: oak bargain latin clog catch cousin tenant above worth over
-bip_39_word_space_11: oak bargain latin clog catch cousin tenant above worth over
-  bag
 bip_39_word_space_12: oak bargain latin clog catch cousin tenant above worth over
   bag attack
 bip_39_word_space_2: oak bargain
 bip_39_word_space_3: oak bargain latin
-bip_39_word_space_4: oak bargain latin clog
-bip_39_word_space_5: oak bargain latin clog catch
-bip_39_word_space_6: oak bargain latin clog catch cousin
-bip_39_word_space_7: oak bargain latin clog catch cousin tenant
-bip_39_word_space_8: oak bargain latin clog catch cousin tenant above
-bip_39_word_space_9: oak bargain latin clog catch cousin tenant above worth
-bip_39_word_underscore_1: oak
-bip_39_word_underscore_10: oak_bargain_latin_clog_catch_cousin_tenant_above_worth_over
-bip_39_word_underscore_11: oak_bargain_latin_clog_catch_cousin_tenant_above_worth_over_bag
 bip_39_word_underscore_12: oak_bargain_latin_clog_catch_cousin_tenant_above_worth_over_bag_attack
 bip_39_word_underscore_2: oak_bargain
 bip_39_word_underscore_3: oak_bargain_latin
-bip_39_word_underscore_4: oak_bargain_latin_clog
-bip_39_word_underscore_5: oak_bargain_latin_clog_catch
-bip_39_word_underscore_6: oak_bargain_latin_clog_catch_cousin
-bip_39_word_underscore_7: oak_bargain_latin_clog_catch_cousin_tenant
-bip_39_word_underscore_8: oak_bargain_latin_clog_catch_cousin_tenant_above
-bip_39_word_underscore_9: oak_bargain_latin_clog_catch_cousin_tenant_above_worth
 classification: category
 classification_capital: Category
 classification_first_letter: c

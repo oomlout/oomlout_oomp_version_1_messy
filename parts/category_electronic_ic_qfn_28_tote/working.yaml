@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tenant
-bip_39_word_dash_10: tenant-mistake-basic-arctic-peace-pig-baby-dinosaur-heart-quantum
-bip_39_word_dash_11: tenant-mistake-basic-arctic-peace-pig-baby-dinosaur-heart-quantum-acquire
 bip_39_word_dash_12: tenant-mistake-basic-arctic-peace-pig-baby-dinosaur-heart-quantum-acquire-attack
 bip_39_word_dash_2: tenant-mistake
 bip_39_word_dash_3: tenant-mistake-basic
-bip_39_word_dash_4: tenant-mistake-basic-arctic
-bip_39_word_dash_5: tenant-mistake-basic-arctic-peace
-bip_39_word_dash_6: tenant-mistake-basic-arctic-peace-pig
-bip_39_word_dash_7: tenant-mistake-basic-arctic-peace-pig-baby
-bip_39_word_dash_8: tenant-mistake-basic-arctic-peace-pig-baby-dinosaur
-bip_39_word_dash_9: tenant-mistake-basic-arctic-peace-pig-baby-dinosaur-heart
-bip_39_word_new_br_1: tenant
-bip_39_word_new_br_10: tenant<br>mistake<br>basic<br>arctic<br>peace<br>pig<br>baby<br>dinosaur<br>heart<br>quantum
-bip_39_word_new_br_11: tenant<br>mistake<br>basic<br>arctic<br>peace<br>pig<br>baby<br>dinosaur<br>heart<br>quantum<br>acquire
 bip_39_word_new_br_12: tenant<br>mistake<br>basic<br>arctic<br>peace<br>pig<br>baby<br>dinosaur<br>heart<br>quantum<br>acquire<br>attack
 bip_39_word_new_br_2: tenant<br>mistake
 bip_39_word_new_br_3: tenant<br>mistake<br>basic
-bip_39_word_new_br_4: tenant<br>mistake<br>basic<br>arctic
-bip_39_word_new_br_5: tenant<br>mistake<br>basic<br>arctic<br>peace
-bip_39_word_new_br_6: tenant<br>mistake<br>basic<br>arctic<br>peace<br>pig
-bip_39_word_new_br_7: tenant<br>mistake<br>basic<br>arctic<br>peace<br>pig<br>baby
-bip_39_word_new_br_8: tenant<br>mistake<br>basic<br>arctic<br>peace<br>pig<br>baby<br>dinosaur
-bip_39_word_new_br_9: tenant<br>mistake<br>basic<br>arctic<br>peace<br>pig<br>baby<br>dinosaur<br>heart
-bip_39_word_new_line_1: tenant
-bip_39_word_new_line_10: 'tenant
-
-  mistake
-
-  basic
-
-  arctic
-
-  peace
-
-  pig
-
-  baby
-
-  dinosaur
-
-  heart
-
-  quantum'
-bip_39_word_new_line_11: 'tenant
-
-  mistake
-
-  basic
-
-  arctic
-
-  peace
-
-  pig
-
-  baby
-
-  dinosaur
-
-  heart
-
-  quantum
-
-  acquire'
 bip_39_word_new_line_12: 'tenant
 
   mistake
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tenant
   mistake
 
   basic'
-bip_39_word_new_line_4: 'tenant
-
-  mistake
-
-  basic
-
-  arctic'
-bip_39_word_new_line_5: 'tenant
-
-  mistake
-
-  basic
-
-  arctic
-
-  peace'
-bip_39_word_new_line_6: 'tenant
-
-  mistake
-
-  basic
-
-  arctic
-
-  peace
-
-  pig'
-bip_39_word_new_line_7: 'tenant
-
-  mistake
-
-  basic
-
-  arctic
-
-  peace
-
-  pig
-
-  baby'
-bip_39_word_new_line_8: 'tenant
-
-  mistake
-
-  basic
-
-  arctic
-
-  peace
-
-  pig
-
-  baby
-
-  dinosaur'
-bip_39_word_new_line_9: 'tenant
-
-  mistake
-
-  basic
-
-  arctic
-
-  peace
-
-  pig
-
-  baby
-
-  dinosaur
-
-  heart'
-bip_39_word_no_space_1: tenant
-bip_39_word_no_space_10: tenantmistakebasicarcticpeacepigbabydinosaurheartquantum
-bip_39_word_no_space_11: tenantmistakebasicarcticpeacepigbabydinosaurheartquantumacquire
 bip_39_word_no_space_12: tenantmistakebasicarcticpeacepigbabydinosaurheartquantumacquireattack
 bip_39_word_no_space_2: tenantmistake
 bip_39_word_no_space_3: tenantmistakebasic
-bip_39_word_no_space_4: tenantmistakebasicarctic
-bip_39_word_no_space_5: tenantmistakebasicarcticpeace
-bip_39_word_no_space_6: tenantmistakebasicarcticpeacepig
-bip_39_word_no_space_7: tenantmistakebasicarcticpeacepigbaby
-bip_39_word_no_space_8: tenantmistakebasicarcticpeacepigbabydinosaur
-bip_39_word_no_space_9: tenantmistakebasicarcticpeacepigbabydinosaurheart
-bip_39_word_space_0:
-- tenant
-- mistake
-- basic
-- arctic
-- peace
-- pig
-- baby
-- dinosaur
-- heart
-- quantum
-- acquire
-- attack
-bip_39_word_space_1: tenant
-bip_39_word_space_10: tenant mistake basic arctic peace pig baby dinosaur heart quantum
-bip_39_word_space_11: tenant mistake basic arctic peace pig baby dinosaur heart quantum
-  acquire
 bip_39_word_space_12: tenant mistake basic arctic peace pig baby dinosaur heart quantum
   acquire attack
 bip_39_word_space_2: tenant mistake
 bip_39_word_space_3: tenant mistake basic
-bip_39_word_space_4: tenant mistake basic arctic
-bip_39_word_space_5: tenant mistake basic arctic peace
-bip_39_word_space_6: tenant mistake basic arctic peace pig
-bip_39_word_space_7: tenant mistake basic arctic peace pig baby
-bip_39_word_space_8: tenant mistake basic arctic peace pig baby dinosaur
-bip_39_word_space_9: tenant mistake basic arctic peace pig baby dinosaur heart
-bip_39_word_underscore_1: tenant
-bip_39_word_underscore_10: tenant_mistake_basic_arctic_peace_pig_baby_dinosaur_heart_quantum
-bip_39_word_underscore_11: tenant_mistake_basic_arctic_peace_pig_baby_dinosaur_heart_quantum_acquire
 bip_39_word_underscore_12: tenant_mistake_basic_arctic_peace_pig_baby_dinosaur_heart_quantum_acquire_attack
 bip_39_word_underscore_2: tenant_mistake
 bip_39_word_underscore_3: tenant_mistake_basic
-bip_39_word_underscore_4: tenant_mistake_basic_arctic
-bip_39_word_underscore_5: tenant_mistake_basic_arctic_peace
-bip_39_word_underscore_6: tenant_mistake_basic_arctic_peace_pig
-bip_39_word_underscore_7: tenant_mistake_basic_arctic_peace_pig_baby
-bip_39_word_underscore_8: tenant_mistake_basic_arctic_peace_pig_baby_dinosaur
-bip_39_word_underscore_9: tenant_mistake_basic_arctic_peace_pig_baby_dinosaur_heart
 classification: category
 classification_capital: Category
 classification_first_letter: c

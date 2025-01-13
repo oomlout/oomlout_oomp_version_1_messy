@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enforce
-bip_39_word_dash_10: enforce-glory-keep-trade-arrest-expand-outer-machine-harvest-symptom
-bip_39_word_dash_11: enforce-glory-keep-trade-arrest-expand-outer-machine-harvest-symptom-owner
 bip_39_word_dash_12: enforce-glory-keep-trade-arrest-expand-outer-machine-harvest-symptom-owner-amused
 bip_39_word_dash_2: enforce-glory
 bip_39_word_dash_3: enforce-glory-keep
-bip_39_word_dash_4: enforce-glory-keep-trade
-bip_39_word_dash_5: enforce-glory-keep-trade-arrest
-bip_39_word_dash_6: enforce-glory-keep-trade-arrest-expand
-bip_39_word_dash_7: enforce-glory-keep-trade-arrest-expand-outer
-bip_39_word_dash_8: enforce-glory-keep-trade-arrest-expand-outer-machine
-bip_39_word_dash_9: enforce-glory-keep-trade-arrest-expand-outer-machine-harvest
-bip_39_word_new_br_1: enforce
-bip_39_word_new_br_10: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand<br>outer<br>machine<br>harvest<br>symptom
-bip_39_word_new_br_11: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand<br>outer<br>machine<br>harvest<br>symptom<br>owner
 bip_39_word_new_br_12: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand<br>outer<br>machine<br>harvest<br>symptom<br>owner<br>amused
 bip_39_word_new_br_2: enforce<br>glory
 bip_39_word_new_br_3: enforce<br>glory<br>keep
-bip_39_word_new_br_4: enforce<br>glory<br>keep<br>trade
-bip_39_word_new_br_5: enforce<br>glory<br>keep<br>trade<br>arrest
-bip_39_word_new_br_6: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand
-bip_39_word_new_br_7: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand<br>outer
-bip_39_word_new_br_8: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand<br>outer<br>machine
-bip_39_word_new_br_9: enforce<br>glory<br>keep<br>trade<br>arrest<br>expand<br>outer<br>machine<br>harvest
-bip_39_word_new_line_1: enforce
-bip_39_word_new_line_10: 'enforce
-
-  glory
-
-  keep
-
-  trade
-
-  arrest
-
-  expand
-
-  outer
-
-  machine
-
-  harvest
-
-  symptom'
-bip_39_word_new_line_11: 'enforce
-
-  glory
-
-  keep
-
-  trade
-
-  arrest
-
-  expand
-
-  outer
-
-  machine
-
-  harvest
-
-  symptom
-
-  owner'
 bip_39_word_new_line_12: 'enforce
 
   glory
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'enforce
   glory
 
   keep'
-bip_39_word_new_line_4: 'enforce
-
-  glory
-
-  keep
-
-  trade'
-bip_39_word_new_line_5: 'enforce
-
-  glory
-
-  keep
-
-  trade
-
-  arrest'
-bip_39_word_new_line_6: 'enforce
-
-  glory
-
-  keep
-
-  trade
-
-  arrest
-
-  expand'
-bip_39_word_new_line_7: 'enforce
-
-  glory
-
-  keep
-
-  trade
-
-  arrest
-
-  expand
-
-  outer'
-bip_39_word_new_line_8: 'enforce
-
-  glory
-
-  keep
-
-  trade
-
-  arrest
-
-  expand
-
-  outer
-
-  machine'
-bip_39_word_new_line_9: 'enforce
-
-  glory
-
-  keep
-
-  trade
-
-  arrest
-
-  expand
-
-  outer
-
-  machine
-
-  harvest'
-bip_39_word_no_space_1: enforce
-bip_39_word_no_space_10: enforceglorykeeptradearrestexpandoutermachineharvestsymptom
-bip_39_word_no_space_11: enforceglorykeeptradearrestexpandoutermachineharvestsymptomowner
 bip_39_word_no_space_12: enforceglorykeeptradearrestexpandoutermachineharvestsymptomowneramused
 bip_39_word_no_space_2: enforceglory
 bip_39_word_no_space_3: enforceglorykeep
-bip_39_word_no_space_4: enforceglorykeeptrade
-bip_39_word_no_space_5: enforceglorykeeptradearrest
-bip_39_word_no_space_6: enforceglorykeeptradearrestexpand
-bip_39_word_no_space_7: enforceglorykeeptradearrestexpandouter
-bip_39_word_no_space_8: enforceglorykeeptradearrestexpandoutermachine
-bip_39_word_no_space_9: enforceglorykeeptradearrestexpandoutermachineharvest
-bip_39_word_space_0:
-- enforce
-- glory
-- keep
-- trade
-- arrest
-- expand
-- outer
-- machine
-- harvest
-- symptom
-- owner
-- amused
-bip_39_word_space_1: enforce
-bip_39_word_space_10: enforce glory keep trade arrest expand outer machine harvest
-  symptom
-bip_39_word_space_11: enforce glory keep trade arrest expand outer machine harvest
-  symptom owner
 bip_39_word_space_12: enforce glory keep trade arrest expand outer machine harvest
   symptom owner amused
 bip_39_word_space_2: enforce glory
 bip_39_word_space_3: enforce glory keep
-bip_39_word_space_4: enforce glory keep trade
-bip_39_word_space_5: enforce glory keep trade arrest
-bip_39_word_space_6: enforce glory keep trade arrest expand
-bip_39_word_space_7: enforce glory keep trade arrest expand outer
-bip_39_word_space_8: enforce glory keep trade arrest expand outer machine
-bip_39_word_space_9: enforce glory keep trade arrest expand outer machine harvest
-bip_39_word_underscore_1: enforce
-bip_39_word_underscore_10: enforce_glory_keep_trade_arrest_expand_outer_machine_harvest_symptom
-bip_39_word_underscore_11: enforce_glory_keep_trade_arrest_expand_outer_machine_harvest_symptom_owner
 bip_39_word_underscore_12: enforce_glory_keep_trade_arrest_expand_outer_machine_harvest_symptom_owner_amused
 bip_39_word_underscore_2: enforce_glory
 bip_39_word_underscore_3: enforce_glory_keep
-bip_39_word_underscore_4: enforce_glory_keep_trade
-bip_39_word_underscore_5: enforce_glory_keep_trade_arrest
-bip_39_word_underscore_6: enforce_glory_keep_trade_arrest_expand
-bip_39_word_underscore_7: enforce_glory_keep_trade_arrest_expand_outer
-bip_39_word_underscore_8: enforce_glory_keep_trade_arrest_expand_outer_machine
-bip_39_word_underscore_9: enforce_glory_keep_trade_arrest_expand_outer_machine_harvest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

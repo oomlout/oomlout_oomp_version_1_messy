@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gesture
-bip_39_word_dash_10: gesture-aunt-trigger-lab-sound-cabbage-wrong-imitate-snake-delay
-bip_39_word_dash_11: gesture-aunt-trigger-lab-sound-cabbage-wrong-imitate-snake-delay-busy
 bip_39_word_dash_12: gesture-aunt-trigger-lab-sound-cabbage-wrong-imitate-snake-delay-busy-again
 bip_39_word_dash_2: gesture-aunt
 bip_39_word_dash_3: gesture-aunt-trigger
-bip_39_word_dash_4: gesture-aunt-trigger-lab
-bip_39_word_dash_5: gesture-aunt-trigger-lab-sound
-bip_39_word_dash_6: gesture-aunt-trigger-lab-sound-cabbage
-bip_39_word_dash_7: gesture-aunt-trigger-lab-sound-cabbage-wrong
-bip_39_word_dash_8: gesture-aunt-trigger-lab-sound-cabbage-wrong-imitate
-bip_39_word_dash_9: gesture-aunt-trigger-lab-sound-cabbage-wrong-imitate-snake
-bip_39_word_new_br_1: gesture
-bip_39_word_new_br_10: gesture<br>aunt<br>trigger<br>lab<br>sound<br>cabbage<br>wrong<br>imitate<br>snake<br>delay
-bip_39_word_new_br_11: gesture<br>aunt<br>trigger<br>lab<br>sound<br>cabbage<br>wrong<br>imitate<br>snake<br>delay<br>busy
 bip_39_word_new_br_12: gesture<br>aunt<br>trigger<br>lab<br>sound<br>cabbage<br>wrong<br>imitate<br>snake<br>delay<br>busy<br>again
 bip_39_word_new_br_2: gesture<br>aunt
 bip_39_word_new_br_3: gesture<br>aunt<br>trigger
-bip_39_word_new_br_4: gesture<br>aunt<br>trigger<br>lab
-bip_39_word_new_br_5: gesture<br>aunt<br>trigger<br>lab<br>sound
-bip_39_word_new_br_6: gesture<br>aunt<br>trigger<br>lab<br>sound<br>cabbage
-bip_39_word_new_br_7: gesture<br>aunt<br>trigger<br>lab<br>sound<br>cabbage<br>wrong
-bip_39_word_new_br_8: gesture<br>aunt<br>trigger<br>lab<br>sound<br>cabbage<br>wrong<br>imitate
-bip_39_word_new_br_9: gesture<br>aunt<br>trigger<br>lab<br>sound<br>cabbage<br>wrong<br>imitate<br>snake
-bip_39_word_new_line_1: gesture
-bip_39_word_new_line_10: 'gesture
-
-  aunt
-
-  trigger
-
-  lab
-
-  sound
-
-  cabbage
-
-  wrong
-
-  imitate
-
-  snake
-
-  delay'
-bip_39_word_new_line_11: 'gesture
-
-  aunt
-
-  trigger
-
-  lab
-
-  sound
-
-  cabbage
-
-  wrong
-
-  imitate
-
-  snake
-
-  delay
-
-  busy'
 bip_39_word_new_line_12: 'gesture
 
   aunt
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gesture
   aunt
 
   trigger'
-bip_39_word_new_line_4: 'gesture
-
-  aunt
-
-  trigger
-
-  lab'
-bip_39_word_new_line_5: 'gesture
-
-  aunt
-
-  trigger
-
-  lab
-
-  sound'
-bip_39_word_new_line_6: 'gesture
-
-  aunt
-
-  trigger
-
-  lab
-
-  sound
-
-  cabbage'
-bip_39_word_new_line_7: 'gesture
-
-  aunt
-
-  trigger
-
-  lab
-
-  sound
-
-  cabbage
-
-  wrong'
-bip_39_word_new_line_8: 'gesture
-
-  aunt
-
-  trigger
-
-  lab
-
-  sound
-
-  cabbage
-
-  wrong
-
-  imitate'
-bip_39_word_new_line_9: 'gesture
-
-  aunt
-
-  trigger
-
-  lab
-
-  sound
-
-  cabbage
-
-  wrong
-
-  imitate
-
-  snake'
-bip_39_word_no_space_1: gesture
-bip_39_word_no_space_10: gestureaunttriggerlabsoundcabbagewrongimitatesnakedelay
-bip_39_word_no_space_11: gestureaunttriggerlabsoundcabbagewrongimitatesnakedelaybusy
 bip_39_word_no_space_12: gestureaunttriggerlabsoundcabbagewrongimitatesnakedelaybusyagain
 bip_39_word_no_space_2: gestureaunt
 bip_39_word_no_space_3: gestureaunttrigger
-bip_39_word_no_space_4: gestureaunttriggerlab
-bip_39_word_no_space_5: gestureaunttriggerlabsound
-bip_39_word_no_space_6: gestureaunttriggerlabsoundcabbage
-bip_39_word_no_space_7: gestureaunttriggerlabsoundcabbagewrong
-bip_39_word_no_space_8: gestureaunttriggerlabsoundcabbagewrongimitate
-bip_39_word_no_space_9: gestureaunttriggerlabsoundcabbagewrongimitatesnake
-bip_39_word_space_0:
-- gesture
-- aunt
-- trigger
-- lab
-- sound
-- cabbage
-- wrong
-- imitate
-- snake
-- delay
-- busy
-- again
-bip_39_word_space_1: gesture
-bip_39_word_space_10: gesture aunt trigger lab sound cabbage wrong imitate snake delay
-bip_39_word_space_11: gesture aunt trigger lab sound cabbage wrong imitate snake delay
-  busy
 bip_39_word_space_12: gesture aunt trigger lab sound cabbage wrong imitate snake delay
   busy again
 bip_39_word_space_2: gesture aunt
 bip_39_word_space_3: gesture aunt trigger
-bip_39_word_space_4: gesture aunt trigger lab
-bip_39_word_space_5: gesture aunt trigger lab sound
-bip_39_word_space_6: gesture aunt trigger lab sound cabbage
-bip_39_word_space_7: gesture aunt trigger lab sound cabbage wrong
-bip_39_word_space_8: gesture aunt trigger lab sound cabbage wrong imitate
-bip_39_word_space_9: gesture aunt trigger lab sound cabbage wrong imitate snake
-bip_39_word_underscore_1: gesture
-bip_39_word_underscore_10: gesture_aunt_trigger_lab_sound_cabbage_wrong_imitate_snake_delay
-bip_39_word_underscore_11: gesture_aunt_trigger_lab_sound_cabbage_wrong_imitate_snake_delay_busy
 bip_39_word_underscore_12: gesture_aunt_trigger_lab_sound_cabbage_wrong_imitate_snake_delay_busy_again
 bip_39_word_underscore_2: gesture_aunt
 bip_39_word_underscore_3: gesture_aunt_trigger
-bip_39_word_underscore_4: gesture_aunt_trigger_lab
-bip_39_word_underscore_5: gesture_aunt_trigger_lab_sound
-bip_39_word_underscore_6: gesture_aunt_trigger_lab_sound_cabbage
-bip_39_word_underscore_7: gesture_aunt_trigger_lab_sound_cabbage_wrong
-bip_39_word_underscore_8: gesture_aunt_trigger_lab_sound_cabbage_wrong_imitate
-bip_39_word_underscore_9: gesture_aunt_trigger_lab_sound_cabbage_wrong_imitate_snake
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

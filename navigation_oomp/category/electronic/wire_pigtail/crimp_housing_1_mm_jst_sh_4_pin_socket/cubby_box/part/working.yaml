@@ -1,68 +1,9 @@
-bip_39_word_dash_1: salute
-bip_39_word_dash_10: salute-umbrella-impose-error-mouse-person-list-general-liquid-magic
-bip_39_word_dash_11: salute-umbrella-impose-error-mouse-person-list-general-liquid-magic-crunch
 bip_39_word_dash_12: salute-umbrella-impose-error-mouse-person-list-general-liquid-magic-crunch-apple
 bip_39_word_dash_2: salute-umbrella
 bip_39_word_dash_3: salute-umbrella-impose
-bip_39_word_dash_4: salute-umbrella-impose-error
-bip_39_word_dash_5: salute-umbrella-impose-error-mouse
-bip_39_word_dash_6: salute-umbrella-impose-error-mouse-person
-bip_39_word_dash_7: salute-umbrella-impose-error-mouse-person-list
-bip_39_word_dash_8: salute-umbrella-impose-error-mouse-person-list-general
-bip_39_word_dash_9: salute-umbrella-impose-error-mouse-person-list-general-liquid
-bip_39_word_new_br_1: salute
-bip_39_word_new_br_10: salute<br>umbrella<br>impose<br>error<br>mouse<br>person<br>list<br>general<br>liquid<br>magic
-bip_39_word_new_br_11: salute<br>umbrella<br>impose<br>error<br>mouse<br>person<br>list<br>general<br>liquid<br>magic<br>crunch
 bip_39_word_new_br_12: salute<br>umbrella<br>impose<br>error<br>mouse<br>person<br>list<br>general<br>liquid<br>magic<br>crunch<br>apple
 bip_39_word_new_br_2: salute<br>umbrella
 bip_39_word_new_br_3: salute<br>umbrella<br>impose
-bip_39_word_new_br_4: salute<br>umbrella<br>impose<br>error
-bip_39_word_new_br_5: salute<br>umbrella<br>impose<br>error<br>mouse
-bip_39_word_new_br_6: salute<br>umbrella<br>impose<br>error<br>mouse<br>person
-bip_39_word_new_br_7: salute<br>umbrella<br>impose<br>error<br>mouse<br>person<br>list
-bip_39_word_new_br_8: salute<br>umbrella<br>impose<br>error<br>mouse<br>person<br>list<br>general
-bip_39_word_new_br_9: salute<br>umbrella<br>impose<br>error<br>mouse<br>person<br>list<br>general<br>liquid
-bip_39_word_new_line_1: salute
-bip_39_word_new_line_10: 'salute
-
-  umbrella
-
-  impose
-
-  error
-
-  mouse
-
-  person
-
-  list
-
-  general
-
-  liquid
-
-  magic'
-bip_39_word_new_line_11: 'salute
-
-  umbrella
-
-  impose
-
-  error
-
-  mouse
-
-  person
-
-  list
-
-  general
-
-  liquid
-
-  magic
-
-  crunch'
 bip_39_word_new_line_12: 'salute
 
   umbrella
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'salute
   umbrella
 
   impose'
-bip_39_word_new_line_4: 'salute
-
-  umbrella
-
-  impose
-
-  error'
-bip_39_word_new_line_5: 'salute
-
-  umbrella
-
-  impose
-
-  error
-
-  mouse'
-bip_39_word_new_line_6: 'salute
-
-  umbrella
-
-  impose
-
-  error
-
-  mouse
-
-  person'
-bip_39_word_new_line_7: 'salute
-
-  umbrella
-
-  impose
-
-  error
-
-  mouse
-
-  person
-
-  list'
-bip_39_word_new_line_8: 'salute
-
-  umbrella
-
-  impose
-
-  error
-
-  mouse
-
-  person
-
-  list
-
-  general'
-bip_39_word_new_line_9: 'salute
-
-  umbrella
-
-  impose
-
-  error
-
-  mouse
-
-  person
-
-  list
-
-  general
-
-  liquid'
-bip_39_word_no_space_1: salute
-bip_39_word_no_space_10: saluteumbrellaimposeerrormousepersonlistgeneralliquidmagic
-bip_39_word_no_space_11: saluteumbrellaimposeerrormousepersonlistgeneralliquidmagiccrunch
 bip_39_word_no_space_12: saluteumbrellaimposeerrormousepersonlistgeneralliquidmagiccrunchapple
 bip_39_word_no_space_2: saluteumbrella
 bip_39_word_no_space_3: saluteumbrellaimpose
-bip_39_word_no_space_4: saluteumbrellaimposeerror
-bip_39_word_no_space_5: saluteumbrellaimposeerrormouse
-bip_39_word_no_space_6: saluteumbrellaimposeerrormouseperson
-bip_39_word_no_space_7: saluteumbrellaimposeerrormousepersonlist
-bip_39_word_no_space_8: saluteumbrellaimposeerrormousepersonlistgeneral
-bip_39_word_no_space_9: saluteumbrellaimposeerrormousepersonlistgeneralliquid
-bip_39_word_space_0:
-- salute
-- umbrella
-- impose
-- error
-- mouse
-- person
-- list
-- general
-- liquid
-- magic
-- crunch
-- apple
-bip_39_word_space_1: salute
-bip_39_word_space_10: salute umbrella impose error mouse person list general liquid
-  magic
-bip_39_word_space_11: salute umbrella impose error mouse person list general liquid
-  magic crunch
 bip_39_word_space_12: salute umbrella impose error mouse person list general liquid
   magic crunch apple
 bip_39_word_space_2: salute umbrella
 bip_39_word_space_3: salute umbrella impose
-bip_39_word_space_4: salute umbrella impose error
-bip_39_word_space_5: salute umbrella impose error mouse
-bip_39_word_space_6: salute umbrella impose error mouse person
-bip_39_word_space_7: salute umbrella impose error mouse person list
-bip_39_word_space_8: salute umbrella impose error mouse person list general
-bip_39_word_space_9: salute umbrella impose error mouse person list general liquid
-bip_39_word_underscore_1: salute
-bip_39_word_underscore_10: salute_umbrella_impose_error_mouse_person_list_general_liquid_magic
-bip_39_word_underscore_11: salute_umbrella_impose_error_mouse_person_list_general_liquid_magic_crunch
 bip_39_word_underscore_12: salute_umbrella_impose_error_mouse_person_list_general_liquid_magic_crunch_apple
 bip_39_word_underscore_2: salute_umbrella
 bip_39_word_underscore_3: salute_umbrella_impose
-bip_39_word_underscore_4: salute_umbrella_impose_error
-bip_39_word_underscore_5: salute_umbrella_impose_error_mouse
-bip_39_word_underscore_6: salute_umbrella_impose_error_mouse_person
-bip_39_word_underscore_7: salute_umbrella_impose_error_mouse_person_list
-bip_39_word_underscore_8: salute_umbrella_impose_error_mouse_person_list_general
-bip_39_word_underscore_9: salute_umbrella_impose_error_mouse_person_list_general_liquid
 classification: category
 classification_capital: Category
 classification_first_letter: c

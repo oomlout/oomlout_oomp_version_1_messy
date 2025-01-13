@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shift
-bip_39_word_dash_10: shift-bread-pig-push-nominee-method-ancient-omit-foot-vehicle
-bip_39_word_dash_11: shift-bread-pig-push-nominee-method-ancient-omit-foot-vehicle-spread
 bip_39_word_dash_12: shift-bread-pig-push-nominee-method-ancient-omit-foot-vehicle-spread-aunt
 bip_39_word_dash_2: shift-bread
 bip_39_word_dash_3: shift-bread-pig
-bip_39_word_dash_4: shift-bread-pig-push
-bip_39_word_dash_5: shift-bread-pig-push-nominee
-bip_39_word_dash_6: shift-bread-pig-push-nominee-method
-bip_39_word_dash_7: shift-bread-pig-push-nominee-method-ancient
-bip_39_word_dash_8: shift-bread-pig-push-nominee-method-ancient-omit
-bip_39_word_dash_9: shift-bread-pig-push-nominee-method-ancient-omit-foot
-bip_39_word_new_br_1: shift
-bip_39_word_new_br_10: shift<br>bread<br>pig<br>push<br>nominee<br>method<br>ancient<br>omit<br>foot<br>vehicle
-bip_39_word_new_br_11: shift<br>bread<br>pig<br>push<br>nominee<br>method<br>ancient<br>omit<br>foot<br>vehicle<br>spread
 bip_39_word_new_br_12: shift<br>bread<br>pig<br>push<br>nominee<br>method<br>ancient<br>omit<br>foot<br>vehicle<br>spread<br>aunt
 bip_39_word_new_br_2: shift<br>bread
 bip_39_word_new_br_3: shift<br>bread<br>pig
-bip_39_word_new_br_4: shift<br>bread<br>pig<br>push
-bip_39_word_new_br_5: shift<br>bread<br>pig<br>push<br>nominee
-bip_39_word_new_br_6: shift<br>bread<br>pig<br>push<br>nominee<br>method
-bip_39_word_new_br_7: shift<br>bread<br>pig<br>push<br>nominee<br>method<br>ancient
-bip_39_word_new_br_8: shift<br>bread<br>pig<br>push<br>nominee<br>method<br>ancient<br>omit
-bip_39_word_new_br_9: shift<br>bread<br>pig<br>push<br>nominee<br>method<br>ancient<br>omit<br>foot
-bip_39_word_new_line_1: shift
-bip_39_word_new_line_10: 'shift
-
-  bread
-
-  pig
-
-  push
-
-  nominee
-
-  method
-
-  ancient
-
-  omit
-
-  foot
-
-  vehicle'
-bip_39_word_new_line_11: 'shift
-
-  bread
-
-  pig
-
-  push
-
-  nominee
-
-  method
-
-  ancient
-
-  omit
-
-  foot
-
-  vehicle
-
-  spread'
 bip_39_word_new_line_12: 'shift
 
   bread
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shift
   bread
 
   pig'
-bip_39_word_new_line_4: 'shift
-
-  bread
-
-  pig
-
-  push'
-bip_39_word_new_line_5: 'shift
-
-  bread
-
-  pig
-
-  push
-
-  nominee'
-bip_39_word_new_line_6: 'shift
-
-  bread
-
-  pig
-
-  push
-
-  nominee
-
-  method'
-bip_39_word_new_line_7: 'shift
-
-  bread
-
-  pig
-
-  push
-
-  nominee
-
-  method
-
-  ancient'
-bip_39_word_new_line_8: 'shift
-
-  bread
-
-  pig
-
-  push
-
-  nominee
-
-  method
-
-  ancient
-
-  omit'
-bip_39_word_new_line_9: 'shift
-
-  bread
-
-  pig
-
-  push
-
-  nominee
-
-  method
-
-  ancient
-
-  omit
-
-  foot'
-bip_39_word_no_space_1: shift
-bip_39_word_no_space_10: shiftbreadpigpushnomineemethodancientomitfootvehicle
-bip_39_word_no_space_11: shiftbreadpigpushnomineemethodancientomitfootvehiclespread
 bip_39_word_no_space_12: shiftbreadpigpushnomineemethodancientomitfootvehiclespreadaunt
 bip_39_word_no_space_2: shiftbread
 bip_39_word_no_space_3: shiftbreadpig
-bip_39_word_no_space_4: shiftbreadpigpush
-bip_39_word_no_space_5: shiftbreadpigpushnominee
-bip_39_word_no_space_6: shiftbreadpigpushnomineemethod
-bip_39_word_no_space_7: shiftbreadpigpushnomineemethodancient
-bip_39_word_no_space_8: shiftbreadpigpushnomineemethodancientomit
-bip_39_word_no_space_9: shiftbreadpigpushnomineemethodancientomitfoot
-bip_39_word_space_0:
-- shift
-- bread
-- pig
-- push
-- nominee
-- method
-- ancient
-- omit
-- foot
-- vehicle
-- spread
-- aunt
-bip_39_word_space_1: shift
-bip_39_word_space_10: shift bread pig push nominee method ancient omit foot vehicle
-bip_39_word_space_11: shift bread pig push nominee method ancient omit foot vehicle
-  spread
 bip_39_word_space_12: shift bread pig push nominee method ancient omit foot vehicle
   spread aunt
 bip_39_word_space_2: shift bread
 bip_39_word_space_3: shift bread pig
-bip_39_word_space_4: shift bread pig push
-bip_39_word_space_5: shift bread pig push nominee
-bip_39_word_space_6: shift bread pig push nominee method
-bip_39_word_space_7: shift bread pig push nominee method ancient
-bip_39_word_space_8: shift bread pig push nominee method ancient omit
-bip_39_word_space_9: shift bread pig push nominee method ancient omit foot
-bip_39_word_underscore_1: shift
-bip_39_word_underscore_10: shift_bread_pig_push_nominee_method_ancient_omit_foot_vehicle
-bip_39_word_underscore_11: shift_bread_pig_push_nominee_method_ancient_omit_foot_vehicle_spread
 bip_39_word_underscore_12: shift_bread_pig_push_nominee_method_ancient_omit_foot_vehicle_spread_aunt
 bip_39_word_underscore_2: shift_bread
 bip_39_word_underscore_3: shift_bread_pig
-bip_39_word_underscore_4: shift_bread_pig_push
-bip_39_word_underscore_5: shift_bread_pig_push_nominee
-bip_39_word_underscore_6: shift_bread_pig_push_nominee_method
-bip_39_word_underscore_7: shift_bread_pig_push_nominee_method_ancient
-bip_39_word_underscore_8: shift_bread_pig_push_nominee_method_ancient_omit
-bip_39_word_underscore_9: shift_bread_pig_push_nominee_method_ancient_omit_foot
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

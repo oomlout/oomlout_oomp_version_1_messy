@@ -1,68 +1,9 @@
-bip_39_word_dash_1: coast
-bip_39_word_dash_10: coast-ostrich-blade-hello-twice-chair-possible-column-eyebrow-erode
-bip_39_word_dash_11: coast-ostrich-blade-hello-twice-chair-possible-column-eyebrow-erode-owner
 bip_39_word_dash_12: coast-ostrich-blade-hello-twice-chair-possible-column-eyebrow-erode-owner-avocado
 bip_39_word_dash_2: coast-ostrich
 bip_39_word_dash_3: coast-ostrich-blade
-bip_39_word_dash_4: coast-ostrich-blade-hello
-bip_39_word_dash_5: coast-ostrich-blade-hello-twice
-bip_39_word_dash_6: coast-ostrich-blade-hello-twice-chair
-bip_39_word_dash_7: coast-ostrich-blade-hello-twice-chair-possible
-bip_39_word_dash_8: coast-ostrich-blade-hello-twice-chair-possible-column
-bip_39_word_dash_9: coast-ostrich-blade-hello-twice-chair-possible-column-eyebrow
-bip_39_word_new_br_1: coast
-bip_39_word_new_br_10: coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode
-bip_39_word_new_br_11: coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode<br>owner
 bip_39_word_new_br_12: coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow<br>erode<br>owner<br>avocado
 bip_39_word_new_br_2: coast<br>ostrich
 bip_39_word_new_br_3: coast<br>ostrich<br>blade
-bip_39_word_new_br_4: coast<br>ostrich<br>blade<br>hello
-bip_39_word_new_br_5: coast<br>ostrich<br>blade<br>hello<br>twice
-bip_39_word_new_br_6: coast<br>ostrich<br>blade<br>hello<br>twice<br>chair
-bip_39_word_new_br_7: coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible
-bip_39_word_new_br_8: coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column
-bip_39_word_new_br_9: coast<br>ostrich<br>blade<br>hello<br>twice<br>chair<br>possible<br>column<br>eyebrow
-bip_39_word_new_line_1: coast
-bip_39_word_new_line_10: 'coast
-
-  ostrich
-
-  blade
-
-  hello
-
-  twice
-
-  chair
-
-  possible
-
-  column
-
-  eyebrow
-
-  erode'
-bip_39_word_new_line_11: 'coast
-
-  ostrich
-
-  blade
-
-  hello
-
-  twice
-
-  chair
-
-  possible
-
-  column
-
-  eyebrow
-
-  erode
-
-  owner'
 bip_39_word_new_line_12: 'coast
 
   ostrich
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'coast
   ostrich
 
   blade'
-bip_39_word_new_line_4: 'coast
-
-  ostrich
-
-  blade
-
-  hello'
-bip_39_word_new_line_5: 'coast
-
-  ostrich
-
-  blade
-
-  hello
-
-  twice'
-bip_39_word_new_line_6: 'coast
-
-  ostrich
-
-  blade
-
-  hello
-
-  twice
-
-  chair'
-bip_39_word_new_line_7: 'coast
-
-  ostrich
-
-  blade
-
-  hello
-
-  twice
-
-  chair
-
-  possible'
-bip_39_word_new_line_8: 'coast
-
-  ostrich
-
-  blade
-
-  hello
-
-  twice
-
-  chair
-
-  possible
-
-  column'
-bip_39_word_new_line_9: 'coast
-
-  ostrich
-
-  blade
-
-  hello
-
-  twice
-
-  chair
-
-  possible
-
-  column
-
-  eyebrow'
-bip_39_word_no_space_1: coast
-bip_39_word_no_space_10: coastostrichbladehellotwicechairpossiblecolumneyebrowerode
-bip_39_word_no_space_11: coastostrichbladehellotwicechairpossiblecolumneyebrowerodeowner
 bip_39_word_no_space_12: coastostrichbladehellotwicechairpossiblecolumneyebrowerodeowneravocado
 bip_39_word_no_space_2: coastostrich
 bip_39_word_no_space_3: coastostrichblade
-bip_39_word_no_space_4: coastostrichbladehello
-bip_39_word_no_space_5: coastostrichbladehellotwice
-bip_39_word_no_space_6: coastostrichbladehellotwicechair
-bip_39_word_no_space_7: coastostrichbladehellotwicechairpossible
-bip_39_word_no_space_8: coastostrichbladehellotwicechairpossiblecolumn
-bip_39_word_no_space_9: coastostrichbladehellotwicechairpossiblecolumneyebrow
-bip_39_word_space_0:
-- coast
-- ostrich
-- blade
-- hello
-- twice
-- chair
-- possible
-- column
-- eyebrow
-- erode
-- owner
-- avocado
-bip_39_word_space_1: coast
-bip_39_word_space_10: coast ostrich blade hello twice chair possible column eyebrow
-  erode
-bip_39_word_space_11: coast ostrich blade hello twice chair possible column eyebrow
-  erode owner
 bip_39_word_space_12: coast ostrich blade hello twice chair possible column eyebrow
   erode owner avocado
 bip_39_word_space_2: coast ostrich
 bip_39_word_space_3: coast ostrich blade
-bip_39_word_space_4: coast ostrich blade hello
-bip_39_word_space_5: coast ostrich blade hello twice
-bip_39_word_space_6: coast ostrich blade hello twice chair
-bip_39_word_space_7: coast ostrich blade hello twice chair possible
-bip_39_word_space_8: coast ostrich blade hello twice chair possible column
-bip_39_word_space_9: coast ostrich blade hello twice chair possible column eyebrow
-bip_39_word_underscore_1: coast
-bip_39_word_underscore_10: coast_ostrich_blade_hello_twice_chair_possible_column_eyebrow_erode
-bip_39_word_underscore_11: coast_ostrich_blade_hello_twice_chair_possible_column_eyebrow_erode_owner
 bip_39_word_underscore_12: coast_ostrich_blade_hello_twice_chair_possible_column_eyebrow_erode_owner_avocado
 bip_39_word_underscore_2: coast_ostrich
 bip_39_word_underscore_3: coast_ostrich_blade
-bip_39_word_underscore_4: coast_ostrich_blade_hello
-bip_39_word_underscore_5: coast_ostrich_blade_hello_twice
-bip_39_word_underscore_6: coast_ostrich_blade_hello_twice_chair
-bip_39_word_underscore_7: coast_ostrich_blade_hello_twice_chair_possible
-bip_39_word_underscore_8: coast_ostrich_blade_hello_twice_chair_possible_column
-bip_39_word_underscore_9: coast_ostrich_blade_hello_twice_chair_possible_column_eyebrow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

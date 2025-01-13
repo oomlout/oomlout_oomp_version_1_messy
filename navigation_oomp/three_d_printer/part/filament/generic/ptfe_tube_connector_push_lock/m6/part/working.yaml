@@ -1,68 +1,9 @@
-bip_39_word_dash_1: text
-bip_39_word_dash_10: text-zebra-mixture-crater-clock-citizen-inform-dress-left-faint
-bip_39_word_dash_11: text-zebra-mixture-crater-clock-citizen-inform-dress-left-faint-dose
 bip_39_word_dash_12: text-zebra-mixture-crater-clock-citizen-inform-dress-left-faint-dose-anger
 bip_39_word_dash_2: text-zebra
 bip_39_word_dash_3: text-zebra-mixture
-bip_39_word_dash_4: text-zebra-mixture-crater
-bip_39_word_dash_5: text-zebra-mixture-crater-clock
-bip_39_word_dash_6: text-zebra-mixture-crater-clock-citizen
-bip_39_word_dash_7: text-zebra-mixture-crater-clock-citizen-inform
-bip_39_word_dash_8: text-zebra-mixture-crater-clock-citizen-inform-dress
-bip_39_word_dash_9: text-zebra-mixture-crater-clock-citizen-inform-dress-left
-bip_39_word_new_br_1: text
-bip_39_word_new_br_10: text<br>zebra<br>mixture<br>crater<br>clock<br>citizen<br>inform<br>dress<br>left<br>faint
-bip_39_word_new_br_11: text<br>zebra<br>mixture<br>crater<br>clock<br>citizen<br>inform<br>dress<br>left<br>faint<br>dose
 bip_39_word_new_br_12: text<br>zebra<br>mixture<br>crater<br>clock<br>citizen<br>inform<br>dress<br>left<br>faint<br>dose<br>anger
 bip_39_word_new_br_2: text<br>zebra
 bip_39_word_new_br_3: text<br>zebra<br>mixture
-bip_39_word_new_br_4: text<br>zebra<br>mixture<br>crater
-bip_39_word_new_br_5: text<br>zebra<br>mixture<br>crater<br>clock
-bip_39_word_new_br_6: text<br>zebra<br>mixture<br>crater<br>clock<br>citizen
-bip_39_word_new_br_7: text<br>zebra<br>mixture<br>crater<br>clock<br>citizen<br>inform
-bip_39_word_new_br_8: text<br>zebra<br>mixture<br>crater<br>clock<br>citizen<br>inform<br>dress
-bip_39_word_new_br_9: text<br>zebra<br>mixture<br>crater<br>clock<br>citizen<br>inform<br>dress<br>left
-bip_39_word_new_line_1: text
-bip_39_word_new_line_10: 'text
-
-  zebra
-
-  mixture
-
-  crater
-
-  clock
-
-  citizen
-
-  inform
-
-  dress
-
-  left
-
-  faint'
-bip_39_word_new_line_11: 'text
-
-  zebra
-
-  mixture
-
-  crater
-
-  clock
-
-  citizen
-
-  inform
-
-  dress
-
-  left
-
-  faint
-
-  dose'
 bip_39_word_new_line_12: 'text
 
   zebra
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'text
   zebra
 
   mixture'
-bip_39_word_new_line_4: 'text
-
-  zebra
-
-  mixture
-
-  crater'
-bip_39_word_new_line_5: 'text
-
-  zebra
-
-  mixture
-
-  crater
-
-  clock'
-bip_39_word_new_line_6: 'text
-
-  zebra
-
-  mixture
-
-  crater
-
-  clock
-
-  citizen'
-bip_39_word_new_line_7: 'text
-
-  zebra
-
-  mixture
-
-  crater
-
-  clock
-
-  citizen
-
-  inform'
-bip_39_word_new_line_8: 'text
-
-  zebra
-
-  mixture
-
-  crater
-
-  clock
-
-  citizen
-
-  inform
-
-  dress'
-bip_39_word_new_line_9: 'text
-
-  zebra
-
-  mixture
-
-  crater
-
-  clock
-
-  citizen
-
-  inform
-
-  dress
-
-  left'
-bip_39_word_no_space_1: text
-bip_39_word_no_space_10: textzebramixturecraterclockcitizeninformdressleftfaint
-bip_39_word_no_space_11: textzebramixturecraterclockcitizeninformdressleftfaintdose
 bip_39_word_no_space_12: textzebramixturecraterclockcitizeninformdressleftfaintdoseanger
 bip_39_word_no_space_2: textzebra
 bip_39_word_no_space_3: textzebramixture
-bip_39_word_no_space_4: textzebramixturecrater
-bip_39_word_no_space_5: textzebramixturecraterclock
-bip_39_word_no_space_6: textzebramixturecraterclockcitizen
-bip_39_word_no_space_7: textzebramixturecraterclockcitizeninform
-bip_39_word_no_space_8: textzebramixturecraterclockcitizeninformdress
-bip_39_word_no_space_9: textzebramixturecraterclockcitizeninformdressleft
-bip_39_word_space_0:
-- text
-- zebra
-- mixture
-- crater
-- clock
-- citizen
-- inform
-- dress
-- left
-- faint
-- dose
-- anger
-bip_39_word_space_1: text
-bip_39_word_space_10: text zebra mixture crater clock citizen inform dress left faint
-bip_39_word_space_11: text zebra mixture crater clock citizen inform dress left faint
-  dose
 bip_39_word_space_12: text zebra mixture crater clock citizen inform dress left faint
   dose anger
 bip_39_word_space_2: text zebra
 bip_39_word_space_3: text zebra mixture
-bip_39_word_space_4: text zebra mixture crater
-bip_39_word_space_5: text zebra mixture crater clock
-bip_39_word_space_6: text zebra mixture crater clock citizen
-bip_39_word_space_7: text zebra mixture crater clock citizen inform
-bip_39_word_space_8: text zebra mixture crater clock citizen inform dress
-bip_39_word_space_9: text zebra mixture crater clock citizen inform dress left
-bip_39_word_underscore_1: text
-bip_39_word_underscore_10: text_zebra_mixture_crater_clock_citizen_inform_dress_left_faint
-bip_39_word_underscore_11: text_zebra_mixture_crater_clock_citizen_inform_dress_left_faint_dose
 bip_39_word_underscore_12: text_zebra_mixture_crater_clock_citizen_inform_dress_left_faint_dose_anger
 bip_39_word_underscore_2: text_zebra
 bip_39_word_underscore_3: text_zebra_mixture
-bip_39_word_underscore_4: text_zebra_mixture_crater
-bip_39_word_underscore_5: text_zebra_mixture_crater_clock
-bip_39_word_underscore_6: text_zebra_mixture_crater_clock_citizen
-bip_39_word_underscore_7: text_zebra_mixture_crater_clock_citizen_inform
-bip_39_word_underscore_8: text_zebra_mixture_crater_clock_citizen_inform_dress
-bip_39_word_underscore_9: text_zebra_mixture_crater_clock_citizen_inform_dress_left
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

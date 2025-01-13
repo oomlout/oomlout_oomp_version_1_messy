@@ -1,68 +1,9 @@
-bip_39_word_dash_1: want
-bip_39_word_dash_10: want-meadow-flavor-city-orbit-ivory-motion-noble-actress-circle
-bip_39_word_dash_11: want-meadow-flavor-city-orbit-ivory-motion-noble-actress-circle-lend
 bip_39_word_dash_12: want-meadow-flavor-city-orbit-ivory-motion-noble-actress-circle-lend-any
 bip_39_word_dash_2: want-meadow
 bip_39_word_dash_3: want-meadow-flavor
-bip_39_word_dash_4: want-meadow-flavor-city
-bip_39_word_dash_5: want-meadow-flavor-city-orbit
-bip_39_word_dash_6: want-meadow-flavor-city-orbit-ivory
-bip_39_word_dash_7: want-meadow-flavor-city-orbit-ivory-motion
-bip_39_word_dash_8: want-meadow-flavor-city-orbit-ivory-motion-noble
-bip_39_word_dash_9: want-meadow-flavor-city-orbit-ivory-motion-noble-actress
-bip_39_word_new_br_1: want
-bip_39_word_new_br_10: want<br>meadow<br>flavor<br>city<br>orbit<br>ivory<br>motion<br>noble<br>actress<br>circle
-bip_39_word_new_br_11: want<br>meadow<br>flavor<br>city<br>orbit<br>ivory<br>motion<br>noble<br>actress<br>circle<br>lend
 bip_39_word_new_br_12: want<br>meadow<br>flavor<br>city<br>orbit<br>ivory<br>motion<br>noble<br>actress<br>circle<br>lend<br>any
 bip_39_word_new_br_2: want<br>meadow
 bip_39_word_new_br_3: want<br>meadow<br>flavor
-bip_39_word_new_br_4: want<br>meadow<br>flavor<br>city
-bip_39_word_new_br_5: want<br>meadow<br>flavor<br>city<br>orbit
-bip_39_word_new_br_6: want<br>meadow<br>flavor<br>city<br>orbit<br>ivory
-bip_39_word_new_br_7: want<br>meadow<br>flavor<br>city<br>orbit<br>ivory<br>motion
-bip_39_word_new_br_8: want<br>meadow<br>flavor<br>city<br>orbit<br>ivory<br>motion<br>noble
-bip_39_word_new_br_9: want<br>meadow<br>flavor<br>city<br>orbit<br>ivory<br>motion<br>noble<br>actress
-bip_39_word_new_line_1: want
-bip_39_word_new_line_10: 'want
-
-  meadow
-
-  flavor
-
-  city
-
-  orbit
-
-  ivory
-
-  motion
-
-  noble
-
-  actress
-
-  circle'
-bip_39_word_new_line_11: 'want
-
-  meadow
-
-  flavor
-
-  city
-
-  orbit
-
-  ivory
-
-  motion
-
-  noble
-
-  actress
-
-  circle
-
-  lend'
 bip_39_word_new_line_12: 'want
 
   meadow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'want
   meadow
 
   flavor'
-bip_39_word_new_line_4: 'want
-
-  meadow
-
-  flavor
-
-  city'
-bip_39_word_new_line_5: 'want
-
-  meadow
-
-  flavor
-
-  city
-
-  orbit'
-bip_39_word_new_line_6: 'want
-
-  meadow
-
-  flavor
-
-  city
-
-  orbit
-
-  ivory'
-bip_39_word_new_line_7: 'want
-
-  meadow
-
-  flavor
-
-  city
-
-  orbit
-
-  ivory
-
-  motion'
-bip_39_word_new_line_8: 'want
-
-  meadow
-
-  flavor
-
-  city
-
-  orbit
-
-  ivory
-
-  motion
-
-  noble'
-bip_39_word_new_line_9: 'want
-
-  meadow
-
-  flavor
-
-  city
-
-  orbit
-
-  ivory
-
-  motion
-
-  noble
-
-  actress'
-bip_39_word_no_space_1: want
-bip_39_word_no_space_10: wantmeadowflavorcityorbitivorymotionnobleactresscircle
-bip_39_word_no_space_11: wantmeadowflavorcityorbitivorymotionnobleactresscirclelend
 bip_39_word_no_space_12: wantmeadowflavorcityorbitivorymotionnobleactresscirclelendany
 bip_39_word_no_space_2: wantmeadow
 bip_39_word_no_space_3: wantmeadowflavor
-bip_39_word_no_space_4: wantmeadowflavorcity
-bip_39_word_no_space_5: wantmeadowflavorcityorbit
-bip_39_word_no_space_6: wantmeadowflavorcityorbitivory
-bip_39_word_no_space_7: wantmeadowflavorcityorbitivorymotion
-bip_39_word_no_space_8: wantmeadowflavorcityorbitivorymotionnoble
-bip_39_word_no_space_9: wantmeadowflavorcityorbitivorymotionnobleactress
-bip_39_word_space_0:
-- want
-- meadow
-- flavor
-- city
-- orbit
-- ivory
-- motion
-- noble
-- actress
-- circle
-- lend
-- any
-bip_39_word_space_1: want
-bip_39_word_space_10: want meadow flavor city orbit ivory motion noble actress circle
-bip_39_word_space_11: want meadow flavor city orbit ivory motion noble actress circle
-  lend
 bip_39_word_space_12: want meadow flavor city orbit ivory motion noble actress circle
   lend any
 bip_39_word_space_2: want meadow
 bip_39_word_space_3: want meadow flavor
-bip_39_word_space_4: want meadow flavor city
-bip_39_word_space_5: want meadow flavor city orbit
-bip_39_word_space_6: want meadow flavor city orbit ivory
-bip_39_word_space_7: want meadow flavor city orbit ivory motion
-bip_39_word_space_8: want meadow flavor city orbit ivory motion noble
-bip_39_word_space_9: want meadow flavor city orbit ivory motion noble actress
-bip_39_word_underscore_1: want
-bip_39_word_underscore_10: want_meadow_flavor_city_orbit_ivory_motion_noble_actress_circle
-bip_39_word_underscore_11: want_meadow_flavor_city_orbit_ivory_motion_noble_actress_circle_lend
 bip_39_word_underscore_12: want_meadow_flavor_city_orbit_ivory_motion_noble_actress_circle_lend_any
 bip_39_word_underscore_2: want_meadow
 bip_39_word_underscore_3: want_meadow_flavor
-bip_39_word_underscore_4: want_meadow_flavor_city
-bip_39_word_underscore_5: want_meadow_flavor_city_orbit
-bip_39_word_underscore_6: want_meadow_flavor_city_orbit_ivory
-bip_39_word_underscore_7: want_meadow_flavor_city_orbit_ivory_motion
-bip_39_word_underscore_8: want_meadow_flavor_city_orbit_ivory_motion_noble
-bip_39_word_underscore_9: want_meadow_flavor_city_orbit_ivory_motion_noble_actress
 classification: category
 classification_capital: Category
 classification_first_letter: c

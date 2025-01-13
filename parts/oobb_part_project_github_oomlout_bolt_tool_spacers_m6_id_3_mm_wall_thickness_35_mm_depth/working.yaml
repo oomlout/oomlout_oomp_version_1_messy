@@ -1,68 +1,9 @@
-bip_39_word_dash_1: busy
-bip_39_word_dash_10: busy-hello-tornado-squirrel-inflict-just-behind-cherry-timber-alarm
-bip_39_word_dash_11: busy-hello-tornado-squirrel-inflict-just-behind-cherry-timber-alarm-web
 bip_39_word_dash_12: busy-hello-tornado-squirrel-inflict-just-behind-cherry-timber-alarm-web-advance
 bip_39_word_dash_2: busy-hello
 bip_39_word_dash_3: busy-hello-tornado
-bip_39_word_dash_4: busy-hello-tornado-squirrel
-bip_39_word_dash_5: busy-hello-tornado-squirrel-inflict
-bip_39_word_dash_6: busy-hello-tornado-squirrel-inflict-just
-bip_39_word_dash_7: busy-hello-tornado-squirrel-inflict-just-behind
-bip_39_word_dash_8: busy-hello-tornado-squirrel-inflict-just-behind-cherry
-bip_39_word_dash_9: busy-hello-tornado-squirrel-inflict-just-behind-cherry-timber
-bip_39_word_new_br_1: busy
-bip_39_word_new_br_10: busy<br>hello<br>tornado<br>squirrel<br>inflict<br>just<br>behind<br>cherry<br>timber<br>alarm
-bip_39_word_new_br_11: busy<br>hello<br>tornado<br>squirrel<br>inflict<br>just<br>behind<br>cherry<br>timber<br>alarm<br>web
 bip_39_word_new_br_12: busy<br>hello<br>tornado<br>squirrel<br>inflict<br>just<br>behind<br>cherry<br>timber<br>alarm<br>web<br>advance
 bip_39_word_new_br_2: busy<br>hello
 bip_39_word_new_br_3: busy<br>hello<br>tornado
-bip_39_word_new_br_4: busy<br>hello<br>tornado<br>squirrel
-bip_39_word_new_br_5: busy<br>hello<br>tornado<br>squirrel<br>inflict
-bip_39_word_new_br_6: busy<br>hello<br>tornado<br>squirrel<br>inflict<br>just
-bip_39_word_new_br_7: busy<br>hello<br>tornado<br>squirrel<br>inflict<br>just<br>behind
-bip_39_word_new_br_8: busy<br>hello<br>tornado<br>squirrel<br>inflict<br>just<br>behind<br>cherry
-bip_39_word_new_br_9: busy<br>hello<br>tornado<br>squirrel<br>inflict<br>just<br>behind<br>cherry<br>timber
-bip_39_word_new_line_1: busy
-bip_39_word_new_line_10: 'busy
-
-  hello
-
-  tornado
-
-  squirrel
-
-  inflict
-
-  just
-
-  behind
-
-  cherry
-
-  timber
-
-  alarm'
-bip_39_word_new_line_11: 'busy
-
-  hello
-
-  tornado
-
-  squirrel
-
-  inflict
-
-  just
-
-  behind
-
-  cherry
-
-  timber
-
-  alarm
-
-  web'
 bip_39_word_new_line_12: 'busy
 
   hello
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'busy
   hello
 
   tornado'
-bip_39_word_new_line_4: 'busy
-
-  hello
-
-  tornado
-
-  squirrel'
-bip_39_word_new_line_5: 'busy
-
-  hello
-
-  tornado
-
-  squirrel
-
-  inflict'
-bip_39_word_new_line_6: 'busy
-
-  hello
-
-  tornado
-
-  squirrel
-
-  inflict
-
-  just'
-bip_39_word_new_line_7: 'busy
-
-  hello
-
-  tornado
-
-  squirrel
-
-  inflict
-
-  just
-
-  behind'
-bip_39_word_new_line_8: 'busy
-
-  hello
-
-  tornado
-
-  squirrel
-
-  inflict
-
-  just
-
-  behind
-
-  cherry'
-bip_39_word_new_line_9: 'busy
-
-  hello
-
-  tornado
-
-  squirrel
-
-  inflict
-
-  just
-
-  behind
-
-  cherry
-
-  timber'
-bip_39_word_no_space_1: busy
-bip_39_word_no_space_10: busyhellotornadosquirrelinflictjustbehindcherrytimberalarm
-bip_39_word_no_space_11: busyhellotornadosquirrelinflictjustbehindcherrytimberalarmweb
 bip_39_word_no_space_12: busyhellotornadosquirrelinflictjustbehindcherrytimberalarmwebadvance
 bip_39_word_no_space_2: busyhello
 bip_39_word_no_space_3: busyhellotornado
-bip_39_word_no_space_4: busyhellotornadosquirrel
-bip_39_word_no_space_5: busyhellotornadosquirrelinflict
-bip_39_word_no_space_6: busyhellotornadosquirrelinflictjust
-bip_39_word_no_space_7: busyhellotornadosquirrelinflictjustbehind
-bip_39_word_no_space_8: busyhellotornadosquirrelinflictjustbehindcherry
-bip_39_word_no_space_9: busyhellotornadosquirrelinflictjustbehindcherrytimber
-bip_39_word_space_0:
-- busy
-- hello
-- tornado
-- squirrel
-- inflict
-- just
-- behind
-- cherry
-- timber
-- alarm
-- web
-- advance
-bip_39_word_space_1: busy
-bip_39_word_space_10: busy hello tornado squirrel inflict just behind cherry timber
-  alarm
-bip_39_word_space_11: busy hello tornado squirrel inflict just behind cherry timber
-  alarm web
 bip_39_word_space_12: busy hello tornado squirrel inflict just behind cherry timber
   alarm web advance
 bip_39_word_space_2: busy hello
 bip_39_word_space_3: busy hello tornado
-bip_39_word_space_4: busy hello tornado squirrel
-bip_39_word_space_5: busy hello tornado squirrel inflict
-bip_39_word_space_6: busy hello tornado squirrel inflict just
-bip_39_word_space_7: busy hello tornado squirrel inflict just behind
-bip_39_word_space_8: busy hello tornado squirrel inflict just behind cherry
-bip_39_word_space_9: busy hello tornado squirrel inflict just behind cherry timber
-bip_39_word_underscore_1: busy
-bip_39_word_underscore_10: busy_hello_tornado_squirrel_inflict_just_behind_cherry_timber_alarm
-bip_39_word_underscore_11: busy_hello_tornado_squirrel_inflict_just_behind_cherry_timber_alarm_web
 bip_39_word_underscore_12: busy_hello_tornado_squirrel_inflict_just_behind_cherry_timber_alarm_web_advance
 bip_39_word_underscore_2: busy_hello
 bip_39_word_underscore_3: busy_hello_tornado
-bip_39_word_underscore_4: busy_hello_tornado_squirrel
-bip_39_word_underscore_5: busy_hello_tornado_squirrel_inflict
-bip_39_word_underscore_6: busy_hello_tornado_squirrel_inflict_just
-bip_39_word_underscore_7: busy_hello_tornado_squirrel_inflict_just_behind
-bip_39_word_underscore_8: busy_hello_tornado_squirrel_inflict_just_behind_cherry
-bip_39_word_underscore_9: busy_hello_tornado_squirrel_inflict_just_behind_cherry_timber
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

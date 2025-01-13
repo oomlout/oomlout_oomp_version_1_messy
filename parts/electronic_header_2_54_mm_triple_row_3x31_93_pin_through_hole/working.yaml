@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kitten
-bip_39_word_dash_10: kitten-card-double-math-evoke-spoil-mixed-glow-truth-monkey
-bip_39_word_dash_11: kitten-card-double-math-evoke-spoil-mixed-glow-truth-monkey-awful
 bip_39_word_dash_12: kitten-card-double-math-evoke-spoil-mixed-glow-truth-monkey-awful-alarm
 bip_39_word_dash_2: kitten-card
 bip_39_word_dash_3: kitten-card-double
-bip_39_word_dash_4: kitten-card-double-math
-bip_39_word_dash_5: kitten-card-double-math-evoke
-bip_39_word_dash_6: kitten-card-double-math-evoke-spoil
-bip_39_word_dash_7: kitten-card-double-math-evoke-spoil-mixed
-bip_39_word_dash_8: kitten-card-double-math-evoke-spoil-mixed-glow
-bip_39_word_dash_9: kitten-card-double-math-evoke-spoil-mixed-glow-truth
-bip_39_word_new_br_1: kitten
-bip_39_word_new_br_10: kitten<br>card<br>double<br>math<br>evoke<br>spoil<br>mixed<br>glow<br>truth<br>monkey
-bip_39_word_new_br_11: kitten<br>card<br>double<br>math<br>evoke<br>spoil<br>mixed<br>glow<br>truth<br>monkey<br>awful
 bip_39_word_new_br_12: kitten<br>card<br>double<br>math<br>evoke<br>spoil<br>mixed<br>glow<br>truth<br>monkey<br>awful<br>alarm
 bip_39_word_new_br_2: kitten<br>card
 bip_39_word_new_br_3: kitten<br>card<br>double
-bip_39_word_new_br_4: kitten<br>card<br>double<br>math
-bip_39_word_new_br_5: kitten<br>card<br>double<br>math<br>evoke
-bip_39_word_new_br_6: kitten<br>card<br>double<br>math<br>evoke<br>spoil
-bip_39_word_new_br_7: kitten<br>card<br>double<br>math<br>evoke<br>spoil<br>mixed
-bip_39_word_new_br_8: kitten<br>card<br>double<br>math<br>evoke<br>spoil<br>mixed<br>glow
-bip_39_word_new_br_9: kitten<br>card<br>double<br>math<br>evoke<br>spoil<br>mixed<br>glow<br>truth
-bip_39_word_new_line_1: kitten
-bip_39_word_new_line_10: 'kitten
-
-  card
-
-  double
-
-  math
-
-  evoke
-
-  spoil
-
-  mixed
-
-  glow
-
-  truth
-
-  monkey'
-bip_39_word_new_line_11: 'kitten
-
-  card
-
-  double
-
-  math
-
-  evoke
-
-  spoil
-
-  mixed
-
-  glow
-
-  truth
-
-  monkey
-
-  awful'
 bip_39_word_new_line_12: 'kitten
 
   card
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kitten
   card
 
   double'
-bip_39_word_new_line_4: 'kitten
-
-  card
-
-  double
-
-  math'
-bip_39_word_new_line_5: 'kitten
-
-  card
-
-  double
-
-  math
-
-  evoke'
-bip_39_word_new_line_6: 'kitten
-
-  card
-
-  double
-
-  math
-
-  evoke
-
-  spoil'
-bip_39_word_new_line_7: 'kitten
-
-  card
-
-  double
-
-  math
-
-  evoke
-
-  spoil
-
-  mixed'
-bip_39_word_new_line_8: 'kitten
-
-  card
-
-  double
-
-  math
-
-  evoke
-
-  spoil
-
-  mixed
-
-  glow'
-bip_39_word_new_line_9: 'kitten
-
-  card
-
-  double
-
-  math
-
-  evoke
-
-  spoil
-
-  mixed
-
-  glow
-
-  truth'
-bip_39_word_no_space_1: kitten
-bip_39_word_no_space_10: kittencarddoublemathevokespoilmixedglowtruthmonkey
-bip_39_word_no_space_11: kittencarddoublemathevokespoilmixedglowtruthmonkeyawful
 bip_39_word_no_space_12: kittencarddoublemathevokespoilmixedglowtruthmonkeyawfulalarm
 bip_39_word_no_space_2: kittencard
 bip_39_word_no_space_3: kittencarddouble
-bip_39_word_no_space_4: kittencarddoublemath
-bip_39_word_no_space_5: kittencarddoublemathevoke
-bip_39_word_no_space_6: kittencarddoublemathevokespoil
-bip_39_word_no_space_7: kittencarddoublemathevokespoilmixed
-bip_39_word_no_space_8: kittencarddoublemathevokespoilmixedglow
-bip_39_word_no_space_9: kittencarddoublemathevokespoilmixedglowtruth
-bip_39_word_space_0:
-- kitten
-- card
-- double
-- math
-- evoke
-- spoil
-- mixed
-- glow
-- truth
-- monkey
-- awful
-- alarm
-bip_39_word_space_1: kitten
-bip_39_word_space_10: kitten card double math evoke spoil mixed glow truth monkey
-bip_39_word_space_11: kitten card double math evoke spoil mixed glow truth monkey
-  awful
 bip_39_word_space_12: kitten card double math evoke spoil mixed glow truth monkey
   awful alarm
 bip_39_word_space_2: kitten card
 bip_39_word_space_3: kitten card double
-bip_39_word_space_4: kitten card double math
-bip_39_word_space_5: kitten card double math evoke
-bip_39_word_space_6: kitten card double math evoke spoil
-bip_39_word_space_7: kitten card double math evoke spoil mixed
-bip_39_word_space_8: kitten card double math evoke spoil mixed glow
-bip_39_word_space_9: kitten card double math evoke spoil mixed glow truth
-bip_39_word_underscore_1: kitten
-bip_39_word_underscore_10: kitten_card_double_math_evoke_spoil_mixed_glow_truth_monkey
-bip_39_word_underscore_11: kitten_card_double_math_evoke_spoil_mixed_glow_truth_monkey_awful
 bip_39_word_underscore_12: kitten_card_double_math_evoke_spoil_mixed_glow_truth_monkey_awful_alarm
 bip_39_word_underscore_2: kitten_card
 bip_39_word_underscore_3: kitten_card_double
-bip_39_word_underscore_4: kitten_card_double_math
-bip_39_word_underscore_5: kitten_card_double_math_evoke
-bip_39_word_underscore_6: kitten_card_double_math_evoke_spoil
-bip_39_word_underscore_7: kitten_card_double_math_evoke_spoil_mixed
-bip_39_word_underscore_8: kitten_card_double_math_evoke_spoil_mixed_glow
-bip_39_word_underscore_9: kitten_card_double_math_evoke_spoil_mixed_glow_truth
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: reason
-bip_39_word_dash_10: reason-atom-steak-puzzle-fatal-rug-wet-split-success-aisle
-bip_39_word_dash_11: reason-atom-steak-puzzle-fatal-rug-wet-split-success-aisle-blue
 bip_39_word_dash_12: reason-atom-steak-puzzle-fatal-rug-wet-split-success-aisle-blue-anger
 bip_39_word_dash_2: reason-atom
 bip_39_word_dash_3: reason-atom-steak
-bip_39_word_dash_4: reason-atom-steak-puzzle
-bip_39_word_dash_5: reason-atom-steak-puzzle-fatal
-bip_39_word_dash_6: reason-atom-steak-puzzle-fatal-rug
-bip_39_word_dash_7: reason-atom-steak-puzzle-fatal-rug-wet
-bip_39_word_dash_8: reason-atom-steak-puzzle-fatal-rug-wet-split
-bip_39_word_dash_9: reason-atom-steak-puzzle-fatal-rug-wet-split-success
-bip_39_word_new_br_1: reason
-bip_39_word_new_br_10: reason<br>atom<br>steak<br>puzzle<br>fatal<br>rug<br>wet<br>split<br>success<br>aisle
-bip_39_word_new_br_11: reason<br>atom<br>steak<br>puzzle<br>fatal<br>rug<br>wet<br>split<br>success<br>aisle<br>blue
 bip_39_word_new_br_12: reason<br>atom<br>steak<br>puzzle<br>fatal<br>rug<br>wet<br>split<br>success<br>aisle<br>blue<br>anger
 bip_39_word_new_br_2: reason<br>atom
 bip_39_word_new_br_3: reason<br>atom<br>steak
-bip_39_word_new_br_4: reason<br>atom<br>steak<br>puzzle
-bip_39_word_new_br_5: reason<br>atom<br>steak<br>puzzle<br>fatal
-bip_39_word_new_br_6: reason<br>atom<br>steak<br>puzzle<br>fatal<br>rug
-bip_39_word_new_br_7: reason<br>atom<br>steak<br>puzzle<br>fatal<br>rug<br>wet
-bip_39_word_new_br_8: reason<br>atom<br>steak<br>puzzle<br>fatal<br>rug<br>wet<br>split
-bip_39_word_new_br_9: reason<br>atom<br>steak<br>puzzle<br>fatal<br>rug<br>wet<br>split<br>success
-bip_39_word_new_line_1: reason
-bip_39_word_new_line_10: 'reason
-
-  atom
-
-  steak
-
-  puzzle
-
-  fatal
-
-  rug
-
-  wet
-
-  split
-
-  success
-
-  aisle'
-bip_39_word_new_line_11: 'reason
-
-  atom
-
-  steak
-
-  puzzle
-
-  fatal
-
-  rug
-
-  wet
-
-  split
-
-  success
-
-  aisle
-
-  blue'
 bip_39_word_new_line_12: 'reason
 
   atom
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'reason
   atom
 
   steak'
-bip_39_word_new_line_4: 'reason
-
-  atom
-
-  steak
-
-  puzzle'
-bip_39_word_new_line_5: 'reason
-
-  atom
-
-  steak
-
-  puzzle
-
-  fatal'
-bip_39_word_new_line_6: 'reason
-
-  atom
-
-  steak
-
-  puzzle
-
-  fatal
-
-  rug'
-bip_39_word_new_line_7: 'reason
-
-  atom
-
-  steak
-
-  puzzle
-
-  fatal
-
-  rug
-
-  wet'
-bip_39_word_new_line_8: 'reason
-
-  atom
-
-  steak
-
-  puzzle
-
-  fatal
-
-  rug
-
-  wet
-
-  split'
-bip_39_word_new_line_9: 'reason
-
-  atom
-
-  steak
-
-  puzzle
-
-  fatal
-
-  rug
-
-  wet
-
-  split
-
-  success'
-bip_39_word_no_space_1: reason
-bip_39_word_no_space_10: reasonatomsteakpuzzlefatalrugwetsplitsuccessaisle
-bip_39_word_no_space_11: reasonatomsteakpuzzlefatalrugwetsplitsuccessaisleblue
 bip_39_word_no_space_12: reasonatomsteakpuzzlefatalrugwetsplitsuccessaisleblueanger
 bip_39_word_no_space_2: reasonatom
 bip_39_word_no_space_3: reasonatomsteak
-bip_39_word_no_space_4: reasonatomsteakpuzzle
-bip_39_word_no_space_5: reasonatomsteakpuzzlefatal
-bip_39_word_no_space_6: reasonatomsteakpuzzlefatalrug
-bip_39_word_no_space_7: reasonatomsteakpuzzlefatalrugwet
-bip_39_word_no_space_8: reasonatomsteakpuzzlefatalrugwetsplit
-bip_39_word_no_space_9: reasonatomsteakpuzzlefatalrugwetsplitsuccess
-bip_39_word_space_0:
-- reason
-- atom
-- steak
-- puzzle
-- fatal
-- rug
-- wet
-- split
-- success
-- aisle
-- blue
-- anger
-bip_39_word_space_1: reason
-bip_39_word_space_10: reason atom steak puzzle fatal rug wet split success aisle
-bip_39_word_space_11: reason atom steak puzzle fatal rug wet split success aisle blue
 bip_39_word_space_12: reason atom steak puzzle fatal rug wet split success aisle blue
   anger
 bip_39_word_space_2: reason atom
 bip_39_word_space_3: reason atom steak
-bip_39_word_space_4: reason atom steak puzzle
-bip_39_word_space_5: reason atom steak puzzle fatal
-bip_39_word_space_6: reason atom steak puzzle fatal rug
-bip_39_word_space_7: reason atom steak puzzle fatal rug wet
-bip_39_word_space_8: reason atom steak puzzle fatal rug wet split
-bip_39_word_space_9: reason atom steak puzzle fatal rug wet split success
-bip_39_word_underscore_1: reason
-bip_39_word_underscore_10: reason_atom_steak_puzzle_fatal_rug_wet_split_success_aisle
-bip_39_word_underscore_11: reason_atom_steak_puzzle_fatal_rug_wet_split_success_aisle_blue
 bip_39_word_underscore_12: reason_atom_steak_puzzle_fatal_rug_wet_split_success_aisle_blue_anger
 bip_39_word_underscore_2: reason_atom
 bip_39_word_underscore_3: reason_atom_steak
-bip_39_word_underscore_4: reason_atom_steak_puzzle
-bip_39_word_underscore_5: reason_atom_steak_puzzle_fatal
-bip_39_word_underscore_6: reason_atom_steak_puzzle_fatal_rug
-bip_39_word_underscore_7: reason_atom_steak_puzzle_fatal_rug_wet
-bip_39_word_underscore_8: reason_atom_steak_puzzle_fatal_rug_wet_split
-bip_39_word_underscore_9: reason_atom_steak_puzzle_fatal_rug_wet_split_success
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: patient
-bip_39_word_dash_10: patient-time-render-film-sing-scale-cry-security-cigar-elite
-bip_39_word_dash_11: patient-time-render-film-sing-scale-cry-security-cigar-elite-trust
 bip_39_word_dash_12: patient-time-render-film-sing-scale-cry-security-cigar-elite-trust-avocado
 bip_39_word_dash_2: patient-time
 bip_39_word_dash_3: patient-time-render
-bip_39_word_dash_4: patient-time-render-film
-bip_39_word_dash_5: patient-time-render-film-sing
-bip_39_word_dash_6: patient-time-render-film-sing-scale
-bip_39_word_dash_7: patient-time-render-film-sing-scale-cry
-bip_39_word_dash_8: patient-time-render-film-sing-scale-cry-security
-bip_39_word_dash_9: patient-time-render-film-sing-scale-cry-security-cigar
-bip_39_word_new_br_1: patient
-bip_39_word_new_br_10: patient<br>time<br>render<br>film<br>sing<br>scale<br>cry<br>security<br>cigar<br>elite
-bip_39_word_new_br_11: patient<br>time<br>render<br>film<br>sing<br>scale<br>cry<br>security<br>cigar<br>elite<br>trust
 bip_39_word_new_br_12: patient<br>time<br>render<br>film<br>sing<br>scale<br>cry<br>security<br>cigar<br>elite<br>trust<br>avocado
 bip_39_word_new_br_2: patient<br>time
 bip_39_word_new_br_3: patient<br>time<br>render
-bip_39_word_new_br_4: patient<br>time<br>render<br>film
-bip_39_word_new_br_5: patient<br>time<br>render<br>film<br>sing
-bip_39_word_new_br_6: patient<br>time<br>render<br>film<br>sing<br>scale
-bip_39_word_new_br_7: patient<br>time<br>render<br>film<br>sing<br>scale<br>cry
-bip_39_word_new_br_8: patient<br>time<br>render<br>film<br>sing<br>scale<br>cry<br>security
-bip_39_word_new_br_9: patient<br>time<br>render<br>film<br>sing<br>scale<br>cry<br>security<br>cigar
-bip_39_word_new_line_1: patient
-bip_39_word_new_line_10: 'patient
-
-  time
-
-  render
-
-  film
-
-  sing
-
-  scale
-
-  cry
-
-  security
-
-  cigar
-
-  elite'
-bip_39_word_new_line_11: 'patient
-
-  time
-
-  render
-
-  film
-
-  sing
-
-  scale
-
-  cry
-
-  security
-
-  cigar
-
-  elite
-
-  trust'
 bip_39_word_new_line_12: 'patient
 
   time
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'patient
   time
 
   render'
-bip_39_word_new_line_4: 'patient
-
-  time
-
-  render
-
-  film'
-bip_39_word_new_line_5: 'patient
-
-  time
-
-  render
-
-  film
-
-  sing'
-bip_39_word_new_line_6: 'patient
-
-  time
-
-  render
-
-  film
-
-  sing
-
-  scale'
-bip_39_word_new_line_7: 'patient
-
-  time
-
-  render
-
-  film
-
-  sing
-
-  scale
-
-  cry'
-bip_39_word_new_line_8: 'patient
-
-  time
-
-  render
-
-  film
-
-  sing
-
-  scale
-
-  cry
-
-  security'
-bip_39_word_new_line_9: 'patient
-
-  time
-
-  render
-
-  film
-
-  sing
-
-  scale
-
-  cry
-
-  security
-
-  cigar'
-bip_39_word_no_space_1: patient
-bip_39_word_no_space_10: patienttimerenderfilmsingscalecrysecuritycigarelite
-bip_39_word_no_space_11: patienttimerenderfilmsingscalecrysecuritycigarelitetrust
 bip_39_word_no_space_12: patienttimerenderfilmsingscalecrysecuritycigarelitetrustavocado
 bip_39_word_no_space_2: patienttime
 bip_39_word_no_space_3: patienttimerender
-bip_39_word_no_space_4: patienttimerenderfilm
-bip_39_word_no_space_5: patienttimerenderfilmsing
-bip_39_word_no_space_6: patienttimerenderfilmsingscale
-bip_39_word_no_space_7: patienttimerenderfilmsingscalecry
-bip_39_word_no_space_8: patienttimerenderfilmsingscalecrysecurity
-bip_39_word_no_space_9: patienttimerenderfilmsingscalecrysecuritycigar
-bip_39_word_space_0:
-- patient
-- time
-- render
-- film
-- sing
-- scale
-- cry
-- security
-- cigar
-- elite
-- trust
-- avocado
-bip_39_word_space_1: patient
-bip_39_word_space_10: patient time render film sing scale cry security cigar elite
-bip_39_word_space_11: patient time render film sing scale cry security cigar elite
-  trust
 bip_39_word_space_12: patient time render film sing scale cry security cigar elite
   trust avocado
 bip_39_word_space_2: patient time
 bip_39_word_space_3: patient time render
-bip_39_word_space_4: patient time render film
-bip_39_word_space_5: patient time render film sing
-bip_39_word_space_6: patient time render film sing scale
-bip_39_word_space_7: patient time render film sing scale cry
-bip_39_word_space_8: patient time render film sing scale cry security
-bip_39_word_space_9: patient time render film sing scale cry security cigar
-bip_39_word_underscore_1: patient
-bip_39_word_underscore_10: patient_time_render_film_sing_scale_cry_security_cigar_elite
-bip_39_word_underscore_11: patient_time_render_film_sing_scale_cry_security_cigar_elite_trust
 bip_39_word_underscore_12: patient_time_render_film_sing_scale_cry_security_cigar_elite_trust_avocado
 bip_39_word_underscore_2: patient_time
 bip_39_word_underscore_3: patient_time_render
-bip_39_word_underscore_4: patient_time_render_film
-bip_39_word_underscore_5: patient_time_render_film_sing
-bip_39_word_underscore_6: patient_time_render_film_sing_scale
-bip_39_word_underscore_7: patient_time_render_film_sing_scale_cry
-bip_39_word_underscore_8: patient_time_render_film_sing_scale_cry_security
-bip_39_word_underscore_9: patient_time_render_film_sing_scale_cry_security_cigar
 classification: project
 classification_capital: Project
 classification_first_letter: p

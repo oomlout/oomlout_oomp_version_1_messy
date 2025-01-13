@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bench
-bip_39_word_dash_10: bench-key-amazing-faculty-enter-interest-atom-very-express-source
-bip_39_word_dash_11: bench-key-amazing-faculty-enter-interest-atom-very-express-source-cabbage
 bip_39_word_dash_12: bench-key-amazing-faculty-enter-interest-atom-very-express-source-cabbage-anger
 bip_39_word_dash_2: bench-key
 bip_39_word_dash_3: bench-key-amazing
-bip_39_word_dash_4: bench-key-amazing-faculty
-bip_39_word_dash_5: bench-key-amazing-faculty-enter
-bip_39_word_dash_6: bench-key-amazing-faculty-enter-interest
-bip_39_word_dash_7: bench-key-amazing-faculty-enter-interest-atom
-bip_39_word_dash_8: bench-key-amazing-faculty-enter-interest-atom-very
-bip_39_word_dash_9: bench-key-amazing-faculty-enter-interest-atom-very-express
-bip_39_word_new_br_1: bench
-bip_39_word_new_br_10: bench<br>key<br>amazing<br>faculty<br>enter<br>interest<br>atom<br>very<br>express<br>source
-bip_39_word_new_br_11: bench<br>key<br>amazing<br>faculty<br>enter<br>interest<br>atom<br>very<br>express<br>source<br>cabbage
 bip_39_word_new_br_12: bench<br>key<br>amazing<br>faculty<br>enter<br>interest<br>atom<br>very<br>express<br>source<br>cabbage<br>anger
 bip_39_word_new_br_2: bench<br>key
 bip_39_word_new_br_3: bench<br>key<br>amazing
-bip_39_word_new_br_4: bench<br>key<br>amazing<br>faculty
-bip_39_word_new_br_5: bench<br>key<br>amazing<br>faculty<br>enter
-bip_39_word_new_br_6: bench<br>key<br>amazing<br>faculty<br>enter<br>interest
-bip_39_word_new_br_7: bench<br>key<br>amazing<br>faculty<br>enter<br>interest<br>atom
-bip_39_word_new_br_8: bench<br>key<br>amazing<br>faculty<br>enter<br>interest<br>atom<br>very
-bip_39_word_new_br_9: bench<br>key<br>amazing<br>faculty<br>enter<br>interest<br>atom<br>very<br>express
-bip_39_word_new_line_1: bench
-bip_39_word_new_line_10: 'bench
-
-  key
-
-  amazing
-
-  faculty
-
-  enter
-
-  interest
-
-  atom
-
-  very
-
-  express
-
-  source'
-bip_39_word_new_line_11: 'bench
-
-  key
-
-  amazing
-
-  faculty
-
-  enter
-
-  interest
-
-  atom
-
-  very
-
-  express
-
-  source
-
-  cabbage'
 bip_39_word_new_line_12: 'bench
 
   key
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bench
   key
 
   amazing'
-bip_39_word_new_line_4: 'bench
-
-  key
-
-  amazing
-
-  faculty'
-bip_39_word_new_line_5: 'bench
-
-  key
-
-  amazing
-
-  faculty
-
-  enter'
-bip_39_word_new_line_6: 'bench
-
-  key
-
-  amazing
-
-  faculty
-
-  enter
-
-  interest'
-bip_39_word_new_line_7: 'bench
-
-  key
-
-  amazing
-
-  faculty
-
-  enter
-
-  interest
-
-  atom'
-bip_39_word_new_line_8: 'bench
-
-  key
-
-  amazing
-
-  faculty
-
-  enter
-
-  interest
-
-  atom
-
-  very'
-bip_39_word_new_line_9: 'bench
-
-  key
-
-  amazing
-
-  faculty
-
-  enter
-
-  interest
-
-  atom
-
-  very
-
-  express'
-bip_39_word_no_space_1: bench
-bip_39_word_no_space_10: benchkeyamazingfacultyenterinterestatomveryexpresssource
-bip_39_word_no_space_11: benchkeyamazingfacultyenterinterestatomveryexpresssourcecabbage
 bip_39_word_no_space_12: benchkeyamazingfacultyenterinterestatomveryexpresssourcecabbageanger
 bip_39_word_no_space_2: benchkey
 bip_39_word_no_space_3: benchkeyamazing
-bip_39_word_no_space_4: benchkeyamazingfaculty
-bip_39_word_no_space_5: benchkeyamazingfacultyenter
-bip_39_word_no_space_6: benchkeyamazingfacultyenterinterest
-bip_39_word_no_space_7: benchkeyamazingfacultyenterinterestatom
-bip_39_word_no_space_8: benchkeyamazingfacultyenterinterestatomvery
-bip_39_word_no_space_9: benchkeyamazingfacultyenterinterestatomveryexpress
-bip_39_word_space_0:
-- bench
-- key
-- amazing
-- faculty
-- enter
-- interest
-- atom
-- very
-- express
-- source
-- cabbage
-- anger
-bip_39_word_space_1: bench
-bip_39_word_space_10: bench key amazing faculty enter interest atom very express source
-bip_39_word_space_11: bench key amazing faculty enter interest atom very express source
-  cabbage
 bip_39_word_space_12: bench key amazing faculty enter interest atom very express source
   cabbage anger
 bip_39_word_space_2: bench key
 bip_39_word_space_3: bench key amazing
-bip_39_word_space_4: bench key amazing faculty
-bip_39_word_space_5: bench key amazing faculty enter
-bip_39_word_space_6: bench key amazing faculty enter interest
-bip_39_word_space_7: bench key amazing faculty enter interest atom
-bip_39_word_space_8: bench key amazing faculty enter interest atom very
-bip_39_word_space_9: bench key amazing faculty enter interest atom very express
-bip_39_word_underscore_1: bench
-bip_39_word_underscore_10: bench_key_amazing_faculty_enter_interest_atom_very_express_source
-bip_39_word_underscore_11: bench_key_amazing_faculty_enter_interest_atom_very_express_source_cabbage
 bip_39_word_underscore_12: bench_key_amazing_faculty_enter_interest_atom_very_express_source_cabbage_anger
 bip_39_word_underscore_2: bench_key
 bip_39_word_underscore_3: bench_key_amazing
-bip_39_word_underscore_4: bench_key_amazing_faculty
-bip_39_word_underscore_5: bench_key_amazing_faculty_enter
-bip_39_word_underscore_6: bench_key_amazing_faculty_enter_interest
-bip_39_word_underscore_7: bench_key_amazing_faculty_enter_interest_atom
-bip_39_word_underscore_8: bench_key_amazing_faculty_enter_interest_atom_very
-bip_39_word_underscore_9: bench_key_amazing_faculty_enter_interest_atom_very_express
 classification: remote_control
 classification_capital: Remote Control
 classification_first_letter: r

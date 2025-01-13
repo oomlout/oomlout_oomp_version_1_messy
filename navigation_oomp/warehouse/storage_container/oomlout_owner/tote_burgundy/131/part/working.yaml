@@ -1,68 +1,9 @@
-bip_39_word_dash_1: insane
-bip_39_word_dash_10: insane-brisk-flight-sight-velvet-rent-nuclear-afford-mouse-later
-bip_39_word_dash_11: insane-brisk-flight-sight-velvet-rent-nuclear-afford-mouse-later-cage
 bip_39_word_dash_12: insane-brisk-flight-sight-velvet-rent-nuclear-afford-mouse-later-cage-ancient
 bip_39_word_dash_2: insane-brisk
 bip_39_word_dash_3: insane-brisk-flight
-bip_39_word_dash_4: insane-brisk-flight-sight
-bip_39_word_dash_5: insane-brisk-flight-sight-velvet
-bip_39_word_dash_6: insane-brisk-flight-sight-velvet-rent
-bip_39_word_dash_7: insane-brisk-flight-sight-velvet-rent-nuclear
-bip_39_word_dash_8: insane-brisk-flight-sight-velvet-rent-nuclear-afford
-bip_39_word_dash_9: insane-brisk-flight-sight-velvet-rent-nuclear-afford-mouse
-bip_39_word_new_br_1: insane
-bip_39_word_new_br_10: insane<br>brisk<br>flight<br>sight<br>velvet<br>rent<br>nuclear<br>afford<br>mouse<br>later
-bip_39_word_new_br_11: insane<br>brisk<br>flight<br>sight<br>velvet<br>rent<br>nuclear<br>afford<br>mouse<br>later<br>cage
 bip_39_word_new_br_12: insane<br>brisk<br>flight<br>sight<br>velvet<br>rent<br>nuclear<br>afford<br>mouse<br>later<br>cage<br>ancient
 bip_39_word_new_br_2: insane<br>brisk
 bip_39_word_new_br_3: insane<br>brisk<br>flight
-bip_39_word_new_br_4: insane<br>brisk<br>flight<br>sight
-bip_39_word_new_br_5: insane<br>brisk<br>flight<br>sight<br>velvet
-bip_39_word_new_br_6: insane<br>brisk<br>flight<br>sight<br>velvet<br>rent
-bip_39_word_new_br_7: insane<br>brisk<br>flight<br>sight<br>velvet<br>rent<br>nuclear
-bip_39_word_new_br_8: insane<br>brisk<br>flight<br>sight<br>velvet<br>rent<br>nuclear<br>afford
-bip_39_word_new_br_9: insane<br>brisk<br>flight<br>sight<br>velvet<br>rent<br>nuclear<br>afford<br>mouse
-bip_39_word_new_line_1: insane
-bip_39_word_new_line_10: 'insane
-
-  brisk
-
-  flight
-
-  sight
-
-  velvet
-
-  rent
-
-  nuclear
-
-  afford
-
-  mouse
-
-  later'
-bip_39_word_new_line_11: 'insane
-
-  brisk
-
-  flight
-
-  sight
-
-  velvet
-
-  rent
-
-  nuclear
-
-  afford
-
-  mouse
-
-  later
-
-  cage'
 bip_39_word_new_line_12: 'insane
 
   brisk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'insane
   brisk
 
   flight'
-bip_39_word_new_line_4: 'insane
-
-  brisk
-
-  flight
-
-  sight'
-bip_39_word_new_line_5: 'insane
-
-  brisk
-
-  flight
-
-  sight
-
-  velvet'
-bip_39_word_new_line_6: 'insane
-
-  brisk
-
-  flight
-
-  sight
-
-  velvet
-
-  rent'
-bip_39_word_new_line_7: 'insane
-
-  brisk
-
-  flight
-
-  sight
-
-  velvet
-
-  rent
-
-  nuclear'
-bip_39_word_new_line_8: 'insane
-
-  brisk
-
-  flight
-
-  sight
-
-  velvet
-
-  rent
-
-  nuclear
-
-  afford'
-bip_39_word_new_line_9: 'insane
-
-  brisk
-
-  flight
-
-  sight
-
-  velvet
-
-  rent
-
-  nuclear
-
-  afford
-
-  mouse'
-bip_39_word_no_space_1: insane
-bip_39_word_no_space_10: insanebriskflightsightvelvetrentnuclearaffordmouselater
-bip_39_word_no_space_11: insanebriskflightsightvelvetrentnuclearaffordmouselatercage
 bip_39_word_no_space_12: insanebriskflightsightvelvetrentnuclearaffordmouselatercageancient
 bip_39_word_no_space_2: insanebrisk
 bip_39_word_no_space_3: insanebriskflight
-bip_39_word_no_space_4: insanebriskflightsight
-bip_39_word_no_space_5: insanebriskflightsightvelvet
-bip_39_word_no_space_6: insanebriskflightsightvelvetrent
-bip_39_word_no_space_7: insanebriskflightsightvelvetrentnuclear
-bip_39_word_no_space_8: insanebriskflightsightvelvetrentnuclearafford
-bip_39_word_no_space_9: insanebriskflightsightvelvetrentnuclearaffordmouse
-bip_39_word_space_0:
-- insane
-- brisk
-- flight
-- sight
-- velvet
-- rent
-- nuclear
-- afford
-- mouse
-- later
-- cage
-- ancient
-bip_39_word_space_1: insane
-bip_39_word_space_10: insane brisk flight sight velvet rent nuclear afford mouse later
-bip_39_word_space_11: insane brisk flight sight velvet rent nuclear afford mouse later
-  cage
 bip_39_word_space_12: insane brisk flight sight velvet rent nuclear afford mouse later
   cage ancient
 bip_39_word_space_2: insane brisk
 bip_39_word_space_3: insane brisk flight
-bip_39_word_space_4: insane brisk flight sight
-bip_39_word_space_5: insane brisk flight sight velvet
-bip_39_word_space_6: insane brisk flight sight velvet rent
-bip_39_word_space_7: insane brisk flight sight velvet rent nuclear
-bip_39_word_space_8: insane brisk flight sight velvet rent nuclear afford
-bip_39_word_space_9: insane brisk flight sight velvet rent nuclear afford mouse
-bip_39_word_underscore_1: insane
-bip_39_word_underscore_10: insane_brisk_flight_sight_velvet_rent_nuclear_afford_mouse_later
-bip_39_word_underscore_11: insane_brisk_flight_sight_velvet_rent_nuclear_afford_mouse_later_cage
 bip_39_word_underscore_12: insane_brisk_flight_sight_velvet_rent_nuclear_afford_mouse_later_cage_ancient
 bip_39_word_underscore_2: insane_brisk
 bip_39_word_underscore_3: insane_brisk_flight
-bip_39_word_underscore_4: insane_brisk_flight_sight
-bip_39_word_underscore_5: insane_brisk_flight_sight_velvet
-bip_39_word_underscore_6: insane_brisk_flight_sight_velvet_rent
-bip_39_word_underscore_7: insane_brisk_flight_sight_velvet_rent_nuclear
-bip_39_word_underscore_8: insane_brisk_flight_sight_velvet_rent_nuclear_afford
-bip_39_word_underscore_9: insane_brisk_flight_sight_velvet_rent_nuclear_afford_mouse
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

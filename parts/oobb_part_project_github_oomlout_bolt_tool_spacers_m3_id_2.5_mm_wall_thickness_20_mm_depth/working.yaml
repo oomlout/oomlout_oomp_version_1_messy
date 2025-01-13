@@ -1,68 +1,9 @@
-bip_39_word_dash_1: column
-bip_39_word_dash_10: column-aspect-flash-hover-young-example-canvas-elegant-bomb-feed
-bip_39_word_dash_11: column-aspect-flash-hover-young-example-canvas-elegant-bomb-feed-win
 bip_39_word_dash_12: column-aspect-flash-hover-young-example-canvas-elegant-bomb-feed-win-alarm
 bip_39_word_dash_2: column-aspect
 bip_39_word_dash_3: column-aspect-flash
-bip_39_word_dash_4: column-aspect-flash-hover
-bip_39_word_dash_5: column-aspect-flash-hover-young
-bip_39_word_dash_6: column-aspect-flash-hover-young-example
-bip_39_word_dash_7: column-aspect-flash-hover-young-example-canvas
-bip_39_word_dash_8: column-aspect-flash-hover-young-example-canvas-elegant
-bip_39_word_dash_9: column-aspect-flash-hover-young-example-canvas-elegant-bomb
-bip_39_word_new_br_1: column
-bip_39_word_new_br_10: column<br>aspect<br>flash<br>hover<br>young<br>example<br>canvas<br>elegant<br>bomb<br>feed
-bip_39_word_new_br_11: column<br>aspect<br>flash<br>hover<br>young<br>example<br>canvas<br>elegant<br>bomb<br>feed<br>win
 bip_39_word_new_br_12: column<br>aspect<br>flash<br>hover<br>young<br>example<br>canvas<br>elegant<br>bomb<br>feed<br>win<br>alarm
 bip_39_word_new_br_2: column<br>aspect
 bip_39_word_new_br_3: column<br>aspect<br>flash
-bip_39_word_new_br_4: column<br>aspect<br>flash<br>hover
-bip_39_word_new_br_5: column<br>aspect<br>flash<br>hover<br>young
-bip_39_word_new_br_6: column<br>aspect<br>flash<br>hover<br>young<br>example
-bip_39_word_new_br_7: column<br>aspect<br>flash<br>hover<br>young<br>example<br>canvas
-bip_39_word_new_br_8: column<br>aspect<br>flash<br>hover<br>young<br>example<br>canvas<br>elegant
-bip_39_word_new_br_9: column<br>aspect<br>flash<br>hover<br>young<br>example<br>canvas<br>elegant<br>bomb
-bip_39_word_new_line_1: column
-bip_39_word_new_line_10: 'column
-
-  aspect
-
-  flash
-
-  hover
-
-  young
-
-  example
-
-  canvas
-
-  elegant
-
-  bomb
-
-  feed'
-bip_39_word_new_line_11: 'column
-
-  aspect
-
-  flash
-
-  hover
-
-  young
-
-  example
-
-  canvas
-
-  elegant
-
-  bomb
-
-  feed
-
-  win'
 bip_39_word_new_line_12: 'column
 
   aspect
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'column
   aspect
 
   flash'
-bip_39_word_new_line_4: 'column
-
-  aspect
-
-  flash
-
-  hover'
-bip_39_word_new_line_5: 'column
-
-  aspect
-
-  flash
-
-  hover
-
-  young'
-bip_39_word_new_line_6: 'column
-
-  aspect
-
-  flash
-
-  hover
-
-  young
-
-  example'
-bip_39_word_new_line_7: 'column
-
-  aspect
-
-  flash
-
-  hover
-
-  young
-
-  example
-
-  canvas'
-bip_39_word_new_line_8: 'column
-
-  aspect
-
-  flash
-
-  hover
-
-  young
-
-  example
-
-  canvas
-
-  elegant'
-bip_39_word_new_line_9: 'column
-
-  aspect
-
-  flash
-
-  hover
-
-  young
-
-  example
-
-  canvas
-
-  elegant
-
-  bomb'
-bip_39_word_no_space_1: column
-bip_39_word_no_space_10: columnaspectflashhoveryoungexamplecanvaselegantbombfeed
-bip_39_word_no_space_11: columnaspectflashhoveryoungexamplecanvaselegantbombfeedwin
 bip_39_word_no_space_12: columnaspectflashhoveryoungexamplecanvaselegantbombfeedwinalarm
 bip_39_word_no_space_2: columnaspect
 bip_39_word_no_space_3: columnaspectflash
-bip_39_word_no_space_4: columnaspectflashhover
-bip_39_word_no_space_5: columnaspectflashhoveryoung
-bip_39_word_no_space_6: columnaspectflashhoveryoungexample
-bip_39_word_no_space_7: columnaspectflashhoveryoungexamplecanvas
-bip_39_word_no_space_8: columnaspectflashhoveryoungexamplecanvaselegant
-bip_39_word_no_space_9: columnaspectflashhoveryoungexamplecanvaselegantbomb
-bip_39_word_space_0:
-- column
-- aspect
-- flash
-- hover
-- young
-- example
-- canvas
-- elegant
-- bomb
-- feed
-- win
-- alarm
-bip_39_word_space_1: column
-bip_39_word_space_10: column aspect flash hover young example canvas elegant bomb
-  feed
-bip_39_word_space_11: column aspect flash hover young example canvas elegant bomb
-  feed win
 bip_39_word_space_12: column aspect flash hover young example canvas elegant bomb
   feed win alarm
 bip_39_word_space_2: column aspect
 bip_39_word_space_3: column aspect flash
-bip_39_word_space_4: column aspect flash hover
-bip_39_word_space_5: column aspect flash hover young
-bip_39_word_space_6: column aspect flash hover young example
-bip_39_word_space_7: column aspect flash hover young example canvas
-bip_39_word_space_8: column aspect flash hover young example canvas elegant
-bip_39_word_space_9: column aspect flash hover young example canvas elegant bomb
-bip_39_word_underscore_1: column
-bip_39_word_underscore_10: column_aspect_flash_hover_young_example_canvas_elegant_bomb_feed
-bip_39_word_underscore_11: column_aspect_flash_hover_young_example_canvas_elegant_bomb_feed_win
 bip_39_word_underscore_12: column_aspect_flash_hover_young_example_canvas_elegant_bomb_feed_win_alarm
 bip_39_word_underscore_2: column_aspect
 bip_39_word_underscore_3: column_aspect_flash
-bip_39_word_underscore_4: column_aspect_flash_hover
-bip_39_word_underscore_5: column_aspect_flash_hover_young
-bip_39_word_underscore_6: column_aspect_flash_hover_young_example
-bip_39_word_underscore_7: column_aspect_flash_hover_young_example_canvas
-bip_39_word_underscore_8: column_aspect_flash_hover_young_example_canvas_elegant
-bip_39_word_underscore_9: column_aspect_flash_hover_young_example_canvas_elegant_bomb
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

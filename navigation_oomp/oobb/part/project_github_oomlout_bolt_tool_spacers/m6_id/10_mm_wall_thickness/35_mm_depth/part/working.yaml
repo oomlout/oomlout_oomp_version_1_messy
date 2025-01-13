@@ -1,68 +1,9 @@
-bip_39_word_dash_1: aerobic
-bip_39_word_dash_10: aerobic-subject-embrace-claim-taxi-glove-diary-cousin-explain-hurdle
-bip_39_word_dash_11: aerobic-subject-embrace-claim-taxi-glove-diary-cousin-explain-hurdle-exile
 bip_39_word_dash_12: aerobic-subject-embrace-claim-taxi-glove-diary-cousin-explain-hurdle-exile-assist
 bip_39_word_dash_2: aerobic-subject
 bip_39_word_dash_3: aerobic-subject-embrace
-bip_39_word_dash_4: aerobic-subject-embrace-claim
-bip_39_word_dash_5: aerobic-subject-embrace-claim-taxi
-bip_39_word_dash_6: aerobic-subject-embrace-claim-taxi-glove
-bip_39_word_dash_7: aerobic-subject-embrace-claim-taxi-glove-diary
-bip_39_word_dash_8: aerobic-subject-embrace-claim-taxi-glove-diary-cousin
-bip_39_word_dash_9: aerobic-subject-embrace-claim-taxi-glove-diary-cousin-explain
-bip_39_word_new_br_1: aerobic
-bip_39_word_new_br_10: aerobic<br>subject<br>embrace<br>claim<br>taxi<br>glove<br>diary<br>cousin<br>explain<br>hurdle
-bip_39_word_new_br_11: aerobic<br>subject<br>embrace<br>claim<br>taxi<br>glove<br>diary<br>cousin<br>explain<br>hurdle<br>exile
 bip_39_word_new_br_12: aerobic<br>subject<br>embrace<br>claim<br>taxi<br>glove<br>diary<br>cousin<br>explain<br>hurdle<br>exile<br>assist
 bip_39_word_new_br_2: aerobic<br>subject
 bip_39_word_new_br_3: aerobic<br>subject<br>embrace
-bip_39_word_new_br_4: aerobic<br>subject<br>embrace<br>claim
-bip_39_word_new_br_5: aerobic<br>subject<br>embrace<br>claim<br>taxi
-bip_39_word_new_br_6: aerobic<br>subject<br>embrace<br>claim<br>taxi<br>glove
-bip_39_word_new_br_7: aerobic<br>subject<br>embrace<br>claim<br>taxi<br>glove<br>diary
-bip_39_word_new_br_8: aerobic<br>subject<br>embrace<br>claim<br>taxi<br>glove<br>diary<br>cousin
-bip_39_word_new_br_9: aerobic<br>subject<br>embrace<br>claim<br>taxi<br>glove<br>diary<br>cousin<br>explain
-bip_39_word_new_line_1: aerobic
-bip_39_word_new_line_10: 'aerobic
-
-  subject
-
-  embrace
-
-  claim
-
-  taxi
-
-  glove
-
-  diary
-
-  cousin
-
-  explain
-
-  hurdle'
-bip_39_word_new_line_11: 'aerobic
-
-  subject
-
-  embrace
-
-  claim
-
-  taxi
-
-  glove
-
-  diary
-
-  cousin
-
-  explain
-
-  hurdle
-
-  exile'
 bip_39_word_new_line_12: 'aerobic
 
   subject
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'aerobic
   subject
 
   embrace'
-bip_39_word_new_line_4: 'aerobic
-
-  subject
-
-  embrace
-
-  claim'
-bip_39_word_new_line_5: 'aerobic
-
-  subject
-
-  embrace
-
-  claim
-
-  taxi'
-bip_39_word_new_line_6: 'aerobic
-
-  subject
-
-  embrace
-
-  claim
-
-  taxi
-
-  glove'
-bip_39_word_new_line_7: 'aerobic
-
-  subject
-
-  embrace
-
-  claim
-
-  taxi
-
-  glove
-
-  diary'
-bip_39_word_new_line_8: 'aerobic
-
-  subject
-
-  embrace
-
-  claim
-
-  taxi
-
-  glove
-
-  diary
-
-  cousin'
-bip_39_word_new_line_9: 'aerobic
-
-  subject
-
-  embrace
-
-  claim
-
-  taxi
-
-  glove
-
-  diary
-
-  cousin
-
-  explain'
-bip_39_word_no_space_1: aerobic
-bip_39_word_no_space_10: aerobicsubjectembraceclaimtaxiglovediarycousinexplainhurdle
-bip_39_word_no_space_11: aerobicsubjectembraceclaimtaxiglovediarycousinexplainhurdleexile
 bip_39_word_no_space_12: aerobicsubjectembraceclaimtaxiglovediarycousinexplainhurdleexileassist
 bip_39_word_no_space_2: aerobicsubject
 bip_39_word_no_space_3: aerobicsubjectembrace
-bip_39_word_no_space_4: aerobicsubjectembraceclaim
-bip_39_word_no_space_5: aerobicsubjectembraceclaimtaxi
-bip_39_word_no_space_6: aerobicsubjectembraceclaimtaxiglove
-bip_39_word_no_space_7: aerobicsubjectembraceclaimtaxiglovediary
-bip_39_word_no_space_8: aerobicsubjectembraceclaimtaxiglovediarycousin
-bip_39_word_no_space_9: aerobicsubjectembraceclaimtaxiglovediarycousinexplain
-bip_39_word_space_0:
-- aerobic
-- subject
-- embrace
-- claim
-- taxi
-- glove
-- diary
-- cousin
-- explain
-- hurdle
-- exile
-- assist
-bip_39_word_space_1: aerobic
-bip_39_word_space_10: aerobic subject embrace claim taxi glove diary cousin explain
-  hurdle
-bip_39_word_space_11: aerobic subject embrace claim taxi glove diary cousin explain
-  hurdle exile
 bip_39_word_space_12: aerobic subject embrace claim taxi glove diary cousin explain
   hurdle exile assist
 bip_39_word_space_2: aerobic subject
 bip_39_word_space_3: aerobic subject embrace
-bip_39_word_space_4: aerobic subject embrace claim
-bip_39_word_space_5: aerobic subject embrace claim taxi
-bip_39_word_space_6: aerobic subject embrace claim taxi glove
-bip_39_word_space_7: aerobic subject embrace claim taxi glove diary
-bip_39_word_space_8: aerobic subject embrace claim taxi glove diary cousin
-bip_39_word_space_9: aerobic subject embrace claim taxi glove diary cousin explain
-bip_39_word_underscore_1: aerobic
-bip_39_word_underscore_10: aerobic_subject_embrace_claim_taxi_glove_diary_cousin_explain_hurdle
-bip_39_word_underscore_11: aerobic_subject_embrace_claim_taxi_glove_diary_cousin_explain_hurdle_exile
 bip_39_word_underscore_12: aerobic_subject_embrace_claim_taxi_glove_diary_cousin_explain_hurdle_exile_assist
 bip_39_word_underscore_2: aerobic_subject
 bip_39_word_underscore_3: aerobic_subject_embrace
-bip_39_word_underscore_4: aerobic_subject_embrace_claim
-bip_39_word_underscore_5: aerobic_subject_embrace_claim_taxi
-bip_39_word_underscore_6: aerobic_subject_embrace_claim_taxi_glove
-bip_39_word_underscore_7: aerobic_subject_embrace_claim_taxi_glove_diary
-bip_39_word_underscore_8: aerobic_subject_embrace_claim_taxi_glove_diary_cousin
-bip_39_word_underscore_9: aerobic_subject_embrace_claim_taxi_glove_diary_cousin_explain
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

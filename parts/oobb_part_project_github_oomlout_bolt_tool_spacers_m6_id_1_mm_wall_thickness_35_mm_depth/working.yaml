@@ -1,68 +1,9 @@
-bip_39_word_dash_1: box
-bip_39_word_dash_10: box-cost-write-cricket-disagree-effort-sunset-minimum-reform-jealous
-bip_39_word_dash_11: box-cost-write-cricket-disagree-effort-sunset-minimum-reform-jealous-rack
 bip_39_word_dash_12: box-cost-write-cricket-disagree-effort-sunset-minimum-reform-jealous-rack-attract
 bip_39_word_dash_2: box-cost
 bip_39_word_dash_3: box-cost-write
-bip_39_word_dash_4: box-cost-write-cricket
-bip_39_word_dash_5: box-cost-write-cricket-disagree
-bip_39_word_dash_6: box-cost-write-cricket-disagree-effort
-bip_39_word_dash_7: box-cost-write-cricket-disagree-effort-sunset
-bip_39_word_dash_8: box-cost-write-cricket-disagree-effort-sunset-minimum
-bip_39_word_dash_9: box-cost-write-cricket-disagree-effort-sunset-minimum-reform
-bip_39_word_new_br_1: box
-bip_39_word_new_br_10: box<br>cost<br>write<br>cricket<br>disagree<br>effort<br>sunset<br>minimum<br>reform<br>jealous
-bip_39_word_new_br_11: box<br>cost<br>write<br>cricket<br>disagree<br>effort<br>sunset<br>minimum<br>reform<br>jealous<br>rack
 bip_39_word_new_br_12: box<br>cost<br>write<br>cricket<br>disagree<br>effort<br>sunset<br>minimum<br>reform<br>jealous<br>rack<br>attract
 bip_39_word_new_br_2: box<br>cost
 bip_39_word_new_br_3: box<br>cost<br>write
-bip_39_word_new_br_4: box<br>cost<br>write<br>cricket
-bip_39_word_new_br_5: box<br>cost<br>write<br>cricket<br>disagree
-bip_39_word_new_br_6: box<br>cost<br>write<br>cricket<br>disagree<br>effort
-bip_39_word_new_br_7: box<br>cost<br>write<br>cricket<br>disagree<br>effort<br>sunset
-bip_39_word_new_br_8: box<br>cost<br>write<br>cricket<br>disagree<br>effort<br>sunset<br>minimum
-bip_39_word_new_br_9: box<br>cost<br>write<br>cricket<br>disagree<br>effort<br>sunset<br>minimum<br>reform
-bip_39_word_new_line_1: box
-bip_39_word_new_line_10: 'box
-
-  cost
-
-  write
-
-  cricket
-
-  disagree
-
-  effort
-
-  sunset
-
-  minimum
-
-  reform
-
-  jealous'
-bip_39_word_new_line_11: 'box
-
-  cost
-
-  write
-
-  cricket
-
-  disagree
-
-  effort
-
-  sunset
-
-  minimum
-
-  reform
-
-  jealous
-
-  rack'
 bip_39_word_new_line_12: 'box
 
   cost
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'box
   cost
 
   write'
-bip_39_word_new_line_4: 'box
-
-  cost
-
-  write
-
-  cricket'
-bip_39_word_new_line_5: 'box
-
-  cost
-
-  write
-
-  cricket
-
-  disagree'
-bip_39_word_new_line_6: 'box
-
-  cost
-
-  write
-
-  cricket
-
-  disagree
-
-  effort'
-bip_39_word_new_line_7: 'box
-
-  cost
-
-  write
-
-  cricket
-
-  disagree
-
-  effort
-
-  sunset'
-bip_39_word_new_line_8: 'box
-
-  cost
-
-  write
-
-  cricket
-
-  disagree
-
-  effort
-
-  sunset
-
-  minimum'
-bip_39_word_new_line_9: 'box
-
-  cost
-
-  write
-
-  cricket
-
-  disagree
-
-  effort
-
-  sunset
-
-  minimum
-
-  reform'
-bip_39_word_no_space_1: box
-bip_39_word_no_space_10: boxcostwritecricketdisagreeeffortsunsetminimumreformjealous
-bip_39_word_no_space_11: boxcostwritecricketdisagreeeffortsunsetminimumreformjealousrack
 bip_39_word_no_space_12: boxcostwritecricketdisagreeeffortsunsetminimumreformjealousrackattract
 bip_39_word_no_space_2: boxcost
 bip_39_word_no_space_3: boxcostwrite
-bip_39_word_no_space_4: boxcostwritecricket
-bip_39_word_no_space_5: boxcostwritecricketdisagree
-bip_39_word_no_space_6: boxcostwritecricketdisagreeeffort
-bip_39_word_no_space_7: boxcostwritecricketdisagreeeffortsunset
-bip_39_word_no_space_8: boxcostwritecricketdisagreeeffortsunsetminimum
-bip_39_word_no_space_9: boxcostwritecricketdisagreeeffortsunsetminimumreform
-bip_39_word_space_0:
-- box
-- cost
-- write
-- cricket
-- disagree
-- effort
-- sunset
-- minimum
-- reform
-- jealous
-- rack
-- attract
-bip_39_word_space_1: box
-bip_39_word_space_10: box cost write cricket disagree effort sunset minimum reform
-  jealous
-bip_39_word_space_11: box cost write cricket disagree effort sunset minimum reform
-  jealous rack
 bip_39_word_space_12: box cost write cricket disagree effort sunset minimum reform
   jealous rack attract
 bip_39_word_space_2: box cost
 bip_39_word_space_3: box cost write
-bip_39_word_space_4: box cost write cricket
-bip_39_word_space_5: box cost write cricket disagree
-bip_39_word_space_6: box cost write cricket disagree effort
-bip_39_word_space_7: box cost write cricket disagree effort sunset
-bip_39_word_space_8: box cost write cricket disagree effort sunset minimum
-bip_39_word_space_9: box cost write cricket disagree effort sunset minimum reform
-bip_39_word_underscore_1: box
-bip_39_word_underscore_10: box_cost_write_cricket_disagree_effort_sunset_minimum_reform_jealous
-bip_39_word_underscore_11: box_cost_write_cricket_disagree_effort_sunset_minimum_reform_jealous_rack
 bip_39_word_underscore_12: box_cost_write_cricket_disagree_effort_sunset_minimum_reform_jealous_rack_attract
 bip_39_word_underscore_2: box_cost
 bip_39_word_underscore_3: box_cost_write
-bip_39_word_underscore_4: box_cost_write_cricket
-bip_39_word_underscore_5: box_cost_write_cricket_disagree
-bip_39_word_underscore_6: box_cost_write_cricket_disagree_effort
-bip_39_word_underscore_7: box_cost_write_cricket_disagree_effort_sunset
-bip_39_word_underscore_8: box_cost_write_cricket_disagree_effort_sunset_minimum
-bip_39_word_underscore_9: box_cost_write_cricket_disagree_effort_sunset_minimum_reform
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

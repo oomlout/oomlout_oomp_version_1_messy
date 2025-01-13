@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sample
-bip_39_word_dash_10: sample-vicious-marine-caught-lucky-notable-rose-globe-wisdom-black
-bip_39_word_dash_11: sample-vicious-marine-caught-lucky-notable-rose-globe-wisdom-black-cluster
 bip_39_word_dash_12: sample-vicious-marine-caught-lucky-notable-rose-globe-wisdom-black-cluster-alpha
 bip_39_word_dash_2: sample-vicious
 bip_39_word_dash_3: sample-vicious-marine
-bip_39_word_dash_4: sample-vicious-marine-caught
-bip_39_word_dash_5: sample-vicious-marine-caught-lucky
-bip_39_word_dash_6: sample-vicious-marine-caught-lucky-notable
-bip_39_word_dash_7: sample-vicious-marine-caught-lucky-notable-rose
-bip_39_word_dash_8: sample-vicious-marine-caught-lucky-notable-rose-globe
-bip_39_word_dash_9: sample-vicious-marine-caught-lucky-notable-rose-globe-wisdom
-bip_39_word_new_br_1: sample
-bip_39_word_new_br_10: sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom<br>black
-bip_39_word_new_br_11: sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom<br>black<br>cluster
 bip_39_word_new_br_12: sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom<br>black<br>cluster<br>alpha
 bip_39_word_new_br_2: sample<br>vicious
 bip_39_word_new_br_3: sample<br>vicious<br>marine
-bip_39_word_new_br_4: sample<br>vicious<br>marine<br>caught
-bip_39_word_new_br_5: sample<br>vicious<br>marine<br>caught<br>lucky
-bip_39_word_new_br_6: sample<br>vicious<br>marine<br>caught<br>lucky<br>notable
-bip_39_word_new_br_7: sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose
-bip_39_word_new_br_8: sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe
-bip_39_word_new_br_9: sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom
-bip_39_word_new_line_1: sample
-bip_39_word_new_line_10: 'sample
-
-  vicious
-
-  marine
-
-  caught
-
-  lucky
-
-  notable
-
-  rose
-
-  globe
-
-  wisdom
-
-  black'
-bip_39_word_new_line_11: 'sample
-
-  vicious
-
-  marine
-
-  caught
-
-  lucky
-
-  notable
-
-  rose
-
-  globe
-
-  wisdom
-
-  black
-
-  cluster'
 bip_39_word_new_line_12: 'sample
 
   vicious
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sample
   vicious
 
   marine'
-bip_39_word_new_line_4: 'sample
-
-  vicious
-
-  marine
-
-  caught'
-bip_39_word_new_line_5: 'sample
-
-  vicious
-
-  marine
-
-  caught
-
-  lucky'
-bip_39_word_new_line_6: 'sample
-
-  vicious
-
-  marine
-
-  caught
-
-  lucky
-
-  notable'
-bip_39_word_new_line_7: 'sample
-
-  vicious
-
-  marine
-
-  caught
-
-  lucky
-
-  notable
-
-  rose'
-bip_39_word_new_line_8: 'sample
-
-  vicious
-
-  marine
-
-  caught
-
-  lucky
-
-  notable
-
-  rose
-
-  globe'
-bip_39_word_new_line_9: 'sample
-
-  vicious
-
-  marine
-
-  caught
-
-  lucky
-
-  notable
-
-  rose
-
-  globe
-
-  wisdom'
-bip_39_word_no_space_1: sample
-bip_39_word_no_space_10: sampleviciousmarinecaughtluckynotableroseglobewisdomblack
-bip_39_word_no_space_11: sampleviciousmarinecaughtluckynotableroseglobewisdomblackcluster
 bip_39_word_no_space_12: sampleviciousmarinecaughtluckynotableroseglobewisdomblackclusteralpha
 bip_39_word_no_space_2: samplevicious
 bip_39_word_no_space_3: sampleviciousmarine
-bip_39_word_no_space_4: sampleviciousmarinecaught
-bip_39_word_no_space_5: sampleviciousmarinecaughtlucky
-bip_39_word_no_space_6: sampleviciousmarinecaughtluckynotable
-bip_39_word_no_space_7: sampleviciousmarinecaughtluckynotablerose
-bip_39_word_no_space_8: sampleviciousmarinecaughtluckynotableroseglobe
-bip_39_word_no_space_9: sampleviciousmarinecaughtluckynotableroseglobewisdom
-bip_39_word_space_0:
-- sample
-- vicious
-- marine
-- caught
-- lucky
-- notable
-- rose
-- globe
-- wisdom
-- black
-- cluster
-- alpha
-bip_39_word_space_1: sample
-bip_39_word_space_10: sample vicious marine caught lucky notable rose globe wisdom
-  black
-bip_39_word_space_11: sample vicious marine caught lucky notable rose globe wisdom
-  black cluster
 bip_39_word_space_12: sample vicious marine caught lucky notable rose globe wisdom
   black cluster alpha
 bip_39_word_space_2: sample vicious
 bip_39_word_space_3: sample vicious marine
-bip_39_word_space_4: sample vicious marine caught
-bip_39_word_space_5: sample vicious marine caught lucky
-bip_39_word_space_6: sample vicious marine caught lucky notable
-bip_39_word_space_7: sample vicious marine caught lucky notable rose
-bip_39_word_space_8: sample vicious marine caught lucky notable rose globe
-bip_39_word_space_9: sample vicious marine caught lucky notable rose globe wisdom
-bip_39_word_underscore_1: sample
-bip_39_word_underscore_10: sample_vicious_marine_caught_lucky_notable_rose_globe_wisdom_black
-bip_39_word_underscore_11: sample_vicious_marine_caught_lucky_notable_rose_globe_wisdom_black_cluster
 bip_39_word_underscore_12: sample_vicious_marine_caught_lucky_notable_rose_globe_wisdom_black_cluster_alpha
 bip_39_word_underscore_2: sample_vicious
 bip_39_word_underscore_3: sample_vicious_marine
-bip_39_word_underscore_4: sample_vicious_marine_caught
-bip_39_word_underscore_5: sample_vicious_marine_caught_lucky
-bip_39_word_underscore_6: sample_vicious_marine_caught_lucky_notable
-bip_39_word_underscore_7: sample_vicious_marine_caught_lucky_notable_rose
-bip_39_word_underscore_8: sample_vicious_marine_caught_lucky_notable_rose_globe
-bip_39_word_underscore_9: sample_vicious_marine_caught_lucky_notable_rose_globe_wisdom
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

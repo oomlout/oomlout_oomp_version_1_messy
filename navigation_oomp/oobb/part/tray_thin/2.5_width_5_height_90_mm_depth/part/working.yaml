@@ -1,68 +1,9 @@
-bip_39_word_dash_1: visa
-bip_39_word_dash_10: visa-meadow-six-cancel-bread-mother-clap-phone-pitch-reward
-bip_39_word_dash_11: visa-meadow-six-cancel-bread-mother-clap-phone-pitch-reward-bike
 bip_39_word_dash_12: visa-meadow-six-cancel-bread-mother-clap-phone-pitch-reward-bike-appear
 bip_39_word_dash_2: visa-meadow
 bip_39_word_dash_3: visa-meadow-six
-bip_39_word_dash_4: visa-meadow-six-cancel
-bip_39_word_dash_5: visa-meadow-six-cancel-bread
-bip_39_word_dash_6: visa-meadow-six-cancel-bread-mother
-bip_39_word_dash_7: visa-meadow-six-cancel-bread-mother-clap
-bip_39_word_dash_8: visa-meadow-six-cancel-bread-mother-clap-phone
-bip_39_word_dash_9: visa-meadow-six-cancel-bread-mother-clap-phone-pitch
-bip_39_word_new_br_1: visa
-bip_39_word_new_br_10: visa<br>meadow<br>six<br>cancel<br>bread<br>mother<br>clap<br>phone<br>pitch<br>reward
-bip_39_word_new_br_11: visa<br>meadow<br>six<br>cancel<br>bread<br>mother<br>clap<br>phone<br>pitch<br>reward<br>bike
 bip_39_word_new_br_12: visa<br>meadow<br>six<br>cancel<br>bread<br>mother<br>clap<br>phone<br>pitch<br>reward<br>bike<br>appear
 bip_39_word_new_br_2: visa<br>meadow
 bip_39_word_new_br_3: visa<br>meadow<br>six
-bip_39_word_new_br_4: visa<br>meadow<br>six<br>cancel
-bip_39_word_new_br_5: visa<br>meadow<br>six<br>cancel<br>bread
-bip_39_word_new_br_6: visa<br>meadow<br>six<br>cancel<br>bread<br>mother
-bip_39_word_new_br_7: visa<br>meadow<br>six<br>cancel<br>bread<br>mother<br>clap
-bip_39_word_new_br_8: visa<br>meadow<br>six<br>cancel<br>bread<br>mother<br>clap<br>phone
-bip_39_word_new_br_9: visa<br>meadow<br>six<br>cancel<br>bread<br>mother<br>clap<br>phone<br>pitch
-bip_39_word_new_line_1: visa
-bip_39_word_new_line_10: 'visa
-
-  meadow
-
-  six
-
-  cancel
-
-  bread
-
-  mother
-
-  clap
-
-  phone
-
-  pitch
-
-  reward'
-bip_39_word_new_line_11: 'visa
-
-  meadow
-
-  six
-
-  cancel
-
-  bread
-
-  mother
-
-  clap
-
-  phone
-
-  pitch
-
-  reward
-
-  bike'
 bip_39_word_new_line_12: 'visa
 
   meadow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'visa
   meadow
 
   six'
-bip_39_word_new_line_4: 'visa
-
-  meadow
-
-  six
-
-  cancel'
-bip_39_word_new_line_5: 'visa
-
-  meadow
-
-  six
-
-  cancel
-
-  bread'
-bip_39_word_new_line_6: 'visa
-
-  meadow
-
-  six
-
-  cancel
-
-  bread
-
-  mother'
-bip_39_word_new_line_7: 'visa
-
-  meadow
-
-  six
-
-  cancel
-
-  bread
-
-  mother
-
-  clap'
-bip_39_word_new_line_8: 'visa
-
-  meadow
-
-  six
-
-  cancel
-
-  bread
-
-  mother
-
-  clap
-
-  phone'
-bip_39_word_new_line_9: 'visa
-
-  meadow
-
-  six
-
-  cancel
-
-  bread
-
-  mother
-
-  clap
-
-  phone
-
-  pitch'
-bip_39_word_no_space_1: visa
-bip_39_word_no_space_10: visameadowsixcancelbreadmotherclapphonepitchreward
-bip_39_word_no_space_11: visameadowsixcancelbreadmotherclapphonepitchrewardbike
 bip_39_word_no_space_12: visameadowsixcancelbreadmotherclapphonepitchrewardbikeappear
 bip_39_word_no_space_2: visameadow
 bip_39_word_no_space_3: visameadowsix
-bip_39_word_no_space_4: visameadowsixcancel
-bip_39_word_no_space_5: visameadowsixcancelbread
-bip_39_word_no_space_6: visameadowsixcancelbreadmother
-bip_39_word_no_space_7: visameadowsixcancelbreadmotherclap
-bip_39_word_no_space_8: visameadowsixcancelbreadmotherclapphone
-bip_39_word_no_space_9: visameadowsixcancelbreadmotherclapphonepitch
-bip_39_word_space_0:
-- visa
-- meadow
-- six
-- cancel
-- bread
-- mother
-- clap
-- phone
-- pitch
-- reward
-- bike
-- appear
-bip_39_word_space_1: visa
-bip_39_word_space_10: visa meadow six cancel bread mother clap phone pitch reward
-bip_39_word_space_11: visa meadow six cancel bread mother clap phone pitch reward
-  bike
 bip_39_word_space_12: visa meadow six cancel bread mother clap phone pitch reward
   bike appear
 bip_39_word_space_2: visa meadow
 bip_39_word_space_3: visa meadow six
-bip_39_word_space_4: visa meadow six cancel
-bip_39_word_space_5: visa meadow six cancel bread
-bip_39_word_space_6: visa meadow six cancel bread mother
-bip_39_word_space_7: visa meadow six cancel bread mother clap
-bip_39_word_space_8: visa meadow six cancel bread mother clap phone
-bip_39_word_space_9: visa meadow six cancel bread mother clap phone pitch
-bip_39_word_underscore_1: visa
-bip_39_word_underscore_10: visa_meadow_six_cancel_bread_mother_clap_phone_pitch_reward
-bip_39_word_underscore_11: visa_meadow_six_cancel_bread_mother_clap_phone_pitch_reward_bike
 bip_39_word_underscore_12: visa_meadow_six_cancel_bread_mother_clap_phone_pitch_reward_bike_appear
 bip_39_word_underscore_2: visa_meadow
 bip_39_word_underscore_3: visa_meadow_six
-bip_39_word_underscore_4: visa_meadow_six_cancel
-bip_39_word_underscore_5: visa_meadow_six_cancel_bread
-bip_39_word_underscore_6: visa_meadow_six_cancel_bread_mother
-bip_39_word_underscore_7: visa_meadow_six_cancel_bread_mother_clap
-bip_39_word_underscore_8: visa_meadow_six_cancel_bread_mother_clap_phone
-bip_39_word_underscore_9: visa_meadow_six_cancel_bread_mother_clap_phone_pitch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

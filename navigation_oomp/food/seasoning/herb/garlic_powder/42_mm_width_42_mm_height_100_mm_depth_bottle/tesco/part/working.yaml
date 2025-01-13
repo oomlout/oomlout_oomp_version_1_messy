@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vault
-bip_39_word_dash_10: vault-only-rain-infant-arm-volcano-high-amateur-pony-debris
-bip_39_word_dash_11: vault-only-rain-infant-arm-volcano-high-amateur-pony-debris-rescue
 bip_39_word_dash_12: vault-only-rain-infant-arm-volcano-high-amateur-pony-debris-rescue-armed
 bip_39_word_dash_2: vault-only
 bip_39_word_dash_3: vault-only-rain
-bip_39_word_dash_4: vault-only-rain-infant
-bip_39_word_dash_5: vault-only-rain-infant-arm
-bip_39_word_dash_6: vault-only-rain-infant-arm-volcano
-bip_39_word_dash_7: vault-only-rain-infant-arm-volcano-high
-bip_39_word_dash_8: vault-only-rain-infant-arm-volcano-high-amateur
-bip_39_word_dash_9: vault-only-rain-infant-arm-volcano-high-amateur-pony
-bip_39_word_new_br_1: vault
-bip_39_word_new_br_10: vault<br>only<br>rain<br>infant<br>arm<br>volcano<br>high<br>amateur<br>pony<br>debris
-bip_39_word_new_br_11: vault<br>only<br>rain<br>infant<br>arm<br>volcano<br>high<br>amateur<br>pony<br>debris<br>rescue
 bip_39_word_new_br_12: vault<br>only<br>rain<br>infant<br>arm<br>volcano<br>high<br>amateur<br>pony<br>debris<br>rescue<br>armed
 bip_39_word_new_br_2: vault<br>only
 bip_39_word_new_br_3: vault<br>only<br>rain
-bip_39_word_new_br_4: vault<br>only<br>rain<br>infant
-bip_39_word_new_br_5: vault<br>only<br>rain<br>infant<br>arm
-bip_39_word_new_br_6: vault<br>only<br>rain<br>infant<br>arm<br>volcano
-bip_39_word_new_br_7: vault<br>only<br>rain<br>infant<br>arm<br>volcano<br>high
-bip_39_word_new_br_8: vault<br>only<br>rain<br>infant<br>arm<br>volcano<br>high<br>amateur
-bip_39_word_new_br_9: vault<br>only<br>rain<br>infant<br>arm<br>volcano<br>high<br>amateur<br>pony
-bip_39_word_new_line_1: vault
-bip_39_word_new_line_10: 'vault
-
-  only
-
-  rain
-
-  infant
-
-  arm
-
-  volcano
-
-  high
-
-  amateur
-
-  pony
-
-  debris'
-bip_39_word_new_line_11: 'vault
-
-  only
-
-  rain
-
-  infant
-
-  arm
-
-  volcano
-
-  high
-
-  amateur
-
-  pony
-
-  debris
-
-  rescue'
 bip_39_word_new_line_12: 'vault
 
   only
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vault
   only
 
   rain'
-bip_39_word_new_line_4: 'vault
-
-  only
-
-  rain
-
-  infant'
-bip_39_word_new_line_5: 'vault
-
-  only
-
-  rain
-
-  infant
-
-  arm'
-bip_39_word_new_line_6: 'vault
-
-  only
-
-  rain
-
-  infant
-
-  arm
-
-  volcano'
-bip_39_word_new_line_7: 'vault
-
-  only
-
-  rain
-
-  infant
-
-  arm
-
-  volcano
-
-  high'
-bip_39_word_new_line_8: 'vault
-
-  only
-
-  rain
-
-  infant
-
-  arm
-
-  volcano
-
-  high
-
-  amateur'
-bip_39_word_new_line_9: 'vault
-
-  only
-
-  rain
-
-  infant
-
-  arm
-
-  volcano
-
-  high
-
-  amateur
-
-  pony'
-bip_39_word_no_space_1: vault
-bip_39_word_no_space_10: vaultonlyraininfantarmvolcanohighamateurponydebris
-bip_39_word_no_space_11: vaultonlyraininfantarmvolcanohighamateurponydebrisrescue
 bip_39_word_no_space_12: vaultonlyraininfantarmvolcanohighamateurponydebrisrescuearmed
 bip_39_word_no_space_2: vaultonly
 bip_39_word_no_space_3: vaultonlyrain
-bip_39_word_no_space_4: vaultonlyraininfant
-bip_39_word_no_space_5: vaultonlyraininfantarm
-bip_39_word_no_space_6: vaultonlyraininfantarmvolcano
-bip_39_word_no_space_7: vaultonlyraininfantarmvolcanohigh
-bip_39_word_no_space_8: vaultonlyraininfantarmvolcanohighamateur
-bip_39_word_no_space_9: vaultonlyraininfantarmvolcanohighamateurpony
-bip_39_word_space_0:
-- vault
-- only
-- rain
-- infant
-- arm
-- volcano
-- high
-- amateur
-- pony
-- debris
-- rescue
-- armed
-bip_39_word_space_1: vault
-bip_39_word_space_10: vault only rain infant arm volcano high amateur pony debris
-bip_39_word_space_11: vault only rain infant arm volcano high amateur pony debris
-  rescue
 bip_39_word_space_12: vault only rain infant arm volcano high amateur pony debris
   rescue armed
 bip_39_word_space_2: vault only
 bip_39_word_space_3: vault only rain
-bip_39_word_space_4: vault only rain infant
-bip_39_word_space_5: vault only rain infant arm
-bip_39_word_space_6: vault only rain infant arm volcano
-bip_39_word_space_7: vault only rain infant arm volcano high
-bip_39_word_space_8: vault only rain infant arm volcano high amateur
-bip_39_word_space_9: vault only rain infant arm volcano high amateur pony
-bip_39_word_underscore_1: vault
-bip_39_word_underscore_10: vault_only_rain_infant_arm_volcano_high_amateur_pony_debris
-bip_39_word_underscore_11: vault_only_rain_infant_arm_volcano_high_amateur_pony_debris_rescue
 bip_39_word_underscore_12: vault_only_rain_infant_arm_volcano_high_amateur_pony_debris_rescue_armed
 bip_39_word_underscore_2: vault_only
 bip_39_word_underscore_3: vault_only_rain
-bip_39_word_underscore_4: vault_only_rain_infant
-bip_39_word_underscore_5: vault_only_rain_infant_arm
-bip_39_word_underscore_6: vault_only_rain_infant_arm_volcano
-bip_39_word_underscore_7: vault_only_rain_infant_arm_volcano_high
-bip_39_word_underscore_8: vault_only_rain_infant_arm_volcano_high_amateur
-bip_39_word_underscore_9: vault_only_rain_infant_arm_volcano_high_amateur_pony
 classification: food
 classification_capital: Food
 classification_first_letter: f

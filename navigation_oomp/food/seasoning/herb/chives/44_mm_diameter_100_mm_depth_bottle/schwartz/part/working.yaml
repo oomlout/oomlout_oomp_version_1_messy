@@ -1,68 +1,9 @@
-bip_39_word_dash_1: code
-bip_39_word_dash_10: code-regular-inflict-rhythm-drift-sadness-economy-wrist-double-affair
-bip_39_word_dash_11: code-regular-inflict-rhythm-drift-sadness-economy-wrist-double-affair-device
 bip_39_word_dash_12: code-regular-inflict-rhythm-drift-sadness-economy-wrist-double-affair-device-alone
 bip_39_word_dash_2: code-regular
 bip_39_word_dash_3: code-regular-inflict
-bip_39_word_dash_4: code-regular-inflict-rhythm
-bip_39_word_dash_5: code-regular-inflict-rhythm-drift
-bip_39_word_dash_6: code-regular-inflict-rhythm-drift-sadness
-bip_39_word_dash_7: code-regular-inflict-rhythm-drift-sadness-economy
-bip_39_word_dash_8: code-regular-inflict-rhythm-drift-sadness-economy-wrist
-bip_39_word_dash_9: code-regular-inflict-rhythm-drift-sadness-economy-wrist-double
-bip_39_word_new_br_1: code
-bip_39_word_new_br_10: code<br>regular<br>inflict<br>rhythm<br>drift<br>sadness<br>economy<br>wrist<br>double<br>affair
-bip_39_word_new_br_11: code<br>regular<br>inflict<br>rhythm<br>drift<br>sadness<br>economy<br>wrist<br>double<br>affair<br>device
 bip_39_word_new_br_12: code<br>regular<br>inflict<br>rhythm<br>drift<br>sadness<br>economy<br>wrist<br>double<br>affair<br>device<br>alone
 bip_39_word_new_br_2: code<br>regular
 bip_39_word_new_br_3: code<br>regular<br>inflict
-bip_39_word_new_br_4: code<br>regular<br>inflict<br>rhythm
-bip_39_word_new_br_5: code<br>regular<br>inflict<br>rhythm<br>drift
-bip_39_word_new_br_6: code<br>regular<br>inflict<br>rhythm<br>drift<br>sadness
-bip_39_word_new_br_7: code<br>regular<br>inflict<br>rhythm<br>drift<br>sadness<br>economy
-bip_39_word_new_br_8: code<br>regular<br>inflict<br>rhythm<br>drift<br>sadness<br>economy<br>wrist
-bip_39_word_new_br_9: code<br>regular<br>inflict<br>rhythm<br>drift<br>sadness<br>economy<br>wrist<br>double
-bip_39_word_new_line_1: code
-bip_39_word_new_line_10: 'code
-
-  regular
-
-  inflict
-
-  rhythm
-
-  drift
-
-  sadness
-
-  economy
-
-  wrist
-
-  double
-
-  affair'
-bip_39_word_new_line_11: 'code
-
-  regular
-
-  inflict
-
-  rhythm
-
-  drift
-
-  sadness
-
-  economy
-
-  wrist
-
-  double
-
-  affair
-
-  device'
 bip_39_word_new_line_12: 'code
 
   regular
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'code
   regular
 
   inflict'
-bip_39_word_new_line_4: 'code
-
-  regular
-
-  inflict
-
-  rhythm'
-bip_39_word_new_line_5: 'code
-
-  regular
-
-  inflict
-
-  rhythm
-
-  drift'
-bip_39_word_new_line_6: 'code
-
-  regular
-
-  inflict
-
-  rhythm
-
-  drift
-
-  sadness'
-bip_39_word_new_line_7: 'code
-
-  regular
-
-  inflict
-
-  rhythm
-
-  drift
-
-  sadness
-
-  economy'
-bip_39_word_new_line_8: 'code
-
-  regular
-
-  inflict
-
-  rhythm
-
-  drift
-
-  sadness
-
-  economy
-
-  wrist'
-bip_39_word_new_line_9: 'code
-
-  regular
-
-  inflict
-
-  rhythm
-
-  drift
-
-  sadness
-
-  economy
-
-  wrist
-
-  double'
-bip_39_word_no_space_1: code
-bip_39_word_no_space_10: coderegularinflictrhythmdriftsadnesseconomywristdoubleaffair
-bip_39_word_no_space_11: coderegularinflictrhythmdriftsadnesseconomywristdoubleaffairdevice
 bip_39_word_no_space_12: coderegularinflictrhythmdriftsadnesseconomywristdoubleaffairdevicealone
 bip_39_word_no_space_2: coderegular
 bip_39_word_no_space_3: coderegularinflict
-bip_39_word_no_space_4: coderegularinflictrhythm
-bip_39_word_no_space_5: coderegularinflictrhythmdrift
-bip_39_word_no_space_6: coderegularinflictrhythmdriftsadness
-bip_39_word_no_space_7: coderegularinflictrhythmdriftsadnesseconomy
-bip_39_word_no_space_8: coderegularinflictrhythmdriftsadnesseconomywrist
-bip_39_word_no_space_9: coderegularinflictrhythmdriftsadnesseconomywristdouble
-bip_39_word_space_0:
-- code
-- regular
-- inflict
-- rhythm
-- drift
-- sadness
-- economy
-- wrist
-- double
-- affair
-- device
-- alone
-bip_39_word_space_1: code
-bip_39_word_space_10: code regular inflict rhythm drift sadness economy wrist double
-  affair
-bip_39_word_space_11: code regular inflict rhythm drift sadness economy wrist double
-  affair device
 bip_39_word_space_12: code regular inflict rhythm drift sadness economy wrist double
   affair device alone
 bip_39_word_space_2: code regular
 bip_39_word_space_3: code regular inflict
-bip_39_word_space_4: code regular inflict rhythm
-bip_39_word_space_5: code regular inflict rhythm drift
-bip_39_word_space_6: code regular inflict rhythm drift sadness
-bip_39_word_space_7: code regular inflict rhythm drift sadness economy
-bip_39_word_space_8: code regular inflict rhythm drift sadness economy wrist
-bip_39_word_space_9: code regular inflict rhythm drift sadness economy wrist double
-bip_39_word_underscore_1: code
-bip_39_word_underscore_10: code_regular_inflict_rhythm_drift_sadness_economy_wrist_double_affair
-bip_39_word_underscore_11: code_regular_inflict_rhythm_drift_sadness_economy_wrist_double_affair_device
 bip_39_word_underscore_12: code_regular_inflict_rhythm_drift_sadness_economy_wrist_double_affair_device_alone
 bip_39_word_underscore_2: code_regular
 bip_39_word_underscore_3: code_regular_inflict
-bip_39_word_underscore_4: code_regular_inflict_rhythm
-bip_39_word_underscore_5: code_regular_inflict_rhythm_drift
-bip_39_word_underscore_6: code_regular_inflict_rhythm_drift_sadness
-bip_39_word_underscore_7: code_regular_inflict_rhythm_drift_sadness_economy
-bip_39_word_underscore_8: code_regular_inflict_rhythm_drift_sadness_economy_wrist
-bip_39_word_underscore_9: code_regular_inflict_rhythm_drift_sadness_economy_wrist_double
 classification: food
 classification_capital: Food
 classification_first_letter: f

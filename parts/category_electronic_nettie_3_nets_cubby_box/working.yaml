@@ -1,68 +1,9 @@
-bip_39_word_dash_1: basic
-bip_39_word_dash_10: basic-machine-lobster-usual-visual-matter-feed-baby-outer-dress
-bip_39_word_dash_11: basic-machine-lobster-usual-visual-matter-feed-baby-outer-dress-vessel
 bip_39_word_dash_12: basic-machine-lobster-usual-visual-matter-feed-baby-outer-dress-vessel-actual
 bip_39_word_dash_2: basic-machine
 bip_39_word_dash_3: basic-machine-lobster
-bip_39_word_dash_4: basic-machine-lobster-usual
-bip_39_word_dash_5: basic-machine-lobster-usual-visual
-bip_39_word_dash_6: basic-machine-lobster-usual-visual-matter
-bip_39_word_dash_7: basic-machine-lobster-usual-visual-matter-feed
-bip_39_word_dash_8: basic-machine-lobster-usual-visual-matter-feed-baby
-bip_39_word_dash_9: basic-machine-lobster-usual-visual-matter-feed-baby-outer
-bip_39_word_new_br_1: basic
-bip_39_word_new_br_10: basic<br>machine<br>lobster<br>usual<br>visual<br>matter<br>feed<br>baby<br>outer<br>dress
-bip_39_word_new_br_11: basic<br>machine<br>lobster<br>usual<br>visual<br>matter<br>feed<br>baby<br>outer<br>dress<br>vessel
 bip_39_word_new_br_12: basic<br>machine<br>lobster<br>usual<br>visual<br>matter<br>feed<br>baby<br>outer<br>dress<br>vessel<br>actual
 bip_39_word_new_br_2: basic<br>machine
 bip_39_word_new_br_3: basic<br>machine<br>lobster
-bip_39_word_new_br_4: basic<br>machine<br>lobster<br>usual
-bip_39_word_new_br_5: basic<br>machine<br>lobster<br>usual<br>visual
-bip_39_word_new_br_6: basic<br>machine<br>lobster<br>usual<br>visual<br>matter
-bip_39_word_new_br_7: basic<br>machine<br>lobster<br>usual<br>visual<br>matter<br>feed
-bip_39_word_new_br_8: basic<br>machine<br>lobster<br>usual<br>visual<br>matter<br>feed<br>baby
-bip_39_word_new_br_9: basic<br>machine<br>lobster<br>usual<br>visual<br>matter<br>feed<br>baby<br>outer
-bip_39_word_new_line_1: basic
-bip_39_word_new_line_10: 'basic
-
-  machine
-
-  lobster
-
-  usual
-
-  visual
-
-  matter
-
-  feed
-
-  baby
-
-  outer
-
-  dress'
-bip_39_word_new_line_11: 'basic
-
-  machine
-
-  lobster
-
-  usual
-
-  visual
-
-  matter
-
-  feed
-
-  baby
-
-  outer
-
-  dress
-
-  vessel'
 bip_39_word_new_line_12: 'basic
 
   machine
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'basic
   machine
 
   lobster'
-bip_39_word_new_line_4: 'basic
-
-  machine
-
-  lobster
-
-  usual'
-bip_39_word_new_line_5: 'basic
-
-  machine
-
-  lobster
-
-  usual
-
-  visual'
-bip_39_word_new_line_6: 'basic
-
-  machine
-
-  lobster
-
-  usual
-
-  visual
-
-  matter'
-bip_39_word_new_line_7: 'basic
-
-  machine
-
-  lobster
-
-  usual
-
-  visual
-
-  matter
-
-  feed'
-bip_39_word_new_line_8: 'basic
-
-  machine
-
-  lobster
-
-  usual
-
-  visual
-
-  matter
-
-  feed
-
-  baby'
-bip_39_word_new_line_9: 'basic
-
-  machine
-
-  lobster
-
-  usual
-
-  visual
-
-  matter
-
-  feed
-
-  baby
-
-  outer'
-bip_39_word_no_space_1: basic
-bip_39_word_no_space_10: basicmachinelobsterusualvisualmatterfeedbabyouterdress
-bip_39_word_no_space_11: basicmachinelobsterusualvisualmatterfeedbabyouterdressvessel
 bip_39_word_no_space_12: basicmachinelobsterusualvisualmatterfeedbabyouterdressvesselactual
 bip_39_word_no_space_2: basicmachine
 bip_39_word_no_space_3: basicmachinelobster
-bip_39_word_no_space_4: basicmachinelobsterusual
-bip_39_word_no_space_5: basicmachinelobsterusualvisual
-bip_39_word_no_space_6: basicmachinelobsterusualvisualmatter
-bip_39_word_no_space_7: basicmachinelobsterusualvisualmatterfeed
-bip_39_word_no_space_8: basicmachinelobsterusualvisualmatterfeedbaby
-bip_39_word_no_space_9: basicmachinelobsterusualvisualmatterfeedbabyouter
-bip_39_word_space_0:
-- basic
-- machine
-- lobster
-- usual
-- visual
-- matter
-- feed
-- baby
-- outer
-- dress
-- vessel
-- actual
-bip_39_word_space_1: basic
-bip_39_word_space_10: basic machine lobster usual visual matter feed baby outer dress
-bip_39_word_space_11: basic machine lobster usual visual matter feed baby outer dress
-  vessel
 bip_39_word_space_12: basic machine lobster usual visual matter feed baby outer dress
   vessel actual
 bip_39_word_space_2: basic machine
 bip_39_word_space_3: basic machine lobster
-bip_39_word_space_4: basic machine lobster usual
-bip_39_word_space_5: basic machine lobster usual visual
-bip_39_word_space_6: basic machine lobster usual visual matter
-bip_39_word_space_7: basic machine lobster usual visual matter feed
-bip_39_word_space_8: basic machine lobster usual visual matter feed baby
-bip_39_word_space_9: basic machine lobster usual visual matter feed baby outer
-bip_39_word_underscore_1: basic
-bip_39_word_underscore_10: basic_machine_lobster_usual_visual_matter_feed_baby_outer_dress
-bip_39_word_underscore_11: basic_machine_lobster_usual_visual_matter_feed_baby_outer_dress_vessel
 bip_39_word_underscore_12: basic_machine_lobster_usual_visual_matter_feed_baby_outer_dress_vessel_actual
 bip_39_word_underscore_2: basic_machine
 bip_39_word_underscore_3: basic_machine_lobster
-bip_39_word_underscore_4: basic_machine_lobster_usual
-bip_39_word_underscore_5: basic_machine_lobster_usual_visual
-bip_39_word_underscore_6: basic_machine_lobster_usual_visual_matter
-bip_39_word_underscore_7: basic_machine_lobster_usual_visual_matter_feed
-bip_39_word_underscore_8: basic_machine_lobster_usual_visual_matter_feed_baby
-bip_39_word_underscore_9: basic_machine_lobster_usual_visual_matter_feed_baby_outer
 classification: category
 classification_capital: Category
 classification_first_letter: c

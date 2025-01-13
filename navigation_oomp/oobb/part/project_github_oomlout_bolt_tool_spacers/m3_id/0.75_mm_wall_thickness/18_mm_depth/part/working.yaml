@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fortune
-bip_39_word_dash_10: fortune-analyst-stock-kind-act-chicken-slot-hero-kitten-summer
-bip_39_word_dash_11: fortune-analyst-stock-kind-act-chicken-slot-hero-kitten-summer-wool
 bip_39_word_dash_12: fortune-analyst-stock-kind-act-chicken-slot-hero-kitten-summer-wool-alert
 bip_39_word_dash_2: fortune-analyst
 bip_39_word_dash_3: fortune-analyst-stock
-bip_39_word_dash_4: fortune-analyst-stock-kind
-bip_39_word_dash_5: fortune-analyst-stock-kind-act
-bip_39_word_dash_6: fortune-analyst-stock-kind-act-chicken
-bip_39_word_dash_7: fortune-analyst-stock-kind-act-chicken-slot
-bip_39_word_dash_8: fortune-analyst-stock-kind-act-chicken-slot-hero
-bip_39_word_dash_9: fortune-analyst-stock-kind-act-chicken-slot-hero-kitten
-bip_39_word_new_br_1: fortune
-bip_39_word_new_br_10: fortune<br>analyst<br>stock<br>kind<br>act<br>chicken<br>slot<br>hero<br>kitten<br>summer
-bip_39_word_new_br_11: fortune<br>analyst<br>stock<br>kind<br>act<br>chicken<br>slot<br>hero<br>kitten<br>summer<br>wool
 bip_39_word_new_br_12: fortune<br>analyst<br>stock<br>kind<br>act<br>chicken<br>slot<br>hero<br>kitten<br>summer<br>wool<br>alert
 bip_39_word_new_br_2: fortune<br>analyst
 bip_39_word_new_br_3: fortune<br>analyst<br>stock
-bip_39_word_new_br_4: fortune<br>analyst<br>stock<br>kind
-bip_39_word_new_br_5: fortune<br>analyst<br>stock<br>kind<br>act
-bip_39_word_new_br_6: fortune<br>analyst<br>stock<br>kind<br>act<br>chicken
-bip_39_word_new_br_7: fortune<br>analyst<br>stock<br>kind<br>act<br>chicken<br>slot
-bip_39_word_new_br_8: fortune<br>analyst<br>stock<br>kind<br>act<br>chicken<br>slot<br>hero
-bip_39_word_new_br_9: fortune<br>analyst<br>stock<br>kind<br>act<br>chicken<br>slot<br>hero<br>kitten
-bip_39_word_new_line_1: fortune
-bip_39_word_new_line_10: 'fortune
-
-  analyst
-
-  stock
-
-  kind
-
-  act
-
-  chicken
-
-  slot
-
-  hero
-
-  kitten
-
-  summer'
-bip_39_word_new_line_11: 'fortune
-
-  analyst
-
-  stock
-
-  kind
-
-  act
-
-  chicken
-
-  slot
-
-  hero
-
-  kitten
-
-  summer
-
-  wool'
 bip_39_word_new_line_12: 'fortune
 
   analyst
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fortune
   analyst
 
   stock'
-bip_39_word_new_line_4: 'fortune
-
-  analyst
-
-  stock
-
-  kind'
-bip_39_word_new_line_5: 'fortune
-
-  analyst
-
-  stock
-
-  kind
-
-  act'
-bip_39_word_new_line_6: 'fortune
-
-  analyst
-
-  stock
-
-  kind
-
-  act
-
-  chicken'
-bip_39_word_new_line_7: 'fortune
-
-  analyst
-
-  stock
-
-  kind
-
-  act
-
-  chicken
-
-  slot'
-bip_39_word_new_line_8: 'fortune
-
-  analyst
-
-  stock
-
-  kind
-
-  act
-
-  chicken
-
-  slot
-
-  hero'
-bip_39_word_new_line_9: 'fortune
-
-  analyst
-
-  stock
-
-  kind
-
-  act
-
-  chicken
-
-  slot
-
-  hero
-
-  kitten'
-bip_39_word_no_space_1: fortune
-bip_39_word_no_space_10: fortuneanalyststockkindactchickenslotherokittensummer
-bip_39_word_no_space_11: fortuneanalyststockkindactchickenslotherokittensummerwool
 bip_39_word_no_space_12: fortuneanalyststockkindactchickenslotherokittensummerwoolalert
 bip_39_word_no_space_2: fortuneanalyst
 bip_39_word_no_space_3: fortuneanalyststock
-bip_39_word_no_space_4: fortuneanalyststockkind
-bip_39_word_no_space_5: fortuneanalyststockkindact
-bip_39_word_no_space_6: fortuneanalyststockkindactchicken
-bip_39_word_no_space_7: fortuneanalyststockkindactchickenslot
-bip_39_word_no_space_8: fortuneanalyststockkindactchickenslothero
-bip_39_word_no_space_9: fortuneanalyststockkindactchickenslotherokitten
-bip_39_word_space_0:
-- fortune
-- analyst
-- stock
-- kind
-- act
-- chicken
-- slot
-- hero
-- kitten
-- summer
-- wool
-- alert
-bip_39_word_space_1: fortune
-bip_39_word_space_10: fortune analyst stock kind act chicken slot hero kitten summer
-bip_39_word_space_11: fortune analyst stock kind act chicken slot hero kitten summer
-  wool
 bip_39_word_space_12: fortune analyst stock kind act chicken slot hero kitten summer
   wool alert
 bip_39_word_space_2: fortune analyst
 bip_39_word_space_3: fortune analyst stock
-bip_39_word_space_4: fortune analyst stock kind
-bip_39_word_space_5: fortune analyst stock kind act
-bip_39_word_space_6: fortune analyst stock kind act chicken
-bip_39_word_space_7: fortune analyst stock kind act chicken slot
-bip_39_word_space_8: fortune analyst stock kind act chicken slot hero
-bip_39_word_space_9: fortune analyst stock kind act chicken slot hero kitten
-bip_39_word_underscore_1: fortune
-bip_39_word_underscore_10: fortune_analyst_stock_kind_act_chicken_slot_hero_kitten_summer
-bip_39_word_underscore_11: fortune_analyst_stock_kind_act_chicken_slot_hero_kitten_summer_wool
 bip_39_word_underscore_12: fortune_analyst_stock_kind_act_chicken_slot_hero_kitten_summer_wool_alert
 bip_39_word_underscore_2: fortune_analyst
 bip_39_word_underscore_3: fortune_analyst_stock
-bip_39_word_underscore_4: fortune_analyst_stock_kind
-bip_39_word_underscore_5: fortune_analyst_stock_kind_act
-bip_39_word_underscore_6: fortune_analyst_stock_kind_act_chicken
-bip_39_word_underscore_7: fortune_analyst_stock_kind_act_chicken_slot
-bip_39_word_underscore_8: fortune_analyst_stock_kind_act_chicken_slot_hero
-bip_39_word_underscore_9: fortune_analyst_stock_kind_act_chicken_slot_hero_kitten
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

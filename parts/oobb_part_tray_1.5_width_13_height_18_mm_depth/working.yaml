@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vendor
-bip_39_word_dash_10: vendor-scare-step-unknown-bind-pyramid-hazard-eager-broccoli-weather
-bip_39_word_dash_11: vendor-scare-step-unknown-bind-pyramid-hazard-eager-broccoli-weather-open
 bip_39_word_dash_12: vendor-scare-step-unknown-bind-pyramid-hazard-eager-broccoli-weather-open-add
 bip_39_word_dash_2: vendor-scare
 bip_39_word_dash_3: vendor-scare-step
-bip_39_word_dash_4: vendor-scare-step-unknown
-bip_39_word_dash_5: vendor-scare-step-unknown-bind
-bip_39_word_dash_6: vendor-scare-step-unknown-bind-pyramid
-bip_39_word_dash_7: vendor-scare-step-unknown-bind-pyramid-hazard
-bip_39_word_dash_8: vendor-scare-step-unknown-bind-pyramid-hazard-eager
-bip_39_word_dash_9: vendor-scare-step-unknown-bind-pyramid-hazard-eager-broccoli
-bip_39_word_new_br_1: vendor
-bip_39_word_new_br_10: vendor<br>scare<br>step<br>unknown<br>bind<br>pyramid<br>hazard<br>eager<br>broccoli<br>weather
-bip_39_word_new_br_11: vendor<br>scare<br>step<br>unknown<br>bind<br>pyramid<br>hazard<br>eager<br>broccoli<br>weather<br>open
 bip_39_word_new_br_12: vendor<br>scare<br>step<br>unknown<br>bind<br>pyramid<br>hazard<br>eager<br>broccoli<br>weather<br>open<br>add
 bip_39_word_new_br_2: vendor<br>scare
 bip_39_word_new_br_3: vendor<br>scare<br>step
-bip_39_word_new_br_4: vendor<br>scare<br>step<br>unknown
-bip_39_word_new_br_5: vendor<br>scare<br>step<br>unknown<br>bind
-bip_39_word_new_br_6: vendor<br>scare<br>step<br>unknown<br>bind<br>pyramid
-bip_39_word_new_br_7: vendor<br>scare<br>step<br>unknown<br>bind<br>pyramid<br>hazard
-bip_39_word_new_br_8: vendor<br>scare<br>step<br>unknown<br>bind<br>pyramid<br>hazard<br>eager
-bip_39_word_new_br_9: vendor<br>scare<br>step<br>unknown<br>bind<br>pyramid<br>hazard<br>eager<br>broccoli
-bip_39_word_new_line_1: vendor
-bip_39_word_new_line_10: 'vendor
-
-  scare
-
-  step
-
-  unknown
-
-  bind
-
-  pyramid
-
-  hazard
-
-  eager
-
-  broccoli
-
-  weather'
-bip_39_word_new_line_11: 'vendor
-
-  scare
-
-  step
-
-  unknown
-
-  bind
-
-  pyramid
-
-  hazard
-
-  eager
-
-  broccoli
-
-  weather
-
-  open'
 bip_39_word_new_line_12: 'vendor
 
   scare
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'vendor
   scare
 
   step'
-bip_39_word_new_line_4: 'vendor
-
-  scare
-
-  step
-
-  unknown'
-bip_39_word_new_line_5: 'vendor
-
-  scare
-
-  step
-
-  unknown
-
-  bind'
-bip_39_word_new_line_6: 'vendor
-
-  scare
-
-  step
-
-  unknown
-
-  bind
-
-  pyramid'
-bip_39_word_new_line_7: 'vendor
-
-  scare
-
-  step
-
-  unknown
-
-  bind
-
-  pyramid
-
-  hazard'
-bip_39_word_new_line_8: 'vendor
-
-  scare
-
-  step
-
-  unknown
-
-  bind
-
-  pyramid
-
-  hazard
-
-  eager'
-bip_39_word_new_line_9: 'vendor
-
-  scare
-
-  step
-
-  unknown
-
-  bind
-
-  pyramid
-
-  hazard
-
-  eager
-
-  broccoli'
-bip_39_word_no_space_1: vendor
-bip_39_word_no_space_10: vendorscarestepunknownbindpyramidhazardeagerbroccoliweather
-bip_39_word_no_space_11: vendorscarestepunknownbindpyramidhazardeagerbroccoliweatheropen
 bip_39_word_no_space_12: vendorscarestepunknownbindpyramidhazardeagerbroccoliweatheropenadd
 bip_39_word_no_space_2: vendorscare
 bip_39_word_no_space_3: vendorscarestep
-bip_39_word_no_space_4: vendorscarestepunknown
-bip_39_word_no_space_5: vendorscarestepunknownbind
-bip_39_word_no_space_6: vendorscarestepunknownbindpyramid
-bip_39_word_no_space_7: vendorscarestepunknownbindpyramidhazard
-bip_39_word_no_space_8: vendorscarestepunknownbindpyramidhazardeager
-bip_39_word_no_space_9: vendorscarestepunknownbindpyramidhazardeagerbroccoli
-bip_39_word_space_0:
-- vendor
-- scare
-- step
-- unknown
-- bind
-- pyramid
-- hazard
-- eager
-- broccoli
-- weather
-- open
-- add
-bip_39_word_space_1: vendor
-bip_39_word_space_10: vendor scare step unknown bind pyramid hazard eager broccoli
-  weather
-bip_39_word_space_11: vendor scare step unknown bind pyramid hazard eager broccoli
-  weather open
 bip_39_word_space_12: vendor scare step unknown bind pyramid hazard eager broccoli
   weather open add
 bip_39_word_space_2: vendor scare
 bip_39_word_space_3: vendor scare step
-bip_39_word_space_4: vendor scare step unknown
-bip_39_word_space_5: vendor scare step unknown bind
-bip_39_word_space_6: vendor scare step unknown bind pyramid
-bip_39_word_space_7: vendor scare step unknown bind pyramid hazard
-bip_39_word_space_8: vendor scare step unknown bind pyramid hazard eager
-bip_39_word_space_9: vendor scare step unknown bind pyramid hazard eager broccoli
-bip_39_word_underscore_1: vendor
-bip_39_word_underscore_10: vendor_scare_step_unknown_bind_pyramid_hazard_eager_broccoli_weather
-bip_39_word_underscore_11: vendor_scare_step_unknown_bind_pyramid_hazard_eager_broccoli_weather_open
 bip_39_word_underscore_12: vendor_scare_step_unknown_bind_pyramid_hazard_eager_broccoli_weather_open_add
 bip_39_word_underscore_2: vendor_scare
 bip_39_word_underscore_3: vendor_scare_step
-bip_39_word_underscore_4: vendor_scare_step_unknown
-bip_39_word_underscore_5: vendor_scare_step_unknown_bind
-bip_39_word_underscore_6: vendor_scare_step_unknown_bind_pyramid
-bip_39_word_underscore_7: vendor_scare_step_unknown_bind_pyramid_hazard
-bip_39_word_underscore_8: vendor_scare_step_unknown_bind_pyramid_hazard_eager
-bip_39_word_underscore_9: vendor_scare_step_unknown_bind_pyramid_hazard_eager_broccoli
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

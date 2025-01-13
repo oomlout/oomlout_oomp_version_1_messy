@@ -1,68 +1,9 @@
-bip_39_word_dash_1: express
-bip_39_word_dash_10: express-unlock-pear-cool-couch-knee-escape-pumpkin-prevent-estate
-bip_39_word_dash_11: express-unlock-pear-cool-couch-knee-escape-pumpkin-prevent-estate-apple
 bip_39_word_dash_12: express-unlock-pear-cool-couch-knee-escape-pumpkin-prevent-estate-apple-achieve
 bip_39_word_dash_2: express-unlock
 bip_39_word_dash_3: express-unlock-pear
-bip_39_word_dash_4: express-unlock-pear-cool
-bip_39_word_dash_5: express-unlock-pear-cool-couch
-bip_39_word_dash_6: express-unlock-pear-cool-couch-knee
-bip_39_word_dash_7: express-unlock-pear-cool-couch-knee-escape
-bip_39_word_dash_8: express-unlock-pear-cool-couch-knee-escape-pumpkin
-bip_39_word_dash_9: express-unlock-pear-cool-couch-knee-escape-pumpkin-prevent
-bip_39_word_new_br_1: express
-bip_39_word_new_br_10: express<br>unlock<br>pear<br>cool<br>couch<br>knee<br>escape<br>pumpkin<br>prevent<br>estate
-bip_39_word_new_br_11: express<br>unlock<br>pear<br>cool<br>couch<br>knee<br>escape<br>pumpkin<br>prevent<br>estate<br>apple
 bip_39_word_new_br_12: express<br>unlock<br>pear<br>cool<br>couch<br>knee<br>escape<br>pumpkin<br>prevent<br>estate<br>apple<br>achieve
 bip_39_word_new_br_2: express<br>unlock
 bip_39_word_new_br_3: express<br>unlock<br>pear
-bip_39_word_new_br_4: express<br>unlock<br>pear<br>cool
-bip_39_word_new_br_5: express<br>unlock<br>pear<br>cool<br>couch
-bip_39_word_new_br_6: express<br>unlock<br>pear<br>cool<br>couch<br>knee
-bip_39_word_new_br_7: express<br>unlock<br>pear<br>cool<br>couch<br>knee<br>escape
-bip_39_word_new_br_8: express<br>unlock<br>pear<br>cool<br>couch<br>knee<br>escape<br>pumpkin
-bip_39_word_new_br_9: express<br>unlock<br>pear<br>cool<br>couch<br>knee<br>escape<br>pumpkin<br>prevent
-bip_39_word_new_line_1: express
-bip_39_word_new_line_10: 'express
-
-  unlock
-
-  pear
-
-  cool
-
-  couch
-
-  knee
-
-  escape
-
-  pumpkin
-
-  prevent
-
-  estate'
-bip_39_word_new_line_11: 'express
-
-  unlock
-
-  pear
-
-  cool
-
-  couch
-
-  knee
-
-  escape
-
-  pumpkin
-
-  prevent
-
-  estate
-
-  apple'
 bip_39_word_new_line_12: 'express
 
   unlock
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'express
   unlock
 
   pear'
-bip_39_word_new_line_4: 'express
-
-  unlock
-
-  pear
-
-  cool'
-bip_39_word_new_line_5: 'express
-
-  unlock
-
-  pear
-
-  cool
-
-  couch'
-bip_39_word_new_line_6: 'express
-
-  unlock
-
-  pear
-
-  cool
-
-  couch
-
-  knee'
-bip_39_word_new_line_7: 'express
-
-  unlock
-
-  pear
-
-  cool
-
-  couch
-
-  knee
-
-  escape'
-bip_39_word_new_line_8: 'express
-
-  unlock
-
-  pear
-
-  cool
-
-  couch
-
-  knee
-
-  escape
-
-  pumpkin'
-bip_39_word_new_line_9: 'express
-
-  unlock
-
-  pear
-
-  cool
-
-  couch
-
-  knee
-
-  escape
-
-  pumpkin
-
-  prevent'
-bip_39_word_no_space_1: express
-bip_39_word_no_space_10: expressunlockpearcoolcouchkneeescapepumpkinpreventestate
-bip_39_word_no_space_11: expressunlockpearcoolcouchkneeescapepumpkinpreventestateapple
 bip_39_word_no_space_12: expressunlockpearcoolcouchkneeescapepumpkinpreventestateappleachieve
 bip_39_word_no_space_2: expressunlock
 bip_39_word_no_space_3: expressunlockpear
-bip_39_word_no_space_4: expressunlockpearcool
-bip_39_word_no_space_5: expressunlockpearcoolcouch
-bip_39_word_no_space_6: expressunlockpearcoolcouchknee
-bip_39_word_no_space_7: expressunlockpearcoolcouchkneeescape
-bip_39_word_no_space_8: expressunlockpearcoolcouchkneeescapepumpkin
-bip_39_word_no_space_9: expressunlockpearcoolcouchkneeescapepumpkinprevent
-bip_39_word_space_0:
-- express
-- unlock
-- pear
-- cool
-- couch
-- knee
-- escape
-- pumpkin
-- prevent
-- estate
-- apple
-- achieve
-bip_39_word_space_1: express
-bip_39_word_space_10: express unlock pear cool couch knee escape pumpkin prevent estate
-bip_39_word_space_11: express unlock pear cool couch knee escape pumpkin prevent estate
-  apple
 bip_39_word_space_12: express unlock pear cool couch knee escape pumpkin prevent estate
   apple achieve
 bip_39_word_space_2: express unlock
 bip_39_word_space_3: express unlock pear
-bip_39_word_space_4: express unlock pear cool
-bip_39_word_space_5: express unlock pear cool couch
-bip_39_word_space_6: express unlock pear cool couch knee
-bip_39_word_space_7: express unlock pear cool couch knee escape
-bip_39_word_space_8: express unlock pear cool couch knee escape pumpkin
-bip_39_word_space_9: express unlock pear cool couch knee escape pumpkin prevent
-bip_39_word_underscore_1: express
-bip_39_word_underscore_10: express_unlock_pear_cool_couch_knee_escape_pumpkin_prevent_estate
-bip_39_word_underscore_11: express_unlock_pear_cool_couch_knee_escape_pumpkin_prevent_estate_apple
 bip_39_word_underscore_12: express_unlock_pear_cool_couch_knee_escape_pumpkin_prevent_estate_apple_achieve
 bip_39_word_underscore_2: express_unlock
 bip_39_word_underscore_3: express_unlock_pear
-bip_39_word_underscore_4: express_unlock_pear_cool
-bip_39_word_underscore_5: express_unlock_pear_cool_couch
-bip_39_word_underscore_6: express_unlock_pear_cool_couch_knee
-bip_39_word_underscore_7: express_unlock_pear_cool_couch_knee_escape
-bip_39_word_underscore_8: express_unlock_pear_cool_couch_knee_escape_pumpkin
-bip_39_word_underscore_9: express_unlock_pear_cool_couch_knee_escape_pumpkin_prevent
 classification: category
 classification_capital: Category
 classification_first_letter: c

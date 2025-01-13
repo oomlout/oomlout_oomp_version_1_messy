@@ -1,68 +1,9 @@
-bip_39_word_dash_1: recall
-bip_39_word_dash_10: recall-tray-cycle-exist-scan-hub-garage-water-practice-gossip
-bip_39_word_dash_11: recall-tray-cycle-exist-scan-hub-garage-water-practice-gossip-identify
 bip_39_word_dash_12: recall-tray-cycle-exist-scan-hub-garage-water-practice-gossip-identify-advice
 bip_39_word_dash_2: recall-tray
 bip_39_word_dash_3: recall-tray-cycle
-bip_39_word_dash_4: recall-tray-cycle-exist
-bip_39_word_dash_5: recall-tray-cycle-exist-scan
-bip_39_word_dash_6: recall-tray-cycle-exist-scan-hub
-bip_39_word_dash_7: recall-tray-cycle-exist-scan-hub-garage
-bip_39_word_dash_8: recall-tray-cycle-exist-scan-hub-garage-water
-bip_39_word_dash_9: recall-tray-cycle-exist-scan-hub-garage-water-practice
-bip_39_word_new_br_1: recall
-bip_39_word_new_br_10: recall<br>tray<br>cycle<br>exist<br>scan<br>hub<br>garage<br>water<br>practice<br>gossip
-bip_39_word_new_br_11: recall<br>tray<br>cycle<br>exist<br>scan<br>hub<br>garage<br>water<br>practice<br>gossip<br>identify
 bip_39_word_new_br_12: recall<br>tray<br>cycle<br>exist<br>scan<br>hub<br>garage<br>water<br>practice<br>gossip<br>identify<br>advice
 bip_39_word_new_br_2: recall<br>tray
 bip_39_word_new_br_3: recall<br>tray<br>cycle
-bip_39_word_new_br_4: recall<br>tray<br>cycle<br>exist
-bip_39_word_new_br_5: recall<br>tray<br>cycle<br>exist<br>scan
-bip_39_word_new_br_6: recall<br>tray<br>cycle<br>exist<br>scan<br>hub
-bip_39_word_new_br_7: recall<br>tray<br>cycle<br>exist<br>scan<br>hub<br>garage
-bip_39_word_new_br_8: recall<br>tray<br>cycle<br>exist<br>scan<br>hub<br>garage<br>water
-bip_39_word_new_br_9: recall<br>tray<br>cycle<br>exist<br>scan<br>hub<br>garage<br>water<br>practice
-bip_39_word_new_line_1: recall
-bip_39_word_new_line_10: 'recall
-
-  tray
-
-  cycle
-
-  exist
-
-  scan
-
-  hub
-
-  garage
-
-  water
-
-  practice
-
-  gossip'
-bip_39_word_new_line_11: 'recall
-
-  tray
-
-  cycle
-
-  exist
-
-  scan
-
-  hub
-
-  garage
-
-  water
-
-  practice
-
-  gossip
-
-  identify'
 bip_39_word_new_line_12: 'recall
 
   tray
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'recall
   tray
 
   cycle'
-bip_39_word_new_line_4: 'recall
-
-  tray
-
-  cycle
-
-  exist'
-bip_39_word_new_line_5: 'recall
-
-  tray
-
-  cycle
-
-  exist
-
-  scan'
-bip_39_word_new_line_6: 'recall
-
-  tray
-
-  cycle
-
-  exist
-
-  scan
-
-  hub'
-bip_39_word_new_line_7: 'recall
-
-  tray
-
-  cycle
-
-  exist
-
-  scan
-
-  hub
-
-  garage'
-bip_39_word_new_line_8: 'recall
-
-  tray
-
-  cycle
-
-  exist
-
-  scan
-
-  hub
-
-  garage
-
-  water'
-bip_39_word_new_line_9: 'recall
-
-  tray
-
-  cycle
-
-  exist
-
-  scan
-
-  hub
-
-  garage
-
-  water
-
-  practice'
-bip_39_word_no_space_1: recall
-bip_39_word_no_space_10: recalltraycycleexistscanhubgaragewaterpracticegossip
-bip_39_word_no_space_11: recalltraycycleexistscanhubgaragewaterpracticegossipidentify
 bip_39_word_no_space_12: recalltraycycleexistscanhubgaragewaterpracticegossipidentifyadvice
 bip_39_word_no_space_2: recalltray
 bip_39_word_no_space_3: recalltraycycle
-bip_39_word_no_space_4: recalltraycycleexist
-bip_39_word_no_space_5: recalltraycycleexistscan
-bip_39_word_no_space_6: recalltraycycleexistscanhub
-bip_39_word_no_space_7: recalltraycycleexistscanhubgarage
-bip_39_word_no_space_8: recalltraycycleexistscanhubgaragewater
-bip_39_word_no_space_9: recalltraycycleexistscanhubgaragewaterpractice
-bip_39_word_space_0:
-- recall
-- tray
-- cycle
-- exist
-- scan
-- hub
-- garage
-- water
-- practice
-- gossip
-- identify
-- advice
-bip_39_word_space_1: recall
-bip_39_word_space_10: recall tray cycle exist scan hub garage water practice gossip
-bip_39_word_space_11: recall tray cycle exist scan hub garage water practice gossip
-  identify
 bip_39_word_space_12: recall tray cycle exist scan hub garage water practice gossip
   identify advice
 bip_39_word_space_2: recall tray
 bip_39_word_space_3: recall tray cycle
-bip_39_word_space_4: recall tray cycle exist
-bip_39_word_space_5: recall tray cycle exist scan
-bip_39_word_space_6: recall tray cycle exist scan hub
-bip_39_word_space_7: recall tray cycle exist scan hub garage
-bip_39_word_space_8: recall tray cycle exist scan hub garage water
-bip_39_word_space_9: recall tray cycle exist scan hub garage water practice
-bip_39_word_underscore_1: recall
-bip_39_word_underscore_10: recall_tray_cycle_exist_scan_hub_garage_water_practice_gossip
-bip_39_word_underscore_11: recall_tray_cycle_exist_scan_hub_garage_water_practice_gossip_identify
 bip_39_word_underscore_12: recall_tray_cycle_exist_scan_hub_garage_water_practice_gossip_identify_advice
 bip_39_word_underscore_2: recall_tray
 bip_39_word_underscore_3: recall_tray_cycle
-bip_39_word_underscore_4: recall_tray_cycle_exist
-bip_39_word_underscore_5: recall_tray_cycle_exist_scan
-bip_39_word_underscore_6: recall_tray_cycle_exist_scan_hub
-bip_39_word_underscore_7: recall_tray_cycle_exist_scan_hub_garage
-bip_39_word_underscore_8: recall_tray_cycle_exist_scan_hub_garage_water
-bip_39_word_underscore_9: recall_tray_cycle_exist_scan_hub_garage_water_practice
 classification: category
 classification_capital: Category
 classification_first_letter: c

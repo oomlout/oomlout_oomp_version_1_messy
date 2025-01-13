@@ -1,68 +1,9 @@
-bip_39_word_dash_1: reopen
-bip_39_word_dash_10: reopen-rhythm-glare-abandon-gloom-any-chest-lobster-tape-scissors
-bip_39_word_dash_11: reopen-rhythm-glare-abandon-gloom-any-chest-lobster-tape-scissors-major
 bip_39_word_dash_12: reopen-rhythm-glare-abandon-gloom-any-chest-lobster-tape-scissors-major-all
 bip_39_word_dash_2: reopen-rhythm
 bip_39_word_dash_3: reopen-rhythm-glare
-bip_39_word_dash_4: reopen-rhythm-glare-abandon
-bip_39_word_dash_5: reopen-rhythm-glare-abandon-gloom
-bip_39_word_dash_6: reopen-rhythm-glare-abandon-gloom-any
-bip_39_word_dash_7: reopen-rhythm-glare-abandon-gloom-any-chest
-bip_39_word_dash_8: reopen-rhythm-glare-abandon-gloom-any-chest-lobster
-bip_39_word_dash_9: reopen-rhythm-glare-abandon-gloom-any-chest-lobster-tape
-bip_39_word_new_br_1: reopen
-bip_39_word_new_br_10: reopen<br>rhythm<br>glare<br>abandon<br>gloom<br>any<br>chest<br>lobster<br>tape<br>scissors
-bip_39_word_new_br_11: reopen<br>rhythm<br>glare<br>abandon<br>gloom<br>any<br>chest<br>lobster<br>tape<br>scissors<br>major
 bip_39_word_new_br_12: reopen<br>rhythm<br>glare<br>abandon<br>gloom<br>any<br>chest<br>lobster<br>tape<br>scissors<br>major<br>all
 bip_39_word_new_br_2: reopen<br>rhythm
 bip_39_word_new_br_3: reopen<br>rhythm<br>glare
-bip_39_word_new_br_4: reopen<br>rhythm<br>glare<br>abandon
-bip_39_word_new_br_5: reopen<br>rhythm<br>glare<br>abandon<br>gloom
-bip_39_word_new_br_6: reopen<br>rhythm<br>glare<br>abandon<br>gloom<br>any
-bip_39_word_new_br_7: reopen<br>rhythm<br>glare<br>abandon<br>gloom<br>any<br>chest
-bip_39_word_new_br_8: reopen<br>rhythm<br>glare<br>abandon<br>gloom<br>any<br>chest<br>lobster
-bip_39_word_new_br_9: reopen<br>rhythm<br>glare<br>abandon<br>gloom<br>any<br>chest<br>lobster<br>tape
-bip_39_word_new_line_1: reopen
-bip_39_word_new_line_10: 'reopen
-
-  rhythm
-
-  glare
-
-  abandon
-
-  gloom
-
-  any
-
-  chest
-
-  lobster
-
-  tape
-
-  scissors'
-bip_39_word_new_line_11: 'reopen
-
-  rhythm
-
-  glare
-
-  abandon
-
-  gloom
-
-  any
-
-  chest
-
-  lobster
-
-  tape
-
-  scissors
-
-  major'
 bip_39_word_new_line_12: 'reopen
 
   rhythm
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'reopen
   rhythm
 
   glare'
-bip_39_word_new_line_4: 'reopen
-
-  rhythm
-
-  glare
-
-  abandon'
-bip_39_word_new_line_5: 'reopen
-
-  rhythm
-
-  glare
-
-  abandon
-
-  gloom'
-bip_39_word_new_line_6: 'reopen
-
-  rhythm
-
-  glare
-
-  abandon
-
-  gloom
-
-  any'
-bip_39_word_new_line_7: 'reopen
-
-  rhythm
-
-  glare
-
-  abandon
-
-  gloom
-
-  any
-
-  chest'
-bip_39_word_new_line_8: 'reopen
-
-  rhythm
-
-  glare
-
-  abandon
-
-  gloom
-
-  any
-
-  chest
-
-  lobster'
-bip_39_word_new_line_9: 'reopen
-
-  rhythm
-
-  glare
-
-  abandon
-
-  gloom
-
-  any
-
-  chest
-
-  lobster
-
-  tape'
-bip_39_word_no_space_1: reopen
-bip_39_word_no_space_10: reopenrhythmglareabandongloomanychestlobstertapescissors
-bip_39_word_no_space_11: reopenrhythmglareabandongloomanychestlobstertapescissorsmajor
 bip_39_word_no_space_12: reopenrhythmglareabandongloomanychestlobstertapescissorsmajorall
 bip_39_word_no_space_2: reopenrhythm
 bip_39_word_no_space_3: reopenrhythmglare
-bip_39_word_no_space_4: reopenrhythmglareabandon
-bip_39_word_no_space_5: reopenrhythmglareabandongloom
-bip_39_word_no_space_6: reopenrhythmglareabandongloomany
-bip_39_word_no_space_7: reopenrhythmglareabandongloomanychest
-bip_39_word_no_space_8: reopenrhythmglareabandongloomanychestlobster
-bip_39_word_no_space_9: reopenrhythmglareabandongloomanychestlobstertape
-bip_39_word_space_0:
-- reopen
-- rhythm
-- glare
-- abandon
-- gloom
-- any
-- chest
-- lobster
-- tape
-- scissors
-- major
-- all
-bip_39_word_space_1: reopen
-bip_39_word_space_10: reopen rhythm glare abandon gloom any chest lobster tape scissors
-bip_39_word_space_11: reopen rhythm glare abandon gloom any chest lobster tape scissors
-  major
 bip_39_word_space_12: reopen rhythm glare abandon gloom any chest lobster tape scissors
   major all
 bip_39_word_space_2: reopen rhythm
 bip_39_word_space_3: reopen rhythm glare
-bip_39_word_space_4: reopen rhythm glare abandon
-bip_39_word_space_5: reopen rhythm glare abandon gloom
-bip_39_word_space_6: reopen rhythm glare abandon gloom any
-bip_39_word_space_7: reopen rhythm glare abandon gloom any chest
-bip_39_word_space_8: reopen rhythm glare abandon gloom any chest lobster
-bip_39_word_space_9: reopen rhythm glare abandon gloom any chest lobster tape
-bip_39_word_underscore_1: reopen
-bip_39_word_underscore_10: reopen_rhythm_glare_abandon_gloom_any_chest_lobster_tape_scissors
-bip_39_word_underscore_11: reopen_rhythm_glare_abandon_gloom_any_chest_lobster_tape_scissors_major
 bip_39_word_underscore_12: reopen_rhythm_glare_abandon_gloom_any_chest_lobster_tape_scissors_major_all
 bip_39_word_underscore_2: reopen_rhythm
 bip_39_word_underscore_3: reopen_rhythm_glare
-bip_39_word_underscore_4: reopen_rhythm_glare_abandon
-bip_39_word_underscore_5: reopen_rhythm_glare_abandon_gloom
-bip_39_word_underscore_6: reopen_rhythm_glare_abandon_gloom_any
-bip_39_word_underscore_7: reopen_rhythm_glare_abandon_gloom_any_chest
-bip_39_word_underscore_8: reopen_rhythm_glare_abandon_gloom_any_chest_lobster
-bip_39_word_underscore_9: reopen_rhythm_glare_abandon_gloom_any_chest_lobster_tape
 classification: category
 classification_capital: Category
 classification_first_letter: c

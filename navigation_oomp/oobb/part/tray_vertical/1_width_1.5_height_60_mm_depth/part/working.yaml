@@ -1,68 +1,9 @@
-bip_39_word_dash_1: erosion
-bip_39_word_dash_10: erosion-vendor-era-arm-siege-regret-vague-flavor-trim-trigger
-bip_39_word_dash_11: erosion-vendor-era-arm-siege-regret-vague-flavor-trim-trigger-purity
 bip_39_word_dash_12: erosion-vendor-era-arm-siege-regret-vague-flavor-trim-trigger-purity-animal
 bip_39_word_dash_2: erosion-vendor
 bip_39_word_dash_3: erosion-vendor-era
-bip_39_word_dash_4: erosion-vendor-era-arm
-bip_39_word_dash_5: erosion-vendor-era-arm-siege
-bip_39_word_dash_6: erosion-vendor-era-arm-siege-regret
-bip_39_word_dash_7: erosion-vendor-era-arm-siege-regret-vague
-bip_39_word_dash_8: erosion-vendor-era-arm-siege-regret-vague-flavor
-bip_39_word_dash_9: erosion-vendor-era-arm-siege-regret-vague-flavor-trim
-bip_39_word_new_br_1: erosion
-bip_39_word_new_br_10: erosion<br>vendor<br>era<br>arm<br>siege<br>regret<br>vague<br>flavor<br>trim<br>trigger
-bip_39_word_new_br_11: erosion<br>vendor<br>era<br>arm<br>siege<br>regret<br>vague<br>flavor<br>trim<br>trigger<br>purity
 bip_39_word_new_br_12: erosion<br>vendor<br>era<br>arm<br>siege<br>regret<br>vague<br>flavor<br>trim<br>trigger<br>purity<br>animal
 bip_39_word_new_br_2: erosion<br>vendor
 bip_39_word_new_br_3: erosion<br>vendor<br>era
-bip_39_word_new_br_4: erosion<br>vendor<br>era<br>arm
-bip_39_word_new_br_5: erosion<br>vendor<br>era<br>arm<br>siege
-bip_39_word_new_br_6: erosion<br>vendor<br>era<br>arm<br>siege<br>regret
-bip_39_word_new_br_7: erosion<br>vendor<br>era<br>arm<br>siege<br>regret<br>vague
-bip_39_word_new_br_8: erosion<br>vendor<br>era<br>arm<br>siege<br>regret<br>vague<br>flavor
-bip_39_word_new_br_9: erosion<br>vendor<br>era<br>arm<br>siege<br>regret<br>vague<br>flavor<br>trim
-bip_39_word_new_line_1: erosion
-bip_39_word_new_line_10: 'erosion
-
-  vendor
-
-  era
-
-  arm
-
-  siege
-
-  regret
-
-  vague
-
-  flavor
-
-  trim
-
-  trigger'
-bip_39_word_new_line_11: 'erosion
-
-  vendor
-
-  era
-
-  arm
-
-  siege
-
-  regret
-
-  vague
-
-  flavor
-
-  trim
-
-  trigger
-
-  purity'
 bip_39_word_new_line_12: 'erosion
 
   vendor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'erosion
   vendor
 
   era'
-bip_39_word_new_line_4: 'erosion
-
-  vendor
-
-  era
-
-  arm'
-bip_39_word_new_line_5: 'erosion
-
-  vendor
-
-  era
-
-  arm
-
-  siege'
-bip_39_word_new_line_6: 'erosion
-
-  vendor
-
-  era
-
-  arm
-
-  siege
-
-  regret'
-bip_39_word_new_line_7: 'erosion
-
-  vendor
-
-  era
-
-  arm
-
-  siege
-
-  regret
-
-  vague'
-bip_39_word_new_line_8: 'erosion
-
-  vendor
-
-  era
-
-  arm
-
-  siege
-
-  regret
-
-  vague
-
-  flavor'
-bip_39_word_new_line_9: 'erosion
-
-  vendor
-
-  era
-
-  arm
-
-  siege
-
-  regret
-
-  vague
-
-  flavor
-
-  trim'
-bip_39_word_no_space_1: erosion
-bip_39_word_no_space_10: erosionvendoreraarmsiegeregretvagueflavortrimtrigger
-bip_39_word_no_space_11: erosionvendoreraarmsiegeregretvagueflavortrimtriggerpurity
 bip_39_word_no_space_12: erosionvendoreraarmsiegeregretvagueflavortrimtriggerpurityanimal
 bip_39_word_no_space_2: erosionvendor
 bip_39_word_no_space_3: erosionvendorera
-bip_39_word_no_space_4: erosionvendoreraarm
-bip_39_word_no_space_5: erosionvendoreraarmsiege
-bip_39_word_no_space_6: erosionvendoreraarmsiegeregret
-bip_39_word_no_space_7: erosionvendoreraarmsiegeregretvague
-bip_39_word_no_space_8: erosionvendoreraarmsiegeregretvagueflavor
-bip_39_word_no_space_9: erosionvendoreraarmsiegeregretvagueflavortrim
-bip_39_word_space_0:
-- erosion
-- vendor
-- era
-- arm
-- siege
-- regret
-- vague
-- flavor
-- trim
-- trigger
-- purity
-- animal
-bip_39_word_space_1: erosion
-bip_39_word_space_10: erosion vendor era arm siege regret vague flavor trim trigger
-bip_39_word_space_11: erosion vendor era arm siege regret vague flavor trim trigger
-  purity
 bip_39_word_space_12: erosion vendor era arm siege regret vague flavor trim trigger
   purity animal
 bip_39_word_space_2: erosion vendor
 bip_39_word_space_3: erosion vendor era
-bip_39_word_space_4: erosion vendor era arm
-bip_39_word_space_5: erosion vendor era arm siege
-bip_39_word_space_6: erosion vendor era arm siege regret
-bip_39_word_space_7: erosion vendor era arm siege regret vague
-bip_39_word_space_8: erosion vendor era arm siege regret vague flavor
-bip_39_word_space_9: erosion vendor era arm siege regret vague flavor trim
-bip_39_word_underscore_1: erosion
-bip_39_word_underscore_10: erosion_vendor_era_arm_siege_regret_vague_flavor_trim_trigger
-bip_39_word_underscore_11: erosion_vendor_era_arm_siege_regret_vague_flavor_trim_trigger_purity
 bip_39_word_underscore_12: erosion_vendor_era_arm_siege_regret_vague_flavor_trim_trigger_purity_animal
 bip_39_word_underscore_2: erosion_vendor
 bip_39_word_underscore_3: erosion_vendor_era
-bip_39_word_underscore_4: erosion_vendor_era_arm
-bip_39_word_underscore_5: erosion_vendor_era_arm_siege
-bip_39_word_underscore_6: erosion_vendor_era_arm_siege_regret
-bip_39_word_underscore_7: erosion_vendor_era_arm_siege_regret_vague
-bip_39_word_underscore_8: erosion_vendor_era_arm_siege_regret_vague_flavor
-bip_39_word_underscore_9: erosion_vendor_era_arm_siege_regret_vague_flavor_trim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

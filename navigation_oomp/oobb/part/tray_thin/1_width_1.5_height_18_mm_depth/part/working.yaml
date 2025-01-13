@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inch
-bip_39_word_dash_10: inch-twelve-picture-happy-pill-pizza-garbage-bamboo-laptop-trim
-bip_39_word_dash_11: inch-twelve-picture-happy-pill-pizza-garbage-bamboo-laptop-trim-attitude
 bip_39_word_dash_12: inch-twelve-picture-happy-pill-pizza-garbage-bamboo-laptop-trim-attitude-afford
 bip_39_word_dash_2: inch-twelve
 bip_39_word_dash_3: inch-twelve-picture
-bip_39_word_dash_4: inch-twelve-picture-happy
-bip_39_word_dash_5: inch-twelve-picture-happy-pill
-bip_39_word_dash_6: inch-twelve-picture-happy-pill-pizza
-bip_39_word_dash_7: inch-twelve-picture-happy-pill-pizza-garbage
-bip_39_word_dash_8: inch-twelve-picture-happy-pill-pizza-garbage-bamboo
-bip_39_word_dash_9: inch-twelve-picture-happy-pill-pizza-garbage-bamboo-laptop
-bip_39_word_new_br_1: inch
-bip_39_word_new_br_10: inch<br>twelve<br>picture<br>happy<br>pill<br>pizza<br>garbage<br>bamboo<br>laptop<br>trim
-bip_39_word_new_br_11: inch<br>twelve<br>picture<br>happy<br>pill<br>pizza<br>garbage<br>bamboo<br>laptop<br>trim<br>attitude
 bip_39_word_new_br_12: inch<br>twelve<br>picture<br>happy<br>pill<br>pizza<br>garbage<br>bamboo<br>laptop<br>trim<br>attitude<br>afford
 bip_39_word_new_br_2: inch<br>twelve
 bip_39_word_new_br_3: inch<br>twelve<br>picture
-bip_39_word_new_br_4: inch<br>twelve<br>picture<br>happy
-bip_39_word_new_br_5: inch<br>twelve<br>picture<br>happy<br>pill
-bip_39_word_new_br_6: inch<br>twelve<br>picture<br>happy<br>pill<br>pizza
-bip_39_word_new_br_7: inch<br>twelve<br>picture<br>happy<br>pill<br>pizza<br>garbage
-bip_39_word_new_br_8: inch<br>twelve<br>picture<br>happy<br>pill<br>pizza<br>garbage<br>bamboo
-bip_39_word_new_br_9: inch<br>twelve<br>picture<br>happy<br>pill<br>pizza<br>garbage<br>bamboo<br>laptop
-bip_39_word_new_line_1: inch
-bip_39_word_new_line_10: 'inch
-
-  twelve
-
-  picture
-
-  happy
-
-  pill
-
-  pizza
-
-  garbage
-
-  bamboo
-
-  laptop
-
-  trim'
-bip_39_word_new_line_11: 'inch
-
-  twelve
-
-  picture
-
-  happy
-
-  pill
-
-  pizza
-
-  garbage
-
-  bamboo
-
-  laptop
-
-  trim
-
-  attitude'
 bip_39_word_new_line_12: 'inch
 
   twelve
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inch
   twelve
 
   picture'
-bip_39_word_new_line_4: 'inch
-
-  twelve
-
-  picture
-
-  happy'
-bip_39_word_new_line_5: 'inch
-
-  twelve
-
-  picture
-
-  happy
-
-  pill'
-bip_39_word_new_line_6: 'inch
-
-  twelve
-
-  picture
-
-  happy
-
-  pill
-
-  pizza'
-bip_39_word_new_line_7: 'inch
-
-  twelve
-
-  picture
-
-  happy
-
-  pill
-
-  pizza
-
-  garbage'
-bip_39_word_new_line_8: 'inch
-
-  twelve
-
-  picture
-
-  happy
-
-  pill
-
-  pizza
-
-  garbage
-
-  bamboo'
-bip_39_word_new_line_9: 'inch
-
-  twelve
-
-  picture
-
-  happy
-
-  pill
-
-  pizza
-
-  garbage
-
-  bamboo
-
-  laptop'
-bip_39_word_no_space_1: inch
-bip_39_word_no_space_10: inchtwelvepicturehappypillpizzagarbagebamboolaptoptrim
-bip_39_word_no_space_11: inchtwelvepicturehappypillpizzagarbagebamboolaptoptrimattitude
 bip_39_word_no_space_12: inchtwelvepicturehappypillpizzagarbagebamboolaptoptrimattitudeafford
 bip_39_word_no_space_2: inchtwelve
 bip_39_word_no_space_3: inchtwelvepicture
-bip_39_word_no_space_4: inchtwelvepicturehappy
-bip_39_word_no_space_5: inchtwelvepicturehappypill
-bip_39_word_no_space_6: inchtwelvepicturehappypillpizza
-bip_39_word_no_space_7: inchtwelvepicturehappypillpizzagarbage
-bip_39_word_no_space_8: inchtwelvepicturehappypillpizzagarbagebamboo
-bip_39_word_no_space_9: inchtwelvepicturehappypillpizzagarbagebamboolaptop
-bip_39_word_space_0:
-- inch
-- twelve
-- picture
-- happy
-- pill
-- pizza
-- garbage
-- bamboo
-- laptop
-- trim
-- attitude
-- afford
-bip_39_word_space_1: inch
-bip_39_word_space_10: inch twelve picture happy pill pizza garbage bamboo laptop trim
-bip_39_word_space_11: inch twelve picture happy pill pizza garbage bamboo laptop trim
-  attitude
 bip_39_word_space_12: inch twelve picture happy pill pizza garbage bamboo laptop trim
   attitude afford
 bip_39_word_space_2: inch twelve
 bip_39_word_space_3: inch twelve picture
-bip_39_word_space_4: inch twelve picture happy
-bip_39_word_space_5: inch twelve picture happy pill
-bip_39_word_space_6: inch twelve picture happy pill pizza
-bip_39_word_space_7: inch twelve picture happy pill pizza garbage
-bip_39_word_space_8: inch twelve picture happy pill pizza garbage bamboo
-bip_39_word_space_9: inch twelve picture happy pill pizza garbage bamboo laptop
-bip_39_word_underscore_1: inch
-bip_39_word_underscore_10: inch_twelve_picture_happy_pill_pizza_garbage_bamboo_laptop_trim
-bip_39_word_underscore_11: inch_twelve_picture_happy_pill_pizza_garbage_bamboo_laptop_trim_attitude
 bip_39_word_underscore_12: inch_twelve_picture_happy_pill_pizza_garbage_bamboo_laptop_trim_attitude_afford
 bip_39_word_underscore_2: inch_twelve
 bip_39_word_underscore_3: inch_twelve_picture
-bip_39_word_underscore_4: inch_twelve_picture_happy
-bip_39_word_underscore_5: inch_twelve_picture_happy_pill
-bip_39_word_underscore_6: inch_twelve_picture_happy_pill_pizza
-bip_39_word_underscore_7: inch_twelve_picture_happy_pill_pizza_garbage
-bip_39_word_underscore_8: inch_twelve_picture_happy_pill_pizza_garbage_bamboo
-bip_39_word_underscore_9: inch_twelve_picture_happy_pill_pizza_garbage_bamboo_laptop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

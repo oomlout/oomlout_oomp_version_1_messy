@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gate
-bip_39_word_dash_10: gate-puzzle-best-subject-prosper-label-alley-father-brick-cover
-bip_39_word_dash_11: gate-puzzle-best-subject-prosper-label-alley-father-brick-cover-critic
 bip_39_word_dash_12: gate-puzzle-best-subject-prosper-label-alley-father-brick-cover-critic-abstract
 bip_39_word_dash_2: gate-puzzle
 bip_39_word_dash_3: gate-puzzle-best
-bip_39_word_dash_4: gate-puzzle-best-subject
-bip_39_word_dash_5: gate-puzzle-best-subject-prosper
-bip_39_word_dash_6: gate-puzzle-best-subject-prosper-label
-bip_39_word_dash_7: gate-puzzle-best-subject-prosper-label-alley
-bip_39_word_dash_8: gate-puzzle-best-subject-prosper-label-alley-father
-bip_39_word_dash_9: gate-puzzle-best-subject-prosper-label-alley-father-brick
-bip_39_word_new_br_1: gate
-bip_39_word_new_br_10: gate<br>puzzle<br>best<br>subject<br>prosper<br>label<br>alley<br>father<br>brick<br>cover
-bip_39_word_new_br_11: gate<br>puzzle<br>best<br>subject<br>prosper<br>label<br>alley<br>father<br>brick<br>cover<br>critic
 bip_39_word_new_br_12: gate<br>puzzle<br>best<br>subject<br>prosper<br>label<br>alley<br>father<br>brick<br>cover<br>critic<br>abstract
 bip_39_word_new_br_2: gate<br>puzzle
 bip_39_word_new_br_3: gate<br>puzzle<br>best
-bip_39_word_new_br_4: gate<br>puzzle<br>best<br>subject
-bip_39_word_new_br_5: gate<br>puzzle<br>best<br>subject<br>prosper
-bip_39_word_new_br_6: gate<br>puzzle<br>best<br>subject<br>prosper<br>label
-bip_39_word_new_br_7: gate<br>puzzle<br>best<br>subject<br>prosper<br>label<br>alley
-bip_39_word_new_br_8: gate<br>puzzle<br>best<br>subject<br>prosper<br>label<br>alley<br>father
-bip_39_word_new_br_9: gate<br>puzzle<br>best<br>subject<br>prosper<br>label<br>alley<br>father<br>brick
-bip_39_word_new_line_1: gate
-bip_39_word_new_line_10: 'gate
-
-  puzzle
-
-  best
-
-  subject
-
-  prosper
-
-  label
-
-  alley
-
-  father
-
-  brick
-
-  cover'
-bip_39_word_new_line_11: 'gate
-
-  puzzle
-
-  best
-
-  subject
-
-  prosper
-
-  label
-
-  alley
-
-  father
-
-  brick
-
-  cover
-
-  critic'
 bip_39_word_new_line_12: 'gate
 
   puzzle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gate
   puzzle
 
   best'
-bip_39_word_new_line_4: 'gate
-
-  puzzle
-
-  best
-
-  subject'
-bip_39_word_new_line_5: 'gate
-
-  puzzle
-
-  best
-
-  subject
-
-  prosper'
-bip_39_word_new_line_6: 'gate
-
-  puzzle
-
-  best
-
-  subject
-
-  prosper
-
-  label'
-bip_39_word_new_line_7: 'gate
-
-  puzzle
-
-  best
-
-  subject
-
-  prosper
-
-  label
-
-  alley'
-bip_39_word_new_line_8: 'gate
-
-  puzzle
-
-  best
-
-  subject
-
-  prosper
-
-  label
-
-  alley
-
-  father'
-bip_39_word_new_line_9: 'gate
-
-  puzzle
-
-  best
-
-  subject
-
-  prosper
-
-  label
-
-  alley
-
-  father
-
-  brick'
-bip_39_word_no_space_1: gate
-bip_39_word_no_space_10: gatepuzzlebestsubjectprosperlabelalleyfatherbrickcover
-bip_39_word_no_space_11: gatepuzzlebestsubjectprosperlabelalleyfatherbrickcovercritic
 bip_39_word_no_space_12: gatepuzzlebestsubjectprosperlabelalleyfatherbrickcovercriticabstract
 bip_39_word_no_space_2: gatepuzzle
 bip_39_word_no_space_3: gatepuzzlebest
-bip_39_word_no_space_4: gatepuzzlebestsubject
-bip_39_word_no_space_5: gatepuzzlebestsubjectprosper
-bip_39_word_no_space_6: gatepuzzlebestsubjectprosperlabel
-bip_39_word_no_space_7: gatepuzzlebestsubjectprosperlabelalley
-bip_39_word_no_space_8: gatepuzzlebestsubjectprosperlabelalleyfather
-bip_39_word_no_space_9: gatepuzzlebestsubjectprosperlabelalleyfatherbrick
-bip_39_word_space_0:
-- gate
-- puzzle
-- best
-- subject
-- prosper
-- label
-- alley
-- father
-- brick
-- cover
-- critic
-- abstract
-bip_39_word_space_1: gate
-bip_39_word_space_10: gate puzzle best subject prosper label alley father brick cover
-bip_39_word_space_11: gate puzzle best subject prosper label alley father brick cover
-  critic
 bip_39_word_space_12: gate puzzle best subject prosper label alley father brick cover
   critic abstract
 bip_39_word_space_2: gate puzzle
 bip_39_word_space_3: gate puzzle best
-bip_39_word_space_4: gate puzzle best subject
-bip_39_word_space_5: gate puzzle best subject prosper
-bip_39_word_space_6: gate puzzle best subject prosper label
-bip_39_word_space_7: gate puzzle best subject prosper label alley
-bip_39_word_space_8: gate puzzle best subject prosper label alley father
-bip_39_word_space_9: gate puzzle best subject prosper label alley father brick
-bip_39_word_underscore_1: gate
-bip_39_word_underscore_10: gate_puzzle_best_subject_prosper_label_alley_father_brick_cover
-bip_39_word_underscore_11: gate_puzzle_best_subject_prosper_label_alley_father_brick_cover_critic
 bip_39_word_underscore_12: gate_puzzle_best_subject_prosper_label_alley_father_brick_cover_critic_abstract
 bip_39_word_underscore_2: gate_puzzle
 bip_39_word_underscore_3: gate_puzzle_best
-bip_39_word_underscore_4: gate_puzzle_best_subject
-bip_39_word_underscore_5: gate_puzzle_best_subject_prosper
-bip_39_word_underscore_6: gate_puzzle_best_subject_prosper_label
-bip_39_word_underscore_7: gate_puzzle_best_subject_prosper_label_alley
-bip_39_word_underscore_8: gate_puzzle_best_subject_prosper_label_alley_father
-bip_39_word_underscore_9: gate_puzzle_best_subject_prosper_label_alley_father_brick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

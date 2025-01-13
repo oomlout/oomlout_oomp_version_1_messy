@@ -1,68 +1,9 @@
-bip_39_word_dash_1: humble
-bip_39_word_dash_10: humble-disease-behave-rib-fan-pyramid-family-mammal-elite-science
-bip_39_word_dash_11: humble-disease-behave-rib-fan-pyramid-family-mammal-elite-science-penalty
 bip_39_word_dash_12: humble-disease-behave-rib-fan-pyramid-family-mammal-elite-science-penalty-agree
 bip_39_word_dash_2: humble-disease
 bip_39_word_dash_3: humble-disease-behave
-bip_39_word_dash_4: humble-disease-behave-rib
-bip_39_word_dash_5: humble-disease-behave-rib-fan
-bip_39_word_dash_6: humble-disease-behave-rib-fan-pyramid
-bip_39_word_dash_7: humble-disease-behave-rib-fan-pyramid-family
-bip_39_word_dash_8: humble-disease-behave-rib-fan-pyramid-family-mammal
-bip_39_word_dash_9: humble-disease-behave-rib-fan-pyramid-family-mammal-elite
-bip_39_word_new_br_1: humble
-bip_39_word_new_br_10: humble<br>disease<br>behave<br>rib<br>fan<br>pyramid<br>family<br>mammal<br>elite<br>science
-bip_39_word_new_br_11: humble<br>disease<br>behave<br>rib<br>fan<br>pyramid<br>family<br>mammal<br>elite<br>science<br>penalty
 bip_39_word_new_br_12: humble<br>disease<br>behave<br>rib<br>fan<br>pyramid<br>family<br>mammal<br>elite<br>science<br>penalty<br>agree
 bip_39_word_new_br_2: humble<br>disease
 bip_39_word_new_br_3: humble<br>disease<br>behave
-bip_39_word_new_br_4: humble<br>disease<br>behave<br>rib
-bip_39_word_new_br_5: humble<br>disease<br>behave<br>rib<br>fan
-bip_39_word_new_br_6: humble<br>disease<br>behave<br>rib<br>fan<br>pyramid
-bip_39_word_new_br_7: humble<br>disease<br>behave<br>rib<br>fan<br>pyramid<br>family
-bip_39_word_new_br_8: humble<br>disease<br>behave<br>rib<br>fan<br>pyramid<br>family<br>mammal
-bip_39_word_new_br_9: humble<br>disease<br>behave<br>rib<br>fan<br>pyramid<br>family<br>mammal<br>elite
-bip_39_word_new_line_1: humble
-bip_39_word_new_line_10: 'humble
-
-  disease
-
-  behave
-
-  rib
-
-  fan
-
-  pyramid
-
-  family
-
-  mammal
-
-  elite
-
-  science'
-bip_39_word_new_line_11: 'humble
-
-  disease
-
-  behave
-
-  rib
-
-  fan
-
-  pyramid
-
-  family
-
-  mammal
-
-  elite
-
-  science
-
-  penalty'
 bip_39_word_new_line_12: 'humble
 
   disease
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'humble
   disease
 
   behave'
-bip_39_word_new_line_4: 'humble
-
-  disease
-
-  behave
-
-  rib'
-bip_39_word_new_line_5: 'humble
-
-  disease
-
-  behave
-
-  rib
-
-  fan'
-bip_39_word_new_line_6: 'humble
-
-  disease
-
-  behave
-
-  rib
-
-  fan
-
-  pyramid'
-bip_39_word_new_line_7: 'humble
-
-  disease
-
-  behave
-
-  rib
-
-  fan
-
-  pyramid
-
-  family'
-bip_39_word_new_line_8: 'humble
-
-  disease
-
-  behave
-
-  rib
-
-  fan
-
-  pyramid
-
-  family
-
-  mammal'
-bip_39_word_new_line_9: 'humble
-
-  disease
-
-  behave
-
-  rib
-
-  fan
-
-  pyramid
-
-  family
-
-  mammal
-
-  elite'
-bip_39_word_no_space_1: humble
-bip_39_word_no_space_10: humblediseasebehaveribfanpyramidfamilymammalelitescience
-bip_39_word_no_space_11: humblediseasebehaveribfanpyramidfamilymammalelitesciencepenalty
 bip_39_word_no_space_12: humblediseasebehaveribfanpyramidfamilymammalelitesciencepenaltyagree
 bip_39_word_no_space_2: humbledisease
 bip_39_word_no_space_3: humblediseasebehave
-bip_39_word_no_space_4: humblediseasebehaverib
-bip_39_word_no_space_5: humblediseasebehaveribfan
-bip_39_word_no_space_6: humblediseasebehaveribfanpyramid
-bip_39_word_no_space_7: humblediseasebehaveribfanpyramidfamily
-bip_39_word_no_space_8: humblediseasebehaveribfanpyramidfamilymammal
-bip_39_word_no_space_9: humblediseasebehaveribfanpyramidfamilymammalelite
-bip_39_word_space_0:
-- humble
-- disease
-- behave
-- rib
-- fan
-- pyramid
-- family
-- mammal
-- elite
-- science
-- penalty
-- agree
-bip_39_word_space_1: humble
-bip_39_word_space_10: humble disease behave rib fan pyramid family mammal elite science
-bip_39_word_space_11: humble disease behave rib fan pyramid family mammal elite science
-  penalty
 bip_39_word_space_12: humble disease behave rib fan pyramid family mammal elite science
   penalty agree
 bip_39_word_space_2: humble disease
 bip_39_word_space_3: humble disease behave
-bip_39_word_space_4: humble disease behave rib
-bip_39_word_space_5: humble disease behave rib fan
-bip_39_word_space_6: humble disease behave rib fan pyramid
-bip_39_word_space_7: humble disease behave rib fan pyramid family
-bip_39_word_space_8: humble disease behave rib fan pyramid family mammal
-bip_39_word_space_9: humble disease behave rib fan pyramid family mammal elite
-bip_39_word_underscore_1: humble
-bip_39_word_underscore_10: humble_disease_behave_rib_fan_pyramid_family_mammal_elite_science
-bip_39_word_underscore_11: humble_disease_behave_rib_fan_pyramid_family_mammal_elite_science_penalty
 bip_39_word_underscore_12: humble_disease_behave_rib_fan_pyramid_family_mammal_elite_science_penalty_agree
 bip_39_word_underscore_2: humble_disease
 bip_39_word_underscore_3: humble_disease_behave
-bip_39_word_underscore_4: humble_disease_behave_rib
-bip_39_word_underscore_5: humble_disease_behave_rib_fan
-bip_39_word_underscore_6: humble_disease_behave_rib_fan_pyramid
-bip_39_word_underscore_7: humble_disease_behave_rib_fan_pyramid_family
-bip_39_word_underscore_8: humble_disease_behave_rib_fan_pyramid_family_mammal
-bip_39_word_underscore_9: humble_disease_behave_rib_fan_pyramid_family_mammal_elite
 classification: food
 classification_capital: Food
 classification_first_letter: f

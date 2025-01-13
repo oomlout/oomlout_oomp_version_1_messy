@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kiwi
-bip_39_word_dash_10: kiwi-spin-captain-glad-panther-crush-balcony-unusual-erase-purity
-bip_39_word_dash_11: kiwi-spin-captain-glad-panther-crush-balcony-unusual-erase-purity-private
 bip_39_word_dash_12: kiwi-spin-captain-glad-panther-crush-balcony-unusual-erase-purity-private-aim
 bip_39_word_dash_2: kiwi-spin
 bip_39_word_dash_3: kiwi-spin-captain
-bip_39_word_dash_4: kiwi-spin-captain-glad
-bip_39_word_dash_5: kiwi-spin-captain-glad-panther
-bip_39_word_dash_6: kiwi-spin-captain-glad-panther-crush
-bip_39_word_dash_7: kiwi-spin-captain-glad-panther-crush-balcony
-bip_39_word_dash_8: kiwi-spin-captain-glad-panther-crush-balcony-unusual
-bip_39_word_dash_9: kiwi-spin-captain-glad-panther-crush-balcony-unusual-erase
-bip_39_word_new_br_1: kiwi
-bip_39_word_new_br_10: kiwi<br>spin<br>captain<br>glad<br>panther<br>crush<br>balcony<br>unusual<br>erase<br>purity
-bip_39_word_new_br_11: kiwi<br>spin<br>captain<br>glad<br>panther<br>crush<br>balcony<br>unusual<br>erase<br>purity<br>private
 bip_39_word_new_br_12: kiwi<br>spin<br>captain<br>glad<br>panther<br>crush<br>balcony<br>unusual<br>erase<br>purity<br>private<br>aim
 bip_39_word_new_br_2: kiwi<br>spin
 bip_39_word_new_br_3: kiwi<br>spin<br>captain
-bip_39_word_new_br_4: kiwi<br>spin<br>captain<br>glad
-bip_39_word_new_br_5: kiwi<br>spin<br>captain<br>glad<br>panther
-bip_39_word_new_br_6: kiwi<br>spin<br>captain<br>glad<br>panther<br>crush
-bip_39_word_new_br_7: kiwi<br>spin<br>captain<br>glad<br>panther<br>crush<br>balcony
-bip_39_word_new_br_8: kiwi<br>spin<br>captain<br>glad<br>panther<br>crush<br>balcony<br>unusual
-bip_39_word_new_br_9: kiwi<br>spin<br>captain<br>glad<br>panther<br>crush<br>balcony<br>unusual<br>erase
-bip_39_word_new_line_1: kiwi
-bip_39_word_new_line_10: 'kiwi
-
-  spin
-
-  captain
-
-  glad
-
-  panther
-
-  crush
-
-  balcony
-
-  unusual
-
-  erase
-
-  purity'
-bip_39_word_new_line_11: 'kiwi
-
-  spin
-
-  captain
-
-  glad
-
-  panther
-
-  crush
-
-  balcony
-
-  unusual
-
-  erase
-
-  purity
-
-  private'
 bip_39_word_new_line_12: 'kiwi
 
   spin
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kiwi
   spin
 
   captain'
-bip_39_word_new_line_4: 'kiwi
-
-  spin
-
-  captain
-
-  glad'
-bip_39_word_new_line_5: 'kiwi
-
-  spin
-
-  captain
-
-  glad
-
-  panther'
-bip_39_word_new_line_6: 'kiwi
-
-  spin
-
-  captain
-
-  glad
-
-  panther
-
-  crush'
-bip_39_word_new_line_7: 'kiwi
-
-  spin
-
-  captain
-
-  glad
-
-  panther
-
-  crush
-
-  balcony'
-bip_39_word_new_line_8: 'kiwi
-
-  spin
-
-  captain
-
-  glad
-
-  panther
-
-  crush
-
-  balcony
-
-  unusual'
-bip_39_word_new_line_9: 'kiwi
-
-  spin
-
-  captain
-
-  glad
-
-  panther
-
-  crush
-
-  balcony
-
-  unusual
-
-  erase'
-bip_39_word_no_space_1: kiwi
-bip_39_word_no_space_10: kiwispincaptaingladpanthercrushbalconyunusualerasepurity
-bip_39_word_no_space_11: kiwispincaptaingladpanthercrushbalconyunusualerasepurityprivate
 bip_39_word_no_space_12: kiwispincaptaingladpanthercrushbalconyunusualerasepurityprivateaim
 bip_39_word_no_space_2: kiwispin
 bip_39_word_no_space_3: kiwispincaptain
-bip_39_word_no_space_4: kiwispincaptainglad
-bip_39_word_no_space_5: kiwispincaptaingladpanther
-bip_39_word_no_space_6: kiwispincaptaingladpanthercrush
-bip_39_word_no_space_7: kiwispincaptaingladpanthercrushbalcony
-bip_39_word_no_space_8: kiwispincaptaingladpanthercrushbalconyunusual
-bip_39_word_no_space_9: kiwispincaptaingladpanthercrushbalconyunusualerase
-bip_39_word_space_0:
-- kiwi
-- spin
-- captain
-- glad
-- panther
-- crush
-- balcony
-- unusual
-- erase
-- purity
-- private
-- aim
-bip_39_word_space_1: kiwi
-bip_39_word_space_10: kiwi spin captain glad panther crush balcony unusual erase purity
-bip_39_word_space_11: kiwi spin captain glad panther crush balcony unusual erase purity
-  private
 bip_39_word_space_12: kiwi spin captain glad panther crush balcony unusual erase purity
   private aim
 bip_39_word_space_2: kiwi spin
 bip_39_word_space_3: kiwi spin captain
-bip_39_word_space_4: kiwi spin captain glad
-bip_39_word_space_5: kiwi spin captain glad panther
-bip_39_word_space_6: kiwi spin captain glad panther crush
-bip_39_word_space_7: kiwi spin captain glad panther crush balcony
-bip_39_word_space_8: kiwi spin captain glad panther crush balcony unusual
-bip_39_word_space_9: kiwi spin captain glad panther crush balcony unusual erase
-bip_39_word_underscore_1: kiwi
-bip_39_word_underscore_10: kiwi_spin_captain_glad_panther_crush_balcony_unusual_erase_purity
-bip_39_word_underscore_11: kiwi_spin_captain_glad_panther_crush_balcony_unusual_erase_purity_private
 bip_39_word_underscore_12: kiwi_spin_captain_glad_panther_crush_balcony_unusual_erase_purity_private_aim
 bip_39_word_underscore_2: kiwi_spin
 bip_39_word_underscore_3: kiwi_spin_captain
-bip_39_word_underscore_4: kiwi_spin_captain_glad
-bip_39_word_underscore_5: kiwi_spin_captain_glad_panther
-bip_39_word_underscore_6: kiwi_spin_captain_glad_panther_crush
-bip_39_word_underscore_7: kiwi_spin_captain_glad_panther_crush_balcony
-bip_39_word_underscore_8: kiwi_spin_captain_glad_panther_crush_balcony_unusual
-bip_39_word_underscore_9: kiwi_spin_captain_glad_panther_crush_balcony_unusual_erase
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

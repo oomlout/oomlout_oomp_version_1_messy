@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shed
-bip_39_word_dash_10: shed-isolate-dilemma-below-stereo-hole-armor-never-sound-couple
-bip_39_word_dash_11: shed-isolate-dilemma-below-stereo-hole-armor-never-sound-couple-dress
 bip_39_word_dash_12: shed-isolate-dilemma-below-stereo-hole-armor-never-sound-couple-dress-assume
 bip_39_word_dash_2: shed-isolate
 bip_39_word_dash_3: shed-isolate-dilemma
-bip_39_word_dash_4: shed-isolate-dilemma-below
-bip_39_word_dash_5: shed-isolate-dilemma-below-stereo
-bip_39_word_dash_6: shed-isolate-dilemma-below-stereo-hole
-bip_39_word_dash_7: shed-isolate-dilemma-below-stereo-hole-armor
-bip_39_word_dash_8: shed-isolate-dilemma-below-stereo-hole-armor-never
-bip_39_word_dash_9: shed-isolate-dilemma-below-stereo-hole-armor-never-sound
-bip_39_word_new_br_1: shed
-bip_39_word_new_br_10: shed<br>isolate<br>dilemma<br>below<br>stereo<br>hole<br>armor<br>never<br>sound<br>couple
-bip_39_word_new_br_11: shed<br>isolate<br>dilemma<br>below<br>stereo<br>hole<br>armor<br>never<br>sound<br>couple<br>dress
 bip_39_word_new_br_12: shed<br>isolate<br>dilemma<br>below<br>stereo<br>hole<br>armor<br>never<br>sound<br>couple<br>dress<br>assume
 bip_39_word_new_br_2: shed<br>isolate
 bip_39_word_new_br_3: shed<br>isolate<br>dilemma
-bip_39_word_new_br_4: shed<br>isolate<br>dilemma<br>below
-bip_39_word_new_br_5: shed<br>isolate<br>dilemma<br>below<br>stereo
-bip_39_word_new_br_6: shed<br>isolate<br>dilemma<br>below<br>stereo<br>hole
-bip_39_word_new_br_7: shed<br>isolate<br>dilemma<br>below<br>stereo<br>hole<br>armor
-bip_39_word_new_br_8: shed<br>isolate<br>dilemma<br>below<br>stereo<br>hole<br>armor<br>never
-bip_39_word_new_br_9: shed<br>isolate<br>dilemma<br>below<br>stereo<br>hole<br>armor<br>never<br>sound
-bip_39_word_new_line_1: shed
-bip_39_word_new_line_10: 'shed
-
-  isolate
-
-  dilemma
-
-  below
-
-  stereo
-
-  hole
-
-  armor
-
-  never
-
-  sound
-
-  couple'
-bip_39_word_new_line_11: 'shed
-
-  isolate
-
-  dilemma
-
-  below
-
-  stereo
-
-  hole
-
-  armor
-
-  never
-
-  sound
-
-  couple
-
-  dress'
 bip_39_word_new_line_12: 'shed
 
   isolate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shed
   isolate
 
   dilemma'
-bip_39_word_new_line_4: 'shed
-
-  isolate
-
-  dilemma
-
-  below'
-bip_39_word_new_line_5: 'shed
-
-  isolate
-
-  dilemma
-
-  below
-
-  stereo'
-bip_39_word_new_line_6: 'shed
-
-  isolate
-
-  dilemma
-
-  below
-
-  stereo
-
-  hole'
-bip_39_word_new_line_7: 'shed
-
-  isolate
-
-  dilemma
-
-  below
-
-  stereo
-
-  hole
-
-  armor'
-bip_39_word_new_line_8: 'shed
-
-  isolate
-
-  dilemma
-
-  below
-
-  stereo
-
-  hole
-
-  armor
-
-  never'
-bip_39_word_new_line_9: 'shed
-
-  isolate
-
-  dilemma
-
-  below
-
-  stereo
-
-  hole
-
-  armor
-
-  never
-
-  sound'
-bip_39_word_no_space_1: shed
-bip_39_word_no_space_10: shedisolatedilemmabelowstereoholearmorneversoundcouple
-bip_39_word_no_space_11: shedisolatedilemmabelowstereoholearmorneversoundcoupledress
 bip_39_word_no_space_12: shedisolatedilemmabelowstereoholearmorneversoundcoupledressassume
 bip_39_word_no_space_2: shedisolate
 bip_39_word_no_space_3: shedisolatedilemma
-bip_39_word_no_space_4: shedisolatedilemmabelow
-bip_39_word_no_space_5: shedisolatedilemmabelowstereo
-bip_39_word_no_space_6: shedisolatedilemmabelowstereohole
-bip_39_word_no_space_7: shedisolatedilemmabelowstereoholearmor
-bip_39_word_no_space_8: shedisolatedilemmabelowstereoholearmornever
-bip_39_word_no_space_9: shedisolatedilemmabelowstereoholearmorneversound
-bip_39_word_space_0:
-- shed
-- isolate
-- dilemma
-- below
-- stereo
-- hole
-- armor
-- never
-- sound
-- couple
-- dress
-- assume
-bip_39_word_space_1: shed
-bip_39_word_space_10: shed isolate dilemma below stereo hole armor never sound couple
-bip_39_word_space_11: shed isolate dilemma below stereo hole armor never sound couple
-  dress
 bip_39_word_space_12: shed isolate dilemma below stereo hole armor never sound couple
   dress assume
 bip_39_word_space_2: shed isolate
 bip_39_word_space_3: shed isolate dilemma
-bip_39_word_space_4: shed isolate dilemma below
-bip_39_word_space_5: shed isolate dilemma below stereo
-bip_39_word_space_6: shed isolate dilemma below stereo hole
-bip_39_word_space_7: shed isolate dilemma below stereo hole armor
-bip_39_word_space_8: shed isolate dilemma below stereo hole armor never
-bip_39_word_space_9: shed isolate dilemma below stereo hole armor never sound
-bip_39_word_underscore_1: shed
-bip_39_word_underscore_10: shed_isolate_dilemma_below_stereo_hole_armor_never_sound_couple
-bip_39_word_underscore_11: shed_isolate_dilemma_below_stereo_hole_armor_never_sound_couple_dress
 bip_39_word_underscore_12: shed_isolate_dilemma_below_stereo_hole_armor_never_sound_couple_dress_assume
 bip_39_word_underscore_2: shed_isolate
 bip_39_word_underscore_3: shed_isolate_dilemma
-bip_39_word_underscore_4: shed_isolate_dilemma_below
-bip_39_word_underscore_5: shed_isolate_dilemma_below_stereo
-bip_39_word_underscore_6: shed_isolate_dilemma_below_stereo_hole
-bip_39_word_underscore_7: shed_isolate_dilemma_below_stereo_hole_armor
-bip_39_word_underscore_8: shed_isolate_dilemma_below_stereo_hole_armor_never
-bip_39_word_underscore_9: shed_isolate_dilemma_below_stereo_hole_armor_never_sound
 classification: oobb
 classification_length_1: o
 classification_length_2: oo

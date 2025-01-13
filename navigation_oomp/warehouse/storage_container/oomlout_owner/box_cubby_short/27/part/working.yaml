@@ -1,68 +1,9 @@
-bip_39_word_dash_1: east
-bip_39_word_dash_10: east-damage-exclude-topple-audit-reduce-attitude-economy-chef-column
-bip_39_word_dash_11: east-damage-exclude-topple-audit-reduce-attitude-economy-chef-column-pluck
 bip_39_word_dash_12: east-damage-exclude-topple-audit-reduce-attitude-economy-chef-column-pluck-able
 bip_39_word_dash_2: east-damage
 bip_39_word_dash_3: east-damage-exclude
-bip_39_word_dash_4: east-damage-exclude-topple
-bip_39_word_dash_5: east-damage-exclude-topple-audit
-bip_39_word_dash_6: east-damage-exclude-topple-audit-reduce
-bip_39_word_dash_7: east-damage-exclude-topple-audit-reduce-attitude
-bip_39_word_dash_8: east-damage-exclude-topple-audit-reduce-attitude-economy
-bip_39_word_dash_9: east-damage-exclude-topple-audit-reduce-attitude-economy-chef
-bip_39_word_new_br_1: east
-bip_39_word_new_br_10: east<br>damage<br>exclude<br>topple<br>audit<br>reduce<br>attitude<br>economy<br>chef<br>column
-bip_39_word_new_br_11: east<br>damage<br>exclude<br>topple<br>audit<br>reduce<br>attitude<br>economy<br>chef<br>column<br>pluck
 bip_39_word_new_br_12: east<br>damage<br>exclude<br>topple<br>audit<br>reduce<br>attitude<br>economy<br>chef<br>column<br>pluck<br>able
 bip_39_word_new_br_2: east<br>damage
 bip_39_word_new_br_3: east<br>damage<br>exclude
-bip_39_word_new_br_4: east<br>damage<br>exclude<br>topple
-bip_39_word_new_br_5: east<br>damage<br>exclude<br>topple<br>audit
-bip_39_word_new_br_6: east<br>damage<br>exclude<br>topple<br>audit<br>reduce
-bip_39_word_new_br_7: east<br>damage<br>exclude<br>topple<br>audit<br>reduce<br>attitude
-bip_39_word_new_br_8: east<br>damage<br>exclude<br>topple<br>audit<br>reduce<br>attitude<br>economy
-bip_39_word_new_br_9: east<br>damage<br>exclude<br>topple<br>audit<br>reduce<br>attitude<br>economy<br>chef
-bip_39_word_new_line_1: east
-bip_39_word_new_line_10: 'east
-
-  damage
-
-  exclude
-
-  topple
-
-  audit
-
-  reduce
-
-  attitude
-
-  economy
-
-  chef
-
-  column'
-bip_39_word_new_line_11: 'east
-
-  damage
-
-  exclude
-
-  topple
-
-  audit
-
-  reduce
-
-  attitude
-
-  economy
-
-  chef
-
-  column
-
-  pluck'
 bip_39_word_new_line_12: 'east
 
   damage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'east
   damage
 
   exclude'
-bip_39_word_new_line_4: 'east
-
-  damage
-
-  exclude
-
-  topple'
-bip_39_word_new_line_5: 'east
-
-  damage
-
-  exclude
-
-  topple
-
-  audit'
-bip_39_word_new_line_6: 'east
-
-  damage
-
-  exclude
-
-  topple
-
-  audit
-
-  reduce'
-bip_39_word_new_line_7: 'east
-
-  damage
-
-  exclude
-
-  topple
-
-  audit
-
-  reduce
-
-  attitude'
-bip_39_word_new_line_8: 'east
-
-  damage
-
-  exclude
-
-  topple
-
-  audit
-
-  reduce
-
-  attitude
-
-  economy'
-bip_39_word_new_line_9: 'east
-
-  damage
-
-  exclude
-
-  topple
-
-  audit
-
-  reduce
-
-  attitude
-
-  economy
-
-  chef'
-bip_39_word_no_space_1: east
-bip_39_word_no_space_10: eastdamageexcludetoppleauditreduceattitudeeconomychefcolumn
-bip_39_word_no_space_11: eastdamageexcludetoppleauditreduceattitudeeconomychefcolumnpluck
 bip_39_word_no_space_12: eastdamageexcludetoppleauditreduceattitudeeconomychefcolumnpluckable
 bip_39_word_no_space_2: eastdamage
 bip_39_word_no_space_3: eastdamageexclude
-bip_39_word_no_space_4: eastdamageexcludetopple
-bip_39_word_no_space_5: eastdamageexcludetoppleaudit
-bip_39_word_no_space_6: eastdamageexcludetoppleauditreduce
-bip_39_word_no_space_7: eastdamageexcludetoppleauditreduceattitude
-bip_39_word_no_space_8: eastdamageexcludetoppleauditreduceattitudeeconomy
-bip_39_word_no_space_9: eastdamageexcludetoppleauditreduceattitudeeconomychef
-bip_39_word_space_0:
-- east
-- damage
-- exclude
-- topple
-- audit
-- reduce
-- attitude
-- economy
-- chef
-- column
-- pluck
-- able
-bip_39_word_space_1: east
-bip_39_word_space_10: east damage exclude topple audit reduce attitude economy chef
-  column
-bip_39_word_space_11: east damage exclude topple audit reduce attitude economy chef
-  column pluck
 bip_39_word_space_12: east damage exclude topple audit reduce attitude economy chef
   column pluck able
 bip_39_word_space_2: east damage
 bip_39_word_space_3: east damage exclude
-bip_39_word_space_4: east damage exclude topple
-bip_39_word_space_5: east damage exclude topple audit
-bip_39_word_space_6: east damage exclude topple audit reduce
-bip_39_word_space_7: east damage exclude topple audit reduce attitude
-bip_39_word_space_8: east damage exclude topple audit reduce attitude economy
-bip_39_word_space_9: east damage exclude topple audit reduce attitude economy chef
-bip_39_word_underscore_1: east
-bip_39_word_underscore_10: east_damage_exclude_topple_audit_reduce_attitude_economy_chef_column
-bip_39_word_underscore_11: east_damage_exclude_topple_audit_reduce_attitude_economy_chef_column_pluck
 bip_39_word_underscore_12: east_damage_exclude_topple_audit_reduce_attitude_economy_chef_column_pluck_able
 bip_39_word_underscore_2: east_damage
 bip_39_word_underscore_3: east_damage_exclude
-bip_39_word_underscore_4: east_damage_exclude_topple
-bip_39_word_underscore_5: east_damage_exclude_topple_audit
-bip_39_word_underscore_6: east_damage_exclude_topple_audit_reduce
-bip_39_word_underscore_7: east_damage_exclude_topple_audit_reduce_attitude
-bip_39_word_underscore_8: east_damage_exclude_topple_audit_reduce_attitude_economy
-bip_39_word_underscore_9: east_damage_exclude_topple_audit_reduce_attitude_economy_chef
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

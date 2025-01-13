@@ -1,68 +1,9 @@
-bip_39_word_dash_1: car
-bip_39_word_dash_10: car-rebel-december-rose-nature-hundred-stick-bubble-legal-inner
-bip_39_word_dash_11: car-rebel-december-rose-nature-hundred-stick-bubble-legal-inner-asthma
 bip_39_word_dash_12: car-rebel-december-rose-nature-hundred-stick-bubble-legal-inner-asthma-alter
 bip_39_word_dash_2: car-rebel
 bip_39_word_dash_3: car-rebel-december
-bip_39_word_dash_4: car-rebel-december-rose
-bip_39_word_dash_5: car-rebel-december-rose-nature
-bip_39_word_dash_6: car-rebel-december-rose-nature-hundred
-bip_39_word_dash_7: car-rebel-december-rose-nature-hundred-stick
-bip_39_word_dash_8: car-rebel-december-rose-nature-hundred-stick-bubble
-bip_39_word_dash_9: car-rebel-december-rose-nature-hundred-stick-bubble-legal
-bip_39_word_new_br_1: car
-bip_39_word_new_br_10: car<br>rebel<br>december<br>rose<br>nature<br>hundred<br>stick<br>bubble<br>legal<br>inner
-bip_39_word_new_br_11: car<br>rebel<br>december<br>rose<br>nature<br>hundred<br>stick<br>bubble<br>legal<br>inner<br>asthma
 bip_39_word_new_br_12: car<br>rebel<br>december<br>rose<br>nature<br>hundred<br>stick<br>bubble<br>legal<br>inner<br>asthma<br>alter
 bip_39_word_new_br_2: car<br>rebel
 bip_39_word_new_br_3: car<br>rebel<br>december
-bip_39_word_new_br_4: car<br>rebel<br>december<br>rose
-bip_39_word_new_br_5: car<br>rebel<br>december<br>rose<br>nature
-bip_39_word_new_br_6: car<br>rebel<br>december<br>rose<br>nature<br>hundred
-bip_39_word_new_br_7: car<br>rebel<br>december<br>rose<br>nature<br>hundred<br>stick
-bip_39_word_new_br_8: car<br>rebel<br>december<br>rose<br>nature<br>hundred<br>stick<br>bubble
-bip_39_word_new_br_9: car<br>rebel<br>december<br>rose<br>nature<br>hundred<br>stick<br>bubble<br>legal
-bip_39_word_new_line_1: car
-bip_39_word_new_line_10: 'car
-
-  rebel
-
-  december
-
-  rose
-
-  nature
-
-  hundred
-
-  stick
-
-  bubble
-
-  legal
-
-  inner'
-bip_39_word_new_line_11: 'car
-
-  rebel
-
-  december
-
-  rose
-
-  nature
-
-  hundred
-
-  stick
-
-  bubble
-
-  legal
-
-  inner
-
-  asthma'
 bip_39_word_new_line_12: 'car
 
   rebel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'car
   rebel
 
   december'
-bip_39_word_new_line_4: 'car
-
-  rebel
-
-  december
-
-  rose'
-bip_39_word_new_line_5: 'car
-
-  rebel
-
-  december
-
-  rose
-
-  nature'
-bip_39_word_new_line_6: 'car
-
-  rebel
-
-  december
-
-  rose
-
-  nature
-
-  hundred'
-bip_39_word_new_line_7: 'car
-
-  rebel
-
-  december
-
-  rose
-
-  nature
-
-  hundred
-
-  stick'
-bip_39_word_new_line_8: 'car
-
-  rebel
-
-  december
-
-  rose
-
-  nature
-
-  hundred
-
-  stick
-
-  bubble'
-bip_39_word_new_line_9: 'car
-
-  rebel
-
-  december
-
-  rose
-
-  nature
-
-  hundred
-
-  stick
-
-  bubble
-
-  legal'
-bip_39_word_no_space_1: car
-bip_39_word_no_space_10: carrebeldecemberrosenaturehundredstickbubblelegalinner
-bip_39_word_no_space_11: carrebeldecemberrosenaturehundredstickbubblelegalinnerasthma
 bip_39_word_no_space_12: carrebeldecemberrosenaturehundredstickbubblelegalinnerasthmaalter
 bip_39_word_no_space_2: carrebel
 bip_39_word_no_space_3: carrebeldecember
-bip_39_word_no_space_4: carrebeldecemberrose
-bip_39_word_no_space_5: carrebeldecemberrosenature
-bip_39_word_no_space_6: carrebeldecemberrosenaturehundred
-bip_39_word_no_space_7: carrebeldecemberrosenaturehundredstick
-bip_39_word_no_space_8: carrebeldecemberrosenaturehundredstickbubble
-bip_39_word_no_space_9: carrebeldecemberrosenaturehundredstickbubblelegal
-bip_39_word_space_0:
-- car
-- rebel
-- december
-- rose
-- nature
-- hundred
-- stick
-- bubble
-- legal
-- inner
-- asthma
-- alter
-bip_39_word_space_1: car
-bip_39_word_space_10: car rebel december rose nature hundred stick bubble legal inner
-bip_39_word_space_11: car rebel december rose nature hundred stick bubble legal inner
-  asthma
 bip_39_word_space_12: car rebel december rose nature hundred stick bubble legal inner
   asthma alter
 bip_39_word_space_2: car rebel
 bip_39_word_space_3: car rebel december
-bip_39_word_space_4: car rebel december rose
-bip_39_word_space_5: car rebel december rose nature
-bip_39_word_space_6: car rebel december rose nature hundred
-bip_39_word_space_7: car rebel december rose nature hundred stick
-bip_39_word_space_8: car rebel december rose nature hundred stick bubble
-bip_39_word_space_9: car rebel december rose nature hundred stick bubble legal
-bip_39_word_underscore_1: car
-bip_39_word_underscore_10: car_rebel_december_rose_nature_hundred_stick_bubble_legal_inner
-bip_39_word_underscore_11: car_rebel_december_rose_nature_hundred_stick_bubble_legal_inner_asthma
 bip_39_word_underscore_12: car_rebel_december_rose_nature_hundred_stick_bubble_legal_inner_asthma_alter
 bip_39_word_underscore_2: car_rebel
 bip_39_word_underscore_3: car_rebel_december
-bip_39_word_underscore_4: car_rebel_december_rose
-bip_39_word_underscore_5: car_rebel_december_rose_nature
-bip_39_word_underscore_6: car_rebel_december_rose_nature_hundred
-bip_39_word_underscore_7: car_rebel_december_rose_nature_hundred_stick
-bip_39_word_underscore_8: car_rebel_december_rose_nature_hundred_stick_bubble
-bip_39_word_underscore_9: car_rebel_december_rose_nature_hundred_stick_bubble_legal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

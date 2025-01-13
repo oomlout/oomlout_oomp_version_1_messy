@@ -1,68 +1,9 @@
-bip_39_word_dash_1: oven
-bip_39_word_dash_10: oven-type-vendor-turn-elbow-copy-observe-glory-right-middle
-bip_39_word_dash_11: oven-type-vendor-turn-elbow-copy-observe-glory-right-middle-chimney
 bip_39_word_dash_12: oven-type-vendor-turn-elbow-copy-observe-glory-right-middle-chimney-advance
 bip_39_word_dash_2: oven-type
 bip_39_word_dash_3: oven-type-vendor
-bip_39_word_dash_4: oven-type-vendor-turn
-bip_39_word_dash_5: oven-type-vendor-turn-elbow
-bip_39_word_dash_6: oven-type-vendor-turn-elbow-copy
-bip_39_word_dash_7: oven-type-vendor-turn-elbow-copy-observe
-bip_39_word_dash_8: oven-type-vendor-turn-elbow-copy-observe-glory
-bip_39_word_dash_9: oven-type-vendor-turn-elbow-copy-observe-glory-right
-bip_39_word_new_br_1: oven
-bip_39_word_new_br_10: oven<br>type<br>vendor<br>turn<br>elbow<br>copy<br>observe<br>glory<br>right<br>middle
-bip_39_word_new_br_11: oven<br>type<br>vendor<br>turn<br>elbow<br>copy<br>observe<br>glory<br>right<br>middle<br>chimney
 bip_39_word_new_br_12: oven<br>type<br>vendor<br>turn<br>elbow<br>copy<br>observe<br>glory<br>right<br>middle<br>chimney<br>advance
 bip_39_word_new_br_2: oven<br>type
 bip_39_word_new_br_3: oven<br>type<br>vendor
-bip_39_word_new_br_4: oven<br>type<br>vendor<br>turn
-bip_39_word_new_br_5: oven<br>type<br>vendor<br>turn<br>elbow
-bip_39_word_new_br_6: oven<br>type<br>vendor<br>turn<br>elbow<br>copy
-bip_39_word_new_br_7: oven<br>type<br>vendor<br>turn<br>elbow<br>copy<br>observe
-bip_39_word_new_br_8: oven<br>type<br>vendor<br>turn<br>elbow<br>copy<br>observe<br>glory
-bip_39_word_new_br_9: oven<br>type<br>vendor<br>turn<br>elbow<br>copy<br>observe<br>glory<br>right
-bip_39_word_new_line_1: oven
-bip_39_word_new_line_10: 'oven
-
-  type
-
-  vendor
-
-  turn
-
-  elbow
-
-  copy
-
-  observe
-
-  glory
-
-  right
-
-  middle'
-bip_39_word_new_line_11: 'oven
-
-  type
-
-  vendor
-
-  turn
-
-  elbow
-
-  copy
-
-  observe
-
-  glory
-
-  right
-
-  middle
-
-  chimney'
 bip_39_word_new_line_12: 'oven
 
   type
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'oven
   type
 
   vendor'
-bip_39_word_new_line_4: 'oven
-
-  type
-
-  vendor
-
-  turn'
-bip_39_word_new_line_5: 'oven
-
-  type
-
-  vendor
-
-  turn
-
-  elbow'
-bip_39_word_new_line_6: 'oven
-
-  type
-
-  vendor
-
-  turn
-
-  elbow
-
-  copy'
-bip_39_word_new_line_7: 'oven
-
-  type
-
-  vendor
-
-  turn
-
-  elbow
-
-  copy
-
-  observe'
-bip_39_word_new_line_8: 'oven
-
-  type
-
-  vendor
-
-  turn
-
-  elbow
-
-  copy
-
-  observe
-
-  glory'
-bip_39_word_new_line_9: 'oven
-
-  type
-
-  vendor
-
-  turn
-
-  elbow
-
-  copy
-
-  observe
-
-  glory
-
-  right'
-bip_39_word_no_space_1: oven
-bip_39_word_no_space_10: oventypevendorturnelbowcopyobservegloryrightmiddle
-bip_39_word_no_space_11: oventypevendorturnelbowcopyobservegloryrightmiddlechimney
 bip_39_word_no_space_12: oventypevendorturnelbowcopyobservegloryrightmiddlechimneyadvance
 bip_39_word_no_space_2: oventype
 bip_39_word_no_space_3: oventypevendor
-bip_39_word_no_space_4: oventypevendorturn
-bip_39_word_no_space_5: oventypevendorturnelbow
-bip_39_word_no_space_6: oventypevendorturnelbowcopy
-bip_39_word_no_space_7: oventypevendorturnelbowcopyobserve
-bip_39_word_no_space_8: oventypevendorturnelbowcopyobserveglory
-bip_39_word_no_space_9: oventypevendorturnelbowcopyobservegloryright
-bip_39_word_space_0:
-- oven
-- type
-- vendor
-- turn
-- elbow
-- copy
-- observe
-- glory
-- right
-- middle
-- chimney
-- advance
-bip_39_word_space_1: oven
-bip_39_word_space_10: oven type vendor turn elbow copy observe glory right middle
-bip_39_word_space_11: oven type vendor turn elbow copy observe glory right middle
-  chimney
 bip_39_word_space_12: oven type vendor turn elbow copy observe glory right middle
   chimney advance
 bip_39_word_space_2: oven type
 bip_39_word_space_3: oven type vendor
-bip_39_word_space_4: oven type vendor turn
-bip_39_word_space_5: oven type vendor turn elbow
-bip_39_word_space_6: oven type vendor turn elbow copy
-bip_39_word_space_7: oven type vendor turn elbow copy observe
-bip_39_word_space_8: oven type vendor turn elbow copy observe glory
-bip_39_word_space_9: oven type vendor turn elbow copy observe glory right
-bip_39_word_underscore_1: oven
-bip_39_word_underscore_10: oven_type_vendor_turn_elbow_copy_observe_glory_right_middle
-bip_39_word_underscore_11: oven_type_vendor_turn_elbow_copy_observe_glory_right_middle_chimney
 bip_39_word_underscore_12: oven_type_vendor_turn_elbow_copy_observe_glory_right_middle_chimney_advance
 bip_39_word_underscore_2: oven_type
 bip_39_word_underscore_3: oven_type_vendor
-bip_39_word_underscore_4: oven_type_vendor_turn
-bip_39_word_underscore_5: oven_type_vendor_turn_elbow
-bip_39_word_underscore_6: oven_type_vendor_turn_elbow_copy
-bip_39_word_underscore_7: oven_type_vendor_turn_elbow_copy_observe
-bip_39_word_underscore_8: oven_type_vendor_turn_elbow_copy_observe_glory
-bip_39_word_underscore_9: oven_type_vendor_turn_elbow_copy_observe_glory_right
 classification: category
 classification_capital: Category
 classification_first_letter: c

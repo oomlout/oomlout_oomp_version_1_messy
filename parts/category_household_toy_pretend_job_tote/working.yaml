@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fancy
-bip_39_word_dash_10: fancy-essence-joy-govern-fox-celery-hour-renew-vocal-dignity
-bip_39_word_dash_11: fancy-essence-joy-govern-fox-celery-hour-renew-vocal-dignity-custom
 bip_39_word_dash_12: fancy-essence-joy-govern-fox-celery-hour-renew-vocal-dignity-custom-attack
 bip_39_word_dash_2: fancy-essence
 bip_39_word_dash_3: fancy-essence-joy
-bip_39_word_dash_4: fancy-essence-joy-govern
-bip_39_word_dash_5: fancy-essence-joy-govern-fox
-bip_39_word_dash_6: fancy-essence-joy-govern-fox-celery
-bip_39_word_dash_7: fancy-essence-joy-govern-fox-celery-hour
-bip_39_word_dash_8: fancy-essence-joy-govern-fox-celery-hour-renew
-bip_39_word_dash_9: fancy-essence-joy-govern-fox-celery-hour-renew-vocal
-bip_39_word_new_br_1: fancy
-bip_39_word_new_br_10: fancy<br>essence<br>joy<br>govern<br>fox<br>celery<br>hour<br>renew<br>vocal<br>dignity
-bip_39_word_new_br_11: fancy<br>essence<br>joy<br>govern<br>fox<br>celery<br>hour<br>renew<br>vocal<br>dignity<br>custom
 bip_39_word_new_br_12: fancy<br>essence<br>joy<br>govern<br>fox<br>celery<br>hour<br>renew<br>vocal<br>dignity<br>custom<br>attack
 bip_39_word_new_br_2: fancy<br>essence
 bip_39_word_new_br_3: fancy<br>essence<br>joy
-bip_39_word_new_br_4: fancy<br>essence<br>joy<br>govern
-bip_39_word_new_br_5: fancy<br>essence<br>joy<br>govern<br>fox
-bip_39_word_new_br_6: fancy<br>essence<br>joy<br>govern<br>fox<br>celery
-bip_39_word_new_br_7: fancy<br>essence<br>joy<br>govern<br>fox<br>celery<br>hour
-bip_39_word_new_br_8: fancy<br>essence<br>joy<br>govern<br>fox<br>celery<br>hour<br>renew
-bip_39_word_new_br_9: fancy<br>essence<br>joy<br>govern<br>fox<br>celery<br>hour<br>renew<br>vocal
-bip_39_word_new_line_1: fancy
-bip_39_word_new_line_10: 'fancy
-
-  essence
-
-  joy
-
-  govern
-
-  fox
-
-  celery
-
-  hour
-
-  renew
-
-  vocal
-
-  dignity'
-bip_39_word_new_line_11: 'fancy
-
-  essence
-
-  joy
-
-  govern
-
-  fox
-
-  celery
-
-  hour
-
-  renew
-
-  vocal
-
-  dignity
-
-  custom'
 bip_39_word_new_line_12: 'fancy
 
   essence
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fancy
   essence
 
   joy'
-bip_39_word_new_line_4: 'fancy
-
-  essence
-
-  joy
-
-  govern'
-bip_39_word_new_line_5: 'fancy
-
-  essence
-
-  joy
-
-  govern
-
-  fox'
-bip_39_word_new_line_6: 'fancy
-
-  essence
-
-  joy
-
-  govern
-
-  fox
-
-  celery'
-bip_39_word_new_line_7: 'fancy
-
-  essence
-
-  joy
-
-  govern
-
-  fox
-
-  celery
-
-  hour'
-bip_39_word_new_line_8: 'fancy
-
-  essence
-
-  joy
-
-  govern
-
-  fox
-
-  celery
-
-  hour
-
-  renew'
-bip_39_word_new_line_9: 'fancy
-
-  essence
-
-  joy
-
-  govern
-
-  fox
-
-  celery
-
-  hour
-
-  renew
-
-  vocal'
-bip_39_word_no_space_1: fancy
-bip_39_word_no_space_10: fancyessencejoygovernfoxceleryhourrenewvocaldignity
-bip_39_word_no_space_11: fancyessencejoygovernfoxceleryhourrenewvocaldignitycustom
 bip_39_word_no_space_12: fancyessencejoygovernfoxceleryhourrenewvocaldignitycustomattack
 bip_39_word_no_space_2: fancyessence
 bip_39_word_no_space_3: fancyessencejoy
-bip_39_word_no_space_4: fancyessencejoygovern
-bip_39_word_no_space_5: fancyessencejoygovernfox
-bip_39_word_no_space_6: fancyessencejoygovernfoxcelery
-bip_39_word_no_space_7: fancyessencejoygovernfoxceleryhour
-bip_39_word_no_space_8: fancyessencejoygovernfoxceleryhourrenew
-bip_39_word_no_space_9: fancyessencejoygovernfoxceleryhourrenewvocal
-bip_39_word_space_0:
-- fancy
-- essence
-- joy
-- govern
-- fox
-- celery
-- hour
-- renew
-- vocal
-- dignity
-- custom
-- attack
-bip_39_word_space_1: fancy
-bip_39_word_space_10: fancy essence joy govern fox celery hour renew vocal dignity
-bip_39_word_space_11: fancy essence joy govern fox celery hour renew vocal dignity
-  custom
 bip_39_word_space_12: fancy essence joy govern fox celery hour renew vocal dignity
   custom attack
 bip_39_word_space_2: fancy essence
 bip_39_word_space_3: fancy essence joy
-bip_39_word_space_4: fancy essence joy govern
-bip_39_word_space_5: fancy essence joy govern fox
-bip_39_word_space_6: fancy essence joy govern fox celery
-bip_39_word_space_7: fancy essence joy govern fox celery hour
-bip_39_word_space_8: fancy essence joy govern fox celery hour renew
-bip_39_word_space_9: fancy essence joy govern fox celery hour renew vocal
-bip_39_word_underscore_1: fancy
-bip_39_word_underscore_10: fancy_essence_joy_govern_fox_celery_hour_renew_vocal_dignity
-bip_39_word_underscore_11: fancy_essence_joy_govern_fox_celery_hour_renew_vocal_dignity_custom
 bip_39_word_underscore_12: fancy_essence_joy_govern_fox_celery_hour_renew_vocal_dignity_custom_attack
 bip_39_word_underscore_2: fancy_essence
 bip_39_word_underscore_3: fancy_essence_joy
-bip_39_word_underscore_4: fancy_essence_joy_govern
-bip_39_word_underscore_5: fancy_essence_joy_govern_fox
-bip_39_word_underscore_6: fancy_essence_joy_govern_fox_celery
-bip_39_word_underscore_7: fancy_essence_joy_govern_fox_celery_hour
-bip_39_word_underscore_8: fancy_essence_joy_govern_fox_celery_hour_renew
-bip_39_word_underscore_9: fancy_essence_joy_govern_fox_celery_hour_renew_vocal
 classification: category
 classification_capital: Category
 classification_first_letter: c
