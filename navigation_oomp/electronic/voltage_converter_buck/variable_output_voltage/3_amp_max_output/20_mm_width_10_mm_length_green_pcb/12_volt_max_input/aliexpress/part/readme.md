@@ -49,7 +49,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_variable_output_voltage_3_amp_max_output_20_mm_width_10_mm_length_green_pcb_12_volt_max_input_aliexpress) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_variable_output_voltage_3_amp_max_output_20_mm_width_10_mm_length_green_pcb_12_volt_max_input_aliexpress)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_variable_output_voltage_3_amp_max_output_20_mm_width_10_mm_length_green_pcb_12_volt_max_input_aliexpress) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_variable_output_voltage_3_amp_max_output_20_mm_width_10_mm_length_green_pcb_12_volt_max_input_aliexpress) [link_distributor_aliexpress](https://www.aliexpress.com/item/1005007092498838.html)                            
 
 #### price
 
@@ -80,6 +80,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_variable_output_voltage_3_amp_max_output_20_mm_width_10_mm_length_green_pcb_12_volt_max_input_aliexpress |  
 | link_2_name | link_github |  
+| link_3 | https://www.aliexpress.com/item/1005007092498838.html |  
+| link_3_name | link_distributor_aliexpress |  
+| link_buy_1 | https://www.aliexpress.com/item/1005007092498838.html |  
+| link_buy_1_name | link_distributor_aliexpress |  
 | link_distributor_aliexpress | https://www.aliexpress.com/item/1005007092498838.html |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_variable_output_voltage_3_amp_max_output_20_mm_width_10_mm_length_green_pcb_12_volt_max_input_aliexpress |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_variable_output_voltage_3_amp_max_output_20_mm_width_10_mm_length_green_pcb_12_volt_max_input_aliexpress |  

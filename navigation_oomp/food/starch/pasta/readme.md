@@ -1,6 +1,7 @@
 * [fusilli](fusilli)
   * [box_500_gram](fusilli/box_500_gram)
     * [barilla](fusilli/box_500_gram/barilla)
+* [macaroni](macaroni)
 * [penne](penne)
 * [spaghetti](spaghetti)
   * [box_500_gram](spaghetti/box_500_gram)

@@ -49,7 +49,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200) [link_distributor_aliexpress](https://www.aliexpress.com/item/1005005544254172.html)                            
 
 #### price
 
@@ -79,6 +79,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
 | link_2_name | link_github |  
+| link_3 | https://www.aliexpress.com/item/1005005544254172.html |  
+| link_3_name | link_distributor_aliexpress |  
+| link_buy_1 | https://www.aliexpress.com/item/1005005544254172.html |  
+| link_buy_1_name | link_distributor_aliexpress |  
 | link_distributor_aliexpress | https://www.aliexpress.com/item/1005005544254172.html |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200 |  

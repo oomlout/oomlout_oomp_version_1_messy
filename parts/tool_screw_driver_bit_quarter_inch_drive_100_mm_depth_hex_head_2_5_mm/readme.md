@@ -49,7 +49,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm) [link_distributor_aliexpress](https://www.aliexpress.com/item/1005007111223127.html)                            
 
 #### price
 
@@ -81,6 +81,11 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm |  
 | link_2_name | link_github |  
+| link_3 | https://www.aliexpress.com/item/1005007111223127.html |  
+| link_3_name | link_distributor_aliexpress |  
+| link_buy_1 | https://www.aliexpress.com/item/1005007111223127.html |  
+| link_buy_1_name | link_distributor_aliexpress |  
+| link_distributor_aliexpress | https://www.aliexpress.com/item/1005007111223127.html |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205i8be |  
@@ -111,6 +116,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':scroll:', ':princess:', ':golf:'] |  
 | oomp_word_list | ['scroll', 'princess', 'golf'] |  
 | part_number |  |  
+| part_number_distributor_aliexpress | 1005007111223127 |  
 | part_number_name |  |  
 | short_code |  |  
 | size | quarter_inch_drive_100_mm_depth |  

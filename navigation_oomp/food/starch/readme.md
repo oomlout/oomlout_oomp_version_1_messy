@@ -8,6 +8,7 @@
   * [fusilli](pasta/fusilli)
     * [box_500_gram](pasta/fusilli/box_500_gram)
       * [barilla](pasta/fusilli/box_500_gram/barilla)
+  * [macaroni](pasta/macaroni)
   * [penne](pasta/penne)
   * [spaghetti](pasta/spaghetti)
     * [box_500_gram](pasta/spaghetti/box_500_gram)

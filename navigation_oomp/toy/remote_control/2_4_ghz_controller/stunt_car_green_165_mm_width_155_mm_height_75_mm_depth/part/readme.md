@@ -49,7 +49,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth) [link_distributor_aliexpress](https://www.aliexpress.com/item/1005006841176949.html)                            
 
 #### price
 
@@ -80,6 +80,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
 | link_2_name | link_github |  
+| link_3 | https://www.aliexpress.com/item/1005006841176949.html |  
+| link_3_name | link_distributor_aliexpress |  
+| link_buy_1 | https://www.aliexpress.com/item/1005006841176949.html |  
+| link_buy_1_name | link_distributor_aliexpress |  
 | link_distributor_aliexpress | https://www.aliexpress.com/item/1005006841176949.html |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth |  

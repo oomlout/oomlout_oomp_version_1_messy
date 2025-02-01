@@ -49,7 +49,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_aliexpress) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_aliexpress)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_aliexpress) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_aliexpress) [link_distributor_aliexpress](https://www.aliexpress.com/item/1005006080168104.html)                            
 
 #### price
 
@@ -79,6 +79,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_aliexpress |  
 | link_2_name | link_github |  
+| link_3 | https://www.aliexpress.com/item/1005006080168104.html |  
+| link_3_name | link_distributor_aliexpress |  
+| link_buy_1 | https://www.aliexpress.com/item/1005006080168104.html |  
+| link_buy_1_name | link_distributor_aliexpress |  
 | link_distributor_aliexpress | https://www.aliexpress.com/item/1005006080168104.html |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_aliexpress |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_aliexpress |  

@@ -111,6 +111,11 @@ link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/
 link_1_name: link_main
 link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
 link_2_name: link_github
+link_3: https://www.amazon.co.uk/gp/product/B000Y8W54C
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/gp/product/B000Y8W54C
+link_buy_1_name: link_distributor_amazon
+link_distributor_amazon: https://www.amazon.co.uk/gp/product/B000Y8W54C
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202xccs
@@ -167,6 +172,10 @@ name_no_color: Stanley130696
 name_no_size: Stanley 1 30 696
 name_no_size_short: Stanley 1 30 696
 name_no_type: 5000 mm Length Stanley 1 30 696
+oobb_tool_holder_depth: 42
+oobb_tool_holder_height: 74
+oobb_tool_holder_shape: cube
+oobb_tool_holder_width: 78
 oomlout_detail_hierarchy_1: tool
 oomlout_detail_hierarchy_1_upper: TOOL
 oomlout_detail_hierarchy_1_upper_length_4: TOOL
@@ -196,7 +205,8 @@ oomp_word_list:
 - watermelon
 part_number: '1_30_696'
 part_number_capital: 1.30 696
-part_number_esact: 1-30-696
+part_number_distributor_amazon: B000Y8W54C
+part_number_exact: 1-30-696
 part_number_first_letter: '1'
 part_number_first_letter_upper: '1'
 part_number_length_1: '1'
@@ -228,6 +238,7 @@ part_number_upper_length_6: '1_30_6'
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 5000_mm_length
