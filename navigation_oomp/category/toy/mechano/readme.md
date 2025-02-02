@@ -1,5 +1,0 @@
-* [car_remote_control](car_remote_control)
-  * [cubby_box](car_remote_control/cubby_box)
-  * [tote](car_remote_control/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

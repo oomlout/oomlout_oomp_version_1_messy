@@ -1,8 +1,0 @@
-* [cubby_box](cubby_box)
-* [disposable](disposable)
-  * [cubby_box](disposable/cubby_box)
-  * [toothpick](disposable/toothpick)
-    * [cubby_box](disposable/toothpick/cubby_box)
-    * [tote](disposable/toothpick/tote)
-  * [tote](disposable/tote)
-* [tote](tote)

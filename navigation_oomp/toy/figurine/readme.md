@@ -1,7 +1,0 @@
-* [branded](branded)
-  * [num_nom](branded/num_nom)
-    * [mixed](branded/num_nom/mixed)
-  * [squismallow](branded/squismallow)
-    * [small](branded/squismallow/small)
-* [small](small)
-  * [animal_mixed](small/animal_mixed)

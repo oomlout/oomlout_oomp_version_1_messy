@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [home_site](home_site)
-  * [cubby_box](home_site/cubby_box)
-  * [tote](home_site/tote)
-* [tote](tote)

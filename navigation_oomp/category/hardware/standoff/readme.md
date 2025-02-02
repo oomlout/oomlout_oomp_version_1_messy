@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [m3](m3)
-  * [cubby_box](m3/cubby_box)
-  * [tote](m3/tote)
-* [tote](tote)

@@ -1,8 +1,0 @@
-* [12_volt](12_volt)
-  * [cubby_box](12_volt/cubby_box)
-  * [tote](12_volt/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)
-* [variable_output_voltage](variable_output_voltage)
-  * [cubby_box](variable_output_voltage/cubby_box)
-  * [tote](variable_output_voltage/tote)

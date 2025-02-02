@@ -1,6 +1,0 @@
-* [black](black)
-  * [35_mm_length](black/35_mm_length)
-    * [hex_head](black/35_mm_length/hex_head)
-* [stainless_steel](stainless_steel)
-  * [35_mm_length](stainless_steel/35_mm_length)
-    * [hex_head](stainless_steel/35_mm_length/hex_head)

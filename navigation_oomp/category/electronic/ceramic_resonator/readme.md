@@ -1,5 +1,0 @@
-* [3213](3213)
-  * [cubby_box](3213/cubby_box)
-  * [tote](3213/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

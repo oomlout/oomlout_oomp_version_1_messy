@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [pyrex](pyrex)
-  * [cubby_box](pyrex/cubby_box)
-  * [tote](pyrex/tote)
-* [tote](tote)

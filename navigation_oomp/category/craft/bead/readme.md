@@ -1,8 +1,0 @@
-* [cubby_box](cubby_box)
-* [iron_melt](iron_melt)
-  * [cubby_box](iron_melt/cubby_box)
-  * [tote](iron_melt/tote)
-* [medium_thread_hole](medium_thread_hole)
-  * [cubby_box](medium_thread_hole/cubby_box)
-  * [tote](medium_thread_hole/tote)
-* [tote](tote)

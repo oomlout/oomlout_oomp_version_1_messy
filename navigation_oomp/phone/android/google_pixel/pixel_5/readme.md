@@ -1,1 +1,0 @@
-* [71_mm_width_145_mm_height_8_mm_depth](71_mm_width_145_mm_height_8_mm_depth)

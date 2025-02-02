@@ -1,5 +1,0 @@
-* [generic](generic)
-  * [ptfe_tube](generic/ptfe_tube)
-  * [ptfe_tube_connector_push_lock](generic/ptfe_tube_connector_push_lock)
-    * [m10](generic/ptfe_tube_connector_push_lock/m10)
-    * [m6](generic/ptfe_tube_connector_push_lock/m6)

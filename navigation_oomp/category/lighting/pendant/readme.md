@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [ikea_slattbo](ikea_slattbo)
-  * [cubby_box](ikea_slattbo/cubby_box)
-  * [tote](ikea_slattbo/tote)
-* [tote](tote)

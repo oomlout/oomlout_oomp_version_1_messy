@@ -1,5 +1,0 @@
-* [2_4_ghz_controller](2_4_ghz_controller)
-  * [cubby_box](2_4_ghz_controller/cubby_box)
-  * [tote](2_4_ghz_controller/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

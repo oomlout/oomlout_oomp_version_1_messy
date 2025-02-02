@@ -1,8 +1,0 @@
-* [a4](a4)
-  * [cubby_box](a4/cubby_box)
-  * [tote](a4/tote)
-* [cubby_box](cubby_box)
-* [photo](photo)
-  * [cubby_box](photo/cubby_box)
-  * [tote](photo/tote)
-* [tote](tote)

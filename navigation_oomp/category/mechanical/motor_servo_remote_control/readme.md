@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [micro](micro)
-  * [cubby_box](micro/cubby_box)
-  * [tote](micro/tote)
-* [tote](tote)

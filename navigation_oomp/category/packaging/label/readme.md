@@ -1,5 +1,0 @@
-* [25_mm_x_25_mm](25_mm_x_25_mm)
-  * [cubby_box](25_mm_x_25_mm/cubby_box)
-  * [tote](25_mm_x_25_mm/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

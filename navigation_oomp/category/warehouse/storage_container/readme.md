@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [oomlout_owner](oomlout_owner)
-  * [cubby_box](oomlout_owner/cubby_box)
-  * [tote](oomlout_owner/tote)
-* [tote](tote)

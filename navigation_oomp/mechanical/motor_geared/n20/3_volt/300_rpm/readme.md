@@ -1,1 +1,0 @@
-* [3_mm_diameter_10_mm_length_d_shape_shaft](3_mm_diameter_10_mm_length_d_shape_shaft)

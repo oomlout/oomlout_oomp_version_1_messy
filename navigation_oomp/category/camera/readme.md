@@ -1,8 +1,0 @@
-* [cctv_dome](cctv_dome)
-  * [140_mm](cctv_dome/140_mm)
-    * [cubby_box](cctv_dome/140_mm/cubby_box)
-    * [tote](cctv_dome/140_mm/tote)
-  * [cubby_box](cctv_dome/cubby_box)
-  * [tote](cctv_dome/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)
