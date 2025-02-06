@@ -1,0 +1,8 @@
+* [cubby_box](cubby_box)
+* [part](part)
+  * [cubby_box](part/cubby_box)
+  * [robot_vacuum_roomba_500_series](part/robot_vacuum_roomba_500_series)
+    * [cubby_box](part/robot_vacuum_roomba_500_series/cubby_box)
+    * [tote](part/robot_vacuum_roomba_500_series/tote)
+  * [tote](part/tote)
+* [tote](tote)
