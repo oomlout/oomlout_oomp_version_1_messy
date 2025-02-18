@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bounce
-bip_39_word_dash_10: bounce-picnic-try-width-sleep-unaware-blind-physical-alley-adjust
-bip_39_word_dash_11: bounce-picnic-try-width-sleep-unaware-blind-physical-alley-adjust-clutch
 bip_39_word_dash_12: bounce-picnic-try-width-sleep-unaware-blind-physical-alley-adjust-clutch-allow
 bip_39_word_dash_2: bounce-picnic
 bip_39_word_dash_3: bounce-picnic-try
-bip_39_word_dash_4: bounce-picnic-try-width
-bip_39_word_dash_5: bounce-picnic-try-width-sleep
-bip_39_word_dash_6: bounce-picnic-try-width-sleep-unaware
-bip_39_word_dash_7: bounce-picnic-try-width-sleep-unaware-blind
-bip_39_word_dash_8: bounce-picnic-try-width-sleep-unaware-blind-physical
-bip_39_word_dash_9: bounce-picnic-try-width-sleep-unaware-blind-physical-alley
-bip_39_word_new_br_1: bounce
-bip_39_word_new_br_10: bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust
-bip_39_word_new_br_11: bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust<br>clutch
 bip_39_word_new_br_12: bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley<br>adjust<br>clutch<br>allow
 bip_39_word_new_br_2: bounce<br>picnic
 bip_39_word_new_br_3: bounce<br>picnic<br>try
-bip_39_word_new_br_4: bounce<br>picnic<br>try<br>width
-bip_39_word_new_br_5: bounce<br>picnic<br>try<br>width<br>sleep
-bip_39_word_new_br_6: bounce<br>picnic<br>try<br>width<br>sleep<br>unaware
-bip_39_word_new_br_7: bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind
-bip_39_word_new_br_8: bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical
-bip_39_word_new_br_9: bounce<br>picnic<br>try<br>width<br>sleep<br>unaware<br>blind<br>physical<br>alley
-bip_39_word_new_line_1: bounce
-bip_39_word_new_line_10: 'bounce
-
-  picnic
-
-  try
-
-  width
-
-  sleep
-
-  unaware
-
-  blind
-
-  physical
-
-  alley
-
-  adjust'
-bip_39_word_new_line_11: 'bounce
-
-  picnic
-
-  try
-
-  width
-
-  sleep
-
-  unaware
-
-  blind
-
-  physical
-
-  alley
-
-  adjust
-
-  clutch'
 bip_39_word_new_line_12: 'bounce
 
   picnic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bounce
   picnic
 
   try'
-bip_39_word_new_line_4: 'bounce
-
-  picnic
-
-  try
-
-  width'
-bip_39_word_new_line_5: 'bounce
-
-  picnic
-
-  try
-
-  width
-
-  sleep'
-bip_39_word_new_line_6: 'bounce
-
-  picnic
-
-  try
-
-  width
-
-  sleep
-
-  unaware'
-bip_39_word_new_line_7: 'bounce
-
-  picnic
-
-  try
-
-  width
-
-  sleep
-
-  unaware
-
-  blind'
-bip_39_word_new_line_8: 'bounce
-
-  picnic
-
-  try
-
-  width
-
-  sleep
-
-  unaware
-
-  blind
-
-  physical'
-bip_39_word_new_line_9: 'bounce
-
-  picnic
-
-  try
-
-  width
-
-  sleep
-
-  unaware
-
-  blind
-
-  physical
-
-  alley'
-bip_39_word_no_space_1: bounce
-bip_39_word_no_space_10: bouncepicnictrywidthsleepunawareblindphysicalalleyadjust
-bip_39_word_no_space_11: bouncepicnictrywidthsleepunawareblindphysicalalleyadjustclutch
 bip_39_word_no_space_12: bouncepicnictrywidthsleepunawareblindphysicalalleyadjustclutchallow
 bip_39_word_no_space_2: bouncepicnic
 bip_39_word_no_space_3: bouncepicnictry
-bip_39_word_no_space_4: bouncepicnictrywidth
-bip_39_word_no_space_5: bouncepicnictrywidthsleep
-bip_39_word_no_space_6: bouncepicnictrywidthsleepunaware
-bip_39_word_no_space_7: bouncepicnictrywidthsleepunawareblind
-bip_39_word_no_space_8: bouncepicnictrywidthsleepunawareblindphysical
-bip_39_word_no_space_9: bouncepicnictrywidthsleepunawareblindphysicalalley
-bip_39_word_space_0:
-- bounce
-- picnic
-- try
-- width
-- sleep
-- unaware
-- blind
-- physical
-- alley
-- adjust
-- clutch
-- allow
-bip_39_word_space_1: bounce
-bip_39_word_space_10: bounce picnic try width sleep unaware blind physical alley adjust
-bip_39_word_space_11: bounce picnic try width sleep unaware blind physical alley adjust
-  clutch
 bip_39_word_space_12: bounce picnic try width sleep unaware blind physical alley adjust
   clutch allow
 bip_39_word_space_2: bounce picnic
 bip_39_word_space_3: bounce picnic try
-bip_39_word_space_4: bounce picnic try width
-bip_39_word_space_5: bounce picnic try width sleep
-bip_39_word_space_6: bounce picnic try width sleep unaware
-bip_39_word_space_7: bounce picnic try width sleep unaware blind
-bip_39_word_space_8: bounce picnic try width sleep unaware blind physical
-bip_39_word_space_9: bounce picnic try width sleep unaware blind physical alley
-bip_39_word_underscore_1: bounce
-bip_39_word_underscore_10: bounce_picnic_try_width_sleep_unaware_blind_physical_alley_adjust
-bip_39_word_underscore_11: bounce_picnic_try_width_sleep_unaware_blind_physical_alley_adjust_clutch
 bip_39_word_underscore_12: bounce_picnic_try_width_sleep_unaware_blind_physical_alley_adjust_clutch_allow
 bip_39_word_underscore_2: bounce_picnic
 bip_39_word_underscore_3: bounce_picnic_try
-bip_39_word_underscore_4: bounce_picnic_try_width
-bip_39_word_underscore_5: bounce_picnic_try_width_sleep
-bip_39_word_underscore_6: bounce_picnic_try_width_sleep_unaware
-bip_39_word_underscore_7: bounce_picnic_try_width_sleep_unaware_blind
-bip_39_word_underscore_8: bounce_picnic_try_width_sleep_unaware_blind_physical
-bip_39_word_underscore_9: bounce_picnic_try_width_sleep_unaware_blind_physical_alley
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

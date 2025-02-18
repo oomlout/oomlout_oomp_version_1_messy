@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pause
-bip_39_word_dash_10: pause-laundry-else-obey-artefact-ivory-kit-position-pair-youth
-bip_39_word_dash_11: pause-laundry-else-obey-artefact-ivory-kit-position-pair-youth-tackle
 bip_39_word_dash_12: pause-laundry-else-obey-artefact-ivory-kit-position-pair-youth-tackle-again
 bip_39_word_dash_2: pause-laundry
 bip_39_word_dash_3: pause-laundry-else
-bip_39_word_dash_4: pause-laundry-else-obey
-bip_39_word_dash_5: pause-laundry-else-obey-artefact
-bip_39_word_dash_6: pause-laundry-else-obey-artefact-ivory
-bip_39_word_dash_7: pause-laundry-else-obey-artefact-ivory-kit
-bip_39_word_dash_8: pause-laundry-else-obey-artefact-ivory-kit-position
-bip_39_word_dash_9: pause-laundry-else-obey-artefact-ivory-kit-position-pair
-bip_39_word_new_br_1: pause
-bip_39_word_new_br_10: pause<br>laundry<br>else<br>obey<br>artefact<br>ivory<br>kit<br>position<br>pair<br>youth
-bip_39_word_new_br_11: pause<br>laundry<br>else<br>obey<br>artefact<br>ivory<br>kit<br>position<br>pair<br>youth<br>tackle
 bip_39_word_new_br_12: pause<br>laundry<br>else<br>obey<br>artefact<br>ivory<br>kit<br>position<br>pair<br>youth<br>tackle<br>again
 bip_39_word_new_br_2: pause<br>laundry
 bip_39_word_new_br_3: pause<br>laundry<br>else
-bip_39_word_new_br_4: pause<br>laundry<br>else<br>obey
-bip_39_word_new_br_5: pause<br>laundry<br>else<br>obey<br>artefact
-bip_39_word_new_br_6: pause<br>laundry<br>else<br>obey<br>artefact<br>ivory
-bip_39_word_new_br_7: pause<br>laundry<br>else<br>obey<br>artefact<br>ivory<br>kit
-bip_39_word_new_br_8: pause<br>laundry<br>else<br>obey<br>artefact<br>ivory<br>kit<br>position
-bip_39_word_new_br_9: pause<br>laundry<br>else<br>obey<br>artefact<br>ivory<br>kit<br>position<br>pair
-bip_39_word_new_line_1: pause
-bip_39_word_new_line_10: 'pause
-
-  laundry
-
-  else
-
-  obey
-
-  artefact
-
-  ivory
-
-  kit
-
-  position
-
-  pair
-
-  youth'
-bip_39_word_new_line_11: 'pause
-
-  laundry
-
-  else
-
-  obey
-
-  artefact
-
-  ivory
-
-  kit
-
-  position
-
-  pair
-
-  youth
-
-  tackle'
 bip_39_word_new_line_12: 'pause
 
   laundry
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pause
   laundry
 
   else'
-bip_39_word_new_line_4: 'pause
-
-  laundry
-
-  else
-
-  obey'
-bip_39_word_new_line_5: 'pause
-
-  laundry
-
-  else
-
-  obey
-
-  artefact'
-bip_39_word_new_line_6: 'pause
-
-  laundry
-
-  else
-
-  obey
-
-  artefact
-
-  ivory'
-bip_39_word_new_line_7: 'pause
-
-  laundry
-
-  else
-
-  obey
-
-  artefact
-
-  ivory
-
-  kit'
-bip_39_word_new_line_8: 'pause
-
-  laundry
-
-  else
-
-  obey
-
-  artefact
-
-  ivory
-
-  kit
-
-  position'
-bip_39_word_new_line_9: 'pause
-
-  laundry
-
-  else
-
-  obey
-
-  artefact
-
-  ivory
-
-  kit
-
-  position
-
-  pair'
-bip_39_word_no_space_1: pause
-bip_39_word_no_space_10: pauselaundryelseobeyartefactivorykitpositionpairyouth
-bip_39_word_no_space_11: pauselaundryelseobeyartefactivorykitpositionpairyouthtackle
 bip_39_word_no_space_12: pauselaundryelseobeyartefactivorykitpositionpairyouthtackleagain
 bip_39_word_no_space_2: pauselaundry
 bip_39_word_no_space_3: pauselaundryelse
-bip_39_word_no_space_4: pauselaundryelseobey
-bip_39_word_no_space_5: pauselaundryelseobeyartefact
-bip_39_word_no_space_6: pauselaundryelseobeyartefactivory
-bip_39_word_no_space_7: pauselaundryelseobeyartefactivorykit
-bip_39_word_no_space_8: pauselaundryelseobeyartefactivorykitposition
-bip_39_word_no_space_9: pauselaundryelseobeyartefactivorykitpositionpair
-bip_39_word_space_0:
-- pause
-- laundry
-- else
-- obey
-- artefact
-- ivory
-- kit
-- position
-- pair
-- youth
-- tackle
-- again
-bip_39_word_space_1: pause
-bip_39_word_space_10: pause laundry else obey artefact ivory kit position pair youth
-bip_39_word_space_11: pause laundry else obey artefact ivory kit position pair youth
-  tackle
 bip_39_word_space_12: pause laundry else obey artefact ivory kit position pair youth
   tackle again
 bip_39_word_space_2: pause laundry
 bip_39_word_space_3: pause laundry else
-bip_39_word_space_4: pause laundry else obey
-bip_39_word_space_5: pause laundry else obey artefact
-bip_39_word_space_6: pause laundry else obey artefact ivory
-bip_39_word_space_7: pause laundry else obey artefact ivory kit
-bip_39_word_space_8: pause laundry else obey artefact ivory kit position
-bip_39_word_space_9: pause laundry else obey artefact ivory kit position pair
-bip_39_word_underscore_1: pause
-bip_39_word_underscore_10: pause_laundry_else_obey_artefact_ivory_kit_position_pair_youth
-bip_39_word_underscore_11: pause_laundry_else_obey_artefact_ivory_kit_position_pair_youth_tackle
 bip_39_word_underscore_12: pause_laundry_else_obey_artefact_ivory_kit_position_pair_youth_tackle_again
 bip_39_word_underscore_2: pause_laundry
 bip_39_word_underscore_3: pause_laundry_else
-bip_39_word_underscore_4: pause_laundry_else_obey
-bip_39_word_underscore_5: pause_laundry_else_obey_artefact
-bip_39_word_underscore_6: pause_laundry_else_obey_artefact_ivory
-bip_39_word_underscore_7: pause_laundry_else_obey_artefact_ivory_kit
-bip_39_word_underscore_8: pause_laundry_else_obey_artefact_ivory_kit_position
-bip_39_word_underscore_9: pause_laundry_else_obey_artefact_ivory_kit_position_pair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

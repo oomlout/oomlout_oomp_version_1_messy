@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cube
-bip_39_word_dash_10: cube-purse-motion-eager-kangaroo-spin-sort-vendor-speed-prepare
-bip_39_word_dash_11: cube-purse-motion-eager-kangaroo-spin-sort-vendor-speed-prepare-pistol
 bip_39_word_dash_12: cube-purse-motion-eager-kangaroo-spin-sort-vendor-speed-prepare-pistol-assume
 bip_39_word_dash_2: cube-purse
 bip_39_word_dash_3: cube-purse-motion
-bip_39_word_dash_4: cube-purse-motion-eager
-bip_39_word_dash_5: cube-purse-motion-eager-kangaroo
-bip_39_word_dash_6: cube-purse-motion-eager-kangaroo-spin
-bip_39_word_dash_7: cube-purse-motion-eager-kangaroo-spin-sort
-bip_39_word_dash_8: cube-purse-motion-eager-kangaroo-spin-sort-vendor
-bip_39_word_dash_9: cube-purse-motion-eager-kangaroo-spin-sort-vendor-speed
-bip_39_word_new_br_1: cube
-bip_39_word_new_br_10: cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare
-bip_39_word_new_br_11: cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare<br>pistol
 bip_39_word_new_br_12: cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed<br>prepare<br>pistol<br>assume
 bip_39_word_new_br_2: cube<br>purse
 bip_39_word_new_br_3: cube<br>purse<br>motion
-bip_39_word_new_br_4: cube<br>purse<br>motion<br>eager
-bip_39_word_new_br_5: cube<br>purse<br>motion<br>eager<br>kangaroo
-bip_39_word_new_br_6: cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin
-bip_39_word_new_br_7: cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort
-bip_39_word_new_br_8: cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor
-bip_39_word_new_br_9: cube<br>purse<br>motion<br>eager<br>kangaroo<br>spin<br>sort<br>vendor<br>speed
-bip_39_word_new_line_1: cube
-bip_39_word_new_line_10: 'cube
-
-  purse
-
-  motion
-
-  eager
-
-  kangaroo
-
-  spin
-
-  sort
-
-  vendor
-
-  speed
-
-  prepare'
-bip_39_word_new_line_11: 'cube
-
-  purse
-
-  motion
-
-  eager
-
-  kangaroo
-
-  spin
-
-  sort
-
-  vendor
-
-  speed
-
-  prepare
-
-  pistol'
 bip_39_word_new_line_12: 'cube
 
   purse
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cube
   purse
 
   motion'
-bip_39_word_new_line_4: 'cube
-
-  purse
-
-  motion
-
-  eager'
-bip_39_word_new_line_5: 'cube
-
-  purse
-
-  motion
-
-  eager
-
-  kangaroo'
-bip_39_word_new_line_6: 'cube
-
-  purse
-
-  motion
-
-  eager
-
-  kangaroo
-
-  spin'
-bip_39_word_new_line_7: 'cube
-
-  purse
-
-  motion
-
-  eager
-
-  kangaroo
-
-  spin
-
-  sort'
-bip_39_word_new_line_8: 'cube
-
-  purse
-
-  motion
-
-  eager
-
-  kangaroo
-
-  spin
-
-  sort
-
-  vendor'
-bip_39_word_new_line_9: 'cube
-
-  purse
-
-  motion
-
-  eager
-
-  kangaroo
-
-  spin
-
-  sort
-
-  vendor
-
-  speed'
-bip_39_word_no_space_1: cube
-bip_39_word_no_space_10: cubepursemotioneagerkangaroospinsortvendorspeedprepare
-bip_39_word_no_space_11: cubepursemotioneagerkangaroospinsortvendorspeedpreparepistol
 bip_39_word_no_space_12: cubepursemotioneagerkangaroospinsortvendorspeedpreparepistolassume
 bip_39_word_no_space_2: cubepurse
 bip_39_word_no_space_3: cubepursemotion
-bip_39_word_no_space_4: cubepursemotioneager
-bip_39_word_no_space_5: cubepursemotioneagerkangaroo
-bip_39_word_no_space_6: cubepursemotioneagerkangaroospin
-bip_39_word_no_space_7: cubepursemotioneagerkangaroospinsort
-bip_39_word_no_space_8: cubepursemotioneagerkangaroospinsortvendor
-bip_39_word_no_space_9: cubepursemotioneagerkangaroospinsortvendorspeed
-bip_39_word_space_0:
-- cube
-- purse
-- motion
-- eager
-- kangaroo
-- spin
-- sort
-- vendor
-- speed
-- prepare
-- pistol
-- assume
-bip_39_word_space_1: cube
-bip_39_word_space_10: cube purse motion eager kangaroo spin sort vendor speed prepare
-bip_39_word_space_11: cube purse motion eager kangaroo spin sort vendor speed prepare
-  pistol
 bip_39_word_space_12: cube purse motion eager kangaroo spin sort vendor speed prepare
   pistol assume
 bip_39_word_space_2: cube purse
 bip_39_word_space_3: cube purse motion
-bip_39_word_space_4: cube purse motion eager
-bip_39_word_space_5: cube purse motion eager kangaroo
-bip_39_word_space_6: cube purse motion eager kangaroo spin
-bip_39_word_space_7: cube purse motion eager kangaroo spin sort
-bip_39_word_space_8: cube purse motion eager kangaroo spin sort vendor
-bip_39_word_space_9: cube purse motion eager kangaroo spin sort vendor speed
-bip_39_word_underscore_1: cube
-bip_39_word_underscore_10: cube_purse_motion_eager_kangaroo_spin_sort_vendor_speed_prepare
-bip_39_word_underscore_11: cube_purse_motion_eager_kangaroo_spin_sort_vendor_speed_prepare_pistol
 bip_39_word_underscore_12: cube_purse_motion_eager_kangaroo_spin_sort_vendor_speed_prepare_pistol_assume
 bip_39_word_underscore_2: cube_purse
 bip_39_word_underscore_3: cube_purse_motion
-bip_39_word_underscore_4: cube_purse_motion_eager
-bip_39_word_underscore_5: cube_purse_motion_eager_kangaroo
-bip_39_word_underscore_6: cube_purse_motion_eager_kangaroo_spin
-bip_39_word_underscore_7: cube_purse_motion_eager_kangaroo_spin_sort
-bip_39_word_underscore_8: cube_purse_motion_eager_kangaroo_spin_sort_vendor
-bip_39_word_underscore_9: cube_purse_motion_eager_kangaroo_spin_sort_vendor_speed
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

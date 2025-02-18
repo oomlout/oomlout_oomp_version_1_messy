@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stand
-bip_39_word_dash_10: stand-leaf-return-crane-decrease-junk-snap-balcony-promote-lawn
-bip_39_word_dash_11: stand-leaf-return-crane-decrease-junk-snap-balcony-promote-lawn-trap
 bip_39_word_dash_12: stand-leaf-return-crane-decrease-junk-snap-balcony-promote-lawn-trap-accident
 bip_39_word_dash_2: stand-leaf
 bip_39_word_dash_3: stand-leaf-return
-bip_39_word_dash_4: stand-leaf-return-crane
-bip_39_word_dash_5: stand-leaf-return-crane-decrease
-bip_39_word_dash_6: stand-leaf-return-crane-decrease-junk
-bip_39_word_dash_7: stand-leaf-return-crane-decrease-junk-snap
-bip_39_word_dash_8: stand-leaf-return-crane-decrease-junk-snap-balcony
-bip_39_word_dash_9: stand-leaf-return-crane-decrease-junk-snap-balcony-promote
-bip_39_word_new_br_1: stand
-bip_39_word_new_br_10: stand<br>leaf<br>return<br>crane<br>decrease<br>junk<br>snap<br>balcony<br>promote<br>lawn
-bip_39_word_new_br_11: stand<br>leaf<br>return<br>crane<br>decrease<br>junk<br>snap<br>balcony<br>promote<br>lawn<br>trap
 bip_39_word_new_br_12: stand<br>leaf<br>return<br>crane<br>decrease<br>junk<br>snap<br>balcony<br>promote<br>lawn<br>trap<br>accident
 bip_39_word_new_br_2: stand<br>leaf
 bip_39_word_new_br_3: stand<br>leaf<br>return
-bip_39_word_new_br_4: stand<br>leaf<br>return<br>crane
-bip_39_word_new_br_5: stand<br>leaf<br>return<br>crane<br>decrease
-bip_39_word_new_br_6: stand<br>leaf<br>return<br>crane<br>decrease<br>junk
-bip_39_word_new_br_7: stand<br>leaf<br>return<br>crane<br>decrease<br>junk<br>snap
-bip_39_word_new_br_8: stand<br>leaf<br>return<br>crane<br>decrease<br>junk<br>snap<br>balcony
-bip_39_word_new_br_9: stand<br>leaf<br>return<br>crane<br>decrease<br>junk<br>snap<br>balcony<br>promote
-bip_39_word_new_line_1: stand
-bip_39_word_new_line_10: 'stand
-
-  leaf
-
-  return
-
-  crane
-
-  decrease
-
-  junk
-
-  snap
-
-  balcony
-
-  promote
-
-  lawn'
-bip_39_word_new_line_11: 'stand
-
-  leaf
-
-  return
-
-  crane
-
-  decrease
-
-  junk
-
-  snap
-
-  balcony
-
-  promote
-
-  lawn
-
-  trap'
 bip_39_word_new_line_12: 'stand
 
   leaf
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'stand
   leaf
 
   return'
-bip_39_word_new_line_4: 'stand
-
-  leaf
-
-  return
-
-  crane'
-bip_39_word_new_line_5: 'stand
-
-  leaf
-
-  return
-
-  crane
-
-  decrease'
-bip_39_word_new_line_6: 'stand
-
-  leaf
-
-  return
-
-  crane
-
-  decrease
-
-  junk'
-bip_39_word_new_line_7: 'stand
-
-  leaf
-
-  return
-
-  crane
-
-  decrease
-
-  junk
-
-  snap'
-bip_39_word_new_line_8: 'stand
-
-  leaf
-
-  return
-
-  crane
-
-  decrease
-
-  junk
-
-  snap
-
-  balcony'
-bip_39_word_new_line_9: 'stand
-
-  leaf
-
-  return
-
-  crane
-
-  decrease
-
-  junk
-
-  snap
-
-  balcony
-
-  promote'
-bip_39_word_no_space_1: stand
-bip_39_word_no_space_10: standleafreturncranedecreasejunksnapbalconypromotelawn
-bip_39_word_no_space_11: standleafreturncranedecreasejunksnapbalconypromotelawntrap
 bip_39_word_no_space_12: standleafreturncranedecreasejunksnapbalconypromotelawntrapaccident
 bip_39_word_no_space_2: standleaf
 bip_39_word_no_space_3: standleafreturn
-bip_39_word_no_space_4: standleafreturncrane
-bip_39_word_no_space_5: standleafreturncranedecrease
-bip_39_word_no_space_6: standleafreturncranedecreasejunk
-bip_39_word_no_space_7: standleafreturncranedecreasejunksnap
-bip_39_word_no_space_8: standleafreturncranedecreasejunksnapbalcony
-bip_39_word_no_space_9: standleafreturncranedecreasejunksnapbalconypromote
-bip_39_word_space_0:
-- stand
-- leaf
-- return
-- crane
-- decrease
-- junk
-- snap
-- balcony
-- promote
-- lawn
-- trap
-- accident
-bip_39_word_space_1: stand
-bip_39_word_space_10: stand leaf return crane decrease junk snap balcony promote lawn
-bip_39_word_space_11: stand leaf return crane decrease junk snap balcony promote lawn
-  trap
 bip_39_word_space_12: stand leaf return crane decrease junk snap balcony promote lawn
   trap accident
 bip_39_word_space_2: stand leaf
 bip_39_word_space_3: stand leaf return
-bip_39_word_space_4: stand leaf return crane
-bip_39_word_space_5: stand leaf return crane decrease
-bip_39_word_space_6: stand leaf return crane decrease junk
-bip_39_word_space_7: stand leaf return crane decrease junk snap
-bip_39_word_space_8: stand leaf return crane decrease junk snap balcony
-bip_39_word_space_9: stand leaf return crane decrease junk snap balcony promote
-bip_39_word_underscore_1: stand
-bip_39_word_underscore_10: stand_leaf_return_crane_decrease_junk_snap_balcony_promote_lawn
-bip_39_word_underscore_11: stand_leaf_return_crane_decrease_junk_snap_balcony_promote_lawn_trap
 bip_39_word_underscore_12: stand_leaf_return_crane_decrease_junk_snap_balcony_promote_lawn_trap_accident
 bip_39_word_underscore_2: stand_leaf
 bip_39_word_underscore_3: stand_leaf_return
-bip_39_word_underscore_4: stand_leaf_return_crane
-bip_39_word_underscore_5: stand_leaf_return_crane_decrease
-bip_39_word_underscore_6: stand_leaf_return_crane_decrease_junk
-bip_39_word_underscore_7: stand_leaf_return_crane_decrease_junk_snap
-bip_39_word_underscore_8: stand_leaf_return_crane_decrease_junk_snap_balcony
-bip_39_word_underscore_9: stand_leaf_return_crane_decrease_junk_snap_balcony_promote
 classification: printer
 classification_capital: Printer
 classification_first_letter: p

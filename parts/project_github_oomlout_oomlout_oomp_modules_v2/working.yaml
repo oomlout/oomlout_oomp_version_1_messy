@@ -1,68 +1,9 @@
-bip_39_word_dash_1: script
-bip_39_word_dash_10: script-figure-universe-doctor-hat-fancy-fancy-kiwi-come-true
-bip_39_word_dash_11: script-figure-universe-doctor-hat-fancy-fancy-kiwi-come-true-bean
 bip_39_word_dash_12: script-figure-universe-doctor-hat-fancy-fancy-kiwi-come-true-bean-antique
 bip_39_word_dash_2: script-figure
 bip_39_word_dash_3: script-figure-universe
-bip_39_word_dash_4: script-figure-universe-doctor
-bip_39_word_dash_5: script-figure-universe-doctor-hat
-bip_39_word_dash_6: script-figure-universe-doctor-hat-fancy
-bip_39_word_dash_7: script-figure-universe-doctor-hat-fancy-fancy
-bip_39_word_dash_8: script-figure-universe-doctor-hat-fancy-fancy-kiwi
-bip_39_word_dash_9: script-figure-universe-doctor-hat-fancy-fancy-kiwi-come
-bip_39_word_new_br_1: script
-bip_39_word_new_br_10: script<br>figure<br>universe<br>doctor<br>hat<br>fancy<br>fancy<br>kiwi<br>come<br>true
-bip_39_word_new_br_11: script<br>figure<br>universe<br>doctor<br>hat<br>fancy<br>fancy<br>kiwi<br>come<br>true<br>bean
 bip_39_word_new_br_12: script<br>figure<br>universe<br>doctor<br>hat<br>fancy<br>fancy<br>kiwi<br>come<br>true<br>bean<br>antique
 bip_39_word_new_br_2: script<br>figure
 bip_39_word_new_br_3: script<br>figure<br>universe
-bip_39_word_new_br_4: script<br>figure<br>universe<br>doctor
-bip_39_word_new_br_5: script<br>figure<br>universe<br>doctor<br>hat
-bip_39_word_new_br_6: script<br>figure<br>universe<br>doctor<br>hat<br>fancy
-bip_39_word_new_br_7: script<br>figure<br>universe<br>doctor<br>hat<br>fancy<br>fancy
-bip_39_word_new_br_8: script<br>figure<br>universe<br>doctor<br>hat<br>fancy<br>fancy<br>kiwi
-bip_39_word_new_br_9: script<br>figure<br>universe<br>doctor<br>hat<br>fancy<br>fancy<br>kiwi<br>come
-bip_39_word_new_line_1: script
-bip_39_word_new_line_10: 'script
-
-  figure
-
-  universe
-
-  doctor
-
-  hat
-
-  fancy
-
-  fancy
-
-  kiwi
-
-  come
-
-  true'
-bip_39_word_new_line_11: 'script
-
-  figure
-
-  universe
-
-  doctor
-
-  hat
-
-  fancy
-
-  fancy
-
-  kiwi
-
-  come
-
-  true
-
-  bean'
 bip_39_word_new_line_12: 'script
 
   figure
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'script
   figure
 
   universe'
-bip_39_word_new_line_4: 'script
-
-  figure
-
-  universe
-
-  doctor'
-bip_39_word_new_line_5: 'script
-
-  figure
-
-  universe
-
-  doctor
-
-  hat'
-bip_39_word_new_line_6: 'script
-
-  figure
-
-  universe
-
-  doctor
-
-  hat
-
-  fancy'
-bip_39_word_new_line_7: 'script
-
-  figure
-
-  universe
-
-  doctor
-
-  hat
-
-  fancy
-
-  fancy'
-bip_39_word_new_line_8: 'script
-
-  figure
-
-  universe
-
-  doctor
-
-  hat
-
-  fancy
-
-  fancy
-
-  kiwi'
-bip_39_word_new_line_9: 'script
-
-  figure
-
-  universe
-
-  doctor
-
-  hat
-
-  fancy
-
-  fancy
-
-  kiwi
-
-  come'
-bip_39_word_no_space_1: script
-bip_39_word_no_space_10: scriptfigureuniversedoctorhatfancyfancykiwicometrue
-bip_39_word_no_space_11: scriptfigureuniversedoctorhatfancyfancykiwicometruebean
 bip_39_word_no_space_12: scriptfigureuniversedoctorhatfancyfancykiwicometruebeanantique
 bip_39_word_no_space_2: scriptfigure
 bip_39_word_no_space_3: scriptfigureuniverse
-bip_39_word_no_space_4: scriptfigureuniversedoctor
-bip_39_word_no_space_5: scriptfigureuniversedoctorhat
-bip_39_word_no_space_6: scriptfigureuniversedoctorhatfancy
-bip_39_word_no_space_7: scriptfigureuniversedoctorhatfancyfancy
-bip_39_word_no_space_8: scriptfigureuniversedoctorhatfancyfancykiwi
-bip_39_word_no_space_9: scriptfigureuniversedoctorhatfancyfancykiwicome
-bip_39_word_space_0:
-- script
-- figure
-- universe
-- doctor
-- hat
-- fancy
-- fancy
-- kiwi
-- come
-- 'true'
-- bean
-- antique
-bip_39_word_space_1: script
-bip_39_word_space_10: script figure universe doctor hat fancy fancy kiwi come true
-bip_39_word_space_11: script figure universe doctor hat fancy fancy kiwi come true
-  bean
 bip_39_word_space_12: script figure universe doctor hat fancy fancy kiwi come true
   bean antique
 bip_39_word_space_2: script figure
 bip_39_word_space_3: script figure universe
-bip_39_word_space_4: script figure universe doctor
-bip_39_word_space_5: script figure universe doctor hat
-bip_39_word_space_6: script figure universe doctor hat fancy
-bip_39_word_space_7: script figure universe doctor hat fancy fancy
-bip_39_word_space_8: script figure universe doctor hat fancy fancy kiwi
-bip_39_word_space_9: script figure universe doctor hat fancy fancy kiwi come
-bip_39_word_underscore_1: script
-bip_39_word_underscore_10: script_figure_universe_doctor_hat_fancy_fancy_kiwi_come_true
-bip_39_word_underscore_11: script_figure_universe_doctor_hat_fancy_fancy_kiwi_come_true_bean
 bip_39_word_underscore_12: script_figure_universe_doctor_hat_fancy_fancy_kiwi_come_true_bean_antique
 bip_39_word_underscore_2: script_figure
 bip_39_word_underscore_3: script_figure_universe
-bip_39_word_underscore_4: script_figure_universe_doctor
-bip_39_word_underscore_5: script_figure_universe_doctor_hat
-bip_39_word_underscore_6: script_figure_universe_doctor_hat_fancy
-bip_39_word_underscore_7: script_figure_universe_doctor_hat_fancy_fancy
-bip_39_word_underscore_8: script_figure_universe_doctor_hat_fancy_fancy_kiwi
-bip_39_word_underscore_9: script_figure_universe_doctor_hat_fancy_fancy_kiwi_come
 classification: project
 classification_capital: Project
 classification_first_letter: p

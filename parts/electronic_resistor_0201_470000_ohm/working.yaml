@@ -1,68 +1,9 @@
-bip_39_word_dash_1: silent
-bip_39_word_dash_10: silent-reopen-quiz-state-torch-equal-owner-predict-turn-please
-bip_39_word_dash_11: silent-reopen-quiz-state-torch-equal-owner-predict-turn-please-special
 bip_39_word_dash_12: silent-reopen-quiz-state-torch-equal-owner-predict-turn-please-special-atom
 bip_39_word_dash_2: silent-reopen
 bip_39_word_dash_3: silent-reopen-quiz
-bip_39_word_dash_4: silent-reopen-quiz-state
-bip_39_word_dash_5: silent-reopen-quiz-state-torch
-bip_39_word_dash_6: silent-reopen-quiz-state-torch-equal
-bip_39_word_dash_7: silent-reopen-quiz-state-torch-equal-owner
-bip_39_word_dash_8: silent-reopen-quiz-state-torch-equal-owner-predict
-bip_39_word_dash_9: silent-reopen-quiz-state-torch-equal-owner-predict-turn
-bip_39_word_new_br_1: silent
-bip_39_word_new_br_10: silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please
-bip_39_word_new_br_11: silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please<br>special
 bip_39_word_new_br_12: silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please<br>special<br>atom
 bip_39_word_new_br_2: silent<br>reopen
 bip_39_word_new_br_3: silent<br>reopen<br>quiz
-bip_39_word_new_br_4: silent<br>reopen<br>quiz<br>state
-bip_39_word_new_br_5: silent<br>reopen<br>quiz<br>state<br>torch
-bip_39_word_new_br_6: silent<br>reopen<br>quiz<br>state<br>torch<br>equal
-bip_39_word_new_br_7: silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner
-bip_39_word_new_br_8: silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict
-bip_39_word_new_br_9: silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn
-bip_39_word_new_line_1: silent
-bip_39_word_new_line_10: 'silent
-
-  reopen
-
-  quiz
-
-  state
-
-  torch
-
-  equal
-
-  owner
-
-  predict
-
-  turn
-
-  please'
-bip_39_word_new_line_11: 'silent
-
-  reopen
-
-  quiz
-
-  state
-
-  torch
-
-  equal
-
-  owner
-
-  predict
-
-  turn
-
-  please
-
-  special'
 bip_39_word_new_line_12: 'silent
 
   reopen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'silent
   reopen
 
   quiz'
-bip_39_word_new_line_4: 'silent
-
-  reopen
-
-  quiz
-
-  state'
-bip_39_word_new_line_5: 'silent
-
-  reopen
-
-  quiz
-
-  state
-
-  torch'
-bip_39_word_new_line_6: 'silent
-
-  reopen
-
-  quiz
-
-  state
-
-  torch
-
-  equal'
-bip_39_word_new_line_7: 'silent
-
-  reopen
-
-  quiz
-
-  state
-
-  torch
-
-  equal
-
-  owner'
-bip_39_word_new_line_8: 'silent
-
-  reopen
-
-  quiz
-
-  state
-
-  torch
-
-  equal
-
-  owner
-
-  predict'
-bip_39_word_new_line_9: 'silent
-
-  reopen
-
-  quiz
-
-  state
-
-  torch
-
-  equal
-
-  owner
-
-  predict
-
-  turn'
-bip_39_word_no_space_1: silent
-bip_39_word_no_space_10: silentreopenquizstatetorchequalownerpredictturnplease
-bip_39_word_no_space_11: silentreopenquizstatetorchequalownerpredictturnpleasespecial
 bip_39_word_no_space_12: silentreopenquizstatetorchequalownerpredictturnpleasespecialatom
 bip_39_word_no_space_2: silentreopen
 bip_39_word_no_space_3: silentreopenquiz
-bip_39_word_no_space_4: silentreopenquizstate
-bip_39_word_no_space_5: silentreopenquizstatetorch
-bip_39_word_no_space_6: silentreopenquizstatetorchequal
-bip_39_word_no_space_7: silentreopenquizstatetorchequalowner
-bip_39_word_no_space_8: silentreopenquizstatetorchequalownerpredict
-bip_39_word_no_space_9: silentreopenquizstatetorchequalownerpredictturn
-bip_39_word_space_0:
-- silent
-- reopen
-- quiz
-- state
-- torch
-- equal
-- owner
-- predict
-- turn
-- please
-- special
-- atom
-bip_39_word_space_1: silent
-bip_39_word_space_10: silent reopen quiz state torch equal owner predict turn please
-bip_39_word_space_11: silent reopen quiz state torch equal owner predict turn please
-  special
 bip_39_word_space_12: silent reopen quiz state torch equal owner predict turn please
   special atom
 bip_39_word_space_2: silent reopen
 bip_39_word_space_3: silent reopen quiz
-bip_39_word_space_4: silent reopen quiz state
-bip_39_word_space_5: silent reopen quiz state torch
-bip_39_word_space_6: silent reopen quiz state torch equal
-bip_39_word_space_7: silent reopen quiz state torch equal owner
-bip_39_word_space_8: silent reopen quiz state torch equal owner predict
-bip_39_word_space_9: silent reopen quiz state torch equal owner predict turn
-bip_39_word_underscore_1: silent
-bip_39_word_underscore_10: silent_reopen_quiz_state_torch_equal_owner_predict_turn_please
-bip_39_word_underscore_11: silent_reopen_quiz_state_torch_equal_owner_predict_turn_please_special
 bip_39_word_underscore_12: silent_reopen_quiz_state_torch_equal_owner_predict_turn_please_special_atom
 bip_39_word_underscore_2: silent_reopen
 bip_39_word_underscore_3: silent_reopen_quiz
-bip_39_word_underscore_4: silent_reopen_quiz_state
-bip_39_word_underscore_5: silent_reopen_quiz_state_torch
-bip_39_word_underscore_6: silent_reopen_quiz_state_torch_equal
-bip_39_word_underscore_7: silent_reopen_quiz_state_torch_equal_owner
-bip_39_word_underscore_8: silent_reopen_quiz_state_torch_equal_owner_predict
-bip_39_word_underscore_9: silent_reopen_quiz_state_torch_equal_owner_predict_turn
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: filter
-bip_39_word_dash_10: filter-segment-fiscal-pave-crime-account-wasp-credit-prison-pluck
-bip_39_word_dash_11: filter-segment-fiscal-pave-crime-account-wasp-credit-prison-pluck-beef
 bip_39_word_dash_12: filter-segment-fiscal-pave-crime-account-wasp-credit-prison-pluck-beef-across
 bip_39_word_dash_2: filter-segment
 bip_39_word_dash_3: filter-segment-fiscal
-bip_39_word_dash_4: filter-segment-fiscal-pave
-bip_39_word_dash_5: filter-segment-fiscal-pave-crime
-bip_39_word_dash_6: filter-segment-fiscal-pave-crime-account
-bip_39_word_dash_7: filter-segment-fiscal-pave-crime-account-wasp
-bip_39_word_dash_8: filter-segment-fiscal-pave-crime-account-wasp-credit
-bip_39_word_dash_9: filter-segment-fiscal-pave-crime-account-wasp-credit-prison
-bip_39_word_new_br_1: filter
-bip_39_word_new_br_10: filter<br>segment<br>fiscal<br>pave<br>crime<br>account<br>wasp<br>credit<br>prison<br>pluck
-bip_39_word_new_br_11: filter<br>segment<br>fiscal<br>pave<br>crime<br>account<br>wasp<br>credit<br>prison<br>pluck<br>beef
 bip_39_word_new_br_12: filter<br>segment<br>fiscal<br>pave<br>crime<br>account<br>wasp<br>credit<br>prison<br>pluck<br>beef<br>across
 bip_39_word_new_br_2: filter<br>segment
 bip_39_word_new_br_3: filter<br>segment<br>fiscal
-bip_39_word_new_br_4: filter<br>segment<br>fiscal<br>pave
-bip_39_word_new_br_5: filter<br>segment<br>fiscal<br>pave<br>crime
-bip_39_word_new_br_6: filter<br>segment<br>fiscal<br>pave<br>crime<br>account
-bip_39_word_new_br_7: filter<br>segment<br>fiscal<br>pave<br>crime<br>account<br>wasp
-bip_39_word_new_br_8: filter<br>segment<br>fiscal<br>pave<br>crime<br>account<br>wasp<br>credit
-bip_39_word_new_br_9: filter<br>segment<br>fiscal<br>pave<br>crime<br>account<br>wasp<br>credit<br>prison
-bip_39_word_new_line_1: filter
-bip_39_word_new_line_10: 'filter
-
-  segment
-
-  fiscal
-
-  pave
-
-  crime
-
-  account
-
-  wasp
-
-  credit
-
-  prison
-
-  pluck'
-bip_39_word_new_line_11: 'filter
-
-  segment
-
-  fiscal
-
-  pave
-
-  crime
-
-  account
-
-  wasp
-
-  credit
-
-  prison
-
-  pluck
-
-  beef'
 bip_39_word_new_line_12: 'filter
 
   segment
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'filter
   segment
 
   fiscal'
-bip_39_word_new_line_4: 'filter
-
-  segment
-
-  fiscal
-
-  pave'
-bip_39_word_new_line_5: 'filter
-
-  segment
-
-  fiscal
-
-  pave
-
-  crime'
-bip_39_word_new_line_6: 'filter
-
-  segment
-
-  fiscal
-
-  pave
-
-  crime
-
-  account'
-bip_39_word_new_line_7: 'filter
-
-  segment
-
-  fiscal
-
-  pave
-
-  crime
-
-  account
-
-  wasp'
-bip_39_word_new_line_8: 'filter
-
-  segment
-
-  fiscal
-
-  pave
-
-  crime
-
-  account
-
-  wasp
-
-  credit'
-bip_39_word_new_line_9: 'filter
-
-  segment
-
-  fiscal
-
-  pave
-
-  crime
-
-  account
-
-  wasp
-
-  credit
-
-  prison'
-bip_39_word_no_space_1: filter
-bip_39_word_no_space_10: filtersegmentfiscalpavecrimeaccountwaspcreditprisonpluck
-bip_39_word_no_space_11: filtersegmentfiscalpavecrimeaccountwaspcreditprisonpluckbeef
 bip_39_word_no_space_12: filtersegmentfiscalpavecrimeaccountwaspcreditprisonpluckbeefacross
 bip_39_word_no_space_2: filtersegment
 bip_39_word_no_space_3: filtersegmentfiscal
-bip_39_word_no_space_4: filtersegmentfiscalpave
-bip_39_word_no_space_5: filtersegmentfiscalpavecrime
-bip_39_word_no_space_6: filtersegmentfiscalpavecrimeaccount
-bip_39_word_no_space_7: filtersegmentfiscalpavecrimeaccountwasp
-bip_39_word_no_space_8: filtersegmentfiscalpavecrimeaccountwaspcredit
-bip_39_word_no_space_9: filtersegmentfiscalpavecrimeaccountwaspcreditprison
-bip_39_word_space_0:
-- filter
-- segment
-- fiscal
-- pave
-- crime
-- account
-- wasp
-- credit
-- prison
-- pluck
-- beef
-- across
-bip_39_word_space_1: filter
-bip_39_word_space_10: filter segment fiscal pave crime account wasp credit prison
-  pluck
-bip_39_word_space_11: filter segment fiscal pave crime account wasp credit prison
-  pluck beef
 bip_39_word_space_12: filter segment fiscal pave crime account wasp credit prison
   pluck beef across
 bip_39_word_space_2: filter segment
 bip_39_word_space_3: filter segment fiscal
-bip_39_word_space_4: filter segment fiscal pave
-bip_39_word_space_5: filter segment fiscal pave crime
-bip_39_word_space_6: filter segment fiscal pave crime account
-bip_39_word_space_7: filter segment fiscal pave crime account wasp
-bip_39_word_space_8: filter segment fiscal pave crime account wasp credit
-bip_39_word_space_9: filter segment fiscal pave crime account wasp credit prison
-bip_39_word_underscore_1: filter
-bip_39_word_underscore_10: filter_segment_fiscal_pave_crime_account_wasp_credit_prison_pluck
-bip_39_word_underscore_11: filter_segment_fiscal_pave_crime_account_wasp_credit_prison_pluck_beef
 bip_39_word_underscore_12: filter_segment_fiscal_pave_crime_account_wasp_credit_prison_pluck_beef_across
 bip_39_word_underscore_2: filter_segment
 bip_39_word_underscore_3: filter_segment_fiscal
-bip_39_word_underscore_4: filter_segment_fiscal_pave
-bip_39_word_underscore_5: filter_segment_fiscal_pave_crime
-bip_39_word_underscore_6: filter_segment_fiscal_pave_crime_account
-bip_39_word_underscore_7: filter_segment_fiscal_pave_crime_account_wasp
-bip_39_word_underscore_8: filter_segment_fiscal_pave_crime_account_wasp_credit
-bip_39_word_underscore_9: filter_segment_fiscal_pave_crime_account_wasp_credit_prison
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

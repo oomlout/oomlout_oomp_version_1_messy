@@ -1,68 +1,9 @@
-bip_39_word_dash_1: brain
-bip_39_word_dash_10: brain-inmate-tooth-twin-spot-fence-race-casino-train-bargain
-bip_39_word_dash_11: brain-inmate-tooth-twin-spot-fence-race-casino-train-bargain-jump
 bip_39_word_dash_12: brain-inmate-tooth-twin-spot-fence-race-casino-train-bargain-jump-accident
 bip_39_word_dash_2: brain-inmate
 bip_39_word_dash_3: brain-inmate-tooth
-bip_39_word_dash_4: brain-inmate-tooth-twin
-bip_39_word_dash_5: brain-inmate-tooth-twin-spot
-bip_39_word_dash_6: brain-inmate-tooth-twin-spot-fence
-bip_39_word_dash_7: brain-inmate-tooth-twin-spot-fence-race
-bip_39_word_dash_8: brain-inmate-tooth-twin-spot-fence-race-casino
-bip_39_word_dash_9: brain-inmate-tooth-twin-spot-fence-race-casino-train
-bip_39_word_new_br_1: brain
-bip_39_word_new_br_10: brain<br>inmate<br>tooth<br>twin<br>spot<br>fence<br>race<br>casino<br>train<br>bargain
-bip_39_word_new_br_11: brain<br>inmate<br>tooth<br>twin<br>spot<br>fence<br>race<br>casino<br>train<br>bargain<br>jump
 bip_39_word_new_br_12: brain<br>inmate<br>tooth<br>twin<br>spot<br>fence<br>race<br>casino<br>train<br>bargain<br>jump<br>accident
 bip_39_word_new_br_2: brain<br>inmate
 bip_39_word_new_br_3: brain<br>inmate<br>tooth
-bip_39_word_new_br_4: brain<br>inmate<br>tooth<br>twin
-bip_39_word_new_br_5: brain<br>inmate<br>tooth<br>twin<br>spot
-bip_39_word_new_br_6: brain<br>inmate<br>tooth<br>twin<br>spot<br>fence
-bip_39_word_new_br_7: brain<br>inmate<br>tooth<br>twin<br>spot<br>fence<br>race
-bip_39_word_new_br_8: brain<br>inmate<br>tooth<br>twin<br>spot<br>fence<br>race<br>casino
-bip_39_word_new_br_9: brain<br>inmate<br>tooth<br>twin<br>spot<br>fence<br>race<br>casino<br>train
-bip_39_word_new_line_1: brain
-bip_39_word_new_line_10: 'brain
-
-  inmate
-
-  tooth
-
-  twin
-
-  spot
-
-  fence
-
-  race
-
-  casino
-
-  train
-
-  bargain'
-bip_39_word_new_line_11: 'brain
-
-  inmate
-
-  tooth
-
-  twin
-
-  spot
-
-  fence
-
-  race
-
-  casino
-
-  train
-
-  bargain
-
-  jump'
 bip_39_word_new_line_12: 'brain
 
   inmate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'brain
   inmate
 
   tooth'
-bip_39_word_new_line_4: 'brain
-
-  inmate
-
-  tooth
-
-  twin'
-bip_39_word_new_line_5: 'brain
-
-  inmate
-
-  tooth
-
-  twin
-
-  spot'
-bip_39_word_new_line_6: 'brain
-
-  inmate
-
-  tooth
-
-  twin
-
-  spot
-
-  fence'
-bip_39_word_new_line_7: 'brain
-
-  inmate
-
-  tooth
-
-  twin
-
-  spot
-
-  fence
-
-  race'
-bip_39_word_new_line_8: 'brain
-
-  inmate
-
-  tooth
-
-  twin
-
-  spot
-
-  fence
-
-  race
-
-  casino'
-bip_39_word_new_line_9: 'brain
-
-  inmate
-
-  tooth
-
-  twin
-
-  spot
-
-  fence
-
-  race
-
-  casino
-
-  train'
-bip_39_word_no_space_1: brain
-bip_39_word_no_space_10: braininmatetoothtwinspotfenceracecasinotrainbargain
-bip_39_word_no_space_11: braininmatetoothtwinspotfenceracecasinotrainbargainjump
 bip_39_word_no_space_12: braininmatetoothtwinspotfenceracecasinotrainbargainjumpaccident
 bip_39_word_no_space_2: braininmate
 bip_39_word_no_space_3: braininmatetooth
-bip_39_word_no_space_4: braininmatetoothtwin
-bip_39_word_no_space_5: braininmatetoothtwinspot
-bip_39_word_no_space_6: braininmatetoothtwinspotfence
-bip_39_word_no_space_7: braininmatetoothtwinspotfencerace
-bip_39_word_no_space_8: braininmatetoothtwinspotfenceracecasino
-bip_39_word_no_space_9: braininmatetoothtwinspotfenceracecasinotrain
-bip_39_word_space_0:
-- brain
-- inmate
-- tooth
-- twin
-- spot
-- fence
-- race
-- casino
-- train
-- bargain
-- jump
-- accident
-bip_39_word_space_1: brain
-bip_39_word_space_10: brain inmate tooth twin spot fence race casino train bargain
-bip_39_word_space_11: brain inmate tooth twin spot fence race casino train bargain
-  jump
 bip_39_word_space_12: brain inmate tooth twin spot fence race casino train bargain
   jump accident
 bip_39_word_space_2: brain inmate
 bip_39_word_space_3: brain inmate tooth
-bip_39_word_space_4: brain inmate tooth twin
-bip_39_word_space_5: brain inmate tooth twin spot
-bip_39_word_space_6: brain inmate tooth twin spot fence
-bip_39_word_space_7: brain inmate tooth twin spot fence race
-bip_39_word_space_8: brain inmate tooth twin spot fence race casino
-bip_39_word_space_9: brain inmate tooth twin spot fence race casino train
-bip_39_word_underscore_1: brain
-bip_39_word_underscore_10: brain_inmate_tooth_twin_spot_fence_race_casino_train_bargain
-bip_39_word_underscore_11: brain_inmate_tooth_twin_spot_fence_race_casino_train_bargain_jump
 bip_39_word_underscore_12: brain_inmate_tooth_twin_spot_fence_race_casino_train_bargain_jump_accident
 bip_39_word_underscore_2: brain_inmate
 bip_39_word_underscore_3: brain_inmate_tooth
-bip_39_word_underscore_4: brain_inmate_tooth_twin
-bip_39_word_underscore_5: brain_inmate_tooth_twin_spot
-bip_39_word_underscore_6: brain_inmate_tooth_twin_spot_fence
-bip_39_word_underscore_7: brain_inmate_tooth_twin_spot_fence_race
-bip_39_word_underscore_8: brain_inmate_tooth_twin_spot_fence_race_casino
-bip_39_word_underscore_9: brain_inmate_tooth_twin_spot_fence_race_casino_train
 classification: category
 classification_capital: Category
 classification_first_letter: c

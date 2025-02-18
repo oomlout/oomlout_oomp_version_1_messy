@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wait
-bip_39_word_dash_10: wait-error-drink-coach-float-cotton-chief-design-grape-liquid
-bip_39_word_dash_11: wait-error-drink-coach-float-cotton-chief-design-grape-liquid-transfer
 bip_39_word_dash_12: wait-error-drink-coach-float-cotton-chief-design-grape-liquid-transfer-action
 bip_39_word_dash_2: wait-error
 bip_39_word_dash_3: wait-error-drink
-bip_39_word_dash_4: wait-error-drink-coach
-bip_39_word_dash_5: wait-error-drink-coach-float
-bip_39_word_dash_6: wait-error-drink-coach-float-cotton
-bip_39_word_dash_7: wait-error-drink-coach-float-cotton-chief
-bip_39_word_dash_8: wait-error-drink-coach-float-cotton-chief-design
-bip_39_word_dash_9: wait-error-drink-coach-float-cotton-chief-design-grape
-bip_39_word_new_br_1: wait
-bip_39_word_new_br_10: wait<br>error<br>drink<br>coach<br>float<br>cotton<br>chief<br>design<br>grape<br>liquid
-bip_39_word_new_br_11: wait<br>error<br>drink<br>coach<br>float<br>cotton<br>chief<br>design<br>grape<br>liquid<br>transfer
 bip_39_word_new_br_12: wait<br>error<br>drink<br>coach<br>float<br>cotton<br>chief<br>design<br>grape<br>liquid<br>transfer<br>action
 bip_39_word_new_br_2: wait<br>error
 bip_39_word_new_br_3: wait<br>error<br>drink
-bip_39_word_new_br_4: wait<br>error<br>drink<br>coach
-bip_39_word_new_br_5: wait<br>error<br>drink<br>coach<br>float
-bip_39_word_new_br_6: wait<br>error<br>drink<br>coach<br>float<br>cotton
-bip_39_word_new_br_7: wait<br>error<br>drink<br>coach<br>float<br>cotton<br>chief
-bip_39_word_new_br_8: wait<br>error<br>drink<br>coach<br>float<br>cotton<br>chief<br>design
-bip_39_word_new_br_9: wait<br>error<br>drink<br>coach<br>float<br>cotton<br>chief<br>design<br>grape
-bip_39_word_new_line_1: wait
-bip_39_word_new_line_10: 'wait
-
-  error
-
-  drink
-
-  coach
-
-  float
-
-  cotton
-
-  chief
-
-  design
-
-  grape
-
-  liquid'
-bip_39_word_new_line_11: 'wait
-
-  error
-
-  drink
-
-  coach
-
-  float
-
-  cotton
-
-  chief
-
-  design
-
-  grape
-
-  liquid
-
-  transfer'
 bip_39_word_new_line_12: 'wait
 
   error
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wait
   error
 
   drink'
-bip_39_word_new_line_4: 'wait
-
-  error
-
-  drink
-
-  coach'
-bip_39_word_new_line_5: 'wait
-
-  error
-
-  drink
-
-  coach
-
-  float'
-bip_39_word_new_line_6: 'wait
-
-  error
-
-  drink
-
-  coach
-
-  float
-
-  cotton'
-bip_39_word_new_line_7: 'wait
-
-  error
-
-  drink
-
-  coach
-
-  float
-
-  cotton
-
-  chief'
-bip_39_word_new_line_8: 'wait
-
-  error
-
-  drink
-
-  coach
-
-  float
-
-  cotton
-
-  chief
-
-  design'
-bip_39_word_new_line_9: 'wait
-
-  error
-
-  drink
-
-  coach
-
-  float
-
-  cotton
-
-  chief
-
-  design
-
-  grape'
-bip_39_word_no_space_1: wait
-bip_39_word_no_space_10: waiterrordrinkcoachfloatcottonchiefdesigngrapeliquid
-bip_39_word_no_space_11: waiterrordrinkcoachfloatcottonchiefdesigngrapeliquidtransfer
 bip_39_word_no_space_12: waiterrordrinkcoachfloatcottonchiefdesigngrapeliquidtransferaction
 bip_39_word_no_space_2: waiterror
 bip_39_word_no_space_3: waiterrordrink
-bip_39_word_no_space_4: waiterrordrinkcoach
-bip_39_word_no_space_5: waiterrordrinkcoachfloat
-bip_39_word_no_space_6: waiterrordrinkcoachfloatcotton
-bip_39_word_no_space_7: waiterrordrinkcoachfloatcottonchief
-bip_39_word_no_space_8: waiterrordrinkcoachfloatcottonchiefdesign
-bip_39_word_no_space_9: waiterrordrinkcoachfloatcottonchiefdesigngrape
-bip_39_word_space_0:
-- wait
-- error
-- drink
-- coach
-- float
-- cotton
-- chief
-- design
-- grape
-- liquid
-- transfer
-- action
-bip_39_word_space_1: wait
-bip_39_word_space_10: wait error drink coach float cotton chief design grape liquid
-bip_39_word_space_11: wait error drink coach float cotton chief design grape liquid
-  transfer
 bip_39_word_space_12: wait error drink coach float cotton chief design grape liquid
   transfer action
 bip_39_word_space_2: wait error
 bip_39_word_space_3: wait error drink
-bip_39_word_space_4: wait error drink coach
-bip_39_word_space_5: wait error drink coach float
-bip_39_word_space_6: wait error drink coach float cotton
-bip_39_word_space_7: wait error drink coach float cotton chief
-bip_39_word_space_8: wait error drink coach float cotton chief design
-bip_39_word_space_9: wait error drink coach float cotton chief design grape
-bip_39_word_underscore_1: wait
-bip_39_word_underscore_10: wait_error_drink_coach_float_cotton_chief_design_grape_liquid
-bip_39_word_underscore_11: wait_error_drink_coach_float_cotton_chief_design_grape_liquid_transfer
 bip_39_word_underscore_12: wait_error_drink_coach_float_cotton_chief_design_grape_liquid_transfer_action
 bip_39_word_underscore_2: wait_error
 bip_39_word_underscore_3: wait_error_drink
-bip_39_word_underscore_4: wait_error_drink_coach
-bip_39_word_underscore_5: wait_error_drink_coach_float
-bip_39_word_underscore_6: wait_error_drink_coach_float_cotton
-bip_39_word_underscore_7: wait_error_drink_coach_float_cotton_chief
-bip_39_word_underscore_8: wait_error_drink_coach_float_cotton_chief_design
-bip_39_word_underscore_9: wait_error_drink_coach_float_cotton_chief_design_grape
 classification: category
 classification_capital: Category
 classification_first_letter: c

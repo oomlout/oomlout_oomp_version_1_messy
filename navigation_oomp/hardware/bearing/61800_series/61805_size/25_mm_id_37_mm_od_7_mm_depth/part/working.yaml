@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arctic
-bip_39_word_dash_10: arctic-bone-south-slight-cargo-egg-shadow-butter-praise-you
-bip_39_word_dash_11: arctic-bone-south-slight-cargo-egg-shadow-butter-praise-you-target
 bip_39_word_dash_12: arctic-bone-south-slight-cargo-egg-shadow-butter-praise-you-target-anchor
 bip_39_word_dash_2: arctic-bone
 bip_39_word_dash_3: arctic-bone-south
-bip_39_word_dash_4: arctic-bone-south-slight
-bip_39_word_dash_5: arctic-bone-south-slight-cargo
-bip_39_word_dash_6: arctic-bone-south-slight-cargo-egg
-bip_39_word_dash_7: arctic-bone-south-slight-cargo-egg-shadow
-bip_39_word_dash_8: arctic-bone-south-slight-cargo-egg-shadow-butter
-bip_39_word_dash_9: arctic-bone-south-slight-cargo-egg-shadow-butter-praise
-bip_39_word_new_br_1: arctic
-bip_39_word_new_br_10: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter<br>praise<br>you
-bip_39_word_new_br_11: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter<br>praise<br>you<br>target
 bip_39_word_new_br_12: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter<br>praise<br>you<br>target<br>anchor
 bip_39_word_new_br_2: arctic<br>bone
 bip_39_word_new_br_3: arctic<br>bone<br>south
-bip_39_word_new_br_4: arctic<br>bone<br>south<br>slight
-bip_39_word_new_br_5: arctic<br>bone<br>south<br>slight<br>cargo
-bip_39_word_new_br_6: arctic<br>bone<br>south<br>slight<br>cargo<br>egg
-bip_39_word_new_br_7: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow
-bip_39_word_new_br_8: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter
-bip_39_word_new_br_9: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter<br>praise
-bip_39_word_new_line_1: arctic
-bip_39_word_new_line_10: 'arctic
-
-  bone
-
-  south
-
-  slight
-
-  cargo
-
-  egg
-
-  shadow
-
-  butter
-
-  praise
-
-  you'
-bip_39_word_new_line_11: 'arctic
-
-  bone
-
-  south
-
-  slight
-
-  cargo
-
-  egg
-
-  shadow
-
-  butter
-
-  praise
-
-  you
-
-  target'
 bip_39_word_new_line_12: 'arctic
 
   bone
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'arctic
   bone
 
   south'
-bip_39_word_new_line_4: 'arctic
-
-  bone
-
-  south
-
-  slight'
-bip_39_word_new_line_5: 'arctic
-
-  bone
-
-  south
-
-  slight
-
-  cargo'
-bip_39_word_new_line_6: 'arctic
-
-  bone
-
-  south
-
-  slight
-
-  cargo
-
-  egg'
-bip_39_word_new_line_7: 'arctic
-
-  bone
-
-  south
-
-  slight
-
-  cargo
-
-  egg
-
-  shadow'
-bip_39_word_new_line_8: 'arctic
-
-  bone
-
-  south
-
-  slight
-
-  cargo
-
-  egg
-
-  shadow
-
-  butter'
-bip_39_word_new_line_9: 'arctic
-
-  bone
-
-  south
-
-  slight
-
-  cargo
-
-  egg
-
-  shadow
-
-  butter
-
-  praise'
-bip_39_word_no_space_1: arctic
-bip_39_word_no_space_10: arcticbonesouthslightcargoeggshadowbutterpraiseyou
-bip_39_word_no_space_11: arcticbonesouthslightcargoeggshadowbutterpraiseyoutarget
 bip_39_word_no_space_12: arcticbonesouthslightcargoeggshadowbutterpraiseyoutargetanchor
 bip_39_word_no_space_2: arcticbone
 bip_39_word_no_space_3: arcticbonesouth
-bip_39_word_no_space_4: arcticbonesouthslight
-bip_39_word_no_space_5: arcticbonesouthslightcargo
-bip_39_word_no_space_6: arcticbonesouthslightcargoegg
-bip_39_word_no_space_7: arcticbonesouthslightcargoeggshadow
-bip_39_word_no_space_8: arcticbonesouthslightcargoeggshadowbutter
-bip_39_word_no_space_9: arcticbonesouthslightcargoeggshadowbutterpraise
-bip_39_word_space_0:
-- arctic
-- bone
-- south
-- slight
-- cargo
-- egg
-- shadow
-- butter
-- praise
-- you
-- target
-- anchor
-bip_39_word_space_1: arctic
-bip_39_word_space_10: arctic bone south slight cargo egg shadow butter praise you
-bip_39_word_space_11: arctic bone south slight cargo egg shadow butter praise you
-  target
 bip_39_word_space_12: arctic bone south slight cargo egg shadow butter praise you
   target anchor
 bip_39_word_space_2: arctic bone
 bip_39_word_space_3: arctic bone south
-bip_39_word_space_4: arctic bone south slight
-bip_39_word_space_5: arctic bone south slight cargo
-bip_39_word_space_6: arctic bone south slight cargo egg
-bip_39_word_space_7: arctic bone south slight cargo egg shadow
-bip_39_word_space_8: arctic bone south slight cargo egg shadow butter
-bip_39_word_space_9: arctic bone south slight cargo egg shadow butter praise
-bip_39_word_underscore_1: arctic
-bip_39_word_underscore_10: arctic_bone_south_slight_cargo_egg_shadow_butter_praise_you
-bip_39_word_underscore_11: arctic_bone_south_slight_cargo_egg_shadow_butter_praise_you_target
 bip_39_word_underscore_12: arctic_bone_south_slight_cargo_egg_shadow_butter_praise_you_target_anchor
 bip_39_word_underscore_2: arctic_bone
 bip_39_word_underscore_3: arctic_bone_south
-bip_39_word_underscore_4: arctic_bone_south_slight
-bip_39_word_underscore_5: arctic_bone_south_slight_cargo
-bip_39_word_underscore_6: arctic_bone_south_slight_cargo_egg
-bip_39_word_underscore_7: arctic_bone_south_slight_cargo_egg_shadow
-bip_39_word_underscore_8: arctic_bone_south_slight_cargo_egg_shadow_butter
-bip_39_word_underscore_9: arctic_bone_south_slight_cargo_egg_shadow_butter_praise
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: car
-bip_39_word_dash_10: car-stand-kick-recycle-have-vacant-print-that-wheel-cup
-bip_39_word_dash_11: car-stand-kick-recycle-have-vacant-print-that-wheel-cup-obscure
 bip_39_word_dash_12: car-stand-kick-recycle-have-vacant-print-that-wheel-cup-obscure-afford
 bip_39_word_dash_2: car-stand
 bip_39_word_dash_3: car-stand-kick
-bip_39_word_dash_4: car-stand-kick-recycle
-bip_39_word_dash_5: car-stand-kick-recycle-have
-bip_39_word_dash_6: car-stand-kick-recycle-have-vacant
-bip_39_word_dash_7: car-stand-kick-recycle-have-vacant-print
-bip_39_word_dash_8: car-stand-kick-recycle-have-vacant-print-that
-bip_39_word_dash_9: car-stand-kick-recycle-have-vacant-print-that-wheel
-bip_39_word_new_br_1: car
-bip_39_word_new_br_10: car<br>stand<br>kick<br>recycle<br>have<br>vacant<br>print<br>that<br>wheel<br>cup
-bip_39_word_new_br_11: car<br>stand<br>kick<br>recycle<br>have<br>vacant<br>print<br>that<br>wheel<br>cup<br>obscure
 bip_39_word_new_br_12: car<br>stand<br>kick<br>recycle<br>have<br>vacant<br>print<br>that<br>wheel<br>cup<br>obscure<br>afford
 bip_39_word_new_br_2: car<br>stand
 bip_39_word_new_br_3: car<br>stand<br>kick
-bip_39_word_new_br_4: car<br>stand<br>kick<br>recycle
-bip_39_word_new_br_5: car<br>stand<br>kick<br>recycle<br>have
-bip_39_word_new_br_6: car<br>stand<br>kick<br>recycle<br>have<br>vacant
-bip_39_word_new_br_7: car<br>stand<br>kick<br>recycle<br>have<br>vacant<br>print
-bip_39_word_new_br_8: car<br>stand<br>kick<br>recycle<br>have<br>vacant<br>print<br>that
-bip_39_word_new_br_9: car<br>stand<br>kick<br>recycle<br>have<br>vacant<br>print<br>that<br>wheel
-bip_39_word_new_line_1: car
-bip_39_word_new_line_10: 'car
-
-  stand
-
-  kick
-
-  recycle
-
-  have
-
-  vacant
-
-  print
-
-  that
-
-  wheel
-
-  cup'
-bip_39_word_new_line_11: 'car
-
-  stand
-
-  kick
-
-  recycle
-
-  have
-
-  vacant
-
-  print
-
-  that
-
-  wheel
-
-  cup
-
-  obscure'
 bip_39_word_new_line_12: 'car
 
   stand
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'car
   stand
 
   kick'
-bip_39_word_new_line_4: 'car
-
-  stand
-
-  kick
-
-  recycle'
-bip_39_word_new_line_5: 'car
-
-  stand
-
-  kick
-
-  recycle
-
-  have'
-bip_39_word_new_line_6: 'car
-
-  stand
-
-  kick
-
-  recycle
-
-  have
-
-  vacant'
-bip_39_word_new_line_7: 'car
-
-  stand
-
-  kick
-
-  recycle
-
-  have
-
-  vacant
-
-  print'
-bip_39_word_new_line_8: 'car
-
-  stand
-
-  kick
-
-  recycle
-
-  have
-
-  vacant
-
-  print
-
-  that'
-bip_39_word_new_line_9: 'car
-
-  stand
-
-  kick
-
-  recycle
-
-  have
-
-  vacant
-
-  print
-
-  that
-
-  wheel'
-bip_39_word_no_space_1: car
-bip_39_word_no_space_10: carstandkickrecyclehavevacantprintthatwheelcup
-bip_39_word_no_space_11: carstandkickrecyclehavevacantprintthatwheelcupobscure
 bip_39_word_no_space_12: carstandkickrecyclehavevacantprintthatwheelcupobscureafford
 bip_39_word_no_space_2: carstand
 bip_39_word_no_space_3: carstandkick
-bip_39_word_no_space_4: carstandkickrecycle
-bip_39_word_no_space_5: carstandkickrecyclehave
-bip_39_word_no_space_6: carstandkickrecyclehavevacant
-bip_39_word_no_space_7: carstandkickrecyclehavevacantprint
-bip_39_word_no_space_8: carstandkickrecyclehavevacantprintthat
-bip_39_word_no_space_9: carstandkickrecyclehavevacantprintthatwheel
-bip_39_word_space_0:
-- car
-- stand
-- kick
-- recycle
-- have
-- vacant
-- print
-- that
-- wheel
-- cup
-- obscure
-- afford
-bip_39_word_space_1: car
-bip_39_word_space_10: car stand kick recycle have vacant print that wheel cup
-bip_39_word_space_11: car stand kick recycle have vacant print that wheel cup obscure
 bip_39_word_space_12: car stand kick recycle have vacant print that wheel cup obscure
   afford
 bip_39_word_space_2: car stand
 bip_39_word_space_3: car stand kick
-bip_39_word_space_4: car stand kick recycle
-bip_39_word_space_5: car stand kick recycle have
-bip_39_word_space_6: car stand kick recycle have vacant
-bip_39_word_space_7: car stand kick recycle have vacant print
-bip_39_word_space_8: car stand kick recycle have vacant print that
-bip_39_word_space_9: car stand kick recycle have vacant print that wheel
-bip_39_word_underscore_1: car
-bip_39_word_underscore_10: car_stand_kick_recycle_have_vacant_print_that_wheel_cup
-bip_39_word_underscore_11: car_stand_kick_recycle_have_vacant_print_that_wheel_cup_obscure
 bip_39_word_underscore_12: car_stand_kick_recycle_have_vacant_print_that_wheel_cup_obscure_afford
 bip_39_word_underscore_2: car_stand
 bip_39_word_underscore_3: car_stand_kick
-bip_39_word_underscore_4: car_stand_kick_recycle
-bip_39_word_underscore_5: car_stand_kick_recycle_have
-bip_39_word_underscore_6: car_stand_kick_recycle_have_vacant
-bip_39_word_underscore_7: car_stand_kick_recycle_have_vacant_print
-bip_39_word_underscore_8: car_stand_kick_recycle_have_vacant_print_that
-bip_39_word_underscore_9: car_stand_kick_recycle_have_vacant_print_that_wheel
 classification: category
 classification_capital: Category
 classification_first_letter: c

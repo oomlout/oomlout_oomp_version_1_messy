@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sentence
-bip_39_word_dash_10: sentence-baby-stuff-crumble-ready-enrich-dumb-guitar-exact-lounge
-bip_39_word_dash_11: sentence-baby-stuff-crumble-ready-enrich-dumb-guitar-exact-lounge-birth
 bip_39_word_dash_12: sentence-baby-stuff-crumble-ready-enrich-dumb-guitar-exact-lounge-birth-aspect
 bip_39_word_dash_2: sentence-baby
 bip_39_word_dash_3: sentence-baby-stuff
-bip_39_word_dash_4: sentence-baby-stuff-crumble
-bip_39_word_dash_5: sentence-baby-stuff-crumble-ready
-bip_39_word_dash_6: sentence-baby-stuff-crumble-ready-enrich
-bip_39_word_dash_7: sentence-baby-stuff-crumble-ready-enrich-dumb
-bip_39_word_dash_8: sentence-baby-stuff-crumble-ready-enrich-dumb-guitar
-bip_39_word_dash_9: sentence-baby-stuff-crumble-ready-enrich-dumb-guitar-exact
-bip_39_word_new_br_1: sentence
-bip_39_word_new_br_10: sentence<br>baby<br>stuff<br>crumble<br>ready<br>enrich<br>dumb<br>guitar<br>exact<br>lounge
-bip_39_word_new_br_11: sentence<br>baby<br>stuff<br>crumble<br>ready<br>enrich<br>dumb<br>guitar<br>exact<br>lounge<br>birth
 bip_39_word_new_br_12: sentence<br>baby<br>stuff<br>crumble<br>ready<br>enrich<br>dumb<br>guitar<br>exact<br>lounge<br>birth<br>aspect
 bip_39_word_new_br_2: sentence<br>baby
 bip_39_word_new_br_3: sentence<br>baby<br>stuff
-bip_39_word_new_br_4: sentence<br>baby<br>stuff<br>crumble
-bip_39_word_new_br_5: sentence<br>baby<br>stuff<br>crumble<br>ready
-bip_39_word_new_br_6: sentence<br>baby<br>stuff<br>crumble<br>ready<br>enrich
-bip_39_word_new_br_7: sentence<br>baby<br>stuff<br>crumble<br>ready<br>enrich<br>dumb
-bip_39_word_new_br_8: sentence<br>baby<br>stuff<br>crumble<br>ready<br>enrich<br>dumb<br>guitar
-bip_39_word_new_br_9: sentence<br>baby<br>stuff<br>crumble<br>ready<br>enrich<br>dumb<br>guitar<br>exact
-bip_39_word_new_line_1: sentence
-bip_39_word_new_line_10: 'sentence
-
-  baby
-
-  stuff
-
-  crumble
-
-  ready
-
-  enrich
-
-  dumb
-
-  guitar
-
-  exact
-
-  lounge'
-bip_39_word_new_line_11: 'sentence
-
-  baby
-
-  stuff
-
-  crumble
-
-  ready
-
-  enrich
-
-  dumb
-
-  guitar
-
-  exact
-
-  lounge
-
-  birth'
 bip_39_word_new_line_12: 'sentence
 
   baby
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sentence
   baby
 
   stuff'
-bip_39_word_new_line_4: 'sentence
-
-  baby
-
-  stuff
-
-  crumble'
-bip_39_word_new_line_5: 'sentence
-
-  baby
-
-  stuff
-
-  crumble
-
-  ready'
-bip_39_word_new_line_6: 'sentence
-
-  baby
-
-  stuff
-
-  crumble
-
-  ready
-
-  enrich'
-bip_39_word_new_line_7: 'sentence
-
-  baby
-
-  stuff
-
-  crumble
-
-  ready
-
-  enrich
-
-  dumb'
-bip_39_word_new_line_8: 'sentence
-
-  baby
-
-  stuff
-
-  crumble
-
-  ready
-
-  enrich
-
-  dumb
-
-  guitar'
-bip_39_word_new_line_9: 'sentence
-
-  baby
-
-  stuff
-
-  crumble
-
-  ready
-
-  enrich
-
-  dumb
-
-  guitar
-
-  exact'
-bip_39_word_no_space_1: sentence
-bip_39_word_no_space_10: sentencebabystuffcrumblereadyenrichdumbguitarexactlounge
-bip_39_word_no_space_11: sentencebabystuffcrumblereadyenrichdumbguitarexactloungebirth
 bip_39_word_no_space_12: sentencebabystuffcrumblereadyenrichdumbguitarexactloungebirthaspect
 bip_39_word_no_space_2: sentencebaby
 bip_39_word_no_space_3: sentencebabystuff
-bip_39_word_no_space_4: sentencebabystuffcrumble
-bip_39_word_no_space_5: sentencebabystuffcrumbleready
-bip_39_word_no_space_6: sentencebabystuffcrumblereadyenrich
-bip_39_word_no_space_7: sentencebabystuffcrumblereadyenrichdumb
-bip_39_word_no_space_8: sentencebabystuffcrumblereadyenrichdumbguitar
-bip_39_word_no_space_9: sentencebabystuffcrumblereadyenrichdumbguitarexact
-bip_39_word_space_0:
-- sentence
-- baby
-- stuff
-- crumble
-- ready
-- enrich
-- dumb
-- guitar
-- exact
-- lounge
-- birth
-- aspect
-bip_39_word_space_1: sentence
-bip_39_word_space_10: sentence baby stuff crumble ready enrich dumb guitar exact lounge
-bip_39_word_space_11: sentence baby stuff crumble ready enrich dumb guitar exact lounge
-  birth
 bip_39_word_space_12: sentence baby stuff crumble ready enrich dumb guitar exact lounge
   birth aspect
 bip_39_word_space_2: sentence baby
 bip_39_word_space_3: sentence baby stuff
-bip_39_word_space_4: sentence baby stuff crumble
-bip_39_word_space_5: sentence baby stuff crumble ready
-bip_39_word_space_6: sentence baby stuff crumble ready enrich
-bip_39_word_space_7: sentence baby stuff crumble ready enrich dumb
-bip_39_word_space_8: sentence baby stuff crumble ready enrich dumb guitar
-bip_39_word_space_9: sentence baby stuff crumble ready enrich dumb guitar exact
-bip_39_word_underscore_1: sentence
-bip_39_word_underscore_10: sentence_baby_stuff_crumble_ready_enrich_dumb_guitar_exact_lounge
-bip_39_word_underscore_11: sentence_baby_stuff_crumble_ready_enrich_dumb_guitar_exact_lounge_birth
 bip_39_word_underscore_12: sentence_baby_stuff_crumble_ready_enrich_dumb_guitar_exact_lounge_birth_aspect
 bip_39_word_underscore_2: sentence_baby
 bip_39_word_underscore_3: sentence_baby_stuff
-bip_39_word_underscore_4: sentence_baby_stuff_crumble
-bip_39_word_underscore_5: sentence_baby_stuff_crumble_ready
-bip_39_word_underscore_6: sentence_baby_stuff_crumble_ready_enrich
-bip_39_word_underscore_7: sentence_baby_stuff_crumble_ready_enrich_dumb
-bip_39_word_underscore_8: sentence_baby_stuff_crumble_ready_enrich_dumb_guitar
-bip_39_word_underscore_9: sentence_baby_stuff_crumble_ready_enrich_dumb_guitar_exact
 classification: category
 classification_capital: Category
 classification_first_letter: c

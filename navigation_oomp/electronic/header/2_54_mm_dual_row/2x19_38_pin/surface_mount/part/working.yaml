@@ -1,68 +1,9 @@
-bip_39_word_dash_1: example
-bip_39_word_dash_10: example-father-income-supply-fitness-bar-ring-forget-safe-pause
-bip_39_word_dash_11: example-father-income-supply-fitness-bar-ring-forget-safe-pause-resource
 bip_39_word_dash_12: example-father-income-supply-fitness-bar-ring-forget-safe-pause-resource-annual
 bip_39_word_dash_2: example-father
 bip_39_word_dash_3: example-father-income
-bip_39_word_dash_4: example-father-income-supply
-bip_39_word_dash_5: example-father-income-supply-fitness
-bip_39_word_dash_6: example-father-income-supply-fitness-bar
-bip_39_word_dash_7: example-father-income-supply-fitness-bar-ring
-bip_39_word_dash_8: example-father-income-supply-fitness-bar-ring-forget
-bip_39_word_dash_9: example-father-income-supply-fitness-bar-ring-forget-safe
-bip_39_word_new_br_1: example
-bip_39_word_new_br_10: example<br>father<br>income<br>supply<br>fitness<br>bar<br>ring<br>forget<br>safe<br>pause
-bip_39_word_new_br_11: example<br>father<br>income<br>supply<br>fitness<br>bar<br>ring<br>forget<br>safe<br>pause<br>resource
 bip_39_word_new_br_12: example<br>father<br>income<br>supply<br>fitness<br>bar<br>ring<br>forget<br>safe<br>pause<br>resource<br>annual
 bip_39_word_new_br_2: example<br>father
 bip_39_word_new_br_3: example<br>father<br>income
-bip_39_word_new_br_4: example<br>father<br>income<br>supply
-bip_39_word_new_br_5: example<br>father<br>income<br>supply<br>fitness
-bip_39_word_new_br_6: example<br>father<br>income<br>supply<br>fitness<br>bar
-bip_39_word_new_br_7: example<br>father<br>income<br>supply<br>fitness<br>bar<br>ring
-bip_39_word_new_br_8: example<br>father<br>income<br>supply<br>fitness<br>bar<br>ring<br>forget
-bip_39_word_new_br_9: example<br>father<br>income<br>supply<br>fitness<br>bar<br>ring<br>forget<br>safe
-bip_39_word_new_line_1: example
-bip_39_word_new_line_10: 'example
-
-  father
-
-  income
-
-  supply
-
-  fitness
-
-  bar
-
-  ring
-
-  forget
-
-  safe
-
-  pause'
-bip_39_word_new_line_11: 'example
-
-  father
-
-  income
-
-  supply
-
-  fitness
-
-  bar
-
-  ring
-
-  forget
-
-  safe
-
-  pause
-
-  resource'
 bip_39_word_new_line_12: 'example
 
   father
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'example
   father
 
   income'
-bip_39_word_new_line_4: 'example
-
-  father
-
-  income
-
-  supply'
-bip_39_word_new_line_5: 'example
-
-  father
-
-  income
-
-  supply
-
-  fitness'
-bip_39_word_new_line_6: 'example
-
-  father
-
-  income
-
-  supply
-
-  fitness
-
-  bar'
-bip_39_word_new_line_7: 'example
-
-  father
-
-  income
-
-  supply
-
-  fitness
-
-  bar
-
-  ring'
-bip_39_word_new_line_8: 'example
-
-  father
-
-  income
-
-  supply
-
-  fitness
-
-  bar
-
-  ring
-
-  forget'
-bip_39_word_new_line_9: 'example
-
-  father
-
-  income
-
-  supply
-
-  fitness
-
-  bar
-
-  ring
-
-  forget
-
-  safe'
-bip_39_word_no_space_1: example
-bip_39_word_no_space_10: examplefatherincomesupplyfitnessbarringforgetsafepause
-bip_39_word_no_space_11: examplefatherincomesupplyfitnessbarringforgetsafepauseresource
 bip_39_word_no_space_12: examplefatherincomesupplyfitnessbarringforgetsafepauseresourceannual
 bip_39_word_no_space_2: examplefather
 bip_39_word_no_space_3: examplefatherincome
-bip_39_word_no_space_4: examplefatherincomesupply
-bip_39_word_no_space_5: examplefatherincomesupplyfitness
-bip_39_word_no_space_6: examplefatherincomesupplyfitnessbar
-bip_39_word_no_space_7: examplefatherincomesupplyfitnessbarring
-bip_39_word_no_space_8: examplefatherincomesupplyfitnessbarringforget
-bip_39_word_no_space_9: examplefatherincomesupplyfitnessbarringforgetsafe
-bip_39_word_space_0:
-- example
-- father
-- income
-- supply
-- fitness
-- bar
-- ring
-- forget
-- safe
-- pause
-- resource
-- annual
-bip_39_word_space_1: example
-bip_39_word_space_10: example father income supply fitness bar ring forget safe pause
-bip_39_word_space_11: example father income supply fitness bar ring forget safe pause
-  resource
 bip_39_word_space_12: example father income supply fitness bar ring forget safe pause
   resource annual
 bip_39_word_space_2: example father
 bip_39_word_space_3: example father income
-bip_39_word_space_4: example father income supply
-bip_39_word_space_5: example father income supply fitness
-bip_39_word_space_6: example father income supply fitness bar
-bip_39_word_space_7: example father income supply fitness bar ring
-bip_39_word_space_8: example father income supply fitness bar ring forget
-bip_39_word_space_9: example father income supply fitness bar ring forget safe
-bip_39_word_underscore_1: example
-bip_39_word_underscore_10: example_father_income_supply_fitness_bar_ring_forget_safe_pause
-bip_39_word_underscore_11: example_father_income_supply_fitness_bar_ring_forget_safe_pause_resource
 bip_39_word_underscore_12: example_father_income_supply_fitness_bar_ring_forget_safe_pause_resource_annual
 bip_39_word_underscore_2: example_father
 bip_39_word_underscore_3: example_father_income
-bip_39_word_underscore_4: example_father_income_supply
-bip_39_word_underscore_5: example_father_income_supply_fitness
-bip_39_word_underscore_6: example_father_income_supply_fitness_bar
-bip_39_word_underscore_7: example_father_income_supply_fitness_bar_ring
-bip_39_word_underscore_8: example_father_income_supply_fitness_bar_ring_forget
-bip_39_word_underscore_9: example_father_income_supply_fitness_bar_ring_forget_safe
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

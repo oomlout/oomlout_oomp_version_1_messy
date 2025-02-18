@@ -1,68 +1,9 @@
-bip_39_word_dash_1: make
-bip_39_word_dash_10: make-alone-giraffe-two-smooth-sister-kitten-chunk-suffer-chuckle
-bip_39_word_dash_11: make-alone-giraffe-two-smooth-sister-kitten-chunk-suffer-chuckle-usage
 bip_39_word_dash_12: make-alone-giraffe-two-smooth-sister-kitten-chunk-suffer-chuckle-usage-annual
 bip_39_word_dash_2: make-alone
 bip_39_word_dash_3: make-alone-giraffe
-bip_39_word_dash_4: make-alone-giraffe-two
-bip_39_word_dash_5: make-alone-giraffe-two-smooth
-bip_39_word_dash_6: make-alone-giraffe-two-smooth-sister
-bip_39_word_dash_7: make-alone-giraffe-two-smooth-sister-kitten
-bip_39_word_dash_8: make-alone-giraffe-two-smooth-sister-kitten-chunk
-bip_39_word_dash_9: make-alone-giraffe-two-smooth-sister-kitten-chunk-suffer
-bip_39_word_new_br_1: make
-bip_39_word_new_br_10: make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle
-bip_39_word_new_br_11: make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle<br>usage
 bip_39_word_new_br_12: make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle<br>usage<br>annual
 bip_39_word_new_br_2: make<br>alone
 bip_39_word_new_br_3: make<br>alone<br>giraffe
-bip_39_word_new_br_4: make<br>alone<br>giraffe<br>two
-bip_39_word_new_br_5: make<br>alone<br>giraffe<br>two<br>smooth
-bip_39_word_new_br_6: make<br>alone<br>giraffe<br>two<br>smooth<br>sister
-bip_39_word_new_br_7: make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten
-bip_39_word_new_br_8: make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk
-bip_39_word_new_br_9: make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer
-bip_39_word_new_line_1: make
-bip_39_word_new_line_10: 'make
-
-  alone
-
-  giraffe
-
-  two
-
-  smooth
-
-  sister
-
-  kitten
-
-  chunk
-
-  suffer
-
-  chuckle'
-bip_39_word_new_line_11: 'make
-
-  alone
-
-  giraffe
-
-  two
-
-  smooth
-
-  sister
-
-  kitten
-
-  chunk
-
-  suffer
-
-  chuckle
-
-  usage'
 bip_39_word_new_line_12: 'make
 
   alone
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'make
   alone
 
   giraffe'
-bip_39_word_new_line_4: 'make
-
-  alone
-
-  giraffe
-
-  two'
-bip_39_word_new_line_5: 'make
-
-  alone
-
-  giraffe
-
-  two
-
-  smooth'
-bip_39_word_new_line_6: 'make
-
-  alone
-
-  giraffe
-
-  two
-
-  smooth
-
-  sister'
-bip_39_word_new_line_7: 'make
-
-  alone
-
-  giraffe
-
-  two
-
-  smooth
-
-  sister
-
-  kitten'
-bip_39_word_new_line_8: 'make
-
-  alone
-
-  giraffe
-
-  two
-
-  smooth
-
-  sister
-
-  kitten
-
-  chunk'
-bip_39_word_new_line_9: 'make
-
-  alone
-
-  giraffe
-
-  two
-
-  smooth
-
-  sister
-
-  kitten
-
-  chunk
-
-  suffer'
-bip_39_word_no_space_1: make
-bip_39_word_no_space_10: makealonegiraffetwosmoothsisterkittenchunksufferchuckle
-bip_39_word_no_space_11: makealonegiraffetwosmoothsisterkittenchunksufferchuckleusage
 bip_39_word_no_space_12: makealonegiraffetwosmoothsisterkittenchunksufferchuckleusageannual
 bip_39_word_no_space_2: makealone
 bip_39_word_no_space_3: makealonegiraffe
-bip_39_word_no_space_4: makealonegiraffetwo
-bip_39_word_no_space_5: makealonegiraffetwosmooth
-bip_39_word_no_space_6: makealonegiraffetwosmoothsister
-bip_39_word_no_space_7: makealonegiraffetwosmoothsisterkitten
-bip_39_word_no_space_8: makealonegiraffetwosmoothsisterkittenchunk
-bip_39_word_no_space_9: makealonegiraffetwosmoothsisterkittenchunksuffer
-bip_39_word_space_0:
-- make
-- alone
-- giraffe
-- two
-- smooth
-- sister
-- kitten
-- chunk
-- suffer
-- chuckle
-- usage
-- annual
-bip_39_word_space_1: make
-bip_39_word_space_10: make alone giraffe two smooth sister kitten chunk suffer chuckle
-bip_39_word_space_11: make alone giraffe two smooth sister kitten chunk suffer chuckle
-  usage
 bip_39_word_space_12: make alone giraffe two smooth sister kitten chunk suffer chuckle
   usage annual
 bip_39_word_space_2: make alone
 bip_39_word_space_3: make alone giraffe
-bip_39_word_space_4: make alone giraffe two
-bip_39_word_space_5: make alone giraffe two smooth
-bip_39_word_space_6: make alone giraffe two smooth sister
-bip_39_word_space_7: make alone giraffe two smooth sister kitten
-bip_39_word_space_8: make alone giraffe two smooth sister kitten chunk
-bip_39_word_space_9: make alone giraffe two smooth sister kitten chunk suffer
-bip_39_word_underscore_1: make
-bip_39_word_underscore_10: make_alone_giraffe_two_smooth_sister_kitten_chunk_suffer_chuckle
-bip_39_word_underscore_11: make_alone_giraffe_two_smooth_sister_kitten_chunk_suffer_chuckle_usage
 bip_39_word_underscore_12: make_alone_giraffe_two_smooth_sister_kitten_chunk_suffer_chuckle_usage_annual
 bip_39_word_underscore_2: make_alone
 bip_39_word_underscore_3: make_alone_giraffe
-bip_39_word_underscore_4: make_alone_giraffe_two
-bip_39_word_underscore_5: make_alone_giraffe_two_smooth
-bip_39_word_underscore_6: make_alone_giraffe_two_smooth_sister
-bip_39_word_underscore_7: make_alone_giraffe_two_smooth_sister_kitten
-bip_39_word_underscore_8: make_alone_giraffe_two_smooth_sister_kitten_chunk
-bip_39_word_underscore_9: make_alone_giraffe_two_smooth_sister_kitten_chunk_suffer
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

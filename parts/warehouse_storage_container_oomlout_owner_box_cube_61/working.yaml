@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tunnel
-bip_39_word_dash_10: tunnel-pencil-mean-squirrel-tornado-ball-output-stomach-torch-correct
-bip_39_word_dash_11: tunnel-pencil-mean-squirrel-tornado-ball-output-stomach-torch-correct-beauty
 bip_39_word_dash_12: tunnel-pencil-mean-squirrel-tornado-ball-output-stomach-torch-correct-beauty-area
 bip_39_word_dash_2: tunnel-pencil
 bip_39_word_dash_3: tunnel-pencil-mean
-bip_39_word_dash_4: tunnel-pencil-mean-squirrel
-bip_39_word_dash_5: tunnel-pencil-mean-squirrel-tornado
-bip_39_word_dash_6: tunnel-pencil-mean-squirrel-tornado-ball
-bip_39_word_dash_7: tunnel-pencil-mean-squirrel-tornado-ball-output
-bip_39_word_dash_8: tunnel-pencil-mean-squirrel-tornado-ball-output-stomach
-bip_39_word_dash_9: tunnel-pencil-mean-squirrel-tornado-ball-output-stomach-torch
-bip_39_word_new_br_1: tunnel
-bip_39_word_new_br_10: tunnel<br>pencil<br>mean<br>squirrel<br>tornado<br>ball<br>output<br>stomach<br>torch<br>correct
-bip_39_word_new_br_11: tunnel<br>pencil<br>mean<br>squirrel<br>tornado<br>ball<br>output<br>stomach<br>torch<br>correct<br>beauty
 bip_39_word_new_br_12: tunnel<br>pencil<br>mean<br>squirrel<br>tornado<br>ball<br>output<br>stomach<br>torch<br>correct<br>beauty<br>area
 bip_39_word_new_br_2: tunnel<br>pencil
 bip_39_word_new_br_3: tunnel<br>pencil<br>mean
-bip_39_word_new_br_4: tunnel<br>pencil<br>mean<br>squirrel
-bip_39_word_new_br_5: tunnel<br>pencil<br>mean<br>squirrel<br>tornado
-bip_39_word_new_br_6: tunnel<br>pencil<br>mean<br>squirrel<br>tornado<br>ball
-bip_39_word_new_br_7: tunnel<br>pencil<br>mean<br>squirrel<br>tornado<br>ball<br>output
-bip_39_word_new_br_8: tunnel<br>pencil<br>mean<br>squirrel<br>tornado<br>ball<br>output<br>stomach
-bip_39_word_new_br_9: tunnel<br>pencil<br>mean<br>squirrel<br>tornado<br>ball<br>output<br>stomach<br>torch
-bip_39_word_new_line_1: tunnel
-bip_39_word_new_line_10: 'tunnel
-
-  pencil
-
-  mean
-
-  squirrel
-
-  tornado
-
-  ball
-
-  output
-
-  stomach
-
-  torch
-
-  correct'
-bip_39_word_new_line_11: 'tunnel
-
-  pencil
-
-  mean
-
-  squirrel
-
-  tornado
-
-  ball
-
-  output
-
-  stomach
-
-  torch
-
-  correct
-
-  beauty'
 bip_39_word_new_line_12: 'tunnel
 
   pencil
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'tunnel
   pencil
 
   mean'
-bip_39_word_new_line_4: 'tunnel
-
-  pencil
-
-  mean
-
-  squirrel'
-bip_39_word_new_line_5: 'tunnel
-
-  pencil
-
-  mean
-
-  squirrel
-
-  tornado'
-bip_39_word_new_line_6: 'tunnel
-
-  pencil
-
-  mean
-
-  squirrel
-
-  tornado
-
-  ball'
-bip_39_word_new_line_7: 'tunnel
-
-  pencil
-
-  mean
-
-  squirrel
-
-  tornado
-
-  ball
-
-  output'
-bip_39_word_new_line_8: 'tunnel
-
-  pencil
-
-  mean
-
-  squirrel
-
-  tornado
-
-  ball
-
-  output
-
-  stomach'
-bip_39_word_new_line_9: 'tunnel
-
-  pencil
-
-  mean
-
-  squirrel
-
-  tornado
-
-  ball
-
-  output
-
-  stomach
-
-  torch'
-bip_39_word_no_space_1: tunnel
-bip_39_word_no_space_10: tunnelpencilmeansquirreltornadoballoutputstomachtorchcorrect
-bip_39_word_no_space_11: tunnelpencilmeansquirreltornadoballoutputstomachtorchcorrectbeauty
 bip_39_word_no_space_12: tunnelpencilmeansquirreltornadoballoutputstomachtorchcorrectbeautyarea
 bip_39_word_no_space_2: tunnelpencil
 bip_39_word_no_space_3: tunnelpencilmean
-bip_39_word_no_space_4: tunnelpencilmeansquirrel
-bip_39_word_no_space_5: tunnelpencilmeansquirreltornado
-bip_39_word_no_space_6: tunnelpencilmeansquirreltornadoball
-bip_39_word_no_space_7: tunnelpencilmeansquirreltornadoballoutput
-bip_39_word_no_space_8: tunnelpencilmeansquirreltornadoballoutputstomach
-bip_39_word_no_space_9: tunnelpencilmeansquirreltornadoballoutputstomachtorch
-bip_39_word_space_0:
-- tunnel
-- pencil
-- mean
-- squirrel
-- tornado
-- ball
-- output
-- stomach
-- torch
-- correct
-- beauty
-- area
-bip_39_word_space_1: tunnel
-bip_39_word_space_10: tunnel pencil mean squirrel tornado ball output stomach torch
-  correct
-bip_39_word_space_11: tunnel pencil mean squirrel tornado ball output stomach torch
-  correct beauty
 bip_39_word_space_12: tunnel pencil mean squirrel tornado ball output stomach torch
   correct beauty area
 bip_39_word_space_2: tunnel pencil
 bip_39_word_space_3: tunnel pencil mean
-bip_39_word_space_4: tunnel pencil mean squirrel
-bip_39_word_space_5: tunnel pencil mean squirrel tornado
-bip_39_word_space_6: tunnel pencil mean squirrel tornado ball
-bip_39_word_space_7: tunnel pencil mean squirrel tornado ball output
-bip_39_word_space_8: tunnel pencil mean squirrel tornado ball output stomach
-bip_39_word_space_9: tunnel pencil mean squirrel tornado ball output stomach torch
-bip_39_word_underscore_1: tunnel
-bip_39_word_underscore_10: tunnel_pencil_mean_squirrel_tornado_ball_output_stomach_torch_correct
-bip_39_word_underscore_11: tunnel_pencil_mean_squirrel_tornado_ball_output_stomach_torch_correct_beauty
 bip_39_word_underscore_12: tunnel_pencil_mean_squirrel_tornado_ball_output_stomach_torch_correct_beauty_area
 bip_39_word_underscore_2: tunnel_pencil
 bip_39_word_underscore_3: tunnel_pencil_mean
-bip_39_word_underscore_4: tunnel_pencil_mean_squirrel
-bip_39_word_underscore_5: tunnel_pencil_mean_squirrel_tornado
-bip_39_word_underscore_6: tunnel_pencil_mean_squirrel_tornado_ball
-bip_39_word_underscore_7: tunnel_pencil_mean_squirrel_tornado_ball_output
-bip_39_word_underscore_8: tunnel_pencil_mean_squirrel_tornado_ball_output_stomach
-bip_39_word_underscore_9: tunnel_pencil_mean_squirrel_tornado_ball_output_stomach_torch
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

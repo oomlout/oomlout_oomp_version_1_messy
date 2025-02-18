@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ahead
-bip_39_word_dash_10: ahead-balance-crazy-funny-donkey-guess-enjoy-carry-prepare-cattle
-bip_39_word_dash_11: ahead-balance-crazy-funny-donkey-guess-enjoy-carry-prepare-cattle-baby
 bip_39_word_dash_12: ahead-balance-crazy-funny-donkey-guess-enjoy-carry-prepare-cattle-baby-alarm
 bip_39_word_dash_2: ahead-balance
 bip_39_word_dash_3: ahead-balance-crazy
-bip_39_word_dash_4: ahead-balance-crazy-funny
-bip_39_word_dash_5: ahead-balance-crazy-funny-donkey
-bip_39_word_dash_6: ahead-balance-crazy-funny-donkey-guess
-bip_39_word_dash_7: ahead-balance-crazy-funny-donkey-guess-enjoy
-bip_39_word_dash_8: ahead-balance-crazy-funny-donkey-guess-enjoy-carry
-bip_39_word_dash_9: ahead-balance-crazy-funny-donkey-guess-enjoy-carry-prepare
-bip_39_word_new_br_1: ahead
-bip_39_word_new_br_10: ahead<br>balance<br>crazy<br>funny<br>donkey<br>guess<br>enjoy<br>carry<br>prepare<br>cattle
-bip_39_word_new_br_11: ahead<br>balance<br>crazy<br>funny<br>donkey<br>guess<br>enjoy<br>carry<br>prepare<br>cattle<br>baby
 bip_39_word_new_br_12: ahead<br>balance<br>crazy<br>funny<br>donkey<br>guess<br>enjoy<br>carry<br>prepare<br>cattle<br>baby<br>alarm
 bip_39_word_new_br_2: ahead<br>balance
 bip_39_word_new_br_3: ahead<br>balance<br>crazy
-bip_39_word_new_br_4: ahead<br>balance<br>crazy<br>funny
-bip_39_word_new_br_5: ahead<br>balance<br>crazy<br>funny<br>donkey
-bip_39_word_new_br_6: ahead<br>balance<br>crazy<br>funny<br>donkey<br>guess
-bip_39_word_new_br_7: ahead<br>balance<br>crazy<br>funny<br>donkey<br>guess<br>enjoy
-bip_39_word_new_br_8: ahead<br>balance<br>crazy<br>funny<br>donkey<br>guess<br>enjoy<br>carry
-bip_39_word_new_br_9: ahead<br>balance<br>crazy<br>funny<br>donkey<br>guess<br>enjoy<br>carry<br>prepare
-bip_39_word_new_line_1: ahead
-bip_39_word_new_line_10: 'ahead
-
-  balance
-
-  crazy
-
-  funny
-
-  donkey
-
-  guess
-
-  enjoy
-
-  carry
-
-  prepare
-
-  cattle'
-bip_39_word_new_line_11: 'ahead
-
-  balance
-
-  crazy
-
-  funny
-
-  donkey
-
-  guess
-
-  enjoy
-
-  carry
-
-  prepare
-
-  cattle
-
-  baby'
 bip_39_word_new_line_12: 'ahead
 
   balance
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ahead
   balance
 
   crazy'
-bip_39_word_new_line_4: 'ahead
-
-  balance
-
-  crazy
-
-  funny'
-bip_39_word_new_line_5: 'ahead
-
-  balance
-
-  crazy
-
-  funny
-
-  donkey'
-bip_39_word_new_line_6: 'ahead
-
-  balance
-
-  crazy
-
-  funny
-
-  donkey
-
-  guess'
-bip_39_word_new_line_7: 'ahead
-
-  balance
-
-  crazy
-
-  funny
-
-  donkey
-
-  guess
-
-  enjoy'
-bip_39_word_new_line_8: 'ahead
-
-  balance
-
-  crazy
-
-  funny
-
-  donkey
-
-  guess
-
-  enjoy
-
-  carry'
-bip_39_word_new_line_9: 'ahead
-
-  balance
-
-  crazy
-
-  funny
-
-  donkey
-
-  guess
-
-  enjoy
-
-  carry
-
-  prepare'
-bip_39_word_no_space_1: ahead
-bip_39_word_no_space_10: aheadbalancecrazyfunnydonkeyguessenjoycarrypreparecattle
-bip_39_word_no_space_11: aheadbalancecrazyfunnydonkeyguessenjoycarrypreparecattlebaby
 bip_39_word_no_space_12: aheadbalancecrazyfunnydonkeyguessenjoycarrypreparecattlebabyalarm
 bip_39_word_no_space_2: aheadbalance
 bip_39_word_no_space_3: aheadbalancecrazy
-bip_39_word_no_space_4: aheadbalancecrazyfunny
-bip_39_word_no_space_5: aheadbalancecrazyfunnydonkey
-bip_39_word_no_space_6: aheadbalancecrazyfunnydonkeyguess
-bip_39_word_no_space_7: aheadbalancecrazyfunnydonkeyguessenjoy
-bip_39_word_no_space_8: aheadbalancecrazyfunnydonkeyguessenjoycarry
-bip_39_word_no_space_9: aheadbalancecrazyfunnydonkeyguessenjoycarryprepare
-bip_39_word_space_0:
-- ahead
-- balance
-- crazy
-- funny
-- donkey
-- guess
-- enjoy
-- carry
-- prepare
-- cattle
-- baby
-- alarm
-bip_39_word_space_1: ahead
-bip_39_word_space_10: ahead balance crazy funny donkey guess enjoy carry prepare cattle
-bip_39_word_space_11: ahead balance crazy funny donkey guess enjoy carry prepare cattle
-  baby
 bip_39_word_space_12: ahead balance crazy funny donkey guess enjoy carry prepare cattle
   baby alarm
 bip_39_word_space_2: ahead balance
 bip_39_word_space_3: ahead balance crazy
-bip_39_word_space_4: ahead balance crazy funny
-bip_39_word_space_5: ahead balance crazy funny donkey
-bip_39_word_space_6: ahead balance crazy funny donkey guess
-bip_39_word_space_7: ahead balance crazy funny donkey guess enjoy
-bip_39_word_space_8: ahead balance crazy funny donkey guess enjoy carry
-bip_39_word_space_9: ahead balance crazy funny donkey guess enjoy carry prepare
-bip_39_word_underscore_1: ahead
-bip_39_word_underscore_10: ahead_balance_crazy_funny_donkey_guess_enjoy_carry_prepare_cattle
-bip_39_word_underscore_11: ahead_balance_crazy_funny_donkey_guess_enjoy_carry_prepare_cattle_baby
 bip_39_word_underscore_12: ahead_balance_crazy_funny_donkey_guess_enjoy_carry_prepare_cattle_baby_alarm
 bip_39_word_underscore_2: ahead_balance
 bip_39_word_underscore_3: ahead_balance_crazy
-bip_39_word_underscore_4: ahead_balance_crazy_funny
-bip_39_word_underscore_5: ahead_balance_crazy_funny_donkey
-bip_39_word_underscore_6: ahead_balance_crazy_funny_donkey_guess
-bip_39_word_underscore_7: ahead_balance_crazy_funny_donkey_guess_enjoy
-bip_39_word_underscore_8: ahead_balance_crazy_funny_donkey_guess_enjoy_carry
-bip_39_word_underscore_9: ahead_balance_crazy_funny_donkey_guess_enjoy_carry_prepare
 classification: category
 classification_capital: Category
 classification_first_letter: c

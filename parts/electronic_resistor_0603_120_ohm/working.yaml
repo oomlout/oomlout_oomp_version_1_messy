@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uniform
-bip_39_word_dash_10: uniform-cupboard-state-angle-door-party-message-gain-corn-peanut
-bip_39_word_dash_11: uniform-cupboard-state-angle-door-party-message-gain-corn-peanut-clown
 bip_39_word_dash_12: uniform-cupboard-state-angle-door-party-message-gain-corn-peanut-clown-amused
 bip_39_word_dash_2: uniform-cupboard
 bip_39_word_dash_3: uniform-cupboard-state
-bip_39_word_dash_4: uniform-cupboard-state-angle
-bip_39_word_dash_5: uniform-cupboard-state-angle-door
-bip_39_word_dash_6: uniform-cupboard-state-angle-door-party
-bip_39_word_dash_7: uniform-cupboard-state-angle-door-party-message
-bip_39_word_dash_8: uniform-cupboard-state-angle-door-party-message-gain
-bip_39_word_dash_9: uniform-cupboard-state-angle-door-party-message-gain-corn
-bip_39_word_new_br_1: uniform
-bip_39_word_new_br_10: uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut
-bip_39_word_new_br_11: uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut<br>clown
 bip_39_word_new_br_12: uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn<br>peanut<br>clown<br>amused
 bip_39_word_new_br_2: uniform<br>cupboard
 bip_39_word_new_br_3: uniform<br>cupboard<br>state
-bip_39_word_new_br_4: uniform<br>cupboard<br>state<br>angle
-bip_39_word_new_br_5: uniform<br>cupboard<br>state<br>angle<br>door
-bip_39_word_new_br_6: uniform<br>cupboard<br>state<br>angle<br>door<br>party
-bip_39_word_new_br_7: uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message
-bip_39_word_new_br_8: uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain
-bip_39_word_new_br_9: uniform<br>cupboard<br>state<br>angle<br>door<br>party<br>message<br>gain<br>corn
-bip_39_word_new_line_1: uniform
-bip_39_word_new_line_10: 'uniform
-
-  cupboard
-
-  state
-
-  angle
-
-  door
-
-  party
-
-  message
-
-  gain
-
-  corn
-
-  peanut'
-bip_39_word_new_line_11: 'uniform
-
-  cupboard
-
-  state
-
-  angle
-
-  door
-
-  party
-
-  message
-
-  gain
-
-  corn
-
-  peanut
-
-  clown'
 bip_39_word_new_line_12: 'uniform
 
   cupboard
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'uniform
   cupboard
 
   state'
-bip_39_word_new_line_4: 'uniform
-
-  cupboard
-
-  state
-
-  angle'
-bip_39_word_new_line_5: 'uniform
-
-  cupboard
-
-  state
-
-  angle
-
-  door'
-bip_39_word_new_line_6: 'uniform
-
-  cupboard
-
-  state
-
-  angle
-
-  door
-
-  party'
-bip_39_word_new_line_7: 'uniform
-
-  cupboard
-
-  state
-
-  angle
-
-  door
-
-  party
-
-  message'
-bip_39_word_new_line_8: 'uniform
-
-  cupboard
-
-  state
-
-  angle
-
-  door
-
-  party
-
-  message
-
-  gain'
-bip_39_word_new_line_9: 'uniform
-
-  cupboard
-
-  state
-
-  angle
-
-  door
-
-  party
-
-  message
-
-  gain
-
-  corn'
-bip_39_word_no_space_1: uniform
-bip_39_word_no_space_10: uniformcupboardstateangledoorpartymessagegaincornpeanut
-bip_39_word_no_space_11: uniformcupboardstateangledoorpartymessagegaincornpeanutclown
 bip_39_word_no_space_12: uniformcupboardstateangledoorpartymessagegaincornpeanutclownamused
 bip_39_word_no_space_2: uniformcupboard
 bip_39_word_no_space_3: uniformcupboardstate
-bip_39_word_no_space_4: uniformcupboardstateangle
-bip_39_word_no_space_5: uniformcupboardstateangledoor
-bip_39_word_no_space_6: uniformcupboardstateangledoorparty
-bip_39_word_no_space_7: uniformcupboardstateangledoorpartymessage
-bip_39_word_no_space_8: uniformcupboardstateangledoorpartymessagegain
-bip_39_word_no_space_9: uniformcupboardstateangledoorpartymessagegaincorn
-bip_39_word_space_0:
-- uniform
-- cupboard
-- state
-- angle
-- door
-- party
-- message
-- gain
-- corn
-- peanut
-- clown
-- amused
-bip_39_word_space_1: uniform
-bip_39_word_space_10: uniform cupboard state angle door party message gain corn peanut
-bip_39_word_space_11: uniform cupboard state angle door party message gain corn peanut
-  clown
 bip_39_word_space_12: uniform cupboard state angle door party message gain corn peanut
   clown amused
 bip_39_word_space_2: uniform cupboard
 bip_39_word_space_3: uniform cupboard state
-bip_39_word_space_4: uniform cupboard state angle
-bip_39_word_space_5: uniform cupboard state angle door
-bip_39_word_space_6: uniform cupboard state angle door party
-bip_39_word_space_7: uniform cupboard state angle door party message
-bip_39_word_space_8: uniform cupboard state angle door party message gain
-bip_39_word_space_9: uniform cupboard state angle door party message gain corn
-bip_39_word_underscore_1: uniform
-bip_39_word_underscore_10: uniform_cupboard_state_angle_door_party_message_gain_corn_peanut
-bip_39_word_underscore_11: uniform_cupboard_state_angle_door_party_message_gain_corn_peanut_clown
 bip_39_word_underscore_12: uniform_cupboard_state_angle_door_party_message_gain_corn_peanut_clown_amused
 bip_39_word_underscore_2: uniform_cupboard
 bip_39_word_underscore_3: uniform_cupboard_state
-bip_39_word_underscore_4: uniform_cupboard_state_angle
-bip_39_word_underscore_5: uniform_cupboard_state_angle_door
-bip_39_word_underscore_6: uniform_cupboard_state_angle_door_party
-bip_39_word_underscore_7: uniform_cupboard_state_angle_door_party_message
-bip_39_word_underscore_8: uniform_cupboard_state_angle_door_party_message_gain
-bip_39_word_underscore_9: uniform_cupboard_state_angle_door_party_message_gain_corn
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

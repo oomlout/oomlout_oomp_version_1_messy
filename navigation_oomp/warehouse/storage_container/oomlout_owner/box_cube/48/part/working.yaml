@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hamster
-bip_39_word_dash_10: hamster-match-useless-victory-senior-rescue-ketchup-someone-clutch-noise
-bip_39_word_dash_11: hamster-match-useless-victory-senior-rescue-ketchup-someone-clutch-noise-maze
 bip_39_word_dash_12: hamster-match-useless-victory-senior-rescue-ketchup-someone-clutch-noise-maze-ahead
 bip_39_word_dash_2: hamster-match
 bip_39_word_dash_3: hamster-match-useless
-bip_39_word_dash_4: hamster-match-useless-victory
-bip_39_word_dash_5: hamster-match-useless-victory-senior
-bip_39_word_dash_6: hamster-match-useless-victory-senior-rescue
-bip_39_word_dash_7: hamster-match-useless-victory-senior-rescue-ketchup
-bip_39_word_dash_8: hamster-match-useless-victory-senior-rescue-ketchup-someone
-bip_39_word_dash_9: hamster-match-useless-victory-senior-rescue-ketchup-someone-clutch
-bip_39_word_new_br_1: hamster
-bip_39_word_new_br_10: hamster<br>match<br>useless<br>victory<br>senior<br>rescue<br>ketchup<br>someone<br>clutch<br>noise
-bip_39_word_new_br_11: hamster<br>match<br>useless<br>victory<br>senior<br>rescue<br>ketchup<br>someone<br>clutch<br>noise<br>maze
 bip_39_word_new_br_12: hamster<br>match<br>useless<br>victory<br>senior<br>rescue<br>ketchup<br>someone<br>clutch<br>noise<br>maze<br>ahead
 bip_39_word_new_br_2: hamster<br>match
 bip_39_word_new_br_3: hamster<br>match<br>useless
-bip_39_word_new_br_4: hamster<br>match<br>useless<br>victory
-bip_39_word_new_br_5: hamster<br>match<br>useless<br>victory<br>senior
-bip_39_word_new_br_6: hamster<br>match<br>useless<br>victory<br>senior<br>rescue
-bip_39_word_new_br_7: hamster<br>match<br>useless<br>victory<br>senior<br>rescue<br>ketchup
-bip_39_word_new_br_8: hamster<br>match<br>useless<br>victory<br>senior<br>rescue<br>ketchup<br>someone
-bip_39_word_new_br_9: hamster<br>match<br>useless<br>victory<br>senior<br>rescue<br>ketchup<br>someone<br>clutch
-bip_39_word_new_line_1: hamster
-bip_39_word_new_line_10: 'hamster
-
-  match
-
-  useless
-
-  victory
-
-  senior
-
-  rescue
-
-  ketchup
-
-  someone
-
-  clutch
-
-  noise'
-bip_39_word_new_line_11: 'hamster
-
-  match
-
-  useless
-
-  victory
-
-  senior
-
-  rescue
-
-  ketchup
-
-  someone
-
-  clutch
-
-  noise
-
-  maze'
 bip_39_word_new_line_12: 'hamster
 
   match
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hamster
   match
 
   useless'
-bip_39_word_new_line_4: 'hamster
-
-  match
-
-  useless
-
-  victory'
-bip_39_word_new_line_5: 'hamster
-
-  match
-
-  useless
-
-  victory
-
-  senior'
-bip_39_word_new_line_6: 'hamster
-
-  match
-
-  useless
-
-  victory
-
-  senior
-
-  rescue'
-bip_39_word_new_line_7: 'hamster
-
-  match
-
-  useless
-
-  victory
-
-  senior
-
-  rescue
-
-  ketchup'
-bip_39_word_new_line_8: 'hamster
-
-  match
-
-  useless
-
-  victory
-
-  senior
-
-  rescue
-
-  ketchup
-
-  someone'
-bip_39_word_new_line_9: 'hamster
-
-  match
-
-  useless
-
-  victory
-
-  senior
-
-  rescue
-
-  ketchup
-
-  someone
-
-  clutch'
-bip_39_word_no_space_1: hamster
-bip_39_word_no_space_10: hamstermatchuselessvictoryseniorrescueketchupsomeoneclutchnoise
-bip_39_word_no_space_11: hamstermatchuselessvictoryseniorrescueketchupsomeoneclutchnoisemaze
 bip_39_word_no_space_12: hamstermatchuselessvictoryseniorrescueketchupsomeoneclutchnoisemazeahead
 bip_39_word_no_space_2: hamstermatch
 bip_39_word_no_space_3: hamstermatchuseless
-bip_39_word_no_space_4: hamstermatchuselessvictory
-bip_39_word_no_space_5: hamstermatchuselessvictorysenior
-bip_39_word_no_space_6: hamstermatchuselessvictoryseniorrescue
-bip_39_word_no_space_7: hamstermatchuselessvictoryseniorrescueketchup
-bip_39_word_no_space_8: hamstermatchuselessvictoryseniorrescueketchupsomeone
-bip_39_word_no_space_9: hamstermatchuselessvictoryseniorrescueketchupsomeoneclutch
-bip_39_word_space_0:
-- hamster
-- match
-- useless
-- victory
-- senior
-- rescue
-- ketchup
-- someone
-- clutch
-- noise
-- maze
-- ahead
-bip_39_word_space_1: hamster
-bip_39_word_space_10: hamster match useless victory senior rescue ketchup someone
-  clutch noise
-bip_39_word_space_11: hamster match useless victory senior rescue ketchup someone
-  clutch noise maze
 bip_39_word_space_12: hamster match useless victory senior rescue ketchup someone
   clutch noise maze ahead
 bip_39_word_space_2: hamster match
 bip_39_word_space_3: hamster match useless
-bip_39_word_space_4: hamster match useless victory
-bip_39_word_space_5: hamster match useless victory senior
-bip_39_word_space_6: hamster match useless victory senior rescue
-bip_39_word_space_7: hamster match useless victory senior rescue ketchup
-bip_39_word_space_8: hamster match useless victory senior rescue ketchup someone
-bip_39_word_space_9: hamster match useless victory senior rescue ketchup someone clutch
-bip_39_word_underscore_1: hamster
-bip_39_word_underscore_10: hamster_match_useless_victory_senior_rescue_ketchup_someone_clutch_noise
-bip_39_word_underscore_11: hamster_match_useless_victory_senior_rescue_ketchup_someone_clutch_noise_maze
 bip_39_word_underscore_12: hamster_match_useless_victory_senior_rescue_ketchup_someone_clutch_noise_maze_ahead
 bip_39_word_underscore_2: hamster_match
 bip_39_word_underscore_3: hamster_match_useless
-bip_39_word_underscore_4: hamster_match_useless_victory
-bip_39_word_underscore_5: hamster_match_useless_victory_senior
-bip_39_word_underscore_6: hamster_match_useless_victory_senior_rescue
-bip_39_word_underscore_7: hamster_match_useless_victory_senior_rescue_ketchup
-bip_39_word_underscore_8: hamster_match_useless_victory_senior_rescue_ketchup_someone
-bip_39_word_underscore_9: hamster_match_useless_victory_senior_rescue_ketchup_someone_clutch
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

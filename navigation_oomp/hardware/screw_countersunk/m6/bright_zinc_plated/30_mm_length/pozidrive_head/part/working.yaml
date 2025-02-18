@@ -1,68 +1,9 @@
-bip_39_word_dash_1: acoustic
-bip_39_word_dash_10: acoustic-purse-blood-country-pause-acid-debate-pencil-grace-flavor
-bip_39_word_dash_11: acoustic-purse-blood-country-pause-acid-debate-pencil-grace-flavor-between
 bip_39_word_dash_12: acoustic-purse-blood-country-pause-acid-debate-pencil-grace-flavor-between-alarm
 bip_39_word_dash_2: acoustic-purse
 bip_39_word_dash_3: acoustic-purse-blood
-bip_39_word_dash_4: acoustic-purse-blood-country
-bip_39_word_dash_5: acoustic-purse-blood-country-pause
-bip_39_word_dash_6: acoustic-purse-blood-country-pause-acid
-bip_39_word_dash_7: acoustic-purse-blood-country-pause-acid-debate
-bip_39_word_dash_8: acoustic-purse-blood-country-pause-acid-debate-pencil
-bip_39_word_dash_9: acoustic-purse-blood-country-pause-acid-debate-pencil-grace
-bip_39_word_new_br_1: acoustic
-bip_39_word_new_br_10: acoustic<br>purse<br>blood<br>country<br>pause<br>acid<br>debate<br>pencil<br>grace<br>flavor
-bip_39_word_new_br_11: acoustic<br>purse<br>blood<br>country<br>pause<br>acid<br>debate<br>pencil<br>grace<br>flavor<br>between
 bip_39_word_new_br_12: acoustic<br>purse<br>blood<br>country<br>pause<br>acid<br>debate<br>pencil<br>grace<br>flavor<br>between<br>alarm
 bip_39_word_new_br_2: acoustic<br>purse
 bip_39_word_new_br_3: acoustic<br>purse<br>blood
-bip_39_word_new_br_4: acoustic<br>purse<br>blood<br>country
-bip_39_word_new_br_5: acoustic<br>purse<br>blood<br>country<br>pause
-bip_39_word_new_br_6: acoustic<br>purse<br>blood<br>country<br>pause<br>acid
-bip_39_word_new_br_7: acoustic<br>purse<br>blood<br>country<br>pause<br>acid<br>debate
-bip_39_word_new_br_8: acoustic<br>purse<br>blood<br>country<br>pause<br>acid<br>debate<br>pencil
-bip_39_word_new_br_9: acoustic<br>purse<br>blood<br>country<br>pause<br>acid<br>debate<br>pencil<br>grace
-bip_39_word_new_line_1: acoustic
-bip_39_word_new_line_10: 'acoustic
-
-  purse
-
-  blood
-
-  country
-
-  pause
-
-  acid
-
-  debate
-
-  pencil
-
-  grace
-
-  flavor'
-bip_39_word_new_line_11: 'acoustic
-
-  purse
-
-  blood
-
-  country
-
-  pause
-
-  acid
-
-  debate
-
-  pencil
-
-  grace
-
-  flavor
-
-  between'
 bip_39_word_new_line_12: 'acoustic
 
   purse
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'acoustic
   purse
 
   blood'
-bip_39_word_new_line_4: 'acoustic
-
-  purse
-
-  blood
-
-  country'
-bip_39_word_new_line_5: 'acoustic
-
-  purse
-
-  blood
-
-  country
-
-  pause'
-bip_39_word_new_line_6: 'acoustic
-
-  purse
-
-  blood
-
-  country
-
-  pause
-
-  acid'
-bip_39_word_new_line_7: 'acoustic
-
-  purse
-
-  blood
-
-  country
-
-  pause
-
-  acid
-
-  debate'
-bip_39_word_new_line_8: 'acoustic
-
-  purse
-
-  blood
-
-  country
-
-  pause
-
-  acid
-
-  debate
-
-  pencil'
-bip_39_word_new_line_9: 'acoustic
-
-  purse
-
-  blood
-
-  country
-
-  pause
-
-  acid
-
-  debate
-
-  pencil
-
-  grace'
-bip_39_word_no_space_1: acoustic
-bip_39_word_no_space_10: acousticpursebloodcountrypauseaciddebatepencilgraceflavor
-bip_39_word_no_space_11: acousticpursebloodcountrypauseaciddebatepencilgraceflavorbetween
 bip_39_word_no_space_12: acousticpursebloodcountrypauseaciddebatepencilgraceflavorbetweenalarm
 bip_39_word_no_space_2: acousticpurse
 bip_39_word_no_space_3: acousticpurseblood
-bip_39_word_no_space_4: acousticpursebloodcountry
-bip_39_word_no_space_5: acousticpursebloodcountrypause
-bip_39_word_no_space_6: acousticpursebloodcountrypauseacid
-bip_39_word_no_space_7: acousticpursebloodcountrypauseaciddebate
-bip_39_word_no_space_8: acousticpursebloodcountrypauseaciddebatepencil
-bip_39_word_no_space_9: acousticpursebloodcountrypauseaciddebatepencilgrace
-bip_39_word_space_0:
-- acoustic
-- purse
-- blood
-- country
-- pause
-- acid
-- debate
-- pencil
-- grace
-- flavor
-- between
-- alarm
-bip_39_word_space_1: acoustic
-bip_39_word_space_10: acoustic purse blood country pause acid debate pencil grace
-  flavor
-bip_39_word_space_11: acoustic purse blood country pause acid debate pencil grace
-  flavor between
 bip_39_word_space_12: acoustic purse blood country pause acid debate pencil grace
   flavor between alarm
 bip_39_word_space_2: acoustic purse
 bip_39_word_space_3: acoustic purse blood
-bip_39_word_space_4: acoustic purse blood country
-bip_39_word_space_5: acoustic purse blood country pause
-bip_39_word_space_6: acoustic purse blood country pause acid
-bip_39_word_space_7: acoustic purse blood country pause acid debate
-bip_39_word_space_8: acoustic purse blood country pause acid debate pencil
-bip_39_word_space_9: acoustic purse blood country pause acid debate pencil grace
-bip_39_word_underscore_1: acoustic
-bip_39_word_underscore_10: acoustic_purse_blood_country_pause_acid_debate_pencil_grace_flavor
-bip_39_word_underscore_11: acoustic_purse_blood_country_pause_acid_debate_pencil_grace_flavor_between
 bip_39_word_underscore_12: acoustic_purse_blood_country_pause_acid_debate_pencil_grace_flavor_between_alarm
 bip_39_word_underscore_2: acoustic_purse
 bip_39_word_underscore_3: acoustic_purse_blood
-bip_39_word_underscore_4: acoustic_purse_blood_country
-bip_39_word_underscore_5: acoustic_purse_blood_country_pause
-bip_39_word_underscore_6: acoustic_purse_blood_country_pause_acid
-bip_39_word_underscore_7: acoustic_purse_blood_country_pause_acid_debate
-bip_39_word_underscore_8: acoustic_purse_blood_country_pause_acid_debate_pencil
-bip_39_word_underscore_9: acoustic_purse_blood_country_pause_acid_debate_pencil_grace
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

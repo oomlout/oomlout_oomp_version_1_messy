@@ -1,68 +1,9 @@
-bip_39_word_dash_1: select
-bip_39_word_dash_10: select-endorse-wedding-crystal-retreat-more-unveil-retire-glance-ridge
-bip_39_word_dash_11: select-endorse-wedding-crystal-retreat-more-unveil-retire-glance-ridge-monitor
 bip_39_word_dash_12: select-endorse-wedding-crystal-retreat-more-unveil-retire-glance-ridge-monitor-alone
 bip_39_word_dash_2: select-endorse
 bip_39_word_dash_3: select-endorse-wedding
-bip_39_word_dash_4: select-endorse-wedding-crystal
-bip_39_word_dash_5: select-endorse-wedding-crystal-retreat
-bip_39_word_dash_6: select-endorse-wedding-crystal-retreat-more
-bip_39_word_dash_7: select-endorse-wedding-crystal-retreat-more-unveil
-bip_39_word_dash_8: select-endorse-wedding-crystal-retreat-more-unveil-retire
-bip_39_word_dash_9: select-endorse-wedding-crystal-retreat-more-unveil-retire-glance
-bip_39_word_new_br_1: select
-bip_39_word_new_br_10: select<br>endorse<br>wedding<br>crystal<br>retreat<br>more<br>unveil<br>retire<br>glance<br>ridge
-bip_39_word_new_br_11: select<br>endorse<br>wedding<br>crystal<br>retreat<br>more<br>unveil<br>retire<br>glance<br>ridge<br>monitor
 bip_39_word_new_br_12: select<br>endorse<br>wedding<br>crystal<br>retreat<br>more<br>unveil<br>retire<br>glance<br>ridge<br>monitor<br>alone
 bip_39_word_new_br_2: select<br>endorse
 bip_39_word_new_br_3: select<br>endorse<br>wedding
-bip_39_word_new_br_4: select<br>endorse<br>wedding<br>crystal
-bip_39_word_new_br_5: select<br>endorse<br>wedding<br>crystal<br>retreat
-bip_39_word_new_br_6: select<br>endorse<br>wedding<br>crystal<br>retreat<br>more
-bip_39_word_new_br_7: select<br>endorse<br>wedding<br>crystal<br>retreat<br>more<br>unveil
-bip_39_word_new_br_8: select<br>endorse<br>wedding<br>crystal<br>retreat<br>more<br>unveil<br>retire
-bip_39_word_new_br_9: select<br>endorse<br>wedding<br>crystal<br>retreat<br>more<br>unveil<br>retire<br>glance
-bip_39_word_new_line_1: select
-bip_39_word_new_line_10: 'select
-
-  endorse
-
-  wedding
-
-  crystal
-
-  retreat
-
-  more
-
-  unveil
-
-  retire
-
-  glance
-
-  ridge'
-bip_39_word_new_line_11: 'select
-
-  endorse
-
-  wedding
-
-  crystal
-
-  retreat
-
-  more
-
-  unveil
-
-  retire
-
-  glance
-
-  ridge
-
-  monitor'
 bip_39_word_new_line_12: 'select
 
   endorse
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'select
   endorse
 
   wedding'
-bip_39_word_new_line_4: 'select
-
-  endorse
-
-  wedding
-
-  crystal'
-bip_39_word_new_line_5: 'select
-
-  endorse
-
-  wedding
-
-  crystal
-
-  retreat'
-bip_39_word_new_line_6: 'select
-
-  endorse
-
-  wedding
-
-  crystal
-
-  retreat
-
-  more'
-bip_39_word_new_line_7: 'select
-
-  endorse
-
-  wedding
-
-  crystal
-
-  retreat
-
-  more
-
-  unveil'
-bip_39_word_new_line_8: 'select
-
-  endorse
-
-  wedding
-
-  crystal
-
-  retreat
-
-  more
-
-  unveil
-
-  retire'
-bip_39_word_new_line_9: 'select
-
-  endorse
-
-  wedding
-
-  crystal
-
-  retreat
-
-  more
-
-  unveil
-
-  retire
-
-  glance'
-bip_39_word_no_space_1: select
-bip_39_word_no_space_10: selectendorseweddingcrystalretreatmoreunveilretireglanceridge
-bip_39_word_no_space_11: selectendorseweddingcrystalretreatmoreunveilretireglanceridgemonitor
 bip_39_word_no_space_12: selectendorseweddingcrystalretreatmoreunveilretireglanceridgemonitoralone
 bip_39_word_no_space_2: selectendorse
 bip_39_word_no_space_3: selectendorsewedding
-bip_39_word_no_space_4: selectendorseweddingcrystal
-bip_39_word_no_space_5: selectendorseweddingcrystalretreat
-bip_39_word_no_space_6: selectendorseweddingcrystalretreatmore
-bip_39_word_no_space_7: selectendorseweddingcrystalretreatmoreunveil
-bip_39_word_no_space_8: selectendorseweddingcrystalretreatmoreunveilretire
-bip_39_word_no_space_9: selectendorseweddingcrystalretreatmoreunveilretireglance
-bip_39_word_space_0:
-- select
-- endorse
-- wedding
-- crystal
-- retreat
-- more
-- unveil
-- retire
-- glance
-- ridge
-- monitor
-- alone
-bip_39_word_space_1: select
-bip_39_word_space_10: select endorse wedding crystal retreat more unveil retire glance
-  ridge
-bip_39_word_space_11: select endorse wedding crystal retreat more unveil retire glance
-  ridge monitor
 bip_39_word_space_12: select endorse wedding crystal retreat more unveil retire glance
   ridge monitor alone
 bip_39_word_space_2: select endorse
 bip_39_word_space_3: select endorse wedding
-bip_39_word_space_4: select endorse wedding crystal
-bip_39_word_space_5: select endorse wedding crystal retreat
-bip_39_word_space_6: select endorse wedding crystal retreat more
-bip_39_word_space_7: select endorse wedding crystal retreat more unveil
-bip_39_word_space_8: select endorse wedding crystal retreat more unveil retire
-bip_39_word_space_9: select endorse wedding crystal retreat more unveil retire glance
-bip_39_word_underscore_1: select
-bip_39_word_underscore_10: select_endorse_wedding_crystal_retreat_more_unveil_retire_glance_ridge
-bip_39_word_underscore_11: select_endorse_wedding_crystal_retreat_more_unveil_retire_glance_ridge_monitor
 bip_39_word_underscore_12: select_endorse_wedding_crystal_retreat_more_unveil_retire_glance_ridge_monitor_alone
 bip_39_word_underscore_2: select_endorse
 bip_39_word_underscore_3: select_endorse_wedding
-bip_39_word_underscore_4: select_endorse_wedding_crystal
-bip_39_word_underscore_5: select_endorse_wedding_crystal_retreat
-bip_39_word_underscore_6: select_endorse_wedding_crystal_retreat_more
-bip_39_word_underscore_7: select_endorse_wedding_crystal_retreat_more_unveil
-bip_39_word_underscore_8: select_endorse_wedding_crystal_retreat_more_unveil_retire
-bip_39_word_underscore_9: select_endorse_wedding_crystal_retreat_more_unveil_retire_glance
 classification: category
 classification_capital: Category
 classification_first_letter: c

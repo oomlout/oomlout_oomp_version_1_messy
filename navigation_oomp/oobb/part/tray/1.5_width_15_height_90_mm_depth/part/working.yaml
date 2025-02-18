@@ -1,68 +1,9 @@
-bip_39_word_dash_1: kangaroo
-bip_39_word_dash_10: kangaroo-ahead-drift-modify-solve-slow-adapt-oven-sad-cinnamon
-bip_39_word_dash_11: kangaroo-ahead-drift-modify-solve-slow-adapt-oven-sad-cinnamon-great
 bip_39_word_dash_12: kangaroo-ahead-drift-modify-solve-slow-adapt-oven-sad-cinnamon-great-artist
 bip_39_word_dash_2: kangaroo-ahead
 bip_39_word_dash_3: kangaroo-ahead-drift
-bip_39_word_dash_4: kangaroo-ahead-drift-modify
-bip_39_word_dash_5: kangaroo-ahead-drift-modify-solve
-bip_39_word_dash_6: kangaroo-ahead-drift-modify-solve-slow
-bip_39_word_dash_7: kangaroo-ahead-drift-modify-solve-slow-adapt
-bip_39_word_dash_8: kangaroo-ahead-drift-modify-solve-slow-adapt-oven
-bip_39_word_dash_9: kangaroo-ahead-drift-modify-solve-slow-adapt-oven-sad
-bip_39_word_new_br_1: kangaroo
-bip_39_word_new_br_10: kangaroo<br>ahead<br>drift<br>modify<br>solve<br>slow<br>adapt<br>oven<br>sad<br>cinnamon
-bip_39_word_new_br_11: kangaroo<br>ahead<br>drift<br>modify<br>solve<br>slow<br>adapt<br>oven<br>sad<br>cinnamon<br>great
 bip_39_word_new_br_12: kangaroo<br>ahead<br>drift<br>modify<br>solve<br>slow<br>adapt<br>oven<br>sad<br>cinnamon<br>great<br>artist
 bip_39_word_new_br_2: kangaroo<br>ahead
 bip_39_word_new_br_3: kangaroo<br>ahead<br>drift
-bip_39_word_new_br_4: kangaroo<br>ahead<br>drift<br>modify
-bip_39_word_new_br_5: kangaroo<br>ahead<br>drift<br>modify<br>solve
-bip_39_word_new_br_6: kangaroo<br>ahead<br>drift<br>modify<br>solve<br>slow
-bip_39_word_new_br_7: kangaroo<br>ahead<br>drift<br>modify<br>solve<br>slow<br>adapt
-bip_39_word_new_br_8: kangaroo<br>ahead<br>drift<br>modify<br>solve<br>slow<br>adapt<br>oven
-bip_39_word_new_br_9: kangaroo<br>ahead<br>drift<br>modify<br>solve<br>slow<br>adapt<br>oven<br>sad
-bip_39_word_new_line_1: kangaroo
-bip_39_word_new_line_10: 'kangaroo
-
-  ahead
-
-  drift
-
-  modify
-
-  solve
-
-  slow
-
-  adapt
-
-  oven
-
-  sad
-
-  cinnamon'
-bip_39_word_new_line_11: 'kangaroo
-
-  ahead
-
-  drift
-
-  modify
-
-  solve
-
-  slow
-
-  adapt
-
-  oven
-
-  sad
-
-  cinnamon
-
-  great'
 bip_39_word_new_line_12: 'kangaroo
 
   ahead
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'kangaroo
   ahead
 
   drift'
-bip_39_word_new_line_4: 'kangaroo
-
-  ahead
-
-  drift
-
-  modify'
-bip_39_word_new_line_5: 'kangaroo
-
-  ahead
-
-  drift
-
-  modify
-
-  solve'
-bip_39_word_new_line_6: 'kangaroo
-
-  ahead
-
-  drift
-
-  modify
-
-  solve
-
-  slow'
-bip_39_word_new_line_7: 'kangaroo
-
-  ahead
-
-  drift
-
-  modify
-
-  solve
-
-  slow
-
-  adapt'
-bip_39_word_new_line_8: 'kangaroo
-
-  ahead
-
-  drift
-
-  modify
-
-  solve
-
-  slow
-
-  adapt
-
-  oven'
-bip_39_word_new_line_9: 'kangaroo
-
-  ahead
-
-  drift
-
-  modify
-
-  solve
-
-  slow
-
-  adapt
-
-  oven
-
-  sad'
-bip_39_word_no_space_1: kangaroo
-bip_39_word_no_space_10: kangarooaheaddriftmodifysolveslowadaptovensadcinnamon
-bip_39_word_no_space_11: kangarooaheaddriftmodifysolveslowadaptovensadcinnamongreat
 bip_39_word_no_space_12: kangarooaheaddriftmodifysolveslowadaptovensadcinnamongreatartist
 bip_39_word_no_space_2: kangarooahead
 bip_39_word_no_space_3: kangarooaheaddrift
-bip_39_word_no_space_4: kangarooaheaddriftmodify
-bip_39_word_no_space_5: kangarooaheaddriftmodifysolve
-bip_39_word_no_space_6: kangarooaheaddriftmodifysolveslow
-bip_39_word_no_space_7: kangarooaheaddriftmodifysolveslowadapt
-bip_39_word_no_space_8: kangarooaheaddriftmodifysolveslowadaptoven
-bip_39_word_no_space_9: kangarooaheaddriftmodifysolveslowadaptovensad
-bip_39_word_space_0:
-- kangaroo
-- ahead
-- drift
-- modify
-- solve
-- slow
-- adapt
-- oven
-- sad
-- cinnamon
-- great
-- artist
-bip_39_word_space_1: kangaroo
-bip_39_word_space_10: kangaroo ahead drift modify solve slow adapt oven sad cinnamon
-bip_39_word_space_11: kangaroo ahead drift modify solve slow adapt oven sad cinnamon
-  great
 bip_39_word_space_12: kangaroo ahead drift modify solve slow adapt oven sad cinnamon
   great artist
 bip_39_word_space_2: kangaroo ahead
 bip_39_word_space_3: kangaroo ahead drift
-bip_39_word_space_4: kangaroo ahead drift modify
-bip_39_word_space_5: kangaroo ahead drift modify solve
-bip_39_word_space_6: kangaroo ahead drift modify solve slow
-bip_39_word_space_7: kangaroo ahead drift modify solve slow adapt
-bip_39_word_space_8: kangaroo ahead drift modify solve slow adapt oven
-bip_39_word_space_9: kangaroo ahead drift modify solve slow adapt oven sad
-bip_39_word_underscore_1: kangaroo
-bip_39_word_underscore_10: kangaroo_ahead_drift_modify_solve_slow_adapt_oven_sad_cinnamon
-bip_39_word_underscore_11: kangaroo_ahead_drift_modify_solve_slow_adapt_oven_sad_cinnamon_great
 bip_39_word_underscore_12: kangaroo_ahead_drift_modify_solve_slow_adapt_oven_sad_cinnamon_great_artist
 bip_39_word_underscore_2: kangaroo_ahead
 bip_39_word_underscore_3: kangaroo_ahead_drift
-bip_39_word_underscore_4: kangaroo_ahead_drift_modify
-bip_39_word_underscore_5: kangaroo_ahead_drift_modify_solve
-bip_39_word_underscore_6: kangaroo_ahead_drift_modify_solve_slow
-bip_39_word_underscore_7: kangaroo_ahead_drift_modify_solve_slow_adapt
-bip_39_word_underscore_8: kangaroo_ahead_drift_modify_solve_slow_adapt_oven
-bip_39_word_underscore_9: kangaroo_ahead_drift_modify_solve_slow_adapt_oven_sad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

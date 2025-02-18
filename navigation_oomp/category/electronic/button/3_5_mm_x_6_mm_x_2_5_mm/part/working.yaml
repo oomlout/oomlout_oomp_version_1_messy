@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rescue
-bip_39_word_dash_10: rescue-record-arrange-chief-autumn-cycle-immense-alert-dumb-merge
-bip_39_word_dash_11: rescue-record-arrange-chief-autumn-cycle-immense-alert-dumb-merge-pear
 bip_39_word_dash_12: rescue-record-arrange-chief-autumn-cycle-immense-alert-dumb-merge-pear-all
 bip_39_word_dash_2: rescue-record
 bip_39_word_dash_3: rescue-record-arrange
-bip_39_word_dash_4: rescue-record-arrange-chief
-bip_39_word_dash_5: rescue-record-arrange-chief-autumn
-bip_39_word_dash_6: rescue-record-arrange-chief-autumn-cycle
-bip_39_word_dash_7: rescue-record-arrange-chief-autumn-cycle-immense
-bip_39_word_dash_8: rescue-record-arrange-chief-autumn-cycle-immense-alert
-bip_39_word_dash_9: rescue-record-arrange-chief-autumn-cycle-immense-alert-dumb
-bip_39_word_new_br_1: rescue
-bip_39_word_new_br_10: rescue<br>record<br>arrange<br>chief<br>autumn<br>cycle<br>immense<br>alert<br>dumb<br>merge
-bip_39_word_new_br_11: rescue<br>record<br>arrange<br>chief<br>autumn<br>cycle<br>immense<br>alert<br>dumb<br>merge<br>pear
 bip_39_word_new_br_12: rescue<br>record<br>arrange<br>chief<br>autumn<br>cycle<br>immense<br>alert<br>dumb<br>merge<br>pear<br>all
 bip_39_word_new_br_2: rescue<br>record
 bip_39_word_new_br_3: rescue<br>record<br>arrange
-bip_39_word_new_br_4: rescue<br>record<br>arrange<br>chief
-bip_39_word_new_br_5: rescue<br>record<br>arrange<br>chief<br>autumn
-bip_39_word_new_br_6: rescue<br>record<br>arrange<br>chief<br>autumn<br>cycle
-bip_39_word_new_br_7: rescue<br>record<br>arrange<br>chief<br>autumn<br>cycle<br>immense
-bip_39_word_new_br_8: rescue<br>record<br>arrange<br>chief<br>autumn<br>cycle<br>immense<br>alert
-bip_39_word_new_br_9: rescue<br>record<br>arrange<br>chief<br>autumn<br>cycle<br>immense<br>alert<br>dumb
-bip_39_word_new_line_1: rescue
-bip_39_word_new_line_10: 'rescue
-
-  record
-
-  arrange
-
-  chief
-
-  autumn
-
-  cycle
-
-  immense
-
-  alert
-
-  dumb
-
-  merge'
-bip_39_word_new_line_11: 'rescue
-
-  record
-
-  arrange
-
-  chief
-
-  autumn
-
-  cycle
-
-  immense
-
-  alert
-
-  dumb
-
-  merge
-
-  pear'
 bip_39_word_new_line_12: 'rescue
 
   record
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'rescue
   record
 
   arrange'
-bip_39_word_new_line_4: 'rescue
-
-  record
-
-  arrange
-
-  chief'
-bip_39_word_new_line_5: 'rescue
-
-  record
-
-  arrange
-
-  chief
-
-  autumn'
-bip_39_word_new_line_6: 'rescue
-
-  record
-
-  arrange
-
-  chief
-
-  autumn
-
-  cycle'
-bip_39_word_new_line_7: 'rescue
-
-  record
-
-  arrange
-
-  chief
-
-  autumn
-
-  cycle
-
-  immense'
-bip_39_word_new_line_8: 'rescue
-
-  record
-
-  arrange
-
-  chief
-
-  autumn
-
-  cycle
-
-  immense
-
-  alert'
-bip_39_word_new_line_9: 'rescue
-
-  record
-
-  arrange
-
-  chief
-
-  autumn
-
-  cycle
-
-  immense
-
-  alert
-
-  dumb'
-bip_39_word_no_space_1: rescue
-bip_39_word_no_space_10: rescuerecordarrangechiefautumncycleimmensealertdumbmerge
-bip_39_word_no_space_11: rescuerecordarrangechiefautumncycleimmensealertdumbmergepear
 bip_39_word_no_space_12: rescuerecordarrangechiefautumncycleimmensealertdumbmergepearall
 bip_39_word_no_space_2: rescuerecord
 bip_39_word_no_space_3: rescuerecordarrange
-bip_39_word_no_space_4: rescuerecordarrangechief
-bip_39_word_no_space_5: rescuerecordarrangechiefautumn
-bip_39_word_no_space_6: rescuerecordarrangechiefautumncycle
-bip_39_word_no_space_7: rescuerecordarrangechiefautumncycleimmense
-bip_39_word_no_space_8: rescuerecordarrangechiefautumncycleimmensealert
-bip_39_word_no_space_9: rescuerecordarrangechiefautumncycleimmensealertdumb
-bip_39_word_space_0:
-- rescue
-- record
-- arrange
-- chief
-- autumn
-- cycle
-- immense
-- alert
-- dumb
-- merge
-- pear
-- all
-bip_39_word_space_1: rescue
-bip_39_word_space_10: rescue record arrange chief autumn cycle immense alert dumb
-  merge
-bip_39_word_space_11: rescue record arrange chief autumn cycle immense alert dumb
-  merge pear
 bip_39_word_space_12: rescue record arrange chief autumn cycle immense alert dumb
   merge pear all
 bip_39_word_space_2: rescue record
 bip_39_word_space_3: rescue record arrange
-bip_39_word_space_4: rescue record arrange chief
-bip_39_word_space_5: rescue record arrange chief autumn
-bip_39_word_space_6: rescue record arrange chief autumn cycle
-bip_39_word_space_7: rescue record arrange chief autumn cycle immense
-bip_39_word_space_8: rescue record arrange chief autumn cycle immense alert
-bip_39_word_space_9: rescue record arrange chief autumn cycle immense alert dumb
-bip_39_word_underscore_1: rescue
-bip_39_word_underscore_10: rescue_record_arrange_chief_autumn_cycle_immense_alert_dumb_merge
-bip_39_word_underscore_11: rescue_record_arrange_chief_autumn_cycle_immense_alert_dumb_merge_pear
 bip_39_word_underscore_12: rescue_record_arrange_chief_autumn_cycle_immense_alert_dumb_merge_pear_all
 bip_39_word_underscore_2: rescue_record
 bip_39_word_underscore_3: rescue_record_arrange
-bip_39_word_underscore_4: rescue_record_arrange_chief
-bip_39_word_underscore_5: rescue_record_arrange_chief_autumn
-bip_39_word_underscore_6: rescue_record_arrange_chief_autumn_cycle
-bip_39_word_underscore_7: rescue_record_arrange_chief_autumn_cycle_immense
-bip_39_word_underscore_8: rescue_record_arrange_chief_autumn_cycle_immense_alert
-bip_39_word_underscore_9: rescue_record_arrange_chief_autumn_cycle_immense_alert_dumb
 classification: category
 classification_capital: Category
 classification_first_letter: c

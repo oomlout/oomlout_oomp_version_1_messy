@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lyrics
-bip_39_word_dash_10: lyrics-myself-cloth-future-unknown-tattoo-inject-action-practice-regular
-bip_39_word_dash_11: lyrics-myself-cloth-future-unknown-tattoo-inject-action-practice-regular-develop
 bip_39_word_dash_12: lyrics-myself-cloth-future-unknown-tattoo-inject-action-practice-regular-develop-author
 bip_39_word_dash_2: lyrics-myself
 bip_39_word_dash_3: lyrics-myself-cloth
-bip_39_word_dash_4: lyrics-myself-cloth-future
-bip_39_word_dash_5: lyrics-myself-cloth-future-unknown
-bip_39_word_dash_6: lyrics-myself-cloth-future-unknown-tattoo
-bip_39_word_dash_7: lyrics-myself-cloth-future-unknown-tattoo-inject
-bip_39_word_dash_8: lyrics-myself-cloth-future-unknown-tattoo-inject-action
-bip_39_word_dash_9: lyrics-myself-cloth-future-unknown-tattoo-inject-action-practice
-bip_39_word_new_br_1: lyrics
-bip_39_word_new_br_10: lyrics<br>myself<br>cloth<br>future<br>unknown<br>tattoo<br>inject<br>action<br>practice<br>regular
-bip_39_word_new_br_11: lyrics<br>myself<br>cloth<br>future<br>unknown<br>tattoo<br>inject<br>action<br>practice<br>regular<br>develop
 bip_39_word_new_br_12: lyrics<br>myself<br>cloth<br>future<br>unknown<br>tattoo<br>inject<br>action<br>practice<br>regular<br>develop<br>author
 bip_39_word_new_br_2: lyrics<br>myself
 bip_39_word_new_br_3: lyrics<br>myself<br>cloth
-bip_39_word_new_br_4: lyrics<br>myself<br>cloth<br>future
-bip_39_word_new_br_5: lyrics<br>myself<br>cloth<br>future<br>unknown
-bip_39_word_new_br_6: lyrics<br>myself<br>cloth<br>future<br>unknown<br>tattoo
-bip_39_word_new_br_7: lyrics<br>myself<br>cloth<br>future<br>unknown<br>tattoo<br>inject
-bip_39_word_new_br_8: lyrics<br>myself<br>cloth<br>future<br>unknown<br>tattoo<br>inject<br>action
-bip_39_word_new_br_9: lyrics<br>myself<br>cloth<br>future<br>unknown<br>tattoo<br>inject<br>action<br>practice
-bip_39_word_new_line_1: lyrics
-bip_39_word_new_line_10: 'lyrics
-
-  myself
-
-  cloth
-
-  future
-
-  unknown
-
-  tattoo
-
-  inject
-
-  action
-
-  practice
-
-  regular'
-bip_39_word_new_line_11: 'lyrics
-
-  myself
-
-  cloth
-
-  future
-
-  unknown
-
-  tattoo
-
-  inject
-
-  action
-
-  practice
-
-  regular
-
-  develop'
 bip_39_word_new_line_12: 'lyrics
 
   myself
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'lyrics
   myself
 
   cloth'
-bip_39_word_new_line_4: 'lyrics
-
-  myself
-
-  cloth
-
-  future'
-bip_39_word_new_line_5: 'lyrics
-
-  myself
-
-  cloth
-
-  future
-
-  unknown'
-bip_39_word_new_line_6: 'lyrics
-
-  myself
-
-  cloth
-
-  future
-
-  unknown
-
-  tattoo'
-bip_39_word_new_line_7: 'lyrics
-
-  myself
-
-  cloth
-
-  future
-
-  unknown
-
-  tattoo
-
-  inject'
-bip_39_word_new_line_8: 'lyrics
-
-  myself
-
-  cloth
-
-  future
-
-  unknown
-
-  tattoo
-
-  inject
-
-  action'
-bip_39_word_new_line_9: 'lyrics
-
-  myself
-
-  cloth
-
-  future
-
-  unknown
-
-  tattoo
-
-  inject
-
-  action
-
-  practice'
-bip_39_word_no_space_1: lyrics
-bip_39_word_no_space_10: lyricsmyselfclothfutureunknowntattooinjectactionpracticeregular
-bip_39_word_no_space_11: lyricsmyselfclothfutureunknowntattooinjectactionpracticeregulardevelop
 bip_39_word_no_space_12: lyricsmyselfclothfutureunknowntattooinjectactionpracticeregulardevelopauthor
 bip_39_word_no_space_2: lyricsmyself
 bip_39_word_no_space_3: lyricsmyselfcloth
-bip_39_word_no_space_4: lyricsmyselfclothfuture
-bip_39_word_no_space_5: lyricsmyselfclothfutureunknown
-bip_39_word_no_space_6: lyricsmyselfclothfutureunknowntattoo
-bip_39_word_no_space_7: lyricsmyselfclothfutureunknowntattooinject
-bip_39_word_no_space_8: lyricsmyselfclothfutureunknowntattooinjectaction
-bip_39_word_no_space_9: lyricsmyselfclothfutureunknowntattooinjectactionpractice
-bip_39_word_space_0:
-- lyrics
-- myself
-- cloth
-- future
-- unknown
-- tattoo
-- inject
-- action
-- practice
-- regular
-- develop
-- author
-bip_39_word_space_1: lyrics
-bip_39_word_space_10: lyrics myself cloth future unknown tattoo inject action practice
-  regular
-bip_39_word_space_11: lyrics myself cloth future unknown tattoo inject action practice
-  regular develop
 bip_39_word_space_12: lyrics myself cloth future unknown tattoo inject action practice
   regular develop author
 bip_39_word_space_2: lyrics myself
 bip_39_word_space_3: lyrics myself cloth
-bip_39_word_space_4: lyrics myself cloth future
-bip_39_word_space_5: lyrics myself cloth future unknown
-bip_39_word_space_6: lyrics myself cloth future unknown tattoo
-bip_39_word_space_7: lyrics myself cloth future unknown tattoo inject
-bip_39_word_space_8: lyrics myself cloth future unknown tattoo inject action
-bip_39_word_space_9: lyrics myself cloth future unknown tattoo inject action practice
-bip_39_word_underscore_1: lyrics
-bip_39_word_underscore_10: lyrics_myself_cloth_future_unknown_tattoo_inject_action_practice_regular
-bip_39_word_underscore_11: lyrics_myself_cloth_future_unknown_tattoo_inject_action_practice_regular_develop
 bip_39_word_underscore_12: lyrics_myself_cloth_future_unknown_tattoo_inject_action_practice_regular_develop_author
 bip_39_word_underscore_2: lyrics_myself
 bip_39_word_underscore_3: lyrics_myself_cloth
-bip_39_word_underscore_4: lyrics_myself_cloth_future
-bip_39_word_underscore_5: lyrics_myself_cloth_future_unknown
-bip_39_word_underscore_6: lyrics_myself_cloth_future_unknown_tattoo
-bip_39_word_underscore_7: lyrics_myself_cloth_future_unknown_tattoo_inject
-bip_39_word_underscore_8: lyrics_myself_cloth_future_unknown_tattoo_inject_action
-bip_39_word_underscore_9: lyrics_myself_cloth_future_unknown_tattoo_inject_action_practice
 classification: category
 classification_capital: Category
 classification_first_letter: c

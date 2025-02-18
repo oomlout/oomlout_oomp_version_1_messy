@@ -1,68 +1,9 @@
-bip_39_word_dash_1: aspect
-bip_39_word_dash_10: aspect-task-write-cube-replace-bag-grid-cube-scheme-squirrel
-bip_39_word_dash_11: aspect-task-write-cube-replace-bag-grid-cube-scheme-squirrel-ridge
 bip_39_word_dash_12: aspect-task-write-cube-replace-bag-grid-cube-scheme-squirrel-ridge-add
 bip_39_word_dash_2: aspect-task
 bip_39_word_dash_3: aspect-task-write
-bip_39_word_dash_4: aspect-task-write-cube
-bip_39_word_dash_5: aspect-task-write-cube-replace
-bip_39_word_dash_6: aspect-task-write-cube-replace-bag
-bip_39_word_dash_7: aspect-task-write-cube-replace-bag-grid
-bip_39_word_dash_8: aspect-task-write-cube-replace-bag-grid-cube
-bip_39_word_dash_9: aspect-task-write-cube-replace-bag-grid-cube-scheme
-bip_39_word_new_br_1: aspect
-bip_39_word_new_br_10: aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube<br>scheme<br>squirrel
-bip_39_word_new_br_11: aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube<br>scheme<br>squirrel<br>ridge
 bip_39_word_new_br_12: aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube<br>scheme<br>squirrel<br>ridge<br>add
 bip_39_word_new_br_2: aspect<br>task
 bip_39_word_new_br_3: aspect<br>task<br>write
-bip_39_word_new_br_4: aspect<br>task<br>write<br>cube
-bip_39_word_new_br_5: aspect<br>task<br>write<br>cube<br>replace
-bip_39_word_new_br_6: aspect<br>task<br>write<br>cube<br>replace<br>bag
-bip_39_word_new_br_7: aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid
-bip_39_word_new_br_8: aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube
-bip_39_word_new_br_9: aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube<br>scheme
-bip_39_word_new_line_1: aspect
-bip_39_word_new_line_10: 'aspect
-
-  task
-
-  write
-
-  cube
-
-  replace
-
-  bag
-
-  grid
-
-  cube
-
-  scheme
-
-  squirrel'
-bip_39_word_new_line_11: 'aspect
-
-  task
-
-  write
-
-  cube
-
-  replace
-
-  bag
-
-  grid
-
-  cube
-
-  scheme
-
-  squirrel
-
-  ridge'
 bip_39_word_new_line_12: 'aspect
 
   task
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'aspect
   task
 
   write'
-bip_39_word_new_line_4: 'aspect
-
-  task
-
-  write
-
-  cube'
-bip_39_word_new_line_5: 'aspect
-
-  task
-
-  write
-
-  cube
-
-  replace'
-bip_39_word_new_line_6: 'aspect
-
-  task
-
-  write
-
-  cube
-
-  replace
-
-  bag'
-bip_39_word_new_line_7: 'aspect
-
-  task
-
-  write
-
-  cube
-
-  replace
-
-  bag
-
-  grid'
-bip_39_word_new_line_8: 'aspect
-
-  task
-
-  write
-
-  cube
-
-  replace
-
-  bag
-
-  grid
-
-  cube'
-bip_39_word_new_line_9: 'aspect
-
-  task
-
-  write
-
-  cube
-
-  replace
-
-  bag
-
-  grid
-
-  cube
-
-  scheme'
-bip_39_word_no_space_1: aspect
-bip_39_word_no_space_10: aspecttaskwritecubereplacebaggridcubeschemesquirrel
-bip_39_word_no_space_11: aspecttaskwritecubereplacebaggridcubeschemesquirrelridge
 bip_39_word_no_space_12: aspecttaskwritecubereplacebaggridcubeschemesquirrelridgeadd
 bip_39_word_no_space_2: aspecttask
 bip_39_word_no_space_3: aspecttaskwrite
-bip_39_word_no_space_4: aspecttaskwritecube
-bip_39_word_no_space_5: aspecttaskwritecubereplace
-bip_39_word_no_space_6: aspecttaskwritecubereplacebag
-bip_39_word_no_space_7: aspecttaskwritecubereplacebaggrid
-bip_39_word_no_space_8: aspecttaskwritecubereplacebaggridcube
-bip_39_word_no_space_9: aspecttaskwritecubereplacebaggridcubescheme
-bip_39_word_space_0:
-- aspect
-- task
-- write
-- cube
-- replace
-- bag
-- grid
-- cube
-- scheme
-- squirrel
-- ridge
-- add
-bip_39_word_space_1: aspect
-bip_39_word_space_10: aspect task write cube replace bag grid cube scheme squirrel
-bip_39_word_space_11: aspect task write cube replace bag grid cube scheme squirrel
-  ridge
 bip_39_word_space_12: aspect task write cube replace bag grid cube scheme squirrel
   ridge add
 bip_39_word_space_2: aspect task
 bip_39_word_space_3: aspect task write
-bip_39_word_space_4: aspect task write cube
-bip_39_word_space_5: aspect task write cube replace
-bip_39_word_space_6: aspect task write cube replace bag
-bip_39_word_space_7: aspect task write cube replace bag grid
-bip_39_word_space_8: aspect task write cube replace bag grid cube
-bip_39_word_space_9: aspect task write cube replace bag grid cube scheme
-bip_39_word_underscore_1: aspect
-bip_39_word_underscore_10: aspect_task_write_cube_replace_bag_grid_cube_scheme_squirrel
-bip_39_word_underscore_11: aspect_task_write_cube_replace_bag_grid_cube_scheme_squirrel_ridge
 bip_39_word_underscore_12: aspect_task_write_cube_replace_bag_grid_cube_scheme_squirrel_ridge_add
 bip_39_word_underscore_2: aspect_task
 bip_39_word_underscore_3: aspect_task_write
-bip_39_word_underscore_4: aspect_task_write_cube
-bip_39_word_underscore_5: aspect_task_write_cube_replace
-bip_39_word_underscore_6: aspect_task_write_cube_replace_bag
-bip_39_word_underscore_7: aspect_task_write_cube_replace_bag_grid
-bip_39_word_underscore_8: aspect_task_write_cube_replace_bag_grid_cube
-bip_39_word_underscore_9: aspect_task_write_cube_replace_bag_grid_cube_scheme
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

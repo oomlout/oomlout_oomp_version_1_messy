@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vault
-bip_39_word_dash_10: vault-peasant-dentist-bitter-essence-pistol-lesson-behave-fringe-clap
-bip_39_word_dash_11: vault-peasant-dentist-bitter-essence-pistol-lesson-behave-fringe-clap-stumble
 bip_39_word_dash_12: vault-peasant-dentist-bitter-essence-pistol-lesson-behave-fringe-clap-stumble-acoustic
 bip_39_word_dash_2: vault-peasant
 bip_39_word_dash_3: vault-peasant-dentist
-bip_39_word_dash_4: vault-peasant-dentist-bitter
-bip_39_word_dash_5: vault-peasant-dentist-bitter-essence
-bip_39_word_dash_6: vault-peasant-dentist-bitter-essence-pistol
-bip_39_word_dash_7: vault-peasant-dentist-bitter-essence-pistol-lesson
-bip_39_word_dash_8: vault-peasant-dentist-bitter-essence-pistol-lesson-behave
-bip_39_word_dash_9: vault-peasant-dentist-bitter-essence-pistol-lesson-behave-fringe
-bip_39_word_new_br_1: vault
-bip_39_word_new_br_10: vault<br>peasant<br>dentist<br>bitter<br>essence<br>pistol<br>lesson<br>behave<br>fringe<br>clap
-bip_39_word_new_br_11: vault<br>peasant<br>dentist<br>bitter<br>essence<br>pistol<br>lesson<br>behave<br>fringe<br>clap<br>stumble
 bip_39_word_new_br_12: vault<br>peasant<br>dentist<br>bitter<br>essence<br>pistol<br>lesson<br>behave<br>fringe<br>clap<br>stumble<br>acoustic
 bip_39_word_new_br_2: vault<br>peasant
 bip_39_word_new_br_3: vault<br>peasant<br>dentist
-bip_39_word_new_br_4: vault<br>peasant<br>dentist<br>bitter
-bip_39_word_new_br_5: vault<br>peasant<br>dentist<br>bitter<br>essence
-bip_39_word_new_br_6: vault<br>peasant<br>dentist<br>bitter<br>essence<br>pistol
-bip_39_word_new_br_7: vault<br>peasant<br>dentist<br>bitter<br>essence<br>pistol<br>lesson
-bip_39_word_new_br_8: vault<br>peasant<br>dentist<br>bitter<br>essence<br>pistol<br>lesson<br>behave
-bip_39_word_new_br_9: vault<br>peasant<br>dentist<br>bitter<br>essence<br>pistol<br>lesson<br>behave<br>fringe
-bip_39_word_new_line_1: vault
-bip_39_word_new_line_10: 'vault
-
-  peasant
-
-  dentist
-
-  bitter
-
-  essence
-
-  pistol
-
-  lesson
-
-  behave
-
-  fringe
-
-  clap'
-bip_39_word_new_line_11: 'vault
-
-  peasant
-
-  dentist
-
-  bitter
-
-  essence
-
-  pistol
-
-  lesson
-
-  behave
-
-  fringe
-
-  clap
-
-  stumble'
 bip_39_word_new_line_12: 'vault
 
   peasant
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'vault
   peasant
 
   dentist'
-bip_39_word_new_line_4: 'vault
-
-  peasant
-
-  dentist
-
-  bitter'
-bip_39_word_new_line_5: 'vault
-
-  peasant
-
-  dentist
-
-  bitter
-
-  essence'
-bip_39_word_new_line_6: 'vault
-
-  peasant
-
-  dentist
-
-  bitter
-
-  essence
-
-  pistol'
-bip_39_word_new_line_7: 'vault
-
-  peasant
-
-  dentist
-
-  bitter
-
-  essence
-
-  pistol
-
-  lesson'
-bip_39_word_new_line_8: 'vault
-
-  peasant
-
-  dentist
-
-  bitter
-
-  essence
-
-  pistol
-
-  lesson
-
-  behave'
-bip_39_word_new_line_9: 'vault
-
-  peasant
-
-  dentist
-
-  bitter
-
-  essence
-
-  pistol
-
-  lesson
-
-  behave
-
-  fringe'
-bip_39_word_no_space_1: vault
-bip_39_word_no_space_10: vaultpeasantdentistbitteressencepistollessonbehavefringeclap
-bip_39_word_no_space_11: vaultpeasantdentistbitteressencepistollessonbehavefringeclapstumble
 bip_39_word_no_space_12: vaultpeasantdentistbitteressencepistollessonbehavefringeclapstumbleacoustic
 bip_39_word_no_space_2: vaultpeasant
 bip_39_word_no_space_3: vaultpeasantdentist
-bip_39_word_no_space_4: vaultpeasantdentistbitter
-bip_39_word_no_space_5: vaultpeasantdentistbitteressence
-bip_39_word_no_space_6: vaultpeasantdentistbitteressencepistol
-bip_39_word_no_space_7: vaultpeasantdentistbitteressencepistollesson
-bip_39_word_no_space_8: vaultpeasantdentistbitteressencepistollessonbehave
-bip_39_word_no_space_9: vaultpeasantdentistbitteressencepistollessonbehavefringe
-bip_39_word_space_0:
-- vault
-- peasant
-- dentist
-- bitter
-- essence
-- pistol
-- lesson
-- behave
-- fringe
-- clap
-- stumble
-- acoustic
-bip_39_word_space_1: vault
-bip_39_word_space_10: vault peasant dentist bitter essence pistol lesson behave fringe
-  clap
-bip_39_word_space_11: vault peasant dentist bitter essence pistol lesson behave fringe
-  clap stumble
 bip_39_word_space_12: vault peasant dentist bitter essence pistol lesson behave fringe
   clap stumble acoustic
 bip_39_word_space_2: vault peasant
 bip_39_word_space_3: vault peasant dentist
-bip_39_word_space_4: vault peasant dentist bitter
-bip_39_word_space_5: vault peasant dentist bitter essence
-bip_39_word_space_6: vault peasant dentist bitter essence pistol
-bip_39_word_space_7: vault peasant dentist bitter essence pistol lesson
-bip_39_word_space_8: vault peasant dentist bitter essence pistol lesson behave
-bip_39_word_space_9: vault peasant dentist bitter essence pistol lesson behave fringe
-bip_39_word_underscore_1: vault
-bip_39_word_underscore_10: vault_peasant_dentist_bitter_essence_pistol_lesson_behave_fringe_clap
-bip_39_word_underscore_11: vault_peasant_dentist_bitter_essence_pistol_lesson_behave_fringe_clap_stumble
 bip_39_word_underscore_12: vault_peasant_dentist_bitter_essence_pistol_lesson_behave_fringe_clap_stumble_acoustic
 bip_39_word_underscore_2: vault_peasant
 bip_39_word_underscore_3: vault_peasant_dentist
-bip_39_word_underscore_4: vault_peasant_dentist_bitter
-bip_39_word_underscore_5: vault_peasant_dentist_bitter_essence
-bip_39_word_underscore_6: vault_peasant_dentist_bitter_essence_pistol
-bip_39_word_underscore_7: vault_peasant_dentist_bitter_essence_pistol_lesson
-bip_39_word_underscore_8: vault_peasant_dentist_bitter_essence_pistol_lesson_behave
-bip_39_word_underscore_9: vault_peasant_dentist_bitter_essence_pistol_lesson_behave_fringe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

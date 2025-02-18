@@ -1,68 +1,9 @@
-bip_39_word_dash_1: menu
-bip_39_word_dash_10: menu-term-ship-student-aim-acid-visual-same-mad-firm
-bip_39_word_dash_11: menu-term-ship-student-aim-acid-visual-same-mad-firm-found
 bip_39_word_dash_12: menu-term-ship-student-aim-acid-visual-same-mad-firm-found-anxiety
 bip_39_word_dash_2: menu-term
 bip_39_word_dash_3: menu-term-ship
-bip_39_word_dash_4: menu-term-ship-student
-bip_39_word_dash_5: menu-term-ship-student-aim
-bip_39_word_dash_6: menu-term-ship-student-aim-acid
-bip_39_word_dash_7: menu-term-ship-student-aim-acid-visual
-bip_39_word_dash_8: menu-term-ship-student-aim-acid-visual-same
-bip_39_word_dash_9: menu-term-ship-student-aim-acid-visual-same-mad
-bip_39_word_new_br_1: menu
-bip_39_word_new_br_10: menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad<br>firm
-bip_39_word_new_br_11: menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad<br>firm<br>found
 bip_39_word_new_br_12: menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad<br>firm<br>found<br>anxiety
 bip_39_word_new_br_2: menu<br>term
 bip_39_word_new_br_3: menu<br>term<br>ship
-bip_39_word_new_br_4: menu<br>term<br>ship<br>student
-bip_39_word_new_br_5: menu<br>term<br>ship<br>student<br>aim
-bip_39_word_new_br_6: menu<br>term<br>ship<br>student<br>aim<br>acid
-bip_39_word_new_br_7: menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual
-bip_39_word_new_br_8: menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same
-bip_39_word_new_br_9: menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad
-bip_39_word_new_line_1: menu
-bip_39_word_new_line_10: 'menu
-
-  term
-
-  ship
-
-  student
-
-  aim
-
-  acid
-
-  visual
-
-  same
-
-  mad
-
-  firm'
-bip_39_word_new_line_11: 'menu
-
-  term
-
-  ship
-
-  student
-
-  aim
-
-  acid
-
-  visual
-
-  same
-
-  mad
-
-  firm
-
-  found'
 bip_39_word_new_line_12: 'menu
 
   term
@@ -94,127 +35,15 @@ bip_39_word_new_line_3: 'menu
   term
 
   ship'
-bip_39_word_new_line_4: 'menu
-
-  term
-
-  ship
-
-  student'
-bip_39_word_new_line_5: 'menu
-
-  term
-
-  ship
-
-  student
-
-  aim'
-bip_39_word_new_line_6: 'menu
-
-  term
-
-  ship
-
-  student
-
-  aim
-
-  acid'
-bip_39_word_new_line_7: 'menu
-
-  term
-
-  ship
-
-  student
-
-  aim
-
-  acid
-
-  visual'
-bip_39_word_new_line_8: 'menu
-
-  term
-
-  ship
-
-  student
-
-  aim
-
-  acid
-
-  visual
-
-  same'
-bip_39_word_new_line_9: 'menu
-
-  term
-
-  ship
-
-  student
-
-  aim
-
-  acid
-
-  visual
-
-  same
-
-  mad'
-bip_39_word_no_space_1: menu
-bip_39_word_no_space_10: menutermshipstudentaimacidvisualsamemadfirm
-bip_39_word_no_space_11: menutermshipstudentaimacidvisualsamemadfirmfound
 bip_39_word_no_space_12: menutermshipstudentaimacidvisualsamemadfirmfoundanxiety
 bip_39_word_no_space_2: menuterm
 bip_39_word_no_space_3: menutermship
-bip_39_word_no_space_4: menutermshipstudent
-bip_39_word_no_space_5: menutermshipstudentaim
-bip_39_word_no_space_6: menutermshipstudentaimacid
-bip_39_word_no_space_7: menutermshipstudentaimacidvisual
-bip_39_word_no_space_8: menutermshipstudentaimacidvisualsame
-bip_39_word_no_space_9: menutermshipstudentaimacidvisualsamemad
-bip_39_word_space_0:
-- menu
-- term
-- ship
-- student
-- aim
-- acid
-- visual
-- same
-- mad
-- firm
-- found
-- anxiety
-bip_39_word_space_1: menu
-bip_39_word_space_10: menu term ship student aim acid visual same mad firm
-bip_39_word_space_11: menu term ship student aim acid visual same mad firm found
 bip_39_word_space_12: menu term ship student aim acid visual same mad firm found anxiety
 bip_39_word_space_2: menu term
 bip_39_word_space_3: menu term ship
-bip_39_word_space_4: menu term ship student
-bip_39_word_space_5: menu term ship student aim
-bip_39_word_space_6: menu term ship student aim acid
-bip_39_word_space_7: menu term ship student aim acid visual
-bip_39_word_space_8: menu term ship student aim acid visual same
-bip_39_word_space_9: menu term ship student aim acid visual same mad
-bip_39_word_underscore_1: menu
-bip_39_word_underscore_10: menu_term_ship_student_aim_acid_visual_same_mad_firm
-bip_39_word_underscore_11: menu_term_ship_student_aim_acid_visual_same_mad_firm_found
 bip_39_word_underscore_12: menu_term_ship_student_aim_acid_visual_same_mad_firm_found_anxiety
 bip_39_word_underscore_2: menu_term
 bip_39_word_underscore_3: menu_term_ship
-bip_39_word_underscore_4: menu_term_ship_student
-bip_39_word_underscore_5: menu_term_ship_student_aim
-bip_39_word_underscore_6: menu_term_ship_student_aim_acid
-bip_39_word_underscore_7: menu_term_ship_student_aim_acid_visual
-bip_39_word_underscore_8: menu_term_ship_student_aim_acid_visual_same
-bip_39_word_underscore_9: menu_term_ship_student_aim_acid_visual_same_mad
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

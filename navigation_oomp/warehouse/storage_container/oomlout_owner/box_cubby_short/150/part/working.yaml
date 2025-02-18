@@ -1,68 +1,9 @@
-bip_39_word_dash_1: emotion
-bip_39_word_dash_10: emotion-hope-meadow-width-alley-orphan-sudden-pledge-alpha-ice
-bip_39_word_dash_11: emotion-hope-meadow-width-alley-orphan-sudden-pledge-alpha-ice-fee
 bip_39_word_dash_12: emotion-hope-meadow-width-alley-orphan-sudden-pledge-alpha-ice-fee-anxiety
 bip_39_word_dash_2: emotion-hope
 bip_39_word_dash_3: emotion-hope-meadow
-bip_39_word_dash_4: emotion-hope-meadow-width
-bip_39_word_dash_5: emotion-hope-meadow-width-alley
-bip_39_word_dash_6: emotion-hope-meadow-width-alley-orphan
-bip_39_word_dash_7: emotion-hope-meadow-width-alley-orphan-sudden
-bip_39_word_dash_8: emotion-hope-meadow-width-alley-orphan-sudden-pledge
-bip_39_word_dash_9: emotion-hope-meadow-width-alley-orphan-sudden-pledge-alpha
-bip_39_word_new_br_1: emotion
-bip_39_word_new_br_10: emotion<br>hope<br>meadow<br>width<br>alley<br>orphan<br>sudden<br>pledge<br>alpha<br>ice
-bip_39_word_new_br_11: emotion<br>hope<br>meadow<br>width<br>alley<br>orphan<br>sudden<br>pledge<br>alpha<br>ice<br>fee
 bip_39_word_new_br_12: emotion<br>hope<br>meadow<br>width<br>alley<br>orphan<br>sudden<br>pledge<br>alpha<br>ice<br>fee<br>anxiety
 bip_39_word_new_br_2: emotion<br>hope
 bip_39_word_new_br_3: emotion<br>hope<br>meadow
-bip_39_word_new_br_4: emotion<br>hope<br>meadow<br>width
-bip_39_word_new_br_5: emotion<br>hope<br>meadow<br>width<br>alley
-bip_39_word_new_br_6: emotion<br>hope<br>meadow<br>width<br>alley<br>orphan
-bip_39_word_new_br_7: emotion<br>hope<br>meadow<br>width<br>alley<br>orphan<br>sudden
-bip_39_word_new_br_8: emotion<br>hope<br>meadow<br>width<br>alley<br>orphan<br>sudden<br>pledge
-bip_39_word_new_br_9: emotion<br>hope<br>meadow<br>width<br>alley<br>orphan<br>sudden<br>pledge<br>alpha
-bip_39_word_new_line_1: emotion
-bip_39_word_new_line_10: 'emotion
-
-  hope
-
-  meadow
-
-  width
-
-  alley
-
-  orphan
-
-  sudden
-
-  pledge
-
-  alpha
-
-  ice'
-bip_39_word_new_line_11: 'emotion
-
-  hope
-
-  meadow
-
-  width
-
-  alley
-
-  orphan
-
-  sudden
-
-  pledge
-
-  alpha
-
-  ice
-
-  fee'
 bip_39_word_new_line_12: 'emotion
 
   hope
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'emotion
   hope
 
   meadow'
-bip_39_word_new_line_4: 'emotion
-
-  hope
-
-  meadow
-
-  width'
-bip_39_word_new_line_5: 'emotion
-
-  hope
-
-  meadow
-
-  width
-
-  alley'
-bip_39_word_new_line_6: 'emotion
-
-  hope
-
-  meadow
-
-  width
-
-  alley
-
-  orphan'
-bip_39_word_new_line_7: 'emotion
-
-  hope
-
-  meadow
-
-  width
-
-  alley
-
-  orphan
-
-  sudden'
-bip_39_word_new_line_8: 'emotion
-
-  hope
-
-  meadow
-
-  width
-
-  alley
-
-  orphan
-
-  sudden
-
-  pledge'
-bip_39_word_new_line_9: 'emotion
-
-  hope
-
-  meadow
-
-  width
-
-  alley
-
-  orphan
-
-  sudden
-
-  pledge
-
-  alpha'
-bip_39_word_no_space_1: emotion
-bip_39_word_no_space_10: emotionhopemeadowwidthalleyorphansuddenpledgealphaice
-bip_39_word_no_space_11: emotionhopemeadowwidthalleyorphansuddenpledgealphaicefee
 bip_39_word_no_space_12: emotionhopemeadowwidthalleyorphansuddenpledgealphaicefeeanxiety
 bip_39_word_no_space_2: emotionhope
 bip_39_word_no_space_3: emotionhopemeadow
-bip_39_word_no_space_4: emotionhopemeadowwidth
-bip_39_word_no_space_5: emotionhopemeadowwidthalley
-bip_39_word_no_space_6: emotionhopemeadowwidthalleyorphan
-bip_39_word_no_space_7: emotionhopemeadowwidthalleyorphansudden
-bip_39_word_no_space_8: emotionhopemeadowwidthalleyorphansuddenpledge
-bip_39_word_no_space_9: emotionhopemeadowwidthalleyorphansuddenpledgealpha
-bip_39_word_space_0:
-- emotion
-- hope
-- meadow
-- width
-- alley
-- orphan
-- sudden
-- pledge
-- alpha
-- ice
-- fee
-- anxiety
-bip_39_word_space_1: emotion
-bip_39_word_space_10: emotion hope meadow width alley orphan sudden pledge alpha ice
-bip_39_word_space_11: emotion hope meadow width alley orphan sudden pledge alpha ice
-  fee
 bip_39_word_space_12: emotion hope meadow width alley orphan sudden pledge alpha ice
   fee anxiety
 bip_39_word_space_2: emotion hope
 bip_39_word_space_3: emotion hope meadow
-bip_39_word_space_4: emotion hope meadow width
-bip_39_word_space_5: emotion hope meadow width alley
-bip_39_word_space_6: emotion hope meadow width alley orphan
-bip_39_word_space_7: emotion hope meadow width alley orphan sudden
-bip_39_word_space_8: emotion hope meadow width alley orphan sudden pledge
-bip_39_word_space_9: emotion hope meadow width alley orphan sudden pledge alpha
-bip_39_word_underscore_1: emotion
-bip_39_word_underscore_10: emotion_hope_meadow_width_alley_orphan_sudden_pledge_alpha_ice
-bip_39_word_underscore_11: emotion_hope_meadow_width_alley_orphan_sudden_pledge_alpha_ice_fee
 bip_39_word_underscore_12: emotion_hope_meadow_width_alley_orphan_sudden_pledge_alpha_ice_fee_anxiety
 bip_39_word_underscore_2: emotion_hope
 bip_39_word_underscore_3: emotion_hope_meadow
-bip_39_word_underscore_4: emotion_hope_meadow_width
-bip_39_word_underscore_5: emotion_hope_meadow_width_alley
-bip_39_word_underscore_6: emotion_hope_meadow_width_alley_orphan
-bip_39_word_underscore_7: emotion_hope_meadow_width_alley_orphan_sudden
-bip_39_word_underscore_8: emotion_hope_meadow_width_alley_orphan_sudden_pledge
-bip_39_word_underscore_9: emotion_hope_meadow_width_alley_orphan_sudden_pledge_alpha
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

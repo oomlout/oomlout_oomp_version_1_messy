@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crew
-bip_39_word_dash_10: crew-idle-medal-void-park-ball-quick-rifle-language-acoustic
-bip_39_word_dash_11: crew-idle-medal-void-park-ball-quick-rifle-language-acoustic-alien
 bip_39_word_dash_12: crew-idle-medal-void-park-ball-quick-rifle-language-acoustic-alien-another
 bip_39_word_dash_2: crew-idle
 bip_39_word_dash_3: crew-idle-medal
-bip_39_word_dash_4: crew-idle-medal-void
-bip_39_word_dash_5: crew-idle-medal-void-park
-bip_39_word_dash_6: crew-idle-medal-void-park-ball
-bip_39_word_dash_7: crew-idle-medal-void-park-ball-quick
-bip_39_word_dash_8: crew-idle-medal-void-park-ball-quick-rifle
-bip_39_word_dash_9: crew-idle-medal-void-park-ball-quick-rifle-language
-bip_39_word_new_br_1: crew
-bip_39_word_new_br_10: crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language<br>acoustic
-bip_39_word_new_br_11: crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language<br>acoustic<br>alien
 bip_39_word_new_br_12: crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language<br>acoustic<br>alien<br>another
 bip_39_word_new_br_2: crew<br>idle
 bip_39_word_new_br_3: crew<br>idle<br>medal
-bip_39_word_new_br_4: crew<br>idle<br>medal<br>void
-bip_39_word_new_br_5: crew<br>idle<br>medal<br>void<br>park
-bip_39_word_new_br_6: crew<br>idle<br>medal<br>void<br>park<br>ball
-bip_39_word_new_br_7: crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick
-bip_39_word_new_br_8: crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle
-bip_39_word_new_br_9: crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language
-bip_39_word_new_line_1: crew
-bip_39_word_new_line_10: 'crew
-
-  idle
-
-  medal
-
-  void
-
-  park
-
-  ball
-
-  quick
-
-  rifle
-
-  language
-
-  acoustic'
-bip_39_word_new_line_11: 'crew
-
-  idle
-
-  medal
-
-  void
-
-  park
-
-  ball
-
-  quick
-
-  rifle
-
-  language
-
-  acoustic
-
-  alien'
 bip_39_word_new_line_12: 'crew
 
   idle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crew
   idle
 
   medal'
-bip_39_word_new_line_4: 'crew
-
-  idle
-
-  medal
-
-  void'
-bip_39_word_new_line_5: 'crew
-
-  idle
-
-  medal
-
-  void
-
-  park'
-bip_39_word_new_line_6: 'crew
-
-  idle
-
-  medal
-
-  void
-
-  park
-
-  ball'
-bip_39_word_new_line_7: 'crew
-
-  idle
-
-  medal
-
-  void
-
-  park
-
-  ball
-
-  quick'
-bip_39_word_new_line_8: 'crew
-
-  idle
-
-  medal
-
-  void
-
-  park
-
-  ball
-
-  quick
-
-  rifle'
-bip_39_word_new_line_9: 'crew
-
-  idle
-
-  medal
-
-  void
-
-  park
-
-  ball
-
-  quick
-
-  rifle
-
-  language'
-bip_39_word_no_space_1: crew
-bip_39_word_no_space_10: crewidlemedalvoidparkballquickriflelanguageacoustic
-bip_39_word_no_space_11: crewidlemedalvoidparkballquickriflelanguageacousticalien
 bip_39_word_no_space_12: crewidlemedalvoidparkballquickriflelanguageacousticalienanother
 bip_39_word_no_space_2: crewidle
 bip_39_word_no_space_3: crewidlemedal
-bip_39_word_no_space_4: crewidlemedalvoid
-bip_39_word_no_space_5: crewidlemedalvoidpark
-bip_39_word_no_space_6: crewidlemedalvoidparkball
-bip_39_word_no_space_7: crewidlemedalvoidparkballquick
-bip_39_word_no_space_8: crewidlemedalvoidparkballquickrifle
-bip_39_word_no_space_9: crewidlemedalvoidparkballquickriflelanguage
-bip_39_word_space_0:
-- crew
-- idle
-- medal
-- void
-- park
-- ball
-- quick
-- rifle
-- language
-- acoustic
-- alien
-- another
-bip_39_word_space_1: crew
-bip_39_word_space_10: crew idle medal void park ball quick rifle language acoustic
-bip_39_word_space_11: crew idle medal void park ball quick rifle language acoustic
-  alien
 bip_39_word_space_12: crew idle medal void park ball quick rifle language acoustic
   alien another
 bip_39_word_space_2: crew idle
 bip_39_word_space_3: crew idle medal
-bip_39_word_space_4: crew idle medal void
-bip_39_word_space_5: crew idle medal void park
-bip_39_word_space_6: crew idle medal void park ball
-bip_39_word_space_7: crew idle medal void park ball quick
-bip_39_word_space_8: crew idle medal void park ball quick rifle
-bip_39_word_space_9: crew idle medal void park ball quick rifle language
-bip_39_word_underscore_1: crew
-bip_39_word_underscore_10: crew_idle_medal_void_park_ball_quick_rifle_language_acoustic
-bip_39_word_underscore_11: crew_idle_medal_void_park_ball_quick_rifle_language_acoustic_alien
 bip_39_word_underscore_12: crew_idle_medal_void_park_ball_quick_rifle_language_acoustic_alien_another
 bip_39_word_underscore_2: crew_idle
 bip_39_word_underscore_3: crew_idle_medal
-bip_39_word_underscore_4: crew_idle_medal_void
-bip_39_word_underscore_5: crew_idle_medal_void_park
-bip_39_word_underscore_6: crew_idle_medal_void_park_ball
-bip_39_word_underscore_7: crew_idle_medal_void_park_ball_quick
-bip_39_word_underscore_8: crew_idle_medal_void_park_ball_quick_rifle
-bip_39_word_underscore_9: crew_idle_medal_void_park_ball_quick_rifle_language
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

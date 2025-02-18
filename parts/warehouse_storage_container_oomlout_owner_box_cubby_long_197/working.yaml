@@ -1,68 +1,9 @@
-bip_39_word_dash_1: catch
-bip_39_word_dash_10: catch-churn-blood-mosquito-help-proud-syrup-silly-wave-gold
-bip_39_word_dash_11: catch-churn-blood-mosquito-help-proud-syrup-silly-wave-gold-danger
 bip_39_word_dash_12: catch-churn-blood-mosquito-help-proud-syrup-silly-wave-gold-danger-answer
 bip_39_word_dash_2: catch-churn
 bip_39_word_dash_3: catch-churn-blood
-bip_39_word_dash_4: catch-churn-blood-mosquito
-bip_39_word_dash_5: catch-churn-blood-mosquito-help
-bip_39_word_dash_6: catch-churn-blood-mosquito-help-proud
-bip_39_word_dash_7: catch-churn-blood-mosquito-help-proud-syrup
-bip_39_word_dash_8: catch-churn-blood-mosquito-help-proud-syrup-silly
-bip_39_word_dash_9: catch-churn-blood-mosquito-help-proud-syrup-silly-wave
-bip_39_word_new_br_1: catch
-bip_39_word_new_br_10: catch<br>churn<br>blood<br>mosquito<br>help<br>proud<br>syrup<br>silly<br>wave<br>gold
-bip_39_word_new_br_11: catch<br>churn<br>blood<br>mosquito<br>help<br>proud<br>syrup<br>silly<br>wave<br>gold<br>danger
 bip_39_word_new_br_12: catch<br>churn<br>blood<br>mosquito<br>help<br>proud<br>syrup<br>silly<br>wave<br>gold<br>danger<br>answer
 bip_39_word_new_br_2: catch<br>churn
 bip_39_word_new_br_3: catch<br>churn<br>blood
-bip_39_word_new_br_4: catch<br>churn<br>blood<br>mosquito
-bip_39_word_new_br_5: catch<br>churn<br>blood<br>mosquito<br>help
-bip_39_word_new_br_6: catch<br>churn<br>blood<br>mosquito<br>help<br>proud
-bip_39_word_new_br_7: catch<br>churn<br>blood<br>mosquito<br>help<br>proud<br>syrup
-bip_39_word_new_br_8: catch<br>churn<br>blood<br>mosquito<br>help<br>proud<br>syrup<br>silly
-bip_39_word_new_br_9: catch<br>churn<br>blood<br>mosquito<br>help<br>proud<br>syrup<br>silly<br>wave
-bip_39_word_new_line_1: catch
-bip_39_word_new_line_10: 'catch
-
-  churn
-
-  blood
-
-  mosquito
-
-  help
-
-  proud
-
-  syrup
-
-  silly
-
-  wave
-
-  gold'
-bip_39_word_new_line_11: 'catch
-
-  churn
-
-  blood
-
-  mosquito
-
-  help
-
-  proud
-
-  syrup
-
-  silly
-
-  wave
-
-  gold
-
-  danger'
 bip_39_word_new_line_12: 'catch
 
   churn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'catch
   churn
 
   blood'
-bip_39_word_new_line_4: 'catch
-
-  churn
-
-  blood
-
-  mosquito'
-bip_39_word_new_line_5: 'catch
-
-  churn
-
-  blood
-
-  mosquito
-
-  help'
-bip_39_word_new_line_6: 'catch
-
-  churn
-
-  blood
-
-  mosquito
-
-  help
-
-  proud'
-bip_39_word_new_line_7: 'catch
-
-  churn
-
-  blood
-
-  mosquito
-
-  help
-
-  proud
-
-  syrup'
-bip_39_word_new_line_8: 'catch
-
-  churn
-
-  blood
-
-  mosquito
-
-  help
-
-  proud
-
-  syrup
-
-  silly'
-bip_39_word_new_line_9: 'catch
-
-  churn
-
-  blood
-
-  mosquito
-
-  help
-
-  proud
-
-  syrup
-
-  silly
-
-  wave'
-bip_39_word_no_space_1: catch
-bip_39_word_no_space_10: catchchurnbloodmosquitohelpproudsyrupsillywavegold
-bip_39_word_no_space_11: catchchurnbloodmosquitohelpproudsyrupsillywavegolddanger
 bip_39_word_no_space_12: catchchurnbloodmosquitohelpproudsyrupsillywavegolddangeranswer
 bip_39_word_no_space_2: catchchurn
 bip_39_word_no_space_3: catchchurnblood
-bip_39_word_no_space_4: catchchurnbloodmosquito
-bip_39_word_no_space_5: catchchurnbloodmosquitohelp
-bip_39_word_no_space_6: catchchurnbloodmosquitohelpproud
-bip_39_word_no_space_7: catchchurnbloodmosquitohelpproudsyrup
-bip_39_word_no_space_8: catchchurnbloodmosquitohelpproudsyrupsilly
-bip_39_word_no_space_9: catchchurnbloodmosquitohelpproudsyrupsillywave
-bip_39_word_space_0:
-- catch
-- churn
-- blood
-- mosquito
-- help
-- proud
-- syrup
-- silly
-- wave
-- gold
-- danger
-- answer
-bip_39_word_space_1: catch
-bip_39_word_space_10: catch churn blood mosquito help proud syrup silly wave gold
-bip_39_word_space_11: catch churn blood mosquito help proud syrup silly wave gold
-  danger
 bip_39_word_space_12: catch churn blood mosquito help proud syrup silly wave gold
   danger answer
 bip_39_word_space_2: catch churn
 bip_39_word_space_3: catch churn blood
-bip_39_word_space_4: catch churn blood mosquito
-bip_39_word_space_5: catch churn blood mosquito help
-bip_39_word_space_6: catch churn blood mosquito help proud
-bip_39_word_space_7: catch churn blood mosquito help proud syrup
-bip_39_word_space_8: catch churn blood mosquito help proud syrup silly
-bip_39_word_space_9: catch churn blood mosquito help proud syrup silly wave
-bip_39_word_underscore_1: catch
-bip_39_word_underscore_10: catch_churn_blood_mosquito_help_proud_syrup_silly_wave_gold
-bip_39_word_underscore_11: catch_churn_blood_mosquito_help_proud_syrup_silly_wave_gold_danger
 bip_39_word_underscore_12: catch_churn_blood_mosquito_help_proud_syrup_silly_wave_gold_danger_answer
 bip_39_word_underscore_2: catch_churn
 bip_39_word_underscore_3: catch_churn_blood
-bip_39_word_underscore_4: catch_churn_blood_mosquito
-bip_39_word_underscore_5: catch_churn_blood_mosquito_help
-bip_39_word_underscore_6: catch_churn_blood_mosquito_help_proud
-bip_39_word_underscore_7: catch_churn_blood_mosquito_help_proud_syrup
-bip_39_word_underscore_8: catch_churn_blood_mosquito_help_proud_syrup_silly
-bip_39_word_underscore_9: catch_churn_blood_mosquito_help_proud_syrup_silly_wave
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

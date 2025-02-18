@@ -1,68 +1,9 @@
-bip_39_word_dash_1: depth
-bip_39_word_dash_10: depth-rotate-fetch-penalty-obtain-law-scrap-clinic-scene-truth
-bip_39_word_dash_11: depth-rotate-fetch-penalty-obtain-law-scrap-clinic-scene-truth-myth
 bip_39_word_dash_12: depth-rotate-fetch-penalty-obtain-law-scrap-clinic-scene-truth-myth-arrange
 bip_39_word_dash_2: depth-rotate
 bip_39_word_dash_3: depth-rotate-fetch
-bip_39_word_dash_4: depth-rotate-fetch-penalty
-bip_39_word_dash_5: depth-rotate-fetch-penalty-obtain
-bip_39_word_dash_6: depth-rotate-fetch-penalty-obtain-law
-bip_39_word_dash_7: depth-rotate-fetch-penalty-obtain-law-scrap
-bip_39_word_dash_8: depth-rotate-fetch-penalty-obtain-law-scrap-clinic
-bip_39_word_dash_9: depth-rotate-fetch-penalty-obtain-law-scrap-clinic-scene
-bip_39_word_new_br_1: depth
-bip_39_word_new_br_10: depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth
-bip_39_word_new_br_11: depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth<br>myth
 bip_39_word_new_br_12: depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene<br>truth<br>myth<br>arrange
 bip_39_word_new_br_2: depth<br>rotate
 bip_39_word_new_br_3: depth<br>rotate<br>fetch
-bip_39_word_new_br_4: depth<br>rotate<br>fetch<br>penalty
-bip_39_word_new_br_5: depth<br>rotate<br>fetch<br>penalty<br>obtain
-bip_39_word_new_br_6: depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law
-bip_39_word_new_br_7: depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap
-bip_39_word_new_br_8: depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic
-bip_39_word_new_br_9: depth<br>rotate<br>fetch<br>penalty<br>obtain<br>law<br>scrap<br>clinic<br>scene
-bip_39_word_new_line_1: depth
-bip_39_word_new_line_10: 'depth
-
-  rotate
-
-  fetch
-
-  penalty
-
-  obtain
-
-  law
-
-  scrap
-
-  clinic
-
-  scene
-
-  truth'
-bip_39_word_new_line_11: 'depth
-
-  rotate
-
-  fetch
-
-  penalty
-
-  obtain
-
-  law
-
-  scrap
-
-  clinic
-
-  scene
-
-  truth
-
-  myth'
 bip_39_word_new_line_12: 'depth
 
   rotate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'depth
   rotate
 
   fetch'
-bip_39_word_new_line_4: 'depth
-
-  rotate
-
-  fetch
-
-  penalty'
-bip_39_word_new_line_5: 'depth
-
-  rotate
-
-  fetch
-
-  penalty
-
-  obtain'
-bip_39_word_new_line_6: 'depth
-
-  rotate
-
-  fetch
-
-  penalty
-
-  obtain
-
-  law'
-bip_39_word_new_line_7: 'depth
-
-  rotate
-
-  fetch
-
-  penalty
-
-  obtain
-
-  law
-
-  scrap'
-bip_39_word_new_line_8: 'depth
-
-  rotate
-
-  fetch
-
-  penalty
-
-  obtain
-
-  law
-
-  scrap
-
-  clinic'
-bip_39_word_new_line_9: 'depth
-
-  rotate
-
-  fetch
-
-  penalty
-
-  obtain
-
-  law
-
-  scrap
-
-  clinic
-
-  scene'
-bip_39_word_no_space_1: depth
-bip_39_word_no_space_10: depthrotatefetchpenaltyobtainlawscrapclinicscenetruth
-bip_39_word_no_space_11: depthrotatefetchpenaltyobtainlawscrapclinicscenetruthmyth
 bip_39_word_no_space_12: depthrotatefetchpenaltyobtainlawscrapclinicscenetruthmytharrange
 bip_39_word_no_space_2: depthrotate
 bip_39_word_no_space_3: depthrotatefetch
-bip_39_word_no_space_4: depthrotatefetchpenalty
-bip_39_word_no_space_5: depthrotatefetchpenaltyobtain
-bip_39_word_no_space_6: depthrotatefetchpenaltyobtainlaw
-bip_39_word_no_space_7: depthrotatefetchpenaltyobtainlawscrap
-bip_39_word_no_space_8: depthrotatefetchpenaltyobtainlawscrapclinic
-bip_39_word_no_space_9: depthrotatefetchpenaltyobtainlawscrapclinicscene
-bip_39_word_space_0:
-- depth
-- rotate
-- fetch
-- penalty
-- obtain
-- law
-- scrap
-- clinic
-- scene
-- truth
-- myth
-- arrange
-bip_39_word_space_1: depth
-bip_39_word_space_10: depth rotate fetch penalty obtain law scrap clinic scene truth
-bip_39_word_space_11: depth rotate fetch penalty obtain law scrap clinic scene truth
-  myth
 bip_39_word_space_12: depth rotate fetch penalty obtain law scrap clinic scene truth
   myth arrange
 bip_39_word_space_2: depth rotate
 bip_39_word_space_3: depth rotate fetch
-bip_39_word_space_4: depth rotate fetch penalty
-bip_39_word_space_5: depth rotate fetch penalty obtain
-bip_39_word_space_6: depth rotate fetch penalty obtain law
-bip_39_word_space_7: depth rotate fetch penalty obtain law scrap
-bip_39_word_space_8: depth rotate fetch penalty obtain law scrap clinic
-bip_39_word_space_9: depth rotate fetch penalty obtain law scrap clinic scene
-bip_39_word_underscore_1: depth
-bip_39_word_underscore_10: depth_rotate_fetch_penalty_obtain_law_scrap_clinic_scene_truth
-bip_39_word_underscore_11: depth_rotate_fetch_penalty_obtain_law_scrap_clinic_scene_truth_myth
 bip_39_word_underscore_12: depth_rotate_fetch_penalty_obtain_law_scrap_clinic_scene_truth_myth_arrange
 bip_39_word_underscore_2: depth_rotate
 bip_39_word_underscore_3: depth_rotate_fetch
-bip_39_word_underscore_4: depth_rotate_fetch_penalty
-bip_39_word_underscore_5: depth_rotate_fetch_penalty_obtain
-bip_39_word_underscore_6: depth_rotate_fetch_penalty_obtain_law
-bip_39_word_underscore_7: depth_rotate_fetch_penalty_obtain_law_scrap
-bip_39_word_underscore_8: depth_rotate_fetch_penalty_obtain_law_scrap_clinic
-bip_39_word_underscore_9: depth_rotate_fetch_penalty_obtain_law_scrap_clinic_scene
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

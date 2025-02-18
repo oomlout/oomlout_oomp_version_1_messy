@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cloud
-bip_39_word_dash_10: cloud-critic-romance-cliff-foot-spatial-brush-boil-nothing-bunker
-bip_39_word_dash_11: cloud-critic-romance-cliff-foot-spatial-brush-boil-nothing-bunker-enforce
 bip_39_word_dash_12: cloud-critic-romance-cliff-foot-spatial-brush-boil-nothing-bunker-enforce-alien
 bip_39_word_dash_2: cloud-critic
 bip_39_word_dash_3: cloud-critic-romance
-bip_39_word_dash_4: cloud-critic-romance-cliff
-bip_39_word_dash_5: cloud-critic-romance-cliff-foot
-bip_39_word_dash_6: cloud-critic-romance-cliff-foot-spatial
-bip_39_word_dash_7: cloud-critic-romance-cliff-foot-spatial-brush
-bip_39_word_dash_8: cloud-critic-romance-cliff-foot-spatial-brush-boil
-bip_39_word_dash_9: cloud-critic-romance-cliff-foot-spatial-brush-boil-nothing
-bip_39_word_new_br_1: cloud
-bip_39_word_new_br_10: cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing<br>bunker
-bip_39_word_new_br_11: cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing<br>bunker<br>enforce
 bip_39_word_new_br_12: cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing<br>bunker<br>enforce<br>alien
 bip_39_word_new_br_2: cloud<br>critic
 bip_39_word_new_br_3: cloud<br>critic<br>romance
-bip_39_word_new_br_4: cloud<br>critic<br>romance<br>cliff
-bip_39_word_new_br_5: cloud<br>critic<br>romance<br>cliff<br>foot
-bip_39_word_new_br_6: cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial
-bip_39_word_new_br_7: cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush
-bip_39_word_new_br_8: cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil
-bip_39_word_new_br_9: cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing
-bip_39_word_new_line_1: cloud
-bip_39_word_new_line_10: 'cloud
-
-  critic
-
-  romance
-
-  cliff
-
-  foot
-
-  spatial
-
-  brush
-
-  boil
-
-  nothing
-
-  bunker'
-bip_39_word_new_line_11: 'cloud
-
-  critic
-
-  romance
-
-  cliff
-
-  foot
-
-  spatial
-
-  brush
-
-  boil
-
-  nothing
-
-  bunker
-
-  enforce'
 bip_39_word_new_line_12: 'cloud
 
   critic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cloud
   critic
 
   romance'
-bip_39_word_new_line_4: 'cloud
-
-  critic
-
-  romance
-
-  cliff'
-bip_39_word_new_line_5: 'cloud
-
-  critic
-
-  romance
-
-  cliff
-
-  foot'
-bip_39_word_new_line_6: 'cloud
-
-  critic
-
-  romance
-
-  cliff
-
-  foot
-
-  spatial'
-bip_39_word_new_line_7: 'cloud
-
-  critic
-
-  romance
-
-  cliff
-
-  foot
-
-  spatial
-
-  brush'
-bip_39_word_new_line_8: 'cloud
-
-  critic
-
-  romance
-
-  cliff
-
-  foot
-
-  spatial
-
-  brush
-
-  boil'
-bip_39_word_new_line_9: 'cloud
-
-  critic
-
-  romance
-
-  cliff
-
-  foot
-
-  spatial
-
-  brush
-
-  boil
-
-  nothing'
-bip_39_word_no_space_1: cloud
-bip_39_word_no_space_10: cloudcriticromanceclifffootspatialbrushboilnothingbunker
-bip_39_word_no_space_11: cloudcriticromanceclifffootspatialbrushboilnothingbunkerenforce
 bip_39_word_no_space_12: cloudcriticromanceclifffootspatialbrushboilnothingbunkerenforcealien
 bip_39_word_no_space_2: cloudcritic
 bip_39_word_no_space_3: cloudcriticromance
-bip_39_word_no_space_4: cloudcriticromancecliff
-bip_39_word_no_space_5: cloudcriticromanceclifffoot
-bip_39_word_no_space_6: cloudcriticromanceclifffootspatial
-bip_39_word_no_space_7: cloudcriticromanceclifffootspatialbrush
-bip_39_word_no_space_8: cloudcriticromanceclifffootspatialbrushboil
-bip_39_word_no_space_9: cloudcriticromanceclifffootspatialbrushboilnothing
-bip_39_word_space_0:
-- cloud
-- critic
-- romance
-- cliff
-- foot
-- spatial
-- brush
-- boil
-- nothing
-- bunker
-- enforce
-- alien
-bip_39_word_space_1: cloud
-bip_39_word_space_10: cloud critic romance cliff foot spatial brush boil nothing bunker
-bip_39_word_space_11: cloud critic romance cliff foot spatial brush boil nothing bunker
-  enforce
 bip_39_word_space_12: cloud critic romance cliff foot spatial brush boil nothing bunker
   enforce alien
 bip_39_word_space_2: cloud critic
 bip_39_word_space_3: cloud critic romance
-bip_39_word_space_4: cloud critic romance cliff
-bip_39_word_space_5: cloud critic romance cliff foot
-bip_39_word_space_6: cloud critic romance cliff foot spatial
-bip_39_word_space_7: cloud critic romance cliff foot spatial brush
-bip_39_word_space_8: cloud critic romance cliff foot spatial brush boil
-bip_39_word_space_9: cloud critic romance cliff foot spatial brush boil nothing
-bip_39_word_underscore_1: cloud
-bip_39_word_underscore_10: cloud_critic_romance_cliff_foot_spatial_brush_boil_nothing_bunker
-bip_39_word_underscore_11: cloud_critic_romance_cliff_foot_spatial_brush_boil_nothing_bunker_enforce
 bip_39_word_underscore_12: cloud_critic_romance_cliff_foot_spatial_brush_boil_nothing_bunker_enforce_alien
 bip_39_word_underscore_2: cloud_critic
 bip_39_word_underscore_3: cloud_critic_romance
-bip_39_word_underscore_4: cloud_critic_romance_cliff
-bip_39_word_underscore_5: cloud_critic_romance_cliff_foot
-bip_39_word_underscore_6: cloud_critic_romance_cliff_foot_spatial
-bip_39_word_underscore_7: cloud_critic_romance_cliff_foot_spatial_brush
-bip_39_word_underscore_8: cloud_critic_romance_cliff_foot_spatial_brush_boil
-bip_39_word_underscore_9: cloud_critic_romance_cliff_foot_spatial_brush_boil_nothing
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

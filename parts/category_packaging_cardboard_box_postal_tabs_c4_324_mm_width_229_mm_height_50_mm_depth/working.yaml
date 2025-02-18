@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pulse
-bip_39_word_dash_10: pulse-relax-stem-resist-birth-unhappy-market-bleak-cycle-slight
-bip_39_word_dash_11: pulse-relax-stem-resist-birth-unhappy-market-bleak-cycle-slight-cook
 bip_39_word_dash_12: pulse-relax-stem-resist-birth-unhappy-market-bleak-cycle-slight-cook-antenna
 bip_39_word_dash_2: pulse-relax
 bip_39_word_dash_3: pulse-relax-stem
-bip_39_word_dash_4: pulse-relax-stem-resist
-bip_39_word_dash_5: pulse-relax-stem-resist-birth
-bip_39_word_dash_6: pulse-relax-stem-resist-birth-unhappy
-bip_39_word_dash_7: pulse-relax-stem-resist-birth-unhappy-market
-bip_39_word_dash_8: pulse-relax-stem-resist-birth-unhappy-market-bleak
-bip_39_word_dash_9: pulse-relax-stem-resist-birth-unhappy-market-bleak-cycle
-bip_39_word_new_br_1: pulse
-bip_39_word_new_br_10: pulse<br>relax<br>stem<br>resist<br>birth<br>unhappy<br>market<br>bleak<br>cycle<br>slight
-bip_39_word_new_br_11: pulse<br>relax<br>stem<br>resist<br>birth<br>unhappy<br>market<br>bleak<br>cycle<br>slight<br>cook
 bip_39_word_new_br_12: pulse<br>relax<br>stem<br>resist<br>birth<br>unhappy<br>market<br>bleak<br>cycle<br>slight<br>cook<br>antenna
 bip_39_word_new_br_2: pulse<br>relax
 bip_39_word_new_br_3: pulse<br>relax<br>stem
-bip_39_word_new_br_4: pulse<br>relax<br>stem<br>resist
-bip_39_word_new_br_5: pulse<br>relax<br>stem<br>resist<br>birth
-bip_39_word_new_br_6: pulse<br>relax<br>stem<br>resist<br>birth<br>unhappy
-bip_39_word_new_br_7: pulse<br>relax<br>stem<br>resist<br>birth<br>unhappy<br>market
-bip_39_word_new_br_8: pulse<br>relax<br>stem<br>resist<br>birth<br>unhappy<br>market<br>bleak
-bip_39_word_new_br_9: pulse<br>relax<br>stem<br>resist<br>birth<br>unhappy<br>market<br>bleak<br>cycle
-bip_39_word_new_line_1: pulse
-bip_39_word_new_line_10: 'pulse
-
-  relax
-
-  stem
-
-  resist
-
-  birth
-
-  unhappy
-
-  market
-
-  bleak
-
-  cycle
-
-  slight'
-bip_39_word_new_line_11: 'pulse
-
-  relax
-
-  stem
-
-  resist
-
-  birth
-
-  unhappy
-
-  market
-
-  bleak
-
-  cycle
-
-  slight
-
-  cook'
 bip_39_word_new_line_12: 'pulse
 
   relax
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pulse
   relax
 
   stem'
-bip_39_word_new_line_4: 'pulse
-
-  relax
-
-  stem
-
-  resist'
-bip_39_word_new_line_5: 'pulse
-
-  relax
-
-  stem
-
-  resist
-
-  birth'
-bip_39_word_new_line_6: 'pulse
-
-  relax
-
-  stem
-
-  resist
-
-  birth
-
-  unhappy'
-bip_39_word_new_line_7: 'pulse
-
-  relax
-
-  stem
-
-  resist
-
-  birth
-
-  unhappy
-
-  market'
-bip_39_word_new_line_8: 'pulse
-
-  relax
-
-  stem
-
-  resist
-
-  birth
-
-  unhappy
-
-  market
-
-  bleak'
-bip_39_word_new_line_9: 'pulse
-
-  relax
-
-  stem
-
-  resist
-
-  birth
-
-  unhappy
-
-  market
-
-  bleak
-
-  cycle'
-bip_39_word_no_space_1: pulse
-bip_39_word_no_space_10: pulserelaxstemresistbirthunhappymarketbleakcycleslight
-bip_39_word_no_space_11: pulserelaxstemresistbirthunhappymarketbleakcycleslightcook
 bip_39_word_no_space_12: pulserelaxstemresistbirthunhappymarketbleakcycleslightcookantenna
 bip_39_word_no_space_2: pulserelax
 bip_39_word_no_space_3: pulserelaxstem
-bip_39_word_no_space_4: pulserelaxstemresist
-bip_39_word_no_space_5: pulserelaxstemresistbirth
-bip_39_word_no_space_6: pulserelaxstemresistbirthunhappy
-bip_39_word_no_space_7: pulserelaxstemresistbirthunhappymarket
-bip_39_word_no_space_8: pulserelaxstemresistbirthunhappymarketbleak
-bip_39_word_no_space_9: pulserelaxstemresistbirthunhappymarketbleakcycle
-bip_39_word_space_0:
-- pulse
-- relax
-- stem
-- resist
-- birth
-- unhappy
-- market
-- bleak
-- cycle
-- slight
-- cook
-- antenna
-bip_39_word_space_1: pulse
-bip_39_word_space_10: pulse relax stem resist birth unhappy market bleak cycle slight
-bip_39_word_space_11: pulse relax stem resist birth unhappy market bleak cycle slight
-  cook
 bip_39_word_space_12: pulse relax stem resist birth unhappy market bleak cycle slight
   cook antenna
 bip_39_word_space_2: pulse relax
 bip_39_word_space_3: pulse relax stem
-bip_39_word_space_4: pulse relax stem resist
-bip_39_word_space_5: pulse relax stem resist birth
-bip_39_word_space_6: pulse relax stem resist birth unhappy
-bip_39_word_space_7: pulse relax stem resist birth unhappy market
-bip_39_word_space_8: pulse relax stem resist birth unhappy market bleak
-bip_39_word_space_9: pulse relax stem resist birth unhappy market bleak cycle
-bip_39_word_underscore_1: pulse
-bip_39_word_underscore_10: pulse_relax_stem_resist_birth_unhappy_market_bleak_cycle_slight
-bip_39_word_underscore_11: pulse_relax_stem_resist_birth_unhappy_market_bleak_cycle_slight_cook
 bip_39_word_underscore_12: pulse_relax_stem_resist_birth_unhappy_market_bleak_cycle_slight_cook_antenna
 bip_39_word_underscore_2: pulse_relax
 bip_39_word_underscore_3: pulse_relax_stem
-bip_39_word_underscore_4: pulse_relax_stem_resist
-bip_39_word_underscore_5: pulse_relax_stem_resist_birth
-bip_39_word_underscore_6: pulse_relax_stem_resist_birth_unhappy
-bip_39_word_underscore_7: pulse_relax_stem_resist_birth_unhappy_market
-bip_39_word_underscore_8: pulse_relax_stem_resist_birth_unhappy_market_bleak
-bip_39_word_underscore_9: pulse_relax_stem_resist_birth_unhappy_market_bleak_cycle
 classification: category
 classification_capital: Category
 classification_first_letter: c

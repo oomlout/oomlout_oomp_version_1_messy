@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crane
-bip_39_word_dash_10: crane-column-banana-creek-possible-pistol-fog-small-lock-impose
-bip_39_word_dash_11: crane-column-banana-creek-possible-pistol-fog-small-lock-impose-define
 bip_39_word_dash_12: crane-column-banana-creek-possible-pistol-fog-small-lock-impose-define-autumn
 bip_39_word_dash_2: crane-column
 bip_39_word_dash_3: crane-column-banana
-bip_39_word_dash_4: crane-column-banana-creek
-bip_39_word_dash_5: crane-column-banana-creek-possible
-bip_39_word_dash_6: crane-column-banana-creek-possible-pistol
-bip_39_word_dash_7: crane-column-banana-creek-possible-pistol-fog
-bip_39_word_dash_8: crane-column-banana-creek-possible-pistol-fog-small
-bip_39_word_dash_9: crane-column-banana-creek-possible-pistol-fog-small-lock
-bip_39_word_new_br_1: crane
-bip_39_word_new_br_10: crane<br>column<br>banana<br>creek<br>possible<br>pistol<br>fog<br>small<br>lock<br>impose
-bip_39_word_new_br_11: crane<br>column<br>banana<br>creek<br>possible<br>pistol<br>fog<br>small<br>lock<br>impose<br>define
 bip_39_word_new_br_12: crane<br>column<br>banana<br>creek<br>possible<br>pistol<br>fog<br>small<br>lock<br>impose<br>define<br>autumn
 bip_39_word_new_br_2: crane<br>column
 bip_39_word_new_br_3: crane<br>column<br>banana
-bip_39_word_new_br_4: crane<br>column<br>banana<br>creek
-bip_39_word_new_br_5: crane<br>column<br>banana<br>creek<br>possible
-bip_39_word_new_br_6: crane<br>column<br>banana<br>creek<br>possible<br>pistol
-bip_39_word_new_br_7: crane<br>column<br>banana<br>creek<br>possible<br>pistol<br>fog
-bip_39_word_new_br_8: crane<br>column<br>banana<br>creek<br>possible<br>pistol<br>fog<br>small
-bip_39_word_new_br_9: crane<br>column<br>banana<br>creek<br>possible<br>pistol<br>fog<br>small<br>lock
-bip_39_word_new_line_1: crane
-bip_39_word_new_line_10: 'crane
-
-  column
-
-  banana
-
-  creek
-
-  possible
-
-  pistol
-
-  fog
-
-  small
-
-  lock
-
-  impose'
-bip_39_word_new_line_11: 'crane
-
-  column
-
-  banana
-
-  creek
-
-  possible
-
-  pistol
-
-  fog
-
-  small
-
-  lock
-
-  impose
-
-  define'
 bip_39_word_new_line_12: 'crane
 
   column
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crane
   column
 
   banana'
-bip_39_word_new_line_4: 'crane
-
-  column
-
-  banana
-
-  creek'
-bip_39_word_new_line_5: 'crane
-
-  column
-
-  banana
-
-  creek
-
-  possible'
-bip_39_word_new_line_6: 'crane
-
-  column
-
-  banana
-
-  creek
-
-  possible
-
-  pistol'
-bip_39_word_new_line_7: 'crane
-
-  column
-
-  banana
-
-  creek
-
-  possible
-
-  pistol
-
-  fog'
-bip_39_word_new_line_8: 'crane
-
-  column
-
-  banana
-
-  creek
-
-  possible
-
-  pistol
-
-  fog
-
-  small'
-bip_39_word_new_line_9: 'crane
-
-  column
-
-  banana
-
-  creek
-
-  possible
-
-  pistol
-
-  fog
-
-  small
-
-  lock'
-bip_39_word_no_space_1: crane
-bip_39_word_no_space_10: cranecolumnbananacreekpossiblepistolfogsmalllockimpose
-bip_39_word_no_space_11: cranecolumnbananacreekpossiblepistolfogsmalllockimposedefine
 bip_39_word_no_space_12: cranecolumnbananacreekpossiblepistolfogsmalllockimposedefineautumn
 bip_39_word_no_space_2: cranecolumn
 bip_39_word_no_space_3: cranecolumnbanana
-bip_39_word_no_space_4: cranecolumnbananacreek
-bip_39_word_no_space_5: cranecolumnbananacreekpossible
-bip_39_word_no_space_6: cranecolumnbananacreekpossiblepistol
-bip_39_word_no_space_7: cranecolumnbananacreekpossiblepistolfog
-bip_39_word_no_space_8: cranecolumnbananacreekpossiblepistolfogsmall
-bip_39_word_no_space_9: cranecolumnbananacreekpossiblepistolfogsmalllock
-bip_39_word_space_0:
-- crane
-- column
-- banana
-- creek
-- possible
-- pistol
-- fog
-- small
-- lock
-- impose
-- define
-- autumn
-bip_39_word_space_1: crane
-bip_39_word_space_10: crane column banana creek possible pistol fog small lock impose
-bip_39_word_space_11: crane column banana creek possible pistol fog small lock impose
-  define
 bip_39_word_space_12: crane column banana creek possible pistol fog small lock impose
   define autumn
 bip_39_word_space_2: crane column
 bip_39_word_space_3: crane column banana
-bip_39_word_space_4: crane column banana creek
-bip_39_word_space_5: crane column banana creek possible
-bip_39_word_space_6: crane column banana creek possible pistol
-bip_39_word_space_7: crane column banana creek possible pistol fog
-bip_39_word_space_8: crane column banana creek possible pistol fog small
-bip_39_word_space_9: crane column banana creek possible pistol fog small lock
-bip_39_word_underscore_1: crane
-bip_39_word_underscore_10: crane_column_banana_creek_possible_pistol_fog_small_lock_impose
-bip_39_word_underscore_11: crane_column_banana_creek_possible_pistol_fog_small_lock_impose_define
 bip_39_word_underscore_12: crane_column_banana_creek_possible_pistol_fog_small_lock_impose_define_autumn
 bip_39_word_underscore_2: crane_column
 bip_39_word_underscore_3: crane_column_banana
-bip_39_word_underscore_4: crane_column_banana_creek
-bip_39_word_underscore_5: crane_column_banana_creek_possible
-bip_39_word_underscore_6: crane_column_banana_creek_possible_pistol
-bip_39_word_underscore_7: crane_column_banana_creek_possible_pistol_fog
-bip_39_word_underscore_8: crane_column_banana_creek_possible_pistol_fog_small
-bip_39_word_underscore_9: crane_column_banana_creek_possible_pistol_fog_small_lock
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

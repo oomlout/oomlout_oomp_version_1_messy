@@ -1,68 +1,9 @@
-bip_39_word_dash_1: illness
-bip_39_word_dash_10: illness-coffee-notice-main-wonder-wine-retire-coach-drastic-tiger
-bip_39_word_dash_11: illness-coffee-notice-main-wonder-wine-retire-coach-drastic-tiger-liar
 bip_39_word_dash_12: illness-coffee-notice-main-wonder-wine-retire-coach-drastic-tiger-liar-arctic
 bip_39_word_dash_2: illness-coffee
 bip_39_word_dash_3: illness-coffee-notice
-bip_39_word_dash_4: illness-coffee-notice-main
-bip_39_word_dash_5: illness-coffee-notice-main-wonder
-bip_39_word_dash_6: illness-coffee-notice-main-wonder-wine
-bip_39_word_dash_7: illness-coffee-notice-main-wonder-wine-retire
-bip_39_word_dash_8: illness-coffee-notice-main-wonder-wine-retire-coach
-bip_39_word_dash_9: illness-coffee-notice-main-wonder-wine-retire-coach-drastic
-bip_39_word_new_br_1: illness
-bip_39_word_new_br_10: illness<br>coffee<br>notice<br>main<br>wonder<br>wine<br>retire<br>coach<br>drastic<br>tiger
-bip_39_word_new_br_11: illness<br>coffee<br>notice<br>main<br>wonder<br>wine<br>retire<br>coach<br>drastic<br>tiger<br>liar
 bip_39_word_new_br_12: illness<br>coffee<br>notice<br>main<br>wonder<br>wine<br>retire<br>coach<br>drastic<br>tiger<br>liar<br>arctic
 bip_39_word_new_br_2: illness<br>coffee
 bip_39_word_new_br_3: illness<br>coffee<br>notice
-bip_39_word_new_br_4: illness<br>coffee<br>notice<br>main
-bip_39_word_new_br_5: illness<br>coffee<br>notice<br>main<br>wonder
-bip_39_word_new_br_6: illness<br>coffee<br>notice<br>main<br>wonder<br>wine
-bip_39_word_new_br_7: illness<br>coffee<br>notice<br>main<br>wonder<br>wine<br>retire
-bip_39_word_new_br_8: illness<br>coffee<br>notice<br>main<br>wonder<br>wine<br>retire<br>coach
-bip_39_word_new_br_9: illness<br>coffee<br>notice<br>main<br>wonder<br>wine<br>retire<br>coach<br>drastic
-bip_39_word_new_line_1: illness
-bip_39_word_new_line_10: 'illness
-
-  coffee
-
-  notice
-
-  main
-
-  wonder
-
-  wine
-
-  retire
-
-  coach
-
-  drastic
-
-  tiger'
-bip_39_word_new_line_11: 'illness
-
-  coffee
-
-  notice
-
-  main
-
-  wonder
-
-  wine
-
-  retire
-
-  coach
-
-  drastic
-
-  tiger
-
-  liar'
 bip_39_word_new_line_12: 'illness
 
   coffee
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'illness
   coffee
 
   notice'
-bip_39_word_new_line_4: 'illness
-
-  coffee
-
-  notice
-
-  main'
-bip_39_word_new_line_5: 'illness
-
-  coffee
-
-  notice
-
-  main
-
-  wonder'
-bip_39_word_new_line_6: 'illness
-
-  coffee
-
-  notice
-
-  main
-
-  wonder
-
-  wine'
-bip_39_word_new_line_7: 'illness
-
-  coffee
-
-  notice
-
-  main
-
-  wonder
-
-  wine
-
-  retire'
-bip_39_word_new_line_8: 'illness
-
-  coffee
-
-  notice
-
-  main
-
-  wonder
-
-  wine
-
-  retire
-
-  coach'
-bip_39_word_new_line_9: 'illness
-
-  coffee
-
-  notice
-
-  main
-
-  wonder
-
-  wine
-
-  retire
-
-  coach
-
-  drastic'
-bip_39_word_no_space_1: illness
-bip_39_word_no_space_10: illnesscoffeenoticemainwonderwineretirecoachdrastictiger
-bip_39_word_no_space_11: illnesscoffeenoticemainwonderwineretirecoachdrastictigerliar
 bip_39_word_no_space_12: illnesscoffeenoticemainwonderwineretirecoachdrastictigerliararctic
 bip_39_word_no_space_2: illnesscoffee
 bip_39_word_no_space_3: illnesscoffeenotice
-bip_39_word_no_space_4: illnesscoffeenoticemain
-bip_39_word_no_space_5: illnesscoffeenoticemainwonder
-bip_39_word_no_space_6: illnesscoffeenoticemainwonderwine
-bip_39_word_no_space_7: illnesscoffeenoticemainwonderwineretire
-bip_39_word_no_space_8: illnesscoffeenoticemainwonderwineretirecoach
-bip_39_word_no_space_9: illnesscoffeenoticemainwonderwineretirecoachdrastic
-bip_39_word_space_0:
-- illness
-- coffee
-- notice
-- main
-- wonder
-- wine
-- retire
-- coach
-- drastic
-- tiger
-- liar
-- arctic
-bip_39_word_space_1: illness
-bip_39_word_space_10: illness coffee notice main wonder wine retire coach drastic
-  tiger
-bip_39_word_space_11: illness coffee notice main wonder wine retire coach drastic
-  tiger liar
 bip_39_word_space_12: illness coffee notice main wonder wine retire coach drastic
   tiger liar arctic
 bip_39_word_space_2: illness coffee
 bip_39_word_space_3: illness coffee notice
-bip_39_word_space_4: illness coffee notice main
-bip_39_word_space_5: illness coffee notice main wonder
-bip_39_word_space_6: illness coffee notice main wonder wine
-bip_39_word_space_7: illness coffee notice main wonder wine retire
-bip_39_word_space_8: illness coffee notice main wonder wine retire coach
-bip_39_word_space_9: illness coffee notice main wonder wine retire coach drastic
-bip_39_word_underscore_1: illness
-bip_39_word_underscore_10: illness_coffee_notice_main_wonder_wine_retire_coach_drastic_tiger
-bip_39_word_underscore_11: illness_coffee_notice_main_wonder_wine_retire_coach_drastic_tiger_liar
 bip_39_word_underscore_12: illness_coffee_notice_main_wonder_wine_retire_coach_drastic_tiger_liar_arctic
 bip_39_word_underscore_2: illness_coffee
 bip_39_word_underscore_3: illness_coffee_notice
-bip_39_word_underscore_4: illness_coffee_notice_main
-bip_39_word_underscore_5: illness_coffee_notice_main_wonder
-bip_39_word_underscore_6: illness_coffee_notice_main_wonder_wine
-bip_39_word_underscore_7: illness_coffee_notice_main_wonder_wine_retire
-bip_39_word_underscore_8: illness_coffee_notice_main_wonder_wine_retire_coach
-bip_39_word_underscore_9: illness_coffee_notice_main_wonder_wine_retire_coach_drastic
 classification: computer
 classification_capital: Computer
 classification_first_letter: c

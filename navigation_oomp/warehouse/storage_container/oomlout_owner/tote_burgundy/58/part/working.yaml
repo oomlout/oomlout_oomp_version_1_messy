@@ -1,68 +1,9 @@
-bip_39_word_dash_1: screen
-bip_39_word_dash_10: screen-almost-tourist-palm-bless-giggle-arrange-erase-artist-stem
-bip_39_word_dash_11: screen-almost-tourist-palm-bless-giggle-arrange-erase-artist-stem-exclude
 bip_39_word_dash_12: screen-almost-tourist-palm-bless-giggle-arrange-erase-artist-stem-exclude-absent
 bip_39_word_dash_2: screen-almost
 bip_39_word_dash_3: screen-almost-tourist
-bip_39_word_dash_4: screen-almost-tourist-palm
-bip_39_word_dash_5: screen-almost-tourist-palm-bless
-bip_39_word_dash_6: screen-almost-tourist-palm-bless-giggle
-bip_39_word_dash_7: screen-almost-tourist-palm-bless-giggle-arrange
-bip_39_word_dash_8: screen-almost-tourist-palm-bless-giggle-arrange-erase
-bip_39_word_dash_9: screen-almost-tourist-palm-bless-giggle-arrange-erase-artist
-bip_39_word_new_br_1: screen
-bip_39_word_new_br_10: screen<br>almost<br>tourist<br>palm<br>bless<br>giggle<br>arrange<br>erase<br>artist<br>stem
-bip_39_word_new_br_11: screen<br>almost<br>tourist<br>palm<br>bless<br>giggle<br>arrange<br>erase<br>artist<br>stem<br>exclude
 bip_39_word_new_br_12: screen<br>almost<br>tourist<br>palm<br>bless<br>giggle<br>arrange<br>erase<br>artist<br>stem<br>exclude<br>absent
 bip_39_word_new_br_2: screen<br>almost
 bip_39_word_new_br_3: screen<br>almost<br>tourist
-bip_39_word_new_br_4: screen<br>almost<br>tourist<br>palm
-bip_39_word_new_br_5: screen<br>almost<br>tourist<br>palm<br>bless
-bip_39_word_new_br_6: screen<br>almost<br>tourist<br>palm<br>bless<br>giggle
-bip_39_word_new_br_7: screen<br>almost<br>tourist<br>palm<br>bless<br>giggle<br>arrange
-bip_39_word_new_br_8: screen<br>almost<br>tourist<br>palm<br>bless<br>giggle<br>arrange<br>erase
-bip_39_word_new_br_9: screen<br>almost<br>tourist<br>palm<br>bless<br>giggle<br>arrange<br>erase<br>artist
-bip_39_word_new_line_1: screen
-bip_39_word_new_line_10: 'screen
-
-  almost
-
-  tourist
-
-  palm
-
-  bless
-
-  giggle
-
-  arrange
-
-  erase
-
-  artist
-
-  stem'
-bip_39_word_new_line_11: 'screen
-
-  almost
-
-  tourist
-
-  palm
-
-  bless
-
-  giggle
-
-  arrange
-
-  erase
-
-  artist
-
-  stem
-
-  exclude'
 bip_39_word_new_line_12: 'screen
 
   almost
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'screen
   almost
 
   tourist'
-bip_39_word_new_line_4: 'screen
-
-  almost
-
-  tourist
-
-  palm'
-bip_39_word_new_line_5: 'screen
-
-  almost
-
-  tourist
-
-  palm
-
-  bless'
-bip_39_word_new_line_6: 'screen
-
-  almost
-
-  tourist
-
-  palm
-
-  bless
-
-  giggle'
-bip_39_word_new_line_7: 'screen
-
-  almost
-
-  tourist
-
-  palm
-
-  bless
-
-  giggle
-
-  arrange'
-bip_39_word_new_line_8: 'screen
-
-  almost
-
-  tourist
-
-  palm
-
-  bless
-
-  giggle
-
-  arrange
-
-  erase'
-bip_39_word_new_line_9: 'screen
-
-  almost
-
-  tourist
-
-  palm
-
-  bless
-
-  giggle
-
-  arrange
-
-  erase
-
-  artist'
-bip_39_word_no_space_1: screen
-bip_39_word_no_space_10: screenalmosttouristpalmblessgigglearrangeeraseartiststem
-bip_39_word_no_space_11: screenalmosttouristpalmblessgigglearrangeeraseartiststemexclude
 bip_39_word_no_space_12: screenalmosttouristpalmblessgigglearrangeeraseartiststemexcludeabsent
 bip_39_word_no_space_2: screenalmost
 bip_39_word_no_space_3: screenalmosttourist
-bip_39_word_no_space_4: screenalmosttouristpalm
-bip_39_word_no_space_5: screenalmosttouristpalmbless
-bip_39_word_no_space_6: screenalmosttouristpalmblessgiggle
-bip_39_word_no_space_7: screenalmosttouristpalmblessgigglearrange
-bip_39_word_no_space_8: screenalmosttouristpalmblessgigglearrangeerase
-bip_39_word_no_space_9: screenalmosttouristpalmblessgigglearrangeeraseartist
-bip_39_word_space_0:
-- screen
-- almost
-- tourist
-- palm
-- bless
-- giggle
-- arrange
-- erase
-- artist
-- stem
-- exclude
-- absent
-bip_39_word_space_1: screen
-bip_39_word_space_10: screen almost tourist palm bless giggle arrange erase artist
-  stem
-bip_39_word_space_11: screen almost tourist palm bless giggle arrange erase artist
-  stem exclude
 bip_39_word_space_12: screen almost tourist palm bless giggle arrange erase artist
   stem exclude absent
 bip_39_word_space_2: screen almost
 bip_39_word_space_3: screen almost tourist
-bip_39_word_space_4: screen almost tourist palm
-bip_39_word_space_5: screen almost tourist palm bless
-bip_39_word_space_6: screen almost tourist palm bless giggle
-bip_39_word_space_7: screen almost tourist palm bless giggle arrange
-bip_39_word_space_8: screen almost tourist palm bless giggle arrange erase
-bip_39_word_space_9: screen almost tourist palm bless giggle arrange erase artist
-bip_39_word_underscore_1: screen
-bip_39_word_underscore_10: screen_almost_tourist_palm_bless_giggle_arrange_erase_artist_stem
-bip_39_word_underscore_11: screen_almost_tourist_palm_bless_giggle_arrange_erase_artist_stem_exclude
 bip_39_word_underscore_12: screen_almost_tourist_palm_bless_giggle_arrange_erase_artist_stem_exclude_absent
 bip_39_word_underscore_2: screen_almost
 bip_39_word_underscore_3: screen_almost_tourist
-bip_39_word_underscore_4: screen_almost_tourist_palm
-bip_39_word_underscore_5: screen_almost_tourist_palm_bless
-bip_39_word_underscore_6: screen_almost_tourist_palm_bless_giggle
-bip_39_word_underscore_7: screen_almost_tourist_palm_bless_giggle_arrange
-bip_39_word_underscore_8: screen_almost_tourist_palm_bless_giggle_arrange_erase
-bip_39_word_underscore_9: screen_almost_tourist_palm_bless_giggle_arrange_erase_artist
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: notice
-bip_39_word_dash_10: notice-craft-test-example-table-crime-clutch-dice-start-demise
-bip_39_word_dash_11: notice-craft-test-example-table-crime-clutch-dice-start-demise-shallow
 bip_39_word_dash_12: notice-craft-test-example-table-crime-clutch-dice-start-demise-shallow-antique
 bip_39_word_dash_2: notice-craft
 bip_39_word_dash_3: notice-craft-test
-bip_39_word_dash_4: notice-craft-test-example
-bip_39_word_dash_5: notice-craft-test-example-table
-bip_39_word_dash_6: notice-craft-test-example-table-crime
-bip_39_word_dash_7: notice-craft-test-example-table-crime-clutch
-bip_39_word_dash_8: notice-craft-test-example-table-crime-clutch-dice
-bip_39_word_dash_9: notice-craft-test-example-table-crime-clutch-dice-start
-bip_39_word_new_br_1: notice
-bip_39_word_new_br_10: notice<br>craft<br>test<br>example<br>table<br>crime<br>clutch<br>dice<br>start<br>demise
-bip_39_word_new_br_11: notice<br>craft<br>test<br>example<br>table<br>crime<br>clutch<br>dice<br>start<br>demise<br>shallow
 bip_39_word_new_br_12: notice<br>craft<br>test<br>example<br>table<br>crime<br>clutch<br>dice<br>start<br>demise<br>shallow<br>antique
 bip_39_word_new_br_2: notice<br>craft
 bip_39_word_new_br_3: notice<br>craft<br>test
-bip_39_word_new_br_4: notice<br>craft<br>test<br>example
-bip_39_word_new_br_5: notice<br>craft<br>test<br>example<br>table
-bip_39_word_new_br_6: notice<br>craft<br>test<br>example<br>table<br>crime
-bip_39_word_new_br_7: notice<br>craft<br>test<br>example<br>table<br>crime<br>clutch
-bip_39_word_new_br_8: notice<br>craft<br>test<br>example<br>table<br>crime<br>clutch<br>dice
-bip_39_word_new_br_9: notice<br>craft<br>test<br>example<br>table<br>crime<br>clutch<br>dice<br>start
-bip_39_word_new_line_1: notice
-bip_39_word_new_line_10: 'notice
-
-  craft
-
-  test
-
-  example
-
-  table
-
-  crime
-
-  clutch
-
-  dice
-
-  start
-
-  demise'
-bip_39_word_new_line_11: 'notice
-
-  craft
-
-  test
-
-  example
-
-  table
-
-  crime
-
-  clutch
-
-  dice
-
-  start
-
-  demise
-
-  shallow'
 bip_39_word_new_line_12: 'notice
 
   craft
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'notice
   craft
 
   test'
-bip_39_word_new_line_4: 'notice
-
-  craft
-
-  test
-
-  example'
-bip_39_word_new_line_5: 'notice
-
-  craft
-
-  test
-
-  example
-
-  table'
-bip_39_word_new_line_6: 'notice
-
-  craft
-
-  test
-
-  example
-
-  table
-
-  crime'
-bip_39_word_new_line_7: 'notice
-
-  craft
-
-  test
-
-  example
-
-  table
-
-  crime
-
-  clutch'
-bip_39_word_new_line_8: 'notice
-
-  craft
-
-  test
-
-  example
-
-  table
-
-  crime
-
-  clutch
-
-  dice'
-bip_39_word_new_line_9: 'notice
-
-  craft
-
-  test
-
-  example
-
-  table
-
-  crime
-
-  clutch
-
-  dice
-
-  start'
-bip_39_word_no_space_1: notice
-bip_39_word_no_space_10: noticecrafttestexampletablecrimeclutchdicestartdemise
-bip_39_word_no_space_11: noticecrafttestexampletablecrimeclutchdicestartdemiseshallow
 bip_39_word_no_space_12: noticecrafttestexampletablecrimeclutchdicestartdemiseshallowantique
 bip_39_word_no_space_2: noticecraft
 bip_39_word_no_space_3: noticecrafttest
-bip_39_word_no_space_4: noticecrafttestexample
-bip_39_word_no_space_5: noticecrafttestexampletable
-bip_39_word_no_space_6: noticecrafttestexampletablecrime
-bip_39_word_no_space_7: noticecrafttestexampletablecrimeclutch
-bip_39_word_no_space_8: noticecrafttestexampletablecrimeclutchdice
-bip_39_word_no_space_9: noticecrafttestexampletablecrimeclutchdicestart
-bip_39_word_space_0:
-- notice
-- craft
-- test
-- example
-- table
-- crime
-- clutch
-- dice
-- start
-- demise
-- shallow
-- antique
-bip_39_word_space_1: notice
-bip_39_word_space_10: notice craft test example table crime clutch dice start demise
-bip_39_word_space_11: notice craft test example table crime clutch dice start demise
-  shallow
 bip_39_word_space_12: notice craft test example table crime clutch dice start demise
   shallow antique
 bip_39_word_space_2: notice craft
 bip_39_word_space_3: notice craft test
-bip_39_word_space_4: notice craft test example
-bip_39_word_space_5: notice craft test example table
-bip_39_word_space_6: notice craft test example table crime
-bip_39_word_space_7: notice craft test example table crime clutch
-bip_39_word_space_8: notice craft test example table crime clutch dice
-bip_39_word_space_9: notice craft test example table crime clutch dice start
-bip_39_word_underscore_1: notice
-bip_39_word_underscore_10: notice_craft_test_example_table_crime_clutch_dice_start_demise
-bip_39_word_underscore_11: notice_craft_test_example_table_crime_clutch_dice_start_demise_shallow
 bip_39_word_underscore_12: notice_craft_test_example_table_crime_clutch_dice_start_demise_shallow_antique
 bip_39_word_underscore_2: notice_craft
 bip_39_word_underscore_3: notice_craft_test
-bip_39_word_underscore_4: notice_craft_test_example
-bip_39_word_underscore_5: notice_craft_test_example_table
-bip_39_word_underscore_6: notice_craft_test_example_table_crime
-bip_39_word_underscore_7: notice_craft_test_example_table_crime_clutch
-bip_39_word_underscore_8: notice_craft_test_example_table_crime_clutch_dice
-bip_39_word_underscore_9: notice_craft_test_example_table_crime_clutch_dice_start
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

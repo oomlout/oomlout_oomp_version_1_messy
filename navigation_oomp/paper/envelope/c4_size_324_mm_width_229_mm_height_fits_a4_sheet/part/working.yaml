@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cabbage
-bip_39_word_dash_10: cabbage-radio-elephant-marble-gravity-opera-clown-stomach-huge-tape
-bip_39_word_dash_11: cabbage-radio-elephant-marble-gravity-opera-clown-stomach-huge-tape-people
 bip_39_word_dash_12: cabbage-radio-elephant-marble-gravity-opera-clown-stomach-huge-tape-people-air
 bip_39_word_dash_2: cabbage-radio
 bip_39_word_dash_3: cabbage-radio-elephant
-bip_39_word_dash_4: cabbage-radio-elephant-marble
-bip_39_word_dash_5: cabbage-radio-elephant-marble-gravity
-bip_39_word_dash_6: cabbage-radio-elephant-marble-gravity-opera
-bip_39_word_dash_7: cabbage-radio-elephant-marble-gravity-opera-clown
-bip_39_word_dash_8: cabbage-radio-elephant-marble-gravity-opera-clown-stomach
-bip_39_word_dash_9: cabbage-radio-elephant-marble-gravity-opera-clown-stomach-huge
-bip_39_word_new_br_1: cabbage
-bip_39_word_new_br_10: cabbage<br>radio<br>elephant<br>marble<br>gravity<br>opera<br>clown<br>stomach<br>huge<br>tape
-bip_39_word_new_br_11: cabbage<br>radio<br>elephant<br>marble<br>gravity<br>opera<br>clown<br>stomach<br>huge<br>tape<br>people
 bip_39_word_new_br_12: cabbage<br>radio<br>elephant<br>marble<br>gravity<br>opera<br>clown<br>stomach<br>huge<br>tape<br>people<br>air
 bip_39_word_new_br_2: cabbage<br>radio
 bip_39_word_new_br_3: cabbage<br>radio<br>elephant
-bip_39_word_new_br_4: cabbage<br>radio<br>elephant<br>marble
-bip_39_word_new_br_5: cabbage<br>radio<br>elephant<br>marble<br>gravity
-bip_39_word_new_br_6: cabbage<br>radio<br>elephant<br>marble<br>gravity<br>opera
-bip_39_word_new_br_7: cabbage<br>radio<br>elephant<br>marble<br>gravity<br>opera<br>clown
-bip_39_word_new_br_8: cabbage<br>radio<br>elephant<br>marble<br>gravity<br>opera<br>clown<br>stomach
-bip_39_word_new_br_9: cabbage<br>radio<br>elephant<br>marble<br>gravity<br>opera<br>clown<br>stomach<br>huge
-bip_39_word_new_line_1: cabbage
-bip_39_word_new_line_10: 'cabbage
-
-  radio
-
-  elephant
-
-  marble
-
-  gravity
-
-  opera
-
-  clown
-
-  stomach
-
-  huge
-
-  tape'
-bip_39_word_new_line_11: 'cabbage
-
-  radio
-
-  elephant
-
-  marble
-
-  gravity
-
-  opera
-
-  clown
-
-  stomach
-
-  huge
-
-  tape
-
-  people'
 bip_39_word_new_line_12: 'cabbage
 
   radio
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'cabbage
   radio
 
   elephant'
-bip_39_word_new_line_4: 'cabbage
-
-  radio
-
-  elephant
-
-  marble'
-bip_39_word_new_line_5: 'cabbage
-
-  radio
-
-  elephant
-
-  marble
-
-  gravity'
-bip_39_word_new_line_6: 'cabbage
-
-  radio
-
-  elephant
-
-  marble
-
-  gravity
-
-  opera'
-bip_39_word_new_line_7: 'cabbage
-
-  radio
-
-  elephant
-
-  marble
-
-  gravity
-
-  opera
-
-  clown'
-bip_39_word_new_line_8: 'cabbage
-
-  radio
-
-  elephant
-
-  marble
-
-  gravity
-
-  opera
-
-  clown
-
-  stomach'
-bip_39_word_new_line_9: 'cabbage
-
-  radio
-
-  elephant
-
-  marble
-
-  gravity
-
-  opera
-
-  clown
-
-  stomach
-
-  huge'
-bip_39_word_no_space_1: cabbage
-bip_39_word_no_space_10: cabbageradioelephantmarblegravityoperaclownstomachhugetape
-bip_39_word_no_space_11: cabbageradioelephantmarblegravityoperaclownstomachhugetapepeople
 bip_39_word_no_space_12: cabbageradioelephantmarblegravityoperaclownstomachhugetapepeopleair
 bip_39_word_no_space_2: cabbageradio
 bip_39_word_no_space_3: cabbageradioelephant
-bip_39_word_no_space_4: cabbageradioelephantmarble
-bip_39_word_no_space_5: cabbageradioelephantmarblegravity
-bip_39_word_no_space_6: cabbageradioelephantmarblegravityopera
-bip_39_word_no_space_7: cabbageradioelephantmarblegravityoperaclown
-bip_39_word_no_space_8: cabbageradioelephantmarblegravityoperaclownstomach
-bip_39_word_no_space_9: cabbageradioelephantmarblegravityoperaclownstomachhuge
-bip_39_word_space_0:
-- cabbage
-- radio
-- elephant
-- marble
-- gravity
-- opera
-- clown
-- stomach
-- huge
-- tape
-- people
-- air
-bip_39_word_space_1: cabbage
-bip_39_word_space_10: cabbage radio elephant marble gravity opera clown stomach huge
-  tape
-bip_39_word_space_11: cabbage radio elephant marble gravity opera clown stomach huge
-  tape people
 bip_39_word_space_12: cabbage radio elephant marble gravity opera clown stomach huge
   tape people air
 bip_39_word_space_2: cabbage radio
 bip_39_word_space_3: cabbage radio elephant
-bip_39_word_space_4: cabbage radio elephant marble
-bip_39_word_space_5: cabbage radio elephant marble gravity
-bip_39_word_space_6: cabbage radio elephant marble gravity opera
-bip_39_word_space_7: cabbage radio elephant marble gravity opera clown
-bip_39_word_space_8: cabbage radio elephant marble gravity opera clown stomach
-bip_39_word_space_9: cabbage radio elephant marble gravity opera clown stomach huge
-bip_39_word_underscore_1: cabbage
-bip_39_word_underscore_10: cabbage_radio_elephant_marble_gravity_opera_clown_stomach_huge_tape
-bip_39_word_underscore_11: cabbage_radio_elephant_marble_gravity_opera_clown_stomach_huge_tape_people
 bip_39_word_underscore_12: cabbage_radio_elephant_marble_gravity_opera_clown_stomach_huge_tape_people_air
 bip_39_word_underscore_2: cabbage_radio
 bip_39_word_underscore_3: cabbage_radio_elephant
-bip_39_word_underscore_4: cabbage_radio_elephant_marble
-bip_39_word_underscore_5: cabbage_radio_elephant_marble_gravity
-bip_39_word_underscore_6: cabbage_radio_elephant_marble_gravity_opera
-bip_39_word_underscore_7: cabbage_radio_elephant_marble_gravity_opera_clown
-bip_39_word_underscore_8: cabbage_radio_elephant_marble_gravity_opera_clown_stomach
-bip_39_word_underscore_9: cabbage_radio_elephant_marble_gravity_opera_clown_stomach_huge
 classification: paper
 classification_capital: Paper
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: garbage
-bip_39_word_dash_10: garbage-once-found-celery-weasel-hope-wrong-nose-road-match
-bip_39_word_dash_11: garbage-once-found-celery-weasel-hope-wrong-nose-road-match-skull
 bip_39_word_dash_12: garbage-once-found-celery-weasel-hope-wrong-nose-road-match-skull-always
 bip_39_word_dash_2: garbage-once
 bip_39_word_dash_3: garbage-once-found
-bip_39_word_dash_4: garbage-once-found-celery
-bip_39_word_dash_5: garbage-once-found-celery-weasel
-bip_39_word_dash_6: garbage-once-found-celery-weasel-hope
-bip_39_word_dash_7: garbage-once-found-celery-weasel-hope-wrong
-bip_39_word_dash_8: garbage-once-found-celery-weasel-hope-wrong-nose
-bip_39_word_dash_9: garbage-once-found-celery-weasel-hope-wrong-nose-road
-bip_39_word_new_br_1: garbage
-bip_39_word_new_br_10: garbage<br>once<br>found<br>celery<br>weasel<br>hope<br>wrong<br>nose<br>road<br>match
-bip_39_word_new_br_11: garbage<br>once<br>found<br>celery<br>weasel<br>hope<br>wrong<br>nose<br>road<br>match<br>skull
 bip_39_word_new_br_12: garbage<br>once<br>found<br>celery<br>weasel<br>hope<br>wrong<br>nose<br>road<br>match<br>skull<br>always
 bip_39_word_new_br_2: garbage<br>once
 bip_39_word_new_br_3: garbage<br>once<br>found
-bip_39_word_new_br_4: garbage<br>once<br>found<br>celery
-bip_39_word_new_br_5: garbage<br>once<br>found<br>celery<br>weasel
-bip_39_word_new_br_6: garbage<br>once<br>found<br>celery<br>weasel<br>hope
-bip_39_word_new_br_7: garbage<br>once<br>found<br>celery<br>weasel<br>hope<br>wrong
-bip_39_word_new_br_8: garbage<br>once<br>found<br>celery<br>weasel<br>hope<br>wrong<br>nose
-bip_39_word_new_br_9: garbage<br>once<br>found<br>celery<br>weasel<br>hope<br>wrong<br>nose<br>road
-bip_39_word_new_line_1: garbage
-bip_39_word_new_line_10: 'garbage
-
-  once
-
-  found
-
-  celery
-
-  weasel
-
-  hope
-
-  wrong
-
-  nose
-
-  road
-
-  match'
-bip_39_word_new_line_11: 'garbage
-
-  once
-
-  found
-
-  celery
-
-  weasel
-
-  hope
-
-  wrong
-
-  nose
-
-  road
-
-  match
-
-  skull'
 bip_39_word_new_line_12: 'garbage
 
   once
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'garbage
   once
 
   found'
-bip_39_word_new_line_4: 'garbage
-
-  once
-
-  found
-
-  celery'
-bip_39_word_new_line_5: 'garbage
-
-  once
-
-  found
-
-  celery
-
-  weasel'
-bip_39_word_new_line_6: 'garbage
-
-  once
-
-  found
-
-  celery
-
-  weasel
-
-  hope'
-bip_39_word_new_line_7: 'garbage
-
-  once
-
-  found
-
-  celery
-
-  weasel
-
-  hope
-
-  wrong'
-bip_39_word_new_line_8: 'garbage
-
-  once
-
-  found
-
-  celery
-
-  weasel
-
-  hope
-
-  wrong
-
-  nose'
-bip_39_word_new_line_9: 'garbage
-
-  once
-
-  found
-
-  celery
-
-  weasel
-
-  hope
-
-  wrong
-
-  nose
-
-  road'
-bip_39_word_no_space_1: garbage
-bip_39_word_no_space_10: garbageoncefoundceleryweaselhopewrongnoseroadmatch
-bip_39_word_no_space_11: garbageoncefoundceleryweaselhopewrongnoseroadmatchskull
 bip_39_word_no_space_12: garbageoncefoundceleryweaselhopewrongnoseroadmatchskullalways
 bip_39_word_no_space_2: garbageonce
 bip_39_word_no_space_3: garbageoncefound
-bip_39_word_no_space_4: garbageoncefoundcelery
-bip_39_word_no_space_5: garbageoncefoundceleryweasel
-bip_39_word_no_space_6: garbageoncefoundceleryweaselhope
-bip_39_word_no_space_7: garbageoncefoundceleryweaselhopewrong
-bip_39_word_no_space_8: garbageoncefoundceleryweaselhopewrongnose
-bip_39_word_no_space_9: garbageoncefoundceleryweaselhopewrongnoseroad
-bip_39_word_space_0:
-- garbage
-- once
-- found
-- celery
-- weasel
-- hope
-- wrong
-- nose
-- road
-- match
-- skull
-- always
-bip_39_word_space_1: garbage
-bip_39_word_space_10: garbage once found celery weasel hope wrong nose road match
-bip_39_word_space_11: garbage once found celery weasel hope wrong nose road match
-  skull
 bip_39_word_space_12: garbage once found celery weasel hope wrong nose road match
   skull always
 bip_39_word_space_2: garbage once
 bip_39_word_space_3: garbage once found
-bip_39_word_space_4: garbage once found celery
-bip_39_word_space_5: garbage once found celery weasel
-bip_39_word_space_6: garbage once found celery weasel hope
-bip_39_word_space_7: garbage once found celery weasel hope wrong
-bip_39_word_space_8: garbage once found celery weasel hope wrong nose
-bip_39_word_space_9: garbage once found celery weasel hope wrong nose road
-bip_39_word_underscore_1: garbage
-bip_39_word_underscore_10: garbage_once_found_celery_weasel_hope_wrong_nose_road_match
-bip_39_word_underscore_11: garbage_once_found_celery_weasel_hope_wrong_nose_road_match_skull
 bip_39_word_underscore_12: garbage_once_found_celery_weasel_hope_wrong_nose_road_match_skull_always
 bip_39_word_underscore_2: garbage_once
 bip_39_word_underscore_3: garbage_once_found
-bip_39_word_underscore_4: garbage_once_found_celery
-bip_39_word_underscore_5: garbage_once_found_celery_weasel
-bip_39_word_underscore_6: garbage_once_found_celery_weasel_hope
-bip_39_word_underscore_7: garbage_once_found_celery_weasel_hope_wrong
-bip_39_word_underscore_8: garbage_once_found_celery_weasel_hope_wrong_nose
-bip_39_word_underscore_9: garbage_once_found_celery_weasel_hope_wrong_nose_road
 classification: category
 classification_capital: Category
 classification_first_letter: c

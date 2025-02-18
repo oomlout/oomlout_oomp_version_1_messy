@@ -1,68 +1,9 @@
-bip_39_word_dash_1: key
-bip_39_word_dash_10: key-cattle-ticket-bacon-robot-unusual-help-oppose-stone-spoil
-bip_39_word_dash_11: key-cattle-ticket-bacon-robot-unusual-help-oppose-stone-spoil-refuse
 bip_39_word_dash_12: key-cattle-ticket-bacon-robot-unusual-help-oppose-stone-spoil-refuse-audit
 bip_39_word_dash_2: key-cattle
 bip_39_word_dash_3: key-cattle-ticket
-bip_39_word_dash_4: key-cattle-ticket-bacon
-bip_39_word_dash_5: key-cattle-ticket-bacon-robot
-bip_39_word_dash_6: key-cattle-ticket-bacon-robot-unusual
-bip_39_word_dash_7: key-cattle-ticket-bacon-robot-unusual-help
-bip_39_word_dash_8: key-cattle-ticket-bacon-robot-unusual-help-oppose
-bip_39_word_dash_9: key-cattle-ticket-bacon-robot-unusual-help-oppose-stone
-bip_39_word_new_br_1: key
-bip_39_word_new_br_10: key<br>cattle<br>ticket<br>bacon<br>robot<br>unusual<br>help<br>oppose<br>stone<br>spoil
-bip_39_word_new_br_11: key<br>cattle<br>ticket<br>bacon<br>robot<br>unusual<br>help<br>oppose<br>stone<br>spoil<br>refuse
 bip_39_word_new_br_12: key<br>cattle<br>ticket<br>bacon<br>robot<br>unusual<br>help<br>oppose<br>stone<br>spoil<br>refuse<br>audit
 bip_39_word_new_br_2: key<br>cattle
 bip_39_word_new_br_3: key<br>cattle<br>ticket
-bip_39_word_new_br_4: key<br>cattle<br>ticket<br>bacon
-bip_39_word_new_br_5: key<br>cattle<br>ticket<br>bacon<br>robot
-bip_39_word_new_br_6: key<br>cattle<br>ticket<br>bacon<br>robot<br>unusual
-bip_39_word_new_br_7: key<br>cattle<br>ticket<br>bacon<br>robot<br>unusual<br>help
-bip_39_word_new_br_8: key<br>cattle<br>ticket<br>bacon<br>robot<br>unusual<br>help<br>oppose
-bip_39_word_new_br_9: key<br>cattle<br>ticket<br>bacon<br>robot<br>unusual<br>help<br>oppose<br>stone
-bip_39_word_new_line_1: key
-bip_39_word_new_line_10: 'key
-
-  cattle
-
-  ticket
-
-  bacon
-
-  robot
-
-  unusual
-
-  help
-
-  oppose
-
-  stone
-
-  spoil'
-bip_39_word_new_line_11: 'key
-
-  cattle
-
-  ticket
-
-  bacon
-
-  robot
-
-  unusual
-
-  help
-
-  oppose
-
-  stone
-
-  spoil
-
-  refuse'
 bip_39_word_new_line_12: 'key
 
   cattle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'key
   cattle
 
   ticket'
-bip_39_word_new_line_4: 'key
-
-  cattle
-
-  ticket
-
-  bacon'
-bip_39_word_new_line_5: 'key
-
-  cattle
-
-  ticket
-
-  bacon
-
-  robot'
-bip_39_word_new_line_6: 'key
-
-  cattle
-
-  ticket
-
-  bacon
-
-  robot
-
-  unusual'
-bip_39_word_new_line_7: 'key
-
-  cattle
-
-  ticket
-
-  bacon
-
-  robot
-
-  unusual
-
-  help'
-bip_39_word_new_line_8: 'key
-
-  cattle
-
-  ticket
-
-  bacon
-
-  robot
-
-  unusual
-
-  help
-
-  oppose'
-bip_39_word_new_line_9: 'key
-
-  cattle
-
-  ticket
-
-  bacon
-
-  robot
-
-  unusual
-
-  help
-
-  oppose
-
-  stone'
-bip_39_word_no_space_1: key
-bip_39_word_no_space_10: keycattleticketbaconrobotunusualhelpopposestonespoil
-bip_39_word_no_space_11: keycattleticketbaconrobotunusualhelpopposestonespoilrefuse
 bip_39_word_no_space_12: keycattleticketbaconrobotunusualhelpopposestonespoilrefuseaudit
 bip_39_word_no_space_2: keycattle
 bip_39_word_no_space_3: keycattleticket
-bip_39_word_no_space_4: keycattleticketbacon
-bip_39_word_no_space_5: keycattleticketbaconrobot
-bip_39_word_no_space_6: keycattleticketbaconrobotunusual
-bip_39_word_no_space_7: keycattleticketbaconrobotunusualhelp
-bip_39_word_no_space_8: keycattleticketbaconrobotunusualhelpoppose
-bip_39_word_no_space_9: keycattleticketbaconrobotunusualhelpopposestone
-bip_39_word_space_0:
-- key
-- cattle
-- ticket
-- bacon
-- robot
-- unusual
-- help
-- oppose
-- stone
-- spoil
-- refuse
-- audit
-bip_39_word_space_1: key
-bip_39_word_space_10: key cattle ticket bacon robot unusual help oppose stone spoil
-bip_39_word_space_11: key cattle ticket bacon robot unusual help oppose stone spoil
-  refuse
 bip_39_word_space_12: key cattle ticket bacon robot unusual help oppose stone spoil
   refuse audit
 bip_39_word_space_2: key cattle
 bip_39_word_space_3: key cattle ticket
-bip_39_word_space_4: key cattle ticket bacon
-bip_39_word_space_5: key cattle ticket bacon robot
-bip_39_word_space_6: key cattle ticket bacon robot unusual
-bip_39_word_space_7: key cattle ticket bacon robot unusual help
-bip_39_word_space_8: key cattle ticket bacon robot unusual help oppose
-bip_39_word_space_9: key cattle ticket bacon robot unusual help oppose stone
-bip_39_word_underscore_1: key
-bip_39_word_underscore_10: key_cattle_ticket_bacon_robot_unusual_help_oppose_stone_spoil
-bip_39_word_underscore_11: key_cattle_ticket_bacon_robot_unusual_help_oppose_stone_spoil_refuse
 bip_39_word_underscore_12: key_cattle_ticket_bacon_robot_unusual_help_oppose_stone_spoil_refuse_audit
 bip_39_word_underscore_2: key_cattle
 bip_39_word_underscore_3: key_cattle_ticket
-bip_39_word_underscore_4: key_cattle_ticket_bacon
-bip_39_word_underscore_5: key_cattle_ticket_bacon_robot
-bip_39_word_underscore_6: key_cattle_ticket_bacon_robot_unusual
-bip_39_word_underscore_7: key_cattle_ticket_bacon_robot_unusual_help
-bip_39_word_underscore_8: key_cattle_ticket_bacon_robot_unusual_help_oppose
-bip_39_word_underscore_9: key_cattle_ticket_bacon_robot_unusual_help_oppose_stone
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

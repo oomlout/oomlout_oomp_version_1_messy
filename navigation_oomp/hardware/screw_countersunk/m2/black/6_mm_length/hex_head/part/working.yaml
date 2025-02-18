@@ -1,68 +1,9 @@
-bip_39_word_dash_1: guilt
-bip_39_word_dash_10: guilt-asset-laundry-stage-tip-tomorrow-act-chapter-hen-draw
-bip_39_word_dash_11: guilt-asset-laundry-stage-tip-tomorrow-act-chapter-hen-draw-flee
 bip_39_word_dash_12: guilt-asset-laundry-stage-tip-tomorrow-act-chapter-hen-draw-flee-april
 bip_39_word_dash_2: guilt-asset
 bip_39_word_dash_3: guilt-asset-laundry
-bip_39_word_dash_4: guilt-asset-laundry-stage
-bip_39_word_dash_5: guilt-asset-laundry-stage-tip
-bip_39_word_dash_6: guilt-asset-laundry-stage-tip-tomorrow
-bip_39_word_dash_7: guilt-asset-laundry-stage-tip-tomorrow-act
-bip_39_word_dash_8: guilt-asset-laundry-stage-tip-tomorrow-act-chapter
-bip_39_word_dash_9: guilt-asset-laundry-stage-tip-tomorrow-act-chapter-hen
-bip_39_word_new_br_1: guilt
-bip_39_word_new_br_10: guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter<br>hen<br>draw
-bip_39_word_new_br_11: guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter<br>hen<br>draw<br>flee
 bip_39_word_new_br_12: guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter<br>hen<br>draw<br>flee<br>april
 bip_39_word_new_br_2: guilt<br>asset
 bip_39_word_new_br_3: guilt<br>asset<br>laundry
-bip_39_word_new_br_4: guilt<br>asset<br>laundry<br>stage
-bip_39_word_new_br_5: guilt<br>asset<br>laundry<br>stage<br>tip
-bip_39_word_new_br_6: guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow
-bip_39_word_new_br_7: guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act
-bip_39_word_new_br_8: guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter
-bip_39_word_new_br_9: guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter<br>hen
-bip_39_word_new_line_1: guilt
-bip_39_word_new_line_10: 'guilt
-
-  asset
-
-  laundry
-
-  stage
-
-  tip
-
-  tomorrow
-
-  act
-
-  chapter
-
-  hen
-
-  draw'
-bip_39_word_new_line_11: 'guilt
-
-  asset
-
-  laundry
-
-  stage
-
-  tip
-
-  tomorrow
-
-  act
-
-  chapter
-
-  hen
-
-  draw
-
-  flee'
 bip_39_word_new_line_12: 'guilt
 
   asset
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'guilt
   asset
 
   laundry'
-bip_39_word_new_line_4: 'guilt
-
-  asset
-
-  laundry
-
-  stage'
-bip_39_word_new_line_5: 'guilt
-
-  asset
-
-  laundry
-
-  stage
-
-  tip'
-bip_39_word_new_line_6: 'guilt
-
-  asset
-
-  laundry
-
-  stage
-
-  tip
-
-  tomorrow'
-bip_39_word_new_line_7: 'guilt
-
-  asset
-
-  laundry
-
-  stage
-
-  tip
-
-  tomorrow
-
-  act'
-bip_39_word_new_line_8: 'guilt
-
-  asset
-
-  laundry
-
-  stage
-
-  tip
-
-  tomorrow
-
-  act
-
-  chapter'
-bip_39_word_new_line_9: 'guilt
-
-  asset
-
-  laundry
-
-  stage
-
-  tip
-
-  tomorrow
-
-  act
-
-  chapter
-
-  hen'
-bip_39_word_no_space_1: guilt
-bip_39_word_no_space_10: guiltassetlaundrystagetiptomorrowactchapterhendraw
-bip_39_word_no_space_11: guiltassetlaundrystagetiptomorrowactchapterhendrawflee
 bip_39_word_no_space_12: guiltassetlaundrystagetiptomorrowactchapterhendrawfleeapril
 bip_39_word_no_space_2: guiltasset
 bip_39_word_no_space_3: guiltassetlaundry
-bip_39_word_no_space_4: guiltassetlaundrystage
-bip_39_word_no_space_5: guiltassetlaundrystagetip
-bip_39_word_no_space_6: guiltassetlaundrystagetiptomorrow
-bip_39_word_no_space_7: guiltassetlaundrystagetiptomorrowact
-bip_39_word_no_space_8: guiltassetlaundrystagetiptomorrowactchapter
-bip_39_word_no_space_9: guiltassetlaundrystagetiptomorrowactchapterhen
-bip_39_word_space_0:
-- guilt
-- asset
-- laundry
-- stage
-- tip
-- tomorrow
-- act
-- chapter
-- hen
-- draw
-- flee
-- april
-bip_39_word_space_1: guilt
-bip_39_word_space_10: guilt asset laundry stage tip tomorrow act chapter hen draw
-bip_39_word_space_11: guilt asset laundry stage tip tomorrow act chapter hen draw
-  flee
 bip_39_word_space_12: guilt asset laundry stage tip tomorrow act chapter hen draw
   flee april
 bip_39_word_space_2: guilt asset
 bip_39_word_space_3: guilt asset laundry
-bip_39_word_space_4: guilt asset laundry stage
-bip_39_word_space_5: guilt asset laundry stage tip
-bip_39_word_space_6: guilt asset laundry stage tip tomorrow
-bip_39_word_space_7: guilt asset laundry stage tip tomorrow act
-bip_39_word_space_8: guilt asset laundry stage tip tomorrow act chapter
-bip_39_word_space_9: guilt asset laundry stage tip tomorrow act chapter hen
-bip_39_word_underscore_1: guilt
-bip_39_word_underscore_10: guilt_asset_laundry_stage_tip_tomorrow_act_chapter_hen_draw
-bip_39_word_underscore_11: guilt_asset_laundry_stage_tip_tomorrow_act_chapter_hen_draw_flee
 bip_39_word_underscore_12: guilt_asset_laundry_stage_tip_tomorrow_act_chapter_hen_draw_flee_april
 bip_39_word_underscore_2: guilt_asset
 bip_39_word_underscore_3: guilt_asset_laundry
-bip_39_word_underscore_4: guilt_asset_laundry_stage
-bip_39_word_underscore_5: guilt_asset_laundry_stage_tip
-bip_39_word_underscore_6: guilt_asset_laundry_stage_tip_tomorrow
-bip_39_word_underscore_7: guilt_asset_laundry_stage_tip_tomorrow_act
-bip_39_word_underscore_8: guilt_asset_laundry_stage_tip_tomorrow_act_chapter
-bip_39_word_underscore_9: guilt_asset_laundry_stage_tip_tomorrow_act_chapter_hen
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

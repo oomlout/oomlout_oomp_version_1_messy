@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hard
-bip_39_word_dash_10: hard-explain-void-upset-summer-insect-humble-exchange-exercise-zebra
-bip_39_word_dash_11: hard-explain-void-upset-summer-insect-humble-exchange-exercise-zebra-vital
 bip_39_word_dash_12: hard-explain-void-upset-summer-insect-humble-exchange-exercise-zebra-vital-arena
 bip_39_word_dash_2: hard-explain
 bip_39_word_dash_3: hard-explain-void
-bip_39_word_dash_4: hard-explain-void-upset
-bip_39_word_dash_5: hard-explain-void-upset-summer
-bip_39_word_dash_6: hard-explain-void-upset-summer-insect
-bip_39_word_dash_7: hard-explain-void-upset-summer-insect-humble
-bip_39_word_dash_8: hard-explain-void-upset-summer-insect-humble-exchange
-bip_39_word_dash_9: hard-explain-void-upset-summer-insect-humble-exchange-exercise
-bip_39_word_new_br_1: hard
-bip_39_word_new_br_10: hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange<br>exercise<br>zebra
-bip_39_word_new_br_11: hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange<br>exercise<br>zebra<br>vital
 bip_39_word_new_br_12: hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange<br>exercise<br>zebra<br>vital<br>arena
 bip_39_word_new_br_2: hard<br>explain
 bip_39_word_new_br_3: hard<br>explain<br>void
-bip_39_word_new_br_4: hard<br>explain<br>void<br>upset
-bip_39_word_new_br_5: hard<br>explain<br>void<br>upset<br>summer
-bip_39_word_new_br_6: hard<br>explain<br>void<br>upset<br>summer<br>insect
-bip_39_word_new_br_7: hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble
-bip_39_word_new_br_8: hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange
-bip_39_word_new_br_9: hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange<br>exercise
-bip_39_word_new_line_1: hard
-bip_39_word_new_line_10: 'hard
-
-  explain
-
-  void
-
-  upset
-
-  summer
-
-  insect
-
-  humble
-
-  exchange
-
-  exercise
-
-  zebra'
-bip_39_word_new_line_11: 'hard
-
-  explain
-
-  void
-
-  upset
-
-  summer
-
-  insect
-
-  humble
-
-  exchange
-
-  exercise
-
-  zebra
-
-  vital'
 bip_39_word_new_line_12: 'hard
 
   explain
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hard
   explain
 
   void'
-bip_39_word_new_line_4: 'hard
-
-  explain
-
-  void
-
-  upset'
-bip_39_word_new_line_5: 'hard
-
-  explain
-
-  void
-
-  upset
-
-  summer'
-bip_39_word_new_line_6: 'hard
-
-  explain
-
-  void
-
-  upset
-
-  summer
-
-  insect'
-bip_39_word_new_line_7: 'hard
-
-  explain
-
-  void
-
-  upset
-
-  summer
-
-  insect
-
-  humble'
-bip_39_word_new_line_8: 'hard
-
-  explain
-
-  void
-
-  upset
-
-  summer
-
-  insect
-
-  humble
-
-  exchange'
-bip_39_word_new_line_9: 'hard
-
-  explain
-
-  void
-
-  upset
-
-  summer
-
-  insect
-
-  humble
-
-  exchange
-
-  exercise'
-bip_39_word_no_space_1: hard
-bip_39_word_no_space_10: hardexplainvoidupsetsummerinsecthumbleexchangeexercisezebra
-bip_39_word_no_space_11: hardexplainvoidupsetsummerinsecthumbleexchangeexercisezebravital
 bip_39_word_no_space_12: hardexplainvoidupsetsummerinsecthumbleexchangeexercisezebravitalarena
 bip_39_word_no_space_2: hardexplain
 bip_39_word_no_space_3: hardexplainvoid
-bip_39_word_no_space_4: hardexplainvoidupset
-bip_39_word_no_space_5: hardexplainvoidupsetsummer
-bip_39_word_no_space_6: hardexplainvoidupsetsummerinsect
-bip_39_word_no_space_7: hardexplainvoidupsetsummerinsecthumble
-bip_39_word_no_space_8: hardexplainvoidupsetsummerinsecthumbleexchange
-bip_39_word_no_space_9: hardexplainvoidupsetsummerinsecthumbleexchangeexercise
-bip_39_word_space_0:
-- hard
-- explain
-- void
-- upset
-- summer
-- insect
-- humble
-- exchange
-- exercise
-- zebra
-- vital
-- arena
-bip_39_word_space_1: hard
-bip_39_word_space_10: hard explain void upset summer insect humble exchange exercise
-  zebra
-bip_39_word_space_11: hard explain void upset summer insect humble exchange exercise
-  zebra vital
 bip_39_word_space_12: hard explain void upset summer insect humble exchange exercise
   zebra vital arena
 bip_39_word_space_2: hard explain
 bip_39_word_space_3: hard explain void
-bip_39_word_space_4: hard explain void upset
-bip_39_word_space_5: hard explain void upset summer
-bip_39_word_space_6: hard explain void upset summer insect
-bip_39_word_space_7: hard explain void upset summer insect humble
-bip_39_word_space_8: hard explain void upset summer insect humble exchange
-bip_39_word_space_9: hard explain void upset summer insect humble exchange exercise
-bip_39_word_underscore_1: hard
-bip_39_word_underscore_10: hard_explain_void_upset_summer_insect_humble_exchange_exercise_zebra
-bip_39_word_underscore_11: hard_explain_void_upset_summer_insect_humble_exchange_exercise_zebra_vital
 bip_39_word_underscore_12: hard_explain_void_upset_summer_insect_humble_exchange_exercise_zebra_vital_arena
 bip_39_word_underscore_2: hard_explain
 bip_39_word_underscore_3: hard_explain_void
-bip_39_word_underscore_4: hard_explain_void_upset
-bip_39_word_underscore_5: hard_explain_void_upset_summer
-bip_39_word_underscore_6: hard_explain_void_upset_summer_insect
-bip_39_word_underscore_7: hard_explain_void_upset_summer_insect_humble
-bip_39_word_underscore_8: hard_explain_void_upset_summer_insect_humble_exchange
-bip_39_word_underscore_9: hard_explain_void_upset_summer_insect_humble_exchange_exercise
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

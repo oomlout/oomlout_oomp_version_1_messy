@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pony
-bip_39_word_dash_10: pony-fine-ranch-track-pet-great-fence-video-witness-deposit
-bip_39_word_dash_11: pony-fine-ranch-track-pet-great-fence-video-witness-deposit-rib
 bip_39_word_dash_12: pony-fine-ranch-track-pet-great-fence-video-witness-deposit-rib-audit
 bip_39_word_dash_2: pony-fine
 bip_39_word_dash_3: pony-fine-ranch
-bip_39_word_dash_4: pony-fine-ranch-track
-bip_39_word_dash_5: pony-fine-ranch-track-pet
-bip_39_word_dash_6: pony-fine-ranch-track-pet-great
-bip_39_word_dash_7: pony-fine-ranch-track-pet-great-fence
-bip_39_word_dash_8: pony-fine-ranch-track-pet-great-fence-video
-bip_39_word_dash_9: pony-fine-ranch-track-pet-great-fence-video-witness
-bip_39_word_new_br_1: pony
-bip_39_word_new_br_10: pony<br>fine<br>ranch<br>track<br>pet<br>great<br>fence<br>video<br>witness<br>deposit
-bip_39_word_new_br_11: pony<br>fine<br>ranch<br>track<br>pet<br>great<br>fence<br>video<br>witness<br>deposit<br>rib
 bip_39_word_new_br_12: pony<br>fine<br>ranch<br>track<br>pet<br>great<br>fence<br>video<br>witness<br>deposit<br>rib<br>audit
 bip_39_word_new_br_2: pony<br>fine
 bip_39_word_new_br_3: pony<br>fine<br>ranch
-bip_39_word_new_br_4: pony<br>fine<br>ranch<br>track
-bip_39_word_new_br_5: pony<br>fine<br>ranch<br>track<br>pet
-bip_39_word_new_br_6: pony<br>fine<br>ranch<br>track<br>pet<br>great
-bip_39_word_new_br_7: pony<br>fine<br>ranch<br>track<br>pet<br>great<br>fence
-bip_39_word_new_br_8: pony<br>fine<br>ranch<br>track<br>pet<br>great<br>fence<br>video
-bip_39_word_new_br_9: pony<br>fine<br>ranch<br>track<br>pet<br>great<br>fence<br>video<br>witness
-bip_39_word_new_line_1: pony
-bip_39_word_new_line_10: 'pony
-
-  fine
-
-  ranch
-
-  track
-
-  pet
-
-  great
-
-  fence
-
-  video
-
-  witness
-
-  deposit'
-bip_39_word_new_line_11: 'pony
-
-  fine
-
-  ranch
-
-  track
-
-  pet
-
-  great
-
-  fence
-
-  video
-
-  witness
-
-  deposit
-
-  rib'
 bip_39_word_new_line_12: 'pony
 
   fine
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pony
   fine
 
   ranch'
-bip_39_word_new_line_4: 'pony
-
-  fine
-
-  ranch
-
-  track'
-bip_39_word_new_line_5: 'pony
-
-  fine
-
-  ranch
-
-  track
-
-  pet'
-bip_39_word_new_line_6: 'pony
-
-  fine
-
-  ranch
-
-  track
-
-  pet
-
-  great'
-bip_39_word_new_line_7: 'pony
-
-  fine
-
-  ranch
-
-  track
-
-  pet
-
-  great
-
-  fence'
-bip_39_word_new_line_8: 'pony
-
-  fine
-
-  ranch
-
-  track
-
-  pet
-
-  great
-
-  fence
-
-  video'
-bip_39_word_new_line_9: 'pony
-
-  fine
-
-  ranch
-
-  track
-
-  pet
-
-  great
-
-  fence
-
-  video
-
-  witness'
-bip_39_word_no_space_1: pony
-bip_39_word_no_space_10: ponyfineranchtrackpetgreatfencevideowitnessdeposit
-bip_39_word_no_space_11: ponyfineranchtrackpetgreatfencevideowitnessdepositrib
 bip_39_word_no_space_12: ponyfineranchtrackpetgreatfencevideowitnessdepositribaudit
 bip_39_word_no_space_2: ponyfine
 bip_39_word_no_space_3: ponyfineranch
-bip_39_word_no_space_4: ponyfineranchtrack
-bip_39_word_no_space_5: ponyfineranchtrackpet
-bip_39_word_no_space_6: ponyfineranchtrackpetgreat
-bip_39_word_no_space_7: ponyfineranchtrackpetgreatfence
-bip_39_word_no_space_8: ponyfineranchtrackpetgreatfencevideo
-bip_39_word_no_space_9: ponyfineranchtrackpetgreatfencevideowitness
-bip_39_word_space_0:
-- pony
-- fine
-- ranch
-- track
-- pet
-- great
-- fence
-- video
-- witness
-- deposit
-- rib
-- audit
-bip_39_word_space_1: pony
-bip_39_word_space_10: pony fine ranch track pet great fence video witness deposit
-bip_39_word_space_11: pony fine ranch track pet great fence video witness deposit
-  rib
 bip_39_word_space_12: pony fine ranch track pet great fence video witness deposit
   rib audit
 bip_39_word_space_2: pony fine
 bip_39_word_space_3: pony fine ranch
-bip_39_word_space_4: pony fine ranch track
-bip_39_word_space_5: pony fine ranch track pet
-bip_39_word_space_6: pony fine ranch track pet great
-bip_39_word_space_7: pony fine ranch track pet great fence
-bip_39_word_space_8: pony fine ranch track pet great fence video
-bip_39_word_space_9: pony fine ranch track pet great fence video witness
-bip_39_word_underscore_1: pony
-bip_39_word_underscore_10: pony_fine_ranch_track_pet_great_fence_video_witness_deposit
-bip_39_word_underscore_11: pony_fine_ranch_track_pet_great_fence_video_witness_deposit_rib
 bip_39_word_underscore_12: pony_fine_ranch_track_pet_great_fence_video_witness_deposit_rib_audit
 bip_39_word_underscore_2: pony_fine
 bip_39_word_underscore_3: pony_fine_ranch
-bip_39_word_underscore_4: pony_fine_ranch_track
-bip_39_word_underscore_5: pony_fine_ranch_track_pet
-bip_39_word_underscore_6: pony_fine_ranch_track_pet_great
-bip_39_word_underscore_7: pony_fine_ranch_track_pet_great_fence
-bip_39_word_underscore_8: pony_fine_ranch_track_pet_great_fence_video
-bip_39_word_underscore_9: pony_fine_ranch_track_pet_great_fence_video_witness
 classification: category
 classification_capital: Category
 classification_first_letter: c

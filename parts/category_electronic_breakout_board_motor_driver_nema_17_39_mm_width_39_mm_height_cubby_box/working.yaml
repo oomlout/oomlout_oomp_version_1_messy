@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ladder
-bip_39_word_dash_10: ladder-flip-fetch-town-hundred-flip-hollow-praise-slam-come
-bip_39_word_dash_11: ladder-flip-fetch-town-hundred-flip-hollow-praise-slam-come-impact
 bip_39_word_dash_12: ladder-flip-fetch-town-hundred-flip-hollow-praise-slam-come-impact-antique
 bip_39_word_dash_2: ladder-flip
 bip_39_word_dash_3: ladder-flip-fetch
-bip_39_word_dash_4: ladder-flip-fetch-town
-bip_39_word_dash_5: ladder-flip-fetch-town-hundred
-bip_39_word_dash_6: ladder-flip-fetch-town-hundred-flip
-bip_39_word_dash_7: ladder-flip-fetch-town-hundred-flip-hollow
-bip_39_word_dash_8: ladder-flip-fetch-town-hundred-flip-hollow-praise
-bip_39_word_dash_9: ladder-flip-fetch-town-hundred-flip-hollow-praise-slam
-bip_39_word_new_br_1: ladder
-bip_39_word_new_br_10: ladder<br>flip<br>fetch<br>town<br>hundred<br>flip<br>hollow<br>praise<br>slam<br>come
-bip_39_word_new_br_11: ladder<br>flip<br>fetch<br>town<br>hundred<br>flip<br>hollow<br>praise<br>slam<br>come<br>impact
 bip_39_word_new_br_12: ladder<br>flip<br>fetch<br>town<br>hundred<br>flip<br>hollow<br>praise<br>slam<br>come<br>impact<br>antique
 bip_39_word_new_br_2: ladder<br>flip
 bip_39_word_new_br_3: ladder<br>flip<br>fetch
-bip_39_word_new_br_4: ladder<br>flip<br>fetch<br>town
-bip_39_word_new_br_5: ladder<br>flip<br>fetch<br>town<br>hundred
-bip_39_word_new_br_6: ladder<br>flip<br>fetch<br>town<br>hundred<br>flip
-bip_39_word_new_br_7: ladder<br>flip<br>fetch<br>town<br>hundred<br>flip<br>hollow
-bip_39_word_new_br_8: ladder<br>flip<br>fetch<br>town<br>hundred<br>flip<br>hollow<br>praise
-bip_39_word_new_br_9: ladder<br>flip<br>fetch<br>town<br>hundred<br>flip<br>hollow<br>praise<br>slam
-bip_39_word_new_line_1: ladder
-bip_39_word_new_line_10: 'ladder
-
-  flip
-
-  fetch
-
-  town
-
-  hundred
-
-  flip
-
-  hollow
-
-  praise
-
-  slam
-
-  come'
-bip_39_word_new_line_11: 'ladder
-
-  flip
-
-  fetch
-
-  town
-
-  hundred
-
-  flip
-
-  hollow
-
-  praise
-
-  slam
-
-  come
-
-  impact'
 bip_39_word_new_line_12: 'ladder
 
   flip
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ladder
   flip
 
   fetch'
-bip_39_word_new_line_4: 'ladder
-
-  flip
-
-  fetch
-
-  town'
-bip_39_word_new_line_5: 'ladder
-
-  flip
-
-  fetch
-
-  town
-
-  hundred'
-bip_39_word_new_line_6: 'ladder
-
-  flip
-
-  fetch
-
-  town
-
-  hundred
-
-  flip'
-bip_39_word_new_line_7: 'ladder
-
-  flip
-
-  fetch
-
-  town
-
-  hundred
-
-  flip
-
-  hollow'
-bip_39_word_new_line_8: 'ladder
-
-  flip
-
-  fetch
-
-  town
-
-  hundred
-
-  flip
-
-  hollow
-
-  praise'
-bip_39_word_new_line_9: 'ladder
-
-  flip
-
-  fetch
-
-  town
-
-  hundred
-
-  flip
-
-  hollow
-
-  praise
-
-  slam'
-bip_39_word_no_space_1: ladder
-bip_39_word_no_space_10: ladderflipfetchtownhundredfliphollowpraiseslamcome
-bip_39_word_no_space_11: ladderflipfetchtownhundredfliphollowpraiseslamcomeimpact
 bip_39_word_no_space_12: ladderflipfetchtownhundredfliphollowpraiseslamcomeimpactantique
 bip_39_word_no_space_2: ladderflip
 bip_39_word_no_space_3: ladderflipfetch
-bip_39_word_no_space_4: ladderflipfetchtown
-bip_39_word_no_space_5: ladderflipfetchtownhundred
-bip_39_word_no_space_6: ladderflipfetchtownhundredflip
-bip_39_word_no_space_7: ladderflipfetchtownhundredfliphollow
-bip_39_word_no_space_8: ladderflipfetchtownhundredfliphollowpraise
-bip_39_word_no_space_9: ladderflipfetchtownhundredfliphollowpraiseslam
-bip_39_word_space_0:
-- ladder
-- flip
-- fetch
-- town
-- hundred
-- flip
-- hollow
-- praise
-- slam
-- come
-- impact
-- antique
-bip_39_word_space_1: ladder
-bip_39_word_space_10: ladder flip fetch town hundred flip hollow praise slam come
-bip_39_word_space_11: ladder flip fetch town hundred flip hollow praise slam come
-  impact
 bip_39_word_space_12: ladder flip fetch town hundred flip hollow praise slam come
   impact antique
 bip_39_word_space_2: ladder flip
 bip_39_word_space_3: ladder flip fetch
-bip_39_word_space_4: ladder flip fetch town
-bip_39_word_space_5: ladder flip fetch town hundred
-bip_39_word_space_6: ladder flip fetch town hundred flip
-bip_39_word_space_7: ladder flip fetch town hundred flip hollow
-bip_39_word_space_8: ladder flip fetch town hundred flip hollow praise
-bip_39_word_space_9: ladder flip fetch town hundred flip hollow praise slam
-bip_39_word_underscore_1: ladder
-bip_39_word_underscore_10: ladder_flip_fetch_town_hundred_flip_hollow_praise_slam_come
-bip_39_word_underscore_11: ladder_flip_fetch_town_hundred_flip_hollow_praise_slam_come_impact
 bip_39_word_underscore_12: ladder_flip_fetch_town_hundred_flip_hollow_praise_slam_come_impact_antique
 bip_39_word_underscore_2: ladder_flip
 bip_39_word_underscore_3: ladder_flip_fetch
-bip_39_word_underscore_4: ladder_flip_fetch_town
-bip_39_word_underscore_5: ladder_flip_fetch_town_hundred
-bip_39_word_underscore_6: ladder_flip_fetch_town_hundred_flip
-bip_39_word_underscore_7: ladder_flip_fetch_town_hundred_flip_hollow
-bip_39_word_underscore_8: ladder_flip_fetch_town_hundred_flip_hollow_praise
-bip_39_word_underscore_9: ladder_flip_fetch_town_hundred_flip_hollow_praise_slam
 classification: category
 classification_capital: Category
 classification_first_letter: c

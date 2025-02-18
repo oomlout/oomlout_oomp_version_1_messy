@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lock
-bip_39_word_dash_10: lock-enforce-coil-flee-couple-host-pond-edge-weekend-moral
-bip_39_word_dash_11: lock-enforce-coil-flee-couple-host-pond-edge-weekend-moral-stay
 bip_39_word_dash_12: lock-enforce-coil-flee-couple-host-pond-edge-weekend-moral-stay-amazing
 bip_39_word_dash_2: lock-enforce
 bip_39_word_dash_3: lock-enforce-coil
-bip_39_word_dash_4: lock-enforce-coil-flee
-bip_39_word_dash_5: lock-enforce-coil-flee-couple
-bip_39_word_dash_6: lock-enforce-coil-flee-couple-host
-bip_39_word_dash_7: lock-enforce-coil-flee-couple-host-pond
-bip_39_word_dash_8: lock-enforce-coil-flee-couple-host-pond-edge
-bip_39_word_dash_9: lock-enforce-coil-flee-couple-host-pond-edge-weekend
-bip_39_word_new_br_1: lock
-bip_39_word_new_br_10: lock<br>enforce<br>coil<br>flee<br>couple<br>host<br>pond<br>edge<br>weekend<br>moral
-bip_39_word_new_br_11: lock<br>enforce<br>coil<br>flee<br>couple<br>host<br>pond<br>edge<br>weekend<br>moral<br>stay
 bip_39_word_new_br_12: lock<br>enforce<br>coil<br>flee<br>couple<br>host<br>pond<br>edge<br>weekend<br>moral<br>stay<br>amazing
 bip_39_word_new_br_2: lock<br>enforce
 bip_39_word_new_br_3: lock<br>enforce<br>coil
-bip_39_word_new_br_4: lock<br>enforce<br>coil<br>flee
-bip_39_word_new_br_5: lock<br>enforce<br>coil<br>flee<br>couple
-bip_39_word_new_br_6: lock<br>enforce<br>coil<br>flee<br>couple<br>host
-bip_39_word_new_br_7: lock<br>enforce<br>coil<br>flee<br>couple<br>host<br>pond
-bip_39_word_new_br_8: lock<br>enforce<br>coil<br>flee<br>couple<br>host<br>pond<br>edge
-bip_39_word_new_br_9: lock<br>enforce<br>coil<br>flee<br>couple<br>host<br>pond<br>edge<br>weekend
-bip_39_word_new_line_1: lock
-bip_39_word_new_line_10: 'lock
-
-  enforce
-
-  coil
-
-  flee
-
-  couple
-
-  host
-
-  pond
-
-  edge
-
-  weekend
-
-  moral'
-bip_39_word_new_line_11: 'lock
-
-  enforce
-
-  coil
-
-  flee
-
-  couple
-
-  host
-
-  pond
-
-  edge
-
-  weekend
-
-  moral
-
-  stay'
 bip_39_word_new_line_12: 'lock
 
   enforce
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'lock
   enforce
 
   coil'
-bip_39_word_new_line_4: 'lock
-
-  enforce
-
-  coil
-
-  flee'
-bip_39_word_new_line_5: 'lock
-
-  enforce
-
-  coil
-
-  flee
-
-  couple'
-bip_39_word_new_line_6: 'lock
-
-  enforce
-
-  coil
-
-  flee
-
-  couple
-
-  host'
-bip_39_word_new_line_7: 'lock
-
-  enforce
-
-  coil
-
-  flee
-
-  couple
-
-  host
-
-  pond'
-bip_39_word_new_line_8: 'lock
-
-  enforce
-
-  coil
-
-  flee
-
-  couple
-
-  host
-
-  pond
-
-  edge'
-bip_39_word_new_line_9: 'lock
-
-  enforce
-
-  coil
-
-  flee
-
-  couple
-
-  host
-
-  pond
-
-  edge
-
-  weekend'
-bip_39_word_no_space_1: lock
-bip_39_word_no_space_10: lockenforcecoilfleecouplehostpondedgeweekendmoral
-bip_39_word_no_space_11: lockenforcecoilfleecouplehostpondedgeweekendmoralstay
 bip_39_word_no_space_12: lockenforcecoilfleecouplehostpondedgeweekendmoralstayamazing
 bip_39_word_no_space_2: lockenforce
 bip_39_word_no_space_3: lockenforcecoil
-bip_39_word_no_space_4: lockenforcecoilflee
-bip_39_word_no_space_5: lockenforcecoilfleecouple
-bip_39_word_no_space_6: lockenforcecoilfleecouplehost
-bip_39_word_no_space_7: lockenforcecoilfleecouplehostpond
-bip_39_word_no_space_8: lockenforcecoilfleecouplehostpondedge
-bip_39_word_no_space_9: lockenforcecoilfleecouplehostpondedgeweekend
-bip_39_word_space_0:
-- lock
-- enforce
-- coil
-- flee
-- couple
-- host
-- pond
-- edge
-- weekend
-- moral
-- stay
-- amazing
-bip_39_word_space_1: lock
-bip_39_word_space_10: lock enforce coil flee couple host pond edge weekend moral
-bip_39_word_space_11: lock enforce coil flee couple host pond edge weekend moral stay
 bip_39_word_space_12: lock enforce coil flee couple host pond edge weekend moral stay
   amazing
 bip_39_word_space_2: lock enforce
 bip_39_word_space_3: lock enforce coil
-bip_39_word_space_4: lock enforce coil flee
-bip_39_word_space_5: lock enforce coil flee couple
-bip_39_word_space_6: lock enforce coil flee couple host
-bip_39_word_space_7: lock enforce coil flee couple host pond
-bip_39_word_space_8: lock enforce coil flee couple host pond edge
-bip_39_word_space_9: lock enforce coil flee couple host pond edge weekend
-bip_39_word_underscore_1: lock
-bip_39_word_underscore_10: lock_enforce_coil_flee_couple_host_pond_edge_weekend_moral
-bip_39_word_underscore_11: lock_enforce_coil_flee_couple_host_pond_edge_weekend_moral_stay
 bip_39_word_underscore_12: lock_enforce_coil_flee_couple_host_pond_edge_weekend_moral_stay_amazing
 bip_39_word_underscore_2: lock_enforce
 bip_39_word_underscore_3: lock_enforce_coil
-bip_39_word_underscore_4: lock_enforce_coil_flee
-bip_39_word_underscore_5: lock_enforce_coil_flee_couple
-bip_39_word_underscore_6: lock_enforce_coil_flee_couple_host
-bip_39_word_underscore_7: lock_enforce_coil_flee_couple_host_pond
-bip_39_word_underscore_8: lock_enforce_coil_flee_couple_host_pond_edge
-bip_39_word_underscore_9: lock_enforce_coil_flee_couple_host_pond_edge_weekend
 classification: project
 classification_capital: Project
 classification_first_letter: p

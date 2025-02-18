@@ -1,68 +1,9 @@
-bip_39_word_dash_1: awkward
-bip_39_word_dash_10: awkward-arctic-salmon-tuition-cram-learn-seek-escape-art-grit
-bip_39_word_dash_11: awkward-arctic-salmon-tuition-cram-learn-seek-escape-art-grit-scale
 bip_39_word_dash_12: awkward-arctic-salmon-tuition-cram-learn-seek-escape-art-grit-scale-actual
 bip_39_word_dash_2: awkward-arctic
 bip_39_word_dash_3: awkward-arctic-salmon
-bip_39_word_dash_4: awkward-arctic-salmon-tuition
-bip_39_word_dash_5: awkward-arctic-salmon-tuition-cram
-bip_39_word_dash_6: awkward-arctic-salmon-tuition-cram-learn
-bip_39_word_dash_7: awkward-arctic-salmon-tuition-cram-learn-seek
-bip_39_word_dash_8: awkward-arctic-salmon-tuition-cram-learn-seek-escape
-bip_39_word_dash_9: awkward-arctic-salmon-tuition-cram-learn-seek-escape-art
-bip_39_word_new_br_1: awkward
-bip_39_word_new_br_10: awkward<br>arctic<br>salmon<br>tuition<br>cram<br>learn<br>seek<br>escape<br>art<br>grit
-bip_39_word_new_br_11: awkward<br>arctic<br>salmon<br>tuition<br>cram<br>learn<br>seek<br>escape<br>art<br>grit<br>scale
 bip_39_word_new_br_12: awkward<br>arctic<br>salmon<br>tuition<br>cram<br>learn<br>seek<br>escape<br>art<br>grit<br>scale<br>actual
 bip_39_word_new_br_2: awkward<br>arctic
 bip_39_word_new_br_3: awkward<br>arctic<br>salmon
-bip_39_word_new_br_4: awkward<br>arctic<br>salmon<br>tuition
-bip_39_word_new_br_5: awkward<br>arctic<br>salmon<br>tuition<br>cram
-bip_39_word_new_br_6: awkward<br>arctic<br>salmon<br>tuition<br>cram<br>learn
-bip_39_word_new_br_7: awkward<br>arctic<br>salmon<br>tuition<br>cram<br>learn<br>seek
-bip_39_word_new_br_8: awkward<br>arctic<br>salmon<br>tuition<br>cram<br>learn<br>seek<br>escape
-bip_39_word_new_br_9: awkward<br>arctic<br>salmon<br>tuition<br>cram<br>learn<br>seek<br>escape<br>art
-bip_39_word_new_line_1: awkward
-bip_39_word_new_line_10: 'awkward
-
-  arctic
-
-  salmon
-
-  tuition
-
-  cram
-
-  learn
-
-  seek
-
-  escape
-
-  art
-
-  grit'
-bip_39_word_new_line_11: 'awkward
-
-  arctic
-
-  salmon
-
-  tuition
-
-  cram
-
-  learn
-
-  seek
-
-  escape
-
-  art
-
-  grit
-
-  scale'
 bip_39_word_new_line_12: 'awkward
 
   arctic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'awkward
   arctic
 
   salmon'
-bip_39_word_new_line_4: 'awkward
-
-  arctic
-
-  salmon
-
-  tuition'
-bip_39_word_new_line_5: 'awkward
-
-  arctic
-
-  salmon
-
-  tuition
-
-  cram'
-bip_39_word_new_line_6: 'awkward
-
-  arctic
-
-  salmon
-
-  tuition
-
-  cram
-
-  learn'
-bip_39_word_new_line_7: 'awkward
-
-  arctic
-
-  salmon
-
-  tuition
-
-  cram
-
-  learn
-
-  seek'
-bip_39_word_new_line_8: 'awkward
-
-  arctic
-
-  salmon
-
-  tuition
-
-  cram
-
-  learn
-
-  seek
-
-  escape'
-bip_39_word_new_line_9: 'awkward
-
-  arctic
-
-  salmon
-
-  tuition
-
-  cram
-
-  learn
-
-  seek
-
-  escape
-
-  art'
-bip_39_word_no_space_1: awkward
-bip_39_word_no_space_10: awkwardarcticsalmontuitioncramlearnseekescapeartgrit
-bip_39_word_no_space_11: awkwardarcticsalmontuitioncramlearnseekescapeartgritscale
 bip_39_word_no_space_12: awkwardarcticsalmontuitioncramlearnseekescapeartgritscaleactual
 bip_39_word_no_space_2: awkwardarctic
 bip_39_word_no_space_3: awkwardarcticsalmon
-bip_39_word_no_space_4: awkwardarcticsalmontuition
-bip_39_word_no_space_5: awkwardarcticsalmontuitioncram
-bip_39_word_no_space_6: awkwardarcticsalmontuitioncramlearn
-bip_39_word_no_space_7: awkwardarcticsalmontuitioncramlearnseek
-bip_39_word_no_space_8: awkwardarcticsalmontuitioncramlearnseekescape
-bip_39_word_no_space_9: awkwardarcticsalmontuitioncramlearnseekescapeart
-bip_39_word_space_0:
-- awkward
-- arctic
-- salmon
-- tuition
-- cram
-- learn
-- seek
-- escape
-- art
-- grit
-- scale
-- actual
-bip_39_word_space_1: awkward
-bip_39_word_space_10: awkward arctic salmon tuition cram learn seek escape art grit
-bip_39_word_space_11: awkward arctic salmon tuition cram learn seek escape art grit
-  scale
 bip_39_word_space_12: awkward arctic salmon tuition cram learn seek escape art grit
   scale actual
 bip_39_word_space_2: awkward arctic
 bip_39_word_space_3: awkward arctic salmon
-bip_39_word_space_4: awkward arctic salmon tuition
-bip_39_word_space_5: awkward arctic salmon tuition cram
-bip_39_word_space_6: awkward arctic salmon tuition cram learn
-bip_39_word_space_7: awkward arctic salmon tuition cram learn seek
-bip_39_word_space_8: awkward arctic salmon tuition cram learn seek escape
-bip_39_word_space_9: awkward arctic salmon tuition cram learn seek escape art
-bip_39_word_underscore_1: awkward
-bip_39_word_underscore_10: awkward_arctic_salmon_tuition_cram_learn_seek_escape_art_grit
-bip_39_word_underscore_11: awkward_arctic_salmon_tuition_cram_learn_seek_escape_art_grit_scale
 bip_39_word_underscore_12: awkward_arctic_salmon_tuition_cram_learn_seek_escape_art_grit_scale_actual
 bip_39_word_underscore_2: awkward_arctic
 bip_39_word_underscore_3: awkward_arctic_salmon
-bip_39_word_underscore_4: awkward_arctic_salmon_tuition
-bip_39_word_underscore_5: awkward_arctic_salmon_tuition_cram
-bip_39_word_underscore_6: awkward_arctic_salmon_tuition_cram_learn
-bip_39_word_underscore_7: awkward_arctic_salmon_tuition_cram_learn_seek
-bip_39_word_underscore_8: awkward_arctic_salmon_tuition_cram_learn_seek_escape
-bip_39_word_underscore_9: awkward_arctic_salmon_tuition_cram_learn_seek_escape_art
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

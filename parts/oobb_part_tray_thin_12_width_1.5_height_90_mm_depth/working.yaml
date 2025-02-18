@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ensure
-bip_39_word_dash_10: ensure-lottery-relief-dizzy-review-pupil-equip-please-quote-excite
-bip_39_word_dash_11: ensure-lottery-relief-dizzy-review-pupil-equip-please-quote-excite-taxi
 bip_39_word_dash_12: ensure-lottery-relief-dizzy-review-pupil-equip-please-quote-excite-taxi-area
 bip_39_word_dash_2: ensure-lottery
 bip_39_word_dash_3: ensure-lottery-relief
-bip_39_word_dash_4: ensure-lottery-relief-dizzy
-bip_39_word_dash_5: ensure-lottery-relief-dizzy-review
-bip_39_word_dash_6: ensure-lottery-relief-dizzy-review-pupil
-bip_39_word_dash_7: ensure-lottery-relief-dizzy-review-pupil-equip
-bip_39_word_dash_8: ensure-lottery-relief-dizzy-review-pupil-equip-please
-bip_39_word_dash_9: ensure-lottery-relief-dizzy-review-pupil-equip-please-quote
-bip_39_word_new_br_1: ensure
-bip_39_word_new_br_10: ensure<br>lottery<br>relief<br>dizzy<br>review<br>pupil<br>equip<br>please<br>quote<br>excite
-bip_39_word_new_br_11: ensure<br>lottery<br>relief<br>dizzy<br>review<br>pupil<br>equip<br>please<br>quote<br>excite<br>taxi
 bip_39_word_new_br_12: ensure<br>lottery<br>relief<br>dizzy<br>review<br>pupil<br>equip<br>please<br>quote<br>excite<br>taxi<br>area
 bip_39_word_new_br_2: ensure<br>lottery
 bip_39_word_new_br_3: ensure<br>lottery<br>relief
-bip_39_word_new_br_4: ensure<br>lottery<br>relief<br>dizzy
-bip_39_word_new_br_5: ensure<br>lottery<br>relief<br>dizzy<br>review
-bip_39_word_new_br_6: ensure<br>lottery<br>relief<br>dizzy<br>review<br>pupil
-bip_39_word_new_br_7: ensure<br>lottery<br>relief<br>dizzy<br>review<br>pupil<br>equip
-bip_39_word_new_br_8: ensure<br>lottery<br>relief<br>dizzy<br>review<br>pupil<br>equip<br>please
-bip_39_word_new_br_9: ensure<br>lottery<br>relief<br>dizzy<br>review<br>pupil<br>equip<br>please<br>quote
-bip_39_word_new_line_1: ensure
-bip_39_word_new_line_10: 'ensure
-
-  lottery
-
-  relief
-
-  dizzy
-
-  review
-
-  pupil
-
-  equip
-
-  please
-
-  quote
-
-  excite'
-bip_39_word_new_line_11: 'ensure
-
-  lottery
-
-  relief
-
-  dizzy
-
-  review
-
-  pupil
-
-  equip
-
-  please
-
-  quote
-
-  excite
-
-  taxi'
 bip_39_word_new_line_12: 'ensure
 
   lottery
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ensure
   lottery
 
   relief'
-bip_39_word_new_line_4: 'ensure
-
-  lottery
-
-  relief
-
-  dizzy'
-bip_39_word_new_line_5: 'ensure
-
-  lottery
-
-  relief
-
-  dizzy
-
-  review'
-bip_39_word_new_line_6: 'ensure
-
-  lottery
-
-  relief
-
-  dizzy
-
-  review
-
-  pupil'
-bip_39_word_new_line_7: 'ensure
-
-  lottery
-
-  relief
-
-  dizzy
-
-  review
-
-  pupil
-
-  equip'
-bip_39_word_new_line_8: 'ensure
-
-  lottery
-
-  relief
-
-  dizzy
-
-  review
-
-  pupil
-
-  equip
-
-  please'
-bip_39_word_new_line_9: 'ensure
-
-  lottery
-
-  relief
-
-  dizzy
-
-  review
-
-  pupil
-
-  equip
-
-  please
-
-  quote'
-bip_39_word_no_space_1: ensure
-bip_39_word_no_space_10: ensurelotteryreliefdizzyreviewpupilequippleasequoteexcite
-bip_39_word_no_space_11: ensurelotteryreliefdizzyreviewpupilequippleasequoteexcitetaxi
 bip_39_word_no_space_12: ensurelotteryreliefdizzyreviewpupilequippleasequoteexcitetaxiarea
 bip_39_word_no_space_2: ensurelottery
 bip_39_word_no_space_3: ensurelotteryrelief
-bip_39_word_no_space_4: ensurelotteryreliefdizzy
-bip_39_word_no_space_5: ensurelotteryreliefdizzyreview
-bip_39_word_no_space_6: ensurelotteryreliefdizzyreviewpupil
-bip_39_word_no_space_7: ensurelotteryreliefdizzyreviewpupilequip
-bip_39_word_no_space_8: ensurelotteryreliefdizzyreviewpupilequipplease
-bip_39_word_no_space_9: ensurelotteryreliefdizzyreviewpupilequippleasequote
-bip_39_word_space_0:
-- ensure
-- lottery
-- relief
-- dizzy
-- review
-- pupil
-- equip
-- please
-- quote
-- excite
-- taxi
-- area
-bip_39_word_space_1: ensure
-bip_39_word_space_10: ensure lottery relief dizzy review pupil equip please quote
-  excite
-bip_39_word_space_11: ensure lottery relief dizzy review pupil equip please quote
-  excite taxi
 bip_39_word_space_12: ensure lottery relief dizzy review pupil equip please quote
   excite taxi area
 bip_39_word_space_2: ensure lottery
 bip_39_word_space_3: ensure lottery relief
-bip_39_word_space_4: ensure lottery relief dizzy
-bip_39_word_space_5: ensure lottery relief dizzy review
-bip_39_word_space_6: ensure lottery relief dizzy review pupil
-bip_39_word_space_7: ensure lottery relief dizzy review pupil equip
-bip_39_word_space_8: ensure lottery relief dizzy review pupil equip please
-bip_39_word_space_9: ensure lottery relief dizzy review pupil equip please quote
-bip_39_word_underscore_1: ensure
-bip_39_word_underscore_10: ensure_lottery_relief_dizzy_review_pupil_equip_please_quote_excite
-bip_39_word_underscore_11: ensure_lottery_relief_dizzy_review_pupil_equip_please_quote_excite_taxi
 bip_39_word_underscore_12: ensure_lottery_relief_dizzy_review_pupil_equip_please_quote_excite_taxi_area
 bip_39_word_underscore_2: ensure_lottery
 bip_39_word_underscore_3: ensure_lottery_relief
-bip_39_word_underscore_4: ensure_lottery_relief_dizzy
-bip_39_word_underscore_5: ensure_lottery_relief_dizzy_review
-bip_39_word_underscore_6: ensure_lottery_relief_dizzy_review_pupil
-bip_39_word_underscore_7: ensure_lottery_relief_dizzy_review_pupil_equip
-bip_39_word_underscore_8: ensure_lottery_relief_dizzy_review_pupil_equip_please
-bip_39_word_underscore_9: ensure_lottery_relief_dizzy_review_pupil_equip_please_quote
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

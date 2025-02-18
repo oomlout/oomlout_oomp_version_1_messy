@@ -1,68 +1,9 @@
-bip_39_word_dash_1: capable
-bip_39_word_dash_10: capable-marine-mail-bind-lizard-weather-tenant-orchard-device-iron
-bip_39_word_dash_11: capable-marine-mail-bind-lizard-weather-tenant-orchard-device-iron-adjust
 bip_39_word_dash_12: capable-marine-mail-bind-lizard-weather-tenant-orchard-device-iron-adjust-armor
 bip_39_word_dash_2: capable-marine
 bip_39_word_dash_3: capable-marine-mail
-bip_39_word_dash_4: capable-marine-mail-bind
-bip_39_word_dash_5: capable-marine-mail-bind-lizard
-bip_39_word_dash_6: capable-marine-mail-bind-lizard-weather
-bip_39_word_dash_7: capable-marine-mail-bind-lizard-weather-tenant
-bip_39_word_dash_8: capable-marine-mail-bind-lizard-weather-tenant-orchard
-bip_39_word_dash_9: capable-marine-mail-bind-lizard-weather-tenant-orchard-device
-bip_39_word_new_br_1: capable
-bip_39_word_new_br_10: capable<br>marine<br>mail<br>bind<br>lizard<br>weather<br>tenant<br>orchard<br>device<br>iron
-bip_39_word_new_br_11: capable<br>marine<br>mail<br>bind<br>lizard<br>weather<br>tenant<br>orchard<br>device<br>iron<br>adjust
 bip_39_word_new_br_12: capable<br>marine<br>mail<br>bind<br>lizard<br>weather<br>tenant<br>orchard<br>device<br>iron<br>adjust<br>armor
 bip_39_word_new_br_2: capable<br>marine
 bip_39_word_new_br_3: capable<br>marine<br>mail
-bip_39_word_new_br_4: capable<br>marine<br>mail<br>bind
-bip_39_word_new_br_5: capable<br>marine<br>mail<br>bind<br>lizard
-bip_39_word_new_br_6: capable<br>marine<br>mail<br>bind<br>lizard<br>weather
-bip_39_word_new_br_7: capable<br>marine<br>mail<br>bind<br>lizard<br>weather<br>tenant
-bip_39_word_new_br_8: capable<br>marine<br>mail<br>bind<br>lizard<br>weather<br>tenant<br>orchard
-bip_39_word_new_br_9: capable<br>marine<br>mail<br>bind<br>lizard<br>weather<br>tenant<br>orchard<br>device
-bip_39_word_new_line_1: capable
-bip_39_word_new_line_10: 'capable
-
-  marine
-
-  mail
-
-  bind
-
-  lizard
-
-  weather
-
-  tenant
-
-  orchard
-
-  device
-
-  iron'
-bip_39_word_new_line_11: 'capable
-
-  marine
-
-  mail
-
-  bind
-
-  lizard
-
-  weather
-
-  tenant
-
-  orchard
-
-  device
-
-  iron
-
-  adjust'
 bip_39_word_new_line_12: 'capable
 
   marine
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'capable
   marine
 
   mail'
-bip_39_word_new_line_4: 'capable
-
-  marine
-
-  mail
-
-  bind'
-bip_39_word_new_line_5: 'capable
-
-  marine
-
-  mail
-
-  bind
-
-  lizard'
-bip_39_word_new_line_6: 'capable
-
-  marine
-
-  mail
-
-  bind
-
-  lizard
-
-  weather'
-bip_39_word_new_line_7: 'capable
-
-  marine
-
-  mail
-
-  bind
-
-  lizard
-
-  weather
-
-  tenant'
-bip_39_word_new_line_8: 'capable
-
-  marine
-
-  mail
-
-  bind
-
-  lizard
-
-  weather
-
-  tenant
-
-  orchard'
-bip_39_word_new_line_9: 'capable
-
-  marine
-
-  mail
-
-  bind
-
-  lizard
-
-  weather
-
-  tenant
-
-  orchard
-
-  device'
-bip_39_word_no_space_1: capable
-bip_39_word_no_space_10: capablemarinemailbindlizardweathertenantorcharddeviceiron
-bip_39_word_no_space_11: capablemarinemailbindlizardweathertenantorcharddeviceironadjust
 bip_39_word_no_space_12: capablemarinemailbindlizardweathertenantorcharddeviceironadjustarmor
 bip_39_word_no_space_2: capablemarine
 bip_39_word_no_space_3: capablemarinemail
-bip_39_word_no_space_4: capablemarinemailbind
-bip_39_word_no_space_5: capablemarinemailbindlizard
-bip_39_word_no_space_6: capablemarinemailbindlizardweather
-bip_39_word_no_space_7: capablemarinemailbindlizardweathertenant
-bip_39_word_no_space_8: capablemarinemailbindlizardweathertenantorchard
-bip_39_word_no_space_9: capablemarinemailbindlizardweathertenantorcharddevice
-bip_39_word_space_0:
-- capable
-- marine
-- mail
-- bind
-- lizard
-- weather
-- tenant
-- orchard
-- device
-- iron
-- adjust
-- armor
-bip_39_word_space_1: capable
-bip_39_word_space_10: capable marine mail bind lizard weather tenant orchard device
-  iron
-bip_39_word_space_11: capable marine mail bind lizard weather tenant orchard device
-  iron adjust
 bip_39_word_space_12: capable marine mail bind lizard weather tenant orchard device
   iron adjust armor
 bip_39_word_space_2: capable marine
 bip_39_word_space_3: capable marine mail
-bip_39_word_space_4: capable marine mail bind
-bip_39_word_space_5: capable marine mail bind lizard
-bip_39_word_space_6: capable marine mail bind lizard weather
-bip_39_word_space_7: capable marine mail bind lizard weather tenant
-bip_39_word_space_8: capable marine mail bind lizard weather tenant orchard
-bip_39_word_space_9: capable marine mail bind lizard weather tenant orchard device
-bip_39_word_underscore_1: capable
-bip_39_word_underscore_10: capable_marine_mail_bind_lizard_weather_tenant_orchard_device_iron
-bip_39_word_underscore_11: capable_marine_mail_bind_lizard_weather_tenant_orchard_device_iron_adjust
 bip_39_word_underscore_12: capable_marine_mail_bind_lizard_weather_tenant_orchard_device_iron_adjust_armor
 bip_39_word_underscore_2: capable_marine
 bip_39_word_underscore_3: capable_marine_mail
-bip_39_word_underscore_4: capable_marine_mail_bind
-bip_39_word_underscore_5: capable_marine_mail_bind_lizard
-bip_39_word_underscore_6: capable_marine_mail_bind_lizard_weather
-bip_39_word_underscore_7: capable_marine_mail_bind_lizard_weather_tenant
-bip_39_word_underscore_8: capable_marine_mail_bind_lizard_weather_tenant_orchard
-bip_39_word_underscore_9: capable_marine_mail_bind_lizard_weather_tenant_orchard_device
 classification: project
 classification_capital: Project
 classification_first_letter: p

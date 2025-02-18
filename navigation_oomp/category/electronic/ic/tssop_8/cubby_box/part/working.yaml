@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inmate
-bip_39_word_dash_10: inmate-mango-pulse-float-spell-escape-swamp-boss-oak-biology
-bip_39_word_dash_11: inmate-mango-pulse-float-spell-escape-swamp-boss-oak-biology-river
 bip_39_word_dash_12: inmate-mango-pulse-float-spell-escape-swamp-boss-oak-biology-river-attitude
 bip_39_word_dash_2: inmate-mango
 bip_39_word_dash_3: inmate-mango-pulse
-bip_39_word_dash_4: inmate-mango-pulse-float
-bip_39_word_dash_5: inmate-mango-pulse-float-spell
-bip_39_word_dash_6: inmate-mango-pulse-float-spell-escape
-bip_39_word_dash_7: inmate-mango-pulse-float-spell-escape-swamp
-bip_39_word_dash_8: inmate-mango-pulse-float-spell-escape-swamp-boss
-bip_39_word_dash_9: inmate-mango-pulse-float-spell-escape-swamp-boss-oak
-bip_39_word_new_br_1: inmate
-bip_39_word_new_br_10: inmate<br>mango<br>pulse<br>float<br>spell<br>escape<br>swamp<br>boss<br>oak<br>biology
-bip_39_word_new_br_11: inmate<br>mango<br>pulse<br>float<br>spell<br>escape<br>swamp<br>boss<br>oak<br>biology<br>river
 bip_39_word_new_br_12: inmate<br>mango<br>pulse<br>float<br>spell<br>escape<br>swamp<br>boss<br>oak<br>biology<br>river<br>attitude
 bip_39_word_new_br_2: inmate<br>mango
 bip_39_word_new_br_3: inmate<br>mango<br>pulse
-bip_39_word_new_br_4: inmate<br>mango<br>pulse<br>float
-bip_39_word_new_br_5: inmate<br>mango<br>pulse<br>float<br>spell
-bip_39_word_new_br_6: inmate<br>mango<br>pulse<br>float<br>spell<br>escape
-bip_39_word_new_br_7: inmate<br>mango<br>pulse<br>float<br>spell<br>escape<br>swamp
-bip_39_word_new_br_8: inmate<br>mango<br>pulse<br>float<br>spell<br>escape<br>swamp<br>boss
-bip_39_word_new_br_9: inmate<br>mango<br>pulse<br>float<br>spell<br>escape<br>swamp<br>boss<br>oak
-bip_39_word_new_line_1: inmate
-bip_39_word_new_line_10: 'inmate
-
-  mango
-
-  pulse
-
-  float
-
-  spell
-
-  escape
-
-  swamp
-
-  boss
-
-  oak
-
-  biology'
-bip_39_word_new_line_11: 'inmate
-
-  mango
-
-  pulse
-
-  float
-
-  spell
-
-  escape
-
-  swamp
-
-  boss
-
-  oak
-
-  biology
-
-  river'
 bip_39_word_new_line_12: 'inmate
 
   mango
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inmate
   mango
 
   pulse'
-bip_39_word_new_line_4: 'inmate
-
-  mango
-
-  pulse
-
-  float'
-bip_39_word_new_line_5: 'inmate
-
-  mango
-
-  pulse
-
-  float
-
-  spell'
-bip_39_word_new_line_6: 'inmate
-
-  mango
-
-  pulse
-
-  float
-
-  spell
-
-  escape'
-bip_39_word_new_line_7: 'inmate
-
-  mango
-
-  pulse
-
-  float
-
-  spell
-
-  escape
-
-  swamp'
-bip_39_word_new_line_8: 'inmate
-
-  mango
-
-  pulse
-
-  float
-
-  spell
-
-  escape
-
-  swamp
-
-  boss'
-bip_39_word_new_line_9: 'inmate
-
-  mango
-
-  pulse
-
-  float
-
-  spell
-
-  escape
-
-  swamp
-
-  boss
-
-  oak'
-bip_39_word_no_space_1: inmate
-bip_39_word_no_space_10: inmatemangopulsefloatspellescapeswampbossoakbiology
-bip_39_word_no_space_11: inmatemangopulsefloatspellescapeswampbossoakbiologyriver
 bip_39_word_no_space_12: inmatemangopulsefloatspellescapeswampbossoakbiologyriverattitude
 bip_39_word_no_space_2: inmatemango
 bip_39_word_no_space_3: inmatemangopulse
-bip_39_word_no_space_4: inmatemangopulsefloat
-bip_39_word_no_space_5: inmatemangopulsefloatspell
-bip_39_word_no_space_6: inmatemangopulsefloatspellescape
-bip_39_word_no_space_7: inmatemangopulsefloatspellescapeswamp
-bip_39_word_no_space_8: inmatemangopulsefloatspellescapeswampboss
-bip_39_word_no_space_9: inmatemangopulsefloatspellescapeswampbossoak
-bip_39_word_space_0:
-- inmate
-- mango
-- pulse
-- float
-- spell
-- escape
-- swamp
-- boss
-- oak
-- biology
-- river
-- attitude
-bip_39_word_space_1: inmate
-bip_39_word_space_10: inmate mango pulse float spell escape swamp boss oak biology
-bip_39_word_space_11: inmate mango pulse float spell escape swamp boss oak biology
-  river
 bip_39_word_space_12: inmate mango pulse float spell escape swamp boss oak biology
   river attitude
 bip_39_word_space_2: inmate mango
 bip_39_word_space_3: inmate mango pulse
-bip_39_word_space_4: inmate mango pulse float
-bip_39_word_space_5: inmate mango pulse float spell
-bip_39_word_space_6: inmate mango pulse float spell escape
-bip_39_word_space_7: inmate mango pulse float spell escape swamp
-bip_39_word_space_8: inmate mango pulse float spell escape swamp boss
-bip_39_word_space_9: inmate mango pulse float spell escape swamp boss oak
-bip_39_word_underscore_1: inmate
-bip_39_word_underscore_10: inmate_mango_pulse_float_spell_escape_swamp_boss_oak_biology
-bip_39_word_underscore_11: inmate_mango_pulse_float_spell_escape_swamp_boss_oak_biology_river
 bip_39_word_underscore_12: inmate_mango_pulse_float_spell_escape_swamp_boss_oak_biology_river_attitude
 bip_39_word_underscore_2: inmate_mango
 bip_39_word_underscore_3: inmate_mango_pulse
-bip_39_word_underscore_4: inmate_mango_pulse_float
-bip_39_word_underscore_5: inmate_mango_pulse_float_spell
-bip_39_word_underscore_6: inmate_mango_pulse_float_spell_escape
-bip_39_word_underscore_7: inmate_mango_pulse_float_spell_escape_swamp
-bip_39_word_underscore_8: inmate_mango_pulse_float_spell_escape_swamp_boss
-bip_39_word_underscore_9: inmate_mango_pulse_float_spell_escape_swamp_boss_oak
 classification: category
 classification_capital: Category
 classification_first_letter: c

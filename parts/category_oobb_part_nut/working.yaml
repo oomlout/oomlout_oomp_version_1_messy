@@ -1,68 +1,9 @@
-bip_39_word_dash_1: any
-bip_39_word_dash_10: any-tired-fiber-grape-airport-possible-engine-empty-calm-embark
-bip_39_word_dash_11: any-tired-fiber-grape-airport-possible-engine-empty-calm-embark-mixture
 bip_39_word_dash_12: any-tired-fiber-grape-airport-possible-engine-empty-calm-embark-mixture-again
 bip_39_word_dash_2: any-tired
 bip_39_word_dash_3: any-tired-fiber
-bip_39_word_dash_4: any-tired-fiber-grape
-bip_39_word_dash_5: any-tired-fiber-grape-airport
-bip_39_word_dash_6: any-tired-fiber-grape-airport-possible
-bip_39_word_dash_7: any-tired-fiber-grape-airport-possible-engine
-bip_39_word_dash_8: any-tired-fiber-grape-airport-possible-engine-empty
-bip_39_word_dash_9: any-tired-fiber-grape-airport-possible-engine-empty-calm
-bip_39_word_new_br_1: any
-bip_39_word_new_br_10: any<br>tired<br>fiber<br>grape<br>airport<br>possible<br>engine<br>empty<br>calm<br>embark
-bip_39_word_new_br_11: any<br>tired<br>fiber<br>grape<br>airport<br>possible<br>engine<br>empty<br>calm<br>embark<br>mixture
 bip_39_word_new_br_12: any<br>tired<br>fiber<br>grape<br>airport<br>possible<br>engine<br>empty<br>calm<br>embark<br>mixture<br>again
 bip_39_word_new_br_2: any<br>tired
 bip_39_word_new_br_3: any<br>tired<br>fiber
-bip_39_word_new_br_4: any<br>tired<br>fiber<br>grape
-bip_39_word_new_br_5: any<br>tired<br>fiber<br>grape<br>airport
-bip_39_word_new_br_6: any<br>tired<br>fiber<br>grape<br>airport<br>possible
-bip_39_word_new_br_7: any<br>tired<br>fiber<br>grape<br>airport<br>possible<br>engine
-bip_39_word_new_br_8: any<br>tired<br>fiber<br>grape<br>airport<br>possible<br>engine<br>empty
-bip_39_word_new_br_9: any<br>tired<br>fiber<br>grape<br>airport<br>possible<br>engine<br>empty<br>calm
-bip_39_word_new_line_1: any
-bip_39_word_new_line_10: 'any
-
-  tired
-
-  fiber
-
-  grape
-
-  airport
-
-  possible
-
-  engine
-
-  empty
-
-  calm
-
-  embark'
-bip_39_word_new_line_11: 'any
-
-  tired
-
-  fiber
-
-  grape
-
-  airport
-
-  possible
-
-  engine
-
-  empty
-
-  calm
-
-  embark
-
-  mixture'
 bip_39_word_new_line_12: 'any
 
   tired
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'any
   tired
 
   fiber'
-bip_39_word_new_line_4: 'any
-
-  tired
-
-  fiber
-
-  grape'
-bip_39_word_new_line_5: 'any
-
-  tired
-
-  fiber
-
-  grape
-
-  airport'
-bip_39_word_new_line_6: 'any
-
-  tired
-
-  fiber
-
-  grape
-
-  airport
-
-  possible'
-bip_39_word_new_line_7: 'any
-
-  tired
-
-  fiber
-
-  grape
-
-  airport
-
-  possible
-
-  engine'
-bip_39_word_new_line_8: 'any
-
-  tired
-
-  fiber
-
-  grape
-
-  airport
-
-  possible
-
-  engine
-
-  empty'
-bip_39_word_new_line_9: 'any
-
-  tired
-
-  fiber
-
-  grape
-
-  airport
-
-  possible
-
-  engine
-
-  empty
-
-  calm'
-bip_39_word_no_space_1: any
-bip_39_word_no_space_10: anytiredfibergrapeairportpossibleengineemptycalmembark
-bip_39_word_no_space_11: anytiredfibergrapeairportpossibleengineemptycalmembarkmixture
 bip_39_word_no_space_12: anytiredfibergrapeairportpossibleengineemptycalmembarkmixtureagain
 bip_39_word_no_space_2: anytired
 bip_39_word_no_space_3: anytiredfiber
-bip_39_word_no_space_4: anytiredfibergrape
-bip_39_word_no_space_5: anytiredfibergrapeairport
-bip_39_word_no_space_6: anytiredfibergrapeairportpossible
-bip_39_word_no_space_7: anytiredfibergrapeairportpossibleengine
-bip_39_word_no_space_8: anytiredfibergrapeairportpossibleengineempty
-bip_39_word_no_space_9: anytiredfibergrapeairportpossibleengineemptycalm
-bip_39_word_space_0:
-- any
-- tired
-- fiber
-- grape
-- airport
-- possible
-- engine
-- empty
-- calm
-- embark
-- mixture
-- again
-bip_39_word_space_1: any
-bip_39_word_space_10: any tired fiber grape airport possible engine empty calm embark
-bip_39_word_space_11: any tired fiber grape airport possible engine empty calm embark
-  mixture
 bip_39_word_space_12: any tired fiber grape airport possible engine empty calm embark
   mixture again
 bip_39_word_space_2: any tired
 bip_39_word_space_3: any tired fiber
-bip_39_word_space_4: any tired fiber grape
-bip_39_word_space_5: any tired fiber grape airport
-bip_39_word_space_6: any tired fiber grape airport possible
-bip_39_word_space_7: any tired fiber grape airport possible engine
-bip_39_word_space_8: any tired fiber grape airport possible engine empty
-bip_39_word_space_9: any tired fiber grape airport possible engine empty calm
-bip_39_word_underscore_1: any
-bip_39_word_underscore_10: any_tired_fiber_grape_airport_possible_engine_empty_calm_embark
-bip_39_word_underscore_11: any_tired_fiber_grape_airport_possible_engine_empty_calm_embark_mixture
 bip_39_word_underscore_12: any_tired_fiber_grape_airport_possible_engine_empty_calm_embark_mixture_again
 bip_39_word_underscore_2: any_tired
 bip_39_word_underscore_3: any_tired_fiber
-bip_39_word_underscore_4: any_tired_fiber_grape
-bip_39_word_underscore_5: any_tired_fiber_grape_airport
-bip_39_word_underscore_6: any_tired_fiber_grape_airport_possible
-bip_39_word_underscore_7: any_tired_fiber_grape_airport_possible_engine
-bip_39_word_underscore_8: any_tired_fiber_grape_airport_possible_engine_empty
-bip_39_word_underscore_9: any_tired_fiber_grape_airport_possible_engine_empty_calm
 classification: category
 classification_capital: Category
 classification_first_letter: c

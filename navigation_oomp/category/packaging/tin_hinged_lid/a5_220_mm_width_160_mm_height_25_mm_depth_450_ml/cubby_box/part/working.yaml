@@ -1,68 +1,9 @@
-bip_39_word_dash_1: purse
-bip_39_word_dash_10: purse-sample-other-lemon-sadness-gravity-lamp-miss-setup-warrior
-bip_39_word_dash_11: purse-sample-other-lemon-sadness-gravity-lamp-miss-setup-warrior-pulse
 bip_39_word_dash_12: purse-sample-other-lemon-sadness-gravity-lamp-miss-setup-warrior-pulse-account
 bip_39_word_dash_2: purse-sample
 bip_39_word_dash_3: purse-sample-other
-bip_39_word_dash_4: purse-sample-other-lemon
-bip_39_word_dash_5: purse-sample-other-lemon-sadness
-bip_39_word_dash_6: purse-sample-other-lemon-sadness-gravity
-bip_39_word_dash_7: purse-sample-other-lemon-sadness-gravity-lamp
-bip_39_word_dash_8: purse-sample-other-lemon-sadness-gravity-lamp-miss
-bip_39_word_dash_9: purse-sample-other-lemon-sadness-gravity-lamp-miss-setup
-bip_39_word_new_br_1: purse
-bip_39_word_new_br_10: purse<br>sample<br>other<br>lemon<br>sadness<br>gravity<br>lamp<br>miss<br>setup<br>warrior
-bip_39_word_new_br_11: purse<br>sample<br>other<br>lemon<br>sadness<br>gravity<br>lamp<br>miss<br>setup<br>warrior<br>pulse
 bip_39_word_new_br_12: purse<br>sample<br>other<br>lemon<br>sadness<br>gravity<br>lamp<br>miss<br>setup<br>warrior<br>pulse<br>account
 bip_39_word_new_br_2: purse<br>sample
 bip_39_word_new_br_3: purse<br>sample<br>other
-bip_39_word_new_br_4: purse<br>sample<br>other<br>lemon
-bip_39_word_new_br_5: purse<br>sample<br>other<br>lemon<br>sadness
-bip_39_word_new_br_6: purse<br>sample<br>other<br>lemon<br>sadness<br>gravity
-bip_39_word_new_br_7: purse<br>sample<br>other<br>lemon<br>sadness<br>gravity<br>lamp
-bip_39_word_new_br_8: purse<br>sample<br>other<br>lemon<br>sadness<br>gravity<br>lamp<br>miss
-bip_39_word_new_br_9: purse<br>sample<br>other<br>lemon<br>sadness<br>gravity<br>lamp<br>miss<br>setup
-bip_39_word_new_line_1: purse
-bip_39_word_new_line_10: 'purse
-
-  sample
-
-  other
-
-  lemon
-
-  sadness
-
-  gravity
-
-  lamp
-
-  miss
-
-  setup
-
-  warrior'
-bip_39_word_new_line_11: 'purse
-
-  sample
-
-  other
-
-  lemon
-
-  sadness
-
-  gravity
-
-  lamp
-
-  miss
-
-  setup
-
-  warrior
-
-  pulse'
 bip_39_word_new_line_12: 'purse
 
   sample
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'purse
   sample
 
   other'
-bip_39_word_new_line_4: 'purse
-
-  sample
-
-  other
-
-  lemon'
-bip_39_word_new_line_5: 'purse
-
-  sample
-
-  other
-
-  lemon
-
-  sadness'
-bip_39_word_new_line_6: 'purse
-
-  sample
-
-  other
-
-  lemon
-
-  sadness
-
-  gravity'
-bip_39_word_new_line_7: 'purse
-
-  sample
-
-  other
-
-  lemon
-
-  sadness
-
-  gravity
-
-  lamp'
-bip_39_word_new_line_8: 'purse
-
-  sample
-
-  other
-
-  lemon
-
-  sadness
-
-  gravity
-
-  lamp
-
-  miss'
-bip_39_word_new_line_9: 'purse
-
-  sample
-
-  other
-
-  lemon
-
-  sadness
-
-  gravity
-
-  lamp
-
-  miss
-
-  setup'
-bip_39_word_no_space_1: purse
-bip_39_word_no_space_10: pursesampleotherlemonsadnessgravitylampmisssetupwarrior
-bip_39_word_no_space_11: pursesampleotherlemonsadnessgravitylampmisssetupwarriorpulse
 bip_39_word_no_space_12: pursesampleotherlemonsadnessgravitylampmisssetupwarriorpulseaccount
 bip_39_word_no_space_2: pursesample
 bip_39_word_no_space_3: pursesampleother
-bip_39_word_no_space_4: pursesampleotherlemon
-bip_39_word_no_space_5: pursesampleotherlemonsadness
-bip_39_word_no_space_6: pursesampleotherlemonsadnessgravity
-bip_39_word_no_space_7: pursesampleotherlemonsadnessgravitylamp
-bip_39_word_no_space_8: pursesampleotherlemonsadnessgravitylampmiss
-bip_39_word_no_space_9: pursesampleotherlemonsadnessgravitylampmisssetup
-bip_39_word_space_0:
-- purse
-- sample
-- other
-- lemon
-- sadness
-- gravity
-- lamp
-- miss
-- setup
-- warrior
-- pulse
-- account
-bip_39_word_space_1: purse
-bip_39_word_space_10: purse sample other lemon sadness gravity lamp miss setup warrior
-bip_39_word_space_11: purse sample other lemon sadness gravity lamp miss setup warrior
-  pulse
 bip_39_word_space_12: purse sample other lemon sadness gravity lamp miss setup warrior
   pulse account
 bip_39_word_space_2: purse sample
 bip_39_word_space_3: purse sample other
-bip_39_word_space_4: purse sample other lemon
-bip_39_word_space_5: purse sample other lemon sadness
-bip_39_word_space_6: purse sample other lemon sadness gravity
-bip_39_word_space_7: purse sample other lemon sadness gravity lamp
-bip_39_word_space_8: purse sample other lemon sadness gravity lamp miss
-bip_39_word_space_9: purse sample other lemon sadness gravity lamp miss setup
-bip_39_word_underscore_1: purse
-bip_39_word_underscore_10: purse_sample_other_lemon_sadness_gravity_lamp_miss_setup_warrior
-bip_39_word_underscore_11: purse_sample_other_lemon_sadness_gravity_lamp_miss_setup_warrior_pulse
 bip_39_word_underscore_12: purse_sample_other_lemon_sadness_gravity_lamp_miss_setup_warrior_pulse_account
 bip_39_word_underscore_2: purse_sample
 bip_39_word_underscore_3: purse_sample_other
-bip_39_word_underscore_4: purse_sample_other_lemon
-bip_39_word_underscore_5: purse_sample_other_lemon_sadness
-bip_39_word_underscore_6: purse_sample_other_lemon_sadness_gravity
-bip_39_word_underscore_7: purse_sample_other_lemon_sadness_gravity_lamp
-bip_39_word_underscore_8: purse_sample_other_lemon_sadness_gravity_lamp_miss
-bip_39_word_underscore_9: purse_sample_other_lemon_sadness_gravity_lamp_miss_setup
 classification: category
 classification_capital: Category
 classification_first_letter: c

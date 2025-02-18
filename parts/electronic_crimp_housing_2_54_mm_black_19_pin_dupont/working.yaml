@@ -1,68 +1,9 @@
-bip_39_word_dash_1: size
-bip_39_word_dash_10: size-morning-dinner-grocery-argue-mask-that-unusual-grid-lens
-bip_39_word_dash_11: size-morning-dinner-grocery-argue-mask-that-unusual-grid-lens-employ
 bip_39_word_dash_12: size-morning-dinner-grocery-argue-mask-that-unusual-grid-lens-employ-actual
 bip_39_word_dash_2: size-morning
 bip_39_word_dash_3: size-morning-dinner
-bip_39_word_dash_4: size-morning-dinner-grocery
-bip_39_word_dash_5: size-morning-dinner-grocery-argue
-bip_39_word_dash_6: size-morning-dinner-grocery-argue-mask
-bip_39_word_dash_7: size-morning-dinner-grocery-argue-mask-that
-bip_39_word_dash_8: size-morning-dinner-grocery-argue-mask-that-unusual
-bip_39_word_dash_9: size-morning-dinner-grocery-argue-mask-that-unusual-grid
-bip_39_word_new_br_1: size
-bip_39_word_new_br_10: size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual<br>grid<br>lens
-bip_39_word_new_br_11: size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual<br>grid<br>lens<br>employ
 bip_39_word_new_br_12: size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual<br>grid<br>lens<br>employ<br>actual
 bip_39_word_new_br_2: size<br>morning
 bip_39_word_new_br_3: size<br>morning<br>dinner
-bip_39_word_new_br_4: size<br>morning<br>dinner<br>grocery
-bip_39_word_new_br_5: size<br>morning<br>dinner<br>grocery<br>argue
-bip_39_word_new_br_6: size<br>morning<br>dinner<br>grocery<br>argue<br>mask
-bip_39_word_new_br_7: size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that
-bip_39_word_new_br_8: size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual
-bip_39_word_new_br_9: size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual<br>grid
-bip_39_word_new_line_1: size
-bip_39_word_new_line_10: 'size
-
-  morning
-
-  dinner
-
-  grocery
-
-  argue
-
-  mask
-
-  that
-
-  unusual
-
-  grid
-
-  lens'
-bip_39_word_new_line_11: 'size
-
-  morning
-
-  dinner
-
-  grocery
-
-  argue
-
-  mask
-
-  that
-
-  unusual
-
-  grid
-
-  lens
-
-  employ'
 bip_39_word_new_line_12: 'size
 
   morning
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'size
   morning
 
   dinner'
-bip_39_word_new_line_4: 'size
-
-  morning
-
-  dinner
-
-  grocery'
-bip_39_word_new_line_5: 'size
-
-  morning
-
-  dinner
-
-  grocery
-
-  argue'
-bip_39_word_new_line_6: 'size
-
-  morning
-
-  dinner
-
-  grocery
-
-  argue
-
-  mask'
-bip_39_word_new_line_7: 'size
-
-  morning
-
-  dinner
-
-  grocery
-
-  argue
-
-  mask
-
-  that'
-bip_39_word_new_line_8: 'size
-
-  morning
-
-  dinner
-
-  grocery
-
-  argue
-
-  mask
-
-  that
-
-  unusual'
-bip_39_word_new_line_9: 'size
-
-  morning
-
-  dinner
-
-  grocery
-
-  argue
-
-  mask
-
-  that
-
-  unusual
-
-  grid'
-bip_39_word_no_space_1: size
-bip_39_word_no_space_10: sizemorningdinnergroceryarguemaskthatunusualgridlens
-bip_39_word_no_space_11: sizemorningdinnergroceryarguemaskthatunusualgridlensemploy
 bip_39_word_no_space_12: sizemorningdinnergroceryarguemaskthatunusualgridlensemployactual
 bip_39_word_no_space_2: sizemorning
 bip_39_word_no_space_3: sizemorningdinner
-bip_39_word_no_space_4: sizemorningdinnergrocery
-bip_39_word_no_space_5: sizemorningdinnergroceryargue
-bip_39_word_no_space_6: sizemorningdinnergroceryarguemask
-bip_39_word_no_space_7: sizemorningdinnergroceryarguemaskthat
-bip_39_word_no_space_8: sizemorningdinnergroceryarguemaskthatunusual
-bip_39_word_no_space_9: sizemorningdinnergroceryarguemaskthatunusualgrid
-bip_39_word_space_0:
-- size
-- morning
-- dinner
-- grocery
-- argue
-- mask
-- that
-- unusual
-- grid
-- lens
-- employ
-- actual
-bip_39_word_space_1: size
-bip_39_word_space_10: size morning dinner grocery argue mask that unusual grid lens
-bip_39_word_space_11: size morning dinner grocery argue mask that unusual grid lens
-  employ
 bip_39_word_space_12: size morning dinner grocery argue mask that unusual grid lens
   employ actual
 bip_39_word_space_2: size morning
 bip_39_word_space_3: size morning dinner
-bip_39_word_space_4: size morning dinner grocery
-bip_39_word_space_5: size morning dinner grocery argue
-bip_39_word_space_6: size morning dinner grocery argue mask
-bip_39_word_space_7: size morning dinner grocery argue mask that
-bip_39_word_space_8: size morning dinner grocery argue mask that unusual
-bip_39_word_space_9: size morning dinner grocery argue mask that unusual grid
-bip_39_word_underscore_1: size
-bip_39_word_underscore_10: size_morning_dinner_grocery_argue_mask_that_unusual_grid_lens
-bip_39_word_underscore_11: size_morning_dinner_grocery_argue_mask_that_unusual_grid_lens_employ
 bip_39_word_underscore_12: size_morning_dinner_grocery_argue_mask_that_unusual_grid_lens_employ_actual
 bip_39_word_underscore_2: size_morning
 bip_39_word_underscore_3: size_morning_dinner
-bip_39_word_underscore_4: size_morning_dinner_grocery
-bip_39_word_underscore_5: size_morning_dinner_grocery_argue
-bip_39_word_underscore_6: size_morning_dinner_grocery_argue_mask
-bip_39_word_underscore_7: size_morning_dinner_grocery_argue_mask_that
-bip_39_word_underscore_8: size_morning_dinner_grocery_argue_mask_that_unusual
-bip_39_word_underscore_9: size_morning_dinner_grocery_argue_mask_that_unusual_grid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

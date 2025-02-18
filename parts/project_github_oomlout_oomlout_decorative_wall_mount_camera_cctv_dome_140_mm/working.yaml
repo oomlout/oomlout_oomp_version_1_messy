@@ -1,68 +1,9 @@
-bip_39_word_dash_1: reject
-bip_39_word_dash_10: reject-planet-omit-enable-explain-tent-match-exhibit-betray-another
-bip_39_word_dash_11: reject-planet-omit-enable-explain-tent-match-exhibit-betray-another-wild
 bip_39_word_dash_12: reject-planet-omit-enable-explain-tent-match-exhibit-betray-another-wild-alpha
 bip_39_word_dash_2: reject-planet
 bip_39_word_dash_3: reject-planet-omit
-bip_39_word_dash_4: reject-planet-omit-enable
-bip_39_word_dash_5: reject-planet-omit-enable-explain
-bip_39_word_dash_6: reject-planet-omit-enable-explain-tent
-bip_39_word_dash_7: reject-planet-omit-enable-explain-tent-match
-bip_39_word_dash_8: reject-planet-omit-enable-explain-tent-match-exhibit
-bip_39_word_dash_9: reject-planet-omit-enable-explain-tent-match-exhibit-betray
-bip_39_word_new_br_1: reject
-bip_39_word_new_br_10: reject<br>planet<br>omit<br>enable<br>explain<br>tent<br>match<br>exhibit<br>betray<br>another
-bip_39_word_new_br_11: reject<br>planet<br>omit<br>enable<br>explain<br>tent<br>match<br>exhibit<br>betray<br>another<br>wild
 bip_39_word_new_br_12: reject<br>planet<br>omit<br>enable<br>explain<br>tent<br>match<br>exhibit<br>betray<br>another<br>wild<br>alpha
 bip_39_word_new_br_2: reject<br>planet
 bip_39_word_new_br_3: reject<br>planet<br>omit
-bip_39_word_new_br_4: reject<br>planet<br>omit<br>enable
-bip_39_word_new_br_5: reject<br>planet<br>omit<br>enable<br>explain
-bip_39_word_new_br_6: reject<br>planet<br>omit<br>enable<br>explain<br>tent
-bip_39_word_new_br_7: reject<br>planet<br>omit<br>enable<br>explain<br>tent<br>match
-bip_39_word_new_br_8: reject<br>planet<br>omit<br>enable<br>explain<br>tent<br>match<br>exhibit
-bip_39_word_new_br_9: reject<br>planet<br>omit<br>enable<br>explain<br>tent<br>match<br>exhibit<br>betray
-bip_39_word_new_line_1: reject
-bip_39_word_new_line_10: 'reject
-
-  planet
-
-  omit
-
-  enable
-
-  explain
-
-  tent
-
-  match
-
-  exhibit
-
-  betray
-
-  another'
-bip_39_word_new_line_11: 'reject
-
-  planet
-
-  omit
-
-  enable
-
-  explain
-
-  tent
-
-  match
-
-  exhibit
-
-  betray
-
-  another
-
-  wild'
 bip_39_word_new_line_12: 'reject
 
   planet
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'reject
   planet
 
   omit'
-bip_39_word_new_line_4: 'reject
-
-  planet
-
-  omit
-
-  enable'
-bip_39_word_new_line_5: 'reject
-
-  planet
-
-  omit
-
-  enable
-
-  explain'
-bip_39_word_new_line_6: 'reject
-
-  planet
-
-  omit
-
-  enable
-
-  explain
-
-  tent'
-bip_39_word_new_line_7: 'reject
-
-  planet
-
-  omit
-
-  enable
-
-  explain
-
-  tent
-
-  match'
-bip_39_word_new_line_8: 'reject
-
-  planet
-
-  omit
-
-  enable
-
-  explain
-
-  tent
-
-  match
-
-  exhibit'
-bip_39_word_new_line_9: 'reject
-
-  planet
-
-  omit
-
-  enable
-
-  explain
-
-  tent
-
-  match
-
-  exhibit
-
-  betray'
-bip_39_word_no_space_1: reject
-bip_39_word_no_space_10: rejectplanetomitenableexplaintentmatchexhibitbetrayanother
-bip_39_word_no_space_11: rejectplanetomitenableexplaintentmatchexhibitbetrayanotherwild
 bip_39_word_no_space_12: rejectplanetomitenableexplaintentmatchexhibitbetrayanotherwildalpha
 bip_39_word_no_space_2: rejectplanet
 bip_39_word_no_space_3: rejectplanetomit
-bip_39_word_no_space_4: rejectplanetomitenable
-bip_39_word_no_space_5: rejectplanetomitenableexplain
-bip_39_word_no_space_6: rejectplanetomitenableexplaintent
-bip_39_word_no_space_7: rejectplanetomitenableexplaintentmatch
-bip_39_word_no_space_8: rejectplanetomitenableexplaintentmatchexhibit
-bip_39_word_no_space_9: rejectplanetomitenableexplaintentmatchexhibitbetray
-bip_39_word_space_0:
-- reject
-- planet
-- omit
-- enable
-- explain
-- tent
-- match
-- exhibit
-- betray
-- another
-- wild
-- alpha
-bip_39_word_space_1: reject
-bip_39_word_space_10: reject planet omit enable explain tent match exhibit betray
-  another
-bip_39_word_space_11: reject planet omit enable explain tent match exhibit betray
-  another wild
 bip_39_word_space_12: reject planet omit enable explain tent match exhibit betray
   another wild alpha
 bip_39_word_space_2: reject planet
 bip_39_word_space_3: reject planet omit
-bip_39_word_space_4: reject planet omit enable
-bip_39_word_space_5: reject planet omit enable explain
-bip_39_word_space_6: reject planet omit enable explain tent
-bip_39_word_space_7: reject planet omit enable explain tent match
-bip_39_word_space_8: reject planet omit enable explain tent match exhibit
-bip_39_word_space_9: reject planet omit enable explain tent match exhibit betray
-bip_39_word_underscore_1: reject
-bip_39_word_underscore_10: reject_planet_omit_enable_explain_tent_match_exhibit_betray_another
-bip_39_word_underscore_11: reject_planet_omit_enable_explain_tent_match_exhibit_betray_another_wild
 bip_39_word_underscore_12: reject_planet_omit_enable_explain_tent_match_exhibit_betray_another_wild_alpha
 bip_39_word_underscore_2: reject_planet
 bip_39_word_underscore_3: reject_planet_omit
-bip_39_word_underscore_4: reject_planet_omit_enable
-bip_39_word_underscore_5: reject_planet_omit_enable_explain
-bip_39_word_underscore_6: reject_planet_omit_enable_explain_tent
-bip_39_word_underscore_7: reject_planet_omit_enable_explain_tent_match
-bip_39_word_underscore_8: reject_planet_omit_enable_explain_tent_match_exhibit
-bip_39_word_underscore_9: reject_planet_omit_enable_explain_tent_match_exhibit_betray
 classification: project
 classification_capital: Project
 classification_first_letter: p

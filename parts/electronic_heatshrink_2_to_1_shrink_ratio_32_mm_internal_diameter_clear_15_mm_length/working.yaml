@@ -1,68 +1,9 @@
-bip_39_word_dash_1: prefer
-bip_39_word_dash_10: prefer-tree-brain-country-local-radar-truth-paper-edge-blossom
-bip_39_word_dash_11: prefer-tree-brain-country-local-radar-truth-paper-edge-blossom-subway
 bip_39_word_dash_12: prefer-tree-brain-country-local-radar-truth-paper-edge-blossom-subway-account
 bip_39_word_dash_2: prefer-tree
 bip_39_word_dash_3: prefer-tree-brain
-bip_39_word_dash_4: prefer-tree-brain-country
-bip_39_word_dash_5: prefer-tree-brain-country-local
-bip_39_word_dash_6: prefer-tree-brain-country-local-radar
-bip_39_word_dash_7: prefer-tree-brain-country-local-radar-truth
-bip_39_word_dash_8: prefer-tree-brain-country-local-radar-truth-paper
-bip_39_word_dash_9: prefer-tree-brain-country-local-radar-truth-paper-edge
-bip_39_word_new_br_1: prefer
-bip_39_word_new_br_10: prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom
-bip_39_word_new_br_11: prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom<br>subway
 bip_39_word_new_br_12: prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge<br>blossom<br>subway<br>account
 bip_39_word_new_br_2: prefer<br>tree
 bip_39_word_new_br_3: prefer<br>tree<br>brain
-bip_39_word_new_br_4: prefer<br>tree<br>brain<br>country
-bip_39_word_new_br_5: prefer<br>tree<br>brain<br>country<br>local
-bip_39_word_new_br_6: prefer<br>tree<br>brain<br>country<br>local<br>radar
-bip_39_word_new_br_7: prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth
-bip_39_word_new_br_8: prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper
-bip_39_word_new_br_9: prefer<br>tree<br>brain<br>country<br>local<br>radar<br>truth<br>paper<br>edge
-bip_39_word_new_line_1: prefer
-bip_39_word_new_line_10: 'prefer
-
-  tree
-
-  brain
-
-  country
-
-  local
-
-  radar
-
-  truth
-
-  paper
-
-  edge
-
-  blossom'
-bip_39_word_new_line_11: 'prefer
-
-  tree
-
-  brain
-
-  country
-
-  local
-
-  radar
-
-  truth
-
-  paper
-
-  edge
-
-  blossom
-
-  subway'
 bip_39_word_new_line_12: 'prefer
 
   tree
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'prefer
   tree
 
   brain'
-bip_39_word_new_line_4: 'prefer
-
-  tree
-
-  brain
-
-  country'
-bip_39_word_new_line_5: 'prefer
-
-  tree
-
-  brain
-
-  country
-
-  local'
-bip_39_word_new_line_6: 'prefer
-
-  tree
-
-  brain
-
-  country
-
-  local
-
-  radar'
-bip_39_word_new_line_7: 'prefer
-
-  tree
-
-  brain
-
-  country
-
-  local
-
-  radar
-
-  truth'
-bip_39_word_new_line_8: 'prefer
-
-  tree
-
-  brain
-
-  country
-
-  local
-
-  radar
-
-  truth
-
-  paper'
-bip_39_word_new_line_9: 'prefer
-
-  tree
-
-  brain
-
-  country
-
-  local
-
-  radar
-
-  truth
-
-  paper
-
-  edge'
-bip_39_word_no_space_1: prefer
-bip_39_word_no_space_10: prefertreebraincountrylocalradartruthpaperedgeblossom
-bip_39_word_no_space_11: prefertreebraincountrylocalradartruthpaperedgeblossomsubway
 bip_39_word_no_space_12: prefertreebraincountrylocalradartruthpaperedgeblossomsubwayaccount
 bip_39_word_no_space_2: prefertree
 bip_39_word_no_space_3: prefertreebrain
-bip_39_word_no_space_4: prefertreebraincountry
-bip_39_word_no_space_5: prefertreebraincountrylocal
-bip_39_word_no_space_6: prefertreebraincountrylocalradar
-bip_39_word_no_space_7: prefertreebraincountrylocalradartruth
-bip_39_word_no_space_8: prefertreebraincountrylocalradartruthpaper
-bip_39_word_no_space_9: prefertreebraincountrylocalradartruthpaperedge
-bip_39_word_space_0:
-- prefer
-- tree
-- brain
-- country
-- local
-- radar
-- truth
-- paper
-- edge
-- blossom
-- subway
-- account
-bip_39_word_space_1: prefer
-bip_39_word_space_10: prefer tree brain country local radar truth paper edge blossom
-bip_39_word_space_11: prefer tree brain country local radar truth paper edge blossom
-  subway
 bip_39_word_space_12: prefer tree brain country local radar truth paper edge blossom
   subway account
 bip_39_word_space_2: prefer tree
 bip_39_word_space_3: prefer tree brain
-bip_39_word_space_4: prefer tree brain country
-bip_39_word_space_5: prefer tree brain country local
-bip_39_word_space_6: prefer tree brain country local radar
-bip_39_word_space_7: prefer tree brain country local radar truth
-bip_39_word_space_8: prefer tree brain country local radar truth paper
-bip_39_word_space_9: prefer tree brain country local radar truth paper edge
-bip_39_word_underscore_1: prefer
-bip_39_word_underscore_10: prefer_tree_brain_country_local_radar_truth_paper_edge_blossom
-bip_39_word_underscore_11: prefer_tree_brain_country_local_radar_truth_paper_edge_blossom_subway
 bip_39_word_underscore_12: prefer_tree_brain_country_local_radar_truth_paper_edge_blossom_subway_account
 bip_39_word_underscore_2: prefer_tree
 bip_39_word_underscore_3: prefer_tree_brain
-bip_39_word_underscore_4: prefer_tree_brain_country
-bip_39_word_underscore_5: prefer_tree_brain_country_local
-bip_39_word_underscore_6: prefer_tree_brain_country_local_radar
-bip_39_word_underscore_7: prefer_tree_brain_country_local_radar_truth
-bip_39_word_underscore_8: prefer_tree_brain_country_local_radar_truth_paper
-bip_39_word_underscore_9: prefer_tree_brain_country_local_radar_truth_paper_edge
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ginger
-bip_39_word_dash_10: ginger-anchor-fault-rain-permit-sight-purpose-play-piano-vital
-bip_39_word_dash_11: ginger-anchor-fault-rain-permit-sight-purpose-play-piano-vital-cabin
 bip_39_word_dash_12: ginger-anchor-fault-rain-permit-sight-purpose-play-piano-vital-cabin-average
 bip_39_word_dash_2: ginger-anchor
 bip_39_word_dash_3: ginger-anchor-fault
-bip_39_word_dash_4: ginger-anchor-fault-rain
-bip_39_word_dash_5: ginger-anchor-fault-rain-permit
-bip_39_word_dash_6: ginger-anchor-fault-rain-permit-sight
-bip_39_word_dash_7: ginger-anchor-fault-rain-permit-sight-purpose
-bip_39_word_dash_8: ginger-anchor-fault-rain-permit-sight-purpose-play
-bip_39_word_dash_9: ginger-anchor-fault-rain-permit-sight-purpose-play-piano
-bip_39_word_new_br_1: ginger
-bip_39_word_new_br_10: ginger<br>anchor<br>fault<br>rain<br>permit<br>sight<br>purpose<br>play<br>piano<br>vital
-bip_39_word_new_br_11: ginger<br>anchor<br>fault<br>rain<br>permit<br>sight<br>purpose<br>play<br>piano<br>vital<br>cabin
 bip_39_word_new_br_12: ginger<br>anchor<br>fault<br>rain<br>permit<br>sight<br>purpose<br>play<br>piano<br>vital<br>cabin<br>average
 bip_39_word_new_br_2: ginger<br>anchor
 bip_39_word_new_br_3: ginger<br>anchor<br>fault
-bip_39_word_new_br_4: ginger<br>anchor<br>fault<br>rain
-bip_39_word_new_br_5: ginger<br>anchor<br>fault<br>rain<br>permit
-bip_39_word_new_br_6: ginger<br>anchor<br>fault<br>rain<br>permit<br>sight
-bip_39_word_new_br_7: ginger<br>anchor<br>fault<br>rain<br>permit<br>sight<br>purpose
-bip_39_word_new_br_8: ginger<br>anchor<br>fault<br>rain<br>permit<br>sight<br>purpose<br>play
-bip_39_word_new_br_9: ginger<br>anchor<br>fault<br>rain<br>permit<br>sight<br>purpose<br>play<br>piano
-bip_39_word_new_line_1: ginger
-bip_39_word_new_line_10: 'ginger
-
-  anchor
-
-  fault
-
-  rain
-
-  permit
-
-  sight
-
-  purpose
-
-  play
-
-  piano
-
-  vital'
-bip_39_word_new_line_11: 'ginger
-
-  anchor
-
-  fault
-
-  rain
-
-  permit
-
-  sight
-
-  purpose
-
-  play
-
-  piano
-
-  vital
-
-  cabin'
 bip_39_word_new_line_12: 'ginger
 
   anchor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ginger
   anchor
 
   fault'
-bip_39_word_new_line_4: 'ginger
-
-  anchor
-
-  fault
-
-  rain'
-bip_39_word_new_line_5: 'ginger
-
-  anchor
-
-  fault
-
-  rain
-
-  permit'
-bip_39_word_new_line_6: 'ginger
-
-  anchor
-
-  fault
-
-  rain
-
-  permit
-
-  sight'
-bip_39_word_new_line_7: 'ginger
-
-  anchor
-
-  fault
-
-  rain
-
-  permit
-
-  sight
-
-  purpose'
-bip_39_word_new_line_8: 'ginger
-
-  anchor
-
-  fault
-
-  rain
-
-  permit
-
-  sight
-
-  purpose
-
-  play'
-bip_39_word_new_line_9: 'ginger
-
-  anchor
-
-  fault
-
-  rain
-
-  permit
-
-  sight
-
-  purpose
-
-  play
-
-  piano'
-bip_39_word_no_space_1: ginger
-bip_39_word_no_space_10: gingeranchorfaultrainpermitsightpurposeplaypianovital
-bip_39_word_no_space_11: gingeranchorfaultrainpermitsightpurposeplaypianovitalcabin
 bip_39_word_no_space_12: gingeranchorfaultrainpermitsightpurposeplaypianovitalcabinaverage
 bip_39_word_no_space_2: gingeranchor
 bip_39_word_no_space_3: gingeranchorfault
-bip_39_word_no_space_4: gingeranchorfaultrain
-bip_39_word_no_space_5: gingeranchorfaultrainpermit
-bip_39_word_no_space_6: gingeranchorfaultrainpermitsight
-bip_39_word_no_space_7: gingeranchorfaultrainpermitsightpurpose
-bip_39_word_no_space_8: gingeranchorfaultrainpermitsightpurposeplay
-bip_39_word_no_space_9: gingeranchorfaultrainpermitsightpurposeplaypiano
-bip_39_word_space_0:
-- ginger
-- anchor
-- fault
-- rain
-- permit
-- sight
-- purpose
-- play
-- piano
-- vital
-- cabin
-- average
-bip_39_word_space_1: ginger
-bip_39_word_space_10: ginger anchor fault rain permit sight purpose play piano vital
-bip_39_word_space_11: ginger anchor fault rain permit sight purpose play piano vital
-  cabin
 bip_39_word_space_12: ginger anchor fault rain permit sight purpose play piano vital
   cabin average
 bip_39_word_space_2: ginger anchor
 bip_39_word_space_3: ginger anchor fault
-bip_39_word_space_4: ginger anchor fault rain
-bip_39_word_space_5: ginger anchor fault rain permit
-bip_39_word_space_6: ginger anchor fault rain permit sight
-bip_39_word_space_7: ginger anchor fault rain permit sight purpose
-bip_39_word_space_8: ginger anchor fault rain permit sight purpose play
-bip_39_word_space_9: ginger anchor fault rain permit sight purpose play piano
-bip_39_word_underscore_1: ginger
-bip_39_word_underscore_10: ginger_anchor_fault_rain_permit_sight_purpose_play_piano_vital
-bip_39_word_underscore_11: ginger_anchor_fault_rain_permit_sight_purpose_play_piano_vital_cabin
 bip_39_word_underscore_12: ginger_anchor_fault_rain_permit_sight_purpose_play_piano_vital_cabin_average
 bip_39_word_underscore_2: ginger_anchor
 bip_39_word_underscore_3: ginger_anchor_fault
-bip_39_word_underscore_4: ginger_anchor_fault_rain
-bip_39_word_underscore_5: ginger_anchor_fault_rain_permit
-bip_39_word_underscore_6: ginger_anchor_fault_rain_permit_sight
-bip_39_word_underscore_7: ginger_anchor_fault_rain_permit_sight_purpose
-bip_39_word_underscore_8: ginger_anchor_fault_rain_permit_sight_purpose_play
-bip_39_word_underscore_9: ginger_anchor_fault_rain_permit_sight_purpose_play_piano
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

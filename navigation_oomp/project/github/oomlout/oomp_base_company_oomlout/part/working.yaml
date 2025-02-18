@@ -1,68 +1,9 @@
-bip_39_word_dash_1: vacuum
-bip_39_word_dash_10: vacuum-alpha-main-book-true-health-turtle-word-surprise-shuffle
-bip_39_word_dash_11: vacuum-alpha-main-book-true-health-turtle-word-surprise-shuffle-hedgehog
 bip_39_word_dash_12: vacuum-alpha-main-book-true-health-turtle-word-surprise-shuffle-hedgehog-alley
 bip_39_word_dash_2: vacuum-alpha
 bip_39_word_dash_3: vacuum-alpha-main
-bip_39_word_dash_4: vacuum-alpha-main-book
-bip_39_word_dash_5: vacuum-alpha-main-book-true
-bip_39_word_dash_6: vacuum-alpha-main-book-true-health
-bip_39_word_dash_7: vacuum-alpha-main-book-true-health-turtle
-bip_39_word_dash_8: vacuum-alpha-main-book-true-health-turtle-word
-bip_39_word_dash_9: vacuum-alpha-main-book-true-health-turtle-word-surprise
-bip_39_word_new_br_1: vacuum
-bip_39_word_new_br_10: vacuum<br>alpha<br>main<br>book<br>true<br>health<br>turtle<br>word<br>surprise<br>shuffle
-bip_39_word_new_br_11: vacuum<br>alpha<br>main<br>book<br>true<br>health<br>turtle<br>word<br>surprise<br>shuffle<br>hedgehog
 bip_39_word_new_br_12: vacuum<br>alpha<br>main<br>book<br>true<br>health<br>turtle<br>word<br>surprise<br>shuffle<br>hedgehog<br>alley
 bip_39_word_new_br_2: vacuum<br>alpha
 bip_39_word_new_br_3: vacuum<br>alpha<br>main
-bip_39_word_new_br_4: vacuum<br>alpha<br>main<br>book
-bip_39_word_new_br_5: vacuum<br>alpha<br>main<br>book<br>true
-bip_39_word_new_br_6: vacuum<br>alpha<br>main<br>book<br>true<br>health
-bip_39_word_new_br_7: vacuum<br>alpha<br>main<br>book<br>true<br>health<br>turtle
-bip_39_word_new_br_8: vacuum<br>alpha<br>main<br>book<br>true<br>health<br>turtle<br>word
-bip_39_word_new_br_9: vacuum<br>alpha<br>main<br>book<br>true<br>health<br>turtle<br>word<br>surprise
-bip_39_word_new_line_1: vacuum
-bip_39_word_new_line_10: 'vacuum
-
-  alpha
-
-  main
-
-  book
-
-  true
-
-  health
-
-  turtle
-
-  word
-
-  surprise
-
-  shuffle'
-bip_39_word_new_line_11: 'vacuum
-
-  alpha
-
-  main
-
-  book
-
-  true
-
-  health
-
-  turtle
-
-  word
-
-  surprise
-
-  shuffle
-
-  hedgehog'
 bip_39_word_new_line_12: 'vacuum
 
   alpha
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'vacuum
   alpha
 
   main'
-bip_39_word_new_line_4: 'vacuum
-
-  alpha
-
-  main
-
-  book'
-bip_39_word_new_line_5: 'vacuum
-
-  alpha
-
-  main
-
-  book
-
-  true'
-bip_39_word_new_line_6: 'vacuum
-
-  alpha
-
-  main
-
-  book
-
-  true
-
-  health'
-bip_39_word_new_line_7: 'vacuum
-
-  alpha
-
-  main
-
-  book
-
-  true
-
-  health
-
-  turtle'
-bip_39_word_new_line_8: 'vacuum
-
-  alpha
-
-  main
-
-  book
-
-  true
-
-  health
-
-  turtle
-
-  word'
-bip_39_word_new_line_9: 'vacuum
-
-  alpha
-
-  main
-
-  book
-
-  true
-
-  health
-
-  turtle
-
-  word
-
-  surprise'
-bip_39_word_no_space_1: vacuum
-bip_39_word_no_space_10: vacuumalphamainbooktruehealthturtlewordsurpriseshuffle
-bip_39_word_no_space_11: vacuumalphamainbooktruehealthturtlewordsurpriseshufflehedgehog
 bip_39_word_no_space_12: vacuumalphamainbooktruehealthturtlewordsurpriseshufflehedgehogalley
 bip_39_word_no_space_2: vacuumalpha
 bip_39_word_no_space_3: vacuumalphamain
-bip_39_word_no_space_4: vacuumalphamainbook
-bip_39_word_no_space_5: vacuumalphamainbooktrue
-bip_39_word_no_space_6: vacuumalphamainbooktruehealth
-bip_39_word_no_space_7: vacuumalphamainbooktruehealthturtle
-bip_39_word_no_space_8: vacuumalphamainbooktruehealthturtleword
-bip_39_word_no_space_9: vacuumalphamainbooktruehealthturtlewordsurprise
-bip_39_word_space_0:
-- vacuum
-- alpha
-- main
-- book
-- 'true'
-- health
-- turtle
-- word
-- surprise
-- shuffle
-- hedgehog
-- alley
-bip_39_word_space_1: vacuum
-bip_39_word_space_10: vacuum alpha main book true health turtle word surprise shuffle
-bip_39_word_space_11: vacuum alpha main book true health turtle word surprise shuffle
-  hedgehog
 bip_39_word_space_12: vacuum alpha main book true health turtle word surprise shuffle
   hedgehog alley
 bip_39_word_space_2: vacuum alpha
 bip_39_word_space_3: vacuum alpha main
-bip_39_word_space_4: vacuum alpha main book
-bip_39_word_space_5: vacuum alpha main book true
-bip_39_word_space_6: vacuum alpha main book true health
-bip_39_word_space_7: vacuum alpha main book true health turtle
-bip_39_word_space_8: vacuum alpha main book true health turtle word
-bip_39_word_space_9: vacuum alpha main book true health turtle word surprise
-bip_39_word_underscore_1: vacuum
-bip_39_word_underscore_10: vacuum_alpha_main_book_true_health_turtle_word_surprise_shuffle
-bip_39_word_underscore_11: vacuum_alpha_main_book_true_health_turtle_word_surprise_shuffle_hedgehog
 bip_39_word_underscore_12: vacuum_alpha_main_book_true_health_turtle_word_surprise_shuffle_hedgehog_alley
 bip_39_word_underscore_2: vacuum_alpha
 bip_39_word_underscore_3: vacuum_alpha_main
-bip_39_word_underscore_4: vacuum_alpha_main_book
-bip_39_word_underscore_5: vacuum_alpha_main_book_true
-bip_39_word_underscore_6: vacuum_alpha_main_book_true_health
-bip_39_word_underscore_7: vacuum_alpha_main_book_true_health_turtle
-bip_39_word_underscore_8: vacuum_alpha_main_book_true_health_turtle_word
-bip_39_word_underscore_9: vacuum_alpha_main_book_true_health_turtle_word_surprise
 classification: project
 classification_capital: Project
 classification_first_letter: p

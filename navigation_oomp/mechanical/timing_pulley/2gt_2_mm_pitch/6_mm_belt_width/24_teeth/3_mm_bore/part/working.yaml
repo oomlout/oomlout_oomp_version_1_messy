@@ -1,68 +1,9 @@
-bip_39_word_dash_1: learn
-bip_39_word_dash_10: learn-sunset-jungle-scene-subway-slow-enforce-detect-decade-mule
-bip_39_word_dash_11: learn-sunset-jungle-scene-subway-slow-enforce-detect-decade-mule-large
 bip_39_word_dash_12: learn-sunset-jungle-scene-subway-slow-enforce-detect-decade-mule-large-add
 bip_39_word_dash_2: learn-sunset
 bip_39_word_dash_3: learn-sunset-jungle
-bip_39_word_dash_4: learn-sunset-jungle-scene
-bip_39_word_dash_5: learn-sunset-jungle-scene-subway
-bip_39_word_dash_6: learn-sunset-jungle-scene-subway-slow
-bip_39_word_dash_7: learn-sunset-jungle-scene-subway-slow-enforce
-bip_39_word_dash_8: learn-sunset-jungle-scene-subway-slow-enforce-detect
-bip_39_word_dash_9: learn-sunset-jungle-scene-subway-slow-enforce-detect-decade
-bip_39_word_new_br_1: learn
-bip_39_word_new_br_10: learn<br>sunset<br>jungle<br>scene<br>subway<br>slow<br>enforce<br>detect<br>decade<br>mule
-bip_39_word_new_br_11: learn<br>sunset<br>jungle<br>scene<br>subway<br>slow<br>enforce<br>detect<br>decade<br>mule<br>large
 bip_39_word_new_br_12: learn<br>sunset<br>jungle<br>scene<br>subway<br>slow<br>enforce<br>detect<br>decade<br>mule<br>large<br>add
 bip_39_word_new_br_2: learn<br>sunset
 bip_39_word_new_br_3: learn<br>sunset<br>jungle
-bip_39_word_new_br_4: learn<br>sunset<br>jungle<br>scene
-bip_39_word_new_br_5: learn<br>sunset<br>jungle<br>scene<br>subway
-bip_39_word_new_br_6: learn<br>sunset<br>jungle<br>scene<br>subway<br>slow
-bip_39_word_new_br_7: learn<br>sunset<br>jungle<br>scene<br>subway<br>slow<br>enforce
-bip_39_word_new_br_8: learn<br>sunset<br>jungle<br>scene<br>subway<br>slow<br>enforce<br>detect
-bip_39_word_new_br_9: learn<br>sunset<br>jungle<br>scene<br>subway<br>slow<br>enforce<br>detect<br>decade
-bip_39_word_new_line_1: learn
-bip_39_word_new_line_10: 'learn
-
-  sunset
-
-  jungle
-
-  scene
-
-  subway
-
-  slow
-
-  enforce
-
-  detect
-
-  decade
-
-  mule'
-bip_39_word_new_line_11: 'learn
-
-  sunset
-
-  jungle
-
-  scene
-
-  subway
-
-  slow
-
-  enforce
-
-  detect
-
-  decade
-
-  mule
-
-  large'
 bip_39_word_new_line_12: 'learn
 
   sunset
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'learn
   sunset
 
   jungle'
-bip_39_word_new_line_4: 'learn
-
-  sunset
-
-  jungle
-
-  scene'
-bip_39_word_new_line_5: 'learn
-
-  sunset
-
-  jungle
-
-  scene
-
-  subway'
-bip_39_word_new_line_6: 'learn
-
-  sunset
-
-  jungle
-
-  scene
-
-  subway
-
-  slow'
-bip_39_word_new_line_7: 'learn
-
-  sunset
-
-  jungle
-
-  scene
-
-  subway
-
-  slow
-
-  enforce'
-bip_39_word_new_line_8: 'learn
-
-  sunset
-
-  jungle
-
-  scene
-
-  subway
-
-  slow
-
-  enforce
-
-  detect'
-bip_39_word_new_line_9: 'learn
-
-  sunset
-
-  jungle
-
-  scene
-
-  subway
-
-  slow
-
-  enforce
-
-  detect
-
-  decade'
-bip_39_word_no_space_1: learn
-bip_39_word_no_space_10: learnsunsetjunglescenesubwayslowenforcedetectdecademule
-bip_39_word_no_space_11: learnsunsetjunglescenesubwayslowenforcedetectdecademulelarge
 bip_39_word_no_space_12: learnsunsetjunglescenesubwayslowenforcedetectdecademulelargeadd
 bip_39_word_no_space_2: learnsunset
 bip_39_word_no_space_3: learnsunsetjungle
-bip_39_word_no_space_4: learnsunsetjunglescene
-bip_39_word_no_space_5: learnsunsetjunglescenesubway
-bip_39_word_no_space_6: learnsunsetjunglescenesubwayslow
-bip_39_word_no_space_7: learnsunsetjunglescenesubwayslowenforce
-bip_39_word_no_space_8: learnsunsetjunglescenesubwayslowenforcedetect
-bip_39_word_no_space_9: learnsunsetjunglescenesubwayslowenforcedetectdecade
-bip_39_word_space_0:
-- learn
-- sunset
-- jungle
-- scene
-- subway
-- slow
-- enforce
-- detect
-- decade
-- mule
-- large
-- add
-bip_39_word_space_1: learn
-bip_39_word_space_10: learn sunset jungle scene subway slow enforce detect decade
-  mule
-bip_39_word_space_11: learn sunset jungle scene subway slow enforce detect decade
-  mule large
 bip_39_word_space_12: learn sunset jungle scene subway slow enforce detect decade
   mule large add
 bip_39_word_space_2: learn sunset
 bip_39_word_space_3: learn sunset jungle
-bip_39_word_space_4: learn sunset jungle scene
-bip_39_word_space_5: learn sunset jungle scene subway
-bip_39_word_space_6: learn sunset jungle scene subway slow
-bip_39_word_space_7: learn sunset jungle scene subway slow enforce
-bip_39_word_space_8: learn sunset jungle scene subway slow enforce detect
-bip_39_word_space_9: learn sunset jungle scene subway slow enforce detect decade
-bip_39_word_underscore_1: learn
-bip_39_word_underscore_10: learn_sunset_jungle_scene_subway_slow_enforce_detect_decade_mule
-bip_39_word_underscore_11: learn_sunset_jungle_scene_subway_slow_enforce_detect_decade_mule_large
 bip_39_word_underscore_12: learn_sunset_jungle_scene_subway_slow_enforce_detect_decade_mule_large_add
 bip_39_word_underscore_2: learn_sunset
 bip_39_word_underscore_3: learn_sunset_jungle
-bip_39_word_underscore_4: learn_sunset_jungle_scene
-bip_39_word_underscore_5: learn_sunset_jungle_scene_subway
-bip_39_word_underscore_6: learn_sunset_jungle_scene_subway_slow
-bip_39_word_underscore_7: learn_sunset_jungle_scene_subway_slow_enforce
-bip_39_word_underscore_8: learn_sunset_jungle_scene_subway_slow_enforce_detect
-bip_39_word_underscore_9: learn_sunset_jungle_scene_subway_slow_enforce_detect_decade
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

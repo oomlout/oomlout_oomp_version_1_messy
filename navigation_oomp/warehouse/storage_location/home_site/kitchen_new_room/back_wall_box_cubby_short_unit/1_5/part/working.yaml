@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scan
-bip_39_word_dash_10: scan-still-include-diagram-east-arrange-parade-regret-ugly-cluster
-bip_39_word_dash_11: scan-still-include-diagram-east-arrange-parade-regret-ugly-cluster-wrong
 bip_39_word_dash_12: scan-still-include-diagram-east-arrange-parade-regret-ugly-cluster-wrong-assault
 bip_39_word_dash_2: scan-still
 bip_39_word_dash_3: scan-still-include
-bip_39_word_dash_4: scan-still-include-diagram
-bip_39_word_dash_5: scan-still-include-diagram-east
-bip_39_word_dash_6: scan-still-include-diagram-east-arrange
-bip_39_word_dash_7: scan-still-include-diagram-east-arrange-parade
-bip_39_word_dash_8: scan-still-include-diagram-east-arrange-parade-regret
-bip_39_word_dash_9: scan-still-include-diagram-east-arrange-parade-regret-ugly
-bip_39_word_new_br_1: scan
-bip_39_word_new_br_10: scan<br>still<br>include<br>diagram<br>east<br>arrange<br>parade<br>regret<br>ugly<br>cluster
-bip_39_word_new_br_11: scan<br>still<br>include<br>diagram<br>east<br>arrange<br>parade<br>regret<br>ugly<br>cluster<br>wrong
 bip_39_word_new_br_12: scan<br>still<br>include<br>diagram<br>east<br>arrange<br>parade<br>regret<br>ugly<br>cluster<br>wrong<br>assault
 bip_39_word_new_br_2: scan<br>still
 bip_39_word_new_br_3: scan<br>still<br>include
-bip_39_word_new_br_4: scan<br>still<br>include<br>diagram
-bip_39_word_new_br_5: scan<br>still<br>include<br>diagram<br>east
-bip_39_word_new_br_6: scan<br>still<br>include<br>diagram<br>east<br>arrange
-bip_39_word_new_br_7: scan<br>still<br>include<br>diagram<br>east<br>arrange<br>parade
-bip_39_word_new_br_8: scan<br>still<br>include<br>diagram<br>east<br>arrange<br>parade<br>regret
-bip_39_word_new_br_9: scan<br>still<br>include<br>diagram<br>east<br>arrange<br>parade<br>regret<br>ugly
-bip_39_word_new_line_1: scan
-bip_39_word_new_line_10: 'scan
-
-  still
-
-  include
-
-  diagram
-
-  east
-
-  arrange
-
-  parade
-
-  regret
-
-  ugly
-
-  cluster'
-bip_39_word_new_line_11: 'scan
-
-  still
-
-  include
-
-  diagram
-
-  east
-
-  arrange
-
-  parade
-
-  regret
-
-  ugly
-
-  cluster
-
-  wrong'
 bip_39_word_new_line_12: 'scan
 
   still
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scan
   still
 
   include'
-bip_39_word_new_line_4: 'scan
-
-  still
-
-  include
-
-  diagram'
-bip_39_word_new_line_5: 'scan
-
-  still
-
-  include
-
-  diagram
-
-  east'
-bip_39_word_new_line_6: 'scan
-
-  still
-
-  include
-
-  diagram
-
-  east
-
-  arrange'
-bip_39_word_new_line_7: 'scan
-
-  still
-
-  include
-
-  diagram
-
-  east
-
-  arrange
-
-  parade'
-bip_39_word_new_line_8: 'scan
-
-  still
-
-  include
-
-  diagram
-
-  east
-
-  arrange
-
-  parade
-
-  regret'
-bip_39_word_new_line_9: 'scan
-
-  still
-
-  include
-
-  diagram
-
-  east
-
-  arrange
-
-  parade
-
-  regret
-
-  ugly'
-bip_39_word_no_space_1: scan
-bip_39_word_no_space_10: scanstillincludediagrameastarrangeparaderegretuglycluster
-bip_39_word_no_space_11: scanstillincludediagrameastarrangeparaderegretuglyclusterwrong
 bip_39_word_no_space_12: scanstillincludediagrameastarrangeparaderegretuglyclusterwrongassault
 bip_39_word_no_space_2: scanstill
 bip_39_word_no_space_3: scanstillinclude
-bip_39_word_no_space_4: scanstillincludediagram
-bip_39_word_no_space_5: scanstillincludediagrameast
-bip_39_word_no_space_6: scanstillincludediagrameastarrange
-bip_39_word_no_space_7: scanstillincludediagrameastarrangeparade
-bip_39_word_no_space_8: scanstillincludediagrameastarrangeparaderegret
-bip_39_word_no_space_9: scanstillincludediagrameastarrangeparaderegretugly
-bip_39_word_space_0:
-- scan
-- still
-- include
-- diagram
-- east
-- arrange
-- parade
-- regret
-- ugly
-- cluster
-- wrong
-- assault
-bip_39_word_space_1: scan
-bip_39_word_space_10: scan still include diagram east arrange parade regret ugly cluster
-bip_39_word_space_11: scan still include diagram east arrange parade regret ugly cluster
-  wrong
 bip_39_word_space_12: scan still include diagram east arrange parade regret ugly cluster
   wrong assault
 bip_39_word_space_2: scan still
 bip_39_word_space_3: scan still include
-bip_39_word_space_4: scan still include diagram
-bip_39_word_space_5: scan still include diagram east
-bip_39_word_space_6: scan still include diagram east arrange
-bip_39_word_space_7: scan still include diagram east arrange parade
-bip_39_word_space_8: scan still include diagram east arrange parade regret
-bip_39_word_space_9: scan still include diagram east arrange parade regret ugly
-bip_39_word_underscore_1: scan
-bip_39_word_underscore_10: scan_still_include_diagram_east_arrange_parade_regret_ugly_cluster
-bip_39_word_underscore_11: scan_still_include_diagram_east_arrange_parade_regret_ugly_cluster_wrong
 bip_39_word_underscore_12: scan_still_include_diagram_east_arrange_parade_regret_ugly_cluster_wrong_assault
 bip_39_word_underscore_2: scan_still
 bip_39_word_underscore_3: scan_still_include
-bip_39_word_underscore_4: scan_still_include_diagram
-bip_39_word_underscore_5: scan_still_include_diagram_east
-bip_39_word_underscore_6: scan_still_include_diagram_east_arrange
-bip_39_word_underscore_7: scan_still_include_diagram_east_arrange_parade
-bip_39_word_underscore_8: scan_still_include_diagram_east_arrange_parade_regret
-bip_39_word_underscore_9: scan_still_include_diagram_east_arrange_parade_regret_ugly
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

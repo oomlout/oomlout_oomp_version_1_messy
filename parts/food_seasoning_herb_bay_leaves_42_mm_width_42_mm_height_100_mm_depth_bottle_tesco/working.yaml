@@ -1,68 +1,9 @@
-bip_39_word_dash_1: acoustic
-bip_39_word_dash_10: acoustic-slender-whip-solar-decline-blanket-elegant-loud-laundry-fee
-bip_39_word_dash_11: acoustic-slender-whip-solar-decline-blanket-elegant-loud-laundry-fee-mixture
 bip_39_word_dash_12: acoustic-slender-whip-solar-decline-blanket-elegant-loud-laundry-fee-mixture-air
 bip_39_word_dash_2: acoustic-slender
 bip_39_word_dash_3: acoustic-slender-whip
-bip_39_word_dash_4: acoustic-slender-whip-solar
-bip_39_word_dash_5: acoustic-slender-whip-solar-decline
-bip_39_word_dash_6: acoustic-slender-whip-solar-decline-blanket
-bip_39_word_dash_7: acoustic-slender-whip-solar-decline-blanket-elegant
-bip_39_word_dash_8: acoustic-slender-whip-solar-decline-blanket-elegant-loud
-bip_39_word_dash_9: acoustic-slender-whip-solar-decline-blanket-elegant-loud-laundry
-bip_39_word_new_br_1: acoustic
-bip_39_word_new_br_10: acoustic<br>slender<br>whip<br>solar<br>decline<br>blanket<br>elegant<br>loud<br>laundry<br>fee
-bip_39_word_new_br_11: acoustic<br>slender<br>whip<br>solar<br>decline<br>blanket<br>elegant<br>loud<br>laundry<br>fee<br>mixture
 bip_39_word_new_br_12: acoustic<br>slender<br>whip<br>solar<br>decline<br>blanket<br>elegant<br>loud<br>laundry<br>fee<br>mixture<br>air
 bip_39_word_new_br_2: acoustic<br>slender
 bip_39_word_new_br_3: acoustic<br>slender<br>whip
-bip_39_word_new_br_4: acoustic<br>slender<br>whip<br>solar
-bip_39_word_new_br_5: acoustic<br>slender<br>whip<br>solar<br>decline
-bip_39_word_new_br_6: acoustic<br>slender<br>whip<br>solar<br>decline<br>blanket
-bip_39_word_new_br_7: acoustic<br>slender<br>whip<br>solar<br>decline<br>blanket<br>elegant
-bip_39_word_new_br_8: acoustic<br>slender<br>whip<br>solar<br>decline<br>blanket<br>elegant<br>loud
-bip_39_word_new_br_9: acoustic<br>slender<br>whip<br>solar<br>decline<br>blanket<br>elegant<br>loud<br>laundry
-bip_39_word_new_line_1: acoustic
-bip_39_word_new_line_10: 'acoustic
-
-  slender
-
-  whip
-
-  solar
-
-  decline
-
-  blanket
-
-  elegant
-
-  loud
-
-  laundry
-
-  fee'
-bip_39_word_new_line_11: 'acoustic
-
-  slender
-
-  whip
-
-  solar
-
-  decline
-
-  blanket
-
-  elegant
-
-  loud
-
-  laundry
-
-  fee
-
-  mixture'
 bip_39_word_new_line_12: 'acoustic
 
   slender
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'acoustic
   slender
 
   whip'
-bip_39_word_new_line_4: 'acoustic
-
-  slender
-
-  whip
-
-  solar'
-bip_39_word_new_line_5: 'acoustic
-
-  slender
-
-  whip
-
-  solar
-
-  decline'
-bip_39_word_new_line_6: 'acoustic
-
-  slender
-
-  whip
-
-  solar
-
-  decline
-
-  blanket'
-bip_39_word_new_line_7: 'acoustic
-
-  slender
-
-  whip
-
-  solar
-
-  decline
-
-  blanket
-
-  elegant'
-bip_39_word_new_line_8: 'acoustic
-
-  slender
-
-  whip
-
-  solar
-
-  decline
-
-  blanket
-
-  elegant
-
-  loud'
-bip_39_word_new_line_9: 'acoustic
-
-  slender
-
-  whip
-
-  solar
-
-  decline
-
-  blanket
-
-  elegant
-
-  loud
-
-  laundry'
-bip_39_word_no_space_1: acoustic
-bip_39_word_no_space_10: acousticslenderwhipsolardeclineblanketelegantloudlaundryfee
-bip_39_word_no_space_11: acousticslenderwhipsolardeclineblanketelegantloudlaundryfeemixture
 bip_39_word_no_space_12: acousticslenderwhipsolardeclineblanketelegantloudlaundryfeemixtureair
 bip_39_word_no_space_2: acousticslender
 bip_39_word_no_space_3: acousticslenderwhip
-bip_39_word_no_space_4: acousticslenderwhipsolar
-bip_39_word_no_space_5: acousticslenderwhipsolardecline
-bip_39_word_no_space_6: acousticslenderwhipsolardeclineblanket
-bip_39_word_no_space_7: acousticslenderwhipsolardeclineblanketelegant
-bip_39_word_no_space_8: acousticslenderwhipsolardeclineblanketelegantloud
-bip_39_word_no_space_9: acousticslenderwhipsolardeclineblanketelegantloudlaundry
-bip_39_word_space_0:
-- acoustic
-- slender
-- whip
-- solar
-- decline
-- blanket
-- elegant
-- loud
-- laundry
-- fee
-- mixture
-- air
-bip_39_word_space_1: acoustic
-bip_39_word_space_10: acoustic slender whip solar decline blanket elegant loud laundry
-  fee
-bip_39_word_space_11: acoustic slender whip solar decline blanket elegant loud laundry
-  fee mixture
 bip_39_word_space_12: acoustic slender whip solar decline blanket elegant loud laundry
   fee mixture air
 bip_39_word_space_2: acoustic slender
 bip_39_word_space_3: acoustic slender whip
-bip_39_word_space_4: acoustic slender whip solar
-bip_39_word_space_5: acoustic slender whip solar decline
-bip_39_word_space_6: acoustic slender whip solar decline blanket
-bip_39_word_space_7: acoustic slender whip solar decline blanket elegant
-bip_39_word_space_8: acoustic slender whip solar decline blanket elegant loud
-bip_39_word_space_9: acoustic slender whip solar decline blanket elegant loud laundry
-bip_39_word_underscore_1: acoustic
-bip_39_word_underscore_10: acoustic_slender_whip_solar_decline_blanket_elegant_loud_laundry_fee
-bip_39_word_underscore_11: acoustic_slender_whip_solar_decline_blanket_elegant_loud_laundry_fee_mixture
 bip_39_word_underscore_12: acoustic_slender_whip_solar_decline_blanket_elegant_loud_laundry_fee_mixture_air
 bip_39_word_underscore_2: acoustic_slender
 bip_39_word_underscore_3: acoustic_slender_whip
-bip_39_word_underscore_4: acoustic_slender_whip_solar
-bip_39_word_underscore_5: acoustic_slender_whip_solar_decline
-bip_39_word_underscore_6: acoustic_slender_whip_solar_decline_blanket
-bip_39_word_underscore_7: acoustic_slender_whip_solar_decline_blanket_elegant
-bip_39_word_underscore_8: acoustic_slender_whip_solar_decline_blanket_elegant_loud
-bip_39_word_underscore_9: acoustic_slender_whip_solar_decline_blanket_elegant_loud_laundry
 classification: food
 classification_capital: Food
 classification_first_letter: f

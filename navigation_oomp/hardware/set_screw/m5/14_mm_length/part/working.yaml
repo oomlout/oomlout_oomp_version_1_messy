@@ -1,68 +1,9 @@
-bip_39_word_dash_1: drink
-bip_39_word_dash_10: drink-regret-rubber-nuclear-world-spray-butter-sick-erosion-key
-bip_39_word_dash_11: drink-regret-rubber-nuclear-world-spray-butter-sick-erosion-key-burst
 bip_39_word_dash_12: drink-regret-rubber-nuclear-world-spray-butter-sick-erosion-key-burst-also
 bip_39_word_dash_2: drink-regret
 bip_39_word_dash_3: drink-regret-rubber
-bip_39_word_dash_4: drink-regret-rubber-nuclear
-bip_39_word_dash_5: drink-regret-rubber-nuclear-world
-bip_39_word_dash_6: drink-regret-rubber-nuclear-world-spray
-bip_39_word_dash_7: drink-regret-rubber-nuclear-world-spray-butter
-bip_39_word_dash_8: drink-regret-rubber-nuclear-world-spray-butter-sick
-bip_39_word_dash_9: drink-regret-rubber-nuclear-world-spray-butter-sick-erosion
-bip_39_word_new_br_1: drink
-bip_39_word_new_br_10: drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick<br>erosion<br>key
-bip_39_word_new_br_11: drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick<br>erosion<br>key<br>burst
 bip_39_word_new_br_12: drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick<br>erosion<br>key<br>burst<br>also
 bip_39_word_new_br_2: drink<br>regret
 bip_39_word_new_br_3: drink<br>regret<br>rubber
-bip_39_word_new_br_4: drink<br>regret<br>rubber<br>nuclear
-bip_39_word_new_br_5: drink<br>regret<br>rubber<br>nuclear<br>world
-bip_39_word_new_br_6: drink<br>regret<br>rubber<br>nuclear<br>world<br>spray
-bip_39_word_new_br_7: drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter
-bip_39_word_new_br_8: drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick
-bip_39_word_new_br_9: drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick<br>erosion
-bip_39_word_new_line_1: drink
-bip_39_word_new_line_10: 'drink
-
-  regret
-
-  rubber
-
-  nuclear
-
-  world
-
-  spray
-
-  butter
-
-  sick
-
-  erosion
-
-  key'
-bip_39_word_new_line_11: 'drink
-
-  regret
-
-  rubber
-
-  nuclear
-
-  world
-
-  spray
-
-  butter
-
-  sick
-
-  erosion
-
-  key
-
-  burst'
 bip_39_word_new_line_12: 'drink
 
   regret
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'drink
   regret
 
   rubber'
-bip_39_word_new_line_4: 'drink
-
-  regret
-
-  rubber
-
-  nuclear'
-bip_39_word_new_line_5: 'drink
-
-  regret
-
-  rubber
-
-  nuclear
-
-  world'
-bip_39_word_new_line_6: 'drink
-
-  regret
-
-  rubber
-
-  nuclear
-
-  world
-
-  spray'
-bip_39_word_new_line_7: 'drink
-
-  regret
-
-  rubber
-
-  nuclear
-
-  world
-
-  spray
-
-  butter'
-bip_39_word_new_line_8: 'drink
-
-  regret
-
-  rubber
-
-  nuclear
-
-  world
-
-  spray
-
-  butter
-
-  sick'
-bip_39_word_new_line_9: 'drink
-
-  regret
-
-  rubber
-
-  nuclear
-
-  world
-
-  spray
-
-  butter
-
-  sick
-
-  erosion'
-bip_39_word_no_space_1: drink
-bip_39_word_no_space_10: drinkregretrubbernuclearworldspraybuttersickerosionkey
-bip_39_word_no_space_11: drinkregretrubbernuclearworldspraybuttersickerosionkeyburst
 bip_39_word_no_space_12: drinkregretrubbernuclearworldspraybuttersickerosionkeyburstalso
 bip_39_word_no_space_2: drinkregret
 bip_39_word_no_space_3: drinkregretrubber
-bip_39_word_no_space_4: drinkregretrubbernuclear
-bip_39_word_no_space_5: drinkregretrubbernuclearworld
-bip_39_word_no_space_6: drinkregretrubbernuclearworldspray
-bip_39_word_no_space_7: drinkregretrubbernuclearworldspraybutter
-bip_39_word_no_space_8: drinkregretrubbernuclearworldspraybuttersick
-bip_39_word_no_space_9: drinkregretrubbernuclearworldspraybuttersickerosion
-bip_39_word_space_0:
-- drink
-- regret
-- rubber
-- nuclear
-- world
-- spray
-- butter
-- sick
-- erosion
-- key
-- burst
-- also
-bip_39_word_space_1: drink
-bip_39_word_space_10: drink regret rubber nuclear world spray butter sick erosion
-  key
-bip_39_word_space_11: drink regret rubber nuclear world spray butter sick erosion
-  key burst
 bip_39_word_space_12: drink regret rubber nuclear world spray butter sick erosion
   key burst also
 bip_39_word_space_2: drink regret
 bip_39_word_space_3: drink regret rubber
-bip_39_word_space_4: drink regret rubber nuclear
-bip_39_word_space_5: drink regret rubber nuclear world
-bip_39_word_space_6: drink regret rubber nuclear world spray
-bip_39_word_space_7: drink regret rubber nuclear world spray butter
-bip_39_word_space_8: drink regret rubber nuclear world spray butter sick
-bip_39_word_space_9: drink regret rubber nuclear world spray butter sick erosion
-bip_39_word_underscore_1: drink
-bip_39_word_underscore_10: drink_regret_rubber_nuclear_world_spray_butter_sick_erosion_key
-bip_39_word_underscore_11: drink_regret_rubber_nuclear_world_spray_butter_sick_erosion_key_burst
 bip_39_word_underscore_12: drink_regret_rubber_nuclear_world_spray_butter_sick_erosion_key_burst_also
 bip_39_word_underscore_2: drink_regret
 bip_39_word_underscore_3: drink_regret_rubber
-bip_39_word_underscore_4: drink_regret_rubber_nuclear
-bip_39_word_underscore_5: drink_regret_rubber_nuclear_world
-bip_39_word_underscore_6: drink_regret_rubber_nuclear_world_spray
-bip_39_word_underscore_7: drink_regret_rubber_nuclear_world_spray_butter
-bip_39_word_underscore_8: drink_regret_rubber_nuclear_world_spray_butter_sick
-bip_39_word_underscore_9: drink_regret_rubber_nuclear_world_spray_butter_sick_erosion
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

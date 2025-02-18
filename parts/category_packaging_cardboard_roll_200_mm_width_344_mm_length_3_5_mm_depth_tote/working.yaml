@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scrub
-bip_39_word_dash_10: scrub-choice-ship-gold-steak-caught-space-tongue-maximum-salad
-bip_39_word_dash_11: scrub-choice-ship-gold-steak-caught-space-tongue-maximum-salad-champion
 bip_39_word_dash_12: scrub-choice-ship-gold-steak-caught-space-tongue-maximum-salad-champion-alien
 bip_39_word_dash_2: scrub-choice
 bip_39_word_dash_3: scrub-choice-ship
-bip_39_word_dash_4: scrub-choice-ship-gold
-bip_39_word_dash_5: scrub-choice-ship-gold-steak
-bip_39_word_dash_6: scrub-choice-ship-gold-steak-caught
-bip_39_word_dash_7: scrub-choice-ship-gold-steak-caught-space
-bip_39_word_dash_8: scrub-choice-ship-gold-steak-caught-space-tongue
-bip_39_word_dash_9: scrub-choice-ship-gold-steak-caught-space-tongue-maximum
-bip_39_word_new_br_1: scrub
-bip_39_word_new_br_10: scrub<br>choice<br>ship<br>gold<br>steak<br>caught<br>space<br>tongue<br>maximum<br>salad
-bip_39_word_new_br_11: scrub<br>choice<br>ship<br>gold<br>steak<br>caught<br>space<br>tongue<br>maximum<br>salad<br>champion
 bip_39_word_new_br_12: scrub<br>choice<br>ship<br>gold<br>steak<br>caught<br>space<br>tongue<br>maximum<br>salad<br>champion<br>alien
 bip_39_word_new_br_2: scrub<br>choice
 bip_39_word_new_br_3: scrub<br>choice<br>ship
-bip_39_word_new_br_4: scrub<br>choice<br>ship<br>gold
-bip_39_word_new_br_5: scrub<br>choice<br>ship<br>gold<br>steak
-bip_39_word_new_br_6: scrub<br>choice<br>ship<br>gold<br>steak<br>caught
-bip_39_word_new_br_7: scrub<br>choice<br>ship<br>gold<br>steak<br>caught<br>space
-bip_39_word_new_br_8: scrub<br>choice<br>ship<br>gold<br>steak<br>caught<br>space<br>tongue
-bip_39_word_new_br_9: scrub<br>choice<br>ship<br>gold<br>steak<br>caught<br>space<br>tongue<br>maximum
-bip_39_word_new_line_1: scrub
-bip_39_word_new_line_10: 'scrub
-
-  choice
-
-  ship
-
-  gold
-
-  steak
-
-  caught
-
-  space
-
-  tongue
-
-  maximum
-
-  salad'
-bip_39_word_new_line_11: 'scrub
-
-  choice
-
-  ship
-
-  gold
-
-  steak
-
-  caught
-
-  space
-
-  tongue
-
-  maximum
-
-  salad
-
-  champion'
 bip_39_word_new_line_12: 'scrub
 
   choice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scrub
   choice
 
   ship'
-bip_39_word_new_line_4: 'scrub
-
-  choice
-
-  ship
-
-  gold'
-bip_39_word_new_line_5: 'scrub
-
-  choice
-
-  ship
-
-  gold
-
-  steak'
-bip_39_word_new_line_6: 'scrub
-
-  choice
-
-  ship
-
-  gold
-
-  steak
-
-  caught'
-bip_39_word_new_line_7: 'scrub
-
-  choice
-
-  ship
-
-  gold
-
-  steak
-
-  caught
-
-  space'
-bip_39_word_new_line_8: 'scrub
-
-  choice
-
-  ship
-
-  gold
-
-  steak
-
-  caught
-
-  space
-
-  tongue'
-bip_39_word_new_line_9: 'scrub
-
-  choice
-
-  ship
-
-  gold
-
-  steak
-
-  caught
-
-  space
-
-  tongue
-
-  maximum'
-bip_39_word_no_space_1: scrub
-bip_39_word_no_space_10: scrubchoiceshipgoldsteakcaughtspacetonguemaximumsalad
-bip_39_word_no_space_11: scrubchoiceshipgoldsteakcaughtspacetonguemaximumsaladchampion
 bip_39_word_no_space_12: scrubchoiceshipgoldsteakcaughtspacetonguemaximumsaladchampionalien
 bip_39_word_no_space_2: scrubchoice
 bip_39_word_no_space_3: scrubchoiceship
-bip_39_word_no_space_4: scrubchoiceshipgold
-bip_39_word_no_space_5: scrubchoiceshipgoldsteak
-bip_39_word_no_space_6: scrubchoiceshipgoldsteakcaught
-bip_39_word_no_space_7: scrubchoiceshipgoldsteakcaughtspace
-bip_39_word_no_space_8: scrubchoiceshipgoldsteakcaughtspacetongue
-bip_39_word_no_space_9: scrubchoiceshipgoldsteakcaughtspacetonguemaximum
-bip_39_word_space_0:
-- scrub
-- choice
-- ship
-- gold
-- steak
-- caught
-- space
-- tongue
-- maximum
-- salad
-- champion
-- alien
-bip_39_word_space_1: scrub
-bip_39_word_space_10: scrub choice ship gold steak caught space tongue maximum salad
-bip_39_word_space_11: scrub choice ship gold steak caught space tongue maximum salad
-  champion
 bip_39_word_space_12: scrub choice ship gold steak caught space tongue maximum salad
   champion alien
 bip_39_word_space_2: scrub choice
 bip_39_word_space_3: scrub choice ship
-bip_39_word_space_4: scrub choice ship gold
-bip_39_word_space_5: scrub choice ship gold steak
-bip_39_word_space_6: scrub choice ship gold steak caught
-bip_39_word_space_7: scrub choice ship gold steak caught space
-bip_39_word_space_8: scrub choice ship gold steak caught space tongue
-bip_39_word_space_9: scrub choice ship gold steak caught space tongue maximum
-bip_39_word_underscore_1: scrub
-bip_39_word_underscore_10: scrub_choice_ship_gold_steak_caught_space_tongue_maximum_salad
-bip_39_word_underscore_11: scrub_choice_ship_gold_steak_caught_space_tongue_maximum_salad_champion
 bip_39_word_underscore_12: scrub_choice_ship_gold_steak_caught_space_tongue_maximum_salad_champion_alien
 bip_39_word_underscore_2: scrub_choice
 bip_39_word_underscore_3: scrub_choice_ship
-bip_39_word_underscore_4: scrub_choice_ship_gold
-bip_39_word_underscore_5: scrub_choice_ship_gold_steak
-bip_39_word_underscore_6: scrub_choice_ship_gold_steak_caught
-bip_39_word_underscore_7: scrub_choice_ship_gold_steak_caught_space
-bip_39_word_underscore_8: scrub_choice_ship_gold_steak_caught_space_tongue
-bip_39_word_underscore_9: scrub_choice_ship_gold_steak_caught_space_tongue_maximum
 classification: category
 classification_capital: Category
 classification_first_letter: c

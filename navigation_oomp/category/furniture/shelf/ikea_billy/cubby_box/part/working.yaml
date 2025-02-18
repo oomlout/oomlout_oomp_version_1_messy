@@ -1,68 +1,9 @@
-bip_39_word_dash_1: engage
-bip_39_word_dash_10: engage-decline-clap-visit-imitate-orphan-raccoon-melt-flame-noodle
-bip_39_word_dash_11: engage-decline-clap-visit-imitate-orphan-raccoon-melt-flame-noodle-poet
 bip_39_word_dash_12: engage-decline-clap-visit-imitate-orphan-raccoon-melt-flame-noodle-poet-auction
 bip_39_word_dash_2: engage-decline
 bip_39_word_dash_3: engage-decline-clap
-bip_39_word_dash_4: engage-decline-clap-visit
-bip_39_word_dash_5: engage-decline-clap-visit-imitate
-bip_39_word_dash_6: engage-decline-clap-visit-imitate-orphan
-bip_39_word_dash_7: engage-decline-clap-visit-imitate-orphan-raccoon
-bip_39_word_dash_8: engage-decline-clap-visit-imitate-orphan-raccoon-melt
-bip_39_word_dash_9: engage-decline-clap-visit-imitate-orphan-raccoon-melt-flame
-bip_39_word_new_br_1: engage
-bip_39_word_new_br_10: engage<br>decline<br>clap<br>visit<br>imitate<br>orphan<br>raccoon<br>melt<br>flame<br>noodle
-bip_39_word_new_br_11: engage<br>decline<br>clap<br>visit<br>imitate<br>orphan<br>raccoon<br>melt<br>flame<br>noodle<br>poet
 bip_39_word_new_br_12: engage<br>decline<br>clap<br>visit<br>imitate<br>orphan<br>raccoon<br>melt<br>flame<br>noodle<br>poet<br>auction
 bip_39_word_new_br_2: engage<br>decline
 bip_39_word_new_br_3: engage<br>decline<br>clap
-bip_39_word_new_br_4: engage<br>decline<br>clap<br>visit
-bip_39_word_new_br_5: engage<br>decline<br>clap<br>visit<br>imitate
-bip_39_word_new_br_6: engage<br>decline<br>clap<br>visit<br>imitate<br>orphan
-bip_39_word_new_br_7: engage<br>decline<br>clap<br>visit<br>imitate<br>orphan<br>raccoon
-bip_39_word_new_br_8: engage<br>decline<br>clap<br>visit<br>imitate<br>orphan<br>raccoon<br>melt
-bip_39_word_new_br_9: engage<br>decline<br>clap<br>visit<br>imitate<br>orphan<br>raccoon<br>melt<br>flame
-bip_39_word_new_line_1: engage
-bip_39_word_new_line_10: 'engage
-
-  decline
-
-  clap
-
-  visit
-
-  imitate
-
-  orphan
-
-  raccoon
-
-  melt
-
-  flame
-
-  noodle'
-bip_39_word_new_line_11: 'engage
-
-  decline
-
-  clap
-
-  visit
-
-  imitate
-
-  orphan
-
-  raccoon
-
-  melt
-
-  flame
-
-  noodle
-
-  poet'
 bip_39_word_new_line_12: 'engage
 
   decline
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'engage
   decline
 
   clap'
-bip_39_word_new_line_4: 'engage
-
-  decline
-
-  clap
-
-  visit'
-bip_39_word_new_line_5: 'engage
-
-  decline
-
-  clap
-
-  visit
-
-  imitate'
-bip_39_word_new_line_6: 'engage
-
-  decline
-
-  clap
-
-  visit
-
-  imitate
-
-  orphan'
-bip_39_word_new_line_7: 'engage
-
-  decline
-
-  clap
-
-  visit
-
-  imitate
-
-  orphan
-
-  raccoon'
-bip_39_word_new_line_8: 'engage
-
-  decline
-
-  clap
-
-  visit
-
-  imitate
-
-  orphan
-
-  raccoon
-
-  melt'
-bip_39_word_new_line_9: 'engage
-
-  decline
-
-  clap
-
-  visit
-
-  imitate
-
-  orphan
-
-  raccoon
-
-  melt
-
-  flame'
-bip_39_word_no_space_1: engage
-bip_39_word_no_space_10: engagedeclineclapvisitimitateorphanraccoonmeltflamenoodle
-bip_39_word_no_space_11: engagedeclineclapvisitimitateorphanraccoonmeltflamenoodlepoet
 bip_39_word_no_space_12: engagedeclineclapvisitimitateorphanraccoonmeltflamenoodlepoetauction
 bip_39_word_no_space_2: engagedecline
 bip_39_word_no_space_3: engagedeclineclap
-bip_39_word_no_space_4: engagedeclineclapvisit
-bip_39_word_no_space_5: engagedeclineclapvisitimitate
-bip_39_word_no_space_6: engagedeclineclapvisitimitateorphan
-bip_39_word_no_space_7: engagedeclineclapvisitimitateorphanraccoon
-bip_39_word_no_space_8: engagedeclineclapvisitimitateorphanraccoonmelt
-bip_39_word_no_space_9: engagedeclineclapvisitimitateorphanraccoonmeltflame
-bip_39_word_space_0:
-- engage
-- decline
-- clap
-- visit
-- imitate
-- orphan
-- raccoon
-- melt
-- flame
-- noodle
-- poet
-- auction
-bip_39_word_space_1: engage
-bip_39_word_space_10: engage decline clap visit imitate orphan raccoon melt flame
-  noodle
-bip_39_word_space_11: engage decline clap visit imitate orphan raccoon melt flame
-  noodle poet
 bip_39_word_space_12: engage decline clap visit imitate orphan raccoon melt flame
   noodle poet auction
 bip_39_word_space_2: engage decline
 bip_39_word_space_3: engage decline clap
-bip_39_word_space_4: engage decline clap visit
-bip_39_word_space_5: engage decline clap visit imitate
-bip_39_word_space_6: engage decline clap visit imitate orphan
-bip_39_word_space_7: engage decline clap visit imitate orphan raccoon
-bip_39_word_space_8: engage decline clap visit imitate orphan raccoon melt
-bip_39_word_space_9: engage decline clap visit imitate orphan raccoon melt flame
-bip_39_word_underscore_1: engage
-bip_39_word_underscore_10: engage_decline_clap_visit_imitate_orphan_raccoon_melt_flame_noodle
-bip_39_word_underscore_11: engage_decline_clap_visit_imitate_orphan_raccoon_melt_flame_noodle_poet
 bip_39_word_underscore_12: engage_decline_clap_visit_imitate_orphan_raccoon_melt_flame_noodle_poet_auction
 bip_39_word_underscore_2: engage_decline
 bip_39_word_underscore_3: engage_decline_clap
-bip_39_word_underscore_4: engage_decline_clap_visit
-bip_39_word_underscore_5: engage_decline_clap_visit_imitate
-bip_39_word_underscore_6: engage_decline_clap_visit_imitate_orphan
-bip_39_word_underscore_7: engage_decline_clap_visit_imitate_orphan_raccoon
-bip_39_word_underscore_8: engage_decline_clap_visit_imitate_orphan_raccoon_melt
-bip_39_word_underscore_9: engage_decline_clap_visit_imitate_orphan_raccoon_melt_flame
 classification: category
 classification_capital: Category
 classification_first_letter: c

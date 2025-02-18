@@ -24,9 +24,9 @@ category_tool
   * description_extra: 
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: embody rigid
+  * bip 39 word 3: embody rigid earn
+  * bip 39 word: embody rigid earn position farm gaze gasp carpet balcony snow idle asthma
 
 ### other_codes
 * short_code: 
@@ -40,6 +40,22 @@ category_tool
 
 
 
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208rvqr)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208rvqr)
+[2x1](http://192.168.1.242:1112/?label=oomp%208rvqr)
+[6x4](http://192.168.1.55:1112/?label=oomp%208rvqr)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_bit) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_bit)                             
+
+#### price
+
+
+
+
 
 
 
@@ -47,20 +63,34 @@ category_tool
 | key | value |  
 | --- | --- |  
 | classification | category |  
+| classification_name | Category |  
 | color |  |  
+| color_name |  |  
 | description | category_tool |  
 | description_extra |  |  
+| description_extra_name |  |  
 | description_main |  |  
+| description_main_name |  |  
 | description_or_color |   |  
 | directory | parts/category_tool_screwdriver_bit |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_screwdriver_bit |  
 | id | category_tool_screwdriver_bit |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_bit |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_bit |  
+| link_2_name | link_github |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_bit |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_bit |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208rvqr |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208rvqr |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208rvqr |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208rvqr |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_bit |  
 | manufacturer |  |  
+| manufacturer_name |  |  
 | manufacturers | [] |  
 | markdown_full | [category_tool_screwdriver_bit](none)<br>[](none)<br>[Category Tool Screwdriver Bit](none)<br><br> |  
 | markdown_short | [category_tool_screwdriver_bit](none)<br><br> |  
@@ -70,6 +100,10 @@ category_tool
 | md5_6 | e0e173 |  
 | md5_6_alpha | 8rvqr |  
 | name | Category Tool Screwdriver Bit |  
+| oomlout_detail_hierarchy_1 | category |  
+| oomlout_detail_hierarchy_2 | tool |  
+| oomlout_detail_hierarchy_3 | screwdriver_bit |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_category_tool_screwdriver_bit |  
 | oomp_word | ship boat flags |  
 | oomp_word_emoji | :ship: :boat: :flags: |  
@@ -77,7 +111,10 @@ category_tool
 | oomp_word_list | ['ship', 'boat', 'flags'] |  
 | part_number |  |  
 | part_number_exact |  |  
+| part_number_name |  |  
 | short_code |  |  
 | short_name | Categorytool |  
 | size | screwdriver_bit |  
+| size_name | Screwdriver Bit |  
 | type | tool |  
+| type_name | Tool |  

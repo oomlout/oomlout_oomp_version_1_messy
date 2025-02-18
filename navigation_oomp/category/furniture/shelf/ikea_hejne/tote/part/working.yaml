@@ -1,68 +1,9 @@
-bip_39_word_dash_1: output
-bip_39_word_dash_10: output-submit-viable-action-flee-romance-enforce-detect-lazy-enrich
-bip_39_word_dash_11: output-submit-viable-action-flee-romance-enforce-detect-lazy-enrich-trigger
 bip_39_word_dash_12: output-submit-viable-action-flee-romance-enforce-detect-lazy-enrich-trigger-abstract
 bip_39_word_dash_2: output-submit
 bip_39_word_dash_3: output-submit-viable
-bip_39_word_dash_4: output-submit-viable-action
-bip_39_word_dash_5: output-submit-viable-action-flee
-bip_39_word_dash_6: output-submit-viable-action-flee-romance
-bip_39_word_dash_7: output-submit-viable-action-flee-romance-enforce
-bip_39_word_dash_8: output-submit-viable-action-flee-romance-enforce-detect
-bip_39_word_dash_9: output-submit-viable-action-flee-romance-enforce-detect-lazy
-bip_39_word_new_br_1: output
-bip_39_word_new_br_10: output<br>submit<br>viable<br>action<br>flee<br>romance<br>enforce<br>detect<br>lazy<br>enrich
-bip_39_word_new_br_11: output<br>submit<br>viable<br>action<br>flee<br>romance<br>enforce<br>detect<br>lazy<br>enrich<br>trigger
 bip_39_word_new_br_12: output<br>submit<br>viable<br>action<br>flee<br>romance<br>enforce<br>detect<br>lazy<br>enrich<br>trigger<br>abstract
 bip_39_word_new_br_2: output<br>submit
 bip_39_word_new_br_3: output<br>submit<br>viable
-bip_39_word_new_br_4: output<br>submit<br>viable<br>action
-bip_39_word_new_br_5: output<br>submit<br>viable<br>action<br>flee
-bip_39_word_new_br_6: output<br>submit<br>viable<br>action<br>flee<br>romance
-bip_39_word_new_br_7: output<br>submit<br>viable<br>action<br>flee<br>romance<br>enforce
-bip_39_word_new_br_8: output<br>submit<br>viable<br>action<br>flee<br>romance<br>enforce<br>detect
-bip_39_word_new_br_9: output<br>submit<br>viable<br>action<br>flee<br>romance<br>enforce<br>detect<br>lazy
-bip_39_word_new_line_1: output
-bip_39_word_new_line_10: 'output
-
-  submit
-
-  viable
-
-  action
-
-  flee
-
-  romance
-
-  enforce
-
-  detect
-
-  lazy
-
-  enrich'
-bip_39_word_new_line_11: 'output
-
-  submit
-
-  viable
-
-  action
-
-  flee
-
-  romance
-
-  enforce
-
-  detect
-
-  lazy
-
-  enrich
-
-  trigger'
 bip_39_word_new_line_12: 'output
 
   submit
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'output
   submit
 
   viable'
-bip_39_word_new_line_4: 'output
-
-  submit
-
-  viable
-
-  action'
-bip_39_word_new_line_5: 'output
-
-  submit
-
-  viable
-
-  action
-
-  flee'
-bip_39_word_new_line_6: 'output
-
-  submit
-
-  viable
-
-  action
-
-  flee
-
-  romance'
-bip_39_word_new_line_7: 'output
-
-  submit
-
-  viable
-
-  action
-
-  flee
-
-  romance
-
-  enforce'
-bip_39_word_new_line_8: 'output
-
-  submit
-
-  viable
-
-  action
-
-  flee
-
-  romance
-
-  enforce
-
-  detect'
-bip_39_word_new_line_9: 'output
-
-  submit
-
-  viable
-
-  action
-
-  flee
-
-  romance
-
-  enforce
-
-  detect
-
-  lazy'
-bip_39_word_no_space_1: output
-bip_39_word_no_space_10: outputsubmitviableactionfleeromanceenforcedetectlazyenrich
-bip_39_word_no_space_11: outputsubmitviableactionfleeromanceenforcedetectlazyenrichtrigger
 bip_39_word_no_space_12: outputsubmitviableactionfleeromanceenforcedetectlazyenrichtriggerabstract
 bip_39_word_no_space_2: outputsubmit
 bip_39_word_no_space_3: outputsubmitviable
-bip_39_word_no_space_4: outputsubmitviableaction
-bip_39_word_no_space_5: outputsubmitviableactionflee
-bip_39_word_no_space_6: outputsubmitviableactionfleeromance
-bip_39_word_no_space_7: outputsubmitviableactionfleeromanceenforce
-bip_39_word_no_space_8: outputsubmitviableactionfleeromanceenforcedetect
-bip_39_word_no_space_9: outputsubmitviableactionfleeromanceenforcedetectlazy
-bip_39_word_space_0:
-- output
-- submit
-- viable
-- action
-- flee
-- romance
-- enforce
-- detect
-- lazy
-- enrich
-- trigger
-- abstract
-bip_39_word_space_1: output
-bip_39_word_space_10: output submit viable action flee romance enforce detect lazy
-  enrich
-bip_39_word_space_11: output submit viable action flee romance enforce detect lazy
-  enrich trigger
 bip_39_word_space_12: output submit viable action flee romance enforce detect lazy
   enrich trigger abstract
 bip_39_word_space_2: output submit
 bip_39_word_space_3: output submit viable
-bip_39_word_space_4: output submit viable action
-bip_39_word_space_5: output submit viable action flee
-bip_39_word_space_6: output submit viable action flee romance
-bip_39_word_space_7: output submit viable action flee romance enforce
-bip_39_word_space_8: output submit viable action flee romance enforce detect
-bip_39_word_space_9: output submit viable action flee romance enforce detect lazy
-bip_39_word_underscore_1: output
-bip_39_word_underscore_10: output_submit_viable_action_flee_romance_enforce_detect_lazy_enrich
-bip_39_word_underscore_11: output_submit_viable_action_flee_romance_enforce_detect_lazy_enrich_trigger
 bip_39_word_underscore_12: output_submit_viable_action_flee_romance_enforce_detect_lazy_enrich_trigger_abstract
 bip_39_word_underscore_2: output_submit
 bip_39_word_underscore_3: output_submit_viable
-bip_39_word_underscore_4: output_submit_viable_action
-bip_39_word_underscore_5: output_submit_viable_action_flee
-bip_39_word_underscore_6: output_submit_viable_action_flee_romance
-bip_39_word_underscore_7: output_submit_viable_action_flee_romance_enforce
-bip_39_word_underscore_8: output_submit_viable_action_flee_romance_enforce_detect
-bip_39_word_underscore_9: output_submit_viable_action_flee_romance_enforce_detect_lazy
 classification: category
 classification_capital: Category
 classification_first_letter: c

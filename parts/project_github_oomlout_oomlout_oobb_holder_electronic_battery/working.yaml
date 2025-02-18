@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crash
-bip_39_word_dash_10: crash-divert-kiwi-neither-neck-ghost-response-lend-plate-bag
-bip_39_word_dash_11: crash-divert-kiwi-neither-neck-ghost-response-lend-plate-bag-vague
 bip_39_word_dash_12: crash-divert-kiwi-neither-neck-ghost-response-lend-plate-bag-vague-animal
 bip_39_word_dash_2: crash-divert
 bip_39_word_dash_3: crash-divert-kiwi
-bip_39_word_dash_4: crash-divert-kiwi-neither
-bip_39_word_dash_5: crash-divert-kiwi-neither-neck
-bip_39_word_dash_6: crash-divert-kiwi-neither-neck-ghost
-bip_39_word_dash_7: crash-divert-kiwi-neither-neck-ghost-response
-bip_39_word_dash_8: crash-divert-kiwi-neither-neck-ghost-response-lend
-bip_39_word_dash_9: crash-divert-kiwi-neither-neck-ghost-response-lend-plate
-bip_39_word_new_br_1: crash
-bip_39_word_new_br_10: crash<br>divert<br>kiwi<br>neither<br>neck<br>ghost<br>response<br>lend<br>plate<br>bag
-bip_39_word_new_br_11: crash<br>divert<br>kiwi<br>neither<br>neck<br>ghost<br>response<br>lend<br>plate<br>bag<br>vague
 bip_39_word_new_br_12: crash<br>divert<br>kiwi<br>neither<br>neck<br>ghost<br>response<br>lend<br>plate<br>bag<br>vague<br>animal
 bip_39_word_new_br_2: crash<br>divert
 bip_39_word_new_br_3: crash<br>divert<br>kiwi
-bip_39_word_new_br_4: crash<br>divert<br>kiwi<br>neither
-bip_39_word_new_br_5: crash<br>divert<br>kiwi<br>neither<br>neck
-bip_39_word_new_br_6: crash<br>divert<br>kiwi<br>neither<br>neck<br>ghost
-bip_39_word_new_br_7: crash<br>divert<br>kiwi<br>neither<br>neck<br>ghost<br>response
-bip_39_word_new_br_8: crash<br>divert<br>kiwi<br>neither<br>neck<br>ghost<br>response<br>lend
-bip_39_word_new_br_9: crash<br>divert<br>kiwi<br>neither<br>neck<br>ghost<br>response<br>lend<br>plate
-bip_39_word_new_line_1: crash
-bip_39_word_new_line_10: 'crash
-
-  divert
-
-  kiwi
-
-  neither
-
-  neck
-
-  ghost
-
-  response
-
-  lend
-
-  plate
-
-  bag'
-bip_39_word_new_line_11: 'crash
-
-  divert
-
-  kiwi
-
-  neither
-
-  neck
-
-  ghost
-
-  response
-
-  lend
-
-  plate
-
-  bag
-
-  vague'
 bip_39_word_new_line_12: 'crash
 
   divert
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crash
   divert
 
   kiwi'
-bip_39_word_new_line_4: 'crash
-
-  divert
-
-  kiwi
-
-  neither'
-bip_39_word_new_line_5: 'crash
-
-  divert
-
-  kiwi
-
-  neither
-
-  neck'
-bip_39_word_new_line_6: 'crash
-
-  divert
-
-  kiwi
-
-  neither
-
-  neck
-
-  ghost'
-bip_39_word_new_line_7: 'crash
-
-  divert
-
-  kiwi
-
-  neither
-
-  neck
-
-  ghost
-
-  response'
-bip_39_word_new_line_8: 'crash
-
-  divert
-
-  kiwi
-
-  neither
-
-  neck
-
-  ghost
-
-  response
-
-  lend'
-bip_39_word_new_line_9: 'crash
-
-  divert
-
-  kiwi
-
-  neither
-
-  neck
-
-  ghost
-
-  response
-
-  lend
-
-  plate'
-bip_39_word_no_space_1: crash
-bip_39_word_no_space_10: crashdivertkiwineitherneckghostresponselendplatebag
-bip_39_word_no_space_11: crashdivertkiwineitherneckghostresponselendplatebagvague
 bip_39_word_no_space_12: crashdivertkiwineitherneckghostresponselendplatebagvagueanimal
 bip_39_word_no_space_2: crashdivert
 bip_39_word_no_space_3: crashdivertkiwi
-bip_39_word_no_space_4: crashdivertkiwineither
-bip_39_word_no_space_5: crashdivertkiwineitherneck
-bip_39_word_no_space_6: crashdivertkiwineitherneckghost
-bip_39_word_no_space_7: crashdivertkiwineitherneckghostresponse
-bip_39_word_no_space_8: crashdivertkiwineitherneckghostresponselend
-bip_39_word_no_space_9: crashdivertkiwineitherneckghostresponselendplate
-bip_39_word_space_0:
-- crash
-- divert
-- kiwi
-- neither
-- neck
-- ghost
-- response
-- lend
-- plate
-- bag
-- vague
-- animal
-bip_39_word_space_1: crash
-bip_39_word_space_10: crash divert kiwi neither neck ghost response lend plate bag
-bip_39_word_space_11: crash divert kiwi neither neck ghost response lend plate bag
-  vague
 bip_39_word_space_12: crash divert kiwi neither neck ghost response lend plate bag
   vague animal
 bip_39_word_space_2: crash divert
 bip_39_word_space_3: crash divert kiwi
-bip_39_word_space_4: crash divert kiwi neither
-bip_39_word_space_5: crash divert kiwi neither neck
-bip_39_word_space_6: crash divert kiwi neither neck ghost
-bip_39_word_space_7: crash divert kiwi neither neck ghost response
-bip_39_word_space_8: crash divert kiwi neither neck ghost response lend
-bip_39_word_space_9: crash divert kiwi neither neck ghost response lend plate
-bip_39_word_underscore_1: crash
-bip_39_word_underscore_10: crash_divert_kiwi_neither_neck_ghost_response_lend_plate_bag
-bip_39_word_underscore_11: crash_divert_kiwi_neither_neck_ghost_response_lend_plate_bag_vague
 bip_39_word_underscore_12: crash_divert_kiwi_neither_neck_ghost_response_lend_plate_bag_vague_animal
 bip_39_word_underscore_2: crash_divert
 bip_39_word_underscore_3: crash_divert_kiwi
-bip_39_word_underscore_4: crash_divert_kiwi_neither
-bip_39_word_underscore_5: crash_divert_kiwi_neither_neck
-bip_39_word_underscore_6: crash_divert_kiwi_neither_neck_ghost
-bip_39_word_underscore_7: crash_divert_kiwi_neither_neck_ghost_response
-bip_39_word_underscore_8: crash_divert_kiwi_neither_neck_ghost_response_lend
-bip_39_word_underscore_9: crash_divert_kiwi_neither_neck_ghost_response_lend_plate
 classification: project
 classification_capital: Project
 classification_first_letter: p

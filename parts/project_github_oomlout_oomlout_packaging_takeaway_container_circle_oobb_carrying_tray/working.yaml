@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gravity
-bip_39_word_dash_10: gravity-vicious-opera-warfare-noodle-giant-spirit-comfort-clap-sure
-bip_39_word_dash_11: gravity-vicious-opera-warfare-noodle-giant-spirit-comfort-clap-sure-fancy
 bip_39_word_dash_12: gravity-vicious-opera-warfare-noodle-giant-spirit-comfort-clap-sure-fancy-ask
 bip_39_word_dash_2: gravity-vicious
 bip_39_word_dash_3: gravity-vicious-opera
-bip_39_word_dash_4: gravity-vicious-opera-warfare
-bip_39_word_dash_5: gravity-vicious-opera-warfare-noodle
-bip_39_word_dash_6: gravity-vicious-opera-warfare-noodle-giant
-bip_39_word_dash_7: gravity-vicious-opera-warfare-noodle-giant-spirit
-bip_39_word_dash_8: gravity-vicious-opera-warfare-noodle-giant-spirit-comfort
-bip_39_word_dash_9: gravity-vicious-opera-warfare-noodle-giant-spirit-comfort-clap
-bip_39_word_new_br_1: gravity
-bip_39_word_new_br_10: gravity<br>vicious<br>opera<br>warfare<br>noodle<br>giant<br>spirit<br>comfort<br>clap<br>sure
-bip_39_word_new_br_11: gravity<br>vicious<br>opera<br>warfare<br>noodle<br>giant<br>spirit<br>comfort<br>clap<br>sure<br>fancy
 bip_39_word_new_br_12: gravity<br>vicious<br>opera<br>warfare<br>noodle<br>giant<br>spirit<br>comfort<br>clap<br>sure<br>fancy<br>ask
 bip_39_word_new_br_2: gravity<br>vicious
 bip_39_word_new_br_3: gravity<br>vicious<br>opera
-bip_39_word_new_br_4: gravity<br>vicious<br>opera<br>warfare
-bip_39_word_new_br_5: gravity<br>vicious<br>opera<br>warfare<br>noodle
-bip_39_word_new_br_6: gravity<br>vicious<br>opera<br>warfare<br>noodle<br>giant
-bip_39_word_new_br_7: gravity<br>vicious<br>opera<br>warfare<br>noodle<br>giant<br>spirit
-bip_39_word_new_br_8: gravity<br>vicious<br>opera<br>warfare<br>noodle<br>giant<br>spirit<br>comfort
-bip_39_word_new_br_9: gravity<br>vicious<br>opera<br>warfare<br>noodle<br>giant<br>spirit<br>comfort<br>clap
-bip_39_word_new_line_1: gravity
-bip_39_word_new_line_10: 'gravity
-
-  vicious
-
-  opera
-
-  warfare
-
-  noodle
-
-  giant
-
-  spirit
-
-  comfort
-
-  clap
-
-  sure'
-bip_39_word_new_line_11: 'gravity
-
-  vicious
-
-  opera
-
-  warfare
-
-  noodle
-
-  giant
-
-  spirit
-
-  comfort
-
-  clap
-
-  sure
-
-  fancy'
 bip_39_word_new_line_12: 'gravity
 
   vicious
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'gravity
   vicious
 
   opera'
-bip_39_word_new_line_4: 'gravity
-
-  vicious
-
-  opera
-
-  warfare'
-bip_39_word_new_line_5: 'gravity
-
-  vicious
-
-  opera
-
-  warfare
-
-  noodle'
-bip_39_word_new_line_6: 'gravity
-
-  vicious
-
-  opera
-
-  warfare
-
-  noodle
-
-  giant'
-bip_39_word_new_line_7: 'gravity
-
-  vicious
-
-  opera
-
-  warfare
-
-  noodle
-
-  giant
-
-  spirit'
-bip_39_word_new_line_8: 'gravity
-
-  vicious
-
-  opera
-
-  warfare
-
-  noodle
-
-  giant
-
-  spirit
-
-  comfort'
-bip_39_word_new_line_9: 'gravity
-
-  vicious
-
-  opera
-
-  warfare
-
-  noodle
-
-  giant
-
-  spirit
-
-  comfort
-
-  clap'
-bip_39_word_no_space_1: gravity
-bip_39_word_no_space_10: gravityviciousoperawarfarenoodlegiantspiritcomfortclapsure
-bip_39_word_no_space_11: gravityviciousoperawarfarenoodlegiantspiritcomfortclapsurefancy
 bip_39_word_no_space_12: gravityviciousoperawarfarenoodlegiantspiritcomfortclapsurefancyask
 bip_39_word_no_space_2: gravityvicious
 bip_39_word_no_space_3: gravityviciousopera
-bip_39_word_no_space_4: gravityviciousoperawarfare
-bip_39_word_no_space_5: gravityviciousoperawarfarenoodle
-bip_39_word_no_space_6: gravityviciousoperawarfarenoodlegiant
-bip_39_word_no_space_7: gravityviciousoperawarfarenoodlegiantspirit
-bip_39_word_no_space_8: gravityviciousoperawarfarenoodlegiantspiritcomfort
-bip_39_word_no_space_9: gravityviciousoperawarfarenoodlegiantspiritcomfortclap
-bip_39_word_space_0:
-- gravity
-- vicious
-- opera
-- warfare
-- noodle
-- giant
-- spirit
-- comfort
-- clap
-- sure
-- fancy
-- ask
-bip_39_word_space_1: gravity
-bip_39_word_space_10: gravity vicious opera warfare noodle giant spirit comfort clap
-  sure
-bip_39_word_space_11: gravity vicious opera warfare noodle giant spirit comfort clap
-  sure fancy
 bip_39_word_space_12: gravity vicious opera warfare noodle giant spirit comfort clap
   sure fancy ask
 bip_39_word_space_2: gravity vicious
 bip_39_word_space_3: gravity vicious opera
-bip_39_word_space_4: gravity vicious opera warfare
-bip_39_word_space_5: gravity vicious opera warfare noodle
-bip_39_word_space_6: gravity vicious opera warfare noodle giant
-bip_39_word_space_7: gravity vicious opera warfare noodle giant spirit
-bip_39_word_space_8: gravity vicious opera warfare noodle giant spirit comfort
-bip_39_word_space_9: gravity vicious opera warfare noodle giant spirit comfort clap
-bip_39_word_underscore_1: gravity
-bip_39_word_underscore_10: gravity_vicious_opera_warfare_noodle_giant_spirit_comfort_clap_sure
-bip_39_word_underscore_11: gravity_vicious_opera_warfare_noodle_giant_spirit_comfort_clap_sure_fancy
 bip_39_word_underscore_12: gravity_vicious_opera_warfare_noodle_giant_spirit_comfort_clap_sure_fancy_ask
 bip_39_word_underscore_2: gravity_vicious
 bip_39_word_underscore_3: gravity_vicious_opera
-bip_39_word_underscore_4: gravity_vicious_opera_warfare
-bip_39_word_underscore_5: gravity_vicious_opera_warfare_noodle
-bip_39_word_underscore_6: gravity_vicious_opera_warfare_noodle_giant
-bip_39_word_underscore_7: gravity_vicious_opera_warfare_noodle_giant_spirit
-bip_39_word_underscore_8: gravity_vicious_opera_warfare_noodle_giant_spirit_comfort
-bip_39_word_underscore_9: gravity_vicious_opera_warfare_noodle_giant_spirit_comfort_clap
 classification: project
 classification_capital: Project
 classification_first_letter: p

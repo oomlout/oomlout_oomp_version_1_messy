@@ -1,68 +1,9 @@
-bip_39_word_dash_1: allow
-bip_39_word_dash_10: allow-sight-chimney-long-barrel-interest-dish-jeans-local-gospel
-bip_39_word_dash_11: allow-sight-chimney-long-barrel-interest-dish-jeans-local-gospel-time
 bip_39_word_dash_12: allow-sight-chimney-long-barrel-interest-dish-jeans-local-gospel-time-actor
 bip_39_word_dash_2: allow-sight
 bip_39_word_dash_3: allow-sight-chimney
-bip_39_word_dash_4: allow-sight-chimney-long
-bip_39_word_dash_5: allow-sight-chimney-long-barrel
-bip_39_word_dash_6: allow-sight-chimney-long-barrel-interest
-bip_39_word_dash_7: allow-sight-chimney-long-barrel-interest-dish
-bip_39_word_dash_8: allow-sight-chimney-long-barrel-interest-dish-jeans
-bip_39_word_dash_9: allow-sight-chimney-long-barrel-interest-dish-jeans-local
-bip_39_word_new_br_1: allow
-bip_39_word_new_br_10: allow<br>sight<br>chimney<br>long<br>barrel<br>interest<br>dish<br>jeans<br>local<br>gospel
-bip_39_word_new_br_11: allow<br>sight<br>chimney<br>long<br>barrel<br>interest<br>dish<br>jeans<br>local<br>gospel<br>time
 bip_39_word_new_br_12: allow<br>sight<br>chimney<br>long<br>barrel<br>interest<br>dish<br>jeans<br>local<br>gospel<br>time<br>actor
 bip_39_word_new_br_2: allow<br>sight
 bip_39_word_new_br_3: allow<br>sight<br>chimney
-bip_39_word_new_br_4: allow<br>sight<br>chimney<br>long
-bip_39_word_new_br_5: allow<br>sight<br>chimney<br>long<br>barrel
-bip_39_word_new_br_6: allow<br>sight<br>chimney<br>long<br>barrel<br>interest
-bip_39_word_new_br_7: allow<br>sight<br>chimney<br>long<br>barrel<br>interest<br>dish
-bip_39_word_new_br_8: allow<br>sight<br>chimney<br>long<br>barrel<br>interest<br>dish<br>jeans
-bip_39_word_new_br_9: allow<br>sight<br>chimney<br>long<br>barrel<br>interest<br>dish<br>jeans<br>local
-bip_39_word_new_line_1: allow
-bip_39_word_new_line_10: 'allow
-
-  sight
-
-  chimney
-
-  long
-
-  barrel
-
-  interest
-
-  dish
-
-  jeans
-
-  local
-
-  gospel'
-bip_39_word_new_line_11: 'allow
-
-  sight
-
-  chimney
-
-  long
-
-  barrel
-
-  interest
-
-  dish
-
-  jeans
-
-  local
-
-  gospel
-
-  time'
 bip_39_word_new_line_12: 'allow
 
   sight
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'allow
   sight
 
   chimney'
-bip_39_word_new_line_4: 'allow
-
-  sight
-
-  chimney
-
-  long'
-bip_39_word_new_line_5: 'allow
-
-  sight
-
-  chimney
-
-  long
-
-  barrel'
-bip_39_word_new_line_6: 'allow
-
-  sight
-
-  chimney
-
-  long
-
-  barrel
-
-  interest'
-bip_39_word_new_line_7: 'allow
-
-  sight
-
-  chimney
-
-  long
-
-  barrel
-
-  interest
-
-  dish'
-bip_39_word_new_line_8: 'allow
-
-  sight
-
-  chimney
-
-  long
-
-  barrel
-
-  interest
-
-  dish
-
-  jeans'
-bip_39_word_new_line_9: 'allow
-
-  sight
-
-  chimney
-
-  long
-
-  barrel
-
-  interest
-
-  dish
-
-  jeans
-
-  local'
-bip_39_word_no_space_1: allow
-bip_39_word_no_space_10: allowsightchimneylongbarrelinterestdishjeanslocalgospel
-bip_39_word_no_space_11: allowsightchimneylongbarrelinterestdishjeanslocalgospeltime
 bip_39_word_no_space_12: allowsightchimneylongbarrelinterestdishjeanslocalgospeltimeactor
 bip_39_word_no_space_2: allowsight
 bip_39_word_no_space_3: allowsightchimney
-bip_39_word_no_space_4: allowsightchimneylong
-bip_39_word_no_space_5: allowsightchimneylongbarrel
-bip_39_word_no_space_6: allowsightchimneylongbarrelinterest
-bip_39_word_no_space_7: allowsightchimneylongbarrelinterestdish
-bip_39_word_no_space_8: allowsightchimneylongbarrelinterestdishjeans
-bip_39_word_no_space_9: allowsightchimneylongbarrelinterestdishjeanslocal
-bip_39_word_space_0:
-- allow
-- sight
-- chimney
-- long
-- barrel
-- interest
-- dish
-- jeans
-- local
-- gospel
-- time
-- actor
-bip_39_word_space_1: allow
-bip_39_word_space_10: allow sight chimney long barrel interest dish jeans local gospel
-bip_39_word_space_11: allow sight chimney long barrel interest dish jeans local gospel
-  time
 bip_39_word_space_12: allow sight chimney long barrel interest dish jeans local gospel
   time actor
 bip_39_word_space_2: allow sight
 bip_39_word_space_3: allow sight chimney
-bip_39_word_space_4: allow sight chimney long
-bip_39_word_space_5: allow sight chimney long barrel
-bip_39_word_space_6: allow sight chimney long barrel interest
-bip_39_word_space_7: allow sight chimney long barrel interest dish
-bip_39_word_space_8: allow sight chimney long barrel interest dish jeans
-bip_39_word_space_9: allow sight chimney long barrel interest dish jeans local
-bip_39_word_underscore_1: allow
-bip_39_word_underscore_10: allow_sight_chimney_long_barrel_interest_dish_jeans_local_gospel
-bip_39_word_underscore_11: allow_sight_chimney_long_barrel_interest_dish_jeans_local_gospel_time
 bip_39_word_underscore_12: allow_sight_chimney_long_barrel_interest_dish_jeans_local_gospel_time_actor
 bip_39_word_underscore_2: allow_sight
 bip_39_word_underscore_3: allow_sight_chimney
-bip_39_word_underscore_4: allow_sight_chimney_long
-bip_39_word_underscore_5: allow_sight_chimney_long_barrel
-bip_39_word_underscore_6: allow_sight_chimney_long_barrel_interest
-bip_39_word_underscore_7: allow_sight_chimney_long_barrel_interest_dish
-bip_39_word_underscore_8: allow_sight_chimney_long_barrel_interest_dish_jeans
-bip_39_word_underscore_9: allow_sight_chimney_long_barrel_interest_dish_jeans_local
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

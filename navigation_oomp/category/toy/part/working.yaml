@@ -1,68 +1,9 @@
-bip_39_word_dash_1: autumn
-bip_39_word_dash_10: autumn-forest-wait-float-tree-naive-leave-point-together-blouse
-bip_39_word_dash_11: autumn-forest-wait-float-tree-naive-leave-point-together-blouse-youth
 bip_39_word_dash_12: autumn-forest-wait-float-tree-naive-leave-point-together-blouse-youth-apple
 bip_39_word_dash_2: autumn-forest
 bip_39_word_dash_3: autumn-forest-wait
-bip_39_word_dash_4: autumn-forest-wait-float
-bip_39_word_dash_5: autumn-forest-wait-float-tree
-bip_39_word_dash_6: autumn-forest-wait-float-tree-naive
-bip_39_word_dash_7: autumn-forest-wait-float-tree-naive-leave
-bip_39_word_dash_8: autumn-forest-wait-float-tree-naive-leave-point
-bip_39_word_dash_9: autumn-forest-wait-float-tree-naive-leave-point-together
-bip_39_word_new_br_1: autumn
-bip_39_word_new_br_10: autumn<br>forest<br>wait<br>float<br>tree<br>naive<br>leave<br>point<br>together<br>blouse
-bip_39_word_new_br_11: autumn<br>forest<br>wait<br>float<br>tree<br>naive<br>leave<br>point<br>together<br>blouse<br>youth
 bip_39_word_new_br_12: autumn<br>forest<br>wait<br>float<br>tree<br>naive<br>leave<br>point<br>together<br>blouse<br>youth<br>apple
 bip_39_word_new_br_2: autumn<br>forest
 bip_39_word_new_br_3: autumn<br>forest<br>wait
-bip_39_word_new_br_4: autumn<br>forest<br>wait<br>float
-bip_39_word_new_br_5: autumn<br>forest<br>wait<br>float<br>tree
-bip_39_word_new_br_6: autumn<br>forest<br>wait<br>float<br>tree<br>naive
-bip_39_word_new_br_7: autumn<br>forest<br>wait<br>float<br>tree<br>naive<br>leave
-bip_39_word_new_br_8: autumn<br>forest<br>wait<br>float<br>tree<br>naive<br>leave<br>point
-bip_39_word_new_br_9: autumn<br>forest<br>wait<br>float<br>tree<br>naive<br>leave<br>point<br>together
-bip_39_word_new_line_1: autumn
-bip_39_word_new_line_10: 'autumn
-
-  forest
-
-  wait
-
-  float
-
-  tree
-
-  naive
-
-  leave
-
-  point
-
-  together
-
-  blouse'
-bip_39_word_new_line_11: 'autumn
-
-  forest
-
-  wait
-
-  float
-
-  tree
-
-  naive
-
-  leave
-
-  point
-
-  together
-
-  blouse
-
-  youth'
 bip_39_word_new_line_12: 'autumn
 
   forest
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'autumn
   forest
 
   wait'
-bip_39_word_new_line_4: 'autumn
-
-  forest
-
-  wait
-
-  float'
-bip_39_word_new_line_5: 'autumn
-
-  forest
-
-  wait
-
-  float
-
-  tree'
-bip_39_word_new_line_6: 'autumn
-
-  forest
-
-  wait
-
-  float
-
-  tree
-
-  naive'
-bip_39_word_new_line_7: 'autumn
-
-  forest
-
-  wait
-
-  float
-
-  tree
-
-  naive
-
-  leave'
-bip_39_word_new_line_8: 'autumn
-
-  forest
-
-  wait
-
-  float
-
-  tree
-
-  naive
-
-  leave
-
-  point'
-bip_39_word_new_line_9: 'autumn
-
-  forest
-
-  wait
-
-  float
-
-  tree
-
-  naive
-
-  leave
-
-  point
-
-  together'
-bip_39_word_no_space_1: autumn
-bip_39_word_no_space_10: autumnforestwaitfloattreenaiveleavepointtogetherblouse
-bip_39_word_no_space_11: autumnforestwaitfloattreenaiveleavepointtogetherblouseyouth
 bip_39_word_no_space_12: autumnforestwaitfloattreenaiveleavepointtogetherblouseyouthapple
 bip_39_word_no_space_2: autumnforest
 bip_39_word_no_space_3: autumnforestwait
-bip_39_word_no_space_4: autumnforestwaitfloat
-bip_39_word_no_space_5: autumnforestwaitfloattree
-bip_39_word_no_space_6: autumnforestwaitfloattreenaive
-bip_39_word_no_space_7: autumnforestwaitfloattreenaiveleave
-bip_39_word_no_space_8: autumnforestwaitfloattreenaiveleavepoint
-bip_39_word_no_space_9: autumnforestwaitfloattreenaiveleavepointtogether
-bip_39_word_space_0:
-- autumn
-- forest
-- wait
-- float
-- tree
-- naive
-- leave
-- point
-- together
-- blouse
-- youth
-- apple
-bip_39_word_space_1: autumn
-bip_39_word_space_10: autumn forest wait float tree naive leave point together blouse
-bip_39_word_space_11: autumn forest wait float tree naive leave point together blouse
-  youth
 bip_39_word_space_12: autumn forest wait float tree naive leave point together blouse
   youth apple
 bip_39_word_space_2: autumn forest
 bip_39_word_space_3: autumn forest wait
-bip_39_word_space_4: autumn forest wait float
-bip_39_word_space_5: autumn forest wait float tree
-bip_39_word_space_6: autumn forest wait float tree naive
-bip_39_word_space_7: autumn forest wait float tree naive leave
-bip_39_word_space_8: autumn forest wait float tree naive leave point
-bip_39_word_space_9: autumn forest wait float tree naive leave point together
-bip_39_word_underscore_1: autumn
-bip_39_word_underscore_10: autumn_forest_wait_float_tree_naive_leave_point_together_blouse
-bip_39_word_underscore_11: autumn_forest_wait_float_tree_naive_leave_point_together_blouse_youth
 bip_39_word_underscore_12: autumn_forest_wait_float_tree_naive_leave_point_together_blouse_youth_apple
 bip_39_word_underscore_2: autumn_forest
 bip_39_word_underscore_3: autumn_forest_wait
-bip_39_word_underscore_4: autumn_forest_wait_float
-bip_39_word_underscore_5: autumn_forest_wait_float_tree
-bip_39_word_underscore_6: autumn_forest_wait_float_tree_naive
-bip_39_word_underscore_7: autumn_forest_wait_float_tree_naive_leave
-bip_39_word_underscore_8: autumn_forest_wait_float_tree_naive_leave_point
-bip_39_word_underscore_9: autumn_forest_wait_float_tree_naive_leave_point_together
 classification: category
 classification_capital: Category
 classification_first_letter: c

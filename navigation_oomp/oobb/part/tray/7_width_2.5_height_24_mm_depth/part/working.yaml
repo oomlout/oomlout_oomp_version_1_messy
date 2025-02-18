@@ -1,68 +1,9 @@
-bip_39_word_dash_1: middle
-bip_39_word_dash_10: middle-quiz-off-normal-depart-vacant-double-dice-just-merry
-bip_39_word_dash_11: middle-quiz-off-normal-depart-vacant-double-dice-just-merry-man
 bip_39_word_dash_12: middle-quiz-off-normal-depart-vacant-double-dice-just-merry-man-already
 bip_39_word_dash_2: middle-quiz
 bip_39_word_dash_3: middle-quiz-off
-bip_39_word_dash_4: middle-quiz-off-normal
-bip_39_word_dash_5: middle-quiz-off-normal-depart
-bip_39_word_dash_6: middle-quiz-off-normal-depart-vacant
-bip_39_word_dash_7: middle-quiz-off-normal-depart-vacant-double
-bip_39_word_dash_8: middle-quiz-off-normal-depart-vacant-double-dice
-bip_39_word_dash_9: middle-quiz-off-normal-depart-vacant-double-dice-just
-bip_39_word_new_br_1: middle
-bip_39_word_new_br_10: middle<br>quiz<br>off<br>normal<br>depart<br>vacant<br>double<br>dice<br>just<br>merry
-bip_39_word_new_br_11: middle<br>quiz<br>off<br>normal<br>depart<br>vacant<br>double<br>dice<br>just<br>merry<br>man
 bip_39_word_new_br_12: middle<br>quiz<br>off<br>normal<br>depart<br>vacant<br>double<br>dice<br>just<br>merry<br>man<br>already
 bip_39_word_new_br_2: middle<br>quiz
 bip_39_word_new_br_3: middle<br>quiz<br>off
-bip_39_word_new_br_4: middle<br>quiz<br>off<br>normal
-bip_39_word_new_br_5: middle<br>quiz<br>off<br>normal<br>depart
-bip_39_word_new_br_6: middle<br>quiz<br>off<br>normal<br>depart<br>vacant
-bip_39_word_new_br_7: middle<br>quiz<br>off<br>normal<br>depart<br>vacant<br>double
-bip_39_word_new_br_8: middle<br>quiz<br>off<br>normal<br>depart<br>vacant<br>double<br>dice
-bip_39_word_new_br_9: middle<br>quiz<br>off<br>normal<br>depart<br>vacant<br>double<br>dice<br>just
-bip_39_word_new_line_1: middle
-bip_39_word_new_line_10: 'middle
-
-  quiz
-
-  off
-
-  normal
-
-  depart
-
-  vacant
-
-  double
-
-  dice
-
-  just
-
-  merry'
-bip_39_word_new_line_11: 'middle
-
-  quiz
-
-  off
-
-  normal
-
-  depart
-
-  vacant
-
-  double
-
-  dice
-
-  just
-
-  merry
-
-  man'
 bip_39_word_new_line_12: 'middle
 
   quiz
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'middle
   quiz
 
   off'
-bip_39_word_new_line_4: 'middle
-
-  quiz
-
-  off
-
-  normal'
-bip_39_word_new_line_5: 'middle
-
-  quiz
-
-  off
-
-  normal
-
-  depart'
-bip_39_word_new_line_6: 'middle
-
-  quiz
-
-  off
-
-  normal
-
-  depart
-
-  vacant'
-bip_39_word_new_line_7: 'middle
-
-  quiz
-
-  off
-
-  normal
-
-  depart
-
-  vacant
-
-  double'
-bip_39_word_new_line_8: 'middle
-
-  quiz
-
-  off
-
-  normal
-
-  depart
-
-  vacant
-
-  double
-
-  dice'
-bip_39_word_new_line_9: 'middle
-
-  quiz
-
-  off
-
-  normal
-
-  depart
-
-  vacant
-
-  double
-
-  dice
-
-  just'
-bip_39_word_no_space_1: middle
-bip_39_word_no_space_10: middlequizoffnormaldepartvacantdoubledicejustmerry
-bip_39_word_no_space_11: middlequizoffnormaldepartvacantdoubledicejustmerryman
 bip_39_word_no_space_12: middlequizoffnormaldepartvacantdoubledicejustmerrymanalready
 bip_39_word_no_space_2: middlequiz
 bip_39_word_no_space_3: middlequizoff
-bip_39_word_no_space_4: middlequizoffnormal
-bip_39_word_no_space_5: middlequizoffnormaldepart
-bip_39_word_no_space_6: middlequizoffnormaldepartvacant
-bip_39_word_no_space_7: middlequizoffnormaldepartvacantdouble
-bip_39_word_no_space_8: middlequizoffnormaldepartvacantdoubledice
-bip_39_word_no_space_9: middlequizoffnormaldepartvacantdoubledicejust
-bip_39_word_space_0:
-- middle
-- quiz
-- 'off'
-- normal
-- depart
-- vacant
-- double
-- dice
-- just
-- merry
-- man
-- already
-bip_39_word_space_1: middle
-bip_39_word_space_10: middle quiz off normal depart vacant double dice just merry
-bip_39_word_space_11: middle quiz off normal depart vacant double dice just merry
-  man
 bip_39_word_space_12: middle quiz off normal depart vacant double dice just merry
   man already
 bip_39_word_space_2: middle quiz
 bip_39_word_space_3: middle quiz off
-bip_39_word_space_4: middle quiz off normal
-bip_39_word_space_5: middle quiz off normal depart
-bip_39_word_space_6: middle quiz off normal depart vacant
-bip_39_word_space_7: middle quiz off normal depart vacant double
-bip_39_word_space_8: middle quiz off normal depart vacant double dice
-bip_39_word_space_9: middle quiz off normal depart vacant double dice just
-bip_39_word_underscore_1: middle
-bip_39_word_underscore_10: middle_quiz_off_normal_depart_vacant_double_dice_just_merry
-bip_39_word_underscore_11: middle_quiz_off_normal_depart_vacant_double_dice_just_merry_man
 bip_39_word_underscore_12: middle_quiz_off_normal_depart_vacant_double_dice_just_merry_man_already
 bip_39_word_underscore_2: middle_quiz
 bip_39_word_underscore_3: middle_quiz_off
-bip_39_word_underscore_4: middle_quiz_off_normal
-bip_39_word_underscore_5: middle_quiz_off_normal_depart
-bip_39_word_underscore_6: middle_quiz_off_normal_depart_vacant
-bip_39_word_underscore_7: middle_quiz_off_normal_depart_vacant_double
-bip_39_word_underscore_8: middle_quiz_off_normal_depart_vacant_double_dice
-bip_39_word_underscore_9: middle_quiz_off_normal_depart_vacant_double_dice_just
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

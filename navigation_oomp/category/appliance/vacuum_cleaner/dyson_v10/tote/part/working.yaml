@@ -1,68 +1,9 @@
-bip_39_word_dash_1: street
-bip_39_word_dash_10: street-host-stone-acid-casual-tank-auction-mirror-ketchup-danger
-bip_39_word_dash_11: street-host-stone-acid-casual-tank-auction-mirror-ketchup-danger-moral
 bip_39_word_dash_12: street-host-stone-acid-casual-tank-auction-mirror-ketchup-danger-moral-arch
 bip_39_word_dash_2: street-host
 bip_39_word_dash_3: street-host-stone
-bip_39_word_dash_4: street-host-stone-acid
-bip_39_word_dash_5: street-host-stone-acid-casual
-bip_39_word_dash_6: street-host-stone-acid-casual-tank
-bip_39_word_dash_7: street-host-stone-acid-casual-tank-auction
-bip_39_word_dash_8: street-host-stone-acid-casual-tank-auction-mirror
-bip_39_word_dash_9: street-host-stone-acid-casual-tank-auction-mirror-ketchup
-bip_39_word_new_br_1: street
-bip_39_word_new_br_10: street<br>host<br>stone<br>acid<br>casual<br>tank<br>auction<br>mirror<br>ketchup<br>danger
-bip_39_word_new_br_11: street<br>host<br>stone<br>acid<br>casual<br>tank<br>auction<br>mirror<br>ketchup<br>danger<br>moral
 bip_39_word_new_br_12: street<br>host<br>stone<br>acid<br>casual<br>tank<br>auction<br>mirror<br>ketchup<br>danger<br>moral<br>arch
 bip_39_word_new_br_2: street<br>host
 bip_39_word_new_br_3: street<br>host<br>stone
-bip_39_word_new_br_4: street<br>host<br>stone<br>acid
-bip_39_word_new_br_5: street<br>host<br>stone<br>acid<br>casual
-bip_39_word_new_br_6: street<br>host<br>stone<br>acid<br>casual<br>tank
-bip_39_word_new_br_7: street<br>host<br>stone<br>acid<br>casual<br>tank<br>auction
-bip_39_word_new_br_8: street<br>host<br>stone<br>acid<br>casual<br>tank<br>auction<br>mirror
-bip_39_word_new_br_9: street<br>host<br>stone<br>acid<br>casual<br>tank<br>auction<br>mirror<br>ketchup
-bip_39_word_new_line_1: street
-bip_39_word_new_line_10: 'street
-
-  host
-
-  stone
-
-  acid
-
-  casual
-
-  tank
-
-  auction
-
-  mirror
-
-  ketchup
-
-  danger'
-bip_39_word_new_line_11: 'street
-
-  host
-
-  stone
-
-  acid
-
-  casual
-
-  tank
-
-  auction
-
-  mirror
-
-  ketchup
-
-  danger
-
-  moral'
 bip_39_word_new_line_12: 'street
 
   host
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'street
   host
 
   stone'
-bip_39_word_new_line_4: 'street
-
-  host
-
-  stone
-
-  acid'
-bip_39_word_new_line_5: 'street
-
-  host
-
-  stone
-
-  acid
-
-  casual'
-bip_39_word_new_line_6: 'street
-
-  host
-
-  stone
-
-  acid
-
-  casual
-
-  tank'
-bip_39_word_new_line_7: 'street
-
-  host
-
-  stone
-
-  acid
-
-  casual
-
-  tank
-
-  auction'
-bip_39_word_new_line_8: 'street
-
-  host
-
-  stone
-
-  acid
-
-  casual
-
-  tank
-
-  auction
-
-  mirror'
-bip_39_word_new_line_9: 'street
-
-  host
-
-  stone
-
-  acid
-
-  casual
-
-  tank
-
-  auction
-
-  mirror
-
-  ketchup'
-bip_39_word_no_space_1: street
-bip_39_word_no_space_10: streethoststoneacidcasualtankauctionmirrorketchupdanger
-bip_39_word_no_space_11: streethoststoneacidcasualtankauctionmirrorketchupdangermoral
 bip_39_word_no_space_12: streethoststoneacidcasualtankauctionmirrorketchupdangermoralarch
 bip_39_word_no_space_2: streethost
 bip_39_word_no_space_3: streethoststone
-bip_39_word_no_space_4: streethoststoneacid
-bip_39_word_no_space_5: streethoststoneacidcasual
-bip_39_word_no_space_6: streethoststoneacidcasualtank
-bip_39_word_no_space_7: streethoststoneacidcasualtankauction
-bip_39_word_no_space_8: streethoststoneacidcasualtankauctionmirror
-bip_39_word_no_space_9: streethoststoneacidcasualtankauctionmirrorketchup
-bip_39_word_space_0:
-- street
-- host
-- stone
-- acid
-- casual
-- tank
-- auction
-- mirror
-- ketchup
-- danger
-- moral
-- arch
-bip_39_word_space_1: street
-bip_39_word_space_10: street host stone acid casual tank auction mirror ketchup danger
-bip_39_word_space_11: street host stone acid casual tank auction mirror ketchup danger
-  moral
 bip_39_word_space_12: street host stone acid casual tank auction mirror ketchup danger
   moral arch
 bip_39_word_space_2: street host
 bip_39_word_space_3: street host stone
-bip_39_word_space_4: street host stone acid
-bip_39_word_space_5: street host stone acid casual
-bip_39_word_space_6: street host stone acid casual tank
-bip_39_word_space_7: street host stone acid casual tank auction
-bip_39_word_space_8: street host stone acid casual tank auction mirror
-bip_39_word_space_9: street host stone acid casual tank auction mirror ketchup
-bip_39_word_underscore_1: street
-bip_39_word_underscore_10: street_host_stone_acid_casual_tank_auction_mirror_ketchup_danger
-bip_39_word_underscore_11: street_host_stone_acid_casual_tank_auction_mirror_ketchup_danger_moral
 bip_39_word_underscore_12: street_host_stone_acid_casual_tank_auction_mirror_ketchup_danger_moral_arch
 bip_39_word_underscore_2: street_host
 bip_39_word_underscore_3: street_host_stone
-bip_39_word_underscore_4: street_host_stone_acid
-bip_39_word_underscore_5: street_host_stone_acid_casual
-bip_39_word_underscore_6: street_host_stone_acid_casual_tank
-bip_39_word_underscore_7: street_host_stone_acid_casual_tank_auction
-bip_39_word_underscore_8: street_host_stone_acid_casual_tank_auction_mirror
-bip_39_word_underscore_9: street_host_stone_acid_casual_tank_auction_mirror_ketchup
 classification: category
 classification_capital: Category
 classification_first_letter: c

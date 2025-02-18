@@ -1,68 +1,9 @@
-bip_39_word_dash_1: novel
-bip_39_word_dash_10: novel-movie-witness-phrase-foam-foam-zebra-track-elbow-guilt
-bip_39_word_dash_11: novel-movie-witness-phrase-foam-foam-zebra-track-elbow-guilt-manual
 bip_39_word_dash_12: novel-movie-witness-phrase-foam-foam-zebra-track-elbow-guilt-manual-attitude
 bip_39_word_dash_2: novel-movie
 bip_39_word_dash_3: novel-movie-witness
-bip_39_word_dash_4: novel-movie-witness-phrase
-bip_39_word_dash_5: novel-movie-witness-phrase-foam
-bip_39_word_dash_6: novel-movie-witness-phrase-foam-foam
-bip_39_word_dash_7: novel-movie-witness-phrase-foam-foam-zebra
-bip_39_word_dash_8: novel-movie-witness-phrase-foam-foam-zebra-track
-bip_39_word_dash_9: novel-movie-witness-phrase-foam-foam-zebra-track-elbow
-bip_39_word_new_br_1: novel
-bip_39_word_new_br_10: novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track<br>elbow<br>guilt
-bip_39_word_new_br_11: novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track<br>elbow<br>guilt<br>manual
 bip_39_word_new_br_12: novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track<br>elbow<br>guilt<br>manual<br>attitude
 bip_39_word_new_br_2: novel<br>movie
 bip_39_word_new_br_3: novel<br>movie<br>witness
-bip_39_word_new_br_4: novel<br>movie<br>witness<br>phrase
-bip_39_word_new_br_5: novel<br>movie<br>witness<br>phrase<br>foam
-bip_39_word_new_br_6: novel<br>movie<br>witness<br>phrase<br>foam<br>foam
-bip_39_word_new_br_7: novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra
-bip_39_word_new_br_8: novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track
-bip_39_word_new_br_9: novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track<br>elbow
-bip_39_word_new_line_1: novel
-bip_39_word_new_line_10: 'novel
-
-  movie
-
-  witness
-
-  phrase
-
-  foam
-
-  foam
-
-  zebra
-
-  track
-
-  elbow
-
-  guilt'
-bip_39_word_new_line_11: 'novel
-
-  movie
-
-  witness
-
-  phrase
-
-  foam
-
-  foam
-
-  zebra
-
-  track
-
-  elbow
-
-  guilt
-
-  manual'
 bip_39_word_new_line_12: 'novel
 
   movie
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'novel
   movie
 
   witness'
-bip_39_word_new_line_4: 'novel
-
-  movie
-
-  witness
-
-  phrase'
-bip_39_word_new_line_5: 'novel
-
-  movie
-
-  witness
-
-  phrase
-
-  foam'
-bip_39_word_new_line_6: 'novel
-
-  movie
-
-  witness
-
-  phrase
-
-  foam
-
-  foam'
-bip_39_word_new_line_7: 'novel
-
-  movie
-
-  witness
-
-  phrase
-
-  foam
-
-  foam
-
-  zebra'
-bip_39_word_new_line_8: 'novel
-
-  movie
-
-  witness
-
-  phrase
-
-  foam
-
-  foam
-
-  zebra
-
-  track'
-bip_39_word_new_line_9: 'novel
-
-  movie
-
-  witness
-
-  phrase
-
-  foam
-
-  foam
-
-  zebra
-
-  track
-
-  elbow'
-bip_39_word_no_space_1: novel
-bip_39_word_no_space_10: novelmoviewitnessphrasefoamfoamzebratrackelbowguilt
-bip_39_word_no_space_11: novelmoviewitnessphrasefoamfoamzebratrackelbowguiltmanual
 bip_39_word_no_space_12: novelmoviewitnessphrasefoamfoamzebratrackelbowguiltmanualattitude
 bip_39_word_no_space_2: novelmovie
 bip_39_word_no_space_3: novelmoviewitness
-bip_39_word_no_space_4: novelmoviewitnessphrase
-bip_39_word_no_space_5: novelmoviewitnessphrasefoam
-bip_39_word_no_space_6: novelmoviewitnessphrasefoamfoam
-bip_39_word_no_space_7: novelmoviewitnessphrasefoamfoamzebra
-bip_39_word_no_space_8: novelmoviewitnessphrasefoamfoamzebratrack
-bip_39_word_no_space_9: novelmoviewitnessphrasefoamfoamzebratrackelbow
-bip_39_word_space_0:
-- novel
-- movie
-- witness
-- phrase
-- foam
-- foam
-- zebra
-- track
-- elbow
-- guilt
-- manual
-- attitude
-bip_39_word_space_1: novel
-bip_39_word_space_10: novel movie witness phrase foam foam zebra track elbow guilt
-bip_39_word_space_11: novel movie witness phrase foam foam zebra track elbow guilt
-  manual
 bip_39_word_space_12: novel movie witness phrase foam foam zebra track elbow guilt
   manual attitude
 bip_39_word_space_2: novel movie
 bip_39_word_space_3: novel movie witness
-bip_39_word_space_4: novel movie witness phrase
-bip_39_word_space_5: novel movie witness phrase foam
-bip_39_word_space_6: novel movie witness phrase foam foam
-bip_39_word_space_7: novel movie witness phrase foam foam zebra
-bip_39_word_space_8: novel movie witness phrase foam foam zebra track
-bip_39_word_space_9: novel movie witness phrase foam foam zebra track elbow
-bip_39_word_underscore_1: novel
-bip_39_word_underscore_10: novel_movie_witness_phrase_foam_foam_zebra_track_elbow_guilt
-bip_39_word_underscore_11: novel_movie_witness_phrase_foam_foam_zebra_track_elbow_guilt_manual
 bip_39_word_underscore_12: novel_movie_witness_phrase_foam_foam_zebra_track_elbow_guilt_manual_attitude
 bip_39_word_underscore_2: novel_movie
 bip_39_word_underscore_3: novel_movie_witness
-bip_39_word_underscore_4: novel_movie_witness_phrase
-bip_39_word_underscore_5: novel_movie_witness_phrase_foam
-bip_39_word_underscore_6: novel_movie_witness_phrase_foam_foam
-bip_39_word_underscore_7: novel_movie_witness_phrase_foam_foam_zebra
-bip_39_word_underscore_8: novel_movie_witness_phrase_foam_foam_zebra_track
-bip_39_word_underscore_9: novel_movie_witness_phrase_foam_foam_zebra_track_elbow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pattern
-bip_39_word_dash_10: pattern-jump-behave-main-muscle-kite-fever-utility-amazing-cereal
-bip_39_word_dash_11: pattern-jump-behave-main-muscle-kite-fever-utility-amazing-cereal-april
 bip_39_word_dash_12: pattern-jump-behave-main-muscle-kite-fever-utility-amazing-cereal-april-apple
 bip_39_word_dash_2: pattern-jump
 bip_39_word_dash_3: pattern-jump-behave
-bip_39_word_dash_4: pattern-jump-behave-main
-bip_39_word_dash_5: pattern-jump-behave-main-muscle
-bip_39_word_dash_6: pattern-jump-behave-main-muscle-kite
-bip_39_word_dash_7: pattern-jump-behave-main-muscle-kite-fever
-bip_39_word_dash_8: pattern-jump-behave-main-muscle-kite-fever-utility
-bip_39_word_dash_9: pattern-jump-behave-main-muscle-kite-fever-utility-amazing
-bip_39_word_new_br_1: pattern
-bip_39_word_new_br_10: pattern<br>jump<br>behave<br>main<br>muscle<br>kite<br>fever<br>utility<br>amazing<br>cereal
-bip_39_word_new_br_11: pattern<br>jump<br>behave<br>main<br>muscle<br>kite<br>fever<br>utility<br>amazing<br>cereal<br>april
 bip_39_word_new_br_12: pattern<br>jump<br>behave<br>main<br>muscle<br>kite<br>fever<br>utility<br>amazing<br>cereal<br>april<br>apple
 bip_39_word_new_br_2: pattern<br>jump
 bip_39_word_new_br_3: pattern<br>jump<br>behave
-bip_39_word_new_br_4: pattern<br>jump<br>behave<br>main
-bip_39_word_new_br_5: pattern<br>jump<br>behave<br>main<br>muscle
-bip_39_word_new_br_6: pattern<br>jump<br>behave<br>main<br>muscle<br>kite
-bip_39_word_new_br_7: pattern<br>jump<br>behave<br>main<br>muscle<br>kite<br>fever
-bip_39_word_new_br_8: pattern<br>jump<br>behave<br>main<br>muscle<br>kite<br>fever<br>utility
-bip_39_word_new_br_9: pattern<br>jump<br>behave<br>main<br>muscle<br>kite<br>fever<br>utility<br>amazing
-bip_39_word_new_line_1: pattern
-bip_39_word_new_line_10: 'pattern
-
-  jump
-
-  behave
-
-  main
-
-  muscle
-
-  kite
-
-  fever
-
-  utility
-
-  amazing
-
-  cereal'
-bip_39_word_new_line_11: 'pattern
-
-  jump
-
-  behave
-
-  main
-
-  muscle
-
-  kite
-
-  fever
-
-  utility
-
-  amazing
-
-  cereal
-
-  april'
 bip_39_word_new_line_12: 'pattern
 
   jump
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pattern
   jump
 
   behave'
-bip_39_word_new_line_4: 'pattern
-
-  jump
-
-  behave
-
-  main'
-bip_39_word_new_line_5: 'pattern
-
-  jump
-
-  behave
-
-  main
-
-  muscle'
-bip_39_word_new_line_6: 'pattern
-
-  jump
-
-  behave
-
-  main
-
-  muscle
-
-  kite'
-bip_39_word_new_line_7: 'pattern
-
-  jump
-
-  behave
-
-  main
-
-  muscle
-
-  kite
-
-  fever'
-bip_39_word_new_line_8: 'pattern
-
-  jump
-
-  behave
-
-  main
-
-  muscle
-
-  kite
-
-  fever
-
-  utility'
-bip_39_word_new_line_9: 'pattern
-
-  jump
-
-  behave
-
-  main
-
-  muscle
-
-  kite
-
-  fever
-
-  utility
-
-  amazing'
-bip_39_word_no_space_1: pattern
-bip_39_word_no_space_10: patternjumpbehavemainmusclekitefeverutilityamazingcereal
-bip_39_word_no_space_11: patternjumpbehavemainmusclekitefeverutilityamazingcerealapril
 bip_39_word_no_space_12: patternjumpbehavemainmusclekitefeverutilityamazingcerealaprilapple
 bip_39_word_no_space_2: patternjump
 bip_39_word_no_space_3: patternjumpbehave
-bip_39_word_no_space_4: patternjumpbehavemain
-bip_39_word_no_space_5: patternjumpbehavemainmuscle
-bip_39_word_no_space_6: patternjumpbehavemainmusclekite
-bip_39_word_no_space_7: patternjumpbehavemainmusclekitefever
-bip_39_word_no_space_8: patternjumpbehavemainmusclekitefeverutility
-bip_39_word_no_space_9: patternjumpbehavemainmusclekitefeverutilityamazing
-bip_39_word_space_0:
-- pattern
-- jump
-- behave
-- main
-- muscle
-- kite
-- fever
-- utility
-- amazing
-- cereal
-- april
-- apple
-bip_39_word_space_1: pattern
-bip_39_word_space_10: pattern jump behave main muscle kite fever utility amazing cereal
-bip_39_word_space_11: pattern jump behave main muscle kite fever utility amazing cereal
-  april
 bip_39_word_space_12: pattern jump behave main muscle kite fever utility amazing cereal
   april apple
 bip_39_word_space_2: pattern jump
 bip_39_word_space_3: pattern jump behave
-bip_39_word_space_4: pattern jump behave main
-bip_39_word_space_5: pattern jump behave main muscle
-bip_39_word_space_6: pattern jump behave main muscle kite
-bip_39_word_space_7: pattern jump behave main muscle kite fever
-bip_39_word_space_8: pattern jump behave main muscle kite fever utility
-bip_39_word_space_9: pattern jump behave main muscle kite fever utility amazing
-bip_39_word_underscore_1: pattern
-bip_39_word_underscore_10: pattern_jump_behave_main_muscle_kite_fever_utility_amazing_cereal
-bip_39_word_underscore_11: pattern_jump_behave_main_muscle_kite_fever_utility_amazing_cereal_april
 bip_39_word_underscore_12: pattern_jump_behave_main_muscle_kite_fever_utility_amazing_cereal_april_apple
 bip_39_word_underscore_2: pattern_jump
 bip_39_word_underscore_3: pattern_jump_behave
-bip_39_word_underscore_4: pattern_jump_behave_main
-bip_39_word_underscore_5: pattern_jump_behave_main_muscle
-bip_39_word_underscore_6: pattern_jump_behave_main_muscle_kite
-bip_39_word_underscore_7: pattern_jump_behave_main_muscle_kite_fever
-bip_39_word_underscore_8: pattern_jump_behave_main_muscle_kite_fever_utility
-bip_39_word_underscore_9: pattern_jump_behave_main_muscle_kite_fever_utility_amazing
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

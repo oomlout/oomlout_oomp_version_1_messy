@@ -1,68 +1,9 @@
-bip_39_word_dash_1: apple
-bip_39_word_dash_10: apple-abuse-butter-damp-coyote-reopen-mom-lion-measure-boost
-bip_39_word_dash_11: apple-abuse-butter-damp-coyote-reopen-mom-lion-measure-boost-smart
 bip_39_word_dash_12: apple-abuse-butter-damp-coyote-reopen-mom-lion-measure-boost-smart-already
 bip_39_word_dash_2: apple-abuse
 bip_39_word_dash_3: apple-abuse-butter
-bip_39_word_dash_4: apple-abuse-butter-damp
-bip_39_word_dash_5: apple-abuse-butter-damp-coyote
-bip_39_word_dash_6: apple-abuse-butter-damp-coyote-reopen
-bip_39_word_dash_7: apple-abuse-butter-damp-coyote-reopen-mom
-bip_39_word_dash_8: apple-abuse-butter-damp-coyote-reopen-mom-lion
-bip_39_word_dash_9: apple-abuse-butter-damp-coyote-reopen-mom-lion-measure
-bip_39_word_new_br_1: apple
-bip_39_word_new_br_10: apple<br>abuse<br>butter<br>damp<br>coyote<br>reopen<br>mom<br>lion<br>measure<br>boost
-bip_39_word_new_br_11: apple<br>abuse<br>butter<br>damp<br>coyote<br>reopen<br>mom<br>lion<br>measure<br>boost<br>smart
 bip_39_word_new_br_12: apple<br>abuse<br>butter<br>damp<br>coyote<br>reopen<br>mom<br>lion<br>measure<br>boost<br>smart<br>already
 bip_39_word_new_br_2: apple<br>abuse
 bip_39_word_new_br_3: apple<br>abuse<br>butter
-bip_39_word_new_br_4: apple<br>abuse<br>butter<br>damp
-bip_39_word_new_br_5: apple<br>abuse<br>butter<br>damp<br>coyote
-bip_39_word_new_br_6: apple<br>abuse<br>butter<br>damp<br>coyote<br>reopen
-bip_39_word_new_br_7: apple<br>abuse<br>butter<br>damp<br>coyote<br>reopen<br>mom
-bip_39_word_new_br_8: apple<br>abuse<br>butter<br>damp<br>coyote<br>reopen<br>mom<br>lion
-bip_39_word_new_br_9: apple<br>abuse<br>butter<br>damp<br>coyote<br>reopen<br>mom<br>lion<br>measure
-bip_39_word_new_line_1: apple
-bip_39_word_new_line_10: 'apple
-
-  abuse
-
-  butter
-
-  damp
-
-  coyote
-
-  reopen
-
-  mom
-
-  lion
-
-  measure
-
-  boost'
-bip_39_word_new_line_11: 'apple
-
-  abuse
-
-  butter
-
-  damp
-
-  coyote
-
-  reopen
-
-  mom
-
-  lion
-
-  measure
-
-  boost
-
-  smart'
 bip_39_word_new_line_12: 'apple
 
   abuse
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'apple
   abuse
 
   butter'
-bip_39_word_new_line_4: 'apple
-
-  abuse
-
-  butter
-
-  damp'
-bip_39_word_new_line_5: 'apple
-
-  abuse
-
-  butter
-
-  damp
-
-  coyote'
-bip_39_word_new_line_6: 'apple
-
-  abuse
-
-  butter
-
-  damp
-
-  coyote
-
-  reopen'
-bip_39_word_new_line_7: 'apple
-
-  abuse
-
-  butter
-
-  damp
-
-  coyote
-
-  reopen
-
-  mom'
-bip_39_word_new_line_8: 'apple
-
-  abuse
-
-  butter
-
-  damp
-
-  coyote
-
-  reopen
-
-  mom
-
-  lion'
-bip_39_word_new_line_9: 'apple
-
-  abuse
-
-  butter
-
-  damp
-
-  coyote
-
-  reopen
-
-  mom
-
-  lion
-
-  measure'
-bip_39_word_no_space_1: apple
-bip_39_word_no_space_10: appleabusebutterdampcoyotereopenmomlionmeasureboost
-bip_39_word_no_space_11: appleabusebutterdampcoyotereopenmomlionmeasureboostsmart
 bip_39_word_no_space_12: appleabusebutterdampcoyotereopenmomlionmeasureboostsmartalready
 bip_39_word_no_space_2: appleabuse
 bip_39_word_no_space_3: appleabusebutter
-bip_39_word_no_space_4: appleabusebutterdamp
-bip_39_word_no_space_5: appleabusebutterdampcoyote
-bip_39_word_no_space_6: appleabusebutterdampcoyotereopen
-bip_39_word_no_space_7: appleabusebutterdampcoyotereopenmom
-bip_39_word_no_space_8: appleabusebutterdampcoyotereopenmomlion
-bip_39_word_no_space_9: appleabusebutterdampcoyotereopenmomlionmeasure
-bip_39_word_space_0:
-- apple
-- abuse
-- butter
-- damp
-- coyote
-- reopen
-- mom
-- lion
-- measure
-- boost
-- smart
-- already
-bip_39_word_space_1: apple
-bip_39_word_space_10: apple abuse butter damp coyote reopen mom lion measure boost
-bip_39_word_space_11: apple abuse butter damp coyote reopen mom lion measure boost
-  smart
 bip_39_word_space_12: apple abuse butter damp coyote reopen mom lion measure boost
   smart already
 bip_39_word_space_2: apple abuse
 bip_39_word_space_3: apple abuse butter
-bip_39_word_space_4: apple abuse butter damp
-bip_39_word_space_5: apple abuse butter damp coyote
-bip_39_word_space_6: apple abuse butter damp coyote reopen
-bip_39_word_space_7: apple abuse butter damp coyote reopen mom
-bip_39_word_space_8: apple abuse butter damp coyote reopen mom lion
-bip_39_word_space_9: apple abuse butter damp coyote reopen mom lion measure
-bip_39_word_underscore_1: apple
-bip_39_word_underscore_10: apple_abuse_butter_damp_coyote_reopen_mom_lion_measure_boost
-bip_39_word_underscore_11: apple_abuse_butter_damp_coyote_reopen_mom_lion_measure_boost_smart
 bip_39_word_underscore_12: apple_abuse_butter_damp_coyote_reopen_mom_lion_measure_boost_smart_already
 bip_39_word_underscore_2: apple_abuse
 bip_39_word_underscore_3: apple_abuse_butter
-bip_39_word_underscore_4: apple_abuse_butter_damp
-bip_39_word_underscore_5: apple_abuse_butter_damp_coyote
-bip_39_word_underscore_6: apple_abuse_butter_damp_coyote_reopen
-bip_39_word_underscore_7: apple_abuse_butter_damp_coyote_reopen_mom
-bip_39_word_underscore_8: apple_abuse_butter_damp_coyote_reopen_mom_lion
-bip_39_word_underscore_9: apple_abuse_butter_damp_coyote_reopen_mom_lion_measure
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

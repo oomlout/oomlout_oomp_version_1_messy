@@ -1,68 +1,9 @@
-bip_39_word_dash_1: local
-bip_39_word_dash_10: local-wrap-lock-just-wolf-electric-photo-depend-match-media
-bip_39_word_dash_11: local-wrap-lock-just-wolf-electric-photo-depend-match-media-hedgehog
 bip_39_word_dash_12: local-wrap-lock-just-wolf-electric-photo-depend-match-media-hedgehog-abuse
 bip_39_word_dash_2: local-wrap
 bip_39_word_dash_3: local-wrap-lock
-bip_39_word_dash_4: local-wrap-lock-just
-bip_39_word_dash_5: local-wrap-lock-just-wolf
-bip_39_word_dash_6: local-wrap-lock-just-wolf-electric
-bip_39_word_dash_7: local-wrap-lock-just-wolf-electric-photo
-bip_39_word_dash_8: local-wrap-lock-just-wolf-electric-photo-depend
-bip_39_word_dash_9: local-wrap-lock-just-wolf-electric-photo-depend-match
-bip_39_word_new_br_1: local
-bip_39_word_new_br_10: local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend<br>match<br>media
-bip_39_word_new_br_11: local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend<br>match<br>media<br>hedgehog
 bip_39_word_new_br_12: local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend<br>match<br>media<br>hedgehog<br>abuse
 bip_39_word_new_br_2: local<br>wrap
 bip_39_word_new_br_3: local<br>wrap<br>lock
-bip_39_word_new_br_4: local<br>wrap<br>lock<br>just
-bip_39_word_new_br_5: local<br>wrap<br>lock<br>just<br>wolf
-bip_39_word_new_br_6: local<br>wrap<br>lock<br>just<br>wolf<br>electric
-bip_39_word_new_br_7: local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo
-bip_39_word_new_br_8: local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend
-bip_39_word_new_br_9: local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend<br>match
-bip_39_word_new_line_1: local
-bip_39_word_new_line_10: 'local
-
-  wrap
-
-  lock
-
-  just
-
-  wolf
-
-  electric
-
-  photo
-
-  depend
-
-  match
-
-  media'
-bip_39_word_new_line_11: 'local
-
-  wrap
-
-  lock
-
-  just
-
-  wolf
-
-  electric
-
-  photo
-
-  depend
-
-  match
-
-  media
-
-  hedgehog'
 bip_39_word_new_line_12: 'local
 
   wrap
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'local
   wrap
 
   lock'
-bip_39_word_new_line_4: 'local
-
-  wrap
-
-  lock
-
-  just'
-bip_39_word_new_line_5: 'local
-
-  wrap
-
-  lock
-
-  just
-
-  wolf'
-bip_39_word_new_line_6: 'local
-
-  wrap
-
-  lock
-
-  just
-
-  wolf
-
-  electric'
-bip_39_word_new_line_7: 'local
-
-  wrap
-
-  lock
-
-  just
-
-  wolf
-
-  electric
-
-  photo'
-bip_39_word_new_line_8: 'local
-
-  wrap
-
-  lock
-
-  just
-
-  wolf
-
-  electric
-
-  photo
-
-  depend'
-bip_39_word_new_line_9: 'local
-
-  wrap
-
-  lock
-
-  just
-
-  wolf
-
-  electric
-
-  photo
-
-  depend
-
-  match'
-bip_39_word_no_space_1: local
-bip_39_word_no_space_10: localwraplockjustwolfelectricphotodependmatchmedia
-bip_39_word_no_space_11: localwraplockjustwolfelectricphotodependmatchmediahedgehog
 bip_39_word_no_space_12: localwraplockjustwolfelectricphotodependmatchmediahedgehogabuse
 bip_39_word_no_space_2: localwrap
 bip_39_word_no_space_3: localwraplock
-bip_39_word_no_space_4: localwraplockjust
-bip_39_word_no_space_5: localwraplockjustwolf
-bip_39_word_no_space_6: localwraplockjustwolfelectric
-bip_39_word_no_space_7: localwraplockjustwolfelectricphoto
-bip_39_word_no_space_8: localwraplockjustwolfelectricphotodepend
-bip_39_word_no_space_9: localwraplockjustwolfelectricphotodependmatch
-bip_39_word_space_0:
-- local
-- wrap
-- lock
-- just
-- wolf
-- electric
-- photo
-- depend
-- match
-- media
-- hedgehog
-- abuse
-bip_39_word_space_1: local
-bip_39_word_space_10: local wrap lock just wolf electric photo depend match media
-bip_39_word_space_11: local wrap lock just wolf electric photo depend match media
-  hedgehog
 bip_39_word_space_12: local wrap lock just wolf electric photo depend match media
   hedgehog abuse
 bip_39_word_space_2: local wrap
 bip_39_word_space_3: local wrap lock
-bip_39_word_space_4: local wrap lock just
-bip_39_word_space_5: local wrap lock just wolf
-bip_39_word_space_6: local wrap lock just wolf electric
-bip_39_word_space_7: local wrap lock just wolf electric photo
-bip_39_word_space_8: local wrap lock just wolf electric photo depend
-bip_39_word_space_9: local wrap lock just wolf electric photo depend match
-bip_39_word_underscore_1: local
-bip_39_word_underscore_10: local_wrap_lock_just_wolf_electric_photo_depend_match_media
-bip_39_word_underscore_11: local_wrap_lock_just_wolf_electric_photo_depend_match_media_hedgehog
 bip_39_word_underscore_12: local_wrap_lock_just_wolf_electric_photo_depend_match_media_hedgehog_abuse
 bip_39_word_underscore_2: local_wrap
 bip_39_word_underscore_3: local_wrap_lock
-bip_39_word_underscore_4: local_wrap_lock_just
-bip_39_word_underscore_5: local_wrap_lock_just_wolf
-bip_39_word_underscore_6: local_wrap_lock_just_wolf_electric
-bip_39_word_underscore_7: local_wrap_lock_just_wolf_electric_photo
-bip_39_word_underscore_8: local_wrap_lock_just_wolf_electric_photo_depend
-bip_39_word_underscore_9: local_wrap_lock_just_wolf_electric_photo_depend_match
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

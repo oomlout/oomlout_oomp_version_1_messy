@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shuffle
-bip_39_word_dash_10: shuffle-hood-sea-occur-bullet-pizza-grab-myself-crowd-pumpkin
-bip_39_word_dash_11: shuffle-hood-sea-occur-bullet-pizza-grab-myself-crowd-pumpkin-vocal
 bip_39_word_dash_12: shuffle-hood-sea-occur-bullet-pizza-grab-myself-crowd-pumpkin-vocal-abuse
 bip_39_word_dash_2: shuffle-hood
 bip_39_word_dash_3: shuffle-hood-sea
-bip_39_word_dash_4: shuffle-hood-sea-occur
-bip_39_word_dash_5: shuffle-hood-sea-occur-bullet
-bip_39_word_dash_6: shuffle-hood-sea-occur-bullet-pizza
-bip_39_word_dash_7: shuffle-hood-sea-occur-bullet-pizza-grab
-bip_39_word_dash_8: shuffle-hood-sea-occur-bullet-pizza-grab-myself
-bip_39_word_dash_9: shuffle-hood-sea-occur-bullet-pizza-grab-myself-crowd
-bip_39_word_new_br_1: shuffle
-bip_39_word_new_br_10: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself<br>crowd<br>pumpkin
-bip_39_word_new_br_11: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself<br>crowd<br>pumpkin<br>vocal
 bip_39_word_new_br_12: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself<br>crowd<br>pumpkin<br>vocal<br>abuse
 bip_39_word_new_br_2: shuffle<br>hood
 bip_39_word_new_br_3: shuffle<br>hood<br>sea
-bip_39_word_new_br_4: shuffle<br>hood<br>sea<br>occur
-bip_39_word_new_br_5: shuffle<br>hood<br>sea<br>occur<br>bullet
-bip_39_word_new_br_6: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza
-bip_39_word_new_br_7: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab
-bip_39_word_new_br_8: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself
-bip_39_word_new_br_9: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself<br>crowd
-bip_39_word_new_line_1: shuffle
-bip_39_word_new_line_10: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab
-
-  myself
-
-  crowd
-
-  pumpkin'
-bip_39_word_new_line_11: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab
-
-  myself
-
-  crowd
-
-  pumpkin
-
-  vocal'
 bip_39_word_new_line_12: 'shuffle
 
   hood
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shuffle
   hood
 
   sea'
-bip_39_word_new_line_4: 'shuffle
-
-  hood
-
-  sea
-
-  occur'
-bip_39_word_new_line_5: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet'
-bip_39_word_new_line_6: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza'
-bip_39_word_new_line_7: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab'
-bip_39_word_new_line_8: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab
-
-  myself'
-bip_39_word_new_line_9: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab
-
-  myself
-
-  crowd'
-bip_39_word_no_space_1: shuffle
-bip_39_word_no_space_10: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkin
-bip_39_word_no_space_11: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkinvocal
 bip_39_word_no_space_12: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkinvocalabuse
 bip_39_word_no_space_2: shufflehood
 bip_39_word_no_space_3: shufflehoodsea
-bip_39_word_no_space_4: shufflehoodseaoccur
-bip_39_word_no_space_5: shufflehoodseaoccurbullet
-bip_39_word_no_space_6: shufflehoodseaoccurbulletpizza
-bip_39_word_no_space_7: shufflehoodseaoccurbulletpizzagrab
-bip_39_word_no_space_8: shufflehoodseaoccurbulletpizzagrabmyself
-bip_39_word_no_space_9: shufflehoodseaoccurbulletpizzagrabmyselfcrowd
-bip_39_word_space_0:
-- shuffle
-- hood
-- sea
-- occur
-- bullet
-- pizza
-- grab
-- myself
-- crowd
-- pumpkin
-- vocal
-- abuse
-bip_39_word_space_1: shuffle
-bip_39_word_space_10: shuffle hood sea occur bullet pizza grab myself crowd pumpkin
-bip_39_word_space_11: shuffle hood sea occur bullet pizza grab myself crowd pumpkin
-  vocal
 bip_39_word_space_12: shuffle hood sea occur bullet pizza grab myself crowd pumpkin
   vocal abuse
 bip_39_word_space_2: shuffle hood
 bip_39_word_space_3: shuffle hood sea
-bip_39_word_space_4: shuffle hood sea occur
-bip_39_word_space_5: shuffle hood sea occur bullet
-bip_39_word_space_6: shuffle hood sea occur bullet pizza
-bip_39_word_space_7: shuffle hood sea occur bullet pizza grab
-bip_39_word_space_8: shuffle hood sea occur bullet pizza grab myself
-bip_39_word_space_9: shuffle hood sea occur bullet pizza grab myself crowd
-bip_39_word_underscore_1: shuffle
-bip_39_word_underscore_10: shuffle_hood_sea_occur_bullet_pizza_grab_myself_crowd_pumpkin
-bip_39_word_underscore_11: shuffle_hood_sea_occur_bullet_pizza_grab_myself_crowd_pumpkin_vocal
 bip_39_word_underscore_12: shuffle_hood_sea_occur_bullet_pizza_grab_myself_crowd_pumpkin_vocal_abuse
 bip_39_word_underscore_2: shuffle_hood
 bip_39_word_underscore_3: shuffle_hood_sea
-bip_39_word_underscore_4: shuffle_hood_sea_occur
-bip_39_word_underscore_5: shuffle_hood_sea_occur_bullet
-bip_39_word_underscore_6: shuffle_hood_sea_occur_bullet_pizza
-bip_39_word_underscore_7: shuffle_hood_sea_occur_bullet_pizza_grab
-bip_39_word_underscore_8: shuffle_hood_sea_occur_bullet_pizza_grab_myself
-bip_39_word_underscore_9: shuffle_hood_sea_occur_bullet_pizza_grab_myself_crowd
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

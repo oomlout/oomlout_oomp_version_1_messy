@@ -1,68 +1,9 @@
-bip_39_word_dash_1: zone
-bip_39_word_dash_10: zone-seek-police-foot-lock-produce-unit-school-share-other
-bip_39_word_dash_11: zone-seek-police-foot-lock-produce-unit-school-share-other-aware
 bip_39_word_dash_12: zone-seek-police-foot-lock-produce-unit-school-share-other-aware-air
 bip_39_word_dash_2: zone-seek
 bip_39_word_dash_3: zone-seek-police
-bip_39_word_dash_4: zone-seek-police-foot
-bip_39_word_dash_5: zone-seek-police-foot-lock
-bip_39_word_dash_6: zone-seek-police-foot-lock-produce
-bip_39_word_dash_7: zone-seek-police-foot-lock-produce-unit
-bip_39_word_dash_8: zone-seek-police-foot-lock-produce-unit-school
-bip_39_word_dash_9: zone-seek-police-foot-lock-produce-unit-school-share
-bip_39_word_new_br_1: zone
-bip_39_word_new_br_10: zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other
-bip_39_word_new_br_11: zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other<br>aware
 bip_39_word_new_br_12: zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share<br>other<br>aware<br>air
 bip_39_word_new_br_2: zone<br>seek
 bip_39_word_new_br_3: zone<br>seek<br>police
-bip_39_word_new_br_4: zone<br>seek<br>police<br>foot
-bip_39_word_new_br_5: zone<br>seek<br>police<br>foot<br>lock
-bip_39_word_new_br_6: zone<br>seek<br>police<br>foot<br>lock<br>produce
-bip_39_word_new_br_7: zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit
-bip_39_word_new_br_8: zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school
-bip_39_word_new_br_9: zone<br>seek<br>police<br>foot<br>lock<br>produce<br>unit<br>school<br>share
-bip_39_word_new_line_1: zone
-bip_39_word_new_line_10: 'zone
-
-  seek
-
-  police
-
-  foot
-
-  lock
-
-  produce
-
-  unit
-
-  school
-
-  share
-
-  other'
-bip_39_word_new_line_11: 'zone
-
-  seek
-
-  police
-
-  foot
-
-  lock
-
-  produce
-
-  unit
-
-  school
-
-  share
-
-  other
-
-  aware'
 bip_39_word_new_line_12: 'zone
 
   seek
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'zone
   seek
 
   police'
-bip_39_word_new_line_4: 'zone
-
-  seek
-
-  police
-
-  foot'
-bip_39_word_new_line_5: 'zone
-
-  seek
-
-  police
-
-  foot
-
-  lock'
-bip_39_word_new_line_6: 'zone
-
-  seek
-
-  police
-
-  foot
-
-  lock
-
-  produce'
-bip_39_word_new_line_7: 'zone
-
-  seek
-
-  police
-
-  foot
-
-  lock
-
-  produce
-
-  unit'
-bip_39_word_new_line_8: 'zone
-
-  seek
-
-  police
-
-  foot
-
-  lock
-
-  produce
-
-  unit
-
-  school'
-bip_39_word_new_line_9: 'zone
-
-  seek
-
-  police
-
-  foot
-
-  lock
-
-  produce
-
-  unit
-
-  school
-
-  share'
-bip_39_word_no_space_1: zone
-bip_39_word_no_space_10: zoneseekpolicefootlockproduceunitschoolshareother
-bip_39_word_no_space_11: zoneseekpolicefootlockproduceunitschoolshareotheraware
 bip_39_word_no_space_12: zoneseekpolicefootlockproduceunitschoolshareotherawareair
 bip_39_word_no_space_2: zoneseek
 bip_39_word_no_space_3: zoneseekpolice
-bip_39_word_no_space_4: zoneseekpolicefoot
-bip_39_word_no_space_5: zoneseekpolicefootlock
-bip_39_word_no_space_6: zoneseekpolicefootlockproduce
-bip_39_word_no_space_7: zoneseekpolicefootlockproduceunit
-bip_39_word_no_space_8: zoneseekpolicefootlockproduceunitschool
-bip_39_word_no_space_9: zoneseekpolicefootlockproduceunitschoolshare
-bip_39_word_space_0:
-- zone
-- seek
-- police
-- foot
-- lock
-- produce
-- unit
-- school
-- share
-- other
-- aware
-- air
-bip_39_word_space_1: zone
-bip_39_word_space_10: zone seek police foot lock produce unit school share other
-bip_39_word_space_11: zone seek police foot lock produce unit school share other aware
 bip_39_word_space_12: zone seek police foot lock produce unit school share other aware
   air
 bip_39_word_space_2: zone seek
 bip_39_word_space_3: zone seek police
-bip_39_word_space_4: zone seek police foot
-bip_39_word_space_5: zone seek police foot lock
-bip_39_word_space_6: zone seek police foot lock produce
-bip_39_word_space_7: zone seek police foot lock produce unit
-bip_39_word_space_8: zone seek police foot lock produce unit school
-bip_39_word_space_9: zone seek police foot lock produce unit school share
-bip_39_word_underscore_1: zone
-bip_39_word_underscore_10: zone_seek_police_foot_lock_produce_unit_school_share_other
-bip_39_word_underscore_11: zone_seek_police_foot_lock_produce_unit_school_share_other_aware
 bip_39_word_underscore_12: zone_seek_police_foot_lock_produce_unit_school_share_other_aware_air
 bip_39_word_underscore_2: zone_seek
 bip_39_word_underscore_3: zone_seek_police
-bip_39_word_underscore_4: zone_seek_police_foot
-bip_39_word_underscore_5: zone_seek_police_foot_lock
-bip_39_word_underscore_6: zone_seek_police_foot_lock_produce
-bip_39_word_underscore_7: zone_seek_police_foot_lock_produce_unit
-bip_39_word_underscore_8: zone_seek_police_foot_lock_produce_unit_school
-bip_39_word_underscore_9: zone_seek_police_foot_lock_produce_unit_school_share
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

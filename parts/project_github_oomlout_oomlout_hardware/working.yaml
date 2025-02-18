@@ -1,68 +1,9 @@
-bip_39_word_dash_1: train
-bip_39_word_dash_10: train-chat-fee-squirrel-crack-spend-vessel-cluster-puzzle-range
-bip_39_word_dash_11: train-chat-fee-squirrel-crack-spend-vessel-cluster-puzzle-range-alpha
 bip_39_word_dash_12: train-chat-fee-squirrel-crack-spend-vessel-cluster-puzzle-range-alpha-ability
 bip_39_word_dash_2: train-chat
 bip_39_word_dash_3: train-chat-fee
-bip_39_word_dash_4: train-chat-fee-squirrel
-bip_39_word_dash_5: train-chat-fee-squirrel-crack
-bip_39_word_dash_6: train-chat-fee-squirrel-crack-spend
-bip_39_word_dash_7: train-chat-fee-squirrel-crack-spend-vessel
-bip_39_word_dash_8: train-chat-fee-squirrel-crack-spend-vessel-cluster
-bip_39_word_dash_9: train-chat-fee-squirrel-crack-spend-vessel-cluster-puzzle
-bip_39_word_new_br_1: train
-bip_39_word_new_br_10: train<br>chat<br>fee<br>squirrel<br>crack<br>spend<br>vessel<br>cluster<br>puzzle<br>range
-bip_39_word_new_br_11: train<br>chat<br>fee<br>squirrel<br>crack<br>spend<br>vessel<br>cluster<br>puzzle<br>range<br>alpha
 bip_39_word_new_br_12: train<br>chat<br>fee<br>squirrel<br>crack<br>spend<br>vessel<br>cluster<br>puzzle<br>range<br>alpha<br>ability
 bip_39_word_new_br_2: train<br>chat
 bip_39_word_new_br_3: train<br>chat<br>fee
-bip_39_word_new_br_4: train<br>chat<br>fee<br>squirrel
-bip_39_word_new_br_5: train<br>chat<br>fee<br>squirrel<br>crack
-bip_39_word_new_br_6: train<br>chat<br>fee<br>squirrel<br>crack<br>spend
-bip_39_word_new_br_7: train<br>chat<br>fee<br>squirrel<br>crack<br>spend<br>vessel
-bip_39_word_new_br_8: train<br>chat<br>fee<br>squirrel<br>crack<br>spend<br>vessel<br>cluster
-bip_39_word_new_br_9: train<br>chat<br>fee<br>squirrel<br>crack<br>spend<br>vessel<br>cluster<br>puzzle
-bip_39_word_new_line_1: train
-bip_39_word_new_line_10: 'train
-
-  chat
-
-  fee
-
-  squirrel
-
-  crack
-
-  spend
-
-  vessel
-
-  cluster
-
-  puzzle
-
-  range'
-bip_39_word_new_line_11: 'train
-
-  chat
-
-  fee
-
-  squirrel
-
-  crack
-
-  spend
-
-  vessel
-
-  cluster
-
-  puzzle
-
-  range
-
-  alpha'
 bip_39_word_new_line_12: 'train
 
   chat
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'train
   chat
 
   fee'
-bip_39_word_new_line_4: 'train
-
-  chat
-
-  fee
-
-  squirrel'
-bip_39_word_new_line_5: 'train
-
-  chat
-
-  fee
-
-  squirrel
-
-  crack'
-bip_39_word_new_line_6: 'train
-
-  chat
-
-  fee
-
-  squirrel
-
-  crack
-
-  spend'
-bip_39_word_new_line_7: 'train
-
-  chat
-
-  fee
-
-  squirrel
-
-  crack
-
-  spend
-
-  vessel'
-bip_39_word_new_line_8: 'train
-
-  chat
-
-  fee
-
-  squirrel
-
-  crack
-
-  spend
-
-  vessel
-
-  cluster'
-bip_39_word_new_line_9: 'train
-
-  chat
-
-  fee
-
-  squirrel
-
-  crack
-
-  spend
-
-  vessel
-
-  cluster
-
-  puzzle'
-bip_39_word_no_space_1: train
-bip_39_word_no_space_10: trainchatfeesquirrelcrackspendvesselclusterpuzzlerange
-bip_39_word_no_space_11: trainchatfeesquirrelcrackspendvesselclusterpuzzlerangealpha
 bip_39_word_no_space_12: trainchatfeesquirrelcrackspendvesselclusterpuzzlerangealphaability
 bip_39_word_no_space_2: trainchat
 bip_39_word_no_space_3: trainchatfee
-bip_39_word_no_space_4: trainchatfeesquirrel
-bip_39_word_no_space_5: trainchatfeesquirrelcrack
-bip_39_word_no_space_6: trainchatfeesquirrelcrackspend
-bip_39_word_no_space_7: trainchatfeesquirrelcrackspendvessel
-bip_39_word_no_space_8: trainchatfeesquirrelcrackspendvesselcluster
-bip_39_word_no_space_9: trainchatfeesquirrelcrackspendvesselclusterpuzzle
-bip_39_word_space_0:
-- train
-- chat
-- fee
-- squirrel
-- crack
-- spend
-- vessel
-- cluster
-- puzzle
-- range
-- alpha
-- ability
-bip_39_word_space_1: train
-bip_39_word_space_10: train chat fee squirrel crack spend vessel cluster puzzle range
-bip_39_word_space_11: train chat fee squirrel crack spend vessel cluster puzzle range
-  alpha
 bip_39_word_space_12: train chat fee squirrel crack spend vessel cluster puzzle range
   alpha ability
 bip_39_word_space_2: train chat
 bip_39_word_space_3: train chat fee
-bip_39_word_space_4: train chat fee squirrel
-bip_39_word_space_5: train chat fee squirrel crack
-bip_39_word_space_6: train chat fee squirrel crack spend
-bip_39_word_space_7: train chat fee squirrel crack spend vessel
-bip_39_word_space_8: train chat fee squirrel crack spend vessel cluster
-bip_39_word_space_9: train chat fee squirrel crack spend vessel cluster puzzle
-bip_39_word_underscore_1: train
-bip_39_word_underscore_10: train_chat_fee_squirrel_crack_spend_vessel_cluster_puzzle_range
-bip_39_word_underscore_11: train_chat_fee_squirrel_crack_spend_vessel_cluster_puzzle_range_alpha
 bip_39_word_underscore_12: train_chat_fee_squirrel_crack_spend_vessel_cluster_puzzle_range_alpha_ability
 bip_39_word_underscore_2: train_chat
 bip_39_word_underscore_3: train_chat_fee
-bip_39_word_underscore_4: train_chat_fee_squirrel
-bip_39_word_underscore_5: train_chat_fee_squirrel_crack
-bip_39_word_underscore_6: train_chat_fee_squirrel_crack_spend
-bip_39_word_underscore_7: train_chat_fee_squirrel_crack_spend_vessel
-bip_39_word_underscore_8: train_chat_fee_squirrel_crack_spend_vessel_cluster
-bip_39_word_underscore_9: train_chat_fee_squirrel_crack_spend_vessel_cluster_puzzle
 classification: project
 classification_capital: Project
 classification_first_letter: p

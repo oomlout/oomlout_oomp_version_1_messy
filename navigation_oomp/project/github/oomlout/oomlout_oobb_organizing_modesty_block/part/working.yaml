@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bind
-bip_39_word_dash_10: bind-fetch-bird-void-helmet-reduce-stereo-record-grief-peace
-bip_39_word_dash_11: bind-fetch-bird-void-helmet-reduce-stereo-record-grief-peace-cradle
 bip_39_word_dash_12: bind-fetch-bird-void-helmet-reduce-stereo-record-grief-peace-cradle-august
 bip_39_word_dash_2: bind-fetch
 bip_39_word_dash_3: bind-fetch-bird
-bip_39_word_dash_4: bind-fetch-bird-void
-bip_39_word_dash_5: bind-fetch-bird-void-helmet
-bip_39_word_dash_6: bind-fetch-bird-void-helmet-reduce
-bip_39_word_dash_7: bind-fetch-bird-void-helmet-reduce-stereo
-bip_39_word_dash_8: bind-fetch-bird-void-helmet-reduce-stereo-record
-bip_39_word_dash_9: bind-fetch-bird-void-helmet-reduce-stereo-record-grief
-bip_39_word_new_br_1: bind
-bip_39_word_new_br_10: bind<br>fetch<br>bird<br>void<br>helmet<br>reduce<br>stereo<br>record<br>grief<br>peace
-bip_39_word_new_br_11: bind<br>fetch<br>bird<br>void<br>helmet<br>reduce<br>stereo<br>record<br>grief<br>peace<br>cradle
 bip_39_word_new_br_12: bind<br>fetch<br>bird<br>void<br>helmet<br>reduce<br>stereo<br>record<br>grief<br>peace<br>cradle<br>august
 bip_39_word_new_br_2: bind<br>fetch
 bip_39_word_new_br_3: bind<br>fetch<br>bird
-bip_39_word_new_br_4: bind<br>fetch<br>bird<br>void
-bip_39_word_new_br_5: bind<br>fetch<br>bird<br>void<br>helmet
-bip_39_word_new_br_6: bind<br>fetch<br>bird<br>void<br>helmet<br>reduce
-bip_39_word_new_br_7: bind<br>fetch<br>bird<br>void<br>helmet<br>reduce<br>stereo
-bip_39_word_new_br_8: bind<br>fetch<br>bird<br>void<br>helmet<br>reduce<br>stereo<br>record
-bip_39_word_new_br_9: bind<br>fetch<br>bird<br>void<br>helmet<br>reduce<br>stereo<br>record<br>grief
-bip_39_word_new_line_1: bind
-bip_39_word_new_line_10: 'bind
-
-  fetch
-
-  bird
-
-  void
-
-  helmet
-
-  reduce
-
-  stereo
-
-  record
-
-  grief
-
-  peace'
-bip_39_word_new_line_11: 'bind
-
-  fetch
-
-  bird
-
-  void
-
-  helmet
-
-  reduce
-
-  stereo
-
-  record
-
-  grief
-
-  peace
-
-  cradle'
 bip_39_word_new_line_12: 'bind
 
   fetch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bind
   fetch
 
   bird'
-bip_39_word_new_line_4: 'bind
-
-  fetch
-
-  bird
-
-  void'
-bip_39_word_new_line_5: 'bind
-
-  fetch
-
-  bird
-
-  void
-
-  helmet'
-bip_39_word_new_line_6: 'bind
-
-  fetch
-
-  bird
-
-  void
-
-  helmet
-
-  reduce'
-bip_39_word_new_line_7: 'bind
-
-  fetch
-
-  bird
-
-  void
-
-  helmet
-
-  reduce
-
-  stereo'
-bip_39_word_new_line_8: 'bind
-
-  fetch
-
-  bird
-
-  void
-
-  helmet
-
-  reduce
-
-  stereo
-
-  record'
-bip_39_word_new_line_9: 'bind
-
-  fetch
-
-  bird
-
-  void
-
-  helmet
-
-  reduce
-
-  stereo
-
-  record
-
-  grief'
-bip_39_word_no_space_1: bind
-bip_39_word_no_space_10: bindfetchbirdvoidhelmetreducestereorecordgriefpeace
-bip_39_word_no_space_11: bindfetchbirdvoidhelmetreducestereorecordgriefpeacecradle
 bip_39_word_no_space_12: bindfetchbirdvoidhelmetreducestereorecordgriefpeacecradleaugust
 bip_39_word_no_space_2: bindfetch
 bip_39_word_no_space_3: bindfetchbird
-bip_39_word_no_space_4: bindfetchbirdvoid
-bip_39_word_no_space_5: bindfetchbirdvoidhelmet
-bip_39_word_no_space_6: bindfetchbirdvoidhelmetreduce
-bip_39_word_no_space_7: bindfetchbirdvoidhelmetreducestereo
-bip_39_word_no_space_8: bindfetchbirdvoidhelmetreducestereorecord
-bip_39_word_no_space_9: bindfetchbirdvoidhelmetreducestereorecordgrief
-bip_39_word_space_0:
-- bind
-- fetch
-- bird
-- void
-- helmet
-- reduce
-- stereo
-- record
-- grief
-- peace
-- cradle
-- august
-bip_39_word_space_1: bind
-bip_39_word_space_10: bind fetch bird void helmet reduce stereo record grief peace
-bip_39_word_space_11: bind fetch bird void helmet reduce stereo record grief peace
-  cradle
 bip_39_word_space_12: bind fetch bird void helmet reduce stereo record grief peace
   cradle august
 bip_39_word_space_2: bind fetch
 bip_39_word_space_3: bind fetch bird
-bip_39_word_space_4: bind fetch bird void
-bip_39_word_space_5: bind fetch bird void helmet
-bip_39_word_space_6: bind fetch bird void helmet reduce
-bip_39_word_space_7: bind fetch bird void helmet reduce stereo
-bip_39_word_space_8: bind fetch bird void helmet reduce stereo record
-bip_39_word_space_9: bind fetch bird void helmet reduce stereo record grief
-bip_39_word_underscore_1: bind
-bip_39_word_underscore_10: bind_fetch_bird_void_helmet_reduce_stereo_record_grief_peace
-bip_39_word_underscore_11: bind_fetch_bird_void_helmet_reduce_stereo_record_grief_peace_cradle
 bip_39_word_underscore_12: bind_fetch_bird_void_helmet_reduce_stereo_record_grief_peace_cradle_august
 bip_39_word_underscore_2: bind_fetch
 bip_39_word_underscore_3: bind_fetch_bird
-bip_39_word_underscore_4: bind_fetch_bird_void
-bip_39_word_underscore_5: bind_fetch_bird_void_helmet
-bip_39_word_underscore_6: bind_fetch_bird_void_helmet_reduce
-bip_39_word_underscore_7: bind_fetch_bird_void_helmet_reduce_stereo
-bip_39_word_underscore_8: bind_fetch_bird_void_helmet_reduce_stereo_record
-bip_39_word_underscore_9: bind_fetch_bird_void_helmet_reduce_stereo_record_grief
 classification: project
 classification_capital: Project
 classification_first_letter: p

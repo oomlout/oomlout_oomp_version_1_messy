@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mammal
-bip_39_word_dash_10: mammal-heart-network-situate-enforce-enforce-ability-lobster-cash-embark
-bip_39_word_dash_11: mammal-heart-network-situate-enforce-enforce-ability-lobster-cash-embark-owner
 bip_39_word_dash_12: mammal-heart-network-situate-enforce-enforce-ability-lobster-cash-embark-owner-album
 bip_39_word_dash_2: mammal-heart
 bip_39_word_dash_3: mammal-heart-network
-bip_39_word_dash_4: mammal-heart-network-situate
-bip_39_word_dash_5: mammal-heart-network-situate-enforce
-bip_39_word_dash_6: mammal-heart-network-situate-enforce-enforce
-bip_39_word_dash_7: mammal-heart-network-situate-enforce-enforce-ability
-bip_39_word_dash_8: mammal-heart-network-situate-enforce-enforce-ability-lobster
-bip_39_word_dash_9: mammal-heart-network-situate-enforce-enforce-ability-lobster-cash
-bip_39_word_new_br_1: mammal
-bip_39_word_new_br_10: mammal<br>heart<br>network<br>situate<br>enforce<br>enforce<br>ability<br>lobster<br>cash<br>embark
-bip_39_word_new_br_11: mammal<br>heart<br>network<br>situate<br>enforce<br>enforce<br>ability<br>lobster<br>cash<br>embark<br>owner
 bip_39_word_new_br_12: mammal<br>heart<br>network<br>situate<br>enforce<br>enforce<br>ability<br>lobster<br>cash<br>embark<br>owner<br>album
 bip_39_word_new_br_2: mammal<br>heart
 bip_39_word_new_br_3: mammal<br>heart<br>network
-bip_39_word_new_br_4: mammal<br>heart<br>network<br>situate
-bip_39_word_new_br_5: mammal<br>heart<br>network<br>situate<br>enforce
-bip_39_word_new_br_6: mammal<br>heart<br>network<br>situate<br>enforce<br>enforce
-bip_39_word_new_br_7: mammal<br>heart<br>network<br>situate<br>enforce<br>enforce<br>ability
-bip_39_word_new_br_8: mammal<br>heart<br>network<br>situate<br>enforce<br>enforce<br>ability<br>lobster
-bip_39_word_new_br_9: mammal<br>heart<br>network<br>situate<br>enforce<br>enforce<br>ability<br>lobster<br>cash
-bip_39_word_new_line_1: mammal
-bip_39_word_new_line_10: 'mammal
-
-  heart
-
-  network
-
-  situate
-
-  enforce
-
-  enforce
-
-  ability
-
-  lobster
-
-  cash
-
-  embark'
-bip_39_word_new_line_11: 'mammal
-
-  heart
-
-  network
-
-  situate
-
-  enforce
-
-  enforce
-
-  ability
-
-  lobster
-
-  cash
-
-  embark
-
-  owner'
 bip_39_word_new_line_12: 'mammal
 
   heart
@@ -94,131 +35,16 @@ bip_39_word_new_line_3: 'mammal
   heart
 
   network'
-bip_39_word_new_line_4: 'mammal
-
-  heart
-
-  network
-
-  situate'
-bip_39_word_new_line_5: 'mammal
-
-  heart
-
-  network
-
-  situate
-
-  enforce'
-bip_39_word_new_line_6: 'mammal
-
-  heart
-
-  network
-
-  situate
-
-  enforce
-
-  enforce'
-bip_39_word_new_line_7: 'mammal
-
-  heart
-
-  network
-
-  situate
-
-  enforce
-
-  enforce
-
-  ability'
-bip_39_word_new_line_8: 'mammal
-
-  heart
-
-  network
-
-  situate
-
-  enforce
-
-  enforce
-
-  ability
-
-  lobster'
-bip_39_word_new_line_9: 'mammal
-
-  heart
-
-  network
-
-  situate
-
-  enforce
-
-  enforce
-
-  ability
-
-  lobster
-
-  cash'
-bip_39_word_no_space_1: mammal
-bip_39_word_no_space_10: mammalheartnetworksituateenforceenforceabilitylobstercashembark
-bip_39_word_no_space_11: mammalheartnetworksituateenforceenforceabilitylobstercashembarkowner
 bip_39_word_no_space_12: mammalheartnetworksituateenforceenforceabilitylobstercashembarkowneralbum
 bip_39_word_no_space_2: mammalheart
 bip_39_word_no_space_3: mammalheartnetwork
-bip_39_word_no_space_4: mammalheartnetworksituate
-bip_39_word_no_space_5: mammalheartnetworksituateenforce
-bip_39_word_no_space_6: mammalheartnetworksituateenforceenforce
-bip_39_word_no_space_7: mammalheartnetworksituateenforceenforceability
-bip_39_word_no_space_8: mammalheartnetworksituateenforceenforceabilitylobster
-bip_39_word_no_space_9: mammalheartnetworksituateenforceenforceabilitylobstercash
-bip_39_word_space_0:
-- mammal
-- heart
-- network
-- situate
-- enforce
-- enforce
-- ability
-- lobster
-- cash
-- embark
-- owner
-- album
-bip_39_word_space_1: mammal
-bip_39_word_space_10: mammal heart network situate enforce enforce ability lobster
-  cash embark
-bip_39_word_space_11: mammal heart network situate enforce enforce ability lobster
-  cash embark owner
 bip_39_word_space_12: mammal heart network situate enforce enforce ability lobster
   cash embark owner album
 bip_39_word_space_2: mammal heart
 bip_39_word_space_3: mammal heart network
-bip_39_word_space_4: mammal heart network situate
-bip_39_word_space_5: mammal heart network situate enforce
-bip_39_word_space_6: mammal heart network situate enforce enforce
-bip_39_word_space_7: mammal heart network situate enforce enforce ability
-bip_39_word_space_8: mammal heart network situate enforce enforce ability lobster
-bip_39_word_space_9: mammal heart network situate enforce enforce ability lobster
-  cash
-bip_39_word_underscore_1: mammal
-bip_39_word_underscore_10: mammal_heart_network_situate_enforce_enforce_ability_lobster_cash_embark
-bip_39_word_underscore_11: mammal_heart_network_situate_enforce_enforce_ability_lobster_cash_embark_owner
 bip_39_word_underscore_12: mammal_heart_network_situate_enforce_enforce_ability_lobster_cash_embark_owner_album
 bip_39_word_underscore_2: mammal_heart
 bip_39_word_underscore_3: mammal_heart_network
-bip_39_word_underscore_4: mammal_heart_network_situate
-bip_39_word_underscore_5: mammal_heart_network_situate_enforce
-bip_39_word_underscore_6: mammal_heart_network_situate_enforce_enforce
-bip_39_word_underscore_7: mammal_heart_network_situate_enforce_enforce_ability
-bip_39_word_underscore_8: mammal_heart_network_situate_enforce_enforce_ability_lobster
-bip_39_word_underscore_9: mammal_heart_network_situate_enforce_enforce_ability_lobster_cash
 classification: project
 classification_capital: Project
 classification_first_letter: p

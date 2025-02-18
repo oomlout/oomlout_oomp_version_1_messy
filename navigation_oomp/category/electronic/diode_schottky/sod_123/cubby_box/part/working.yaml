@@ -1,68 +1,9 @@
-bip_39_word_dash_1: parent
-bip_39_word_dash_10: parent-inform-exist-inhale-bean-cinnamon-venture-armor-bulb-buffalo
-bip_39_word_dash_11: parent-inform-exist-inhale-bean-cinnamon-venture-armor-bulb-buffalo-short
 bip_39_word_dash_12: parent-inform-exist-inhale-bean-cinnamon-venture-armor-bulb-buffalo-short-any
 bip_39_word_dash_2: parent-inform
 bip_39_word_dash_3: parent-inform-exist
-bip_39_word_dash_4: parent-inform-exist-inhale
-bip_39_word_dash_5: parent-inform-exist-inhale-bean
-bip_39_word_dash_6: parent-inform-exist-inhale-bean-cinnamon
-bip_39_word_dash_7: parent-inform-exist-inhale-bean-cinnamon-venture
-bip_39_word_dash_8: parent-inform-exist-inhale-bean-cinnamon-venture-armor
-bip_39_word_dash_9: parent-inform-exist-inhale-bean-cinnamon-venture-armor-bulb
-bip_39_word_new_br_1: parent
-bip_39_word_new_br_10: parent<br>inform<br>exist<br>inhale<br>bean<br>cinnamon<br>venture<br>armor<br>bulb<br>buffalo
-bip_39_word_new_br_11: parent<br>inform<br>exist<br>inhale<br>bean<br>cinnamon<br>venture<br>armor<br>bulb<br>buffalo<br>short
 bip_39_word_new_br_12: parent<br>inform<br>exist<br>inhale<br>bean<br>cinnamon<br>venture<br>armor<br>bulb<br>buffalo<br>short<br>any
 bip_39_word_new_br_2: parent<br>inform
 bip_39_word_new_br_3: parent<br>inform<br>exist
-bip_39_word_new_br_4: parent<br>inform<br>exist<br>inhale
-bip_39_word_new_br_5: parent<br>inform<br>exist<br>inhale<br>bean
-bip_39_word_new_br_6: parent<br>inform<br>exist<br>inhale<br>bean<br>cinnamon
-bip_39_word_new_br_7: parent<br>inform<br>exist<br>inhale<br>bean<br>cinnamon<br>venture
-bip_39_word_new_br_8: parent<br>inform<br>exist<br>inhale<br>bean<br>cinnamon<br>venture<br>armor
-bip_39_word_new_br_9: parent<br>inform<br>exist<br>inhale<br>bean<br>cinnamon<br>venture<br>armor<br>bulb
-bip_39_word_new_line_1: parent
-bip_39_word_new_line_10: 'parent
-
-  inform
-
-  exist
-
-  inhale
-
-  bean
-
-  cinnamon
-
-  venture
-
-  armor
-
-  bulb
-
-  buffalo'
-bip_39_word_new_line_11: 'parent
-
-  inform
-
-  exist
-
-  inhale
-
-  bean
-
-  cinnamon
-
-  venture
-
-  armor
-
-  bulb
-
-  buffalo
-
-  short'
 bip_39_word_new_line_12: 'parent
 
   inform
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'parent
   inform
 
   exist'
-bip_39_word_new_line_4: 'parent
-
-  inform
-
-  exist
-
-  inhale'
-bip_39_word_new_line_5: 'parent
-
-  inform
-
-  exist
-
-  inhale
-
-  bean'
-bip_39_word_new_line_6: 'parent
-
-  inform
-
-  exist
-
-  inhale
-
-  bean
-
-  cinnamon'
-bip_39_word_new_line_7: 'parent
-
-  inform
-
-  exist
-
-  inhale
-
-  bean
-
-  cinnamon
-
-  venture'
-bip_39_word_new_line_8: 'parent
-
-  inform
-
-  exist
-
-  inhale
-
-  bean
-
-  cinnamon
-
-  venture
-
-  armor'
-bip_39_word_new_line_9: 'parent
-
-  inform
-
-  exist
-
-  inhale
-
-  bean
-
-  cinnamon
-
-  venture
-
-  armor
-
-  bulb'
-bip_39_word_no_space_1: parent
-bip_39_word_no_space_10: parentinformexistinhalebeancinnamonventurearmorbulbbuffalo
-bip_39_word_no_space_11: parentinformexistinhalebeancinnamonventurearmorbulbbuffaloshort
 bip_39_word_no_space_12: parentinformexistinhalebeancinnamonventurearmorbulbbuffaloshortany
 bip_39_word_no_space_2: parentinform
 bip_39_word_no_space_3: parentinformexist
-bip_39_word_no_space_4: parentinformexistinhale
-bip_39_word_no_space_5: parentinformexistinhalebean
-bip_39_word_no_space_6: parentinformexistinhalebeancinnamon
-bip_39_word_no_space_7: parentinformexistinhalebeancinnamonventure
-bip_39_word_no_space_8: parentinformexistinhalebeancinnamonventurearmor
-bip_39_word_no_space_9: parentinformexistinhalebeancinnamonventurearmorbulb
-bip_39_word_space_0:
-- parent
-- inform
-- exist
-- inhale
-- bean
-- cinnamon
-- venture
-- armor
-- bulb
-- buffalo
-- short
-- any
-bip_39_word_space_1: parent
-bip_39_word_space_10: parent inform exist inhale bean cinnamon venture armor bulb
-  buffalo
-bip_39_word_space_11: parent inform exist inhale bean cinnamon venture armor bulb
-  buffalo short
 bip_39_word_space_12: parent inform exist inhale bean cinnamon venture armor bulb
   buffalo short any
 bip_39_word_space_2: parent inform
 bip_39_word_space_3: parent inform exist
-bip_39_word_space_4: parent inform exist inhale
-bip_39_word_space_5: parent inform exist inhale bean
-bip_39_word_space_6: parent inform exist inhale bean cinnamon
-bip_39_word_space_7: parent inform exist inhale bean cinnamon venture
-bip_39_word_space_8: parent inform exist inhale bean cinnamon venture armor
-bip_39_word_space_9: parent inform exist inhale bean cinnamon venture armor bulb
-bip_39_word_underscore_1: parent
-bip_39_word_underscore_10: parent_inform_exist_inhale_bean_cinnamon_venture_armor_bulb_buffalo
-bip_39_word_underscore_11: parent_inform_exist_inhale_bean_cinnamon_venture_armor_bulb_buffalo_short
 bip_39_word_underscore_12: parent_inform_exist_inhale_bean_cinnamon_venture_armor_bulb_buffalo_short_any
 bip_39_word_underscore_2: parent_inform
 bip_39_word_underscore_3: parent_inform_exist
-bip_39_word_underscore_4: parent_inform_exist_inhale
-bip_39_word_underscore_5: parent_inform_exist_inhale_bean
-bip_39_word_underscore_6: parent_inform_exist_inhale_bean_cinnamon
-bip_39_word_underscore_7: parent_inform_exist_inhale_bean_cinnamon_venture
-bip_39_word_underscore_8: parent_inform_exist_inhale_bean_cinnamon_venture_armor
-bip_39_word_underscore_9: parent_inform_exist_inhale_bean_cinnamon_venture_armor_bulb
 classification: category
 classification_capital: Category
 classification_first_letter: c

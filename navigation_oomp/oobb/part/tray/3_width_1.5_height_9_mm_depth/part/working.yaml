@@ -1,68 +1,9 @@
-bip_39_word_dash_1: zero
-bip_39_word_dash_10: zero-assume-evil-happy-laugh-brick-olive-burden-helmet-shift
-bip_39_word_dash_11: zero-assume-evil-happy-laugh-brick-olive-burden-helmet-shift-stock
 bip_39_word_dash_12: zero-assume-evil-happy-laugh-brick-olive-burden-helmet-shift-stock-arm
 bip_39_word_dash_2: zero-assume
 bip_39_word_dash_3: zero-assume-evil
-bip_39_word_dash_4: zero-assume-evil-happy
-bip_39_word_dash_5: zero-assume-evil-happy-laugh
-bip_39_word_dash_6: zero-assume-evil-happy-laugh-brick
-bip_39_word_dash_7: zero-assume-evil-happy-laugh-brick-olive
-bip_39_word_dash_8: zero-assume-evil-happy-laugh-brick-olive-burden
-bip_39_word_dash_9: zero-assume-evil-happy-laugh-brick-olive-burden-helmet
-bip_39_word_new_br_1: zero
-bip_39_word_new_br_10: zero<br>assume<br>evil<br>happy<br>laugh<br>brick<br>olive<br>burden<br>helmet<br>shift
-bip_39_word_new_br_11: zero<br>assume<br>evil<br>happy<br>laugh<br>brick<br>olive<br>burden<br>helmet<br>shift<br>stock
 bip_39_word_new_br_12: zero<br>assume<br>evil<br>happy<br>laugh<br>brick<br>olive<br>burden<br>helmet<br>shift<br>stock<br>arm
 bip_39_word_new_br_2: zero<br>assume
 bip_39_word_new_br_3: zero<br>assume<br>evil
-bip_39_word_new_br_4: zero<br>assume<br>evil<br>happy
-bip_39_word_new_br_5: zero<br>assume<br>evil<br>happy<br>laugh
-bip_39_word_new_br_6: zero<br>assume<br>evil<br>happy<br>laugh<br>brick
-bip_39_word_new_br_7: zero<br>assume<br>evil<br>happy<br>laugh<br>brick<br>olive
-bip_39_word_new_br_8: zero<br>assume<br>evil<br>happy<br>laugh<br>brick<br>olive<br>burden
-bip_39_word_new_br_9: zero<br>assume<br>evil<br>happy<br>laugh<br>brick<br>olive<br>burden<br>helmet
-bip_39_word_new_line_1: zero
-bip_39_word_new_line_10: 'zero
-
-  assume
-
-  evil
-
-  happy
-
-  laugh
-
-  brick
-
-  olive
-
-  burden
-
-  helmet
-
-  shift'
-bip_39_word_new_line_11: 'zero
-
-  assume
-
-  evil
-
-  happy
-
-  laugh
-
-  brick
-
-  olive
-
-  burden
-
-  helmet
-
-  shift
-
-  stock'
 bip_39_word_new_line_12: 'zero
 
   assume
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'zero
   assume
 
   evil'
-bip_39_word_new_line_4: 'zero
-
-  assume
-
-  evil
-
-  happy'
-bip_39_word_new_line_5: 'zero
-
-  assume
-
-  evil
-
-  happy
-
-  laugh'
-bip_39_word_new_line_6: 'zero
-
-  assume
-
-  evil
-
-  happy
-
-  laugh
-
-  brick'
-bip_39_word_new_line_7: 'zero
-
-  assume
-
-  evil
-
-  happy
-
-  laugh
-
-  brick
-
-  olive'
-bip_39_word_new_line_8: 'zero
-
-  assume
-
-  evil
-
-  happy
-
-  laugh
-
-  brick
-
-  olive
-
-  burden'
-bip_39_word_new_line_9: 'zero
-
-  assume
-
-  evil
-
-  happy
-
-  laugh
-
-  brick
-
-  olive
-
-  burden
-
-  helmet'
-bip_39_word_no_space_1: zero
-bip_39_word_no_space_10: zeroassumeevilhappylaughbrickoliveburdenhelmetshift
-bip_39_word_no_space_11: zeroassumeevilhappylaughbrickoliveburdenhelmetshiftstock
 bip_39_word_no_space_12: zeroassumeevilhappylaughbrickoliveburdenhelmetshiftstockarm
 bip_39_word_no_space_2: zeroassume
 bip_39_word_no_space_3: zeroassumeevil
-bip_39_word_no_space_4: zeroassumeevilhappy
-bip_39_word_no_space_5: zeroassumeevilhappylaugh
-bip_39_word_no_space_6: zeroassumeevilhappylaughbrick
-bip_39_word_no_space_7: zeroassumeevilhappylaughbrickolive
-bip_39_word_no_space_8: zeroassumeevilhappylaughbrickoliveburden
-bip_39_word_no_space_9: zeroassumeevilhappylaughbrickoliveburdenhelmet
-bip_39_word_space_0:
-- zero
-- assume
-- evil
-- happy
-- laugh
-- brick
-- olive
-- burden
-- helmet
-- shift
-- stock
-- arm
-bip_39_word_space_1: zero
-bip_39_word_space_10: zero assume evil happy laugh brick olive burden helmet shift
-bip_39_word_space_11: zero assume evil happy laugh brick olive burden helmet shift
-  stock
 bip_39_word_space_12: zero assume evil happy laugh brick olive burden helmet shift
   stock arm
 bip_39_word_space_2: zero assume
 bip_39_word_space_3: zero assume evil
-bip_39_word_space_4: zero assume evil happy
-bip_39_word_space_5: zero assume evil happy laugh
-bip_39_word_space_6: zero assume evil happy laugh brick
-bip_39_word_space_7: zero assume evil happy laugh brick olive
-bip_39_word_space_8: zero assume evil happy laugh brick olive burden
-bip_39_word_space_9: zero assume evil happy laugh brick olive burden helmet
-bip_39_word_underscore_1: zero
-bip_39_word_underscore_10: zero_assume_evil_happy_laugh_brick_olive_burden_helmet_shift
-bip_39_word_underscore_11: zero_assume_evil_happy_laugh_brick_olive_burden_helmet_shift_stock
 bip_39_word_underscore_12: zero_assume_evil_happy_laugh_brick_olive_burden_helmet_shift_stock_arm
 bip_39_word_underscore_2: zero_assume
 bip_39_word_underscore_3: zero_assume_evil
-bip_39_word_underscore_4: zero_assume_evil_happy
-bip_39_word_underscore_5: zero_assume_evil_happy_laugh
-bip_39_word_underscore_6: zero_assume_evil_happy_laugh_brick
-bip_39_word_underscore_7: zero_assume_evil_happy_laugh_brick_olive
-bip_39_word_underscore_8: zero_assume_evil_happy_laugh_brick_olive_burden
-bip_39_word_underscore_9: zero_assume_evil_happy_laugh_brick_olive_burden_helmet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: electric
-bip_39_word_dash_10: electric-board-motor-mad-street-faith-wet-tomato-daughter-buffalo
-bip_39_word_dash_11: electric-board-motor-mad-street-faith-wet-tomato-daughter-buffalo-rough
 bip_39_word_dash_12: electric-board-motor-mad-street-faith-wet-tomato-daughter-buffalo-rough-already
 bip_39_word_dash_2: electric-board
 bip_39_word_dash_3: electric-board-motor
-bip_39_word_dash_4: electric-board-motor-mad
-bip_39_word_dash_5: electric-board-motor-mad-street
-bip_39_word_dash_6: electric-board-motor-mad-street-faith
-bip_39_word_dash_7: electric-board-motor-mad-street-faith-wet
-bip_39_word_dash_8: electric-board-motor-mad-street-faith-wet-tomato
-bip_39_word_dash_9: electric-board-motor-mad-street-faith-wet-tomato-daughter
-bip_39_word_new_br_1: electric
-bip_39_word_new_br_10: electric<br>board<br>motor<br>mad<br>street<br>faith<br>wet<br>tomato<br>daughter<br>buffalo
-bip_39_word_new_br_11: electric<br>board<br>motor<br>mad<br>street<br>faith<br>wet<br>tomato<br>daughter<br>buffalo<br>rough
 bip_39_word_new_br_12: electric<br>board<br>motor<br>mad<br>street<br>faith<br>wet<br>tomato<br>daughter<br>buffalo<br>rough<br>already
 bip_39_word_new_br_2: electric<br>board
 bip_39_word_new_br_3: electric<br>board<br>motor
-bip_39_word_new_br_4: electric<br>board<br>motor<br>mad
-bip_39_word_new_br_5: electric<br>board<br>motor<br>mad<br>street
-bip_39_word_new_br_6: electric<br>board<br>motor<br>mad<br>street<br>faith
-bip_39_word_new_br_7: electric<br>board<br>motor<br>mad<br>street<br>faith<br>wet
-bip_39_word_new_br_8: electric<br>board<br>motor<br>mad<br>street<br>faith<br>wet<br>tomato
-bip_39_word_new_br_9: electric<br>board<br>motor<br>mad<br>street<br>faith<br>wet<br>tomato<br>daughter
-bip_39_word_new_line_1: electric
-bip_39_word_new_line_10: 'electric
-
-  board
-
-  motor
-
-  mad
-
-  street
-
-  faith
-
-  wet
-
-  tomato
-
-  daughter
-
-  buffalo'
-bip_39_word_new_line_11: 'electric
-
-  board
-
-  motor
-
-  mad
-
-  street
-
-  faith
-
-  wet
-
-  tomato
-
-  daughter
-
-  buffalo
-
-  rough'
 bip_39_word_new_line_12: 'electric
 
   board
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'electric
   board
 
   motor'
-bip_39_word_new_line_4: 'electric
-
-  board
-
-  motor
-
-  mad'
-bip_39_word_new_line_5: 'electric
-
-  board
-
-  motor
-
-  mad
-
-  street'
-bip_39_word_new_line_6: 'electric
-
-  board
-
-  motor
-
-  mad
-
-  street
-
-  faith'
-bip_39_word_new_line_7: 'electric
-
-  board
-
-  motor
-
-  mad
-
-  street
-
-  faith
-
-  wet'
-bip_39_word_new_line_8: 'electric
-
-  board
-
-  motor
-
-  mad
-
-  street
-
-  faith
-
-  wet
-
-  tomato'
-bip_39_word_new_line_9: 'electric
-
-  board
-
-  motor
-
-  mad
-
-  street
-
-  faith
-
-  wet
-
-  tomato
-
-  daughter'
-bip_39_word_no_space_1: electric
-bip_39_word_no_space_10: electricboardmotormadstreetfaithwettomatodaughterbuffalo
-bip_39_word_no_space_11: electricboardmotormadstreetfaithwettomatodaughterbuffalorough
 bip_39_word_no_space_12: electricboardmotormadstreetfaithwettomatodaughterbuffaloroughalready
 bip_39_word_no_space_2: electricboard
 bip_39_word_no_space_3: electricboardmotor
-bip_39_word_no_space_4: electricboardmotormad
-bip_39_word_no_space_5: electricboardmotormadstreet
-bip_39_word_no_space_6: electricboardmotormadstreetfaith
-bip_39_word_no_space_7: electricboardmotormadstreetfaithwet
-bip_39_word_no_space_8: electricboardmotormadstreetfaithwettomato
-bip_39_word_no_space_9: electricboardmotormadstreetfaithwettomatodaughter
-bip_39_word_space_0:
-- electric
-- board
-- motor
-- mad
-- street
-- faith
-- wet
-- tomato
-- daughter
-- buffalo
-- rough
-- already
-bip_39_word_space_1: electric
-bip_39_word_space_10: electric board motor mad street faith wet tomato daughter buffalo
-bip_39_word_space_11: electric board motor mad street faith wet tomato daughter buffalo
-  rough
 bip_39_word_space_12: electric board motor mad street faith wet tomato daughter buffalo
   rough already
 bip_39_word_space_2: electric board
 bip_39_word_space_3: electric board motor
-bip_39_word_space_4: electric board motor mad
-bip_39_word_space_5: electric board motor mad street
-bip_39_word_space_6: electric board motor mad street faith
-bip_39_word_space_7: electric board motor mad street faith wet
-bip_39_word_space_8: electric board motor mad street faith wet tomato
-bip_39_word_space_9: electric board motor mad street faith wet tomato daughter
-bip_39_word_underscore_1: electric
-bip_39_word_underscore_10: electric_board_motor_mad_street_faith_wet_tomato_daughter_buffalo
-bip_39_word_underscore_11: electric_board_motor_mad_street_faith_wet_tomato_daughter_buffalo_rough
 bip_39_word_underscore_12: electric_board_motor_mad_street_faith_wet_tomato_daughter_buffalo_rough_already
 bip_39_word_underscore_2: electric_board
 bip_39_word_underscore_3: electric_board_motor
-bip_39_word_underscore_4: electric_board_motor_mad
-bip_39_word_underscore_5: electric_board_motor_mad_street
-bip_39_word_underscore_6: electric_board_motor_mad_street_faith
-bip_39_word_underscore_7: electric_board_motor_mad_street_faith_wet
-bip_39_word_underscore_8: electric_board_motor_mad_street_faith_wet_tomato
-bip_39_word_underscore_9: electric_board_motor_mad_street_faith_wet_tomato_daughter
 classification: category
 classification_capital: Category
 classification_first_letter: c

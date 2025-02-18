@@ -24,9 +24,9 @@ category_exercise_equipment
   * description_extra: tote
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: stick slot
+  * bip 39 word 3: stick slot label
+  * bip 39 word: stick slot label lazy bright remain ecology disagree save flash expire attitude
 
 ### other_codes
 * short_code: 
@@ -40,6 +40,22 @@ category_exercise_equipment
 
 
 
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2095knq)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2095knq)
+[2x1](http://192.168.1.242:1112/?label=oomp%2095knq)
+[6x4](http://192.168.1.55:1112/?label=oomp%2095knq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_tote) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_tote)                             
+
+#### price
+
+
+
+
 
 
 
@@ -47,20 +63,34 @@ category_exercise_equipment
 | key | value |  
 | --- | --- |  
 | classification | category |  
+| classification_name | Category |  
 | color |  |  
+| color_name |  |  
 | description | category_exercise_equipment |  
 | description_extra | tote |  
+| description_extra_name | Tote |  
 | description_main |  |  
+| description_main_name |  |  
 | description_or_color |   |  
 | directory | parts/category_exercise_equipment_tote |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_exercise_equipment_tote |  
 | id | category_exercise_equipment_tote |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_tote |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_tote |  
+| link_2_name | link_github |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_tote |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_tote |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2095knq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2095knq |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2095knq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2095knq |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_tote |  
 | manufacturer |  |  
+| manufacturer_name |  |  
 | manufacturers | [] |  
 | markdown_full | [category_exercise_equipment_tote](none)<br>[](none)<br>[Category Exercise Equipment Tote](none)<br><br> |  
 | markdown_short | [category_exercise_equipment_tote](none)<br><br> |  
@@ -70,6 +100,10 @@ category_exercise_equipment
 | md5_6 | eaa0d6 |  
 | md5_6_alpha | 95knq |  
 | name | Category Exercise Equipment Tote |  
+| oomlout_detail_hierarchy_1 | category |  
+| oomlout_detail_hierarchy_2 | exercise_equipment |  
+| oomlout_detail_hierarchy_3 | tote |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_category_exercise_equipment_tote |  
 | oomp_word | tractor ring school |  
 | oomp_word_emoji | :tractor: :ring: :school: |  
@@ -77,7 +111,10 @@ category_exercise_equipment
 | oomp_word_list | ['tractor', 'ring', 'school'] |  
 | part_number |  |  
 | part_number_exact |  |  
+| part_number_name |  |  
 | short_code |  |  
 | short_name | Categoryexerciseequipment |  
 | size |  |  
+| size_name |  |  
 | type | exercise_equipment |  
+| type_name | Exercise Equipment |  

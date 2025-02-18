@@ -1,68 +1,9 @@
-bip_39_word_dash_1: display
-bip_39_word_dash_10: display-dry-drink-gorilla-inherit-initial-noble-skill-movie-spawn
-bip_39_word_dash_11: display-dry-drink-gorilla-inherit-initial-noble-skill-movie-spawn-fly
 bip_39_word_dash_12: display-dry-drink-gorilla-inherit-initial-noble-skill-movie-spawn-fly-armed
 bip_39_word_dash_2: display-dry
 bip_39_word_dash_3: display-dry-drink
-bip_39_word_dash_4: display-dry-drink-gorilla
-bip_39_word_dash_5: display-dry-drink-gorilla-inherit
-bip_39_word_dash_6: display-dry-drink-gorilla-inherit-initial
-bip_39_word_dash_7: display-dry-drink-gorilla-inherit-initial-noble
-bip_39_word_dash_8: display-dry-drink-gorilla-inherit-initial-noble-skill
-bip_39_word_dash_9: display-dry-drink-gorilla-inherit-initial-noble-skill-movie
-bip_39_word_new_br_1: display
-bip_39_word_new_br_10: display<br>dry<br>drink<br>gorilla<br>inherit<br>initial<br>noble<br>skill<br>movie<br>spawn
-bip_39_word_new_br_11: display<br>dry<br>drink<br>gorilla<br>inherit<br>initial<br>noble<br>skill<br>movie<br>spawn<br>fly
 bip_39_word_new_br_12: display<br>dry<br>drink<br>gorilla<br>inherit<br>initial<br>noble<br>skill<br>movie<br>spawn<br>fly<br>armed
 bip_39_word_new_br_2: display<br>dry
 bip_39_word_new_br_3: display<br>dry<br>drink
-bip_39_word_new_br_4: display<br>dry<br>drink<br>gorilla
-bip_39_word_new_br_5: display<br>dry<br>drink<br>gorilla<br>inherit
-bip_39_word_new_br_6: display<br>dry<br>drink<br>gorilla<br>inherit<br>initial
-bip_39_word_new_br_7: display<br>dry<br>drink<br>gorilla<br>inherit<br>initial<br>noble
-bip_39_word_new_br_8: display<br>dry<br>drink<br>gorilla<br>inherit<br>initial<br>noble<br>skill
-bip_39_word_new_br_9: display<br>dry<br>drink<br>gorilla<br>inherit<br>initial<br>noble<br>skill<br>movie
-bip_39_word_new_line_1: display
-bip_39_word_new_line_10: 'display
-
-  dry
-
-  drink
-
-  gorilla
-
-  inherit
-
-  initial
-
-  noble
-
-  skill
-
-  movie
-
-  spawn'
-bip_39_word_new_line_11: 'display
-
-  dry
-
-  drink
-
-  gorilla
-
-  inherit
-
-  initial
-
-  noble
-
-  skill
-
-  movie
-
-  spawn
-
-  fly'
 bip_39_word_new_line_12: 'display
 
   dry
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'display
   dry
 
   drink'
-bip_39_word_new_line_4: 'display
-
-  dry
-
-  drink
-
-  gorilla'
-bip_39_word_new_line_5: 'display
-
-  dry
-
-  drink
-
-  gorilla
-
-  inherit'
-bip_39_word_new_line_6: 'display
-
-  dry
-
-  drink
-
-  gorilla
-
-  inherit
-
-  initial'
-bip_39_word_new_line_7: 'display
-
-  dry
-
-  drink
-
-  gorilla
-
-  inherit
-
-  initial
-
-  noble'
-bip_39_word_new_line_8: 'display
-
-  dry
-
-  drink
-
-  gorilla
-
-  inherit
-
-  initial
-
-  noble
-
-  skill'
-bip_39_word_new_line_9: 'display
-
-  dry
-
-  drink
-
-  gorilla
-
-  inherit
-
-  initial
-
-  noble
-
-  skill
-
-  movie'
-bip_39_word_no_space_1: display
-bip_39_word_no_space_10: displaydrydrinkgorillainheritinitialnobleskillmoviespawn
-bip_39_word_no_space_11: displaydrydrinkgorillainheritinitialnobleskillmoviespawnfly
 bip_39_word_no_space_12: displaydrydrinkgorillainheritinitialnobleskillmoviespawnflyarmed
 bip_39_word_no_space_2: displaydry
 bip_39_word_no_space_3: displaydrydrink
-bip_39_word_no_space_4: displaydrydrinkgorilla
-bip_39_word_no_space_5: displaydrydrinkgorillainherit
-bip_39_word_no_space_6: displaydrydrinkgorillainheritinitial
-bip_39_word_no_space_7: displaydrydrinkgorillainheritinitialnoble
-bip_39_word_no_space_8: displaydrydrinkgorillainheritinitialnobleskill
-bip_39_word_no_space_9: displaydrydrinkgorillainheritinitialnobleskillmovie
-bip_39_word_space_0:
-- display
-- dry
-- drink
-- gorilla
-- inherit
-- initial
-- noble
-- skill
-- movie
-- spawn
-- fly
-- armed
-bip_39_word_space_1: display
-bip_39_word_space_10: display dry drink gorilla inherit initial noble skill movie
-  spawn
-bip_39_word_space_11: display dry drink gorilla inherit initial noble skill movie
-  spawn fly
 bip_39_word_space_12: display dry drink gorilla inherit initial noble skill movie
   spawn fly armed
 bip_39_word_space_2: display dry
 bip_39_word_space_3: display dry drink
-bip_39_word_space_4: display dry drink gorilla
-bip_39_word_space_5: display dry drink gorilla inherit
-bip_39_word_space_6: display dry drink gorilla inherit initial
-bip_39_word_space_7: display dry drink gorilla inherit initial noble
-bip_39_word_space_8: display dry drink gorilla inherit initial noble skill
-bip_39_word_space_9: display dry drink gorilla inherit initial noble skill movie
-bip_39_word_underscore_1: display
-bip_39_word_underscore_10: display_dry_drink_gorilla_inherit_initial_noble_skill_movie_spawn
-bip_39_word_underscore_11: display_dry_drink_gorilla_inherit_initial_noble_skill_movie_spawn_fly
 bip_39_word_underscore_12: display_dry_drink_gorilla_inherit_initial_noble_skill_movie_spawn_fly_armed
 bip_39_word_underscore_2: display_dry
 bip_39_word_underscore_3: display_dry_drink
-bip_39_word_underscore_4: display_dry_drink_gorilla
-bip_39_word_underscore_5: display_dry_drink_gorilla_inherit
-bip_39_word_underscore_6: display_dry_drink_gorilla_inherit_initial
-bip_39_word_underscore_7: display_dry_drink_gorilla_inherit_initial_noble
-bip_39_word_underscore_8: display_dry_drink_gorilla_inherit_initial_noble_skill
-bip_39_word_underscore_9: display_dry_drink_gorilla_inherit_initial_noble_skill_movie
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: book
-bip_39_word_dash_10: book-borrow-maze-sniff-sign-trap-hello-spread-tray-across
-bip_39_word_dash_11: book-borrow-maze-sniff-sign-trap-hello-spread-tray-across-easily
 bip_39_word_dash_12: book-borrow-maze-sniff-sign-trap-hello-spread-tray-across-easily-aspect
 bip_39_word_dash_2: book-borrow
 bip_39_word_dash_3: book-borrow-maze
-bip_39_word_dash_4: book-borrow-maze-sniff
-bip_39_word_dash_5: book-borrow-maze-sniff-sign
-bip_39_word_dash_6: book-borrow-maze-sniff-sign-trap
-bip_39_word_dash_7: book-borrow-maze-sniff-sign-trap-hello
-bip_39_word_dash_8: book-borrow-maze-sniff-sign-trap-hello-spread
-bip_39_word_dash_9: book-borrow-maze-sniff-sign-trap-hello-spread-tray
-bip_39_word_new_br_1: book
-bip_39_word_new_br_10: book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread<br>tray<br>across
-bip_39_word_new_br_11: book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread<br>tray<br>across<br>easily
 bip_39_word_new_br_12: book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread<br>tray<br>across<br>easily<br>aspect
 bip_39_word_new_br_2: book<br>borrow
 bip_39_word_new_br_3: book<br>borrow<br>maze
-bip_39_word_new_br_4: book<br>borrow<br>maze<br>sniff
-bip_39_word_new_br_5: book<br>borrow<br>maze<br>sniff<br>sign
-bip_39_word_new_br_6: book<br>borrow<br>maze<br>sniff<br>sign<br>trap
-bip_39_word_new_br_7: book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello
-bip_39_word_new_br_8: book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread
-bip_39_word_new_br_9: book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread<br>tray
-bip_39_word_new_line_1: book
-bip_39_word_new_line_10: 'book
-
-  borrow
-
-  maze
-
-  sniff
-
-  sign
-
-  trap
-
-  hello
-
-  spread
-
-  tray
-
-  across'
-bip_39_word_new_line_11: 'book
-
-  borrow
-
-  maze
-
-  sniff
-
-  sign
-
-  trap
-
-  hello
-
-  spread
-
-  tray
-
-  across
-
-  easily'
 bip_39_word_new_line_12: 'book
 
   borrow
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'book
   borrow
 
   maze'
-bip_39_word_new_line_4: 'book
-
-  borrow
-
-  maze
-
-  sniff'
-bip_39_word_new_line_5: 'book
-
-  borrow
-
-  maze
-
-  sniff
-
-  sign'
-bip_39_word_new_line_6: 'book
-
-  borrow
-
-  maze
-
-  sniff
-
-  sign
-
-  trap'
-bip_39_word_new_line_7: 'book
-
-  borrow
-
-  maze
-
-  sniff
-
-  sign
-
-  trap
-
-  hello'
-bip_39_word_new_line_8: 'book
-
-  borrow
-
-  maze
-
-  sniff
-
-  sign
-
-  trap
-
-  hello
-
-  spread'
-bip_39_word_new_line_9: 'book
-
-  borrow
-
-  maze
-
-  sniff
-
-  sign
-
-  trap
-
-  hello
-
-  spread
-
-  tray'
-bip_39_word_no_space_1: book
-bip_39_word_no_space_10: bookborrowmazesniffsigntraphellospreadtrayacross
-bip_39_word_no_space_11: bookborrowmazesniffsigntraphellospreadtrayacrosseasily
 bip_39_word_no_space_12: bookborrowmazesniffsigntraphellospreadtrayacrosseasilyaspect
 bip_39_word_no_space_2: bookborrow
 bip_39_word_no_space_3: bookborrowmaze
-bip_39_word_no_space_4: bookborrowmazesniff
-bip_39_word_no_space_5: bookborrowmazesniffsign
-bip_39_word_no_space_6: bookborrowmazesniffsigntrap
-bip_39_word_no_space_7: bookborrowmazesniffsigntraphello
-bip_39_word_no_space_8: bookborrowmazesniffsigntraphellospread
-bip_39_word_no_space_9: bookborrowmazesniffsigntraphellospreadtray
-bip_39_word_space_0:
-- book
-- borrow
-- maze
-- sniff
-- sign
-- trap
-- hello
-- spread
-- tray
-- across
-- easily
-- aspect
-bip_39_word_space_1: book
-bip_39_word_space_10: book borrow maze sniff sign trap hello spread tray across
-bip_39_word_space_11: book borrow maze sniff sign trap hello spread tray across easily
 bip_39_word_space_12: book borrow maze sniff sign trap hello spread tray across easily
   aspect
 bip_39_word_space_2: book borrow
 bip_39_word_space_3: book borrow maze
-bip_39_word_space_4: book borrow maze sniff
-bip_39_word_space_5: book borrow maze sniff sign
-bip_39_word_space_6: book borrow maze sniff sign trap
-bip_39_word_space_7: book borrow maze sniff sign trap hello
-bip_39_word_space_8: book borrow maze sniff sign trap hello spread
-bip_39_word_space_9: book borrow maze sniff sign trap hello spread tray
-bip_39_word_underscore_1: book
-bip_39_word_underscore_10: book_borrow_maze_sniff_sign_trap_hello_spread_tray_across
-bip_39_word_underscore_11: book_borrow_maze_sniff_sign_trap_hello_spread_tray_across_easily
 bip_39_word_underscore_12: book_borrow_maze_sniff_sign_trap_hello_spread_tray_across_easily_aspect
 bip_39_word_underscore_2: book_borrow
 bip_39_word_underscore_3: book_borrow_maze
-bip_39_word_underscore_4: book_borrow_maze_sniff
-bip_39_word_underscore_5: book_borrow_maze_sniff_sign
-bip_39_word_underscore_6: book_borrow_maze_sniff_sign_trap
-bip_39_word_underscore_7: book_borrow_maze_sniff_sign_trap_hello
-bip_39_word_underscore_8: book_borrow_maze_sniff_sign_trap_hello_spread
-bip_39_word_underscore_9: book_borrow_maze_sniff_sign_trap_hello_spread_tray
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

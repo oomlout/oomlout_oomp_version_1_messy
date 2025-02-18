@@ -1,68 +1,9 @@
-bip_39_word_dash_1: monitor
-bip_39_word_dash_10: monitor-twin-program-extend-silly-glad-paddle-kitten-harsh-labor
-bip_39_word_dash_11: monitor-twin-program-extend-silly-glad-paddle-kitten-harsh-labor-always
 bip_39_word_dash_12: monitor-twin-program-extend-silly-glad-paddle-kitten-harsh-labor-always-arm
 bip_39_word_dash_2: monitor-twin
 bip_39_word_dash_3: monitor-twin-program
-bip_39_word_dash_4: monitor-twin-program-extend
-bip_39_word_dash_5: monitor-twin-program-extend-silly
-bip_39_word_dash_6: monitor-twin-program-extend-silly-glad
-bip_39_word_dash_7: monitor-twin-program-extend-silly-glad-paddle
-bip_39_word_dash_8: monitor-twin-program-extend-silly-glad-paddle-kitten
-bip_39_word_dash_9: monitor-twin-program-extend-silly-glad-paddle-kitten-harsh
-bip_39_word_new_br_1: monitor
-bip_39_word_new_br_10: monitor<br>twin<br>program<br>extend<br>silly<br>glad<br>paddle<br>kitten<br>harsh<br>labor
-bip_39_word_new_br_11: monitor<br>twin<br>program<br>extend<br>silly<br>glad<br>paddle<br>kitten<br>harsh<br>labor<br>always
 bip_39_word_new_br_12: monitor<br>twin<br>program<br>extend<br>silly<br>glad<br>paddle<br>kitten<br>harsh<br>labor<br>always<br>arm
 bip_39_word_new_br_2: monitor<br>twin
 bip_39_word_new_br_3: monitor<br>twin<br>program
-bip_39_word_new_br_4: monitor<br>twin<br>program<br>extend
-bip_39_word_new_br_5: monitor<br>twin<br>program<br>extend<br>silly
-bip_39_word_new_br_6: monitor<br>twin<br>program<br>extend<br>silly<br>glad
-bip_39_word_new_br_7: monitor<br>twin<br>program<br>extend<br>silly<br>glad<br>paddle
-bip_39_word_new_br_8: monitor<br>twin<br>program<br>extend<br>silly<br>glad<br>paddle<br>kitten
-bip_39_word_new_br_9: monitor<br>twin<br>program<br>extend<br>silly<br>glad<br>paddle<br>kitten<br>harsh
-bip_39_word_new_line_1: monitor
-bip_39_word_new_line_10: 'monitor
-
-  twin
-
-  program
-
-  extend
-
-  silly
-
-  glad
-
-  paddle
-
-  kitten
-
-  harsh
-
-  labor'
-bip_39_word_new_line_11: 'monitor
-
-  twin
-
-  program
-
-  extend
-
-  silly
-
-  glad
-
-  paddle
-
-  kitten
-
-  harsh
-
-  labor
-
-  always'
 bip_39_word_new_line_12: 'monitor
 
   twin
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'monitor
   twin
 
   program'
-bip_39_word_new_line_4: 'monitor
-
-  twin
-
-  program
-
-  extend'
-bip_39_word_new_line_5: 'monitor
-
-  twin
-
-  program
-
-  extend
-
-  silly'
-bip_39_word_new_line_6: 'monitor
-
-  twin
-
-  program
-
-  extend
-
-  silly
-
-  glad'
-bip_39_word_new_line_7: 'monitor
-
-  twin
-
-  program
-
-  extend
-
-  silly
-
-  glad
-
-  paddle'
-bip_39_word_new_line_8: 'monitor
-
-  twin
-
-  program
-
-  extend
-
-  silly
-
-  glad
-
-  paddle
-
-  kitten'
-bip_39_word_new_line_9: 'monitor
-
-  twin
-
-  program
-
-  extend
-
-  silly
-
-  glad
-
-  paddle
-
-  kitten
-
-  harsh'
-bip_39_word_no_space_1: monitor
-bip_39_word_no_space_10: monitortwinprogramextendsillygladpaddlekittenharshlabor
-bip_39_word_no_space_11: monitortwinprogramextendsillygladpaddlekittenharshlaboralways
 bip_39_word_no_space_12: monitortwinprogramextendsillygladpaddlekittenharshlaboralwaysarm
 bip_39_word_no_space_2: monitortwin
 bip_39_word_no_space_3: monitortwinprogram
-bip_39_word_no_space_4: monitortwinprogramextend
-bip_39_word_no_space_5: monitortwinprogramextendsilly
-bip_39_word_no_space_6: monitortwinprogramextendsillyglad
-bip_39_word_no_space_7: monitortwinprogramextendsillygladpaddle
-bip_39_word_no_space_8: monitortwinprogramextendsillygladpaddlekitten
-bip_39_word_no_space_9: monitortwinprogramextendsillygladpaddlekittenharsh
-bip_39_word_space_0:
-- monitor
-- twin
-- program
-- extend
-- silly
-- glad
-- paddle
-- kitten
-- harsh
-- labor
-- always
-- arm
-bip_39_word_space_1: monitor
-bip_39_word_space_10: monitor twin program extend silly glad paddle kitten harsh labor
-bip_39_word_space_11: monitor twin program extend silly glad paddle kitten harsh labor
-  always
 bip_39_word_space_12: monitor twin program extend silly glad paddle kitten harsh labor
   always arm
 bip_39_word_space_2: monitor twin
 bip_39_word_space_3: monitor twin program
-bip_39_word_space_4: monitor twin program extend
-bip_39_word_space_5: monitor twin program extend silly
-bip_39_word_space_6: monitor twin program extend silly glad
-bip_39_word_space_7: monitor twin program extend silly glad paddle
-bip_39_word_space_8: monitor twin program extend silly glad paddle kitten
-bip_39_word_space_9: monitor twin program extend silly glad paddle kitten harsh
-bip_39_word_underscore_1: monitor
-bip_39_word_underscore_10: monitor_twin_program_extend_silly_glad_paddle_kitten_harsh_labor
-bip_39_word_underscore_11: monitor_twin_program_extend_silly_glad_paddle_kitten_harsh_labor_always
 bip_39_word_underscore_12: monitor_twin_program_extend_silly_glad_paddle_kitten_harsh_labor_always_arm
 bip_39_word_underscore_2: monitor_twin
 bip_39_word_underscore_3: monitor_twin_program
-bip_39_word_underscore_4: monitor_twin_program_extend
-bip_39_word_underscore_5: monitor_twin_program_extend_silly
-bip_39_word_underscore_6: monitor_twin_program_extend_silly_glad
-bip_39_word_underscore_7: monitor_twin_program_extend_silly_glad_paddle
-bip_39_word_underscore_8: monitor_twin_program_extend_silly_glad_paddle_kitten
-bip_39_word_underscore_9: monitor_twin_program_extend_silly_glad_paddle_kitten_harsh
 classification: category
 classification_capital: Category
 classification_first_letter: c

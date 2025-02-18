@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bleak
-bip_39_word_dash_10: bleak-pluck-vacuum-right-endorse-midnight-sibling-winter-cargo-monkey
-bip_39_word_dash_11: bleak-pluck-vacuum-right-endorse-midnight-sibling-winter-cargo-monkey-toss
 bip_39_word_dash_12: bleak-pluck-vacuum-right-endorse-midnight-sibling-winter-cargo-monkey-toss-artefact
 bip_39_word_dash_2: bleak-pluck
 bip_39_word_dash_3: bleak-pluck-vacuum
-bip_39_word_dash_4: bleak-pluck-vacuum-right
-bip_39_word_dash_5: bleak-pluck-vacuum-right-endorse
-bip_39_word_dash_6: bleak-pluck-vacuum-right-endorse-midnight
-bip_39_word_dash_7: bleak-pluck-vacuum-right-endorse-midnight-sibling
-bip_39_word_dash_8: bleak-pluck-vacuum-right-endorse-midnight-sibling-winter
-bip_39_word_dash_9: bleak-pluck-vacuum-right-endorse-midnight-sibling-winter-cargo
-bip_39_word_new_br_1: bleak
-bip_39_word_new_br_10: bleak<br>pluck<br>vacuum<br>right<br>endorse<br>midnight<br>sibling<br>winter<br>cargo<br>monkey
-bip_39_word_new_br_11: bleak<br>pluck<br>vacuum<br>right<br>endorse<br>midnight<br>sibling<br>winter<br>cargo<br>monkey<br>toss
 bip_39_word_new_br_12: bleak<br>pluck<br>vacuum<br>right<br>endorse<br>midnight<br>sibling<br>winter<br>cargo<br>monkey<br>toss<br>artefact
 bip_39_word_new_br_2: bleak<br>pluck
 bip_39_word_new_br_3: bleak<br>pluck<br>vacuum
-bip_39_word_new_br_4: bleak<br>pluck<br>vacuum<br>right
-bip_39_word_new_br_5: bleak<br>pluck<br>vacuum<br>right<br>endorse
-bip_39_word_new_br_6: bleak<br>pluck<br>vacuum<br>right<br>endorse<br>midnight
-bip_39_word_new_br_7: bleak<br>pluck<br>vacuum<br>right<br>endorse<br>midnight<br>sibling
-bip_39_word_new_br_8: bleak<br>pluck<br>vacuum<br>right<br>endorse<br>midnight<br>sibling<br>winter
-bip_39_word_new_br_9: bleak<br>pluck<br>vacuum<br>right<br>endorse<br>midnight<br>sibling<br>winter<br>cargo
-bip_39_word_new_line_1: bleak
-bip_39_word_new_line_10: 'bleak
-
-  pluck
-
-  vacuum
-
-  right
-
-  endorse
-
-  midnight
-
-  sibling
-
-  winter
-
-  cargo
-
-  monkey'
-bip_39_word_new_line_11: 'bleak
-
-  pluck
-
-  vacuum
-
-  right
-
-  endorse
-
-  midnight
-
-  sibling
-
-  winter
-
-  cargo
-
-  monkey
-
-  toss'
 bip_39_word_new_line_12: 'bleak
 
   pluck
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bleak
   pluck
 
   vacuum'
-bip_39_word_new_line_4: 'bleak
-
-  pluck
-
-  vacuum
-
-  right'
-bip_39_word_new_line_5: 'bleak
-
-  pluck
-
-  vacuum
-
-  right
-
-  endorse'
-bip_39_word_new_line_6: 'bleak
-
-  pluck
-
-  vacuum
-
-  right
-
-  endorse
-
-  midnight'
-bip_39_word_new_line_7: 'bleak
-
-  pluck
-
-  vacuum
-
-  right
-
-  endorse
-
-  midnight
-
-  sibling'
-bip_39_word_new_line_8: 'bleak
-
-  pluck
-
-  vacuum
-
-  right
-
-  endorse
-
-  midnight
-
-  sibling
-
-  winter'
-bip_39_word_new_line_9: 'bleak
-
-  pluck
-
-  vacuum
-
-  right
-
-  endorse
-
-  midnight
-
-  sibling
-
-  winter
-
-  cargo'
-bip_39_word_no_space_1: bleak
-bip_39_word_no_space_10: bleakpluckvacuumrightendorsemidnightsiblingwintercargomonkey
-bip_39_word_no_space_11: bleakpluckvacuumrightendorsemidnightsiblingwintercargomonkeytoss
 bip_39_word_no_space_12: bleakpluckvacuumrightendorsemidnightsiblingwintercargomonkeytossartefact
 bip_39_word_no_space_2: bleakpluck
 bip_39_word_no_space_3: bleakpluckvacuum
-bip_39_word_no_space_4: bleakpluckvacuumright
-bip_39_word_no_space_5: bleakpluckvacuumrightendorse
-bip_39_word_no_space_6: bleakpluckvacuumrightendorsemidnight
-bip_39_word_no_space_7: bleakpluckvacuumrightendorsemidnightsibling
-bip_39_word_no_space_8: bleakpluckvacuumrightendorsemidnightsiblingwinter
-bip_39_word_no_space_9: bleakpluckvacuumrightendorsemidnightsiblingwintercargo
-bip_39_word_space_0:
-- bleak
-- pluck
-- vacuum
-- right
-- endorse
-- midnight
-- sibling
-- winter
-- cargo
-- monkey
-- toss
-- artefact
-bip_39_word_space_1: bleak
-bip_39_word_space_10: bleak pluck vacuum right endorse midnight sibling winter cargo
-  monkey
-bip_39_word_space_11: bleak pluck vacuum right endorse midnight sibling winter cargo
-  monkey toss
 bip_39_word_space_12: bleak pluck vacuum right endorse midnight sibling winter cargo
   monkey toss artefact
 bip_39_word_space_2: bleak pluck
 bip_39_word_space_3: bleak pluck vacuum
-bip_39_word_space_4: bleak pluck vacuum right
-bip_39_word_space_5: bleak pluck vacuum right endorse
-bip_39_word_space_6: bleak pluck vacuum right endorse midnight
-bip_39_word_space_7: bleak pluck vacuum right endorse midnight sibling
-bip_39_word_space_8: bleak pluck vacuum right endorse midnight sibling winter
-bip_39_word_space_9: bleak pluck vacuum right endorse midnight sibling winter cargo
-bip_39_word_underscore_1: bleak
-bip_39_word_underscore_10: bleak_pluck_vacuum_right_endorse_midnight_sibling_winter_cargo_monkey
-bip_39_word_underscore_11: bleak_pluck_vacuum_right_endorse_midnight_sibling_winter_cargo_monkey_toss
 bip_39_word_underscore_12: bleak_pluck_vacuum_right_endorse_midnight_sibling_winter_cargo_monkey_toss_artefact
 bip_39_word_underscore_2: bleak_pluck
 bip_39_word_underscore_3: bleak_pluck_vacuum
-bip_39_word_underscore_4: bleak_pluck_vacuum_right
-bip_39_word_underscore_5: bleak_pluck_vacuum_right_endorse
-bip_39_word_underscore_6: bleak_pluck_vacuum_right_endorse_midnight
-bip_39_word_underscore_7: bleak_pluck_vacuum_right_endorse_midnight_sibling
-bip_39_word_underscore_8: bleak_pluck_vacuum_right_endorse_midnight_sibling_winter
-bip_39_word_underscore_9: bleak_pluck_vacuum_right_endorse_midnight_sibling_winter_cargo
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

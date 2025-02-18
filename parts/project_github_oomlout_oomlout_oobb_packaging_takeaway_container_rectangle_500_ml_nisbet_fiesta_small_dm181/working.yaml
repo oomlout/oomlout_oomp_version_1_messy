@@ -1,68 +1,9 @@
-bip_39_word_dash_1: charge
-bip_39_word_dash_10: charge-unhappy-detail-oven-drum-hurry-elevator-viable-coffee-leisure
-bip_39_word_dash_11: charge-unhappy-detail-oven-drum-hurry-elevator-viable-coffee-leisure-airport
 bip_39_word_dash_12: charge-unhappy-detail-oven-drum-hurry-elevator-viable-coffee-leisure-airport-attitude
 bip_39_word_dash_2: charge-unhappy
 bip_39_word_dash_3: charge-unhappy-detail
-bip_39_word_dash_4: charge-unhappy-detail-oven
-bip_39_word_dash_5: charge-unhappy-detail-oven-drum
-bip_39_word_dash_6: charge-unhappy-detail-oven-drum-hurry
-bip_39_word_dash_7: charge-unhappy-detail-oven-drum-hurry-elevator
-bip_39_word_dash_8: charge-unhappy-detail-oven-drum-hurry-elevator-viable
-bip_39_word_dash_9: charge-unhappy-detail-oven-drum-hurry-elevator-viable-coffee
-bip_39_word_new_br_1: charge
-bip_39_word_new_br_10: charge<br>unhappy<br>detail<br>oven<br>drum<br>hurry<br>elevator<br>viable<br>coffee<br>leisure
-bip_39_word_new_br_11: charge<br>unhappy<br>detail<br>oven<br>drum<br>hurry<br>elevator<br>viable<br>coffee<br>leisure<br>airport
 bip_39_word_new_br_12: charge<br>unhappy<br>detail<br>oven<br>drum<br>hurry<br>elevator<br>viable<br>coffee<br>leisure<br>airport<br>attitude
 bip_39_word_new_br_2: charge<br>unhappy
 bip_39_word_new_br_3: charge<br>unhappy<br>detail
-bip_39_word_new_br_4: charge<br>unhappy<br>detail<br>oven
-bip_39_word_new_br_5: charge<br>unhappy<br>detail<br>oven<br>drum
-bip_39_word_new_br_6: charge<br>unhappy<br>detail<br>oven<br>drum<br>hurry
-bip_39_word_new_br_7: charge<br>unhappy<br>detail<br>oven<br>drum<br>hurry<br>elevator
-bip_39_word_new_br_8: charge<br>unhappy<br>detail<br>oven<br>drum<br>hurry<br>elevator<br>viable
-bip_39_word_new_br_9: charge<br>unhappy<br>detail<br>oven<br>drum<br>hurry<br>elevator<br>viable<br>coffee
-bip_39_word_new_line_1: charge
-bip_39_word_new_line_10: 'charge
-
-  unhappy
-
-  detail
-
-  oven
-
-  drum
-
-  hurry
-
-  elevator
-
-  viable
-
-  coffee
-
-  leisure'
-bip_39_word_new_line_11: 'charge
-
-  unhappy
-
-  detail
-
-  oven
-
-  drum
-
-  hurry
-
-  elevator
-
-  viable
-
-  coffee
-
-  leisure
-
-  airport'
 bip_39_word_new_line_12: 'charge
 
   unhappy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'charge
   unhappy
 
   detail'
-bip_39_word_new_line_4: 'charge
-
-  unhappy
-
-  detail
-
-  oven'
-bip_39_word_new_line_5: 'charge
-
-  unhappy
-
-  detail
-
-  oven
-
-  drum'
-bip_39_word_new_line_6: 'charge
-
-  unhappy
-
-  detail
-
-  oven
-
-  drum
-
-  hurry'
-bip_39_word_new_line_7: 'charge
-
-  unhappy
-
-  detail
-
-  oven
-
-  drum
-
-  hurry
-
-  elevator'
-bip_39_word_new_line_8: 'charge
-
-  unhappy
-
-  detail
-
-  oven
-
-  drum
-
-  hurry
-
-  elevator
-
-  viable'
-bip_39_word_new_line_9: 'charge
-
-  unhappy
-
-  detail
-
-  oven
-
-  drum
-
-  hurry
-
-  elevator
-
-  viable
-
-  coffee'
-bip_39_word_no_space_1: charge
-bip_39_word_no_space_10: chargeunhappydetailovendrumhurryelevatorviablecoffeeleisure
-bip_39_word_no_space_11: chargeunhappydetailovendrumhurryelevatorviablecoffeeleisureairport
 bip_39_word_no_space_12: chargeunhappydetailovendrumhurryelevatorviablecoffeeleisureairportattitude
 bip_39_word_no_space_2: chargeunhappy
 bip_39_word_no_space_3: chargeunhappydetail
-bip_39_word_no_space_4: chargeunhappydetailoven
-bip_39_word_no_space_5: chargeunhappydetailovendrum
-bip_39_word_no_space_6: chargeunhappydetailovendrumhurry
-bip_39_word_no_space_7: chargeunhappydetailovendrumhurryelevator
-bip_39_word_no_space_8: chargeunhappydetailovendrumhurryelevatorviable
-bip_39_word_no_space_9: chargeunhappydetailovendrumhurryelevatorviablecoffee
-bip_39_word_space_0:
-- charge
-- unhappy
-- detail
-- oven
-- drum
-- hurry
-- elevator
-- viable
-- coffee
-- leisure
-- airport
-- attitude
-bip_39_word_space_1: charge
-bip_39_word_space_10: charge unhappy detail oven drum hurry elevator viable coffee
-  leisure
-bip_39_word_space_11: charge unhappy detail oven drum hurry elevator viable coffee
-  leisure airport
 bip_39_word_space_12: charge unhappy detail oven drum hurry elevator viable coffee
   leisure airport attitude
 bip_39_word_space_2: charge unhappy
 bip_39_word_space_3: charge unhappy detail
-bip_39_word_space_4: charge unhappy detail oven
-bip_39_word_space_5: charge unhappy detail oven drum
-bip_39_word_space_6: charge unhappy detail oven drum hurry
-bip_39_word_space_7: charge unhappy detail oven drum hurry elevator
-bip_39_word_space_8: charge unhappy detail oven drum hurry elevator viable
-bip_39_word_space_9: charge unhappy detail oven drum hurry elevator viable coffee
-bip_39_word_underscore_1: charge
-bip_39_word_underscore_10: charge_unhappy_detail_oven_drum_hurry_elevator_viable_coffee_leisure
-bip_39_word_underscore_11: charge_unhappy_detail_oven_drum_hurry_elevator_viable_coffee_leisure_airport
 bip_39_word_underscore_12: charge_unhappy_detail_oven_drum_hurry_elevator_viable_coffee_leisure_airport_attitude
 bip_39_word_underscore_2: charge_unhappy
 bip_39_word_underscore_3: charge_unhappy_detail
-bip_39_word_underscore_4: charge_unhappy_detail_oven
-bip_39_word_underscore_5: charge_unhappy_detail_oven_drum
-bip_39_word_underscore_6: charge_unhappy_detail_oven_drum_hurry
-bip_39_word_underscore_7: charge_unhappy_detail_oven_drum_hurry_elevator
-bip_39_word_underscore_8: charge_unhappy_detail_oven_drum_hurry_elevator_viable
-bip_39_word_underscore_9: charge_unhappy_detail_oven_drum_hurry_elevator_viable_coffee
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: advice
-bip_39_word_dash_10: advice-noble-bullet-segment-velvet-again-address-glimpse-fish-hundred
-bip_39_word_dash_11: advice-noble-bullet-segment-velvet-again-address-glimpse-fish-hundred-tell
 bip_39_word_dash_12: advice-noble-bullet-segment-velvet-again-address-glimpse-fish-hundred-tell-ahead
 bip_39_word_dash_2: advice-noble
 bip_39_word_dash_3: advice-noble-bullet
-bip_39_word_dash_4: advice-noble-bullet-segment
-bip_39_word_dash_5: advice-noble-bullet-segment-velvet
-bip_39_word_dash_6: advice-noble-bullet-segment-velvet-again
-bip_39_word_dash_7: advice-noble-bullet-segment-velvet-again-address
-bip_39_word_dash_8: advice-noble-bullet-segment-velvet-again-address-glimpse
-bip_39_word_dash_9: advice-noble-bullet-segment-velvet-again-address-glimpse-fish
-bip_39_word_new_br_1: advice
-bip_39_word_new_br_10: advice<br>noble<br>bullet<br>segment<br>velvet<br>again<br>address<br>glimpse<br>fish<br>hundred
-bip_39_word_new_br_11: advice<br>noble<br>bullet<br>segment<br>velvet<br>again<br>address<br>glimpse<br>fish<br>hundred<br>tell
 bip_39_word_new_br_12: advice<br>noble<br>bullet<br>segment<br>velvet<br>again<br>address<br>glimpse<br>fish<br>hundred<br>tell<br>ahead
 bip_39_word_new_br_2: advice<br>noble
 bip_39_word_new_br_3: advice<br>noble<br>bullet
-bip_39_word_new_br_4: advice<br>noble<br>bullet<br>segment
-bip_39_word_new_br_5: advice<br>noble<br>bullet<br>segment<br>velvet
-bip_39_word_new_br_6: advice<br>noble<br>bullet<br>segment<br>velvet<br>again
-bip_39_word_new_br_7: advice<br>noble<br>bullet<br>segment<br>velvet<br>again<br>address
-bip_39_word_new_br_8: advice<br>noble<br>bullet<br>segment<br>velvet<br>again<br>address<br>glimpse
-bip_39_word_new_br_9: advice<br>noble<br>bullet<br>segment<br>velvet<br>again<br>address<br>glimpse<br>fish
-bip_39_word_new_line_1: advice
-bip_39_word_new_line_10: 'advice
-
-  noble
-
-  bullet
-
-  segment
-
-  velvet
-
-  again
-
-  address
-
-  glimpse
-
-  fish
-
-  hundred'
-bip_39_word_new_line_11: 'advice
-
-  noble
-
-  bullet
-
-  segment
-
-  velvet
-
-  again
-
-  address
-
-  glimpse
-
-  fish
-
-  hundred
-
-  tell'
 bip_39_word_new_line_12: 'advice
 
   noble
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'advice
   noble
 
   bullet'
-bip_39_word_new_line_4: 'advice
-
-  noble
-
-  bullet
-
-  segment'
-bip_39_word_new_line_5: 'advice
-
-  noble
-
-  bullet
-
-  segment
-
-  velvet'
-bip_39_word_new_line_6: 'advice
-
-  noble
-
-  bullet
-
-  segment
-
-  velvet
-
-  again'
-bip_39_word_new_line_7: 'advice
-
-  noble
-
-  bullet
-
-  segment
-
-  velvet
-
-  again
-
-  address'
-bip_39_word_new_line_8: 'advice
-
-  noble
-
-  bullet
-
-  segment
-
-  velvet
-
-  again
-
-  address
-
-  glimpse'
-bip_39_word_new_line_9: 'advice
-
-  noble
-
-  bullet
-
-  segment
-
-  velvet
-
-  again
-
-  address
-
-  glimpse
-
-  fish'
-bip_39_word_no_space_1: advice
-bip_39_word_no_space_10: advicenoblebulletsegmentvelvetagainaddressglimpsefishhundred
-bip_39_word_no_space_11: advicenoblebulletsegmentvelvetagainaddressglimpsefishhundredtell
 bip_39_word_no_space_12: advicenoblebulletsegmentvelvetagainaddressglimpsefishhundredtellahead
 bip_39_word_no_space_2: advicenoble
 bip_39_word_no_space_3: advicenoblebullet
-bip_39_word_no_space_4: advicenoblebulletsegment
-bip_39_word_no_space_5: advicenoblebulletsegmentvelvet
-bip_39_word_no_space_6: advicenoblebulletsegmentvelvetagain
-bip_39_word_no_space_7: advicenoblebulletsegmentvelvetagainaddress
-bip_39_word_no_space_8: advicenoblebulletsegmentvelvetagainaddressglimpse
-bip_39_word_no_space_9: advicenoblebulletsegmentvelvetagainaddressglimpsefish
-bip_39_word_space_0:
-- advice
-- noble
-- bullet
-- segment
-- velvet
-- again
-- address
-- glimpse
-- fish
-- hundred
-- tell
-- ahead
-bip_39_word_space_1: advice
-bip_39_word_space_10: advice noble bullet segment velvet again address glimpse fish
-  hundred
-bip_39_word_space_11: advice noble bullet segment velvet again address glimpse fish
-  hundred tell
 bip_39_word_space_12: advice noble bullet segment velvet again address glimpse fish
   hundred tell ahead
 bip_39_word_space_2: advice noble
 bip_39_word_space_3: advice noble bullet
-bip_39_word_space_4: advice noble bullet segment
-bip_39_word_space_5: advice noble bullet segment velvet
-bip_39_word_space_6: advice noble bullet segment velvet again
-bip_39_word_space_7: advice noble bullet segment velvet again address
-bip_39_word_space_8: advice noble bullet segment velvet again address glimpse
-bip_39_word_space_9: advice noble bullet segment velvet again address glimpse fish
-bip_39_word_underscore_1: advice
-bip_39_word_underscore_10: advice_noble_bullet_segment_velvet_again_address_glimpse_fish_hundred
-bip_39_word_underscore_11: advice_noble_bullet_segment_velvet_again_address_glimpse_fish_hundred_tell
 bip_39_word_underscore_12: advice_noble_bullet_segment_velvet_again_address_glimpse_fish_hundred_tell_ahead
 bip_39_word_underscore_2: advice_noble
 bip_39_word_underscore_3: advice_noble_bullet
-bip_39_word_underscore_4: advice_noble_bullet_segment
-bip_39_word_underscore_5: advice_noble_bullet_segment_velvet
-bip_39_word_underscore_6: advice_noble_bullet_segment_velvet_again
-bip_39_word_underscore_7: advice_noble_bullet_segment_velvet_again_address
-bip_39_word_underscore_8: advice_noble_bullet_segment_velvet_again_address_glimpse
-bip_39_word_underscore_9: advice_noble_bullet_segment_velvet_again_address_glimpse_fish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

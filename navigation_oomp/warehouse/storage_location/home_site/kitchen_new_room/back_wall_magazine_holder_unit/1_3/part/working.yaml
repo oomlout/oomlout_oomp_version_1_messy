@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lizard
-bip_39_word_dash_10: lizard-trumpet-round-dilemma-buyer-round-that-witness-task-require
-bip_39_word_dash_11: lizard-trumpet-round-dilemma-buyer-round-that-witness-task-require-pair
 bip_39_word_dash_12: lizard-trumpet-round-dilemma-buyer-round-that-witness-task-require-pair-already
 bip_39_word_dash_2: lizard-trumpet
 bip_39_word_dash_3: lizard-trumpet-round
-bip_39_word_dash_4: lizard-trumpet-round-dilemma
-bip_39_word_dash_5: lizard-trumpet-round-dilemma-buyer
-bip_39_word_dash_6: lizard-trumpet-round-dilemma-buyer-round
-bip_39_word_dash_7: lizard-trumpet-round-dilemma-buyer-round-that
-bip_39_word_dash_8: lizard-trumpet-round-dilemma-buyer-round-that-witness
-bip_39_word_dash_9: lizard-trumpet-round-dilemma-buyer-round-that-witness-task
-bip_39_word_new_br_1: lizard
-bip_39_word_new_br_10: lizard<br>trumpet<br>round<br>dilemma<br>buyer<br>round<br>that<br>witness<br>task<br>require
-bip_39_word_new_br_11: lizard<br>trumpet<br>round<br>dilemma<br>buyer<br>round<br>that<br>witness<br>task<br>require<br>pair
 bip_39_word_new_br_12: lizard<br>trumpet<br>round<br>dilemma<br>buyer<br>round<br>that<br>witness<br>task<br>require<br>pair<br>already
 bip_39_word_new_br_2: lizard<br>trumpet
 bip_39_word_new_br_3: lizard<br>trumpet<br>round
-bip_39_word_new_br_4: lizard<br>trumpet<br>round<br>dilemma
-bip_39_word_new_br_5: lizard<br>trumpet<br>round<br>dilemma<br>buyer
-bip_39_word_new_br_6: lizard<br>trumpet<br>round<br>dilemma<br>buyer<br>round
-bip_39_word_new_br_7: lizard<br>trumpet<br>round<br>dilemma<br>buyer<br>round<br>that
-bip_39_word_new_br_8: lizard<br>trumpet<br>round<br>dilemma<br>buyer<br>round<br>that<br>witness
-bip_39_word_new_br_9: lizard<br>trumpet<br>round<br>dilemma<br>buyer<br>round<br>that<br>witness<br>task
-bip_39_word_new_line_1: lizard
-bip_39_word_new_line_10: 'lizard
-
-  trumpet
-
-  round
-
-  dilemma
-
-  buyer
-
-  round
-
-  that
-
-  witness
-
-  task
-
-  require'
-bip_39_word_new_line_11: 'lizard
-
-  trumpet
-
-  round
-
-  dilemma
-
-  buyer
-
-  round
-
-  that
-
-  witness
-
-  task
-
-  require
-
-  pair'
 bip_39_word_new_line_12: 'lizard
 
   trumpet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lizard
   trumpet
 
   round'
-bip_39_word_new_line_4: 'lizard
-
-  trumpet
-
-  round
-
-  dilemma'
-bip_39_word_new_line_5: 'lizard
-
-  trumpet
-
-  round
-
-  dilemma
-
-  buyer'
-bip_39_word_new_line_6: 'lizard
-
-  trumpet
-
-  round
-
-  dilemma
-
-  buyer
-
-  round'
-bip_39_word_new_line_7: 'lizard
-
-  trumpet
-
-  round
-
-  dilemma
-
-  buyer
-
-  round
-
-  that'
-bip_39_word_new_line_8: 'lizard
-
-  trumpet
-
-  round
-
-  dilemma
-
-  buyer
-
-  round
-
-  that
-
-  witness'
-bip_39_word_new_line_9: 'lizard
-
-  trumpet
-
-  round
-
-  dilemma
-
-  buyer
-
-  round
-
-  that
-
-  witness
-
-  task'
-bip_39_word_no_space_1: lizard
-bip_39_word_no_space_10: lizardtrumpetrounddilemmabuyerroundthatwitnesstaskrequire
-bip_39_word_no_space_11: lizardtrumpetrounddilemmabuyerroundthatwitnesstaskrequirepair
 bip_39_word_no_space_12: lizardtrumpetrounddilemmabuyerroundthatwitnesstaskrequirepairalready
 bip_39_word_no_space_2: lizardtrumpet
 bip_39_word_no_space_3: lizardtrumpetround
-bip_39_word_no_space_4: lizardtrumpetrounddilemma
-bip_39_word_no_space_5: lizardtrumpetrounddilemmabuyer
-bip_39_word_no_space_6: lizardtrumpetrounddilemmabuyerround
-bip_39_word_no_space_7: lizardtrumpetrounddilemmabuyerroundthat
-bip_39_word_no_space_8: lizardtrumpetrounddilemmabuyerroundthatwitness
-bip_39_word_no_space_9: lizardtrumpetrounddilemmabuyerroundthatwitnesstask
-bip_39_word_space_0:
-- lizard
-- trumpet
-- round
-- dilemma
-- buyer
-- round
-- that
-- witness
-- task
-- require
-- pair
-- already
-bip_39_word_space_1: lizard
-bip_39_word_space_10: lizard trumpet round dilemma buyer round that witness task require
-bip_39_word_space_11: lizard trumpet round dilemma buyer round that witness task require
-  pair
 bip_39_word_space_12: lizard trumpet round dilemma buyer round that witness task require
   pair already
 bip_39_word_space_2: lizard trumpet
 bip_39_word_space_3: lizard trumpet round
-bip_39_word_space_4: lizard trumpet round dilemma
-bip_39_word_space_5: lizard trumpet round dilemma buyer
-bip_39_word_space_6: lizard trumpet round dilemma buyer round
-bip_39_word_space_7: lizard trumpet round dilemma buyer round that
-bip_39_word_space_8: lizard trumpet round dilemma buyer round that witness
-bip_39_word_space_9: lizard trumpet round dilemma buyer round that witness task
-bip_39_word_underscore_1: lizard
-bip_39_word_underscore_10: lizard_trumpet_round_dilemma_buyer_round_that_witness_task_require
-bip_39_word_underscore_11: lizard_trumpet_round_dilemma_buyer_round_that_witness_task_require_pair
 bip_39_word_underscore_12: lizard_trumpet_round_dilemma_buyer_round_that_witness_task_require_pair_already
 bip_39_word_underscore_2: lizard_trumpet
 bip_39_word_underscore_3: lizard_trumpet_round
-bip_39_word_underscore_4: lizard_trumpet_round_dilemma
-bip_39_word_underscore_5: lizard_trumpet_round_dilemma_buyer
-bip_39_word_underscore_6: lizard_trumpet_round_dilemma_buyer_round
-bip_39_word_underscore_7: lizard_trumpet_round_dilemma_buyer_round_that
-bip_39_word_underscore_8: lizard_trumpet_round_dilemma_buyer_round_that_witness
-bip_39_word_underscore_9: lizard_trumpet_round_dilemma_buyer_round_that_witness_task
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

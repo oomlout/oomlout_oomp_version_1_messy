@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trade
-bip_39_word_dash_10: trade-cave-accident-crawl-way-sad-concert-announce-general-zoo
-bip_39_word_dash_11: trade-cave-accident-crawl-way-sad-concert-announce-general-zoo-dog
 bip_39_word_dash_12: trade-cave-accident-crawl-way-sad-concert-announce-general-zoo-dog-advance
 bip_39_word_dash_2: trade-cave
 bip_39_word_dash_3: trade-cave-accident
-bip_39_word_dash_4: trade-cave-accident-crawl
-bip_39_word_dash_5: trade-cave-accident-crawl-way
-bip_39_word_dash_6: trade-cave-accident-crawl-way-sad
-bip_39_word_dash_7: trade-cave-accident-crawl-way-sad-concert
-bip_39_word_dash_8: trade-cave-accident-crawl-way-sad-concert-announce
-bip_39_word_dash_9: trade-cave-accident-crawl-way-sad-concert-announce-general
-bip_39_word_new_br_1: trade
-bip_39_word_new_br_10: trade<br>cave<br>accident<br>crawl<br>way<br>sad<br>concert<br>announce<br>general<br>zoo
-bip_39_word_new_br_11: trade<br>cave<br>accident<br>crawl<br>way<br>sad<br>concert<br>announce<br>general<br>zoo<br>dog
 bip_39_word_new_br_12: trade<br>cave<br>accident<br>crawl<br>way<br>sad<br>concert<br>announce<br>general<br>zoo<br>dog<br>advance
 bip_39_word_new_br_2: trade<br>cave
 bip_39_word_new_br_3: trade<br>cave<br>accident
-bip_39_word_new_br_4: trade<br>cave<br>accident<br>crawl
-bip_39_word_new_br_5: trade<br>cave<br>accident<br>crawl<br>way
-bip_39_word_new_br_6: trade<br>cave<br>accident<br>crawl<br>way<br>sad
-bip_39_word_new_br_7: trade<br>cave<br>accident<br>crawl<br>way<br>sad<br>concert
-bip_39_word_new_br_8: trade<br>cave<br>accident<br>crawl<br>way<br>sad<br>concert<br>announce
-bip_39_word_new_br_9: trade<br>cave<br>accident<br>crawl<br>way<br>sad<br>concert<br>announce<br>general
-bip_39_word_new_line_1: trade
-bip_39_word_new_line_10: 'trade
-
-  cave
-
-  accident
-
-  crawl
-
-  way
-
-  sad
-
-  concert
-
-  announce
-
-  general
-
-  zoo'
-bip_39_word_new_line_11: 'trade
-
-  cave
-
-  accident
-
-  crawl
-
-  way
-
-  sad
-
-  concert
-
-  announce
-
-  general
-
-  zoo
-
-  dog'
 bip_39_word_new_line_12: 'trade
 
   cave
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'trade
   cave
 
   accident'
-bip_39_word_new_line_4: 'trade
-
-  cave
-
-  accident
-
-  crawl'
-bip_39_word_new_line_5: 'trade
-
-  cave
-
-  accident
-
-  crawl
-
-  way'
-bip_39_word_new_line_6: 'trade
-
-  cave
-
-  accident
-
-  crawl
-
-  way
-
-  sad'
-bip_39_word_new_line_7: 'trade
-
-  cave
-
-  accident
-
-  crawl
-
-  way
-
-  sad
-
-  concert'
-bip_39_word_new_line_8: 'trade
-
-  cave
-
-  accident
-
-  crawl
-
-  way
-
-  sad
-
-  concert
-
-  announce'
-bip_39_word_new_line_9: 'trade
-
-  cave
-
-  accident
-
-  crawl
-
-  way
-
-  sad
-
-  concert
-
-  announce
-
-  general'
-bip_39_word_no_space_1: trade
-bip_39_word_no_space_10: tradecaveaccidentcrawlwaysadconcertannouncegeneralzoo
-bip_39_word_no_space_11: tradecaveaccidentcrawlwaysadconcertannouncegeneralzoodog
 bip_39_word_no_space_12: tradecaveaccidentcrawlwaysadconcertannouncegeneralzoodogadvance
 bip_39_word_no_space_2: tradecave
 bip_39_word_no_space_3: tradecaveaccident
-bip_39_word_no_space_4: tradecaveaccidentcrawl
-bip_39_word_no_space_5: tradecaveaccidentcrawlway
-bip_39_word_no_space_6: tradecaveaccidentcrawlwaysad
-bip_39_word_no_space_7: tradecaveaccidentcrawlwaysadconcert
-bip_39_word_no_space_8: tradecaveaccidentcrawlwaysadconcertannounce
-bip_39_word_no_space_9: tradecaveaccidentcrawlwaysadconcertannouncegeneral
-bip_39_word_space_0:
-- trade
-- cave
-- accident
-- crawl
-- way
-- sad
-- concert
-- announce
-- general
-- zoo
-- dog
-- advance
-bip_39_word_space_1: trade
-bip_39_word_space_10: trade cave accident crawl way sad concert announce general zoo
-bip_39_word_space_11: trade cave accident crawl way sad concert announce general zoo
-  dog
 bip_39_word_space_12: trade cave accident crawl way sad concert announce general zoo
   dog advance
 bip_39_word_space_2: trade cave
 bip_39_word_space_3: trade cave accident
-bip_39_word_space_4: trade cave accident crawl
-bip_39_word_space_5: trade cave accident crawl way
-bip_39_word_space_6: trade cave accident crawl way sad
-bip_39_word_space_7: trade cave accident crawl way sad concert
-bip_39_word_space_8: trade cave accident crawl way sad concert announce
-bip_39_word_space_9: trade cave accident crawl way sad concert announce general
-bip_39_word_underscore_1: trade
-bip_39_word_underscore_10: trade_cave_accident_crawl_way_sad_concert_announce_general_zoo
-bip_39_word_underscore_11: trade_cave_accident_crawl_way_sad_concert_announce_general_zoo_dog
 bip_39_word_underscore_12: trade_cave_accident_crawl_way_sad_concert_announce_general_zoo_dog_advance
 bip_39_word_underscore_2: trade_cave
 bip_39_word_underscore_3: trade_cave_accident
-bip_39_word_underscore_4: trade_cave_accident_crawl
-bip_39_word_underscore_5: trade_cave_accident_crawl_way
-bip_39_word_underscore_6: trade_cave_accident_crawl_way_sad
-bip_39_word_underscore_7: trade_cave_accident_crawl_way_sad_concert
-bip_39_word_underscore_8: trade_cave_accident_crawl_way_sad_concert_announce
-bip_39_word_underscore_9: trade_cave_accident_crawl_way_sad_concert_announce_general
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

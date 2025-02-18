@@ -1,68 +1,9 @@
-bip_39_word_dash_1: filter
-bip_39_word_dash_10: filter-quick-twin-enter-subway-sick-change-about-rice-science
-bip_39_word_dash_11: filter-quick-twin-enter-subway-sick-change-about-rice-science-venture
 bip_39_word_dash_12: filter-quick-twin-enter-subway-sick-change-about-rice-science-venture-assault
 bip_39_word_dash_2: filter-quick
 bip_39_word_dash_3: filter-quick-twin
-bip_39_word_dash_4: filter-quick-twin-enter
-bip_39_word_dash_5: filter-quick-twin-enter-subway
-bip_39_word_dash_6: filter-quick-twin-enter-subway-sick
-bip_39_word_dash_7: filter-quick-twin-enter-subway-sick-change
-bip_39_word_dash_8: filter-quick-twin-enter-subway-sick-change-about
-bip_39_word_dash_9: filter-quick-twin-enter-subway-sick-change-about-rice
-bip_39_word_new_br_1: filter
-bip_39_word_new_br_10: filter<br>quick<br>twin<br>enter<br>subway<br>sick<br>change<br>about<br>rice<br>science
-bip_39_word_new_br_11: filter<br>quick<br>twin<br>enter<br>subway<br>sick<br>change<br>about<br>rice<br>science<br>venture
 bip_39_word_new_br_12: filter<br>quick<br>twin<br>enter<br>subway<br>sick<br>change<br>about<br>rice<br>science<br>venture<br>assault
 bip_39_word_new_br_2: filter<br>quick
 bip_39_word_new_br_3: filter<br>quick<br>twin
-bip_39_word_new_br_4: filter<br>quick<br>twin<br>enter
-bip_39_word_new_br_5: filter<br>quick<br>twin<br>enter<br>subway
-bip_39_word_new_br_6: filter<br>quick<br>twin<br>enter<br>subway<br>sick
-bip_39_word_new_br_7: filter<br>quick<br>twin<br>enter<br>subway<br>sick<br>change
-bip_39_word_new_br_8: filter<br>quick<br>twin<br>enter<br>subway<br>sick<br>change<br>about
-bip_39_word_new_br_9: filter<br>quick<br>twin<br>enter<br>subway<br>sick<br>change<br>about<br>rice
-bip_39_word_new_line_1: filter
-bip_39_word_new_line_10: 'filter
-
-  quick
-
-  twin
-
-  enter
-
-  subway
-
-  sick
-
-  change
-
-  about
-
-  rice
-
-  science'
-bip_39_word_new_line_11: 'filter
-
-  quick
-
-  twin
-
-  enter
-
-  subway
-
-  sick
-
-  change
-
-  about
-
-  rice
-
-  science
-
-  venture'
 bip_39_word_new_line_12: 'filter
 
   quick
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'filter
   quick
 
   twin'
-bip_39_word_new_line_4: 'filter
-
-  quick
-
-  twin
-
-  enter'
-bip_39_word_new_line_5: 'filter
-
-  quick
-
-  twin
-
-  enter
-
-  subway'
-bip_39_word_new_line_6: 'filter
-
-  quick
-
-  twin
-
-  enter
-
-  subway
-
-  sick'
-bip_39_word_new_line_7: 'filter
-
-  quick
-
-  twin
-
-  enter
-
-  subway
-
-  sick
-
-  change'
-bip_39_word_new_line_8: 'filter
-
-  quick
-
-  twin
-
-  enter
-
-  subway
-
-  sick
-
-  change
-
-  about'
-bip_39_word_new_line_9: 'filter
-
-  quick
-
-  twin
-
-  enter
-
-  subway
-
-  sick
-
-  change
-
-  about
-
-  rice'
-bip_39_word_no_space_1: filter
-bip_39_word_no_space_10: filterquicktwinentersubwaysickchangeaboutricescience
-bip_39_word_no_space_11: filterquicktwinentersubwaysickchangeaboutricescienceventure
 bip_39_word_no_space_12: filterquicktwinentersubwaysickchangeaboutricescienceventureassault
 bip_39_word_no_space_2: filterquick
 bip_39_word_no_space_3: filterquicktwin
-bip_39_word_no_space_4: filterquicktwinenter
-bip_39_word_no_space_5: filterquicktwinentersubway
-bip_39_word_no_space_6: filterquicktwinentersubwaysick
-bip_39_word_no_space_7: filterquicktwinentersubwaysickchange
-bip_39_word_no_space_8: filterquicktwinentersubwaysickchangeabout
-bip_39_word_no_space_9: filterquicktwinentersubwaysickchangeaboutrice
-bip_39_word_space_0:
-- filter
-- quick
-- twin
-- enter
-- subway
-- sick
-- change
-- about
-- rice
-- science
-- venture
-- assault
-bip_39_word_space_1: filter
-bip_39_word_space_10: filter quick twin enter subway sick change about rice science
-bip_39_word_space_11: filter quick twin enter subway sick change about rice science
-  venture
 bip_39_word_space_12: filter quick twin enter subway sick change about rice science
   venture assault
 bip_39_word_space_2: filter quick
 bip_39_word_space_3: filter quick twin
-bip_39_word_space_4: filter quick twin enter
-bip_39_word_space_5: filter quick twin enter subway
-bip_39_word_space_6: filter quick twin enter subway sick
-bip_39_word_space_7: filter quick twin enter subway sick change
-bip_39_word_space_8: filter quick twin enter subway sick change about
-bip_39_word_space_9: filter quick twin enter subway sick change about rice
-bip_39_word_underscore_1: filter
-bip_39_word_underscore_10: filter_quick_twin_enter_subway_sick_change_about_rice_science
-bip_39_word_underscore_11: filter_quick_twin_enter_subway_sick_change_about_rice_science_venture
 bip_39_word_underscore_12: filter_quick_twin_enter_subway_sick_change_about_rice_science_venture_assault
 bip_39_word_underscore_2: filter_quick
 bip_39_word_underscore_3: filter_quick_twin
-bip_39_word_underscore_4: filter_quick_twin_enter
-bip_39_word_underscore_5: filter_quick_twin_enter_subway
-bip_39_word_underscore_6: filter_quick_twin_enter_subway_sick
-bip_39_word_underscore_7: filter_quick_twin_enter_subway_sick_change
-bip_39_word_underscore_8: filter_quick_twin_enter_subway_sick_change_about
-bip_39_word_underscore_9: filter_quick_twin_enter_subway_sick_change_about_rice
 classification: category
 classification_capital: Category
 classification_first_letter: c

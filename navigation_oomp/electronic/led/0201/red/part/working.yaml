@@ -1,68 +1,9 @@
-bip_39_word_dash_1: drip
-bip_39_word_dash_10: drip-fuel-useless-vital-endless-insect-mouse-tuition-subject-solid
-bip_39_word_dash_11: drip-fuel-useless-vital-endless-insect-mouse-tuition-subject-solid-cool
 bip_39_word_dash_12: drip-fuel-useless-vital-endless-insect-mouse-tuition-subject-solid-cool-absent
 bip_39_word_dash_2: drip-fuel
 bip_39_word_dash_3: drip-fuel-useless
-bip_39_word_dash_4: drip-fuel-useless-vital
-bip_39_word_dash_5: drip-fuel-useless-vital-endless
-bip_39_word_dash_6: drip-fuel-useless-vital-endless-insect
-bip_39_word_dash_7: drip-fuel-useless-vital-endless-insect-mouse
-bip_39_word_dash_8: drip-fuel-useless-vital-endless-insect-mouse-tuition
-bip_39_word_dash_9: drip-fuel-useless-vital-endless-insect-mouse-tuition-subject
-bip_39_word_new_br_1: drip
-bip_39_word_new_br_10: drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid
-bip_39_word_new_br_11: drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid<br>cool
 bip_39_word_new_br_12: drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject<br>solid<br>cool<br>absent
 bip_39_word_new_br_2: drip<br>fuel
 bip_39_word_new_br_3: drip<br>fuel<br>useless
-bip_39_word_new_br_4: drip<br>fuel<br>useless<br>vital
-bip_39_word_new_br_5: drip<br>fuel<br>useless<br>vital<br>endless
-bip_39_word_new_br_6: drip<br>fuel<br>useless<br>vital<br>endless<br>insect
-bip_39_word_new_br_7: drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse
-bip_39_word_new_br_8: drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition
-bip_39_word_new_br_9: drip<br>fuel<br>useless<br>vital<br>endless<br>insect<br>mouse<br>tuition<br>subject
-bip_39_word_new_line_1: drip
-bip_39_word_new_line_10: 'drip
-
-  fuel
-
-  useless
-
-  vital
-
-  endless
-
-  insect
-
-  mouse
-
-  tuition
-
-  subject
-
-  solid'
-bip_39_word_new_line_11: 'drip
-
-  fuel
-
-  useless
-
-  vital
-
-  endless
-
-  insect
-
-  mouse
-
-  tuition
-
-  subject
-
-  solid
-
-  cool'
 bip_39_word_new_line_12: 'drip
 
   fuel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'drip
   fuel
 
   useless'
-bip_39_word_new_line_4: 'drip
-
-  fuel
-
-  useless
-
-  vital'
-bip_39_word_new_line_5: 'drip
-
-  fuel
-
-  useless
-
-  vital
-
-  endless'
-bip_39_word_new_line_6: 'drip
-
-  fuel
-
-  useless
-
-  vital
-
-  endless
-
-  insect'
-bip_39_word_new_line_7: 'drip
-
-  fuel
-
-  useless
-
-  vital
-
-  endless
-
-  insect
-
-  mouse'
-bip_39_word_new_line_8: 'drip
-
-  fuel
-
-  useless
-
-  vital
-
-  endless
-
-  insect
-
-  mouse
-
-  tuition'
-bip_39_word_new_line_9: 'drip
-
-  fuel
-
-  useless
-
-  vital
-
-  endless
-
-  insect
-
-  mouse
-
-  tuition
-
-  subject'
-bip_39_word_no_space_1: drip
-bip_39_word_no_space_10: dripfueluselessvitalendlessinsectmousetuitionsubjectsolid
-bip_39_word_no_space_11: dripfueluselessvitalendlessinsectmousetuitionsubjectsolidcool
 bip_39_word_no_space_12: dripfueluselessvitalendlessinsectmousetuitionsubjectsolidcoolabsent
 bip_39_word_no_space_2: dripfuel
 bip_39_word_no_space_3: dripfueluseless
-bip_39_word_no_space_4: dripfueluselessvital
-bip_39_word_no_space_5: dripfueluselessvitalendless
-bip_39_word_no_space_6: dripfueluselessvitalendlessinsect
-bip_39_word_no_space_7: dripfueluselessvitalendlessinsectmouse
-bip_39_word_no_space_8: dripfueluselessvitalendlessinsectmousetuition
-bip_39_word_no_space_9: dripfueluselessvitalendlessinsectmousetuitionsubject
-bip_39_word_space_0:
-- drip
-- fuel
-- useless
-- vital
-- endless
-- insect
-- mouse
-- tuition
-- subject
-- solid
-- cool
-- absent
-bip_39_word_space_1: drip
-bip_39_word_space_10: drip fuel useless vital endless insect mouse tuition subject
-  solid
-bip_39_word_space_11: drip fuel useless vital endless insect mouse tuition subject
-  solid cool
 bip_39_word_space_12: drip fuel useless vital endless insect mouse tuition subject
   solid cool absent
 bip_39_word_space_2: drip fuel
 bip_39_word_space_3: drip fuel useless
-bip_39_word_space_4: drip fuel useless vital
-bip_39_word_space_5: drip fuel useless vital endless
-bip_39_word_space_6: drip fuel useless vital endless insect
-bip_39_word_space_7: drip fuel useless vital endless insect mouse
-bip_39_word_space_8: drip fuel useless vital endless insect mouse tuition
-bip_39_word_space_9: drip fuel useless vital endless insect mouse tuition subject
-bip_39_word_underscore_1: drip
-bip_39_word_underscore_10: drip_fuel_useless_vital_endless_insect_mouse_tuition_subject_solid
-bip_39_word_underscore_11: drip_fuel_useless_vital_endless_insect_mouse_tuition_subject_solid_cool
 bip_39_word_underscore_12: drip_fuel_useless_vital_endless_insect_mouse_tuition_subject_solid_cool_absent
 bip_39_word_underscore_2: drip_fuel
 bip_39_word_underscore_3: drip_fuel_useless
-bip_39_word_underscore_4: drip_fuel_useless_vital
-bip_39_word_underscore_5: drip_fuel_useless_vital_endless
-bip_39_word_underscore_6: drip_fuel_useless_vital_endless_insect
-bip_39_word_underscore_7: drip_fuel_useless_vital_endless_insect_mouse
-bip_39_word_underscore_8: drip_fuel_useless_vital_endless_insect_mouse_tuition
-bip_39_word_underscore_9: drip_fuel_useless_vital_endless_insect_mouse_tuition_subject
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

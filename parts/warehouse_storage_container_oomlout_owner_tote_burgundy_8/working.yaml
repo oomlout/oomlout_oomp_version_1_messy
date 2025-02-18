@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crop
-bip_39_word_dash_10: crop-like-there-mountain-carry-bulk-write-time-fire-snow
-bip_39_word_dash_11: crop-like-there-mountain-carry-bulk-write-time-fire-snow-student
 bip_39_word_dash_12: crop-like-there-mountain-carry-bulk-write-time-fire-snow-student-adjust
 bip_39_word_dash_2: crop-like
 bip_39_word_dash_3: crop-like-there
-bip_39_word_dash_4: crop-like-there-mountain
-bip_39_word_dash_5: crop-like-there-mountain-carry
-bip_39_word_dash_6: crop-like-there-mountain-carry-bulk
-bip_39_word_dash_7: crop-like-there-mountain-carry-bulk-write
-bip_39_word_dash_8: crop-like-there-mountain-carry-bulk-write-time
-bip_39_word_dash_9: crop-like-there-mountain-carry-bulk-write-time-fire
-bip_39_word_new_br_1: crop
-bip_39_word_new_br_10: crop<br>like<br>there<br>mountain<br>carry<br>bulk<br>write<br>time<br>fire<br>snow
-bip_39_word_new_br_11: crop<br>like<br>there<br>mountain<br>carry<br>bulk<br>write<br>time<br>fire<br>snow<br>student
 bip_39_word_new_br_12: crop<br>like<br>there<br>mountain<br>carry<br>bulk<br>write<br>time<br>fire<br>snow<br>student<br>adjust
 bip_39_word_new_br_2: crop<br>like
 bip_39_word_new_br_3: crop<br>like<br>there
-bip_39_word_new_br_4: crop<br>like<br>there<br>mountain
-bip_39_word_new_br_5: crop<br>like<br>there<br>mountain<br>carry
-bip_39_word_new_br_6: crop<br>like<br>there<br>mountain<br>carry<br>bulk
-bip_39_word_new_br_7: crop<br>like<br>there<br>mountain<br>carry<br>bulk<br>write
-bip_39_word_new_br_8: crop<br>like<br>there<br>mountain<br>carry<br>bulk<br>write<br>time
-bip_39_word_new_br_9: crop<br>like<br>there<br>mountain<br>carry<br>bulk<br>write<br>time<br>fire
-bip_39_word_new_line_1: crop
-bip_39_word_new_line_10: 'crop
-
-  like
-
-  there
-
-  mountain
-
-  carry
-
-  bulk
-
-  write
-
-  time
-
-  fire
-
-  snow'
-bip_39_word_new_line_11: 'crop
-
-  like
-
-  there
-
-  mountain
-
-  carry
-
-  bulk
-
-  write
-
-  time
-
-  fire
-
-  snow
-
-  student'
 bip_39_word_new_line_12: 'crop
 
   like
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'crop
   like
 
   there'
-bip_39_word_new_line_4: 'crop
-
-  like
-
-  there
-
-  mountain'
-bip_39_word_new_line_5: 'crop
-
-  like
-
-  there
-
-  mountain
-
-  carry'
-bip_39_word_new_line_6: 'crop
-
-  like
-
-  there
-
-  mountain
-
-  carry
-
-  bulk'
-bip_39_word_new_line_7: 'crop
-
-  like
-
-  there
-
-  mountain
-
-  carry
-
-  bulk
-
-  write'
-bip_39_word_new_line_8: 'crop
-
-  like
-
-  there
-
-  mountain
-
-  carry
-
-  bulk
-
-  write
-
-  time'
-bip_39_word_new_line_9: 'crop
-
-  like
-
-  there
-
-  mountain
-
-  carry
-
-  bulk
-
-  write
-
-  time
-
-  fire'
-bip_39_word_no_space_1: crop
-bip_39_word_no_space_10: cropliketheremountaincarrybulkwritetimefiresnow
-bip_39_word_no_space_11: cropliketheremountaincarrybulkwritetimefiresnowstudent
 bip_39_word_no_space_12: cropliketheremountaincarrybulkwritetimefiresnowstudentadjust
 bip_39_word_no_space_2: croplike
 bip_39_word_no_space_3: croplikethere
-bip_39_word_no_space_4: cropliketheremountain
-bip_39_word_no_space_5: cropliketheremountaincarry
-bip_39_word_no_space_6: cropliketheremountaincarrybulk
-bip_39_word_no_space_7: cropliketheremountaincarrybulkwrite
-bip_39_word_no_space_8: cropliketheremountaincarrybulkwritetime
-bip_39_word_no_space_9: cropliketheremountaincarrybulkwritetimefire
-bip_39_word_space_0:
-- crop
-- like
-- there
-- mountain
-- carry
-- bulk
-- write
-- time
-- fire
-- snow
-- student
-- adjust
-bip_39_word_space_1: crop
-bip_39_word_space_10: crop like there mountain carry bulk write time fire snow
-bip_39_word_space_11: crop like there mountain carry bulk write time fire snow student
 bip_39_word_space_12: crop like there mountain carry bulk write time fire snow student
   adjust
 bip_39_word_space_2: crop like
 bip_39_word_space_3: crop like there
-bip_39_word_space_4: crop like there mountain
-bip_39_word_space_5: crop like there mountain carry
-bip_39_word_space_6: crop like there mountain carry bulk
-bip_39_word_space_7: crop like there mountain carry bulk write
-bip_39_word_space_8: crop like there mountain carry bulk write time
-bip_39_word_space_9: crop like there mountain carry bulk write time fire
-bip_39_word_underscore_1: crop
-bip_39_word_underscore_10: crop_like_there_mountain_carry_bulk_write_time_fire_snow
-bip_39_word_underscore_11: crop_like_there_mountain_carry_bulk_write_time_fire_snow_student
 bip_39_word_underscore_12: crop_like_there_mountain_carry_bulk_write_time_fire_snow_student_adjust
 bip_39_word_underscore_2: crop_like
 bip_39_word_underscore_3: crop_like_there
-bip_39_word_underscore_4: crop_like_there_mountain
-bip_39_word_underscore_5: crop_like_there_mountain_carry
-bip_39_word_underscore_6: crop_like_there_mountain_carry_bulk
-bip_39_word_underscore_7: crop_like_there_mountain_carry_bulk_write
-bip_39_word_underscore_8: crop_like_there_mountain_carry_bulk_write_time
-bip_39_word_underscore_9: crop_like_there_mountain_carry_bulk_write_time_fire
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

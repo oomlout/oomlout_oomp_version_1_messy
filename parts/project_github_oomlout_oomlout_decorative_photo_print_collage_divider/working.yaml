@@ -1,68 +1,9 @@
-bip_39_word_dash_1: reward
-bip_39_word_dash_10: reward-merge-judge-decline-agent-stand-version-jacket-tape-debris
-bip_39_word_dash_11: reward-merge-judge-decline-agent-stand-version-jacket-tape-debris-olive
 bip_39_word_dash_12: reward-merge-judge-decline-agent-stand-version-jacket-tape-debris-olive-airport
 bip_39_word_dash_2: reward-merge
 bip_39_word_dash_3: reward-merge-judge
-bip_39_word_dash_4: reward-merge-judge-decline
-bip_39_word_dash_5: reward-merge-judge-decline-agent
-bip_39_word_dash_6: reward-merge-judge-decline-agent-stand
-bip_39_word_dash_7: reward-merge-judge-decline-agent-stand-version
-bip_39_word_dash_8: reward-merge-judge-decline-agent-stand-version-jacket
-bip_39_word_dash_9: reward-merge-judge-decline-agent-stand-version-jacket-tape
-bip_39_word_new_br_1: reward
-bip_39_word_new_br_10: reward<br>merge<br>judge<br>decline<br>agent<br>stand<br>version<br>jacket<br>tape<br>debris
-bip_39_word_new_br_11: reward<br>merge<br>judge<br>decline<br>agent<br>stand<br>version<br>jacket<br>tape<br>debris<br>olive
 bip_39_word_new_br_12: reward<br>merge<br>judge<br>decline<br>agent<br>stand<br>version<br>jacket<br>tape<br>debris<br>olive<br>airport
 bip_39_word_new_br_2: reward<br>merge
 bip_39_word_new_br_3: reward<br>merge<br>judge
-bip_39_word_new_br_4: reward<br>merge<br>judge<br>decline
-bip_39_word_new_br_5: reward<br>merge<br>judge<br>decline<br>agent
-bip_39_word_new_br_6: reward<br>merge<br>judge<br>decline<br>agent<br>stand
-bip_39_word_new_br_7: reward<br>merge<br>judge<br>decline<br>agent<br>stand<br>version
-bip_39_word_new_br_8: reward<br>merge<br>judge<br>decline<br>agent<br>stand<br>version<br>jacket
-bip_39_word_new_br_9: reward<br>merge<br>judge<br>decline<br>agent<br>stand<br>version<br>jacket<br>tape
-bip_39_word_new_line_1: reward
-bip_39_word_new_line_10: 'reward
-
-  merge
-
-  judge
-
-  decline
-
-  agent
-
-  stand
-
-  version
-
-  jacket
-
-  tape
-
-  debris'
-bip_39_word_new_line_11: 'reward
-
-  merge
-
-  judge
-
-  decline
-
-  agent
-
-  stand
-
-  version
-
-  jacket
-
-  tape
-
-  debris
-
-  olive'
 bip_39_word_new_line_12: 'reward
 
   merge
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'reward
   merge
 
   judge'
-bip_39_word_new_line_4: 'reward
-
-  merge
-
-  judge
-
-  decline'
-bip_39_word_new_line_5: 'reward
-
-  merge
-
-  judge
-
-  decline
-
-  agent'
-bip_39_word_new_line_6: 'reward
-
-  merge
-
-  judge
-
-  decline
-
-  agent
-
-  stand'
-bip_39_word_new_line_7: 'reward
-
-  merge
-
-  judge
-
-  decline
-
-  agent
-
-  stand
-
-  version'
-bip_39_word_new_line_8: 'reward
-
-  merge
-
-  judge
-
-  decline
-
-  agent
-
-  stand
-
-  version
-
-  jacket'
-bip_39_word_new_line_9: 'reward
-
-  merge
-
-  judge
-
-  decline
-
-  agent
-
-  stand
-
-  version
-
-  jacket
-
-  tape'
-bip_39_word_no_space_1: reward
-bip_39_word_no_space_10: rewardmergejudgedeclineagentstandversionjackettapedebris
-bip_39_word_no_space_11: rewardmergejudgedeclineagentstandversionjackettapedebrisolive
 bip_39_word_no_space_12: rewardmergejudgedeclineagentstandversionjackettapedebrisoliveairport
 bip_39_word_no_space_2: rewardmerge
 bip_39_word_no_space_3: rewardmergejudge
-bip_39_word_no_space_4: rewardmergejudgedecline
-bip_39_word_no_space_5: rewardmergejudgedeclineagent
-bip_39_word_no_space_6: rewardmergejudgedeclineagentstand
-bip_39_word_no_space_7: rewardmergejudgedeclineagentstandversion
-bip_39_word_no_space_8: rewardmergejudgedeclineagentstandversionjacket
-bip_39_word_no_space_9: rewardmergejudgedeclineagentstandversionjackettape
-bip_39_word_space_0:
-- reward
-- merge
-- judge
-- decline
-- agent
-- stand
-- version
-- jacket
-- tape
-- debris
-- olive
-- airport
-bip_39_word_space_1: reward
-bip_39_word_space_10: reward merge judge decline agent stand version jacket tape debris
-bip_39_word_space_11: reward merge judge decline agent stand version jacket tape debris
-  olive
 bip_39_word_space_12: reward merge judge decline agent stand version jacket tape debris
   olive airport
 bip_39_word_space_2: reward merge
 bip_39_word_space_3: reward merge judge
-bip_39_word_space_4: reward merge judge decline
-bip_39_word_space_5: reward merge judge decline agent
-bip_39_word_space_6: reward merge judge decline agent stand
-bip_39_word_space_7: reward merge judge decline agent stand version
-bip_39_word_space_8: reward merge judge decline agent stand version jacket
-bip_39_word_space_9: reward merge judge decline agent stand version jacket tape
-bip_39_word_underscore_1: reward
-bip_39_word_underscore_10: reward_merge_judge_decline_agent_stand_version_jacket_tape_debris
-bip_39_word_underscore_11: reward_merge_judge_decline_agent_stand_version_jacket_tape_debris_olive
 bip_39_word_underscore_12: reward_merge_judge_decline_agent_stand_version_jacket_tape_debris_olive_airport
 bip_39_word_underscore_2: reward_merge
 bip_39_word_underscore_3: reward_merge_judge
-bip_39_word_underscore_4: reward_merge_judge_decline
-bip_39_word_underscore_5: reward_merge_judge_decline_agent
-bip_39_word_underscore_6: reward_merge_judge_decline_agent_stand
-bip_39_word_underscore_7: reward_merge_judge_decline_agent_stand_version
-bip_39_word_underscore_8: reward_merge_judge_decline_agent_stand_version_jacket
-bip_39_word_underscore_9: reward_merge_judge_decline_agent_stand_version_jacket_tape
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: arrest
-bip_39_word_dash_10: arrest-rail-coast-onion-effort-birth-room-clown-order-light
-bip_39_word_dash_11: arrest-rail-coast-onion-effort-birth-room-clown-order-light-calm
 bip_39_word_dash_12: arrest-rail-coast-onion-effort-birth-room-clown-order-light-calm-arrive
 bip_39_word_dash_2: arrest-rail
 bip_39_word_dash_3: arrest-rail-coast
-bip_39_word_dash_4: arrest-rail-coast-onion
-bip_39_word_dash_5: arrest-rail-coast-onion-effort
-bip_39_word_dash_6: arrest-rail-coast-onion-effort-birth
-bip_39_word_dash_7: arrest-rail-coast-onion-effort-birth-room
-bip_39_word_dash_8: arrest-rail-coast-onion-effort-birth-room-clown
-bip_39_word_dash_9: arrest-rail-coast-onion-effort-birth-room-clown-order
-bip_39_word_new_br_1: arrest
-bip_39_word_new_br_10: arrest<br>rail<br>coast<br>onion<br>effort<br>birth<br>room<br>clown<br>order<br>light
-bip_39_word_new_br_11: arrest<br>rail<br>coast<br>onion<br>effort<br>birth<br>room<br>clown<br>order<br>light<br>calm
 bip_39_word_new_br_12: arrest<br>rail<br>coast<br>onion<br>effort<br>birth<br>room<br>clown<br>order<br>light<br>calm<br>arrive
 bip_39_word_new_br_2: arrest<br>rail
 bip_39_word_new_br_3: arrest<br>rail<br>coast
-bip_39_word_new_br_4: arrest<br>rail<br>coast<br>onion
-bip_39_word_new_br_5: arrest<br>rail<br>coast<br>onion<br>effort
-bip_39_word_new_br_6: arrest<br>rail<br>coast<br>onion<br>effort<br>birth
-bip_39_word_new_br_7: arrest<br>rail<br>coast<br>onion<br>effort<br>birth<br>room
-bip_39_word_new_br_8: arrest<br>rail<br>coast<br>onion<br>effort<br>birth<br>room<br>clown
-bip_39_word_new_br_9: arrest<br>rail<br>coast<br>onion<br>effort<br>birth<br>room<br>clown<br>order
-bip_39_word_new_line_1: arrest
-bip_39_word_new_line_10: 'arrest
-
-  rail
-
-  coast
-
-  onion
-
-  effort
-
-  birth
-
-  room
-
-  clown
-
-  order
-
-  light'
-bip_39_word_new_line_11: 'arrest
-
-  rail
-
-  coast
-
-  onion
-
-  effort
-
-  birth
-
-  room
-
-  clown
-
-  order
-
-  light
-
-  calm'
 bip_39_word_new_line_12: 'arrest
 
   rail
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'arrest
   rail
 
   coast'
-bip_39_word_new_line_4: 'arrest
-
-  rail
-
-  coast
-
-  onion'
-bip_39_word_new_line_5: 'arrest
-
-  rail
-
-  coast
-
-  onion
-
-  effort'
-bip_39_word_new_line_6: 'arrest
-
-  rail
-
-  coast
-
-  onion
-
-  effort
-
-  birth'
-bip_39_word_new_line_7: 'arrest
-
-  rail
-
-  coast
-
-  onion
-
-  effort
-
-  birth
-
-  room'
-bip_39_word_new_line_8: 'arrest
-
-  rail
-
-  coast
-
-  onion
-
-  effort
-
-  birth
-
-  room
-
-  clown'
-bip_39_word_new_line_9: 'arrest
-
-  rail
-
-  coast
-
-  onion
-
-  effort
-
-  birth
-
-  room
-
-  clown
-
-  order'
-bip_39_word_no_space_1: arrest
-bip_39_word_no_space_10: arrestrailcoastonioneffortbirthroomclownorderlight
-bip_39_word_no_space_11: arrestrailcoastonioneffortbirthroomclownorderlightcalm
 bip_39_word_no_space_12: arrestrailcoastonioneffortbirthroomclownorderlightcalmarrive
 bip_39_word_no_space_2: arrestrail
 bip_39_word_no_space_3: arrestrailcoast
-bip_39_word_no_space_4: arrestrailcoastonion
-bip_39_word_no_space_5: arrestrailcoastonioneffort
-bip_39_word_no_space_6: arrestrailcoastonioneffortbirth
-bip_39_word_no_space_7: arrestrailcoastonioneffortbirthroom
-bip_39_word_no_space_8: arrestrailcoastonioneffortbirthroomclown
-bip_39_word_no_space_9: arrestrailcoastonioneffortbirthroomclownorder
-bip_39_word_space_0:
-- arrest
-- rail
-- coast
-- onion
-- effort
-- birth
-- room
-- clown
-- order
-- light
-- calm
-- arrive
-bip_39_word_space_1: arrest
-bip_39_word_space_10: arrest rail coast onion effort birth room clown order light
-bip_39_word_space_11: arrest rail coast onion effort birth room clown order light
-  calm
 bip_39_word_space_12: arrest rail coast onion effort birth room clown order light
   calm arrive
 bip_39_word_space_2: arrest rail
 bip_39_word_space_3: arrest rail coast
-bip_39_word_space_4: arrest rail coast onion
-bip_39_word_space_5: arrest rail coast onion effort
-bip_39_word_space_6: arrest rail coast onion effort birth
-bip_39_word_space_7: arrest rail coast onion effort birth room
-bip_39_word_space_8: arrest rail coast onion effort birth room clown
-bip_39_word_space_9: arrest rail coast onion effort birth room clown order
-bip_39_word_underscore_1: arrest
-bip_39_word_underscore_10: arrest_rail_coast_onion_effort_birth_room_clown_order_light
-bip_39_word_underscore_11: arrest_rail_coast_onion_effort_birth_room_clown_order_light_calm
 bip_39_word_underscore_12: arrest_rail_coast_onion_effort_birth_room_clown_order_light_calm_arrive
 bip_39_word_underscore_2: arrest_rail
 bip_39_word_underscore_3: arrest_rail_coast
-bip_39_word_underscore_4: arrest_rail_coast_onion
-bip_39_word_underscore_5: arrest_rail_coast_onion_effort
-bip_39_word_underscore_6: arrest_rail_coast_onion_effort_birth
-bip_39_word_underscore_7: arrest_rail_coast_onion_effort_birth_room
-bip_39_word_underscore_8: arrest_rail_coast_onion_effort_birth_room_clown
-bip_39_word_underscore_9: arrest_rail_coast_onion_effort_birth_room_clown_order
 classification: category
 classification_capital: Category
 classification_first_letter: c

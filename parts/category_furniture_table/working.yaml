@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uncle
-bip_39_word_dash_10: uncle-certain-cliff-flower-eyebrow-shock-fiction-grunt-until-steel
-bip_39_word_dash_11: uncle-certain-cliff-flower-eyebrow-shock-fiction-grunt-until-steel-shadow
 bip_39_word_dash_12: uncle-certain-cliff-flower-eyebrow-shock-fiction-grunt-until-steel-shadow-air
 bip_39_word_dash_2: uncle-certain
 bip_39_word_dash_3: uncle-certain-cliff
-bip_39_word_dash_4: uncle-certain-cliff-flower
-bip_39_word_dash_5: uncle-certain-cliff-flower-eyebrow
-bip_39_word_dash_6: uncle-certain-cliff-flower-eyebrow-shock
-bip_39_word_dash_7: uncle-certain-cliff-flower-eyebrow-shock-fiction
-bip_39_word_dash_8: uncle-certain-cliff-flower-eyebrow-shock-fiction-grunt
-bip_39_word_dash_9: uncle-certain-cliff-flower-eyebrow-shock-fiction-grunt-until
-bip_39_word_new_br_1: uncle
-bip_39_word_new_br_10: uncle<br>certain<br>cliff<br>flower<br>eyebrow<br>shock<br>fiction<br>grunt<br>until<br>steel
-bip_39_word_new_br_11: uncle<br>certain<br>cliff<br>flower<br>eyebrow<br>shock<br>fiction<br>grunt<br>until<br>steel<br>shadow
 bip_39_word_new_br_12: uncle<br>certain<br>cliff<br>flower<br>eyebrow<br>shock<br>fiction<br>grunt<br>until<br>steel<br>shadow<br>air
 bip_39_word_new_br_2: uncle<br>certain
 bip_39_word_new_br_3: uncle<br>certain<br>cliff
-bip_39_word_new_br_4: uncle<br>certain<br>cliff<br>flower
-bip_39_word_new_br_5: uncle<br>certain<br>cliff<br>flower<br>eyebrow
-bip_39_word_new_br_6: uncle<br>certain<br>cliff<br>flower<br>eyebrow<br>shock
-bip_39_word_new_br_7: uncle<br>certain<br>cliff<br>flower<br>eyebrow<br>shock<br>fiction
-bip_39_word_new_br_8: uncle<br>certain<br>cliff<br>flower<br>eyebrow<br>shock<br>fiction<br>grunt
-bip_39_word_new_br_9: uncle<br>certain<br>cliff<br>flower<br>eyebrow<br>shock<br>fiction<br>grunt<br>until
-bip_39_word_new_line_1: uncle
-bip_39_word_new_line_10: 'uncle
-
-  certain
-
-  cliff
-
-  flower
-
-  eyebrow
-
-  shock
-
-  fiction
-
-  grunt
-
-  until
-
-  steel'
-bip_39_word_new_line_11: 'uncle
-
-  certain
-
-  cliff
-
-  flower
-
-  eyebrow
-
-  shock
-
-  fiction
-
-  grunt
-
-  until
-
-  steel
-
-  shadow'
 bip_39_word_new_line_12: 'uncle
 
   certain
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'uncle
   certain
 
   cliff'
-bip_39_word_new_line_4: 'uncle
-
-  certain
-
-  cliff
-
-  flower'
-bip_39_word_new_line_5: 'uncle
-
-  certain
-
-  cliff
-
-  flower
-
-  eyebrow'
-bip_39_word_new_line_6: 'uncle
-
-  certain
-
-  cliff
-
-  flower
-
-  eyebrow
-
-  shock'
-bip_39_word_new_line_7: 'uncle
-
-  certain
-
-  cliff
-
-  flower
-
-  eyebrow
-
-  shock
-
-  fiction'
-bip_39_word_new_line_8: 'uncle
-
-  certain
-
-  cliff
-
-  flower
-
-  eyebrow
-
-  shock
-
-  fiction
-
-  grunt'
-bip_39_word_new_line_9: 'uncle
-
-  certain
-
-  cliff
-
-  flower
-
-  eyebrow
-
-  shock
-
-  fiction
-
-  grunt
-
-  until'
-bip_39_word_no_space_1: uncle
-bip_39_word_no_space_10: unclecertaincliffflowereyebrowshockfictiongruntuntilsteel
-bip_39_word_no_space_11: unclecertaincliffflowereyebrowshockfictiongruntuntilsteelshadow
 bip_39_word_no_space_12: unclecertaincliffflowereyebrowshockfictiongruntuntilsteelshadowair
 bip_39_word_no_space_2: unclecertain
 bip_39_word_no_space_3: unclecertaincliff
-bip_39_word_no_space_4: unclecertaincliffflower
-bip_39_word_no_space_5: unclecertaincliffflowereyebrow
-bip_39_word_no_space_6: unclecertaincliffflowereyebrowshock
-bip_39_word_no_space_7: unclecertaincliffflowereyebrowshockfiction
-bip_39_word_no_space_8: unclecertaincliffflowereyebrowshockfictiongrunt
-bip_39_word_no_space_9: unclecertaincliffflowereyebrowshockfictiongruntuntil
-bip_39_word_space_0:
-- uncle
-- certain
-- cliff
-- flower
-- eyebrow
-- shock
-- fiction
-- grunt
-- until
-- steel
-- shadow
-- air
-bip_39_word_space_1: uncle
-bip_39_word_space_10: uncle certain cliff flower eyebrow shock fiction grunt until
-  steel
-bip_39_word_space_11: uncle certain cliff flower eyebrow shock fiction grunt until
-  steel shadow
 bip_39_word_space_12: uncle certain cliff flower eyebrow shock fiction grunt until
   steel shadow air
 bip_39_word_space_2: uncle certain
 bip_39_word_space_3: uncle certain cliff
-bip_39_word_space_4: uncle certain cliff flower
-bip_39_word_space_5: uncle certain cliff flower eyebrow
-bip_39_word_space_6: uncle certain cliff flower eyebrow shock
-bip_39_word_space_7: uncle certain cliff flower eyebrow shock fiction
-bip_39_word_space_8: uncle certain cliff flower eyebrow shock fiction grunt
-bip_39_word_space_9: uncle certain cliff flower eyebrow shock fiction grunt until
-bip_39_word_underscore_1: uncle
-bip_39_word_underscore_10: uncle_certain_cliff_flower_eyebrow_shock_fiction_grunt_until_steel
-bip_39_word_underscore_11: uncle_certain_cliff_flower_eyebrow_shock_fiction_grunt_until_steel_shadow
 bip_39_word_underscore_12: uncle_certain_cliff_flower_eyebrow_shock_fiction_grunt_until_steel_shadow_air
 bip_39_word_underscore_2: uncle_certain
 bip_39_word_underscore_3: uncle_certain_cliff
-bip_39_word_underscore_4: uncle_certain_cliff_flower
-bip_39_word_underscore_5: uncle_certain_cliff_flower_eyebrow
-bip_39_word_underscore_6: uncle_certain_cliff_flower_eyebrow_shock
-bip_39_word_underscore_7: uncle_certain_cliff_flower_eyebrow_shock_fiction
-bip_39_word_underscore_8: uncle_certain_cliff_flower_eyebrow_shock_fiction_grunt
-bip_39_word_underscore_9: uncle_certain_cliff_flower_eyebrow_shock_fiction_grunt_until
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: train
-bip_39_word_dash_10: train-piano-hold-awful-grace-great-mobile-mom-rose-cry
-bip_39_word_dash_11: train-piano-hold-awful-grace-great-mobile-mom-rose-cry-ginger
 bip_39_word_dash_12: train-piano-hold-awful-grace-great-mobile-mom-rose-cry-ginger-armed
 bip_39_word_dash_2: train-piano
 bip_39_word_dash_3: train-piano-hold
-bip_39_word_dash_4: train-piano-hold-awful
-bip_39_word_dash_5: train-piano-hold-awful-grace
-bip_39_word_dash_6: train-piano-hold-awful-grace-great
-bip_39_word_dash_7: train-piano-hold-awful-grace-great-mobile
-bip_39_word_dash_8: train-piano-hold-awful-grace-great-mobile-mom
-bip_39_word_dash_9: train-piano-hold-awful-grace-great-mobile-mom-rose
-bip_39_word_new_br_1: train
-bip_39_word_new_br_10: train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose<br>cry
-bip_39_word_new_br_11: train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose<br>cry<br>ginger
 bip_39_word_new_br_12: train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose<br>cry<br>ginger<br>armed
 bip_39_word_new_br_2: train<br>piano
 bip_39_word_new_br_3: train<br>piano<br>hold
-bip_39_word_new_br_4: train<br>piano<br>hold<br>awful
-bip_39_word_new_br_5: train<br>piano<br>hold<br>awful<br>grace
-bip_39_word_new_br_6: train<br>piano<br>hold<br>awful<br>grace<br>great
-bip_39_word_new_br_7: train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile
-bip_39_word_new_br_8: train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom
-bip_39_word_new_br_9: train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose
-bip_39_word_new_line_1: train
-bip_39_word_new_line_10: 'train
-
-  piano
-
-  hold
-
-  awful
-
-  grace
-
-  great
-
-  mobile
-
-  mom
-
-  rose
-
-  cry'
-bip_39_word_new_line_11: 'train
-
-  piano
-
-  hold
-
-  awful
-
-  grace
-
-  great
-
-  mobile
-
-  mom
-
-  rose
-
-  cry
-
-  ginger'
 bip_39_word_new_line_12: 'train
 
   piano
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'train
   piano
 
   hold'
-bip_39_word_new_line_4: 'train
-
-  piano
-
-  hold
-
-  awful'
-bip_39_word_new_line_5: 'train
-
-  piano
-
-  hold
-
-  awful
-
-  grace'
-bip_39_word_new_line_6: 'train
-
-  piano
-
-  hold
-
-  awful
-
-  grace
-
-  great'
-bip_39_word_new_line_7: 'train
-
-  piano
-
-  hold
-
-  awful
-
-  grace
-
-  great
-
-  mobile'
-bip_39_word_new_line_8: 'train
-
-  piano
-
-  hold
-
-  awful
-
-  grace
-
-  great
-
-  mobile
-
-  mom'
-bip_39_word_new_line_9: 'train
-
-  piano
-
-  hold
-
-  awful
-
-  grace
-
-  great
-
-  mobile
-
-  mom
-
-  rose'
-bip_39_word_no_space_1: train
-bip_39_word_no_space_10: trainpianoholdawfulgracegreatmobilemomrosecry
-bip_39_word_no_space_11: trainpianoholdawfulgracegreatmobilemomrosecryginger
 bip_39_word_no_space_12: trainpianoholdawfulgracegreatmobilemomrosecrygingerarmed
 bip_39_word_no_space_2: trainpiano
 bip_39_word_no_space_3: trainpianohold
-bip_39_word_no_space_4: trainpianoholdawful
-bip_39_word_no_space_5: trainpianoholdawfulgrace
-bip_39_word_no_space_6: trainpianoholdawfulgracegreat
-bip_39_word_no_space_7: trainpianoholdawfulgracegreatmobile
-bip_39_word_no_space_8: trainpianoholdawfulgracegreatmobilemom
-bip_39_word_no_space_9: trainpianoholdawfulgracegreatmobilemomrose
-bip_39_word_space_0:
-- train
-- piano
-- hold
-- awful
-- grace
-- great
-- mobile
-- mom
-- rose
-- cry
-- ginger
-- armed
-bip_39_word_space_1: train
-bip_39_word_space_10: train piano hold awful grace great mobile mom rose cry
-bip_39_word_space_11: train piano hold awful grace great mobile mom rose cry ginger
 bip_39_word_space_12: train piano hold awful grace great mobile mom rose cry ginger
   armed
 bip_39_word_space_2: train piano
 bip_39_word_space_3: train piano hold
-bip_39_word_space_4: train piano hold awful
-bip_39_word_space_5: train piano hold awful grace
-bip_39_word_space_6: train piano hold awful grace great
-bip_39_word_space_7: train piano hold awful grace great mobile
-bip_39_word_space_8: train piano hold awful grace great mobile mom
-bip_39_word_space_9: train piano hold awful grace great mobile mom rose
-bip_39_word_underscore_1: train
-bip_39_word_underscore_10: train_piano_hold_awful_grace_great_mobile_mom_rose_cry
-bip_39_word_underscore_11: train_piano_hold_awful_grace_great_mobile_mom_rose_cry_ginger
 bip_39_word_underscore_12: train_piano_hold_awful_grace_great_mobile_mom_rose_cry_ginger_armed
 bip_39_word_underscore_2: train_piano
 bip_39_word_underscore_3: train_piano_hold
-bip_39_word_underscore_4: train_piano_hold_awful
-bip_39_word_underscore_5: train_piano_hold_awful_grace
-bip_39_word_underscore_6: train_piano_hold_awful_grace_great
-bip_39_word_underscore_7: train_piano_hold_awful_grace_great_mobile
-bip_39_word_underscore_8: train_piano_hold_awful_grace_great_mobile_mom
-bip_39_word_underscore_9: train_piano_hold_awful_grace_great_mobile_mom_rose
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

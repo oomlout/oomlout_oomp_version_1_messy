@@ -1,68 +1,9 @@
-bip_39_word_dash_1: square
-bip_39_word_dash_10: square-drop-burden-raise-include-globe-same-chair-wheel-actor
-bip_39_word_dash_11: square-drop-burden-raise-include-globe-same-chair-wheel-actor-rookie
 bip_39_word_dash_12: square-drop-burden-raise-include-globe-same-chair-wheel-actor-rookie-ability
 bip_39_word_dash_2: square-drop
 bip_39_word_dash_3: square-drop-burden
-bip_39_word_dash_4: square-drop-burden-raise
-bip_39_word_dash_5: square-drop-burden-raise-include
-bip_39_word_dash_6: square-drop-burden-raise-include-globe
-bip_39_word_dash_7: square-drop-burden-raise-include-globe-same
-bip_39_word_dash_8: square-drop-burden-raise-include-globe-same-chair
-bip_39_word_dash_9: square-drop-burden-raise-include-globe-same-chair-wheel
-bip_39_word_new_br_1: square
-bip_39_word_new_br_10: square<br>drop<br>burden<br>raise<br>include<br>globe<br>same<br>chair<br>wheel<br>actor
-bip_39_word_new_br_11: square<br>drop<br>burden<br>raise<br>include<br>globe<br>same<br>chair<br>wheel<br>actor<br>rookie
 bip_39_word_new_br_12: square<br>drop<br>burden<br>raise<br>include<br>globe<br>same<br>chair<br>wheel<br>actor<br>rookie<br>ability
 bip_39_word_new_br_2: square<br>drop
 bip_39_word_new_br_3: square<br>drop<br>burden
-bip_39_word_new_br_4: square<br>drop<br>burden<br>raise
-bip_39_word_new_br_5: square<br>drop<br>burden<br>raise<br>include
-bip_39_word_new_br_6: square<br>drop<br>burden<br>raise<br>include<br>globe
-bip_39_word_new_br_7: square<br>drop<br>burden<br>raise<br>include<br>globe<br>same
-bip_39_word_new_br_8: square<br>drop<br>burden<br>raise<br>include<br>globe<br>same<br>chair
-bip_39_word_new_br_9: square<br>drop<br>burden<br>raise<br>include<br>globe<br>same<br>chair<br>wheel
-bip_39_word_new_line_1: square
-bip_39_word_new_line_10: 'square
-
-  drop
-
-  burden
-
-  raise
-
-  include
-
-  globe
-
-  same
-
-  chair
-
-  wheel
-
-  actor'
-bip_39_word_new_line_11: 'square
-
-  drop
-
-  burden
-
-  raise
-
-  include
-
-  globe
-
-  same
-
-  chair
-
-  wheel
-
-  actor
-
-  rookie'
 bip_39_word_new_line_12: 'square
 
   drop
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'square
   drop
 
   burden'
-bip_39_word_new_line_4: 'square
-
-  drop
-
-  burden
-
-  raise'
-bip_39_word_new_line_5: 'square
-
-  drop
-
-  burden
-
-  raise
-
-  include'
-bip_39_word_new_line_6: 'square
-
-  drop
-
-  burden
-
-  raise
-
-  include
-
-  globe'
-bip_39_word_new_line_7: 'square
-
-  drop
-
-  burden
-
-  raise
-
-  include
-
-  globe
-
-  same'
-bip_39_word_new_line_8: 'square
-
-  drop
-
-  burden
-
-  raise
-
-  include
-
-  globe
-
-  same
-
-  chair'
-bip_39_word_new_line_9: 'square
-
-  drop
-
-  burden
-
-  raise
-
-  include
-
-  globe
-
-  same
-
-  chair
-
-  wheel'
-bip_39_word_no_space_1: square
-bip_39_word_no_space_10: squaredropburdenraiseincludeglobesamechairwheelactor
-bip_39_word_no_space_11: squaredropburdenraiseincludeglobesamechairwheelactorrookie
 bip_39_word_no_space_12: squaredropburdenraiseincludeglobesamechairwheelactorrookieability
 bip_39_word_no_space_2: squaredrop
 bip_39_word_no_space_3: squaredropburden
-bip_39_word_no_space_4: squaredropburdenraise
-bip_39_word_no_space_5: squaredropburdenraiseinclude
-bip_39_word_no_space_6: squaredropburdenraiseincludeglobe
-bip_39_word_no_space_7: squaredropburdenraiseincludeglobesame
-bip_39_word_no_space_8: squaredropburdenraiseincludeglobesamechair
-bip_39_word_no_space_9: squaredropburdenraiseincludeglobesamechairwheel
-bip_39_word_space_0:
-- square
-- drop
-- burden
-- raise
-- include
-- globe
-- same
-- chair
-- wheel
-- actor
-- rookie
-- ability
-bip_39_word_space_1: square
-bip_39_word_space_10: square drop burden raise include globe same chair wheel actor
-bip_39_word_space_11: square drop burden raise include globe same chair wheel actor
-  rookie
 bip_39_word_space_12: square drop burden raise include globe same chair wheel actor
   rookie ability
 bip_39_word_space_2: square drop
 bip_39_word_space_3: square drop burden
-bip_39_word_space_4: square drop burden raise
-bip_39_word_space_5: square drop burden raise include
-bip_39_word_space_6: square drop burden raise include globe
-bip_39_word_space_7: square drop burden raise include globe same
-bip_39_word_space_8: square drop burden raise include globe same chair
-bip_39_word_space_9: square drop burden raise include globe same chair wheel
-bip_39_word_underscore_1: square
-bip_39_word_underscore_10: square_drop_burden_raise_include_globe_same_chair_wheel_actor
-bip_39_word_underscore_11: square_drop_burden_raise_include_globe_same_chair_wheel_actor_rookie
 bip_39_word_underscore_12: square_drop_burden_raise_include_globe_same_chair_wheel_actor_rookie_ability
 bip_39_word_underscore_2: square_drop
 bip_39_word_underscore_3: square_drop_burden
-bip_39_word_underscore_4: square_drop_burden_raise
-bip_39_word_underscore_5: square_drop_burden_raise_include
-bip_39_word_underscore_6: square_drop_burden_raise_include_globe
-bip_39_word_underscore_7: square_drop_burden_raise_include_globe_same
-bip_39_word_underscore_8: square_drop_burden_raise_include_globe_same_chair
-bip_39_word_underscore_9: square_drop_burden_raise_include_globe_same_chair_wheel
 classification: category
 classification_capital: Category
 classification_first_letter: c

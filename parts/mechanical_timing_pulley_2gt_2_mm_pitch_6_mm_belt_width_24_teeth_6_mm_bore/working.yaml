@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sea
-bip_39_word_dash_10: sea-satoshi-nurse-patient-survey-warrior-return-correct-anxiety-hat
-bip_39_word_dash_11: sea-satoshi-nurse-patient-survey-warrior-return-correct-anxiety-hat-easy
 bip_39_word_dash_12: sea-satoshi-nurse-patient-survey-warrior-return-correct-anxiety-hat-easy-amount
 bip_39_word_dash_2: sea-satoshi
 bip_39_word_dash_3: sea-satoshi-nurse
-bip_39_word_dash_4: sea-satoshi-nurse-patient
-bip_39_word_dash_5: sea-satoshi-nurse-patient-survey
-bip_39_word_dash_6: sea-satoshi-nurse-patient-survey-warrior
-bip_39_word_dash_7: sea-satoshi-nurse-patient-survey-warrior-return
-bip_39_word_dash_8: sea-satoshi-nurse-patient-survey-warrior-return-correct
-bip_39_word_dash_9: sea-satoshi-nurse-patient-survey-warrior-return-correct-anxiety
-bip_39_word_new_br_1: sea
-bip_39_word_new_br_10: sea<br>satoshi<br>nurse<br>patient<br>survey<br>warrior<br>return<br>correct<br>anxiety<br>hat
-bip_39_word_new_br_11: sea<br>satoshi<br>nurse<br>patient<br>survey<br>warrior<br>return<br>correct<br>anxiety<br>hat<br>easy
 bip_39_word_new_br_12: sea<br>satoshi<br>nurse<br>patient<br>survey<br>warrior<br>return<br>correct<br>anxiety<br>hat<br>easy<br>amount
 bip_39_word_new_br_2: sea<br>satoshi
 bip_39_word_new_br_3: sea<br>satoshi<br>nurse
-bip_39_word_new_br_4: sea<br>satoshi<br>nurse<br>patient
-bip_39_word_new_br_5: sea<br>satoshi<br>nurse<br>patient<br>survey
-bip_39_word_new_br_6: sea<br>satoshi<br>nurse<br>patient<br>survey<br>warrior
-bip_39_word_new_br_7: sea<br>satoshi<br>nurse<br>patient<br>survey<br>warrior<br>return
-bip_39_word_new_br_8: sea<br>satoshi<br>nurse<br>patient<br>survey<br>warrior<br>return<br>correct
-bip_39_word_new_br_9: sea<br>satoshi<br>nurse<br>patient<br>survey<br>warrior<br>return<br>correct<br>anxiety
-bip_39_word_new_line_1: sea
-bip_39_word_new_line_10: 'sea
-
-  satoshi
-
-  nurse
-
-  patient
-
-  survey
-
-  warrior
-
-  return
-
-  correct
-
-  anxiety
-
-  hat'
-bip_39_word_new_line_11: 'sea
-
-  satoshi
-
-  nurse
-
-  patient
-
-  survey
-
-  warrior
-
-  return
-
-  correct
-
-  anxiety
-
-  hat
-
-  easy'
 bip_39_word_new_line_12: 'sea
 
   satoshi
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sea
   satoshi
 
   nurse'
-bip_39_word_new_line_4: 'sea
-
-  satoshi
-
-  nurse
-
-  patient'
-bip_39_word_new_line_5: 'sea
-
-  satoshi
-
-  nurse
-
-  patient
-
-  survey'
-bip_39_word_new_line_6: 'sea
-
-  satoshi
-
-  nurse
-
-  patient
-
-  survey
-
-  warrior'
-bip_39_word_new_line_7: 'sea
-
-  satoshi
-
-  nurse
-
-  patient
-
-  survey
-
-  warrior
-
-  return'
-bip_39_word_new_line_8: 'sea
-
-  satoshi
-
-  nurse
-
-  patient
-
-  survey
-
-  warrior
-
-  return
-
-  correct'
-bip_39_word_new_line_9: 'sea
-
-  satoshi
-
-  nurse
-
-  patient
-
-  survey
-
-  warrior
-
-  return
-
-  correct
-
-  anxiety'
-bip_39_word_no_space_1: sea
-bip_39_word_no_space_10: seasatoshinursepatientsurveywarriorreturncorrectanxietyhat
-bip_39_word_no_space_11: seasatoshinursepatientsurveywarriorreturncorrectanxietyhateasy
 bip_39_word_no_space_12: seasatoshinursepatientsurveywarriorreturncorrectanxietyhateasyamount
 bip_39_word_no_space_2: seasatoshi
 bip_39_word_no_space_3: seasatoshinurse
-bip_39_word_no_space_4: seasatoshinursepatient
-bip_39_word_no_space_5: seasatoshinursepatientsurvey
-bip_39_word_no_space_6: seasatoshinursepatientsurveywarrior
-bip_39_word_no_space_7: seasatoshinursepatientsurveywarriorreturn
-bip_39_word_no_space_8: seasatoshinursepatientsurveywarriorreturncorrect
-bip_39_word_no_space_9: seasatoshinursepatientsurveywarriorreturncorrectanxiety
-bip_39_word_space_0:
-- sea
-- satoshi
-- nurse
-- patient
-- survey
-- warrior
-- return
-- correct
-- anxiety
-- hat
-- easy
-- amount
-bip_39_word_space_1: sea
-bip_39_word_space_10: sea satoshi nurse patient survey warrior return correct anxiety
-  hat
-bip_39_word_space_11: sea satoshi nurse patient survey warrior return correct anxiety
-  hat easy
 bip_39_word_space_12: sea satoshi nurse patient survey warrior return correct anxiety
   hat easy amount
 bip_39_word_space_2: sea satoshi
 bip_39_word_space_3: sea satoshi nurse
-bip_39_word_space_4: sea satoshi nurse patient
-bip_39_word_space_5: sea satoshi nurse patient survey
-bip_39_word_space_6: sea satoshi nurse patient survey warrior
-bip_39_word_space_7: sea satoshi nurse patient survey warrior return
-bip_39_word_space_8: sea satoshi nurse patient survey warrior return correct
-bip_39_word_space_9: sea satoshi nurse patient survey warrior return correct anxiety
-bip_39_word_underscore_1: sea
-bip_39_word_underscore_10: sea_satoshi_nurse_patient_survey_warrior_return_correct_anxiety_hat
-bip_39_word_underscore_11: sea_satoshi_nurse_patient_survey_warrior_return_correct_anxiety_hat_easy
 bip_39_word_underscore_12: sea_satoshi_nurse_patient_survey_warrior_return_correct_anxiety_hat_easy_amount
 bip_39_word_underscore_2: sea_satoshi
 bip_39_word_underscore_3: sea_satoshi_nurse
-bip_39_word_underscore_4: sea_satoshi_nurse_patient
-bip_39_word_underscore_5: sea_satoshi_nurse_patient_survey
-bip_39_word_underscore_6: sea_satoshi_nurse_patient_survey_warrior
-bip_39_word_underscore_7: sea_satoshi_nurse_patient_survey_warrior_return
-bip_39_word_underscore_8: sea_satoshi_nurse_patient_survey_warrior_return_correct
-bip_39_word_underscore_9: sea_satoshi_nurse_patient_survey_warrior_return_correct_anxiety
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

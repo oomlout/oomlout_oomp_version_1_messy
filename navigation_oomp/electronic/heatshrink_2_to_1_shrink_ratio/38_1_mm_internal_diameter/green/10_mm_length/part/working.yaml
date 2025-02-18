@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unit
-bip_39_word_dash_10: unit-neutral-render-wrong-citizen-prevent-camp-series-hand-ball
-bip_39_word_dash_11: unit-neutral-render-wrong-citizen-prevent-camp-series-hand-ball-palace
 bip_39_word_dash_12: unit-neutral-render-wrong-citizen-prevent-camp-series-hand-ball-palace-ahead
 bip_39_word_dash_2: unit-neutral
 bip_39_word_dash_3: unit-neutral-render
-bip_39_word_dash_4: unit-neutral-render-wrong
-bip_39_word_dash_5: unit-neutral-render-wrong-citizen
-bip_39_word_dash_6: unit-neutral-render-wrong-citizen-prevent
-bip_39_word_dash_7: unit-neutral-render-wrong-citizen-prevent-camp
-bip_39_word_dash_8: unit-neutral-render-wrong-citizen-prevent-camp-series
-bip_39_word_dash_9: unit-neutral-render-wrong-citizen-prevent-camp-series-hand
-bip_39_word_new_br_1: unit
-bip_39_word_new_br_10: unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series<br>hand<br>ball
-bip_39_word_new_br_11: unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series<br>hand<br>ball<br>palace
 bip_39_word_new_br_12: unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series<br>hand<br>ball<br>palace<br>ahead
 bip_39_word_new_br_2: unit<br>neutral
 bip_39_word_new_br_3: unit<br>neutral<br>render
-bip_39_word_new_br_4: unit<br>neutral<br>render<br>wrong
-bip_39_word_new_br_5: unit<br>neutral<br>render<br>wrong<br>citizen
-bip_39_word_new_br_6: unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent
-bip_39_word_new_br_7: unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp
-bip_39_word_new_br_8: unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series
-bip_39_word_new_br_9: unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series<br>hand
-bip_39_word_new_line_1: unit
-bip_39_word_new_line_10: 'unit
-
-  neutral
-
-  render
-
-  wrong
-
-  citizen
-
-  prevent
-
-  camp
-
-  series
-
-  hand
-
-  ball'
-bip_39_word_new_line_11: 'unit
-
-  neutral
-
-  render
-
-  wrong
-
-  citizen
-
-  prevent
-
-  camp
-
-  series
-
-  hand
-
-  ball
-
-  palace'
 bip_39_word_new_line_12: 'unit
 
   neutral
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'unit
   neutral
 
   render'
-bip_39_word_new_line_4: 'unit
-
-  neutral
-
-  render
-
-  wrong'
-bip_39_word_new_line_5: 'unit
-
-  neutral
-
-  render
-
-  wrong
-
-  citizen'
-bip_39_word_new_line_6: 'unit
-
-  neutral
-
-  render
-
-  wrong
-
-  citizen
-
-  prevent'
-bip_39_word_new_line_7: 'unit
-
-  neutral
-
-  render
-
-  wrong
-
-  citizen
-
-  prevent
-
-  camp'
-bip_39_word_new_line_8: 'unit
-
-  neutral
-
-  render
-
-  wrong
-
-  citizen
-
-  prevent
-
-  camp
-
-  series'
-bip_39_word_new_line_9: 'unit
-
-  neutral
-
-  render
-
-  wrong
-
-  citizen
-
-  prevent
-
-  camp
-
-  series
-
-  hand'
-bip_39_word_no_space_1: unit
-bip_39_word_no_space_10: unitneutralrenderwrongcitizenpreventcampserieshandball
-bip_39_word_no_space_11: unitneutralrenderwrongcitizenpreventcampserieshandballpalace
 bip_39_word_no_space_12: unitneutralrenderwrongcitizenpreventcampserieshandballpalaceahead
 bip_39_word_no_space_2: unitneutral
 bip_39_word_no_space_3: unitneutralrender
-bip_39_word_no_space_4: unitneutralrenderwrong
-bip_39_word_no_space_5: unitneutralrenderwrongcitizen
-bip_39_word_no_space_6: unitneutralrenderwrongcitizenprevent
-bip_39_word_no_space_7: unitneutralrenderwrongcitizenpreventcamp
-bip_39_word_no_space_8: unitneutralrenderwrongcitizenpreventcampseries
-bip_39_word_no_space_9: unitneutralrenderwrongcitizenpreventcampserieshand
-bip_39_word_space_0:
-- unit
-- neutral
-- render
-- wrong
-- citizen
-- prevent
-- camp
-- series
-- hand
-- ball
-- palace
-- ahead
-bip_39_word_space_1: unit
-bip_39_word_space_10: unit neutral render wrong citizen prevent camp series hand ball
-bip_39_word_space_11: unit neutral render wrong citizen prevent camp series hand ball
-  palace
 bip_39_word_space_12: unit neutral render wrong citizen prevent camp series hand ball
   palace ahead
 bip_39_word_space_2: unit neutral
 bip_39_word_space_3: unit neutral render
-bip_39_word_space_4: unit neutral render wrong
-bip_39_word_space_5: unit neutral render wrong citizen
-bip_39_word_space_6: unit neutral render wrong citizen prevent
-bip_39_word_space_7: unit neutral render wrong citizen prevent camp
-bip_39_word_space_8: unit neutral render wrong citizen prevent camp series
-bip_39_word_space_9: unit neutral render wrong citizen prevent camp series hand
-bip_39_word_underscore_1: unit
-bip_39_word_underscore_10: unit_neutral_render_wrong_citizen_prevent_camp_series_hand_ball
-bip_39_word_underscore_11: unit_neutral_render_wrong_citizen_prevent_camp_series_hand_ball_palace
 bip_39_word_underscore_12: unit_neutral_render_wrong_citizen_prevent_camp_series_hand_ball_palace_ahead
 bip_39_word_underscore_2: unit_neutral
 bip_39_word_underscore_3: unit_neutral_render
-bip_39_word_underscore_4: unit_neutral_render_wrong
-bip_39_word_underscore_5: unit_neutral_render_wrong_citizen
-bip_39_word_underscore_6: unit_neutral_render_wrong_citizen_prevent
-bip_39_word_underscore_7: unit_neutral_render_wrong_citizen_prevent_camp
-bip_39_word_underscore_8: unit_neutral_render_wrong_citizen_prevent_camp_series
-bip_39_word_underscore_9: unit_neutral_render_wrong_citizen_prevent_camp_series_hand
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

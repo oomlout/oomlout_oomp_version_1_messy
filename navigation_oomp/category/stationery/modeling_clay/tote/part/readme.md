@@ -24,9 +24,9 @@ category_stationery
   * description_extra: tote
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: screen prison
+  * bip 39 word 3: screen prison manual
+  * bip 39 word: screen prison manual twelve surface tank outer knee sibling riot supply annual
 
 ### other_codes
 * short_code: 
@@ -40,6 +40,22 @@ category_stationery
 
 
 
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205x38u)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205x38u)
+[2x1](http://192.168.1.242:1112/?label=oomp%205x38u)
+[6x4](http://192.168.1.55:1112/?label=oomp%205x38u)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_tote) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_tote)                             
+
+#### price
+
+
+
+
 
 
 
@@ -47,20 +63,34 @@ category_stationery
 | key | value |  
 | --- | --- |  
 | classification | category |  
+| classification_name | Category |  
 | color |  |  
+| color_name |  |  
 | description | category_stationery |  
 | description_extra | tote |  
+| description_extra_name | Tote |  
 | description_main |  |  
+| description_main_name |  |  
 | description_or_color |   |  
 | directory | parts/category_stationery_modeling_clay_tote |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery_modeling_clay_tote |  
 | id | category_stationery_modeling_clay_tote |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_tote |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_tote |  
+| link_2_name | link_github |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_tote |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_tote |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205x38u |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205x38u |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205x38u |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205x38u |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_tote |  
 | manufacturer |  |  
+| manufacturer_name |  |  
 | manufacturers | [] |  
 | markdown_full | [category_stationery_modeling_clay_tote](none)<br>[](none)<br>[Category Stationery Modeling Clay Tote](none)<br><br> |  
 | markdown_short | [category_stationery_modeling_clay_tote](none)<br><br> |  
@@ -70,6 +100,11 @@ category_stationery
 | md5_6 | 97b3ae |  
 | md5_6_alpha | 5x38u |  
 | name | Category Stationery Modeling Clay Tote |  
+| oomlout_detail_hierarchy_1 | category |  
+| oomlout_detail_hierarchy_2 | stationery |  
+| oomlout_detail_hierarchy_3 | modeling_clay |  
+| oomlout_detail_hierarchy_4 | tote |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_category_stationery_modeling_clay_tote |  
 | oomp_word | baseball eyeglasses jeans |  
 | oomp_word_emoji | :baseball: :eyeglasses: :jeans: |  
@@ -77,7 +112,10 @@ category_stationery
 | oomp_word_list | ['baseball', 'eyeglasses', 'jeans'] |  
 | part_number |  |  
 | part_number_exact |  |  
+| part_number_name |  |  
 | short_code |  |  
 | short_name | Categorystationery |  
 | size | modeling_clay |  
+| size_name | Modeling Clay |  
 | type | stationery |  
+| type_name | Stationery |  

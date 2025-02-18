@@ -1,68 +1,9 @@
-bip_39_word_dash_1: title
-bip_39_word_dash_10: title-zebra-guitar-exist-install-fragile-arrive-satoshi-spend-tired
-bip_39_word_dash_11: title-zebra-guitar-exist-install-fragile-arrive-satoshi-spend-tired-canal
 bip_39_word_dash_12: title-zebra-guitar-exist-install-fragile-arrive-satoshi-spend-tired-canal-acquire
 bip_39_word_dash_2: title-zebra
 bip_39_word_dash_3: title-zebra-guitar
-bip_39_word_dash_4: title-zebra-guitar-exist
-bip_39_word_dash_5: title-zebra-guitar-exist-install
-bip_39_word_dash_6: title-zebra-guitar-exist-install-fragile
-bip_39_word_dash_7: title-zebra-guitar-exist-install-fragile-arrive
-bip_39_word_dash_8: title-zebra-guitar-exist-install-fragile-arrive-satoshi
-bip_39_word_dash_9: title-zebra-guitar-exist-install-fragile-arrive-satoshi-spend
-bip_39_word_new_br_1: title
-bip_39_word_new_br_10: title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired
-bip_39_word_new_br_11: title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired<br>canal
 bip_39_word_new_br_12: title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired<br>canal<br>acquire
 bip_39_word_new_br_2: title<br>zebra
 bip_39_word_new_br_3: title<br>zebra<br>guitar
-bip_39_word_new_br_4: title<br>zebra<br>guitar<br>exist
-bip_39_word_new_br_5: title<br>zebra<br>guitar<br>exist<br>install
-bip_39_word_new_br_6: title<br>zebra<br>guitar<br>exist<br>install<br>fragile
-bip_39_word_new_br_7: title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive
-bip_39_word_new_br_8: title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi
-bip_39_word_new_br_9: title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend
-bip_39_word_new_line_1: title
-bip_39_word_new_line_10: 'title
-
-  zebra
-
-  guitar
-
-  exist
-
-  install
-
-  fragile
-
-  arrive
-
-  satoshi
-
-  spend
-
-  tired'
-bip_39_word_new_line_11: 'title
-
-  zebra
-
-  guitar
-
-  exist
-
-  install
-
-  fragile
-
-  arrive
-
-  satoshi
-
-  spend
-
-  tired
-
-  canal'
 bip_39_word_new_line_12: 'title
 
   zebra
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'title
   zebra
 
   guitar'
-bip_39_word_new_line_4: 'title
-
-  zebra
-
-  guitar
-
-  exist'
-bip_39_word_new_line_5: 'title
-
-  zebra
-
-  guitar
-
-  exist
-
-  install'
-bip_39_word_new_line_6: 'title
-
-  zebra
-
-  guitar
-
-  exist
-
-  install
-
-  fragile'
-bip_39_word_new_line_7: 'title
-
-  zebra
-
-  guitar
-
-  exist
-
-  install
-
-  fragile
-
-  arrive'
-bip_39_word_new_line_8: 'title
-
-  zebra
-
-  guitar
-
-  exist
-
-  install
-
-  fragile
-
-  arrive
-
-  satoshi'
-bip_39_word_new_line_9: 'title
-
-  zebra
-
-  guitar
-
-  exist
-
-  install
-
-  fragile
-
-  arrive
-
-  satoshi
-
-  spend'
-bip_39_word_no_space_1: title
-bip_39_word_no_space_10: titlezebraguitarexistinstallfragilearrivesatoshispendtired
-bip_39_word_no_space_11: titlezebraguitarexistinstallfragilearrivesatoshispendtiredcanal
 bip_39_word_no_space_12: titlezebraguitarexistinstallfragilearrivesatoshispendtiredcanalacquire
 bip_39_word_no_space_2: titlezebra
 bip_39_word_no_space_3: titlezebraguitar
-bip_39_word_no_space_4: titlezebraguitarexist
-bip_39_word_no_space_5: titlezebraguitarexistinstall
-bip_39_word_no_space_6: titlezebraguitarexistinstallfragile
-bip_39_word_no_space_7: titlezebraguitarexistinstallfragilearrive
-bip_39_word_no_space_8: titlezebraguitarexistinstallfragilearrivesatoshi
-bip_39_word_no_space_9: titlezebraguitarexistinstallfragilearrivesatoshispend
-bip_39_word_space_0:
-- title
-- zebra
-- guitar
-- exist
-- install
-- fragile
-- arrive
-- satoshi
-- spend
-- tired
-- canal
-- acquire
-bip_39_word_space_1: title
-bip_39_word_space_10: title zebra guitar exist install fragile arrive satoshi spend
-  tired
-bip_39_word_space_11: title zebra guitar exist install fragile arrive satoshi spend
-  tired canal
 bip_39_word_space_12: title zebra guitar exist install fragile arrive satoshi spend
   tired canal acquire
 bip_39_word_space_2: title zebra
 bip_39_word_space_3: title zebra guitar
-bip_39_word_space_4: title zebra guitar exist
-bip_39_word_space_5: title zebra guitar exist install
-bip_39_word_space_6: title zebra guitar exist install fragile
-bip_39_word_space_7: title zebra guitar exist install fragile arrive
-bip_39_word_space_8: title zebra guitar exist install fragile arrive satoshi
-bip_39_word_space_9: title zebra guitar exist install fragile arrive satoshi spend
-bip_39_word_underscore_1: title
-bip_39_word_underscore_10: title_zebra_guitar_exist_install_fragile_arrive_satoshi_spend_tired
-bip_39_word_underscore_11: title_zebra_guitar_exist_install_fragile_arrive_satoshi_spend_tired_canal
 bip_39_word_underscore_12: title_zebra_guitar_exist_install_fragile_arrive_satoshi_spend_tired_canal_acquire
 bip_39_word_underscore_2: title_zebra
 bip_39_word_underscore_3: title_zebra_guitar
-bip_39_word_underscore_4: title_zebra_guitar_exist
-bip_39_word_underscore_5: title_zebra_guitar_exist_install
-bip_39_word_underscore_6: title_zebra_guitar_exist_install_fragile
-bip_39_word_underscore_7: title_zebra_guitar_exist_install_fragile_arrive
-bip_39_word_underscore_8: title_zebra_guitar_exist_install_fragile_arrive_satoshi
-bip_39_word_underscore_9: title_zebra_guitar_exist_install_fragile_arrive_satoshi_spend
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

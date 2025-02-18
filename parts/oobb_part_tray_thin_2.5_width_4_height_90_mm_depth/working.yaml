@@ -1,68 +1,9 @@
-bip_39_word_dash_1: west
-bip_39_word_dash_10: west-height-place-clay-draft-equip-balance-zone-volcano-hospital
-bip_39_word_dash_11: west-height-place-clay-draft-equip-balance-zone-volcano-hospital-word
 bip_39_word_dash_12: west-height-place-clay-draft-equip-balance-zone-volcano-hospital-word-arrange
 bip_39_word_dash_2: west-height
 bip_39_word_dash_3: west-height-place
-bip_39_word_dash_4: west-height-place-clay
-bip_39_word_dash_5: west-height-place-clay-draft
-bip_39_word_dash_6: west-height-place-clay-draft-equip
-bip_39_word_dash_7: west-height-place-clay-draft-equip-balance
-bip_39_word_dash_8: west-height-place-clay-draft-equip-balance-zone
-bip_39_word_dash_9: west-height-place-clay-draft-equip-balance-zone-volcano
-bip_39_word_new_br_1: west
-bip_39_word_new_br_10: west<br>height<br>place<br>clay<br>draft<br>equip<br>balance<br>zone<br>volcano<br>hospital
-bip_39_word_new_br_11: west<br>height<br>place<br>clay<br>draft<br>equip<br>balance<br>zone<br>volcano<br>hospital<br>word
 bip_39_word_new_br_12: west<br>height<br>place<br>clay<br>draft<br>equip<br>balance<br>zone<br>volcano<br>hospital<br>word<br>arrange
 bip_39_word_new_br_2: west<br>height
 bip_39_word_new_br_3: west<br>height<br>place
-bip_39_word_new_br_4: west<br>height<br>place<br>clay
-bip_39_word_new_br_5: west<br>height<br>place<br>clay<br>draft
-bip_39_word_new_br_6: west<br>height<br>place<br>clay<br>draft<br>equip
-bip_39_word_new_br_7: west<br>height<br>place<br>clay<br>draft<br>equip<br>balance
-bip_39_word_new_br_8: west<br>height<br>place<br>clay<br>draft<br>equip<br>balance<br>zone
-bip_39_word_new_br_9: west<br>height<br>place<br>clay<br>draft<br>equip<br>balance<br>zone<br>volcano
-bip_39_word_new_line_1: west
-bip_39_word_new_line_10: 'west
-
-  height
-
-  place
-
-  clay
-
-  draft
-
-  equip
-
-  balance
-
-  zone
-
-  volcano
-
-  hospital'
-bip_39_word_new_line_11: 'west
-
-  height
-
-  place
-
-  clay
-
-  draft
-
-  equip
-
-  balance
-
-  zone
-
-  volcano
-
-  hospital
-
-  word'
 bip_39_word_new_line_12: 'west
 
   height
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'west
   height
 
   place'
-bip_39_word_new_line_4: 'west
-
-  height
-
-  place
-
-  clay'
-bip_39_word_new_line_5: 'west
-
-  height
-
-  place
-
-  clay
-
-  draft'
-bip_39_word_new_line_6: 'west
-
-  height
-
-  place
-
-  clay
-
-  draft
-
-  equip'
-bip_39_word_new_line_7: 'west
-
-  height
-
-  place
-
-  clay
-
-  draft
-
-  equip
-
-  balance'
-bip_39_word_new_line_8: 'west
-
-  height
-
-  place
-
-  clay
-
-  draft
-
-  equip
-
-  balance
-
-  zone'
-bip_39_word_new_line_9: 'west
-
-  height
-
-  place
-
-  clay
-
-  draft
-
-  equip
-
-  balance
-
-  zone
-
-  volcano'
-bip_39_word_no_space_1: west
-bip_39_word_no_space_10: westheightplaceclaydraftequipbalancezonevolcanohospital
-bip_39_word_no_space_11: westheightplaceclaydraftequipbalancezonevolcanohospitalword
 bip_39_word_no_space_12: westheightplaceclaydraftequipbalancezonevolcanohospitalwordarrange
 bip_39_word_no_space_2: westheight
 bip_39_word_no_space_3: westheightplace
-bip_39_word_no_space_4: westheightplaceclay
-bip_39_word_no_space_5: westheightplaceclaydraft
-bip_39_word_no_space_6: westheightplaceclaydraftequip
-bip_39_word_no_space_7: westheightplaceclaydraftequipbalance
-bip_39_word_no_space_8: westheightplaceclaydraftequipbalancezone
-bip_39_word_no_space_9: westheightplaceclaydraftequipbalancezonevolcano
-bip_39_word_space_0:
-- west
-- height
-- place
-- clay
-- draft
-- equip
-- balance
-- zone
-- volcano
-- hospital
-- word
-- arrange
-bip_39_word_space_1: west
-bip_39_word_space_10: west height place clay draft equip balance zone volcano hospital
-bip_39_word_space_11: west height place clay draft equip balance zone volcano hospital
-  word
 bip_39_word_space_12: west height place clay draft equip balance zone volcano hospital
   word arrange
 bip_39_word_space_2: west height
 bip_39_word_space_3: west height place
-bip_39_word_space_4: west height place clay
-bip_39_word_space_5: west height place clay draft
-bip_39_word_space_6: west height place clay draft equip
-bip_39_word_space_7: west height place clay draft equip balance
-bip_39_word_space_8: west height place clay draft equip balance zone
-bip_39_word_space_9: west height place clay draft equip balance zone volcano
-bip_39_word_underscore_1: west
-bip_39_word_underscore_10: west_height_place_clay_draft_equip_balance_zone_volcano_hospital
-bip_39_word_underscore_11: west_height_place_clay_draft_equip_balance_zone_volcano_hospital_word
 bip_39_word_underscore_12: west_height_place_clay_draft_equip_balance_zone_volcano_hospital_word_arrange
 bip_39_word_underscore_2: west_height
 bip_39_word_underscore_3: west_height_place
-bip_39_word_underscore_4: west_height_place_clay
-bip_39_word_underscore_5: west_height_place_clay_draft
-bip_39_word_underscore_6: west_height_place_clay_draft_equip
-bip_39_word_underscore_7: west_height_place_clay_draft_equip_balance
-bip_39_word_underscore_8: west_height_place_clay_draft_equip_balance_zone
-bip_39_word_underscore_9: west_height_place_clay_draft_equip_balance_zone_volcano
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

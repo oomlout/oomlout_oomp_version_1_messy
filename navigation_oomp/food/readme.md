@@ -383,6 +383,8 @@
     * [panko](starch/breadcrumb/panko)
   * [couscous](starch/couscous)
     * [giant](starch/couscous/giant)
+  * [noodle](starch/noodle)
+    * [ramen](starch/noodle/ramen)
   * [oats](starch/oats)
     * [porridge](starch/oats/porridge)
   * [pasta](starch/pasta)

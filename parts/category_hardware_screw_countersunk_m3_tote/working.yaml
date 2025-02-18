@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dawn
-bip_39_word_dash_10: dawn-switch-banana-pilot-ankle-bird-crop-abandon-love-icon
-bip_39_word_dash_11: dawn-switch-banana-pilot-ankle-bird-crop-abandon-love-icon-midnight
 bip_39_word_dash_12: dawn-switch-banana-pilot-ankle-bird-crop-abandon-love-icon-midnight-around
 bip_39_word_dash_2: dawn-switch
 bip_39_word_dash_3: dawn-switch-banana
-bip_39_word_dash_4: dawn-switch-banana-pilot
-bip_39_word_dash_5: dawn-switch-banana-pilot-ankle
-bip_39_word_dash_6: dawn-switch-banana-pilot-ankle-bird
-bip_39_word_dash_7: dawn-switch-banana-pilot-ankle-bird-crop
-bip_39_word_dash_8: dawn-switch-banana-pilot-ankle-bird-crop-abandon
-bip_39_word_dash_9: dawn-switch-banana-pilot-ankle-bird-crop-abandon-love
-bip_39_word_new_br_1: dawn
-bip_39_word_new_br_10: dawn<br>switch<br>banana<br>pilot<br>ankle<br>bird<br>crop<br>abandon<br>love<br>icon
-bip_39_word_new_br_11: dawn<br>switch<br>banana<br>pilot<br>ankle<br>bird<br>crop<br>abandon<br>love<br>icon<br>midnight
 bip_39_word_new_br_12: dawn<br>switch<br>banana<br>pilot<br>ankle<br>bird<br>crop<br>abandon<br>love<br>icon<br>midnight<br>around
 bip_39_word_new_br_2: dawn<br>switch
 bip_39_word_new_br_3: dawn<br>switch<br>banana
-bip_39_word_new_br_4: dawn<br>switch<br>banana<br>pilot
-bip_39_word_new_br_5: dawn<br>switch<br>banana<br>pilot<br>ankle
-bip_39_word_new_br_6: dawn<br>switch<br>banana<br>pilot<br>ankle<br>bird
-bip_39_word_new_br_7: dawn<br>switch<br>banana<br>pilot<br>ankle<br>bird<br>crop
-bip_39_word_new_br_8: dawn<br>switch<br>banana<br>pilot<br>ankle<br>bird<br>crop<br>abandon
-bip_39_word_new_br_9: dawn<br>switch<br>banana<br>pilot<br>ankle<br>bird<br>crop<br>abandon<br>love
-bip_39_word_new_line_1: dawn
-bip_39_word_new_line_10: 'dawn
-
-  switch
-
-  banana
-
-  pilot
-
-  ankle
-
-  bird
-
-  crop
-
-  abandon
-
-  love
-
-  icon'
-bip_39_word_new_line_11: 'dawn
-
-  switch
-
-  banana
-
-  pilot
-
-  ankle
-
-  bird
-
-  crop
-
-  abandon
-
-  love
-
-  icon
-
-  midnight'
 bip_39_word_new_line_12: 'dawn
 
   switch
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'dawn
   switch
 
   banana'
-bip_39_word_new_line_4: 'dawn
-
-  switch
-
-  banana
-
-  pilot'
-bip_39_word_new_line_5: 'dawn
-
-  switch
-
-  banana
-
-  pilot
-
-  ankle'
-bip_39_word_new_line_6: 'dawn
-
-  switch
-
-  banana
-
-  pilot
-
-  ankle
-
-  bird'
-bip_39_word_new_line_7: 'dawn
-
-  switch
-
-  banana
-
-  pilot
-
-  ankle
-
-  bird
-
-  crop'
-bip_39_word_new_line_8: 'dawn
-
-  switch
-
-  banana
-
-  pilot
-
-  ankle
-
-  bird
-
-  crop
-
-  abandon'
-bip_39_word_new_line_9: 'dawn
-
-  switch
-
-  banana
-
-  pilot
-
-  ankle
-
-  bird
-
-  crop
-
-  abandon
-
-  love'
-bip_39_word_no_space_1: dawn
-bip_39_word_no_space_10: dawnswitchbananapilotanklebirdcropabandonloveicon
-bip_39_word_no_space_11: dawnswitchbananapilotanklebirdcropabandonloveiconmidnight
 bip_39_word_no_space_12: dawnswitchbananapilotanklebirdcropabandonloveiconmidnightaround
 bip_39_word_no_space_2: dawnswitch
 bip_39_word_no_space_3: dawnswitchbanana
-bip_39_word_no_space_4: dawnswitchbananapilot
-bip_39_word_no_space_5: dawnswitchbananapilotankle
-bip_39_word_no_space_6: dawnswitchbananapilotanklebird
-bip_39_word_no_space_7: dawnswitchbananapilotanklebirdcrop
-bip_39_word_no_space_8: dawnswitchbananapilotanklebirdcropabandon
-bip_39_word_no_space_9: dawnswitchbananapilotanklebirdcropabandonlove
-bip_39_word_space_0:
-- dawn
-- switch
-- banana
-- pilot
-- ankle
-- bird
-- crop
-- abandon
-- love
-- icon
-- midnight
-- around
-bip_39_word_space_1: dawn
-bip_39_word_space_10: dawn switch banana pilot ankle bird crop abandon love icon
-bip_39_word_space_11: dawn switch banana pilot ankle bird crop abandon love icon midnight
 bip_39_word_space_12: dawn switch banana pilot ankle bird crop abandon love icon midnight
   around
 bip_39_word_space_2: dawn switch
 bip_39_word_space_3: dawn switch banana
-bip_39_word_space_4: dawn switch banana pilot
-bip_39_word_space_5: dawn switch banana pilot ankle
-bip_39_word_space_6: dawn switch banana pilot ankle bird
-bip_39_word_space_7: dawn switch banana pilot ankle bird crop
-bip_39_word_space_8: dawn switch banana pilot ankle bird crop abandon
-bip_39_word_space_9: dawn switch banana pilot ankle bird crop abandon love
-bip_39_word_underscore_1: dawn
-bip_39_word_underscore_10: dawn_switch_banana_pilot_ankle_bird_crop_abandon_love_icon
-bip_39_word_underscore_11: dawn_switch_banana_pilot_ankle_bird_crop_abandon_love_icon_midnight
 bip_39_word_underscore_12: dawn_switch_banana_pilot_ankle_bird_crop_abandon_love_icon_midnight_around
 bip_39_word_underscore_2: dawn_switch
 bip_39_word_underscore_3: dawn_switch_banana
-bip_39_word_underscore_4: dawn_switch_banana_pilot
-bip_39_word_underscore_5: dawn_switch_banana_pilot_ankle
-bip_39_word_underscore_6: dawn_switch_banana_pilot_ankle_bird
-bip_39_word_underscore_7: dawn_switch_banana_pilot_ankle_bird_crop
-bip_39_word_underscore_8: dawn_switch_banana_pilot_ankle_bird_crop_abandon
-bip_39_word_underscore_9: dawn_switch_banana_pilot_ankle_bird_crop_abandon_love
 classification: category
 classification_capital: Category
 classification_first_letter: c

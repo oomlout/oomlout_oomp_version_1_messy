@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cat
-bip_39_word_dash_10: cat-naive-cricket-hope-now-float-people-chapter-impose-upon
-bip_39_word_dash_11: cat-naive-cricket-hope-now-float-people-chapter-impose-upon-lizard
 bip_39_word_dash_12: cat-naive-cricket-hope-now-float-people-chapter-impose-upon-lizard-again
 bip_39_word_dash_2: cat-naive
 bip_39_word_dash_3: cat-naive-cricket
-bip_39_word_dash_4: cat-naive-cricket-hope
-bip_39_word_dash_5: cat-naive-cricket-hope-now
-bip_39_word_dash_6: cat-naive-cricket-hope-now-float
-bip_39_word_dash_7: cat-naive-cricket-hope-now-float-people
-bip_39_word_dash_8: cat-naive-cricket-hope-now-float-people-chapter
-bip_39_word_dash_9: cat-naive-cricket-hope-now-float-people-chapter-impose
-bip_39_word_new_br_1: cat
-bip_39_word_new_br_10: cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter<br>impose<br>upon
-bip_39_word_new_br_11: cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter<br>impose<br>upon<br>lizard
 bip_39_word_new_br_12: cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter<br>impose<br>upon<br>lizard<br>again
 bip_39_word_new_br_2: cat<br>naive
 bip_39_word_new_br_3: cat<br>naive<br>cricket
-bip_39_word_new_br_4: cat<br>naive<br>cricket<br>hope
-bip_39_word_new_br_5: cat<br>naive<br>cricket<br>hope<br>now
-bip_39_word_new_br_6: cat<br>naive<br>cricket<br>hope<br>now<br>float
-bip_39_word_new_br_7: cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people
-bip_39_word_new_br_8: cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter
-bip_39_word_new_br_9: cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter<br>impose
-bip_39_word_new_line_1: cat
-bip_39_word_new_line_10: 'cat
-
-  naive
-
-  cricket
-
-  hope
-
-  now
-
-  float
-
-  people
-
-  chapter
-
-  impose
-
-  upon'
-bip_39_word_new_line_11: 'cat
-
-  naive
-
-  cricket
-
-  hope
-
-  now
-
-  float
-
-  people
-
-  chapter
-
-  impose
-
-  upon
-
-  lizard'
 bip_39_word_new_line_12: 'cat
 
   naive
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cat
   naive
 
   cricket'
-bip_39_word_new_line_4: 'cat
-
-  naive
-
-  cricket
-
-  hope'
-bip_39_word_new_line_5: 'cat
-
-  naive
-
-  cricket
-
-  hope
-
-  now'
-bip_39_word_new_line_6: 'cat
-
-  naive
-
-  cricket
-
-  hope
-
-  now
-
-  float'
-bip_39_word_new_line_7: 'cat
-
-  naive
-
-  cricket
-
-  hope
-
-  now
-
-  float
-
-  people'
-bip_39_word_new_line_8: 'cat
-
-  naive
-
-  cricket
-
-  hope
-
-  now
-
-  float
-
-  people
-
-  chapter'
-bip_39_word_new_line_9: 'cat
-
-  naive
-
-  cricket
-
-  hope
-
-  now
-
-  float
-
-  people
-
-  chapter
-
-  impose'
-bip_39_word_no_space_1: cat
-bip_39_word_no_space_10: catnaivecrickethopenowfloatpeoplechapterimposeupon
-bip_39_word_no_space_11: catnaivecrickethopenowfloatpeoplechapterimposeuponlizard
 bip_39_word_no_space_12: catnaivecrickethopenowfloatpeoplechapterimposeuponlizardagain
 bip_39_word_no_space_2: catnaive
 bip_39_word_no_space_3: catnaivecricket
-bip_39_word_no_space_4: catnaivecrickethope
-bip_39_word_no_space_5: catnaivecrickethopenow
-bip_39_word_no_space_6: catnaivecrickethopenowfloat
-bip_39_word_no_space_7: catnaivecrickethopenowfloatpeople
-bip_39_word_no_space_8: catnaivecrickethopenowfloatpeoplechapter
-bip_39_word_no_space_9: catnaivecrickethopenowfloatpeoplechapterimpose
-bip_39_word_space_0:
-- cat
-- naive
-- cricket
-- hope
-- now
-- float
-- people
-- chapter
-- impose
-- upon
-- lizard
-- again
-bip_39_word_space_1: cat
-bip_39_word_space_10: cat naive cricket hope now float people chapter impose upon
-bip_39_word_space_11: cat naive cricket hope now float people chapter impose upon
-  lizard
 bip_39_word_space_12: cat naive cricket hope now float people chapter impose upon
   lizard again
 bip_39_word_space_2: cat naive
 bip_39_word_space_3: cat naive cricket
-bip_39_word_space_4: cat naive cricket hope
-bip_39_word_space_5: cat naive cricket hope now
-bip_39_word_space_6: cat naive cricket hope now float
-bip_39_word_space_7: cat naive cricket hope now float people
-bip_39_word_space_8: cat naive cricket hope now float people chapter
-bip_39_word_space_9: cat naive cricket hope now float people chapter impose
-bip_39_word_underscore_1: cat
-bip_39_word_underscore_10: cat_naive_cricket_hope_now_float_people_chapter_impose_upon
-bip_39_word_underscore_11: cat_naive_cricket_hope_now_float_people_chapter_impose_upon_lizard
 bip_39_word_underscore_12: cat_naive_cricket_hope_now_float_people_chapter_impose_upon_lizard_again
 bip_39_word_underscore_2: cat_naive
 bip_39_word_underscore_3: cat_naive_cricket
-bip_39_word_underscore_4: cat_naive_cricket_hope
-bip_39_word_underscore_5: cat_naive_cricket_hope_now
-bip_39_word_underscore_6: cat_naive_cricket_hope_now_float
-bip_39_word_underscore_7: cat_naive_cricket_hope_now_float_people
-bip_39_word_underscore_8: cat_naive_cricket_hope_now_float_people_chapter
-bip_39_word_underscore_9: cat_naive_cricket_hope_now_float_people_chapter_impose
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

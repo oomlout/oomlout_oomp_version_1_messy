@@ -1,68 +1,9 @@
-bip_39_word_dash_1: address
-bip_39_word_dash_10: address-usual-laptop-solar-wheel-retire-pyramid-rich-dance-deposit
-bip_39_word_dash_11: address-usual-laptop-solar-wheel-retire-pyramid-rich-dance-deposit-opera
 bip_39_word_dash_12: address-usual-laptop-solar-wheel-retire-pyramid-rich-dance-deposit-opera-air
 bip_39_word_dash_2: address-usual
 bip_39_word_dash_3: address-usual-laptop
-bip_39_word_dash_4: address-usual-laptop-solar
-bip_39_word_dash_5: address-usual-laptop-solar-wheel
-bip_39_word_dash_6: address-usual-laptop-solar-wheel-retire
-bip_39_word_dash_7: address-usual-laptop-solar-wheel-retire-pyramid
-bip_39_word_dash_8: address-usual-laptop-solar-wheel-retire-pyramid-rich
-bip_39_word_dash_9: address-usual-laptop-solar-wheel-retire-pyramid-rich-dance
-bip_39_word_new_br_1: address
-bip_39_word_new_br_10: address<br>usual<br>laptop<br>solar<br>wheel<br>retire<br>pyramid<br>rich<br>dance<br>deposit
-bip_39_word_new_br_11: address<br>usual<br>laptop<br>solar<br>wheel<br>retire<br>pyramid<br>rich<br>dance<br>deposit<br>opera
 bip_39_word_new_br_12: address<br>usual<br>laptop<br>solar<br>wheel<br>retire<br>pyramid<br>rich<br>dance<br>deposit<br>opera<br>air
 bip_39_word_new_br_2: address<br>usual
 bip_39_word_new_br_3: address<br>usual<br>laptop
-bip_39_word_new_br_4: address<br>usual<br>laptop<br>solar
-bip_39_word_new_br_5: address<br>usual<br>laptop<br>solar<br>wheel
-bip_39_word_new_br_6: address<br>usual<br>laptop<br>solar<br>wheel<br>retire
-bip_39_word_new_br_7: address<br>usual<br>laptop<br>solar<br>wheel<br>retire<br>pyramid
-bip_39_word_new_br_8: address<br>usual<br>laptop<br>solar<br>wheel<br>retire<br>pyramid<br>rich
-bip_39_word_new_br_9: address<br>usual<br>laptop<br>solar<br>wheel<br>retire<br>pyramid<br>rich<br>dance
-bip_39_word_new_line_1: address
-bip_39_word_new_line_10: 'address
-
-  usual
-
-  laptop
-
-  solar
-
-  wheel
-
-  retire
-
-  pyramid
-
-  rich
-
-  dance
-
-  deposit'
-bip_39_word_new_line_11: 'address
-
-  usual
-
-  laptop
-
-  solar
-
-  wheel
-
-  retire
-
-  pyramid
-
-  rich
-
-  dance
-
-  deposit
-
-  opera'
 bip_39_word_new_line_12: 'address
 
   usual
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'address
   usual
 
   laptop'
-bip_39_word_new_line_4: 'address
-
-  usual
-
-  laptop
-
-  solar'
-bip_39_word_new_line_5: 'address
-
-  usual
-
-  laptop
-
-  solar
-
-  wheel'
-bip_39_word_new_line_6: 'address
-
-  usual
-
-  laptop
-
-  solar
-
-  wheel
-
-  retire'
-bip_39_word_new_line_7: 'address
-
-  usual
-
-  laptop
-
-  solar
-
-  wheel
-
-  retire
-
-  pyramid'
-bip_39_word_new_line_8: 'address
-
-  usual
-
-  laptop
-
-  solar
-
-  wheel
-
-  retire
-
-  pyramid
-
-  rich'
-bip_39_word_new_line_9: 'address
-
-  usual
-
-  laptop
-
-  solar
-
-  wheel
-
-  retire
-
-  pyramid
-
-  rich
-
-  dance'
-bip_39_word_no_space_1: address
-bip_39_word_no_space_10: addressusuallaptopsolarwheelretirepyramidrichdancedeposit
-bip_39_word_no_space_11: addressusuallaptopsolarwheelretirepyramidrichdancedepositopera
 bip_39_word_no_space_12: addressusuallaptopsolarwheelretirepyramidrichdancedepositoperaair
 bip_39_word_no_space_2: addressusual
 bip_39_word_no_space_3: addressusuallaptop
-bip_39_word_no_space_4: addressusuallaptopsolar
-bip_39_word_no_space_5: addressusuallaptopsolarwheel
-bip_39_word_no_space_6: addressusuallaptopsolarwheelretire
-bip_39_word_no_space_7: addressusuallaptopsolarwheelretirepyramid
-bip_39_word_no_space_8: addressusuallaptopsolarwheelretirepyramidrich
-bip_39_word_no_space_9: addressusuallaptopsolarwheelretirepyramidrichdance
-bip_39_word_space_0:
-- address
-- usual
-- laptop
-- solar
-- wheel
-- retire
-- pyramid
-- rich
-- dance
-- deposit
-- opera
-- air
-bip_39_word_space_1: address
-bip_39_word_space_10: address usual laptop solar wheel retire pyramid rich dance deposit
-bip_39_word_space_11: address usual laptop solar wheel retire pyramid rich dance deposit
-  opera
 bip_39_word_space_12: address usual laptop solar wheel retire pyramid rich dance deposit
   opera air
 bip_39_word_space_2: address usual
 bip_39_word_space_3: address usual laptop
-bip_39_word_space_4: address usual laptop solar
-bip_39_word_space_5: address usual laptop solar wheel
-bip_39_word_space_6: address usual laptop solar wheel retire
-bip_39_word_space_7: address usual laptop solar wheel retire pyramid
-bip_39_word_space_8: address usual laptop solar wheel retire pyramid rich
-bip_39_word_space_9: address usual laptop solar wheel retire pyramid rich dance
-bip_39_word_underscore_1: address
-bip_39_word_underscore_10: address_usual_laptop_solar_wheel_retire_pyramid_rich_dance_deposit
-bip_39_word_underscore_11: address_usual_laptop_solar_wheel_retire_pyramid_rich_dance_deposit_opera
 bip_39_word_underscore_12: address_usual_laptop_solar_wheel_retire_pyramid_rich_dance_deposit_opera_air
 bip_39_word_underscore_2: address_usual
 bip_39_word_underscore_3: address_usual_laptop
-bip_39_word_underscore_4: address_usual_laptop_solar
-bip_39_word_underscore_5: address_usual_laptop_solar_wheel
-bip_39_word_underscore_6: address_usual_laptop_solar_wheel_retire
-bip_39_word_underscore_7: address_usual_laptop_solar_wheel_retire_pyramid
-bip_39_word_underscore_8: address_usual_laptop_solar_wheel_retire_pyramid_rich
-bip_39_word_underscore_9: address_usual_laptop_solar_wheel_retire_pyramid_rich_dance
 classification: project
 classification_capital: Project
 classification_first_letter: p

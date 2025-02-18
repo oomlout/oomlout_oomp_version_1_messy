@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lion
-bip_39_word_dash_10: lion-slender-evil-ride-voice-clever-voice-fiber-cheap-cherry
-bip_39_word_dash_11: lion-slender-evil-ride-voice-clever-voice-fiber-cheap-cherry-dizzy
 bip_39_word_dash_12: lion-slender-evil-ride-voice-clever-voice-fiber-cheap-cherry-dizzy-attack
 bip_39_word_dash_2: lion-slender
 bip_39_word_dash_3: lion-slender-evil
-bip_39_word_dash_4: lion-slender-evil-ride
-bip_39_word_dash_5: lion-slender-evil-ride-voice
-bip_39_word_dash_6: lion-slender-evil-ride-voice-clever
-bip_39_word_dash_7: lion-slender-evil-ride-voice-clever-voice
-bip_39_word_dash_8: lion-slender-evil-ride-voice-clever-voice-fiber
-bip_39_word_dash_9: lion-slender-evil-ride-voice-clever-voice-fiber-cheap
-bip_39_word_new_br_1: lion
-bip_39_word_new_br_10: lion<br>slender<br>evil<br>ride<br>voice<br>clever<br>voice<br>fiber<br>cheap<br>cherry
-bip_39_word_new_br_11: lion<br>slender<br>evil<br>ride<br>voice<br>clever<br>voice<br>fiber<br>cheap<br>cherry<br>dizzy
 bip_39_word_new_br_12: lion<br>slender<br>evil<br>ride<br>voice<br>clever<br>voice<br>fiber<br>cheap<br>cherry<br>dizzy<br>attack
 bip_39_word_new_br_2: lion<br>slender
 bip_39_word_new_br_3: lion<br>slender<br>evil
-bip_39_word_new_br_4: lion<br>slender<br>evil<br>ride
-bip_39_word_new_br_5: lion<br>slender<br>evil<br>ride<br>voice
-bip_39_word_new_br_6: lion<br>slender<br>evil<br>ride<br>voice<br>clever
-bip_39_word_new_br_7: lion<br>slender<br>evil<br>ride<br>voice<br>clever<br>voice
-bip_39_word_new_br_8: lion<br>slender<br>evil<br>ride<br>voice<br>clever<br>voice<br>fiber
-bip_39_word_new_br_9: lion<br>slender<br>evil<br>ride<br>voice<br>clever<br>voice<br>fiber<br>cheap
-bip_39_word_new_line_1: lion
-bip_39_word_new_line_10: 'lion
-
-  slender
-
-  evil
-
-  ride
-
-  voice
-
-  clever
-
-  voice
-
-  fiber
-
-  cheap
-
-  cherry'
-bip_39_word_new_line_11: 'lion
-
-  slender
-
-  evil
-
-  ride
-
-  voice
-
-  clever
-
-  voice
-
-  fiber
-
-  cheap
-
-  cherry
-
-  dizzy'
 bip_39_word_new_line_12: 'lion
 
   slender
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lion
   slender
 
   evil'
-bip_39_word_new_line_4: 'lion
-
-  slender
-
-  evil
-
-  ride'
-bip_39_word_new_line_5: 'lion
-
-  slender
-
-  evil
-
-  ride
-
-  voice'
-bip_39_word_new_line_6: 'lion
-
-  slender
-
-  evil
-
-  ride
-
-  voice
-
-  clever'
-bip_39_word_new_line_7: 'lion
-
-  slender
-
-  evil
-
-  ride
-
-  voice
-
-  clever
-
-  voice'
-bip_39_word_new_line_8: 'lion
-
-  slender
-
-  evil
-
-  ride
-
-  voice
-
-  clever
-
-  voice
-
-  fiber'
-bip_39_word_new_line_9: 'lion
-
-  slender
-
-  evil
-
-  ride
-
-  voice
-
-  clever
-
-  voice
-
-  fiber
-
-  cheap'
-bip_39_word_no_space_1: lion
-bip_39_word_no_space_10: lionslenderevilridevoiceclevervoicefibercheapcherry
-bip_39_word_no_space_11: lionslenderevilridevoiceclevervoicefibercheapcherrydizzy
 bip_39_word_no_space_12: lionslenderevilridevoiceclevervoicefibercheapcherrydizzyattack
 bip_39_word_no_space_2: lionslender
 bip_39_word_no_space_3: lionslenderevil
-bip_39_word_no_space_4: lionslenderevilride
-bip_39_word_no_space_5: lionslenderevilridevoice
-bip_39_word_no_space_6: lionslenderevilridevoiceclever
-bip_39_word_no_space_7: lionslenderevilridevoiceclevervoice
-bip_39_word_no_space_8: lionslenderevilridevoiceclevervoicefiber
-bip_39_word_no_space_9: lionslenderevilridevoiceclevervoicefibercheap
-bip_39_word_space_0:
-- lion
-- slender
-- evil
-- ride
-- voice
-- clever
-- voice
-- fiber
-- cheap
-- cherry
-- dizzy
-- attack
-bip_39_word_space_1: lion
-bip_39_word_space_10: lion slender evil ride voice clever voice fiber cheap cherry
-bip_39_word_space_11: lion slender evil ride voice clever voice fiber cheap cherry
-  dizzy
 bip_39_word_space_12: lion slender evil ride voice clever voice fiber cheap cherry
   dizzy attack
 bip_39_word_space_2: lion slender
 bip_39_word_space_3: lion slender evil
-bip_39_word_space_4: lion slender evil ride
-bip_39_word_space_5: lion slender evil ride voice
-bip_39_word_space_6: lion slender evil ride voice clever
-bip_39_word_space_7: lion slender evil ride voice clever voice
-bip_39_word_space_8: lion slender evil ride voice clever voice fiber
-bip_39_word_space_9: lion slender evil ride voice clever voice fiber cheap
-bip_39_word_underscore_1: lion
-bip_39_word_underscore_10: lion_slender_evil_ride_voice_clever_voice_fiber_cheap_cherry
-bip_39_word_underscore_11: lion_slender_evil_ride_voice_clever_voice_fiber_cheap_cherry_dizzy
 bip_39_word_underscore_12: lion_slender_evil_ride_voice_clever_voice_fiber_cheap_cherry_dizzy_attack
 bip_39_word_underscore_2: lion_slender
 bip_39_word_underscore_3: lion_slender_evil
-bip_39_word_underscore_4: lion_slender_evil_ride
-bip_39_word_underscore_5: lion_slender_evil_ride_voice
-bip_39_word_underscore_6: lion_slender_evil_ride_voice_clever
-bip_39_word_underscore_7: lion_slender_evil_ride_voice_clever_voice
-bip_39_word_underscore_8: lion_slender_evil_ride_voice_clever_voice_fiber
-bip_39_word_underscore_9: lion_slender_evil_ride_voice_clever_voice_fiber_cheap
 classification: category
 classification_capital: Category
 classification_first_letter: c

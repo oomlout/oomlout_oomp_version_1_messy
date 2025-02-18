@@ -1,68 +1,9 @@
-bip_39_word_dash_1: obvious
-bip_39_word_dash_10: obvious-cloth-ostrich-sibling-defense-right-maple-myself-weasel-bachelor
-bip_39_word_dash_11: obvious-cloth-ostrich-sibling-defense-right-maple-myself-weasel-bachelor-chef
 bip_39_word_dash_12: obvious-cloth-ostrich-sibling-defense-right-maple-myself-weasel-bachelor-chef-audit
 bip_39_word_dash_2: obvious-cloth
 bip_39_word_dash_3: obvious-cloth-ostrich
-bip_39_word_dash_4: obvious-cloth-ostrich-sibling
-bip_39_word_dash_5: obvious-cloth-ostrich-sibling-defense
-bip_39_word_dash_6: obvious-cloth-ostrich-sibling-defense-right
-bip_39_word_dash_7: obvious-cloth-ostrich-sibling-defense-right-maple
-bip_39_word_dash_8: obvious-cloth-ostrich-sibling-defense-right-maple-myself
-bip_39_word_dash_9: obvious-cloth-ostrich-sibling-defense-right-maple-myself-weasel
-bip_39_word_new_br_1: obvious
-bip_39_word_new_br_10: obvious<br>cloth<br>ostrich<br>sibling<br>defense<br>right<br>maple<br>myself<br>weasel<br>bachelor
-bip_39_word_new_br_11: obvious<br>cloth<br>ostrich<br>sibling<br>defense<br>right<br>maple<br>myself<br>weasel<br>bachelor<br>chef
 bip_39_word_new_br_12: obvious<br>cloth<br>ostrich<br>sibling<br>defense<br>right<br>maple<br>myself<br>weasel<br>bachelor<br>chef<br>audit
 bip_39_word_new_br_2: obvious<br>cloth
 bip_39_word_new_br_3: obvious<br>cloth<br>ostrich
-bip_39_word_new_br_4: obvious<br>cloth<br>ostrich<br>sibling
-bip_39_word_new_br_5: obvious<br>cloth<br>ostrich<br>sibling<br>defense
-bip_39_word_new_br_6: obvious<br>cloth<br>ostrich<br>sibling<br>defense<br>right
-bip_39_word_new_br_7: obvious<br>cloth<br>ostrich<br>sibling<br>defense<br>right<br>maple
-bip_39_word_new_br_8: obvious<br>cloth<br>ostrich<br>sibling<br>defense<br>right<br>maple<br>myself
-bip_39_word_new_br_9: obvious<br>cloth<br>ostrich<br>sibling<br>defense<br>right<br>maple<br>myself<br>weasel
-bip_39_word_new_line_1: obvious
-bip_39_word_new_line_10: 'obvious
-
-  cloth
-
-  ostrich
-
-  sibling
-
-  defense
-
-  right
-
-  maple
-
-  myself
-
-  weasel
-
-  bachelor'
-bip_39_word_new_line_11: 'obvious
-
-  cloth
-
-  ostrich
-
-  sibling
-
-  defense
-
-  right
-
-  maple
-
-  myself
-
-  weasel
-
-  bachelor
-
-  chef'
 bip_39_word_new_line_12: 'obvious
 
   cloth
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'obvious
   cloth
 
   ostrich'
-bip_39_word_new_line_4: 'obvious
-
-  cloth
-
-  ostrich
-
-  sibling'
-bip_39_word_new_line_5: 'obvious
-
-  cloth
-
-  ostrich
-
-  sibling
-
-  defense'
-bip_39_word_new_line_6: 'obvious
-
-  cloth
-
-  ostrich
-
-  sibling
-
-  defense
-
-  right'
-bip_39_word_new_line_7: 'obvious
-
-  cloth
-
-  ostrich
-
-  sibling
-
-  defense
-
-  right
-
-  maple'
-bip_39_word_new_line_8: 'obvious
-
-  cloth
-
-  ostrich
-
-  sibling
-
-  defense
-
-  right
-
-  maple
-
-  myself'
-bip_39_word_new_line_9: 'obvious
-
-  cloth
-
-  ostrich
-
-  sibling
-
-  defense
-
-  right
-
-  maple
-
-  myself
-
-  weasel'
-bip_39_word_no_space_1: obvious
-bip_39_word_no_space_10: obviousclothostrichsiblingdefenserightmaplemyselfweaselbachelor
-bip_39_word_no_space_11: obviousclothostrichsiblingdefenserightmaplemyselfweaselbachelorchef
 bip_39_word_no_space_12: obviousclothostrichsiblingdefenserightmaplemyselfweaselbachelorchefaudit
 bip_39_word_no_space_2: obviouscloth
 bip_39_word_no_space_3: obviousclothostrich
-bip_39_word_no_space_4: obviousclothostrichsibling
-bip_39_word_no_space_5: obviousclothostrichsiblingdefense
-bip_39_word_no_space_6: obviousclothostrichsiblingdefenseright
-bip_39_word_no_space_7: obviousclothostrichsiblingdefenserightmaple
-bip_39_word_no_space_8: obviousclothostrichsiblingdefenserightmaplemyself
-bip_39_word_no_space_9: obviousclothostrichsiblingdefenserightmaplemyselfweasel
-bip_39_word_space_0:
-- obvious
-- cloth
-- ostrich
-- sibling
-- defense
-- right
-- maple
-- myself
-- weasel
-- bachelor
-- chef
-- audit
-bip_39_word_space_1: obvious
-bip_39_word_space_10: obvious cloth ostrich sibling defense right maple myself weasel
-  bachelor
-bip_39_word_space_11: obvious cloth ostrich sibling defense right maple myself weasel
-  bachelor chef
 bip_39_word_space_12: obvious cloth ostrich sibling defense right maple myself weasel
   bachelor chef audit
 bip_39_word_space_2: obvious cloth
 bip_39_word_space_3: obvious cloth ostrich
-bip_39_word_space_4: obvious cloth ostrich sibling
-bip_39_word_space_5: obvious cloth ostrich sibling defense
-bip_39_word_space_6: obvious cloth ostrich sibling defense right
-bip_39_word_space_7: obvious cloth ostrich sibling defense right maple
-bip_39_word_space_8: obvious cloth ostrich sibling defense right maple myself
-bip_39_word_space_9: obvious cloth ostrich sibling defense right maple myself weasel
-bip_39_word_underscore_1: obvious
-bip_39_word_underscore_10: obvious_cloth_ostrich_sibling_defense_right_maple_myself_weasel_bachelor
-bip_39_word_underscore_11: obvious_cloth_ostrich_sibling_defense_right_maple_myself_weasel_bachelor_chef
 bip_39_word_underscore_12: obvious_cloth_ostrich_sibling_defense_right_maple_myself_weasel_bachelor_chef_audit
 bip_39_word_underscore_2: obvious_cloth
 bip_39_word_underscore_3: obvious_cloth_ostrich
-bip_39_word_underscore_4: obvious_cloth_ostrich_sibling
-bip_39_word_underscore_5: obvious_cloth_ostrich_sibling_defense
-bip_39_word_underscore_6: obvious_cloth_ostrich_sibling_defense_right
-bip_39_word_underscore_7: obvious_cloth_ostrich_sibling_defense_right_maple
-bip_39_word_underscore_8: obvious_cloth_ostrich_sibling_defense_right_maple_myself
-bip_39_word_underscore_9: obvious_cloth_ostrich_sibling_defense_right_maple_myself_weasel
 classification: category
 classification_capital: Category
 classification_first_letter: c

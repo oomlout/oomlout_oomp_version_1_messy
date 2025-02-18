@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mask
-bip_39_word_dash_10: mask-remove-atom-crowd-iron-choose-verify-consider-tree-cram
-bip_39_word_dash_11: mask-remove-atom-crowd-iron-choose-verify-consider-tree-cram-topic
 bip_39_word_dash_12: mask-remove-atom-crowd-iron-choose-verify-consider-tree-cram-topic-amused
 bip_39_word_dash_2: mask-remove
 bip_39_word_dash_3: mask-remove-atom
-bip_39_word_dash_4: mask-remove-atom-crowd
-bip_39_word_dash_5: mask-remove-atom-crowd-iron
-bip_39_word_dash_6: mask-remove-atom-crowd-iron-choose
-bip_39_word_dash_7: mask-remove-atom-crowd-iron-choose-verify
-bip_39_word_dash_8: mask-remove-atom-crowd-iron-choose-verify-consider
-bip_39_word_dash_9: mask-remove-atom-crowd-iron-choose-verify-consider-tree
-bip_39_word_new_br_1: mask
-bip_39_word_new_br_10: mask<br>remove<br>atom<br>crowd<br>iron<br>choose<br>verify<br>consider<br>tree<br>cram
-bip_39_word_new_br_11: mask<br>remove<br>atom<br>crowd<br>iron<br>choose<br>verify<br>consider<br>tree<br>cram<br>topic
 bip_39_word_new_br_12: mask<br>remove<br>atom<br>crowd<br>iron<br>choose<br>verify<br>consider<br>tree<br>cram<br>topic<br>amused
 bip_39_word_new_br_2: mask<br>remove
 bip_39_word_new_br_3: mask<br>remove<br>atom
-bip_39_word_new_br_4: mask<br>remove<br>atom<br>crowd
-bip_39_word_new_br_5: mask<br>remove<br>atom<br>crowd<br>iron
-bip_39_word_new_br_6: mask<br>remove<br>atom<br>crowd<br>iron<br>choose
-bip_39_word_new_br_7: mask<br>remove<br>atom<br>crowd<br>iron<br>choose<br>verify
-bip_39_word_new_br_8: mask<br>remove<br>atom<br>crowd<br>iron<br>choose<br>verify<br>consider
-bip_39_word_new_br_9: mask<br>remove<br>atom<br>crowd<br>iron<br>choose<br>verify<br>consider<br>tree
-bip_39_word_new_line_1: mask
-bip_39_word_new_line_10: 'mask
-
-  remove
-
-  atom
-
-  crowd
-
-  iron
-
-  choose
-
-  verify
-
-  consider
-
-  tree
-
-  cram'
-bip_39_word_new_line_11: 'mask
-
-  remove
-
-  atom
-
-  crowd
-
-  iron
-
-  choose
-
-  verify
-
-  consider
-
-  tree
-
-  cram
-
-  topic'
 bip_39_word_new_line_12: 'mask
 
   remove
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mask
   remove
 
   atom'
-bip_39_word_new_line_4: 'mask
-
-  remove
-
-  atom
-
-  crowd'
-bip_39_word_new_line_5: 'mask
-
-  remove
-
-  atom
-
-  crowd
-
-  iron'
-bip_39_word_new_line_6: 'mask
-
-  remove
-
-  atom
-
-  crowd
-
-  iron
-
-  choose'
-bip_39_word_new_line_7: 'mask
-
-  remove
-
-  atom
-
-  crowd
-
-  iron
-
-  choose
-
-  verify'
-bip_39_word_new_line_8: 'mask
-
-  remove
-
-  atom
-
-  crowd
-
-  iron
-
-  choose
-
-  verify
-
-  consider'
-bip_39_word_new_line_9: 'mask
-
-  remove
-
-  atom
-
-  crowd
-
-  iron
-
-  choose
-
-  verify
-
-  consider
-
-  tree'
-bip_39_word_no_space_1: mask
-bip_39_word_no_space_10: maskremoveatomcrowdironchooseverifyconsidertreecram
-bip_39_word_no_space_11: maskremoveatomcrowdironchooseverifyconsidertreecramtopic
 bip_39_word_no_space_12: maskremoveatomcrowdironchooseverifyconsidertreecramtopicamused
 bip_39_word_no_space_2: maskremove
 bip_39_word_no_space_3: maskremoveatom
-bip_39_word_no_space_4: maskremoveatomcrowd
-bip_39_word_no_space_5: maskremoveatomcrowdiron
-bip_39_word_no_space_6: maskremoveatomcrowdironchoose
-bip_39_word_no_space_7: maskremoveatomcrowdironchooseverify
-bip_39_word_no_space_8: maskremoveatomcrowdironchooseverifyconsider
-bip_39_word_no_space_9: maskremoveatomcrowdironchooseverifyconsidertree
-bip_39_word_space_0:
-- mask
-- remove
-- atom
-- crowd
-- iron
-- choose
-- verify
-- consider
-- tree
-- cram
-- topic
-- amused
-bip_39_word_space_1: mask
-bip_39_word_space_10: mask remove atom crowd iron choose verify consider tree cram
-bip_39_word_space_11: mask remove atom crowd iron choose verify consider tree cram
-  topic
 bip_39_word_space_12: mask remove atom crowd iron choose verify consider tree cram
   topic amused
 bip_39_word_space_2: mask remove
 bip_39_word_space_3: mask remove atom
-bip_39_word_space_4: mask remove atom crowd
-bip_39_word_space_5: mask remove atom crowd iron
-bip_39_word_space_6: mask remove atom crowd iron choose
-bip_39_word_space_7: mask remove atom crowd iron choose verify
-bip_39_word_space_8: mask remove atom crowd iron choose verify consider
-bip_39_word_space_9: mask remove atom crowd iron choose verify consider tree
-bip_39_word_underscore_1: mask
-bip_39_word_underscore_10: mask_remove_atom_crowd_iron_choose_verify_consider_tree_cram
-bip_39_word_underscore_11: mask_remove_atom_crowd_iron_choose_verify_consider_tree_cram_topic
 bip_39_word_underscore_12: mask_remove_atom_crowd_iron_choose_verify_consider_tree_cram_topic_amused
 bip_39_word_underscore_2: mask_remove
 bip_39_word_underscore_3: mask_remove_atom
-bip_39_word_underscore_4: mask_remove_atom_crowd
-bip_39_word_underscore_5: mask_remove_atom_crowd_iron
-bip_39_word_underscore_6: mask_remove_atom_crowd_iron_choose
-bip_39_word_underscore_7: mask_remove_atom_crowd_iron_choose_verify
-bip_39_word_underscore_8: mask_remove_atom_crowd_iron_choose_verify_consider
-bip_39_word_underscore_9: mask_remove_atom_crowd_iron_choose_verify_consider_tree
 classification: category
 classification_capital: Category
 classification_first_letter: c

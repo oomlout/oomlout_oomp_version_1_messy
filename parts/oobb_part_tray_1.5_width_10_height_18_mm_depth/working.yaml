@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sentence
-bip_39_word_dash_10: sentence-client-steel-will-snap-pluck-soap-soul-sick-scout
-bip_39_word_dash_11: sentence-client-steel-will-snap-pluck-soap-soul-sick-scout-axis
 bip_39_word_dash_12: sentence-client-steel-will-snap-pluck-soap-soul-sick-scout-axis-accident
 bip_39_word_dash_2: sentence-client
 bip_39_word_dash_3: sentence-client-steel
-bip_39_word_dash_4: sentence-client-steel-will
-bip_39_word_dash_5: sentence-client-steel-will-snap
-bip_39_word_dash_6: sentence-client-steel-will-snap-pluck
-bip_39_word_dash_7: sentence-client-steel-will-snap-pluck-soap
-bip_39_word_dash_8: sentence-client-steel-will-snap-pluck-soap-soul
-bip_39_word_dash_9: sentence-client-steel-will-snap-pluck-soap-soul-sick
-bip_39_word_new_br_1: sentence
-bip_39_word_new_br_10: sentence<br>client<br>steel<br>will<br>snap<br>pluck<br>soap<br>soul<br>sick<br>scout
-bip_39_word_new_br_11: sentence<br>client<br>steel<br>will<br>snap<br>pluck<br>soap<br>soul<br>sick<br>scout<br>axis
 bip_39_word_new_br_12: sentence<br>client<br>steel<br>will<br>snap<br>pluck<br>soap<br>soul<br>sick<br>scout<br>axis<br>accident
 bip_39_word_new_br_2: sentence<br>client
 bip_39_word_new_br_3: sentence<br>client<br>steel
-bip_39_word_new_br_4: sentence<br>client<br>steel<br>will
-bip_39_word_new_br_5: sentence<br>client<br>steel<br>will<br>snap
-bip_39_word_new_br_6: sentence<br>client<br>steel<br>will<br>snap<br>pluck
-bip_39_word_new_br_7: sentence<br>client<br>steel<br>will<br>snap<br>pluck<br>soap
-bip_39_word_new_br_8: sentence<br>client<br>steel<br>will<br>snap<br>pluck<br>soap<br>soul
-bip_39_word_new_br_9: sentence<br>client<br>steel<br>will<br>snap<br>pluck<br>soap<br>soul<br>sick
-bip_39_word_new_line_1: sentence
-bip_39_word_new_line_10: 'sentence
-
-  client
-
-  steel
-
-  will
-
-  snap
-
-  pluck
-
-  soap
-
-  soul
-
-  sick
-
-  scout'
-bip_39_word_new_line_11: 'sentence
-
-  client
-
-  steel
-
-  will
-
-  snap
-
-  pluck
-
-  soap
-
-  soul
-
-  sick
-
-  scout
-
-  axis'
 bip_39_word_new_line_12: 'sentence
 
   client
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'sentence
   client
 
   steel'
-bip_39_word_new_line_4: 'sentence
-
-  client
-
-  steel
-
-  will'
-bip_39_word_new_line_5: 'sentence
-
-  client
-
-  steel
-
-  will
-
-  snap'
-bip_39_word_new_line_6: 'sentence
-
-  client
-
-  steel
-
-  will
-
-  snap
-
-  pluck'
-bip_39_word_new_line_7: 'sentence
-
-  client
-
-  steel
-
-  will
-
-  snap
-
-  pluck
-
-  soap'
-bip_39_word_new_line_8: 'sentence
-
-  client
-
-  steel
-
-  will
-
-  snap
-
-  pluck
-
-  soap
-
-  soul'
-bip_39_word_new_line_9: 'sentence
-
-  client
-
-  steel
-
-  will
-
-  snap
-
-  pluck
-
-  soap
-
-  soul
-
-  sick'
-bip_39_word_no_space_1: sentence
-bip_39_word_no_space_10: sentenceclientsteelwillsnapplucksoapsoulsickscout
-bip_39_word_no_space_11: sentenceclientsteelwillsnapplucksoapsoulsickscoutaxis
 bip_39_word_no_space_12: sentenceclientsteelwillsnapplucksoapsoulsickscoutaxisaccident
 bip_39_word_no_space_2: sentenceclient
 bip_39_word_no_space_3: sentenceclientsteel
-bip_39_word_no_space_4: sentenceclientsteelwill
-bip_39_word_no_space_5: sentenceclientsteelwillsnap
-bip_39_word_no_space_6: sentenceclientsteelwillsnappluck
-bip_39_word_no_space_7: sentenceclientsteelwillsnapplucksoap
-bip_39_word_no_space_8: sentenceclientsteelwillsnapplucksoapsoul
-bip_39_word_no_space_9: sentenceclientsteelwillsnapplucksoapsoulsick
-bip_39_word_space_0:
-- sentence
-- client
-- steel
-- will
-- snap
-- pluck
-- soap
-- soul
-- sick
-- scout
-- axis
-- accident
-bip_39_word_space_1: sentence
-bip_39_word_space_10: sentence client steel will snap pluck soap soul sick scout
-bip_39_word_space_11: sentence client steel will snap pluck soap soul sick scout axis
 bip_39_word_space_12: sentence client steel will snap pluck soap soul sick scout axis
   accident
 bip_39_word_space_2: sentence client
 bip_39_word_space_3: sentence client steel
-bip_39_word_space_4: sentence client steel will
-bip_39_word_space_5: sentence client steel will snap
-bip_39_word_space_6: sentence client steel will snap pluck
-bip_39_word_space_7: sentence client steel will snap pluck soap
-bip_39_word_space_8: sentence client steel will snap pluck soap soul
-bip_39_word_space_9: sentence client steel will snap pluck soap soul sick
-bip_39_word_underscore_1: sentence
-bip_39_word_underscore_10: sentence_client_steel_will_snap_pluck_soap_soul_sick_scout
-bip_39_word_underscore_11: sentence_client_steel_will_snap_pluck_soap_soul_sick_scout_axis
 bip_39_word_underscore_12: sentence_client_steel_will_snap_pluck_soap_soul_sick_scout_axis_accident
 bip_39_word_underscore_2: sentence_client
 bip_39_word_underscore_3: sentence_client_steel
-bip_39_word_underscore_4: sentence_client_steel_will
-bip_39_word_underscore_5: sentence_client_steel_will_snap
-bip_39_word_underscore_6: sentence_client_steel_will_snap_pluck
-bip_39_word_underscore_7: sentence_client_steel_will_snap_pluck_soap
-bip_39_word_underscore_8: sentence_client_steel_will_snap_pluck_soap_soul
-bip_39_word_underscore_9: sentence_client_steel_will_snap_pluck_soap_soul_sick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

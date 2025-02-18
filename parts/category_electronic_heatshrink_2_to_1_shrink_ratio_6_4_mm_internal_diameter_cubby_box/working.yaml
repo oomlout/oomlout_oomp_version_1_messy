@@ -1,68 +1,9 @@
-bip_39_word_dash_1: patch
-bip_39_word_dash_10: patch-patient-omit-width-fragile-sunny-cave-deposit-neglect-garage
-bip_39_word_dash_11: patch-patient-omit-width-fragile-sunny-cave-deposit-neglect-garage-educate
 bip_39_word_dash_12: patch-patient-omit-width-fragile-sunny-cave-deposit-neglect-garage-educate-advice
 bip_39_word_dash_2: patch-patient
 bip_39_word_dash_3: patch-patient-omit
-bip_39_word_dash_4: patch-patient-omit-width
-bip_39_word_dash_5: patch-patient-omit-width-fragile
-bip_39_word_dash_6: patch-patient-omit-width-fragile-sunny
-bip_39_word_dash_7: patch-patient-omit-width-fragile-sunny-cave
-bip_39_word_dash_8: patch-patient-omit-width-fragile-sunny-cave-deposit
-bip_39_word_dash_9: patch-patient-omit-width-fragile-sunny-cave-deposit-neglect
-bip_39_word_new_br_1: patch
-bip_39_word_new_br_10: patch<br>patient<br>omit<br>width<br>fragile<br>sunny<br>cave<br>deposit<br>neglect<br>garage
-bip_39_word_new_br_11: patch<br>patient<br>omit<br>width<br>fragile<br>sunny<br>cave<br>deposit<br>neglect<br>garage<br>educate
 bip_39_word_new_br_12: patch<br>patient<br>omit<br>width<br>fragile<br>sunny<br>cave<br>deposit<br>neglect<br>garage<br>educate<br>advice
 bip_39_word_new_br_2: patch<br>patient
 bip_39_word_new_br_3: patch<br>patient<br>omit
-bip_39_word_new_br_4: patch<br>patient<br>omit<br>width
-bip_39_word_new_br_5: patch<br>patient<br>omit<br>width<br>fragile
-bip_39_word_new_br_6: patch<br>patient<br>omit<br>width<br>fragile<br>sunny
-bip_39_word_new_br_7: patch<br>patient<br>omit<br>width<br>fragile<br>sunny<br>cave
-bip_39_word_new_br_8: patch<br>patient<br>omit<br>width<br>fragile<br>sunny<br>cave<br>deposit
-bip_39_word_new_br_9: patch<br>patient<br>omit<br>width<br>fragile<br>sunny<br>cave<br>deposit<br>neglect
-bip_39_word_new_line_1: patch
-bip_39_word_new_line_10: 'patch
-
-  patient
-
-  omit
-
-  width
-
-  fragile
-
-  sunny
-
-  cave
-
-  deposit
-
-  neglect
-
-  garage'
-bip_39_word_new_line_11: 'patch
-
-  patient
-
-  omit
-
-  width
-
-  fragile
-
-  sunny
-
-  cave
-
-  deposit
-
-  neglect
-
-  garage
-
-  educate'
 bip_39_word_new_line_12: 'patch
 
   patient
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'patch
   patient
 
   omit'
-bip_39_word_new_line_4: 'patch
-
-  patient
-
-  omit
-
-  width'
-bip_39_word_new_line_5: 'patch
-
-  patient
-
-  omit
-
-  width
-
-  fragile'
-bip_39_word_new_line_6: 'patch
-
-  patient
-
-  omit
-
-  width
-
-  fragile
-
-  sunny'
-bip_39_word_new_line_7: 'patch
-
-  patient
-
-  omit
-
-  width
-
-  fragile
-
-  sunny
-
-  cave'
-bip_39_word_new_line_8: 'patch
-
-  patient
-
-  omit
-
-  width
-
-  fragile
-
-  sunny
-
-  cave
-
-  deposit'
-bip_39_word_new_line_9: 'patch
-
-  patient
-
-  omit
-
-  width
-
-  fragile
-
-  sunny
-
-  cave
-
-  deposit
-
-  neglect'
-bip_39_word_no_space_1: patch
-bip_39_word_no_space_10: patchpatientomitwidthfragilesunnycavedepositneglectgarage
-bip_39_word_no_space_11: patchpatientomitwidthfragilesunnycavedepositneglectgarageeducate
 bip_39_word_no_space_12: patchpatientomitwidthfragilesunnycavedepositneglectgarageeducateadvice
 bip_39_word_no_space_2: patchpatient
 bip_39_word_no_space_3: patchpatientomit
-bip_39_word_no_space_4: patchpatientomitwidth
-bip_39_word_no_space_5: patchpatientomitwidthfragile
-bip_39_word_no_space_6: patchpatientomitwidthfragilesunny
-bip_39_word_no_space_7: patchpatientomitwidthfragilesunnycave
-bip_39_word_no_space_8: patchpatientomitwidthfragilesunnycavedeposit
-bip_39_word_no_space_9: patchpatientomitwidthfragilesunnycavedepositneglect
-bip_39_word_space_0:
-- patch
-- patient
-- omit
-- width
-- fragile
-- sunny
-- cave
-- deposit
-- neglect
-- garage
-- educate
-- advice
-bip_39_word_space_1: patch
-bip_39_word_space_10: patch patient omit width fragile sunny cave deposit neglect
-  garage
-bip_39_word_space_11: patch patient omit width fragile sunny cave deposit neglect
-  garage educate
 bip_39_word_space_12: patch patient omit width fragile sunny cave deposit neglect
   garage educate advice
 bip_39_word_space_2: patch patient
 bip_39_word_space_3: patch patient omit
-bip_39_word_space_4: patch patient omit width
-bip_39_word_space_5: patch patient omit width fragile
-bip_39_word_space_6: patch patient omit width fragile sunny
-bip_39_word_space_7: patch patient omit width fragile sunny cave
-bip_39_word_space_8: patch patient omit width fragile sunny cave deposit
-bip_39_word_space_9: patch patient omit width fragile sunny cave deposit neglect
-bip_39_word_underscore_1: patch
-bip_39_word_underscore_10: patch_patient_omit_width_fragile_sunny_cave_deposit_neglect_garage
-bip_39_word_underscore_11: patch_patient_omit_width_fragile_sunny_cave_deposit_neglect_garage_educate
 bip_39_word_underscore_12: patch_patient_omit_width_fragile_sunny_cave_deposit_neglect_garage_educate_advice
 bip_39_word_underscore_2: patch_patient
 bip_39_word_underscore_3: patch_patient_omit
-bip_39_word_underscore_4: patch_patient_omit_width
-bip_39_word_underscore_5: patch_patient_omit_width_fragile
-bip_39_word_underscore_6: patch_patient_omit_width_fragile_sunny
-bip_39_word_underscore_7: patch_patient_omit_width_fragile_sunny_cave
-bip_39_word_underscore_8: patch_patient_omit_width_fragile_sunny_cave_deposit
-bip_39_word_underscore_9: patch_patient_omit_width_fragile_sunny_cave_deposit_neglect
 classification: category
 classification_capital: Category
 classification_first_letter: c

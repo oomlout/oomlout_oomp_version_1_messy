@@ -1,68 +1,9 @@
-bip_39_word_dash_1: captain
-bip_39_word_dash_10: captain-try-wait-minimum-rely-return-zebra-argue-dirt-night
-bip_39_word_dash_11: captain-try-wait-minimum-rely-return-zebra-argue-dirt-night-skull
 bip_39_word_dash_12: captain-try-wait-minimum-rely-return-zebra-argue-dirt-night-skull-avocado
 bip_39_word_dash_2: captain-try
 bip_39_word_dash_3: captain-try-wait
-bip_39_word_dash_4: captain-try-wait-minimum
-bip_39_word_dash_5: captain-try-wait-minimum-rely
-bip_39_word_dash_6: captain-try-wait-minimum-rely-return
-bip_39_word_dash_7: captain-try-wait-minimum-rely-return-zebra
-bip_39_word_dash_8: captain-try-wait-minimum-rely-return-zebra-argue
-bip_39_word_dash_9: captain-try-wait-minimum-rely-return-zebra-argue-dirt
-bip_39_word_new_br_1: captain
-bip_39_word_new_br_10: captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night
-bip_39_word_new_br_11: captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night<br>skull
 bip_39_word_new_br_12: captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt<br>night<br>skull<br>avocado
 bip_39_word_new_br_2: captain<br>try
 bip_39_word_new_br_3: captain<br>try<br>wait
-bip_39_word_new_br_4: captain<br>try<br>wait<br>minimum
-bip_39_word_new_br_5: captain<br>try<br>wait<br>minimum<br>rely
-bip_39_word_new_br_6: captain<br>try<br>wait<br>minimum<br>rely<br>return
-bip_39_word_new_br_7: captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra
-bip_39_word_new_br_8: captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue
-bip_39_word_new_br_9: captain<br>try<br>wait<br>minimum<br>rely<br>return<br>zebra<br>argue<br>dirt
-bip_39_word_new_line_1: captain
-bip_39_word_new_line_10: 'captain
-
-  try
-
-  wait
-
-  minimum
-
-  rely
-
-  return
-
-  zebra
-
-  argue
-
-  dirt
-
-  night'
-bip_39_word_new_line_11: 'captain
-
-  try
-
-  wait
-
-  minimum
-
-  rely
-
-  return
-
-  zebra
-
-  argue
-
-  dirt
-
-  night
-
-  skull'
 bip_39_word_new_line_12: 'captain
 
   try
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'captain
   try
 
   wait'
-bip_39_word_new_line_4: 'captain
-
-  try
-
-  wait
-
-  minimum'
-bip_39_word_new_line_5: 'captain
-
-  try
-
-  wait
-
-  minimum
-
-  rely'
-bip_39_word_new_line_6: 'captain
-
-  try
-
-  wait
-
-  minimum
-
-  rely
-
-  return'
-bip_39_word_new_line_7: 'captain
-
-  try
-
-  wait
-
-  minimum
-
-  rely
-
-  return
-
-  zebra'
-bip_39_word_new_line_8: 'captain
-
-  try
-
-  wait
-
-  minimum
-
-  rely
-
-  return
-
-  zebra
-
-  argue'
-bip_39_word_new_line_9: 'captain
-
-  try
-
-  wait
-
-  minimum
-
-  rely
-
-  return
-
-  zebra
-
-  argue
-
-  dirt'
-bip_39_word_no_space_1: captain
-bip_39_word_no_space_10: captaintrywaitminimumrelyreturnzebraarguedirtnight
-bip_39_word_no_space_11: captaintrywaitminimumrelyreturnzebraarguedirtnightskull
 bip_39_word_no_space_12: captaintrywaitminimumrelyreturnzebraarguedirtnightskullavocado
 bip_39_word_no_space_2: captaintry
 bip_39_word_no_space_3: captaintrywait
-bip_39_word_no_space_4: captaintrywaitminimum
-bip_39_word_no_space_5: captaintrywaitminimumrely
-bip_39_word_no_space_6: captaintrywaitminimumrelyreturn
-bip_39_word_no_space_7: captaintrywaitminimumrelyreturnzebra
-bip_39_word_no_space_8: captaintrywaitminimumrelyreturnzebraargue
-bip_39_word_no_space_9: captaintrywaitminimumrelyreturnzebraarguedirt
-bip_39_word_space_0:
-- captain
-- try
-- wait
-- minimum
-- rely
-- return
-- zebra
-- argue
-- dirt
-- night
-- skull
-- avocado
-bip_39_word_space_1: captain
-bip_39_word_space_10: captain try wait minimum rely return zebra argue dirt night
-bip_39_word_space_11: captain try wait minimum rely return zebra argue dirt night
-  skull
 bip_39_word_space_12: captain try wait minimum rely return zebra argue dirt night
   skull avocado
 bip_39_word_space_2: captain try
 bip_39_word_space_3: captain try wait
-bip_39_word_space_4: captain try wait minimum
-bip_39_word_space_5: captain try wait minimum rely
-bip_39_word_space_6: captain try wait minimum rely return
-bip_39_word_space_7: captain try wait minimum rely return zebra
-bip_39_word_space_8: captain try wait minimum rely return zebra argue
-bip_39_word_space_9: captain try wait minimum rely return zebra argue dirt
-bip_39_word_underscore_1: captain
-bip_39_word_underscore_10: captain_try_wait_minimum_rely_return_zebra_argue_dirt_night
-bip_39_word_underscore_11: captain_try_wait_minimum_rely_return_zebra_argue_dirt_night_skull
 bip_39_word_underscore_12: captain_try_wait_minimum_rely_return_zebra_argue_dirt_night_skull_avocado
 bip_39_word_underscore_2: captain_try
 bip_39_word_underscore_3: captain_try_wait
-bip_39_word_underscore_4: captain_try_wait_minimum
-bip_39_word_underscore_5: captain_try_wait_minimum_rely
-bip_39_word_underscore_6: captain_try_wait_minimum_rely_return
-bip_39_word_underscore_7: captain_try_wait_minimum_rely_return_zebra
-bip_39_word_underscore_8: captain_try_wait_minimum_rely_return_zebra_argue
-bip_39_word_underscore_9: captain_try_wait_minimum_rely_return_zebra_argue_dirt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

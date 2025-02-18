@@ -1,68 +1,9 @@
-bip_39_word_dash_1: payment
-bip_39_word_dash_10: payment-run-chimney-forward-book-near-scissors-wet-mixed-develop
-bip_39_word_dash_11: payment-run-chimney-forward-book-near-scissors-wet-mixed-develop-december
 bip_39_word_dash_12: payment-run-chimney-forward-book-near-scissors-wet-mixed-develop-december-about
 bip_39_word_dash_2: payment-run
 bip_39_word_dash_3: payment-run-chimney
-bip_39_word_dash_4: payment-run-chimney-forward
-bip_39_word_dash_5: payment-run-chimney-forward-book
-bip_39_word_dash_6: payment-run-chimney-forward-book-near
-bip_39_word_dash_7: payment-run-chimney-forward-book-near-scissors
-bip_39_word_dash_8: payment-run-chimney-forward-book-near-scissors-wet
-bip_39_word_dash_9: payment-run-chimney-forward-book-near-scissors-wet-mixed
-bip_39_word_new_br_1: payment
-bip_39_word_new_br_10: payment<br>run<br>chimney<br>forward<br>book<br>near<br>scissors<br>wet<br>mixed<br>develop
-bip_39_word_new_br_11: payment<br>run<br>chimney<br>forward<br>book<br>near<br>scissors<br>wet<br>mixed<br>develop<br>december
 bip_39_word_new_br_12: payment<br>run<br>chimney<br>forward<br>book<br>near<br>scissors<br>wet<br>mixed<br>develop<br>december<br>about
 bip_39_word_new_br_2: payment<br>run
 bip_39_word_new_br_3: payment<br>run<br>chimney
-bip_39_word_new_br_4: payment<br>run<br>chimney<br>forward
-bip_39_word_new_br_5: payment<br>run<br>chimney<br>forward<br>book
-bip_39_word_new_br_6: payment<br>run<br>chimney<br>forward<br>book<br>near
-bip_39_word_new_br_7: payment<br>run<br>chimney<br>forward<br>book<br>near<br>scissors
-bip_39_word_new_br_8: payment<br>run<br>chimney<br>forward<br>book<br>near<br>scissors<br>wet
-bip_39_word_new_br_9: payment<br>run<br>chimney<br>forward<br>book<br>near<br>scissors<br>wet<br>mixed
-bip_39_word_new_line_1: payment
-bip_39_word_new_line_10: 'payment
-
-  run
-
-  chimney
-
-  forward
-
-  book
-
-  near
-
-  scissors
-
-  wet
-
-  mixed
-
-  develop'
-bip_39_word_new_line_11: 'payment
-
-  run
-
-  chimney
-
-  forward
-
-  book
-
-  near
-
-  scissors
-
-  wet
-
-  mixed
-
-  develop
-
-  december'
 bip_39_word_new_line_12: 'payment
 
   run
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'payment
   run
 
   chimney'
-bip_39_word_new_line_4: 'payment
-
-  run
-
-  chimney
-
-  forward'
-bip_39_word_new_line_5: 'payment
-
-  run
-
-  chimney
-
-  forward
-
-  book'
-bip_39_word_new_line_6: 'payment
-
-  run
-
-  chimney
-
-  forward
-
-  book
-
-  near'
-bip_39_word_new_line_7: 'payment
-
-  run
-
-  chimney
-
-  forward
-
-  book
-
-  near
-
-  scissors'
-bip_39_word_new_line_8: 'payment
-
-  run
-
-  chimney
-
-  forward
-
-  book
-
-  near
-
-  scissors
-
-  wet'
-bip_39_word_new_line_9: 'payment
-
-  run
-
-  chimney
-
-  forward
-
-  book
-
-  near
-
-  scissors
-
-  wet
-
-  mixed'
-bip_39_word_no_space_1: payment
-bip_39_word_no_space_10: paymentrunchimneyforwardbooknearscissorswetmixeddevelop
-bip_39_word_no_space_11: paymentrunchimneyforwardbooknearscissorswetmixeddevelopdecember
 bip_39_word_no_space_12: paymentrunchimneyforwardbooknearscissorswetmixeddevelopdecemberabout
 bip_39_word_no_space_2: paymentrun
 bip_39_word_no_space_3: paymentrunchimney
-bip_39_word_no_space_4: paymentrunchimneyforward
-bip_39_word_no_space_5: paymentrunchimneyforwardbook
-bip_39_word_no_space_6: paymentrunchimneyforwardbooknear
-bip_39_word_no_space_7: paymentrunchimneyforwardbooknearscissors
-bip_39_word_no_space_8: paymentrunchimneyforwardbooknearscissorswet
-bip_39_word_no_space_9: paymentrunchimneyforwardbooknearscissorswetmixed
-bip_39_word_space_0:
-- payment
-- run
-- chimney
-- forward
-- book
-- near
-- scissors
-- wet
-- mixed
-- develop
-- december
-- about
-bip_39_word_space_1: payment
-bip_39_word_space_10: payment run chimney forward book near scissors wet mixed develop
-bip_39_word_space_11: payment run chimney forward book near scissors wet mixed develop
-  december
 bip_39_word_space_12: payment run chimney forward book near scissors wet mixed develop
   december about
 bip_39_word_space_2: payment run
 bip_39_word_space_3: payment run chimney
-bip_39_word_space_4: payment run chimney forward
-bip_39_word_space_5: payment run chimney forward book
-bip_39_word_space_6: payment run chimney forward book near
-bip_39_word_space_7: payment run chimney forward book near scissors
-bip_39_word_space_8: payment run chimney forward book near scissors wet
-bip_39_word_space_9: payment run chimney forward book near scissors wet mixed
-bip_39_word_underscore_1: payment
-bip_39_word_underscore_10: payment_run_chimney_forward_book_near_scissors_wet_mixed_develop
-bip_39_word_underscore_11: payment_run_chimney_forward_book_near_scissors_wet_mixed_develop_december
 bip_39_word_underscore_12: payment_run_chimney_forward_book_near_scissors_wet_mixed_develop_december_about
 bip_39_word_underscore_2: payment_run
 bip_39_word_underscore_3: payment_run_chimney
-bip_39_word_underscore_4: payment_run_chimney_forward
-bip_39_word_underscore_5: payment_run_chimney_forward_book
-bip_39_word_underscore_6: payment_run_chimney_forward_book_near
-bip_39_word_underscore_7: payment_run_chimney_forward_book_near_scissors
-bip_39_word_underscore_8: payment_run_chimney_forward_book_near_scissors_wet
-bip_39_word_underscore_9: payment_run_chimney_forward_book_near_scissors_wet_mixed
 classification: food
 classification_capital: Food
 classification_first_letter: f

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fruit
-bip_39_word_dash_10: fruit-jeans-crouch-salon-caught-danger-donkey-company-attack-vague
-bip_39_word_dash_11: fruit-jeans-crouch-salon-caught-danger-donkey-company-attack-vague-travel
 bip_39_word_dash_12: fruit-jeans-crouch-salon-caught-danger-donkey-company-attack-vague-travel-artwork
 bip_39_word_dash_2: fruit-jeans
 bip_39_word_dash_3: fruit-jeans-crouch
-bip_39_word_dash_4: fruit-jeans-crouch-salon
-bip_39_word_dash_5: fruit-jeans-crouch-salon-caught
-bip_39_word_dash_6: fruit-jeans-crouch-salon-caught-danger
-bip_39_word_dash_7: fruit-jeans-crouch-salon-caught-danger-donkey
-bip_39_word_dash_8: fruit-jeans-crouch-salon-caught-danger-donkey-company
-bip_39_word_dash_9: fruit-jeans-crouch-salon-caught-danger-donkey-company-attack
-bip_39_word_new_br_1: fruit
-bip_39_word_new_br_10: fruit<br>jeans<br>crouch<br>salon<br>caught<br>danger<br>donkey<br>company<br>attack<br>vague
-bip_39_word_new_br_11: fruit<br>jeans<br>crouch<br>salon<br>caught<br>danger<br>donkey<br>company<br>attack<br>vague<br>travel
 bip_39_word_new_br_12: fruit<br>jeans<br>crouch<br>salon<br>caught<br>danger<br>donkey<br>company<br>attack<br>vague<br>travel<br>artwork
 bip_39_word_new_br_2: fruit<br>jeans
 bip_39_word_new_br_3: fruit<br>jeans<br>crouch
-bip_39_word_new_br_4: fruit<br>jeans<br>crouch<br>salon
-bip_39_word_new_br_5: fruit<br>jeans<br>crouch<br>salon<br>caught
-bip_39_word_new_br_6: fruit<br>jeans<br>crouch<br>salon<br>caught<br>danger
-bip_39_word_new_br_7: fruit<br>jeans<br>crouch<br>salon<br>caught<br>danger<br>donkey
-bip_39_word_new_br_8: fruit<br>jeans<br>crouch<br>salon<br>caught<br>danger<br>donkey<br>company
-bip_39_word_new_br_9: fruit<br>jeans<br>crouch<br>salon<br>caught<br>danger<br>donkey<br>company<br>attack
-bip_39_word_new_line_1: fruit
-bip_39_word_new_line_10: 'fruit
-
-  jeans
-
-  crouch
-
-  salon
-
-  caught
-
-  danger
-
-  donkey
-
-  company
-
-  attack
-
-  vague'
-bip_39_word_new_line_11: 'fruit
-
-  jeans
-
-  crouch
-
-  salon
-
-  caught
-
-  danger
-
-  donkey
-
-  company
-
-  attack
-
-  vague
-
-  travel'
 bip_39_word_new_line_12: 'fruit
 
   jeans
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'fruit
   jeans
 
   crouch'
-bip_39_word_new_line_4: 'fruit
-
-  jeans
-
-  crouch
-
-  salon'
-bip_39_word_new_line_5: 'fruit
-
-  jeans
-
-  crouch
-
-  salon
-
-  caught'
-bip_39_word_new_line_6: 'fruit
-
-  jeans
-
-  crouch
-
-  salon
-
-  caught
-
-  danger'
-bip_39_word_new_line_7: 'fruit
-
-  jeans
-
-  crouch
-
-  salon
-
-  caught
-
-  danger
-
-  donkey'
-bip_39_word_new_line_8: 'fruit
-
-  jeans
-
-  crouch
-
-  salon
-
-  caught
-
-  danger
-
-  donkey
-
-  company'
-bip_39_word_new_line_9: 'fruit
-
-  jeans
-
-  crouch
-
-  salon
-
-  caught
-
-  danger
-
-  donkey
-
-  company
-
-  attack'
-bip_39_word_no_space_1: fruit
-bip_39_word_no_space_10: fruitjeanscrouchsaloncaughtdangerdonkeycompanyattackvague
-bip_39_word_no_space_11: fruitjeanscrouchsaloncaughtdangerdonkeycompanyattackvaguetravel
 bip_39_word_no_space_12: fruitjeanscrouchsaloncaughtdangerdonkeycompanyattackvaguetravelartwork
 bip_39_word_no_space_2: fruitjeans
 bip_39_word_no_space_3: fruitjeanscrouch
-bip_39_word_no_space_4: fruitjeanscrouchsalon
-bip_39_word_no_space_5: fruitjeanscrouchsaloncaught
-bip_39_word_no_space_6: fruitjeanscrouchsaloncaughtdanger
-bip_39_word_no_space_7: fruitjeanscrouchsaloncaughtdangerdonkey
-bip_39_word_no_space_8: fruitjeanscrouchsaloncaughtdangerdonkeycompany
-bip_39_word_no_space_9: fruitjeanscrouchsaloncaughtdangerdonkeycompanyattack
-bip_39_word_space_0:
-- fruit
-- jeans
-- crouch
-- salon
-- caught
-- danger
-- donkey
-- company
-- attack
-- vague
-- travel
-- artwork
-bip_39_word_space_1: fruit
-bip_39_word_space_10: fruit jeans crouch salon caught danger donkey company attack
-  vague
-bip_39_word_space_11: fruit jeans crouch salon caught danger donkey company attack
-  vague travel
 bip_39_word_space_12: fruit jeans crouch salon caught danger donkey company attack
   vague travel artwork
 bip_39_word_space_2: fruit jeans
 bip_39_word_space_3: fruit jeans crouch
-bip_39_word_space_4: fruit jeans crouch salon
-bip_39_word_space_5: fruit jeans crouch salon caught
-bip_39_word_space_6: fruit jeans crouch salon caught danger
-bip_39_word_space_7: fruit jeans crouch salon caught danger donkey
-bip_39_word_space_8: fruit jeans crouch salon caught danger donkey company
-bip_39_word_space_9: fruit jeans crouch salon caught danger donkey company attack
-bip_39_word_underscore_1: fruit
-bip_39_word_underscore_10: fruit_jeans_crouch_salon_caught_danger_donkey_company_attack_vague
-bip_39_word_underscore_11: fruit_jeans_crouch_salon_caught_danger_donkey_company_attack_vague_travel
 bip_39_word_underscore_12: fruit_jeans_crouch_salon_caught_danger_donkey_company_attack_vague_travel_artwork
 bip_39_word_underscore_2: fruit_jeans
 bip_39_word_underscore_3: fruit_jeans_crouch
-bip_39_word_underscore_4: fruit_jeans_crouch_salon
-bip_39_word_underscore_5: fruit_jeans_crouch_salon_caught
-bip_39_word_underscore_6: fruit_jeans_crouch_salon_caught_danger
-bip_39_word_underscore_7: fruit_jeans_crouch_salon_caught_danger_donkey
-bip_39_word_underscore_8: fruit_jeans_crouch_salon_caught_danger_donkey_company
-bip_39_word_underscore_9: fruit_jeans_crouch_salon_caught_danger_donkey_company_attack
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: float
-bip_39_word_dash_10: float-venture-alone-truly-step-secret-industry-garage-castle-program
-bip_39_word_dash_11: float-venture-alone-truly-step-secret-industry-garage-castle-program-around
 bip_39_word_dash_12: float-venture-alone-truly-step-secret-industry-garage-castle-program-around-argue
 bip_39_word_dash_2: float-venture
 bip_39_word_dash_3: float-venture-alone
-bip_39_word_dash_4: float-venture-alone-truly
-bip_39_word_dash_5: float-venture-alone-truly-step
-bip_39_word_dash_6: float-venture-alone-truly-step-secret
-bip_39_word_dash_7: float-venture-alone-truly-step-secret-industry
-bip_39_word_dash_8: float-venture-alone-truly-step-secret-industry-garage
-bip_39_word_dash_9: float-venture-alone-truly-step-secret-industry-garage-castle
-bip_39_word_new_br_1: float
-bip_39_word_new_br_10: float<br>venture<br>alone<br>truly<br>step<br>secret<br>industry<br>garage<br>castle<br>program
-bip_39_word_new_br_11: float<br>venture<br>alone<br>truly<br>step<br>secret<br>industry<br>garage<br>castle<br>program<br>around
 bip_39_word_new_br_12: float<br>venture<br>alone<br>truly<br>step<br>secret<br>industry<br>garage<br>castle<br>program<br>around<br>argue
 bip_39_word_new_br_2: float<br>venture
 bip_39_word_new_br_3: float<br>venture<br>alone
-bip_39_word_new_br_4: float<br>venture<br>alone<br>truly
-bip_39_word_new_br_5: float<br>venture<br>alone<br>truly<br>step
-bip_39_word_new_br_6: float<br>venture<br>alone<br>truly<br>step<br>secret
-bip_39_word_new_br_7: float<br>venture<br>alone<br>truly<br>step<br>secret<br>industry
-bip_39_word_new_br_8: float<br>venture<br>alone<br>truly<br>step<br>secret<br>industry<br>garage
-bip_39_word_new_br_9: float<br>venture<br>alone<br>truly<br>step<br>secret<br>industry<br>garage<br>castle
-bip_39_word_new_line_1: float
-bip_39_word_new_line_10: 'float
-
-  venture
-
-  alone
-
-  truly
-
-  step
-
-  secret
-
-  industry
-
-  garage
-
-  castle
-
-  program'
-bip_39_word_new_line_11: 'float
-
-  venture
-
-  alone
-
-  truly
-
-  step
-
-  secret
-
-  industry
-
-  garage
-
-  castle
-
-  program
-
-  around'
 bip_39_word_new_line_12: 'float
 
   venture
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'float
   venture
 
   alone'
-bip_39_word_new_line_4: 'float
-
-  venture
-
-  alone
-
-  truly'
-bip_39_word_new_line_5: 'float
-
-  venture
-
-  alone
-
-  truly
-
-  step'
-bip_39_word_new_line_6: 'float
-
-  venture
-
-  alone
-
-  truly
-
-  step
-
-  secret'
-bip_39_word_new_line_7: 'float
-
-  venture
-
-  alone
-
-  truly
-
-  step
-
-  secret
-
-  industry'
-bip_39_word_new_line_8: 'float
-
-  venture
-
-  alone
-
-  truly
-
-  step
-
-  secret
-
-  industry
-
-  garage'
-bip_39_word_new_line_9: 'float
-
-  venture
-
-  alone
-
-  truly
-
-  step
-
-  secret
-
-  industry
-
-  garage
-
-  castle'
-bip_39_word_no_space_1: float
-bip_39_word_no_space_10: floatventurealonetrulystepsecretindustrygaragecastleprogram
-bip_39_word_no_space_11: floatventurealonetrulystepsecretindustrygaragecastleprogramaround
 bip_39_word_no_space_12: floatventurealonetrulystepsecretindustrygaragecastleprogramaroundargue
 bip_39_word_no_space_2: floatventure
 bip_39_word_no_space_3: floatventurealone
-bip_39_word_no_space_4: floatventurealonetruly
-bip_39_word_no_space_5: floatventurealonetrulystep
-bip_39_word_no_space_6: floatventurealonetrulystepsecret
-bip_39_word_no_space_7: floatventurealonetrulystepsecretindustry
-bip_39_word_no_space_8: floatventurealonetrulystepsecretindustrygarage
-bip_39_word_no_space_9: floatventurealonetrulystepsecretindustrygaragecastle
-bip_39_word_space_0:
-- float
-- venture
-- alone
-- truly
-- step
-- secret
-- industry
-- garage
-- castle
-- program
-- around
-- argue
-bip_39_word_space_1: float
-bip_39_word_space_10: float venture alone truly step secret industry garage castle
-  program
-bip_39_word_space_11: float venture alone truly step secret industry garage castle
-  program around
 bip_39_word_space_12: float venture alone truly step secret industry garage castle
   program around argue
 bip_39_word_space_2: float venture
 bip_39_word_space_3: float venture alone
-bip_39_word_space_4: float venture alone truly
-bip_39_word_space_5: float venture alone truly step
-bip_39_word_space_6: float venture alone truly step secret
-bip_39_word_space_7: float venture alone truly step secret industry
-bip_39_word_space_8: float venture alone truly step secret industry garage
-bip_39_word_space_9: float venture alone truly step secret industry garage castle
-bip_39_word_underscore_1: float
-bip_39_word_underscore_10: float_venture_alone_truly_step_secret_industry_garage_castle_program
-bip_39_word_underscore_11: float_venture_alone_truly_step_secret_industry_garage_castle_program_around
 bip_39_word_underscore_12: float_venture_alone_truly_step_secret_industry_garage_castle_program_around_argue
 bip_39_word_underscore_2: float_venture
 bip_39_word_underscore_3: float_venture_alone
-bip_39_word_underscore_4: float_venture_alone_truly
-bip_39_word_underscore_5: float_venture_alone_truly_step
-bip_39_word_underscore_6: float_venture_alone_truly_step_secret
-bip_39_word_underscore_7: float_venture_alone_truly_step_secret_industry
-bip_39_word_underscore_8: float_venture_alone_truly_step_secret_industry_garage
-bip_39_word_underscore_9: float_venture_alone_truly_step_secret_industry_garage_castle
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

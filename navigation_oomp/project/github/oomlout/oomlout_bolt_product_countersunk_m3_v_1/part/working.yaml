@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cluster
-bip_39_word_dash_10: cluster-siege-safe-elder-design-about-nature-aim-head-wear
-bip_39_word_dash_11: cluster-siege-safe-elder-design-about-nature-aim-head-wear-across
 bip_39_word_dash_12: cluster-siege-safe-elder-design-about-nature-aim-head-wear-across-alert
 bip_39_word_dash_2: cluster-siege
 bip_39_word_dash_3: cluster-siege-safe
-bip_39_word_dash_4: cluster-siege-safe-elder
-bip_39_word_dash_5: cluster-siege-safe-elder-design
-bip_39_word_dash_6: cluster-siege-safe-elder-design-about
-bip_39_word_dash_7: cluster-siege-safe-elder-design-about-nature
-bip_39_word_dash_8: cluster-siege-safe-elder-design-about-nature-aim
-bip_39_word_dash_9: cluster-siege-safe-elder-design-about-nature-aim-head
-bip_39_word_new_br_1: cluster
-bip_39_word_new_br_10: cluster<br>siege<br>safe<br>elder<br>design<br>about<br>nature<br>aim<br>head<br>wear
-bip_39_word_new_br_11: cluster<br>siege<br>safe<br>elder<br>design<br>about<br>nature<br>aim<br>head<br>wear<br>across
 bip_39_word_new_br_12: cluster<br>siege<br>safe<br>elder<br>design<br>about<br>nature<br>aim<br>head<br>wear<br>across<br>alert
 bip_39_word_new_br_2: cluster<br>siege
 bip_39_word_new_br_3: cluster<br>siege<br>safe
-bip_39_word_new_br_4: cluster<br>siege<br>safe<br>elder
-bip_39_word_new_br_5: cluster<br>siege<br>safe<br>elder<br>design
-bip_39_word_new_br_6: cluster<br>siege<br>safe<br>elder<br>design<br>about
-bip_39_word_new_br_7: cluster<br>siege<br>safe<br>elder<br>design<br>about<br>nature
-bip_39_word_new_br_8: cluster<br>siege<br>safe<br>elder<br>design<br>about<br>nature<br>aim
-bip_39_word_new_br_9: cluster<br>siege<br>safe<br>elder<br>design<br>about<br>nature<br>aim<br>head
-bip_39_word_new_line_1: cluster
-bip_39_word_new_line_10: 'cluster
-
-  siege
-
-  safe
-
-  elder
-
-  design
-
-  about
-
-  nature
-
-  aim
-
-  head
-
-  wear'
-bip_39_word_new_line_11: 'cluster
-
-  siege
-
-  safe
-
-  elder
-
-  design
-
-  about
-
-  nature
-
-  aim
-
-  head
-
-  wear
-
-  across'
 bip_39_word_new_line_12: 'cluster
 
   siege
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'cluster
   siege
 
   safe'
-bip_39_word_new_line_4: 'cluster
-
-  siege
-
-  safe
-
-  elder'
-bip_39_word_new_line_5: 'cluster
-
-  siege
-
-  safe
-
-  elder
-
-  design'
-bip_39_word_new_line_6: 'cluster
-
-  siege
-
-  safe
-
-  elder
-
-  design
-
-  about'
-bip_39_word_new_line_7: 'cluster
-
-  siege
-
-  safe
-
-  elder
-
-  design
-
-  about
-
-  nature'
-bip_39_word_new_line_8: 'cluster
-
-  siege
-
-  safe
-
-  elder
-
-  design
-
-  about
-
-  nature
-
-  aim'
-bip_39_word_new_line_9: 'cluster
-
-  siege
-
-  safe
-
-  elder
-
-  design
-
-  about
-
-  nature
-
-  aim
-
-  head'
-bip_39_word_no_space_1: cluster
-bip_39_word_no_space_10: clustersiegesafeelderdesignaboutnatureaimheadwear
-bip_39_word_no_space_11: clustersiegesafeelderdesignaboutnatureaimheadwearacross
 bip_39_word_no_space_12: clustersiegesafeelderdesignaboutnatureaimheadwearacrossalert
 bip_39_word_no_space_2: clustersiege
 bip_39_word_no_space_3: clustersiegesafe
-bip_39_word_no_space_4: clustersiegesafeelder
-bip_39_word_no_space_5: clustersiegesafeelderdesign
-bip_39_word_no_space_6: clustersiegesafeelderdesignabout
-bip_39_word_no_space_7: clustersiegesafeelderdesignaboutnature
-bip_39_word_no_space_8: clustersiegesafeelderdesignaboutnatureaim
-bip_39_word_no_space_9: clustersiegesafeelderdesignaboutnatureaimhead
-bip_39_word_space_0:
-- cluster
-- siege
-- safe
-- elder
-- design
-- about
-- nature
-- aim
-- head
-- wear
-- across
-- alert
-bip_39_word_space_1: cluster
-bip_39_word_space_10: cluster siege safe elder design about nature aim head wear
-bip_39_word_space_11: cluster siege safe elder design about nature aim head wear across
 bip_39_word_space_12: cluster siege safe elder design about nature aim head wear across
   alert
 bip_39_word_space_2: cluster siege
 bip_39_word_space_3: cluster siege safe
-bip_39_word_space_4: cluster siege safe elder
-bip_39_word_space_5: cluster siege safe elder design
-bip_39_word_space_6: cluster siege safe elder design about
-bip_39_word_space_7: cluster siege safe elder design about nature
-bip_39_word_space_8: cluster siege safe elder design about nature aim
-bip_39_word_space_9: cluster siege safe elder design about nature aim head
-bip_39_word_underscore_1: cluster
-bip_39_word_underscore_10: cluster_siege_safe_elder_design_about_nature_aim_head_wear
-bip_39_word_underscore_11: cluster_siege_safe_elder_design_about_nature_aim_head_wear_across
 bip_39_word_underscore_12: cluster_siege_safe_elder_design_about_nature_aim_head_wear_across_alert
 bip_39_word_underscore_2: cluster_siege
 bip_39_word_underscore_3: cluster_siege_safe
-bip_39_word_underscore_4: cluster_siege_safe_elder
-bip_39_word_underscore_5: cluster_siege_safe_elder_design
-bip_39_word_underscore_6: cluster_siege_safe_elder_design_about
-bip_39_word_underscore_7: cluster_siege_safe_elder_design_about_nature
-bip_39_word_underscore_8: cluster_siege_safe_elder_design_about_nature_aim
-bip_39_word_underscore_9: cluster_siege_safe_elder_design_about_nature_aim_head
 classification: project
 classification_capital: Project
 classification_first_letter: p

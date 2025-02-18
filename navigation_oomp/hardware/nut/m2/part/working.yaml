@@ -1,68 +1,9 @@
-bip_39_word_dash_1: weasel
-bip_39_word_dash_10: weasel-fetch-breeze-warm-virus-fox-flower-dad-source-exchange
-bip_39_word_dash_11: weasel-fetch-breeze-warm-virus-fox-flower-dad-source-exchange-glad
 bip_39_word_dash_12: weasel-fetch-breeze-warm-virus-fox-flower-dad-source-exchange-glad-again
 bip_39_word_dash_2: weasel-fetch
 bip_39_word_dash_3: weasel-fetch-breeze
-bip_39_word_dash_4: weasel-fetch-breeze-warm
-bip_39_word_dash_5: weasel-fetch-breeze-warm-virus
-bip_39_word_dash_6: weasel-fetch-breeze-warm-virus-fox
-bip_39_word_dash_7: weasel-fetch-breeze-warm-virus-fox-flower
-bip_39_word_dash_8: weasel-fetch-breeze-warm-virus-fox-flower-dad
-bip_39_word_dash_9: weasel-fetch-breeze-warm-virus-fox-flower-dad-source
-bip_39_word_new_br_1: weasel
-bip_39_word_new_br_10: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source<br>exchange
-bip_39_word_new_br_11: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source<br>exchange<br>glad
 bip_39_word_new_br_12: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source<br>exchange<br>glad<br>again
 bip_39_word_new_br_2: weasel<br>fetch
 bip_39_word_new_br_3: weasel<br>fetch<br>breeze
-bip_39_word_new_br_4: weasel<br>fetch<br>breeze<br>warm
-bip_39_word_new_br_5: weasel<br>fetch<br>breeze<br>warm<br>virus
-bip_39_word_new_br_6: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox
-bip_39_word_new_br_7: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower
-bip_39_word_new_br_8: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad
-bip_39_word_new_br_9: weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source
-bip_39_word_new_line_1: weasel
-bip_39_word_new_line_10: 'weasel
-
-  fetch
-
-  breeze
-
-  warm
-
-  virus
-
-  fox
-
-  flower
-
-  dad
-
-  source
-
-  exchange'
-bip_39_word_new_line_11: 'weasel
-
-  fetch
-
-  breeze
-
-  warm
-
-  virus
-
-  fox
-
-  flower
-
-  dad
-
-  source
-
-  exchange
-
-  glad'
 bip_39_word_new_line_12: 'weasel
 
   fetch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'weasel
   fetch
 
   breeze'
-bip_39_word_new_line_4: 'weasel
-
-  fetch
-
-  breeze
-
-  warm'
-bip_39_word_new_line_5: 'weasel
-
-  fetch
-
-  breeze
-
-  warm
-
-  virus'
-bip_39_word_new_line_6: 'weasel
-
-  fetch
-
-  breeze
-
-  warm
-
-  virus
-
-  fox'
-bip_39_word_new_line_7: 'weasel
-
-  fetch
-
-  breeze
-
-  warm
-
-  virus
-
-  fox
-
-  flower'
-bip_39_word_new_line_8: 'weasel
-
-  fetch
-
-  breeze
-
-  warm
-
-  virus
-
-  fox
-
-  flower
-
-  dad'
-bip_39_word_new_line_9: 'weasel
-
-  fetch
-
-  breeze
-
-  warm
-
-  virus
-
-  fox
-
-  flower
-
-  dad
-
-  source'
-bip_39_word_no_space_1: weasel
-bip_39_word_no_space_10: weaselfetchbreezewarmvirusfoxflowerdadsourceexchange
-bip_39_word_no_space_11: weaselfetchbreezewarmvirusfoxflowerdadsourceexchangeglad
 bip_39_word_no_space_12: weaselfetchbreezewarmvirusfoxflowerdadsourceexchangegladagain
 bip_39_word_no_space_2: weaselfetch
 bip_39_word_no_space_3: weaselfetchbreeze
-bip_39_word_no_space_4: weaselfetchbreezewarm
-bip_39_word_no_space_5: weaselfetchbreezewarmvirus
-bip_39_word_no_space_6: weaselfetchbreezewarmvirusfox
-bip_39_word_no_space_7: weaselfetchbreezewarmvirusfoxflower
-bip_39_word_no_space_8: weaselfetchbreezewarmvirusfoxflowerdad
-bip_39_word_no_space_9: weaselfetchbreezewarmvirusfoxflowerdadsource
-bip_39_word_space_0:
-- weasel
-- fetch
-- breeze
-- warm
-- virus
-- fox
-- flower
-- dad
-- source
-- exchange
-- glad
-- again
-bip_39_word_space_1: weasel
-bip_39_word_space_10: weasel fetch breeze warm virus fox flower dad source exchange
-bip_39_word_space_11: weasel fetch breeze warm virus fox flower dad source exchange
-  glad
 bip_39_word_space_12: weasel fetch breeze warm virus fox flower dad source exchange
   glad again
 bip_39_word_space_2: weasel fetch
 bip_39_word_space_3: weasel fetch breeze
-bip_39_word_space_4: weasel fetch breeze warm
-bip_39_word_space_5: weasel fetch breeze warm virus
-bip_39_word_space_6: weasel fetch breeze warm virus fox
-bip_39_word_space_7: weasel fetch breeze warm virus fox flower
-bip_39_word_space_8: weasel fetch breeze warm virus fox flower dad
-bip_39_word_space_9: weasel fetch breeze warm virus fox flower dad source
-bip_39_word_underscore_1: weasel
-bip_39_word_underscore_10: weasel_fetch_breeze_warm_virus_fox_flower_dad_source_exchange
-bip_39_word_underscore_11: weasel_fetch_breeze_warm_virus_fox_flower_dad_source_exchange_glad
 bip_39_word_underscore_12: weasel_fetch_breeze_warm_virus_fox_flower_dad_source_exchange_glad_again
 bip_39_word_underscore_2: weasel_fetch
 bip_39_word_underscore_3: weasel_fetch_breeze
-bip_39_word_underscore_4: weasel_fetch_breeze_warm
-bip_39_word_underscore_5: weasel_fetch_breeze_warm_virus
-bip_39_word_underscore_6: weasel_fetch_breeze_warm_virus_fox
-bip_39_word_underscore_7: weasel_fetch_breeze_warm_virus_fox_flower
-bip_39_word_underscore_8: weasel_fetch_breeze_warm_virus_fox_flower_dad
-bip_39_word_underscore_9: weasel_fetch_breeze_warm_virus_fox_flower_dad_source
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

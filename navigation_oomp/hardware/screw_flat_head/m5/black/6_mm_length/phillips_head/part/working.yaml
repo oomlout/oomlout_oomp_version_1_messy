@@ -1,68 +1,9 @@
-bip_39_word_dash_1: strong
-bip_39_word_dash_10: strong-material-wasp-note-duty-forward-glare-okay-betray-trumpet
-bip_39_word_dash_11: strong-material-wasp-note-duty-forward-glare-okay-betray-trumpet-hold
 bip_39_word_dash_12: strong-material-wasp-note-duty-forward-glare-okay-betray-trumpet-hold-accuse
 bip_39_word_dash_2: strong-material
 bip_39_word_dash_3: strong-material-wasp
-bip_39_word_dash_4: strong-material-wasp-note
-bip_39_word_dash_5: strong-material-wasp-note-duty
-bip_39_word_dash_6: strong-material-wasp-note-duty-forward
-bip_39_word_dash_7: strong-material-wasp-note-duty-forward-glare
-bip_39_word_dash_8: strong-material-wasp-note-duty-forward-glare-okay
-bip_39_word_dash_9: strong-material-wasp-note-duty-forward-glare-okay-betray
-bip_39_word_new_br_1: strong
-bip_39_word_new_br_10: strong<br>material<br>wasp<br>note<br>duty<br>forward<br>glare<br>okay<br>betray<br>trumpet
-bip_39_word_new_br_11: strong<br>material<br>wasp<br>note<br>duty<br>forward<br>glare<br>okay<br>betray<br>trumpet<br>hold
 bip_39_word_new_br_12: strong<br>material<br>wasp<br>note<br>duty<br>forward<br>glare<br>okay<br>betray<br>trumpet<br>hold<br>accuse
 bip_39_word_new_br_2: strong<br>material
 bip_39_word_new_br_3: strong<br>material<br>wasp
-bip_39_word_new_br_4: strong<br>material<br>wasp<br>note
-bip_39_word_new_br_5: strong<br>material<br>wasp<br>note<br>duty
-bip_39_word_new_br_6: strong<br>material<br>wasp<br>note<br>duty<br>forward
-bip_39_word_new_br_7: strong<br>material<br>wasp<br>note<br>duty<br>forward<br>glare
-bip_39_word_new_br_8: strong<br>material<br>wasp<br>note<br>duty<br>forward<br>glare<br>okay
-bip_39_word_new_br_9: strong<br>material<br>wasp<br>note<br>duty<br>forward<br>glare<br>okay<br>betray
-bip_39_word_new_line_1: strong
-bip_39_word_new_line_10: 'strong
-
-  material
-
-  wasp
-
-  note
-
-  duty
-
-  forward
-
-  glare
-
-  okay
-
-  betray
-
-  trumpet'
-bip_39_word_new_line_11: 'strong
-
-  material
-
-  wasp
-
-  note
-
-  duty
-
-  forward
-
-  glare
-
-  okay
-
-  betray
-
-  trumpet
-
-  hold'
 bip_39_word_new_line_12: 'strong
 
   material
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'strong
   material
 
   wasp'
-bip_39_word_new_line_4: 'strong
-
-  material
-
-  wasp
-
-  note'
-bip_39_word_new_line_5: 'strong
-
-  material
-
-  wasp
-
-  note
-
-  duty'
-bip_39_word_new_line_6: 'strong
-
-  material
-
-  wasp
-
-  note
-
-  duty
-
-  forward'
-bip_39_word_new_line_7: 'strong
-
-  material
-
-  wasp
-
-  note
-
-  duty
-
-  forward
-
-  glare'
-bip_39_word_new_line_8: 'strong
-
-  material
-
-  wasp
-
-  note
-
-  duty
-
-  forward
-
-  glare
-
-  okay'
-bip_39_word_new_line_9: 'strong
-
-  material
-
-  wasp
-
-  note
-
-  duty
-
-  forward
-
-  glare
-
-  okay
-
-  betray'
-bip_39_word_no_space_1: strong
-bip_39_word_no_space_10: strongmaterialwaspnotedutyforwardglareokaybetraytrumpet
-bip_39_word_no_space_11: strongmaterialwaspnotedutyforwardglareokaybetraytrumpethold
 bip_39_word_no_space_12: strongmaterialwaspnotedutyforwardglareokaybetraytrumpetholdaccuse
 bip_39_word_no_space_2: strongmaterial
 bip_39_word_no_space_3: strongmaterialwasp
-bip_39_word_no_space_4: strongmaterialwaspnote
-bip_39_word_no_space_5: strongmaterialwaspnoteduty
-bip_39_word_no_space_6: strongmaterialwaspnotedutyforward
-bip_39_word_no_space_7: strongmaterialwaspnotedutyforwardglare
-bip_39_word_no_space_8: strongmaterialwaspnotedutyforwardglareokay
-bip_39_word_no_space_9: strongmaterialwaspnotedutyforwardglareokaybetray
-bip_39_word_space_0:
-- strong
-- material
-- wasp
-- note
-- duty
-- forward
-- glare
-- okay
-- betray
-- trumpet
-- hold
-- accuse
-bip_39_word_space_1: strong
-bip_39_word_space_10: strong material wasp note duty forward glare okay betray trumpet
-bip_39_word_space_11: strong material wasp note duty forward glare okay betray trumpet
-  hold
 bip_39_word_space_12: strong material wasp note duty forward glare okay betray trumpet
   hold accuse
 bip_39_word_space_2: strong material
 bip_39_word_space_3: strong material wasp
-bip_39_word_space_4: strong material wasp note
-bip_39_word_space_5: strong material wasp note duty
-bip_39_word_space_6: strong material wasp note duty forward
-bip_39_word_space_7: strong material wasp note duty forward glare
-bip_39_word_space_8: strong material wasp note duty forward glare okay
-bip_39_word_space_9: strong material wasp note duty forward glare okay betray
-bip_39_word_underscore_1: strong
-bip_39_word_underscore_10: strong_material_wasp_note_duty_forward_glare_okay_betray_trumpet
-bip_39_word_underscore_11: strong_material_wasp_note_duty_forward_glare_okay_betray_trumpet_hold
 bip_39_word_underscore_12: strong_material_wasp_note_duty_forward_glare_okay_betray_trumpet_hold_accuse
 bip_39_word_underscore_2: strong_material
 bip_39_word_underscore_3: strong_material_wasp
-bip_39_word_underscore_4: strong_material_wasp_note
-bip_39_word_underscore_5: strong_material_wasp_note_duty
-bip_39_word_underscore_6: strong_material_wasp_note_duty_forward
-bip_39_word_underscore_7: strong_material_wasp_note_duty_forward_glare
-bip_39_word_underscore_8: strong_material_wasp_note_duty_forward_glare_okay
-bip_39_word_underscore_9: strong_material_wasp_note_duty_forward_glare_okay_betray
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

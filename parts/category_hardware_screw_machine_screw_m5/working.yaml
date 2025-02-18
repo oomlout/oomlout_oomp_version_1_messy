@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pattern
-bip_39_word_dash_10: pattern-accident-human-rebel-movie-scrub-replace-drink-exit-use
-bip_39_word_dash_11: pattern-accident-human-rebel-movie-scrub-replace-drink-exit-use-survey
 bip_39_word_dash_12: pattern-accident-human-rebel-movie-scrub-replace-drink-exit-use-survey-aspect
 bip_39_word_dash_2: pattern-accident
 bip_39_word_dash_3: pattern-accident-human
-bip_39_word_dash_4: pattern-accident-human-rebel
-bip_39_word_dash_5: pattern-accident-human-rebel-movie
-bip_39_word_dash_6: pattern-accident-human-rebel-movie-scrub
-bip_39_word_dash_7: pattern-accident-human-rebel-movie-scrub-replace
-bip_39_word_dash_8: pattern-accident-human-rebel-movie-scrub-replace-drink
-bip_39_word_dash_9: pattern-accident-human-rebel-movie-scrub-replace-drink-exit
-bip_39_word_new_br_1: pattern
-bip_39_word_new_br_10: pattern<br>accident<br>human<br>rebel<br>movie<br>scrub<br>replace<br>drink<br>exit<br>use
-bip_39_word_new_br_11: pattern<br>accident<br>human<br>rebel<br>movie<br>scrub<br>replace<br>drink<br>exit<br>use<br>survey
 bip_39_word_new_br_12: pattern<br>accident<br>human<br>rebel<br>movie<br>scrub<br>replace<br>drink<br>exit<br>use<br>survey<br>aspect
 bip_39_word_new_br_2: pattern<br>accident
 bip_39_word_new_br_3: pattern<br>accident<br>human
-bip_39_word_new_br_4: pattern<br>accident<br>human<br>rebel
-bip_39_word_new_br_5: pattern<br>accident<br>human<br>rebel<br>movie
-bip_39_word_new_br_6: pattern<br>accident<br>human<br>rebel<br>movie<br>scrub
-bip_39_word_new_br_7: pattern<br>accident<br>human<br>rebel<br>movie<br>scrub<br>replace
-bip_39_word_new_br_8: pattern<br>accident<br>human<br>rebel<br>movie<br>scrub<br>replace<br>drink
-bip_39_word_new_br_9: pattern<br>accident<br>human<br>rebel<br>movie<br>scrub<br>replace<br>drink<br>exit
-bip_39_word_new_line_1: pattern
-bip_39_word_new_line_10: 'pattern
-
-  accident
-
-  human
-
-  rebel
-
-  movie
-
-  scrub
-
-  replace
-
-  drink
-
-  exit
-
-  use'
-bip_39_word_new_line_11: 'pattern
-
-  accident
-
-  human
-
-  rebel
-
-  movie
-
-  scrub
-
-  replace
-
-  drink
-
-  exit
-
-  use
-
-  survey'
 bip_39_word_new_line_12: 'pattern
 
   accident
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'pattern
   accident
 
   human'
-bip_39_word_new_line_4: 'pattern
-
-  accident
-
-  human
-
-  rebel'
-bip_39_word_new_line_5: 'pattern
-
-  accident
-
-  human
-
-  rebel
-
-  movie'
-bip_39_word_new_line_6: 'pattern
-
-  accident
-
-  human
-
-  rebel
-
-  movie
-
-  scrub'
-bip_39_word_new_line_7: 'pattern
-
-  accident
-
-  human
-
-  rebel
-
-  movie
-
-  scrub
-
-  replace'
-bip_39_word_new_line_8: 'pattern
-
-  accident
-
-  human
-
-  rebel
-
-  movie
-
-  scrub
-
-  replace
-
-  drink'
-bip_39_word_new_line_9: 'pattern
-
-  accident
-
-  human
-
-  rebel
-
-  movie
-
-  scrub
-
-  replace
-
-  drink
-
-  exit'
-bip_39_word_no_space_1: pattern
-bip_39_word_no_space_10: patternaccidenthumanrebelmoviescrubreplacedrinkexituse
-bip_39_word_no_space_11: patternaccidenthumanrebelmoviescrubreplacedrinkexitusesurvey
 bip_39_word_no_space_12: patternaccidenthumanrebelmoviescrubreplacedrinkexitusesurveyaspect
 bip_39_word_no_space_2: patternaccident
 bip_39_word_no_space_3: patternaccidenthuman
-bip_39_word_no_space_4: patternaccidenthumanrebel
-bip_39_word_no_space_5: patternaccidenthumanrebelmovie
-bip_39_word_no_space_6: patternaccidenthumanrebelmoviescrub
-bip_39_word_no_space_7: patternaccidenthumanrebelmoviescrubreplace
-bip_39_word_no_space_8: patternaccidenthumanrebelmoviescrubreplacedrink
-bip_39_word_no_space_9: patternaccidenthumanrebelmoviescrubreplacedrinkexit
-bip_39_word_space_0:
-- pattern
-- accident
-- human
-- rebel
-- movie
-- scrub
-- replace
-- drink
-- exit
-- use
-- survey
-- aspect
-bip_39_word_space_1: pattern
-bip_39_word_space_10: pattern accident human rebel movie scrub replace drink exit
-  use
-bip_39_word_space_11: pattern accident human rebel movie scrub replace drink exit
-  use survey
 bip_39_word_space_12: pattern accident human rebel movie scrub replace drink exit
   use survey aspect
 bip_39_word_space_2: pattern accident
 bip_39_word_space_3: pattern accident human
-bip_39_word_space_4: pattern accident human rebel
-bip_39_word_space_5: pattern accident human rebel movie
-bip_39_word_space_6: pattern accident human rebel movie scrub
-bip_39_word_space_7: pattern accident human rebel movie scrub replace
-bip_39_word_space_8: pattern accident human rebel movie scrub replace drink
-bip_39_word_space_9: pattern accident human rebel movie scrub replace drink exit
-bip_39_word_underscore_1: pattern
-bip_39_word_underscore_10: pattern_accident_human_rebel_movie_scrub_replace_drink_exit_use
-bip_39_word_underscore_11: pattern_accident_human_rebel_movie_scrub_replace_drink_exit_use_survey
 bip_39_word_underscore_12: pattern_accident_human_rebel_movie_scrub_replace_drink_exit_use_survey_aspect
 bip_39_word_underscore_2: pattern_accident
 bip_39_word_underscore_3: pattern_accident_human
-bip_39_word_underscore_4: pattern_accident_human_rebel
-bip_39_word_underscore_5: pattern_accident_human_rebel_movie
-bip_39_word_underscore_6: pattern_accident_human_rebel_movie_scrub
-bip_39_word_underscore_7: pattern_accident_human_rebel_movie_scrub_replace
-bip_39_word_underscore_8: pattern_accident_human_rebel_movie_scrub_replace_drink
-bip_39_word_underscore_9: pattern_accident_human_rebel_movie_scrub_replace_drink_exit
 classification: category
 classification_capital: Category
 classification_first_letter: c

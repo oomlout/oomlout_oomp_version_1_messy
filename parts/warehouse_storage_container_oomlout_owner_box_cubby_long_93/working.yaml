@@ -1,68 +1,9 @@
-bip_39_word_dash_1: episode
-bip_39_word_dash_10: episode-garden-mass-example-swamp-payment-airport-aunt-brass-virtual
-bip_39_word_dash_11: episode-garden-mass-example-swamp-payment-airport-aunt-brass-virtual-inflict
 bip_39_word_dash_12: episode-garden-mass-example-swamp-payment-airport-aunt-brass-virtual-inflict-asthma
 bip_39_word_dash_2: episode-garden
 bip_39_word_dash_3: episode-garden-mass
-bip_39_word_dash_4: episode-garden-mass-example
-bip_39_word_dash_5: episode-garden-mass-example-swamp
-bip_39_word_dash_6: episode-garden-mass-example-swamp-payment
-bip_39_word_dash_7: episode-garden-mass-example-swamp-payment-airport
-bip_39_word_dash_8: episode-garden-mass-example-swamp-payment-airport-aunt
-bip_39_word_dash_9: episode-garden-mass-example-swamp-payment-airport-aunt-brass
-bip_39_word_new_br_1: episode
-bip_39_word_new_br_10: episode<br>garden<br>mass<br>example<br>swamp<br>payment<br>airport<br>aunt<br>brass<br>virtual
-bip_39_word_new_br_11: episode<br>garden<br>mass<br>example<br>swamp<br>payment<br>airport<br>aunt<br>brass<br>virtual<br>inflict
 bip_39_word_new_br_12: episode<br>garden<br>mass<br>example<br>swamp<br>payment<br>airport<br>aunt<br>brass<br>virtual<br>inflict<br>asthma
 bip_39_word_new_br_2: episode<br>garden
 bip_39_word_new_br_3: episode<br>garden<br>mass
-bip_39_word_new_br_4: episode<br>garden<br>mass<br>example
-bip_39_word_new_br_5: episode<br>garden<br>mass<br>example<br>swamp
-bip_39_word_new_br_6: episode<br>garden<br>mass<br>example<br>swamp<br>payment
-bip_39_word_new_br_7: episode<br>garden<br>mass<br>example<br>swamp<br>payment<br>airport
-bip_39_word_new_br_8: episode<br>garden<br>mass<br>example<br>swamp<br>payment<br>airport<br>aunt
-bip_39_word_new_br_9: episode<br>garden<br>mass<br>example<br>swamp<br>payment<br>airport<br>aunt<br>brass
-bip_39_word_new_line_1: episode
-bip_39_word_new_line_10: 'episode
-
-  garden
-
-  mass
-
-  example
-
-  swamp
-
-  payment
-
-  airport
-
-  aunt
-
-  brass
-
-  virtual'
-bip_39_word_new_line_11: 'episode
-
-  garden
-
-  mass
-
-  example
-
-  swamp
-
-  payment
-
-  airport
-
-  aunt
-
-  brass
-
-  virtual
-
-  inflict'
 bip_39_word_new_line_12: 'episode
 
   garden
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'episode
   garden
 
   mass'
-bip_39_word_new_line_4: 'episode
-
-  garden
-
-  mass
-
-  example'
-bip_39_word_new_line_5: 'episode
-
-  garden
-
-  mass
-
-  example
-
-  swamp'
-bip_39_word_new_line_6: 'episode
-
-  garden
-
-  mass
-
-  example
-
-  swamp
-
-  payment'
-bip_39_word_new_line_7: 'episode
-
-  garden
-
-  mass
-
-  example
-
-  swamp
-
-  payment
-
-  airport'
-bip_39_word_new_line_8: 'episode
-
-  garden
-
-  mass
-
-  example
-
-  swamp
-
-  payment
-
-  airport
-
-  aunt'
-bip_39_word_new_line_9: 'episode
-
-  garden
-
-  mass
-
-  example
-
-  swamp
-
-  payment
-
-  airport
-
-  aunt
-
-  brass'
-bip_39_word_no_space_1: episode
-bip_39_word_no_space_10: episodegardenmassexampleswamppaymentairportauntbrassvirtual
-bip_39_word_no_space_11: episodegardenmassexampleswamppaymentairportauntbrassvirtualinflict
 bip_39_word_no_space_12: episodegardenmassexampleswamppaymentairportauntbrassvirtualinflictasthma
 bip_39_word_no_space_2: episodegarden
 bip_39_word_no_space_3: episodegardenmass
-bip_39_word_no_space_4: episodegardenmassexample
-bip_39_word_no_space_5: episodegardenmassexampleswamp
-bip_39_word_no_space_6: episodegardenmassexampleswamppayment
-bip_39_word_no_space_7: episodegardenmassexampleswamppaymentairport
-bip_39_word_no_space_8: episodegardenmassexampleswamppaymentairportaunt
-bip_39_word_no_space_9: episodegardenmassexampleswamppaymentairportauntbrass
-bip_39_word_space_0:
-- episode
-- garden
-- mass
-- example
-- swamp
-- payment
-- airport
-- aunt
-- brass
-- virtual
-- inflict
-- asthma
-bip_39_word_space_1: episode
-bip_39_word_space_10: episode garden mass example swamp payment airport aunt brass
-  virtual
-bip_39_word_space_11: episode garden mass example swamp payment airport aunt brass
-  virtual inflict
 bip_39_word_space_12: episode garden mass example swamp payment airport aunt brass
   virtual inflict asthma
 bip_39_word_space_2: episode garden
 bip_39_word_space_3: episode garden mass
-bip_39_word_space_4: episode garden mass example
-bip_39_word_space_5: episode garden mass example swamp
-bip_39_word_space_6: episode garden mass example swamp payment
-bip_39_word_space_7: episode garden mass example swamp payment airport
-bip_39_word_space_8: episode garden mass example swamp payment airport aunt
-bip_39_word_space_9: episode garden mass example swamp payment airport aunt brass
-bip_39_word_underscore_1: episode
-bip_39_word_underscore_10: episode_garden_mass_example_swamp_payment_airport_aunt_brass_virtual
-bip_39_word_underscore_11: episode_garden_mass_example_swamp_payment_airport_aunt_brass_virtual_inflict
 bip_39_word_underscore_12: episode_garden_mass_example_swamp_payment_airport_aunt_brass_virtual_inflict_asthma
 bip_39_word_underscore_2: episode_garden
 bip_39_word_underscore_3: episode_garden_mass
-bip_39_word_underscore_4: episode_garden_mass_example
-bip_39_word_underscore_5: episode_garden_mass_example_swamp
-bip_39_word_underscore_6: episode_garden_mass_example_swamp_payment
-bip_39_word_underscore_7: episode_garden_mass_example_swamp_payment_airport
-bip_39_word_underscore_8: episode_garden_mass_example_swamp_payment_airport_aunt
-bip_39_word_underscore_9: episode_garden_mass_example_swamp_payment_airport_aunt_brass
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

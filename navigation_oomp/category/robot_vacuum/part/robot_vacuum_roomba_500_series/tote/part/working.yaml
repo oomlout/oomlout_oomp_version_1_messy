@@ -1,68 +1,9 @@
-bip_39_word_dash_1: food
-bip_39_word_dash_10: food-pet-giant-wage-vintage-fossil-collect-brain-basket-text
-bip_39_word_dash_11: food-pet-giant-wage-vintage-fossil-collect-brain-basket-text-sick
 bip_39_word_dash_12: food-pet-giant-wage-vintage-fossil-collect-brain-basket-text-sick-asthma
 bip_39_word_dash_2: food-pet
 bip_39_word_dash_3: food-pet-giant
-bip_39_word_dash_4: food-pet-giant-wage
-bip_39_word_dash_5: food-pet-giant-wage-vintage
-bip_39_word_dash_6: food-pet-giant-wage-vintage-fossil
-bip_39_word_dash_7: food-pet-giant-wage-vintage-fossil-collect
-bip_39_word_dash_8: food-pet-giant-wage-vintage-fossil-collect-brain
-bip_39_word_dash_9: food-pet-giant-wage-vintage-fossil-collect-brain-basket
-bip_39_word_new_br_1: food
-bip_39_word_new_br_10: food<br>pet<br>giant<br>wage<br>vintage<br>fossil<br>collect<br>brain<br>basket<br>text
-bip_39_word_new_br_11: food<br>pet<br>giant<br>wage<br>vintage<br>fossil<br>collect<br>brain<br>basket<br>text<br>sick
 bip_39_word_new_br_12: food<br>pet<br>giant<br>wage<br>vintage<br>fossil<br>collect<br>brain<br>basket<br>text<br>sick<br>asthma
 bip_39_word_new_br_2: food<br>pet
 bip_39_word_new_br_3: food<br>pet<br>giant
-bip_39_word_new_br_4: food<br>pet<br>giant<br>wage
-bip_39_word_new_br_5: food<br>pet<br>giant<br>wage<br>vintage
-bip_39_word_new_br_6: food<br>pet<br>giant<br>wage<br>vintage<br>fossil
-bip_39_word_new_br_7: food<br>pet<br>giant<br>wage<br>vintage<br>fossil<br>collect
-bip_39_word_new_br_8: food<br>pet<br>giant<br>wage<br>vintage<br>fossil<br>collect<br>brain
-bip_39_word_new_br_9: food<br>pet<br>giant<br>wage<br>vintage<br>fossil<br>collect<br>brain<br>basket
-bip_39_word_new_line_1: food
-bip_39_word_new_line_10: 'food
-
-  pet
-
-  giant
-
-  wage
-
-  vintage
-
-  fossil
-
-  collect
-
-  brain
-
-  basket
-
-  text'
-bip_39_word_new_line_11: 'food
-
-  pet
-
-  giant
-
-  wage
-
-  vintage
-
-  fossil
-
-  collect
-
-  brain
-
-  basket
-
-  text
-
-  sick'
 bip_39_word_new_line_12: 'food
 
   pet
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'food
   pet
 
   giant'
-bip_39_word_new_line_4: 'food
-
-  pet
-
-  giant
-
-  wage'
-bip_39_word_new_line_5: 'food
-
-  pet
-
-  giant
-
-  wage
-
-  vintage'
-bip_39_word_new_line_6: 'food
-
-  pet
-
-  giant
-
-  wage
-
-  vintage
-
-  fossil'
-bip_39_word_new_line_7: 'food
-
-  pet
-
-  giant
-
-  wage
-
-  vintage
-
-  fossil
-
-  collect'
-bip_39_word_new_line_8: 'food
-
-  pet
-
-  giant
-
-  wage
-
-  vintage
-
-  fossil
-
-  collect
-
-  brain'
-bip_39_word_new_line_9: 'food
-
-  pet
-
-  giant
-
-  wage
-
-  vintage
-
-  fossil
-
-  collect
-
-  brain
-
-  basket'
-bip_39_word_no_space_1: food
-bip_39_word_no_space_10: foodpetgiantwagevintagefossilcollectbrainbaskettext
-bip_39_word_no_space_11: foodpetgiantwagevintagefossilcollectbrainbaskettextsick
 bip_39_word_no_space_12: foodpetgiantwagevintagefossilcollectbrainbaskettextsickasthma
 bip_39_word_no_space_2: foodpet
 bip_39_word_no_space_3: foodpetgiant
-bip_39_word_no_space_4: foodpetgiantwage
-bip_39_word_no_space_5: foodpetgiantwagevintage
-bip_39_word_no_space_6: foodpetgiantwagevintagefossil
-bip_39_word_no_space_7: foodpetgiantwagevintagefossilcollect
-bip_39_word_no_space_8: foodpetgiantwagevintagefossilcollectbrain
-bip_39_word_no_space_9: foodpetgiantwagevintagefossilcollectbrainbasket
-bip_39_word_space_0:
-- food
-- pet
-- giant
-- wage
-- vintage
-- fossil
-- collect
-- brain
-- basket
-- text
-- sick
-- asthma
-bip_39_word_space_1: food
-bip_39_word_space_10: food pet giant wage vintage fossil collect brain basket text
-bip_39_word_space_11: food pet giant wage vintage fossil collect brain basket text
-  sick
 bip_39_word_space_12: food pet giant wage vintage fossil collect brain basket text
   sick asthma
 bip_39_word_space_2: food pet
 bip_39_word_space_3: food pet giant
-bip_39_word_space_4: food pet giant wage
-bip_39_word_space_5: food pet giant wage vintage
-bip_39_word_space_6: food pet giant wage vintage fossil
-bip_39_word_space_7: food pet giant wage vintage fossil collect
-bip_39_word_space_8: food pet giant wage vintage fossil collect brain
-bip_39_word_space_9: food pet giant wage vintage fossil collect brain basket
-bip_39_word_underscore_1: food
-bip_39_word_underscore_10: food_pet_giant_wage_vintage_fossil_collect_brain_basket_text
-bip_39_word_underscore_11: food_pet_giant_wage_vintage_fossil_collect_brain_basket_text_sick
 bip_39_word_underscore_12: food_pet_giant_wage_vintage_fossil_collect_brain_basket_text_sick_asthma
 bip_39_word_underscore_2: food_pet
 bip_39_word_underscore_3: food_pet_giant
-bip_39_word_underscore_4: food_pet_giant_wage
-bip_39_word_underscore_5: food_pet_giant_wage_vintage
-bip_39_word_underscore_6: food_pet_giant_wage_vintage_fossil
-bip_39_word_underscore_7: food_pet_giant_wage_vintage_fossil_collect
-bip_39_word_underscore_8: food_pet_giant_wage_vintage_fossil_collect_brain
-bip_39_word_underscore_9: food_pet_giant_wage_vintage_fossil_collect_brain_basket
 classification: category
 classification_capital: Category
 classification_first_letter: c

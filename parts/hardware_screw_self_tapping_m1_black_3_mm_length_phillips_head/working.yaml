@@ -1,68 +1,9 @@
-bip_39_word_dash_1: type
-bip_39_word_dash_10: type-addict-broken-ahead-awkward-fiscal-fossil-alarm-stumble-village
-bip_39_word_dash_11: type-addict-broken-ahead-awkward-fiscal-fossil-alarm-stumble-village-grief
 bip_39_word_dash_12: type-addict-broken-ahead-awkward-fiscal-fossil-alarm-stumble-village-grief-aim
 bip_39_word_dash_2: type-addict
 bip_39_word_dash_3: type-addict-broken
-bip_39_word_dash_4: type-addict-broken-ahead
-bip_39_word_dash_5: type-addict-broken-ahead-awkward
-bip_39_word_dash_6: type-addict-broken-ahead-awkward-fiscal
-bip_39_word_dash_7: type-addict-broken-ahead-awkward-fiscal-fossil
-bip_39_word_dash_8: type-addict-broken-ahead-awkward-fiscal-fossil-alarm
-bip_39_word_dash_9: type-addict-broken-ahead-awkward-fiscal-fossil-alarm-stumble
-bip_39_word_new_br_1: type
-bip_39_word_new_br_10: type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village
-bip_39_word_new_br_11: type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village<br>grief
 bip_39_word_new_br_12: type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble<br>village<br>grief<br>aim
 bip_39_word_new_br_2: type<br>addict
 bip_39_word_new_br_3: type<br>addict<br>broken
-bip_39_word_new_br_4: type<br>addict<br>broken<br>ahead
-bip_39_word_new_br_5: type<br>addict<br>broken<br>ahead<br>awkward
-bip_39_word_new_br_6: type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal
-bip_39_word_new_br_7: type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil
-bip_39_word_new_br_8: type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm
-bip_39_word_new_br_9: type<br>addict<br>broken<br>ahead<br>awkward<br>fiscal<br>fossil<br>alarm<br>stumble
-bip_39_word_new_line_1: type
-bip_39_word_new_line_10: 'type
-
-  addict
-
-  broken
-
-  ahead
-
-  awkward
-
-  fiscal
-
-  fossil
-
-  alarm
-
-  stumble
-
-  village'
-bip_39_word_new_line_11: 'type
-
-  addict
-
-  broken
-
-  ahead
-
-  awkward
-
-  fiscal
-
-  fossil
-
-  alarm
-
-  stumble
-
-  village
-
-  grief'
 bip_39_word_new_line_12: 'type
 
   addict
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'type
   addict
 
   broken'
-bip_39_word_new_line_4: 'type
-
-  addict
-
-  broken
-
-  ahead'
-bip_39_word_new_line_5: 'type
-
-  addict
-
-  broken
-
-  ahead
-
-  awkward'
-bip_39_word_new_line_6: 'type
-
-  addict
-
-  broken
-
-  ahead
-
-  awkward
-
-  fiscal'
-bip_39_word_new_line_7: 'type
-
-  addict
-
-  broken
-
-  ahead
-
-  awkward
-
-  fiscal
-
-  fossil'
-bip_39_word_new_line_8: 'type
-
-  addict
-
-  broken
-
-  ahead
-
-  awkward
-
-  fiscal
-
-  fossil
-
-  alarm'
-bip_39_word_new_line_9: 'type
-
-  addict
-
-  broken
-
-  ahead
-
-  awkward
-
-  fiscal
-
-  fossil
-
-  alarm
-
-  stumble'
-bip_39_word_no_space_1: type
-bip_39_word_no_space_10: typeaddictbrokenaheadawkwardfiscalfossilalarmstumblevillage
-bip_39_word_no_space_11: typeaddictbrokenaheadawkwardfiscalfossilalarmstumblevillagegrief
 bip_39_word_no_space_12: typeaddictbrokenaheadawkwardfiscalfossilalarmstumblevillagegriefaim
 bip_39_word_no_space_2: typeaddict
 bip_39_word_no_space_3: typeaddictbroken
-bip_39_word_no_space_4: typeaddictbrokenahead
-bip_39_word_no_space_5: typeaddictbrokenaheadawkward
-bip_39_word_no_space_6: typeaddictbrokenaheadawkwardfiscal
-bip_39_word_no_space_7: typeaddictbrokenaheadawkwardfiscalfossil
-bip_39_word_no_space_8: typeaddictbrokenaheadawkwardfiscalfossilalarm
-bip_39_word_no_space_9: typeaddictbrokenaheadawkwardfiscalfossilalarmstumble
-bip_39_word_space_0:
-- type
-- addict
-- broken
-- ahead
-- awkward
-- fiscal
-- fossil
-- alarm
-- stumble
-- village
-- grief
-- aim
-bip_39_word_space_1: type
-bip_39_word_space_10: type addict broken ahead awkward fiscal fossil alarm stumble
-  village
-bip_39_word_space_11: type addict broken ahead awkward fiscal fossil alarm stumble
-  village grief
 bip_39_word_space_12: type addict broken ahead awkward fiscal fossil alarm stumble
   village grief aim
 bip_39_word_space_2: type addict
 bip_39_word_space_3: type addict broken
-bip_39_word_space_4: type addict broken ahead
-bip_39_word_space_5: type addict broken ahead awkward
-bip_39_word_space_6: type addict broken ahead awkward fiscal
-bip_39_word_space_7: type addict broken ahead awkward fiscal fossil
-bip_39_word_space_8: type addict broken ahead awkward fiscal fossil alarm
-bip_39_word_space_9: type addict broken ahead awkward fiscal fossil alarm stumble
-bip_39_word_underscore_1: type
-bip_39_word_underscore_10: type_addict_broken_ahead_awkward_fiscal_fossil_alarm_stumble_village
-bip_39_word_underscore_11: type_addict_broken_ahead_awkward_fiscal_fossil_alarm_stumble_village_grief
 bip_39_word_underscore_12: type_addict_broken_ahead_awkward_fiscal_fossil_alarm_stumble_village_grief_aim
 bip_39_word_underscore_2: type_addict
 bip_39_word_underscore_3: type_addict_broken
-bip_39_word_underscore_4: type_addict_broken_ahead
-bip_39_word_underscore_5: type_addict_broken_ahead_awkward
-bip_39_word_underscore_6: type_addict_broken_ahead_awkward_fiscal
-bip_39_word_underscore_7: type_addict_broken_ahead_awkward_fiscal_fossil
-bip_39_word_underscore_8: type_addict_broken_ahead_awkward_fiscal_fossil_alarm
-bip_39_word_underscore_9: type_addict_broken_ahead_awkward_fiscal_fossil_alarm_stumble
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

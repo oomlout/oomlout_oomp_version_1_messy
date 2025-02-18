@@ -1,68 +1,9 @@
-bip_39_word_dash_1: piano
-bip_39_word_dash_10: piano-champion-mammal-swim-decade-scheme-silent-walk-poet-oblige
-bip_39_word_dash_11: piano-champion-mammal-swim-decade-scheme-silent-walk-poet-oblige-neutral
 bip_39_word_dash_12: piano-champion-mammal-swim-decade-scheme-silent-walk-poet-oblige-neutral-artist
 bip_39_word_dash_2: piano-champion
 bip_39_word_dash_3: piano-champion-mammal
-bip_39_word_dash_4: piano-champion-mammal-swim
-bip_39_word_dash_5: piano-champion-mammal-swim-decade
-bip_39_word_dash_6: piano-champion-mammal-swim-decade-scheme
-bip_39_word_dash_7: piano-champion-mammal-swim-decade-scheme-silent
-bip_39_word_dash_8: piano-champion-mammal-swim-decade-scheme-silent-walk
-bip_39_word_dash_9: piano-champion-mammal-swim-decade-scheme-silent-walk-poet
-bip_39_word_new_br_1: piano
-bip_39_word_new_br_10: piano<br>champion<br>mammal<br>swim<br>decade<br>scheme<br>silent<br>walk<br>poet<br>oblige
-bip_39_word_new_br_11: piano<br>champion<br>mammal<br>swim<br>decade<br>scheme<br>silent<br>walk<br>poet<br>oblige<br>neutral
 bip_39_word_new_br_12: piano<br>champion<br>mammal<br>swim<br>decade<br>scheme<br>silent<br>walk<br>poet<br>oblige<br>neutral<br>artist
 bip_39_word_new_br_2: piano<br>champion
 bip_39_word_new_br_3: piano<br>champion<br>mammal
-bip_39_word_new_br_4: piano<br>champion<br>mammal<br>swim
-bip_39_word_new_br_5: piano<br>champion<br>mammal<br>swim<br>decade
-bip_39_word_new_br_6: piano<br>champion<br>mammal<br>swim<br>decade<br>scheme
-bip_39_word_new_br_7: piano<br>champion<br>mammal<br>swim<br>decade<br>scheme<br>silent
-bip_39_word_new_br_8: piano<br>champion<br>mammal<br>swim<br>decade<br>scheme<br>silent<br>walk
-bip_39_word_new_br_9: piano<br>champion<br>mammal<br>swim<br>decade<br>scheme<br>silent<br>walk<br>poet
-bip_39_word_new_line_1: piano
-bip_39_word_new_line_10: 'piano
-
-  champion
-
-  mammal
-
-  swim
-
-  decade
-
-  scheme
-
-  silent
-
-  walk
-
-  poet
-
-  oblige'
-bip_39_word_new_line_11: 'piano
-
-  champion
-
-  mammal
-
-  swim
-
-  decade
-
-  scheme
-
-  silent
-
-  walk
-
-  poet
-
-  oblige
-
-  neutral'
 bip_39_word_new_line_12: 'piano
 
   champion
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'piano
   champion
 
   mammal'
-bip_39_word_new_line_4: 'piano
-
-  champion
-
-  mammal
-
-  swim'
-bip_39_word_new_line_5: 'piano
-
-  champion
-
-  mammal
-
-  swim
-
-  decade'
-bip_39_word_new_line_6: 'piano
-
-  champion
-
-  mammal
-
-  swim
-
-  decade
-
-  scheme'
-bip_39_word_new_line_7: 'piano
-
-  champion
-
-  mammal
-
-  swim
-
-  decade
-
-  scheme
-
-  silent'
-bip_39_word_new_line_8: 'piano
-
-  champion
-
-  mammal
-
-  swim
-
-  decade
-
-  scheme
-
-  silent
-
-  walk'
-bip_39_word_new_line_9: 'piano
-
-  champion
-
-  mammal
-
-  swim
-
-  decade
-
-  scheme
-
-  silent
-
-  walk
-
-  poet'
-bip_39_word_no_space_1: piano
-bip_39_word_no_space_10: pianochampionmammalswimdecadeschemesilentwalkpoetoblige
-bip_39_word_no_space_11: pianochampionmammalswimdecadeschemesilentwalkpoetobligeneutral
 bip_39_word_no_space_12: pianochampionmammalswimdecadeschemesilentwalkpoetobligeneutralartist
 bip_39_word_no_space_2: pianochampion
 bip_39_word_no_space_3: pianochampionmammal
-bip_39_word_no_space_4: pianochampionmammalswim
-bip_39_word_no_space_5: pianochampionmammalswimdecade
-bip_39_word_no_space_6: pianochampionmammalswimdecadescheme
-bip_39_word_no_space_7: pianochampionmammalswimdecadeschemesilent
-bip_39_word_no_space_8: pianochampionmammalswimdecadeschemesilentwalk
-bip_39_word_no_space_9: pianochampionmammalswimdecadeschemesilentwalkpoet
-bip_39_word_space_0:
-- piano
-- champion
-- mammal
-- swim
-- decade
-- scheme
-- silent
-- walk
-- poet
-- oblige
-- neutral
-- artist
-bip_39_word_space_1: piano
-bip_39_word_space_10: piano champion mammal swim decade scheme silent walk poet oblige
-bip_39_word_space_11: piano champion mammal swim decade scheme silent walk poet oblige
-  neutral
 bip_39_word_space_12: piano champion mammal swim decade scheme silent walk poet oblige
   neutral artist
 bip_39_word_space_2: piano champion
 bip_39_word_space_3: piano champion mammal
-bip_39_word_space_4: piano champion mammal swim
-bip_39_word_space_5: piano champion mammal swim decade
-bip_39_word_space_6: piano champion mammal swim decade scheme
-bip_39_word_space_7: piano champion mammal swim decade scheme silent
-bip_39_word_space_8: piano champion mammal swim decade scheme silent walk
-bip_39_word_space_9: piano champion mammal swim decade scheme silent walk poet
-bip_39_word_underscore_1: piano
-bip_39_word_underscore_10: piano_champion_mammal_swim_decade_scheme_silent_walk_poet_oblige
-bip_39_word_underscore_11: piano_champion_mammal_swim_decade_scheme_silent_walk_poet_oblige_neutral
 bip_39_word_underscore_12: piano_champion_mammal_swim_decade_scheme_silent_walk_poet_oblige_neutral_artist
 bip_39_word_underscore_2: piano_champion
 bip_39_word_underscore_3: piano_champion_mammal
-bip_39_word_underscore_4: piano_champion_mammal_swim
-bip_39_word_underscore_5: piano_champion_mammal_swim_decade
-bip_39_word_underscore_6: piano_champion_mammal_swim_decade_scheme
-bip_39_word_underscore_7: piano_champion_mammal_swim_decade_scheme_silent
-bip_39_word_underscore_8: piano_champion_mammal_swim_decade_scheme_silent_walk
-bip_39_word_underscore_9: piano_champion_mammal_swim_decade_scheme_silent_walk_poet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: noise
-bip_39_word_dash_10: noise-wrong-list-merge-neutral-foil-power-believe-frequent-social
-bip_39_word_dash_11: noise-wrong-list-merge-neutral-foil-power-believe-frequent-social-pitch
 bip_39_word_dash_12: noise-wrong-list-merge-neutral-foil-power-believe-frequent-social-pitch-across
 bip_39_word_dash_2: noise-wrong
 bip_39_word_dash_3: noise-wrong-list
-bip_39_word_dash_4: noise-wrong-list-merge
-bip_39_word_dash_5: noise-wrong-list-merge-neutral
-bip_39_word_dash_6: noise-wrong-list-merge-neutral-foil
-bip_39_word_dash_7: noise-wrong-list-merge-neutral-foil-power
-bip_39_word_dash_8: noise-wrong-list-merge-neutral-foil-power-believe
-bip_39_word_dash_9: noise-wrong-list-merge-neutral-foil-power-believe-frequent
-bip_39_word_new_br_1: noise
-bip_39_word_new_br_10: noise<br>wrong<br>list<br>merge<br>neutral<br>foil<br>power<br>believe<br>frequent<br>social
-bip_39_word_new_br_11: noise<br>wrong<br>list<br>merge<br>neutral<br>foil<br>power<br>believe<br>frequent<br>social<br>pitch
 bip_39_word_new_br_12: noise<br>wrong<br>list<br>merge<br>neutral<br>foil<br>power<br>believe<br>frequent<br>social<br>pitch<br>across
 bip_39_word_new_br_2: noise<br>wrong
 bip_39_word_new_br_3: noise<br>wrong<br>list
-bip_39_word_new_br_4: noise<br>wrong<br>list<br>merge
-bip_39_word_new_br_5: noise<br>wrong<br>list<br>merge<br>neutral
-bip_39_word_new_br_6: noise<br>wrong<br>list<br>merge<br>neutral<br>foil
-bip_39_word_new_br_7: noise<br>wrong<br>list<br>merge<br>neutral<br>foil<br>power
-bip_39_word_new_br_8: noise<br>wrong<br>list<br>merge<br>neutral<br>foil<br>power<br>believe
-bip_39_word_new_br_9: noise<br>wrong<br>list<br>merge<br>neutral<br>foil<br>power<br>believe<br>frequent
-bip_39_word_new_line_1: noise
-bip_39_word_new_line_10: 'noise
-
-  wrong
-
-  list
-
-  merge
-
-  neutral
-
-  foil
-
-  power
-
-  believe
-
-  frequent
-
-  social'
-bip_39_word_new_line_11: 'noise
-
-  wrong
-
-  list
-
-  merge
-
-  neutral
-
-  foil
-
-  power
-
-  believe
-
-  frequent
-
-  social
-
-  pitch'
 bip_39_word_new_line_12: 'noise
 
   wrong
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'noise
   wrong
 
   list'
-bip_39_word_new_line_4: 'noise
-
-  wrong
-
-  list
-
-  merge'
-bip_39_word_new_line_5: 'noise
-
-  wrong
-
-  list
-
-  merge
-
-  neutral'
-bip_39_word_new_line_6: 'noise
-
-  wrong
-
-  list
-
-  merge
-
-  neutral
-
-  foil'
-bip_39_word_new_line_7: 'noise
-
-  wrong
-
-  list
-
-  merge
-
-  neutral
-
-  foil
-
-  power'
-bip_39_word_new_line_8: 'noise
-
-  wrong
-
-  list
-
-  merge
-
-  neutral
-
-  foil
-
-  power
-
-  believe'
-bip_39_word_new_line_9: 'noise
-
-  wrong
-
-  list
-
-  merge
-
-  neutral
-
-  foil
-
-  power
-
-  believe
-
-  frequent'
-bip_39_word_no_space_1: noise
-bip_39_word_no_space_10: noisewronglistmergeneutralfoilpowerbelievefrequentsocial
-bip_39_word_no_space_11: noisewronglistmergeneutralfoilpowerbelievefrequentsocialpitch
 bip_39_word_no_space_12: noisewronglistmergeneutralfoilpowerbelievefrequentsocialpitchacross
 bip_39_word_no_space_2: noisewrong
 bip_39_word_no_space_3: noisewronglist
-bip_39_word_no_space_4: noisewronglistmerge
-bip_39_word_no_space_5: noisewronglistmergeneutral
-bip_39_word_no_space_6: noisewronglistmergeneutralfoil
-bip_39_word_no_space_7: noisewronglistmergeneutralfoilpower
-bip_39_word_no_space_8: noisewronglistmergeneutralfoilpowerbelieve
-bip_39_word_no_space_9: noisewronglistmergeneutralfoilpowerbelievefrequent
-bip_39_word_space_0:
-- noise
-- wrong
-- list
-- merge
-- neutral
-- foil
-- power
-- believe
-- frequent
-- social
-- pitch
-- across
-bip_39_word_space_1: noise
-bip_39_word_space_10: noise wrong list merge neutral foil power believe frequent social
-bip_39_word_space_11: noise wrong list merge neutral foil power believe frequent social
-  pitch
 bip_39_word_space_12: noise wrong list merge neutral foil power believe frequent social
   pitch across
 bip_39_word_space_2: noise wrong
 bip_39_word_space_3: noise wrong list
-bip_39_word_space_4: noise wrong list merge
-bip_39_word_space_5: noise wrong list merge neutral
-bip_39_word_space_6: noise wrong list merge neutral foil
-bip_39_word_space_7: noise wrong list merge neutral foil power
-bip_39_word_space_8: noise wrong list merge neutral foil power believe
-bip_39_word_space_9: noise wrong list merge neutral foil power believe frequent
-bip_39_word_underscore_1: noise
-bip_39_word_underscore_10: noise_wrong_list_merge_neutral_foil_power_believe_frequent_social
-bip_39_word_underscore_11: noise_wrong_list_merge_neutral_foil_power_believe_frequent_social_pitch
 bip_39_word_underscore_12: noise_wrong_list_merge_neutral_foil_power_believe_frequent_social_pitch_across
 bip_39_word_underscore_2: noise_wrong
 bip_39_word_underscore_3: noise_wrong_list
-bip_39_word_underscore_4: noise_wrong_list_merge
-bip_39_word_underscore_5: noise_wrong_list_merge_neutral
-bip_39_word_underscore_6: noise_wrong_list_merge_neutral_foil
-bip_39_word_underscore_7: noise_wrong_list_merge_neutral_foil_power
-bip_39_word_underscore_8: noise_wrong_list_merge_neutral_foil_power_believe
-bip_39_word_underscore_9: noise_wrong_list_merge_neutral_foil_power_believe_frequent
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

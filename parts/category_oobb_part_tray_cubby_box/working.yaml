@@ -1,68 +1,9 @@
-bip_39_word_dash_1: boss
-bip_39_word_dash_10: boss-monitor-culture-economy-long-pumpkin-jeans-security-planet-blossom
-bip_39_word_dash_11: boss-monitor-culture-economy-long-pumpkin-jeans-security-planet-blossom-ketchup
 bip_39_word_dash_12: boss-monitor-culture-economy-long-pumpkin-jeans-security-planet-blossom-ketchup-attack
 bip_39_word_dash_2: boss-monitor
 bip_39_word_dash_3: boss-monitor-culture
-bip_39_word_dash_4: boss-monitor-culture-economy
-bip_39_word_dash_5: boss-monitor-culture-economy-long
-bip_39_word_dash_6: boss-monitor-culture-economy-long-pumpkin
-bip_39_word_dash_7: boss-monitor-culture-economy-long-pumpkin-jeans
-bip_39_word_dash_8: boss-monitor-culture-economy-long-pumpkin-jeans-security
-bip_39_word_dash_9: boss-monitor-culture-economy-long-pumpkin-jeans-security-planet
-bip_39_word_new_br_1: boss
-bip_39_word_new_br_10: boss<br>monitor<br>culture<br>economy<br>long<br>pumpkin<br>jeans<br>security<br>planet<br>blossom
-bip_39_word_new_br_11: boss<br>monitor<br>culture<br>economy<br>long<br>pumpkin<br>jeans<br>security<br>planet<br>blossom<br>ketchup
 bip_39_word_new_br_12: boss<br>monitor<br>culture<br>economy<br>long<br>pumpkin<br>jeans<br>security<br>planet<br>blossom<br>ketchup<br>attack
 bip_39_word_new_br_2: boss<br>monitor
 bip_39_word_new_br_3: boss<br>monitor<br>culture
-bip_39_word_new_br_4: boss<br>monitor<br>culture<br>economy
-bip_39_word_new_br_5: boss<br>monitor<br>culture<br>economy<br>long
-bip_39_word_new_br_6: boss<br>monitor<br>culture<br>economy<br>long<br>pumpkin
-bip_39_word_new_br_7: boss<br>monitor<br>culture<br>economy<br>long<br>pumpkin<br>jeans
-bip_39_word_new_br_8: boss<br>monitor<br>culture<br>economy<br>long<br>pumpkin<br>jeans<br>security
-bip_39_word_new_br_9: boss<br>monitor<br>culture<br>economy<br>long<br>pumpkin<br>jeans<br>security<br>planet
-bip_39_word_new_line_1: boss
-bip_39_word_new_line_10: 'boss
-
-  monitor
-
-  culture
-
-  economy
-
-  long
-
-  pumpkin
-
-  jeans
-
-  security
-
-  planet
-
-  blossom'
-bip_39_word_new_line_11: 'boss
-
-  monitor
-
-  culture
-
-  economy
-
-  long
-
-  pumpkin
-
-  jeans
-
-  security
-
-  planet
-
-  blossom
-
-  ketchup'
 bip_39_word_new_line_12: 'boss
 
   monitor
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'boss
   monitor
 
   culture'
-bip_39_word_new_line_4: 'boss
-
-  monitor
-
-  culture
-
-  economy'
-bip_39_word_new_line_5: 'boss
-
-  monitor
-
-  culture
-
-  economy
-
-  long'
-bip_39_word_new_line_6: 'boss
-
-  monitor
-
-  culture
-
-  economy
-
-  long
-
-  pumpkin'
-bip_39_word_new_line_7: 'boss
-
-  monitor
-
-  culture
-
-  economy
-
-  long
-
-  pumpkin
-
-  jeans'
-bip_39_word_new_line_8: 'boss
-
-  monitor
-
-  culture
-
-  economy
-
-  long
-
-  pumpkin
-
-  jeans
-
-  security'
-bip_39_word_new_line_9: 'boss
-
-  monitor
-
-  culture
-
-  economy
-
-  long
-
-  pumpkin
-
-  jeans
-
-  security
-
-  planet'
-bip_39_word_no_space_1: boss
-bip_39_word_no_space_10: bossmonitorcultureeconomylongpumpkinjeanssecurityplanetblossom
-bip_39_word_no_space_11: bossmonitorcultureeconomylongpumpkinjeanssecurityplanetblossomketchup
 bip_39_word_no_space_12: bossmonitorcultureeconomylongpumpkinjeanssecurityplanetblossomketchupattack
 bip_39_word_no_space_2: bossmonitor
 bip_39_word_no_space_3: bossmonitorculture
-bip_39_word_no_space_4: bossmonitorcultureeconomy
-bip_39_word_no_space_5: bossmonitorcultureeconomylong
-bip_39_word_no_space_6: bossmonitorcultureeconomylongpumpkin
-bip_39_word_no_space_7: bossmonitorcultureeconomylongpumpkinjeans
-bip_39_word_no_space_8: bossmonitorcultureeconomylongpumpkinjeanssecurity
-bip_39_word_no_space_9: bossmonitorcultureeconomylongpumpkinjeanssecurityplanet
-bip_39_word_space_0:
-- boss
-- monitor
-- culture
-- economy
-- long
-- pumpkin
-- jeans
-- security
-- planet
-- blossom
-- ketchup
-- attack
-bip_39_word_space_1: boss
-bip_39_word_space_10: boss monitor culture economy long pumpkin jeans security planet
-  blossom
-bip_39_word_space_11: boss monitor culture economy long pumpkin jeans security planet
-  blossom ketchup
 bip_39_word_space_12: boss monitor culture economy long pumpkin jeans security planet
   blossom ketchup attack
 bip_39_word_space_2: boss monitor
 bip_39_word_space_3: boss monitor culture
-bip_39_word_space_4: boss monitor culture economy
-bip_39_word_space_5: boss monitor culture economy long
-bip_39_word_space_6: boss monitor culture economy long pumpkin
-bip_39_word_space_7: boss monitor culture economy long pumpkin jeans
-bip_39_word_space_8: boss monitor culture economy long pumpkin jeans security
-bip_39_word_space_9: boss monitor culture economy long pumpkin jeans security planet
-bip_39_word_underscore_1: boss
-bip_39_word_underscore_10: boss_monitor_culture_economy_long_pumpkin_jeans_security_planet_blossom
-bip_39_word_underscore_11: boss_monitor_culture_economy_long_pumpkin_jeans_security_planet_blossom_ketchup
 bip_39_word_underscore_12: boss_monitor_culture_economy_long_pumpkin_jeans_security_planet_blossom_ketchup_attack
 bip_39_word_underscore_2: boss_monitor
 bip_39_word_underscore_3: boss_monitor_culture
-bip_39_word_underscore_4: boss_monitor_culture_economy
-bip_39_word_underscore_5: boss_monitor_culture_economy_long
-bip_39_word_underscore_6: boss_monitor_culture_economy_long_pumpkin
-bip_39_word_underscore_7: boss_monitor_culture_economy_long_pumpkin_jeans
-bip_39_word_underscore_8: boss_monitor_culture_economy_long_pumpkin_jeans_security
-bip_39_word_underscore_9: boss_monitor_culture_economy_long_pumpkin_jeans_security_planet
 classification: category
 classification_capital: Category
 classification_first_letter: c

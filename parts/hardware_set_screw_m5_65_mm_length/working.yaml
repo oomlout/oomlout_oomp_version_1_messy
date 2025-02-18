@@ -1,68 +1,9 @@
-bip_39_word_dash_1: group
-bip_39_word_dash_10: group-cruise-broom-gown-essence-immense-seminar-example-choose-stock
-bip_39_word_dash_11: group-cruise-broom-gown-essence-immense-seminar-example-choose-stock-wage
 bip_39_word_dash_12: group-cruise-broom-gown-essence-immense-seminar-example-choose-stock-wage-almost
 bip_39_word_dash_2: group-cruise
 bip_39_word_dash_3: group-cruise-broom
-bip_39_word_dash_4: group-cruise-broom-gown
-bip_39_word_dash_5: group-cruise-broom-gown-essence
-bip_39_word_dash_6: group-cruise-broom-gown-essence-immense
-bip_39_word_dash_7: group-cruise-broom-gown-essence-immense-seminar
-bip_39_word_dash_8: group-cruise-broom-gown-essence-immense-seminar-example
-bip_39_word_dash_9: group-cruise-broom-gown-essence-immense-seminar-example-choose
-bip_39_word_new_br_1: group
-bip_39_word_new_br_10: group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example<br>choose<br>stock
-bip_39_word_new_br_11: group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example<br>choose<br>stock<br>wage
 bip_39_word_new_br_12: group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example<br>choose<br>stock<br>wage<br>almost
 bip_39_word_new_br_2: group<br>cruise
 bip_39_word_new_br_3: group<br>cruise<br>broom
-bip_39_word_new_br_4: group<br>cruise<br>broom<br>gown
-bip_39_word_new_br_5: group<br>cruise<br>broom<br>gown<br>essence
-bip_39_word_new_br_6: group<br>cruise<br>broom<br>gown<br>essence<br>immense
-bip_39_word_new_br_7: group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar
-bip_39_word_new_br_8: group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example
-bip_39_word_new_br_9: group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example<br>choose
-bip_39_word_new_line_1: group
-bip_39_word_new_line_10: 'group
-
-  cruise
-
-  broom
-
-  gown
-
-  essence
-
-  immense
-
-  seminar
-
-  example
-
-  choose
-
-  stock'
-bip_39_word_new_line_11: 'group
-
-  cruise
-
-  broom
-
-  gown
-
-  essence
-
-  immense
-
-  seminar
-
-  example
-
-  choose
-
-  stock
-
-  wage'
 bip_39_word_new_line_12: 'group
 
   cruise
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'group
   cruise
 
   broom'
-bip_39_word_new_line_4: 'group
-
-  cruise
-
-  broom
-
-  gown'
-bip_39_word_new_line_5: 'group
-
-  cruise
-
-  broom
-
-  gown
-
-  essence'
-bip_39_word_new_line_6: 'group
-
-  cruise
-
-  broom
-
-  gown
-
-  essence
-
-  immense'
-bip_39_word_new_line_7: 'group
-
-  cruise
-
-  broom
-
-  gown
-
-  essence
-
-  immense
-
-  seminar'
-bip_39_word_new_line_8: 'group
-
-  cruise
-
-  broom
-
-  gown
-
-  essence
-
-  immense
-
-  seminar
-
-  example'
-bip_39_word_new_line_9: 'group
-
-  cruise
-
-  broom
-
-  gown
-
-  essence
-
-  immense
-
-  seminar
-
-  example
-
-  choose'
-bip_39_word_no_space_1: group
-bip_39_word_no_space_10: groupcruisebroomgownessenceimmenseseminarexamplechoosestock
-bip_39_word_no_space_11: groupcruisebroomgownessenceimmenseseminarexamplechoosestockwage
 bip_39_word_no_space_12: groupcruisebroomgownessenceimmenseseminarexamplechoosestockwagealmost
 bip_39_word_no_space_2: groupcruise
 bip_39_word_no_space_3: groupcruisebroom
-bip_39_word_no_space_4: groupcruisebroomgown
-bip_39_word_no_space_5: groupcruisebroomgownessence
-bip_39_word_no_space_6: groupcruisebroomgownessenceimmense
-bip_39_word_no_space_7: groupcruisebroomgownessenceimmenseseminar
-bip_39_word_no_space_8: groupcruisebroomgownessenceimmenseseminarexample
-bip_39_word_no_space_9: groupcruisebroomgownessenceimmenseseminarexamplechoose
-bip_39_word_space_0:
-- group
-- cruise
-- broom
-- gown
-- essence
-- immense
-- seminar
-- example
-- choose
-- stock
-- wage
-- almost
-bip_39_word_space_1: group
-bip_39_word_space_10: group cruise broom gown essence immense seminar example choose
-  stock
-bip_39_word_space_11: group cruise broom gown essence immense seminar example choose
-  stock wage
 bip_39_word_space_12: group cruise broom gown essence immense seminar example choose
   stock wage almost
 bip_39_word_space_2: group cruise
 bip_39_word_space_3: group cruise broom
-bip_39_word_space_4: group cruise broom gown
-bip_39_word_space_5: group cruise broom gown essence
-bip_39_word_space_6: group cruise broom gown essence immense
-bip_39_word_space_7: group cruise broom gown essence immense seminar
-bip_39_word_space_8: group cruise broom gown essence immense seminar example
-bip_39_word_space_9: group cruise broom gown essence immense seminar example choose
-bip_39_word_underscore_1: group
-bip_39_word_underscore_10: group_cruise_broom_gown_essence_immense_seminar_example_choose_stock
-bip_39_word_underscore_11: group_cruise_broom_gown_essence_immense_seminar_example_choose_stock_wage
 bip_39_word_underscore_12: group_cruise_broom_gown_essence_immense_seminar_example_choose_stock_wage_almost
 bip_39_word_underscore_2: group_cruise
 bip_39_word_underscore_3: group_cruise_broom
-bip_39_word_underscore_4: group_cruise_broom_gown
-bip_39_word_underscore_5: group_cruise_broom_gown_essence
-bip_39_word_underscore_6: group_cruise_broom_gown_essence_immense
-bip_39_word_underscore_7: group_cruise_broom_gown_essence_immense_seminar
-bip_39_word_underscore_8: group_cruise_broom_gown_essence_immense_seminar_example
-bip_39_word_underscore_9: group_cruise_broom_gown_essence_immense_seminar_example_choose
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

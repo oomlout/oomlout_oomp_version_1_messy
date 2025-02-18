@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chicken
-bip_39_word_dash_10: chicken-short-dwarf-note-inner-curtain-rotate-seat-note-shoe
-bip_39_word_dash_11: chicken-short-dwarf-note-inner-curtain-rotate-seat-note-shoe-fine
 bip_39_word_dash_12: chicken-short-dwarf-note-inner-curtain-rotate-seat-note-shoe-fine-apple
 bip_39_word_dash_2: chicken-short
 bip_39_word_dash_3: chicken-short-dwarf
-bip_39_word_dash_4: chicken-short-dwarf-note
-bip_39_word_dash_5: chicken-short-dwarf-note-inner
-bip_39_word_dash_6: chicken-short-dwarf-note-inner-curtain
-bip_39_word_dash_7: chicken-short-dwarf-note-inner-curtain-rotate
-bip_39_word_dash_8: chicken-short-dwarf-note-inner-curtain-rotate-seat
-bip_39_word_dash_9: chicken-short-dwarf-note-inner-curtain-rotate-seat-note
-bip_39_word_new_br_1: chicken
-bip_39_word_new_br_10: chicken<br>short<br>dwarf<br>note<br>inner<br>curtain<br>rotate<br>seat<br>note<br>shoe
-bip_39_word_new_br_11: chicken<br>short<br>dwarf<br>note<br>inner<br>curtain<br>rotate<br>seat<br>note<br>shoe<br>fine
 bip_39_word_new_br_12: chicken<br>short<br>dwarf<br>note<br>inner<br>curtain<br>rotate<br>seat<br>note<br>shoe<br>fine<br>apple
 bip_39_word_new_br_2: chicken<br>short
 bip_39_word_new_br_3: chicken<br>short<br>dwarf
-bip_39_word_new_br_4: chicken<br>short<br>dwarf<br>note
-bip_39_word_new_br_5: chicken<br>short<br>dwarf<br>note<br>inner
-bip_39_word_new_br_6: chicken<br>short<br>dwarf<br>note<br>inner<br>curtain
-bip_39_word_new_br_7: chicken<br>short<br>dwarf<br>note<br>inner<br>curtain<br>rotate
-bip_39_word_new_br_8: chicken<br>short<br>dwarf<br>note<br>inner<br>curtain<br>rotate<br>seat
-bip_39_word_new_br_9: chicken<br>short<br>dwarf<br>note<br>inner<br>curtain<br>rotate<br>seat<br>note
-bip_39_word_new_line_1: chicken
-bip_39_word_new_line_10: 'chicken
-
-  short
-
-  dwarf
-
-  note
-
-  inner
-
-  curtain
-
-  rotate
-
-  seat
-
-  note
-
-  shoe'
-bip_39_word_new_line_11: 'chicken
-
-  short
-
-  dwarf
-
-  note
-
-  inner
-
-  curtain
-
-  rotate
-
-  seat
-
-  note
-
-  shoe
-
-  fine'
 bip_39_word_new_line_12: 'chicken
 
   short
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chicken
   short
 
   dwarf'
-bip_39_word_new_line_4: 'chicken
-
-  short
-
-  dwarf
-
-  note'
-bip_39_word_new_line_5: 'chicken
-
-  short
-
-  dwarf
-
-  note
-
-  inner'
-bip_39_word_new_line_6: 'chicken
-
-  short
-
-  dwarf
-
-  note
-
-  inner
-
-  curtain'
-bip_39_word_new_line_7: 'chicken
-
-  short
-
-  dwarf
-
-  note
-
-  inner
-
-  curtain
-
-  rotate'
-bip_39_word_new_line_8: 'chicken
-
-  short
-
-  dwarf
-
-  note
-
-  inner
-
-  curtain
-
-  rotate
-
-  seat'
-bip_39_word_new_line_9: 'chicken
-
-  short
-
-  dwarf
-
-  note
-
-  inner
-
-  curtain
-
-  rotate
-
-  seat
-
-  note'
-bip_39_word_no_space_1: chicken
-bip_39_word_no_space_10: chickenshortdwarfnoteinnercurtainrotateseatnoteshoe
-bip_39_word_no_space_11: chickenshortdwarfnoteinnercurtainrotateseatnoteshoefine
 bip_39_word_no_space_12: chickenshortdwarfnoteinnercurtainrotateseatnoteshoefineapple
 bip_39_word_no_space_2: chickenshort
 bip_39_word_no_space_3: chickenshortdwarf
-bip_39_word_no_space_4: chickenshortdwarfnote
-bip_39_word_no_space_5: chickenshortdwarfnoteinner
-bip_39_word_no_space_6: chickenshortdwarfnoteinnercurtain
-bip_39_word_no_space_7: chickenshortdwarfnoteinnercurtainrotate
-bip_39_word_no_space_8: chickenshortdwarfnoteinnercurtainrotateseat
-bip_39_word_no_space_9: chickenshortdwarfnoteinnercurtainrotateseatnote
-bip_39_word_space_0:
-- chicken
-- short
-- dwarf
-- note
-- inner
-- curtain
-- rotate
-- seat
-- note
-- shoe
-- fine
-- apple
-bip_39_word_space_1: chicken
-bip_39_word_space_10: chicken short dwarf note inner curtain rotate seat note shoe
-bip_39_word_space_11: chicken short dwarf note inner curtain rotate seat note shoe
-  fine
 bip_39_word_space_12: chicken short dwarf note inner curtain rotate seat note shoe
   fine apple
 bip_39_word_space_2: chicken short
 bip_39_word_space_3: chicken short dwarf
-bip_39_word_space_4: chicken short dwarf note
-bip_39_word_space_5: chicken short dwarf note inner
-bip_39_word_space_6: chicken short dwarf note inner curtain
-bip_39_word_space_7: chicken short dwarf note inner curtain rotate
-bip_39_word_space_8: chicken short dwarf note inner curtain rotate seat
-bip_39_word_space_9: chicken short dwarf note inner curtain rotate seat note
-bip_39_word_underscore_1: chicken
-bip_39_word_underscore_10: chicken_short_dwarf_note_inner_curtain_rotate_seat_note_shoe
-bip_39_word_underscore_11: chicken_short_dwarf_note_inner_curtain_rotate_seat_note_shoe_fine
 bip_39_word_underscore_12: chicken_short_dwarf_note_inner_curtain_rotate_seat_note_shoe_fine_apple
 bip_39_word_underscore_2: chicken_short
 bip_39_word_underscore_3: chicken_short_dwarf
-bip_39_word_underscore_4: chicken_short_dwarf_note
-bip_39_word_underscore_5: chicken_short_dwarf_note_inner
-bip_39_word_underscore_6: chicken_short_dwarf_note_inner_curtain
-bip_39_word_underscore_7: chicken_short_dwarf_note_inner_curtain_rotate
-bip_39_word_underscore_8: chicken_short_dwarf_note_inner_curtain_rotate_seat
-bip_39_word_underscore_9: chicken_short_dwarf_note_inner_curtain_rotate_seat_note
 classification: project
 classification_capital: Project
 classification_first_letter: p

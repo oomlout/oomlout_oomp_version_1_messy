@@ -1,45 +1,9 @@
-bip_39_word_dash_1: upper
-bip_39_word_dash_10: upper-library-cement-vault-burger-galaxy-heavy-critic-jump-until
 bip_39_word_dash_11: upper-library-cement-vault-burger-galaxy-heavy-critic-jump-until-bunker
 bip_39_word_dash_2: upper-library
 bip_39_word_dash_3: upper-library-cement
-bip_39_word_dash_4: upper-library-cement-vault
-bip_39_word_dash_5: upper-library-cement-vault-burger
-bip_39_word_dash_6: upper-library-cement-vault-burger-galaxy
-bip_39_word_dash_7: upper-library-cement-vault-burger-galaxy-heavy
-bip_39_word_dash_8: upper-library-cement-vault-burger-galaxy-heavy-critic
-bip_39_word_dash_9: upper-library-cement-vault-burger-galaxy-heavy-critic-jump
-bip_39_word_new_br_1: upper
-bip_39_word_new_br_10: upper<br>library<br>cement<br>vault<br>burger<br>galaxy<br>heavy<br>critic<br>jump<br>until
 bip_39_word_new_br_11: upper<br>library<br>cement<br>vault<br>burger<br>galaxy<br>heavy<br>critic<br>jump<br>until<br>bunker
 bip_39_word_new_br_2: upper<br>library
 bip_39_word_new_br_3: upper<br>library<br>cement
-bip_39_word_new_br_4: upper<br>library<br>cement<br>vault
-bip_39_word_new_br_5: upper<br>library<br>cement<br>vault<br>burger
-bip_39_word_new_br_6: upper<br>library<br>cement<br>vault<br>burger<br>galaxy
-bip_39_word_new_br_7: upper<br>library<br>cement<br>vault<br>burger<br>galaxy<br>heavy
-bip_39_word_new_br_8: upper<br>library<br>cement<br>vault<br>burger<br>galaxy<br>heavy<br>critic
-bip_39_word_new_br_9: upper<br>library<br>cement<br>vault<br>burger<br>galaxy<br>heavy<br>critic<br>jump
-bip_39_word_new_line_1: upper
-bip_39_word_new_line_10: 'upper
-
-  library
-
-  cement
-
-  vault
-
-  burger
-
-  galaxy
-
-  heavy
-
-  critic
-
-  jump
-
-  until'
 bip_39_word_new_line_11: 'upper
 
   library
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'upper
   library
 
   cement'
-bip_39_word_new_line_4: 'upper
-
-  library
-
-  cement
-
-  vault'
-bip_39_word_new_line_5: 'upper
-
-  library
-
-  cement
-
-  vault
-
-  burger'
-bip_39_word_new_line_6: 'upper
-
-  library
-
-  cement
-
-  vault
-
-  burger
-
-  galaxy'
-bip_39_word_new_line_7: 'upper
-
-  library
-
-  cement
-
-  vault
-
-  burger
-
-  galaxy
-
-  heavy'
-bip_39_word_new_line_8: 'upper
-
-  library
-
-  cement
-
-  vault
-
-  burger
-
-  galaxy
-
-  heavy
-
-  critic'
-bip_39_word_new_line_9: 'upper
-
-  library
-
-  cement
-
-  vault
-
-  burger
-
-  galaxy
-
-  heavy
-
-  critic
-
-  jump'
-bip_39_word_no_space_1: upper
-bip_39_word_no_space_10: upperlibrarycementvaultburgergalaxyheavycriticjumpuntil
 bip_39_word_no_space_11: upperlibrarycementvaultburgergalaxyheavycriticjumpuntilbunker
 bip_39_word_no_space_2: upperlibrary
 bip_39_word_no_space_3: upperlibrarycement
-bip_39_word_no_space_4: upperlibrarycementvault
-bip_39_word_no_space_5: upperlibrarycementvaultburger
-bip_39_word_no_space_6: upperlibrarycementvaultburgergalaxy
-bip_39_word_no_space_7: upperlibrarycementvaultburgergalaxyheavy
-bip_39_word_no_space_8: upperlibrarycementvaultburgergalaxyheavycritic
-bip_39_word_no_space_9: upperlibrarycementvaultburgergalaxyheavycriticjump
-bip_39_word_space_0:
-- upper
-- library
-- cement
-- vault
-- burger
-- galaxy
-- heavy
-- critic
-- jump
-- until
-- bunker
-bip_39_word_space_1: upper
-bip_39_word_space_10: upper library cement vault burger galaxy heavy critic jump until
 bip_39_word_space_11: upper library cement vault burger galaxy heavy critic jump until
   bunker
 bip_39_word_space_2: upper library
 bip_39_word_space_3: upper library cement
-bip_39_word_space_4: upper library cement vault
-bip_39_word_space_5: upper library cement vault burger
-bip_39_word_space_6: upper library cement vault burger galaxy
-bip_39_word_space_7: upper library cement vault burger galaxy heavy
-bip_39_word_space_8: upper library cement vault burger galaxy heavy critic
-bip_39_word_space_9: upper library cement vault burger galaxy heavy critic jump
-bip_39_word_underscore_1: upper
-bip_39_word_underscore_10: upper_library_cement_vault_burger_galaxy_heavy_critic_jump_until
 bip_39_word_underscore_11: upper_library_cement_vault_burger_galaxy_heavy_critic_jump_until_bunker
 bip_39_word_underscore_2: upper_library
 bip_39_word_underscore_3: upper_library_cement
-bip_39_word_underscore_4: upper_library_cement_vault
-bip_39_word_underscore_5: upper_library_cement_vault_burger
-bip_39_word_underscore_6: upper_library_cement_vault_burger_galaxy
-bip_39_word_underscore_7: upper_library_cement_vault_burger_galaxy_heavy
-bip_39_word_underscore_8: upper_library_cement_vault_burger_galaxy_heavy_critic
-bip_39_word_underscore_9: upper_library_cement_vault_burger_galaxy_heavy_critic_jump
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

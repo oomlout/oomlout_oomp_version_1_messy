@@ -1,68 +1,9 @@
-bip_39_word_dash_1: humble
-bip_39_word_dash_10: humble-luggage-much-bitter-affair-cluster-orbit-retreat-silly-equip
-bip_39_word_dash_11: humble-luggage-much-bitter-affair-cluster-orbit-retreat-silly-equip-write
 bip_39_word_dash_12: humble-luggage-much-bitter-affair-cluster-orbit-retreat-silly-equip-write-age
 bip_39_word_dash_2: humble-luggage
 bip_39_word_dash_3: humble-luggage-much
-bip_39_word_dash_4: humble-luggage-much-bitter
-bip_39_word_dash_5: humble-luggage-much-bitter-affair
-bip_39_word_dash_6: humble-luggage-much-bitter-affair-cluster
-bip_39_word_dash_7: humble-luggage-much-bitter-affair-cluster-orbit
-bip_39_word_dash_8: humble-luggage-much-bitter-affair-cluster-orbit-retreat
-bip_39_word_dash_9: humble-luggage-much-bitter-affair-cluster-orbit-retreat-silly
-bip_39_word_new_br_1: humble
-bip_39_word_new_br_10: humble<br>luggage<br>much<br>bitter<br>affair<br>cluster<br>orbit<br>retreat<br>silly<br>equip
-bip_39_word_new_br_11: humble<br>luggage<br>much<br>bitter<br>affair<br>cluster<br>orbit<br>retreat<br>silly<br>equip<br>write
 bip_39_word_new_br_12: humble<br>luggage<br>much<br>bitter<br>affair<br>cluster<br>orbit<br>retreat<br>silly<br>equip<br>write<br>age
 bip_39_word_new_br_2: humble<br>luggage
 bip_39_word_new_br_3: humble<br>luggage<br>much
-bip_39_word_new_br_4: humble<br>luggage<br>much<br>bitter
-bip_39_word_new_br_5: humble<br>luggage<br>much<br>bitter<br>affair
-bip_39_word_new_br_6: humble<br>luggage<br>much<br>bitter<br>affair<br>cluster
-bip_39_word_new_br_7: humble<br>luggage<br>much<br>bitter<br>affair<br>cluster<br>orbit
-bip_39_word_new_br_8: humble<br>luggage<br>much<br>bitter<br>affair<br>cluster<br>orbit<br>retreat
-bip_39_word_new_br_9: humble<br>luggage<br>much<br>bitter<br>affair<br>cluster<br>orbit<br>retreat<br>silly
-bip_39_word_new_line_1: humble
-bip_39_word_new_line_10: 'humble
-
-  luggage
-
-  much
-
-  bitter
-
-  affair
-
-  cluster
-
-  orbit
-
-  retreat
-
-  silly
-
-  equip'
-bip_39_word_new_line_11: 'humble
-
-  luggage
-
-  much
-
-  bitter
-
-  affair
-
-  cluster
-
-  orbit
-
-  retreat
-
-  silly
-
-  equip
-
-  write'
 bip_39_word_new_line_12: 'humble
 
   luggage
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'humble
   luggage
 
   much'
-bip_39_word_new_line_4: 'humble
-
-  luggage
-
-  much
-
-  bitter'
-bip_39_word_new_line_5: 'humble
-
-  luggage
-
-  much
-
-  bitter
-
-  affair'
-bip_39_word_new_line_6: 'humble
-
-  luggage
-
-  much
-
-  bitter
-
-  affair
-
-  cluster'
-bip_39_word_new_line_7: 'humble
-
-  luggage
-
-  much
-
-  bitter
-
-  affair
-
-  cluster
-
-  orbit'
-bip_39_word_new_line_8: 'humble
-
-  luggage
-
-  much
-
-  bitter
-
-  affair
-
-  cluster
-
-  orbit
-
-  retreat'
-bip_39_word_new_line_9: 'humble
-
-  luggage
-
-  much
-
-  bitter
-
-  affair
-
-  cluster
-
-  orbit
-
-  retreat
-
-  silly'
-bip_39_word_no_space_1: humble
-bip_39_word_no_space_10: humbleluggagemuchbitteraffairclusterorbitretreatsillyequip
-bip_39_word_no_space_11: humbleluggagemuchbitteraffairclusterorbitretreatsillyequipwrite
 bip_39_word_no_space_12: humbleluggagemuchbitteraffairclusterorbitretreatsillyequipwriteage
 bip_39_word_no_space_2: humbleluggage
 bip_39_word_no_space_3: humbleluggagemuch
-bip_39_word_no_space_4: humbleluggagemuchbitter
-bip_39_word_no_space_5: humbleluggagemuchbitteraffair
-bip_39_word_no_space_6: humbleluggagemuchbitteraffaircluster
-bip_39_word_no_space_7: humbleluggagemuchbitteraffairclusterorbit
-bip_39_word_no_space_8: humbleluggagemuchbitteraffairclusterorbitretreat
-bip_39_word_no_space_9: humbleluggagemuchbitteraffairclusterorbitretreatsilly
-bip_39_word_space_0:
-- humble
-- luggage
-- much
-- bitter
-- affair
-- cluster
-- orbit
-- retreat
-- silly
-- equip
-- write
-- age
-bip_39_word_space_1: humble
-bip_39_word_space_10: humble luggage much bitter affair cluster orbit retreat silly
-  equip
-bip_39_word_space_11: humble luggage much bitter affair cluster orbit retreat silly
-  equip write
 bip_39_word_space_12: humble luggage much bitter affair cluster orbit retreat silly
   equip write age
 bip_39_word_space_2: humble luggage
 bip_39_word_space_3: humble luggage much
-bip_39_word_space_4: humble luggage much bitter
-bip_39_word_space_5: humble luggage much bitter affair
-bip_39_word_space_6: humble luggage much bitter affair cluster
-bip_39_word_space_7: humble luggage much bitter affair cluster orbit
-bip_39_word_space_8: humble luggage much bitter affair cluster orbit retreat
-bip_39_word_space_9: humble luggage much bitter affair cluster orbit retreat silly
-bip_39_word_underscore_1: humble
-bip_39_word_underscore_10: humble_luggage_much_bitter_affair_cluster_orbit_retreat_silly_equip
-bip_39_word_underscore_11: humble_luggage_much_bitter_affair_cluster_orbit_retreat_silly_equip_write
 bip_39_word_underscore_12: humble_luggage_much_bitter_affair_cluster_orbit_retreat_silly_equip_write_age
 bip_39_word_underscore_2: humble_luggage
 bip_39_word_underscore_3: humble_luggage_much
-bip_39_word_underscore_4: humble_luggage_much_bitter
-bip_39_word_underscore_5: humble_luggage_much_bitter_affair
-bip_39_word_underscore_6: humble_luggage_much_bitter_affair_cluster
-bip_39_word_underscore_7: humble_luggage_much_bitter_affair_cluster_orbit
-bip_39_word_underscore_8: humble_luggage_much_bitter_affair_cluster_orbit_retreat
-bip_39_word_underscore_9: humble_luggage_much_bitter_affair_cluster_orbit_retreat_silly
 classification: category
 classification_capital: Category
 classification_first_letter: c

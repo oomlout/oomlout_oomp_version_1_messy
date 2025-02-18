@@ -1,45 +1,9 @@
-bip_39_word_dash_1: street
-bip_39_word_dash_10: street-sport-slab-burger-plunge-local-poverty-lady-steel-simple
 bip_39_word_dash_11: street-sport-slab-burger-plunge-local-poverty-lady-steel-simple-one
 bip_39_word_dash_2: street-sport
 bip_39_word_dash_3: street-sport-slab
-bip_39_word_dash_4: street-sport-slab-burger
-bip_39_word_dash_5: street-sport-slab-burger-plunge
-bip_39_word_dash_6: street-sport-slab-burger-plunge-local
-bip_39_word_dash_7: street-sport-slab-burger-plunge-local-poverty
-bip_39_word_dash_8: street-sport-slab-burger-plunge-local-poverty-lady
-bip_39_word_dash_9: street-sport-slab-burger-plunge-local-poverty-lady-steel
-bip_39_word_new_br_1: street
-bip_39_word_new_br_10: street<br>sport<br>slab<br>burger<br>plunge<br>local<br>poverty<br>lady<br>steel<br>simple
 bip_39_word_new_br_11: street<br>sport<br>slab<br>burger<br>plunge<br>local<br>poverty<br>lady<br>steel<br>simple<br>one
 bip_39_word_new_br_2: street<br>sport
 bip_39_word_new_br_3: street<br>sport<br>slab
-bip_39_word_new_br_4: street<br>sport<br>slab<br>burger
-bip_39_word_new_br_5: street<br>sport<br>slab<br>burger<br>plunge
-bip_39_word_new_br_6: street<br>sport<br>slab<br>burger<br>plunge<br>local
-bip_39_word_new_br_7: street<br>sport<br>slab<br>burger<br>plunge<br>local<br>poverty
-bip_39_word_new_br_8: street<br>sport<br>slab<br>burger<br>plunge<br>local<br>poverty<br>lady
-bip_39_word_new_br_9: street<br>sport<br>slab<br>burger<br>plunge<br>local<br>poverty<br>lady<br>steel
-bip_39_word_new_line_1: street
-bip_39_word_new_line_10: 'street
-
-  sport
-
-  slab
-
-  burger
-
-  plunge
-
-  local
-
-  poverty
-
-  lady
-
-  steel
-
-  simple'
 bip_39_word_new_line_11: 'street
 
   sport
@@ -69,124 +33,16 @@ bip_39_word_new_line_3: 'street
   sport
 
   slab'
-bip_39_word_new_line_4: 'street
-
-  sport
-
-  slab
-
-  burger'
-bip_39_word_new_line_5: 'street
-
-  sport
-
-  slab
-
-  burger
-
-  plunge'
-bip_39_word_new_line_6: 'street
-
-  sport
-
-  slab
-
-  burger
-
-  plunge
-
-  local'
-bip_39_word_new_line_7: 'street
-
-  sport
-
-  slab
-
-  burger
-
-  plunge
-
-  local
-
-  poverty'
-bip_39_word_new_line_8: 'street
-
-  sport
-
-  slab
-
-  burger
-
-  plunge
-
-  local
-
-  poverty
-
-  lady'
-bip_39_word_new_line_9: 'street
-
-  sport
-
-  slab
-
-  burger
-
-  plunge
-
-  local
-
-  poverty
-
-  lady
-
-  steel'
-bip_39_word_no_space_1: street
-bip_39_word_no_space_10: streetsportslabburgerplungelocalpovertyladysteelsimple
 bip_39_word_no_space_11: streetsportslabburgerplungelocalpovertyladysteelsimpleone
 bip_39_word_no_space_2: streetsport
 bip_39_word_no_space_3: streetsportslab
-bip_39_word_no_space_4: streetsportslabburger
-bip_39_word_no_space_5: streetsportslabburgerplunge
-bip_39_word_no_space_6: streetsportslabburgerplungelocal
-bip_39_word_no_space_7: streetsportslabburgerplungelocalpoverty
-bip_39_word_no_space_8: streetsportslabburgerplungelocalpovertylady
-bip_39_word_no_space_9: streetsportslabburgerplungelocalpovertyladysteel
-bip_39_word_space_0:
-- street
-- sport
-- slab
-- burger
-- plunge
-- local
-- poverty
-- lady
-- steel
-- simple
-- one
-bip_39_word_space_1: street
-bip_39_word_space_10: street sport slab burger plunge local poverty lady steel simple
 bip_39_word_space_11: street sport slab burger plunge local poverty lady steel simple
   one
 bip_39_word_space_2: street sport
 bip_39_word_space_3: street sport slab
-bip_39_word_space_4: street sport slab burger
-bip_39_word_space_5: street sport slab burger plunge
-bip_39_word_space_6: street sport slab burger plunge local
-bip_39_word_space_7: street sport slab burger plunge local poverty
-bip_39_word_space_8: street sport slab burger plunge local poverty lady
-bip_39_word_space_9: street sport slab burger plunge local poverty lady steel
-bip_39_word_underscore_1: street
-bip_39_word_underscore_10: street_sport_slab_burger_plunge_local_poverty_lady_steel_simple
 bip_39_word_underscore_11: street_sport_slab_burger_plunge_local_poverty_lady_steel_simple_one
 bip_39_word_underscore_2: street_sport
 bip_39_word_underscore_3: street_sport_slab
-bip_39_word_underscore_4: street_sport_slab_burger
-bip_39_word_underscore_5: street_sport_slab_burger_plunge
-bip_39_word_underscore_6: street_sport_slab_burger_plunge_local
-bip_39_word_underscore_7: street_sport_slab_burger_plunge_local_poverty
-bip_39_word_underscore_8: street_sport_slab_burger_plunge_local_poverty_lady
-bip_39_word_underscore_9: street_sport_slab_burger_plunge_local_poverty_lady_steel
 classification: project
 classification_capital: Project
 classification_first_letter: p

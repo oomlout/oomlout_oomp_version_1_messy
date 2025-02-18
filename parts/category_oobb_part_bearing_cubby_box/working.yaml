@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scheme
-bip_39_word_dash_10: scheme-busy-possible-shift-voyage-soul-leisure-citizen-repeat-hole
-bip_39_word_dash_11: scheme-busy-possible-shift-voyage-soul-leisure-citizen-repeat-hole-urban
 bip_39_word_dash_12: scheme-busy-possible-shift-voyage-soul-leisure-citizen-repeat-hole-urban-artefact
 bip_39_word_dash_2: scheme-busy
 bip_39_word_dash_3: scheme-busy-possible
-bip_39_word_dash_4: scheme-busy-possible-shift
-bip_39_word_dash_5: scheme-busy-possible-shift-voyage
-bip_39_word_dash_6: scheme-busy-possible-shift-voyage-soul
-bip_39_word_dash_7: scheme-busy-possible-shift-voyage-soul-leisure
-bip_39_word_dash_8: scheme-busy-possible-shift-voyage-soul-leisure-citizen
-bip_39_word_dash_9: scheme-busy-possible-shift-voyage-soul-leisure-citizen-repeat
-bip_39_word_new_br_1: scheme
-bip_39_word_new_br_10: scheme<br>busy<br>possible<br>shift<br>voyage<br>soul<br>leisure<br>citizen<br>repeat<br>hole
-bip_39_word_new_br_11: scheme<br>busy<br>possible<br>shift<br>voyage<br>soul<br>leisure<br>citizen<br>repeat<br>hole<br>urban
 bip_39_word_new_br_12: scheme<br>busy<br>possible<br>shift<br>voyage<br>soul<br>leisure<br>citizen<br>repeat<br>hole<br>urban<br>artefact
 bip_39_word_new_br_2: scheme<br>busy
 bip_39_word_new_br_3: scheme<br>busy<br>possible
-bip_39_word_new_br_4: scheme<br>busy<br>possible<br>shift
-bip_39_word_new_br_5: scheme<br>busy<br>possible<br>shift<br>voyage
-bip_39_word_new_br_6: scheme<br>busy<br>possible<br>shift<br>voyage<br>soul
-bip_39_word_new_br_7: scheme<br>busy<br>possible<br>shift<br>voyage<br>soul<br>leisure
-bip_39_word_new_br_8: scheme<br>busy<br>possible<br>shift<br>voyage<br>soul<br>leisure<br>citizen
-bip_39_word_new_br_9: scheme<br>busy<br>possible<br>shift<br>voyage<br>soul<br>leisure<br>citizen<br>repeat
-bip_39_word_new_line_1: scheme
-bip_39_word_new_line_10: 'scheme
-
-  busy
-
-  possible
-
-  shift
-
-  voyage
-
-  soul
-
-  leisure
-
-  citizen
-
-  repeat
-
-  hole'
-bip_39_word_new_line_11: 'scheme
-
-  busy
-
-  possible
-
-  shift
-
-  voyage
-
-  soul
-
-  leisure
-
-  citizen
-
-  repeat
-
-  hole
-
-  urban'
 bip_39_word_new_line_12: 'scheme
 
   busy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scheme
   busy
 
   possible'
-bip_39_word_new_line_4: 'scheme
-
-  busy
-
-  possible
-
-  shift'
-bip_39_word_new_line_5: 'scheme
-
-  busy
-
-  possible
-
-  shift
-
-  voyage'
-bip_39_word_new_line_6: 'scheme
-
-  busy
-
-  possible
-
-  shift
-
-  voyage
-
-  soul'
-bip_39_word_new_line_7: 'scheme
-
-  busy
-
-  possible
-
-  shift
-
-  voyage
-
-  soul
-
-  leisure'
-bip_39_word_new_line_8: 'scheme
-
-  busy
-
-  possible
-
-  shift
-
-  voyage
-
-  soul
-
-  leisure
-
-  citizen'
-bip_39_word_new_line_9: 'scheme
-
-  busy
-
-  possible
-
-  shift
-
-  voyage
-
-  soul
-
-  leisure
-
-  citizen
-
-  repeat'
-bip_39_word_no_space_1: scheme
-bip_39_word_no_space_10: schemebusypossibleshiftvoyagesoulleisurecitizenrepeathole
-bip_39_word_no_space_11: schemebusypossibleshiftvoyagesoulleisurecitizenrepeatholeurban
 bip_39_word_no_space_12: schemebusypossibleshiftvoyagesoulleisurecitizenrepeatholeurbanartefact
 bip_39_word_no_space_2: schemebusy
 bip_39_word_no_space_3: schemebusypossible
-bip_39_word_no_space_4: schemebusypossibleshift
-bip_39_word_no_space_5: schemebusypossibleshiftvoyage
-bip_39_word_no_space_6: schemebusypossibleshiftvoyagesoul
-bip_39_word_no_space_7: schemebusypossibleshiftvoyagesoulleisure
-bip_39_word_no_space_8: schemebusypossibleshiftvoyagesoulleisurecitizen
-bip_39_word_no_space_9: schemebusypossibleshiftvoyagesoulleisurecitizenrepeat
-bip_39_word_space_0:
-- scheme
-- busy
-- possible
-- shift
-- voyage
-- soul
-- leisure
-- citizen
-- repeat
-- hole
-- urban
-- artefact
-bip_39_word_space_1: scheme
-bip_39_word_space_10: scheme busy possible shift voyage soul leisure citizen repeat
-  hole
-bip_39_word_space_11: scheme busy possible shift voyage soul leisure citizen repeat
-  hole urban
 bip_39_word_space_12: scheme busy possible shift voyage soul leisure citizen repeat
   hole urban artefact
 bip_39_word_space_2: scheme busy
 bip_39_word_space_3: scheme busy possible
-bip_39_word_space_4: scheme busy possible shift
-bip_39_word_space_5: scheme busy possible shift voyage
-bip_39_word_space_6: scheme busy possible shift voyage soul
-bip_39_word_space_7: scheme busy possible shift voyage soul leisure
-bip_39_word_space_8: scheme busy possible shift voyage soul leisure citizen
-bip_39_word_space_9: scheme busy possible shift voyage soul leisure citizen repeat
-bip_39_word_underscore_1: scheme
-bip_39_word_underscore_10: scheme_busy_possible_shift_voyage_soul_leisure_citizen_repeat_hole
-bip_39_word_underscore_11: scheme_busy_possible_shift_voyage_soul_leisure_citizen_repeat_hole_urban
 bip_39_word_underscore_12: scheme_busy_possible_shift_voyage_soul_leisure_citizen_repeat_hole_urban_artefact
 bip_39_word_underscore_2: scheme_busy
 bip_39_word_underscore_3: scheme_busy_possible
-bip_39_word_underscore_4: scheme_busy_possible_shift
-bip_39_word_underscore_5: scheme_busy_possible_shift_voyage
-bip_39_word_underscore_6: scheme_busy_possible_shift_voyage_soul
-bip_39_word_underscore_7: scheme_busy_possible_shift_voyage_soul_leisure
-bip_39_word_underscore_8: scheme_busy_possible_shift_voyage_soul_leisure_citizen
-bip_39_word_underscore_9: scheme_busy_possible_shift_voyage_soul_leisure_citizen_repeat
 classification: category
 classification_capital: Category
 classification_first_letter: c

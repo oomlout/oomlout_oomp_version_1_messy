@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chicken
-bip_39_word_dash_10: chicken-farm-forward-sure-fiction-hurry-shed-vicious-share-portion
-bip_39_word_dash_11: chicken-farm-forward-sure-fiction-hurry-shed-vicious-share-portion-picnic
 bip_39_word_dash_12: chicken-farm-forward-sure-fiction-hurry-shed-vicious-share-portion-picnic-alone
 bip_39_word_dash_2: chicken-farm
 bip_39_word_dash_3: chicken-farm-forward
-bip_39_word_dash_4: chicken-farm-forward-sure
-bip_39_word_dash_5: chicken-farm-forward-sure-fiction
-bip_39_word_dash_6: chicken-farm-forward-sure-fiction-hurry
-bip_39_word_dash_7: chicken-farm-forward-sure-fiction-hurry-shed
-bip_39_word_dash_8: chicken-farm-forward-sure-fiction-hurry-shed-vicious
-bip_39_word_dash_9: chicken-farm-forward-sure-fiction-hurry-shed-vicious-share
-bip_39_word_new_br_1: chicken
-bip_39_word_new_br_10: chicken<br>farm<br>forward<br>sure<br>fiction<br>hurry<br>shed<br>vicious<br>share<br>portion
-bip_39_word_new_br_11: chicken<br>farm<br>forward<br>sure<br>fiction<br>hurry<br>shed<br>vicious<br>share<br>portion<br>picnic
 bip_39_word_new_br_12: chicken<br>farm<br>forward<br>sure<br>fiction<br>hurry<br>shed<br>vicious<br>share<br>portion<br>picnic<br>alone
 bip_39_word_new_br_2: chicken<br>farm
 bip_39_word_new_br_3: chicken<br>farm<br>forward
-bip_39_word_new_br_4: chicken<br>farm<br>forward<br>sure
-bip_39_word_new_br_5: chicken<br>farm<br>forward<br>sure<br>fiction
-bip_39_word_new_br_6: chicken<br>farm<br>forward<br>sure<br>fiction<br>hurry
-bip_39_word_new_br_7: chicken<br>farm<br>forward<br>sure<br>fiction<br>hurry<br>shed
-bip_39_word_new_br_8: chicken<br>farm<br>forward<br>sure<br>fiction<br>hurry<br>shed<br>vicious
-bip_39_word_new_br_9: chicken<br>farm<br>forward<br>sure<br>fiction<br>hurry<br>shed<br>vicious<br>share
-bip_39_word_new_line_1: chicken
-bip_39_word_new_line_10: 'chicken
-
-  farm
-
-  forward
-
-  sure
-
-  fiction
-
-  hurry
-
-  shed
-
-  vicious
-
-  share
-
-  portion'
-bip_39_word_new_line_11: 'chicken
-
-  farm
-
-  forward
-
-  sure
-
-  fiction
-
-  hurry
-
-  shed
-
-  vicious
-
-  share
-
-  portion
-
-  picnic'
 bip_39_word_new_line_12: 'chicken
 
   farm
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chicken
   farm
 
   forward'
-bip_39_word_new_line_4: 'chicken
-
-  farm
-
-  forward
-
-  sure'
-bip_39_word_new_line_5: 'chicken
-
-  farm
-
-  forward
-
-  sure
-
-  fiction'
-bip_39_word_new_line_6: 'chicken
-
-  farm
-
-  forward
-
-  sure
-
-  fiction
-
-  hurry'
-bip_39_word_new_line_7: 'chicken
-
-  farm
-
-  forward
-
-  sure
-
-  fiction
-
-  hurry
-
-  shed'
-bip_39_word_new_line_8: 'chicken
-
-  farm
-
-  forward
-
-  sure
-
-  fiction
-
-  hurry
-
-  shed
-
-  vicious'
-bip_39_word_new_line_9: 'chicken
-
-  farm
-
-  forward
-
-  sure
-
-  fiction
-
-  hurry
-
-  shed
-
-  vicious
-
-  share'
-bip_39_word_no_space_1: chicken
-bip_39_word_no_space_10: chickenfarmforwardsurefictionhurryshedviciousshareportion
-bip_39_word_no_space_11: chickenfarmforwardsurefictionhurryshedviciousshareportionpicnic
 bip_39_word_no_space_12: chickenfarmforwardsurefictionhurryshedviciousshareportionpicnicalone
 bip_39_word_no_space_2: chickenfarm
 bip_39_word_no_space_3: chickenfarmforward
-bip_39_word_no_space_4: chickenfarmforwardsure
-bip_39_word_no_space_5: chickenfarmforwardsurefiction
-bip_39_word_no_space_6: chickenfarmforwardsurefictionhurry
-bip_39_word_no_space_7: chickenfarmforwardsurefictionhurryshed
-bip_39_word_no_space_8: chickenfarmforwardsurefictionhurryshedvicious
-bip_39_word_no_space_9: chickenfarmforwardsurefictionhurryshedviciousshare
-bip_39_word_space_0:
-- chicken
-- farm
-- forward
-- sure
-- fiction
-- hurry
-- shed
-- vicious
-- share
-- portion
-- picnic
-- alone
-bip_39_word_space_1: chicken
-bip_39_word_space_10: chicken farm forward sure fiction hurry shed vicious share portion
-bip_39_word_space_11: chicken farm forward sure fiction hurry shed vicious share portion
-  picnic
 bip_39_word_space_12: chicken farm forward sure fiction hurry shed vicious share portion
   picnic alone
 bip_39_word_space_2: chicken farm
 bip_39_word_space_3: chicken farm forward
-bip_39_word_space_4: chicken farm forward sure
-bip_39_word_space_5: chicken farm forward sure fiction
-bip_39_word_space_6: chicken farm forward sure fiction hurry
-bip_39_word_space_7: chicken farm forward sure fiction hurry shed
-bip_39_word_space_8: chicken farm forward sure fiction hurry shed vicious
-bip_39_word_space_9: chicken farm forward sure fiction hurry shed vicious share
-bip_39_word_underscore_1: chicken
-bip_39_word_underscore_10: chicken_farm_forward_sure_fiction_hurry_shed_vicious_share_portion
-bip_39_word_underscore_11: chicken_farm_forward_sure_fiction_hurry_shed_vicious_share_portion_picnic
 bip_39_word_underscore_12: chicken_farm_forward_sure_fiction_hurry_shed_vicious_share_portion_picnic_alone
 bip_39_word_underscore_2: chicken_farm
 bip_39_word_underscore_3: chicken_farm_forward
-bip_39_word_underscore_4: chicken_farm_forward_sure
-bip_39_word_underscore_5: chicken_farm_forward_sure_fiction
-bip_39_word_underscore_6: chicken_farm_forward_sure_fiction_hurry
-bip_39_word_underscore_7: chicken_farm_forward_sure_fiction_hurry_shed
-bip_39_word_underscore_8: chicken_farm_forward_sure_fiction_hurry_shed_vicious
-bip_39_word_underscore_9: chicken_farm_forward_sure_fiction_hurry_shed_vicious_share
 classification: category
 classification_capital: Category
 classification_first_letter: c

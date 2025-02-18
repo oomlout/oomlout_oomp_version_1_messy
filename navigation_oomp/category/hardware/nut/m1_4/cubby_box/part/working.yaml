@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gauge
-bip_39_word_dash_10: gauge-divorce-muffin-insect-already-permit-rare-suggest-latin-auto
-bip_39_word_dash_11: gauge-divorce-muffin-insect-already-permit-rare-suggest-latin-auto-garbage
 bip_39_word_dash_12: gauge-divorce-muffin-insect-already-permit-rare-suggest-latin-auto-garbage-amused
 bip_39_word_dash_2: gauge-divorce
 bip_39_word_dash_3: gauge-divorce-muffin
-bip_39_word_dash_4: gauge-divorce-muffin-insect
-bip_39_word_dash_5: gauge-divorce-muffin-insect-already
-bip_39_word_dash_6: gauge-divorce-muffin-insect-already-permit
-bip_39_word_dash_7: gauge-divorce-muffin-insect-already-permit-rare
-bip_39_word_dash_8: gauge-divorce-muffin-insect-already-permit-rare-suggest
-bip_39_word_dash_9: gauge-divorce-muffin-insect-already-permit-rare-suggest-latin
-bip_39_word_new_br_1: gauge
-bip_39_word_new_br_10: gauge<br>divorce<br>muffin<br>insect<br>already<br>permit<br>rare<br>suggest<br>latin<br>auto
-bip_39_word_new_br_11: gauge<br>divorce<br>muffin<br>insect<br>already<br>permit<br>rare<br>suggest<br>latin<br>auto<br>garbage
 bip_39_word_new_br_12: gauge<br>divorce<br>muffin<br>insect<br>already<br>permit<br>rare<br>suggest<br>latin<br>auto<br>garbage<br>amused
 bip_39_word_new_br_2: gauge<br>divorce
 bip_39_word_new_br_3: gauge<br>divorce<br>muffin
-bip_39_word_new_br_4: gauge<br>divorce<br>muffin<br>insect
-bip_39_word_new_br_5: gauge<br>divorce<br>muffin<br>insect<br>already
-bip_39_word_new_br_6: gauge<br>divorce<br>muffin<br>insect<br>already<br>permit
-bip_39_word_new_br_7: gauge<br>divorce<br>muffin<br>insect<br>already<br>permit<br>rare
-bip_39_word_new_br_8: gauge<br>divorce<br>muffin<br>insect<br>already<br>permit<br>rare<br>suggest
-bip_39_word_new_br_9: gauge<br>divorce<br>muffin<br>insect<br>already<br>permit<br>rare<br>suggest<br>latin
-bip_39_word_new_line_1: gauge
-bip_39_word_new_line_10: 'gauge
-
-  divorce
-
-  muffin
-
-  insect
-
-  already
-
-  permit
-
-  rare
-
-  suggest
-
-  latin
-
-  auto'
-bip_39_word_new_line_11: 'gauge
-
-  divorce
-
-  muffin
-
-  insect
-
-  already
-
-  permit
-
-  rare
-
-  suggest
-
-  latin
-
-  auto
-
-  garbage'
 bip_39_word_new_line_12: 'gauge
 
   divorce
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'gauge
   divorce
 
   muffin'
-bip_39_word_new_line_4: 'gauge
-
-  divorce
-
-  muffin
-
-  insect'
-bip_39_word_new_line_5: 'gauge
-
-  divorce
-
-  muffin
-
-  insect
-
-  already'
-bip_39_word_new_line_6: 'gauge
-
-  divorce
-
-  muffin
-
-  insect
-
-  already
-
-  permit'
-bip_39_word_new_line_7: 'gauge
-
-  divorce
-
-  muffin
-
-  insect
-
-  already
-
-  permit
-
-  rare'
-bip_39_word_new_line_8: 'gauge
-
-  divorce
-
-  muffin
-
-  insect
-
-  already
-
-  permit
-
-  rare
-
-  suggest'
-bip_39_word_new_line_9: 'gauge
-
-  divorce
-
-  muffin
-
-  insect
-
-  already
-
-  permit
-
-  rare
-
-  suggest
-
-  latin'
-bip_39_word_no_space_1: gauge
-bip_39_word_no_space_10: gaugedivorcemuffininsectalreadypermitraresuggestlatinauto
-bip_39_word_no_space_11: gaugedivorcemuffininsectalreadypermitraresuggestlatinautogarbage
 bip_39_word_no_space_12: gaugedivorcemuffininsectalreadypermitraresuggestlatinautogarbageamused
 bip_39_word_no_space_2: gaugedivorce
 bip_39_word_no_space_3: gaugedivorcemuffin
-bip_39_word_no_space_4: gaugedivorcemuffininsect
-bip_39_word_no_space_5: gaugedivorcemuffininsectalready
-bip_39_word_no_space_6: gaugedivorcemuffininsectalreadypermit
-bip_39_word_no_space_7: gaugedivorcemuffininsectalreadypermitrare
-bip_39_word_no_space_8: gaugedivorcemuffininsectalreadypermitraresuggest
-bip_39_word_no_space_9: gaugedivorcemuffininsectalreadypermitraresuggestlatin
-bip_39_word_space_0:
-- gauge
-- divorce
-- muffin
-- insect
-- already
-- permit
-- rare
-- suggest
-- latin
-- auto
-- garbage
-- amused
-bip_39_word_space_1: gauge
-bip_39_word_space_10: gauge divorce muffin insect already permit rare suggest latin
-  auto
-bip_39_word_space_11: gauge divorce muffin insect already permit rare suggest latin
-  auto garbage
 bip_39_word_space_12: gauge divorce muffin insect already permit rare suggest latin
   auto garbage amused
 bip_39_word_space_2: gauge divorce
 bip_39_word_space_3: gauge divorce muffin
-bip_39_word_space_4: gauge divorce muffin insect
-bip_39_word_space_5: gauge divorce muffin insect already
-bip_39_word_space_6: gauge divorce muffin insect already permit
-bip_39_word_space_7: gauge divorce muffin insect already permit rare
-bip_39_word_space_8: gauge divorce muffin insect already permit rare suggest
-bip_39_word_space_9: gauge divorce muffin insect already permit rare suggest latin
-bip_39_word_underscore_1: gauge
-bip_39_word_underscore_10: gauge_divorce_muffin_insect_already_permit_rare_suggest_latin_auto
-bip_39_word_underscore_11: gauge_divorce_muffin_insect_already_permit_rare_suggest_latin_auto_garbage
 bip_39_word_underscore_12: gauge_divorce_muffin_insect_already_permit_rare_suggest_latin_auto_garbage_amused
 bip_39_word_underscore_2: gauge_divorce
 bip_39_word_underscore_3: gauge_divorce_muffin
-bip_39_word_underscore_4: gauge_divorce_muffin_insect
-bip_39_word_underscore_5: gauge_divorce_muffin_insect_already
-bip_39_word_underscore_6: gauge_divorce_muffin_insect_already_permit
-bip_39_word_underscore_7: gauge_divorce_muffin_insect_already_permit_rare
-bip_39_word_underscore_8: gauge_divorce_muffin_insect_already_permit_rare_suggest
-bip_39_word_underscore_9: gauge_divorce_muffin_insect_already_permit_rare_suggest_latin
 classification: category
 classification_capital: Category
 classification_first_letter: c

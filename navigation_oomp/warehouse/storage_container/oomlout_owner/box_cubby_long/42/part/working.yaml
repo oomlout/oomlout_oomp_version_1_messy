@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bicycle
-bip_39_word_dash_10: bicycle-cash-donate-key-sudden-person-patch-hint-trophy-recipe
-bip_39_word_dash_11: bicycle-cash-donate-key-sudden-person-patch-hint-trophy-recipe-undo
 bip_39_word_dash_12: bicycle-cash-donate-key-sudden-person-patch-hint-trophy-recipe-undo-artist
 bip_39_word_dash_2: bicycle-cash
 bip_39_word_dash_3: bicycle-cash-donate
-bip_39_word_dash_4: bicycle-cash-donate-key
-bip_39_word_dash_5: bicycle-cash-donate-key-sudden
-bip_39_word_dash_6: bicycle-cash-donate-key-sudden-person
-bip_39_word_dash_7: bicycle-cash-donate-key-sudden-person-patch
-bip_39_word_dash_8: bicycle-cash-donate-key-sudden-person-patch-hint
-bip_39_word_dash_9: bicycle-cash-donate-key-sudden-person-patch-hint-trophy
-bip_39_word_new_br_1: bicycle
-bip_39_word_new_br_10: bicycle<br>cash<br>donate<br>key<br>sudden<br>person<br>patch<br>hint<br>trophy<br>recipe
-bip_39_word_new_br_11: bicycle<br>cash<br>donate<br>key<br>sudden<br>person<br>patch<br>hint<br>trophy<br>recipe<br>undo
 bip_39_word_new_br_12: bicycle<br>cash<br>donate<br>key<br>sudden<br>person<br>patch<br>hint<br>trophy<br>recipe<br>undo<br>artist
 bip_39_word_new_br_2: bicycle<br>cash
 bip_39_word_new_br_3: bicycle<br>cash<br>donate
-bip_39_word_new_br_4: bicycle<br>cash<br>donate<br>key
-bip_39_word_new_br_5: bicycle<br>cash<br>donate<br>key<br>sudden
-bip_39_word_new_br_6: bicycle<br>cash<br>donate<br>key<br>sudden<br>person
-bip_39_word_new_br_7: bicycle<br>cash<br>donate<br>key<br>sudden<br>person<br>patch
-bip_39_word_new_br_8: bicycle<br>cash<br>donate<br>key<br>sudden<br>person<br>patch<br>hint
-bip_39_word_new_br_9: bicycle<br>cash<br>donate<br>key<br>sudden<br>person<br>patch<br>hint<br>trophy
-bip_39_word_new_line_1: bicycle
-bip_39_word_new_line_10: 'bicycle
-
-  cash
-
-  donate
-
-  key
-
-  sudden
-
-  person
-
-  patch
-
-  hint
-
-  trophy
-
-  recipe'
-bip_39_word_new_line_11: 'bicycle
-
-  cash
-
-  donate
-
-  key
-
-  sudden
-
-  person
-
-  patch
-
-  hint
-
-  trophy
-
-  recipe
-
-  undo'
 bip_39_word_new_line_12: 'bicycle
 
   cash
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bicycle
   cash
 
   donate'
-bip_39_word_new_line_4: 'bicycle
-
-  cash
-
-  donate
-
-  key'
-bip_39_word_new_line_5: 'bicycle
-
-  cash
-
-  donate
-
-  key
-
-  sudden'
-bip_39_word_new_line_6: 'bicycle
-
-  cash
-
-  donate
-
-  key
-
-  sudden
-
-  person'
-bip_39_word_new_line_7: 'bicycle
-
-  cash
-
-  donate
-
-  key
-
-  sudden
-
-  person
-
-  patch'
-bip_39_word_new_line_8: 'bicycle
-
-  cash
-
-  donate
-
-  key
-
-  sudden
-
-  person
-
-  patch
-
-  hint'
-bip_39_word_new_line_9: 'bicycle
-
-  cash
-
-  donate
-
-  key
-
-  sudden
-
-  person
-
-  patch
-
-  hint
-
-  trophy'
-bip_39_word_no_space_1: bicycle
-bip_39_word_no_space_10: bicyclecashdonatekeysuddenpersonpatchhinttrophyrecipe
-bip_39_word_no_space_11: bicyclecashdonatekeysuddenpersonpatchhinttrophyrecipeundo
 bip_39_word_no_space_12: bicyclecashdonatekeysuddenpersonpatchhinttrophyrecipeundoartist
 bip_39_word_no_space_2: bicyclecash
 bip_39_word_no_space_3: bicyclecashdonate
-bip_39_word_no_space_4: bicyclecashdonatekey
-bip_39_word_no_space_5: bicyclecashdonatekeysudden
-bip_39_word_no_space_6: bicyclecashdonatekeysuddenperson
-bip_39_word_no_space_7: bicyclecashdonatekeysuddenpersonpatch
-bip_39_word_no_space_8: bicyclecashdonatekeysuddenpersonpatchhint
-bip_39_word_no_space_9: bicyclecashdonatekeysuddenpersonpatchhinttrophy
-bip_39_word_space_0:
-- bicycle
-- cash
-- donate
-- key
-- sudden
-- person
-- patch
-- hint
-- trophy
-- recipe
-- undo
-- artist
-bip_39_word_space_1: bicycle
-bip_39_word_space_10: bicycle cash donate key sudden person patch hint trophy recipe
-bip_39_word_space_11: bicycle cash donate key sudden person patch hint trophy recipe
-  undo
 bip_39_word_space_12: bicycle cash donate key sudden person patch hint trophy recipe
   undo artist
 bip_39_word_space_2: bicycle cash
 bip_39_word_space_3: bicycle cash donate
-bip_39_word_space_4: bicycle cash donate key
-bip_39_word_space_5: bicycle cash donate key sudden
-bip_39_word_space_6: bicycle cash donate key sudden person
-bip_39_word_space_7: bicycle cash donate key sudden person patch
-bip_39_word_space_8: bicycle cash donate key sudden person patch hint
-bip_39_word_space_9: bicycle cash donate key sudden person patch hint trophy
-bip_39_word_underscore_1: bicycle
-bip_39_word_underscore_10: bicycle_cash_donate_key_sudden_person_patch_hint_trophy_recipe
-bip_39_word_underscore_11: bicycle_cash_donate_key_sudden_person_patch_hint_trophy_recipe_undo
 bip_39_word_underscore_12: bicycle_cash_donate_key_sudden_person_patch_hint_trophy_recipe_undo_artist
 bip_39_word_underscore_2: bicycle_cash
 bip_39_word_underscore_3: bicycle_cash_donate
-bip_39_word_underscore_4: bicycle_cash_donate_key
-bip_39_word_underscore_5: bicycle_cash_donate_key_sudden
-bip_39_word_underscore_6: bicycle_cash_donate_key_sudden_person
-bip_39_word_underscore_7: bicycle_cash_donate_key_sudden_person_patch
-bip_39_word_underscore_8: bicycle_cash_donate_key_sudden_person_patch_hint
-bip_39_word_underscore_9: bicycle_cash_donate_key_sudden_person_patch_hint_trophy
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

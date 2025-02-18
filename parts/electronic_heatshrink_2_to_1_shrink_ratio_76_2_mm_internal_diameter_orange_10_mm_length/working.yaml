@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fence
-bip_39_word_dash_10: fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim-harvest-balcony
-bip_39_word_dash_11: fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim-harvest-balcony-spike
 bip_39_word_dash_12: fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim-harvest-balcony-spike-auction
 bip_39_word_dash_2: fence-dismiss
 bip_39_word_dash_3: fence-dismiss-decrease
-bip_39_word_dash_4: fence-dismiss-decrease-wrestle
-bip_39_word_dash_5: fence-dismiss-decrease-wrestle-surround
-bip_39_word_dash_6: fence-dismiss-decrease-wrestle-surround-shrimp
-bip_39_word_dash_7: fence-dismiss-decrease-wrestle-surround-shrimp-rice
-bip_39_word_dash_8: fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim
-bip_39_word_dash_9: fence-dismiss-decrease-wrestle-surround-shrimp-rice-claim-harvest
-bip_39_word_new_br_1: fence
-bip_39_word_new_br_10: fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp<br>rice<br>claim<br>harvest<br>balcony
-bip_39_word_new_br_11: fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp<br>rice<br>claim<br>harvest<br>balcony<br>spike
 bip_39_word_new_br_12: fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp<br>rice<br>claim<br>harvest<br>balcony<br>spike<br>auction
 bip_39_word_new_br_2: fence<br>dismiss
 bip_39_word_new_br_3: fence<br>dismiss<br>decrease
-bip_39_word_new_br_4: fence<br>dismiss<br>decrease<br>wrestle
-bip_39_word_new_br_5: fence<br>dismiss<br>decrease<br>wrestle<br>surround
-bip_39_word_new_br_6: fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp
-bip_39_word_new_br_7: fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp<br>rice
-bip_39_word_new_br_8: fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp<br>rice<br>claim
-bip_39_word_new_br_9: fence<br>dismiss<br>decrease<br>wrestle<br>surround<br>shrimp<br>rice<br>claim<br>harvest
-bip_39_word_new_line_1: fence
-bip_39_word_new_line_10: 'fence
-
-  dismiss
-
-  decrease
-
-  wrestle
-
-  surround
-
-  shrimp
-
-  rice
-
-  claim
-
-  harvest
-
-  balcony'
-bip_39_word_new_line_11: 'fence
-
-  dismiss
-
-  decrease
-
-  wrestle
-
-  surround
-
-  shrimp
-
-  rice
-
-  claim
-
-  harvest
-
-  balcony
-
-  spike'
 bip_39_word_new_line_12: 'fence
 
   dismiss
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'fence
   dismiss
 
   decrease'
-bip_39_word_new_line_4: 'fence
-
-  dismiss
-
-  decrease
-
-  wrestle'
-bip_39_word_new_line_5: 'fence
-
-  dismiss
-
-  decrease
-
-  wrestle
-
-  surround'
-bip_39_word_new_line_6: 'fence
-
-  dismiss
-
-  decrease
-
-  wrestle
-
-  surround
-
-  shrimp'
-bip_39_word_new_line_7: 'fence
-
-  dismiss
-
-  decrease
-
-  wrestle
-
-  surround
-
-  shrimp
-
-  rice'
-bip_39_word_new_line_8: 'fence
-
-  dismiss
-
-  decrease
-
-  wrestle
-
-  surround
-
-  shrimp
-
-  rice
-
-  claim'
-bip_39_word_new_line_9: 'fence
-
-  dismiss
-
-  decrease
-
-  wrestle
-
-  surround
-
-  shrimp
-
-  rice
-
-  claim
-
-  harvest'
-bip_39_word_no_space_1: fence
-bip_39_word_no_space_10: fencedismissdecreasewrestlesurroundshrimpriceclaimharvestbalcony
-bip_39_word_no_space_11: fencedismissdecreasewrestlesurroundshrimpriceclaimharvestbalconyspike
 bip_39_word_no_space_12: fencedismissdecreasewrestlesurroundshrimpriceclaimharvestbalconyspikeauction
 bip_39_word_no_space_2: fencedismiss
 bip_39_word_no_space_3: fencedismissdecrease
-bip_39_word_no_space_4: fencedismissdecreasewrestle
-bip_39_word_no_space_5: fencedismissdecreasewrestlesurround
-bip_39_word_no_space_6: fencedismissdecreasewrestlesurroundshrimp
-bip_39_word_no_space_7: fencedismissdecreasewrestlesurroundshrimprice
-bip_39_word_no_space_8: fencedismissdecreasewrestlesurroundshrimpriceclaim
-bip_39_word_no_space_9: fencedismissdecreasewrestlesurroundshrimpriceclaimharvest
-bip_39_word_space_0:
-- fence
-- dismiss
-- decrease
-- wrestle
-- surround
-- shrimp
-- rice
-- claim
-- harvest
-- balcony
-- spike
-- auction
-bip_39_word_space_1: fence
-bip_39_word_space_10: fence dismiss decrease wrestle surround shrimp rice claim harvest
-  balcony
-bip_39_word_space_11: fence dismiss decrease wrestle surround shrimp rice claim harvest
-  balcony spike
 bip_39_word_space_12: fence dismiss decrease wrestle surround shrimp rice claim harvest
   balcony spike auction
 bip_39_word_space_2: fence dismiss
 bip_39_word_space_3: fence dismiss decrease
-bip_39_word_space_4: fence dismiss decrease wrestle
-bip_39_word_space_5: fence dismiss decrease wrestle surround
-bip_39_word_space_6: fence dismiss decrease wrestle surround shrimp
-bip_39_word_space_7: fence dismiss decrease wrestle surround shrimp rice
-bip_39_word_space_8: fence dismiss decrease wrestle surround shrimp rice claim
-bip_39_word_space_9: fence dismiss decrease wrestle surround shrimp rice claim harvest
-bip_39_word_underscore_1: fence
-bip_39_word_underscore_10: fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim_harvest_balcony
-bip_39_word_underscore_11: fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim_harvest_balcony_spike
 bip_39_word_underscore_12: fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim_harvest_balcony_spike_auction
 bip_39_word_underscore_2: fence_dismiss
 bip_39_word_underscore_3: fence_dismiss_decrease
-bip_39_word_underscore_4: fence_dismiss_decrease_wrestle
-bip_39_word_underscore_5: fence_dismiss_decrease_wrestle_surround
-bip_39_word_underscore_6: fence_dismiss_decrease_wrestle_surround_shrimp
-bip_39_word_underscore_7: fence_dismiss_decrease_wrestle_surround_shrimp_rice
-bip_39_word_underscore_8: fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim
-bip_39_word_underscore_9: fence_dismiss_decrease_wrestle_surround_shrimp_rice_claim_harvest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

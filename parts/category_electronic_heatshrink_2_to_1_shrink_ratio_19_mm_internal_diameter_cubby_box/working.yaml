@@ -1,68 +1,9 @@
-bip_39_word_dash_1: write
-bip_39_word_dash_10: write-crumble-spider-stuff-onion-treat-rain-alley-safe-olympic
-bip_39_word_dash_11: write-crumble-spider-stuff-onion-treat-rain-alley-safe-olympic-dwarf
 bip_39_word_dash_12: write-crumble-spider-stuff-onion-treat-rain-alley-safe-olympic-dwarf-arrange
 bip_39_word_dash_2: write-crumble
 bip_39_word_dash_3: write-crumble-spider
-bip_39_word_dash_4: write-crumble-spider-stuff
-bip_39_word_dash_5: write-crumble-spider-stuff-onion
-bip_39_word_dash_6: write-crumble-spider-stuff-onion-treat
-bip_39_word_dash_7: write-crumble-spider-stuff-onion-treat-rain
-bip_39_word_dash_8: write-crumble-spider-stuff-onion-treat-rain-alley
-bip_39_word_dash_9: write-crumble-spider-stuff-onion-treat-rain-alley-safe
-bip_39_word_new_br_1: write
-bip_39_word_new_br_10: write<br>crumble<br>spider<br>stuff<br>onion<br>treat<br>rain<br>alley<br>safe<br>olympic
-bip_39_word_new_br_11: write<br>crumble<br>spider<br>stuff<br>onion<br>treat<br>rain<br>alley<br>safe<br>olympic<br>dwarf
 bip_39_word_new_br_12: write<br>crumble<br>spider<br>stuff<br>onion<br>treat<br>rain<br>alley<br>safe<br>olympic<br>dwarf<br>arrange
 bip_39_word_new_br_2: write<br>crumble
 bip_39_word_new_br_3: write<br>crumble<br>spider
-bip_39_word_new_br_4: write<br>crumble<br>spider<br>stuff
-bip_39_word_new_br_5: write<br>crumble<br>spider<br>stuff<br>onion
-bip_39_word_new_br_6: write<br>crumble<br>spider<br>stuff<br>onion<br>treat
-bip_39_word_new_br_7: write<br>crumble<br>spider<br>stuff<br>onion<br>treat<br>rain
-bip_39_word_new_br_8: write<br>crumble<br>spider<br>stuff<br>onion<br>treat<br>rain<br>alley
-bip_39_word_new_br_9: write<br>crumble<br>spider<br>stuff<br>onion<br>treat<br>rain<br>alley<br>safe
-bip_39_word_new_line_1: write
-bip_39_word_new_line_10: 'write
-
-  crumble
-
-  spider
-
-  stuff
-
-  onion
-
-  treat
-
-  rain
-
-  alley
-
-  safe
-
-  olympic'
-bip_39_word_new_line_11: 'write
-
-  crumble
-
-  spider
-
-  stuff
-
-  onion
-
-  treat
-
-  rain
-
-  alley
-
-  safe
-
-  olympic
-
-  dwarf'
 bip_39_word_new_line_12: 'write
 
   crumble
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'write
   crumble
 
   spider'
-bip_39_word_new_line_4: 'write
-
-  crumble
-
-  spider
-
-  stuff'
-bip_39_word_new_line_5: 'write
-
-  crumble
-
-  spider
-
-  stuff
-
-  onion'
-bip_39_word_new_line_6: 'write
-
-  crumble
-
-  spider
-
-  stuff
-
-  onion
-
-  treat'
-bip_39_word_new_line_7: 'write
-
-  crumble
-
-  spider
-
-  stuff
-
-  onion
-
-  treat
-
-  rain'
-bip_39_word_new_line_8: 'write
-
-  crumble
-
-  spider
-
-  stuff
-
-  onion
-
-  treat
-
-  rain
-
-  alley'
-bip_39_word_new_line_9: 'write
-
-  crumble
-
-  spider
-
-  stuff
-
-  onion
-
-  treat
-
-  rain
-
-  alley
-
-  safe'
-bip_39_word_no_space_1: write
-bip_39_word_no_space_10: writecrumblespiderstuffoniontreatrainalleysafeolympic
-bip_39_word_no_space_11: writecrumblespiderstuffoniontreatrainalleysafeolympicdwarf
 bip_39_word_no_space_12: writecrumblespiderstuffoniontreatrainalleysafeolympicdwarfarrange
 bip_39_word_no_space_2: writecrumble
 bip_39_word_no_space_3: writecrumblespider
-bip_39_word_no_space_4: writecrumblespiderstuff
-bip_39_word_no_space_5: writecrumblespiderstuffonion
-bip_39_word_no_space_6: writecrumblespiderstuffoniontreat
-bip_39_word_no_space_7: writecrumblespiderstuffoniontreatrain
-bip_39_word_no_space_8: writecrumblespiderstuffoniontreatrainalley
-bip_39_word_no_space_9: writecrumblespiderstuffoniontreatrainalleysafe
-bip_39_word_space_0:
-- write
-- crumble
-- spider
-- stuff
-- onion
-- treat
-- rain
-- alley
-- safe
-- olympic
-- dwarf
-- arrange
-bip_39_word_space_1: write
-bip_39_word_space_10: write crumble spider stuff onion treat rain alley safe olympic
-bip_39_word_space_11: write crumble spider stuff onion treat rain alley safe olympic
-  dwarf
 bip_39_word_space_12: write crumble spider stuff onion treat rain alley safe olympic
   dwarf arrange
 bip_39_word_space_2: write crumble
 bip_39_word_space_3: write crumble spider
-bip_39_word_space_4: write crumble spider stuff
-bip_39_word_space_5: write crumble spider stuff onion
-bip_39_word_space_6: write crumble spider stuff onion treat
-bip_39_word_space_7: write crumble spider stuff onion treat rain
-bip_39_word_space_8: write crumble spider stuff onion treat rain alley
-bip_39_word_space_9: write crumble spider stuff onion treat rain alley safe
-bip_39_word_underscore_1: write
-bip_39_word_underscore_10: write_crumble_spider_stuff_onion_treat_rain_alley_safe_olympic
-bip_39_word_underscore_11: write_crumble_spider_stuff_onion_treat_rain_alley_safe_olympic_dwarf
 bip_39_word_underscore_12: write_crumble_spider_stuff_onion_treat_rain_alley_safe_olympic_dwarf_arrange
 bip_39_word_underscore_2: write_crumble
 bip_39_word_underscore_3: write_crumble_spider
-bip_39_word_underscore_4: write_crumble_spider_stuff
-bip_39_word_underscore_5: write_crumble_spider_stuff_onion
-bip_39_word_underscore_6: write_crumble_spider_stuff_onion_treat
-bip_39_word_underscore_7: write_crumble_spider_stuff_onion_treat_rain
-bip_39_word_underscore_8: write_crumble_spider_stuff_onion_treat_rain_alley
-bip_39_word_underscore_9: write_crumble_spider_stuff_onion_treat_rain_alley_safe
 classification: category
 classification_capital: Category
 classification_first_letter: c

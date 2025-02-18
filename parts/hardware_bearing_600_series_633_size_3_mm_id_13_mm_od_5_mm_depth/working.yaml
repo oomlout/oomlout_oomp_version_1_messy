@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scan
-bip_39_word_dash_10: scan-couch-scrap-noodle-angle-card-sunset-laundry-blade-winter
-bip_39_word_dash_11: scan-couch-scrap-noodle-angle-card-sunset-laundry-blade-winter-dove
 bip_39_word_dash_12: scan-couch-scrap-noodle-angle-card-sunset-laundry-blade-winter-dove-alert
 bip_39_word_dash_2: scan-couch
 bip_39_word_dash_3: scan-couch-scrap
-bip_39_word_dash_4: scan-couch-scrap-noodle
-bip_39_word_dash_5: scan-couch-scrap-noodle-angle
-bip_39_word_dash_6: scan-couch-scrap-noodle-angle-card
-bip_39_word_dash_7: scan-couch-scrap-noodle-angle-card-sunset
-bip_39_word_dash_8: scan-couch-scrap-noodle-angle-card-sunset-laundry
-bip_39_word_dash_9: scan-couch-scrap-noodle-angle-card-sunset-laundry-blade
-bip_39_word_new_br_1: scan
-bip_39_word_new_br_10: scan<br>couch<br>scrap<br>noodle<br>angle<br>card<br>sunset<br>laundry<br>blade<br>winter
-bip_39_word_new_br_11: scan<br>couch<br>scrap<br>noodle<br>angle<br>card<br>sunset<br>laundry<br>blade<br>winter<br>dove
 bip_39_word_new_br_12: scan<br>couch<br>scrap<br>noodle<br>angle<br>card<br>sunset<br>laundry<br>blade<br>winter<br>dove<br>alert
 bip_39_word_new_br_2: scan<br>couch
 bip_39_word_new_br_3: scan<br>couch<br>scrap
-bip_39_word_new_br_4: scan<br>couch<br>scrap<br>noodle
-bip_39_word_new_br_5: scan<br>couch<br>scrap<br>noodle<br>angle
-bip_39_word_new_br_6: scan<br>couch<br>scrap<br>noodle<br>angle<br>card
-bip_39_word_new_br_7: scan<br>couch<br>scrap<br>noodle<br>angle<br>card<br>sunset
-bip_39_word_new_br_8: scan<br>couch<br>scrap<br>noodle<br>angle<br>card<br>sunset<br>laundry
-bip_39_word_new_br_9: scan<br>couch<br>scrap<br>noodle<br>angle<br>card<br>sunset<br>laundry<br>blade
-bip_39_word_new_line_1: scan
-bip_39_word_new_line_10: 'scan
-
-  couch
-
-  scrap
-
-  noodle
-
-  angle
-
-  card
-
-  sunset
-
-  laundry
-
-  blade
-
-  winter'
-bip_39_word_new_line_11: 'scan
-
-  couch
-
-  scrap
-
-  noodle
-
-  angle
-
-  card
-
-  sunset
-
-  laundry
-
-  blade
-
-  winter
-
-  dove'
 bip_39_word_new_line_12: 'scan
 
   couch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'scan
   couch
 
   scrap'
-bip_39_word_new_line_4: 'scan
-
-  couch
-
-  scrap
-
-  noodle'
-bip_39_word_new_line_5: 'scan
-
-  couch
-
-  scrap
-
-  noodle
-
-  angle'
-bip_39_word_new_line_6: 'scan
-
-  couch
-
-  scrap
-
-  noodle
-
-  angle
-
-  card'
-bip_39_word_new_line_7: 'scan
-
-  couch
-
-  scrap
-
-  noodle
-
-  angle
-
-  card
-
-  sunset'
-bip_39_word_new_line_8: 'scan
-
-  couch
-
-  scrap
-
-  noodle
-
-  angle
-
-  card
-
-  sunset
-
-  laundry'
-bip_39_word_new_line_9: 'scan
-
-  couch
-
-  scrap
-
-  noodle
-
-  angle
-
-  card
-
-  sunset
-
-  laundry
-
-  blade'
-bip_39_word_no_space_1: scan
-bip_39_word_no_space_10: scancouchscrapnoodleanglecardsunsetlaundrybladewinter
-bip_39_word_no_space_11: scancouchscrapnoodleanglecardsunsetlaundrybladewinterdove
 bip_39_word_no_space_12: scancouchscrapnoodleanglecardsunsetlaundrybladewinterdovealert
 bip_39_word_no_space_2: scancouch
 bip_39_word_no_space_3: scancouchscrap
-bip_39_word_no_space_4: scancouchscrapnoodle
-bip_39_word_no_space_5: scancouchscrapnoodleangle
-bip_39_word_no_space_6: scancouchscrapnoodleanglecard
-bip_39_word_no_space_7: scancouchscrapnoodleanglecardsunset
-bip_39_word_no_space_8: scancouchscrapnoodleanglecardsunsetlaundry
-bip_39_word_no_space_9: scancouchscrapnoodleanglecardsunsetlaundryblade
-bip_39_word_space_0:
-- scan
-- couch
-- scrap
-- noodle
-- angle
-- card
-- sunset
-- laundry
-- blade
-- winter
-- dove
-- alert
-bip_39_word_space_1: scan
-bip_39_word_space_10: scan couch scrap noodle angle card sunset laundry blade winter
-bip_39_word_space_11: scan couch scrap noodle angle card sunset laundry blade winter
-  dove
 bip_39_word_space_12: scan couch scrap noodle angle card sunset laundry blade winter
   dove alert
 bip_39_word_space_2: scan couch
 bip_39_word_space_3: scan couch scrap
-bip_39_word_space_4: scan couch scrap noodle
-bip_39_word_space_5: scan couch scrap noodle angle
-bip_39_word_space_6: scan couch scrap noodle angle card
-bip_39_word_space_7: scan couch scrap noodle angle card sunset
-bip_39_word_space_8: scan couch scrap noodle angle card sunset laundry
-bip_39_word_space_9: scan couch scrap noodle angle card sunset laundry blade
-bip_39_word_underscore_1: scan
-bip_39_word_underscore_10: scan_couch_scrap_noodle_angle_card_sunset_laundry_blade_winter
-bip_39_word_underscore_11: scan_couch_scrap_noodle_angle_card_sunset_laundry_blade_winter_dove
 bip_39_word_underscore_12: scan_couch_scrap_noodle_angle_card_sunset_laundry_blade_winter_dove_alert
 bip_39_word_underscore_2: scan_couch
 bip_39_word_underscore_3: scan_couch_scrap
-bip_39_word_underscore_4: scan_couch_scrap_noodle
-bip_39_word_underscore_5: scan_couch_scrap_noodle_angle
-bip_39_word_underscore_6: scan_couch_scrap_noodle_angle_card
-bip_39_word_underscore_7: scan_couch_scrap_noodle_angle_card_sunset
-bip_39_word_underscore_8: scan_couch_scrap_noodle_angle_card_sunset_laundry
-bip_39_word_underscore_9: scan_couch_scrap_noodle_angle_card_sunset_laundry_blade
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

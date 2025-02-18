@@ -1,68 +1,9 @@
-bip_39_word_dash_1: citizen
-bip_39_word_dash_10: citizen-eye-kitten-flavor-paddle-drastic-addict-umbrella-relax-crane
-bip_39_word_dash_11: citizen-eye-kitten-flavor-paddle-drastic-addict-umbrella-relax-crane-day
 bip_39_word_dash_12: citizen-eye-kitten-flavor-paddle-drastic-addict-umbrella-relax-crane-day-address
 bip_39_word_dash_2: citizen-eye
 bip_39_word_dash_3: citizen-eye-kitten
-bip_39_word_dash_4: citizen-eye-kitten-flavor
-bip_39_word_dash_5: citizen-eye-kitten-flavor-paddle
-bip_39_word_dash_6: citizen-eye-kitten-flavor-paddle-drastic
-bip_39_word_dash_7: citizen-eye-kitten-flavor-paddle-drastic-addict
-bip_39_word_dash_8: citizen-eye-kitten-flavor-paddle-drastic-addict-umbrella
-bip_39_word_dash_9: citizen-eye-kitten-flavor-paddle-drastic-addict-umbrella-relax
-bip_39_word_new_br_1: citizen
-bip_39_word_new_br_10: citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella<br>relax<br>crane
-bip_39_word_new_br_11: citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella<br>relax<br>crane<br>day
 bip_39_word_new_br_12: citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella<br>relax<br>crane<br>day<br>address
 bip_39_word_new_br_2: citizen<br>eye
 bip_39_word_new_br_3: citizen<br>eye<br>kitten
-bip_39_word_new_br_4: citizen<br>eye<br>kitten<br>flavor
-bip_39_word_new_br_5: citizen<br>eye<br>kitten<br>flavor<br>paddle
-bip_39_word_new_br_6: citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic
-bip_39_word_new_br_7: citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict
-bip_39_word_new_br_8: citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella
-bip_39_word_new_br_9: citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella<br>relax
-bip_39_word_new_line_1: citizen
-bip_39_word_new_line_10: 'citizen
-
-  eye
-
-  kitten
-
-  flavor
-
-  paddle
-
-  drastic
-
-  addict
-
-  umbrella
-
-  relax
-
-  crane'
-bip_39_word_new_line_11: 'citizen
-
-  eye
-
-  kitten
-
-  flavor
-
-  paddle
-
-  drastic
-
-  addict
-
-  umbrella
-
-  relax
-
-  crane
-
-  day'
 bip_39_word_new_line_12: 'citizen
 
   eye
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'citizen
   eye
 
   kitten'
-bip_39_word_new_line_4: 'citizen
-
-  eye
-
-  kitten
-
-  flavor'
-bip_39_word_new_line_5: 'citizen
-
-  eye
-
-  kitten
-
-  flavor
-
-  paddle'
-bip_39_word_new_line_6: 'citizen
-
-  eye
-
-  kitten
-
-  flavor
-
-  paddle
-
-  drastic'
-bip_39_word_new_line_7: 'citizen
-
-  eye
-
-  kitten
-
-  flavor
-
-  paddle
-
-  drastic
-
-  addict'
-bip_39_word_new_line_8: 'citizen
-
-  eye
-
-  kitten
-
-  flavor
-
-  paddle
-
-  drastic
-
-  addict
-
-  umbrella'
-bip_39_word_new_line_9: 'citizen
-
-  eye
-
-  kitten
-
-  flavor
-
-  paddle
-
-  drastic
-
-  addict
-
-  umbrella
-
-  relax'
-bip_39_word_no_space_1: citizen
-bip_39_word_no_space_10: citizeneyekittenflavorpaddledrasticaddictumbrellarelaxcrane
-bip_39_word_no_space_11: citizeneyekittenflavorpaddledrasticaddictumbrellarelaxcraneday
 bip_39_word_no_space_12: citizeneyekittenflavorpaddledrasticaddictumbrellarelaxcranedayaddress
 bip_39_word_no_space_2: citizeneye
 bip_39_word_no_space_3: citizeneyekitten
-bip_39_word_no_space_4: citizeneyekittenflavor
-bip_39_word_no_space_5: citizeneyekittenflavorpaddle
-bip_39_word_no_space_6: citizeneyekittenflavorpaddledrastic
-bip_39_word_no_space_7: citizeneyekittenflavorpaddledrasticaddict
-bip_39_word_no_space_8: citizeneyekittenflavorpaddledrasticaddictumbrella
-bip_39_word_no_space_9: citizeneyekittenflavorpaddledrasticaddictumbrellarelax
-bip_39_word_space_0:
-- citizen
-- eye
-- kitten
-- flavor
-- paddle
-- drastic
-- addict
-- umbrella
-- relax
-- crane
-- day
-- address
-bip_39_word_space_1: citizen
-bip_39_word_space_10: citizen eye kitten flavor paddle drastic addict umbrella relax
-  crane
-bip_39_word_space_11: citizen eye kitten flavor paddle drastic addict umbrella relax
-  crane day
 bip_39_word_space_12: citizen eye kitten flavor paddle drastic addict umbrella relax
   crane day address
 bip_39_word_space_2: citizen eye
 bip_39_word_space_3: citizen eye kitten
-bip_39_word_space_4: citizen eye kitten flavor
-bip_39_word_space_5: citizen eye kitten flavor paddle
-bip_39_word_space_6: citizen eye kitten flavor paddle drastic
-bip_39_word_space_7: citizen eye kitten flavor paddle drastic addict
-bip_39_word_space_8: citizen eye kitten flavor paddle drastic addict umbrella
-bip_39_word_space_9: citizen eye kitten flavor paddle drastic addict umbrella relax
-bip_39_word_underscore_1: citizen
-bip_39_word_underscore_10: citizen_eye_kitten_flavor_paddle_drastic_addict_umbrella_relax_crane
-bip_39_word_underscore_11: citizen_eye_kitten_flavor_paddle_drastic_addict_umbrella_relax_crane_day
 bip_39_word_underscore_12: citizen_eye_kitten_flavor_paddle_drastic_addict_umbrella_relax_crane_day_address
 bip_39_word_underscore_2: citizen_eye
 bip_39_word_underscore_3: citizen_eye_kitten
-bip_39_word_underscore_4: citizen_eye_kitten_flavor
-bip_39_word_underscore_5: citizen_eye_kitten_flavor_paddle
-bip_39_word_underscore_6: citizen_eye_kitten_flavor_paddle_drastic
-bip_39_word_underscore_7: citizen_eye_kitten_flavor_paddle_drastic_addict
-bip_39_word_underscore_8: citizen_eye_kitten_flavor_paddle_drastic_addict_umbrella
-bip_39_word_underscore_9: citizen_eye_kitten_flavor_paddle_drastic_addict_umbrella_relax
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

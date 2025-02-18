@@ -1,68 +1,9 @@
-bip_39_word_dash_1: frame
-bip_39_word_dash_10: frame-garden-bicycle-kind-found-soldier-verify-recycle-exit-run
-bip_39_word_dash_11: frame-garden-bicycle-kind-found-soldier-verify-recycle-exit-run-vapor
 bip_39_word_dash_12: frame-garden-bicycle-kind-found-soldier-verify-recycle-exit-run-vapor-assault
 bip_39_word_dash_2: frame-garden
 bip_39_word_dash_3: frame-garden-bicycle
-bip_39_word_dash_4: frame-garden-bicycle-kind
-bip_39_word_dash_5: frame-garden-bicycle-kind-found
-bip_39_word_dash_6: frame-garden-bicycle-kind-found-soldier
-bip_39_word_dash_7: frame-garden-bicycle-kind-found-soldier-verify
-bip_39_word_dash_8: frame-garden-bicycle-kind-found-soldier-verify-recycle
-bip_39_word_dash_9: frame-garden-bicycle-kind-found-soldier-verify-recycle-exit
-bip_39_word_new_br_1: frame
-bip_39_word_new_br_10: frame<br>garden<br>bicycle<br>kind<br>found<br>soldier<br>verify<br>recycle<br>exit<br>run
-bip_39_word_new_br_11: frame<br>garden<br>bicycle<br>kind<br>found<br>soldier<br>verify<br>recycle<br>exit<br>run<br>vapor
 bip_39_word_new_br_12: frame<br>garden<br>bicycle<br>kind<br>found<br>soldier<br>verify<br>recycle<br>exit<br>run<br>vapor<br>assault
 bip_39_word_new_br_2: frame<br>garden
 bip_39_word_new_br_3: frame<br>garden<br>bicycle
-bip_39_word_new_br_4: frame<br>garden<br>bicycle<br>kind
-bip_39_word_new_br_5: frame<br>garden<br>bicycle<br>kind<br>found
-bip_39_word_new_br_6: frame<br>garden<br>bicycle<br>kind<br>found<br>soldier
-bip_39_word_new_br_7: frame<br>garden<br>bicycle<br>kind<br>found<br>soldier<br>verify
-bip_39_word_new_br_8: frame<br>garden<br>bicycle<br>kind<br>found<br>soldier<br>verify<br>recycle
-bip_39_word_new_br_9: frame<br>garden<br>bicycle<br>kind<br>found<br>soldier<br>verify<br>recycle<br>exit
-bip_39_word_new_line_1: frame
-bip_39_word_new_line_10: 'frame
-
-  garden
-
-  bicycle
-
-  kind
-
-  found
-
-  soldier
-
-  verify
-
-  recycle
-
-  exit
-
-  run'
-bip_39_word_new_line_11: 'frame
-
-  garden
-
-  bicycle
-
-  kind
-
-  found
-
-  soldier
-
-  verify
-
-  recycle
-
-  exit
-
-  run
-
-  vapor'
 bip_39_word_new_line_12: 'frame
 
   garden
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'frame
   garden
 
   bicycle'
-bip_39_word_new_line_4: 'frame
-
-  garden
-
-  bicycle
-
-  kind'
-bip_39_word_new_line_5: 'frame
-
-  garden
-
-  bicycle
-
-  kind
-
-  found'
-bip_39_word_new_line_6: 'frame
-
-  garden
-
-  bicycle
-
-  kind
-
-  found
-
-  soldier'
-bip_39_word_new_line_7: 'frame
-
-  garden
-
-  bicycle
-
-  kind
-
-  found
-
-  soldier
-
-  verify'
-bip_39_word_new_line_8: 'frame
-
-  garden
-
-  bicycle
-
-  kind
-
-  found
-
-  soldier
-
-  verify
-
-  recycle'
-bip_39_word_new_line_9: 'frame
-
-  garden
-
-  bicycle
-
-  kind
-
-  found
-
-  soldier
-
-  verify
-
-  recycle
-
-  exit'
-bip_39_word_no_space_1: frame
-bip_39_word_no_space_10: framegardenbicyclekindfoundsoldierverifyrecycleexitrun
-bip_39_word_no_space_11: framegardenbicyclekindfoundsoldierverifyrecycleexitrunvapor
 bip_39_word_no_space_12: framegardenbicyclekindfoundsoldierverifyrecycleexitrunvaporassault
 bip_39_word_no_space_2: framegarden
 bip_39_word_no_space_3: framegardenbicycle
-bip_39_word_no_space_4: framegardenbicyclekind
-bip_39_word_no_space_5: framegardenbicyclekindfound
-bip_39_word_no_space_6: framegardenbicyclekindfoundsoldier
-bip_39_word_no_space_7: framegardenbicyclekindfoundsoldierverify
-bip_39_word_no_space_8: framegardenbicyclekindfoundsoldierverifyrecycle
-bip_39_word_no_space_9: framegardenbicyclekindfoundsoldierverifyrecycleexit
-bip_39_word_space_0:
-- frame
-- garden
-- bicycle
-- kind
-- found
-- soldier
-- verify
-- recycle
-- exit
-- run
-- vapor
-- assault
-bip_39_word_space_1: frame
-bip_39_word_space_10: frame garden bicycle kind found soldier verify recycle exit
-  run
-bip_39_word_space_11: frame garden bicycle kind found soldier verify recycle exit
-  run vapor
 bip_39_word_space_12: frame garden bicycle kind found soldier verify recycle exit
   run vapor assault
 bip_39_word_space_2: frame garden
 bip_39_word_space_3: frame garden bicycle
-bip_39_word_space_4: frame garden bicycle kind
-bip_39_word_space_5: frame garden bicycle kind found
-bip_39_word_space_6: frame garden bicycle kind found soldier
-bip_39_word_space_7: frame garden bicycle kind found soldier verify
-bip_39_word_space_8: frame garden bicycle kind found soldier verify recycle
-bip_39_word_space_9: frame garden bicycle kind found soldier verify recycle exit
-bip_39_word_underscore_1: frame
-bip_39_word_underscore_10: frame_garden_bicycle_kind_found_soldier_verify_recycle_exit_run
-bip_39_word_underscore_11: frame_garden_bicycle_kind_found_soldier_verify_recycle_exit_run_vapor
 bip_39_word_underscore_12: frame_garden_bicycle_kind_found_soldier_verify_recycle_exit_run_vapor_assault
 bip_39_word_underscore_2: frame_garden
 bip_39_word_underscore_3: frame_garden_bicycle
-bip_39_word_underscore_4: frame_garden_bicycle_kind
-bip_39_word_underscore_5: frame_garden_bicycle_kind_found
-bip_39_word_underscore_6: frame_garden_bicycle_kind_found_soldier
-bip_39_word_underscore_7: frame_garden_bicycle_kind_found_soldier_verify
-bip_39_word_underscore_8: frame_garden_bicycle_kind_found_soldier_verify_recycle
-bip_39_word_underscore_9: frame_garden_bicycle_kind_found_soldier_verify_recycle_exit
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: blanket
-bip_39_word_dash_10: blanket-foot-random-initial-net-banana-rough-ritual-cheap-trap
-bip_39_word_dash_11: blanket-foot-random-initial-net-banana-rough-ritual-cheap-trap-this
 bip_39_word_dash_12: blanket-foot-random-initial-net-banana-rough-ritual-cheap-trap-this-armed
 bip_39_word_dash_2: blanket-foot
 bip_39_word_dash_3: blanket-foot-random
-bip_39_word_dash_4: blanket-foot-random-initial
-bip_39_word_dash_5: blanket-foot-random-initial-net
-bip_39_word_dash_6: blanket-foot-random-initial-net-banana
-bip_39_word_dash_7: blanket-foot-random-initial-net-banana-rough
-bip_39_word_dash_8: blanket-foot-random-initial-net-banana-rough-ritual
-bip_39_word_dash_9: blanket-foot-random-initial-net-banana-rough-ritual-cheap
-bip_39_word_new_br_1: blanket
-bip_39_word_new_br_10: blanket<br>foot<br>random<br>initial<br>net<br>banana<br>rough<br>ritual<br>cheap<br>trap
-bip_39_word_new_br_11: blanket<br>foot<br>random<br>initial<br>net<br>banana<br>rough<br>ritual<br>cheap<br>trap<br>this
 bip_39_word_new_br_12: blanket<br>foot<br>random<br>initial<br>net<br>banana<br>rough<br>ritual<br>cheap<br>trap<br>this<br>armed
 bip_39_word_new_br_2: blanket<br>foot
 bip_39_word_new_br_3: blanket<br>foot<br>random
-bip_39_word_new_br_4: blanket<br>foot<br>random<br>initial
-bip_39_word_new_br_5: blanket<br>foot<br>random<br>initial<br>net
-bip_39_word_new_br_6: blanket<br>foot<br>random<br>initial<br>net<br>banana
-bip_39_word_new_br_7: blanket<br>foot<br>random<br>initial<br>net<br>banana<br>rough
-bip_39_word_new_br_8: blanket<br>foot<br>random<br>initial<br>net<br>banana<br>rough<br>ritual
-bip_39_word_new_br_9: blanket<br>foot<br>random<br>initial<br>net<br>banana<br>rough<br>ritual<br>cheap
-bip_39_word_new_line_1: blanket
-bip_39_word_new_line_10: 'blanket
-
-  foot
-
-  random
-
-  initial
-
-  net
-
-  banana
-
-  rough
-
-  ritual
-
-  cheap
-
-  trap'
-bip_39_word_new_line_11: 'blanket
-
-  foot
-
-  random
-
-  initial
-
-  net
-
-  banana
-
-  rough
-
-  ritual
-
-  cheap
-
-  trap
-
-  this'
 bip_39_word_new_line_12: 'blanket
 
   foot
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'blanket
   foot
 
   random'
-bip_39_word_new_line_4: 'blanket
-
-  foot
-
-  random
-
-  initial'
-bip_39_word_new_line_5: 'blanket
-
-  foot
-
-  random
-
-  initial
-
-  net'
-bip_39_word_new_line_6: 'blanket
-
-  foot
-
-  random
-
-  initial
-
-  net
-
-  banana'
-bip_39_word_new_line_7: 'blanket
-
-  foot
-
-  random
-
-  initial
-
-  net
-
-  banana
-
-  rough'
-bip_39_word_new_line_8: 'blanket
-
-  foot
-
-  random
-
-  initial
-
-  net
-
-  banana
-
-  rough
-
-  ritual'
-bip_39_word_new_line_9: 'blanket
-
-  foot
-
-  random
-
-  initial
-
-  net
-
-  banana
-
-  rough
-
-  ritual
-
-  cheap'
-bip_39_word_no_space_1: blanket
-bip_39_word_no_space_10: blanketfootrandominitialnetbananaroughritualcheaptrap
-bip_39_word_no_space_11: blanketfootrandominitialnetbananaroughritualcheaptrapthis
 bip_39_word_no_space_12: blanketfootrandominitialnetbananaroughritualcheaptrapthisarmed
 bip_39_word_no_space_2: blanketfoot
 bip_39_word_no_space_3: blanketfootrandom
-bip_39_word_no_space_4: blanketfootrandominitial
-bip_39_word_no_space_5: blanketfootrandominitialnet
-bip_39_word_no_space_6: blanketfootrandominitialnetbanana
-bip_39_word_no_space_7: blanketfootrandominitialnetbananarough
-bip_39_word_no_space_8: blanketfootrandominitialnetbananaroughritual
-bip_39_word_no_space_9: blanketfootrandominitialnetbananaroughritualcheap
-bip_39_word_space_0:
-- blanket
-- foot
-- random
-- initial
-- net
-- banana
-- rough
-- ritual
-- cheap
-- trap
-- this
-- armed
-bip_39_word_space_1: blanket
-bip_39_word_space_10: blanket foot random initial net banana rough ritual cheap trap
-bip_39_word_space_11: blanket foot random initial net banana rough ritual cheap trap
-  this
 bip_39_word_space_12: blanket foot random initial net banana rough ritual cheap trap
   this armed
 bip_39_word_space_2: blanket foot
 bip_39_word_space_3: blanket foot random
-bip_39_word_space_4: blanket foot random initial
-bip_39_word_space_5: blanket foot random initial net
-bip_39_word_space_6: blanket foot random initial net banana
-bip_39_word_space_7: blanket foot random initial net banana rough
-bip_39_word_space_8: blanket foot random initial net banana rough ritual
-bip_39_word_space_9: blanket foot random initial net banana rough ritual cheap
-bip_39_word_underscore_1: blanket
-bip_39_word_underscore_10: blanket_foot_random_initial_net_banana_rough_ritual_cheap_trap
-bip_39_word_underscore_11: blanket_foot_random_initial_net_banana_rough_ritual_cheap_trap_this
 bip_39_word_underscore_12: blanket_foot_random_initial_net_banana_rough_ritual_cheap_trap_this_armed
 bip_39_word_underscore_2: blanket_foot
 bip_39_word_underscore_3: blanket_foot_random
-bip_39_word_underscore_4: blanket_foot_random_initial
-bip_39_word_underscore_5: blanket_foot_random_initial_net
-bip_39_word_underscore_6: blanket_foot_random_initial_net_banana
-bip_39_word_underscore_7: blanket_foot_random_initial_net_banana_rough
-bip_39_word_underscore_8: blanket_foot_random_initial_net_banana_rough_ritual
-bip_39_word_underscore_9: blanket_foot_random_initial_net_banana_rough_ritual_cheap
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

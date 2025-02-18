@@ -1,68 +1,9 @@
-bip_39_word_dash_1: weather
-bip_39_word_dash_10: weather-mask-bench-real-volcano-link-final-tornado-estate-rival
-bip_39_word_dash_11: weather-mask-bench-real-volcano-link-final-tornado-estate-rival-cup
 bip_39_word_dash_12: weather-mask-bench-real-volcano-link-final-tornado-estate-rival-cup-area
 bip_39_word_dash_2: weather-mask
 bip_39_word_dash_3: weather-mask-bench
-bip_39_word_dash_4: weather-mask-bench-real
-bip_39_word_dash_5: weather-mask-bench-real-volcano
-bip_39_word_dash_6: weather-mask-bench-real-volcano-link
-bip_39_word_dash_7: weather-mask-bench-real-volcano-link-final
-bip_39_word_dash_8: weather-mask-bench-real-volcano-link-final-tornado
-bip_39_word_dash_9: weather-mask-bench-real-volcano-link-final-tornado-estate
-bip_39_word_new_br_1: weather
-bip_39_word_new_br_10: weather<br>mask<br>bench<br>real<br>volcano<br>link<br>final<br>tornado<br>estate<br>rival
-bip_39_word_new_br_11: weather<br>mask<br>bench<br>real<br>volcano<br>link<br>final<br>tornado<br>estate<br>rival<br>cup
 bip_39_word_new_br_12: weather<br>mask<br>bench<br>real<br>volcano<br>link<br>final<br>tornado<br>estate<br>rival<br>cup<br>area
 bip_39_word_new_br_2: weather<br>mask
 bip_39_word_new_br_3: weather<br>mask<br>bench
-bip_39_word_new_br_4: weather<br>mask<br>bench<br>real
-bip_39_word_new_br_5: weather<br>mask<br>bench<br>real<br>volcano
-bip_39_word_new_br_6: weather<br>mask<br>bench<br>real<br>volcano<br>link
-bip_39_word_new_br_7: weather<br>mask<br>bench<br>real<br>volcano<br>link<br>final
-bip_39_word_new_br_8: weather<br>mask<br>bench<br>real<br>volcano<br>link<br>final<br>tornado
-bip_39_word_new_br_9: weather<br>mask<br>bench<br>real<br>volcano<br>link<br>final<br>tornado<br>estate
-bip_39_word_new_line_1: weather
-bip_39_word_new_line_10: 'weather
-
-  mask
-
-  bench
-
-  real
-
-  volcano
-
-  link
-
-  final
-
-  tornado
-
-  estate
-
-  rival'
-bip_39_word_new_line_11: 'weather
-
-  mask
-
-  bench
-
-  real
-
-  volcano
-
-  link
-
-  final
-
-  tornado
-
-  estate
-
-  rival
-
-  cup'
 bip_39_word_new_line_12: 'weather
 
   mask
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'weather
   mask
 
   bench'
-bip_39_word_new_line_4: 'weather
-
-  mask
-
-  bench
-
-  real'
-bip_39_word_new_line_5: 'weather
-
-  mask
-
-  bench
-
-  real
-
-  volcano'
-bip_39_word_new_line_6: 'weather
-
-  mask
-
-  bench
-
-  real
-
-  volcano
-
-  link'
-bip_39_word_new_line_7: 'weather
-
-  mask
-
-  bench
-
-  real
-
-  volcano
-
-  link
-
-  final'
-bip_39_word_new_line_8: 'weather
-
-  mask
-
-  bench
-
-  real
-
-  volcano
-
-  link
-
-  final
-
-  tornado'
-bip_39_word_new_line_9: 'weather
-
-  mask
-
-  bench
-
-  real
-
-  volcano
-
-  link
-
-  final
-
-  tornado
-
-  estate'
-bip_39_word_no_space_1: weather
-bip_39_word_no_space_10: weathermaskbenchrealvolcanolinkfinaltornadoestaterival
-bip_39_word_no_space_11: weathermaskbenchrealvolcanolinkfinaltornadoestaterivalcup
 bip_39_word_no_space_12: weathermaskbenchrealvolcanolinkfinaltornadoestaterivalcuparea
 bip_39_word_no_space_2: weathermask
 bip_39_word_no_space_3: weathermaskbench
-bip_39_word_no_space_4: weathermaskbenchreal
-bip_39_word_no_space_5: weathermaskbenchrealvolcano
-bip_39_word_no_space_6: weathermaskbenchrealvolcanolink
-bip_39_word_no_space_7: weathermaskbenchrealvolcanolinkfinal
-bip_39_word_no_space_8: weathermaskbenchrealvolcanolinkfinaltornado
-bip_39_word_no_space_9: weathermaskbenchrealvolcanolinkfinaltornadoestate
-bip_39_word_space_0:
-- weather
-- mask
-- bench
-- real
-- volcano
-- link
-- final
-- tornado
-- estate
-- rival
-- cup
-- area
-bip_39_word_space_1: weather
-bip_39_word_space_10: weather mask bench real volcano link final tornado estate rival
-bip_39_word_space_11: weather mask bench real volcano link final tornado estate rival
-  cup
 bip_39_word_space_12: weather mask bench real volcano link final tornado estate rival
   cup area
 bip_39_word_space_2: weather mask
 bip_39_word_space_3: weather mask bench
-bip_39_word_space_4: weather mask bench real
-bip_39_word_space_5: weather mask bench real volcano
-bip_39_word_space_6: weather mask bench real volcano link
-bip_39_word_space_7: weather mask bench real volcano link final
-bip_39_word_space_8: weather mask bench real volcano link final tornado
-bip_39_word_space_9: weather mask bench real volcano link final tornado estate
-bip_39_word_underscore_1: weather
-bip_39_word_underscore_10: weather_mask_bench_real_volcano_link_final_tornado_estate_rival
-bip_39_word_underscore_11: weather_mask_bench_real_volcano_link_final_tornado_estate_rival_cup
 bip_39_word_underscore_12: weather_mask_bench_real_volcano_link_final_tornado_estate_rival_cup_area
 bip_39_word_underscore_2: weather_mask
 bip_39_word_underscore_3: weather_mask_bench
-bip_39_word_underscore_4: weather_mask_bench_real
-bip_39_word_underscore_5: weather_mask_bench_real_volcano
-bip_39_word_underscore_6: weather_mask_bench_real_volcano_link
-bip_39_word_underscore_7: weather_mask_bench_real_volcano_link_final
-bip_39_word_underscore_8: weather_mask_bench_real_volcano_link_final_tornado
-bip_39_word_underscore_9: weather_mask_bench_real_volcano_link_final_tornado_estate
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

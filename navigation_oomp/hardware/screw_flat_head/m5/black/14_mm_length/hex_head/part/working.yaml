@@ -1,68 +1,9 @@
-bip_39_word_dash_1: luggage
-bip_39_word_dash_10: luggage-renew-vanish-vehicle-brain-purse-welcome-range-army-ring
-bip_39_word_dash_11: luggage-renew-vanish-vehicle-brain-purse-welcome-range-army-ring-gold
 bip_39_word_dash_12: luggage-renew-vanish-vehicle-brain-purse-welcome-range-army-ring-gold-about
 bip_39_word_dash_2: luggage-renew
 bip_39_word_dash_3: luggage-renew-vanish
-bip_39_word_dash_4: luggage-renew-vanish-vehicle
-bip_39_word_dash_5: luggage-renew-vanish-vehicle-brain
-bip_39_word_dash_6: luggage-renew-vanish-vehicle-brain-purse
-bip_39_word_dash_7: luggage-renew-vanish-vehicle-brain-purse-welcome
-bip_39_word_dash_8: luggage-renew-vanish-vehicle-brain-purse-welcome-range
-bip_39_word_dash_9: luggage-renew-vanish-vehicle-brain-purse-welcome-range-army
-bip_39_word_new_br_1: luggage
-bip_39_word_new_br_10: luggage<br>renew<br>vanish<br>vehicle<br>brain<br>purse<br>welcome<br>range<br>army<br>ring
-bip_39_word_new_br_11: luggage<br>renew<br>vanish<br>vehicle<br>brain<br>purse<br>welcome<br>range<br>army<br>ring<br>gold
 bip_39_word_new_br_12: luggage<br>renew<br>vanish<br>vehicle<br>brain<br>purse<br>welcome<br>range<br>army<br>ring<br>gold<br>about
 bip_39_word_new_br_2: luggage<br>renew
 bip_39_word_new_br_3: luggage<br>renew<br>vanish
-bip_39_word_new_br_4: luggage<br>renew<br>vanish<br>vehicle
-bip_39_word_new_br_5: luggage<br>renew<br>vanish<br>vehicle<br>brain
-bip_39_word_new_br_6: luggage<br>renew<br>vanish<br>vehicle<br>brain<br>purse
-bip_39_word_new_br_7: luggage<br>renew<br>vanish<br>vehicle<br>brain<br>purse<br>welcome
-bip_39_word_new_br_8: luggage<br>renew<br>vanish<br>vehicle<br>brain<br>purse<br>welcome<br>range
-bip_39_word_new_br_9: luggage<br>renew<br>vanish<br>vehicle<br>brain<br>purse<br>welcome<br>range<br>army
-bip_39_word_new_line_1: luggage
-bip_39_word_new_line_10: 'luggage
-
-  renew
-
-  vanish
-
-  vehicle
-
-  brain
-
-  purse
-
-  welcome
-
-  range
-
-  army
-
-  ring'
-bip_39_word_new_line_11: 'luggage
-
-  renew
-
-  vanish
-
-  vehicle
-
-  brain
-
-  purse
-
-  welcome
-
-  range
-
-  army
-
-  ring
-
-  gold'
 bip_39_word_new_line_12: 'luggage
 
   renew
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'luggage
   renew
 
   vanish'
-bip_39_word_new_line_4: 'luggage
-
-  renew
-
-  vanish
-
-  vehicle'
-bip_39_word_new_line_5: 'luggage
-
-  renew
-
-  vanish
-
-  vehicle
-
-  brain'
-bip_39_word_new_line_6: 'luggage
-
-  renew
-
-  vanish
-
-  vehicle
-
-  brain
-
-  purse'
-bip_39_word_new_line_7: 'luggage
-
-  renew
-
-  vanish
-
-  vehicle
-
-  brain
-
-  purse
-
-  welcome'
-bip_39_word_new_line_8: 'luggage
-
-  renew
-
-  vanish
-
-  vehicle
-
-  brain
-
-  purse
-
-  welcome
-
-  range'
-bip_39_word_new_line_9: 'luggage
-
-  renew
-
-  vanish
-
-  vehicle
-
-  brain
-
-  purse
-
-  welcome
-
-  range
-
-  army'
-bip_39_word_no_space_1: luggage
-bip_39_word_no_space_10: luggagerenewvanishvehiclebrainpursewelcomerangearmyring
-bip_39_word_no_space_11: luggagerenewvanishvehiclebrainpursewelcomerangearmyringgold
 bip_39_word_no_space_12: luggagerenewvanishvehiclebrainpursewelcomerangearmyringgoldabout
 bip_39_word_no_space_2: luggagerenew
 bip_39_word_no_space_3: luggagerenewvanish
-bip_39_word_no_space_4: luggagerenewvanishvehicle
-bip_39_word_no_space_5: luggagerenewvanishvehiclebrain
-bip_39_word_no_space_6: luggagerenewvanishvehiclebrainpurse
-bip_39_word_no_space_7: luggagerenewvanishvehiclebrainpursewelcome
-bip_39_word_no_space_8: luggagerenewvanishvehiclebrainpursewelcomerange
-bip_39_word_no_space_9: luggagerenewvanishvehiclebrainpursewelcomerangearmy
-bip_39_word_space_0:
-- luggage
-- renew
-- vanish
-- vehicle
-- brain
-- purse
-- welcome
-- range
-- army
-- ring
-- gold
-- about
-bip_39_word_space_1: luggage
-bip_39_word_space_10: luggage renew vanish vehicle brain purse welcome range army
-  ring
-bip_39_word_space_11: luggage renew vanish vehicle brain purse welcome range army
-  ring gold
 bip_39_word_space_12: luggage renew vanish vehicle brain purse welcome range army
   ring gold about
 bip_39_word_space_2: luggage renew
 bip_39_word_space_3: luggage renew vanish
-bip_39_word_space_4: luggage renew vanish vehicle
-bip_39_word_space_5: luggage renew vanish vehicle brain
-bip_39_word_space_6: luggage renew vanish vehicle brain purse
-bip_39_word_space_7: luggage renew vanish vehicle brain purse welcome
-bip_39_word_space_8: luggage renew vanish vehicle brain purse welcome range
-bip_39_word_space_9: luggage renew vanish vehicle brain purse welcome range army
-bip_39_word_underscore_1: luggage
-bip_39_word_underscore_10: luggage_renew_vanish_vehicle_brain_purse_welcome_range_army_ring
-bip_39_word_underscore_11: luggage_renew_vanish_vehicle_brain_purse_welcome_range_army_ring_gold
 bip_39_word_underscore_12: luggage_renew_vanish_vehicle_brain_purse_welcome_range_army_ring_gold_about
 bip_39_word_underscore_2: luggage_renew
 bip_39_word_underscore_3: luggage_renew_vanish
-bip_39_word_underscore_4: luggage_renew_vanish_vehicle
-bip_39_word_underscore_5: luggage_renew_vanish_vehicle_brain
-bip_39_word_underscore_6: luggage_renew_vanish_vehicle_brain_purse
-bip_39_word_underscore_7: luggage_renew_vanish_vehicle_brain_purse_welcome
-bip_39_word_underscore_8: luggage_renew_vanish_vehicle_brain_purse_welcome_range
-bip_39_word_underscore_9: luggage_renew_vanish_vehicle_brain_purse_welcome_range_army
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

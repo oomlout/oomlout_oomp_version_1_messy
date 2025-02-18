@@ -1,68 +1,9 @@
-bip_39_word_dash_1: suit
-bip_39_word_dash_10: suit-sock-ramp-whale-whip-hedgehog-safe-zoo-tip-survey
-bip_39_word_dash_11: suit-sock-ramp-whale-whip-hedgehog-safe-zoo-tip-survey-outdoor
 bip_39_word_dash_12: suit-sock-ramp-whale-whip-hedgehog-safe-zoo-tip-survey-outdoor-angry
 bip_39_word_dash_2: suit-sock
 bip_39_word_dash_3: suit-sock-ramp
-bip_39_word_dash_4: suit-sock-ramp-whale
-bip_39_word_dash_5: suit-sock-ramp-whale-whip
-bip_39_word_dash_6: suit-sock-ramp-whale-whip-hedgehog
-bip_39_word_dash_7: suit-sock-ramp-whale-whip-hedgehog-safe
-bip_39_word_dash_8: suit-sock-ramp-whale-whip-hedgehog-safe-zoo
-bip_39_word_dash_9: suit-sock-ramp-whale-whip-hedgehog-safe-zoo-tip
-bip_39_word_new_br_1: suit
-bip_39_word_new_br_10: suit<br>sock<br>ramp<br>whale<br>whip<br>hedgehog<br>safe<br>zoo<br>tip<br>survey
-bip_39_word_new_br_11: suit<br>sock<br>ramp<br>whale<br>whip<br>hedgehog<br>safe<br>zoo<br>tip<br>survey<br>outdoor
 bip_39_word_new_br_12: suit<br>sock<br>ramp<br>whale<br>whip<br>hedgehog<br>safe<br>zoo<br>tip<br>survey<br>outdoor<br>angry
 bip_39_word_new_br_2: suit<br>sock
 bip_39_word_new_br_3: suit<br>sock<br>ramp
-bip_39_word_new_br_4: suit<br>sock<br>ramp<br>whale
-bip_39_word_new_br_5: suit<br>sock<br>ramp<br>whale<br>whip
-bip_39_word_new_br_6: suit<br>sock<br>ramp<br>whale<br>whip<br>hedgehog
-bip_39_word_new_br_7: suit<br>sock<br>ramp<br>whale<br>whip<br>hedgehog<br>safe
-bip_39_word_new_br_8: suit<br>sock<br>ramp<br>whale<br>whip<br>hedgehog<br>safe<br>zoo
-bip_39_word_new_br_9: suit<br>sock<br>ramp<br>whale<br>whip<br>hedgehog<br>safe<br>zoo<br>tip
-bip_39_word_new_line_1: suit
-bip_39_word_new_line_10: 'suit
-
-  sock
-
-  ramp
-
-  whale
-
-  whip
-
-  hedgehog
-
-  safe
-
-  zoo
-
-  tip
-
-  survey'
-bip_39_word_new_line_11: 'suit
-
-  sock
-
-  ramp
-
-  whale
-
-  whip
-
-  hedgehog
-
-  safe
-
-  zoo
-
-  tip
-
-  survey
-
-  outdoor'
 bip_39_word_new_line_12: 'suit
 
   sock
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'suit
   sock
 
   ramp'
-bip_39_word_new_line_4: 'suit
-
-  sock
-
-  ramp
-
-  whale'
-bip_39_word_new_line_5: 'suit
-
-  sock
-
-  ramp
-
-  whale
-
-  whip'
-bip_39_word_new_line_6: 'suit
-
-  sock
-
-  ramp
-
-  whale
-
-  whip
-
-  hedgehog'
-bip_39_word_new_line_7: 'suit
-
-  sock
-
-  ramp
-
-  whale
-
-  whip
-
-  hedgehog
-
-  safe'
-bip_39_word_new_line_8: 'suit
-
-  sock
-
-  ramp
-
-  whale
-
-  whip
-
-  hedgehog
-
-  safe
-
-  zoo'
-bip_39_word_new_line_9: 'suit
-
-  sock
-
-  ramp
-
-  whale
-
-  whip
-
-  hedgehog
-
-  safe
-
-  zoo
-
-  tip'
-bip_39_word_no_space_1: suit
-bip_39_word_no_space_10: suitsockrampwhalewhiphedgehogsafezootipsurvey
-bip_39_word_no_space_11: suitsockrampwhalewhiphedgehogsafezootipsurveyoutdoor
 bip_39_word_no_space_12: suitsockrampwhalewhiphedgehogsafezootipsurveyoutdoorangry
 bip_39_word_no_space_2: suitsock
 bip_39_word_no_space_3: suitsockramp
-bip_39_word_no_space_4: suitsockrampwhale
-bip_39_word_no_space_5: suitsockrampwhalewhip
-bip_39_word_no_space_6: suitsockrampwhalewhiphedgehog
-bip_39_word_no_space_7: suitsockrampwhalewhiphedgehogsafe
-bip_39_word_no_space_8: suitsockrampwhalewhiphedgehogsafezoo
-bip_39_word_no_space_9: suitsockrampwhalewhiphedgehogsafezootip
-bip_39_word_space_0:
-- suit
-- sock
-- ramp
-- whale
-- whip
-- hedgehog
-- safe
-- zoo
-- tip
-- survey
-- outdoor
-- angry
-bip_39_word_space_1: suit
-bip_39_word_space_10: suit sock ramp whale whip hedgehog safe zoo tip survey
-bip_39_word_space_11: suit sock ramp whale whip hedgehog safe zoo tip survey outdoor
 bip_39_word_space_12: suit sock ramp whale whip hedgehog safe zoo tip survey outdoor
   angry
 bip_39_word_space_2: suit sock
 bip_39_word_space_3: suit sock ramp
-bip_39_word_space_4: suit sock ramp whale
-bip_39_word_space_5: suit sock ramp whale whip
-bip_39_word_space_6: suit sock ramp whale whip hedgehog
-bip_39_word_space_7: suit sock ramp whale whip hedgehog safe
-bip_39_word_space_8: suit sock ramp whale whip hedgehog safe zoo
-bip_39_word_space_9: suit sock ramp whale whip hedgehog safe zoo tip
-bip_39_word_underscore_1: suit
-bip_39_word_underscore_10: suit_sock_ramp_whale_whip_hedgehog_safe_zoo_tip_survey
-bip_39_word_underscore_11: suit_sock_ramp_whale_whip_hedgehog_safe_zoo_tip_survey_outdoor
 bip_39_word_underscore_12: suit_sock_ramp_whale_whip_hedgehog_safe_zoo_tip_survey_outdoor_angry
 bip_39_word_underscore_2: suit_sock
 bip_39_word_underscore_3: suit_sock_ramp
-bip_39_word_underscore_4: suit_sock_ramp_whale
-bip_39_word_underscore_5: suit_sock_ramp_whale_whip
-bip_39_word_underscore_6: suit_sock_ramp_whale_whip_hedgehog
-bip_39_word_underscore_7: suit_sock_ramp_whale_whip_hedgehog_safe
-bip_39_word_underscore_8: suit_sock_ramp_whale_whip_hedgehog_safe_zoo
-bip_39_word_underscore_9: suit_sock_ramp_whale_whip_hedgehog_safe_zoo_tip
 classification: category
 classification_capital: Category
 classification_first_letter: c

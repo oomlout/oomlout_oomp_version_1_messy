@@ -1,68 +1,9 @@
-bip_39_word_dash_1: produce
-bip_39_word_dash_10: produce-coffee-powder-bring-live-flee-avoid-assist-boss-bench
-bip_39_word_dash_11: produce-coffee-powder-bring-live-flee-avoid-assist-boss-bench-child
 bip_39_word_dash_12: produce-coffee-powder-bring-live-flee-avoid-assist-boss-bench-child-armor
 bip_39_word_dash_2: produce-coffee
 bip_39_word_dash_3: produce-coffee-powder
-bip_39_word_dash_4: produce-coffee-powder-bring
-bip_39_word_dash_5: produce-coffee-powder-bring-live
-bip_39_word_dash_6: produce-coffee-powder-bring-live-flee
-bip_39_word_dash_7: produce-coffee-powder-bring-live-flee-avoid
-bip_39_word_dash_8: produce-coffee-powder-bring-live-flee-avoid-assist
-bip_39_word_dash_9: produce-coffee-powder-bring-live-flee-avoid-assist-boss
-bip_39_word_new_br_1: produce
-bip_39_word_new_br_10: produce<br>coffee<br>powder<br>bring<br>live<br>flee<br>avoid<br>assist<br>boss<br>bench
-bip_39_word_new_br_11: produce<br>coffee<br>powder<br>bring<br>live<br>flee<br>avoid<br>assist<br>boss<br>bench<br>child
 bip_39_word_new_br_12: produce<br>coffee<br>powder<br>bring<br>live<br>flee<br>avoid<br>assist<br>boss<br>bench<br>child<br>armor
 bip_39_word_new_br_2: produce<br>coffee
 bip_39_word_new_br_3: produce<br>coffee<br>powder
-bip_39_word_new_br_4: produce<br>coffee<br>powder<br>bring
-bip_39_word_new_br_5: produce<br>coffee<br>powder<br>bring<br>live
-bip_39_word_new_br_6: produce<br>coffee<br>powder<br>bring<br>live<br>flee
-bip_39_word_new_br_7: produce<br>coffee<br>powder<br>bring<br>live<br>flee<br>avoid
-bip_39_word_new_br_8: produce<br>coffee<br>powder<br>bring<br>live<br>flee<br>avoid<br>assist
-bip_39_word_new_br_9: produce<br>coffee<br>powder<br>bring<br>live<br>flee<br>avoid<br>assist<br>boss
-bip_39_word_new_line_1: produce
-bip_39_word_new_line_10: 'produce
-
-  coffee
-
-  powder
-
-  bring
-
-  live
-
-  flee
-
-  avoid
-
-  assist
-
-  boss
-
-  bench'
-bip_39_word_new_line_11: 'produce
-
-  coffee
-
-  powder
-
-  bring
-
-  live
-
-  flee
-
-  avoid
-
-  assist
-
-  boss
-
-  bench
-
-  child'
 bip_39_word_new_line_12: 'produce
 
   coffee
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'produce
   coffee
 
   powder'
-bip_39_word_new_line_4: 'produce
-
-  coffee
-
-  powder
-
-  bring'
-bip_39_word_new_line_5: 'produce
-
-  coffee
-
-  powder
-
-  bring
-
-  live'
-bip_39_word_new_line_6: 'produce
-
-  coffee
-
-  powder
-
-  bring
-
-  live
-
-  flee'
-bip_39_word_new_line_7: 'produce
-
-  coffee
-
-  powder
-
-  bring
-
-  live
-
-  flee
-
-  avoid'
-bip_39_word_new_line_8: 'produce
-
-  coffee
-
-  powder
-
-  bring
-
-  live
-
-  flee
-
-  avoid
-
-  assist'
-bip_39_word_new_line_9: 'produce
-
-  coffee
-
-  powder
-
-  bring
-
-  live
-
-  flee
-
-  avoid
-
-  assist
-
-  boss'
-bip_39_word_no_space_1: produce
-bip_39_word_no_space_10: producecoffeepowderbringlivefleeavoidassistbossbench
-bip_39_word_no_space_11: producecoffeepowderbringlivefleeavoidassistbossbenchchild
 bip_39_word_no_space_12: producecoffeepowderbringlivefleeavoidassistbossbenchchildarmor
 bip_39_word_no_space_2: producecoffee
 bip_39_word_no_space_3: producecoffeepowder
-bip_39_word_no_space_4: producecoffeepowderbring
-bip_39_word_no_space_5: producecoffeepowderbringlive
-bip_39_word_no_space_6: producecoffeepowderbringliveflee
-bip_39_word_no_space_7: producecoffeepowderbringlivefleeavoid
-bip_39_word_no_space_8: producecoffeepowderbringlivefleeavoidassist
-bip_39_word_no_space_9: producecoffeepowderbringlivefleeavoidassistboss
-bip_39_word_space_0:
-- produce
-- coffee
-- powder
-- bring
-- live
-- flee
-- avoid
-- assist
-- boss
-- bench
-- child
-- armor
-bip_39_word_space_1: produce
-bip_39_word_space_10: produce coffee powder bring live flee avoid assist boss bench
-bip_39_word_space_11: produce coffee powder bring live flee avoid assist boss bench
-  child
 bip_39_word_space_12: produce coffee powder bring live flee avoid assist boss bench
   child armor
 bip_39_word_space_2: produce coffee
 bip_39_word_space_3: produce coffee powder
-bip_39_word_space_4: produce coffee powder bring
-bip_39_word_space_5: produce coffee powder bring live
-bip_39_word_space_6: produce coffee powder bring live flee
-bip_39_word_space_7: produce coffee powder bring live flee avoid
-bip_39_word_space_8: produce coffee powder bring live flee avoid assist
-bip_39_word_space_9: produce coffee powder bring live flee avoid assist boss
-bip_39_word_underscore_1: produce
-bip_39_word_underscore_10: produce_coffee_powder_bring_live_flee_avoid_assist_boss_bench
-bip_39_word_underscore_11: produce_coffee_powder_bring_live_flee_avoid_assist_boss_bench_child
 bip_39_word_underscore_12: produce_coffee_powder_bring_live_flee_avoid_assist_boss_bench_child_armor
 bip_39_word_underscore_2: produce_coffee
 bip_39_word_underscore_3: produce_coffee_powder
-bip_39_word_underscore_4: produce_coffee_powder_bring
-bip_39_word_underscore_5: produce_coffee_powder_bring_live
-bip_39_word_underscore_6: produce_coffee_powder_bring_live_flee
-bip_39_word_underscore_7: produce_coffee_powder_bring_live_flee_avoid
-bip_39_word_underscore_8: produce_coffee_powder_bring_live_flee_avoid_assist
-bip_39_word_underscore_9: produce_coffee_powder_bring_live_flee_avoid_assist_boss
 classification: food
 classification_capital: Food
 classification_first_letter: f

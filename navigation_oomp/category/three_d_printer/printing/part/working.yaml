@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scorpion
-bip_39_word_dash_10: scorpion-pave-jacket-carry-prize-retire-disease-lion-satoshi-potato
-bip_39_word_dash_11: scorpion-pave-jacket-carry-prize-retire-disease-lion-satoshi-potato-athlete
 bip_39_word_dash_12: scorpion-pave-jacket-carry-prize-retire-disease-lion-satoshi-potato-athlete-aunt
 bip_39_word_dash_2: scorpion-pave
 bip_39_word_dash_3: scorpion-pave-jacket
-bip_39_word_dash_4: scorpion-pave-jacket-carry
-bip_39_word_dash_5: scorpion-pave-jacket-carry-prize
-bip_39_word_dash_6: scorpion-pave-jacket-carry-prize-retire
-bip_39_word_dash_7: scorpion-pave-jacket-carry-prize-retire-disease
-bip_39_word_dash_8: scorpion-pave-jacket-carry-prize-retire-disease-lion
-bip_39_word_dash_9: scorpion-pave-jacket-carry-prize-retire-disease-lion-satoshi
-bip_39_word_new_br_1: scorpion
-bip_39_word_new_br_10: scorpion<br>pave<br>jacket<br>carry<br>prize<br>retire<br>disease<br>lion<br>satoshi<br>potato
-bip_39_word_new_br_11: scorpion<br>pave<br>jacket<br>carry<br>prize<br>retire<br>disease<br>lion<br>satoshi<br>potato<br>athlete
 bip_39_word_new_br_12: scorpion<br>pave<br>jacket<br>carry<br>prize<br>retire<br>disease<br>lion<br>satoshi<br>potato<br>athlete<br>aunt
 bip_39_word_new_br_2: scorpion<br>pave
 bip_39_word_new_br_3: scorpion<br>pave<br>jacket
-bip_39_word_new_br_4: scorpion<br>pave<br>jacket<br>carry
-bip_39_word_new_br_5: scorpion<br>pave<br>jacket<br>carry<br>prize
-bip_39_word_new_br_6: scorpion<br>pave<br>jacket<br>carry<br>prize<br>retire
-bip_39_word_new_br_7: scorpion<br>pave<br>jacket<br>carry<br>prize<br>retire<br>disease
-bip_39_word_new_br_8: scorpion<br>pave<br>jacket<br>carry<br>prize<br>retire<br>disease<br>lion
-bip_39_word_new_br_9: scorpion<br>pave<br>jacket<br>carry<br>prize<br>retire<br>disease<br>lion<br>satoshi
-bip_39_word_new_line_1: scorpion
-bip_39_word_new_line_10: 'scorpion
-
-  pave
-
-  jacket
-
-  carry
-
-  prize
-
-  retire
-
-  disease
-
-  lion
-
-  satoshi
-
-  potato'
-bip_39_word_new_line_11: 'scorpion
-
-  pave
-
-  jacket
-
-  carry
-
-  prize
-
-  retire
-
-  disease
-
-  lion
-
-  satoshi
-
-  potato
-
-  athlete'
 bip_39_word_new_line_12: 'scorpion
 
   pave
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scorpion
   pave
 
   jacket'
-bip_39_word_new_line_4: 'scorpion
-
-  pave
-
-  jacket
-
-  carry'
-bip_39_word_new_line_5: 'scorpion
-
-  pave
-
-  jacket
-
-  carry
-
-  prize'
-bip_39_word_new_line_6: 'scorpion
-
-  pave
-
-  jacket
-
-  carry
-
-  prize
-
-  retire'
-bip_39_word_new_line_7: 'scorpion
-
-  pave
-
-  jacket
-
-  carry
-
-  prize
-
-  retire
-
-  disease'
-bip_39_word_new_line_8: 'scorpion
-
-  pave
-
-  jacket
-
-  carry
-
-  prize
-
-  retire
-
-  disease
-
-  lion'
-bip_39_word_new_line_9: 'scorpion
-
-  pave
-
-  jacket
-
-  carry
-
-  prize
-
-  retire
-
-  disease
-
-  lion
-
-  satoshi'
-bip_39_word_no_space_1: scorpion
-bip_39_word_no_space_10: scorpionpavejacketcarryprizeretirediseaselionsatoshipotato
-bip_39_word_no_space_11: scorpionpavejacketcarryprizeretirediseaselionsatoshipotatoathlete
 bip_39_word_no_space_12: scorpionpavejacketcarryprizeretirediseaselionsatoshipotatoathleteaunt
 bip_39_word_no_space_2: scorpionpave
 bip_39_word_no_space_3: scorpionpavejacket
-bip_39_word_no_space_4: scorpionpavejacketcarry
-bip_39_word_no_space_5: scorpionpavejacketcarryprize
-bip_39_word_no_space_6: scorpionpavejacketcarryprizeretire
-bip_39_word_no_space_7: scorpionpavejacketcarryprizeretiredisease
-bip_39_word_no_space_8: scorpionpavejacketcarryprizeretirediseaselion
-bip_39_word_no_space_9: scorpionpavejacketcarryprizeretirediseaselionsatoshi
-bip_39_word_space_0:
-- scorpion
-- pave
-- jacket
-- carry
-- prize
-- retire
-- disease
-- lion
-- satoshi
-- potato
-- athlete
-- aunt
-bip_39_word_space_1: scorpion
-bip_39_word_space_10: scorpion pave jacket carry prize retire disease lion satoshi
-  potato
-bip_39_word_space_11: scorpion pave jacket carry prize retire disease lion satoshi
-  potato athlete
 bip_39_word_space_12: scorpion pave jacket carry prize retire disease lion satoshi
   potato athlete aunt
 bip_39_word_space_2: scorpion pave
 bip_39_word_space_3: scorpion pave jacket
-bip_39_word_space_4: scorpion pave jacket carry
-bip_39_word_space_5: scorpion pave jacket carry prize
-bip_39_word_space_6: scorpion pave jacket carry prize retire
-bip_39_word_space_7: scorpion pave jacket carry prize retire disease
-bip_39_word_space_8: scorpion pave jacket carry prize retire disease lion
-bip_39_word_space_9: scorpion pave jacket carry prize retire disease lion satoshi
-bip_39_word_underscore_1: scorpion
-bip_39_word_underscore_10: scorpion_pave_jacket_carry_prize_retire_disease_lion_satoshi_potato
-bip_39_word_underscore_11: scorpion_pave_jacket_carry_prize_retire_disease_lion_satoshi_potato_athlete
 bip_39_word_underscore_12: scorpion_pave_jacket_carry_prize_retire_disease_lion_satoshi_potato_athlete_aunt
 bip_39_word_underscore_2: scorpion_pave
 bip_39_word_underscore_3: scorpion_pave_jacket
-bip_39_word_underscore_4: scorpion_pave_jacket_carry
-bip_39_word_underscore_5: scorpion_pave_jacket_carry_prize
-bip_39_word_underscore_6: scorpion_pave_jacket_carry_prize_retire
-bip_39_word_underscore_7: scorpion_pave_jacket_carry_prize_retire_disease
-bip_39_word_underscore_8: scorpion_pave_jacket_carry_prize_retire_disease_lion
-bip_39_word_underscore_9: scorpion_pave_jacket_carry_prize_retire_disease_lion_satoshi
 classification: category
 classification_capital: Category
 classification_first_letter: c

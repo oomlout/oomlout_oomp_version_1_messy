@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grit
-bip_39_word_dash_10: grit-silent-horse-example-always-hundred-secret-strong-museum-need
-bip_39_word_dash_11: grit-silent-horse-example-always-hundred-secret-strong-museum-need-curtain
 bip_39_word_dash_12: grit-silent-horse-example-always-hundred-secret-strong-museum-need-curtain-atom
 bip_39_word_dash_2: grit-silent
 bip_39_word_dash_3: grit-silent-horse
-bip_39_word_dash_4: grit-silent-horse-example
-bip_39_word_dash_5: grit-silent-horse-example-always
-bip_39_word_dash_6: grit-silent-horse-example-always-hundred
-bip_39_word_dash_7: grit-silent-horse-example-always-hundred-secret
-bip_39_word_dash_8: grit-silent-horse-example-always-hundred-secret-strong
-bip_39_word_dash_9: grit-silent-horse-example-always-hundred-secret-strong-museum
-bip_39_word_new_br_1: grit
-bip_39_word_new_br_10: grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need
-bip_39_word_new_br_11: grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need<br>curtain
 bip_39_word_new_br_12: grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum<br>need<br>curtain<br>atom
 bip_39_word_new_br_2: grit<br>silent
 bip_39_word_new_br_3: grit<br>silent<br>horse
-bip_39_word_new_br_4: grit<br>silent<br>horse<br>example
-bip_39_word_new_br_5: grit<br>silent<br>horse<br>example<br>always
-bip_39_word_new_br_6: grit<br>silent<br>horse<br>example<br>always<br>hundred
-bip_39_word_new_br_7: grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret
-bip_39_word_new_br_8: grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong
-bip_39_word_new_br_9: grit<br>silent<br>horse<br>example<br>always<br>hundred<br>secret<br>strong<br>museum
-bip_39_word_new_line_1: grit
-bip_39_word_new_line_10: 'grit
-
-  silent
-
-  horse
-
-  example
-
-  always
-
-  hundred
-
-  secret
-
-  strong
-
-  museum
-
-  need'
-bip_39_word_new_line_11: 'grit
-
-  silent
-
-  horse
-
-  example
-
-  always
-
-  hundred
-
-  secret
-
-  strong
-
-  museum
-
-  need
-
-  curtain'
 bip_39_word_new_line_12: 'grit
 
   silent
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'grit
   silent
 
   horse'
-bip_39_word_new_line_4: 'grit
-
-  silent
-
-  horse
-
-  example'
-bip_39_word_new_line_5: 'grit
-
-  silent
-
-  horse
-
-  example
-
-  always'
-bip_39_word_new_line_6: 'grit
-
-  silent
-
-  horse
-
-  example
-
-  always
-
-  hundred'
-bip_39_word_new_line_7: 'grit
-
-  silent
-
-  horse
-
-  example
-
-  always
-
-  hundred
-
-  secret'
-bip_39_word_new_line_8: 'grit
-
-  silent
-
-  horse
-
-  example
-
-  always
-
-  hundred
-
-  secret
-
-  strong'
-bip_39_word_new_line_9: 'grit
-
-  silent
-
-  horse
-
-  example
-
-  always
-
-  hundred
-
-  secret
-
-  strong
-
-  museum'
-bip_39_word_no_space_1: grit
-bip_39_word_no_space_10: gritsilenthorseexamplealwayshundredsecretstrongmuseumneed
-bip_39_word_no_space_11: gritsilenthorseexamplealwayshundredsecretstrongmuseumneedcurtain
 bip_39_word_no_space_12: gritsilenthorseexamplealwayshundredsecretstrongmuseumneedcurtainatom
 bip_39_word_no_space_2: gritsilent
 bip_39_word_no_space_3: gritsilenthorse
-bip_39_word_no_space_4: gritsilenthorseexample
-bip_39_word_no_space_5: gritsilenthorseexamplealways
-bip_39_word_no_space_6: gritsilenthorseexamplealwayshundred
-bip_39_word_no_space_7: gritsilenthorseexamplealwayshundredsecret
-bip_39_word_no_space_8: gritsilenthorseexamplealwayshundredsecretstrong
-bip_39_word_no_space_9: gritsilenthorseexamplealwayshundredsecretstrongmuseum
-bip_39_word_space_0:
-- grit
-- silent
-- horse
-- example
-- always
-- hundred
-- secret
-- strong
-- museum
-- need
-- curtain
-- atom
-bip_39_word_space_1: grit
-bip_39_word_space_10: grit silent horse example always hundred secret strong museum
-  need
-bip_39_word_space_11: grit silent horse example always hundred secret strong museum
-  need curtain
 bip_39_word_space_12: grit silent horse example always hundred secret strong museum
   need curtain atom
 bip_39_word_space_2: grit silent
 bip_39_word_space_3: grit silent horse
-bip_39_word_space_4: grit silent horse example
-bip_39_word_space_5: grit silent horse example always
-bip_39_word_space_6: grit silent horse example always hundred
-bip_39_word_space_7: grit silent horse example always hundred secret
-bip_39_word_space_8: grit silent horse example always hundred secret strong
-bip_39_word_space_9: grit silent horse example always hundred secret strong museum
-bip_39_word_underscore_1: grit
-bip_39_word_underscore_10: grit_silent_horse_example_always_hundred_secret_strong_museum_need
-bip_39_word_underscore_11: grit_silent_horse_example_always_hundred_secret_strong_museum_need_curtain
 bip_39_word_underscore_12: grit_silent_horse_example_always_hundred_secret_strong_museum_need_curtain_atom
 bip_39_word_underscore_2: grit_silent
 bip_39_word_underscore_3: grit_silent_horse
-bip_39_word_underscore_4: grit_silent_horse_example
-bip_39_word_underscore_5: grit_silent_horse_example_always
-bip_39_word_underscore_6: grit_silent_horse_example_always_hundred
-bip_39_word_underscore_7: grit_silent_horse_example_always_hundred_secret
-bip_39_word_underscore_8: grit_silent_horse_example_always_hundred_secret_strong
-bip_39_word_underscore_9: grit_silent_horse_example_always_hundred_secret_strong_museum
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

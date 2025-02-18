@@ -1,68 +1,9 @@
-bip_39_word_dash_1: define
-bip_39_word_dash_10: define-sustain-mesh-neglect-hint-angry-portion-cry-proof-enough
-bip_39_word_dash_11: define-sustain-mesh-neglect-hint-angry-portion-cry-proof-enough-rain
 bip_39_word_dash_12: define-sustain-mesh-neglect-hint-angry-portion-cry-proof-enough-rain-auction
 bip_39_word_dash_2: define-sustain
 bip_39_word_dash_3: define-sustain-mesh
-bip_39_word_dash_4: define-sustain-mesh-neglect
-bip_39_word_dash_5: define-sustain-mesh-neglect-hint
-bip_39_word_dash_6: define-sustain-mesh-neglect-hint-angry
-bip_39_word_dash_7: define-sustain-mesh-neglect-hint-angry-portion
-bip_39_word_dash_8: define-sustain-mesh-neglect-hint-angry-portion-cry
-bip_39_word_dash_9: define-sustain-mesh-neglect-hint-angry-portion-cry-proof
-bip_39_word_new_br_1: define
-bip_39_word_new_br_10: define<br>sustain<br>mesh<br>neglect<br>hint<br>angry<br>portion<br>cry<br>proof<br>enough
-bip_39_word_new_br_11: define<br>sustain<br>mesh<br>neglect<br>hint<br>angry<br>portion<br>cry<br>proof<br>enough<br>rain
 bip_39_word_new_br_12: define<br>sustain<br>mesh<br>neglect<br>hint<br>angry<br>portion<br>cry<br>proof<br>enough<br>rain<br>auction
 bip_39_word_new_br_2: define<br>sustain
 bip_39_word_new_br_3: define<br>sustain<br>mesh
-bip_39_word_new_br_4: define<br>sustain<br>mesh<br>neglect
-bip_39_word_new_br_5: define<br>sustain<br>mesh<br>neglect<br>hint
-bip_39_word_new_br_6: define<br>sustain<br>mesh<br>neglect<br>hint<br>angry
-bip_39_word_new_br_7: define<br>sustain<br>mesh<br>neglect<br>hint<br>angry<br>portion
-bip_39_word_new_br_8: define<br>sustain<br>mesh<br>neglect<br>hint<br>angry<br>portion<br>cry
-bip_39_word_new_br_9: define<br>sustain<br>mesh<br>neglect<br>hint<br>angry<br>portion<br>cry<br>proof
-bip_39_word_new_line_1: define
-bip_39_word_new_line_10: 'define
-
-  sustain
-
-  mesh
-
-  neglect
-
-  hint
-
-  angry
-
-  portion
-
-  cry
-
-  proof
-
-  enough'
-bip_39_word_new_line_11: 'define
-
-  sustain
-
-  mesh
-
-  neglect
-
-  hint
-
-  angry
-
-  portion
-
-  cry
-
-  proof
-
-  enough
-
-  rain'
 bip_39_word_new_line_12: 'define
 
   sustain
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'define
   sustain
 
   mesh'
-bip_39_word_new_line_4: 'define
-
-  sustain
-
-  mesh
-
-  neglect'
-bip_39_word_new_line_5: 'define
-
-  sustain
-
-  mesh
-
-  neglect
-
-  hint'
-bip_39_word_new_line_6: 'define
-
-  sustain
-
-  mesh
-
-  neglect
-
-  hint
-
-  angry'
-bip_39_word_new_line_7: 'define
-
-  sustain
-
-  mesh
-
-  neglect
-
-  hint
-
-  angry
-
-  portion'
-bip_39_word_new_line_8: 'define
-
-  sustain
-
-  mesh
-
-  neglect
-
-  hint
-
-  angry
-
-  portion
-
-  cry'
-bip_39_word_new_line_9: 'define
-
-  sustain
-
-  mesh
-
-  neglect
-
-  hint
-
-  angry
-
-  portion
-
-  cry
-
-  proof'
-bip_39_word_no_space_1: define
-bip_39_word_no_space_10: definesustainmeshneglecthintangryportioncryproofenough
-bip_39_word_no_space_11: definesustainmeshneglecthintangryportioncryproofenoughrain
 bip_39_word_no_space_12: definesustainmeshneglecthintangryportioncryproofenoughrainauction
 bip_39_word_no_space_2: definesustain
 bip_39_word_no_space_3: definesustainmesh
-bip_39_word_no_space_4: definesustainmeshneglect
-bip_39_word_no_space_5: definesustainmeshneglecthint
-bip_39_word_no_space_6: definesustainmeshneglecthintangry
-bip_39_word_no_space_7: definesustainmeshneglecthintangryportion
-bip_39_word_no_space_8: definesustainmeshneglecthintangryportioncry
-bip_39_word_no_space_9: definesustainmeshneglecthintangryportioncryproof
-bip_39_word_space_0:
-- define
-- sustain
-- mesh
-- neglect
-- hint
-- angry
-- portion
-- cry
-- proof
-- enough
-- rain
-- auction
-bip_39_word_space_1: define
-bip_39_word_space_10: define sustain mesh neglect hint angry portion cry proof enough
-bip_39_word_space_11: define sustain mesh neglect hint angry portion cry proof enough
-  rain
 bip_39_word_space_12: define sustain mesh neglect hint angry portion cry proof enough
   rain auction
 bip_39_word_space_2: define sustain
 bip_39_word_space_3: define sustain mesh
-bip_39_word_space_4: define sustain mesh neglect
-bip_39_word_space_5: define sustain mesh neglect hint
-bip_39_word_space_6: define sustain mesh neglect hint angry
-bip_39_word_space_7: define sustain mesh neglect hint angry portion
-bip_39_word_space_8: define sustain mesh neglect hint angry portion cry
-bip_39_word_space_9: define sustain mesh neglect hint angry portion cry proof
-bip_39_word_underscore_1: define
-bip_39_word_underscore_10: define_sustain_mesh_neglect_hint_angry_portion_cry_proof_enough
-bip_39_word_underscore_11: define_sustain_mesh_neglect_hint_angry_portion_cry_proof_enough_rain
 bip_39_word_underscore_12: define_sustain_mesh_neglect_hint_angry_portion_cry_proof_enough_rain_auction
 bip_39_word_underscore_2: define_sustain
 bip_39_word_underscore_3: define_sustain_mesh
-bip_39_word_underscore_4: define_sustain_mesh_neglect
-bip_39_word_underscore_5: define_sustain_mesh_neglect_hint
-bip_39_word_underscore_6: define_sustain_mesh_neglect_hint_angry
-bip_39_word_underscore_7: define_sustain_mesh_neglect_hint_angry_portion
-bip_39_word_underscore_8: define_sustain_mesh_neglect_hint_angry_portion_cry
-bip_39_word_underscore_9: define_sustain_mesh_neglect_hint_angry_portion_cry_proof
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

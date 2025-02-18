@@ -1,68 +1,9 @@
-bip_39_word_dash_1: address
-bip_39_word_dash_10: address-planet-service-valid-forest-couple-shoot-throw-pattern-logic
-bip_39_word_dash_11: address-planet-service-valid-forest-couple-shoot-throw-pattern-logic-manual
 bip_39_word_dash_12: address-planet-service-valid-forest-couple-shoot-throw-pattern-logic-manual-abstract
 bip_39_word_dash_2: address-planet
 bip_39_word_dash_3: address-planet-service
-bip_39_word_dash_4: address-planet-service-valid
-bip_39_word_dash_5: address-planet-service-valid-forest
-bip_39_word_dash_6: address-planet-service-valid-forest-couple
-bip_39_word_dash_7: address-planet-service-valid-forest-couple-shoot
-bip_39_word_dash_8: address-planet-service-valid-forest-couple-shoot-throw
-bip_39_word_dash_9: address-planet-service-valid-forest-couple-shoot-throw-pattern
-bip_39_word_new_br_1: address
-bip_39_word_new_br_10: address<br>planet<br>service<br>valid<br>forest<br>couple<br>shoot<br>throw<br>pattern<br>logic
-bip_39_word_new_br_11: address<br>planet<br>service<br>valid<br>forest<br>couple<br>shoot<br>throw<br>pattern<br>logic<br>manual
 bip_39_word_new_br_12: address<br>planet<br>service<br>valid<br>forest<br>couple<br>shoot<br>throw<br>pattern<br>logic<br>manual<br>abstract
 bip_39_word_new_br_2: address<br>planet
 bip_39_word_new_br_3: address<br>planet<br>service
-bip_39_word_new_br_4: address<br>planet<br>service<br>valid
-bip_39_word_new_br_5: address<br>planet<br>service<br>valid<br>forest
-bip_39_word_new_br_6: address<br>planet<br>service<br>valid<br>forest<br>couple
-bip_39_word_new_br_7: address<br>planet<br>service<br>valid<br>forest<br>couple<br>shoot
-bip_39_word_new_br_8: address<br>planet<br>service<br>valid<br>forest<br>couple<br>shoot<br>throw
-bip_39_word_new_br_9: address<br>planet<br>service<br>valid<br>forest<br>couple<br>shoot<br>throw<br>pattern
-bip_39_word_new_line_1: address
-bip_39_word_new_line_10: 'address
-
-  planet
-
-  service
-
-  valid
-
-  forest
-
-  couple
-
-  shoot
-
-  throw
-
-  pattern
-
-  logic'
-bip_39_word_new_line_11: 'address
-
-  planet
-
-  service
-
-  valid
-
-  forest
-
-  couple
-
-  shoot
-
-  throw
-
-  pattern
-
-  logic
-
-  manual'
 bip_39_word_new_line_12: 'address
 
   planet
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'address
   planet
 
   service'
-bip_39_word_new_line_4: 'address
-
-  planet
-
-  service
-
-  valid'
-bip_39_word_new_line_5: 'address
-
-  planet
-
-  service
-
-  valid
-
-  forest'
-bip_39_word_new_line_6: 'address
-
-  planet
-
-  service
-
-  valid
-
-  forest
-
-  couple'
-bip_39_word_new_line_7: 'address
-
-  planet
-
-  service
-
-  valid
-
-  forest
-
-  couple
-
-  shoot'
-bip_39_word_new_line_8: 'address
-
-  planet
-
-  service
-
-  valid
-
-  forest
-
-  couple
-
-  shoot
-
-  throw'
-bip_39_word_new_line_9: 'address
-
-  planet
-
-  service
-
-  valid
-
-  forest
-
-  couple
-
-  shoot
-
-  throw
-
-  pattern'
-bip_39_word_no_space_1: address
-bip_39_word_no_space_10: addressplanetservicevalidforestcoupleshootthrowpatternlogic
-bip_39_word_no_space_11: addressplanetservicevalidforestcoupleshootthrowpatternlogicmanual
 bip_39_word_no_space_12: addressplanetservicevalidforestcoupleshootthrowpatternlogicmanualabstract
 bip_39_word_no_space_2: addressplanet
 bip_39_word_no_space_3: addressplanetservice
-bip_39_word_no_space_4: addressplanetservicevalid
-bip_39_word_no_space_5: addressplanetservicevalidforest
-bip_39_word_no_space_6: addressplanetservicevalidforestcouple
-bip_39_word_no_space_7: addressplanetservicevalidforestcoupleshoot
-bip_39_word_no_space_8: addressplanetservicevalidforestcoupleshootthrow
-bip_39_word_no_space_9: addressplanetservicevalidforestcoupleshootthrowpattern
-bip_39_word_space_0:
-- address
-- planet
-- service
-- valid
-- forest
-- couple
-- shoot
-- throw
-- pattern
-- logic
-- manual
-- abstract
-bip_39_word_space_1: address
-bip_39_word_space_10: address planet service valid forest couple shoot throw pattern
-  logic
-bip_39_word_space_11: address planet service valid forest couple shoot throw pattern
-  logic manual
 bip_39_word_space_12: address planet service valid forest couple shoot throw pattern
   logic manual abstract
 bip_39_word_space_2: address planet
 bip_39_word_space_3: address planet service
-bip_39_word_space_4: address planet service valid
-bip_39_word_space_5: address planet service valid forest
-bip_39_word_space_6: address planet service valid forest couple
-bip_39_word_space_7: address planet service valid forest couple shoot
-bip_39_word_space_8: address planet service valid forest couple shoot throw
-bip_39_word_space_9: address planet service valid forest couple shoot throw pattern
-bip_39_word_underscore_1: address
-bip_39_word_underscore_10: address_planet_service_valid_forest_couple_shoot_throw_pattern_logic
-bip_39_word_underscore_11: address_planet_service_valid_forest_couple_shoot_throw_pattern_logic_manual
 bip_39_word_underscore_12: address_planet_service_valid_forest_couple_shoot_throw_pattern_logic_manual_abstract
 bip_39_word_underscore_2: address_planet
 bip_39_word_underscore_3: address_planet_service
-bip_39_word_underscore_4: address_planet_service_valid
-bip_39_word_underscore_5: address_planet_service_valid_forest
-bip_39_word_underscore_6: address_planet_service_valid_forest_couple
-bip_39_word_underscore_7: address_planet_service_valid_forest_couple_shoot
-bip_39_word_underscore_8: address_planet_service_valid_forest_couple_shoot_throw
-bip_39_word_underscore_9: address_planet_service_valid_forest_couple_shoot_throw_pattern
 classification: category
 classification_capital: Category
 classification_first_letter: c

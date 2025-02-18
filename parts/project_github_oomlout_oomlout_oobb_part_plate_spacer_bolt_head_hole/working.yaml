@@ -1,68 +1,9 @@
-bip_39_word_dash_1: glue
-bip_39_word_dash_10: glue-curtain-century-quiz-midnight-prize-feature-diet-toward-spike
-bip_39_word_dash_11: glue-curtain-century-quiz-midnight-prize-feature-diet-toward-spike-adjust
 bip_39_word_dash_12: glue-curtain-century-quiz-midnight-prize-feature-diet-toward-spike-adjust-area
 bip_39_word_dash_2: glue-curtain
 bip_39_word_dash_3: glue-curtain-century
-bip_39_word_dash_4: glue-curtain-century-quiz
-bip_39_word_dash_5: glue-curtain-century-quiz-midnight
-bip_39_word_dash_6: glue-curtain-century-quiz-midnight-prize
-bip_39_word_dash_7: glue-curtain-century-quiz-midnight-prize-feature
-bip_39_word_dash_8: glue-curtain-century-quiz-midnight-prize-feature-diet
-bip_39_word_dash_9: glue-curtain-century-quiz-midnight-prize-feature-diet-toward
-bip_39_word_new_br_1: glue
-bip_39_word_new_br_10: glue<br>curtain<br>century<br>quiz<br>midnight<br>prize<br>feature<br>diet<br>toward<br>spike
-bip_39_word_new_br_11: glue<br>curtain<br>century<br>quiz<br>midnight<br>prize<br>feature<br>diet<br>toward<br>spike<br>adjust
 bip_39_word_new_br_12: glue<br>curtain<br>century<br>quiz<br>midnight<br>prize<br>feature<br>diet<br>toward<br>spike<br>adjust<br>area
 bip_39_word_new_br_2: glue<br>curtain
 bip_39_word_new_br_3: glue<br>curtain<br>century
-bip_39_word_new_br_4: glue<br>curtain<br>century<br>quiz
-bip_39_word_new_br_5: glue<br>curtain<br>century<br>quiz<br>midnight
-bip_39_word_new_br_6: glue<br>curtain<br>century<br>quiz<br>midnight<br>prize
-bip_39_word_new_br_7: glue<br>curtain<br>century<br>quiz<br>midnight<br>prize<br>feature
-bip_39_word_new_br_8: glue<br>curtain<br>century<br>quiz<br>midnight<br>prize<br>feature<br>diet
-bip_39_word_new_br_9: glue<br>curtain<br>century<br>quiz<br>midnight<br>prize<br>feature<br>diet<br>toward
-bip_39_word_new_line_1: glue
-bip_39_word_new_line_10: 'glue
-
-  curtain
-
-  century
-
-  quiz
-
-  midnight
-
-  prize
-
-  feature
-
-  diet
-
-  toward
-
-  spike'
-bip_39_word_new_line_11: 'glue
-
-  curtain
-
-  century
-
-  quiz
-
-  midnight
-
-  prize
-
-  feature
-
-  diet
-
-  toward
-
-  spike
-
-  adjust'
 bip_39_word_new_line_12: 'glue
 
   curtain
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'glue
   curtain
 
   century'
-bip_39_word_new_line_4: 'glue
-
-  curtain
-
-  century
-
-  quiz'
-bip_39_word_new_line_5: 'glue
-
-  curtain
-
-  century
-
-  quiz
-
-  midnight'
-bip_39_word_new_line_6: 'glue
-
-  curtain
-
-  century
-
-  quiz
-
-  midnight
-
-  prize'
-bip_39_word_new_line_7: 'glue
-
-  curtain
-
-  century
-
-  quiz
-
-  midnight
-
-  prize
-
-  feature'
-bip_39_word_new_line_8: 'glue
-
-  curtain
-
-  century
-
-  quiz
-
-  midnight
-
-  prize
-
-  feature
-
-  diet'
-bip_39_word_new_line_9: 'glue
-
-  curtain
-
-  century
-
-  quiz
-
-  midnight
-
-  prize
-
-  feature
-
-  diet
-
-  toward'
-bip_39_word_no_space_1: glue
-bip_39_word_no_space_10: gluecurtaincenturyquizmidnightprizefeaturediettowardspike
-bip_39_word_no_space_11: gluecurtaincenturyquizmidnightprizefeaturediettowardspikeadjust
 bip_39_word_no_space_12: gluecurtaincenturyquizmidnightprizefeaturediettowardspikeadjustarea
 bip_39_word_no_space_2: gluecurtain
 bip_39_word_no_space_3: gluecurtaincentury
-bip_39_word_no_space_4: gluecurtaincenturyquiz
-bip_39_word_no_space_5: gluecurtaincenturyquizmidnight
-bip_39_word_no_space_6: gluecurtaincenturyquizmidnightprize
-bip_39_word_no_space_7: gluecurtaincenturyquizmidnightprizefeature
-bip_39_word_no_space_8: gluecurtaincenturyquizmidnightprizefeaturediet
-bip_39_word_no_space_9: gluecurtaincenturyquizmidnightprizefeaturediettoward
-bip_39_word_space_0:
-- glue
-- curtain
-- century
-- quiz
-- midnight
-- prize
-- feature
-- diet
-- toward
-- spike
-- adjust
-- area
-bip_39_word_space_1: glue
-bip_39_word_space_10: glue curtain century quiz midnight prize feature diet toward
-  spike
-bip_39_word_space_11: glue curtain century quiz midnight prize feature diet toward
-  spike adjust
 bip_39_word_space_12: glue curtain century quiz midnight prize feature diet toward
   spike adjust area
 bip_39_word_space_2: glue curtain
 bip_39_word_space_3: glue curtain century
-bip_39_word_space_4: glue curtain century quiz
-bip_39_word_space_5: glue curtain century quiz midnight
-bip_39_word_space_6: glue curtain century quiz midnight prize
-bip_39_word_space_7: glue curtain century quiz midnight prize feature
-bip_39_word_space_8: glue curtain century quiz midnight prize feature diet
-bip_39_word_space_9: glue curtain century quiz midnight prize feature diet toward
-bip_39_word_underscore_1: glue
-bip_39_word_underscore_10: glue_curtain_century_quiz_midnight_prize_feature_diet_toward_spike
-bip_39_word_underscore_11: glue_curtain_century_quiz_midnight_prize_feature_diet_toward_spike_adjust
 bip_39_word_underscore_12: glue_curtain_century_quiz_midnight_prize_feature_diet_toward_spike_adjust_area
 bip_39_word_underscore_2: glue_curtain
 bip_39_word_underscore_3: glue_curtain_century
-bip_39_word_underscore_4: glue_curtain_century_quiz
-bip_39_word_underscore_5: glue_curtain_century_quiz_midnight
-bip_39_word_underscore_6: glue_curtain_century_quiz_midnight_prize
-bip_39_word_underscore_7: glue_curtain_century_quiz_midnight_prize_feature
-bip_39_word_underscore_8: glue_curtain_century_quiz_midnight_prize_feature_diet
-bip_39_word_underscore_9: glue_curtain_century_quiz_midnight_prize_feature_diet_toward
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: draw
-bip_39_word_dash_10: draw-bunker-base-glue-pride-reject-orphan-universe-cricket-cabin
-bip_39_word_dash_11: draw-bunker-base-glue-pride-reject-orphan-universe-cricket-cabin-boil
 bip_39_word_dash_12: draw-bunker-base-glue-pride-reject-orphan-universe-cricket-cabin-boil-alpha
 bip_39_word_dash_2: draw-bunker
 bip_39_word_dash_3: draw-bunker-base
-bip_39_word_dash_4: draw-bunker-base-glue
-bip_39_word_dash_5: draw-bunker-base-glue-pride
-bip_39_word_dash_6: draw-bunker-base-glue-pride-reject
-bip_39_word_dash_7: draw-bunker-base-glue-pride-reject-orphan
-bip_39_word_dash_8: draw-bunker-base-glue-pride-reject-orphan-universe
-bip_39_word_dash_9: draw-bunker-base-glue-pride-reject-orphan-universe-cricket
-bip_39_word_new_br_1: draw
-bip_39_word_new_br_10: draw<br>bunker<br>base<br>glue<br>pride<br>reject<br>orphan<br>universe<br>cricket<br>cabin
-bip_39_word_new_br_11: draw<br>bunker<br>base<br>glue<br>pride<br>reject<br>orphan<br>universe<br>cricket<br>cabin<br>boil
 bip_39_word_new_br_12: draw<br>bunker<br>base<br>glue<br>pride<br>reject<br>orphan<br>universe<br>cricket<br>cabin<br>boil<br>alpha
 bip_39_word_new_br_2: draw<br>bunker
 bip_39_word_new_br_3: draw<br>bunker<br>base
-bip_39_word_new_br_4: draw<br>bunker<br>base<br>glue
-bip_39_word_new_br_5: draw<br>bunker<br>base<br>glue<br>pride
-bip_39_word_new_br_6: draw<br>bunker<br>base<br>glue<br>pride<br>reject
-bip_39_word_new_br_7: draw<br>bunker<br>base<br>glue<br>pride<br>reject<br>orphan
-bip_39_word_new_br_8: draw<br>bunker<br>base<br>glue<br>pride<br>reject<br>orphan<br>universe
-bip_39_word_new_br_9: draw<br>bunker<br>base<br>glue<br>pride<br>reject<br>orphan<br>universe<br>cricket
-bip_39_word_new_line_1: draw
-bip_39_word_new_line_10: 'draw
-
-  bunker
-
-  base
-
-  glue
-
-  pride
-
-  reject
-
-  orphan
-
-  universe
-
-  cricket
-
-  cabin'
-bip_39_word_new_line_11: 'draw
-
-  bunker
-
-  base
-
-  glue
-
-  pride
-
-  reject
-
-  orphan
-
-  universe
-
-  cricket
-
-  cabin
-
-  boil'
 bip_39_word_new_line_12: 'draw
 
   bunker
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'draw
   bunker
 
   base'
-bip_39_word_new_line_4: 'draw
-
-  bunker
-
-  base
-
-  glue'
-bip_39_word_new_line_5: 'draw
-
-  bunker
-
-  base
-
-  glue
-
-  pride'
-bip_39_word_new_line_6: 'draw
-
-  bunker
-
-  base
-
-  glue
-
-  pride
-
-  reject'
-bip_39_word_new_line_7: 'draw
-
-  bunker
-
-  base
-
-  glue
-
-  pride
-
-  reject
-
-  orphan'
-bip_39_word_new_line_8: 'draw
-
-  bunker
-
-  base
-
-  glue
-
-  pride
-
-  reject
-
-  orphan
-
-  universe'
-bip_39_word_new_line_9: 'draw
-
-  bunker
-
-  base
-
-  glue
-
-  pride
-
-  reject
-
-  orphan
-
-  universe
-
-  cricket'
-bip_39_word_no_space_1: draw
-bip_39_word_no_space_10: drawbunkerbasegluepriderejectorphanuniversecricketcabin
-bip_39_word_no_space_11: drawbunkerbasegluepriderejectorphanuniversecricketcabinboil
 bip_39_word_no_space_12: drawbunkerbasegluepriderejectorphanuniversecricketcabinboilalpha
 bip_39_word_no_space_2: drawbunker
 bip_39_word_no_space_3: drawbunkerbase
-bip_39_word_no_space_4: drawbunkerbaseglue
-bip_39_word_no_space_5: drawbunkerbasegluepride
-bip_39_word_no_space_6: drawbunkerbasegluepridereject
-bip_39_word_no_space_7: drawbunkerbasegluepriderejectorphan
-bip_39_word_no_space_8: drawbunkerbasegluepriderejectorphanuniverse
-bip_39_word_no_space_9: drawbunkerbasegluepriderejectorphanuniversecricket
-bip_39_word_space_0:
-- draw
-- bunker
-- base
-- glue
-- pride
-- reject
-- orphan
-- universe
-- cricket
-- cabin
-- boil
-- alpha
-bip_39_word_space_1: draw
-bip_39_word_space_10: draw bunker base glue pride reject orphan universe cricket cabin
-bip_39_word_space_11: draw bunker base glue pride reject orphan universe cricket cabin
-  boil
 bip_39_word_space_12: draw bunker base glue pride reject orphan universe cricket cabin
   boil alpha
 bip_39_word_space_2: draw bunker
 bip_39_word_space_3: draw bunker base
-bip_39_word_space_4: draw bunker base glue
-bip_39_word_space_5: draw bunker base glue pride
-bip_39_word_space_6: draw bunker base glue pride reject
-bip_39_word_space_7: draw bunker base glue pride reject orphan
-bip_39_word_space_8: draw bunker base glue pride reject orphan universe
-bip_39_word_space_9: draw bunker base glue pride reject orphan universe cricket
-bip_39_word_underscore_1: draw
-bip_39_word_underscore_10: draw_bunker_base_glue_pride_reject_orphan_universe_cricket_cabin
-bip_39_word_underscore_11: draw_bunker_base_glue_pride_reject_orphan_universe_cricket_cabin_boil
 bip_39_word_underscore_12: draw_bunker_base_glue_pride_reject_orphan_universe_cricket_cabin_boil_alpha
 bip_39_word_underscore_2: draw_bunker
 bip_39_word_underscore_3: draw_bunker_base
-bip_39_word_underscore_4: draw_bunker_base_glue
-bip_39_word_underscore_5: draw_bunker_base_glue_pride
-bip_39_word_underscore_6: draw_bunker_base_glue_pride_reject
-bip_39_word_underscore_7: draw_bunker_base_glue_pride_reject_orphan
-bip_39_word_underscore_8: draw_bunker_base_glue_pride_reject_orphan_universe
-bip_39_word_underscore_9: draw_bunker_base_glue_pride_reject_orphan_universe_cricket
 classification: project
 classification_capital: Project
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: annual
-bip_39_word_dash_10: annual-wear-laptop-scorpion-problem-dawn-write-napkin-drill-smooth
-bip_39_word_dash_11: annual-wear-laptop-scorpion-problem-dawn-write-napkin-drill-smooth-silent
 bip_39_word_dash_12: annual-wear-laptop-scorpion-problem-dawn-write-napkin-drill-smooth-silent-accuse
 bip_39_word_dash_2: annual-wear
 bip_39_word_dash_3: annual-wear-laptop
-bip_39_word_dash_4: annual-wear-laptop-scorpion
-bip_39_word_dash_5: annual-wear-laptop-scorpion-problem
-bip_39_word_dash_6: annual-wear-laptop-scorpion-problem-dawn
-bip_39_word_dash_7: annual-wear-laptop-scorpion-problem-dawn-write
-bip_39_word_dash_8: annual-wear-laptop-scorpion-problem-dawn-write-napkin
-bip_39_word_dash_9: annual-wear-laptop-scorpion-problem-dawn-write-napkin-drill
-bip_39_word_new_br_1: annual
-bip_39_word_new_br_10: annual<br>wear<br>laptop<br>scorpion<br>problem<br>dawn<br>write<br>napkin<br>drill<br>smooth
-bip_39_word_new_br_11: annual<br>wear<br>laptop<br>scorpion<br>problem<br>dawn<br>write<br>napkin<br>drill<br>smooth<br>silent
 bip_39_word_new_br_12: annual<br>wear<br>laptop<br>scorpion<br>problem<br>dawn<br>write<br>napkin<br>drill<br>smooth<br>silent<br>accuse
 bip_39_word_new_br_2: annual<br>wear
 bip_39_word_new_br_3: annual<br>wear<br>laptop
-bip_39_word_new_br_4: annual<br>wear<br>laptop<br>scorpion
-bip_39_word_new_br_5: annual<br>wear<br>laptop<br>scorpion<br>problem
-bip_39_word_new_br_6: annual<br>wear<br>laptop<br>scorpion<br>problem<br>dawn
-bip_39_word_new_br_7: annual<br>wear<br>laptop<br>scorpion<br>problem<br>dawn<br>write
-bip_39_word_new_br_8: annual<br>wear<br>laptop<br>scorpion<br>problem<br>dawn<br>write<br>napkin
-bip_39_word_new_br_9: annual<br>wear<br>laptop<br>scorpion<br>problem<br>dawn<br>write<br>napkin<br>drill
-bip_39_word_new_line_1: annual
-bip_39_word_new_line_10: 'annual
-
-  wear
-
-  laptop
-
-  scorpion
-
-  problem
-
-  dawn
-
-  write
-
-  napkin
-
-  drill
-
-  smooth'
-bip_39_word_new_line_11: 'annual
-
-  wear
-
-  laptop
-
-  scorpion
-
-  problem
-
-  dawn
-
-  write
-
-  napkin
-
-  drill
-
-  smooth
-
-  silent'
 bip_39_word_new_line_12: 'annual
 
   wear
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'annual
   wear
 
   laptop'
-bip_39_word_new_line_4: 'annual
-
-  wear
-
-  laptop
-
-  scorpion'
-bip_39_word_new_line_5: 'annual
-
-  wear
-
-  laptop
-
-  scorpion
-
-  problem'
-bip_39_word_new_line_6: 'annual
-
-  wear
-
-  laptop
-
-  scorpion
-
-  problem
-
-  dawn'
-bip_39_word_new_line_7: 'annual
-
-  wear
-
-  laptop
-
-  scorpion
-
-  problem
-
-  dawn
-
-  write'
-bip_39_word_new_line_8: 'annual
-
-  wear
-
-  laptop
-
-  scorpion
-
-  problem
-
-  dawn
-
-  write
-
-  napkin'
-bip_39_word_new_line_9: 'annual
-
-  wear
-
-  laptop
-
-  scorpion
-
-  problem
-
-  dawn
-
-  write
-
-  napkin
-
-  drill'
-bip_39_word_no_space_1: annual
-bip_39_word_no_space_10: annualwearlaptopscorpionproblemdawnwritenapkindrillsmooth
-bip_39_word_no_space_11: annualwearlaptopscorpionproblemdawnwritenapkindrillsmoothsilent
 bip_39_word_no_space_12: annualwearlaptopscorpionproblemdawnwritenapkindrillsmoothsilentaccuse
 bip_39_word_no_space_2: annualwear
 bip_39_word_no_space_3: annualwearlaptop
-bip_39_word_no_space_4: annualwearlaptopscorpion
-bip_39_word_no_space_5: annualwearlaptopscorpionproblem
-bip_39_word_no_space_6: annualwearlaptopscorpionproblemdawn
-bip_39_word_no_space_7: annualwearlaptopscorpionproblemdawnwrite
-bip_39_word_no_space_8: annualwearlaptopscorpionproblemdawnwritenapkin
-bip_39_word_no_space_9: annualwearlaptopscorpionproblemdawnwritenapkindrill
-bip_39_word_space_0:
-- annual
-- wear
-- laptop
-- scorpion
-- problem
-- dawn
-- write
-- napkin
-- drill
-- smooth
-- silent
-- accuse
-bip_39_word_space_1: annual
-bip_39_word_space_10: annual wear laptop scorpion problem dawn write napkin drill
-  smooth
-bip_39_word_space_11: annual wear laptop scorpion problem dawn write napkin drill
-  smooth silent
 bip_39_word_space_12: annual wear laptop scorpion problem dawn write napkin drill
   smooth silent accuse
 bip_39_word_space_2: annual wear
 bip_39_word_space_3: annual wear laptop
-bip_39_word_space_4: annual wear laptop scorpion
-bip_39_word_space_5: annual wear laptop scorpion problem
-bip_39_word_space_6: annual wear laptop scorpion problem dawn
-bip_39_word_space_7: annual wear laptop scorpion problem dawn write
-bip_39_word_space_8: annual wear laptop scorpion problem dawn write napkin
-bip_39_word_space_9: annual wear laptop scorpion problem dawn write napkin drill
-bip_39_word_underscore_1: annual
-bip_39_word_underscore_10: annual_wear_laptop_scorpion_problem_dawn_write_napkin_drill_smooth
-bip_39_word_underscore_11: annual_wear_laptop_scorpion_problem_dawn_write_napkin_drill_smooth_silent
 bip_39_word_underscore_12: annual_wear_laptop_scorpion_problem_dawn_write_napkin_drill_smooth_silent_accuse
 bip_39_word_underscore_2: annual_wear
 bip_39_word_underscore_3: annual_wear_laptop
-bip_39_word_underscore_4: annual_wear_laptop_scorpion
-bip_39_word_underscore_5: annual_wear_laptop_scorpion_problem
-bip_39_word_underscore_6: annual_wear_laptop_scorpion_problem_dawn
-bip_39_word_underscore_7: annual_wear_laptop_scorpion_problem_dawn_write
-bip_39_word_underscore_8: annual_wear_laptop_scorpion_problem_dawn_write_napkin
-bip_39_word_underscore_9: annual_wear_laptop_scorpion_problem_dawn_write_napkin_drill
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

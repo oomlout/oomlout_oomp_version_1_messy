@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sugar
-bip_39_word_dash_10: sugar-attack-coffee-must-blanket-whale-poet-right-master-tide
-bip_39_word_dash_11: sugar-attack-coffee-must-blanket-whale-poet-right-master-tide-jazz
 bip_39_word_dash_12: sugar-attack-coffee-must-blanket-whale-poet-right-master-tide-jazz-actual
 bip_39_word_dash_2: sugar-attack
 bip_39_word_dash_3: sugar-attack-coffee
-bip_39_word_dash_4: sugar-attack-coffee-must
-bip_39_word_dash_5: sugar-attack-coffee-must-blanket
-bip_39_word_dash_6: sugar-attack-coffee-must-blanket-whale
-bip_39_word_dash_7: sugar-attack-coffee-must-blanket-whale-poet
-bip_39_word_dash_8: sugar-attack-coffee-must-blanket-whale-poet-right
-bip_39_word_dash_9: sugar-attack-coffee-must-blanket-whale-poet-right-master
-bip_39_word_new_br_1: sugar
-bip_39_word_new_br_10: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right<br>master<br>tide
-bip_39_word_new_br_11: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right<br>master<br>tide<br>jazz
 bip_39_word_new_br_12: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right<br>master<br>tide<br>jazz<br>actual
 bip_39_word_new_br_2: sugar<br>attack
 bip_39_word_new_br_3: sugar<br>attack<br>coffee
-bip_39_word_new_br_4: sugar<br>attack<br>coffee<br>must
-bip_39_word_new_br_5: sugar<br>attack<br>coffee<br>must<br>blanket
-bip_39_word_new_br_6: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale
-bip_39_word_new_br_7: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet
-bip_39_word_new_br_8: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right
-bip_39_word_new_br_9: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right<br>master
-bip_39_word_new_line_1: sugar
-bip_39_word_new_line_10: 'sugar
-
-  attack
-
-  coffee
-
-  must
-
-  blanket
-
-  whale
-
-  poet
-
-  right
-
-  master
-
-  tide'
-bip_39_word_new_line_11: 'sugar
-
-  attack
-
-  coffee
-
-  must
-
-  blanket
-
-  whale
-
-  poet
-
-  right
-
-  master
-
-  tide
-
-  jazz'
 bip_39_word_new_line_12: 'sugar
 
   attack
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sugar
   attack
 
   coffee'
-bip_39_word_new_line_4: 'sugar
-
-  attack
-
-  coffee
-
-  must'
-bip_39_word_new_line_5: 'sugar
-
-  attack
-
-  coffee
-
-  must
-
-  blanket'
-bip_39_word_new_line_6: 'sugar
-
-  attack
-
-  coffee
-
-  must
-
-  blanket
-
-  whale'
-bip_39_word_new_line_7: 'sugar
-
-  attack
-
-  coffee
-
-  must
-
-  blanket
-
-  whale
-
-  poet'
-bip_39_word_new_line_8: 'sugar
-
-  attack
-
-  coffee
-
-  must
-
-  blanket
-
-  whale
-
-  poet
-
-  right'
-bip_39_word_new_line_9: 'sugar
-
-  attack
-
-  coffee
-
-  must
-
-  blanket
-
-  whale
-
-  poet
-
-  right
-
-  master'
-bip_39_word_no_space_1: sugar
-bip_39_word_no_space_10: sugarattackcoffeemustblanketwhalepoetrightmastertide
-bip_39_word_no_space_11: sugarattackcoffeemustblanketwhalepoetrightmastertidejazz
 bip_39_word_no_space_12: sugarattackcoffeemustblanketwhalepoetrightmastertidejazzactual
 bip_39_word_no_space_2: sugarattack
 bip_39_word_no_space_3: sugarattackcoffee
-bip_39_word_no_space_4: sugarattackcoffeemust
-bip_39_word_no_space_5: sugarattackcoffeemustblanket
-bip_39_word_no_space_6: sugarattackcoffeemustblanketwhale
-bip_39_word_no_space_7: sugarattackcoffeemustblanketwhalepoet
-bip_39_word_no_space_8: sugarattackcoffeemustblanketwhalepoetright
-bip_39_word_no_space_9: sugarattackcoffeemustblanketwhalepoetrightmaster
-bip_39_word_space_0:
-- sugar
-- attack
-- coffee
-- must
-- blanket
-- whale
-- poet
-- right
-- master
-- tide
-- jazz
-- actual
-bip_39_word_space_1: sugar
-bip_39_word_space_10: sugar attack coffee must blanket whale poet right master tide
-bip_39_word_space_11: sugar attack coffee must blanket whale poet right master tide
-  jazz
 bip_39_word_space_12: sugar attack coffee must blanket whale poet right master tide
   jazz actual
 bip_39_word_space_2: sugar attack
 bip_39_word_space_3: sugar attack coffee
-bip_39_word_space_4: sugar attack coffee must
-bip_39_word_space_5: sugar attack coffee must blanket
-bip_39_word_space_6: sugar attack coffee must blanket whale
-bip_39_word_space_7: sugar attack coffee must blanket whale poet
-bip_39_word_space_8: sugar attack coffee must blanket whale poet right
-bip_39_word_space_9: sugar attack coffee must blanket whale poet right master
-bip_39_word_underscore_1: sugar
-bip_39_word_underscore_10: sugar_attack_coffee_must_blanket_whale_poet_right_master_tide
-bip_39_word_underscore_11: sugar_attack_coffee_must_blanket_whale_poet_right_master_tide_jazz
 bip_39_word_underscore_12: sugar_attack_coffee_must_blanket_whale_poet_right_master_tide_jazz_actual
 bip_39_word_underscore_2: sugar_attack
 bip_39_word_underscore_3: sugar_attack_coffee
-bip_39_word_underscore_4: sugar_attack_coffee_must
-bip_39_word_underscore_5: sugar_attack_coffee_must_blanket
-bip_39_word_underscore_6: sugar_attack_coffee_must_blanket_whale
-bip_39_word_underscore_7: sugar_attack_coffee_must_blanket_whale_poet
-bip_39_word_underscore_8: sugar_attack_coffee_must_blanket_whale_poet_right
-bip_39_word_underscore_9: sugar_attack_coffee_must_blanket_whale_poet_right_master
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: display
-bip_39_word_dash_10: display-crunch-primary-impulse-cool-tiny-area-sense-crew-chest
-bip_39_word_dash_11: display-crunch-primary-impulse-cool-tiny-area-sense-crew-chest-unhappy
 bip_39_word_dash_12: display-crunch-primary-impulse-cool-tiny-area-sense-crew-chest-unhappy-affair
 bip_39_word_dash_2: display-crunch
 bip_39_word_dash_3: display-crunch-primary
-bip_39_word_dash_4: display-crunch-primary-impulse
-bip_39_word_dash_5: display-crunch-primary-impulse-cool
-bip_39_word_dash_6: display-crunch-primary-impulse-cool-tiny
-bip_39_word_dash_7: display-crunch-primary-impulse-cool-tiny-area
-bip_39_word_dash_8: display-crunch-primary-impulse-cool-tiny-area-sense
-bip_39_word_dash_9: display-crunch-primary-impulse-cool-tiny-area-sense-crew
-bip_39_word_new_br_1: display
-bip_39_word_new_br_10: display<br>crunch<br>primary<br>impulse<br>cool<br>tiny<br>area<br>sense<br>crew<br>chest
-bip_39_word_new_br_11: display<br>crunch<br>primary<br>impulse<br>cool<br>tiny<br>area<br>sense<br>crew<br>chest<br>unhappy
 bip_39_word_new_br_12: display<br>crunch<br>primary<br>impulse<br>cool<br>tiny<br>area<br>sense<br>crew<br>chest<br>unhappy<br>affair
 bip_39_word_new_br_2: display<br>crunch
 bip_39_word_new_br_3: display<br>crunch<br>primary
-bip_39_word_new_br_4: display<br>crunch<br>primary<br>impulse
-bip_39_word_new_br_5: display<br>crunch<br>primary<br>impulse<br>cool
-bip_39_word_new_br_6: display<br>crunch<br>primary<br>impulse<br>cool<br>tiny
-bip_39_word_new_br_7: display<br>crunch<br>primary<br>impulse<br>cool<br>tiny<br>area
-bip_39_word_new_br_8: display<br>crunch<br>primary<br>impulse<br>cool<br>tiny<br>area<br>sense
-bip_39_word_new_br_9: display<br>crunch<br>primary<br>impulse<br>cool<br>tiny<br>area<br>sense<br>crew
-bip_39_word_new_line_1: display
-bip_39_word_new_line_10: 'display
-
-  crunch
-
-  primary
-
-  impulse
-
-  cool
-
-  tiny
-
-  area
-
-  sense
-
-  crew
-
-  chest'
-bip_39_word_new_line_11: 'display
-
-  crunch
-
-  primary
-
-  impulse
-
-  cool
-
-  tiny
-
-  area
-
-  sense
-
-  crew
-
-  chest
-
-  unhappy'
 bip_39_word_new_line_12: 'display
 
   crunch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'display
   crunch
 
   primary'
-bip_39_word_new_line_4: 'display
-
-  crunch
-
-  primary
-
-  impulse'
-bip_39_word_new_line_5: 'display
-
-  crunch
-
-  primary
-
-  impulse
-
-  cool'
-bip_39_word_new_line_6: 'display
-
-  crunch
-
-  primary
-
-  impulse
-
-  cool
-
-  tiny'
-bip_39_word_new_line_7: 'display
-
-  crunch
-
-  primary
-
-  impulse
-
-  cool
-
-  tiny
-
-  area'
-bip_39_word_new_line_8: 'display
-
-  crunch
-
-  primary
-
-  impulse
-
-  cool
-
-  tiny
-
-  area
-
-  sense'
-bip_39_word_new_line_9: 'display
-
-  crunch
-
-  primary
-
-  impulse
-
-  cool
-
-  tiny
-
-  area
-
-  sense
-
-  crew'
-bip_39_word_no_space_1: display
-bip_39_word_no_space_10: displaycrunchprimaryimpulsecooltinyareasensecrewchest
-bip_39_word_no_space_11: displaycrunchprimaryimpulsecooltinyareasensecrewchestunhappy
 bip_39_word_no_space_12: displaycrunchprimaryimpulsecooltinyareasensecrewchestunhappyaffair
 bip_39_word_no_space_2: displaycrunch
 bip_39_word_no_space_3: displaycrunchprimary
-bip_39_word_no_space_4: displaycrunchprimaryimpulse
-bip_39_word_no_space_5: displaycrunchprimaryimpulsecool
-bip_39_word_no_space_6: displaycrunchprimaryimpulsecooltiny
-bip_39_word_no_space_7: displaycrunchprimaryimpulsecooltinyarea
-bip_39_word_no_space_8: displaycrunchprimaryimpulsecooltinyareasense
-bip_39_word_no_space_9: displaycrunchprimaryimpulsecooltinyareasensecrew
-bip_39_word_space_0:
-- display
-- crunch
-- primary
-- impulse
-- cool
-- tiny
-- area
-- sense
-- crew
-- chest
-- unhappy
-- affair
-bip_39_word_space_1: display
-bip_39_word_space_10: display crunch primary impulse cool tiny area sense crew chest
-bip_39_word_space_11: display crunch primary impulse cool tiny area sense crew chest
-  unhappy
 bip_39_word_space_12: display crunch primary impulse cool tiny area sense crew chest
   unhappy affair
 bip_39_word_space_2: display crunch
 bip_39_word_space_3: display crunch primary
-bip_39_word_space_4: display crunch primary impulse
-bip_39_word_space_5: display crunch primary impulse cool
-bip_39_word_space_6: display crunch primary impulse cool tiny
-bip_39_word_space_7: display crunch primary impulse cool tiny area
-bip_39_word_space_8: display crunch primary impulse cool tiny area sense
-bip_39_word_space_9: display crunch primary impulse cool tiny area sense crew
-bip_39_word_underscore_1: display
-bip_39_word_underscore_10: display_crunch_primary_impulse_cool_tiny_area_sense_crew_chest
-bip_39_word_underscore_11: display_crunch_primary_impulse_cool_tiny_area_sense_crew_chest_unhappy
 bip_39_word_underscore_12: display_crunch_primary_impulse_cool_tiny_area_sense_crew_chest_unhappy_affair
 bip_39_word_underscore_2: display_crunch
 bip_39_word_underscore_3: display_crunch_primary
-bip_39_word_underscore_4: display_crunch_primary_impulse
-bip_39_word_underscore_5: display_crunch_primary_impulse_cool
-bip_39_word_underscore_6: display_crunch_primary_impulse_cool_tiny
-bip_39_word_underscore_7: display_crunch_primary_impulse_cool_tiny_area
-bip_39_word_underscore_8: display_crunch_primary_impulse_cool_tiny_area_sense
-bip_39_word_underscore_9: display_crunch_primary_impulse_cool_tiny_area_sense_crew
 classification: category
 classification_capital: Category
 classification_first_letter: c

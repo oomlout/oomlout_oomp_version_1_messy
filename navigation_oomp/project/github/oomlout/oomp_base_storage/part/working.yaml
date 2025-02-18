@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cash
-bip_39_word_dash_10: cash-vault-retreat-aware-congress-village-fox-soul-diagram-muscle
-bip_39_word_dash_11: cash-vault-retreat-aware-congress-village-fox-soul-diagram-muscle-warrior
 bip_39_word_dash_12: cash-vault-retreat-aware-congress-village-fox-soul-diagram-muscle-warrior-arctic
 bip_39_word_dash_2: cash-vault
 bip_39_word_dash_3: cash-vault-retreat
-bip_39_word_dash_4: cash-vault-retreat-aware
-bip_39_word_dash_5: cash-vault-retreat-aware-congress
-bip_39_word_dash_6: cash-vault-retreat-aware-congress-village
-bip_39_word_dash_7: cash-vault-retreat-aware-congress-village-fox
-bip_39_word_dash_8: cash-vault-retreat-aware-congress-village-fox-soul
-bip_39_word_dash_9: cash-vault-retreat-aware-congress-village-fox-soul-diagram
-bip_39_word_new_br_1: cash
-bip_39_word_new_br_10: cash<br>vault<br>retreat<br>aware<br>congress<br>village<br>fox<br>soul<br>diagram<br>muscle
-bip_39_word_new_br_11: cash<br>vault<br>retreat<br>aware<br>congress<br>village<br>fox<br>soul<br>diagram<br>muscle<br>warrior
 bip_39_word_new_br_12: cash<br>vault<br>retreat<br>aware<br>congress<br>village<br>fox<br>soul<br>diagram<br>muscle<br>warrior<br>arctic
 bip_39_word_new_br_2: cash<br>vault
 bip_39_word_new_br_3: cash<br>vault<br>retreat
-bip_39_word_new_br_4: cash<br>vault<br>retreat<br>aware
-bip_39_word_new_br_5: cash<br>vault<br>retreat<br>aware<br>congress
-bip_39_word_new_br_6: cash<br>vault<br>retreat<br>aware<br>congress<br>village
-bip_39_word_new_br_7: cash<br>vault<br>retreat<br>aware<br>congress<br>village<br>fox
-bip_39_word_new_br_8: cash<br>vault<br>retreat<br>aware<br>congress<br>village<br>fox<br>soul
-bip_39_word_new_br_9: cash<br>vault<br>retreat<br>aware<br>congress<br>village<br>fox<br>soul<br>diagram
-bip_39_word_new_line_1: cash
-bip_39_word_new_line_10: 'cash
-
-  vault
-
-  retreat
-
-  aware
-
-  congress
-
-  village
-
-  fox
-
-  soul
-
-  diagram
-
-  muscle'
-bip_39_word_new_line_11: 'cash
-
-  vault
-
-  retreat
-
-  aware
-
-  congress
-
-  village
-
-  fox
-
-  soul
-
-  diagram
-
-  muscle
-
-  warrior'
 bip_39_word_new_line_12: 'cash
 
   vault
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cash
   vault
 
   retreat'
-bip_39_word_new_line_4: 'cash
-
-  vault
-
-  retreat
-
-  aware'
-bip_39_word_new_line_5: 'cash
-
-  vault
-
-  retreat
-
-  aware
-
-  congress'
-bip_39_word_new_line_6: 'cash
-
-  vault
-
-  retreat
-
-  aware
-
-  congress
-
-  village'
-bip_39_word_new_line_7: 'cash
-
-  vault
-
-  retreat
-
-  aware
-
-  congress
-
-  village
-
-  fox'
-bip_39_word_new_line_8: 'cash
-
-  vault
-
-  retreat
-
-  aware
-
-  congress
-
-  village
-
-  fox
-
-  soul'
-bip_39_word_new_line_9: 'cash
-
-  vault
-
-  retreat
-
-  aware
-
-  congress
-
-  village
-
-  fox
-
-  soul
-
-  diagram'
-bip_39_word_no_space_1: cash
-bip_39_word_no_space_10: cashvaultretreatawarecongressvillagefoxsouldiagrammuscle
-bip_39_word_no_space_11: cashvaultretreatawarecongressvillagefoxsouldiagrammusclewarrior
 bip_39_word_no_space_12: cashvaultretreatawarecongressvillagefoxsouldiagrammusclewarriorarctic
 bip_39_word_no_space_2: cashvault
 bip_39_word_no_space_3: cashvaultretreat
-bip_39_word_no_space_4: cashvaultretreataware
-bip_39_word_no_space_5: cashvaultretreatawarecongress
-bip_39_word_no_space_6: cashvaultretreatawarecongressvillage
-bip_39_word_no_space_7: cashvaultretreatawarecongressvillagefox
-bip_39_word_no_space_8: cashvaultretreatawarecongressvillagefoxsoul
-bip_39_word_no_space_9: cashvaultretreatawarecongressvillagefoxsouldiagram
-bip_39_word_space_0:
-- cash
-- vault
-- retreat
-- aware
-- congress
-- village
-- fox
-- soul
-- diagram
-- muscle
-- warrior
-- arctic
-bip_39_word_space_1: cash
-bip_39_word_space_10: cash vault retreat aware congress village fox soul diagram muscle
-bip_39_word_space_11: cash vault retreat aware congress village fox soul diagram muscle
-  warrior
 bip_39_word_space_12: cash vault retreat aware congress village fox soul diagram muscle
   warrior arctic
 bip_39_word_space_2: cash vault
 bip_39_word_space_3: cash vault retreat
-bip_39_word_space_4: cash vault retreat aware
-bip_39_word_space_5: cash vault retreat aware congress
-bip_39_word_space_6: cash vault retreat aware congress village
-bip_39_word_space_7: cash vault retreat aware congress village fox
-bip_39_word_space_8: cash vault retreat aware congress village fox soul
-bip_39_word_space_9: cash vault retreat aware congress village fox soul diagram
-bip_39_word_underscore_1: cash
-bip_39_word_underscore_10: cash_vault_retreat_aware_congress_village_fox_soul_diagram_muscle
-bip_39_word_underscore_11: cash_vault_retreat_aware_congress_village_fox_soul_diagram_muscle_warrior
 bip_39_word_underscore_12: cash_vault_retreat_aware_congress_village_fox_soul_diagram_muscle_warrior_arctic
 bip_39_word_underscore_2: cash_vault
 bip_39_word_underscore_3: cash_vault_retreat
-bip_39_word_underscore_4: cash_vault_retreat_aware
-bip_39_word_underscore_5: cash_vault_retreat_aware_congress
-bip_39_word_underscore_6: cash_vault_retreat_aware_congress_village
-bip_39_word_underscore_7: cash_vault_retreat_aware_congress_village_fox
-bip_39_word_underscore_8: cash_vault_retreat_aware_congress_village_fox_soul
-bip_39_word_underscore_9: cash_vault_retreat_aware_congress_village_fox_soul_diagram
 classification: project
 classification_capital: Project
 classification_first_letter: p

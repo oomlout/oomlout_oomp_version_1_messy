@@ -1,68 +1,9 @@
-bip_39_word_dash_1: window
-bip_39_word_dash_10: window-estate-asthma-royal-animal-quarter-flight-blind-hammer-lend
-bip_39_word_dash_11: window-estate-asthma-royal-animal-quarter-flight-blind-hammer-lend-interest
 bip_39_word_dash_12: window-estate-asthma-royal-animal-quarter-flight-blind-hammer-lend-interest-admit
 bip_39_word_dash_2: window-estate
 bip_39_word_dash_3: window-estate-asthma
-bip_39_word_dash_4: window-estate-asthma-royal
-bip_39_word_dash_5: window-estate-asthma-royal-animal
-bip_39_word_dash_6: window-estate-asthma-royal-animal-quarter
-bip_39_word_dash_7: window-estate-asthma-royal-animal-quarter-flight
-bip_39_word_dash_8: window-estate-asthma-royal-animal-quarter-flight-blind
-bip_39_word_dash_9: window-estate-asthma-royal-animal-quarter-flight-blind-hammer
-bip_39_word_new_br_1: window
-bip_39_word_new_br_10: window<br>estate<br>asthma<br>royal<br>animal<br>quarter<br>flight<br>blind<br>hammer<br>lend
-bip_39_word_new_br_11: window<br>estate<br>asthma<br>royal<br>animal<br>quarter<br>flight<br>blind<br>hammer<br>lend<br>interest
 bip_39_word_new_br_12: window<br>estate<br>asthma<br>royal<br>animal<br>quarter<br>flight<br>blind<br>hammer<br>lend<br>interest<br>admit
 bip_39_word_new_br_2: window<br>estate
 bip_39_word_new_br_3: window<br>estate<br>asthma
-bip_39_word_new_br_4: window<br>estate<br>asthma<br>royal
-bip_39_word_new_br_5: window<br>estate<br>asthma<br>royal<br>animal
-bip_39_word_new_br_6: window<br>estate<br>asthma<br>royal<br>animal<br>quarter
-bip_39_word_new_br_7: window<br>estate<br>asthma<br>royal<br>animal<br>quarter<br>flight
-bip_39_word_new_br_8: window<br>estate<br>asthma<br>royal<br>animal<br>quarter<br>flight<br>blind
-bip_39_word_new_br_9: window<br>estate<br>asthma<br>royal<br>animal<br>quarter<br>flight<br>blind<br>hammer
-bip_39_word_new_line_1: window
-bip_39_word_new_line_10: 'window
-
-  estate
-
-  asthma
-
-  royal
-
-  animal
-
-  quarter
-
-  flight
-
-  blind
-
-  hammer
-
-  lend'
-bip_39_word_new_line_11: 'window
-
-  estate
-
-  asthma
-
-  royal
-
-  animal
-
-  quarter
-
-  flight
-
-  blind
-
-  hammer
-
-  lend
-
-  interest'
 bip_39_word_new_line_12: 'window
 
   estate
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'window
   estate
 
   asthma'
-bip_39_word_new_line_4: 'window
-
-  estate
-
-  asthma
-
-  royal'
-bip_39_word_new_line_5: 'window
-
-  estate
-
-  asthma
-
-  royal
-
-  animal'
-bip_39_word_new_line_6: 'window
-
-  estate
-
-  asthma
-
-  royal
-
-  animal
-
-  quarter'
-bip_39_word_new_line_7: 'window
-
-  estate
-
-  asthma
-
-  royal
-
-  animal
-
-  quarter
-
-  flight'
-bip_39_word_new_line_8: 'window
-
-  estate
-
-  asthma
-
-  royal
-
-  animal
-
-  quarter
-
-  flight
-
-  blind'
-bip_39_word_new_line_9: 'window
-
-  estate
-
-  asthma
-
-  royal
-
-  animal
-
-  quarter
-
-  flight
-
-  blind
-
-  hammer'
-bip_39_word_no_space_1: window
-bip_39_word_no_space_10: windowestateasthmaroyalanimalquarterflightblindhammerlend
-bip_39_word_no_space_11: windowestateasthmaroyalanimalquarterflightblindhammerlendinterest
 bip_39_word_no_space_12: windowestateasthmaroyalanimalquarterflightblindhammerlendinterestadmit
 bip_39_word_no_space_2: windowestate
 bip_39_word_no_space_3: windowestateasthma
-bip_39_word_no_space_4: windowestateasthmaroyal
-bip_39_word_no_space_5: windowestateasthmaroyalanimal
-bip_39_word_no_space_6: windowestateasthmaroyalanimalquarter
-bip_39_word_no_space_7: windowestateasthmaroyalanimalquarterflight
-bip_39_word_no_space_8: windowestateasthmaroyalanimalquarterflightblind
-bip_39_word_no_space_9: windowestateasthmaroyalanimalquarterflightblindhammer
-bip_39_word_space_0:
-- window
-- estate
-- asthma
-- royal
-- animal
-- quarter
-- flight
-- blind
-- hammer
-- lend
-- interest
-- admit
-bip_39_word_space_1: window
-bip_39_word_space_10: window estate asthma royal animal quarter flight blind hammer
-  lend
-bip_39_word_space_11: window estate asthma royal animal quarter flight blind hammer
-  lend interest
 bip_39_word_space_12: window estate asthma royal animal quarter flight blind hammer
   lend interest admit
 bip_39_word_space_2: window estate
 bip_39_word_space_3: window estate asthma
-bip_39_word_space_4: window estate asthma royal
-bip_39_word_space_5: window estate asthma royal animal
-bip_39_word_space_6: window estate asthma royal animal quarter
-bip_39_word_space_7: window estate asthma royal animal quarter flight
-bip_39_word_space_8: window estate asthma royal animal quarter flight blind
-bip_39_word_space_9: window estate asthma royal animal quarter flight blind hammer
-bip_39_word_underscore_1: window
-bip_39_word_underscore_10: window_estate_asthma_royal_animal_quarter_flight_blind_hammer_lend
-bip_39_word_underscore_11: window_estate_asthma_royal_animal_quarter_flight_blind_hammer_lend_interest
 bip_39_word_underscore_12: window_estate_asthma_royal_animal_quarter_flight_blind_hammer_lend_interest_admit
 bip_39_word_underscore_2: window_estate
 bip_39_word_underscore_3: window_estate_asthma
-bip_39_word_underscore_4: window_estate_asthma_royal
-bip_39_word_underscore_5: window_estate_asthma_royal_animal
-bip_39_word_underscore_6: window_estate_asthma_royal_animal_quarter
-bip_39_word_underscore_7: window_estate_asthma_royal_animal_quarter_flight
-bip_39_word_underscore_8: window_estate_asthma_royal_animal_quarter_flight_blind
-bip_39_word_underscore_9: window_estate_asthma_royal_animal_quarter_flight_blind_hammer
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

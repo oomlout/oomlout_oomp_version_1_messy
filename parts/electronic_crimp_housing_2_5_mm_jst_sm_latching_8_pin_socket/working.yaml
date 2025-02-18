@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lazy
-bip_39_word_dash_10: lazy-ensure-tent-enlist-floor-educate-ensure-peace-victory-virtual
-bip_39_word_dash_11: lazy-ensure-tent-enlist-floor-educate-ensure-peace-victory-virtual-vote
 bip_39_word_dash_12: lazy-ensure-tent-enlist-floor-educate-ensure-peace-victory-virtual-vote-amazing
 bip_39_word_dash_2: lazy-ensure
 bip_39_word_dash_3: lazy-ensure-tent
-bip_39_word_dash_4: lazy-ensure-tent-enlist
-bip_39_word_dash_5: lazy-ensure-tent-enlist-floor
-bip_39_word_dash_6: lazy-ensure-tent-enlist-floor-educate
-bip_39_word_dash_7: lazy-ensure-tent-enlist-floor-educate-ensure
-bip_39_word_dash_8: lazy-ensure-tent-enlist-floor-educate-ensure-peace
-bip_39_word_dash_9: lazy-ensure-tent-enlist-floor-educate-ensure-peace-victory
-bip_39_word_new_br_1: lazy
-bip_39_word_new_br_10: lazy<br>ensure<br>tent<br>enlist<br>floor<br>educate<br>ensure<br>peace<br>victory<br>virtual
-bip_39_word_new_br_11: lazy<br>ensure<br>tent<br>enlist<br>floor<br>educate<br>ensure<br>peace<br>victory<br>virtual<br>vote
 bip_39_word_new_br_12: lazy<br>ensure<br>tent<br>enlist<br>floor<br>educate<br>ensure<br>peace<br>victory<br>virtual<br>vote<br>amazing
 bip_39_word_new_br_2: lazy<br>ensure
 bip_39_word_new_br_3: lazy<br>ensure<br>tent
-bip_39_word_new_br_4: lazy<br>ensure<br>tent<br>enlist
-bip_39_word_new_br_5: lazy<br>ensure<br>tent<br>enlist<br>floor
-bip_39_word_new_br_6: lazy<br>ensure<br>tent<br>enlist<br>floor<br>educate
-bip_39_word_new_br_7: lazy<br>ensure<br>tent<br>enlist<br>floor<br>educate<br>ensure
-bip_39_word_new_br_8: lazy<br>ensure<br>tent<br>enlist<br>floor<br>educate<br>ensure<br>peace
-bip_39_word_new_br_9: lazy<br>ensure<br>tent<br>enlist<br>floor<br>educate<br>ensure<br>peace<br>victory
-bip_39_word_new_line_1: lazy
-bip_39_word_new_line_10: 'lazy
-
-  ensure
-
-  tent
-
-  enlist
-
-  floor
-
-  educate
-
-  ensure
-
-  peace
-
-  victory
-
-  virtual'
-bip_39_word_new_line_11: 'lazy
-
-  ensure
-
-  tent
-
-  enlist
-
-  floor
-
-  educate
-
-  ensure
-
-  peace
-
-  victory
-
-  virtual
-
-  vote'
 bip_39_word_new_line_12: 'lazy
 
   ensure
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'lazy
   ensure
 
   tent'
-bip_39_word_new_line_4: 'lazy
-
-  ensure
-
-  tent
-
-  enlist'
-bip_39_word_new_line_5: 'lazy
-
-  ensure
-
-  tent
-
-  enlist
-
-  floor'
-bip_39_word_new_line_6: 'lazy
-
-  ensure
-
-  tent
-
-  enlist
-
-  floor
-
-  educate'
-bip_39_word_new_line_7: 'lazy
-
-  ensure
-
-  tent
-
-  enlist
-
-  floor
-
-  educate
-
-  ensure'
-bip_39_word_new_line_8: 'lazy
-
-  ensure
-
-  tent
-
-  enlist
-
-  floor
-
-  educate
-
-  ensure
-
-  peace'
-bip_39_word_new_line_9: 'lazy
-
-  ensure
-
-  tent
-
-  enlist
-
-  floor
-
-  educate
-
-  ensure
-
-  peace
-
-  victory'
-bip_39_word_no_space_1: lazy
-bip_39_word_no_space_10: lazyensuretentenlistflooreducateensurepeacevictoryvirtual
-bip_39_word_no_space_11: lazyensuretentenlistflooreducateensurepeacevictoryvirtualvote
 bip_39_word_no_space_12: lazyensuretentenlistflooreducateensurepeacevictoryvirtualvoteamazing
 bip_39_word_no_space_2: lazyensure
 bip_39_word_no_space_3: lazyensuretent
-bip_39_word_no_space_4: lazyensuretentenlist
-bip_39_word_no_space_5: lazyensuretentenlistfloor
-bip_39_word_no_space_6: lazyensuretentenlistflooreducate
-bip_39_word_no_space_7: lazyensuretentenlistflooreducateensure
-bip_39_word_no_space_8: lazyensuretentenlistflooreducateensurepeace
-bip_39_word_no_space_9: lazyensuretentenlistflooreducateensurepeacevictory
-bip_39_word_space_0:
-- lazy
-- ensure
-- tent
-- enlist
-- floor
-- educate
-- ensure
-- peace
-- victory
-- virtual
-- vote
-- amazing
-bip_39_word_space_1: lazy
-bip_39_word_space_10: lazy ensure tent enlist floor educate ensure peace victory virtual
-bip_39_word_space_11: lazy ensure tent enlist floor educate ensure peace victory virtual
-  vote
 bip_39_word_space_12: lazy ensure tent enlist floor educate ensure peace victory virtual
   vote amazing
 bip_39_word_space_2: lazy ensure
 bip_39_word_space_3: lazy ensure tent
-bip_39_word_space_4: lazy ensure tent enlist
-bip_39_word_space_5: lazy ensure tent enlist floor
-bip_39_word_space_6: lazy ensure tent enlist floor educate
-bip_39_word_space_7: lazy ensure tent enlist floor educate ensure
-bip_39_word_space_8: lazy ensure tent enlist floor educate ensure peace
-bip_39_word_space_9: lazy ensure tent enlist floor educate ensure peace victory
-bip_39_word_underscore_1: lazy
-bip_39_word_underscore_10: lazy_ensure_tent_enlist_floor_educate_ensure_peace_victory_virtual
-bip_39_word_underscore_11: lazy_ensure_tent_enlist_floor_educate_ensure_peace_victory_virtual_vote
 bip_39_word_underscore_12: lazy_ensure_tent_enlist_floor_educate_ensure_peace_victory_virtual_vote_amazing
 bip_39_word_underscore_2: lazy_ensure
 bip_39_word_underscore_3: lazy_ensure_tent
-bip_39_word_underscore_4: lazy_ensure_tent_enlist
-bip_39_word_underscore_5: lazy_ensure_tent_enlist_floor
-bip_39_word_underscore_6: lazy_ensure_tent_enlist_floor_educate
-bip_39_word_underscore_7: lazy_ensure_tent_enlist_floor_educate_ensure
-bip_39_word_underscore_8: lazy_ensure_tent_enlist_floor_educate_ensure_peace
-bip_39_word_underscore_9: lazy_ensure_tent_enlist_floor_educate_ensure_peace_victory
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

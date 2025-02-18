@@ -1,68 +1,9 @@
-bip_39_word_dash_1: work
-bip_39_word_dash_10: work-hurdle-alone-pride-rigid-climb-edge-eagle-gift-nice
-bip_39_word_dash_11: work-hurdle-alone-pride-rigid-climb-edge-eagle-gift-nice-subway
 bip_39_word_dash_12: work-hurdle-alone-pride-rigid-climb-edge-eagle-gift-nice-subway-almost
 bip_39_word_dash_2: work-hurdle
 bip_39_word_dash_3: work-hurdle-alone
-bip_39_word_dash_4: work-hurdle-alone-pride
-bip_39_word_dash_5: work-hurdle-alone-pride-rigid
-bip_39_word_dash_6: work-hurdle-alone-pride-rigid-climb
-bip_39_word_dash_7: work-hurdle-alone-pride-rigid-climb-edge
-bip_39_word_dash_8: work-hurdle-alone-pride-rigid-climb-edge-eagle
-bip_39_word_dash_9: work-hurdle-alone-pride-rigid-climb-edge-eagle-gift
-bip_39_word_new_br_1: work
-bip_39_word_new_br_10: work<br>hurdle<br>alone<br>pride<br>rigid<br>climb<br>edge<br>eagle<br>gift<br>nice
-bip_39_word_new_br_11: work<br>hurdle<br>alone<br>pride<br>rigid<br>climb<br>edge<br>eagle<br>gift<br>nice<br>subway
 bip_39_word_new_br_12: work<br>hurdle<br>alone<br>pride<br>rigid<br>climb<br>edge<br>eagle<br>gift<br>nice<br>subway<br>almost
 bip_39_word_new_br_2: work<br>hurdle
 bip_39_word_new_br_3: work<br>hurdle<br>alone
-bip_39_word_new_br_4: work<br>hurdle<br>alone<br>pride
-bip_39_word_new_br_5: work<br>hurdle<br>alone<br>pride<br>rigid
-bip_39_word_new_br_6: work<br>hurdle<br>alone<br>pride<br>rigid<br>climb
-bip_39_word_new_br_7: work<br>hurdle<br>alone<br>pride<br>rigid<br>climb<br>edge
-bip_39_word_new_br_8: work<br>hurdle<br>alone<br>pride<br>rigid<br>climb<br>edge<br>eagle
-bip_39_word_new_br_9: work<br>hurdle<br>alone<br>pride<br>rigid<br>climb<br>edge<br>eagle<br>gift
-bip_39_word_new_line_1: work
-bip_39_word_new_line_10: 'work
-
-  hurdle
-
-  alone
-
-  pride
-
-  rigid
-
-  climb
-
-  edge
-
-  eagle
-
-  gift
-
-  nice'
-bip_39_word_new_line_11: 'work
-
-  hurdle
-
-  alone
-
-  pride
-
-  rigid
-
-  climb
-
-  edge
-
-  eagle
-
-  gift
-
-  nice
-
-  subway'
 bip_39_word_new_line_12: 'work
 
   hurdle
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'work
   hurdle
 
   alone'
-bip_39_word_new_line_4: 'work
-
-  hurdle
-
-  alone
-
-  pride'
-bip_39_word_new_line_5: 'work
-
-  hurdle
-
-  alone
-
-  pride
-
-  rigid'
-bip_39_word_new_line_6: 'work
-
-  hurdle
-
-  alone
-
-  pride
-
-  rigid
-
-  climb'
-bip_39_word_new_line_7: 'work
-
-  hurdle
-
-  alone
-
-  pride
-
-  rigid
-
-  climb
-
-  edge'
-bip_39_word_new_line_8: 'work
-
-  hurdle
-
-  alone
-
-  pride
-
-  rigid
-
-  climb
-
-  edge
-
-  eagle'
-bip_39_word_new_line_9: 'work
-
-  hurdle
-
-  alone
-
-  pride
-
-  rigid
-
-  climb
-
-  edge
-
-  eagle
-
-  gift'
-bip_39_word_no_space_1: work
-bip_39_word_no_space_10: workhurdlealonepriderigidclimbedgeeaglegiftnice
-bip_39_word_no_space_11: workhurdlealonepriderigidclimbedgeeaglegiftnicesubway
 bip_39_word_no_space_12: workhurdlealonepriderigidclimbedgeeaglegiftnicesubwayalmost
 bip_39_word_no_space_2: workhurdle
 bip_39_word_no_space_3: workhurdlealone
-bip_39_word_no_space_4: workhurdlealonepride
-bip_39_word_no_space_5: workhurdlealonepriderigid
-bip_39_word_no_space_6: workhurdlealonepriderigidclimb
-bip_39_word_no_space_7: workhurdlealonepriderigidclimbedge
-bip_39_word_no_space_8: workhurdlealonepriderigidclimbedgeeagle
-bip_39_word_no_space_9: workhurdlealonepriderigidclimbedgeeaglegift
-bip_39_word_space_0:
-- work
-- hurdle
-- alone
-- pride
-- rigid
-- climb
-- edge
-- eagle
-- gift
-- nice
-- subway
-- almost
-bip_39_word_space_1: work
-bip_39_word_space_10: work hurdle alone pride rigid climb edge eagle gift nice
-bip_39_word_space_11: work hurdle alone pride rigid climb edge eagle gift nice subway
 bip_39_word_space_12: work hurdle alone pride rigid climb edge eagle gift nice subway
   almost
 bip_39_word_space_2: work hurdle
 bip_39_word_space_3: work hurdle alone
-bip_39_word_space_4: work hurdle alone pride
-bip_39_word_space_5: work hurdle alone pride rigid
-bip_39_word_space_6: work hurdle alone pride rigid climb
-bip_39_word_space_7: work hurdle alone pride rigid climb edge
-bip_39_word_space_8: work hurdle alone pride rigid climb edge eagle
-bip_39_word_space_9: work hurdle alone pride rigid climb edge eagle gift
-bip_39_word_underscore_1: work
-bip_39_word_underscore_10: work_hurdle_alone_pride_rigid_climb_edge_eagle_gift_nice
-bip_39_word_underscore_11: work_hurdle_alone_pride_rigid_climb_edge_eagle_gift_nice_subway
 bip_39_word_underscore_12: work_hurdle_alone_pride_rigid_climb_edge_eagle_gift_nice_subway_almost
 bip_39_word_underscore_2: work_hurdle
 bip_39_word_underscore_3: work_hurdle_alone
-bip_39_word_underscore_4: work_hurdle_alone_pride
-bip_39_word_underscore_5: work_hurdle_alone_pride_rigid
-bip_39_word_underscore_6: work_hurdle_alone_pride_rigid_climb
-bip_39_word_underscore_7: work_hurdle_alone_pride_rigid_climb_edge
-bip_39_word_underscore_8: work_hurdle_alone_pride_rigid_climb_edge_eagle
-bip_39_word_underscore_9: work_hurdle_alone_pride_rigid_climb_edge_eagle_gift
 classification: category
 classification_capital: Category
 classification_first_letter: c

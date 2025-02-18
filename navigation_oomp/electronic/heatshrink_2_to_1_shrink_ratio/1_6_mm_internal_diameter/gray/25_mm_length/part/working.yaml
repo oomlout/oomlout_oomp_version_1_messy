@@ -1,68 +1,9 @@
-bip_39_word_dash_1: crawl
-bip_39_word_dash_10: crawl-indoor-mutual-board-clever-common-mutual-phone-silly-until
-bip_39_word_dash_11: crawl-indoor-mutual-board-clever-common-mutual-phone-silly-until-behave
 bip_39_word_dash_12: crawl-indoor-mutual-board-clever-common-mutual-phone-silly-until-behave-airport
 bip_39_word_dash_2: crawl-indoor
 bip_39_word_dash_3: crawl-indoor-mutual
-bip_39_word_dash_4: crawl-indoor-mutual-board
-bip_39_word_dash_5: crawl-indoor-mutual-board-clever
-bip_39_word_dash_6: crawl-indoor-mutual-board-clever-common
-bip_39_word_dash_7: crawl-indoor-mutual-board-clever-common-mutual
-bip_39_word_dash_8: crawl-indoor-mutual-board-clever-common-mutual-phone
-bip_39_word_dash_9: crawl-indoor-mutual-board-clever-common-mutual-phone-silly
-bip_39_word_new_br_1: crawl
-bip_39_word_new_br_10: crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until
-bip_39_word_new_br_11: crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until<br>behave
 bip_39_word_new_br_12: crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly<br>until<br>behave<br>airport
 bip_39_word_new_br_2: crawl<br>indoor
 bip_39_word_new_br_3: crawl<br>indoor<br>mutual
-bip_39_word_new_br_4: crawl<br>indoor<br>mutual<br>board
-bip_39_word_new_br_5: crawl<br>indoor<br>mutual<br>board<br>clever
-bip_39_word_new_br_6: crawl<br>indoor<br>mutual<br>board<br>clever<br>common
-bip_39_word_new_br_7: crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual
-bip_39_word_new_br_8: crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone
-bip_39_word_new_br_9: crawl<br>indoor<br>mutual<br>board<br>clever<br>common<br>mutual<br>phone<br>silly
-bip_39_word_new_line_1: crawl
-bip_39_word_new_line_10: 'crawl
-
-  indoor
-
-  mutual
-
-  board
-
-  clever
-
-  common
-
-  mutual
-
-  phone
-
-  silly
-
-  until'
-bip_39_word_new_line_11: 'crawl
-
-  indoor
-
-  mutual
-
-  board
-
-  clever
-
-  common
-
-  mutual
-
-  phone
-
-  silly
-
-  until
-
-  behave'
 bip_39_word_new_line_12: 'crawl
 
   indoor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'crawl
   indoor
 
   mutual'
-bip_39_word_new_line_4: 'crawl
-
-  indoor
-
-  mutual
-
-  board'
-bip_39_word_new_line_5: 'crawl
-
-  indoor
-
-  mutual
-
-  board
-
-  clever'
-bip_39_word_new_line_6: 'crawl
-
-  indoor
-
-  mutual
-
-  board
-
-  clever
-
-  common'
-bip_39_word_new_line_7: 'crawl
-
-  indoor
-
-  mutual
-
-  board
-
-  clever
-
-  common
-
-  mutual'
-bip_39_word_new_line_8: 'crawl
-
-  indoor
-
-  mutual
-
-  board
-
-  clever
-
-  common
-
-  mutual
-
-  phone'
-bip_39_word_new_line_9: 'crawl
-
-  indoor
-
-  mutual
-
-  board
-
-  clever
-
-  common
-
-  mutual
-
-  phone
-
-  silly'
-bip_39_word_no_space_1: crawl
-bip_39_word_no_space_10: crawlindoormutualboardclevercommonmutualphonesillyuntil
-bip_39_word_no_space_11: crawlindoormutualboardclevercommonmutualphonesillyuntilbehave
 bip_39_word_no_space_12: crawlindoormutualboardclevercommonmutualphonesillyuntilbehaveairport
 bip_39_word_no_space_2: crawlindoor
 bip_39_word_no_space_3: crawlindoormutual
-bip_39_word_no_space_4: crawlindoormutualboard
-bip_39_word_no_space_5: crawlindoormutualboardclever
-bip_39_word_no_space_6: crawlindoormutualboardclevercommon
-bip_39_word_no_space_7: crawlindoormutualboardclevercommonmutual
-bip_39_word_no_space_8: crawlindoormutualboardclevercommonmutualphone
-bip_39_word_no_space_9: crawlindoormutualboardclevercommonmutualphonesilly
-bip_39_word_space_0:
-- crawl
-- indoor
-- mutual
-- board
-- clever
-- common
-- mutual
-- phone
-- silly
-- until
-- behave
-- airport
-bip_39_word_space_1: crawl
-bip_39_word_space_10: crawl indoor mutual board clever common mutual phone silly until
-bip_39_word_space_11: crawl indoor mutual board clever common mutual phone silly until
-  behave
 bip_39_word_space_12: crawl indoor mutual board clever common mutual phone silly until
   behave airport
 bip_39_word_space_2: crawl indoor
 bip_39_word_space_3: crawl indoor mutual
-bip_39_word_space_4: crawl indoor mutual board
-bip_39_word_space_5: crawl indoor mutual board clever
-bip_39_word_space_6: crawl indoor mutual board clever common
-bip_39_word_space_7: crawl indoor mutual board clever common mutual
-bip_39_word_space_8: crawl indoor mutual board clever common mutual phone
-bip_39_word_space_9: crawl indoor mutual board clever common mutual phone silly
-bip_39_word_underscore_1: crawl
-bip_39_word_underscore_10: crawl_indoor_mutual_board_clever_common_mutual_phone_silly_until
-bip_39_word_underscore_11: crawl_indoor_mutual_board_clever_common_mutual_phone_silly_until_behave
 bip_39_word_underscore_12: crawl_indoor_mutual_board_clever_common_mutual_phone_silly_until_behave_airport
 bip_39_word_underscore_2: crawl_indoor
 bip_39_word_underscore_3: crawl_indoor_mutual
-bip_39_word_underscore_4: crawl_indoor_mutual_board
-bip_39_word_underscore_5: crawl_indoor_mutual_board_clever
-bip_39_word_underscore_6: crawl_indoor_mutual_board_clever_common
-bip_39_word_underscore_7: crawl_indoor_mutual_board_clever_common_mutual
-bip_39_word_underscore_8: crawl_indoor_mutual_board_clever_common_mutual_phone
-bip_39_word_underscore_9: crawl_indoor_mutual_board_clever_common_mutual_phone_silly
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

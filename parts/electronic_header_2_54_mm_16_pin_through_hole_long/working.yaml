@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ranch
-bip_39_word_dash_10: ranch-elbow-require-six-stairs-atom-disease-spawn-animal-reject
-bip_39_word_dash_11: ranch-elbow-require-six-stairs-atom-disease-spawn-animal-reject-upper
 bip_39_word_dash_12: ranch-elbow-require-six-stairs-atom-disease-spawn-animal-reject-upper-artwork
 bip_39_word_dash_2: ranch-elbow
 bip_39_word_dash_3: ranch-elbow-require
-bip_39_word_dash_4: ranch-elbow-require-six
-bip_39_word_dash_5: ranch-elbow-require-six-stairs
-bip_39_word_dash_6: ranch-elbow-require-six-stairs-atom
-bip_39_word_dash_7: ranch-elbow-require-six-stairs-atom-disease
-bip_39_word_dash_8: ranch-elbow-require-six-stairs-atom-disease-spawn
-bip_39_word_dash_9: ranch-elbow-require-six-stairs-atom-disease-spawn-animal
-bip_39_word_new_br_1: ranch
-bip_39_word_new_br_10: ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject
-bip_39_word_new_br_11: ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject<br>upper
 bip_39_word_new_br_12: ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal<br>reject<br>upper<br>artwork
 bip_39_word_new_br_2: ranch<br>elbow
 bip_39_word_new_br_3: ranch<br>elbow<br>require
-bip_39_word_new_br_4: ranch<br>elbow<br>require<br>six
-bip_39_word_new_br_5: ranch<br>elbow<br>require<br>six<br>stairs
-bip_39_word_new_br_6: ranch<br>elbow<br>require<br>six<br>stairs<br>atom
-bip_39_word_new_br_7: ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease
-bip_39_word_new_br_8: ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn
-bip_39_word_new_br_9: ranch<br>elbow<br>require<br>six<br>stairs<br>atom<br>disease<br>spawn<br>animal
-bip_39_word_new_line_1: ranch
-bip_39_word_new_line_10: 'ranch
-
-  elbow
-
-  require
-
-  six
-
-  stairs
-
-  atom
-
-  disease
-
-  spawn
-
-  animal
-
-  reject'
-bip_39_word_new_line_11: 'ranch
-
-  elbow
-
-  require
-
-  six
-
-  stairs
-
-  atom
-
-  disease
-
-  spawn
-
-  animal
-
-  reject
-
-  upper'
 bip_39_word_new_line_12: 'ranch
 
   elbow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ranch
   elbow
 
   require'
-bip_39_word_new_line_4: 'ranch
-
-  elbow
-
-  require
-
-  six'
-bip_39_word_new_line_5: 'ranch
-
-  elbow
-
-  require
-
-  six
-
-  stairs'
-bip_39_word_new_line_6: 'ranch
-
-  elbow
-
-  require
-
-  six
-
-  stairs
-
-  atom'
-bip_39_word_new_line_7: 'ranch
-
-  elbow
-
-  require
-
-  six
-
-  stairs
-
-  atom
-
-  disease'
-bip_39_word_new_line_8: 'ranch
-
-  elbow
-
-  require
-
-  six
-
-  stairs
-
-  atom
-
-  disease
-
-  spawn'
-bip_39_word_new_line_9: 'ranch
-
-  elbow
-
-  require
-
-  six
-
-  stairs
-
-  atom
-
-  disease
-
-  spawn
-
-  animal'
-bip_39_word_no_space_1: ranch
-bip_39_word_no_space_10: ranchelbowrequiresixstairsatomdiseasespawnanimalreject
-bip_39_word_no_space_11: ranchelbowrequiresixstairsatomdiseasespawnanimalrejectupper
 bip_39_word_no_space_12: ranchelbowrequiresixstairsatomdiseasespawnanimalrejectupperartwork
 bip_39_word_no_space_2: ranchelbow
 bip_39_word_no_space_3: ranchelbowrequire
-bip_39_word_no_space_4: ranchelbowrequiresix
-bip_39_word_no_space_5: ranchelbowrequiresixstairs
-bip_39_word_no_space_6: ranchelbowrequiresixstairsatom
-bip_39_word_no_space_7: ranchelbowrequiresixstairsatomdisease
-bip_39_word_no_space_8: ranchelbowrequiresixstairsatomdiseasespawn
-bip_39_word_no_space_9: ranchelbowrequiresixstairsatomdiseasespawnanimal
-bip_39_word_space_0:
-- ranch
-- elbow
-- require
-- six
-- stairs
-- atom
-- disease
-- spawn
-- animal
-- reject
-- upper
-- artwork
-bip_39_word_space_1: ranch
-bip_39_word_space_10: ranch elbow require six stairs atom disease spawn animal reject
-bip_39_word_space_11: ranch elbow require six stairs atom disease spawn animal reject
-  upper
 bip_39_word_space_12: ranch elbow require six stairs atom disease spawn animal reject
   upper artwork
 bip_39_word_space_2: ranch elbow
 bip_39_word_space_3: ranch elbow require
-bip_39_word_space_4: ranch elbow require six
-bip_39_word_space_5: ranch elbow require six stairs
-bip_39_word_space_6: ranch elbow require six stairs atom
-bip_39_word_space_7: ranch elbow require six stairs atom disease
-bip_39_word_space_8: ranch elbow require six stairs atom disease spawn
-bip_39_word_space_9: ranch elbow require six stairs atom disease spawn animal
-bip_39_word_underscore_1: ranch
-bip_39_word_underscore_10: ranch_elbow_require_six_stairs_atom_disease_spawn_animal_reject
-bip_39_word_underscore_11: ranch_elbow_require_six_stairs_atom_disease_spawn_animal_reject_upper
 bip_39_word_underscore_12: ranch_elbow_require_six_stairs_atom_disease_spawn_animal_reject_upper_artwork
 bip_39_word_underscore_2: ranch_elbow
 bip_39_word_underscore_3: ranch_elbow_require
-bip_39_word_underscore_4: ranch_elbow_require_six
-bip_39_word_underscore_5: ranch_elbow_require_six_stairs
-bip_39_word_underscore_6: ranch_elbow_require_six_stairs_atom
-bip_39_word_underscore_7: ranch_elbow_require_six_stairs_atom_disease
-bip_39_word_underscore_8: ranch_elbow_require_six_stairs_atom_disease_spawn
-bip_39_word_underscore_9: ranch_elbow_require_six_stairs_atom_disease_spawn_animal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

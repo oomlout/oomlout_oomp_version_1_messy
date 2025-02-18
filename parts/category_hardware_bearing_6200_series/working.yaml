@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wire
-bip_39_word_dash_10: wire-length-credit-ankle-satoshi-want-foot-cable-unhappy-salt
-bip_39_word_dash_11: wire-length-credit-ankle-satoshi-want-foot-cable-unhappy-salt-woman
 bip_39_word_dash_12: wire-length-credit-ankle-satoshi-want-foot-cable-unhappy-salt-woman-actual
 bip_39_word_dash_2: wire-length
 bip_39_word_dash_3: wire-length-credit
-bip_39_word_dash_4: wire-length-credit-ankle
-bip_39_word_dash_5: wire-length-credit-ankle-satoshi
-bip_39_word_dash_6: wire-length-credit-ankle-satoshi-want
-bip_39_word_dash_7: wire-length-credit-ankle-satoshi-want-foot
-bip_39_word_dash_8: wire-length-credit-ankle-satoshi-want-foot-cable
-bip_39_word_dash_9: wire-length-credit-ankle-satoshi-want-foot-cable-unhappy
-bip_39_word_new_br_1: wire
-bip_39_word_new_br_10: wire<br>length<br>credit<br>ankle<br>satoshi<br>want<br>foot<br>cable<br>unhappy<br>salt
-bip_39_word_new_br_11: wire<br>length<br>credit<br>ankle<br>satoshi<br>want<br>foot<br>cable<br>unhappy<br>salt<br>woman
 bip_39_word_new_br_12: wire<br>length<br>credit<br>ankle<br>satoshi<br>want<br>foot<br>cable<br>unhappy<br>salt<br>woman<br>actual
 bip_39_word_new_br_2: wire<br>length
 bip_39_word_new_br_3: wire<br>length<br>credit
-bip_39_word_new_br_4: wire<br>length<br>credit<br>ankle
-bip_39_word_new_br_5: wire<br>length<br>credit<br>ankle<br>satoshi
-bip_39_word_new_br_6: wire<br>length<br>credit<br>ankle<br>satoshi<br>want
-bip_39_word_new_br_7: wire<br>length<br>credit<br>ankle<br>satoshi<br>want<br>foot
-bip_39_word_new_br_8: wire<br>length<br>credit<br>ankle<br>satoshi<br>want<br>foot<br>cable
-bip_39_word_new_br_9: wire<br>length<br>credit<br>ankle<br>satoshi<br>want<br>foot<br>cable<br>unhappy
-bip_39_word_new_line_1: wire
-bip_39_word_new_line_10: 'wire
-
-  length
-
-  credit
-
-  ankle
-
-  satoshi
-
-  want
-
-  foot
-
-  cable
-
-  unhappy
-
-  salt'
-bip_39_word_new_line_11: 'wire
-
-  length
-
-  credit
-
-  ankle
-
-  satoshi
-
-  want
-
-  foot
-
-  cable
-
-  unhappy
-
-  salt
-
-  woman'
 bip_39_word_new_line_12: 'wire
 
   length
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wire
   length
 
   credit'
-bip_39_word_new_line_4: 'wire
-
-  length
-
-  credit
-
-  ankle'
-bip_39_word_new_line_5: 'wire
-
-  length
-
-  credit
-
-  ankle
-
-  satoshi'
-bip_39_word_new_line_6: 'wire
-
-  length
-
-  credit
-
-  ankle
-
-  satoshi
-
-  want'
-bip_39_word_new_line_7: 'wire
-
-  length
-
-  credit
-
-  ankle
-
-  satoshi
-
-  want
-
-  foot'
-bip_39_word_new_line_8: 'wire
-
-  length
-
-  credit
-
-  ankle
-
-  satoshi
-
-  want
-
-  foot
-
-  cable'
-bip_39_word_new_line_9: 'wire
-
-  length
-
-  credit
-
-  ankle
-
-  satoshi
-
-  want
-
-  foot
-
-  cable
-
-  unhappy'
-bip_39_word_no_space_1: wire
-bip_39_word_no_space_10: wirelengthcreditanklesatoshiwantfootcableunhappysalt
-bip_39_word_no_space_11: wirelengthcreditanklesatoshiwantfootcableunhappysaltwoman
 bip_39_word_no_space_12: wirelengthcreditanklesatoshiwantfootcableunhappysaltwomanactual
 bip_39_word_no_space_2: wirelength
 bip_39_word_no_space_3: wirelengthcredit
-bip_39_word_no_space_4: wirelengthcreditankle
-bip_39_word_no_space_5: wirelengthcreditanklesatoshi
-bip_39_word_no_space_6: wirelengthcreditanklesatoshiwant
-bip_39_word_no_space_7: wirelengthcreditanklesatoshiwantfoot
-bip_39_word_no_space_8: wirelengthcreditanklesatoshiwantfootcable
-bip_39_word_no_space_9: wirelengthcreditanklesatoshiwantfootcableunhappy
-bip_39_word_space_0:
-- wire
-- length
-- credit
-- ankle
-- satoshi
-- want
-- foot
-- cable
-- unhappy
-- salt
-- woman
-- actual
-bip_39_word_space_1: wire
-bip_39_word_space_10: wire length credit ankle satoshi want foot cable unhappy salt
-bip_39_word_space_11: wire length credit ankle satoshi want foot cable unhappy salt
-  woman
 bip_39_word_space_12: wire length credit ankle satoshi want foot cable unhappy salt
   woman actual
 bip_39_word_space_2: wire length
 bip_39_word_space_3: wire length credit
-bip_39_word_space_4: wire length credit ankle
-bip_39_word_space_5: wire length credit ankle satoshi
-bip_39_word_space_6: wire length credit ankle satoshi want
-bip_39_word_space_7: wire length credit ankle satoshi want foot
-bip_39_word_space_8: wire length credit ankle satoshi want foot cable
-bip_39_word_space_9: wire length credit ankle satoshi want foot cable unhappy
-bip_39_word_underscore_1: wire
-bip_39_word_underscore_10: wire_length_credit_ankle_satoshi_want_foot_cable_unhappy_salt
-bip_39_word_underscore_11: wire_length_credit_ankle_satoshi_want_foot_cable_unhappy_salt_woman
 bip_39_word_underscore_12: wire_length_credit_ankle_satoshi_want_foot_cable_unhappy_salt_woman_actual
 bip_39_word_underscore_2: wire_length
 bip_39_word_underscore_3: wire_length_credit
-bip_39_word_underscore_4: wire_length_credit_ankle
-bip_39_word_underscore_5: wire_length_credit_ankle_satoshi
-bip_39_word_underscore_6: wire_length_credit_ankle_satoshi_want
-bip_39_word_underscore_7: wire_length_credit_ankle_satoshi_want_foot
-bip_39_word_underscore_8: wire_length_credit_ankle_satoshi_want_foot_cable
-bip_39_word_underscore_9: wire_length_credit_ankle_satoshi_want_foot_cable_unhappy
 classification: category
 classification_capital: Category
 classification_first_letter: c

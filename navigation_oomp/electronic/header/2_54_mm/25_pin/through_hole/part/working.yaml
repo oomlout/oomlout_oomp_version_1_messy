@@ -1,68 +1,9 @@
-bip_39_word_dash_1: excite
-bip_39_word_dash_10: excite-trim-remove-device-case-fatigue-picnic-critic-snow-improve
-bip_39_word_dash_11: excite-trim-remove-device-case-fatigue-picnic-critic-snow-improve-recall
 bip_39_word_dash_12: excite-trim-remove-device-case-fatigue-picnic-critic-snow-improve-recall-actual
 bip_39_word_dash_2: excite-trim
 bip_39_word_dash_3: excite-trim-remove
-bip_39_word_dash_4: excite-trim-remove-device
-bip_39_word_dash_5: excite-trim-remove-device-case
-bip_39_word_dash_6: excite-trim-remove-device-case-fatigue
-bip_39_word_dash_7: excite-trim-remove-device-case-fatigue-picnic
-bip_39_word_dash_8: excite-trim-remove-device-case-fatigue-picnic-critic
-bip_39_word_dash_9: excite-trim-remove-device-case-fatigue-picnic-critic-snow
-bip_39_word_new_br_1: excite
-bip_39_word_new_br_10: excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve
-bip_39_word_new_br_11: excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve<br>recall
 bip_39_word_new_br_12: excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve<br>recall<br>actual
 bip_39_word_new_br_2: excite<br>trim
 bip_39_word_new_br_3: excite<br>trim<br>remove
-bip_39_word_new_br_4: excite<br>trim<br>remove<br>device
-bip_39_word_new_br_5: excite<br>trim<br>remove<br>device<br>case
-bip_39_word_new_br_6: excite<br>trim<br>remove<br>device<br>case<br>fatigue
-bip_39_word_new_br_7: excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic
-bip_39_word_new_br_8: excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic
-bip_39_word_new_br_9: excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow
-bip_39_word_new_line_1: excite
-bip_39_word_new_line_10: 'excite
-
-  trim
-
-  remove
-
-  device
-
-  case
-
-  fatigue
-
-  picnic
-
-  critic
-
-  snow
-
-  improve'
-bip_39_word_new_line_11: 'excite
-
-  trim
-
-  remove
-
-  device
-
-  case
-
-  fatigue
-
-  picnic
-
-  critic
-
-  snow
-
-  improve
-
-  recall'
 bip_39_word_new_line_12: 'excite
 
   trim
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'excite
   trim
 
   remove'
-bip_39_word_new_line_4: 'excite
-
-  trim
-
-  remove
-
-  device'
-bip_39_word_new_line_5: 'excite
-
-  trim
-
-  remove
-
-  device
-
-  case'
-bip_39_word_new_line_6: 'excite
-
-  trim
-
-  remove
-
-  device
-
-  case
-
-  fatigue'
-bip_39_word_new_line_7: 'excite
-
-  trim
-
-  remove
-
-  device
-
-  case
-
-  fatigue
-
-  picnic'
-bip_39_word_new_line_8: 'excite
-
-  trim
-
-  remove
-
-  device
-
-  case
-
-  fatigue
-
-  picnic
-
-  critic'
-bip_39_word_new_line_9: 'excite
-
-  trim
-
-  remove
-
-  device
-
-  case
-
-  fatigue
-
-  picnic
-
-  critic
-
-  snow'
-bip_39_word_no_space_1: excite
-bip_39_word_no_space_10: excitetrimremovedevicecasefatiguepicniccriticsnowimprove
-bip_39_word_no_space_11: excitetrimremovedevicecasefatiguepicniccriticsnowimproverecall
 bip_39_word_no_space_12: excitetrimremovedevicecasefatiguepicniccriticsnowimproverecallactual
 bip_39_word_no_space_2: excitetrim
 bip_39_word_no_space_3: excitetrimremove
-bip_39_word_no_space_4: excitetrimremovedevice
-bip_39_word_no_space_5: excitetrimremovedevicecase
-bip_39_word_no_space_6: excitetrimremovedevicecasefatigue
-bip_39_word_no_space_7: excitetrimremovedevicecasefatiguepicnic
-bip_39_word_no_space_8: excitetrimremovedevicecasefatiguepicniccritic
-bip_39_word_no_space_9: excitetrimremovedevicecasefatiguepicniccriticsnow
-bip_39_word_space_0:
-- excite
-- trim
-- remove
-- device
-- case
-- fatigue
-- picnic
-- critic
-- snow
-- improve
-- recall
-- actual
-bip_39_word_space_1: excite
-bip_39_word_space_10: excite trim remove device case fatigue picnic critic snow improve
-bip_39_word_space_11: excite trim remove device case fatigue picnic critic snow improve
-  recall
 bip_39_word_space_12: excite trim remove device case fatigue picnic critic snow improve
   recall actual
 bip_39_word_space_2: excite trim
 bip_39_word_space_3: excite trim remove
-bip_39_word_space_4: excite trim remove device
-bip_39_word_space_5: excite trim remove device case
-bip_39_word_space_6: excite trim remove device case fatigue
-bip_39_word_space_7: excite trim remove device case fatigue picnic
-bip_39_word_space_8: excite trim remove device case fatigue picnic critic
-bip_39_word_space_9: excite trim remove device case fatigue picnic critic snow
-bip_39_word_underscore_1: excite
-bip_39_word_underscore_10: excite_trim_remove_device_case_fatigue_picnic_critic_snow_improve
-bip_39_word_underscore_11: excite_trim_remove_device_case_fatigue_picnic_critic_snow_improve_recall
 bip_39_word_underscore_12: excite_trim_remove_device_case_fatigue_picnic_critic_snow_improve_recall_actual
 bip_39_word_underscore_2: excite_trim
 bip_39_word_underscore_3: excite_trim_remove
-bip_39_word_underscore_4: excite_trim_remove_device
-bip_39_word_underscore_5: excite_trim_remove_device_case
-bip_39_word_underscore_6: excite_trim_remove_device_case_fatigue
-bip_39_word_underscore_7: excite_trim_remove_device_case_fatigue_picnic
-bip_39_word_underscore_8: excite_trim_remove_device_case_fatigue_picnic_critic
-bip_39_word_underscore_9: excite_trim_remove_device_case_fatigue_picnic_critic_snow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: torch
-bip_39_word_dash_10: torch-allow-bomb-execute-popular-orbit-hole-reflect-oppose-tissue
-bip_39_word_dash_11: torch-allow-bomb-execute-popular-orbit-hole-reflect-oppose-tissue-aerobic
 bip_39_word_dash_12: torch-allow-bomb-execute-popular-orbit-hole-reflect-oppose-tissue-aerobic-arrow
 bip_39_word_dash_2: torch-allow
 bip_39_word_dash_3: torch-allow-bomb
-bip_39_word_dash_4: torch-allow-bomb-execute
-bip_39_word_dash_5: torch-allow-bomb-execute-popular
-bip_39_word_dash_6: torch-allow-bomb-execute-popular-orbit
-bip_39_word_dash_7: torch-allow-bomb-execute-popular-orbit-hole
-bip_39_word_dash_8: torch-allow-bomb-execute-popular-orbit-hole-reflect
-bip_39_word_dash_9: torch-allow-bomb-execute-popular-orbit-hole-reflect-oppose
-bip_39_word_new_br_1: torch
-bip_39_word_new_br_10: torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue
-bip_39_word_new_br_11: torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue<br>aerobic
 bip_39_word_new_br_12: torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue<br>aerobic<br>arrow
 bip_39_word_new_br_2: torch<br>allow
 bip_39_word_new_br_3: torch<br>allow<br>bomb
-bip_39_word_new_br_4: torch<br>allow<br>bomb<br>execute
-bip_39_word_new_br_5: torch<br>allow<br>bomb<br>execute<br>popular
-bip_39_word_new_br_6: torch<br>allow<br>bomb<br>execute<br>popular<br>orbit
-bip_39_word_new_br_7: torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole
-bip_39_word_new_br_8: torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect
-bip_39_word_new_br_9: torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose
-bip_39_word_new_line_1: torch
-bip_39_word_new_line_10: 'torch
-
-  allow
-
-  bomb
-
-  execute
-
-  popular
-
-  orbit
-
-  hole
-
-  reflect
-
-  oppose
-
-  tissue'
-bip_39_word_new_line_11: 'torch
-
-  allow
-
-  bomb
-
-  execute
-
-  popular
-
-  orbit
-
-  hole
-
-  reflect
-
-  oppose
-
-  tissue
-
-  aerobic'
 bip_39_word_new_line_12: 'torch
 
   allow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'torch
   allow
 
   bomb'
-bip_39_word_new_line_4: 'torch
-
-  allow
-
-  bomb
-
-  execute'
-bip_39_word_new_line_5: 'torch
-
-  allow
-
-  bomb
-
-  execute
-
-  popular'
-bip_39_word_new_line_6: 'torch
-
-  allow
-
-  bomb
-
-  execute
-
-  popular
-
-  orbit'
-bip_39_word_new_line_7: 'torch
-
-  allow
-
-  bomb
-
-  execute
-
-  popular
-
-  orbit
-
-  hole'
-bip_39_word_new_line_8: 'torch
-
-  allow
-
-  bomb
-
-  execute
-
-  popular
-
-  orbit
-
-  hole
-
-  reflect'
-bip_39_word_new_line_9: 'torch
-
-  allow
-
-  bomb
-
-  execute
-
-  popular
-
-  orbit
-
-  hole
-
-  reflect
-
-  oppose'
-bip_39_word_no_space_1: torch
-bip_39_word_no_space_10: torchallowbombexecutepopularorbitholereflectopposetissue
-bip_39_word_no_space_11: torchallowbombexecutepopularorbitholereflectopposetissueaerobic
 bip_39_word_no_space_12: torchallowbombexecutepopularorbitholereflectopposetissueaerobicarrow
 bip_39_word_no_space_2: torchallow
 bip_39_word_no_space_3: torchallowbomb
-bip_39_word_no_space_4: torchallowbombexecute
-bip_39_word_no_space_5: torchallowbombexecutepopular
-bip_39_word_no_space_6: torchallowbombexecutepopularorbit
-bip_39_word_no_space_7: torchallowbombexecutepopularorbithole
-bip_39_word_no_space_8: torchallowbombexecutepopularorbitholereflect
-bip_39_word_no_space_9: torchallowbombexecutepopularorbitholereflectoppose
-bip_39_word_space_0:
-- torch
-- allow
-- bomb
-- execute
-- popular
-- orbit
-- hole
-- reflect
-- oppose
-- tissue
-- aerobic
-- arrow
-bip_39_word_space_1: torch
-bip_39_word_space_10: torch allow bomb execute popular orbit hole reflect oppose tissue
-bip_39_word_space_11: torch allow bomb execute popular orbit hole reflect oppose tissue
-  aerobic
 bip_39_word_space_12: torch allow bomb execute popular orbit hole reflect oppose tissue
   aerobic arrow
 bip_39_word_space_2: torch allow
 bip_39_word_space_3: torch allow bomb
-bip_39_word_space_4: torch allow bomb execute
-bip_39_word_space_5: torch allow bomb execute popular
-bip_39_word_space_6: torch allow bomb execute popular orbit
-bip_39_word_space_7: torch allow bomb execute popular orbit hole
-bip_39_word_space_8: torch allow bomb execute popular orbit hole reflect
-bip_39_word_space_9: torch allow bomb execute popular orbit hole reflect oppose
-bip_39_word_underscore_1: torch
-bip_39_word_underscore_10: torch_allow_bomb_execute_popular_orbit_hole_reflect_oppose_tissue
-bip_39_word_underscore_11: torch_allow_bomb_execute_popular_orbit_hole_reflect_oppose_tissue_aerobic
 bip_39_word_underscore_12: torch_allow_bomb_execute_popular_orbit_hole_reflect_oppose_tissue_aerobic_arrow
 bip_39_word_underscore_2: torch_allow
 bip_39_word_underscore_3: torch_allow_bomb
-bip_39_word_underscore_4: torch_allow_bomb_execute
-bip_39_word_underscore_5: torch_allow_bomb_execute_popular
-bip_39_word_underscore_6: torch_allow_bomb_execute_popular_orbit
-bip_39_word_underscore_7: torch_allow_bomb_execute_popular_orbit_hole
-bip_39_word_underscore_8: torch_allow_bomb_execute_popular_orbit_hole_reflect
-bip_39_word_underscore_9: torch_allow_bomb_execute_popular_orbit_hole_reflect_oppose
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

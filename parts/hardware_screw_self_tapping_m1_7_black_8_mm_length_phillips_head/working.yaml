@@ -1,68 +1,9 @@
-bip_39_word_dash_1: boss
-bip_39_word_dash_10: boss-lounge-cover-confirm-waste-glove-crop-share-maze-cry
-bip_39_word_dash_11: boss-lounge-cover-confirm-waste-glove-crop-share-maze-cry-milk
 bip_39_word_dash_12: boss-lounge-cover-confirm-waste-glove-crop-share-maze-cry-milk-alcohol
 bip_39_word_dash_2: boss-lounge
 bip_39_word_dash_3: boss-lounge-cover
-bip_39_word_dash_4: boss-lounge-cover-confirm
-bip_39_word_dash_5: boss-lounge-cover-confirm-waste
-bip_39_word_dash_6: boss-lounge-cover-confirm-waste-glove
-bip_39_word_dash_7: boss-lounge-cover-confirm-waste-glove-crop
-bip_39_word_dash_8: boss-lounge-cover-confirm-waste-glove-crop-share
-bip_39_word_dash_9: boss-lounge-cover-confirm-waste-glove-crop-share-maze
-bip_39_word_new_br_1: boss
-bip_39_word_new_br_10: boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry
-bip_39_word_new_br_11: boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry<br>milk
 bip_39_word_new_br_12: boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry<br>milk<br>alcohol
 bip_39_word_new_br_2: boss<br>lounge
 bip_39_word_new_br_3: boss<br>lounge<br>cover
-bip_39_word_new_br_4: boss<br>lounge<br>cover<br>confirm
-bip_39_word_new_br_5: boss<br>lounge<br>cover<br>confirm<br>waste
-bip_39_word_new_br_6: boss<br>lounge<br>cover<br>confirm<br>waste<br>glove
-bip_39_word_new_br_7: boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop
-bip_39_word_new_br_8: boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share
-bip_39_word_new_br_9: boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze
-bip_39_word_new_line_1: boss
-bip_39_word_new_line_10: 'boss
-
-  lounge
-
-  cover
-
-  confirm
-
-  waste
-
-  glove
-
-  crop
-
-  share
-
-  maze
-
-  cry'
-bip_39_word_new_line_11: 'boss
-
-  lounge
-
-  cover
-
-  confirm
-
-  waste
-
-  glove
-
-  crop
-
-  share
-
-  maze
-
-  cry
-
-  milk'
 bip_39_word_new_line_12: 'boss
 
   lounge
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'boss
   lounge
 
   cover'
-bip_39_word_new_line_4: 'boss
-
-  lounge
-
-  cover
-
-  confirm'
-bip_39_word_new_line_5: 'boss
-
-  lounge
-
-  cover
-
-  confirm
-
-  waste'
-bip_39_word_new_line_6: 'boss
-
-  lounge
-
-  cover
-
-  confirm
-
-  waste
-
-  glove'
-bip_39_word_new_line_7: 'boss
-
-  lounge
-
-  cover
-
-  confirm
-
-  waste
-
-  glove
-
-  crop'
-bip_39_word_new_line_8: 'boss
-
-  lounge
-
-  cover
-
-  confirm
-
-  waste
-
-  glove
-
-  crop
-
-  share'
-bip_39_word_new_line_9: 'boss
-
-  lounge
-
-  cover
-
-  confirm
-
-  waste
-
-  glove
-
-  crop
-
-  share
-
-  maze'
-bip_39_word_no_space_1: boss
-bip_39_word_no_space_10: bossloungecoverconfirmwasteglovecropsharemazecry
-bip_39_word_no_space_11: bossloungecoverconfirmwasteglovecropsharemazecrymilk
 bip_39_word_no_space_12: bossloungecoverconfirmwasteglovecropsharemazecrymilkalcohol
 bip_39_word_no_space_2: bosslounge
 bip_39_word_no_space_3: bossloungecover
-bip_39_word_no_space_4: bossloungecoverconfirm
-bip_39_word_no_space_5: bossloungecoverconfirmwaste
-bip_39_word_no_space_6: bossloungecoverconfirmwasteglove
-bip_39_word_no_space_7: bossloungecoverconfirmwasteglovecrop
-bip_39_word_no_space_8: bossloungecoverconfirmwasteglovecropshare
-bip_39_word_no_space_9: bossloungecoverconfirmwasteglovecropsharemaze
-bip_39_word_space_0:
-- boss
-- lounge
-- cover
-- confirm
-- waste
-- glove
-- crop
-- share
-- maze
-- cry
-- milk
-- alcohol
-bip_39_word_space_1: boss
-bip_39_word_space_10: boss lounge cover confirm waste glove crop share maze cry
-bip_39_word_space_11: boss lounge cover confirm waste glove crop share maze cry milk
 bip_39_word_space_12: boss lounge cover confirm waste glove crop share maze cry milk
   alcohol
 bip_39_word_space_2: boss lounge
 bip_39_word_space_3: boss lounge cover
-bip_39_word_space_4: boss lounge cover confirm
-bip_39_word_space_5: boss lounge cover confirm waste
-bip_39_word_space_6: boss lounge cover confirm waste glove
-bip_39_word_space_7: boss lounge cover confirm waste glove crop
-bip_39_word_space_8: boss lounge cover confirm waste glove crop share
-bip_39_word_space_9: boss lounge cover confirm waste glove crop share maze
-bip_39_word_underscore_1: boss
-bip_39_word_underscore_10: boss_lounge_cover_confirm_waste_glove_crop_share_maze_cry
-bip_39_word_underscore_11: boss_lounge_cover_confirm_waste_glove_crop_share_maze_cry_milk
 bip_39_word_underscore_12: boss_lounge_cover_confirm_waste_glove_crop_share_maze_cry_milk_alcohol
 bip_39_word_underscore_2: boss_lounge
 bip_39_word_underscore_3: boss_lounge_cover
-bip_39_word_underscore_4: boss_lounge_cover_confirm
-bip_39_word_underscore_5: boss_lounge_cover_confirm_waste
-bip_39_word_underscore_6: boss_lounge_cover_confirm_waste_glove
-bip_39_word_underscore_7: boss_lounge_cover_confirm_waste_glove_crop
-bip_39_word_underscore_8: boss_lounge_cover_confirm_waste_glove_crop_share
-bip_39_word_underscore_9: boss_lounge_cover_confirm_waste_glove_crop_share_maze
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

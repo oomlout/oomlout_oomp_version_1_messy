@@ -1,68 +1,9 @@
-bip_39_word_dash_1: celery
-bip_39_word_dash_10: celery-limit-barely-crash-defy-phrase-chef-nothing-cigar-document
-bip_39_word_dash_11: celery-limit-barely-crash-defy-phrase-chef-nothing-cigar-document-hurt
 bip_39_word_dash_12: celery-limit-barely-crash-defy-phrase-chef-nothing-cigar-document-hurt-advice
 bip_39_word_dash_2: celery-limit
 bip_39_word_dash_3: celery-limit-barely
-bip_39_word_dash_4: celery-limit-barely-crash
-bip_39_word_dash_5: celery-limit-barely-crash-defy
-bip_39_word_dash_6: celery-limit-barely-crash-defy-phrase
-bip_39_word_dash_7: celery-limit-barely-crash-defy-phrase-chef
-bip_39_word_dash_8: celery-limit-barely-crash-defy-phrase-chef-nothing
-bip_39_word_dash_9: celery-limit-barely-crash-defy-phrase-chef-nothing-cigar
-bip_39_word_new_br_1: celery
-bip_39_word_new_br_10: celery<br>limit<br>barely<br>crash<br>defy<br>phrase<br>chef<br>nothing<br>cigar<br>document
-bip_39_word_new_br_11: celery<br>limit<br>barely<br>crash<br>defy<br>phrase<br>chef<br>nothing<br>cigar<br>document<br>hurt
 bip_39_word_new_br_12: celery<br>limit<br>barely<br>crash<br>defy<br>phrase<br>chef<br>nothing<br>cigar<br>document<br>hurt<br>advice
 bip_39_word_new_br_2: celery<br>limit
 bip_39_word_new_br_3: celery<br>limit<br>barely
-bip_39_word_new_br_4: celery<br>limit<br>barely<br>crash
-bip_39_word_new_br_5: celery<br>limit<br>barely<br>crash<br>defy
-bip_39_word_new_br_6: celery<br>limit<br>barely<br>crash<br>defy<br>phrase
-bip_39_word_new_br_7: celery<br>limit<br>barely<br>crash<br>defy<br>phrase<br>chef
-bip_39_word_new_br_8: celery<br>limit<br>barely<br>crash<br>defy<br>phrase<br>chef<br>nothing
-bip_39_word_new_br_9: celery<br>limit<br>barely<br>crash<br>defy<br>phrase<br>chef<br>nothing<br>cigar
-bip_39_word_new_line_1: celery
-bip_39_word_new_line_10: 'celery
-
-  limit
-
-  barely
-
-  crash
-
-  defy
-
-  phrase
-
-  chef
-
-  nothing
-
-  cigar
-
-  document'
-bip_39_word_new_line_11: 'celery
-
-  limit
-
-  barely
-
-  crash
-
-  defy
-
-  phrase
-
-  chef
-
-  nothing
-
-  cigar
-
-  document
-
-  hurt'
 bip_39_word_new_line_12: 'celery
 
   limit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'celery
   limit
 
   barely'
-bip_39_word_new_line_4: 'celery
-
-  limit
-
-  barely
-
-  crash'
-bip_39_word_new_line_5: 'celery
-
-  limit
-
-  barely
-
-  crash
-
-  defy'
-bip_39_word_new_line_6: 'celery
-
-  limit
-
-  barely
-
-  crash
-
-  defy
-
-  phrase'
-bip_39_word_new_line_7: 'celery
-
-  limit
-
-  barely
-
-  crash
-
-  defy
-
-  phrase
-
-  chef'
-bip_39_word_new_line_8: 'celery
-
-  limit
-
-  barely
-
-  crash
-
-  defy
-
-  phrase
-
-  chef
-
-  nothing'
-bip_39_word_new_line_9: 'celery
-
-  limit
-
-  barely
-
-  crash
-
-  defy
-
-  phrase
-
-  chef
-
-  nothing
-
-  cigar'
-bip_39_word_no_space_1: celery
-bip_39_word_no_space_10: celerylimitbarelycrashdefyphrasechefnothingcigardocument
-bip_39_word_no_space_11: celerylimitbarelycrashdefyphrasechefnothingcigardocumenthurt
 bip_39_word_no_space_12: celerylimitbarelycrashdefyphrasechefnothingcigardocumenthurtadvice
 bip_39_word_no_space_2: celerylimit
 bip_39_word_no_space_3: celerylimitbarely
-bip_39_word_no_space_4: celerylimitbarelycrash
-bip_39_word_no_space_5: celerylimitbarelycrashdefy
-bip_39_word_no_space_6: celerylimitbarelycrashdefyphrase
-bip_39_word_no_space_7: celerylimitbarelycrashdefyphrasechef
-bip_39_word_no_space_8: celerylimitbarelycrashdefyphrasechefnothing
-bip_39_word_no_space_9: celerylimitbarelycrashdefyphrasechefnothingcigar
-bip_39_word_space_0:
-- celery
-- limit
-- barely
-- crash
-- defy
-- phrase
-- chef
-- nothing
-- cigar
-- document
-- hurt
-- advice
-bip_39_word_space_1: celery
-bip_39_word_space_10: celery limit barely crash defy phrase chef nothing cigar document
-bip_39_word_space_11: celery limit barely crash defy phrase chef nothing cigar document
-  hurt
 bip_39_word_space_12: celery limit barely crash defy phrase chef nothing cigar document
   hurt advice
 bip_39_word_space_2: celery limit
 bip_39_word_space_3: celery limit barely
-bip_39_word_space_4: celery limit barely crash
-bip_39_word_space_5: celery limit barely crash defy
-bip_39_word_space_6: celery limit barely crash defy phrase
-bip_39_word_space_7: celery limit barely crash defy phrase chef
-bip_39_word_space_8: celery limit barely crash defy phrase chef nothing
-bip_39_word_space_9: celery limit barely crash defy phrase chef nothing cigar
-bip_39_word_underscore_1: celery
-bip_39_word_underscore_10: celery_limit_barely_crash_defy_phrase_chef_nothing_cigar_document
-bip_39_word_underscore_11: celery_limit_barely_crash_defy_phrase_chef_nothing_cigar_document_hurt
 bip_39_word_underscore_12: celery_limit_barely_crash_defy_phrase_chef_nothing_cigar_document_hurt_advice
 bip_39_word_underscore_2: celery_limit
 bip_39_word_underscore_3: celery_limit_barely
-bip_39_word_underscore_4: celery_limit_barely_crash
-bip_39_word_underscore_5: celery_limit_barely_crash_defy
-bip_39_word_underscore_6: celery_limit_barely_crash_defy_phrase
-bip_39_word_underscore_7: celery_limit_barely_crash_defy_phrase_chef
-bip_39_word_underscore_8: celery_limit_barely_crash_defy_phrase_chef_nothing
-bip_39_word_underscore_9: celery_limit_barely_crash_defy_phrase_chef_nothing_cigar
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gym
-bip_39_word_dash_10: gym-this-wine-leg-soft-square-sustain-pilot-among-tunnel
-bip_39_word_dash_11: gym-this-wine-leg-soft-square-sustain-pilot-among-tunnel-primary
 bip_39_word_dash_12: gym-this-wine-leg-soft-square-sustain-pilot-among-tunnel-primary-apple
 bip_39_word_dash_2: gym-this
 bip_39_word_dash_3: gym-this-wine
-bip_39_word_dash_4: gym-this-wine-leg
-bip_39_word_dash_5: gym-this-wine-leg-soft
-bip_39_word_dash_6: gym-this-wine-leg-soft-square
-bip_39_word_dash_7: gym-this-wine-leg-soft-square-sustain
-bip_39_word_dash_8: gym-this-wine-leg-soft-square-sustain-pilot
-bip_39_word_dash_9: gym-this-wine-leg-soft-square-sustain-pilot-among
-bip_39_word_new_br_1: gym
-bip_39_word_new_br_10: gym<br>this<br>wine<br>leg<br>soft<br>square<br>sustain<br>pilot<br>among<br>tunnel
-bip_39_word_new_br_11: gym<br>this<br>wine<br>leg<br>soft<br>square<br>sustain<br>pilot<br>among<br>tunnel<br>primary
 bip_39_word_new_br_12: gym<br>this<br>wine<br>leg<br>soft<br>square<br>sustain<br>pilot<br>among<br>tunnel<br>primary<br>apple
 bip_39_word_new_br_2: gym<br>this
 bip_39_word_new_br_3: gym<br>this<br>wine
-bip_39_word_new_br_4: gym<br>this<br>wine<br>leg
-bip_39_word_new_br_5: gym<br>this<br>wine<br>leg<br>soft
-bip_39_word_new_br_6: gym<br>this<br>wine<br>leg<br>soft<br>square
-bip_39_word_new_br_7: gym<br>this<br>wine<br>leg<br>soft<br>square<br>sustain
-bip_39_word_new_br_8: gym<br>this<br>wine<br>leg<br>soft<br>square<br>sustain<br>pilot
-bip_39_word_new_br_9: gym<br>this<br>wine<br>leg<br>soft<br>square<br>sustain<br>pilot<br>among
-bip_39_word_new_line_1: gym
-bip_39_word_new_line_10: 'gym
-
-  this
-
-  wine
-
-  leg
-
-  soft
-
-  square
-
-  sustain
-
-  pilot
-
-  among
-
-  tunnel'
-bip_39_word_new_line_11: 'gym
-
-  this
-
-  wine
-
-  leg
-
-  soft
-
-  square
-
-  sustain
-
-  pilot
-
-  among
-
-  tunnel
-
-  primary'
 bip_39_word_new_line_12: 'gym
 
   this
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'gym
   this
 
   wine'
-bip_39_word_new_line_4: 'gym
-
-  this
-
-  wine
-
-  leg'
-bip_39_word_new_line_5: 'gym
-
-  this
-
-  wine
-
-  leg
-
-  soft'
-bip_39_word_new_line_6: 'gym
-
-  this
-
-  wine
-
-  leg
-
-  soft
-
-  square'
-bip_39_word_new_line_7: 'gym
-
-  this
-
-  wine
-
-  leg
-
-  soft
-
-  square
-
-  sustain'
-bip_39_word_new_line_8: 'gym
-
-  this
-
-  wine
-
-  leg
-
-  soft
-
-  square
-
-  sustain
-
-  pilot'
-bip_39_word_new_line_9: 'gym
-
-  this
-
-  wine
-
-  leg
-
-  soft
-
-  square
-
-  sustain
-
-  pilot
-
-  among'
-bip_39_word_no_space_1: gym
-bip_39_word_no_space_10: gymthiswinelegsoftsquaresustainpilotamongtunnel
-bip_39_word_no_space_11: gymthiswinelegsoftsquaresustainpilotamongtunnelprimary
 bip_39_word_no_space_12: gymthiswinelegsoftsquaresustainpilotamongtunnelprimaryapple
 bip_39_word_no_space_2: gymthis
 bip_39_word_no_space_3: gymthiswine
-bip_39_word_no_space_4: gymthiswineleg
-bip_39_word_no_space_5: gymthiswinelegsoft
-bip_39_word_no_space_6: gymthiswinelegsoftsquare
-bip_39_word_no_space_7: gymthiswinelegsoftsquaresustain
-bip_39_word_no_space_8: gymthiswinelegsoftsquaresustainpilot
-bip_39_word_no_space_9: gymthiswinelegsoftsquaresustainpilotamong
-bip_39_word_space_0:
-- gym
-- this
-- wine
-- leg
-- soft
-- square
-- sustain
-- pilot
-- among
-- tunnel
-- primary
-- apple
-bip_39_word_space_1: gym
-bip_39_word_space_10: gym this wine leg soft square sustain pilot among tunnel
-bip_39_word_space_11: gym this wine leg soft square sustain pilot among tunnel primary
 bip_39_word_space_12: gym this wine leg soft square sustain pilot among tunnel primary
   apple
 bip_39_word_space_2: gym this
 bip_39_word_space_3: gym this wine
-bip_39_word_space_4: gym this wine leg
-bip_39_word_space_5: gym this wine leg soft
-bip_39_word_space_6: gym this wine leg soft square
-bip_39_word_space_7: gym this wine leg soft square sustain
-bip_39_word_space_8: gym this wine leg soft square sustain pilot
-bip_39_word_space_9: gym this wine leg soft square sustain pilot among
-bip_39_word_underscore_1: gym
-bip_39_word_underscore_10: gym_this_wine_leg_soft_square_sustain_pilot_among_tunnel
-bip_39_word_underscore_11: gym_this_wine_leg_soft_square_sustain_pilot_among_tunnel_primary
 bip_39_word_underscore_12: gym_this_wine_leg_soft_square_sustain_pilot_among_tunnel_primary_apple
 bip_39_word_underscore_2: gym_this
 bip_39_word_underscore_3: gym_this_wine
-bip_39_word_underscore_4: gym_this_wine_leg
-bip_39_word_underscore_5: gym_this_wine_leg_soft
-bip_39_word_underscore_6: gym_this_wine_leg_soft_square
-bip_39_word_underscore_7: gym_this_wine_leg_soft_square_sustain
-bip_39_word_underscore_8: gym_this_wine_leg_soft_square_sustain_pilot
-bip_39_word_underscore_9: gym_this_wine_leg_soft_square_sustain_pilot_among
 classification: category
 classification_capital: Category
 classification_first_letter: c

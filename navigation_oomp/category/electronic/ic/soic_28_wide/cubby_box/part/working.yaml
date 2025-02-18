@@ -1,68 +1,9 @@
-bip_39_word_dash_1: banana
-bip_39_word_dash_10: banana-delay-dawn-engage-color-play-coconut-shoot-damage-embrace
-bip_39_word_dash_11: banana-delay-dawn-engage-color-play-coconut-shoot-damage-embrace-feed
 bip_39_word_dash_12: banana-delay-dawn-engage-color-play-coconut-shoot-damage-embrace-feed-alert
 bip_39_word_dash_2: banana-delay
 bip_39_word_dash_3: banana-delay-dawn
-bip_39_word_dash_4: banana-delay-dawn-engage
-bip_39_word_dash_5: banana-delay-dawn-engage-color
-bip_39_word_dash_6: banana-delay-dawn-engage-color-play
-bip_39_word_dash_7: banana-delay-dawn-engage-color-play-coconut
-bip_39_word_dash_8: banana-delay-dawn-engage-color-play-coconut-shoot
-bip_39_word_dash_9: banana-delay-dawn-engage-color-play-coconut-shoot-damage
-bip_39_word_new_br_1: banana
-bip_39_word_new_br_10: banana<br>delay<br>dawn<br>engage<br>color<br>play<br>coconut<br>shoot<br>damage<br>embrace
-bip_39_word_new_br_11: banana<br>delay<br>dawn<br>engage<br>color<br>play<br>coconut<br>shoot<br>damage<br>embrace<br>feed
 bip_39_word_new_br_12: banana<br>delay<br>dawn<br>engage<br>color<br>play<br>coconut<br>shoot<br>damage<br>embrace<br>feed<br>alert
 bip_39_word_new_br_2: banana<br>delay
 bip_39_word_new_br_3: banana<br>delay<br>dawn
-bip_39_word_new_br_4: banana<br>delay<br>dawn<br>engage
-bip_39_word_new_br_5: banana<br>delay<br>dawn<br>engage<br>color
-bip_39_word_new_br_6: banana<br>delay<br>dawn<br>engage<br>color<br>play
-bip_39_word_new_br_7: banana<br>delay<br>dawn<br>engage<br>color<br>play<br>coconut
-bip_39_word_new_br_8: banana<br>delay<br>dawn<br>engage<br>color<br>play<br>coconut<br>shoot
-bip_39_word_new_br_9: banana<br>delay<br>dawn<br>engage<br>color<br>play<br>coconut<br>shoot<br>damage
-bip_39_word_new_line_1: banana
-bip_39_word_new_line_10: 'banana
-
-  delay
-
-  dawn
-
-  engage
-
-  color
-
-  play
-
-  coconut
-
-  shoot
-
-  damage
-
-  embrace'
-bip_39_word_new_line_11: 'banana
-
-  delay
-
-  dawn
-
-  engage
-
-  color
-
-  play
-
-  coconut
-
-  shoot
-
-  damage
-
-  embrace
-
-  feed'
 bip_39_word_new_line_12: 'banana
 
   delay
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'banana
   delay
 
   dawn'
-bip_39_word_new_line_4: 'banana
-
-  delay
-
-  dawn
-
-  engage'
-bip_39_word_new_line_5: 'banana
-
-  delay
-
-  dawn
-
-  engage
-
-  color'
-bip_39_word_new_line_6: 'banana
-
-  delay
-
-  dawn
-
-  engage
-
-  color
-
-  play'
-bip_39_word_new_line_7: 'banana
-
-  delay
-
-  dawn
-
-  engage
-
-  color
-
-  play
-
-  coconut'
-bip_39_word_new_line_8: 'banana
-
-  delay
-
-  dawn
-
-  engage
-
-  color
-
-  play
-
-  coconut
-
-  shoot'
-bip_39_word_new_line_9: 'banana
-
-  delay
-
-  dawn
-
-  engage
-
-  color
-
-  play
-
-  coconut
-
-  shoot
-
-  damage'
-bip_39_word_no_space_1: banana
-bip_39_word_no_space_10: bananadelaydawnengagecolorplaycoconutshootdamageembrace
-bip_39_word_no_space_11: bananadelaydawnengagecolorplaycoconutshootdamageembracefeed
 bip_39_word_no_space_12: bananadelaydawnengagecolorplaycoconutshootdamageembracefeedalert
 bip_39_word_no_space_2: bananadelay
 bip_39_word_no_space_3: bananadelaydawn
-bip_39_word_no_space_4: bananadelaydawnengage
-bip_39_word_no_space_5: bananadelaydawnengagecolor
-bip_39_word_no_space_6: bananadelaydawnengagecolorplay
-bip_39_word_no_space_7: bananadelaydawnengagecolorplaycoconut
-bip_39_word_no_space_8: bananadelaydawnengagecolorplaycoconutshoot
-bip_39_word_no_space_9: bananadelaydawnengagecolorplaycoconutshootdamage
-bip_39_word_space_0:
-- banana
-- delay
-- dawn
-- engage
-- color
-- play
-- coconut
-- shoot
-- damage
-- embrace
-- feed
-- alert
-bip_39_word_space_1: banana
-bip_39_word_space_10: banana delay dawn engage color play coconut shoot damage embrace
-bip_39_word_space_11: banana delay dawn engage color play coconut shoot damage embrace
-  feed
 bip_39_word_space_12: banana delay dawn engage color play coconut shoot damage embrace
   feed alert
 bip_39_word_space_2: banana delay
 bip_39_word_space_3: banana delay dawn
-bip_39_word_space_4: banana delay dawn engage
-bip_39_word_space_5: banana delay dawn engage color
-bip_39_word_space_6: banana delay dawn engage color play
-bip_39_word_space_7: banana delay dawn engage color play coconut
-bip_39_word_space_8: banana delay dawn engage color play coconut shoot
-bip_39_word_space_9: banana delay dawn engage color play coconut shoot damage
-bip_39_word_underscore_1: banana
-bip_39_word_underscore_10: banana_delay_dawn_engage_color_play_coconut_shoot_damage_embrace
-bip_39_word_underscore_11: banana_delay_dawn_engage_color_play_coconut_shoot_damage_embrace_feed
 bip_39_word_underscore_12: banana_delay_dawn_engage_color_play_coconut_shoot_damage_embrace_feed_alert
 bip_39_word_underscore_2: banana_delay
 bip_39_word_underscore_3: banana_delay_dawn
-bip_39_word_underscore_4: banana_delay_dawn_engage
-bip_39_word_underscore_5: banana_delay_dawn_engage_color
-bip_39_word_underscore_6: banana_delay_dawn_engage_color_play
-bip_39_word_underscore_7: banana_delay_dawn_engage_color_play_coconut
-bip_39_word_underscore_8: banana_delay_dawn_engage_color_play_coconut_shoot
-bip_39_word_underscore_9: banana_delay_dawn_engage_color_play_coconut_shoot_damage
 classification: category
 classification_capital: Category
 classification_first_letter: c

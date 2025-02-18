@@ -1,68 +1,9 @@
-bip_39_word_dash_1: claw
-bip_39_word_dash_10: claw-oven-atom-input-alpha-fatal-range-dwarf-glide-surge
-bip_39_word_dash_11: claw-oven-atom-input-alpha-fatal-range-dwarf-glide-surge-among
 bip_39_word_dash_12: claw-oven-atom-input-alpha-fatal-range-dwarf-glide-surge-among-amused
 bip_39_word_dash_2: claw-oven
 bip_39_word_dash_3: claw-oven-atom
-bip_39_word_dash_4: claw-oven-atom-input
-bip_39_word_dash_5: claw-oven-atom-input-alpha
-bip_39_word_dash_6: claw-oven-atom-input-alpha-fatal
-bip_39_word_dash_7: claw-oven-atom-input-alpha-fatal-range
-bip_39_word_dash_8: claw-oven-atom-input-alpha-fatal-range-dwarf
-bip_39_word_dash_9: claw-oven-atom-input-alpha-fatal-range-dwarf-glide
-bip_39_word_new_br_1: claw
-bip_39_word_new_br_10: claw<br>oven<br>atom<br>input<br>alpha<br>fatal<br>range<br>dwarf<br>glide<br>surge
-bip_39_word_new_br_11: claw<br>oven<br>atom<br>input<br>alpha<br>fatal<br>range<br>dwarf<br>glide<br>surge<br>among
 bip_39_word_new_br_12: claw<br>oven<br>atom<br>input<br>alpha<br>fatal<br>range<br>dwarf<br>glide<br>surge<br>among<br>amused
 bip_39_word_new_br_2: claw<br>oven
 bip_39_word_new_br_3: claw<br>oven<br>atom
-bip_39_word_new_br_4: claw<br>oven<br>atom<br>input
-bip_39_word_new_br_5: claw<br>oven<br>atom<br>input<br>alpha
-bip_39_word_new_br_6: claw<br>oven<br>atom<br>input<br>alpha<br>fatal
-bip_39_word_new_br_7: claw<br>oven<br>atom<br>input<br>alpha<br>fatal<br>range
-bip_39_word_new_br_8: claw<br>oven<br>atom<br>input<br>alpha<br>fatal<br>range<br>dwarf
-bip_39_word_new_br_9: claw<br>oven<br>atom<br>input<br>alpha<br>fatal<br>range<br>dwarf<br>glide
-bip_39_word_new_line_1: claw
-bip_39_word_new_line_10: 'claw
-
-  oven
-
-  atom
-
-  input
-
-  alpha
-
-  fatal
-
-  range
-
-  dwarf
-
-  glide
-
-  surge'
-bip_39_word_new_line_11: 'claw
-
-  oven
-
-  atom
-
-  input
-
-  alpha
-
-  fatal
-
-  range
-
-  dwarf
-
-  glide
-
-  surge
-
-  among'
 bip_39_word_new_line_12: 'claw
 
   oven
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'claw
   oven
 
   atom'
-bip_39_word_new_line_4: 'claw
-
-  oven
-
-  atom
-
-  input'
-bip_39_word_new_line_5: 'claw
-
-  oven
-
-  atom
-
-  input
-
-  alpha'
-bip_39_word_new_line_6: 'claw
-
-  oven
-
-  atom
-
-  input
-
-  alpha
-
-  fatal'
-bip_39_word_new_line_7: 'claw
-
-  oven
-
-  atom
-
-  input
-
-  alpha
-
-  fatal
-
-  range'
-bip_39_word_new_line_8: 'claw
-
-  oven
-
-  atom
-
-  input
-
-  alpha
-
-  fatal
-
-  range
-
-  dwarf'
-bip_39_word_new_line_9: 'claw
-
-  oven
-
-  atom
-
-  input
-
-  alpha
-
-  fatal
-
-  range
-
-  dwarf
-
-  glide'
-bip_39_word_no_space_1: claw
-bip_39_word_no_space_10: clawovenatominputalphafatalrangedwarfglidesurge
-bip_39_word_no_space_11: clawovenatominputalphafatalrangedwarfglidesurgeamong
 bip_39_word_no_space_12: clawovenatominputalphafatalrangedwarfglidesurgeamongamused
 bip_39_word_no_space_2: clawoven
 bip_39_word_no_space_3: clawovenatom
-bip_39_word_no_space_4: clawovenatominput
-bip_39_word_no_space_5: clawovenatominputalpha
-bip_39_word_no_space_6: clawovenatominputalphafatal
-bip_39_word_no_space_7: clawovenatominputalphafatalrange
-bip_39_word_no_space_8: clawovenatominputalphafatalrangedwarf
-bip_39_word_no_space_9: clawovenatominputalphafatalrangedwarfglide
-bip_39_word_space_0:
-- claw
-- oven
-- atom
-- input
-- alpha
-- fatal
-- range
-- dwarf
-- glide
-- surge
-- among
-- amused
-bip_39_word_space_1: claw
-bip_39_word_space_10: claw oven atom input alpha fatal range dwarf glide surge
-bip_39_word_space_11: claw oven atom input alpha fatal range dwarf glide surge among
 bip_39_word_space_12: claw oven atom input alpha fatal range dwarf glide surge among
   amused
 bip_39_word_space_2: claw oven
 bip_39_word_space_3: claw oven atom
-bip_39_word_space_4: claw oven atom input
-bip_39_word_space_5: claw oven atom input alpha
-bip_39_word_space_6: claw oven atom input alpha fatal
-bip_39_word_space_7: claw oven atom input alpha fatal range
-bip_39_word_space_8: claw oven atom input alpha fatal range dwarf
-bip_39_word_space_9: claw oven atom input alpha fatal range dwarf glide
-bip_39_word_underscore_1: claw
-bip_39_word_underscore_10: claw_oven_atom_input_alpha_fatal_range_dwarf_glide_surge
-bip_39_word_underscore_11: claw_oven_atom_input_alpha_fatal_range_dwarf_glide_surge_among
 bip_39_word_underscore_12: claw_oven_atom_input_alpha_fatal_range_dwarf_glide_surge_among_amused
 bip_39_word_underscore_2: claw_oven
 bip_39_word_underscore_3: claw_oven_atom
-bip_39_word_underscore_4: claw_oven_atom_input
-bip_39_word_underscore_5: claw_oven_atom_input_alpha
-bip_39_word_underscore_6: claw_oven_atom_input_alpha_fatal
-bip_39_word_underscore_7: claw_oven_atom_input_alpha_fatal_range
-bip_39_word_underscore_8: claw_oven_atom_input_alpha_fatal_range_dwarf
-bip_39_word_underscore_9: claw_oven_atom_input_alpha_fatal_range_dwarf_glide
 classification: category
 classification_capital: Category
 classification_first_letter: c

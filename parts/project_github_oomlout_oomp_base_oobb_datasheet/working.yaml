@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sport
-bip_39_word_dash_10: sport-field-path-seed-pen-cloud-town-peasant-mammal-parent
-bip_39_word_dash_11: sport-field-path-seed-pen-cloud-town-peasant-mammal-parent-fish
 bip_39_word_dash_12: sport-field-path-seed-pen-cloud-town-peasant-mammal-parent-fish-anxiety
 bip_39_word_dash_2: sport-field
 bip_39_word_dash_3: sport-field-path
-bip_39_word_dash_4: sport-field-path-seed
-bip_39_word_dash_5: sport-field-path-seed-pen
-bip_39_word_dash_6: sport-field-path-seed-pen-cloud
-bip_39_word_dash_7: sport-field-path-seed-pen-cloud-town
-bip_39_word_dash_8: sport-field-path-seed-pen-cloud-town-peasant
-bip_39_word_dash_9: sport-field-path-seed-pen-cloud-town-peasant-mammal
-bip_39_word_new_br_1: sport
-bip_39_word_new_br_10: sport<br>field<br>path<br>seed<br>pen<br>cloud<br>town<br>peasant<br>mammal<br>parent
-bip_39_word_new_br_11: sport<br>field<br>path<br>seed<br>pen<br>cloud<br>town<br>peasant<br>mammal<br>parent<br>fish
 bip_39_word_new_br_12: sport<br>field<br>path<br>seed<br>pen<br>cloud<br>town<br>peasant<br>mammal<br>parent<br>fish<br>anxiety
 bip_39_word_new_br_2: sport<br>field
 bip_39_word_new_br_3: sport<br>field<br>path
-bip_39_word_new_br_4: sport<br>field<br>path<br>seed
-bip_39_word_new_br_5: sport<br>field<br>path<br>seed<br>pen
-bip_39_word_new_br_6: sport<br>field<br>path<br>seed<br>pen<br>cloud
-bip_39_word_new_br_7: sport<br>field<br>path<br>seed<br>pen<br>cloud<br>town
-bip_39_word_new_br_8: sport<br>field<br>path<br>seed<br>pen<br>cloud<br>town<br>peasant
-bip_39_word_new_br_9: sport<br>field<br>path<br>seed<br>pen<br>cloud<br>town<br>peasant<br>mammal
-bip_39_word_new_line_1: sport
-bip_39_word_new_line_10: 'sport
-
-  field
-
-  path
-
-  seed
-
-  pen
-
-  cloud
-
-  town
-
-  peasant
-
-  mammal
-
-  parent'
-bip_39_word_new_line_11: 'sport
-
-  field
-
-  path
-
-  seed
-
-  pen
-
-  cloud
-
-  town
-
-  peasant
-
-  mammal
-
-  parent
-
-  fish'
 bip_39_word_new_line_12: 'sport
 
   field
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'sport
   field
 
   path'
-bip_39_word_new_line_4: 'sport
-
-  field
-
-  path
-
-  seed'
-bip_39_word_new_line_5: 'sport
-
-  field
-
-  path
-
-  seed
-
-  pen'
-bip_39_word_new_line_6: 'sport
-
-  field
-
-  path
-
-  seed
-
-  pen
-
-  cloud'
-bip_39_word_new_line_7: 'sport
-
-  field
-
-  path
-
-  seed
-
-  pen
-
-  cloud
-
-  town'
-bip_39_word_new_line_8: 'sport
-
-  field
-
-  path
-
-  seed
-
-  pen
-
-  cloud
-
-  town
-
-  peasant'
-bip_39_word_new_line_9: 'sport
-
-  field
-
-  path
-
-  seed
-
-  pen
-
-  cloud
-
-  town
-
-  peasant
-
-  mammal'
-bip_39_word_no_space_1: sport
-bip_39_word_no_space_10: sportfieldpathseedpencloudtownpeasantmammalparent
-bip_39_word_no_space_11: sportfieldpathseedpencloudtownpeasantmammalparentfish
 bip_39_word_no_space_12: sportfieldpathseedpencloudtownpeasantmammalparentfishanxiety
 bip_39_word_no_space_2: sportfield
 bip_39_word_no_space_3: sportfieldpath
-bip_39_word_no_space_4: sportfieldpathseed
-bip_39_word_no_space_5: sportfieldpathseedpen
-bip_39_word_no_space_6: sportfieldpathseedpencloud
-bip_39_word_no_space_7: sportfieldpathseedpencloudtown
-bip_39_word_no_space_8: sportfieldpathseedpencloudtownpeasant
-bip_39_word_no_space_9: sportfieldpathseedpencloudtownpeasantmammal
-bip_39_word_space_0:
-- sport
-- field
-- path
-- seed
-- pen
-- cloud
-- town
-- peasant
-- mammal
-- parent
-- fish
-- anxiety
-bip_39_word_space_1: sport
-bip_39_word_space_10: sport field path seed pen cloud town peasant mammal parent
-bip_39_word_space_11: sport field path seed pen cloud town peasant mammal parent fish
 bip_39_word_space_12: sport field path seed pen cloud town peasant mammal parent fish
   anxiety
 bip_39_word_space_2: sport field
 bip_39_word_space_3: sport field path
-bip_39_word_space_4: sport field path seed
-bip_39_word_space_5: sport field path seed pen
-bip_39_word_space_6: sport field path seed pen cloud
-bip_39_word_space_7: sport field path seed pen cloud town
-bip_39_word_space_8: sport field path seed pen cloud town peasant
-bip_39_word_space_9: sport field path seed pen cloud town peasant mammal
-bip_39_word_underscore_1: sport
-bip_39_word_underscore_10: sport_field_path_seed_pen_cloud_town_peasant_mammal_parent
-bip_39_word_underscore_11: sport_field_path_seed_pen_cloud_town_peasant_mammal_parent_fish
 bip_39_word_underscore_12: sport_field_path_seed_pen_cloud_town_peasant_mammal_parent_fish_anxiety
 bip_39_word_underscore_2: sport_field
 bip_39_word_underscore_3: sport_field_path
-bip_39_word_underscore_4: sport_field_path_seed
-bip_39_word_underscore_5: sport_field_path_seed_pen
-bip_39_word_underscore_6: sport_field_path_seed_pen_cloud
-bip_39_word_underscore_7: sport_field_path_seed_pen_cloud_town
-bip_39_word_underscore_8: sport_field_path_seed_pen_cloud_town_peasant
-bip_39_word_underscore_9: sport_field_path_seed_pen_cloud_town_peasant_mammal
 classification: project
 classification_capital: Project
 classification_first_letter: p

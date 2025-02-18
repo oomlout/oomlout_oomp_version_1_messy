@@ -1,68 +1,9 @@
-bip_39_word_dash_1: weather
-bip_39_word_dash_10: weather-lobster-bullet-ice-jump-kid-calm-account-stadium-fine
-bip_39_word_dash_11: weather-lobster-bullet-ice-jump-kid-calm-account-stadium-fine-upgrade
 bip_39_word_dash_12: weather-lobster-bullet-ice-jump-kid-calm-account-stadium-fine-upgrade-allow
 bip_39_word_dash_2: weather-lobster
 bip_39_word_dash_3: weather-lobster-bullet
-bip_39_word_dash_4: weather-lobster-bullet-ice
-bip_39_word_dash_5: weather-lobster-bullet-ice-jump
-bip_39_word_dash_6: weather-lobster-bullet-ice-jump-kid
-bip_39_word_dash_7: weather-lobster-bullet-ice-jump-kid-calm
-bip_39_word_dash_8: weather-lobster-bullet-ice-jump-kid-calm-account
-bip_39_word_dash_9: weather-lobster-bullet-ice-jump-kid-calm-account-stadium
-bip_39_word_new_br_1: weather
-bip_39_word_new_br_10: weather<br>lobster<br>bullet<br>ice<br>jump<br>kid<br>calm<br>account<br>stadium<br>fine
-bip_39_word_new_br_11: weather<br>lobster<br>bullet<br>ice<br>jump<br>kid<br>calm<br>account<br>stadium<br>fine<br>upgrade
 bip_39_word_new_br_12: weather<br>lobster<br>bullet<br>ice<br>jump<br>kid<br>calm<br>account<br>stadium<br>fine<br>upgrade<br>allow
 bip_39_word_new_br_2: weather<br>lobster
 bip_39_word_new_br_3: weather<br>lobster<br>bullet
-bip_39_word_new_br_4: weather<br>lobster<br>bullet<br>ice
-bip_39_word_new_br_5: weather<br>lobster<br>bullet<br>ice<br>jump
-bip_39_word_new_br_6: weather<br>lobster<br>bullet<br>ice<br>jump<br>kid
-bip_39_word_new_br_7: weather<br>lobster<br>bullet<br>ice<br>jump<br>kid<br>calm
-bip_39_word_new_br_8: weather<br>lobster<br>bullet<br>ice<br>jump<br>kid<br>calm<br>account
-bip_39_word_new_br_9: weather<br>lobster<br>bullet<br>ice<br>jump<br>kid<br>calm<br>account<br>stadium
-bip_39_word_new_line_1: weather
-bip_39_word_new_line_10: 'weather
-
-  lobster
-
-  bullet
-
-  ice
-
-  jump
-
-  kid
-
-  calm
-
-  account
-
-  stadium
-
-  fine'
-bip_39_word_new_line_11: 'weather
-
-  lobster
-
-  bullet
-
-  ice
-
-  jump
-
-  kid
-
-  calm
-
-  account
-
-  stadium
-
-  fine
-
-  upgrade'
 bip_39_word_new_line_12: 'weather
 
   lobster
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'weather
   lobster
 
   bullet'
-bip_39_word_new_line_4: 'weather
-
-  lobster
-
-  bullet
-
-  ice'
-bip_39_word_new_line_5: 'weather
-
-  lobster
-
-  bullet
-
-  ice
-
-  jump'
-bip_39_word_new_line_6: 'weather
-
-  lobster
-
-  bullet
-
-  ice
-
-  jump
-
-  kid'
-bip_39_word_new_line_7: 'weather
-
-  lobster
-
-  bullet
-
-  ice
-
-  jump
-
-  kid
-
-  calm'
-bip_39_word_new_line_8: 'weather
-
-  lobster
-
-  bullet
-
-  ice
-
-  jump
-
-  kid
-
-  calm
-
-  account'
-bip_39_word_new_line_9: 'weather
-
-  lobster
-
-  bullet
-
-  ice
-
-  jump
-
-  kid
-
-  calm
-
-  account
-
-  stadium'
-bip_39_word_no_space_1: weather
-bip_39_word_no_space_10: weatherlobsterbulleticejumpkidcalmaccountstadiumfine
-bip_39_word_no_space_11: weatherlobsterbulleticejumpkidcalmaccountstadiumfineupgrade
 bip_39_word_no_space_12: weatherlobsterbulleticejumpkidcalmaccountstadiumfineupgradeallow
 bip_39_word_no_space_2: weatherlobster
 bip_39_word_no_space_3: weatherlobsterbullet
-bip_39_word_no_space_4: weatherlobsterbulletice
-bip_39_word_no_space_5: weatherlobsterbulleticejump
-bip_39_word_no_space_6: weatherlobsterbulleticejumpkid
-bip_39_word_no_space_7: weatherlobsterbulleticejumpkidcalm
-bip_39_word_no_space_8: weatherlobsterbulleticejumpkidcalmaccount
-bip_39_word_no_space_9: weatherlobsterbulleticejumpkidcalmaccountstadium
-bip_39_word_space_0:
-- weather
-- lobster
-- bullet
-- ice
-- jump
-- kid
-- calm
-- account
-- stadium
-- fine
-- upgrade
-- allow
-bip_39_word_space_1: weather
-bip_39_word_space_10: weather lobster bullet ice jump kid calm account stadium fine
-bip_39_word_space_11: weather lobster bullet ice jump kid calm account stadium fine
-  upgrade
 bip_39_word_space_12: weather lobster bullet ice jump kid calm account stadium fine
   upgrade allow
 bip_39_word_space_2: weather lobster
 bip_39_word_space_3: weather lobster bullet
-bip_39_word_space_4: weather lobster bullet ice
-bip_39_word_space_5: weather lobster bullet ice jump
-bip_39_word_space_6: weather lobster bullet ice jump kid
-bip_39_word_space_7: weather lobster bullet ice jump kid calm
-bip_39_word_space_8: weather lobster bullet ice jump kid calm account
-bip_39_word_space_9: weather lobster bullet ice jump kid calm account stadium
-bip_39_word_underscore_1: weather
-bip_39_word_underscore_10: weather_lobster_bullet_ice_jump_kid_calm_account_stadium_fine
-bip_39_word_underscore_11: weather_lobster_bullet_ice_jump_kid_calm_account_stadium_fine_upgrade
 bip_39_word_underscore_12: weather_lobster_bullet_ice_jump_kid_calm_account_stadium_fine_upgrade_allow
 bip_39_word_underscore_2: weather_lobster
 bip_39_word_underscore_3: weather_lobster_bullet
-bip_39_word_underscore_4: weather_lobster_bullet_ice
-bip_39_word_underscore_5: weather_lobster_bullet_ice_jump
-bip_39_word_underscore_6: weather_lobster_bullet_ice_jump_kid
-bip_39_word_underscore_7: weather_lobster_bullet_ice_jump_kid_calm
-bip_39_word_underscore_8: weather_lobster_bullet_ice_jump_kid_calm_account
-bip_39_word_underscore_9: weather_lobster_bullet_ice_jump_kid_calm_account_stadium
 classification: category
 classification_capital: Category
 classification_first_letter: c

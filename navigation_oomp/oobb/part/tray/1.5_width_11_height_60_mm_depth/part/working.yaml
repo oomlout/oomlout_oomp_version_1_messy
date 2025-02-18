@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dune
-bip_39_word_dash_10: dune-across-jeans-lava-obey-gadget-sniff-friend-ostrich-blossom
-bip_39_word_dash_11: dune-across-jeans-lava-obey-gadget-sniff-friend-ostrich-blossom-surround
 bip_39_word_dash_12: dune-across-jeans-lava-obey-gadget-sniff-friend-ostrich-blossom-surround-affair
 bip_39_word_dash_2: dune-across
 bip_39_word_dash_3: dune-across-jeans
-bip_39_word_dash_4: dune-across-jeans-lava
-bip_39_word_dash_5: dune-across-jeans-lava-obey
-bip_39_word_dash_6: dune-across-jeans-lava-obey-gadget
-bip_39_word_dash_7: dune-across-jeans-lava-obey-gadget-sniff
-bip_39_word_dash_8: dune-across-jeans-lava-obey-gadget-sniff-friend
-bip_39_word_dash_9: dune-across-jeans-lava-obey-gadget-sniff-friend-ostrich
-bip_39_word_new_br_1: dune
-bip_39_word_new_br_10: dune<br>across<br>jeans<br>lava<br>obey<br>gadget<br>sniff<br>friend<br>ostrich<br>blossom
-bip_39_word_new_br_11: dune<br>across<br>jeans<br>lava<br>obey<br>gadget<br>sniff<br>friend<br>ostrich<br>blossom<br>surround
 bip_39_word_new_br_12: dune<br>across<br>jeans<br>lava<br>obey<br>gadget<br>sniff<br>friend<br>ostrich<br>blossom<br>surround<br>affair
 bip_39_word_new_br_2: dune<br>across
 bip_39_word_new_br_3: dune<br>across<br>jeans
-bip_39_word_new_br_4: dune<br>across<br>jeans<br>lava
-bip_39_word_new_br_5: dune<br>across<br>jeans<br>lava<br>obey
-bip_39_word_new_br_6: dune<br>across<br>jeans<br>lava<br>obey<br>gadget
-bip_39_word_new_br_7: dune<br>across<br>jeans<br>lava<br>obey<br>gadget<br>sniff
-bip_39_word_new_br_8: dune<br>across<br>jeans<br>lava<br>obey<br>gadget<br>sniff<br>friend
-bip_39_word_new_br_9: dune<br>across<br>jeans<br>lava<br>obey<br>gadget<br>sniff<br>friend<br>ostrich
-bip_39_word_new_line_1: dune
-bip_39_word_new_line_10: 'dune
-
-  across
-
-  jeans
-
-  lava
-
-  obey
-
-  gadget
-
-  sniff
-
-  friend
-
-  ostrich
-
-  blossom'
-bip_39_word_new_line_11: 'dune
-
-  across
-
-  jeans
-
-  lava
-
-  obey
-
-  gadget
-
-  sniff
-
-  friend
-
-  ostrich
-
-  blossom
-
-  surround'
 bip_39_word_new_line_12: 'dune
 
   across
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dune
   across
 
   jeans'
-bip_39_word_new_line_4: 'dune
-
-  across
-
-  jeans
-
-  lava'
-bip_39_word_new_line_5: 'dune
-
-  across
-
-  jeans
-
-  lava
-
-  obey'
-bip_39_word_new_line_6: 'dune
-
-  across
-
-  jeans
-
-  lava
-
-  obey
-
-  gadget'
-bip_39_word_new_line_7: 'dune
-
-  across
-
-  jeans
-
-  lava
-
-  obey
-
-  gadget
-
-  sniff'
-bip_39_word_new_line_8: 'dune
-
-  across
-
-  jeans
-
-  lava
-
-  obey
-
-  gadget
-
-  sniff
-
-  friend'
-bip_39_word_new_line_9: 'dune
-
-  across
-
-  jeans
-
-  lava
-
-  obey
-
-  gadget
-
-  sniff
-
-  friend
-
-  ostrich'
-bip_39_word_no_space_1: dune
-bip_39_word_no_space_10: duneacrossjeanslavaobeygadgetsnifffriendostrichblossom
-bip_39_word_no_space_11: duneacrossjeanslavaobeygadgetsnifffriendostrichblossomsurround
 bip_39_word_no_space_12: duneacrossjeanslavaobeygadgetsnifffriendostrichblossomsurroundaffair
 bip_39_word_no_space_2: duneacross
 bip_39_word_no_space_3: duneacrossjeans
-bip_39_word_no_space_4: duneacrossjeanslava
-bip_39_word_no_space_5: duneacrossjeanslavaobey
-bip_39_word_no_space_6: duneacrossjeanslavaobeygadget
-bip_39_word_no_space_7: duneacrossjeanslavaobeygadgetsniff
-bip_39_word_no_space_8: duneacrossjeanslavaobeygadgetsnifffriend
-bip_39_word_no_space_9: duneacrossjeanslavaobeygadgetsnifffriendostrich
-bip_39_word_space_0:
-- dune
-- across
-- jeans
-- lava
-- obey
-- gadget
-- sniff
-- friend
-- ostrich
-- blossom
-- surround
-- affair
-bip_39_word_space_1: dune
-bip_39_word_space_10: dune across jeans lava obey gadget sniff friend ostrich blossom
-bip_39_word_space_11: dune across jeans lava obey gadget sniff friend ostrich blossom
-  surround
 bip_39_word_space_12: dune across jeans lava obey gadget sniff friend ostrich blossom
   surround affair
 bip_39_word_space_2: dune across
 bip_39_word_space_3: dune across jeans
-bip_39_word_space_4: dune across jeans lava
-bip_39_word_space_5: dune across jeans lava obey
-bip_39_word_space_6: dune across jeans lava obey gadget
-bip_39_word_space_7: dune across jeans lava obey gadget sniff
-bip_39_word_space_8: dune across jeans lava obey gadget sniff friend
-bip_39_word_space_9: dune across jeans lava obey gadget sniff friend ostrich
-bip_39_word_underscore_1: dune
-bip_39_word_underscore_10: dune_across_jeans_lava_obey_gadget_sniff_friend_ostrich_blossom
-bip_39_word_underscore_11: dune_across_jeans_lava_obey_gadget_sniff_friend_ostrich_blossom_surround
 bip_39_word_underscore_12: dune_across_jeans_lava_obey_gadget_sniff_friend_ostrich_blossom_surround_affair
 bip_39_word_underscore_2: dune_across
 bip_39_word_underscore_3: dune_across_jeans
-bip_39_word_underscore_4: dune_across_jeans_lava
-bip_39_word_underscore_5: dune_across_jeans_lava_obey
-bip_39_word_underscore_6: dune_across_jeans_lava_obey_gadget
-bip_39_word_underscore_7: dune_across_jeans_lava_obey_gadget_sniff
-bip_39_word_underscore_8: dune_across_jeans_lava_obey_gadget_sniff_friend
-bip_39_word_underscore_9: dune_across_jeans_lava_obey_gadget_sniff_friend_ostrich
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

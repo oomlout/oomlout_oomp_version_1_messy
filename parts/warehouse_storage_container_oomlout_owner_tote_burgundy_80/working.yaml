@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mansion
-bip_39_word_dash_10: mansion-bike-fiber-siege-detect-alpha-chuckle-hood-mirror-summer
-bip_39_word_dash_11: mansion-bike-fiber-siege-detect-alpha-chuckle-hood-mirror-summer-rose
 bip_39_word_dash_12: mansion-bike-fiber-siege-detect-alpha-chuckle-hood-mirror-summer-rose-amused
 bip_39_word_dash_2: mansion-bike
 bip_39_word_dash_3: mansion-bike-fiber
-bip_39_word_dash_4: mansion-bike-fiber-siege
-bip_39_word_dash_5: mansion-bike-fiber-siege-detect
-bip_39_word_dash_6: mansion-bike-fiber-siege-detect-alpha
-bip_39_word_dash_7: mansion-bike-fiber-siege-detect-alpha-chuckle
-bip_39_word_dash_8: mansion-bike-fiber-siege-detect-alpha-chuckle-hood
-bip_39_word_dash_9: mansion-bike-fiber-siege-detect-alpha-chuckle-hood-mirror
-bip_39_word_new_br_1: mansion
-bip_39_word_new_br_10: mansion<br>bike<br>fiber<br>siege<br>detect<br>alpha<br>chuckle<br>hood<br>mirror<br>summer
-bip_39_word_new_br_11: mansion<br>bike<br>fiber<br>siege<br>detect<br>alpha<br>chuckle<br>hood<br>mirror<br>summer<br>rose
 bip_39_word_new_br_12: mansion<br>bike<br>fiber<br>siege<br>detect<br>alpha<br>chuckle<br>hood<br>mirror<br>summer<br>rose<br>amused
 bip_39_word_new_br_2: mansion<br>bike
 bip_39_word_new_br_3: mansion<br>bike<br>fiber
-bip_39_word_new_br_4: mansion<br>bike<br>fiber<br>siege
-bip_39_word_new_br_5: mansion<br>bike<br>fiber<br>siege<br>detect
-bip_39_word_new_br_6: mansion<br>bike<br>fiber<br>siege<br>detect<br>alpha
-bip_39_word_new_br_7: mansion<br>bike<br>fiber<br>siege<br>detect<br>alpha<br>chuckle
-bip_39_word_new_br_8: mansion<br>bike<br>fiber<br>siege<br>detect<br>alpha<br>chuckle<br>hood
-bip_39_word_new_br_9: mansion<br>bike<br>fiber<br>siege<br>detect<br>alpha<br>chuckle<br>hood<br>mirror
-bip_39_word_new_line_1: mansion
-bip_39_word_new_line_10: 'mansion
-
-  bike
-
-  fiber
-
-  siege
-
-  detect
-
-  alpha
-
-  chuckle
-
-  hood
-
-  mirror
-
-  summer'
-bip_39_word_new_line_11: 'mansion
-
-  bike
-
-  fiber
-
-  siege
-
-  detect
-
-  alpha
-
-  chuckle
-
-  hood
-
-  mirror
-
-  summer
-
-  rose'
 bip_39_word_new_line_12: 'mansion
 
   bike
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mansion
   bike
 
   fiber'
-bip_39_word_new_line_4: 'mansion
-
-  bike
-
-  fiber
-
-  siege'
-bip_39_word_new_line_5: 'mansion
-
-  bike
-
-  fiber
-
-  siege
-
-  detect'
-bip_39_word_new_line_6: 'mansion
-
-  bike
-
-  fiber
-
-  siege
-
-  detect
-
-  alpha'
-bip_39_word_new_line_7: 'mansion
-
-  bike
-
-  fiber
-
-  siege
-
-  detect
-
-  alpha
-
-  chuckle'
-bip_39_word_new_line_8: 'mansion
-
-  bike
-
-  fiber
-
-  siege
-
-  detect
-
-  alpha
-
-  chuckle
-
-  hood'
-bip_39_word_new_line_9: 'mansion
-
-  bike
-
-  fiber
-
-  siege
-
-  detect
-
-  alpha
-
-  chuckle
-
-  hood
-
-  mirror'
-bip_39_word_no_space_1: mansion
-bip_39_word_no_space_10: mansionbikefibersiegedetectalphachucklehoodmirrorsummer
-bip_39_word_no_space_11: mansionbikefibersiegedetectalphachucklehoodmirrorsummerrose
 bip_39_word_no_space_12: mansionbikefibersiegedetectalphachucklehoodmirrorsummerroseamused
 bip_39_word_no_space_2: mansionbike
 bip_39_word_no_space_3: mansionbikefiber
-bip_39_word_no_space_4: mansionbikefibersiege
-bip_39_word_no_space_5: mansionbikefibersiegedetect
-bip_39_word_no_space_6: mansionbikefibersiegedetectalpha
-bip_39_word_no_space_7: mansionbikefibersiegedetectalphachuckle
-bip_39_word_no_space_8: mansionbikefibersiegedetectalphachucklehood
-bip_39_word_no_space_9: mansionbikefibersiegedetectalphachucklehoodmirror
-bip_39_word_space_0:
-- mansion
-- bike
-- fiber
-- siege
-- detect
-- alpha
-- chuckle
-- hood
-- mirror
-- summer
-- rose
-- amused
-bip_39_word_space_1: mansion
-bip_39_word_space_10: mansion bike fiber siege detect alpha chuckle hood mirror summer
-bip_39_word_space_11: mansion bike fiber siege detect alpha chuckle hood mirror summer
-  rose
 bip_39_word_space_12: mansion bike fiber siege detect alpha chuckle hood mirror summer
   rose amused
 bip_39_word_space_2: mansion bike
 bip_39_word_space_3: mansion bike fiber
-bip_39_word_space_4: mansion bike fiber siege
-bip_39_word_space_5: mansion bike fiber siege detect
-bip_39_word_space_6: mansion bike fiber siege detect alpha
-bip_39_word_space_7: mansion bike fiber siege detect alpha chuckle
-bip_39_word_space_8: mansion bike fiber siege detect alpha chuckle hood
-bip_39_word_space_9: mansion bike fiber siege detect alpha chuckle hood mirror
-bip_39_word_underscore_1: mansion
-bip_39_word_underscore_10: mansion_bike_fiber_siege_detect_alpha_chuckle_hood_mirror_summer
-bip_39_word_underscore_11: mansion_bike_fiber_siege_detect_alpha_chuckle_hood_mirror_summer_rose
 bip_39_word_underscore_12: mansion_bike_fiber_siege_detect_alpha_chuckle_hood_mirror_summer_rose_amused
 bip_39_word_underscore_2: mansion_bike
 bip_39_word_underscore_3: mansion_bike_fiber
-bip_39_word_underscore_4: mansion_bike_fiber_siege
-bip_39_word_underscore_5: mansion_bike_fiber_siege_detect
-bip_39_word_underscore_6: mansion_bike_fiber_siege_detect_alpha
-bip_39_word_underscore_7: mansion_bike_fiber_siege_detect_alpha_chuckle
-bip_39_word_underscore_8: mansion_bike_fiber_siege_detect_alpha_chuckle_hood
-bip_39_word_underscore_9: mansion_bike_fiber_siege_detect_alpha_chuckle_hood_mirror
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

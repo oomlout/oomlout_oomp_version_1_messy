@@ -1,68 +1,9 @@
-bip_39_word_dash_1: welcome
-bip_39_word_dash_10: welcome-rely-memory-force-rebuild-dog-ship-fetch-also-arena
-bip_39_word_dash_11: welcome-rely-memory-force-rebuild-dog-ship-fetch-also-arena-bar
 bip_39_word_dash_12: welcome-rely-memory-force-rebuild-dog-ship-fetch-also-arena-bar-access
 bip_39_word_dash_2: welcome-rely
 bip_39_word_dash_3: welcome-rely-memory
-bip_39_word_dash_4: welcome-rely-memory-force
-bip_39_word_dash_5: welcome-rely-memory-force-rebuild
-bip_39_word_dash_6: welcome-rely-memory-force-rebuild-dog
-bip_39_word_dash_7: welcome-rely-memory-force-rebuild-dog-ship
-bip_39_word_dash_8: welcome-rely-memory-force-rebuild-dog-ship-fetch
-bip_39_word_dash_9: welcome-rely-memory-force-rebuild-dog-ship-fetch-also
-bip_39_word_new_br_1: welcome
-bip_39_word_new_br_10: welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena
-bip_39_word_new_br_11: welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena<br>bar
 bip_39_word_new_br_12: welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also<br>arena<br>bar<br>access
 bip_39_word_new_br_2: welcome<br>rely
 bip_39_word_new_br_3: welcome<br>rely<br>memory
-bip_39_word_new_br_4: welcome<br>rely<br>memory<br>force
-bip_39_word_new_br_5: welcome<br>rely<br>memory<br>force<br>rebuild
-bip_39_word_new_br_6: welcome<br>rely<br>memory<br>force<br>rebuild<br>dog
-bip_39_word_new_br_7: welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship
-bip_39_word_new_br_8: welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch
-bip_39_word_new_br_9: welcome<br>rely<br>memory<br>force<br>rebuild<br>dog<br>ship<br>fetch<br>also
-bip_39_word_new_line_1: welcome
-bip_39_word_new_line_10: 'welcome
-
-  rely
-
-  memory
-
-  force
-
-  rebuild
-
-  dog
-
-  ship
-
-  fetch
-
-  also
-
-  arena'
-bip_39_word_new_line_11: 'welcome
-
-  rely
-
-  memory
-
-  force
-
-  rebuild
-
-  dog
-
-  ship
-
-  fetch
-
-  also
-
-  arena
-
-  bar'
 bip_39_word_new_line_12: 'welcome
 
   rely
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'welcome
   rely
 
   memory'
-bip_39_word_new_line_4: 'welcome
-
-  rely
-
-  memory
-
-  force'
-bip_39_word_new_line_5: 'welcome
-
-  rely
-
-  memory
-
-  force
-
-  rebuild'
-bip_39_word_new_line_6: 'welcome
-
-  rely
-
-  memory
-
-  force
-
-  rebuild
-
-  dog'
-bip_39_word_new_line_7: 'welcome
-
-  rely
-
-  memory
-
-  force
-
-  rebuild
-
-  dog
-
-  ship'
-bip_39_word_new_line_8: 'welcome
-
-  rely
-
-  memory
-
-  force
-
-  rebuild
-
-  dog
-
-  ship
-
-  fetch'
-bip_39_word_new_line_9: 'welcome
-
-  rely
-
-  memory
-
-  force
-
-  rebuild
-
-  dog
-
-  ship
-
-  fetch
-
-  also'
-bip_39_word_no_space_1: welcome
-bip_39_word_no_space_10: welcomerelymemoryforcerebuilddogshipfetchalsoarena
-bip_39_word_no_space_11: welcomerelymemoryforcerebuilddogshipfetchalsoarenabar
 bip_39_word_no_space_12: welcomerelymemoryforcerebuilddogshipfetchalsoarenabaraccess
 bip_39_word_no_space_2: welcomerely
 bip_39_word_no_space_3: welcomerelymemory
-bip_39_word_no_space_4: welcomerelymemoryforce
-bip_39_word_no_space_5: welcomerelymemoryforcerebuild
-bip_39_word_no_space_6: welcomerelymemoryforcerebuilddog
-bip_39_word_no_space_7: welcomerelymemoryforcerebuilddogship
-bip_39_word_no_space_8: welcomerelymemoryforcerebuilddogshipfetch
-bip_39_word_no_space_9: welcomerelymemoryforcerebuilddogshipfetchalso
-bip_39_word_space_0:
-- welcome
-- rely
-- memory
-- force
-- rebuild
-- dog
-- ship
-- fetch
-- also
-- arena
-- bar
-- access
-bip_39_word_space_1: welcome
-bip_39_word_space_10: welcome rely memory force rebuild dog ship fetch also arena
-bip_39_word_space_11: welcome rely memory force rebuild dog ship fetch also arena
-  bar
 bip_39_word_space_12: welcome rely memory force rebuild dog ship fetch also arena
   bar access
 bip_39_word_space_2: welcome rely
 bip_39_word_space_3: welcome rely memory
-bip_39_word_space_4: welcome rely memory force
-bip_39_word_space_5: welcome rely memory force rebuild
-bip_39_word_space_6: welcome rely memory force rebuild dog
-bip_39_word_space_7: welcome rely memory force rebuild dog ship
-bip_39_word_space_8: welcome rely memory force rebuild dog ship fetch
-bip_39_word_space_9: welcome rely memory force rebuild dog ship fetch also
-bip_39_word_underscore_1: welcome
-bip_39_word_underscore_10: welcome_rely_memory_force_rebuild_dog_ship_fetch_also_arena
-bip_39_word_underscore_11: welcome_rely_memory_force_rebuild_dog_ship_fetch_also_arena_bar
 bip_39_word_underscore_12: welcome_rely_memory_force_rebuild_dog_ship_fetch_also_arena_bar_access
 bip_39_word_underscore_2: welcome_rely
 bip_39_word_underscore_3: welcome_rely_memory
-bip_39_word_underscore_4: welcome_rely_memory_force
-bip_39_word_underscore_5: welcome_rely_memory_force_rebuild
-bip_39_word_underscore_6: welcome_rely_memory_force_rebuild_dog
-bip_39_word_underscore_7: welcome_rely_memory_force_rebuild_dog_ship
-bip_39_word_underscore_8: welcome_rely_memory_force_rebuild_dog_ship_fetch
-bip_39_word_underscore_9: welcome_rely_memory_force_rebuild_dog_ship_fetch_also
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

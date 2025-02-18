@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bike
-bip_39_word_dash_10: bike-account-rigid-boss-civil-guard-person-verify-knock-river
-bip_39_word_dash_11: bike-account-rigid-boss-civil-guard-person-verify-knock-river-capital
 bip_39_word_dash_12: bike-account-rigid-boss-civil-guard-person-verify-knock-river-capital-attract
 bip_39_word_dash_2: bike-account
 bip_39_word_dash_3: bike-account-rigid
-bip_39_word_dash_4: bike-account-rigid-boss
-bip_39_word_dash_5: bike-account-rigid-boss-civil
-bip_39_word_dash_6: bike-account-rigid-boss-civil-guard
-bip_39_word_dash_7: bike-account-rigid-boss-civil-guard-person
-bip_39_word_dash_8: bike-account-rigid-boss-civil-guard-person-verify
-bip_39_word_dash_9: bike-account-rigid-boss-civil-guard-person-verify-knock
-bip_39_word_new_br_1: bike
-bip_39_word_new_br_10: bike<br>account<br>rigid<br>boss<br>civil<br>guard<br>person<br>verify<br>knock<br>river
-bip_39_word_new_br_11: bike<br>account<br>rigid<br>boss<br>civil<br>guard<br>person<br>verify<br>knock<br>river<br>capital
 bip_39_word_new_br_12: bike<br>account<br>rigid<br>boss<br>civil<br>guard<br>person<br>verify<br>knock<br>river<br>capital<br>attract
 bip_39_word_new_br_2: bike<br>account
 bip_39_word_new_br_3: bike<br>account<br>rigid
-bip_39_word_new_br_4: bike<br>account<br>rigid<br>boss
-bip_39_word_new_br_5: bike<br>account<br>rigid<br>boss<br>civil
-bip_39_word_new_br_6: bike<br>account<br>rigid<br>boss<br>civil<br>guard
-bip_39_word_new_br_7: bike<br>account<br>rigid<br>boss<br>civil<br>guard<br>person
-bip_39_word_new_br_8: bike<br>account<br>rigid<br>boss<br>civil<br>guard<br>person<br>verify
-bip_39_word_new_br_9: bike<br>account<br>rigid<br>boss<br>civil<br>guard<br>person<br>verify<br>knock
-bip_39_word_new_line_1: bike
-bip_39_word_new_line_10: 'bike
-
-  account
-
-  rigid
-
-  boss
-
-  civil
-
-  guard
-
-  person
-
-  verify
-
-  knock
-
-  river'
-bip_39_word_new_line_11: 'bike
-
-  account
-
-  rigid
-
-  boss
-
-  civil
-
-  guard
-
-  person
-
-  verify
-
-  knock
-
-  river
-
-  capital'
 bip_39_word_new_line_12: 'bike
 
   account
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bike
   account
 
   rigid'
-bip_39_word_new_line_4: 'bike
-
-  account
-
-  rigid
-
-  boss'
-bip_39_word_new_line_5: 'bike
-
-  account
-
-  rigid
-
-  boss
-
-  civil'
-bip_39_word_new_line_6: 'bike
-
-  account
-
-  rigid
-
-  boss
-
-  civil
-
-  guard'
-bip_39_word_new_line_7: 'bike
-
-  account
-
-  rigid
-
-  boss
-
-  civil
-
-  guard
-
-  person'
-bip_39_word_new_line_8: 'bike
-
-  account
-
-  rigid
-
-  boss
-
-  civil
-
-  guard
-
-  person
-
-  verify'
-bip_39_word_new_line_9: 'bike
-
-  account
-
-  rigid
-
-  boss
-
-  civil
-
-  guard
-
-  person
-
-  verify
-
-  knock'
-bip_39_word_no_space_1: bike
-bip_39_word_no_space_10: bikeaccountrigidbosscivilguardpersonverifyknockriver
-bip_39_word_no_space_11: bikeaccountrigidbosscivilguardpersonverifyknockrivercapital
 bip_39_word_no_space_12: bikeaccountrigidbosscivilguardpersonverifyknockrivercapitalattract
 bip_39_word_no_space_2: bikeaccount
 bip_39_word_no_space_3: bikeaccountrigid
-bip_39_word_no_space_4: bikeaccountrigidboss
-bip_39_word_no_space_5: bikeaccountrigidbosscivil
-bip_39_word_no_space_6: bikeaccountrigidbosscivilguard
-bip_39_word_no_space_7: bikeaccountrigidbosscivilguardperson
-bip_39_word_no_space_8: bikeaccountrigidbosscivilguardpersonverify
-bip_39_word_no_space_9: bikeaccountrigidbosscivilguardpersonverifyknock
-bip_39_word_space_0:
-- bike
-- account
-- rigid
-- boss
-- civil
-- guard
-- person
-- verify
-- knock
-- river
-- capital
-- attract
-bip_39_word_space_1: bike
-bip_39_word_space_10: bike account rigid boss civil guard person verify knock river
-bip_39_word_space_11: bike account rigid boss civil guard person verify knock river
-  capital
 bip_39_word_space_12: bike account rigid boss civil guard person verify knock river
   capital attract
 bip_39_word_space_2: bike account
 bip_39_word_space_3: bike account rigid
-bip_39_word_space_4: bike account rigid boss
-bip_39_word_space_5: bike account rigid boss civil
-bip_39_word_space_6: bike account rigid boss civil guard
-bip_39_word_space_7: bike account rigid boss civil guard person
-bip_39_word_space_8: bike account rigid boss civil guard person verify
-bip_39_word_space_9: bike account rigid boss civil guard person verify knock
-bip_39_word_underscore_1: bike
-bip_39_word_underscore_10: bike_account_rigid_boss_civil_guard_person_verify_knock_river
-bip_39_word_underscore_11: bike_account_rigid_boss_civil_guard_person_verify_knock_river_capital
 bip_39_word_underscore_12: bike_account_rigid_boss_civil_guard_person_verify_knock_river_capital_attract
 bip_39_word_underscore_2: bike_account
 bip_39_word_underscore_3: bike_account_rigid
-bip_39_word_underscore_4: bike_account_rigid_boss
-bip_39_word_underscore_5: bike_account_rigid_boss_civil
-bip_39_word_underscore_6: bike_account_rigid_boss_civil_guard
-bip_39_word_underscore_7: bike_account_rigid_boss_civil_guard_person
-bip_39_word_underscore_8: bike_account_rigid_boss_civil_guard_person_verify
-bip_39_word_underscore_9: bike_account_rigid_boss_civil_guard_person_verify_knock
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cruel
-bip_39_word_dash_10: cruel-syrup-brain-balcony-hurdle-liberty-gadget-dwarf-crisp-pudding
-bip_39_word_dash_11: cruel-syrup-brain-balcony-hurdle-liberty-gadget-dwarf-crisp-pudding-attack
 bip_39_word_dash_12: cruel-syrup-brain-balcony-hurdle-liberty-gadget-dwarf-crisp-pudding-attack-also
 bip_39_word_dash_2: cruel-syrup
 bip_39_word_dash_3: cruel-syrup-brain
-bip_39_word_dash_4: cruel-syrup-brain-balcony
-bip_39_word_dash_5: cruel-syrup-brain-balcony-hurdle
-bip_39_word_dash_6: cruel-syrup-brain-balcony-hurdle-liberty
-bip_39_word_dash_7: cruel-syrup-brain-balcony-hurdle-liberty-gadget
-bip_39_word_dash_8: cruel-syrup-brain-balcony-hurdle-liberty-gadget-dwarf
-bip_39_word_dash_9: cruel-syrup-brain-balcony-hurdle-liberty-gadget-dwarf-crisp
-bip_39_word_new_br_1: cruel
-bip_39_word_new_br_10: cruel<br>syrup<br>brain<br>balcony<br>hurdle<br>liberty<br>gadget<br>dwarf<br>crisp<br>pudding
-bip_39_word_new_br_11: cruel<br>syrup<br>brain<br>balcony<br>hurdle<br>liberty<br>gadget<br>dwarf<br>crisp<br>pudding<br>attack
 bip_39_word_new_br_12: cruel<br>syrup<br>brain<br>balcony<br>hurdle<br>liberty<br>gadget<br>dwarf<br>crisp<br>pudding<br>attack<br>also
 bip_39_word_new_br_2: cruel<br>syrup
 bip_39_word_new_br_3: cruel<br>syrup<br>brain
-bip_39_word_new_br_4: cruel<br>syrup<br>brain<br>balcony
-bip_39_word_new_br_5: cruel<br>syrup<br>brain<br>balcony<br>hurdle
-bip_39_word_new_br_6: cruel<br>syrup<br>brain<br>balcony<br>hurdle<br>liberty
-bip_39_word_new_br_7: cruel<br>syrup<br>brain<br>balcony<br>hurdle<br>liberty<br>gadget
-bip_39_word_new_br_8: cruel<br>syrup<br>brain<br>balcony<br>hurdle<br>liberty<br>gadget<br>dwarf
-bip_39_word_new_br_9: cruel<br>syrup<br>brain<br>balcony<br>hurdle<br>liberty<br>gadget<br>dwarf<br>crisp
-bip_39_word_new_line_1: cruel
-bip_39_word_new_line_10: 'cruel
-
-  syrup
-
-  brain
-
-  balcony
-
-  hurdle
-
-  liberty
-
-  gadget
-
-  dwarf
-
-  crisp
-
-  pudding'
-bip_39_word_new_line_11: 'cruel
-
-  syrup
-
-  brain
-
-  balcony
-
-  hurdle
-
-  liberty
-
-  gadget
-
-  dwarf
-
-  crisp
-
-  pudding
-
-  attack'
 bip_39_word_new_line_12: 'cruel
 
   syrup
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'cruel
   syrup
 
   brain'
-bip_39_word_new_line_4: 'cruel
-
-  syrup
-
-  brain
-
-  balcony'
-bip_39_word_new_line_5: 'cruel
-
-  syrup
-
-  brain
-
-  balcony
-
-  hurdle'
-bip_39_word_new_line_6: 'cruel
-
-  syrup
-
-  brain
-
-  balcony
-
-  hurdle
-
-  liberty'
-bip_39_word_new_line_7: 'cruel
-
-  syrup
-
-  brain
-
-  balcony
-
-  hurdle
-
-  liberty
-
-  gadget'
-bip_39_word_new_line_8: 'cruel
-
-  syrup
-
-  brain
-
-  balcony
-
-  hurdle
-
-  liberty
-
-  gadget
-
-  dwarf'
-bip_39_word_new_line_9: 'cruel
-
-  syrup
-
-  brain
-
-  balcony
-
-  hurdle
-
-  liberty
-
-  gadget
-
-  dwarf
-
-  crisp'
-bip_39_word_no_space_1: cruel
-bip_39_word_no_space_10: cruelsyrupbrainbalconyhurdlelibertygadgetdwarfcrisppudding
-bip_39_word_no_space_11: cruelsyrupbrainbalconyhurdlelibertygadgetdwarfcrisppuddingattack
 bip_39_word_no_space_12: cruelsyrupbrainbalconyhurdlelibertygadgetdwarfcrisppuddingattackalso
 bip_39_word_no_space_2: cruelsyrup
 bip_39_word_no_space_3: cruelsyrupbrain
-bip_39_word_no_space_4: cruelsyrupbrainbalcony
-bip_39_word_no_space_5: cruelsyrupbrainbalconyhurdle
-bip_39_word_no_space_6: cruelsyrupbrainbalconyhurdleliberty
-bip_39_word_no_space_7: cruelsyrupbrainbalconyhurdlelibertygadget
-bip_39_word_no_space_8: cruelsyrupbrainbalconyhurdlelibertygadgetdwarf
-bip_39_word_no_space_9: cruelsyrupbrainbalconyhurdlelibertygadgetdwarfcrisp
-bip_39_word_space_0:
-- cruel
-- syrup
-- brain
-- balcony
-- hurdle
-- liberty
-- gadget
-- dwarf
-- crisp
-- pudding
-- attack
-- also
-bip_39_word_space_1: cruel
-bip_39_word_space_10: cruel syrup brain balcony hurdle liberty gadget dwarf crisp
-  pudding
-bip_39_word_space_11: cruel syrup brain balcony hurdle liberty gadget dwarf crisp
-  pudding attack
 bip_39_word_space_12: cruel syrup brain balcony hurdle liberty gadget dwarf crisp
   pudding attack also
 bip_39_word_space_2: cruel syrup
 bip_39_word_space_3: cruel syrup brain
-bip_39_word_space_4: cruel syrup brain balcony
-bip_39_word_space_5: cruel syrup brain balcony hurdle
-bip_39_word_space_6: cruel syrup brain balcony hurdle liberty
-bip_39_word_space_7: cruel syrup brain balcony hurdle liberty gadget
-bip_39_word_space_8: cruel syrup brain balcony hurdle liberty gadget dwarf
-bip_39_word_space_9: cruel syrup brain balcony hurdle liberty gadget dwarf crisp
-bip_39_word_underscore_1: cruel
-bip_39_word_underscore_10: cruel_syrup_brain_balcony_hurdle_liberty_gadget_dwarf_crisp_pudding
-bip_39_word_underscore_11: cruel_syrup_brain_balcony_hurdle_liberty_gadget_dwarf_crisp_pudding_attack
 bip_39_word_underscore_12: cruel_syrup_brain_balcony_hurdle_liberty_gadget_dwarf_crisp_pudding_attack_also
 bip_39_word_underscore_2: cruel_syrup
 bip_39_word_underscore_3: cruel_syrup_brain
-bip_39_word_underscore_4: cruel_syrup_brain_balcony
-bip_39_word_underscore_5: cruel_syrup_brain_balcony_hurdle
-bip_39_word_underscore_6: cruel_syrup_brain_balcony_hurdle_liberty
-bip_39_word_underscore_7: cruel_syrup_brain_balcony_hurdle_liberty_gadget
-bip_39_word_underscore_8: cruel_syrup_brain_balcony_hurdle_liberty_gadget_dwarf
-bip_39_word_underscore_9: cruel_syrup_brain_balcony_hurdle_liberty_gadget_dwarf_crisp
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

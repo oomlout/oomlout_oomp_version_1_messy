@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slot
-bip_39_word_dash_10: slot-soul-payment-wreck-skate-lonely-slam-aunt-artefact-engage
-bip_39_word_dash_11: slot-soul-payment-wreck-skate-lonely-slam-aunt-artefact-engage-wall
 bip_39_word_dash_12: slot-soul-payment-wreck-skate-lonely-slam-aunt-artefact-engage-wall-army
 bip_39_word_dash_2: slot-soul
 bip_39_word_dash_3: slot-soul-payment
-bip_39_word_dash_4: slot-soul-payment-wreck
-bip_39_word_dash_5: slot-soul-payment-wreck-skate
-bip_39_word_dash_6: slot-soul-payment-wreck-skate-lonely
-bip_39_word_dash_7: slot-soul-payment-wreck-skate-lonely-slam
-bip_39_word_dash_8: slot-soul-payment-wreck-skate-lonely-slam-aunt
-bip_39_word_dash_9: slot-soul-payment-wreck-skate-lonely-slam-aunt-artefact
-bip_39_word_new_br_1: slot
-bip_39_word_new_br_10: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage
-bip_39_word_new_br_11: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage<br>wall
 bip_39_word_new_br_12: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage<br>wall<br>army
 bip_39_word_new_br_2: slot<br>soul
 bip_39_word_new_br_3: slot<br>soul<br>payment
-bip_39_word_new_br_4: slot<br>soul<br>payment<br>wreck
-bip_39_word_new_br_5: slot<br>soul<br>payment<br>wreck<br>skate
-bip_39_word_new_br_6: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely
-bip_39_word_new_br_7: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam
-bip_39_word_new_br_8: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt
-bip_39_word_new_br_9: slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact
-bip_39_word_new_line_1: slot
-bip_39_word_new_line_10: 'slot
-
-  soul
-
-  payment
-
-  wreck
-
-  skate
-
-  lonely
-
-  slam
-
-  aunt
-
-  artefact
-
-  engage'
-bip_39_word_new_line_11: 'slot
-
-  soul
-
-  payment
-
-  wreck
-
-  skate
-
-  lonely
-
-  slam
-
-  aunt
-
-  artefact
-
-  engage
-
-  wall'
 bip_39_word_new_line_12: 'slot
 
   soul
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slot
   soul
 
   payment'
-bip_39_word_new_line_4: 'slot
-
-  soul
-
-  payment
-
-  wreck'
-bip_39_word_new_line_5: 'slot
-
-  soul
-
-  payment
-
-  wreck
-
-  skate'
-bip_39_word_new_line_6: 'slot
-
-  soul
-
-  payment
-
-  wreck
-
-  skate
-
-  lonely'
-bip_39_word_new_line_7: 'slot
-
-  soul
-
-  payment
-
-  wreck
-
-  skate
-
-  lonely
-
-  slam'
-bip_39_word_new_line_8: 'slot
-
-  soul
-
-  payment
-
-  wreck
-
-  skate
-
-  lonely
-
-  slam
-
-  aunt'
-bip_39_word_new_line_9: 'slot
-
-  soul
-
-  payment
-
-  wreck
-
-  skate
-
-  lonely
-
-  slam
-
-  aunt
-
-  artefact'
-bip_39_word_no_space_1: slot
-bip_39_word_no_space_10: slotsoulpaymentwreckskatelonelyslamauntartefactengage
-bip_39_word_no_space_11: slotsoulpaymentwreckskatelonelyslamauntartefactengagewall
 bip_39_word_no_space_12: slotsoulpaymentwreckskatelonelyslamauntartefactengagewallarmy
 bip_39_word_no_space_2: slotsoul
 bip_39_word_no_space_3: slotsoulpayment
-bip_39_word_no_space_4: slotsoulpaymentwreck
-bip_39_word_no_space_5: slotsoulpaymentwreckskate
-bip_39_word_no_space_6: slotsoulpaymentwreckskatelonely
-bip_39_word_no_space_7: slotsoulpaymentwreckskatelonelyslam
-bip_39_word_no_space_8: slotsoulpaymentwreckskatelonelyslamaunt
-bip_39_word_no_space_9: slotsoulpaymentwreckskatelonelyslamauntartefact
-bip_39_word_space_0:
-- slot
-- soul
-- payment
-- wreck
-- skate
-- lonely
-- slam
-- aunt
-- artefact
-- engage
-- wall
-- army
-bip_39_word_space_1: slot
-bip_39_word_space_10: slot soul payment wreck skate lonely slam aunt artefact engage
-bip_39_word_space_11: slot soul payment wreck skate lonely slam aunt artefact engage
-  wall
 bip_39_word_space_12: slot soul payment wreck skate lonely slam aunt artefact engage
   wall army
 bip_39_word_space_2: slot soul
 bip_39_word_space_3: slot soul payment
-bip_39_word_space_4: slot soul payment wreck
-bip_39_word_space_5: slot soul payment wreck skate
-bip_39_word_space_6: slot soul payment wreck skate lonely
-bip_39_word_space_7: slot soul payment wreck skate lonely slam
-bip_39_word_space_8: slot soul payment wreck skate lonely slam aunt
-bip_39_word_space_9: slot soul payment wreck skate lonely slam aunt artefact
-bip_39_word_underscore_1: slot
-bip_39_word_underscore_10: slot_soul_payment_wreck_skate_lonely_slam_aunt_artefact_engage
-bip_39_word_underscore_11: slot_soul_payment_wreck_skate_lonely_slam_aunt_artefact_engage_wall
 bip_39_word_underscore_12: slot_soul_payment_wreck_skate_lonely_slam_aunt_artefact_engage_wall_army
 bip_39_word_underscore_2: slot_soul
 bip_39_word_underscore_3: slot_soul_payment
-bip_39_word_underscore_4: slot_soul_payment_wreck
-bip_39_word_underscore_5: slot_soul_payment_wreck_skate
-bip_39_word_underscore_6: slot_soul_payment_wreck_skate_lonely
-bip_39_word_underscore_7: slot_soul_payment_wreck_skate_lonely_slam
-bip_39_word_underscore_8: slot_soul_payment_wreck_skate_lonely_slam_aunt
-bip_39_word_underscore_9: slot_soul_payment_wreck_skate_lonely_slam_aunt_artefact
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

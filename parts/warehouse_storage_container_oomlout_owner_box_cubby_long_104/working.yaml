@@ -1,68 +1,9 @@
-bip_39_word_dash_1: climb
-bip_39_word_dash_10: climb-borrow-honey-know-junk-collect-zebra-tube-ten-derive
-bip_39_word_dash_11: climb-borrow-honey-know-junk-collect-zebra-tube-ten-derive-cage
 bip_39_word_dash_12: climb-borrow-honey-know-junk-collect-zebra-tube-ten-derive-cage-already
 bip_39_word_dash_2: climb-borrow
 bip_39_word_dash_3: climb-borrow-honey
-bip_39_word_dash_4: climb-borrow-honey-know
-bip_39_word_dash_5: climb-borrow-honey-know-junk
-bip_39_word_dash_6: climb-borrow-honey-know-junk-collect
-bip_39_word_dash_7: climb-borrow-honey-know-junk-collect-zebra
-bip_39_word_dash_8: climb-borrow-honey-know-junk-collect-zebra-tube
-bip_39_word_dash_9: climb-borrow-honey-know-junk-collect-zebra-tube-ten
-bip_39_word_new_br_1: climb
-bip_39_word_new_br_10: climb<br>borrow<br>honey<br>know<br>junk<br>collect<br>zebra<br>tube<br>ten<br>derive
-bip_39_word_new_br_11: climb<br>borrow<br>honey<br>know<br>junk<br>collect<br>zebra<br>tube<br>ten<br>derive<br>cage
 bip_39_word_new_br_12: climb<br>borrow<br>honey<br>know<br>junk<br>collect<br>zebra<br>tube<br>ten<br>derive<br>cage<br>already
 bip_39_word_new_br_2: climb<br>borrow
 bip_39_word_new_br_3: climb<br>borrow<br>honey
-bip_39_word_new_br_4: climb<br>borrow<br>honey<br>know
-bip_39_word_new_br_5: climb<br>borrow<br>honey<br>know<br>junk
-bip_39_word_new_br_6: climb<br>borrow<br>honey<br>know<br>junk<br>collect
-bip_39_word_new_br_7: climb<br>borrow<br>honey<br>know<br>junk<br>collect<br>zebra
-bip_39_word_new_br_8: climb<br>borrow<br>honey<br>know<br>junk<br>collect<br>zebra<br>tube
-bip_39_word_new_br_9: climb<br>borrow<br>honey<br>know<br>junk<br>collect<br>zebra<br>tube<br>ten
-bip_39_word_new_line_1: climb
-bip_39_word_new_line_10: 'climb
-
-  borrow
-
-  honey
-
-  know
-
-  junk
-
-  collect
-
-  zebra
-
-  tube
-
-  ten
-
-  derive'
-bip_39_word_new_line_11: 'climb
-
-  borrow
-
-  honey
-
-  know
-
-  junk
-
-  collect
-
-  zebra
-
-  tube
-
-  ten
-
-  derive
-
-  cage'
 bip_39_word_new_line_12: 'climb
 
   borrow
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'climb
   borrow
 
   honey'
-bip_39_word_new_line_4: 'climb
-
-  borrow
-
-  honey
-
-  know'
-bip_39_word_new_line_5: 'climb
-
-  borrow
-
-  honey
-
-  know
-
-  junk'
-bip_39_word_new_line_6: 'climb
-
-  borrow
-
-  honey
-
-  know
-
-  junk
-
-  collect'
-bip_39_word_new_line_7: 'climb
-
-  borrow
-
-  honey
-
-  know
-
-  junk
-
-  collect
-
-  zebra'
-bip_39_word_new_line_8: 'climb
-
-  borrow
-
-  honey
-
-  know
-
-  junk
-
-  collect
-
-  zebra
-
-  tube'
-bip_39_word_new_line_9: 'climb
-
-  borrow
-
-  honey
-
-  know
-
-  junk
-
-  collect
-
-  zebra
-
-  tube
-
-  ten'
-bip_39_word_no_space_1: climb
-bip_39_word_no_space_10: climbborrowhoneyknowjunkcollectzebratubetenderive
-bip_39_word_no_space_11: climbborrowhoneyknowjunkcollectzebratubetenderivecage
 bip_39_word_no_space_12: climbborrowhoneyknowjunkcollectzebratubetenderivecagealready
 bip_39_word_no_space_2: climbborrow
 bip_39_word_no_space_3: climbborrowhoney
-bip_39_word_no_space_4: climbborrowhoneyknow
-bip_39_word_no_space_5: climbborrowhoneyknowjunk
-bip_39_word_no_space_6: climbborrowhoneyknowjunkcollect
-bip_39_word_no_space_7: climbborrowhoneyknowjunkcollectzebra
-bip_39_word_no_space_8: climbborrowhoneyknowjunkcollectzebratube
-bip_39_word_no_space_9: climbborrowhoneyknowjunkcollectzebratubeten
-bip_39_word_space_0:
-- climb
-- borrow
-- honey
-- know
-- junk
-- collect
-- zebra
-- tube
-- ten
-- derive
-- cage
-- already
-bip_39_word_space_1: climb
-bip_39_word_space_10: climb borrow honey know junk collect zebra tube ten derive
-bip_39_word_space_11: climb borrow honey know junk collect zebra tube ten derive cage
 bip_39_word_space_12: climb borrow honey know junk collect zebra tube ten derive cage
   already
 bip_39_word_space_2: climb borrow
 bip_39_word_space_3: climb borrow honey
-bip_39_word_space_4: climb borrow honey know
-bip_39_word_space_5: climb borrow honey know junk
-bip_39_word_space_6: climb borrow honey know junk collect
-bip_39_word_space_7: climb borrow honey know junk collect zebra
-bip_39_word_space_8: climb borrow honey know junk collect zebra tube
-bip_39_word_space_9: climb borrow honey know junk collect zebra tube ten
-bip_39_word_underscore_1: climb
-bip_39_word_underscore_10: climb_borrow_honey_know_junk_collect_zebra_tube_ten_derive
-bip_39_word_underscore_11: climb_borrow_honey_know_junk_collect_zebra_tube_ten_derive_cage
 bip_39_word_underscore_12: climb_borrow_honey_know_junk_collect_zebra_tube_ten_derive_cage_already
 bip_39_word_underscore_2: climb_borrow
 bip_39_word_underscore_3: climb_borrow_honey
-bip_39_word_underscore_4: climb_borrow_honey_know
-bip_39_word_underscore_5: climb_borrow_honey_know_junk
-bip_39_word_underscore_6: climb_borrow_honey_know_junk_collect
-bip_39_word_underscore_7: climb_borrow_honey_know_junk_collect_zebra
-bip_39_word_underscore_8: climb_borrow_honey_know_junk_collect_zebra_tube
-bip_39_word_underscore_9: climb_borrow_honey_know_junk_collect_zebra_tube_ten
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

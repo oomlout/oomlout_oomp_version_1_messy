@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ice
-bip_39_word_dash_10: ice-divide-rough-olive-daring-pluck-glide-same-wing-true
-bip_39_word_dash_11: ice-divide-rough-olive-daring-pluck-glide-same-wing-true-keep
 bip_39_word_dash_12: ice-divide-rough-olive-daring-pluck-glide-same-wing-true-keep-able
 bip_39_word_dash_2: ice-divide
 bip_39_word_dash_3: ice-divide-rough
-bip_39_word_dash_4: ice-divide-rough-olive
-bip_39_word_dash_5: ice-divide-rough-olive-daring
-bip_39_word_dash_6: ice-divide-rough-olive-daring-pluck
-bip_39_word_dash_7: ice-divide-rough-olive-daring-pluck-glide
-bip_39_word_dash_8: ice-divide-rough-olive-daring-pluck-glide-same
-bip_39_word_dash_9: ice-divide-rough-olive-daring-pluck-glide-same-wing
-bip_39_word_new_br_1: ice
-bip_39_word_new_br_10: ice<br>divide<br>rough<br>olive<br>daring<br>pluck<br>glide<br>same<br>wing<br>true
-bip_39_word_new_br_11: ice<br>divide<br>rough<br>olive<br>daring<br>pluck<br>glide<br>same<br>wing<br>true<br>keep
 bip_39_word_new_br_12: ice<br>divide<br>rough<br>olive<br>daring<br>pluck<br>glide<br>same<br>wing<br>true<br>keep<br>able
 bip_39_word_new_br_2: ice<br>divide
 bip_39_word_new_br_3: ice<br>divide<br>rough
-bip_39_word_new_br_4: ice<br>divide<br>rough<br>olive
-bip_39_word_new_br_5: ice<br>divide<br>rough<br>olive<br>daring
-bip_39_word_new_br_6: ice<br>divide<br>rough<br>olive<br>daring<br>pluck
-bip_39_word_new_br_7: ice<br>divide<br>rough<br>olive<br>daring<br>pluck<br>glide
-bip_39_word_new_br_8: ice<br>divide<br>rough<br>olive<br>daring<br>pluck<br>glide<br>same
-bip_39_word_new_br_9: ice<br>divide<br>rough<br>olive<br>daring<br>pluck<br>glide<br>same<br>wing
-bip_39_word_new_line_1: ice
-bip_39_word_new_line_10: 'ice
-
-  divide
-
-  rough
-
-  olive
-
-  daring
-
-  pluck
-
-  glide
-
-  same
-
-  wing
-
-  true'
-bip_39_word_new_line_11: 'ice
-
-  divide
-
-  rough
-
-  olive
-
-  daring
-
-  pluck
-
-  glide
-
-  same
-
-  wing
-
-  true
-
-  keep'
 bip_39_word_new_line_12: 'ice
 
   divide
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'ice
   divide
 
   rough'
-bip_39_word_new_line_4: 'ice
-
-  divide
-
-  rough
-
-  olive'
-bip_39_word_new_line_5: 'ice
-
-  divide
-
-  rough
-
-  olive
-
-  daring'
-bip_39_word_new_line_6: 'ice
-
-  divide
-
-  rough
-
-  olive
-
-  daring
-
-  pluck'
-bip_39_word_new_line_7: 'ice
-
-  divide
-
-  rough
-
-  olive
-
-  daring
-
-  pluck
-
-  glide'
-bip_39_word_new_line_8: 'ice
-
-  divide
-
-  rough
-
-  olive
-
-  daring
-
-  pluck
-
-  glide
-
-  same'
-bip_39_word_new_line_9: 'ice
-
-  divide
-
-  rough
-
-  olive
-
-  daring
-
-  pluck
-
-  glide
-
-  same
-
-  wing'
-bip_39_word_no_space_1: ice
-bip_39_word_no_space_10: icedividerougholivedaringpluckglidesamewingtrue
-bip_39_word_no_space_11: icedividerougholivedaringpluckglidesamewingtruekeep
 bip_39_word_no_space_12: icedividerougholivedaringpluckglidesamewingtruekeepable
 bip_39_word_no_space_2: icedivide
 bip_39_word_no_space_3: icedividerough
-bip_39_word_no_space_4: icedividerougholive
-bip_39_word_no_space_5: icedividerougholivedaring
-bip_39_word_no_space_6: icedividerougholivedaringpluck
-bip_39_word_no_space_7: icedividerougholivedaringpluckglide
-bip_39_word_no_space_8: icedividerougholivedaringpluckglidesame
-bip_39_word_no_space_9: icedividerougholivedaringpluckglidesamewing
-bip_39_word_space_0:
-- ice
-- divide
-- rough
-- olive
-- daring
-- pluck
-- glide
-- same
-- wing
-- 'true'
-- keep
-- able
-bip_39_word_space_1: ice
-bip_39_word_space_10: ice divide rough olive daring pluck glide same wing true
-bip_39_word_space_11: ice divide rough olive daring pluck glide same wing true keep
 bip_39_word_space_12: ice divide rough olive daring pluck glide same wing true keep
   able
 bip_39_word_space_2: ice divide
 bip_39_word_space_3: ice divide rough
-bip_39_word_space_4: ice divide rough olive
-bip_39_word_space_5: ice divide rough olive daring
-bip_39_word_space_6: ice divide rough olive daring pluck
-bip_39_word_space_7: ice divide rough olive daring pluck glide
-bip_39_word_space_8: ice divide rough olive daring pluck glide same
-bip_39_word_space_9: ice divide rough olive daring pluck glide same wing
-bip_39_word_underscore_1: ice
-bip_39_word_underscore_10: ice_divide_rough_olive_daring_pluck_glide_same_wing_true
-bip_39_word_underscore_11: ice_divide_rough_olive_daring_pluck_glide_same_wing_true_keep
 bip_39_word_underscore_12: ice_divide_rough_olive_daring_pluck_glide_same_wing_true_keep_able
 bip_39_word_underscore_2: ice_divide
 bip_39_word_underscore_3: ice_divide_rough
-bip_39_word_underscore_4: ice_divide_rough_olive
-bip_39_word_underscore_5: ice_divide_rough_olive_daring
-bip_39_word_underscore_6: ice_divide_rough_olive_daring_pluck
-bip_39_word_underscore_7: ice_divide_rough_olive_daring_pluck_glide
-bip_39_word_underscore_8: ice_divide_rough_olive_daring_pluck_glide_same
-bip_39_word_underscore_9: ice_divide_rough_olive_daring_pluck_glide_same_wing
 classification: category
 classification_capital: Category
 classification_first_letter: c

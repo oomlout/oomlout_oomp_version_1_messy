@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mirror
-bip_39_word_dash_10: mirror-series-example-zone-wasp-violin-photo-crumble-six-wire
-bip_39_word_dash_11: mirror-series-example-zone-wasp-violin-photo-crumble-six-wire-slogan
 bip_39_word_dash_12: mirror-series-example-zone-wasp-violin-photo-crumble-six-wire-slogan-announce
 bip_39_word_dash_2: mirror-series
 bip_39_word_dash_3: mirror-series-example
-bip_39_word_dash_4: mirror-series-example-zone
-bip_39_word_dash_5: mirror-series-example-zone-wasp
-bip_39_word_dash_6: mirror-series-example-zone-wasp-violin
-bip_39_word_dash_7: mirror-series-example-zone-wasp-violin-photo
-bip_39_word_dash_8: mirror-series-example-zone-wasp-violin-photo-crumble
-bip_39_word_dash_9: mirror-series-example-zone-wasp-violin-photo-crumble-six
-bip_39_word_new_br_1: mirror
-bip_39_word_new_br_10: mirror<br>series<br>example<br>zone<br>wasp<br>violin<br>photo<br>crumble<br>six<br>wire
-bip_39_word_new_br_11: mirror<br>series<br>example<br>zone<br>wasp<br>violin<br>photo<br>crumble<br>six<br>wire<br>slogan
 bip_39_word_new_br_12: mirror<br>series<br>example<br>zone<br>wasp<br>violin<br>photo<br>crumble<br>six<br>wire<br>slogan<br>announce
 bip_39_word_new_br_2: mirror<br>series
 bip_39_word_new_br_3: mirror<br>series<br>example
-bip_39_word_new_br_4: mirror<br>series<br>example<br>zone
-bip_39_word_new_br_5: mirror<br>series<br>example<br>zone<br>wasp
-bip_39_word_new_br_6: mirror<br>series<br>example<br>zone<br>wasp<br>violin
-bip_39_word_new_br_7: mirror<br>series<br>example<br>zone<br>wasp<br>violin<br>photo
-bip_39_word_new_br_8: mirror<br>series<br>example<br>zone<br>wasp<br>violin<br>photo<br>crumble
-bip_39_word_new_br_9: mirror<br>series<br>example<br>zone<br>wasp<br>violin<br>photo<br>crumble<br>six
-bip_39_word_new_line_1: mirror
-bip_39_word_new_line_10: 'mirror
-
-  series
-
-  example
-
-  zone
-
-  wasp
-
-  violin
-
-  photo
-
-  crumble
-
-  six
-
-  wire'
-bip_39_word_new_line_11: 'mirror
-
-  series
-
-  example
-
-  zone
-
-  wasp
-
-  violin
-
-  photo
-
-  crumble
-
-  six
-
-  wire
-
-  slogan'
 bip_39_word_new_line_12: 'mirror
 
   series
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mirror
   series
 
   example'
-bip_39_word_new_line_4: 'mirror
-
-  series
-
-  example
-
-  zone'
-bip_39_word_new_line_5: 'mirror
-
-  series
-
-  example
-
-  zone
-
-  wasp'
-bip_39_word_new_line_6: 'mirror
-
-  series
-
-  example
-
-  zone
-
-  wasp
-
-  violin'
-bip_39_word_new_line_7: 'mirror
-
-  series
-
-  example
-
-  zone
-
-  wasp
-
-  violin
-
-  photo'
-bip_39_word_new_line_8: 'mirror
-
-  series
-
-  example
-
-  zone
-
-  wasp
-
-  violin
-
-  photo
-
-  crumble'
-bip_39_word_new_line_9: 'mirror
-
-  series
-
-  example
-
-  zone
-
-  wasp
-
-  violin
-
-  photo
-
-  crumble
-
-  six'
-bip_39_word_no_space_1: mirror
-bip_39_word_no_space_10: mirrorseriesexamplezonewaspviolinphotocrumblesixwire
-bip_39_word_no_space_11: mirrorseriesexamplezonewaspviolinphotocrumblesixwireslogan
 bip_39_word_no_space_12: mirrorseriesexamplezonewaspviolinphotocrumblesixwiresloganannounce
 bip_39_word_no_space_2: mirrorseries
 bip_39_word_no_space_3: mirrorseriesexample
-bip_39_word_no_space_4: mirrorseriesexamplezone
-bip_39_word_no_space_5: mirrorseriesexamplezonewasp
-bip_39_word_no_space_6: mirrorseriesexamplezonewaspviolin
-bip_39_word_no_space_7: mirrorseriesexamplezonewaspviolinphoto
-bip_39_word_no_space_8: mirrorseriesexamplezonewaspviolinphotocrumble
-bip_39_word_no_space_9: mirrorseriesexamplezonewaspviolinphotocrumblesix
-bip_39_word_space_0:
-- mirror
-- series
-- example
-- zone
-- wasp
-- violin
-- photo
-- crumble
-- six
-- wire
-- slogan
-- announce
-bip_39_word_space_1: mirror
-bip_39_word_space_10: mirror series example zone wasp violin photo crumble six wire
-bip_39_word_space_11: mirror series example zone wasp violin photo crumble six wire
-  slogan
 bip_39_word_space_12: mirror series example zone wasp violin photo crumble six wire
   slogan announce
 bip_39_word_space_2: mirror series
 bip_39_word_space_3: mirror series example
-bip_39_word_space_4: mirror series example zone
-bip_39_word_space_5: mirror series example zone wasp
-bip_39_word_space_6: mirror series example zone wasp violin
-bip_39_word_space_7: mirror series example zone wasp violin photo
-bip_39_word_space_8: mirror series example zone wasp violin photo crumble
-bip_39_word_space_9: mirror series example zone wasp violin photo crumble six
-bip_39_word_underscore_1: mirror
-bip_39_word_underscore_10: mirror_series_example_zone_wasp_violin_photo_crumble_six_wire
-bip_39_word_underscore_11: mirror_series_example_zone_wasp_violin_photo_crumble_six_wire_slogan
 bip_39_word_underscore_12: mirror_series_example_zone_wasp_violin_photo_crumble_six_wire_slogan_announce
 bip_39_word_underscore_2: mirror_series
 bip_39_word_underscore_3: mirror_series_example
-bip_39_word_underscore_4: mirror_series_example_zone
-bip_39_word_underscore_5: mirror_series_example_zone_wasp
-bip_39_word_underscore_6: mirror_series_example_zone_wasp_violin
-bip_39_word_underscore_7: mirror_series_example_zone_wasp_violin_photo
-bip_39_word_underscore_8: mirror_series_example_zone_wasp_violin_photo_crumble
-bip_39_word_underscore_9: mirror_series_example_zone_wasp_violin_photo_crumble_six
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

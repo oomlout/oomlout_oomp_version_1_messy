@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cat
-bip_39_word_dash_10: cat-parade-rifle-enrich-shrimp-desk-expire-torch-sister-prepare
-bip_39_word_dash_11: cat-parade-rifle-enrich-shrimp-desk-expire-torch-sister-prepare-awful
 bip_39_word_dash_12: cat-parade-rifle-enrich-shrimp-desk-expire-torch-sister-prepare-awful-admit
 bip_39_word_dash_2: cat-parade
 bip_39_word_dash_3: cat-parade-rifle
-bip_39_word_dash_4: cat-parade-rifle-enrich
-bip_39_word_dash_5: cat-parade-rifle-enrich-shrimp
-bip_39_word_dash_6: cat-parade-rifle-enrich-shrimp-desk
-bip_39_word_dash_7: cat-parade-rifle-enrich-shrimp-desk-expire
-bip_39_word_dash_8: cat-parade-rifle-enrich-shrimp-desk-expire-torch
-bip_39_word_dash_9: cat-parade-rifle-enrich-shrimp-desk-expire-torch-sister
-bip_39_word_new_br_1: cat
-bip_39_word_new_br_10: cat<br>parade<br>rifle<br>enrich<br>shrimp<br>desk<br>expire<br>torch<br>sister<br>prepare
-bip_39_word_new_br_11: cat<br>parade<br>rifle<br>enrich<br>shrimp<br>desk<br>expire<br>torch<br>sister<br>prepare<br>awful
 bip_39_word_new_br_12: cat<br>parade<br>rifle<br>enrich<br>shrimp<br>desk<br>expire<br>torch<br>sister<br>prepare<br>awful<br>admit
 bip_39_word_new_br_2: cat<br>parade
 bip_39_word_new_br_3: cat<br>parade<br>rifle
-bip_39_word_new_br_4: cat<br>parade<br>rifle<br>enrich
-bip_39_word_new_br_5: cat<br>parade<br>rifle<br>enrich<br>shrimp
-bip_39_word_new_br_6: cat<br>parade<br>rifle<br>enrich<br>shrimp<br>desk
-bip_39_word_new_br_7: cat<br>parade<br>rifle<br>enrich<br>shrimp<br>desk<br>expire
-bip_39_word_new_br_8: cat<br>parade<br>rifle<br>enrich<br>shrimp<br>desk<br>expire<br>torch
-bip_39_word_new_br_9: cat<br>parade<br>rifle<br>enrich<br>shrimp<br>desk<br>expire<br>torch<br>sister
-bip_39_word_new_line_1: cat
-bip_39_word_new_line_10: 'cat
-
-  parade
-
-  rifle
-
-  enrich
-
-  shrimp
-
-  desk
-
-  expire
-
-  torch
-
-  sister
-
-  prepare'
-bip_39_word_new_line_11: 'cat
-
-  parade
-
-  rifle
-
-  enrich
-
-  shrimp
-
-  desk
-
-  expire
-
-  torch
-
-  sister
-
-  prepare
-
-  awful'
 bip_39_word_new_line_12: 'cat
 
   parade
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cat
   parade
 
   rifle'
-bip_39_word_new_line_4: 'cat
-
-  parade
-
-  rifle
-
-  enrich'
-bip_39_word_new_line_5: 'cat
-
-  parade
-
-  rifle
-
-  enrich
-
-  shrimp'
-bip_39_word_new_line_6: 'cat
-
-  parade
-
-  rifle
-
-  enrich
-
-  shrimp
-
-  desk'
-bip_39_word_new_line_7: 'cat
-
-  parade
-
-  rifle
-
-  enrich
-
-  shrimp
-
-  desk
-
-  expire'
-bip_39_word_new_line_8: 'cat
-
-  parade
-
-  rifle
-
-  enrich
-
-  shrimp
-
-  desk
-
-  expire
-
-  torch'
-bip_39_word_new_line_9: 'cat
-
-  parade
-
-  rifle
-
-  enrich
-
-  shrimp
-
-  desk
-
-  expire
-
-  torch
-
-  sister'
-bip_39_word_no_space_1: cat
-bip_39_word_no_space_10: catparaderifleenrichshrimpdeskexpiretorchsisterprepare
-bip_39_word_no_space_11: catparaderifleenrichshrimpdeskexpiretorchsisterprepareawful
 bip_39_word_no_space_12: catparaderifleenrichshrimpdeskexpiretorchsisterprepareawfuladmit
 bip_39_word_no_space_2: catparade
 bip_39_word_no_space_3: catparaderifle
-bip_39_word_no_space_4: catparaderifleenrich
-bip_39_word_no_space_5: catparaderifleenrichshrimp
-bip_39_word_no_space_6: catparaderifleenrichshrimpdesk
-bip_39_word_no_space_7: catparaderifleenrichshrimpdeskexpire
-bip_39_word_no_space_8: catparaderifleenrichshrimpdeskexpiretorch
-bip_39_word_no_space_9: catparaderifleenrichshrimpdeskexpiretorchsister
-bip_39_word_space_0:
-- cat
-- parade
-- rifle
-- enrich
-- shrimp
-- desk
-- expire
-- torch
-- sister
-- prepare
-- awful
-- admit
-bip_39_word_space_1: cat
-bip_39_word_space_10: cat parade rifle enrich shrimp desk expire torch sister prepare
-bip_39_word_space_11: cat parade rifle enrich shrimp desk expire torch sister prepare
-  awful
 bip_39_word_space_12: cat parade rifle enrich shrimp desk expire torch sister prepare
   awful admit
 bip_39_word_space_2: cat parade
 bip_39_word_space_3: cat parade rifle
-bip_39_word_space_4: cat parade rifle enrich
-bip_39_word_space_5: cat parade rifle enrich shrimp
-bip_39_word_space_6: cat parade rifle enrich shrimp desk
-bip_39_word_space_7: cat parade rifle enrich shrimp desk expire
-bip_39_word_space_8: cat parade rifle enrich shrimp desk expire torch
-bip_39_word_space_9: cat parade rifle enrich shrimp desk expire torch sister
-bip_39_word_underscore_1: cat
-bip_39_word_underscore_10: cat_parade_rifle_enrich_shrimp_desk_expire_torch_sister_prepare
-bip_39_word_underscore_11: cat_parade_rifle_enrich_shrimp_desk_expire_torch_sister_prepare_awful
 bip_39_word_underscore_12: cat_parade_rifle_enrich_shrimp_desk_expire_torch_sister_prepare_awful_admit
 bip_39_word_underscore_2: cat_parade
 bip_39_word_underscore_3: cat_parade_rifle
-bip_39_word_underscore_4: cat_parade_rifle_enrich
-bip_39_word_underscore_5: cat_parade_rifle_enrich_shrimp
-bip_39_word_underscore_6: cat_parade_rifle_enrich_shrimp_desk
-bip_39_word_underscore_7: cat_parade_rifle_enrich_shrimp_desk_expire
-bip_39_word_underscore_8: cat_parade_rifle_enrich_shrimp_desk_expire_torch
-bip_39_word_underscore_9: cat_parade_rifle_enrich_shrimp_desk_expire_torch_sister
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

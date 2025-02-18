@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gloom
-bip_39_word_dash_10: gloom-galaxy-inmate-deposit-ready-elevator-lemon-shuffle-gallery-border
-bip_39_word_dash_11: gloom-galaxy-inmate-deposit-ready-elevator-lemon-shuffle-gallery-border-swarm
 bip_39_word_dash_12: gloom-galaxy-inmate-deposit-ready-elevator-lemon-shuffle-gallery-border-swarm-arrest
 bip_39_word_dash_2: gloom-galaxy
 bip_39_word_dash_3: gloom-galaxy-inmate
-bip_39_word_dash_4: gloom-galaxy-inmate-deposit
-bip_39_word_dash_5: gloom-galaxy-inmate-deposit-ready
-bip_39_word_dash_6: gloom-galaxy-inmate-deposit-ready-elevator
-bip_39_word_dash_7: gloom-galaxy-inmate-deposit-ready-elevator-lemon
-bip_39_word_dash_8: gloom-galaxy-inmate-deposit-ready-elevator-lemon-shuffle
-bip_39_word_dash_9: gloom-galaxy-inmate-deposit-ready-elevator-lemon-shuffle-gallery
-bip_39_word_new_br_1: gloom
-bip_39_word_new_br_10: gloom<br>galaxy<br>inmate<br>deposit<br>ready<br>elevator<br>lemon<br>shuffle<br>gallery<br>border
-bip_39_word_new_br_11: gloom<br>galaxy<br>inmate<br>deposit<br>ready<br>elevator<br>lemon<br>shuffle<br>gallery<br>border<br>swarm
 bip_39_word_new_br_12: gloom<br>galaxy<br>inmate<br>deposit<br>ready<br>elevator<br>lemon<br>shuffle<br>gallery<br>border<br>swarm<br>arrest
 bip_39_word_new_br_2: gloom<br>galaxy
 bip_39_word_new_br_3: gloom<br>galaxy<br>inmate
-bip_39_word_new_br_4: gloom<br>galaxy<br>inmate<br>deposit
-bip_39_word_new_br_5: gloom<br>galaxy<br>inmate<br>deposit<br>ready
-bip_39_word_new_br_6: gloom<br>galaxy<br>inmate<br>deposit<br>ready<br>elevator
-bip_39_word_new_br_7: gloom<br>galaxy<br>inmate<br>deposit<br>ready<br>elevator<br>lemon
-bip_39_word_new_br_8: gloom<br>galaxy<br>inmate<br>deposit<br>ready<br>elevator<br>lemon<br>shuffle
-bip_39_word_new_br_9: gloom<br>galaxy<br>inmate<br>deposit<br>ready<br>elevator<br>lemon<br>shuffle<br>gallery
-bip_39_word_new_line_1: gloom
-bip_39_word_new_line_10: 'gloom
-
-  galaxy
-
-  inmate
-
-  deposit
-
-  ready
-
-  elevator
-
-  lemon
-
-  shuffle
-
-  gallery
-
-  border'
-bip_39_word_new_line_11: 'gloom
-
-  galaxy
-
-  inmate
-
-  deposit
-
-  ready
-
-  elevator
-
-  lemon
-
-  shuffle
-
-  gallery
-
-  border
-
-  swarm'
 bip_39_word_new_line_12: 'gloom
 
   galaxy
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'gloom
   galaxy
 
   inmate'
-bip_39_word_new_line_4: 'gloom
-
-  galaxy
-
-  inmate
-
-  deposit'
-bip_39_word_new_line_5: 'gloom
-
-  galaxy
-
-  inmate
-
-  deposit
-
-  ready'
-bip_39_word_new_line_6: 'gloom
-
-  galaxy
-
-  inmate
-
-  deposit
-
-  ready
-
-  elevator'
-bip_39_word_new_line_7: 'gloom
-
-  galaxy
-
-  inmate
-
-  deposit
-
-  ready
-
-  elevator
-
-  lemon'
-bip_39_word_new_line_8: 'gloom
-
-  galaxy
-
-  inmate
-
-  deposit
-
-  ready
-
-  elevator
-
-  lemon
-
-  shuffle'
-bip_39_word_new_line_9: 'gloom
-
-  galaxy
-
-  inmate
-
-  deposit
-
-  ready
-
-  elevator
-
-  lemon
-
-  shuffle
-
-  gallery'
-bip_39_word_no_space_1: gloom
-bip_39_word_no_space_10: gloomgalaxyinmatedepositreadyelevatorlemonshufflegalleryborder
-bip_39_word_no_space_11: gloomgalaxyinmatedepositreadyelevatorlemonshufflegalleryborderswarm
 bip_39_word_no_space_12: gloomgalaxyinmatedepositreadyelevatorlemonshufflegalleryborderswarmarrest
 bip_39_word_no_space_2: gloomgalaxy
 bip_39_word_no_space_3: gloomgalaxyinmate
-bip_39_word_no_space_4: gloomgalaxyinmatedeposit
-bip_39_word_no_space_5: gloomgalaxyinmatedepositready
-bip_39_word_no_space_6: gloomgalaxyinmatedepositreadyelevator
-bip_39_word_no_space_7: gloomgalaxyinmatedepositreadyelevatorlemon
-bip_39_word_no_space_8: gloomgalaxyinmatedepositreadyelevatorlemonshuffle
-bip_39_word_no_space_9: gloomgalaxyinmatedepositreadyelevatorlemonshufflegallery
-bip_39_word_space_0:
-- gloom
-- galaxy
-- inmate
-- deposit
-- ready
-- elevator
-- lemon
-- shuffle
-- gallery
-- border
-- swarm
-- arrest
-bip_39_word_space_1: gloom
-bip_39_word_space_10: gloom galaxy inmate deposit ready elevator lemon shuffle gallery
-  border
-bip_39_word_space_11: gloom galaxy inmate deposit ready elevator lemon shuffle gallery
-  border swarm
 bip_39_word_space_12: gloom galaxy inmate deposit ready elevator lemon shuffle gallery
   border swarm arrest
 bip_39_word_space_2: gloom galaxy
 bip_39_word_space_3: gloom galaxy inmate
-bip_39_word_space_4: gloom galaxy inmate deposit
-bip_39_word_space_5: gloom galaxy inmate deposit ready
-bip_39_word_space_6: gloom galaxy inmate deposit ready elevator
-bip_39_word_space_7: gloom galaxy inmate deposit ready elevator lemon
-bip_39_word_space_8: gloom galaxy inmate deposit ready elevator lemon shuffle
-bip_39_word_space_9: gloom galaxy inmate deposit ready elevator lemon shuffle gallery
-bip_39_word_underscore_1: gloom
-bip_39_word_underscore_10: gloom_galaxy_inmate_deposit_ready_elevator_lemon_shuffle_gallery_border
-bip_39_word_underscore_11: gloom_galaxy_inmate_deposit_ready_elevator_lemon_shuffle_gallery_border_swarm
 bip_39_word_underscore_12: gloom_galaxy_inmate_deposit_ready_elevator_lemon_shuffle_gallery_border_swarm_arrest
 bip_39_word_underscore_2: gloom_galaxy
 bip_39_word_underscore_3: gloom_galaxy_inmate
-bip_39_word_underscore_4: gloom_galaxy_inmate_deposit
-bip_39_word_underscore_5: gloom_galaxy_inmate_deposit_ready
-bip_39_word_underscore_6: gloom_galaxy_inmate_deposit_ready_elevator
-bip_39_word_underscore_7: gloom_galaxy_inmate_deposit_ready_elevator_lemon
-bip_39_word_underscore_8: gloom_galaxy_inmate_deposit_ready_elevator_lemon_shuffle
-bip_39_word_underscore_9: gloom_galaxy_inmate_deposit_ready_elevator_lemon_shuffle_gallery
 classification: category
 classification_capital: Category
 classification_first_letter: c

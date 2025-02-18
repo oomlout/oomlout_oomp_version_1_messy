@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ramp
-bip_39_word_dash_10: ramp-door-spend-hire-earn-hat-polar-rain-whip-festival
-bip_39_word_dash_11: ramp-door-spend-hire-earn-hat-polar-rain-whip-festival-iron
 bip_39_word_dash_12: ramp-door-spend-hire-earn-hat-polar-rain-whip-festival-iron-absorb
 bip_39_word_dash_2: ramp-door
 bip_39_word_dash_3: ramp-door-spend
-bip_39_word_dash_4: ramp-door-spend-hire
-bip_39_word_dash_5: ramp-door-spend-hire-earn
-bip_39_word_dash_6: ramp-door-spend-hire-earn-hat
-bip_39_word_dash_7: ramp-door-spend-hire-earn-hat-polar
-bip_39_word_dash_8: ramp-door-spend-hire-earn-hat-polar-rain
-bip_39_word_dash_9: ramp-door-spend-hire-earn-hat-polar-rain-whip
-bip_39_word_new_br_1: ramp
-bip_39_word_new_br_10: ramp<br>door<br>spend<br>hire<br>earn<br>hat<br>polar<br>rain<br>whip<br>festival
-bip_39_word_new_br_11: ramp<br>door<br>spend<br>hire<br>earn<br>hat<br>polar<br>rain<br>whip<br>festival<br>iron
 bip_39_word_new_br_12: ramp<br>door<br>spend<br>hire<br>earn<br>hat<br>polar<br>rain<br>whip<br>festival<br>iron<br>absorb
 bip_39_word_new_br_2: ramp<br>door
 bip_39_word_new_br_3: ramp<br>door<br>spend
-bip_39_word_new_br_4: ramp<br>door<br>spend<br>hire
-bip_39_word_new_br_5: ramp<br>door<br>spend<br>hire<br>earn
-bip_39_word_new_br_6: ramp<br>door<br>spend<br>hire<br>earn<br>hat
-bip_39_word_new_br_7: ramp<br>door<br>spend<br>hire<br>earn<br>hat<br>polar
-bip_39_word_new_br_8: ramp<br>door<br>spend<br>hire<br>earn<br>hat<br>polar<br>rain
-bip_39_word_new_br_9: ramp<br>door<br>spend<br>hire<br>earn<br>hat<br>polar<br>rain<br>whip
-bip_39_word_new_line_1: ramp
-bip_39_word_new_line_10: 'ramp
-
-  door
-
-  spend
-
-  hire
-
-  earn
-
-  hat
-
-  polar
-
-  rain
-
-  whip
-
-  festival'
-bip_39_word_new_line_11: 'ramp
-
-  door
-
-  spend
-
-  hire
-
-  earn
-
-  hat
-
-  polar
-
-  rain
-
-  whip
-
-  festival
-
-  iron'
 bip_39_word_new_line_12: 'ramp
 
   door
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'ramp
   door
 
   spend'
-bip_39_word_new_line_4: 'ramp
-
-  door
-
-  spend
-
-  hire'
-bip_39_word_new_line_5: 'ramp
-
-  door
-
-  spend
-
-  hire
-
-  earn'
-bip_39_word_new_line_6: 'ramp
-
-  door
-
-  spend
-
-  hire
-
-  earn
-
-  hat'
-bip_39_word_new_line_7: 'ramp
-
-  door
-
-  spend
-
-  hire
-
-  earn
-
-  hat
-
-  polar'
-bip_39_word_new_line_8: 'ramp
-
-  door
-
-  spend
-
-  hire
-
-  earn
-
-  hat
-
-  polar
-
-  rain'
-bip_39_word_new_line_9: 'ramp
-
-  door
-
-  spend
-
-  hire
-
-  earn
-
-  hat
-
-  polar
-
-  rain
-
-  whip'
-bip_39_word_no_space_1: ramp
-bip_39_word_no_space_10: rampdoorspendhireearnhatpolarrainwhipfestival
-bip_39_word_no_space_11: rampdoorspendhireearnhatpolarrainwhipfestivaliron
 bip_39_word_no_space_12: rampdoorspendhireearnhatpolarrainwhipfestivalironabsorb
 bip_39_word_no_space_2: rampdoor
 bip_39_word_no_space_3: rampdoorspend
-bip_39_word_no_space_4: rampdoorspendhire
-bip_39_word_no_space_5: rampdoorspendhireearn
-bip_39_word_no_space_6: rampdoorspendhireearnhat
-bip_39_word_no_space_7: rampdoorspendhireearnhatpolar
-bip_39_word_no_space_8: rampdoorspendhireearnhatpolarrain
-bip_39_word_no_space_9: rampdoorspendhireearnhatpolarrainwhip
-bip_39_word_space_0:
-- ramp
-- door
-- spend
-- hire
-- earn
-- hat
-- polar
-- rain
-- whip
-- festival
-- iron
-- absorb
-bip_39_word_space_1: ramp
-bip_39_word_space_10: ramp door spend hire earn hat polar rain whip festival
-bip_39_word_space_11: ramp door spend hire earn hat polar rain whip festival iron
 bip_39_word_space_12: ramp door spend hire earn hat polar rain whip festival iron
   absorb
 bip_39_word_space_2: ramp door
 bip_39_word_space_3: ramp door spend
-bip_39_word_space_4: ramp door spend hire
-bip_39_word_space_5: ramp door spend hire earn
-bip_39_word_space_6: ramp door spend hire earn hat
-bip_39_word_space_7: ramp door spend hire earn hat polar
-bip_39_word_space_8: ramp door spend hire earn hat polar rain
-bip_39_word_space_9: ramp door spend hire earn hat polar rain whip
-bip_39_word_underscore_1: ramp
-bip_39_word_underscore_10: ramp_door_spend_hire_earn_hat_polar_rain_whip_festival
-bip_39_word_underscore_11: ramp_door_spend_hire_earn_hat_polar_rain_whip_festival_iron
 bip_39_word_underscore_12: ramp_door_spend_hire_earn_hat_polar_rain_whip_festival_iron_absorb
 bip_39_word_underscore_2: ramp_door
 bip_39_word_underscore_3: ramp_door_spend
-bip_39_word_underscore_4: ramp_door_spend_hire
-bip_39_word_underscore_5: ramp_door_spend_hire_earn
-bip_39_word_underscore_6: ramp_door_spend_hire_earn_hat
-bip_39_word_underscore_7: ramp_door_spend_hire_earn_hat_polar
-bip_39_word_underscore_8: ramp_door_spend_hire_earn_hat_polar_rain
-bip_39_word_underscore_9: ramp_door_spend_hire_earn_hat_polar_rain_whip
 classification: category
 classification_capital: Category
 classification_first_letter: c

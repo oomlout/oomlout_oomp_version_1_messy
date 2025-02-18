@@ -1,68 +1,9 @@
-bip_39_word_dash_1: indoor
-bip_39_word_dash_10: indoor-toss-trade-hedgehog-tooth-build-plunge-soft-fog-lumber
-bip_39_word_dash_11: indoor-toss-trade-hedgehog-tooth-build-plunge-soft-fog-lumber-myself
 bip_39_word_dash_12: indoor-toss-trade-hedgehog-tooth-build-plunge-soft-fog-lumber-myself-again
 bip_39_word_dash_2: indoor-toss
 bip_39_word_dash_3: indoor-toss-trade
-bip_39_word_dash_4: indoor-toss-trade-hedgehog
-bip_39_word_dash_5: indoor-toss-trade-hedgehog-tooth
-bip_39_word_dash_6: indoor-toss-trade-hedgehog-tooth-build
-bip_39_word_dash_7: indoor-toss-trade-hedgehog-tooth-build-plunge
-bip_39_word_dash_8: indoor-toss-trade-hedgehog-tooth-build-plunge-soft
-bip_39_word_dash_9: indoor-toss-trade-hedgehog-tooth-build-plunge-soft-fog
-bip_39_word_new_br_1: indoor
-bip_39_word_new_br_10: indoor<br>toss<br>trade<br>hedgehog<br>tooth<br>build<br>plunge<br>soft<br>fog<br>lumber
-bip_39_word_new_br_11: indoor<br>toss<br>trade<br>hedgehog<br>tooth<br>build<br>plunge<br>soft<br>fog<br>lumber<br>myself
 bip_39_word_new_br_12: indoor<br>toss<br>trade<br>hedgehog<br>tooth<br>build<br>plunge<br>soft<br>fog<br>lumber<br>myself<br>again
 bip_39_word_new_br_2: indoor<br>toss
 bip_39_word_new_br_3: indoor<br>toss<br>trade
-bip_39_word_new_br_4: indoor<br>toss<br>trade<br>hedgehog
-bip_39_word_new_br_5: indoor<br>toss<br>trade<br>hedgehog<br>tooth
-bip_39_word_new_br_6: indoor<br>toss<br>trade<br>hedgehog<br>tooth<br>build
-bip_39_word_new_br_7: indoor<br>toss<br>trade<br>hedgehog<br>tooth<br>build<br>plunge
-bip_39_word_new_br_8: indoor<br>toss<br>trade<br>hedgehog<br>tooth<br>build<br>plunge<br>soft
-bip_39_word_new_br_9: indoor<br>toss<br>trade<br>hedgehog<br>tooth<br>build<br>plunge<br>soft<br>fog
-bip_39_word_new_line_1: indoor
-bip_39_word_new_line_10: 'indoor
-
-  toss
-
-  trade
-
-  hedgehog
-
-  tooth
-
-  build
-
-  plunge
-
-  soft
-
-  fog
-
-  lumber'
-bip_39_word_new_line_11: 'indoor
-
-  toss
-
-  trade
-
-  hedgehog
-
-  tooth
-
-  build
-
-  plunge
-
-  soft
-
-  fog
-
-  lumber
-
-  myself'
 bip_39_word_new_line_12: 'indoor
 
   toss
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'indoor
   toss
 
   trade'
-bip_39_word_new_line_4: 'indoor
-
-  toss
-
-  trade
-
-  hedgehog'
-bip_39_word_new_line_5: 'indoor
-
-  toss
-
-  trade
-
-  hedgehog
-
-  tooth'
-bip_39_word_new_line_6: 'indoor
-
-  toss
-
-  trade
-
-  hedgehog
-
-  tooth
-
-  build'
-bip_39_word_new_line_7: 'indoor
-
-  toss
-
-  trade
-
-  hedgehog
-
-  tooth
-
-  build
-
-  plunge'
-bip_39_word_new_line_8: 'indoor
-
-  toss
-
-  trade
-
-  hedgehog
-
-  tooth
-
-  build
-
-  plunge
-
-  soft'
-bip_39_word_new_line_9: 'indoor
-
-  toss
-
-  trade
-
-  hedgehog
-
-  tooth
-
-  build
-
-  plunge
-
-  soft
-
-  fog'
-bip_39_word_no_space_1: indoor
-bip_39_word_no_space_10: indoortosstradehedgehogtoothbuildplungesoftfoglumber
-bip_39_word_no_space_11: indoortosstradehedgehogtoothbuildplungesoftfoglumbermyself
 bip_39_word_no_space_12: indoortosstradehedgehogtoothbuildplungesoftfoglumbermyselfagain
 bip_39_word_no_space_2: indoortoss
 bip_39_word_no_space_3: indoortosstrade
-bip_39_word_no_space_4: indoortosstradehedgehog
-bip_39_word_no_space_5: indoortosstradehedgehogtooth
-bip_39_word_no_space_6: indoortosstradehedgehogtoothbuild
-bip_39_word_no_space_7: indoortosstradehedgehogtoothbuildplunge
-bip_39_word_no_space_8: indoortosstradehedgehogtoothbuildplungesoft
-bip_39_word_no_space_9: indoortosstradehedgehogtoothbuildplungesoftfog
-bip_39_word_space_0:
-- indoor
-- toss
-- trade
-- hedgehog
-- tooth
-- build
-- plunge
-- soft
-- fog
-- lumber
-- myself
-- again
-bip_39_word_space_1: indoor
-bip_39_word_space_10: indoor toss trade hedgehog tooth build plunge soft fog lumber
-bip_39_word_space_11: indoor toss trade hedgehog tooth build plunge soft fog lumber
-  myself
 bip_39_word_space_12: indoor toss trade hedgehog tooth build plunge soft fog lumber
   myself again
 bip_39_word_space_2: indoor toss
 bip_39_word_space_3: indoor toss trade
-bip_39_word_space_4: indoor toss trade hedgehog
-bip_39_word_space_5: indoor toss trade hedgehog tooth
-bip_39_word_space_6: indoor toss trade hedgehog tooth build
-bip_39_word_space_7: indoor toss trade hedgehog tooth build plunge
-bip_39_word_space_8: indoor toss trade hedgehog tooth build plunge soft
-bip_39_word_space_9: indoor toss trade hedgehog tooth build plunge soft fog
-bip_39_word_underscore_1: indoor
-bip_39_word_underscore_10: indoor_toss_trade_hedgehog_tooth_build_plunge_soft_fog_lumber
-bip_39_word_underscore_11: indoor_toss_trade_hedgehog_tooth_build_plunge_soft_fog_lumber_myself
 bip_39_word_underscore_12: indoor_toss_trade_hedgehog_tooth_build_plunge_soft_fog_lumber_myself_again
 bip_39_word_underscore_2: indoor_toss
 bip_39_word_underscore_3: indoor_toss_trade
-bip_39_word_underscore_4: indoor_toss_trade_hedgehog
-bip_39_word_underscore_5: indoor_toss_trade_hedgehog_tooth
-bip_39_word_underscore_6: indoor_toss_trade_hedgehog_tooth_build
-bip_39_word_underscore_7: indoor_toss_trade_hedgehog_tooth_build_plunge
-bip_39_word_underscore_8: indoor_toss_trade_hedgehog_tooth_build_plunge_soft
-bip_39_word_underscore_9: indoor_toss_trade_hedgehog_tooth_build_plunge_soft_fog
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

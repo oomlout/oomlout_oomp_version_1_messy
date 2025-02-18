@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cube
-bip_39_word_dash_10: cube-sock-rib-nose-depth-believe-female-network-arrive-snack
-bip_39_word_dash_11: cube-sock-rib-nose-depth-believe-female-network-arrive-snack-orchard
 bip_39_word_dash_12: cube-sock-rib-nose-depth-believe-female-network-arrive-snack-orchard-army
 bip_39_word_dash_2: cube-sock
 bip_39_word_dash_3: cube-sock-rib
-bip_39_word_dash_4: cube-sock-rib-nose
-bip_39_word_dash_5: cube-sock-rib-nose-depth
-bip_39_word_dash_6: cube-sock-rib-nose-depth-believe
-bip_39_word_dash_7: cube-sock-rib-nose-depth-believe-female
-bip_39_word_dash_8: cube-sock-rib-nose-depth-believe-female-network
-bip_39_word_dash_9: cube-sock-rib-nose-depth-believe-female-network-arrive
-bip_39_word_new_br_1: cube
-bip_39_word_new_br_10: cube<br>sock<br>rib<br>nose<br>depth<br>believe<br>female<br>network<br>arrive<br>snack
-bip_39_word_new_br_11: cube<br>sock<br>rib<br>nose<br>depth<br>believe<br>female<br>network<br>arrive<br>snack<br>orchard
 bip_39_word_new_br_12: cube<br>sock<br>rib<br>nose<br>depth<br>believe<br>female<br>network<br>arrive<br>snack<br>orchard<br>army
 bip_39_word_new_br_2: cube<br>sock
 bip_39_word_new_br_3: cube<br>sock<br>rib
-bip_39_word_new_br_4: cube<br>sock<br>rib<br>nose
-bip_39_word_new_br_5: cube<br>sock<br>rib<br>nose<br>depth
-bip_39_word_new_br_6: cube<br>sock<br>rib<br>nose<br>depth<br>believe
-bip_39_word_new_br_7: cube<br>sock<br>rib<br>nose<br>depth<br>believe<br>female
-bip_39_word_new_br_8: cube<br>sock<br>rib<br>nose<br>depth<br>believe<br>female<br>network
-bip_39_word_new_br_9: cube<br>sock<br>rib<br>nose<br>depth<br>believe<br>female<br>network<br>arrive
-bip_39_word_new_line_1: cube
-bip_39_word_new_line_10: 'cube
-
-  sock
-
-  rib
-
-  nose
-
-  depth
-
-  believe
-
-  female
-
-  network
-
-  arrive
-
-  snack'
-bip_39_word_new_line_11: 'cube
-
-  sock
-
-  rib
-
-  nose
-
-  depth
-
-  believe
-
-  female
-
-  network
-
-  arrive
-
-  snack
-
-  orchard'
 bip_39_word_new_line_12: 'cube
 
   sock
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cube
   sock
 
   rib'
-bip_39_word_new_line_4: 'cube
-
-  sock
-
-  rib
-
-  nose'
-bip_39_word_new_line_5: 'cube
-
-  sock
-
-  rib
-
-  nose
-
-  depth'
-bip_39_word_new_line_6: 'cube
-
-  sock
-
-  rib
-
-  nose
-
-  depth
-
-  believe'
-bip_39_word_new_line_7: 'cube
-
-  sock
-
-  rib
-
-  nose
-
-  depth
-
-  believe
-
-  female'
-bip_39_word_new_line_8: 'cube
-
-  sock
-
-  rib
-
-  nose
-
-  depth
-
-  believe
-
-  female
-
-  network'
-bip_39_word_new_line_9: 'cube
-
-  sock
-
-  rib
-
-  nose
-
-  depth
-
-  believe
-
-  female
-
-  network
-
-  arrive'
-bip_39_word_no_space_1: cube
-bip_39_word_no_space_10: cubesockribnosedepthbelievefemalenetworkarrivesnack
-bip_39_word_no_space_11: cubesockribnosedepthbelievefemalenetworkarrivesnackorchard
 bip_39_word_no_space_12: cubesockribnosedepthbelievefemalenetworkarrivesnackorchardarmy
 bip_39_word_no_space_2: cubesock
 bip_39_word_no_space_3: cubesockrib
-bip_39_word_no_space_4: cubesockribnose
-bip_39_word_no_space_5: cubesockribnosedepth
-bip_39_word_no_space_6: cubesockribnosedepthbelieve
-bip_39_word_no_space_7: cubesockribnosedepthbelievefemale
-bip_39_word_no_space_8: cubesockribnosedepthbelievefemalenetwork
-bip_39_word_no_space_9: cubesockribnosedepthbelievefemalenetworkarrive
-bip_39_word_space_0:
-- cube
-- sock
-- rib
-- nose
-- depth
-- believe
-- female
-- network
-- arrive
-- snack
-- orchard
-- army
-bip_39_word_space_1: cube
-bip_39_word_space_10: cube sock rib nose depth believe female network arrive snack
-bip_39_word_space_11: cube sock rib nose depth believe female network arrive snack
-  orchard
 bip_39_word_space_12: cube sock rib nose depth believe female network arrive snack
   orchard army
 bip_39_word_space_2: cube sock
 bip_39_word_space_3: cube sock rib
-bip_39_word_space_4: cube sock rib nose
-bip_39_word_space_5: cube sock rib nose depth
-bip_39_word_space_6: cube sock rib nose depth believe
-bip_39_word_space_7: cube sock rib nose depth believe female
-bip_39_word_space_8: cube sock rib nose depth believe female network
-bip_39_word_space_9: cube sock rib nose depth believe female network arrive
-bip_39_word_underscore_1: cube
-bip_39_word_underscore_10: cube_sock_rib_nose_depth_believe_female_network_arrive_snack
-bip_39_word_underscore_11: cube_sock_rib_nose_depth_believe_female_network_arrive_snack_orchard
 bip_39_word_underscore_12: cube_sock_rib_nose_depth_believe_female_network_arrive_snack_orchard_army
 bip_39_word_underscore_2: cube_sock
 bip_39_word_underscore_3: cube_sock_rib
-bip_39_word_underscore_4: cube_sock_rib_nose
-bip_39_word_underscore_5: cube_sock_rib_nose_depth
-bip_39_word_underscore_6: cube_sock_rib_nose_depth_believe
-bip_39_word_underscore_7: cube_sock_rib_nose_depth_believe_female
-bip_39_word_underscore_8: cube_sock_rib_nose_depth_believe_female_network
-bip_39_word_underscore_9: cube_sock_rib_nose_depth_believe_female_network_arrive
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

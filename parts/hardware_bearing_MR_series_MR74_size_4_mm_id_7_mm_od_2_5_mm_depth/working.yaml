@@ -1,68 +1,9 @@
-bip_39_word_dash_1: select
-bip_39_word_dash_10: select-endless-topple-portion-food-ancient-fuel-good-member-woman
-bip_39_word_dash_11: select-endless-topple-portion-food-ancient-fuel-good-member-woman-bag
 bip_39_word_dash_12: select-endless-topple-portion-food-ancient-fuel-good-member-woman-bag-apology
 bip_39_word_dash_2: select-endless
 bip_39_word_dash_3: select-endless-topple
-bip_39_word_dash_4: select-endless-topple-portion
-bip_39_word_dash_5: select-endless-topple-portion-food
-bip_39_word_dash_6: select-endless-topple-portion-food-ancient
-bip_39_word_dash_7: select-endless-topple-portion-food-ancient-fuel
-bip_39_word_dash_8: select-endless-topple-portion-food-ancient-fuel-good
-bip_39_word_dash_9: select-endless-topple-portion-food-ancient-fuel-good-member
-bip_39_word_new_br_1: select
-bip_39_word_new_br_10: select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good<br>member<br>woman
-bip_39_word_new_br_11: select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good<br>member<br>woman<br>bag
 bip_39_word_new_br_12: select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good<br>member<br>woman<br>bag<br>apology
 bip_39_word_new_br_2: select<br>endless
 bip_39_word_new_br_3: select<br>endless<br>topple
-bip_39_word_new_br_4: select<br>endless<br>topple<br>portion
-bip_39_word_new_br_5: select<br>endless<br>topple<br>portion<br>food
-bip_39_word_new_br_6: select<br>endless<br>topple<br>portion<br>food<br>ancient
-bip_39_word_new_br_7: select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel
-bip_39_word_new_br_8: select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good
-bip_39_word_new_br_9: select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good<br>member
-bip_39_word_new_line_1: select
-bip_39_word_new_line_10: 'select
-
-  endless
-
-  topple
-
-  portion
-
-  food
-
-  ancient
-
-  fuel
-
-  good
-
-  member
-
-  woman'
-bip_39_word_new_line_11: 'select
-
-  endless
-
-  topple
-
-  portion
-
-  food
-
-  ancient
-
-  fuel
-
-  good
-
-  member
-
-  woman
-
-  bag'
 bip_39_word_new_line_12: 'select
 
   endless
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'select
   endless
 
   topple'
-bip_39_word_new_line_4: 'select
-
-  endless
-
-  topple
-
-  portion'
-bip_39_word_new_line_5: 'select
-
-  endless
-
-  topple
-
-  portion
-
-  food'
-bip_39_word_new_line_6: 'select
-
-  endless
-
-  topple
-
-  portion
-
-  food
-
-  ancient'
-bip_39_word_new_line_7: 'select
-
-  endless
-
-  topple
-
-  portion
-
-  food
-
-  ancient
-
-  fuel'
-bip_39_word_new_line_8: 'select
-
-  endless
-
-  topple
-
-  portion
-
-  food
-
-  ancient
-
-  fuel
-
-  good'
-bip_39_word_new_line_9: 'select
-
-  endless
-
-  topple
-
-  portion
-
-  food
-
-  ancient
-
-  fuel
-
-  good
-
-  member'
-bip_39_word_no_space_1: select
-bip_39_word_no_space_10: selectendlesstoppleportionfoodancientfuelgoodmemberwoman
-bip_39_word_no_space_11: selectendlesstoppleportionfoodancientfuelgoodmemberwomanbag
 bip_39_word_no_space_12: selectendlesstoppleportionfoodancientfuelgoodmemberwomanbagapology
 bip_39_word_no_space_2: selectendless
 bip_39_word_no_space_3: selectendlesstopple
-bip_39_word_no_space_4: selectendlesstoppleportion
-bip_39_word_no_space_5: selectendlesstoppleportionfood
-bip_39_word_no_space_6: selectendlesstoppleportionfoodancient
-bip_39_word_no_space_7: selectendlesstoppleportionfoodancientfuel
-bip_39_word_no_space_8: selectendlesstoppleportionfoodancientfuelgood
-bip_39_word_no_space_9: selectendlesstoppleportionfoodancientfuelgoodmember
-bip_39_word_space_0:
-- select
-- endless
-- topple
-- portion
-- food
-- ancient
-- fuel
-- good
-- member
-- woman
-- bag
-- apology
-bip_39_word_space_1: select
-bip_39_word_space_10: select endless topple portion food ancient fuel good member
-  woman
-bip_39_word_space_11: select endless topple portion food ancient fuel good member
-  woman bag
 bip_39_word_space_12: select endless topple portion food ancient fuel good member
   woman bag apology
 bip_39_word_space_2: select endless
 bip_39_word_space_3: select endless topple
-bip_39_word_space_4: select endless topple portion
-bip_39_word_space_5: select endless topple portion food
-bip_39_word_space_6: select endless topple portion food ancient
-bip_39_word_space_7: select endless topple portion food ancient fuel
-bip_39_word_space_8: select endless topple portion food ancient fuel good
-bip_39_word_space_9: select endless topple portion food ancient fuel good member
-bip_39_word_underscore_1: select
-bip_39_word_underscore_10: select_endless_topple_portion_food_ancient_fuel_good_member_woman
-bip_39_word_underscore_11: select_endless_topple_portion_food_ancient_fuel_good_member_woman_bag
 bip_39_word_underscore_12: select_endless_topple_portion_food_ancient_fuel_good_member_woman_bag_apology
 bip_39_word_underscore_2: select_endless
 bip_39_word_underscore_3: select_endless_topple
-bip_39_word_underscore_4: select_endless_topple_portion
-bip_39_word_underscore_5: select_endless_topple_portion_food
-bip_39_word_underscore_6: select_endless_topple_portion_food_ancient
-bip_39_word_underscore_7: select_endless_topple_portion_food_ancient_fuel
-bip_39_word_underscore_8: select_endless_topple_portion_food_ancient_fuel_good
-bip_39_word_underscore_9: select_endless_topple_portion_food_ancient_fuel_good_member
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

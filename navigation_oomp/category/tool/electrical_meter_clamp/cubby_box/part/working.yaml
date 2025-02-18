@@ -1,68 +1,9 @@
-bip_39_word_dash_1: extend
-bip_39_word_dash_10: extend-random-kangaroo-human-hurdle-leave-rose-raccoon-mouse-undo
-bip_39_word_dash_11: extend-random-kangaroo-human-hurdle-leave-rose-raccoon-mouse-undo-frown
 bip_39_word_dash_12: extend-random-kangaroo-human-hurdle-leave-rose-raccoon-mouse-undo-frown-asset
 bip_39_word_dash_2: extend-random
 bip_39_word_dash_3: extend-random-kangaroo
-bip_39_word_dash_4: extend-random-kangaroo-human
-bip_39_word_dash_5: extend-random-kangaroo-human-hurdle
-bip_39_word_dash_6: extend-random-kangaroo-human-hurdle-leave
-bip_39_word_dash_7: extend-random-kangaroo-human-hurdle-leave-rose
-bip_39_word_dash_8: extend-random-kangaroo-human-hurdle-leave-rose-raccoon
-bip_39_word_dash_9: extend-random-kangaroo-human-hurdle-leave-rose-raccoon-mouse
-bip_39_word_new_br_1: extend
-bip_39_word_new_br_10: extend<br>random<br>kangaroo<br>human<br>hurdle<br>leave<br>rose<br>raccoon<br>mouse<br>undo
-bip_39_word_new_br_11: extend<br>random<br>kangaroo<br>human<br>hurdle<br>leave<br>rose<br>raccoon<br>mouse<br>undo<br>frown
 bip_39_word_new_br_12: extend<br>random<br>kangaroo<br>human<br>hurdle<br>leave<br>rose<br>raccoon<br>mouse<br>undo<br>frown<br>asset
 bip_39_word_new_br_2: extend<br>random
 bip_39_word_new_br_3: extend<br>random<br>kangaroo
-bip_39_word_new_br_4: extend<br>random<br>kangaroo<br>human
-bip_39_word_new_br_5: extend<br>random<br>kangaroo<br>human<br>hurdle
-bip_39_word_new_br_6: extend<br>random<br>kangaroo<br>human<br>hurdle<br>leave
-bip_39_word_new_br_7: extend<br>random<br>kangaroo<br>human<br>hurdle<br>leave<br>rose
-bip_39_word_new_br_8: extend<br>random<br>kangaroo<br>human<br>hurdle<br>leave<br>rose<br>raccoon
-bip_39_word_new_br_9: extend<br>random<br>kangaroo<br>human<br>hurdle<br>leave<br>rose<br>raccoon<br>mouse
-bip_39_word_new_line_1: extend
-bip_39_word_new_line_10: 'extend
-
-  random
-
-  kangaroo
-
-  human
-
-  hurdle
-
-  leave
-
-  rose
-
-  raccoon
-
-  mouse
-
-  undo'
-bip_39_word_new_line_11: 'extend
-
-  random
-
-  kangaroo
-
-  human
-
-  hurdle
-
-  leave
-
-  rose
-
-  raccoon
-
-  mouse
-
-  undo
-
-  frown'
 bip_39_word_new_line_12: 'extend
 
   random
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'extend
   random
 
   kangaroo'
-bip_39_word_new_line_4: 'extend
-
-  random
-
-  kangaroo
-
-  human'
-bip_39_word_new_line_5: 'extend
-
-  random
-
-  kangaroo
-
-  human
-
-  hurdle'
-bip_39_word_new_line_6: 'extend
-
-  random
-
-  kangaroo
-
-  human
-
-  hurdle
-
-  leave'
-bip_39_word_new_line_7: 'extend
-
-  random
-
-  kangaroo
-
-  human
-
-  hurdle
-
-  leave
-
-  rose'
-bip_39_word_new_line_8: 'extend
-
-  random
-
-  kangaroo
-
-  human
-
-  hurdle
-
-  leave
-
-  rose
-
-  raccoon'
-bip_39_word_new_line_9: 'extend
-
-  random
-
-  kangaroo
-
-  human
-
-  hurdle
-
-  leave
-
-  rose
-
-  raccoon
-
-  mouse'
-bip_39_word_no_space_1: extend
-bip_39_word_no_space_10: extendrandomkangaroohumanhurdleleaveroseraccoonmouseundo
-bip_39_word_no_space_11: extendrandomkangaroohumanhurdleleaveroseraccoonmouseundofrown
 bip_39_word_no_space_12: extendrandomkangaroohumanhurdleleaveroseraccoonmouseundofrownasset
 bip_39_word_no_space_2: extendrandom
 bip_39_word_no_space_3: extendrandomkangaroo
-bip_39_word_no_space_4: extendrandomkangaroohuman
-bip_39_word_no_space_5: extendrandomkangaroohumanhurdle
-bip_39_word_no_space_6: extendrandomkangaroohumanhurdleleave
-bip_39_word_no_space_7: extendrandomkangaroohumanhurdleleaverose
-bip_39_word_no_space_8: extendrandomkangaroohumanhurdleleaveroseraccoon
-bip_39_word_no_space_9: extendrandomkangaroohumanhurdleleaveroseraccoonmouse
-bip_39_word_space_0:
-- extend
-- random
-- kangaroo
-- human
-- hurdle
-- leave
-- rose
-- raccoon
-- mouse
-- undo
-- frown
-- asset
-bip_39_word_space_1: extend
-bip_39_word_space_10: extend random kangaroo human hurdle leave rose raccoon mouse
-  undo
-bip_39_word_space_11: extend random kangaroo human hurdle leave rose raccoon mouse
-  undo frown
 bip_39_word_space_12: extend random kangaroo human hurdle leave rose raccoon mouse
   undo frown asset
 bip_39_word_space_2: extend random
 bip_39_word_space_3: extend random kangaroo
-bip_39_word_space_4: extend random kangaroo human
-bip_39_word_space_5: extend random kangaroo human hurdle
-bip_39_word_space_6: extend random kangaroo human hurdle leave
-bip_39_word_space_7: extend random kangaroo human hurdle leave rose
-bip_39_word_space_8: extend random kangaroo human hurdle leave rose raccoon
-bip_39_word_space_9: extend random kangaroo human hurdle leave rose raccoon mouse
-bip_39_word_underscore_1: extend
-bip_39_word_underscore_10: extend_random_kangaroo_human_hurdle_leave_rose_raccoon_mouse_undo
-bip_39_word_underscore_11: extend_random_kangaroo_human_hurdle_leave_rose_raccoon_mouse_undo_frown
 bip_39_word_underscore_12: extend_random_kangaroo_human_hurdle_leave_rose_raccoon_mouse_undo_frown_asset
 bip_39_word_underscore_2: extend_random
 bip_39_word_underscore_3: extend_random_kangaroo
-bip_39_word_underscore_4: extend_random_kangaroo_human
-bip_39_word_underscore_5: extend_random_kangaroo_human_hurdle
-bip_39_word_underscore_6: extend_random_kangaroo_human_hurdle_leave
-bip_39_word_underscore_7: extend_random_kangaroo_human_hurdle_leave_rose
-bip_39_word_underscore_8: extend_random_kangaroo_human_hurdle_leave_rose_raccoon
-bip_39_word_underscore_9: extend_random_kangaroo_human_hurdle_leave_rose_raccoon_mouse
 classification: category
 classification_capital: Category
 classification_first_letter: c

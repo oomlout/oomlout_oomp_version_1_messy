@@ -1,68 +1,9 @@
-bip_39_word_dash_1: valid
-bip_39_word_dash_10: valid-share-increase-diamond-pudding-vicious-slab-reward-plunge-language
-bip_39_word_dash_11: valid-share-increase-diamond-pudding-vicious-slab-reward-plunge-language-gather
 bip_39_word_dash_12: valid-share-increase-diamond-pudding-vicious-slab-reward-plunge-language-gather-adult
 bip_39_word_dash_2: valid-share
 bip_39_word_dash_3: valid-share-increase
-bip_39_word_dash_4: valid-share-increase-diamond
-bip_39_word_dash_5: valid-share-increase-diamond-pudding
-bip_39_word_dash_6: valid-share-increase-diamond-pudding-vicious
-bip_39_word_dash_7: valid-share-increase-diamond-pudding-vicious-slab
-bip_39_word_dash_8: valid-share-increase-diamond-pudding-vicious-slab-reward
-bip_39_word_dash_9: valid-share-increase-diamond-pudding-vicious-slab-reward-plunge
-bip_39_word_new_br_1: valid
-bip_39_word_new_br_10: valid<br>share<br>increase<br>diamond<br>pudding<br>vicious<br>slab<br>reward<br>plunge<br>language
-bip_39_word_new_br_11: valid<br>share<br>increase<br>diamond<br>pudding<br>vicious<br>slab<br>reward<br>plunge<br>language<br>gather
 bip_39_word_new_br_12: valid<br>share<br>increase<br>diamond<br>pudding<br>vicious<br>slab<br>reward<br>plunge<br>language<br>gather<br>adult
 bip_39_word_new_br_2: valid<br>share
 bip_39_word_new_br_3: valid<br>share<br>increase
-bip_39_word_new_br_4: valid<br>share<br>increase<br>diamond
-bip_39_word_new_br_5: valid<br>share<br>increase<br>diamond<br>pudding
-bip_39_word_new_br_6: valid<br>share<br>increase<br>diamond<br>pudding<br>vicious
-bip_39_word_new_br_7: valid<br>share<br>increase<br>diamond<br>pudding<br>vicious<br>slab
-bip_39_word_new_br_8: valid<br>share<br>increase<br>diamond<br>pudding<br>vicious<br>slab<br>reward
-bip_39_word_new_br_9: valid<br>share<br>increase<br>diamond<br>pudding<br>vicious<br>slab<br>reward<br>plunge
-bip_39_word_new_line_1: valid
-bip_39_word_new_line_10: 'valid
-
-  share
-
-  increase
-
-  diamond
-
-  pudding
-
-  vicious
-
-  slab
-
-  reward
-
-  plunge
-
-  language'
-bip_39_word_new_line_11: 'valid
-
-  share
-
-  increase
-
-  diamond
-
-  pudding
-
-  vicious
-
-  slab
-
-  reward
-
-  plunge
-
-  language
-
-  gather'
 bip_39_word_new_line_12: 'valid
 
   share
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'valid
   share
 
   increase'
-bip_39_word_new_line_4: 'valid
-
-  share
-
-  increase
-
-  diamond'
-bip_39_word_new_line_5: 'valid
-
-  share
-
-  increase
-
-  diamond
-
-  pudding'
-bip_39_word_new_line_6: 'valid
-
-  share
-
-  increase
-
-  diamond
-
-  pudding
-
-  vicious'
-bip_39_word_new_line_7: 'valid
-
-  share
-
-  increase
-
-  diamond
-
-  pudding
-
-  vicious
-
-  slab'
-bip_39_word_new_line_8: 'valid
-
-  share
-
-  increase
-
-  diamond
-
-  pudding
-
-  vicious
-
-  slab
-
-  reward'
-bip_39_word_new_line_9: 'valid
-
-  share
-
-  increase
-
-  diamond
-
-  pudding
-
-  vicious
-
-  slab
-
-  reward
-
-  plunge'
-bip_39_word_no_space_1: valid
-bip_39_word_no_space_10: validshareincreasediamondpuddingviciousslabrewardplungelanguage
-bip_39_word_no_space_11: validshareincreasediamondpuddingviciousslabrewardplungelanguagegather
 bip_39_word_no_space_12: validshareincreasediamondpuddingviciousslabrewardplungelanguagegatheradult
 bip_39_word_no_space_2: validshare
 bip_39_word_no_space_3: validshareincrease
-bip_39_word_no_space_4: validshareincreasediamond
-bip_39_word_no_space_5: validshareincreasediamondpudding
-bip_39_word_no_space_6: validshareincreasediamondpuddingvicious
-bip_39_word_no_space_7: validshareincreasediamondpuddingviciousslab
-bip_39_word_no_space_8: validshareincreasediamondpuddingviciousslabreward
-bip_39_word_no_space_9: validshareincreasediamondpuddingviciousslabrewardplunge
-bip_39_word_space_0:
-- valid
-- share
-- increase
-- diamond
-- pudding
-- vicious
-- slab
-- reward
-- plunge
-- language
-- gather
-- adult
-bip_39_word_space_1: valid
-bip_39_word_space_10: valid share increase diamond pudding vicious slab reward plunge
-  language
-bip_39_word_space_11: valid share increase diamond pudding vicious slab reward plunge
-  language gather
 bip_39_word_space_12: valid share increase diamond pudding vicious slab reward plunge
   language gather adult
 bip_39_word_space_2: valid share
 bip_39_word_space_3: valid share increase
-bip_39_word_space_4: valid share increase diamond
-bip_39_word_space_5: valid share increase diamond pudding
-bip_39_word_space_6: valid share increase diamond pudding vicious
-bip_39_word_space_7: valid share increase diamond pudding vicious slab
-bip_39_word_space_8: valid share increase diamond pudding vicious slab reward
-bip_39_word_space_9: valid share increase diamond pudding vicious slab reward plunge
-bip_39_word_underscore_1: valid
-bip_39_word_underscore_10: valid_share_increase_diamond_pudding_vicious_slab_reward_plunge_language
-bip_39_word_underscore_11: valid_share_increase_diamond_pudding_vicious_slab_reward_plunge_language_gather
 bip_39_word_underscore_12: valid_share_increase_diamond_pudding_vicious_slab_reward_plunge_language_gather_adult
 bip_39_word_underscore_2: valid_share
 bip_39_word_underscore_3: valid_share_increase
-bip_39_word_underscore_4: valid_share_increase_diamond
-bip_39_word_underscore_5: valid_share_increase_diamond_pudding
-bip_39_word_underscore_6: valid_share_increase_diamond_pudding_vicious
-bip_39_word_underscore_7: valid_share_increase_diamond_pudding_vicious_slab
-bip_39_word_underscore_8: valid_share_increase_diamond_pudding_vicious_slab_reward
-bip_39_word_underscore_9: valid_share_increase_diamond_pudding_vicious_slab_reward_plunge
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

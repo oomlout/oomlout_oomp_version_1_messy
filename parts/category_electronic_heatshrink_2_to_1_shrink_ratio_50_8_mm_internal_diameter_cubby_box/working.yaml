@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spatial
-bip_39_word_dash_10: spatial-circle-true-anchor-peasant-wave-employ-pulse-boost-total
-bip_39_word_dash_11: spatial-circle-true-anchor-peasant-wave-employ-pulse-boost-total-arena
 bip_39_word_dash_12: spatial-circle-true-anchor-peasant-wave-employ-pulse-boost-total-arena-assist
 bip_39_word_dash_2: spatial-circle
 bip_39_word_dash_3: spatial-circle-true
-bip_39_word_dash_4: spatial-circle-true-anchor
-bip_39_word_dash_5: spatial-circle-true-anchor-peasant
-bip_39_word_dash_6: spatial-circle-true-anchor-peasant-wave
-bip_39_word_dash_7: spatial-circle-true-anchor-peasant-wave-employ
-bip_39_word_dash_8: spatial-circle-true-anchor-peasant-wave-employ-pulse
-bip_39_word_dash_9: spatial-circle-true-anchor-peasant-wave-employ-pulse-boost
-bip_39_word_new_br_1: spatial
-bip_39_word_new_br_10: spatial<br>circle<br>true<br>anchor<br>peasant<br>wave<br>employ<br>pulse<br>boost<br>total
-bip_39_word_new_br_11: spatial<br>circle<br>true<br>anchor<br>peasant<br>wave<br>employ<br>pulse<br>boost<br>total<br>arena
 bip_39_word_new_br_12: spatial<br>circle<br>true<br>anchor<br>peasant<br>wave<br>employ<br>pulse<br>boost<br>total<br>arena<br>assist
 bip_39_word_new_br_2: spatial<br>circle
 bip_39_word_new_br_3: spatial<br>circle<br>true
-bip_39_word_new_br_4: spatial<br>circle<br>true<br>anchor
-bip_39_word_new_br_5: spatial<br>circle<br>true<br>anchor<br>peasant
-bip_39_word_new_br_6: spatial<br>circle<br>true<br>anchor<br>peasant<br>wave
-bip_39_word_new_br_7: spatial<br>circle<br>true<br>anchor<br>peasant<br>wave<br>employ
-bip_39_word_new_br_8: spatial<br>circle<br>true<br>anchor<br>peasant<br>wave<br>employ<br>pulse
-bip_39_word_new_br_9: spatial<br>circle<br>true<br>anchor<br>peasant<br>wave<br>employ<br>pulse<br>boost
-bip_39_word_new_line_1: spatial
-bip_39_word_new_line_10: 'spatial
-
-  circle
-
-  true
-
-  anchor
-
-  peasant
-
-  wave
-
-  employ
-
-  pulse
-
-  boost
-
-  total'
-bip_39_word_new_line_11: 'spatial
-
-  circle
-
-  true
-
-  anchor
-
-  peasant
-
-  wave
-
-  employ
-
-  pulse
-
-  boost
-
-  total
-
-  arena'
 bip_39_word_new_line_12: 'spatial
 
   circle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spatial
   circle
 
   true'
-bip_39_word_new_line_4: 'spatial
-
-  circle
-
-  true
-
-  anchor'
-bip_39_word_new_line_5: 'spatial
-
-  circle
-
-  true
-
-  anchor
-
-  peasant'
-bip_39_word_new_line_6: 'spatial
-
-  circle
-
-  true
-
-  anchor
-
-  peasant
-
-  wave'
-bip_39_word_new_line_7: 'spatial
-
-  circle
-
-  true
-
-  anchor
-
-  peasant
-
-  wave
-
-  employ'
-bip_39_word_new_line_8: 'spatial
-
-  circle
-
-  true
-
-  anchor
-
-  peasant
-
-  wave
-
-  employ
-
-  pulse'
-bip_39_word_new_line_9: 'spatial
-
-  circle
-
-  true
-
-  anchor
-
-  peasant
-
-  wave
-
-  employ
-
-  pulse
-
-  boost'
-bip_39_word_no_space_1: spatial
-bip_39_word_no_space_10: spatialcircletrueanchorpeasantwaveemploypulseboosttotal
-bip_39_word_no_space_11: spatialcircletrueanchorpeasantwaveemploypulseboosttotalarena
 bip_39_word_no_space_12: spatialcircletrueanchorpeasantwaveemploypulseboosttotalarenaassist
 bip_39_word_no_space_2: spatialcircle
 bip_39_word_no_space_3: spatialcircletrue
-bip_39_word_no_space_4: spatialcircletrueanchor
-bip_39_word_no_space_5: spatialcircletrueanchorpeasant
-bip_39_word_no_space_6: spatialcircletrueanchorpeasantwave
-bip_39_word_no_space_7: spatialcircletrueanchorpeasantwaveemploy
-bip_39_word_no_space_8: spatialcircletrueanchorpeasantwaveemploypulse
-bip_39_word_no_space_9: spatialcircletrueanchorpeasantwaveemploypulseboost
-bip_39_word_space_0:
-- spatial
-- circle
-- 'true'
-- anchor
-- peasant
-- wave
-- employ
-- pulse
-- boost
-- total
-- arena
-- assist
-bip_39_word_space_1: spatial
-bip_39_word_space_10: spatial circle true anchor peasant wave employ pulse boost total
-bip_39_word_space_11: spatial circle true anchor peasant wave employ pulse boost total
-  arena
 bip_39_word_space_12: spatial circle true anchor peasant wave employ pulse boost total
   arena assist
 bip_39_word_space_2: spatial circle
 bip_39_word_space_3: spatial circle true
-bip_39_word_space_4: spatial circle true anchor
-bip_39_word_space_5: spatial circle true anchor peasant
-bip_39_word_space_6: spatial circle true anchor peasant wave
-bip_39_word_space_7: spatial circle true anchor peasant wave employ
-bip_39_word_space_8: spatial circle true anchor peasant wave employ pulse
-bip_39_word_space_9: spatial circle true anchor peasant wave employ pulse boost
-bip_39_word_underscore_1: spatial
-bip_39_word_underscore_10: spatial_circle_true_anchor_peasant_wave_employ_pulse_boost_total
-bip_39_word_underscore_11: spatial_circle_true_anchor_peasant_wave_employ_pulse_boost_total_arena
 bip_39_word_underscore_12: spatial_circle_true_anchor_peasant_wave_employ_pulse_boost_total_arena_assist
 bip_39_word_underscore_2: spatial_circle
 bip_39_word_underscore_3: spatial_circle_true
-bip_39_word_underscore_4: spatial_circle_true_anchor
-bip_39_word_underscore_5: spatial_circle_true_anchor_peasant
-bip_39_word_underscore_6: spatial_circle_true_anchor_peasant_wave
-bip_39_word_underscore_7: spatial_circle_true_anchor_peasant_wave_employ
-bip_39_word_underscore_8: spatial_circle_true_anchor_peasant_wave_employ_pulse
-bip_39_word_underscore_9: spatial_circle_true_anchor_peasant_wave_employ_pulse_boost
 classification: category
 classification_capital: Category
 classification_first_letter: c

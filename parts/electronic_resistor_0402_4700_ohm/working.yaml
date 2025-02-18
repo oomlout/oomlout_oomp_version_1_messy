@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inherit
-bip_39_word_dash_10: inherit-reunion-rude-chimney-suspect-north-caution-solid-include-sport
-bip_39_word_dash_11: inherit-reunion-rude-chimney-suspect-north-caution-solid-include-sport-upgrade
 bip_39_word_dash_12: inherit-reunion-rude-chimney-suspect-north-caution-solid-include-sport-upgrade-area
 bip_39_word_dash_2: inherit-reunion
 bip_39_word_dash_3: inherit-reunion-rude
-bip_39_word_dash_4: inherit-reunion-rude-chimney
-bip_39_word_dash_5: inherit-reunion-rude-chimney-suspect
-bip_39_word_dash_6: inherit-reunion-rude-chimney-suspect-north
-bip_39_word_dash_7: inherit-reunion-rude-chimney-suspect-north-caution
-bip_39_word_dash_8: inherit-reunion-rude-chimney-suspect-north-caution-solid
-bip_39_word_dash_9: inherit-reunion-rude-chimney-suspect-north-caution-solid-include
-bip_39_word_new_br_1: inherit
-bip_39_word_new_br_10: inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include<br>sport
-bip_39_word_new_br_11: inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include<br>sport<br>upgrade
 bip_39_word_new_br_12: inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include<br>sport<br>upgrade<br>area
 bip_39_word_new_br_2: inherit<br>reunion
 bip_39_word_new_br_3: inherit<br>reunion<br>rude
-bip_39_word_new_br_4: inherit<br>reunion<br>rude<br>chimney
-bip_39_word_new_br_5: inherit<br>reunion<br>rude<br>chimney<br>suspect
-bip_39_word_new_br_6: inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north
-bip_39_word_new_br_7: inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution
-bip_39_word_new_br_8: inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid
-bip_39_word_new_br_9: inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include
-bip_39_word_new_line_1: inherit
-bip_39_word_new_line_10: 'inherit
-
-  reunion
-
-  rude
-
-  chimney
-
-  suspect
-
-  north
-
-  caution
-
-  solid
-
-  include
-
-  sport'
-bip_39_word_new_line_11: 'inherit
-
-  reunion
-
-  rude
-
-  chimney
-
-  suspect
-
-  north
-
-  caution
-
-  solid
-
-  include
-
-  sport
-
-  upgrade'
 bip_39_word_new_line_12: 'inherit
 
   reunion
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'inherit
   reunion
 
   rude'
-bip_39_word_new_line_4: 'inherit
-
-  reunion
-
-  rude
-
-  chimney'
-bip_39_word_new_line_5: 'inherit
-
-  reunion
-
-  rude
-
-  chimney
-
-  suspect'
-bip_39_word_new_line_6: 'inherit
-
-  reunion
-
-  rude
-
-  chimney
-
-  suspect
-
-  north'
-bip_39_word_new_line_7: 'inherit
-
-  reunion
-
-  rude
-
-  chimney
-
-  suspect
-
-  north
-
-  caution'
-bip_39_word_new_line_8: 'inherit
-
-  reunion
-
-  rude
-
-  chimney
-
-  suspect
-
-  north
-
-  caution
-
-  solid'
-bip_39_word_new_line_9: 'inherit
-
-  reunion
-
-  rude
-
-  chimney
-
-  suspect
-
-  north
-
-  caution
-
-  solid
-
-  include'
-bip_39_word_no_space_1: inherit
-bip_39_word_no_space_10: inheritreunionrudechimneysuspectnorthcautionsolidincludesport
-bip_39_word_no_space_11: inheritreunionrudechimneysuspectnorthcautionsolidincludesportupgrade
 bip_39_word_no_space_12: inheritreunionrudechimneysuspectnorthcautionsolidincludesportupgradearea
 bip_39_word_no_space_2: inheritreunion
 bip_39_word_no_space_3: inheritreunionrude
-bip_39_word_no_space_4: inheritreunionrudechimney
-bip_39_word_no_space_5: inheritreunionrudechimneysuspect
-bip_39_word_no_space_6: inheritreunionrudechimneysuspectnorth
-bip_39_word_no_space_7: inheritreunionrudechimneysuspectnorthcaution
-bip_39_word_no_space_8: inheritreunionrudechimneysuspectnorthcautionsolid
-bip_39_word_no_space_9: inheritreunionrudechimneysuspectnorthcautionsolidinclude
-bip_39_word_space_0:
-- inherit
-- reunion
-- rude
-- chimney
-- suspect
-- north
-- caution
-- solid
-- include
-- sport
-- upgrade
-- area
-bip_39_word_space_1: inherit
-bip_39_word_space_10: inherit reunion rude chimney suspect north caution solid include
-  sport
-bip_39_word_space_11: inherit reunion rude chimney suspect north caution solid include
-  sport upgrade
 bip_39_word_space_12: inherit reunion rude chimney suspect north caution solid include
   sport upgrade area
 bip_39_word_space_2: inherit reunion
 bip_39_word_space_3: inherit reunion rude
-bip_39_word_space_4: inherit reunion rude chimney
-bip_39_word_space_5: inherit reunion rude chimney suspect
-bip_39_word_space_6: inherit reunion rude chimney suspect north
-bip_39_word_space_7: inherit reunion rude chimney suspect north caution
-bip_39_word_space_8: inherit reunion rude chimney suspect north caution solid
-bip_39_word_space_9: inherit reunion rude chimney suspect north caution solid include
-bip_39_word_underscore_1: inherit
-bip_39_word_underscore_10: inherit_reunion_rude_chimney_suspect_north_caution_solid_include_sport
-bip_39_word_underscore_11: inherit_reunion_rude_chimney_suspect_north_caution_solid_include_sport_upgrade
 bip_39_word_underscore_12: inherit_reunion_rude_chimney_suspect_north_caution_solid_include_sport_upgrade_area
 bip_39_word_underscore_2: inherit_reunion
 bip_39_word_underscore_3: inherit_reunion_rude
-bip_39_word_underscore_4: inherit_reunion_rude_chimney
-bip_39_word_underscore_5: inherit_reunion_rude_chimney_suspect
-bip_39_word_underscore_6: inherit_reunion_rude_chimney_suspect_north
-bip_39_word_underscore_7: inherit_reunion_rude_chimney_suspect_north_caution
-bip_39_word_underscore_8: inherit_reunion_rude_chimney_suspect_north_caution_solid
-bip_39_word_underscore_9: inherit_reunion_rude_chimney_suspect_north_caution_solid_include
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

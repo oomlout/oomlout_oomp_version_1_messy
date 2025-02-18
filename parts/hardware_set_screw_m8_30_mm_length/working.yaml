@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420654289'
-bip_39_word_dash_1: estate
-bip_39_word_dash_10: estate-motion-equal-behind-leader-sea-must-believe-wish-example
-bip_39_word_dash_11: estate-motion-equal-behind-leader-sea-must-believe-wish-example-ball
 bip_39_word_dash_12: estate-motion-equal-behind-leader-sea-must-believe-wish-example-ball-attend
 bip_39_word_dash_2: estate-motion
 bip_39_word_dash_3: estate-motion-equal
-bip_39_word_dash_4: estate-motion-equal-behind
-bip_39_word_dash_5: estate-motion-equal-behind-leader
-bip_39_word_dash_6: estate-motion-equal-behind-leader-sea
-bip_39_word_dash_7: estate-motion-equal-behind-leader-sea-must
-bip_39_word_dash_8: estate-motion-equal-behind-leader-sea-must-believe
-bip_39_word_dash_9: estate-motion-equal-behind-leader-sea-must-believe-wish
-bip_39_word_new_br_1: estate
-bip_39_word_new_br_10: estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish<br>example
-bip_39_word_new_br_11: estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish<br>example<br>ball
 bip_39_word_new_br_12: estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish<br>example<br>ball<br>attend
 bip_39_word_new_br_2: estate<br>motion
 bip_39_word_new_br_3: estate<br>motion<br>equal
-bip_39_word_new_br_4: estate<br>motion<br>equal<br>behind
-bip_39_word_new_br_5: estate<br>motion<br>equal<br>behind<br>leader
-bip_39_word_new_br_6: estate<br>motion<br>equal<br>behind<br>leader<br>sea
-bip_39_word_new_br_7: estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must
-bip_39_word_new_br_8: estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe
-bip_39_word_new_br_9: estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish
-bip_39_word_new_line_1: estate
-bip_39_word_new_line_10: 'estate
-
-  motion
-
-  equal
-
-  behind
-
-  leader
-
-  sea
-
-  must
-
-  believe
-
-  wish
-
-  example'
-bip_39_word_new_line_11: 'estate
-
-  motion
-
-  equal
-
-  behind
-
-  leader
-
-  sea
-
-  must
-
-  believe
-
-  wish
-
-  example
-
-  ball'
 bip_39_word_new_line_12: 'estate
 
   motion
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'estate
   motion
 
   equal'
-bip_39_word_new_line_4: 'estate
-
-  motion
-
-  equal
-
-  behind'
-bip_39_word_new_line_5: 'estate
-
-  motion
-
-  equal
-
-  behind
-
-  leader'
-bip_39_word_new_line_6: 'estate
-
-  motion
-
-  equal
-
-  behind
-
-  leader
-
-  sea'
-bip_39_word_new_line_7: 'estate
-
-  motion
-
-  equal
-
-  behind
-
-  leader
-
-  sea
-
-  must'
-bip_39_word_new_line_8: 'estate
-
-  motion
-
-  equal
-
-  behind
-
-  leader
-
-  sea
-
-  must
-
-  believe'
-bip_39_word_new_line_9: 'estate
-
-  motion
-
-  equal
-
-  behind
-
-  leader
-
-  sea
-
-  must
-
-  believe
-
-  wish'
-bip_39_word_no_space_1: estate
-bip_39_word_no_space_10: estatemotionequalbehindleaderseamustbelievewishexample
-bip_39_word_no_space_11: estatemotionequalbehindleaderseamustbelievewishexampleball
 bip_39_word_no_space_12: estatemotionequalbehindleaderseamustbelievewishexampleballattend
 bip_39_word_no_space_2: estatemotion
 bip_39_word_no_space_3: estatemotionequal
-bip_39_word_no_space_4: estatemotionequalbehind
-bip_39_word_no_space_5: estatemotionequalbehindleader
-bip_39_word_no_space_6: estatemotionequalbehindleadersea
-bip_39_word_no_space_7: estatemotionequalbehindleaderseamust
-bip_39_word_no_space_8: estatemotionequalbehindleaderseamustbelieve
-bip_39_word_no_space_9: estatemotionequalbehindleaderseamustbelievewish
-bip_39_word_space_0:
-- estate
-- motion
-- equal
-- behind
-- leader
-- sea
-- must
-- believe
-- wish
-- example
-- ball
-- attend
-bip_39_word_space_1: estate
-bip_39_word_space_10: estate motion equal behind leader sea must believe wish example
-bip_39_word_space_11: estate motion equal behind leader sea must believe wish example
-  ball
 bip_39_word_space_12: estate motion equal behind leader sea must believe wish example
   ball attend
 bip_39_word_space_2: estate motion
 bip_39_word_space_3: estate motion equal
-bip_39_word_space_4: estate motion equal behind
-bip_39_word_space_5: estate motion equal behind leader
-bip_39_word_space_6: estate motion equal behind leader sea
-bip_39_word_space_7: estate motion equal behind leader sea must
-bip_39_word_space_8: estate motion equal behind leader sea must believe
-bip_39_word_space_9: estate motion equal behind leader sea must believe wish
-bip_39_word_underscore_1: estate
-bip_39_word_underscore_10: estate_motion_equal_behind_leader_sea_must_believe_wish_example
-bip_39_word_underscore_11: estate_motion_equal_behind_leader_sea_must_believe_wish_example_ball
 bip_39_word_underscore_12: estate_motion_equal_behind_leader_sea_must_believe_wish_example_ball_attend
 bip_39_word_underscore_2: estate_motion
 bip_39_word_underscore_3: estate_motion_equal
-bip_39_word_underscore_4: estate_motion_equal_behind
-bip_39_word_underscore_5: estate_motion_equal_behind_leader
-bip_39_word_underscore_6: estate_motion_equal_behind_leader_sea
-bip_39_word_underscore_7: estate_motion_equal_behind_leader_sea_must
-bip_39_word_underscore_8: estate_motion_equal_behind_leader_sea_must_believe
-bip_39_word_underscore_9: estate_motion_equal_behind_leader_sea_must_believe_wish
 box_of_box_size_manufacturer_metalmate: '1200'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: amount
-bip_39_word_dash_10: amount-rude-guard-real-garbage-kitten-limb-busy-planet-crawl
-bip_39_word_dash_11: amount-rude-guard-real-garbage-kitten-limb-busy-planet-crawl-street
 bip_39_word_dash_12: amount-rude-guard-real-garbage-kitten-limb-busy-planet-crawl-street-apology
 bip_39_word_dash_2: amount-rude
 bip_39_word_dash_3: amount-rude-guard
-bip_39_word_dash_4: amount-rude-guard-real
-bip_39_word_dash_5: amount-rude-guard-real-garbage
-bip_39_word_dash_6: amount-rude-guard-real-garbage-kitten
-bip_39_word_dash_7: amount-rude-guard-real-garbage-kitten-limb
-bip_39_word_dash_8: amount-rude-guard-real-garbage-kitten-limb-busy
-bip_39_word_dash_9: amount-rude-guard-real-garbage-kitten-limb-busy-planet
-bip_39_word_new_br_1: amount
-bip_39_word_new_br_10: amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet<br>crawl
-bip_39_word_new_br_11: amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet<br>crawl<br>street
 bip_39_word_new_br_12: amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet<br>crawl<br>street<br>apology
 bip_39_word_new_br_2: amount<br>rude
 bip_39_word_new_br_3: amount<br>rude<br>guard
-bip_39_word_new_br_4: amount<br>rude<br>guard<br>real
-bip_39_word_new_br_5: amount<br>rude<br>guard<br>real<br>garbage
-bip_39_word_new_br_6: amount<br>rude<br>guard<br>real<br>garbage<br>kitten
-bip_39_word_new_br_7: amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb
-bip_39_word_new_br_8: amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy
-bip_39_word_new_br_9: amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet
-bip_39_word_new_line_1: amount
-bip_39_word_new_line_10: 'amount
-
-  rude
-
-  guard
-
-  real
-
-  garbage
-
-  kitten
-
-  limb
-
-  busy
-
-  planet
-
-  crawl'
-bip_39_word_new_line_11: 'amount
-
-  rude
-
-  guard
-
-  real
-
-  garbage
-
-  kitten
-
-  limb
-
-  busy
-
-  planet
-
-  crawl
-
-  street'
 bip_39_word_new_line_12: 'amount
 
   rude
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'amount
   rude
 
   guard'
-bip_39_word_new_line_4: 'amount
-
-  rude
-
-  guard
-
-  real'
-bip_39_word_new_line_5: 'amount
-
-  rude
-
-  guard
-
-  real
-
-  garbage'
-bip_39_word_new_line_6: 'amount
-
-  rude
-
-  guard
-
-  real
-
-  garbage
-
-  kitten'
-bip_39_word_new_line_7: 'amount
-
-  rude
-
-  guard
-
-  real
-
-  garbage
-
-  kitten
-
-  limb'
-bip_39_word_new_line_8: 'amount
-
-  rude
-
-  guard
-
-  real
-
-  garbage
-
-  kitten
-
-  limb
-
-  busy'
-bip_39_word_new_line_9: 'amount
-
-  rude
-
-  guard
-
-  real
-
-  garbage
-
-  kitten
-
-  limb
-
-  busy
-
-  planet'
-bip_39_word_no_space_1: amount
-bip_39_word_no_space_10: amountrudeguardrealgarbagekittenlimbbusyplanetcrawl
-bip_39_word_no_space_11: amountrudeguardrealgarbagekittenlimbbusyplanetcrawlstreet
 bip_39_word_no_space_12: amountrudeguardrealgarbagekittenlimbbusyplanetcrawlstreetapology
 bip_39_word_no_space_2: amountrude
 bip_39_word_no_space_3: amountrudeguard
-bip_39_word_no_space_4: amountrudeguardreal
-bip_39_word_no_space_5: amountrudeguardrealgarbage
-bip_39_word_no_space_6: amountrudeguardrealgarbagekitten
-bip_39_word_no_space_7: amountrudeguardrealgarbagekittenlimb
-bip_39_word_no_space_8: amountrudeguardrealgarbagekittenlimbbusy
-bip_39_word_no_space_9: amountrudeguardrealgarbagekittenlimbbusyplanet
-bip_39_word_space_0:
-- amount
-- rude
-- guard
-- real
-- garbage
-- kitten
-- limb
-- busy
-- planet
-- crawl
-- street
-- apology
-bip_39_word_space_1: amount
-bip_39_word_space_10: amount rude guard real garbage kitten limb busy planet crawl
-bip_39_word_space_11: amount rude guard real garbage kitten limb busy planet crawl
-  street
 bip_39_word_space_12: amount rude guard real garbage kitten limb busy planet crawl
   street apology
 bip_39_word_space_2: amount rude
 bip_39_word_space_3: amount rude guard
-bip_39_word_space_4: amount rude guard real
-bip_39_word_space_5: amount rude guard real garbage
-bip_39_word_space_6: amount rude guard real garbage kitten
-bip_39_word_space_7: amount rude guard real garbage kitten limb
-bip_39_word_space_8: amount rude guard real garbage kitten limb busy
-bip_39_word_space_9: amount rude guard real garbage kitten limb busy planet
-bip_39_word_underscore_1: amount
-bip_39_word_underscore_10: amount_rude_guard_real_garbage_kitten_limb_busy_planet_crawl
-bip_39_word_underscore_11: amount_rude_guard_real_garbage_kitten_limb_busy_planet_crawl_street
 bip_39_word_underscore_12: amount_rude_guard_real_garbage_kitten_limb_busy_planet_crawl_street_apology
 bip_39_word_underscore_2: amount_rude
 bip_39_word_underscore_3: amount_rude_guard
-bip_39_word_underscore_4: amount_rude_guard_real
-bip_39_word_underscore_5: amount_rude_guard_real_garbage
-bip_39_word_underscore_6: amount_rude_guard_real_garbage_kitten
-bip_39_word_underscore_7: amount_rude_guard_real_garbage_kitten_limb
-bip_39_word_underscore_8: amount_rude_guard_real_garbage_kitten_limb_busy
-bip_39_word_underscore_9: amount_rude_guard_real_garbage_kitten_limb_busy_planet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

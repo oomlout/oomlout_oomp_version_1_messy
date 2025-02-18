@@ -1,68 +1,9 @@
-bip_39_word_dash_1: small
-bip_39_word_dash_10: small-acid-expire-wrong-age-treat-spawn-organ-disorder-grunt
-bip_39_word_dash_11: small-acid-expire-wrong-age-treat-spawn-organ-disorder-grunt-strong
 bip_39_word_dash_12: small-acid-expire-wrong-age-treat-spawn-organ-disorder-grunt-strong-ankle
 bip_39_word_dash_2: small-acid
 bip_39_word_dash_3: small-acid-expire
-bip_39_word_dash_4: small-acid-expire-wrong
-bip_39_word_dash_5: small-acid-expire-wrong-age
-bip_39_word_dash_6: small-acid-expire-wrong-age-treat
-bip_39_word_dash_7: small-acid-expire-wrong-age-treat-spawn
-bip_39_word_dash_8: small-acid-expire-wrong-age-treat-spawn-organ
-bip_39_word_dash_9: small-acid-expire-wrong-age-treat-spawn-organ-disorder
-bip_39_word_new_br_1: small
-bip_39_word_new_br_10: small<br>acid<br>expire<br>wrong<br>age<br>treat<br>spawn<br>organ<br>disorder<br>grunt
-bip_39_word_new_br_11: small<br>acid<br>expire<br>wrong<br>age<br>treat<br>spawn<br>organ<br>disorder<br>grunt<br>strong
 bip_39_word_new_br_12: small<br>acid<br>expire<br>wrong<br>age<br>treat<br>spawn<br>organ<br>disorder<br>grunt<br>strong<br>ankle
 bip_39_word_new_br_2: small<br>acid
 bip_39_word_new_br_3: small<br>acid<br>expire
-bip_39_word_new_br_4: small<br>acid<br>expire<br>wrong
-bip_39_word_new_br_5: small<br>acid<br>expire<br>wrong<br>age
-bip_39_word_new_br_6: small<br>acid<br>expire<br>wrong<br>age<br>treat
-bip_39_word_new_br_7: small<br>acid<br>expire<br>wrong<br>age<br>treat<br>spawn
-bip_39_word_new_br_8: small<br>acid<br>expire<br>wrong<br>age<br>treat<br>spawn<br>organ
-bip_39_word_new_br_9: small<br>acid<br>expire<br>wrong<br>age<br>treat<br>spawn<br>organ<br>disorder
-bip_39_word_new_line_1: small
-bip_39_word_new_line_10: 'small
-
-  acid
-
-  expire
-
-  wrong
-
-  age
-
-  treat
-
-  spawn
-
-  organ
-
-  disorder
-
-  grunt'
-bip_39_word_new_line_11: 'small
-
-  acid
-
-  expire
-
-  wrong
-
-  age
-
-  treat
-
-  spawn
-
-  organ
-
-  disorder
-
-  grunt
-
-  strong'
 bip_39_word_new_line_12: 'small
 
   acid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'small
   acid
 
   expire'
-bip_39_word_new_line_4: 'small
-
-  acid
-
-  expire
-
-  wrong'
-bip_39_word_new_line_5: 'small
-
-  acid
-
-  expire
-
-  wrong
-
-  age'
-bip_39_word_new_line_6: 'small
-
-  acid
-
-  expire
-
-  wrong
-
-  age
-
-  treat'
-bip_39_word_new_line_7: 'small
-
-  acid
-
-  expire
-
-  wrong
-
-  age
-
-  treat
-
-  spawn'
-bip_39_word_new_line_8: 'small
-
-  acid
-
-  expire
-
-  wrong
-
-  age
-
-  treat
-
-  spawn
-
-  organ'
-bip_39_word_new_line_9: 'small
-
-  acid
-
-  expire
-
-  wrong
-
-  age
-
-  treat
-
-  spawn
-
-  organ
-
-  disorder'
-bip_39_word_no_space_1: small
-bip_39_word_no_space_10: smallacidexpirewrongagetreatspawnorgandisordergrunt
-bip_39_word_no_space_11: smallacidexpirewrongagetreatspawnorgandisordergruntstrong
 bip_39_word_no_space_12: smallacidexpirewrongagetreatspawnorgandisordergruntstrongankle
 bip_39_word_no_space_2: smallacid
 bip_39_word_no_space_3: smallacidexpire
-bip_39_word_no_space_4: smallacidexpirewrong
-bip_39_word_no_space_5: smallacidexpirewrongage
-bip_39_word_no_space_6: smallacidexpirewrongagetreat
-bip_39_word_no_space_7: smallacidexpirewrongagetreatspawn
-bip_39_word_no_space_8: smallacidexpirewrongagetreatspawnorgan
-bip_39_word_no_space_9: smallacidexpirewrongagetreatspawnorgandisorder
-bip_39_word_space_0:
-- small
-- acid
-- expire
-- wrong
-- age
-- treat
-- spawn
-- organ
-- disorder
-- grunt
-- strong
-- ankle
-bip_39_word_space_1: small
-bip_39_word_space_10: small acid expire wrong age treat spawn organ disorder grunt
-bip_39_word_space_11: small acid expire wrong age treat spawn organ disorder grunt
-  strong
 bip_39_word_space_12: small acid expire wrong age treat spawn organ disorder grunt
   strong ankle
 bip_39_word_space_2: small acid
 bip_39_word_space_3: small acid expire
-bip_39_word_space_4: small acid expire wrong
-bip_39_word_space_5: small acid expire wrong age
-bip_39_word_space_6: small acid expire wrong age treat
-bip_39_word_space_7: small acid expire wrong age treat spawn
-bip_39_word_space_8: small acid expire wrong age treat spawn organ
-bip_39_word_space_9: small acid expire wrong age treat spawn organ disorder
-bip_39_word_underscore_1: small
-bip_39_word_underscore_10: small_acid_expire_wrong_age_treat_spawn_organ_disorder_grunt
-bip_39_word_underscore_11: small_acid_expire_wrong_age_treat_spawn_organ_disorder_grunt_strong
 bip_39_word_underscore_12: small_acid_expire_wrong_age_treat_spawn_organ_disorder_grunt_strong_ankle
 bip_39_word_underscore_2: small_acid
 bip_39_word_underscore_3: small_acid_expire
-bip_39_word_underscore_4: small_acid_expire_wrong
-bip_39_word_underscore_5: small_acid_expire_wrong_age
-bip_39_word_underscore_6: small_acid_expire_wrong_age_treat
-bip_39_word_underscore_7: small_acid_expire_wrong_age_treat_spawn
-bip_39_word_underscore_8: small_acid_expire_wrong_age_treat_spawn_organ
-bip_39_word_underscore_9: small_acid_expire_wrong_age_treat_spawn_organ_disorder
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

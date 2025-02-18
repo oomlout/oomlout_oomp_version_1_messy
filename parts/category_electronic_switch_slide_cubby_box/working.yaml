@@ -1,68 +1,9 @@
-bip_39_word_dash_1: torch
-bip_39_word_dash_10: torch-family-draw-bomb-display-oil-material-join-garage-logic
-bip_39_word_dash_11: torch-family-draw-bomb-display-oil-material-join-garage-logic-work
 bip_39_word_dash_12: torch-family-draw-bomb-display-oil-material-join-garage-logic-work-another
 bip_39_word_dash_2: torch-family
 bip_39_word_dash_3: torch-family-draw
-bip_39_word_dash_4: torch-family-draw-bomb
-bip_39_word_dash_5: torch-family-draw-bomb-display
-bip_39_word_dash_6: torch-family-draw-bomb-display-oil
-bip_39_word_dash_7: torch-family-draw-bomb-display-oil-material
-bip_39_word_dash_8: torch-family-draw-bomb-display-oil-material-join
-bip_39_word_dash_9: torch-family-draw-bomb-display-oil-material-join-garage
-bip_39_word_new_br_1: torch
-bip_39_word_new_br_10: torch<br>family<br>draw<br>bomb<br>display<br>oil<br>material<br>join<br>garage<br>logic
-bip_39_word_new_br_11: torch<br>family<br>draw<br>bomb<br>display<br>oil<br>material<br>join<br>garage<br>logic<br>work
 bip_39_word_new_br_12: torch<br>family<br>draw<br>bomb<br>display<br>oil<br>material<br>join<br>garage<br>logic<br>work<br>another
 bip_39_word_new_br_2: torch<br>family
 bip_39_word_new_br_3: torch<br>family<br>draw
-bip_39_word_new_br_4: torch<br>family<br>draw<br>bomb
-bip_39_word_new_br_5: torch<br>family<br>draw<br>bomb<br>display
-bip_39_word_new_br_6: torch<br>family<br>draw<br>bomb<br>display<br>oil
-bip_39_word_new_br_7: torch<br>family<br>draw<br>bomb<br>display<br>oil<br>material
-bip_39_word_new_br_8: torch<br>family<br>draw<br>bomb<br>display<br>oil<br>material<br>join
-bip_39_word_new_br_9: torch<br>family<br>draw<br>bomb<br>display<br>oil<br>material<br>join<br>garage
-bip_39_word_new_line_1: torch
-bip_39_word_new_line_10: 'torch
-
-  family
-
-  draw
-
-  bomb
-
-  display
-
-  oil
-
-  material
-
-  join
-
-  garage
-
-  logic'
-bip_39_word_new_line_11: 'torch
-
-  family
-
-  draw
-
-  bomb
-
-  display
-
-  oil
-
-  material
-
-  join
-
-  garage
-
-  logic
-
-  work'
 bip_39_word_new_line_12: 'torch
 
   family
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'torch
   family
 
   draw'
-bip_39_word_new_line_4: 'torch
-
-  family
-
-  draw
-
-  bomb'
-bip_39_word_new_line_5: 'torch
-
-  family
-
-  draw
-
-  bomb
-
-  display'
-bip_39_word_new_line_6: 'torch
-
-  family
-
-  draw
-
-  bomb
-
-  display
-
-  oil'
-bip_39_word_new_line_7: 'torch
-
-  family
-
-  draw
-
-  bomb
-
-  display
-
-  oil
-
-  material'
-bip_39_word_new_line_8: 'torch
-
-  family
-
-  draw
-
-  bomb
-
-  display
-
-  oil
-
-  material
-
-  join'
-bip_39_word_new_line_9: 'torch
-
-  family
-
-  draw
-
-  bomb
-
-  display
-
-  oil
-
-  material
-
-  join
-
-  garage'
-bip_39_word_no_space_1: torch
-bip_39_word_no_space_10: torchfamilydrawbombdisplayoilmaterialjoingaragelogic
-bip_39_word_no_space_11: torchfamilydrawbombdisplayoilmaterialjoingaragelogicwork
 bip_39_word_no_space_12: torchfamilydrawbombdisplayoilmaterialjoingaragelogicworkanother
 bip_39_word_no_space_2: torchfamily
 bip_39_word_no_space_3: torchfamilydraw
-bip_39_word_no_space_4: torchfamilydrawbomb
-bip_39_word_no_space_5: torchfamilydrawbombdisplay
-bip_39_word_no_space_6: torchfamilydrawbombdisplayoil
-bip_39_word_no_space_7: torchfamilydrawbombdisplayoilmaterial
-bip_39_word_no_space_8: torchfamilydrawbombdisplayoilmaterialjoin
-bip_39_word_no_space_9: torchfamilydrawbombdisplayoilmaterialjoingarage
-bip_39_word_space_0:
-- torch
-- family
-- draw
-- bomb
-- display
-- oil
-- material
-- join
-- garage
-- logic
-- work
-- another
-bip_39_word_space_1: torch
-bip_39_word_space_10: torch family draw bomb display oil material join garage logic
-bip_39_word_space_11: torch family draw bomb display oil material join garage logic
-  work
 bip_39_word_space_12: torch family draw bomb display oil material join garage logic
   work another
 bip_39_word_space_2: torch family
 bip_39_word_space_3: torch family draw
-bip_39_word_space_4: torch family draw bomb
-bip_39_word_space_5: torch family draw bomb display
-bip_39_word_space_6: torch family draw bomb display oil
-bip_39_word_space_7: torch family draw bomb display oil material
-bip_39_word_space_8: torch family draw bomb display oil material join
-bip_39_word_space_9: torch family draw bomb display oil material join garage
-bip_39_word_underscore_1: torch
-bip_39_word_underscore_10: torch_family_draw_bomb_display_oil_material_join_garage_logic
-bip_39_word_underscore_11: torch_family_draw_bomb_display_oil_material_join_garage_logic_work
 bip_39_word_underscore_12: torch_family_draw_bomb_display_oil_material_join_garage_logic_work_another
 bip_39_word_underscore_2: torch_family
 bip_39_word_underscore_3: torch_family_draw
-bip_39_word_underscore_4: torch_family_draw_bomb
-bip_39_word_underscore_5: torch_family_draw_bomb_display
-bip_39_word_underscore_6: torch_family_draw_bomb_display_oil
-bip_39_word_underscore_7: torch_family_draw_bomb_display_oil_material
-bip_39_word_underscore_8: torch_family_draw_bomb_display_oil_material_join
-bip_39_word_underscore_9: torch_family_draw_bomb_display_oil_material_join_garage
 classification: category
 classification_capital: Category
 classification_first_letter: c

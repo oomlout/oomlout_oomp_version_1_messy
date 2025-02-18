@@ -1,68 +1,9 @@
-bip_39_word_dash_1: neck
-bip_39_word_dash_10: neck-raw-guilt-derive-warm-cause-dry-hair-keen-detect
-bip_39_word_dash_11: neck-raw-guilt-derive-warm-cause-dry-hair-keen-detect-rough
 bip_39_word_dash_12: neck-raw-guilt-derive-warm-cause-dry-hair-keen-detect-rough-attack
 bip_39_word_dash_2: neck-raw
 bip_39_word_dash_3: neck-raw-guilt
-bip_39_word_dash_4: neck-raw-guilt-derive
-bip_39_word_dash_5: neck-raw-guilt-derive-warm
-bip_39_word_dash_6: neck-raw-guilt-derive-warm-cause
-bip_39_word_dash_7: neck-raw-guilt-derive-warm-cause-dry
-bip_39_word_dash_8: neck-raw-guilt-derive-warm-cause-dry-hair
-bip_39_word_dash_9: neck-raw-guilt-derive-warm-cause-dry-hair-keen
-bip_39_word_new_br_1: neck
-bip_39_word_new_br_10: neck<br>raw<br>guilt<br>derive<br>warm<br>cause<br>dry<br>hair<br>keen<br>detect
-bip_39_word_new_br_11: neck<br>raw<br>guilt<br>derive<br>warm<br>cause<br>dry<br>hair<br>keen<br>detect<br>rough
 bip_39_word_new_br_12: neck<br>raw<br>guilt<br>derive<br>warm<br>cause<br>dry<br>hair<br>keen<br>detect<br>rough<br>attack
 bip_39_word_new_br_2: neck<br>raw
 bip_39_word_new_br_3: neck<br>raw<br>guilt
-bip_39_word_new_br_4: neck<br>raw<br>guilt<br>derive
-bip_39_word_new_br_5: neck<br>raw<br>guilt<br>derive<br>warm
-bip_39_word_new_br_6: neck<br>raw<br>guilt<br>derive<br>warm<br>cause
-bip_39_word_new_br_7: neck<br>raw<br>guilt<br>derive<br>warm<br>cause<br>dry
-bip_39_word_new_br_8: neck<br>raw<br>guilt<br>derive<br>warm<br>cause<br>dry<br>hair
-bip_39_word_new_br_9: neck<br>raw<br>guilt<br>derive<br>warm<br>cause<br>dry<br>hair<br>keen
-bip_39_word_new_line_1: neck
-bip_39_word_new_line_10: 'neck
-
-  raw
-
-  guilt
-
-  derive
-
-  warm
-
-  cause
-
-  dry
-
-  hair
-
-  keen
-
-  detect'
-bip_39_word_new_line_11: 'neck
-
-  raw
-
-  guilt
-
-  derive
-
-  warm
-
-  cause
-
-  dry
-
-  hair
-
-  keen
-
-  detect
-
-  rough'
 bip_39_word_new_line_12: 'neck
 
   raw
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'neck
   raw
 
   guilt'
-bip_39_word_new_line_4: 'neck
-
-  raw
-
-  guilt
-
-  derive'
-bip_39_word_new_line_5: 'neck
-
-  raw
-
-  guilt
-
-  derive
-
-  warm'
-bip_39_word_new_line_6: 'neck
-
-  raw
-
-  guilt
-
-  derive
-
-  warm
-
-  cause'
-bip_39_word_new_line_7: 'neck
-
-  raw
-
-  guilt
-
-  derive
-
-  warm
-
-  cause
-
-  dry'
-bip_39_word_new_line_8: 'neck
-
-  raw
-
-  guilt
-
-  derive
-
-  warm
-
-  cause
-
-  dry
-
-  hair'
-bip_39_word_new_line_9: 'neck
-
-  raw
-
-  guilt
-
-  derive
-
-  warm
-
-  cause
-
-  dry
-
-  hair
-
-  keen'
-bip_39_word_no_space_1: neck
-bip_39_word_no_space_10: neckrawguiltderivewarmcausedryhairkeendetect
-bip_39_word_no_space_11: neckrawguiltderivewarmcausedryhairkeendetectrough
 bip_39_word_no_space_12: neckrawguiltderivewarmcausedryhairkeendetectroughattack
 bip_39_word_no_space_2: neckraw
 bip_39_word_no_space_3: neckrawguilt
-bip_39_word_no_space_4: neckrawguiltderive
-bip_39_word_no_space_5: neckrawguiltderivewarm
-bip_39_word_no_space_6: neckrawguiltderivewarmcause
-bip_39_word_no_space_7: neckrawguiltderivewarmcausedry
-bip_39_word_no_space_8: neckrawguiltderivewarmcausedryhair
-bip_39_word_no_space_9: neckrawguiltderivewarmcausedryhairkeen
-bip_39_word_space_0:
-- neck
-- raw
-- guilt
-- derive
-- warm
-- cause
-- dry
-- hair
-- keen
-- detect
-- rough
-- attack
-bip_39_word_space_1: neck
-bip_39_word_space_10: neck raw guilt derive warm cause dry hair keen detect
-bip_39_word_space_11: neck raw guilt derive warm cause dry hair keen detect rough
 bip_39_word_space_12: neck raw guilt derive warm cause dry hair keen detect rough
   attack
 bip_39_word_space_2: neck raw
 bip_39_word_space_3: neck raw guilt
-bip_39_word_space_4: neck raw guilt derive
-bip_39_word_space_5: neck raw guilt derive warm
-bip_39_word_space_6: neck raw guilt derive warm cause
-bip_39_word_space_7: neck raw guilt derive warm cause dry
-bip_39_word_space_8: neck raw guilt derive warm cause dry hair
-bip_39_word_space_9: neck raw guilt derive warm cause dry hair keen
-bip_39_word_underscore_1: neck
-bip_39_word_underscore_10: neck_raw_guilt_derive_warm_cause_dry_hair_keen_detect
-bip_39_word_underscore_11: neck_raw_guilt_derive_warm_cause_dry_hair_keen_detect_rough
 bip_39_word_underscore_12: neck_raw_guilt_derive_warm_cause_dry_hair_keen_detect_rough_attack
 bip_39_word_underscore_2: neck_raw
 bip_39_word_underscore_3: neck_raw_guilt
-bip_39_word_underscore_4: neck_raw_guilt_derive
-bip_39_word_underscore_5: neck_raw_guilt_derive_warm
-bip_39_word_underscore_6: neck_raw_guilt_derive_warm_cause
-bip_39_word_underscore_7: neck_raw_guilt_derive_warm_cause_dry
-bip_39_word_underscore_8: neck_raw_guilt_derive_warm_cause_dry_hair
-bip_39_word_underscore_9: neck_raw_guilt_derive_warm_cause_dry_hair_keen
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

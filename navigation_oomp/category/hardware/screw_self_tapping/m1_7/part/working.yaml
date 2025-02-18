@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slow
-bip_39_word_dash_10: slow-grab-horse-scissors-embody-lend-much-sample-forest-size
-bip_39_word_dash_11: slow-grab-horse-scissors-embody-lend-much-sample-forest-size-model
 bip_39_word_dash_12: slow-grab-horse-scissors-embody-lend-much-sample-forest-size-model-all
 bip_39_word_dash_2: slow-grab
 bip_39_word_dash_3: slow-grab-horse
-bip_39_word_dash_4: slow-grab-horse-scissors
-bip_39_word_dash_5: slow-grab-horse-scissors-embody
-bip_39_word_dash_6: slow-grab-horse-scissors-embody-lend
-bip_39_word_dash_7: slow-grab-horse-scissors-embody-lend-much
-bip_39_word_dash_8: slow-grab-horse-scissors-embody-lend-much-sample
-bip_39_word_dash_9: slow-grab-horse-scissors-embody-lend-much-sample-forest
-bip_39_word_new_br_1: slow
-bip_39_word_new_br_10: slow<br>grab<br>horse<br>scissors<br>embody<br>lend<br>much<br>sample<br>forest<br>size
-bip_39_word_new_br_11: slow<br>grab<br>horse<br>scissors<br>embody<br>lend<br>much<br>sample<br>forest<br>size<br>model
 bip_39_word_new_br_12: slow<br>grab<br>horse<br>scissors<br>embody<br>lend<br>much<br>sample<br>forest<br>size<br>model<br>all
 bip_39_word_new_br_2: slow<br>grab
 bip_39_word_new_br_3: slow<br>grab<br>horse
-bip_39_word_new_br_4: slow<br>grab<br>horse<br>scissors
-bip_39_word_new_br_5: slow<br>grab<br>horse<br>scissors<br>embody
-bip_39_word_new_br_6: slow<br>grab<br>horse<br>scissors<br>embody<br>lend
-bip_39_word_new_br_7: slow<br>grab<br>horse<br>scissors<br>embody<br>lend<br>much
-bip_39_word_new_br_8: slow<br>grab<br>horse<br>scissors<br>embody<br>lend<br>much<br>sample
-bip_39_word_new_br_9: slow<br>grab<br>horse<br>scissors<br>embody<br>lend<br>much<br>sample<br>forest
-bip_39_word_new_line_1: slow
-bip_39_word_new_line_10: 'slow
-
-  grab
-
-  horse
-
-  scissors
-
-  embody
-
-  lend
-
-  much
-
-  sample
-
-  forest
-
-  size'
-bip_39_word_new_line_11: 'slow
-
-  grab
-
-  horse
-
-  scissors
-
-  embody
-
-  lend
-
-  much
-
-  sample
-
-  forest
-
-  size
-
-  model'
 bip_39_word_new_line_12: 'slow
 
   grab
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slow
   grab
 
   horse'
-bip_39_word_new_line_4: 'slow
-
-  grab
-
-  horse
-
-  scissors'
-bip_39_word_new_line_5: 'slow
-
-  grab
-
-  horse
-
-  scissors
-
-  embody'
-bip_39_word_new_line_6: 'slow
-
-  grab
-
-  horse
-
-  scissors
-
-  embody
-
-  lend'
-bip_39_word_new_line_7: 'slow
-
-  grab
-
-  horse
-
-  scissors
-
-  embody
-
-  lend
-
-  much'
-bip_39_word_new_line_8: 'slow
-
-  grab
-
-  horse
-
-  scissors
-
-  embody
-
-  lend
-
-  much
-
-  sample'
-bip_39_word_new_line_9: 'slow
-
-  grab
-
-  horse
-
-  scissors
-
-  embody
-
-  lend
-
-  much
-
-  sample
-
-  forest'
-bip_39_word_no_space_1: slow
-bip_39_word_no_space_10: slowgrabhorsescissorsembodylendmuchsampleforestsize
-bip_39_word_no_space_11: slowgrabhorsescissorsembodylendmuchsampleforestsizemodel
 bip_39_word_no_space_12: slowgrabhorsescissorsembodylendmuchsampleforestsizemodelall
 bip_39_word_no_space_2: slowgrab
 bip_39_word_no_space_3: slowgrabhorse
-bip_39_word_no_space_4: slowgrabhorsescissors
-bip_39_word_no_space_5: slowgrabhorsescissorsembody
-bip_39_word_no_space_6: slowgrabhorsescissorsembodylend
-bip_39_word_no_space_7: slowgrabhorsescissorsembodylendmuch
-bip_39_word_no_space_8: slowgrabhorsescissorsembodylendmuchsample
-bip_39_word_no_space_9: slowgrabhorsescissorsembodylendmuchsampleforest
-bip_39_word_space_0:
-- slow
-- grab
-- horse
-- scissors
-- embody
-- lend
-- much
-- sample
-- forest
-- size
-- model
-- all
-bip_39_word_space_1: slow
-bip_39_word_space_10: slow grab horse scissors embody lend much sample forest size
-bip_39_word_space_11: slow grab horse scissors embody lend much sample forest size
-  model
 bip_39_word_space_12: slow grab horse scissors embody lend much sample forest size
   model all
 bip_39_word_space_2: slow grab
 bip_39_word_space_3: slow grab horse
-bip_39_word_space_4: slow grab horse scissors
-bip_39_word_space_5: slow grab horse scissors embody
-bip_39_word_space_6: slow grab horse scissors embody lend
-bip_39_word_space_7: slow grab horse scissors embody lend much
-bip_39_word_space_8: slow grab horse scissors embody lend much sample
-bip_39_word_space_9: slow grab horse scissors embody lend much sample forest
-bip_39_word_underscore_1: slow
-bip_39_word_underscore_10: slow_grab_horse_scissors_embody_lend_much_sample_forest_size
-bip_39_word_underscore_11: slow_grab_horse_scissors_embody_lend_much_sample_forest_size_model
 bip_39_word_underscore_12: slow_grab_horse_scissors_embody_lend_much_sample_forest_size_model_all
 bip_39_word_underscore_2: slow_grab
 bip_39_word_underscore_3: slow_grab_horse
-bip_39_word_underscore_4: slow_grab_horse_scissors
-bip_39_word_underscore_5: slow_grab_horse_scissors_embody
-bip_39_word_underscore_6: slow_grab_horse_scissors_embody_lend
-bip_39_word_underscore_7: slow_grab_horse_scissors_embody_lend_much
-bip_39_word_underscore_8: slow_grab_horse_scissors_embody_lend_much_sample
-bip_39_word_underscore_9: slow_grab_horse_scissors_embody_lend_much_sample_forest
 classification: category
 classification_capital: Category
 classification_first_letter: c

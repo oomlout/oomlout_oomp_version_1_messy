@@ -1,68 +1,9 @@
-bip_39_word_dash_1: service
-bip_39_word_dash_10: service-force-family-exercise-young-rain-derive-wing-truth-gaze
-bip_39_word_dash_11: service-force-family-exercise-young-rain-derive-wing-truth-gaze-once
 bip_39_word_dash_12: service-force-family-exercise-young-rain-derive-wing-truth-gaze-once-arrange
 bip_39_word_dash_2: service-force
 bip_39_word_dash_3: service-force-family
-bip_39_word_dash_4: service-force-family-exercise
-bip_39_word_dash_5: service-force-family-exercise-young
-bip_39_word_dash_6: service-force-family-exercise-young-rain
-bip_39_word_dash_7: service-force-family-exercise-young-rain-derive
-bip_39_word_dash_8: service-force-family-exercise-young-rain-derive-wing
-bip_39_word_dash_9: service-force-family-exercise-young-rain-derive-wing-truth
-bip_39_word_new_br_1: service
-bip_39_word_new_br_10: service<br>force<br>family<br>exercise<br>young<br>rain<br>derive<br>wing<br>truth<br>gaze
-bip_39_word_new_br_11: service<br>force<br>family<br>exercise<br>young<br>rain<br>derive<br>wing<br>truth<br>gaze<br>once
 bip_39_word_new_br_12: service<br>force<br>family<br>exercise<br>young<br>rain<br>derive<br>wing<br>truth<br>gaze<br>once<br>arrange
 bip_39_word_new_br_2: service<br>force
 bip_39_word_new_br_3: service<br>force<br>family
-bip_39_word_new_br_4: service<br>force<br>family<br>exercise
-bip_39_word_new_br_5: service<br>force<br>family<br>exercise<br>young
-bip_39_word_new_br_6: service<br>force<br>family<br>exercise<br>young<br>rain
-bip_39_word_new_br_7: service<br>force<br>family<br>exercise<br>young<br>rain<br>derive
-bip_39_word_new_br_8: service<br>force<br>family<br>exercise<br>young<br>rain<br>derive<br>wing
-bip_39_word_new_br_9: service<br>force<br>family<br>exercise<br>young<br>rain<br>derive<br>wing<br>truth
-bip_39_word_new_line_1: service
-bip_39_word_new_line_10: 'service
-
-  force
-
-  family
-
-  exercise
-
-  young
-
-  rain
-
-  derive
-
-  wing
-
-  truth
-
-  gaze'
-bip_39_word_new_line_11: 'service
-
-  force
-
-  family
-
-  exercise
-
-  young
-
-  rain
-
-  derive
-
-  wing
-
-  truth
-
-  gaze
-
-  once'
 bip_39_word_new_line_12: 'service
 
   force
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'service
   force
 
   family'
-bip_39_word_new_line_4: 'service
-
-  force
-
-  family
-
-  exercise'
-bip_39_word_new_line_5: 'service
-
-  force
-
-  family
-
-  exercise
-
-  young'
-bip_39_word_new_line_6: 'service
-
-  force
-
-  family
-
-  exercise
-
-  young
-
-  rain'
-bip_39_word_new_line_7: 'service
-
-  force
-
-  family
-
-  exercise
-
-  young
-
-  rain
-
-  derive'
-bip_39_word_new_line_8: 'service
-
-  force
-
-  family
-
-  exercise
-
-  young
-
-  rain
-
-  derive
-
-  wing'
-bip_39_word_new_line_9: 'service
-
-  force
-
-  family
-
-  exercise
-
-  young
-
-  rain
-
-  derive
-
-  wing
-
-  truth'
-bip_39_word_no_space_1: service
-bip_39_word_no_space_10: serviceforcefamilyexerciseyoungrainderivewingtruthgaze
-bip_39_word_no_space_11: serviceforcefamilyexerciseyoungrainderivewingtruthgazeonce
 bip_39_word_no_space_12: serviceforcefamilyexerciseyoungrainderivewingtruthgazeoncearrange
 bip_39_word_no_space_2: serviceforce
 bip_39_word_no_space_3: serviceforcefamily
-bip_39_word_no_space_4: serviceforcefamilyexercise
-bip_39_word_no_space_5: serviceforcefamilyexerciseyoung
-bip_39_word_no_space_6: serviceforcefamilyexerciseyoungrain
-bip_39_word_no_space_7: serviceforcefamilyexerciseyoungrainderive
-bip_39_word_no_space_8: serviceforcefamilyexerciseyoungrainderivewing
-bip_39_word_no_space_9: serviceforcefamilyexerciseyoungrainderivewingtruth
-bip_39_word_space_0:
-- service
-- force
-- family
-- exercise
-- young
-- rain
-- derive
-- wing
-- truth
-- gaze
-- once
-- arrange
-bip_39_word_space_1: service
-bip_39_word_space_10: service force family exercise young rain derive wing truth gaze
-bip_39_word_space_11: service force family exercise young rain derive wing truth gaze
-  once
 bip_39_word_space_12: service force family exercise young rain derive wing truth gaze
   once arrange
 bip_39_word_space_2: service force
 bip_39_word_space_3: service force family
-bip_39_word_space_4: service force family exercise
-bip_39_word_space_5: service force family exercise young
-bip_39_word_space_6: service force family exercise young rain
-bip_39_word_space_7: service force family exercise young rain derive
-bip_39_word_space_8: service force family exercise young rain derive wing
-bip_39_word_space_9: service force family exercise young rain derive wing truth
-bip_39_word_underscore_1: service
-bip_39_word_underscore_10: service_force_family_exercise_young_rain_derive_wing_truth_gaze
-bip_39_word_underscore_11: service_force_family_exercise_young_rain_derive_wing_truth_gaze_once
 bip_39_word_underscore_12: service_force_family_exercise_young_rain_derive_wing_truth_gaze_once_arrange
 bip_39_word_underscore_2: service_force
 bip_39_word_underscore_3: service_force_family
-bip_39_word_underscore_4: service_force_family_exercise
-bip_39_word_underscore_5: service_force_family_exercise_young
-bip_39_word_underscore_6: service_force_family_exercise_young_rain
-bip_39_word_underscore_7: service_force_family_exercise_young_rain_derive
-bip_39_word_underscore_8: service_force_family_exercise_young_rain_derive_wing
-bip_39_word_underscore_9: service_force_family_exercise_young_rain_derive_wing_truth
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

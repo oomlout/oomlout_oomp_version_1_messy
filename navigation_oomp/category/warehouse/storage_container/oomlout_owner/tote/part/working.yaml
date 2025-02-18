@@ -1,68 +1,9 @@
-bip_39_word_dash_1: solid
-bip_39_word_dash_10: solid-silent-phone-base-orange-taste-cloud-shrimp-orient-adult
-bip_39_word_dash_11: solid-silent-phone-base-orange-taste-cloud-shrimp-orient-adult-barrel
 bip_39_word_dash_12: solid-silent-phone-base-orange-taste-cloud-shrimp-orient-adult-barrel-age
 bip_39_word_dash_2: solid-silent
 bip_39_word_dash_3: solid-silent-phone
-bip_39_word_dash_4: solid-silent-phone-base
-bip_39_word_dash_5: solid-silent-phone-base-orange
-bip_39_word_dash_6: solid-silent-phone-base-orange-taste
-bip_39_word_dash_7: solid-silent-phone-base-orange-taste-cloud
-bip_39_word_dash_8: solid-silent-phone-base-orange-taste-cloud-shrimp
-bip_39_word_dash_9: solid-silent-phone-base-orange-taste-cloud-shrimp-orient
-bip_39_word_new_br_1: solid
-bip_39_word_new_br_10: solid<br>silent<br>phone<br>base<br>orange<br>taste<br>cloud<br>shrimp<br>orient<br>adult
-bip_39_word_new_br_11: solid<br>silent<br>phone<br>base<br>orange<br>taste<br>cloud<br>shrimp<br>orient<br>adult<br>barrel
 bip_39_word_new_br_12: solid<br>silent<br>phone<br>base<br>orange<br>taste<br>cloud<br>shrimp<br>orient<br>adult<br>barrel<br>age
 bip_39_word_new_br_2: solid<br>silent
 bip_39_word_new_br_3: solid<br>silent<br>phone
-bip_39_word_new_br_4: solid<br>silent<br>phone<br>base
-bip_39_word_new_br_5: solid<br>silent<br>phone<br>base<br>orange
-bip_39_word_new_br_6: solid<br>silent<br>phone<br>base<br>orange<br>taste
-bip_39_word_new_br_7: solid<br>silent<br>phone<br>base<br>orange<br>taste<br>cloud
-bip_39_word_new_br_8: solid<br>silent<br>phone<br>base<br>orange<br>taste<br>cloud<br>shrimp
-bip_39_word_new_br_9: solid<br>silent<br>phone<br>base<br>orange<br>taste<br>cloud<br>shrimp<br>orient
-bip_39_word_new_line_1: solid
-bip_39_word_new_line_10: 'solid
-
-  silent
-
-  phone
-
-  base
-
-  orange
-
-  taste
-
-  cloud
-
-  shrimp
-
-  orient
-
-  adult'
-bip_39_word_new_line_11: 'solid
-
-  silent
-
-  phone
-
-  base
-
-  orange
-
-  taste
-
-  cloud
-
-  shrimp
-
-  orient
-
-  adult
-
-  barrel'
 bip_39_word_new_line_12: 'solid
 
   silent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'solid
   silent
 
   phone'
-bip_39_word_new_line_4: 'solid
-
-  silent
-
-  phone
-
-  base'
-bip_39_word_new_line_5: 'solid
-
-  silent
-
-  phone
-
-  base
-
-  orange'
-bip_39_word_new_line_6: 'solid
-
-  silent
-
-  phone
-
-  base
-
-  orange
-
-  taste'
-bip_39_word_new_line_7: 'solid
-
-  silent
-
-  phone
-
-  base
-
-  orange
-
-  taste
-
-  cloud'
-bip_39_word_new_line_8: 'solid
-
-  silent
-
-  phone
-
-  base
-
-  orange
-
-  taste
-
-  cloud
-
-  shrimp'
-bip_39_word_new_line_9: 'solid
-
-  silent
-
-  phone
-
-  base
-
-  orange
-
-  taste
-
-  cloud
-
-  shrimp
-
-  orient'
-bip_39_word_no_space_1: solid
-bip_39_word_no_space_10: solidsilentphonebaseorangetastecloudshrimporientadult
-bip_39_word_no_space_11: solidsilentphonebaseorangetastecloudshrimporientadultbarrel
 bip_39_word_no_space_12: solidsilentphonebaseorangetastecloudshrimporientadultbarrelage
 bip_39_word_no_space_2: solidsilent
 bip_39_word_no_space_3: solidsilentphone
-bip_39_word_no_space_4: solidsilentphonebase
-bip_39_word_no_space_5: solidsilentphonebaseorange
-bip_39_word_no_space_6: solidsilentphonebaseorangetaste
-bip_39_word_no_space_7: solidsilentphonebaseorangetastecloud
-bip_39_word_no_space_8: solidsilentphonebaseorangetastecloudshrimp
-bip_39_word_no_space_9: solidsilentphonebaseorangetastecloudshrimporient
-bip_39_word_space_0:
-- solid
-- silent
-- phone
-- base
-- orange
-- taste
-- cloud
-- shrimp
-- orient
-- adult
-- barrel
-- age
-bip_39_word_space_1: solid
-bip_39_word_space_10: solid silent phone base orange taste cloud shrimp orient adult
-bip_39_word_space_11: solid silent phone base orange taste cloud shrimp orient adult
-  barrel
 bip_39_word_space_12: solid silent phone base orange taste cloud shrimp orient adult
   barrel age
 bip_39_word_space_2: solid silent
 bip_39_word_space_3: solid silent phone
-bip_39_word_space_4: solid silent phone base
-bip_39_word_space_5: solid silent phone base orange
-bip_39_word_space_6: solid silent phone base orange taste
-bip_39_word_space_7: solid silent phone base orange taste cloud
-bip_39_word_space_8: solid silent phone base orange taste cloud shrimp
-bip_39_word_space_9: solid silent phone base orange taste cloud shrimp orient
-bip_39_word_underscore_1: solid
-bip_39_word_underscore_10: solid_silent_phone_base_orange_taste_cloud_shrimp_orient_adult
-bip_39_word_underscore_11: solid_silent_phone_base_orange_taste_cloud_shrimp_orient_adult_barrel
 bip_39_word_underscore_12: solid_silent_phone_base_orange_taste_cloud_shrimp_orient_adult_barrel_age
 bip_39_word_underscore_2: solid_silent
 bip_39_word_underscore_3: solid_silent_phone
-bip_39_word_underscore_4: solid_silent_phone_base
-bip_39_word_underscore_5: solid_silent_phone_base_orange
-bip_39_word_underscore_6: solid_silent_phone_base_orange_taste
-bip_39_word_underscore_7: solid_silent_phone_base_orange_taste_cloud
-bip_39_word_underscore_8: solid_silent_phone_base_orange_taste_cloud_shrimp
-bip_39_word_underscore_9: solid_silent_phone_base_orange_taste_cloud_shrimp_orient
 classification: category
 classification_capital: Category
 classification_first_letter: c

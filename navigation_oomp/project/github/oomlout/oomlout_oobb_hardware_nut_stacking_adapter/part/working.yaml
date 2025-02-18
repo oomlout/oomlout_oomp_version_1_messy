@@ -1,68 +1,9 @@
-bip_39_word_dash_1: relax
-bip_39_word_dash_10: relax-violin-doctor-salad-alone-panic-pig-saddle-erosion-foot
-bip_39_word_dash_11: relax-violin-doctor-salad-alone-panic-pig-saddle-erosion-foot-catch
 bip_39_word_dash_12: relax-violin-doctor-salad-alone-panic-pig-saddle-erosion-foot-catch-advance
 bip_39_word_dash_2: relax-violin
 bip_39_word_dash_3: relax-violin-doctor
-bip_39_word_dash_4: relax-violin-doctor-salad
-bip_39_word_dash_5: relax-violin-doctor-salad-alone
-bip_39_word_dash_6: relax-violin-doctor-salad-alone-panic
-bip_39_word_dash_7: relax-violin-doctor-salad-alone-panic-pig
-bip_39_word_dash_8: relax-violin-doctor-salad-alone-panic-pig-saddle
-bip_39_word_dash_9: relax-violin-doctor-salad-alone-panic-pig-saddle-erosion
-bip_39_word_new_br_1: relax
-bip_39_word_new_br_10: relax<br>violin<br>doctor<br>salad<br>alone<br>panic<br>pig<br>saddle<br>erosion<br>foot
-bip_39_word_new_br_11: relax<br>violin<br>doctor<br>salad<br>alone<br>panic<br>pig<br>saddle<br>erosion<br>foot<br>catch
 bip_39_word_new_br_12: relax<br>violin<br>doctor<br>salad<br>alone<br>panic<br>pig<br>saddle<br>erosion<br>foot<br>catch<br>advance
 bip_39_word_new_br_2: relax<br>violin
 bip_39_word_new_br_3: relax<br>violin<br>doctor
-bip_39_word_new_br_4: relax<br>violin<br>doctor<br>salad
-bip_39_word_new_br_5: relax<br>violin<br>doctor<br>salad<br>alone
-bip_39_word_new_br_6: relax<br>violin<br>doctor<br>salad<br>alone<br>panic
-bip_39_word_new_br_7: relax<br>violin<br>doctor<br>salad<br>alone<br>panic<br>pig
-bip_39_word_new_br_8: relax<br>violin<br>doctor<br>salad<br>alone<br>panic<br>pig<br>saddle
-bip_39_word_new_br_9: relax<br>violin<br>doctor<br>salad<br>alone<br>panic<br>pig<br>saddle<br>erosion
-bip_39_word_new_line_1: relax
-bip_39_word_new_line_10: 'relax
-
-  violin
-
-  doctor
-
-  salad
-
-  alone
-
-  panic
-
-  pig
-
-  saddle
-
-  erosion
-
-  foot'
-bip_39_word_new_line_11: 'relax
-
-  violin
-
-  doctor
-
-  salad
-
-  alone
-
-  panic
-
-  pig
-
-  saddle
-
-  erosion
-
-  foot
-
-  catch'
 bip_39_word_new_line_12: 'relax
 
   violin
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'relax
   violin
 
   doctor'
-bip_39_word_new_line_4: 'relax
-
-  violin
-
-  doctor
-
-  salad'
-bip_39_word_new_line_5: 'relax
-
-  violin
-
-  doctor
-
-  salad
-
-  alone'
-bip_39_word_new_line_6: 'relax
-
-  violin
-
-  doctor
-
-  salad
-
-  alone
-
-  panic'
-bip_39_word_new_line_7: 'relax
-
-  violin
-
-  doctor
-
-  salad
-
-  alone
-
-  panic
-
-  pig'
-bip_39_word_new_line_8: 'relax
-
-  violin
-
-  doctor
-
-  salad
-
-  alone
-
-  panic
-
-  pig
-
-  saddle'
-bip_39_word_new_line_9: 'relax
-
-  violin
-
-  doctor
-
-  salad
-
-  alone
-
-  panic
-
-  pig
-
-  saddle
-
-  erosion'
-bip_39_word_no_space_1: relax
-bip_39_word_no_space_10: relaxviolindoctorsaladalonepanicpigsaddleerosionfoot
-bip_39_word_no_space_11: relaxviolindoctorsaladalonepanicpigsaddleerosionfootcatch
 bip_39_word_no_space_12: relaxviolindoctorsaladalonepanicpigsaddleerosionfootcatchadvance
 bip_39_word_no_space_2: relaxviolin
 bip_39_word_no_space_3: relaxviolindoctor
-bip_39_word_no_space_4: relaxviolindoctorsalad
-bip_39_word_no_space_5: relaxviolindoctorsaladalone
-bip_39_word_no_space_6: relaxviolindoctorsaladalonepanic
-bip_39_word_no_space_7: relaxviolindoctorsaladalonepanicpig
-bip_39_word_no_space_8: relaxviolindoctorsaladalonepanicpigsaddle
-bip_39_word_no_space_9: relaxviolindoctorsaladalonepanicpigsaddleerosion
-bip_39_word_space_0:
-- relax
-- violin
-- doctor
-- salad
-- alone
-- panic
-- pig
-- saddle
-- erosion
-- foot
-- catch
-- advance
-bip_39_word_space_1: relax
-bip_39_word_space_10: relax violin doctor salad alone panic pig saddle erosion foot
-bip_39_word_space_11: relax violin doctor salad alone panic pig saddle erosion foot
-  catch
 bip_39_word_space_12: relax violin doctor salad alone panic pig saddle erosion foot
   catch advance
 bip_39_word_space_2: relax violin
 bip_39_word_space_3: relax violin doctor
-bip_39_word_space_4: relax violin doctor salad
-bip_39_word_space_5: relax violin doctor salad alone
-bip_39_word_space_6: relax violin doctor salad alone panic
-bip_39_word_space_7: relax violin doctor salad alone panic pig
-bip_39_word_space_8: relax violin doctor salad alone panic pig saddle
-bip_39_word_space_9: relax violin doctor salad alone panic pig saddle erosion
-bip_39_word_underscore_1: relax
-bip_39_word_underscore_10: relax_violin_doctor_salad_alone_panic_pig_saddle_erosion_foot
-bip_39_word_underscore_11: relax_violin_doctor_salad_alone_panic_pig_saddle_erosion_foot_catch
 bip_39_word_underscore_12: relax_violin_doctor_salad_alone_panic_pig_saddle_erosion_foot_catch_advance
 bip_39_word_underscore_2: relax_violin
 bip_39_word_underscore_3: relax_violin_doctor
-bip_39_word_underscore_4: relax_violin_doctor_salad
-bip_39_word_underscore_5: relax_violin_doctor_salad_alone
-bip_39_word_underscore_6: relax_violin_doctor_salad_alone_panic
-bip_39_word_underscore_7: relax_violin_doctor_salad_alone_panic_pig
-bip_39_word_underscore_8: relax_violin_doctor_salad_alone_panic_pig_saddle
-bip_39_word_underscore_9: relax_violin_doctor_salad_alone_panic_pig_saddle_erosion
 classification: project
 classification_capital: Project
 classification_first_letter: p

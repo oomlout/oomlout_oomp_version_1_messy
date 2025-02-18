@@ -1,68 +1,9 @@
-bip_39_word_dash_1: predict
-bip_39_word_dash_10: predict-cute-sphere-hood-phone-glare-little-flee-deputy-cargo
-bip_39_word_dash_11: predict-cute-sphere-hood-phone-glare-little-flee-deputy-cargo-popular
 bip_39_word_dash_12: predict-cute-sphere-hood-phone-glare-little-flee-deputy-cargo-popular-attend
 bip_39_word_dash_2: predict-cute
 bip_39_word_dash_3: predict-cute-sphere
-bip_39_word_dash_4: predict-cute-sphere-hood
-bip_39_word_dash_5: predict-cute-sphere-hood-phone
-bip_39_word_dash_6: predict-cute-sphere-hood-phone-glare
-bip_39_word_dash_7: predict-cute-sphere-hood-phone-glare-little
-bip_39_word_dash_8: predict-cute-sphere-hood-phone-glare-little-flee
-bip_39_word_dash_9: predict-cute-sphere-hood-phone-glare-little-flee-deputy
-bip_39_word_new_br_1: predict
-bip_39_word_new_br_10: predict<br>cute<br>sphere<br>hood<br>phone<br>glare<br>little<br>flee<br>deputy<br>cargo
-bip_39_word_new_br_11: predict<br>cute<br>sphere<br>hood<br>phone<br>glare<br>little<br>flee<br>deputy<br>cargo<br>popular
 bip_39_word_new_br_12: predict<br>cute<br>sphere<br>hood<br>phone<br>glare<br>little<br>flee<br>deputy<br>cargo<br>popular<br>attend
 bip_39_word_new_br_2: predict<br>cute
 bip_39_word_new_br_3: predict<br>cute<br>sphere
-bip_39_word_new_br_4: predict<br>cute<br>sphere<br>hood
-bip_39_word_new_br_5: predict<br>cute<br>sphere<br>hood<br>phone
-bip_39_word_new_br_6: predict<br>cute<br>sphere<br>hood<br>phone<br>glare
-bip_39_word_new_br_7: predict<br>cute<br>sphere<br>hood<br>phone<br>glare<br>little
-bip_39_word_new_br_8: predict<br>cute<br>sphere<br>hood<br>phone<br>glare<br>little<br>flee
-bip_39_word_new_br_9: predict<br>cute<br>sphere<br>hood<br>phone<br>glare<br>little<br>flee<br>deputy
-bip_39_word_new_line_1: predict
-bip_39_word_new_line_10: 'predict
-
-  cute
-
-  sphere
-
-  hood
-
-  phone
-
-  glare
-
-  little
-
-  flee
-
-  deputy
-
-  cargo'
-bip_39_word_new_line_11: 'predict
-
-  cute
-
-  sphere
-
-  hood
-
-  phone
-
-  glare
-
-  little
-
-  flee
-
-  deputy
-
-  cargo
-
-  popular'
 bip_39_word_new_line_12: 'predict
 
   cute
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'predict
   cute
 
   sphere'
-bip_39_word_new_line_4: 'predict
-
-  cute
-
-  sphere
-
-  hood'
-bip_39_word_new_line_5: 'predict
-
-  cute
-
-  sphere
-
-  hood
-
-  phone'
-bip_39_word_new_line_6: 'predict
-
-  cute
-
-  sphere
-
-  hood
-
-  phone
-
-  glare'
-bip_39_word_new_line_7: 'predict
-
-  cute
-
-  sphere
-
-  hood
-
-  phone
-
-  glare
-
-  little'
-bip_39_word_new_line_8: 'predict
-
-  cute
-
-  sphere
-
-  hood
-
-  phone
-
-  glare
-
-  little
-
-  flee'
-bip_39_word_new_line_9: 'predict
-
-  cute
-
-  sphere
-
-  hood
-
-  phone
-
-  glare
-
-  little
-
-  flee
-
-  deputy'
-bip_39_word_no_space_1: predict
-bip_39_word_no_space_10: predictcutespherehoodphoneglarelittlefleedeputycargo
-bip_39_word_no_space_11: predictcutespherehoodphoneglarelittlefleedeputycargopopular
 bip_39_word_no_space_12: predictcutespherehoodphoneglarelittlefleedeputycargopopularattend
 bip_39_word_no_space_2: predictcute
 bip_39_word_no_space_3: predictcutesphere
-bip_39_word_no_space_4: predictcutespherehood
-bip_39_word_no_space_5: predictcutespherehoodphone
-bip_39_word_no_space_6: predictcutespherehoodphoneglare
-bip_39_word_no_space_7: predictcutespherehoodphoneglarelittle
-bip_39_word_no_space_8: predictcutespherehoodphoneglarelittleflee
-bip_39_word_no_space_9: predictcutespherehoodphoneglarelittlefleedeputy
-bip_39_word_space_0:
-- predict
-- cute
-- sphere
-- hood
-- phone
-- glare
-- little
-- flee
-- deputy
-- cargo
-- popular
-- attend
-bip_39_word_space_1: predict
-bip_39_word_space_10: predict cute sphere hood phone glare little flee deputy cargo
-bip_39_word_space_11: predict cute sphere hood phone glare little flee deputy cargo
-  popular
 bip_39_word_space_12: predict cute sphere hood phone glare little flee deputy cargo
   popular attend
 bip_39_word_space_2: predict cute
 bip_39_word_space_3: predict cute sphere
-bip_39_word_space_4: predict cute sphere hood
-bip_39_word_space_5: predict cute sphere hood phone
-bip_39_word_space_6: predict cute sphere hood phone glare
-bip_39_word_space_7: predict cute sphere hood phone glare little
-bip_39_word_space_8: predict cute sphere hood phone glare little flee
-bip_39_word_space_9: predict cute sphere hood phone glare little flee deputy
-bip_39_word_underscore_1: predict
-bip_39_word_underscore_10: predict_cute_sphere_hood_phone_glare_little_flee_deputy_cargo
-bip_39_word_underscore_11: predict_cute_sphere_hood_phone_glare_little_flee_deputy_cargo_popular
 bip_39_word_underscore_12: predict_cute_sphere_hood_phone_glare_little_flee_deputy_cargo_popular_attend
 bip_39_word_underscore_2: predict_cute
 bip_39_word_underscore_3: predict_cute_sphere
-bip_39_word_underscore_4: predict_cute_sphere_hood
-bip_39_word_underscore_5: predict_cute_sphere_hood_phone
-bip_39_word_underscore_6: predict_cute_sphere_hood_phone_glare
-bip_39_word_underscore_7: predict_cute_sphere_hood_phone_glare_little
-bip_39_word_underscore_8: predict_cute_sphere_hood_phone_glare_little_flee
-bip_39_word_underscore_9: predict_cute_sphere_hood_phone_glare_little_flee_deputy
 classification: food
 classification_capital: Food
 classification_first_letter: f

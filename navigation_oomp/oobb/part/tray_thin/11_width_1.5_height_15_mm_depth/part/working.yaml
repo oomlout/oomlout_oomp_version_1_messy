@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gas
-bip_39_word_dash_10: gas-rescue-tomorrow-member-method-eyebrow-casual-room-valley-force
-bip_39_word_dash_11: gas-rescue-tomorrow-member-method-eyebrow-casual-room-valley-force-uniform
 bip_39_word_dash_12: gas-rescue-tomorrow-member-method-eyebrow-casual-room-valley-force-uniform-arrive
 bip_39_word_dash_2: gas-rescue
 bip_39_word_dash_3: gas-rescue-tomorrow
-bip_39_word_dash_4: gas-rescue-tomorrow-member
-bip_39_word_dash_5: gas-rescue-tomorrow-member-method
-bip_39_word_dash_6: gas-rescue-tomorrow-member-method-eyebrow
-bip_39_word_dash_7: gas-rescue-tomorrow-member-method-eyebrow-casual
-bip_39_word_dash_8: gas-rescue-tomorrow-member-method-eyebrow-casual-room
-bip_39_word_dash_9: gas-rescue-tomorrow-member-method-eyebrow-casual-room-valley
-bip_39_word_new_br_1: gas
-bip_39_word_new_br_10: gas<br>rescue<br>tomorrow<br>member<br>method<br>eyebrow<br>casual<br>room<br>valley<br>force
-bip_39_word_new_br_11: gas<br>rescue<br>tomorrow<br>member<br>method<br>eyebrow<br>casual<br>room<br>valley<br>force<br>uniform
 bip_39_word_new_br_12: gas<br>rescue<br>tomorrow<br>member<br>method<br>eyebrow<br>casual<br>room<br>valley<br>force<br>uniform<br>arrive
 bip_39_word_new_br_2: gas<br>rescue
 bip_39_word_new_br_3: gas<br>rescue<br>tomorrow
-bip_39_word_new_br_4: gas<br>rescue<br>tomorrow<br>member
-bip_39_word_new_br_5: gas<br>rescue<br>tomorrow<br>member<br>method
-bip_39_word_new_br_6: gas<br>rescue<br>tomorrow<br>member<br>method<br>eyebrow
-bip_39_word_new_br_7: gas<br>rescue<br>tomorrow<br>member<br>method<br>eyebrow<br>casual
-bip_39_word_new_br_8: gas<br>rescue<br>tomorrow<br>member<br>method<br>eyebrow<br>casual<br>room
-bip_39_word_new_br_9: gas<br>rescue<br>tomorrow<br>member<br>method<br>eyebrow<br>casual<br>room<br>valley
-bip_39_word_new_line_1: gas
-bip_39_word_new_line_10: 'gas
-
-  rescue
-
-  tomorrow
-
-  member
-
-  method
-
-  eyebrow
-
-  casual
-
-  room
-
-  valley
-
-  force'
-bip_39_word_new_line_11: 'gas
-
-  rescue
-
-  tomorrow
-
-  member
-
-  method
-
-  eyebrow
-
-  casual
-
-  room
-
-  valley
-
-  force
-
-  uniform'
 bip_39_word_new_line_12: 'gas
 
   rescue
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'gas
   rescue
 
   tomorrow'
-bip_39_word_new_line_4: 'gas
-
-  rescue
-
-  tomorrow
-
-  member'
-bip_39_word_new_line_5: 'gas
-
-  rescue
-
-  tomorrow
-
-  member
-
-  method'
-bip_39_word_new_line_6: 'gas
-
-  rescue
-
-  tomorrow
-
-  member
-
-  method
-
-  eyebrow'
-bip_39_word_new_line_7: 'gas
-
-  rescue
-
-  tomorrow
-
-  member
-
-  method
-
-  eyebrow
-
-  casual'
-bip_39_word_new_line_8: 'gas
-
-  rescue
-
-  tomorrow
-
-  member
-
-  method
-
-  eyebrow
-
-  casual
-
-  room'
-bip_39_word_new_line_9: 'gas
-
-  rescue
-
-  tomorrow
-
-  member
-
-  method
-
-  eyebrow
-
-  casual
-
-  room
-
-  valley'
-bip_39_word_no_space_1: gas
-bip_39_word_no_space_10: gasrescuetomorrowmembermethodeyebrowcasualroomvalleyforce
-bip_39_word_no_space_11: gasrescuetomorrowmembermethodeyebrowcasualroomvalleyforceuniform
 bip_39_word_no_space_12: gasrescuetomorrowmembermethodeyebrowcasualroomvalleyforceuniformarrive
 bip_39_word_no_space_2: gasrescue
 bip_39_word_no_space_3: gasrescuetomorrow
-bip_39_word_no_space_4: gasrescuetomorrowmember
-bip_39_word_no_space_5: gasrescuetomorrowmembermethod
-bip_39_word_no_space_6: gasrescuetomorrowmembermethodeyebrow
-bip_39_word_no_space_7: gasrescuetomorrowmembermethodeyebrowcasual
-bip_39_word_no_space_8: gasrescuetomorrowmembermethodeyebrowcasualroom
-bip_39_word_no_space_9: gasrescuetomorrowmembermethodeyebrowcasualroomvalley
-bip_39_word_space_0:
-- gas
-- rescue
-- tomorrow
-- member
-- method
-- eyebrow
-- casual
-- room
-- valley
-- force
-- uniform
-- arrive
-bip_39_word_space_1: gas
-bip_39_word_space_10: gas rescue tomorrow member method eyebrow casual room valley
-  force
-bip_39_word_space_11: gas rescue tomorrow member method eyebrow casual room valley
-  force uniform
 bip_39_word_space_12: gas rescue tomorrow member method eyebrow casual room valley
   force uniform arrive
 bip_39_word_space_2: gas rescue
 bip_39_word_space_3: gas rescue tomorrow
-bip_39_word_space_4: gas rescue tomorrow member
-bip_39_word_space_5: gas rescue tomorrow member method
-bip_39_word_space_6: gas rescue tomorrow member method eyebrow
-bip_39_word_space_7: gas rescue tomorrow member method eyebrow casual
-bip_39_word_space_8: gas rescue tomorrow member method eyebrow casual room
-bip_39_word_space_9: gas rescue tomorrow member method eyebrow casual room valley
-bip_39_word_underscore_1: gas
-bip_39_word_underscore_10: gas_rescue_tomorrow_member_method_eyebrow_casual_room_valley_force
-bip_39_word_underscore_11: gas_rescue_tomorrow_member_method_eyebrow_casual_room_valley_force_uniform
 bip_39_word_underscore_12: gas_rescue_tomorrow_member_method_eyebrow_casual_room_valley_force_uniform_arrive
 bip_39_word_underscore_2: gas_rescue
 bip_39_word_underscore_3: gas_rescue_tomorrow
-bip_39_word_underscore_4: gas_rescue_tomorrow_member
-bip_39_word_underscore_5: gas_rescue_tomorrow_member_method
-bip_39_word_underscore_6: gas_rescue_tomorrow_member_method_eyebrow
-bip_39_word_underscore_7: gas_rescue_tomorrow_member_method_eyebrow_casual
-bip_39_word_underscore_8: gas_rescue_tomorrow_member_method_eyebrow_casual_room
-bip_39_word_underscore_9: gas_rescue_tomorrow_member_method_eyebrow_casual_room_valley
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

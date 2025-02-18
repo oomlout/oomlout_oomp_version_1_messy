@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ride
-bip_39_word_dash_10: ride-rocket-liquid-alone-merry-reason-permit-museum-purpose-office
-bip_39_word_dash_11: ride-rocket-liquid-alone-merry-reason-permit-museum-purpose-office-reject
 bip_39_word_dash_12: ride-rocket-liquid-alone-merry-reason-permit-museum-purpose-office-reject-address
 bip_39_word_dash_2: ride-rocket
 bip_39_word_dash_3: ride-rocket-liquid
-bip_39_word_dash_4: ride-rocket-liquid-alone
-bip_39_word_dash_5: ride-rocket-liquid-alone-merry
-bip_39_word_dash_6: ride-rocket-liquid-alone-merry-reason
-bip_39_word_dash_7: ride-rocket-liquid-alone-merry-reason-permit
-bip_39_word_dash_8: ride-rocket-liquid-alone-merry-reason-permit-museum
-bip_39_word_dash_9: ride-rocket-liquid-alone-merry-reason-permit-museum-purpose
-bip_39_word_new_br_1: ride
-bip_39_word_new_br_10: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office
-bip_39_word_new_br_11: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject
 bip_39_word_new_br_12: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject<br>address
 bip_39_word_new_br_2: ride<br>rocket
 bip_39_word_new_br_3: ride<br>rocket<br>liquid
-bip_39_word_new_br_4: ride<br>rocket<br>liquid<br>alone
-bip_39_word_new_br_5: ride<br>rocket<br>liquid<br>alone<br>merry
-bip_39_word_new_br_6: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason
-bip_39_word_new_br_7: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit
-bip_39_word_new_br_8: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum
-bip_39_word_new_br_9: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose
-bip_39_word_new_line_1: ride
-bip_39_word_new_line_10: 'ride
-
-  rocket
-
-  liquid
-
-  alone
-
-  merry
-
-  reason
-
-  permit
-
-  museum
-
-  purpose
-
-  office'
-bip_39_word_new_line_11: 'ride
-
-  rocket
-
-  liquid
-
-  alone
-
-  merry
-
-  reason
-
-  permit
-
-  museum
-
-  purpose
-
-  office
-
-  reject'
 bip_39_word_new_line_12: 'ride
 
   rocket
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ride
   rocket
 
   liquid'
-bip_39_word_new_line_4: 'ride
-
-  rocket
-
-  liquid
-
-  alone'
-bip_39_word_new_line_5: 'ride
-
-  rocket
-
-  liquid
-
-  alone
-
-  merry'
-bip_39_word_new_line_6: 'ride
-
-  rocket
-
-  liquid
-
-  alone
-
-  merry
-
-  reason'
-bip_39_word_new_line_7: 'ride
-
-  rocket
-
-  liquid
-
-  alone
-
-  merry
-
-  reason
-
-  permit'
-bip_39_word_new_line_8: 'ride
-
-  rocket
-
-  liquid
-
-  alone
-
-  merry
-
-  reason
-
-  permit
-
-  museum'
-bip_39_word_new_line_9: 'ride
-
-  rocket
-
-  liquid
-
-  alone
-
-  merry
-
-  reason
-
-  permit
-
-  museum
-
-  purpose'
-bip_39_word_no_space_1: ride
-bip_39_word_no_space_10: riderocketliquidalonemerryreasonpermitmuseumpurposeoffice
-bip_39_word_no_space_11: riderocketliquidalonemerryreasonpermitmuseumpurposeofficereject
 bip_39_word_no_space_12: riderocketliquidalonemerryreasonpermitmuseumpurposeofficerejectaddress
 bip_39_word_no_space_2: riderocket
 bip_39_word_no_space_3: riderocketliquid
-bip_39_word_no_space_4: riderocketliquidalone
-bip_39_word_no_space_5: riderocketliquidalonemerry
-bip_39_word_no_space_6: riderocketliquidalonemerryreason
-bip_39_word_no_space_7: riderocketliquidalonemerryreasonpermit
-bip_39_word_no_space_8: riderocketliquidalonemerryreasonpermitmuseum
-bip_39_word_no_space_9: riderocketliquidalonemerryreasonpermitmuseumpurpose
-bip_39_word_space_0:
-- ride
-- rocket
-- liquid
-- alone
-- merry
-- reason
-- permit
-- museum
-- purpose
-- office
-- reject
-- address
-bip_39_word_space_1: ride
-bip_39_word_space_10: ride rocket liquid alone merry reason permit museum purpose
-  office
-bip_39_word_space_11: ride rocket liquid alone merry reason permit museum purpose
-  office reject
 bip_39_word_space_12: ride rocket liquid alone merry reason permit museum purpose
   office reject address
 bip_39_word_space_2: ride rocket
 bip_39_word_space_3: ride rocket liquid
-bip_39_word_space_4: ride rocket liquid alone
-bip_39_word_space_5: ride rocket liquid alone merry
-bip_39_word_space_6: ride rocket liquid alone merry reason
-bip_39_word_space_7: ride rocket liquid alone merry reason permit
-bip_39_word_space_8: ride rocket liquid alone merry reason permit museum
-bip_39_word_space_9: ride rocket liquid alone merry reason permit museum purpose
-bip_39_word_underscore_1: ride
-bip_39_word_underscore_10: ride_rocket_liquid_alone_merry_reason_permit_museum_purpose_office
-bip_39_word_underscore_11: ride_rocket_liquid_alone_merry_reason_permit_museum_purpose_office_reject
 bip_39_word_underscore_12: ride_rocket_liquid_alone_merry_reason_permit_museum_purpose_office_reject_address
 bip_39_word_underscore_2: ride_rocket
 bip_39_word_underscore_3: ride_rocket_liquid
-bip_39_word_underscore_4: ride_rocket_liquid_alone
-bip_39_word_underscore_5: ride_rocket_liquid_alone_merry
-bip_39_word_underscore_6: ride_rocket_liquid_alone_merry_reason
-bip_39_word_underscore_7: ride_rocket_liquid_alone_merry_reason_permit
-bip_39_word_underscore_8: ride_rocket_liquid_alone_merry_reason_permit_museum
-bip_39_word_underscore_9: ride_rocket_liquid_alone_merry_reason_permit_museum_purpose
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

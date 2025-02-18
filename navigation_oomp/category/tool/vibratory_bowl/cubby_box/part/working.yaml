@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tower
-bip_39_word_dash_10: tower-agent-title-civil-obscure-dolphin-tilt-hospital-area-curious
-bip_39_word_dash_11: tower-agent-title-civil-obscure-dolphin-tilt-hospital-area-curious-real
 bip_39_word_dash_12: tower-agent-title-civil-obscure-dolphin-tilt-hospital-area-curious-real-attack
 bip_39_word_dash_2: tower-agent
 bip_39_word_dash_3: tower-agent-title
-bip_39_word_dash_4: tower-agent-title-civil
-bip_39_word_dash_5: tower-agent-title-civil-obscure
-bip_39_word_dash_6: tower-agent-title-civil-obscure-dolphin
-bip_39_word_dash_7: tower-agent-title-civil-obscure-dolphin-tilt
-bip_39_word_dash_8: tower-agent-title-civil-obscure-dolphin-tilt-hospital
-bip_39_word_dash_9: tower-agent-title-civil-obscure-dolphin-tilt-hospital-area
-bip_39_word_new_br_1: tower
-bip_39_word_new_br_10: tower<br>agent<br>title<br>civil<br>obscure<br>dolphin<br>tilt<br>hospital<br>area<br>curious
-bip_39_word_new_br_11: tower<br>agent<br>title<br>civil<br>obscure<br>dolphin<br>tilt<br>hospital<br>area<br>curious<br>real
 bip_39_word_new_br_12: tower<br>agent<br>title<br>civil<br>obscure<br>dolphin<br>tilt<br>hospital<br>area<br>curious<br>real<br>attack
 bip_39_word_new_br_2: tower<br>agent
 bip_39_word_new_br_3: tower<br>agent<br>title
-bip_39_word_new_br_4: tower<br>agent<br>title<br>civil
-bip_39_word_new_br_5: tower<br>agent<br>title<br>civil<br>obscure
-bip_39_word_new_br_6: tower<br>agent<br>title<br>civil<br>obscure<br>dolphin
-bip_39_word_new_br_7: tower<br>agent<br>title<br>civil<br>obscure<br>dolphin<br>tilt
-bip_39_word_new_br_8: tower<br>agent<br>title<br>civil<br>obscure<br>dolphin<br>tilt<br>hospital
-bip_39_word_new_br_9: tower<br>agent<br>title<br>civil<br>obscure<br>dolphin<br>tilt<br>hospital<br>area
-bip_39_word_new_line_1: tower
-bip_39_word_new_line_10: 'tower
-
-  agent
-
-  title
-
-  civil
-
-  obscure
-
-  dolphin
-
-  tilt
-
-  hospital
-
-  area
-
-  curious'
-bip_39_word_new_line_11: 'tower
-
-  agent
-
-  title
-
-  civil
-
-  obscure
-
-  dolphin
-
-  tilt
-
-  hospital
-
-  area
-
-  curious
-
-  real'
 bip_39_word_new_line_12: 'tower
 
   agent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tower
   agent
 
   title'
-bip_39_word_new_line_4: 'tower
-
-  agent
-
-  title
-
-  civil'
-bip_39_word_new_line_5: 'tower
-
-  agent
-
-  title
-
-  civil
-
-  obscure'
-bip_39_word_new_line_6: 'tower
-
-  agent
-
-  title
-
-  civil
-
-  obscure
-
-  dolphin'
-bip_39_word_new_line_7: 'tower
-
-  agent
-
-  title
-
-  civil
-
-  obscure
-
-  dolphin
-
-  tilt'
-bip_39_word_new_line_8: 'tower
-
-  agent
-
-  title
-
-  civil
-
-  obscure
-
-  dolphin
-
-  tilt
-
-  hospital'
-bip_39_word_new_line_9: 'tower
-
-  agent
-
-  title
-
-  civil
-
-  obscure
-
-  dolphin
-
-  tilt
-
-  hospital
-
-  area'
-bip_39_word_no_space_1: tower
-bip_39_word_no_space_10: toweragenttitlecivilobscuredolphintilthospitalareacurious
-bip_39_word_no_space_11: toweragenttitlecivilobscuredolphintilthospitalareacuriousreal
 bip_39_word_no_space_12: toweragenttitlecivilobscuredolphintilthospitalareacuriousrealattack
 bip_39_word_no_space_2: toweragent
 bip_39_word_no_space_3: toweragenttitle
-bip_39_word_no_space_4: toweragenttitlecivil
-bip_39_word_no_space_5: toweragenttitlecivilobscure
-bip_39_word_no_space_6: toweragenttitlecivilobscuredolphin
-bip_39_word_no_space_7: toweragenttitlecivilobscuredolphintilt
-bip_39_word_no_space_8: toweragenttitlecivilobscuredolphintilthospital
-bip_39_word_no_space_9: toweragenttitlecivilobscuredolphintilthospitalarea
-bip_39_word_space_0:
-- tower
-- agent
-- title
-- civil
-- obscure
-- dolphin
-- tilt
-- hospital
-- area
-- curious
-- real
-- attack
-bip_39_word_space_1: tower
-bip_39_word_space_10: tower agent title civil obscure dolphin tilt hospital area curious
-bip_39_word_space_11: tower agent title civil obscure dolphin tilt hospital area curious
-  real
 bip_39_word_space_12: tower agent title civil obscure dolphin tilt hospital area curious
   real attack
 bip_39_word_space_2: tower agent
 bip_39_word_space_3: tower agent title
-bip_39_word_space_4: tower agent title civil
-bip_39_word_space_5: tower agent title civil obscure
-bip_39_word_space_6: tower agent title civil obscure dolphin
-bip_39_word_space_7: tower agent title civil obscure dolphin tilt
-bip_39_word_space_8: tower agent title civil obscure dolphin tilt hospital
-bip_39_word_space_9: tower agent title civil obscure dolphin tilt hospital area
-bip_39_word_underscore_1: tower
-bip_39_word_underscore_10: tower_agent_title_civil_obscure_dolphin_tilt_hospital_area_curious
-bip_39_word_underscore_11: tower_agent_title_civil_obscure_dolphin_tilt_hospital_area_curious_real
 bip_39_word_underscore_12: tower_agent_title_civil_obscure_dolphin_tilt_hospital_area_curious_real_attack
 bip_39_word_underscore_2: tower_agent
 bip_39_word_underscore_3: tower_agent_title
-bip_39_word_underscore_4: tower_agent_title_civil
-bip_39_word_underscore_5: tower_agent_title_civil_obscure
-bip_39_word_underscore_6: tower_agent_title_civil_obscure_dolphin
-bip_39_word_underscore_7: tower_agent_title_civil_obscure_dolphin_tilt
-bip_39_word_underscore_8: tower_agent_title_civil_obscure_dolphin_tilt_hospital
-bip_39_word_underscore_9: tower_agent_title_civil_obscure_dolphin_tilt_hospital_area
 classification: category
 classification_capital: Category
 classification_first_letter: c

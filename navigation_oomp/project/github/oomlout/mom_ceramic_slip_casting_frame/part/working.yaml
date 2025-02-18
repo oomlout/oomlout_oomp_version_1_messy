@@ -1,68 +1,9 @@
-bip_39_word_dash_1: swear
-bip_39_word_dash_10: swear-figure-pilot-neither-shuffle-angle-sheriff-flame-special-awkward
-bip_39_word_dash_11: swear-figure-pilot-neither-shuffle-angle-sheriff-flame-special-awkward-claw
 bip_39_word_dash_12: swear-figure-pilot-neither-shuffle-angle-sheriff-flame-special-awkward-claw-always
 bip_39_word_dash_2: swear-figure
 bip_39_word_dash_3: swear-figure-pilot
-bip_39_word_dash_4: swear-figure-pilot-neither
-bip_39_word_dash_5: swear-figure-pilot-neither-shuffle
-bip_39_word_dash_6: swear-figure-pilot-neither-shuffle-angle
-bip_39_word_dash_7: swear-figure-pilot-neither-shuffle-angle-sheriff
-bip_39_word_dash_8: swear-figure-pilot-neither-shuffle-angle-sheriff-flame
-bip_39_word_dash_9: swear-figure-pilot-neither-shuffle-angle-sheriff-flame-special
-bip_39_word_new_br_1: swear
-bip_39_word_new_br_10: swear<br>figure<br>pilot<br>neither<br>shuffle<br>angle<br>sheriff<br>flame<br>special<br>awkward
-bip_39_word_new_br_11: swear<br>figure<br>pilot<br>neither<br>shuffle<br>angle<br>sheriff<br>flame<br>special<br>awkward<br>claw
 bip_39_word_new_br_12: swear<br>figure<br>pilot<br>neither<br>shuffle<br>angle<br>sheriff<br>flame<br>special<br>awkward<br>claw<br>always
 bip_39_word_new_br_2: swear<br>figure
 bip_39_word_new_br_3: swear<br>figure<br>pilot
-bip_39_word_new_br_4: swear<br>figure<br>pilot<br>neither
-bip_39_word_new_br_5: swear<br>figure<br>pilot<br>neither<br>shuffle
-bip_39_word_new_br_6: swear<br>figure<br>pilot<br>neither<br>shuffle<br>angle
-bip_39_word_new_br_7: swear<br>figure<br>pilot<br>neither<br>shuffle<br>angle<br>sheriff
-bip_39_word_new_br_8: swear<br>figure<br>pilot<br>neither<br>shuffle<br>angle<br>sheriff<br>flame
-bip_39_word_new_br_9: swear<br>figure<br>pilot<br>neither<br>shuffle<br>angle<br>sheriff<br>flame<br>special
-bip_39_word_new_line_1: swear
-bip_39_word_new_line_10: 'swear
-
-  figure
-
-  pilot
-
-  neither
-
-  shuffle
-
-  angle
-
-  sheriff
-
-  flame
-
-  special
-
-  awkward'
-bip_39_word_new_line_11: 'swear
-
-  figure
-
-  pilot
-
-  neither
-
-  shuffle
-
-  angle
-
-  sheriff
-
-  flame
-
-  special
-
-  awkward
-
-  claw'
 bip_39_word_new_line_12: 'swear
 
   figure
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'swear
   figure
 
   pilot'
-bip_39_word_new_line_4: 'swear
-
-  figure
-
-  pilot
-
-  neither'
-bip_39_word_new_line_5: 'swear
-
-  figure
-
-  pilot
-
-  neither
-
-  shuffle'
-bip_39_word_new_line_6: 'swear
-
-  figure
-
-  pilot
-
-  neither
-
-  shuffle
-
-  angle'
-bip_39_word_new_line_7: 'swear
-
-  figure
-
-  pilot
-
-  neither
-
-  shuffle
-
-  angle
-
-  sheriff'
-bip_39_word_new_line_8: 'swear
-
-  figure
-
-  pilot
-
-  neither
-
-  shuffle
-
-  angle
-
-  sheriff
-
-  flame'
-bip_39_word_new_line_9: 'swear
-
-  figure
-
-  pilot
-
-  neither
-
-  shuffle
-
-  angle
-
-  sheriff
-
-  flame
-
-  special'
-bip_39_word_no_space_1: swear
-bip_39_word_no_space_10: swearfigurepilotneithershuffleanglesheriffflamespecialawkward
-bip_39_word_no_space_11: swearfigurepilotneithershuffleanglesheriffflamespecialawkwardclaw
 bip_39_word_no_space_12: swearfigurepilotneithershuffleanglesheriffflamespecialawkwardclawalways
 bip_39_word_no_space_2: swearfigure
 bip_39_word_no_space_3: swearfigurepilot
-bip_39_word_no_space_4: swearfigurepilotneither
-bip_39_word_no_space_5: swearfigurepilotneithershuffle
-bip_39_word_no_space_6: swearfigurepilotneithershuffleangle
-bip_39_word_no_space_7: swearfigurepilotneithershuffleanglesheriff
-bip_39_word_no_space_8: swearfigurepilotneithershuffleanglesheriffflame
-bip_39_word_no_space_9: swearfigurepilotneithershuffleanglesheriffflamespecial
-bip_39_word_space_0:
-- swear
-- figure
-- pilot
-- neither
-- shuffle
-- angle
-- sheriff
-- flame
-- special
-- awkward
-- claw
-- always
-bip_39_word_space_1: swear
-bip_39_word_space_10: swear figure pilot neither shuffle angle sheriff flame special
-  awkward
-bip_39_word_space_11: swear figure pilot neither shuffle angle sheriff flame special
-  awkward claw
 bip_39_word_space_12: swear figure pilot neither shuffle angle sheriff flame special
   awkward claw always
 bip_39_word_space_2: swear figure
 bip_39_word_space_3: swear figure pilot
-bip_39_word_space_4: swear figure pilot neither
-bip_39_word_space_5: swear figure pilot neither shuffle
-bip_39_word_space_6: swear figure pilot neither shuffle angle
-bip_39_word_space_7: swear figure pilot neither shuffle angle sheriff
-bip_39_word_space_8: swear figure pilot neither shuffle angle sheriff flame
-bip_39_word_space_9: swear figure pilot neither shuffle angle sheriff flame special
-bip_39_word_underscore_1: swear
-bip_39_word_underscore_10: swear_figure_pilot_neither_shuffle_angle_sheriff_flame_special_awkward
-bip_39_word_underscore_11: swear_figure_pilot_neither_shuffle_angle_sheriff_flame_special_awkward_claw
 bip_39_word_underscore_12: swear_figure_pilot_neither_shuffle_angle_sheriff_flame_special_awkward_claw_always
 bip_39_word_underscore_2: swear_figure
 bip_39_word_underscore_3: swear_figure_pilot
-bip_39_word_underscore_4: swear_figure_pilot_neither
-bip_39_word_underscore_5: swear_figure_pilot_neither_shuffle
-bip_39_word_underscore_6: swear_figure_pilot_neither_shuffle_angle
-bip_39_word_underscore_7: swear_figure_pilot_neither_shuffle_angle_sheriff
-bip_39_word_underscore_8: swear_figure_pilot_neither_shuffle_angle_sheriff_flame
-bip_39_word_underscore_9: swear_figure_pilot_neither_shuffle_angle_sheriff_flame_special
 classification: project
 classification_capital: Project
 classification_first_letter: p

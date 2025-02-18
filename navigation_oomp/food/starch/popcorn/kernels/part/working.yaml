@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wasp
-bip_39_word_dash_10: wasp-burst-inspire-laugh-uphold-naive-powder-sunset-jewel-paddle
-bip_39_word_dash_11: wasp-burst-inspire-laugh-uphold-naive-powder-sunset-jewel-paddle-mind
 bip_39_word_dash_12: wasp-burst-inspire-laugh-uphold-naive-powder-sunset-jewel-paddle-mind-admit
 bip_39_word_dash_2: wasp-burst
 bip_39_word_dash_3: wasp-burst-inspire
-bip_39_word_dash_4: wasp-burst-inspire-laugh
-bip_39_word_dash_5: wasp-burst-inspire-laugh-uphold
-bip_39_word_dash_6: wasp-burst-inspire-laugh-uphold-naive
-bip_39_word_dash_7: wasp-burst-inspire-laugh-uphold-naive-powder
-bip_39_word_dash_8: wasp-burst-inspire-laugh-uphold-naive-powder-sunset
-bip_39_word_dash_9: wasp-burst-inspire-laugh-uphold-naive-powder-sunset-jewel
-bip_39_word_new_br_1: wasp
-bip_39_word_new_br_10: wasp<br>burst<br>inspire<br>laugh<br>uphold<br>naive<br>powder<br>sunset<br>jewel<br>paddle
-bip_39_word_new_br_11: wasp<br>burst<br>inspire<br>laugh<br>uphold<br>naive<br>powder<br>sunset<br>jewel<br>paddle<br>mind
 bip_39_word_new_br_12: wasp<br>burst<br>inspire<br>laugh<br>uphold<br>naive<br>powder<br>sunset<br>jewel<br>paddle<br>mind<br>admit
 bip_39_word_new_br_2: wasp<br>burst
 bip_39_word_new_br_3: wasp<br>burst<br>inspire
-bip_39_word_new_br_4: wasp<br>burst<br>inspire<br>laugh
-bip_39_word_new_br_5: wasp<br>burst<br>inspire<br>laugh<br>uphold
-bip_39_word_new_br_6: wasp<br>burst<br>inspire<br>laugh<br>uphold<br>naive
-bip_39_word_new_br_7: wasp<br>burst<br>inspire<br>laugh<br>uphold<br>naive<br>powder
-bip_39_word_new_br_8: wasp<br>burst<br>inspire<br>laugh<br>uphold<br>naive<br>powder<br>sunset
-bip_39_word_new_br_9: wasp<br>burst<br>inspire<br>laugh<br>uphold<br>naive<br>powder<br>sunset<br>jewel
-bip_39_word_new_line_1: wasp
-bip_39_word_new_line_10: 'wasp
-
-  burst
-
-  inspire
-
-  laugh
-
-  uphold
-
-  naive
-
-  powder
-
-  sunset
-
-  jewel
-
-  paddle'
-bip_39_word_new_line_11: 'wasp
-
-  burst
-
-  inspire
-
-  laugh
-
-  uphold
-
-  naive
-
-  powder
-
-  sunset
-
-  jewel
-
-  paddle
-
-  mind'
 bip_39_word_new_line_12: 'wasp
 
   burst
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wasp
   burst
 
   inspire'
-bip_39_word_new_line_4: 'wasp
-
-  burst
-
-  inspire
-
-  laugh'
-bip_39_word_new_line_5: 'wasp
-
-  burst
-
-  inspire
-
-  laugh
-
-  uphold'
-bip_39_word_new_line_6: 'wasp
-
-  burst
-
-  inspire
-
-  laugh
-
-  uphold
-
-  naive'
-bip_39_word_new_line_7: 'wasp
-
-  burst
-
-  inspire
-
-  laugh
-
-  uphold
-
-  naive
-
-  powder'
-bip_39_word_new_line_8: 'wasp
-
-  burst
-
-  inspire
-
-  laugh
-
-  uphold
-
-  naive
-
-  powder
-
-  sunset'
-bip_39_word_new_line_9: 'wasp
-
-  burst
-
-  inspire
-
-  laugh
-
-  uphold
-
-  naive
-
-  powder
-
-  sunset
-
-  jewel'
-bip_39_word_no_space_1: wasp
-bip_39_word_no_space_10: waspburstinspirelaughupholdnaivepowdersunsetjewelpaddle
-bip_39_word_no_space_11: waspburstinspirelaughupholdnaivepowdersunsetjewelpaddlemind
 bip_39_word_no_space_12: waspburstinspirelaughupholdnaivepowdersunsetjewelpaddlemindadmit
 bip_39_word_no_space_2: waspburst
 bip_39_word_no_space_3: waspburstinspire
-bip_39_word_no_space_4: waspburstinspirelaugh
-bip_39_word_no_space_5: waspburstinspirelaughuphold
-bip_39_word_no_space_6: waspburstinspirelaughupholdnaive
-bip_39_word_no_space_7: waspburstinspirelaughupholdnaivepowder
-bip_39_word_no_space_8: waspburstinspirelaughupholdnaivepowdersunset
-bip_39_word_no_space_9: waspburstinspirelaughupholdnaivepowdersunsetjewel
-bip_39_word_space_0:
-- wasp
-- burst
-- inspire
-- laugh
-- uphold
-- naive
-- powder
-- sunset
-- jewel
-- paddle
-- mind
-- admit
-bip_39_word_space_1: wasp
-bip_39_word_space_10: wasp burst inspire laugh uphold naive powder sunset jewel paddle
-bip_39_word_space_11: wasp burst inspire laugh uphold naive powder sunset jewel paddle
-  mind
 bip_39_word_space_12: wasp burst inspire laugh uphold naive powder sunset jewel paddle
   mind admit
 bip_39_word_space_2: wasp burst
 bip_39_word_space_3: wasp burst inspire
-bip_39_word_space_4: wasp burst inspire laugh
-bip_39_word_space_5: wasp burst inspire laugh uphold
-bip_39_word_space_6: wasp burst inspire laugh uphold naive
-bip_39_word_space_7: wasp burst inspire laugh uphold naive powder
-bip_39_word_space_8: wasp burst inspire laugh uphold naive powder sunset
-bip_39_word_space_9: wasp burst inspire laugh uphold naive powder sunset jewel
-bip_39_word_underscore_1: wasp
-bip_39_word_underscore_10: wasp_burst_inspire_laugh_uphold_naive_powder_sunset_jewel_paddle
-bip_39_word_underscore_11: wasp_burst_inspire_laugh_uphold_naive_powder_sunset_jewel_paddle_mind
 bip_39_word_underscore_12: wasp_burst_inspire_laugh_uphold_naive_powder_sunset_jewel_paddle_mind_admit
 bip_39_word_underscore_2: wasp_burst
 bip_39_word_underscore_3: wasp_burst_inspire
-bip_39_word_underscore_4: wasp_burst_inspire_laugh
-bip_39_word_underscore_5: wasp_burst_inspire_laugh_uphold
-bip_39_word_underscore_6: wasp_burst_inspire_laugh_uphold_naive
-bip_39_word_underscore_7: wasp_burst_inspire_laugh_uphold_naive_powder
-bip_39_word_underscore_8: wasp_burst_inspire_laugh_uphold_naive_powder_sunset
-bip_39_word_underscore_9: wasp_burst_inspire_laugh_uphold_naive_powder_sunset_jewel
 classification: food
 classification_capital: Food
 classification_first_letter: f

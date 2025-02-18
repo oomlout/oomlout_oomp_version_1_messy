@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grid
-bip_39_word_dash_10: grid-bronze-crazy-give-select-index-loan-fire-owner-rack
-bip_39_word_dash_11: grid-bronze-crazy-give-select-index-loan-fire-owner-rack-inside
 bip_39_word_dash_12: grid-bronze-crazy-give-select-index-loan-fire-owner-rack-inside-amount
 bip_39_word_dash_2: grid-bronze
 bip_39_word_dash_3: grid-bronze-crazy
-bip_39_word_dash_4: grid-bronze-crazy-give
-bip_39_word_dash_5: grid-bronze-crazy-give-select
-bip_39_word_dash_6: grid-bronze-crazy-give-select-index
-bip_39_word_dash_7: grid-bronze-crazy-give-select-index-loan
-bip_39_word_dash_8: grid-bronze-crazy-give-select-index-loan-fire
-bip_39_word_dash_9: grid-bronze-crazy-give-select-index-loan-fire-owner
-bip_39_word_new_br_1: grid
-bip_39_word_new_br_10: grid<br>bronze<br>crazy<br>give<br>select<br>index<br>loan<br>fire<br>owner<br>rack
-bip_39_word_new_br_11: grid<br>bronze<br>crazy<br>give<br>select<br>index<br>loan<br>fire<br>owner<br>rack<br>inside
 bip_39_word_new_br_12: grid<br>bronze<br>crazy<br>give<br>select<br>index<br>loan<br>fire<br>owner<br>rack<br>inside<br>amount
 bip_39_word_new_br_2: grid<br>bronze
 bip_39_word_new_br_3: grid<br>bronze<br>crazy
-bip_39_word_new_br_4: grid<br>bronze<br>crazy<br>give
-bip_39_word_new_br_5: grid<br>bronze<br>crazy<br>give<br>select
-bip_39_word_new_br_6: grid<br>bronze<br>crazy<br>give<br>select<br>index
-bip_39_word_new_br_7: grid<br>bronze<br>crazy<br>give<br>select<br>index<br>loan
-bip_39_word_new_br_8: grid<br>bronze<br>crazy<br>give<br>select<br>index<br>loan<br>fire
-bip_39_word_new_br_9: grid<br>bronze<br>crazy<br>give<br>select<br>index<br>loan<br>fire<br>owner
-bip_39_word_new_line_1: grid
-bip_39_word_new_line_10: 'grid
-
-  bronze
-
-  crazy
-
-  give
-
-  select
-
-  index
-
-  loan
-
-  fire
-
-  owner
-
-  rack'
-bip_39_word_new_line_11: 'grid
-
-  bronze
-
-  crazy
-
-  give
-
-  select
-
-  index
-
-  loan
-
-  fire
-
-  owner
-
-  rack
-
-  inside'
 bip_39_word_new_line_12: 'grid
 
   bronze
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'grid
   bronze
 
   crazy'
-bip_39_word_new_line_4: 'grid
-
-  bronze
-
-  crazy
-
-  give'
-bip_39_word_new_line_5: 'grid
-
-  bronze
-
-  crazy
-
-  give
-
-  select'
-bip_39_word_new_line_6: 'grid
-
-  bronze
-
-  crazy
-
-  give
-
-  select
-
-  index'
-bip_39_word_new_line_7: 'grid
-
-  bronze
-
-  crazy
-
-  give
-
-  select
-
-  index
-
-  loan'
-bip_39_word_new_line_8: 'grid
-
-  bronze
-
-  crazy
-
-  give
-
-  select
-
-  index
-
-  loan
-
-  fire'
-bip_39_word_new_line_9: 'grid
-
-  bronze
-
-  crazy
-
-  give
-
-  select
-
-  index
-
-  loan
-
-  fire
-
-  owner'
-bip_39_word_no_space_1: grid
-bip_39_word_no_space_10: gridbronzecrazygiveselectindexloanfireownerrack
-bip_39_word_no_space_11: gridbronzecrazygiveselectindexloanfireownerrackinside
 bip_39_word_no_space_12: gridbronzecrazygiveselectindexloanfireownerrackinsideamount
 bip_39_word_no_space_2: gridbronze
 bip_39_word_no_space_3: gridbronzecrazy
-bip_39_word_no_space_4: gridbronzecrazygive
-bip_39_word_no_space_5: gridbronzecrazygiveselect
-bip_39_word_no_space_6: gridbronzecrazygiveselectindex
-bip_39_word_no_space_7: gridbronzecrazygiveselectindexloan
-bip_39_word_no_space_8: gridbronzecrazygiveselectindexloanfire
-bip_39_word_no_space_9: gridbronzecrazygiveselectindexloanfireowner
-bip_39_word_space_0:
-- grid
-- bronze
-- crazy
-- give
-- select
-- index
-- loan
-- fire
-- owner
-- rack
-- inside
-- amount
-bip_39_word_space_1: grid
-bip_39_word_space_10: grid bronze crazy give select index loan fire owner rack
-bip_39_word_space_11: grid bronze crazy give select index loan fire owner rack inside
 bip_39_word_space_12: grid bronze crazy give select index loan fire owner rack inside
   amount
 bip_39_word_space_2: grid bronze
 bip_39_word_space_3: grid bronze crazy
-bip_39_word_space_4: grid bronze crazy give
-bip_39_word_space_5: grid bronze crazy give select
-bip_39_word_space_6: grid bronze crazy give select index
-bip_39_word_space_7: grid bronze crazy give select index loan
-bip_39_word_space_8: grid bronze crazy give select index loan fire
-bip_39_word_space_9: grid bronze crazy give select index loan fire owner
-bip_39_word_underscore_1: grid
-bip_39_word_underscore_10: grid_bronze_crazy_give_select_index_loan_fire_owner_rack
-bip_39_word_underscore_11: grid_bronze_crazy_give_select_index_loan_fire_owner_rack_inside
 bip_39_word_underscore_12: grid_bronze_crazy_give_select_index_loan_fire_owner_rack_inside_amount
 bip_39_word_underscore_2: grid_bronze
 bip_39_word_underscore_3: grid_bronze_crazy
-bip_39_word_underscore_4: grid_bronze_crazy_give
-bip_39_word_underscore_5: grid_bronze_crazy_give_select
-bip_39_word_underscore_6: grid_bronze_crazy_give_select_index
-bip_39_word_underscore_7: grid_bronze_crazy_give_select_index_loan
-bip_39_word_underscore_8: grid_bronze_crazy_give_select_index_loan_fire
-bip_39_word_underscore_9: grid_bronze_crazy_give_select_index_loan_fire_owner
 classification: category
 classification_capital: Category
 classification_first_letter: c

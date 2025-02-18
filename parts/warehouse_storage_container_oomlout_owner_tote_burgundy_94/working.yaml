@@ -1,68 +1,9 @@
-bip_39_word_dash_1: diesel
-bip_39_word_dash_10: diesel-dwarf-fall-into-area-cube-name-quarter-equip-favorite
-bip_39_word_dash_11: diesel-dwarf-fall-into-area-cube-name-quarter-equip-favorite-debate
 bip_39_word_dash_12: diesel-dwarf-fall-into-area-cube-name-quarter-equip-favorite-debate-agent
 bip_39_word_dash_2: diesel-dwarf
 bip_39_word_dash_3: diesel-dwarf-fall
-bip_39_word_dash_4: diesel-dwarf-fall-into
-bip_39_word_dash_5: diesel-dwarf-fall-into-area
-bip_39_word_dash_6: diesel-dwarf-fall-into-area-cube
-bip_39_word_dash_7: diesel-dwarf-fall-into-area-cube-name
-bip_39_word_dash_8: diesel-dwarf-fall-into-area-cube-name-quarter
-bip_39_word_dash_9: diesel-dwarf-fall-into-area-cube-name-quarter-equip
-bip_39_word_new_br_1: diesel
-bip_39_word_new_br_10: diesel<br>dwarf<br>fall<br>into<br>area<br>cube<br>name<br>quarter<br>equip<br>favorite
-bip_39_word_new_br_11: diesel<br>dwarf<br>fall<br>into<br>area<br>cube<br>name<br>quarter<br>equip<br>favorite<br>debate
 bip_39_word_new_br_12: diesel<br>dwarf<br>fall<br>into<br>area<br>cube<br>name<br>quarter<br>equip<br>favorite<br>debate<br>agent
 bip_39_word_new_br_2: diesel<br>dwarf
 bip_39_word_new_br_3: diesel<br>dwarf<br>fall
-bip_39_word_new_br_4: diesel<br>dwarf<br>fall<br>into
-bip_39_word_new_br_5: diesel<br>dwarf<br>fall<br>into<br>area
-bip_39_word_new_br_6: diesel<br>dwarf<br>fall<br>into<br>area<br>cube
-bip_39_word_new_br_7: diesel<br>dwarf<br>fall<br>into<br>area<br>cube<br>name
-bip_39_word_new_br_8: diesel<br>dwarf<br>fall<br>into<br>area<br>cube<br>name<br>quarter
-bip_39_word_new_br_9: diesel<br>dwarf<br>fall<br>into<br>area<br>cube<br>name<br>quarter<br>equip
-bip_39_word_new_line_1: diesel
-bip_39_word_new_line_10: 'diesel
-
-  dwarf
-
-  fall
-
-  into
-
-  area
-
-  cube
-
-  name
-
-  quarter
-
-  equip
-
-  favorite'
-bip_39_word_new_line_11: 'diesel
-
-  dwarf
-
-  fall
-
-  into
-
-  area
-
-  cube
-
-  name
-
-  quarter
-
-  equip
-
-  favorite
-
-  debate'
 bip_39_word_new_line_12: 'diesel
 
   dwarf
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'diesel
   dwarf
 
   fall'
-bip_39_word_new_line_4: 'diesel
-
-  dwarf
-
-  fall
-
-  into'
-bip_39_word_new_line_5: 'diesel
-
-  dwarf
-
-  fall
-
-  into
-
-  area'
-bip_39_word_new_line_6: 'diesel
-
-  dwarf
-
-  fall
-
-  into
-
-  area
-
-  cube'
-bip_39_word_new_line_7: 'diesel
-
-  dwarf
-
-  fall
-
-  into
-
-  area
-
-  cube
-
-  name'
-bip_39_word_new_line_8: 'diesel
-
-  dwarf
-
-  fall
-
-  into
-
-  area
-
-  cube
-
-  name
-
-  quarter'
-bip_39_word_new_line_9: 'diesel
-
-  dwarf
-
-  fall
-
-  into
-
-  area
-
-  cube
-
-  name
-
-  quarter
-
-  equip'
-bip_39_word_no_space_1: diesel
-bip_39_word_no_space_10: dieseldwarffallintoareacubenamequarterequipfavorite
-bip_39_word_no_space_11: dieseldwarffallintoareacubenamequarterequipfavoritedebate
 bip_39_word_no_space_12: dieseldwarffallintoareacubenamequarterequipfavoritedebateagent
 bip_39_word_no_space_2: dieseldwarf
 bip_39_word_no_space_3: dieseldwarffall
-bip_39_word_no_space_4: dieseldwarffallinto
-bip_39_word_no_space_5: dieseldwarffallintoarea
-bip_39_word_no_space_6: dieseldwarffallintoareacube
-bip_39_word_no_space_7: dieseldwarffallintoareacubename
-bip_39_word_no_space_8: dieseldwarffallintoareacubenamequarter
-bip_39_word_no_space_9: dieseldwarffallintoareacubenamequarterequip
-bip_39_word_space_0:
-- diesel
-- dwarf
-- fall
-- into
-- area
-- cube
-- name
-- quarter
-- equip
-- favorite
-- debate
-- agent
-bip_39_word_space_1: diesel
-bip_39_word_space_10: diesel dwarf fall into area cube name quarter equip favorite
-bip_39_word_space_11: diesel dwarf fall into area cube name quarter equip favorite
-  debate
 bip_39_word_space_12: diesel dwarf fall into area cube name quarter equip favorite
   debate agent
 bip_39_word_space_2: diesel dwarf
 bip_39_word_space_3: diesel dwarf fall
-bip_39_word_space_4: diesel dwarf fall into
-bip_39_word_space_5: diesel dwarf fall into area
-bip_39_word_space_6: diesel dwarf fall into area cube
-bip_39_word_space_7: diesel dwarf fall into area cube name
-bip_39_word_space_8: diesel dwarf fall into area cube name quarter
-bip_39_word_space_9: diesel dwarf fall into area cube name quarter equip
-bip_39_word_underscore_1: diesel
-bip_39_word_underscore_10: diesel_dwarf_fall_into_area_cube_name_quarter_equip_favorite
-bip_39_word_underscore_11: diesel_dwarf_fall_into_area_cube_name_quarter_equip_favorite_debate
 bip_39_word_underscore_12: diesel_dwarf_fall_into_area_cube_name_quarter_equip_favorite_debate_agent
 bip_39_word_underscore_2: diesel_dwarf
 bip_39_word_underscore_3: diesel_dwarf_fall
-bip_39_word_underscore_4: diesel_dwarf_fall_into
-bip_39_word_underscore_5: diesel_dwarf_fall_into_area
-bip_39_word_underscore_6: diesel_dwarf_fall_into_area_cube
-bip_39_word_underscore_7: diesel_dwarf_fall_into_area_cube_name
-bip_39_word_underscore_8: diesel_dwarf_fall_into_area_cube_name_quarter
-bip_39_word_underscore_9: diesel_dwarf_fall_into_area_cube_name_quarter_equip
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

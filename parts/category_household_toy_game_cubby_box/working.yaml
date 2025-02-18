@@ -1,68 +1,9 @@
-bip_39_word_dash_1: burden
-bip_39_word_dash_10: burden-hurt-home-helmet-mouse-discover-empty-fade-rain-stamp
-bip_39_word_dash_11: burden-hurt-home-helmet-mouse-discover-empty-fade-rain-stamp-exclude
 bip_39_word_dash_12: burden-hurt-home-helmet-mouse-discover-empty-fade-rain-stamp-exclude-arena
 bip_39_word_dash_2: burden-hurt
 bip_39_word_dash_3: burden-hurt-home
-bip_39_word_dash_4: burden-hurt-home-helmet
-bip_39_word_dash_5: burden-hurt-home-helmet-mouse
-bip_39_word_dash_6: burden-hurt-home-helmet-mouse-discover
-bip_39_word_dash_7: burden-hurt-home-helmet-mouse-discover-empty
-bip_39_word_dash_8: burden-hurt-home-helmet-mouse-discover-empty-fade
-bip_39_word_dash_9: burden-hurt-home-helmet-mouse-discover-empty-fade-rain
-bip_39_word_new_br_1: burden
-bip_39_word_new_br_10: burden<br>hurt<br>home<br>helmet<br>mouse<br>discover<br>empty<br>fade<br>rain<br>stamp
-bip_39_word_new_br_11: burden<br>hurt<br>home<br>helmet<br>mouse<br>discover<br>empty<br>fade<br>rain<br>stamp<br>exclude
 bip_39_word_new_br_12: burden<br>hurt<br>home<br>helmet<br>mouse<br>discover<br>empty<br>fade<br>rain<br>stamp<br>exclude<br>arena
 bip_39_word_new_br_2: burden<br>hurt
 bip_39_word_new_br_3: burden<br>hurt<br>home
-bip_39_word_new_br_4: burden<br>hurt<br>home<br>helmet
-bip_39_word_new_br_5: burden<br>hurt<br>home<br>helmet<br>mouse
-bip_39_word_new_br_6: burden<br>hurt<br>home<br>helmet<br>mouse<br>discover
-bip_39_word_new_br_7: burden<br>hurt<br>home<br>helmet<br>mouse<br>discover<br>empty
-bip_39_word_new_br_8: burden<br>hurt<br>home<br>helmet<br>mouse<br>discover<br>empty<br>fade
-bip_39_word_new_br_9: burden<br>hurt<br>home<br>helmet<br>mouse<br>discover<br>empty<br>fade<br>rain
-bip_39_word_new_line_1: burden
-bip_39_word_new_line_10: 'burden
-
-  hurt
-
-  home
-
-  helmet
-
-  mouse
-
-  discover
-
-  empty
-
-  fade
-
-  rain
-
-  stamp'
-bip_39_word_new_line_11: 'burden
-
-  hurt
-
-  home
-
-  helmet
-
-  mouse
-
-  discover
-
-  empty
-
-  fade
-
-  rain
-
-  stamp
-
-  exclude'
 bip_39_word_new_line_12: 'burden
 
   hurt
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'burden
   hurt
 
   home'
-bip_39_word_new_line_4: 'burden
-
-  hurt
-
-  home
-
-  helmet'
-bip_39_word_new_line_5: 'burden
-
-  hurt
-
-  home
-
-  helmet
-
-  mouse'
-bip_39_word_new_line_6: 'burden
-
-  hurt
-
-  home
-
-  helmet
-
-  mouse
-
-  discover'
-bip_39_word_new_line_7: 'burden
-
-  hurt
-
-  home
-
-  helmet
-
-  mouse
-
-  discover
-
-  empty'
-bip_39_word_new_line_8: 'burden
-
-  hurt
-
-  home
-
-  helmet
-
-  mouse
-
-  discover
-
-  empty
-
-  fade'
-bip_39_word_new_line_9: 'burden
-
-  hurt
-
-  home
-
-  helmet
-
-  mouse
-
-  discover
-
-  empty
-
-  fade
-
-  rain'
-bip_39_word_no_space_1: burden
-bip_39_word_no_space_10: burdenhurthomehelmetmousediscoveremptyfaderainstamp
-bip_39_word_no_space_11: burdenhurthomehelmetmousediscoveremptyfaderainstampexclude
 bip_39_word_no_space_12: burdenhurthomehelmetmousediscoveremptyfaderainstampexcludearena
 bip_39_word_no_space_2: burdenhurt
 bip_39_word_no_space_3: burdenhurthome
-bip_39_word_no_space_4: burdenhurthomehelmet
-bip_39_word_no_space_5: burdenhurthomehelmetmouse
-bip_39_word_no_space_6: burdenhurthomehelmetmousediscover
-bip_39_word_no_space_7: burdenhurthomehelmetmousediscoverempty
-bip_39_word_no_space_8: burdenhurthomehelmetmousediscoveremptyfade
-bip_39_word_no_space_9: burdenhurthomehelmetmousediscoveremptyfaderain
-bip_39_word_space_0:
-- burden
-- hurt
-- home
-- helmet
-- mouse
-- discover
-- empty
-- fade
-- rain
-- stamp
-- exclude
-- arena
-bip_39_word_space_1: burden
-bip_39_word_space_10: burden hurt home helmet mouse discover empty fade rain stamp
-bip_39_word_space_11: burden hurt home helmet mouse discover empty fade rain stamp
-  exclude
 bip_39_word_space_12: burden hurt home helmet mouse discover empty fade rain stamp
   exclude arena
 bip_39_word_space_2: burden hurt
 bip_39_word_space_3: burden hurt home
-bip_39_word_space_4: burden hurt home helmet
-bip_39_word_space_5: burden hurt home helmet mouse
-bip_39_word_space_6: burden hurt home helmet mouse discover
-bip_39_word_space_7: burden hurt home helmet mouse discover empty
-bip_39_word_space_8: burden hurt home helmet mouse discover empty fade
-bip_39_word_space_9: burden hurt home helmet mouse discover empty fade rain
-bip_39_word_underscore_1: burden
-bip_39_word_underscore_10: burden_hurt_home_helmet_mouse_discover_empty_fade_rain_stamp
-bip_39_word_underscore_11: burden_hurt_home_helmet_mouse_discover_empty_fade_rain_stamp_exclude
 bip_39_word_underscore_12: burden_hurt_home_helmet_mouse_discover_empty_fade_rain_stamp_exclude_arena
 bip_39_word_underscore_2: burden_hurt
 bip_39_word_underscore_3: burden_hurt_home
-bip_39_word_underscore_4: burden_hurt_home_helmet
-bip_39_word_underscore_5: burden_hurt_home_helmet_mouse
-bip_39_word_underscore_6: burden_hurt_home_helmet_mouse_discover
-bip_39_word_underscore_7: burden_hurt_home_helmet_mouse_discover_empty
-bip_39_word_underscore_8: burden_hurt_home_helmet_mouse_discover_empty_fade
-bip_39_word_underscore_9: burden_hurt_home_helmet_mouse_discover_empty_fade_rain
 classification: category
 classification_capital: Category
 classification_first_letter: c

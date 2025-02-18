@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gold
-bip_39_word_dash_10: gold-member-used-trim-sheriff-purpose-impact-often-execute-carry
-bip_39_word_dash_11: gold-member-used-trim-sheriff-purpose-impact-often-execute-carry-daughter
 bip_39_word_dash_12: gold-member-used-trim-sheriff-purpose-impact-often-execute-carry-daughter-address
 bip_39_word_dash_2: gold-member
 bip_39_word_dash_3: gold-member-used
-bip_39_word_dash_4: gold-member-used-trim
-bip_39_word_dash_5: gold-member-used-trim-sheriff
-bip_39_word_dash_6: gold-member-used-trim-sheriff-purpose
-bip_39_word_dash_7: gold-member-used-trim-sheriff-purpose-impact
-bip_39_word_dash_8: gold-member-used-trim-sheriff-purpose-impact-often
-bip_39_word_dash_9: gold-member-used-trim-sheriff-purpose-impact-often-execute
-bip_39_word_new_br_1: gold
-bip_39_word_new_br_10: gold<br>member<br>used<br>trim<br>sheriff<br>purpose<br>impact<br>often<br>execute<br>carry
-bip_39_word_new_br_11: gold<br>member<br>used<br>trim<br>sheriff<br>purpose<br>impact<br>often<br>execute<br>carry<br>daughter
 bip_39_word_new_br_12: gold<br>member<br>used<br>trim<br>sheriff<br>purpose<br>impact<br>often<br>execute<br>carry<br>daughter<br>address
 bip_39_word_new_br_2: gold<br>member
 bip_39_word_new_br_3: gold<br>member<br>used
-bip_39_word_new_br_4: gold<br>member<br>used<br>trim
-bip_39_word_new_br_5: gold<br>member<br>used<br>trim<br>sheriff
-bip_39_word_new_br_6: gold<br>member<br>used<br>trim<br>sheriff<br>purpose
-bip_39_word_new_br_7: gold<br>member<br>used<br>trim<br>sheriff<br>purpose<br>impact
-bip_39_word_new_br_8: gold<br>member<br>used<br>trim<br>sheriff<br>purpose<br>impact<br>often
-bip_39_word_new_br_9: gold<br>member<br>used<br>trim<br>sheriff<br>purpose<br>impact<br>often<br>execute
-bip_39_word_new_line_1: gold
-bip_39_word_new_line_10: 'gold
-
-  member
-
-  used
-
-  trim
-
-  sheriff
-
-  purpose
-
-  impact
-
-  often
-
-  execute
-
-  carry'
-bip_39_word_new_line_11: 'gold
-
-  member
-
-  used
-
-  trim
-
-  sheriff
-
-  purpose
-
-  impact
-
-  often
-
-  execute
-
-  carry
-
-  daughter'
 bip_39_word_new_line_12: 'gold
 
   member
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gold
   member
 
   used'
-bip_39_word_new_line_4: 'gold
-
-  member
-
-  used
-
-  trim'
-bip_39_word_new_line_5: 'gold
-
-  member
-
-  used
-
-  trim
-
-  sheriff'
-bip_39_word_new_line_6: 'gold
-
-  member
-
-  used
-
-  trim
-
-  sheriff
-
-  purpose'
-bip_39_word_new_line_7: 'gold
-
-  member
-
-  used
-
-  trim
-
-  sheriff
-
-  purpose
-
-  impact'
-bip_39_word_new_line_8: 'gold
-
-  member
-
-  used
-
-  trim
-
-  sheriff
-
-  purpose
-
-  impact
-
-  often'
-bip_39_word_new_line_9: 'gold
-
-  member
-
-  used
-
-  trim
-
-  sheriff
-
-  purpose
-
-  impact
-
-  often
-
-  execute'
-bip_39_word_no_space_1: gold
-bip_39_word_no_space_10: goldmemberusedtrimsheriffpurposeimpactoftenexecutecarry
-bip_39_word_no_space_11: goldmemberusedtrimsheriffpurposeimpactoftenexecutecarrydaughter
 bip_39_word_no_space_12: goldmemberusedtrimsheriffpurposeimpactoftenexecutecarrydaughteraddress
 bip_39_word_no_space_2: goldmember
 bip_39_word_no_space_3: goldmemberused
-bip_39_word_no_space_4: goldmemberusedtrim
-bip_39_word_no_space_5: goldmemberusedtrimsheriff
-bip_39_word_no_space_6: goldmemberusedtrimsheriffpurpose
-bip_39_word_no_space_7: goldmemberusedtrimsheriffpurposeimpact
-bip_39_word_no_space_8: goldmemberusedtrimsheriffpurposeimpactoften
-bip_39_word_no_space_9: goldmemberusedtrimsheriffpurposeimpactoftenexecute
-bip_39_word_space_0:
-- gold
-- member
-- used
-- trim
-- sheriff
-- purpose
-- impact
-- often
-- execute
-- carry
-- daughter
-- address
-bip_39_word_space_1: gold
-bip_39_word_space_10: gold member used trim sheriff purpose impact often execute carry
-bip_39_word_space_11: gold member used trim sheriff purpose impact often execute carry
-  daughter
 bip_39_word_space_12: gold member used trim sheriff purpose impact often execute carry
   daughter address
 bip_39_word_space_2: gold member
 bip_39_word_space_3: gold member used
-bip_39_word_space_4: gold member used trim
-bip_39_word_space_5: gold member used trim sheriff
-bip_39_word_space_6: gold member used trim sheriff purpose
-bip_39_word_space_7: gold member used trim sheriff purpose impact
-bip_39_word_space_8: gold member used trim sheriff purpose impact often
-bip_39_word_space_9: gold member used trim sheriff purpose impact often execute
-bip_39_word_underscore_1: gold
-bip_39_word_underscore_10: gold_member_used_trim_sheriff_purpose_impact_often_execute_carry
-bip_39_word_underscore_11: gold_member_used_trim_sheriff_purpose_impact_often_execute_carry_daughter
 bip_39_word_underscore_12: gold_member_used_trim_sheriff_purpose_impact_often_execute_carry_daughter_address
 bip_39_word_underscore_2: gold_member
 bip_39_word_underscore_3: gold_member_used
-bip_39_word_underscore_4: gold_member_used_trim
-bip_39_word_underscore_5: gold_member_used_trim_sheriff
-bip_39_word_underscore_6: gold_member_used_trim_sheriff_purpose
-bip_39_word_underscore_7: gold_member_used_trim_sheriff_purpose_impact
-bip_39_word_underscore_8: gold_member_used_trim_sheriff_purpose_impact_often
-bip_39_word_underscore_9: gold_member_used_trim_sheriff_purpose_impact_often_execute
 classification: category
 classification_capital: Category
 classification_first_letter: c

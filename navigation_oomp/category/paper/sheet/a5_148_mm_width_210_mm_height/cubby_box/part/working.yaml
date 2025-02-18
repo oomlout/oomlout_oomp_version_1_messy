@@ -1,68 +1,9 @@
-bip_39_word_dash_1: elevator
-bip_39_word_dash_10: elevator-parrot-glimpse-strike-stamp-gain-suit-extend-boy-option
-bip_39_word_dash_11: elevator-parrot-glimpse-strike-stamp-gain-suit-extend-boy-option-kite
 bip_39_word_dash_12: elevator-parrot-glimpse-strike-stamp-gain-suit-extend-boy-option-kite-alter
 bip_39_word_dash_2: elevator-parrot
 bip_39_word_dash_3: elevator-parrot-glimpse
-bip_39_word_dash_4: elevator-parrot-glimpse-strike
-bip_39_word_dash_5: elevator-parrot-glimpse-strike-stamp
-bip_39_word_dash_6: elevator-parrot-glimpse-strike-stamp-gain
-bip_39_word_dash_7: elevator-parrot-glimpse-strike-stamp-gain-suit
-bip_39_word_dash_8: elevator-parrot-glimpse-strike-stamp-gain-suit-extend
-bip_39_word_dash_9: elevator-parrot-glimpse-strike-stamp-gain-suit-extend-boy
-bip_39_word_new_br_1: elevator
-bip_39_word_new_br_10: elevator<br>parrot<br>glimpse<br>strike<br>stamp<br>gain<br>suit<br>extend<br>boy<br>option
-bip_39_word_new_br_11: elevator<br>parrot<br>glimpse<br>strike<br>stamp<br>gain<br>suit<br>extend<br>boy<br>option<br>kite
 bip_39_word_new_br_12: elevator<br>parrot<br>glimpse<br>strike<br>stamp<br>gain<br>suit<br>extend<br>boy<br>option<br>kite<br>alter
 bip_39_word_new_br_2: elevator<br>parrot
 bip_39_word_new_br_3: elevator<br>parrot<br>glimpse
-bip_39_word_new_br_4: elevator<br>parrot<br>glimpse<br>strike
-bip_39_word_new_br_5: elevator<br>parrot<br>glimpse<br>strike<br>stamp
-bip_39_word_new_br_6: elevator<br>parrot<br>glimpse<br>strike<br>stamp<br>gain
-bip_39_word_new_br_7: elevator<br>parrot<br>glimpse<br>strike<br>stamp<br>gain<br>suit
-bip_39_word_new_br_8: elevator<br>parrot<br>glimpse<br>strike<br>stamp<br>gain<br>suit<br>extend
-bip_39_word_new_br_9: elevator<br>parrot<br>glimpse<br>strike<br>stamp<br>gain<br>suit<br>extend<br>boy
-bip_39_word_new_line_1: elevator
-bip_39_word_new_line_10: 'elevator
-
-  parrot
-
-  glimpse
-
-  strike
-
-  stamp
-
-  gain
-
-  suit
-
-  extend
-
-  boy
-
-  option'
-bip_39_word_new_line_11: 'elevator
-
-  parrot
-
-  glimpse
-
-  strike
-
-  stamp
-
-  gain
-
-  suit
-
-  extend
-
-  boy
-
-  option
-
-  kite'
 bip_39_word_new_line_12: 'elevator
 
   parrot
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'elevator
   parrot
 
   glimpse'
-bip_39_word_new_line_4: 'elevator
-
-  parrot
-
-  glimpse
-
-  strike'
-bip_39_word_new_line_5: 'elevator
-
-  parrot
-
-  glimpse
-
-  strike
-
-  stamp'
-bip_39_word_new_line_6: 'elevator
-
-  parrot
-
-  glimpse
-
-  strike
-
-  stamp
-
-  gain'
-bip_39_word_new_line_7: 'elevator
-
-  parrot
-
-  glimpse
-
-  strike
-
-  stamp
-
-  gain
-
-  suit'
-bip_39_word_new_line_8: 'elevator
-
-  parrot
-
-  glimpse
-
-  strike
-
-  stamp
-
-  gain
-
-  suit
-
-  extend'
-bip_39_word_new_line_9: 'elevator
-
-  parrot
-
-  glimpse
-
-  strike
-
-  stamp
-
-  gain
-
-  suit
-
-  extend
-
-  boy'
-bip_39_word_no_space_1: elevator
-bip_39_word_no_space_10: elevatorparrotglimpsestrikestampgainsuitextendboyoption
-bip_39_word_no_space_11: elevatorparrotglimpsestrikestampgainsuitextendboyoptionkite
 bip_39_word_no_space_12: elevatorparrotglimpsestrikestampgainsuitextendboyoptionkitealter
 bip_39_word_no_space_2: elevatorparrot
 bip_39_word_no_space_3: elevatorparrotglimpse
-bip_39_word_no_space_4: elevatorparrotglimpsestrike
-bip_39_word_no_space_5: elevatorparrotglimpsestrikestamp
-bip_39_word_no_space_6: elevatorparrotglimpsestrikestampgain
-bip_39_word_no_space_7: elevatorparrotglimpsestrikestampgainsuit
-bip_39_word_no_space_8: elevatorparrotglimpsestrikestampgainsuitextend
-bip_39_word_no_space_9: elevatorparrotglimpsestrikestampgainsuitextendboy
-bip_39_word_space_0:
-- elevator
-- parrot
-- glimpse
-- strike
-- stamp
-- gain
-- suit
-- extend
-- boy
-- option
-- kite
-- alter
-bip_39_word_space_1: elevator
-bip_39_word_space_10: elevator parrot glimpse strike stamp gain suit extend boy option
-bip_39_word_space_11: elevator parrot glimpse strike stamp gain suit extend boy option
-  kite
 bip_39_word_space_12: elevator parrot glimpse strike stamp gain suit extend boy option
   kite alter
 bip_39_word_space_2: elevator parrot
 bip_39_word_space_3: elevator parrot glimpse
-bip_39_word_space_4: elevator parrot glimpse strike
-bip_39_word_space_5: elevator parrot glimpse strike stamp
-bip_39_word_space_6: elevator parrot glimpse strike stamp gain
-bip_39_word_space_7: elevator parrot glimpse strike stamp gain suit
-bip_39_word_space_8: elevator parrot glimpse strike stamp gain suit extend
-bip_39_word_space_9: elevator parrot glimpse strike stamp gain suit extend boy
-bip_39_word_underscore_1: elevator
-bip_39_word_underscore_10: elevator_parrot_glimpse_strike_stamp_gain_suit_extend_boy_option
-bip_39_word_underscore_11: elevator_parrot_glimpse_strike_stamp_gain_suit_extend_boy_option_kite
 bip_39_word_underscore_12: elevator_parrot_glimpse_strike_stamp_gain_suit_extend_boy_option_kite_alter
 bip_39_word_underscore_2: elevator_parrot
 bip_39_word_underscore_3: elevator_parrot_glimpse
-bip_39_word_underscore_4: elevator_parrot_glimpse_strike
-bip_39_word_underscore_5: elevator_parrot_glimpse_strike_stamp
-bip_39_word_underscore_6: elevator_parrot_glimpse_strike_stamp_gain
-bip_39_word_underscore_7: elevator_parrot_glimpse_strike_stamp_gain_suit
-bip_39_word_underscore_8: elevator_parrot_glimpse_strike_stamp_gain_suit_extend
-bip_39_word_underscore_9: elevator_parrot_glimpse_strike_stamp_gain_suit_extend_boy
 classification: category
 classification_capital: Category
 classification_first_letter: c

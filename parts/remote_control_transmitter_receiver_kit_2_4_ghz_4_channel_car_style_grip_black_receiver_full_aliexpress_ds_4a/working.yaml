@@ -1,68 +1,9 @@
-bip_39_word_dash_1: detect
-bip_39_word_dash_10: detect-decline-curve-defy-decrease-expect-cheese-toddler-urban-diesel
-bip_39_word_dash_11: detect-decline-curve-defy-decrease-expect-cheese-toddler-urban-diesel-symbol
 bip_39_word_dash_12: detect-decline-curve-defy-decrease-expect-cheese-toddler-urban-diesel-symbol-accident
 bip_39_word_dash_2: detect-decline
 bip_39_word_dash_3: detect-decline-curve
-bip_39_word_dash_4: detect-decline-curve-defy
-bip_39_word_dash_5: detect-decline-curve-defy-decrease
-bip_39_word_dash_6: detect-decline-curve-defy-decrease-expect
-bip_39_word_dash_7: detect-decline-curve-defy-decrease-expect-cheese
-bip_39_word_dash_8: detect-decline-curve-defy-decrease-expect-cheese-toddler
-bip_39_word_dash_9: detect-decline-curve-defy-decrease-expect-cheese-toddler-urban
-bip_39_word_new_br_1: detect
-bip_39_word_new_br_10: detect<br>decline<br>curve<br>defy<br>decrease<br>expect<br>cheese<br>toddler<br>urban<br>diesel
-bip_39_word_new_br_11: detect<br>decline<br>curve<br>defy<br>decrease<br>expect<br>cheese<br>toddler<br>urban<br>diesel<br>symbol
 bip_39_word_new_br_12: detect<br>decline<br>curve<br>defy<br>decrease<br>expect<br>cheese<br>toddler<br>urban<br>diesel<br>symbol<br>accident
 bip_39_word_new_br_2: detect<br>decline
 bip_39_word_new_br_3: detect<br>decline<br>curve
-bip_39_word_new_br_4: detect<br>decline<br>curve<br>defy
-bip_39_word_new_br_5: detect<br>decline<br>curve<br>defy<br>decrease
-bip_39_word_new_br_6: detect<br>decline<br>curve<br>defy<br>decrease<br>expect
-bip_39_word_new_br_7: detect<br>decline<br>curve<br>defy<br>decrease<br>expect<br>cheese
-bip_39_word_new_br_8: detect<br>decline<br>curve<br>defy<br>decrease<br>expect<br>cheese<br>toddler
-bip_39_word_new_br_9: detect<br>decline<br>curve<br>defy<br>decrease<br>expect<br>cheese<br>toddler<br>urban
-bip_39_word_new_line_1: detect
-bip_39_word_new_line_10: 'detect
-
-  decline
-
-  curve
-
-  defy
-
-  decrease
-
-  expect
-
-  cheese
-
-  toddler
-
-  urban
-
-  diesel'
-bip_39_word_new_line_11: 'detect
-
-  decline
-
-  curve
-
-  defy
-
-  decrease
-
-  expect
-
-  cheese
-
-  toddler
-
-  urban
-
-  diesel
-
-  symbol'
 bip_39_word_new_line_12: 'detect
 
   decline
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'detect
   decline
 
   curve'
-bip_39_word_new_line_4: 'detect
-
-  decline
-
-  curve
-
-  defy'
-bip_39_word_new_line_5: 'detect
-
-  decline
-
-  curve
-
-  defy
-
-  decrease'
-bip_39_word_new_line_6: 'detect
-
-  decline
-
-  curve
-
-  defy
-
-  decrease
-
-  expect'
-bip_39_word_new_line_7: 'detect
-
-  decline
-
-  curve
-
-  defy
-
-  decrease
-
-  expect
-
-  cheese'
-bip_39_word_new_line_8: 'detect
-
-  decline
-
-  curve
-
-  defy
-
-  decrease
-
-  expect
-
-  cheese
-
-  toddler'
-bip_39_word_new_line_9: 'detect
-
-  decline
-
-  curve
-
-  defy
-
-  decrease
-
-  expect
-
-  cheese
-
-  toddler
-
-  urban'
-bip_39_word_no_space_1: detect
-bip_39_word_no_space_10: detectdeclinecurvedefydecreaseexpectcheesetoddlerurbandiesel
-bip_39_word_no_space_11: detectdeclinecurvedefydecreaseexpectcheesetoddlerurbandieselsymbol
 bip_39_word_no_space_12: detectdeclinecurvedefydecreaseexpectcheesetoddlerurbandieselsymbolaccident
 bip_39_word_no_space_2: detectdecline
 bip_39_word_no_space_3: detectdeclinecurve
-bip_39_word_no_space_4: detectdeclinecurvedefy
-bip_39_word_no_space_5: detectdeclinecurvedefydecrease
-bip_39_word_no_space_6: detectdeclinecurvedefydecreaseexpect
-bip_39_word_no_space_7: detectdeclinecurvedefydecreaseexpectcheese
-bip_39_word_no_space_8: detectdeclinecurvedefydecreaseexpectcheesetoddler
-bip_39_word_no_space_9: detectdeclinecurvedefydecreaseexpectcheesetoddlerurban
-bip_39_word_space_0:
-- detect
-- decline
-- curve
-- defy
-- decrease
-- expect
-- cheese
-- toddler
-- urban
-- diesel
-- symbol
-- accident
-bip_39_word_space_1: detect
-bip_39_word_space_10: detect decline curve defy decrease expect cheese toddler urban
-  diesel
-bip_39_word_space_11: detect decline curve defy decrease expect cheese toddler urban
-  diesel symbol
 bip_39_word_space_12: detect decline curve defy decrease expect cheese toddler urban
   diesel symbol accident
 bip_39_word_space_2: detect decline
 bip_39_word_space_3: detect decline curve
-bip_39_word_space_4: detect decline curve defy
-bip_39_word_space_5: detect decline curve defy decrease
-bip_39_word_space_6: detect decline curve defy decrease expect
-bip_39_word_space_7: detect decline curve defy decrease expect cheese
-bip_39_word_space_8: detect decline curve defy decrease expect cheese toddler
-bip_39_word_space_9: detect decline curve defy decrease expect cheese toddler urban
-bip_39_word_underscore_1: detect
-bip_39_word_underscore_10: detect_decline_curve_defy_decrease_expect_cheese_toddler_urban_diesel
-bip_39_word_underscore_11: detect_decline_curve_defy_decrease_expect_cheese_toddler_urban_diesel_symbol
 bip_39_word_underscore_12: detect_decline_curve_defy_decrease_expect_cheese_toddler_urban_diesel_symbol_accident
 bip_39_word_underscore_2: detect_decline
 bip_39_word_underscore_3: detect_decline_curve
-bip_39_word_underscore_4: detect_decline_curve_defy
-bip_39_word_underscore_5: detect_decline_curve_defy_decrease
-bip_39_word_underscore_6: detect_decline_curve_defy_decrease_expect
-bip_39_word_underscore_7: detect_decline_curve_defy_decrease_expect_cheese
-bip_39_word_underscore_8: detect_decline_curve_defy_decrease_expect_cheese_toddler
-bip_39_word_underscore_9: detect_decline_curve_defy_decrease_expect_cheese_toddler_urban
 classification: remote_control
 classification_capital: Remote Control
 classification_first_letter: r

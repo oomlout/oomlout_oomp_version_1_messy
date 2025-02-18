@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ignore
-bip_39_word_dash_10: ignore-anchor-curve-surprise-raise-critic-success-morning-brand-ethics
-bip_39_word_dash_11: ignore-anchor-curve-surprise-raise-critic-success-morning-brand-ethics-faculty
 bip_39_word_dash_12: ignore-anchor-curve-surprise-raise-critic-success-morning-brand-ethics-faculty-always
 bip_39_word_dash_2: ignore-anchor
 bip_39_word_dash_3: ignore-anchor-curve
-bip_39_word_dash_4: ignore-anchor-curve-surprise
-bip_39_word_dash_5: ignore-anchor-curve-surprise-raise
-bip_39_word_dash_6: ignore-anchor-curve-surprise-raise-critic
-bip_39_word_dash_7: ignore-anchor-curve-surprise-raise-critic-success
-bip_39_word_dash_8: ignore-anchor-curve-surprise-raise-critic-success-morning
-bip_39_word_dash_9: ignore-anchor-curve-surprise-raise-critic-success-morning-brand
-bip_39_word_new_br_1: ignore
-bip_39_word_new_br_10: ignore<br>anchor<br>curve<br>surprise<br>raise<br>critic<br>success<br>morning<br>brand<br>ethics
-bip_39_word_new_br_11: ignore<br>anchor<br>curve<br>surprise<br>raise<br>critic<br>success<br>morning<br>brand<br>ethics<br>faculty
 bip_39_word_new_br_12: ignore<br>anchor<br>curve<br>surprise<br>raise<br>critic<br>success<br>morning<br>brand<br>ethics<br>faculty<br>always
 bip_39_word_new_br_2: ignore<br>anchor
 bip_39_word_new_br_3: ignore<br>anchor<br>curve
-bip_39_word_new_br_4: ignore<br>anchor<br>curve<br>surprise
-bip_39_word_new_br_5: ignore<br>anchor<br>curve<br>surprise<br>raise
-bip_39_word_new_br_6: ignore<br>anchor<br>curve<br>surprise<br>raise<br>critic
-bip_39_word_new_br_7: ignore<br>anchor<br>curve<br>surprise<br>raise<br>critic<br>success
-bip_39_word_new_br_8: ignore<br>anchor<br>curve<br>surprise<br>raise<br>critic<br>success<br>morning
-bip_39_word_new_br_9: ignore<br>anchor<br>curve<br>surprise<br>raise<br>critic<br>success<br>morning<br>brand
-bip_39_word_new_line_1: ignore
-bip_39_word_new_line_10: 'ignore
-
-  anchor
-
-  curve
-
-  surprise
-
-  raise
-
-  critic
-
-  success
-
-  morning
-
-  brand
-
-  ethics'
-bip_39_word_new_line_11: 'ignore
-
-  anchor
-
-  curve
-
-  surprise
-
-  raise
-
-  critic
-
-  success
-
-  morning
-
-  brand
-
-  ethics
-
-  faculty'
 bip_39_word_new_line_12: 'ignore
 
   anchor
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ignore
   anchor
 
   curve'
-bip_39_word_new_line_4: 'ignore
-
-  anchor
-
-  curve
-
-  surprise'
-bip_39_word_new_line_5: 'ignore
-
-  anchor
-
-  curve
-
-  surprise
-
-  raise'
-bip_39_word_new_line_6: 'ignore
-
-  anchor
-
-  curve
-
-  surprise
-
-  raise
-
-  critic'
-bip_39_word_new_line_7: 'ignore
-
-  anchor
-
-  curve
-
-  surprise
-
-  raise
-
-  critic
-
-  success'
-bip_39_word_new_line_8: 'ignore
-
-  anchor
-
-  curve
-
-  surprise
-
-  raise
-
-  critic
-
-  success
-
-  morning'
-bip_39_word_new_line_9: 'ignore
-
-  anchor
-
-  curve
-
-  surprise
-
-  raise
-
-  critic
-
-  success
-
-  morning
-
-  brand'
-bip_39_word_no_space_1: ignore
-bip_39_word_no_space_10: ignoreanchorcurvesurpriseraisecriticsuccessmorningbrandethics
-bip_39_word_no_space_11: ignoreanchorcurvesurpriseraisecriticsuccessmorningbrandethicsfaculty
 bip_39_word_no_space_12: ignoreanchorcurvesurpriseraisecriticsuccessmorningbrandethicsfacultyalways
 bip_39_word_no_space_2: ignoreanchor
 bip_39_word_no_space_3: ignoreanchorcurve
-bip_39_word_no_space_4: ignoreanchorcurvesurprise
-bip_39_word_no_space_5: ignoreanchorcurvesurpriseraise
-bip_39_word_no_space_6: ignoreanchorcurvesurpriseraisecritic
-bip_39_word_no_space_7: ignoreanchorcurvesurpriseraisecriticsuccess
-bip_39_word_no_space_8: ignoreanchorcurvesurpriseraisecriticsuccessmorning
-bip_39_word_no_space_9: ignoreanchorcurvesurpriseraisecriticsuccessmorningbrand
-bip_39_word_space_0:
-- ignore
-- anchor
-- curve
-- surprise
-- raise
-- critic
-- success
-- morning
-- brand
-- ethics
-- faculty
-- always
-bip_39_word_space_1: ignore
-bip_39_word_space_10: ignore anchor curve surprise raise critic success morning brand
-  ethics
-bip_39_word_space_11: ignore anchor curve surprise raise critic success morning brand
-  ethics faculty
 bip_39_word_space_12: ignore anchor curve surprise raise critic success morning brand
   ethics faculty always
 bip_39_word_space_2: ignore anchor
 bip_39_word_space_3: ignore anchor curve
-bip_39_word_space_4: ignore anchor curve surprise
-bip_39_word_space_5: ignore anchor curve surprise raise
-bip_39_word_space_6: ignore anchor curve surprise raise critic
-bip_39_word_space_7: ignore anchor curve surprise raise critic success
-bip_39_word_space_8: ignore anchor curve surprise raise critic success morning
-bip_39_word_space_9: ignore anchor curve surprise raise critic success morning brand
-bip_39_word_underscore_1: ignore
-bip_39_word_underscore_10: ignore_anchor_curve_surprise_raise_critic_success_morning_brand_ethics
-bip_39_word_underscore_11: ignore_anchor_curve_surprise_raise_critic_success_morning_brand_ethics_faculty
 bip_39_word_underscore_12: ignore_anchor_curve_surprise_raise_critic_success_morning_brand_ethics_faculty_always
 bip_39_word_underscore_2: ignore_anchor
 bip_39_word_underscore_3: ignore_anchor_curve
-bip_39_word_underscore_4: ignore_anchor_curve_surprise
-bip_39_word_underscore_5: ignore_anchor_curve_surprise_raise
-bip_39_word_underscore_6: ignore_anchor_curve_surprise_raise_critic
-bip_39_word_underscore_7: ignore_anchor_curve_surprise_raise_critic_success
-bip_39_word_underscore_8: ignore_anchor_curve_surprise_raise_critic_success_morning
-bip_39_word_underscore_9: ignore_anchor_curve_surprise_raise_critic_success_morning_brand
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

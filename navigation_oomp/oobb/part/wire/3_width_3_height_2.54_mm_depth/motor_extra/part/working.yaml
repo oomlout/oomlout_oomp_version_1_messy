@@ -1,68 +1,9 @@
-bip_39_word_dash_1: relax
-bip_39_word_dash_10: relax-shove-glory-they-pull-museum-produce-hurry-prize-monkey
-bip_39_word_dash_11: relax-shove-glory-they-pull-museum-produce-hurry-prize-monkey-organ
 bip_39_word_dash_12: relax-shove-glory-they-pull-museum-produce-hurry-prize-monkey-organ-appear
 bip_39_word_dash_2: relax-shove
 bip_39_word_dash_3: relax-shove-glory
-bip_39_word_dash_4: relax-shove-glory-they
-bip_39_word_dash_5: relax-shove-glory-they-pull
-bip_39_word_dash_6: relax-shove-glory-they-pull-museum
-bip_39_word_dash_7: relax-shove-glory-they-pull-museum-produce
-bip_39_word_dash_8: relax-shove-glory-they-pull-museum-produce-hurry
-bip_39_word_dash_9: relax-shove-glory-they-pull-museum-produce-hurry-prize
-bip_39_word_new_br_1: relax
-bip_39_word_new_br_10: relax<br>shove<br>glory<br>they<br>pull<br>museum<br>produce<br>hurry<br>prize<br>monkey
-bip_39_word_new_br_11: relax<br>shove<br>glory<br>they<br>pull<br>museum<br>produce<br>hurry<br>prize<br>monkey<br>organ
 bip_39_word_new_br_12: relax<br>shove<br>glory<br>they<br>pull<br>museum<br>produce<br>hurry<br>prize<br>monkey<br>organ<br>appear
 bip_39_word_new_br_2: relax<br>shove
 bip_39_word_new_br_3: relax<br>shove<br>glory
-bip_39_word_new_br_4: relax<br>shove<br>glory<br>they
-bip_39_word_new_br_5: relax<br>shove<br>glory<br>they<br>pull
-bip_39_word_new_br_6: relax<br>shove<br>glory<br>they<br>pull<br>museum
-bip_39_word_new_br_7: relax<br>shove<br>glory<br>they<br>pull<br>museum<br>produce
-bip_39_word_new_br_8: relax<br>shove<br>glory<br>they<br>pull<br>museum<br>produce<br>hurry
-bip_39_word_new_br_9: relax<br>shove<br>glory<br>they<br>pull<br>museum<br>produce<br>hurry<br>prize
-bip_39_word_new_line_1: relax
-bip_39_word_new_line_10: 'relax
-
-  shove
-
-  glory
-
-  they
-
-  pull
-
-  museum
-
-  produce
-
-  hurry
-
-  prize
-
-  monkey'
-bip_39_word_new_line_11: 'relax
-
-  shove
-
-  glory
-
-  they
-
-  pull
-
-  museum
-
-  produce
-
-  hurry
-
-  prize
-
-  monkey
-
-  organ'
 bip_39_word_new_line_12: 'relax
 
   shove
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'relax
   shove
 
   glory'
-bip_39_word_new_line_4: 'relax
-
-  shove
-
-  glory
-
-  they'
-bip_39_word_new_line_5: 'relax
-
-  shove
-
-  glory
-
-  they
-
-  pull'
-bip_39_word_new_line_6: 'relax
-
-  shove
-
-  glory
-
-  they
-
-  pull
-
-  museum'
-bip_39_word_new_line_7: 'relax
-
-  shove
-
-  glory
-
-  they
-
-  pull
-
-  museum
-
-  produce'
-bip_39_word_new_line_8: 'relax
-
-  shove
-
-  glory
-
-  they
-
-  pull
-
-  museum
-
-  produce
-
-  hurry'
-bip_39_word_new_line_9: 'relax
-
-  shove
-
-  glory
-
-  they
-
-  pull
-
-  museum
-
-  produce
-
-  hurry
-
-  prize'
-bip_39_word_no_space_1: relax
-bip_39_word_no_space_10: relaxshoveglorytheypullmuseumproducehurryprizemonkey
-bip_39_word_no_space_11: relaxshoveglorytheypullmuseumproducehurryprizemonkeyorgan
 bip_39_word_no_space_12: relaxshoveglorytheypullmuseumproducehurryprizemonkeyorganappear
 bip_39_word_no_space_2: relaxshove
 bip_39_word_no_space_3: relaxshoveglory
-bip_39_word_no_space_4: relaxshoveglorythey
-bip_39_word_no_space_5: relaxshoveglorytheypull
-bip_39_word_no_space_6: relaxshoveglorytheypullmuseum
-bip_39_word_no_space_7: relaxshoveglorytheypullmuseumproduce
-bip_39_word_no_space_8: relaxshoveglorytheypullmuseumproducehurry
-bip_39_word_no_space_9: relaxshoveglorytheypullmuseumproducehurryprize
-bip_39_word_space_0:
-- relax
-- shove
-- glory
-- they
-- pull
-- museum
-- produce
-- hurry
-- prize
-- monkey
-- organ
-- appear
-bip_39_word_space_1: relax
-bip_39_word_space_10: relax shove glory they pull museum produce hurry prize monkey
-bip_39_word_space_11: relax shove glory they pull museum produce hurry prize monkey
-  organ
 bip_39_word_space_12: relax shove glory they pull museum produce hurry prize monkey
   organ appear
 bip_39_word_space_2: relax shove
 bip_39_word_space_3: relax shove glory
-bip_39_word_space_4: relax shove glory they
-bip_39_word_space_5: relax shove glory they pull
-bip_39_word_space_6: relax shove glory they pull museum
-bip_39_word_space_7: relax shove glory they pull museum produce
-bip_39_word_space_8: relax shove glory they pull museum produce hurry
-bip_39_word_space_9: relax shove glory they pull museum produce hurry prize
-bip_39_word_underscore_1: relax
-bip_39_word_underscore_10: relax_shove_glory_they_pull_museum_produce_hurry_prize_monkey
-bip_39_word_underscore_11: relax_shove_glory_they_pull_museum_produce_hurry_prize_monkey_organ
 bip_39_word_underscore_12: relax_shove_glory_they_pull_museum_produce_hurry_prize_monkey_organ_appear
 bip_39_word_underscore_2: relax_shove
 bip_39_word_underscore_3: relax_shove_glory
-bip_39_word_underscore_4: relax_shove_glory_they
-bip_39_word_underscore_5: relax_shove_glory_they_pull
-bip_39_word_underscore_6: relax_shove_glory_they_pull_museum
-bip_39_word_underscore_7: relax_shove_glory_they_pull_museum_produce
-bip_39_word_underscore_8: relax_shove_glory_they_pull_museum_produce_hurry
-bip_39_word_underscore_9: relax_shove_glory_they_pull_museum_produce_hurry_prize
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flavor
-bip_39_word_dash_10: flavor-fine-mountain-dutch-cruise-butter-snow-cattle-mail-boat
-bip_39_word_dash_11: flavor-fine-mountain-dutch-cruise-butter-snow-cattle-mail-boat-congress
 bip_39_word_dash_12: flavor-fine-mountain-dutch-cruise-butter-snow-cattle-mail-boat-congress-alert
 bip_39_word_dash_2: flavor-fine
 bip_39_word_dash_3: flavor-fine-mountain
-bip_39_word_dash_4: flavor-fine-mountain-dutch
-bip_39_word_dash_5: flavor-fine-mountain-dutch-cruise
-bip_39_word_dash_6: flavor-fine-mountain-dutch-cruise-butter
-bip_39_word_dash_7: flavor-fine-mountain-dutch-cruise-butter-snow
-bip_39_word_dash_8: flavor-fine-mountain-dutch-cruise-butter-snow-cattle
-bip_39_word_dash_9: flavor-fine-mountain-dutch-cruise-butter-snow-cattle-mail
-bip_39_word_new_br_1: flavor
-bip_39_word_new_br_10: flavor<br>fine<br>mountain<br>dutch<br>cruise<br>butter<br>snow<br>cattle<br>mail<br>boat
-bip_39_word_new_br_11: flavor<br>fine<br>mountain<br>dutch<br>cruise<br>butter<br>snow<br>cattle<br>mail<br>boat<br>congress
 bip_39_word_new_br_12: flavor<br>fine<br>mountain<br>dutch<br>cruise<br>butter<br>snow<br>cattle<br>mail<br>boat<br>congress<br>alert
 bip_39_word_new_br_2: flavor<br>fine
 bip_39_word_new_br_3: flavor<br>fine<br>mountain
-bip_39_word_new_br_4: flavor<br>fine<br>mountain<br>dutch
-bip_39_word_new_br_5: flavor<br>fine<br>mountain<br>dutch<br>cruise
-bip_39_word_new_br_6: flavor<br>fine<br>mountain<br>dutch<br>cruise<br>butter
-bip_39_word_new_br_7: flavor<br>fine<br>mountain<br>dutch<br>cruise<br>butter<br>snow
-bip_39_word_new_br_8: flavor<br>fine<br>mountain<br>dutch<br>cruise<br>butter<br>snow<br>cattle
-bip_39_word_new_br_9: flavor<br>fine<br>mountain<br>dutch<br>cruise<br>butter<br>snow<br>cattle<br>mail
-bip_39_word_new_line_1: flavor
-bip_39_word_new_line_10: 'flavor
-
-  fine
-
-  mountain
-
-  dutch
-
-  cruise
-
-  butter
-
-  snow
-
-  cattle
-
-  mail
-
-  boat'
-bip_39_word_new_line_11: 'flavor
-
-  fine
-
-  mountain
-
-  dutch
-
-  cruise
-
-  butter
-
-  snow
-
-  cattle
-
-  mail
-
-  boat
-
-  congress'
 bip_39_word_new_line_12: 'flavor
 
   fine
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'flavor
   fine
 
   mountain'
-bip_39_word_new_line_4: 'flavor
-
-  fine
-
-  mountain
-
-  dutch'
-bip_39_word_new_line_5: 'flavor
-
-  fine
-
-  mountain
-
-  dutch
-
-  cruise'
-bip_39_word_new_line_6: 'flavor
-
-  fine
-
-  mountain
-
-  dutch
-
-  cruise
-
-  butter'
-bip_39_word_new_line_7: 'flavor
-
-  fine
-
-  mountain
-
-  dutch
-
-  cruise
-
-  butter
-
-  snow'
-bip_39_word_new_line_8: 'flavor
-
-  fine
-
-  mountain
-
-  dutch
-
-  cruise
-
-  butter
-
-  snow
-
-  cattle'
-bip_39_word_new_line_9: 'flavor
-
-  fine
-
-  mountain
-
-  dutch
-
-  cruise
-
-  butter
-
-  snow
-
-  cattle
-
-  mail'
-bip_39_word_no_space_1: flavor
-bip_39_word_no_space_10: flavorfinemountaindutchcruisebuttersnowcattlemailboat
-bip_39_word_no_space_11: flavorfinemountaindutchcruisebuttersnowcattlemailboatcongress
 bip_39_word_no_space_12: flavorfinemountaindutchcruisebuttersnowcattlemailboatcongressalert
 bip_39_word_no_space_2: flavorfine
 bip_39_word_no_space_3: flavorfinemountain
-bip_39_word_no_space_4: flavorfinemountaindutch
-bip_39_word_no_space_5: flavorfinemountaindutchcruise
-bip_39_word_no_space_6: flavorfinemountaindutchcruisebutter
-bip_39_word_no_space_7: flavorfinemountaindutchcruisebuttersnow
-bip_39_word_no_space_8: flavorfinemountaindutchcruisebuttersnowcattle
-bip_39_word_no_space_9: flavorfinemountaindutchcruisebuttersnowcattlemail
-bip_39_word_space_0:
-- flavor
-- fine
-- mountain
-- dutch
-- cruise
-- butter
-- snow
-- cattle
-- mail
-- boat
-- congress
-- alert
-bip_39_word_space_1: flavor
-bip_39_word_space_10: flavor fine mountain dutch cruise butter snow cattle mail boat
-bip_39_word_space_11: flavor fine mountain dutch cruise butter snow cattle mail boat
-  congress
 bip_39_word_space_12: flavor fine mountain dutch cruise butter snow cattle mail boat
   congress alert
 bip_39_word_space_2: flavor fine
 bip_39_word_space_3: flavor fine mountain
-bip_39_word_space_4: flavor fine mountain dutch
-bip_39_word_space_5: flavor fine mountain dutch cruise
-bip_39_word_space_6: flavor fine mountain dutch cruise butter
-bip_39_word_space_7: flavor fine mountain dutch cruise butter snow
-bip_39_word_space_8: flavor fine mountain dutch cruise butter snow cattle
-bip_39_word_space_9: flavor fine mountain dutch cruise butter snow cattle mail
-bip_39_word_underscore_1: flavor
-bip_39_word_underscore_10: flavor_fine_mountain_dutch_cruise_butter_snow_cattle_mail_boat
-bip_39_word_underscore_11: flavor_fine_mountain_dutch_cruise_butter_snow_cattle_mail_boat_congress
 bip_39_word_underscore_12: flavor_fine_mountain_dutch_cruise_butter_snow_cattle_mail_boat_congress_alert
 bip_39_word_underscore_2: flavor_fine
 bip_39_word_underscore_3: flavor_fine_mountain
-bip_39_word_underscore_4: flavor_fine_mountain_dutch
-bip_39_word_underscore_5: flavor_fine_mountain_dutch_cruise
-bip_39_word_underscore_6: flavor_fine_mountain_dutch_cruise_butter
-bip_39_word_underscore_7: flavor_fine_mountain_dutch_cruise_butter_snow
-bip_39_word_underscore_8: flavor_fine_mountain_dutch_cruise_butter_snow_cattle
-bip_39_word_underscore_9: flavor_fine_mountain_dutch_cruise_butter_snow_cattle_mail
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

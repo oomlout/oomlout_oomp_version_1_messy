@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sun
-bip_39_word_dash_10: sun-volume-feed-scan-resemble-genius-execute-need-lamp-ketchup
-bip_39_word_dash_11: sun-volume-feed-scan-resemble-genius-execute-need-lamp-ketchup-stairs
 bip_39_word_dash_12: sun-volume-feed-scan-resemble-genius-execute-need-lamp-ketchup-stairs-arrange
 bip_39_word_dash_2: sun-volume
 bip_39_word_dash_3: sun-volume-feed
-bip_39_word_dash_4: sun-volume-feed-scan
-bip_39_word_dash_5: sun-volume-feed-scan-resemble
-bip_39_word_dash_6: sun-volume-feed-scan-resemble-genius
-bip_39_word_dash_7: sun-volume-feed-scan-resemble-genius-execute
-bip_39_word_dash_8: sun-volume-feed-scan-resemble-genius-execute-need
-bip_39_word_dash_9: sun-volume-feed-scan-resemble-genius-execute-need-lamp
-bip_39_word_new_br_1: sun
-bip_39_word_new_br_10: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup
-bip_39_word_new_br_11: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup<br>stairs
 bip_39_word_new_br_12: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup<br>stairs<br>arrange
 bip_39_word_new_br_2: sun<br>volume
 bip_39_word_new_br_3: sun<br>volume<br>feed
-bip_39_word_new_br_4: sun<br>volume<br>feed<br>scan
-bip_39_word_new_br_5: sun<br>volume<br>feed<br>scan<br>resemble
-bip_39_word_new_br_6: sun<br>volume<br>feed<br>scan<br>resemble<br>genius
-bip_39_word_new_br_7: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute
-bip_39_word_new_br_8: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need
-bip_39_word_new_br_9: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp
-bip_39_word_new_line_1: sun
-bip_39_word_new_line_10: 'sun
-
-  volume
-
-  feed
-
-  scan
-
-  resemble
-
-  genius
-
-  execute
-
-  need
-
-  lamp
-
-  ketchup'
-bip_39_word_new_line_11: 'sun
-
-  volume
-
-  feed
-
-  scan
-
-  resemble
-
-  genius
-
-  execute
-
-  need
-
-  lamp
-
-  ketchup
-
-  stairs'
 bip_39_word_new_line_12: 'sun
 
   volume
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sun
   volume
 
   feed'
-bip_39_word_new_line_4: 'sun
-
-  volume
-
-  feed
-
-  scan'
-bip_39_word_new_line_5: 'sun
-
-  volume
-
-  feed
-
-  scan
-
-  resemble'
-bip_39_word_new_line_6: 'sun
-
-  volume
-
-  feed
-
-  scan
-
-  resemble
-
-  genius'
-bip_39_word_new_line_7: 'sun
-
-  volume
-
-  feed
-
-  scan
-
-  resemble
-
-  genius
-
-  execute'
-bip_39_word_new_line_8: 'sun
-
-  volume
-
-  feed
-
-  scan
-
-  resemble
-
-  genius
-
-  execute
-
-  need'
-bip_39_word_new_line_9: 'sun
-
-  volume
-
-  feed
-
-  scan
-
-  resemble
-
-  genius
-
-  execute
-
-  need
-
-  lamp'
-bip_39_word_no_space_1: sun
-bip_39_word_no_space_10: sunvolumefeedscanresemblegeniusexecuteneedlampketchup
-bip_39_word_no_space_11: sunvolumefeedscanresemblegeniusexecuteneedlampketchupstairs
 bip_39_word_no_space_12: sunvolumefeedscanresemblegeniusexecuteneedlampketchupstairsarrange
 bip_39_word_no_space_2: sunvolume
 bip_39_word_no_space_3: sunvolumefeed
-bip_39_word_no_space_4: sunvolumefeedscan
-bip_39_word_no_space_5: sunvolumefeedscanresemble
-bip_39_word_no_space_6: sunvolumefeedscanresemblegenius
-bip_39_word_no_space_7: sunvolumefeedscanresemblegeniusexecute
-bip_39_word_no_space_8: sunvolumefeedscanresemblegeniusexecuteneed
-bip_39_word_no_space_9: sunvolumefeedscanresemblegeniusexecuteneedlamp
-bip_39_word_space_0:
-- sun
-- volume
-- feed
-- scan
-- resemble
-- genius
-- execute
-- need
-- lamp
-- ketchup
-- stairs
-- arrange
-bip_39_word_space_1: sun
-bip_39_word_space_10: sun volume feed scan resemble genius execute need lamp ketchup
-bip_39_word_space_11: sun volume feed scan resemble genius execute need lamp ketchup
-  stairs
 bip_39_word_space_12: sun volume feed scan resemble genius execute need lamp ketchup
   stairs arrange
 bip_39_word_space_2: sun volume
 bip_39_word_space_3: sun volume feed
-bip_39_word_space_4: sun volume feed scan
-bip_39_word_space_5: sun volume feed scan resemble
-bip_39_word_space_6: sun volume feed scan resemble genius
-bip_39_word_space_7: sun volume feed scan resemble genius execute
-bip_39_word_space_8: sun volume feed scan resemble genius execute need
-bip_39_word_space_9: sun volume feed scan resemble genius execute need lamp
-bip_39_word_underscore_1: sun
-bip_39_word_underscore_10: sun_volume_feed_scan_resemble_genius_execute_need_lamp_ketchup
-bip_39_word_underscore_11: sun_volume_feed_scan_resemble_genius_execute_need_lamp_ketchup_stairs
 bip_39_word_underscore_12: sun_volume_feed_scan_resemble_genius_execute_need_lamp_ketchup_stairs_arrange
 bip_39_word_underscore_2: sun_volume
 bip_39_word_underscore_3: sun_volume_feed
-bip_39_word_underscore_4: sun_volume_feed_scan
-bip_39_word_underscore_5: sun_volume_feed_scan_resemble
-bip_39_word_underscore_6: sun_volume_feed_scan_resemble_genius
-bip_39_word_underscore_7: sun_volume_feed_scan_resemble_genius_execute
-bip_39_word_underscore_8: sun_volume_feed_scan_resemble_genius_execute_need
-bip_39_word_underscore_9: sun_volume_feed_scan_resemble_genius_execute_need_lamp
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unique
-bip_39_word_dash_10: unique-dwarf-daring-clap-october-captain-expire-prefer-indicate-between
-bip_39_word_dash_11: unique-dwarf-daring-clap-october-captain-expire-prefer-indicate-between-blossom
 bip_39_word_dash_12: unique-dwarf-daring-clap-october-captain-expire-prefer-indicate-between-blossom-agree
 bip_39_word_dash_2: unique-dwarf
 bip_39_word_dash_3: unique-dwarf-daring
-bip_39_word_dash_4: unique-dwarf-daring-clap
-bip_39_word_dash_5: unique-dwarf-daring-clap-october
-bip_39_word_dash_6: unique-dwarf-daring-clap-october-captain
-bip_39_word_dash_7: unique-dwarf-daring-clap-october-captain-expire
-bip_39_word_dash_8: unique-dwarf-daring-clap-october-captain-expire-prefer
-bip_39_word_dash_9: unique-dwarf-daring-clap-october-captain-expire-prefer-indicate
-bip_39_word_new_br_1: unique
-bip_39_word_new_br_10: unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between
-bip_39_word_new_br_11: unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between<br>blossom
 bip_39_word_new_br_12: unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate<br>between<br>blossom<br>agree
 bip_39_word_new_br_2: unique<br>dwarf
 bip_39_word_new_br_3: unique<br>dwarf<br>daring
-bip_39_word_new_br_4: unique<br>dwarf<br>daring<br>clap
-bip_39_word_new_br_5: unique<br>dwarf<br>daring<br>clap<br>october
-bip_39_word_new_br_6: unique<br>dwarf<br>daring<br>clap<br>october<br>captain
-bip_39_word_new_br_7: unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire
-bip_39_word_new_br_8: unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer
-bip_39_word_new_br_9: unique<br>dwarf<br>daring<br>clap<br>october<br>captain<br>expire<br>prefer<br>indicate
-bip_39_word_new_line_1: unique
-bip_39_word_new_line_10: 'unique
-
-  dwarf
-
-  daring
-
-  clap
-
-  october
-
-  captain
-
-  expire
-
-  prefer
-
-  indicate
-
-  between'
-bip_39_word_new_line_11: 'unique
-
-  dwarf
-
-  daring
-
-  clap
-
-  october
-
-  captain
-
-  expire
-
-  prefer
-
-  indicate
-
-  between
-
-  blossom'
 bip_39_word_new_line_12: 'unique
 
   dwarf
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'unique
   dwarf
 
   daring'
-bip_39_word_new_line_4: 'unique
-
-  dwarf
-
-  daring
-
-  clap'
-bip_39_word_new_line_5: 'unique
-
-  dwarf
-
-  daring
-
-  clap
-
-  october'
-bip_39_word_new_line_6: 'unique
-
-  dwarf
-
-  daring
-
-  clap
-
-  october
-
-  captain'
-bip_39_word_new_line_7: 'unique
-
-  dwarf
-
-  daring
-
-  clap
-
-  october
-
-  captain
-
-  expire'
-bip_39_word_new_line_8: 'unique
-
-  dwarf
-
-  daring
-
-  clap
-
-  october
-
-  captain
-
-  expire
-
-  prefer'
-bip_39_word_new_line_9: 'unique
-
-  dwarf
-
-  daring
-
-  clap
-
-  october
-
-  captain
-
-  expire
-
-  prefer
-
-  indicate'
-bip_39_word_no_space_1: unique
-bip_39_word_no_space_10: uniquedwarfdaringclapoctobercaptainexpirepreferindicatebetween
-bip_39_word_no_space_11: uniquedwarfdaringclapoctobercaptainexpirepreferindicatebetweenblossom
 bip_39_word_no_space_12: uniquedwarfdaringclapoctobercaptainexpirepreferindicatebetweenblossomagree
 bip_39_word_no_space_2: uniquedwarf
 bip_39_word_no_space_3: uniquedwarfdaring
-bip_39_word_no_space_4: uniquedwarfdaringclap
-bip_39_word_no_space_5: uniquedwarfdaringclapoctober
-bip_39_word_no_space_6: uniquedwarfdaringclapoctobercaptain
-bip_39_word_no_space_7: uniquedwarfdaringclapoctobercaptainexpire
-bip_39_word_no_space_8: uniquedwarfdaringclapoctobercaptainexpireprefer
-bip_39_word_no_space_9: uniquedwarfdaringclapoctobercaptainexpirepreferindicate
-bip_39_word_space_0:
-- unique
-- dwarf
-- daring
-- clap
-- october
-- captain
-- expire
-- prefer
-- indicate
-- between
-- blossom
-- agree
-bip_39_word_space_1: unique
-bip_39_word_space_10: unique dwarf daring clap october captain expire prefer indicate
-  between
-bip_39_word_space_11: unique dwarf daring clap october captain expire prefer indicate
-  between blossom
 bip_39_word_space_12: unique dwarf daring clap october captain expire prefer indicate
   between blossom agree
 bip_39_word_space_2: unique dwarf
 bip_39_word_space_3: unique dwarf daring
-bip_39_word_space_4: unique dwarf daring clap
-bip_39_word_space_5: unique dwarf daring clap october
-bip_39_word_space_6: unique dwarf daring clap october captain
-bip_39_word_space_7: unique dwarf daring clap october captain expire
-bip_39_word_space_8: unique dwarf daring clap october captain expire prefer
-bip_39_word_space_9: unique dwarf daring clap october captain expire prefer indicate
-bip_39_word_underscore_1: unique
-bip_39_word_underscore_10: unique_dwarf_daring_clap_october_captain_expire_prefer_indicate_between
-bip_39_word_underscore_11: unique_dwarf_daring_clap_october_captain_expire_prefer_indicate_between_blossom
 bip_39_word_underscore_12: unique_dwarf_daring_clap_october_captain_expire_prefer_indicate_between_blossom_agree
 bip_39_word_underscore_2: unique_dwarf
 bip_39_word_underscore_3: unique_dwarf_daring
-bip_39_word_underscore_4: unique_dwarf_daring_clap
-bip_39_word_underscore_5: unique_dwarf_daring_clap_october
-bip_39_word_underscore_6: unique_dwarf_daring_clap_october_captain
-bip_39_word_underscore_7: unique_dwarf_daring_clap_october_captain_expire
-bip_39_word_underscore_8: unique_dwarf_daring_clap_october_captain_expire_prefer
-bip_39_word_underscore_9: unique_dwarf_daring_clap_october_captain_expire_prefer_indicate
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

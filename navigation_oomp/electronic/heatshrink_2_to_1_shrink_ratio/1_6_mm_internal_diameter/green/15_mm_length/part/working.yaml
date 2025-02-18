@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stone
-bip_39_word_dash_10: stone-shallow-build-true-sweet-bulb-anchor-pepper-divorce-bacon
-bip_39_word_dash_11: stone-shallow-build-true-sweet-bulb-anchor-pepper-divorce-bacon-click
 bip_39_word_dash_12: stone-shallow-build-true-sweet-bulb-anchor-pepper-divorce-bacon-click-asthma
 bip_39_word_dash_2: stone-shallow
 bip_39_word_dash_3: stone-shallow-build
-bip_39_word_dash_4: stone-shallow-build-true
-bip_39_word_dash_5: stone-shallow-build-true-sweet
-bip_39_word_dash_6: stone-shallow-build-true-sweet-bulb
-bip_39_word_dash_7: stone-shallow-build-true-sweet-bulb-anchor
-bip_39_word_dash_8: stone-shallow-build-true-sweet-bulb-anchor-pepper
-bip_39_word_dash_9: stone-shallow-build-true-sweet-bulb-anchor-pepper-divorce
-bip_39_word_new_br_1: stone
-bip_39_word_new_br_10: stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce<br>bacon
-bip_39_word_new_br_11: stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce<br>bacon<br>click
 bip_39_word_new_br_12: stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce<br>bacon<br>click<br>asthma
 bip_39_word_new_br_2: stone<br>shallow
 bip_39_word_new_br_3: stone<br>shallow<br>build
-bip_39_word_new_br_4: stone<br>shallow<br>build<br>true
-bip_39_word_new_br_5: stone<br>shallow<br>build<br>true<br>sweet
-bip_39_word_new_br_6: stone<br>shallow<br>build<br>true<br>sweet<br>bulb
-bip_39_word_new_br_7: stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor
-bip_39_word_new_br_8: stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper
-bip_39_word_new_br_9: stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce
-bip_39_word_new_line_1: stone
-bip_39_word_new_line_10: 'stone
-
-  shallow
-
-  build
-
-  true
-
-  sweet
-
-  bulb
-
-  anchor
-
-  pepper
-
-  divorce
-
-  bacon'
-bip_39_word_new_line_11: 'stone
-
-  shallow
-
-  build
-
-  true
-
-  sweet
-
-  bulb
-
-  anchor
-
-  pepper
-
-  divorce
-
-  bacon
-
-  click'
 bip_39_word_new_line_12: 'stone
 
   shallow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'stone
   shallow
 
   build'
-bip_39_word_new_line_4: 'stone
-
-  shallow
-
-  build
-
-  true'
-bip_39_word_new_line_5: 'stone
-
-  shallow
-
-  build
-
-  true
-
-  sweet'
-bip_39_word_new_line_6: 'stone
-
-  shallow
-
-  build
-
-  true
-
-  sweet
-
-  bulb'
-bip_39_word_new_line_7: 'stone
-
-  shallow
-
-  build
-
-  true
-
-  sweet
-
-  bulb
-
-  anchor'
-bip_39_word_new_line_8: 'stone
-
-  shallow
-
-  build
-
-  true
-
-  sweet
-
-  bulb
-
-  anchor
-
-  pepper'
-bip_39_word_new_line_9: 'stone
-
-  shallow
-
-  build
-
-  true
-
-  sweet
-
-  bulb
-
-  anchor
-
-  pepper
-
-  divorce'
-bip_39_word_no_space_1: stone
-bip_39_word_no_space_10: stoneshallowbuildtruesweetbulbanchorpepperdivorcebacon
-bip_39_word_no_space_11: stoneshallowbuildtruesweetbulbanchorpepperdivorcebaconclick
 bip_39_word_no_space_12: stoneshallowbuildtruesweetbulbanchorpepperdivorcebaconclickasthma
 bip_39_word_no_space_2: stoneshallow
 bip_39_word_no_space_3: stoneshallowbuild
-bip_39_word_no_space_4: stoneshallowbuildtrue
-bip_39_word_no_space_5: stoneshallowbuildtruesweet
-bip_39_word_no_space_6: stoneshallowbuildtruesweetbulb
-bip_39_word_no_space_7: stoneshallowbuildtruesweetbulbanchor
-bip_39_word_no_space_8: stoneshallowbuildtruesweetbulbanchorpepper
-bip_39_word_no_space_9: stoneshallowbuildtruesweetbulbanchorpepperdivorce
-bip_39_word_space_0:
-- stone
-- shallow
-- build
-- 'true'
-- sweet
-- bulb
-- anchor
-- pepper
-- divorce
-- bacon
-- click
-- asthma
-bip_39_word_space_1: stone
-bip_39_word_space_10: stone shallow build true sweet bulb anchor pepper divorce bacon
-bip_39_word_space_11: stone shallow build true sweet bulb anchor pepper divorce bacon
-  click
 bip_39_word_space_12: stone shallow build true sweet bulb anchor pepper divorce bacon
   click asthma
 bip_39_word_space_2: stone shallow
 bip_39_word_space_3: stone shallow build
-bip_39_word_space_4: stone shallow build true
-bip_39_word_space_5: stone shallow build true sweet
-bip_39_word_space_6: stone shallow build true sweet bulb
-bip_39_word_space_7: stone shallow build true sweet bulb anchor
-bip_39_word_space_8: stone shallow build true sweet bulb anchor pepper
-bip_39_word_space_9: stone shallow build true sweet bulb anchor pepper divorce
-bip_39_word_underscore_1: stone
-bip_39_word_underscore_10: stone_shallow_build_true_sweet_bulb_anchor_pepper_divorce_bacon
-bip_39_word_underscore_11: stone_shallow_build_true_sweet_bulb_anchor_pepper_divorce_bacon_click
 bip_39_word_underscore_12: stone_shallow_build_true_sweet_bulb_anchor_pepper_divorce_bacon_click_asthma
 bip_39_word_underscore_2: stone_shallow
 bip_39_word_underscore_3: stone_shallow_build
-bip_39_word_underscore_4: stone_shallow_build_true
-bip_39_word_underscore_5: stone_shallow_build_true_sweet
-bip_39_word_underscore_6: stone_shallow_build_true_sweet_bulb
-bip_39_word_underscore_7: stone_shallow_build_true_sweet_bulb_anchor
-bip_39_word_underscore_8: stone_shallow_build_true_sweet_bulb_anchor_pepper
-bip_39_word_underscore_9: stone_shallow_build_true_sweet_bulb_anchor_pepper_divorce
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

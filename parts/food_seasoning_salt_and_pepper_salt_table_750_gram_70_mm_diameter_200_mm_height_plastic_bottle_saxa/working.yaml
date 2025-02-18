@@ -1,68 +1,9 @@
-bip_39_word_dash_1: net
-bip_39_word_dash_10: net-expand-island-brush-mom-repeat-angle-anchor-phrase-reward
-bip_39_word_dash_11: net-expand-island-brush-mom-repeat-angle-anchor-phrase-reward-gold
 bip_39_word_dash_12: net-expand-island-brush-mom-repeat-angle-anchor-phrase-reward-gold-ahead
 bip_39_word_dash_2: net-expand
 bip_39_word_dash_3: net-expand-island
-bip_39_word_dash_4: net-expand-island-brush
-bip_39_word_dash_5: net-expand-island-brush-mom
-bip_39_word_dash_6: net-expand-island-brush-mom-repeat
-bip_39_word_dash_7: net-expand-island-brush-mom-repeat-angle
-bip_39_word_dash_8: net-expand-island-brush-mom-repeat-angle-anchor
-bip_39_word_dash_9: net-expand-island-brush-mom-repeat-angle-anchor-phrase
-bip_39_word_new_br_1: net
-bip_39_word_new_br_10: net<br>expand<br>island<br>brush<br>mom<br>repeat<br>angle<br>anchor<br>phrase<br>reward
-bip_39_word_new_br_11: net<br>expand<br>island<br>brush<br>mom<br>repeat<br>angle<br>anchor<br>phrase<br>reward<br>gold
 bip_39_word_new_br_12: net<br>expand<br>island<br>brush<br>mom<br>repeat<br>angle<br>anchor<br>phrase<br>reward<br>gold<br>ahead
 bip_39_word_new_br_2: net<br>expand
 bip_39_word_new_br_3: net<br>expand<br>island
-bip_39_word_new_br_4: net<br>expand<br>island<br>brush
-bip_39_word_new_br_5: net<br>expand<br>island<br>brush<br>mom
-bip_39_word_new_br_6: net<br>expand<br>island<br>brush<br>mom<br>repeat
-bip_39_word_new_br_7: net<br>expand<br>island<br>brush<br>mom<br>repeat<br>angle
-bip_39_word_new_br_8: net<br>expand<br>island<br>brush<br>mom<br>repeat<br>angle<br>anchor
-bip_39_word_new_br_9: net<br>expand<br>island<br>brush<br>mom<br>repeat<br>angle<br>anchor<br>phrase
-bip_39_word_new_line_1: net
-bip_39_word_new_line_10: 'net
-
-  expand
-
-  island
-
-  brush
-
-  mom
-
-  repeat
-
-  angle
-
-  anchor
-
-  phrase
-
-  reward'
-bip_39_word_new_line_11: 'net
-
-  expand
-
-  island
-
-  brush
-
-  mom
-
-  repeat
-
-  angle
-
-  anchor
-
-  phrase
-
-  reward
-
-  gold'
 bip_39_word_new_line_12: 'net
 
   expand
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'net
   expand
 
   island'
-bip_39_word_new_line_4: 'net
-
-  expand
-
-  island
-
-  brush'
-bip_39_word_new_line_5: 'net
-
-  expand
-
-  island
-
-  brush
-
-  mom'
-bip_39_word_new_line_6: 'net
-
-  expand
-
-  island
-
-  brush
-
-  mom
-
-  repeat'
-bip_39_word_new_line_7: 'net
-
-  expand
-
-  island
-
-  brush
-
-  mom
-
-  repeat
-
-  angle'
-bip_39_word_new_line_8: 'net
-
-  expand
-
-  island
-
-  brush
-
-  mom
-
-  repeat
-
-  angle
-
-  anchor'
-bip_39_word_new_line_9: 'net
-
-  expand
-
-  island
-
-  brush
-
-  mom
-
-  repeat
-
-  angle
-
-  anchor
-
-  phrase'
-bip_39_word_no_space_1: net
-bip_39_word_no_space_10: netexpandislandbrushmomrepeatangleanchorphrasereward
-bip_39_word_no_space_11: netexpandislandbrushmomrepeatangleanchorphraserewardgold
 bip_39_word_no_space_12: netexpandislandbrushmomrepeatangleanchorphraserewardgoldahead
 bip_39_word_no_space_2: netexpand
 bip_39_word_no_space_3: netexpandisland
-bip_39_word_no_space_4: netexpandislandbrush
-bip_39_word_no_space_5: netexpandislandbrushmom
-bip_39_word_no_space_6: netexpandislandbrushmomrepeat
-bip_39_word_no_space_7: netexpandislandbrushmomrepeatangle
-bip_39_word_no_space_8: netexpandislandbrushmomrepeatangleanchor
-bip_39_word_no_space_9: netexpandislandbrushmomrepeatangleanchorphrase
-bip_39_word_space_0:
-- net
-- expand
-- island
-- brush
-- mom
-- repeat
-- angle
-- anchor
-- phrase
-- reward
-- gold
-- ahead
-bip_39_word_space_1: net
-bip_39_word_space_10: net expand island brush mom repeat angle anchor phrase reward
-bip_39_word_space_11: net expand island brush mom repeat angle anchor phrase reward
-  gold
 bip_39_word_space_12: net expand island brush mom repeat angle anchor phrase reward
   gold ahead
 bip_39_word_space_2: net expand
 bip_39_word_space_3: net expand island
-bip_39_word_space_4: net expand island brush
-bip_39_word_space_5: net expand island brush mom
-bip_39_word_space_6: net expand island brush mom repeat
-bip_39_word_space_7: net expand island brush mom repeat angle
-bip_39_word_space_8: net expand island brush mom repeat angle anchor
-bip_39_word_space_9: net expand island brush mom repeat angle anchor phrase
-bip_39_word_underscore_1: net
-bip_39_word_underscore_10: net_expand_island_brush_mom_repeat_angle_anchor_phrase_reward
-bip_39_word_underscore_11: net_expand_island_brush_mom_repeat_angle_anchor_phrase_reward_gold
 bip_39_word_underscore_12: net_expand_island_brush_mom_repeat_angle_anchor_phrase_reward_gold_ahead
 bip_39_word_underscore_2: net_expand
 bip_39_word_underscore_3: net_expand_island
-bip_39_word_underscore_4: net_expand_island_brush
-bip_39_word_underscore_5: net_expand_island_brush_mom
-bip_39_word_underscore_6: net_expand_island_brush_mom_repeat
-bip_39_word_underscore_7: net_expand_island_brush_mom_repeat_angle
-bip_39_word_underscore_8: net_expand_island_brush_mom_repeat_angle_anchor
-bip_39_word_underscore_9: net_expand_island_brush_mom_repeat_angle_anchor_phrase
 classification: food
 classification_capital: Food
 classification_first_letter: f

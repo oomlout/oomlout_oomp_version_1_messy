@@ -1,68 +1,9 @@
-bip_39_word_dash_1: success
-bip_39_word_dash_10: success-coffee-kangaroo-cave-priority-riot-when-spoil-fox-mule
-bip_39_word_dash_11: success-coffee-kangaroo-cave-priority-riot-when-spoil-fox-mule-again
 bip_39_word_dash_12: success-coffee-kangaroo-cave-priority-riot-when-spoil-fox-mule-again-amount
 bip_39_word_dash_2: success-coffee
 bip_39_word_dash_3: success-coffee-kangaroo
-bip_39_word_dash_4: success-coffee-kangaroo-cave
-bip_39_word_dash_5: success-coffee-kangaroo-cave-priority
-bip_39_word_dash_6: success-coffee-kangaroo-cave-priority-riot
-bip_39_word_dash_7: success-coffee-kangaroo-cave-priority-riot-when
-bip_39_word_dash_8: success-coffee-kangaroo-cave-priority-riot-when-spoil
-bip_39_word_dash_9: success-coffee-kangaroo-cave-priority-riot-when-spoil-fox
-bip_39_word_new_br_1: success
-bip_39_word_new_br_10: success<br>coffee<br>kangaroo<br>cave<br>priority<br>riot<br>when<br>spoil<br>fox<br>mule
-bip_39_word_new_br_11: success<br>coffee<br>kangaroo<br>cave<br>priority<br>riot<br>when<br>spoil<br>fox<br>mule<br>again
 bip_39_word_new_br_12: success<br>coffee<br>kangaroo<br>cave<br>priority<br>riot<br>when<br>spoil<br>fox<br>mule<br>again<br>amount
 bip_39_word_new_br_2: success<br>coffee
 bip_39_word_new_br_3: success<br>coffee<br>kangaroo
-bip_39_word_new_br_4: success<br>coffee<br>kangaroo<br>cave
-bip_39_word_new_br_5: success<br>coffee<br>kangaroo<br>cave<br>priority
-bip_39_word_new_br_6: success<br>coffee<br>kangaroo<br>cave<br>priority<br>riot
-bip_39_word_new_br_7: success<br>coffee<br>kangaroo<br>cave<br>priority<br>riot<br>when
-bip_39_word_new_br_8: success<br>coffee<br>kangaroo<br>cave<br>priority<br>riot<br>when<br>spoil
-bip_39_word_new_br_9: success<br>coffee<br>kangaroo<br>cave<br>priority<br>riot<br>when<br>spoil<br>fox
-bip_39_word_new_line_1: success
-bip_39_word_new_line_10: 'success
-
-  coffee
-
-  kangaroo
-
-  cave
-
-  priority
-
-  riot
-
-  when
-
-  spoil
-
-  fox
-
-  mule'
-bip_39_word_new_line_11: 'success
-
-  coffee
-
-  kangaroo
-
-  cave
-
-  priority
-
-  riot
-
-  when
-
-  spoil
-
-  fox
-
-  mule
-
-  again'
 bip_39_word_new_line_12: 'success
 
   coffee
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'success
   coffee
 
   kangaroo'
-bip_39_word_new_line_4: 'success
-
-  coffee
-
-  kangaroo
-
-  cave'
-bip_39_word_new_line_5: 'success
-
-  coffee
-
-  kangaroo
-
-  cave
-
-  priority'
-bip_39_word_new_line_6: 'success
-
-  coffee
-
-  kangaroo
-
-  cave
-
-  priority
-
-  riot'
-bip_39_word_new_line_7: 'success
-
-  coffee
-
-  kangaroo
-
-  cave
-
-  priority
-
-  riot
-
-  when'
-bip_39_word_new_line_8: 'success
-
-  coffee
-
-  kangaroo
-
-  cave
-
-  priority
-
-  riot
-
-  when
-
-  spoil'
-bip_39_word_new_line_9: 'success
-
-  coffee
-
-  kangaroo
-
-  cave
-
-  priority
-
-  riot
-
-  when
-
-  spoil
-
-  fox'
-bip_39_word_no_space_1: success
-bip_39_word_no_space_10: successcoffeekangaroocavepriorityriotwhenspoilfoxmule
-bip_39_word_no_space_11: successcoffeekangaroocavepriorityriotwhenspoilfoxmuleagain
 bip_39_word_no_space_12: successcoffeekangaroocavepriorityriotwhenspoilfoxmuleagainamount
 bip_39_word_no_space_2: successcoffee
 bip_39_word_no_space_3: successcoffeekangaroo
-bip_39_word_no_space_4: successcoffeekangaroocave
-bip_39_word_no_space_5: successcoffeekangaroocavepriority
-bip_39_word_no_space_6: successcoffeekangaroocavepriorityriot
-bip_39_word_no_space_7: successcoffeekangaroocavepriorityriotwhen
-bip_39_word_no_space_8: successcoffeekangaroocavepriorityriotwhenspoil
-bip_39_word_no_space_9: successcoffeekangaroocavepriorityriotwhenspoilfox
-bip_39_word_space_0:
-- success
-- coffee
-- kangaroo
-- cave
-- priority
-- riot
-- when
-- spoil
-- fox
-- mule
-- again
-- amount
-bip_39_word_space_1: success
-bip_39_word_space_10: success coffee kangaroo cave priority riot when spoil fox mule
-bip_39_word_space_11: success coffee kangaroo cave priority riot when spoil fox mule
-  again
 bip_39_word_space_12: success coffee kangaroo cave priority riot when spoil fox mule
   again amount
 bip_39_word_space_2: success coffee
 bip_39_word_space_3: success coffee kangaroo
-bip_39_word_space_4: success coffee kangaroo cave
-bip_39_word_space_5: success coffee kangaroo cave priority
-bip_39_word_space_6: success coffee kangaroo cave priority riot
-bip_39_word_space_7: success coffee kangaroo cave priority riot when
-bip_39_word_space_8: success coffee kangaroo cave priority riot when spoil
-bip_39_word_space_9: success coffee kangaroo cave priority riot when spoil fox
-bip_39_word_underscore_1: success
-bip_39_word_underscore_10: success_coffee_kangaroo_cave_priority_riot_when_spoil_fox_mule
-bip_39_word_underscore_11: success_coffee_kangaroo_cave_priority_riot_when_spoil_fox_mule_again
 bip_39_word_underscore_12: success_coffee_kangaroo_cave_priority_riot_when_spoil_fox_mule_again_amount
 bip_39_word_underscore_2: success_coffee
 bip_39_word_underscore_3: success_coffee_kangaroo
-bip_39_word_underscore_4: success_coffee_kangaroo_cave
-bip_39_word_underscore_5: success_coffee_kangaroo_cave_priority
-bip_39_word_underscore_6: success_coffee_kangaroo_cave_priority_riot
-bip_39_word_underscore_7: success_coffee_kangaroo_cave_priority_riot_when
-bip_39_word_underscore_8: success_coffee_kangaroo_cave_priority_riot_when_spoil
-bip_39_word_underscore_9: success_coffee_kangaroo_cave_priority_riot_when_spoil_fox
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

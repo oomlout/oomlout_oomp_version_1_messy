@@ -1,68 +1,9 @@
-bip_39_word_dash_1: daughter
-bip_39_word_dash_10: daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter-minor-spike
-bip_39_word_dash_11: daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter-minor-spike-route
 bip_39_word_dash_12: daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter-minor-spike-route-accuse
 bip_39_word_dash_2: daughter-found
 bip_39_word_dash_3: daughter-found-obvious
-bip_39_word_dash_4: daughter-found-obvious-swarm
-bip_39_word_dash_5: daughter-found-obvious-swarm-peasant
-bip_39_word_dash_6: daughter-found-obvious-swarm-peasant-evolve
-bip_39_word_dash_7: daughter-found-obvious-swarm-peasant-evolve-tunnel
-bip_39_word_dash_8: daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter
-bip_39_word_dash_9: daughter-found-obvious-swarm-peasant-evolve-tunnel-scatter-minor
-bip_39_word_new_br_1: daughter
-bip_39_word_new_br_10: daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve<br>tunnel<br>scatter<br>minor<br>spike
-bip_39_word_new_br_11: daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve<br>tunnel<br>scatter<br>minor<br>spike<br>route
 bip_39_word_new_br_12: daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve<br>tunnel<br>scatter<br>minor<br>spike<br>route<br>accuse
 bip_39_word_new_br_2: daughter<br>found
 bip_39_word_new_br_3: daughter<br>found<br>obvious
-bip_39_word_new_br_4: daughter<br>found<br>obvious<br>swarm
-bip_39_word_new_br_5: daughter<br>found<br>obvious<br>swarm<br>peasant
-bip_39_word_new_br_6: daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve
-bip_39_word_new_br_7: daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve<br>tunnel
-bip_39_word_new_br_8: daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve<br>tunnel<br>scatter
-bip_39_word_new_br_9: daughter<br>found<br>obvious<br>swarm<br>peasant<br>evolve<br>tunnel<br>scatter<br>minor
-bip_39_word_new_line_1: daughter
-bip_39_word_new_line_10: 'daughter
-
-  found
-
-  obvious
-
-  swarm
-
-  peasant
-
-  evolve
-
-  tunnel
-
-  scatter
-
-  minor
-
-  spike'
-bip_39_word_new_line_11: 'daughter
-
-  found
-
-  obvious
-
-  swarm
-
-  peasant
-
-  evolve
-
-  tunnel
-
-  scatter
-
-  minor
-
-  spike
-
-  route'
 bip_39_word_new_line_12: 'daughter
 
   found
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'daughter
   found
 
   obvious'
-bip_39_word_new_line_4: 'daughter
-
-  found
-
-  obvious
-
-  swarm'
-bip_39_word_new_line_5: 'daughter
-
-  found
-
-  obvious
-
-  swarm
-
-  peasant'
-bip_39_word_new_line_6: 'daughter
-
-  found
-
-  obvious
-
-  swarm
-
-  peasant
-
-  evolve'
-bip_39_word_new_line_7: 'daughter
-
-  found
-
-  obvious
-
-  swarm
-
-  peasant
-
-  evolve
-
-  tunnel'
-bip_39_word_new_line_8: 'daughter
-
-  found
-
-  obvious
-
-  swarm
-
-  peasant
-
-  evolve
-
-  tunnel
-
-  scatter'
-bip_39_word_new_line_9: 'daughter
-
-  found
-
-  obvious
-
-  swarm
-
-  peasant
-
-  evolve
-
-  tunnel
-
-  scatter
-
-  minor'
-bip_39_word_no_space_1: daughter
-bip_39_word_no_space_10: daughterfoundobviousswarmpeasantevolvetunnelscatterminorspike
-bip_39_word_no_space_11: daughterfoundobviousswarmpeasantevolvetunnelscatterminorspikeroute
 bip_39_word_no_space_12: daughterfoundobviousswarmpeasantevolvetunnelscatterminorspikerouteaccuse
 bip_39_word_no_space_2: daughterfound
 bip_39_word_no_space_3: daughterfoundobvious
-bip_39_word_no_space_4: daughterfoundobviousswarm
-bip_39_word_no_space_5: daughterfoundobviousswarmpeasant
-bip_39_word_no_space_6: daughterfoundobviousswarmpeasantevolve
-bip_39_word_no_space_7: daughterfoundobviousswarmpeasantevolvetunnel
-bip_39_word_no_space_8: daughterfoundobviousswarmpeasantevolvetunnelscatter
-bip_39_word_no_space_9: daughterfoundobviousswarmpeasantevolvetunnelscatterminor
-bip_39_word_space_0:
-- daughter
-- found
-- obvious
-- swarm
-- peasant
-- evolve
-- tunnel
-- scatter
-- minor
-- spike
-- route
-- accuse
-bip_39_word_space_1: daughter
-bip_39_word_space_10: daughter found obvious swarm peasant evolve tunnel scatter minor
-  spike
-bip_39_word_space_11: daughter found obvious swarm peasant evolve tunnel scatter minor
-  spike route
 bip_39_word_space_12: daughter found obvious swarm peasant evolve tunnel scatter minor
   spike route accuse
 bip_39_word_space_2: daughter found
 bip_39_word_space_3: daughter found obvious
-bip_39_word_space_4: daughter found obvious swarm
-bip_39_word_space_5: daughter found obvious swarm peasant
-bip_39_word_space_6: daughter found obvious swarm peasant evolve
-bip_39_word_space_7: daughter found obvious swarm peasant evolve tunnel
-bip_39_word_space_8: daughter found obvious swarm peasant evolve tunnel scatter
-bip_39_word_space_9: daughter found obvious swarm peasant evolve tunnel scatter minor
-bip_39_word_underscore_1: daughter
-bip_39_word_underscore_10: daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter_minor_spike
-bip_39_word_underscore_11: daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter_minor_spike_route
 bip_39_word_underscore_12: daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter_minor_spike_route_accuse
 bip_39_word_underscore_2: daughter_found
 bip_39_word_underscore_3: daughter_found_obvious
-bip_39_word_underscore_4: daughter_found_obvious_swarm
-bip_39_word_underscore_5: daughter_found_obvious_swarm_peasant
-bip_39_word_underscore_6: daughter_found_obvious_swarm_peasant_evolve
-bip_39_word_underscore_7: daughter_found_obvious_swarm_peasant_evolve_tunnel
-bip_39_word_underscore_8: daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter
-bip_39_word_underscore_9: daughter_found_obvious_swarm_peasant_evolve_tunnel_scatter_minor
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

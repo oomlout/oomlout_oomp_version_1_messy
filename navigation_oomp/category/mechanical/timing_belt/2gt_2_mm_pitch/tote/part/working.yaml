@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bridge
-bip_39_word_dash_10: bridge-easy-twist-family-fragile-seed-alone-toward-empty-recycle
-bip_39_word_dash_11: bridge-easy-twist-family-fragile-seed-alone-toward-empty-recycle-crash
 bip_39_word_dash_12: bridge-easy-twist-family-fragile-seed-alone-toward-empty-recycle-crash-armed
 bip_39_word_dash_2: bridge-easy
 bip_39_word_dash_3: bridge-easy-twist
-bip_39_word_dash_4: bridge-easy-twist-family
-bip_39_word_dash_5: bridge-easy-twist-family-fragile
-bip_39_word_dash_6: bridge-easy-twist-family-fragile-seed
-bip_39_word_dash_7: bridge-easy-twist-family-fragile-seed-alone
-bip_39_word_dash_8: bridge-easy-twist-family-fragile-seed-alone-toward
-bip_39_word_dash_9: bridge-easy-twist-family-fragile-seed-alone-toward-empty
-bip_39_word_new_br_1: bridge
-bip_39_word_new_br_10: bridge<br>easy<br>twist<br>family<br>fragile<br>seed<br>alone<br>toward<br>empty<br>recycle
-bip_39_word_new_br_11: bridge<br>easy<br>twist<br>family<br>fragile<br>seed<br>alone<br>toward<br>empty<br>recycle<br>crash
 bip_39_word_new_br_12: bridge<br>easy<br>twist<br>family<br>fragile<br>seed<br>alone<br>toward<br>empty<br>recycle<br>crash<br>armed
 bip_39_word_new_br_2: bridge<br>easy
 bip_39_word_new_br_3: bridge<br>easy<br>twist
-bip_39_word_new_br_4: bridge<br>easy<br>twist<br>family
-bip_39_word_new_br_5: bridge<br>easy<br>twist<br>family<br>fragile
-bip_39_word_new_br_6: bridge<br>easy<br>twist<br>family<br>fragile<br>seed
-bip_39_word_new_br_7: bridge<br>easy<br>twist<br>family<br>fragile<br>seed<br>alone
-bip_39_word_new_br_8: bridge<br>easy<br>twist<br>family<br>fragile<br>seed<br>alone<br>toward
-bip_39_word_new_br_9: bridge<br>easy<br>twist<br>family<br>fragile<br>seed<br>alone<br>toward<br>empty
-bip_39_word_new_line_1: bridge
-bip_39_word_new_line_10: 'bridge
-
-  easy
-
-  twist
-
-  family
-
-  fragile
-
-  seed
-
-  alone
-
-  toward
-
-  empty
-
-  recycle'
-bip_39_word_new_line_11: 'bridge
-
-  easy
-
-  twist
-
-  family
-
-  fragile
-
-  seed
-
-  alone
-
-  toward
-
-  empty
-
-  recycle
-
-  crash'
 bip_39_word_new_line_12: 'bridge
 
   easy
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bridge
   easy
 
   twist'
-bip_39_word_new_line_4: 'bridge
-
-  easy
-
-  twist
-
-  family'
-bip_39_word_new_line_5: 'bridge
-
-  easy
-
-  twist
-
-  family
-
-  fragile'
-bip_39_word_new_line_6: 'bridge
-
-  easy
-
-  twist
-
-  family
-
-  fragile
-
-  seed'
-bip_39_word_new_line_7: 'bridge
-
-  easy
-
-  twist
-
-  family
-
-  fragile
-
-  seed
-
-  alone'
-bip_39_word_new_line_8: 'bridge
-
-  easy
-
-  twist
-
-  family
-
-  fragile
-
-  seed
-
-  alone
-
-  toward'
-bip_39_word_new_line_9: 'bridge
-
-  easy
-
-  twist
-
-  family
-
-  fragile
-
-  seed
-
-  alone
-
-  toward
-
-  empty'
-bip_39_word_no_space_1: bridge
-bip_39_word_no_space_10: bridgeeasytwistfamilyfragileseedalonetowardemptyrecycle
-bip_39_word_no_space_11: bridgeeasytwistfamilyfragileseedalonetowardemptyrecyclecrash
 bip_39_word_no_space_12: bridgeeasytwistfamilyfragileseedalonetowardemptyrecyclecrasharmed
 bip_39_word_no_space_2: bridgeeasy
 bip_39_word_no_space_3: bridgeeasytwist
-bip_39_word_no_space_4: bridgeeasytwistfamily
-bip_39_word_no_space_5: bridgeeasytwistfamilyfragile
-bip_39_word_no_space_6: bridgeeasytwistfamilyfragileseed
-bip_39_word_no_space_7: bridgeeasytwistfamilyfragileseedalone
-bip_39_word_no_space_8: bridgeeasytwistfamilyfragileseedalonetoward
-bip_39_word_no_space_9: bridgeeasytwistfamilyfragileseedalonetowardempty
-bip_39_word_space_0:
-- bridge
-- easy
-- twist
-- family
-- fragile
-- seed
-- alone
-- toward
-- empty
-- recycle
-- crash
-- armed
-bip_39_word_space_1: bridge
-bip_39_word_space_10: bridge easy twist family fragile seed alone toward empty recycle
-bip_39_word_space_11: bridge easy twist family fragile seed alone toward empty recycle
-  crash
 bip_39_word_space_12: bridge easy twist family fragile seed alone toward empty recycle
   crash armed
 bip_39_word_space_2: bridge easy
 bip_39_word_space_3: bridge easy twist
-bip_39_word_space_4: bridge easy twist family
-bip_39_word_space_5: bridge easy twist family fragile
-bip_39_word_space_6: bridge easy twist family fragile seed
-bip_39_word_space_7: bridge easy twist family fragile seed alone
-bip_39_word_space_8: bridge easy twist family fragile seed alone toward
-bip_39_word_space_9: bridge easy twist family fragile seed alone toward empty
-bip_39_word_underscore_1: bridge
-bip_39_word_underscore_10: bridge_easy_twist_family_fragile_seed_alone_toward_empty_recycle
-bip_39_word_underscore_11: bridge_easy_twist_family_fragile_seed_alone_toward_empty_recycle_crash
 bip_39_word_underscore_12: bridge_easy_twist_family_fragile_seed_alone_toward_empty_recycle_crash_armed
 bip_39_word_underscore_2: bridge_easy
 bip_39_word_underscore_3: bridge_easy_twist
-bip_39_word_underscore_4: bridge_easy_twist_family
-bip_39_word_underscore_5: bridge_easy_twist_family_fragile
-bip_39_word_underscore_6: bridge_easy_twist_family_fragile_seed
-bip_39_word_underscore_7: bridge_easy_twist_family_fragile_seed_alone
-bip_39_word_underscore_8: bridge_easy_twist_family_fragile_seed_alone_toward
-bip_39_word_underscore_9: bridge_easy_twist_family_fragile_seed_alone_toward_empty
 classification: category
 classification_capital: Category
 classification_first_letter: c

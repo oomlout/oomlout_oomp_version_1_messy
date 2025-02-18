@@ -1,68 +1,9 @@
-bip_39_word_dash_1: total
-bip_39_word_dash_10: total-local-ramp-end-behind-obvious-dragon-depth-lonely-consider
-bip_39_word_dash_11: total-local-ramp-end-behind-obvious-dragon-depth-lonely-consider-replace
 bip_39_word_dash_12: total-local-ramp-end-behind-obvious-dragon-depth-lonely-consider-replace-avocado
 bip_39_word_dash_2: total-local
 bip_39_word_dash_3: total-local-ramp
-bip_39_word_dash_4: total-local-ramp-end
-bip_39_word_dash_5: total-local-ramp-end-behind
-bip_39_word_dash_6: total-local-ramp-end-behind-obvious
-bip_39_word_dash_7: total-local-ramp-end-behind-obvious-dragon
-bip_39_word_dash_8: total-local-ramp-end-behind-obvious-dragon-depth
-bip_39_word_dash_9: total-local-ramp-end-behind-obvious-dragon-depth-lonely
-bip_39_word_new_br_1: total
-bip_39_word_new_br_10: total<br>local<br>ramp<br>end<br>behind<br>obvious<br>dragon<br>depth<br>lonely<br>consider
-bip_39_word_new_br_11: total<br>local<br>ramp<br>end<br>behind<br>obvious<br>dragon<br>depth<br>lonely<br>consider<br>replace
 bip_39_word_new_br_12: total<br>local<br>ramp<br>end<br>behind<br>obvious<br>dragon<br>depth<br>lonely<br>consider<br>replace<br>avocado
 bip_39_word_new_br_2: total<br>local
 bip_39_word_new_br_3: total<br>local<br>ramp
-bip_39_word_new_br_4: total<br>local<br>ramp<br>end
-bip_39_word_new_br_5: total<br>local<br>ramp<br>end<br>behind
-bip_39_word_new_br_6: total<br>local<br>ramp<br>end<br>behind<br>obvious
-bip_39_word_new_br_7: total<br>local<br>ramp<br>end<br>behind<br>obvious<br>dragon
-bip_39_word_new_br_8: total<br>local<br>ramp<br>end<br>behind<br>obvious<br>dragon<br>depth
-bip_39_word_new_br_9: total<br>local<br>ramp<br>end<br>behind<br>obvious<br>dragon<br>depth<br>lonely
-bip_39_word_new_line_1: total
-bip_39_word_new_line_10: 'total
-
-  local
-
-  ramp
-
-  end
-
-  behind
-
-  obvious
-
-  dragon
-
-  depth
-
-  lonely
-
-  consider'
-bip_39_word_new_line_11: 'total
-
-  local
-
-  ramp
-
-  end
-
-  behind
-
-  obvious
-
-  dragon
-
-  depth
-
-  lonely
-
-  consider
-
-  replace'
 bip_39_word_new_line_12: 'total
 
   local
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'total
   local
 
   ramp'
-bip_39_word_new_line_4: 'total
-
-  local
-
-  ramp
-
-  end'
-bip_39_word_new_line_5: 'total
-
-  local
-
-  ramp
-
-  end
-
-  behind'
-bip_39_word_new_line_6: 'total
-
-  local
-
-  ramp
-
-  end
-
-  behind
-
-  obvious'
-bip_39_word_new_line_7: 'total
-
-  local
-
-  ramp
-
-  end
-
-  behind
-
-  obvious
-
-  dragon'
-bip_39_word_new_line_8: 'total
-
-  local
-
-  ramp
-
-  end
-
-  behind
-
-  obvious
-
-  dragon
-
-  depth'
-bip_39_word_new_line_9: 'total
-
-  local
-
-  ramp
-
-  end
-
-  behind
-
-  obvious
-
-  dragon
-
-  depth
-
-  lonely'
-bip_39_word_no_space_1: total
-bip_39_word_no_space_10: totallocalrampendbehindobviousdragondepthlonelyconsider
-bip_39_word_no_space_11: totallocalrampendbehindobviousdragondepthlonelyconsiderreplace
 bip_39_word_no_space_12: totallocalrampendbehindobviousdragondepthlonelyconsiderreplaceavocado
 bip_39_word_no_space_2: totallocal
 bip_39_word_no_space_3: totallocalramp
-bip_39_word_no_space_4: totallocalrampend
-bip_39_word_no_space_5: totallocalrampendbehind
-bip_39_word_no_space_6: totallocalrampendbehindobvious
-bip_39_word_no_space_7: totallocalrampendbehindobviousdragon
-bip_39_word_no_space_8: totallocalrampendbehindobviousdragondepth
-bip_39_word_no_space_9: totallocalrampendbehindobviousdragondepthlonely
-bip_39_word_space_0:
-- total
-- local
-- ramp
-- end
-- behind
-- obvious
-- dragon
-- depth
-- lonely
-- consider
-- replace
-- avocado
-bip_39_word_space_1: total
-bip_39_word_space_10: total local ramp end behind obvious dragon depth lonely consider
-bip_39_word_space_11: total local ramp end behind obvious dragon depth lonely consider
-  replace
 bip_39_word_space_12: total local ramp end behind obvious dragon depth lonely consider
   replace avocado
 bip_39_word_space_2: total local
 bip_39_word_space_3: total local ramp
-bip_39_word_space_4: total local ramp end
-bip_39_word_space_5: total local ramp end behind
-bip_39_word_space_6: total local ramp end behind obvious
-bip_39_word_space_7: total local ramp end behind obvious dragon
-bip_39_word_space_8: total local ramp end behind obvious dragon depth
-bip_39_word_space_9: total local ramp end behind obvious dragon depth lonely
-bip_39_word_underscore_1: total
-bip_39_word_underscore_10: total_local_ramp_end_behind_obvious_dragon_depth_lonely_consider
-bip_39_word_underscore_11: total_local_ramp_end_behind_obvious_dragon_depth_lonely_consider_replace
 bip_39_word_underscore_12: total_local_ramp_end_behind_obvious_dragon_depth_lonely_consider_replace_avocado
 bip_39_word_underscore_2: total_local
 bip_39_word_underscore_3: total_local_ramp
-bip_39_word_underscore_4: total_local_ramp_end
-bip_39_word_underscore_5: total_local_ramp_end_behind
-bip_39_word_underscore_6: total_local_ramp_end_behind_obvious
-bip_39_word_underscore_7: total_local_ramp_end_behind_obvious_dragon
-bip_39_word_underscore_8: total_local_ramp_end_behind_obvious_dragon_depth
-bip_39_word_underscore_9: total_local_ramp_end_behind_obvious_dragon_depth_lonely
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

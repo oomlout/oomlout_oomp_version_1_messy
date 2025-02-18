@@ -1,68 +1,9 @@
-bip_39_word_dash_1: brisk
-bip_39_word_dash_10: brisk-drift-extra-velvet-valid-ghost-lottery-pole-believe-piece
-bip_39_word_dash_11: brisk-drift-extra-velvet-valid-ghost-lottery-pole-believe-piece-jazz
 bip_39_word_dash_12: brisk-drift-extra-velvet-valid-ghost-lottery-pole-believe-piece-jazz-assist
 bip_39_word_dash_2: brisk-drift
 bip_39_word_dash_3: brisk-drift-extra
-bip_39_word_dash_4: brisk-drift-extra-velvet
-bip_39_word_dash_5: brisk-drift-extra-velvet-valid
-bip_39_word_dash_6: brisk-drift-extra-velvet-valid-ghost
-bip_39_word_dash_7: brisk-drift-extra-velvet-valid-ghost-lottery
-bip_39_word_dash_8: brisk-drift-extra-velvet-valid-ghost-lottery-pole
-bip_39_word_dash_9: brisk-drift-extra-velvet-valid-ghost-lottery-pole-believe
-bip_39_word_new_br_1: brisk
-bip_39_word_new_br_10: brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost<br>lottery<br>pole<br>believe<br>piece
-bip_39_word_new_br_11: brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost<br>lottery<br>pole<br>believe<br>piece<br>jazz
 bip_39_word_new_br_12: brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost<br>lottery<br>pole<br>believe<br>piece<br>jazz<br>assist
 bip_39_word_new_br_2: brisk<br>drift
 bip_39_word_new_br_3: brisk<br>drift<br>extra
-bip_39_word_new_br_4: brisk<br>drift<br>extra<br>velvet
-bip_39_word_new_br_5: brisk<br>drift<br>extra<br>velvet<br>valid
-bip_39_word_new_br_6: brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost
-bip_39_word_new_br_7: brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost<br>lottery
-bip_39_word_new_br_8: brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost<br>lottery<br>pole
-bip_39_word_new_br_9: brisk<br>drift<br>extra<br>velvet<br>valid<br>ghost<br>lottery<br>pole<br>believe
-bip_39_word_new_line_1: brisk
-bip_39_word_new_line_10: 'brisk
-
-  drift
-
-  extra
-
-  velvet
-
-  valid
-
-  ghost
-
-  lottery
-
-  pole
-
-  believe
-
-  piece'
-bip_39_word_new_line_11: 'brisk
-
-  drift
-
-  extra
-
-  velvet
-
-  valid
-
-  ghost
-
-  lottery
-
-  pole
-
-  believe
-
-  piece
-
-  jazz'
 bip_39_word_new_line_12: 'brisk
 
   drift
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'brisk
   drift
 
   extra'
-bip_39_word_new_line_4: 'brisk
-
-  drift
-
-  extra
-
-  velvet'
-bip_39_word_new_line_5: 'brisk
-
-  drift
-
-  extra
-
-  velvet
-
-  valid'
-bip_39_word_new_line_6: 'brisk
-
-  drift
-
-  extra
-
-  velvet
-
-  valid
-
-  ghost'
-bip_39_word_new_line_7: 'brisk
-
-  drift
-
-  extra
-
-  velvet
-
-  valid
-
-  ghost
-
-  lottery'
-bip_39_word_new_line_8: 'brisk
-
-  drift
-
-  extra
-
-  velvet
-
-  valid
-
-  ghost
-
-  lottery
-
-  pole'
-bip_39_word_new_line_9: 'brisk
-
-  drift
-
-  extra
-
-  velvet
-
-  valid
-
-  ghost
-
-  lottery
-
-  pole
-
-  believe'
-bip_39_word_no_space_1: brisk
-bip_39_word_no_space_10: briskdriftextravelvetvalidghostlotterypolebelievepiece
-bip_39_word_no_space_11: briskdriftextravelvetvalidghostlotterypolebelievepiecejazz
 bip_39_word_no_space_12: briskdriftextravelvetvalidghostlotterypolebelievepiecejazzassist
 bip_39_word_no_space_2: briskdrift
 bip_39_word_no_space_3: briskdriftextra
-bip_39_word_no_space_4: briskdriftextravelvet
-bip_39_word_no_space_5: briskdriftextravelvetvalid
-bip_39_word_no_space_6: briskdriftextravelvetvalidghost
-bip_39_word_no_space_7: briskdriftextravelvetvalidghostlottery
-bip_39_word_no_space_8: briskdriftextravelvetvalidghostlotterypole
-bip_39_word_no_space_9: briskdriftextravelvetvalidghostlotterypolebelieve
-bip_39_word_space_0:
-- brisk
-- drift
-- extra
-- velvet
-- valid
-- ghost
-- lottery
-- pole
-- believe
-- piece
-- jazz
-- assist
-bip_39_word_space_1: brisk
-bip_39_word_space_10: brisk drift extra velvet valid ghost lottery pole believe piece
-bip_39_word_space_11: brisk drift extra velvet valid ghost lottery pole believe piece
-  jazz
 bip_39_word_space_12: brisk drift extra velvet valid ghost lottery pole believe piece
   jazz assist
 bip_39_word_space_2: brisk drift
 bip_39_word_space_3: brisk drift extra
-bip_39_word_space_4: brisk drift extra velvet
-bip_39_word_space_5: brisk drift extra velvet valid
-bip_39_word_space_6: brisk drift extra velvet valid ghost
-bip_39_word_space_7: brisk drift extra velvet valid ghost lottery
-bip_39_word_space_8: brisk drift extra velvet valid ghost lottery pole
-bip_39_word_space_9: brisk drift extra velvet valid ghost lottery pole believe
-bip_39_word_underscore_1: brisk
-bip_39_word_underscore_10: brisk_drift_extra_velvet_valid_ghost_lottery_pole_believe_piece
-bip_39_word_underscore_11: brisk_drift_extra_velvet_valid_ghost_lottery_pole_believe_piece_jazz
 bip_39_word_underscore_12: brisk_drift_extra_velvet_valid_ghost_lottery_pole_believe_piece_jazz_assist
 bip_39_word_underscore_2: brisk_drift
 bip_39_word_underscore_3: brisk_drift_extra
-bip_39_word_underscore_4: brisk_drift_extra_velvet
-bip_39_word_underscore_5: brisk_drift_extra_velvet_valid
-bip_39_word_underscore_6: brisk_drift_extra_velvet_valid_ghost
-bip_39_word_underscore_7: brisk_drift_extra_velvet_valid_ghost_lottery
-bip_39_word_underscore_8: brisk_drift_extra_velvet_valid_ghost_lottery_pole
-bip_39_word_underscore_9: brisk_drift_extra_velvet_valid_ghost_lottery_pole_believe
 classification: food
 classification_capital: Food
 classification_first_letter: f

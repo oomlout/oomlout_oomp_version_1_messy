@@ -1,68 +1,9 @@
-bip_39_word_dash_1: segment
-bip_39_word_dash_10: segment-beauty-beauty-farm-baby-keep-phrase-crisp-initial-pear
-bip_39_word_dash_11: segment-beauty-beauty-farm-baby-keep-phrase-crisp-initial-pear-nurse
 bip_39_word_dash_12: segment-beauty-beauty-farm-baby-keep-phrase-crisp-initial-pear-nurse-alcohol
 bip_39_word_dash_2: segment-beauty
 bip_39_word_dash_3: segment-beauty-beauty
-bip_39_word_dash_4: segment-beauty-beauty-farm
-bip_39_word_dash_5: segment-beauty-beauty-farm-baby
-bip_39_word_dash_6: segment-beauty-beauty-farm-baby-keep
-bip_39_word_dash_7: segment-beauty-beauty-farm-baby-keep-phrase
-bip_39_word_dash_8: segment-beauty-beauty-farm-baby-keep-phrase-crisp
-bip_39_word_dash_9: segment-beauty-beauty-farm-baby-keep-phrase-crisp-initial
-bip_39_word_new_br_1: segment
-bip_39_word_new_br_10: segment<br>beauty<br>beauty<br>farm<br>baby<br>keep<br>phrase<br>crisp<br>initial<br>pear
-bip_39_word_new_br_11: segment<br>beauty<br>beauty<br>farm<br>baby<br>keep<br>phrase<br>crisp<br>initial<br>pear<br>nurse
 bip_39_word_new_br_12: segment<br>beauty<br>beauty<br>farm<br>baby<br>keep<br>phrase<br>crisp<br>initial<br>pear<br>nurse<br>alcohol
 bip_39_word_new_br_2: segment<br>beauty
 bip_39_word_new_br_3: segment<br>beauty<br>beauty
-bip_39_word_new_br_4: segment<br>beauty<br>beauty<br>farm
-bip_39_word_new_br_5: segment<br>beauty<br>beauty<br>farm<br>baby
-bip_39_word_new_br_6: segment<br>beauty<br>beauty<br>farm<br>baby<br>keep
-bip_39_word_new_br_7: segment<br>beauty<br>beauty<br>farm<br>baby<br>keep<br>phrase
-bip_39_word_new_br_8: segment<br>beauty<br>beauty<br>farm<br>baby<br>keep<br>phrase<br>crisp
-bip_39_word_new_br_9: segment<br>beauty<br>beauty<br>farm<br>baby<br>keep<br>phrase<br>crisp<br>initial
-bip_39_word_new_line_1: segment
-bip_39_word_new_line_10: 'segment
-
-  beauty
-
-  beauty
-
-  farm
-
-  baby
-
-  keep
-
-  phrase
-
-  crisp
-
-  initial
-
-  pear'
-bip_39_word_new_line_11: 'segment
-
-  beauty
-
-  beauty
-
-  farm
-
-  baby
-
-  keep
-
-  phrase
-
-  crisp
-
-  initial
-
-  pear
-
-  nurse'
 bip_39_word_new_line_12: 'segment
 
   beauty
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'segment
   beauty
 
   beauty'
-bip_39_word_new_line_4: 'segment
-
-  beauty
-
-  beauty
-
-  farm'
-bip_39_word_new_line_5: 'segment
-
-  beauty
-
-  beauty
-
-  farm
-
-  baby'
-bip_39_word_new_line_6: 'segment
-
-  beauty
-
-  beauty
-
-  farm
-
-  baby
-
-  keep'
-bip_39_word_new_line_7: 'segment
-
-  beauty
-
-  beauty
-
-  farm
-
-  baby
-
-  keep
-
-  phrase'
-bip_39_word_new_line_8: 'segment
-
-  beauty
-
-  beauty
-
-  farm
-
-  baby
-
-  keep
-
-  phrase
-
-  crisp'
-bip_39_word_new_line_9: 'segment
-
-  beauty
-
-  beauty
-
-  farm
-
-  baby
-
-  keep
-
-  phrase
-
-  crisp
-
-  initial'
-bip_39_word_no_space_1: segment
-bip_39_word_no_space_10: segmentbeautybeautyfarmbabykeepphrasecrispinitialpear
-bip_39_word_no_space_11: segmentbeautybeautyfarmbabykeepphrasecrispinitialpearnurse
 bip_39_word_no_space_12: segmentbeautybeautyfarmbabykeepphrasecrispinitialpearnursealcohol
 bip_39_word_no_space_2: segmentbeauty
 bip_39_word_no_space_3: segmentbeautybeauty
-bip_39_word_no_space_4: segmentbeautybeautyfarm
-bip_39_word_no_space_5: segmentbeautybeautyfarmbaby
-bip_39_word_no_space_6: segmentbeautybeautyfarmbabykeep
-bip_39_word_no_space_7: segmentbeautybeautyfarmbabykeepphrase
-bip_39_word_no_space_8: segmentbeautybeautyfarmbabykeepphrasecrisp
-bip_39_word_no_space_9: segmentbeautybeautyfarmbabykeepphrasecrispinitial
-bip_39_word_space_0:
-- segment
-- beauty
-- beauty
-- farm
-- baby
-- keep
-- phrase
-- crisp
-- initial
-- pear
-- nurse
-- alcohol
-bip_39_word_space_1: segment
-bip_39_word_space_10: segment beauty beauty farm baby keep phrase crisp initial pear
-bip_39_word_space_11: segment beauty beauty farm baby keep phrase crisp initial pear
-  nurse
 bip_39_word_space_12: segment beauty beauty farm baby keep phrase crisp initial pear
   nurse alcohol
 bip_39_word_space_2: segment beauty
 bip_39_word_space_3: segment beauty beauty
-bip_39_word_space_4: segment beauty beauty farm
-bip_39_word_space_5: segment beauty beauty farm baby
-bip_39_word_space_6: segment beauty beauty farm baby keep
-bip_39_word_space_7: segment beauty beauty farm baby keep phrase
-bip_39_word_space_8: segment beauty beauty farm baby keep phrase crisp
-bip_39_word_space_9: segment beauty beauty farm baby keep phrase crisp initial
-bip_39_word_underscore_1: segment
-bip_39_word_underscore_10: segment_beauty_beauty_farm_baby_keep_phrase_crisp_initial_pear
-bip_39_word_underscore_11: segment_beauty_beauty_farm_baby_keep_phrase_crisp_initial_pear_nurse
 bip_39_word_underscore_12: segment_beauty_beauty_farm_baby_keep_phrase_crisp_initial_pear_nurse_alcohol
 bip_39_word_underscore_2: segment_beauty
 bip_39_word_underscore_3: segment_beauty_beauty
-bip_39_word_underscore_4: segment_beauty_beauty_farm
-bip_39_word_underscore_5: segment_beauty_beauty_farm_baby
-bip_39_word_underscore_6: segment_beauty_beauty_farm_baby_keep
-bip_39_word_underscore_7: segment_beauty_beauty_farm_baby_keep_phrase
-bip_39_word_underscore_8: segment_beauty_beauty_farm_baby_keep_phrase_crisp
-bip_39_word_underscore_9: segment_beauty_beauty_farm_baby_keep_phrase_crisp_initial
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: onion
-bip_39_word_dash_10: onion-survey-soon-goose-possible-omit-split-other-lawn-child
-bip_39_word_dash_11: onion-survey-soon-goose-possible-omit-split-other-lawn-child-jar
 bip_39_word_dash_12: onion-survey-soon-goose-possible-omit-split-other-lawn-child-jar-acoustic
 bip_39_word_dash_2: onion-survey
 bip_39_word_dash_3: onion-survey-soon
-bip_39_word_dash_4: onion-survey-soon-goose
-bip_39_word_dash_5: onion-survey-soon-goose-possible
-bip_39_word_dash_6: onion-survey-soon-goose-possible-omit
-bip_39_word_dash_7: onion-survey-soon-goose-possible-omit-split
-bip_39_word_dash_8: onion-survey-soon-goose-possible-omit-split-other
-bip_39_word_dash_9: onion-survey-soon-goose-possible-omit-split-other-lawn
-bip_39_word_new_br_1: onion
-bip_39_word_new_br_10: onion<br>survey<br>soon<br>goose<br>possible<br>omit<br>split<br>other<br>lawn<br>child
-bip_39_word_new_br_11: onion<br>survey<br>soon<br>goose<br>possible<br>omit<br>split<br>other<br>lawn<br>child<br>jar
 bip_39_word_new_br_12: onion<br>survey<br>soon<br>goose<br>possible<br>omit<br>split<br>other<br>lawn<br>child<br>jar<br>acoustic
 bip_39_word_new_br_2: onion<br>survey
 bip_39_word_new_br_3: onion<br>survey<br>soon
-bip_39_word_new_br_4: onion<br>survey<br>soon<br>goose
-bip_39_word_new_br_5: onion<br>survey<br>soon<br>goose<br>possible
-bip_39_word_new_br_6: onion<br>survey<br>soon<br>goose<br>possible<br>omit
-bip_39_word_new_br_7: onion<br>survey<br>soon<br>goose<br>possible<br>omit<br>split
-bip_39_word_new_br_8: onion<br>survey<br>soon<br>goose<br>possible<br>omit<br>split<br>other
-bip_39_word_new_br_9: onion<br>survey<br>soon<br>goose<br>possible<br>omit<br>split<br>other<br>lawn
-bip_39_word_new_line_1: onion
-bip_39_word_new_line_10: 'onion
-
-  survey
-
-  soon
-
-  goose
-
-  possible
-
-  omit
-
-  split
-
-  other
-
-  lawn
-
-  child'
-bip_39_word_new_line_11: 'onion
-
-  survey
-
-  soon
-
-  goose
-
-  possible
-
-  omit
-
-  split
-
-  other
-
-  lawn
-
-  child
-
-  jar'
 bip_39_word_new_line_12: 'onion
 
   survey
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'onion
   survey
 
   soon'
-bip_39_word_new_line_4: 'onion
-
-  survey
-
-  soon
-
-  goose'
-bip_39_word_new_line_5: 'onion
-
-  survey
-
-  soon
-
-  goose
-
-  possible'
-bip_39_word_new_line_6: 'onion
-
-  survey
-
-  soon
-
-  goose
-
-  possible
-
-  omit'
-bip_39_word_new_line_7: 'onion
-
-  survey
-
-  soon
-
-  goose
-
-  possible
-
-  omit
-
-  split'
-bip_39_word_new_line_8: 'onion
-
-  survey
-
-  soon
-
-  goose
-
-  possible
-
-  omit
-
-  split
-
-  other'
-bip_39_word_new_line_9: 'onion
-
-  survey
-
-  soon
-
-  goose
-
-  possible
-
-  omit
-
-  split
-
-  other
-
-  lawn'
-bip_39_word_no_space_1: onion
-bip_39_word_no_space_10: onionsurveysoongoosepossibleomitsplitotherlawnchild
-bip_39_word_no_space_11: onionsurveysoongoosepossibleomitsplitotherlawnchildjar
 bip_39_word_no_space_12: onionsurveysoongoosepossibleomitsplitotherlawnchildjaracoustic
 bip_39_word_no_space_2: onionsurvey
 bip_39_word_no_space_3: onionsurveysoon
-bip_39_word_no_space_4: onionsurveysoongoose
-bip_39_word_no_space_5: onionsurveysoongoosepossible
-bip_39_word_no_space_6: onionsurveysoongoosepossibleomit
-bip_39_word_no_space_7: onionsurveysoongoosepossibleomitsplit
-bip_39_word_no_space_8: onionsurveysoongoosepossibleomitsplitother
-bip_39_word_no_space_9: onionsurveysoongoosepossibleomitsplitotherlawn
-bip_39_word_space_0:
-- onion
-- survey
-- soon
-- goose
-- possible
-- omit
-- split
-- other
-- lawn
-- child
-- jar
-- acoustic
-bip_39_word_space_1: onion
-bip_39_word_space_10: onion survey soon goose possible omit split other lawn child
-bip_39_word_space_11: onion survey soon goose possible omit split other lawn child
-  jar
 bip_39_word_space_12: onion survey soon goose possible omit split other lawn child
   jar acoustic
 bip_39_word_space_2: onion survey
 bip_39_word_space_3: onion survey soon
-bip_39_word_space_4: onion survey soon goose
-bip_39_word_space_5: onion survey soon goose possible
-bip_39_word_space_6: onion survey soon goose possible omit
-bip_39_word_space_7: onion survey soon goose possible omit split
-bip_39_word_space_8: onion survey soon goose possible omit split other
-bip_39_word_space_9: onion survey soon goose possible omit split other lawn
-bip_39_word_underscore_1: onion
-bip_39_word_underscore_10: onion_survey_soon_goose_possible_omit_split_other_lawn_child
-bip_39_word_underscore_11: onion_survey_soon_goose_possible_omit_split_other_lawn_child_jar
 bip_39_word_underscore_12: onion_survey_soon_goose_possible_omit_split_other_lawn_child_jar_acoustic
 bip_39_word_underscore_2: onion_survey
 bip_39_word_underscore_3: onion_survey_soon
-bip_39_word_underscore_4: onion_survey_soon_goose
-bip_39_word_underscore_5: onion_survey_soon_goose_possible
-bip_39_word_underscore_6: onion_survey_soon_goose_possible_omit
-bip_39_word_underscore_7: onion_survey_soon_goose_possible_omit_split
-bip_39_word_underscore_8: onion_survey_soon_goose_possible_omit_split_other
-bip_39_word_underscore_9: onion_survey_soon_goose_possible_omit_split_other_lawn
 classification: aluminium_extrusion
 classification_capital: Aluminium Extrusion
 classification_first_letter: a

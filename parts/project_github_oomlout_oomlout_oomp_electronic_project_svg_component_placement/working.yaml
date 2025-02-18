@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cloth
-bip_39_word_dash_10: cloth-half-motion-wrong-eyebrow-lab-eyebrow-noodle-grain-miracle
-bip_39_word_dash_11: cloth-half-motion-wrong-eyebrow-lab-eyebrow-noodle-grain-miracle-artefact
 bip_39_word_dash_12: cloth-half-motion-wrong-eyebrow-lab-eyebrow-noodle-grain-miracle-artefact-air
 bip_39_word_dash_2: cloth-half
 bip_39_word_dash_3: cloth-half-motion
-bip_39_word_dash_4: cloth-half-motion-wrong
-bip_39_word_dash_5: cloth-half-motion-wrong-eyebrow
-bip_39_word_dash_6: cloth-half-motion-wrong-eyebrow-lab
-bip_39_word_dash_7: cloth-half-motion-wrong-eyebrow-lab-eyebrow
-bip_39_word_dash_8: cloth-half-motion-wrong-eyebrow-lab-eyebrow-noodle
-bip_39_word_dash_9: cloth-half-motion-wrong-eyebrow-lab-eyebrow-noodle-grain
-bip_39_word_new_br_1: cloth
-bip_39_word_new_br_10: cloth<br>half<br>motion<br>wrong<br>eyebrow<br>lab<br>eyebrow<br>noodle<br>grain<br>miracle
-bip_39_word_new_br_11: cloth<br>half<br>motion<br>wrong<br>eyebrow<br>lab<br>eyebrow<br>noodle<br>grain<br>miracle<br>artefact
 bip_39_word_new_br_12: cloth<br>half<br>motion<br>wrong<br>eyebrow<br>lab<br>eyebrow<br>noodle<br>grain<br>miracle<br>artefact<br>air
 bip_39_word_new_br_2: cloth<br>half
 bip_39_word_new_br_3: cloth<br>half<br>motion
-bip_39_word_new_br_4: cloth<br>half<br>motion<br>wrong
-bip_39_word_new_br_5: cloth<br>half<br>motion<br>wrong<br>eyebrow
-bip_39_word_new_br_6: cloth<br>half<br>motion<br>wrong<br>eyebrow<br>lab
-bip_39_word_new_br_7: cloth<br>half<br>motion<br>wrong<br>eyebrow<br>lab<br>eyebrow
-bip_39_word_new_br_8: cloth<br>half<br>motion<br>wrong<br>eyebrow<br>lab<br>eyebrow<br>noodle
-bip_39_word_new_br_9: cloth<br>half<br>motion<br>wrong<br>eyebrow<br>lab<br>eyebrow<br>noodle<br>grain
-bip_39_word_new_line_1: cloth
-bip_39_word_new_line_10: 'cloth
-
-  half
-
-  motion
-
-  wrong
-
-  eyebrow
-
-  lab
-
-  eyebrow
-
-  noodle
-
-  grain
-
-  miracle'
-bip_39_word_new_line_11: 'cloth
-
-  half
-
-  motion
-
-  wrong
-
-  eyebrow
-
-  lab
-
-  eyebrow
-
-  noodle
-
-  grain
-
-  miracle
-
-  artefact'
 bip_39_word_new_line_12: 'cloth
 
   half
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cloth
   half
 
   motion'
-bip_39_word_new_line_4: 'cloth
-
-  half
-
-  motion
-
-  wrong'
-bip_39_word_new_line_5: 'cloth
-
-  half
-
-  motion
-
-  wrong
-
-  eyebrow'
-bip_39_word_new_line_6: 'cloth
-
-  half
-
-  motion
-
-  wrong
-
-  eyebrow
-
-  lab'
-bip_39_word_new_line_7: 'cloth
-
-  half
-
-  motion
-
-  wrong
-
-  eyebrow
-
-  lab
-
-  eyebrow'
-bip_39_word_new_line_8: 'cloth
-
-  half
-
-  motion
-
-  wrong
-
-  eyebrow
-
-  lab
-
-  eyebrow
-
-  noodle'
-bip_39_word_new_line_9: 'cloth
-
-  half
-
-  motion
-
-  wrong
-
-  eyebrow
-
-  lab
-
-  eyebrow
-
-  noodle
-
-  grain'
-bip_39_word_no_space_1: cloth
-bip_39_word_no_space_10: clothhalfmotionwrongeyebrowlabeyebrownoodlegrainmiracle
-bip_39_word_no_space_11: clothhalfmotionwrongeyebrowlabeyebrownoodlegrainmiracleartefact
 bip_39_word_no_space_12: clothhalfmotionwrongeyebrowlabeyebrownoodlegrainmiracleartefactair
 bip_39_word_no_space_2: clothhalf
 bip_39_word_no_space_3: clothhalfmotion
-bip_39_word_no_space_4: clothhalfmotionwrong
-bip_39_word_no_space_5: clothhalfmotionwrongeyebrow
-bip_39_word_no_space_6: clothhalfmotionwrongeyebrowlab
-bip_39_word_no_space_7: clothhalfmotionwrongeyebrowlabeyebrow
-bip_39_word_no_space_8: clothhalfmotionwrongeyebrowlabeyebrownoodle
-bip_39_word_no_space_9: clothhalfmotionwrongeyebrowlabeyebrownoodlegrain
-bip_39_word_space_0:
-- cloth
-- half
-- motion
-- wrong
-- eyebrow
-- lab
-- eyebrow
-- noodle
-- grain
-- miracle
-- artefact
-- air
-bip_39_word_space_1: cloth
-bip_39_word_space_10: cloth half motion wrong eyebrow lab eyebrow noodle grain miracle
-bip_39_word_space_11: cloth half motion wrong eyebrow lab eyebrow noodle grain miracle
-  artefact
 bip_39_word_space_12: cloth half motion wrong eyebrow lab eyebrow noodle grain miracle
   artefact air
 bip_39_word_space_2: cloth half
 bip_39_word_space_3: cloth half motion
-bip_39_word_space_4: cloth half motion wrong
-bip_39_word_space_5: cloth half motion wrong eyebrow
-bip_39_word_space_6: cloth half motion wrong eyebrow lab
-bip_39_word_space_7: cloth half motion wrong eyebrow lab eyebrow
-bip_39_word_space_8: cloth half motion wrong eyebrow lab eyebrow noodle
-bip_39_word_space_9: cloth half motion wrong eyebrow lab eyebrow noodle grain
-bip_39_word_underscore_1: cloth
-bip_39_word_underscore_10: cloth_half_motion_wrong_eyebrow_lab_eyebrow_noodle_grain_miracle
-bip_39_word_underscore_11: cloth_half_motion_wrong_eyebrow_lab_eyebrow_noodle_grain_miracle_artefact
 bip_39_word_underscore_12: cloth_half_motion_wrong_eyebrow_lab_eyebrow_noodle_grain_miracle_artefact_air
 bip_39_word_underscore_2: cloth_half
 bip_39_word_underscore_3: cloth_half_motion
-bip_39_word_underscore_4: cloth_half_motion_wrong
-bip_39_word_underscore_5: cloth_half_motion_wrong_eyebrow
-bip_39_word_underscore_6: cloth_half_motion_wrong_eyebrow_lab
-bip_39_word_underscore_7: cloth_half_motion_wrong_eyebrow_lab_eyebrow
-bip_39_word_underscore_8: cloth_half_motion_wrong_eyebrow_lab_eyebrow_noodle
-bip_39_word_underscore_9: cloth_half_motion_wrong_eyebrow_lab_eyebrow_noodle_grain
 classification: project
 classification_capital: Project
 classification_first_letter: p

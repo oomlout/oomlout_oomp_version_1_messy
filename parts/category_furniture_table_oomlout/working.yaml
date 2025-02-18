@@ -1,68 +1,9 @@
-bip_39_word_dash_1: actor
-bip_39_word_dash_10: actor-stock-crew-elder-mountain-chimney-cost-clip-person-tortoise
-bip_39_word_dash_11: actor-stock-crew-elder-mountain-chimney-cost-clip-person-tortoise-chef
 bip_39_word_dash_12: actor-stock-crew-elder-mountain-chimney-cost-clip-person-tortoise-chef-already
 bip_39_word_dash_2: actor-stock
 bip_39_word_dash_3: actor-stock-crew
-bip_39_word_dash_4: actor-stock-crew-elder
-bip_39_word_dash_5: actor-stock-crew-elder-mountain
-bip_39_word_dash_6: actor-stock-crew-elder-mountain-chimney
-bip_39_word_dash_7: actor-stock-crew-elder-mountain-chimney-cost
-bip_39_word_dash_8: actor-stock-crew-elder-mountain-chimney-cost-clip
-bip_39_word_dash_9: actor-stock-crew-elder-mountain-chimney-cost-clip-person
-bip_39_word_new_br_1: actor
-bip_39_word_new_br_10: actor<br>stock<br>crew<br>elder<br>mountain<br>chimney<br>cost<br>clip<br>person<br>tortoise
-bip_39_word_new_br_11: actor<br>stock<br>crew<br>elder<br>mountain<br>chimney<br>cost<br>clip<br>person<br>tortoise<br>chef
 bip_39_word_new_br_12: actor<br>stock<br>crew<br>elder<br>mountain<br>chimney<br>cost<br>clip<br>person<br>tortoise<br>chef<br>already
 bip_39_word_new_br_2: actor<br>stock
 bip_39_word_new_br_3: actor<br>stock<br>crew
-bip_39_word_new_br_4: actor<br>stock<br>crew<br>elder
-bip_39_word_new_br_5: actor<br>stock<br>crew<br>elder<br>mountain
-bip_39_word_new_br_6: actor<br>stock<br>crew<br>elder<br>mountain<br>chimney
-bip_39_word_new_br_7: actor<br>stock<br>crew<br>elder<br>mountain<br>chimney<br>cost
-bip_39_word_new_br_8: actor<br>stock<br>crew<br>elder<br>mountain<br>chimney<br>cost<br>clip
-bip_39_word_new_br_9: actor<br>stock<br>crew<br>elder<br>mountain<br>chimney<br>cost<br>clip<br>person
-bip_39_word_new_line_1: actor
-bip_39_word_new_line_10: 'actor
-
-  stock
-
-  crew
-
-  elder
-
-  mountain
-
-  chimney
-
-  cost
-
-  clip
-
-  person
-
-  tortoise'
-bip_39_word_new_line_11: 'actor
-
-  stock
-
-  crew
-
-  elder
-
-  mountain
-
-  chimney
-
-  cost
-
-  clip
-
-  person
-
-  tortoise
-
-  chef'
 bip_39_word_new_line_12: 'actor
 
   stock
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'actor
   stock
 
   crew'
-bip_39_word_new_line_4: 'actor
-
-  stock
-
-  crew
-
-  elder'
-bip_39_word_new_line_5: 'actor
-
-  stock
-
-  crew
-
-  elder
-
-  mountain'
-bip_39_word_new_line_6: 'actor
-
-  stock
-
-  crew
-
-  elder
-
-  mountain
-
-  chimney'
-bip_39_word_new_line_7: 'actor
-
-  stock
-
-  crew
-
-  elder
-
-  mountain
-
-  chimney
-
-  cost'
-bip_39_word_new_line_8: 'actor
-
-  stock
-
-  crew
-
-  elder
-
-  mountain
-
-  chimney
-
-  cost
-
-  clip'
-bip_39_word_new_line_9: 'actor
-
-  stock
-
-  crew
-
-  elder
-
-  mountain
-
-  chimney
-
-  cost
-
-  clip
-
-  person'
-bip_39_word_no_space_1: actor
-bip_39_word_no_space_10: actorstockcreweldermountainchimneycostclippersontortoise
-bip_39_word_no_space_11: actorstockcreweldermountainchimneycostclippersontortoisechef
 bip_39_word_no_space_12: actorstockcreweldermountainchimneycostclippersontortoisechefalready
 bip_39_word_no_space_2: actorstock
 bip_39_word_no_space_3: actorstockcrew
-bip_39_word_no_space_4: actorstockcrewelder
-bip_39_word_no_space_5: actorstockcreweldermountain
-bip_39_word_no_space_6: actorstockcreweldermountainchimney
-bip_39_word_no_space_7: actorstockcreweldermountainchimneycost
-bip_39_word_no_space_8: actorstockcreweldermountainchimneycostclip
-bip_39_word_no_space_9: actorstockcreweldermountainchimneycostclipperson
-bip_39_word_space_0:
-- actor
-- stock
-- crew
-- elder
-- mountain
-- chimney
-- cost
-- clip
-- person
-- tortoise
-- chef
-- already
-bip_39_word_space_1: actor
-bip_39_word_space_10: actor stock crew elder mountain chimney cost clip person tortoise
-bip_39_word_space_11: actor stock crew elder mountain chimney cost clip person tortoise
-  chef
 bip_39_word_space_12: actor stock crew elder mountain chimney cost clip person tortoise
   chef already
 bip_39_word_space_2: actor stock
 bip_39_word_space_3: actor stock crew
-bip_39_word_space_4: actor stock crew elder
-bip_39_word_space_5: actor stock crew elder mountain
-bip_39_word_space_6: actor stock crew elder mountain chimney
-bip_39_word_space_7: actor stock crew elder mountain chimney cost
-bip_39_word_space_8: actor stock crew elder mountain chimney cost clip
-bip_39_word_space_9: actor stock crew elder mountain chimney cost clip person
-bip_39_word_underscore_1: actor
-bip_39_word_underscore_10: actor_stock_crew_elder_mountain_chimney_cost_clip_person_tortoise
-bip_39_word_underscore_11: actor_stock_crew_elder_mountain_chimney_cost_clip_person_tortoise_chef
 bip_39_word_underscore_12: actor_stock_crew_elder_mountain_chimney_cost_clip_person_tortoise_chef_already
 bip_39_word_underscore_2: actor_stock
 bip_39_word_underscore_3: actor_stock_crew
-bip_39_word_underscore_4: actor_stock_crew_elder
-bip_39_word_underscore_5: actor_stock_crew_elder_mountain
-bip_39_word_underscore_6: actor_stock_crew_elder_mountain_chimney
-bip_39_word_underscore_7: actor_stock_crew_elder_mountain_chimney_cost
-bip_39_word_underscore_8: actor_stock_crew_elder_mountain_chimney_cost_clip
-bip_39_word_underscore_9: actor_stock_crew_elder_mountain_chimney_cost_clip_person
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: speed
-bip_39_word_dash_10: speed-length-magic-actual-deny-beauty-steak-disorder-lunar-brown
-bip_39_word_dash_11: speed-length-magic-actual-deny-beauty-steak-disorder-lunar-brown-envelope
 bip_39_word_dash_12: speed-length-magic-actual-deny-beauty-steak-disorder-lunar-brown-envelope-ahead
 bip_39_word_dash_2: speed-length
 bip_39_word_dash_3: speed-length-magic
-bip_39_word_dash_4: speed-length-magic-actual
-bip_39_word_dash_5: speed-length-magic-actual-deny
-bip_39_word_dash_6: speed-length-magic-actual-deny-beauty
-bip_39_word_dash_7: speed-length-magic-actual-deny-beauty-steak
-bip_39_word_dash_8: speed-length-magic-actual-deny-beauty-steak-disorder
-bip_39_word_dash_9: speed-length-magic-actual-deny-beauty-steak-disorder-lunar
-bip_39_word_new_br_1: speed
-bip_39_word_new_br_10: speed<br>length<br>magic<br>actual<br>deny<br>beauty<br>steak<br>disorder<br>lunar<br>brown
-bip_39_word_new_br_11: speed<br>length<br>magic<br>actual<br>deny<br>beauty<br>steak<br>disorder<br>lunar<br>brown<br>envelope
 bip_39_word_new_br_12: speed<br>length<br>magic<br>actual<br>deny<br>beauty<br>steak<br>disorder<br>lunar<br>brown<br>envelope<br>ahead
 bip_39_word_new_br_2: speed<br>length
 bip_39_word_new_br_3: speed<br>length<br>magic
-bip_39_word_new_br_4: speed<br>length<br>magic<br>actual
-bip_39_word_new_br_5: speed<br>length<br>magic<br>actual<br>deny
-bip_39_word_new_br_6: speed<br>length<br>magic<br>actual<br>deny<br>beauty
-bip_39_word_new_br_7: speed<br>length<br>magic<br>actual<br>deny<br>beauty<br>steak
-bip_39_word_new_br_8: speed<br>length<br>magic<br>actual<br>deny<br>beauty<br>steak<br>disorder
-bip_39_word_new_br_9: speed<br>length<br>magic<br>actual<br>deny<br>beauty<br>steak<br>disorder<br>lunar
-bip_39_word_new_line_1: speed
-bip_39_word_new_line_10: 'speed
-
-  length
-
-  magic
-
-  actual
-
-  deny
-
-  beauty
-
-  steak
-
-  disorder
-
-  lunar
-
-  brown'
-bip_39_word_new_line_11: 'speed
-
-  length
-
-  magic
-
-  actual
-
-  deny
-
-  beauty
-
-  steak
-
-  disorder
-
-  lunar
-
-  brown
-
-  envelope'
 bip_39_word_new_line_12: 'speed
 
   length
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'speed
   length
 
   magic'
-bip_39_word_new_line_4: 'speed
-
-  length
-
-  magic
-
-  actual'
-bip_39_word_new_line_5: 'speed
-
-  length
-
-  magic
-
-  actual
-
-  deny'
-bip_39_word_new_line_6: 'speed
-
-  length
-
-  magic
-
-  actual
-
-  deny
-
-  beauty'
-bip_39_word_new_line_7: 'speed
-
-  length
-
-  magic
-
-  actual
-
-  deny
-
-  beauty
-
-  steak'
-bip_39_word_new_line_8: 'speed
-
-  length
-
-  magic
-
-  actual
-
-  deny
-
-  beauty
-
-  steak
-
-  disorder'
-bip_39_word_new_line_9: 'speed
-
-  length
-
-  magic
-
-  actual
-
-  deny
-
-  beauty
-
-  steak
-
-  disorder
-
-  lunar'
-bip_39_word_no_space_1: speed
-bip_39_word_no_space_10: speedlengthmagicactualdenybeautysteakdisorderlunarbrown
-bip_39_word_no_space_11: speedlengthmagicactualdenybeautysteakdisorderlunarbrownenvelope
 bip_39_word_no_space_12: speedlengthmagicactualdenybeautysteakdisorderlunarbrownenvelopeahead
 bip_39_word_no_space_2: speedlength
 bip_39_word_no_space_3: speedlengthmagic
-bip_39_word_no_space_4: speedlengthmagicactual
-bip_39_word_no_space_5: speedlengthmagicactualdeny
-bip_39_word_no_space_6: speedlengthmagicactualdenybeauty
-bip_39_word_no_space_7: speedlengthmagicactualdenybeautysteak
-bip_39_word_no_space_8: speedlengthmagicactualdenybeautysteakdisorder
-bip_39_word_no_space_9: speedlengthmagicactualdenybeautysteakdisorderlunar
-bip_39_word_space_0:
-- speed
-- length
-- magic
-- actual
-- deny
-- beauty
-- steak
-- disorder
-- lunar
-- brown
-- envelope
-- ahead
-bip_39_word_space_1: speed
-bip_39_word_space_10: speed length magic actual deny beauty steak disorder lunar brown
-bip_39_word_space_11: speed length magic actual deny beauty steak disorder lunar brown
-  envelope
 bip_39_word_space_12: speed length magic actual deny beauty steak disorder lunar brown
   envelope ahead
 bip_39_word_space_2: speed length
 bip_39_word_space_3: speed length magic
-bip_39_word_space_4: speed length magic actual
-bip_39_word_space_5: speed length magic actual deny
-bip_39_word_space_6: speed length magic actual deny beauty
-bip_39_word_space_7: speed length magic actual deny beauty steak
-bip_39_word_space_8: speed length magic actual deny beauty steak disorder
-bip_39_word_space_9: speed length magic actual deny beauty steak disorder lunar
-bip_39_word_underscore_1: speed
-bip_39_word_underscore_10: speed_length_magic_actual_deny_beauty_steak_disorder_lunar_brown
-bip_39_word_underscore_11: speed_length_magic_actual_deny_beauty_steak_disorder_lunar_brown_envelope
 bip_39_word_underscore_12: speed_length_magic_actual_deny_beauty_steak_disorder_lunar_brown_envelope_ahead
 bip_39_word_underscore_2: speed_length
 bip_39_word_underscore_3: speed_length_magic
-bip_39_word_underscore_4: speed_length_magic_actual
-bip_39_word_underscore_5: speed_length_magic_actual_deny
-bip_39_word_underscore_6: speed_length_magic_actual_deny_beauty
-bip_39_word_underscore_7: speed_length_magic_actual_deny_beauty_steak
-bip_39_word_underscore_8: speed_length_magic_actual_deny_beauty_steak_disorder
-bip_39_word_underscore_9: speed_length_magic_actual_deny_beauty_steak_disorder_lunar
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

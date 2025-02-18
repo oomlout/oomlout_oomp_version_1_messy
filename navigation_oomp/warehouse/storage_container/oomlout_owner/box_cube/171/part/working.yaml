@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flash
-bip_39_word_dash_10: flash-grit-artist-immune-host-company-bounce-fork-matrix-pony
-bip_39_word_dash_11: flash-grit-artist-immune-host-company-bounce-fork-matrix-pony-alley
 bip_39_word_dash_12: flash-grit-artist-immune-host-company-bounce-fork-matrix-pony-alley-adapt
 bip_39_word_dash_2: flash-grit
 bip_39_word_dash_3: flash-grit-artist
-bip_39_word_dash_4: flash-grit-artist-immune
-bip_39_word_dash_5: flash-grit-artist-immune-host
-bip_39_word_dash_6: flash-grit-artist-immune-host-company
-bip_39_word_dash_7: flash-grit-artist-immune-host-company-bounce
-bip_39_word_dash_8: flash-grit-artist-immune-host-company-bounce-fork
-bip_39_word_dash_9: flash-grit-artist-immune-host-company-bounce-fork-matrix
-bip_39_word_new_br_1: flash
-bip_39_word_new_br_10: flash<br>grit<br>artist<br>immune<br>host<br>company<br>bounce<br>fork<br>matrix<br>pony
-bip_39_word_new_br_11: flash<br>grit<br>artist<br>immune<br>host<br>company<br>bounce<br>fork<br>matrix<br>pony<br>alley
 bip_39_word_new_br_12: flash<br>grit<br>artist<br>immune<br>host<br>company<br>bounce<br>fork<br>matrix<br>pony<br>alley<br>adapt
 bip_39_word_new_br_2: flash<br>grit
 bip_39_word_new_br_3: flash<br>grit<br>artist
-bip_39_word_new_br_4: flash<br>grit<br>artist<br>immune
-bip_39_word_new_br_5: flash<br>grit<br>artist<br>immune<br>host
-bip_39_word_new_br_6: flash<br>grit<br>artist<br>immune<br>host<br>company
-bip_39_word_new_br_7: flash<br>grit<br>artist<br>immune<br>host<br>company<br>bounce
-bip_39_word_new_br_8: flash<br>grit<br>artist<br>immune<br>host<br>company<br>bounce<br>fork
-bip_39_word_new_br_9: flash<br>grit<br>artist<br>immune<br>host<br>company<br>bounce<br>fork<br>matrix
-bip_39_word_new_line_1: flash
-bip_39_word_new_line_10: 'flash
-
-  grit
-
-  artist
-
-  immune
-
-  host
-
-  company
-
-  bounce
-
-  fork
-
-  matrix
-
-  pony'
-bip_39_word_new_line_11: 'flash
-
-  grit
-
-  artist
-
-  immune
-
-  host
-
-  company
-
-  bounce
-
-  fork
-
-  matrix
-
-  pony
-
-  alley'
 bip_39_word_new_line_12: 'flash
 
   grit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'flash
   grit
 
   artist'
-bip_39_word_new_line_4: 'flash
-
-  grit
-
-  artist
-
-  immune'
-bip_39_word_new_line_5: 'flash
-
-  grit
-
-  artist
-
-  immune
-
-  host'
-bip_39_word_new_line_6: 'flash
-
-  grit
-
-  artist
-
-  immune
-
-  host
-
-  company'
-bip_39_word_new_line_7: 'flash
-
-  grit
-
-  artist
-
-  immune
-
-  host
-
-  company
-
-  bounce'
-bip_39_word_new_line_8: 'flash
-
-  grit
-
-  artist
-
-  immune
-
-  host
-
-  company
-
-  bounce
-
-  fork'
-bip_39_word_new_line_9: 'flash
-
-  grit
-
-  artist
-
-  immune
-
-  host
-
-  company
-
-  bounce
-
-  fork
-
-  matrix'
-bip_39_word_no_space_1: flash
-bip_39_word_no_space_10: flashgritartistimmunehostcompanybounceforkmatrixpony
-bip_39_word_no_space_11: flashgritartistimmunehostcompanybounceforkmatrixponyalley
 bip_39_word_no_space_12: flashgritartistimmunehostcompanybounceforkmatrixponyalleyadapt
 bip_39_word_no_space_2: flashgrit
 bip_39_word_no_space_3: flashgritartist
-bip_39_word_no_space_4: flashgritartistimmune
-bip_39_word_no_space_5: flashgritartistimmunehost
-bip_39_word_no_space_6: flashgritartistimmunehostcompany
-bip_39_word_no_space_7: flashgritartistimmunehostcompanybounce
-bip_39_word_no_space_8: flashgritartistimmunehostcompanybouncefork
-bip_39_word_no_space_9: flashgritartistimmunehostcompanybounceforkmatrix
-bip_39_word_space_0:
-- flash
-- grit
-- artist
-- immune
-- host
-- company
-- bounce
-- fork
-- matrix
-- pony
-- alley
-- adapt
-bip_39_word_space_1: flash
-bip_39_word_space_10: flash grit artist immune host company bounce fork matrix pony
-bip_39_word_space_11: flash grit artist immune host company bounce fork matrix pony
-  alley
 bip_39_word_space_12: flash grit artist immune host company bounce fork matrix pony
   alley adapt
 bip_39_word_space_2: flash grit
 bip_39_word_space_3: flash grit artist
-bip_39_word_space_4: flash grit artist immune
-bip_39_word_space_5: flash grit artist immune host
-bip_39_word_space_6: flash grit artist immune host company
-bip_39_word_space_7: flash grit artist immune host company bounce
-bip_39_word_space_8: flash grit artist immune host company bounce fork
-bip_39_word_space_9: flash grit artist immune host company bounce fork matrix
-bip_39_word_underscore_1: flash
-bip_39_word_underscore_10: flash_grit_artist_immune_host_company_bounce_fork_matrix_pony
-bip_39_word_underscore_11: flash_grit_artist_immune_host_company_bounce_fork_matrix_pony_alley
 bip_39_word_underscore_12: flash_grit_artist_immune_host_company_bounce_fork_matrix_pony_alley_adapt
 bip_39_word_underscore_2: flash_grit
 bip_39_word_underscore_3: flash_grit_artist
-bip_39_word_underscore_4: flash_grit_artist_immune
-bip_39_word_underscore_5: flash_grit_artist_immune_host
-bip_39_word_underscore_6: flash_grit_artist_immune_host_company
-bip_39_word_underscore_7: flash_grit_artist_immune_host_company_bounce
-bip_39_word_underscore_8: flash_grit_artist_immune_host_company_bounce_fork
-bip_39_word_underscore_9: flash_grit_artist_immune_host_company_bounce_fork_matrix
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

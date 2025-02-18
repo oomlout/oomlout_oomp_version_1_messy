@@ -1,68 +1,9 @@
-bip_39_word_dash_1: verb
-bip_39_word_dash_10: verb-soda-track-arm-pipe-garbage-never-okay-thank-thank
-bip_39_word_dash_11: verb-soda-track-arm-pipe-garbage-never-okay-thank-thank-access
 bip_39_word_dash_12: verb-soda-track-arm-pipe-garbage-never-okay-thank-thank-access-armed
 bip_39_word_dash_2: verb-soda
 bip_39_word_dash_3: verb-soda-track
-bip_39_word_dash_4: verb-soda-track-arm
-bip_39_word_dash_5: verb-soda-track-arm-pipe
-bip_39_word_dash_6: verb-soda-track-arm-pipe-garbage
-bip_39_word_dash_7: verb-soda-track-arm-pipe-garbage-never
-bip_39_word_dash_8: verb-soda-track-arm-pipe-garbage-never-okay
-bip_39_word_dash_9: verb-soda-track-arm-pipe-garbage-never-okay-thank
-bip_39_word_new_br_1: verb
-bip_39_word_new_br_10: verb<br>soda<br>track<br>arm<br>pipe<br>garbage<br>never<br>okay<br>thank<br>thank
-bip_39_word_new_br_11: verb<br>soda<br>track<br>arm<br>pipe<br>garbage<br>never<br>okay<br>thank<br>thank<br>access
 bip_39_word_new_br_12: verb<br>soda<br>track<br>arm<br>pipe<br>garbage<br>never<br>okay<br>thank<br>thank<br>access<br>armed
 bip_39_word_new_br_2: verb<br>soda
 bip_39_word_new_br_3: verb<br>soda<br>track
-bip_39_word_new_br_4: verb<br>soda<br>track<br>arm
-bip_39_word_new_br_5: verb<br>soda<br>track<br>arm<br>pipe
-bip_39_word_new_br_6: verb<br>soda<br>track<br>arm<br>pipe<br>garbage
-bip_39_word_new_br_7: verb<br>soda<br>track<br>arm<br>pipe<br>garbage<br>never
-bip_39_word_new_br_8: verb<br>soda<br>track<br>arm<br>pipe<br>garbage<br>never<br>okay
-bip_39_word_new_br_9: verb<br>soda<br>track<br>arm<br>pipe<br>garbage<br>never<br>okay<br>thank
-bip_39_word_new_line_1: verb
-bip_39_word_new_line_10: 'verb
-
-  soda
-
-  track
-
-  arm
-
-  pipe
-
-  garbage
-
-  never
-
-  okay
-
-  thank
-
-  thank'
-bip_39_word_new_line_11: 'verb
-
-  soda
-
-  track
-
-  arm
-
-  pipe
-
-  garbage
-
-  never
-
-  okay
-
-  thank
-
-  thank
-
-  access'
 bip_39_word_new_line_12: 'verb
 
   soda
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'verb
   soda
 
   track'
-bip_39_word_new_line_4: 'verb
-
-  soda
-
-  track
-
-  arm'
-bip_39_word_new_line_5: 'verb
-
-  soda
-
-  track
-
-  arm
-
-  pipe'
-bip_39_word_new_line_6: 'verb
-
-  soda
-
-  track
-
-  arm
-
-  pipe
-
-  garbage'
-bip_39_word_new_line_7: 'verb
-
-  soda
-
-  track
-
-  arm
-
-  pipe
-
-  garbage
-
-  never'
-bip_39_word_new_line_8: 'verb
-
-  soda
-
-  track
-
-  arm
-
-  pipe
-
-  garbage
-
-  never
-
-  okay'
-bip_39_word_new_line_9: 'verb
-
-  soda
-
-  track
-
-  arm
-
-  pipe
-
-  garbage
-
-  never
-
-  okay
-
-  thank'
-bip_39_word_no_space_1: verb
-bip_39_word_no_space_10: verbsodatrackarmpipegarbageneverokaythankthank
-bip_39_word_no_space_11: verbsodatrackarmpipegarbageneverokaythankthankaccess
 bip_39_word_no_space_12: verbsodatrackarmpipegarbageneverokaythankthankaccessarmed
 bip_39_word_no_space_2: verbsoda
 bip_39_word_no_space_3: verbsodatrack
-bip_39_word_no_space_4: verbsodatrackarm
-bip_39_word_no_space_5: verbsodatrackarmpipe
-bip_39_word_no_space_6: verbsodatrackarmpipegarbage
-bip_39_word_no_space_7: verbsodatrackarmpipegarbagenever
-bip_39_word_no_space_8: verbsodatrackarmpipegarbageneverokay
-bip_39_word_no_space_9: verbsodatrackarmpipegarbageneverokaythank
-bip_39_word_space_0:
-- verb
-- soda
-- track
-- arm
-- pipe
-- garbage
-- never
-- okay
-- thank
-- thank
-- access
-- armed
-bip_39_word_space_1: verb
-bip_39_word_space_10: verb soda track arm pipe garbage never okay thank thank
-bip_39_word_space_11: verb soda track arm pipe garbage never okay thank thank access
 bip_39_word_space_12: verb soda track arm pipe garbage never okay thank thank access
   armed
 bip_39_word_space_2: verb soda
 bip_39_word_space_3: verb soda track
-bip_39_word_space_4: verb soda track arm
-bip_39_word_space_5: verb soda track arm pipe
-bip_39_word_space_6: verb soda track arm pipe garbage
-bip_39_word_space_7: verb soda track arm pipe garbage never
-bip_39_word_space_8: verb soda track arm pipe garbage never okay
-bip_39_word_space_9: verb soda track arm pipe garbage never okay thank
-bip_39_word_underscore_1: verb
-bip_39_word_underscore_10: verb_soda_track_arm_pipe_garbage_never_okay_thank_thank
-bip_39_word_underscore_11: verb_soda_track_arm_pipe_garbage_never_okay_thank_thank_access
 bip_39_word_underscore_12: verb_soda_track_arm_pipe_garbage_never_okay_thank_thank_access_armed
 bip_39_word_underscore_2: verb_soda
 bip_39_word_underscore_3: verb_soda_track
-bip_39_word_underscore_4: verb_soda_track_arm
-bip_39_word_underscore_5: verb_soda_track_arm_pipe
-bip_39_word_underscore_6: verb_soda_track_arm_pipe_garbage
-bip_39_word_underscore_7: verb_soda_track_arm_pipe_garbage_never
-bip_39_word_underscore_8: verb_soda_track_arm_pipe_garbage_never_okay
-bip_39_word_underscore_9: verb_soda_track_arm_pipe_garbage_never_okay_thank
 classification: category
 classification_capital: Category
 classification_first_letter: c

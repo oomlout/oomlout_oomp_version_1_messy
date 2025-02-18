@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inform
-bip_39_word_dash_10: inform-lawsuit-cost-parade-law-female-pudding-anchor-dutch-sell
-bip_39_word_dash_11: inform-lawsuit-cost-parade-law-female-pudding-anchor-dutch-sell-pink
 bip_39_word_dash_12: inform-lawsuit-cost-parade-law-female-pudding-anchor-dutch-sell-pink-appear
 bip_39_word_dash_2: inform-lawsuit
 bip_39_word_dash_3: inform-lawsuit-cost
-bip_39_word_dash_4: inform-lawsuit-cost-parade
-bip_39_word_dash_5: inform-lawsuit-cost-parade-law
-bip_39_word_dash_6: inform-lawsuit-cost-parade-law-female
-bip_39_word_dash_7: inform-lawsuit-cost-parade-law-female-pudding
-bip_39_word_dash_8: inform-lawsuit-cost-parade-law-female-pudding-anchor
-bip_39_word_dash_9: inform-lawsuit-cost-parade-law-female-pudding-anchor-dutch
-bip_39_word_new_br_1: inform
-bip_39_word_new_br_10: inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell
-bip_39_word_new_br_11: inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell<br>pink
 bip_39_word_new_br_12: inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch<br>sell<br>pink<br>appear
 bip_39_word_new_br_2: inform<br>lawsuit
 bip_39_word_new_br_3: inform<br>lawsuit<br>cost
-bip_39_word_new_br_4: inform<br>lawsuit<br>cost<br>parade
-bip_39_word_new_br_5: inform<br>lawsuit<br>cost<br>parade<br>law
-bip_39_word_new_br_6: inform<br>lawsuit<br>cost<br>parade<br>law<br>female
-bip_39_word_new_br_7: inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding
-bip_39_word_new_br_8: inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor
-bip_39_word_new_br_9: inform<br>lawsuit<br>cost<br>parade<br>law<br>female<br>pudding<br>anchor<br>dutch
-bip_39_word_new_line_1: inform
-bip_39_word_new_line_10: 'inform
-
-  lawsuit
-
-  cost
-
-  parade
-
-  law
-
-  female
-
-  pudding
-
-  anchor
-
-  dutch
-
-  sell'
-bip_39_word_new_line_11: 'inform
-
-  lawsuit
-
-  cost
-
-  parade
-
-  law
-
-  female
-
-  pudding
-
-  anchor
-
-  dutch
-
-  sell
-
-  pink'
 bip_39_word_new_line_12: 'inform
 
   lawsuit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'inform
   lawsuit
 
   cost'
-bip_39_word_new_line_4: 'inform
-
-  lawsuit
-
-  cost
-
-  parade'
-bip_39_word_new_line_5: 'inform
-
-  lawsuit
-
-  cost
-
-  parade
-
-  law'
-bip_39_word_new_line_6: 'inform
-
-  lawsuit
-
-  cost
-
-  parade
-
-  law
-
-  female'
-bip_39_word_new_line_7: 'inform
-
-  lawsuit
-
-  cost
-
-  parade
-
-  law
-
-  female
-
-  pudding'
-bip_39_word_new_line_8: 'inform
-
-  lawsuit
-
-  cost
-
-  parade
-
-  law
-
-  female
-
-  pudding
-
-  anchor'
-bip_39_word_new_line_9: 'inform
-
-  lawsuit
-
-  cost
-
-  parade
-
-  law
-
-  female
-
-  pudding
-
-  anchor
-
-  dutch'
-bip_39_word_no_space_1: inform
-bip_39_word_no_space_10: informlawsuitcostparadelawfemalepuddinganchordutchsell
-bip_39_word_no_space_11: informlawsuitcostparadelawfemalepuddinganchordutchsellpink
 bip_39_word_no_space_12: informlawsuitcostparadelawfemalepuddinganchordutchsellpinkappear
 bip_39_word_no_space_2: informlawsuit
 bip_39_word_no_space_3: informlawsuitcost
-bip_39_word_no_space_4: informlawsuitcostparade
-bip_39_word_no_space_5: informlawsuitcostparadelaw
-bip_39_word_no_space_6: informlawsuitcostparadelawfemale
-bip_39_word_no_space_7: informlawsuitcostparadelawfemalepudding
-bip_39_word_no_space_8: informlawsuitcostparadelawfemalepuddinganchor
-bip_39_word_no_space_9: informlawsuitcostparadelawfemalepuddinganchordutch
-bip_39_word_space_0:
-- inform
-- lawsuit
-- cost
-- parade
-- law
-- female
-- pudding
-- anchor
-- dutch
-- sell
-- pink
-- appear
-bip_39_word_space_1: inform
-bip_39_word_space_10: inform lawsuit cost parade law female pudding anchor dutch sell
-bip_39_word_space_11: inform lawsuit cost parade law female pudding anchor dutch sell
-  pink
 bip_39_word_space_12: inform lawsuit cost parade law female pudding anchor dutch sell
   pink appear
 bip_39_word_space_2: inform lawsuit
 bip_39_word_space_3: inform lawsuit cost
-bip_39_word_space_4: inform lawsuit cost parade
-bip_39_word_space_5: inform lawsuit cost parade law
-bip_39_word_space_6: inform lawsuit cost parade law female
-bip_39_word_space_7: inform lawsuit cost parade law female pudding
-bip_39_word_space_8: inform lawsuit cost parade law female pudding anchor
-bip_39_word_space_9: inform lawsuit cost parade law female pudding anchor dutch
-bip_39_word_underscore_1: inform
-bip_39_word_underscore_10: inform_lawsuit_cost_parade_law_female_pudding_anchor_dutch_sell
-bip_39_word_underscore_11: inform_lawsuit_cost_parade_law_female_pudding_anchor_dutch_sell_pink
 bip_39_word_underscore_12: inform_lawsuit_cost_parade_law_female_pudding_anchor_dutch_sell_pink_appear
 bip_39_word_underscore_2: inform_lawsuit
 bip_39_word_underscore_3: inform_lawsuit_cost
-bip_39_word_underscore_4: inform_lawsuit_cost_parade
-bip_39_word_underscore_5: inform_lawsuit_cost_parade_law
-bip_39_word_underscore_6: inform_lawsuit_cost_parade_law_female
-bip_39_word_underscore_7: inform_lawsuit_cost_parade_law_female_pudding
-bip_39_word_underscore_8: inform_lawsuit_cost_parade_law_female_pudding_anchor
-bip_39_word_underscore_9: inform_lawsuit_cost_parade_law_female_pudding_anchor_dutch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

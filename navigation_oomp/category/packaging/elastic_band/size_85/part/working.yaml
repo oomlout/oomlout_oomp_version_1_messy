@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alert
-bip_39_word_dash_10: alert-flower-twin-you-happy-hint-rally-warm-pudding-frequent
-bip_39_word_dash_11: alert-flower-twin-you-happy-hint-rally-warm-pudding-frequent-slice
 bip_39_word_dash_12: alert-flower-twin-you-happy-hint-rally-warm-pudding-frequent-slice-appear
 bip_39_word_dash_2: alert-flower
 bip_39_word_dash_3: alert-flower-twin
-bip_39_word_dash_4: alert-flower-twin-you
-bip_39_word_dash_5: alert-flower-twin-you-happy
-bip_39_word_dash_6: alert-flower-twin-you-happy-hint
-bip_39_word_dash_7: alert-flower-twin-you-happy-hint-rally
-bip_39_word_dash_8: alert-flower-twin-you-happy-hint-rally-warm
-bip_39_word_dash_9: alert-flower-twin-you-happy-hint-rally-warm-pudding
-bip_39_word_new_br_1: alert
-bip_39_word_new_br_10: alert<br>flower<br>twin<br>you<br>happy<br>hint<br>rally<br>warm<br>pudding<br>frequent
-bip_39_word_new_br_11: alert<br>flower<br>twin<br>you<br>happy<br>hint<br>rally<br>warm<br>pudding<br>frequent<br>slice
 bip_39_word_new_br_12: alert<br>flower<br>twin<br>you<br>happy<br>hint<br>rally<br>warm<br>pudding<br>frequent<br>slice<br>appear
 bip_39_word_new_br_2: alert<br>flower
 bip_39_word_new_br_3: alert<br>flower<br>twin
-bip_39_word_new_br_4: alert<br>flower<br>twin<br>you
-bip_39_word_new_br_5: alert<br>flower<br>twin<br>you<br>happy
-bip_39_word_new_br_6: alert<br>flower<br>twin<br>you<br>happy<br>hint
-bip_39_word_new_br_7: alert<br>flower<br>twin<br>you<br>happy<br>hint<br>rally
-bip_39_word_new_br_8: alert<br>flower<br>twin<br>you<br>happy<br>hint<br>rally<br>warm
-bip_39_word_new_br_9: alert<br>flower<br>twin<br>you<br>happy<br>hint<br>rally<br>warm<br>pudding
-bip_39_word_new_line_1: alert
-bip_39_word_new_line_10: 'alert
-
-  flower
-
-  twin
-
-  you
-
-  happy
-
-  hint
-
-  rally
-
-  warm
-
-  pudding
-
-  frequent'
-bip_39_word_new_line_11: 'alert
-
-  flower
-
-  twin
-
-  you
-
-  happy
-
-  hint
-
-  rally
-
-  warm
-
-  pudding
-
-  frequent
-
-  slice'
 bip_39_word_new_line_12: 'alert
 
   flower
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'alert
   flower
 
   twin'
-bip_39_word_new_line_4: 'alert
-
-  flower
-
-  twin
-
-  you'
-bip_39_word_new_line_5: 'alert
-
-  flower
-
-  twin
-
-  you
-
-  happy'
-bip_39_word_new_line_6: 'alert
-
-  flower
-
-  twin
-
-  you
-
-  happy
-
-  hint'
-bip_39_word_new_line_7: 'alert
-
-  flower
-
-  twin
-
-  you
-
-  happy
-
-  hint
-
-  rally'
-bip_39_word_new_line_8: 'alert
-
-  flower
-
-  twin
-
-  you
-
-  happy
-
-  hint
-
-  rally
-
-  warm'
-bip_39_word_new_line_9: 'alert
-
-  flower
-
-  twin
-
-  you
-
-  happy
-
-  hint
-
-  rally
-
-  warm
-
-  pudding'
-bip_39_word_no_space_1: alert
-bip_39_word_no_space_10: alertflowertwinyouhappyhintrallywarmpuddingfrequent
-bip_39_word_no_space_11: alertflowertwinyouhappyhintrallywarmpuddingfrequentslice
 bip_39_word_no_space_12: alertflowertwinyouhappyhintrallywarmpuddingfrequentsliceappear
 bip_39_word_no_space_2: alertflower
 bip_39_word_no_space_3: alertflowertwin
-bip_39_word_no_space_4: alertflowertwinyou
-bip_39_word_no_space_5: alertflowertwinyouhappy
-bip_39_word_no_space_6: alertflowertwinyouhappyhint
-bip_39_word_no_space_7: alertflowertwinyouhappyhintrally
-bip_39_word_no_space_8: alertflowertwinyouhappyhintrallywarm
-bip_39_word_no_space_9: alertflowertwinyouhappyhintrallywarmpudding
-bip_39_word_space_0:
-- alert
-- flower
-- twin
-- you
-- happy
-- hint
-- rally
-- warm
-- pudding
-- frequent
-- slice
-- appear
-bip_39_word_space_1: alert
-bip_39_word_space_10: alert flower twin you happy hint rally warm pudding frequent
-bip_39_word_space_11: alert flower twin you happy hint rally warm pudding frequent
-  slice
 bip_39_word_space_12: alert flower twin you happy hint rally warm pudding frequent
   slice appear
 bip_39_word_space_2: alert flower
 bip_39_word_space_3: alert flower twin
-bip_39_word_space_4: alert flower twin you
-bip_39_word_space_5: alert flower twin you happy
-bip_39_word_space_6: alert flower twin you happy hint
-bip_39_word_space_7: alert flower twin you happy hint rally
-bip_39_word_space_8: alert flower twin you happy hint rally warm
-bip_39_word_space_9: alert flower twin you happy hint rally warm pudding
-bip_39_word_underscore_1: alert
-bip_39_word_underscore_10: alert_flower_twin_you_happy_hint_rally_warm_pudding_frequent
-bip_39_word_underscore_11: alert_flower_twin_you_happy_hint_rally_warm_pudding_frequent_slice
 bip_39_word_underscore_12: alert_flower_twin_you_happy_hint_rally_warm_pudding_frequent_slice_appear
 bip_39_word_underscore_2: alert_flower
 bip_39_word_underscore_3: alert_flower_twin
-bip_39_word_underscore_4: alert_flower_twin_you
-bip_39_word_underscore_5: alert_flower_twin_you_happy
-bip_39_word_underscore_6: alert_flower_twin_you_happy_hint
-bip_39_word_underscore_7: alert_flower_twin_you_happy_hint_rally
-bip_39_word_underscore_8: alert_flower_twin_you_happy_hint_rally_warm
-bip_39_word_underscore_9: alert_flower_twin_you_happy_hint_rally_warm_pudding
 classification: category
 classification_capital: Category
 classification_first_letter: c

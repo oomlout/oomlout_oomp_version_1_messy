@@ -1,68 +1,9 @@
-bip_39_word_dash_1: borrow
-bip_39_word_dash_10: borrow-refuse-stairs-diet-quiz-giggle-nerve-client-artefact-ketchup
-bip_39_word_dash_11: borrow-refuse-stairs-diet-quiz-giggle-nerve-client-artefact-ketchup-opinion
 bip_39_word_dash_12: borrow-refuse-stairs-diet-quiz-giggle-nerve-client-artefact-ketchup-opinion-alien
 bip_39_word_dash_2: borrow-refuse
 bip_39_word_dash_3: borrow-refuse-stairs
-bip_39_word_dash_4: borrow-refuse-stairs-diet
-bip_39_word_dash_5: borrow-refuse-stairs-diet-quiz
-bip_39_word_dash_6: borrow-refuse-stairs-diet-quiz-giggle
-bip_39_word_dash_7: borrow-refuse-stairs-diet-quiz-giggle-nerve
-bip_39_word_dash_8: borrow-refuse-stairs-diet-quiz-giggle-nerve-client
-bip_39_word_dash_9: borrow-refuse-stairs-diet-quiz-giggle-nerve-client-artefact
-bip_39_word_new_br_1: borrow
-bip_39_word_new_br_10: borrow<br>refuse<br>stairs<br>diet<br>quiz<br>giggle<br>nerve<br>client<br>artefact<br>ketchup
-bip_39_word_new_br_11: borrow<br>refuse<br>stairs<br>diet<br>quiz<br>giggle<br>nerve<br>client<br>artefact<br>ketchup<br>opinion
 bip_39_word_new_br_12: borrow<br>refuse<br>stairs<br>diet<br>quiz<br>giggle<br>nerve<br>client<br>artefact<br>ketchup<br>opinion<br>alien
 bip_39_word_new_br_2: borrow<br>refuse
 bip_39_word_new_br_3: borrow<br>refuse<br>stairs
-bip_39_word_new_br_4: borrow<br>refuse<br>stairs<br>diet
-bip_39_word_new_br_5: borrow<br>refuse<br>stairs<br>diet<br>quiz
-bip_39_word_new_br_6: borrow<br>refuse<br>stairs<br>diet<br>quiz<br>giggle
-bip_39_word_new_br_7: borrow<br>refuse<br>stairs<br>diet<br>quiz<br>giggle<br>nerve
-bip_39_word_new_br_8: borrow<br>refuse<br>stairs<br>diet<br>quiz<br>giggle<br>nerve<br>client
-bip_39_word_new_br_9: borrow<br>refuse<br>stairs<br>diet<br>quiz<br>giggle<br>nerve<br>client<br>artefact
-bip_39_word_new_line_1: borrow
-bip_39_word_new_line_10: 'borrow
-
-  refuse
-
-  stairs
-
-  diet
-
-  quiz
-
-  giggle
-
-  nerve
-
-  client
-
-  artefact
-
-  ketchup'
-bip_39_word_new_line_11: 'borrow
-
-  refuse
-
-  stairs
-
-  diet
-
-  quiz
-
-  giggle
-
-  nerve
-
-  client
-
-  artefact
-
-  ketchup
-
-  opinion'
 bip_39_word_new_line_12: 'borrow
 
   refuse
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'borrow
   refuse
 
   stairs'
-bip_39_word_new_line_4: 'borrow
-
-  refuse
-
-  stairs
-
-  diet'
-bip_39_word_new_line_5: 'borrow
-
-  refuse
-
-  stairs
-
-  diet
-
-  quiz'
-bip_39_word_new_line_6: 'borrow
-
-  refuse
-
-  stairs
-
-  diet
-
-  quiz
-
-  giggle'
-bip_39_word_new_line_7: 'borrow
-
-  refuse
-
-  stairs
-
-  diet
-
-  quiz
-
-  giggle
-
-  nerve'
-bip_39_word_new_line_8: 'borrow
-
-  refuse
-
-  stairs
-
-  diet
-
-  quiz
-
-  giggle
-
-  nerve
-
-  client'
-bip_39_word_new_line_9: 'borrow
-
-  refuse
-
-  stairs
-
-  diet
-
-  quiz
-
-  giggle
-
-  nerve
-
-  client
-
-  artefact'
-bip_39_word_no_space_1: borrow
-bip_39_word_no_space_10: borrowrefusestairsdietquizgigglenerveclientartefactketchup
-bip_39_word_no_space_11: borrowrefusestairsdietquizgigglenerveclientartefactketchupopinion
 bip_39_word_no_space_12: borrowrefusestairsdietquizgigglenerveclientartefactketchupopinionalien
 bip_39_word_no_space_2: borrowrefuse
 bip_39_word_no_space_3: borrowrefusestairs
-bip_39_word_no_space_4: borrowrefusestairsdiet
-bip_39_word_no_space_5: borrowrefusestairsdietquiz
-bip_39_word_no_space_6: borrowrefusestairsdietquizgiggle
-bip_39_word_no_space_7: borrowrefusestairsdietquizgigglenerve
-bip_39_word_no_space_8: borrowrefusestairsdietquizgigglenerveclient
-bip_39_word_no_space_9: borrowrefusestairsdietquizgigglenerveclientartefact
-bip_39_word_space_0:
-- borrow
-- refuse
-- stairs
-- diet
-- quiz
-- giggle
-- nerve
-- client
-- artefact
-- ketchup
-- opinion
-- alien
-bip_39_word_space_1: borrow
-bip_39_word_space_10: borrow refuse stairs diet quiz giggle nerve client artefact
-  ketchup
-bip_39_word_space_11: borrow refuse stairs diet quiz giggle nerve client artefact
-  ketchup opinion
 bip_39_word_space_12: borrow refuse stairs diet quiz giggle nerve client artefact
   ketchup opinion alien
 bip_39_word_space_2: borrow refuse
 bip_39_word_space_3: borrow refuse stairs
-bip_39_word_space_4: borrow refuse stairs diet
-bip_39_word_space_5: borrow refuse stairs diet quiz
-bip_39_word_space_6: borrow refuse stairs diet quiz giggle
-bip_39_word_space_7: borrow refuse stairs diet quiz giggle nerve
-bip_39_word_space_8: borrow refuse stairs diet quiz giggle nerve client
-bip_39_word_space_9: borrow refuse stairs diet quiz giggle nerve client artefact
-bip_39_word_underscore_1: borrow
-bip_39_word_underscore_10: borrow_refuse_stairs_diet_quiz_giggle_nerve_client_artefact_ketchup
-bip_39_word_underscore_11: borrow_refuse_stairs_diet_quiz_giggle_nerve_client_artefact_ketchup_opinion
 bip_39_word_underscore_12: borrow_refuse_stairs_diet_quiz_giggle_nerve_client_artefact_ketchup_opinion_alien
 bip_39_word_underscore_2: borrow_refuse
 bip_39_word_underscore_3: borrow_refuse_stairs
-bip_39_word_underscore_4: borrow_refuse_stairs_diet
-bip_39_word_underscore_5: borrow_refuse_stairs_diet_quiz
-bip_39_word_underscore_6: borrow_refuse_stairs_diet_quiz_giggle
-bip_39_word_underscore_7: borrow_refuse_stairs_diet_quiz_giggle_nerve
-bip_39_word_underscore_8: borrow_refuse_stairs_diet_quiz_giggle_nerve_client
-bip_39_word_underscore_9: borrow_refuse_stairs_diet_quiz_giggle_nerve_client_artefact
 classification: project
 classification_capital: Project
 classification_first_letter: p

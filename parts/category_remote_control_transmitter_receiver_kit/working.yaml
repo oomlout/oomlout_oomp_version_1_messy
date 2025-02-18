@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wire
-bip_39_word_dash_10: wire-tourist-doctor-unlock-picnic-certain-helmet-rare-tenant-young
-bip_39_word_dash_11: wire-tourist-doctor-unlock-picnic-certain-helmet-rare-tenant-young-away
 bip_39_word_dash_12: wire-tourist-doctor-unlock-picnic-certain-helmet-rare-tenant-young-away-answer
 bip_39_word_dash_2: wire-tourist
 bip_39_word_dash_3: wire-tourist-doctor
-bip_39_word_dash_4: wire-tourist-doctor-unlock
-bip_39_word_dash_5: wire-tourist-doctor-unlock-picnic
-bip_39_word_dash_6: wire-tourist-doctor-unlock-picnic-certain
-bip_39_word_dash_7: wire-tourist-doctor-unlock-picnic-certain-helmet
-bip_39_word_dash_8: wire-tourist-doctor-unlock-picnic-certain-helmet-rare
-bip_39_word_dash_9: wire-tourist-doctor-unlock-picnic-certain-helmet-rare-tenant
-bip_39_word_new_br_1: wire
-bip_39_word_new_br_10: wire<br>tourist<br>doctor<br>unlock<br>picnic<br>certain<br>helmet<br>rare<br>tenant<br>young
-bip_39_word_new_br_11: wire<br>tourist<br>doctor<br>unlock<br>picnic<br>certain<br>helmet<br>rare<br>tenant<br>young<br>away
 bip_39_word_new_br_12: wire<br>tourist<br>doctor<br>unlock<br>picnic<br>certain<br>helmet<br>rare<br>tenant<br>young<br>away<br>answer
 bip_39_word_new_br_2: wire<br>tourist
 bip_39_word_new_br_3: wire<br>tourist<br>doctor
-bip_39_word_new_br_4: wire<br>tourist<br>doctor<br>unlock
-bip_39_word_new_br_5: wire<br>tourist<br>doctor<br>unlock<br>picnic
-bip_39_word_new_br_6: wire<br>tourist<br>doctor<br>unlock<br>picnic<br>certain
-bip_39_word_new_br_7: wire<br>tourist<br>doctor<br>unlock<br>picnic<br>certain<br>helmet
-bip_39_word_new_br_8: wire<br>tourist<br>doctor<br>unlock<br>picnic<br>certain<br>helmet<br>rare
-bip_39_word_new_br_9: wire<br>tourist<br>doctor<br>unlock<br>picnic<br>certain<br>helmet<br>rare<br>tenant
-bip_39_word_new_line_1: wire
-bip_39_word_new_line_10: 'wire
-
-  tourist
-
-  doctor
-
-  unlock
-
-  picnic
-
-  certain
-
-  helmet
-
-  rare
-
-  tenant
-
-  young'
-bip_39_word_new_line_11: 'wire
-
-  tourist
-
-  doctor
-
-  unlock
-
-  picnic
-
-  certain
-
-  helmet
-
-  rare
-
-  tenant
-
-  young
-
-  away'
 bip_39_word_new_line_12: 'wire
 
   tourist
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'wire
   tourist
 
   doctor'
-bip_39_word_new_line_4: 'wire
-
-  tourist
-
-  doctor
-
-  unlock'
-bip_39_word_new_line_5: 'wire
-
-  tourist
-
-  doctor
-
-  unlock
-
-  picnic'
-bip_39_word_new_line_6: 'wire
-
-  tourist
-
-  doctor
-
-  unlock
-
-  picnic
-
-  certain'
-bip_39_word_new_line_7: 'wire
-
-  tourist
-
-  doctor
-
-  unlock
-
-  picnic
-
-  certain
-
-  helmet'
-bip_39_word_new_line_8: 'wire
-
-  tourist
-
-  doctor
-
-  unlock
-
-  picnic
-
-  certain
-
-  helmet
-
-  rare'
-bip_39_word_new_line_9: 'wire
-
-  tourist
-
-  doctor
-
-  unlock
-
-  picnic
-
-  certain
-
-  helmet
-
-  rare
-
-  tenant'
-bip_39_word_no_space_1: wire
-bip_39_word_no_space_10: wiretouristdoctorunlockpicniccertainhelmetraretenantyoung
-bip_39_word_no_space_11: wiretouristdoctorunlockpicniccertainhelmetraretenantyoungaway
 bip_39_word_no_space_12: wiretouristdoctorunlockpicniccertainhelmetraretenantyoungawayanswer
 bip_39_word_no_space_2: wiretourist
 bip_39_word_no_space_3: wiretouristdoctor
-bip_39_word_no_space_4: wiretouristdoctorunlock
-bip_39_word_no_space_5: wiretouristdoctorunlockpicnic
-bip_39_word_no_space_6: wiretouristdoctorunlockpicniccertain
-bip_39_word_no_space_7: wiretouristdoctorunlockpicniccertainhelmet
-bip_39_word_no_space_8: wiretouristdoctorunlockpicniccertainhelmetrare
-bip_39_word_no_space_9: wiretouristdoctorunlockpicniccertainhelmetraretenant
-bip_39_word_space_0:
-- wire
-- tourist
-- doctor
-- unlock
-- picnic
-- certain
-- helmet
-- rare
-- tenant
-- young
-- away
-- answer
-bip_39_word_space_1: wire
-bip_39_word_space_10: wire tourist doctor unlock picnic certain helmet rare tenant
-  young
-bip_39_word_space_11: wire tourist doctor unlock picnic certain helmet rare tenant
-  young away
 bip_39_word_space_12: wire tourist doctor unlock picnic certain helmet rare tenant
   young away answer
 bip_39_word_space_2: wire tourist
 bip_39_word_space_3: wire tourist doctor
-bip_39_word_space_4: wire tourist doctor unlock
-bip_39_word_space_5: wire tourist doctor unlock picnic
-bip_39_word_space_6: wire tourist doctor unlock picnic certain
-bip_39_word_space_7: wire tourist doctor unlock picnic certain helmet
-bip_39_word_space_8: wire tourist doctor unlock picnic certain helmet rare
-bip_39_word_space_9: wire tourist doctor unlock picnic certain helmet rare tenant
-bip_39_word_underscore_1: wire
-bip_39_word_underscore_10: wire_tourist_doctor_unlock_picnic_certain_helmet_rare_tenant_young
-bip_39_word_underscore_11: wire_tourist_doctor_unlock_picnic_certain_helmet_rare_tenant_young_away
 bip_39_word_underscore_12: wire_tourist_doctor_unlock_picnic_certain_helmet_rare_tenant_young_away_answer
 bip_39_word_underscore_2: wire_tourist
 bip_39_word_underscore_3: wire_tourist_doctor
-bip_39_word_underscore_4: wire_tourist_doctor_unlock
-bip_39_word_underscore_5: wire_tourist_doctor_unlock_picnic
-bip_39_word_underscore_6: wire_tourist_doctor_unlock_picnic_certain
-bip_39_word_underscore_7: wire_tourist_doctor_unlock_picnic_certain_helmet
-bip_39_word_underscore_8: wire_tourist_doctor_unlock_picnic_certain_helmet_rare
-bip_39_word_underscore_9: wire_tourist_doctor_unlock_picnic_certain_helmet_rare_tenant
 classification: category
 classification_capital: Category
 classification_first_letter: c

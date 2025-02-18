@@ -1,68 +1,9 @@
-bip_39_word_dash_1: deer
-bip_39_word_dash_10: deer-outside-test-achieve-guilt-cement-column-cry-inform-grass
-bip_39_word_dash_11: deer-outside-test-achieve-guilt-cement-column-cry-inform-grass-now
 bip_39_word_dash_12: deer-outside-test-achieve-guilt-cement-column-cry-inform-grass-now-alert
 bip_39_word_dash_2: deer-outside
 bip_39_word_dash_3: deer-outside-test
-bip_39_word_dash_4: deer-outside-test-achieve
-bip_39_word_dash_5: deer-outside-test-achieve-guilt
-bip_39_word_dash_6: deer-outside-test-achieve-guilt-cement
-bip_39_word_dash_7: deer-outside-test-achieve-guilt-cement-column
-bip_39_word_dash_8: deer-outside-test-achieve-guilt-cement-column-cry
-bip_39_word_dash_9: deer-outside-test-achieve-guilt-cement-column-cry-inform
-bip_39_word_new_br_1: deer
-bip_39_word_new_br_10: deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform<br>grass
-bip_39_word_new_br_11: deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform<br>grass<br>now
 bip_39_word_new_br_12: deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform<br>grass<br>now<br>alert
 bip_39_word_new_br_2: deer<br>outside
 bip_39_word_new_br_3: deer<br>outside<br>test
-bip_39_word_new_br_4: deer<br>outside<br>test<br>achieve
-bip_39_word_new_br_5: deer<br>outside<br>test<br>achieve<br>guilt
-bip_39_word_new_br_6: deer<br>outside<br>test<br>achieve<br>guilt<br>cement
-bip_39_word_new_br_7: deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column
-bip_39_word_new_br_8: deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry
-bip_39_word_new_br_9: deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform
-bip_39_word_new_line_1: deer
-bip_39_word_new_line_10: 'deer
-
-  outside
-
-  test
-
-  achieve
-
-  guilt
-
-  cement
-
-  column
-
-  cry
-
-  inform
-
-  grass'
-bip_39_word_new_line_11: 'deer
-
-  outside
-
-  test
-
-  achieve
-
-  guilt
-
-  cement
-
-  column
-
-  cry
-
-  inform
-
-  grass
-
-  now'
 bip_39_word_new_line_12: 'deer
 
   outside
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'deer
   outside
 
   test'
-bip_39_word_new_line_4: 'deer
-
-  outside
-
-  test
-
-  achieve'
-bip_39_word_new_line_5: 'deer
-
-  outside
-
-  test
-
-  achieve
-
-  guilt'
-bip_39_word_new_line_6: 'deer
-
-  outside
-
-  test
-
-  achieve
-
-  guilt
-
-  cement'
-bip_39_word_new_line_7: 'deer
-
-  outside
-
-  test
-
-  achieve
-
-  guilt
-
-  cement
-
-  column'
-bip_39_word_new_line_8: 'deer
-
-  outside
-
-  test
-
-  achieve
-
-  guilt
-
-  cement
-
-  column
-
-  cry'
-bip_39_word_new_line_9: 'deer
-
-  outside
-
-  test
-
-  achieve
-
-  guilt
-
-  cement
-
-  column
-
-  cry
-
-  inform'
-bip_39_word_no_space_1: deer
-bip_39_word_no_space_10: deeroutsidetestachieveguiltcementcolumncryinformgrass
-bip_39_word_no_space_11: deeroutsidetestachieveguiltcementcolumncryinformgrassnow
 bip_39_word_no_space_12: deeroutsidetestachieveguiltcementcolumncryinformgrassnowalert
 bip_39_word_no_space_2: deeroutside
 bip_39_word_no_space_3: deeroutsidetest
-bip_39_word_no_space_4: deeroutsidetestachieve
-bip_39_word_no_space_5: deeroutsidetestachieveguilt
-bip_39_word_no_space_6: deeroutsidetestachieveguiltcement
-bip_39_word_no_space_7: deeroutsidetestachieveguiltcementcolumn
-bip_39_word_no_space_8: deeroutsidetestachieveguiltcementcolumncry
-bip_39_word_no_space_9: deeroutsidetestachieveguiltcementcolumncryinform
-bip_39_word_space_0:
-- deer
-- outside
-- test
-- achieve
-- guilt
-- cement
-- column
-- cry
-- inform
-- grass
-- now
-- alert
-bip_39_word_space_1: deer
-bip_39_word_space_10: deer outside test achieve guilt cement column cry inform grass
-bip_39_word_space_11: deer outside test achieve guilt cement column cry inform grass
-  now
 bip_39_word_space_12: deer outside test achieve guilt cement column cry inform grass
   now alert
 bip_39_word_space_2: deer outside
 bip_39_word_space_3: deer outside test
-bip_39_word_space_4: deer outside test achieve
-bip_39_word_space_5: deer outside test achieve guilt
-bip_39_word_space_6: deer outside test achieve guilt cement
-bip_39_word_space_7: deer outside test achieve guilt cement column
-bip_39_word_space_8: deer outside test achieve guilt cement column cry
-bip_39_word_space_9: deer outside test achieve guilt cement column cry inform
-bip_39_word_underscore_1: deer
-bip_39_word_underscore_10: deer_outside_test_achieve_guilt_cement_column_cry_inform_grass
-bip_39_word_underscore_11: deer_outside_test_achieve_guilt_cement_column_cry_inform_grass_now
 bip_39_word_underscore_12: deer_outside_test_achieve_guilt_cement_column_cry_inform_grass_now_alert
 bip_39_word_underscore_2: deer_outside
 bip_39_word_underscore_3: deer_outside_test
-bip_39_word_underscore_4: deer_outside_test_achieve
-bip_39_word_underscore_5: deer_outside_test_achieve_guilt
-bip_39_word_underscore_6: deer_outside_test_achieve_guilt_cement
-bip_39_word_underscore_7: deer_outside_test_achieve_guilt_cement_column
-bip_39_word_underscore_8: deer_outside_test_achieve_guilt_cement_column_cry
-bip_39_word_underscore_9: deer_outside_test_achieve_guilt_cement_column_cry_inform
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

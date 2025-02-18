@@ -1,68 +1,9 @@
-bip_39_word_dash_1: field
-bip_39_word_dash_10: field-silent-gold-believe-wreck-odor-guard-unusual-crew-disagree
-bip_39_word_dash_11: field-silent-gold-believe-wreck-odor-guard-unusual-crew-disagree-laundry
 bip_39_word_dash_12: field-silent-gold-believe-wreck-odor-guard-unusual-crew-disagree-laundry-actual
 bip_39_word_dash_2: field-silent
 bip_39_word_dash_3: field-silent-gold
-bip_39_word_dash_4: field-silent-gold-believe
-bip_39_word_dash_5: field-silent-gold-believe-wreck
-bip_39_word_dash_6: field-silent-gold-believe-wreck-odor
-bip_39_word_dash_7: field-silent-gold-believe-wreck-odor-guard
-bip_39_word_dash_8: field-silent-gold-believe-wreck-odor-guard-unusual
-bip_39_word_dash_9: field-silent-gold-believe-wreck-odor-guard-unusual-crew
-bip_39_word_new_br_1: field
-bip_39_word_new_br_10: field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual<br>crew<br>disagree
-bip_39_word_new_br_11: field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual<br>crew<br>disagree<br>laundry
 bip_39_word_new_br_12: field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual<br>crew<br>disagree<br>laundry<br>actual
 bip_39_word_new_br_2: field<br>silent
 bip_39_word_new_br_3: field<br>silent<br>gold
-bip_39_word_new_br_4: field<br>silent<br>gold<br>believe
-bip_39_word_new_br_5: field<br>silent<br>gold<br>believe<br>wreck
-bip_39_word_new_br_6: field<br>silent<br>gold<br>believe<br>wreck<br>odor
-bip_39_word_new_br_7: field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard
-bip_39_word_new_br_8: field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual
-bip_39_word_new_br_9: field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual<br>crew
-bip_39_word_new_line_1: field
-bip_39_word_new_line_10: 'field
-
-  silent
-
-  gold
-
-  believe
-
-  wreck
-
-  odor
-
-  guard
-
-  unusual
-
-  crew
-
-  disagree'
-bip_39_word_new_line_11: 'field
-
-  silent
-
-  gold
-
-  believe
-
-  wreck
-
-  odor
-
-  guard
-
-  unusual
-
-  crew
-
-  disagree
-
-  laundry'
 bip_39_word_new_line_12: 'field
 
   silent
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'field
   silent
 
   gold'
-bip_39_word_new_line_4: 'field
-
-  silent
-
-  gold
-
-  believe'
-bip_39_word_new_line_5: 'field
-
-  silent
-
-  gold
-
-  believe
-
-  wreck'
-bip_39_word_new_line_6: 'field
-
-  silent
-
-  gold
-
-  believe
-
-  wreck
-
-  odor'
-bip_39_word_new_line_7: 'field
-
-  silent
-
-  gold
-
-  believe
-
-  wreck
-
-  odor
-
-  guard'
-bip_39_word_new_line_8: 'field
-
-  silent
-
-  gold
-
-  believe
-
-  wreck
-
-  odor
-
-  guard
-
-  unusual'
-bip_39_word_new_line_9: 'field
-
-  silent
-
-  gold
-
-  believe
-
-  wreck
-
-  odor
-
-  guard
-
-  unusual
-
-  crew'
-bip_39_word_no_space_1: field
-bip_39_word_no_space_10: fieldsilentgoldbelievewreckodorguardunusualcrewdisagree
-bip_39_word_no_space_11: fieldsilentgoldbelievewreckodorguardunusualcrewdisagreelaundry
 bip_39_word_no_space_12: fieldsilentgoldbelievewreckodorguardunusualcrewdisagreelaundryactual
 bip_39_word_no_space_2: fieldsilent
 bip_39_word_no_space_3: fieldsilentgold
-bip_39_word_no_space_4: fieldsilentgoldbelieve
-bip_39_word_no_space_5: fieldsilentgoldbelievewreck
-bip_39_word_no_space_6: fieldsilentgoldbelievewreckodor
-bip_39_word_no_space_7: fieldsilentgoldbelievewreckodorguard
-bip_39_word_no_space_8: fieldsilentgoldbelievewreckodorguardunusual
-bip_39_word_no_space_9: fieldsilentgoldbelievewreckodorguardunusualcrew
-bip_39_word_space_0:
-- field
-- silent
-- gold
-- believe
-- wreck
-- odor
-- guard
-- unusual
-- crew
-- disagree
-- laundry
-- actual
-bip_39_word_space_1: field
-bip_39_word_space_10: field silent gold believe wreck odor guard unusual crew disagree
-bip_39_word_space_11: field silent gold believe wreck odor guard unusual crew disagree
-  laundry
 bip_39_word_space_12: field silent gold believe wreck odor guard unusual crew disagree
   laundry actual
 bip_39_word_space_2: field silent
 bip_39_word_space_3: field silent gold
-bip_39_word_space_4: field silent gold believe
-bip_39_word_space_5: field silent gold believe wreck
-bip_39_word_space_6: field silent gold believe wreck odor
-bip_39_word_space_7: field silent gold believe wreck odor guard
-bip_39_word_space_8: field silent gold believe wreck odor guard unusual
-bip_39_word_space_9: field silent gold believe wreck odor guard unusual crew
-bip_39_word_underscore_1: field
-bip_39_word_underscore_10: field_silent_gold_believe_wreck_odor_guard_unusual_crew_disagree
-bip_39_word_underscore_11: field_silent_gold_believe_wreck_odor_guard_unusual_crew_disagree_laundry
 bip_39_word_underscore_12: field_silent_gold_believe_wreck_odor_guard_unusual_crew_disagree_laundry_actual
 bip_39_word_underscore_2: field_silent
 bip_39_word_underscore_3: field_silent_gold
-bip_39_word_underscore_4: field_silent_gold_believe
-bip_39_word_underscore_5: field_silent_gold_believe_wreck
-bip_39_word_underscore_6: field_silent_gold_believe_wreck_odor
-bip_39_word_underscore_7: field_silent_gold_believe_wreck_odor_guard
-bip_39_word_underscore_8: field_silent_gold_believe_wreck_odor_guard_unusual
-bip_39_word_underscore_9: field_silent_gold_believe_wreck_odor_guard_unusual_crew
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: logic
-bip_39_word_dash_10: logic-magic-skull-snow-burger-keep-snake-awesome-naive-mobile
-bip_39_word_dash_11: logic-magic-skull-snow-burger-keep-snake-awesome-naive-mobile-ill
 bip_39_word_dash_12: logic-magic-skull-snow-burger-keep-snake-awesome-naive-mobile-ill-arch
 bip_39_word_dash_2: logic-magic
 bip_39_word_dash_3: logic-magic-skull
-bip_39_word_dash_4: logic-magic-skull-snow
-bip_39_word_dash_5: logic-magic-skull-snow-burger
-bip_39_word_dash_6: logic-magic-skull-snow-burger-keep
-bip_39_word_dash_7: logic-magic-skull-snow-burger-keep-snake
-bip_39_word_dash_8: logic-magic-skull-snow-burger-keep-snake-awesome
-bip_39_word_dash_9: logic-magic-skull-snow-burger-keep-snake-awesome-naive
-bip_39_word_new_br_1: logic
-bip_39_word_new_br_10: logic<br>magic<br>skull<br>snow<br>burger<br>keep<br>snake<br>awesome<br>naive<br>mobile
-bip_39_word_new_br_11: logic<br>magic<br>skull<br>snow<br>burger<br>keep<br>snake<br>awesome<br>naive<br>mobile<br>ill
 bip_39_word_new_br_12: logic<br>magic<br>skull<br>snow<br>burger<br>keep<br>snake<br>awesome<br>naive<br>mobile<br>ill<br>arch
 bip_39_word_new_br_2: logic<br>magic
 bip_39_word_new_br_3: logic<br>magic<br>skull
-bip_39_word_new_br_4: logic<br>magic<br>skull<br>snow
-bip_39_word_new_br_5: logic<br>magic<br>skull<br>snow<br>burger
-bip_39_word_new_br_6: logic<br>magic<br>skull<br>snow<br>burger<br>keep
-bip_39_word_new_br_7: logic<br>magic<br>skull<br>snow<br>burger<br>keep<br>snake
-bip_39_word_new_br_8: logic<br>magic<br>skull<br>snow<br>burger<br>keep<br>snake<br>awesome
-bip_39_word_new_br_9: logic<br>magic<br>skull<br>snow<br>burger<br>keep<br>snake<br>awesome<br>naive
-bip_39_word_new_line_1: logic
-bip_39_word_new_line_10: 'logic
-
-  magic
-
-  skull
-
-  snow
-
-  burger
-
-  keep
-
-  snake
-
-  awesome
-
-  naive
-
-  mobile'
-bip_39_word_new_line_11: 'logic
-
-  magic
-
-  skull
-
-  snow
-
-  burger
-
-  keep
-
-  snake
-
-  awesome
-
-  naive
-
-  mobile
-
-  ill'
 bip_39_word_new_line_12: 'logic
 
   magic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'logic
   magic
 
   skull'
-bip_39_word_new_line_4: 'logic
-
-  magic
-
-  skull
-
-  snow'
-bip_39_word_new_line_5: 'logic
-
-  magic
-
-  skull
-
-  snow
-
-  burger'
-bip_39_word_new_line_6: 'logic
-
-  magic
-
-  skull
-
-  snow
-
-  burger
-
-  keep'
-bip_39_word_new_line_7: 'logic
-
-  magic
-
-  skull
-
-  snow
-
-  burger
-
-  keep
-
-  snake'
-bip_39_word_new_line_8: 'logic
-
-  magic
-
-  skull
-
-  snow
-
-  burger
-
-  keep
-
-  snake
-
-  awesome'
-bip_39_word_new_line_9: 'logic
-
-  magic
-
-  skull
-
-  snow
-
-  burger
-
-  keep
-
-  snake
-
-  awesome
-
-  naive'
-bip_39_word_no_space_1: logic
-bip_39_word_no_space_10: logicmagicskullsnowburgerkeepsnakeawesomenaivemobile
-bip_39_word_no_space_11: logicmagicskullsnowburgerkeepsnakeawesomenaivemobileill
 bip_39_word_no_space_12: logicmagicskullsnowburgerkeepsnakeawesomenaivemobileillarch
 bip_39_word_no_space_2: logicmagic
 bip_39_word_no_space_3: logicmagicskull
-bip_39_word_no_space_4: logicmagicskullsnow
-bip_39_word_no_space_5: logicmagicskullsnowburger
-bip_39_word_no_space_6: logicmagicskullsnowburgerkeep
-bip_39_word_no_space_7: logicmagicskullsnowburgerkeepsnake
-bip_39_word_no_space_8: logicmagicskullsnowburgerkeepsnakeawesome
-bip_39_word_no_space_9: logicmagicskullsnowburgerkeepsnakeawesomenaive
-bip_39_word_space_0:
-- logic
-- magic
-- skull
-- snow
-- burger
-- keep
-- snake
-- awesome
-- naive
-- mobile
-- ill
-- arch
-bip_39_word_space_1: logic
-bip_39_word_space_10: logic magic skull snow burger keep snake awesome naive mobile
-bip_39_word_space_11: logic magic skull snow burger keep snake awesome naive mobile
-  ill
 bip_39_word_space_12: logic magic skull snow burger keep snake awesome naive mobile
   ill arch
 bip_39_word_space_2: logic magic
 bip_39_word_space_3: logic magic skull
-bip_39_word_space_4: logic magic skull snow
-bip_39_word_space_5: logic magic skull snow burger
-bip_39_word_space_6: logic magic skull snow burger keep
-bip_39_word_space_7: logic magic skull snow burger keep snake
-bip_39_word_space_8: logic magic skull snow burger keep snake awesome
-bip_39_word_space_9: logic magic skull snow burger keep snake awesome naive
-bip_39_word_underscore_1: logic
-bip_39_word_underscore_10: logic_magic_skull_snow_burger_keep_snake_awesome_naive_mobile
-bip_39_word_underscore_11: logic_magic_skull_snow_burger_keep_snake_awesome_naive_mobile_ill
 bip_39_word_underscore_12: logic_magic_skull_snow_burger_keep_snake_awesome_naive_mobile_ill_arch
 bip_39_word_underscore_2: logic_magic
 bip_39_word_underscore_3: logic_magic_skull
-bip_39_word_underscore_4: logic_magic_skull_snow
-bip_39_word_underscore_5: logic_magic_skull_snow_burger
-bip_39_word_underscore_6: logic_magic_skull_snow_burger_keep
-bip_39_word_underscore_7: logic_magic_skull_snow_burger_keep_snake
-bip_39_word_underscore_8: logic_magic_skull_snow_burger_keep_snake_awesome
-bip_39_word_underscore_9: logic_magic_skull_snow_burger_keep_snake_awesome_naive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

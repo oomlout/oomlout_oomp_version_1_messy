@@ -1,68 +1,9 @@
-bip_39_word_dash_1: world
-bip_39_word_dash_10: world-sail-unknown-depth-luggage-mimic-march-broom-sniff-rescue
-bip_39_word_dash_11: world-sail-unknown-depth-luggage-mimic-march-broom-sniff-rescue-lizard
 bip_39_word_dash_12: world-sail-unknown-depth-luggage-mimic-march-broom-sniff-rescue-lizard-accident
 bip_39_word_dash_2: world-sail
 bip_39_word_dash_3: world-sail-unknown
-bip_39_word_dash_4: world-sail-unknown-depth
-bip_39_word_dash_5: world-sail-unknown-depth-luggage
-bip_39_word_dash_6: world-sail-unknown-depth-luggage-mimic
-bip_39_word_dash_7: world-sail-unknown-depth-luggage-mimic-march
-bip_39_word_dash_8: world-sail-unknown-depth-luggage-mimic-march-broom
-bip_39_word_dash_9: world-sail-unknown-depth-luggage-mimic-march-broom-sniff
-bip_39_word_new_br_1: world
-bip_39_word_new_br_10: world<br>sail<br>unknown<br>depth<br>luggage<br>mimic<br>march<br>broom<br>sniff<br>rescue
-bip_39_word_new_br_11: world<br>sail<br>unknown<br>depth<br>luggage<br>mimic<br>march<br>broom<br>sniff<br>rescue<br>lizard
 bip_39_word_new_br_12: world<br>sail<br>unknown<br>depth<br>luggage<br>mimic<br>march<br>broom<br>sniff<br>rescue<br>lizard<br>accident
 bip_39_word_new_br_2: world<br>sail
 bip_39_word_new_br_3: world<br>sail<br>unknown
-bip_39_word_new_br_4: world<br>sail<br>unknown<br>depth
-bip_39_word_new_br_5: world<br>sail<br>unknown<br>depth<br>luggage
-bip_39_word_new_br_6: world<br>sail<br>unknown<br>depth<br>luggage<br>mimic
-bip_39_word_new_br_7: world<br>sail<br>unknown<br>depth<br>luggage<br>mimic<br>march
-bip_39_word_new_br_8: world<br>sail<br>unknown<br>depth<br>luggage<br>mimic<br>march<br>broom
-bip_39_word_new_br_9: world<br>sail<br>unknown<br>depth<br>luggage<br>mimic<br>march<br>broom<br>sniff
-bip_39_word_new_line_1: world
-bip_39_word_new_line_10: 'world
-
-  sail
-
-  unknown
-
-  depth
-
-  luggage
-
-  mimic
-
-  march
-
-  broom
-
-  sniff
-
-  rescue'
-bip_39_word_new_line_11: 'world
-
-  sail
-
-  unknown
-
-  depth
-
-  luggage
-
-  mimic
-
-  march
-
-  broom
-
-  sniff
-
-  rescue
-
-  lizard'
 bip_39_word_new_line_12: 'world
 
   sail
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'world
   sail
 
   unknown'
-bip_39_word_new_line_4: 'world
-
-  sail
-
-  unknown
-
-  depth'
-bip_39_word_new_line_5: 'world
-
-  sail
-
-  unknown
-
-  depth
-
-  luggage'
-bip_39_word_new_line_6: 'world
-
-  sail
-
-  unknown
-
-  depth
-
-  luggage
-
-  mimic'
-bip_39_word_new_line_7: 'world
-
-  sail
-
-  unknown
-
-  depth
-
-  luggage
-
-  mimic
-
-  march'
-bip_39_word_new_line_8: 'world
-
-  sail
-
-  unknown
-
-  depth
-
-  luggage
-
-  mimic
-
-  march
-
-  broom'
-bip_39_word_new_line_9: 'world
-
-  sail
-
-  unknown
-
-  depth
-
-  luggage
-
-  mimic
-
-  march
-
-  broom
-
-  sniff'
-bip_39_word_no_space_1: world
-bip_39_word_no_space_10: worldsailunknowndepthluggagemimicmarchbroomsniffrescue
-bip_39_word_no_space_11: worldsailunknowndepthluggagemimicmarchbroomsniffrescuelizard
 bip_39_word_no_space_12: worldsailunknowndepthluggagemimicmarchbroomsniffrescuelizardaccident
 bip_39_word_no_space_2: worldsail
 bip_39_word_no_space_3: worldsailunknown
-bip_39_word_no_space_4: worldsailunknowndepth
-bip_39_word_no_space_5: worldsailunknowndepthluggage
-bip_39_word_no_space_6: worldsailunknowndepthluggagemimic
-bip_39_word_no_space_7: worldsailunknowndepthluggagemimicmarch
-bip_39_word_no_space_8: worldsailunknowndepthluggagemimicmarchbroom
-bip_39_word_no_space_9: worldsailunknowndepthluggagemimicmarchbroomsniff
-bip_39_word_space_0:
-- world
-- sail
-- unknown
-- depth
-- luggage
-- mimic
-- march
-- broom
-- sniff
-- rescue
-- lizard
-- accident
-bip_39_word_space_1: world
-bip_39_word_space_10: world sail unknown depth luggage mimic march broom sniff rescue
-bip_39_word_space_11: world sail unknown depth luggage mimic march broom sniff rescue
-  lizard
 bip_39_word_space_12: world sail unknown depth luggage mimic march broom sniff rescue
   lizard accident
 bip_39_word_space_2: world sail
 bip_39_word_space_3: world sail unknown
-bip_39_word_space_4: world sail unknown depth
-bip_39_word_space_5: world sail unknown depth luggage
-bip_39_word_space_6: world sail unknown depth luggage mimic
-bip_39_word_space_7: world sail unknown depth luggage mimic march
-bip_39_word_space_8: world sail unknown depth luggage mimic march broom
-bip_39_word_space_9: world sail unknown depth luggage mimic march broom sniff
-bip_39_word_underscore_1: world
-bip_39_word_underscore_10: world_sail_unknown_depth_luggage_mimic_march_broom_sniff_rescue
-bip_39_word_underscore_11: world_sail_unknown_depth_luggage_mimic_march_broom_sniff_rescue_lizard
 bip_39_word_underscore_12: world_sail_unknown_depth_luggage_mimic_march_broom_sniff_rescue_lizard_accident
 bip_39_word_underscore_2: world_sail
 bip_39_word_underscore_3: world_sail_unknown
-bip_39_word_underscore_4: world_sail_unknown_depth
-bip_39_word_underscore_5: world_sail_unknown_depth_luggage
-bip_39_word_underscore_6: world_sail_unknown_depth_luggage_mimic
-bip_39_word_underscore_7: world_sail_unknown_depth_luggage_mimic_march
-bip_39_word_underscore_8: world_sail_unknown_depth_luggage_mimic_march_broom
-bip_39_word_underscore_9: world_sail_unknown_depth_luggage_mimic_march_broom_sniff
 classification: category
 classification_capital: Category
 classification_first_letter: c

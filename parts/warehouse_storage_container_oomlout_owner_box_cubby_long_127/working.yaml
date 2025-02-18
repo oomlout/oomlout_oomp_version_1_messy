@@ -1,68 +1,9 @@
-bip_39_word_dash_1: route
-bip_39_word_dash_10: route-position-way-broccoli-boat-cushion-lawsuit-donate-heavy-act
-bip_39_word_dash_11: route-position-way-broccoli-boat-cushion-lawsuit-donate-heavy-act-rubber
 bip_39_word_dash_12: route-position-way-broccoli-boat-cushion-lawsuit-donate-heavy-act-rubber-alley
 bip_39_word_dash_2: route-position
 bip_39_word_dash_3: route-position-way
-bip_39_word_dash_4: route-position-way-broccoli
-bip_39_word_dash_5: route-position-way-broccoli-boat
-bip_39_word_dash_6: route-position-way-broccoli-boat-cushion
-bip_39_word_dash_7: route-position-way-broccoli-boat-cushion-lawsuit
-bip_39_word_dash_8: route-position-way-broccoli-boat-cushion-lawsuit-donate
-bip_39_word_dash_9: route-position-way-broccoli-boat-cushion-lawsuit-donate-heavy
-bip_39_word_new_br_1: route
-bip_39_word_new_br_10: route<br>position<br>way<br>broccoli<br>boat<br>cushion<br>lawsuit<br>donate<br>heavy<br>act
-bip_39_word_new_br_11: route<br>position<br>way<br>broccoli<br>boat<br>cushion<br>lawsuit<br>donate<br>heavy<br>act<br>rubber
 bip_39_word_new_br_12: route<br>position<br>way<br>broccoli<br>boat<br>cushion<br>lawsuit<br>donate<br>heavy<br>act<br>rubber<br>alley
 bip_39_word_new_br_2: route<br>position
 bip_39_word_new_br_3: route<br>position<br>way
-bip_39_word_new_br_4: route<br>position<br>way<br>broccoli
-bip_39_word_new_br_5: route<br>position<br>way<br>broccoli<br>boat
-bip_39_word_new_br_6: route<br>position<br>way<br>broccoli<br>boat<br>cushion
-bip_39_word_new_br_7: route<br>position<br>way<br>broccoli<br>boat<br>cushion<br>lawsuit
-bip_39_word_new_br_8: route<br>position<br>way<br>broccoli<br>boat<br>cushion<br>lawsuit<br>donate
-bip_39_word_new_br_9: route<br>position<br>way<br>broccoli<br>boat<br>cushion<br>lawsuit<br>donate<br>heavy
-bip_39_word_new_line_1: route
-bip_39_word_new_line_10: 'route
-
-  position
-
-  way
-
-  broccoli
-
-  boat
-
-  cushion
-
-  lawsuit
-
-  donate
-
-  heavy
-
-  act'
-bip_39_word_new_line_11: 'route
-
-  position
-
-  way
-
-  broccoli
-
-  boat
-
-  cushion
-
-  lawsuit
-
-  donate
-
-  heavy
-
-  act
-
-  rubber'
 bip_39_word_new_line_12: 'route
 
   position
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'route
   position
 
   way'
-bip_39_word_new_line_4: 'route
-
-  position
-
-  way
-
-  broccoli'
-bip_39_word_new_line_5: 'route
-
-  position
-
-  way
-
-  broccoli
-
-  boat'
-bip_39_word_new_line_6: 'route
-
-  position
-
-  way
-
-  broccoli
-
-  boat
-
-  cushion'
-bip_39_word_new_line_7: 'route
-
-  position
-
-  way
-
-  broccoli
-
-  boat
-
-  cushion
-
-  lawsuit'
-bip_39_word_new_line_8: 'route
-
-  position
-
-  way
-
-  broccoli
-
-  boat
-
-  cushion
-
-  lawsuit
-
-  donate'
-bip_39_word_new_line_9: 'route
-
-  position
-
-  way
-
-  broccoli
-
-  boat
-
-  cushion
-
-  lawsuit
-
-  donate
-
-  heavy'
-bip_39_word_no_space_1: route
-bip_39_word_no_space_10: routepositionwaybroccoliboatcushionlawsuitdonateheavyact
-bip_39_word_no_space_11: routepositionwaybroccoliboatcushionlawsuitdonateheavyactrubber
 bip_39_word_no_space_12: routepositionwaybroccoliboatcushionlawsuitdonateheavyactrubberalley
 bip_39_word_no_space_2: routeposition
 bip_39_word_no_space_3: routepositionway
-bip_39_word_no_space_4: routepositionwaybroccoli
-bip_39_word_no_space_5: routepositionwaybroccoliboat
-bip_39_word_no_space_6: routepositionwaybroccoliboatcushion
-bip_39_word_no_space_7: routepositionwaybroccoliboatcushionlawsuit
-bip_39_word_no_space_8: routepositionwaybroccoliboatcushionlawsuitdonate
-bip_39_word_no_space_9: routepositionwaybroccoliboatcushionlawsuitdonateheavy
-bip_39_word_space_0:
-- route
-- position
-- way
-- broccoli
-- boat
-- cushion
-- lawsuit
-- donate
-- heavy
-- act
-- rubber
-- alley
-bip_39_word_space_1: route
-bip_39_word_space_10: route position way broccoli boat cushion lawsuit donate heavy
-  act
-bip_39_word_space_11: route position way broccoli boat cushion lawsuit donate heavy
-  act rubber
 bip_39_word_space_12: route position way broccoli boat cushion lawsuit donate heavy
   act rubber alley
 bip_39_word_space_2: route position
 bip_39_word_space_3: route position way
-bip_39_word_space_4: route position way broccoli
-bip_39_word_space_5: route position way broccoli boat
-bip_39_word_space_6: route position way broccoli boat cushion
-bip_39_word_space_7: route position way broccoli boat cushion lawsuit
-bip_39_word_space_8: route position way broccoli boat cushion lawsuit donate
-bip_39_word_space_9: route position way broccoli boat cushion lawsuit donate heavy
-bip_39_word_underscore_1: route
-bip_39_word_underscore_10: route_position_way_broccoli_boat_cushion_lawsuit_donate_heavy_act
-bip_39_word_underscore_11: route_position_way_broccoli_boat_cushion_lawsuit_donate_heavy_act_rubber
 bip_39_word_underscore_12: route_position_way_broccoli_boat_cushion_lawsuit_donate_heavy_act_rubber_alley
 bip_39_word_underscore_2: route_position
 bip_39_word_underscore_3: route_position_way
-bip_39_word_underscore_4: route_position_way_broccoli
-bip_39_word_underscore_5: route_position_way_broccoli_boat
-bip_39_word_underscore_6: route_position_way_broccoli_boat_cushion
-bip_39_word_underscore_7: route_position_way_broccoli_boat_cushion_lawsuit
-bip_39_word_underscore_8: route_position_way_broccoli_boat_cushion_lawsuit_donate
-bip_39_word_underscore_9: route_position_way_broccoli_boat_cushion_lawsuit_donate_heavy
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

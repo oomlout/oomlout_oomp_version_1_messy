@@ -1,68 +1,9 @@
-bip_39_word_dash_1: donate
-bip_39_word_dash_10: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because
-bip_39_word_dash_11: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because-route
 bip_39_word_dash_12: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because-route-abstract
 bip_39_word_dash_2: donate-repeat
 bip_39_word_dash_3: donate-repeat-palm
-bip_39_word_dash_4: donate-repeat-palm-grit
-bip_39_word_dash_5: donate-repeat-palm-grit-noise
-bip_39_word_dash_6: donate-repeat-palm-grit-noise-sing
-bip_39_word_dash_7: donate-repeat-palm-grit-noise-sing-keen
-bip_39_word_dash_8: donate-repeat-palm-grit-noise-sing-keen-surprise
-bip_39_word_dash_9: donate-repeat-palm-grit-noise-sing-keen-surprise-shed
-bip_39_word_new_br_1: donate
-bip_39_word_new_br_10: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because
-bip_39_word_new_br_11: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because<br>route
 bip_39_word_new_br_12: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because<br>route<br>abstract
 bip_39_word_new_br_2: donate<br>repeat
 bip_39_word_new_br_3: donate<br>repeat<br>palm
-bip_39_word_new_br_4: donate<br>repeat<br>palm<br>grit
-bip_39_word_new_br_5: donate<br>repeat<br>palm<br>grit<br>noise
-bip_39_word_new_br_6: donate<br>repeat<br>palm<br>grit<br>noise<br>sing
-bip_39_word_new_br_7: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen
-bip_39_word_new_br_8: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise
-bip_39_word_new_br_9: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed
-bip_39_word_new_line_1: donate
-bip_39_word_new_line_10: 'donate
-
-  repeat
-
-  palm
-
-  grit
-
-  noise
-
-  sing
-
-  keen
-
-  surprise
-
-  shed
-
-  because'
-bip_39_word_new_line_11: 'donate
-
-  repeat
-
-  palm
-
-  grit
-
-  noise
-
-  sing
-
-  keen
-
-  surprise
-
-  shed
-
-  because
-
-  route'
 bip_39_word_new_line_12: 'donate
 
   repeat
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'donate
   repeat
 
   palm'
-bip_39_word_new_line_4: 'donate
-
-  repeat
-
-  palm
-
-  grit'
-bip_39_word_new_line_5: 'donate
-
-  repeat
-
-  palm
-
-  grit
-
-  noise'
-bip_39_word_new_line_6: 'donate
-
-  repeat
-
-  palm
-
-  grit
-
-  noise
-
-  sing'
-bip_39_word_new_line_7: 'donate
-
-  repeat
-
-  palm
-
-  grit
-
-  noise
-
-  sing
-
-  keen'
-bip_39_word_new_line_8: 'donate
-
-  repeat
-
-  palm
-
-  grit
-
-  noise
-
-  sing
-
-  keen
-
-  surprise'
-bip_39_word_new_line_9: 'donate
-
-  repeat
-
-  palm
-
-  grit
-
-  noise
-
-  sing
-
-  keen
-
-  surprise
-
-  shed'
-bip_39_word_no_space_1: donate
-bip_39_word_no_space_10: donaterepeatpalmgritnoisesingkeensurpriseshedbecause
-bip_39_word_no_space_11: donaterepeatpalmgritnoisesingkeensurpriseshedbecauseroute
 bip_39_word_no_space_12: donaterepeatpalmgritnoisesingkeensurpriseshedbecauserouteabstract
 bip_39_word_no_space_2: donaterepeat
 bip_39_word_no_space_3: donaterepeatpalm
-bip_39_word_no_space_4: donaterepeatpalmgrit
-bip_39_word_no_space_5: donaterepeatpalmgritnoise
-bip_39_word_no_space_6: donaterepeatpalmgritnoisesing
-bip_39_word_no_space_7: donaterepeatpalmgritnoisesingkeen
-bip_39_word_no_space_8: donaterepeatpalmgritnoisesingkeensurprise
-bip_39_word_no_space_9: donaterepeatpalmgritnoisesingkeensurpriseshed
-bip_39_word_space_0:
-- donate
-- repeat
-- palm
-- grit
-- noise
-- sing
-- keen
-- surprise
-- shed
-- because
-- route
-- abstract
-bip_39_word_space_1: donate
-bip_39_word_space_10: donate repeat palm grit noise sing keen surprise shed because
-bip_39_word_space_11: donate repeat palm grit noise sing keen surprise shed because
-  route
 bip_39_word_space_12: donate repeat palm grit noise sing keen surprise shed because
   route abstract
 bip_39_word_space_2: donate repeat
 bip_39_word_space_3: donate repeat palm
-bip_39_word_space_4: donate repeat palm grit
-bip_39_word_space_5: donate repeat palm grit noise
-bip_39_word_space_6: donate repeat palm grit noise sing
-bip_39_word_space_7: donate repeat palm grit noise sing keen
-bip_39_word_space_8: donate repeat palm grit noise sing keen surprise
-bip_39_word_space_9: donate repeat palm grit noise sing keen surprise shed
-bip_39_word_underscore_1: donate
-bip_39_word_underscore_10: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because
-bip_39_word_underscore_11: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because_route
 bip_39_word_underscore_12: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because_route_abstract
 bip_39_word_underscore_2: donate_repeat
 bip_39_word_underscore_3: donate_repeat_palm
-bip_39_word_underscore_4: donate_repeat_palm_grit
-bip_39_word_underscore_5: donate_repeat_palm_grit_noise
-bip_39_word_underscore_6: donate_repeat_palm_grit_noise_sing
-bip_39_word_underscore_7: donate_repeat_palm_grit_noise_sing_keen
-bip_39_word_underscore_8: donate_repeat_palm_grit_noise_sing_keen_surprise
-bip_39_word_underscore_9: donate_repeat_palm_grit_noise_sing_keen_surprise_shed
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

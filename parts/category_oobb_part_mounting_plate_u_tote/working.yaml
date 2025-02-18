@@ -1,68 +1,9 @@
-bip_39_word_dash_1: custom
-bip_39_word_dash_10: custom-equal-slam-blue-foil-eight-unique-adapt-pass-frog
-bip_39_word_dash_11: custom-equal-slam-blue-foil-eight-unique-adapt-pass-frog-slam
 bip_39_word_dash_12: custom-equal-slam-blue-foil-eight-unique-adapt-pass-frog-slam-arch
 bip_39_word_dash_2: custom-equal
 bip_39_word_dash_3: custom-equal-slam
-bip_39_word_dash_4: custom-equal-slam-blue
-bip_39_word_dash_5: custom-equal-slam-blue-foil
-bip_39_word_dash_6: custom-equal-slam-blue-foil-eight
-bip_39_word_dash_7: custom-equal-slam-blue-foil-eight-unique
-bip_39_word_dash_8: custom-equal-slam-blue-foil-eight-unique-adapt
-bip_39_word_dash_9: custom-equal-slam-blue-foil-eight-unique-adapt-pass
-bip_39_word_new_br_1: custom
-bip_39_word_new_br_10: custom<br>equal<br>slam<br>blue<br>foil<br>eight<br>unique<br>adapt<br>pass<br>frog
-bip_39_word_new_br_11: custom<br>equal<br>slam<br>blue<br>foil<br>eight<br>unique<br>adapt<br>pass<br>frog<br>slam
 bip_39_word_new_br_12: custom<br>equal<br>slam<br>blue<br>foil<br>eight<br>unique<br>adapt<br>pass<br>frog<br>slam<br>arch
 bip_39_word_new_br_2: custom<br>equal
 bip_39_word_new_br_3: custom<br>equal<br>slam
-bip_39_word_new_br_4: custom<br>equal<br>slam<br>blue
-bip_39_word_new_br_5: custom<br>equal<br>slam<br>blue<br>foil
-bip_39_word_new_br_6: custom<br>equal<br>slam<br>blue<br>foil<br>eight
-bip_39_word_new_br_7: custom<br>equal<br>slam<br>blue<br>foil<br>eight<br>unique
-bip_39_word_new_br_8: custom<br>equal<br>slam<br>blue<br>foil<br>eight<br>unique<br>adapt
-bip_39_word_new_br_9: custom<br>equal<br>slam<br>blue<br>foil<br>eight<br>unique<br>adapt<br>pass
-bip_39_word_new_line_1: custom
-bip_39_word_new_line_10: 'custom
-
-  equal
-
-  slam
-
-  blue
-
-  foil
-
-  eight
-
-  unique
-
-  adapt
-
-  pass
-
-  frog'
-bip_39_word_new_line_11: 'custom
-
-  equal
-
-  slam
-
-  blue
-
-  foil
-
-  eight
-
-  unique
-
-  adapt
-
-  pass
-
-  frog
-
-  slam'
 bip_39_word_new_line_12: 'custom
 
   equal
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'custom
   equal
 
   slam'
-bip_39_word_new_line_4: 'custom
-
-  equal
-
-  slam
-
-  blue'
-bip_39_word_new_line_5: 'custom
-
-  equal
-
-  slam
-
-  blue
-
-  foil'
-bip_39_word_new_line_6: 'custom
-
-  equal
-
-  slam
-
-  blue
-
-  foil
-
-  eight'
-bip_39_word_new_line_7: 'custom
-
-  equal
-
-  slam
-
-  blue
-
-  foil
-
-  eight
-
-  unique'
-bip_39_word_new_line_8: 'custom
-
-  equal
-
-  slam
-
-  blue
-
-  foil
-
-  eight
-
-  unique
-
-  adapt'
-bip_39_word_new_line_9: 'custom
-
-  equal
-
-  slam
-
-  blue
-
-  foil
-
-  eight
-
-  unique
-
-  adapt
-
-  pass'
-bip_39_word_no_space_1: custom
-bip_39_word_no_space_10: customequalslambluefoileightuniqueadaptpassfrog
-bip_39_word_no_space_11: customequalslambluefoileightuniqueadaptpassfrogslam
 bip_39_word_no_space_12: customequalslambluefoileightuniqueadaptpassfrogslamarch
 bip_39_word_no_space_2: customequal
 bip_39_word_no_space_3: customequalslam
-bip_39_word_no_space_4: customequalslamblue
-bip_39_word_no_space_5: customequalslambluefoil
-bip_39_word_no_space_6: customequalslambluefoileight
-bip_39_word_no_space_7: customequalslambluefoileightunique
-bip_39_word_no_space_8: customequalslambluefoileightuniqueadapt
-bip_39_word_no_space_9: customequalslambluefoileightuniqueadaptpass
-bip_39_word_space_0:
-- custom
-- equal
-- slam
-- blue
-- foil
-- eight
-- unique
-- adapt
-- pass
-- frog
-- slam
-- arch
-bip_39_word_space_1: custom
-bip_39_word_space_10: custom equal slam blue foil eight unique adapt pass frog
-bip_39_word_space_11: custom equal slam blue foil eight unique adapt pass frog slam
 bip_39_word_space_12: custom equal slam blue foil eight unique adapt pass frog slam
   arch
 bip_39_word_space_2: custom equal
 bip_39_word_space_3: custom equal slam
-bip_39_word_space_4: custom equal slam blue
-bip_39_word_space_5: custom equal slam blue foil
-bip_39_word_space_6: custom equal slam blue foil eight
-bip_39_word_space_7: custom equal slam blue foil eight unique
-bip_39_word_space_8: custom equal slam blue foil eight unique adapt
-bip_39_word_space_9: custom equal slam blue foil eight unique adapt pass
-bip_39_word_underscore_1: custom
-bip_39_word_underscore_10: custom_equal_slam_blue_foil_eight_unique_adapt_pass_frog
-bip_39_word_underscore_11: custom_equal_slam_blue_foil_eight_unique_adapt_pass_frog_slam
 bip_39_word_underscore_12: custom_equal_slam_blue_foil_eight_unique_adapt_pass_frog_slam_arch
 bip_39_word_underscore_2: custom_equal
 bip_39_word_underscore_3: custom_equal_slam
-bip_39_word_underscore_4: custom_equal_slam_blue
-bip_39_word_underscore_5: custom_equal_slam_blue_foil
-bip_39_word_underscore_6: custom_equal_slam_blue_foil_eight
-bip_39_word_underscore_7: custom_equal_slam_blue_foil_eight_unique
-bip_39_word_underscore_8: custom_equal_slam_blue_foil_eight_unique_adapt
-bip_39_word_underscore_9: custom_equal_slam_blue_foil_eight_unique_adapt_pass
 classification: category
 classification_capital: Category
 classification_first_letter: c

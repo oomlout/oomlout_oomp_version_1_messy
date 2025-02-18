@@ -1,68 +1,9 @@
-bip_39_word_dash_1: edge
-bip_39_word_dash_10: edge-globe-lottery-trap-nuclear-sock-tag-relief-glance-state
-bip_39_word_dash_11: edge-globe-lottery-trap-nuclear-sock-tag-relief-glance-state-panda
 bip_39_word_dash_12: edge-globe-lottery-trap-nuclear-sock-tag-relief-glance-state-panda-all
 bip_39_word_dash_2: edge-globe
 bip_39_word_dash_3: edge-globe-lottery
-bip_39_word_dash_4: edge-globe-lottery-trap
-bip_39_word_dash_5: edge-globe-lottery-trap-nuclear
-bip_39_word_dash_6: edge-globe-lottery-trap-nuclear-sock
-bip_39_word_dash_7: edge-globe-lottery-trap-nuclear-sock-tag
-bip_39_word_dash_8: edge-globe-lottery-trap-nuclear-sock-tag-relief
-bip_39_word_dash_9: edge-globe-lottery-trap-nuclear-sock-tag-relief-glance
-bip_39_word_new_br_1: edge
-bip_39_word_new_br_10: edge<br>globe<br>lottery<br>trap<br>nuclear<br>sock<br>tag<br>relief<br>glance<br>state
-bip_39_word_new_br_11: edge<br>globe<br>lottery<br>trap<br>nuclear<br>sock<br>tag<br>relief<br>glance<br>state<br>panda
 bip_39_word_new_br_12: edge<br>globe<br>lottery<br>trap<br>nuclear<br>sock<br>tag<br>relief<br>glance<br>state<br>panda<br>all
 bip_39_word_new_br_2: edge<br>globe
 bip_39_word_new_br_3: edge<br>globe<br>lottery
-bip_39_word_new_br_4: edge<br>globe<br>lottery<br>trap
-bip_39_word_new_br_5: edge<br>globe<br>lottery<br>trap<br>nuclear
-bip_39_word_new_br_6: edge<br>globe<br>lottery<br>trap<br>nuclear<br>sock
-bip_39_word_new_br_7: edge<br>globe<br>lottery<br>trap<br>nuclear<br>sock<br>tag
-bip_39_word_new_br_8: edge<br>globe<br>lottery<br>trap<br>nuclear<br>sock<br>tag<br>relief
-bip_39_word_new_br_9: edge<br>globe<br>lottery<br>trap<br>nuclear<br>sock<br>tag<br>relief<br>glance
-bip_39_word_new_line_1: edge
-bip_39_word_new_line_10: 'edge
-
-  globe
-
-  lottery
-
-  trap
-
-  nuclear
-
-  sock
-
-  tag
-
-  relief
-
-  glance
-
-  state'
-bip_39_word_new_line_11: 'edge
-
-  globe
-
-  lottery
-
-  trap
-
-  nuclear
-
-  sock
-
-  tag
-
-  relief
-
-  glance
-
-  state
-
-  panda'
 bip_39_word_new_line_12: 'edge
 
   globe
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'edge
   globe
 
   lottery'
-bip_39_word_new_line_4: 'edge
-
-  globe
-
-  lottery
-
-  trap'
-bip_39_word_new_line_5: 'edge
-
-  globe
-
-  lottery
-
-  trap
-
-  nuclear'
-bip_39_word_new_line_6: 'edge
-
-  globe
-
-  lottery
-
-  trap
-
-  nuclear
-
-  sock'
-bip_39_word_new_line_7: 'edge
-
-  globe
-
-  lottery
-
-  trap
-
-  nuclear
-
-  sock
-
-  tag'
-bip_39_word_new_line_8: 'edge
-
-  globe
-
-  lottery
-
-  trap
-
-  nuclear
-
-  sock
-
-  tag
-
-  relief'
-bip_39_word_new_line_9: 'edge
-
-  globe
-
-  lottery
-
-  trap
-
-  nuclear
-
-  sock
-
-  tag
-
-  relief
-
-  glance'
-bip_39_word_no_space_1: edge
-bip_39_word_no_space_10: edgeglobelotterytrapnuclearsocktagreliefglancestate
-bip_39_word_no_space_11: edgeglobelotterytrapnuclearsocktagreliefglancestatepanda
 bip_39_word_no_space_12: edgeglobelotterytrapnuclearsocktagreliefglancestatepandaall
 bip_39_word_no_space_2: edgeglobe
 bip_39_word_no_space_3: edgeglobelottery
-bip_39_word_no_space_4: edgeglobelotterytrap
-bip_39_word_no_space_5: edgeglobelotterytrapnuclear
-bip_39_word_no_space_6: edgeglobelotterytrapnuclearsock
-bip_39_word_no_space_7: edgeglobelotterytrapnuclearsocktag
-bip_39_word_no_space_8: edgeglobelotterytrapnuclearsocktagrelief
-bip_39_word_no_space_9: edgeglobelotterytrapnuclearsocktagreliefglance
-bip_39_word_space_0:
-- edge
-- globe
-- lottery
-- trap
-- nuclear
-- sock
-- tag
-- relief
-- glance
-- state
-- panda
-- all
-bip_39_word_space_1: edge
-bip_39_word_space_10: edge globe lottery trap nuclear sock tag relief glance state
-bip_39_word_space_11: edge globe lottery trap nuclear sock tag relief glance state
-  panda
 bip_39_word_space_12: edge globe lottery trap nuclear sock tag relief glance state
   panda all
 bip_39_word_space_2: edge globe
 bip_39_word_space_3: edge globe lottery
-bip_39_word_space_4: edge globe lottery trap
-bip_39_word_space_5: edge globe lottery trap nuclear
-bip_39_word_space_6: edge globe lottery trap nuclear sock
-bip_39_word_space_7: edge globe lottery trap nuclear sock tag
-bip_39_word_space_8: edge globe lottery trap nuclear sock tag relief
-bip_39_word_space_9: edge globe lottery trap nuclear sock tag relief glance
-bip_39_word_underscore_1: edge
-bip_39_word_underscore_10: edge_globe_lottery_trap_nuclear_sock_tag_relief_glance_state
-bip_39_word_underscore_11: edge_globe_lottery_trap_nuclear_sock_tag_relief_glance_state_panda
 bip_39_word_underscore_12: edge_globe_lottery_trap_nuclear_sock_tag_relief_glance_state_panda_all
 bip_39_word_underscore_2: edge_globe
 bip_39_word_underscore_3: edge_globe_lottery
-bip_39_word_underscore_4: edge_globe_lottery_trap
-bip_39_word_underscore_5: edge_globe_lottery_trap_nuclear
-bip_39_word_underscore_6: edge_globe_lottery_trap_nuclear_sock
-bip_39_word_underscore_7: edge_globe_lottery_trap_nuclear_sock_tag
-bip_39_word_underscore_8: edge_globe_lottery_trap_nuclear_sock_tag_relief
-bip_39_word_underscore_9: edge_globe_lottery_trap_nuclear_sock_tag_relief_glance
 classification: aluminium_extrusion
 classification_capital: Aluminium Extrusion
 classification_first_letter: a

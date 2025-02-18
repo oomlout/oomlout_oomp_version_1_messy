@@ -1,68 +1,9 @@
-bip_39_word_dash_1: layer
-bip_39_word_dash_10: layer-iron-seat-expire-mask-foam-grunt-cherry-goddess-wall
-bip_39_word_dash_11: layer-iron-seat-expire-mask-foam-grunt-cherry-goddess-wall-century
 bip_39_word_dash_12: layer-iron-seat-expire-mask-foam-grunt-cherry-goddess-wall-century-agree
 bip_39_word_dash_2: layer-iron
 bip_39_word_dash_3: layer-iron-seat
-bip_39_word_dash_4: layer-iron-seat-expire
-bip_39_word_dash_5: layer-iron-seat-expire-mask
-bip_39_word_dash_6: layer-iron-seat-expire-mask-foam
-bip_39_word_dash_7: layer-iron-seat-expire-mask-foam-grunt
-bip_39_word_dash_8: layer-iron-seat-expire-mask-foam-grunt-cherry
-bip_39_word_dash_9: layer-iron-seat-expire-mask-foam-grunt-cherry-goddess
-bip_39_word_new_br_1: layer
-bip_39_word_new_br_10: layer<br>iron<br>seat<br>expire<br>mask<br>foam<br>grunt<br>cherry<br>goddess<br>wall
-bip_39_word_new_br_11: layer<br>iron<br>seat<br>expire<br>mask<br>foam<br>grunt<br>cherry<br>goddess<br>wall<br>century
 bip_39_word_new_br_12: layer<br>iron<br>seat<br>expire<br>mask<br>foam<br>grunt<br>cherry<br>goddess<br>wall<br>century<br>agree
 bip_39_word_new_br_2: layer<br>iron
 bip_39_word_new_br_3: layer<br>iron<br>seat
-bip_39_word_new_br_4: layer<br>iron<br>seat<br>expire
-bip_39_word_new_br_5: layer<br>iron<br>seat<br>expire<br>mask
-bip_39_word_new_br_6: layer<br>iron<br>seat<br>expire<br>mask<br>foam
-bip_39_word_new_br_7: layer<br>iron<br>seat<br>expire<br>mask<br>foam<br>grunt
-bip_39_word_new_br_8: layer<br>iron<br>seat<br>expire<br>mask<br>foam<br>grunt<br>cherry
-bip_39_word_new_br_9: layer<br>iron<br>seat<br>expire<br>mask<br>foam<br>grunt<br>cherry<br>goddess
-bip_39_word_new_line_1: layer
-bip_39_word_new_line_10: 'layer
-
-  iron
-
-  seat
-
-  expire
-
-  mask
-
-  foam
-
-  grunt
-
-  cherry
-
-  goddess
-
-  wall'
-bip_39_word_new_line_11: 'layer
-
-  iron
-
-  seat
-
-  expire
-
-  mask
-
-  foam
-
-  grunt
-
-  cherry
-
-  goddess
-
-  wall
-
-  century'
 bip_39_word_new_line_12: 'layer
 
   iron
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'layer
   iron
 
   seat'
-bip_39_word_new_line_4: 'layer
-
-  iron
-
-  seat
-
-  expire'
-bip_39_word_new_line_5: 'layer
-
-  iron
-
-  seat
-
-  expire
-
-  mask'
-bip_39_word_new_line_6: 'layer
-
-  iron
-
-  seat
-
-  expire
-
-  mask
-
-  foam'
-bip_39_word_new_line_7: 'layer
-
-  iron
-
-  seat
-
-  expire
-
-  mask
-
-  foam
-
-  grunt'
-bip_39_word_new_line_8: 'layer
-
-  iron
-
-  seat
-
-  expire
-
-  mask
-
-  foam
-
-  grunt
-
-  cherry'
-bip_39_word_new_line_9: 'layer
-
-  iron
-
-  seat
-
-  expire
-
-  mask
-
-  foam
-
-  grunt
-
-  cherry
-
-  goddess'
-bip_39_word_no_space_1: layer
-bip_39_word_no_space_10: layerironseatexpiremaskfoamgruntcherrygoddesswall
-bip_39_word_no_space_11: layerironseatexpiremaskfoamgruntcherrygoddesswallcentury
 bip_39_word_no_space_12: layerironseatexpiremaskfoamgruntcherrygoddesswallcenturyagree
 bip_39_word_no_space_2: layeriron
 bip_39_word_no_space_3: layerironseat
-bip_39_word_no_space_4: layerironseatexpire
-bip_39_word_no_space_5: layerironseatexpiremask
-bip_39_word_no_space_6: layerironseatexpiremaskfoam
-bip_39_word_no_space_7: layerironseatexpiremaskfoamgrunt
-bip_39_word_no_space_8: layerironseatexpiremaskfoamgruntcherry
-bip_39_word_no_space_9: layerironseatexpiremaskfoamgruntcherrygoddess
-bip_39_word_space_0:
-- layer
-- iron
-- seat
-- expire
-- mask
-- foam
-- grunt
-- cherry
-- goddess
-- wall
-- century
-- agree
-bip_39_word_space_1: layer
-bip_39_word_space_10: layer iron seat expire mask foam grunt cherry goddess wall
-bip_39_word_space_11: layer iron seat expire mask foam grunt cherry goddess wall century
 bip_39_word_space_12: layer iron seat expire mask foam grunt cherry goddess wall century
   agree
 bip_39_word_space_2: layer iron
 bip_39_word_space_3: layer iron seat
-bip_39_word_space_4: layer iron seat expire
-bip_39_word_space_5: layer iron seat expire mask
-bip_39_word_space_6: layer iron seat expire mask foam
-bip_39_word_space_7: layer iron seat expire mask foam grunt
-bip_39_word_space_8: layer iron seat expire mask foam grunt cherry
-bip_39_word_space_9: layer iron seat expire mask foam grunt cherry goddess
-bip_39_word_underscore_1: layer
-bip_39_word_underscore_10: layer_iron_seat_expire_mask_foam_grunt_cherry_goddess_wall
-bip_39_word_underscore_11: layer_iron_seat_expire_mask_foam_grunt_cherry_goddess_wall_century
 bip_39_word_underscore_12: layer_iron_seat_expire_mask_foam_grunt_cherry_goddess_wall_century_agree
 bip_39_word_underscore_2: layer_iron
 bip_39_word_underscore_3: layer_iron_seat
-bip_39_word_underscore_4: layer_iron_seat_expire
-bip_39_word_underscore_5: layer_iron_seat_expire_mask
-bip_39_word_underscore_6: layer_iron_seat_expire_mask_foam
-bip_39_word_underscore_7: layer_iron_seat_expire_mask_foam_grunt
-bip_39_word_underscore_8: layer_iron_seat_expire_mask_foam_grunt_cherry
-bip_39_word_underscore_9: layer_iron_seat_expire_mask_foam_grunt_cherry_goddess
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

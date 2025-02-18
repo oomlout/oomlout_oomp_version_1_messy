@@ -1,68 +1,9 @@
-bip_39_word_dash_1: super
-bip_39_word_dash_10: super-nerve-much-grace-nest-local-stem-talk-require-shift
-bip_39_word_dash_11: super-nerve-much-grace-nest-local-stem-talk-require-shift-clutch
 bip_39_word_dash_12: super-nerve-much-grace-nest-local-stem-talk-require-shift-clutch-art
 bip_39_word_dash_2: super-nerve
 bip_39_word_dash_3: super-nerve-much
-bip_39_word_dash_4: super-nerve-much-grace
-bip_39_word_dash_5: super-nerve-much-grace-nest
-bip_39_word_dash_6: super-nerve-much-grace-nest-local
-bip_39_word_dash_7: super-nerve-much-grace-nest-local-stem
-bip_39_word_dash_8: super-nerve-much-grace-nest-local-stem-talk
-bip_39_word_dash_9: super-nerve-much-grace-nest-local-stem-talk-require
-bip_39_word_new_br_1: super
-bip_39_word_new_br_10: super<br>nerve<br>much<br>grace<br>nest<br>local<br>stem<br>talk<br>require<br>shift
-bip_39_word_new_br_11: super<br>nerve<br>much<br>grace<br>nest<br>local<br>stem<br>talk<br>require<br>shift<br>clutch
 bip_39_word_new_br_12: super<br>nerve<br>much<br>grace<br>nest<br>local<br>stem<br>talk<br>require<br>shift<br>clutch<br>art
 bip_39_word_new_br_2: super<br>nerve
 bip_39_word_new_br_3: super<br>nerve<br>much
-bip_39_word_new_br_4: super<br>nerve<br>much<br>grace
-bip_39_word_new_br_5: super<br>nerve<br>much<br>grace<br>nest
-bip_39_word_new_br_6: super<br>nerve<br>much<br>grace<br>nest<br>local
-bip_39_word_new_br_7: super<br>nerve<br>much<br>grace<br>nest<br>local<br>stem
-bip_39_word_new_br_8: super<br>nerve<br>much<br>grace<br>nest<br>local<br>stem<br>talk
-bip_39_word_new_br_9: super<br>nerve<br>much<br>grace<br>nest<br>local<br>stem<br>talk<br>require
-bip_39_word_new_line_1: super
-bip_39_word_new_line_10: 'super
-
-  nerve
-
-  much
-
-  grace
-
-  nest
-
-  local
-
-  stem
-
-  talk
-
-  require
-
-  shift'
-bip_39_word_new_line_11: 'super
-
-  nerve
-
-  much
-
-  grace
-
-  nest
-
-  local
-
-  stem
-
-  talk
-
-  require
-
-  shift
-
-  clutch'
 bip_39_word_new_line_12: 'super
 
   nerve
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'super
   nerve
 
   much'
-bip_39_word_new_line_4: 'super
-
-  nerve
-
-  much
-
-  grace'
-bip_39_word_new_line_5: 'super
-
-  nerve
-
-  much
-
-  grace
-
-  nest'
-bip_39_word_new_line_6: 'super
-
-  nerve
-
-  much
-
-  grace
-
-  nest
-
-  local'
-bip_39_word_new_line_7: 'super
-
-  nerve
-
-  much
-
-  grace
-
-  nest
-
-  local
-
-  stem'
-bip_39_word_new_line_8: 'super
-
-  nerve
-
-  much
-
-  grace
-
-  nest
-
-  local
-
-  stem
-
-  talk'
-bip_39_word_new_line_9: 'super
-
-  nerve
-
-  much
-
-  grace
-
-  nest
-
-  local
-
-  stem
-
-  talk
-
-  require'
-bip_39_word_no_space_1: super
-bip_39_word_no_space_10: supernervemuchgracenestlocalstemtalkrequireshift
-bip_39_word_no_space_11: supernervemuchgracenestlocalstemtalkrequireshiftclutch
 bip_39_word_no_space_12: supernervemuchgracenestlocalstemtalkrequireshiftclutchart
 bip_39_word_no_space_2: supernerve
 bip_39_word_no_space_3: supernervemuch
-bip_39_word_no_space_4: supernervemuchgrace
-bip_39_word_no_space_5: supernervemuchgracenest
-bip_39_word_no_space_6: supernervemuchgracenestlocal
-bip_39_word_no_space_7: supernervemuchgracenestlocalstem
-bip_39_word_no_space_8: supernervemuchgracenestlocalstemtalk
-bip_39_word_no_space_9: supernervemuchgracenestlocalstemtalkrequire
-bip_39_word_space_0:
-- super
-- nerve
-- much
-- grace
-- nest
-- local
-- stem
-- talk
-- require
-- shift
-- clutch
-- art
-bip_39_word_space_1: super
-bip_39_word_space_10: super nerve much grace nest local stem talk require shift
-bip_39_word_space_11: super nerve much grace nest local stem talk require shift clutch
 bip_39_word_space_12: super nerve much grace nest local stem talk require shift clutch
   art
 bip_39_word_space_2: super nerve
 bip_39_word_space_3: super nerve much
-bip_39_word_space_4: super nerve much grace
-bip_39_word_space_5: super nerve much grace nest
-bip_39_word_space_6: super nerve much grace nest local
-bip_39_word_space_7: super nerve much grace nest local stem
-bip_39_word_space_8: super nerve much grace nest local stem talk
-bip_39_word_space_9: super nerve much grace nest local stem talk require
-bip_39_word_underscore_1: super
-bip_39_word_underscore_10: super_nerve_much_grace_nest_local_stem_talk_require_shift
-bip_39_word_underscore_11: super_nerve_much_grace_nest_local_stem_talk_require_shift_clutch
 bip_39_word_underscore_12: super_nerve_much_grace_nest_local_stem_talk_require_shift_clutch_art
 bip_39_word_underscore_2: super_nerve
 bip_39_word_underscore_3: super_nerve_much
-bip_39_word_underscore_4: super_nerve_much_grace
-bip_39_word_underscore_5: super_nerve_much_grace_nest
-bip_39_word_underscore_6: super_nerve_much_grace_nest_local
-bip_39_word_underscore_7: super_nerve_much_grace_nest_local_stem
-bip_39_word_underscore_8: super_nerve_much_grace_nest_local_stem_talk
-bip_39_word_underscore_9: super_nerve_much_grace_nest_local_stem_talk_require
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

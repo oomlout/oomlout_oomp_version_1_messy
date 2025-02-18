@@ -1,68 +1,9 @@
-bip_39_word_dash_1: satoshi
-bip_39_word_dash_10: satoshi-later-comic-bomb-alpha-minimum-shoe-tuna-bulk-strategy
-bip_39_word_dash_11: satoshi-later-comic-bomb-alpha-minimum-shoe-tuna-bulk-strategy-enough
 bip_39_word_dash_12: satoshi-later-comic-bomb-alpha-minimum-shoe-tuna-bulk-strategy-enough-agent
 bip_39_word_dash_2: satoshi-later
 bip_39_word_dash_3: satoshi-later-comic
-bip_39_word_dash_4: satoshi-later-comic-bomb
-bip_39_word_dash_5: satoshi-later-comic-bomb-alpha
-bip_39_word_dash_6: satoshi-later-comic-bomb-alpha-minimum
-bip_39_word_dash_7: satoshi-later-comic-bomb-alpha-minimum-shoe
-bip_39_word_dash_8: satoshi-later-comic-bomb-alpha-minimum-shoe-tuna
-bip_39_word_dash_9: satoshi-later-comic-bomb-alpha-minimum-shoe-tuna-bulk
-bip_39_word_new_br_1: satoshi
-bip_39_word_new_br_10: satoshi<br>later<br>comic<br>bomb<br>alpha<br>minimum<br>shoe<br>tuna<br>bulk<br>strategy
-bip_39_word_new_br_11: satoshi<br>later<br>comic<br>bomb<br>alpha<br>minimum<br>shoe<br>tuna<br>bulk<br>strategy<br>enough
 bip_39_word_new_br_12: satoshi<br>later<br>comic<br>bomb<br>alpha<br>minimum<br>shoe<br>tuna<br>bulk<br>strategy<br>enough<br>agent
 bip_39_word_new_br_2: satoshi<br>later
 bip_39_word_new_br_3: satoshi<br>later<br>comic
-bip_39_word_new_br_4: satoshi<br>later<br>comic<br>bomb
-bip_39_word_new_br_5: satoshi<br>later<br>comic<br>bomb<br>alpha
-bip_39_word_new_br_6: satoshi<br>later<br>comic<br>bomb<br>alpha<br>minimum
-bip_39_word_new_br_7: satoshi<br>later<br>comic<br>bomb<br>alpha<br>minimum<br>shoe
-bip_39_word_new_br_8: satoshi<br>later<br>comic<br>bomb<br>alpha<br>minimum<br>shoe<br>tuna
-bip_39_word_new_br_9: satoshi<br>later<br>comic<br>bomb<br>alpha<br>minimum<br>shoe<br>tuna<br>bulk
-bip_39_word_new_line_1: satoshi
-bip_39_word_new_line_10: 'satoshi
-
-  later
-
-  comic
-
-  bomb
-
-  alpha
-
-  minimum
-
-  shoe
-
-  tuna
-
-  bulk
-
-  strategy'
-bip_39_word_new_line_11: 'satoshi
-
-  later
-
-  comic
-
-  bomb
-
-  alpha
-
-  minimum
-
-  shoe
-
-  tuna
-
-  bulk
-
-  strategy
-
-  enough'
 bip_39_word_new_line_12: 'satoshi
 
   later
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'satoshi
   later
 
   comic'
-bip_39_word_new_line_4: 'satoshi
-
-  later
-
-  comic
-
-  bomb'
-bip_39_word_new_line_5: 'satoshi
-
-  later
-
-  comic
-
-  bomb
-
-  alpha'
-bip_39_word_new_line_6: 'satoshi
-
-  later
-
-  comic
-
-  bomb
-
-  alpha
-
-  minimum'
-bip_39_word_new_line_7: 'satoshi
-
-  later
-
-  comic
-
-  bomb
-
-  alpha
-
-  minimum
-
-  shoe'
-bip_39_word_new_line_8: 'satoshi
-
-  later
-
-  comic
-
-  bomb
-
-  alpha
-
-  minimum
-
-  shoe
-
-  tuna'
-bip_39_word_new_line_9: 'satoshi
-
-  later
-
-  comic
-
-  bomb
-
-  alpha
-
-  minimum
-
-  shoe
-
-  tuna
-
-  bulk'
-bip_39_word_no_space_1: satoshi
-bip_39_word_no_space_10: satoshilatercomicbombalphaminimumshoetunabulkstrategy
-bip_39_word_no_space_11: satoshilatercomicbombalphaminimumshoetunabulkstrategyenough
 bip_39_word_no_space_12: satoshilatercomicbombalphaminimumshoetunabulkstrategyenoughagent
 bip_39_word_no_space_2: satoshilater
 bip_39_word_no_space_3: satoshilatercomic
-bip_39_word_no_space_4: satoshilatercomicbomb
-bip_39_word_no_space_5: satoshilatercomicbombalpha
-bip_39_word_no_space_6: satoshilatercomicbombalphaminimum
-bip_39_word_no_space_7: satoshilatercomicbombalphaminimumshoe
-bip_39_word_no_space_8: satoshilatercomicbombalphaminimumshoetuna
-bip_39_word_no_space_9: satoshilatercomicbombalphaminimumshoetunabulk
-bip_39_word_space_0:
-- satoshi
-- later
-- comic
-- bomb
-- alpha
-- minimum
-- shoe
-- tuna
-- bulk
-- strategy
-- enough
-- agent
-bip_39_word_space_1: satoshi
-bip_39_word_space_10: satoshi later comic bomb alpha minimum shoe tuna bulk strategy
-bip_39_word_space_11: satoshi later comic bomb alpha minimum shoe tuna bulk strategy
-  enough
 bip_39_word_space_12: satoshi later comic bomb alpha minimum shoe tuna bulk strategy
   enough agent
 bip_39_word_space_2: satoshi later
 bip_39_word_space_3: satoshi later comic
-bip_39_word_space_4: satoshi later comic bomb
-bip_39_word_space_5: satoshi later comic bomb alpha
-bip_39_word_space_6: satoshi later comic bomb alpha minimum
-bip_39_word_space_7: satoshi later comic bomb alpha minimum shoe
-bip_39_word_space_8: satoshi later comic bomb alpha minimum shoe tuna
-bip_39_word_space_9: satoshi later comic bomb alpha minimum shoe tuna bulk
-bip_39_word_underscore_1: satoshi
-bip_39_word_underscore_10: satoshi_later_comic_bomb_alpha_minimum_shoe_tuna_bulk_strategy
-bip_39_word_underscore_11: satoshi_later_comic_bomb_alpha_minimum_shoe_tuna_bulk_strategy_enough
 bip_39_word_underscore_12: satoshi_later_comic_bomb_alpha_minimum_shoe_tuna_bulk_strategy_enough_agent
 bip_39_word_underscore_2: satoshi_later
 bip_39_word_underscore_3: satoshi_later_comic
-bip_39_word_underscore_4: satoshi_later_comic_bomb
-bip_39_word_underscore_5: satoshi_later_comic_bomb_alpha
-bip_39_word_underscore_6: satoshi_later_comic_bomb_alpha_minimum
-bip_39_word_underscore_7: satoshi_later_comic_bomb_alpha_minimum_shoe
-bip_39_word_underscore_8: satoshi_later_comic_bomb_alpha_minimum_shoe_tuna
-bip_39_word_underscore_9: satoshi_later_comic_bomb_alpha_minimum_shoe_tuna_bulk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

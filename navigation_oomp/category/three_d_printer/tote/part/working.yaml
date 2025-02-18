@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tomorrow
-bip_39_word_dash_10: tomorrow-magnet-suspect-panda-attack-squirrel-recall-suffer-provide-ceiling
-bip_39_word_dash_11: tomorrow-magnet-suspect-panda-attack-squirrel-recall-suffer-provide-ceiling-agree
 bip_39_word_dash_12: tomorrow-magnet-suspect-panda-attack-squirrel-recall-suffer-provide-ceiling-agree-aunt
 bip_39_word_dash_2: tomorrow-magnet
 bip_39_word_dash_3: tomorrow-magnet-suspect
-bip_39_word_dash_4: tomorrow-magnet-suspect-panda
-bip_39_word_dash_5: tomorrow-magnet-suspect-panda-attack
-bip_39_word_dash_6: tomorrow-magnet-suspect-panda-attack-squirrel
-bip_39_word_dash_7: tomorrow-magnet-suspect-panda-attack-squirrel-recall
-bip_39_word_dash_8: tomorrow-magnet-suspect-panda-attack-squirrel-recall-suffer
-bip_39_word_dash_9: tomorrow-magnet-suspect-panda-attack-squirrel-recall-suffer-provide
-bip_39_word_new_br_1: tomorrow
-bip_39_word_new_br_10: tomorrow<br>magnet<br>suspect<br>panda<br>attack<br>squirrel<br>recall<br>suffer<br>provide<br>ceiling
-bip_39_word_new_br_11: tomorrow<br>magnet<br>suspect<br>panda<br>attack<br>squirrel<br>recall<br>suffer<br>provide<br>ceiling<br>agree
 bip_39_word_new_br_12: tomorrow<br>magnet<br>suspect<br>panda<br>attack<br>squirrel<br>recall<br>suffer<br>provide<br>ceiling<br>agree<br>aunt
 bip_39_word_new_br_2: tomorrow<br>magnet
 bip_39_word_new_br_3: tomorrow<br>magnet<br>suspect
-bip_39_word_new_br_4: tomorrow<br>magnet<br>suspect<br>panda
-bip_39_word_new_br_5: tomorrow<br>magnet<br>suspect<br>panda<br>attack
-bip_39_word_new_br_6: tomorrow<br>magnet<br>suspect<br>panda<br>attack<br>squirrel
-bip_39_word_new_br_7: tomorrow<br>magnet<br>suspect<br>panda<br>attack<br>squirrel<br>recall
-bip_39_word_new_br_8: tomorrow<br>magnet<br>suspect<br>panda<br>attack<br>squirrel<br>recall<br>suffer
-bip_39_word_new_br_9: tomorrow<br>magnet<br>suspect<br>panda<br>attack<br>squirrel<br>recall<br>suffer<br>provide
-bip_39_word_new_line_1: tomorrow
-bip_39_word_new_line_10: 'tomorrow
-
-  magnet
-
-  suspect
-
-  panda
-
-  attack
-
-  squirrel
-
-  recall
-
-  suffer
-
-  provide
-
-  ceiling'
-bip_39_word_new_line_11: 'tomorrow
-
-  magnet
-
-  suspect
-
-  panda
-
-  attack
-
-  squirrel
-
-  recall
-
-  suffer
-
-  provide
-
-  ceiling
-
-  agree'
 bip_39_word_new_line_12: 'tomorrow
 
   magnet
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'tomorrow
   magnet
 
   suspect'
-bip_39_word_new_line_4: 'tomorrow
-
-  magnet
-
-  suspect
-
-  panda'
-bip_39_word_new_line_5: 'tomorrow
-
-  magnet
-
-  suspect
-
-  panda
-
-  attack'
-bip_39_word_new_line_6: 'tomorrow
-
-  magnet
-
-  suspect
-
-  panda
-
-  attack
-
-  squirrel'
-bip_39_word_new_line_7: 'tomorrow
-
-  magnet
-
-  suspect
-
-  panda
-
-  attack
-
-  squirrel
-
-  recall'
-bip_39_word_new_line_8: 'tomorrow
-
-  magnet
-
-  suspect
-
-  panda
-
-  attack
-
-  squirrel
-
-  recall
-
-  suffer'
-bip_39_word_new_line_9: 'tomorrow
-
-  magnet
-
-  suspect
-
-  panda
-
-  attack
-
-  squirrel
-
-  recall
-
-  suffer
-
-  provide'
-bip_39_word_no_space_1: tomorrow
-bip_39_word_no_space_10: tomorrowmagnetsuspectpandaattacksquirrelrecallsufferprovideceiling
-bip_39_word_no_space_11: tomorrowmagnetsuspectpandaattacksquirrelrecallsufferprovideceilingagree
 bip_39_word_no_space_12: tomorrowmagnetsuspectpandaattacksquirrelrecallsufferprovideceilingagreeaunt
 bip_39_word_no_space_2: tomorrowmagnet
 bip_39_word_no_space_3: tomorrowmagnetsuspect
-bip_39_word_no_space_4: tomorrowmagnetsuspectpanda
-bip_39_word_no_space_5: tomorrowmagnetsuspectpandaattack
-bip_39_word_no_space_6: tomorrowmagnetsuspectpandaattacksquirrel
-bip_39_word_no_space_7: tomorrowmagnetsuspectpandaattacksquirrelrecall
-bip_39_word_no_space_8: tomorrowmagnetsuspectpandaattacksquirrelrecallsuffer
-bip_39_word_no_space_9: tomorrowmagnetsuspectpandaattacksquirrelrecallsufferprovide
-bip_39_word_space_0:
-- tomorrow
-- magnet
-- suspect
-- panda
-- attack
-- squirrel
-- recall
-- suffer
-- provide
-- ceiling
-- agree
-- aunt
-bip_39_word_space_1: tomorrow
-bip_39_word_space_10: tomorrow magnet suspect panda attack squirrel recall suffer
-  provide ceiling
-bip_39_word_space_11: tomorrow magnet suspect panda attack squirrel recall suffer
-  provide ceiling agree
 bip_39_word_space_12: tomorrow magnet suspect panda attack squirrel recall suffer
   provide ceiling agree aunt
 bip_39_word_space_2: tomorrow magnet
 bip_39_word_space_3: tomorrow magnet suspect
-bip_39_word_space_4: tomorrow magnet suspect panda
-bip_39_word_space_5: tomorrow magnet suspect panda attack
-bip_39_word_space_6: tomorrow magnet suspect panda attack squirrel
-bip_39_word_space_7: tomorrow magnet suspect panda attack squirrel recall
-bip_39_word_space_8: tomorrow magnet suspect panda attack squirrel recall suffer
-bip_39_word_space_9: tomorrow magnet suspect panda attack squirrel recall suffer provide
-bip_39_word_underscore_1: tomorrow
-bip_39_word_underscore_10: tomorrow_magnet_suspect_panda_attack_squirrel_recall_suffer_provide_ceiling
-bip_39_word_underscore_11: tomorrow_magnet_suspect_panda_attack_squirrel_recall_suffer_provide_ceiling_agree
 bip_39_word_underscore_12: tomorrow_magnet_suspect_panda_attack_squirrel_recall_suffer_provide_ceiling_agree_aunt
 bip_39_word_underscore_2: tomorrow_magnet
 bip_39_word_underscore_3: tomorrow_magnet_suspect
-bip_39_word_underscore_4: tomorrow_magnet_suspect_panda
-bip_39_word_underscore_5: tomorrow_magnet_suspect_panda_attack
-bip_39_word_underscore_6: tomorrow_magnet_suspect_panda_attack_squirrel
-bip_39_word_underscore_7: tomorrow_magnet_suspect_panda_attack_squirrel_recall
-bip_39_word_underscore_8: tomorrow_magnet_suspect_panda_attack_squirrel_recall_suffer
-bip_39_word_underscore_9: tomorrow_magnet_suspect_panda_attack_squirrel_recall_suffer_provide
 classification: category
 classification_capital: Category
 classification_first_letter: c

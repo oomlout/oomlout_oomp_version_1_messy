@@ -1,68 +1,9 @@
-bip_39_word_dash_1: emotion
-bip_39_word_dash_10: emotion-return-alarm-session-fever-route-party-produce-repair-subject
-bip_39_word_dash_11: emotion-return-alarm-session-fever-route-party-produce-repair-subject-flag
 bip_39_word_dash_12: emotion-return-alarm-session-fever-route-party-produce-repair-subject-flag-actor
 bip_39_word_dash_2: emotion-return
 bip_39_word_dash_3: emotion-return-alarm
-bip_39_word_dash_4: emotion-return-alarm-session
-bip_39_word_dash_5: emotion-return-alarm-session-fever
-bip_39_word_dash_6: emotion-return-alarm-session-fever-route
-bip_39_word_dash_7: emotion-return-alarm-session-fever-route-party
-bip_39_word_dash_8: emotion-return-alarm-session-fever-route-party-produce
-bip_39_word_dash_9: emotion-return-alarm-session-fever-route-party-produce-repair
-bip_39_word_new_br_1: emotion
-bip_39_word_new_br_10: emotion<br>return<br>alarm<br>session<br>fever<br>route<br>party<br>produce<br>repair<br>subject
-bip_39_word_new_br_11: emotion<br>return<br>alarm<br>session<br>fever<br>route<br>party<br>produce<br>repair<br>subject<br>flag
 bip_39_word_new_br_12: emotion<br>return<br>alarm<br>session<br>fever<br>route<br>party<br>produce<br>repair<br>subject<br>flag<br>actor
 bip_39_word_new_br_2: emotion<br>return
 bip_39_word_new_br_3: emotion<br>return<br>alarm
-bip_39_word_new_br_4: emotion<br>return<br>alarm<br>session
-bip_39_word_new_br_5: emotion<br>return<br>alarm<br>session<br>fever
-bip_39_word_new_br_6: emotion<br>return<br>alarm<br>session<br>fever<br>route
-bip_39_word_new_br_7: emotion<br>return<br>alarm<br>session<br>fever<br>route<br>party
-bip_39_word_new_br_8: emotion<br>return<br>alarm<br>session<br>fever<br>route<br>party<br>produce
-bip_39_word_new_br_9: emotion<br>return<br>alarm<br>session<br>fever<br>route<br>party<br>produce<br>repair
-bip_39_word_new_line_1: emotion
-bip_39_word_new_line_10: 'emotion
-
-  return
-
-  alarm
-
-  session
-
-  fever
-
-  route
-
-  party
-
-  produce
-
-  repair
-
-  subject'
-bip_39_word_new_line_11: 'emotion
-
-  return
-
-  alarm
-
-  session
-
-  fever
-
-  route
-
-  party
-
-  produce
-
-  repair
-
-  subject
-
-  flag'
 bip_39_word_new_line_12: 'emotion
 
   return
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'emotion
   return
 
   alarm'
-bip_39_word_new_line_4: 'emotion
-
-  return
-
-  alarm
-
-  session'
-bip_39_word_new_line_5: 'emotion
-
-  return
-
-  alarm
-
-  session
-
-  fever'
-bip_39_word_new_line_6: 'emotion
-
-  return
-
-  alarm
-
-  session
-
-  fever
-
-  route'
-bip_39_word_new_line_7: 'emotion
-
-  return
-
-  alarm
-
-  session
-
-  fever
-
-  route
-
-  party'
-bip_39_word_new_line_8: 'emotion
-
-  return
-
-  alarm
-
-  session
-
-  fever
-
-  route
-
-  party
-
-  produce'
-bip_39_word_new_line_9: 'emotion
-
-  return
-
-  alarm
-
-  session
-
-  fever
-
-  route
-
-  party
-
-  produce
-
-  repair'
-bip_39_word_no_space_1: emotion
-bip_39_word_no_space_10: emotionreturnalarmsessionfeverroutepartyproducerepairsubject
-bip_39_word_no_space_11: emotionreturnalarmsessionfeverroutepartyproducerepairsubjectflag
 bip_39_word_no_space_12: emotionreturnalarmsessionfeverroutepartyproducerepairsubjectflagactor
 bip_39_word_no_space_2: emotionreturn
 bip_39_word_no_space_3: emotionreturnalarm
-bip_39_word_no_space_4: emotionreturnalarmsession
-bip_39_word_no_space_5: emotionreturnalarmsessionfever
-bip_39_word_no_space_6: emotionreturnalarmsessionfeverroute
-bip_39_word_no_space_7: emotionreturnalarmsessionfeverrouteparty
-bip_39_word_no_space_8: emotionreturnalarmsessionfeverroutepartyproduce
-bip_39_word_no_space_9: emotionreturnalarmsessionfeverroutepartyproducerepair
-bip_39_word_space_0:
-- emotion
-- return
-- alarm
-- session
-- fever
-- route
-- party
-- produce
-- repair
-- subject
-- flag
-- actor
-bip_39_word_space_1: emotion
-bip_39_word_space_10: emotion return alarm session fever route party produce repair
-  subject
-bip_39_word_space_11: emotion return alarm session fever route party produce repair
-  subject flag
 bip_39_word_space_12: emotion return alarm session fever route party produce repair
   subject flag actor
 bip_39_word_space_2: emotion return
 bip_39_word_space_3: emotion return alarm
-bip_39_word_space_4: emotion return alarm session
-bip_39_word_space_5: emotion return alarm session fever
-bip_39_word_space_6: emotion return alarm session fever route
-bip_39_word_space_7: emotion return alarm session fever route party
-bip_39_word_space_8: emotion return alarm session fever route party produce
-bip_39_word_space_9: emotion return alarm session fever route party produce repair
-bip_39_word_underscore_1: emotion
-bip_39_word_underscore_10: emotion_return_alarm_session_fever_route_party_produce_repair_subject
-bip_39_word_underscore_11: emotion_return_alarm_session_fever_route_party_produce_repair_subject_flag
 bip_39_word_underscore_12: emotion_return_alarm_session_fever_route_party_produce_repair_subject_flag_actor
 bip_39_word_underscore_2: emotion_return
 bip_39_word_underscore_3: emotion_return_alarm
-bip_39_word_underscore_4: emotion_return_alarm_session
-bip_39_word_underscore_5: emotion_return_alarm_session_fever
-bip_39_word_underscore_6: emotion_return_alarm_session_fever_route
-bip_39_word_underscore_7: emotion_return_alarm_session_fever_route_party
-bip_39_word_underscore_8: emotion_return_alarm_session_fever_route_party_produce
-bip_39_word_underscore_9: emotion_return_alarm_session_fever_route_party_produce_repair
 classification: category
 classification_capital: Category
 classification_first_letter: c

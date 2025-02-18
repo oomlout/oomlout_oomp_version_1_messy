@@ -1,68 +1,9 @@
-bip_39_word_dash_1: peasant
-bip_39_word_dash_10: peasant-glide-ice-ignore-front-cancel-curve-much-among-shrug
-bip_39_word_dash_11: peasant-glide-ice-ignore-front-cancel-curve-much-among-shrug-enemy
 bip_39_word_dash_12: peasant-glide-ice-ignore-front-cancel-curve-much-among-shrug-enemy-amused
 bip_39_word_dash_2: peasant-glide
 bip_39_word_dash_3: peasant-glide-ice
-bip_39_word_dash_4: peasant-glide-ice-ignore
-bip_39_word_dash_5: peasant-glide-ice-ignore-front
-bip_39_word_dash_6: peasant-glide-ice-ignore-front-cancel
-bip_39_word_dash_7: peasant-glide-ice-ignore-front-cancel-curve
-bip_39_word_dash_8: peasant-glide-ice-ignore-front-cancel-curve-much
-bip_39_word_dash_9: peasant-glide-ice-ignore-front-cancel-curve-much-among
-bip_39_word_new_br_1: peasant
-bip_39_word_new_br_10: peasant<br>glide<br>ice<br>ignore<br>front<br>cancel<br>curve<br>much<br>among<br>shrug
-bip_39_word_new_br_11: peasant<br>glide<br>ice<br>ignore<br>front<br>cancel<br>curve<br>much<br>among<br>shrug<br>enemy
 bip_39_word_new_br_12: peasant<br>glide<br>ice<br>ignore<br>front<br>cancel<br>curve<br>much<br>among<br>shrug<br>enemy<br>amused
 bip_39_word_new_br_2: peasant<br>glide
 bip_39_word_new_br_3: peasant<br>glide<br>ice
-bip_39_word_new_br_4: peasant<br>glide<br>ice<br>ignore
-bip_39_word_new_br_5: peasant<br>glide<br>ice<br>ignore<br>front
-bip_39_word_new_br_6: peasant<br>glide<br>ice<br>ignore<br>front<br>cancel
-bip_39_word_new_br_7: peasant<br>glide<br>ice<br>ignore<br>front<br>cancel<br>curve
-bip_39_word_new_br_8: peasant<br>glide<br>ice<br>ignore<br>front<br>cancel<br>curve<br>much
-bip_39_word_new_br_9: peasant<br>glide<br>ice<br>ignore<br>front<br>cancel<br>curve<br>much<br>among
-bip_39_word_new_line_1: peasant
-bip_39_word_new_line_10: 'peasant
-
-  glide
-
-  ice
-
-  ignore
-
-  front
-
-  cancel
-
-  curve
-
-  much
-
-  among
-
-  shrug'
-bip_39_word_new_line_11: 'peasant
-
-  glide
-
-  ice
-
-  ignore
-
-  front
-
-  cancel
-
-  curve
-
-  much
-
-  among
-
-  shrug
-
-  enemy'
 bip_39_word_new_line_12: 'peasant
 
   glide
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'peasant
   glide
 
   ice'
-bip_39_word_new_line_4: 'peasant
-
-  glide
-
-  ice
-
-  ignore'
-bip_39_word_new_line_5: 'peasant
-
-  glide
-
-  ice
-
-  ignore
-
-  front'
-bip_39_word_new_line_6: 'peasant
-
-  glide
-
-  ice
-
-  ignore
-
-  front
-
-  cancel'
-bip_39_word_new_line_7: 'peasant
-
-  glide
-
-  ice
-
-  ignore
-
-  front
-
-  cancel
-
-  curve'
-bip_39_word_new_line_8: 'peasant
-
-  glide
-
-  ice
-
-  ignore
-
-  front
-
-  cancel
-
-  curve
-
-  much'
-bip_39_word_new_line_9: 'peasant
-
-  glide
-
-  ice
-
-  ignore
-
-  front
-
-  cancel
-
-  curve
-
-  much
-
-  among'
-bip_39_word_no_space_1: peasant
-bip_39_word_no_space_10: peasantglideiceignorefrontcancelcurvemuchamongshrug
-bip_39_word_no_space_11: peasantglideiceignorefrontcancelcurvemuchamongshrugenemy
 bip_39_word_no_space_12: peasantglideiceignorefrontcancelcurvemuchamongshrugenemyamused
 bip_39_word_no_space_2: peasantglide
 bip_39_word_no_space_3: peasantglideice
-bip_39_word_no_space_4: peasantglideiceignore
-bip_39_word_no_space_5: peasantglideiceignorefront
-bip_39_word_no_space_6: peasantglideiceignorefrontcancel
-bip_39_word_no_space_7: peasantglideiceignorefrontcancelcurve
-bip_39_word_no_space_8: peasantglideiceignorefrontcancelcurvemuch
-bip_39_word_no_space_9: peasantglideiceignorefrontcancelcurvemuchamong
-bip_39_word_space_0:
-- peasant
-- glide
-- ice
-- ignore
-- front
-- cancel
-- curve
-- much
-- among
-- shrug
-- enemy
-- amused
-bip_39_word_space_1: peasant
-bip_39_word_space_10: peasant glide ice ignore front cancel curve much among shrug
-bip_39_word_space_11: peasant glide ice ignore front cancel curve much among shrug
-  enemy
 bip_39_word_space_12: peasant glide ice ignore front cancel curve much among shrug
   enemy amused
 bip_39_word_space_2: peasant glide
 bip_39_word_space_3: peasant glide ice
-bip_39_word_space_4: peasant glide ice ignore
-bip_39_word_space_5: peasant glide ice ignore front
-bip_39_word_space_6: peasant glide ice ignore front cancel
-bip_39_word_space_7: peasant glide ice ignore front cancel curve
-bip_39_word_space_8: peasant glide ice ignore front cancel curve much
-bip_39_word_space_9: peasant glide ice ignore front cancel curve much among
-bip_39_word_underscore_1: peasant
-bip_39_word_underscore_10: peasant_glide_ice_ignore_front_cancel_curve_much_among_shrug
-bip_39_word_underscore_11: peasant_glide_ice_ignore_front_cancel_curve_much_among_shrug_enemy
 bip_39_word_underscore_12: peasant_glide_ice_ignore_front_cancel_curve_much_among_shrug_enemy_amused
 bip_39_word_underscore_2: peasant_glide
 bip_39_word_underscore_3: peasant_glide_ice
-bip_39_word_underscore_4: peasant_glide_ice_ignore
-bip_39_word_underscore_5: peasant_glide_ice_ignore_front
-bip_39_word_underscore_6: peasant_glide_ice_ignore_front_cancel
-bip_39_word_underscore_7: peasant_glide_ice_ignore_front_cancel_curve
-bip_39_word_underscore_8: peasant_glide_ice_ignore_front_cancel_curve_much
-bip_39_word_underscore_9: peasant_glide_ice_ignore_front_cancel_curve_much_among
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

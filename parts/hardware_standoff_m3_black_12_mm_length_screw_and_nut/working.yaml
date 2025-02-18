@@ -1,68 +1,9 @@
-bip_39_word_dash_1: start
-bip_39_word_dash_10: start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic
-bip_39_word_dash_11: start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic-bid
 bip_39_word_dash_12: start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic-bid-assault
 bip_39_word_dash_2: start-turn
 bip_39_word_dash_3: start-turn-album
-bip_39_word_dash_4: start-turn-album-charge
-bip_39_word_dash_5: start-turn-album-charge-side
-bip_39_word_dash_6: start-turn-album-charge-side-rebuild
-bip_39_word_dash_7: start-turn-album-charge-side-rebuild-proof
-bip_39_word_dash_8: start-turn-album-charge-side-rebuild-proof-deliver
-bip_39_word_dash_9: start-turn-album-charge-side-rebuild-proof-deliver-gym
-bip_39_word_new_br_1: start
-bip_39_word_new_br_10: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic
-bip_39_word_new_br_11: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic<br>bid
 bip_39_word_new_br_12: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic<br>bid<br>assault
 bip_39_word_new_br_2: start<br>turn
 bip_39_word_new_br_3: start<br>turn<br>album
-bip_39_word_new_br_4: start<br>turn<br>album<br>charge
-bip_39_word_new_br_5: start<br>turn<br>album<br>charge<br>side
-bip_39_word_new_br_6: start<br>turn<br>album<br>charge<br>side<br>rebuild
-bip_39_word_new_br_7: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof
-bip_39_word_new_br_8: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver
-bip_39_word_new_br_9: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym
-bip_39_word_new_line_1: start
-bip_39_word_new_line_10: 'start
-
-  turn
-
-  album
-
-  charge
-
-  side
-
-  rebuild
-
-  proof
-
-  deliver
-
-  gym
-
-  picnic'
-bip_39_word_new_line_11: 'start
-
-  turn
-
-  album
-
-  charge
-
-  side
-
-  rebuild
-
-  proof
-
-  deliver
-
-  gym
-
-  picnic
-
-  bid'
 bip_39_word_new_line_12: 'start
 
   turn
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'start
   turn
 
   album'
-bip_39_word_new_line_4: 'start
-
-  turn
-
-  album
-
-  charge'
-bip_39_word_new_line_5: 'start
-
-  turn
-
-  album
-
-  charge
-
-  side'
-bip_39_word_new_line_6: 'start
-
-  turn
-
-  album
-
-  charge
-
-  side
-
-  rebuild'
-bip_39_word_new_line_7: 'start
-
-  turn
-
-  album
-
-  charge
-
-  side
-
-  rebuild
-
-  proof'
-bip_39_word_new_line_8: 'start
-
-  turn
-
-  album
-
-  charge
-
-  side
-
-  rebuild
-
-  proof
-
-  deliver'
-bip_39_word_new_line_9: 'start
-
-  turn
-
-  album
-
-  charge
-
-  side
-
-  rebuild
-
-  proof
-
-  deliver
-
-  gym'
-bip_39_word_no_space_1: start
-bip_39_word_no_space_10: startturnalbumchargesiderebuildproofdelivergympicnic
-bip_39_word_no_space_11: startturnalbumchargesiderebuildproofdelivergympicnicbid
 bip_39_word_no_space_12: startturnalbumchargesiderebuildproofdelivergympicnicbidassault
 bip_39_word_no_space_2: startturn
 bip_39_word_no_space_3: startturnalbum
-bip_39_word_no_space_4: startturnalbumcharge
-bip_39_word_no_space_5: startturnalbumchargeside
-bip_39_word_no_space_6: startturnalbumchargesiderebuild
-bip_39_word_no_space_7: startturnalbumchargesiderebuildproof
-bip_39_word_no_space_8: startturnalbumchargesiderebuildproofdeliver
-bip_39_word_no_space_9: startturnalbumchargesiderebuildproofdelivergym
-bip_39_word_space_0:
-- start
-- turn
-- album
-- charge
-- side
-- rebuild
-- proof
-- deliver
-- gym
-- picnic
-- bid
-- assault
-bip_39_word_space_1: start
-bip_39_word_space_10: start turn album charge side rebuild proof deliver gym picnic
-bip_39_word_space_11: start turn album charge side rebuild proof deliver gym picnic
-  bid
 bip_39_word_space_12: start turn album charge side rebuild proof deliver gym picnic
   bid assault
 bip_39_word_space_2: start turn
 bip_39_word_space_3: start turn album
-bip_39_word_space_4: start turn album charge
-bip_39_word_space_5: start turn album charge side
-bip_39_word_space_6: start turn album charge side rebuild
-bip_39_word_space_7: start turn album charge side rebuild proof
-bip_39_word_space_8: start turn album charge side rebuild proof deliver
-bip_39_word_space_9: start turn album charge side rebuild proof deliver gym
-bip_39_word_underscore_1: start
-bip_39_word_underscore_10: start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic
-bip_39_word_underscore_11: start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic_bid
 bip_39_word_underscore_12: start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic_bid_assault
 bip_39_word_underscore_2: start_turn
 bip_39_word_underscore_3: start_turn_album
-bip_39_word_underscore_4: start_turn_album_charge
-bip_39_word_underscore_5: start_turn_album_charge_side
-bip_39_word_underscore_6: start_turn_album_charge_side_rebuild
-bip_39_word_underscore_7: start_turn_album_charge_side_rebuild_proof
-bip_39_word_underscore_8: start_turn_album_charge_side_rebuild_proof_deliver
-bip_39_word_underscore_9: start_turn_album_charge_side_rebuild_proof_deliver_gym
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: inmate
-bip_39_word_dash_10: inmate-hospital-list-gas-steel-crouch-decrease-peasant-hour-squeeze
-bip_39_word_dash_11: inmate-hospital-list-gas-steel-crouch-decrease-peasant-hour-squeeze-fatigue
 bip_39_word_dash_12: inmate-hospital-list-gas-steel-crouch-decrease-peasant-hour-squeeze-fatigue-alter
 bip_39_word_dash_2: inmate-hospital
 bip_39_word_dash_3: inmate-hospital-list
-bip_39_word_dash_4: inmate-hospital-list-gas
-bip_39_word_dash_5: inmate-hospital-list-gas-steel
-bip_39_word_dash_6: inmate-hospital-list-gas-steel-crouch
-bip_39_word_dash_7: inmate-hospital-list-gas-steel-crouch-decrease
-bip_39_word_dash_8: inmate-hospital-list-gas-steel-crouch-decrease-peasant
-bip_39_word_dash_9: inmate-hospital-list-gas-steel-crouch-decrease-peasant-hour
-bip_39_word_new_br_1: inmate
-bip_39_word_new_br_10: inmate<br>hospital<br>list<br>gas<br>steel<br>crouch<br>decrease<br>peasant<br>hour<br>squeeze
-bip_39_word_new_br_11: inmate<br>hospital<br>list<br>gas<br>steel<br>crouch<br>decrease<br>peasant<br>hour<br>squeeze<br>fatigue
 bip_39_word_new_br_12: inmate<br>hospital<br>list<br>gas<br>steel<br>crouch<br>decrease<br>peasant<br>hour<br>squeeze<br>fatigue<br>alter
 bip_39_word_new_br_2: inmate<br>hospital
 bip_39_word_new_br_3: inmate<br>hospital<br>list
-bip_39_word_new_br_4: inmate<br>hospital<br>list<br>gas
-bip_39_word_new_br_5: inmate<br>hospital<br>list<br>gas<br>steel
-bip_39_word_new_br_6: inmate<br>hospital<br>list<br>gas<br>steel<br>crouch
-bip_39_word_new_br_7: inmate<br>hospital<br>list<br>gas<br>steel<br>crouch<br>decrease
-bip_39_word_new_br_8: inmate<br>hospital<br>list<br>gas<br>steel<br>crouch<br>decrease<br>peasant
-bip_39_word_new_br_9: inmate<br>hospital<br>list<br>gas<br>steel<br>crouch<br>decrease<br>peasant<br>hour
-bip_39_word_new_line_1: inmate
-bip_39_word_new_line_10: 'inmate
-
-  hospital
-
-  list
-
-  gas
-
-  steel
-
-  crouch
-
-  decrease
-
-  peasant
-
-  hour
-
-  squeeze'
-bip_39_word_new_line_11: 'inmate
-
-  hospital
-
-  list
-
-  gas
-
-  steel
-
-  crouch
-
-  decrease
-
-  peasant
-
-  hour
-
-  squeeze
-
-  fatigue'
 bip_39_word_new_line_12: 'inmate
 
   hospital
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'inmate
   hospital
 
   list'
-bip_39_word_new_line_4: 'inmate
-
-  hospital
-
-  list
-
-  gas'
-bip_39_word_new_line_5: 'inmate
-
-  hospital
-
-  list
-
-  gas
-
-  steel'
-bip_39_word_new_line_6: 'inmate
-
-  hospital
-
-  list
-
-  gas
-
-  steel
-
-  crouch'
-bip_39_word_new_line_7: 'inmate
-
-  hospital
-
-  list
-
-  gas
-
-  steel
-
-  crouch
-
-  decrease'
-bip_39_word_new_line_8: 'inmate
-
-  hospital
-
-  list
-
-  gas
-
-  steel
-
-  crouch
-
-  decrease
-
-  peasant'
-bip_39_word_new_line_9: 'inmate
-
-  hospital
-
-  list
-
-  gas
-
-  steel
-
-  crouch
-
-  decrease
-
-  peasant
-
-  hour'
-bip_39_word_no_space_1: inmate
-bip_39_word_no_space_10: inmatehospitallistgassteelcrouchdecreasepeasanthoursqueeze
-bip_39_word_no_space_11: inmatehospitallistgassteelcrouchdecreasepeasanthoursqueezefatigue
 bip_39_word_no_space_12: inmatehospitallistgassteelcrouchdecreasepeasanthoursqueezefatiguealter
 bip_39_word_no_space_2: inmatehospital
 bip_39_word_no_space_3: inmatehospitallist
-bip_39_word_no_space_4: inmatehospitallistgas
-bip_39_word_no_space_5: inmatehospitallistgassteel
-bip_39_word_no_space_6: inmatehospitallistgassteelcrouch
-bip_39_word_no_space_7: inmatehospitallistgassteelcrouchdecrease
-bip_39_word_no_space_8: inmatehospitallistgassteelcrouchdecreasepeasant
-bip_39_word_no_space_9: inmatehospitallistgassteelcrouchdecreasepeasanthour
-bip_39_word_space_0:
-- inmate
-- hospital
-- list
-- gas
-- steel
-- crouch
-- decrease
-- peasant
-- hour
-- squeeze
-- fatigue
-- alter
-bip_39_word_space_1: inmate
-bip_39_word_space_10: inmate hospital list gas steel crouch decrease peasant hour
-  squeeze
-bip_39_word_space_11: inmate hospital list gas steel crouch decrease peasant hour
-  squeeze fatigue
 bip_39_word_space_12: inmate hospital list gas steel crouch decrease peasant hour
   squeeze fatigue alter
 bip_39_word_space_2: inmate hospital
 bip_39_word_space_3: inmate hospital list
-bip_39_word_space_4: inmate hospital list gas
-bip_39_word_space_5: inmate hospital list gas steel
-bip_39_word_space_6: inmate hospital list gas steel crouch
-bip_39_word_space_7: inmate hospital list gas steel crouch decrease
-bip_39_word_space_8: inmate hospital list gas steel crouch decrease peasant
-bip_39_word_space_9: inmate hospital list gas steel crouch decrease peasant hour
-bip_39_word_underscore_1: inmate
-bip_39_word_underscore_10: inmate_hospital_list_gas_steel_crouch_decrease_peasant_hour_squeeze
-bip_39_word_underscore_11: inmate_hospital_list_gas_steel_crouch_decrease_peasant_hour_squeeze_fatigue
 bip_39_word_underscore_12: inmate_hospital_list_gas_steel_crouch_decrease_peasant_hour_squeeze_fatigue_alter
 bip_39_word_underscore_2: inmate_hospital
 bip_39_word_underscore_3: inmate_hospital_list
-bip_39_word_underscore_4: inmate_hospital_list_gas
-bip_39_word_underscore_5: inmate_hospital_list_gas_steel
-bip_39_word_underscore_6: inmate_hospital_list_gas_steel_crouch
-bip_39_word_underscore_7: inmate_hospital_list_gas_steel_crouch_decrease
-bip_39_word_underscore_8: inmate_hospital_list_gas_steel_crouch_decrease_peasant
-bip_39_word_underscore_9: inmate_hospital_list_gas_steel_crouch_decrease_peasant_hour
 classification: category
 classification_capital: Category
 classification_first_letter: c

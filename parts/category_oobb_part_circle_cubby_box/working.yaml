@@ -1,68 +1,9 @@
-bip_39_word_dash_1: episode
-bip_39_word_dash_10: episode-pilot-ahead-quiz-turn-palm-title-special-notable-warm
-bip_39_word_dash_11: episode-pilot-ahead-quiz-turn-palm-title-special-notable-warm-chuckle
 bip_39_word_dash_12: episode-pilot-ahead-quiz-turn-palm-title-special-notable-warm-chuckle-arrest
 bip_39_word_dash_2: episode-pilot
 bip_39_word_dash_3: episode-pilot-ahead
-bip_39_word_dash_4: episode-pilot-ahead-quiz
-bip_39_word_dash_5: episode-pilot-ahead-quiz-turn
-bip_39_word_dash_6: episode-pilot-ahead-quiz-turn-palm
-bip_39_word_dash_7: episode-pilot-ahead-quiz-turn-palm-title
-bip_39_word_dash_8: episode-pilot-ahead-quiz-turn-palm-title-special
-bip_39_word_dash_9: episode-pilot-ahead-quiz-turn-palm-title-special-notable
-bip_39_word_new_br_1: episode
-bip_39_word_new_br_10: episode<br>pilot<br>ahead<br>quiz<br>turn<br>palm<br>title<br>special<br>notable<br>warm
-bip_39_word_new_br_11: episode<br>pilot<br>ahead<br>quiz<br>turn<br>palm<br>title<br>special<br>notable<br>warm<br>chuckle
 bip_39_word_new_br_12: episode<br>pilot<br>ahead<br>quiz<br>turn<br>palm<br>title<br>special<br>notable<br>warm<br>chuckle<br>arrest
 bip_39_word_new_br_2: episode<br>pilot
 bip_39_word_new_br_3: episode<br>pilot<br>ahead
-bip_39_word_new_br_4: episode<br>pilot<br>ahead<br>quiz
-bip_39_word_new_br_5: episode<br>pilot<br>ahead<br>quiz<br>turn
-bip_39_word_new_br_6: episode<br>pilot<br>ahead<br>quiz<br>turn<br>palm
-bip_39_word_new_br_7: episode<br>pilot<br>ahead<br>quiz<br>turn<br>palm<br>title
-bip_39_word_new_br_8: episode<br>pilot<br>ahead<br>quiz<br>turn<br>palm<br>title<br>special
-bip_39_word_new_br_9: episode<br>pilot<br>ahead<br>quiz<br>turn<br>palm<br>title<br>special<br>notable
-bip_39_word_new_line_1: episode
-bip_39_word_new_line_10: 'episode
-
-  pilot
-
-  ahead
-
-  quiz
-
-  turn
-
-  palm
-
-  title
-
-  special
-
-  notable
-
-  warm'
-bip_39_word_new_line_11: 'episode
-
-  pilot
-
-  ahead
-
-  quiz
-
-  turn
-
-  palm
-
-  title
-
-  special
-
-  notable
-
-  warm
-
-  chuckle'
 bip_39_word_new_line_12: 'episode
 
   pilot
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'episode
   pilot
 
   ahead'
-bip_39_word_new_line_4: 'episode
-
-  pilot
-
-  ahead
-
-  quiz'
-bip_39_word_new_line_5: 'episode
-
-  pilot
-
-  ahead
-
-  quiz
-
-  turn'
-bip_39_word_new_line_6: 'episode
-
-  pilot
-
-  ahead
-
-  quiz
-
-  turn
-
-  palm'
-bip_39_word_new_line_7: 'episode
-
-  pilot
-
-  ahead
-
-  quiz
-
-  turn
-
-  palm
-
-  title'
-bip_39_word_new_line_8: 'episode
-
-  pilot
-
-  ahead
-
-  quiz
-
-  turn
-
-  palm
-
-  title
-
-  special'
-bip_39_word_new_line_9: 'episode
-
-  pilot
-
-  ahead
-
-  quiz
-
-  turn
-
-  palm
-
-  title
-
-  special
-
-  notable'
-bip_39_word_no_space_1: episode
-bip_39_word_no_space_10: episodepilotaheadquizturnpalmtitlespecialnotablewarm
-bip_39_word_no_space_11: episodepilotaheadquizturnpalmtitlespecialnotablewarmchuckle
 bip_39_word_no_space_12: episodepilotaheadquizturnpalmtitlespecialnotablewarmchucklearrest
 bip_39_word_no_space_2: episodepilot
 bip_39_word_no_space_3: episodepilotahead
-bip_39_word_no_space_4: episodepilotaheadquiz
-bip_39_word_no_space_5: episodepilotaheadquizturn
-bip_39_word_no_space_6: episodepilotaheadquizturnpalm
-bip_39_word_no_space_7: episodepilotaheadquizturnpalmtitle
-bip_39_word_no_space_8: episodepilotaheadquizturnpalmtitlespecial
-bip_39_word_no_space_9: episodepilotaheadquizturnpalmtitlespecialnotable
-bip_39_word_space_0:
-- episode
-- pilot
-- ahead
-- quiz
-- turn
-- palm
-- title
-- special
-- notable
-- warm
-- chuckle
-- arrest
-bip_39_word_space_1: episode
-bip_39_word_space_10: episode pilot ahead quiz turn palm title special notable warm
-bip_39_word_space_11: episode pilot ahead quiz turn palm title special notable warm
-  chuckle
 bip_39_word_space_12: episode pilot ahead quiz turn palm title special notable warm
   chuckle arrest
 bip_39_word_space_2: episode pilot
 bip_39_word_space_3: episode pilot ahead
-bip_39_word_space_4: episode pilot ahead quiz
-bip_39_word_space_5: episode pilot ahead quiz turn
-bip_39_word_space_6: episode pilot ahead quiz turn palm
-bip_39_word_space_7: episode pilot ahead quiz turn palm title
-bip_39_word_space_8: episode pilot ahead quiz turn palm title special
-bip_39_word_space_9: episode pilot ahead quiz turn palm title special notable
-bip_39_word_underscore_1: episode
-bip_39_word_underscore_10: episode_pilot_ahead_quiz_turn_palm_title_special_notable_warm
-bip_39_word_underscore_11: episode_pilot_ahead_quiz_turn_palm_title_special_notable_warm_chuckle
 bip_39_word_underscore_12: episode_pilot_ahead_quiz_turn_palm_title_special_notable_warm_chuckle_arrest
 bip_39_word_underscore_2: episode_pilot
 bip_39_word_underscore_3: episode_pilot_ahead
-bip_39_word_underscore_4: episode_pilot_ahead_quiz
-bip_39_word_underscore_5: episode_pilot_ahead_quiz_turn
-bip_39_word_underscore_6: episode_pilot_ahead_quiz_turn_palm
-bip_39_word_underscore_7: episode_pilot_ahead_quiz_turn_palm_title
-bip_39_word_underscore_8: episode_pilot_ahead_quiz_turn_palm_title_special
-bip_39_word_underscore_9: episode_pilot_ahead_quiz_turn_palm_title_special_notable
 classification: category
 classification_capital: Category
 classification_first_letter: c

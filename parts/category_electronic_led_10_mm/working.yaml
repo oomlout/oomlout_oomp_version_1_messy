@@ -1,68 +1,9 @@
-bip_39_word_dash_1: area
-bip_39_word_dash_10: area-pledge-ice-glad-define-outside-region-then-payment-crunch
-bip_39_word_dash_11: area-pledge-ice-glad-define-outside-region-then-payment-crunch-defense
 bip_39_word_dash_12: area-pledge-ice-glad-define-outside-region-then-payment-crunch-defense-angry
 bip_39_word_dash_2: area-pledge
 bip_39_word_dash_3: area-pledge-ice
-bip_39_word_dash_4: area-pledge-ice-glad
-bip_39_word_dash_5: area-pledge-ice-glad-define
-bip_39_word_dash_6: area-pledge-ice-glad-define-outside
-bip_39_word_dash_7: area-pledge-ice-glad-define-outside-region
-bip_39_word_dash_8: area-pledge-ice-glad-define-outside-region-then
-bip_39_word_dash_9: area-pledge-ice-glad-define-outside-region-then-payment
-bip_39_word_new_br_1: area
-bip_39_word_new_br_10: area<br>pledge<br>ice<br>glad<br>define<br>outside<br>region<br>then<br>payment<br>crunch
-bip_39_word_new_br_11: area<br>pledge<br>ice<br>glad<br>define<br>outside<br>region<br>then<br>payment<br>crunch<br>defense
 bip_39_word_new_br_12: area<br>pledge<br>ice<br>glad<br>define<br>outside<br>region<br>then<br>payment<br>crunch<br>defense<br>angry
 bip_39_word_new_br_2: area<br>pledge
 bip_39_word_new_br_3: area<br>pledge<br>ice
-bip_39_word_new_br_4: area<br>pledge<br>ice<br>glad
-bip_39_word_new_br_5: area<br>pledge<br>ice<br>glad<br>define
-bip_39_word_new_br_6: area<br>pledge<br>ice<br>glad<br>define<br>outside
-bip_39_word_new_br_7: area<br>pledge<br>ice<br>glad<br>define<br>outside<br>region
-bip_39_word_new_br_8: area<br>pledge<br>ice<br>glad<br>define<br>outside<br>region<br>then
-bip_39_word_new_br_9: area<br>pledge<br>ice<br>glad<br>define<br>outside<br>region<br>then<br>payment
-bip_39_word_new_line_1: area
-bip_39_word_new_line_10: 'area
-
-  pledge
-
-  ice
-
-  glad
-
-  define
-
-  outside
-
-  region
-
-  then
-
-  payment
-
-  crunch'
-bip_39_word_new_line_11: 'area
-
-  pledge
-
-  ice
-
-  glad
-
-  define
-
-  outside
-
-  region
-
-  then
-
-  payment
-
-  crunch
-
-  defense'
 bip_39_word_new_line_12: 'area
 
   pledge
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'area
   pledge
 
   ice'
-bip_39_word_new_line_4: 'area
-
-  pledge
-
-  ice
-
-  glad'
-bip_39_word_new_line_5: 'area
-
-  pledge
-
-  ice
-
-  glad
-
-  define'
-bip_39_word_new_line_6: 'area
-
-  pledge
-
-  ice
-
-  glad
-
-  define
-
-  outside'
-bip_39_word_new_line_7: 'area
-
-  pledge
-
-  ice
-
-  glad
-
-  define
-
-  outside
-
-  region'
-bip_39_word_new_line_8: 'area
-
-  pledge
-
-  ice
-
-  glad
-
-  define
-
-  outside
-
-  region
-
-  then'
-bip_39_word_new_line_9: 'area
-
-  pledge
-
-  ice
-
-  glad
-
-  define
-
-  outside
-
-  region
-
-  then
-
-  payment'
-bip_39_word_no_space_1: area
-bip_39_word_no_space_10: areapledgeicegladdefineoutsideregionthenpaymentcrunch
-bip_39_word_no_space_11: areapledgeicegladdefineoutsideregionthenpaymentcrunchdefense
 bip_39_word_no_space_12: areapledgeicegladdefineoutsideregionthenpaymentcrunchdefenseangry
 bip_39_word_no_space_2: areapledge
 bip_39_word_no_space_3: areapledgeice
-bip_39_word_no_space_4: areapledgeiceglad
-bip_39_word_no_space_5: areapledgeicegladdefine
-bip_39_word_no_space_6: areapledgeicegladdefineoutside
-bip_39_word_no_space_7: areapledgeicegladdefineoutsideregion
-bip_39_word_no_space_8: areapledgeicegladdefineoutsideregionthen
-bip_39_word_no_space_9: areapledgeicegladdefineoutsideregionthenpayment
-bip_39_word_space_0:
-- area
-- pledge
-- ice
-- glad
-- define
-- outside
-- region
-- then
-- payment
-- crunch
-- defense
-- angry
-bip_39_word_space_1: area
-bip_39_word_space_10: area pledge ice glad define outside region then payment crunch
-bip_39_word_space_11: area pledge ice glad define outside region then payment crunch
-  defense
 bip_39_word_space_12: area pledge ice glad define outside region then payment crunch
   defense angry
 bip_39_word_space_2: area pledge
 bip_39_word_space_3: area pledge ice
-bip_39_word_space_4: area pledge ice glad
-bip_39_word_space_5: area pledge ice glad define
-bip_39_word_space_6: area pledge ice glad define outside
-bip_39_word_space_7: area pledge ice glad define outside region
-bip_39_word_space_8: area pledge ice glad define outside region then
-bip_39_word_space_9: area pledge ice glad define outside region then payment
-bip_39_word_underscore_1: area
-bip_39_word_underscore_10: area_pledge_ice_glad_define_outside_region_then_payment_crunch
-bip_39_word_underscore_11: area_pledge_ice_glad_define_outside_region_then_payment_crunch_defense
 bip_39_word_underscore_12: area_pledge_ice_glad_define_outside_region_then_payment_crunch_defense_angry
 bip_39_word_underscore_2: area_pledge
 bip_39_word_underscore_3: area_pledge_ice
-bip_39_word_underscore_4: area_pledge_ice_glad
-bip_39_word_underscore_5: area_pledge_ice_glad_define
-bip_39_word_underscore_6: area_pledge_ice_glad_define_outside
-bip_39_word_underscore_7: area_pledge_ice_glad_define_outside_region
-bip_39_word_underscore_8: area_pledge_ice_glad_define_outside_region_then
-bip_39_word_underscore_9: area_pledge_ice_glad_define_outside_region_then_payment
 classification: category
 classification_capital: Category
 classification_first_letter: c

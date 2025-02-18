@@ -1,68 +1,9 @@
-bip_39_word_dash_1: birth
-bip_39_word_dash_10: birth-slight-topple-salute-trend-virtual-repeat-unaware-slab-believe
-bip_39_word_dash_11: birth-slight-topple-salute-trend-virtual-repeat-unaware-slab-believe-saddle
 bip_39_word_dash_12: birth-slight-topple-salute-trend-virtual-repeat-unaware-slab-believe-saddle-age
 bip_39_word_dash_2: birth-slight
 bip_39_word_dash_3: birth-slight-topple
-bip_39_word_dash_4: birth-slight-topple-salute
-bip_39_word_dash_5: birth-slight-topple-salute-trend
-bip_39_word_dash_6: birth-slight-topple-salute-trend-virtual
-bip_39_word_dash_7: birth-slight-topple-salute-trend-virtual-repeat
-bip_39_word_dash_8: birth-slight-topple-salute-trend-virtual-repeat-unaware
-bip_39_word_dash_9: birth-slight-topple-salute-trend-virtual-repeat-unaware-slab
-bip_39_word_new_br_1: birth
-bip_39_word_new_br_10: birth<br>slight<br>topple<br>salute<br>trend<br>virtual<br>repeat<br>unaware<br>slab<br>believe
-bip_39_word_new_br_11: birth<br>slight<br>topple<br>salute<br>trend<br>virtual<br>repeat<br>unaware<br>slab<br>believe<br>saddle
 bip_39_word_new_br_12: birth<br>slight<br>topple<br>salute<br>trend<br>virtual<br>repeat<br>unaware<br>slab<br>believe<br>saddle<br>age
 bip_39_word_new_br_2: birth<br>slight
 bip_39_word_new_br_3: birth<br>slight<br>topple
-bip_39_word_new_br_4: birth<br>slight<br>topple<br>salute
-bip_39_word_new_br_5: birth<br>slight<br>topple<br>salute<br>trend
-bip_39_word_new_br_6: birth<br>slight<br>topple<br>salute<br>trend<br>virtual
-bip_39_word_new_br_7: birth<br>slight<br>topple<br>salute<br>trend<br>virtual<br>repeat
-bip_39_word_new_br_8: birth<br>slight<br>topple<br>salute<br>trend<br>virtual<br>repeat<br>unaware
-bip_39_word_new_br_9: birth<br>slight<br>topple<br>salute<br>trend<br>virtual<br>repeat<br>unaware<br>slab
-bip_39_word_new_line_1: birth
-bip_39_word_new_line_10: 'birth
-
-  slight
-
-  topple
-
-  salute
-
-  trend
-
-  virtual
-
-  repeat
-
-  unaware
-
-  slab
-
-  believe'
-bip_39_word_new_line_11: 'birth
-
-  slight
-
-  topple
-
-  salute
-
-  trend
-
-  virtual
-
-  repeat
-
-  unaware
-
-  slab
-
-  believe
-
-  saddle'
 bip_39_word_new_line_12: 'birth
 
   slight
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'birth
   slight
 
   topple'
-bip_39_word_new_line_4: 'birth
-
-  slight
-
-  topple
-
-  salute'
-bip_39_word_new_line_5: 'birth
-
-  slight
-
-  topple
-
-  salute
-
-  trend'
-bip_39_word_new_line_6: 'birth
-
-  slight
-
-  topple
-
-  salute
-
-  trend
-
-  virtual'
-bip_39_word_new_line_7: 'birth
-
-  slight
-
-  topple
-
-  salute
-
-  trend
-
-  virtual
-
-  repeat'
-bip_39_word_new_line_8: 'birth
-
-  slight
-
-  topple
-
-  salute
-
-  trend
-
-  virtual
-
-  repeat
-
-  unaware'
-bip_39_word_new_line_9: 'birth
-
-  slight
-
-  topple
-
-  salute
-
-  trend
-
-  virtual
-
-  repeat
-
-  unaware
-
-  slab'
-bip_39_word_no_space_1: birth
-bip_39_word_no_space_10: birthslighttopplesalutetrendvirtualrepeatunawareslabbelieve
-bip_39_word_no_space_11: birthslighttopplesalutetrendvirtualrepeatunawareslabbelievesaddle
 bip_39_word_no_space_12: birthslighttopplesalutetrendvirtualrepeatunawareslabbelievesaddleage
 bip_39_word_no_space_2: birthslight
 bip_39_word_no_space_3: birthslighttopple
-bip_39_word_no_space_4: birthslighttopplesalute
-bip_39_word_no_space_5: birthslighttopplesalutetrend
-bip_39_word_no_space_6: birthslighttopplesalutetrendvirtual
-bip_39_word_no_space_7: birthslighttopplesalutetrendvirtualrepeat
-bip_39_word_no_space_8: birthslighttopplesalutetrendvirtualrepeatunaware
-bip_39_word_no_space_9: birthslighttopplesalutetrendvirtualrepeatunawareslab
-bip_39_word_space_0:
-- birth
-- slight
-- topple
-- salute
-- trend
-- virtual
-- repeat
-- unaware
-- slab
-- believe
-- saddle
-- age
-bip_39_word_space_1: birth
-bip_39_word_space_10: birth slight topple salute trend virtual repeat unaware slab
-  believe
-bip_39_word_space_11: birth slight topple salute trend virtual repeat unaware slab
-  believe saddle
 bip_39_word_space_12: birth slight topple salute trend virtual repeat unaware slab
   believe saddle age
 bip_39_word_space_2: birth slight
 bip_39_word_space_3: birth slight topple
-bip_39_word_space_4: birth slight topple salute
-bip_39_word_space_5: birth slight topple salute trend
-bip_39_word_space_6: birth slight topple salute trend virtual
-bip_39_word_space_7: birth slight topple salute trend virtual repeat
-bip_39_word_space_8: birth slight topple salute trend virtual repeat unaware
-bip_39_word_space_9: birth slight topple salute trend virtual repeat unaware slab
-bip_39_word_underscore_1: birth
-bip_39_word_underscore_10: birth_slight_topple_salute_trend_virtual_repeat_unaware_slab_believe
-bip_39_word_underscore_11: birth_slight_topple_salute_trend_virtual_repeat_unaware_slab_believe_saddle
 bip_39_word_underscore_12: birth_slight_topple_salute_trend_virtual_repeat_unaware_slab_believe_saddle_age
 bip_39_word_underscore_2: birth_slight
 bip_39_word_underscore_3: birth_slight_topple
-bip_39_word_underscore_4: birth_slight_topple_salute
-bip_39_word_underscore_5: birth_slight_topple_salute_trend
-bip_39_word_underscore_6: birth_slight_topple_salute_trend_virtual
-bip_39_word_underscore_7: birth_slight_topple_salute_trend_virtual_repeat
-bip_39_word_underscore_8: birth_slight_topple_salute_trend_virtual_repeat_unaware
-bip_39_word_underscore_9: birth_slight_topple_salute_trend_virtual_repeat_unaware_slab
 classification: project
 classification_capital: Project
 classification_first_letter: p

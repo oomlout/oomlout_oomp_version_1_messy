@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nurse
-bip_39_word_dash_10: nurse-praise-exist-fold-achieve-soon-slush-napkin-club-chronic
-bip_39_word_dash_11: nurse-praise-exist-fold-achieve-soon-slush-napkin-club-chronic-tunnel
 bip_39_word_dash_12: nurse-praise-exist-fold-achieve-soon-slush-napkin-club-chronic-tunnel-arm
 bip_39_word_dash_2: nurse-praise
 bip_39_word_dash_3: nurse-praise-exist
-bip_39_word_dash_4: nurse-praise-exist-fold
-bip_39_word_dash_5: nurse-praise-exist-fold-achieve
-bip_39_word_dash_6: nurse-praise-exist-fold-achieve-soon
-bip_39_word_dash_7: nurse-praise-exist-fold-achieve-soon-slush
-bip_39_word_dash_8: nurse-praise-exist-fold-achieve-soon-slush-napkin
-bip_39_word_dash_9: nurse-praise-exist-fold-achieve-soon-slush-napkin-club
-bip_39_word_new_br_1: nurse
-bip_39_word_new_br_10: nurse<br>praise<br>exist<br>fold<br>achieve<br>soon<br>slush<br>napkin<br>club<br>chronic
-bip_39_word_new_br_11: nurse<br>praise<br>exist<br>fold<br>achieve<br>soon<br>slush<br>napkin<br>club<br>chronic<br>tunnel
 bip_39_word_new_br_12: nurse<br>praise<br>exist<br>fold<br>achieve<br>soon<br>slush<br>napkin<br>club<br>chronic<br>tunnel<br>arm
 bip_39_word_new_br_2: nurse<br>praise
 bip_39_word_new_br_3: nurse<br>praise<br>exist
-bip_39_word_new_br_4: nurse<br>praise<br>exist<br>fold
-bip_39_word_new_br_5: nurse<br>praise<br>exist<br>fold<br>achieve
-bip_39_word_new_br_6: nurse<br>praise<br>exist<br>fold<br>achieve<br>soon
-bip_39_word_new_br_7: nurse<br>praise<br>exist<br>fold<br>achieve<br>soon<br>slush
-bip_39_word_new_br_8: nurse<br>praise<br>exist<br>fold<br>achieve<br>soon<br>slush<br>napkin
-bip_39_word_new_br_9: nurse<br>praise<br>exist<br>fold<br>achieve<br>soon<br>slush<br>napkin<br>club
-bip_39_word_new_line_1: nurse
-bip_39_word_new_line_10: 'nurse
-
-  praise
-
-  exist
-
-  fold
-
-  achieve
-
-  soon
-
-  slush
-
-  napkin
-
-  club
-
-  chronic'
-bip_39_word_new_line_11: 'nurse
-
-  praise
-
-  exist
-
-  fold
-
-  achieve
-
-  soon
-
-  slush
-
-  napkin
-
-  club
-
-  chronic
-
-  tunnel'
 bip_39_word_new_line_12: 'nurse
 
   praise
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'nurse
   praise
 
   exist'
-bip_39_word_new_line_4: 'nurse
-
-  praise
-
-  exist
-
-  fold'
-bip_39_word_new_line_5: 'nurse
-
-  praise
-
-  exist
-
-  fold
-
-  achieve'
-bip_39_word_new_line_6: 'nurse
-
-  praise
-
-  exist
-
-  fold
-
-  achieve
-
-  soon'
-bip_39_word_new_line_7: 'nurse
-
-  praise
-
-  exist
-
-  fold
-
-  achieve
-
-  soon
-
-  slush'
-bip_39_word_new_line_8: 'nurse
-
-  praise
-
-  exist
-
-  fold
-
-  achieve
-
-  soon
-
-  slush
-
-  napkin'
-bip_39_word_new_line_9: 'nurse
-
-  praise
-
-  exist
-
-  fold
-
-  achieve
-
-  soon
-
-  slush
-
-  napkin
-
-  club'
-bip_39_word_no_space_1: nurse
-bip_39_word_no_space_10: nursepraiseexistfoldachievesoonslushnapkinclubchronic
-bip_39_word_no_space_11: nursepraiseexistfoldachievesoonslushnapkinclubchronictunnel
 bip_39_word_no_space_12: nursepraiseexistfoldachievesoonslushnapkinclubchronictunnelarm
 bip_39_word_no_space_2: nursepraise
 bip_39_word_no_space_3: nursepraiseexist
-bip_39_word_no_space_4: nursepraiseexistfold
-bip_39_word_no_space_5: nursepraiseexistfoldachieve
-bip_39_word_no_space_6: nursepraiseexistfoldachievesoon
-bip_39_word_no_space_7: nursepraiseexistfoldachievesoonslush
-bip_39_word_no_space_8: nursepraiseexistfoldachievesoonslushnapkin
-bip_39_word_no_space_9: nursepraiseexistfoldachievesoonslushnapkinclub
-bip_39_word_space_0:
-- nurse
-- praise
-- exist
-- fold
-- achieve
-- soon
-- slush
-- napkin
-- club
-- chronic
-- tunnel
-- arm
-bip_39_word_space_1: nurse
-bip_39_word_space_10: nurse praise exist fold achieve soon slush napkin club chronic
-bip_39_word_space_11: nurse praise exist fold achieve soon slush napkin club chronic
-  tunnel
 bip_39_word_space_12: nurse praise exist fold achieve soon slush napkin club chronic
   tunnel arm
 bip_39_word_space_2: nurse praise
 bip_39_word_space_3: nurse praise exist
-bip_39_word_space_4: nurse praise exist fold
-bip_39_word_space_5: nurse praise exist fold achieve
-bip_39_word_space_6: nurse praise exist fold achieve soon
-bip_39_word_space_7: nurse praise exist fold achieve soon slush
-bip_39_word_space_8: nurse praise exist fold achieve soon slush napkin
-bip_39_word_space_9: nurse praise exist fold achieve soon slush napkin club
-bip_39_word_underscore_1: nurse
-bip_39_word_underscore_10: nurse_praise_exist_fold_achieve_soon_slush_napkin_club_chronic
-bip_39_word_underscore_11: nurse_praise_exist_fold_achieve_soon_slush_napkin_club_chronic_tunnel
 bip_39_word_underscore_12: nurse_praise_exist_fold_achieve_soon_slush_napkin_club_chronic_tunnel_arm
 bip_39_word_underscore_2: nurse_praise
 bip_39_word_underscore_3: nurse_praise_exist
-bip_39_word_underscore_4: nurse_praise_exist_fold
-bip_39_word_underscore_5: nurse_praise_exist_fold_achieve
-bip_39_word_underscore_6: nurse_praise_exist_fold_achieve_soon
-bip_39_word_underscore_7: nurse_praise_exist_fold_achieve_soon_slush
-bip_39_word_underscore_8: nurse_praise_exist_fold_achieve_soon_slush_napkin
-bip_39_word_underscore_9: nurse_praise_exist_fold_achieve_soon_slush_napkin_club
 classification: food
 classification_capital: Food
 classification_first_letter: f

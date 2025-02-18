@@ -1,68 +1,9 @@
-bip_39_word_dash_1: control
-bip_39_word_dash_10: control-other-tunnel-sadness-action-jealous-promote-room-chair-drive
-bip_39_word_dash_11: control-other-tunnel-sadness-action-jealous-promote-room-chair-drive-wish
 bip_39_word_dash_12: control-other-tunnel-sadness-action-jealous-promote-room-chair-drive-wish-alter
 bip_39_word_dash_2: control-other
 bip_39_word_dash_3: control-other-tunnel
-bip_39_word_dash_4: control-other-tunnel-sadness
-bip_39_word_dash_5: control-other-tunnel-sadness-action
-bip_39_word_dash_6: control-other-tunnel-sadness-action-jealous
-bip_39_word_dash_7: control-other-tunnel-sadness-action-jealous-promote
-bip_39_word_dash_8: control-other-tunnel-sadness-action-jealous-promote-room
-bip_39_word_dash_9: control-other-tunnel-sadness-action-jealous-promote-room-chair
-bip_39_word_new_br_1: control
-bip_39_word_new_br_10: control<br>other<br>tunnel<br>sadness<br>action<br>jealous<br>promote<br>room<br>chair<br>drive
-bip_39_word_new_br_11: control<br>other<br>tunnel<br>sadness<br>action<br>jealous<br>promote<br>room<br>chair<br>drive<br>wish
 bip_39_word_new_br_12: control<br>other<br>tunnel<br>sadness<br>action<br>jealous<br>promote<br>room<br>chair<br>drive<br>wish<br>alter
 bip_39_word_new_br_2: control<br>other
 bip_39_word_new_br_3: control<br>other<br>tunnel
-bip_39_word_new_br_4: control<br>other<br>tunnel<br>sadness
-bip_39_word_new_br_5: control<br>other<br>tunnel<br>sadness<br>action
-bip_39_word_new_br_6: control<br>other<br>tunnel<br>sadness<br>action<br>jealous
-bip_39_word_new_br_7: control<br>other<br>tunnel<br>sadness<br>action<br>jealous<br>promote
-bip_39_word_new_br_8: control<br>other<br>tunnel<br>sadness<br>action<br>jealous<br>promote<br>room
-bip_39_word_new_br_9: control<br>other<br>tunnel<br>sadness<br>action<br>jealous<br>promote<br>room<br>chair
-bip_39_word_new_line_1: control
-bip_39_word_new_line_10: 'control
-
-  other
-
-  tunnel
-
-  sadness
-
-  action
-
-  jealous
-
-  promote
-
-  room
-
-  chair
-
-  drive'
-bip_39_word_new_line_11: 'control
-
-  other
-
-  tunnel
-
-  sadness
-
-  action
-
-  jealous
-
-  promote
-
-  room
-
-  chair
-
-  drive
-
-  wish'
 bip_39_word_new_line_12: 'control
 
   other
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'control
   other
 
   tunnel'
-bip_39_word_new_line_4: 'control
-
-  other
-
-  tunnel
-
-  sadness'
-bip_39_word_new_line_5: 'control
-
-  other
-
-  tunnel
-
-  sadness
-
-  action'
-bip_39_word_new_line_6: 'control
-
-  other
-
-  tunnel
-
-  sadness
-
-  action
-
-  jealous'
-bip_39_word_new_line_7: 'control
-
-  other
-
-  tunnel
-
-  sadness
-
-  action
-
-  jealous
-
-  promote'
-bip_39_word_new_line_8: 'control
-
-  other
-
-  tunnel
-
-  sadness
-
-  action
-
-  jealous
-
-  promote
-
-  room'
-bip_39_word_new_line_9: 'control
-
-  other
-
-  tunnel
-
-  sadness
-
-  action
-
-  jealous
-
-  promote
-
-  room
-
-  chair'
-bip_39_word_no_space_1: control
-bip_39_word_no_space_10: controlothertunnelsadnessactionjealouspromoteroomchairdrive
-bip_39_word_no_space_11: controlothertunnelsadnessactionjealouspromoteroomchairdrivewish
 bip_39_word_no_space_12: controlothertunnelsadnessactionjealouspromoteroomchairdrivewishalter
 bip_39_word_no_space_2: controlother
 bip_39_word_no_space_3: controlothertunnel
-bip_39_word_no_space_4: controlothertunnelsadness
-bip_39_word_no_space_5: controlothertunnelsadnessaction
-bip_39_word_no_space_6: controlothertunnelsadnessactionjealous
-bip_39_word_no_space_7: controlothertunnelsadnessactionjealouspromote
-bip_39_word_no_space_8: controlothertunnelsadnessactionjealouspromoteroom
-bip_39_word_no_space_9: controlothertunnelsadnessactionjealouspromoteroomchair
-bip_39_word_space_0:
-- control
-- other
-- tunnel
-- sadness
-- action
-- jealous
-- promote
-- room
-- chair
-- drive
-- wish
-- alter
-bip_39_word_space_1: control
-bip_39_word_space_10: control other tunnel sadness action jealous promote room chair
-  drive
-bip_39_word_space_11: control other tunnel sadness action jealous promote room chair
-  drive wish
 bip_39_word_space_12: control other tunnel sadness action jealous promote room chair
   drive wish alter
 bip_39_word_space_2: control other
 bip_39_word_space_3: control other tunnel
-bip_39_word_space_4: control other tunnel sadness
-bip_39_word_space_5: control other tunnel sadness action
-bip_39_word_space_6: control other tunnel sadness action jealous
-bip_39_word_space_7: control other tunnel sadness action jealous promote
-bip_39_word_space_8: control other tunnel sadness action jealous promote room
-bip_39_word_space_9: control other tunnel sadness action jealous promote room chair
-bip_39_word_underscore_1: control
-bip_39_word_underscore_10: control_other_tunnel_sadness_action_jealous_promote_room_chair_drive
-bip_39_word_underscore_11: control_other_tunnel_sadness_action_jealous_promote_room_chair_drive_wish
 bip_39_word_underscore_12: control_other_tunnel_sadness_action_jealous_promote_room_chair_drive_wish_alter
 bip_39_word_underscore_2: control_other
 bip_39_word_underscore_3: control_other_tunnel
-bip_39_word_underscore_4: control_other_tunnel_sadness
-bip_39_word_underscore_5: control_other_tunnel_sadness_action
-bip_39_word_underscore_6: control_other_tunnel_sadness_action_jealous
-bip_39_word_underscore_7: control_other_tunnel_sadness_action_jealous_promote
-bip_39_word_underscore_8: control_other_tunnel_sadness_action_jealous_promote_room
-bip_39_word_underscore_9: control_other_tunnel_sadness_action_jealous_promote_room_chair
 classification: category
 classification_capital: Category
 classification_first_letter: c

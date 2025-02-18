@@ -1,68 +1,9 @@
-bip_39_word_dash_1: release
-bip_39_word_dash_10: release-sauce-fury-chaos-fine-agree-picture-monitor-inflict-security
-bip_39_word_dash_11: release-sauce-fury-chaos-fine-agree-picture-monitor-inflict-security-light
 bip_39_word_dash_12: release-sauce-fury-chaos-fine-agree-picture-monitor-inflict-security-light-above
 bip_39_word_dash_2: release-sauce
 bip_39_word_dash_3: release-sauce-fury
-bip_39_word_dash_4: release-sauce-fury-chaos
-bip_39_word_dash_5: release-sauce-fury-chaos-fine
-bip_39_word_dash_6: release-sauce-fury-chaos-fine-agree
-bip_39_word_dash_7: release-sauce-fury-chaos-fine-agree-picture
-bip_39_word_dash_8: release-sauce-fury-chaos-fine-agree-picture-monitor
-bip_39_word_dash_9: release-sauce-fury-chaos-fine-agree-picture-monitor-inflict
-bip_39_word_new_br_1: release
-bip_39_word_new_br_10: release<br>sauce<br>fury<br>chaos<br>fine<br>agree<br>picture<br>monitor<br>inflict<br>security
-bip_39_word_new_br_11: release<br>sauce<br>fury<br>chaos<br>fine<br>agree<br>picture<br>monitor<br>inflict<br>security<br>light
 bip_39_word_new_br_12: release<br>sauce<br>fury<br>chaos<br>fine<br>agree<br>picture<br>monitor<br>inflict<br>security<br>light<br>above
 bip_39_word_new_br_2: release<br>sauce
 bip_39_word_new_br_3: release<br>sauce<br>fury
-bip_39_word_new_br_4: release<br>sauce<br>fury<br>chaos
-bip_39_word_new_br_5: release<br>sauce<br>fury<br>chaos<br>fine
-bip_39_word_new_br_6: release<br>sauce<br>fury<br>chaos<br>fine<br>agree
-bip_39_word_new_br_7: release<br>sauce<br>fury<br>chaos<br>fine<br>agree<br>picture
-bip_39_word_new_br_8: release<br>sauce<br>fury<br>chaos<br>fine<br>agree<br>picture<br>monitor
-bip_39_word_new_br_9: release<br>sauce<br>fury<br>chaos<br>fine<br>agree<br>picture<br>monitor<br>inflict
-bip_39_word_new_line_1: release
-bip_39_word_new_line_10: 'release
-
-  sauce
-
-  fury
-
-  chaos
-
-  fine
-
-  agree
-
-  picture
-
-  monitor
-
-  inflict
-
-  security'
-bip_39_word_new_line_11: 'release
-
-  sauce
-
-  fury
-
-  chaos
-
-  fine
-
-  agree
-
-  picture
-
-  monitor
-
-  inflict
-
-  security
-
-  light'
 bip_39_word_new_line_12: 'release
 
   sauce
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'release
   sauce
 
   fury'
-bip_39_word_new_line_4: 'release
-
-  sauce
-
-  fury
-
-  chaos'
-bip_39_word_new_line_5: 'release
-
-  sauce
-
-  fury
-
-  chaos
-
-  fine'
-bip_39_word_new_line_6: 'release
-
-  sauce
-
-  fury
-
-  chaos
-
-  fine
-
-  agree'
-bip_39_word_new_line_7: 'release
-
-  sauce
-
-  fury
-
-  chaos
-
-  fine
-
-  agree
-
-  picture'
-bip_39_word_new_line_8: 'release
-
-  sauce
-
-  fury
-
-  chaos
-
-  fine
-
-  agree
-
-  picture
-
-  monitor'
-bip_39_word_new_line_9: 'release
-
-  sauce
-
-  fury
-
-  chaos
-
-  fine
-
-  agree
-
-  picture
-
-  monitor
-
-  inflict'
-bip_39_word_no_space_1: release
-bip_39_word_no_space_10: releasesaucefurychaosfineagreepicturemonitorinflictsecurity
-bip_39_word_no_space_11: releasesaucefurychaosfineagreepicturemonitorinflictsecuritylight
 bip_39_word_no_space_12: releasesaucefurychaosfineagreepicturemonitorinflictsecuritylightabove
 bip_39_word_no_space_2: releasesauce
 bip_39_word_no_space_3: releasesaucefury
-bip_39_word_no_space_4: releasesaucefurychaos
-bip_39_word_no_space_5: releasesaucefurychaosfine
-bip_39_word_no_space_6: releasesaucefurychaosfineagree
-bip_39_word_no_space_7: releasesaucefurychaosfineagreepicture
-bip_39_word_no_space_8: releasesaucefurychaosfineagreepicturemonitor
-bip_39_word_no_space_9: releasesaucefurychaosfineagreepicturemonitorinflict
-bip_39_word_space_0:
-- release
-- sauce
-- fury
-- chaos
-- fine
-- agree
-- picture
-- monitor
-- inflict
-- security
-- light
-- above
-bip_39_word_space_1: release
-bip_39_word_space_10: release sauce fury chaos fine agree picture monitor inflict
-  security
-bip_39_word_space_11: release sauce fury chaos fine agree picture monitor inflict
-  security light
 bip_39_word_space_12: release sauce fury chaos fine agree picture monitor inflict
   security light above
 bip_39_word_space_2: release sauce
 bip_39_word_space_3: release sauce fury
-bip_39_word_space_4: release sauce fury chaos
-bip_39_word_space_5: release sauce fury chaos fine
-bip_39_word_space_6: release sauce fury chaos fine agree
-bip_39_word_space_7: release sauce fury chaos fine agree picture
-bip_39_word_space_8: release sauce fury chaos fine agree picture monitor
-bip_39_word_space_9: release sauce fury chaos fine agree picture monitor inflict
-bip_39_word_underscore_1: release
-bip_39_word_underscore_10: release_sauce_fury_chaos_fine_agree_picture_monitor_inflict_security
-bip_39_word_underscore_11: release_sauce_fury_chaos_fine_agree_picture_monitor_inflict_security_light
 bip_39_word_underscore_12: release_sauce_fury_chaos_fine_agree_picture_monitor_inflict_security_light_above
 bip_39_word_underscore_2: release_sauce
 bip_39_word_underscore_3: release_sauce_fury
-bip_39_word_underscore_4: release_sauce_fury_chaos
-bip_39_word_underscore_5: release_sauce_fury_chaos_fine
-bip_39_word_underscore_6: release_sauce_fury_chaos_fine_agree
-bip_39_word_underscore_7: release_sauce_fury_chaos_fine_agree_picture
-bip_39_word_underscore_8: release_sauce_fury_chaos_fine_agree_picture_monitor
-bip_39_word_underscore_9: release_sauce_fury_chaos_fine_agree_picture_monitor_inflict
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

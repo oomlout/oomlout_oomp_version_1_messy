@@ -1,68 +1,9 @@
-bip_39_word_dash_1: noise
-bip_39_word_dash_10: noise-grace-clean-display-popular-believe-wine-mushroom-tag-trim
-bip_39_word_dash_11: noise-grace-clean-display-popular-believe-wine-mushroom-tag-trim-beef
 bip_39_word_dash_12: noise-grace-clean-display-popular-believe-wine-mushroom-tag-trim-beef-athlete
 bip_39_word_dash_2: noise-grace
 bip_39_word_dash_3: noise-grace-clean
-bip_39_word_dash_4: noise-grace-clean-display
-bip_39_word_dash_5: noise-grace-clean-display-popular
-bip_39_word_dash_6: noise-grace-clean-display-popular-believe
-bip_39_word_dash_7: noise-grace-clean-display-popular-believe-wine
-bip_39_word_dash_8: noise-grace-clean-display-popular-believe-wine-mushroom
-bip_39_word_dash_9: noise-grace-clean-display-popular-believe-wine-mushroom-tag
-bip_39_word_new_br_1: noise
-bip_39_word_new_br_10: noise<br>grace<br>clean<br>display<br>popular<br>believe<br>wine<br>mushroom<br>tag<br>trim
-bip_39_word_new_br_11: noise<br>grace<br>clean<br>display<br>popular<br>believe<br>wine<br>mushroom<br>tag<br>trim<br>beef
 bip_39_word_new_br_12: noise<br>grace<br>clean<br>display<br>popular<br>believe<br>wine<br>mushroom<br>tag<br>trim<br>beef<br>athlete
 bip_39_word_new_br_2: noise<br>grace
 bip_39_word_new_br_3: noise<br>grace<br>clean
-bip_39_word_new_br_4: noise<br>grace<br>clean<br>display
-bip_39_word_new_br_5: noise<br>grace<br>clean<br>display<br>popular
-bip_39_word_new_br_6: noise<br>grace<br>clean<br>display<br>popular<br>believe
-bip_39_word_new_br_7: noise<br>grace<br>clean<br>display<br>popular<br>believe<br>wine
-bip_39_word_new_br_8: noise<br>grace<br>clean<br>display<br>popular<br>believe<br>wine<br>mushroom
-bip_39_word_new_br_9: noise<br>grace<br>clean<br>display<br>popular<br>believe<br>wine<br>mushroom<br>tag
-bip_39_word_new_line_1: noise
-bip_39_word_new_line_10: 'noise
-
-  grace
-
-  clean
-
-  display
-
-  popular
-
-  believe
-
-  wine
-
-  mushroom
-
-  tag
-
-  trim'
-bip_39_word_new_line_11: 'noise
-
-  grace
-
-  clean
-
-  display
-
-  popular
-
-  believe
-
-  wine
-
-  mushroom
-
-  tag
-
-  trim
-
-  beef'
 bip_39_word_new_line_12: 'noise
 
   grace
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'noise
   grace
 
   clean'
-bip_39_word_new_line_4: 'noise
-
-  grace
-
-  clean
-
-  display'
-bip_39_word_new_line_5: 'noise
-
-  grace
-
-  clean
-
-  display
-
-  popular'
-bip_39_word_new_line_6: 'noise
-
-  grace
-
-  clean
-
-  display
-
-  popular
-
-  believe'
-bip_39_word_new_line_7: 'noise
-
-  grace
-
-  clean
-
-  display
-
-  popular
-
-  believe
-
-  wine'
-bip_39_word_new_line_8: 'noise
-
-  grace
-
-  clean
-
-  display
-
-  popular
-
-  believe
-
-  wine
-
-  mushroom'
-bip_39_word_new_line_9: 'noise
-
-  grace
-
-  clean
-
-  display
-
-  popular
-
-  believe
-
-  wine
-
-  mushroom
-
-  tag'
-bip_39_word_no_space_1: noise
-bip_39_word_no_space_10: noisegracecleandisplaypopularbelievewinemushroomtagtrim
-bip_39_word_no_space_11: noisegracecleandisplaypopularbelievewinemushroomtagtrimbeef
 bip_39_word_no_space_12: noisegracecleandisplaypopularbelievewinemushroomtagtrimbeefathlete
 bip_39_word_no_space_2: noisegrace
 bip_39_word_no_space_3: noisegraceclean
-bip_39_word_no_space_4: noisegracecleandisplay
-bip_39_word_no_space_5: noisegracecleandisplaypopular
-bip_39_word_no_space_6: noisegracecleandisplaypopularbelieve
-bip_39_word_no_space_7: noisegracecleandisplaypopularbelievewine
-bip_39_word_no_space_8: noisegracecleandisplaypopularbelievewinemushroom
-bip_39_word_no_space_9: noisegracecleandisplaypopularbelievewinemushroomtag
-bip_39_word_space_0:
-- noise
-- grace
-- clean
-- display
-- popular
-- believe
-- wine
-- mushroom
-- tag
-- trim
-- beef
-- athlete
-bip_39_word_space_1: noise
-bip_39_word_space_10: noise grace clean display popular believe wine mushroom tag
-  trim
-bip_39_word_space_11: noise grace clean display popular believe wine mushroom tag
-  trim beef
 bip_39_word_space_12: noise grace clean display popular believe wine mushroom tag
   trim beef athlete
 bip_39_word_space_2: noise grace
 bip_39_word_space_3: noise grace clean
-bip_39_word_space_4: noise grace clean display
-bip_39_word_space_5: noise grace clean display popular
-bip_39_word_space_6: noise grace clean display popular believe
-bip_39_word_space_7: noise grace clean display popular believe wine
-bip_39_word_space_8: noise grace clean display popular believe wine mushroom
-bip_39_word_space_9: noise grace clean display popular believe wine mushroom tag
-bip_39_word_underscore_1: noise
-bip_39_word_underscore_10: noise_grace_clean_display_popular_believe_wine_mushroom_tag_trim
-bip_39_word_underscore_11: noise_grace_clean_display_popular_believe_wine_mushroom_tag_trim_beef
 bip_39_word_underscore_12: noise_grace_clean_display_popular_believe_wine_mushroom_tag_trim_beef_athlete
 bip_39_word_underscore_2: noise_grace
 bip_39_word_underscore_3: noise_grace_clean
-bip_39_word_underscore_4: noise_grace_clean_display
-bip_39_word_underscore_5: noise_grace_clean_display_popular
-bip_39_word_underscore_6: noise_grace_clean_display_popular_believe
-bip_39_word_underscore_7: noise_grace_clean_display_popular_believe_wine
-bip_39_word_underscore_8: noise_grace_clean_display_popular_believe_wine_mushroom
-bip_39_word_underscore_9: noise_grace_clean_display_popular_believe_wine_mushroom_tag
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: planet
-bip_39_word_dash_10: planet-ketchup-pioneer-put-sail-hip-joy-drastic-lend-enough
-bip_39_word_dash_11: planet-ketchup-pioneer-put-sail-hip-joy-drastic-lend-enough-wall
 bip_39_word_dash_12: planet-ketchup-pioneer-put-sail-hip-joy-drastic-lend-enough-wall-armor
 bip_39_word_dash_2: planet-ketchup
 bip_39_word_dash_3: planet-ketchup-pioneer
-bip_39_word_dash_4: planet-ketchup-pioneer-put
-bip_39_word_dash_5: planet-ketchup-pioneer-put-sail
-bip_39_word_dash_6: planet-ketchup-pioneer-put-sail-hip
-bip_39_word_dash_7: planet-ketchup-pioneer-put-sail-hip-joy
-bip_39_word_dash_8: planet-ketchup-pioneer-put-sail-hip-joy-drastic
-bip_39_word_dash_9: planet-ketchup-pioneer-put-sail-hip-joy-drastic-lend
-bip_39_word_new_br_1: planet
-bip_39_word_new_br_10: planet<br>ketchup<br>pioneer<br>put<br>sail<br>hip<br>joy<br>drastic<br>lend<br>enough
-bip_39_word_new_br_11: planet<br>ketchup<br>pioneer<br>put<br>sail<br>hip<br>joy<br>drastic<br>lend<br>enough<br>wall
 bip_39_word_new_br_12: planet<br>ketchup<br>pioneer<br>put<br>sail<br>hip<br>joy<br>drastic<br>lend<br>enough<br>wall<br>armor
 bip_39_word_new_br_2: planet<br>ketchup
 bip_39_word_new_br_3: planet<br>ketchup<br>pioneer
-bip_39_word_new_br_4: planet<br>ketchup<br>pioneer<br>put
-bip_39_word_new_br_5: planet<br>ketchup<br>pioneer<br>put<br>sail
-bip_39_word_new_br_6: planet<br>ketchup<br>pioneer<br>put<br>sail<br>hip
-bip_39_word_new_br_7: planet<br>ketchup<br>pioneer<br>put<br>sail<br>hip<br>joy
-bip_39_word_new_br_8: planet<br>ketchup<br>pioneer<br>put<br>sail<br>hip<br>joy<br>drastic
-bip_39_word_new_br_9: planet<br>ketchup<br>pioneer<br>put<br>sail<br>hip<br>joy<br>drastic<br>lend
-bip_39_word_new_line_1: planet
-bip_39_word_new_line_10: 'planet
-
-  ketchup
-
-  pioneer
-
-  put
-
-  sail
-
-  hip
-
-  joy
-
-  drastic
-
-  lend
-
-  enough'
-bip_39_word_new_line_11: 'planet
-
-  ketchup
-
-  pioneer
-
-  put
-
-  sail
-
-  hip
-
-  joy
-
-  drastic
-
-  lend
-
-  enough
-
-  wall'
 bip_39_word_new_line_12: 'planet
 
   ketchup
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'planet
   ketchup
 
   pioneer'
-bip_39_word_new_line_4: 'planet
-
-  ketchup
-
-  pioneer
-
-  put'
-bip_39_word_new_line_5: 'planet
-
-  ketchup
-
-  pioneer
-
-  put
-
-  sail'
-bip_39_word_new_line_6: 'planet
-
-  ketchup
-
-  pioneer
-
-  put
-
-  sail
-
-  hip'
-bip_39_word_new_line_7: 'planet
-
-  ketchup
-
-  pioneer
-
-  put
-
-  sail
-
-  hip
-
-  joy'
-bip_39_word_new_line_8: 'planet
-
-  ketchup
-
-  pioneer
-
-  put
-
-  sail
-
-  hip
-
-  joy
-
-  drastic'
-bip_39_word_new_line_9: 'planet
-
-  ketchup
-
-  pioneer
-
-  put
-
-  sail
-
-  hip
-
-  joy
-
-  drastic
-
-  lend'
-bip_39_word_no_space_1: planet
-bip_39_word_no_space_10: planetketchuppioneerputsailhipjoydrasticlendenough
-bip_39_word_no_space_11: planetketchuppioneerputsailhipjoydrasticlendenoughwall
 bip_39_word_no_space_12: planetketchuppioneerputsailhipjoydrasticlendenoughwallarmor
 bip_39_word_no_space_2: planetketchup
 bip_39_word_no_space_3: planetketchuppioneer
-bip_39_word_no_space_4: planetketchuppioneerput
-bip_39_word_no_space_5: planetketchuppioneerputsail
-bip_39_word_no_space_6: planetketchuppioneerputsailhip
-bip_39_word_no_space_7: planetketchuppioneerputsailhipjoy
-bip_39_word_no_space_8: planetketchuppioneerputsailhipjoydrastic
-bip_39_word_no_space_9: planetketchuppioneerputsailhipjoydrasticlend
-bip_39_word_space_0:
-- planet
-- ketchup
-- pioneer
-- put
-- sail
-- hip
-- joy
-- drastic
-- lend
-- enough
-- wall
-- armor
-bip_39_word_space_1: planet
-bip_39_word_space_10: planet ketchup pioneer put sail hip joy drastic lend enough
-bip_39_word_space_11: planet ketchup pioneer put sail hip joy drastic lend enough
-  wall
 bip_39_word_space_12: planet ketchup pioneer put sail hip joy drastic lend enough
   wall armor
 bip_39_word_space_2: planet ketchup
 bip_39_word_space_3: planet ketchup pioneer
-bip_39_word_space_4: planet ketchup pioneer put
-bip_39_word_space_5: planet ketchup pioneer put sail
-bip_39_word_space_6: planet ketchup pioneer put sail hip
-bip_39_word_space_7: planet ketchup pioneer put sail hip joy
-bip_39_word_space_8: planet ketchup pioneer put sail hip joy drastic
-bip_39_word_space_9: planet ketchup pioneer put sail hip joy drastic lend
-bip_39_word_underscore_1: planet
-bip_39_word_underscore_10: planet_ketchup_pioneer_put_sail_hip_joy_drastic_lend_enough
-bip_39_word_underscore_11: planet_ketchup_pioneer_put_sail_hip_joy_drastic_lend_enough_wall
 bip_39_word_underscore_12: planet_ketchup_pioneer_put_sail_hip_joy_drastic_lend_enough_wall_armor
 bip_39_word_underscore_2: planet_ketchup
 bip_39_word_underscore_3: planet_ketchup_pioneer
-bip_39_word_underscore_4: planet_ketchup_pioneer_put
-bip_39_word_underscore_5: planet_ketchup_pioneer_put_sail
-bip_39_word_underscore_6: planet_ketchup_pioneer_put_sail_hip
-bip_39_word_underscore_7: planet_ketchup_pioneer_put_sail_hip_joy
-bip_39_word_underscore_8: planet_ketchup_pioneer_put_sail_hip_joy_drastic
-bip_39_word_underscore_9: planet_ketchup_pioneer_put_sail_hip_joy_drastic_lend
 classification: category
 classification_capital: Category
 classification_first_letter: c

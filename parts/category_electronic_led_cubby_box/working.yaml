@@ -1,68 +1,9 @@
-bip_39_word_dash_1: people
-bip_39_word_dash_10: people-mansion-grocery-rebuild-security-barrel-field-water-leisure-rice
-bip_39_word_dash_11: people-mansion-grocery-rebuild-security-barrel-field-water-leisure-rice-artist
 bip_39_word_dash_12: people-mansion-grocery-rebuild-security-barrel-field-water-leisure-rice-artist-apple
 bip_39_word_dash_2: people-mansion
 bip_39_word_dash_3: people-mansion-grocery
-bip_39_word_dash_4: people-mansion-grocery-rebuild
-bip_39_word_dash_5: people-mansion-grocery-rebuild-security
-bip_39_word_dash_6: people-mansion-grocery-rebuild-security-barrel
-bip_39_word_dash_7: people-mansion-grocery-rebuild-security-barrel-field
-bip_39_word_dash_8: people-mansion-grocery-rebuild-security-barrel-field-water
-bip_39_word_dash_9: people-mansion-grocery-rebuild-security-barrel-field-water-leisure
-bip_39_word_new_br_1: people
-bip_39_word_new_br_10: people<br>mansion<br>grocery<br>rebuild<br>security<br>barrel<br>field<br>water<br>leisure<br>rice
-bip_39_word_new_br_11: people<br>mansion<br>grocery<br>rebuild<br>security<br>barrel<br>field<br>water<br>leisure<br>rice<br>artist
 bip_39_word_new_br_12: people<br>mansion<br>grocery<br>rebuild<br>security<br>barrel<br>field<br>water<br>leisure<br>rice<br>artist<br>apple
 bip_39_word_new_br_2: people<br>mansion
 bip_39_word_new_br_3: people<br>mansion<br>grocery
-bip_39_word_new_br_4: people<br>mansion<br>grocery<br>rebuild
-bip_39_word_new_br_5: people<br>mansion<br>grocery<br>rebuild<br>security
-bip_39_word_new_br_6: people<br>mansion<br>grocery<br>rebuild<br>security<br>barrel
-bip_39_word_new_br_7: people<br>mansion<br>grocery<br>rebuild<br>security<br>barrel<br>field
-bip_39_word_new_br_8: people<br>mansion<br>grocery<br>rebuild<br>security<br>barrel<br>field<br>water
-bip_39_word_new_br_9: people<br>mansion<br>grocery<br>rebuild<br>security<br>barrel<br>field<br>water<br>leisure
-bip_39_word_new_line_1: people
-bip_39_word_new_line_10: 'people
-
-  mansion
-
-  grocery
-
-  rebuild
-
-  security
-
-  barrel
-
-  field
-
-  water
-
-  leisure
-
-  rice'
-bip_39_word_new_line_11: 'people
-
-  mansion
-
-  grocery
-
-  rebuild
-
-  security
-
-  barrel
-
-  field
-
-  water
-
-  leisure
-
-  rice
-
-  artist'
 bip_39_word_new_line_12: 'people
 
   mansion
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'people
   mansion
 
   grocery'
-bip_39_word_new_line_4: 'people
-
-  mansion
-
-  grocery
-
-  rebuild'
-bip_39_word_new_line_5: 'people
-
-  mansion
-
-  grocery
-
-  rebuild
-
-  security'
-bip_39_word_new_line_6: 'people
-
-  mansion
-
-  grocery
-
-  rebuild
-
-  security
-
-  barrel'
-bip_39_word_new_line_7: 'people
-
-  mansion
-
-  grocery
-
-  rebuild
-
-  security
-
-  barrel
-
-  field'
-bip_39_word_new_line_8: 'people
-
-  mansion
-
-  grocery
-
-  rebuild
-
-  security
-
-  barrel
-
-  field
-
-  water'
-bip_39_word_new_line_9: 'people
-
-  mansion
-
-  grocery
-
-  rebuild
-
-  security
-
-  barrel
-
-  field
-
-  water
-
-  leisure'
-bip_39_word_no_space_1: people
-bip_39_word_no_space_10: peoplemansiongroceryrebuildsecuritybarrelfieldwaterleisurerice
-bip_39_word_no_space_11: peoplemansiongroceryrebuildsecuritybarrelfieldwaterleisurericeartist
 bip_39_word_no_space_12: peoplemansiongroceryrebuildsecuritybarrelfieldwaterleisurericeartistapple
 bip_39_word_no_space_2: peoplemansion
 bip_39_word_no_space_3: peoplemansiongrocery
-bip_39_word_no_space_4: peoplemansiongroceryrebuild
-bip_39_word_no_space_5: peoplemansiongroceryrebuildsecurity
-bip_39_word_no_space_6: peoplemansiongroceryrebuildsecuritybarrel
-bip_39_word_no_space_7: peoplemansiongroceryrebuildsecuritybarrelfield
-bip_39_word_no_space_8: peoplemansiongroceryrebuildsecuritybarrelfieldwater
-bip_39_word_no_space_9: peoplemansiongroceryrebuildsecuritybarrelfieldwaterleisure
-bip_39_word_space_0:
-- people
-- mansion
-- grocery
-- rebuild
-- security
-- barrel
-- field
-- water
-- leisure
-- rice
-- artist
-- apple
-bip_39_word_space_1: people
-bip_39_word_space_10: people mansion grocery rebuild security barrel field water leisure
-  rice
-bip_39_word_space_11: people mansion grocery rebuild security barrel field water leisure
-  rice artist
 bip_39_word_space_12: people mansion grocery rebuild security barrel field water leisure
   rice artist apple
 bip_39_word_space_2: people mansion
 bip_39_word_space_3: people mansion grocery
-bip_39_word_space_4: people mansion grocery rebuild
-bip_39_word_space_5: people mansion grocery rebuild security
-bip_39_word_space_6: people mansion grocery rebuild security barrel
-bip_39_word_space_7: people mansion grocery rebuild security barrel field
-bip_39_word_space_8: people mansion grocery rebuild security barrel field water
-bip_39_word_space_9: people mansion grocery rebuild security barrel field water leisure
-bip_39_word_underscore_1: people
-bip_39_word_underscore_10: people_mansion_grocery_rebuild_security_barrel_field_water_leisure_rice
-bip_39_word_underscore_11: people_mansion_grocery_rebuild_security_barrel_field_water_leisure_rice_artist
 bip_39_word_underscore_12: people_mansion_grocery_rebuild_security_barrel_field_water_leisure_rice_artist_apple
 bip_39_word_underscore_2: people_mansion
 bip_39_word_underscore_3: people_mansion_grocery
-bip_39_word_underscore_4: people_mansion_grocery_rebuild
-bip_39_word_underscore_5: people_mansion_grocery_rebuild_security
-bip_39_word_underscore_6: people_mansion_grocery_rebuild_security_barrel
-bip_39_word_underscore_7: people_mansion_grocery_rebuild_security_barrel_field
-bip_39_word_underscore_8: people_mansion_grocery_rebuild_security_barrel_field_water
-bip_39_word_underscore_9: people_mansion_grocery_rebuild_security_barrel_field_water_leisure
 classification: category
 classification_capital: Category
 classification_first_letter: c

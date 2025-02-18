@@ -1,68 +1,9 @@
-bip_39_word_dash_1: latin
-bip_39_word_dash_10: latin-help-clerk-other-very-economy-found-quarter-hill-skill
-bip_39_word_dash_11: latin-help-clerk-other-very-economy-found-quarter-hill-skill-sell
 bip_39_word_dash_12: latin-help-clerk-other-very-economy-found-quarter-hill-skill-sell-airport
 bip_39_word_dash_2: latin-help
 bip_39_word_dash_3: latin-help-clerk
-bip_39_word_dash_4: latin-help-clerk-other
-bip_39_word_dash_5: latin-help-clerk-other-very
-bip_39_word_dash_6: latin-help-clerk-other-very-economy
-bip_39_word_dash_7: latin-help-clerk-other-very-economy-found
-bip_39_word_dash_8: latin-help-clerk-other-very-economy-found-quarter
-bip_39_word_dash_9: latin-help-clerk-other-very-economy-found-quarter-hill
-bip_39_word_new_br_1: latin
-bip_39_word_new_br_10: latin<br>help<br>clerk<br>other<br>very<br>economy<br>found<br>quarter<br>hill<br>skill
-bip_39_word_new_br_11: latin<br>help<br>clerk<br>other<br>very<br>economy<br>found<br>quarter<br>hill<br>skill<br>sell
 bip_39_word_new_br_12: latin<br>help<br>clerk<br>other<br>very<br>economy<br>found<br>quarter<br>hill<br>skill<br>sell<br>airport
 bip_39_word_new_br_2: latin<br>help
 bip_39_word_new_br_3: latin<br>help<br>clerk
-bip_39_word_new_br_4: latin<br>help<br>clerk<br>other
-bip_39_word_new_br_5: latin<br>help<br>clerk<br>other<br>very
-bip_39_word_new_br_6: latin<br>help<br>clerk<br>other<br>very<br>economy
-bip_39_word_new_br_7: latin<br>help<br>clerk<br>other<br>very<br>economy<br>found
-bip_39_word_new_br_8: latin<br>help<br>clerk<br>other<br>very<br>economy<br>found<br>quarter
-bip_39_word_new_br_9: latin<br>help<br>clerk<br>other<br>very<br>economy<br>found<br>quarter<br>hill
-bip_39_word_new_line_1: latin
-bip_39_word_new_line_10: 'latin
-
-  help
-
-  clerk
-
-  other
-
-  very
-
-  economy
-
-  found
-
-  quarter
-
-  hill
-
-  skill'
-bip_39_word_new_line_11: 'latin
-
-  help
-
-  clerk
-
-  other
-
-  very
-
-  economy
-
-  found
-
-  quarter
-
-  hill
-
-  skill
-
-  sell'
 bip_39_word_new_line_12: 'latin
 
   help
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'latin
   help
 
   clerk'
-bip_39_word_new_line_4: 'latin
-
-  help
-
-  clerk
-
-  other'
-bip_39_word_new_line_5: 'latin
-
-  help
-
-  clerk
-
-  other
-
-  very'
-bip_39_word_new_line_6: 'latin
-
-  help
-
-  clerk
-
-  other
-
-  very
-
-  economy'
-bip_39_word_new_line_7: 'latin
-
-  help
-
-  clerk
-
-  other
-
-  very
-
-  economy
-
-  found'
-bip_39_word_new_line_8: 'latin
-
-  help
-
-  clerk
-
-  other
-
-  very
-
-  economy
-
-  found
-
-  quarter'
-bip_39_word_new_line_9: 'latin
-
-  help
-
-  clerk
-
-  other
-
-  very
-
-  economy
-
-  found
-
-  quarter
-
-  hill'
-bip_39_word_no_space_1: latin
-bip_39_word_no_space_10: latinhelpclerkotherveryeconomyfoundquarterhillskill
-bip_39_word_no_space_11: latinhelpclerkotherveryeconomyfoundquarterhillskillsell
 bip_39_word_no_space_12: latinhelpclerkotherveryeconomyfoundquarterhillskillsellairport
 bip_39_word_no_space_2: latinhelp
 bip_39_word_no_space_3: latinhelpclerk
-bip_39_word_no_space_4: latinhelpclerkother
-bip_39_word_no_space_5: latinhelpclerkothervery
-bip_39_word_no_space_6: latinhelpclerkotherveryeconomy
-bip_39_word_no_space_7: latinhelpclerkotherveryeconomyfound
-bip_39_word_no_space_8: latinhelpclerkotherveryeconomyfoundquarter
-bip_39_word_no_space_9: latinhelpclerkotherveryeconomyfoundquarterhill
-bip_39_word_space_0:
-- latin
-- help
-- clerk
-- other
-- very
-- economy
-- found
-- quarter
-- hill
-- skill
-- sell
-- airport
-bip_39_word_space_1: latin
-bip_39_word_space_10: latin help clerk other very economy found quarter hill skill
-bip_39_word_space_11: latin help clerk other very economy found quarter hill skill
-  sell
 bip_39_word_space_12: latin help clerk other very economy found quarter hill skill
   sell airport
 bip_39_word_space_2: latin help
 bip_39_word_space_3: latin help clerk
-bip_39_word_space_4: latin help clerk other
-bip_39_word_space_5: latin help clerk other very
-bip_39_word_space_6: latin help clerk other very economy
-bip_39_word_space_7: latin help clerk other very economy found
-bip_39_word_space_8: latin help clerk other very economy found quarter
-bip_39_word_space_9: latin help clerk other very economy found quarter hill
-bip_39_word_underscore_1: latin
-bip_39_word_underscore_10: latin_help_clerk_other_very_economy_found_quarter_hill_skill
-bip_39_word_underscore_11: latin_help_clerk_other_very_economy_found_quarter_hill_skill_sell
 bip_39_word_underscore_12: latin_help_clerk_other_very_economy_found_quarter_hill_skill_sell_airport
 bip_39_word_underscore_2: latin_help
 bip_39_word_underscore_3: latin_help_clerk
-bip_39_word_underscore_4: latin_help_clerk_other
-bip_39_word_underscore_5: latin_help_clerk_other_very
-bip_39_word_underscore_6: latin_help_clerk_other_very_economy
-bip_39_word_underscore_7: latin_help_clerk_other_very_economy_found
-bip_39_word_underscore_8: latin_help_clerk_other_very_economy_found_quarter
-bip_39_word_underscore_9: latin_help_clerk_other_very_economy_found_quarter_hill
 classification: category
 classification_capital: Category
 classification_first_letter: c

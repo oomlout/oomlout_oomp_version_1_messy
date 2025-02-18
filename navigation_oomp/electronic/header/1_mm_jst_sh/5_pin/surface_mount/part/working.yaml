@@ -1,68 +1,9 @@
-bip_39_word_dash_1: web
-bip_39_word_dash_10: web-only-weather-state-divide-crisp-priority-region-beef-orphan
-bip_39_word_dash_11: web-only-weather-state-divide-crisp-priority-region-beef-orphan-away
 bip_39_word_dash_12: web-only-weather-state-divide-crisp-priority-region-beef-orphan-away-arrive
 bip_39_word_dash_2: web-only
 bip_39_word_dash_3: web-only-weather
-bip_39_word_dash_4: web-only-weather-state
-bip_39_word_dash_5: web-only-weather-state-divide
-bip_39_word_dash_6: web-only-weather-state-divide-crisp
-bip_39_word_dash_7: web-only-weather-state-divide-crisp-priority
-bip_39_word_dash_8: web-only-weather-state-divide-crisp-priority-region
-bip_39_word_dash_9: web-only-weather-state-divide-crisp-priority-region-beef
-bip_39_word_new_br_1: web
-bip_39_word_new_br_10: web<br>only<br>weather<br>state<br>divide<br>crisp<br>priority<br>region<br>beef<br>orphan
-bip_39_word_new_br_11: web<br>only<br>weather<br>state<br>divide<br>crisp<br>priority<br>region<br>beef<br>orphan<br>away
 bip_39_word_new_br_12: web<br>only<br>weather<br>state<br>divide<br>crisp<br>priority<br>region<br>beef<br>orphan<br>away<br>arrive
 bip_39_word_new_br_2: web<br>only
 bip_39_word_new_br_3: web<br>only<br>weather
-bip_39_word_new_br_4: web<br>only<br>weather<br>state
-bip_39_word_new_br_5: web<br>only<br>weather<br>state<br>divide
-bip_39_word_new_br_6: web<br>only<br>weather<br>state<br>divide<br>crisp
-bip_39_word_new_br_7: web<br>only<br>weather<br>state<br>divide<br>crisp<br>priority
-bip_39_word_new_br_8: web<br>only<br>weather<br>state<br>divide<br>crisp<br>priority<br>region
-bip_39_word_new_br_9: web<br>only<br>weather<br>state<br>divide<br>crisp<br>priority<br>region<br>beef
-bip_39_word_new_line_1: web
-bip_39_word_new_line_10: 'web
-
-  only
-
-  weather
-
-  state
-
-  divide
-
-  crisp
-
-  priority
-
-  region
-
-  beef
-
-  orphan'
-bip_39_word_new_line_11: 'web
-
-  only
-
-  weather
-
-  state
-
-  divide
-
-  crisp
-
-  priority
-
-  region
-
-  beef
-
-  orphan
-
-  away'
 bip_39_word_new_line_12: 'web
 
   only
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'web
   only
 
   weather'
-bip_39_word_new_line_4: 'web
-
-  only
-
-  weather
-
-  state'
-bip_39_word_new_line_5: 'web
-
-  only
-
-  weather
-
-  state
-
-  divide'
-bip_39_word_new_line_6: 'web
-
-  only
-
-  weather
-
-  state
-
-  divide
-
-  crisp'
-bip_39_word_new_line_7: 'web
-
-  only
-
-  weather
-
-  state
-
-  divide
-
-  crisp
-
-  priority'
-bip_39_word_new_line_8: 'web
-
-  only
-
-  weather
-
-  state
-
-  divide
-
-  crisp
-
-  priority
-
-  region'
-bip_39_word_new_line_9: 'web
-
-  only
-
-  weather
-
-  state
-
-  divide
-
-  crisp
-
-  priority
-
-  region
-
-  beef'
-bip_39_word_no_space_1: web
-bip_39_word_no_space_10: webonlyweatherstatedividecrisppriorityregionbeeforphan
-bip_39_word_no_space_11: webonlyweatherstatedividecrisppriorityregionbeeforphanaway
 bip_39_word_no_space_12: webonlyweatherstatedividecrisppriorityregionbeeforphanawayarrive
 bip_39_word_no_space_2: webonly
 bip_39_word_no_space_3: webonlyweather
-bip_39_word_no_space_4: webonlyweatherstate
-bip_39_word_no_space_5: webonlyweatherstatedivide
-bip_39_word_no_space_6: webonlyweatherstatedividecrisp
-bip_39_word_no_space_7: webonlyweatherstatedividecrisppriority
-bip_39_word_no_space_8: webonlyweatherstatedividecrisppriorityregion
-bip_39_word_no_space_9: webonlyweatherstatedividecrisppriorityregionbeef
-bip_39_word_space_0:
-- web
-- only
-- weather
-- state
-- divide
-- crisp
-- priority
-- region
-- beef
-- orphan
-- away
-- arrive
-bip_39_word_space_1: web
-bip_39_word_space_10: web only weather state divide crisp priority region beef orphan
-bip_39_word_space_11: web only weather state divide crisp priority region beef orphan
-  away
 bip_39_word_space_12: web only weather state divide crisp priority region beef orphan
   away arrive
 bip_39_word_space_2: web only
 bip_39_word_space_3: web only weather
-bip_39_word_space_4: web only weather state
-bip_39_word_space_5: web only weather state divide
-bip_39_word_space_6: web only weather state divide crisp
-bip_39_word_space_7: web only weather state divide crisp priority
-bip_39_word_space_8: web only weather state divide crisp priority region
-bip_39_word_space_9: web only weather state divide crisp priority region beef
-bip_39_word_underscore_1: web
-bip_39_word_underscore_10: web_only_weather_state_divide_crisp_priority_region_beef_orphan
-bip_39_word_underscore_11: web_only_weather_state_divide_crisp_priority_region_beef_orphan_away
 bip_39_word_underscore_12: web_only_weather_state_divide_crisp_priority_region_beef_orphan_away_arrive
 bip_39_word_underscore_2: web_only
 bip_39_word_underscore_3: web_only_weather
-bip_39_word_underscore_4: web_only_weather_state
-bip_39_word_underscore_5: web_only_weather_state_divide
-bip_39_word_underscore_6: web_only_weather_state_divide_crisp
-bip_39_word_underscore_7: web_only_weather_state_divide_crisp_priority
-bip_39_word_underscore_8: web_only_weather_state_divide_crisp_priority_region
-bip_39_word_underscore_9: web_only_weather_state_divide_crisp_priority_region_beef
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

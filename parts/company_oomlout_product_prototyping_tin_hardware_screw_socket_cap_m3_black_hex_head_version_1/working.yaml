@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mask
-bip_39_word_dash_10: mask-various-people-ripple-length-major-curve-lawn-change-tent
-bip_39_word_dash_11: mask-various-people-ripple-length-major-curve-lawn-change-tent-clay
 bip_39_word_dash_12: mask-various-people-ripple-length-major-curve-lawn-change-tent-clay-apart
 bip_39_word_dash_2: mask-various
 bip_39_word_dash_3: mask-various-people
-bip_39_word_dash_4: mask-various-people-ripple
-bip_39_word_dash_5: mask-various-people-ripple-length
-bip_39_word_dash_6: mask-various-people-ripple-length-major
-bip_39_word_dash_7: mask-various-people-ripple-length-major-curve
-bip_39_word_dash_8: mask-various-people-ripple-length-major-curve-lawn
-bip_39_word_dash_9: mask-various-people-ripple-length-major-curve-lawn-change
-bip_39_word_new_br_1: mask
-bip_39_word_new_br_10: mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent
-bip_39_word_new_br_11: mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent<br>clay
 bip_39_word_new_br_12: mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change<br>tent<br>clay<br>apart
 bip_39_word_new_br_2: mask<br>various
 bip_39_word_new_br_3: mask<br>various<br>people
-bip_39_word_new_br_4: mask<br>various<br>people<br>ripple
-bip_39_word_new_br_5: mask<br>various<br>people<br>ripple<br>length
-bip_39_word_new_br_6: mask<br>various<br>people<br>ripple<br>length<br>major
-bip_39_word_new_br_7: mask<br>various<br>people<br>ripple<br>length<br>major<br>curve
-bip_39_word_new_br_8: mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn
-bip_39_word_new_br_9: mask<br>various<br>people<br>ripple<br>length<br>major<br>curve<br>lawn<br>change
-bip_39_word_new_line_1: mask
-bip_39_word_new_line_10: 'mask
-
-  various
-
-  people
-
-  ripple
-
-  length
-
-  major
-
-  curve
-
-  lawn
-
-  change
-
-  tent'
-bip_39_word_new_line_11: 'mask
-
-  various
-
-  people
-
-  ripple
-
-  length
-
-  major
-
-  curve
-
-  lawn
-
-  change
-
-  tent
-
-  clay'
 bip_39_word_new_line_12: 'mask
 
   various
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mask
   various
 
   people'
-bip_39_word_new_line_4: 'mask
-
-  various
-
-  people
-
-  ripple'
-bip_39_word_new_line_5: 'mask
-
-  various
-
-  people
-
-  ripple
-
-  length'
-bip_39_word_new_line_6: 'mask
-
-  various
-
-  people
-
-  ripple
-
-  length
-
-  major'
-bip_39_word_new_line_7: 'mask
-
-  various
-
-  people
-
-  ripple
-
-  length
-
-  major
-
-  curve'
-bip_39_word_new_line_8: 'mask
-
-  various
-
-  people
-
-  ripple
-
-  length
-
-  major
-
-  curve
-
-  lawn'
-bip_39_word_new_line_9: 'mask
-
-  various
-
-  people
-
-  ripple
-
-  length
-
-  major
-
-  curve
-
-  lawn
-
-  change'
-bip_39_word_no_space_1: mask
-bip_39_word_no_space_10: maskvariouspeopleripplelengthmajorcurvelawnchangetent
-bip_39_word_no_space_11: maskvariouspeopleripplelengthmajorcurvelawnchangetentclay
 bip_39_word_no_space_12: maskvariouspeopleripplelengthmajorcurvelawnchangetentclayapart
 bip_39_word_no_space_2: maskvarious
 bip_39_word_no_space_3: maskvariouspeople
-bip_39_word_no_space_4: maskvariouspeopleripple
-bip_39_word_no_space_5: maskvariouspeopleripplelength
-bip_39_word_no_space_6: maskvariouspeopleripplelengthmajor
-bip_39_word_no_space_7: maskvariouspeopleripplelengthmajorcurve
-bip_39_word_no_space_8: maskvariouspeopleripplelengthmajorcurvelawn
-bip_39_word_no_space_9: maskvariouspeopleripplelengthmajorcurvelawnchange
-bip_39_word_space_0:
-- mask
-- various
-- people
-- ripple
-- length
-- major
-- curve
-- lawn
-- change
-- tent
-- clay
-- apart
-bip_39_word_space_1: mask
-bip_39_word_space_10: mask various people ripple length major curve lawn change tent
-bip_39_word_space_11: mask various people ripple length major curve lawn change tent
-  clay
 bip_39_word_space_12: mask various people ripple length major curve lawn change tent
   clay apart
 bip_39_word_space_2: mask various
 bip_39_word_space_3: mask various people
-bip_39_word_space_4: mask various people ripple
-bip_39_word_space_5: mask various people ripple length
-bip_39_word_space_6: mask various people ripple length major
-bip_39_word_space_7: mask various people ripple length major curve
-bip_39_word_space_8: mask various people ripple length major curve lawn
-bip_39_word_space_9: mask various people ripple length major curve lawn change
-bip_39_word_underscore_1: mask
-bip_39_word_underscore_10: mask_various_people_ripple_length_major_curve_lawn_change_tent
-bip_39_word_underscore_11: mask_various_people_ripple_length_major_curve_lawn_change_tent_clay
 bip_39_word_underscore_12: mask_various_people_ripple_length_major_curve_lawn_change_tent_clay_apart
 bip_39_word_underscore_2: mask_various
 bip_39_word_underscore_3: mask_various_people
-bip_39_word_underscore_4: mask_various_people_ripple
-bip_39_word_underscore_5: mask_various_people_ripple_length
-bip_39_word_underscore_6: mask_various_people_ripple_length_major
-bip_39_word_underscore_7: mask_various_people_ripple_length_major_curve
-bip_39_word_underscore_8: mask_various_people_ripple_length_major_curve_lawn
-bip_39_word_underscore_9: mask_various_people_ripple_length_major_curve_lawn_change
 classification: company_oomlout
 classification_capital: Company Oomlout
 classification_first_letter: c

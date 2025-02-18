@@ -1,68 +1,9 @@
-bip_39_word_dash_1: limb
-bip_39_word_dash_10: limb-able-swift-hold-south-ocean-barely-clay-start-lion
-bip_39_word_dash_11: limb-able-swift-hold-south-ocean-barely-clay-start-lion-dolphin
 bip_39_word_dash_12: limb-able-swift-hold-south-ocean-barely-clay-start-lion-dolphin-assume
 bip_39_word_dash_2: limb-able
 bip_39_word_dash_3: limb-able-swift
-bip_39_word_dash_4: limb-able-swift-hold
-bip_39_word_dash_5: limb-able-swift-hold-south
-bip_39_word_dash_6: limb-able-swift-hold-south-ocean
-bip_39_word_dash_7: limb-able-swift-hold-south-ocean-barely
-bip_39_word_dash_8: limb-able-swift-hold-south-ocean-barely-clay
-bip_39_word_dash_9: limb-able-swift-hold-south-ocean-barely-clay-start
-bip_39_word_new_br_1: limb
-bip_39_word_new_br_10: limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay<br>start<br>lion
-bip_39_word_new_br_11: limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay<br>start<br>lion<br>dolphin
 bip_39_word_new_br_12: limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay<br>start<br>lion<br>dolphin<br>assume
 bip_39_word_new_br_2: limb<br>able
 bip_39_word_new_br_3: limb<br>able<br>swift
-bip_39_word_new_br_4: limb<br>able<br>swift<br>hold
-bip_39_word_new_br_5: limb<br>able<br>swift<br>hold<br>south
-bip_39_word_new_br_6: limb<br>able<br>swift<br>hold<br>south<br>ocean
-bip_39_word_new_br_7: limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely
-bip_39_word_new_br_8: limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay
-bip_39_word_new_br_9: limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay<br>start
-bip_39_word_new_line_1: limb
-bip_39_word_new_line_10: 'limb
-
-  able
-
-  swift
-
-  hold
-
-  south
-
-  ocean
-
-  barely
-
-  clay
-
-  start
-
-  lion'
-bip_39_word_new_line_11: 'limb
-
-  able
-
-  swift
-
-  hold
-
-  south
-
-  ocean
-
-  barely
-
-  clay
-
-  start
-
-  lion
-
-  dolphin'
 bip_39_word_new_line_12: 'limb
 
   able
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'limb
   able
 
   swift'
-bip_39_word_new_line_4: 'limb
-
-  able
-
-  swift
-
-  hold'
-bip_39_word_new_line_5: 'limb
-
-  able
-
-  swift
-
-  hold
-
-  south'
-bip_39_word_new_line_6: 'limb
-
-  able
-
-  swift
-
-  hold
-
-  south
-
-  ocean'
-bip_39_word_new_line_7: 'limb
-
-  able
-
-  swift
-
-  hold
-
-  south
-
-  ocean
-
-  barely'
-bip_39_word_new_line_8: 'limb
-
-  able
-
-  swift
-
-  hold
-
-  south
-
-  ocean
-
-  barely
-
-  clay'
-bip_39_word_new_line_9: 'limb
-
-  able
-
-  swift
-
-  hold
-
-  south
-
-  ocean
-
-  barely
-
-  clay
-
-  start'
-bip_39_word_no_space_1: limb
-bip_39_word_no_space_10: limbableswiftholdsouthoceanbarelyclaystartlion
-bip_39_word_no_space_11: limbableswiftholdsouthoceanbarelyclaystartliondolphin
 bip_39_word_no_space_12: limbableswiftholdsouthoceanbarelyclaystartliondolphinassume
 bip_39_word_no_space_2: limbable
 bip_39_word_no_space_3: limbableswift
-bip_39_word_no_space_4: limbableswifthold
-bip_39_word_no_space_5: limbableswiftholdsouth
-bip_39_word_no_space_6: limbableswiftholdsouthocean
-bip_39_word_no_space_7: limbableswiftholdsouthoceanbarely
-bip_39_word_no_space_8: limbableswiftholdsouthoceanbarelyclay
-bip_39_word_no_space_9: limbableswiftholdsouthoceanbarelyclaystart
-bip_39_word_space_0:
-- limb
-- able
-- swift
-- hold
-- south
-- ocean
-- barely
-- clay
-- start
-- lion
-- dolphin
-- assume
-bip_39_word_space_1: limb
-bip_39_word_space_10: limb able swift hold south ocean barely clay start lion
-bip_39_word_space_11: limb able swift hold south ocean barely clay start lion dolphin
 bip_39_word_space_12: limb able swift hold south ocean barely clay start lion dolphin
   assume
 bip_39_word_space_2: limb able
 bip_39_word_space_3: limb able swift
-bip_39_word_space_4: limb able swift hold
-bip_39_word_space_5: limb able swift hold south
-bip_39_word_space_6: limb able swift hold south ocean
-bip_39_word_space_7: limb able swift hold south ocean barely
-bip_39_word_space_8: limb able swift hold south ocean barely clay
-bip_39_word_space_9: limb able swift hold south ocean barely clay start
-bip_39_word_underscore_1: limb
-bip_39_word_underscore_10: limb_able_swift_hold_south_ocean_barely_clay_start_lion
-bip_39_word_underscore_11: limb_able_swift_hold_south_ocean_barely_clay_start_lion_dolphin
 bip_39_word_underscore_12: limb_able_swift_hold_south_ocean_barely_clay_start_lion_dolphin_assume
 bip_39_word_underscore_2: limb_able
 bip_39_word_underscore_3: limb_able_swift
-bip_39_word_underscore_4: limb_able_swift_hold
-bip_39_word_underscore_5: limb_able_swift_hold_south
-bip_39_word_underscore_6: limb_able_swift_hold_south_ocean
-bip_39_word_underscore_7: limb_able_swift_hold_south_ocean_barely
-bip_39_word_underscore_8: limb_able_swift_hold_south_ocean_barely_clay
-bip_39_word_underscore_9: limb_able_swift_hold_south_ocean_barely_clay_start
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

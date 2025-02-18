@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chunk
-bip_39_word_dash_10: chunk-loud-swing-silly-globe-tray-skin-gallery-crime-connect
-bip_39_word_dash_11: chunk-loud-swing-silly-globe-tray-skin-gallery-crime-connect-ticket
 bip_39_word_dash_12: chunk-loud-swing-silly-globe-tray-skin-gallery-crime-connect-ticket-arch
 bip_39_word_dash_2: chunk-loud
 bip_39_word_dash_3: chunk-loud-swing
-bip_39_word_dash_4: chunk-loud-swing-silly
-bip_39_word_dash_5: chunk-loud-swing-silly-globe
-bip_39_word_dash_6: chunk-loud-swing-silly-globe-tray
-bip_39_word_dash_7: chunk-loud-swing-silly-globe-tray-skin
-bip_39_word_dash_8: chunk-loud-swing-silly-globe-tray-skin-gallery
-bip_39_word_dash_9: chunk-loud-swing-silly-globe-tray-skin-gallery-crime
-bip_39_word_new_br_1: chunk
-bip_39_word_new_br_10: chunk<br>loud<br>swing<br>silly<br>globe<br>tray<br>skin<br>gallery<br>crime<br>connect
-bip_39_word_new_br_11: chunk<br>loud<br>swing<br>silly<br>globe<br>tray<br>skin<br>gallery<br>crime<br>connect<br>ticket
 bip_39_word_new_br_12: chunk<br>loud<br>swing<br>silly<br>globe<br>tray<br>skin<br>gallery<br>crime<br>connect<br>ticket<br>arch
 bip_39_word_new_br_2: chunk<br>loud
 bip_39_word_new_br_3: chunk<br>loud<br>swing
-bip_39_word_new_br_4: chunk<br>loud<br>swing<br>silly
-bip_39_word_new_br_5: chunk<br>loud<br>swing<br>silly<br>globe
-bip_39_word_new_br_6: chunk<br>loud<br>swing<br>silly<br>globe<br>tray
-bip_39_word_new_br_7: chunk<br>loud<br>swing<br>silly<br>globe<br>tray<br>skin
-bip_39_word_new_br_8: chunk<br>loud<br>swing<br>silly<br>globe<br>tray<br>skin<br>gallery
-bip_39_word_new_br_9: chunk<br>loud<br>swing<br>silly<br>globe<br>tray<br>skin<br>gallery<br>crime
-bip_39_word_new_line_1: chunk
-bip_39_word_new_line_10: 'chunk
-
-  loud
-
-  swing
-
-  silly
-
-  globe
-
-  tray
-
-  skin
-
-  gallery
-
-  crime
-
-  connect'
-bip_39_word_new_line_11: 'chunk
-
-  loud
-
-  swing
-
-  silly
-
-  globe
-
-  tray
-
-  skin
-
-  gallery
-
-  crime
-
-  connect
-
-  ticket'
 bip_39_word_new_line_12: 'chunk
 
   loud
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chunk
   loud
 
   swing'
-bip_39_word_new_line_4: 'chunk
-
-  loud
-
-  swing
-
-  silly'
-bip_39_word_new_line_5: 'chunk
-
-  loud
-
-  swing
-
-  silly
-
-  globe'
-bip_39_word_new_line_6: 'chunk
-
-  loud
-
-  swing
-
-  silly
-
-  globe
-
-  tray'
-bip_39_word_new_line_7: 'chunk
-
-  loud
-
-  swing
-
-  silly
-
-  globe
-
-  tray
-
-  skin'
-bip_39_word_new_line_8: 'chunk
-
-  loud
-
-  swing
-
-  silly
-
-  globe
-
-  tray
-
-  skin
-
-  gallery'
-bip_39_word_new_line_9: 'chunk
-
-  loud
-
-  swing
-
-  silly
-
-  globe
-
-  tray
-
-  skin
-
-  gallery
-
-  crime'
-bip_39_word_no_space_1: chunk
-bip_39_word_no_space_10: chunkloudswingsillyglobetrayskingallerycrimeconnect
-bip_39_word_no_space_11: chunkloudswingsillyglobetrayskingallerycrimeconnectticket
 bip_39_word_no_space_12: chunkloudswingsillyglobetrayskingallerycrimeconnectticketarch
 bip_39_word_no_space_2: chunkloud
 bip_39_word_no_space_3: chunkloudswing
-bip_39_word_no_space_4: chunkloudswingsilly
-bip_39_word_no_space_5: chunkloudswingsillyglobe
-bip_39_word_no_space_6: chunkloudswingsillyglobetray
-bip_39_word_no_space_7: chunkloudswingsillyglobetrayskin
-bip_39_word_no_space_8: chunkloudswingsillyglobetrayskingallery
-bip_39_word_no_space_9: chunkloudswingsillyglobetrayskingallerycrime
-bip_39_word_space_0:
-- chunk
-- loud
-- swing
-- silly
-- globe
-- tray
-- skin
-- gallery
-- crime
-- connect
-- ticket
-- arch
-bip_39_word_space_1: chunk
-bip_39_word_space_10: chunk loud swing silly globe tray skin gallery crime connect
-bip_39_word_space_11: chunk loud swing silly globe tray skin gallery crime connect
-  ticket
 bip_39_word_space_12: chunk loud swing silly globe tray skin gallery crime connect
   ticket arch
 bip_39_word_space_2: chunk loud
 bip_39_word_space_3: chunk loud swing
-bip_39_word_space_4: chunk loud swing silly
-bip_39_word_space_5: chunk loud swing silly globe
-bip_39_word_space_6: chunk loud swing silly globe tray
-bip_39_word_space_7: chunk loud swing silly globe tray skin
-bip_39_word_space_8: chunk loud swing silly globe tray skin gallery
-bip_39_word_space_9: chunk loud swing silly globe tray skin gallery crime
-bip_39_word_underscore_1: chunk
-bip_39_word_underscore_10: chunk_loud_swing_silly_globe_tray_skin_gallery_crime_connect
-bip_39_word_underscore_11: chunk_loud_swing_silly_globe_tray_skin_gallery_crime_connect_ticket
 bip_39_word_underscore_12: chunk_loud_swing_silly_globe_tray_skin_gallery_crime_connect_ticket_arch
 bip_39_word_underscore_2: chunk_loud
 bip_39_word_underscore_3: chunk_loud_swing
-bip_39_word_underscore_4: chunk_loud_swing_silly
-bip_39_word_underscore_5: chunk_loud_swing_silly_globe
-bip_39_word_underscore_6: chunk_loud_swing_silly_globe_tray
-bip_39_word_underscore_7: chunk_loud_swing_silly_globe_tray_skin
-bip_39_word_underscore_8: chunk_loud_swing_silly_globe_tray_skin_gallery
-bip_39_word_underscore_9: chunk_loud_swing_silly_globe_tray_skin_gallery_crime
 classification: category
 classification_capital: Category
 classification_first_letter: c

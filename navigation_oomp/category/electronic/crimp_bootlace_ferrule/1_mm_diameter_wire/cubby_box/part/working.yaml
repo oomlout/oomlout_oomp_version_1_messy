@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tail
-bip_39_word_dash_10: tail-current-minute-crystal-text-cement-gaze-venue-pioneer-profit
-bip_39_word_dash_11: tail-current-minute-crystal-text-cement-gaze-venue-pioneer-profit-manage
 bip_39_word_dash_12: tail-current-minute-crystal-text-cement-gaze-venue-pioneer-profit-manage-assist
 bip_39_word_dash_2: tail-current
 bip_39_word_dash_3: tail-current-minute
-bip_39_word_dash_4: tail-current-minute-crystal
-bip_39_word_dash_5: tail-current-minute-crystal-text
-bip_39_word_dash_6: tail-current-minute-crystal-text-cement
-bip_39_word_dash_7: tail-current-minute-crystal-text-cement-gaze
-bip_39_word_dash_8: tail-current-minute-crystal-text-cement-gaze-venue
-bip_39_word_dash_9: tail-current-minute-crystal-text-cement-gaze-venue-pioneer
-bip_39_word_new_br_1: tail
-bip_39_word_new_br_10: tail<br>current<br>minute<br>crystal<br>text<br>cement<br>gaze<br>venue<br>pioneer<br>profit
-bip_39_word_new_br_11: tail<br>current<br>minute<br>crystal<br>text<br>cement<br>gaze<br>venue<br>pioneer<br>profit<br>manage
 bip_39_word_new_br_12: tail<br>current<br>minute<br>crystal<br>text<br>cement<br>gaze<br>venue<br>pioneer<br>profit<br>manage<br>assist
 bip_39_word_new_br_2: tail<br>current
 bip_39_word_new_br_3: tail<br>current<br>minute
-bip_39_word_new_br_4: tail<br>current<br>minute<br>crystal
-bip_39_word_new_br_5: tail<br>current<br>minute<br>crystal<br>text
-bip_39_word_new_br_6: tail<br>current<br>minute<br>crystal<br>text<br>cement
-bip_39_word_new_br_7: tail<br>current<br>minute<br>crystal<br>text<br>cement<br>gaze
-bip_39_word_new_br_8: tail<br>current<br>minute<br>crystal<br>text<br>cement<br>gaze<br>venue
-bip_39_word_new_br_9: tail<br>current<br>minute<br>crystal<br>text<br>cement<br>gaze<br>venue<br>pioneer
-bip_39_word_new_line_1: tail
-bip_39_word_new_line_10: 'tail
-
-  current
-
-  minute
-
-  crystal
-
-  text
-
-  cement
-
-  gaze
-
-  venue
-
-  pioneer
-
-  profit'
-bip_39_word_new_line_11: 'tail
-
-  current
-
-  minute
-
-  crystal
-
-  text
-
-  cement
-
-  gaze
-
-  venue
-
-  pioneer
-
-  profit
-
-  manage'
 bip_39_word_new_line_12: 'tail
 
   current
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tail
   current
 
   minute'
-bip_39_word_new_line_4: 'tail
-
-  current
-
-  minute
-
-  crystal'
-bip_39_word_new_line_5: 'tail
-
-  current
-
-  minute
-
-  crystal
-
-  text'
-bip_39_word_new_line_6: 'tail
-
-  current
-
-  minute
-
-  crystal
-
-  text
-
-  cement'
-bip_39_word_new_line_7: 'tail
-
-  current
-
-  minute
-
-  crystal
-
-  text
-
-  cement
-
-  gaze'
-bip_39_word_new_line_8: 'tail
-
-  current
-
-  minute
-
-  crystal
-
-  text
-
-  cement
-
-  gaze
-
-  venue'
-bip_39_word_new_line_9: 'tail
-
-  current
-
-  minute
-
-  crystal
-
-  text
-
-  cement
-
-  gaze
-
-  venue
-
-  pioneer'
-bip_39_word_no_space_1: tail
-bip_39_word_no_space_10: tailcurrentminutecrystaltextcementgazevenuepioneerprofit
-bip_39_word_no_space_11: tailcurrentminutecrystaltextcementgazevenuepioneerprofitmanage
 bip_39_word_no_space_12: tailcurrentminutecrystaltextcementgazevenuepioneerprofitmanageassist
 bip_39_word_no_space_2: tailcurrent
 bip_39_word_no_space_3: tailcurrentminute
-bip_39_word_no_space_4: tailcurrentminutecrystal
-bip_39_word_no_space_5: tailcurrentminutecrystaltext
-bip_39_word_no_space_6: tailcurrentminutecrystaltextcement
-bip_39_word_no_space_7: tailcurrentminutecrystaltextcementgaze
-bip_39_word_no_space_8: tailcurrentminutecrystaltextcementgazevenue
-bip_39_word_no_space_9: tailcurrentminutecrystaltextcementgazevenuepioneer
-bip_39_word_space_0:
-- tail
-- current
-- minute
-- crystal
-- text
-- cement
-- gaze
-- venue
-- pioneer
-- profit
-- manage
-- assist
-bip_39_word_space_1: tail
-bip_39_word_space_10: tail current minute crystal text cement gaze venue pioneer profit
-bip_39_word_space_11: tail current minute crystal text cement gaze venue pioneer profit
-  manage
 bip_39_word_space_12: tail current minute crystal text cement gaze venue pioneer profit
   manage assist
 bip_39_word_space_2: tail current
 bip_39_word_space_3: tail current minute
-bip_39_word_space_4: tail current minute crystal
-bip_39_word_space_5: tail current minute crystal text
-bip_39_word_space_6: tail current minute crystal text cement
-bip_39_word_space_7: tail current minute crystal text cement gaze
-bip_39_word_space_8: tail current minute crystal text cement gaze venue
-bip_39_word_space_9: tail current minute crystal text cement gaze venue pioneer
-bip_39_word_underscore_1: tail
-bip_39_word_underscore_10: tail_current_minute_crystal_text_cement_gaze_venue_pioneer_profit
-bip_39_word_underscore_11: tail_current_minute_crystal_text_cement_gaze_venue_pioneer_profit_manage
 bip_39_word_underscore_12: tail_current_minute_crystal_text_cement_gaze_venue_pioneer_profit_manage_assist
 bip_39_word_underscore_2: tail_current
 bip_39_word_underscore_3: tail_current_minute
-bip_39_word_underscore_4: tail_current_minute_crystal
-bip_39_word_underscore_5: tail_current_minute_crystal_text
-bip_39_word_underscore_6: tail_current_minute_crystal_text_cement
-bip_39_word_underscore_7: tail_current_minute_crystal_text_cement_gaze
-bip_39_word_underscore_8: tail_current_minute_crystal_text_cement_gaze_venue
-bip_39_word_underscore_9: tail_current_minute_crystal_text_cement_gaze_venue_pioneer
 classification: category
 classification_capital: Category
 classification_first_letter: c

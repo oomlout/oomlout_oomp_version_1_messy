@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hard
-bip_39_word_dash_10: hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally-clog-angry
-bip_39_word_dash_11: hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally-clog-angry-spoon
 bip_39_word_dash_12: hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally-clog-angry-spoon-august
 bip_39_word_dash_2: hard-drastic
 bip_39_word_dash_3: hard-drastic-cactus
-bip_39_word_dash_4: hard-drastic-cactus-decrease
-bip_39_word_dash_5: hard-drastic-cactus-decrease-fitness
-bip_39_word_dash_6: hard-drastic-cactus-decrease-fitness-kangaroo
-bip_39_word_dash_7: hard-drastic-cactus-decrease-fitness-kangaroo-caution
-bip_39_word_dash_8: hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally
-bip_39_word_dash_9: hard-drastic-cactus-decrease-fitness-kangaroo-caution-rally-clog
-bip_39_word_new_br_1: hard
-bip_39_word_new_br_10: hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo<br>caution<br>rally<br>clog<br>angry
-bip_39_word_new_br_11: hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo<br>caution<br>rally<br>clog<br>angry<br>spoon
 bip_39_word_new_br_12: hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo<br>caution<br>rally<br>clog<br>angry<br>spoon<br>august
 bip_39_word_new_br_2: hard<br>drastic
 bip_39_word_new_br_3: hard<br>drastic<br>cactus
-bip_39_word_new_br_4: hard<br>drastic<br>cactus<br>decrease
-bip_39_word_new_br_5: hard<br>drastic<br>cactus<br>decrease<br>fitness
-bip_39_word_new_br_6: hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo
-bip_39_word_new_br_7: hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo<br>caution
-bip_39_word_new_br_8: hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo<br>caution<br>rally
-bip_39_word_new_br_9: hard<br>drastic<br>cactus<br>decrease<br>fitness<br>kangaroo<br>caution<br>rally<br>clog
-bip_39_word_new_line_1: hard
-bip_39_word_new_line_10: 'hard
-
-  drastic
-
-  cactus
-
-  decrease
-
-  fitness
-
-  kangaroo
-
-  caution
-
-  rally
-
-  clog
-
-  angry'
-bip_39_word_new_line_11: 'hard
-
-  drastic
-
-  cactus
-
-  decrease
-
-  fitness
-
-  kangaroo
-
-  caution
-
-  rally
-
-  clog
-
-  angry
-
-  spoon'
 bip_39_word_new_line_12: 'hard
 
   drastic
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'hard
   drastic
 
   cactus'
-bip_39_word_new_line_4: 'hard
-
-  drastic
-
-  cactus
-
-  decrease'
-bip_39_word_new_line_5: 'hard
-
-  drastic
-
-  cactus
-
-  decrease
-
-  fitness'
-bip_39_word_new_line_6: 'hard
-
-  drastic
-
-  cactus
-
-  decrease
-
-  fitness
-
-  kangaroo'
-bip_39_word_new_line_7: 'hard
-
-  drastic
-
-  cactus
-
-  decrease
-
-  fitness
-
-  kangaroo
-
-  caution'
-bip_39_word_new_line_8: 'hard
-
-  drastic
-
-  cactus
-
-  decrease
-
-  fitness
-
-  kangaroo
-
-  caution
-
-  rally'
-bip_39_word_new_line_9: 'hard
-
-  drastic
-
-  cactus
-
-  decrease
-
-  fitness
-
-  kangaroo
-
-  caution
-
-  rally
-
-  clog'
-bip_39_word_no_space_1: hard
-bip_39_word_no_space_10: harddrasticcactusdecreasefitnesskangaroocautionrallyclogangry
-bip_39_word_no_space_11: harddrasticcactusdecreasefitnesskangaroocautionrallyclogangryspoon
 bip_39_word_no_space_12: harddrasticcactusdecreasefitnesskangaroocautionrallyclogangryspoonaugust
 bip_39_word_no_space_2: harddrastic
 bip_39_word_no_space_3: harddrasticcactus
-bip_39_word_no_space_4: harddrasticcactusdecrease
-bip_39_word_no_space_5: harddrasticcactusdecreasefitness
-bip_39_word_no_space_6: harddrasticcactusdecreasefitnesskangaroo
-bip_39_word_no_space_7: harddrasticcactusdecreasefitnesskangaroocaution
-bip_39_word_no_space_8: harddrasticcactusdecreasefitnesskangaroocautionrally
-bip_39_word_no_space_9: harddrasticcactusdecreasefitnesskangaroocautionrallyclog
-bip_39_word_space_0:
-- hard
-- drastic
-- cactus
-- decrease
-- fitness
-- kangaroo
-- caution
-- rally
-- clog
-- angry
-- spoon
-- august
-bip_39_word_space_1: hard
-bip_39_word_space_10: hard drastic cactus decrease fitness kangaroo caution rally
-  clog angry
-bip_39_word_space_11: hard drastic cactus decrease fitness kangaroo caution rally
-  clog angry spoon
 bip_39_word_space_12: hard drastic cactus decrease fitness kangaroo caution rally
   clog angry spoon august
 bip_39_word_space_2: hard drastic
 bip_39_word_space_3: hard drastic cactus
-bip_39_word_space_4: hard drastic cactus decrease
-bip_39_word_space_5: hard drastic cactus decrease fitness
-bip_39_word_space_6: hard drastic cactus decrease fitness kangaroo
-bip_39_word_space_7: hard drastic cactus decrease fitness kangaroo caution
-bip_39_word_space_8: hard drastic cactus decrease fitness kangaroo caution rally
-bip_39_word_space_9: hard drastic cactus decrease fitness kangaroo caution rally clog
-bip_39_word_underscore_1: hard
-bip_39_word_underscore_10: hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally_clog_angry
-bip_39_word_underscore_11: hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally_clog_angry_spoon
 bip_39_word_underscore_12: hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally_clog_angry_spoon_august
 bip_39_word_underscore_2: hard_drastic
 bip_39_word_underscore_3: hard_drastic_cactus
-bip_39_word_underscore_4: hard_drastic_cactus_decrease
-bip_39_word_underscore_5: hard_drastic_cactus_decrease_fitness
-bip_39_word_underscore_6: hard_drastic_cactus_decrease_fitness_kangaroo
-bip_39_word_underscore_7: hard_drastic_cactus_decrease_fitness_kangaroo_caution
-bip_39_word_underscore_8: hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally
-bip_39_word_underscore_9: hard_drastic_cactus_decrease_fitness_kangaroo_caution_rally_clog
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

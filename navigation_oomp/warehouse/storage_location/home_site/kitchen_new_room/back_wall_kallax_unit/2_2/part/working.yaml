@@ -1,68 +1,9 @@
-bip_39_word_dash_1: state
-bip_39_word_dash_10: state-crumble-risk-dose-ability-world-spell-blue-false-cross
-bip_39_word_dash_11: state-crumble-risk-dose-ability-world-spell-blue-false-cross-leader
 bip_39_word_dash_12: state-crumble-risk-dose-ability-world-spell-blue-false-cross-leader-artwork
 bip_39_word_dash_2: state-crumble
 bip_39_word_dash_3: state-crumble-risk
-bip_39_word_dash_4: state-crumble-risk-dose
-bip_39_word_dash_5: state-crumble-risk-dose-ability
-bip_39_word_dash_6: state-crumble-risk-dose-ability-world
-bip_39_word_dash_7: state-crumble-risk-dose-ability-world-spell
-bip_39_word_dash_8: state-crumble-risk-dose-ability-world-spell-blue
-bip_39_word_dash_9: state-crumble-risk-dose-ability-world-spell-blue-false
-bip_39_word_new_br_1: state
-bip_39_word_new_br_10: state<br>crumble<br>risk<br>dose<br>ability<br>world<br>spell<br>blue<br>false<br>cross
-bip_39_word_new_br_11: state<br>crumble<br>risk<br>dose<br>ability<br>world<br>spell<br>blue<br>false<br>cross<br>leader
 bip_39_word_new_br_12: state<br>crumble<br>risk<br>dose<br>ability<br>world<br>spell<br>blue<br>false<br>cross<br>leader<br>artwork
 bip_39_word_new_br_2: state<br>crumble
 bip_39_word_new_br_3: state<br>crumble<br>risk
-bip_39_word_new_br_4: state<br>crumble<br>risk<br>dose
-bip_39_word_new_br_5: state<br>crumble<br>risk<br>dose<br>ability
-bip_39_word_new_br_6: state<br>crumble<br>risk<br>dose<br>ability<br>world
-bip_39_word_new_br_7: state<br>crumble<br>risk<br>dose<br>ability<br>world<br>spell
-bip_39_word_new_br_8: state<br>crumble<br>risk<br>dose<br>ability<br>world<br>spell<br>blue
-bip_39_word_new_br_9: state<br>crumble<br>risk<br>dose<br>ability<br>world<br>spell<br>blue<br>false
-bip_39_word_new_line_1: state
-bip_39_word_new_line_10: 'state
-
-  crumble
-
-  risk
-
-  dose
-
-  ability
-
-  world
-
-  spell
-
-  blue
-
-  false
-
-  cross'
-bip_39_word_new_line_11: 'state
-
-  crumble
-
-  risk
-
-  dose
-
-  ability
-
-  world
-
-  spell
-
-  blue
-
-  false
-
-  cross
-
-  leader'
 bip_39_word_new_line_12: 'state
 
   crumble
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'state
   crumble
 
   risk'
-bip_39_word_new_line_4: 'state
-
-  crumble
-
-  risk
-
-  dose'
-bip_39_word_new_line_5: 'state
-
-  crumble
-
-  risk
-
-  dose
-
-  ability'
-bip_39_word_new_line_6: 'state
-
-  crumble
-
-  risk
-
-  dose
-
-  ability
-
-  world'
-bip_39_word_new_line_7: 'state
-
-  crumble
-
-  risk
-
-  dose
-
-  ability
-
-  world
-
-  spell'
-bip_39_word_new_line_8: 'state
-
-  crumble
-
-  risk
-
-  dose
-
-  ability
-
-  world
-
-  spell
-
-  blue'
-bip_39_word_new_line_9: 'state
-
-  crumble
-
-  risk
-
-  dose
-
-  ability
-
-  world
-
-  spell
-
-  blue
-
-  false'
-bip_39_word_no_space_1: state
-bip_39_word_no_space_10: statecrumbleriskdoseabilityworldspellbluefalsecross
-bip_39_word_no_space_11: statecrumbleriskdoseabilityworldspellbluefalsecrossleader
 bip_39_word_no_space_12: statecrumbleriskdoseabilityworldspellbluefalsecrossleaderartwork
 bip_39_word_no_space_2: statecrumble
 bip_39_word_no_space_3: statecrumblerisk
-bip_39_word_no_space_4: statecrumbleriskdose
-bip_39_word_no_space_5: statecrumbleriskdoseability
-bip_39_word_no_space_6: statecrumbleriskdoseabilityworld
-bip_39_word_no_space_7: statecrumbleriskdoseabilityworldspell
-bip_39_word_no_space_8: statecrumbleriskdoseabilityworldspellblue
-bip_39_word_no_space_9: statecrumbleriskdoseabilityworldspellbluefalse
-bip_39_word_space_0:
-- state
-- crumble
-- risk
-- dose
-- ability
-- world
-- spell
-- blue
-- 'false'
-- cross
-- leader
-- artwork
-bip_39_word_space_1: state
-bip_39_word_space_10: state crumble risk dose ability world spell blue false cross
-bip_39_word_space_11: state crumble risk dose ability world spell blue false cross
-  leader
 bip_39_word_space_12: state crumble risk dose ability world spell blue false cross
   leader artwork
 bip_39_word_space_2: state crumble
 bip_39_word_space_3: state crumble risk
-bip_39_word_space_4: state crumble risk dose
-bip_39_word_space_5: state crumble risk dose ability
-bip_39_word_space_6: state crumble risk dose ability world
-bip_39_word_space_7: state crumble risk dose ability world spell
-bip_39_word_space_8: state crumble risk dose ability world spell blue
-bip_39_word_space_9: state crumble risk dose ability world spell blue false
-bip_39_word_underscore_1: state
-bip_39_word_underscore_10: state_crumble_risk_dose_ability_world_spell_blue_false_cross
-bip_39_word_underscore_11: state_crumble_risk_dose_ability_world_spell_blue_false_cross_leader
 bip_39_word_underscore_12: state_crumble_risk_dose_ability_world_spell_blue_false_cross_leader_artwork
 bip_39_word_underscore_2: state_crumble
 bip_39_word_underscore_3: state_crumble_risk
-bip_39_word_underscore_4: state_crumble_risk_dose
-bip_39_word_underscore_5: state_crumble_risk_dose_ability
-bip_39_word_underscore_6: state_crumble_risk_dose_ability_world
-bip_39_word_underscore_7: state_crumble_risk_dose_ability_world_spell
-bip_39_word_underscore_8: state_crumble_risk_dose_ability_world_spell_blue
-bip_39_word_underscore_9: state_crumble_risk_dose_ability_world_spell_blue_false
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

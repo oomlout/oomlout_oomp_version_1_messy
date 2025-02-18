@@ -1,68 +1,9 @@
-bip_39_word_dash_1: float
-bip_39_word_dash_10: float-giggle-august-ice-blush-equal-gather-liar-time-loud
-bip_39_word_dash_11: float-giggle-august-ice-blush-equal-gather-liar-time-loud-soon
 bip_39_word_dash_12: float-giggle-august-ice-blush-equal-gather-liar-time-loud-soon-annual
 bip_39_word_dash_2: float-giggle
 bip_39_word_dash_3: float-giggle-august
-bip_39_word_dash_4: float-giggle-august-ice
-bip_39_word_dash_5: float-giggle-august-ice-blush
-bip_39_word_dash_6: float-giggle-august-ice-blush-equal
-bip_39_word_dash_7: float-giggle-august-ice-blush-equal-gather
-bip_39_word_dash_8: float-giggle-august-ice-blush-equal-gather-liar
-bip_39_word_dash_9: float-giggle-august-ice-blush-equal-gather-liar-time
-bip_39_word_new_br_1: float
-bip_39_word_new_br_10: float<br>giggle<br>august<br>ice<br>blush<br>equal<br>gather<br>liar<br>time<br>loud
-bip_39_word_new_br_11: float<br>giggle<br>august<br>ice<br>blush<br>equal<br>gather<br>liar<br>time<br>loud<br>soon
 bip_39_word_new_br_12: float<br>giggle<br>august<br>ice<br>blush<br>equal<br>gather<br>liar<br>time<br>loud<br>soon<br>annual
 bip_39_word_new_br_2: float<br>giggle
 bip_39_word_new_br_3: float<br>giggle<br>august
-bip_39_word_new_br_4: float<br>giggle<br>august<br>ice
-bip_39_word_new_br_5: float<br>giggle<br>august<br>ice<br>blush
-bip_39_word_new_br_6: float<br>giggle<br>august<br>ice<br>blush<br>equal
-bip_39_word_new_br_7: float<br>giggle<br>august<br>ice<br>blush<br>equal<br>gather
-bip_39_word_new_br_8: float<br>giggle<br>august<br>ice<br>blush<br>equal<br>gather<br>liar
-bip_39_word_new_br_9: float<br>giggle<br>august<br>ice<br>blush<br>equal<br>gather<br>liar<br>time
-bip_39_word_new_line_1: float
-bip_39_word_new_line_10: 'float
-
-  giggle
-
-  august
-
-  ice
-
-  blush
-
-  equal
-
-  gather
-
-  liar
-
-  time
-
-  loud'
-bip_39_word_new_line_11: 'float
-
-  giggle
-
-  august
-
-  ice
-
-  blush
-
-  equal
-
-  gather
-
-  liar
-
-  time
-
-  loud
-
-  soon'
 bip_39_word_new_line_12: 'float
 
   giggle
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'float
   giggle
 
   august'
-bip_39_word_new_line_4: 'float
-
-  giggle
-
-  august
-
-  ice'
-bip_39_word_new_line_5: 'float
-
-  giggle
-
-  august
-
-  ice
-
-  blush'
-bip_39_word_new_line_6: 'float
-
-  giggle
-
-  august
-
-  ice
-
-  blush
-
-  equal'
-bip_39_word_new_line_7: 'float
-
-  giggle
-
-  august
-
-  ice
-
-  blush
-
-  equal
-
-  gather'
-bip_39_word_new_line_8: 'float
-
-  giggle
-
-  august
-
-  ice
-
-  blush
-
-  equal
-
-  gather
-
-  liar'
-bip_39_word_new_line_9: 'float
-
-  giggle
-
-  august
-
-  ice
-
-  blush
-
-  equal
-
-  gather
-
-  liar
-
-  time'
-bip_39_word_no_space_1: float
-bip_39_word_no_space_10: floatgiggleaugusticeblushequalgatherliartimeloud
-bip_39_word_no_space_11: floatgiggleaugusticeblushequalgatherliartimeloudsoon
 bip_39_word_no_space_12: floatgiggleaugusticeblushequalgatherliartimeloudsoonannual
 bip_39_word_no_space_2: floatgiggle
 bip_39_word_no_space_3: floatgiggleaugust
-bip_39_word_no_space_4: floatgiggleaugustice
-bip_39_word_no_space_5: floatgiggleaugusticeblush
-bip_39_word_no_space_6: floatgiggleaugusticeblushequal
-bip_39_word_no_space_7: floatgiggleaugusticeblushequalgather
-bip_39_word_no_space_8: floatgiggleaugusticeblushequalgatherliar
-bip_39_word_no_space_9: floatgiggleaugusticeblushequalgatherliartime
-bip_39_word_space_0:
-- float
-- giggle
-- august
-- ice
-- blush
-- equal
-- gather
-- liar
-- time
-- loud
-- soon
-- annual
-bip_39_word_space_1: float
-bip_39_word_space_10: float giggle august ice blush equal gather liar time loud
-bip_39_word_space_11: float giggle august ice blush equal gather liar time loud soon
 bip_39_word_space_12: float giggle august ice blush equal gather liar time loud soon
   annual
 bip_39_word_space_2: float giggle
 bip_39_word_space_3: float giggle august
-bip_39_word_space_4: float giggle august ice
-bip_39_word_space_5: float giggle august ice blush
-bip_39_word_space_6: float giggle august ice blush equal
-bip_39_word_space_7: float giggle august ice blush equal gather
-bip_39_word_space_8: float giggle august ice blush equal gather liar
-bip_39_word_space_9: float giggle august ice blush equal gather liar time
-bip_39_word_underscore_1: float
-bip_39_word_underscore_10: float_giggle_august_ice_blush_equal_gather_liar_time_loud
-bip_39_word_underscore_11: float_giggle_august_ice_blush_equal_gather_liar_time_loud_soon
 bip_39_word_underscore_12: float_giggle_august_ice_blush_equal_gather_liar_time_loud_soon_annual
 bip_39_word_underscore_2: float_giggle
 bip_39_word_underscore_3: float_giggle_august
-bip_39_word_underscore_4: float_giggle_august_ice
-bip_39_word_underscore_5: float_giggle_august_ice_blush
-bip_39_word_underscore_6: float_giggle_august_ice_blush_equal
-bip_39_word_underscore_7: float_giggle_august_ice_blush_equal_gather
-bip_39_word_underscore_8: float_giggle_august_ice_blush_equal_gather_liar
-bip_39_word_underscore_9: float_giggle_august_ice_blush_equal_gather_liar_time
 classification: category
 classification_capital: Category
 classification_first_letter: c

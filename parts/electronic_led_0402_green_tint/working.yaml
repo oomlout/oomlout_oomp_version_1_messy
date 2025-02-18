@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exercise
-bip_39_word_dash_10: exercise-awesome-truth-awful-finish-claim-solve-trial-wheat-scorpion
-bip_39_word_dash_11: exercise-awesome-truth-awful-finish-claim-solve-trial-wheat-scorpion-woman
 bip_39_word_dash_12: exercise-awesome-truth-awful-finish-claim-solve-trial-wheat-scorpion-woman-act
 bip_39_word_dash_2: exercise-awesome
 bip_39_word_dash_3: exercise-awesome-truth
-bip_39_word_dash_4: exercise-awesome-truth-awful
-bip_39_word_dash_5: exercise-awesome-truth-awful-finish
-bip_39_word_dash_6: exercise-awesome-truth-awful-finish-claim
-bip_39_word_dash_7: exercise-awesome-truth-awful-finish-claim-solve
-bip_39_word_dash_8: exercise-awesome-truth-awful-finish-claim-solve-trial
-bip_39_word_dash_9: exercise-awesome-truth-awful-finish-claim-solve-trial-wheat
-bip_39_word_new_br_1: exercise
-bip_39_word_new_br_10: exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat<br>scorpion
-bip_39_word_new_br_11: exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat<br>scorpion<br>woman
 bip_39_word_new_br_12: exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat<br>scorpion<br>woman<br>act
 bip_39_word_new_br_2: exercise<br>awesome
 bip_39_word_new_br_3: exercise<br>awesome<br>truth
-bip_39_word_new_br_4: exercise<br>awesome<br>truth<br>awful
-bip_39_word_new_br_5: exercise<br>awesome<br>truth<br>awful<br>finish
-bip_39_word_new_br_6: exercise<br>awesome<br>truth<br>awful<br>finish<br>claim
-bip_39_word_new_br_7: exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve
-bip_39_word_new_br_8: exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial
-bip_39_word_new_br_9: exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat
-bip_39_word_new_line_1: exercise
-bip_39_word_new_line_10: 'exercise
-
-  awesome
-
-  truth
-
-  awful
-
-  finish
-
-  claim
-
-  solve
-
-  trial
-
-  wheat
-
-  scorpion'
-bip_39_word_new_line_11: 'exercise
-
-  awesome
-
-  truth
-
-  awful
-
-  finish
-
-  claim
-
-  solve
-
-  trial
-
-  wheat
-
-  scorpion
-
-  woman'
 bip_39_word_new_line_12: 'exercise
 
   awesome
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'exercise
   awesome
 
   truth'
-bip_39_word_new_line_4: 'exercise
-
-  awesome
-
-  truth
-
-  awful'
-bip_39_word_new_line_5: 'exercise
-
-  awesome
-
-  truth
-
-  awful
-
-  finish'
-bip_39_word_new_line_6: 'exercise
-
-  awesome
-
-  truth
-
-  awful
-
-  finish
-
-  claim'
-bip_39_word_new_line_7: 'exercise
-
-  awesome
-
-  truth
-
-  awful
-
-  finish
-
-  claim
-
-  solve'
-bip_39_word_new_line_8: 'exercise
-
-  awesome
-
-  truth
-
-  awful
-
-  finish
-
-  claim
-
-  solve
-
-  trial'
-bip_39_word_new_line_9: 'exercise
-
-  awesome
-
-  truth
-
-  awful
-
-  finish
-
-  claim
-
-  solve
-
-  trial
-
-  wheat'
-bip_39_word_no_space_1: exercise
-bip_39_word_no_space_10: exerciseawesometruthawfulfinishclaimsolvetrialwheatscorpion
-bip_39_word_no_space_11: exerciseawesometruthawfulfinishclaimsolvetrialwheatscorpionwoman
 bip_39_word_no_space_12: exerciseawesometruthawfulfinishclaimsolvetrialwheatscorpionwomanact
 bip_39_word_no_space_2: exerciseawesome
 bip_39_word_no_space_3: exerciseawesometruth
-bip_39_word_no_space_4: exerciseawesometruthawful
-bip_39_word_no_space_5: exerciseawesometruthawfulfinish
-bip_39_word_no_space_6: exerciseawesometruthawfulfinishclaim
-bip_39_word_no_space_7: exerciseawesometruthawfulfinishclaimsolve
-bip_39_word_no_space_8: exerciseawesometruthawfulfinishclaimsolvetrial
-bip_39_word_no_space_9: exerciseawesometruthawfulfinishclaimsolvetrialwheat
-bip_39_word_space_0:
-- exercise
-- awesome
-- truth
-- awful
-- finish
-- claim
-- solve
-- trial
-- wheat
-- scorpion
-- woman
-- act
-bip_39_word_space_1: exercise
-bip_39_word_space_10: exercise awesome truth awful finish claim solve trial wheat
-  scorpion
-bip_39_word_space_11: exercise awesome truth awful finish claim solve trial wheat
-  scorpion woman
 bip_39_word_space_12: exercise awesome truth awful finish claim solve trial wheat
   scorpion woman act
 bip_39_word_space_2: exercise awesome
 bip_39_word_space_3: exercise awesome truth
-bip_39_word_space_4: exercise awesome truth awful
-bip_39_word_space_5: exercise awesome truth awful finish
-bip_39_word_space_6: exercise awesome truth awful finish claim
-bip_39_word_space_7: exercise awesome truth awful finish claim solve
-bip_39_word_space_8: exercise awesome truth awful finish claim solve trial
-bip_39_word_space_9: exercise awesome truth awful finish claim solve trial wheat
-bip_39_word_underscore_1: exercise
-bip_39_word_underscore_10: exercise_awesome_truth_awful_finish_claim_solve_trial_wheat_scorpion
-bip_39_word_underscore_11: exercise_awesome_truth_awful_finish_claim_solve_trial_wheat_scorpion_woman
 bip_39_word_underscore_12: exercise_awesome_truth_awful_finish_claim_solve_trial_wheat_scorpion_woman_act
 bip_39_word_underscore_2: exercise_awesome
 bip_39_word_underscore_3: exercise_awesome_truth
-bip_39_word_underscore_4: exercise_awesome_truth_awful
-bip_39_word_underscore_5: exercise_awesome_truth_awful_finish
-bip_39_word_underscore_6: exercise_awesome_truth_awful_finish_claim
-bip_39_word_underscore_7: exercise_awesome_truth_awful_finish_claim_solve
-bip_39_word_underscore_8: exercise_awesome_truth_awful_finish_claim_solve_trial
-bip_39_word_underscore_9: exercise_awesome_truth_awful_finish_claim_solve_trial_wheat
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

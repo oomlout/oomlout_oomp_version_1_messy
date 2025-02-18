@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alarm
-bip_39_word_dash_10: alarm-only-myth-special-nasty-price-return-old-lunar-rare
-bip_39_word_dash_11: alarm-only-myth-special-nasty-price-return-old-lunar-rare-receive
 bip_39_word_dash_12: alarm-only-myth-special-nasty-price-return-old-lunar-rare-receive-angry
 bip_39_word_dash_2: alarm-only
 bip_39_word_dash_3: alarm-only-myth
-bip_39_word_dash_4: alarm-only-myth-special
-bip_39_word_dash_5: alarm-only-myth-special-nasty
-bip_39_word_dash_6: alarm-only-myth-special-nasty-price
-bip_39_word_dash_7: alarm-only-myth-special-nasty-price-return
-bip_39_word_dash_8: alarm-only-myth-special-nasty-price-return-old
-bip_39_word_dash_9: alarm-only-myth-special-nasty-price-return-old-lunar
-bip_39_word_new_br_1: alarm
-bip_39_word_new_br_10: alarm<br>only<br>myth<br>special<br>nasty<br>price<br>return<br>old<br>lunar<br>rare
-bip_39_word_new_br_11: alarm<br>only<br>myth<br>special<br>nasty<br>price<br>return<br>old<br>lunar<br>rare<br>receive
 bip_39_word_new_br_12: alarm<br>only<br>myth<br>special<br>nasty<br>price<br>return<br>old<br>lunar<br>rare<br>receive<br>angry
 bip_39_word_new_br_2: alarm<br>only
 bip_39_word_new_br_3: alarm<br>only<br>myth
-bip_39_word_new_br_4: alarm<br>only<br>myth<br>special
-bip_39_word_new_br_5: alarm<br>only<br>myth<br>special<br>nasty
-bip_39_word_new_br_6: alarm<br>only<br>myth<br>special<br>nasty<br>price
-bip_39_word_new_br_7: alarm<br>only<br>myth<br>special<br>nasty<br>price<br>return
-bip_39_word_new_br_8: alarm<br>only<br>myth<br>special<br>nasty<br>price<br>return<br>old
-bip_39_word_new_br_9: alarm<br>only<br>myth<br>special<br>nasty<br>price<br>return<br>old<br>lunar
-bip_39_word_new_line_1: alarm
-bip_39_word_new_line_10: 'alarm
-
-  only
-
-  myth
-
-  special
-
-  nasty
-
-  price
-
-  return
-
-  old
-
-  lunar
-
-  rare'
-bip_39_word_new_line_11: 'alarm
-
-  only
-
-  myth
-
-  special
-
-  nasty
-
-  price
-
-  return
-
-  old
-
-  lunar
-
-  rare
-
-  receive'
 bip_39_word_new_line_12: 'alarm
 
   only
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'alarm
   only
 
   myth'
-bip_39_word_new_line_4: 'alarm
-
-  only
-
-  myth
-
-  special'
-bip_39_word_new_line_5: 'alarm
-
-  only
-
-  myth
-
-  special
-
-  nasty'
-bip_39_word_new_line_6: 'alarm
-
-  only
-
-  myth
-
-  special
-
-  nasty
-
-  price'
-bip_39_word_new_line_7: 'alarm
-
-  only
-
-  myth
-
-  special
-
-  nasty
-
-  price
-
-  return'
-bip_39_word_new_line_8: 'alarm
-
-  only
-
-  myth
-
-  special
-
-  nasty
-
-  price
-
-  return
-
-  old'
-bip_39_word_new_line_9: 'alarm
-
-  only
-
-  myth
-
-  special
-
-  nasty
-
-  price
-
-  return
-
-  old
-
-  lunar'
-bip_39_word_no_space_1: alarm
-bip_39_word_no_space_10: alarmonlymythspecialnastypricereturnoldlunarrare
-bip_39_word_no_space_11: alarmonlymythspecialnastypricereturnoldlunarrarereceive
 bip_39_word_no_space_12: alarmonlymythspecialnastypricereturnoldlunarrarereceiveangry
 bip_39_word_no_space_2: alarmonly
 bip_39_word_no_space_3: alarmonlymyth
-bip_39_word_no_space_4: alarmonlymythspecial
-bip_39_word_no_space_5: alarmonlymythspecialnasty
-bip_39_word_no_space_6: alarmonlymythspecialnastyprice
-bip_39_word_no_space_7: alarmonlymythspecialnastypricereturn
-bip_39_word_no_space_8: alarmonlymythspecialnastypricereturnold
-bip_39_word_no_space_9: alarmonlymythspecialnastypricereturnoldlunar
-bip_39_word_space_0:
-- alarm
-- only
-- myth
-- special
-- nasty
-- price
-- return
-- old
-- lunar
-- rare
-- receive
-- angry
-bip_39_word_space_1: alarm
-bip_39_word_space_10: alarm only myth special nasty price return old lunar rare
-bip_39_word_space_11: alarm only myth special nasty price return old lunar rare receive
 bip_39_word_space_12: alarm only myth special nasty price return old lunar rare receive
   angry
 bip_39_word_space_2: alarm only
 bip_39_word_space_3: alarm only myth
-bip_39_word_space_4: alarm only myth special
-bip_39_word_space_5: alarm only myth special nasty
-bip_39_word_space_6: alarm only myth special nasty price
-bip_39_word_space_7: alarm only myth special nasty price return
-bip_39_word_space_8: alarm only myth special nasty price return old
-bip_39_word_space_9: alarm only myth special nasty price return old lunar
-bip_39_word_underscore_1: alarm
-bip_39_word_underscore_10: alarm_only_myth_special_nasty_price_return_old_lunar_rare
-bip_39_word_underscore_11: alarm_only_myth_special_nasty_price_return_old_lunar_rare_receive
 bip_39_word_underscore_12: alarm_only_myth_special_nasty_price_return_old_lunar_rare_receive_angry
 bip_39_word_underscore_2: alarm_only
 bip_39_word_underscore_3: alarm_only_myth
-bip_39_word_underscore_4: alarm_only_myth_special
-bip_39_word_underscore_5: alarm_only_myth_special_nasty
-bip_39_word_underscore_6: alarm_only_myth_special_nasty_price
-bip_39_word_underscore_7: alarm_only_myth_special_nasty_price_return
-bip_39_word_underscore_8: alarm_only_myth_special_nasty_price_return_old
-bip_39_word_underscore_9: alarm_only_myth_special_nasty_price_return_old_lunar
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

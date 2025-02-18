@@ -1,68 +1,9 @@
-bip_39_word_dash_1: text
-bip_39_word_dash_10: text-depend-staff-domain-alley-sleep-super-bundle-appear-disorder
-bip_39_word_dash_11: text-depend-staff-domain-alley-sleep-super-bundle-appear-disorder-ticket
 bip_39_word_dash_12: text-depend-staff-domain-alley-sleep-super-bundle-appear-disorder-ticket-author
 bip_39_word_dash_2: text-depend
 bip_39_word_dash_3: text-depend-staff
-bip_39_word_dash_4: text-depend-staff-domain
-bip_39_word_dash_5: text-depend-staff-domain-alley
-bip_39_word_dash_6: text-depend-staff-domain-alley-sleep
-bip_39_word_dash_7: text-depend-staff-domain-alley-sleep-super
-bip_39_word_dash_8: text-depend-staff-domain-alley-sleep-super-bundle
-bip_39_word_dash_9: text-depend-staff-domain-alley-sleep-super-bundle-appear
-bip_39_word_new_br_1: text
-bip_39_word_new_br_10: text<br>depend<br>staff<br>domain<br>alley<br>sleep<br>super<br>bundle<br>appear<br>disorder
-bip_39_word_new_br_11: text<br>depend<br>staff<br>domain<br>alley<br>sleep<br>super<br>bundle<br>appear<br>disorder<br>ticket
 bip_39_word_new_br_12: text<br>depend<br>staff<br>domain<br>alley<br>sleep<br>super<br>bundle<br>appear<br>disorder<br>ticket<br>author
 bip_39_word_new_br_2: text<br>depend
 bip_39_word_new_br_3: text<br>depend<br>staff
-bip_39_word_new_br_4: text<br>depend<br>staff<br>domain
-bip_39_word_new_br_5: text<br>depend<br>staff<br>domain<br>alley
-bip_39_word_new_br_6: text<br>depend<br>staff<br>domain<br>alley<br>sleep
-bip_39_word_new_br_7: text<br>depend<br>staff<br>domain<br>alley<br>sleep<br>super
-bip_39_word_new_br_8: text<br>depend<br>staff<br>domain<br>alley<br>sleep<br>super<br>bundle
-bip_39_word_new_br_9: text<br>depend<br>staff<br>domain<br>alley<br>sleep<br>super<br>bundle<br>appear
-bip_39_word_new_line_1: text
-bip_39_word_new_line_10: 'text
-
-  depend
-
-  staff
-
-  domain
-
-  alley
-
-  sleep
-
-  super
-
-  bundle
-
-  appear
-
-  disorder'
-bip_39_word_new_line_11: 'text
-
-  depend
-
-  staff
-
-  domain
-
-  alley
-
-  sleep
-
-  super
-
-  bundle
-
-  appear
-
-  disorder
-
-  ticket'
 bip_39_word_new_line_12: 'text
 
   depend
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'text
   depend
 
   staff'
-bip_39_word_new_line_4: 'text
-
-  depend
-
-  staff
-
-  domain'
-bip_39_word_new_line_5: 'text
-
-  depend
-
-  staff
-
-  domain
-
-  alley'
-bip_39_word_new_line_6: 'text
-
-  depend
-
-  staff
-
-  domain
-
-  alley
-
-  sleep'
-bip_39_word_new_line_7: 'text
-
-  depend
-
-  staff
-
-  domain
-
-  alley
-
-  sleep
-
-  super'
-bip_39_word_new_line_8: 'text
-
-  depend
-
-  staff
-
-  domain
-
-  alley
-
-  sleep
-
-  super
-
-  bundle'
-bip_39_word_new_line_9: 'text
-
-  depend
-
-  staff
-
-  domain
-
-  alley
-
-  sleep
-
-  super
-
-  bundle
-
-  appear'
-bip_39_word_no_space_1: text
-bip_39_word_no_space_10: textdependstaffdomainalleysleepsuperbundleappeardisorder
-bip_39_word_no_space_11: textdependstaffdomainalleysleepsuperbundleappeardisorderticket
 bip_39_word_no_space_12: textdependstaffdomainalleysleepsuperbundleappeardisorderticketauthor
 bip_39_word_no_space_2: textdepend
 bip_39_word_no_space_3: textdependstaff
-bip_39_word_no_space_4: textdependstaffdomain
-bip_39_word_no_space_5: textdependstaffdomainalley
-bip_39_word_no_space_6: textdependstaffdomainalleysleep
-bip_39_word_no_space_7: textdependstaffdomainalleysleepsuper
-bip_39_word_no_space_8: textdependstaffdomainalleysleepsuperbundle
-bip_39_word_no_space_9: textdependstaffdomainalleysleepsuperbundleappear
-bip_39_word_space_0:
-- text
-- depend
-- staff
-- domain
-- alley
-- sleep
-- super
-- bundle
-- appear
-- disorder
-- ticket
-- author
-bip_39_word_space_1: text
-bip_39_word_space_10: text depend staff domain alley sleep super bundle appear disorder
-bip_39_word_space_11: text depend staff domain alley sleep super bundle appear disorder
-  ticket
 bip_39_word_space_12: text depend staff domain alley sleep super bundle appear disorder
   ticket author
 bip_39_word_space_2: text depend
 bip_39_word_space_3: text depend staff
-bip_39_word_space_4: text depend staff domain
-bip_39_word_space_5: text depend staff domain alley
-bip_39_word_space_6: text depend staff domain alley sleep
-bip_39_word_space_7: text depend staff domain alley sleep super
-bip_39_word_space_8: text depend staff domain alley sleep super bundle
-bip_39_word_space_9: text depend staff domain alley sleep super bundle appear
-bip_39_word_underscore_1: text
-bip_39_word_underscore_10: text_depend_staff_domain_alley_sleep_super_bundle_appear_disorder
-bip_39_word_underscore_11: text_depend_staff_domain_alley_sleep_super_bundle_appear_disorder_ticket
 bip_39_word_underscore_12: text_depend_staff_domain_alley_sleep_super_bundle_appear_disorder_ticket_author
 bip_39_word_underscore_2: text_depend
 bip_39_word_underscore_3: text_depend_staff
-bip_39_word_underscore_4: text_depend_staff_domain
-bip_39_word_underscore_5: text_depend_staff_domain_alley
-bip_39_word_underscore_6: text_depend_staff_domain_alley_sleep
-bip_39_word_underscore_7: text_depend_staff_domain_alley_sleep_super
-bip_39_word_underscore_8: text_depend_staff_domain_alley_sleep_super_bundle
-bip_39_word_underscore_9: text_depend_staff_domain_alley_sleep_super_bundle_appear
 classification: category
 classification_capital: Category
 classification_first_letter: c

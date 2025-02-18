@@ -1,68 +1,9 @@
-bip_39_word_dash_1: valid
-bip_39_word_dash_10: valid-model-final-obey-usual-senior-ostrich-true-pilot-leaf
-bip_39_word_dash_11: valid-model-final-obey-usual-senior-ostrich-true-pilot-leaf-veteran
 bip_39_word_dash_12: valid-model-final-obey-usual-senior-ostrich-true-pilot-leaf-veteran-aisle
 bip_39_word_dash_2: valid-model
 bip_39_word_dash_3: valid-model-final
-bip_39_word_dash_4: valid-model-final-obey
-bip_39_word_dash_5: valid-model-final-obey-usual
-bip_39_word_dash_6: valid-model-final-obey-usual-senior
-bip_39_word_dash_7: valid-model-final-obey-usual-senior-ostrich
-bip_39_word_dash_8: valid-model-final-obey-usual-senior-ostrich-true
-bip_39_word_dash_9: valid-model-final-obey-usual-senior-ostrich-true-pilot
-bip_39_word_new_br_1: valid
-bip_39_word_new_br_10: valid<br>model<br>final<br>obey<br>usual<br>senior<br>ostrich<br>true<br>pilot<br>leaf
-bip_39_word_new_br_11: valid<br>model<br>final<br>obey<br>usual<br>senior<br>ostrich<br>true<br>pilot<br>leaf<br>veteran
 bip_39_word_new_br_12: valid<br>model<br>final<br>obey<br>usual<br>senior<br>ostrich<br>true<br>pilot<br>leaf<br>veteran<br>aisle
 bip_39_word_new_br_2: valid<br>model
 bip_39_word_new_br_3: valid<br>model<br>final
-bip_39_word_new_br_4: valid<br>model<br>final<br>obey
-bip_39_word_new_br_5: valid<br>model<br>final<br>obey<br>usual
-bip_39_word_new_br_6: valid<br>model<br>final<br>obey<br>usual<br>senior
-bip_39_word_new_br_7: valid<br>model<br>final<br>obey<br>usual<br>senior<br>ostrich
-bip_39_word_new_br_8: valid<br>model<br>final<br>obey<br>usual<br>senior<br>ostrich<br>true
-bip_39_word_new_br_9: valid<br>model<br>final<br>obey<br>usual<br>senior<br>ostrich<br>true<br>pilot
-bip_39_word_new_line_1: valid
-bip_39_word_new_line_10: 'valid
-
-  model
-
-  final
-
-  obey
-
-  usual
-
-  senior
-
-  ostrich
-
-  true
-
-  pilot
-
-  leaf'
-bip_39_word_new_line_11: 'valid
-
-  model
-
-  final
-
-  obey
-
-  usual
-
-  senior
-
-  ostrich
-
-  true
-
-  pilot
-
-  leaf
-
-  veteran'
 bip_39_word_new_line_12: 'valid
 
   model
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'valid
   model
 
   final'
-bip_39_word_new_line_4: 'valid
-
-  model
-
-  final
-
-  obey'
-bip_39_word_new_line_5: 'valid
-
-  model
-
-  final
-
-  obey
-
-  usual'
-bip_39_word_new_line_6: 'valid
-
-  model
-
-  final
-
-  obey
-
-  usual
-
-  senior'
-bip_39_word_new_line_7: 'valid
-
-  model
-
-  final
-
-  obey
-
-  usual
-
-  senior
-
-  ostrich'
-bip_39_word_new_line_8: 'valid
-
-  model
-
-  final
-
-  obey
-
-  usual
-
-  senior
-
-  ostrich
-
-  true'
-bip_39_word_new_line_9: 'valid
-
-  model
-
-  final
-
-  obey
-
-  usual
-
-  senior
-
-  ostrich
-
-  true
-
-  pilot'
-bip_39_word_no_space_1: valid
-bip_39_word_no_space_10: validmodelfinalobeyusualseniorostrichtruepilotleaf
-bip_39_word_no_space_11: validmodelfinalobeyusualseniorostrichtruepilotleafveteran
 bip_39_word_no_space_12: validmodelfinalobeyusualseniorostrichtruepilotleafveteranaisle
 bip_39_word_no_space_2: validmodel
 bip_39_word_no_space_3: validmodelfinal
-bip_39_word_no_space_4: validmodelfinalobey
-bip_39_word_no_space_5: validmodelfinalobeyusual
-bip_39_word_no_space_6: validmodelfinalobeyusualsenior
-bip_39_word_no_space_7: validmodelfinalobeyusualseniorostrich
-bip_39_word_no_space_8: validmodelfinalobeyusualseniorostrichtrue
-bip_39_word_no_space_9: validmodelfinalobeyusualseniorostrichtruepilot
-bip_39_word_space_0:
-- valid
-- model
-- final
-- obey
-- usual
-- senior
-- ostrich
-- 'true'
-- pilot
-- leaf
-- veteran
-- aisle
-bip_39_word_space_1: valid
-bip_39_word_space_10: valid model final obey usual senior ostrich true pilot leaf
-bip_39_word_space_11: valid model final obey usual senior ostrich true pilot leaf
-  veteran
 bip_39_word_space_12: valid model final obey usual senior ostrich true pilot leaf
   veteran aisle
 bip_39_word_space_2: valid model
 bip_39_word_space_3: valid model final
-bip_39_word_space_4: valid model final obey
-bip_39_word_space_5: valid model final obey usual
-bip_39_word_space_6: valid model final obey usual senior
-bip_39_word_space_7: valid model final obey usual senior ostrich
-bip_39_word_space_8: valid model final obey usual senior ostrich true
-bip_39_word_space_9: valid model final obey usual senior ostrich true pilot
-bip_39_word_underscore_1: valid
-bip_39_word_underscore_10: valid_model_final_obey_usual_senior_ostrich_true_pilot_leaf
-bip_39_word_underscore_11: valid_model_final_obey_usual_senior_ostrich_true_pilot_leaf_veteran
 bip_39_word_underscore_12: valid_model_final_obey_usual_senior_ostrich_true_pilot_leaf_veteran_aisle
 bip_39_word_underscore_2: valid_model
 bip_39_word_underscore_3: valid_model_final
-bip_39_word_underscore_4: valid_model_final_obey
-bip_39_word_underscore_5: valid_model_final_obey_usual
-bip_39_word_underscore_6: valid_model_final_obey_usual_senior
-bip_39_word_underscore_7: valid_model_final_obey_usual_senior_ostrich
-bip_39_word_underscore_8: valid_model_final_obey_usual_senior_ostrich_true
-bip_39_word_underscore_9: valid_model_final_obey_usual_senior_ostrich_true_pilot
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

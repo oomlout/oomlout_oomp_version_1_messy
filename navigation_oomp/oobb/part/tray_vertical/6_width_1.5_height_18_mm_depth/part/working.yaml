@@ -1,68 +1,9 @@
-bip_39_word_dash_1: match
-bip_39_word_dash_10: match-give-own-silent-stable-stamp-guard-immune-man-sight
-bip_39_word_dash_11: match-give-own-silent-stable-stamp-guard-immune-man-sight-install
 bip_39_word_dash_12: match-give-own-silent-stable-stamp-guard-immune-man-sight-install-amateur
 bip_39_word_dash_2: match-give
 bip_39_word_dash_3: match-give-own
-bip_39_word_dash_4: match-give-own-silent
-bip_39_word_dash_5: match-give-own-silent-stable
-bip_39_word_dash_6: match-give-own-silent-stable-stamp
-bip_39_word_dash_7: match-give-own-silent-stable-stamp-guard
-bip_39_word_dash_8: match-give-own-silent-stable-stamp-guard-immune
-bip_39_word_dash_9: match-give-own-silent-stable-stamp-guard-immune-man
-bip_39_word_new_br_1: match
-bip_39_word_new_br_10: match<br>give<br>own<br>silent<br>stable<br>stamp<br>guard<br>immune<br>man<br>sight
-bip_39_word_new_br_11: match<br>give<br>own<br>silent<br>stable<br>stamp<br>guard<br>immune<br>man<br>sight<br>install
 bip_39_word_new_br_12: match<br>give<br>own<br>silent<br>stable<br>stamp<br>guard<br>immune<br>man<br>sight<br>install<br>amateur
 bip_39_word_new_br_2: match<br>give
 bip_39_word_new_br_3: match<br>give<br>own
-bip_39_word_new_br_4: match<br>give<br>own<br>silent
-bip_39_word_new_br_5: match<br>give<br>own<br>silent<br>stable
-bip_39_word_new_br_6: match<br>give<br>own<br>silent<br>stable<br>stamp
-bip_39_word_new_br_7: match<br>give<br>own<br>silent<br>stable<br>stamp<br>guard
-bip_39_word_new_br_8: match<br>give<br>own<br>silent<br>stable<br>stamp<br>guard<br>immune
-bip_39_word_new_br_9: match<br>give<br>own<br>silent<br>stable<br>stamp<br>guard<br>immune<br>man
-bip_39_word_new_line_1: match
-bip_39_word_new_line_10: 'match
-
-  give
-
-  own
-
-  silent
-
-  stable
-
-  stamp
-
-  guard
-
-  immune
-
-  man
-
-  sight'
-bip_39_word_new_line_11: 'match
-
-  give
-
-  own
-
-  silent
-
-  stable
-
-  stamp
-
-  guard
-
-  immune
-
-  man
-
-  sight
-
-  install'
 bip_39_word_new_line_12: 'match
 
   give
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'match
   give
 
   own'
-bip_39_word_new_line_4: 'match
-
-  give
-
-  own
-
-  silent'
-bip_39_word_new_line_5: 'match
-
-  give
-
-  own
-
-  silent
-
-  stable'
-bip_39_word_new_line_6: 'match
-
-  give
-
-  own
-
-  silent
-
-  stable
-
-  stamp'
-bip_39_word_new_line_7: 'match
-
-  give
-
-  own
-
-  silent
-
-  stable
-
-  stamp
-
-  guard'
-bip_39_word_new_line_8: 'match
-
-  give
-
-  own
-
-  silent
-
-  stable
-
-  stamp
-
-  guard
-
-  immune'
-bip_39_word_new_line_9: 'match
-
-  give
-
-  own
-
-  silent
-
-  stable
-
-  stamp
-
-  guard
-
-  immune
-
-  man'
-bip_39_word_no_space_1: match
-bip_39_word_no_space_10: matchgiveownsilentstablestampguardimmunemansight
-bip_39_word_no_space_11: matchgiveownsilentstablestampguardimmunemansightinstall
 bip_39_word_no_space_12: matchgiveownsilentstablestampguardimmunemansightinstallamateur
 bip_39_word_no_space_2: matchgive
 bip_39_word_no_space_3: matchgiveown
-bip_39_word_no_space_4: matchgiveownsilent
-bip_39_word_no_space_5: matchgiveownsilentstable
-bip_39_word_no_space_6: matchgiveownsilentstablestamp
-bip_39_word_no_space_7: matchgiveownsilentstablestampguard
-bip_39_word_no_space_8: matchgiveownsilentstablestampguardimmune
-bip_39_word_no_space_9: matchgiveownsilentstablestampguardimmuneman
-bip_39_word_space_0:
-- match
-- give
-- own
-- silent
-- stable
-- stamp
-- guard
-- immune
-- man
-- sight
-- install
-- amateur
-bip_39_word_space_1: match
-bip_39_word_space_10: match give own silent stable stamp guard immune man sight
-bip_39_word_space_11: match give own silent stable stamp guard immune man sight install
 bip_39_word_space_12: match give own silent stable stamp guard immune man sight install
   amateur
 bip_39_word_space_2: match give
 bip_39_word_space_3: match give own
-bip_39_word_space_4: match give own silent
-bip_39_word_space_5: match give own silent stable
-bip_39_word_space_6: match give own silent stable stamp
-bip_39_word_space_7: match give own silent stable stamp guard
-bip_39_word_space_8: match give own silent stable stamp guard immune
-bip_39_word_space_9: match give own silent stable stamp guard immune man
-bip_39_word_underscore_1: match
-bip_39_word_underscore_10: match_give_own_silent_stable_stamp_guard_immune_man_sight
-bip_39_word_underscore_11: match_give_own_silent_stable_stamp_guard_immune_man_sight_install
 bip_39_word_underscore_12: match_give_own_silent_stable_stamp_guard_immune_man_sight_install_amateur
 bip_39_word_underscore_2: match_give
 bip_39_word_underscore_3: match_give_own
-bip_39_word_underscore_4: match_give_own_silent
-bip_39_word_underscore_5: match_give_own_silent_stable
-bip_39_word_underscore_6: match_give_own_silent_stable_stamp
-bip_39_word_underscore_7: match_give_own_silent_stable_stamp_guard
-bip_39_word_underscore_8: match_give_own_silent_stable_stamp_guard_immune
-bip_39_word_underscore_9: match_give_own_silent_stable_stamp_guard_immune_man
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

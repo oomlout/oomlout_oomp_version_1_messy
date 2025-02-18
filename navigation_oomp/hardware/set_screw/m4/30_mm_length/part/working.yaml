@@ -1,68 +1,9 @@
-bip_39_word_dash_1: label
-bip_39_word_dash_10: label-wisdom-globe-urge-ritual-arm-topic-memory-review-boat
-bip_39_word_dash_11: label-wisdom-globe-urge-ritual-arm-topic-memory-review-boat-south
 bip_39_word_dash_12: label-wisdom-globe-urge-ritual-arm-topic-memory-review-boat-south-answer
 bip_39_word_dash_2: label-wisdom
 bip_39_word_dash_3: label-wisdom-globe
-bip_39_word_dash_4: label-wisdom-globe-urge
-bip_39_word_dash_5: label-wisdom-globe-urge-ritual
-bip_39_word_dash_6: label-wisdom-globe-urge-ritual-arm
-bip_39_word_dash_7: label-wisdom-globe-urge-ritual-arm-topic
-bip_39_word_dash_8: label-wisdom-globe-urge-ritual-arm-topic-memory
-bip_39_word_dash_9: label-wisdom-globe-urge-ritual-arm-topic-memory-review
-bip_39_word_new_br_1: label
-bip_39_word_new_br_10: label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review<br>boat
-bip_39_word_new_br_11: label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review<br>boat<br>south
 bip_39_word_new_br_12: label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review<br>boat<br>south<br>answer
 bip_39_word_new_br_2: label<br>wisdom
 bip_39_word_new_br_3: label<br>wisdom<br>globe
-bip_39_word_new_br_4: label<br>wisdom<br>globe<br>urge
-bip_39_word_new_br_5: label<br>wisdom<br>globe<br>urge<br>ritual
-bip_39_word_new_br_6: label<br>wisdom<br>globe<br>urge<br>ritual<br>arm
-bip_39_word_new_br_7: label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic
-bip_39_word_new_br_8: label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory
-bip_39_word_new_br_9: label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review
-bip_39_word_new_line_1: label
-bip_39_word_new_line_10: 'label
-
-  wisdom
-
-  globe
-
-  urge
-
-  ritual
-
-  arm
-
-  topic
-
-  memory
-
-  review
-
-  boat'
-bip_39_word_new_line_11: 'label
-
-  wisdom
-
-  globe
-
-  urge
-
-  ritual
-
-  arm
-
-  topic
-
-  memory
-
-  review
-
-  boat
-
-  south'
 bip_39_word_new_line_12: 'label
 
   wisdom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'label
   wisdom
 
   globe'
-bip_39_word_new_line_4: 'label
-
-  wisdom
-
-  globe
-
-  urge'
-bip_39_word_new_line_5: 'label
-
-  wisdom
-
-  globe
-
-  urge
-
-  ritual'
-bip_39_word_new_line_6: 'label
-
-  wisdom
-
-  globe
-
-  urge
-
-  ritual
-
-  arm'
-bip_39_word_new_line_7: 'label
-
-  wisdom
-
-  globe
-
-  urge
-
-  ritual
-
-  arm
-
-  topic'
-bip_39_word_new_line_8: 'label
-
-  wisdom
-
-  globe
-
-  urge
-
-  ritual
-
-  arm
-
-  topic
-
-  memory'
-bip_39_word_new_line_9: 'label
-
-  wisdom
-
-  globe
-
-  urge
-
-  ritual
-
-  arm
-
-  topic
-
-  memory
-
-  review'
-bip_39_word_no_space_1: label
-bip_39_word_no_space_10: labelwisdomglobeurgeritualarmtopicmemoryreviewboat
-bip_39_word_no_space_11: labelwisdomglobeurgeritualarmtopicmemoryreviewboatsouth
 bip_39_word_no_space_12: labelwisdomglobeurgeritualarmtopicmemoryreviewboatsouthanswer
 bip_39_word_no_space_2: labelwisdom
 bip_39_word_no_space_3: labelwisdomglobe
-bip_39_word_no_space_4: labelwisdomglobeurge
-bip_39_word_no_space_5: labelwisdomglobeurgeritual
-bip_39_word_no_space_6: labelwisdomglobeurgeritualarm
-bip_39_word_no_space_7: labelwisdomglobeurgeritualarmtopic
-bip_39_word_no_space_8: labelwisdomglobeurgeritualarmtopicmemory
-bip_39_word_no_space_9: labelwisdomglobeurgeritualarmtopicmemoryreview
-bip_39_word_space_0:
-- label
-- wisdom
-- globe
-- urge
-- ritual
-- arm
-- topic
-- memory
-- review
-- boat
-- south
-- answer
-bip_39_word_space_1: label
-bip_39_word_space_10: label wisdom globe urge ritual arm topic memory review boat
-bip_39_word_space_11: label wisdom globe urge ritual arm topic memory review boat
-  south
 bip_39_word_space_12: label wisdom globe urge ritual arm topic memory review boat
   south answer
 bip_39_word_space_2: label wisdom
 bip_39_word_space_3: label wisdom globe
-bip_39_word_space_4: label wisdom globe urge
-bip_39_word_space_5: label wisdom globe urge ritual
-bip_39_word_space_6: label wisdom globe urge ritual arm
-bip_39_word_space_7: label wisdom globe urge ritual arm topic
-bip_39_word_space_8: label wisdom globe urge ritual arm topic memory
-bip_39_word_space_9: label wisdom globe urge ritual arm topic memory review
-bip_39_word_underscore_1: label
-bip_39_word_underscore_10: label_wisdom_globe_urge_ritual_arm_topic_memory_review_boat
-bip_39_word_underscore_11: label_wisdom_globe_urge_ritual_arm_topic_memory_review_boat_south
 bip_39_word_underscore_12: label_wisdom_globe_urge_ritual_arm_topic_memory_review_boat_south_answer
 bip_39_word_underscore_2: label_wisdom
 bip_39_word_underscore_3: label_wisdom_globe
-bip_39_word_underscore_4: label_wisdom_globe_urge
-bip_39_word_underscore_5: label_wisdom_globe_urge_ritual
-bip_39_word_underscore_6: label_wisdom_globe_urge_ritual_arm
-bip_39_word_underscore_7: label_wisdom_globe_urge_ritual_arm_topic
-bip_39_word_underscore_8: label_wisdom_globe_urge_ritual_arm_topic_memory
-bip_39_word_underscore_9: label_wisdom_globe_urge_ritual_arm_topic_memory_review
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: slice
-bip_39_word_dash_10: slice-eight-silver-resist-oval-burst-gate-market-degree-typical
-bip_39_word_dash_11: slice-eight-silver-resist-oval-burst-gate-market-degree-typical-torch
 bip_39_word_dash_12: slice-eight-silver-resist-oval-burst-gate-market-degree-typical-torch-appear
 bip_39_word_dash_2: slice-eight
 bip_39_word_dash_3: slice-eight-silver
-bip_39_word_dash_4: slice-eight-silver-resist
-bip_39_word_dash_5: slice-eight-silver-resist-oval
-bip_39_word_dash_6: slice-eight-silver-resist-oval-burst
-bip_39_word_dash_7: slice-eight-silver-resist-oval-burst-gate
-bip_39_word_dash_8: slice-eight-silver-resist-oval-burst-gate-market
-bip_39_word_dash_9: slice-eight-silver-resist-oval-burst-gate-market-degree
-bip_39_word_new_br_1: slice
-bip_39_word_new_br_10: slice<br>eight<br>silver<br>resist<br>oval<br>burst<br>gate<br>market<br>degree<br>typical
-bip_39_word_new_br_11: slice<br>eight<br>silver<br>resist<br>oval<br>burst<br>gate<br>market<br>degree<br>typical<br>torch
 bip_39_word_new_br_12: slice<br>eight<br>silver<br>resist<br>oval<br>burst<br>gate<br>market<br>degree<br>typical<br>torch<br>appear
 bip_39_word_new_br_2: slice<br>eight
 bip_39_word_new_br_3: slice<br>eight<br>silver
-bip_39_word_new_br_4: slice<br>eight<br>silver<br>resist
-bip_39_word_new_br_5: slice<br>eight<br>silver<br>resist<br>oval
-bip_39_word_new_br_6: slice<br>eight<br>silver<br>resist<br>oval<br>burst
-bip_39_word_new_br_7: slice<br>eight<br>silver<br>resist<br>oval<br>burst<br>gate
-bip_39_word_new_br_8: slice<br>eight<br>silver<br>resist<br>oval<br>burst<br>gate<br>market
-bip_39_word_new_br_9: slice<br>eight<br>silver<br>resist<br>oval<br>burst<br>gate<br>market<br>degree
-bip_39_word_new_line_1: slice
-bip_39_word_new_line_10: 'slice
-
-  eight
-
-  silver
-
-  resist
-
-  oval
-
-  burst
-
-  gate
-
-  market
-
-  degree
-
-  typical'
-bip_39_word_new_line_11: 'slice
-
-  eight
-
-  silver
-
-  resist
-
-  oval
-
-  burst
-
-  gate
-
-  market
-
-  degree
-
-  typical
-
-  torch'
 bip_39_word_new_line_12: 'slice
 
   eight
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'slice
   eight
 
   silver'
-bip_39_word_new_line_4: 'slice
-
-  eight
-
-  silver
-
-  resist'
-bip_39_word_new_line_5: 'slice
-
-  eight
-
-  silver
-
-  resist
-
-  oval'
-bip_39_word_new_line_6: 'slice
-
-  eight
-
-  silver
-
-  resist
-
-  oval
-
-  burst'
-bip_39_word_new_line_7: 'slice
-
-  eight
-
-  silver
-
-  resist
-
-  oval
-
-  burst
-
-  gate'
-bip_39_word_new_line_8: 'slice
-
-  eight
-
-  silver
-
-  resist
-
-  oval
-
-  burst
-
-  gate
-
-  market'
-bip_39_word_new_line_9: 'slice
-
-  eight
-
-  silver
-
-  resist
-
-  oval
-
-  burst
-
-  gate
-
-  market
-
-  degree'
-bip_39_word_no_space_1: slice
-bip_39_word_no_space_10: sliceeightsilverresistovalburstgatemarketdegreetypical
-bip_39_word_no_space_11: sliceeightsilverresistovalburstgatemarketdegreetypicaltorch
 bip_39_word_no_space_12: sliceeightsilverresistovalburstgatemarketdegreetypicaltorchappear
 bip_39_word_no_space_2: sliceeight
 bip_39_word_no_space_3: sliceeightsilver
-bip_39_word_no_space_4: sliceeightsilverresist
-bip_39_word_no_space_5: sliceeightsilverresistoval
-bip_39_word_no_space_6: sliceeightsilverresistovalburst
-bip_39_word_no_space_7: sliceeightsilverresistovalburstgate
-bip_39_word_no_space_8: sliceeightsilverresistovalburstgatemarket
-bip_39_word_no_space_9: sliceeightsilverresistovalburstgatemarketdegree
-bip_39_word_space_0:
-- slice
-- eight
-- silver
-- resist
-- oval
-- burst
-- gate
-- market
-- degree
-- typical
-- torch
-- appear
-bip_39_word_space_1: slice
-bip_39_word_space_10: slice eight silver resist oval burst gate market degree typical
-bip_39_word_space_11: slice eight silver resist oval burst gate market degree typical
-  torch
 bip_39_word_space_12: slice eight silver resist oval burst gate market degree typical
   torch appear
 bip_39_word_space_2: slice eight
 bip_39_word_space_3: slice eight silver
-bip_39_word_space_4: slice eight silver resist
-bip_39_word_space_5: slice eight silver resist oval
-bip_39_word_space_6: slice eight silver resist oval burst
-bip_39_word_space_7: slice eight silver resist oval burst gate
-bip_39_word_space_8: slice eight silver resist oval burst gate market
-bip_39_word_space_9: slice eight silver resist oval burst gate market degree
-bip_39_word_underscore_1: slice
-bip_39_word_underscore_10: slice_eight_silver_resist_oval_burst_gate_market_degree_typical
-bip_39_word_underscore_11: slice_eight_silver_resist_oval_burst_gate_market_degree_typical_torch
 bip_39_word_underscore_12: slice_eight_silver_resist_oval_burst_gate_market_degree_typical_torch_appear
 bip_39_word_underscore_2: slice_eight
 bip_39_word_underscore_3: slice_eight_silver
-bip_39_word_underscore_4: slice_eight_silver_resist
-bip_39_word_underscore_5: slice_eight_silver_resist_oval
-bip_39_word_underscore_6: slice_eight_silver_resist_oval_burst
-bip_39_word_underscore_7: slice_eight_silver_resist_oval_burst_gate
-bip_39_word_underscore_8: slice_eight_silver_resist_oval_burst_gate_market
-bip_39_word_underscore_9: slice_eight_silver_resist_oval_burst_gate_market_degree
 classification: category
 classification_capital: Category
 classification_first_letter: c

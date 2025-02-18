@@ -1,68 +1,9 @@
-bip_39_word_dash_1: merge
-bip_39_word_dash_10: merge-rely-fragile-raise-hope-good-drip-fix-situate-woman
-bip_39_word_dash_11: merge-rely-fragile-raise-hope-good-drip-fix-situate-woman-sight
 bip_39_word_dash_12: merge-rely-fragile-raise-hope-good-drip-fix-situate-woman-sight-amateur
 bip_39_word_dash_2: merge-rely
 bip_39_word_dash_3: merge-rely-fragile
-bip_39_word_dash_4: merge-rely-fragile-raise
-bip_39_word_dash_5: merge-rely-fragile-raise-hope
-bip_39_word_dash_6: merge-rely-fragile-raise-hope-good
-bip_39_word_dash_7: merge-rely-fragile-raise-hope-good-drip
-bip_39_word_dash_8: merge-rely-fragile-raise-hope-good-drip-fix
-bip_39_word_dash_9: merge-rely-fragile-raise-hope-good-drip-fix-situate
-bip_39_word_new_br_1: merge
-bip_39_word_new_br_10: merge<br>rely<br>fragile<br>raise<br>hope<br>good<br>drip<br>fix<br>situate<br>woman
-bip_39_word_new_br_11: merge<br>rely<br>fragile<br>raise<br>hope<br>good<br>drip<br>fix<br>situate<br>woman<br>sight
 bip_39_word_new_br_12: merge<br>rely<br>fragile<br>raise<br>hope<br>good<br>drip<br>fix<br>situate<br>woman<br>sight<br>amateur
 bip_39_word_new_br_2: merge<br>rely
 bip_39_word_new_br_3: merge<br>rely<br>fragile
-bip_39_word_new_br_4: merge<br>rely<br>fragile<br>raise
-bip_39_word_new_br_5: merge<br>rely<br>fragile<br>raise<br>hope
-bip_39_word_new_br_6: merge<br>rely<br>fragile<br>raise<br>hope<br>good
-bip_39_word_new_br_7: merge<br>rely<br>fragile<br>raise<br>hope<br>good<br>drip
-bip_39_word_new_br_8: merge<br>rely<br>fragile<br>raise<br>hope<br>good<br>drip<br>fix
-bip_39_word_new_br_9: merge<br>rely<br>fragile<br>raise<br>hope<br>good<br>drip<br>fix<br>situate
-bip_39_word_new_line_1: merge
-bip_39_word_new_line_10: 'merge
-
-  rely
-
-  fragile
-
-  raise
-
-  hope
-
-  good
-
-  drip
-
-  fix
-
-  situate
-
-  woman'
-bip_39_word_new_line_11: 'merge
-
-  rely
-
-  fragile
-
-  raise
-
-  hope
-
-  good
-
-  drip
-
-  fix
-
-  situate
-
-  woman
-
-  sight'
 bip_39_word_new_line_12: 'merge
 
   rely
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'merge
   rely
 
   fragile'
-bip_39_word_new_line_4: 'merge
-
-  rely
-
-  fragile
-
-  raise'
-bip_39_word_new_line_5: 'merge
-
-  rely
-
-  fragile
-
-  raise
-
-  hope'
-bip_39_word_new_line_6: 'merge
-
-  rely
-
-  fragile
-
-  raise
-
-  hope
-
-  good'
-bip_39_word_new_line_7: 'merge
-
-  rely
-
-  fragile
-
-  raise
-
-  hope
-
-  good
-
-  drip'
-bip_39_word_new_line_8: 'merge
-
-  rely
-
-  fragile
-
-  raise
-
-  hope
-
-  good
-
-  drip
-
-  fix'
-bip_39_word_new_line_9: 'merge
-
-  rely
-
-  fragile
-
-  raise
-
-  hope
-
-  good
-
-  drip
-
-  fix
-
-  situate'
-bip_39_word_no_space_1: merge
-bip_39_word_no_space_10: mergerelyfragileraisehopegooddripfixsituatewoman
-bip_39_word_no_space_11: mergerelyfragileraisehopegooddripfixsituatewomansight
 bip_39_word_no_space_12: mergerelyfragileraisehopegooddripfixsituatewomansightamateur
 bip_39_word_no_space_2: mergerely
 bip_39_word_no_space_3: mergerelyfragile
-bip_39_word_no_space_4: mergerelyfragileraise
-bip_39_word_no_space_5: mergerelyfragileraisehope
-bip_39_word_no_space_6: mergerelyfragileraisehopegood
-bip_39_word_no_space_7: mergerelyfragileraisehopegooddrip
-bip_39_word_no_space_8: mergerelyfragileraisehopegooddripfix
-bip_39_word_no_space_9: mergerelyfragileraisehopegooddripfixsituate
-bip_39_word_space_0:
-- merge
-- rely
-- fragile
-- raise
-- hope
-- good
-- drip
-- fix
-- situate
-- woman
-- sight
-- amateur
-bip_39_word_space_1: merge
-bip_39_word_space_10: merge rely fragile raise hope good drip fix situate woman
-bip_39_word_space_11: merge rely fragile raise hope good drip fix situate woman sight
 bip_39_word_space_12: merge rely fragile raise hope good drip fix situate woman sight
   amateur
 bip_39_word_space_2: merge rely
 bip_39_word_space_3: merge rely fragile
-bip_39_word_space_4: merge rely fragile raise
-bip_39_word_space_5: merge rely fragile raise hope
-bip_39_word_space_6: merge rely fragile raise hope good
-bip_39_word_space_7: merge rely fragile raise hope good drip
-bip_39_word_space_8: merge rely fragile raise hope good drip fix
-bip_39_word_space_9: merge rely fragile raise hope good drip fix situate
-bip_39_word_underscore_1: merge
-bip_39_word_underscore_10: merge_rely_fragile_raise_hope_good_drip_fix_situate_woman
-bip_39_word_underscore_11: merge_rely_fragile_raise_hope_good_drip_fix_situate_woman_sight
 bip_39_word_underscore_12: merge_rely_fragile_raise_hope_good_drip_fix_situate_woman_sight_amateur
 bip_39_word_underscore_2: merge_rely
 bip_39_word_underscore_3: merge_rely_fragile
-bip_39_word_underscore_4: merge_rely_fragile_raise
-bip_39_word_underscore_5: merge_rely_fragile_raise_hope
-bip_39_word_underscore_6: merge_rely_fragile_raise_hope_good
-bip_39_word_underscore_7: merge_rely_fragile_raise_hope_good_drip
-bip_39_word_underscore_8: merge_rely_fragile_raise_hope_good_drip_fix
-bip_39_word_underscore_9: merge_rely_fragile_raise_hope_good_drip_fix_situate
 classification: category
 classification_capital: Category
 classification_first_letter: c

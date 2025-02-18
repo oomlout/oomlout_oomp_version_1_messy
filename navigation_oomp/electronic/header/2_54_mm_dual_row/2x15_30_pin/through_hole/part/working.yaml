@@ -1,68 +1,9 @@
-bip_39_word_dash_1: organ
-bip_39_word_dash_10: organ-lawn-cloud-noble-runway-van-salad-mouse-modify-tired
-bip_39_word_dash_11: organ-lawn-cloud-noble-runway-van-salad-mouse-modify-tired-drink
 bip_39_word_dash_12: organ-lawn-cloud-noble-runway-van-salad-mouse-modify-tired-drink-apology
 bip_39_word_dash_2: organ-lawn
 bip_39_word_dash_3: organ-lawn-cloud
-bip_39_word_dash_4: organ-lawn-cloud-noble
-bip_39_word_dash_5: organ-lawn-cloud-noble-runway
-bip_39_word_dash_6: organ-lawn-cloud-noble-runway-van
-bip_39_word_dash_7: organ-lawn-cloud-noble-runway-van-salad
-bip_39_word_dash_8: organ-lawn-cloud-noble-runway-van-salad-mouse
-bip_39_word_dash_9: organ-lawn-cloud-noble-runway-van-salad-mouse-modify
-bip_39_word_new_br_1: organ
-bip_39_word_new_br_10: organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse<br>modify<br>tired
-bip_39_word_new_br_11: organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse<br>modify<br>tired<br>drink
 bip_39_word_new_br_12: organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse<br>modify<br>tired<br>drink<br>apology
 bip_39_word_new_br_2: organ<br>lawn
 bip_39_word_new_br_3: organ<br>lawn<br>cloud
-bip_39_word_new_br_4: organ<br>lawn<br>cloud<br>noble
-bip_39_word_new_br_5: organ<br>lawn<br>cloud<br>noble<br>runway
-bip_39_word_new_br_6: organ<br>lawn<br>cloud<br>noble<br>runway<br>van
-bip_39_word_new_br_7: organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad
-bip_39_word_new_br_8: organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse
-bip_39_word_new_br_9: organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse<br>modify
-bip_39_word_new_line_1: organ
-bip_39_word_new_line_10: 'organ
-
-  lawn
-
-  cloud
-
-  noble
-
-  runway
-
-  van
-
-  salad
-
-  mouse
-
-  modify
-
-  tired'
-bip_39_word_new_line_11: 'organ
-
-  lawn
-
-  cloud
-
-  noble
-
-  runway
-
-  van
-
-  salad
-
-  mouse
-
-  modify
-
-  tired
-
-  drink'
 bip_39_word_new_line_12: 'organ
 
   lawn
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'organ
   lawn
 
   cloud'
-bip_39_word_new_line_4: 'organ
-
-  lawn
-
-  cloud
-
-  noble'
-bip_39_word_new_line_5: 'organ
-
-  lawn
-
-  cloud
-
-  noble
-
-  runway'
-bip_39_word_new_line_6: 'organ
-
-  lawn
-
-  cloud
-
-  noble
-
-  runway
-
-  van'
-bip_39_word_new_line_7: 'organ
-
-  lawn
-
-  cloud
-
-  noble
-
-  runway
-
-  van
-
-  salad'
-bip_39_word_new_line_8: 'organ
-
-  lawn
-
-  cloud
-
-  noble
-
-  runway
-
-  van
-
-  salad
-
-  mouse'
-bip_39_word_new_line_9: 'organ
-
-  lawn
-
-  cloud
-
-  noble
-
-  runway
-
-  van
-
-  salad
-
-  mouse
-
-  modify'
-bip_39_word_no_space_1: organ
-bip_39_word_no_space_10: organlawncloudnoblerunwayvansaladmousemodifytired
-bip_39_word_no_space_11: organlawncloudnoblerunwayvansaladmousemodifytireddrink
 bip_39_word_no_space_12: organlawncloudnoblerunwayvansaladmousemodifytireddrinkapology
 bip_39_word_no_space_2: organlawn
 bip_39_word_no_space_3: organlawncloud
-bip_39_word_no_space_4: organlawncloudnoble
-bip_39_word_no_space_5: organlawncloudnoblerunway
-bip_39_word_no_space_6: organlawncloudnoblerunwayvan
-bip_39_word_no_space_7: organlawncloudnoblerunwayvansalad
-bip_39_word_no_space_8: organlawncloudnoblerunwayvansaladmouse
-bip_39_word_no_space_9: organlawncloudnoblerunwayvansaladmousemodify
-bip_39_word_space_0:
-- organ
-- lawn
-- cloud
-- noble
-- runway
-- van
-- salad
-- mouse
-- modify
-- tired
-- drink
-- apology
-bip_39_word_space_1: organ
-bip_39_word_space_10: organ lawn cloud noble runway van salad mouse modify tired
-bip_39_word_space_11: organ lawn cloud noble runway van salad mouse modify tired drink
 bip_39_word_space_12: organ lawn cloud noble runway van salad mouse modify tired drink
   apology
 bip_39_word_space_2: organ lawn
 bip_39_word_space_3: organ lawn cloud
-bip_39_word_space_4: organ lawn cloud noble
-bip_39_word_space_5: organ lawn cloud noble runway
-bip_39_word_space_6: organ lawn cloud noble runway van
-bip_39_word_space_7: organ lawn cloud noble runway van salad
-bip_39_word_space_8: organ lawn cloud noble runway van salad mouse
-bip_39_word_space_9: organ lawn cloud noble runway van salad mouse modify
-bip_39_word_underscore_1: organ
-bip_39_word_underscore_10: organ_lawn_cloud_noble_runway_van_salad_mouse_modify_tired
-bip_39_word_underscore_11: organ_lawn_cloud_noble_runway_van_salad_mouse_modify_tired_drink
 bip_39_word_underscore_12: organ_lawn_cloud_noble_runway_van_salad_mouse_modify_tired_drink_apology
 bip_39_word_underscore_2: organ_lawn
 bip_39_word_underscore_3: organ_lawn_cloud
-bip_39_word_underscore_4: organ_lawn_cloud_noble
-bip_39_word_underscore_5: organ_lawn_cloud_noble_runway
-bip_39_word_underscore_6: organ_lawn_cloud_noble_runway_van
-bip_39_word_underscore_7: organ_lawn_cloud_noble_runway_van_salad
-bip_39_word_underscore_8: organ_lawn_cloud_noble_runway_van_salad_mouse
-bip_39_word_underscore_9: organ_lawn_cloud_noble_runway_van_salad_mouse_modify
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

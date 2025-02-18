@@ -1,68 +1,9 @@
-bip_39_word_dash_1: boss
-bip_39_word_dash_10: boss-face-know-enough-road-cement-mouse-garlic-quiz-give
-bip_39_word_dash_11: boss-face-know-enough-road-cement-mouse-garlic-quiz-give-post
 bip_39_word_dash_12: boss-face-know-enough-road-cement-mouse-garlic-quiz-give-post-actual
 bip_39_word_dash_2: boss-face
 bip_39_word_dash_3: boss-face-know
-bip_39_word_dash_4: boss-face-know-enough
-bip_39_word_dash_5: boss-face-know-enough-road
-bip_39_word_dash_6: boss-face-know-enough-road-cement
-bip_39_word_dash_7: boss-face-know-enough-road-cement-mouse
-bip_39_word_dash_8: boss-face-know-enough-road-cement-mouse-garlic
-bip_39_word_dash_9: boss-face-know-enough-road-cement-mouse-garlic-quiz
-bip_39_word_new_br_1: boss
-bip_39_word_new_br_10: boss<br>face<br>know<br>enough<br>road<br>cement<br>mouse<br>garlic<br>quiz<br>give
-bip_39_word_new_br_11: boss<br>face<br>know<br>enough<br>road<br>cement<br>mouse<br>garlic<br>quiz<br>give<br>post
 bip_39_word_new_br_12: boss<br>face<br>know<br>enough<br>road<br>cement<br>mouse<br>garlic<br>quiz<br>give<br>post<br>actual
 bip_39_word_new_br_2: boss<br>face
 bip_39_word_new_br_3: boss<br>face<br>know
-bip_39_word_new_br_4: boss<br>face<br>know<br>enough
-bip_39_word_new_br_5: boss<br>face<br>know<br>enough<br>road
-bip_39_word_new_br_6: boss<br>face<br>know<br>enough<br>road<br>cement
-bip_39_word_new_br_7: boss<br>face<br>know<br>enough<br>road<br>cement<br>mouse
-bip_39_word_new_br_8: boss<br>face<br>know<br>enough<br>road<br>cement<br>mouse<br>garlic
-bip_39_word_new_br_9: boss<br>face<br>know<br>enough<br>road<br>cement<br>mouse<br>garlic<br>quiz
-bip_39_word_new_line_1: boss
-bip_39_word_new_line_10: 'boss
-
-  face
-
-  know
-
-  enough
-
-  road
-
-  cement
-
-  mouse
-
-  garlic
-
-  quiz
-
-  give'
-bip_39_word_new_line_11: 'boss
-
-  face
-
-  know
-
-  enough
-
-  road
-
-  cement
-
-  mouse
-
-  garlic
-
-  quiz
-
-  give
-
-  post'
 bip_39_word_new_line_12: 'boss
 
   face
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'boss
   face
 
   know'
-bip_39_word_new_line_4: 'boss
-
-  face
-
-  know
-
-  enough'
-bip_39_word_new_line_5: 'boss
-
-  face
-
-  know
-
-  enough
-
-  road'
-bip_39_word_new_line_6: 'boss
-
-  face
-
-  know
-
-  enough
-
-  road
-
-  cement'
-bip_39_word_new_line_7: 'boss
-
-  face
-
-  know
-
-  enough
-
-  road
-
-  cement
-
-  mouse'
-bip_39_word_new_line_8: 'boss
-
-  face
-
-  know
-
-  enough
-
-  road
-
-  cement
-
-  mouse
-
-  garlic'
-bip_39_word_new_line_9: 'boss
-
-  face
-
-  know
-
-  enough
-
-  road
-
-  cement
-
-  mouse
-
-  garlic
-
-  quiz'
-bip_39_word_no_space_1: boss
-bip_39_word_no_space_10: bossfaceknowenoughroadcementmousegarlicquizgive
-bip_39_word_no_space_11: bossfaceknowenoughroadcementmousegarlicquizgivepost
 bip_39_word_no_space_12: bossfaceknowenoughroadcementmousegarlicquizgivepostactual
 bip_39_word_no_space_2: bossface
 bip_39_word_no_space_3: bossfaceknow
-bip_39_word_no_space_4: bossfaceknowenough
-bip_39_word_no_space_5: bossfaceknowenoughroad
-bip_39_word_no_space_6: bossfaceknowenoughroadcement
-bip_39_word_no_space_7: bossfaceknowenoughroadcementmouse
-bip_39_word_no_space_8: bossfaceknowenoughroadcementmousegarlic
-bip_39_word_no_space_9: bossfaceknowenoughroadcementmousegarlicquiz
-bip_39_word_space_0:
-- boss
-- face
-- know
-- enough
-- road
-- cement
-- mouse
-- garlic
-- quiz
-- give
-- post
-- actual
-bip_39_word_space_1: boss
-bip_39_word_space_10: boss face know enough road cement mouse garlic quiz give
-bip_39_word_space_11: boss face know enough road cement mouse garlic quiz give post
 bip_39_word_space_12: boss face know enough road cement mouse garlic quiz give post
   actual
 bip_39_word_space_2: boss face
 bip_39_word_space_3: boss face know
-bip_39_word_space_4: boss face know enough
-bip_39_word_space_5: boss face know enough road
-bip_39_word_space_6: boss face know enough road cement
-bip_39_word_space_7: boss face know enough road cement mouse
-bip_39_word_space_8: boss face know enough road cement mouse garlic
-bip_39_word_space_9: boss face know enough road cement mouse garlic quiz
-bip_39_word_underscore_1: boss
-bip_39_word_underscore_10: boss_face_know_enough_road_cement_mouse_garlic_quiz_give
-bip_39_word_underscore_11: boss_face_know_enough_road_cement_mouse_garlic_quiz_give_post
 bip_39_word_underscore_12: boss_face_know_enough_road_cement_mouse_garlic_quiz_give_post_actual
 bip_39_word_underscore_2: boss_face
 bip_39_word_underscore_3: boss_face_know
-bip_39_word_underscore_4: boss_face_know_enough
-bip_39_word_underscore_5: boss_face_know_enough_road
-bip_39_word_underscore_6: boss_face_know_enough_road_cement
-bip_39_word_underscore_7: boss_face_know_enough_road_cement_mouse
-bip_39_word_underscore_8: boss_face_know_enough_road_cement_mouse_garlic
-bip_39_word_underscore_9: boss_face_know_enough_road_cement_mouse_garlic_quiz
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

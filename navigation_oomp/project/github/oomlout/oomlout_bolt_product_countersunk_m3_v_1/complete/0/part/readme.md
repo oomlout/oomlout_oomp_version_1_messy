@@ -24,9 +24,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 0
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: will gloom
-  * bip 39 word 3: will gloom century
-  * bip 39 word: will gloom century fossil another modify decline dose veteran divorce story assume
+  * bip 39 word 2: 
+  * bip 39 word 3: 
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -40,22 +40,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-### oomlout_oomp_utility_custom_data_manipulation
-#### label print
-[3x2](http://192.168.1.245:1112/?label=oomp%208q6ts)
-[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208q6ts)
-[2x1](http://192.168.1.242:1112/?label=oomp%208q6ts)
-[6x4](http://192.168.1.55:1112/?label=oomp%208q6ts)    
-
-#### link
-
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0)                              
-
-#### price
-
-
-
-
 
 
 
@@ -63,29 +47,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | project |  
-| classification_name | Project |  
 | color | oomlout_bolt_product_countersunk_m3_v_1 |  
-| color_name | Oomlout Bolt Product Countersunk M3 V 1 |  
 | description_extra | 0 |  
-| description_extra_name | 0 |  
 | description_main | complete |  
-| description_main_name | Complete |  
 | description_or_color | O  |  
 | directory | parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0 |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0 |  
+| github_link | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0 |  
 | id | project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0 |  
-| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0 |  
-| link_1_name | link_main |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0 |  
-| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208q6ts |  
-| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208q6ts |  
-| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208q6ts |  
-| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208q6ts |  
 | manufacturer |  |  
-| manufacturer_name |  |  
 | manufacturers | [] |  
 | markdown_full | [project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0)<br>[Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete 0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0)<br><br> |  
 | markdown_short | [project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0)<br><br> |  
@@ -96,23 +69,12 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 8q6ts |  
 | name | Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete 0 |  
 | name_short | m3_countersunk_tin_complete_0 |  
-| oomlout_detail_hierarchy_1 | project |  
-| oomlout_detail_hierarchy_2 | github |  
-| oomlout_detail_hierarchy_3 | oomlout |  
-| oomlout_detail_hierarchy_4 | bolt_product_countersunk |  
-| oomlout_detail_hierarchy_5 | m3_v_1 |  
-| oomlout_detail_hierarchy_6 | complete |  
-| oomlout_detail_hierarchy_7 | 0 |  
-| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_0 |  
 | oomp_word | fountain dress star |  
 | oomp_word_emoji | :fountain: :dress: :star: |  
 | oomp_word_emoji_list | [':fountain:', ':dress:', ':star:'] |  
 | oomp_word_list | ['fountain', 'dress', 'star'] |  
 | part_number |  |  
-| part_number_name |  |  
 | short_code |  |  
 | size | oomlout |  
-| size_name | Oomlout |  
 | type | github |  
-| type_name | Github |  

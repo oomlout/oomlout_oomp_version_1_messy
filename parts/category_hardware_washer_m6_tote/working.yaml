@@ -1,68 +1,9 @@
-bip_39_word_dash_1: secret
-bip_39_word_dash_10: secret-seed-stuff-chest-happy-gun-cook-guard-soft-since
-bip_39_word_dash_11: secret-seed-stuff-chest-happy-gun-cook-guard-soft-since-romance
 bip_39_word_dash_12: secret-seed-stuff-chest-happy-gun-cook-guard-soft-since-romance-amount
 bip_39_word_dash_2: secret-seed
 bip_39_word_dash_3: secret-seed-stuff
-bip_39_word_dash_4: secret-seed-stuff-chest
-bip_39_word_dash_5: secret-seed-stuff-chest-happy
-bip_39_word_dash_6: secret-seed-stuff-chest-happy-gun
-bip_39_word_dash_7: secret-seed-stuff-chest-happy-gun-cook
-bip_39_word_dash_8: secret-seed-stuff-chest-happy-gun-cook-guard
-bip_39_word_dash_9: secret-seed-stuff-chest-happy-gun-cook-guard-soft
-bip_39_word_new_br_1: secret
-bip_39_word_new_br_10: secret<br>seed<br>stuff<br>chest<br>happy<br>gun<br>cook<br>guard<br>soft<br>since
-bip_39_word_new_br_11: secret<br>seed<br>stuff<br>chest<br>happy<br>gun<br>cook<br>guard<br>soft<br>since<br>romance
 bip_39_word_new_br_12: secret<br>seed<br>stuff<br>chest<br>happy<br>gun<br>cook<br>guard<br>soft<br>since<br>romance<br>amount
 bip_39_word_new_br_2: secret<br>seed
 bip_39_word_new_br_3: secret<br>seed<br>stuff
-bip_39_word_new_br_4: secret<br>seed<br>stuff<br>chest
-bip_39_word_new_br_5: secret<br>seed<br>stuff<br>chest<br>happy
-bip_39_word_new_br_6: secret<br>seed<br>stuff<br>chest<br>happy<br>gun
-bip_39_word_new_br_7: secret<br>seed<br>stuff<br>chest<br>happy<br>gun<br>cook
-bip_39_word_new_br_8: secret<br>seed<br>stuff<br>chest<br>happy<br>gun<br>cook<br>guard
-bip_39_word_new_br_9: secret<br>seed<br>stuff<br>chest<br>happy<br>gun<br>cook<br>guard<br>soft
-bip_39_word_new_line_1: secret
-bip_39_word_new_line_10: 'secret
-
-  seed
-
-  stuff
-
-  chest
-
-  happy
-
-  gun
-
-  cook
-
-  guard
-
-  soft
-
-  since'
-bip_39_word_new_line_11: 'secret
-
-  seed
-
-  stuff
-
-  chest
-
-  happy
-
-  gun
-
-  cook
-
-  guard
-
-  soft
-
-  since
-
-  romance'
 bip_39_word_new_line_12: 'secret
 
   seed
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'secret
   seed
 
   stuff'
-bip_39_word_new_line_4: 'secret
-
-  seed
-
-  stuff
-
-  chest'
-bip_39_word_new_line_5: 'secret
-
-  seed
-
-  stuff
-
-  chest
-
-  happy'
-bip_39_word_new_line_6: 'secret
-
-  seed
-
-  stuff
-
-  chest
-
-  happy
-
-  gun'
-bip_39_word_new_line_7: 'secret
-
-  seed
-
-  stuff
-
-  chest
-
-  happy
-
-  gun
-
-  cook'
-bip_39_word_new_line_8: 'secret
-
-  seed
-
-  stuff
-
-  chest
-
-  happy
-
-  gun
-
-  cook
-
-  guard'
-bip_39_word_new_line_9: 'secret
-
-  seed
-
-  stuff
-
-  chest
-
-  happy
-
-  gun
-
-  cook
-
-  guard
-
-  soft'
-bip_39_word_no_space_1: secret
-bip_39_word_no_space_10: secretseedstuffchesthappyguncookguardsoftsince
-bip_39_word_no_space_11: secretseedstuffchesthappyguncookguardsoftsinceromance
 bip_39_word_no_space_12: secretseedstuffchesthappyguncookguardsoftsinceromanceamount
 bip_39_word_no_space_2: secretseed
 bip_39_word_no_space_3: secretseedstuff
-bip_39_word_no_space_4: secretseedstuffchest
-bip_39_word_no_space_5: secretseedstuffchesthappy
-bip_39_word_no_space_6: secretseedstuffchesthappygun
-bip_39_word_no_space_7: secretseedstuffchesthappyguncook
-bip_39_word_no_space_8: secretseedstuffchesthappyguncookguard
-bip_39_word_no_space_9: secretseedstuffchesthappyguncookguardsoft
-bip_39_word_space_0:
-- secret
-- seed
-- stuff
-- chest
-- happy
-- gun
-- cook
-- guard
-- soft
-- since
-- romance
-- amount
-bip_39_word_space_1: secret
-bip_39_word_space_10: secret seed stuff chest happy gun cook guard soft since
-bip_39_word_space_11: secret seed stuff chest happy gun cook guard soft since romance
 bip_39_word_space_12: secret seed stuff chest happy gun cook guard soft since romance
   amount
 bip_39_word_space_2: secret seed
 bip_39_word_space_3: secret seed stuff
-bip_39_word_space_4: secret seed stuff chest
-bip_39_word_space_5: secret seed stuff chest happy
-bip_39_word_space_6: secret seed stuff chest happy gun
-bip_39_word_space_7: secret seed stuff chest happy gun cook
-bip_39_word_space_8: secret seed stuff chest happy gun cook guard
-bip_39_word_space_9: secret seed stuff chest happy gun cook guard soft
-bip_39_word_underscore_1: secret
-bip_39_word_underscore_10: secret_seed_stuff_chest_happy_gun_cook_guard_soft_since
-bip_39_word_underscore_11: secret_seed_stuff_chest_happy_gun_cook_guard_soft_since_romance
 bip_39_word_underscore_12: secret_seed_stuff_chest_happy_gun_cook_guard_soft_since_romance_amount
 bip_39_word_underscore_2: secret_seed
 bip_39_word_underscore_3: secret_seed_stuff
-bip_39_word_underscore_4: secret_seed_stuff_chest
-bip_39_word_underscore_5: secret_seed_stuff_chest_happy
-bip_39_word_underscore_6: secret_seed_stuff_chest_happy_gun
-bip_39_word_underscore_7: secret_seed_stuff_chest_happy_gun_cook
-bip_39_word_underscore_8: secret_seed_stuff_chest_happy_gun_cook_guard
-bip_39_word_underscore_9: secret_seed_stuff_chest_happy_gun_cook_guard_soft
 classification: category
 classification_capital: Category
 classification_first_letter: c

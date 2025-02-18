@@ -1,68 +1,9 @@
-bip_39_word_dash_1: volume
-bip_39_word_dash_10: volume-decline-guess-youth-insect-demand-gas-stadium-case-enemy
-bip_39_word_dash_11: volume-decline-guess-youth-insect-demand-gas-stadium-case-enemy-people
 bip_39_word_dash_12: volume-decline-guess-youth-insect-demand-gas-stadium-case-enemy-people-amount
 bip_39_word_dash_2: volume-decline
 bip_39_word_dash_3: volume-decline-guess
-bip_39_word_dash_4: volume-decline-guess-youth
-bip_39_word_dash_5: volume-decline-guess-youth-insect
-bip_39_word_dash_6: volume-decline-guess-youth-insect-demand
-bip_39_word_dash_7: volume-decline-guess-youth-insect-demand-gas
-bip_39_word_dash_8: volume-decline-guess-youth-insect-demand-gas-stadium
-bip_39_word_dash_9: volume-decline-guess-youth-insect-demand-gas-stadium-case
-bip_39_word_new_br_1: volume
-bip_39_word_new_br_10: volume<br>decline<br>guess<br>youth<br>insect<br>demand<br>gas<br>stadium<br>case<br>enemy
-bip_39_word_new_br_11: volume<br>decline<br>guess<br>youth<br>insect<br>demand<br>gas<br>stadium<br>case<br>enemy<br>people
 bip_39_word_new_br_12: volume<br>decline<br>guess<br>youth<br>insect<br>demand<br>gas<br>stadium<br>case<br>enemy<br>people<br>amount
 bip_39_word_new_br_2: volume<br>decline
 bip_39_word_new_br_3: volume<br>decline<br>guess
-bip_39_word_new_br_4: volume<br>decline<br>guess<br>youth
-bip_39_word_new_br_5: volume<br>decline<br>guess<br>youth<br>insect
-bip_39_word_new_br_6: volume<br>decline<br>guess<br>youth<br>insect<br>demand
-bip_39_word_new_br_7: volume<br>decline<br>guess<br>youth<br>insect<br>demand<br>gas
-bip_39_word_new_br_8: volume<br>decline<br>guess<br>youth<br>insect<br>demand<br>gas<br>stadium
-bip_39_word_new_br_9: volume<br>decline<br>guess<br>youth<br>insect<br>demand<br>gas<br>stadium<br>case
-bip_39_word_new_line_1: volume
-bip_39_word_new_line_10: 'volume
-
-  decline
-
-  guess
-
-  youth
-
-  insect
-
-  demand
-
-  gas
-
-  stadium
-
-  case
-
-  enemy'
-bip_39_word_new_line_11: 'volume
-
-  decline
-
-  guess
-
-  youth
-
-  insect
-
-  demand
-
-  gas
-
-  stadium
-
-  case
-
-  enemy
-
-  people'
 bip_39_word_new_line_12: 'volume
 
   decline
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'volume
   decline
 
   guess'
-bip_39_word_new_line_4: 'volume
-
-  decline
-
-  guess
-
-  youth'
-bip_39_word_new_line_5: 'volume
-
-  decline
-
-  guess
-
-  youth
-
-  insect'
-bip_39_word_new_line_6: 'volume
-
-  decline
-
-  guess
-
-  youth
-
-  insect
-
-  demand'
-bip_39_word_new_line_7: 'volume
-
-  decline
-
-  guess
-
-  youth
-
-  insect
-
-  demand
-
-  gas'
-bip_39_word_new_line_8: 'volume
-
-  decline
-
-  guess
-
-  youth
-
-  insect
-
-  demand
-
-  gas
-
-  stadium'
-bip_39_word_new_line_9: 'volume
-
-  decline
-
-  guess
-
-  youth
-
-  insect
-
-  demand
-
-  gas
-
-  stadium
-
-  case'
-bip_39_word_no_space_1: volume
-bip_39_word_no_space_10: volumedeclineguessyouthinsectdemandgasstadiumcaseenemy
-bip_39_word_no_space_11: volumedeclineguessyouthinsectdemandgasstadiumcaseenemypeople
 bip_39_word_no_space_12: volumedeclineguessyouthinsectdemandgasstadiumcaseenemypeopleamount
 bip_39_word_no_space_2: volumedecline
 bip_39_word_no_space_3: volumedeclineguess
-bip_39_word_no_space_4: volumedeclineguessyouth
-bip_39_word_no_space_5: volumedeclineguessyouthinsect
-bip_39_word_no_space_6: volumedeclineguessyouthinsectdemand
-bip_39_word_no_space_7: volumedeclineguessyouthinsectdemandgas
-bip_39_word_no_space_8: volumedeclineguessyouthinsectdemandgasstadium
-bip_39_word_no_space_9: volumedeclineguessyouthinsectdemandgasstadiumcase
-bip_39_word_space_0:
-- volume
-- decline
-- guess
-- youth
-- insect
-- demand
-- gas
-- stadium
-- case
-- enemy
-- people
-- amount
-bip_39_word_space_1: volume
-bip_39_word_space_10: volume decline guess youth insect demand gas stadium case enemy
-bip_39_word_space_11: volume decline guess youth insect demand gas stadium case enemy
-  people
 bip_39_word_space_12: volume decline guess youth insect demand gas stadium case enemy
   people amount
 bip_39_word_space_2: volume decline
 bip_39_word_space_3: volume decline guess
-bip_39_word_space_4: volume decline guess youth
-bip_39_word_space_5: volume decline guess youth insect
-bip_39_word_space_6: volume decline guess youth insect demand
-bip_39_word_space_7: volume decline guess youth insect demand gas
-bip_39_word_space_8: volume decline guess youth insect demand gas stadium
-bip_39_word_space_9: volume decline guess youth insect demand gas stadium case
-bip_39_word_underscore_1: volume
-bip_39_word_underscore_10: volume_decline_guess_youth_insect_demand_gas_stadium_case_enemy
-bip_39_word_underscore_11: volume_decline_guess_youth_insect_demand_gas_stadium_case_enemy_people
 bip_39_word_underscore_12: volume_decline_guess_youth_insect_demand_gas_stadium_case_enemy_people_amount
 bip_39_word_underscore_2: volume_decline
 bip_39_word_underscore_3: volume_decline_guess
-bip_39_word_underscore_4: volume_decline_guess_youth
-bip_39_word_underscore_5: volume_decline_guess_youth_insect
-bip_39_word_underscore_6: volume_decline_guess_youth_insect_demand
-bip_39_word_underscore_7: volume_decline_guess_youth_insect_demand_gas
-bip_39_word_underscore_8: volume_decline_guess_youth_insect_demand_gas_stadium
-bip_39_word_underscore_9: volume_decline_guess_youth_insect_demand_gas_stadium_case
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

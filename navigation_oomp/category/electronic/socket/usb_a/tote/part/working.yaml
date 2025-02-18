@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mix
-bip_39_word_dash_10: mix-sight-limit-aisle-announce-submit-spy-travel-theme-render
-bip_39_word_dash_11: mix-sight-limit-aisle-announce-submit-spy-travel-theme-render-panic
 bip_39_word_dash_12: mix-sight-limit-aisle-announce-submit-spy-travel-theme-render-panic-aim
 bip_39_word_dash_2: mix-sight
 bip_39_word_dash_3: mix-sight-limit
-bip_39_word_dash_4: mix-sight-limit-aisle
-bip_39_word_dash_5: mix-sight-limit-aisle-announce
-bip_39_word_dash_6: mix-sight-limit-aisle-announce-submit
-bip_39_word_dash_7: mix-sight-limit-aisle-announce-submit-spy
-bip_39_word_dash_8: mix-sight-limit-aisle-announce-submit-spy-travel
-bip_39_word_dash_9: mix-sight-limit-aisle-announce-submit-spy-travel-theme
-bip_39_word_new_br_1: mix
-bip_39_word_new_br_10: mix<br>sight<br>limit<br>aisle<br>announce<br>submit<br>spy<br>travel<br>theme<br>render
-bip_39_word_new_br_11: mix<br>sight<br>limit<br>aisle<br>announce<br>submit<br>spy<br>travel<br>theme<br>render<br>panic
 bip_39_word_new_br_12: mix<br>sight<br>limit<br>aisle<br>announce<br>submit<br>spy<br>travel<br>theme<br>render<br>panic<br>aim
 bip_39_word_new_br_2: mix<br>sight
 bip_39_word_new_br_3: mix<br>sight<br>limit
-bip_39_word_new_br_4: mix<br>sight<br>limit<br>aisle
-bip_39_word_new_br_5: mix<br>sight<br>limit<br>aisle<br>announce
-bip_39_word_new_br_6: mix<br>sight<br>limit<br>aisle<br>announce<br>submit
-bip_39_word_new_br_7: mix<br>sight<br>limit<br>aisle<br>announce<br>submit<br>spy
-bip_39_word_new_br_8: mix<br>sight<br>limit<br>aisle<br>announce<br>submit<br>spy<br>travel
-bip_39_word_new_br_9: mix<br>sight<br>limit<br>aisle<br>announce<br>submit<br>spy<br>travel<br>theme
-bip_39_word_new_line_1: mix
-bip_39_word_new_line_10: 'mix
-
-  sight
-
-  limit
-
-  aisle
-
-  announce
-
-  submit
-
-  spy
-
-  travel
-
-  theme
-
-  render'
-bip_39_word_new_line_11: 'mix
-
-  sight
-
-  limit
-
-  aisle
-
-  announce
-
-  submit
-
-  spy
-
-  travel
-
-  theme
-
-  render
-
-  panic'
 bip_39_word_new_line_12: 'mix
 
   sight
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mix
   sight
 
   limit'
-bip_39_word_new_line_4: 'mix
-
-  sight
-
-  limit
-
-  aisle'
-bip_39_word_new_line_5: 'mix
-
-  sight
-
-  limit
-
-  aisle
-
-  announce'
-bip_39_word_new_line_6: 'mix
-
-  sight
-
-  limit
-
-  aisle
-
-  announce
-
-  submit'
-bip_39_word_new_line_7: 'mix
-
-  sight
-
-  limit
-
-  aisle
-
-  announce
-
-  submit
-
-  spy'
-bip_39_word_new_line_8: 'mix
-
-  sight
-
-  limit
-
-  aisle
-
-  announce
-
-  submit
-
-  spy
-
-  travel'
-bip_39_word_new_line_9: 'mix
-
-  sight
-
-  limit
-
-  aisle
-
-  announce
-
-  submit
-
-  spy
-
-  travel
-
-  theme'
-bip_39_word_no_space_1: mix
-bip_39_word_no_space_10: mixsightlimitaisleannouncesubmitspytravelthemerender
-bip_39_word_no_space_11: mixsightlimitaisleannouncesubmitspytravelthemerenderpanic
 bip_39_word_no_space_12: mixsightlimitaisleannouncesubmitspytravelthemerenderpanicaim
 bip_39_word_no_space_2: mixsight
 bip_39_word_no_space_3: mixsightlimit
-bip_39_word_no_space_4: mixsightlimitaisle
-bip_39_word_no_space_5: mixsightlimitaisleannounce
-bip_39_word_no_space_6: mixsightlimitaisleannouncesubmit
-bip_39_word_no_space_7: mixsightlimitaisleannouncesubmitspy
-bip_39_word_no_space_8: mixsightlimitaisleannouncesubmitspytravel
-bip_39_word_no_space_9: mixsightlimitaisleannouncesubmitspytraveltheme
-bip_39_word_space_0:
-- mix
-- sight
-- limit
-- aisle
-- announce
-- submit
-- spy
-- travel
-- theme
-- render
-- panic
-- aim
-bip_39_word_space_1: mix
-bip_39_word_space_10: mix sight limit aisle announce submit spy travel theme render
-bip_39_word_space_11: mix sight limit aisle announce submit spy travel theme render
-  panic
 bip_39_word_space_12: mix sight limit aisle announce submit spy travel theme render
   panic aim
 bip_39_word_space_2: mix sight
 bip_39_word_space_3: mix sight limit
-bip_39_word_space_4: mix sight limit aisle
-bip_39_word_space_5: mix sight limit aisle announce
-bip_39_word_space_6: mix sight limit aisle announce submit
-bip_39_word_space_7: mix sight limit aisle announce submit spy
-bip_39_word_space_8: mix sight limit aisle announce submit spy travel
-bip_39_word_space_9: mix sight limit aisle announce submit spy travel theme
-bip_39_word_underscore_1: mix
-bip_39_word_underscore_10: mix_sight_limit_aisle_announce_submit_spy_travel_theme_render
-bip_39_word_underscore_11: mix_sight_limit_aisle_announce_submit_spy_travel_theme_render_panic
 bip_39_word_underscore_12: mix_sight_limit_aisle_announce_submit_spy_travel_theme_render_panic_aim
 bip_39_word_underscore_2: mix_sight
 bip_39_word_underscore_3: mix_sight_limit
-bip_39_word_underscore_4: mix_sight_limit_aisle
-bip_39_word_underscore_5: mix_sight_limit_aisle_announce
-bip_39_word_underscore_6: mix_sight_limit_aisle_announce_submit
-bip_39_word_underscore_7: mix_sight_limit_aisle_announce_submit_spy
-bip_39_word_underscore_8: mix_sight_limit_aisle_announce_submit_spy_travel
-bip_39_word_underscore_9: mix_sight_limit_aisle_announce_submit_spy_travel_theme
 classification: category
 classification_capital: Category
 classification_first_letter: c

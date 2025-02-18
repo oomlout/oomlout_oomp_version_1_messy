@@ -3,5 +3,8 @@
     * [mixed](branded/num_nom/mixed)
   * [squismallow](branded/squismallow)
     * [small](branded/squismallow/small)
+* [medium](medium)
+  * [animal_mixed](medium/animal_mixed)
+* [mixed](mixed)
 * [small](small)
   * [animal_mixed](small/animal_mixed)

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: surface
-bip_39_word_dash_10: surface-brass-scissors-duty-ticket-initial-auction-patch-cousin-tiger
-bip_39_word_dash_11: surface-brass-scissors-duty-ticket-initial-auction-patch-cousin-tiger-work
 bip_39_word_dash_12: surface-brass-scissors-duty-ticket-initial-auction-patch-cousin-tiger-work-auction
 bip_39_word_dash_2: surface-brass
 bip_39_word_dash_3: surface-brass-scissors
-bip_39_word_dash_4: surface-brass-scissors-duty
-bip_39_word_dash_5: surface-brass-scissors-duty-ticket
-bip_39_word_dash_6: surface-brass-scissors-duty-ticket-initial
-bip_39_word_dash_7: surface-brass-scissors-duty-ticket-initial-auction
-bip_39_word_dash_8: surface-brass-scissors-duty-ticket-initial-auction-patch
-bip_39_word_dash_9: surface-brass-scissors-duty-ticket-initial-auction-patch-cousin
-bip_39_word_new_br_1: surface
-bip_39_word_new_br_10: surface<br>brass<br>scissors<br>duty<br>ticket<br>initial<br>auction<br>patch<br>cousin<br>tiger
-bip_39_word_new_br_11: surface<br>brass<br>scissors<br>duty<br>ticket<br>initial<br>auction<br>patch<br>cousin<br>tiger<br>work
 bip_39_word_new_br_12: surface<br>brass<br>scissors<br>duty<br>ticket<br>initial<br>auction<br>patch<br>cousin<br>tiger<br>work<br>auction
 bip_39_word_new_br_2: surface<br>brass
 bip_39_word_new_br_3: surface<br>brass<br>scissors
-bip_39_word_new_br_4: surface<br>brass<br>scissors<br>duty
-bip_39_word_new_br_5: surface<br>brass<br>scissors<br>duty<br>ticket
-bip_39_word_new_br_6: surface<br>brass<br>scissors<br>duty<br>ticket<br>initial
-bip_39_word_new_br_7: surface<br>brass<br>scissors<br>duty<br>ticket<br>initial<br>auction
-bip_39_word_new_br_8: surface<br>brass<br>scissors<br>duty<br>ticket<br>initial<br>auction<br>patch
-bip_39_word_new_br_9: surface<br>brass<br>scissors<br>duty<br>ticket<br>initial<br>auction<br>patch<br>cousin
-bip_39_word_new_line_1: surface
-bip_39_word_new_line_10: 'surface
-
-  brass
-
-  scissors
-
-  duty
-
-  ticket
-
-  initial
-
-  auction
-
-  patch
-
-  cousin
-
-  tiger'
-bip_39_word_new_line_11: 'surface
-
-  brass
-
-  scissors
-
-  duty
-
-  ticket
-
-  initial
-
-  auction
-
-  patch
-
-  cousin
-
-  tiger
-
-  work'
 bip_39_word_new_line_12: 'surface
 
   brass
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'surface
   brass
 
   scissors'
-bip_39_word_new_line_4: 'surface
-
-  brass
-
-  scissors
-
-  duty'
-bip_39_word_new_line_5: 'surface
-
-  brass
-
-  scissors
-
-  duty
-
-  ticket'
-bip_39_word_new_line_6: 'surface
-
-  brass
-
-  scissors
-
-  duty
-
-  ticket
-
-  initial'
-bip_39_word_new_line_7: 'surface
-
-  brass
-
-  scissors
-
-  duty
-
-  ticket
-
-  initial
-
-  auction'
-bip_39_word_new_line_8: 'surface
-
-  brass
-
-  scissors
-
-  duty
-
-  ticket
-
-  initial
-
-  auction
-
-  patch'
-bip_39_word_new_line_9: 'surface
-
-  brass
-
-  scissors
-
-  duty
-
-  ticket
-
-  initial
-
-  auction
-
-  patch
-
-  cousin'
-bip_39_word_no_space_1: surface
-bip_39_word_no_space_10: surfacebrassscissorsdutyticketinitialauctionpatchcousintiger
-bip_39_word_no_space_11: surfacebrassscissorsdutyticketinitialauctionpatchcousintigerwork
 bip_39_word_no_space_12: surfacebrassscissorsdutyticketinitialauctionpatchcousintigerworkauction
 bip_39_word_no_space_2: surfacebrass
 bip_39_word_no_space_3: surfacebrassscissors
-bip_39_word_no_space_4: surfacebrassscissorsduty
-bip_39_word_no_space_5: surfacebrassscissorsdutyticket
-bip_39_word_no_space_6: surfacebrassscissorsdutyticketinitial
-bip_39_word_no_space_7: surfacebrassscissorsdutyticketinitialauction
-bip_39_word_no_space_8: surfacebrassscissorsdutyticketinitialauctionpatch
-bip_39_word_no_space_9: surfacebrassscissorsdutyticketinitialauctionpatchcousin
-bip_39_word_space_0:
-- surface
-- brass
-- scissors
-- duty
-- ticket
-- initial
-- auction
-- patch
-- cousin
-- tiger
-- work
-- auction
-bip_39_word_space_1: surface
-bip_39_word_space_10: surface brass scissors duty ticket initial auction patch cousin
-  tiger
-bip_39_word_space_11: surface brass scissors duty ticket initial auction patch cousin
-  tiger work
 bip_39_word_space_12: surface brass scissors duty ticket initial auction patch cousin
   tiger work auction
 bip_39_word_space_2: surface brass
 bip_39_word_space_3: surface brass scissors
-bip_39_word_space_4: surface brass scissors duty
-bip_39_word_space_5: surface brass scissors duty ticket
-bip_39_word_space_6: surface brass scissors duty ticket initial
-bip_39_word_space_7: surface brass scissors duty ticket initial auction
-bip_39_word_space_8: surface brass scissors duty ticket initial auction patch
-bip_39_word_space_9: surface brass scissors duty ticket initial auction patch cousin
-bip_39_word_underscore_1: surface
-bip_39_word_underscore_10: surface_brass_scissors_duty_ticket_initial_auction_patch_cousin_tiger
-bip_39_word_underscore_11: surface_brass_scissors_duty_ticket_initial_auction_patch_cousin_tiger_work
 bip_39_word_underscore_12: surface_brass_scissors_duty_ticket_initial_auction_patch_cousin_tiger_work_auction
 bip_39_word_underscore_2: surface_brass
 bip_39_word_underscore_3: surface_brass_scissors
-bip_39_word_underscore_4: surface_brass_scissors_duty
-bip_39_word_underscore_5: surface_brass_scissors_duty_ticket
-bip_39_word_underscore_6: surface_brass_scissors_duty_ticket_initial
-bip_39_word_underscore_7: surface_brass_scissors_duty_ticket_initial_auction
-bip_39_word_underscore_8: surface_brass_scissors_duty_ticket_initial_auction_patch
-bip_39_word_underscore_9: surface_brass_scissors_duty_ticket_initial_auction_patch_cousin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

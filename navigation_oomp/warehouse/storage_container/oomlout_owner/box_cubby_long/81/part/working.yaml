@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trim
-bip_39_word_dash_10: trim-soda-screen-path-drum-random-dry-south-they-peasant
-bip_39_word_dash_11: trim-soda-screen-path-drum-random-dry-south-they-peasant-beach
 bip_39_word_dash_12: trim-soda-screen-path-drum-random-dry-south-they-peasant-beach-acoustic
 bip_39_word_dash_2: trim-soda
 bip_39_word_dash_3: trim-soda-screen
-bip_39_word_dash_4: trim-soda-screen-path
-bip_39_word_dash_5: trim-soda-screen-path-drum
-bip_39_word_dash_6: trim-soda-screen-path-drum-random
-bip_39_word_dash_7: trim-soda-screen-path-drum-random-dry
-bip_39_word_dash_8: trim-soda-screen-path-drum-random-dry-south
-bip_39_word_dash_9: trim-soda-screen-path-drum-random-dry-south-they
-bip_39_word_new_br_1: trim
-bip_39_word_new_br_10: trim<br>soda<br>screen<br>path<br>drum<br>random<br>dry<br>south<br>they<br>peasant
-bip_39_word_new_br_11: trim<br>soda<br>screen<br>path<br>drum<br>random<br>dry<br>south<br>they<br>peasant<br>beach
 bip_39_word_new_br_12: trim<br>soda<br>screen<br>path<br>drum<br>random<br>dry<br>south<br>they<br>peasant<br>beach<br>acoustic
 bip_39_word_new_br_2: trim<br>soda
 bip_39_word_new_br_3: trim<br>soda<br>screen
-bip_39_word_new_br_4: trim<br>soda<br>screen<br>path
-bip_39_word_new_br_5: trim<br>soda<br>screen<br>path<br>drum
-bip_39_word_new_br_6: trim<br>soda<br>screen<br>path<br>drum<br>random
-bip_39_word_new_br_7: trim<br>soda<br>screen<br>path<br>drum<br>random<br>dry
-bip_39_word_new_br_8: trim<br>soda<br>screen<br>path<br>drum<br>random<br>dry<br>south
-bip_39_word_new_br_9: trim<br>soda<br>screen<br>path<br>drum<br>random<br>dry<br>south<br>they
-bip_39_word_new_line_1: trim
-bip_39_word_new_line_10: 'trim
-
-  soda
-
-  screen
-
-  path
-
-  drum
-
-  random
-
-  dry
-
-  south
-
-  they
-
-  peasant'
-bip_39_word_new_line_11: 'trim
-
-  soda
-
-  screen
-
-  path
-
-  drum
-
-  random
-
-  dry
-
-  south
-
-  they
-
-  peasant
-
-  beach'
 bip_39_word_new_line_12: 'trim
 
   soda
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'trim
   soda
 
   screen'
-bip_39_word_new_line_4: 'trim
-
-  soda
-
-  screen
-
-  path'
-bip_39_word_new_line_5: 'trim
-
-  soda
-
-  screen
-
-  path
-
-  drum'
-bip_39_word_new_line_6: 'trim
-
-  soda
-
-  screen
-
-  path
-
-  drum
-
-  random'
-bip_39_word_new_line_7: 'trim
-
-  soda
-
-  screen
-
-  path
-
-  drum
-
-  random
-
-  dry'
-bip_39_word_new_line_8: 'trim
-
-  soda
-
-  screen
-
-  path
-
-  drum
-
-  random
-
-  dry
-
-  south'
-bip_39_word_new_line_9: 'trim
-
-  soda
-
-  screen
-
-  path
-
-  drum
-
-  random
-
-  dry
-
-  south
-
-  they'
-bip_39_word_no_space_1: trim
-bip_39_word_no_space_10: trimsodascreenpathdrumrandomdrysouththeypeasant
-bip_39_word_no_space_11: trimsodascreenpathdrumrandomdrysouththeypeasantbeach
 bip_39_word_no_space_12: trimsodascreenpathdrumrandomdrysouththeypeasantbeachacoustic
 bip_39_word_no_space_2: trimsoda
 bip_39_word_no_space_3: trimsodascreen
-bip_39_word_no_space_4: trimsodascreenpath
-bip_39_word_no_space_5: trimsodascreenpathdrum
-bip_39_word_no_space_6: trimsodascreenpathdrumrandom
-bip_39_word_no_space_7: trimsodascreenpathdrumrandomdry
-bip_39_word_no_space_8: trimsodascreenpathdrumrandomdrysouth
-bip_39_word_no_space_9: trimsodascreenpathdrumrandomdrysouththey
-bip_39_word_space_0:
-- trim
-- soda
-- screen
-- path
-- drum
-- random
-- dry
-- south
-- they
-- peasant
-- beach
-- acoustic
-bip_39_word_space_1: trim
-bip_39_word_space_10: trim soda screen path drum random dry south they peasant
-bip_39_word_space_11: trim soda screen path drum random dry south they peasant beach
 bip_39_word_space_12: trim soda screen path drum random dry south they peasant beach
   acoustic
 bip_39_word_space_2: trim soda
 bip_39_word_space_3: trim soda screen
-bip_39_word_space_4: trim soda screen path
-bip_39_word_space_5: trim soda screen path drum
-bip_39_word_space_6: trim soda screen path drum random
-bip_39_word_space_7: trim soda screen path drum random dry
-bip_39_word_space_8: trim soda screen path drum random dry south
-bip_39_word_space_9: trim soda screen path drum random dry south they
-bip_39_word_underscore_1: trim
-bip_39_word_underscore_10: trim_soda_screen_path_drum_random_dry_south_they_peasant
-bip_39_word_underscore_11: trim_soda_screen_path_drum_random_dry_south_they_peasant_beach
 bip_39_word_underscore_12: trim_soda_screen_path_drum_random_dry_south_they_peasant_beach_acoustic
 bip_39_word_underscore_2: trim_soda
 bip_39_word_underscore_3: trim_soda_screen
-bip_39_word_underscore_4: trim_soda_screen_path
-bip_39_word_underscore_5: trim_soda_screen_path_drum
-bip_39_word_underscore_6: trim_soda_screen_path_drum_random
-bip_39_word_underscore_7: trim_soda_screen_path_drum_random_dry
-bip_39_word_underscore_8: trim_soda_screen_path_drum_random_dry_south
-bip_39_word_underscore_9: trim_soda_screen_path_drum_random_dry_south_they
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

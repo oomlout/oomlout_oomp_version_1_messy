@@ -1,68 +1,9 @@
-bip_39_word_dash_1: unfold
-bip_39_word_dash_10: unfold-acquire-fold-minute-gym-pudding-episode-want-curve-account
-bip_39_word_dash_11: unfold-acquire-fold-minute-gym-pudding-episode-want-curve-account-satoshi
 bip_39_word_dash_12: unfold-acquire-fold-minute-gym-pudding-episode-want-curve-account-satoshi-attack
 bip_39_word_dash_2: unfold-acquire
 bip_39_word_dash_3: unfold-acquire-fold
-bip_39_word_dash_4: unfold-acquire-fold-minute
-bip_39_word_dash_5: unfold-acquire-fold-minute-gym
-bip_39_word_dash_6: unfold-acquire-fold-minute-gym-pudding
-bip_39_word_dash_7: unfold-acquire-fold-minute-gym-pudding-episode
-bip_39_word_dash_8: unfold-acquire-fold-minute-gym-pudding-episode-want
-bip_39_word_dash_9: unfold-acquire-fold-minute-gym-pudding-episode-want-curve
-bip_39_word_new_br_1: unfold
-bip_39_word_new_br_10: unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding<br>episode<br>want<br>curve<br>account
-bip_39_word_new_br_11: unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding<br>episode<br>want<br>curve<br>account<br>satoshi
 bip_39_word_new_br_12: unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding<br>episode<br>want<br>curve<br>account<br>satoshi<br>attack
 bip_39_word_new_br_2: unfold<br>acquire
 bip_39_word_new_br_3: unfold<br>acquire<br>fold
-bip_39_word_new_br_4: unfold<br>acquire<br>fold<br>minute
-bip_39_word_new_br_5: unfold<br>acquire<br>fold<br>minute<br>gym
-bip_39_word_new_br_6: unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding
-bip_39_word_new_br_7: unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding<br>episode
-bip_39_word_new_br_8: unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding<br>episode<br>want
-bip_39_word_new_br_9: unfold<br>acquire<br>fold<br>minute<br>gym<br>pudding<br>episode<br>want<br>curve
-bip_39_word_new_line_1: unfold
-bip_39_word_new_line_10: 'unfold
-
-  acquire
-
-  fold
-
-  minute
-
-  gym
-
-  pudding
-
-  episode
-
-  want
-
-  curve
-
-  account'
-bip_39_word_new_line_11: 'unfold
-
-  acquire
-
-  fold
-
-  minute
-
-  gym
-
-  pudding
-
-  episode
-
-  want
-
-  curve
-
-  account
-
-  satoshi'
 bip_39_word_new_line_12: 'unfold
 
   acquire
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'unfold
   acquire
 
   fold'
-bip_39_word_new_line_4: 'unfold
-
-  acquire
-
-  fold
-
-  minute'
-bip_39_word_new_line_5: 'unfold
-
-  acquire
-
-  fold
-
-  minute
-
-  gym'
-bip_39_word_new_line_6: 'unfold
-
-  acquire
-
-  fold
-
-  minute
-
-  gym
-
-  pudding'
-bip_39_word_new_line_7: 'unfold
-
-  acquire
-
-  fold
-
-  minute
-
-  gym
-
-  pudding
-
-  episode'
-bip_39_word_new_line_8: 'unfold
-
-  acquire
-
-  fold
-
-  minute
-
-  gym
-
-  pudding
-
-  episode
-
-  want'
-bip_39_word_new_line_9: 'unfold
-
-  acquire
-
-  fold
-
-  minute
-
-  gym
-
-  pudding
-
-  episode
-
-  want
-
-  curve'
-bip_39_word_no_space_1: unfold
-bip_39_word_no_space_10: unfoldacquirefoldminutegympuddingepisodewantcurveaccount
-bip_39_word_no_space_11: unfoldacquirefoldminutegympuddingepisodewantcurveaccountsatoshi
 bip_39_word_no_space_12: unfoldacquirefoldminutegympuddingepisodewantcurveaccountsatoshiattack
 bip_39_word_no_space_2: unfoldacquire
 bip_39_word_no_space_3: unfoldacquirefold
-bip_39_word_no_space_4: unfoldacquirefoldminute
-bip_39_word_no_space_5: unfoldacquirefoldminutegym
-bip_39_word_no_space_6: unfoldacquirefoldminutegympudding
-bip_39_word_no_space_7: unfoldacquirefoldminutegympuddingepisode
-bip_39_word_no_space_8: unfoldacquirefoldminutegympuddingepisodewant
-bip_39_word_no_space_9: unfoldacquirefoldminutegympuddingepisodewantcurve
-bip_39_word_space_0:
-- unfold
-- acquire
-- fold
-- minute
-- gym
-- pudding
-- episode
-- want
-- curve
-- account
-- satoshi
-- attack
-bip_39_word_space_1: unfold
-bip_39_word_space_10: unfold acquire fold minute gym pudding episode want curve account
-bip_39_word_space_11: unfold acquire fold minute gym pudding episode want curve account
-  satoshi
 bip_39_word_space_12: unfold acquire fold minute gym pudding episode want curve account
   satoshi attack
 bip_39_word_space_2: unfold acquire
 bip_39_word_space_3: unfold acquire fold
-bip_39_word_space_4: unfold acquire fold minute
-bip_39_word_space_5: unfold acquire fold minute gym
-bip_39_word_space_6: unfold acquire fold minute gym pudding
-bip_39_word_space_7: unfold acquire fold minute gym pudding episode
-bip_39_word_space_8: unfold acquire fold minute gym pudding episode want
-bip_39_word_space_9: unfold acquire fold minute gym pudding episode want curve
-bip_39_word_underscore_1: unfold
-bip_39_word_underscore_10: unfold_acquire_fold_minute_gym_pudding_episode_want_curve_account
-bip_39_word_underscore_11: unfold_acquire_fold_minute_gym_pudding_episode_want_curve_account_satoshi
 bip_39_word_underscore_12: unfold_acquire_fold_minute_gym_pudding_episode_want_curve_account_satoshi_attack
 bip_39_word_underscore_2: unfold_acquire
 bip_39_word_underscore_3: unfold_acquire_fold
-bip_39_word_underscore_4: unfold_acquire_fold_minute
-bip_39_word_underscore_5: unfold_acquire_fold_minute_gym
-bip_39_word_underscore_6: unfold_acquire_fold_minute_gym_pudding
-bip_39_word_underscore_7: unfold_acquire_fold_minute_gym_pudding_episode
-bip_39_word_underscore_8: unfold_acquire_fold_minute_gym_pudding_episode_want
-bip_39_word_underscore_9: unfold_acquire_fold_minute_gym_pudding_episode_want_curve
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

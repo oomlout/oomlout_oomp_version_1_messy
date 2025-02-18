@@ -49,7 +49,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696) [link_distributor_amazon](https://www.amazon.co.uk/gp/product/B000Y8W54C)                            
 
 #### price
 
@@ -81,6 +81,11 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
 | link_2_name | link_github |  
+| link_3 | https://www.amazon.co.uk/gp/product/B000Y8W54C |  
+| link_3_name | link_distributor_amazon |  
+| link_buy_1 | https://www.amazon.co.uk/gp/product/B000Y8W54C |  
+| link_buy_1_name | link_distributor_amazon |  
+| link_distributor_amazon | https://www.amazon.co.uk/gp/product/B000Y8W54C |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202xccs |  
@@ -99,6 +104,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6 | 4afecc |  
 | md5_6_alpha | 2xccs |  
 | name | Tool Measure Tape Measure 5000 mm Length Stanley 1 30 696 |  
+| oobb_tool_holder_depth | 42 |  
+| oobb_tool_holder_height | 74 |  
+| oobb_tool_holder_shape | cube |  
+| oobb_tool_holder_width | 78 |  
 | oomlout_detail_hierarchy_1 | tool |  
 | oomlout_detail_hierarchy_2 | measure_tape_measure |  
 | oomlout_detail_hierarchy_3 | 5000_mm_length |  
@@ -111,7 +120,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':chicken:', ':recycle:', ':watermelon:'] |  
 | oomp_word_list | ['chicken', 'recycle', 'watermelon'] |  
 | part_number | 1_30_696 |  
-| part_number_esact | 1-30-696 |  
+| part_number_distributor_amazon | B000Y8W54C |  
+| part_number_exact | 1-30-696 |  
 | part_number_name | 1 30 696 |  
 | short_code |  |  
 | size | 5000_mm_length |  

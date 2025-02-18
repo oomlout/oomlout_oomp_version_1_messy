@@ -1,68 +1,9 @@
-bip_39_word_dash_1: amount
-bip_39_word_dash_10: amount-increase-penalty-zero-glance-horse-pride-regular-clutch-barrel
-bip_39_word_dash_11: amount-increase-penalty-zero-glance-horse-pride-regular-clutch-barrel-hello
 bip_39_word_dash_12: amount-increase-penalty-zero-glance-horse-pride-regular-clutch-barrel-hello-alpha
 bip_39_word_dash_2: amount-increase
 bip_39_word_dash_3: amount-increase-penalty
-bip_39_word_dash_4: amount-increase-penalty-zero
-bip_39_word_dash_5: amount-increase-penalty-zero-glance
-bip_39_word_dash_6: amount-increase-penalty-zero-glance-horse
-bip_39_word_dash_7: amount-increase-penalty-zero-glance-horse-pride
-bip_39_word_dash_8: amount-increase-penalty-zero-glance-horse-pride-regular
-bip_39_word_dash_9: amount-increase-penalty-zero-glance-horse-pride-regular-clutch
-bip_39_word_new_br_1: amount
-bip_39_word_new_br_10: amount<br>increase<br>penalty<br>zero<br>glance<br>horse<br>pride<br>regular<br>clutch<br>barrel
-bip_39_word_new_br_11: amount<br>increase<br>penalty<br>zero<br>glance<br>horse<br>pride<br>regular<br>clutch<br>barrel<br>hello
 bip_39_word_new_br_12: amount<br>increase<br>penalty<br>zero<br>glance<br>horse<br>pride<br>regular<br>clutch<br>barrel<br>hello<br>alpha
 bip_39_word_new_br_2: amount<br>increase
 bip_39_word_new_br_3: amount<br>increase<br>penalty
-bip_39_word_new_br_4: amount<br>increase<br>penalty<br>zero
-bip_39_word_new_br_5: amount<br>increase<br>penalty<br>zero<br>glance
-bip_39_word_new_br_6: amount<br>increase<br>penalty<br>zero<br>glance<br>horse
-bip_39_word_new_br_7: amount<br>increase<br>penalty<br>zero<br>glance<br>horse<br>pride
-bip_39_word_new_br_8: amount<br>increase<br>penalty<br>zero<br>glance<br>horse<br>pride<br>regular
-bip_39_word_new_br_9: amount<br>increase<br>penalty<br>zero<br>glance<br>horse<br>pride<br>regular<br>clutch
-bip_39_word_new_line_1: amount
-bip_39_word_new_line_10: 'amount
-
-  increase
-
-  penalty
-
-  zero
-
-  glance
-
-  horse
-
-  pride
-
-  regular
-
-  clutch
-
-  barrel'
-bip_39_word_new_line_11: 'amount
-
-  increase
-
-  penalty
-
-  zero
-
-  glance
-
-  horse
-
-  pride
-
-  regular
-
-  clutch
-
-  barrel
-
-  hello'
 bip_39_word_new_line_12: 'amount
 
   increase
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'amount
   increase
 
   penalty'
-bip_39_word_new_line_4: 'amount
-
-  increase
-
-  penalty
-
-  zero'
-bip_39_word_new_line_5: 'amount
-
-  increase
-
-  penalty
-
-  zero
-
-  glance'
-bip_39_word_new_line_6: 'amount
-
-  increase
-
-  penalty
-
-  zero
-
-  glance
-
-  horse'
-bip_39_word_new_line_7: 'amount
-
-  increase
-
-  penalty
-
-  zero
-
-  glance
-
-  horse
-
-  pride'
-bip_39_word_new_line_8: 'amount
-
-  increase
-
-  penalty
-
-  zero
-
-  glance
-
-  horse
-
-  pride
-
-  regular'
-bip_39_word_new_line_9: 'amount
-
-  increase
-
-  penalty
-
-  zero
-
-  glance
-
-  horse
-
-  pride
-
-  regular
-
-  clutch'
-bip_39_word_no_space_1: amount
-bip_39_word_no_space_10: amountincreasepenaltyzeroglancehorseprideregularclutchbarrel
-bip_39_word_no_space_11: amountincreasepenaltyzeroglancehorseprideregularclutchbarrelhello
 bip_39_word_no_space_12: amountincreasepenaltyzeroglancehorseprideregularclutchbarrelhelloalpha
 bip_39_word_no_space_2: amountincrease
 bip_39_word_no_space_3: amountincreasepenalty
-bip_39_word_no_space_4: amountincreasepenaltyzero
-bip_39_word_no_space_5: amountincreasepenaltyzeroglance
-bip_39_word_no_space_6: amountincreasepenaltyzeroglancehorse
-bip_39_word_no_space_7: amountincreasepenaltyzeroglancehorsepride
-bip_39_word_no_space_8: amountincreasepenaltyzeroglancehorseprideregular
-bip_39_word_no_space_9: amountincreasepenaltyzeroglancehorseprideregularclutch
-bip_39_word_space_0:
-- amount
-- increase
-- penalty
-- zero
-- glance
-- horse
-- pride
-- regular
-- clutch
-- barrel
-- hello
-- alpha
-bip_39_word_space_1: amount
-bip_39_word_space_10: amount increase penalty zero glance horse pride regular clutch
-  barrel
-bip_39_word_space_11: amount increase penalty zero glance horse pride regular clutch
-  barrel hello
 bip_39_word_space_12: amount increase penalty zero glance horse pride regular clutch
   barrel hello alpha
 bip_39_word_space_2: amount increase
 bip_39_word_space_3: amount increase penalty
-bip_39_word_space_4: amount increase penalty zero
-bip_39_word_space_5: amount increase penalty zero glance
-bip_39_word_space_6: amount increase penalty zero glance horse
-bip_39_word_space_7: amount increase penalty zero glance horse pride
-bip_39_word_space_8: amount increase penalty zero glance horse pride regular
-bip_39_word_space_9: amount increase penalty zero glance horse pride regular clutch
-bip_39_word_underscore_1: amount
-bip_39_word_underscore_10: amount_increase_penalty_zero_glance_horse_pride_regular_clutch_barrel
-bip_39_word_underscore_11: amount_increase_penalty_zero_glance_horse_pride_regular_clutch_barrel_hello
 bip_39_word_underscore_12: amount_increase_penalty_zero_glance_horse_pride_regular_clutch_barrel_hello_alpha
 bip_39_word_underscore_2: amount_increase
 bip_39_word_underscore_3: amount_increase_penalty
-bip_39_word_underscore_4: amount_increase_penalty_zero
-bip_39_word_underscore_5: amount_increase_penalty_zero_glance
-bip_39_word_underscore_6: amount_increase_penalty_zero_glance_horse
-bip_39_word_underscore_7: amount_increase_penalty_zero_glance_horse_pride
-bip_39_word_underscore_8: amount_increase_penalty_zero_glance_horse_pride_regular
-bip_39_word_underscore_9: amount_increase_penalty_zero_glance_horse_pride_regular_clutch
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

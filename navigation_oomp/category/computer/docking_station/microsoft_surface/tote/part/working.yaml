@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phrase
-bip_39_word_dash_10: phrase-theory-maid-situate-soup-buzz-arrest-dose-river-about
-bip_39_word_dash_11: phrase-theory-maid-situate-soup-buzz-arrest-dose-river-about-prefer
 bip_39_word_dash_12: phrase-theory-maid-situate-soup-buzz-arrest-dose-river-about-prefer-afford
 bip_39_word_dash_2: phrase-theory
 bip_39_word_dash_3: phrase-theory-maid
-bip_39_word_dash_4: phrase-theory-maid-situate
-bip_39_word_dash_5: phrase-theory-maid-situate-soup
-bip_39_word_dash_6: phrase-theory-maid-situate-soup-buzz
-bip_39_word_dash_7: phrase-theory-maid-situate-soup-buzz-arrest
-bip_39_word_dash_8: phrase-theory-maid-situate-soup-buzz-arrest-dose
-bip_39_word_dash_9: phrase-theory-maid-situate-soup-buzz-arrest-dose-river
-bip_39_word_new_br_1: phrase
-bip_39_word_new_br_10: phrase<br>theory<br>maid<br>situate<br>soup<br>buzz<br>arrest<br>dose<br>river<br>about
-bip_39_word_new_br_11: phrase<br>theory<br>maid<br>situate<br>soup<br>buzz<br>arrest<br>dose<br>river<br>about<br>prefer
 bip_39_word_new_br_12: phrase<br>theory<br>maid<br>situate<br>soup<br>buzz<br>arrest<br>dose<br>river<br>about<br>prefer<br>afford
 bip_39_word_new_br_2: phrase<br>theory
 bip_39_word_new_br_3: phrase<br>theory<br>maid
-bip_39_word_new_br_4: phrase<br>theory<br>maid<br>situate
-bip_39_word_new_br_5: phrase<br>theory<br>maid<br>situate<br>soup
-bip_39_word_new_br_6: phrase<br>theory<br>maid<br>situate<br>soup<br>buzz
-bip_39_word_new_br_7: phrase<br>theory<br>maid<br>situate<br>soup<br>buzz<br>arrest
-bip_39_word_new_br_8: phrase<br>theory<br>maid<br>situate<br>soup<br>buzz<br>arrest<br>dose
-bip_39_word_new_br_9: phrase<br>theory<br>maid<br>situate<br>soup<br>buzz<br>arrest<br>dose<br>river
-bip_39_word_new_line_1: phrase
-bip_39_word_new_line_10: 'phrase
-
-  theory
-
-  maid
-
-  situate
-
-  soup
-
-  buzz
-
-  arrest
-
-  dose
-
-  river
-
-  about'
-bip_39_word_new_line_11: 'phrase
-
-  theory
-
-  maid
-
-  situate
-
-  soup
-
-  buzz
-
-  arrest
-
-  dose
-
-  river
-
-  about
-
-  prefer'
 bip_39_word_new_line_12: 'phrase
 
   theory
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'phrase
   theory
 
   maid'
-bip_39_word_new_line_4: 'phrase
-
-  theory
-
-  maid
-
-  situate'
-bip_39_word_new_line_5: 'phrase
-
-  theory
-
-  maid
-
-  situate
-
-  soup'
-bip_39_word_new_line_6: 'phrase
-
-  theory
-
-  maid
-
-  situate
-
-  soup
-
-  buzz'
-bip_39_word_new_line_7: 'phrase
-
-  theory
-
-  maid
-
-  situate
-
-  soup
-
-  buzz
-
-  arrest'
-bip_39_word_new_line_8: 'phrase
-
-  theory
-
-  maid
-
-  situate
-
-  soup
-
-  buzz
-
-  arrest
-
-  dose'
-bip_39_word_new_line_9: 'phrase
-
-  theory
-
-  maid
-
-  situate
-
-  soup
-
-  buzz
-
-  arrest
-
-  dose
-
-  river'
-bip_39_word_no_space_1: phrase
-bip_39_word_no_space_10: phrasetheorymaidsituatesoupbuzzarrestdoseriverabout
-bip_39_word_no_space_11: phrasetheorymaidsituatesoupbuzzarrestdoseriveraboutprefer
 bip_39_word_no_space_12: phrasetheorymaidsituatesoupbuzzarrestdoseriveraboutpreferafford
 bip_39_word_no_space_2: phrasetheory
 bip_39_word_no_space_3: phrasetheorymaid
-bip_39_word_no_space_4: phrasetheorymaidsituate
-bip_39_word_no_space_5: phrasetheorymaidsituatesoup
-bip_39_word_no_space_6: phrasetheorymaidsituatesoupbuzz
-bip_39_word_no_space_7: phrasetheorymaidsituatesoupbuzzarrest
-bip_39_word_no_space_8: phrasetheorymaidsituatesoupbuzzarrestdose
-bip_39_word_no_space_9: phrasetheorymaidsituatesoupbuzzarrestdoseriver
-bip_39_word_space_0:
-- phrase
-- theory
-- maid
-- situate
-- soup
-- buzz
-- arrest
-- dose
-- river
-- about
-- prefer
-- afford
-bip_39_word_space_1: phrase
-bip_39_word_space_10: phrase theory maid situate soup buzz arrest dose river about
-bip_39_word_space_11: phrase theory maid situate soup buzz arrest dose river about
-  prefer
 bip_39_word_space_12: phrase theory maid situate soup buzz arrest dose river about
   prefer afford
 bip_39_word_space_2: phrase theory
 bip_39_word_space_3: phrase theory maid
-bip_39_word_space_4: phrase theory maid situate
-bip_39_word_space_5: phrase theory maid situate soup
-bip_39_word_space_6: phrase theory maid situate soup buzz
-bip_39_word_space_7: phrase theory maid situate soup buzz arrest
-bip_39_word_space_8: phrase theory maid situate soup buzz arrest dose
-bip_39_word_space_9: phrase theory maid situate soup buzz arrest dose river
-bip_39_word_underscore_1: phrase
-bip_39_word_underscore_10: phrase_theory_maid_situate_soup_buzz_arrest_dose_river_about
-bip_39_word_underscore_11: phrase_theory_maid_situate_soup_buzz_arrest_dose_river_about_prefer
 bip_39_word_underscore_12: phrase_theory_maid_situate_soup_buzz_arrest_dose_river_about_prefer_afford
 bip_39_word_underscore_2: phrase_theory
 bip_39_word_underscore_3: phrase_theory_maid
-bip_39_word_underscore_4: phrase_theory_maid_situate
-bip_39_word_underscore_5: phrase_theory_maid_situate_soup
-bip_39_word_underscore_6: phrase_theory_maid_situate_soup_buzz
-bip_39_word_underscore_7: phrase_theory_maid_situate_soup_buzz_arrest
-bip_39_word_underscore_8: phrase_theory_maid_situate_soup_buzz_arrest_dose
-bip_39_word_underscore_9: phrase_theory_maid_situate_soup_buzz_arrest_dose_river
 classification: category
 classification_capital: Category
 classification_first_letter: c

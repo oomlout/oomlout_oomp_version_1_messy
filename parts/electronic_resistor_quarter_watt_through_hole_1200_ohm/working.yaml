@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flee
-bip_39_word_dash_10: flee-client-call-first-because-large-find-gap-sunny-unhappy
-bip_39_word_dash_11: flee-client-call-first-because-large-find-gap-sunny-unhappy-custom
 bip_39_word_dash_12: flee-client-call-first-because-large-find-gap-sunny-unhappy-custom-arrive
 bip_39_word_dash_2: flee-client
 bip_39_word_dash_3: flee-client-call
-bip_39_word_dash_4: flee-client-call-first
-bip_39_word_dash_5: flee-client-call-first-because
-bip_39_word_dash_6: flee-client-call-first-because-large
-bip_39_word_dash_7: flee-client-call-first-because-large-find
-bip_39_word_dash_8: flee-client-call-first-because-large-find-gap
-bip_39_word_dash_9: flee-client-call-first-because-large-find-gap-sunny
-bip_39_word_new_br_1: flee
-bip_39_word_new_br_10: flee<br>client<br>call<br>first<br>because<br>large<br>find<br>gap<br>sunny<br>unhappy
-bip_39_word_new_br_11: flee<br>client<br>call<br>first<br>because<br>large<br>find<br>gap<br>sunny<br>unhappy<br>custom
 bip_39_word_new_br_12: flee<br>client<br>call<br>first<br>because<br>large<br>find<br>gap<br>sunny<br>unhappy<br>custom<br>arrive
 bip_39_word_new_br_2: flee<br>client
 bip_39_word_new_br_3: flee<br>client<br>call
-bip_39_word_new_br_4: flee<br>client<br>call<br>first
-bip_39_word_new_br_5: flee<br>client<br>call<br>first<br>because
-bip_39_word_new_br_6: flee<br>client<br>call<br>first<br>because<br>large
-bip_39_word_new_br_7: flee<br>client<br>call<br>first<br>because<br>large<br>find
-bip_39_word_new_br_8: flee<br>client<br>call<br>first<br>because<br>large<br>find<br>gap
-bip_39_word_new_br_9: flee<br>client<br>call<br>first<br>because<br>large<br>find<br>gap<br>sunny
-bip_39_word_new_line_1: flee
-bip_39_word_new_line_10: 'flee
-
-  client
-
-  call
-
-  first
-
-  because
-
-  large
-
-  find
-
-  gap
-
-  sunny
-
-  unhappy'
-bip_39_word_new_line_11: 'flee
-
-  client
-
-  call
-
-  first
-
-  because
-
-  large
-
-  find
-
-  gap
-
-  sunny
-
-  unhappy
-
-  custom'
 bip_39_word_new_line_12: 'flee
 
   client
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'flee
   client
 
   call'
-bip_39_word_new_line_4: 'flee
-
-  client
-
-  call
-
-  first'
-bip_39_word_new_line_5: 'flee
-
-  client
-
-  call
-
-  first
-
-  because'
-bip_39_word_new_line_6: 'flee
-
-  client
-
-  call
-
-  first
-
-  because
-
-  large'
-bip_39_word_new_line_7: 'flee
-
-  client
-
-  call
-
-  first
-
-  because
-
-  large
-
-  find'
-bip_39_word_new_line_8: 'flee
-
-  client
-
-  call
-
-  first
-
-  because
-
-  large
-
-  find
-
-  gap'
-bip_39_word_new_line_9: 'flee
-
-  client
-
-  call
-
-  first
-
-  because
-
-  large
-
-  find
-
-  gap
-
-  sunny'
-bip_39_word_no_space_1: flee
-bip_39_word_no_space_10: fleeclientcallfirstbecauselargefindgapsunnyunhappy
-bip_39_word_no_space_11: fleeclientcallfirstbecauselargefindgapsunnyunhappycustom
 bip_39_word_no_space_12: fleeclientcallfirstbecauselargefindgapsunnyunhappycustomarrive
 bip_39_word_no_space_2: fleeclient
 bip_39_word_no_space_3: fleeclientcall
-bip_39_word_no_space_4: fleeclientcallfirst
-bip_39_word_no_space_5: fleeclientcallfirstbecause
-bip_39_word_no_space_6: fleeclientcallfirstbecauselarge
-bip_39_word_no_space_7: fleeclientcallfirstbecauselargefind
-bip_39_word_no_space_8: fleeclientcallfirstbecauselargefindgap
-bip_39_word_no_space_9: fleeclientcallfirstbecauselargefindgapsunny
-bip_39_word_space_0:
-- flee
-- client
-- call
-- first
-- because
-- large
-- find
-- gap
-- sunny
-- unhappy
-- custom
-- arrive
-bip_39_word_space_1: flee
-bip_39_word_space_10: flee client call first because large find gap sunny unhappy
-bip_39_word_space_11: flee client call first because large find gap sunny unhappy
-  custom
 bip_39_word_space_12: flee client call first because large find gap sunny unhappy
   custom arrive
 bip_39_word_space_2: flee client
 bip_39_word_space_3: flee client call
-bip_39_word_space_4: flee client call first
-bip_39_word_space_5: flee client call first because
-bip_39_word_space_6: flee client call first because large
-bip_39_word_space_7: flee client call first because large find
-bip_39_word_space_8: flee client call first because large find gap
-bip_39_word_space_9: flee client call first because large find gap sunny
-bip_39_word_underscore_1: flee
-bip_39_word_underscore_10: flee_client_call_first_because_large_find_gap_sunny_unhappy
-bip_39_word_underscore_11: flee_client_call_first_because_large_find_gap_sunny_unhappy_custom
 bip_39_word_underscore_12: flee_client_call_first_because_large_find_gap_sunny_unhappy_custom_arrive
 bip_39_word_underscore_2: flee_client
 bip_39_word_underscore_3: flee_client_call
-bip_39_word_underscore_4: flee_client_call_first
-bip_39_word_underscore_5: flee_client_call_first_because
-bip_39_word_underscore_6: flee_client_call_first_because_large
-bip_39_word_underscore_7: flee_client_call_first_because_large_find
-bip_39_word_underscore_8: flee_client_call_first_because_large_find_gap
-bip_39_word_underscore_9: flee_client_call_first_because_large_find_gap_sunny
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

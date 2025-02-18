@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420696463'
-bip_39_word_dash_1: model
-bip_39_word_dash_10: model-staff-music-there-wheat-orient-blouse-test-famous-matrix
-bip_39_word_dash_11: model-staff-music-there-wheat-orient-blouse-test-famous-matrix-blade
 bip_39_word_dash_12: model-staff-music-there-wheat-orient-blouse-test-famous-matrix-blade-autumn
 bip_39_word_dash_2: model-staff
 bip_39_word_dash_3: model-staff-music
-bip_39_word_dash_4: model-staff-music-there
-bip_39_word_dash_5: model-staff-music-there-wheat
-bip_39_word_dash_6: model-staff-music-there-wheat-orient
-bip_39_word_dash_7: model-staff-music-there-wheat-orient-blouse
-bip_39_word_dash_8: model-staff-music-there-wheat-orient-blouse-test
-bip_39_word_dash_9: model-staff-music-there-wheat-orient-blouse-test-famous
-bip_39_word_new_br_1: model
-bip_39_word_new_br_10: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous<br>matrix
-bip_39_word_new_br_11: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous<br>matrix<br>blade
 bip_39_word_new_br_12: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous<br>matrix<br>blade<br>autumn
 bip_39_word_new_br_2: model<br>staff
 bip_39_word_new_br_3: model<br>staff<br>music
-bip_39_word_new_br_4: model<br>staff<br>music<br>there
-bip_39_word_new_br_5: model<br>staff<br>music<br>there<br>wheat
-bip_39_word_new_br_6: model<br>staff<br>music<br>there<br>wheat<br>orient
-bip_39_word_new_br_7: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse
-bip_39_word_new_br_8: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test
-bip_39_word_new_br_9: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous
-bip_39_word_new_line_1: model
-bip_39_word_new_line_10: 'model
-
-  staff
-
-  music
-
-  there
-
-  wheat
-
-  orient
-
-  blouse
-
-  test
-
-  famous
-
-  matrix'
-bip_39_word_new_line_11: 'model
-
-  staff
-
-  music
-
-  there
-
-  wheat
-
-  orient
-
-  blouse
-
-  test
-
-  famous
-
-  matrix
-
-  blade'
 bip_39_word_new_line_12: 'model
 
   staff
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'model
   staff
 
   music'
-bip_39_word_new_line_4: 'model
-
-  staff
-
-  music
-
-  there'
-bip_39_word_new_line_5: 'model
-
-  staff
-
-  music
-
-  there
-
-  wheat'
-bip_39_word_new_line_6: 'model
-
-  staff
-
-  music
-
-  there
-
-  wheat
-
-  orient'
-bip_39_word_new_line_7: 'model
-
-  staff
-
-  music
-
-  there
-
-  wheat
-
-  orient
-
-  blouse'
-bip_39_word_new_line_8: 'model
-
-  staff
-
-  music
-
-  there
-
-  wheat
-
-  orient
-
-  blouse
-
-  test'
-bip_39_word_new_line_9: 'model
-
-  staff
-
-  music
-
-  there
-
-  wheat
-
-  orient
-
-  blouse
-
-  test
-
-  famous'
-bip_39_word_no_space_1: model
-bip_39_word_no_space_10: modelstaffmusictherewheatorientblousetestfamousmatrix
-bip_39_word_no_space_11: modelstaffmusictherewheatorientblousetestfamousmatrixblade
 bip_39_word_no_space_12: modelstaffmusictherewheatorientblousetestfamousmatrixbladeautumn
 bip_39_word_no_space_2: modelstaff
 bip_39_word_no_space_3: modelstaffmusic
-bip_39_word_no_space_4: modelstaffmusicthere
-bip_39_word_no_space_5: modelstaffmusictherewheat
-bip_39_word_no_space_6: modelstaffmusictherewheatorient
-bip_39_word_no_space_7: modelstaffmusictherewheatorientblouse
-bip_39_word_no_space_8: modelstaffmusictherewheatorientblousetest
-bip_39_word_no_space_9: modelstaffmusictherewheatorientblousetestfamous
-bip_39_word_space_0:
-- model
-- staff
-- music
-- there
-- wheat
-- orient
-- blouse
-- test
-- famous
-- matrix
-- blade
-- autumn
-bip_39_word_space_1: model
-bip_39_word_space_10: model staff music there wheat orient blouse test famous matrix
-bip_39_word_space_11: model staff music there wheat orient blouse test famous matrix
-  blade
 bip_39_word_space_12: model staff music there wheat orient blouse test famous matrix
   blade autumn
 bip_39_word_space_2: model staff
 bip_39_word_space_3: model staff music
-bip_39_word_space_4: model staff music there
-bip_39_word_space_5: model staff music there wheat
-bip_39_word_space_6: model staff music there wheat orient
-bip_39_word_space_7: model staff music there wheat orient blouse
-bip_39_word_space_8: model staff music there wheat orient blouse test
-bip_39_word_space_9: model staff music there wheat orient blouse test famous
-bip_39_word_underscore_1: model
-bip_39_word_underscore_10: model_staff_music_there_wheat_orient_blouse_test_famous_matrix
-bip_39_word_underscore_11: model_staff_music_there_wheat_orient_blouse_test_famous_matrix_blade
 bip_39_word_underscore_12: model_staff_music_there_wheat_orient_blouse_test_famous_matrix_blade_autumn
 bip_39_word_underscore_2: model_staff
 bip_39_word_underscore_3: model_staff_music
-bip_39_word_underscore_4: model_staff_music_there
-bip_39_word_underscore_5: model_staff_music_there_wheat
-bip_39_word_underscore_6: model_staff_music_there_wheat_orient
-bip_39_word_underscore_7: model_staff_music_there_wheat_orient_blouse
-bip_39_word_underscore_8: model_staff_music_there_wheat_orient_blouse_test
-bip_39_word_underscore_9: model_staff_music_there_wheat_orient_blouse_test_famous
 box_of_box_size_manufacturer_metalmate: '800'
 box_size_manufacturer_metalmate: '100'
 classification: hardware

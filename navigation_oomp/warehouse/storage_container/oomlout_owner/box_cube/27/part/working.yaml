@@ -1,68 +1,9 @@
-bip_39_word_dash_1: captain
-bip_39_word_dash_10: captain-audit-jealous-hurry-mechanic-dad-slight-cruise-popular-potato
-bip_39_word_dash_11: captain-audit-jealous-hurry-mechanic-dad-slight-cruise-popular-potato-flush
 bip_39_word_dash_12: captain-audit-jealous-hurry-mechanic-dad-slight-cruise-popular-potato-flush-answer
 bip_39_word_dash_2: captain-audit
 bip_39_word_dash_3: captain-audit-jealous
-bip_39_word_dash_4: captain-audit-jealous-hurry
-bip_39_word_dash_5: captain-audit-jealous-hurry-mechanic
-bip_39_word_dash_6: captain-audit-jealous-hurry-mechanic-dad
-bip_39_word_dash_7: captain-audit-jealous-hurry-mechanic-dad-slight
-bip_39_word_dash_8: captain-audit-jealous-hurry-mechanic-dad-slight-cruise
-bip_39_word_dash_9: captain-audit-jealous-hurry-mechanic-dad-slight-cruise-popular
-bip_39_word_new_br_1: captain
-bip_39_word_new_br_10: captain<br>audit<br>jealous<br>hurry<br>mechanic<br>dad<br>slight<br>cruise<br>popular<br>potato
-bip_39_word_new_br_11: captain<br>audit<br>jealous<br>hurry<br>mechanic<br>dad<br>slight<br>cruise<br>popular<br>potato<br>flush
 bip_39_word_new_br_12: captain<br>audit<br>jealous<br>hurry<br>mechanic<br>dad<br>slight<br>cruise<br>popular<br>potato<br>flush<br>answer
 bip_39_word_new_br_2: captain<br>audit
 bip_39_word_new_br_3: captain<br>audit<br>jealous
-bip_39_word_new_br_4: captain<br>audit<br>jealous<br>hurry
-bip_39_word_new_br_5: captain<br>audit<br>jealous<br>hurry<br>mechanic
-bip_39_word_new_br_6: captain<br>audit<br>jealous<br>hurry<br>mechanic<br>dad
-bip_39_word_new_br_7: captain<br>audit<br>jealous<br>hurry<br>mechanic<br>dad<br>slight
-bip_39_word_new_br_8: captain<br>audit<br>jealous<br>hurry<br>mechanic<br>dad<br>slight<br>cruise
-bip_39_word_new_br_9: captain<br>audit<br>jealous<br>hurry<br>mechanic<br>dad<br>slight<br>cruise<br>popular
-bip_39_word_new_line_1: captain
-bip_39_word_new_line_10: 'captain
-
-  audit
-
-  jealous
-
-  hurry
-
-  mechanic
-
-  dad
-
-  slight
-
-  cruise
-
-  popular
-
-  potato'
-bip_39_word_new_line_11: 'captain
-
-  audit
-
-  jealous
-
-  hurry
-
-  mechanic
-
-  dad
-
-  slight
-
-  cruise
-
-  popular
-
-  potato
-
-  flush'
 bip_39_word_new_line_12: 'captain
 
   audit
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'captain
   audit
 
   jealous'
-bip_39_word_new_line_4: 'captain
-
-  audit
-
-  jealous
-
-  hurry'
-bip_39_word_new_line_5: 'captain
-
-  audit
-
-  jealous
-
-  hurry
-
-  mechanic'
-bip_39_word_new_line_6: 'captain
-
-  audit
-
-  jealous
-
-  hurry
-
-  mechanic
-
-  dad'
-bip_39_word_new_line_7: 'captain
-
-  audit
-
-  jealous
-
-  hurry
-
-  mechanic
-
-  dad
-
-  slight'
-bip_39_word_new_line_8: 'captain
-
-  audit
-
-  jealous
-
-  hurry
-
-  mechanic
-
-  dad
-
-  slight
-
-  cruise'
-bip_39_word_new_line_9: 'captain
-
-  audit
-
-  jealous
-
-  hurry
-
-  mechanic
-
-  dad
-
-  slight
-
-  cruise
-
-  popular'
-bip_39_word_no_space_1: captain
-bip_39_word_no_space_10: captainauditjealoushurrymechanicdadslightcruisepopularpotato
-bip_39_word_no_space_11: captainauditjealoushurrymechanicdadslightcruisepopularpotatoflush
 bip_39_word_no_space_12: captainauditjealoushurrymechanicdadslightcruisepopularpotatoflushanswer
 bip_39_word_no_space_2: captainaudit
 bip_39_word_no_space_3: captainauditjealous
-bip_39_word_no_space_4: captainauditjealoushurry
-bip_39_word_no_space_5: captainauditjealoushurrymechanic
-bip_39_word_no_space_6: captainauditjealoushurrymechanicdad
-bip_39_word_no_space_7: captainauditjealoushurrymechanicdadslight
-bip_39_word_no_space_8: captainauditjealoushurrymechanicdadslightcruise
-bip_39_word_no_space_9: captainauditjealoushurrymechanicdadslightcruisepopular
-bip_39_word_space_0:
-- captain
-- audit
-- jealous
-- hurry
-- mechanic
-- dad
-- slight
-- cruise
-- popular
-- potato
-- flush
-- answer
-bip_39_word_space_1: captain
-bip_39_word_space_10: captain audit jealous hurry mechanic dad slight cruise popular
-  potato
-bip_39_word_space_11: captain audit jealous hurry mechanic dad slight cruise popular
-  potato flush
 bip_39_word_space_12: captain audit jealous hurry mechanic dad slight cruise popular
   potato flush answer
 bip_39_word_space_2: captain audit
 bip_39_word_space_3: captain audit jealous
-bip_39_word_space_4: captain audit jealous hurry
-bip_39_word_space_5: captain audit jealous hurry mechanic
-bip_39_word_space_6: captain audit jealous hurry mechanic dad
-bip_39_word_space_7: captain audit jealous hurry mechanic dad slight
-bip_39_word_space_8: captain audit jealous hurry mechanic dad slight cruise
-bip_39_word_space_9: captain audit jealous hurry mechanic dad slight cruise popular
-bip_39_word_underscore_1: captain
-bip_39_word_underscore_10: captain_audit_jealous_hurry_mechanic_dad_slight_cruise_popular_potato
-bip_39_word_underscore_11: captain_audit_jealous_hurry_mechanic_dad_slight_cruise_popular_potato_flush
 bip_39_word_underscore_12: captain_audit_jealous_hurry_mechanic_dad_slight_cruise_popular_potato_flush_answer
 bip_39_word_underscore_2: captain_audit
 bip_39_word_underscore_3: captain_audit_jealous
-bip_39_word_underscore_4: captain_audit_jealous_hurry
-bip_39_word_underscore_5: captain_audit_jealous_hurry_mechanic
-bip_39_word_underscore_6: captain_audit_jealous_hurry_mechanic_dad
-bip_39_word_underscore_7: captain_audit_jealous_hurry_mechanic_dad_slight
-bip_39_word_underscore_8: captain_audit_jealous_hurry_mechanic_dad_slight_cruise
-bip_39_word_underscore_9: captain_audit_jealous_hurry_mechanic_dad_slight_cruise_popular
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

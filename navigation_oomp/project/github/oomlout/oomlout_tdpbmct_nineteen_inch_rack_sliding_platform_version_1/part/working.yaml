@@ -1,68 +1,9 @@
-bip_39_word_dash_1: visit
-bip_39_word_dash_10: visit-push-grass-axis-crouch-ladder-ready-royal-situate-dismiss
-bip_39_word_dash_11: visit-push-grass-axis-crouch-ladder-ready-royal-situate-dismiss-million
 bip_39_word_dash_12: visit-push-grass-axis-crouch-ladder-ready-royal-situate-dismiss-million-actor
 bip_39_word_dash_2: visit-push
 bip_39_word_dash_3: visit-push-grass
-bip_39_word_dash_4: visit-push-grass-axis
-bip_39_word_dash_5: visit-push-grass-axis-crouch
-bip_39_word_dash_6: visit-push-grass-axis-crouch-ladder
-bip_39_word_dash_7: visit-push-grass-axis-crouch-ladder-ready
-bip_39_word_dash_8: visit-push-grass-axis-crouch-ladder-ready-royal
-bip_39_word_dash_9: visit-push-grass-axis-crouch-ladder-ready-royal-situate
-bip_39_word_new_br_1: visit
-bip_39_word_new_br_10: visit<br>push<br>grass<br>axis<br>crouch<br>ladder<br>ready<br>royal<br>situate<br>dismiss
-bip_39_word_new_br_11: visit<br>push<br>grass<br>axis<br>crouch<br>ladder<br>ready<br>royal<br>situate<br>dismiss<br>million
 bip_39_word_new_br_12: visit<br>push<br>grass<br>axis<br>crouch<br>ladder<br>ready<br>royal<br>situate<br>dismiss<br>million<br>actor
 bip_39_word_new_br_2: visit<br>push
 bip_39_word_new_br_3: visit<br>push<br>grass
-bip_39_word_new_br_4: visit<br>push<br>grass<br>axis
-bip_39_word_new_br_5: visit<br>push<br>grass<br>axis<br>crouch
-bip_39_word_new_br_6: visit<br>push<br>grass<br>axis<br>crouch<br>ladder
-bip_39_word_new_br_7: visit<br>push<br>grass<br>axis<br>crouch<br>ladder<br>ready
-bip_39_word_new_br_8: visit<br>push<br>grass<br>axis<br>crouch<br>ladder<br>ready<br>royal
-bip_39_word_new_br_9: visit<br>push<br>grass<br>axis<br>crouch<br>ladder<br>ready<br>royal<br>situate
-bip_39_word_new_line_1: visit
-bip_39_word_new_line_10: 'visit
-
-  push
-
-  grass
-
-  axis
-
-  crouch
-
-  ladder
-
-  ready
-
-  royal
-
-  situate
-
-  dismiss'
-bip_39_word_new_line_11: 'visit
-
-  push
-
-  grass
-
-  axis
-
-  crouch
-
-  ladder
-
-  ready
-
-  royal
-
-  situate
-
-  dismiss
-
-  million'
 bip_39_word_new_line_12: 'visit
 
   push
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'visit
   push
 
   grass'
-bip_39_word_new_line_4: 'visit
-
-  push
-
-  grass
-
-  axis'
-bip_39_word_new_line_5: 'visit
-
-  push
-
-  grass
-
-  axis
-
-  crouch'
-bip_39_word_new_line_6: 'visit
-
-  push
-
-  grass
-
-  axis
-
-  crouch
-
-  ladder'
-bip_39_word_new_line_7: 'visit
-
-  push
-
-  grass
-
-  axis
-
-  crouch
-
-  ladder
-
-  ready'
-bip_39_word_new_line_8: 'visit
-
-  push
-
-  grass
-
-  axis
-
-  crouch
-
-  ladder
-
-  ready
-
-  royal'
-bip_39_word_new_line_9: 'visit
-
-  push
-
-  grass
-
-  axis
-
-  crouch
-
-  ladder
-
-  ready
-
-  royal
-
-  situate'
-bip_39_word_no_space_1: visit
-bip_39_word_no_space_10: visitpushgrassaxiscrouchladderreadyroyalsituatedismiss
-bip_39_word_no_space_11: visitpushgrassaxiscrouchladderreadyroyalsituatedismissmillion
 bip_39_word_no_space_12: visitpushgrassaxiscrouchladderreadyroyalsituatedismissmillionactor
 bip_39_word_no_space_2: visitpush
 bip_39_word_no_space_3: visitpushgrass
-bip_39_word_no_space_4: visitpushgrassaxis
-bip_39_word_no_space_5: visitpushgrassaxiscrouch
-bip_39_word_no_space_6: visitpushgrassaxiscrouchladder
-bip_39_word_no_space_7: visitpushgrassaxiscrouchladderready
-bip_39_word_no_space_8: visitpushgrassaxiscrouchladderreadyroyal
-bip_39_word_no_space_9: visitpushgrassaxiscrouchladderreadyroyalsituate
-bip_39_word_space_0:
-- visit
-- push
-- grass
-- axis
-- crouch
-- ladder
-- ready
-- royal
-- situate
-- dismiss
-- million
-- actor
-bip_39_word_space_1: visit
-bip_39_word_space_10: visit push grass axis crouch ladder ready royal situate dismiss
-bip_39_word_space_11: visit push grass axis crouch ladder ready royal situate dismiss
-  million
 bip_39_word_space_12: visit push grass axis crouch ladder ready royal situate dismiss
   million actor
 bip_39_word_space_2: visit push
 bip_39_word_space_3: visit push grass
-bip_39_word_space_4: visit push grass axis
-bip_39_word_space_5: visit push grass axis crouch
-bip_39_word_space_6: visit push grass axis crouch ladder
-bip_39_word_space_7: visit push grass axis crouch ladder ready
-bip_39_word_space_8: visit push grass axis crouch ladder ready royal
-bip_39_word_space_9: visit push grass axis crouch ladder ready royal situate
-bip_39_word_underscore_1: visit
-bip_39_word_underscore_10: visit_push_grass_axis_crouch_ladder_ready_royal_situate_dismiss
-bip_39_word_underscore_11: visit_push_grass_axis_crouch_ladder_ready_royal_situate_dismiss_million
 bip_39_word_underscore_12: visit_push_grass_axis_crouch_ladder_ready_royal_situate_dismiss_million_actor
 bip_39_word_underscore_2: visit_push
 bip_39_word_underscore_3: visit_push_grass
-bip_39_word_underscore_4: visit_push_grass_axis
-bip_39_word_underscore_5: visit_push_grass_axis_crouch
-bip_39_word_underscore_6: visit_push_grass_axis_crouch_ladder
-bip_39_word_underscore_7: visit_push_grass_axis_crouch_ladder_ready
-bip_39_word_underscore_8: visit_push_grass_axis_crouch_ladder_ready_royal
-bip_39_word_underscore_9: visit_push_grass_axis_crouch_ladder_ready_royal_situate
 classification: project
 classification_capital: Project
 classification_first_letter: p

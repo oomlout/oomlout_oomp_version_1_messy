@@ -1,68 +1,9 @@
-bip_39_word_dash_1: deliver
-bip_39_word_dash_10: deliver-grunt-kind-wool-spy-retire-flee-flash-few-expire
-bip_39_word_dash_11: deliver-grunt-kind-wool-spy-retire-flee-flash-few-expire-narrow
 bip_39_word_dash_12: deliver-grunt-kind-wool-spy-retire-flee-flash-few-expire-narrow-apple
 bip_39_word_dash_2: deliver-grunt
 bip_39_word_dash_3: deliver-grunt-kind
-bip_39_word_dash_4: deliver-grunt-kind-wool
-bip_39_word_dash_5: deliver-grunt-kind-wool-spy
-bip_39_word_dash_6: deliver-grunt-kind-wool-spy-retire
-bip_39_word_dash_7: deliver-grunt-kind-wool-spy-retire-flee
-bip_39_word_dash_8: deliver-grunt-kind-wool-spy-retire-flee-flash
-bip_39_word_dash_9: deliver-grunt-kind-wool-spy-retire-flee-flash-few
-bip_39_word_new_br_1: deliver
-bip_39_word_new_br_10: deliver<br>grunt<br>kind<br>wool<br>spy<br>retire<br>flee<br>flash<br>few<br>expire
-bip_39_word_new_br_11: deliver<br>grunt<br>kind<br>wool<br>spy<br>retire<br>flee<br>flash<br>few<br>expire<br>narrow
 bip_39_word_new_br_12: deliver<br>grunt<br>kind<br>wool<br>spy<br>retire<br>flee<br>flash<br>few<br>expire<br>narrow<br>apple
 bip_39_word_new_br_2: deliver<br>grunt
 bip_39_word_new_br_3: deliver<br>grunt<br>kind
-bip_39_word_new_br_4: deliver<br>grunt<br>kind<br>wool
-bip_39_word_new_br_5: deliver<br>grunt<br>kind<br>wool<br>spy
-bip_39_word_new_br_6: deliver<br>grunt<br>kind<br>wool<br>spy<br>retire
-bip_39_word_new_br_7: deliver<br>grunt<br>kind<br>wool<br>spy<br>retire<br>flee
-bip_39_word_new_br_8: deliver<br>grunt<br>kind<br>wool<br>spy<br>retire<br>flee<br>flash
-bip_39_word_new_br_9: deliver<br>grunt<br>kind<br>wool<br>spy<br>retire<br>flee<br>flash<br>few
-bip_39_word_new_line_1: deliver
-bip_39_word_new_line_10: 'deliver
-
-  grunt
-
-  kind
-
-  wool
-
-  spy
-
-  retire
-
-  flee
-
-  flash
-
-  few
-
-  expire'
-bip_39_word_new_line_11: 'deliver
-
-  grunt
-
-  kind
-
-  wool
-
-  spy
-
-  retire
-
-  flee
-
-  flash
-
-  few
-
-  expire
-
-  narrow'
 bip_39_word_new_line_12: 'deliver
 
   grunt
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'deliver
   grunt
 
   kind'
-bip_39_word_new_line_4: 'deliver
-
-  grunt
-
-  kind
-
-  wool'
-bip_39_word_new_line_5: 'deliver
-
-  grunt
-
-  kind
-
-  wool
-
-  spy'
-bip_39_word_new_line_6: 'deliver
-
-  grunt
-
-  kind
-
-  wool
-
-  spy
-
-  retire'
-bip_39_word_new_line_7: 'deliver
-
-  grunt
-
-  kind
-
-  wool
-
-  spy
-
-  retire
-
-  flee'
-bip_39_word_new_line_8: 'deliver
-
-  grunt
-
-  kind
-
-  wool
-
-  spy
-
-  retire
-
-  flee
-
-  flash'
-bip_39_word_new_line_9: 'deliver
-
-  grunt
-
-  kind
-
-  wool
-
-  spy
-
-  retire
-
-  flee
-
-  flash
-
-  few'
-bip_39_word_no_space_1: deliver
-bip_39_word_no_space_10: delivergruntkindwoolspyretirefleeflashfewexpire
-bip_39_word_no_space_11: delivergruntkindwoolspyretirefleeflashfewexpirenarrow
 bip_39_word_no_space_12: delivergruntkindwoolspyretirefleeflashfewexpirenarrowapple
 bip_39_word_no_space_2: delivergrunt
 bip_39_word_no_space_3: delivergruntkind
-bip_39_word_no_space_4: delivergruntkindwool
-bip_39_word_no_space_5: delivergruntkindwoolspy
-bip_39_word_no_space_6: delivergruntkindwoolspyretire
-bip_39_word_no_space_7: delivergruntkindwoolspyretireflee
-bip_39_word_no_space_8: delivergruntkindwoolspyretirefleeflash
-bip_39_word_no_space_9: delivergruntkindwoolspyretirefleeflashfew
-bip_39_word_space_0:
-- deliver
-- grunt
-- kind
-- wool
-- spy
-- retire
-- flee
-- flash
-- few
-- expire
-- narrow
-- apple
-bip_39_word_space_1: deliver
-bip_39_word_space_10: deliver grunt kind wool spy retire flee flash few expire
-bip_39_word_space_11: deliver grunt kind wool spy retire flee flash few expire narrow
 bip_39_word_space_12: deliver grunt kind wool spy retire flee flash few expire narrow
   apple
 bip_39_word_space_2: deliver grunt
 bip_39_word_space_3: deliver grunt kind
-bip_39_word_space_4: deliver grunt kind wool
-bip_39_word_space_5: deliver grunt kind wool spy
-bip_39_word_space_6: deliver grunt kind wool spy retire
-bip_39_word_space_7: deliver grunt kind wool spy retire flee
-bip_39_word_space_8: deliver grunt kind wool spy retire flee flash
-bip_39_word_space_9: deliver grunt kind wool spy retire flee flash few
-bip_39_word_underscore_1: deliver
-bip_39_word_underscore_10: deliver_grunt_kind_wool_spy_retire_flee_flash_few_expire
-bip_39_word_underscore_11: deliver_grunt_kind_wool_spy_retire_flee_flash_few_expire_narrow
 bip_39_word_underscore_12: deliver_grunt_kind_wool_spy_retire_flee_flash_few_expire_narrow_apple
 bip_39_word_underscore_2: deliver_grunt
 bip_39_word_underscore_3: deliver_grunt_kind
-bip_39_word_underscore_4: deliver_grunt_kind_wool
-bip_39_word_underscore_5: deliver_grunt_kind_wool_spy
-bip_39_word_underscore_6: deliver_grunt_kind_wool_spy_retire
-bip_39_word_underscore_7: deliver_grunt_kind_wool_spy_retire_flee
-bip_39_word_underscore_8: deliver_grunt_kind_wool_spy_retire_flee_flash
-bip_39_word_underscore_9: deliver_grunt_kind_wool_spy_retire_flee_flash_few
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

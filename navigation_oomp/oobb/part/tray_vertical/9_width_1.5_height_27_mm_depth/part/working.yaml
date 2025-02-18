@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spend
-bip_39_word_dash_10: spend-budget-distance-beef-gospel-doll-giggle-plunge-gossip-layer
-bip_39_word_dash_11: spend-budget-distance-beef-gospel-doll-giggle-plunge-gossip-layer-stock
 bip_39_word_dash_12: spend-budget-distance-beef-gospel-doll-giggle-plunge-gossip-layer-stock-arrest
 bip_39_word_dash_2: spend-budget
 bip_39_word_dash_3: spend-budget-distance
-bip_39_word_dash_4: spend-budget-distance-beef
-bip_39_word_dash_5: spend-budget-distance-beef-gospel
-bip_39_word_dash_6: spend-budget-distance-beef-gospel-doll
-bip_39_word_dash_7: spend-budget-distance-beef-gospel-doll-giggle
-bip_39_word_dash_8: spend-budget-distance-beef-gospel-doll-giggle-plunge
-bip_39_word_dash_9: spend-budget-distance-beef-gospel-doll-giggle-plunge-gossip
-bip_39_word_new_br_1: spend
-bip_39_word_new_br_10: spend<br>budget<br>distance<br>beef<br>gospel<br>doll<br>giggle<br>plunge<br>gossip<br>layer
-bip_39_word_new_br_11: spend<br>budget<br>distance<br>beef<br>gospel<br>doll<br>giggle<br>plunge<br>gossip<br>layer<br>stock
 bip_39_word_new_br_12: spend<br>budget<br>distance<br>beef<br>gospel<br>doll<br>giggle<br>plunge<br>gossip<br>layer<br>stock<br>arrest
 bip_39_word_new_br_2: spend<br>budget
 bip_39_word_new_br_3: spend<br>budget<br>distance
-bip_39_word_new_br_4: spend<br>budget<br>distance<br>beef
-bip_39_word_new_br_5: spend<br>budget<br>distance<br>beef<br>gospel
-bip_39_word_new_br_6: spend<br>budget<br>distance<br>beef<br>gospel<br>doll
-bip_39_word_new_br_7: spend<br>budget<br>distance<br>beef<br>gospel<br>doll<br>giggle
-bip_39_word_new_br_8: spend<br>budget<br>distance<br>beef<br>gospel<br>doll<br>giggle<br>plunge
-bip_39_word_new_br_9: spend<br>budget<br>distance<br>beef<br>gospel<br>doll<br>giggle<br>plunge<br>gossip
-bip_39_word_new_line_1: spend
-bip_39_word_new_line_10: 'spend
-
-  budget
-
-  distance
-
-  beef
-
-  gospel
-
-  doll
-
-  giggle
-
-  plunge
-
-  gossip
-
-  layer'
-bip_39_word_new_line_11: 'spend
-
-  budget
-
-  distance
-
-  beef
-
-  gospel
-
-  doll
-
-  giggle
-
-  plunge
-
-  gossip
-
-  layer
-
-  stock'
 bip_39_word_new_line_12: 'spend
 
   budget
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'spend
   budget
 
   distance'
-bip_39_word_new_line_4: 'spend
-
-  budget
-
-  distance
-
-  beef'
-bip_39_word_new_line_5: 'spend
-
-  budget
-
-  distance
-
-  beef
-
-  gospel'
-bip_39_word_new_line_6: 'spend
-
-  budget
-
-  distance
-
-  beef
-
-  gospel
-
-  doll'
-bip_39_word_new_line_7: 'spend
-
-  budget
-
-  distance
-
-  beef
-
-  gospel
-
-  doll
-
-  giggle'
-bip_39_word_new_line_8: 'spend
-
-  budget
-
-  distance
-
-  beef
-
-  gospel
-
-  doll
-
-  giggle
-
-  plunge'
-bip_39_word_new_line_9: 'spend
-
-  budget
-
-  distance
-
-  beef
-
-  gospel
-
-  doll
-
-  giggle
-
-  plunge
-
-  gossip'
-bip_39_word_no_space_1: spend
-bip_39_word_no_space_10: spendbudgetdistancebeefgospeldollgiggleplungegossiplayer
-bip_39_word_no_space_11: spendbudgetdistancebeefgospeldollgiggleplungegossiplayerstock
 bip_39_word_no_space_12: spendbudgetdistancebeefgospeldollgiggleplungegossiplayerstockarrest
 bip_39_word_no_space_2: spendbudget
 bip_39_word_no_space_3: spendbudgetdistance
-bip_39_word_no_space_4: spendbudgetdistancebeef
-bip_39_word_no_space_5: spendbudgetdistancebeefgospel
-bip_39_word_no_space_6: spendbudgetdistancebeefgospeldoll
-bip_39_word_no_space_7: spendbudgetdistancebeefgospeldollgiggle
-bip_39_word_no_space_8: spendbudgetdistancebeefgospeldollgiggleplunge
-bip_39_word_no_space_9: spendbudgetdistancebeefgospeldollgiggleplungegossip
-bip_39_word_space_0:
-- spend
-- budget
-- distance
-- beef
-- gospel
-- doll
-- giggle
-- plunge
-- gossip
-- layer
-- stock
-- arrest
-bip_39_word_space_1: spend
-bip_39_word_space_10: spend budget distance beef gospel doll giggle plunge gossip
-  layer
-bip_39_word_space_11: spend budget distance beef gospel doll giggle plunge gossip
-  layer stock
 bip_39_word_space_12: spend budget distance beef gospel doll giggle plunge gossip
   layer stock arrest
 bip_39_word_space_2: spend budget
 bip_39_word_space_3: spend budget distance
-bip_39_word_space_4: spend budget distance beef
-bip_39_word_space_5: spend budget distance beef gospel
-bip_39_word_space_6: spend budget distance beef gospel doll
-bip_39_word_space_7: spend budget distance beef gospel doll giggle
-bip_39_word_space_8: spend budget distance beef gospel doll giggle plunge
-bip_39_word_space_9: spend budget distance beef gospel doll giggle plunge gossip
-bip_39_word_underscore_1: spend
-bip_39_word_underscore_10: spend_budget_distance_beef_gospel_doll_giggle_plunge_gossip_layer
-bip_39_word_underscore_11: spend_budget_distance_beef_gospel_doll_giggle_plunge_gossip_layer_stock
 bip_39_word_underscore_12: spend_budget_distance_beef_gospel_doll_giggle_plunge_gossip_layer_stock_arrest
 bip_39_word_underscore_2: spend_budget
 bip_39_word_underscore_3: spend_budget_distance
-bip_39_word_underscore_4: spend_budget_distance_beef
-bip_39_word_underscore_5: spend_budget_distance_beef_gospel
-bip_39_word_underscore_6: spend_budget_distance_beef_gospel_doll
-bip_39_word_underscore_7: spend_budget_distance_beef_gospel_doll_giggle
-bip_39_word_underscore_8: spend_budget_distance_beef_gospel_doll_giggle_plunge
-bip_39_word_underscore_9: spend_budget_distance_beef_gospel_doll_giggle_plunge_gossip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

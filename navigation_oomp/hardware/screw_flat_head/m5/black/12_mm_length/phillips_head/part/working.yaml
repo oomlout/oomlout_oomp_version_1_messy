@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bird
-bip_39_word_dash_10: bird-diamond-edge-vague-hockey-gate-spot-scrub-donor-tell
-bip_39_word_dash_11: bird-diamond-edge-vague-hockey-gate-spot-scrub-donor-tell-gasp
 bip_39_word_dash_12: bird-diamond-edge-vague-hockey-gate-spot-scrub-donor-tell-gasp-advance
 bip_39_word_dash_2: bird-diamond
 bip_39_word_dash_3: bird-diamond-edge
-bip_39_word_dash_4: bird-diamond-edge-vague
-bip_39_word_dash_5: bird-diamond-edge-vague-hockey
-bip_39_word_dash_6: bird-diamond-edge-vague-hockey-gate
-bip_39_word_dash_7: bird-diamond-edge-vague-hockey-gate-spot
-bip_39_word_dash_8: bird-diamond-edge-vague-hockey-gate-spot-scrub
-bip_39_word_dash_9: bird-diamond-edge-vague-hockey-gate-spot-scrub-donor
-bip_39_word_new_br_1: bird
-bip_39_word_new_br_10: bird<br>diamond<br>edge<br>vague<br>hockey<br>gate<br>spot<br>scrub<br>donor<br>tell
-bip_39_word_new_br_11: bird<br>diamond<br>edge<br>vague<br>hockey<br>gate<br>spot<br>scrub<br>donor<br>tell<br>gasp
 bip_39_word_new_br_12: bird<br>diamond<br>edge<br>vague<br>hockey<br>gate<br>spot<br>scrub<br>donor<br>tell<br>gasp<br>advance
 bip_39_word_new_br_2: bird<br>diamond
 bip_39_word_new_br_3: bird<br>diamond<br>edge
-bip_39_word_new_br_4: bird<br>diamond<br>edge<br>vague
-bip_39_word_new_br_5: bird<br>diamond<br>edge<br>vague<br>hockey
-bip_39_word_new_br_6: bird<br>diamond<br>edge<br>vague<br>hockey<br>gate
-bip_39_word_new_br_7: bird<br>diamond<br>edge<br>vague<br>hockey<br>gate<br>spot
-bip_39_word_new_br_8: bird<br>diamond<br>edge<br>vague<br>hockey<br>gate<br>spot<br>scrub
-bip_39_word_new_br_9: bird<br>diamond<br>edge<br>vague<br>hockey<br>gate<br>spot<br>scrub<br>donor
-bip_39_word_new_line_1: bird
-bip_39_word_new_line_10: 'bird
-
-  diamond
-
-  edge
-
-  vague
-
-  hockey
-
-  gate
-
-  spot
-
-  scrub
-
-  donor
-
-  tell'
-bip_39_word_new_line_11: 'bird
-
-  diamond
-
-  edge
-
-  vague
-
-  hockey
-
-  gate
-
-  spot
-
-  scrub
-
-  donor
-
-  tell
-
-  gasp'
 bip_39_word_new_line_12: 'bird
 
   diamond
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'bird
   diamond
 
   edge'
-bip_39_word_new_line_4: 'bird
-
-  diamond
-
-  edge
-
-  vague'
-bip_39_word_new_line_5: 'bird
-
-  diamond
-
-  edge
-
-  vague
-
-  hockey'
-bip_39_word_new_line_6: 'bird
-
-  diamond
-
-  edge
-
-  vague
-
-  hockey
-
-  gate'
-bip_39_word_new_line_7: 'bird
-
-  diamond
-
-  edge
-
-  vague
-
-  hockey
-
-  gate
-
-  spot'
-bip_39_word_new_line_8: 'bird
-
-  diamond
-
-  edge
-
-  vague
-
-  hockey
-
-  gate
-
-  spot
-
-  scrub'
-bip_39_word_new_line_9: 'bird
-
-  diamond
-
-  edge
-
-  vague
-
-  hockey
-
-  gate
-
-  spot
-
-  scrub
-
-  donor'
-bip_39_word_no_space_1: bird
-bip_39_word_no_space_10: birddiamondedgevaguehockeygatespotscrubdonortell
-bip_39_word_no_space_11: birddiamondedgevaguehockeygatespotscrubdonortellgasp
 bip_39_word_no_space_12: birddiamondedgevaguehockeygatespotscrubdonortellgaspadvance
 bip_39_word_no_space_2: birddiamond
 bip_39_word_no_space_3: birddiamondedge
-bip_39_word_no_space_4: birddiamondedgevague
-bip_39_word_no_space_5: birddiamondedgevaguehockey
-bip_39_word_no_space_6: birddiamondedgevaguehockeygate
-bip_39_word_no_space_7: birddiamondedgevaguehockeygatespot
-bip_39_word_no_space_8: birddiamondedgevaguehockeygatespotscrub
-bip_39_word_no_space_9: birddiamondedgevaguehockeygatespotscrubdonor
-bip_39_word_space_0:
-- bird
-- diamond
-- edge
-- vague
-- hockey
-- gate
-- spot
-- scrub
-- donor
-- tell
-- gasp
-- advance
-bip_39_word_space_1: bird
-bip_39_word_space_10: bird diamond edge vague hockey gate spot scrub donor tell
-bip_39_word_space_11: bird diamond edge vague hockey gate spot scrub donor tell gasp
 bip_39_word_space_12: bird diamond edge vague hockey gate spot scrub donor tell gasp
   advance
 bip_39_word_space_2: bird diamond
 bip_39_word_space_3: bird diamond edge
-bip_39_word_space_4: bird diamond edge vague
-bip_39_word_space_5: bird diamond edge vague hockey
-bip_39_word_space_6: bird diamond edge vague hockey gate
-bip_39_word_space_7: bird diamond edge vague hockey gate spot
-bip_39_word_space_8: bird diamond edge vague hockey gate spot scrub
-bip_39_word_space_9: bird diamond edge vague hockey gate spot scrub donor
-bip_39_word_underscore_1: bird
-bip_39_word_underscore_10: bird_diamond_edge_vague_hockey_gate_spot_scrub_donor_tell
-bip_39_word_underscore_11: bird_diamond_edge_vague_hockey_gate_spot_scrub_donor_tell_gasp
 bip_39_word_underscore_12: bird_diamond_edge_vague_hockey_gate_spot_scrub_donor_tell_gasp_advance
 bip_39_word_underscore_2: bird_diamond
 bip_39_word_underscore_3: bird_diamond_edge
-bip_39_word_underscore_4: bird_diamond_edge_vague
-bip_39_word_underscore_5: bird_diamond_edge_vague_hockey
-bip_39_word_underscore_6: bird_diamond_edge_vague_hockey_gate
-bip_39_word_underscore_7: bird_diamond_edge_vague_hockey_gate_spot
-bip_39_word_underscore_8: bird_diamond_edge_vague_hockey_gate_spot_scrub
-bip_39_word_underscore_9: bird_diamond_edge_vague_hockey_gate_spot_scrub_donor
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

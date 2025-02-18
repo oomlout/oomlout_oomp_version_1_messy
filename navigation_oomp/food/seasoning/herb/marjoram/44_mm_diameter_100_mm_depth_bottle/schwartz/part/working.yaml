@@ -1,68 +1,9 @@
-bip_39_word_dash_1: edge
-bip_39_word_dash_10: edge-crash-current-they-grow-warfare-delay-half-earth-lumber
-bip_39_word_dash_11: edge-crash-current-they-grow-warfare-delay-half-earth-lumber-pluck
 bip_39_word_dash_12: edge-crash-current-they-grow-warfare-delay-half-earth-lumber-pluck-allow
 bip_39_word_dash_2: edge-crash
 bip_39_word_dash_3: edge-crash-current
-bip_39_word_dash_4: edge-crash-current-they
-bip_39_word_dash_5: edge-crash-current-they-grow
-bip_39_word_dash_6: edge-crash-current-they-grow-warfare
-bip_39_word_dash_7: edge-crash-current-they-grow-warfare-delay
-bip_39_word_dash_8: edge-crash-current-they-grow-warfare-delay-half
-bip_39_word_dash_9: edge-crash-current-they-grow-warfare-delay-half-earth
-bip_39_word_new_br_1: edge
-bip_39_word_new_br_10: edge<br>crash<br>current<br>they<br>grow<br>warfare<br>delay<br>half<br>earth<br>lumber
-bip_39_word_new_br_11: edge<br>crash<br>current<br>they<br>grow<br>warfare<br>delay<br>half<br>earth<br>lumber<br>pluck
 bip_39_word_new_br_12: edge<br>crash<br>current<br>they<br>grow<br>warfare<br>delay<br>half<br>earth<br>lumber<br>pluck<br>allow
 bip_39_word_new_br_2: edge<br>crash
 bip_39_word_new_br_3: edge<br>crash<br>current
-bip_39_word_new_br_4: edge<br>crash<br>current<br>they
-bip_39_word_new_br_5: edge<br>crash<br>current<br>they<br>grow
-bip_39_word_new_br_6: edge<br>crash<br>current<br>they<br>grow<br>warfare
-bip_39_word_new_br_7: edge<br>crash<br>current<br>they<br>grow<br>warfare<br>delay
-bip_39_word_new_br_8: edge<br>crash<br>current<br>they<br>grow<br>warfare<br>delay<br>half
-bip_39_word_new_br_9: edge<br>crash<br>current<br>they<br>grow<br>warfare<br>delay<br>half<br>earth
-bip_39_word_new_line_1: edge
-bip_39_word_new_line_10: 'edge
-
-  crash
-
-  current
-
-  they
-
-  grow
-
-  warfare
-
-  delay
-
-  half
-
-  earth
-
-  lumber'
-bip_39_word_new_line_11: 'edge
-
-  crash
-
-  current
-
-  they
-
-  grow
-
-  warfare
-
-  delay
-
-  half
-
-  earth
-
-  lumber
-
-  pluck'
 bip_39_word_new_line_12: 'edge
 
   crash
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'edge
   crash
 
   current'
-bip_39_word_new_line_4: 'edge
-
-  crash
-
-  current
-
-  they'
-bip_39_word_new_line_5: 'edge
-
-  crash
-
-  current
-
-  they
-
-  grow'
-bip_39_word_new_line_6: 'edge
-
-  crash
-
-  current
-
-  they
-
-  grow
-
-  warfare'
-bip_39_word_new_line_7: 'edge
-
-  crash
-
-  current
-
-  they
-
-  grow
-
-  warfare
-
-  delay'
-bip_39_word_new_line_8: 'edge
-
-  crash
-
-  current
-
-  they
-
-  grow
-
-  warfare
-
-  delay
-
-  half'
-bip_39_word_new_line_9: 'edge
-
-  crash
-
-  current
-
-  they
-
-  grow
-
-  warfare
-
-  delay
-
-  half
-
-  earth'
-bip_39_word_no_space_1: edge
-bip_39_word_no_space_10: edgecrashcurrenttheygrowwarfaredelayhalfearthlumber
-bip_39_word_no_space_11: edgecrashcurrenttheygrowwarfaredelayhalfearthlumberpluck
 bip_39_word_no_space_12: edgecrashcurrenttheygrowwarfaredelayhalfearthlumberpluckallow
 bip_39_word_no_space_2: edgecrash
 bip_39_word_no_space_3: edgecrashcurrent
-bip_39_word_no_space_4: edgecrashcurrentthey
-bip_39_word_no_space_5: edgecrashcurrenttheygrow
-bip_39_word_no_space_6: edgecrashcurrenttheygrowwarfare
-bip_39_word_no_space_7: edgecrashcurrenttheygrowwarfaredelay
-bip_39_word_no_space_8: edgecrashcurrenttheygrowwarfaredelayhalf
-bip_39_word_no_space_9: edgecrashcurrenttheygrowwarfaredelayhalfearth
-bip_39_word_space_0:
-- edge
-- crash
-- current
-- they
-- grow
-- warfare
-- delay
-- half
-- earth
-- lumber
-- pluck
-- allow
-bip_39_word_space_1: edge
-bip_39_word_space_10: edge crash current they grow warfare delay half earth lumber
-bip_39_word_space_11: edge crash current they grow warfare delay half earth lumber
-  pluck
 bip_39_word_space_12: edge crash current they grow warfare delay half earth lumber
   pluck allow
 bip_39_word_space_2: edge crash
 bip_39_word_space_3: edge crash current
-bip_39_word_space_4: edge crash current they
-bip_39_word_space_5: edge crash current they grow
-bip_39_word_space_6: edge crash current they grow warfare
-bip_39_word_space_7: edge crash current they grow warfare delay
-bip_39_word_space_8: edge crash current they grow warfare delay half
-bip_39_word_space_9: edge crash current they grow warfare delay half earth
-bip_39_word_underscore_1: edge
-bip_39_word_underscore_10: edge_crash_current_they_grow_warfare_delay_half_earth_lumber
-bip_39_word_underscore_11: edge_crash_current_they_grow_warfare_delay_half_earth_lumber_pluck
 bip_39_word_underscore_12: edge_crash_current_they_grow_warfare_delay_half_earth_lumber_pluck_allow
 bip_39_word_underscore_2: edge_crash
 bip_39_word_underscore_3: edge_crash_current
-bip_39_word_underscore_4: edge_crash_current_they
-bip_39_word_underscore_5: edge_crash_current_they_grow
-bip_39_word_underscore_6: edge_crash_current_they_grow_warfare
-bip_39_word_underscore_7: edge_crash_current_they_grow_warfare_delay
-bip_39_word_underscore_8: edge_crash_current_they_grow_warfare_delay_half
-bip_39_word_underscore_9: edge_crash_current_they_grow_warfare_delay_half_earth
 classification: food
 classification_capital: Food
 classification_first_letter: f

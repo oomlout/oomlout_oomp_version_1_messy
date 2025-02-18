@@ -24,9 +24,9 @@ category_tool
   * description_extra: cubby_box
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: carbon glare
+  * bip 39 word 3: carbon glare hamster
+  * bip 39 word: carbon glare hamster piano drip blood lunch alley real session disagree about
 
 ### other_codes
 * short_code: 
@@ -40,6 +40,22 @@ category_tool
 
 
 
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20948h)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%20948h)
+[2x1](http://192.168.1.242:1112/?label=oomp%20948h)
+[6x4](http://192.168.1.55:1112/?label=oomp%20948h)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_cubby_box) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_cubby_box)                             
+
+#### price
+
+
+
+
 
 
 
@@ -47,20 +63,34 @@ category_tool
 | key | value |  
 | --- | --- |  
 | classification | category |  
+| classification_name | Category |  
 | color |  |  
+| color_name |  |  
 | description | category_tool |  
 | description_extra | cubby_box |  
+| description_extra_name | Cubby Box |  
 | description_main |  |  
+| description_main_name |  |  
 | description_or_color |   |  
 | directory | parts/category_tool_screw_driver_precision_cubby_box |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_screw_driver_precision_cubby_box |  
 | id | category_tool_screw_driver_precision_cubby_box |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_cubby_box |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_cubby_box |  
+| link_2_name | link_github |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_cubby_box |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_cubby_box |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20948h |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20948h |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%20948h |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20948h |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_cubby_box |  
 | manufacturer |  |  
+| manufacturer_name |  |  
 | manufacturers | [] |  
 | markdown_full | [category_tool_screw_driver_precision_cubby_box](none)<br>[](none)<br>[Category Tool Screw Driver Precision Cubby Box](none)<br><br> |  
 | markdown_short | [category_tool_screw_driver_precision_cubby_box](none)<br><br> |  
@@ -70,6 +100,11 @@ category_tool
 | md5_6 | 067db1 |  
 | md5_6_alpha | 948h |  
 | name | Category Tool Screw Driver Precision Cubby Box |  
+| oomlout_detail_hierarchy_1 | category |  
+| oomlout_detail_hierarchy_2 | tool |  
+| oomlout_detail_hierarchy_3 | sdriver_precision |  
+| oomlout_detail_hierarchy_4 | cubby_box |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_category_tool_screw_driver_precision_cubby_box |  
 | oomp_word | sleeping phone briefcase |  
 | oomp_word_emoji | :sleeping: :phone: :briefcase: |  
@@ -77,7 +112,10 @@ category_tool
 | oomp_word_list | ['sleeping', 'phone', 'briefcase'] |  
 | part_number |  |  
 | part_number_exact |  |  
+| part_number_name |  |  
 | short_code |  |  
 | short_name | Categorytool |  
 | size | screw_driver_precision |  
+| size_name | Screw Driver Precision |  
 | type | tool |  
+| type_name | Tool |  

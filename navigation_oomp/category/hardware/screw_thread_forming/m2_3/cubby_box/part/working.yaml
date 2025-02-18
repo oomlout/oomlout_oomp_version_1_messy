@@ -1,68 +1,9 @@
-bip_39_word_dash_1: state
-bip_39_word_dash_10: state-assault-total-maple-immune-impulse-able-rail-roof-olive
-bip_39_word_dash_11: state-assault-total-maple-immune-impulse-able-rail-roof-olive-faint
 bip_39_word_dash_12: state-assault-total-maple-immune-impulse-able-rail-roof-olive-faint-arena
 bip_39_word_dash_2: state-assault
 bip_39_word_dash_3: state-assault-total
-bip_39_word_dash_4: state-assault-total-maple
-bip_39_word_dash_5: state-assault-total-maple-immune
-bip_39_word_dash_6: state-assault-total-maple-immune-impulse
-bip_39_word_dash_7: state-assault-total-maple-immune-impulse-able
-bip_39_word_dash_8: state-assault-total-maple-immune-impulse-able-rail
-bip_39_word_dash_9: state-assault-total-maple-immune-impulse-able-rail-roof
-bip_39_word_new_br_1: state
-bip_39_word_new_br_10: state<br>assault<br>total<br>maple<br>immune<br>impulse<br>able<br>rail<br>roof<br>olive
-bip_39_word_new_br_11: state<br>assault<br>total<br>maple<br>immune<br>impulse<br>able<br>rail<br>roof<br>olive<br>faint
 bip_39_word_new_br_12: state<br>assault<br>total<br>maple<br>immune<br>impulse<br>able<br>rail<br>roof<br>olive<br>faint<br>arena
 bip_39_word_new_br_2: state<br>assault
 bip_39_word_new_br_3: state<br>assault<br>total
-bip_39_word_new_br_4: state<br>assault<br>total<br>maple
-bip_39_word_new_br_5: state<br>assault<br>total<br>maple<br>immune
-bip_39_word_new_br_6: state<br>assault<br>total<br>maple<br>immune<br>impulse
-bip_39_word_new_br_7: state<br>assault<br>total<br>maple<br>immune<br>impulse<br>able
-bip_39_word_new_br_8: state<br>assault<br>total<br>maple<br>immune<br>impulse<br>able<br>rail
-bip_39_word_new_br_9: state<br>assault<br>total<br>maple<br>immune<br>impulse<br>able<br>rail<br>roof
-bip_39_word_new_line_1: state
-bip_39_word_new_line_10: 'state
-
-  assault
-
-  total
-
-  maple
-
-  immune
-
-  impulse
-
-  able
-
-  rail
-
-  roof
-
-  olive'
-bip_39_word_new_line_11: 'state
-
-  assault
-
-  total
-
-  maple
-
-  immune
-
-  impulse
-
-  able
-
-  rail
-
-  roof
-
-  olive
-
-  faint'
 bip_39_word_new_line_12: 'state
 
   assault
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'state
   assault
 
   total'
-bip_39_word_new_line_4: 'state
-
-  assault
-
-  total
-
-  maple'
-bip_39_word_new_line_5: 'state
-
-  assault
-
-  total
-
-  maple
-
-  immune'
-bip_39_word_new_line_6: 'state
-
-  assault
-
-  total
-
-  maple
-
-  immune
-
-  impulse'
-bip_39_word_new_line_7: 'state
-
-  assault
-
-  total
-
-  maple
-
-  immune
-
-  impulse
-
-  able'
-bip_39_word_new_line_8: 'state
-
-  assault
-
-  total
-
-  maple
-
-  immune
-
-  impulse
-
-  able
-
-  rail'
-bip_39_word_new_line_9: 'state
-
-  assault
-
-  total
-
-  maple
-
-  immune
-
-  impulse
-
-  able
-
-  rail
-
-  roof'
-bip_39_word_no_space_1: state
-bip_39_word_no_space_10: stateassaulttotalmapleimmuneimpulseablerailroofolive
-bip_39_word_no_space_11: stateassaulttotalmapleimmuneimpulseablerailroofolivefaint
 bip_39_word_no_space_12: stateassaulttotalmapleimmuneimpulseablerailroofolivefaintarena
 bip_39_word_no_space_2: stateassault
 bip_39_word_no_space_3: stateassaulttotal
-bip_39_word_no_space_4: stateassaulttotalmaple
-bip_39_word_no_space_5: stateassaulttotalmapleimmune
-bip_39_word_no_space_6: stateassaulttotalmapleimmuneimpulse
-bip_39_word_no_space_7: stateassaulttotalmapleimmuneimpulseable
-bip_39_word_no_space_8: stateassaulttotalmapleimmuneimpulseablerail
-bip_39_word_no_space_9: stateassaulttotalmapleimmuneimpulseablerailroof
-bip_39_word_space_0:
-- state
-- assault
-- total
-- maple
-- immune
-- impulse
-- able
-- rail
-- roof
-- olive
-- faint
-- arena
-bip_39_word_space_1: state
-bip_39_word_space_10: state assault total maple immune impulse able rail roof olive
-bip_39_word_space_11: state assault total maple immune impulse able rail roof olive
-  faint
 bip_39_word_space_12: state assault total maple immune impulse able rail roof olive
   faint arena
 bip_39_word_space_2: state assault
 bip_39_word_space_3: state assault total
-bip_39_word_space_4: state assault total maple
-bip_39_word_space_5: state assault total maple immune
-bip_39_word_space_6: state assault total maple immune impulse
-bip_39_word_space_7: state assault total maple immune impulse able
-bip_39_word_space_8: state assault total maple immune impulse able rail
-bip_39_word_space_9: state assault total maple immune impulse able rail roof
-bip_39_word_underscore_1: state
-bip_39_word_underscore_10: state_assault_total_maple_immune_impulse_able_rail_roof_olive
-bip_39_word_underscore_11: state_assault_total_maple_immune_impulse_able_rail_roof_olive_faint
 bip_39_word_underscore_12: state_assault_total_maple_immune_impulse_able_rail_roof_olive_faint_arena
 bip_39_word_underscore_2: state_assault
 bip_39_word_underscore_3: state_assault_total
-bip_39_word_underscore_4: state_assault_total_maple
-bip_39_word_underscore_5: state_assault_total_maple_immune
-bip_39_word_underscore_6: state_assault_total_maple_immune_impulse
-bip_39_word_underscore_7: state_assault_total_maple_immune_impulse_able
-bip_39_word_underscore_8: state_assault_total_maple_immune_impulse_able_rail
-bip_39_word_underscore_9: state_assault_total_maple_immune_impulse_able_rail_roof
 classification: category
 classification_capital: Category
 classification_first_letter: c

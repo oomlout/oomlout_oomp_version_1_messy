@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ticket
-bip_39_word_dash_10: ticket-erupt-people-summer-famous-often-distance-record-unaware-stable
-bip_39_word_dash_11: ticket-erupt-people-summer-famous-often-distance-record-unaware-stable-whip
 bip_39_word_dash_12: ticket-erupt-people-summer-famous-often-distance-record-unaware-stable-whip-another
 bip_39_word_dash_2: ticket-erupt
 bip_39_word_dash_3: ticket-erupt-people
-bip_39_word_dash_4: ticket-erupt-people-summer
-bip_39_word_dash_5: ticket-erupt-people-summer-famous
-bip_39_word_dash_6: ticket-erupt-people-summer-famous-often
-bip_39_word_dash_7: ticket-erupt-people-summer-famous-often-distance
-bip_39_word_dash_8: ticket-erupt-people-summer-famous-often-distance-record
-bip_39_word_dash_9: ticket-erupt-people-summer-famous-often-distance-record-unaware
-bip_39_word_new_br_1: ticket
-bip_39_word_new_br_10: ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable
-bip_39_word_new_br_11: ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip
 bip_39_word_new_br_12: ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip<br>another
 bip_39_word_new_br_2: ticket<br>erupt
 bip_39_word_new_br_3: ticket<br>erupt<br>people
-bip_39_word_new_br_4: ticket<br>erupt<br>people<br>summer
-bip_39_word_new_br_5: ticket<br>erupt<br>people<br>summer<br>famous
-bip_39_word_new_br_6: ticket<br>erupt<br>people<br>summer<br>famous<br>often
-bip_39_word_new_br_7: ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance
-bip_39_word_new_br_8: ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record
-bip_39_word_new_br_9: ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware
-bip_39_word_new_line_1: ticket
-bip_39_word_new_line_10: 'ticket
-
-  erupt
-
-  people
-
-  summer
-
-  famous
-
-  often
-
-  distance
-
-  record
-
-  unaware
-
-  stable'
-bip_39_word_new_line_11: 'ticket
-
-  erupt
-
-  people
-
-  summer
-
-  famous
-
-  often
-
-  distance
-
-  record
-
-  unaware
-
-  stable
-
-  whip'
 bip_39_word_new_line_12: 'ticket
 
   erupt
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ticket
   erupt
 
   people'
-bip_39_word_new_line_4: 'ticket
-
-  erupt
-
-  people
-
-  summer'
-bip_39_word_new_line_5: 'ticket
-
-  erupt
-
-  people
-
-  summer
-
-  famous'
-bip_39_word_new_line_6: 'ticket
-
-  erupt
-
-  people
-
-  summer
-
-  famous
-
-  often'
-bip_39_word_new_line_7: 'ticket
-
-  erupt
-
-  people
-
-  summer
-
-  famous
-
-  often
-
-  distance'
-bip_39_word_new_line_8: 'ticket
-
-  erupt
-
-  people
-
-  summer
-
-  famous
-
-  often
-
-  distance
-
-  record'
-bip_39_word_new_line_9: 'ticket
-
-  erupt
-
-  people
-
-  summer
-
-  famous
-
-  often
-
-  distance
-
-  record
-
-  unaware'
-bip_39_word_no_space_1: ticket
-bip_39_word_no_space_10: ticketeruptpeoplesummerfamousoftendistancerecordunawarestable
-bip_39_word_no_space_11: ticketeruptpeoplesummerfamousoftendistancerecordunawarestablewhip
 bip_39_word_no_space_12: ticketeruptpeoplesummerfamousoftendistancerecordunawarestablewhipanother
 bip_39_word_no_space_2: ticketerupt
 bip_39_word_no_space_3: ticketeruptpeople
-bip_39_word_no_space_4: ticketeruptpeoplesummer
-bip_39_word_no_space_5: ticketeruptpeoplesummerfamous
-bip_39_word_no_space_6: ticketeruptpeoplesummerfamousoften
-bip_39_word_no_space_7: ticketeruptpeoplesummerfamousoftendistance
-bip_39_word_no_space_8: ticketeruptpeoplesummerfamousoftendistancerecord
-bip_39_word_no_space_9: ticketeruptpeoplesummerfamousoftendistancerecordunaware
-bip_39_word_space_0:
-- ticket
-- erupt
-- people
-- summer
-- famous
-- often
-- distance
-- record
-- unaware
-- stable
-- whip
-- another
-bip_39_word_space_1: ticket
-bip_39_word_space_10: ticket erupt people summer famous often distance record unaware
-  stable
-bip_39_word_space_11: ticket erupt people summer famous often distance record unaware
-  stable whip
 bip_39_word_space_12: ticket erupt people summer famous often distance record unaware
   stable whip another
 bip_39_word_space_2: ticket erupt
 bip_39_word_space_3: ticket erupt people
-bip_39_word_space_4: ticket erupt people summer
-bip_39_word_space_5: ticket erupt people summer famous
-bip_39_word_space_6: ticket erupt people summer famous often
-bip_39_word_space_7: ticket erupt people summer famous often distance
-bip_39_word_space_8: ticket erupt people summer famous often distance record
-bip_39_word_space_9: ticket erupt people summer famous often distance record unaware
-bip_39_word_underscore_1: ticket
-bip_39_word_underscore_10: ticket_erupt_people_summer_famous_often_distance_record_unaware_stable
-bip_39_word_underscore_11: ticket_erupt_people_summer_famous_often_distance_record_unaware_stable_whip
 bip_39_word_underscore_12: ticket_erupt_people_summer_famous_often_distance_record_unaware_stable_whip_another
 bip_39_word_underscore_2: ticket_erupt
 bip_39_word_underscore_3: ticket_erupt_people
-bip_39_word_underscore_4: ticket_erupt_people_summer
-bip_39_word_underscore_5: ticket_erupt_people_summer_famous
-bip_39_word_underscore_6: ticket_erupt_people_summer_famous_often
-bip_39_word_underscore_7: ticket_erupt_people_summer_famous_often_distance
-bip_39_word_underscore_8: ticket_erupt_people_summer_famous_often_distance_record
-bip_39_word_underscore_9: ticket_erupt_people_summer_famous_often_distance_record_unaware
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

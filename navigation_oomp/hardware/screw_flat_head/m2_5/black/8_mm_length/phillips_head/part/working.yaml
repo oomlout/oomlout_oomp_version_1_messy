@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stone
-bip_39_word_dash_10: stone-element-salt-music-admit-off-alley-fancy-catalog-consider
-bip_39_word_dash_11: stone-element-salt-music-admit-off-alley-fancy-catalog-consider-monkey
 bip_39_word_dash_12: stone-element-salt-music-admit-off-alley-fancy-catalog-consider-monkey-ancient
 bip_39_word_dash_2: stone-element
 bip_39_word_dash_3: stone-element-salt
-bip_39_word_dash_4: stone-element-salt-music
-bip_39_word_dash_5: stone-element-salt-music-admit
-bip_39_word_dash_6: stone-element-salt-music-admit-off
-bip_39_word_dash_7: stone-element-salt-music-admit-off-alley
-bip_39_word_dash_8: stone-element-salt-music-admit-off-alley-fancy
-bip_39_word_dash_9: stone-element-salt-music-admit-off-alley-fancy-catalog
-bip_39_word_new_br_1: stone
-bip_39_word_new_br_10: stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog<br>consider
-bip_39_word_new_br_11: stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog<br>consider<br>monkey
 bip_39_word_new_br_12: stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog<br>consider<br>monkey<br>ancient
 bip_39_word_new_br_2: stone<br>element
 bip_39_word_new_br_3: stone<br>element<br>salt
-bip_39_word_new_br_4: stone<br>element<br>salt<br>music
-bip_39_word_new_br_5: stone<br>element<br>salt<br>music<br>admit
-bip_39_word_new_br_6: stone<br>element<br>salt<br>music<br>admit<br>off
-bip_39_word_new_br_7: stone<br>element<br>salt<br>music<br>admit<br>off<br>alley
-bip_39_word_new_br_8: stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy
-bip_39_word_new_br_9: stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog
-bip_39_word_new_line_1: stone
-bip_39_word_new_line_10: 'stone
-
-  element
-
-  salt
-
-  music
-
-  admit
-
-  off
-
-  alley
-
-  fancy
-
-  catalog
-
-  consider'
-bip_39_word_new_line_11: 'stone
-
-  element
-
-  salt
-
-  music
-
-  admit
-
-  off
-
-  alley
-
-  fancy
-
-  catalog
-
-  consider
-
-  monkey'
 bip_39_word_new_line_12: 'stone
 
   element
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'stone
   element
 
   salt'
-bip_39_word_new_line_4: 'stone
-
-  element
-
-  salt
-
-  music'
-bip_39_word_new_line_5: 'stone
-
-  element
-
-  salt
-
-  music
-
-  admit'
-bip_39_word_new_line_6: 'stone
-
-  element
-
-  salt
-
-  music
-
-  admit
-
-  off'
-bip_39_word_new_line_7: 'stone
-
-  element
-
-  salt
-
-  music
-
-  admit
-
-  off
-
-  alley'
-bip_39_word_new_line_8: 'stone
-
-  element
-
-  salt
-
-  music
-
-  admit
-
-  off
-
-  alley
-
-  fancy'
-bip_39_word_new_line_9: 'stone
-
-  element
-
-  salt
-
-  music
-
-  admit
-
-  off
-
-  alley
-
-  fancy
-
-  catalog'
-bip_39_word_no_space_1: stone
-bip_39_word_no_space_10: stoneelementsaltmusicadmitoffalleyfancycatalogconsider
-bip_39_word_no_space_11: stoneelementsaltmusicadmitoffalleyfancycatalogconsidermonkey
 bip_39_word_no_space_12: stoneelementsaltmusicadmitoffalleyfancycatalogconsidermonkeyancient
 bip_39_word_no_space_2: stoneelement
 bip_39_word_no_space_3: stoneelementsalt
-bip_39_word_no_space_4: stoneelementsaltmusic
-bip_39_word_no_space_5: stoneelementsaltmusicadmit
-bip_39_word_no_space_6: stoneelementsaltmusicadmitoff
-bip_39_word_no_space_7: stoneelementsaltmusicadmitoffalley
-bip_39_word_no_space_8: stoneelementsaltmusicadmitoffalleyfancy
-bip_39_word_no_space_9: stoneelementsaltmusicadmitoffalleyfancycatalog
-bip_39_word_space_0:
-- stone
-- element
-- salt
-- music
-- admit
-- 'off'
-- alley
-- fancy
-- catalog
-- consider
-- monkey
-- ancient
-bip_39_word_space_1: stone
-bip_39_word_space_10: stone element salt music admit off alley fancy catalog consider
-bip_39_word_space_11: stone element salt music admit off alley fancy catalog consider
-  monkey
 bip_39_word_space_12: stone element salt music admit off alley fancy catalog consider
   monkey ancient
 bip_39_word_space_2: stone element
 bip_39_word_space_3: stone element salt
-bip_39_word_space_4: stone element salt music
-bip_39_word_space_5: stone element salt music admit
-bip_39_word_space_6: stone element salt music admit off
-bip_39_word_space_7: stone element salt music admit off alley
-bip_39_word_space_8: stone element salt music admit off alley fancy
-bip_39_word_space_9: stone element salt music admit off alley fancy catalog
-bip_39_word_underscore_1: stone
-bip_39_word_underscore_10: stone_element_salt_music_admit_off_alley_fancy_catalog_consider
-bip_39_word_underscore_11: stone_element_salt_music_admit_off_alley_fancy_catalog_consider_monkey
 bip_39_word_underscore_12: stone_element_salt_music_admit_off_alley_fancy_catalog_consider_monkey_ancient
 bip_39_word_underscore_2: stone_element
 bip_39_word_underscore_3: stone_element_salt
-bip_39_word_underscore_4: stone_element_salt_music
-bip_39_word_underscore_5: stone_element_salt_music_admit
-bip_39_word_underscore_6: stone_element_salt_music_admit_off
-bip_39_word_underscore_7: stone_element_salt_music_admit_off_alley
-bip_39_word_underscore_8: stone_element_salt_music_admit_off_alley_fancy
-bip_39_word_underscore_9: stone_element_salt_music_admit_off_alley_fancy_catalog
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

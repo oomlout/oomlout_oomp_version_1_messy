@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420696029'
-bip_39_word_dash_1: blur
-bip_39_word_dash_10: blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet-cross
-bip_39_word_dash_11: blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet-cross-action
 bip_39_word_dash_12: blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet-cross-action-amateur
 bip_39_word_dash_2: blur-exclude
 bip_39_word_dash_3: blur-exclude-keen
-bip_39_word_dash_4: blur-exclude-keen-betray
-bip_39_word_dash_5: blur-exclude-keen-betray-nasty
-bip_39_word_dash_6: blur-exclude-keen-betray-nasty-pumpkin
-bip_39_word_dash_7: blur-exclude-keen-betray-nasty-pumpkin-neither
-bip_39_word_dash_8: blur-exclude-keen-betray-nasty-pumpkin-neither-mention
-bip_39_word_dash_9: blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet
-bip_39_word_new_br_1: blur
-bip_39_word_new_br_10: blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin<br>neither<br>mention<br>helmet<br>cross
-bip_39_word_new_br_11: blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin<br>neither<br>mention<br>helmet<br>cross<br>action
 bip_39_word_new_br_12: blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin<br>neither<br>mention<br>helmet<br>cross<br>action<br>amateur
 bip_39_word_new_br_2: blur<br>exclude
 bip_39_word_new_br_3: blur<br>exclude<br>keen
-bip_39_word_new_br_4: blur<br>exclude<br>keen<br>betray
-bip_39_word_new_br_5: blur<br>exclude<br>keen<br>betray<br>nasty
-bip_39_word_new_br_6: blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin
-bip_39_word_new_br_7: blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin<br>neither
-bip_39_word_new_br_8: blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin<br>neither<br>mention
-bip_39_word_new_br_9: blur<br>exclude<br>keen<br>betray<br>nasty<br>pumpkin<br>neither<br>mention<br>helmet
-bip_39_word_new_line_1: blur
-bip_39_word_new_line_10: 'blur
-
-  exclude
-
-  keen
-
-  betray
-
-  nasty
-
-  pumpkin
-
-  neither
-
-  mention
-
-  helmet
-
-  cross'
-bip_39_word_new_line_11: 'blur
-
-  exclude
-
-  keen
-
-  betray
-
-  nasty
-
-  pumpkin
-
-  neither
-
-  mention
-
-  helmet
-
-  cross
-
-  action'
 bip_39_word_new_line_12: 'blur
 
   exclude
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'blur
   exclude
 
   keen'
-bip_39_word_new_line_4: 'blur
-
-  exclude
-
-  keen
-
-  betray'
-bip_39_word_new_line_5: 'blur
-
-  exclude
-
-  keen
-
-  betray
-
-  nasty'
-bip_39_word_new_line_6: 'blur
-
-  exclude
-
-  keen
-
-  betray
-
-  nasty
-
-  pumpkin'
-bip_39_word_new_line_7: 'blur
-
-  exclude
-
-  keen
-
-  betray
-
-  nasty
-
-  pumpkin
-
-  neither'
-bip_39_word_new_line_8: 'blur
-
-  exclude
-
-  keen
-
-  betray
-
-  nasty
-
-  pumpkin
-
-  neither
-
-  mention'
-bip_39_word_new_line_9: 'blur
-
-  exclude
-
-  keen
-
-  betray
-
-  nasty
-
-  pumpkin
-
-  neither
-
-  mention
-
-  helmet'
-bip_39_word_no_space_1: blur
-bip_39_word_no_space_10: blurexcludekeenbetraynastypumpkinneithermentionhelmetcross
-bip_39_word_no_space_11: blurexcludekeenbetraynastypumpkinneithermentionhelmetcrossaction
 bip_39_word_no_space_12: blurexcludekeenbetraynastypumpkinneithermentionhelmetcrossactionamateur
 bip_39_word_no_space_2: blurexclude
 bip_39_word_no_space_3: blurexcludekeen
-bip_39_word_no_space_4: blurexcludekeenbetray
-bip_39_word_no_space_5: blurexcludekeenbetraynasty
-bip_39_word_no_space_6: blurexcludekeenbetraynastypumpkin
-bip_39_word_no_space_7: blurexcludekeenbetraynastypumpkinneither
-bip_39_word_no_space_8: blurexcludekeenbetraynastypumpkinneithermention
-bip_39_word_no_space_9: blurexcludekeenbetraynastypumpkinneithermentionhelmet
-bip_39_word_space_0:
-- blur
-- exclude
-- keen
-- betray
-- nasty
-- pumpkin
-- neither
-- mention
-- helmet
-- cross
-- action
-- amateur
-bip_39_word_space_1: blur
-bip_39_word_space_10: blur exclude keen betray nasty pumpkin neither mention helmet
-  cross
-bip_39_word_space_11: blur exclude keen betray nasty pumpkin neither mention helmet
-  cross action
 bip_39_word_space_12: blur exclude keen betray nasty pumpkin neither mention helmet
   cross action amateur
 bip_39_word_space_2: blur exclude
 bip_39_word_space_3: blur exclude keen
-bip_39_word_space_4: blur exclude keen betray
-bip_39_word_space_5: blur exclude keen betray nasty
-bip_39_word_space_6: blur exclude keen betray nasty pumpkin
-bip_39_word_space_7: blur exclude keen betray nasty pumpkin neither
-bip_39_word_space_8: blur exclude keen betray nasty pumpkin neither mention
-bip_39_word_space_9: blur exclude keen betray nasty pumpkin neither mention helmet
-bip_39_word_underscore_1: blur
-bip_39_word_underscore_10: blur_exclude_keen_betray_nasty_pumpkin_neither_mention_helmet_cross
-bip_39_word_underscore_11: blur_exclude_keen_betray_nasty_pumpkin_neither_mention_helmet_cross_action
 bip_39_word_underscore_12: blur_exclude_keen_betray_nasty_pumpkin_neither_mention_helmet_cross_action_amateur
 bip_39_word_underscore_2: blur_exclude
 bip_39_word_underscore_3: blur_exclude_keen
-bip_39_word_underscore_4: blur_exclude_keen_betray
-bip_39_word_underscore_5: blur_exclude_keen_betray_nasty
-bip_39_word_underscore_6: blur_exclude_keen_betray_nasty_pumpkin
-bip_39_word_underscore_7: blur_exclude_keen_betray_nasty_pumpkin_neither
-bip_39_word_underscore_8: blur_exclude_keen_betray_nasty_pumpkin_neither_mention
-bip_39_word_underscore_9: blur_exclude_keen_betray_nasty_pumpkin_neither_mention_helmet
 box_of_box_size_manufacturer_metalmate: '3000'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: blossom
-bip_39_word_dash_10: blossom-runway-slice-math-runway-myself-perfect-recall-witness-cradle
-bip_39_word_dash_11: blossom-runway-slice-math-runway-myself-perfect-recall-witness-cradle-journey
 bip_39_word_dash_12: blossom-runway-slice-math-runway-myself-perfect-recall-witness-cradle-journey-ancient
 bip_39_word_dash_2: blossom-runway
 bip_39_word_dash_3: blossom-runway-slice
-bip_39_word_dash_4: blossom-runway-slice-math
-bip_39_word_dash_5: blossom-runway-slice-math-runway
-bip_39_word_dash_6: blossom-runway-slice-math-runway-myself
-bip_39_word_dash_7: blossom-runway-slice-math-runway-myself-perfect
-bip_39_word_dash_8: blossom-runway-slice-math-runway-myself-perfect-recall
-bip_39_word_dash_9: blossom-runway-slice-math-runway-myself-perfect-recall-witness
-bip_39_word_new_br_1: blossom
-bip_39_word_new_br_10: blossom<br>runway<br>slice<br>math<br>runway<br>myself<br>perfect<br>recall<br>witness<br>cradle
-bip_39_word_new_br_11: blossom<br>runway<br>slice<br>math<br>runway<br>myself<br>perfect<br>recall<br>witness<br>cradle<br>journey
 bip_39_word_new_br_12: blossom<br>runway<br>slice<br>math<br>runway<br>myself<br>perfect<br>recall<br>witness<br>cradle<br>journey<br>ancient
 bip_39_word_new_br_2: blossom<br>runway
 bip_39_word_new_br_3: blossom<br>runway<br>slice
-bip_39_word_new_br_4: blossom<br>runway<br>slice<br>math
-bip_39_word_new_br_5: blossom<br>runway<br>slice<br>math<br>runway
-bip_39_word_new_br_6: blossom<br>runway<br>slice<br>math<br>runway<br>myself
-bip_39_word_new_br_7: blossom<br>runway<br>slice<br>math<br>runway<br>myself<br>perfect
-bip_39_word_new_br_8: blossom<br>runway<br>slice<br>math<br>runway<br>myself<br>perfect<br>recall
-bip_39_word_new_br_9: blossom<br>runway<br>slice<br>math<br>runway<br>myself<br>perfect<br>recall<br>witness
-bip_39_word_new_line_1: blossom
-bip_39_word_new_line_10: 'blossom
-
-  runway
-
-  slice
-
-  math
-
-  runway
-
-  myself
-
-  perfect
-
-  recall
-
-  witness
-
-  cradle'
-bip_39_word_new_line_11: 'blossom
-
-  runway
-
-  slice
-
-  math
-
-  runway
-
-  myself
-
-  perfect
-
-  recall
-
-  witness
-
-  cradle
-
-  journey'
 bip_39_word_new_line_12: 'blossom
 
   runway
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'blossom
   runway
 
   slice'
-bip_39_word_new_line_4: 'blossom
-
-  runway
-
-  slice
-
-  math'
-bip_39_word_new_line_5: 'blossom
-
-  runway
-
-  slice
-
-  math
-
-  runway'
-bip_39_word_new_line_6: 'blossom
-
-  runway
-
-  slice
-
-  math
-
-  runway
-
-  myself'
-bip_39_word_new_line_7: 'blossom
-
-  runway
-
-  slice
-
-  math
-
-  runway
-
-  myself
-
-  perfect'
-bip_39_word_new_line_8: 'blossom
-
-  runway
-
-  slice
-
-  math
-
-  runway
-
-  myself
-
-  perfect
-
-  recall'
-bip_39_word_new_line_9: 'blossom
-
-  runway
-
-  slice
-
-  math
-
-  runway
-
-  myself
-
-  perfect
-
-  recall
-
-  witness'
-bip_39_word_no_space_1: blossom
-bip_39_word_no_space_10: blossomrunwayslicemathrunwaymyselfperfectrecallwitnesscradle
-bip_39_word_no_space_11: blossomrunwayslicemathrunwaymyselfperfectrecallwitnesscradlejourney
 bip_39_word_no_space_12: blossomrunwayslicemathrunwaymyselfperfectrecallwitnesscradlejourneyancient
 bip_39_word_no_space_2: blossomrunway
 bip_39_word_no_space_3: blossomrunwayslice
-bip_39_word_no_space_4: blossomrunwayslicemath
-bip_39_word_no_space_5: blossomrunwayslicemathrunway
-bip_39_word_no_space_6: blossomrunwayslicemathrunwaymyself
-bip_39_word_no_space_7: blossomrunwayslicemathrunwaymyselfperfect
-bip_39_word_no_space_8: blossomrunwayslicemathrunwaymyselfperfectrecall
-bip_39_word_no_space_9: blossomrunwayslicemathrunwaymyselfperfectrecallwitness
-bip_39_word_space_0:
-- blossom
-- runway
-- slice
-- math
-- runway
-- myself
-- perfect
-- recall
-- witness
-- cradle
-- journey
-- ancient
-bip_39_word_space_1: blossom
-bip_39_word_space_10: blossom runway slice math runway myself perfect recall witness
-  cradle
-bip_39_word_space_11: blossom runway slice math runway myself perfect recall witness
-  cradle journey
 bip_39_word_space_12: blossom runway slice math runway myself perfect recall witness
   cradle journey ancient
 bip_39_word_space_2: blossom runway
 bip_39_word_space_3: blossom runway slice
-bip_39_word_space_4: blossom runway slice math
-bip_39_word_space_5: blossom runway slice math runway
-bip_39_word_space_6: blossom runway slice math runway myself
-bip_39_word_space_7: blossom runway slice math runway myself perfect
-bip_39_word_space_8: blossom runway slice math runway myself perfect recall
-bip_39_word_space_9: blossom runway slice math runway myself perfect recall witness
-bip_39_word_underscore_1: blossom
-bip_39_word_underscore_10: blossom_runway_slice_math_runway_myself_perfect_recall_witness_cradle
-bip_39_word_underscore_11: blossom_runway_slice_math_runway_myself_perfect_recall_witness_cradle_journey
 bip_39_word_underscore_12: blossom_runway_slice_math_runway_myself_perfect_recall_witness_cradle_journey_ancient
 bip_39_word_underscore_2: blossom_runway
 bip_39_word_underscore_3: blossom_runway_slice
-bip_39_word_underscore_4: blossom_runway_slice_math
-bip_39_word_underscore_5: blossom_runway_slice_math_runway
-bip_39_word_underscore_6: blossom_runway_slice_math_runway_myself
-bip_39_word_underscore_7: blossom_runway_slice_math_runway_myself_perfect
-bip_39_word_underscore_8: blossom_runway_slice_math_runway_myself_perfect_recall
-bip_39_word_underscore_9: blossom_runway_slice_math_runway_myself_perfect_recall_witness
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: head
-bip_39_word_dash_10: head-iron-smile-civil-jump-attend-fragile-hazard-upgrade-cattle
-bip_39_word_dash_11: head-iron-smile-civil-jump-attend-fragile-hazard-upgrade-cattle-clock
 bip_39_word_dash_12: head-iron-smile-civil-jump-attend-fragile-hazard-upgrade-cattle-clock-amazing
 bip_39_word_dash_2: head-iron
 bip_39_word_dash_3: head-iron-smile
-bip_39_word_dash_4: head-iron-smile-civil
-bip_39_word_dash_5: head-iron-smile-civil-jump
-bip_39_word_dash_6: head-iron-smile-civil-jump-attend
-bip_39_word_dash_7: head-iron-smile-civil-jump-attend-fragile
-bip_39_word_dash_8: head-iron-smile-civil-jump-attend-fragile-hazard
-bip_39_word_dash_9: head-iron-smile-civil-jump-attend-fragile-hazard-upgrade
-bip_39_word_new_br_1: head
-bip_39_word_new_br_10: head<br>iron<br>smile<br>civil<br>jump<br>attend<br>fragile<br>hazard<br>upgrade<br>cattle
-bip_39_word_new_br_11: head<br>iron<br>smile<br>civil<br>jump<br>attend<br>fragile<br>hazard<br>upgrade<br>cattle<br>clock
 bip_39_word_new_br_12: head<br>iron<br>smile<br>civil<br>jump<br>attend<br>fragile<br>hazard<br>upgrade<br>cattle<br>clock<br>amazing
 bip_39_word_new_br_2: head<br>iron
 bip_39_word_new_br_3: head<br>iron<br>smile
-bip_39_word_new_br_4: head<br>iron<br>smile<br>civil
-bip_39_word_new_br_5: head<br>iron<br>smile<br>civil<br>jump
-bip_39_word_new_br_6: head<br>iron<br>smile<br>civil<br>jump<br>attend
-bip_39_word_new_br_7: head<br>iron<br>smile<br>civil<br>jump<br>attend<br>fragile
-bip_39_word_new_br_8: head<br>iron<br>smile<br>civil<br>jump<br>attend<br>fragile<br>hazard
-bip_39_word_new_br_9: head<br>iron<br>smile<br>civil<br>jump<br>attend<br>fragile<br>hazard<br>upgrade
-bip_39_word_new_line_1: head
-bip_39_word_new_line_10: 'head
-
-  iron
-
-  smile
-
-  civil
-
-  jump
-
-  attend
-
-  fragile
-
-  hazard
-
-  upgrade
-
-  cattle'
-bip_39_word_new_line_11: 'head
-
-  iron
-
-  smile
-
-  civil
-
-  jump
-
-  attend
-
-  fragile
-
-  hazard
-
-  upgrade
-
-  cattle
-
-  clock'
 bip_39_word_new_line_12: 'head
 
   iron
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'head
   iron
 
   smile'
-bip_39_word_new_line_4: 'head
-
-  iron
-
-  smile
-
-  civil'
-bip_39_word_new_line_5: 'head
-
-  iron
-
-  smile
-
-  civil
-
-  jump'
-bip_39_word_new_line_6: 'head
-
-  iron
-
-  smile
-
-  civil
-
-  jump
-
-  attend'
-bip_39_word_new_line_7: 'head
-
-  iron
-
-  smile
-
-  civil
-
-  jump
-
-  attend
-
-  fragile'
-bip_39_word_new_line_8: 'head
-
-  iron
-
-  smile
-
-  civil
-
-  jump
-
-  attend
-
-  fragile
-
-  hazard'
-bip_39_word_new_line_9: 'head
-
-  iron
-
-  smile
-
-  civil
-
-  jump
-
-  attend
-
-  fragile
-
-  hazard
-
-  upgrade'
-bip_39_word_no_space_1: head
-bip_39_word_no_space_10: headironsmileciviljumpattendfragilehazardupgradecattle
-bip_39_word_no_space_11: headironsmileciviljumpattendfragilehazardupgradecattleclock
 bip_39_word_no_space_12: headironsmileciviljumpattendfragilehazardupgradecattleclockamazing
 bip_39_word_no_space_2: headiron
 bip_39_word_no_space_3: headironsmile
-bip_39_word_no_space_4: headironsmilecivil
-bip_39_word_no_space_5: headironsmileciviljump
-bip_39_word_no_space_6: headironsmileciviljumpattend
-bip_39_word_no_space_7: headironsmileciviljumpattendfragile
-bip_39_word_no_space_8: headironsmileciviljumpattendfragilehazard
-bip_39_word_no_space_9: headironsmileciviljumpattendfragilehazardupgrade
-bip_39_word_space_0:
-- head
-- iron
-- smile
-- civil
-- jump
-- attend
-- fragile
-- hazard
-- upgrade
-- cattle
-- clock
-- amazing
-bip_39_word_space_1: head
-bip_39_word_space_10: head iron smile civil jump attend fragile hazard upgrade cattle
-bip_39_word_space_11: head iron smile civil jump attend fragile hazard upgrade cattle
-  clock
 bip_39_word_space_12: head iron smile civil jump attend fragile hazard upgrade cattle
   clock amazing
 bip_39_word_space_2: head iron
 bip_39_word_space_3: head iron smile
-bip_39_word_space_4: head iron smile civil
-bip_39_word_space_5: head iron smile civil jump
-bip_39_word_space_6: head iron smile civil jump attend
-bip_39_word_space_7: head iron smile civil jump attend fragile
-bip_39_word_space_8: head iron smile civil jump attend fragile hazard
-bip_39_word_space_9: head iron smile civil jump attend fragile hazard upgrade
-bip_39_word_underscore_1: head
-bip_39_word_underscore_10: head_iron_smile_civil_jump_attend_fragile_hazard_upgrade_cattle
-bip_39_word_underscore_11: head_iron_smile_civil_jump_attend_fragile_hazard_upgrade_cattle_clock
 bip_39_word_underscore_12: head_iron_smile_civil_jump_attend_fragile_hazard_upgrade_cattle_clock_amazing
 bip_39_word_underscore_2: head_iron
 bip_39_word_underscore_3: head_iron_smile
-bip_39_word_underscore_4: head_iron_smile_civil
-bip_39_word_underscore_5: head_iron_smile_civil_jump
-bip_39_word_underscore_6: head_iron_smile_civil_jump_attend
-bip_39_word_underscore_7: head_iron_smile_civil_jump_attend_fragile
-bip_39_word_underscore_8: head_iron_smile_civil_jump_attend_fragile_hazard
-bip_39_word_underscore_9: head_iron_smile_civil_jump_attend_fragile_hazard_upgrade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

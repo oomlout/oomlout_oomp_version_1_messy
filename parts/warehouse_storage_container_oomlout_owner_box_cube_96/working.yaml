@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sing
-bip_39_word_dash_10: sing-subway-meadow-scout-lawsuit-cabbage-early-eagle-awkward-topic
-bip_39_word_dash_11: sing-subway-meadow-scout-lawsuit-cabbage-early-eagle-awkward-topic-route
 bip_39_word_dash_12: sing-subway-meadow-scout-lawsuit-cabbage-early-eagle-awkward-topic-route-alter
 bip_39_word_dash_2: sing-subway
 bip_39_word_dash_3: sing-subway-meadow
-bip_39_word_dash_4: sing-subway-meadow-scout
-bip_39_word_dash_5: sing-subway-meadow-scout-lawsuit
-bip_39_word_dash_6: sing-subway-meadow-scout-lawsuit-cabbage
-bip_39_word_dash_7: sing-subway-meadow-scout-lawsuit-cabbage-early
-bip_39_word_dash_8: sing-subway-meadow-scout-lawsuit-cabbage-early-eagle
-bip_39_word_dash_9: sing-subway-meadow-scout-lawsuit-cabbage-early-eagle-awkward
-bip_39_word_new_br_1: sing
-bip_39_word_new_br_10: sing<br>subway<br>meadow<br>scout<br>lawsuit<br>cabbage<br>early<br>eagle<br>awkward<br>topic
-bip_39_word_new_br_11: sing<br>subway<br>meadow<br>scout<br>lawsuit<br>cabbage<br>early<br>eagle<br>awkward<br>topic<br>route
 bip_39_word_new_br_12: sing<br>subway<br>meadow<br>scout<br>lawsuit<br>cabbage<br>early<br>eagle<br>awkward<br>topic<br>route<br>alter
 bip_39_word_new_br_2: sing<br>subway
 bip_39_word_new_br_3: sing<br>subway<br>meadow
-bip_39_word_new_br_4: sing<br>subway<br>meadow<br>scout
-bip_39_word_new_br_5: sing<br>subway<br>meadow<br>scout<br>lawsuit
-bip_39_word_new_br_6: sing<br>subway<br>meadow<br>scout<br>lawsuit<br>cabbage
-bip_39_word_new_br_7: sing<br>subway<br>meadow<br>scout<br>lawsuit<br>cabbage<br>early
-bip_39_word_new_br_8: sing<br>subway<br>meadow<br>scout<br>lawsuit<br>cabbage<br>early<br>eagle
-bip_39_word_new_br_9: sing<br>subway<br>meadow<br>scout<br>lawsuit<br>cabbage<br>early<br>eagle<br>awkward
-bip_39_word_new_line_1: sing
-bip_39_word_new_line_10: 'sing
-
-  subway
-
-  meadow
-
-  scout
-
-  lawsuit
-
-  cabbage
-
-  early
-
-  eagle
-
-  awkward
-
-  topic'
-bip_39_word_new_line_11: 'sing
-
-  subway
-
-  meadow
-
-  scout
-
-  lawsuit
-
-  cabbage
-
-  early
-
-  eagle
-
-  awkward
-
-  topic
-
-  route'
 bip_39_word_new_line_12: 'sing
 
   subway
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sing
   subway
 
   meadow'
-bip_39_word_new_line_4: 'sing
-
-  subway
-
-  meadow
-
-  scout'
-bip_39_word_new_line_5: 'sing
-
-  subway
-
-  meadow
-
-  scout
-
-  lawsuit'
-bip_39_word_new_line_6: 'sing
-
-  subway
-
-  meadow
-
-  scout
-
-  lawsuit
-
-  cabbage'
-bip_39_word_new_line_7: 'sing
-
-  subway
-
-  meadow
-
-  scout
-
-  lawsuit
-
-  cabbage
-
-  early'
-bip_39_word_new_line_8: 'sing
-
-  subway
-
-  meadow
-
-  scout
-
-  lawsuit
-
-  cabbage
-
-  early
-
-  eagle'
-bip_39_word_new_line_9: 'sing
-
-  subway
-
-  meadow
-
-  scout
-
-  lawsuit
-
-  cabbage
-
-  early
-
-  eagle
-
-  awkward'
-bip_39_word_no_space_1: sing
-bip_39_word_no_space_10: singsubwaymeadowscoutlawsuitcabbageearlyeagleawkwardtopic
-bip_39_word_no_space_11: singsubwaymeadowscoutlawsuitcabbageearlyeagleawkwardtopicroute
 bip_39_word_no_space_12: singsubwaymeadowscoutlawsuitcabbageearlyeagleawkwardtopicroutealter
 bip_39_word_no_space_2: singsubway
 bip_39_word_no_space_3: singsubwaymeadow
-bip_39_word_no_space_4: singsubwaymeadowscout
-bip_39_word_no_space_5: singsubwaymeadowscoutlawsuit
-bip_39_word_no_space_6: singsubwaymeadowscoutlawsuitcabbage
-bip_39_word_no_space_7: singsubwaymeadowscoutlawsuitcabbageearly
-bip_39_word_no_space_8: singsubwaymeadowscoutlawsuitcabbageearlyeagle
-bip_39_word_no_space_9: singsubwaymeadowscoutlawsuitcabbageearlyeagleawkward
-bip_39_word_space_0:
-- sing
-- subway
-- meadow
-- scout
-- lawsuit
-- cabbage
-- early
-- eagle
-- awkward
-- topic
-- route
-- alter
-bip_39_word_space_1: sing
-bip_39_word_space_10: sing subway meadow scout lawsuit cabbage early eagle awkward
-  topic
-bip_39_word_space_11: sing subway meadow scout lawsuit cabbage early eagle awkward
-  topic route
 bip_39_word_space_12: sing subway meadow scout lawsuit cabbage early eagle awkward
   topic route alter
 bip_39_word_space_2: sing subway
 bip_39_word_space_3: sing subway meadow
-bip_39_word_space_4: sing subway meadow scout
-bip_39_word_space_5: sing subway meadow scout lawsuit
-bip_39_word_space_6: sing subway meadow scout lawsuit cabbage
-bip_39_word_space_7: sing subway meadow scout lawsuit cabbage early
-bip_39_word_space_8: sing subway meadow scout lawsuit cabbage early eagle
-bip_39_word_space_9: sing subway meadow scout lawsuit cabbage early eagle awkward
-bip_39_word_underscore_1: sing
-bip_39_word_underscore_10: sing_subway_meadow_scout_lawsuit_cabbage_early_eagle_awkward_topic
-bip_39_word_underscore_11: sing_subway_meadow_scout_lawsuit_cabbage_early_eagle_awkward_topic_route
 bip_39_word_underscore_12: sing_subway_meadow_scout_lawsuit_cabbage_early_eagle_awkward_topic_route_alter
 bip_39_word_underscore_2: sing_subway
 bip_39_word_underscore_3: sing_subway_meadow
-bip_39_word_underscore_4: sing_subway_meadow_scout
-bip_39_word_underscore_5: sing_subway_meadow_scout_lawsuit
-bip_39_word_underscore_6: sing_subway_meadow_scout_lawsuit_cabbage
-bip_39_word_underscore_7: sing_subway_meadow_scout_lawsuit_cabbage_early
-bip_39_word_underscore_8: sing_subway_meadow_scout_lawsuit_cabbage_early_eagle
-bip_39_word_underscore_9: sing_subway_meadow_scout_lawsuit_cabbage_early_eagle_awkward
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

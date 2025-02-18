@@ -1,68 +1,9 @@
-bip_39_word_dash_1: domain
-bip_39_word_dash_10: domain-fun-damage-east-father-ship-control-draft-moral-final
-bip_39_word_dash_11: domain-fun-damage-east-father-ship-control-draft-moral-final-rack
 bip_39_word_dash_12: domain-fun-damage-east-father-ship-control-draft-moral-final-rack-arctic
 bip_39_word_dash_2: domain-fun
 bip_39_word_dash_3: domain-fun-damage
-bip_39_word_dash_4: domain-fun-damage-east
-bip_39_word_dash_5: domain-fun-damage-east-father
-bip_39_word_dash_6: domain-fun-damage-east-father-ship
-bip_39_word_dash_7: domain-fun-damage-east-father-ship-control
-bip_39_word_dash_8: domain-fun-damage-east-father-ship-control-draft
-bip_39_word_dash_9: domain-fun-damage-east-father-ship-control-draft-moral
-bip_39_word_new_br_1: domain
-bip_39_word_new_br_10: domain<br>fun<br>damage<br>east<br>father<br>ship<br>control<br>draft<br>moral<br>final
-bip_39_word_new_br_11: domain<br>fun<br>damage<br>east<br>father<br>ship<br>control<br>draft<br>moral<br>final<br>rack
 bip_39_word_new_br_12: domain<br>fun<br>damage<br>east<br>father<br>ship<br>control<br>draft<br>moral<br>final<br>rack<br>arctic
 bip_39_word_new_br_2: domain<br>fun
 bip_39_word_new_br_3: domain<br>fun<br>damage
-bip_39_word_new_br_4: domain<br>fun<br>damage<br>east
-bip_39_word_new_br_5: domain<br>fun<br>damage<br>east<br>father
-bip_39_word_new_br_6: domain<br>fun<br>damage<br>east<br>father<br>ship
-bip_39_word_new_br_7: domain<br>fun<br>damage<br>east<br>father<br>ship<br>control
-bip_39_word_new_br_8: domain<br>fun<br>damage<br>east<br>father<br>ship<br>control<br>draft
-bip_39_word_new_br_9: domain<br>fun<br>damage<br>east<br>father<br>ship<br>control<br>draft<br>moral
-bip_39_word_new_line_1: domain
-bip_39_word_new_line_10: 'domain
-
-  fun
-
-  damage
-
-  east
-
-  father
-
-  ship
-
-  control
-
-  draft
-
-  moral
-
-  final'
-bip_39_word_new_line_11: 'domain
-
-  fun
-
-  damage
-
-  east
-
-  father
-
-  ship
-
-  control
-
-  draft
-
-  moral
-
-  final
-
-  rack'
 bip_39_word_new_line_12: 'domain
 
   fun
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'domain
   fun
 
   damage'
-bip_39_word_new_line_4: 'domain
-
-  fun
-
-  damage
-
-  east'
-bip_39_word_new_line_5: 'domain
-
-  fun
-
-  damage
-
-  east
-
-  father'
-bip_39_word_new_line_6: 'domain
-
-  fun
-
-  damage
-
-  east
-
-  father
-
-  ship'
-bip_39_word_new_line_7: 'domain
-
-  fun
-
-  damage
-
-  east
-
-  father
-
-  ship
-
-  control'
-bip_39_word_new_line_8: 'domain
-
-  fun
-
-  damage
-
-  east
-
-  father
-
-  ship
-
-  control
-
-  draft'
-bip_39_word_new_line_9: 'domain
-
-  fun
-
-  damage
-
-  east
-
-  father
-
-  ship
-
-  control
-
-  draft
-
-  moral'
-bip_39_word_no_space_1: domain
-bip_39_word_no_space_10: domainfundamageeastfathershipcontroldraftmoralfinal
-bip_39_word_no_space_11: domainfundamageeastfathershipcontroldraftmoralfinalrack
 bip_39_word_no_space_12: domainfundamageeastfathershipcontroldraftmoralfinalrackarctic
 bip_39_word_no_space_2: domainfun
 bip_39_word_no_space_3: domainfundamage
-bip_39_word_no_space_4: domainfundamageeast
-bip_39_word_no_space_5: domainfundamageeastfather
-bip_39_word_no_space_6: domainfundamageeastfathership
-bip_39_word_no_space_7: domainfundamageeastfathershipcontrol
-bip_39_word_no_space_8: domainfundamageeastfathershipcontroldraft
-bip_39_word_no_space_9: domainfundamageeastfathershipcontroldraftmoral
-bip_39_word_space_0:
-- domain
-- fun
-- damage
-- east
-- father
-- ship
-- control
-- draft
-- moral
-- final
-- rack
-- arctic
-bip_39_word_space_1: domain
-bip_39_word_space_10: domain fun damage east father ship control draft moral final
-bip_39_word_space_11: domain fun damage east father ship control draft moral final
-  rack
 bip_39_word_space_12: domain fun damage east father ship control draft moral final
   rack arctic
 bip_39_word_space_2: domain fun
 bip_39_word_space_3: domain fun damage
-bip_39_word_space_4: domain fun damage east
-bip_39_word_space_5: domain fun damage east father
-bip_39_word_space_6: domain fun damage east father ship
-bip_39_word_space_7: domain fun damage east father ship control
-bip_39_word_space_8: domain fun damage east father ship control draft
-bip_39_word_space_9: domain fun damage east father ship control draft moral
-bip_39_word_underscore_1: domain
-bip_39_word_underscore_10: domain_fun_damage_east_father_ship_control_draft_moral_final
-bip_39_word_underscore_11: domain_fun_damage_east_father_ship_control_draft_moral_final_rack
 bip_39_word_underscore_12: domain_fun_damage_east_father_ship_control_draft_moral_final_rack_arctic
 bip_39_word_underscore_2: domain_fun
 bip_39_word_underscore_3: domain_fun_damage
-bip_39_word_underscore_4: domain_fun_damage_east
-bip_39_word_underscore_5: domain_fun_damage_east_father
-bip_39_word_underscore_6: domain_fun_damage_east_father_ship
-bip_39_word_underscore_7: domain_fun_damage_east_father_ship_control
-bip_39_word_underscore_8: domain_fun_damage_east_father_ship_control_draft
-bip_39_word_underscore_9: domain_fun_damage_east_father_ship_control_draft_moral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

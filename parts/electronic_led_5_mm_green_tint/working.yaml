@@ -1,68 +1,9 @@
-bip_39_word_dash_1: target
-bip_39_word_dash_10: target-sentence-oxygen-symbol-token-tray-talk-hotel-seminar-sense
-bip_39_word_dash_11: target-sentence-oxygen-symbol-token-tray-talk-hotel-seminar-sense-swallow
 bip_39_word_dash_12: target-sentence-oxygen-symbol-token-tray-talk-hotel-seminar-sense-swallow-alien
 bip_39_word_dash_2: target-sentence
 bip_39_word_dash_3: target-sentence-oxygen
-bip_39_word_dash_4: target-sentence-oxygen-symbol
-bip_39_word_dash_5: target-sentence-oxygen-symbol-token
-bip_39_word_dash_6: target-sentence-oxygen-symbol-token-tray
-bip_39_word_dash_7: target-sentence-oxygen-symbol-token-tray-talk
-bip_39_word_dash_8: target-sentence-oxygen-symbol-token-tray-talk-hotel
-bip_39_word_dash_9: target-sentence-oxygen-symbol-token-tray-talk-hotel-seminar
-bip_39_word_new_br_1: target
-bip_39_word_new_br_10: target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel<br>seminar<br>sense
-bip_39_word_new_br_11: target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel<br>seminar<br>sense<br>swallow
 bip_39_word_new_br_12: target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel<br>seminar<br>sense<br>swallow<br>alien
 bip_39_word_new_br_2: target<br>sentence
 bip_39_word_new_br_3: target<br>sentence<br>oxygen
-bip_39_word_new_br_4: target<br>sentence<br>oxygen<br>symbol
-bip_39_word_new_br_5: target<br>sentence<br>oxygen<br>symbol<br>token
-bip_39_word_new_br_6: target<br>sentence<br>oxygen<br>symbol<br>token<br>tray
-bip_39_word_new_br_7: target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk
-bip_39_word_new_br_8: target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel
-bip_39_word_new_br_9: target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel<br>seminar
-bip_39_word_new_line_1: target
-bip_39_word_new_line_10: 'target
-
-  sentence
-
-  oxygen
-
-  symbol
-
-  token
-
-  tray
-
-  talk
-
-  hotel
-
-  seminar
-
-  sense'
-bip_39_word_new_line_11: 'target
-
-  sentence
-
-  oxygen
-
-  symbol
-
-  token
-
-  tray
-
-  talk
-
-  hotel
-
-  seminar
-
-  sense
-
-  swallow'
 bip_39_word_new_line_12: 'target
 
   sentence
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'target
   sentence
 
   oxygen'
-bip_39_word_new_line_4: 'target
-
-  sentence
-
-  oxygen
-
-  symbol'
-bip_39_word_new_line_5: 'target
-
-  sentence
-
-  oxygen
-
-  symbol
-
-  token'
-bip_39_word_new_line_6: 'target
-
-  sentence
-
-  oxygen
-
-  symbol
-
-  token
-
-  tray'
-bip_39_word_new_line_7: 'target
-
-  sentence
-
-  oxygen
-
-  symbol
-
-  token
-
-  tray
-
-  talk'
-bip_39_word_new_line_8: 'target
-
-  sentence
-
-  oxygen
-
-  symbol
-
-  token
-
-  tray
-
-  talk
-
-  hotel'
-bip_39_word_new_line_9: 'target
-
-  sentence
-
-  oxygen
-
-  symbol
-
-  token
-
-  tray
-
-  talk
-
-  hotel
-
-  seminar'
-bip_39_word_no_space_1: target
-bip_39_word_no_space_10: targetsentenceoxygensymboltokentraytalkhotelseminarsense
-bip_39_word_no_space_11: targetsentenceoxygensymboltokentraytalkhotelseminarsenseswallow
 bip_39_word_no_space_12: targetsentenceoxygensymboltokentraytalkhotelseminarsenseswallowalien
 bip_39_word_no_space_2: targetsentence
 bip_39_word_no_space_3: targetsentenceoxygen
-bip_39_word_no_space_4: targetsentenceoxygensymbol
-bip_39_word_no_space_5: targetsentenceoxygensymboltoken
-bip_39_word_no_space_6: targetsentenceoxygensymboltokentray
-bip_39_word_no_space_7: targetsentenceoxygensymboltokentraytalk
-bip_39_word_no_space_8: targetsentenceoxygensymboltokentraytalkhotel
-bip_39_word_no_space_9: targetsentenceoxygensymboltokentraytalkhotelseminar
-bip_39_word_space_0:
-- target
-- sentence
-- oxygen
-- symbol
-- token
-- tray
-- talk
-- hotel
-- seminar
-- sense
-- swallow
-- alien
-bip_39_word_space_1: target
-bip_39_word_space_10: target sentence oxygen symbol token tray talk hotel seminar
-  sense
-bip_39_word_space_11: target sentence oxygen symbol token tray talk hotel seminar
-  sense swallow
 bip_39_word_space_12: target sentence oxygen symbol token tray talk hotel seminar
   sense swallow alien
 bip_39_word_space_2: target sentence
 bip_39_word_space_3: target sentence oxygen
-bip_39_word_space_4: target sentence oxygen symbol
-bip_39_word_space_5: target sentence oxygen symbol token
-bip_39_word_space_6: target sentence oxygen symbol token tray
-bip_39_word_space_7: target sentence oxygen symbol token tray talk
-bip_39_word_space_8: target sentence oxygen symbol token tray talk hotel
-bip_39_word_space_9: target sentence oxygen symbol token tray talk hotel seminar
-bip_39_word_underscore_1: target
-bip_39_word_underscore_10: target_sentence_oxygen_symbol_token_tray_talk_hotel_seminar_sense
-bip_39_word_underscore_11: target_sentence_oxygen_symbol_token_tray_talk_hotel_seminar_sense_swallow
 bip_39_word_underscore_12: target_sentence_oxygen_symbol_token_tray_talk_hotel_seminar_sense_swallow_alien
 bip_39_word_underscore_2: target_sentence
 bip_39_word_underscore_3: target_sentence_oxygen
-bip_39_word_underscore_4: target_sentence_oxygen_symbol
-bip_39_word_underscore_5: target_sentence_oxygen_symbol_token
-bip_39_word_underscore_6: target_sentence_oxygen_symbol_token_tray
-bip_39_word_underscore_7: target_sentence_oxygen_symbol_token_tray_talk
-bip_39_word_underscore_8: target_sentence_oxygen_symbol_token_tray_talk_hotel
-bip_39_word_underscore_9: target_sentence_oxygen_symbol_token_tray_talk_hotel_seminar
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

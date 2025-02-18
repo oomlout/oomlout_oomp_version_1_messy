@@ -1,68 +1,9 @@
-bip_39_word_dash_1: zone
-bip_39_word_dash_10: zone-pyramid-steel-label-simple-eyebrow-target-ready-pluck-require
-bip_39_word_dash_11: zone-pyramid-steel-label-simple-eyebrow-target-ready-pluck-require-dust
 bip_39_word_dash_12: zone-pyramid-steel-label-simple-eyebrow-target-ready-pluck-require-dust-act
 bip_39_word_dash_2: zone-pyramid
 bip_39_word_dash_3: zone-pyramid-steel
-bip_39_word_dash_4: zone-pyramid-steel-label
-bip_39_word_dash_5: zone-pyramid-steel-label-simple
-bip_39_word_dash_6: zone-pyramid-steel-label-simple-eyebrow
-bip_39_word_dash_7: zone-pyramid-steel-label-simple-eyebrow-target
-bip_39_word_dash_8: zone-pyramid-steel-label-simple-eyebrow-target-ready
-bip_39_word_dash_9: zone-pyramid-steel-label-simple-eyebrow-target-ready-pluck
-bip_39_word_new_br_1: zone
-bip_39_word_new_br_10: zone<br>pyramid<br>steel<br>label<br>simple<br>eyebrow<br>target<br>ready<br>pluck<br>require
-bip_39_word_new_br_11: zone<br>pyramid<br>steel<br>label<br>simple<br>eyebrow<br>target<br>ready<br>pluck<br>require<br>dust
 bip_39_word_new_br_12: zone<br>pyramid<br>steel<br>label<br>simple<br>eyebrow<br>target<br>ready<br>pluck<br>require<br>dust<br>act
 bip_39_word_new_br_2: zone<br>pyramid
 bip_39_word_new_br_3: zone<br>pyramid<br>steel
-bip_39_word_new_br_4: zone<br>pyramid<br>steel<br>label
-bip_39_word_new_br_5: zone<br>pyramid<br>steel<br>label<br>simple
-bip_39_word_new_br_6: zone<br>pyramid<br>steel<br>label<br>simple<br>eyebrow
-bip_39_word_new_br_7: zone<br>pyramid<br>steel<br>label<br>simple<br>eyebrow<br>target
-bip_39_word_new_br_8: zone<br>pyramid<br>steel<br>label<br>simple<br>eyebrow<br>target<br>ready
-bip_39_word_new_br_9: zone<br>pyramid<br>steel<br>label<br>simple<br>eyebrow<br>target<br>ready<br>pluck
-bip_39_word_new_line_1: zone
-bip_39_word_new_line_10: 'zone
-
-  pyramid
-
-  steel
-
-  label
-
-  simple
-
-  eyebrow
-
-  target
-
-  ready
-
-  pluck
-
-  require'
-bip_39_word_new_line_11: 'zone
-
-  pyramid
-
-  steel
-
-  label
-
-  simple
-
-  eyebrow
-
-  target
-
-  ready
-
-  pluck
-
-  require
-
-  dust'
 bip_39_word_new_line_12: 'zone
 
   pyramid
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'zone
   pyramid
 
   steel'
-bip_39_word_new_line_4: 'zone
-
-  pyramid
-
-  steel
-
-  label'
-bip_39_word_new_line_5: 'zone
-
-  pyramid
-
-  steel
-
-  label
-
-  simple'
-bip_39_word_new_line_6: 'zone
-
-  pyramid
-
-  steel
-
-  label
-
-  simple
-
-  eyebrow'
-bip_39_word_new_line_7: 'zone
-
-  pyramid
-
-  steel
-
-  label
-
-  simple
-
-  eyebrow
-
-  target'
-bip_39_word_new_line_8: 'zone
-
-  pyramid
-
-  steel
-
-  label
-
-  simple
-
-  eyebrow
-
-  target
-
-  ready'
-bip_39_word_new_line_9: 'zone
-
-  pyramid
-
-  steel
-
-  label
-
-  simple
-
-  eyebrow
-
-  target
-
-  ready
-
-  pluck'
-bip_39_word_no_space_1: zone
-bip_39_word_no_space_10: zonepyramidsteellabelsimpleeyebrowtargetreadypluckrequire
-bip_39_word_no_space_11: zonepyramidsteellabelsimpleeyebrowtargetreadypluckrequiredust
 bip_39_word_no_space_12: zonepyramidsteellabelsimpleeyebrowtargetreadypluckrequiredustact
 bip_39_word_no_space_2: zonepyramid
 bip_39_word_no_space_3: zonepyramidsteel
-bip_39_word_no_space_4: zonepyramidsteellabel
-bip_39_word_no_space_5: zonepyramidsteellabelsimple
-bip_39_word_no_space_6: zonepyramidsteellabelsimpleeyebrow
-bip_39_word_no_space_7: zonepyramidsteellabelsimpleeyebrowtarget
-bip_39_word_no_space_8: zonepyramidsteellabelsimpleeyebrowtargetready
-bip_39_word_no_space_9: zonepyramidsteellabelsimpleeyebrowtargetreadypluck
-bip_39_word_space_0:
-- zone
-- pyramid
-- steel
-- label
-- simple
-- eyebrow
-- target
-- ready
-- pluck
-- require
-- dust
-- act
-bip_39_word_space_1: zone
-bip_39_word_space_10: zone pyramid steel label simple eyebrow target ready pluck require
-bip_39_word_space_11: zone pyramid steel label simple eyebrow target ready pluck require
-  dust
 bip_39_word_space_12: zone pyramid steel label simple eyebrow target ready pluck require
   dust act
 bip_39_word_space_2: zone pyramid
 bip_39_word_space_3: zone pyramid steel
-bip_39_word_space_4: zone pyramid steel label
-bip_39_word_space_5: zone pyramid steel label simple
-bip_39_word_space_6: zone pyramid steel label simple eyebrow
-bip_39_word_space_7: zone pyramid steel label simple eyebrow target
-bip_39_word_space_8: zone pyramid steel label simple eyebrow target ready
-bip_39_word_space_9: zone pyramid steel label simple eyebrow target ready pluck
-bip_39_word_underscore_1: zone
-bip_39_word_underscore_10: zone_pyramid_steel_label_simple_eyebrow_target_ready_pluck_require
-bip_39_word_underscore_11: zone_pyramid_steel_label_simple_eyebrow_target_ready_pluck_require_dust
 bip_39_word_underscore_12: zone_pyramid_steel_label_simple_eyebrow_target_ready_pluck_require_dust_act
 bip_39_word_underscore_2: zone_pyramid
 bip_39_word_underscore_3: zone_pyramid_steel
-bip_39_word_underscore_4: zone_pyramid_steel_label
-bip_39_word_underscore_5: zone_pyramid_steel_label_simple
-bip_39_word_underscore_6: zone_pyramid_steel_label_simple_eyebrow
-bip_39_word_underscore_7: zone_pyramid_steel_label_simple_eyebrow_target
-bip_39_word_underscore_8: zone_pyramid_steel_label_simple_eyebrow_target_ready
-bip_39_word_underscore_9: zone_pyramid_steel_label_simple_eyebrow_target_ready_pluck
 classification: category
 classification_capital: Category
 classification_first_letter: c

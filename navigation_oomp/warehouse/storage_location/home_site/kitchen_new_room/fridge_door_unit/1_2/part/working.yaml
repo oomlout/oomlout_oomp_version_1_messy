@@ -1,68 +1,9 @@
-bip_39_word_dash_1: setup
-bip_39_word_dash_10: setup-tape-sand-veteran-trip-sport-diagram-area-uphold-retire
-bip_39_word_dash_11: setup-tape-sand-veteran-trip-sport-diagram-area-uphold-retire-deny
 bip_39_word_dash_12: setup-tape-sand-veteran-trip-sport-diagram-area-uphold-retire-deny-arrive
 bip_39_word_dash_2: setup-tape
 bip_39_word_dash_3: setup-tape-sand
-bip_39_word_dash_4: setup-tape-sand-veteran
-bip_39_word_dash_5: setup-tape-sand-veteran-trip
-bip_39_word_dash_6: setup-tape-sand-veteran-trip-sport
-bip_39_word_dash_7: setup-tape-sand-veteran-trip-sport-diagram
-bip_39_word_dash_8: setup-tape-sand-veteran-trip-sport-diagram-area
-bip_39_word_dash_9: setup-tape-sand-veteran-trip-sport-diagram-area-uphold
-bip_39_word_new_br_1: setup
-bip_39_word_new_br_10: setup<br>tape<br>sand<br>veteran<br>trip<br>sport<br>diagram<br>area<br>uphold<br>retire
-bip_39_word_new_br_11: setup<br>tape<br>sand<br>veteran<br>trip<br>sport<br>diagram<br>area<br>uphold<br>retire<br>deny
 bip_39_word_new_br_12: setup<br>tape<br>sand<br>veteran<br>trip<br>sport<br>diagram<br>area<br>uphold<br>retire<br>deny<br>arrive
 bip_39_word_new_br_2: setup<br>tape
 bip_39_word_new_br_3: setup<br>tape<br>sand
-bip_39_word_new_br_4: setup<br>tape<br>sand<br>veteran
-bip_39_word_new_br_5: setup<br>tape<br>sand<br>veteran<br>trip
-bip_39_word_new_br_6: setup<br>tape<br>sand<br>veteran<br>trip<br>sport
-bip_39_word_new_br_7: setup<br>tape<br>sand<br>veteran<br>trip<br>sport<br>diagram
-bip_39_word_new_br_8: setup<br>tape<br>sand<br>veteran<br>trip<br>sport<br>diagram<br>area
-bip_39_word_new_br_9: setup<br>tape<br>sand<br>veteran<br>trip<br>sport<br>diagram<br>area<br>uphold
-bip_39_word_new_line_1: setup
-bip_39_word_new_line_10: 'setup
-
-  tape
-
-  sand
-
-  veteran
-
-  trip
-
-  sport
-
-  diagram
-
-  area
-
-  uphold
-
-  retire'
-bip_39_word_new_line_11: 'setup
-
-  tape
-
-  sand
-
-  veteran
-
-  trip
-
-  sport
-
-  diagram
-
-  area
-
-  uphold
-
-  retire
-
-  deny'
 bip_39_word_new_line_12: 'setup
 
   tape
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'setup
   tape
 
   sand'
-bip_39_word_new_line_4: 'setup
-
-  tape
-
-  sand
-
-  veteran'
-bip_39_word_new_line_5: 'setup
-
-  tape
-
-  sand
-
-  veteran
-
-  trip'
-bip_39_word_new_line_6: 'setup
-
-  tape
-
-  sand
-
-  veteran
-
-  trip
-
-  sport'
-bip_39_word_new_line_7: 'setup
-
-  tape
-
-  sand
-
-  veteran
-
-  trip
-
-  sport
-
-  diagram'
-bip_39_word_new_line_8: 'setup
-
-  tape
-
-  sand
-
-  veteran
-
-  trip
-
-  sport
-
-  diagram
-
-  area'
-bip_39_word_new_line_9: 'setup
-
-  tape
-
-  sand
-
-  veteran
-
-  trip
-
-  sport
-
-  diagram
-
-  area
-
-  uphold'
-bip_39_word_no_space_1: setup
-bip_39_word_no_space_10: setuptapesandveterantripsportdiagramareaupholdretire
-bip_39_word_no_space_11: setuptapesandveterantripsportdiagramareaupholdretiredeny
 bip_39_word_no_space_12: setuptapesandveterantripsportdiagramareaupholdretiredenyarrive
 bip_39_word_no_space_2: setuptape
 bip_39_word_no_space_3: setuptapesand
-bip_39_word_no_space_4: setuptapesandveteran
-bip_39_word_no_space_5: setuptapesandveterantrip
-bip_39_word_no_space_6: setuptapesandveterantripsport
-bip_39_word_no_space_7: setuptapesandveterantripsportdiagram
-bip_39_word_no_space_8: setuptapesandveterantripsportdiagramarea
-bip_39_word_no_space_9: setuptapesandveterantripsportdiagramareauphold
-bip_39_word_space_0:
-- setup
-- tape
-- sand
-- veteran
-- trip
-- sport
-- diagram
-- area
-- uphold
-- retire
-- deny
-- arrive
-bip_39_word_space_1: setup
-bip_39_word_space_10: setup tape sand veteran trip sport diagram area uphold retire
-bip_39_word_space_11: setup tape sand veteran trip sport diagram area uphold retire
-  deny
 bip_39_word_space_12: setup tape sand veteran trip sport diagram area uphold retire
   deny arrive
 bip_39_word_space_2: setup tape
 bip_39_word_space_3: setup tape sand
-bip_39_word_space_4: setup tape sand veteran
-bip_39_word_space_5: setup tape sand veteran trip
-bip_39_word_space_6: setup tape sand veteran trip sport
-bip_39_word_space_7: setup tape sand veteran trip sport diagram
-bip_39_word_space_8: setup tape sand veteran trip sport diagram area
-bip_39_word_space_9: setup tape sand veteran trip sport diagram area uphold
-bip_39_word_underscore_1: setup
-bip_39_word_underscore_10: setup_tape_sand_veteran_trip_sport_diagram_area_uphold_retire
-bip_39_word_underscore_11: setup_tape_sand_veteran_trip_sport_diagram_area_uphold_retire_deny
 bip_39_word_underscore_12: setup_tape_sand_veteran_trip_sport_diagram_area_uphold_retire_deny_arrive
 bip_39_word_underscore_2: setup_tape
 bip_39_word_underscore_3: setup_tape_sand
-bip_39_word_underscore_4: setup_tape_sand_veteran
-bip_39_word_underscore_5: setup_tape_sand_veteran_trip
-bip_39_word_underscore_6: setup_tape_sand_veteran_trip_sport
-bip_39_word_underscore_7: setup_tape_sand_veteran_trip_sport_diagram
-bip_39_word_underscore_8: setup_tape_sand_veteran_trip_sport_diagram_area
-bip_39_word_underscore_9: setup_tape_sand_veteran_trip_sport_diagram_area_uphold
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

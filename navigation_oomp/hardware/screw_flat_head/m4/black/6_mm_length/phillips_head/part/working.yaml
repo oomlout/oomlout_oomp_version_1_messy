@@ -1,68 +1,9 @@
-bip_39_word_dash_1: apology
-bip_39_word_dash_10: apology-brisk-unknown-void-giggle-illness-key-angry-gauge-dragon
-bip_39_word_dash_11: apology-brisk-unknown-void-giggle-illness-key-angry-gauge-dragon-skull
 bip_39_word_dash_12: apology-brisk-unknown-void-giggle-illness-key-angry-gauge-dragon-skull-arm
 bip_39_word_dash_2: apology-brisk
 bip_39_word_dash_3: apology-brisk-unknown
-bip_39_word_dash_4: apology-brisk-unknown-void
-bip_39_word_dash_5: apology-brisk-unknown-void-giggle
-bip_39_word_dash_6: apology-brisk-unknown-void-giggle-illness
-bip_39_word_dash_7: apology-brisk-unknown-void-giggle-illness-key
-bip_39_word_dash_8: apology-brisk-unknown-void-giggle-illness-key-angry
-bip_39_word_dash_9: apology-brisk-unknown-void-giggle-illness-key-angry-gauge
-bip_39_word_new_br_1: apology
-bip_39_word_new_br_10: apology<br>brisk<br>unknown<br>void<br>giggle<br>illness<br>key<br>angry<br>gauge<br>dragon
-bip_39_word_new_br_11: apology<br>brisk<br>unknown<br>void<br>giggle<br>illness<br>key<br>angry<br>gauge<br>dragon<br>skull
 bip_39_word_new_br_12: apology<br>brisk<br>unknown<br>void<br>giggle<br>illness<br>key<br>angry<br>gauge<br>dragon<br>skull<br>arm
 bip_39_word_new_br_2: apology<br>brisk
 bip_39_word_new_br_3: apology<br>brisk<br>unknown
-bip_39_word_new_br_4: apology<br>brisk<br>unknown<br>void
-bip_39_word_new_br_5: apology<br>brisk<br>unknown<br>void<br>giggle
-bip_39_word_new_br_6: apology<br>brisk<br>unknown<br>void<br>giggle<br>illness
-bip_39_word_new_br_7: apology<br>brisk<br>unknown<br>void<br>giggle<br>illness<br>key
-bip_39_word_new_br_8: apology<br>brisk<br>unknown<br>void<br>giggle<br>illness<br>key<br>angry
-bip_39_word_new_br_9: apology<br>brisk<br>unknown<br>void<br>giggle<br>illness<br>key<br>angry<br>gauge
-bip_39_word_new_line_1: apology
-bip_39_word_new_line_10: 'apology
-
-  brisk
-
-  unknown
-
-  void
-
-  giggle
-
-  illness
-
-  key
-
-  angry
-
-  gauge
-
-  dragon'
-bip_39_word_new_line_11: 'apology
-
-  brisk
-
-  unknown
-
-  void
-
-  giggle
-
-  illness
-
-  key
-
-  angry
-
-  gauge
-
-  dragon
-
-  skull'
 bip_39_word_new_line_12: 'apology
 
   brisk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'apology
   brisk
 
   unknown'
-bip_39_word_new_line_4: 'apology
-
-  brisk
-
-  unknown
-
-  void'
-bip_39_word_new_line_5: 'apology
-
-  brisk
-
-  unknown
-
-  void
-
-  giggle'
-bip_39_word_new_line_6: 'apology
-
-  brisk
-
-  unknown
-
-  void
-
-  giggle
-
-  illness'
-bip_39_word_new_line_7: 'apology
-
-  brisk
-
-  unknown
-
-  void
-
-  giggle
-
-  illness
-
-  key'
-bip_39_word_new_line_8: 'apology
-
-  brisk
-
-  unknown
-
-  void
-
-  giggle
-
-  illness
-
-  key
-
-  angry'
-bip_39_word_new_line_9: 'apology
-
-  brisk
-
-  unknown
-
-  void
-
-  giggle
-
-  illness
-
-  key
-
-  angry
-
-  gauge'
-bip_39_word_no_space_1: apology
-bip_39_word_no_space_10: apologybriskunknownvoidgiggleillnesskeyangrygaugedragon
-bip_39_word_no_space_11: apologybriskunknownvoidgiggleillnesskeyangrygaugedragonskull
 bip_39_word_no_space_12: apologybriskunknownvoidgiggleillnesskeyangrygaugedragonskullarm
 bip_39_word_no_space_2: apologybrisk
 bip_39_word_no_space_3: apologybriskunknown
-bip_39_word_no_space_4: apologybriskunknownvoid
-bip_39_word_no_space_5: apologybriskunknownvoidgiggle
-bip_39_word_no_space_6: apologybriskunknownvoidgiggleillness
-bip_39_word_no_space_7: apologybriskunknownvoidgiggleillnesskey
-bip_39_word_no_space_8: apologybriskunknownvoidgiggleillnesskeyangry
-bip_39_word_no_space_9: apologybriskunknownvoidgiggleillnesskeyangrygauge
-bip_39_word_space_0:
-- apology
-- brisk
-- unknown
-- void
-- giggle
-- illness
-- key
-- angry
-- gauge
-- dragon
-- skull
-- arm
-bip_39_word_space_1: apology
-bip_39_word_space_10: apology brisk unknown void giggle illness key angry gauge dragon
-bip_39_word_space_11: apology brisk unknown void giggle illness key angry gauge dragon
-  skull
 bip_39_word_space_12: apology brisk unknown void giggle illness key angry gauge dragon
   skull arm
 bip_39_word_space_2: apology brisk
 bip_39_word_space_3: apology brisk unknown
-bip_39_word_space_4: apology brisk unknown void
-bip_39_word_space_5: apology brisk unknown void giggle
-bip_39_word_space_6: apology brisk unknown void giggle illness
-bip_39_word_space_7: apology brisk unknown void giggle illness key
-bip_39_word_space_8: apology brisk unknown void giggle illness key angry
-bip_39_word_space_9: apology brisk unknown void giggle illness key angry gauge
-bip_39_word_underscore_1: apology
-bip_39_word_underscore_10: apology_brisk_unknown_void_giggle_illness_key_angry_gauge_dragon
-bip_39_word_underscore_11: apology_brisk_unknown_void_giggle_illness_key_angry_gauge_dragon_skull
 bip_39_word_underscore_12: apology_brisk_unknown_void_giggle_illness_key_angry_gauge_dragon_skull_arm
 bip_39_word_underscore_2: apology_brisk
 bip_39_word_underscore_3: apology_brisk_unknown
-bip_39_word_underscore_4: apology_brisk_unknown_void
-bip_39_word_underscore_5: apology_brisk_unknown_void_giggle
-bip_39_word_underscore_6: apology_brisk_unknown_void_giggle_illness
-bip_39_word_underscore_7: apology_brisk_unknown_void_giggle_illness_key
-bip_39_word_underscore_8: apology_brisk_unknown_void_giggle_illness_key_angry
-bip_39_word_underscore_9: apology_brisk_unknown_void_giggle_illness_key_angry_gauge
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

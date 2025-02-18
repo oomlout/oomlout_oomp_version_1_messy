@@ -1,68 +1,9 @@
-bip_39_word_dash_1: isolate
-bip_39_word_dash_10: isolate-gasp-piano-awkward-cycle-two-require-fossil-safe-word
-bip_39_word_dash_11: isolate-gasp-piano-awkward-cycle-two-require-fossil-safe-word-stay
 bip_39_word_dash_12: isolate-gasp-piano-awkward-cycle-two-require-fossil-safe-word-stay-asthma
 bip_39_word_dash_2: isolate-gasp
 bip_39_word_dash_3: isolate-gasp-piano
-bip_39_word_dash_4: isolate-gasp-piano-awkward
-bip_39_word_dash_5: isolate-gasp-piano-awkward-cycle
-bip_39_word_dash_6: isolate-gasp-piano-awkward-cycle-two
-bip_39_word_dash_7: isolate-gasp-piano-awkward-cycle-two-require
-bip_39_word_dash_8: isolate-gasp-piano-awkward-cycle-two-require-fossil
-bip_39_word_dash_9: isolate-gasp-piano-awkward-cycle-two-require-fossil-safe
-bip_39_word_new_br_1: isolate
-bip_39_word_new_br_10: isolate<br>gasp<br>piano<br>awkward<br>cycle<br>two<br>require<br>fossil<br>safe<br>word
-bip_39_word_new_br_11: isolate<br>gasp<br>piano<br>awkward<br>cycle<br>two<br>require<br>fossil<br>safe<br>word<br>stay
 bip_39_word_new_br_12: isolate<br>gasp<br>piano<br>awkward<br>cycle<br>two<br>require<br>fossil<br>safe<br>word<br>stay<br>asthma
 bip_39_word_new_br_2: isolate<br>gasp
 bip_39_word_new_br_3: isolate<br>gasp<br>piano
-bip_39_word_new_br_4: isolate<br>gasp<br>piano<br>awkward
-bip_39_word_new_br_5: isolate<br>gasp<br>piano<br>awkward<br>cycle
-bip_39_word_new_br_6: isolate<br>gasp<br>piano<br>awkward<br>cycle<br>two
-bip_39_word_new_br_7: isolate<br>gasp<br>piano<br>awkward<br>cycle<br>two<br>require
-bip_39_word_new_br_8: isolate<br>gasp<br>piano<br>awkward<br>cycle<br>two<br>require<br>fossil
-bip_39_word_new_br_9: isolate<br>gasp<br>piano<br>awkward<br>cycle<br>two<br>require<br>fossil<br>safe
-bip_39_word_new_line_1: isolate
-bip_39_word_new_line_10: 'isolate
-
-  gasp
-
-  piano
-
-  awkward
-
-  cycle
-
-  two
-
-  require
-
-  fossil
-
-  safe
-
-  word'
-bip_39_word_new_line_11: 'isolate
-
-  gasp
-
-  piano
-
-  awkward
-
-  cycle
-
-  two
-
-  require
-
-  fossil
-
-  safe
-
-  word
-
-  stay'
 bip_39_word_new_line_12: 'isolate
 
   gasp
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'isolate
   gasp
 
   piano'
-bip_39_word_new_line_4: 'isolate
-
-  gasp
-
-  piano
-
-  awkward'
-bip_39_word_new_line_5: 'isolate
-
-  gasp
-
-  piano
-
-  awkward
-
-  cycle'
-bip_39_word_new_line_6: 'isolate
-
-  gasp
-
-  piano
-
-  awkward
-
-  cycle
-
-  two'
-bip_39_word_new_line_7: 'isolate
-
-  gasp
-
-  piano
-
-  awkward
-
-  cycle
-
-  two
-
-  require'
-bip_39_word_new_line_8: 'isolate
-
-  gasp
-
-  piano
-
-  awkward
-
-  cycle
-
-  two
-
-  require
-
-  fossil'
-bip_39_word_new_line_9: 'isolate
-
-  gasp
-
-  piano
-
-  awkward
-
-  cycle
-
-  two
-
-  require
-
-  fossil
-
-  safe'
-bip_39_word_no_space_1: isolate
-bip_39_word_no_space_10: isolategasppianoawkwardcycletworequirefossilsafeword
-bip_39_word_no_space_11: isolategasppianoawkwardcycletworequirefossilsafewordstay
 bip_39_word_no_space_12: isolategasppianoawkwardcycletworequirefossilsafewordstayasthma
 bip_39_word_no_space_2: isolategasp
 bip_39_word_no_space_3: isolategasppiano
-bip_39_word_no_space_4: isolategasppianoawkward
-bip_39_word_no_space_5: isolategasppianoawkwardcycle
-bip_39_word_no_space_6: isolategasppianoawkwardcycletwo
-bip_39_word_no_space_7: isolategasppianoawkwardcycletworequire
-bip_39_word_no_space_8: isolategasppianoawkwardcycletworequirefossil
-bip_39_word_no_space_9: isolategasppianoawkwardcycletworequirefossilsafe
-bip_39_word_space_0:
-- isolate
-- gasp
-- piano
-- awkward
-- cycle
-- two
-- require
-- fossil
-- safe
-- word
-- stay
-- asthma
-bip_39_word_space_1: isolate
-bip_39_word_space_10: isolate gasp piano awkward cycle two require fossil safe word
-bip_39_word_space_11: isolate gasp piano awkward cycle two require fossil safe word
-  stay
 bip_39_word_space_12: isolate gasp piano awkward cycle two require fossil safe word
   stay asthma
 bip_39_word_space_2: isolate gasp
 bip_39_word_space_3: isolate gasp piano
-bip_39_word_space_4: isolate gasp piano awkward
-bip_39_word_space_5: isolate gasp piano awkward cycle
-bip_39_word_space_6: isolate gasp piano awkward cycle two
-bip_39_word_space_7: isolate gasp piano awkward cycle two require
-bip_39_word_space_8: isolate gasp piano awkward cycle two require fossil
-bip_39_word_space_9: isolate gasp piano awkward cycle two require fossil safe
-bip_39_word_underscore_1: isolate
-bip_39_word_underscore_10: isolate_gasp_piano_awkward_cycle_two_require_fossil_safe_word
-bip_39_word_underscore_11: isolate_gasp_piano_awkward_cycle_two_require_fossil_safe_word_stay
 bip_39_word_underscore_12: isolate_gasp_piano_awkward_cycle_two_require_fossil_safe_word_stay_asthma
 bip_39_word_underscore_2: isolate_gasp
 bip_39_word_underscore_3: isolate_gasp_piano
-bip_39_word_underscore_4: isolate_gasp_piano_awkward
-bip_39_word_underscore_5: isolate_gasp_piano_awkward_cycle
-bip_39_word_underscore_6: isolate_gasp_piano_awkward_cycle_two
-bip_39_word_underscore_7: isolate_gasp_piano_awkward_cycle_two_require
-bip_39_word_underscore_8: isolate_gasp_piano_awkward_cycle_two_require_fossil
-bip_39_word_underscore_9: isolate_gasp_piano_awkward_cycle_two_require_fossil_safe
 classification: project
 classification_capital: Project
 classification_first_letter: p

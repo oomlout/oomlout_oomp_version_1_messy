@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fire
-bip_39_word_dash_10: fire-episode-drum-upon-save-gesture-apart-true-unknown-knock
-bip_39_word_dash_11: fire-episode-drum-upon-save-gesture-apart-true-unknown-knock-finish
 bip_39_word_dash_12: fire-episode-drum-upon-save-gesture-apart-true-unknown-knock-finish-auto
 bip_39_word_dash_2: fire-episode
 bip_39_word_dash_3: fire-episode-drum
-bip_39_word_dash_4: fire-episode-drum-upon
-bip_39_word_dash_5: fire-episode-drum-upon-save
-bip_39_word_dash_6: fire-episode-drum-upon-save-gesture
-bip_39_word_dash_7: fire-episode-drum-upon-save-gesture-apart
-bip_39_word_dash_8: fire-episode-drum-upon-save-gesture-apart-true
-bip_39_word_dash_9: fire-episode-drum-upon-save-gesture-apart-true-unknown
-bip_39_word_new_br_1: fire
-bip_39_word_new_br_10: fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true<br>unknown<br>knock
-bip_39_word_new_br_11: fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true<br>unknown<br>knock<br>finish
 bip_39_word_new_br_12: fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true<br>unknown<br>knock<br>finish<br>auto
 bip_39_word_new_br_2: fire<br>episode
 bip_39_word_new_br_3: fire<br>episode<br>drum
-bip_39_word_new_br_4: fire<br>episode<br>drum<br>upon
-bip_39_word_new_br_5: fire<br>episode<br>drum<br>upon<br>save
-bip_39_word_new_br_6: fire<br>episode<br>drum<br>upon<br>save<br>gesture
-bip_39_word_new_br_7: fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart
-bip_39_word_new_br_8: fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true
-bip_39_word_new_br_9: fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true<br>unknown
-bip_39_word_new_line_1: fire
-bip_39_word_new_line_10: 'fire
-
-  episode
-
-  drum
-
-  upon
-
-  save
-
-  gesture
-
-  apart
-
-  true
-
-  unknown
-
-  knock'
-bip_39_word_new_line_11: 'fire
-
-  episode
-
-  drum
-
-  upon
-
-  save
-
-  gesture
-
-  apart
-
-  true
-
-  unknown
-
-  knock
-
-  finish'
 bip_39_word_new_line_12: 'fire
 
   episode
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'fire
   episode
 
   drum'
-bip_39_word_new_line_4: 'fire
-
-  episode
-
-  drum
-
-  upon'
-bip_39_word_new_line_5: 'fire
-
-  episode
-
-  drum
-
-  upon
-
-  save'
-bip_39_word_new_line_6: 'fire
-
-  episode
-
-  drum
-
-  upon
-
-  save
-
-  gesture'
-bip_39_word_new_line_7: 'fire
-
-  episode
-
-  drum
-
-  upon
-
-  save
-
-  gesture
-
-  apart'
-bip_39_word_new_line_8: 'fire
-
-  episode
-
-  drum
-
-  upon
-
-  save
-
-  gesture
-
-  apart
-
-  true'
-bip_39_word_new_line_9: 'fire
-
-  episode
-
-  drum
-
-  upon
-
-  save
-
-  gesture
-
-  apart
-
-  true
-
-  unknown'
-bip_39_word_no_space_1: fire
-bip_39_word_no_space_10: fireepisodedrumuponsavegestureaparttrueunknownknock
-bip_39_word_no_space_11: fireepisodedrumuponsavegestureaparttrueunknownknockfinish
 bip_39_word_no_space_12: fireepisodedrumuponsavegestureaparttrueunknownknockfinishauto
 bip_39_word_no_space_2: fireepisode
 bip_39_word_no_space_3: fireepisodedrum
-bip_39_word_no_space_4: fireepisodedrumupon
-bip_39_word_no_space_5: fireepisodedrumuponsave
-bip_39_word_no_space_6: fireepisodedrumuponsavegesture
-bip_39_word_no_space_7: fireepisodedrumuponsavegestureapart
-bip_39_word_no_space_8: fireepisodedrumuponsavegestureaparttrue
-bip_39_word_no_space_9: fireepisodedrumuponsavegestureaparttrueunknown
-bip_39_word_space_0:
-- fire
-- episode
-- drum
-- upon
-- save
-- gesture
-- apart
-- 'true'
-- unknown
-- knock
-- finish
-- auto
-bip_39_word_space_1: fire
-bip_39_word_space_10: fire episode drum upon save gesture apart true unknown knock
-bip_39_word_space_11: fire episode drum upon save gesture apart true unknown knock
-  finish
 bip_39_word_space_12: fire episode drum upon save gesture apart true unknown knock
   finish auto
 bip_39_word_space_2: fire episode
 bip_39_word_space_3: fire episode drum
-bip_39_word_space_4: fire episode drum upon
-bip_39_word_space_5: fire episode drum upon save
-bip_39_word_space_6: fire episode drum upon save gesture
-bip_39_word_space_7: fire episode drum upon save gesture apart
-bip_39_word_space_8: fire episode drum upon save gesture apart true
-bip_39_word_space_9: fire episode drum upon save gesture apart true unknown
-bip_39_word_underscore_1: fire
-bip_39_word_underscore_10: fire_episode_drum_upon_save_gesture_apart_true_unknown_knock
-bip_39_word_underscore_11: fire_episode_drum_upon_save_gesture_apart_true_unknown_knock_finish
 bip_39_word_underscore_12: fire_episode_drum_upon_save_gesture_apart_true_unknown_knock_finish_auto
 bip_39_word_underscore_2: fire_episode
 bip_39_word_underscore_3: fire_episode_drum
-bip_39_word_underscore_4: fire_episode_drum_upon
-bip_39_word_underscore_5: fire_episode_drum_upon_save
-bip_39_word_underscore_6: fire_episode_drum_upon_save_gesture
-bip_39_word_underscore_7: fire_episode_drum_upon_save_gesture_apart
-bip_39_word_underscore_8: fire_episode_drum_upon_save_gesture_apart_true
-bip_39_word_underscore_9: fire_episode_drum_upon_save_gesture_apart_true_unknown
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

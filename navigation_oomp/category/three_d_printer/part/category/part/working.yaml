@@ -1,68 +1,9 @@
-bip_39_word_dash_1: recipe
-bip_39_word_dash_10: recipe-chest-trade-wonder-today-traffic-critic-tent-virus-neither
-bip_39_word_dash_11: recipe-chest-trade-wonder-today-traffic-critic-tent-virus-neither-skill
 bip_39_word_dash_12: recipe-chest-trade-wonder-today-traffic-critic-tent-virus-neither-skill-alarm
 bip_39_word_dash_2: recipe-chest
 bip_39_word_dash_3: recipe-chest-trade
-bip_39_word_dash_4: recipe-chest-trade-wonder
-bip_39_word_dash_5: recipe-chest-trade-wonder-today
-bip_39_word_dash_6: recipe-chest-trade-wonder-today-traffic
-bip_39_word_dash_7: recipe-chest-trade-wonder-today-traffic-critic
-bip_39_word_dash_8: recipe-chest-trade-wonder-today-traffic-critic-tent
-bip_39_word_dash_9: recipe-chest-trade-wonder-today-traffic-critic-tent-virus
-bip_39_word_new_br_1: recipe
-bip_39_word_new_br_10: recipe<br>chest<br>trade<br>wonder<br>today<br>traffic<br>critic<br>tent<br>virus<br>neither
-bip_39_word_new_br_11: recipe<br>chest<br>trade<br>wonder<br>today<br>traffic<br>critic<br>tent<br>virus<br>neither<br>skill
 bip_39_word_new_br_12: recipe<br>chest<br>trade<br>wonder<br>today<br>traffic<br>critic<br>tent<br>virus<br>neither<br>skill<br>alarm
 bip_39_word_new_br_2: recipe<br>chest
 bip_39_word_new_br_3: recipe<br>chest<br>trade
-bip_39_word_new_br_4: recipe<br>chest<br>trade<br>wonder
-bip_39_word_new_br_5: recipe<br>chest<br>trade<br>wonder<br>today
-bip_39_word_new_br_6: recipe<br>chest<br>trade<br>wonder<br>today<br>traffic
-bip_39_word_new_br_7: recipe<br>chest<br>trade<br>wonder<br>today<br>traffic<br>critic
-bip_39_word_new_br_8: recipe<br>chest<br>trade<br>wonder<br>today<br>traffic<br>critic<br>tent
-bip_39_word_new_br_9: recipe<br>chest<br>trade<br>wonder<br>today<br>traffic<br>critic<br>tent<br>virus
-bip_39_word_new_line_1: recipe
-bip_39_word_new_line_10: 'recipe
-
-  chest
-
-  trade
-
-  wonder
-
-  today
-
-  traffic
-
-  critic
-
-  tent
-
-  virus
-
-  neither'
-bip_39_word_new_line_11: 'recipe
-
-  chest
-
-  trade
-
-  wonder
-
-  today
-
-  traffic
-
-  critic
-
-  tent
-
-  virus
-
-  neither
-
-  skill'
 bip_39_word_new_line_12: 'recipe
 
   chest
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'recipe
   chest
 
   trade'
-bip_39_word_new_line_4: 'recipe
-
-  chest
-
-  trade
-
-  wonder'
-bip_39_word_new_line_5: 'recipe
-
-  chest
-
-  trade
-
-  wonder
-
-  today'
-bip_39_word_new_line_6: 'recipe
-
-  chest
-
-  trade
-
-  wonder
-
-  today
-
-  traffic'
-bip_39_word_new_line_7: 'recipe
-
-  chest
-
-  trade
-
-  wonder
-
-  today
-
-  traffic
-
-  critic'
-bip_39_word_new_line_8: 'recipe
-
-  chest
-
-  trade
-
-  wonder
-
-  today
-
-  traffic
-
-  critic
-
-  tent'
-bip_39_word_new_line_9: 'recipe
-
-  chest
-
-  trade
-
-  wonder
-
-  today
-
-  traffic
-
-  critic
-
-  tent
-
-  virus'
-bip_39_word_no_space_1: recipe
-bip_39_word_no_space_10: recipechesttradewondertodaytrafficcritictentvirusneither
-bip_39_word_no_space_11: recipechesttradewondertodaytrafficcritictentvirusneitherskill
 bip_39_word_no_space_12: recipechesttradewondertodaytrafficcritictentvirusneitherskillalarm
 bip_39_word_no_space_2: recipechest
 bip_39_word_no_space_3: recipechesttrade
-bip_39_word_no_space_4: recipechesttradewonder
-bip_39_word_no_space_5: recipechesttradewondertoday
-bip_39_word_no_space_6: recipechesttradewondertodaytraffic
-bip_39_word_no_space_7: recipechesttradewondertodaytrafficcritic
-bip_39_word_no_space_8: recipechesttradewondertodaytrafficcritictent
-bip_39_word_no_space_9: recipechesttradewondertodaytrafficcritictentvirus
-bip_39_word_space_0:
-- recipe
-- chest
-- trade
-- wonder
-- today
-- traffic
-- critic
-- tent
-- virus
-- neither
-- skill
-- alarm
-bip_39_word_space_1: recipe
-bip_39_word_space_10: recipe chest trade wonder today traffic critic tent virus neither
-bip_39_word_space_11: recipe chest trade wonder today traffic critic tent virus neither
-  skill
 bip_39_word_space_12: recipe chest trade wonder today traffic critic tent virus neither
   skill alarm
 bip_39_word_space_2: recipe chest
 bip_39_word_space_3: recipe chest trade
-bip_39_word_space_4: recipe chest trade wonder
-bip_39_word_space_5: recipe chest trade wonder today
-bip_39_word_space_6: recipe chest trade wonder today traffic
-bip_39_word_space_7: recipe chest trade wonder today traffic critic
-bip_39_word_space_8: recipe chest trade wonder today traffic critic tent
-bip_39_word_space_9: recipe chest trade wonder today traffic critic tent virus
-bip_39_word_underscore_1: recipe
-bip_39_word_underscore_10: recipe_chest_trade_wonder_today_traffic_critic_tent_virus_neither
-bip_39_word_underscore_11: recipe_chest_trade_wonder_today_traffic_critic_tent_virus_neither_skill
 bip_39_word_underscore_12: recipe_chest_trade_wonder_today_traffic_critic_tent_virus_neither_skill_alarm
 bip_39_word_underscore_2: recipe_chest
 bip_39_word_underscore_3: recipe_chest_trade
-bip_39_word_underscore_4: recipe_chest_trade_wonder
-bip_39_word_underscore_5: recipe_chest_trade_wonder_today
-bip_39_word_underscore_6: recipe_chest_trade_wonder_today_traffic
-bip_39_word_underscore_7: recipe_chest_trade_wonder_today_traffic_critic
-bip_39_word_underscore_8: recipe_chest_trade_wonder_today_traffic_critic_tent
-bip_39_word_underscore_9: recipe_chest_trade_wonder_today_traffic_critic_tent_virus
 classification: category
 classification_capital: Category
 classification_first_letter: c

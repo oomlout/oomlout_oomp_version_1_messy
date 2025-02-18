@@ -1,68 +1,9 @@
-bip_39_word_dash_1: spice
-bip_39_word_dash_10: spice-same-expect-truth-circle-person-art-clever-entire-memory
-bip_39_word_dash_11: spice-same-expect-truth-circle-person-art-clever-entire-memory-cabin
 bip_39_word_dash_12: spice-same-expect-truth-circle-person-art-clever-entire-memory-cabin-april
 bip_39_word_dash_2: spice-same
 bip_39_word_dash_3: spice-same-expect
-bip_39_word_dash_4: spice-same-expect-truth
-bip_39_word_dash_5: spice-same-expect-truth-circle
-bip_39_word_dash_6: spice-same-expect-truth-circle-person
-bip_39_word_dash_7: spice-same-expect-truth-circle-person-art
-bip_39_word_dash_8: spice-same-expect-truth-circle-person-art-clever
-bip_39_word_dash_9: spice-same-expect-truth-circle-person-art-clever-entire
-bip_39_word_new_br_1: spice
-bip_39_word_new_br_10: spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire<br>memory
-bip_39_word_new_br_11: spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire<br>memory<br>cabin
 bip_39_word_new_br_12: spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire<br>memory<br>cabin<br>april
 bip_39_word_new_br_2: spice<br>same
 bip_39_word_new_br_3: spice<br>same<br>expect
-bip_39_word_new_br_4: spice<br>same<br>expect<br>truth
-bip_39_word_new_br_5: spice<br>same<br>expect<br>truth<br>circle
-bip_39_word_new_br_6: spice<br>same<br>expect<br>truth<br>circle<br>person
-bip_39_word_new_br_7: spice<br>same<br>expect<br>truth<br>circle<br>person<br>art
-bip_39_word_new_br_8: spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever
-bip_39_word_new_br_9: spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire
-bip_39_word_new_line_1: spice
-bip_39_word_new_line_10: 'spice
-
-  same
-
-  expect
-
-  truth
-
-  circle
-
-  person
-
-  art
-
-  clever
-
-  entire
-
-  memory'
-bip_39_word_new_line_11: 'spice
-
-  same
-
-  expect
-
-  truth
-
-  circle
-
-  person
-
-  art
-
-  clever
-
-  entire
-
-  memory
-
-  cabin'
 bip_39_word_new_line_12: 'spice
 
   same
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'spice
   same
 
   expect'
-bip_39_word_new_line_4: 'spice
-
-  same
-
-  expect
-
-  truth'
-bip_39_word_new_line_5: 'spice
-
-  same
-
-  expect
-
-  truth
-
-  circle'
-bip_39_word_new_line_6: 'spice
-
-  same
-
-  expect
-
-  truth
-
-  circle
-
-  person'
-bip_39_word_new_line_7: 'spice
-
-  same
-
-  expect
-
-  truth
-
-  circle
-
-  person
-
-  art'
-bip_39_word_new_line_8: 'spice
-
-  same
-
-  expect
-
-  truth
-
-  circle
-
-  person
-
-  art
-
-  clever'
-bip_39_word_new_line_9: 'spice
-
-  same
-
-  expect
-
-  truth
-
-  circle
-
-  person
-
-  art
-
-  clever
-
-  entire'
-bip_39_word_no_space_1: spice
-bip_39_word_no_space_10: spicesameexpecttruthcirclepersonartcleverentirememory
-bip_39_word_no_space_11: spicesameexpecttruthcirclepersonartcleverentirememorycabin
 bip_39_word_no_space_12: spicesameexpecttruthcirclepersonartcleverentirememorycabinapril
 bip_39_word_no_space_2: spicesame
 bip_39_word_no_space_3: spicesameexpect
-bip_39_word_no_space_4: spicesameexpecttruth
-bip_39_word_no_space_5: spicesameexpecttruthcircle
-bip_39_word_no_space_6: spicesameexpecttruthcircleperson
-bip_39_word_no_space_7: spicesameexpecttruthcirclepersonart
-bip_39_word_no_space_8: spicesameexpecttruthcirclepersonartclever
-bip_39_word_no_space_9: spicesameexpecttruthcirclepersonartcleverentire
-bip_39_word_space_0:
-- spice
-- same
-- expect
-- truth
-- circle
-- person
-- art
-- clever
-- entire
-- memory
-- cabin
-- april
-bip_39_word_space_1: spice
-bip_39_word_space_10: spice same expect truth circle person art clever entire memory
-bip_39_word_space_11: spice same expect truth circle person art clever entire memory
-  cabin
 bip_39_word_space_12: spice same expect truth circle person art clever entire memory
   cabin april
 bip_39_word_space_2: spice same
 bip_39_word_space_3: spice same expect
-bip_39_word_space_4: spice same expect truth
-bip_39_word_space_5: spice same expect truth circle
-bip_39_word_space_6: spice same expect truth circle person
-bip_39_word_space_7: spice same expect truth circle person art
-bip_39_word_space_8: spice same expect truth circle person art clever
-bip_39_word_space_9: spice same expect truth circle person art clever entire
-bip_39_word_underscore_1: spice
-bip_39_word_underscore_10: spice_same_expect_truth_circle_person_art_clever_entire_memory
-bip_39_word_underscore_11: spice_same_expect_truth_circle_person_art_clever_entire_memory_cabin
 bip_39_word_underscore_12: spice_same_expect_truth_circle_person_art_clever_entire_memory_cabin_april
 bip_39_word_underscore_2: spice_same
 bip_39_word_underscore_3: spice_same_expect
-bip_39_word_underscore_4: spice_same_expect_truth
-bip_39_word_underscore_5: spice_same_expect_truth_circle
-bip_39_word_underscore_6: spice_same_expect_truth_circle_person
-bip_39_word_underscore_7: spice_same_expect_truth_circle_person_art
-bip_39_word_underscore_8: spice_same_expect_truth_circle_person_art_clever
-bip_39_word_underscore_9: spice_same_expect_truth_circle_person_art_clever_entire
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cable
-bip_39_word_dash_10: cable-hazard-risk-debris-suffer-pilot-logic-please-kiss-stadium
-bip_39_word_dash_11: cable-hazard-risk-debris-suffer-pilot-logic-please-kiss-stadium-step
 bip_39_word_dash_12: cable-hazard-risk-debris-suffer-pilot-logic-please-kiss-stadium-step-alert
 bip_39_word_dash_2: cable-hazard
 bip_39_word_dash_3: cable-hazard-risk
-bip_39_word_dash_4: cable-hazard-risk-debris
-bip_39_word_dash_5: cable-hazard-risk-debris-suffer
-bip_39_word_dash_6: cable-hazard-risk-debris-suffer-pilot
-bip_39_word_dash_7: cable-hazard-risk-debris-suffer-pilot-logic
-bip_39_word_dash_8: cable-hazard-risk-debris-suffer-pilot-logic-please
-bip_39_word_dash_9: cable-hazard-risk-debris-suffer-pilot-logic-please-kiss
-bip_39_word_new_br_1: cable
-bip_39_word_new_br_10: cable<br>hazard<br>risk<br>debris<br>suffer<br>pilot<br>logic<br>please<br>kiss<br>stadium
-bip_39_word_new_br_11: cable<br>hazard<br>risk<br>debris<br>suffer<br>pilot<br>logic<br>please<br>kiss<br>stadium<br>step
 bip_39_word_new_br_12: cable<br>hazard<br>risk<br>debris<br>suffer<br>pilot<br>logic<br>please<br>kiss<br>stadium<br>step<br>alert
 bip_39_word_new_br_2: cable<br>hazard
 bip_39_word_new_br_3: cable<br>hazard<br>risk
-bip_39_word_new_br_4: cable<br>hazard<br>risk<br>debris
-bip_39_word_new_br_5: cable<br>hazard<br>risk<br>debris<br>suffer
-bip_39_word_new_br_6: cable<br>hazard<br>risk<br>debris<br>suffer<br>pilot
-bip_39_word_new_br_7: cable<br>hazard<br>risk<br>debris<br>suffer<br>pilot<br>logic
-bip_39_word_new_br_8: cable<br>hazard<br>risk<br>debris<br>suffer<br>pilot<br>logic<br>please
-bip_39_word_new_br_9: cable<br>hazard<br>risk<br>debris<br>suffer<br>pilot<br>logic<br>please<br>kiss
-bip_39_word_new_line_1: cable
-bip_39_word_new_line_10: 'cable
-
-  hazard
-
-  risk
-
-  debris
-
-  suffer
-
-  pilot
-
-  logic
-
-  please
-
-  kiss
-
-  stadium'
-bip_39_word_new_line_11: 'cable
-
-  hazard
-
-  risk
-
-  debris
-
-  suffer
-
-  pilot
-
-  logic
-
-  please
-
-  kiss
-
-  stadium
-
-  step'
 bip_39_word_new_line_12: 'cable
 
   hazard
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cable
   hazard
 
   risk'
-bip_39_word_new_line_4: 'cable
-
-  hazard
-
-  risk
-
-  debris'
-bip_39_word_new_line_5: 'cable
-
-  hazard
-
-  risk
-
-  debris
-
-  suffer'
-bip_39_word_new_line_6: 'cable
-
-  hazard
-
-  risk
-
-  debris
-
-  suffer
-
-  pilot'
-bip_39_word_new_line_7: 'cable
-
-  hazard
-
-  risk
-
-  debris
-
-  suffer
-
-  pilot
-
-  logic'
-bip_39_word_new_line_8: 'cable
-
-  hazard
-
-  risk
-
-  debris
-
-  suffer
-
-  pilot
-
-  logic
-
-  please'
-bip_39_word_new_line_9: 'cable
-
-  hazard
-
-  risk
-
-  debris
-
-  suffer
-
-  pilot
-
-  logic
-
-  please
-
-  kiss'
-bip_39_word_no_space_1: cable
-bip_39_word_no_space_10: cablehazardriskdebrissufferpilotlogicpleasekissstadium
-bip_39_word_no_space_11: cablehazardriskdebrissufferpilotlogicpleasekissstadiumstep
 bip_39_word_no_space_12: cablehazardriskdebrissufferpilotlogicpleasekissstadiumstepalert
 bip_39_word_no_space_2: cablehazard
 bip_39_word_no_space_3: cablehazardrisk
-bip_39_word_no_space_4: cablehazardriskdebris
-bip_39_word_no_space_5: cablehazardriskdebrissuffer
-bip_39_word_no_space_6: cablehazardriskdebrissufferpilot
-bip_39_word_no_space_7: cablehazardriskdebrissufferpilotlogic
-bip_39_word_no_space_8: cablehazardriskdebrissufferpilotlogicplease
-bip_39_word_no_space_9: cablehazardriskdebrissufferpilotlogicpleasekiss
-bip_39_word_space_0:
-- cable
-- hazard
-- risk
-- debris
-- suffer
-- pilot
-- logic
-- please
-- kiss
-- stadium
-- step
-- alert
-bip_39_word_space_1: cable
-bip_39_word_space_10: cable hazard risk debris suffer pilot logic please kiss stadium
-bip_39_word_space_11: cable hazard risk debris suffer pilot logic please kiss stadium
-  step
 bip_39_word_space_12: cable hazard risk debris suffer pilot logic please kiss stadium
   step alert
 bip_39_word_space_2: cable hazard
 bip_39_word_space_3: cable hazard risk
-bip_39_word_space_4: cable hazard risk debris
-bip_39_word_space_5: cable hazard risk debris suffer
-bip_39_word_space_6: cable hazard risk debris suffer pilot
-bip_39_word_space_7: cable hazard risk debris suffer pilot logic
-bip_39_word_space_8: cable hazard risk debris suffer pilot logic please
-bip_39_word_space_9: cable hazard risk debris suffer pilot logic please kiss
-bip_39_word_underscore_1: cable
-bip_39_word_underscore_10: cable_hazard_risk_debris_suffer_pilot_logic_please_kiss_stadium
-bip_39_word_underscore_11: cable_hazard_risk_debris_suffer_pilot_logic_please_kiss_stadium_step
 bip_39_word_underscore_12: cable_hazard_risk_debris_suffer_pilot_logic_please_kiss_stadium_step_alert
 bip_39_word_underscore_2: cable_hazard
 bip_39_word_underscore_3: cable_hazard_risk
-bip_39_word_underscore_4: cable_hazard_risk_debris
-bip_39_word_underscore_5: cable_hazard_risk_debris_suffer
-bip_39_word_underscore_6: cable_hazard_risk_debris_suffer_pilot
-bip_39_word_underscore_7: cable_hazard_risk_debris_suffer_pilot_logic
-bip_39_word_underscore_8: cable_hazard_risk_debris_suffer_pilot_logic_please
-bip_39_word_underscore_9: cable_hazard_risk_debris_suffer_pilot_logic_please_kiss
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: light
-bip_39_word_dash_10: light-cup-shiver-patch-audit-speak-lobster-walnut-ball-door
-bip_39_word_dash_11: light-cup-shiver-patch-audit-speak-lobster-walnut-ball-door-unit
 bip_39_word_dash_12: light-cup-shiver-patch-audit-speak-lobster-walnut-ball-door-unit-advance
 bip_39_word_dash_2: light-cup
 bip_39_word_dash_3: light-cup-shiver
-bip_39_word_dash_4: light-cup-shiver-patch
-bip_39_word_dash_5: light-cup-shiver-patch-audit
-bip_39_word_dash_6: light-cup-shiver-patch-audit-speak
-bip_39_word_dash_7: light-cup-shiver-patch-audit-speak-lobster
-bip_39_word_dash_8: light-cup-shiver-patch-audit-speak-lobster-walnut
-bip_39_word_dash_9: light-cup-shiver-patch-audit-speak-lobster-walnut-ball
-bip_39_word_new_br_1: light
-bip_39_word_new_br_10: light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball<br>door
-bip_39_word_new_br_11: light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball<br>door<br>unit
 bip_39_word_new_br_12: light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball<br>door<br>unit<br>advance
 bip_39_word_new_br_2: light<br>cup
 bip_39_word_new_br_3: light<br>cup<br>shiver
-bip_39_word_new_br_4: light<br>cup<br>shiver<br>patch
-bip_39_word_new_br_5: light<br>cup<br>shiver<br>patch<br>audit
-bip_39_word_new_br_6: light<br>cup<br>shiver<br>patch<br>audit<br>speak
-bip_39_word_new_br_7: light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster
-bip_39_word_new_br_8: light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut
-bip_39_word_new_br_9: light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball
-bip_39_word_new_line_1: light
-bip_39_word_new_line_10: 'light
-
-  cup
-
-  shiver
-
-  patch
-
-  audit
-
-  speak
-
-  lobster
-
-  walnut
-
-  ball
-
-  door'
-bip_39_word_new_line_11: 'light
-
-  cup
-
-  shiver
-
-  patch
-
-  audit
-
-  speak
-
-  lobster
-
-  walnut
-
-  ball
-
-  door
-
-  unit'
 bip_39_word_new_line_12: 'light
 
   cup
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'light
   cup
 
   shiver'
-bip_39_word_new_line_4: 'light
-
-  cup
-
-  shiver
-
-  patch'
-bip_39_word_new_line_5: 'light
-
-  cup
-
-  shiver
-
-  patch
-
-  audit'
-bip_39_word_new_line_6: 'light
-
-  cup
-
-  shiver
-
-  patch
-
-  audit
-
-  speak'
-bip_39_word_new_line_7: 'light
-
-  cup
-
-  shiver
-
-  patch
-
-  audit
-
-  speak
-
-  lobster'
-bip_39_word_new_line_8: 'light
-
-  cup
-
-  shiver
-
-  patch
-
-  audit
-
-  speak
-
-  lobster
-
-  walnut'
-bip_39_word_new_line_9: 'light
-
-  cup
-
-  shiver
-
-  patch
-
-  audit
-
-  speak
-
-  lobster
-
-  walnut
-
-  ball'
-bip_39_word_no_space_1: light
-bip_39_word_no_space_10: lightcupshiverpatchauditspeaklobsterwalnutballdoor
-bip_39_word_no_space_11: lightcupshiverpatchauditspeaklobsterwalnutballdoorunit
 bip_39_word_no_space_12: lightcupshiverpatchauditspeaklobsterwalnutballdoorunitadvance
 bip_39_word_no_space_2: lightcup
 bip_39_word_no_space_3: lightcupshiver
-bip_39_word_no_space_4: lightcupshiverpatch
-bip_39_word_no_space_5: lightcupshiverpatchaudit
-bip_39_word_no_space_6: lightcupshiverpatchauditspeak
-bip_39_word_no_space_7: lightcupshiverpatchauditspeaklobster
-bip_39_word_no_space_8: lightcupshiverpatchauditspeaklobsterwalnut
-bip_39_word_no_space_9: lightcupshiverpatchauditspeaklobsterwalnutball
-bip_39_word_space_0:
-- light
-- cup
-- shiver
-- patch
-- audit
-- speak
-- lobster
-- walnut
-- ball
-- door
-- unit
-- advance
-bip_39_word_space_1: light
-bip_39_word_space_10: light cup shiver patch audit speak lobster walnut ball door
-bip_39_word_space_11: light cup shiver patch audit speak lobster walnut ball door
-  unit
 bip_39_word_space_12: light cup shiver patch audit speak lobster walnut ball door
   unit advance
 bip_39_word_space_2: light cup
 bip_39_word_space_3: light cup shiver
-bip_39_word_space_4: light cup shiver patch
-bip_39_word_space_5: light cup shiver patch audit
-bip_39_word_space_6: light cup shiver patch audit speak
-bip_39_word_space_7: light cup shiver patch audit speak lobster
-bip_39_word_space_8: light cup shiver patch audit speak lobster walnut
-bip_39_word_space_9: light cup shiver patch audit speak lobster walnut ball
-bip_39_word_underscore_1: light
-bip_39_word_underscore_10: light_cup_shiver_patch_audit_speak_lobster_walnut_ball_door
-bip_39_word_underscore_11: light_cup_shiver_patch_audit_speak_lobster_walnut_ball_door_unit
 bip_39_word_underscore_12: light_cup_shiver_patch_audit_speak_lobster_walnut_ball_door_unit_advance
 bip_39_word_underscore_2: light_cup
 bip_39_word_underscore_3: light_cup_shiver
-bip_39_word_underscore_4: light_cup_shiver_patch
-bip_39_word_underscore_5: light_cup_shiver_patch_audit
-bip_39_word_underscore_6: light_cup_shiver_patch_audit_speak
-bip_39_word_underscore_7: light_cup_shiver_patch_audit_speak_lobster
-bip_39_word_underscore_8: light_cup_shiver_patch_audit_speak_lobster_walnut
-bip_39_word_underscore_9: light_cup_shiver_patch_audit_speak_lobster_walnut_ball
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

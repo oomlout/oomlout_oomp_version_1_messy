@@ -1,68 +1,9 @@
-bip_39_word_dash_1: income
-bip_39_word_dash_10: income-robot-admit-fatal-cargo-vanish-kitten-build-top-oak
-bip_39_word_dash_11: income-robot-admit-fatal-cargo-vanish-kitten-build-top-oak-increase
 bip_39_word_dash_12: income-robot-admit-fatal-cargo-vanish-kitten-build-top-oak-increase-another
 bip_39_word_dash_2: income-robot
 bip_39_word_dash_3: income-robot-admit
-bip_39_word_dash_4: income-robot-admit-fatal
-bip_39_word_dash_5: income-robot-admit-fatal-cargo
-bip_39_word_dash_6: income-robot-admit-fatal-cargo-vanish
-bip_39_word_dash_7: income-robot-admit-fatal-cargo-vanish-kitten
-bip_39_word_dash_8: income-robot-admit-fatal-cargo-vanish-kitten-build
-bip_39_word_dash_9: income-robot-admit-fatal-cargo-vanish-kitten-build-top
-bip_39_word_new_br_1: income
-bip_39_word_new_br_10: income<br>robot<br>admit<br>fatal<br>cargo<br>vanish<br>kitten<br>build<br>top<br>oak
-bip_39_word_new_br_11: income<br>robot<br>admit<br>fatal<br>cargo<br>vanish<br>kitten<br>build<br>top<br>oak<br>increase
 bip_39_word_new_br_12: income<br>robot<br>admit<br>fatal<br>cargo<br>vanish<br>kitten<br>build<br>top<br>oak<br>increase<br>another
 bip_39_word_new_br_2: income<br>robot
 bip_39_word_new_br_3: income<br>robot<br>admit
-bip_39_word_new_br_4: income<br>robot<br>admit<br>fatal
-bip_39_word_new_br_5: income<br>robot<br>admit<br>fatal<br>cargo
-bip_39_word_new_br_6: income<br>robot<br>admit<br>fatal<br>cargo<br>vanish
-bip_39_word_new_br_7: income<br>robot<br>admit<br>fatal<br>cargo<br>vanish<br>kitten
-bip_39_word_new_br_8: income<br>robot<br>admit<br>fatal<br>cargo<br>vanish<br>kitten<br>build
-bip_39_word_new_br_9: income<br>robot<br>admit<br>fatal<br>cargo<br>vanish<br>kitten<br>build<br>top
-bip_39_word_new_line_1: income
-bip_39_word_new_line_10: 'income
-
-  robot
-
-  admit
-
-  fatal
-
-  cargo
-
-  vanish
-
-  kitten
-
-  build
-
-  top
-
-  oak'
-bip_39_word_new_line_11: 'income
-
-  robot
-
-  admit
-
-  fatal
-
-  cargo
-
-  vanish
-
-  kitten
-
-  build
-
-  top
-
-  oak
-
-  increase'
 bip_39_word_new_line_12: 'income
 
   robot
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'income
   robot
 
   admit'
-bip_39_word_new_line_4: 'income
-
-  robot
-
-  admit
-
-  fatal'
-bip_39_word_new_line_5: 'income
-
-  robot
-
-  admit
-
-  fatal
-
-  cargo'
-bip_39_word_new_line_6: 'income
-
-  robot
-
-  admit
-
-  fatal
-
-  cargo
-
-  vanish'
-bip_39_word_new_line_7: 'income
-
-  robot
-
-  admit
-
-  fatal
-
-  cargo
-
-  vanish
-
-  kitten'
-bip_39_word_new_line_8: 'income
-
-  robot
-
-  admit
-
-  fatal
-
-  cargo
-
-  vanish
-
-  kitten
-
-  build'
-bip_39_word_new_line_9: 'income
-
-  robot
-
-  admit
-
-  fatal
-
-  cargo
-
-  vanish
-
-  kitten
-
-  build
-
-  top'
-bip_39_word_no_space_1: income
-bip_39_word_no_space_10: incomerobotadmitfatalcargovanishkittenbuildtopoak
-bip_39_word_no_space_11: incomerobotadmitfatalcargovanishkittenbuildtopoakincrease
 bip_39_word_no_space_12: incomerobotadmitfatalcargovanishkittenbuildtopoakincreaseanother
 bip_39_word_no_space_2: incomerobot
 bip_39_word_no_space_3: incomerobotadmit
-bip_39_word_no_space_4: incomerobotadmitfatal
-bip_39_word_no_space_5: incomerobotadmitfatalcargo
-bip_39_word_no_space_6: incomerobotadmitfatalcargovanish
-bip_39_word_no_space_7: incomerobotadmitfatalcargovanishkitten
-bip_39_word_no_space_8: incomerobotadmitfatalcargovanishkittenbuild
-bip_39_word_no_space_9: incomerobotadmitfatalcargovanishkittenbuildtop
-bip_39_word_space_0:
-- income
-- robot
-- admit
-- fatal
-- cargo
-- vanish
-- kitten
-- build
-- top
-- oak
-- increase
-- another
-bip_39_word_space_1: income
-bip_39_word_space_10: income robot admit fatal cargo vanish kitten build top oak
-bip_39_word_space_11: income robot admit fatal cargo vanish kitten build top oak increase
 bip_39_word_space_12: income robot admit fatal cargo vanish kitten build top oak increase
   another
 bip_39_word_space_2: income robot
 bip_39_word_space_3: income robot admit
-bip_39_word_space_4: income robot admit fatal
-bip_39_word_space_5: income robot admit fatal cargo
-bip_39_word_space_6: income robot admit fatal cargo vanish
-bip_39_word_space_7: income robot admit fatal cargo vanish kitten
-bip_39_word_space_8: income robot admit fatal cargo vanish kitten build
-bip_39_word_space_9: income robot admit fatal cargo vanish kitten build top
-bip_39_word_underscore_1: income
-bip_39_word_underscore_10: income_robot_admit_fatal_cargo_vanish_kitten_build_top_oak
-bip_39_word_underscore_11: income_robot_admit_fatal_cargo_vanish_kitten_build_top_oak_increase
 bip_39_word_underscore_12: income_robot_admit_fatal_cargo_vanish_kitten_build_top_oak_increase_another
 bip_39_word_underscore_2: income_robot
 bip_39_word_underscore_3: income_robot_admit
-bip_39_word_underscore_4: income_robot_admit_fatal
-bip_39_word_underscore_5: income_robot_admit_fatal_cargo
-bip_39_word_underscore_6: income_robot_admit_fatal_cargo_vanish
-bip_39_word_underscore_7: income_robot_admit_fatal_cargo_vanish_kitten
-bip_39_word_underscore_8: income_robot_admit_fatal_cargo_vanish_kitten_build
-bip_39_word_underscore_9: income_robot_admit_fatal_cargo_vanish_kitten_build_top
 classification: category
 classification_capital: Category
 classification_first_letter: c

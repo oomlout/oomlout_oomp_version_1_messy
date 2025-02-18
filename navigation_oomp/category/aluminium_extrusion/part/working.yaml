@@ -1,68 +1,9 @@
-bip_39_word_dash_1: myself
-bip_39_word_dash_10: myself-label-desert-hunt-input-eyebrow-thank-pulse-ignore-chaos
-bip_39_word_dash_11: myself-label-desert-hunt-input-eyebrow-thank-pulse-ignore-chaos-slim
 bip_39_word_dash_12: myself-label-desert-hunt-input-eyebrow-thank-pulse-ignore-chaos-slim-actor
 bip_39_word_dash_2: myself-label
 bip_39_word_dash_3: myself-label-desert
-bip_39_word_dash_4: myself-label-desert-hunt
-bip_39_word_dash_5: myself-label-desert-hunt-input
-bip_39_word_dash_6: myself-label-desert-hunt-input-eyebrow
-bip_39_word_dash_7: myself-label-desert-hunt-input-eyebrow-thank
-bip_39_word_dash_8: myself-label-desert-hunt-input-eyebrow-thank-pulse
-bip_39_word_dash_9: myself-label-desert-hunt-input-eyebrow-thank-pulse-ignore
-bip_39_word_new_br_1: myself
-bip_39_word_new_br_10: myself<br>label<br>desert<br>hunt<br>input<br>eyebrow<br>thank<br>pulse<br>ignore<br>chaos
-bip_39_word_new_br_11: myself<br>label<br>desert<br>hunt<br>input<br>eyebrow<br>thank<br>pulse<br>ignore<br>chaos<br>slim
 bip_39_word_new_br_12: myself<br>label<br>desert<br>hunt<br>input<br>eyebrow<br>thank<br>pulse<br>ignore<br>chaos<br>slim<br>actor
 bip_39_word_new_br_2: myself<br>label
 bip_39_word_new_br_3: myself<br>label<br>desert
-bip_39_word_new_br_4: myself<br>label<br>desert<br>hunt
-bip_39_word_new_br_5: myself<br>label<br>desert<br>hunt<br>input
-bip_39_word_new_br_6: myself<br>label<br>desert<br>hunt<br>input<br>eyebrow
-bip_39_word_new_br_7: myself<br>label<br>desert<br>hunt<br>input<br>eyebrow<br>thank
-bip_39_word_new_br_8: myself<br>label<br>desert<br>hunt<br>input<br>eyebrow<br>thank<br>pulse
-bip_39_word_new_br_9: myself<br>label<br>desert<br>hunt<br>input<br>eyebrow<br>thank<br>pulse<br>ignore
-bip_39_word_new_line_1: myself
-bip_39_word_new_line_10: 'myself
-
-  label
-
-  desert
-
-  hunt
-
-  input
-
-  eyebrow
-
-  thank
-
-  pulse
-
-  ignore
-
-  chaos'
-bip_39_word_new_line_11: 'myself
-
-  label
-
-  desert
-
-  hunt
-
-  input
-
-  eyebrow
-
-  thank
-
-  pulse
-
-  ignore
-
-  chaos
-
-  slim'
 bip_39_word_new_line_12: 'myself
 
   label
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'myself
   label
 
   desert'
-bip_39_word_new_line_4: 'myself
-
-  label
-
-  desert
-
-  hunt'
-bip_39_word_new_line_5: 'myself
-
-  label
-
-  desert
-
-  hunt
-
-  input'
-bip_39_word_new_line_6: 'myself
-
-  label
-
-  desert
-
-  hunt
-
-  input
-
-  eyebrow'
-bip_39_word_new_line_7: 'myself
-
-  label
-
-  desert
-
-  hunt
-
-  input
-
-  eyebrow
-
-  thank'
-bip_39_word_new_line_8: 'myself
-
-  label
-
-  desert
-
-  hunt
-
-  input
-
-  eyebrow
-
-  thank
-
-  pulse'
-bip_39_word_new_line_9: 'myself
-
-  label
-
-  desert
-
-  hunt
-
-  input
-
-  eyebrow
-
-  thank
-
-  pulse
-
-  ignore'
-bip_39_word_no_space_1: myself
-bip_39_word_no_space_10: myselflabeldeserthuntinputeyebrowthankpulseignorechaos
-bip_39_word_no_space_11: myselflabeldeserthuntinputeyebrowthankpulseignorechaosslim
 bip_39_word_no_space_12: myselflabeldeserthuntinputeyebrowthankpulseignorechaosslimactor
 bip_39_word_no_space_2: myselflabel
 bip_39_word_no_space_3: myselflabeldesert
-bip_39_word_no_space_4: myselflabeldeserthunt
-bip_39_word_no_space_5: myselflabeldeserthuntinput
-bip_39_word_no_space_6: myselflabeldeserthuntinputeyebrow
-bip_39_word_no_space_7: myselflabeldeserthuntinputeyebrowthank
-bip_39_word_no_space_8: myselflabeldeserthuntinputeyebrowthankpulse
-bip_39_word_no_space_9: myselflabeldeserthuntinputeyebrowthankpulseignore
-bip_39_word_space_0:
-- myself
-- label
-- desert
-- hunt
-- input
-- eyebrow
-- thank
-- pulse
-- ignore
-- chaos
-- slim
-- actor
-bip_39_word_space_1: myself
-bip_39_word_space_10: myself label desert hunt input eyebrow thank pulse ignore chaos
-bip_39_word_space_11: myself label desert hunt input eyebrow thank pulse ignore chaos
-  slim
 bip_39_word_space_12: myself label desert hunt input eyebrow thank pulse ignore chaos
   slim actor
 bip_39_word_space_2: myself label
 bip_39_word_space_3: myself label desert
-bip_39_word_space_4: myself label desert hunt
-bip_39_word_space_5: myself label desert hunt input
-bip_39_word_space_6: myself label desert hunt input eyebrow
-bip_39_word_space_7: myself label desert hunt input eyebrow thank
-bip_39_word_space_8: myself label desert hunt input eyebrow thank pulse
-bip_39_word_space_9: myself label desert hunt input eyebrow thank pulse ignore
-bip_39_word_underscore_1: myself
-bip_39_word_underscore_10: myself_label_desert_hunt_input_eyebrow_thank_pulse_ignore_chaos
-bip_39_word_underscore_11: myself_label_desert_hunt_input_eyebrow_thank_pulse_ignore_chaos_slim
 bip_39_word_underscore_12: myself_label_desert_hunt_input_eyebrow_thank_pulse_ignore_chaos_slim_actor
 bip_39_word_underscore_2: myself_label
 bip_39_word_underscore_3: myself_label_desert
-bip_39_word_underscore_4: myself_label_desert_hunt
-bip_39_word_underscore_5: myself_label_desert_hunt_input
-bip_39_word_underscore_6: myself_label_desert_hunt_input_eyebrow
-bip_39_word_underscore_7: myself_label_desert_hunt_input_eyebrow_thank
-bip_39_word_underscore_8: myself_label_desert_hunt_input_eyebrow_thank_pulse
-bip_39_word_underscore_9: myself_label_desert_hunt_input_eyebrow_thank_pulse_ignore
 classification: category
 classification_capital: Category
 classification_first_letter: c

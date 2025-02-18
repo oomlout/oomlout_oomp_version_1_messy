@@ -1,68 +1,9 @@
-bip_39_word_dash_1: purse
-bip_39_word_dash_10: purse-tape-hungry-inquiry-write-dream-pear-father-shiver-clutch
-bip_39_word_dash_11: purse-tape-hungry-inquiry-write-dream-pear-father-shiver-clutch-pen
 bip_39_word_dash_12: purse-tape-hungry-inquiry-write-dream-pear-father-shiver-clutch-pen-add
 bip_39_word_dash_2: purse-tape
 bip_39_word_dash_3: purse-tape-hungry
-bip_39_word_dash_4: purse-tape-hungry-inquiry
-bip_39_word_dash_5: purse-tape-hungry-inquiry-write
-bip_39_word_dash_6: purse-tape-hungry-inquiry-write-dream
-bip_39_word_dash_7: purse-tape-hungry-inquiry-write-dream-pear
-bip_39_word_dash_8: purse-tape-hungry-inquiry-write-dream-pear-father
-bip_39_word_dash_9: purse-tape-hungry-inquiry-write-dream-pear-father-shiver
-bip_39_word_new_br_1: purse
-bip_39_word_new_br_10: purse<br>tape<br>hungry<br>inquiry<br>write<br>dream<br>pear<br>father<br>shiver<br>clutch
-bip_39_word_new_br_11: purse<br>tape<br>hungry<br>inquiry<br>write<br>dream<br>pear<br>father<br>shiver<br>clutch<br>pen
 bip_39_word_new_br_12: purse<br>tape<br>hungry<br>inquiry<br>write<br>dream<br>pear<br>father<br>shiver<br>clutch<br>pen<br>add
 bip_39_word_new_br_2: purse<br>tape
 bip_39_word_new_br_3: purse<br>tape<br>hungry
-bip_39_word_new_br_4: purse<br>tape<br>hungry<br>inquiry
-bip_39_word_new_br_5: purse<br>tape<br>hungry<br>inquiry<br>write
-bip_39_word_new_br_6: purse<br>tape<br>hungry<br>inquiry<br>write<br>dream
-bip_39_word_new_br_7: purse<br>tape<br>hungry<br>inquiry<br>write<br>dream<br>pear
-bip_39_word_new_br_8: purse<br>tape<br>hungry<br>inquiry<br>write<br>dream<br>pear<br>father
-bip_39_word_new_br_9: purse<br>tape<br>hungry<br>inquiry<br>write<br>dream<br>pear<br>father<br>shiver
-bip_39_word_new_line_1: purse
-bip_39_word_new_line_10: 'purse
-
-  tape
-
-  hungry
-
-  inquiry
-
-  write
-
-  dream
-
-  pear
-
-  father
-
-  shiver
-
-  clutch'
-bip_39_word_new_line_11: 'purse
-
-  tape
-
-  hungry
-
-  inquiry
-
-  write
-
-  dream
-
-  pear
-
-  father
-
-  shiver
-
-  clutch
-
-  pen'
 bip_39_word_new_line_12: 'purse
 
   tape
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'purse
   tape
 
   hungry'
-bip_39_word_new_line_4: 'purse
-
-  tape
-
-  hungry
-
-  inquiry'
-bip_39_word_new_line_5: 'purse
-
-  tape
-
-  hungry
-
-  inquiry
-
-  write'
-bip_39_word_new_line_6: 'purse
-
-  tape
-
-  hungry
-
-  inquiry
-
-  write
-
-  dream'
-bip_39_word_new_line_7: 'purse
-
-  tape
-
-  hungry
-
-  inquiry
-
-  write
-
-  dream
-
-  pear'
-bip_39_word_new_line_8: 'purse
-
-  tape
-
-  hungry
-
-  inquiry
-
-  write
-
-  dream
-
-  pear
-
-  father'
-bip_39_word_new_line_9: 'purse
-
-  tape
-
-  hungry
-
-  inquiry
-
-  write
-
-  dream
-
-  pear
-
-  father
-
-  shiver'
-bip_39_word_no_space_1: purse
-bip_39_word_no_space_10: pursetapehungryinquirywritedreampearfathershiverclutch
-bip_39_word_no_space_11: pursetapehungryinquirywritedreampearfathershiverclutchpen
 bip_39_word_no_space_12: pursetapehungryinquirywritedreampearfathershiverclutchpenadd
 bip_39_word_no_space_2: pursetape
 bip_39_word_no_space_3: pursetapehungry
-bip_39_word_no_space_4: pursetapehungryinquiry
-bip_39_word_no_space_5: pursetapehungryinquirywrite
-bip_39_word_no_space_6: pursetapehungryinquirywritedream
-bip_39_word_no_space_7: pursetapehungryinquirywritedreampear
-bip_39_word_no_space_8: pursetapehungryinquirywritedreampearfather
-bip_39_word_no_space_9: pursetapehungryinquirywritedreampearfathershiver
-bip_39_word_space_0:
-- purse
-- tape
-- hungry
-- inquiry
-- write
-- dream
-- pear
-- father
-- shiver
-- clutch
-- pen
-- add
-bip_39_word_space_1: purse
-bip_39_word_space_10: purse tape hungry inquiry write dream pear father shiver clutch
-bip_39_word_space_11: purse tape hungry inquiry write dream pear father shiver clutch
-  pen
 bip_39_word_space_12: purse tape hungry inquiry write dream pear father shiver clutch
   pen add
 bip_39_word_space_2: purse tape
 bip_39_word_space_3: purse tape hungry
-bip_39_word_space_4: purse tape hungry inquiry
-bip_39_word_space_5: purse tape hungry inquiry write
-bip_39_word_space_6: purse tape hungry inquiry write dream
-bip_39_word_space_7: purse tape hungry inquiry write dream pear
-bip_39_word_space_8: purse tape hungry inquiry write dream pear father
-bip_39_word_space_9: purse tape hungry inquiry write dream pear father shiver
-bip_39_word_underscore_1: purse
-bip_39_word_underscore_10: purse_tape_hungry_inquiry_write_dream_pear_father_shiver_clutch
-bip_39_word_underscore_11: purse_tape_hungry_inquiry_write_dream_pear_father_shiver_clutch_pen
 bip_39_word_underscore_12: purse_tape_hungry_inquiry_write_dream_pear_father_shiver_clutch_pen_add
 bip_39_word_underscore_2: purse_tape
 bip_39_word_underscore_3: purse_tape_hungry
-bip_39_word_underscore_4: purse_tape_hungry_inquiry
-bip_39_word_underscore_5: purse_tape_hungry_inquiry_write
-bip_39_word_underscore_6: purse_tape_hungry_inquiry_write_dream
-bip_39_word_underscore_7: purse_tape_hungry_inquiry_write_dream_pear
-bip_39_word_underscore_8: purse_tape_hungry_inquiry_write_dream_pear_father
-bip_39_word_underscore_9: purse_tape_hungry_inquiry_write_dream_pear_father_shiver
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

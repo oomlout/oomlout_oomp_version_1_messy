@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flock
-bip_39_word_dash_10: flock-develop-salmon-magic-control-short-dragon-bright-tip-midnight
-bip_39_word_dash_11: flock-develop-salmon-magic-control-short-dragon-bright-tip-midnight-bone
 bip_39_word_dash_12: flock-develop-salmon-magic-control-short-dragon-bright-tip-midnight-bone-actor
 bip_39_word_dash_2: flock-develop
 bip_39_word_dash_3: flock-develop-salmon
-bip_39_word_dash_4: flock-develop-salmon-magic
-bip_39_word_dash_5: flock-develop-salmon-magic-control
-bip_39_word_dash_6: flock-develop-salmon-magic-control-short
-bip_39_word_dash_7: flock-develop-salmon-magic-control-short-dragon
-bip_39_word_dash_8: flock-develop-salmon-magic-control-short-dragon-bright
-bip_39_word_dash_9: flock-develop-salmon-magic-control-short-dragon-bright-tip
-bip_39_word_new_br_1: flock
-bip_39_word_new_br_10: flock<br>develop<br>salmon<br>magic<br>control<br>short<br>dragon<br>bright<br>tip<br>midnight
-bip_39_word_new_br_11: flock<br>develop<br>salmon<br>magic<br>control<br>short<br>dragon<br>bright<br>tip<br>midnight<br>bone
 bip_39_word_new_br_12: flock<br>develop<br>salmon<br>magic<br>control<br>short<br>dragon<br>bright<br>tip<br>midnight<br>bone<br>actor
 bip_39_word_new_br_2: flock<br>develop
 bip_39_word_new_br_3: flock<br>develop<br>salmon
-bip_39_word_new_br_4: flock<br>develop<br>salmon<br>magic
-bip_39_word_new_br_5: flock<br>develop<br>salmon<br>magic<br>control
-bip_39_word_new_br_6: flock<br>develop<br>salmon<br>magic<br>control<br>short
-bip_39_word_new_br_7: flock<br>develop<br>salmon<br>magic<br>control<br>short<br>dragon
-bip_39_word_new_br_8: flock<br>develop<br>salmon<br>magic<br>control<br>short<br>dragon<br>bright
-bip_39_word_new_br_9: flock<br>develop<br>salmon<br>magic<br>control<br>short<br>dragon<br>bright<br>tip
-bip_39_word_new_line_1: flock
-bip_39_word_new_line_10: 'flock
-
-  develop
-
-  salmon
-
-  magic
-
-  control
-
-  short
-
-  dragon
-
-  bright
-
-  tip
-
-  midnight'
-bip_39_word_new_line_11: 'flock
-
-  develop
-
-  salmon
-
-  magic
-
-  control
-
-  short
-
-  dragon
-
-  bright
-
-  tip
-
-  midnight
-
-  bone'
 bip_39_word_new_line_12: 'flock
 
   develop
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'flock
   develop
 
   salmon'
-bip_39_word_new_line_4: 'flock
-
-  develop
-
-  salmon
-
-  magic'
-bip_39_word_new_line_5: 'flock
-
-  develop
-
-  salmon
-
-  magic
-
-  control'
-bip_39_word_new_line_6: 'flock
-
-  develop
-
-  salmon
-
-  magic
-
-  control
-
-  short'
-bip_39_word_new_line_7: 'flock
-
-  develop
-
-  salmon
-
-  magic
-
-  control
-
-  short
-
-  dragon'
-bip_39_word_new_line_8: 'flock
-
-  develop
-
-  salmon
-
-  magic
-
-  control
-
-  short
-
-  dragon
-
-  bright'
-bip_39_word_new_line_9: 'flock
-
-  develop
-
-  salmon
-
-  magic
-
-  control
-
-  short
-
-  dragon
-
-  bright
-
-  tip'
-bip_39_word_no_space_1: flock
-bip_39_word_no_space_10: flockdevelopsalmonmagiccontrolshortdragonbrighttipmidnight
-bip_39_word_no_space_11: flockdevelopsalmonmagiccontrolshortdragonbrighttipmidnightbone
 bip_39_word_no_space_12: flockdevelopsalmonmagiccontrolshortdragonbrighttipmidnightboneactor
 bip_39_word_no_space_2: flockdevelop
 bip_39_word_no_space_3: flockdevelopsalmon
-bip_39_word_no_space_4: flockdevelopsalmonmagic
-bip_39_word_no_space_5: flockdevelopsalmonmagiccontrol
-bip_39_word_no_space_6: flockdevelopsalmonmagiccontrolshort
-bip_39_word_no_space_7: flockdevelopsalmonmagiccontrolshortdragon
-bip_39_word_no_space_8: flockdevelopsalmonmagiccontrolshortdragonbright
-bip_39_word_no_space_9: flockdevelopsalmonmagiccontrolshortdragonbrighttip
-bip_39_word_space_0:
-- flock
-- develop
-- salmon
-- magic
-- control
-- short
-- dragon
-- bright
-- tip
-- midnight
-- bone
-- actor
-bip_39_word_space_1: flock
-bip_39_word_space_10: flock develop salmon magic control short dragon bright tip midnight
-bip_39_word_space_11: flock develop salmon magic control short dragon bright tip midnight
-  bone
 bip_39_word_space_12: flock develop salmon magic control short dragon bright tip midnight
   bone actor
 bip_39_word_space_2: flock develop
 bip_39_word_space_3: flock develop salmon
-bip_39_word_space_4: flock develop salmon magic
-bip_39_word_space_5: flock develop salmon magic control
-bip_39_word_space_6: flock develop salmon magic control short
-bip_39_word_space_7: flock develop salmon magic control short dragon
-bip_39_word_space_8: flock develop salmon magic control short dragon bright
-bip_39_word_space_9: flock develop salmon magic control short dragon bright tip
-bip_39_word_underscore_1: flock
-bip_39_word_underscore_10: flock_develop_salmon_magic_control_short_dragon_bright_tip_midnight
-bip_39_word_underscore_11: flock_develop_salmon_magic_control_short_dragon_bright_tip_midnight_bone
 bip_39_word_underscore_12: flock_develop_salmon_magic_control_short_dragon_bright_tip_midnight_bone_actor
 bip_39_word_underscore_2: flock_develop
 bip_39_word_underscore_3: flock_develop_salmon
-bip_39_word_underscore_4: flock_develop_salmon_magic
-bip_39_word_underscore_5: flock_develop_salmon_magic_control
-bip_39_word_underscore_6: flock_develop_salmon_magic_control_short
-bip_39_word_underscore_7: flock_develop_salmon_magic_control_short_dragon
-bip_39_word_underscore_8: flock_develop_salmon_magic_control_short_dragon_bright
-bip_39_word_underscore_9: flock_develop_salmon_magic_control_short_dragon_bright_tip
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

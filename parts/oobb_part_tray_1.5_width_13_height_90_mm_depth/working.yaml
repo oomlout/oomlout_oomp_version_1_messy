@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shoe
-bip_39_word_dash_10: shoe-belt-nut-raven-danger-sign-token-iron-into-roof
-bip_39_word_dash_11: shoe-belt-nut-raven-danger-sign-token-iron-into-roof-side
 bip_39_word_dash_12: shoe-belt-nut-raven-danger-sign-token-iron-into-roof-side-alter
 bip_39_word_dash_2: shoe-belt
 bip_39_word_dash_3: shoe-belt-nut
-bip_39_word_dash_4: shoe-belt-nut-raven
-bip_39_word_dash_5: shoe-belt-nut-raven-danger
-bip_39_word_dash_6: shoe-belt-nut-raven-danger-sign
-bip_39_word_dash_7: shoe-belt-nut-raven-danger-sign-token
-bip_39_word_dash_8: shoe-belt-nut-raven-danger-sign-token-iron
-bip_39_word_dash_9: shoe-belt-nut-raven-danger-sign-token-iron-into
-bip_39_word_new_br_1: shoe
-bip_39_word_new_br_10: shoe<br>belt<br>nut<br>raven<br>danger<br>sign<br>token<br>iron<br>into<br>roof
-bip_39_word_new_br_11: shoe<br>belt<br>nut<br>raven<br>danger<br>sign<br>token<br>iron<br>into<br>roof<br>side
 bip_39_word_new_br_12: shoe<br>belt<br>nut<br>raven<br>danger<br>sign<br>token<br>iron<br>into<br>roof<br>side<br>alter
 bip_39_word_new_br_2: shoe<br>belt
 bip_39_word_new_br_3: shoe<br>belt<br>nut
-bip_39_word_new_br_4: shoe<br>belt<br>nut<br>raven
-bip_39_word_new_br_5: shoe<br>belt<br>nut<br>raven<br>danger
-bip_39_word_new_br_6: shoe<br>belt<br>nut<br>raven<br>danger<br>sign
-bip_39_word_new_br_7: shoe<br>belt<br>nut<br>raven<br>danger<br>sign<br>token
-bip_39_word_new_br_8: shoe<br>belt<br>nut<br>raven<br>danger<br>sign<br>token<br>iron
-bip_39_word_new_br_9: shoe<br>belt<br>nut<br>raven<br>danger<br>sign<br>token<br>iron<br>into
-bip_39_word_new_line_1: shoe
-bip_39_word_new_line_10: 'shoe
-
-  belt
-
-  nut
-
-  raven
-
-  danger
-
-  sign
-
-  token
-
-  iron
-
-  into
-
-  roof'
-bip_39_word_new_line_11: 'shoe
-
-  belt
-
-  nut
-
-  raven
-
-  danger
-
-  sign
-
-  token
-
-  iron
-
-  into
-
-  roof
-
-  side'
 bip_39_word_new_line_12: 'shoe
 
   belt
@@ -94,127 +35,15 @@ bip_39_word_new_line_3: 'shoe
   belt
 
   nut'
-bip_39_word_new_line_4: 'shoe
-
-  belt
-
-  nut
-
-  raven'
-bip_39_word_new_line_5: 'shoe
-
-  belt
-
-  nut
-
-  raven
-
-  danger'
-bip_39_word_new_line_6: 'shoe
-
-  belt
-
-  nut
-
-  raven
-
-  danger
-
-  sign'
-bip_39_word_new_line_7: 'shoe
-
-  belt
-
-  nut
-
-  raven
-
-  danger
-
-  sign
-
-  token'
-bip_39_word_new_line_8: 'shoe
-
-  belt
-
-  nut
-
-  raven
-
-  danger
-
-  sign
-
-  token
-
-  iron'
-bip_39_word_new_line_9: 'shoe
-
-  belt
-
-  nut
-
-  raven
-
-  danger
-
-  sign
-
-  token
-
-  iron
-
-  into'
-bip_39_word_no_space_1: shoe
-bip_39_word_no_space_10: shoebeltnutravendangersigntokenironintoroof
-bip_39_word_no_space_11: shoebeltnutravendangersigntokenironintoroofside
 bip_39_word_no_space_12: shoebeltnutravendangersigntokenironintoroofsidealter
 bip_39_word_no_space_2: shoebelt
 bip_39_word_no_space_3: shoebeltnut
-bip_39_word_no_space_4: shoebeltnutraven
-bip_39_word_no_space_5: shoebeltnutravendanger
-bip_39_word_no_space_6: shoebeltnutravendangersign
-bip_39_word_no_space_7: shoebeltnutravendangersigntoken
-bip_39_word_no_space_8: shoebeltnutravendangersigntokeniron
-bip_39_word_no_space_9: shoebeltnutravendangersigntokenironinto
-bip_39_word_space_0:
-- shoe
-- belt
-- nut
-- raven
-- danger
-- sign
-- token
-- iron
-- into
-- roof
-- side
-- alter
-bip_39_word_space_1: shoe
-bip_39_word_space_10: shoe belt nut raven danger sign token iron into roof
-bip_39_word_space_11: shoe belt nut raven danger sign token iron into roof side
 bip_39_word_space_12: shoe belt nut raven danger sign token iron into roof side alter
 bip_39_word_space_2: shoe belt
 bip_39_word_space_3: shoe belt nut
-bip_39_word_space_4: shoe belt nut raven
-bip_39_word_space_5: shoe belt nut raven danger
-bip_39_word_space_6: shoe belt nut raven danger sign
-bip_39_word_space_7: shoe belt nut raven danger sign token
-bip_39_word_space_8: shoe belt nut raven danger sign token iron
-bip_39_word_space_9: shoe belt nut raven danger sign token iron into
-bip_39_word_underscore_1: shoe
-bip_39_word_underscore_10: shoe_belt_nut_raven_danger_sign_token_iron_into_roof
-bip_39_word_underscore_11: shoe_belt_nut_raven_danger_sign_token_iron_into_roof_side
 bip_39_word_underscore_12: shoe_belt_nut_raven_danger_sign_token_iron_into_roof_side_alter
 bip_39_word_underscore_2: shoe_belt
 bip_39_word_underscore_3: shoe_belt_nut
-bip_39_word_underscore_4: shoe_belt_nut_raven
-bip_39_word_underscore_5: shoe_belt_nut_raven_danger
-bip_39_word_underscore_6: shoe_belt_nut_raven_danger_sign
-bip_39_word_underscore_7: shoe_belt_nut_raven_danger_sign_token
-bip_39_word_underscore_8: shoe_belt_nut_raven_danger_sign_token_iron
-bip_39_word_underscore_9: shoe_belt_nut_raven_danger_sign_token_iron_into
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

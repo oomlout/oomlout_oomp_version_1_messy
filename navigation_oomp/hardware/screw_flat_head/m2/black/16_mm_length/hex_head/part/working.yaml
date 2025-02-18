@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phone
-bip_39_word_dash_10: phone-father-weather-task-law-craft-inform-uncle-that-slot
-bip_39_word_dash_11: phone-father-weather-task-law-craft-inform-uncle-that-slot-enlist
 bip_39_word_dash_12: phone-father-weather-task-law-craft-inform-uncle-that-slot-enlist-afford
 bip_39_word_dash_2: phone-father
 bip_39_word_dash_3: phone-father-weather
-bip_39_word_dash_4: phone-father-weather-task
-bip_39_word_dash_5: phone-father-weather-task-law
-bip_39_word_dash_6: phone-father-weather-task-law-craft
-bip_39_word_dash_7: phone-father-weather-task-law-craft-inform
-bip_39_word_dash_8: phone-father-weather-task-law-craft-inform-uncle
-bip_39_word_dash_9: phone-father-weather-task-law-craft-inform-uncle-that
-bip_39_word_new_br_1: phone
-bip_39_word_new_br_10: phone<br>father<br>weather<br>task<br>law<br>craft<br>inform<br>uncle<br>that<br>slot
-bip_39_word_new_br_11: phone<br>father<br>weather<br>task<br>law<br>craft<br>inform<br>uncle<br>that<br>slot<br>enlist
 bip_39_word_new_br_12: phone<br>father<br>weather<br>task<br>law<br>craft<br>inform<br>uncle<br>that<br>slot<br>enlist<br>afford
 bip_39_word_new_br_2: phone<br>father
 bip_39_word_new_br_3: phone<br>father<br>weather
-bip_39_word_new_br_4: phone<br>father<br>weather<br>task
-bip_39_word_new_br_5: phone<br>father<br>weather<br>task<br>law
-bip_39_word_new_br_6: phone<br>father<br>weather<br>task<br>law<br>craft
-bip_39_word_new_br_7: phone<br>father<br>weather<br>task<br>law<br>craft<br>inform
-bip_39_word_new_br_8: phone<br>father<br>weather<br>task<br>law<br>craft<br>inform<br>uncle
-bip_39_word_new_br_9: phone<br>father<br>weather<br>task<br>law<br>craft<br>inform<br>uncle<br>that
-bip_39_word_new_line_1: phone
-bip_39_word_new_line_10: 'phone
-
-  father
-
-  weather
-
-  task
-
-  law
-
-  craft
-
-  inform
-
-  uncle
-
-  that
-
-  slot'
-bip_39_word_new_line_11: 'phone
-
-  father
-
-  weather
-
-  task
-
-  law
-
-  craft
-
-  inform
-
-  uncle
-
-  that
-
-  slot
-
-  enlist'
 bip_39_word_new_line_12: 'phone
 
   father
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'phone
   father
 
   weather'
-bip_39_word_new_line_4: 'phone
-
-  father
-
-  weather
-
-  task'
-bip_39_word_new_line_5: 'phone
-
-  father
-
-  weather
-
-  task
-
-  law'
-bip_39_word_new_line_6: 'phone
-
-  father
-
-  weather
-
-  task
-
-  law
-
-  craft'
-bip_39_word_new_line_7: 'phone
-
-  father
-
-  weather
-
-  task
-
-  law
-
-  craft
-
-  inform'
-bip_39_word_new_line_8: 'phone
-
-  father
-
-  weather
-
-  task
-
-  law
-
-  craft
-
-  inform
-
-  uncle'
-bip_39_word_new_line_9: 'phone
-
-  father
-
-  weather
-
-  task
-
-  law
-
-  craft
-
-  inform
-
-  uncle
-
-  that'
-bip_39_word_no_space_1: phone
-bip_39_word_no_space_10: phonefatherweathertasklawcraftinformunclethatslot
-bip_39_word_no_space_11: phonefatherweathertasklawcraftinformunclethatslotenlist
 bip_39_word_no_space_12: phonefatherweathertasklawcraftinformunclethatslotenlistafford
 bip_39_word_no_space_2: phonefather
 bip_39_word_no_space_3: phonefatherweather
-bip_39_word_no_space_4: phonefatherweathertask
-bip_39_word_no_space_5: phonefatherweathertasklaw
-bip_39_word_no_space_6: phonefatherweathertasklawcraft
-bip_39_word_no_space_7: phonefatherweathertasklawcraftinform
-bip_39_word_no_space_8: phonefatherweathertasklawcraftinformuncle
-bip_39_word_no_space_9: phonefatherweathertasklawcraftinformunclethat
-bip_39_word_space_0:
-- phone
-- father
-- weather
-- task
-- law
-- craft
-- inform
-- uncle
-- that
-- slot
-- enlist
-- afford
-bip_39_word_space_1: phone
-bip_39_word_space_10: phone father weather task law craft inform uncle that slot
-bip_39_word_space_11: phone father weather task law craft inform uncle that slot enlist
 bip_39_word_space_12: phone father weather task law craft inform uncle that slot enlist
   afford
 bip_39_word_space_2: phone father
 bip_39_word_space_3: phone father weather
-bip_39_word_space_4: phone father weather task
-bip_39_word_space_5: phone father weather task law
-bip_39_word_space_6: phone father weather task law craft
-bip_39_word_space_7: phone father weather task law craft inform
-bip_39_word_space_8: phone father weather task law craft inform uncle
-bip_39_word_space_9: phone father weather task law craft inform uncle that
-bip_39_word_underscore_1: phone
-bip_39_word_underscore_10: phone_father_weather_task_law_craft_inform_uncle_that_slot
-bip_39_word_underscore_11: phone_father_weather_task_law_craft_inform_uncle_that_slot_enlist
 bip_39_word_underscore_12: phone_father_weather_task_law_craft_inform_uncle_that_slot_enlist_afford
 bip_39_word_underscore_2: phone_father
 bip_39_word_underscore_3: phone_father_weather
-bip_39_word_underscore_4: phone_father_weather_task
-bip_39_word_underscore_5: phone_father_weather_task_law
-bip_39_word_underscore_6: phone_father_weather_task_law_craft
-bip_39_word_underscore_7: phone_father_weather_task_law_craft_inform
-bip_39_word_underscore_8: phone_father_weather_task_law_craft_inform_uncle
-bip_39_word_underscore_9: phone_father_weather_task_law_craft_inform_uncle_that
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

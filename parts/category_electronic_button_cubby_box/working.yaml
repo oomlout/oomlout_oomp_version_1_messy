@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ball
-bip_39_word_dash_10: ball-bachelor-basic-donkey-hair-cave-indoor-second-total-dolphin
-bip_39_word_dash_11: ball-bachelor-basic-donkey-hair-cave-indoor-second-total-dolphin-lift
 bip_39_word_dash_12: ball-bachelor-basic-donkey-hair-cave-indoor-second-total-dolphin-lift-another
 bip_39_word_dash_2: ball-bachelor
 bip_39_word_dash_3: ball-bachelor-basic
-bip_39_word_dash_4: ball-bachelor-basic-donkey
-bip_39_word_dash_5: ball-bachelor-basic-donkey-hair
-bip_39_word_dash_6: ball-bachelor-basic-donkey-hair-cave
-bip_39_word_dash_7: ball-bachelor-basic-donkey-hair-cave-indoor
-bip_39_word_dash_8: ball-bachelor-basic-donkey-hair-cave-indoor-second
-bip_39_word_dash_9: ball-bachelor-basic-donkey-hair-cave-indoor-second-total
-bip_39_word_new_br_1: ball
-bip_39_word_new_br_10: ball<br>bachelor<br>basic<br>donkey<br>hair<br>cave<br>indoor<br>second<br>total<br>dolphin
-bip_39_word_new_br_11: ball<br>bachelor<br>basic<br>donkey<br>hair<br>cave<br>indoor<br>second<br>total<br>dolphin<br>lift
 bip_39_word_new_br_12: ball<br>bachelor<br>basic<br>donkey<br>hair<br>cave<br>indoor<br>second<br>total<br>dolphin<br>lift<br>another
 bip_39_word_new_br_2: ball<br>bachelor
 bip_39_word_new_br_3: ball<br>bachelor<br>basic
-bip_39_word_new_br_4: ball<br>bachelor<br>basic<br>donkey
-bip_39_word_new_br_5: ball<br>bachelor<br>basic<br>donkey<br>hair
-bip_39_word_new_br_6: ball<br>bachelor<br>basic<br>donkey<br>hair<br>cave
-bip_39_word_new_br_7: ball<br>bachelor<br>basic<br>donkey<br>hair<br>cave<br>indoor
-bip_39_word_new_br_8: ball<br>bachelor<br>basic<br>donkey<br>hair<br>cave<br>indoor<br>second
-bip_39_word_new_br_9: ball<br>bachelor<br>basic<br>donkey<br>hair<br>cave<br>indoor<br>second<br>total
-bip_39_word_new_line_1: ball
-bip_39_word_new_line_10: 'ball
-
-  bachelor
-
-  basic
-
-  donkey
-
-  hair
-
-  cave
-
-  indoor
-
-  second
-
-  total
-
-  dolphin'
-bip_39_word_new_line_11: 'ball
-
-  bachelor
-
-  basic
-
-  donkey
-
-  hair
-
-  cave
-
-  indoor
-
-  second
-
-  total
-
-  dolphin
-
-  lift'
 bip_39_word_new_line_12: 'ball
 
   bachelor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'ball
   bachelor
 
   basic'
-bip_39_word_new_line_4: 'ball
-
-  bachelor
-
-  basic
-
-  donkey'
-bip_39_word_new_line_5: 'ball
-
-  bachelor
-
-  basic
-
-  donkey
-
-  hair'
-bip_39_word_new_line_6: 'ball
-
-  bachelor
-
-  basic
-
-  donkey
-
-  hair
-
-  cave'
-bip_39_word_new_line_7: 'ball
-
-  bachelor
-
-  basic
-
-  donkey
-
-  hair
-
-  cave
-
-  indoor'
-bip_39_word_new_line_8: 'ball
-
-  bachelor
-
-  basic
-
-  donkey
-
-  hair
-
-  cave
-
-  indoor
-
-  second'
-bip_39_word_new_line_9: 'ball
-
-  bachelor
-
-  basic
-
-  donkey
-
-  hair
-
-  cave
-
-  indoor
-
-  second
-
-  total'
-bip_39_word_no_space_1: ball
-bip_39_word_no_space_10: ballbachelorbasicdonkeyhaircaveindoorsecondtotaldolphin
-bip_39_word_no_space_11: ballbachelorbasicdonkeyhaircaveindoorsecondtotaldolphinlift
 bip_39_word_no_space_12: ballbachelorbasicdonkeyhaircaveindoorsecondtotaldolphinliftanother
 bip_39_word_no_space_2: ballbachelor
 bip_39_word_no_space_3: ballbachelorbasic
-bip_39_word_no_space_4: ballbachelorbasicdonkey
-bip_39_word_no_space_5: ballbachelorbasicdonkeyhair
-bip_39_word_no_space_6: ballbachelorbasicdonkeyhaircave
-bip_39_word_no_space_7: ballbachelorbasicdonkeyhaircaveindoor
-bip_39_word_no_space_8: ballbachelorbasicdonkeyhaircaveindoorsecond
-bip_39_word_no_space_9: ballbachelorbasicdonkeyhaircaveindoorsecondtotal
-bip_39_word_space_0:
-- ball
-- bachelor
-- basic
-- donkey
-- hair
-- cave
-- indoor
-- second
-- total
-- dolphin
-- lift
-- another
-bip_39_word_space_1: ball
-bip_39_word_space_10: ball bachelor basic donkey hair cave indoor second total dolphin
-bip_39_word_space_11: ball bachelor basic donkey hair cave indoor second total dolphin
-  lift
 bip_39_word_space_12: ball bachelor basic donkey hair cave indoor second total dolphin
   lift another
 bip_39_word_space_2: ball bachelor
 bip_39_word_space_3: ball bachelor basic
-bip_39_word_space_4: ball bachelor basic donkey
-bip_39_word_space_5: ball bachelor basic donkey hair
-bip_39_word_space_6: ball bachelor basic donkey hair cave
-bip_39_word_space_7: ball bachelor basic donkey hair cave indoor
-bip_39_word_space_8: ball bachelor basic donkey hair cave indoor second
-bip_39_word_space_9: ball bachelor basic donkey hair cave indoor second total
-bip_39_word_underscore_1: ball
-bip_39_word_underscore_10: ball_bachelor_basic_donkey_hair_cave_indoor_second_total_dolphin
-bip_39_word_underscore_11: ball_bachelor_basic_donkey_hair_cave_indoor_second_total_dolphin_lift
 bip_39_word_underscore_12: ball_bachelor_basic_donkey_hair_cave_indoor_second_total_dolphin_lift_another
 bip_39_word_underscore_2: ball_bachelor
 bip_39_word_underscore_3: ball_bachelor_basic
-bip_39_word_underscore_4: ball_bachelor_basic_donkey
-bip_39_word_underscore_5: ball_bachelor_basic_donkey_hair
-bip_39_word_underscore_6: ball_bachelor_basic_donkey_hair_cave
-bip_39_word_underscore_7: ball_bachelor_basic_donkey_hair_cave_indoor
-bip_39_word_underscore_8: ball_bachelor_basic_donkey_hair_cave_indoor_second
-bip_39_word_underscore_9: ball_bachelor_basic_donkey_hair_cave_indoor_second_total
 classification: category
 classification_capital: Category
 classification_first_letter: c

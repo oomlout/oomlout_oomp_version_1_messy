@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sausage
-bip_39_word_dash_10: sausage-chat-region-prosper-interest-noble-aerobic-small-require-you
-bip_39_word_dash_11: sausage-chat-region-prosper-interest-noble-aerobic-small-require-you-woman
 bip_39_word_dash_12: sausage-chat-region-prosper-interest-noble-aerobic-small-require-you-woman-announce
 bip_39_word_dash_2: sausage-chat
 bip_39_word_dash_3: sausage-chat-region
-bip_39_word_dash_4: sausage-chat-region-prosper
-bip_39_word_dash_5: sausage-chat-region-prosper-interest
-bip_39_word_dash_6: sausage-chat-region-prosper-interest-noble
-bip_39_word_dash_7: sausage-chat-region-prosper-interest-noble-aerobic
-bip_39_word_dash_8: sausage-chat-region-prosper-interest-noble-aerobic-small
-bip_39_word_dash_9: sausage-chat-region-prosper-interest-noble-aerobic-small-require
-bip_39_word_new_br_1: sausage
-bip_39_word_new_br_10: sausage<br>chat<br>region<br>prosper<br>interest<br>noble<br>aerobic<br>small<br>require<br>you
-bip_39_word_new_br_11: sausage<br>chat<br>region<br>prosper<br>interest<br>noble<br>aerobic<br>small<br>require<br>you<br>woman
 bip_39_word_new_br_12: sausage<br>chat<br>region<br>prosper<br>interest<br>noble<br>aerobic<br>small<br>require<br>you<br>woman<br>announce
 bip_39_word_new_br_2: sausage<br>chat
 bip_39_word_new_br_3: sausage<br>chat<br>region
-bip_39_word_new_br_4: sausage<br>chat<br>region<br>prosper
-bip_39_word_new_br_5: sausage<br>chat<br>region<br>prosper<br>interest
-bip_39_word_new_br_6: sausage<br>chat<br>region<br>prosper<br>interest<br>noble
-bip_39_word_new_br_7: sausage<br>chat<br>region<br>prosper<br>interest<br>noble<br>aerobic
-bip_39_word_new_br_8: sausage<br>chat<br>region<br>prosper<br>interest<br>noble<br>aerobic<br>small
-bip_39_word_new_br_9: sausage<br>chat<br>region<br>prosper<br>interest<br>noble<br>aerobic<br>small<br>require
-bip_39_word_new_line_1: sausage
-bip_39_word_new_line_10: 'sausage
-
-  chat
-
-  region
-
-  prosper
-
-  interest
-
-  noble
-
-  aerobic
-
-  small
-
-  require
-
-  you'
-bip_39_word_new_line_11: 'sausage
-
-  chat
-
-  region
-
-  prosper
-
-  interest
-
-  noble
-
-  aerobic
-
-  small
-
-  require
-
-  you
-
-  woman'
 bip_39_word_new_line_12: 'sausage
 
   chat
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sausage
   chat
 
   region'
-bip_39_word_new_line_4: 'sausage
-
-  chat
-
-  region
-
-  prosper'
-bip_39_word_new_line_5: 'sausage
-
-  chat
-
-  region
-
-  prosper
-
-  interest'
-bip_39_word_new_line_6: 'sausage
-
-  chat
-
-  region
-
-  prosper
-
-  interest
-
-  noble'
-bip_39_word_new_line_7: 'sausage
-
-  chat
-
-  region
-
-  prosper
-
-  interest
-
-  noble
-
-  aerobic'
-bip_39_word_new_line_8: 'sausage
-
-  chat
-
-  region
-
-  prosper
-
-  interest
-
-  noble
-
-  aerobic
-
-  small'
-bip_39_word_new_line_9: 'sausage
-
-  chat
-
-  region
-
-  prosper
-
-  interest
-
-  noble
-
-  aerobic
-
-  small
-
-  require'
-bip_39_word_no_space_1: sausage
-bip_39_word_no_space_10: sausagechatregionprosperinterestnobleaerobicsmallrequireyou
-bip_39_word_no_space_11: sausagechatregionprosperinterestnobleaerobicsmallrequireyouwoman
 bip_39_word_no_space_12: sausagechatregionprosperinterestnobleaerobicsmallrequireyouwomanannounce
 bip_39_word_no_space_2: sausagechat
 bip_39_word_no_space_3: sausagechatregion
-bip_39_word_no_space_4: sausagechatregionprosper
-bip_39_word_no_space_5: sausagechatregionprosperinterest
-bip_39_word_no_space_6: sausagechatregionprosperinterestnoble
-bip_39_word_no_space_7: sausagechatregionprosperinterestnobleaerobic
-bip_39_word_no_space_8: sausagechatregionprosperinterestnobleaerobicsmall
-bip_39_word_no_space_9: sausagechatregionprosperinterestnobleaerobicsmallrequire
-bip_39_word_space_0:
-- sausage
-- chat
-- region
-- prosper
-- interest
-- noble
-- aerobic
-- small
-- require
-- you
-- woman
-- announce
-bip_39_word_space_1: sausage
-bip_39_word_space_10: sausage chat region prosper interest noble aerobic small require
-  you
-bip_39_word_space_11: sausage chat region prosper interest noble aerobic small require
-  you woman
 bip_39_word_space_12: sausage chat region prosper interest noble aerobic small require
   you woman announce
 bip_39_word_space_2: sausage chat
 bip_39_word_space_3: sausage chat region
-bip_39_word_space_4: sausage chat region prosper
-bip_39_word_space_5: sausage chat region prosper interest
-bip_39_word_space_6: sausage chat region prosper interest noble
-bip_39_word_space_7: sausage chat region prosper interest noble aerobic
-bip_39_word_space_8: sausage chat region prosper interest noble aerobic small
-bip_39_word_space_9: sausage chat region prosper interest noble aerobic small require
-bip_39_word_underscore_1: sausage
-bip_39_word_underscore_10: sausage_chat_region_prosper_interest_noble_aerobic_small_require_you
-bip_39_word_underscore_11: sausage_chat_region_prosper_interest_noble_aerobic_small_require_you_woman
 bip_39_word_underscore_12: sausage_chat_region_prosper_interest_noble_aerobic_small_require_you_woman_announce
 bip_39_word_underscore_2: sausage_chat
 bip_39_word_underscore_3: sausage_chat_region
-bip_39_word_underscore_4: sausage_chat_region_prosper
-bip_39_word_underscore_5: sausage_chat_region_prosper_interest
-bip_39_word_underscore_6: sausage_chat_region_prosper_interest_noble
-bip_39_word_underscore_7: sausage_chat_region_prosper_interest_noble_aerobic
-bip_39_word_underscore_8: sausage_chat_region_prosper_interest_noble_aerobic_small
-bip_39_word_underscore_9: sausage_chat_region_prosper_interest_noble_aerobic_small_require
 classification: category
 classification_capital: Category
 classification_first_letter: c

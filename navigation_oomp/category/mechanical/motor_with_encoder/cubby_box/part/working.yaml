@@ -1,68 +1,9 @@
-bip_39_word_dash_1: print
-bip_39_word_dash_10: print-receive-upper-current-develop-swallow-olympic-guilt-grape-plate
-bip_39_word_dash_11: print-receive-upper-current-develop-swallow-olympic-guilt-grape-plate-elder
 bip_39_word_dash_12: print-receive-upper-current-develop-swallow-olympic-guilt-grape-plate-elder-among
 bip_39_word_dash_2: print-receive
 bip_39_word_dash_3: print-receive-upper
-bip_39_word_dash_4: print-receive-upper-current
-bip_39_word_dash_5: print-receive-upper-current-develop
-bip_39_word_dash_6: print-receive-upper-current-develop-swallow
-bip_39_word_dash_7: print-receive-upper-current-develop-swallow-olympic
-bip_39_word_dash_8: print-receive-upper-current-develop-swallow-olympic-guilt
-bip_39_word_dash_9: print-receive-upper-current-develop-swallow-olympic-guilt-grape
-bip_39_word_new_br_1: print
-bip_39_word_new_br_10: print<br>receive<br>upper<br>current<br>develop<br>swallow<br>olympic<br>guilt<br>grape<br>plate
-bip_39_word_new_br_11: print<br>receive<br>upper<br>current<br>develop<br>swallow<br>olympic<br>guilt<br>grape<br>plate<br>elder
 bip_39_word_new_br_12: print<br>receive<br>upper<br>current<br>develop<br>swallow<br>olympic<br>guilt<br>grape<br>plate<br>elder<br>among
 bip_39_word_new_br_2: print<br>receive
 bip_39_word_new_br_3: print<br>receive<br>upper
-bip_39_word_new_br_4: print<br>receive<br>upper<br>current
-bip_39_word_new_br_5: print<br>receive<br>upper<br>current<br>develop
-bip_39_word_new_br_6: print<br>receive<br>upper<br>current<br>develop<br>swallow
-bip_39_word_new_br_7: print<br>receive<br>upper<br>current<br>develop<br>swallow<br>olympic
-bip_39_word_new_br_8: print<br>receive<br>upper<br>current<br>develop<br>swallow<br>olympic<br>guilt
-bip_39_word_new_br_9: print<br>receive<br>upper<br>current<br>develop<br>swallow<br>olympic<br>guilt<br>grape
-bip_39_word_new_line_1: print
-bip_39_word_new_line_10: 'print
-
-  receive
-
-  upper
-
-  current
-
-  develop
-
-  swallow
-
-  olympic
-
-  guilt
-
-  grape
-
-  plate'
-bip_39_word_new_line_11: 'print
-
-  receive
-
-  upper
-
-  current
-
-  develop
-
-  swallow
-
-  olympic
-
-  guilt
-
-  grape
-
-  plate
-
-  elder'
 bip_39_word_new_line_12: 'print
 
   receive
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'print
   receive
 
   upper'
-bip_39_word_new_line_4: 'print
-
-  receive
-
-  upper
-
-  current'
-bip_39_word_new_line_5: 'print
-
-  receive
-
-  upper
-
-  current
-
-  develop'
-bip_39_word_new_line_6: 'print
-
-  receive
-
-  upper
-
-  current
-
-  develop
-
-  swallow'
-bip_39_word_new_line_7: 'print
-
-  receive
-
-  upper
-
-  current
-
-  develop
-
-  swallow
-
-  olympic'
-bip_39_word_new_line_8: 'print
-
-  receive
-
-  upper
-
-  current
-
-  develop
-
-  swallow
-
-  olympic
-
-  guilt'
-bip_39_word_new_line_9: 'print
-
-  receive
-
-  upper
-
-  current
-
-  develop
-
-  swallow
-
-  olympic
-
-  guilt
-
-  grape'
-bip_39_word_no_space_1: print
-bip_39_word_no_space_10: printreceiveuppercurrentdevelopswallowolympicguiltgrapeplate
-bip_39_word_no_space_11: printreceiveuppercurrentdevelopswallowolympicguiltgrapeplateelder
 bip_39_word_no_space_12: printreceiveuppercurrentdevelopswallowolympicguiltgrapeplateelderamong
 bip_39_word_no_space_2: printreceive
 bip_39_word_no_space_3: printreceiveupper
-bip_39_word_no_space_4: printreceiveuppercurrent
-bip_39_word_no_space_5: printreceiveuppercurrentdevelop
-bip_39_word_no_space_6: printreceiveuppercurrentdevelopswallow
-bip_39_word_no_space_7: printreceiveuppercurrentdevelopswallowolympic
-bip_39_word_no_space_8: printreceiveuppercurrentdevelopswallowolympicguilt
-bip_39_word_no_space_9: printreceiveuppercurrentdevelopswallowolympicguiltgrape
-bip_39_word_space_0:
-- print
-- receive
-- upper
-- current
-- develop
-- swallow
-- olympic
-- guilt
-- grape
-- plate
-- elder
-- among
-bip_39_word_space_1: print
-bip_39_word_space_10: print receive upper current develop swallow olympic guilt grape
-  plate
-bip_39_word_space_11: print receive upper current develop swallow olympic guilt grape
-  plate elder
 bip_39_word_space_12: print receive upper current develop swallow olympic guilt grape
   plate elder among
 bip_39_word_space_2: print receive
 bip_39_word_space_3: print receive upper
-bip_39_word_space_4: print receive upper current
-bip_39_word_space_5: print receive upper current develop
-bip_39_word_space_6: print receive upper current develop swallow
-bip_39_word_space_7: print receive upper current develop swallow olympic
-bip_39_word_space_8: print receive upper current develop swallow olympic guilt
-bip_39_word_space_9: print receive upper current develop swallow olympic guilt grape
-bip_39_word_underscore_1: print
-bip_39_word_underscore_10: print_receive_upper_current_develop_swallow_olympic_guilt_grape_plate
-bip_39_word_underscore_11: print_receive_upper_current_develop_swallow_olympic_guilt_grape_plate_elder
 bip_39_word_underscore_12: print_receive_upper_current_develop_swallow_olympic_guilt_grape_plate_elder_among
 bip_39_word_underscore_2: print_receive
 bip_39_word_underscore_3: print_receive_upper
-bip_39_word_underscore_4: print_receive_upper_current
-bip_39_word_underscore_5: print_receive_upper_current_develop
-bip_39_word_underscore_6: print_receive_upper_current_develop_swallow
-bip_39_word_underscore_7: print_receive_upper_current_develop_swallow_olympic
-bip_39_word_underscore_8: print_receive_upper_current_develop_swallow_olympic_guilt
-bip_39_word_underscore_9: print_receive_upper_current_develop_swallow_olympic_guilt_grape
 classification: category
 classification_capital: Category
 classification_first_letter: c

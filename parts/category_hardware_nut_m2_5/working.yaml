@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wealth
-bip_39_word_dash_10: wealth-boy-reason-hard-pet-pepper-tooth-expand-cool-field
-bip_39_word_dash_11: wealth-boy-reason-hard-pet-pepper-tooth-expand-cool-field-love
 bip_39_word_dash_12: wealth-boy-reason-hard-pet-pepper-tooth-expand-cool-field-love-account
 bip_39_word_dash_2: wealth-boy
 bip_39_word_dash_3: wealth-boy-reason
-bip_39_word_dash_4: wealth-boy-reason-hard
-bip_39_word_dash_5: wealth-boy-reason-hard-pet
-bip_39_word_dash_6: wealth-boy-reason-hard-pet-pepper
-bip_39_word_dash_7: wealth-boy-reason-hard-pet-pepper-tooth
-bip_39_word_dash_8: wealth-boy-reason-hard-pet-pepper-tooth-expand
-bip_39_word_dash_9: wealth-boy-reason-hard-pet-pepper-tooth-expand-cool
-bip_39_word_new_br_1: wealth
-bip_39_word_new_br_10: wealth<br>boy<br>reason<br>hard<br>pet<br>pepper<br>tooth<br>expand<br>cool<br>field
-bip_39_word_new_br_11: wealth<br>boy<br>reason<br>hard<br>pet<br>pepper<br>tooth<br>expand<br>cool<br>field<br>love
 bip_39_word_new_br_12: wealth<br>boy<br>reason<br>hard<br>pet<br>pepper<br>tooth<br>expand<br>cool<br>field<br>love<br>account
 bip_39_word_new_br_2: wealth<br>boy
 bip_39_word_new_br_3: wealth<br>boy<br>reason
-bip_39_word_new_br_4: wealth<br>boy<br>reason<br>hard
-bip_39_word_new_br_5: wealth<br>boy<br>reason<br>hard<br>pet
-bip_39_word_new_br_6: wealth<br>boy<br>reason<br>hard<br>pet<br>pepper
-bip_39_word_new_br_7: wealth<br>boy<br>reason<br>hard<br>pet<br>pepper<br>tooth
-bip_39_word_new_br_8: wealth<br>boy<br>reason<br>hard<br>pet<br>pepper<br>tooth<br>expand
-bip_39_word_new_br_9: wealth<br>boy<br>reason<br>hard<br>pet<br>pepper<br>tooth<br>expand<br>cool
-bip_39_word_new_line_1: wealth
-bip_39_word_new_line_10: 'wealth
-
-  boy
-
-  reason
-
-  hard
-
-  pet
-
-  pepper
-
-  tooth
-
-  expand
-
-  cool
-
-  field'
-bip_39_word_new_line_11: 'wealth
-
-  boy
-
-  reason
-
-  hard
-
-  pet
-
-  pepper
-
-  tooth
-
-  expand
-
-  cool
-
-  field
-
-  love'
 bip_39_word_new_line_12: 'wealth
 
   boy
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'wealth
   boy
 
   reason'
-bip_39_word_new_line_4: 'wealth
-
-  boy
-
-  reason
-
-  hard'
-bip_39_word_new_line_5: 'wealth
-
-  boy
-
-  reason
-
-  hard
-
-  pet'
-bip_39_word_new_line_6: 'wealth
-
-  boy
-
-  reason
-
-  hard
-
-  pet
-
-  pepper'
-bip_39_word_new_line_7: 'wealth
-
-  boy
-
-  reason
-
-  hard
-
-  pet
-
-  pepper
-
-  tooth'
-bip_39_word_new_line_8: 'wealth
-
-  boy
-
-  reason
-
-  hard
-
-  pet
-
-  pepper
-
-  tooth
-
-  expand'
-bip_39_word_new_line_9: 'wealth
-
-  boy
-
-  reason
-
-  hard
-
-  pet
-
-  pepper
-
-  tooth
-
-  expand
-
-  cool'
-bip_39_word_no_space_1: wealth
-bip_39_word_no_space_10: wealthboyreasonhardpetpeppertoothexpandcoolfield
-bip_39_word_no_space_11: wealthboyreasonhardpetpeppertoothexpandcoolfieldlove
 bip_39_word_no_space_12: wealthboyreasonhardpetpeppertoothexpandcoolfieldloveaccount
 bip_39_word_no_space_2: wealthboy
 bip_39_word_no_space_3: wealthboyreason
-bip_39_word_no_space_4: wealthboyreasonhard
-bip_39_word_no_space_5: wealthboyreasonhardpet
-bip_39_word_no_space_6: wealthboyreasonhardpetpepper
-bip_39_word_no_space_7: wealthboyreasonhardpetpeppertooth
-bip_39_word_no_space_8: wealthboyreasonhardpetpeppertoothexpand
-bip_39_word_no_space_9: wealthboyreasonhardpetpeppertoothexpandcool
-bip_39_word_space_0:
-- wealth
-- boy
-- reason
-- hard
-- pet
-- pepper
-- tooth
-- expand
-- cool
-- field
-- love
-- account
-bip_39_word_space_1: wealth
-bip_39_word_space_10: wealth boy reason hard pet pepper tooth expand cool field
-bip_39_word_space_11: wealth boy reason hard pet pepper tooth expand cool field love
 bip_39_word_space_12: wealth boy reason hard pet pepper tooth expand cool field love
   account
 bip_39_word_space_2: wealth boy
 bip_39_word_space_3: wealth boy reason
-bip_39_word_space_4: wealth boy reason hard
-bip_39_word_space_5: wealth boy reason hard pet
-bip_39_word_space_6: wealth boy reason hard pet pepper
-bip_39_word_space_7: wealth boy reason hard pet pepper tooth
-bip_39_word_space_8: wealth boy reason hard pet pepper tooth expand
-bip_39_word_space_9: wealth boy reason hard pet pepper tooth expand cool
-bip_39_word_underscore_1: wealth
-bip_39_word_underscore_10: wealth_boy_reason_hard_pet_pepper_tooth_expand_cool_field
-bip_39_word_underscore_11: wealth_boy_reason_hard_pet_pepper_tooth_expand_cool_field_love
 bip_39_word_underscore_12: wealth_boy_reason_hard_pet_pepper_tooth_expand_cool_field_love_account
 bip_39_word_underscore_2: wealth_boy
 bip_39_word_underscore_3: wealth_boy_reason
-bip_39_word_underscore_4: wealth_boy_reason_hard
-bip_39_word_underscore_5: wealth_boy_reason_hard_pet
-bip_39_word_underscore_6: wealth_boy_reason_hard_pet_pepper
-bip_39_word_underscore_7: wealth_boy_reason_hard_pet_pepper_tooth
-bip_39_word_underscore_8: wealth_boy_reason_hard_pet_pepper_tooth_expand
-bip_39_word_underscore_9: wealth_boy_reason_hard_pet_pepper_tooth_expand_cool
 classification: category
 classification_capital: Category
 classification_first_letter: c

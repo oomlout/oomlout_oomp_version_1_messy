@@ -1,68 +1,9 @@
-bip_39_word_dash_1: satoshi
-bip_39_word_dash_10: satoshi-method-outdoor-sting-viable-simple-measure-music-increase-cushion
-bip_39_word_dash_11: satoshi-method-outdoor-sting-viable-simple-measure-music-increase-cushion-scout
 bip_39_word_dash_12: satoshi-method-outdoor-sting-viable-simple-measure-music-increase-cushion-scout-affair
 bip_39_word_dash_2: satoshi-method
 bip_39_word_dash_3: satoshi-method-outdoor
-bip_39_word_dash_4: satoshi-method-outdoor-sting
-bip_39_word_dash_5: satoshi-method-outdoor-sting-viable
-bip_39_word_dash_6: satoshi-method-outdoor-sting-viable-simple
-bip_39_word_dash_7: satoshi-method-outdoor-sting-viable-simple-measure
-bip_39_word_dash_8: satoshi-method-outdoor-sting-viable-simple-measure-music
-bip_39_word_dash_9: satoshi-method-outdoor-sting-viable-simple-measure-music-increase
-bip_39_word_new_br_1: satoshi
-bip_39_word_new_br_10: satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion
-bip_39_word_new_br_11: satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion<br>scout
 bip_39_word_new_br_12: satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase<br>cushion<br>scout<br>affair
 bip_39_word_new_br_2: satoshi<br>method
 bip_39_word_new_br_3: satoshi<br>method<br>outdoor
-bip_39_word_new_br_4: satoshi<br>method<br>outdoor<br>sting
-bip_39_word_new_br_5: satoshi<br>method<br>outdoor<br>sting<br>viable
-bip_39_word_new_br_6: satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple
-bip_39_word_new_br_7: satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure
-bip_39_word_new_br_8: satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music
-bip_39_word_new_br_9: satoshi<br>method<br>outdoor<br>sting<br>viable<br>simple<br>measure<br>music<br>increase
-bip_39_word_new_line_1: satoshi
-bip_39_word_new_line_10: 'satoshi
-
-  method
-
-  outdoor
-
-  sting
-
-  viable
-
-  simple
-
-  measure
-
-  music
-
-  increase
-
-  cushion'
-bip_39_word_new_line_11: 'satoshi
-
-  method
-
-  outdoor
-
-  sting
-
-  viable
-
-  simple
-
-  measure
-
-  music
-
-  increase
-
-  cushion
-
-  scout'
 bip_39_word_new_line_12: 'satoshi
 
   method
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'satoshi
   method
 
   outdoor'
-bip_39_word_new_line_4: 'satoshi
-
-  method
-
-  outdoor
-
-  sting'
-bip_39_word_new_line_5: 'satoshi
-
-  method
-
-  outdoor
-
-  sting
-
-  viable'
-bip_39_word_new_line_6: 'satoshi
-
-  method
-
-  outdoor
-
-  sting
-
-  viable
-
-  simple'
-bip_39_word_new_line_7: 'satoshi
-
-  method
-
-  outdoor
-
-  sting
-
-  viable
-
-  simple
-
-  measure'
-bip_39_word_new_line_8: 'satoshi
-
-  method
-
-  outdoor
-
-  sting
-
-  viable
-
-  simple
-
-  measure
-
-  music'
-bip_39_word_new_line_9: 'satoshi
-
-  method
-
-  outdoor
-
-  sting
-
-  viable
-
-  simple
-
-  measure
-
-  music
-
-  increase'
-bip_39_word_no_space_1: satoshi
-bip_39_word_no_space_10: satoshimethodoutdoorstingviablesimplemeasuremusicincreasecushion
-bip_39_word_no_space_11: satoshimethodoutdoorstingviablesimplemeasuremusicincreasecushionscout
 bip_39_word_no_space_12: satoshimethodoutdoorstingviablesimplemeasuremusicincreasecushionscoutaffair
 bip_39_word_no_space_2: satoshimethod
 bip_39_word_no_space_3: satoshimethodoutdoor
-bip_39_word_no_space_4: satoshimethodoutdoorsting
-bip_39_word_no_space_5: satoshimethodoutdoorstingviable
-bip_39_word_no_space_6: satoshimethodoutdoorstingviablesimple
-bip_39_word_no_space_7: satoshimethodoutdoorstingviablesimplemeasure
-bip_39_word_no_space_8: satoshimethodoutdoorstingviablesimplemeasuremusic
-bip_39_word_no_space_9: satoshimethodoutdoorstingviablesimplemeasuremusicincrease
-bip_39_word_space_0:
-- satoshi
-- method
-- outdoor
-- sting
-- viable
-- simple
-- measure
-- music
-- increase
-- cushion
-- scout
-- affair
-bip_39_word_space_1: satoshi
-bip_39_word_space_10: satoshi method outdoor sting viable simple measure music increase
-  cushion
-bip_39_word_space_11: satoshi method outdoor sting viable simple measure music increase
-  cushion scout
 bip_39_word_space_12: satoshi method outdoor sting viable simple measure music increase
   cushion scout affair
 bip_39_word_space_2: satoshi method
 bip_39_word_space_3: satoshi method outdoor
-bip_39_word_space_4: satoshi method outdoor sting
-bip_39_word_space_5: satoshi method outdoor sting viable
-bip_39_word_space_6: satoshi method outdoor sting viable simple
-bip_39_word_space_7: satoshi method outdoor sting viable simple measure
-bip_39_word_space_8: satoshi method outdoor sting viable simple measure music
-bip_39_word_space_9: satoshi method outdoor sting viable simple measure music increase
-bip_39_word_underscore_1: satoshi
-bip_39_word_underscore_10: satoshi_method_outdoor_sting_viable_simple_measure_music_increase_cushion
-bip_39_word_underscore_11: satoshi_method_outdoor_sting_viable_simple_measure_music_increase_cushion_scout
 bip_39_word_underscore_12: satoshi_method_outdoor_sting_viable_simple_measure_music_increase_cushion_scout_affair
 bip_39_word_underscore_2: satoshi_method
 bip_39_word_underscore_3: satoshi_method_outdoor
-bip_39_word_underscore_4: satoshi_method_outdoor_sting
-bip_39_word_underscore_5: satoshi_method_outdoor_sting_viable
-bip_39_word_underscore_6: satoshi_method_outdoor_sting_viable_simple
-bip_39_word_underscore_7: satoshi_method_outdoor_sting_viable_simple_measure
-bip_39_word_underscore_8: satoshi_method_outdoor_sting_viable_simple_measure_music
-bip_39_word_underscore_9: satoshi_method_outdoor_sting_viable_simple_measure_music_increase
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

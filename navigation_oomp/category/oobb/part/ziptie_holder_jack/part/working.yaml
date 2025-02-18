@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gossip
-bip_39_word_dash_10: gossip-twice-equal-olive-spread-mixture-shaft-pudding-city-become
-bip_39_word_dash_11: gossip-twice-equal-olive-spread-mixture-shaft-pudding-city-become-short
 bip_39_word_dash_12: gossip-twice-equal-olive-spread-mixture-shaft-pudding-city-become-short-animal
 bip_39_word_dash_2: gossip-twice
 bip_39_word_dash_3: gossip-twice-equal
-bip_39_word_dash_4: gossip-twice-equal-olive
-bip_39_word_dash_5: gossip-twice-equal-olive-spread
-bip_39_word_dash_6: gossip-twice-equal-olive-spread-mixture
-bip_39_word_dash_7: gossip-twice-equal-olive-spread-mixture-shaft
-bip_39_word_dash_8: gossip-twice-equal-olive-spread-mixture-shaft-pudding
-bip_39_word_dash_9: gossip-twice-equal-olive-spread-mixture-shaft-pudding-city
-bip_39_word_new_br_1: gossip
-bip_39_word_new_br_10: gossip<br>twice<br>equal<br>olive<br>spread<br>mixture<br>shaft<br>pudding<br>city<br>become
-bip_39_word_new_br_11: gossip<br>twice<br>equal<br>olive<br>spread<br>mixture<br>shaft<br>pudding<br>city<br>become<br>short
 bip_39_word_new_br_12: gossip<br>twice<br>equal<br>olive<br>spread<br>mixture<br>shaft<br>pudding<br>city<br>become<br>short<br>animal
 bip_39_word_new_br_2: gossip<br>twice
 bip_39_word_new_br_3: gossip<br>twice<br>equal
-bip_39_word_new_br_4: gossip<br>twice<br>equal<br>olive
-bip_39_word_new_br_5: gossip<br>twice<br>equal<br>olive<br>spread
-bip_39_word_new_br_6: gossip<br>twice<br>equal<br>olive<br>spread<br>mixture
-bip_39_word_new_br_7: gossip<br>twice<br>equal<br>olive<br>spread<br>mixture<br>shaft
-bip_39_word_new_br_8: gossip<br>twice<br>equal<br>olive<br>spread<br>mixture<br>shaft<br>pudding
-bip_39_word_new_br_9: gossip<br>twice<br>equal<br>olive<br>spread<br>mixture<br>shaft<br>pudding<br>city
-bip_39_word_new_line_1: gossip
-bip_39_word_new_line_10: 'gossip
-
-  twice
-
-  equal
-
-  olive
-
-  spread
-
-  mixture
-
-  shaft
-
-  pudding
-
-  city
-
-  become'
-bip_39_word_new_line_11: 'gossip
-
-  twice
-
-  equal
-
-  olive
-
-  spread
-
-  mixture
-
-  shaft
-
-  pudding
-
-  city
-
-  become
-
-  short'
 bip_39_word_new_line_12: 'gossip
 
   twice
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gossip
   twice
 
   equal'
-bip_39_word_new_line_4: 'gossip
-
-  twice
-
-  equal
-
-  olive'
-bip_39_word_new_line_5: 'gossip
-
-  twice
-
-  equal
-
-  olive
-
-  spread'
-bip_39_word_new_line_6: 'gossip
-
-  twice
-
-  equal
-
-  olive
-
-  spread
-
-  mixture'
-bip_39_word_new_line_7: 'gossip
-
-  twice
-
-  equal
-
-  olive
-
-  spread
-
-  mixture
-
-  shaft'
-bip_39_word_new_line_8: 'gossip
-
-  twice
-
-  equal
-
-  olive
-
-  spread
-
-  mixture
-
-  shaft
-
-  pudding'
-bip_39_word_new_line_9: 'gossip
-
-  twice
-
-  equal
-
-  olive
-
-  spread
-
-  mixture
-
-  shaft
-
-  pudding
-
-  city'
-bip_39_word_no_space_1: gossip
-bip_39_word_no_space_10: gossiptwiceequalolivespreadmixtureshaftpuddingcitybecome
-bip_39_word_no_space_11: gossiptwiceequalolivespreadmixtureshaftpuddingcitybecomeshort
 bip_39_word_no_space_12: gossiptwiceequalolivespreadmixtureshaftpuddingcitybecomeshortanimal
 bip_39_word_no_space_2: gossiptwice
 bip_39_word_no_space_3: gossiptwiceequal
-bip_39_word_no_space_4: gossiptwiceequalolive
-bip_39_word_no_space_5: gossiptwiceequalolivespread
-bip_39_word_no_space_6: gossiptwiceequalolivespreadmixture
-bip_39_word_no_space_7: gossiptwiceequalolivespreadmixtureshaft
-bip_39_word_no_space_8: gossiptwiceequalolivespreadmixtureshaftpudding
-bip_39_word_no_space_9: gossiptwiceequalolivespreadmixtureshaftpuddingcity
-bip_39_word_space_0:
-- gossip
-- twice
-- equal
-- olive
-- spread
-- mixture
-- shaft
-- pudding
-- city
-- become
-- short
-- animal
-bip_39_word_space_1: gossip
-bip_39_word_space_10: gossip twice equal olive spread mixture shaft pudding city become
-bip_39_word_space_11: gossip twice equal olive spread mixture shaft pudding city become
-  short
 bip_39_word_space_12: gossip twice equal olive spread mixture shaft pudding city become
   short animal
 bip_39_word_space_2: gossip twice
 bip_39_word_space_3: gossip twice equal
-bip_39_word_space_4: gossip twice equal olive
-bip_39_word_space_5: gossip twice equal olive spread
-bip_39_word_space_6: gossip twice equal olive spread mixture
-bip_39_word_space_7: gossip twice equal olive spread mixture shaft
-bip_39_word_space_8: gossip twice equal olive spread mixture shaft pudding
-bip_39_word_space_9: gossip twice equal olive spread mixture shaft pudding city
-bip_39_word_underscore_1: gossip
-bip_39_word_underscore_10: gossip_twice_equal_olive_spread_mixture_shaft_pudding_city_become
-bip_39_word_underscore_11: gossip_twice_equal_olive_spread_mixture_shaft_pudding_city_become_short
 bip_39_word_underscore_12: gossip_twice_equal_olive_spread_mixture_shaft_pudding_city_become_short_animal
 bip_39_word_underscore_2: gossip_twice
 bip_39_word_underscore_3: gossip_twice_equal
-bip_39_word_underscore_4: gossip_twice_equal_olive
-bip_39_word_underscore_5: gossip_twice_equal_olive_spread
-bip_39_word_underscore_6: gossip_twice_equal_olive_spread_mixture
-bip_39_word_underscore_7: gossip_twice_equal_olive_spread_mixture_shaft
-bip_39_word_underscore_8: gossip_twice_equal_olive_spread_mixture_shaft_pudding
-bip_39_word_underscore_9: gossip_twice_equal_olive_spread_mixture_shaft_pudding_city
 classification: category
 classification_capital: Category
 classification_first_letter: c

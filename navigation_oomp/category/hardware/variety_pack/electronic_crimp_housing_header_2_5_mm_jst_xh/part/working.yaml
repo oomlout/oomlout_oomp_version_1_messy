@@ -1,68 +1,9 @@
-bip_39_word_dash_1: make
-bip_39_word_dash_10: make-draft-vapor-poet-cool-side-boss-glass-expose-fence
-bip_39_word_dash_11: make-draft-vapor-poet-cool-side-boss-glass-expose-fence-purpose
 bip_39_word_dash_12: make-draft-vapor-poet-cool-side-boss-glass-expose-fence-purpose-airport
 bip_39_word_dash_2: make-draft
 bip_39_word_dash_3: make-draft-vapor
-bip_39_word_dash_4: make-draft-vapor-poet
-bip_39_word_dash_5: make-draft-vapor-poet-cool
-bip_39_word_dash_6: make-draft-vapor-poet-cool-side
-bip_39_word_dash_7: make-draft-vapor-poet-cool-side-boss
-bip_39_word_dash_8: make-draft-vapor-poet-cool-side-boss-glass
-bip_39_word_dash_9: make-draft-vapor-poet-cool-side-boss-glass-expose
-bip_39_word_new_br_1: make
-bip_39_word_new_br_10: make<br>draft<br>vapor<br>poet<br>cool<br>side<br>boss<br>glass<br>expose<br>fence
-bip_39_word_new_br_11: make<br>draft<br>vapor<br>poet<br>cool<br>side<br>boss<br>glass<br>expose<br>fence<br>purpose
 bip_39_word_new_br_12: make<br>draft<br>vapor<br>poet<br>cool<br>side<br>boss<br>glass<br>expose<br>fence<br>purpose<br>airport
 bip_39_word_new_br_2: make<br>draft
 bip_39_word_new_br_3: make<br>draft<br>vapor
-bip_39_word_new_br_4: make<br>draft<br>vapor<br>poet
-bip_39_word_new_br_5: make<br>draft<br>vapor<br>poet<br>cool
-bip_39_word_new_br_6: make<br>draft<br>vapor<br>poet<br>cool<br>side
-bip_39_word_new_br_7: make<br>draft<br>vapor<br>poet<br>cool<br>side<br>boss
-bip_39_word_new_br_8: make<br>draft<br>vapor<br>poet<br>cool<br>side<br>boss<br>glass
-bip_39_word_new_br_9: make<br>draft<br>vapor<br>poet<br>cool<br>side<br>boss<br>glass<br>expose
-bip_39_word_new_line_1: make
-bip_39_word_new_line_10: 'make
-
-  draft
-
-  vapor
-
-  poet
-
-  cool
-
-  side
-
-  boss
-
-  glass
-
-  expose
-
-  fence'
-bip_39_word_new_line_11: 'make
-
-  draft
-
-  vapor
-
-  poet
-
-  cool
-
-  side
-
-  boss
-
-  glass
-
-  expose
-
-  fence
-
-  purpose'
 bip_39_word_new_line_12: 'make
 
   draft
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'make
   draft
 
   vapor'
-bip_39_word_new_line_4: 'make
-
-  draft
-
-  vapor
-
-  poet'
-bip_39_word_new_line_5: 'make
-
-  draft
-
-  vapor
-
-  poet
-
-  cool'
-bip_39_word_new_line_6: 'make
-
-  draft
-
-  vapor
-
-  poet
-
-  cool
-
-  side'
-bip_39_word_new_line_7: 'make
-
-  draft
-
-  vapor
-
-  poet
-
-  cool
-
-  side
-
-  boss'
-bip_39_word_new_line_8: 'make
-
-  draft
-
-  vapor
-
-  poet
-
-  cool
-
-  side
-
-  boss
-
-  glass'
-bip_39_word_new_line_9: 'make
-
-  draft
-
-  vapor
-
-  poet
-
-  cool
-
-  side
-
-  boss
-
-  glass
-
-  expose'
-bip_39_word_no_space_1: make
-bip_39_word_no_space_10: makedraftvaporpoetcoolsidebossglassexposefence
-bip_39_word_no_space_11: makedraftvaporpoetcoolsidebossglassexposefencepurpose
 bip_39_word_no_space_12: makedraftvaporpoetcoolsidebossglassexposefencepurposeairport
 bip_39_word_no_space_2: makedraft
 bip_39_word_no_space_3: makedraftvapor
-bip_39_word_no_space_4: makedraftvaporpoet
-bip_39_word_no_space_5: makedraftvaporpoetcool
-bip_39_word_no_space_6: makedraftvaporpoetcoolside
-bip_39_word_no_space_7: makedraftvaporpoetcoolsideboss
-bip_39_word_no_space_8: makedraftvaporpoetcoolsidebossglass
-bip_39_word_no_space_9: makedraftvaporpoetcoolsidebossglassexpose
-bip_39_word_space_0:
-- make
-- draft
-- vapor
-- poet
-- cool
-- side
-- boss
-- glass
-- expose
-- fence
-- purpose
-- airport
-bip_39_word_space_1: make
-bip_39_word_space_10: make draft vapor poet cool side boss glass expose fence
-bip_39_word_space_11: make draft vapor poet cool side boss glass expose fence purpose
 bip_39_word_space_12: make draft vapor poet cool side boss glass expose fence purpose
   airport
 bip_39_word_space_2: make draft
 bip_39_word_space_3: make draft vapor
-bip_39_word_space_4: make draft vapor poet
-bip_39_word_space_5: make draft vapor poet cool
-bip_39_word_space_6: make draft vapor poet cool side
-bip_39_word_space_7: make draft vapor poet cool side boss
-bip_39_word_space_8: make draft vapor poet cool side boss glass
-bip_39_word_space_9: make draft vapor poet cool side boss glass expose
-bip_39_word_underscore_1: make
-bip_39_word_underscore_10: make_draft_vapor_poet_cool_side_boss_glass_expose_fence
-bip_39_word_underscore_11: make_draft_vapor_poet_cool_side_boss_glass_expose_fence_purpose
 bip_39_word_underscore_12: make_draft_vapor_poet_cool_side_boss_glass_expose_fence_purpose_airport
 bip_39_word_underscore_2: make_draft
 bip_39_word_underscore_3: make_draft_vapor
-bip_39_word_underscore_4: make_draft_vapor_poet
-bip_39_word_underscore_5: make_draft_vapor_poet_cool
-bip_39_word_underscore_6: make_draft_vapor_poet_cool_side
-bip_39_word_underscore_7: make_draft_vapor_poet_cool_side_boss
-bip_39_word_underscore_8: make_draft_vapor_poet_cool_side_boss_glass
-bip_39_word_underscore_9: make_draft_vapor_poet_cool_side_boss_glass_expose
 classification: category
 classification_capital: Category
 classification_first_letter: c

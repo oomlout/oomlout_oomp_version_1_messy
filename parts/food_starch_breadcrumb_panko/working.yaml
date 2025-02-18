@@ -1,68 +1,9 @@
-bip_39_word_dash_1: garage
-bip_39_word_dash_10: garage-ecology-battle-industry-parrot-coconut-sing-wave-left-eye
-bip_39_word_dash_11: garage-ecology-battle-industry-parrot-coconut-sing-wave-left-eye-tooth
 bip_39_word_dash_12: garage-ecology-battle-industry-parrot-coconut-sing-wave-left-eye-tooth-allow
 bip_39_word_dash_2: garage-ecology
 bip_39_word_dash_3: garage-ecology-battle
-bip_39_word_dash_4: garage-ecology-battle-industry
-bip_39_word_dash_5: garage-ecology-battle-industry-parrot
-bip_39_word_dash_6: garage-ecology-battle-industry-parrot-coconut
-bip_39_word_dash_7: garage-ecology-battle-industry-parrot-coconut-sing
-bip_39_word_dash_8: garage-ecology-battle-industry-parrot-coconut-sing-wave
-bip_39_word_dash_9: garage-ecology-battle-industry-parrot-coconut-sing-wave-left
-bip_39_word_new_br_1: garage
-bip_39_word_new_br_10: garage<br>ecology<br>battle<br>industry<br>parrot<br>coconut<br>sing<br>wave<br>left<br>eye
-bip_39_word_new_br_11: garage<br>ecology<br>battle<br>industry<br>parrot<br>coconut<br>sing<br>wave<br>left<br>eye<br>tooth
 bip_39_word_new_br_12: garage<br>ecology<br>battle<br>industry<br>parrot<br>coconut<br>sing<br>wave<br>left<br>eye<br>tooth<br>allow
 bip_39_word_new_br_2: garage<br>ecology
 bip_39_word_new_br_3: garage<br>ecology<br>battle
-bip_39_word_new_br_4: garage<br>ecology<br>battle<br>industry
-bip_39_word_new_br_5: garage<br>ecology<br>battle<br>industry<br>parrot
-bip_39_word_new_br_6: garage<br>ecology<br>battle<br>industry<br>parrot<br>coconut
-bip_39_word_new_br_7: garage<br>ecology<br>battle<br>industry<br>parrot<br>coconut<br>sing
-bip_39_word_new_br_8: garage<br>ecology<br>battle<br>industry<br>parrot<br>coconut<br>sing<br>wave
-bip_39_word_new_br_9: garage<br>ecology<br>battle<br>industry<br>parrot<br>coconut<br>sing<br>wave<br>left
-bip_39_word_new_line_1: garage
-bip_39_word_new_line_10: 'garage
-
-  ecology
-
-  battle
-
-  industry
-
-  parrot
-
-  coconut
-
-  sing
-
-  wave
-
-  left
-
-  eye'
-bip_39_word_new_line_11: 'garage
-
-  ecology
-
-  battle
-
-  industry
-
-  parrot
-
-  coconut
-
-  sing
-
-  wave
-
-  left
-
-  eye
-
-  tooth'
 bip_39_word_new_line_12: 'garage
 
   ecology
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'garage
   ecology
 
   battle'
-bip_39_word_new_line_4: 'garage
-
-  ecology
-
-  battle
-
-  industry'
-bip_39_word_new_line_5: 'garage
-
-  ecology
-
-  battle
-
-  industry
-
-  parrot'
-bip_39_word_new_line_6: 'garage
-
-  ecology
-
-  battle
-
-  industry
-
-  parrot
-
-  coconut'
-bip_39_word_new_line_7: 'garage
-
-  ecology
-
-  battle
-
-  industry
-
-  parrot
-
-  coconut
-
-  sing'
-bip_39_word_new_line_8: 'garage
-
-  ecology
-
-  battle
-
-  industry
-
-  parrot
-
-  coconut
-
-  sing
-
-  wave'
-bip_39_word_new_line_9: 'garage
-
-  ecology
-
-  battle
-
-  industry
-
-  parrot
-
-  coconut
-
-  sing
-
-  wave
-
-  left'
-bip_39_word_no_space_1: garage
-bip_39_word_no_space_10: garageecologybattleindustryparrotcoconutsingwavelefteye
-bip_39_word_no_space_11: garageecologybattleindustryparrotcoconutsingwavelefteyetooth
 bip_39_word_no_space_12: garageecologybattleindustryparrotcoconutsingwavelefteyetoothallow
 bip_39_word_no_space_2: garageecology
 bip_39_word_no_space_3: garageecologybattle
-bip_39_word_no_space_4: garageecologybattleindustry
-bip_39_word_no_space_5: garageecologybattleindustryparrot
-bip_39_word_no_space_6: garageecologybattleindustryparrotcoconut
-bip_39_word_no_space_7: garageecologybattleindustryparrotcoconutsing
-bip_39_word_no_space_8: garageecologybattleindustryparrotcoconutsingwave
-bip_39_word_no_space_9: garageecologybattleindustryparrotcoconutsingwaveleft
-bip_39_word_space_0:
-- garage
-- ecology
-- battle
-- industry
-- parrot
-- coconut
-- sing
-- wave
-- left
-- eye
-- tooth
-- allow
-bip_39_word_space_1: garage
-bip_39_word_space_10: garage ecology battle industry parrot coconut sing wave left
-  eye
-bip_39_word_space_11: garage ecology battle industry parrot coconut sing wave left
-  eye tooth
 bip_39_word_space_12: garage ecology battle industry parrot coconut sing wave left
   eye tooth allow
 bip_39_word_space_2: garage ecology
 bip_39_word_space_3: garage ecology battle
-bip_39_word_space_4: garage ecology battle industry
-bip_39_word_space_5: garage ecology battle industry parrot
-bip_39_word_space_6: garage ecology battle industry parrot coconut
-bip_39_word_space_7: garage ecology battle industry parrot coconut sing
-bip_39_word_space_8: garage ecology battle industry parrot coconut sing wave
-bip_39_word_space_9: garage ecology battle industry parrot coconut sing wave left
-bip_39_word_underscore_1: garage
-bip_39_word_underscore_10: garage_ecology_battle_industry_parrot_coconut_sing_wave_left_eye
-bip_39_word_underscore_11: garage_ecology_battle_industry_parrot_coconut_sing_wave_left_eye_tooth
 bip_39_word_underscore_12: garage_ecology_battle_industry_parrot_coconut_sing_wave_left_eye_tooth_allow
 bip_39_word_underscore_2: garage_ecology
 bip_39_word_underscore_3: garage_ecology_battle
-bip_39_word_underscore_4: garage_ecology_battle_industry
-bip_39_word_underscore_5: garage_ecology_battle_industry_parrot
-bip_39_word_underscore_6: garage_ecology_battle_industry_parrot_coconut
-bip_39_word_underscore_7: garage_ecology_battle_industry_parrot_coconut_sing
-bip_39_word_underscore_8: garage_ecology_battle_industry_parrot_coconut_sing_wave
-bip_39_word_underscore_9: garage_ecology_battle_industry_parrot_coconut_sing_wave_left
 classification: food
 classification_capital: Food
 classification_first_letter: f

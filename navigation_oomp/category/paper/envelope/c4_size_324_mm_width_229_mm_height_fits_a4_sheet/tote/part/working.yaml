@@ -1,68 +1,9 @@
-bip_39_word_dash_1: model
-bip_39_word_dash_10: model-very-chase-team-tooth-material-cake-blossom-inflict-hedgehog
-bip_39_word_dash_11: model-very-chase-team-tooth-material-cake-blossom-inflict-hedgehog-squirrel
 bip_39_word_dash_12: model-very-chase-team-tooth-material-cake-blossom-inflict-hedgehog-squirrel-audit
 bip_39_word_dash_2: model-very
 bip_39_word_dash_3: model-very-chase
-bip_39_word_dash_4: model-very-chase-team
-bip_39_word_dash_5: model-very-chase-team-tooth
-bip_39_word_dash_6: model-very-chase-team-tooth-material
-bip_39_word_dash_7: model-very-chase-team-tooth-material-cake
-bip_39_word_dash_8: model-very-chase-team-tooth-material-cake-blossom
-bip_39_word_dash_9: model-very-chase-team-tooth-material-cake-blossom-inflict
-bip_39_word_new_br_1: model
-bip_39_word_new_br_10: model<br>very<br>chase<br>team<br>tooth<br>material<br>cake<br>blossom<br>inflict<br>hedgehog
-bip_39_word_new_br_11: model<br>very<br>chase<br>team<br>tooth<br>material<br>cake<br>blossom<br>inflict<br>hedgehog<br>squirrel
 bip_39_word_new_br_12: model<br>very<br>chase<br>team<br>tooth<br>material<br>cake<br>blossom<br>inflict<br>hedgehog<br>squirrel<br>audit
 bip_39_word_new_br_2: model<br>very
 bip_39_word_new_br_3: model<br>very<br>chase
-bip_39_word_new_br_4: model<br>very<br>chase<br>team
-bip_39_word_new_br_5: model<br>very<br>chase<br>team<br>tooth
-bip_39_word_new_br_6: model<br>very<br>chase<br>team<br>tooth<br>material
-bip_39_word_new_br_7: model<br>very<br>chase<br>team<br>tooth<br>material<br>cake
-bip_39_word_new_br_8: model<br>very<br>chase<br>team<br>tooth<br>material<br>cake<br>blossom
-bip_39_word_new_br_9: model<br>very<br>chase<br>team<br>tooth<br>material<br>cake<br>blossom<br>inflict
-bip_39_word_new_line_1: model
-bip_39_word_new_line_10: 'model
-
-  very
-
-  chase
-
-  team
-
-  tooth
-
-  material
-
-  cake
-
-  blossom
-
-  inflict
-
-  hedgehog'
-bip_39_word_new_line_11: 'model
-
-  very
-
-  chase
-
-  team
-
-  tooth
-
-  material
-
-  cake
-
-  blossom
-
-  inflict
-
-  hedgehog
-
-  squirrel'
 bip_39_word_new_line_12: 'model
 
   very
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'model
   very
 
   chase'
-bip_39_word_new_line_4: 'model
-
-  very
-
-  chase
-
-  team'
-bip_39_word_new_line_5: 'model
-
-  very
-
-  chase
-
-  team
-
-  tooth'
-bip_39_word_new_line_6: 'model
-
-  very
-
-  chase
-
-  team
-
-  tooth
-
-  material'
-bip_39_word_new_line_7: 'model
-
-  very
-
-  chase
-
-  team
-
-  tooth
-
-  material
-
-  cake'
-bip_39_word_new_line_8: 'model
-
-  very
-
-  chase
-
-  team
-
-  tooth
-
-  material
-
-  cake
-
-  blossom'
-bip_39_word_new_line_9: 'model
-
-  very
-
-  chase
-
-  team
-
-  tooth
-
-  material
-
-  cake
-
-  blossom
-
-  inflict'
-bip_39_word_no_space_1: model
-bip_39_word_no_space_10: modelverychaseteamtoothmaterialcakeblossominflicthedgehog
-bip_39_word_no_space_11: modelverychaseteamtoothmaterialcakeblossominflicthedgehogsquirrel
 bip_39_word_no_space_12: modelverychaseteamtoothmaterialcakeblossominflicthedgehogsquirrelaudit
 bip_39_word_no_space_2: modelvery
 bip_39_word_no_space_3: modelverychase
-bip_39_word_no_space_4: modelverychaseteam
-bip_39_word_no_space_5: modelverychaseteamtooth
-bip_39_word_no_space_6: modelverychaseteamtoothmaterial
-bip_39_word_no_space_7: modelverychaseteamtoothmaterialcake
-bip_39_word_no_space_8: modelverychaseteamtoothmaterialcakeblossom
-bip_39_word_no_space_9: modelverychaseteamtoothmaterialcakeblossominflict
-bip_39_word_space_0:
-- model
-- very
-- chase
-- team
-- tooth
-- material
-- cake
-- blossom
-- inflict
-- hedgehog
-- squirrel
-- audit
-bip_39_word_space_1: model
-bip_39_word_space_10: model very chase team tooth material cake blossom inflict hedgehog
-bip_39_word_space_11: model very chase team tooth material cake blossom inflict hedgehog
-  squirrel
 bip_39_word_space_12: model very chase team tooth material cake blossom inflict hedgehog
   squirrel audit
 bip_39_word_space_2: model very
 bip_39_word_space_3: model very chase
-bip_39_word_space_4: model very chase team
-bip_39_word_space_5: model very chase team tooth
-bip_39_word_space_6: model very chase team tooth material
-bip_39_word_space_7: model very chase team tooth material cake
-bip_39_word_space_8: model very chase team tooth material cake blossom
-bip_39_word_space_9: model very chase team tooth material cake blossom inflict
-bip_39_word_underscore_1: model
-bip_39_word_underscore_10: model_very_chase_team_tooth_material_cake_blossom_inflict_hedgehog
-bip_39_word_underscore_11: model_very_chase_team_tooth_material_cake_blossom_inflict_hedgehog_squirrel
 bip_39_word_underscore_12: model_very_chase_team_tooth_material_cake_blossom_inflict_hedgehog_squirrel_audit
 bip_39_word_underscore_2: model_very
 bip_39_word_underscore_3: model_very_chase
-bip_39_word_underscore_4: model_very_chase_team
-bip_39_word_underscore_5: model_very_chase_team_tooth
-bip_39_word_underscore_6: model_very_chase_team_tooth_material
-bip_39_word_underscore_7: model_very_chase_team_tooth_material_cake
-bip_39_word_underscore_8: model_very_chase_team_tooth_material_cake_blossom
-bip_39_word_underscore_9: model_very_chase_team_tooth_material_cake_blossom_inflict
 classification: category
 classification_capital: Category
 classification_first_letter: c

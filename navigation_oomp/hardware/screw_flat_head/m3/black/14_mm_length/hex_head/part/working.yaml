@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sea
-bip_39_word_dash_10: sea-win-jaguar-coyote-diary-desert-roof-pluck-cruel-sunset
-bip_39_word_dash_11: sea-win-jaguar-coyote-diary-desert-roof-pluck-cruel-sunset-hunt
 bip_39_word_dash_12: sea-win-jaguar-coyote-diary-desert-roof-pluck-cruel-sunset-hunt-addict
 bip_39_word_dash_2: sea-win
 bip_39_word_dash_3: sea-win-jaguar
-bip_39_word_dash_4: sea-win-jaguar-coyote
-bip_39_word_dash_5: sea-win-jaguar-coyote-diary
-bip_39_word_dash_6: sea-win-jaguar-coyote-diary-desert
-bip_39_word_dash_7: sea-win-jaguar-coyote-diary-desert-roof
-bip_39_word_dash_8: sea-win-jaguar-coyote-diary-desert-roof-pluck
-bip_39_word_dash_9: sea-win-jaguar-coyote-diary-desert-roof-pluck-cruel
-bip_39_word_new_br_1: sea
-bip_39_word_new_br_10: sea<br>win<br>jaguar<br>coyote<br>diary<br>desert<br>roof<br>pluck<br>cruel<br>sunset
-bip_39_word_new_br_11: sea<br>win<br>jaguar<br>coyote<br>diary<br>desert<br>roof<br>pluck<br>cruel<br>sunset<br>hunt
 bip_39_word_new_br_12: sea<br>win<br>jaguar<br>coyote<br>diary<br>desert<br>roof<br>pluck<br>cruel<br>sunset<br>hunt<br>addict
 bip_39_word_new_br_2: sea<br>win
 bip_39_word_new_br_3: sea<br>win<br>jaguar
-bip_39_word_new_br_4: sea<br>win<br>jaguar<br>coyote
-bip_39_word_new_br_5: sea<br>win<br>jaguar<br>coyote<br>diary
-bip_39_word_new_br_6: sea<br>win<br>jaguar<br>coyote<br>diary<br>desert
-bip_39_word_new_br_7: sea<br>win<br>jaguar<br>coyote<br>diary<br>desert<br>roof
-bip_39_word_new_br_8: sea<br>win<br>jaguar<br>coyote<br>diary<br>desert<br>roof<br>pluck
-bip_39_word_new_br_9: sea<br>win<br>jaguar<br>coyote<br>diary<br>desert<br>roof<br>pluck<br>cruel
-bip_39_word_new_line_1: sea
-bip_39_word_new_line_10: 'sea
-
-  win
-
-  jaguar
-
-  coyote
-
-  diary
-
-  desert
-
-  roof
-
-  pluck
-
-  cruel
-
-  sunset'
-bip_39_word_new_line_11: 'sea
-
-  win
-
-  jaguar
-
-  coyote
-
-  diary
-
-  desert
-
-  roof
-
-  pluck
-
-  cruel
-
-  sunset
-
-  hunt'
 bip_39_word_new_line_12: 'sea
 
   win
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'sea
   win
 
   jaguar'
-bip_39_word_new_line_4: 'sea
-
-  win
-
-  jaguar
-
-  coyote'
-bip_39_word_new_line_5: 'sea
-
-  win
-
-  jaguar
-
-  coyote
-
-  diary'
-bip_39_word_new_line_6: 'sea
-
-  win
-
-  jaguar
-
-  coyote
-
-  diary
-
-  desert'
-bip_39_word_new_line_7: 'sea
-
-  win
-
-  jaguar
-
-  coyote
-
-  diary
-
-  desert
-
-  roof'
-bip_39_word_new_line_8: 'sea
-
-  win
-
-  jaguar
-
-  coyote
-
-  diary
-
-  desert
-
-  roof
-
-  pluck'
-bip_39_word_new_line_9: 'sea
-
-  win
-
-  jaguar
-
-  coyote
-
-  diary
-
-  desert
-
-  roof
-
-  pluck
-
-  cruel'
-bip_39_word_no_space_1: sea
-bip_39_word_no_space_10: seawinjaguarcoyotediarydesertroofpluckcruelsunset
-bip_39_word_no_space_11: seawinjaguarcoyotediarydesertroofpluckcruelsunsethunt
 bip_39_word_no_space_12: seawinjaguarcoyotediarydesertroofpluckcruelsunsethuntaddict
 bip_39_word_no_space_2: seawin
 bip_39_word_no_space_3: seawinjaguar
-bip_39_word_no_space_4: seawinjaguarcoyote
-bip_39_word_no_space_5: seawinjaguarcoyotediary
-bip_39_word_no_space_6: seawinjaguarcoyotediarydesert
-bip_39_word_no_space_7: seawinjaguarcoyotediarydesertroof
-bip_39_word_no_space_8: seawinjaguarcoyotediarydesertroofpluck
-bip_39_word_no_space_9: seawinjaguarcoyotediarydesertroofpluckcruel
-bip_39_word_space_0:
-- sea
-- win
-- jaguar
-- coyote
-- diary
-- desert
-- roof
-- pluck
-- cruel
-- sunset
-- hunt
-- addict
-bip_39_word_space_1: sea
-bip_39_word_space_10: sea win jaguar coyote diary desert roof pluck cruel sunset
-bip_39_word_space_11: sea win jaguar coyote diary desert roof pluck cruel sunset hunt
 bip_39_word_space_12: sea win jaguar coyote diary desert roof pluck cruel sunset hunt
   addict
 bip_39_word_space_2: sea win
 bip_39_word_space_3: sea win jaguar
-bip_39_word_space_4: sea win jaguar coyote
-bip_39_word_space_5: sea win jaguar coyote diary
-bip_39_word_space_6: sea win jaguar coyote diary desert
-bip_39_word_space_7: sea win jaguar coyote diary desert roof
-bip_39_word_space_8: sea win jaguar coyote diary desert roof pluck
-bip_39_word_space_9: sea win jaguar coyote diary desert roof pluck cruel
-bip_39_word_underscore_1: sea
-bip_39_word_underscore_10: sea_win_jaguar_coyote_diary_desert_roof_pluck_cruel_sunset
-bip_39_word_underscore_11: sea_win_jaguar_coyote_diary_desert_roof_pluck_cruel_sunset_hunt
 bip_39_word_underscore_12: sea_win_jaguar_coyote_diary_desert_roof_pluck_cruel_sunset_hunt_addict
 bip_39_word_underscore_2: sea_win
 bip_39_word_underscore_3: sea_win_jaguar
-bip_39_word_underscore_4: sea_win_jaguar_coyote
-bip_39_word_underscore_5: sea_win_jaguar_coyote_diary
-bip_39_word_underscore_6: sea_win_jaguar_coyote_diary_desert
-bip_39_word_underscore_7: sea_win_jaguar_coyote_diary_desert_roof
-bip_39_word_underscore_8: sea_win_jaguar_coyote_diary_desert_roof_pluck
-bip_39_word_underscore_9: sea_win_jaguar_coyote_diary_desert_roof_pluck_cruel
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

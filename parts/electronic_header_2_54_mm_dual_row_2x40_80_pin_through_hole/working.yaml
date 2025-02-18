@@ -1,68 +1,9 @@
-bip_39_word_dash_1: book
-bip_39_word_dash_10: book-lunch-library-trip-cheese-curtain-also-report-alpha-liquid
-bip_39_word_dash_11: book-lunch-library-trip-cheese-curtain-also-report-alpha-liquid-tool
 bip_39_word_dash_12: book-lunch-library-trip-cheese-curtain-also-report-alpha-liquid-tool-auction
 bip_39_word_dash_2: book-lunch
 bip_39_word_dash_3: book-lunch-library
-bip_39_word_dash_4: book-lunch-library-trip
-bip_39_word_dash_5: book-lunch-library-trip-cheese
-bip_39_word_dash_6: book-lunch-library-trip-cheese-curtain
-bip_39_word_dash_7: book-lunch-library-trip-cheese-curtain-also
-bip_39_word_dash_8: book-lunch-library-trip-cheese-curtain-also-report
-bip_39_word_dash_9: book-lunch-library-trip-cheese-curtain-also-report-alpha
-bip_39_word_new_br_1: book
-bip_39_word_new_br_10: book<br>lunch<br>library<br>trip<br>cheese<br>curtain<br>also<br>report<br>alpha<br>liquid
-bip_39_word_new_br_11: book<br>lunch<br>library<br>trip<br>cheese<br>curtain<br>also<br>report<br>alpha<br>liquid<br>tool
 bip_39_word_new_br_12: book<br>lunch<br>library<br>trip<br>cheese<br>curtain<br>also<br>report<br>alpha<br>liquid<br>tool<br>auction
 bip_39_word_new_br_2: book<br>lunch
 bip_39_word_new_br_3: book<br>lunch<br>library
-bip_39_word_new_br_4: book<br>lunch<br>library<br>trip
-bip_39_word_new_br_5: book<br>lunch<br>library<br>trip<br>cheese
-bip_39_word_new_br_6: book<br>lunch<br>library<br>trip<br>cheese<br>curtain
-bip_39_word_new_br_7: book<br>lunch<br>library<br>trip<br>cheese<br>curtain<br>also
-bip_39_word_new_br_8: book<br>lunch<br>library<br>trip<br>cheese<br>curtain<br>also<br>report
-bip_39_word_new_br_9: book<br>lunch<br>library<br>trip<br>cheese<br>curtain<br>also<br>report<br>alpha
-bip_39_word_new_line_1: book
-bip_39_word_new_line_10: 'book
-
-  lunch
-
-  library
-
-  trip
-
-  cheese
-
-  curtain
-
-  also
-
-  report
-
-  alpha
-
-  liquid'
-bip_39_word_new_line_11: 'book
-
-  lunch
-
-  library
-
-  trip
-
-  cheese
-
-  curtain
-
-  also
-
-  report
-
-  alpha
-
-  liquid
-
-  tool'
 bip_39_word_new_line_12: 'book
 
   lunch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'book
   lunch
 
   library'
-bip_39_word_new_line_4: 'book
-
-  lunch
-
-  library
-
-  trip'
-bip_39_word_new_line_5: 'book
-
-  lunch
-
-  library
-
-  trip
-
-  cheese'
-bip_39_word_new_line_6: 'book
-
-  lunch
-
-  library
-
-  trip
-
-  cheese
-
-  curtain'
-bip_39_word_new_line_7: 'book
-
-  lunch
-
-  library
-
-  trip
-
-  cheese
-
-  curtain
-
-  also'
-bip_39_word_new_line_8: 'book
-
-  lunch
-
-  library
-
-  trip
-
-  cheese
-
-  curtain
-
-  also
-
-  report'
-bip_39_word_new_line_9: 'book
-
-  lunch
-
-  library
-
-  trip
-
-  cheese
-
-  curtain
-
-  also
-
-  report
-
-  alpha'
-bip_39_word_no_space_1: book
-bip_39_word_no_space_10: booklunchlibrarytripcheesecurtainalsoreportalphaliquid
-bip_39_word_no_space_11: booklunchlibrarytripcheesecurtainalsoreportalphaliquidtool
 bip_39_word_no_space_12: booklunchlibrarytripcheesecurtainalsoreportalphaliquidtoolauction
 bip_39_word_no_space_2: booklunch
 bip_39_word_no_space_3: booklunchlibrary
-bip_39_word_no_space_4: booklunchlibrarytrip
-bip_39_word_no_space_5: booklunchlibrarytripcheese
-bip_39_word_no_space_6: booklunchlibrarytripcheesecurtain
-bip_39_word_no_space_7: booklunchlibrarytripcheesecurtainalso
-bip_39_word_no_space_8: booklunchlibrarytripcheesecurtainalsoreport
-bip_39_word_no_space_9: booklunchlibrarytripcheesecurtainalsoreportalpha
-bip_39_word_space_0:
-- book
-- lunch
-- library
-- trip
-- cheese
-- curtain
-- also
-- report
-- alpha
-- liquid
-- tool
-- auction
-bip_39_word_space_1: book
-bip_39_word_space_10: book lunch library trip cheese curtain also report alpha liquid
-bip_39_word_space_11: book lunch library trip cheese curtain also report alpha liquid
-  tool
 bip_39_word_space_12: book lunch library trip cheese curtain also report alpha liquid
   tool auction
 bip_39_word_space_2: book lunch
 bip_39_word_space_3: book lunch library
-bip_39_word_space_4: book lunch library trip
-bip_39_word_space_5: book lunch library trip cheese
-bip_39_word_space_6: book lunch library trip cheese curtain
-bip_39_word_space_7: book lunch library trip cheese curtain also
-bip_39_word_space_8: book lunch library trip cheese curtain also report
-bip_39_word_space_9: book lunch library trip cheese curtain also report alpha
-bip_39_word_underscore_1: book
-bip_39_word_underscore_10: book_lunch_library_trip_cheese_curtain_also_report_alpha_liquid
-bip_39_word_underscore_11: book_lunch_library_trip_cheese_curtain_also_report_alpha_liquid_tool
 bip_39_word_underscore_12: book_lunch_library_trip_cheese_curtain_also_report_alpha_liquid_tool_auction
 bip_39_word_underscore_2: book_lunch
 bip_39_word_underscore_3: book_lunch_library
-bip_39_word_underscore_4: book_lunch_library_trip
-bip_39_word_underscore_5: book_lunch_library_trip_cheese
-bip_39_word_underscore_6: book_lunch_library_trip_cheese_curtain
-bip_39_word_underscore_7: book_lunch_library_trip_cheese_curtain_also
-bip_39_word_underscore_8: book_lunch_library_trip_cheese_curtain_also_report
-bip_39_word_underscore_9: book_lunch_library_trip_cheese_curtain_also_report_alpha
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

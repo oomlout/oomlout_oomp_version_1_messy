@@ -1,68 +1,9 @@
-bip_39_word_dash_1: person
-bip_39_word_dash_10: person-champion-earn-version-retreat-void-egg-news-derive-trust
-bip_39_word_dash_11: person-champion-earn-version-retreat-void-egg-news-derive-trust-oyster
 bip_39_word_dash_12: person-champion-earn-version-retreat-void-egg-news-derive-trust-oyster-absurd
 bip_39_word_dash_2: person-champion
 bip_39_word_dash_3: person-champion-earn
-bip_39_word_dash_4: person-champion-earn-version
-bip_39_word_dash_5: person-champion-earn-version-retreat
-bip_39_word_dash_6: person-champion-earn-version-retreat-void
-bip_39_word_dash_7: person-champion-earn-version-retreat-void-egg
-bip_39_word_dash_8: person-champion-earn-version-retreat-void-egg-news
-bip_39_word_dash_9: person-champion-earn-version-retreat-void-egg-news-derive
-bip_39_word_new_br_1: person
-bip_39_word_new_br_10: person<br>champion<br>earn<br>version<br>retreat<br>void<br>egg<br>news<br>derive<br>trust
-bip_39_word_new_br_11: person<br>champion<br>earn<br>version<br>retreat<br>void<br>egg<br>news<br>derive<br>trust<br>oyster
 bip_39_word_new_br_12: person<br>champion<br>earn<br>version<br>retreat<br>void<br>egg<br>news<br>derive<br>trust<br>oyster<br>absurd
 bip_39_word_new_br_2: person<br>champion
 bip_39_word_new_br_3: person<br>champion<br>earn
-bip_39_word_new_br_4: person<br>champion<br>earn<br>version
-bip_39_word_new_br_5: person<br>champion<br>earn<br>version<br>retreat
-bip_39_word_new_br_6: person<br>champion<br>earn<br>version<br>retreat<br>void
-bip_39_word_new_br_7: person<br>champion<br>earn<br>version<br>retreat<br>void<br>egg
-bip_39_word_new_br_8: person<br>champion<br>earn<br>version<br>retreat<br>void<br>egg<br>news
-bip_39_word_new_br_9: person<br>champion<br>earn<br>version<br>retreat<br>void<br>egg<br>news<br>derive
-bip_39_word_new_line_1: person
-bip_39_word_new_line_10: 'person
-
-  champion
-
-  earn
-
-  version
-
-  retreat
-
-  void
-
-  egg
-
-  news
-
-  derive
-
-  trust'
-bip_39_word_new_line_11: 'person
-
-  champion
-
-  earn
-
-  version
-
-  retreat
-
-  void
-
-  egg
-
-  news
-
-  derive
-
-  trust
-
-  oyster'
 bip_39_word_new_line_12: 'person
 
   champion
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'person
   champion
 
   earn'
-bip_39_word_new_line_4: 'person
-
-  champion
-
-  earn
-
-  version'
-bip_39_word_new_line_5: 'person
-
-  champion
-
-  earn
-
-  version
-
-  retreat'
-bip_39_word_new_line_6: 'person
-
-  champion
-
-  earn
-
-  version
-
-  retreat
-
-  void'
-bip_39_word_new_line_7: 'person
-
-  champion
-
-  earn
-
-  version
-
-  retreat
-
-  void
-
-  egg'
-bip_39_word_new_line_8: 'person
-
-  champion
-
-  earn
-
-  version
-
-  retreat
-
-  void
-
-  egg
-
-  news'
-bip_39_word_new_line_9: 'person
-
-  champion
-
-  earn
-
-  version
-
-  retreat
-
-  void
-
-  egg
-
-  news
-
-  derive'
-bip_39_word_no_space_1: person
-bip_39_word_no_space_10: personchampionearnversionretreatvoideggnewsderivetrust
-bip_39_word_no_space_11: personchampionearnversionretreatvoideggnewsderivetrustoyster
 bip_39_word_no_space_12: personchampionearnversionretreatvoideggnewsderivetrustoysterabsurd
 bip_39_word_no_space_2: personchampion
 bip_39_word_no_space_3: personchampionearn
-bip_39_word_no_space_4: personchampionearnversion
-bip_39_word_no_space_5: personchampionearnversionretreat
-bip_39_word_no_space_6: personchampionearnversionretreatvoid
-bip_39_word_no_space_7: personchampionearnversionretreatvoidegg
-bip_39_word_no_space_8: personchampionearnversionretreatvoideggnews
-bip_39_word_no_space_9: personchampionearnversionretreatvoideggnewsderive
-bip_39_word_space_0:
-- person
-- champion
-- earn
-- version
-- retreat
-- void
-- egg
-- news
-- derive
-- trust
-- oyster
-- absurd
-bip_39_word_space_1: person
-bip_39_word_space_10: person champion earn version retreat void egg news derive trust
-bip_39_word_space_11: person champion earn version retreat void egg news derive trust
-  oyster
 bip_39_word_space_12: person champion earn version retreat void egg news derive trust
   oyster absurd
 bip_39_word_space_2: person champion
 bip_39_word_space_3: person champion earn
-bip_39_word_space_4: person champion earn version
-bip_39_word_space_5: person champion earn version retreat
-bip_39_word_space_6: person champion earn version retreat void
-bip_39_word_space_7: person champion earn version retreat void egg
-bip_39_word_space_8: person champion earn version retreat void egg news
-bip_39_word_space_9: person champion earn version retreat void egg news derive
-bip_39_word_underscore_1: person
-bip_39_word_underscore_10: person_champion_earn_version_retreat_void_egg_news_derive_trust
-bip_39_word_underscore_11: person_champion_earn_version_retreat_void_egg_news_derive_trust_oyster
 bip_39_word_underscore_12: person_champion_earn_version_retreat_void_egg_news_derive_trust_oyster_absurd
 bip_39_word_underscore_2: person_champion
 bip_39_word_underscore_3: person_champion_earn
-bip_39_word_underscore_4: person_champion_earn_version
-bip_39_word_underscore_5: person_champion_earn_version_retreat
-bip_39_word_underscore_6: person_champion_earn_version_retreat_void
-bip_39_word_underscore_7: person_champion_earn_version_retreat_void_egg
-bip_39_word_underscore_8: person_champion_earn_version_retreat_void_egg_news
-bip_39_word_underscore_9: person_champion_earn_version_retreat_void_egg_news_derive
 classification: category
 classification_capital: Category
 classification_first_letter: c

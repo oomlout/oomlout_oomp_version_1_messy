@@ -1,68 +1,9 @@
-bip_39_word_dash_1: member
-bip_39_word_dash_10: member-coyote-sudden-acid-oxygen-ancient-coil-artefact-wood-sausage
-bip_39_word_dash_11: member-coyote-sudden-acid-oxygen-ancient-coil-artefact-wood-sausage-uniform
 bip_39_word_dash_12: member-coyote-sudden-acid-oxygen-ancient-coil-artefact-wood-sausage-uniform-alter
 bip_39_word_dash_2: member-coyote
 bip_39_word_dash_3: member-coyote-sudden
-bip_39_word_dash_4: member-coyote-sudden-acid
-bip_39_word_dash_5: member-coyote-sudden-acid-oxygen
-bip_39_word_dash_6: member-coyote-sudden-acid-oxygen-ancient
-bip_39_word_dash_7: member-coyote-sudden-acid-oxygen-ancient-coil
-bip_39_word_dash_8: member-coyote-sudden-acid-oxygen-ancient-coil-artefact
-bip_39_word_dash_9: member-coyote-sudden-acid-oxygen-ancient-coil-artefact-wood
-bip_39_word_new_br_1: member
-bip_39_word_new_br_10: member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact<br>wood<br>sausage
-bip_39_word_new_br_11: member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact<br>wood<br>sausage<br>uniform
 bip_39_word_new_br_12: member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact<br>wood<br>sausage<br>uniform<br>alter
 bip_39_word_new_br_2: member<br>coyote
 bip_39_word_new_br_3: member<br>coyote<br>sudden
-bip_39_word_new_br_4: member<br>coyote<br>sudden<br>acid
-bip_39_word_new_br_5: member<br>coyote<br>sudden<br>acid<br>oxygen
-bip_39_word_new_br_6: member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient
-bip_39_word_new_br_7: member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil
-bip_39_word_new_br_8: member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact
-bip_39_word_new_br_9: member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact<br>wood
-bip_39_word_new_line_1: member
-bip_39_word_new_line_10: 'member
-
-  coyote
-
-  sudden
-
-  acid
-
-  oxygen
-
-  ancient
-
-  coil
-
-  artefact
-
-  wood
-
-  sausage'
-bip_39_word_new_line_11: 'member
-
-  coyote
-
-  sudden
-
-  acid
-
-  oxygen
-
-  ancient
-
-  coil
-
-  artefact
-
-  wood
-
-  sausage
-
-  uniform'
 bip_39_word_new_line_12: 'member
 
   coyote
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'member
   coyote
 
   sudden'
-bip_39_word_new_line_4: 'member
-
-  coyote
-
-  sudden
-
-  acid'
-bip_39_word_new_line_5: 'member
-
-  coyote
-
-  sudden
-
-  acid
-
-  oxygen'
-bip_39_word_new_line_6: 'member
-
-  coyote
-
-  sudden
-
-  acid
-
-  oxygen
-
-  ancient'
-bip_39_word_new_line_7: 'member
-
-  coyote
-
-  sudden
-
-  acid
-
-  oxygen
-
-  ancient
-
-  coil'
-bip_39_word_new_line_8: 'member
-
-  coyote
-
-  sudden
-
-  acid
-
-  oxygen
-
-  ancient
-
-  coil
-
-  artefact'
-bip_39_word_new_line_9: 'member
-
-  coyote
-
-  sudden
-
-  acid
-
-  oxygen
-
-  ancient
-
-  coil
-
-  artefact
-
-  wood'
-bip_39_word_no_space_1: member
-bip_39_word_no_space_10: membercoyotesuddenacidoxygenancientcoilartefactwoodsausage
-bip_39_word_no_space_11: membercoyotesuddenacidoxygenancientcoilartefactwoodsausageuniform
 bip_39_word_no_space_12: membercoyotesuddenacidoxygenancientcoilartefactwoodsausageuniformalter
 bip_39_word_no_space_2: membercoyote
 bip_39_word_no_space_3: membercoyotesudden
-bip_39_word_no_space_4: membercoyotesuddenacid
-bip_39_word_no_space_5: membercoyotesuddenacidoxygen
-bip_39_word_no_space_6: membercoyotesuddenacidoxygenancient
-bip_39_word_no_space_7: membercoyotesuddenacidoxygenancientcoil
-bip_39_word_no_space_8: membercoyotesuddenacidoxygenancientcoilartefact
-bip_39_word_no_space_9: membercoyotesuddenacidoxygenancientcoilartefactwood
-bip_39_word_space_0:
-- member
-- coyote
-- sudden
-- acid
-- oxygen
-- ancient
-- coil
-- artefact
-- wood
-- sausage
-- uniform
-- alter
-bip_39_word_space_1: member
-bip_39_word_space_10: member coyote sudden acid oxygen ancient coil artefact wood
-  sausage
-bip_39_word_space_11: member coyote sudden acid oxygen ancient coil artefact wood
-  sausage uniform
 bip_39_word_space_12: member coyote sudden acid oxygen ancient coil artefact wood
   sausage uniform alter
 bip_39_word_space_2: member coyote
 bip_39_word_space_3: member coyote sudden
-bip_39_word_space_4: member coyote sudden acid
-bip_39_word_space_5: member coyote sudden acid oxygen
-bip_39_word_space_6: member coyote sudden acid oxygen ancient
-bip_39_word_space_7: member coyote sudden acid oxygen ancient coil
-bip_39_word_space_8: member coyote sudden acid oxygen ancient coil artefact
-bip_39_word_space_9: member coyote sudden acid oxygen ancient coil artefact wood
-bip_39_word_underscore_1: member
-bip_39_word_underscore_10: member_coyote_sudden_acid_oxygen_ancient_coil_artefact_wood_sausage
-bip_39_word_underscore_11: member_coyote_sudden_acid_oxygen_ancient_coil_artefact_wood_sausage_uniform
 bip_39_word_underscore_12: member_coyote_sudden_acid_oxygen_ancient_coil_artefact_wood_sausage_uniform_alter
 bip_39_word_underscore_2: member_coyote
 bip_39_word_underscore_3: member_coyote_sudden
-bip_39_word_underscore_4: member_coyote_sudden_acid
-bip_39_word_underscore_5: member_coyote_sudden_acid_oxygen
-bip_39_word_underscore_6: member_coyote_sudden_acid_oxygen_ancient
-bip_39_word_underscore_7: member_coyote_sudden_acid_oxygen_ancient_coil
-bip_39_word_underscore_8: member_coyote_sudden_acid_oxygen_ancient_coil_artefact
-bip_39_word_underscore_9: member_coyote_sudden_acid_oxygen_ancient_coil_artefact_wood
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

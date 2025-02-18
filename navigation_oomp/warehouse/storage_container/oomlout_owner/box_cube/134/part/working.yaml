@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grit
-bip_39_word_dash_10: grit-blossom-modify-coconut-price-balcony-zoo-gallery-ginger-twelve
-bip_39_word_dash_11: grit-blossom-modify-coconut-price-balcony-zoo-gallery-ginger-twelve-total
 bip_39_word_dash_12: grit-blossom-modify-coconut-price-balcony-zoo-gallery-ginger-twelve-total-advance
 bip_39_word_dash_2: grit-blossom
 bip_39_word_dash_3: grit-blossom-modify
-bip_39_word_dash_4: grit-blossom-modify-coconut
-bip_39_word_dash_5: grit-blossom-modify-coconut-price
-bip_39_word_dash_6: grit-blossom-modify-coconut-price-balcony
-bip_39_word_dash_7: grit-blossom-modify-coconut-price-balcony-zoo
-bip_39_word_dash_8: grit-blossom-modify-coconut-price-balcony-zoo-gallery
-bip_39_word_dash_9: grit-blossom-modify-coconut-price-balcony-zoo-gallery-ginger
-bip_39_word_new_br_1: grit
-bip_39_word_new_br_10: grit<br>blossom<br>modify<br>coconut<br>price<br>balcony<br>zoo<br>gallery<br>ginger<br>twelve
-bip_39_word_new_br_11: grit<br>blossom<br>modify<br>coconut<br>price<br>balcony<br>zoo<br>gallery<br>ginger<br>twelve<br>total
 bip_39_word_new_br_12: grit<br>blossom<br>modify<br>coconut<br>price<br>balcony<br>zoo<br>gallery<br>ginger<br>twelve<br>total<br>advance
 bip_39_word_new_br_2: grit<br>blossom
 bip_39_word_new_br_3: grit<br>blossom<br>modify
-bip_39_word_new_br_4: grit<br>blossom<br>modify<br>coconut
-bip_39_word_new_br_5: grit<br>blossom<br>modify<br>coconut<br>price
-bip_39_word_new_br_6: grit<br>blossom<br>modify<br>coconut<br>price<br>balcony
-bip_39_word_new_br_7: grit<br>blossom<br>modify<br>coconut<br>price<br>balcony<br>zoo
-bip_39_word_new_br_8: grit<br>blossom<br>modify<br>coconut<br>price<br>balcony<br>zoo<br>gallery
-bip_39_word_new_br_9: grit<br>blossom<br>modify<br>coconut<br>price<br>balcony<br>zoo<br>gallery<br>ginger
-bip_39_word_new_line_1: grit
-bip_39_word_new_line_10: 'grit
-
-  blossom
-
-  modify
-
-  coconut
-
-  price
-
-  balcony
-
-  zoo
-
-  gallery
-
-  ginger
-
-  twelve'
-bip_39_word_new_line_11: 'grit
-
-  blossom
-
-  modify
-
-  coconut
-
-  price
-
-  balcony
-
-  zoo
-
-  gallery
-
-  ginger
-
-  twelve
-
-  total'
 bip_39_word_new_line_12: 'grit
 
   blossom
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'grit
   blossom
 
   modify'
-bip_39_word_new_line_4: 'grit
-
-  blossom
-
-  modify
-
-  coconut'
-bip_39_word_new_line_5: 'grit
-
-  blossom
-
-  modify
-
-  coconut
-
-  price'
-bip_39_word_new_line_6: 'grit
-
-  blossom
-
-  modify
-
-  coconut
-
-  price
-
-  balcony'
-bip_39_word_new_line_7: 'grit
-
-  blossom
-
-  modify
-
-  coconut
-
-  price
-
-  balcony
-
-  zoo'
-bip_39_word_new_line_8: 'grit
-
-  blossom
-
-  modify
-
-  coconut
-
-  price
-
-  balcony
-
-  zoo
-
-  gallery'
-bip_39_word_new_line_9: 'grit
-
-  blossom
-
-  modify
-
-  coconut
-
-  price
-
-  balcony
-
-  zoo
-
-  gallery
-
-  ginger'
-bip_39_word_no_space_1: grit
-bip_39_word_no_space_10: gritblossommodifycoconutpricebalconyzoogallerygingertwelve
-bip_39_word_no_space_11: gritblossommodifycoconutpricebalconyzoogallerygingertwelvetotal
 bip_39_word_no_space_12: gritblossommodifycoconutpricebalconyzoogallerygingertwelvetotaladvance
 bip_39_word_no_space_2: gritblossom
 bip_39_word_no_space_3: gritblossommodify
-bip_39_word_no_space_4: gritblossommodifycoconut
-bip_39_word_no_space_5: gritblossommodifycoconutprice
-bip_39_word_no_space_6: gritblossommodifycoconutpricebalcony
-bip_39_word_no_space_7: gritblossommodifycoconutpricebalconyzoo
-bip_39_word_no_space_8: gritblossommodifycoconutpricebalconyzoogallery
-bip_39_word_no_space_9: gritblossommodifycoconutpricebalconyzoogalleryginger
-bip_39_word_space_0:
-- grit
-- blossom
-- modify
-- coconut
-- price
-- balcony
-- zoo
-- gallery
-- ginger
-- twelve
-- total
-- advance
-bip_39_word_space_1: grit
-bip_39_word_space_10: grit blossom modify coconut price balcony zoo gallery ginger
-  twelve
-bip_39_word_space_11: grit blossom modify coconut price balcony zoo gallery ginger
-  twelve total
 bip_39_word_space_12: grit blossom modify coconut price balcony zoo gallery ginger
   twelve total advance
 bip_39_word_space_2: grit blossom
 bip_39_word_space_3: grit blossom modify
-bip_39_word_space_4: grit blossom modify coconut
-bip_39_word_space_5: grit blossom modify coconut price
-bip_39_word_space_6: grit blossom modify coconut price balcony
-bip_39_word_space_7: grit blossom modify coconut price balcony zoo
-bip_39_word_space_8: grit blossom modify coconut price balcony zoo gallery
-bip_39_word_space_9: grit blossom modify coconut price balcony zoo gallery ginger
-bip_39_word_underscore_1: grit
-bip_39_word_underscore_10: grit_blossom_modify_coconut_price_balcony_zoo_gallery_ginger_twelve
-bip_39_word_underscore_11: grit_blossom_modify_coconut_price_balcony_zoo_gallery_ginger_twelve_total
 bip_39_word_underscore_12: grit_blossom_modify_coconut_price_balcony_zoo_gallery_ginger_twelve_total_advance
 bip_39_word_underscore_2: grit_blossom
 bip_39_word_underscore_3: grit_blossom_modify
-bip_39_word_underscore_4: grit_blossom_modify_coconut
-bip_39_word_underscore_5: grit_blossom_modify_coconut_price
-bip_39_word_underscore_6: grit_blossom_modify_coconut_price_balcony
-bip_39_word_underscore_7: grit_blossom_modify_coconut_price_balcony_zoo
-bip_39_word_underscore_8: grit_blossom_modify_coconut_price_balcony_zoo_gallery
-bip_39_word_underscore_9: grit_blossom_modify_coconut_price_balcony_zoo_gallery_ginger
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

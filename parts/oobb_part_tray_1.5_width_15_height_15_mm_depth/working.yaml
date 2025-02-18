@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cruise
-bip_39_word_dash_10: cruise-custom-road-shadow-cliff-hobby-wrist-stereo-matrix-senior
-bip_39_word_dash_11: cruise-custom-road-shadow-cliff-hobby-wrist-stereo-matrix-senior-oval
 bip_39_word_dash_12: cruise-custom-road-shadow-cliff-hobby-wrist-stereo-matrix-senior-oval-across
 bip_39_word_dash_2: cruise-custom
 bip_39_word_dash_3: cruise-custom-road
-bip_39_word_dash_4: cruise-custom-road-shadow
-bip_39_word_dash_5: cruise-custom-road-shadow-cliff
-bip_39_word_dash_6: cruise-custom-road-shadow-cliff-hobby
-bip_39_word_dash_7: cruise-custom-road-shadow-cliff-hobby-wrist
-bip_39_word_dash_8: cruise-custom-road-shadow-cliff-hobby-wrist-stereo
-bip_39_word_dash_9: cruise-custom-road-shadow-cliff-hobby-wrist-stereo-matrix
-bip_39_word_new_br_1: cruise
-bip_39_word_new_br_10: cruise<br>custom<br>road<br>shadow<br>cliff<br>hobby<br>wrist<br>stereo<br>matrix<br>senior
-bip_39_word_new_br_11: cruise<br>custom<br>road<br>shadow<br>cliff<br>hobby<br>wrist<br>stereo<br>matrix<br>senior<br>oval
 bip_39_word_new_br_12: cruise<br>custom<br>road<br>shadow<br>cliff<br>hobby<br>wrist<br>stereo<br>matrix<br>senior<br>oval<br>across
 bip_39_word_new_br_2: cruise<br>custom
 bip_39_word_new_br_3: cruise<br>custom<br>road
-bip_39_word_new_br_4: cruise<br>custom<br>road<br>shadow
-bip_39_word_new_br_5: cruise<br>custom<br>road<br>shadow<br>cliff
-bip_39_word_new_br_6: cruise<br>custom<br>road<br>shadow<br>cliff<br>hobby
-bip_39_word_new_br_7: cruise<br>custom<br>road<br>shadow<br>cliff<br>hobby<br>wrist
-bip_39_word_new_br_8: cruise<br>custom<br>road<br>shadow<br>cliff<br>hobby<br>wrist<br>stereo
-bip_39_word_new_br_9: cruise<br>custom<br>road<br>shadow<br>cliff<br>hobby<br>wrist<br>stereo<br>matrix
-bip_39_word_new_line_1: cruise
-bip_39_word_new_line_10: 'cruise
-
-  custom
-
-  road
-
-  shadow
-
-  cliff
-
-  hobby
-
-  wrist
-
-  stereo
-
-  matrix
-
-  senior'
-bip_39_word_new_line_11: 'cruise
-
-  custom
-
-  road
-
-  shadow
-
-  cliff
-
-  hobby
-
-  wrist
-
-  stereo
-
-  matrix
-
-  senior
-
-  oval'
 bip_39_word_new_line_12: 'cruise
 
   custom
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cruise
   custom
 
   road'
-bip_39_word_new_line_4: 'cruise
-
-  custom
-
-  road
-
-  shadow'
-bip_39_word_new_line_5: 'cruise
-
-  custom
-
-  road
-
-  shadow
-
-  cliff'
-bip_39_word_new_line_6: 'cruise
-
-  custom
-
-  road
-
-  shadow
-
-  cliff
-
-  hobby'
-bip_39_word_new_line_7: 'cruise
-
-  custom
-
-  road
-
-  shadow
-
-  cliff
-
-  hobby
-
-  wrist'
-bip_39_word_new_line_8: 'cruise
-
-  custom
-
-  road
-
-  shadow
-
-  cliff
-
-  hobby
-
-  wrist
-
-  stereo'
-bip_39_word_new_line_9: 'cruise
-
-  custom
-
-  road
-
-  shadow
-
-  cliff
-
-  hobby
-
-  wrist
-
-  stereo
-
-  matrix'
-bip_39_word_no_space_1: cruise
-bip_39_word_no_space_10: cruisecustomroadshadowcliffhobbywriststereomatrixsenior
-bip_39_word_no_space_11: cruisecustomroadshadowcliffhobbywriststereomatrixsenioroval
 bip_39_word_no_space_12: cruisecustomroadshadowcliffhobbywriststereomatrixseniorovalacross
 bip_39_word_no_space_2: cruisecustom
 bip_39_word_no_space_3: cruisecustomroad
-bip_39_word_no_space_4: cruisecustomroadshadow
-bip_39_word_no_space_5: cruisecustomroadshadowcliff
-bip_39_word_no_space_6: cruisecustomroadshadowcliffhobby
-bip_39_word_no_space_7: cruisecustomroadshadowcliffhobbywrist
-bip_39_word_no_space_8: cruisecustomroadshadowcliffhobbywriststereo
-bip_39_word_no_space_9: cruisecustomroadshadowcliffhobbywriststereomatrix
-bip_39_word_space_0:
-- cruise
-- custom
-- road
-- shadow
-- cliff
-- hobby
-- wrist
-- stereo
-- matrix
-- senior
-- oval
-- across
-bip_39_word_space_1: cruise
-bip_39_word_space_10: cruise custom road shadow cliff hobby wrist stereo matrix senior
-bip_39_word_space_11: cruise custom road shadow cliff hobby wrist stereo matrix senior
-  oval
 bip_39_word_space_12: cruise custom road shadow cliff hobby wrist stereo matrix senior
   oval across
 bip_39_word_space_2: cruise custom
 bip_39_word_space_3: cruise custom road
-bip_39_word_space_4: cruise custom road shadow
-bip_39_word_space_5: cruise custom road shadow cliff
-bip_39_word_space_6: cruise custom road shadow cliff hobby
-bip_39_word_space_7: cruise custom road shadow cliff hobby wrist
-bip_39_word_space_8: cruise custom road shadow cliff hobby wrist stereo
-bip_39_word_space_9: cruise custom road shadow cliff hobby wrist stereo matrix
-bip_39_word_underscore_1: cruise
-bip_39_word_underscore_10: cruise_custom_road_shadow_cliff_hobby_wrist_stereo_matrix_senior
-bip_39_word_underscore_11: cruise_custom_road_shadow_cliff_hobby_wrist_stereo_matrix_senior_oval
 bip_39_word_underscore_12: cruise_custom_road_shadow_cliff_hobby_wrist_stereo_matrix_senior_oval_across
 bip_39_word_underscore_2: cruise_custom
 bip_39_word_underscore_3: cruise_custom_road
-bip_39_word_underscore_4: cruise_custom_road_shadow
-bip_39_word_underscore_5: cruise_custom_road_shadow_cliff
-bip_39_word_underscore_6: cruise_custom_road_shadow_cliff_hobby
-bip_39_word_underscore_7: cruise_custom_road_shadow_cliff_hobby_wrist
-bip_39_word_underscore_8: cruise_custom_road_shadow_cliff_hobby_wrist_stereo
-bip_39_word_underscore_9: cruise_custom_road_shadow_cliff_hobby_wrist_stereo_matrix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

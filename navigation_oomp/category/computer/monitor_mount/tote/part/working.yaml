@@ -1,68 +1,9 @@
-bip_39_word_dash_1: save
-bip_39_word_dash_10: save-cancel-piano-pear-crane-orange-now-replace-gown-axis
-bip_39_word_dash_11: save-cancel-piano-pear-crane-orange-now-replace-gown-axis-clap
 bip_39_word_dash_12: save-cancel-piano-pear-crane-orange-now-replace-gown-axis-clap-artefact
 bip_39_word_dash_2: save-cancel
 bip_39_word_dash_3: save-cancel-piano
-bip_39_word_dash_4: save-cancel-piano-pear
-bip_39_word_dash_5: save-cancel-piano-pear-crane
-bip_39_word_dash_6: save-cancel-piano-pear-crane-orange
-bip_39_word_dash_7: save-cancel-piano-pear-crane-orange-now
-bip_39_word_dash_8: save-cancel-piano-pear-crane-orange-now-replace
-bip_39_word_dash_9: save-cancel-piano-pear-crane-orange-now-replace-gown
-bip_39_word_new_br_1: save
-bip_39_word_new_br_10: save<br>cancel<br>piano<br>pear<br>crane<br>orange<br>now<br>replace<br>gown<br>axis
-bip_39_word_new_br_11: save<br>cancel<br>piano<br>pear<br>crane<br>orange<br>now<br>replace<br>gown<br>axis<br>clap
 bip_39_word_new_br_12: save<br>cancel<br>piano<br>pear<br>crane<br>orange<br>now<br>replace<br>gown<br>axis<br>clap<br>artefact
 bip_39_word_new_br_2: save<br>cancel
 bip_39_word_new_br_3: save<br>cancel<br>piano
-bip_39_word_new_br_4: save<br>cancel<br>piano<br>pear
-bip_39_word_new_br_5: save<br>cancel<br>piano<br>pear<br>crane
-bip_39_word_new_br_6: save<br>cancel<br>piano<br>pear<br>crane<br>orange
-bip_39_word_new_br_7: save<br>cancel<br>piano<br>pear<br>crane<br>orange<br>now
-bip_39_word_new_br_8: save<br>cancel<br>piano<br>pear<br>crane<br>orange<br>now<br>replace
-bip_39_word_new_br_9: save<br>cancel<br>piano<br>pear<br>crane<br>orange<br>now<br>replace<br>gown
-bip_39_word_new_line_1: save
-bip_39_word_new_line_10: 'save
-
-  cancel
-
-  piano
-
-  pear
-
-  crane
-
-  orange
-
-  now
-
-  replace
-
-  gown
-
-  axis'
-bip_39_word_new_line_11: 'save
-
-  cancel
-
-  piano
-
-  pear
-
-  crane
-
-  orange
-
-  now
-
-  replace
-
-  gown
-
-  axis
-
-  clap'
 bip_39_word_new_line_12: 'save
 
   cancel
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'save
   cancel
 
   piano'
-bip_39_word_new_line_4: 'save
-
-  cancel
-
-  piano
-
-  pear'
-bip_39_word_new_line_5: 'save
-
-  cancel
-
-  piano
-
-  pear
-
-  crane'
-bip_39_word_new_line_6: 'save
-
-  cancel
-
-  piano
-
-  pear
-
-  crane
-
-  orange'
-bip_39_word_new_line_7: 'save
-
-  cancel
-
-  piano
-
-  pear
-
-  crane
-
-  orange
-
-  now'
-bip_39_word_new_line_8: 'save
-
-  cancel
-
-  piano
-
-  pear
-
-  crane
-
-  orange
-
-  now
-
-  replace'
-bip_39_word_new_line_9: 'save
-
-  cancel
-
-  piano
-
-  pear
-
-  crane
-
-  orange
-
-  now
-
-  replace
-
-  gown'
-bip_39_word_no_space_1: save
-bip_39_word_no_space_10: savecancelpianopearcraneorangenowreplacegownaxis
-bip_39_word_no_space_11: savecancelpianopearcraneorangenowreplacegownaxisclap
 bip_39_word_no_space_12: savecancelpianopearcraneorangenowreplacegownaxisclapartefact
 bip_39_word_no_space_2: savecancel
 bip_39_word_no_space_3: savecancelpiano
-bip_39_word_no_space_4: savecancelpianopear
-bip_39_word_no_space_5: savecancelpianopearcrane
-bip_39_word_no_space_6: savecancelpianopearcraneorange
-bip_39_word_no_space_7: savecancelpianopearcraneorangenow
-bip_39_word_no_space_8: savecancelpianopearcraneorangenowreplace
-bip_39_word_no_space_9: savecancelpianopearcraneorangenowreplacegown
-bip_39_word_space_0:
-- save
-- cancel
-- piano
-- pear
-- crane
-- orange
-- now
-- replace
-- gown
-- axis
-- clap
-- artefact
-bip_39_word_space_1: save
-bip_39_word_space_10: save cancel piano pear crane orange now replace gown axis
-bip_39_word_space_11: save cancel piano pear crane orange now replace gown axis clap
 bip_39_word_space_12: save cancel piano pear crane orange now replace gown axis clap
   artefact
 bip_39_word_space_2: save cancel
 bip_39_word_space_3: save cancel piano
-bip_39_word_space_4: save cancel piano pear
-bip_39_word_space_5: save cancel piano pear crane
-bip_39_word_space_6: save cancel piano pear crane orange
-bip_39_word_space_7: save cancel piano pear crane orange now
-bip_39_word_space_8: save cancel piano pear crane orange now replace
-bip_39_word_space_9: save cancel piano pear crane orange now replace gown
-bip_39_word_underscore_1: save
-bip_39_word_underscore_10: save_cancel_piano_pear_crane_orange_now_replace_gown_axis
-bip_39_word_underscore_11: save_cancel_piano_pear_crane_orange_now_replace_gown_axis_clap
 bip_39_word_underscore_12: save_cancel_piano_pear_crane_orange_now_replace_gown_axis_clap_artefact
 bip_39_word_underscore_2: save_cancel
 bip_39_word_underscore_3: save_cancel_piano
-bip_39_word_underscore_4: save_cancel_piano_pear
-bip_39_word_underscore_5: save_cancel_piano_pear_crane
-bip_39_word_underscore_6: save_cancel_piano_pear_crane_orange
-bip_39_word_underscore_7: save_cancel_piano_pear_crane_orange_now
-bip_39_word_underscore_8: save_cancel_piano_pear_crane_orange_now_replace
-bip_39_word_underscore_9: save_cancel_piano_pear_crane_orange_now_replace_gown
 classification: category
 classification_capital: Category
 classification_first_letter: c

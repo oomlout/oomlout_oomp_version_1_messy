@@ -1,68 +1,9 @@
-bip_39_word_dash_1: robust
-bip_39_word_dash_10: robust-wool-point-vicious-visit-explain-bright-cover-jaguar-fantasy
-bip_39_word_dash_11: robust-wool-point-vicious-visit-explain-bright-cover-jaguar-fantasy-child
 bip_39_word_dash_12: robust-wool-point-vicious-visit-explain-bright-cover-jaguar-fantasy-child-army
 bip_39_word_dash_2: robust-wool
 bip_39_word_dash_3: robust-wool-point
-bip_39_word_dash_4: robust-wool-point-vicious
-bip_39_word_dash_5: robust-wool-point-vicious-visit
-bip_39_word_dash_6: robust-wool-point-vicious-visit-explain
-bip_39_word_dash_7: robust-wool-point-vicious-visit-explain-bright
-bip_39_word_dash_8: robust-wool-point-vicious-visit-explain-bright-cover
-bip_39_word_dash_9: robust-wool-point-vicious-visit-explain-bright-cover-jaguar
-bip_39_word_new_br_1: robust
-bip_39_word_new_br_10: robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy
-bip_39_word_new_br_11: robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy<br>child
 bip_39_word_new_br_12: robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar<br>fantasy<br>child<br>army
 bip_39_word_new_br_2: robust<br>wool
 bip_39_word_new_br_3: robust<br>wool<br>point
-bip_39_word_new_br_4: robust<br>wool<br>point<br>vicious
-bip_39_word_new_br_5: robust<br>wool<br>point<br>vicious<br>visit
-bip_39_word_new_br_6: robust<br>wool<br>point<br>vicious<br>visit<br>explain
-bip_39_word_new_br_7: robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright
-bip_39_word_new_br_8: robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover
-bip_39_word_new_br_9: robust<br>wool<br>point<br>vicious<br>visit<br>explain<br>bright<br>cover<br>jaguar
-bip_39_word_new_line_1: robust
-bip_39_word_new_line_10: 'robust
-
-  wool
-
-  point
-
-  vicious
-
-  visit
-
-  explain
-
-  bright
-
-  cover
-
-  jaguar
-
-  fantasy'
-bip_39_word_new_line_11: 'robust
-
-  wool
-
-  point
-
-  vicious
-
-  visit
-
-  explain
-
-  bright
-
-  cover
-
-  jaguar
-
-  fantasy
-
-  child'
 bip_39_word_new_line_12: 'robust
 
   wool
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'robust
   wool
 
   point'
-bip_39_word_new_line_4: 'robust
-
-  wool
-
-  point
-
-  vicious'
-bip_39_word_new_line_5: 'robust
-
-  wool
-
-  point
-
-  vicious
-
-  visit'
-bip_39_word_new_line_6: 'robust
-
-  wool
-
-  point
-
-  vicious
-
-  visit
-
-  explain'
-bip_39_word_new_line_7: 'robust
-
-  wool
-
-  point
-
-  vicious
-
-  visit
-
-  explain
-
-  bright'
-bip_39_word_new_line_8: 'robust
-
-  wool
-
-  point
-
-  vicious
-
-  visit
-
-  explain
-
-  bright
-
-  cover'
-bip_39_word_new_line_9: 'robust
-
-  wool
-
-  point
-
-  vicious
-
-  visit
-
-  explain
-
-  bright
-
-  cover
-
-  jaguar'
-bip_39_word_no_space_1: robust
-bip_39_word_no_space_10: robustwoolpointviciousvisitexplainbrightcoverjaguarfantasy
-bip_39_word_no_space_11: robustwoolpointviciousvisitexplainbrightcoverjaguarfantasychild
 bip_39_word_no_space_12: robustwoolpointviciousvisitexplainbrightcoverjaguarfantasychildarmy
 bip_39_word_no_space_2: robustwool
 bip_39_word_no_space_3: robustwoolpoint
-bip_39_word_no_space_4: robustwoolpointvicious
-bip_39_word_no_space_5: robustwoolpointviciousvisit
-bip_39_word_no_space_6: robustwoolpointviciousvisitexplain
-bip_39_word_no_space_7: robustwoolpointviciousvisitexplainbright
-bip_39_word_no_space_8: robustwoolpointviciousvisitexplainbrightcover
-bip_39_word_no_space_9: robustwoolpointviciousvisitexplainbrightcoverjaguar
-bip_39_word_space_0:
-- robust
-- wool
-- point
-- vicious
-- visit
-- explain
-- bright
-- cover
-- jaguar
-- fantasy
-- child
-- army
-bip_39_word_space_1: robust
-bip_39_word_space_10: robust wool point vicious visit explain bright cover jaguar
-  fantasy
-bip_39_word_space_11: robust wool point vicious visit explain bright cover jaguar
-  fantasy child
 bip_39_word_space_12: robust wool point vicious visit explain bright cover jaguar
   fantasy child army
 bip_39_word_space_2: robust wool
 bip_39_word_space_3: robust wool point
-bip_39_word_space_4: robust wool point vicious
-bip_39_word_space_5: robust wool point vicious visit
-bip_39_word_space_6: robust wool point vicious visit explain
-bip_39_word_space_7: robust wool point vicious visit explain bright
-bip_39_word_space_8: robust wool point vicious visit explain bright cover
-bip_39_word_space_9: robust wool point vicious visit explain bright cover jaguar
-bip_39_word_underscore_1: robust
-bip_39_word_underscore_10: robust_wool_point_vicious_visit_explain_bright_cover_jaguar_fantasy
-bip_39_word_underscore_11: robust_wool_point_vicious_visit_explain_bright_cover_jaguar_fantasy_child
 bip_39_word_underscore_12: robust_wool_point_vicious_visit_explain_bright_cover_jaguar_fantasy_child_army
 bip_39_word_underscore_2: robust_wool
 bip_39_word_underscore_3: robust_wool_point
-bip_39_word_underscore_4: robust_wool_point_vicious
-bip_39_word_underscore_5: robust_wool_point_vicious_visit
-bip_39_word_underscore_6: robust_wool_point_vicious_visit_explain
-bip_39_word_underscore_7: robust_wool_point_vicious_visit_explain_bright
-bip_39_word_underscore_8: robust_wool_point_vicious_visit_explain_bright_cover
-bip_39_word_underscore_9: robust_wool_point_vicious_visit_explain_bright_cover_jaguar
 classification: computer
 classification_capital: Computer
 classification_first_letter: c

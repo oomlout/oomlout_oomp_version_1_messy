@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uniform
-bip_39_word_dash_10: uniform-enroll-spend-float-confirm-winter-glimpse-couch-heart-nation
-bip_39_word_dash_11: uniform-enroll-spend-float-confirm-winter-glimpse-couch-heart-nation-benefit
 bip_39_word_dash_12: uniform-enroll-spend-float-confirm-winter-glimpse-couch-heart-nation-benefit-air
 bip_39_word_dash_2: uniform-enroll
 bip_39_word_dash_3: uniform-enroll-spend
-bip_39_word_dash_4: uniform-enroll-spend-float
-bip_39_word_dash_5: uniform-enroll-spend-float-confirm
-bip_39_word_dash_6: uniform-enroll-spend-float-confirm-winter
-bip_39_word_dash_7: uniform-enroll-spend-float-confirm-winter-glimpse
-bip_39_word_dash_8: uniform-enroll-spend-float-confirm-winter-glimpse-couch
-bip_39_word_dash_9: uniform-enroll-spend-float-confirm-winter-glimpse-couch-heart
-bip_39_word_new_br_1: uniform
-bip_39_word_new_br_10: uniform<br>enroll<br>spend<br>float<br>confirm<br>winter<br>glimpse<br>couch<br>heart<br>nation
-bip_39_word_new_br_11: uniform<br>enroll<br>spend<br>float<br>confirm<br>winter<br>glimpse<br>couch<br>heart<br>nation<br>benefit
 bip_39_word_new_br_12: uniform<br>enroll<br>spend<br>float<br>confirm<br>winter<br>glimpse<br>couch<br>heart<br>nation<br>benefit<br>air
 bip_39_word_new_br_2: uniform<br>enroll
 bip_39_word_new_br_3: uniform<br>enroll<br>spend
-bip_39_word_new_br_4: uniform<br>enroll<br>spend<br>float
-bip_39_word_new_br_5: uniform<br>enroll<br>spend<br>float<br>confirm
-bip_39_word_new_br_6: uniform<br>enroll<br>spend<br>float<br>confirm<br>winter
-bip_39_word_new_br_7: uniform<br>enroll<br>spend<br>float<br>confirm<br>winter<br>glimpse
-bip_39_word_new_br_8: uniform<br>enroll<br>spend<br>float<br>confirm<br>winter<br>glimpse<br>couch
-bip_39_word_new_br_9: uniform<br>enroll<br>spend<br>float<br>confirm<br>winter<br>glimpse<br>couch<br>heart
-bip_39_word_new_line_1: uniform
-bip_39_word_new_line_10: 'uniform
-
-  enroll
-
-  spend
-
-  float
-
-  confirm
-
-  winter
-
-  glimpse
-
-  couch
-
-  heart
-
-  nation'
-bip_39_word_new_line_11: 'uniform
-
-  enroll
-
-  spend
-
-  float
-
-  confirm
-
-  winter
-
-  glimpse
-
-  couch
-
-  heart
-
-  nation
-
-  benefit'
 bip_39_word_new_line_12: 'uniform
 
   enroll
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'uniform
   enroll
 
   spend'
-bip_39_word_new_line_4: 'uniform
-
-  enroll
-
-  spend
-
-  float'
-bip_39_word_new_line_5: 'uniform
-
-  enroll
-
-  spend
-
-  float
-
-  confirm'
-bip_39_word_new_line_6: 'uniform
-
-  enroll
-
-  spend
-
-  float
-
-  confirm
-
-  winter'
-bip_39_word_new_line_7: 'uniform
-
-  enroll
-
-  spend
-
-  float
-
-  confirm
-
-  winter
-
-  glimpse'
-bip_39_word_new_line_8: 'uniform
-
-  enroll
-
-  spend
-
-  float
-
-  confirm
-
-  winter
-
-  glimpse
-
-  couch'
-bip_39_word_new_line_9: 'uniform
-
-  enroll
-
-  spend
-
-  float
-
-  confirm
-
-  winter
-
-  glimpse
-
-  couch
-
-  heart'
-bip_39_word_no_space_1: uniform
-bip_39_word_no_space_10: uniformenrollspendfloatconfirmwinterglimpsecouchheartnation
-bip_39_word_no_space_11: uniformenrollspendfloatconfirmwinterglimpsecouchheartnationbenefit
 bip_39_word_no_space_12: uniformenrollspendfloatconfirmwinterglimpsecouchheartnationbenefitair
 bip_39_word_no_space_2: uniformenroll
 bip_39_word_no_space_3: uniformenrollspend
-bip_39_word_no_space_4: uniformenrollspendfloat
-bip_39_word_no_space_5: uniformenrollspendfloatconfirm
-bip_39_word_no_space_6: uniformenrollspendfloatconfirmwinter
-bip_39_word_no_space_7: uniformenrollspendfloatconfirmwinterglimpse
-bip_39_word_no_space_8: uniformenrollspendfloatconfirmwinterglimpsecouch
-bip_39_word_no_space_9: uniformenrollspendfloatconfirmwinterglimpsecouchheart
-bip_39_word_space_0:
-- uniform
-- enroll
-- spend
-- float
-- confirm
-- winter
-- glimpse
-- couch
-- heart
-- nation
-- benefit
-- air
-bip_39_word_space_1: uniform
-bip_39_word_space_10: uniform enroll spend float confirm winter glimpse couch heart
-  nation
-bip_39_word_space_11: uniform enroll spend float confirm winter glimpse couch heart
-  nation benefit
 bip_39_word_space_12: uniform enroll spend float confirm winter glimpse couch heart
   nation benefit air
 bip_39_word_space_2: uniform enroll
 bip_39_word_space_3: uniform enroll spend
-bip_39_word_space_4: uniform enroll spend float
-bip_39_word_space_5: uniform enroll spend float confirm
-bip_39_word_space_6: uniform enroll spend float confirm winter
-bip_39_word_space_7: uniform enroll spend float confirm winter glimpse
-bip_39_word_space_8: uniform enroll spend float confirm winter glimpse couch
-bip_39_word_space_9: uniform enroll spend float confirm winter glimpse couch heart
-bip_39_word_underscore_1: uniform
-bip_39_word_underscore_10: uniform_enroll_spend_float_confirm_winter_glimpse_couch_heart_nation
-bip_39_word_underscore_11: uniform_enroll_spend_float_confirm_winter_glimpse_couch_heart_nation_benefit
 bip_39_word_underscore_12: uniform_enroll_spend_float_confirm_winter_glimpse_couch_heart_nation_benefit_air
 bip_39_word_underscore_2: uniform_enroll
 bip_39_word_underscore_3: uniform_enroll_spend
-bip_39_word_underscore_4: uniform_enroll_spend_float
-bip_39_word_underscore_5: uniform_enroll_spend_float_confirm
-bip_39_word_underscore_6: uniform_enroll_spend_float_confirm_winter
-bip_39_word_underscore_7: uniform_enroll_spend_float_confirm_winter_glimpse
-bip_39_word_underscore_8: uniform_enroll_spend_float_confirm_winter_glimpse_couch
-bip_39_word_underscore_9: uniform_enroll_spend_float_confirm_winter_glimpse_couch_heart
 classification: project
 classification_capital: Project
 classification_first_letter: p

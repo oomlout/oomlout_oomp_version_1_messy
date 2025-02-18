@@ -1,68 +1,9 @@
-bip_39_word_dash_1: zoo
-bip_39_word_dash_10: zoo-hundred-inherit-alarm-sniff-oven-mutual-industry-chef-just
-bip_39_word_dash_11: zoo-hundred-inherit-alarm-sniff-oven-mutual-industry-chef-just-oven
 bip_39_word_dash_12: zoo-hundred-inherit-alarm-sniff-oven-mutual-industry-chef-just-oven-armed
 bip_39_word_dash_2: zoo-hundred
 bip_39_word_dash_3: zoo-hundred-inherit
-bip_39_word_dash_4: zoo-hundred-inherit-alarm
-bip_39_word_dash_5: zoo-hundred-inherit-alarm-sniff
-bip_39_word_dash_6: zoo-hundred-inherit-alarm-sniff-oven
-bip_39_word_dash_7: zoo-hundred-inherit-alarm-sniff-oven-mutual
-bip_39_word_dash_8: zoo-hundred-inherit-alarm-sniff-oven-mutual-industry
-bip_39_word_dash_9: zoo-hundred-inherit-alarm-sniff-oven-mutual-industry-chef
-bip_39_word_new_br_1: zoo
-bip_39_word_new_br_10: zoo<br>hundred<br>inherit<br>alarm<br>sniff<br>oven<br>mutual<br>industry<br>chef<br>just
-bip_39_word_new_br_11: zoo<br>hundred<br>inherit<br>alarm<br>sniff<br>oven<br>mutual<br>industry<br>chef<br>just<br>oven
 bip_39_word_new_br_12: zoo<br>hundred<br>inherit<br>alarm<br>sniff<br>oven<br>mutual<br>industry<br>chef<br>just<br>oven<br>armed
 bip_39_word_new_br_2: zoo<br>hundred
 bip_39_word_new_br_3: zoo<br>hundred<br>inherit
-bip_39_word_new_br_4: zoo<br>hundred<br>inherit<br>alarm
-bip_39_word_new_br_5: zoo<br>hundred<br>inherit<br>alarm<br>sniff
-bip_39_word_new_br_6: zoo<br>hundred<br>inherit<br>alarm<br>sniff<br>oven
-bip_39_word_new_br_7: zoo<br>hundred<br>inherit<br>alarm<br>sniff<br>oven<br>mutual
-bip_39_word_new_br_8: zoo<br>hundred<br>inherit<br>alarm<br>sniff<br>oven<br>mutual<br>industry
-bip_39_word_new_br_9: zoo<br>hundred<br>inherit<br>alarm<br>sniff<br>oven<br>mutual<br>industry<br>chef
-bip_39_word_new_line_1: zoo
-bip_39_word_new_line_10: 'zoo
-
-  hundred
-
-  inherit
-
-  alarm
-
-  sniff
-
-  oven
-
-  mutual
-
-  industry
-
-  chef
-
-  just'
-bip_39_word_new_line_11: 'zoo
-
-  hundred
-
-  inherit
-
-  alarm
-
-  sniff
-
-  oven
-
-  mutual
-
-  industry
-
-  chef
-
-  just
-
-  oven'
 bip_39_word_new_line_12: 'zoo
 
   hundred
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'zoo
   hundred
 
   inherit'
-bip_39_word_new_line_4: 'zoo
-
-  hundred
-
-  inherit
-
-  alarm'
-bip_39_word_new_line_5: 'zoo
-
-  hundred
-
-  inherit
-
-  alarm
-
-  sniff'
-bip_39_word_new_line_6: 'zoo
-
-  hundred
-
-  inherit
-
-  alarm
-
-  sniff
-
-  oven'
-bip_39_word_new_line_7: 'zoo
-
-  hundred
-
-  inherit
-
-  alarm
-
-  sniff
-
-  oven
-
-  mutual'
-bip_39_word_new_line_8: 'zoo
-
-  hundred
-
-  inherit
-
-  alarm
-
-  sniff
-
-  oven
-
-  mutual
-
-  industry'
-bip_39_word_new_line_9: 'zoo
-
-  hundred
-
-  inherit
-
-  alarm
-
-  sniff
-
-  oven
-
-  mutual
-
-  industry
-
-  chef'
-bip_39_word_no_space_1: zoo
-bip_39_word_no_space_10: zoohundredinheritalarmsniffovenmutualindustrychefjust
-bip_39_word_no_space_11: zoohundredinheritalarmsniffovenmutualindustrychefjustoven
 bip_39_word_no_space_12: zoohundredinheritalarmsniffovenmutualindustrychefjustovenarmed
 bip_39_word_no_space_2: zoohundred
 bip_39_word_no_space_3: zoohundredinherit
-bip_39_word_no_space_4: zoohundredinheritalarm
-bip_39_word_no_space_5: zoohundredinheritalarmsniff
-bip_39_word_no_space_6: zoohundredinheritalarmsniffoven
-bip_39_word_no_space_7: zoohundredinheritalarmsniffovenmutual
-bip_39_word_no_space_8: zoohundredinheritalarmsniffovenmutualindustry
-bip_39_word_no_space_9: zoohundredinheritalarmsniffovenmutualindustrychef
-bip_39_word_space_0:
-- zoo
-- hundred
-- inherit
-- alarm
-- sniff
-- oven
-- mutual
-- industry
-- chef
-- just
-- oven
-- armed
-bip_39_word_space_1: zoo
-bip_39_word_space_10: zoo hundred inherit alarm sniff oven mutual industry chef just
-bip_39_word_space_11: zoo hundred inherit alarm sniff oven mutual industry chef just
-  oven
 bip_39_word_space_12: zoo hundred inherit alarm sniff oven mutual industry chef just
   oven armed
 bip_39_word_space_2: zoo hundred
 bip_39_word_space_3: zoo hundred inherit
-bip_39_word_space_4: zoo hundred inherit alarm
-bip_39_word_space_5: zoo hundred inherit alarm sniff
-bip_39_word_space_6: zoo hundred inherit alarm sniff oven
-bip_39_word_space_7: zoo hundred inherit alarm sniff oven mutual
-bip_39_word_space_8: zoo hundred inherit alarm sniff oven mutual industry
-bip_39_word_space_9: zoo hundred inherit alarm sniff oven mutual industry chef
-bip_39_word_underscore_1: zoo
-bip_39_word_underscore_10: zoo_hundred_inherit_alarm_sniff_oven_mutual_industry_chef_just
-bip_39_word_underscore_11: zoo_hundred_inherit_alarm_sniff_oven_mutual_industry_chef_just_oven
 bip_39_word_underscore_12: zoo_hundred_inherit_alarm_sniff_oven_mutual_industry_chef_just_oven_armed
 bip_39_word_underscore_2: zoo_hundred
 bip_39_word_underscore_3: zoo_hundred_inherit
-bip_39_word_underscore_4: zoo_hundred_inherit_alarm
-bip_39_word_underscore_5: zoo_hundred_inherit_alarm_sniff
-bip_39_word_underscore_6: zoo_hundred_inherit_alarm_sniff_oven
-bip_39_word_underscore_7: zoo_hundred_inherit_alarm_sniff_oven_mutual
-bip_39_word_underscore_8: zoo_hundred_inherit_alarm_sniff_oven_mutual_industry
-bip_39_word_underscore_9: zoo_hundred_inherit_alarm_sniff_oven_mutual_industry_chef
 classification: category
 classification_capital: Category
 classification_first_letter: c

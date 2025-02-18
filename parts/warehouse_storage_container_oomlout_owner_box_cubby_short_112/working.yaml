@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gesture
-bip_39_word_dash_10: gesture-stool-acid-caught-choose-sphere-time-liquid-estate-leg
-bip_39_word_dash_11: gesture-stool-acid-caught-choose-sphere-time-liquid-estate-leg-execute
 bip_39_word_dash_12: gesture-stool-acid-caught-choose-sphere-time-liquid-estate-leg-execute-artwork
 bip_39_word_dash_2: gesture-stool
 bip_39_word_dash_3: gesture-stool-acid
-bip_39_word_dash_4: gesture-stool-acid-caught
-bip_39_word_dash_5: gesture-stool-acid-caught-choose
-bip_39_word_dash_6: gesture-stool-acid-caught-choose-sphere
-bip_39_word_dash_7: gesture-stool-acid-caught-choose-sphere-time
-bip_39_word_dash_8: gesture-stool-acid-caught-choose-sphere-time-liquid
-bip_39_word_dash_9: gesture-stool-acid-caught-choose-sphere-time-liquid-estate
-bip_39_word_new_br_1: gesture
-bip_39_word_new_br_10: gesture<br>stool<br>acid<br>caught<br>choose<br>sphere<br>time<br>liquid<br>estate<br>leg
-bip_39_word_new_br_11: gesture<br>stool<br>acid<br>caught<br>choose<br>sphere<br>time<br>liquid<br>estate<br>leg<br>execute
 bip_39_word_new_br_12: gesture<br>stool<br>acid<br>caught<br>choose<br>sphere<br>time<br>liquid<br>estate<br>leg<br>execute<br>artwork
 bip_39_word_new_br_2: gesture<br>stool
 bip_39_word_new_br_3: gesture<br>stool<br>acid
-bip_39_word_new_br_4: gesture<br>stool<br>acid<br>caught
-bip_39_word_new_br_5: gesture<br>stool<br>acid<br>caught<br>choose
-bip_39_word_new_br_6: gesture<br>stool<br>acid<br>caught<br>choose<br>sphere
-bip_39_word_new_br_7: gesture<br>stool<br>acid<br>caught<br>choose<br>sphere<br>time
-bip_39_word_new_br_8: gesture<br>stool<br>acid<br>caught<br>choose<br>sphere<br>time<br>liquid
-bip_39_word_new_br_9: gesture<br>stool<br>acid<br>caught<br>choose<br>sphere<br>time<br>liquid<br>estate
-bip_39_word_new_line_1: gesture
-bip_39_word_new_line_10: 'gesture
-
-  stool
-
-  acid
-
-  caught
-
-  choose
-
-  sphere
-
-  time
-
-  liquid
-
-  estate
-
-  leg'
-bip_39_word_new_line_11: 'gesture
-
-  stool
-
-  acid
-
-  caught
-
-  choose
-
-  sphere
-
-  time
-
-  liquid
-
-  estate
-
-  leg
-
-  execute'
 bip_39_word_new_line_12: 'gesture
 
   stool
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gesture
   stool
 
   acid'
-bip_39_word_new_line_4: 'gesture
-
-  stool
-
-  acid
-
-  caught'
-bip_39_word_new_line_5: 'gesture
-
-  stool
-
-  acid
-
-  caught
-
-  choose'
-bip_39_word_new_line_6: 'gesture
-
-  stool
-
-  acid
-
-  caught
-
-  choose
-
-  sphere'
-bip_39_word_new_line_7: 'gesture
-
-  stool
-
-  acid
-
-  caught
-
-  choose
-
-  sphere
-
-  time'
-bip_39_word_new_line_8: 'gesture
-
-  stool
-
-  acid
-
-  caught
-
-  choose
-
-  sphere
-
-  time
-
-  liquid'
-bip_39_word_new_line_9: 'gesture
-
-  stool
-
-  acid
-
-  caught
-
-  choose
-
-  sphere
-
-  time
-
-  liquid
-
-  estate'
-bip_39_word_no_space_1: gesture
-bip_39_word_no_space_10: gesturestoolacidcaughtchoosespheretimeliquidestateleg
-bip_39_word_no_space_11: gesturestoolacidcaughtchoosespheretimeliquidestatelegexecute
 bip_39_word_no_space_12: gesturestoolacidcaughtchoosespheretimeliquidestatelegexecuteartwork
 bip_39_word_no_space_2: gesturestool
 bip_39_word_no_space_3: gesturestoolacid
-bip_39_word_no_space_4: gesturestoolacidcaught
-bip_39_word_no_space_5: gesturestoolacidcaughtchoose
-bip_39_word_no_space_6: gesturestoolacidcaughtchoosesphere
-bip_39_word_no_space_7: gesturestoolacidcaughtchoosespheretime
-bip_39_word_no_space_8: gesturestoolacidcaughtchoosespheretimeliquid
-bip_39_word_no_space_9: gesturestoolacidcaughtchoosespheretimeliquidestate
-bip_39_word_space_0:
-- gesture
-- stool
-- acid
-- caught
-- choose
-- sphere
-- time
-- liquid
-- estate
-- leg
-- execute
-- artwork
-bip_39_word_space_1: gesture
-bip_39_word_space_10: gesture stool acid caught choose sphere time liquid estate leg
-bip_39_word_space_11: gesture stool acid caught choose sphere time liquid estate leg
-  execute
 bip_39_word_space_12: gesture stool acid caught choose sphere time liquid estate leg
   execute artwork
 bip_39_word_space_2: gesture stool
 bip_39_word_space_3: gesture stool acid
-bip_39_word_space_4: gesture stool acid caught
-bip_39_word_space_5: gesture stool acid caught choose
-bip_39_word_space_6: gesture stool acid caught choose sphere
-bip_39_word_space_7: gesture stool acid caught choose sphere time
-bip_39_word_space_8: gesture stool acid caught choose sphere time liquid
-bip_39_word_space_9: gesture stool acid caught choose sphere time liquid estate
-bip_39_word_underscore_1: gesture
-bip_39_word_underscore_10: gesture_stool_acid_caught_choose_sphere_time_liquid_estate_leg
-bip_39_word_underscore_11: gesture_stool_acid_caught_choose_sphere_time_liquid_estate_leg_execute
 bip_39_word_underscore_12: gesture_stool_acid_caught_choose_sphere_time_liquid_estate_leg_execute_artwork
 bip_39_word_underscore_2: gesture_stool
 bip_39_word_underscore_3: gesture_stool_acid
-bip_39_word_underscore_4: gesture_stool_acid_caught
-bip_39_word_underscore_5: gesture_stool_acid_caught_choose
-bip_39_word_underscore_6: gesture_stool_acid_caught_choose_sphere
-bip_39_word_underscore_7: gesture_stool_acid_caught_choose_sphere_time
-bip_39_word_underscore_8: gesture_stool_acid_caught_choose_sphere_time_liquid
-bip_39_word_underscore_9: gesture_stool_acid_caught_choose_sphere_time_liquid_estate
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

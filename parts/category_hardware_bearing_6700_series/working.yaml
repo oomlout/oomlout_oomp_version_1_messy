@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stay
-bip_39_word_dash_10: stay-forward-fan-duty-absent-weather-abandon-core-runway-dose
-bip_39_word_dash_11: stay-forward-fan-duty-absent-weather-abandon-core-runway-dose-orphan
 bip_39_word_dash_12: stay-forward-fan-duty-absent-weather-abandon-core-runway-dose-orphan-absurd
 bip_39_word_dash_2: stay-forward
 bip_39_word_dash_3: stay-forward-fan
-bip_39_word_dash_4: stay-forward-fan-duty
-bip_39_word_dash_5: stay-forward-fan-duty-absent
-bip_39_word_dash_6: stay-forward-fan-duty-absent-weather
-bip_39_word_dash_7: stay-forward-fan-duty-absent-weather-abandon
-bip_39_word_dash_8: stay-forward-fan-duty-absent-weather-abandon-core
-bip_39_word_dash_9: stay-forward-fan-duty-absent-weather-abandon-core-runway
-bip_39_word_new_br_1: stay
-bip_39_word_new_br_10: stay<br>forward<br>fan<br>duty<br>absent<br>weather<br>abandon<br>core<br>runway<br>dose
-bip_39_word_new_br_11: stay<br>forward<br>fan<br>duty<br>absent<br>weather<br>abandon<br>core<br>runway<br>dose<br>orphan
 bip_39_word_new_br_12: stay<br>forward<br>fan<br>duty<br>absent<br>weather<br>abandon<br>core<br>runway<br>dose<br>orphan<br>absurd
 bip_39_word_new_br_2: stay<br>forward
 bip_39_word_new_br_3: stay<br>forward<br>fan
-bip_39_word_new_br_4: stay<br>forward<br>fan<br>duty
-bip_39_word_new_br_5: stay<br>forward<br>fan<br>duty<br>absent
-bip_39_word_new_br_6: stay<br>forward<br>fan<br>duty<br>absent<br>weather
-bip_39_word_new_br_7: stay<br>forward<br>fan<br>duty<br>absent<br>weather<br>abandon
-bip_39_word_new_br_8: stay<br>forward<br>fan<br>duty<br>absent<br>weather<br>abandon<br>core
-bip_39_word_new_br_9: stay<br>forward<br>fan<br>duty<br>absent<br>weather<br>abandon<br>core<br>runway
-bip_39_word_new_line_1: stay
-bip_39_word_new_line_10: 'stay
-
-  forward
-
-  fan
-
-  duty
-
-  absent
-
-  weather
-
-  abandon
-
-  core
-
-  runway
-
-  dose'
-bip_39_word_new_line_11: 'stay
-
-  forward
-
-  fan
-
-  duty
-
-  absent
-
-  weather
-
-  abandon
-
-  core
-
-  runway
-
-  dose
-
-  orphan'
 bip_39_word_new_line_12: 'stay
 
   forward
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'stay
   forward
 
   fan'
-bip_39_word_new_line_4: 'stay
-
-  forward
-
-  fan
-
-  duty'
-bip_39_word_new_line_5: 'stay
-
-  forward
-
-  fan
-
-  duty
-
-  absent'
-bip_39_word_new_line_6: 'stay
-
-  forward
-
-  fan
-
-  duty
-
-  absent
-
-  weather'
-bip_39_word_new_line_7: 'stay
-
-  forward
-
-  fan
-
-  duty
-
-  absent
-
-  weather
-
-  abandon'
-bip_39_word_new_line_8: 'stay
-
-  forward
-
-  fan
-
-  duty
-
-  absent
-
-  weather
-
-  abandon
-
-  core'
-bip_39_word_new_line_9: 'stay
-
-  forward
-
-  fan
-
-  duty
-
-  absent
-
-  weather
-
-  abandon
-
-  core
-
-  runway'
-bip_39_word_no_space_1: stay
-bip_39_word_no_space_10: stayforwardfandutyabsentweatherabandoncorerunwaydose
-bip_39_word_no_space_11: stayforwardfandutyabsentweatherabandoncorerunwaydoseorphan
 bip_39_word_no_space_12: stayforwardfandutyabsentweatherabandoncorerunwaydoseorphanabsurd
 bip_39_word_no_space_2: stayforward
 bip_39_word_no_space_3: stayforwardfan
-bip_39_word_no_space_4: stayforwardfanduty
-bip_39_word_no_space_5: stayforwardfandutyabsent
-bip_39_word_no_space_6: stayforwardfandutyabsentweather
-bip_39_word_no_space_7: stayforwardfandutyabsentweatherabandon
-bip_39_word_no_space_8: stayforwardfandutyabsentweatherabandoncore
-bip_39_word_no_space_9: stayforwardfandutyabsentweatherabandoncorerunway
-bip_39_word_space_0:
-- stay
-- forward
-- fan
-- duty
-- absent
-- weather
-- abandon
-- core
-- runway
-- dose
-- orphan
-- absurd
-bip_39_word_space_1: stay
-bip_39_word_space_10: stay forward fan duty absent weather abandon core runway dose
-bip_39_word_space_11: stay forward fan duty absent weather abandon core runway dose
-  orphan
 bip_39_word_space_12: stay forward fan duty absent weather abandon core runway dose
   orphan absurd
 bip_39_word_space_2: stay forward
 bip_39_word_space_3: stay forward fan
-bip_39_word_space_4: stay forward fan duty
-bip_39_word_space_5: stay forward fan duty absent
-bip_39_word_space_6: stay forward fan duty absent weather
-bip_39_word_space_7: stay forward fan duty absent weather abandon
-bip_39_word_space_8: stay forward fan duty absent weather abandon core
-bip_39_word_space_9: stay forward fan duty absent weather abandon core runway
-bip_39_word_underscore_1: stay
-bip_39_word_underscore_10: stay_forward_fan_duty_absent_weather_abandon_core_runway_dose
-bip_39_word_underscore_11: stay_forward_fan_duty_absent_weather_abandon_core_runway_dose_orphan
 bip_39_word_underscore_12: stay_forward_fan_duty_absent_weather_abandon_core_runway_dose_orphan_absurd
 bip_39_word_underscore_2: stay_forward
 bip_39_word_underscore_3: stay_forward_fan
-bip_39_word_underscore_4: stay_forward_fan_duty
-bip_39_word_underscore_5: stay_forward_fan_duty_absent
-bip_39_word_underscore_6: stay_forward_fan_duty_absent_weather
-bip_39_word_underscore_7: stay_forward_fan_duty_absent_weather_abandon
-bip_39_word_underscore_8: stay_forward_fan_duty_absent_weather_abandon_core
-bip_39_word_underscore_9: stay_forward_fan_duty_absent_weather_abandon_core_runway
 classification: category
 classification_capital: Category
 classification_first_letter: c

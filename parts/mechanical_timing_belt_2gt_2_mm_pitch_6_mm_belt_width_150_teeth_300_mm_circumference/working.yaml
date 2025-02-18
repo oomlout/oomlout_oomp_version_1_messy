@@ -1,68 +1,9 @@
-bip_39_word_dash_1: power
-bip_39_word_dash_10: power-owner-frown-afraid-curious-tackle-patrol-toast-hint-blossom
-bip_39_word_dash_11: power-owner-frown-afraid-curious-tackle-patrol-toast-hint-blossom-travel
 bip_39_word_dash_12: power-owner-frown-afraid-curious-tackle-patrol-toast-hint-blossom-travel-aim
 bip_39_word_dash_2: power-owner
 bip_39_word_dash_3: power-owner-frown
-bip_39_word_dash_4: power-owner-frown-afraid
-bip_39_word_dash_5: power-owner-frown-afraid-curious
-bip_39_word_dash_6: power-owner-frown-afraid-curious-tackle
-bip_39_word_dash_7: power-owner-frown-afraid-curious-tackle-patrol
-bip_39_word_dash_8: power-owner-frown-afraid-curious-tackle-patrol-toast
-bip_39_word_dash_9: power-owner-frown-afraid-curious-tackle-patrol-toast-hint
-bip_39_word_new_br_1: power
-bip_39_word_new_br_10: power<br>owner<br>frown<br>afraid<br>curious<br>tackle<br>patrol<br>toast<br>hint<br>blossom
-bip_39_word_new_br_11: power<br>owner<br>frown<br>afraid<br>curious<br>tackle<br>patrol<br>toast<br>hint<br>blossom<br>travel
 bip_39_word_new_br_12: power<br>owner<br>frown<br>afraid<br>curious<br>tackle<br>patrol<br>toast<br>hint<br>blossom<br>travel<br>aim
 bip_39_word_new_br_2: power<br>owner
 bip_39_word_new_br_3: power<br>owner<br>frown
-bip_39_word_new_br_4: power<br>owner<br>frown<br>afraid
-bip_39_word_new_br_5: power<br>owner<br>frown<br>afraid<br>curious
-bip_39_word_new_br_6: power<br>owner<br>frown<br>afraid<br>curious<br>tackle
-bip_39_word_new_br_7: power<br>owner<br>frown<br>afraid<br>curious<br>tackle<br>patrol
-bip_39_word_new_br_8: power<br>owner<br>frown<br>afraid<br>curious<br>tackle<br>patrol<br>toast
-bip_39_word_new_br_9: power<br>owner<br>frown<br>afraid<br>curious<br>tackle<br>patrol<br>toast<br>hint
-bip_39_word_new_line_1: power
-bip_39_word_new_line_10: 'power
-
-  owner
-
-  frown
-
-  afraid
-
-  curious
-
-  tackle
-
-  patrol
-
-  toast
-
-  hint
-
-  blossom'
-bip_39_word_new_line_11: 'power
-
-  owner
-
-  frown
-
-  afraid
-
-  curious
-
-  tackle
-
-  patrol
-
-  toast
-
-  hint
-
-  blossom
-
-  travel'
 bip_39_word_new_line_12: 'power
 
   owner
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'power
   owner
 
   frown'
-bip_39_word_new_line_4: 'power
-
-  owner
-
-  frown
-
-  afraid'
-bip_39_word_new_line_5: 'power
-
-  owner
-
-  frown
-
-  afraid
-
-  curious'
-bip_39_word_new_line_6: 'power
-
-  owner
-
-  frown
-
-  afraid
-
-  curious
-
-  tackle'
-bip_39_word_new_line_7: 'power
-
-  owner
-
-  frown
-
-  afraid
-
-  curious
-
-  tackle
-
-  patrol'
-bip_39_word_new_line_8: 'power
-
-  owner
-
-  frown
-
-  afraid
-
-  curious
-
-  tackle
-
-  patrol
-
-  toast'
-bip_39_word_new_line_9: 'power
-
-  owner
-
-  frown
-
-  afraid
-
-  curious
-
-  tackle
-
-  patrol
-
-  toast
-
-  hint'
-bip_39_word_no_space_1: power
-bip_39_word_no_space_10: powerownerfrownafraidcurioustacklepatroltoasthintblossom
-bip_39_word_no_space_11: powerownerfrownafraidcurioustacklepatroltoasthintblossomtravel
 bip_39_word_no_space_12: powerownerfrownafraidcurioustacklepatroltoasthintblossomtravelaim
 bip_39_word_no_space_2: powerowner
 bip_39_word_no_space_3: powerownerfrown
-bip_39_word_no_space_4: powerownerfrownafraid
-bip_39_word_no_space_5: powerownerfrownafraidcurious
-bip_39_word_no_space_6: powerownerfrownafraidcurioustackle
-bip_39_word_no_space_7: powerownerfrownafraidcurioustacklepatrol
-bip_39_word_no_space_8: powerownerfrownafraidcurioustacklepatroltoast
-bip_39_word_no_space_9: powerownerfrownafraidcurioustacklepatroltoasthint
-bip_39_word_space_0:
-- power
-- owner
-- frown
-- afraid
-- curious
-- tackle
-- patrol
-- toast
-- hint
-- blossom
-- travel
-- aim
-bip_39_word_space_1: power
-bip_39_word_space_10: power owner frown afraid curious tackle patrol toast hint blossom
-bip_39_word_space_11: power owner frown afraid curious tackle patrol toast hint blossom
-  travel
 bip_39_word_space_12: power owner frown afraid curious tackle patrol toast hint blossom
   travel aim
 bip_39_word_space_2: power owner
 bip_39_word_space_3: power owner frown
-bip_39_word_space_4: power owner frown afraid
-bip_39_word_space_5: power owner frown afraid curious
-bip_39_word_space_6: power owner frown afraid curious tackle
-bip_39_word_space_7: power owner frown afraid curious tackle patrol
-bip_39_word_space_8: power owner frown afraid curious tackle patrol toast
-bip_39_word_space_9: power owner frown afraid curious tackle patrol toast hint
-bip_39_word_underscore_1: power
-bip_39_word_underscore_10: power_owner_frown_afraid_curious_tackle_patrol_toast_hint_blossom
-bip_39_word_underscore_11: power_owner_frown_afraid_curious_tackle_patrol_toast_hint_blossom_travel
 bip_39_word_underscore_12: power_owner_frown_afraid_curious_tackle_patrol_toast_hint_blossom_travel_aim
 bip_39_word_underscore_2: power_owner
 bip_39_word_underscore_3: power_owner_frown
-bip_39_word_underscore_4: power_owner_frown_afraid
-bip_39_word_underscore_5: power_owner_frown_afraid_curious
-bip_39_word_underscore_6: power_owner_frown_afraid_curious_tackle
-bip_39_word_underscore_7: power_owner_frown_afraid_curious_tackle_patrol
-bip_39_word_underscore_8: power_owner_frown_afraid_curious_tackle_patrol_toast
-bip_39_word_underscore_9: power_owner_frown_afraid_curious_tackle_patrol_toast_hint
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

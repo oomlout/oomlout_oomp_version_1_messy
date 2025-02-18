@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gaze
-bip_39_word_dash_10: gaze-eye-hammer-regular-state-eagle-orbit-mask-dinner-vicious
-bip_39_word_dash_11: gaze-eye-hammer-regular-state-eagle-orbit-mask-dinner-vicious-nose
 bip_39_word_dash_12: gaze-eye-hammer-regular-state-eagle-orbit-mask-dinner-vicious-nose-assault
 bip_39_word_dash_2: gaze-eye
 bip_39_word_dash_3: gaze-eye-hammer
-bip_39_word_dash_4: gaze-eye-hammer-regular
-bip_39_word_dash_5: gaze-eye-hammer-regular-state
-bip_39_word_dash_6: gaze-eye-hammer-regular-state-eagle
-bip_39_word_dash_7: gaze-eye-hammer-regular-state-eagle-orbit
-bip_39_word_dash_8: gaze-eye-hammer-regular-state-eagle-orbit-mask
-bip_39_word_dash_9: gaze-eye-hammer-regular-state-eagle-orbit-mask-dinner
-bip_39_word_new_br_1: gaze
-bip_39_word_new_br_10: gaze<br>eye<br>hammer<br>regular<br>state<br>eagle<br>orbit<br>mask<br>dinner<br>vicious
-bip_39_word_new_br_11: gaze<br>eye<br>hammer<br>regular<br>state<br>eagle<br>orbit<br>mask<br>dinner<br>vicious<br>nose
 bip_39_word_new_br_12: gaze<br>eye<br>hammer<br>regular<br>state<br>eagle<br>orbit<br>mask<br>dinner<br>vicious<br>nose<br>assault
 bip_39_word_new_br_2: gaze<br>eye
 bip_39_word_new_br_3: gaze<br>eye<br>hammer
-bip_39_word_new_br_4: gaze<br>eye<br>hammer<br>regular
-bip_39_word_new_br_5: gaze<br>eye<br>hammer<br>regular<br>state
-bip_39_word_new_br_6: gaze<br>eye<br>hammer<br>regular<br>state<br>eagle
-bip_39_word_new_br_7: gaze<br>eye<br>hammer<br>regular<br>state<br>eagle<br>orbit
-bip_39_word_new_br_8: gaze<br>eye<br>hammer<br>regular<br>state<br>eagle<br>orbit<br>mask
-bip_39_word_new_br_9: gaze<br>eye<br>hammer<br>regular<br>state<br>eagle<br>orbit<br>mask<br>dinner
-bip_39_word_new_line_1: gaze
-bip_39_word_new_line_10: 'gaze
-
-  eye
-
-  hammer
-
-  regular
-
-  state
-
-  eagle
-
-  orbit
-
-  mask
-
-  dinner
-
-  vicious'
-bip_39_word_new_line_11: 'gaze
-
-  eye
-
-  hammer
-
-  regular
-
-  state
-
-  eagle
-
-  orbit
-
-  mask
-
-  dinner
-
-  vicious
-
-  nose'
 bip_39_word_new_line_12: 'gaze
 
   eye
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gaze
   eye
 
   hammer'
-bip_39_word_new_line_4: 'gaze
-
-  eye
-
-  hammer
-
-  regular'
-bip_39_word_new_line_5: 'gaze
-
-  eye
-
-  hammer
-
-  regular
-
-  state'
-bip_39_word_new_line_6: 'gaze
-
-  eye
-
-  hammer
-
-  regular
-
-  state
-
-  eagle'
-bip_39_word_new_line_7: 'gaze
-
-  eye
-
-  hammer
-
-  regular
-
-  state
-
-  eagle
-
-  orbit'
-bip_39_word_new_line_8: 'gaze
-
-  eye
-
-  hammer
-
-  regular
-
-  state
-
-  eagle
-
-  orbit
-
-  mask'
-bip_39_word_new_line_9: 'gaze
-
-  eye
-
-  hammer
-
-  regular
-
-  state
-
-  eagle
-
-  orbit
-
-  mask
-
-  dinner'
-bip_39_word_no_space_1: gaze
-bip_39_word_no_space_10: gazeeyehammerregularstateeagleorbitmaskdinnervicious
-bip_39_word_no_space_11: gazeeyehammerregularstateeagleorbitmaskdinnerviciousnose
 bip_39_word_no_space_12: gazeeyehammerregularstateeagleorbitmaskdinnerviciousnoseassault
 bip_39_word_no_space_2: gazeeye
 bip_39_word_no_space_3: gazeeyehammer
-bip_39_word_no_space_4: gazeeyehammerregular
-bip_39_word_no_space_5: gazeeyehammerregularstate
-bip_39_word_no_space_6: gazeeyehammerregularstateeagle
-bip_39_word_no_space_7: gazeeyehammerregularstateeagleorbit
-bip_39_word_no_space_8: gazeeyehammerregularstateeagleorbitmask
-bip_39_word_no_space_9: gazeeyehammerregularstateeagleorbitmaskdinner
-bip_39_word_space_0:
-- gaze
-- eye
-- hammer
-- regular
-- state
-- eagle
-- orbit
-- mask
-- dinner
-- vicious
-- nose
-- assault
-bip_39_word_space_1: gaze
-bip_39_word_space_10: gaze eye hammer regular state eagle orbit mask dinner vicious
-bip_39_word_space_11: gaze eye hammer regular state eagle orbit mask dinner vicious
-  nose
 bip_39_word_space_12: gaze eye hammer regular state eagle orbit mask dinner vicious
   nose assault
 bip_39_word_space_2: gaze eye
 bip_39_word_space_3: gaze eye hammer
-bip_39_word_space_4: gaze eye hammer regular
-bip_39_word_space_5: gaze eye hammer regular state
-bip_39_word_space_6: gaze eye hammer regular state eagle
-bip_39_word_space_7: gaze eye hammer regular state eagle orbit
-bip_39_word_space_8: gaze eye hammer regular state eagle orbit mask
-bip_39_word_space_9: gaze eye hammer regular state eagle orbit mask dinner
-bip_39_word_underscore_1: gaze
-bip_39_word_underscore_10: gaze_eye_hammer_regular_state_eagle_orbit_mask_dinner_vicious
-bip_39_word_underscore_11: gaze_eye_hammer_regular_state_eagle_orbit_mask_dinner_vicious_nose
 bip_39_word_underscore_12: gaze_eye_hammer_regular_state_eagle_orbit_mask_dinner_vicious_nose_assault
 bip_39_word_underscore_2: gaze_eye
 bip_39_word_underscore_3: gaze_eye_hammer
-bip_39_word_underscore_4: gaze_eye_hammer_regular
-bip_39_word_underscore_5: gaze_eye_hammer_regular_state
-bip_39_word_underscore_6: gaze_eye_hammer_regular_state_eagle
-bip_39_word_underscore_7: gaze_eye_hammer_regular_state_eagle_orbit
-bip_39_word_underscore_8: gaze_eye_hammer_regular_state_eagle_orbit_mask
-bip_39_word_underscore_9: gaze_eye_hammer_regular_state_eagle_orbit_mask_dinner
 classification: category
 classification_capital: Category
 classification_first_letter: c

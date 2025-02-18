@@ -1,68 +1,9 @@
-bip_39_word_dash_1: alpha
-bip_39_word_dash_10: alpha-coyote-sense-soon-monitor-actor-educate-figure-sleep-cancel
-bip_39_word_dash_11: alpha-coyote-sense-soon-monitor-actor-educate-figure-sleep-cancel-foster
 bip_39_word_dash_12: alpha-coyote-sense-soon-monitor-actor-educate-figure-sleep-cancel-foster-acquire
 bip_39_word_dash_2: alpha-coyote
 bip_39_word_dash_3: alpha-coyote-sense
-bip_39_word_dash_4: alpha-coyote-sense-soon
-bip_39_word_dash_5: alpha-coyote-sense-soon-monitor
-bip_39_word_dash_6: alpha-coyote-sense-soon-monitor-actor
-bip_39_word_dash_7: alpha-coyote-sense-soon-monitor-actor-educate
-bip_39_word_dash_8: alpha-coyote-sense-soon-monitor-actor-educate-figure
-bip_39_word_dash_9: alpha-coyote-sense-soon-monitor-actor-educate-figure-sleep
-bip_39_word_new_br_1: alpha
-bip_39_word_new_br_10: alpha<br>coyote<br>sense<br>soon<br>monitor<br>actor<br>educate<br>figure<br>sleep<br>cancel
-bip_39_word_new_br_11: alpha<br>coyote<br>sense<br>soon<br>monitor<br>actor<br>educate<br>figure<br>sleep<br>cancel<br>foster
 bip_39_word_new_br_12: alpha<br>coyote<br>sense<br>soon<br>monitor<br>actor<br>educate<br>figure<br>sleep<br>cancel<br>foster<br>acquire
 bip_39_word_new_br_2: alpha<br>coyote
 bip_39_word_new_br_3: alpha<br>coyote<br>sense
-bip_39_word_new_br_4: alpha<br>coyote<br>sense<br>soon
-bip_39_word_new_br_5: alpha<br>coyote<br>sense<br>soon<br>monitor
-bip_39_word_new_br_6: alpha<br>coyote<br>sense<br>soon<br>monitor<br>actor
-bip_39_word_new_br_7: alpha<br>coyote<br>sense<br>soon<br>monitor<br>actor<br>educate
-bip_39_word_new_br_8: alpha<br>coyote<br>sense<br>soon<br>monitor<br>actor<br>educate<br>figure
-bip_39_word_new_br_9: alpha<br>coyote<br>sense<br>soon<br>monitor<br>actor<br>educate<br>figure<br>sleep
-bip_39_word_new_line_1: alpha
-bip_39_word_new_line_10: 'alpha
-
-  coyote
-
-  sense
-
-  soon
-
-  monitor
-
-  actor
-
-  educate
-
-  figure
-
-  sleep
-
-  cancel'
-bip_39_word_new_line_11: 'alpha
-
-  coyote
-
-  sense
-
-  soon
-
-  monitor
-
-  actor
-
-  educate
-
-  figure
-
-  sleep
-
-  cancel
-
-  foster'
 bip_39_word_new_line_12: 'alpha
 
   coyote
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'alpha
   coyote
 
   sense'
-bip_39_word_new_line_4: 'alpha
-
-  coyote
-
-  sense
-
-  soon'
-bip_39_word_new_line_5: 'alpha
-
-  coyote
-
-  sense
-
-  soon
-
-  monitor'
-bip_39_word_new_line_6: 'alpha
-
-  coyote
-
-  sense
-
-  soon
-
-  monitor
-
-  actor'
-bip_39_word_new_line_7: 'alpha
-
-  coyote
-
-  sense
-
-  soon
-
-  monitor
-
-  actor
-
-  educate'
-bip_39_word_new_line_8: 'alpha
-
-  coyote
-
-  sense
-
-  soon
-
-  monitor
-
-  actor
-
-  educate
-
-  figure'
-bip_39_word_new_line_9: 'alpha
-
-  coyote
-
-  sense
-
-  soon
-
-  monitor
-
-  actor
-
-  educate
-
-  figure
-
-  sleep'
-bip_39_word_no_space_1: alpha
-bip_39_word_no_space_10: alphacoyotesensesoonmonitoractoreducatefiguresleepcancel
-bip_39_word_no_space_11: alphacoyotesensesoonmonitoractoreducatefiguresleepcancelfoster
 bip_39_word_no_space_12: alphacoyotesensesoonmonitoractoreducatefiguresleepcancelfosteracquire
 bip_39_word_no_space_2: alphacoyote
 bip_39_word_no_space_3: alphacoyotesense
-bip_39_word_no_space_4: alphacoyotesensesoon
-bip_39_word_no_space_5: alphacoyotesensesoonmonitor
-bip_39_word_no_space_6: alphacoyotesensesoonmonitoractor
-bip_39_word_no_space_7: alphacoyotesensesoonmonitoractoreducate
-bip_39_word_no_space_8: alphacoyotesensesoonmonitoractoreducatefigure
-bip_39_word_no_space_9: alphacoyotesensesoonmonitoractoreducatefiguresleep
-bip_39_word_space_0:
-- alpha
-- coyote
-- sense
-- soon
-- monitor
-- actor
-- educate
-- figure
-- sleep
-- cancel
-- foster
-- acquire
-bip_39_word_space_1: alpha
-bip_39_word_space_10: alpha coyote sense soon monitor actor educate figure sleep cancel
-bip_39_word_space_11: alpha coyote sense soon monitor actor educate figure sleep cancel
-  foster
 bip_39_word_space_12: alpha coyote sense soon monitor actor educate figure sleep cancel
   foster acquire
 bip_39_word_space_2: alpha coyote
 bip_39_word_space_3: alpha coyote sense
-bip_39_word_space_4: alpha coyote sense soon
-bip_39_word_space_5: alpha coyote sense soon monitor
-bip_39_word_space_6: alpha coyote sense soon monitor actor
-bip_39_word_space_7: alpha coyote sense soon monitor actor educate
-bip_39_word_space_8: alpha coyote sense soon monitor actor educate figure
-bip_39_word_space_9: alpha coyote sense soon monitor actor educate figure sleep
-bip_39_word_underscore_1: alpha
-bip_39_word_underscore_10: alpha_coyote_sense_soon_monitor_actor_educate_figure_sleep_cancel
-bip_39_word_underscore_11: alpha_coyote_sense_soon_monitor_actor_educate_figure_sleep_cancel_foster
 bip_39_word_underscore_12: alpha_coyote_sense_soon_monitor_actor_educate_figure_sleep_cancel_foster_acquire
 bip_39_word_underscore_2: alpha_coyote
 bip_39_word_underscore_3: alpha_coyote_sense
-bip_39_word_underscore_4: alpha_coyote_sense_soon
-bip_39_word_underscore_5: alpha_coyote_sense_soon_monitor
-bip_39_word_underscore_6: alpha_coyote_sense_soon_monitor_actor
-bip_39_word_underscore_7: alpha_coyote_sense_soon_monitor_actor_educate
-bip_39_word_underscore_8: alpha_coyote_sense_soon_monitor_actor_educate_figure
-bip_39_word_underscore_9: alpha_coyote_sense_soon_monitor_actor_educate_figure_sleep
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

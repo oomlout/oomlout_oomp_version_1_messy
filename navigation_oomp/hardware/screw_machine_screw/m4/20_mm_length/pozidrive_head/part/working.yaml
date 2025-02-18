@@ -1,68 +1,9 @@
-bip_39_word_dash_1: regret
-bip_39_word_dash_10: regret-hen-stereo-sting-pulp-print-shy-lava-road-fog
-bip_39_word_dash_11: regret-hen-stereo-sting-pulp-print-shy-lava-road-fog-welcome
 bip_39_word_dash_12: regret-hen-stereo-sting-pulp-print-shy-lava-road-fog-welcome-aspect
 bip_39_word_dash_2: regret-hen
 bip_39_word_dash_3: regret-hen-stereo
-bip_39_word_dash_4: regret-hen-stereo-sting
-bip_39_word_dash_5: regret-hen-stereo-sting-pulp
-bip_39_word_dash_6: regret-hen-stereo-sting-pulp-print
-bip_39_word_dash_7: regret-hen-stereo-sting-pulp-print-shy
-bip_39_word_dash_8: regret-hen-stereo-sting-pulp-print-shy-lava
-bip_39_word_dash_9: regret-hen-stereo-sting-pulp-print-shy-lava-road
-bip_39_word_new_br_1: regret
-bip_39_word_new_br_10: regret<br>hen<br>stereo<br>sting<br>pulp<br>print<br>shy<br>lava<br>road<br>fog
-bip_39_word_new_br_11: regret<br>hen<br>stereo<br>sting<br>pulp<br>print<br>shy<br>lava<br>road<br>fog<br>welcome
 bip_39_word_new_br_12: regret<br>hen<br>stereo<br>sting<br>pulp<br>print<br>shy<br>lava<br>road<br>fog<br>welcome<br>aspect
 bip_39_word_new_br_2: regret<br>hen
 bip_39_word_new_br_3: regret<br>hen<br>stereo
-bip_39_word_new_br_4: regret<br>hen<br>stereo<br>sting
-bip_39_word_new_br_5: regret<br>hen<br>stereo<br>sting<br>pulp
-bip_39_word_new_br_6: regret<br>hen<br>stereo<br>sting<br>pulp<br>print
-bip_39_word_new_br_7: regret<br>hen<br>stereo<br>sting<br>pulp<br>print<br>shy
-bip_39_word_new_br_8: regret<br>hen<br>stereo<br>sting<br>pulp<br>print<br>shy<br>lava
-bip_39_word_new_br_9: regret<br>hen<br>stereo<br>sting<br>pulp<br>print<br>shy<br>lava<br>road
-bip_39_word_new_line_1: regret
-bip_39_word_new_line_10: 'regret
-
-  hen
-
-  stereo
-
-  sting
-
-  pulp
-
-  print
-
-  shy
-
-  lava
-
-  road
-
-  fog'
-bip_39_word_new_line_11: 'regret
-
-  hen
-
-  stereo
-
-  sting
-
-  pulp
-
-  print
-
-  shy
-
-  lava
-
-  road
-
-  fog
-
-  welcome'
 bip_39_word_new_line_12: 'regret
 
   hen
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'regret
   hen
 
   stereo'
-bip_39_word_new_line_4: 'regret
-
-  hen
-
-  stereo
-
-  sting'
-bip_39_word_new_line_5: 'regret
-
-  hen
-
-  stereo
-
-  sting
-
-  pulp'
-bip_39_word_new_line_6: 'regret
-
-  hen
-
-  stereo
-
-  sting
-
-  pulp
-
-  print'
-bip_39_word_new_line_7: 'regret
-
-  hen
-
-  stereo
-
-  sting
-
-  pulp
-
-  print
-
-  shy'
-bip_39_word_new_line_8: 'regret
-
-  hen
-
-  stereo
-
-  sting
-
-  pulp
-
-  print
-
-  shy
-
-  lava'
-bip_39_word_new_line_9: 'regret
-
-  hen
-
-  stereo
-
-  sting
-
-  pulp
-
-  print
-
-  shy
-
-  lava
-
-  road'
-bip_39_word_no_space_1: regret
-bip_39_word_no_space_10: regrethenstereostingpulpprintshylavaroadfog
-bip_39_word_no_space_11: regrethenstereostingpulpprintshylavaroadfogwelcome
 bip_39_word_no_space_12: regrethenstereostingpulpprintshylavaroadfogwelcomeaspect
 bip_39_word_no_space_2: regrethen
 bip_39_word_no_space_3: regrethenstereo
-bip_39_word_no_space_4: regrethenstereosting
-bip_39_word_no_space_5: regrethenstereostingpulp
-bip_39_word_no_space_6: regrethenstereostingpulpprint
-bip_39_word_no_space_7: regrethenstereostingpulpprintshy
-bip_39_word_no_space_8: regrethenstereostingpulpprintshylava
-bip_39_word_no_space_9: regrethenstereostingpulpprintshylavaroad
-bip_39_word_space_0:
-- regret
-- hen
-- stereo
-- sting
-- pulp
-- print
-- shy
-- lava
-- road
-- fog
-- welcome
-- aspect
-bip_39_word_space_1: regret
-bip_39_word_space_10: regret hen stereo sting pulp print shy lava road fog
-bip_39_word_space_11: regret hen stereo sting pulp print shy lava road fog welcome
 bip_39_word_space_12: regret hen stereo sting pulp print shy lava road fog welcome
   aspect
 bip_39_word_space_2: regret hen
 bip_39_word_space_3: regret hen stereo
-bip_39_word_space_4: regret hen stereo sting
-bip_39_word_space_5: regret hen stereo sting pulp
-bip_39_word_space_6: regret hen stereo sting pulp print
-bip_39_word_space_7: regret hen stereo sting pulp print shy
-bip_39_word_space_8: regret hen stereo sting pulp print shy lava
-bip_39_word_space_9: regret hen stereo sting pulp print shy lava road
-bip_39_word_underscore_1: regret
-bip_39_word_underscore_10: regret_hen_stereo_sting_pulp_print_shy_lava_road_fog
-bip_39_word_underscore_11: regret_hen_stereo_sting_pulp_print_shy_lava_road_fog_welcome
 bip_39_word_underscore_12: regret_hen_stereo_sting_pulp_print_shy_lava_road_fog_welcome_aspect
 bip_39_word_underscore_2: regret_hen
 bip_39_word_underscore_3: regret_hen_stereo
-bip_39_word_underscore_4: regret_hen_stereo_sting
-bip_39_word_underscore_5: regret_hen_stereo_sting_pulp
-bip_39_word_underscore_6: regret_hen_stereo_sting_pulp_print
-bip_39_word_underscore_7: regret_hen_stereo_sting_pulp_print_shy
-bip_39_word_underscore_8: regret_hen_stereo_sting_pulp_print_shy_lava
-bip_39_word_underscore_9: regret_hen_stereo_sting_pulp_print_shy_lava_road
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

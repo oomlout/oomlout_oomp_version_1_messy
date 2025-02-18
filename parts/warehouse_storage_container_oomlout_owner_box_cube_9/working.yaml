@@ -1,68 +1,9 @@
-bip_39_word_dash_1: abandon
-bip_39_word_dash_10: abandon-appear-pave-blade-one-pill-warfare-aisle-spring-tide
-bip_39_word_dash_11: abandon-appear-pave-blade-one-pill-warfare-aisle-spring-tide-boring
 bip_39_word_dash_12: abandon-appear-pave-blade-one-pill-warfare-aisle-spring-tide-boring-another
 bip_39_word_dash_2: abandon-appear
 bip_39_word_dash_3: abandon-appear-pave
-bip_39_word_dash_4: abandon-appear-pave-blade
-bip_39_word_dash_5: abandon-appear-pave-blade-one
-bip_39_word_dash_6: abandon-appear-pave-blade-one-pill
-bip_39_word_dash_7: abandon-appear-pave-blade-one-pill-warfare
-bip_39_word_dash_8: abandon-appear-pave-blade-one-pill-warfare-aisle
-bip_39_word_dash_9: abandon-appear-pave-blade-one-pill-warfare-aisle-spring
-bip_39_word_new_br_1: abandon
-bip_39_word_new_br_10: abandon<br>appear<br>pave<br>blade<br>one<br>pill<br>warfare<br>aisle<br>spring<br>tide
-bip_39_word_new_br_11: abandon<br>appear<br>pave<br>blade<br>one<br>pill<br>warfare<br>aisle<br>spring<br>tide<br>boring
 bip_39_word_new_br_12: abandon<br>appear<br>pave<br>blade<br>one<br>pill<br>warfare<br>aisle<br>spring<br>tide<br>boring<br>another
 bip_39_word_new_br_2: abandon<br>appear
 bip_39_word_new_br_3: abandon<br>appear<br>pave
-bip_39_word_new_br_4: abandon<br>appear<br>pave<br>blade
-bip_39_word_new_br_5: abandon<br>appear<br>pave<br>blade<br>one
-bip_39_word_new_br_6: abandon<br>appear<br>pave<br>blade<br>one<br>pill
-bip_39_word_new_br_7: abandon<br>appear<br>pave<br>blade<br>one<br>pill<br>warfare
-bip_39_word_new_br_8: abandon<br>appear<br>pave<br>blade<br>one<br>pill<br>warfare<br>aisle
-bip_39_word_new_br_9: abandon<br>appear<br>pave<br>blade<br>one<br>pill<br>warfare<br>aisle<br>spring
-bip_39_word_new_line_1: abandon
-bip_39_word_new_line_10: 'abandon
-
-  appear
-
-  pave
-
-  blade
-
-  one
-
-  pill
-
-  warfare
-
-  aisle
-
-  spring
-
-  tide'
-bip_39_word_new_line_11: 'abandon
-
-  appear
-
-  pave
-
-  blade
-
-  one
-
-  pill
-
-  warfare
-
-  aisle
-
-  spring
-
-  tide
-
-  boring'
 bip_39_word_new_line_12: 'abandon
 
   appear
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'abandon
   appear
 
   pave'
-bip_39_word_new_line_4: 'abandon
-
-  appear
-
-  pave
-
-  blade'
-bip_39_word_new_line_5: 'abandon
-
-  appear
-
-  pave
-
-  blade
-
-  one'
-bip_39_word_new_line_6: 'abandon
-
-  appear
-
-  pave
-
-  blade
-
-  one
-
-  pill'
-bip_39_word_new_line_7: 'abandon
-
-  appear
-
-  pave
-
-  blade
-
-  one
-
-  pill
-
-  warfare'
-bip_39_word_new_line_8: 'abandon
-
-  appear
-
-  pave
-
-  blade
-
-  one
-
-  pill
-
-  warfare
-
-  aisle'
-bip_39_word_new_line_9: 'abandon
-
-  appear
-
-  pave
-
-  blade
-
-  one
-
-  pill
-
-  warfare
-
-  aisle
-
-  spring'
-bip_39_word_no_space_1: abandon
-bip_39_word_no_space_10: abandonappearpavebladeonepillwarfareaislespringtide
-bip_39_word_no_space_11: abandonappearpavebladeonepillwarfareaislespringtideboring
 bip_39_word_no_space_12: abandonappearpavebladeonepillwarfareaislespringtideboringanother
 bip_39_word_no_space_2: abandonappear
 bip_39_word_no_space_3: abandonappearpave
-bip_39_word_no_space_4: abandonappearpaveblade
-bip_39_word_no_space_5: abandonappearpavebladeone
-bip_39_word_no_space_6: abandonappearpavebladeonepill
-bip_39_word_no_space_7: abandonappearpavebladeonepillwarfare
-bip_39_word_no_space_8: abandonappearpavebladeonepillwarfareaisle
-bip_39_word_no_space_9: abandonappearpavebladeonepillwarfareaislespring
-bip_39_word_space_0:
-- abandon
-- appear
-- pave
-- blade
-- one
-- pill
-- warfare
-- aisle
-- spring
-- tide
-- boring
-- another
-bip_39_word_space_1: abandon
-bip_39_word_space_10: abandon appear pave blade one pill warfare aisle spring tide
-bip_39_word_space_11: abandon appear pave blade one pill warfare aisle spring tide
-  boring
 bip_39_word_space_12: abandon appear pave blade one pill warfare aisle spring tide
   boring another
 bip_39_word_space_2: abandon appear
 bip_39_word_space_3: abandon appear pave
-bip_39_word_space_4: abandon appear pave blade
-bip_39_word_space_5: abandon appear pave blade one
-bip_39_word_space_6: abandon appear pave blade one pill
-bip_39_word_space_7: abandon appear pave blade one pill warfare
-bip_39_word_space_8: abandon appear pave blade one pill warfare aisle
-bip_39_word_space_9: abandon appear pave blade one pill warfare aisle spring
-bip_39_word_underscore_1: abandon
-bip_39_word_underscore_10: abandon_appear_pave_blade_one_pill_warfare_aisle_spring_tide
-bip_39_word_underscore_11: abandon_appear_pave_blade_one_pill_warfare_aisle_spring_tide_boring
 bip_39_word_underscore_12: abandon_appear_pave_blade_one_pill_warfare_aisle_spring_tide_boring_another
 bip_39_word_underscore_2: abandon_appear
 bip_39_word_underscore_3: abandon_appear_pave
-bip_39_word_underscore_4: abandon_appear_pave_blade
-bip_39_word_underscore_5: abandon_appear_pave_blade_one
-bip_39_word_underscore_6: abandon_appear_pave_blade_one_pill
-bip_39_word_underscore_7: abandon_appear_pave_blade_one_pill_warfare
-bip_39_word_underscore_8: abandon_appear_pave_blade_one_pill_warfare_aisle
-bip_39_word_underscore_9: abandon_appear_pave_blade_one_pill_warfare_aisle_spring
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

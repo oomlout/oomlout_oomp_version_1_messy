@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sad
-bip_39_word_dash_10: sad-barrel-dash-add-earth-collect-explain-inject-mule-label
-bip_39_word_dash_11: sad-barrel-dash-add-earth-collect-explain-inject-mule-label-street
 bip_39_word_dash_12: sad-barrel-dash-add-earth-collect-explain-inject-mule-label-street-ask
 bip_39_word_dash_2: sad-barrel
 bip_39_word_dash_3: sad-barrel-dash
-bip_39_word_dash_4: sad-barrel-dash-add
-bip_39_word_dash_5: sad-barrel-dash-add-earth
-bip_39_word_dash_6: sad-barrel-dash-add-earth-collect
-bip_39_word_dash_7: sad-barrel-dash-add-earth-collect-explain
-bip_39_word_dash_8: sad-barrel-dash-add-earth-collect-explain-inject
-bip_39_word_dash_9: sad-barrel-dash-add-earth-collect-explain-inject-mule
-bip_39_word_new_br_1: sad
-bip_39_word_new_br_10: sad<br>barrel<br>dash<br>add<br>earth<br>collect<br>explain<br>inject<br>mule<br>label
-bip_39_word_new_br_11: sad<br>barrel<br>dash<br>add<br>earth<br>collect<br>explain<br>inject<br>mule<br>label<br>street
 bip_39_word_new_br_12: sad<br>barrel<br>dash<br>add<br>earth<br>collect<br>explain<br>inject<br>mule<br>label<br>street<br>ask
 bip_39_word_new_br_2: sad<br>barrel
 bip_39_word_new_br_3: sad<br>barrel<br>dash
-bip_39_word_new_br_4: sad<br>barrel<br>dash<br>add
-bip_39_word_new_br_5: sad<br>barrel<br>dash<br>add<br>earth
-bip_39_word_new_br_6: sad<br>barrel<br>dash<br>add<br>earth<br>collect
-bip_39_word_new_br_7: sad<br>barrel<br>dash<br>add<br>earth<br>collect<br>explain
-bip_39_word_new_br_8: sad<br>barrel<br>dash<br>add<br>earth<br>collect<br>explain<br>inject
-bip_39_word_new_br_9: sad<br>barrel<br>dash<br>add<br>earth<br>collect<br>explain<br>inject<br>mule
-bip_39_word_new_line_1: sad
-bip_39_word_new_line_10: 'sad
-
-  barrel
-
-  dash
-
-  add
-
-  earth
-
-  collect
-
-  explain
-
-  inject
-
-  mule
-
-  label'
-bip_39_word_new_line_11: 'sad
-
-  barrel
-
-  dash
-
-  add
-
-  earth
-
-  collect
-
-  explain
-
-  inject
-
-  mule
-
-  label
-
-  street'
 bip_39_word_new_line_12: 'sad
 
   barrel
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sad
   barrel
 
   dash'
-bip_39_word_new_line_4: 'sad
-
-  barrel
-
-  dash
-
-  add'
-bip_39_word_new_line_5: 'sad
-
-  barrel
-
-  dash
-
-  add
-
-  earth'
-bip_39_word_new_line_6: 'sad
-
-  barrel
-
-  dash
-
-  add
-
-  earth
-
-  collect'
-bip_39_word_new_line_7: 'sad
-
-  barrel
-
-  dash
-
-  add
-
-  earth
-
-  collect
-
-  explain'
-bip_39_word_new_line_8: 'sad
-
-  barrel
-
-  dash
-
-  add
-
-  earth
-
-  collect
-
-  explain
-
-  inject'
-bip_39_word_new_line_9: 'sad
-
-  barrel
-
-  dash
-
-  add
-
-  earth
-
-  collect
-
-  explain
-
-  inject
-
-  mule'
-bip_39_word_no_space_1: sad
-bip_39_word_no_space_10: sadbarreldashaddearthcollectexplaininjectmulelabel
-bip_39_word_no_space_11: sadbarreldashaddearthcollectexplaininjectmulelabelstreet
 bip_39_word_no_space_12: sadbarreldashaddearthcollectexplaininjectmulelabelstreetask
 bip_39_word_no_space_2: sadbarrel
 bip_39_word_no_space_3: sadbarreldash
-bip_39_word_no_space_4: sadbarreldashadd
-bip_39_word_no_space_5: sadbarreldashaddearth
-bip_39_word_no_space_6: sadbarreldashaddearthcollect
-bip_39_word_no_space_7: sadbarreldashaddearthcollectexplain
-bip_39_word_no_space_8: sadbarreldashaddearthcollectexplaininject
-bip_39_word_no_space_9: sadbarreldashaddearthcollectexplaininjectmule
-bip_39_word_space_0:
-- sad
-- barrel
-- dash
-- add
-- earth
-- collect
-- explain
-- inject
-- mule
-- label
-- street
-- ask
-bip_39_word_space_1: sad
-bip_39_word_space_10: sad barrel dash add earth collect explain inject mule label
-bip_39_word_space_11: sad barrel dash add earth collect explain inject mule label
-  street
 bip_39_word_space_12: sad barrel dash add earth collect explain inject mule label
   street ask
 bip_39_word_space_2: sad barrel
 bip_39_word_space_3: sad barrel dash
-bip_39_word_space_4: sad barrel dash add
-bip_39_word_space_5: sad barrel dash add earth
-bip_39_word_space_6: sad barrel dash add earth collect
-bip_39_word_space_7: sad barrel dash add earth collect explain
-bip_39_word_space_8: sad barrel dash add earth collect explain inject
-bip_39_word_space_9: sad barrel dash add earth collect explain inject mule
-bip_39_word_underscore_1: sad
-bip_39_word_underscore_10: sad_barrel_dash_add_earth_collect_explain_inject_mule_label
-bip_39_word_underscore_11: sad_barrel_dash_add_earth_collect_explain_inject_mule_label_street
 bip_39_word_underscore_12: sad_barrel_dash_add_earth_collect_explain_inject_mule_label_street_ask
 bip_39_word_underscore_2: sad_barrel
 bip_39_word_underscore_3: sad_barrel_dash
-bip_39_word_underscore_4: sad_barrel_dash_add
-bip_39_word_underscore_5: sad_barrel_dash_add_earth
-bip_39_word_underscore_6: sad_barrel_dash_add_earth_collect
-bip_39_word_underscore_7: sad_barrel_dash_add_earth_collect_explain
-bip_39_word_underscore_8: sad_barrel_dash_add_earth_collect_explain_inject
-bip_39_word_underscore_9: sad_barrel_dash_add_earth_collect_explain_inject_mule
 classification: food
 classification_capital: Food
 classification_first_letter: f

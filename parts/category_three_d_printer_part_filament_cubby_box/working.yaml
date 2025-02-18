@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nest
-bip_39_word_dash_10: nest-witness-vintage-knee-eternal-regret-split-miracle-flame-album
-bip_39_word_dash_11: nest-witness-vintage-knee-eternal-regret-split-miracle-flame-album-fox
 bip_39_word_dash_12: nest-witness-vintage-knee-eternal-regret-split-miracle-flame-album-fox-any
 bip_39_word_dash_2: nest-witness
 bip_39_word_dash_3: nest-witness-vintage
-bip_39_word_dash_4: nest-witness-vintage-knee
-bip_39_word_dash_5: nest-witness-vintage-knee-eternal
-bip_39_word_dash_6: nest-witness-vintage-knee-eternal-regret
-bip_39_word_dash_7: nest-witness-vintage-knee-eternal-regret-split
-bip_39_word_dash_8: nest-witness-vintage-knee-eternal-regret-split-miracle
-bip_39_word_dash_9: nest-witness-vintage-knee-eternal-regret-split-miracle-flame
-bip_39_word_new_br_1: nest
-bip_39_word_new_br_10: nest<br>witness<br>vintage<br>knee<br>eternal<br>regret<br>split<br>miracle<br>flame<br>album
-bip_39_word_new_br_11: nest<br>witness<br>vintage<br>knee<br>eternal<br>regret<br>split<br>miracle<br>flame<br>album<br>fox
 bip_39_word_new_br_12: nest<br>witness<br>vintage<br>knee<br>eternal<br>regret<br>split<br>miracle<br>flame<br>album<br>fox<br>any
 bip_39_word_new_br_2: nest<br>witness
 bip_39_word_new_br_3: nest<br>witness<br>vintage
-bip_39_word_new_br_4: nest<br>witness<br>vintage<br>knee
-bip_39_word_new_br_5: nest<br>witness<br>vintage<br>knee<br>eternal
-bip_39_word_new_br_6: nest<br>witness<br>vintage<br>knee<br>eternal<br>regret
-bip_39_word_new_br_7: nest<br>witness<br>vintage<br>knee<br>eternal<br>regret<br>split
-bip_39_word_new_br_8: nest<br>witness<br>vintage<br>knee<br>eternal<br>regret<br>split<br>miracle
-bip_39_word_new_br_9: nest<br>witness<br>vintage<br>knee<br>eternal<br>regret<br>split<br>miracle<br>flame
-bip_39_word_new_line_1: nest
-bip_39_word_new_line_10: 'nest
-
-  witness
-
-  vintage
-
-  knee
-
-  eternal
-
-  regret
-
-  split
-
-  miracle
-
-  flame
-
-  album'
-bip_39_word_new_line_11: 'nest
-
-  witness
-
-  vintage
-
-  knee
-
-  eternal
-
-  regret
-
-  split
-
-  miracle
-
-  flame
-
-  album
-
-  fox'
 bip_39_word_new_line_12: 'nest
 
   witness
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'nest
   witness
 
   vintage'
-bip_39_word_new_line_4: 'nest
-
-  witness
-
-  vintage
-
-  knee'
-bip_39_word_new_line_5: 'nest
-
-  witness
-
-  vintage
-
-  knee
-
-  eternal'
-bip_39_word_new_line_6: 'nest
-
-  witness
-
-  vintage
-
-  knee
-
-  eternal
-
-  regret'
-bip_39_word_new_line_7: 'nest
-
-  witness
-
-  vintage
-
-  knee
-
-  eternal
-
-  regret
-
-  split'
-bip_39_word_new_line_8: 'nest
-
-  witness
-
-  vintage
-
-  knee
-
-  eternal
-
-  regret
-
-  split
-
-  miracle'
-bip_39_word_new_line_9: 'nest
-
-  witness
-
-  vintage
-
-  knee
-
-  eternal
-
-  regret
-
-  split
-
-  miracle
-
-  flame'
-bip_39_word_no_space_1: nest
-bip_39_word_no_space_10: nestwitnessvintagekneeeternalregretsplitmiracleflamealbum
-bip_39_word_no_space_11: nestwitnessvintagekneeeternalregretsplitmiracleflamealbumfox
 bip_39_word_no_space_12: nestwitnessvintagekneeeternalregretsplitmiracleflamealbumfoxany
 bip_39_word_no_space_2: nestwitness
 bip_39_word_no_space_3: nestwitnessvintage
-bip_39_word_no_space_4: nestwitnessvintageknee
-bip_39_word_no_space_5: nestwitnessvintagekneeeternal
-bip_39_word_no_space_6: nestwitnessvintagekneeeternalregret
-bip_39_word_no_space_7: nestwitnessvintagekneeeternalregretsplit
-bip_39_word_no_space_8: nestwitnessvintagekneeeternalregretsplitmiracle
-bip_39_word_no_space_9: nestwitnessvintagekneeeternalregretsplitmiracleflame
-bip_39_word_space_0:
-- nest
-- witness
-- vintage
-- knee
-- eternal
-- regret
-- split
-- miracle
-- flame
-- album
-- fox
-- any
-bip_39_word_space_1: nest
-bip_39_word_space_10: nest witness vintage knee eternal regret split miracle flame
-  album
-bip_39_word_space_11: nest witness vintage knee eternal regret split miracle flame
-  album fox
 bip_39_word_space_12: nest witness vintage knee eternal regret split miracle flame
   album fox any
 bip_39_word_space_2: nest witness
 bip_39_word_space_3: nest witness vintage
-bip_39_word_space_4: nest witness vintage knee
-bip_39_word_space_5: nest witness vintage knee eternal
-bip_39_word_space_6: nest witness vintage knee eternal regret
-bip_39_word_space_7: nest witness vintage knee eternal regret split
-bip_39_word_space_8: nest witness vintage knee eternal regret split miracle
-bip_39_word_space_9: nest witness vintage knee eternal regret split miracle flame
-bip_39_word_underscore_1: nest
-bip_39_word_underscore_10: nest_witness_vintage_knee_eternal_regret_split_miracle_flame_album
-bip_39_word_underscore_11: nest_witness_vintage_knee_eternal_regret_split_miracle_flame_album_fox
 bip_39_word_underscore_12: nest_witness_vintage_knee_eternal_regret_split_miracle_flame_album_fox_any
 bip_39_word_underscore_2: nest_witness
 bip_39_word_underscore_3: nest_witness_vintage
-bip_39_word_underscore_4: nest_witness_vintage_knee
-bip_39_word_underscore_5: nest_witness_vintage_knee_eternal
-bip_39_word_underscore_6: nest_witness_vintage_knee_eternal_regret
-bip_39_word_underscore_7: nest_witness_vintage_knee_eternal_regret_split
-bip_39_word_underscore_8: nest_witness_vintage_knee_eternal_regret_split_miracle
-bip_39_word_underscore_9: nest_witness_vintage_knee_eternal_regret_split_miracle_flame
 classification: category
 classification_capital: Category
 classification_first_letter: c

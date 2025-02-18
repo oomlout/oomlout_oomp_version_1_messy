@@ -1,68 +1,9 @@
-bip_39_word_dash_1: filter
-bip_39_word_dash_10: filter-bright-ripple-educate-agent-tent-course-absorb-lecture-army
-bip_39_word_dash_11: filter-bright-ripple-educate-agent-tent-course-absorb-lecture-army-spy
 bip_39_word_dash_12: filter-bright-ripple-educate-agent-tent-course-absorb-lecture-army-spy-amused
 bip_39_word_dash_2: filter-bright
 bip_39_word_dash_3: filter-bright-ripple
-bip_39_word_dash_4: filter-bright-ripple-educate
-bip_39_word_dash_5: filter-bright-ripple-educate-agent
-bip_39_word_dash_6: filter-bright-ripple-educate-agent-tent
-bip_39_word_dash_7: filter-bright-ripple-educate-agent-tent-course
-bip_39_word_dash_8: filter-bright-ripple-educate-agent-tent-course-absorb
-bip_39_word_dash_9: filter-bright-ripple-educate-agent-tent-course-absorb-lecture
-bip_39_word_new_br_1: filter
-bip_39_word_new_br_10: filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture<br>army
-bip_39_word_new_br_11: filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture<br>army<br>spy
 bip_39_word_new_br_12: filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture<br>army<br>spy<br>amused
 bip_39_word_new_br_2: filter<br>bright
 bip_39_word_new_br_3: filter<br>bright<br>ripple
-bip_39_word_new_br_4: filter<br>bright<br>ripple<br>educate
-bip_39_word_new_br_5: filter<br>bright<br>ripple<br>educate<br>agent
-bip_39_word_new_br_6: filter<br>bright<br>ripple<br>educate<br>agent<br>tent
-bip_39_word_new_br_7: filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course
-bip_39_word_new_br_8: filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb
-bip_39_word_new_br_9: filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture
-bip_39_word_new_line_1: filter
-bip_39_word_new_line_10: 'filter
-
-  bright
-
-  ripple
-
-  educate
-
-  agent
-
-  tent
-
-  course
-
-  absorb
-
-  lecture
-
-  army'
-bip_39_word_new_line_11: 'filter
-
-  bright
-
-  ripple
-
-  educate
-
-  agent
-
-  tent
-
-  course
-
-  absorb
-
-  lecture
-
-  army
-
-  spy'
 bip_39_word_new_line_12: 'filter
 
   bright
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'filter
   bright
 
   ripple'
-bip_39_word_new_line_4: 'filter
-
-  bright
-
-  ripple
-
-  educate'
-bip_39_word_new_line_5: 'filter
-
-  bright
-
-  ripple
-
-  educate
-
-  agent'
-bip_39_word_new_line_6: 'filter
-
-  bright
-
-  ripple
-
-  educate
-
-  agent
-
-  tent'
-bip_39_word_new_line_7: 'filter
-
-  bright
-
-  ripple
-
-  educate
-
-  agent
-
-  tent
-
-  course'
-bip_39_word_new_line_8: 'filter
-
-  bright
-
-  ripple
-
-  educate
-
-  agent
-
-  tent
-
-  course
-
-  absorb'
-bip_39_word_new_line_9: 'filter
-
-  bright
-
-  ripple
-
-  educate
-
-  agent
-
-  tent
-
-  course
-
-  absorb
-
-  lecture'
-bip_39_word_no_space_1: filter
-bip_39_word_no_space_10: filterbrightrippleeducateagenttentcourseabsorblecturearmy
-bip_39_word_no_space_11: filterbrightrippleeducateagenttentcourseabsorblecturearmyspy
 bip_39_word_no_space_12: filterbrightrippleeducateagenttentcourseabsorblecturearmyspyamused
 bip_39_word_no_space_2: filterbright
 bip_39_word_no_space_3: filterbrightripple
-bip_39_word_no_space_4: filterbrightrippleeducate
-bip_39_word_no_space_5: filterbrightrippleeducateagent
-bip_39_word_no_space_6: filterbrightrippleeducateagenttent
-bip_39_word_no_space_7: filterbrightrippleeducateagenttentcourse
-bip_39_word_no_space_8: filterbrightrippleeducateagenttentcourseabsorb
-bip_39_word_no_space_9: filterbrightrippleeducateagenttentcourseabsorblecture
-bip_39_word_space_0:
-- filter
-- bright
-- ripple
-- educate
-- agent
-- tent
-- course
-- absorb
-- lecture
-- army
-- spy
-- amused
-bip_39_word_space_1: filter
-bip_39_word_space_10: filter bright ripple educate agent tent course absorb lecture
-  army
-bip_39_word_space_11: filter bright ripple educate agent tent course absorb lecture
-  army spy
 bip_39_word_space_12: filter bright ripple educate agent tent course absorb lecture
   army spy amused
 bip_39_word_space_2: filter bright
 bip_39_word_space_3: filter bright ripple
-bip_39_word_space_4: filter bright ripple educate
-bip_39_word_space_5: filter bright ripple educate agent
-bip_39_word_space_6: filter bright ripple educate agent tent
-bip_39_word_space_7: filter bright ripple educate agent tent course
-bip_39_word_space_8: filter bright ripple educate agent tent course absorb
-bip_39_word_space_9: filter bright ripple educate agent tent course absorb lecture
-bip_39_word_underscore_1: filter
-bip_39_word_underscore_10: filter_bright_ripple_educate_agent_tent_course_absorb_lecture_army
-bip_39_word_underscore_11: filter_bright_ripple_educate_agent_tent_course_absorb_lecture_army_spy
 bip_39_word_underscore_12: filter_bright_ripple_educate_agent_tent_course_absorb_lecture_army_spy_amused
 bip_39_word_underscore_2: filter_bright
 bip_39_word_underscore_3: filter_bright_ripple
-bip_39_word_underscore_4: filter_bright_ripple_educate
-bip_39_word_underscore_5: filter_bright_ripple_educate_agent
-bip_39_word_underscore_6: filter_bright_ripple_educate_agent_tent
-bip_39_word_underscore_7: filter_bright_ripple_educate_agent_tent_course
-bip_39_word_underscore_8: filter_bright_ripple_educate_agent_tent_course_absorb
-bip_39_word_underscore_9: filter_bright_ripple_educate_agent_tent_course_absorb_lecture
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

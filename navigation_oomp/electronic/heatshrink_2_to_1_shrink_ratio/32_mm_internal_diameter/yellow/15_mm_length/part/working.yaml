@@ -1,68 +1,9 @@
-bip_39_word_dash_1: ship
-bip_39_word_dash_10: ship-dawn-position-orchard-choose-exist-eyebrow-upgrade-escape-judge
-bip_39_word_dash_11: ship-dawn-position-orchard-choose-exist-eyebrow-upgrade-escape-judge-outside
 bip_39_word_dash_12: ship-dawn-position-orchard-choose-exist-eyebrow-upgrade-escape-judge-outside-act
 bip_39_word_dash_2: ship-dawn
 bip_39_word_dash_3: ship-dawn-position
-bip_39_word_dash_4: ship-dawn-position-orchard
-bip_39_word_dash_5: ship-dawn-position-orchard-choose
-bip_39_word_dash_6: ship-dawn-position-orchard-choose-exist
-bip_39_word_dash_7: ship-dawn-position-orchard-choose-exist-eyebrow
-bip_39_word_dash_8: ship-dawn-position-orchard-choose-exist-eyebrow-upgrade
-bip_39_word_dash_9: ship-dawn-position-orchard-choose-exist-eyebrow-upgrade-escape
-bip_39_word_new_br_1: ship
-bip_39_word_new_br_10: ship<br>dawn<br>position<br>orchard<br>choose<br>exist<br>eyebrow<br>upgrade<br>escape<br>judge
-bip_39_word_new_br_11: ship<br>dawn<br>position<br>orchard<br>choose<br>exist<br>eyebrow<br>upgrade<br>escape<br>judge<br>outside
 bip_39_word_new_br_12: ship<br>dawn<br>position<br>orchard<br>choose<br>exist<br>eyebrow<br>upgrade<br>escape<br>judge<br>outside<br>act
 bip_39_word_new_br_2: ship<br>dawn
 bip_39_word_new_br_3: ship<br>dawn<br>position
-bip_39_word_new_br_4: ship<br>dawn<br>position<br>orchard
-bip_39_word_new_br_5: ship<br>dawn<br>position<br>orchard<br>choose
-bip_39_word_new_br_6: ship<br>dawn<br>position<br>orchard<br>choose<br>exist
-bip_39_word_new_br_7: ship<br>dawn<br>position<br>orchard<br>choose<br>exist<br>eyebrow
-bip_39_word_new_br_8: ship<br>dawn<br>position<br>orchard<br>choose<br>exist<br>eyebrow<br>upgrade
-bip_39_word_new_br_9: ship<br>dawn<br>position<br>orchard<br>choose<br>exist<br>eyebrow<br>upgrade<br>escape
-bip_39_word_new_line_1: ship
-bip_39_word_new_line_10: 'ship
-
-  dawn
-
-  position
-
-  orchard
-
-  choose
-
-  exist
-
-  eyebrow
-
-  upgrade
-
-  escape
-
-  judge'
-bip_39_word_new_line_11: 'ship
-
-  dawn
-
-  position
-
-  orchard
-
-  choose
-
-  exist
-
-  eyebrow
-
-  upgrade
-
-  escape
-
-  judge
-
-  outside'
 bip_39_word_new_line_12: 'ship
 
   dawn
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'ship
   dawn
 
   position'
-bip_39_word_new_line_4: 'ship
-
-  dawn
-
-  position
-
-  orchard'
-bip_39_word_new_line_5: 'ship
-
-  dawn
-
-  position
-
-  orchard
-
-  choose'
-bip_39_word_new_line_6: 'ship
-
-  dawn
-
-  position
-
-  orchard
-
-  choose
-
-  exist'
-bip_39_word_new_line_7: 'ship
-
-  dawn
-
-  position
-
-  orchard
-
-  choose
-
-  exist
-
-  eyebrow'
-bip_39_word_new_line_8: 'ship
-
-  dawn
-
-  position
-
-  orchard
-
-  choose
-
-  exist
-
-  eyebrow
-
-  upgrade'
-bip_39_word_new_line_9: 'ship
-
-  dawn
-
-  position
-
-  orchard
-
-  choose
-
-  exist
-
-  eyebrow
-
-  upgrade
-
-  escape'
-bip_39_word_no_space_1: ship
-bip_39_word_no_space_10: shipdawnpositionorchardchooseexisteyebrowupgradeescapejudge
-bip_39_word_no_space_11: shipdawnpositionorchardchooseexisteyebrowupgradeescapejudgeoutside
 bip_39_word_no_space_12: shipdawnpositionorchardchooseexisteyebrowupgradeescapejudgeoutsideact
 bip_39_word_no_space_2: shipdawn
 bip_39_word_no_space_3: shipdawnposition
-bip_39_word_no_space_4: shipdawnpositionorchard
-bip_39_word_no_space_5: shipdawnpositionorchardchoose
-bip_39_word_no_space_6: shipdawnpositionorchardchooseexist
-bip_39_word_no_space_7: shipdawnpositionorchardchooseexisteyebrow
-bip_39_word_no_space_8: shipdawnpositionorchardchooseexisteyebrowupgrade
-bip_39_word_no_space_9: shipdawnpositionorchardchooseexisteyebrowupgradeescape
-bip_39_word_space_0:
-- ship
-- dawn
-- position
-- orchard
-- choose
-- exist
-- eyebrow
-- upgrade
-- escape
-- judge
-- outside
-- act
-bip_39_word_space_1: ship
-bip_39_word_space_10: ship dawn position orchard choose exist eyebrow upgrade escape
-  judge
-bip_39_word_space_11: ship dawn position orchard choose exist eyebrow upgrade escape
-  judge outside
 bip_39_word_space_12: ship dawn position orchard choose exist eyebrow upgrade escape
   judge outside act
 bip_39_word_space_2: ship dawn
 bip_39_word_space_3: ship dawn position
-bip_39_word_space_4: ship dawn position orchard
-bip_39_word_space_5: ship dawn position orchard choose
-bip_39_word_space_6: ship dawn position orchard choose exist
-bip_39_word_space_7: ship dawn position orchard choose exist eyebrow
-bip_39_word_space_8: ship dawn position orchard choose exist eyebrow upgrade
-bip_39_word_space_9: ship dawn position orchard choose exist eyebrow upgrade escape
-bip_39_word_underscore_1: ship
-bip_39_word_underscore_10: ship_dawn_position_orchard_choose_exist_eyebrow_upgrade_escape_judge
-bip_39_word_underscore_11: ship_dawn_position_orchard_choose_exist_eyebrow_upgrade_escape_judge_outside
 bip_39_word_underscore_12: ship_dawn_position_orchard_choose_exist_eyebrow_upgrade_escape_judge_outside_act
 bip_39_word_underscore_2: ship_dawn
 bip_39_word_underscore_3: ship_dawn_position
-bip_39_word_underscore_4: ship_dawn_position_orchard
-bip_39_word_underscore_5: ship_dawn_position_orchard_choose
-bip_39_word_underscore_6: ship_dawn_position_orchard_choose_exist
-bip_39_word_underscore_7: ship_dawn_position_orchard_choose_exist_eyebrow
-bip_39_word_underscore_8: ship_dawn_position_orchard_choose_exist_eyebrow_upgrade
-bip_39_word_underscore_9: ship_dawn_position_orchard_choose_exist_eyebrow_upgrade_escape
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

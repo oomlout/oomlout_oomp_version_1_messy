@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tube
-bip_39_word_dash_10: tube-raven-cushion-vivid-language-north-lawn-void-enforce-tongue
-bip_39_word_dash_11: tube-raven-cushion-vivid-language-north-lawn-void-enforce-tongue-timber
 bip_39_word_dash_12: tube-raven-cushion-vivid-language-north-lawn-void-enforce-tongue-timber-all
 bip_39_word_dash_2: tube-raven
 bip_39_word_dash_3: tube-raven-cushion
-bip_39_word_dash_4: tube-raven-cushion-vivid
-bip_39_word_dash_5: tube-raven-cushion-vivid-language
-bip_39_word_dash_6: tube-raven-cushion-vivid-language-north
-bip_39_word_dash_7: tube-raven-cushion-vivid-language-north-lawn
-bip_39_word_dash_8: tube-raven-cushion-vivid-language-north-lawn-void
-bip_39_word_dash_9: tube-raven-cushion-vivid-language-north-lawn-void-enforce
-bip_39_word_new_br_1: tube
-bip_39_word_new_br_10: tube<br>raven<br>cushion<br>vivid<br>language<br>north<br>lawn<br>void<br>enforce<br>tongue
-bip_39_word_new_br_11: tube<br>raven<br>cushion<br>vivid<br>language<br>north<br>lawn<br>void<br>enforce<br>tongue<br>timber
 bip_39_word_new_br_12: tube<br>raven<br>cushion<br>vivid<br>language<br>north<br>lawn<br>void<br>enforce<br>tongue<br>timber<br>all
 bip_39_word_new_br_2: tube<br>raven
 bip_39_word_new_br_3: tube<br>raven<br>cushion
-bip_39_word_new_br_4: tube<br>raven<br>cushion<br>vivid
-bip_39_word_new_br_5: tube<br>raven<br>cushion<br>vivid<br>language
-bip_39_word_new_br_6: tube<br>raven<br>cushion<br>vivid<br>language<br>north
-bip_39_word_new_br_7: tube<br>raven<br>cushion<br>vivid<br>language<br>north<br>lawn
-bip_39_word_new_br_8: tube<br>raven<br>cushion<br>vivid<br>language<br>north<br>lawn<br>void
-bip_39_word_new_br_9: tube<br>raven<br>cushion<br>vivid<br>language<br>north<br>lawn<br>void<br>enforce
-bip_39_word_new_line_1: tube
-bip_39_word_new_line_10: 'tube
-
-  raven
-
-  cushion
-
-  vivid
-
-  language
-
-  north
-
-  lawn
-
-  void
-
-  enforce
-
-  tongue'
-bip_39_word_new_line_11: 'tube
-
-  raven
-
-  cushion
-
-  vivid
-
-  language
-
-  north
-
-  lawn
-
-  void
-
-  enforce
-
-  tongue
-
-  timber'
 bip_39_word_new_line_12: 'tube
 
   raven
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tube
   raven
 
   cushion'
-bip_39_word_new_line_4: 'tube
-
-  raven
-
-  cushion
-
-  vivid'
-bip_39_word_new_line_5: 'tube
-
-  raven
-
-  cushion
-
-  vivid
-
-  language'
-bip_39_word_new_line_6: 'tube
-
-  raven
-
-  cushion
-
-  vivid
-
-  language
-
-  north'
-bip_39_word_new_line_7: 'tube
-
-  raven
-
-  cushion
-
-  vivid
-
-  language
-
-  north
-
-  lawn'
-bip_39_word_new_line_8: 'tube
-
-  raven
-
-  cushion
-
-  vivid
-
-  language
-
-  north
-
-  lawn
-
-  void'
-bip_39_word_new_line_9: 'tube
-
-  raven
-
-  cushion
-
-  vivid
-
-  language
-
-  north
-
-  lawn
-
-  void
-
-  enforce'
-bip_39_word_no_space_1: tube
-bip_39_word_no_space_10: tuberavencushionvividlanguagenorthlawnvoidenforcetongue
-bip_39_word_no_space_11: tuberavencushionvividlanguagenorthlawnvoidenforcetonguetimber
 bip_39_word_no_space_12: tuberavencushionvividlanguagenorthlawnvoidenforcetonguetimberall
 bip_39_word_no_space_2: tuberaven
 bip_39_word_no_space_3: tuberavencushion
-bip_39_word_no_space_4: tuberavencushionvivid
-bip_39_word_no_space_5: tuberavencushionvividlanguage
-bip_39_word_no_space_6: tuberavencushionvividlanguagenorth
-bip_39_word_no_space_7: tuberavencushionvividlanguagenorthlawn
-bip_39_word_no_space_8: tuberavencushionvividlanguagenorthlawnvoid
-bip_39_word_no_space_9: tuberavencushionvividlanguagenorthlawnvoidenforce
-bip_39_word_space_0:
-- tube
-- raven
-- cushion
-- vivid
-- language
-- north
-- lawn
-- void
-- enforce
-- tongue
-- timber
-- all
-bip_39_word_space_1: tube
-bip_39_word_space_10: tube raven cushion vivid language north lawn void enforce tongue
-bip_39_word_space_11: tube raven cushion vivid language north lawn void enforce tongue
-  timber
 bip_39_word_space_12: tube raven cushion vivid language north lawn void enforce tongue
   timber all
 bip_39_word_space_2: tube raven
 bip_39_word_space_3: tube raven cushion
-bip_39_word_space_4: tube raven cushion vivid
-bip_39_word_space_5: tube raven cushion vivid language
-bip_39_word_space_6: tube raven cushion vivid language north
-bip_39_word_space_7: tube raven cushion vivid language north lawn
-bip_39_word_space_8: tube raven cushion vivid language north lawn void
-bip_39_word_space_9: tube raven cushion vivid language north lawn void enforce
-bip_39_word_underscore_1: tube
-bip_39_word_underscore_10: tube_raven_cushion_vivid_language_north_lawn_void_enforce_tongue
-bip_39_word_underscore_11: tube_raven_cushion_vivid_language_north_lawn_void_enforce_tongue_timber
 bip_39_word_underscore_12: tube_raven_cushion_vivid_language_north_lawn_void_enforce_tongue_timber_all
 bip_39_word_underscore_2: tube_raven
 bip_39_word_underscore_3: tube_raven_cushion
-bip_39_word_underscore_4: tube_raven_cushion_vivid
-bip_39_word_underscore_5: tube_raven_cushion_vivid_language
-bip_39_word_underscore_6: tube_raven_cushion_vivid_language_north
-bip_39_word_underscore_7: tube_raven_cushion_vivid_language_north_lawn
-bip_39_word_underscore_8: tube_raven_cushion_vivid_language_north_lawn_void
-bip_39_word_underscore_9: tube_raven_cushion_vivid_language_north_lawn_void_enforce
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

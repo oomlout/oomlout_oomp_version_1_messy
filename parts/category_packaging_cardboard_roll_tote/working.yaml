@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hurry
-bip_39_word_dash_10: hurry-ketchup-divert-penalty-kite-mercy-palace-prefer-rib-wagon
-bip_39_word_dash_11: hurry-ketchup-divert-penalty-kite-mercy-palace-prefer-rib-wagon-stadium
 bip_39_word_dash_12: hurry-ketchup-divert-penalty-kite-mercy-palace-prefer-rib-wagon-stadium-adapt
 bip_39_word_dash_2: hurry-ketchup
 bip_39_word_dash_3: hurry-ketchup-divert
-bip_39_word_dash_4: hurry-ketchup-divert-penalty
-bip_39_word_dash_5: hurry-ketchup-divert-penalty-kite
-bip_39_word_dash_6: hurry-ketchup-divert-penalty-kite-mercy
-bip_39_word_dash_7: hurry-ketchup-divert-penalty-kite-mercy-palace
-bip_39_word_dash_8: hurry-ketchup-divert-penalty-kite-mercy-palace-prefer
-bip_39_word_dash_9: hurry-ketchup-divert-penalty-kite-mercy-palace-prefer-rib
-bip_39_word_new_br_1: hurry
-bip_39_word_new_br_10: hurry<br>ketchup<br>divert<br>penalty<br>kite<br>mercy<br>palace<br>prefer<br>rib<br>wagon
-bip_39_word_new_br_11: hurry<br>ketchup<br>divert<br>penalty<br>kite<br>mercy<br>palace<br>prefer<br>rib<br>wagon<br>stadium
 bip_39_word_new_br_12: hurry<br>ketchup<br>divert<br>penalty<br>kite<br>mercy<br>palace<br>prefer<br>rib<br>wagon<br>stadium<br>adapt
 bip_39_word_new_br_2: hurry<br>ketchup
 bip_39_word_new_br_3: hurry<br>ketchup<br>divert
-bip_39_word_new_br_4: hurry<br>ketchup<br>divert<br>penalty
-bip_39_word_new_br_5: hurry<br>ketchup<br>divert<br>penalty<br>kite
-bip_39_word_new_br_6: hurry<br>ketchup<br>divert<br>penalty<br>kite<br>mercy
-bip_39_word_new_br_7: hurry<br>ketchup<br>divert<br>penalty<br>kite<br>mercy<br>palace
-bip_39_word_new_br_8: hurry<br>ketchup<br>divert<br>penalty<br>kite<br>mercy<br>palace<br>prefer
-bip_39_word_new_br_9: hurry<br>ketchup<br>divert<br>penalty<br>kite<br>mercy<br>palace<br>prefer<br>rib
-bip_39_word_new_line_1: hurry
-bip_39_word_new_line_10: 'hurry
-
-  ketchup
-
-  divert
-
-  penalty
-
-  kite
-
-  mercy
-
-  palace
-
-  prefer
-
-  rib
-
-  wagon'
-bip_39_word_new_line_11: 'hurry
-
-  ketchup
-
-  divert
-
-  penalty
-
-  kite
-
-  mercy
-
-  palace
-
-  prefer
-
-  rib
-
-  wagon
-
-  stadium'
 bip_39_word_new_line_12: 'hurry
 
   ketchup
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'hurry
   ketchup
 
   divert'
-bip_39_word_new_line_4: 'hurry
-
-  ketchup
-
-  divert
-
-  penalty'
-bip_39_word_new_line_5: 'hurry
-
-  ketchup
-
-  divert
-
-  penalty
-
-  kite'
-bip_39_word_new_line_6: 'hurry
-
-  ketchup
-
-  divert
-
-  penalty
-
-  kite
-
-  mercy'
-bip_39_word_new_line_7: 'hurry
-
-  ketchup
-
-  divert
-
-  penalty
-
-  kite
-
-  mercy
-
-  palace'
-bip_39_word_new_line_8: 'hurry
-
-  ketchup
-
-  divert
-
-  penalty
-
-  kite
-
-  mercy
-
-  palace
-
-  prefer'
-bip_39_word_new_line_9: 'hurry
-
-  ketchup
-
-  divert
-
-  penalty
-
-  kite
-
-  mercy
-
-  palace
-
-  prefer
-
-  rib'
-bip_39_word_no_space_1: hurry
-bip_39_word_no_space_10: hurryketchupdivertpenaltykitemercypalacepreferribwagon
-bip_39_word_no_space_11: hurryketchupdivertpenaltykitemercypalacepreferribwagonstadium
 bip_39_word_no_space_12: hurryketchupdivertpenaltykitemercypalacepreferribwagonstadiumadapt
 bip_39_word_no_space_2: hurryketchup
 bip_39_word_no_space_3: hurryketchupdivert
-bip_39_word_no_space_4: hurryketchupdivertpenalty
-bip_39_word_no_space_5: hurryketchupdivertpenaltykite
-bip_39_word_no_space_6: hurryketchupdivertpenaltykitemercy
-bip_39_word_no_space_7: hurryketchupdivertpenaltykitemercypalace
-bip_39_word_no_space_8: hurryketchupdivertpenaltykitemercypalaceprefer
-bip_39_word_no_space_9: hurryketchupdivertpenaltykitemercypalacepreferrib
-bip_39_word_space_0:
-- hurry
-- ketchup
-- divert
-- penalty
-- kite
-- mercy
-- palace
-- prefer
-- rib
-- wagon
-- stadium
-- adapt
-bip_39_word_space_1: hurry
-bip_39_word_space_10: hurry ketchup divert penalty kite mercy palace prefer rib wagon
-bip_39_word_space_11: hurry ketchup divert penalty kite mercy palace prefer rib wagon
-  stadium
 bip_39_word_space_12: hurry ketchup divert penalty kite mercy palace prefer rib wagon
   stadium adapt
 bip_39_word_space_2: hurry ketchup
 bip_39_word_space_3: hurry ketchup divert
-bip_39_word_space_4: hurry ketchup divert penalty
-bip_39_word_space_5: hurry ketchup divert penalty kite
-bip_39_word_space_6: hurry ketchup divert penalty kite mercy
-bip_39_word_space_7: hurry ketchup divert penalty kite mercy palace
-bip_39_word_space_8: hurry ketchup divert penalty kite mercy palace prefer
-bip_39_word_space_9: hurry ketchup divert penalty kite mercy palace prefer rib
-bip_39_word_underscore_1: hurry
-bip_39_word_underscore_10: hurry_ketchup_divert_penalty_kite_mercy_palace_prefer_rib_wagon
-bip_39_word_underscore_11: hurry_ketchup_divert_penalty_kite_mercy_palace_prefer_rib_wagon_stadium
 bip_39_word_underscore_12: hurry_ketchup_divert_penalty_kite_mercy_palace_prefer_rib_wagon_stadium_adapt
 bip_39_word_underscore_2: hurry_ketchup
 bip_39_word_underscore_3: hurry_ketchup_divert
-bip_39_word_underscore_4: hurry_ketchup_divert_penalty
-bip_39_word_underscore_5: hurry_ketchup_divert_penalty_kite
-bip_39_word_underscore_6: hurry_ketchup_divert_penalty_kite_mercy
-bip_39_word_underscore_7: hurry_ketchup_divert_penalty_kite_mercy_palace
-bip_39_word_underscore_8: hurry_ketchup_divert_penalty_kite_mercy_palace_prefer
-bip_39_word_underscore_9: hurry_ketchup_divert_penalty_kite_mercy_palace_prefer_rib
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gas
-bip_39_word_dash_10: gas-person-across-profit-conduct-defy-reject-cause-six-reveal
-bip_39_word_dash_11: gas-person-across-profit-conduct-defy-reject-cause-six-reveal-oak
 bip_39_word_dash_12: gas-person-across-profit-conduct-defy-reject-cause-six-reveal-oak-appear
 bip_39_word_dash_2: gas-person
 bip_39_word_dash_3: gas-person-across
-bip_39_word_dash_4: gas-person-across-profit
-bip_39_word_dash_5: gas-person-across-profit-conduct
-bip_39_word_dash_6: gas-person-across-profit-conduct-defy
-bip_39_word_dash_7: gas-person-across-profit-conduct-defy-reject
-bip_39_word_dash_8: gas-person-across-profit-conduct-defy-reject-cause
-bip_39_word_dash_9: gas-person-across-profit-conduct-defy-reject-cause-six
-bip_39_word_new_br_1: gas
-bip_39_word_new_br_10: gas<br>person<br>across<br>profit<br>conduct<br>defy<br>reject<br>cause<br>six<br>reveal
-bip_39_word_new_br_11: gas<br>person<br>across<br>profit<br>conduct<br>defy<br>reject<br>cause<br>six<br>reveal<br>oak
 bip_39_word_new_br_12: gas<br>person<br>across<br>profit<br>conduct<br>defy<br>reject<br>cause<br>six<br>reveal<br>oak<br>appear
 bip_39_word_new_br_2: gas<br>person
 bip_39_word_new_br_3: gas<br>person<br>across
-bip_39_word_new_br_4: gas<br>person<br>across<br>profit
-bip_39_word_new_br_5: gas<br>person<br>across<br>profit<br>conduct
-bip_39_word_new_br_6: gas<br>person<br>across<br>profit<br>conduct<br>defy
-bip_39_word_new_br_7: gas<br>person<br>across<br>profit<br>conduct<br>defy<br>reject
-bip_39_word_new_br_8: gas<br>person<br>across<br>profit<br>conduct<br>defy<br>reject<br>cause
-bip_39_word_new_br_9: gas<br>person<br>across<br>profit<br>conduct<br>defy<br>reject<br>cause<br>six
-bip_39_word_new_line_1: gas
-bip_39_word_new_line_10: 'gas
-
-  person
-
-  across
-
-  profit
-
-  conduct
-
-  defy
-
-  reject
-
-  cause
-
-  six
-
-  reveal'
-bip_39_word_new_line_11: 'gas
-
-  person
-
-  across
-
-  profit
-
-  conduct
-
-  defy
-
-  reject
-
-  cause
-
-  six
-
-  reveal
-
-  oak'
 bip_39_word_new_line_12: 'gas
 
   person
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gas
   person
 
   across'
-bip_39_word_new_line_4: 'gas
-
-  person
-
-  across
-
-  profit'
-bip_39_word_new_line_5: 'gas
-
-  person
-
-  across
-
-  profit
-
-  conduct'
-bip_39_word_new_line_6: 'gas
-
-  person
-
-  across
-
-  profit
-
-  conduct
-
-  defy'
-bip_39_word_new_line_7: 'gas
-
-  person
-
-  across
-
-  profit
-
-  conduct
-
-  defy
-
-  reject'
-bip_39_word_new_line_8: 'gas
-
-  person
-
-  across
-
-  profit
-
-  conduct
-
-  defy
-
-  reject
-
-  cause'
-bip_39_word_new_line_9: 'gas
-
-  person
-
-  across
-
-  profit
-
-  conduct
-
-  defy
-
-  reject
-
-  cause
-
-  six'
-bip_39_word_no_space_1: gas
-bip_39_word_no_space_10: gaspersonacrossprofitconductdefyrejectcausesixreveal
-bip_39_word_no_space_11: gaspersonacrossprofitconductdefyrejectcausesixrevealoak
 bip_39_word_no_space_12: gaspersonacrossprofitconductdefyrejectcausesixrevealoakappear
 bip_39_word_no_space_2: gasperson
 bip_39_word_no_space_3: gaspersonacross
-bip_39_word_no_space_4: gaspersonacrossprofit
-bip_39_word_no_space_5: gaspersonacrossprofitconduct
-bip_39_word_no_space_6: gaspersonacrossprofitconductdefy
-bip_39_word_no_space_7: gaspersonacrossprofitconductdefyreject
-bip_39_word_no_space_8: gaspersonacrossprofitconductdefyrejectcause
-bip_39_word_no_space_9: gaspersonacrossprofitconductdefyrejectcausesix
-bip_39_word_space_0:
-- gas
-- person
-- across
-- profit
-- conduct
-- defy
-- reject
-- cause
-- six
-- reveal
-- oak
-- appear
-bip_39_word_space_1: gas
-bip_39_word_space_10: gas person across profit conduct defy reject cause six reveal
-bip_39_word_space_11: gas person across profit conduct defy reject cause six reveal
-  oak
 bip_39_word_space_12: gas person across profit conduct defy reject cause six reveal
   oak appear
 bip_39_word_space_2: gas person
 bip_39_word_space_3: gas person across
-bip_39_word_space_4: gas person across profit
-bip_39_word_space_5: gas person across profit conduct
-bip_39_word_space_6: gas person across profit conduct defy
-bip_39_word_space_7: gas person across profit conduct defy reject
-bip_39_word_space_8: gas person across profit conduct defy reject cause
-bip_39_word_space_9: gas person across profit conduct defy reject cause six
-bip_39_word_underscore_1: gas
-bip_39_word_underscore_10: gas_person_across_profit_conduct_defy_reject_cause_six_reveal
-bip_39_word_underscore_11: gas_person_across_profit_conduct_defy_reject_cause_six_reveal_oak
 bip_39_word_underscore_12: gas_person_across_profit_conduct_defy_reject_cause_six_reveal_oak_appear
 bip_39_word_underscore_2: gas_person
 bip_39_word_underscore_3: gas_person_across
-bip_39_word_underscore_4: gas_person_across_profit
-bip_39_word_underscore_5: gas_person_across_profit_conduct
-bip_39_word_underscore_6: gas_person_across_profit_conduct_defy
-bip_39_word_underscore_7: gas_person_across_profit_conduct_defy_reject
-bip_39_word_underscore_8: gas_person_across_profit_conduct_defy_reject_cause
-bip_39_word_underscore_9: gas_person_across_profit_conduct_defy_reject_cause_six
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

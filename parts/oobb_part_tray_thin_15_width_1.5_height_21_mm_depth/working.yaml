@@ -1,68 +1,9 @@
-bip_39_word_dash_1: test
-bip_39_word_dash_10: test-large-oval-tiny-trophy-scene-dance-position-bonus-jazz
-bip_39_word_dash_11: test-large-oval-tiny-trophy-scene-dance-position-bonus-jazz-question
 bip_39_word_dash_12: test-large-oval-tiny-trophy-scene-dance-position-bonus-jazz-question-abuse
 bip_39_word_dash_2: test-large
 bip_39_word_dash_3: test-large-oval
-bip_39_word_dash_4: test-large-oval-tiny
-bip_39_word_dash_5: test-large-oval-tiny-trophy
-bip_39_word_dash_6: test-large-oval-tiny-trophy-scene
-bip_39_word_dash_7: test-large-oval-tiny-trophy-scene-dance
-bip_39_word_dash_8: test-large-oval-tiny-trophy-scene-dance-position
-bip_39_word_dash_9: test-large-oval-tiny-trophy-scene-dance-position-bonus
-bip_39_word_new_br_1: test
-bip_39_word_new_br_10: test<br>large<br>oval<br>tiny<br>trophy<br>scene<br>dance<br>position<br>bonus<br>jazz
-bip_39_word_new_br_11: test<br>large<br>oval<br>tiny<br>trophy<br>scene<br>dance<br>position<br>bonus<br>jazz<br>question
 bip_39_word_new_br_12: test<br>large<br>oval<br>tiny<br>trophy<br>scene<br>dance<br>position<br>bonus<br>jazz<br>question<br>abuse
 bip_39_word_new_br_2: test<br>large
 bip_39_word_new_br_3: test<br>large<br>oval
-bip_39_word_new_br_4: test<br>large<br>oval<br>tiny
-bip_39_word_new_br_5: test<br>large<br>oval<br>tiny<br>trophy
-bip_39_word_new_br_6: test<br>large<br>oval<br>tiny<br>trophy<br>scene
-bip_39_word_new_br_7: test<br>large<br>oval<br>tiny<br>trophy<br>scene<br>dance
-bip_39_word_new_br_8: test<br>large<br>oval<br>tiny<br>trophy<br>scene<br>dance<br>position
-bip_39_word_new_br_9: test<br>large<br>oval<br>tiny<br>trophy<br>scene<br>dance<br>position<br>bonus
-bip_39_word_new_line_1: test
-bip_39_word_new_line_10: 'test
-
-  large
-
-  oval
-
-  tiny
-
-  trophy
-
-  scene
-
-  dance
-
-  position
-
-  bonus
-
-  jazz'
-bip_39_word_new_line_11: 'test
-
-  large
-
-  oval
-
-  tiny
-
-  trophy
-
-  scene
-
-  dance
-
-  position
-
-  bonus
-
-  jazz
-
-  question'
 bip_39_word_new_line_12: 'test
 
   large
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'test
   large
 
   oval'
-bip_39_word_new_line_4: 'test
-
-  large
-
-  oval
-
-  tiny'
-bip_39_word_new_line_5: 'test
-
-  large
-
-  oval
-
-  tiny
-
-  trophy'
-bip_39_word_new_line_6: 'test
-
-  large
-
-  oval
-
-  tiny
-
-  trophy
-
-  scene'
-bip_39_word_new_line_7: 'test
-
-  large
-
-  oval
-
-  tiny
-
-  trophy
-
-  scene
-
-  dance'
-bip_39_word_new_line_8: 'test
-
-  large
-
-  oval
-
-  tiny
-
-  trophy
-
-  scene
-
-  dance
-
-  position'
-bip_39_word_new_line_9: 'test
-
-  large
-
-  oval
-
-  tiny
-
-  trophy
-
-  scene
-
-  dance
-
-  position
-
-  bonus'
-bip_39_word_no_space_1: test
-bip_39_word_no_space_10: testlargeovaltinytrophyscenedancepositionbonusjazz
-bip_39_word_no_space_11: testlargeovaltinytrophyscenedancepositionbonusjazzquestion
 bip_39_word_no_space_12: testlargeovaltinytrophyscenedancepositionbonusjazzquestionabuse
 bip_39_word_no_space_2: testlarge
 bip_39_word_no_space_3: testlargeoval
-bip_39_word_no_space_4: testlargeovaltiny
-bip_39_word_no_space_5: testlargeovaltinytrophy
-bip_39_word_no_space_6: testlargeovaltinytrophyscene
-bip_39_word_no_space_7: testlargeovaltinytrophyscenedance
-bip_39_word_no_space_8: testlargeovaltinytrophyscenedanceposition
-bip_39_word_no_space_9: testlargeovaltinytrophyscenedancepositionbonus
-bip_39_word_space_0:
-- test
-- large
-- oval
-- tiny
-- trophy
-- scene
-- dance
-- position
-- bonus
-- jazz
-- question
-- abuse
-bip_39_word_space_1: test
-bip_39_word_space_10: test large oval tiny trophy scene dance position bonus jazz
-bip_39_word_space_11: test large oval tiny trophy scene dance position bonus jazz
-  question
 bip_39_word_space_12: test large oval tiny trophy scene dance position bonus jazz
   question abuse
 bip_39_word_space_2: test large
 bip_39_word_space_3: test large oval
-bip_39_word_space_4: test large oval tiny
-bip_39_word_space_5: test large oval tiny trophy
-bip_39_word_space_6: test large oval tiny trophy scene
-bip_39_word_space_7: test large oval tiny trophy scene dance
-bip_39_word_space_8: test large oval tiny trophy scene dance position
-bip_39_word_space_9: test large oval tiny trophy scene dance position bonus
-bip_39_word_underscore_1: test
-bip_39_word_underscore_10: test_large_oval_tiny_trophy_scene_dance_position_bonus_jazz
-bip_39_word_underscore_11: test_large_oval_tiny_trophy_scene_dance_position_bonus_jazz_question
 bip_39_word_underscore_12: test_large_oval_tiny_trophy_scene_dance_position_bonus_jazz_question_abuse
 bip_39_word_underscore_2: test_large
 bip_39_word_underscore_3: test_large_oval
-bip_39_word_underscore_4: test_large_oval_tiny
-bip_39_word_underscore_5: test_large_oval_tiny_trophy
-bip_39_word_underscore_6: test_large_oval_tiny_trophy_scene
-bip_39_word_underscore_7: test_large_oval_tiny_trophy_scene_dance
-bip_39_word_underscore_8: test_large_oval_tiny_trophy_scene_dance_position
-bip_39_word_underscore_9: test_large_oval_tiny_trophy_scene_dance_position_bonus
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

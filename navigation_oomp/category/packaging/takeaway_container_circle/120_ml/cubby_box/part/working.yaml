@@ -1,68 +1,9 @@
-bip_39_word_dash_1: charge
-bip_39_word_dash_10: charge-frozen-zero-sustain-patch-release-plug-buddy-slush-over
-bip_39_word_dash_11: charge-frozen-zero-sustain-patch-release-plug-buddy-slush-over-rate
 bip_39_word_dash_12: charge-frozen-zero-sustain-patch-release-plug-buddy-slush-over-rate-apology
 bip_39_word_dash_2: charge-frozen
 bip_39_word_dash_3: charge-frozen-zero
-bip_39_word_dash_4: charge-frozen-zero-sustain
-bip_39_word_dash_5: charge-frozen-zero-sustain-patch
-bip_39_word_dash_6: charge-frozen-zero-sustain-patch-release
-bip_39_word_dash_7: charge-frozen-zero-sustain-patch-release-plug
-bip_39_word_dash_8: charge-frozen-zero-sustain-patch-release-plug-buddy
-bip_39_word_dash_9: charge-frozen-zero-sustain-patch-release-plug-buddy-slush
-bip_39_word_new_br_1: charge
-bip_39_word_new_br_10: charge<br>frozen<br>zero<br>sustain<br>patch<br>release<br>plug<br>buddy<br>slush<br>over
-bip_39_word_new_br_11: charge<br>frozen<br>zero<br>sustain<br>patch<br>release<br>plug<br>buddy<br>slush<br>over<br>rate
 bip_39_word_new_br_12: charge<br>frozen<br>zero<br>sustain<br>patch<br>release<br>plug<br>buddy<br>slush<br>over<br>rate<br>apology
 bip_39_word_new_br_2: charge<br>frozen
 bip_39_word_new_br_3: charge<br>frozen<br>zero
-bip_39_word_new_br_4: charge<br>frozen<br>zero<br>sustain
-bip_39_word_new_br_5: charge<br>frozen<br>zero<br>sustain<br>patch
-bip_39_word_new_br_6: charge<br>frozen<br>zero<br>sustain<br>patch<br>release
-bip_39_word_new_br_7: charge<br>frozen<br>zero<br>sustain<br>patch<br>release<br>plug
-bip_39_word_new_br_8: charge<br>frozen<br>zero<br>sustain<br>patch<br>release<br>plug<br>buddy
-bip_39_word_new_br_9: charge<br>frozen<br>zero<br>sustain<br>patch<br>release<br>plug<br>buddy<br>slush
-bip_39_word_new_line_1: charge
-bip_39_word_new_line_10: 'charge
-
-  frozen
-
-  zero
-
-  sustain
-
-  patch
-
-  release
-
-  plug
-
-  buddy
-
-  slush
-
-  over'
-bip_39_word_new_line_11: 'charge
-
-  frozen
-
-  zero
-
-  sustain
-
-  patch
-
-  release
-
-  plug
-
-  buddy
-
-  slush
-
-  over
-
-  rate'
 bip_39_word_new_line_12: 'charge
 
   frozen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'charge
   frozen
 
   zero'
-bip_39_word_new_line_4: 'charge
-
-  frozen
-
-  zero
-
-  sustain'
-bip_39_word_new_line_5: 'charge
-
-  frozen
-
-  zero
-
-  sustain
-
-  patch'
-bip_39_word_new_line_6: 'charge
-
-  frozen
-
-  zero
-
-  sustain
-
-  patch
-
-  release'
-bip_39_word_new_line_7: 'charge
-
-  frozen
-
-  zero
-
-  sustain
-
-  patch
-
-  release
-
-  plug'
-bip_39_word_new_line_8: 'charge
-
-  frozen
-
-  zero
-
-  sustain
-
-  patch
-
-  release
-
-  plug
-
-  buddy'
-bip_39_word_new_line_9: 'charge
-
-  frozen
-
-  zero
-
-  sustain
-
-  patch
-
-  release
-
-  plug
-
-  buddy
-
-  slush'
-bip_39_word_no_space_1: charge
-bip_39_word_no_space_10: chargefrozenzerosustainpatchreleaseplugbuddyslushover
-bip_39_word_no_space_11: chargefrozenzerosustainpatchreleaseplugbuddyslushoverrate
 bip_39_word_no_space_12: chargefrozenzerosustainpatchreleaseplugbuddyslushoverrateapology
 bip_39_word_no_space_2: chargefrozen
 bip_39_word_no_space_3: chargefrozenzero
-bip_39_word_no_space_4: chargefrozenzerosustain
-bip_39_word_no_space_5: chargefrozenzerosustainpatch
-bip_39_word_no_space_6: chargefrozenzerosustainpatchrelease
-bip_39_word_no_space_7: chargefrozenzerosustainpatchreleaseplug
-bip_39_word_no_space_8: chargefrozenzerosustainpatchreleaseplugbuddy
-bip_39_word_no_space_9: chargefrozenzerosustainpatchreleaseplugbuddyslush
-bip_39_word_space_0:
-- charge
-- frozen
-- zero
-- sustain
-- patch
-- release
-- plug
-- buddy
-- slush
-- over
-- rate
-- apology
-bip_39_word_space_1: charge
-bip_39_word_space_10: charge frozen zero sustain patch release plug buddy slush over
-bip_39_word_space_11: charge frozen zero sustain patch release plug buddy slush over
-  rate
 bip_39_word_space_12: charge frozen zero sustain patch release plug buddy slush over
   rate apology
 bip_39_word_space_2: charge frozen
 bip_39_word_space_3: charge frozen zero
-bip_39_word_space_4: charge frozen zero sustain
-bip_39_word_space_5: charge frozen zero sustain patch
-bip_39_word_space_6: charge frozen zero sustain patch release
-bip_39_word_space_7: charge frozen zero sustain patch release plug
-bip_39_word_space_8: charge frozen zero sustain patch release plug buddy
-bip_39_word_space_9: charge frozen zero sustain patch release plug buddy slush
-bip_39_word_underscore_1: charge
-bip_39_word_underscore_10: charge_frozen_zero_sustain_patch_release_plug_buddy_slush_over
-bip_39_word_underscore_11: charge_frozen_zero_sustain_patch_release_plug_buddy_slush_over_rate
 bip_39_word_underscore_12: charge_frozen_zero_sustain_patch_release_plug_buddy_slush_over_rate_apology
 bip_39_word_underscore_2: charge_frozen
 bip_39_word_underscore_3: charge_frozen_zero
-bip_39_word_underscore_4: charge_frozen_zero_sustain
-bip_39_word_underscore_5: charge_frozen_zero_sustain_patch
-bip_39_word_underscore_6: charge_frozen_zero_sustain_patch_release
-bip_39_word_underscore_7: charge_frozen_zero_sustain_patch_release_plug
-bip_39_word_underscore_8: charge_frozen_zero_sustain_patch_release_plug_buddy
-bip_39_word_underscore_9: charge_frozen_zero_sustain_patch_release_plug_buddy_slush
 classification: category
 classification_capital: Category
 classification_first_letter: c

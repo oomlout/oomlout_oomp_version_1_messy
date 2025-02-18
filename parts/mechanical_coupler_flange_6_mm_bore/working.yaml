@@ -1,68 +1,9 @@
-bip_39_word_dash_1: panic
-bip_39_word_dash_10: panic-play-rescue-before-program-company-canvas-danger-fine-dentist
-bip_39_word_dash_11: panic-play-rescue-before-program-company-canvas-danger-fine-dentist-sad
 bip_39_word_dash_12: panic-play-rescue-before-program-company-canvas-danger-fine-dentist-sad-apple
 bip_39_word_dash_2: panic-play
 bip_39_word_dash_3: panic-play-rescue
-bip_39_word_dash_4: panic-play-rescue-before
-bip_39_word_dash_5: panic-play-rescue-before-program
-bip_39_word_dash_6: panic-play-rescue-before-program-company
-bip_39_word_dash_7: panic-play-rescue-before-program-company-canvas
-bip_39_word_dash_8: panic-play-rescue-before-program-company-canvas-danger
-bip_39_word_dash_9: panic-play-rescue-before-program-company-canvas-danger-fine
-bip_39_word_new_br_1: panic
-bip_39_word_new_br_10: panic<br>play<br>rescue<br>before<br>program<br>company<br>canvas<br>danger<br>fine<br>dentist
-bip_39_word_new_br_11: panic<br>play<br>rescue<br>before<br>program<br>company<br>canvas<br>danger<br>fine<br>dentist<br>sad
 bip_39_word_new_br_12: panic<br>play<br>rescue<br>before<br>program<br>company<br>canvas<br>danger<br>fine<br>dentist<br>sad<br>apple
 bip_39_word_new_br_2: panic<br>play
 bip_39_word_new_br_3: panic<br>play<br>rescue
-bip_39_word_new_br_4: panic<br>play<br>rescue<br>before
-bip_39_word_new_br_5: panic<br>play<br>rescue<br>before<br>program
-bip_39_word_new_br_6: panic<br>play<br>rescue<br>before<br>program<br>company
-bip_39_word_new_br_7: panic<br>play<br>rescue<br>before<br>program<br>company<br>canvas
-bip_39_word_new_br_8: panic<br>play<br>rescue<br>before<br>program<br>company<br>canvas<br>danger
-bip_39_word_new_br_9: panic<br>play<br>rescue<br>before<br>program<br>company<br>canvas<br>danger<br>fine
-bip_39_word_new_line_1: panic
-bip_39_word_new_line_10: 'panic
-
-  play
-
-  rescue
-
-  before
-
-  program
-
-  company
-
-  canvas
-
-  danger
-
-  fine
-
-  dentist'
-bip_39_word_new_line_11: 'panic
-
-  play
-
-  rescue
-
-  before
-
-  program
-
-  company
-
-  canvas
-
-  danger
-
-  fine
-
-  dentist
-
-  sad'
 bip_39_word_new_line_12: 'panic
 
   play
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'panic
   play
 
   rescue'
-bip_39_word_new_line_4: 'panic
-
-  play
-
-  rescue
-
-  before'
-bip_39_word_new_line_5: 'panic
-
-  play
-
-  rescue
-
-  before
-
-  program'
-bip_39_word_new_line_6: 'panic
-
-  play
-
-  rescue
-
-  before
-
-  program
-
-  company'
-bip_39_word_new_line_7: 'panic
-
-  play
-
-  rescue
-
-  before
-
-  program
-
-  company
-
-  canvas'
-bip_39_word_new_line_8: 'panic
-
-  play
-
-  rescue
-
-  before
-
-  program
-
-  company
-
-  canvas
-
-  danger'
-bip_39_word_new_line_9: 'panic
-
-  play
-
-  rescue
-
-  before
-
-  program
-
-  company
-
-  canvas
-
-  danger
-
-  fine'
-bip_39_word_no_space_1: panic
-bip_39_word_no_space_10: panicplayrescuebeforeprogramcompanycanvasdangerfinedentist
-bip_39_word_no_space_11: panicplayrescuebeforeprogramcompanycanvasdangerfinedentistsad
 bip_39_word_no_space_12: panicplayrescuebeforeprogramcompanycanvasdangerfinedentistsadapple
 bip_39_word_no_space_2: panicplay
 bip_39_word_no_space_3: panicplayrescue
-bip_39_word_no_space_4: panicplayrescuebefore
-bip_39_word_no_space_5: panicplayrescuebeforeprogram
-bip_39_word_no_space_6: panicplayrescuebeforeprogramcompany
-bip_39_word_no_space_7: panicplayrescuebeforeprogramcompanycanvas
-bip_39_word_no_space_8: panicplayrescuebeforeprogramcompanycanvasdanger
-bip_39_word_no_space_9: panicplayrescuebeforeprogramcompanycanvasdangerfine
-bip_39_word_space_0:
-- panic
-- play
-- rescue
-- before
-- program
-- company
-- canvas
-- danger
-- fine
-- dentist
-- sad
-- apple
-bip_39_word_space_1: panic
-bip_39_word_space_10: panic play rescue before program company canvas danger fine
-  dentist
-bip_39_word_space_11: panic play rescue before program company canvas danger fine
-  dentist sad
 bip_39_word_space_12: panic play rescue before program company canvas danger fine
   dentist sad apple
 bip_39_word_space_2: panic play
 bip_39_word_space_3: panic play rescue
-bip_39_word_space_4: panic play rescue before
-bip_39_word_space_5: panic play rescue before program
-bip_39_word_space_6: panic play rescue before program company
-bip_39_word_space_7: panic play rescue before program company canvas
-bip_39_word_space_8: panic play rescue before program company canvas danger
-bip_39_word_space_9: panic play rescue before program company canvas danger fine
-bip_39_word_underscore_1: panic
-bip_39_word_underscore_10: panic_play_rescue_before_program_company_canvas_danger_fine_dentist
-bip_39_word_underscore_11: panic_play_rescue_before_program_company_canvas_danger_fine_dentist_sad
 bip_39_word_underscore_12: panic_play_rescue_before_program_company_canvas_danger_fine_dentist_sad_apple
 bip_39_word_underscore_2: panic_play
 bip_39_word_underscore_3: panic_play_rescue
-bip_39_word_underscore_4: panic_play_rescue_before
-bip_39_word_underscore_5: panic_play_rescue_before_program
-bip_39_word_underscore_6: panic_play_rescue_before_program_company
-bip_39_word_underscore_7: panic_play_rescue_before_program_company_canvas
-bip_39_word_underscore_8: panic_play_rescue_before_program_company_canvas_danger
-bip_39_word_underscore_9: panic_play_rescue_before_program_company_canvas_danger_fine
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

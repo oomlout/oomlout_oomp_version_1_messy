@@ -1,68 +1,9 @@
-bip_39_word_dash_1: announce
-bip_39_word_dash_10: announce-ecology-false-recipe-barrel-move-monster-flush-tattoo-fan
-bip_39_word_dash_11: announce-ecology-false-recipe-barrel-move-monster-flush-tattoo-fan-cliff
 bip_39_word_dash_12: announce-ecology-false-recipe-barrel-move-monster-flush-tattoo-fan-cliff-amount
 bip_39_word_dash_2: announce-ecology
 bip_39_word_dash_3: announce-ecology-false
-bip_39_word_dash_4: announce-ecology-false-recipe
-bip_39_word_dash_5: announce-ecology-false-recipe-barrel
-bip_39_word_dash_6: announce-ecology-false-recipe-barrel-move
-bip_39_word_dash_7: announce-ecology-false-recipe-barrel-move-monster
-bip_39_word_dash_8: announce-ecology-false-recipe-barrel-move-monster-flush
-bip_39_word_dash_9: announce-ecology-false-recipe-barrel-move-monster-flush-tattoo
-bip_39_word_new_br_1: announce
-bip_39_word_new_br_10: announce<br>ecology<br>false<br>recipe<br>barrel<br>move<br>monster<br>flush<br>tattoo<br>fan
-bip_39_word_new_br_11: announce<br>ecology<br>false<br>recipe<br>barrel<br>move<br>monster<br>flush<br>tattoo<br>fan<br>cliff
 bip_39_word_new_br_12: announce<br>ecology<br>false<br>recipe<br>barrel<br>move<br>monster<br>flush<br>tattoo<br>fan<br>cliff<br>amount
 bip_39_word_new_br_2: announce<br>ecology
 bip_39_word_new_br_3: announce<br>ecology<br>false
-bip_39_word_new_br_4: announce<br>ecology<br>false<br>recipe
-bip_39_word_new_br_5: announce<br>ecology<br>false<br>recipe<br>barrel
-bip_39_word_new_br_6: announce<br>ecology<br>false<br>recipe<br>barrel<br>move
-bip_39_word_new_br_7: announce<br>ecology<br>false<br>recipe<br>barrel<br>move<br>monster
-bip_39_word_new_br_8: announce<br>ecology<br>false<br>recipe<br>barrel<br>move<br>monster<br>flush
-bip_39_word_new_br_9: announce<br>ecology<br>false<br>recipe<br>barrel<br>move<br>monster<br>flush<br>tattoo
-bip_39_word_new_line_1: announce
-bip_39_word_new_line_10: 'announce
-
-  ecology
-
-  false
-
-  recipe
-
-  barrel
-
-  move
-
-  monster
-
-  flush
-
-  tattoo
-
-  fan'
-bip_39_word_new_line_11: 'announce
-
-  ecology
-
-  false
-
-  recipe
-
-  barrel
-
-  move
-
-  monster
-
-  flush
-
-  tattoo
-
-  fan
-
-  cliff'
 bip_39_word_new_line_12: 'announce
 
   ecology
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'announce
   ecology
 
   false'
-bip_39_word_new_line_4: 'announce
-
-  ecology
-
-  false
-
-  recipe'
-bip_39_word_new_line_5: 'announce
-
-  ecology
-
-  false
-
-  recipe
-
-  barrel'
-bip_39_word_new_line_6: 'announce
-
-  ecology
-
-  false
-
-  recipe
-
-  barrel
-
-  move'
-bip_39_word_new_line_7: 'announce
-
-  ecology
-
-  false
-
-  recipe
-
-  barrel
-
-  move
-
-  monster'
-bip_39_word_new_line_8: 'announce
-
-  ecology
-
-  false
-
-  recipe
-
-  barrel
-
-  move
-
-  monster
-
-  flush'
-bip_39_word_new_line_9: 'announce
-
-  ecology
-
-  false
-
-  recipe
-
-  barrel
-
-  move
-
-  monster
-
-  flush
-
-  tattoo'
-bip_39_word_no_space_1: announce
-bip_39_word_no_space_10: announceecologyfalserecipebarrelmovemonsterflushtattoofan
-bip_39_word_no_space_11: announceecologyfalserecipebarrelmovemonsterflushtattoofancliff
 bip_39_word_no_space_12: announceecologyfalserecipebarrelmovemonsterflushtattoofancliffamount
 bip_39_word_no_space_2: announceecology
 bip_39_word_no_space_3: announceecologyfalse
-bip_39_word_no_space_4: announceecologyfalserecipe
-bip_39_word_no_space_5: announceecologyfalserecipebarrel
-bip_39_word_no_space_6: announceecologyfalserecipebarrelmove
-bip_39_word_no_space_7: announceecologyfalserecipebarrelmovemonster
-bip_39_word_no_space_8: announceecologyfalserecipebarrelmovemonsterflush
-bip_39_word_no_space_9: announceecologyfalserecipebarrelmovemonsterflushtattoo
-bip_39_word_space_0:
-- announce
-- ecology
-- 'false'
-- recipe
-- barrel
-- move
-- monster
-- flush
-- tattoo
-- fan
-- cliff
-- amount
-bip_39_word_space_1: announce
-bip_39_word_space_10: announce ecology false recipe barrel move monster flush tattoo
-  fan
-bip_39_word_space_11: announce ecology false recipe barrel move monster flush tattoo
-  fan cliff
 bip_39_word_space_12: announce ecology false recipe barrel move monster flush tattoo
   fan cliff amount
 bip_39_word_space_2: announce ecology
 bip_39_word_space_3: announce ecology false
-bip_39_word_space_4: announce ecology false recipe
-bip_39_word_space_5: announce ecology false recipe barrel
-bip_39_word_space_6: announce ecology false recipe barrel move
-bip_39_word_space_7: announce ecology false recipe barrel move monster
-bip_39_word_space_8: announce ecology false recipe barrel move monster flush
-bip_39_word_space_9: announce ecology false recipe barrel move monster flush tattoo
-bip_39_word_underscore_1: announce
-bip_39_word_underscore_10: announce_ecology_false_recipe_barrel_move_monster_flush_tattoo_fan
-bip_39_word_underscore_11: announce_ecology_false_recipe_barrel_move_monster_flush_tattoo_fan_cliff
 bip_39_word_underscore_12: announce_ecology_false_recipe_barrel_move_monster_flush_tattoo_fan_cliff_amount
 bip_39_word_underscore_2: announce_ecology
 bip_39_word_underscore_3: announce_ecology_false
-bip_39_word_underscore_4: announce_ecology_false_recipe
-bip_39_word_underscore_5: announce_ecology_false_recipe_barrel
-bip_39_word_underscore_6: announce_ecology_false_recipe_barrel_move
-bip_39_word_underscore_7: announce_ecology_false_recipe_barrel_move_monster
-bip_39_word_underscore_8: announce_ecology_false_recipe_barrel_move_monster_flush
-bip_39_word_underscore_9: announce_ecology_false_recipe_barrel_move_monster_flush_tattoo
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

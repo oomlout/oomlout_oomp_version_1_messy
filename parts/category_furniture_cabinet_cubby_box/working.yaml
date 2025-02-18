@@ -1,68 +1,9 @@
-bip_39_word_dash_1: patch
-bip_39_word_dash_10: patch-text-island-joke-cousin-basic-mechanic-whisper-cactus-gold
-bip_39_word_dash_11: patch-text-island-joke-cousin-basic-mechanic-whisper-cactus-gold-cup
 bip_39_word_dash_12: patch-text-island-joke-cousin-basic-mechanic-whisper-cactus-gold-cup-act
 bip_39_word_dash_2: patch-text
 bip_39_word_dash_3: patch-text-island
-bip_39_word_dash_4: patch-text-island-joke
-bip_39_word_dash_5: patch-text-island-joke-cousin
-bip_39_word_dash_6: patch-text-island-joke-cousin-basic
-bip_39_word_dash_7: patch-text-island-joke-cousin-basic-mechanic
-bip_39_word_dash_8: patch-text-island-joke-cousin-basic-mechanic-whisper
-bip_39_word_dash_9: patch-text-island-joke-cousin-basic-mechanic-whisper-cactus
-bip_39_word_new_br_1: patch
-bip_39_word_new_br_10: patch<br>text<br>island<br>joke<br>cousin<br>basic<br>mechanic<br>whisper<br>cactus<br>gold
-bip_39_word_new_br_11: patch<br>text<br>island<br>joke<br>cousin<br>basic<br>mechanic<br>whisper<br>cactus<br>gold<br>cup
 bip_39_word_new_br_12: patch<br>text<br>island<br>joke<br>cousin<br>basic<br>mechanic<br>whisper<br>cactus<br>gold<br>cup<br>act
 bip_39_word_new_br_2: patch<br>text
 bip_39_word_new_br_3: patch<br>text<br>island
-bip_39_word_new_br_4: patch<br>text<br>island<br>joke
-bip_39_word_new_br_5: patch<br>text<br>island<br>joke<br>cousin
-bip_39_word_new_br_6: patch<br>text<br>island<br>joke<br>cousin<br>basic
-bip_39_word_new_br_7: patch<br>text<br>island<br>joke<br>cousin<br>basic<br>mechanic
-bip_39_word_new_br_8: patch<br>text<br>island<br>joke<br>cousin<br>basic<br>mechanic<br>whisper
-bip_39_word_new_br_9: patch<br>text<br>island<br>joke<br>cousin<br>basic<br>mechanic<br>whisper<br>cactus
-bip_39_word_new_line_1: patch
-bip_39_word_new_line_10: 'patch
-
-  text
-
-  island
-
-  joke
-
-  cousin
-
-  basic
-
-  mechanic
-
-  whisper
-
-  cactus
-
-  gold'
-bip_39_word_new_line_11: 'patch
-
-  text
-
-  island
-
-  joke
-
-  cousin
-
-  basic
-
-  mechanic
-
-  whisper
-
-  cactus
-
-  gold
-
-  cup'
 bip_39_word_new_line_12: 'patch
 
   text
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'patch
   text
 
   island'
-bip_39_word_new_line_4: 'patch
-
-  text
-
-  island
-
-  joke'
-bip_39_word_new_line_5: 'patch
-
-  text
-
-  island
-
-  joke
-
-  cousin'
-bip_39_word_new_line_6: 'patch
-
-  text
-
-  island
-
-  joke
-
-  cousin
-
-  basic'
-bip_39_word_new_line_7: 'patch
-
-  text
-
-  island
-
-  joke
-
-  cousin
-
-  basic
-
-  mechanic'
-bip_39_word_new_line_8: 'patch
-
-  text
-
-  island
-
-  joke
-
-  cousin
-
-  basic
-
-  mechanic
-
-  whisper'
-bip_39_word_new_line_9: 'patch
-
-  text
-
-  island
-
-  joke
-
-  cousin
-
-  basic
-
-  mechanic
-
-  whisper
-
-  cactus'
-bip_39_word_no_space_1: patch
-bip_39_word_no_space_10: patchtextislandjokecousinbasicmechanicwhispercactusgold
-bip_39_word_no_space_11: patchtextislandjokecousinbasicmechanicwhispercactusgoldcup
 bip_39_word_no_space_12: patchtextislandjokecousinbasicmechanicwhispercactusgoldcupact
 bip_39_word_no_space_2: patchtext
 bip_39_word_no_space_3: patchtextisland
-bip_39_word_no_space_4: patchtextislandjoke
-bip_39_word_no_space_5: patchtextislandjokecousin
-bip_39_word_no_space_6: patchtextislandjokecousinbasic
-bip_39_word_no_space_7: patchtextislandjokecousinbasicmechanic
-bip_39_word_no_space_8: patchtextislandjokecousinbasicmechanicwhisper
-bip_39_word_no_space_9: patchtextislandjokecousinbasicmechanicwhispercactus
-bip_39_word_space_0:
-- patch
-- text
-- island
-- joke
-- cousin
-- basic
-- mechanic
-- whisper
-- cactus
-- gold
-- cup
-- act
-bip_39_word_space_1: patch
-bip_39_word_space_10: patch text island joke cousin basic mechanic whisper cactus
-  gold
-bip_39_word_space_11: patch text island joke cousin basic mechanic whisper cactus
-  gold cup
 bip_39_word_space_12: patch text island joke cousin basic mechanic whisper cactus
   gold cup act
 bip_39_word_space_2: patch text
 bip_39_word_space_3: patch text island
-bip_39_word_space_4: patch text island joke
-bip_39_word_space_5: patch text island joke cousin
-bip_39_word_space_6: patch text island joke cousin basic
-bip_39_word_space_7: patch text island joke cousin basic mechanic
-bip_39_word_space_8: patch text island joke cousin basic mechanic whisper
-bip_39_word_space_9: patch text island joke cousin basic mechanic whisper cactus
-bip_39_word_underscore_1: patch
-bip_39_word_underscore_10: patch_text_island_joke_cousin_basic_mechanic_whisper_cactus_gold
-bip_39_word_underscore_11: patch_text_island_joke_cousin_basic_mechanic_whisper_cactus_gold_cup
 bip_39_word_underscore_12: patch_text_island_joke_cousin_basic_mechanic_whisper_cactus_gold_cup_act
 bip_39_word_underscore_2: patch_text
 bip_39_word_underscore_3: patch_text_island
-bip_39_word_underscore_4: patch_text_island_joke
-bip_39_word_underscore_5: patch_text_island_joke_cousin
-bip_39_word_underscore_6: patch_text_island_joke_cousin_basic
-bip_39_word_underscore_7: patch_text_island_joke_cousin_basic_mechanic
-bip_39_word_underscore_8: patch_text_island_joke_cousin_basic_mechanic_whisper
-bip_39_word_underscore_9: patch_text_island_joke_cousin_basic_mechanic_whisper_cactus
 classification: category
 classification_capital: Category
 classification_first_letter: c

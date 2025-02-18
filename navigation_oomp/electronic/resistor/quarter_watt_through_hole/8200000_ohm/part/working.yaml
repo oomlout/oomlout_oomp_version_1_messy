@@ -1,68 +1,9 @@
-bip_39_word_dash_1: task
-bip_39_word_dash_10: task-garden-hurt-syrup-any-dolphin-marble-math-cup-outdoor
-bip_39_word_dash_11: task-garden-hurt-syrup-any-dolphin-marble-math-cup-outdoor-okay
 bip_39_word_dash_12: task-garden-hurt-syrup-any-dolphin-marble-math-cup-outdoor-okay-arrow
 bip_39_word_dash_2: task-garden
 bip_39_word_dash_3: task-garden-hurt
-bip_39_word_dash_4: task-garden-hurt-syrup
-bip_39_word_dash_5: task-garden-hurt-syrup-any
-bip_39_word_dash_6: task-garden-hurt-syrup-any-dolphin
-bip_39_word_dash_7: task-garden-hurt-syrup-any-dolphin-marble
-bip_39_word_dash_8: task-garden-hurt-syrup-any-dolphin-marble-math
-bip_39_word_dash_9: task-garden-hurt-syrup-any-dolphin-marble-math-cup
-bip_39_word_new_br_1: task
-bip_39_word_new_br_10: task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup<br>outdoor
-bip_39_word_new_br_11: task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup<br>outdoor<br>okay
 bip_39_word_new_br_12: task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup<br>outdoor<br>okay<br>arrow
 bip_39_word_new_br_2: task<br>garden
 bip_39_word_new_br_3: task<br>garden<br>hurt
-bip_39_word_new_br_4: task<br>garden<br>hurt<br>syrup
-bip_39_word_new_br_5: task<br>garden<br>hurt<br>syrup<br>any
-bip_39_word_new_br_6: task<br>garden<br>hurt<br>syrup<br>any<br>dolphin
-bip_39_word_new_br_7: task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble
-bip_39_word_new_br_8: task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math
-bip_39_word_new_br_9: task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup
-bip_39_word_new_line_1: task
-bip_39_word_new_line_10: 'task
-
-  garden
-
-  hurt
-
-  syrup
-
-  any
-
-  dolphin
-
-  marble
-
-  math
-
-  cup
-
-  outdoor'
-bip_39_word_new_line_11: 'task
-
-  garden
-
-  hurt
-
-  syrup
-
-  any
-
-  dolphin
-
-  marble
-
-  math
-
-  cup
-
-  outdoor
-
-  okay'
 bip_39_word_new_line_12: 'task
 
   garden
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'task
   garden
 
   hurt'
-bip_39_word_new_line_4: 'task
-
-  garden
-
-  hurt
-
-  syrup'
-bip_39_word_new_line_5: 'task
-
-  garden
-
-  hurt
-
-  syrup
-
-  any'
-bip_39_word_new_line_6: 'task
-
-  garden
-
-  hurt
-
-  syrup
-
-  any
-
-  dolphin'
-bip_39_word_new_line_7: 'task
-
-  garden
-
-  hurt
-
-  syrup
-
-  any
-
-  dolphin
-
-  marble'
-bip_39_word_new_line_8: 'task
-
-  garden
-
-  hurt
-
-  syrup
-
-  any
-
-  dolphin
-
-  marble
-
-  math'
-bip_39_word_new_line_9: 'task
-
-  garden
-
-  hurt
-
-  syrup
-
-  any
-
-  dolphin
-
-  marble
-
-  math
-
-  cup'
-bip_39_word_no_space_1: task
-bip_39_word_no_space_10: taskgardenhurtsyrupanydolphinmarblemathcupoutdoor
-bip_39_word_no_space_11: taskgardenhurtsyrupanydolphinmarblemathcupoutdoorokay
 bip_39_word_no_space_12: taskgardenhurtsyrupanydolphinmarblemathcupoutdoorokayarrow
 bip_39_word_no_space_2: taskgarden
 bip_39_word_no_space_3: taskgardenhurt
-bip_39_word_no_space_4: taskgardenhurtsyrup
-bip_39_word_no_space_5: taskgardenhurtsyrupany
-bip_39_word_no_space_6: taskgardenhurtsyrupanydolphin
-bip_39_word_no_space_7: taskgardenhurtsyrupanydolphinmarble
-bip_39_word_no_space_8: taskgardenhurtsyrupanydolphinmarblemath
-bip_39_word_no_space_9: taskgardenhurtsyrupanydolphinmarblemathcup
-bip_39_word_space_0:
-- task
-- garden
-- hurt
-- syrup
-- any
-- dolphin
-- marble
-- math
-- cup
-- outdoor
-- okay
-- arrow
-bip_39_word_space_1: task
-bip_39_word_space_10: task garden hurt syrup any dolphin marble math cup outdoor
-bip_39_word_space_11: task garden hurt syrup any dolphin marble math cup outdoor okay
 bip_39_word_space_12: task garden hurt syrup any dolphin marble math cup outdoor okay
   arrow
 bip_39_word_space_2: task garden
 bip_39_word_space_3: task garden hurt
-bip_39_word_space_4: task garden hurt syrup
-bip_39_word_space_5: task garden hurt syrup any
-bip_39_word_space_6: task garden hurt syrup any dolphin
-bip_39_word_space_7: task garden hurt syrup any dolphin marble
-bip_39_word_space_8: task garden hurt syrup any dolphin marble math
-bip_39_word_space_9: task garden hurt syrup any dolphin marble math cup
-bip_39_word_underscore_1: task
-bip_39_word_underscore_10: task_garden_hurt_syrup_any_dolphin_marble_math_cup_outdoor
-bip_39_word_underscore_11: task_garden_hurt_syrup_any_dolphin_marble_math_cup_outdoor_okay
 bip_39_word_underscore_12: task_garden_hurt_syrup_any_dolphin_marble_math_cup_outdoor_okay_arrow
 bip_39_word_underscore_2: task_garden
 bip_39_word_underscore_3: task_garden_hurt
-bip_39_word_underscore_4: task_garden_hurt_syrup
-bip_39_word_underscore_5: task_garden_hurt_syrup_any
-bip_39_word_underscore_6: task_garden_hurt_syrup_any_dolphin
-bip_39_word_underscore_7: task_garden_hurt_syrup_any_dolphin_marble
-bip_39_word_underscore_8: task_garden_hurt_syrup_any_dolphin_marble_math
-bip_39_word_underscore_9: task_garden_hurt_syrup_any_dolphin_marble_math_cup
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

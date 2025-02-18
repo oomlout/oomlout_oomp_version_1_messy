@@ -1,68 +1,9 @@
-bip_39_word_dash_1: steak
-bip_39_word_dash_10: steak-endorse-palace-cliff-latin-casino-speak-mountain-midnight-refuse
-bip_39_word_dash_11: steak-endorse-palace-cliff-latin-casino-speak-mountain-midnight-refuse-only
 bip_39_word_dash_12: steak-endorse-palace-cliff-latin-casino-speak-mountain-midnight-refuse-only-armor
 bip_39_word_dash_2: steak-endorse
 bip_39_word_dash_3: steak-endorse-palace
-bip_39_word_dash_4: steak-endorse-palace-cliff
-bip_39_word_dash_5: steak-endorse-palace-cliff-latin
-bip_39_word_dash_6: steak-endorse-palace-cliff-latin-casino
-bip_39_word_dash_7: steak-endorse-palace-cliff-latin-casino-speak
-bip_39_word_dash_8: steak-endorse-palace-cliff-latin-casino-speak-mountain
-bip_39_word_dash_9: steak-endorse-palace-cliff-latin-casino-speak-mountain-midnight
-bip_39_word_new_br_1: steak
-bip_39_word_new_br_10: steak<br>endorse<br>palace<br>cliff<br>latin<br>casino<br>speak<br>mountain<br>midnight<br>refuse
-bip_39_word_new_br_11: steak<br>endorse<br>palace<br>cliff<br>latin<br>casino<br>speak<br>mountain<br>midnight<br>refuse<br>only
 bip_39_word_new_br_12: steak<br>endorse<br>palace<br>cliff<br>latin<br>casino<br>speak<br>mountain<br>midnight<br>refuse<br>only<br>armor
 bip_39_word_new_br_2: steak<br>endorse
 bip_39_word_new_br_3: steak<br>endorse<br>palace
-bip_39_word_new_br_4: steak<br>endorse<br>palace<br>cliff
-bip_39_word_new_br_5: steak<br>endorse<br>palace<br>cliff<br>latin
-bip_39_word_new_br_6: steak<br>endorse<br>palace<br>cliff<br>latin<br>casino
-bip_39_word_new_br_7: steak<br>endorse<br>palace<br>cliff<br>latin<br>casino<br>speak
-bip_39_word_new_br_8: steak<br>endorse<br>palace<br>cliff<br>latin<br>casino<br>speak<br>mountain
-bip_39_word_new_br_9: steak<br>endorse<br>palace<br>cliff<br>latin<br>casino<br>speak<br>mountain<br>midnight
-bip_39_word_new_line_1: steak
-bip_39_word_new_line_10: 'steak
-
-  endorse
-
-  palace
-
-  cliff
-
-  latin
-
-  casino
-
-  speak
-
-  mountain
-
-  midnight
-
-  refuse'
-bip_39_word_new_line_11: 'steak
-
-  endorse
-
-  palace
-
-  cliff
-
-  latin
-
-  casino
-
-  speak
-
-  mountain
-
-  midnight
-
-  refuse
-
-  only'
 bip_39_word_new_line_12: 'steak
 
   endorse
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'steak
   endorse
 
   palace'
-bip_39_word_new_line_4: 'steak
-
-  endorse
-
-  palace
-
-  cliff'
-bip_39_word_new_line_5: 'steak
-
-  endorse
-
-  palace
-
-  cliff
-
-  latin'
-bip_39_word_new_line_6: 'steak
-
-  endorse
-
-  palace
-
-  cliff
-
-  latin
-
-  casino'
-bip_39_word_new_line_7: 'steak
-
-  endorse
-
-  palace
-
-  cliff
-
-  latin
-
-  casino
-
-  speak'
-bip_39_word_new_line_8: 'steak
-
-  endorse
-
-  palace
-
-  cliff
-
-  latin
-
-  casino
-
-  speak
-
-  mountain'
-bip_39_word_new_line_9: 'steak
-
-  endorse
-
-  palace
-
-  cliff
-
-  latin
-
-  casino
-
-  speak
-
-  mountain
-
-  midnight'
-bip_39_word_no_space_1: steak
-bip_39_word_no_space_10: steakendorsepalaceclifflatincasinospeakmountainmidnightrefuse
-bip_39_word_no_space_11: steakendorsepalaceclifflatincasinospeakmountainmidnightrefuseonly
 bip_39_word_no_space_12: steakendorsepalaceclifflatincasinospeakmountainmidnightrefuseonlyarmor
 bip_39_word_no_space_2: steakendorse
 bip_39_word_no_space_3: steakendorsepalace
-bip_39_word_no_space_4: steakendorsepalacecliff
-bip_39_word_no_space_5: steakendorsepalaceclifflatin
-bip_39_word_no_space_6: steakendorsepalaceclifflatincasino
-bip_39_word_no_space_7: steakendorsepalaceclifflatincasinospeak
-bip_39_word_no_space_8: steakendorsepalaceclifflatincasinospeakmountain
-bip_39_word_no_space_9: steakendorsepalaceclifflatincasinospeakmountainmidnight
-bip_39_word_space_0:
-- steak
-- endorse
-- palace
-- cliff
-- latin
-- casino
-- speak
-- mountain
-- midnight
-- refuse
-- only
-- armor
-bip_39_word_space_1: steak
-bip_39_word_space_10: steak endorse palace cliff latin casino speak mountain midnight
-  refuse
-bip_39_word_space_11: steak endorse palace cliff latin casino speak mountain midnight
-  refuse only
 bip_39_word_space_12: steak endorse palace cliff latin casino speak mountain midnight
   refuse only armor
 bip_39_word_space_2: steak endorse
 bip_39_word_space_3: steak endorse palace
-bip_39_word_space_4: steak endorse palace cliff
-bip_39_word_space_5: steak endorse palace cliff latin
-bip_39_word_space_6: steak endorse palace cliff latin casino
-bip_39_word_space_7: steak endorse palace cliff latin casino speak
-bip_39_word_space_8: steak endorse palace cliff latin casino speak mountain
-bip_39_word_space_9: steak endorse palace cliff latin casino speak mountain midnight
-bip_39_word_underscore_1: steak
-bip_39_word_underscore_10: steak_endorse_palace_cliff_latin_casino_speak_mountain_midnight_refuse
-bip_39_word_underscore_11: steak_endorse_palace_cliff_latin_casino_speak_mountain_midnight_refuse_only
 bip_39_word_underscore_12: steak_endorse_palace_cliff_latin_casino_speak_mountain_midnight_refuse_only_armor
 bip_39_word_underscore_2: steak_endorse
 bip_39_word_underscore_3: steak_endorse_palace
-bip_39_word_underscore_4: steak_endorse_palace_cliff
-bip_39_word_underscore_5: steak_endorse_palace_cliff_latin
-bip_39_word_underscore_6: steak_endorse_palace_cliff_latin_casino
-bip_39_word_underscore_7: steak_endorse_palace_cliff_latin_casino_speak
-bip_39_word_underscore_8: steak_endorse_palace_cliff_latin_casino_speak_mountain
-bip_39_word_underscore_9: steak_endorse_palace_cliff_latin_casino_speak_mountain_midnight
 classification: category
 classification_capital: Category
 classification_first_letter: c

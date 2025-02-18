@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tenant
-bip_39_word_dash_10: tenant-zone-bonus-food-opera-neck-rich-dream-actual-pulse
-bip_39_word_dash_11: tenant-zone-bonus-food-opera-neck-rich-dream-actual-pulse-topic
 bip_39_word_dash_12: tenant-zone-bonus-food-opera-neck-rich-dream-actual-pulse-topic-actual
 bip_39_word_dash_2: tenant-zone
 bip_39_word_dash_3: tenant-zone-bonus
-bip_39_word_dash_4: tenant-zone-bonus-food
-bip_39_word_dash_5: tenant-zone-bonus-food-opera
-bip_39_word_dash_6: tenant-zone-bonus-food-opera-neck
-bip_39_word_dash_7: tenant-zone-bonus-food-opera-neck-rich
-bip_39_word_dash_8: tenant-zone-bonus-food-opera-neck-rich-dream
-bip_39_word_dash_9: tenant-zone-bonus-food-opera-neck-rich-dream-actual
-bip_39_word_new_br_1: tenant
-bip_39_word_new_br_10: tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual<br>pulse
-bip_39_word_new_br_11: tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual<br>pulse<br>topic
 bip_39_word_new_br_12: tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual<br>pulse<br>topic<br>actual
 bip_39_word_new_br_2: tenant<br>zone
 bip_39_word_new_br_3: tenant<br>zone<br>bonus
-bip_39_word_new_br_4: tenant<br>zone<br>bonus<br>food
-bip_39_word_new_br_5: tenant<br>zone<br>bonus<br>food<br>opera
-bip_39_word_new_br_6: tenant<br>zone<br>bonus<br>food<br>opera<br>neck
-bip_39_word_new_br_7: tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich
-bip_39_word_new_br_8: tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream
-bip_39_word_new_br_9: tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual
-bip_39_word_new_line_1: tenant
-bip_39_word_new_line_10: 'tenant
-
-  zone
-
-  bonus
-
-  food
-
-  opera
-
-  neck
-
-  rich
-
-  dream
-
-  actual
-
-  pulse'
-bip_39_word_new_line_11: 'tenant
-
-  zone
-
-  bonus
-
-  food
-
-  opera
-
-  neck
-
-  rich
-
-  dream
-
-  actual
-
-  pulse
-
-  topic'
 bip_39_word_new_line_12: 'tenant
 
   zone
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'tenant
   zone
 
   bonus'
-bip_39_word_new_line_4: 'tenant
-
-  zone
-
-  bonus
-
-  food'
-bip_39_word_new_line_5: 'tenant
-
-  zone
-
-  bonus
-
-  food
-
-  opera'
-bip_39_word_new_line_6: 'tenant
-
-  zone
-
-  bonus
-
-  food
-
-  opera
-
-  neck'
-bip_39_word_new_line_7: 'tenant
-
-  zone
-
-  bonus
-
-  food
-
-  opera
-
-  neck
-
-  rich'
-bip_39_word_new_line_8: 'tenant
-
-  zone
-
-  bonus
-
-  food
-
-  opera
-
-  neck
-
-  rich
-
-  dream'
-bip_39_word_new_line_9: 'tenant
-
-  zone
-
-  bonus
-
-  food
-
-  opera
-
-  neck
-
-  rich
-
-  dream
-
-  actual'
-bip_39_word_no_space_1: tenant
-bip_39_word_no_space_10: tenantzonebonusfoodoperaneckrichdreamactualpulse
-bip_39_word_no_space_11: tenantzonebonusfoodoperaneckrichdreamactualpulsetopic
 bip_39_word_no_space_12: tenantzonebonusfoodoperaneckrichdreamactualpulsetopicactual
 bip_39_word_no_space_2: tenantzone
 bip_39_word_no_space_3: tenantzonebonus
-bip_39_word_no_space_4: tenantzonebonusfood
-bip_39_word_no_space_5: tenantzonebonusfoodopera
-bip_39_word_no_space_6: tenantzonebonusfoodoperaneck
-bip_39_word_no_space_7: tenantzonebonusfoodoperaneckrich
-bip_39_word_no_space_8: tenantzonebonusfoodoperaneckrichdream
-bip_39_word_no_space_9: tenantzonebonusfoodoperaneckrichdreamactual
-bip_39_word_space_0:
-- tenant
-- zone
-- bonus
-- food
-- opera
-- neck
-- rich
-- dream
-- actual
-- pulse
-- topic
-- actual
-bip_39_word_space_1: tenant
-bip_39_word_space_10: tenant zone bonus food opera neck rich dream actual pulse
-bip_39_word_space_11: tenant zone bonus food opera neck rich dream actual pulse topic
 bip_39_word_space_12: tenant zone bonus food opera neck rich dream actual pulse topic
   actual
 bip_39_word_space_2: tenant zone
 bip_39_word_space_3: tenant zone bonus
-bip_39_word_space_4: tenant zone bonus food
-bip_39_word_space_5: tenant zone bonus food opera
-bip_39_word_space_6: tenant zone bonus food opera neck
-bip_39_word_space_7: tenant zone bonus food opera neck rich
-bip_39_word_space_8: tenant zone bonus food opera neck rich dream
-bip_39_word_space_9: tenant zone bonus food opera neck rich dream actual
-bip_39_word_underscore_1: tenant
-bip_39_word_underscore_10: tenant_zone_bonus_food_opera_neck_rich_dream_actual_pulse
-bip_39_word_underscore_11: tenant_zone_bonus_food_opera_neck_rich_dream_actual_pulse_topic
 bip_39_word_underscore_12: tenant_zone_bonus_food_opera_neck_rich_dream_actual_pulse_topic_actual
 bip_39_word_underscore_2: tenant_zone
 bip_39_word_underscore_3: tenant_zone_bonus
-bip_39_word_underscore_4: tenant_zone_bonus_food
-bip_39_word_underscore_5: tenant_zone_bonus_food_opera
-bip_39_word_underscore_6: tenant_zone_bonus_food_opera_neck
-bip_39_word_underscore_7: tenant_zone_bonus_food_opera_neck_rich
-bip_39_word_underscore_8: tenant_zone_bonus_food_opera_neck_rich_dream
-bip_39_word_underscore_9: tenant_zone_bonus_food_opera_neck_rich_dream_actual
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

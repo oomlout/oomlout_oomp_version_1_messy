@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chef
-bip_39_word_dash_10: chef-street-runway-heavy-crouch-warfare-cake-average-road-palace
-bip_39_word_dash_11: chef-street-runway-heavy-crouch-warfare-cake-average-road-palace-ask
 bip_39_word_dash_12: chef-street-runway-heavy-crouch-warfare-cake-average-road-palace-ask-arena
 bip_39_word_dash_2: chef-street
 bip_39_word_dash_3: chef-street-runway
-bip_39_word_dash_4: chef-street-runway-heavy
-bip_39_word_dash_5: chef-street-runway-heavy-crouch
-bip_39_word_dash_6: chef-street-runway-heavy-crouch-warfare
-bip_39_word_dash_7: chef-street-runway-heavy-crouch-warfare-cake
-bip_39_word_dash_8: chef-street-runway-heavy-crouch-warfare-cake-average
-bip_39_word_dash_9: chef-street-runway-heavy-crouch-warfare-cake-average-road
-bip_39_word_new_br_1: chef
-bip_39_word_new_br_10: chef<br>street<br>runway<br>heavy<br>crouch<br>warfare<br>cake<br>average<br>road<br>palace
-bip_39_word_new_br_11: chef<br>street<br>runway<br>heavy<br>crouch<br>warfare<br>cake<br>average<br>road<br>palace<br>ask
 bip_39_word_new_br_12: chef<br>street<br>runway<br>heavy<br>crouch<br>warfare<br>cake<br>average<br>road<br>palace<br>ask<br>arena
 bip_39_word_new_br_2: chef<br>street
 bip_39_word_new_br_3: chef<br>street<br>runway
-bip_39_word_new_br_4: chef<br>street<br>runway<br>heavy
-bip_39_word_new_br_5: chef<br>street<br>runway<br>heavy<br>crouch
-bip_39_word_new_br_6: chef<br>street<br>runway<br>heavy<br>crouch<br>warfare
-bip_39_word_new_br_7: chef<br>street<br>runway<br>heavy<br>crouch<br>warfare<br>cake
-bip_39_word_new_br_8: chef<br>street<br>runway<br>heavy<br>crouch<br>warfare<br>cake<br>average
-bip_39_word_new_br_9: chef<br>street<br>runway<br>heavy<br>crouch<br>warfare<br>cake<br>average<br>road
-bip_39_word_new_line_1: chef
-bip_39_word_new_line_10: 'chef
-
-  street
-
-  runway
-
-  heavy
-
-  crouch
-
-  warfare
-
-  cake
-
-  average
-
-  road
-
-  palace'
-bip_39_word_new_line_11: 'chef
-
-  street
-
-  runway
-
-  heavy
-
-  crouch
-
-  warfare
-
-  cake
-
-  average
-
-  road
-
-  palace
-
-  ask'
 bip_39_word_new_line_12: 'chef
 
   street
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chef
   street
 
   runway'
-bip_39_word_new_line_4: 'chef
-
-  street
-
-  runway
-
-  heavy'
-bip_39_word_new_line_5: 'chef
-
-  street
-
-  runway
-
-  heavy
-
-  crouch'
-bip_39_word_new_line_6: 'chef
-
-  street
-
-  runway
-
-  heavy
-
-  crouch
-
-  warfare'
-bip_39_word_new_line_7: 'chef
-
-  street
-
-  runway
-
-  heavy
-
-  crouch
-
-  warfare
-
-  cake'
-bip_39_word_new_line_8: 'chef
-
-  street
-
-  runway
-
-  heavy
-
-  crouch
-
-  warfare
-
-  cake
-
-  average'
-bip_39_word_new_line_9: 'chef
-
-  street
-
-  runway
-
-  heavy
-
-  crouch
-
-  warfare
-
-  cake
-
-  average
-
-  road'
-bip_39_word_no_space_1: chef
-bip_39_word_no_space_10: chefstreetrunwayheavycrouchwarfarecakeaverageroadpalace
-bip_39_word_no_space_11: chefstreetrunwayheavycrouchwarfarecakeaverageroadpalaceask
 bip_39_word_no_space_12: chefstreetrunwayheavycrouchwarfarecakeaverageroadpalaceaskarena
 bip_39_word_no_space_2: chefstreet
 bip_39_word_no_space_3: chefstreetrunway
-bip_39_word_no_space_4: chefstreetrunwayheavy
-bip_39_word_no_space_5: chefstreetrunwayheavycrouch
-bip_39_word_no_space_6: chefstreetrunwayheavycrouchwarfare
-bip_39_word_no_space_7: chefstreetrunwayheavycrouchwarfarecake
-bip_39_word_no_space_8: chefstreetrunwayheavycrouchwarfarecakeaverage
-bip_39_word_no_space_9: chefstreetrunwayheavycrouchwarfarecakeaverageroad
-bip_39_word_space_0:
-- chef
-- street
-- runway
-- heavy
-- crouch
-- warfare
-- cake
-- average
-- road
-- palace
-- ask
-- arena
-bip_39_word_space_1: chef
-bip_39_word_space_10: chef street runway heavy crouch warfare cake average road palace
-bip_39_word_space_11: chef street runway heavy crouch warfare cake average road palace
-  ask
 bip_39_word_space_12: chef street runway heavy crouch warfare cake average road palace
   ask arena
 bip_39_word_space_2: chef street
 bip_39_word_space_3: chef street runway
-bip_39_word_space_4: chef street runway heavy
-bip_39_word_space_5: chef street runway heavy crouch
-bip_39_word_space_6: chef street runway heavy crouch warfare
-bip_39_word_space_7: chef street runway heavy crouch warfare cake
-bip_39_word_space_8: chef street runway heavy crouch warfare cake average
-bip_39_word_space_9: chef street runway heavy crouch warfare cake average road
-bip_39_word_underscore_1: chef
-bip_39_word_underscore_10: chef_street_runway_heavy_crouch_warfare_cake_average_road_palace
-bip_39_word_underscore_11: chef_street_runway_heavy_crouch_warfare_cake_average_road_palace_ask
 bip_39_word_underscore_12: chef_street_runway_heavy_crouch_warfare_cake_average_road_palace_ask_arena
 bip_39_word_underscore_2: chef_street
 bip_39_word_underscore_3: chef_street_runway
-bip_39_word_underscore_4: chef_street_runway_heavy
-bip_39_word_underscore_5: chef_street_runway_heavy_crouch
-bip_39_word_underscore_6: chef_street_runway_heavy_crouch_warfare
-bip_39_word_underscore_7: chef_street_runway_heavy_crouch_warfare_cake
-bip_39_word_underscore_8: chef_street_runway_heavy_crouch_warfare_cake_average
-bip_39_word_underscore_9: chef_street_runway_heavy_crouch_warfare_cake_average_road
 classification: category
 classification_capital: Category
 classification_first_letter: c

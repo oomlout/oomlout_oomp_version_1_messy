@@ -1,68 +1,9 @@
-bip_39_word_dash_1: insect
-bip_39_word_dash_10: insect-peasant-canvas-pumpkin-proof-credit-peace-practice-hospital-guess
-bip_39_word_dash_11: insect-peasant-canvas-pumpkin-proof-credit-peace-practice-hospital-guess-series
 bip_39_word_dash_12: insect-peasant-canvas-pumpkin-proof-credit-peace-practice-hospital-guess-series-ahead
 bip_39_word_dash_2: insect-peasant
 bip_39_word_dash_3: insect-peasant-canvas
-bip_39_word_dash_4: insect-peasant-canvas-pumpkin
-bip_39_word_dash_5: insect-peasant-canvas-pumpkin-proof
-bip_39_word_dash_6: insect-peasant-canvas-pumpkin-proof-credit
-bip_39_word_dash_7: insect-peasant-canvas-pumpkin-proof-credit-peace
-bip_39_word_dash_8: insect-peasant-canvas-pumpkin-proof-credit-peace-practice
-bip_39_word_dash_9: insect-peasant-canvas-pumpkin-proof-credit-peace-practice-hospital
-bip_39_word_new_br_1: insect
-bip_39_word_new_br_10: insect<br>peasant<br>canvas<br>pumpkin<br>proof<br>credit<br>peace<br>practice<br>hospital<br>guess
-bip_39_word_new_br_11: insect<br>peasant<br>canvas<br>pumpkin<br>proof<br>credit<br>peace<br>practice<br>hospital<br>guess<br>series
 bip_39_word_new_br_12: insect<br>peasant<br>canvas<br>pumpkin<br>proof<br>credit<br>peace<br>practice<br>hospital<br>guess<br>series<br>ahead
 bip_39_word_new_br_2: insect<br>peasant
 bip_39_word_new_br_3: insect<br>peasant<br>canvas
-bip_39_word_new_br_4: insect<br>peasant<br>canvas<br>pumpkin
-bip_39_word_new_br_5: insect<br>peasant<br>canvas<br>pumpkin<br>proof
-bip_39_word_new_br_6: insect<br>peasant<br>canvas<br>pumpkin<br>proof<br>credit
-bip_39_word_new_br_7: insect<br>peasant<br>canvas<br>pumpkin<br>proof<br>credit<br>peace
-bip_39_word_new_br_8: insect<br>peasant<br>canvas<br>pumpkin<br>proof<br>credit<br>peace<br>practice
-bip_39_word_new_br_9: insect<br>peasant<br>canvas<br>pumpkin<br>proof<br>credit<br>peace<br>practice<br>hospital
-bip_39_word_new_line_1: insect
-bip_39_word_new_line_10: 'insect
-
-  peasant
-
-  canvas
-
-  pumpkin
-
-  proof
-
-  credit
-
-  peace
-
-  practice
-
-  hospital
-
-  guess'
-bip_39_word_new_line_11: 'insect
-
-  peasant
-
-  canvas
-
-  pumpkin
-
-  proof
-
-  credit
-
-  peace
-
-  practice
-
-  hospital
-
-  guess
-
-  series'
 bip_39_word_new_line_12: 'insect
 
   peasant
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'insect
   peasant
 
   canvas'
-bip_39_word_new_line_4: 'insect
-
-  peasant
-
-  canvas
-
-  pumpkin'
-bip_39_word_new_line_5: 'insect
-
-  peasant
-
-  canvas
-
-  pumpkin
-
-  proof'
-bip_39_word_new_line_6: 'insect
-
-  peasant
-
-  canvas
-
-  pumpkin
-
-  proof
-
-  credit'
-bip_39_word_new_line_7: 'insect
-
-  peasant
-
-  canvas
-
-  pumpkin
-
-  proof
-
-  credit
-
-  peace'
-bip_39_word_new_line_8: 'insect
-
-  peasant
-
-  canvas
-
-  pumpkin
-
-  proof
-
-  credit
-
-  peace
-
-  practice'
-bip_39_word_new_line_9: 'insect
-
-  peasant
-
-  canvas
-
-  pumpkin
-
-  proof
-
-  credit
-
-  peace
-
-  practice
-
-  hospital'
-bip_39_word_no_space_1: insect
-bip_39_word_no_space_10: insectpeasantcanvaspumpkinproofcreditpeacepracticehospitalguess
-bip_39_word_no_space_11: insectpeasantcanvaspumpkinproofcreditpeacepracticehospitalguessseries
 bip_39_word_no_space_12: insectpeasantcanvaspumpkinproofcreditpeacepracticehospitalguessseriesahead
 bip_39_word_no_space_2: insectpeasant
 bip_39_word_no_space_3: insectpeasantcanvas
-bip_39_word_no_space_4: insectpeasantcanvaspumpkin
-bip_39_word_no_space_5: insectpeasantcanvaspumpkinproof
-bip_39_word_no_space_6: insectpeasantcanvaspumpkinproofcredit
-bip_39_word_no_space_7: insectpeasantcanvaspumpkinproofcreditpeace
-bip_39_word_no_space_8: insectpeasantcanvaspumpkinproofcreditpeacepractice
-bip_39_word_no_space_9: insectpeasantcanvaspumpkinproofcreditpeacepracticehospital
-bip_39_word_space_0:
-- insect
-- peasant
-- canvas
-- pumpkin
-- proof
-- credit
-- peace
-- practice
-- hospital
-- guess
-- series
-- ahead
-bip_39_word_space_1: insect
-bip_39_word_space_10: insect peasant canvas pumpkin proof credit peace practice hospital
-  guess
-bip_39_word_space_11: insect peasant canvas pumpkin proof credit peace practice hospital
-  guess series
 bip_39_word_space_12: insect peasant canvas pumpkin proof credit peace practice hospital
   guess series ahead
 bip_39_word_space_2: insect peasant
 bip_39_word_space_3: insect peasant canvas
-bip_39_word_space_4: insect peasant canvas pumpkin
-bip_39_word_space_5: insect peasant canvas pumpkin proof
-bip_39_word_space_6: insect peasant canvas pumpkin proof credit
-bip_39_word_space_7: insect peasant canvas pumpkin proof credit peace
-bip_39_word_space_8: insect peasant canvas pumpkin proof credit peace practice
-bip_39_word_space_9: insect peasant canvas pumpkin proof credit peace practice hospital
-bip_39_word_underscore_1: insect
-bip_39_word_underscore_10: insect_peasant_canvas_pumpkin_proof_credit_peace_practice_hospital_guess
-bip_39_word_underscore_11: insect_peasant_canvas_pumpkin_proof_credit_peace_practice_hospital_guess_series
 bip_39_word_underscore_12: insect_peasant_canvas_pumpkin_proof_credit_peace_practice_hospital_guess_series_ahead
 bip_39_word_underscore_2: insect_peasant
 bip_39_word_underscore_3: insect_peasant_canvas
-bip_39_word_underscore_4: insect_peasant_canvas_pumpkin
-bip_39_word_underscore_5: insect_peasant_canvas_pumpkin_proof
-bip_39_word_underscore_6: insect_peasant_canvas_pumpkin_proof_credit
-bip_39_word_underscore_7: insect_peasant_canvas_pumpkin_proof_credit_peace
-bip_39_word_underscore_8: insect_peasant_canvas_pumpkin_proof_credit_peace_practice
-bip_39_word_underscore_9: insect_peasant_canvas_pumpkin_proof_credit_peace_practice_hospital
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

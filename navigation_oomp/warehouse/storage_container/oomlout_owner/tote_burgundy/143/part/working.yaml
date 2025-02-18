@@ -1,68 +1,9 @@
-bip_39_word_dash_1: script
-bip_39_word_dash_10: script-daughter-slush-chef-sail-reform-cat-bright-reveal-industry
-bip_39_word_dash_11: script-daughter-slush-chef-sail-reform-cat-bright-reveal-industry-vapor
 bip_39_word_dash_12: script-daughter-slush-chef-sail-reform-cat-bright-reveal-industry-vapor-alone
 bip_39_word_dash_2: script-daughter
 bip_39_word_dash_3: script-daughter-slush
-bip_39_word_dash_4: script-daughter-slush-chef
-bip_39_word_dash_5: script-daughter-slush-chef-sail
-bip_39_word_dash_6: script-daughter-slush-chef-sail-reform
-bip_39_word_dash_7: script-daughter-slush-chef-sail-reform-cat
-bip_39_word_dash_8: script-daughter-slush-chef-sail-reform-cat-bright
-bip_39_word_dash_9: script-daughter-slush-chef-sail-reform-cat-bright-reveal
-bip_39_word_new_br_1: script
-bip_39_word_new_br_10: script<br>daughter<br>slush<br>chef<br>sail<br>reform<br>cat<br>bright<br>reveal<br>industry
-bip_39_word_new_br_11: script<br>daughter<br>slush<br>chef<br>sail<br>reform<br>cat<br>bright<br>reveal<br>industry<br>vapor
 bip_39_word_new_br_12: script<br>daughter<br>slush<br>chef<br>sail<br>reform<br>cat<br>bright<br>reveal<br>industry<br>vapor<br>alone
 bip_39_word_new_br_2: script<br>daughter
 bip_39_word_new_br_3: script<br>daughter<br>slush
-bip_39_word_new_br_4: script<br>daughter<br>slush<br>chef
-bip_39_word_new_br_5: script<br>daughter<br>slush<br>chef<br>sail
-bip_39_word_new_br_6: script<br>daughter<br>slush<br>chef<br>sail<br>reform
-bip_39_word_new_br_7: script<br>daughter<br>slush<br>chef<br>sail<br>reform<br>cat
-bip_39_word_new_br_8: script<br>daughter<br>slush<br>chef<br>sail<br>reform<br>cat<br>bright
-bip_39_word_new_br_9: script<br>daughter<br>slush<br>chef<br>sail<br>reform<br>cat<br>bright<br>reveal
-bip_39_word_new_line_1: script
-bip_39_word_new_line_10: 'script
-
-  daughter
-
-  slush
-
-  chef
-
-  sail
-
-  reform
-
-  cat
-
-  bright
-
-  reveal
-
-  industry'
-bip_39_word_new_line_11: 'script
-
-  daughter
-
-  slush
-
-  chef
-
-  sail
-
-  reform
-
-  cat
-
-  bright
-
-  reveal
-
-  industry
-
-  vapor'
 bip_39_word_new_line_12: 'script
 
   daughter
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'script
   daughter
 
   slush'
-bip_39_word_new_line_4: 'script
-
-  daughter
-
-  slush
-
-  chef'
-bip_39_word_new_line_5: 'script
-
-  daughter
-
-  slush
-
-  chef
-
-  sail'
-bip_39_word_new_line_6: 'script
-
-  daughter
-
-  slush
-
-  chef
-
-  sail
-
-  reform'
-bip_39_word_new_line_7: 'script
-
-  daughter
-
-  slush
-
-  chef
-
-  sail
-
-  reform
-
-  cat'
-bip_39_word_new_line_8: 'script
-
-  daughter
-
-  slush
-
-  chef
-
-  sail
-
-  reform
-
-  cat
-
-  bright'
-bip_39_word_new_line_9: 'script
-
-  daughter
-
-  slush
-
-  chef
-
-  sail
-
-  reform
-
-  cat
-
-  bright
-
-  reveal'
-bip_39_word_no_space_1: script
-bip_39_word_no_space_10: scriptdaughterslushchefsailreformcatbrightrevealindustry
-bip_39_word_no_space_11: scriptdaughterslushchefsailreformcatbrightrevealindustryvapor
 bip_39_word_no_space_12: scriptdaughterslushchefsailreformcatbrightrevealindustryvaporalone
 bip_39_word_no_space_2: scriptdaughter
 bip_39_word_no_space_3: scriptdaughterslush
-bip_39_word_no_space_4: scriptdaughterslushchef
-bip_39_word_no_space_5: scriptdaughterslushchefsail
-bip_39_word_no_space_6: scriptdaughterslushchefsailreform
-bip_39_word_no_space_7: scriptdaughterslushchefsailreformcat
-bip_39_word_no_space_8: scriptdaughterslushchefsailreformcatbright
-bip_39_word_no_space_9: scriptdaughterslushchefsailreformcatbrightreveal
-bip_39_word_space_0:
-- script
-- daughter
-- slush
-- chef
-- sail
-- reform
-- cat
-- bright
-- reveal
-- industry
-- vapor
-- alone
-bip_39_word_space_1: script
-bip_39_word_space_10: script daughter slush chef sail reform cat bright reveal industry
-bip_39_word_space_11: script daughter slush chef sail reform cat bright reveal industry
-  vapor
 bip_39_word_space_12: script daughter slush chef sail reform cat bright reveal industry
   vapor alone
 bip_39_word_space_2: script daughter
 bip_39_word_space_3: script daughter slush
-bip_39_word_space_4: script daughter slush chef
-bip_39_word_space_5: script daughter slush chef sail
-bip_39_word_space_6: script daughter slush chef sail reform
-bip_39_word_space_7: script daughter slush chef sail reform cat
-bip_39_word_space_8: script daughter slush chef sail reform cat bright
-bip_39_word_space_9: script daughter slush chef sail reform cat bright reveal
-bip_39_word_underscore_1: script
-bip_39_word_underscore_10: script_daughter_slush_chef_sail_reform_cat_bright_reveal_industry
-bip_39_word_underscore_11: script_daughter_slush_chef_sail_reform_cat_bright_reveal_industry_vapor
 bip_39_word_underscore_12: script_daughter_slush_chef_sail_reform_cat_bright_reveal_industry_vapor_alone
 bip_39_word_underscore_2: script_daughter
 bip_39_word_underscore_3: script_daughter_slush
-bip_39_word_underscore_4: script_daughter_slush_chef
-bip_39_word_underscore_5: script_daughter_slush_chef_sail
-bip_39_word_underscore_6: script_daughter_slush_chef_sail_reform
-bip_39_word_underscore_7: script_daughter_slush_chef_sail_reform_cat
-bip_39_word_underscore_8: script_daughter_slush_chef_sail_reform_cat_bright
-bip_39_word_underscore_9: script_daughter_slush_chef_sail_reform_cat_bright_reveal
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

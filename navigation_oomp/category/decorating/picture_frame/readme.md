@@ -5,4 +5,7 @@
 * [ikea_knopppang](ikea_knopppang)
   * [cubby_box](ikea_knopppang/cubby_box)
   * [tote](ikea_knopppang/tote)
+* [ikea_ribba](ikea_ribba)
+  * [cubby_box](ikea_ribba/cubby_box)
+  * [tote](ikea_ribba/tote)
 * [tote](tote)

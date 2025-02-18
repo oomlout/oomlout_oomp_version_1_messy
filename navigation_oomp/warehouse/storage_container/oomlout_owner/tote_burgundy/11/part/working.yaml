@@ -1,68 +1,9 @@
-bip_39_word_dash_1: distance
-bip_39_word_dash_10: distance-wave-burst-iron-chest-liberty-sell-section-heart-spot
-bip_39_word_dash_11: distance-wave-burst-iron-chest-liberty-sell-section-heart-spot-sell
 bip_39_word_dash_12: distance-wave-burst-iron-chest-liberty-sell-section-heart-spot-sell-armor
 bip_39_word_dash_2: distance-wave
 bip_39_word_dash_3: distance-wave-burst
-bip_39_word_dash_4: distance-wave-burst-iron
-bip_39_word_dash_5: distance-wave-burst-iron-chest
-bip_39_word_dash_6: distance-wave-burst-iron-chest-liberty
-bip_39_word_dash_7: distance-wave-burst-iron-chest-liberty-sell
-bip_39_word_dash_8: distance-wave-burst-iron-chest-liberty-sell-section
-bip_39_word_dash_9: distance-wave-burst-iron-chest-liberty-sell-section-heart
-bip_39_word_new_br_1: distance
-bip_39_word_new_br_10: distance<br>wave<br>burst<br>iron<br>chest<br>liberty<br>sell<br>section<br>heart<br>spot
-bip_39_word_new_br_11: distance<br>wave<br>burst<br>iron<br>chest<br>liberty<br>sell<br>section<br>heart<br>spot<br>sell
 bip_39_word_new_br_12: distance<br>wave<br>burst<br>iron<br>chest<br>liberty<br>sell<br>section<br>heart<br>spot<br>sell<br>armor
 bip_39_word_new_br_2: distance<br>wave
 bip_39_word_new_br_3: distance<br>wave<br>burst
-bip_39_word_new_br_4: distance<br>wave<br>burst<br>iron
-bip_39_word_new_br_5: distance<br>wave<br>burst<br>iron<br>chest
-bip_39_word_new_br_6: distance<br>wave<br>burst<br>iron<br>chest<br>liberty
-bip_39_word_new_br_7: distance<br>wave<br>burst<br>iron<br>chest<br>liberty<br>sell
-bip_39_word_new_br_8: distance<br>wave<br>burst<br>iron<br>chest<br>liberty<br>sell<br>section
-bip_39_word_new_br_9: distance<br>wave<br>burst<br>iron<br>chest<br>liberty<br>sell<br>section<br>heart
-bip_39_word_new_line_1: distance
-bip_39_word_new_line_10: 'distance
-
-  wave
-
-  burst
-
-  iron
-
-  chest
-
-  liberty
-
-  sell
-
-  section
-
-  heart
-
-  spot'
-bip_39_word_new_line_11: 'distance
-
-  wave
-
-  burst
-
-  iron
-
-  chest
-
-  liberty
-
-  sell
-
-  section
-
-  heart
-
-  spot
-
-  sell'
 bip_39_word_new_line_12: 'distance
 
   wave
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'distance
   wave
 
   burst'
-bip_39_word_new_line_4: 'distance
-
-  wave
-
-  burst
-
-  iron'
-bip_39_word_new_line_5: 'distance
-
-  wave
-
-  burst
-
-  iron
-
-  chest'
-bip_39_word_new_line_6: 'distance
-
-  wave
-
-  burst
-
-  iron
-
-  chest
-
-  liberty'
-bip_39_word_new_line_7: 'distance
-
-  wave
-
-  burst
-
-  iron
-
-  chest
-
-  liberty
-
-  sell'
-bip_39_word_new_line_8: 'distance
-
-  wave
-
-  burst
-
-  iron
-
-  chest
-
-  liberty
-
-  sell
-
-  section'
-bip_39_word_new_line_9: 'distance
-
-  wave
-
-  burst
-
-  iron
-
-  chest
-
-  liberty
-
-  sell
-
-  section
-
-  heart'
-bip_39_word_no_space_1: distance
-bip_39_word_no_space_10: distancewaveburstironchestlibertysellsectionheartspot
-bip_39_word_no_space_11: distancewaveburstironchestlibertysellsectionheartspotsell
 bip_39_word_no_space_12: distancewaveburstironchestlibertysellsectionheartspotsellarmor
 bip_39_word_no_space_2: distancewave
 bip_39_word_no_space_3: distancewaveburst
-bip_39_word_no_space_4: distancewaveburstiron
-bip_39_word_no_space_5: distancewaveburstironchest
-bip_39_word_no_space_6: distancewaveburstironchestliberty
-bip_39_word_no_space_7: distancewaveburstironchestlibertysell
-bip_39_word_no_space_8: distancewaveburstironchestlibertysellsection
-bip_39_word_no_space_9: distancewaveburstironchestlibertysellsectionheart
-bip_39_word_space_0:
-- distance
-- wave
-- burst
-- iron
-- chest
-- liberty
-- sell
-- section
-- heart
-- spot
-- sell
-- armor
-bip_39_word_space_1: distance
-bip_39_word_space_10: distance wave burst iron chest liberty sell section heart spot
-bip_39_word_space_11: distance wave burst iron chest liberty sell section heart spot
-  sell
 bip_39_word_space_12: distance wave burst iron chest liberty sell section heart spot
   sell armor
 bip_39_word_space_2: distance wave
 bip_39_word_space_3: distance wave burst
-bip_39_word_space_4: distance wave burst iron
-bip_39_word_space_5: distance wave burst iron chest
-bip_39_word_space_6: distance wave burst iron chest liberty
-bip_39_word_space_7: distance wave burst iron chest liberty sell
-bip_39_word_space_8: distance wave burst iron chest liberty sell section
-bip_39_word_space_9: distance wave burst iron chest liberty sell section heart
-bip_39_word_underscore_1: distance
-bip_39_word_underscore_10: distance_wave_burst_iron_chest_liberty_sell_section_heart_spot
-bip_39_word_underscore_11: distance_wave_burst_iron_chest_liberty_sell_section_heart_spot_sell
 bip_39_word_underscore_12: distance_wave_burst_iron_chest_liberty_sell_section_heart_spot_sell_armor
 bip_39_word_underscore_2: distance_wave
 bip_39_word_underscore_3: distance_wave_burst
-bip_39_word_underscore_4: distance_wave_burst_iron
-bip_39_word_underscore_5: distance_wave_burst_iron_chest
-bip_39_word_underscore_6: distance_wave_burst_iron_chest_liberty
-bip_39_word_underscore_7: distance_wave_burst_iron_chest_liberty_sell
-bip_39_word_underscore_8: distance_wave_burst_iron_chest_liberty_sell_section
-bip_39_word_underscore_9: distance_wave_burst_iron_chest_liberty_sell_section_heart
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

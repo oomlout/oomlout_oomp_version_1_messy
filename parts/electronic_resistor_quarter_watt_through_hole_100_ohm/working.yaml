@@ -1,68 +1,9 @@
-bip_39_word_dash_1: annual
-bip_39_word_dash_10: annual-flavor-dove-burst-erosion-ordinary-card-check-zoo-train
-bip_39_word_dash_11: annual-flavor-dove-burst-erosion-ordinary-card-check-zoo-train-skirt
 bip_39_word_dash_12: annual-flavor-dove-burst-erosion-ordinary-card-check-zoo-train-skirt-angry
 bip_39_word_dash_2: annual-flavor
 bip_39_word_dash_3: annual-flavor-dove
-bip_39_word_dash_4: annual-flavor-dove-burst
-bip_39_word_dash_5: annual-flavor-dove-burst-erosion
-bip_39_word_dash_6: annual-flavor-dove-burst-erosion-ordinary
-bip_39_word_dash_7: annual-flavor-dove-burst-erosion-ordinary-card
-bip_39_word_dash_8: annual-flavor-dove-burst-erosion-ordinary-card-check
-bip_39_word_dash_9: annual-flavor-dove-burst-erosion-ordinary-card-check-zoo
-bip_39_word_new_br_1: annual
-bip_39_word_new_br_10: annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train
-bip_39_word_new_br_11: annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train<br>skirt
 bip_39_word_new_br_12: annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo<br>train<br>skirt<br>angry
 bip_39_word_new_br_2: annual<br>flavor
 bip_39_word_new_br_3: annual<br>flavor<br>dove
-bip_39_word_new_br_4: annual<br>flavor<br>dove<br>burst
-bip_39_word_new_br_5: annual<br>flavor<br>dove<br>burst<br>erosion
-bip_39_word_new_br_6: annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary
-bip_39_word_new_br_7: annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card
-bip_39_word_new_br_8: annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check
-bip_39_word_new_br_9: annual<br>flavor<br>dove<br>burst<br>erosion<br>ordinary<br>card<br>check<br>zoo
-bip_39_word_new_line_1: annual
-bip_39_word_new_line_10: 'annual
-
-  flavor
-
-  dove
-
-  burst
-
-  erosion
-
-  ordinary
-
-  card
-
-  check
-
-  zoo
-
-  train'
-bip_39_word_new_line_11: 'annual
-
-  flavor
-
-  dove
-
-  burst
-
-  erosion
-
-  ordinary
-
-  card
-
-  check
-
-  zoo
-
-  train
-
-  skirt'
 bip_39_word_new_line_12: 'annual
 
   flavor
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'annual
   flavor
 
   dove'
-bip_39_word_new_line_4: 'annual
-
-  flavor
-
-  dove
-
-  burst'
-bip_39_word_new_line_5: 'annual
-
-  flavor
-
-  dove
-
-  burst
-
-  erosion'
-bip_39_word_new_line_6: 'annual
-
-  flavor
-
-  dove
-
-  burst
-
-  erosion
-
-  ordinary'
-bip_39_word_new_line_7: 'annual
-
-  flavor
-
-  dove
-
-  burst
-
-  erosion
-
-  ordinary
-
-  card'
-bip_39_word_new_line_8: 'annual
-
-  flavor
-
-  dove
-
-  burst
-
-  erosion
-
-  ordinary
-
-  card
-
-  check'
-bip_39_word_new_line_9: 'annual
-
-  flavor
-
-  dove
-
-  burst
-
-  erosion
-
-  ordinary
-
-  card
-
-  check
-
-  zoo'
-bip_39_word_no_space_1: annual
-bip_39_word_no_space_10: annualflavordovebursterosionordinarycardcheckzootrain
-bip_39_word_no_space_11: annualflavordovebursterosionordinarycardcheckzootrainskirt
 bip_39_word_no_space_12: annualflavordovebursterosionordinarycardcheckzootrainskirtangry
 bip_39_word_no_space_2: annualflavor
 bip_39_word_no_space_3: annualflavordove
-bip_39_word_no_space_4: annualflavordoveburst
-bip_39_word_no_space_5: annualflavordovebursterosion
-bip_39_word_no_space_6: annualflavordovebursterosionordinary
-bip_39_word_no_space_7: annualflavordovebursterosionordinarycard
-bip_39_word_no_space_8: annualflavordovebursterosionordinarycardcheck
-bip_39_word_no_space_9: annualflavordovebursterosionordinarycardcheckzoo
-bip_39_word_space_0:
-- annual
-- flavor
-- dove
-- burst
-- erosion
-- ordinary
-- card
-- check
-- zoo
-- train
-- skirt
-- angry
-bip_39_word_space_1: annual
-bip_39_word_space_10: annual flavor dove burst erosion ordinary card check zoo train
-bip_39_word_space_11: annual flavor dove burst erosion ordinary card check zoo train
-  skirt
 bip_39_word_space_12: annual flavor dove burst erosion ordinary card check zoo train
   skirt angry
 bip_39_word_space_2: annual flavor
 bip_39_word_space_3: annual flavor dove
-bip_39_word_space_4: annual flavor dove burst
-bip_39_word_space_5: annual flavor dove burst erosion
-bip_39_word_space_6: annual flavor dove burst erosion ordinary
-bip_39_word_space_7: annual flavor dove burst erosion ordinary card
-bip_39_word_space_8: annual flavor dove burst erosion ordinary card check
-bip_39_word_space_9: annual flavor dove burst erosion ordinary card check zoo
-bip_39_word_underscore_1: annual
-bip_39_word_underscore_10: annual_flavor_dove_burst_erosion_ordinary_card_check_zoo_train
-bip_39_word_underscore_11: annual_flavor_dove_burst_erosion_ordinary_card_check_zoo_train_skirt
 bip_39_word_underscore_12: annual_flavor_dove_burst_erosion_ordinary_card_check_zoo_train_skirt_angry
 bip_39_word_underscore_2: annual_flavor
 bip_39_word_underscore_3: annual_flavor_dove
-bip_39_word_underscore_4: annual_flavor_dove_burst
-bip_39_word_underscore_5: annual_flavor_dove_burst_erosion
-bip_39_word_underscore_6: annual_flavor_dove_burst_erosion_ordinary
-bip_39_word_underscore_7: annual_flavor_dove_burst_erosion_ordinary_card
-bip_39_word_underscore_8: annual_flavor_dove_burst_erosion_ordinary_card_check
-bip_39_word_underscore_9: annual_flavor_dove_burst_erosion_ordinary_card_check_zoo
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: distance
-bip_39_word_dash_10: distance-birth-cave-round-calm-motion-extra-stage-canyon-learn
-bip_39_word_dash_11: distance-birth-cave-round-calm-motion-extra-stage-canyon-learn-drum
 bip_39_word_dash_12: distance-birth-cave-round-calm-motion-extra-stage-canyon-learn-drum-above
 bip_39_word_dash_2: distance-birth
 bip_39_word_dash_3: distance-birth-cave
-bip_39_word_dash_4: distance-birth-cave-round
-bip_39_word_dash_5: distance-birth-cave-round-calm
-bip_39_word_dash_6: distance-birth-cave-round-calm-motion
-bip_39_word_dash_7: distance-birth-cave-round-calm-motion-extra
-bip_39_word_dash_8: distance-birth-cave-round-calm-motion-extra-stage
-bip_39_word_dash_9: distance-birth-cave-round-calm-motion-extra-stage-canyon
-bip_39_word_new_br_1: distance
-bip_39_word_new_br_10: distance<br>birth<br>cave<br>round<br>calm<br>motion<br>extra<br>stage<br>canyon<br>learn
-bip_39_word_new_br_11: distance<br>birth<br>cave<br>round<br>calm<br>motion<br>extra<br>stage<br>canyon<br>learn<br>drum
 bip_39_word_new_br_12: distance<br>birth<br>cave<br>round<br>calm<br>motion<br>extra<br>stage<br>canyon<br>learn<br>drum<br>above
 bip_39_word_new_br_2: distance<br>birth
 bip_39_word_new_br_3: distance<br>birth<br>cave
-bip_39_word_new_br_4: distance<br>birth<br>cave<br>round
-bip_39_word_new_br_5: distance<br>birth<br>cave<br>round<br>calm
-bip_39_word_new_br_6: distance<br>birth<br>cave<br>round<br>calm<br>motion
-bip_39_word_new_br_7: distance<br>birth<br>cave<br>round<br>calm<br>motion<br>extra
-bip_39_word_new_br_8: distance<br>birth<br>cave<br>round<br>calm<br>motion<br>extra<br>stage
-bip_39_word_new_br_9: distance<br>birth<br>cave<br>round<br>calm<br>motion<br>extra<br>stage<br>canyon
-bip_39_word_new_line_1: distance
-bip_39_word_new_line_10: 'distance
-
-  birth
-
-  cave
-
-  round
-
-  calm
-
-  motion
-
-  extra
-
-  stage
-
-  canyon
-
-  learn'
-bip_39_word_new_line_11: 'distance
-
-  birth
-
-  cave
-
-  round
-
-  calm
-
-  motion
-
-  extra
-
-  stage
-
-  canyon
-
-  learn
-
-  drum'
 bip_39_word_new_line_12: 'distance
 
   birth
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'distance
   birth
 
   cave'
-bip_39_word_new_line_4: 'distance
-
-  birth
-
-  cave
-
-  round'
-bip_39_word_new_line_5: 'distance
-
-  birth
-
-  cave
-
-  round
-
-  calm'
-bip_39_word_new_line_6: 'distance
-
-  birth
-
-  cave
-
-  round
-
-  calm
-
-  motion'
-bip_39_word_new_line_7: 'distance
-
-  birth
-
-  cave
-
-  round
-
-  calm
-
-  motion
-
-  extra'
-bip_39_word_new_line_8: 'distance
-
-  birth
-
-  cave
-
-  round
-
-  calm
-
-  motion
-
-  extra
-
-  stage'
-bip_39_word_new_line_9: 'distance
-
-  birth
-
-  cave
-
-  round
-
-  calm
-
-  motion
-
-  extra
-
-  stage
-
-  canyon'
-bip_39_word_no_space_1: distance
-bip_39_word_no_space_10: distancebirthcaveroundcalmmotionextrastagecanyonlearn
-bip_39_word_no_space_11: distancebirthcaveroundcalmmotionextrastagecanyonlearndrum
 bip_39_word_no_space_12: distancebirthcaveroundcalmmotionextrastagecanyonlearndrumabove
 bip_39_word_no_space_2: distancebirth
 bip_39_word_no_space_3: distancebirthcave
-bip_39_word_no_space_4: distancebirthcaveround
-bip_39_word_no_space_5: distancebirthcaveroundcalm
-bip_39_word_no_space_6: distancebirthcaveroundcalmmotion
-bip_39_word_no_space_7: distancebirthcaveroundcalmmotionextra
-bip_39_word_no_space_8: distancebirthcaveroundcalmmotionextrastage
-bip_39_word_no_space_9: distancebirthcaveroundcalmmotionextrastagecanyon
-bip_39_word_space_0:
-- distance
-- birth
-- cave
-- round
-- calm
-- motion
-- extra
-- stage
-- canyon
-- learn
-- drum
-- above
-bip_39_word_space_1: distance
-bip_39_word_space_10: distance birth cave round calm motion extra stage canyon learn
-bip_39_word_space_11: distance birth cave round calm motion extra stage canyon learn
-  drum
 bip_39_word_space_12: distance birth cave round calm motion extra stage canyon learn
   drum above
 bip_39_word_space_2: distance birth
 bip_39_word_space_3: distance birth cave
-bip_39_word_space_4: distance birth cave round
-bip_39_word_space_5: distance birth cave round calm
-bip_39_word_space_6: distance birth cave round calm motion
-bip_39_word_space_7: distance birth cave round calm motion extra
-bip_39_word_space_8: distance birth cave round calm motion extra stage
-bip_39_word_space_9: distance birth cave round calm motion extra stage canyon
-bip_39_word_underscore_1: distance
-bip_39_word_underscore_10: distance_birth_cave_round_calm_motion_extra_stage_canyon_learn
-bip_39_word_underscore_11: distance_birth_cave_round_calm_motion_extra_stage_canyon_learn_drum
 bip_39_word_underscore_12: distance_birth_cave_round_calm_motion_extra_stage_canyon_learn_drum_above
 bip_39_word_underscore_2: distance_birth
 bip_39_word_underscore_3: distance_birth_cave
-bip_39_word_underscore_4: distance_birth_cave_round
-bip_39_word_underscore_5: distance_birth_cave_round_calm
-bip_39_word_underscore_6: distance_birth_cave_round_calm_motion
-bip_39_word_underscore_7: distance_birth_cave_round_calm_motion_extra
-bip_39_word_underscore_8: distance_birth_cave_round_calm_motion_extra_stage
-bip_39_word_underscore_9: distance_birth_cave_round_calm_motion_extra_stage_canyon
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

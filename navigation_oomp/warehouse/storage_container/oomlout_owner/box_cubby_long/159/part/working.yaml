@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trip
-bip_39_word_dash_10: trip-danger-point-aunt-cage-increase-baby-mercy-come-pitch
-bip_39_word_dash_11: trip-danger-point-aunt-cage-increase-baby-mercy-come-pitch-damp
 bip_39_word_dash_12: trip-danger-point-aunt-cage-increase-baby-mercy-come-pitch-damp-apology
 bip_39_word_dash_2: trip-danger
 bip_39_word_dash_3: trip-danger-point
-bip_39_word_dash_4: trip-danger-point-aunt
-bip_39_word_dash_5: trip-danger-point-aunt-cage
-bip_39_word_dash_6: trip-danger-point-aunt-cage-increase
-bip_39_word_dash_7: trip-danger-point-aunt-cage-increase-baby
-bip_39_word_dash_8: trip-danger-point-aunt-cage-increase-baby-mercy
-bip_39_word_dash_9: trip-danger-point-aunt-cage-increase-baby-mercy-come
-bip_39_word_new_br_1: trip
-bip_39_word_new_br_10: trip<br>danger<br>point<br>aunt<br>cage<br>increase<br>baby<br>mercy<br>come<br>pitch
-bip_39_word_new_br_11: trip<br>danger<br>point<br>aunt<br>cage<br>increase<br>baby<br>mercy<br>come<br>pitch<br>damp
 bip_39_word_new_br_12: trip<br>danger<br>point<br>aunt<br>cage<br>increase<br>baby<br>mercy<br>come<br>pitch<br>damp<br>apology
 bip_39_word_new_br_2: trip<br>danger
 bip_39_word_new_br_3: trip<br>danger<br>point
-bip_39_word_new_br_4: trip<br>danger<br>point<br>aunt
-bip_39_word_new_br_5: trip<br>danger<br>point<br>aunt<br>cage
-bip_39_word_new_br_6: trip<br>danger<br>point<br>aunt<br>cage<br>increase
-bip_39_word_new_br_7: trip<br>danger<br>point<br>aunt<br>cage<br>increase<br>baby
-bip_39_word_new_br_8: trip<br>danger<br>point<br>aunt<br>cage<br>increase<br>baby<br>mercy
-bip_39_word_new_br_9: trip<br>danger<br>point<br>aunt<br>cage<br>increase<br>baby<br>mercy<br>come
-bip_39_word_new_line_1: trip
-bip_39_word_new_line_10: 'trip
-
-  danger
-
-  point
-
-  aunt
-
-  cage
-
-  increase
-
-  baby
-
-  mercy
-
-  come
-
-  pitch'
-bip_39_word_new_line_11: 'trip
-
-  danger
-
-  point
-
-  aunt
-
-  cage
-
-  increase
-
-  baby
-
-  mercy
-
-  come
-
-  pitch
-
-  damp'
 bip_39_word_new_line_12: 'trip
 
   danger
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'trip
   danger
 
   point'
-bip_39_word_new_line_4: 'trip
-
-  danger
-
-  point
-
-  aunt'
-bip_39_word_new_line_5: 'trip
-
-  danger
-
-  point
-
-  aunt
-
-  cage'
-bip_39_word_new_line_6: 'trip
-
-  danger
-
-  point
-
-  aunt
-
-  cage
-
-  increase'
-bip_39_word_new_line_7: 'trip
-
-  danger
-
-  point
-
-  aunt
-
-  cage
-
-  increase
-
-  baby'
-bip_39_word_new_line_8: 'trip
-
-  danger
-
-  point
-
-  aunt
-
-  cage
-
-  increase
-
-  baby
-
-  mercy'
-bip_39_word_new_line_9: 'trip
-
-  danger
-
-  point
-
-  aunt
-
-  cage
-
-  increase
-
-  baby
-
-  mercy
-
-  come'
-bip_39_word_no_space_1: trip
-bip_39_word_no_space_10: tripdangerpointauntcageincreasebabymercycomepitch
-bip_39_word_no_space_11: tripdangerpointauntcageincreasebabymercycomepitchdamp
 bip_39_word_no_space_12: tripdangerpointauntcageincreasebabymercycomepitchdampapology
 bip_39_word_no_space_2: tripdanger
 bip_39_word_no_space_3: tripdangerpoint
-bip_39_word_no_space_4: tripdangerpointaunt
-bip_39_word_no_space_5: tripdangerpointauntcage
-bip_39_word_no_space_6: tripdangerpointauntcageincrease
-bip_39_word_no_space_7: tripdangerpointauntcageincreasebaby
-bip_39_word_no_space_8: tripdangerpointauntcageincreasebabymercy
-bip_39_word_no_space_9: tripdangerpointauntcageincreasebabymercycome
-bip_39_word_space_0:
-- trip
-- danger
-- point
-- aunt
-- cage
-- increase
-- baby
-- mercy
-- come
-- pitch
-- damp
-- apology
-bip_39_word_space_1: trip
-bip_39_word_space_10: trip danger point aunt cage increase baby mercy come pitch
-bip_39_word_space_11: trip danger point aunt cage increase baby mercy come pitch damp
 bip_39_word_space_12: trip danger point aunt cage increase baby mercy come pitch damp
   apology
 bip_39_word_space_2: trip danger
 bip_39_word_space_3: trip danger point
-bip_39_word_space_4: trip danger point aunt
-bip_39_word_space_5: trip danger point aunt cage
-bip_39_word_space_6: trip danger point aunt cage increase
-bip_39_word_space_7: trip danger point aunt cage increase baby
-bip_39_word_space_8: trip danger point aunt cage increase baby mercy
-bip_39_word_space_9: trip danger point aunt cage increase baby mercy come
-bip_39_word_underscore_1: trip
-bip_39_word_underscore_10: trip_danger_point_aunt_cage_increase_baby_mercy_come_pitch
-bip_39_word_underscore_11: trip_danger_point_aunt_cage_increase_baby_mercy_come_pitch_damp
 bip_39_word_underscore_12: trip_danger_point_aunt_cage_increase_baby_mercy_come_pitch_damp_apology
 bip_39_word_underscore_2: trip_danger
 bip_39_word_underscore_3: trip_danger_point
-bip_39_word_underscore_4: trip_danger_point_aunt
-bip_39_word_underscore_5: trip_danger_point_aunt_cage
-bip_39_word_underscore_6: trip_danger_point_aunt_cage_increase
-bip_39_word_underscore_7: trip_danger_point_aunt_cage_increase_baby
-bip_39_word_underscore_8: trip_danger_point_aunt_cage_increase_baby_mercy
-bip_39_word_underscore_9: trip_danger_point_aunt_cage_increase_baby_mercy_come
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

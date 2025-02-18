@@ -1,68 +1,9 @@
-bip_39_word_dash_1: live
-bip_39_word_dash_10: live-wave-bless-north-off-illness-damage-kick-lazy-goose
-bip_39_word_dash_11: live-wave-bless-north-off-illness-damage-kick-lazy-goose-dry
 bip_39_word_dash_12: live-wave-bless-north-off-illness-damage-kick-lazy-goose-dry-able
 bip_39_word_dash_2: live-wave
 bip_39_word_dash_3: live-wave-bless
-bip_39_word_dash_4: live-wave-bless-north
-bip_39_word_dash_5: live-wave-bless-north-off
-bip_39_word_dash_6: live-wave-bless-north-off-illness
-bip_39_word_dash_7: live-wave-bless-north-off-illness-damage
-bip_39_word_dash_8: live-wave-bless-north-off-illness-damage-kick
-bip_39_word_dash_9: live-wave-bless-north-off-illness-damage-kick-lazy
-bip_39_word_new_br_1: live
-bip_39_word_new_br_10: live<br>wave<br>bless<br>north<br>off<br>illness<br>damage<br>kick<br>lazy<br>goose
-bip_39_word_new_br_11: live<br>wave<br>bless<br>north<br>off<br>illness<br>damage<br>kick<br>lazy<br>goose<br>dry
 bip_39_word_new_br_12: live<br>wave<br>bless<br>north<br>off<br>illness<br>damage<br>kick<br>lazy<br>goose<br>dry<br>able
 bip_39_word_new_br_2: live<br>wave
 bip_39_word_new_br_3: live<br>wave<br>bless
-bip_39_word_new_br_4: live<br>wave<br>bless<br>north
-bip_39_word_new_br_5: live<br>wave<br>bless<br>north<br>off
-bip_39_word_new_br_6: live<br>wave<br>bless<br>north<br>off<br>illness
-bip_39_word_new_br_7: live<br>wave<br>bless<br>north<br>off<br>illness<br>damage
-bip_39_word_new_br_8: live<br>wave<br>bless<br>north<br>off<br>illness<br>damage<br>kick
-bip_39_word_new_br_9: live<br>wave<br>bless<br>north<br>off<br>illness<br>damage<br>kick<br>lazy
-bip_39_word_new_line_1: live
-bip_39_word_new_line_10: 'live
-
-  wave
-
-  bless
-
-  north
-
-  off
-
-  illness
-
-  damage
-
-  kick
-
-  lazy
-
-  goose'
-bip_39_word_new_line_11: 'live
-
-  wave
-
-  bless
-
-  north
-
-  off
-
-  illness
-
-  damage
-
-  kick
-
-  lazy
-
-  goose
-
-  dry'
 bip_39_word_new_line_12: 'live
 
   wave
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'live
   wave
 
   bless'
-bip_39_word_new_line_4: 'live
-
-  wave
-
-  bless
-
-  north'
-bip_39_word_new_line_5: 'live
-
-  wave
-
-  bless
-
-  north
-
-  off'
-bip_39_word_new_line_6: 'live
-
-  wave
-
-  bless
-
-  north
-
-  off
-
-  illness'
-bip_39_word_new_line_7: 'live
-
-  wave
-
-  bless
-
-  north
-
-  off
-
-  illness
-
-  damage'
-bip_39_word_new_line_8: 'live
-
-  wave
-
-  bless
-
-  north
-
-  off
-
-  illness
-
-  damage
-
-  kick'
-bip_39_word_new_line_9: 'live
-
-  wave
-
-  bless
-
-  north
-
-  off
-
-  illness
-
-  damage
-
-  kick
-
-  lazy'
-bip_39_word_no_space_1: live
-bip_39_word_no_space_10: livewaveblessnorthoffillnessdamagekicklazygoose
-bip_39_word_no_space_11: livewaveblessnorthoffillnessdamagekicklazygoosedry
 bip_39_word_no_space_12: livewaveblessnorthoffillnessdamagekicklazygoosedryable
 bip_39_word_no_space_2: livewave
 bip_39_word_no_space_3: livewavebless
-bip_39_word_no_space_4: livewaveblessnorth
-bip_39_word_no_space_5: livewaveblessnorthoff
-bip_39_word_no_space_6: livewaveblessnorthoffillness
-bip_39_word_no_space_7: livewaveblessnorthoffillnessdamage
-bip_39_word_no_space_8: livewaveblessnorthoffillnessdamagekick
-bip_39_word_no_space_9: livewaveblessnorthoffillnessdamagekicklazy
-bip_39_word_space_0:
-- live
-- wave
-- bless
-- north
-- 'off'
-- illness
-- damage
-- kick
-- lazy
-- goose
-- dry
-- able
-bip_39_word_space_1: live
-bip_39_word_space_10: live wave bless north off illness damage kick lazy goose
-bip_39_word_space_11: live wave bless north off illness damage kick lazy goose dry
 bip_39_word_space_12: live wave bless north off illness damage kick lazy goose dry
   able
 bip_39_word_space_2: live wave
 bip_39_word_space_3: live wave bless
-bip_39_word_space_4: live wave bless north
-bip_39_word_space_5: live wave bless north off
-bip_39_word_space_6: live wave bless north off illness
-bip_39_word_space_7: live wave bless north off illness damage
-bip_39_word_space_8: live wave bless north off illness damage kick
-bip_39_word_space_9: live wave bless north off illness damage kick lazy
-bip_39_word_underscore_1: live
-bip_39_word_underscore_10: live_wave_bless_north_off_illness_damage_kick_lazy_goose
-bip_39_word_underscore_11: live_wave_bless_north_off_illness_damage_kick_lazy_goose_dry
 bip_39_word_underscore_12: live_wave_bless_north_off_illness_damage_kick_lazy_goose_dry_able
 bip_39_word_underscore_2: live_wave
 bip_39_word_underscore_3: live_wave_bless
-bip_39_word_underscore_4: live_wave_bless_north
-bip_39_word_underscore_5: live_wave_bless_north_off
-bip_39_word_underscore_6: live_wave_bless_north_off_illness
-bip_39_word_underscore_7: live_wave_bless_north_off_illness_damage
-bip_39_word_underscore_8: live_wave_bless_north_off_illness_damage_kick
-bip_39_word_underscore_9: live_wave_bless_north_off_illness_damage_kick_lazy
 classification: category
 classification_capital: Category
 classification_first_letter: c

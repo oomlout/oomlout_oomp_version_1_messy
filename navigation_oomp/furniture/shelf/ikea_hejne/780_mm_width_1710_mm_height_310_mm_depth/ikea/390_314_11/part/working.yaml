@@ -1,68 +1,9 @@
-bip_39_word_dash_1: define
-bip_39_word_dash_10: define-copper-private-kind-square-crouch-snack-brave-fitness-peanut
-bip_39_word_dash_11: define-copper-private-kind-square-crouch-snack-brave-fitness-peanut-slot
 bip_39_word_dash_12: define-copper-private-kind-square-crouch-snack-brave-fitness-peanut-slot-abuse
 bip_39_word_dash_2: define-copper
 bip_39_word_dash_3: define-copper-private
-bip_39_word_dash_4: define-copper-private-kind
-bip_39_word_dash_5: define-copper-private-kind-square
-bip_39_word_dash_6: define-copper-private-kind-square-crouch
-bip_39_word_dash_7: define-copper-private-kind-square-crouch-snack
-bip_39_word_dash_8: define-copper-private-kind-square-crouch-snack-brave
-bip_39_word_dash_9: define-copper-private-kind-square-crouch-snack-brave-fitness
-bip_39_word_new_br_1: define
-bip_39_word_new_br_10: define<br>copper<br>private<br>kind<br>square<br>crouch<br>snack<br>brave<br>fitness<br>peanut
-bip_39_word_new_br_11: define<br>copper<br>private<br>kind<br>square<br>crouch<br>snack<br>brave<br>fitness<br>peanut<br>slot
 bip_39_word_new_br_12: define<br>copper<br>private<br>kind<br>square<br>crouch<br>snack<br>brave<br>fitness<br>peanut<br>slot<br>abuse
 bip_39_word_new_br_2: define<br>copper
 bip_39_word_new_br_3: define<br>copper<br>private
-bip_39_word_new_br_4: define<br>copper<br>private<br>kind
-bip_39_word_new_br_5: define<br>copper<br>private<br>kind<br>square
-bip_39_word_new_br_6: define<br>copper<br>private<br>kind<br>square<br>crouch
-bip_39_word_new_br_7: define<br>copper<br>private<br>kind<br>square<br>crouch<br>snack
-bip_39_word_new_br_8: define<br>copper<br>private<br>kind<br>square<br>crouch<br>snack<br>brave
-bip_39_word_new_br_9: define<br>copper<br>private<br>kind<br>square<br>crouch<br>snack<br>brave<br>fitness
-bip_39_word_new_line_1: define
-bip_39_word_new_line_10: 'define
-
-  copper
-
-  private
-
-  kind
-
-  square
-
-  crouch
-
-  snack
-
-  brave
-
-  fitness
-
-  peanut'
-bip_39_word_new_line_11: 'define
-
-  copper
-
-  private
-
-  kind
-
-  square
-
-  crouch
-
-  snack
-
-  brave
-
-  fitness
-
-  peanut
-
-  slot'
 bip_39_word_new_line_12: 'define
 
   copper
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'define
   copper
 
   private'
-bip_39_word_new_line_4: 'define
-
-  copper
-
-  private
-
-  kind'
-bip_39_word_new_line_5: 'define
-
-  copper
-
-  private
-
-  kind
-
-  square'
-bip_39_word_new_line_6: 'define
-
-  copper
-
-  private
-
-  kind
-
-  square
-
-  crouch'
-bip_39_word_new_line_7: 'define
-
-  copper
-
-  private
-
-  kind
-
-  square
-
-  crouch
-
-  snack'
-bip_39_word_new_line_8: 'define
-
-  copper
-
-  private
-
-  kind
-
-  square
-
-  crouch
-
-  snack
-
-  brave'
-bip_39_word_new_line_9: 'define
-
-  copper
-
-  private
-
-  kind
-
-  square
-
-  crouch
-
-  snack
-
-  brave
-
-  fitness'
-bip_39_word_no_space_1: define
-bip_39_word_no_space_10: definecopperprivatekindsquarecrouchsnackbravefitnesspeanut
-bip_39_word_no_space_11: definecopperprivatekindsquarecrouchsnackbravefitnesspeanutslot
 bip_39_word_no_space_12: definecopperprivatekindsquarecrouchsnackbravefitnesspeanutslotabuse
 bip_39_word_no_space_2: definecopper
 bip_39_word_no_space_3: definecopperprivate
-bip_39_word_no_space_4: definecopperprivatekind
-bip_39_word_no_space_5: definecopperprivatekindsquare
-bip_39_word_no_space_6: definecopperprivatekindsquarecrouch
-bip_39_word_no_space_7: definecopperprivatekindsquarecrouchsnack
-bip_39_word_no_space_8: definecopperprivatekindsquarecrouchsnackbrave
-bip_39_word_no_space_9: definecopperprivatekindsquarecrouchsnackbravefitness
-bip_39_word_space_0:
-- define
-- copper
-- private
-- kind
-- square
-- crouch
-- snack
-- brave
-- fitness
-- peanut
-- slot
-- abuse
-bip_39_word_space_1: define
-bip_39_word_space_10: define copper private kind square crouch snack brave fitness
-  peanut
-bip_39_word_space_11: define copper private kind square crouch snack brave fitness
-  peanut slot
 bip_39_word_space_12: define copper private kind square crouch snack brave fitness
   peanut slot abuse
 bip_39_word_space_2: define copper
 bip_39_word_space_3: define copper private
-bip_39_word_space_4: define copper private kind
-bip_39_word_space_5: define copper private kind square
-bip_39_word_space_6: define copper private kind square crouch
-bip_39_word_space_7: define copper private kind square crouch snack
-bip_39_word_space_8: define copper private kind square crouch snack brave
-bip_39_word_space_9: define copper private kind square crouch snack brave fitness
-bip_39_word_underscore_1: define
-bip_39_word_underscore_10: define_copper_private_kind_square_crouch_snack_brave_fitness_peanut
-bip_39_word_underscore_11: define_copper_private_kind_square_crouch_snack_brave_fitness_peanut_slot
 bip_39_word_underscore_12: define_copper_private_kind_square_crouch_snack_brave_fitness_peanut_slot_abuse
 bip_39_word_underscore_2: define_copper
 bip_39_word_underscore_3: define_copper_private
-bip_39_word_underscore_4: define_copper_private_kind
-bip_39_word_underscore_5: define_copper_private_kind_square
-bip_39_word_underscore_6: define_copper_private_kind_square_crouch
-bip_39_word_underscore_7: define_copper_private_kind_square_crouch_snack
-bip_39_word_underscore_8: define_copper_private_kind_square_crouch_snack_brave
-bip_39_word_underscore_9: define_copper_private_kind_square_crouch_snack_brave_fitness
 classification: furniture
 classification_capital: Furniture
 classification_first_letter: f

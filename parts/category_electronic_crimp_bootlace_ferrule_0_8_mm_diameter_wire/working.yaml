@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dragon
-bip_39_word_dash_10: dragon-suit-kingdom-nature-hold-monitor-nice-order-order-plunge
-bip_39_word_dash_11: dragon-suit-kingdom-nature-hold-monitor-nice-order-order-plunge-pet
 bip_39_word_dash_12: dragon-suit-kingdom-nature-hold-monitor-nice-order-order-plunge-pet-arctic
 bip_39_word_dash_2: dragon-suit
 bip_39_word_dash_3: dragon-suit-kingdom
-bip_39_word_dash_4: dragon-suit-kingdom-nature
-bip_39_word_dash_5: dragon-suit-kingdom-nature-hold
-bip_39_word_dash_6: dragon-suit-kingdom-nature-hold-monitor
-bip_39_word_dash_7: dragon-suit-kingdom-nature-hold-monitor-nice
-bip_39_word_dash_8: dragon-suit-kingdom-nature-hold-monitor-nice-order
-bip_39_word_dash_9: dragon-suit-kingdom-nature-hold-monitor-nice-order-order
-bip_39_word_new_br_1: dragon
-bip_39_word_new_br_10: dragon<br>suit<br>kingdom<br>nature<br>hold<br>monitor<br>nice<br>order<br>order<br>plunge
-bip_39_word_new_br_11: dragon<br>suit<br>kingdom<br>nature<br>hold<br>monitor<br>nice<br>order<br>order<br>plunge<br>pet
 bip_39_word_new_br_12: dragon<br>suit<br>kingdom<br>nature<br>hold<br>monitor<br>nice<br>order<br>order<br>plunge<br>pet<br>arctic
 bip_39_word_new_br_2: dragon<br>suit
 bip_39_word_new_br_3: dragon<br>suit<br>kingdom
-bip_39_word_new_br_4: dragon<br>suit<br>kingdom<br>nature
-bip_39_word_new_br_5: dragon<br>suit<br>kingdom<br>nature<br>hold
-bip_39_word_new_br_6: dragon<br>suit<br>kingdom<br>nature<br>hold<br>monitor
-bip_39_word_new_br_7: dragon<br>suit<br>kingdom<br>nature<br>hold<br>monitor<br>nice
-bip_39_word_new_br_8: dragon<br>suit<br>kingdom<br>nature<br>hold<br>monitor<br>nice<br>order
-bip_39_word_new_br_9: dragon<br>suit<br>kingdom<br>nature<br>hold<br>monitor<br>nice<br>order<br>order
-bip_39_word_new_line_1: dragon
-bip_39_word_new_line_10: 'dragon
-
-  suit
-
-  kingdom
-
-  nature
-
-  hold
-
-  monitor
-
-  nice
-
-  order
-
-  order
-
-  plunge'
-bip_39_word_new_line_11: 'dragon
-
-  suit
-
-  kingdom
-
-  nature
-
-  hold
-
-  monitor
-
-  nice
-
-  order
-
-  order
-
-  plunge
-
-  pet'
 bip_39_word_new_line_12: 'dragon
 
   suit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dragon
   suit
 
   kingdom'
-bip_39_word_new_line_4: 'dragon
-
-  suit
-
-  kingdom
-
-  nature'
-bip_39_word_new_line_5: 'dragon
-
-  suit
-
-  kingdom
-
-  nature
-
-  hold'
-bip_39_word_new_line_6: 'dragon
-
-  suit
-
-  kingdom
-
-  nature
-
-  hold
-
-  monitor'
-bip_39_word_new_line_7: 'dragon
-
-  suit
-
-  kingdom
-
-  nature
-
-  hold
-
-  monitor
-
-  nice'
-bip_39_word_new_line_8: 'dragon
-
-  suit
-
-  kingdom
-
-  nature
-
-  hold
-
-  monitor
-
-  nice
-
-  order'
-bip_39_word_new_line_9: 'dragon
-
-  suit
-
-  kingdom
-
-  nature
-
-  hold
-
-  monitor
-
-  nice
-
-  order
-
-  order'
-bip_39_word_no_space_1: dragon
-bip_39_word_no_space_10: dragonsuitkingdomnatureholdmonitorniceorderorderplunge
-bip_39_word_no_space_11: dragonsuitkingdomnatureholdmonitorniceorderorderplungepet
 bip_39_word_no_space_12: dragonsuitkingdomnatureholdmonitorniceorderorderplungepetarctic
 bip_39_word_no_space_2: dragonsuit
 bip_39_word_no_space_3: dragonsuitkingdom
-bip_39_word_no_space_4: dragonsuitkingdomnature
-bip_39_word_no_space_5: dragonsuitkingdomnaturehold
-bip_39_word_no_space_6: dragonsuitkingdomnatureholdmonitor
-bip_39_word_no_space_7: dragonsuitkingdomnatureholdmonitornice
-bip_39_word_no_space_8: dragonsuitkingdomnatureholdmonitorniceorder
-bip_39_word_no_space_9: dragonsuitkingdomnatureholdmonitorniceorderorder
-bip_39_word_space_0:
-- dragon
-- suit
-- kingdom
-- nature
-- hold
-- monitor
-- nice
-- order
-- order
-- plunge
-- pet
-- arctic
-bip_39_word_space_1: dragon
-bip_39_word_space_10: dragon suit kingdom nature hold monitor nice order order plunge
-bip_39_word_space_11: dragon suit kingdom nature hold monitor nice order order plunge
-  pet
 bip_39_word_space_12: dragon suit kingdom nature hold monitor nice order order plunge
   pet arctic
 bip_39_word_space_2: dragon suit
 bip_39_word_space_3: dragon suit kingdom
-bip_39_word_space_4: dragon suit kingdom nature
-bip_39_word_space_5: dragon suit kingdom nature hold
-bip_39_word_space_6: dragon suit kingdom nature hold monitor
-bip_39_word_space_7: dragon suit kingdom nature hold monitor nice
-bip_39_word_space_8: dragon suit kingdom nature hold monitor nice order
-bip_39_word_space_9: dragon suit kingdom nature hold monitor nice order order
-bip_39_word_underscore_1: dragon
-bip_39_word_underscore_10: dragon_suit_kingdom_nature_hold_monitor_nice_order_order_plunge
-bip_39_word_underscore_11: dragon_suit_kingdom_nature_hold_monitor_nice_order_order_plunge_pet
 bip_39_word_underscore_12: dragon_suit_kingdom_nature_hold_monitor_nice_order_order_plunge_pet_arctic
 bip_39_word_underscore_2: dragon_suit
 bip_39_word_underscore_3: dragon_suit_kingdom
-bip_39_word_underscore_4: dragon_suit_kingdom_nature
-bip_39_word_underscore_5: dragon_suit_kingdom_nature_hold
-bip_39_word_underscore_6: dragon_suit_kingdom_nature_hold_monitor
-bip_39_word_underscore_7: dragon_suit_kingdom_nature_hold_monitor_nice
-bip_39_word_underscore_8: dragon_suit_kingdom_nature_hold_monitor_nice_order
-bip_39_word_underscore_9: dragon_suit_kingdom_nature_hold_monitor_nice_order_order
 classification: category
 classification_capital: Category
 classification_first_letter: c

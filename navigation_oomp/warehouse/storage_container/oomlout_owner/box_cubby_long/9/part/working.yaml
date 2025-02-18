@@ -1,68 +1,9 @@
-bip_39_word_dash_1: base
-bip_39_word_dash_10: base-ignore-solve-pitch-symptom-trend-fiction-weather-cloth-private
-bip_39_word_dash_11: base-ignore-solve-pitch-symptom-trend-fiction-weather-cloth-private-engage
 bip_39_word_dash_12: base-ignore-solve-pitch-symptom-trend-fiction-weather-cloth-private-engage-actor
 bip_39_word_dash_2: base-ignore
 bip_39_word_dash_3: base-ignore-solve
-bip_39_word_dash_4: base-ignore-solve-pitch
-bip_39_word_dash_5: base-ignore-solve-pitch-symptom
-bip_39_word_dash_6: base-ignore-solve-pitch-symptom-trend
-bip_39_word_dash_7: base-ignore-solve-pitch-symptom-trend-fiction
-bip_39_word_dash_8: base-ignore-solve-pitch-symptom-trend-fiction-weather
-bip_39_word_dash_9: base-ignore-solve-pitch-symptom-trend-fiction-weather-cloth
-bip_39_word_new_br_1: base
-bip_39_word_new_br_10: base<br>ignore<br>solve<br>pitch<br>symptom<br>trend<br>fiction<br>weather<br>cloth<br>private
-bip_39_word_new_br_11: base<br>ignore<br>solve<br>pitch<br>symptom<br>trend<br>fiction<br>weather<br>cloth<br>private<br>engage
 bip_39_word_new_br_12: base<br>ignore<br>solve<br>pitch<br>symptom<br>trend<br>fiction<br>weather<br>cloth<br>private<br>engage<br>actor
 bip_39_word_new_br_2: base<br>ignore
 bip_39_word_new_br_3: base<br>ignore<br>solve
-bip_39_word_new_br_4: base<br>ignore<br>solve<br>pitch
-bip_39_word_new_br_5: base<br>ignore<br>solve<br>pitch<br>symptom
-bip_39_word_new_br_6: base<br>ignore<br>solve<br>pitch<br>symptom<br>trend
-bip_39_word_new_br_7: base<br>ignore<br>solve<br>pitch<br>symptom<br>trend<br>fiction
-bip_39_word_new_br_8: base<br>ignore<br>solve<br>pitch<br>symptom<br>trend<br>fiction<br>weather
-bip_39_word_new_br_9: base<br>ignore<br>solve<br>pitch<br>symptom<br>trend<br>fiction<br>weather<br>cloth
-bip_39_word_new_line_1: base
-bip_39_word_new_line_10: 'base
-
-  ignore
-
-  solve
-
-  pitch
-
-  symptom
-
-  trend
-
-  fiction
-
-  weather
-
-  cloth
-
-  private'
-bip_39_word_new_line_11: 'base
-
-  ignore
-
-  solve
-
-  pitch
-
-  symptom
-
-  trend
-
-  fiction
-
-  weather
-
-  cloth
-
-  private
-
-  engage'
 bip_39_word_new_line_12: 'base
 
   ignore
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'base
   ignore
 
   solve'
-bip_39_word_new_line_4: 'base
-
-  ignore
-
-  solve
-
-  pitch'
-bip_39_word_new_line_5: 'base
-
-  ignore
-
-  solve
-
-  pitch
-
-  symptom'
-bip_39_word_new_line_6: 'base
-
-  ignore
-
-  solve
-
-  pitch
-
-  symptom
-
-  trend'
-bip_39_word_new_line_7: 'base
-
-  ignore
-
-  solve
-
-  pitch
-
-  symptom
-
-  trend
-
-  fiction'
-bip_39_word_new_line_8: 'base
-
-  ignore
-
-  solve
-
-  pitch
-
-  symptom
-
-  trend
-
-  fiction
-
-  weather'
-bip_39_word_new_line_9: 'base
-
-  ignore
-
-  solve
-
-  pitch
-
-  symptom
-
-  trend
-
-  fiction
-
-  weather
-
-  cloth'
-bip_39_word_no_space_1: base
-bip_39_word_no_space_10: baseignoresolvepitchsymptomtrendfictionweatherclothprivate
-bip_39_word_no_space_11: baseignoresolvepitchsymptomtrendfictionweatherclothprivateengage
 bip_39_word_no_space_12: baseignoresolvepitchsymptomtrendfictionweatherclothprivateengageactor
 bip_39_word_no_space_2: baseignore
 bip_39_word_no_space_3: baseignoresolve
-bip_39_word_no_space_4: baseignoresolvepitch
-bip_39_word_no_space_5: baseignoresolvepitchsymptom
-bip_39_word_no_space_6: baseignoresolvepitchsymptomtrend
-bip_39_word_no_space_7: baseignoresolvepitchsymptomtrendfiction
-bip_39_word_no_space_8: baseignoresolvepitchsymptomtrendfictionweather
-bip_39_word_no_space_9: baseignoresolvepitchsymptomtrendfictionweathercloth
-bip_39_word_space_0:
-- base
-- ignore
-- solve
-- pitch
-- symptom
-- trend
-- fiction
-- weather
-- cloth
-- private
-- engage
-- actor
-bip_39_word_space_1: base
-bip_39_word_space_10: base ignore solve pitch symptom trend fiction weather cloth
-  private
-bip_39_word_space_11: base ignore solve pitch symptom trend fiction weather cloth
-  private engage
 bip_39_word_space_12: base ignore solve pitch symptom trend fiction weather cloth
   private engage actor
 bip_39_word_space_2: base ignore
 bip_39_word_space_3: base ignore solve
-bip_39_word_space_4: base ignore solve pitch
-bip_39_word_space_5: base ignore solve pitch symptom
-bip_39_word_space_6: base ignore solve pitch symptom trend
-bip_39_word_space_7: base ignore solve pitch symptom trend fiction
-bip_39_word_space_8: base ignore solve pitch symptom trend fiction weather
-bip_39_word_space_9: base ignore solve pitch symptom trend fiction weather cloth
-bip_39_word_underscore_1: base
-bip_39_word_underscore_10: base_ignore_solve_pitch_symptom_trend_fiction_weather_cloth_private
-bip_39_word_underscore_11: base_ignore_solve_pitch_symptom_trend_fiction_weather_cloth_private_engage
 bip_39_word_underscore_12: base_ignore_solve_pitch_symptom_trend_fiction_weather_cloth_private_engage_actor
 bip_39_word_underscore_2: base_ignore
 bip_39_word_underscore_3: base_ignore_solve
-bip_39_word_underscore_4: base_ignore_solve_pitch
-bip_39_word_underscore_5: base_ignore_solve_pitch_symptom
-bip_39_word_underscore_6: base_ignore_solve_pitch_symptom_trend
-bip_39_word_underscore_7: base_ignore_solve_pitch_symptom_trend_fiction
-bip_39_word_underscore_8: base_ignore_solve_pitch_symptom_trend_fiction_weather
-bip_39_word_underscore_9: base_ignore_solve_pitch_symptom_trend_fiction_weather_cloth
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

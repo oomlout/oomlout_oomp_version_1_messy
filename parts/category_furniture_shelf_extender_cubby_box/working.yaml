@@ -1,68 +1,9 @@
-bip_39_word_dash_1: burst
-bip_39_word_dash_10: burst-ticket-disagree-brain-mixed-matter-dizzy-bicycle-goddess-tent
-bip_39_word_dash_11: burst-ticket-disagree-brain-mixed-matter-dizzy-bicycle-goddess-tent-settle
 bip_39_word_dash_12: burst-ticket-disagree-brain-mixed-matter-dizzy-bicycle-goddess-tent-settle-announce
 bip_39_word_dash_2: burst-ticket
 bip_39_word_dash_3: burst-ticket-disagree
-bip_39_word_dash_4: burst-ticket-disagree-brain
-bip_39_word_dash_5: burst-ticket-disagree-brain-mixed
-bip_39_word_dash_6: burst-ticket-disagree-brain-mixed-matter
-bip_39_word_dash_7: burst-ticket-disagree-brain-mixed-matter-dizzy
-bip_39_word_dash_8: burst-ticket-disagree-brain-mixed-matter-dizzy-bicycle
-bip_39_word_dash_9: burst-ticket-disagree-brain-mixed-matter-dizzy-bicycle-goddess
-bip_39_word_new_br_1: burst
-bip_39_word_new_br_10: burst<br>ticket<br>disagree<br>brain<br>mixed<br>matter<br>dizzy<br>bicycle<br>goddess<br>tent
-bip_39_word_new_br_11: burst<br>ticket<br>disagree<br>brain<br>mixed<br>matter<br>dizzy<br>bicycle<br>goddess<br>tent<br>settle
 bip_39_word_new_br_12: burst<br>ticket<br>disagree<br>brain<br>mixed<br>matter<br>dizzy<br>bicycle<br>goddess<br>tent<br>settle<br>announce
 bip_39_word_new_br_2: burst<br>ticket
 bip_39_word_new_br_3: burst<br>ticket<br>disagree
-bip_39_word_new_br_4: burst<br>ticket<br>disagree<br>brain
-bip_39_word_new_br_5: burst<br>ticket<br>disagree<br>brain<br>mixed
-bip_39_word_new_br_6: burst<br>ticket<br>disagree<br>brain<br>mixed<br>matter
-bip_39_word_new_br_7: burst<br>ticket<br>disagree<br>brain<br>mixed<br>matter<br>dizzy
-bip_39_word_new_br_8: burst<br>ticket<br>disagree<br>brain<br>mixed<br>matter<br>dizzy<br>bicycle
-bip_39_word_new_br_9: burst<br>ticket<br>disagree<br>brain<br>mixed<br>matter<br>dizzy<br>bicycle<br>goddess
-bip_39_word_new_line_1: burst
-bip_39_word_new_line_10: 'burst
-
-  ticket
-
-  disagree
-
-  brain
-
-  mixed
-
-  matter
-
-  dizzy
-
-  bicycle
-
-  goddess
-
-  tent'
-bip_39_word_new_line_11: 'burst
-
-  ticket
-
-  disagree
-
-  brain
-
-  mixed
-
-  matter
-
-  dizzy
-
-  bicycle
-
-  goddess
-
-  tent
-
-  settle'
 bip_39_word_new_line_12: 'burst
 
   ticket
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'burst
   ticket
 
   disagree'
-bip_39_word_new_line_4: 'burst
-
-  ticket
-
-  disagree
-
-  brain'
-bip_39_word_new_line_5: 'burst
-
-  ticket
-
-  disagree
-
-  brain
-
-  mixed'
-bip_39_word_new_line_6: 'burst
-
-  ticket
-
-  disagree
-
-  brain
-
-  mixed
-
-  matter'
-bip_39_word_new_line_7: 'burst
-
-  ticket
-
-  disagree
-
-  brain
-
-  mixed
-
-  matter
-
-  dizzy'
-bip_39_word_new_line_8: 'burst
-
-  ticket
-
-  disagree
-
-  brain
-
-  mixed
-
-  matter
-
-  dizzy
-
-  bicycle'
-bip_39_word_new_line_9: 'burst
-
-  ticket
-
-  disagree
-
-  brain
-
-  mixed
-
-  matter
-
-  dizzy
-
-  bicycle
-
-  goddess'
-bip_39_word_no_space_1: burst
-bip_39_word_no_space_10: burstticketdisagreebrainmixedmatterdizzybicyclegoddesstent
-bip_39_word_no_space_11: burstticketdisagreebrainmixedmatterdizzybicyclegoddesstentsettle
 bip_39_word_no_space_12: burstticketdisagreebrainmixedmatterdizzybicyclegoddesstentsettleannounce
 bip_39_word_no_space_2: burstticket
 bip_39_word_no_space_3: burstticketdisagree
-bip_39_word_no_space_4: burstticketdisagreebrain
-bip_39_word_no_space_5: burstticketdisagreebrainmixed
-bip_39_word_no_space_6: burstticketdisagreebrainmixedmatter
-bip_39_word_no_space_7: burstticketdisagreebrainmixedmatterdizzy
-bip_39_word_no_space_8: burstticketdisagreebrainmixedmatterdizzybicycle
-bip_39_word_no_space_9: burstticketdisagreebrainmixedmatterdizzybicyclegoddess
-bip_39_word_space_0:
-- burst
-- ticket
-- disagree
-- brain
-- mixed
-- matter
-- dizzy
-- bicycle
-- goddess
-- tent
-- settle
-- announce
-bip_39_word_space_1: burst
-bip_39_word_space_10: burst ticket disagree brain mixed matter dizzy bicycle goddess
-  tent
-bip_39_word_space_11: burst ticket disagree brain mixed matter dizzy bicycle goddess
-  tent settle
 bip_39_word_space_12: burst ticket disagree brain mixed matter dizzy bicycle goddess
   tent settle announce
 bip_39_word_space_2: burst ticket
 bip_39_word_space_3: burst ticket disagree
-bip_39_word_space_4: burst ticket disagree brain
-bip_39_word_space_5: burst ticket disagree brain mixed
-bip_39_word_space_6: burst ticket disagree brain mixed matter
-bip_39_word_space_7: burst ticket disagree brain mixed matter dizzy
-bip_39_word_space_8: burst ticket disagree brain mixed matter dizzy bicycle
-bip_39_word_space_9: burst ticket disagree brain mixed matter dizzy bicycle goddess
-bip_39_word_underscore_1: burst
-bip_39_word_underscore_10: burst_ticket_disagree_brain_mixed_matter_dizzy_bicycle_goddess_tent
-bip_39_word_underscore_11: burst_ticket_disagree_brain_mixed_matter_dizzy_bicycle_goddess_tent_settle
 bip_39_word_underscore_12: burst_ticket_disagree_brain_mixed_matter_dizzy_bicycle_goddess_tent_settle_announce
 bip_39_word_underscore_2: burst_ticket
 bip_39_word_underscore_3: burst_ticket_disagree
-bip_39_word_underscore_4: burst_ticket_disagree_brain
-bip_39_word_underscore_5: burst_ticket_disagree_brain_mixed
-bip_39_word_underscore_6: burst_ticket_disagree_brain_mixed_matter
-bip_39_word_underscore_7: burst_ticket_disagree_brain_mixed_matter_dizzy
-bip_39_word_underscore_8: burst_ticket_disagree_brain_mixed_matter_dizzy_bicycle
-bip_39_word_underscore_9: burst_ticket_disagree_brain_mixed_matter_dizzy_bicycle_goddess
 classification: category
 classification_capital: Category
 classification_first_letter: c

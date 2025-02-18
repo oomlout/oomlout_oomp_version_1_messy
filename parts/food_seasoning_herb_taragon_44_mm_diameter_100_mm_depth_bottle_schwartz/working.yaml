@@ -1,68 +1,9 @@
-bip_39_word_dash_1: level
-bip_39_word_dash_10: level-keep-split-pepper-ship-glance-gap-flock-supreme-special
-bip_39_word_dash_11: level-keep-split-pepper-ship-glance-gap-flock-supreme-special-run
 bip_39_word_dash_12: level-keep-split-pepper-ship-glance-gap-flock-supreme-special-run-auction
 bip_39_word_dash_2: level-keep
 bip_39_word_dash_3: level-keep-split
-bip_39_word_dash_4: level-keep-split-pepper
-bip_39_word_dash_5: level-keep-split-pepper-ship
-bip_39_word_dash_6: level-keep-split-pepper-ship-glance
-bip_39_word_dash_7: level-keep-split-pepper-ship-glance-gap
-bip_39_word_dash_8: level-keep-split-pepper-ship-glance-gap-flock
-bip_39_word_dash_9: level-keep-split-pepper-ship-glance-gap-flock-supreme
-bip_39_word_new_br_1: level
-bip_39_word_new_br_10: level<br>keep<br>split<br>pepper<br>ship<br>glance<br>gap<br>flock<br>supreme<br>special
-bip_39_word_new_br_11: level<br>keep<br>split<br>pepper<br>ship<br>glance<br>gap<br>flock<br>supreme<br>special<br>run
 bip_39_word_new_br_12: level<br>keep<br>split<br>pepper<br>ship<br>glance<br>gap<br>flock<br>supreme<br>special<br>run<br>auction
 bip_39_word_new_br_2: level<br>keep
 bip_39_word_new_br_3: level<br>keep<br>split
-bip_39_word_new_br_4: level<br>keep<br>split<br>pepper
-bip_39_word_new_br_5: level<br>keep<br>split<br>pepper<br>ship
-bip_39_word_new_br_6: level<br>keep<br>split<br>pepper<br>ship<br>glance
-bip_39_word_new_br_7: level<br>keep<br>split<br>pepper<br>ship<br>glance<br>gap
-bip_39_word_new_br_8: level<br>keep<br>split<br>pepper<br>ship<br>glance<br>gap<br>flock
-bip_39_word_new_br_9: level<br>keep<br>split<br>pepper<br>ship<br>glance<br>gap<br>flock<br>supreme
-bip_39_word_new_line_1: level
-bip_39_word_new_line_10: 'level
-
-  keep
-
-  split
-
-  pepper
-
-  ship
-
-  glance
-
-  gap
-
-  flock
-
-  supreme
-
-  special'
-bip_39_word_new_line_11: 'level
-
-  keep
-
-  split
-
-  pepper
-
-  ship
-
-  glance
-
-  gap
-
-  flock
-
-  supreme
-
-  special
-
-  run'
 bip_39_word_new_line_12: 'level
 
   keep
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'level
   keep
 
   split'
-bip_39_word_new_line_4: 'level
-
-  keep
-
-  split
-
-  pepper'
-bip_39_word_new_line_5: 'level
-
-  keep
-
-  split
-
-  pepper
-
-  ship'
-bip_39_word_new_line_6: 'level
-
-  keep
-
-  split
-
-  pepper
-
-  ship
-
-  glance'
-bip_39_word_new_line_7: 'level
-
-  keep
-
-  split
-
-  pepper
-
-  ship
-
-  glance
-
-  gap'
-bip_39_word_new_line_8: 'level
-
-  keep
-
-  split
-
-  pepper
-
-  ship
-
-  glance
-
-  gap
-
-  flock'
-bip_39_word_new_line_9: 'level
-
-  keep
-
-  split
-
-  pepper
-
-  ship
-
-  glance
-
-  gap
-
-  flock
-
-  supreme'
-bip_39_word_no_space_1: level
-bip_39_word_no_space_10: levelkeepsplitpeppershipglancegapflocksupremespecial
-bip_39_word_no_space_11: levelkeepsplitpeppershipglancegapflocksupremespecialrun
 bip_39_word_no_space_12: levelkeepsplitpeppershipglancegapflocksupremespecialrunauction
 bip_39_word_no_space_2: levelkeep
 bip_39_word_no_space_3: levelkeepsplit
-bip_39_word_no_space_4: levelkeepsplitpepper
-bip_39_word_no_space_5: levelkeepsplitpeppership
-bip_39_word_no_space_6: levelkeepsplitpeppershipglance
-bip_39_word_no_space_7: levelkeepsplitpeppershipglancegap
-bip_39_word_no_space_8: levelkeepsplitpeppershipglancegapflock
-bip_39_word_no_space_9: levelkeepsplitpeppershipglancegapflocksupreme
-bip_39_word_space_0:
-- level
-- keep
-- split
-- pepper
-- ship
-- glance
-- gap
-- flock
-- supreme
-- special
-- run
-- auction
-bip_39_word_space_1: level
-bip_39_word_space_10: level keep split pepper ship glance gap flock supreme special
-bip_39_word_space_11: level keep split pepper ship glance gap flock supreme special
-  run
 bip_39_word_space_12: level keep split pepper ship glance gap flock supreme special
   run auction
 bip_39_word_space_2: level keep
 bip_39_word_space_3: level keep split
-bip_39_word_space_4: level keep split pepper
-bip_39_word_space_5: level keep split pepper ship
-bip_39_word_space_6: level keep split pepper ship glance
-bip_39_word_space_7: level keep split pepper ship glance gap
-bip_39_word_space_8: level keep split pepper ship glance gap flock
-bip_39_word_space_9: level keep split pepper ship glance gap flock supreme
-bip_39_word_underscore_1: level
-bip_39_word_underscore_10: level_keep_split_pepper_ship_glance_gap_flock_supreme_special
-bip_39_word_underscore_11: level_keep_split_pepper_ship_glance_gap_flock_supreme_special_run
 bip_39_word_underscore_12: level_keep_split_pepper_ship_glance_gap_flock_supreme_special_run_auction
 bip_39_word_underscore_2: level_keep
 bip_39_word_underscore_3: level_keep_split
-bip_39_word_underscore_4: level_keep_split_pepper
-bip_39_word_underscore_5: level_keep_split_pepper_ship
-bip_39_word_underscore_6: level_keep_split_pepper_ship_glance
-bip_39_word_underscore_7: level_keep_split_pepper_ship_glance_gap
-bip_39_word_underscore_8: level_keep_split_pepper_ship_glance_gap_flock
-bip_39_word_underscore_9: level_keep_split_pepper_ship_glance_gap_flock_supreme
 classification: food
 classification_capital: Food
 classification_first_letter: f

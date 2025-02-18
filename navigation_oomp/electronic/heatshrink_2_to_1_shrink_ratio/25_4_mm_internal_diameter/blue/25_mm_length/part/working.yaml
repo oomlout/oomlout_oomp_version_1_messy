@@ -1,68 +1,9 @@
-bip_39_word_dash_1: radar
-bip_39_word_dash_10: radar-equip-unit-bird-shrimp-gun-struggle-chronic-isolate-demise
-bip_39_word_dash_11: radar-equip-unit-bird-shrimp-gun-struggle-chronic-isolate-demise-federal
 bip_39_word_dash_12: radar-equip-unit-bird-shrimp-gun-struggle-chronic-isolate-demise-federal-assume
 bip_39_word_dash_2: radar-equip
 bip_39_word_dash_3: radar-equip-unit
-bip_39_word_dash_4: radar-equip-unit-bird
-bip_39_word_dash_5: radar-equip-unit-bird-shrimp
-bip_39_word_dash_6: radar-equip-unit-bird-shrimp-gun
-bip_39_word_dash_7: radar-equip-unit-bird-shrimp-gun-struggle
-bip_39_word_dash_8: radar-equip-unit-bird-shrimp-gun-struggle-chronic
-bip_39_word_dash_9: radar-equip-unit-bird-shrimp-gun-struggle-chronic-isolate
-bip_39_word_new_br_1: radar
-bip_39_word_new_br_10: radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise
-bip_39_word_new_br_11: radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise<br>federal
 bip_39_word_new_br_12: radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate<br>demise<br>federal<br>assume
 bip_39_word_new_br_2: radar<br>equip
 bip_39_word_new_br_3: radar<br>equip<br>unit
-bip_39_word_new_br_4: radar<br>equip<br>unit<br>bird
-bip_39_word_new_br_5: radar<br>equip<br>unit<br>bird<br>shrimp
-bip_39_word_new_br_6: radar<br>equip<br>unit<br>bird<br>shrimp<br>gun
-bip_39_word_new_br_7: radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle
-bip_39_word_new_br_8: radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic
-bip_39_word_new_br_9: radar<br>equip<br>unit<br>bird<br>shrimp<br>gun<br>struggle<br>chronic<br>isolate
-bip_39_word_new_line_1: radar
-bip_39_word_new_line_10: 'radar
-
-  equip
-
-  unit
-
-  bird
-
-  shrimp
-
-  gun
-
-  struggle
-
-  chronic
-
-  isolate
-
-  demise'
-bip_39_word_new_line_11: 'radar
-
-  equip
-
-  unit
-
-  bird
-
-  shrimp
-
-  gun
-
-  struggle
-
-  chronic
-
-  isolate
-
-  demise
-
-  federal'
 bip_39_word_new_line_12: 'radar
 
   equip
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'radar
   equip
 
   unit'
-bip_39_word_new_line_4: 'radar
-
-  equip
-
-  unit
-
-  bird'
-bip_39_word_new_line_5: 'radar
-
-  equip
-
-  unit
-
-  bird
-
-  shrimp'
-bip_39_word_new_line_6: 'radar
-
-  equip
-
-  unit
-
-  bird
-
-  shrimp
-
-  gun'
-bip_39_word_new_line_7: 'radar
-
-  equip
-
-  unit
-
-  bird
-
-  shrimp
-
-  gun
-
-  struggle'
-bip_39_word_new_line_8: 'radar
-
-  equip
-
-  unit
-
-  bird
-
-  shrimp
-
-  gun
-
-  struggle
-
-  chronic'
-bip_39_word_new_line_9: 'radar
-
-  equip
-
-  unit
-
-  bird
-
-  shrimp
-
-  gun
-
-  struggle
-
-  chronic
-
-  isolate'
-bip_39_word_no_space_1: radar
-bip_39_word_no_space_10: radarequipunitbirdshrimpgunstrugglechronicisolatedemise
-bip_39_word_no_space_11: radarequipunitbirdshrimpgunstrugglechronicisolatedemisefederal
 bip_39_word_no_space_12: radarequipunitbirdshrimpgunstrugglechronicisolatedemisefederalassume
 bip_39_word_no_space_2: radarequip
 bip_39_word_no_space_3: radarequipunit
-bip_39_word_no_space_4: radarequipunitbird
-bip_39_word_no_space_5: radarequipunitbirdshrimp
-bip_39_word_no_space_6: radarequipunitbirdshrimpgun
-bip_39_word_no_space_7: radarequipunitbirdshrimpgunstruggle
-bip_39_word_no_space_8: radarequipunitbirdshrimpgunstrugglechronic
-bip_39_word_no_space_9: radarequipunitbirdshrimpgunstrugglechronicisolate
-bip_39_word_space_0:
-- radar
-- equip
-- unit
-- bird
-- shrimp
-- gun
-- struggle
-- chronic
-- isolate
-- demise
-- federal
-- assume
-bip_39_word_space_1: radar
-bip_39_word_space_10: radar equip unit bird shrimp gun struggle chronic isolate demise
-bip_39_word_space_11: radar equip unit bird shrimp gun struggle chronic isolate demise
-  federal
 bip_39_word_space_12: radar equip unit bird shrimp gun struggle chronic isolate demise
   federal assume
 bip_39_word_space_2: radar equip
 bip_39_word_space_3: radar equip unit
-bip_39_word_space_4: radar equip unit bird
-bip_39_word_space_5: radar equip unit bird shrimp
-bip_39_word_space_6: radar equip unit bird shrimp gun
-bip_39_word_space_7: radar equip unit bird shrimp gun struggle
-bip_39_word_space_8: radar equip unit bird shrimp gun struggle chronic
-bip_39_word_space_9: radar equip unit bird shrimp gun struggle chronic isolate
-bip_39_word_underscore_1: radar
-bip_39_word_underscore_10: radar_equip_unit_bird_shrimp_gun_struggle_chronic_isolate_demise
-bip_39_word_underscore_11: radar_equip_unit_bird_shrimp_gun_struggle_chronic_isolate_demise_federal
 bip_39_word_underscore_12: radar_equip_unit_bird_shrimp_gun_struggle_chronic_isolate_demise_federal_assume
 bip_39_word_underscore_2: radar_equip
 bip_39_word_underscore_3: radar_equip_unit
-bip_39_word_underscore_4: radar_equip_unit_bird
-bip_39_word_underscore_5: radar_equip_unit_bird_shrimp
-bip_39_word_underscore_6: radar_equip_unit_bird_shrimp_gun
-bip_39_word_underscore_7: radar_equip_unit_bird_shrimp_gun_struggle
-bip_39_word_underscore_8: radar_equip_unit_bird_shrimp_gun_struggle_chronic
-bip_39_word_underscore_9: radar_equip_unit_bird_shrimp_gun_struggle_chronic_isolate
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

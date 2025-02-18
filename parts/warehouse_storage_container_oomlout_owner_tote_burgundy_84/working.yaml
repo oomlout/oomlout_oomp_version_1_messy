@@ -1,68 +1,9 @@
-bip_39_word_dash_1: lock
-bip_39_word_dash_10: lock-dog-base-decade-hundred-shrimp-honey-damp-link-butter
-bip_39_word_dash_11: lock-dog-base-decade-hundred-shrimp-honey-damp-link-butter-bonus
 bip_39_word_dash_12: lock-dog-base-decade-hundred-shrimp-honey-damp-link-butter-bonus-annual
 bip_39_word_dash_2: lock-dog
 bip_39_word_dash_3: lock-dog-base
-bip_39_word_dash_4: lock-dog-base-decade
-bip_39_word_dash_5: lock-dog-base-decade-hundred
-bip_39_word_dash_6: lock-dog-base-decade-hundred-shrimp
-bip_39_word_dash_7: lock-dog-base-decade-hundred-shrimp-honey
-bip_39_word_dash_8: lock-dog-base-decade-hundred-shrimp-honey-damp
-bip_39_word_dash_9: lock-dog-base-decade-hundred-shrimp-honey-damp-link
-bip_39_word_new_br_1: lock
-bip_39_word_new_br_10: lock<br>dog<br>base<br>decade<br>hundred<br>shrimp<br>honey<br>damp<br>link<br>butter
-bip_39_word_new_br_11: lock<br>dog<br>base<br>decade<br>hundred<br>shrimp<br>honey<br>damp<br>link<br>butter<br>bonus
 bip_39_word_new_br_12: lock<br>dog<br>base<br>decade<br>hundred<br>shrimp<br>honey<br>damp<br>link<br>butter<br>bonus<br>annual
 bip_39_word_new_br_2: lock<br>dog
 bip_39_word_new_br_3: lock<br>dog<br>base
-bip_39_word_new_br_4: lock<br>dog<br>base<br>decade
-bip_39_word_new_br_5: lock<br>dog<br>base<br>decade<br>hundred
-bip_39_word_new_br_6: lock<br>dog<br>base<br>decade<br>hundred<br>shrimp
-bip_39_word_new_br_7: lock<br>dog<br>base<br>decade<br>hundred<br>shrimp<br>honey
-bip_39_word_new_br_8: lock<br>dog<br>base<br>decade<br>hundred<br>shrimp<br>honey<br>damp
-bip_39_word_new_br_9: lock<br>dog<br>base<br>decade<br>hundred<br>shrimp<br>honey<br>damp<br>link
-bip_39_word_new_line_1: lock
-bip_39_word_new_line_10: 'lock
-
-  dog
-
-  base
-
-  decade
-
-  hundred
-
-  shrimp
-
-  honey
-
-  damp
-
-  link
-
-  butter'
-bip_39_word_new_line_11: 'lock
-
-  dog
-
-  base
-
-  decade
-
-  hundred
-
-  shrimp
-
-  honey
-
-  damp
-
-  link
-
-  butter
-
-  bonus'
 bip_39_word_new_line_12: 'lock
 
   dog
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'lock
   dog
 
   base'
-bip_39_word_new_line_4: 'lock
-
-  dog
-
-  base
-
-  decade'
-bip_39_word_new_line_5: 'lock
-
-  dog
-
-  base
-
-  decade
-
-  hundred'
-bip_39_word_new_line_6: 'lock
-
-  dog
-
-  base
-
-  decade
-
-  hundred
-
-  shrimp'
-bip_39_word_new_line_7: 'lock
-
-  dog
-
-  base
-
-  decade
-
-  hundred
-
-  shrimp
-
-  honey'
-bip_39_word_new_line_8: 'lock
-
-  dog
-
-  base
-
-  decade
-
-  hundred
-
-  shrimp
-
-  honey
-
-  damp'
-bip_39_word_new_line_9: 'lock
-
-  dog
-
-  base
-
-  decade
-
-  hundred
-
-  shrimp
-
-  honey
-
-  damp
-
-  link'
-bip_39_word_no_space_1: lock
-bip_39_word_no_space_10: lockdogbasedecadehundredshrimphoneydamplinkbutter
-bip_39_word_no_space_11: lockdogbasedecadehundredshrimphoneydamplinkbutterbonus
 bip_39_word_no_space_12: lockdogbasedecadehundredshrimphoneydamplinkbutterbonusannual
 bip_39_word_no_space_2: lockdog
 bip_39_word_no_space_3: lockdogbase
-bip_39_word_no_space_4: lockdogbasedecade
-bip_39_word_no_space_5: lockdogbasedecadehundred
-bip_39_word_no_space_6: lockdogbasedecadehundredshrimp
-bip_39_word_no_space_7: lockdogbasedecadehundredshrimphoney
-bip_39_word_no_space_8: lockdogbasedecadehundredshrimphoneydamp
-bip_39_word_no_space_9: lockdogbasedecadehundredshrimphoneydamplink
-bip_39_word_space_0:
-- lock
-- dog
-- base
-- decade
-- hundred
-- shrimp
-- honey
-- damp
-- link
-- butter
-- bonus
-- annual
-bip_39_word_space_1: lock
-bip_39_word_space_10: lock dog base decade hundred shrimp honey damp link butter
-bip_39_word_space_11: lock dog base decade hundred shrimp honey damp link butter bonus
 bip_39_word_space_12: lock dog base decade hundred shrimp honey damp link butter bonus
   annual
 bip_39_word_space_2: lock dog
 bip_39_word_space_3: lock dog base
-bip_39_word_space_4: lock dog base decade
-bip_39_word_space_5: lock dog base decade hundred
-bip_39_word_space_6: lock dog base decade hundred shrimp
-bip_39_word_space_7: lock dog base decade hundred shrimp honey
-bip_39_word_space_8: lock dog base decade hundred shrimp honey damp
-bip_39_word_space_9: lock dog base decade hundred shrimp honey damp link
-bip_39_word_underscore_1: lock
-bip_39_word_underscore_10: lock_dog_base_decade_hundred_shrimp_honey_damp_link_butter
-bip_39_word_underscore_11: lock_dog_base_decade_hundred_shrimp_honey_damp_link_butter_bonus
 bip_39_word_underscore_12: lock_dog_base_decade_hundred_shrimp_honey_damp_link_butter_bonus_annual
 bip_39_word_underscore_2: lock_dog
 bip_39_word_underscore_3: lock_dog_base
-bip_39_word_underscore_4: lock_dog_base_decade
-bip_39_word_underscore_5: lock_dog_base_decade_hundred
-bip_39_word_underscore_6: lock_dog_base_decade_hundred_shrimp
-bip_39_word_underscore_7: lock_dog_base_decade_hundred_shrimp_honey
-bip_39_word_underscore_8: lock_dog_base_decade_hundred_shrimp_honey_damp
-bip_39_word_underscore_9: lock_dog_base_decade_hundred_shrimp_honey_damp_link
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

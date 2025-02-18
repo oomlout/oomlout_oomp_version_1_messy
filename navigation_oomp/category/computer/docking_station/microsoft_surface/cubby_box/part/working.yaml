@@ -1,68 +1,9 @@
-bip_39_word_dash_1: session
-bip_39_word_dash_10: session-major-palace-jump-company-unlock-fault-fossil-kangaroo-cigar
-bip_39_word_dash_11: session-major-palace-jump-company-unlock-fault-fossil-kangaroo-cigar-all
 bip_39_word_dash_12: session-major-palace-jump-company-unlock-fault-fossil-kangaroo-cigar-all-arrow
 bip_39_word_dash_2: session-major
 bip_39_word_dash_3: session-major-palace
-bip_39_word_dash_4: session-major-palace-jump
-bip_39_word_dash_5: session-major-palace-jump-company
-bip_39_word_dash_6: session-major-palace-jump-company-unlock
-bip_39_word_dash_7: session-major-palace-jump-company-unlock-fault
-bip_39_word_dash_8: session-major-palace-jump-company-unlock-fault-fossil
-bip_39_word_dash_9: session-major-palace-jump-company-unlock-fault-fossil-kangaroo
-bip_39_word_new_br_1: session
-bip_39_word_new_br_10: session<br>major<br>palace<br>jump<br>company<br>unlock<br>fault<br>fossil<br>kangaroo<br>cigar
-bip_39_word_new_br_11: session<br>major<br>palace<br>jump<br>company<br>unlock<br>fault<br>fossil<br>kangaroo<br>cigar<br>all
 bip_39_word_new_br_12: session<br>major<br>palace<br>jump<br>company<br>unlock<br>fault<br>fossil<br>kangaroo<br>cigar<br>all<br>arrow
 bip_39_word_new_br_2: session<br>major
 bip_39_word_new_br_3: session<br>major<br>palace
-bip_39_word_new_br_4: session<br>major<br>palace<br>jump
-bip_39_word_new_br_5: session<br>major<br>palace<br>jump<br>company
-bip_39_word_new_br_6: session<br>major<br>palace<br>jump<br>company<br>unlock
-bip_39_word_new_br_7: session<br>major<br>palace<br>jump<br>company<br>unlock<br>fault
-bip_39_word_new_br_8: session<br>major<br>palace<br>jump<br>company<br>unlock<br>fault<br>fossil
-bip_39_word_new_br_9: session<br>major<br>palace<br>jump<br>company<br>unlock<br>fault<br>fossil<br>kangaroo
-bip_39_word_new_line_1: session
-bip_39_word_new_line_10: 'session
-
-  major
-
-  palace
-
-  jump
-
-  company
-
-  unlock
-
-  fault
-
-  fossil
-
-  kangaroo
-
-  cigar'
-bip_39_word_new_line_11: 'session
-
-  major
-
-  palace
-
-  jump
-
-  company
-
-  unlock
-
-  fault
-
-  fossil
-
-  kangaroo
-
-  cigar
-
-  all'
 bip_39_word_new_line_12: 'session
 
   major
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'session
   major
 
   palace'
-bip_39_word_new_line_4: 'session
-
-  major
-
-  palace
-
-  jump'
-bip_39_word_new_line_5: 'session
-
-  major
-
-  palace
-
-  jump
-
-  company'
-bip_39_word_new_line_6: 'session
-
-  major
-
-  palace
-
-  jump
-
-  company
-
-  unlock'
-bip_39_word_new_line_7: 'session
-
-  major
-
-  palace
-
-  jump
-
-  company
-
-  unlock
-
-  fault'
-bip_39_word_new_line_8: 'session
-
-  major
-
-  palace
-
-  jump
-
-  company
-
-  unlock
-
-  fault
-
-  fossil'
-bip_39_word_new_line_9: 'session
-
-  major
-
-  palace
-
-  jump
-
-  company
-
-  unlock
-
-  fault
-
-  fossil
-
-  kangaroo'
-bip_39_word_no_space_1: session
-bip_39_word_no_space_10: sessionmajorpalacejumpcompanyunlockfaultfossilkangaroocigar
-bip_39_word_no_space_11: sessionmajorpalacejumpcompanyunlockfaultfossilkangaroocigarall
 bip_39_word_no_space_12: sessionmajorpalacejumpcompanyunlockfaultfossilkangaroocigarallarrow
 bip_39_word_no_space_2: sessionmajor
 bip_39_word_no_space_3: sessionmajorpalace
-bip_39_word_no_space_4: sessionmajorpalacejump
-bip_39_word_no_space_5: sessionmajorpalacejumpcompany
-bip_39_word_no_space_6: sessionmajorpalacejumpcompanyunlock
-bip_39_word_no_space_7: sessionmajorpalacejumpcompanyunlockfault
-bip_39_word_no_space_8: sessionmajorpalacejumpcompanyunlockfaultfossil
-bip_39_word_no_space_9: sessionmajorpalacejumpcompanyunlockfaultfossilkangaroo
-bip_39_word_space_0:
-- session
-- major
-- palace
-- jump
-- company
-- unlock
-- fault
-- fossil
-- kangaroo
-- cigar
-- all
-- arrow
-bip_39_word_space_1: session
-bip_39_word_space_10: session major palace jump company unlock fault fossil kangaroo
-  cigar
-bip_39_word_space_11: session major palace jump company unlock fault fossil kangaroo
-  cigar all
 bip_39_word_space_12: session major palace jump company unlock fault fossil kangaroo
   cigar all arrow
 bip_39_word_space_2: session major
 bip_39_word_space_3: session major palace
-bip_39_word_space_4: session major palace jump
-bip_39_word_space_5: session major palace jump company
-bip_39_word_space_6: session major palace jump company unlock
-bip_39_word_space_7: session major palace jump company unlock fault
-bip_39_word_space_8: session major palace jump company unlock fault fossil
-bip_39_word_space_9: session major palace jump company unlock fault fossil kangaroo
-bip_39_word_underscore_1: session
-bip_39_word_underscore_10: session_major_palace_jump_company_unlock_fault_fossil_kangaroo_cigar
-bip_39_word_underscore_11: session_major_palace_jump_company_unlock_fault_fossil_kangaroo_cigar_all
 bip_39_word_underscore_12: session_major_palace_jump_company_unlock_fault_fossil_kangaroo_cigar_all_arrow
 bip_39_word_underscore_2: session_major
 bip_39_word_underscore_3: session_major_palace
-bip_39_word_underscore_4: session_major_palace_jump
-bip_39_word_underscore_5: session_major_palace_jump_company
-bip_39_word_underscore_6: session_major_palace_jump_company_unlock
-bip_39_word_underscore_7: session_major_palace_jump_company_unlock_fault
-bip_39_word_underscore_8: session_major_palace_jump_company_unlock_fault_fossil
-bip_39_word_underscore_9: session_major_palace_jump_company_unlock_fault_fossil_kangaroo
 classification: category
 classification_capital: Category
 classification_first_letter: c

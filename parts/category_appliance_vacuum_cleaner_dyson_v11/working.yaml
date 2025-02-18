@@ -1,68 +1,9 @@
-bip_39_word_dash_1: frame
-bip_39_word_dash_10: frame-desk-hunt-uniform-absent-setup-dog-fly-shoot-begin
-bip_39_word_dash_11: frame-desk-hunt-uniform-absent-setup-dog-fly-shoot-begin-slush
 bip_39_word_dash_12: frame-desk-hunt-uniform-absent-setup-dog-fly-shoot-begin-slush-able
 bip_39_word_dash_2: frame-desk
 bip_39_word_dash_3: frame-desk-hunt
-bip_39_word_dash_4: frame-desk-hunt-uniform
-bip_39_word_dash_5: frame-desk-hunt-uniform-absent
-bip_39_word_dash_6: frame-desk-hunt-uniform-absent-setup
-bip_39_word_dash_7: frame-desk-hunt-uniform-absent-setup-dog
-bip_39_word_dash_8: frame-desk-hunt-uniform-absent-setup-dog-fly
-bip_39_word_dash_9: frame-desk-hunt-uniform-absent-setup-dog-fly-shoot
-bip_39_word_new_br_1: frame
-bip_39_word_new_br_10: frame<br>desk<br>hunt<br>uniform<br>absent<br>setup<br>dog<br>fly<br>shoot<br>begin
-bip_39_word_new_br_11: frame<br>desk<br>hunt<br>uniform<br>absent<br>setup<br>dog<br>fly<br>shoot<br>begin<br>slush
 bip_39_word_new_br_12: frame<br>desk<br>hunt<br>uniform<br>absent<br>setup<br>dog<br>fly<br>shoot<br>begin<br>slush<br>able
 bip_39_word_new_br_2: frame<br>desk
 bip_39_word_new_br_3: frame<br>desk<br>hunt
-bip_39_word_new_br_4: frame<br>desk<br>hunt<br>uniform
-bip_39_word_new_br_5: frame<br>desk<br>hunt<br>uniform<br>absent
-bip_39_word_new_br_6: frame<br>desk<br>hunt<br>uniform<br>absent<br>setup
-bip_39_word_new_br_7: frame<br>desk<br>hunt<br>uniform<br>absent<br>setup<br>dog
-bip_39_word_new_br_8: frame<br>desk<br>hunt<br>uniform<br>absent<br>setup<br>dog<br>fly
-bip_39_word_new_br_9: frame<br>desk<br>hunt<br>uniform<br>absent<br>setup<br>dog<br>fly<br>shoot
-bip_39_word_new_line_1: frame
-bip_39_word_new_line_10: 'frame
-
-  desk
-
-  hunt
-
-  uniform
-
-  absent
-
-  setup
-
-  dog
-
-  fly
-
-  shoot
-
-  begin'
-bip_39_word_new_line_11: 'frame
-
-  desk
-
-  hunt
-
-  uniform
-
-  absent
-
-  setup
-
-  dog
-
-  fly
-
-  shoot
-
-  begin
-
-  slush'
 bip_39_word_new_line_12: 'frame
 
   desk
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'frame
   desk
 
   hunt'
-bip_39_word_new_line_4: 'frame
-
-  desk
-
-  hunt
-
-  uniform'
-bip_39_word_new_line_5: 'frame
-
-  desk
-
-  hunt
-
-  uniform
-
-  absent'
-bip_39_word_new_line_6: 'frame
-
-  desk
-
-  hunt
-
-  uniform
-
-  absent
-
-  setup'
-bip_39_word_new_line_7: 'frame
-
-  desk
-
-  hunt
-
-  uniform
-
-  absent
-
-  setup
-
-  dog'
-bip_39_word_new_line_8: 'frame
-
-  desk
-
-  hunt
-
-  uniform
-
-  absent
-
-  setup
-
-  dog
-
-  fly'
-bip_39_word_new_line_9: 'frame
-
-  desk
-
-  hunt
-
-  uniform
-
-  absent
-
-  setup
-
-  dog
-
-  fly
-
-  shoot'
-bip_39_word_no_space_1: frame
-bip_39_word_no_space_10: framedeskhuntuniformabsentsetupdogflyshootbegin
-bip_39_word_no_space_11: framedeskhuntuniformabsentsetupdogflyshootbeginslush
 bip_39_word_no_space_12: framedeskhuntuniformabsentsetupdogflyshootbeginslushable
 bip_39_word_no_space_2: framedesk
 bip_39_word_no_space_3: framedeskhunt
-bip_39_word_no_space_4: framedeskhuntuniform
-bip_39_word_no_space_5: framedeskhuntuniformabsent
-bip_39_word_no_space_6: framedeskhuntuniformabsentsetup
-bip_39_word_no_space_7: framedeskhuntuniformabsentsetupdog
-bip_39_word_no_space_8: framedeskhuntuniformabsentsetupdogfly
-bip_39_word_no_space_9: framedeskhuntuniformabsentsetupdogflyshoot
-bip_39_word_space_0:
-- frame
-- desk
-- hunt
-- uniform
-- absent
-- setup
-- dog
-- fly
-- shoot
-- begin
-- slush
-- able
-bip_39_word_space_1: frame
-bip_39_word_space_10: frame desk hunt uniform absent setup dog fly shoot begin
-bip_39_word_space_11: frame desk hunt uniform absent setup dog fly shoot begin slush
 bip_39_word_space_12: frame desk hunt uniform absent setup dog fly shoot begin slush
   able
 bip_39_word_space_2: frame desk
 bip_39_word_space_3: frame desk hunt
-bip_39_word_space_4: frame desk hunt uniform
-bip_39_word_space_5: frame desk hunt uniform absent
-bip_39_word_space_6: frame desk hunt uniform absent setup
-bip_39_word_space_7: frame desk hunt uniform absent setup dog
-bip_39_word_space_8: frame desk hunt uniform absent setup dog fly
-bip_39_word_space_9: frame desk hunt uniform absent setup dog fly shoot
-bip_39_word_underscore_1: frame
-bip_39_word_underscore_10: frame_desk_hunt_uniform_absent_setup_dog_fly_shoot_begin
-bip_39_word_underscore_11: frame_desk_hunt_uniform_absent_setup_dog_fly_shoot_begin_slush
 bip_39_word_underscore_12: frame_desk_hunt_uniform_absent_setup_dog_fly_shoot_begin_slush_able
 bip_39_word_underscore_2: frame_desk
 bip_39_word_underscore_3: frame_desk_hunt
-bip_39_word_underscore_4: frame_desk_hunt_uniform
-bip_39_word_underscore_5: frame_desk_hunt_uniform_absent
-bip_39_word_underscore_6: frame_desk_hunt_uniform_absent_setup
-bip_39_word_underscore_7: frame_desk_hunt_uniform_absent_setup_dog
-bip_39_word_underscore_8: frame_desk_hunt_uniform_absent_setup_dog_fly
-bip_39_word_underscore_9: frame_desk_hunt_uniform_absent_setup_dog_fly_shoot
 classification: category
 classification_capital: Category
 classification_first_letter: c

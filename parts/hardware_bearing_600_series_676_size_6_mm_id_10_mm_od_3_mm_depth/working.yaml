@@ -1,68 +1,9 @@
-bip_39_word_dash_1: detect
-bip_39_word_dash_10: detect-piano-below-layer-start-pulse-brisk-end-wing-pipe
-bip_39_word_dash_11: detect-piano-below-layer-start-pulse-brisk-end-wing-pipe-upset
 bip_39_word_dash_12: detect-piano-below-layer-start-pulse-brisk-end-wing-pipe-upset-aspect
 bip_39_word_dash_2: detect-piano
 bip_39_word_dash_3: detect-piano-below
-bip_39_word_dash_4: detect-piano-below-layer
-bip_39_word_dash_5: detect-piano-below-layer-start
-bip_39_word_dash_6: detect-piano-below-layer-start-pulse
-bip_39_word_dash_7: detect-piano-below-layer-start-pulse-brisk
-bip_39_word_dash_8: detect-piano-below-layer-start-pulse-brisk-end
-bip_39_word_dash_9: detect-piano-below-layer-start-pulse-brisk-end-wing
-bip_39_word_new_br_1: detect
-bip_39_word_new_br_10: detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end<br>wing<br>pipe
-bip_39_word_new_br_11: detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end<br>wing<br>pipe<br>upset
 bip_39_word_new_br_12: detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end<br>wing<br>pipe<br>upset<br>aspect
 bip_39_word_new_br_2: detect<br>piano
 bip_39_word_new_br_3: detect<br>piano<br>below
-bip_39_word_new_br_4: detect<br>piano<br>below<br>layer
-bip_39_word_new_br_5: detect<br>piano<br>below<br>layer<br>start
-bip_39_word_new_br_6: detect<br>piano<br>below<br>layer<br>start<br>pulse
-bip_39_word_new_br_7: detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk
-bip_39_word_new_br_8: detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end
-bip_39_word_new_br_9: detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end<br>wing
-bip_39_word_new_line_1: detect
-bip_39_word_new_line_10: 'detect
-
-  piano
-
-  below
-
-  layer
-
-  start
-
-  pulse
-
-  brisk
-
-  end
-
-  wing
-
-  pipe'
-bip_39_word_new_line_11: 'detect
-
-  piano
-
-  below
-
-  layer
-
-  start
-
-  pulse
-
-  brisk
-
-  end
-
-  wing
-
-  pipe
-
-  upset'
 bip_39_word_new_line_12: 'detect
 
   piano
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'detect
   piano
 
   below'
-bip_39_word_new_line_4: 'detect
-
-  piano
-
-  below
-
-  layer'
-bip_39_word_new_line_5: 'detect
-
-  piano
-
-  below
-
-  layer
-
-  start'
-bip_39_word_new_line_6: 'detect
-
-  piano
-
-  below
-
-  layer
-
-  start
-
-  pulse'
-bip_39_word_new_line_7: 'detect
-
-  piano
-
-  below
-
-  layer
-
-  start
-
-  pulse
-
-  brisk'
-bip_39_word_new_line_8: 'detect
-
-  piano
-
-  below
-
-  layer
-
-  start
-
-  pulse
-
-  brisk
-
-  end'
-bip_39_word_new_line_9: 'detect
-
-  piano
-
-  below
-
-  layer
-
-  start
-
-  pulse
-
-  brisk
-
-  end
-
-  wing'
-bip_39_word_no_space_1: detect
-bip_39_word_no_space_10: detectpianobelowlayerstartpulsebriskendwingpipe
-bip_39_word_no_space_11: detectpianobelowlayerstartpulsebriskendwingpipeupset
 bip_39_word_no_space_12: detectpianobelowlayerstartpulsebriskendwingpipeupsetaspect
 bip_39_word_no_space_2: detectpiano
 bip_39_word_no_space_3: detectpianobelow
-bip_39_word_no_space_4: detectpianobelowlayer
-bip_39_word_no_space_5: detectpianobelowlayerstart
-bip_39_word_no_space_6: detectpianobelowlayerstartpulse
-bip_39_word_no_space_7: detectpianobelowlayerstartpulsebrisk
-bip_39_word_no_space_8: detectpianobelowlayerstartpulsebriskend
-bip_39_word_no_space_9: detectpianobelowlayerstartpulsebriskendwing
-bip_39_word_space_0:
-- detect
-- piano
-- below
-- layer
-- start
-- pulse
-- brisk
-- end
-- wing
-- pipe
-- upset
-- aspect
-bip_39_word_space_1: detect
-bip_39_word_space_10: detect piano below layer start pulse brisk end wing pipe
-bip_39_word_space_11: detect piano below layer start pulse brisk end wing pipe upset
 bip_39_word_space_12: detect piano below layer start pulse brisk end wing pipe upset
   aspect
 bip_39_word_space_2: detect piano
 bip_39_word_space_3: detect piano below
-bip_39_word_space_4: detect piano below layer
-bip_39_word_space_5: detect piano below layer start
-bip_39_word_space_6: detect piano below layer start pulse
-bip_39_word_space_7: detect piano below layer start pulse brisk
-bip_39_word_space_8: detect piano below layer start pulse brisk end
-bip_39_word_space_9: detect piano below layer start pulse brisk end wing
-bip_39_word_underscore_1: detect
-bip_39_word_underscore_10: detect_piano_below_layer_start_pulse_brisk_end_wing_pipe
-bip_39_word_underscore_11: detect_piano_below_layer_start_pulse_brisk_end_wing_pipe_upset
 bip_39_word_underscore_12: detect_piano_below_layer_start_pulse_brisk_end_wing_pipe_upset_aspect
 bip_39_word_underscore_2: detect_piano
 bip_39_word_underscore_3: detect_piano_below
-bip_39_word_underscore_4: detect_piano_below_layer
-bip_39_word_underscore_5: detect_piano_below_layer_start
-bip_39_word_underscore_6: detect_piano_below_layer_start_pulse
-bip_39_word_underscore_7: detect_piano_below_layer_start_pulse_brisk
-bip_39_word_underscore_8: detect_piano_below_layer_start_pulse_brisk_end
-bip_39_word_underscore_9: detect_piano_below_layer_start_pulse_brisk_end_wing
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

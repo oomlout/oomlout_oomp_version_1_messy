@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exit
-bip_39_word_dash_10: exit-situate-pact-salute-unknown-estate-estate-clever-adapt-soup
-bip_39_word_dash_11: exit-situate-pact-salute-unknown-estate-estate-clever-adapt-soup-rival
 bip_39_word_dash_12: exit-situate-pact-salute-unknown-estate-estate-clever-adapt-soup-rival-access
 bip_39_word_dash_2: exit-situate
 bip_39_word_dash_3: exit-situate-pact
-bip_39_word_dash_4: exit-situate-pact-salute
-bip_39_word_dash_5: exit-situate-pact-salute-unknown
-bip_39_word_dash_6: exit-situate-pact-salute-unknown-estate
-bip_39_word_dash_7: exit-situate-pact-salute-unknown-estate-estate
-bip_39_word_dash_8: exit-situate-pact-salute-unknown-estate-estate-clever
-bip_39_word_dash_9: exit-situate-pact-salute-unknown-estate-estate-clever-adapt
-bip_39_word_new_br_1: exit
-bip_39_word_new_br_10: exit<br>situate<br>pact<br>salute<br>unknown<br>estate<br>estate<br>clever<br>adapt<br>soup
-bip_39_word_new_br_11: exit<br>situate<br>pact<br>salute<br>unknown<br>estate<br>estate<br>clever<br>adapt<br>soup<br>rival
 bip_39_word_new_br_12: exit<br>situate<br>pact<br>salute<br>unknown<br>estate<br>estate<br>clever<br>adapt<br>soup<br>rival<br>access
 bip_39_word_new_br_2: exit<br>situate
 bip_39_word_new_br_3: exit<br>situate<br>pact
-bip_39_word_new_br_4: exit<br>situate<br>pact<br>salute
-bip_39_word_new_br_5: exit<br>situate<br>pact<br>salute<br>unknown
-bip_39_word_new_br_6: exit<br>situate<br>pact<br>salute<br>unknown<br>estate
-bip_39_word_new_br_7: exit<br>situate<br>pact<br>salute<br>unknown<br>estate<br>estate
-bip_39_word_new_br_8: exit<br>situate<br>pact<br>salute<br>unknown<br>estate<br>estate<br>clever
-bip_39_word_new_br_9: exit<br>situate<br>pact<br>salute<br>unknown<br>estate<br>estate<br>clever<br>adapt
-bip_39_word_new_line_1: exit
-bip_39_word_new_line_10: 'exit
-
-  situate
-
-  pact
-
-  salute
-
-  unknown
-
-  estate
-
-  estate
-
-  clever
-
-  adapt
-
-  soup'
-bip_39_word_new_line_11: 'exit
-
-  situate
-
-  pact
-
-  salute
-
-  unknown
-
-  estate
-
-  estate
-
-  clever
-
-  adapt
-
-  soup
-
-  rival'
 bip_39_word_new_line_12: 'exit
 
   situate
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'exit
   situate
 
   pact'
-bip_39_word_new_line_4: 'exit
-
-  situate
-
-  pact
-
-  salute'
-bip_39_word_new_line_5: 'exit
-
-  situate
-
-  pact
-
-  salute
-
-  unknown'
-bip_39_word_new_line_6: 'exit
-
-  situate
-
-  pact
-
-  salute
-
-  unknown
-
-  estate'
-bip_39_word_new_line_7: 'exit
-
-  situate
-
-  pact
-
-  salute
-
-  unknown
-
-  estate
-
-  estate'
-bip_39_word_new_line_8: 'exit
-
-  situate
-
-  pact
-
-  salute
-
-  unknown
-
-  estate
-
-  estate
-
-  clever'
-bip_39_word_new_line_9: 'exit
-
-  situate
-
-  pact
-
-  salute
-
-  unknown
-
-  estate
-
-  estate
-
-  clever
-
-  adapt'
-bip_39_word_no_space_1: exit
-bip_39_word_no_space_10: exitsituatepactsaluteunknownestateestatecleveradaptsoup
-bip_39_word_no_space_11: exitsituatepactsaluteunknownestateestatecleveradaptsouprival
 bip_39_word_no_space_12: exitsituatepactsaluteunknownestateestatecleveradaptsouprivalaccess
 bip_39_word_no_space_2: exitsituate
 bip_39_word_no_space_3: exitsituatepact
-bip_39_word_no_space_4: exitsituatepactsalute
-bip_39_word_no_space_5: exitsituatepactsaluteunknown
-bip_39_word_no_space_6: exitsituatepactsaluteunknownestate
-bip_39_word_no_space_7: exitsituatepactsaluteunknownestateestate
-bip_39_word_no_space_8: exitsituatepactsaluteunknownestateestateclever
-bip_39_word_no_space_9: exitsituatepactsaluteunknownestateestatecleveradapt
-bip_39_word_space_0:
-- exit
-- situate
-- pact
-- salute
-- unknown
-- estate
-- estate
-- clever
-- adapt
-- soup
-- rival
-- access
-bip_39_word_space_1: exit
-bip_39_word_space_10: exit situate pact salute unknown estate estate clever adapt
-  soup
-bip_39_word_space_11: exit situate pact salute unknown estate estate clever adapt
-  soup rival
 bip_39_word_space_12: exit situate pact salute unknown estate estate clever adapt
   soup rival access
 bip_39_word_space_2: exit situate
 bip_39_word_space_3: exit situate pact
-bip_39_word_space_4: exit situate pact salute
-bip_39_word_space_5: exit situate pact salute unknown
-bip_39_word_space_6: exit situate pact salute unknown estate
-bip_39_word_space_7: exit situate pact salute unknown estate estate
-bip_39_word_space_8: exit situate pact salute unknown estate estate clever
-bip_39_word_space_9: exit situate pact salute unknown estate estate clever adapt
-bip_39_word_underscore_1: exit
-bip_39_word_underscore_10: exit_situate_pact_salute_unknown_estate_estate_clever_adapt_soup
-bip_39_word_underscore_11: exit_situate_pact_salute_unknown_estate_estate_clever_adapt_soup_rival
 bip_39_word_underscore_12: exit_situate_pact_salute_unknown_estate_estate_clever_adapt_soup_rival_access
 bip_39_word_underscore_2: exit_situate
 bip_39_word_underscore_3: exit_situate_pact
-bip_39_word_underscore_4: exit_situate_pact_salute
-bip_39_word_underscore_5: exit_situate_pact_salute_unknown
-bip_39_word_underscore_6: exit_situate_pact_salute_unknown_estate
-bip_39_word_underscore_7: exit_situate_pact_salute_unknown_estate_estate
-bip_39_word_underscore_8: exit_situate_pact_salute_unknown_estate_estate_clever
-bip_39_word_underscore_9: exit_situate_pact_salute_unknown_estate_estate_clever_adapt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

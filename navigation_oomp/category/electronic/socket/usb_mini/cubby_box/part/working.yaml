@@ -1,68 +1,9 @@
-bip_39_word_dash_1: voice
-bip_39_word_dash_10: voice-awkward-stuff-birth-arrive-milk-real-rhythm-genius-laptop
-bip_39_word_dash_11: voice-awkward-stuff-birth-arrive-milk-real-rhythm-genius-laptop-melt
 bip_39_word_dash_12: voice-awkward-stuff-birth-arrive-milk-real-rhythm-genius-laptop-melt-antenna
 bip_39_word_dash_2: voice-awkward
 bip_39_word_dash_3: voice-awkward-stuff
-bip_39_word_dash_4: voice-awkward-stuff-birth
-bip_39_word_dash_5: voice-awkward-stuff-birth-arrive
-bip_39_word_dash_6: voice-awkward-stuff-birth-arrive-milk
-bip_39_word_dash_7: voice-awkward-stuff-birth-arrive-milk-real
-bip_39_word_dash_8: voice-awkward-stuff-birth-arrive-milk-real-rhythm
-bip_39_word_dash_9: voice-awkward-stuff-birth-arrive-milk-real-rhythm-genius
-bip_39_word_new_br_1: voice
-bip_39_word_new_br_10: voice<br>awkward<br>stuff<br>birth<br>arrive<br>milk<br>real<br>rhythm<br>genius<br>laptop
-bip_39_word_new_br_11: voice<br>awkward<br>stuff<br>birth<br>arrive<br>milk<br>real<br>rhythm<br>genius<br>laptop<br>melt
 bip_39_word_new_br_12: voice<br>awkward<br>stuff<br>birth<br>arrive<br>milk<br>real<br>rhythm<br>genius<br>laptop<br>melt<br>antenna
 bip_39_word_new_br_2: voice<br>awkward
 bip_39_word_new_br_3: voice<br>awkward<br>stuff
-bip_39_word_new_br_4: voice<br>awkward<br>stuff<br>birth
-bip_39_word_new_br_5: voice<br>awkward<br>stuff<br>birth<br>arrive
-bip_39_word_new_br_6: voice<br>awkward<br>stuff<br>birth<br>arrive<br>milk
-bip_39_word_new_br_7: voice<br>awkward<br>stuff<br>birth<br>arrive<br>milk<br>real
-bip_39_word_new_br_8: voice<br>awkward<br>stuff<br>birth<br>arrive<br>milk<br>real<br>rhythm
-bip_39_word_new_br_9: voice<br>awkward<br>stuff<br>birth<br>arrive<br>milk<br>real<br>rhythm<br>genius
-bip_39_word_new_line_1: voice
-bip_39_word_new_line_10: 'voice
-
-  awkward
-
-  stuff
-
-  birth
-
-  arrive
-
-  milk
-
-  real
-
-  rhythm
-
-  genius
-
-  laptop'
-bip_39_word_new_line_11: 'voice
-
-  awkward
-
-  stuff
-
-  birth
-
-  arrive
-
-  milk
-
-  real
-
-  rhythm
-
-  genius
-
-  laptop
-
-  melt'
 bip_39_word_new_line_12: 'voice
 
   awkward
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'voice
   awkward
 
   stuff'
-bip_39_word_new_line_4: 'voice
-
-  awkward
-
-  stuff
-
-  birth'
-bip_39_word_new_line_5: 'voice
-
-  awkward
-
-  stuff
-
-  birth
-
-  arrive'
-bip_39_word_new_line_6: 'voice
-
-  awkward
-
-  stuff
-
-  birth
-
-  arrive
-
-  milk'
-bip_39_word_new_line_7: 'voice
-
-  awkward
-
-  stuff
-
-  birth
-
-  arrive
-
-  milk
-
-  real'
-bip_39_word_new_line_8: 'voice
-
-  awkward
-
-  stuff
-
-  birth
-
-  arrive
-
-  milk
-
-  real
-
-  rhythm'
-bip_39_word_new_line_9: 'voice
-
-  awkward
-
-  stuff
-
-  birth
-
-  arrive
-
-  milk
-
-  real
-
-  rhythm
-
-  genius'
-bip_39_word_no_space_1: voice
-bip_39_word_no_space_10: voiceawkwardstuffbirtharrivemilkrealrhythmgeniuslaptop
-bip_39_word_no_space_11: voiceawkwardstuffbirtharrivemilkrealrhythmgeniuslaptopmelt
 bip_39_word_no_space_12: voiceawkwardstuffbirtharrivemilkrealrhythmgeniuslaptopmeltantenna
 bip_39_word_no_space_2: voiceawkward
 bip_39_word_no_space_3: voiceawkwardstuff
-bip_39_word_no_space_4: voiceawkwardstuffbirth
-bip_39_word_no_space_5: voiceawkwardstuffbirtharrive
-bip_39_word_no_space_6: voiceawkwardstuffbirtharrivemilk
-bip_39_word_no_space_7: voiceawkwardstuffbirtharrivemilkreal
-bip_39_word_no_space_8: voiceawkwardstuffbirtharrivemilkrealrhythm
-bip_39_word_no_space_9: voiceawkwardstuffbirtharrivemilkrealrhythmgenius
-bip_39_word_space_0:
-- voice
-- awkward
-- stuff
-- birth
-- arrive
-- milk
-- real
-- rhythm
-- genius
-- laptop
-- melt
-- antenna
-bip_39_word_space_1: voice
-bip_39_word_space_10: voice awkward stuff birth arrive milk real rhythm genius laptop
-bip_39_word_space_11: voice awkward stuff birth arrive milk real rhythm genius laptop
-  melt
 bip_39_word_space_12: voice awkward stuff birth arrive milk real rhythm genius laptop
   melt antenna
 bip_39_word_space_2: voice awkward
 bip_39_word_space_3: voice awkward stuff
-bip_39_word_space_4: voice awkward stuff birth
-bip_39_word_space_5: voice awkward stuff birth arrive
-bip_39_word_space_6: voice awkward stuff birth arrive milk
-bip_39_word_space_7: voice awkward stuff birth arrive milk real
-bip_39_word_space_8: voice awkward stuff birth arrive milk real rhythm
-bip_39_word_space_9: voice awkward stuff birth arrive milk real rhythm genius
-bip_39_word_underscore_1: voice
-bip_39_word_underscore_10: voice_awkward_stuff_birth_arrive_milk_real_rhythm_genius_laptop
-bip_39_word_underscore_11: voice_awkward_stuff_birth_arrive_milk_real_rhythm_genius_laptop_melt
 bip_39_word_underscore_12: voice_awkward_stuff_birth_arrive_milk_real_rhythm_genius_laptop_melt_antenna
 bip_39_word_underscore_2: voice_awkward
 bip_39_word_underscore_3: voice_awkward_stuff
-bip_39_word_underscore_4: voice_awkward_stuff_birth
-bip_39_word_underscore_5: voice_awkward_stuff_birth_arrive
-bip_39_word_underscore_6: voice_awkward_stuff_birth_arrive_milk
-bip_39_word_underscore_7: voice_awkward_stuff_birth_arrive_milk_real
-bip_39_word_underscore_8: voice_awkward_stuff_birth_arrive_milk_real_rhythm
-bip_39_word_underscore_9: voice_awkward_stuff_birth_arrive_milk_real_rhythm_genius
 classification: category
 classification_capital: Category
 classification_first_letter: c

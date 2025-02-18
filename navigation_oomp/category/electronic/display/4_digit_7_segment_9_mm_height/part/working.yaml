@@ -1,68 +1,9 @@
-bip_39_word_dash_1: actor
-bip_39_word_dash_10: actor-receive-world-call-identify-young-never-between-tennis-audit
-bip_39_word_dash_11: actor-receive-world-call-identify-young-never-between-tennis-audit-kitten
 bip_39_word_dash_12: actor-receive-world-call-identify-young-never-between-tennis-audit-kitten-aim
 bip_39_word_dash_2: actor-receive
 bip_39_word_dash_3: actor-receive-world
-bip_39_word_dash_4: actor-receive-world-call
-bip_39_word_dash_5: actor-receive-world-call-identify
-bip_39_word_dash_6: actor-receive-world-call-identify-young
-bip_39_word_dash_7: actor-receive-world-call-identify-young-never
-bip_39_word_dash_8: actor-receive-world-call-identify-young-never-between
-bip_39_word_dash_9: actor-receive-world-call-identify-young-never-between-tennis
-bip_39_word_new_br_1: actor
-bip_39_word_new_br_10: actor<br>receive<br>world<br>call<br>identify<br>young<br>never<br>between<br>tennis<br>audit
-bip_39_word_new_br_11: actor<br>receive<br>world<br>call<br>identify<br>young<br>never<br>between<br>tennis<br>audit<br>kitten
 bip_39_word_new_br_12: actor<br>receive<br>world<br>call<br>identify<br>young<br>never<br>between<br>tennis<br>audit<br>kitten<br>aim
 bip_39_word_new_br_2: actor<br>receive
 bip_39_word_new_br_3: actor<br>receive<br>world
-bip_39_word_new_br_4: actor<br>receive<br>world<br>call
-bip_39_word_new_br_5: actor<br>receive<br>world<br>call<br>identify
-bip_39_word_new_br_6: actor<br>receive<br>world<br>call<br>identify<br>young
-bip_39_word_new_br_7: actor<br>receive<br>world<br>call<br>identify<br>young<br>never
-bip_39_word_new_br_8: actor<br>receive<br>world<br>call<br>identify<br>young<br>never<br>between
-bip_39_word_new_br_9: actor<br>receive<br>world<br>call<br>identify<br>young<br>never<br>between<br>tennis
-bip_39_word_new_line_1: actor
-bip_39_word_new_line_10: 'actor
-
-  receive
-
-  world
-
-  call
-
-  identify
-
-  young
-
-  never
-
-  between
-
-  tennis
-
-  audit'
-bip_39_word_new_line_11: 'actor
-
-  receive
-
-  world
-
-  call
-
-  identify
-
-  young
-
-  never
-
-  between
-
-  tennis
-
-  audit
-
-  kitten'
 bip_39_word_new_line_12: 'actor
 
   receive
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'actor
   receive
 
   world'
-bip_39_word_new_line_4: 'actor
-
-  receive
-
-  world
-
-  call'
-bip_39_word_new_line_5: 'actor
-
-  receive
-
-  world
-
-  call
-
-  identify'
-bip_39_word_new_line_6: 'actor
-
-  receive
-
-  world
-
-  call
-
-  identify
-
-  young'
-bip_39_word_new_line_7: 'actor
-
-  receive
-
-  world
-
-  call
-
-  identify
-
-  young
-
-  never'
-bip_39_word_new_line_8: 'actor
-
-  receive
-
-  world
-
-  call
-
-  identify
-
-  young
-
-  never
-
-  between'
-bip_39_word_new_line_9: 'actor
-
-  receive
-
-  world
-
-  call
-
-  identify
-
-  young
-
-  never
-
-  between
-
-  tennis'
-bip_39_word_no_space_1: actor
-bip_39_word_no_space_10: actorreceiveworldcallidentifyyoungneverbetweentennisaudit
-bip_39_word_no_space_11: actorreceiveworldcallidentifyyoungneverbetweentennisauditkitten
 bip_39_word_no_space_12: actorreceiveworldcallidentifyyoungneverbetweentennisauditkittenaim
 bip_39_word_no_space_2: actorreceive
 bip_39_word_no_space_3: actorreceiveworld
-bip_39_word_no_space_4: actorreceiveworldcall
-bip_39_word_no_space_5: actorreceiveworldcallidentify
-bip_39_word_no_space_6: actorreceiveworldcallidentifyyoung
-bip_39_word_no_space_7: actorreceiveworldcallidentifyyoungnever
-bip_39_word_no_space_8: actorreceiveworldcallidentifyyoungneverbetween
-bip_39_word_no_space_9: actorreceiveworldcallidentifyyoungneverbetweentennis
-bip_39_word_space_0:
-- actor
-- receive
-- world
-- call
-- identify
-- young
-- never
-- between
-- tennis
-- audit
-- kitten
-- aim
-bip_39_word_space_1: actor
-bip_39_word_space_10: actor receive world call identify young never between tennis
-  audit
-bip_39_word_space_11: actor receive world call identify young never between tennis
-  audit kitten
 bip_39_word_space_12: actor receive world call identify young never between tennis
   audit kitten aim
 bip_39_word_space_2: actor receive
 bip_39_word_space_3: actor receive world
-bip_39_word_space_4: actor receive world call
-bip_39_word_space_5: actor receive world call identify
-bip_39_word_space_6: actor receive world call identify young
-bip_39_word_space_7: actor receive world call identify young never
-bip_39_word_space_8: actor receive world call identify young never between
-bip_39_word_space_9: actor receive world call identify young never between tennis
-bip_39_word_underscore_1: actor
-bip_39_word_underscore_10: actor_receive_world_call_identify_young_never_between_tennis_audit
-bip_39_word_underscore_11: actor_receive_world_call_identify_young_never_between_tennis_audit_kitten
 bip_39_word_underscore_12: actor_receive_world_call_identify_young_never_between_tennis_audit_kitten_aim
 bip_39_word_underscore_2: actor_receive
 bip_39_word_underscore_3: actor_receive_world
-bip_39_word_underscore_4: actor_receive_world_call
-bip_39_word_underscore_5: actor_receive_world_call_identify
-bip_39_word_underscore_6: actor_receive_world_call_identify_young
-bip_39_word_underscore_7: actor_receive_world_call_identify_young_never
-bip_39_word_underscore_8: actor_receive_world_call_identify_young_never_between
-bip_39_word_underscore_9: actor_receive_world_call_identify_young_never_between_tennis
 classification: category
 classification_capital: Category
 classification_first_letter: c

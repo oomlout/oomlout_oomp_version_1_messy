@@ -1,68 +1,9 @@
-bip_39_word_dash_1: include
-bip_39_word_dash_10: include-shoulder-green-science-major-endorse-join-dolphin-cinnamon-master
-bip_39_word_dash_11: include-shoulder-green-science-major-endorse-join-dolphin-cinnamon-master-muffin
 bip_39_word_dash_12: include-shoulder-green-science-major-endorse-join-dolphin-cinnamon-master-muffin-across
 bip_39_word_dash_2: include-shoulder
 bip_39_word_dash_3: include-shoulder-green
-bip_39_word_dash_4: include-shoulder-green-science
-bip_39_word_dash_5: include-shoulder-green-science-major
-bip_39_word_dash_6: include-shoulder-green-science-major-endorse
-bip_39_word_dash_7: include-shoulder-green-science-major-endorse-join
-bip_39_word_dash_8: include-shoulder-green-science-major-endorse-join-dolphin
-bip_39_word_dash_9: include-shoulder-green-science-major-endorse-join-dolphin-cinnamon
-bip_39_word_new_br_1: include
-bip_39_word_new_br_10: include<br>shoulder<br>green<br>science<br>major<br>endorse<br>join<br>dolphin<br>cinnamon<br>master
-bip_39_word_new_br_11: include<br>shoulder<br>green<br>science<br>major<br>endorse<br>join<br>dolphin<br>cinnamon<br>master<br>muffin
 bip_39_word_new_br_12: include<br>shoulder<br>green<br>science<br>major<br>endorse<br>join<br>dolphin<br>cinnamon<br>master<br>muffin<br>across
 bip_39_word_new_br_2: include<br>shoulder
 bip_39_word_new_br_3: include<br>shoulder<br>green
-bip_39_word_new_br_4: include<br>shoulder<br>green<br>science
-bip_39_word_new_br_5: include<br>shoulder<br>green<br>science<br>major
-bip_39_word_new_br_6: include<br>shoulder<br>green<br>science<br>major<br>endorse
-bip_39_word_new_br_7: include<br>shoulder<br>green<br>science<br>major<br>endorse<br>join
-bip_39_word_new_br_8: include<br>shoulder<br>green<br>science<br>major<br>endorse<br>join<br>dolphin
-bip_39_word_new_br_9: include<br>shoulder<br>green<br>science<br>major<br>endorse<br>join<br>dolphin<br>cinnamon
-bip_39_word_new_line_1: include
-bip_39_word_new_line_10: 'include
-
-  shoulder
-
-  green
-
-  science
-
-  major
-
-  endorse
-
-  join
-
-  dolphin
-
-  cinnamon
-
-  master'
-bip_39_word_new_line_11: 'include
-
-  shoulder
-
-  green
-
-  science
-
-  major
-
-  endorse
-
-  join
-
-  dolphin
-
-  cinnamon
-
-  master
-
-  muffin'
 bip_39_word_new_line_12: 'include
 
   shoulder
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'include
   shoulder
 
   green'
-bip_39_word_new_line_4: 'include
-
-  shoulder
-
-  green
-
-  science'
-bip_39_word_new_line_5: 'include
-
-  shoulder
-
-  green
-
-  science
-
-  major'
-bip_39_word_new_line_6: 'include
-
-  shoulder
-
-  green
-
-  science
-
-  major
-
-  endorse'
-bip_39_word_new_line_7: 'include
-
-  shoulder
-
-  green
-
-  science
-
-  major
-
-  endorse
-
-  join'
-bip_39_word_new_line_8: 'include
-
-  shoulder
-
-  green
-
-  science
-
-  major
-
-  endorse
-
-  join
-
-  dolphin'
-bip_39_word_new_line_9: 'include
-
-  shoulder
-
-  green
-
-  science
-
-  major
-
-  endorse
-
-  join
-
-  dolphin
-
-  cinnamon'
-bip_39_word_no_space_1: include
-bip_39_word_no_space_10: includeshouldergreensciencemajorendorsejoindolphincinnamonmaster
-bip_39_word_no_space_11: includeshouldergreensciencemajorendorsejoindolphincinnamonmastermuffin
 bip_39_word_no_space_12: includeshouldergreensciencemajorendorsejoindolphincinnamonmastermuffinacross
 bip_39_word_no_space_2: includeshoulder
 bip_39_word_no_space_3: includeshouldergreen
-bip_39_word_no_space_4: includeshouldergreenscience
-bip_39_word_no_space_5: includeshouldergreensciencemajor
-bip_39_word_no_space_6: includeshouldergreensciencemajorendorse
-bip_39_word_no_space_7: includeshouldergreensciencemajorendorsejoin
-bip_39_word_no_space_8: includeshouldergreensciencemajorendorsejoindolphin
-bip_39_word_no_space_9: includeshouldergreensciencemajorendorsejoindolphincinnamon
-bip_39_word_space_0:
-- include
-- shoulder
-- green
-- science
-- major
-- endorse
-- join
-- dolphin
-- cinnamon
-- master
-- muffin
-- across
-bip_39_word_space_1: include
-bip_39_word_space_10: include shoulder green science major endorse join dolphin cinnamon
-  master
-bip_39_word_space_11: include shoulder green science major endorse join dolphin cinnamon
-  master muffin
 bip_39_word_space_12: include shoulder green science major endorse join dolphin cinnamon
   master muffin across
 bip_39_word_space_2: include shoulder
 bip_39_word_space_3: include shoulder green
-bip_39_word_space_4: include shoulder green science
-bip_39_word_space_5: include shoulder green science major
-bip_39_word_space_6: include shoulder green science major endorse
-bip_39_word_space_7: include shoulder green science major endorse join
-bip_39_word_space_8: include shoulder green science major endorse join dolphin
-bip_39_word_space_9: include shoulder green science major endorse join dolphin cinnamon
-bip_39_word_underscore_1: include
-bip_39_word_underscore_10: include_shoulder_green_science_major_endorse_join_dolphin_cinnamon_master
-bip_39_word_underscore_11: include_shoulder_green_science_major_endorse_join_dolphin_cinnamon_master_muffin
 bip_39_word_underscore_12: include_shoulder_green_science_major_endorse_join_dolphin_cinnamon_master_muffin_across
 bip_39_word_underscore_2: include_shoulder
 bip_39_word_underscore_3: include_shoulder_green
-bip_39_word_underscore_4: include_shoulder_green_science
-bip_39_word_underscore_5: include_shoulder_green_science_major
-bip_39_word_underscore_6: include_shoulder_green_science_major_endorse
-bip_39_word_underscore_7: include_shoulder_green_science_major_endorse_join
-bip_39_word_underscore_8: include_shoulder_green_science_major_endorse_join_dolphin
-bip_39_word_underscore_9: include_shoulder_green_science_major_endorse_join_dolphin_cinnamon
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

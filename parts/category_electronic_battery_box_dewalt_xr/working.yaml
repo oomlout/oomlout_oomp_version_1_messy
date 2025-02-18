@@ -1,68 +1,9 @@
-bip_39_word_dash_1: place
-bip_39_word_dash_10: place-ask-donkey-island-fat-memory-test-marine-lab-provide
-bip_39_word_dash_11: place-ask-donkey-island-fat-memory-test-marine-lab-provide-orange
 bip_39_word_dash_12: place-ask-donkey-island-fat-memory-test-marine-lab-provide-orange-afford
 bip_39_word_dash_2: place-ask
 bip_39_word_dash_3: place-ask-donkey
-bip_39_word_dash_4: place-ask-donkey-island
-bip_39_word_dash_5: place-ask-donkey-island-fat
-bip_39_word_dash_6: place-ask-donkey-island-fat-memory
-bip_39_word_dash_7: place-ask-donkey-island-fat-memory-test
-bip_39_word_dash_8: place-ask-donkey-island-fat-memory-test-marine
-bip_39_word_dash_9: place-ask-donkey-island-fat-memory-test-marine-lab
-bip_39_word_new_br_1: place
-bip_39_word_new_br_10: place<br>ask<br>donkey<br>island<br>fat<br>memory<br>test<br>marine<br>lab<br>provide
-bip_39_word_new_br_11: place<br>ask<br>donkey<br>island<br>fat<br>memory<br>test<br>marine<br>lab<br>provide<br>orange
 bip_39_word_new_br_12: place<br>ask<br>donkey<br>island<br>fat<br>memory<br>test<br>marine<br>lab<br>provide<br>orange<br>afford
 bip_39_word_new_br_2: place<br>ask
 bip_39_word_new_br_3: place<br>ask<br>donkey
-bip_39_word_new_br_4: place<br>ask<br>donkey<br>island
-bip_39_word_new_br_5: place<br>ask<br>donkey<br>island<br>fat
-bip_39_word_new_br_6: place<br>ask<br>donkey<br>island<br>fat<br>memory
-bip_39_word_new_br_7: place<br>ask<br>donkey<br>island<br>fat<br>memory<br>test
-bip_39_word_new_br_8: place<br>ask<br>donkey<br>island<br>fat<br>memory<br>test<br>marine
-bip_39_word_new_br_9: place<br>ask<br>donkey<br>island<br>fat<br>memory<br>test<br>marine<br>lab
-bip_39_word_new_line_1: place
-bip_39_word_new_line_10: 'place
-
-  ask
-
-  donkey
-
-  island
-
-  fat
-
-  memory
-
-  test
-
-  marine
-
-  lab
-
-  provide'
-bip_39_word_new_line_11: 'place
-
-  ask
-
-  donkey
-
-  island
-
-  fat
-
-  memory
-
-  test
-
-  marine
-
-  lab
-
-  provide
-
-  orange'
 bip_39_word_new_line_12: 'place
 
   ask
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'place
   ask
 
   donkey'
-bip_39_word_new_line_4: 'place
-
-  ask
-
-  donkey
-
-  island'
-bip_39_word_new_line_5: 'place
-
-  ask
-
-  donkey
-
-  island
-
-  fat'
-bip_39_word_new_line_6: 'place
-
-  ask
-
-  donkey
-
-  island
-
-  fat
-
-  memory'
-bip_39_word_new_line_7: 'place
-
-  ask
-
-  donkey
-
-  island
-
-  fat
-
-  memory
-
-  test'
-bip_39_word_new_line_8: 'place
-
-  ask
-
-  donkey
-
-  island
-
-  fat
-
-  memory
-
-  test
-
-  marine'
-bip_39_word_new_line_9: 'place
-
-  ask
-
-  donkey
-
-  island
-
-  fat
-
-  memory
-
-  test
-
-  marine
-
-  lab'
-bip_39_word_no_space_1: place
-bip_39_word_no_space_10: placeaskdonkeyislandfatmemorytestmarinelabprovide
-bip_39_word_no_space_11: placeaskdonkeyislandfatmemorytestmarinelabprovideorange
 bip_39_word_no_space_12: placeaskdonkeyislandfatmemorytestmarinelabprovideorangeafford
 bip_39_word_no_space_2: placeask
 bip_39_word_no_space_3: placeaskdonkey
-bip_39_word_no_space_4: placeaskdonkeyisland
-bip_39_word_no_space_5: placeaskdonkeyislandfat
-bip_39_word_no_space_6: placeaskdonkeyislandfatmemory
-bip_39_word_no_space_7: placeaskdonkeyislandfatmemorytest
-bip_39_word_no_space_8: placeaskdonkeyislandfatmemorytestmarine
-bip_39_word_no_space_9: placeaskdonkeyislandfatmemorytestmarinelab
-bip_39_word_space_0:
-- place
-- ask
-- donkey
-- island
-- fat
-- memory
-- test
-- marine
-- lab
-- provide
-- orange
-- afford
-bip_39_word_space_1: place
-bip_39_word_space_10: place ask donkey island fat memory test marine lab provide
-bip_39_word_space_11: place ask donkey island fat memory test marine lab provide orange
 bip_39_word_space_12: place ask donkey island fat memory test marine lab provide orange
   afford
 bip_39_word_space_2: place ask
 bip_39_word_space_3: place ask donkey
-bip_39_word_space_4: place ask donkey island
-bip_39_word_space_5: place ask donkey island fat
-bip_39_word_space_6: place ask donkey island fat memory
-bip_39_word_space_7: place ask donkey island fat memory test
-bip_39_word_space_8: place ask donkey island fat memory test marine
-bip_39_word_space_9: place ask donkey island fat memory test marine lab
-bip_39_word_underscore_1: place
-bip_39_word_underscore_10: place_ask_donkey_island_fat_memory_test_marine_lab_provide
-bip_39_word_underscore_11: place_ask_donkey_island_fat_memory_test_marine_lab_provide_orange
 bip_39_word_underscore_12: place_ask_donkey_island_fat_memory_test_marine_lab_provide_orange_afford
 bip_39_word_underscore_2: place_ask
 bip_39_word_underscore_3: place_ask_donkey
-bip_39_word_underscore_4: place_ask_donkey_island
-bip_39_word_underscore_5: place_ask_donkey_island_fat
-bip_39_word_underscore_6: place_ask_donkey_island_fat_memory
-bip_39_word_underscore_7: place_ask_donkey_island_fat_memory_test
-bip_39_word_underscore_8: place_ask_donkey_island_fat_memory_test_marine
-bip_39_word_underscore_9: place_ask_donkey_island_fat_memory_test_marine_lab
 classification: category
 classification_capital: Category
 classification_first_letter: c

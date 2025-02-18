@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rose
-bip_39_word_dash_10: rose-castle-point-accuse-bleak-local-use-test-fan-reveal
-bip_39_word_dash_11: rose-castle-point-accuse-bleak-local-use-test-fan-reveal-evidence
 bip_39_word_dash_12: rose-castle-point-accuse-bleak-local-use-test-fan-reveal-evidence-auction
 bip_39_word_dash_2: rose-castle
 bip_39_word_dash_3: rose-castle-point
-bip_39_word_dash_4: rose-castle-point-accuse
-bip_39_word_dash_5: rose-castle-point-accuse-bleak
-bip_39_word_dash_6: rose-castle-point-accuse-bleak-local
-bip_39_word_dash_7: rose-castle-point-accuse-bleak-local-use
-bip_39_word_dash_8: rose-castle-point-accuse-bleak-local-use-test
-bip_39_word_dash_9: rose-castle-point-accuse-bleak-local-use-test-fan
-bip_39_word_new_br_1: rose
-bip_39_word_new_br_10: rose<br>castle<br>point<br>accuse<br>bleak<br>local<br>use<br>test<br>fan<br>reveal
-bip_39_word_new_br_11: rose<br>castle<br>point<br>accuse<br>bleak<br>local<br>use<br>test<br>fan<br>reveal<br>evidence
 bip_39_word_new_br_12: rose<br>castle<br>point<br>accuse<br>bleak<br>local<br>use<br>test<br>fan<br>reveal<br>evidence<br>auction
 bip_39_word_new_br_2: rose<br>castle
 bip_39_word_new_br_3: rose<br>castle<br>point
-bip_39_word_new_br_4: rose<br>castle<br>point<br>accuse
-bip_39_word_new_br_5: rose<br>castle<br>point<br>accuse<br>bleak
-bip_39_word_new_br_6: rose<br>castle<br>point<br>accuse<br>bleak<br>local
-bip_39_word_new_br_7: rose<br>castle<br>point<br>accuse<br>bleak<br>local<br>use
-bip_39_word_new_br_8: rose<br>castle<br>point<br>accuse<br>bleak<br>local<br>use<br>test
-bip_39_word_new_br_9: rose<br>castle<br>point<br>accuse<br>bleak<br>local<br>use<br>test<br>fan
-bip_39_word_new_line_1: rose
-bip_39_word_new_line_10: 'rose
-
-  castle
-
-  point
-
-  accuse
-
-  bleak
-
-  local
-
-  use
-
-  test
-
-  fan
-
-  reveal'
-bip_39_word_new_line_11: 'rose
-
-  castle
-
-  point
-
-  accuse
-
-  bleak
-
-  local
-
-  use
-
-  test
-
-  fan
-
-  reveal
-
-  evidence'
 bip_39_word_new_line_12: 'rose
 
   castle
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'rose
   castle
 
   point'
-bip_39_word_new_line_4: 'rose
-
-  castle
-
-  point
-
-  accuse'
-bip_39_word_new_line_5: 'rose
-
-  castle
-
-  point
-
-  accuse
-
-  bleak'
-bip_39_word_new_line_6: 'rose
-
-  castle
-
-  point
-
-  accuse
-
-  bleak
-
-  local'
-bip_39_word_new_line_7: 'rose
-
-  castle
-
-  point
-
-  accuse
-
-  bleak
-
-  local
-
-  use'
-bip_39_word_new_line_8: 'rose
-
-  castle
-
-  point
-
-  accuse
-
-  bleak
-
-  local
-
-  use
-
-  test'
-bip_39_word_new_line_9: 'rose
-
-  castle
-
-  point
-
-  accuse
-
-  bleak
-
-  local
-
-  use
-
-  test
-
-  fan'
-bip_39_word_no_space_1: rose
-bip_39_word_no_space_10: rosecastlepointaccusebleaklocalusetestfanreveal
-bip_39_word_no_space_11: rosecastlepointaccusebleaklocalusetestfanrevealevidence
 bip_39_word_no_space_12: rosecastlepointaccusebleaklocalusetestfanrevealevidenceauction
 bip_39_word_no_space_2: rosecastle
 bip_39_word_no_space_3: rosecastlepoint
-bip_39_word_no_space_4: rosecastlepointaccuse
-bip_39_word_no_space_5: rosecastlepointaccusebleak
-bip_39_word_no_space_6: rosecastlepointaccusebleaklocal
-bip_39_word_no_space_7: rosecastlepointaccusebleaklocaluse
-bip_39_word_no_space_8: rosecastlepointaccusebleaklocalusetest
-bip_39_word_no_space_9: rosecastlepointaccusebleaklocalusetestfan
-bip_39_word_space_0:
-- rose
-- castle
-- point
-- accuse
-- bleak
-- local
-- use
-- test
-- fan
-- reveal
-- evidence
-- auction
-bip_39_word_space_1: rose
-bip_39_word_space_10: rose castle point accuse bleak local use test fan reveal
-bip_39_word_space_11: rose castle point accuse bleak local use test fan reveal evidence
 bip_39_word_space_12: rose castle point accuse bleak local use test fan reveal evidence
   auction
 bip_39_word_space_2: rose castle
 bip_39_word_space_3: rose castle point
-bip_39_word_space_4: rose castle point accuse
-bip_39_word_space_5: rose castle point accuse bleak
-bip_39_word_space_6: rose castle point accuse bleak local
-bip_39_word_space_7: rose castle point accuse bleak local use
-bip_39_word_space_8: rose castle point accuse bleak local use test
-bip_39_word_space_9: rose castle point accuse bleak local use test fan
-bip_39_word_underscore_1: rose
-bip_39_word_underscore_10: rose_castle_point_accuse_bleak_local_use_test_fan_reveal
-bip_39_word_underscore_11: rose_castle_point_accuse_bleak_local_use_test_fan_reveal_evidence
 bip_39_word_underscore_12: rose_castle_point_accuse_bleak_local_use_test_fan_reveal_evidence_auction
 bip_39_word_underscore_2: rose_castle
 bip_39_word_underscore_3: rose_castle_point
-bip_39_word_underscore_4: rose_castle_point_accuse
-bip_39_word_underscore_5: rose_castle_point_accuse_bleak
-bip_39_word_underscore_6: rose_castle_point_accuse_bleak_local
-bip_39_word_underscore_7: rose_castle_point_accuse_bleak_local_use
-bip_39_word_underscore_8: rose_castle_point_accuse_bleak_local_use_test
-bip_39_word_underscore_9: rose_castle_point_accuse_bleak_local_use_test_fan
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

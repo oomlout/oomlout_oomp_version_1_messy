@@ -1,68 +1,9 @@
-bip_39_word_dash_1: outdoor
-bip_39_word_dash_10: outdoor-pole-error-damage-dragon-horse-follow-aisle-enlist-praise
-bip_39_word_dash_11: outdoor-pole-error-damage-dragon-horse-follow-aisle-enlist-praise-caution
 bip_39_word_dash_12: outdoor-pole-error-damage-dragon-horse-follow-aisle-enlist-praise-caution-arrest
 bip_39_word_dash_2: outdoor-pole
 bip_39_word_dash_3: outdoor-pole-error
-bip_39_word_dash_4: outdoor-pole-error-damage
-bip_39_word_dash_5: outdoor-pole-error-damage-dragon
-bip_39_word_dash_6: outdoor-pole-error-damage-dragon-horse
-bip_39_word_dash_7: outdoor-pole-error-damage-dragon-horse-follow
-bip_39_word_dash_8: outdoor-pole-error-damage-dragon-horse-follow-aisle
-bip_39_word_dash_9: outdoor-pole-error-damage-dragon-horse-follow-aisle-enlist
-bip_39_word_new_br_1: outdoor
-bip_39_word_new_br_10: outdoor<br>pole<br>error<br>damage<br>dragon<br>horse<br>follow<br>aisle<br>enlist<br>praise
-bip_39_word_new_br_11: outdoor<br>pole<br>error<br>damage<br>dragon<br>horse<br>follow<br>aisle<br>enlist<br>praise<br>caution
 bip_39_word_new_br_12: outdoor<br>pole<br>error<br>damage<br>dragon<br>horse<br>follow<br>aisle<br>enlist<br>praise<br>caution<br>arrest
 bip_39_word_new_br_2: outdoor<br>pole
 bip_39_word_new_br_3: outdoor<br>pole<br>error
-bip_39_word_new_br_4: outdoor<br>pole<br>error<br>damage
-bip_39_word_new_br_5: outdoor<br>pole<br>error<br>damage<br>dragon
-bip_39_word_new_br_6: outdoor<br>pole<br>error<br>damage<br>dragon<br>horse
-bip_39_word_new_br_7: outdoor<br>pole<br>error<br>damage<br>dragon<br>horse<br>follow
-bip_39_word_new_br_8: outdoor<br>pole<br>error<br>damage<br>dragon<br>horse<br>follow<br>aisle
-bip_39_word_new_br_9: outdoor<br>pole<br>error<br>damage<br>dragon<br>horse<br>follow<br>aisle<br>enlist
-bip_39_word_new_line_1: outdoor
-bip_39_word_new_line_10: 'outdoor
-
-  pole
-
-  error
-
-  damage
-
-  dragon
-
-  horse
-
-  follow
-
-  aisle
-
-  enlist
-
-  praise'
-bip_39_word_new_line_11: 'outdoor
-
-  pole
-
-  error
-
-  damage
-
-  dragon
-
-  horse
-
-  follow
-
-  aisle
-
-  enlist
-
-  praise
-
-  caution'
 bip_39_word_new_line_12: 'outdoor
 
   pole
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'outdoor
   pole
 
   error'
-bip_39_word_new_line_4: 'outdoor
-
-  pole
-
-  error
-
-  damage'
-bip_39_word_new_line_5: 'outdoor
-
-  pole
-
-  error
-
-  damage
-
-  dragon'
-bip_39_word_new_line_6: 'outdoor
-
-  pole
-
-  error
-
-  damage
-
-  dragon
-
-  horse'
-bip_39_word_new_line_7: 'outdoor
-
-  pole
-
-  error
-
-  damage
-
-  dragon
-
-  horse
-
-  follow'
-bip_39_word_new_line_8: 'outdoor
-
-  pole
-
-  error
-
-  damage
-
-  dragon
-
-  horse
-
-  follow
-
-  aisle'
-bip_39_word_new_line_9: 'outdoor
-
-  pole
-
-  error
-
-  damage
-
-  dragon
-
-  horse
-
-  follow
-
-  aisle
-
-  enlist'
-bip_39_word_no_space_1: outdoor
-bip_39_word_no_space_10: outdoorpoleerrordamagedragonhorsefollowaisleenlistpraise
-bip_39_word_no_space_11: outdoorpoleerrordamagedragonhorsefollowaisleenlistpraisecaution
 bip_39_word_no_space_12: outdoorpoleerrordamagedragonhorsefollowaisleenlistpraisecautionarrest
 bip_39_word_no_space_2: outdoorpole
 bip_39_word_no_space_3: outdoorpoleerror
-bip_39_word_no_space_4: outdoorpoleerrordamage
-bip_39_word_no_space_5: outdoorpoleerrordamagedragon
-bip_39_word_no_space_6: outdoorpoleerrordamagedragonhorse
-bip_39_word_no_space_7: outdoorpoleerrordamagedragonhorsefollow
-bip_39_word_no_space_8: outdoorpoleerrordamagedragonhorsefollowaisle
-bip_39_word_no_space_9: outdoorpoleerrordamagedragonhorsefollowaisleenlist
-bip_39_word_space_0:
-- outdoor
-- pole
-- error
-- damage
-- dragon
-- horse
-- follow
-- aisle
-- enlist
-- praise
-- caution
-- arrest
-bip_39_word_space_1: outdoor
-bip_39_word_space_10: outdoor pole error damage dragon horse follow aisle enlist praise
-bip_39_word_space_11: outdoor pole error damage dragon horse follow aisle enlist praise
-  caution
 bip_39_word_space_12: outdoor pole error damage dragon horse follow aisle enlist praise
   caution arrest
 bip_39_word_space_2: outdoor pole
 bip_39_word_space_3: outdoor pole error
-bip_39_word_space_4: outdoor pole error damage
-bip_39_word_space_5: outdoor pole error damage dragon
-bip_39_word_space_6: outdoor pole error damage dragon horse
-bip_39_word_space_7: outdoor pole error damage dragon horse follow
-bip_39_word_space_8: outdoor pole error damage dragon horse follow aisle
-bip_39_word_space_9: outdoor pole error damage dragon horse follow aisle enlist
-bip_39_word_underscore_1: outdoor
-bip_39_word_underscore_10: outdoor_pole_error_damage_dragon_horse_follow_aisle_enlist_praise
-bip_39_word_underscore_11: outdoor_pole_error_damage_dragon_horse_follow_aisle_enlist_praise_caution
 bip_39_word_underscore_12: outdoor_pole_error_damage_dragon_horse_follow_aisle_enlist_praise_caution_arrest
 bip_39_word_underscore_2: outdoor_pole
 bip_39_word_underscore_3: outdoor_pole_error
-bip_39_word_underscore_4: outdoor_pole_error_damage
-bip_39_word_underscore_5: outdoor_pole_error_damage_dragon
-bip_39_word_underscore_6: outdoor_pole_error_damage_dragon_horse
-bip_39_word_underscore_7: outdoor_pole_error_damage_dragon_horse_follow
-bip_39_word_underscore_8: outdoor_pole_error_damage_dragon_horse_follow_aisle
-bip_39_word_underscore_9: outdoor_pole_error_damage_dragon_horse_follow_aisle_enlist
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

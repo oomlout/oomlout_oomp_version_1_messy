@@ -1,68 +1,9 @@
-bip_39_word_dash_1: power
-bip_39_word_dash_10: power-end-recipe-alert-boat-also-crop-friend-panic-spot
-bip_39_word_dash_11: power-end-recipe-alert-boat-also-crop-friend-panic-spot-ivory
 bip_39_word_dash_12: power-end-recipe-alert-boat-also-crop-friend-panic-spot-ivory-advice
 bip_39_word_dash_2: power-end
 bip_39_word_dash_3: power-end-recipe
-bip_39_word_dash_4: power-end-recipe-alert
-bip_39_word_dash_5: power-end-recipe-alert-boat
-bip_39_word_dash_6: power-end-recipe-alert-boat-also
-bip_39_word_dash_7: power-end-recipe-alert-boat-also-crop
-bip_39_word_dash_8: power-end-recipe-alert-boat-also-crop-friend
-bip_39_word_dash_9: power-end-recipe-alert-boat-also-crop-friend-panic
-bip_39_word_new_br_1: power
-bip_39_word_new_br_10: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot
-bip_39_word_new_br_11: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory
 bip_39_word_new_br_12: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory<br>advice
 bip_39_word_new_br_2: power<br>end
 bip_39_word_new_br_3: power<br>end<br>recipe
-bip_39_word_new_br_4: power<br>end<br>recipe<br>alert
-bip_39_word_new_br_5: power<br>end<br>recipe<br>alert<br>boat
-bip_39_word_new_br_6: power<br>end<br>recipe<br>alert<br>boat<br>also
-bip_39_word_new_br_7: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop
-bip_39_word_new_br_8: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend
-bip_39_word_new_br_9: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic
-bip_39_word_new_line_1: power
-bip_39_word_new_line_10: 'power
-
-  end
-
-  recipe
-
-  alert
-
-  boat
-
-  also
-
-  crop
-
-  friend
-
-  panic
-
-  spot'
-bip_39_word_new_line_11: 'power
-
-  end
-
-  recipe
-
-  alert
-
-  boat
-
-  also
-
-  crop
-
-  friend
-
-  panic
-
-  spot
-
-  ivory'
 bip_39_word_new_line_12: 'power
 
   end
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'power
   end
 
   recipe'
-bip_39_word_new_line_4: 'power
-
-  end
-
-  recipe
-
-  alert'
-bip_39_word_new_line_5: 'power
-
-  end
-
-  recipe
-
-  alert
-
-  boat'
-bip_39_word_new_line_6: 'power
-
-  end
-
-  recipe
-
-  alert
-
-  boat
-
-  also'
-bip_39_word_new_line_7: 'power
-
-  end
-
-  recipe
-
-  alert
-
-  boat
-
-  also
-
-  crop'
-bip_39_word_new_line_8: 'power
-
-  end
-
-  recipe
-
-  alert
-
-  boat
-
-  also
-
-  crop
-
-  friend'
-bip_39_word_new_line_9: 'power
-
-  end
-
-  recipe
-
-  alert
-
-  boat
-
-  also
-
-  crop
-
-  friend
-
-  panic'
-bip_39_word_no_space_1: power
-bip_39_word_no_space_10: powerendrecipealertboatalsocropfriendpanicspot
-bip_39_word_no_space_11: powerendrecipealertboatalsocropfriendpanicspotivory
 bip_39_word_no_space_12: powerendrecipealertboatalsocropfriendpanicspotivoryadvice
 bip_39_word_no_space_2: powerend
 bip_39_word_no_space_3: powerendrecipe
-bip_39_word_no_space_4: powerendrecipealert
-bip_39_word_no_space_5: powerendrecipealertboat
-bip_39_word_no_space_6: powerendrecipealertboatalso
-bip_39_word_no_space_7: powerendrecipealertboatalsocrop
-bip_39_word_no_space_8: powerendrecipealertboatalsocropfriend
-bip_39_word_no_space_9: powerendrecipealertboatalsocropfriendpanic
-bip_39_word_space_0:
-- power
-- end
-- recipe
-- alert
-- boat
-- also
-- crop
-- friend
-- panic
-- spot
-- ivory
-- advice
-bip_39_word_space_1: power
-bip_39_word_space_10: power end recipe alert boat also crop friend panic spot
-bip_39_word_space_11: power end recipe alert boat also crop friend panic spot ivory
 bip_39_word_space_12: power end recipe alert boat also crop friend panic spot ivory
   advice
 bip_39_word_space_2: power end
 bip_39_word_space_3: power end recipe
-bip_39_word_space_4: power end recipe alert
-bip_39_word_space_5: power end recipe alert boat
-bip_39_word_space_6: power end recipe alert boat also
-bip_39_word_space_7: power end recipe alert boat also crop
-bip_39_word_space_8: power end recipe alert boat also crop friend
-bip_39_word_space_9: power end recipe alert boat also crop friend panic
-bip_39_word_underscore_1: power
-bip_39_word_underscore_10: power_end_recipe_alert_boat_also_crop_friend_panic_spot
-bip_39_word_underscore_11: power_end_recipe_alert_boat_also_crop_friend_panic_spot_ivory
 bip_39_word_underscore_12: power_end_recipe_alert_boat_also_crop_friend_panic_spot_ivory_advice
 bip_39_word_underscore_2: power_end
 bip_39_word_underscore_3: power_end_recipe
-bip_39_word_underscore_4: power_end_recipe_alert
-bip_39_word_underscore_5: power_end_recipe_alert_boat
-bip_39_word_underscore_6: power_end_recipe_alert_boat_also
-bip_39_word_underscore_7: power_end_recipe_alert_boat_also_crop
-bip_39_word_underscore_8: power_end_recipe_alert_boat_also_crop_friend
-bip_39_word_underscore_9: power_end_recipe_alert_boat_also_crop_friend_panic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bacon
-bip_39_word_dash_10: bacon-pull-alien-panther-dentist-cupboard-collect-cause-unique-today
-bip_39_word_dash_11: bacon-pull-alien-panther-dentist-cupboard-collect-cause-unique-today-primary
 bip_39_word_dash_12: bacon-pull-alien-panther-dentist-cupboard-collect-cause-unique-today-primary-almost
 bip_39_word_dash_2: bacon-pull
 bip_39_word_dash_3: bacon-pull-alien
-bip_39_word_dash_4: bacon-pull-alien-panther
-bip_39_word_dash_5: bacon-pull-alien-panther-dentist
-bip_39_word_dash_6: bacon-pull-alien-panther-dentist-cupboard
-bip_39_word_dash_7: bacon-pull-alien-panther-dentist-cupboard-collect
-bip_39_word_dash_8: bacon-pull-alien-panther-dentist-cupboard-collect-cause
-bip_39_word_dash_9: bacon-pull-alien-panther-dentist-cupboard-collect-cause-unique
-bip_39_word_new_br_1: bacon
-bip_39_word_new_br_10: bacon<br>pull<br>alien<br>panther<br>dentist<br>cupboard<br>collect<br>cause<br>unique<br>today
-bip_39_word_new_br_11: bacon<br>pull<br>alien<br>panther<br>dentist<br>cupboard<br>collect<br>cause<br>unique<br>today<br>primary
 bip_39_word_new_br_12: bacon<br>pull<br>alien<br>panther<br>dentist<br>cupboard<br>collect<br>cause<br>unique<br>today<br>primary<br>almost
 bip_39_word_new_br_2: bacon<br>pull
 bip_39_word_new_br_3: bacon<br>pull<br>alien
-bip_39_word_new_br_4: bacon<br>pull<br>alien<br>panther
-bip_39_word_new_br_5: bacon<br>pull<br>alien<br>panther<br>dentist
-bip_39_word_new_br_6: bacon<br>pull<br>alien<br>panther<br>dentist<br>cupboard
-bip_39_word_new_br_7: bacon<br>pull<br>alien<br>panther<br>dentist<br>cupboard<br>collect
-bip_39_word_new_br_8: bacon<br>pull<br>alien<br>panther<br>dentist<br>cupboard<br>collect<br>cause
-bip_39_word_new_br_9: bacon<br>pull<br>alien<br>panther<br>dentist<br>cupboard<br>collect<br>cause<br>unique
-bip_39_word_new_line_1: bacon
-bip_39_word_new_line_10: 'bacon
-
-  pull
-
-  alien
-
-  panther
-
-  dentist
-
-  cupboard
-
-  collect
-
-  cause
-
-  unique
-
-  today'
-bip_39_word_new_line_11: 'bacon
-
-  pull
-
-  alien
-
-  panther
-
-  dentist
-
-  cupboard
-
-  collect
-
-  cause
-
-  unique
-
-  today
-
-  primary'
 bip_39_word_new_line_12: 'bacon
 
   pull
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bacon
   pull
 
   alien'
-bip_39_word_new_line_4: 'bacon
-
-  pull
-
-  alien
-
-  panther'
-bip_39_word_new_line_5: 'bacon
-
-  pull
-
-  alien
-
-  panther
-
-  dentist'
-bip_39_word_new_line_6: 'bacon
-
-  pull
-
-  alien
-
-  panther
-
-  dentist
-
-  cupboard'
-bip_39_word_new_line_7: 'bacon
-
-  pull
-
-  alien
-
-  panther
-
-  dentist
-
-  cupboard
-
-  collect'
-bip_39_word_new_line_8: 'bacon
-
-  pull
-
-  alien
-
-  panther
-
-  dentist
-
-  cupboard
-
-  collect
-
-  cause'
-bip_39_word_new_line_9: 'bacon
-
-  pull
-
-  alien
-
-  panther
-
-  dentist
-
-  cupboard
-
-  collect
-
-  cause
-
-  unique'
-bip_39_word_no_space_1: bacon
-bip_39_word_no_space_10: baconpullalienpantherdentistcupboardcollectcauseuniquetoday
-bip_39_word_no_space_11: baconpullalienpantherdentistcupboardcollectcauseuniquetodayprimary
 bip_39_word_no_space_12: baconpullalienpantherdentistcupboardcollectcauseuniquetodayprimaryalmost
 bip_39_word_no_space_2: baconpull
 bip_39_word_no_space_3: baconpullalien
-bip_39_word_no_space_4: baconpullalienpanther
-bip_39_word_no_space_5: baconpullalienpantherdentist
-bip_39_word_no_space_6: baconpullalienpantherdentistcupboard
-bip_39_word_no_space_7: baconpullalienpantherdentistcupboardcollect
-bip_39_word_no_space_8: baconpullalienpantherdentistcupboardcollectcause
-bip_39_word_no_space_9: baconpullalienpantherdentistcupboardcollectcauseunique
-bip_39_word_space_0:
-- bacon
-- pull
-- alien
-- panther
-- dentist
-- cupboard
-- collect
-- cause
-- unique
-- today
-- primary
-- almost
-bip_39_word_space_1: bacon
-bip_39_word_space_10: bacon pull alien panther dentist cupboard collect cause unique
-  today
-bip_39_word_space_11: bacon pull alien panther dentist cupboard collect cause unique
-  today primary
 bip_39_word_space_12: bacon pull alien panther dentist cupboard collect cause unique
   today primary almost
 bip_39_word_space_2: bacon pull
 bip_39_word_space_3: bacon pull alien
-bip_39_word_space_4: bacon pull alien panther
-bip_39_word_space_5: bacon pull alien panther dentist
-bip_39_word_space_6: bacon pull alien panther dentist cupboard
-bip_39_word_space_7: bacon pull alien panther dentist cupboard collect
-bip_39_word_space_8: bacon pull alien panther dentist cupboard collect cause
-bip_39_word_space_9: bacon pull alien panther dentist cupboard collect cause unique
-bip_39_word_underscore_1: bacon
-bip_39_word_underscore_10: bacon_pull_alien_panther_dentist_cupboard_collect_cause_unique_today
-bip_39_word_underscore_11: bacon_pull_alien_panther_dentist_cupboard_collect_cause_unique_today_primary
 bip_39_word_underscore_12: bacon_pull_alien_panther_dentist_cupboard_collect_cause_unique_today_primary_almost
 bip_39_word_underscore_2: bacon_pull
 bip_39_word_underscore_3: bacon_pull_alien
-bip_39_word_underscore_4: bacon_pull_alien_panther
-bip_39_word_underscore_5: bacon_pull_alien_panther_dentist
-bip_39_word_underscore_6: bacon_pull_alien_panther_dentist_cupboard
-bip_39_word_underscore_7: bacon_pull_alien_panther_dentist_cupboard_collect
-bip_39_word_underscore_8: bacon_pull_alien_panther_dentist_cupboard_collect_cause
-bip_39_word_underscore_9: bacon_pull_alien_panther_dentist_cupboard_collect_cause_unique
 classification: category
 classification_capital: Category
 classification_first_letter: c

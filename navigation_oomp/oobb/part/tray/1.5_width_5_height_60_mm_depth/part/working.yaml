@@ -1,68 +1,9 @@
-bip_39_word_dash_1: dragon
-bip_39_word_dash_10: dragon-age-burden-clown-pipe-isolate-stage-disease-burden-rare
-bip_39_word_dash_11: dragon-age-burden-clown-pipe-isolate-stage-disease-burden-rare-spoil
 bip_39_word_dash_12: dragon-age-burden-clown-pipe-isolate-stage-disease-burden-rare-spoil-always
 bip_39_word_dash_2: dragon-age
 bip_39_word_dash_3: dragon-age-burden
-bip_39_word_dash_4: dragon-age-burden-clown
-bip_39_word_dash_5: dragon-age-burden-clown-pipe
-bip_39_word_dash_6: dragon-age-burden-clown-pipe-isolate
-bip_39_word_dash_7: dragon-age-burden-clown-pipe-isolate-stage
-bip_39_word_dash_8: dragon-age-burden-clown-pipe-isolate-stage-disease
-bip_39_word_dash_9: dragon-age-burden-clown-pipe-isolate-stage-disease-burden
-bip_39_word_new_br_1: dragon
-bip_39_word_new_br_10: dragon<br>age<br>burden<br>clown<br>pipe<br>isolate<br>stage<br>disease<br>burden<br>rare
-bip_39_word_new_br_11: dragon<br>age<br>burden<br>clown<br>pipe<br>isolate<br>stage<br>disease<br>burden<br>rare<br>spoil
 bip_39_word_new_br_12: dragon<br>age<br>burden<br>clown<br>pipe<br>isolate<br>stage<br>disease<br>burden<br>rare<br>spoil<br>always
 bip_39_word_new_br_2: dragon<br>age
 bip_39_word_new_br_3: dragon<br>age<br>burden
-bip_39_word_new_br_4: dragon<br>age<br>burden<br>clown
-bip_39_word_new_br_5: dragon<br>age<br>burden<br>clown<br>pipe
-bip_39_word_new_br_6: dragon<br>age<br>burden<br>clown<br>pipe<br>isolate
-bip_39_word_new_br_7: dragon<br>age<br>burden<br>clown<br>pipe<br>isolate<br>stage
-bip_39_word_new_br_8: dragon<br>age<br>burden<br>clown<br>pipe<br>isolate<br>stage<br>disease
-bip_39_word_new_br_9: dragon<br>age<br>burden<br>clown<br>pipe<br>isolate<br>stage<br>disease<br>burden
-bip_39_word_new_line_1: dragon
-bip_39_word_new_line_10: 'dragon
-
-  age
-
-  burden
-
-  clown
-
-  pipe
-
-  isolate
-
-  stage
-
-  disease
-
-  burden
-
-  rare'
-bip_39_word_new_line_11: 'dragon
-
-  age
-
-  burden
-
-  clown
-
-  pipe
-
-  isolate
-
-  stage
-
-  disease
-
-  burden
-
-  rare
-
-  spoil'
 bip_39_word_new_line_12: 'dragon
 
   age
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'dragon
   age
 
   burden'
-bip_39_word_new_line_4: 'dragon
-
-  age
-
-  burden
-
-  clown'
-bip_39_word_new_line_5: 'dragon
-
-  age
-
-  burden
-
-  clown
-
-  pipe'
-bip_39_word_new_line_6: 'dragon
-
-  age
-
-  burden
-
-  clown
-
-  pipe
-
-  isolate'
-bip_39_word_new_line_7: 'dragon
-
-  age
-
-  burden
-
-  clown
-
-  pipe
-
-  isolate
-
-  stage'
-bip_39_word_new_line_8: 'dragon
-
-  age
-
-  burden
-
-  clown
-
-  pipe
-
-  isolate
-
-  stage
-
-  disease'
-bip_39_word_new_line_9: 'dragon
-
-  age
-
-  burden
-
-  clown
-
-  pipe
-
-  isolate
-
-  stage
-
-  disease
-
-  burden'
-bip_39_word_no_space_1: dragon
-bip_39_word_no_space_10: dragonageburdenclownpipeisolatestagediseaseburdenrare
-bip_39_word_no_space_11: dragonageburdenclownpipeisolatestagediseaseburdenrarespoil
 bip_39_word_no_space_12: dragonageburdenclownpipeisolatestagediseaseburdenrarespoilalways
 bip_39_word_no_space_2: dragonage
 bip_39_word_no_space_3: dragonageburden
-bip_39_word_no_space_4: dragonageburdenclown
-bip_39_word_no_space_5: dragonageburdenclownpipe
-bip_39_word_no_space_6: dragonageburdenclownpipeisolate
-bip_39_word_no_space_7: dragonageburdenclownpipeisolatestage
-bip_39_word_no_space_8: dragonageburdenclownpipeisolatestagedisease
-bip_39_word_no_space_9: dragonageburdenclownpipeisolatestagediseaseburden
-bip_39_word_space_0:
-- dragon
-- age
-- burden
-- clown
-- pipe
-- isolate
-- stage
-- disease
-- burden
-- rare
-- spoil
-- always
-bip_39_word_space_1: dragon
-bip_39_word_space_10: dragon age burden clown pipe isolate stage disease burden rare
-bip_39_word_space_11: dragon age burden clown pipe isolate stage disease burden rare
-  spoil
 bip_39_word_space_12: dragon age burden clown pipe isolate stage disease burden rare
   spoil always
 bip_39_word_space_2: dragon age
 bip_39_word_space_3: dragon age burden
-bip_39_word_space_4: dragon age burden clown
-bip_39_word_space_5: dragon age burden clown pipe
-bip_39_word_space_6: dragon age burden clown pipe isolate
-bip_39_word_space_7: dragon age burden clown pipe isolate stage
-bip_39_word_space_8: dragon age burden clown pipe isolate stage disease
-bip_39_word_space_9: dragon age burden clown pipe isolate stage disease burden
-bip_39_word_underscore_1: dragon
-bip_39_word_underscore_10: dragon_age_burden_clown_pipe_isolate_stage_disease_burden_rare
-bip_39_word_underscore_11: dragon_age_burden_clown_pipe_isolate_stage_disease_burden_rare_spoil
 bip_39_word_underscore_12: dragon_age_burden_clown_pipe_isolate_stage_disease_burden_rare_spoil_always
 bip_39_word_underscore_2: dragon_age
 bip_39_word_underscore_3: dragon_age_burden
-bip_39_word_underscore_4: dragon_age_burden_clown
-bip_39_word_underscore_5: dragon_age_burden_clown_pipe
-bip_39_word_underscore_6: dragon_age_burden_clown_pipe_isolate
-bip_39_word_underscore_7: dragon_age_burden_clown_pipe_isolate_stage
-bip_39_word_underscore_8: dragon_age_burden_clown_pipe_isolate_stage_disease
-bip_39_word_underscore_9: dragon_age_burden_clown_pipe_isolate_stage_disease_burden
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

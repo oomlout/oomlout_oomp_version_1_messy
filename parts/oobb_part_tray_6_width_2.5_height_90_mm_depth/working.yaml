@@ -1,68 +1,9 @@
-bip_39_word_dash_1: knife
-bip_39_word_dash_10: knife-omit-miracle-skate-immense-horse-thing-cart-walnut-bread
-bip_39_word_dash_11: knife-omit-miracle-skate-immense-horse-thing-cart-walnut-bread-soap
 bip_39_word_dash_12: knife-omit-miracle-skate-immense-horse-thing-cart-walnut-bread-soap-assault
 bip_39_word_dash_2: knife-omit
 bip_39_word_dash_3: knife-omit-miracle
-bip_39_word_dash_4: knife-omit-miracle-skate
-bip_39_word_dash_5: knife-omit-miracle-skate-immense
-bip_39_word_dash_6: knife-omit-miracle-skate-immense-horse
-bip_39_word_dash_7: knife-omit-miracle-skate-immense-horse-thing
-bip_39_word_dash_8: knife-omit-miracle-skate-immense-horse-thing-cart
-bip_39_word_dash_9: knife-omit-miracle-skate-immense-horse-thing-cart-walnut
-bip_39_word_new_br_1: knife
-bip_39_word_new_br_10: knife<br>omit<br>miracle<br>skate<br>immense<br>horse<br>thing<br>cart<br>walnut<br>bread
-bip_39_word_new_br_11: knife<br>omit<br>miracle<br>skate<br>immense<br>horse<br>thing<br>cart<br>walnut<br>bread<br>soap
 bip_39_word_new_br_12: knife<br>omit<br>miracle<br>skate<br>immense<br>horse<br>thing<br>cart<br>walnut<br>bread<br>soap<br>assault
 bip_39_word_new_br_2: knife<br>omit
 bip_39_word_new_br_3: knife<br>omit<br>miracle
-bip_39_word_new_br_4: knife<br>omit<br>miracle<br>skate
-bip_39_word_new_br_5: knife<br>omit<br>miracle<br>skate<br>immense
-bip_39_word_new_br_6: knife<br>omit<br>miracle<br>skate<br>immense<br>horse
-bip_39_word_new_br_7: knife<br>omit<br>miracle<br>skate<br>immense<br>horse<br>thing
-bip_39_word_new_br_8: knife<br>omit<br>miracle<br>skate<br>immense<br>horse<br>thing<br>cart
-bip_39_word_new_br_9: knife<br>omit<br>miracle<br>skate<br>immense<br>horse<br>thing<br>cart<br>walnut
-bip_39_word_new_line_1: knife
-bip_39_word_new_line_10: 'knife
-
-  omit
-
-  miracle
-
-  skate
-
-  immense
-
-  horse
-
-  thing
-
-  cart
-
-  walnut
-
-  bread'
-bip_39_word_new_line_11: 'knife
-
-  omit
-
-  miracle
-
-  skate
-
-  immense
-
-  horse
-
-  thing
-
-  cart
-
-  walnut
-
-  bread
-
-  soap'
 bip_39_word_new_line_12: 'knife
 
   omit
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'knife
   omit
 
   miracle'
-bip_39_word_new_line_4: 'knife
-
-  omit
-
-  miracle
-
-  skate'
-bip_39_word_new_line_5: 'knife
-
-  omit
-
-  miracle
-
-  skate
-
-  immense'
-bip_39_word_new_line_6: 'knife
-
-  omit
-
-  miracle
-
-  skate
-
-  immense
-
-  horse'
-bip_39_word_new_line_7: 'knife
-
-  omit
-
-  miracle
-
-  skate
-
-  immense
-
-  horse
-
-  thing'
-bip_39_word_new_line_8: 'knife
-
-  omit
-
-  miracle
-
-  skate
-
-  immense
-
-  horse
-
-  thing
-
-  cart'
-bip_39_word_new_line_9: 'knife
-
-  omit
-
-  miracle
-
-  skate
-
-  immense
-
-  horse
-
-  thing
-
-  cart
-
-  walnut'
-bip_39_word_no_space_1: knife
-bip_39_word_no_space_10: knifeomitmiracleskateimmensehorsethingcartwalnutbread
-bip_39_word_no_space_11: knifeomitmiracleskateimmensehorsethingcartwalnutbreadsoap
 bip_39_word_no_space_12: knifeomitmiracleskateimmensehorsethingcartwalnutbreadsoapassault
 bip_39_word_no_space_2: knifeomit
 bip_39_word_no_space_3: knifeomitmiracle
-bip_39_word_no_space_4: knifeomitmiracleskate
-bip_39_word_no_space_5: knifeomitmiracleskateimmense
-bip_39_word_no_space_6: knifeomitmiracleskateimmensehorse
-bip_39_word_no_space_7: knifeomitmiracleskateimmensehorsething
-bip_39_word_no_space_8: knifeomitmiracleskateimmensehorsethingcart
-bip_39_word_no_space_9: knifeomitmiracleskateimmensehorsethingcartwalnut
-bip_39_word_space_0:
-- knife
-- omit
-- miracle
-- skate
-- immense
-- horse
-- thing
-- cart
-- walnut
-- bread
-- soap
-- assault
-bip_39_word_space_1: knife
-bip_39_word_space_10: knife omit miracle skate immense horse thing cart walnut bread
-bip_39_word_space_11: knife omit miracle skate immense horse thing cart walnut bread
-  soap
 bip_39_word_space_12: knife omit miracle skate immense horse thing cart walnut bread
   soap assault
 bip_39_word_space_2: knife omit
 bip_39_word_space_3: knife omit miracle
-bip_39_word_space_4: knife omit miracle skate
-bip_39_word_space_5: knife omit miracle skate immense
-bip_39_word_space_6: knife omit miracle skate immense horse
-bip_39_word_space_7: knife omit miracle skate immense horse thing
-bip_39_word_space_8: knife omit miracle skate immense horse thing cart
-bip_39_word_space_9: knife omit miracle skate immense horse thing cart walnut
-bip_39_word_underscore_1: knife
-bip_39_word_underscore_10: knife_omit_miracle_skate_immense_horse_thing_cart_walnut_bread
-bip_39_word_underscore_11: knife_omit_miracle_skate_immense_horse_thing_cart_walnut_bread_soap
 bip_39_word_underscore_12: knife_omit_miracle_skate_immense_horse_thing_cart_walnut_bread_soap_assault
 bip_39_word_underscore_2: knife_omit
 bip_39_word_underscore_3: knife_omit_miracle
-bip_39_word_underscore_4: knife_omit_miracle_skate
-bip_39_word_underscore_5: knife_omit_miracle_skate_immense
-bip_39_word_underscore_6: knife_omit_miracle_skate_immense_horse
-bip_39_word_underscore_7: knife_omit_miracle_skate_immense_horse_thing
-bip_39_word_underscore_8: knife_omit_miracle_skate_immense_horse_thing_cart
-bip_39_word_underscore_9: knife_omit_miracle_skate_immense_horse_thing_cart_walnut
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

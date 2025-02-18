@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rack
-bip_39_word_dash_10: rack-tent-duty-push-penalty-want-better-cross-cross-spend
-bip_39_word_dash_11: rack-tent-duty-push-penalty-want-better-cross-cross-spend-two
 bip_39_word_dash_12: rack-tent-duty-push-penalty-want-better-cross-cross-spend-two-already
 bip_39_word_dash_2: rack-tent
 bip_39_word_dash_3: rack-tent-duty
-bip_39_word_dash_4: rack-tent-duty-push
-bip_39_word_dash_5: rack-tent-duty-push-penalty
-bip_39_word_dash_6: rack-tent-duty-push-penalty-want
-bip_39_word_dash_7: rack-tent-duty-push-penalty-want-better
-bip_39_word_dash_8: rack-tent-duty-push-penalty-want-better-cross
-bip_39_word_dash_9: rack-tent-duty-push-penalty-want-better-cross-cross
-bip_39_word_new_br_1: rack
-bip_39_word_new_br_10: rack<br>tent<br>duty<br>push<br>penalty<br>want<br>better<br>cross<br>cross<br>spend
-bip_39_word_new_br_11: rack<br>tent<br>duty<br>push<br>penalty<br>want<br>better<br>cross<br>cross<br>spend<br>two
 bip_39_word_new_br_12: rack<br>tent<br>duty<br>push<br>penalty<br>want<br>better<br>cross<br>cross<br>spend<br>two<br>already
 bip_39_word_new_br_2: rack<br>tent
 bip_39_word_new_br_3: rack<br>tent<br>duty
-bip_39_word_new_br_4: rack<br>tent<br>duty<br>push
-bip_39_word_new_br_5: rack<br>tent<br>duty<br>push<br>penalty
-bip_39_word_new_br_6: rack<br>tent<br>duty<br>push<br>penalty<br>want
-bip_39_word_new_br_7: rack<br>tent<br>duty<br>push<br>penalty<br>want<br>better
-bip_39_word_new_br_8: rack<br>tent<br>duty<br>push<br>penalty<br>want<br>better<br>cross
-bip_39_word_new_br_9: rack<br>tent<br>duty<br>push<br>penalty<br>want<br>better<br>cross<br>cross
-bip_39_word_new_line_1: rack
-bip_39_word_new_line_10: 'rack
-
-  tent
-
-  duty
-
-  push
-
-  penalty
-
-  want
-
-  better
-
-  cross
-
-  cross
-
-  spend'
-bip_39_word_new_line_11: 'rack
-
-  tent
-
-  duty
-
-  push
-
-  penalty
-
-  want
-
-  better
-
-  cross
-
-  cross
-
-  spend
-
-  two'
 bip_39_word_new_line_12: 'rack
 
   tent
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'rack
   tent
 
   duty'
-bip_39_word_new_line_4: 'rack
-
-  tent
-
-  duty
-
-  push'
-bip_39_word_new_line_5: 'rack
-
-  tent
-
-  duty
-
-  push
-
-  penalty'
-bip_39_word_new_line_6: 'rack
-
-  tent
-
-  duty
-
-  push
-
-  penalty
-
-  want'
-bip_39_word_new_line_7: 'rack
-
-  tent
-
-  duty
-
-  push
-
-  penalty
-
-  want
-
-  better'
-bip_39_word_new_line_8: 'rack
-
-  tent
-
-  duty
-
-  push
-
-  penalty
-
-  want
-
-  better
-
-  cross'
-bip_39_word_new_line_9: 'rack
-
-  tent
-
-  duty
-
-  push
-
-  penalty
-
-  want
-
-  better
-
-  cross
-
-  cross'
-bip_39_word_no_space_1: rack
-bip_39_word_no_space_10: racktentdutypushpenaltywantbettercrosscrossspend
-bip_39_word_no_space_11: racktentdutypushpenaltywantbettercrosscrossspendtwo
 bip_39_word_no_space_12: racktentdutypushpenaltywantbettercrosscrossspendtwoalready
 bip_39_word_no_space_2: racktent
 bip_39_word_no_space_3: racktentduty
-bip_39_word_no_space_4: racktentdutypush
-bip_39_word_no_space_5: racktentdutypushpenalty
-bip_39_word_no_space_6: racktentdutypushpenaltywant
-bip_39_word_no_space_7: racktentdutypushpenaltywantbetter
-bip_39_word_no_space_8: racktentdutypushpenaltywantbettercross
-bip_39_word_no_space_9: racktentdutypushpenaltywantbettercrosscross
-bip_39_word_space_0:
-- rack
-- tent
-- duty
-- push
-- penalty
-- want
-- better
-- cross
-- cross
-- spend
-- two
-- already
-bip_39_word_space_1: rack
-bip_39_word_space_10: rack tent duty push penalty want better cross cross spend
-bip_39_word_space_11: rack tent duty push penalty want better cross cross spend two
 bip_39_word_space_12: rack tent duty push penalty want better cross cross spend two
   already
 bip_39_word_space_2: rack tent
 bip_39_word_space_3: rack tent duty
-bip_39_word_space_4: rack tent duty push
-bip_39_word_space_5: rack tent duty push penalty
-bip_39_word_space_6: rack tent duty push penalty want
-bip_39_word_space_7: rack tent duty push penalty want better
-bip_39_word_space_8: rack tent duty push penalty want better cross
-bip_39_word_space_9: rack tent duty push penalty want better cross cross
-bip_39_word_underscore_1: rack
-bip_39_word_underscore_10: rack_tent_duty_push_penalty_want_better_cross_cross_spend
-bip_39_word_underscore_11: rack_tent_duty_push_penalty_want_better_cross_cross_spend_two
 bip_39_word_underscore_12: rack_tent_duty_push_penalty_want_better_cross_cross_spend_two_already
 bip_39_word_underscore_2: rack_tent
 bip_39_word_underscore_3: rack_tent_duty
-bip_39_word_underscore_4: rack_tent_duty_push
-bip_39_word_underscore_5: rack_tent_duty_push_penalty
-bip_39_word_underscore_6: rack_tent_duty_push_penalty_want
-bip_39_word_underscore_7: rack_tent_duty_push_penalty_want_better
-bip_39_word_underscore_8: rack_tent_duty_push_penalty_want_better_cross
-bip_39_word_underscore_9: rack_tent_duty_push_penalty_want_better_cross_cross
 classification: project
 classification_capital: Project
 classification_first_letter: p

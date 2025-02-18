@@ -1,68 +1,9 @@
-bip_39_word_dash_1: another
-bip_39_word_dash_10: another-member-rabbit-lunch-cheese-exclude-rebuild-supply-pepper-stumble
-bip_39_word_dash_11: another-member-rabbit-lunch-cheese-exclude-rebuild-supply-pepper-stumble-reunion
 bip_39_word_dash_12: another-member-rabbit-lunch-cheese-exclude-rebuild-supply-pepper-stumble-reunion-another
 bip_39_word_dash_2: another-member
 bip_39_word_dash_3: another-member-rabbit
-bip_39_word_dash_4: another-member-rabbit-lunch
-bip_39_word_dash_5: another-member-rabbit-lunch-cheese
-bip_39_word_dash_6: another-member-rabbit-lunch-cheese-exclude
-bip_39_word_dash_7: another-member-rabbit-lunch-cheese-exclude-rebuild
-bip_39_word_dash_8: another-member-rabbit-lunch-cheese-exclude-rebuild-supply
-bip_39_word_dash_9: another-member-rabbit-lunch-cheese-exclude-rebuild-supply-pepper
-bip_39_word_new_br_1: another
-bip_39_word_new_br_10: another<br>member<br>rabbit<br>lunch<br>cheese<br>exclude<br>rebuild<br>supply<br>pepper<br>stumble
-bip_39_word_new_br_11: another<br>member<br>rabbit<br>lunch<br>cheese<br>exclude<br>rebuild<br>supply<br>pepper<br>stumble<br>reunion
 bip_39_word_new_br_12: another<br>member<br>rabbit<br>lunch<br>cheese<br>exclude<br>rebuild<br>supply<br>pepper<br>stumble<br>reunion<br>another
 bip_39_word_new_br_2: another<br>member
 bip_39_word_new_br_3: another<br>member<br>rabbit
-bip_39_word_new_br_4: another<br>member<br>rabbit<br>lunch
-bip_39_word_new_br_5: another<br>member<br>rabbit<br>lunch<br>cheese
-bip_39_word_new_br_6: another<br>member<br>rabbit<br>lunch<br>cheese<br>exclude
-bip_39_word_new_br_7: another<br>member<br>rabbit<br>lunch<br>cheese<br>exclude<br>rebuild
-bip_39_word_new_br_8: another<br>member<br>rabbit<br>lunch<br>cheese<br>exclude<br>rebuild<br>supply
-bip_39_word_new_br_9: another<br>member<br>rabbit<br>lunch<br>cheese<br>exclude<br>rebuild<br>supply<br>pepper
-bip_39_word_new_line_1: another
-bip_39_word_new_line_10: 'another
-
-  member
-
-  rabbit
-
-  lunch
-
-  cheese
-
-  exclude
-
-  rebuild
-
-  supply
-
-  pepper
-
-  stumble'
-bip_39_word_new_line_11: 'another
-
-  member
-
-  rabbit
-
-  lunch
-
-  cheese
-
-  exclude
-
-  rebuild
-
-  supply
-
-  pepper
-
-  stumble
-
-  reunion'
 bip_39_word_new_line_12: 'another
 
   member
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'another
   member
 
   rabbit'
-bip_39_word_new_line_4: 'another
-
-  member
-
-  rabbit
-
-  lunch'
-bip_39_word_new_line_5: 'another
-
-  member
-
-  rabbit
-
-  lunch
-
-  cheese'
-bip_39_word_new_line_6: 'another
-
-  member
-
-  rabbit
-
-  lunch
-
-  cheese
-
-  exclude'
-bip_39_word_new_line_7: 'another
-
-  member
-
-  rabbit
-
-  lunch
-
-  cheese
-
-  exclude
-
-  rebuild'
-bip_39_word_new_line_8: 'another
-
-  member
-
-  rabbit
-
-  lunch
-
-  cheese
-
-  exclude
-
-  rebuild
-
-  supply'
-bip_39_word_new_line_9: 'another
-
-  member
-
-  rabbit
-
-  lunch
-
-  cheese
-
-  exclude
-
-  rebuild
-
-  supply
-
-  pepper'
-bip_39_word_no_space_1: another
-bip_39_word_no_space_10: anothermemberrabbitlunchcheeseexcluderebuildsupplypepperstumble
-bip_39_word_no_space_11: anothermemberrabbitlunchcheeseexcluderebuildsupplypepperstumblereunion
 bip_39_word_no_space_12: anothermemberrabbitlunchcheeseexcluderebuildsupplypepperstumblereunionanother
 bip_39_word_no_space_2: anothermember
 bip_39_word_no_space_3: anothermemberrabbit
-bip_39_word_no_space_4: anothermemberrabbitlunch
-bip_39_word_no_space_5: anothermemberrabbitlunchcheese
-bip_39_word_no_space_6: anothermemberrabbitlunchcheeseexclude
-bip_39_word_no_space_7: anothermemberrabbitlunchcheeseexcluderebuild
-bip_39_word_no_space_8: anothermemberrabbitlunchcheeseexcluderebuildsupply
-bip_39_word_no_space_9: anothermemberrabbitlunchcheeseexcluderebuildsupplypepper
-bip_39_word_space_0:
-- another
-- member
-- rabbit
-- lunch
-- cheese
-- exclude
-- rebuild
-- supply
-- pepper
-- stumble
-- reunion
-- another
-bip_39_word_space_1: another
-bip_39_word_space_10: another member rabbit lunch cheese exclude rebuild supply pepper
-  stumble
-bip_39_word_space_11: another member rabbit lunch cheese exclude rebuild supply pepper
-  stumble reunion
 bip_39_word_space_12: another member rabbit lunch cheese exclude rebuild supply pepper
   stumble reunion another
 bip_39_word_space_2: another member
 bip_39_word_space_3: another member rabbit
-bip_39_word_space_4: another member rabbit lunch
-bip_39_word_space_5: another member rabbit lunch cheese
-bip_39_word_space_6: another member rabbit lunch cheese exclude
-bip_39_word_space_7: another member rabbit lunch cheese exclude rebuild
-bip_39_word_space_8: another member rabbit lunch cheese exclude rebuild supply
-bip_39_word_space_9: another member rabbit lunch cheese exclude rebuild supply pepper
-bip_39_word_underscore_1: another
-bip_39_word_underscore_10: another_member_rabbit_lunch_cheese_exclude_rebuild_supply_pepper_stumble
-bip_39_word_underscore_11: another_member_rabbit_lunch_cheese_exclude_rebuild_supply_pepper_stumble_reunion
 bip_39_word_underscore_12: another_member_rabbit_lunch_cheese_exclude_rebuild_supply_pepper_stumble_reunion_another
 bip_39_word_underscore_2: another_member
 bip_39_word_underscore_3: another_member_rabbit
-bip_39_word_underscore_4: another_member_rabbit_lunch
-bip_39_word_underscore_5: another_member_rabbit_lunch_cheese
-bip_39_word_underscore_6: another_member_rabbit_lunch_cheese_exclude
-bip_39_word_underscore_7: another_member_rabbit_lunch_cheese_exclude_rebuild
-bip_39_word_underscore_8: another_member_rabbit_lunch_cheese_exclude_rebuild_supply
-bip_39_word_underscore_9: another_member_rabbit_lunch_cheese_exclude_rebuild_supply_pepper
 classification: category
 classification_capital: Category
 classification_first_letter: c

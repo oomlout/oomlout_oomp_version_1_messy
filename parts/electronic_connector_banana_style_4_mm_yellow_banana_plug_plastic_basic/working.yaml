@@ -1,68 +1,9 @@
-bip_39_word_dash_1: flight
-bip_39_word_dash_10: flight-hello-stay-filter-little-butter-roast-before-twist-develop
-bip_39_word_dash_11: flight-hello-stay-filter-little-butter-roast-before-twist-develop-menu
 bip_39_word_dash_12: flight-hello-stay-filter-little-butter-roast-before-twist-develop-menu-acquire
 bip_39_word_dash_2: flight-hello
 bip_39_word_dash_3: flight-hello-stay
-bip_39_word_dash_4: flight-hello-stay-filter
-bip_39_word_dash_5: flight-hello-stay-filter-little
-bip_39_word_dash_6: flight-hello-stay-filter-little-butter
-bip_39_word_dash_7: flight-hello-stay-filter-little-butter-roast
-bip_39_word_dash_8: flight-hello-stay-filter-little-butter-roast-before
-bip_39_word_dash_9: flight-hello-stay-filter-little-butter-roast-before-twist
-bip_39_word_new_br_1: flight
-bip_39_word_new_br_10: flight<br>hello<br>stay<br>filter<br>little<br>butter<br>roast<br>before<br>twist<br>develop
-bip_39_word_new_br_11: flight<br>hello<br>stay<br>filter<br>little<br>butter<br>roast<br>before<br>twist<br>develop<br>menu
 bip_39_word_new_br_12: flight<br>hello<br>stay<br>filter<br>little<br>butter<br>roast<br>before<br>twist<br>develop<br>menu<br>acquire
 bip_39_word_new_br_2: flight<br>hello
 bip_39_word_new_br_3: flight<br>hello<br>stay
-bip_39_word_new_br_4: flight<br>hello<br>stay<br>filter
-bip_39_word_new_br_5: flight<br>hello<br>stay<br>filter<br>little
-bip_39_word_new_br_6: flight<br>hello<br>stay<br>filter<br>little<br>butter
-bip_39_word_new_br_7: flight<br>hello<br>stay<br>filter<br>little<br>butter<br>roast
-bip_39_word_new_br_8: flight<br>hello<br>stay<br>filter<br>little<br>butter<br>roast<br>before
-bip_39_word_new_br_9: flight<br>hello<br>stay<br>filter<br>little<br>butter<br>roast<br>before<br>twist
-bip_39_word_new_line_1: flight
-bip_39_word_new_line_10: 'flight
-
-  hello
-
-  stay
-
-  filter
-
-  little
-
-  butter
-
-  roast
-
-  before
-
-  twist
-
-  develop'
-bip_39_word_new_line_11: 'flight
-
-  hello
-
-  stay
-
-  filter
-
-  little
-
-  butter
-
-  roast
-
-  before
-
-  twist
-
-  develop
-
-  menu'
 bip_39_word_new_line_12: 'flight
 
   hello
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'flight
   hello
 
   stay'
-bip_39_word_new_line_4: 'flight
-
-  hello
-
-  stay
-
-  filter'
-bip_39_word_new_line_5: 'flight
-
-  hello
-
-  stay
-
-  filter
-
-  little'
-bip_39_word_new_line_6: 'flight
-
-  hello
-
-  stay
-
-  filter
-
-  little
-
-  butter'
-bip_39_word_new_line_7: 'flight
-
-  hello
-
-  stay
-
-  filter
-
-  little
-
-  butter
-
-  roast'
-bip_39_word_new_line_8: 'flight
-
-  hello
-
-  stay
-
-  filter
-
-  little
-
-  butter
-
-  roast
-
-  before'
-bip_39_word_new_line_9: 'flight
-
-  hello
-
-  stay
-
-  filter
-
-  little
-
-  butter
-
-  roast
-
-  before
-
-  twist'
-bip_39_word_no_space_1: flight
-bip_39_word_no_space_10: flighthellostayfilterlittlebutterroastbeforetwistdevelop
-bip_39_word_no_space_11: flighthellostayfilterlittlebutterroastbeforetwistdevelopmenu
 bip_39_word_no_space_12: flighthellostayfilterlittlebutterroastbeforetwistdevelopmenuacquire
 bip_39_word_no_space_2: flighthello
 bip_39_word_no_space_3: flighthellostay
-bip_39_word_no_space_4: flighthellostayfilter
-bip_39_word_no_space_5: flighthellostayfilterlittle
-bip_39_word_no_space_6: flighthellostayfilterlittlebutter
-bip_39_word_no_space_7: flighthellostayfilterlittlebutterroast
-bip_39_word_no_space_8: flighthellostayfilterlittlebutterroastbefore
-bip_39_word_no_space_9: flighthellostayfilterlittlebutterroastbeforetwist
-bip_39_word_space_0:
-- flight
-- hello
-- stay
-- filter
-- little
-- butter
-- roast
-- before
-- twist
-- develop
-- menu
-- acquire
-bip_39_word_space_1: flight
-bip_39_word_space_10: flight hello stay filter little butter roast before twist develop
-bip_39_word_space_11: flight hello stay filter little butter roast before twist develop
-  menu
 bip_39_word_space_12: flight hello stay filter little butter roast before twist develop
   menu acquire
 bip_39_word_space_2: flight hello
 bip_39_word_space_3: flight hello stay
-bip_39_word_space_4: flight hello stay filter
-bip_39_word_space_5: flight hello stay filter little
-bip_39_word_space_6: flight hello stay filter little butter
-bip_39_word_space_7: flight hello stay filter little butter roast
-bip_39_word_space_8: flight hello stay filter little butter roast before
-bip_39_word_space_9: flight hello stay filter little butter roast before twist
-bip_39_word_underscore_1: flight
-bip_39_word_underscore_10: flight_hello_stay_filter_little_butter_roast_before_twist_develop
-bip_39_word_underscore_11: flight_hello_stay_filter_little_butter_roast_before_twist_develop_menu
 bip_39_word_underscore_12: flight_hello_stay_filter_little_butter_roast_before_twist_develop_menu_acquire
 bip_39_word_underscore_2: flight_hello
 bip_39_word_underscore_3: flight_hello_stay
-bip_39_word_underscore_4: flight_hello_stay_filter
-bip_39_word_underscore_5: flight_hello_stay_filter_little
-bip_39_word_underscore_6: flight_hello_stay_filter_little_butter
-bip_39_word_underscore_7: flight_hello_stay_filter_little_butter_roast
-bip_39_word_underscore_8: flight_hello_stay_filter_little_butter_roast_before
-bip_39_word_underscore_9: flight_hello_stay_filter_little_butter_roast_before_twist
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

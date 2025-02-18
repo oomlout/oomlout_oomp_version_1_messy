@@ -1,68 +1,9 @@
-bip_39_word_dash_1: purchase
-bip_39_word_dash_10: purchase-shove-second-evoke-place-assault-swamp-outer-neck-save
-bip_39_word_dash_11: purchase-shove-second-evoke-place-assault-swamp-outer-neck-save-allow
 bip_39_word_dash_12: purchase-shove-second-evoke-place-assault-swamp-outer-neck-save-allow-atom
 bip_39_word_dash_2: purchase-shove
 bip_39_word_dash_3: purchase-shove-second
-bip_39_word_dash_4: purchase-shove-second-evoke
-bip_39_word_dash_5: purchase-shove-second-evoke-place
-bip_39_word_dash_6: purchase-shove-second-evoke-place-assault
-bip_39_word_dash_7: purchase-shove-second-evoke-place-assault-swamp
-bip_39_word_dash_8: purchase-shove-second-evoke-place-assault-swamp-outer
-bip_39_word_dash_9: purchase-shove-second-evoke-place-assault-swamp-outer-neck
-bip_39_word_new_br_1: purchase
-bip_39_word_new_br_10: purchase<br>shove<br>second<br>evoke<br>place<br>assault<br>swamp<br>outer<br>neck<br>save
-bip_39_word_new_br_11: purchase<br>shove<br>second<br>evoke<br>place<br>assault<br>swamp<br>outer<br>neck<br>save<br>allow
 bip_39_word_new_br_12: purchase<br>shove<br>second<br>evoke<br>place<br>assault<br>swamp<br>outer<br>neck<br>save<br>allow<br>atom
 bip_39_word_new_br_2: purchase<br>shove
 bip_39_word_new_br_3: purchase<br>shove<br>second
-bip_39_word_new_br_4: purchase<br>shove<br>second<br>evoke
-bip_39_word_new_br_5: purchase<br>shove<br>second<br>evoke<br>place
-bip_39_word_new_br_6: purchase<br>shove<br>second<br>evoke<br>place<br>assault
-bip_39_word_new_br_7: purchase<br>shove<br>second<br>evoke<br>place<br>assault<br>swamp
-bip_39_word_new_br_8: purchase<br>shove<br>second<br>evoke<br>place<br>assault<br>swamp<br>outer
-bip_39_word_new_br_9: purchase<br>shove<br>second<br>evoke<br>place<br>assault<br>swamp<br>outer<br>neck
-bip_39_word_new_line_1: purchase
-bip_39_word_new_line_10: 'purchase
-
-  shove
-
-  second
-
-  evoke
-
-  place
-
-  assault
-
-  swamp
-
-  outer
-
-  neck
-
-  save'
-bip_39_word_new_line_11: 'purchase
-
-  shove
-
-  second
-
-  evoke
-
-  place
-
-  assault
-
-  swamp
-
-  outer
-
-  neck
-
-  save
-
-  allow'
 bip_39_word_new_line_12: 'purchase
 
   shove
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'purchase
   shove
 
   second'
-bip_39_word_new_line_4: 'purchase
-
-  shove
-
-  second
-
-  evoke'
-bip_39_word_new_line_5: 'purchase
-
-  shove
-
-  second
-
-  evoke
-
-  place'
-bip_39_word_new_line_6: 'purchase
-
-  shove
-
-  second
-
-  evoke
-
-  place
-
-  assault'
-bip_39_word_new_line_7: 'purchase
-
-  shove
-
-  second
-
-  evoke
-
-  place
-
-  assault
-
-  swamp'
-bip_39_word_new_line_8: 'purchase
-
-  shove
-
-  second
-
-  evoke
-
-  place
-
-  assault
-
-  swamp
-
-  outer'
-bip_39_word_new_line_9: 'purchase
-
-  shove
-
-  second
-
-  evoke
-
-  place
-
-  assault
-
-  swamp
-
-  outer
-
-  neck'
-bip_39_word_no_space_1: purchase
-bip_39_word_no_space_10: purchaseshovesecondevokeplaceassaultswampouternecksave
-bip_39_word_no_space_11: purchaseshovesecondevokeplaceassaultswampouternecksaveallow
 bip_39_word_no_space_12: purchaseshovesecondevokeplaceassaultswampouternecksaveallowatom
 bip_39_word_no_space_2: purchaseshove
 bip_39_word_no_space_3: purchaseshovesecond
-bip_39_word_no_space_4: purchaseshovesecondevoke
-bip_39_word_no_space_5: purchaseshovesecondevokeplace
-bip_39_word_no_space_6: purchaseshovesecondevokeplaceassault
-bip_39_word_no_space_7: purchaseshovesecondevokeplaceassaultswamp
-bip_39_word_no_space_8: purchaseshovesecondevokeplaceassaultswampouter
-bip_39_word_no_space_9: purchaseshovesecondevokeplaceassaultswampouterneck
-bip_39_word_space_0:
-- purchase
-- shove
-- second
-- evoke
-- place
-- assault
-- swamp
-- outer
-- neck
-- save
-- allow
-- atom
-bip_39_word_space_1: purchase
-bip_39_word_space_10: purchase shove second evoke place assault swamp outer neck save
-bip_39_word_space_11: purchase shove second evoke place assault swamp outer neck save
-  allow
 bip_39_word_space_12: purchase shove second evoke place assault swamp outer neck save
   allow atom
 bip_39_word_space_2: purchase shove
 bip_39_word_space_3: purchase shove second
-bip_39_word_space_4: purchase shove second evoke
-bip_39_word_space_5: purchase shove second evoke place
-bip_39_word_space_6: purchase shove second evoke place assault
-bip_39_word_space_7: purchase shove second evoke place assault swamp
-bip_39_word_space_8: purchase shove second evoke place assault swamp outer
-bip_39_word_space_9: purchase shove second evoke place assault swamp outer neck
-bip_39_word_underscore_1: purchase
-bip_39_word_underscore_10: purchase_shove_second_evoke_place_assault_swamp_outer_neck_save
-bip_39_word_underscore_11: purchase_shove_second_evoke_place_assault_swamp_outer_neck_save_allow
 bip_39_word_underscore_12: purchase_shove_second_evoke_place_assault_swamp_outer_neck_save_allow_atom
 bip_39_word_underscore_2: purchase_shove
 bip_39_word_underscore_3: purchase_shove_second
-bip_39_word_underscore_4: purchase_shove_second_evoke
-bip_39_word_underscore_5: purchase_shove_second_evoke_place
-bip_39_word_underscore_6: purchase_shove_second_evoke_place_assault
-bip_39_word_underscore_7: purchase_shove_second_evoke_place_assault_swamp
-bip_39_word_underscore_8: purchase_shove_second_evoke_place_assault_swamp_outer
-bip_39_word_underscore_9: purchase_shove_second_evoke_place_assault_swamp_outer_neck
 classification: category
 classification_capital: Category
 classification_first_letter: c

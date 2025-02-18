@@ -1,68 +1,9 @@
-bip_39_word_dash_1: double
-bip_39_word_dash_10: double-aim-differ-say-mimic-bread-advice-uniform-expand-siege
-bip_39_word_dash_11: double-aim-differ-say-mimic-bread-advice-uniform-expand-siege-syrup
 bip_39_word_dash_12: double-aim-differ-say-mimic-bread-advice-uniform-expand-siege-syrup-already
 bip_39_word_dash_2: double-aim
 bip_39_word_dash_3: double-aim-differ
-bip_39_word_dash_4: double-aim-differ-say
-bip_39_word_dash_5: double-aim-differ-say-mimic
-bip_39_word_dash_6: double-aim-differ-say-mimic-bread
-bip_39_word_dash_7: double-aim-differ-say-mimic-bread-advice
-bip_39_word_dash_8: double-aim-differ-say-mimic-bread-advice-uniform
-bip_39_word_dash_9: double-aim-differ-say-mimic-bread-advice-uniform-expand
-bip_39_word_new_br_1: double
-bip_39_word_new_br_10: double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand<br>siege
-bip_39_word_new_br_11: double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand<br>siege<br>syrup
 bip_39_word_new_br_12: double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand<br>siege<br>syrup<br>already
 bip_39_word_new_br_2: double<br>aim
 bip_39_word_new_br_3: double<br>aim<br>differ
-bip_39_word_new_br_4: double<br>aim<br>differ<br>say
-bip_39_word_new_br_5: double<br>aim<br>differ<br>say<br>mimic
-bip_39_word_new_br_6: double<br>aim<br>differ<br>say<br>mimic<br>bread
-bip_39_word_new_br_7: double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice
-bip_39_word_new_br_8: double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform
-bip_39_word_new_br_9: double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand
-bip_39_word_new_line_1: double
-bip_39_word_new_line_10: 'double
-
-  aim
-
-  differ
-
-  say
-
-  mimic
-
-  bread
-
-  advice
-
-  uniform
-
-  expand
-
-  siege'
-bip_39_word_new_line_11: 'double
-
-  aim
-
-  differ
-
-  say
-
-  mimic
-
-  bread
-
-  advice
-
-  uniform
-
-  expand
-
-  siege
-
-  syrup'
 bip_39_word_new_line_12: 'double
 
   aim
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'double
   aim
 
   differ'
-bip_39_word_new_line_4: 'double
-
-  aim
-
-  differ
-
-  say'
-bip_39_word_new_line_5: 'double
-
-  aim
-
-  differ
-
-  say
-
-  mimic'
-bip_39_word_new_line_6: 'double
-
-  aim
-
-  differ
-
-  say
-
-  mimic
-
-  bread'
-bip_39_word_new_line_7: 'double
-
-  aim
-
-  differ
-
-  say
-
-  mimic
-
-  bread
-
-  advice'
-bip_39_word_new_line_8: 'double
-
-  aim
-
-  differ
-
-  say
-
-  mimic
-
-  bread
-
-  advice
-
-  uniform'
-bip_39_word_new_line_9: 'double
-
-  aim
-
-  differ
-
-  say
-
-  mimic
-
-  bread
-
-  advice
-
-  uniform
-
-  expand'
-bip_39_word_no_space_1: double
-bip_39_word_no_space_10: doubleaimdiffersaymimicbreadadviceuniformexpandsiege
-bip_39_word_no_space_11: doubleaimdiffersaymimicbreadadviceuniformexpandsiegesyrup
 bip_39_word_no_space_12: doubleaimdiffersaymimicbreadadviceuniformexpandsiegesyrupalready
 bip_39_word_no_space_2: doubleaim
 bip_39_word_no_space_3: doubleaimdiffer
-bip_39_word_no_space_4: doubleaimdiffersay
-bip_39_word_no_space_5: doubleaimdiffersaymimic
-bip_39_word_no_space_6: doubleaimdiffersaymimicbread
-bip_39_word_no_space_7: doubleaimdiffersaymimicbreadadvice
-bip_39_word_no_space_8: doubleaimdiffersaymimicbreadadviceuniform
-bip_39_word_no_space_9: doubleaimdiffersaymimicbreadadviceuniformexpand
-bip_39_word_space_0:
-- double
-- aim
-- differ
-- say
-- mimic
-- bread
-- advice
-- uniform
-- expand
-- siege
-- syrup
-- already
-bip_39_word_space_1: double
-bip_39_word_space_10: double aim differ say mimic bread advice uniform expand siege
-bip_39_word_space_11: double aim differ say mimic bread advice uniform expand siege
-  syrup
 bip_39_word_space_12: double aim differ say mimic bread advice uniform expand siege
   syrup already
 bip_39_word_space_2: double aim
 bip_39_word_space_3: double aim differ
-bip_39_word_space_4: double aim differ say
-bip_39_word_space_5: double aim differ say mimic
-bip_39_word_space_6: double aim differ say mimic bread
-bip_39_word_space_7: double aim differ say mimic bread advice
-bip_39_word_space_8: double aim differ say mimic bread advice uniform
-bip_39_word_space_9: double aim differ say mimic bread advice uniform expand
-bip_39_word_underscore_1: double
-bip_39_word_underscore_10: double_aim_differ_say_mimic_bread_advice_uniform_expand_siege
-bip_39_word_underscore_11: double_aim_differ_say_mimic_bread_advice_uniform_expand_siege_syrup
 bip_39_word_underscore_12: double_aim_differ_say_mimic_bread_advice_uniform_expand_siege_syrup_already
 bip_39_word_underscore_2: double_aim
 bip_39_word_underscore_3: double_aim_differ
-bip_39_word_underscore_4: double_aim_differ_say
-bip_39_word_underscore_5: double_aim_differ_say_mimic
-bip_39_word_underscore_6: double_aim_differ_say_mimic_bread
-bip_39_word_underscore_7: double_aim_differ_say_mimic_bread_advice
-bip_39_word_underscore_8: double_aim_differ_say_mimic_bread_advice_uniform
-bip_39_word_underscore_9: double_aim_differ_say_mimic_bread_advice_uniform_expand
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

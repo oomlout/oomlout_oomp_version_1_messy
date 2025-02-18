@@ -1,68 +1,9 @@
-bip_39_word_dash_1: soda
-bip_39_word_dash_10: soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth
-bip_39_word_dash_11: soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth-holiday
 bip_39_word_dash_12: soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth-holiday-audit
 bip_39_word_dash_2: soda-fault
 bip_39_word_dash_3: soda-fault-exist
-bip_39_word_dash_4: soda-fault-exist-zoo
-bip_39_word_dash_5: soda-fault-exist-zoo-bamboo
-bip_39_word_dash_6: soda-fault-exist-zoo-bamboo-whale
-bip_39_word_dash_7: soda-fault-exist-zoo-bamboo-whale-celery
-bip_39_word_dash_8: soda-fault-exist-zoo-bamboo-whale-celery-custom
-bip_39_word_dash_9: soda-fault-exist-zoo-bamboo-whale-celery-custom-roof
-bip_39_word_new_br_1: soda
-bip_39_word_new_br_10: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth
-bip_39_word_new_br_11: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth<br>holiday
 bip_39_word_new_br_12: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth<br>holiday<br>audit
 bip_39_word_new_br_2: soda<br>fault
 bip_39_word_new_br_3: soda<br>fault<br>exist
-bip_39_word_new_br_4: soda<br>fault<br>exist<br>zoo
-bip_39_word_new_br_5: soda<br>fault<br>exist<br>zoo<br>bamboo
-bip_39_word_new_br_6: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale
-bip_39_word_new_br_7: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery
-bip_39_word_new_br_8: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom
-bip_39_word_new_br_9: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof
-bip_39_word_new_line_1: soda
-bip_39_word_new_line_10: 'soda
-
-  fault
-
-  exist
-
-  zoo
-
-  bamboo
-
-  whale
-
-  celery
-
-  custom
-
-  roof
-
-  wealth'
-bip_39_word_new_line_11: 'soda
-
-  fault
-
-  exist
-
-  zoo
-
-  bamboo
-
-  whale
-
-  celery
-
-  custom
-
-  roof
-
-  wealth
-
-  holiday'
 bip_39_word_new_line_12: 'soda
 
   fault
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'soda
   fault
 
   exist'
-bip_39_word_new_line_4: 'soda
-
-  fault
-
-  exist
-
-  zoo'
-bip_39_word_new_line_5: 'soda
-
-  fault
-
-  exist
-
-  zoo
-
-  bamboo'
-bip_39_word_new_line_6: 'soda
-
-  fault
-
-  exist
-
-  zoo
-
-  bamboo
-
-  whale'
-bip_39_word_new_line_7: 'soda
-
-  fault
-
-  exist
-
-  zoo
-
-  bamboo
-
-  whale
-
-  celery'
-bip_39_word_new_line_8: 'soda
-
-  fault
-
-  exist
-
-  zoo
-
-  bamboo
-
-  whale
-
-  celery
-
-  custom'
-bip_39_word_new_line_9: 'soda
-
-  fault
-
-  exist
-
-  zoo
-
-  bamboo
-
-  whale
-
-  celery
-
-  custom
-
-  roof'
-bip_39_word_no_space_1: soda
-bip_39_word_no_space_10: sodafaultexistzoobamboowhalecelerycustomroofwealth
-bip_39_word_no_space_11: sodafaultexistzoobamboowhalecelerycustomroofwealthholiday
 bip_39_word_no_space_12: sodafaultexistzoobamboowhalecelerycustomroofwealthholidayaudit
 bip_39_word_no_space_2: sodafault
 bip_39_word_no_space_3: sodafaultexist
-bip_39_word_no_space_4: sodafaultexistzoo
-bip_39_word_no_space_5: sodafaultexistzoobamboo
-bip_39_word_no_space_6: sodafaultexistzoobamboowhale
-bip_39_word_no_space_7: sodafaultexistzoobamboowhalecelery
-bip_39_word_no_space_8: sodafaultexistzoobamboowhalecelerycustom
-bip_39_word_no_space_9: sodafaultexistzoobamboowhalecelerycustomroof
-bip_39_word_space_0:
-- soda
-- fault
-- exist
-- zoo
-- bamboo
-- whale
-- celery
-- custom
-- roof
-- wealth
-- holiday
-- audit
-bip_39_word_space_1: soda
-bip_39_word_space_10: soda fault exist zoo bamboo whale celery custom roof wealth
-bip_39_word_space_11: soda fault exist zoo bamboo whale celery custom roof wealth
-  holiday
 bip_39_word_space_12: soda fault exist zoo bamboo whale celery custom roof wealth
   holiday audit
 bip_39_word_space_2: soda fault
 bip_39_word_space_3: soda fault exist
-bip_39_word_space_4: soda fault exist zoo
-bip_39_word_space_5: soda fault exist zoo bamboo
-bip_39_word_space_6: soda fault exist zoo bamboo whale
-bip_39_word_space_7: soda fault exist zoo bamboo whale celery
-bip_39_word_space_8: soda fault exist zoo bamboo whale celery custom
-bip_39_word_space_9: soda fault exist zoo bamboo whale celery custom roof
-bip_39_word_underscore_1: soda
-bip_39_word_underscore_10: soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth
-bip_39_word_underscore_11: soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth_holiday
 bip_39_word_underscore_12: soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth_holiday_audit
 bip_39_word_underscore_2: soda_fault
 bip_39_word_underscore_3: soda_fault_exist
-bip_39_word_underscore_4: soda_fault_exist_zoo
-bip_39_word_underscore_5: soda_fault_exist_zoo_bamboo
-bip_39_word_underscore_6: soda_fault_exist_zoo_bamboo_whale
-bip_39_word_underscore_7: soda_fault_exist_zoo_bamboo_whale_celery
-bip_39_word_underscore_8: soda_fault_exist_zoo_bamboo_whale_celery_custom
-bip_39_word_underscore_9: soda_fault_exist_zoo_bamboo_whale_celery_custom_roof
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

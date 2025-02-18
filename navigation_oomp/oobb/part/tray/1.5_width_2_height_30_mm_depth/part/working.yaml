@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grit
-bip_39_word_dash_10: grit-cereal-soap-please-sting-fortune-abuse-fabric-frequent-vintage
-bip_39_word_dash_11: grit-cereal-soap-please-sting-fortune-abuse-fabric-frequent-vintage-test
 bip_39_word_dash_12: grit-cereal-soap-please-sting-fortune-abuse-fabric-frequent-vintage-test-ahead
 bip_39_word_dash_2: grit-cereal
 bip_39_word_dash_3: grit-cereal-soap
-bip_39_word_dash_4: grit-cereal-soap-please
-bip_39_word_dash_5: grit-cereal-soap-please-sting
-bip_39_word_dash_6: grit-cereal-soap-please-sting-fortune
-bip_39_word_dash_7: grit-cereal-soap-please-sting-fortune-abuse
-bip_39_word_dash_8: grit-cereal-soap-please-sting-fortune-abuse-fabric
-bip_39_word_dash_9: grit-cereal-soap-please-sting-fortune-abuse-fabric-frequent
-bip_39_word_new_br_1: grit
-bip_39_word_new_br_10: grit<br>cereal<br>soap<br>please<br>sting<br>fortune<br>abuse<br>fabric<br>frequent<br>vintage
-bip_39_word_new_br_11: grit<br>cereal<br>soap<br>please<br>sting<br>fortune<br>abuse<br>fabric<br>frequent<br>vintage<br>test
 bip_39_word_new_br_12: grit<br>cereal<br>soap<br>please<br>sting<br>fortune<br>abuse<br>fabric<br>frequent<br>vintage<br>test<br>ahead
 bip_39_word_new_br_2: grit<br>cereal
 bip_39_word_new_br_3: grit<br>cereal<br>soap
-bip_39_word_new_br_4: grit<br>cereal<br>soap<br>please
-bip_39_word_new_br_5: grit<br>cereal<br>soap<br>please<br>sting
-bip_39_word_new_br_6: grit<br>cereal<br>soap<br>please<br>sting<br>fortune
-bip_39_word_new_br_7: grit<br>cereal<br>soap<br>please<br>sting<br>fortune<br>abuse
-bip_39_word_new_br_8: grit<br>cereal<br>soap<br>please<br>sting<br>fortune<br>abuse<br>fabric
-bip_39_word_new_br_9: grit<br>cereal<br>soap<br>please<br>sting<br>fortune<br>abuse<br>fabric<br>frequent
-bip_39_word_new_line_1: grit
-bip_39_word_new_line_10: 'grit
-
-  cereal
-
-  soap
-
-  please
-
-  sting
-
-  fortune
-
-  abuse
-
-  fabric
-
-  frequent
-
-  vintage'
-bip_39_word_new_line_11: 'grit
-
-  cereal
-
-  soap
-
-  please
-
-  sting
-
-  fortune
-
-  abuse
-
-  fabric
-
-  frequent
-
-  vintage
-
-  test'
 bip_39_word_new_line_12: 'grit
 
   cereal
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'grit
   cereal
 
   soap'
-bip_39_word_new_line_4: 'grit
-
-  cereal
-
-  soap
-
-  please'
-bip_39_word_new_line_5: 'grit
-
-  cereal
-
-  soap
-
-  please
-
-  sting'
-bip_39_word_new_line_6: 'grit
-
-  cereal
-
-  soap
-
-  please
-
-  sting
-
-  fortune'
-bip_39_word_new_line_7: 'grit
-
-  cereal
-
-  soap
-
-  please
-
-  sting
-
-  fortune
-
-  abuse'
-bip_39_word_new_line_8: 'grit
-
-  cereal
-
-  soap
-
-  please
-
-  sting
-
-  fortune
-
-  abuse
-
-  fabric'
-bip_39_word_new_line_9: 'grit
-
-  cereal
-
-  soap
-
-  please
-
-  sting
-
-  fortune
-
-  abuse
-
-  fabric
-
-  frequent'
-bip_39_word_no_space_1: grit
-bip_39_word_no_space_10: gritcerealsoappleasestingfortuneabusefabricfrequentvintage
-bip_39_word_no_space_11: gritcerealsoappleasestingfortuneabusefabricfrequentvintagetest
 bip_39_word_no_space_12: gritcerealsoappleasestingfortuneabusefabricfrequentvintagetestahead
 bip_39_word_no_space_2: gritcereal
 bip_39_word_no_space_3: gritcerealsoap
-bip_39_word_no_space_4: gritcerealsoapplease
-bip_39_word_no_space_5: gritcerealsoappleasesting
-bip_39_word_no_space_6: gritcerealsoappleasestingfortune
-bip_39_word_no_space_7: gritcerealsoappleasestingfortuneabuse
-bip_39_word_no_space_8: gritcerealsoappleasestingfortuneabusefabric
-bip_39_word_no_space_9: gritcerealsoappleasestingfortuneabusefabricfrequent
-bip_39_word_space_0:
-- grit
-- cereal
-- soap
-- please
-- sting
-- fortune
-- abuse
-- fabric
-- frequent
-- vintage
-- test
-- ahead
-bip_39_word_space_1: grit
-bip_39_word_space_10: grit cereal soap please sting fortune abuse fabric frequent
-  vintage
-bip_39_word_space_11: grit cereal soap please sting fortune abuse fabric frequent
-  vintage test
 bip_39_word_space_12: grit cereal soap please sting fortune abuse fabric frequent
   vintage test ahead
 bip_39_word_space_2: grit cereal
 bip_39_word_space_3: grit cereal soap
-bip_39_word_space_4: grit cereal soap please
-bip_39_word_space_5: grit cereal soap please sting
-bip_39_word_space_6: grit cereal soap please sting fortune
-bip_39_word_space_7: grit cereal soap please sting fortune abuse
-bip_39_word_space_8: grit cereal soap please sting fortune abuse fabric
-bip_39_word_space_9: grit cereal soap please sting fortune abuse fabric frequent
-bip_39_word_underscore_1: grit
-bip_39_word_underscore_10: grit_cereal_soap_please_sting_fortune_abuse_fabric_frequent_vintage
-bip_39_word_underscore_11: grit_cereal_soap_please_sting_fortune_abuse_fabric_frequent_vintage_test
 bip_39_word_underscore_12: grit_cereal_soap_please_sting_fortune_abuse_fabric_frequent_vintage_test_ahead
 bip_39_word_underscore_2: grit_cereal
 bip_39_word_underscore_3: grit_cereal_soap
-bip_39_word_underscore_4: grit_cereal_soap_please
-bip_39_word_underscore_5: grit_cereal_soap_please_sting
-bip_39_word_underscore_6: grit_cereal_soap_please_sting_fortune
-bip_39_word_underscore_7: grit_cereal_soap_please_sting_fortune_abuse
-bip_39_word_underscore_8: grit_cereal_soap_please_sting_fortune_abuse_fabric
-bip_39_word_underscore_9: grit_cereal_soap_please_sting_fortune_abuse_fabric_frequent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

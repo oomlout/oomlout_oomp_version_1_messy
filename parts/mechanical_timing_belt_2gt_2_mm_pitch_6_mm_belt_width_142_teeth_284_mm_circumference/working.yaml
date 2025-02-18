@@ -1,68 +1,9 @@
-bip_39_word_dash_1: choice
-bip_39_word_dash_10: choice-promote-worth-victory-ignore-accuse-power-evolve-season-escape
-bip_39_word_dash_11: choice-promote-worth-victory-ignore-accuse-power-evolve-season-escape-mansion
 bip_39_word_dash_12: choice-promote-worth-victory-ignore-accuse-power-evolve-season-escape-mansion-affair
 bip_39_word_dash_2: choice-promote
 bip_39_word_dash_3: choice-promote-worth
-bip_39_word_dash_4: choice-promote-worth-victory
-bip_39_word_dash_5: choice-promote-worth-victory-ignore
-bip_39_word_dash_6: choice-promote-worth-victory-ignore-accuse
-bip_39_word_dash_7: choice-promote-worth-victory-ignore-accuse-power
-bip_39_word_dash_8: choice-promote-worth-victory-ignore-accuse-power-evolve
-bip_39_word_dash_9: choice-promote-worth-victory-ignore-accuse-power-evolve-season
-bip_39_word_new_br_1: choice
-bip_39_word_new_br_10: choice<br>promote<br>worth<br>victory<br>ignore<br>accuse<br>power<br>evolve<br>season<br>escape
-bip_39_word_new_br_11: choice<br>promote<br>worth<br>victory<br>ignore<br>accuse<br>power<br>evolve<br>season<br>escape<br>mansion
 bip_39_word_new_br_12: choice<br>promote<br>worth<br>victory<br>ignore<br>accuse<br>power<br>evolve<br>season<br>escape<br>mansion<br>affair
 bip_39_word_new_br_2: choice<br>promote
 bip_39_word_new_br_3: choice<br>promote<br>worth
-bip_39_word_new_br_4: choice<br>promote<br>worth<br>victory
-bip_39_word_new_br_5: choice<br>promote<br>worth<br>victory<br>ignore
-bip_39_word_new_br_6: choice<br>promote<br>worth<br>victory<br>ignore<br>accuse
-bip_39_word_new_br_7: choice<br>promote<br>worth<br>victory<br>ignore<br>accuse<br>power
-bip_39_word_new_br_8: choice<br>promote<br>worth<br>victory<br>ignore<br>accuse<br>power<br>evolve
-bip_39_word_new_br_9: choice<br>promote<br>worth<br>victory<br>ignore<br>accuse<br>power<br>evolve<br>season
-bip_39_word_new_line_1: choice
-bip_39_word_new_line_10: 'choice
-
-  promote
-
-  worth
-
-  victory
-
-  ignore
-
-  accuse
-
-  power
-
-  evolve
-
-  season
-
-  escape'
-bip_39_word_new_line_11: 'choice
-
-  promote
-
-  worth
-
-  victory
-
-  ignore
-
-  accuse
-
-  power
-
-  evolve
-
-  season
-
-  escape
-
-  mansion'
 bip_39_word_new_line_12: 'choice
 
   promote
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'choice
   promote
 
   worth'
-bip_39_word_new_line_4: 'choice
-
-  promote
-
-  worth
-
-  victory'
-bip_39_word_new_line_5: 'choice
-
-  promote
-
-  worth
-
-  victory
-
-  ignore'
-bip_39_word_new_line_6: 'choice
-
-  promote
-
-  worth
-
-  victory
-
-  ignore
-
-  accuse'
-bip_39_word_new_line_7: 'choice
-
-  promote
-
-  worth
-
-  victory
-
-  ignore
-
-  accuse
-
-  power'
-bip_39_word_new_line_8: 'choice
-
-  promote
-
-  worth
-
-  victory
-
-  ignore
-
-  accuse
-
-  power
-
-  evolve'
-bip_39_word_new_line_9: 'choice
-
-  promote
-
-  worth
-
-  victory
-
-  ignore
-
-  accuse
-
-  power
-
-  evolve
-
-  season'
-bip_39_word_no_space_1: choice
-bip_39_word_no_space_10: choicepromoteworthvictoryignoreaccusepowerevolveseasonescape
-bip_39_word_no_space_11: choicepromoteworthvictoryignoreaccusepowerevolveseasonescapemansion
 bip_39_word_no_space_12: choicepromoteworthvictoryignoreaccusepowerevolveseasonescapemansionaffair
 bip_39_word_no_space_2: choicepromote
 bip_39_word_no_space_3: choicepromoteworth
-bip_39_word_no_space_4: choicepromoteworthvictory
-bip_39_word_no_space_5: choicepromoteworthvictoryignore
-bip_39_word_no_space_6: choicepromoteworthvictoryignoreaccuse
-bip_39_word_no_space_7: choicepromoteworthvictoryignoreaccusepower
-bip_39_word_no_space_8: choicepromoteworthvictoryignoreaccusepowerevolve
-bip_39_word_no_space_9: choicepromoteworthvictoryignoreaccusepowerevolveseason
-bip_39_word_space_0:
-- choice
-- promote
-- worth
-- victory
-- ignore
-- accuse
-- power
-- evolve
-- season
-- escape
-- mansion
-- affair
-bip_39_word_space_1: choice
-bip_39_word_space_10: choice promote worth victory ignore accuse power evolve season
-  escape
-bip_39_word_space_11: choice promote worth victory ignore accuse power evolve season
-  escape mansion
 bip_39_word_space_12: choice promote worth victory ignore accuse power evolve season
   escape mansion affair
 bip_39_word_space_2: choice promote
 bip_39_word_space_3: choice promote worth
-bip_39_word_space_4: choice promote worth victory
-bip_39_word_space_5: choice promote worth victory ignore
-bip_39_word_space_6: choice promote worth victory ignore accuse
-bip_39_word_space_7: choice promote worth victory ignore accuse power
-bip_39_word_space_8: choice promote worth victory ignore accuse power evolve
-bip_39_word_space_9: choice promote worth victory ignore accuse power evolve season
-bip_39_word_underscore_1: choice
-bip_39_word_underscore_10: choice_promote_worth_victory_ignore_accuse_power_evolve_season_escape
-bip_39_word_underscore_11: choice_promote_worth_victory_ignore_accuse_power_evolve_season_escape_mansion
 bip_39_word_underscore_12: choice_promote_worth_victory_ignore_accuse_power_evolve_season_escape_mansion_affair
 bip_39_word_underscore_2: choice_promote
 bip_39_word_underscore_3: choice_promote_worth
-bip_39_word_underscore_4: choice_promote_worth_victory
-bip_39_word_underscore_5: choice_promote_worth_victory_ignore
-bip_39_word_underscore_6: choice_promote_worth_victory_ignore_accuse
-bip_39_word_underscore_7: choice_promote_worth_victory_ignore_accuse_power
-bip_39_word_underscore_8: choice_promote_worth_victory_ignore_accuse_power_evolve
-bip_39_word_underscore_9: choice_promote_worth_victory_ignore_accuse_power_evolve_season
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

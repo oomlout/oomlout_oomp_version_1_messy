@@ -1,68 +1,9 @@
-bip_39_word_dash_1: organ
-bip_39_word_dash_10: organ-sand-dry-loan-lazy-honey-advice-vote-army-rally
-bip_39_word_dash_11: organ-sand-dry-loan-lazy-honey-advice-vote-army-rally-opinion
 bip_39_word_dash_12: organ-sand-dry-loan-lazy-honey-advice-vote-army-rally-opinion-alley
 bip_39_word_dash_2: organ-sand
 bip_39_word_dash_3: organ-sand-dry
-bip_39_word_dash_4: organ-sand-dry-loan
-bip_39_word_dash_5: organ-sand-dry-loan-lazy
-bip_39_word_dash_6: organ-sand-dry-loan-lazy-honey
-bip_39_word_dash_7: organ-sand-dry-loan-lazy-honey-advice
-bip_39_word_dash_8: organ-sand-dry-loan-lazy-honey-advice-vote
-bip_39_word_dash_9: organ-sand-dry-loan-lazy-honey-advice-vote-army
-bip_39_word_new_br_1: organ
-bip_39_word_new_br_10: organ<br>sand<br>dry<br>loan<br>lazy<br>honey<br>advice<br>vote<br>army<br>rally
-bip_39_word_new_br_11: organ<br>sand<br>dry<br>loan<br>lazy<br>honey<br>advice<br>vote<br>army<br>rally<br>opinion
 bip_39_word_new_br_12: organ<br>sand<br>dry<br>loan<br>lazy<br>honey<br>advice<br>vote<br>army<br>rally<br>opinion<br>alley
 bip_39_word_new_br_2: organ<br>sand
 bip_39_word_new_br_3: organ<br>sand<br>dry
-bip_39_word_new_br_4: organ<br>sand<br>dry<br>loan
-bip_39_word_new_br_5: organ<br>sand<br>dry<br>loan<br>lazy
-bip_39_word_new_br_6: organ<br>sand<br>dry<br>loan<br>lazy<br>honey
-bip_39_word_new_br_7: organ<br>sand<br>dry<br>loan<br>lazy<br>honey<br>advice
-bip_39_word_new_br_8: organ<br>sand<br>dry<br>loan<br>lazy<br>honey<br>advice<br>vote
-bip_39_word_new_br_9: organ<br>sand<br>dry<br>loan<br>lazy<br>honey<br>advice<br>vote<br>army
-bip_39_word_new_line_1: organ
-bip_39_word_new_line_10: 'organ
-
-  sand
-
-  dry
-
-  loan
-
-  lazy
-
-  honey
-
-  advice
-
-  vote
-
-  army
-
-  rally'
-bip_39_word_new_line_11: 'organ
-
-  sand
-
-  dry
-
-  loan
-
-  lazy
-
-  honey
-
-  advice
-
-  vote
-
-  army
-
-  rally
-
-  opinion'
 bip_39_word_new_line_12: 'organ
 
   sand
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'organ
   sand
 
   dry'
-bip_39_word_new_line_4: 'organ
-
-  sand
-
-  dry
-
-  loan'
-bip_39_word_new_line_5: 'organ
-
-  sand
-
-  dry
-
-  loan
-
-  lazy'
-bip_39_word_new_line_6: 'organ
-
-  sand
-
-  dry
-
-  loan
-
-  lazy
-
-  honey'
-bip_39_word_new_line_7: 'organ
-
-  sand
-
-  dry
-
-  loan
-
-  lazy
-
-  honey
-
-  advice'
-bip_39_word_new_line_8: 'organ
-
-  sand
-
-  dry
-
-  loan
-
-  lazy
-
-  honey
-
-  advice
-
-  vote'
-bip_39_word_new_line_9: 'organ
-
-  sand
-
-  dry
-
-  loan
-
-  lazy
-
-  honey
-
-  advice
-
-  vote
-
-  army'
-bip_39_word_no_space_1: organ
-bip_39_word_no_space_10: organsanddryloanlazyhoneyadvicevotearmyrally
-bip_39_word_no_space_11: organsanddryloanlazyhoneyadvicevotearmyrallyopinion
 bip_39_word_no_space_12: organsanddryloanlazyhoneyadvicevotearmyrallyopinionalley
 bip_39_word_no_space_2: organsand
 bip_39_word_no_space_3: organsanddry
-bip_39_word_no_space_4: organsanddryloan
-bip_39_word_no_space_5: organsanddryloanlazy
-bip_39_word_no_space_6: organsanddryloanlazyhoney
-bip_39_word_no_space_7: organsanddryloanlazyhoneyadvice
-bip_39_word_no_space_8: organsanddryloanlazyhoneyadvicevote
-bip_39_word_no_space_9: organsanddryloanlazyhoneyadvicevotearmy
-bip_39_word_space_0:
-- organ
-- sand
-- dry
-- loan
-- lazy
-- honey
-- advice
-- vote
-- army
-- rally
-- opinion
-- alley
-bip_39_word_space_1: organ
-bip_39_word_space_10: organ sand dry loan lazy honey advice vote army rally
-bip_39_word_space_11: organ sand dry loan lazy honey advice vote army rally opinion
 bip_39_word_space_12: organ sand dry loan lazy honey advice vote army rally opinion
   alley
 bip_39_word_space_2: organ sand
 bip_39_word_space_3: organ sand dry
-bip_39_word_space_4: organ sand dry loan
-bip_39_word_space_5: organ sand dry loan lazy
-bip_39_word_space_6: organ sand dry loan lazy honey
-bip_39_word_space_7: organ sand dry loan lazy honey advice
-bip_39_word_space_8: organ sand dry loan lazy honey advice vote
-bip_39_word_space_9: organ sand dry loan lazy honey advice vote army
-bip_39_word_underscore_1: organ
-bip_39_word_underscore_10: organ_sand_dry_loan_lazy_honey_advice_vote_army_rally
-bip_39_word_underscore_11: organ_sand_dry_loan_lazy_honey_advice_vote_army_rally_opinion
 bip_39_word_underscore_12: organ_sand_dry_loan_lazy_honey_advice_vote_army_rally_opinion_alley
 bip_39_word_underscore_2: organ_sand
 bip_39_word_underscore_3: organ_sand_dry
-bip_39_word_underscore_4: organ_sand_dry_loan
-bip_39_word_underscore_5: organ_sand_dry_loan_lazy
-bip_39_word_underscore_6: organ_sand_dry_loan_lazy_honey
-bip_39_word_underscore_7: organ_sand_dry_loan_lazy_honey_advice
-bip_39_word_underscore_8: organ_sand_dry_loan_lazy_honey_advice_vote
-bip_39_word_underscore_9: organ_sand_dry_loan_lazy_honey_advice_vote_army
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

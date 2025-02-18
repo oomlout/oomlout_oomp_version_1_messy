@@ -1,68 +1,9 @@
-bip_39_word_dash_1: receive
-bip_39_word_dash_10: receive-dentist-tackle-pottery-quit-flight-bid-divert-mad-morning
-bip_39_word_dash_11: receive-dentist-tackle-pottery-quit-flight-bid-divert-mad-morning-what
 bip_39_word_dash_12: receive-dentist-tackle-pottery-quit-flight-bid-divert-mad-morning-what-alone
 bip_39_word_dash_2: receive-dentist
 bip_39_word_dash_3: receive-dentist-tackle
-bip_39_word_dash_4: receive-dentist-tackle-pottery
-bip_39_word_dash_5: receive-dentist-tackle-pottery-quit
-bip_39_word_dash_6: receive-dentist-tackle-pottery-quit-flight
-bip_39_word_dash_7: receive-dentist-tackle-pottery-quit-flight-bid
-bip_39_word_dash_8: receive-dentist-tackle-pottery-quit-flight-bid-divert
-bip_39_word_dash_9: receive-dentist-tackle-pottery-quit-flight-bid-divert-mad
-bip_39_word_new_br_1: receive
-bip_39_word_new_br_10: receive<br>dentist<br>tackle<br>pottery<br>quit<br>flight<br>bid<br>divert<br>mad<br>morning
-bip_39_word_new_br_11: receive<br>dentist<br>tackle<br>pottery<br>quit<br>flight<br>bid<br>divert<br>mad<br>morning<br>what
 bip_39_word_new_br_12: receive<br>dentist<br>tackle<br>pottery<br>quit<br>flight<br>bid<br>divert<br>mad<br>morning<br>what<br>alone
 bip_39_word_new_br_2: receive<br>dentist
 bip_39_word_new_br_3: receive<br>dentist<br>tackle
-bip_39_word_new_br_4: receive<br>dentist<br>tackle<br>pottery
-bip_39_word_new_br_5: receive<br>dentist<br>tackle<br>pottery<br>quit
-bip_39_word_new_br_6: receive<br>dentist<br>tackle<br>pottery<br>quit<br>flight
-bip_39_word_new_br_7: receive<br>dentist<br>tackle<br>pottery<br>quit<br>flight<br>bid
-bip_39_word_new_br_8: receive<br>dentist<br>tackle<br>pottery<br>quit<br>flight<br>bid<br>divert
-bip_39_word_new_br_9: receive<br>dentist<br>tackle<br>pottery<br>quit<br>flight<br>bid<br>divert<br>mad
-bip_39_word_new_line_1: receive
-bip_39_word_new_line_10: 'receive
-
-  dentist
-
-  tackle
-
-  pottery
-
-  quit
-
-  flight
-
-  bid
-
-  divert
-
-  mad
-
-  morning'
-bip_39_word_new_line_11: 'receive
-
-  dentist
-
-  tackle
-
-  pottery
-
-  quit
-
-  flight
-
-  bid
-
-  divert
-
-  mad
-
-  morning
-
-  what'
 bip_39_word_new_line_12: 'receive
 
   dentist
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'receive
   dentist
 
   tackle'
-bip_39_word_new_line_4: 'receive
-
-  dentist
-
-  tackle
-
-  pottery'
-bip_39_word_new_line_5: 'receive
-
-  dentist
-
-  tackle
-
-  pottery
-
-  quit'
-bip_39_word_new_line_6: 'receive
-
-  dentist
-
-  tackle
-
-  pottery
-
-  quit
-
-  flight'
-bip_39_word_new_line_7: 'receive
-
-  dentist
-
-  tackle
-
-  pottery
-
-  quit
-
-  flight
-
-  bid'
-bip_39_word_new_line_8: 'receive
-
-  dentist
-
-  tackle
-
-  pottery
-
-  quit
-
-  flight
-
-  bid
-
-  divert'
-bip_39_word_new_line_9: 'receive
-
-  dentist
-
-  tackle
-
-  pottery
-
-  quit
-
-  flight
-
-  bid
-
-  divert
-
-  mad'
-bip_39_word_no_space_1: receive
-bip_39_word_no_space_10: receivedentisttacklepotteryquitflightbiddivertmadmorning
-bip_39_word_no_space_11: receivedentisttacklepotteryquitflightbiddivertmadmorningwhat
 bip_39_word_no_space_12: receivedentisttacklepotteryquitflightbiddivertmadmorningwhatalone
 bip_39_word_no_space_2: receivedentist
 bip_39_word_no_space_3: receivedentisttackle
-bip_39_word_no_space_4: receivedentisttacklepottery
-bip_39_word_no_space_5: receivedentisttacklepotteryquit
-bip_39_word_no_space_6: receivedentisttacklepotteryquitflight
-bip_39_word_no_space_7: receivedentisttacklepotteryquitflightbid
-bip_39_word_no_space_8: receivedentisttacklepotteryquitflightbiddivert
-bip_39_word_no_space_9: receivedentisttacklepotteryquitflightbiddivertmad
-bip_39_word_space_0:
-- receive
-- dentist
-- tackle
-- pottery
-- quit
-- flight
-- bid
-- divert
-- mad
-- morning
-- what
-- alone
-bip_39_word_space_1: receive
-bip_39_word_space_10: receive dentist tackle pottery quit flight bid divert mad morning
-bip_39_word_space_11: receive dentist tackle pottery quit flight bid divert mad morning
-  what
 bip_39_word_space_12: receive dentist tackle pottery quit flight bid divert mad morning
   what alone
 bip_39_word_space_2: receive dentist
 bip_39_word_space_3: receive dentist tackle
-bip_39_word_space_4: receive dentist tackle pottery
-bip_39_word_space_5: receive dentist tackle pottery quit
-bip_39_word_space_6: receive dentist tackle pottery quit flight
-bip_39_word_space_7: receive dentist tackle pottery quit flight bid
-bip_39_word_space_8: receive dentist tackle pottery quit flight bid divert
-bip_39_word_space_9: receive dentist tackle pottery quit flight bid divert mad
-bip_39_word_underscore_1: receive
-bip_39_word_underscore_10: receive_dentist_tackle_pottery_quit_flight_bid_divert_mad_morning
-bip_39_word_underscore_11: receive_dentist_tackle_pottery_quit_flight_bid_divert_mad_morning_what
 bip_39_word_underscore_12: receive_dentist_tackle_pottery_quit_flight_bid_divert_mad_morning_what_alone
 bip_39_word_underscore_2: receive_dentist
 bip_39_word_underscore_3: receive_dentist_tackle
-bip_39_word_underscore_4: receive_dentist_tackle_pottery
-bip_39_word_underscore_5: receive_dentist_tackle_pottery_quit
-bip_39_word_underscore_6: receive_dentist_tackle_pottery_quit_flight
-bip_39_word_underscore_7: receive_dentist_tackle_pottery_quit_flight_bid
-bip_39_word_underscore_8: receive_dentist_tackle_pottery_quit_flight_bid_divert
-bip_39_word_underscore_9: receive_dentist_tackle_pottery_quit_flight_bid_divert_mad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

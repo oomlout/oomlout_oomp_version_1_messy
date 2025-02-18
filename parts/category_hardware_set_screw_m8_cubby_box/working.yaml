@@ -1,68 +1,9 @@
-bip_39_word_dash_1: anchor
-bip_39_word_dash_10: anchor-betray-crouch-stove-elegant-forest-slot-muscle-address-icon
-bip_39_word_dash_11: anchor-betray-crouch-stove-elegant-forest-slot-muscle-address-icon-upset
 bip_39_word_dash_12: anchor-betray-crouch-stove-elegant-forest-slot-muscle-address-icon-upset-animal
 bip_39_word_dash_2: anchor-betray
 bip_39_word_dash_3: anchor-betray-crouch
-bip_39_word_dash_4: anchor-betray-crouch-stove
-bip_39_word_dash_5: anchor-betray-crouch-stove-elegant
-bip_39_word_dash_6: anchor-betray-crouch-stove-elegant-forest
-bip_39_word_dash_7: anchor-betray-crouch-stove-elegant-forest-slot
-bip_39_word_dash_8: anchor-betray-crouch-stove-elegant-forest-slot-muscle
-bip_39_word_dash_9: anchor-betray-crouch-stove-elegant-forest-slot-muscle-address
-bip_39_word_new_br_1: anchor
-bip_39_word_new_br_10: anchor<br>betray<br>crouch<br>stove<br>elegant<br>forest<br>slot<br>muscle<br>address<br>icon
-bip_39_word_new_br_11: anchor<br>betray<br>crouch<br>stove<br>elegant<br>forest<br>slot<br>muscle<br>address<br>icon<br>upset
 bip_39_word_new_br_12: anchor<br>betray<br>crouch<br>stove<br>elegant<br>forest<br>slot<br>muscle<br>address<br>icon<br>upset<br>animal
 bip_39_word_new_br_2: anchor<br>betray
 bip_39_word_new_br_3: anchor<br>betray<br>crouch
-bip_39_word_new_br_4: anchor<br>betray<br>crouch<br>stove
-bip_39_word_new_br_5: anchor<br>betray<br>crouch<br>stove<br>elegant
-bip_39_word_new_br_6: anchor<br>betray<br>crouch<br>stove<br>elegant<br>forest
-bip_39_word_new_br_7: anchor<br>betray<br>crouch<br>stove<br>elegant<br>forest<br>slot
-bip_39_word_new_br_8: anchor<br>betray<br>crouch<br>stove<br>elegant<br>forest<br>slot<br>muscle
-bip_39_word_new_br_9: anchor<br>betray<br>crouch<br>stove<br>elegant<br>forest<br>slot<br>muscle<br>address
-bip_39_word_new_line_1: anchor
-bip_39_word_new_line_10: 'anchor
-
-  betray
-
-  crouch
-
-  stove
-
-  elegant
-
-  forest
-
-  slot
-
-  muscle
-
-  address
-
-  icon'
-bip_39_word_new_line_11: 'anchor
-
-  betray
-
-  crouch
-
-  stove
-
-  elegant
-
-  forest
-
-  slot
-
-  muscle
-
-  address
-
-  icon
-
-  upset'
 bip_39_word_new_line_12: 'anchor
 
   betray
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'anchor
   betray
 
   crouch'
-bip_39_word_new_line_4: 'anchor
-
-  betray
-
-  crouch
-
-  stove'
-bip_39_word_new_line_5: 'anchor
-
-  betray
-
-  crouch
-
-  stove
-
-  elegant'
-bip_39_word_new_line_6: 'anchor
-
-  betray
-
-  crouch
-
-  stove
-
-  elegant
-
-  forest'
-bip_39_word_new_line_7: 'anchor
-
-  betray
-
-  crouch
-
-  stove
-
-  elegant
-
-  forest
-
-  slot'
-bip_39_word_new_line_8: 'anchor
-
-  betray
-
-  crouch
-
-  stove
-
-  elegant
-
-  forest
-
-  slot
-
-  muscle'
-bip_39_word_new_line_9: 'anchor
-
-  betray
-
-  crouch
-
-  stove
-
-  elegant
-
-  forest
-
-  slot
-
-  muscle
-
-  address'
-bip_39_word_no_space_1: anchor
-bip_39_word_no_space_10: anchorbetraycrouchstoveelegantforestslotmuscleaddressicon
-bip_39_word_no_space_11: anchorbetraycrouchstoveelegantforestslotmuscleaddressiconupset
 bip_39_word_no_space_12: anchorbetraycrouchstoveelegantforestslotmuscleaddressiconupsetanimal
 bip_39_word_no_space_2: anchorbetray
 bip_39_word_no_space_3: anchorbetraycrouch
-bip_39_word_no_space_4: anchorbetraycrouchstove
-bip_39_word_no_space_5: anchorbetraycrouchstoveelegant
-bip_39_word_no_space_6: anchorbetraycrouchstoveelegantforest
-bip_39_word_no_space_7: anchorbetraycrouchstoveelegantforestslot
-bip_39_word_no_space_8: anchorbetraycrouchstoveelegantforestslotmuscle
-bip_39_word_no_space_9: anchorbetraycrouchstoveelegantforestslotmuscleaddress
-bip_39_word_space_0:
-- anchor
-- betray
-- crouch
-- stove
-- elegant
-- forest
-- slot
-- muscle
-- address
-- icon
-- upset
-- animal
-bip_39_word_space_1: anchor
-bip_39_word_space_10: anchor betray crouch stove elegant forest slot muscle address
-  icon
-bip_39_word_space_11: anchor betray crouch stove elegant forest slot muscle address
-  icon upset
 bip_39_word_space_12: anchor betray crouch stove elegant forest slot muscle address
   icon upset animal
 bip_39_word_space_2: anchor betray
 bip_39_word_space_3: anchor betray crouch
-bip_39_word_space_4: anchor betray crouch stove
-bip_39_word_space_5: anchor betray crouch stove elegant
-bip_39_word_space_6: anchor betray crouch stove elegant forest
-bip_39_word_space_7: anchor betray crouch stove elegant forest slot
-bip_39_word_space_8: anchor betray crouch stove elegant forest slot muscle
-bip_39_word_space_9: anchor betray crouch stove elegant forest slot muscle address
-bip_39_word_underscore_1: anchor
-bip_39_word_underscore_10: anchor_betray_crouch_stove_elegant_forest_slot_muscle_address_icon
-bip_39_word_underscore_11: anchor_betray_crouch_stove_elegant_forest_slot_muscle_address_icon_upset
 bip_39_word_underscore_12: anchor_betray_crouch_stove_elegant_forest_slot_muscle_address_icon_upset_animal
 bip_39_word_underscore_2: anchor_betray
 bip_39_word_underscore_3: anchor_betray_crouch
-bip_39_word_underscore_4: anchor_betray_crouch_stove
-bip_39_word_underscore_5: anchor_betray_crouch_stove_elegant
-bip_39_word_underscore_6: anchor_betray_crouch_stove_elegant_forest
-bip_39_word_underscore_7: anchor_betray_crouch_stove_elegant_forest_slot
-bip_39_word_underscore_8: anchor_betray_crouch_stove_elegant_forest_slot_muscle
-bip_39_word_underscore_9: anchor_betray_crouch_stove_elegant_forest_slot_muscle_address
 classification: category
 classification_capital: Category
 classification_first_letter: c

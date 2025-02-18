@@ -1,68 +1,9 @@
-bip_39_word_dash_1: violin
-bip_39_word_dash_10: violin-penalty-call-end-disagree-kiss-ordinary-release-fly-junk
-bip_39_word_dash_11: violin-penalty-call-end-disagree-kiss-ordinary-release-fly-junk-sign
 bip_39_word_dash_12: violin-penalty-call-end-disagree-kiss-ordinary-release-fly-junk-sign-acquire
 bip_39_word_dash_2: violin-penalty
 bip_39_word_dash_3: violin-penalty-call
-bip_39_word_dash_4: violin-penalty-call-end
-bip_39_word_dash_5: violin-penalty-call-end-disagree
-bip_39_word_dash_6: violin-penalty-call-end-disagree-kiss
-bip_39_word_dash_7: violin-penalty-call-end-disagree-kiss-ordinary
-bip_39_word_dash_8: violin-penalty-call-end-disagree-kiss-ordinary-release
-bip_39_word_dash_9: violin-penalty-call-end-disagree-kiss-ordinary-release-fly
-bip_39_word_new_br_1: violin
-bip_39_word_new_br_10: violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly<br>junk
-bip_39_word_new_br_11: violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly<br>junk<br>sign
 bip_39_word_new_br_12: violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly<br>junk<br>sign<br>acquire
 bip_39_word_new_br_2: violin<br>penalty
 bip_39_word_new_br_3: violin<br>penalty<br>call
-bip_39_word_new_br_4: violin<br>penalty<br>call<br>end
-bip_39_word_new_br_5: violin<br>penalty<br>call<br>end<br>disagree
-bip_39_word_new_br_6: violin<br>penalty<br>call<br>end<br>disagree<br>kiss
-bip_39_word_new_br_7: violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary
-bip_39_word_new_br_8: violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release
-bip_39_word_new_br_9: violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly
-bip_39_word_new_line_1: violin
-bip_39_word_new_line_10: 'violin
-
-  penalty
-
-  call
-
-  end
-
-  disagree
-
-  kiss
-
-  ordinary
-
-  release
-
-  fly
-
-  junk'
-bip_39_word_new_line_11: 'violin
-
-  penalty
-
-  call
-
-  end
-
-  disagree
-
-  kiss
-
-  ordinary
-
-  release
-
-  fly
-
-  junk
-
-  sign'
 bip_39_word_new_line_12: 'violin
 
   penalty
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'violin
   penalty
 
   call'
-bip_39_word_new_line_4: 'violin
-
-  penalty
-
-  call
-
-  end'
-bip_39_word_new_line_5: 'violin
-
-  penalty
-
-  call
-
-  end
-
-  disagree'
-bip_39_word_new_line_6: 'violin
-
-  penalty
-
-  call
-
-  end
-
-  disagree
-
-  kiss'
-bip_39_word_new_line_7: 'violin
-
-  penalty
-
-  call
-
-  end
-
-  disagree
-
-  kiss
-
-  ordinary'
-bip_39_word_new_line_8: 'violin
-
-  penalty
-
-  call
-
-  end
-
-  disagree
-
-  kiss
-
-  ordinary
-
-  release'
-bip_39_word_new_line_9: 'violin
-
-  penalty
-
-  call
-
-  end
-
-  disagree
-
-  kiss
-
-  ordinary
-
-  release
-
-  fly'
-bip_39_word_no_space_1: violin
-bip_39_word_no_space_10: violinpenaltycallenddisagreekissordinaryreleaseflyjunk
-bip_39_word_no_space_11: violinpenaltycallenddisagreekissordinaryreleaseflyjunksign
 bip_39_word_no_space_12: violinpenaltycallenddisagreekissordinaryreleaseflyjunksignacquire
 bip_39_word_no_space_2: violinpenalty
 bip_39_word_no_space_3: violinpenaltycall
-bip_39_word_no_space_4: violinpenaltycallend
-bip_39_word_no_space_5: violinpenaltycallenddisagree
-bip_39_word_no_space_6: violinpenaltycallenddisagreekiss
-bip_39_word_no_space_7: violinpenaltycallenddisagreekissordinary
-bip_39_word_no_space_8: violinpenaltycallenddisagreekissordinaryrelease
-bip_39_word_no_space_9: violinpenaltycallenddisagreekissordinaryreleasefly
-bip_39_word_space_0:
-- violin
-- penalty
-- call
-- end
-- disagree
-- kiss
-- ordinary
-- release
-- fly
-- junk
-- sign
-- acquire
-bip_39_word_space_1: violin
-bip_39_word_space_10: violin penalty call end disagree kiss ordinary release fly junk
-bip_39_word_space_11: violin penalty call end disagree kiss ordinary release fly junk
-  sign
 bip_39_word_space_12: violin penalty call end disagree kiss ordinary release fly junk
   sign acquire
 bip_39_word_space_2: violin penalty
 bip_39_word_space_3: violin penalty call
-bip_39_word_space_4: violin penalty call end
-bip_39_word_space_5: violin penalty call end disagree
-bip_39_word_space_6: violin penalty call end disagree kiss
-bip_39_word_space_7: violin penalty call end disagree kiss ordinary
-bip_39_word_space_8: violin penalty call end disagree kiss ordinary release
-bip_39_word_space_9: violin penalty call end disagree kiss ordinary release fly
-bip_39_word_underscore_1: violin
-bip_39_word_underscore_10: violin_penalty_call_end_disagree_kiss_ordinary_release_fly_junk
-bip_39_word_underscore_11: violin_penalty_call_end_disagree_kiss_ordinary_release_fly_junk_sign
 bip_39_word_underscore_12: violin_penalty_call_end_disagree_kiss_ordinary_release_fly_junk_sign_acquire
 bip_39_word_underscore_2: violin_penalty
 bip_39_word_underscore_3: violin_penalty_call
-bip_39_word_underscore_4: violin_penalty_call_end
-bip_39_word_underscore_5: violin_penalty_call_end_disagree
-bip_39_word_underscore_6: violin_penalty_call_end_disagree_kiss
-bip_39_word_underscore_7: violin_penalty_call_end_disagree_kiss_ordinary
-bip_39_word_underscore_8: violin_penalty_call_end_disagree_kiss_ordinary_release
-bip_39_word_underscore_9: violin_penalty_call_end_disagree_kiss_ordinary_release_fly
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

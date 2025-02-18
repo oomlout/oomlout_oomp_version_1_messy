@@ -1,68 +1,9 @@
-bip_39_word_dash_1: auto
-bip_39_word_dash_10: auto-angle-fury-wasp-funny-prosper-tongue-connect-mango-unique
-bip_39_word_dash_11: auto-angle-fury-wasp-funny-prosper-tongue-connect-mango-unique-milk
 bip_39_word_dash_12: auto-angle-fury-wasp-funny-prosper-tongue-connect-mango-unique-milk-action
 bip_39_word_dash_2: auto-angle
 bip_39_word_dash_3: auto-angle-fury
-bip_39_word_dash_4: auto-angle-fury-wasp
-bip_39_word_dash_5: auto-angle-fury-wasp-funny
-bip_39_word_dash_6: auto-angle-fury-wasp-funny-prosper
-bip_39_word_dash_7: auto-angle-fury-wasp-funny-prosper-tongue
-bip_39_word_dash_8: auto-angle-fury-wasp-funny-prosper-tongue-connect
-bip_39_word_dash_9: auto-angle-fury-wasp-funny-prosper-tongue-connect-mango
-bip_39_word_new_br_1: auto
-bip_39_word_new_br_10: auto<br>angle<br>fury<br>wasp<br>funny<br>prosper<br>tongue<br>connect<br>mango<br>unique
-bip_39_word_new_br_11: auto<br>angle<br>fury<br>wasp<br>funny<br>prosper<br>tongue<br>connect<br>mango<br>unique<br>milk
 bip_39_word_new_br_12: auto<br>angle<br>fury<br>wasp<br>funny<br>prosper<br>tongue<br>connect<br>mango<br>unique<br>milk<br>action
 bip_39_word_new_br_2: auto<br>angle
 bip_39_word_new_br_3: auto<br>angle<br>fury
-bip_39_word_new_br_4: auto<br>angle<br>fury<br>wasp
-bip_39_word_new_br_5: auto<br>angle<br>fury<br>wasp<br>funny
-bip_39_word_new_br_6: auto<br>angle<br>fury<br>wasp<br>funny<br>prosper
-bip_39_word_new_br_7: auto<br>angle<br>fury<br>wasp<br>funny<br>prosper<br>tongue
-bip_39_word_new_br_8: auto<br>angle<br>fury<br>wasp<br>funny<br>prosper<br>tongue<br>connect
-bip_39_word_new_br_9: auto<br>angle<br>fury<br>wasp<br>funny<br>prosper<br>tongue<br>connect<br>mango
-bip_39_word_new_line_1: auto
-bip_39_word_new_line_10: 'auto
-
-  angle
-
-  fury
-
-  wasp
-
-  funny
-
-  prosper
-
-  tongue
-
-  connect
-
-  mango
-
-  unique'
-bip_39_word_new_line_11: 'auto
-
-  angle
-
-  fury
-
-  wasp
-
-  funny
-
-  prosper
-
-  tongue
-
-  connect
-
-  mango
-
-  unique
-
-  milk'
 bip_39_word_new_line_12: 'auto
 
   angle
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'auto
   angle
 
   fury'
-bip_39_word_new_line_4: 'auto
-
-  angle
-
-  fury
-
-  wasp'
-bip_39_word_new_line_5: 'auto
-
-  angle
-
-  fury
-
-  wasp
-
-  funny'
-bip_39_word_new_line_6: 'auto
-
-  angle
-
-  fury
-
-  wasp
-
-  funny
-
-  prosper'
-bip_39_word_new_line_7: 'auto
-
-  angle
-
-  fury
-
-  wasp
-
-  funny
-
-  prosper
-
-  tongue'
-bip_39_word_new_line_8: 'auto
-
-  angle
-
-  fury
-
-  wasp
-
-  funny
-
-  prosper
-
-  tongue
-
-  connect'
-bip_39_word_new_line_9: 'auto
-
-  angle
-
-  fury
-
-  wasp
-
-  funny
-
-  prosper
-
-  tongue
-
-  connect
-
-  mango'
-bip_39_word_no_space_1: auto
-bip_39_word_no_space_10: autoanglefurywaspfunnyprospertongueconnectmangounique
-bip_39_word_no_space_11: autoanglefurywaspfunnyprospertongueconnectmangouniquemilk
 bip_39_word_no_space_12: autoanglefurywaspfunnyprospertongueconnectmangouniquemilkaction
 bip_39_word_no_space_2: autoangle
 bip_39_word_no_space_3: autoanglefury
-bip_39_word_no_space_4: autoanglefurywasp
-bip_39_word_no_space_5: autoanglefurywaspfunny
-bip_39_word_no_space_6: autoanglefurywaspfunnyprosper
-bip_39_word_no_space_7: autoanglefurywaspfunnyprospertongue
-bip_39_word_no_space_8: autoanglefurywaspfunnyprospertongueconnect
-bip_39_word_no_space_9: autoanglefurywaspfunnyprospertongueconnectmango
-bip_39_word_space_0:
-- auto
-- angle
-- fury
-- wasp
-- funny
-- prosper
-- tongue
-- connect
-- mango
-- unique
-- milk
-- action
-bip_39_word_space_1: auto
-bip_39_word_space_10: auto angle fury wasp funny prosper tongue connect mango unique
-bip_39_word_space_11: auto angle fury wasp funny prosper tongue connect mango unique
-  milk
 bip_39_word_space_12: auto angle fury wasp funny prosper tongue connect mango unique
   milk action
 bip_39_word_space_2: auto angle
 bip_39_word_space_3: auto angle fury
-bip_39_word_space_4: auto angle fury wasp
-bip_39_word_space_5: auto angle fury wasp funny
-bip_39_word_space_6: auto angle fury wasp funny prosper
-bip_39_word_space_7: auto angle fury wasp funny prosper tongue
-bip_39_word_space_8: auto angle fury wasp funny prosper tongue connect
-bip_39_word_space_9: auto angle fury wasp funny prosper tongue connect mango
-bip_39_word_underscore_1: auto
-bip_39_word_underscore_10: auto_angle_fury_wasp_funny_prosper_tongue_connect_mango_unique
-bip_39_word_underscore_11: auto_angle_fury_wasp_funny_prosper_tongue_connect_mango_unique_milk
 bip_39_word_underscore_12: auto_angle_fury_wasp_funny_prosper_tongue_connect_mango_unique_milk_action
 bip_39_word_underscore_2: auto_angle
 bip_39_word_underscore_3: auto_angle_fury
-bip_39_word_underscore_4: auto_angle_fury_wasp
-bip_39_word_underscore_5: auto_angle_fury_wasp_funny
-bip_39_word_underscore_6: auto_angle_fury_wasp_funny_prosper
-bip_39_word_underscore_7: auto_angle_fury_wasp_funny_prosper_tongue
-bip_39_word_underscore_8: auto_angle_fury_wasp_funny_prosper_tongue_connect
-bip_39_word_underscore_9: auto_angle_fury_wasp_funny_prosper_tongue_connect_mango
 classification: food
 classification_capital: Food
 classification_first_letter: f

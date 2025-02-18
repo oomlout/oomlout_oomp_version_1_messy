@@ -1,68 +1,9 @@
-bip_39_word_dash_1: scrub
-bip_39_word_dash_10: scrub-tired-view-sorry-question-pulse-acquire-gossip-vicious-despair
-bip_39_word_dash_11: scrub-tired-view-sorry-question-pulse-acquire-gossip-vicious-despair-science
 bip_39_word_dash_12: scrub-tired-view-sorry-question-pulse-acquire-gossip-vicious-despair-science-afford
 bip_39_word_dash_2: scrub-tired
 bip_39_word_dash_3: scrub-tired-view
-bip_39_word_dash_4: scrub-tired-view-sorry
-bip_39_word_dash_5: scrub-tired-view-sorry-question
-bip_39_word_dash_6: scrub-tired-view-sorry-question-pulse
-bip_39_word_dash_7: scrub-tired-view-sorry-question-pulse-acquire
-bip_39_word_dash_8: scrub-tired-view-sorry-question-pulse-acquire-gossip
-bip_39_word_dash_9: scrub-tired-view-sorry-question-pulse-acquire-gossip-vicious
-bip_39_word_new_br_1: scrub
-bip_39_word_new_br_10: scrub<br>tired<br>view<br>sorry<br>question<br>pulse<br>acquire<br>gossip<br>vicious<br>despair
-bip_39_word_new_br_11: scrub<br>tired<br>view<br>sorry<br>question<br>pulse<br>acquire<br>gossip<br>vicious<br>despair<br>science
 bip_39_word_new_br_12: scrub<br>tired<br>view<br>sorry<br>question<br>pulse<br>acquire<br>gossip<br>vicious<br>despair<br>science<br>afford
 bip_39_word_new_br_2: scrub<br>tired
 bip_39_word_new_br_3: scrub<br>tired<br>view
-bip_39_word_new_br_4: scrub<br>tired<br>view<br>sorry
-bip_39_word_new_br_5: scrub<br>tired<br>view<br>sorry<br>question
-bip_39_word_new_br_6: scrub<br>tired<br>view<br>sorry<br>question<br>pulse
-bip_39_word_new_br_7: scrub<br>tired<br>view<br>sorry<br>question<br>pulse<br>acquire
-bip_39_word_new_br_8: scrub<br>tired<br>view<br>sorry<br>question<br>pulse<br>acquire<br>gossip
-bip_39_word_new_br_9: scrub<br>tired<br>view<br>sorry<br>question<br>pulse<br>acquire<br>gossip<br>vicious
-bip_39_word_new_line_1: scrub
-bip_39_word_new_line_10: 'scrub
-
-  tired
-
-  view
-
-  sorry
-
-  question
-
-  pulse
-
-  acquire
-
-  gossip
-
-  vicious
-
-  despair'
-bip_39_word_new_line_11: 'scrub
-
-  tired
-
-  view
-
-  sorry
-
-  question
-
-  pulse
-
-  acquire
-
-  gossip
-
-  vicious
-
-  despair
-
-  science'
 bip_39_word_new_line_12: 'scrub
 
   tired
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'scrub
   tired
 
   view'
-bip_39_word_new_line_4: 'scrub
-
-  tired
-
-  view
-
-  sorry'
-bip_39_word_new_line_5: 'scrub
-
-  tired
-
-  view
-
-  sorry
-
-  question'
-bip_39_word_new_line_6: 'scrub
-
-  tired
-
-  view
-
-  sorry
-
-  question
-
-  pulse'
-bip_39_word_new_line_7: 'scrub
-
-  tired
-
-  view
-
-  sorry
-
-  question
-
-  pulse
-
-  acquire'
-bip_39_word_new_line_8: 'scrub
-
-  tired
-
-  view
-
-  sorry
-
-  question
-
-  pulse
-
-  acquire
-
-  gossip'
-bip_39_word_new_line_9: 'scrub
-
-  tired
-
-  view
-
-  sorry
-
-  question
-
-  pulse
-
-  acquire
-
-  gossip
-
-  vicious'
-bip_39_word_no_space_1: scrub
-bip_39_word_no_space_10: scrubtiredviewsorryquestionpulseacquiregossipviciousdespair
-bip_39_word_no_space_11: scrubtiredviewsorryquestionpulseacquiregossipviciousdespairscience
 bip_39_word_no_space_12: scrubtiredviewsorryquestionpulseacquiregossipviciousdespairscienceafford
 bip_39_word_no_space_2: scrubtired
 bip_39_word_no_space_3: scrubtiredview
-bip_39_word_no_space_4: scrubtiredviewsorry
-bip_39_word_no_space_5: scrubtiredviewsorryquestion
-bip_39_word_no_space_6: scrubtiredviewsorryquestionpulse
-bip_39_word_no_space_7: scrubtiredviewsorryquestionpulseacquire
-bip_39_word_no_space_8: scrubtiredviewsorryquestionpulseacquiregossip
-bip_39_word_no_space_9: scrubtiredviewsorryquestionpulseacquiregossipvicious
-bip_39_word_space_0:
-- scrub
-- tired
-- view
-- sorry
-- question
-- pulse
-- acquire
-- gossip
-- vicious
-- despair
-- science
-- afford
-bip_39_word_space_1: scrub
-bip_39_word_space_10: scrub tired view sorry question pulse acquire gossip vicious
-  despair
-bip_39_word_space_11: scrub tired view sorry question pulse acquire gossip vicious
-  despair science
 bip_39_word_space_12: scrub tired view sorry question pulse acquire gossip vicious
   despair science afford
 bip_39_word_space_2: scrub tired
 bip_39_word_space_3: scrub tired view
-bip_39_word_space_4: scrub tired view sorry
-bip_39_word_space_5: scrub tired view sorry question
-bip_39_word_space_6: scrub tired view sorry question pulse
-bip_39_word_space_7: scrub tired view sorry question pulse acquire
-bip_39_word_space_8: scrub tired view sorry question pulse acquire gossip
-bip_39_word_space_9: scrub tired view sorry question pulse acquire gossip vicious
-bip_39_word_underscore_1: scrub
-bip_39_word_underscore_10: scrub_tired_view_sorry_question_pulse_acquire_gossip_vicious_despair
-bip_39_word_underscore_11: scrub_tired_view_sorry_question_pulse_acquire_gossip_vicious_despair_science
 bip_39_word_underscore_12: scrub_tired_view_sorry_question_pulse_acquire_gossip_vicious_despair_science_afford
 bip_39_word_underscore_2: scrub_tired
 bip_39_word_underscore_3: scrub_tired_view
-bip_39_word_underscore_4: scrub_tired_view_sorry
-bip_39_word_underscore_5: scrub_tired_view_sorry_question
-bip_39_word_underscore_6: scrub_tired_view_sorry_question_pulse
-bip_39_word_underscore_7: scrub_tired_view_sorry_question_pulse_acquire
-bip_39_word_underscore_8: scrub_tired_view_sorry_question_pulse_acquire_gossip
-bip_39_word_underscore_9: scrub_tired_view_sorry_question_pulse_acquire_gossip_vicious
 classification: category
 classification_capital: Category
 classification_first_letter: c

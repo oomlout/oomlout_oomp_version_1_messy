@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tape
-bip_39_word_dash_10: tape-such-entry-crash-hollow-eagle-enjoy-debris-escape-fiber
-bip_39_word_dash_11: tape-such-entry-crash-hollow-eagle-enjoy-debris-escape-fiber-design
 bip_39_word_dash_12: tape-such-entry-crash-hollow-eagle-enjoy-debris-escape-fiber-design-actor
 bip_39_word_dash_2: tape-such
 bip_39_word_dash_3: tape-such-entry
-bip_39_word_dash_4: tape-such-entry-crash
-bip_39_word_dash_5: tape-such-entry-crash-hollow
-bip_39_word_dash_6: tape-such-entry-crash-hollow-eagle
-bip_39_word_dash_7: tape-such-entry-crash-hollow-eagle-enjoy
-bip_39_word_dash_8: tape-such-entry-crash-hollow-eagle-enjoy-debris
-bip_39_word_dash_9: tape-such-entry-crash-hollow-eagle-enjoy-debris-escape
-bip_39_word_new_br_1: tape
-bip_39_word_new_br_10: tape<br>such<br>entry<br>crash<br>hollow<br>eagle<br>enjoy<br>debris<br>escape<br>fiber
-bip_39_word_new_br_11: tape<br>such<br>entry<br>crash<br>hollow<br>eagle<br>enjoy<br>debris<br>escape<br>fiber<br>design
 bip_39_word_new_br_12: tape<br>such<br>entry<br>crash<br>hollow<br>eagle<br>enjoy<br>debris<br>escape<br>fiber<br>design<br>actor
 bip_39_word_new_br_2: tape<br>such
 bip_39_word_new_br_3: tape<br>such<br>entry
-bip_39_word_new_br_4: tape<br>such<br>entry<br>crash
-bip_39_word_new_br_5: tape<br>such<br>entry<br>crash<br>hollow
-bip_39_word_new_br_6: tape<br>such<br>entry<br>crash<br>hollow<br>eagle
-bip_39_word_new_br_7: tape<br>such<br>entry<br>crash<br>hollow<br>eagle<br>enjoy
-bip_39_word_new_br_8: tape<br>such<br>entry<br>crash<br>hollow<br>eagle<br>enjoy<br>debris
-bip_39_word_new_br_9: tape<br>such<br>entry<br>crash<br>hollow<br>eagle<br>enjoy<br>debris<br>escape
-bip_39_word_new_line_1: tape
-bip_39_word_new_line_10: 'tape
-
-  such
-
-  entry
-
-  crash
-
-  hollow
-
-  eagle
-
-  enjoy
-
-  debris
-
-  escape
-
-  fiber'
-bip_39_word_new_line_11: 'tape
-
-  such
-
-  entry
-
-  crash
-
-  hollow
-
-  eagle
-
-  enjoy
-
-  debris
-
-  escape
-
-  fiber
-
-  design'
 bip_39_word_new_line_12: 'tape
 
   such
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tape
   such
 
   entry'
-bip_39_word_new_line_4: 'tape
-
-  such
-
-  entry
-
-  crash'
-bip_39_word_new_line_5: 'tape
-
-  such
-
-  entry
-
-  crash
-
-  hollow'
-bip_39_word_new_line_6: 'tape
-
-  such
-
-  entry
-
-  crash
-
-  hollow
-
-  eagle'
-bip_39_word_new_line_7: 'tape
-
-  such
-
-  entry
-
-  crash
-
-  hollow
-
-  eagle
-
-  enjoy'
-bip_39_word_new_line_8: 'tape
-
-  such
-
-  entry
-
-  crash
-
-  hollow
-
-  eagle
-
-  enjoy
-
-  debris'
-bip_39_word_new_line_9: 'tape
-
-  such
-
-  entry
-
-  crash
-
-  hollow
-
-  eagle
-
-  enjoy
-
-  debris
-
-  escape'
-bip_39_word_no_space_1: tape
-bip_39_word_no_space_10: tapesuchentrycrashholloweagleenjoydebrisescapefiber
-bip_39_word_no_space_11: tapesuchentrycrashholloweagleenjoydebrisescapefiberdesign
 bip_39_word_no_space_12: tapesuchentrycrashholloweagleenjoydebrisescapefiberdesignactor
 bip_39_word_no_space_2: tapesuch
 bip_39_word_no_space_3: tapesuchentry
-bip_39_word_no_space_4: tapesuchentrycrash
-bip_39_word_no_space_5: tapesuchentrycrashhollow
-bip_39_word_no_space_6: tapesuchentrycrashholloweagle
-bip_39_word_no_space_7: tapesuchentrycrashholloweagleenjoy
-bip_39_word_no_space_8: tapesuchentrycrashholloweagleenjoydebris
-bip_39_word_no_space_9: tapesuchentrycrashholloweagleenjoydebrisescape
-bip_39_word_space_0:
-- tape
-- such
-- entry
-- crash
-- hollow
-- eagle
-- enjoy
-- debris
-- escape
-- fiber
-- design
-- actor
-bip_39_word_space_1: tape
-bip_39_word_space_10: tape such entry crash hollow eagle enjoy debris escape fiber
-bip_39_word_space_11: tape such entry crash hollow eagle enjoy debris escape fiber
-  design
 bip_39_word_space_12: tape such entry crash hollow eagle enjoy debris escape fiber
   design actor
 bip_39_word_space_2: tape such
 bip_39_word_space_3: tape such entry
-bip_39_word_space_4: tape such entry crash
-bip_39_word_space_5: tape such entry crash hollow
-bip_39_word_space_6: tape such entry crash hollow eagle
-bip_39_word_space_7: tape such entry crash hollow eagle enjoy
-bip_39_word_space_8: tape such entry crash hollow eagle enjoy debris
-bip_39_word_space_9: tape such entry crash hollow eagle enjoy debris escape
-bip_39_word_underscore_1: tape
-bip_39_word_underscore_10: tape_such_entry_crash_hollow_eagle_enjoy_debris_escape_fiber
-bip_39_word_underscore_11: tape_such_entry_crash_hollow_eagle_enjoy_debris_escape_fiber_design
 bip_39_word_underscore_12: tape_such_entry_crash_hollow_eagle_enjoy_debris_escape_fiber_design_actor
 bip_39_word_underscore_2: tape_such
 bip_39_word_underscore_3: tape_such_entry
-bip_39_word_underscore_4: tape_such_entry_crash
-bip_39_word_underscore_5: tape_such_entry_crash_hollow
-bip_39_word_underscore_6: tape_such_entry_crash_hollow_eagle
-bip_39_word_underscore_7: tape_such_entry_crash_hollow_eagle_enjoy
-bip_39_word_underscore_8: tape_such_entry_crash_hollow_eagle_enjoy_debris
-bip_39_word_underscore_9: tape_such_entry_crash_hollow_eagle_enjoy_debris_escape
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: main
-bip_39_word_dash_10: main-ketchup-large-runway-predict-middle-ankle-rain-bounce-color
-bip_39_word_dash_11: main-ketchup-large-runway-predict-middle-ankle-rain-bounce-color-wasp
 bip_39_word_dash_12: main-ketchup-large-runway-predict-middle-ankle-rain-bounce-color-wasp-amateur
 bip_39_word_dash_2: main-ketchup
 bip_39_word_dash_3: main-ketchup-large
-bip_39_word_dash_4: main-ketchup-large-runway
-bip_39_word_dash_5: main-ketchup-large-runway-predict
-bip_39_word_dash_6: main-ketchup-large-runway-predict-middle
-bip_39_word_dash_7: main-ketchup-large-runway-predict-middle-ankle
-bip_39_word_dash_8: main-ketchup-large-runway-predict-middle-ankle-rain
-bip_39_word_dash_9: main-ketchup-large-runway-predict-middle-ankle-rain-bounce
-bip_39_word_new_br_1: main
-bip_39_word_new_br_10: main<br>ketchup<br>large<br>runway<br>predict<br>middle<br>ankle<br>rain<br>bounce<br>color
-bip_39_word_new_br_11: main<br>ketchup<br>large<br>runway<br>predict<br>middle<br>ankle<br>rain<br>bounce<br>color<br>wasp
 bip_39_word_new_br_12: main<br>ketchup<br>large<br>runway<br>predict<br>middle<br>ankle<br>rain<br>bounce<br>color<br>wasp<br>amateur
 bip_39_word_new_br_2: main<br>ketchup
 bip_39_word_new_br_3: main<br>ketchup<br>large
-bip_39_word_new_br_4: main<br>ketchup<br>large<br>runway
-bip_39_word_new_br_5: main<br>ketchup<br>large<br>runway<br>predict
-bip_39_word_new_br_6: main<br>ketchup<br>large<br>runway<br>predict<br>middle
-bip_39_word_new_br_7: main<br>ketchup<br>large<br>runway<br>predict<br>middle<br>ankle
-bip_39_word_new_br_8: main<br>ketchup<br>large<br>runway<br>predict<br>middle<br>ankle<br>rain
-bip_39_word_new_br_9: main<br>ketchup<br>large<br>runway<br>predict<br>middle<br>ankle<br>rain<br>bounce
-bip_39_word_new_line_1: main
-bip_39_word_new_line_10: 'main
-
-  ketchup
-
-  large
-
-  runway
-
-  predict
-
-  middle
-
-  ankle
-
-  rain
-
-  bounce
-
-  color'
-bip_39_word_new_line_11: 'main
-
-  ketchup
-
-  large
-
-  runway
-
-  predict
-
-  middle
-
-  ankle
-
-  rain
-
-  bounce
-
-  color
-
-  wasp'
 bip_39_word_new_line_12: 'main
 
   ketchup
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'main
   ketchup
 
   large'
-bip_39_word_new_line_4: 'main
-
-  ketchup
-
-  large
-
-  runway'
-bip_39_word_new_line_5: 'main
-
-  ketchup
-
-  large
-
-  runway
-
-  predict'
-bip_39_word_new_line_6: 'main
-
-  ketchup
-
-  large
-
-  runway
-
-  predict
-
-  middle'
-bip_39_word_new_line_7: 'main
-
-  ketchup
-
-  large
-
-  runway
-
-  predict
-
-  middle
-
-  ankle'
-bip_39_word_new_line_8: 'main
-
-  ketchup
-
-  large
-
-  runway
-
-  predict
-
-  middle
-
-  ankle
-
-  rain'
-bip_39_word_new_line_9: 'main
-
-  ketchup
-
-  large
-
-  runway
-
-  predict
-
-  middle
-
-  ankle
-
-  rain
-
-  bounce'
-bip_39_word_no_space_1: main
-bip_39_word_no_space_10: mainketchuplargerunwaypredictmiddleanklerainbouncecolor
-bip_39_word_no_space_11: mainketchuplargerunwaypredictmiddleanklerainbouncecolorwasp
 bip_39_word_no_space_12: mainketchuplargerunwaypredictmiddleanklerainbouncecolorwaspamateur
 bip_39_word_no_space_2: mainketchup
 bip_39_word_no_space_3: mainketchuplarge
-bip_39_word_no_space_4: mainketchuplargerunway
-bip_39_word_no_space_5: mainketchuplargerunwaypredict
-bip_39_word_no_space_6: mainketchuplargerunwaypredictmiddle
-bip_39_word_no_space_7: mainketchuplargerunwaypredictmiddleankle
-bip_39_word_no_space_8: mainketchuplargerunwaypredictmiddleanklerain
-bip_39_word_no_space_9: mainketchuplargerunwaypredictmiddleanklerainbounce
-bip_39_word_space_0:
-- main
-- ketchup
-- large
-- runway
-- predict
-- middle
-- ankle
-- rain
-- bounce
-- color
-- wasp
-- amateur
-bip_39_word_space_1: main
-bip_39_word_space_10: main ketchup large runway predict middle ankle rain bounce color
-bip_39_word_space_11: main ketchup large runway predict middle ankle rain bounce color
-  wasp
 bip_39_word_space_12: main ketchup large runway predict middle ankle rain bounce color
   wasp amateur
 bip_39_word_space_2: main ketchup
 bip_39_word_space_3: main ketchup large
-bip_39_word_space_4: main ketchup large runway
-bip_39_word_space_5: main ketchup large runway predict
-bip_39_word_space_6: main ketchup large runway predict middle
-bip_39_word_space_7: main ketchup large runway predict middle ankle
-bip_39_word_space_8: main ketchup large runway predict middle ankle rain
-bip_39_word_space_9: main ketchup large runway predict middle ankle rain bounce
-bip_39_word_underscore_1: main
-bip_39_word_underscore_10: main_ketchup_large_runway_predict_middle_ankle_rain_bounce_color
-bip_39_word_underscore_11: main_ketchup_large_runway_predict_middle_ankle_rain_bounce_color_wasp
 bip_39_word_underscore_12: main_ketchup_large_runway_predict_middle_ankle_rain_bounce_color_wasp_amateur
 bip_39_word_underscore_2: main_ketchup
 bip_39_word_underscore_3: main_ketchup_large
-bip_39_word_underscore_4: main_ketchup_large_runway
-bip_39_word_underscore_5: main_ketchup_large_runway_predict
-bip_39_word_underscore_6: main_ketchup_large_runway_predict_middle
-bip_39_word_underscore_7: main_ketchup_large_runway_predict_middle_ankle
-bip_39_word_underscore_8: main_ketchup_large_runway_predict_middle_ankle_rain
-bip_39_word_underscore_9: main_ketchup_large_runway_predict_middle_ankle_rain_bounce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

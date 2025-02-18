@@ -1,68 +1,9 @@
-bip_39_word_dash_1: all
-bip_39_word_dash_10: all-orange-foot-wheat-myself-glance-trigger-cook-feed-adapt
-bip_39_word_dash_11: all-orange-foot-wheat-myself-glance-trigger-cook-feed-adapt-arrange
 bip_39_word_dash_12: all-orange-foot-wheat-myself-glance-trigger-cook-feed-adapt-arrange-announce
 bip_39_word_dash_2: all-orange
 bip_39_word_dash_3: all-orange-foot
-bip_39_word_dash_4: all-orange-foot-wheat
-bip_39_word_dash_5: all-orange-foot-wheat-myself
-bip_39_word_dash_6: all-orange-foot-wheat-myself-glance
-bip_39_word_dash_7: all-orange-foot-wheat-myself-glance-trigger
-bip_39_word_dash_8: all-orange-foot-wheat-myself-glance-trigger-cook
-bip_39_word_dash_9: all-orange-foot-wheat-myself-glance-trigger-cook-feed
-bip_39_word_new_br_1: all
-bip_39_word_new_br_10: all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt
-bip_39_word_new_br_11: all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt<br>arrange
 bip_39_word_new_br_12: all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt<br>arrange<br>announce
 bip_39_word_new_br_2: all<br>orange
 bip_39_word_new_br_3: all<br>orange<br>foot
-bip_39_word_new_br_4: all<br>orange<br>foot<br>wheat
-bip_39_word_new_br_5: all<br>orange<br>foot<br>wheat<br>myself
-bip_39_word_new_br_6: all<br>orange<br>foot<br>wheat<br>myself<br>glance
-bip_39_word_new_br_7: all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger
-bip_39_word_new_br_8: all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook
-bip_39_word_new_br_9: all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed
-bip_39_word_new_line_1: all
-bip_39_word_new_line_10: 'all
-
-  orange
-
-  foot
-
-  wheat
-
-  myself
-
-  glance
-
-  trigger
-
-  cook
-
-  feed
-
-  adapt'
-bip_39_word_new_line_11: 'all
-
-  orange
-
-  foot
-
-  wheat
-
-  myself
-
-  glance
-
-  trigger
-
-  cook
-
-  feed
-
-  adapt
-
-  arrange'
 bip_39_word_new_line_12: 'all
 
   orange
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'all
   orange
 
   foot'
-bip_39_word_new_line_4: 'all
-
-  orange
-
-  foot
-
-  wheat'
-bip_39_word_new_line_5: 'all
-
-  orange
-
-  foot
-
-  wheat
-
-  myself'
-bip_39_word_new_line_6: 'all
-
-  orange
-
-  foot
-
-  wheat
-
-  myself
-
-  glance'
-bip_39_word_new_line_7: 'all
-
-  orange
-
-  foot
-
-  wheat
-
-  myself
-
-  glance
-
-  trigger'
-bip_39_word_new_line_8: 'all
-
-  orange
-
-  foot
-
-  wheat
-
-  myself
-
-  glance
-
-  trigger
-
-  cook'
-bip_39_word_new_line_9: 'all
-
-  orange
-
-  foot
-
-  wheat
-
-  myself
-
-  glance
-
-  trigger
-
-  cook
-
-  feed'
-bip_39_word_no_space_1: all
-bip_39_word_no_space_10: allorangefootwheatmyselfglancetriggercookfeedadapt
-bip_39_word_no_space_11: allorangefootwheatmyselfglancetriggercookfeedadaptarrange
 bip_39_word_no_space_12: allorangefootwheatmyselfglancetriggercookfeedadaptarrangeannounce
 bip_39_word_no_space_2: allorange
 bip_39_word_no_space_3: allorangefoot
-bip_39_word_no_space_4: allorangefootwheat
-bip_39_word_no_space_5: allorangefootwheatmyself
-bip_39_word_no_space_6: allorangefootwheatmyselfglance
-bip_39_word_no_space_7: allorangefootwheatmyselfglancetrigger
-bip_39_word_no_space_8: allorangefootwheatmyselfglancetriggercook
-bip_39_word_no_space_9: allorangefootwheatmyselfglancetriggercookfeed
-bip_39_word_space_0:
-- all
-- orange
-- foot
-- wheat
-- myself
-- glance
-- trigger
-- cook
-- feed
-- adapt
-- arrange
-- announce
-bip_39_word_space_1: all
-bip_39_word_space_10: all orange foot wheat myself glance trigger cook feed adapt
-bip_39_word_space_11: all orange foot wheat myself glance trigger cook feed adapt
-  arrange
 bip_39_word_space_12: all orange foot wheat myself glance trigger cook feed adapt
   arrange announce
 bip_39_word_space_2: all orange
 bip_39_word_space_3: all orange foot
-bip_39_word_space_4: all orange foot wheat
-bip_39_word_space_5: all orange foot wheat myself
-bip_39_word_space_6: all orange foot wheat myself glance
-bip_39_word_space_7: all orange foot wheat myself glance trigger
-bip_39_word_space_8: all orange foot wheat myself glance trigger cook
-bip_39_word_space_9: all orange foot wheat myself glance trigger cook feed
-bip_39_word_underscore_1: all
-bip_39_word_underscore_10: all_orange_foot_wheat_myself_glance_trigger_cook_feed_adapt
-bip_39_word_underscore_11: all_orange_foot_wheat_myself_glance_trigger_cook_feed_adapt_arrange
 bip_39_word_underscore_12: all_orange_foot_wheat_myself_glance_trigger_cook_feed_adapt_arrange_announce
 bip_39_word_underscore_2: all_orange
 bip_39_word_underscore_3: all_orange_foot
-bip_39_word_underscore_4: all_orange_foot_wheat
-bip_39_word_underscore_5: all_orange_foot_wheat_myself
-bip_39_word_underscore_6: all_orange_foot_wheat_myself_glance
-bip_39_word_underscore_7: all_orange_foot_wheat_myself_glance_trigger
-bip_39_word_underscore_8: all_orange_foot_wheat_myself_glance_trigger_cook
-bip_39_word_underscore_9: all_orange_foot_wheat_myself_glance_trigger_cook_feed
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: despair
-bip_39_word_dash_10: despair-hedgehog-critic-claw-lawn-virus-mango-review-smoke-mother
-bip_39_word_dash_11: despair-hedgehog-critic-claw-lawn-virus-mango-review-smoke-mother-absorb
 bip_39_word_dash_12: despair-hedgehog-critic-claw-lawn-virus-mango-review-smoke-mother-absorb-armed
 bip_39_word_dash_2: despair-hedgehog
 bip_39_word_dash_3: despair-hedgehog-critic
-bip_39_word_dash_4: despair-hedgehog-critic-claw
-bip_39_word_dash_5: despair-hedgehog-critic-claw-lawn
-bip_39_word_dash_6: despair-hedgehog-critic-claw-lawn-virus
-bip_39_word_dash_7: despair-hedgehog-critic-claw-lawn-virus-mango
-bip_39_word_dash_8: despair-hedgehog-critic-claw-lawn-virus-mango-review
-bip_39_word_dash_9: despair-hedgehog-critic-claw-lawn-virus-mango-review-smoke
-bip_39_word_new_br_1: despair
-bip_39_word_new_br_10: despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus<br>mango<br>review<br>smoke<br>mother
-bip_39_word_new_br_11: despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus<br>mango<br>review<br>smoke<br>mother<br>absorb
 bip_39_word_new_br_12: despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus<br>mango<br>review<br>smoke<br>mother<br>absorb<br>armed
 bip_39_word_new_br_2: despair<br>hedgehog
 bip_39_word_new_br_3: despair<br>hedgehog<br>critic
-bip_39_word_new_br_4: despair<br>hedgehog<br>critic<br>claw
-bip_39_word_new_br_5: despair<br>hedgehog<br>critic<br>claw<br>lawn
-bip_39_word_new_br_6: despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus
-bip_39_word_new_br_7: despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus<br>mango
-bip_39_word_new_br_8: despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus<br>mango<br>review
-bip_39_word_new_br_9: despair<br>hedgehog<br>critic<br>claw<br>lawn<br>virus<br>mango<br>review<br>smoke
-bip_39_word_new_line_1: despair
-bip_39_word_new_line_10: 'despair
-
-  hedgehog
-
-  critic
-
-  claw
-
-  lawn
-
-  virus
-
-  mango
-
-  review
-
-  smoke
-
-  mother'
-bip_39_word_new_line_11: 'despair
-
-  hedgehog
-
-  critic
-
-  claw
-
-  lawn
-
-  virus
-
-  mango
-
-  review
-
-  smoke
-
-  mother
-
-  absorb'
 bip_39_word_new_line_12: 'despair
 
   hedgehog
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'despair
   hedgehog
 
   critic'
-bip_39_word_new_line_4: 'despair
-
-  hedgehog
-
-  critic
-
-  claw'
-bip_39_word_new_line_5: 'despair
-
-  hedgehog
-
-  critic
-
-  claw
-
-  lawn'
-bip_39_word_new_line_6: 'despair
-
-  hedgehog
-
-  critic
-
-  claw
-
-  lawn
-
-  virus'
-bip_39_word_new_line_7: 'despair
-
-  hedgehog
-
-  critic
-
-  claw
-
-  lawn
-
-  virus
-
-  mango'
-bip_39_word_new_line_8: 'despair
-
-  hedgehog
-
-  critic
-
-  claw
-
-  lawn
-
-  virus
-
-  mango
-
-  review'
-bip_39_word_new_line_9: 'despair
-
-  hedgehog
-
-  critic
-
-  claw
-
-  lawn
-
-  virus
-
-  mango
-
-  review
-
-  smoke'
-bip_39_word_no_space_1: despair
-bip_39_word_no_space_10: despairhedgehogcriticclawlawnvirusmangoreviewsmokemother
-bip_39_word_no_space_11: despairhedgehogcriticclawlawnvirusmangoreviewsmokemotherabsorb
 bip_39_word_no_space_12: despairhedgehogcriticclawlawnvirusmangoreviewsmokemotherabsorbarmed
 bip_39_word_no_space_2: despairhedgehog
 bip_39_word_no_space_3: despairhedgehogcritic
-bip_39_word_no_space_4: despairhedgehogcriticclaw
-bip_39_word_no_space_5: despairhedgehogcriticclawlawn
-bip_39_word_no_space_6: despairhedgehogcriticclawlawnvirus
-bip_39_word_no_space_7: despairhedgehogcriticclawlawnvirusmango
-bip_39_word_no_space_8: despairhedgehogcriticclawlawnvirusmangoreview
-bip_39_word_no_space_9: despairhedgehogcriticclawlawnvirusmangoreviewsmoke
-bip_39_word_space_0:
-- despair
-- hedgehog
-- critic
-- claw
-- lawn
-- virus
-- mango
-- review
-- smoke
-- mother
-- absorb
-- armed
-bip_39_word_space_1: despair
-bip_39_word_space_10: despair hedgehog critic claw lawn virus mango review smoke mother
-bip_39_word_space_11: despair hedgehog critic claw lawn virus mango review smoke mother
-  absorb
 bip_39_word_space_12: despair hedgehog critic claw lawn virus mango review smoke mother
   absorb armed
 bip_39_word_space_2: despair hedgehog
 bip_39_word_space_3: despair hedgehog critic
-bip_39_word_space_4: despair hedgehog critic claw
-bip_39_word_space_5: despair hedgehog critic claw lawn
-bip_39_word_space_6: despair hedgehog critic claw lawn virus
-bip_39_word_space_7: despair hedgehog critic claw lawn virus mango
-bip_39_word_space_8: despair hedgehog critic claw lawn virus mango review
-bip_39_word_space_9: despair hedgehog critic claw lawn virus mango review smoke
-bip_39_word_underscore_1: despair
-bip_39_word_underscore_10: despair_hedgehog_critic_claw_lawn_virus_mango_review_smoke_mother
-bip_39_word_underscore_11: despair_hedgehog_critic_claw_lawn_virus_mango_review_smoke_mother_absorb
 bip_39_word_underscore_12: despair_hedgehog_critic_claw_lawn_virus_mango_review_smoke_mother_absorb_armed
 bip_39_word_underscore_2: despair_hedgehog
 bip_39_word_underscore_3: despair_hedgehog_critic
-bip_39_word_underscore_4: despair_hedgehog_critic_claw
-bip_39_word_underscore_5: despair_hedgehog_critic_claw_lawn
-bip_39_word_underscore_6: despair_hedgehog_critic_claw_lawn_virus
-bip_39_word_underscore_7: despair_hedgehog_critic_claw_lawn_virus_mango
-bip_39_word_underscore_8: despair_hedgehog_critic_claw_lawn_virus_mango_review
-bip_39_word_underscore_9: despair_hedgehog_critic_claw_lawn_virus_mango_review_smoke
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

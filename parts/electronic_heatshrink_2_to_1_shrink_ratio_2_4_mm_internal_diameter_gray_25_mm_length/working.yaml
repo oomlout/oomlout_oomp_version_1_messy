@@ -1,68 +1,9 @@
-bip_39_word_dash_1: protect
-bip_39_word_dash_10: protect-trust-crowd-cinnamon-street-approve-debate-sniff-ship-climb
-bip_39_word_dash_11: protect-trust-crowd-cinnamon-street-approve-debate-sniff-ship-climb-correct
 bip_39_word_dash_12: protect-trust-crowd-cinnamon-street-approve-debate-sniff-ship-climb-correct-acoustic
 bip_39_word_dash_2: protect-trust
 bip_39_word_dash_3: protect-trust-crowd
-bip_39_word_dash_4: protect-trust-crowd-cinnamon
-bip_39_word_dash_5: protect-trust-crowd-cinnamon-street
-bip_39_word_dash_6: protect-trust-crowd-cinnamon-street-approve
-bip_39_word_dash_7: protect-trust-crowd-cinnamon-street-approve-debate
-bip_39_word_dash_8: protect-trust-crowd-cinnamon-street-approve-debate-sniff
-bip_39_word_dash_9: protect-trust-crowd-cinnamon-street-approve-debate-sniff-ship
-bip_39_word_new_br_1: protect
-bip_39_word_new_br_10: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship<br>climb
-bip_39_word_new_br_11: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship<br>climb<br>correct
 bip_39_word_new_br_12: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship<br>climb<br>correct<br>acoustic
 bip_39_word_new_br_2: protect<br>trust
 bip_39_word_new_br_3: protect<br>trust<br>crowd
-bip_39_word_new_br_4: protect<br>trust<br>crowd<br>cinnamon
-bip_39_word_new_br_5: protect<br>trust<br>crowd<br>cinnamon<br>street
-bip_39_word_new_br_6: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve
-bip_39_word_new_br_7: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate
-bip_39_word_new_br_8: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff
-bip_39_word_new_br_9: protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship
-bip_39_word_new_line_1: protect
-bip_39_word_new_line_10: 'protect
-
-  trust
-
-  crowd
-
-  cinnamon
-
-  street
-
-  approve
-
-  debate
-
-  sniff
-
-  ship
-
-  climb'
-bip_39_word_new_line_11: 'protect
-
-  trust
-
-  crowd
-
-  cinnamon
-
-  street
-
-  approve
-
-  debate
-
-  sniff
-
-  ship
-
-  climb
-
-  correct'
 bip_39_word_new_line_12: 'protect
 
   trust
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'protect
   trust
 
   crowd'
-bip_39_word_new_line_4: 'protect
-
-  trust
-
-  crowd
-
-  cinnamon'
-bip_39_word_new_line_5: 'protect
-
-  trust
-
-  crowd
-
-  cinnamon
-
-  street'
-bip_39_word_new_line_6: 'protect
-
-  trust
-
-  crowd
-
-  cinnamon
-
-  street
-
-  approve'
-bip_39_word_new_line_7: 'protect
-
-  trust
-
-  crowd
-
-  cinnamon
-
-  street
-
-  approve
-
-  debate'
-bip_39_word_new_line_8: 'protect
-
-  trust
-
-  crowd
-
-  cinnamon
-
-  street
-
-  approve
-
-  debate
-
-  sniff'
-bip_39_word_new_line_9: 'protect
-
-  trust
-
-  crowd
-
-  cinnamon
-
-  street
-
-  approve
-
-  debate
-
-  sniff
-
-  ship'
-bip_39_word_no_space_1: protect
-bip_39_word_no_space_10: protecttrustcrowdcinnamonstreetapprovedebatesniffshipclimb
-bip_39_word_no_space_11: protecttrustcrowdcinnamonstreetapprovedebatesniffshipclimbcorrect
 bip_39_word_no_space_12: protecttrustcrowdcinnamonstreetapprovedebatesniffshipclimbcorrectacoustic
 bip_39_word_no_space_2: protecttrust
 bip_39_word_no_space_3: protecttrustcrowd
-bip_39_word_no_space_4: protecttrustcrowdcinnamon
-bip_39_word_no_space_5: protecttrustcrowdcinnamonstreet
-bip_39_word_no_space_6: protecttrustcrowdcinnamonstreetapprove
-bip_39_word_no_space_7: protecttrustcrowdcinnamonstreetapprovedebate
-bip_39_word_no_space_8: protecttrustcrowdcinnamonstreetapprovedebatesniff
-bip_39_word_no_space_9: protecttrustcrowdcinnamonstreetapprovedebatesniffship
-bip_39_word_space_0:
-- protect
-- trust
-- crowd
-- cinnamon
-- street
-- approve
-- debate
-- sniff
-- ship
-- climb
-- correct
-- acoustic
-bip_39_word_space_1: protect
-bip_39_word_space_10: protect trust crowd cinnamon street approve debate sniff ship
-  climb
-bip_39_word_space_11: protect trust crowd cinnamon street approve debate sniff ship
-  climb correct
 bip_39_word_space_12: protect trust crowd cinnamon street approve debate sniff ship
   climb correct acoustic
 bip_39_word_space_2: protect trust
 bip_39_word_space_3: protect trust crowd
-bip_39_word_space_4: protect trust crowd cinnamon
-bip_39_word_space_5: protect trust crowd cinnamon street
-bip_39_word_space_6: protect trust crowd cinnamon street approve
-bip_39_word_space_7: protect trust crowd cinnamon street approve debate
-bip_39_word_space_8: protect trust crowd cinnamon street approve debate sniff
-bip_39_word_space_9: protect trust crowd cinnamon street approve debate sniff ship
-bip_39_word_underscore_1: protect
-bip_39_word_underscore_10: protect_trust_crowd_cinnamon_street_approve_debate_sniff_ship_climb
-bip_39_word_underscore_11: protect_trust_crowd_cinnamon_street_approve_debate_sniff_ship_climb_correct
 bip_39_word_underscore_12: protect_trust_crowd_cinnamon_street_approve_debate_sniff_ship_climb_correct_acoustic
 bip_39_word_underscore_2: protect_trust
 bip_39_word_underscore_3: protect_trust_crowd
-bip_39_word_underscore_4: protect_trust_crowd_cinnamon
-bip_39_word_underscore_5: protect_trust_crowd_cinnamon_street
-bip_39_word_underscore_6: protect_trust_crowd_cinnamon_street_approve
-bip_39_word_underscore_7: protect_trust_crowd_cinnamon_street_approve_debate
-bip_39_word_underscore_8: protect_trust_crowd_cinnamon_street_approve_debate_sniff
-bip_39_word_underscore_9: protect_trust_crowd_cinnamon_street_approve_debate_sniff_ship
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

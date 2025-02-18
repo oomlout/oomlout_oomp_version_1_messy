@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420680103'
-bip_39_word_dash_1: table
-bip_39_word_dash_10: table-donor-develop-inform-hand-horn-apology-baby-stock-space
-bip_39_word_dash_11: table-donor-develop-inform-hand-horn-apology-baby-stock-space-arrest
 bip_39_word_dash_12: table-donor-develop-inform-hand-horn-apology-baby-stock-space-arrest-abuse
 bip_39_word_dash_2: table-donor
 bip_39_word_dash_3: table-donor-develop
-bip_39_word_dash_4: table-donor-develop-inform
-bip_39_word_dash_5: table-donor-develop-inform-hand
-bip_39_word_dash_6: table-donor-develop-inform-hand-horn
-bip_39_word_dash_7: table-donor-develop-inform-hand-horn-apology
-bip_39_word_dash_8: table-donor-develop-inform-hand-horn-apology-baby
-bip_39_word_dash_9: table-donor-develop-inform-hand-horn-apology-baby-stock
-bip_39_word_new_br_1: table
-bip_39_word_new_br_10: table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby<br>stock<br>space
-bip_39_word_new_br_11: table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby<br>stock<br>space<br>arrest
 bip_39_word_new_br_12: table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby<br>stock<br>space<br>arrest<br>abuse
 bip_39_word_new_br_2: table<br>donor
 bip_39_word_new_br_3: table<br>donor<br>develop
-bip_39_word_new_br_4: table<br>donor<br>develop<br>inform
-bip_39_word_new_br_5: table<br>donor<br>develop<br>inform<br>hand
-bip_39_word_new_br_6: table<br>donor<br>develop<br>inform<br>hand<br>horn
-bip_39_word_new_br_7: table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology
-bip_39_word_new_br_8: table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby
-bip_39_word_new_br_9: table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby<br>stock
-bip_39_word_new_line_1: table
-bip_39_word_new_line_10: 'table
-
-  donor
-
-  develop
-
-  inform
-
-  hand
-
-  horn
-
-  apology
-
-  baby
-
-  stock
-
-  space'
-bip_39_word_new_line_11: 'table
-
-  donor
-
-  develop
-
-  inform
-
-  hand
-
-  horn
-
-  apology
-
-  baby
-
-  stock
-
-  space
-
-  arrest'
 bip_39_word_new_line_12: 'table
 
   donor
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'table
   donor
 
   develop'
-bip_39_word_new_line_4: 'table
-
-  donor
-
-  develop
-
-  inform'
-bip_39_word_new_line_5: 'table
-
-  donor
-
-  develop
-
-  inform
-
-  hand'
-bip_39_word_new_line_6: 'table
-
-  donor
-
-  develop
-
-  inform
-
-  hand
-
-  horn'
-bip_39_word_new_line_7: 'table
-
-  donor
-
-  develop
-
-  inform
-
-  hand
-
-  horn
-
-  apology'
-bip_39_word_new_line_8: 'table
-
-  donor
-
-  develop
-
-  inform
-
-  hand
-
-  horn
-
-  apology
-
-  baby'
-bip_39_word_new_line_9: 'table
-
-  donor
-
-  develop
-
-  inform
-
-  hand
-
-  horn
-
-  apology
-
-  baby
-
-  stock'
-bip_39_word_no_space_1: table
-bip_39_word_no_space_10: tabledonordevelopinformhandhornapologybabystockspace
-bip_39_word_no_space_11: tabledonordevelopinformhandhornapologybabystockspacearrest
 bip_39_word_no_space_12: tabledonordevelopinformhandhornapologybabystockspacearrestabuse
 bip_39_word_no_space_2: tabledonor
 bip_39_word_no_space_3: tabledonordevelop
-bip_39_word_no_space_4: tabledonordevelopinform
-bip_39_word_no_space_5: tabledonordevelopinformhand
-bip_39_word_no_space_6: tabledonordevelopinformhandhorn
-bip_39_word_no_space_7: tabledonordevelopinformhandhornapology
-bip_39_word_no_space_8: tabledonordevelopinformhandhornapologybaby
-bip_39_word_no_space_9: tabledonordevelopinformhandhornapologybabystock
-bip_39_word_space_0:
-- table
-- donor
-- develop
-- inform
-- hand
-- horn
-- apology
-- baby
-- stock
-- space
-- arrest
-- abuse
-bip_39_word_space_1: table
-bip_39_word_space_10: table donor develop inform hand horn apology baby stock space
-bip_39_word_space_11: table donor develop inform hand horn apology baby stock space
-  arrest
 bip_39_word_space_12: table donor develop inform hand horn apology baby stock space
   arrest abuse
 bip_39_word_space_2: table donor
 bip_39_word_space_3: table donor develop
-bip_39_word_space_4: table donor develop inform
-bip_39_word_space_5: table donor develop inform hand
-bip_39_word_space_6: table donor develop inform hand horn
-bip_39_word_space_7: table donor develop inform hand horn apology
-bip_39_word_space_8: table donor develop inform hand horn apology baby
-bip_39_word_space_9: table donor develop inform hand horn apology baby stock
-bip_39_word_underscore_1: table
-bip_39_word_underscore_10: table_donor_develop_inform_hand_horn_apology_baby_stock_space
-bip_39_word_underscore_11: table_donor_develop_inform_hand_horn_apology_baby_stock_space_arrest
 bip_39_word_underscore_12: table_donor_develop_inform_hand_horn_apology_baby_stock_space_arrest_abuse
 bip_39_word_underscore_2: table_donor
 bip_39_word_underscore_3: table_donor_develop
-bip_39_word_underscore_4: table_donor_develop_inform
-bip_39_word_underscore_5: table_donor_develop_inform_hand
-bip_39_word_underscore_6: table_donor_develop_inform_hand_horn
-bip_39_word_underscore_7: table_donor_develop_inform_hand_horn_apology
-bip_39_word_underscore_8: table_donor_develop_inform_hand_horn_apology_baby
-bip_39_word_underscore_9: table_donor_develop_inform_hand_horn_apology_baby_stock
 box_of_box_size_manufacturer_metalmate: '1200'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

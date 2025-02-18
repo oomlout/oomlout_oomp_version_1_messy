@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cargo
-bip_39_word_dash_10: cargo-various-tenant-ranch-defy-total-all-pudding-swarm-code
-bip_39_word_dash_11: cargo-various-tenant-ranch-defy-total-all-pudding-swarm-code-twelve
 bip_39_word_dash_12: cargo-various-tenant-ranch-defy-total-all-pudding-swarm-code-twelve-alter
 bip_39_word_dash_2: cargo-various
 bip_39_word_dash_3: cargo-various-tenant
-bip_39_word_dash_4: cargo-various-tenant-ranch
-bip_39_word_dash_5: cargo-various-tenant-ranch-defy
-bip_39_word_dash_6: cargo-various-tenant-ranch-defy-total
-bip_39_word_dash_7: cargo-various-tenant-ranch-defy-total-all
-bip_39_word_dash_8: cargo-various-tenant-ranch-defy-total-all-pudding
-bip_39_word_dash_9: cargo-various-tenant-ranch-defy-total-all-pudding-swarm
-bip_39_word_new_br_1: cargo
-bip_39_word_new_br_10: cargo<br>various<br>tenant<br>ranch<br>defy<br>total<br>all<br>pudding<br>swarm<br>code
-bip_39_word_new_br_11: cargo<br>various<br>tenant<br>ranch<br>defy<br>total<br>all<br>pudding<br>swarm<br>code<br>twelve
 bip_39_word_new_br_12: cargo<br>various<br>tenant<br>ranch<br>defy<br>total<br>all<br>pudding<br>swarm<br>code<br>twelve<br>alter
 bip_39_word_new_br_2: cargo<br>various
 bip_39_word_new_br_3: cargo<br>various<br>tenant
-bip_39_word_new_br_4: cargo<br>various<br>tenant<br>ranch
-bip_39_word_new_br_5: cargo<br>various<br>tenant<br>ranch<br>defy
-bip_39_word_new_br_6: cargo<br>various<br>tenant<br>ranch<br>defy<br>total
-bip_39_word_new_br_7: cargo<br>various<br>tenant<br>ranch<br>defy<br>total<br>all
-bip_39_word_new_br_8: cargo<br>various<br>tenant<br>ranch<br>defy<br>total<br>all<br>pudding
-bip_39_word_new_br_9: cargo<br>various<br>tenant<br>ranch<br>defy<br>total<br>all<br>pudding<br>swarm
-bip_39_word_new_line_1: cargo
-bip_39_word_new_line_10: 'cargo
-
-  various
-
-  tenant
-
-  ranch
-
-  defy
-
-  total
-
-  all
-
-  pudding
-
-  swarm
-
-  code'
-bip_39_word_new_line_11: 'cargo
-
-  various
-
-  tenant
-
-  ranch
-
-  defy
-
-  total
-
-  all
-
-  pudding
-
-  swarm
-
-  code
-
-  twelve'
 bip_39_word_new_line_12: 'cargo
 
   various
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cargo
   various
 
   tenant'
-bip_39_word_new_line_4: 'cargo
-
-  various
-
-  tenant
-
-  ranch'
-bip_39_word_new_line_5: 'cargo
-
-  various
-
-  tenant
-
-  ranch
-
-  defy'
-bip_39_word_new_line_6: 'cargo
-
-  various
-
-  tenant
-
-  ranch
-
-  defy
-
-  total'
-bip_39_word_new_line_7: 'cargo
-
-  various
-
-  tenant
-
-  ranch
-
-  defy
-
-  total
-
-  all'
-bip_39_word_new_line_8: 'cargo
-
-  various
-
-  tenant
-
-  ranch
-
-  defy
-
-  total
-
-  all
-
-  pudding'
-bip_39_word_new_line_9: 'cargo
-
-  various
-
-  tenant
-
-  ranch
-
-  defy
-
-  total
-
-  all
-
-  pudding
-
-  swarm'
-bip_39_word_no_space_1: cargo
-bip_39_word_no_space_10: cargovarioustenantranchdefytotalallpuddingswarmcode
-bip_39_word_no_space_11: cargovarioustenantranchdefytotalallpuddingswarmcodetwelve
 bip_39_word_no_space_12: cargovarioustenantranchdefytotalallpuddingswarmcodetwelvealter
 bip_39_word_no_space_2: cargovarious
 bip_39_word_no_space_3: cargovarioustenant
-bip_39_word_no_space_4: cargovarioustenantranch
-bip_39_word_no_space_5: cargovarioustenantranchdefy
-bip_39_word_no_space_6: cargovarioustenantranchdefytotal
-bip_39_word_no_space_7: cargovarioustenantranchdefytotalall
-bip_39_word_no_space_8: cargovarioustenantranchdefytotalallpudding
-bip_39_word_no_space_9: cargovarioustenantranchdefytotalallpuddingswarm
-bip_39_word_space_0:
-- cargo
-- various
-- tenant
-- ranch
-- defy
-- total
-- all
-- pudding
-- swarm
-- code
-- twelve
-- alter
-bip_39_word_space_1: cargo
-bip_39_word_space_10: cargo various tenant ranch defy total all pudding swarm code
-bip_39_word_space_11: cargo various tenant ranch defy total all pudding swarm code
-  twelve
 bip_39_word_space_12: cargo various tenant ranch defy total all pudding swarm code
   twelve alter
 bip_39_word_space_2: cargo various
 bip_39_word_space_3: cargo various tenant
-bip_39_word_space_4: cargo various tenant ranch
-bip_39_word_space_5: cargo various tenant ranch defy
-bip_39_word_space_6: cargo various tenant ranch defy total
-bip_39_word_space_7: cargo various tenant ranch defy total all
-bip_39_word_space_8: cargo various tenant ranch defy total all pudding
-bip_39_word_space_9: cargo various tenant ranch defy total all pudding swarm
-bip_39_word_underscore_1: cargo
-bip_39_word_underscore_10: cargo_various_tenant_ranch_defy_total_all_pudding_swarm_code
-bip_39_word_underscore_11: cargo_various_tenant_ranch_defy_total_all_pudding_swarm_code_twelve
 bip_39_word_underscore_12: cargo_various_tenant_ranch_defy_total_all_pudding_swarm_code_twelve_alter
 bip_39_word_underscore_2: cargo_various
 bip_39_word_underscore_3: cargo_various_tenant
-bip_39_word_underscore_4: cargo_various_tenant_ranch
-bip_39_word_underscore_5: cargo_various_tenant_ranch_defy
-bip_39_word_underscore_6: cargo_various_tenant_ranch_defy_total
-bip_39_word_underscore_7: cargo_various_tenant_ranch_defy_total_all
-bip_39_word_underscore_8: cargo_various_tenant_ranch_defy_total_all_pudding
-bip_39_word_underscore_9: cargo_various_tenant_ranch_defy_total_all_pudding_swarm
 classification: category
 classification_capital: Category
 classification_first_letter: c

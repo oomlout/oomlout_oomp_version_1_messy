@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wing
-bip_39_word_dash_10: wing-raise-demise-extend-actress-village-sorry-maid-expect-knife
-bip_39_word_dash_11: wing-raise-demise-extend-actress-village-sorry-maid-expect-knife-laptop
 bip_39_word_dash_12: wing-raise-demise-extend-actress-village-sorry-maid-expect-knife-laptop-adapt
 bip_39_word_dash_2: wing-raise
 bip_39_word_dash_3: wing-raise-demise
-bip_39_word_dash_4: wing-raise-demise-extend
-bip_39_word_dash_5: wing-raise-demise-extend-actress
-bip_39_word_dash_6: wing-raise-demise-extend-actress-village
-bip_39_word_dash_7: wing-raise-demise-extend-actress-village-sorry
-bip_39_word_dash_8: wing-raise-demise-extend-actress-village-sorry-maid
-bip_39_word_dash_9: wing-raise-demise-extend-actress-village-sorry-maid-expect
-bip_39_word_new_br_1: wing
-bip_39_word_new_br_10: wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect<br>knife
-bip_39_word_new_br_11: wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect<br>knife<br>laptop
 bip_39_word_new_br_12: wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect<br>knife<br>laptop<br>adapt
 bip_39_word_new_br_2: wing<br>raise
 bip_39_word_new_br_3: wing<br>raise<br>demise
-bip_39_word_new_br_4: wing<br>raise<br>demise<br>extend
-bip_39_word_new_br_5: wing<br>raise<br>demise<br>extend<br>actress
-bip_39_word_new_br_6: wing<br>raise<br>demise<br>extend<br>actress<br>village
-bip_39_word_new_br_7: wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry
-bip_39_word_new_br_8: wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid
-bip_39_word_new_br_9: wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect
-bip_39_word_new_line_1: wing
-bip_39_word_new_line_10: 'wing
-
-  raise
-
-  demise
-
-  extend
-
-  actress
-
-  village
-
-  sorry
-
-  maid
-
-  expect
-
-  knife'
-bip_39_word_new_line_11: 'wing
-
-  raise
-
-  demise
-
-  extend
-
-  actress
-
-  village
-
-  sorry
-
-  maid
-
-  expect
-
-  knife
-
-  laptop'
 bip_39_word_new_line_12: 'wing
 
   raise
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wing
   raise
 
   demise'
-bip_39_word_new_line_4: 'wing
-
-  raise
-
-  demise
-
-  extend'
-bip_39_word_new_line_5: 'wing
-
-  raise
-
-  demise
-
-  extend
-
-  actress'
-bip_39_word_new_line_6: 'wing
-
-  raise
-
-  demise
-
-  extend
-
-  actress
-
-  village'
-bip_39_word_new_line_7: 'wing
-
-  raise
-
-  demise
-
-  extend
-
-  actress
-
-  village
-
-  sorry'
-bip_39_word_new_line_8: 'wing
-
-  raise
-
-  demise
-
-  extend
-
-  actress
-
-  village
-
-  sorry
-
-  maid'
-bip_39_word_new_line_9: 'wing
-
-  raise
-
-  demise
-
-  extend
-
-  actress
-
-  village
-
-  sorry
-
-  maid
-
-  expect'
-bip_39_word_no_space_1: wing
-bip_39_word_no_space_10: wingraisedemiseextendactressvillagesorrymaidexpectknife
-bip_39_word_no_space_11: wingraisedemiseextendactressvillagesorrymaidexpectknifelaptop
 bip_39_word_no_space_12: wingraisedemiseextendactressvillagesorrymaidexpectknifelaptopadapt
 bip_39_word_no_space_2: wingraise
 bip_39_word_no_space_3: wingraisedemise
-bip_39_word_no_space_4: wingraisedemiseextend
-bip_39_word_no_space_5: wingraisedemiseextendactress
-bip_39_word_no_space_6: wingraisedemiseextendactressvillage
-bip_39_word_no_space_7: wingraisedemiseextendactressvillagesorry
-bip_39_word_no_space_8: wingraisedemiseextendactressvillagesorrymaid
-bip_39_word_no_space_9: wingraisedemiseextendactressvillagesorrymaidexpect
-bip_39_word_space_0:
-- wing
-- raise
-- demise
-- extend
-- actress
-- village
-- sorry
-- maid
-- expect
-- knife
-- laptop
-- adapt
-bip_39_word_space_1: wing
-bip_39_word_space_10: wing raise demise extend actress village sorry maid expect knife
-bip_39_word_space_11: wing raise demise extend actress village sorry maid expect knife
-  laptop
 bip_39_word_space_12: wing raise demise extend actress village sorry maid expect knife
   laptop adapt
 bip_39_word_space_2: wing raise
 bip_39_word_space_3: wing raise demise
-bip_39_word_space_4: wing raise demise extend
-bip_39_word_space_5: wing raise demise extend actress
-bip_39_word_space_6: wing raise demise extend actress village
-bip_39_word_space_7: wing raise demise extend actress village sorry
-bip_39_word_space_8: wing raise demise extend actress village sorry maid
-bip_39_word_space_9: wing raise demise extend actress village sorry maid expect
-bip_39_word_underscore_1: wing
-bip_39_word_underscore_10: wing_raise_demise_extend_actress_village_sorry_maid_expect_knife
-bip_39_word_underscore_11: wing_raise_demise_extend_actress_village_sorry_maid_expect_knife_laptop
 bip_39_word_underscore_12: wing_raise_demise_extend_actress_village_sorry_maid_expect_knife_laptop_adapt
 bip_39_word_underscore_2: wing_raise
 bip_39_word_underscore_3: wing_raise_demise
-bip_39_word_underscore_4: wing_raise_demise_extend
-bip_39_word_underscore_5: wing_raise_demise_extend_actress
-bip_39_word_underscore_6: wing_raise_demise_extend_actress_village
-bip_39_word_underscore_7: wing_raise_demise_extend_actress_village_sorry
-bip_39_word_underscore_8: wing_raise_demise_extend_actress_village_sorry_maid
-bip_39_word_underscore_9: wing_raise_demise_extend_actress_village_sorry_maid_expect
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shine
-bip_39_word_dash_10: shine-client-bacon-lawn-degree-diamond-taxi-derive-chief-loyal
-bip_39_word_dash_11: shine-client-bacon-lawn-degree-diamond-taxi-derive-chief-loyal-thunder
 bip_39_word_dash_12: shine-client-bacon-lawn-degree-diamond-taxi-derive-chief-loyal-thunder-absorb
 bip_39_word_dash_2: shine-client
 bip_39_word_dash_3: shine-client-bacon
-bip_39_word_dash_4: shine-client-bacon-lawn
-bip_39_word_dash_5: shine-client-bacon-lawn-degree
-bip_39_word_dash_6: shine-client-bacon-lawn-degree-diamond
-bip_39_word_dash_7: shine-client-bacon-lawn-degree-diamond-taxi
-bip_39_word_dash_8: shine-client-bacon-lawn-degree-diamond-taxi-derive
-bip_39_word_dash_9: shine-client-bacon-lawn-degree-diamond-taxi-derive-chief
-bip_39_word_new_br_1: shine
-bip_39_word_new_br_10: shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal
-bip_39_word_new_br_11: shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal<br>thunder
 bip_39_word_new_br_12: shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief<br>loyal<br>thunder<br>absorb
 bip_39_word_new_br_2: shine<br>client
 bip_39_word_new_br_3: shine<br>client<br>bacon
-bip_39_word_new_br_4: shine<br>client<br>bacon<br>lawn
-bip_39_word_new_br_5: shine<br>client<br>bacon<br>lawn<br>degree
-bip_39_word_new_br_6: shine<br>client<br>bacon<br>lawn<br>degree<br>diamond
-bip_39_word_new_br_7: shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi
-bip_39_word_new_br_8: shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive
-bip_39_word_new_br_9: shine<br>client<br>bacon<br>lawn<br>degree<br>diamond<br>taxi<br>derive<br>chief
-bip_39_word_new_line_1: shine
-bip_39_word_new_line_10: 'shine
-
-  client
-
-  bacon
-
-  lawn
-
-  degree
-
-  diamond
-
-  taxi
-
-  derive
-
-  chief
-
-  loyal'
-bip_39_word_new_line_11: 'shine
-
-  client
-
-  bacon
-
-  lawn
-
-  degree
-
-  diamond
-
-  taxi
-
-  derive
-
-  chief
-
-  loyal
-
-  thunder'
 bip_39_word_new_line_12: 'shine
 
   client
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shine
   client
 
   bacon'
-bip_39_word_new_line_4: 'shine
-
-  client
-
-  bacon
-
-  lawn'
-bip_39_word_new_line_5: 'shine
-
-  client
-
-  bacon
-
-  lawn
-
-  degree'
-bip_39_word_new_line_6: 'shine
-
-  client
-
-  bacon
-
-  lawn
-
-  degree
-
-  diamond'
-bip_39_word_new_line_7: 'shine
-
-  client
-
-  bacon
-
-  lawn
-
-  degree
-
-  diamond
-
-  taxi'
-bip_39_word_new_line_8: 'shine
-
-  client
-
-  bacon
-
-  lawn
-
-  degree
-
-  diamond
-
-  taxi
-
-  derive'
-bip_39_word_new_line_9: 'shine
-
-  client
-
-  bacon
-
-  lawn
-
-  degree
-
-  diamond
-
-  taxi
-
-  derive
-
-  chief'
-bip_39_word_no_space_1: shine
-bip_39_word_no_space_10: shineclientbaconlawndegreediamondtaxiderivechiefloyal
-bip_39_word_no_space_11: shineclientbaconlawndegreediamondtaxiderivechiefloyalthunder
 bip_39_word_no_space_12: shineclientbaconlawndegreediamondtaxiderivechiefloyalthunderabsorb
 bip_39_word_no_space_2: shineclient
 bip_39_word_no_space_3: shineclientbacon
-bip_39_word_no_space_4: shineclientbaconlawn
-bip_39_word_no_space_5: shineclientbaconlawndegree
-bip_39_word_no_space_6: shineclientbaconlawndegreediamond
-bip_39_word_no_space_7: shineclientbaconlawndegreediamondtaxi
-bip_39_word_no_space_8: shineclientbaconlawndegreediamondtaxiderive
-bip_39_word_no_space_9: shineclientbaconlawndegreediamondtaxiderivechief
-bip_39_word_space_0:
-- shine
-- client
-- bacon
-- lawn
-- degree
-- diamond
-- taxi
-- derive
-- chief
-- loyal
-- thunder
-- absorb
-bip_39_word_space_1: shine
-bip_39_word_space_10: shine client bacon lawn degree diamond taxi derive chief loyal
-bip_39_word_space_11: shine client bacon lawn degree diamond taxi derive chief loyal
-  thunder
 bip_39_word_space_12: shine client bacon lawn degree diamond taxi derive chief loyal
   thunder absorb
 bip_39_word_space_2: shine client
 bip_39_word_space_3: shine client bacon
-bip_39_word_space_4: shine client bacon lawn
-bip_39_word_space_5: shine client bacon lawn degree
-bip_39_word_space_6: shine client bacon lawn degree diamond
-bip_39_word_space_7: shine client bacon lawn degree diamond taxi
-bip_39_word_space_8: shine client bacon lawn degree diamond taxi derive
-bip_39_word_space_9: shine client bacon lawn degree diamond taxi derive chief
-bip_39_word_underscore_1: shine
-bip_39_word_underscore_10: shine_client_bacon_lawn_degree_diamond_taxi_derive_chief_loyal
-bip_39_word_underscore_11: shine_client_bacon_lawn_degree_diamond_taxi_derive_chief_loyal_thunder
 bip_39_word_underscore_12: shine_client_bacon_lawn_degree_diamond_taxi_derive_chief_loyal_thunder_absorb
 bip_39_word_underscore_2: shine_client
 bip_39_word_underscore_3: shine_client_bacon
-bip_39_word_underscore_4: shine_client_bacon_lawn
-bip_39_word_underscore_5: shine_client_bacon_lawn_degree
-bip_39_word_underscore_6: shine_client_bacon_lawn_degree_diamond
-bip_39_word_underscore_7: shine_client_bacon_lawn_degree_diamond_taxi
-bip_39_word_underscore_8: shine_client_bacon_lawn_degree_diamond_taxi_derive
-bip_39_word_underscore_9: shine_client_bacon_lawn_degree_diamond_taxi_derive_chief
 classification: paper
 classification_capital: Paper
 classification_first_letter: p

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: faint
-bip_39_word_dash_10: faint-agree-body-subject-dog-round-barrel-rice-you-sweet
-bip_39_word_dash_11: faint-agree-body-subject-dog-round-barrel-rice-you-sweet-throw
 bip_39_word_dash_12: faint-agree-body-subject-dog-round-barrel-rice-you-sweet-throw-accuse
 bip_39_word_dash_2: faint-agree
 bip_39_word_dash_3: faint-agree-body
-bip_39_word_dash_4: faint-agree-body-subject
-bip_39_word_dash_5: faint-agree-body-subject-dog
-bip_39_word_dash_6: faint-agree-body-subject-dog-round
-bip_39_word_dash_7: faint-agree-body-subject-dog-round-barrel
-bip_39_word_dash_8: faint-agree-body-subject-dog-round-barrel-rice
-bip_39_word_dash_9: faint-agree-body-subject-dog-round-barrel-rice-you
-bip_39_word_new_br_1: faint
-bip_39_word_new_br_10: faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you<br>sweet
-bip_39_word_new_br_11: faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you<br>sweet<br>throw
 bip_39_word_new_br_12: faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you<br>sweet<br>throw<br>accuse
 bip_39_word_new_br_2: faint<br>agree
 bip_39_word_new_br_3: faint<br>agree<br>body
-bip_39_word_new_br_4: faint<br>agree<br>body<br>subject
-bip_39_word_new_br_5: faint<br>agree<br>body<br>subject<br>dog
-bip_39_word_new_br_6: faint<br>agree<br>body<br>subject<br>dog<br>round
-bip_39_word_new_br_7: faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel
-bip_39_word_new_br_8: faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice
-bip_39_word_new_br_9: faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you
-bip_39_word_new_line_1: faint
-bip_39_word_new_line_10: 'faint
-
-  agree
-
-  body
-
-  subject
-
-  dog
-
-  round
-
-  barrel
-
-  rice
-
-  you
-
-  sweet'
-bip_39_word_new_line_11: 'faint
-
-  agree
-
-  body
-
-  subject
-
-  dog
-
-  round
-
-  barrel
-
-  rice
-
-  you
-
-  sweet
-
-  throw'
 bip_39_word_new_line_12: 'faint
 
   agree
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'faint
   agree
 
   body'
-bip_39_word_new_line_4: 'faint
-
-  agree
-
-  body
-
-  subject'
-bip_39_word_new_line_5: 'faint
-
-  agree
-
-  body
-
-  subject
-
-  dog'
-bip_39_word_new_line_6: 'faint
-
-  agree
-
-  body
-
-  subject
-
-  dog
-
-  round'
-bip_39_word_new_line_7: 'faint
-
-  agree
-
-  body
-
-  subject
-
-  dog
-
-  round
-
-  barrel'
-bip_39_word_new_line_8: 'faint
-
-  agree
-
-  body
-
-  subject
-
-  dog
-
-  round
-
-  barrel
-
-  rice'
-bip_39_word_new_line_9: 'faint
-
-  agree
-
-  body
-
-  subject
-
-  dog
-
-  round
-
-  barrel
-
-  rice
-
-  you'
-bip_39_word_no_space_1: faint
-bip_39_word_no_space_10: faintagreebodysubjectdogroundbarrelriceyousweet
-bip_39_word_no_space_11: faintagreebodysubjectdogroundbarrelriceyousweetthrow
 bip_39_word_no_space_12: faintagreebodysubjectdogroundbarrelriceyousweetthrowaccuse
 bip_39_word_no_space_2: faintagree
 bip_39_word_no_space_3: faintagreebody
-bip_39_word_no_space_4: faintagreebodysubject
-bip_39_word_no_space_5: faintagreebodysubjectdog
-bip_39_word_no_space_6: faintagreebodysubjectdoground
-bip_39_word_no_space_7: faintagreebodysubjectdogroundbarrel
-bip_39_word_no_space_8: faintagreebodysubjectdogroundbarrelrice
-bip_39_word_no_space_9: faintagreebodysubjectdogroundbarrelriceyou
-bip_39_word_space_0:
-- faint
-- agree
-- body
-- subject
-- dog
-- round
-- barrel
-- rice
-- you
-- sweet
-- throw
-- accuse
-bip_39_word_space_1: faint
-bip_39_word_space_10: faint agree body subject dog round barrel rice you sweet
-bip_39_word_space_11: faint agree body subject dog round barrel rice you sweet throw
 bip_39_word_space_12: faint agree body subject dog round barrel rice you sweet throw
   accuse
 bip_39_word_space_2: faint agree
 bip_39_word_space_3: faint agree body
-bip_39_word_space_4: faint agree body subject
-bip_39_word_space_5: faint agree body subject dog
-bip_39_word_space_6: faint agree body subject dog round
-bip_39_word_space_7: faint agree body subject dog round barrel
-bip_39_word_space_8: faint agree body subject dog round barrel rice
-bip_39_word_space_9: faint agree body subject dog round barrel rice you
-bip_39_word_underscore_1: faint
-bip_39_word_underscore_10: faint_agree_body_subject_dog_round_barrel_rice_you_sweet
-bip_39_word_underscore_11: faint_agree_body_subject_dog_round_barrel_rice_you_sweet_throw
 bip_39_word_underscore_12: faint_agree_body_subject_dog_round_barrel_rice_you_sweet_throw_accuse
 bip_39_word_underscore_2: faint_agree
 bip_39_word_underscore_3: faint_agree_body
-bip_39_word_underscore_4: faint_agree_body_subject
-bip_39_word_underscore_5: faint_agree_body_subject_dog
-bip_39_word_underscore_6: faint_agree_body_subject_dog_round
-bip_39_word_underscore_7: faint_agree_body_subject_dog_round_barrel
-bip_39_word_underscore_8: faint_agree_body_subject_dog_round_barrel_rice
-bip_39_word_underscore_9: faint_agree_body_subject_dog_round_barrel_rice_you
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

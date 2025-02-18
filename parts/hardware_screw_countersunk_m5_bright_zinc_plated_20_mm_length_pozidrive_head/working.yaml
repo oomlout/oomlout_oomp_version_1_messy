@@ -1,68 +1,9 @@
-bip_39_word_dash_1: runway
-bip_39_word_dash_10: runway-pioneer-notice-salt-duty-seed-soup-toast-danger-monkey
-bip_39_word_dash_11: runway-pioneer-notice-salt-duty-seed-soup-toast-danger-monkey-since
 bip_39_word_dash_12: runway-pioneer-notice-salt-duty-seed-soup-toast-danger-monkey-since-across
 bip_39_word_dash_2: runway-pioneer
 bip_39_word_dash_3: runway-pioneer-notice
-bip_39_word_dash_4: runway-pioneer-notice-salt
-bip_39_word_dash_5: runway-pioneer-notice-salt-duty
-bip_39_word_dash_6: runway-pioneer-notice-salt-duty-seed
-bip_39_word_dash_7: runway-pioneer-notice-salt-duty-seed-soup
-bip_39_word_dash_8: runway-pioneer-notice-salt-duty-seed-soup-toast
-bip_39_word_dash_9: runway-pioneer-notice-salt-duty-seed-soup-toast-danger
-bip_39_word_new_br_1: runway
-bip_39_word_new_br_10: runway<br>pioneer<br>notice<br>salt<br>duty<br>seed<br>soup<br>toast<br>danger<br>monkey
-bip_39_word_new_br_11: runway<br>pioneer<br>notice<br>salt<br>duty<br>seed<br>soup<br>toast<br>danger<br>monkey<br>since
 bip_39_word_new_br_12: runway<br>pioneer<br>notice<br>salt<br>duty<br>seed<br>soup<br>toast<br>danger<br>monkey<br>since<br>across
 bip_39_word_new_br_2: runway<br>pioneer
 bip_39_word_new_br_3: runway<br>pioneer<br>notice
-bip_39_word_new_br_4: runway<br>pioneer<br>notice<br>salt
-bip_39_word_new_br_5: runway<br>pioneer<br>notice<br>salt<br>duty
-bip_39_word_new_br_6: runway<br>pioneer<br>notice<br>salt<br>duty<br>seed
-bip_39_word_new_br_7: runway<br>pioneer<br>notice<br>salt<br>duty<br>seed<br>soup
-bip_39_word_new_br_8: runway<br>pioneer<br>notice<br>salt<br>duty<br>seed<br>soup<br>toast
-bip_39_word_new_br_9: runway<br>pioneer<br>notice<br>salt<br>duty<br>seed<br>soup<br>toast<br>danger
-bip_39_word_new_line_1: runway
-bip_39_word_new_line_10: 'runway
-
-  pioneer
-
-  notice
-
-  salt
-
-  duty
-
-  seed
-
-  soup
-
-  toast
-
-  danger
-
-  monkey'
-bip_39_word_new_line_11: 'runway
-
-  pioneer
-
-  notice
-
-  salt
-
-  duty
-
-  seed
-
-  soup
-
-  toast
-
-  danger
-
-  monkey
-
-  since'
 bip_39_word_new_line_12: 'runway
 
   pioneer
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'runway
   pioneer
 
   notice'
-bip_39_word_new_line_4: 'runway
-
-  pioneer
-
-  notice
-
-  salt'
-bip_39_word_new_line_5: 'runway
-
-  pioneer
-
-  notice
-
-  salt
-
-  duty'
-bip_39_word_new_line_6: 'runway
-
-  pioneer
-
-  notice
-
-  salt
-
-  duty
-
-  seed'
-bip_39_word_new_line_7: 'runway
-
-  pioneer
-
-  notice
-
-  salt
-
-  duty
-
-  seed
-
-  soup'
-bip_39_word_new_line_8: 'runway
-
-  pioneer
-
-  notice
-
-  salt
-
-  duty
-
-  seed
-
-  soup
-
-  toast'
-bip_39_word_new_line_9: 'runway
-
-  pioneer
-
-  notice
-
-  salt
-
-  duty
-
-  seed
-
-  soup
-
-  toast
-
-  danger'
-bip_39_word_no_space_1: runway
-bip_39_word_no_space_10: runwaypioneernoticesaltdutyseedsouptoastdangermonkey
-bip_39_word_no_space_11: runwaypioneernoticesaltdutyseedsouptoastdangermonkeysince
 bip_39_word_no_space_12: runwaypioneernoticesaltdutyseedsouptoastdangermonkeysinceacross
 bip_39_word_no_space_2: runwaypioneer
 bip_39_word_no_space_3: runwaypioneernotice
-bip_39_word_no_space_4: runwaypioneernoticesalt
-bip_39_word_no_space_5: runwaypioneernoticesaltduty
-bip_39_word_no_space_6: runwaypioneernoticesaltdutyseed
-bip_39_word_no_space_7: runwaypioneernoticesaltdutyseedsoup
-bip_39_word_no_space_8: runwaypioneernoticesaltdutyseedsouptoast
-bip_39_word_no_space_9: runwaypioneernoticesaltdutyseedsouptoastdanger
-bip_39_word_space_0:
-- runway
-- pioneer
-- notice
-- salt
-- duty
-- seed
-- soup
-- toast
-- danger
-- monkey
-- since
-- across
-bip_39_word_space_1: runway
-bip_39_word_space_10: runway pioneer notice salt duty seed soup toast danger monkey
-bip_39_word_space_11: runway pioneer notice salt duty seed soup toast danger monkey
-  since
 bip_39_word_space_12: runway pioneer notice salt duty seed soup toast danger monkey
   since across
 bip_39_word_space_2: runway pioneer
 bip_39_word_space_3: runway pioneer notice
-bip_39_word_space_4: runway pioneer notice salt
-bip_39_word_space_5: runway pioneer notice salt duty
-bip_39_word_space_6: runway pioneer notice salt duty seed
-bip_39_word_space_7: runway pioneer notice salt duty seed soup
-bip_39_word_space_8: runway pioneer notice salt duty seed soup toast
-bip_39_word_space_9: runway pioneer notice salt duty seed soup toast danger
-bip_39_word_underscore_1: runway
-bip_39_word_underscore_10: runway_pioneer_notice_salt_duty_seed_soup_toast_danger_monkey
-bip_39_word_underscore_11: runway_pioneer_notice_salt_duty_seed_soup_toast_danger_monkey_since
 bip_39_word_underscore_12: runway_pioneer_notice_salt_duty_seed_soup_toast_danger_monkey_since_across
 bip_39_word_underscore_2: runway_pioneer
 bip_39_word_underscore_3: runway_pioneer_notice
-bip_39_word_underscore_4: runway_pioneer_notice_salt
-bip_39_word_underscore_5: runway_pioneer_notice_salt_duty
-bip_39_word_underscore_6: runway_pioneer_notice_salt_duty_seed
-bip_39_word_underscore_7: runway_pioneer_notice_salt_duty_seed_soup
-bip_39_word_underscore_8: runway_pioneer_notice_salt_duty_seed_soup_toast
-bip_39_word_underscore_9: runway_pioneer_notice_salt_duty_seed_soup_toast_danger
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

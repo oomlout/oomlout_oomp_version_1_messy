@@ -1,68 +1,9 @@
-bip_39_word_dash_1: debate
-bip_39_word_dash_10: debate-genre-museum-hour-abandon-enrich-banana-gorilla-daughter-repeat
-bip_39_word_dash_11: debate-genre-museum-hour-abandon-enrich-banana-gorilla-daughter-repeat-occur
 bip_39_word_dash_12: debate-genre-museum-hour-abandon-enrich-banana-gorilla-daughter-repeat-occur-again
 bip_39_word_dash_2: debate-genre
 bip_39_word_dash_3: debate-genre-museum
-bip_39_word_dash_4: debate-genre-museum-hour
-bip_39_word_dash_5: debate-genre-museum-hour-abandon
-bip_39_word_dash_6: debate-genre-museum-hour-abandon-enrich
-bip_39_word_dash_7: debate-genre-museum-hour-abandon-enrich-banana
-bip_39_word_dash_8: debate-genre-museum-hour-abandon-enrich-banana-gorilla
-bip_39_word_dash_9: debate-genre-museum-hour-abandon-enrich-banana-gorilla-daughter
-bip_39_word_new_br_1: debate
-bip_39_word_new_br_10: debate<br>genre<br>museum<br>hour<br>abandon<br>enrich<br>banana<br>gorilla<br>daughter<br>repeat
-bip_39_word_new_br_11: debate<br>genre<br>museum<br>hour<br>abandon<br>enrich<br>banana<br>gorilla<br>daughter<br>repeat<br>occur
 bip_39_word_new_br_12: debate<br>genre<br>museum<br>hour<br>abandon<br>enrich<br>banana<br>gorilla<br>daughter<br>repeat<br>occur<br>again
 bip_39_word_new_br_2: debate<br>genre
 bip_39_word_new_br_3: debate<br>genre<br>museum
-bip_39_word_new_br_4: debate<br>genre<br>museum<br>hour
-bip_39_word_new_br_5: debate<br>genre<br>museum<br>hour<br>abandon
-bip_39_word_new_br_6: debate<br>genre<br>museum<br>hour<br>abandon<br>enrich
-bip_39_word_new_br_7: debate<br>genre<br>museum<br>hour<br>abandon<br>enrich<br>banana
-bip_39_word_new_br_8: debate<br>genre<br>museum<br>hour<br>abandon<br>enrich<br>banana<br>gorilla
-bip_39_word_new_br_9: debate<br>genre<br>museum<br>hour<br>abandon<br>enrich<br>banana<br>gorilla<br>daughter
-bip_39_word_new_line_1: debate
-bip_39_word_new_line_10: 'debate
-
-  genre
-
-  museum
-
-  hour
-
-  abandon
-
-  enrich
-
-  banana
-
-  gorilla
-
-  daughter
-
-  repeat'
-bip_39_word_new_line_11: 'debate
-
-  genre
-
-  museum
-
-  hour
-
-  abandon
-
-  enrich
-
-  banana
-
-  gorilla
-
-  daughter
-
-  repeat
-
-  occur'
 bip_39_word_new_line_12: 'debate
 
   genre
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'debate
   genre
 
   museum'
-bip_39_word_new_line_4: 'debate
-
-  genre
-
-  museum
-
-  hour'
-bip_39_word_new_line_5: 'debate
-
-  genre
-
-  museum
-
-  hour
-
-  abandon'
-bip_39_word_new_line_6: 'debate
-
-  genre
-
-  museum
-
-  hour
-
-  abandon
-
-  enrich'
-bip_39_word_new_line_7: 'debate
-
-  genre
-
-  museum
-
-  hour
-
-  abandon
-
-  enrich
-
-  banana'
-bip_39_word_new_line_8: 'debate
-
-  genre
-
-  museum
-
-  hour
-
-  abandon
-
-  enrich
-
-  banana
-
-  gorilla'
-bip_39_word_new_line_9: 'debate
-
-  genre
-
-  museum
-
-  hour
-
-  abandon
-
-  enrich
-
-  banana
-
-  gorilla
-
-  daughter'
-bip_39_word_no_space_1: debate
-bip_39_word_no_space_10: debategenremuseumhourabandonenrichbananagorilladaughterrepeat
-bip_39_word_no_space_11: debategenremuseumhourabandonenrichbananagorilladaughterrepeatoccur
 bip_39_word_no_space_12: debategenremuseumhourabandonenrichbananagorilladaughterrepeatoccuragain
 bip_39_word_no_space_2: debategenre
 bip_39_word_no_space_3: debategenremuseum
-bip_39_word_no_space_4: debategenremuseumhour
-bip_39_word_no_space_5: debategenremuseumhourabandon
-bip_39_word_no_space_6: debategenremuseumhourabandonenrich
-bip_39_word_no_space_7: debategenremuseumhourabandonenrichbanana
-bip_39_word_no_space_8: debategenremuseumhourabandonenrichbananagorilla
-bip_39_word_no_space_9: debategenremuseumhourabandonenrichbananagorilladaughter
-bip_39_word_space_0:
-- debate
-- genre
-- museum
-- hour
-- abandon
-- enrich
-- banana
-- gorilla
-- daughter
-- repeat
-- occur
-- again
-bip_39_word_space_1: debate
-bip_39_word_space_10: debate genre museum hour abandon enrich banana gorilla daughter
-  repeat
-bip_39_word_space_11: debate genre museum hour abandon enrich banana gorilla daughter
-  repeat occur
 bip_39_word_space_12: debate genre museum hour abandon enrich banana gorilla daughter
   repeat occur again
 bip_39_word_space_2: debate genre
 bip_39_word_space_3: debate genre museum
-bip_39_word_space_4: debate genre museum hour
-bip_39_word_space_5: debate genre museum hour abandon
-bip_39_word_space_6: debate genre museum hour abandon enrich
-bip_39_word_space_7: debate genre museum hour abandon enrich banana
-bip_39_word_space_8: debate genre museum hour abandon enrich banana gorilla
-bip_39_word_space_9: debate genre museum hour abandon enrich banana gorilla daughter
-bip_39_word_underscore_1: debate
-bip_39_word_underscore_10: debate_genre_museum_hour_abandon_enrich_banana_gorilla_daughter_repeat
-bip_39_word_underscore_11: debate_genre_museum_hour_abandon_enrich_banana_gorilla_daughter_repeat_occur
 bip_39_word_underscore_12: debate_genre_museum_hour_abandon_enrich_banana_gorilla_daughter_repeat_occur_again
 bip_39_word_underscore_2: debate_genre
 bip_39_word_underscore_3: debate_genre_museum
-bip_39_word_underscore_4: debate_genre_museum_hour
-bip_39_word_underscore_5: debate_genre_museum_hour_abandon
-bip_39_word_underscore_6: debate_genre_museum_hour_abandon_enrich
-bip_39_word_underscore_7: debate_genre_museum_hour_abandon_enrich_banana
-bip_39_word_underscore_8: debate_genre_museum_hour_abandon_enrich_banana_gorilla
-bip_39_word_underscore_9: debate_genre_museum_hour_abandon_enrich_banana_gorilla_daughter
 classification: category
 classification_capital: Category
 classification_first_letter: c

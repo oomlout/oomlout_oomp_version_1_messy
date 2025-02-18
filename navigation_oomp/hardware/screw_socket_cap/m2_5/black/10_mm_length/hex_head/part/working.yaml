@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bridge
-bip_39_word_dash_10: bridge-shield-misery-canyon-approve-orchard-harbor-clog-print-chef
-bip_39_word_dash_11: bridge-shield-misery-canyon-approve-orchard-harbor-clog-print-chef-enhance
 bip_39_word_dash_12: bridge-shield-misery-canyon-approve-orchard-harbor-clog-print-chef-enhance-amused
 bip_39_word_dash_2: bridge-shield
 bip_39_word_dash_3: bridge-shield-misery
-bip_39_word_dash_4: bridge-shield-misery-canyon
-bip_39_word_dash_5: bridge-shield-misery-canyon-approve
-bip_39_word_dash_6: bridge-shield-misery-canyon-approve-orchard
-bip_39_word_dash_7: bridge-shield-misery-canyon-approve-orchard-harbor
-bip_39_word_dash_8: bridge-shield-misery-canyon-approve-orchard-harbor-clog
-bip_39_word_dash_9: bridge-shield-misery-canyon-approve-orchard-harbor-clog-print
-bip_39_word_new_br_1: bridge
-bip_39_word_new_br_10: bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog<br>print<br>chef
-bip_39_word_new_br_11: bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog<br>print<br>chef<br>enhance
 bip_39_word_new_br_12: bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog<br>print<br>chef<br>enhance<br>amused
 bip_39_word_new_br_2: bridge<br>shield
 bip_39_word_new_br_3: bridge<br>shield<br>misery
-bip_39_word_new_br_4: bridge<br>shield<br>misery<br>canyon
-bip_39_word_new_br_5: bridge<br>shield<br>misery<br>canyon<br>approve
-bip_39_word_new_br_6: bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard
-bip_39_word_new_br_7: bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor
-bip_39_word_new_br_8: bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog
-bip_39_word_new_br_9: bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog<br>print
-bip_39_word_new_line_1: bridge
-bip_39_word_new_line_10: 'bridge
-
-  shield
-
-  misery
-
-  canyon
-
-  approve
-
-  orchard
-
-  harbor
-
-  clog
-
-  print
-
-  chef'
-bip_39_word_new_line_11: 'bridge
-
-  shield
-
-  misery
-
-  canyon
-
-  approve
-
-  orchard
-
-  harbor
-
-  clog
-
-  print
-
-  chef
-
-  enhance'
 bip_39_word_new_line_12: 'bridge
 
   shield
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bridge
   shield
 
   misery'
-bip_39_word_new_line_4: 'bridge
-
-  shield
-
-  misery
-
-  canyon'
-bip_39_word_new_line_5: 'bridge
-
-  shield
-
-  misery
-
-  canyon
-
-  approve'
-bip_39_word_new_line_6: 'bridge
-
-  shield
-
-  misery
-
-  canyon
-
-  approve
-
-  orchard'
-bip_39_word_new_line_7: 'bridge
-
-  shield
-
-  misery
-
-  canyon
-
-  approve
-
-  orchard
-
-  harbor'
-bip_39_word_new_line_8: 'bridge
-
-  shield
-
-  misery
-
-  canyon
-
-  approve
-
-  orchard
-
-  harbor
-
-  clog'
-bip_39_word_new_line_9: 'bridge
-
-  shield
-
-  misery
-
-  canyon
-
-  approve
-
-  orchard
-
-  harbor
-
-  clog
-
-  print'
-bip_39_word_no_space_1: bridge
-bip_39_word_no_space_10: bridgeshieldmiserycanyonapproveorchardharborclogprintchef
-bip_39_word_no_space_11: bridgeshieldmiserycanyonapproveorchardharborclogprintchefenhance
 bip_39_word_no_space_12: bridgeshieldmiserycanyonapproveorchardharborclogprintchefenhanceamused
 bip_39_word_no_space_2: bridgeshield
 bip_39_word_no_space_3: bridgeshieldmisery
-bip_39_word_no_space_4: bridgeshieldmiserycanyon
-bip_39_word_no_space_5: bridgeshieldmiserycanyonapprove
-bip_39_word_no_space_6: bridgeshieldmiserycanyonapproveorchard
-bip_39_word_no_space_7: bridgeshieldmiserycanyonapproveorchardharbor
-bip_39_word_no_space_8: bridgeshieldmiserycanyonapproveorchardharborclog
-bip_39_word_no_space_9: bridgeshieldmiserycanyonapproveorchardharborclogprint
-bip_39_word_space_0:
-- bridge
-- shield
-- misery
-- canyon
-- approve
-- orchard
-- harbor
-- clog
-- print
-- chef
-- enhance
-- amused
-bip_39_word_space_1: bridge
-bip_39_word_space_10: bridge shield misery canyon approve orchard harbor clog print
-  chef
-bip_39_word_space_11: bridge shield misery canyon approve orchard harbor clog print
-  chef enhance
 bip_39_word_space_12: bridge shield misery canyon approve orchard harbor clog print
   chef enhance amused
 bip_39_word_space_2: bridge shield
 bip_39_word_space_3: bridge shield misery
-bip_39_word_space_4: bridge shield misery canyon
-bip_39_word_space_5: bridge shield misery canyon approve
-bip_39_word_space_6: bridge shield misery canyon approve orchard
-bip_39_word_space_7: bridge shield misery canyon approve orchard harbor
-bip_39_word_space_8: bridge shield misery canyon approve orchard harbor clog
-bip_39_word_space_9: bridge shield misery canyon approve orchard harbor clog print
-bip_39_word_underscore_1: bridge
-bip_39_word_underscore_10: bridge_shield_misery_canyon_approve_orchard_harbor_clog_print_chef
-bip_39_word_underscore_11: bridge_shield_misery_canyon_approve_orchard_harbor_clog_print_chef_enhance
 bip_39_word_underscore_12: bridge_shield_misery_canyon_approve_orchard_harbor_clog_print_chef_enhance_amused
 bip_39_word_underscore_2: bridge_shield
 bip_39_word_underscore_3: bridge_shield_misery
-bip_39_word_underscore_4: bridge_shield_misery_canyon
-bip_39_word_underscore_5: bridge_shield_misery_canyon_approve
-bip_39_word_underscore_6: bridge_shield_misery_canyon_approve_orchard
-bip_39_word_underscore_7: bridge_shield_misery_canyon_approve_orchard_harbor
-bip_39_word_underscore_8: bridge_shield_misery_canyon_approve_orchard_harbor_clog
-bip_39_word_underscore_9: bridge_shield_misery_canyon_approve_orchard_harbor_clog_print
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: armor
-bip_39_word_dash_10: armor-range-foam-shine-second-torch-subject-banana-dad-razor
-bip_39_word_dash_11: armor-range-foam-shine-second-torch-subject-banana-dad-razor-island
 bip_39_word_dash_12: armor-range-foam-shine-second-torch-subject-banana-dad-razor-island-address
 bip_39_word_dash_2: armor-range
 bip_39_word_dash_3: armor-range-foam
-bip_39_word_dash_4: armor-range-foam-shine
-bip_39_word_dash_5: armor-range-foam-shine-second
-bip_39_word_dash_6: armor-range-foam-shine-second-torch
-bip_39_word_dash_7: armor-range-foam-shine-second-torch-subject
-bip_39_word_dash_8: armor-range-foam-shine-second-torch-subject-banana
-bip_39_word_dash_9: armor-range-foam-shine-second-torch-subject-banana-dad
-bip_39_word_new_br_1: armor
-bip_39_word_new_br_10: armor<br>range<br>foam<br>shine<br>second<br>torch<br>subject<br>banana<br>dad<br>razor
-bip_39_word_new_br_11: armor<br>range<br>foam<br>shine<br>second<br>torch<br>subject<br>banana<br>dad<br>razor<br>island
 bip_39_word_new_br_12: armor<br>range<br>foam<br>shine<br>second<br>torch<br>subject<br>banana<br>dad<br>razor<br>island<br>address
 bip_39_word_new_br_2: armor<br>range
 bip_39_word_new_br_3: armor<br>range<br>foam
-bip_39_word_new_br_4: armor<br>range<br>foam<br>shine
-bip_39_word_new_br_5: armor<br>range<br>foam<br>shine<br>second
-bip_39_word_new_br_6: armor<br>range<br>foam<br>shine<br>second<br>torch
-bip_39_word_new_br_7: armor<br>range<br>foam<br>shine<br>second<br>torch<br>subject
-bip_39_word_new_br_8: armor<br>range<br>foam<br>shine<br>second<br>torch<br>subject<br>banana
-bip_39_word_new_br_9: armor<br>range<br>foam<br>shine<br>second<br>torch<br>subject<br>banana<br>dad
-bip_39_word_new_line_1: armor
-bip_39_word_new_line_10: 'armor
-
-  range
-
-  foam
-
-  shine
-
-  second
-
-  torch
-
-  subject
-
-  banana
-
-  dad
-
-  razor'
-bip_39_word_new_line_11: 'armor
-
-  range
-
-  foam
-
-  shine
-
-  second
-
-  torch
-
-  subject
-
-  banana
-
-  dad
-
-  razor
-
-  island'
 bip_39_word_new_line_12: 'armor
 
   range
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'armor
   range
 
   foam'
-bip_39_word_new_line_4: 'armor
-
-  range
-
-  foam
-
-  shine'
-bip_39_word_new_line_5: 'armor
-
-  range
-
-  foam
-
-  shine
-
-  second'
-bip_39_word_new_line_6: 'armor
-
-  range
-
-  foam
-
-  shine
-
-  second
-
-  torch'
-bip_39_word_new_line_7: 'armor
-
-  range
-
-  foam
-
-  shine
-
-  second
-
-  torch
-
-  subject'
-bip_39_word_new_line_8: 'armor
-
-  range
-
-  foam
-
-  shine
-
-  second
-
-  torch
-
-  subject
-
-  banana'
-bip_39_word_new_line_9: 'armor
-
-  range
-
-  foam
-
-  shine
-
-  second
-
-  torch
-
-  subject
-
-  banana
-
-  dad'
-bip_39_word_no_space_1: armor
-bip_39_word_no_space_10: armorrangefoamshinesecondtorchsubjectbananadadrazor
-bip_39_word_no_space_11: armorrangefoamshinesecondtorchsubjectbananadadrazorisland
 bip_39_word_no_space_12: armorrangefoamshinesecondtorchsubjectbananadadrazorislandaddress
 bip_39_word_no_space_2: armorrange
 bip_39_word_no_space_3: armorrangefoam
-bip_39_word_no_space_4: armorrangefoamshine
-bip_39_word_no_space_5: armorrangefoamshinesecond
-bip_39_word_no_space_6: armorrangefoamshinesecondtorch
-bip_39_word_no_space_7: armorrangefoamshinesecondtorchsubject
-bip_39_word_no_space_8: armorrangefoamshinesecondtorchsubjectbanana
-bip_39_word_no_space_9: armorrangefoamshinesecondtorchsubjectbananadad
-bip_39_word_space_0:
-- armor
-- range
-- foam
-- shine
-- second
-- torch
-- subject
-- banana
-- dad
-- razor
-- island
-- address
-bip_39_word_space_1: armor
-bip_39_word_space_10: armor range foam shine second torch subject banana dad razor
-bip_39_word_space_11: armor range foam shine second torch subject banana dad razor
-  island
 bip_39_word_space_12: armor range foam shine second torch subject banana dad razor
   island address
 bip_39_word_space_2: armor range
 bip_39_word_space_3: armor range foam
-bip_39_word_space_4: armor range foam shine
-bip_39_word_space_5: armor range foam shine second
-bip_39_word_space_6: armor range foam shine second torch
-bip_39_word_space_7: armor range foam shine second torch subject
-bip_39_word_space_8: armor range foam shine second torch subject banana
-bip_39_word_space_9: armor range foam shine second torch subject banana dad
-bip_39_word_underscore_1: armor
-bip_39_word_underscore_10: armor_range_foam_shine_second_torch_subject_banana_dad_razor
-bip_39_word_underscore_11: armor_range_foam_shine_second_torch_subject_banana_dad_razor_island
 bip_39_word_underscore_12: armor_range_foam_shine_second_torch_subject_banana_dad_razor_island_address
 bip_39_word_underscore_2: armor_range
 bip_39_word_underscore_3: armor_range_foam
-bip_39_word_underscore_4: armor_range_foam_shine
-bip_39_word_underscore_5: armor_range_foam_shine_second
-bip_39_word_underscore_6: armor_range_foam_shine_second_torch
-bip_39_word_underscore_7: armor_range_foam_shine_second_torch_subject
-bip_39_word_underscore_8: armor_range_foam_shine_second_torch_subject_banana
-bip_39_word_underscore_9: armor_range_foam_shine_second_torch_subject_banana_dad
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

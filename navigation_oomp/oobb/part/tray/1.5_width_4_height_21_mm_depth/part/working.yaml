@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pizza
-bip_39_word_dash_10: pizza-brand-cherry-sweet-spoil-vanish-smart-number-mutual-beach
-bip_39_word_dash_11: pizza-brand-cherry-sweet-spoil-vanish-smart-number-mutual-beach-nose
 bip_39_word_dash_12: pizza-brand-cherry-sweet-spoil-vanish-smart-number-mutual-beach-nose-alert
 bip_39_word_dash_2: pizza-brand
 bip_39_word_dash_3: pizza-brand-cherry
-bip_39_word_dash_4: pizza-brand-cherry-sweet
-bip_39_word_dash_5: pizza-brand-cherry-sweet-spoil
-bip_39_word_dash_6: pizza-brand-cherry-sweet-spoil-vanish
-bip_39_word_dash_7: pizza-brand-cherry-sweet-spoil-vanish-smart
-bip_39_word_dash_8: pizza-brand-cherry-sweet-spoil-vanish-smart-number
-bip_39_word_dash_9: pizza-brand-cherry-sweet-spoil-vanish-smart-number-mutual
-bip_39_word_new_br_1: pizza
-bip_39_word_new_br_10: pizza<br>brand<br>cherry<br>sweet<br>spoil<br>vanish<br>smart<br>number<br>mutual<br>beach
-bip_39_word_new_br_11: pizza<br>brand<br>cherry<br>sweet<br>spoil<br>vanish<br>smart<br>number<br>mutual<br>beach<br>nose
 bip_39_word_new_br_12: pizza<br>brand<br>cherry<br>sweet<br>spoil<br>vanish<br>smart<br>number<br>mutual<br>beach<br>nose<br>alert
 bip_39_word_new_br_2: pizza<br>brand
 bip_39_word_new_br_3: pizza<br>brand<br>cherry
-bip_39_word_new_br_4: pizza<br>brand<br>cherry<br>sweet
-bip_39_word_new_br_5: pizza<br>brand<br>cherry<br>sweet<br>spoil
-bip_39_word_new_br_6: pizza<br>brand<br>cherry<br>sweet<br>spoil<br>vanish
-bip_39_word_new_br_7: pizza<br>brand<br>cherry<br>sweet<br>spoil<br>vanish<br>smart
-bip_39_word_new_br_8: pizza<br>brand<br>cherry<br>sweet<br>spoil<br>vanish<br>smart<br>number
-bip_39_word_new_br_9: pizza<br>brand<br>cherry<br>sweet<br>spoil<br>vanish<br>smart<br>number<br>mutual
-bip_39_word_new_line_1: pizza
-bip_39_word_new_line_10: 'pizza
-
-  brand
-
-  cherry
-
-  sweet
-
-  spoil
-
-  vanish
-
-  smart
-
-  number
-
-  mutual
-
-  beach'
-bip_39_word_new_line_11: 'pizza
-
-  brand
-
-  cherry
-
-  sweet
-
-  spoil
-
-  vanish
-
-  smart
-
-  number
-
-  mutual
-
-  beach
-
-  nose'
 bip_39_word_new_line_12: 'pizza
 
   brand
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'pizza
   brand
 
   cherry'
-bip_39_word_new_line_4: 'pizza
-
-  brand
-
-  cherry
-
-  sweet'
-bip_39_word_new_line_5: 'pizza
-
-  brand
-
-  cherry
-
-  sweet
-
-  spoil'
-bip_39_word_new_line_6: 'pizza
-
-  brand
-
-  cherry
-
-  sweet
-
-  spoil
-
-  vanish'
-bip_39_word_new_line_7: 'pizza
-
-  brand
-
-  cherry
-
-  sweet
-
-  spoil
-
-  vanish
-
-  smart'
-bip_39_word_new_line_8: 'pizza
-
-  brand
-
-  cherry
-
-  sweet
-
-  spoil
-
-  vanish
-
-  smart
-
-  number'
-bip_39_word_new_line_9: 'pizza
-
-  brand
-
-  cherry
-
-  sweet
-
-  spoil
-
-  vanish
-
-  smart
-
-  number
-
-  mutual'
-bip_39_word_no_space_1: pizza
-bip_39_word_no_space_10: pizzabrandcherrysweetspoilvanishsmartnumbermutualbeach
-bip_39_word_no_space_11: pizzabrandcherrysweetspoilvanishsmartnumbermutualbeachnose
 bip_39_word_no_space_12: pizzabrandcherrysweetspoilvanishsmartnumbermutualbeachnosealert
 bip_39_word_no_space_2: pizzabrand
 bip_39_word_no_space_3: pizzabrandcherry
-bip_39_word_no_space_4: pizzabrandcherrysweet
-bip_39_word_no_space_5: pizzabrandcherrysweetspoil
-bip_39_word_no_space_6: pizzabrandcherrysweetspoilvanish
-bip_39_word_no_space_7: pizzabrandcherrysweetspoilvanishsmart
-bip_39_word_no_space_8: pizzabrandcherrysweetspoilvanishsmartnumber
-bip_39_word_no_space_9: pizzabrandcherrysweetspoilvanishsmartnumbermutual
-bip_39_word_space_0:
-- pizza
-- brand
-- cherry
-- sweet
-- spoil
-- vanish
-- smart
-- number
-- mutual
-- beach
-- nose
-- alert
-bip_39_word_space_1: pizza
-bip_39_word_space_10: pizza brand cherry sweet spoil vanish smart number mutual beach
-bip_39_word_space_11: pizza brand cherry sweet spoil vanish smart number mutual beach
-  nose
 bip_39_word_space_12: pizza brand cherry sweet spoil vanish smart number mutual beach
   nose alert
 bip_39_word_space_2: pizza brand
 bip_39_word_space_3: pizza brand cherry
-bip_39_word_space_4: pizza brand cherry sweet
-bip_39_word_space_5: pizza brand cherry sweet spoil
-bip_39_word_space_6: pizza brand cherry sweet spoil vanish
-bip_39_word_space_7: pizza brand cherry sweet spoil vanish smart
-bip_39_word_space_8: pizza brand cherry sweet spoil vanish smart number
-bip_39_word_space_9: pizza brand cherry sweet spoil vanish smart number mutual
-bip_39_word_underscore_1: pizza
-bip_39_word_underscore_10: pizza_brand_cherry_sweet_spoil_vanish_smart_number_mutual_beach
-bip_39_word_underscore_11: pizza_brand_cherry_sweet_spoil_vanish_smart_number_mutual_beach_nose
 bip_39_word_underscore_12: pizza_brand_cherry_sweet_spoil_vanish_smart_number_mutual_beach_nose_alert
 bip_39_word_underscore_2: pizza_brand
 bip_39_word_underscore_3: pizza_brand_cherry
-bip_39_word_underscore_4: pizza_brand_cherry_sweet
-bip_39_word_underscore_5: pizza_brand_cherry_sweet_spoil
-bip_39_word_underscore_6: pizza_brand_cherry_sweet_spoil_vanish
-bip_39_word_underscore_7: pizza_brand_cherry_sweet_spoil_vanish_smart
-bip_39_word_underscore_8: pizza_brand_cherry_sweet_spoil_vanish_smart_number
-bip_39_word_underscore_9: pizza_brand_cherry_sweet_spoil_vanish_smart_number_mutual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

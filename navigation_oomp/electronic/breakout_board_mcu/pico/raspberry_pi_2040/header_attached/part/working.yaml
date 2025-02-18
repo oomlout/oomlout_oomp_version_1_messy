@@ -1,68 +1,9 @@
-bip_39_word_dash_1: announce
-bip_39_word_dash_10: announce-glass-infant-merry-fault-inner-silly-trap-crime-upper
-bip_39_word_dash_11: announce-glass-infant-merry-fault-inner-silly-trap-crime-upper-carbon
 bip_39_word_dash_12: announce-glass-infant-merry-fault-inner-silly-trap-crime-upper-carbon-arch
 bip_39_word_dash_2: announce-glass
 bip_39_word_dash_3: announce-glass-infant
-bip_39_word_dash_4: announce-glass-infant-merry
-bip_39_word_dash_5: announce-glass-infant-merry-fault
-bip_39_word_dash_6: announce-glass-infant-merry-fault-inner
-bip_39_word_dash_7: announce-glass-infant-merry-fault-inner-silly
-bip_39_word_dash_8: announce-glass-infant-merry-fault-inner-silly-trap
-bip_39_word_dash_9: announce-glass-infant-merry-fault-inner-silly-trap-crime
-bip_39_word_new_br_1: announce
-bip_39_word_new_br_10: announce<br>glass<br>infant<br>merry<br>fault<br>inner<br>silly<br>trap<br>crime<br>upper
-bip_39_word_new_br_11: announce<br>glass<br>infant<br>merry<br>fault<br>inner<br>silly<br>trap<br>crime<br>upper<br>carbon
 bip_39_word_new_br_12: announce<br>glass<br>infant<br>merry<br>fault<br>inner<br>silly<br>trap<br>crime<br>upper<br>carbon<br>arch
 bip_39_word_new_br_2: announce<br>glass
 bip_39_word_new_br_3: announce<br>glass<br>infant
-bip_39_word_new_br_4: announce<br>glass<br>infant<br>merry
-bip_39_word_new_br_5: announce<br>glass<br>infant<br>merry<br>fault
-bip_39_word_new_br_6: announce<br>glass<br>infant<br>merry<br>fault<br>inner
-bip_39_word_new_br_7: announce<br>glass<br>infant<br>merry<br>fault<br>inner<br>silly
-bip_39_word_new_br_8: announce<br>glass<br>infant<br>merry<br>fault<br>inner<br>silly<br>trap
-bip_39_word_new_br_9: announce<br>glass<br>infant<br>merry<br>fault<br>inner<br>silly<br>trap<br>crime
-bip_39_word_new_line_1: announce
-bip_39_word_new_line_10: 'announce
-
-  glass
-
-  infant
-
-  merry
-
-  fault
-
-  inner
-
-  silly
-
-  trap
-
-  crime
-
-  upper'
-bip_39_word_new_line_11: 'announce
-
-  glass
-
-  infant
-
-  merry
-
-  fault
-
-  inner
-
-  silly
-
-  trap
-
-  crime
-
-  upper
-
-  carbon'
 bip_39_word_new_line_12: 'announce
 
   glass
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'announce
   glass
 
   infant'
-bip_39_word_new_line_4: 'announce
-
-  glass
-
-  infant
-
-  merry'
-bip_39_word_new_line_5: 'announce
-
-  glass
-
-  infant
-
-  merry
-
-  fault'
-bip_39_word_new_line_6: 'announce
-
-  glass
-
-  infant
-
-  merry
-
-  fault
-
-  inner'
-bip_39_word_new_line_7: 'announce
-
-  glass
-
-  infant
-
-  merry
-
-  fault
-
-  inner
-
-  silly'
-bip_39_word_new_line_8: 'announce
-
-  glass
-
-  infant
-
-  merry
-
-  fault
-
-  inner
-
-  silly
-
-  trap'
-bip_39_word_new_line_9: 'announce
-
-  glass
-
-  infant
-
-  merry
-
-  fault
-
-  inner
-
-  silly
-
-  trap
-
-  crime'
-bip_39_word_no_space_1: announce
-bip_39_word_no_space_10: announceglassinfantmerryfaultinnersillytrapcrimeupper
-bip_39_word_no_space_11: announceglassinfantmerryfaultinnersillytrapcrimeuppercarbon
 bip_39_word_no_space_12: announceglassinfantmerryfaultinnersillytrapcrimeuppercarbonarch
 bip_39_word_no_space_2: announceglass
 bip_39_word_no_space_3: announceglassinfant
-bip_39_word_no_space_4: announceglassinfantmerry
-bip_39_word_no_space_5: announceglassinfantmerryfault
-bip_39_word_no_space_6: announceglassinfantmerryfaultinner
-bip_39_word_no_space_7: announceglassinfantmerryfaultinnersilly
-bip_39_word_no_space_8: announceglassinfantmerryfaultinnersillytrap
-bip_39_word_no_space_9: announceglassinfantmerryfaultinnersillytrapcrime
-bip_39_word_space_0:
-- announce
-- glass
-- infant
-- merry
-- fault
-- inner
-- silly
-- trap
-- crime
-- upper
-- carbon
-- arch
-bip_39_word_space_1: announce
-bip_39_word_space_10: announce glass infant merry fault inner silly trap crime upper
-bip_39_word_space_11: announce glass infant merry fault inner silly trap crime upper
-  carbon
 bip_39_word_space_12: announce glass infant merry fault inner silly trap crime upper
   carbon arch
 bip_39_word_space_2: announce glass
 bip_39_word_space_3: announce glass infant
-bip_39_word_space_4: announce glass infant merry
-bip_39_word_space_5: announce glass infant merry fault
-bip_39_word_space_6: announce glass infant merry fault inner
-bip_39_word_space_7: announce glass infant merry fault inner silly
-bip_39_word_space_8: announce glass infant merry fault inner silly trap
-bip_39_word_space_9: announce glass infant merry fault inner silly trap crime
-bip_39_word_underscore_1: announce
-bip_39_word_underscore_10: announce_glass_infant_merry_fault_inner_silly_trap_crime_upper
-bip_39_word_underscore_11: announce_glass_infant_merry_fault_inner_silly_trap_crime_upper_carbon
 bip_39_word_underscore_12: announce_glass_infant_merry_fault_inner_silly_trap_crime_upper_carbon_arch
 bip_39_word_underscore_2: announce_glass
 bip_39_word_underscore_3: announce_glass_infant
-bip_39_word_underscore_4: announce_glass_infant_merry
-bip_39_word_underscore_5: announce_glass_infant_merry_fault
-bip_39_word_underscore_6: announce_glass_infant_merry_fault_inner
-bip_39_word_underscore_7: announce_glass_infant_merry_fault_inner_silly
-bip_39_word_underscore_8: announce_glass_infant_merry_fault_inner_silly_trap
-bip_39_word_underscore_9: announce_glass_infant_merry_fault_inner_silly_trap_crime
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

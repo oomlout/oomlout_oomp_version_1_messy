@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bench
-bip_39_word_dash_10: bench-clutch-dove-orient-laptop-whip-uncle-chicken-occur-glance
-bip_39_word_dash_11: bench-clutch-dove-orient-laptop-whip-uncle-chicken-occur-glance-debate
 bip_39_word_dash_12: bench-clutch-dove-orient-laptop-whip-uncle-chicken-occur-glance-debate-accident
 bip_39_word_dash_2: bench-clutch
 bip_39_word_dash_3: bench-clutch-dove
-bip_39_word_dash_4: bench-clutch-dove-orient
-bip_39_word_dash_5: bench-clutch-dove-orient-laptop
-bip_39_word_dash_6: bench-clutch-dove-orient-laptop-whip
-bip_39_word_dash_7: bench-clutch-dove-orient-laptop-whip-uncle
-bip_39_word_dash_8: bench-clutch-dove-orient-laptop-whip-uncle-chicken
-bip_39_word_dash_9: bench-clutch-dove-orient-laptop-whip-uncle-chicken-occur
-bip_39_word_new_br_1: bench
-bip_39_word_new_br_10: bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken<br>occur<br>glance
-bip_39_word_new_br_11: bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken<br>occur<br>glance<br>debate
 bip_39_word_new_br_12: bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken<br>occur<br>glance<br>debate<br>accident
 bip_39_word_new_br_2: bench<br>clutch
 bip_39_word_new_br_3: bench<br>clutch<br>dove
-bip_39_word_new_br_4: bench<br>clutch<br>dove<br>orient
-bip_39_word_new_br_5: bench<br>clutch<br>dove<br>orient<br>laptop
-bip_39_word_new_br_6: bench<br>clutch<br>dove<br>orient<br>laptop<br>whip
-bip_39_word_new_br_7: bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle
-bip_39_word_new_br_8: bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken
-bip_39_word_new_br_9: bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken<br>occur
-bip_39_word_new_line_1: bench
-bip_39_word_new_line_10: 'bench
-
-  clutch
-
-  dove
-
-  orient
-
-  laptop
-
-  whip
-
-  uncle
-
-  chicken
-
-  occur
-
-  glance'
-bip_39_word_new_line_11: 'bench
-
-  clutch
-
-  dove
-
-  orient
-
-  laptop
-
-  whip
-
-  uncle
-
-  chicken
-
-  occur
-
-  glance
-
-  debate'
 bip_39_word_new_line_12: 'bench
 
   clutch
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bench
   clutch
 
   dove'
-bip_39_word_new_line_4: 'bench
-
-  clutch
-
-  dove
-
-  orient'
-bip_39_word_new_line_5: 'bench
-
-  clutch
-
-  dove
-
-  orient
-
-  laptop'
-bip_39_word_new_line_6: 'bench
-
-  clutch
-
-  dove
-
-  orient
-
-  laptop
-
-  whip'
-bip_39_word_new_line_7: 'bench
-
-  clutch
-
-  dove
-
-  orient
-
-  laptop
-
-  whip
-
-  uncle'
-bip_39_word_new_line_8: 'bench
-
-  clutch
-
-  dove
-
-  orient
-
-  laptop
-
-  whip
-
-  uncle
-
-  chicken'
-bip_39_word_new_line_9: 'bench
-
-  clutch
-
-  dove
-
-  orient
-
-  laptop
-
-  whip
-
-  uncle
-
-  chicken
-
-  occur'
-bip_39_word_no_space_1: bench
-bip_39_word_no_space_10: benchclutchdoveorientlaptopwhipunclechickenoccurglance
-bip_39_word_no_space_11: benchclutchdoveorientlaptopwhipunclechickenoccurglancedebate
 bip_39_word_no_space_12: benchclutchdoveorientlaptopwhipunclechickenoccurglancedebateaccident
 bip_39_word_no_space_2: benchclutch
 bip_39_word_no_space_3: benchclutchdove
-bip_39_word_no_space_4: benchclutchdoveorient
-bip_39_word_no_space_5: benchclutchdoveorientlaptop
-bip_39_word_no_space_6: benchclutchdoveorientlaptopwhip
-bip_39_word_no_space_7: benchclutchdoveorientlaptopwhipuncle
-bip_39_word_no_space_8: benchclutchdoveorientlaptopwhipunclechicken
-bip_39_word_no_space_9: benchclutchdoveorientlaptopwhipunclechickenoccur
-bip_39_word_space_0:
-- bench
-- clutch
-- dove
-- orient
-- laptop
-- whip
-- uncle
-- chicken
-- occur
-- glance
-- debate
-- accident
-bip_39_word_space_1: bench
-bip_39_word_space_10: bench clutch dove orient laptop whip uncle chicken occur glance
-bip_39_word_space_11: bench clutch dove orient laptop whip uncle chicken occur glance
-  debate
 bip_39_word_space_12: bench clutch dove orient laptop whip uncle chicken occur glance
   debate accident
 bip_39_word_space_2: bench clutch
 bip_39_word_space_3: bench clutch dove
-bip_39_word_space_4: bench clutch dove orient
-bip_39_word_space_5: bench clutch dove orient laptop
-bip_39_word_space_6: bench clutch dove orient laptop whip
-bip_39_word_space_7: bench clutch dove orient laptop whip uncle
-bip_39_word_space_8: bench clutch dove orient laptop whip uncle chicken
-bip_39_word_space_9: bench clutch dove orient laptop whip uncle chicken occur
-bip_39_word_underscore_1: bench
-bip_39_word_underscore_10: bench_clutch_dove_orient_laptop_whip_uncle_chicken_occur_glance
-bip_39_word_underscore_11: bench_clutch_dove_orient_laptop_whip_uncle_chicken_occur_glance_debate
 bip_39_word_underscore_12: bench_clutch_dove_orient_laptop_whip_uncle_chicken_occur_glance_debate_accident
 bip_39_word_underscore_2: bench_clutch
 bip_39_word_underscore_3: bench_clutch_dove
-bip_39_word_underscore_4: bench_clutch_dove_orient
-bip_39_word_underscore_5: bench_clutch_dove_orient_laptop
-bip_39_word_underscore_6: bench_clutch_dove_orient_laptop_whip
-bip_39_word_underscore_7: bench_clutch_dove_orient_laptop_whip_uncle
-bip_39_word_underscore_8: bench_clutch_dove_orient_laptop_whip_uncle_chicken
-bip_39_word_underscore_9: bench_clutch_dove_orient_laptop_whip_uncle_chicken_occur
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

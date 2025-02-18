@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fine
-bip_39_word_dash_10: fine-today-differ-jump-frost-wait-foot-convince-couple-arm
-bip_39_word_dash_11: fine-today-differ-jump-frost-wait-foot-convince-couple-arm-seed
 bip_39_word_dash_12: fine-today-differ-jump-frost-wait-foot-convince-couple-arm-seed-alcohol
 bip_39_word_dash_2: fine-today
 bip_39_word_dash_3: fine-today-differ
-bip_39_word_dash_4: fine-today-differ-jump
-bip_39_word_dash_5: fine-today-differ-jump-frost
-bip_39_word_dash_6: fine-today-differ-jump-frost-wait
-bip_39_word_dash_7: fine-today-differ-jump-frost-wait-foot
-bip_39_word_dash_8: fine-today-differ-jump-frost-wait-foot-convince
-bip_39_word_dash_9: fine-today-differ-jump-frost-wait-foot-convince-couple
-bip_39_word_new_br_1: fine
-bip_39_word_new_br_10: fine<br>today<br>differ<br>jump<br>frost<br>wait<br>foot<br>convince<br>couple<br>arm
-bip_39_word_new_br_11: fine<br>today<br>differ<br>jump<br>frost<br>wait<br>foot<br>convince<br>couple<br>arm<br>seed
 bip_39_word_new_br_12: fine<br>today<br>differ<br>jump<br>frost<br>wait<br>foot<br>convince<br>couple<br>arm<br>seed<br>alcohol
 bip_39_word_new_br_2: fine<br>today
 bip_39_word_new_br_3: fine<br>today<br>differ
-bip_39_word_new_br_4: fine<br>today<br>differ<br>jump
-bip_39_word_new_br_5: fine<br>today<br>differ<br>jump<br>frost
-bip_39_word_new_br_6: fine<br>today<br>differ<br>jump<br>frost<br>wait
-bip_39_word_new_br_7: fine<br>today<br>differ<br>jump<br>frost<br>wait<br>foot
-bip_39_word_new_br_8: fine<br>today<br>differ<br>jump<br>frost<br>wait<br>foot<br>convince
-bip_39_word_new_br_9: fine<br>today<br>differ<br>jump<br>frost<br>wait<br>foot<br>convince<br>couple
-bip_39_word_new_line_1: fine
-bip_39_word_new_line_10: 'fine
-
-  today
-
-  differ
-
-  jump
-
-  frost
-
-  wait
-
-  foot
-
-  convince
-
-  couple
-
-  arm'
-bip_39_word_new_line_11: 'fine
-
-  today
-
-  differ
-
-  jump
-
-  frost
-
-  wait
-
-  foot
-
-  convince
-
-  couple
-
-  arm
-
-  seed'
 bip_39_word_new_line_12: 'fine
 
   today
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'fine
   today
 
   differ'
-bip_39_word_new_line_4: 'fine
-
-  today
-
-  differ
-
-  jump'
-bip_39_word_new_line_5: 'fine
-
-  today
-
-  differ
-
-  jump
-
-  frost'
-bip_39_word_new_line_6: 'fine
-
-  today
-
-  differ
-
-  jump
-
-  frost
-
-  wait'
-bip_39_word_new_line_7: 'fine
-
-  today
-
-  differ
-
-  jump
-
-  frost
-
-  wait
-
-  foot'
-bip_39_word_new_line_8: 'fine
-
-  today
-
-  differ
-
-  jump
-
-  frost
-
-  wait
-
-  foot
-
-  convince'
-bip_39_word_new_line_9: 'fine
-
-  today
-
-  differ
-
-  jump
-
-  frost
-
-  wait
-
-  foot
-
-  convince
-
-  couple'
-bip_39_word_no_space_1: fine
-bip_39_word_no_space_10: finetodaydifferjumpfrostwaitfootconvincecouplearm
-bip_39_word_no_space_11: finetodaydifferjumpfrostwaitfootconvincecouplearmseed
 bip_39_word_no_space_12: finetodaydifferjumpfrostwaitfootconvincecouplearmseedalcohol
 bip_39_word_no_space_2: finetoday
 bip_39_word_no_space_3: finetodaydiffer
-bip_39_word_no_space_4: finetodaydifferjump
-bip_39_word_no_space_5: finetodaydifferjumpfrost
-bip_39_word_no_space_6: finetodaydifferjumpfrostwait
-bip_39_word_no_space_7: finetodaydifferjumpfrostwaitfoot
-bip_39_word_no_space_8: finetodaydifferjumpfrostwaitfootconvince
-bip_39_word_no_space_9: finetodaydifferjumpfrostwaitfootconvincecouple
-bip_39_word_space_0:
-- fine
-- today
-- differ
-- jump
-- frost
-- wait
-- foot
-- convince
-- couple
-- arm
-- seed
-- alcohol
-bip_39_word_space_1: fine
-bip_39_word_space_10: fine today differ jump frost wait foot convince couple arm
-bip_39_word_space_11: fine today differ jump frost wait foot convince couple arm seed
 bip_39_word_space_12: fine today differ jump frost wait foot convince couple arm seed
   alcohol
 bip_39_word_space_2: fine today
 bip_39_word_space_3: fine today differ
-bip_39_word_space_4: fine today differ jump
-bip_39_word_space_5: fine today differ jump frost
-bip_39_word_space_6: fine today differ jump frost wait
-bip_39_word_space_7: fine today differ jump frost wait foot
-bip_39_word_space_8: fine today differ jump frost wait foot convince
-bip_39_word_space_9: fine today differ jump frost wait foot convince couple
-bip_39_word_underscore_1: fine
-bip_39_word_underscore_10: fine_today_differ_jump_frost_wait_foot_convince_couple_arm
-bip_39_word_underscore_11: fine_today_differ_jump_frost_wait_foot_convince_couple_arm_seed
 bip_39_word_underscore_12: fine_today_differ_jump_frost_wait_foot_convince_couple_arm_seed_alcohol
 bip_39_word_underscore_2: fine_today
 bip_39_word_underscore_3: fine_today_differ
-bip_39_word_underscore_4: fine_today_differ_jump
-bip_39_word_underscore_5: fine_today_differ_jump_frost
-bip_39_word_underscore_6: fine_today_differ_jump_frost_wait
-bip_39_word_underscore_7: fine_today_differ_jump_frost_wait_foot
-bip_39_word_underscore_8: fine_today_differ_jump_frost_wait_foot_convince
-bip_39_word_underscore_9: fine_today_differ_jump_frost_wait_foot_convince_couple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

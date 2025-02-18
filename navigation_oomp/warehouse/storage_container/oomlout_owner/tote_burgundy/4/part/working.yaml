@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mail
-bip_39_word_dash_10: mail-tube-suspect-arch-potato-input-spin-section-donor-vault
-bip_39_word_dash_11: mail-tube-suspect-arch-potato-input-spin-section-donor-vault-move
 bip_39_word_dash_12: mail-tube-suspect-arch-potato-input-spin-section-donor-vault-move-aerobic
 bip_39_word_dash_2: mail-tube
 bip_39_word_dash_3: mail-tube-suspect
-bip_39_word_dash_4: mail-tube-suspect-arch
-bip_39_word_dash_5: mail-tube-suspect-arch-potato
-bip_39_word_dash_6: mail-tube-suspect-arch-potato-input
-bip_39_word_dash_7: mail-tube-suspect-arch-potato-input-spin
-bip_39_word_dash_8: mail-tube-suspect-arch-potato-input-spin-section
-bip_39_word_dash_9: mail-tube-suspect-arch-potato-input-spin-section-donor
-bip_39_word_new_br_1: mail
-bip_39_word_new_br_10: mail<br>tube<br>suspect<br>arch<br>potato<br>input<br>spin<br>section<br>donor<br>vault
-bip_39_word_new_br_11: mail<br>tube<br>suspect<br>arch<br>potato<br>input<br>spin<br>section<br>donor<br>vault<br>move
 bip_39_word_new_br_12: mail<br>tube<br>suspect<br>arch<br>potato<br>input<br>spin<br>section<br>donor<br>vault<br>move<br>aerobic
 bip_39_word_new_br_2: mail<br>tube
 bip_39_word_new_br_3: mail<br>tube<br>suspect
-bip_39_word_new_br_4: mail<br>tube<br>suspect<br>arch
-bip_39_word_new_br_5: mail<br>tube<br>suspect<br>arch<br>potato
-bip_39_word_new_br_6: mail<br>tube<br>suspect<br>arch<br>potato<br>input
-bip_39_word_new_br_7: mail<br>tube<br>suspect<br>arch<br>potato<br>input<br>spin
-bip_39_word_new_br_8: mail<br>tube<br>suspect<br>arch<br>potato<br>input<br>spin<br>section
-bip_39_word_new_br_9: mail<br>tube<br>suspect<br>arch<br>potato<br>input<br>spin<br>section<br>donor
-bip_39_word_new_line_1: mail
-bip_39_word_new_line_10: 'mail
-
-  tube
-
-  suspect
-
-  arch
-
-  potato
-
-  input
-
-  spin
-
-  section
-
-  donor
-
-  vault'
-bip_39_word_new_line_11: 'mail
-
-  tube
-
-  suspect
-
-  arch
-
-  potato
-
-  input
-
-  spin
-
-  section
-
-  donor
-
-  vault
-
-  move'
 bip_39_word_new_line_12: 'mail
 
   tube
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mail
   tube
 
   suspect'
-bip_39_word_new_line_4: 'mail
-
-  tube
-
-  suspect
-
-  arch'
-bip_39_word_new_line_5: 'mail
-
-  tube
-
-  suspect
-
-  arch
-
-  potato'
-bip_39_word_new_line_6: 'mail
-
-  tube
-
-  suspect
-
-  arch
-
-  potato
-
-  input'
-bip_39_word_new_line_7: 'mail
-
-  tube
-
-  suspect
-
-  arch
-
-  potato
-
-  input
-
-  spin'
-bip_39_word_new_line_8: 'mail
-
-  tube
-
-  suspect
-
-  arch
-
-  potato
-
-  input
-
-  spin
-
-  section'
-bip_39_word_new_line_9: 'mail
-
-  tube
-
-  suspect
-
-  arch
-
-  potato
-
-  input
-
-  spin
-
-  section
-
-  donor'
-bip_39_word_no_space_1: mail
-bip_39_word_no_space_10: mailtubesuspectarchpotatoinputspinsectiondonorvault
-bip_39_word_no_space_11: mailtubesuspectarchpotatoinputspinsectiondonorvaultmove
 bip_39_word_no_space_12: mailtubesuspectarchpotatoinputspinsectiondonorvaultmoveaerobic
 bip_39_word_no_space_2: mailtube
 bip_39_word_no_space_3: mailtubesuspect
-bip_39_word_no_space_4: mailtubesuspectarch
-bip_39_word_no_space_5: mailtubesuspectarchpotato
-bip_39_word_no_space_6: mailtubesuspectarchpotatoinput
-bip_39_word_no_space_7: mailtubesuspectarchpotatoinputspin
-bip_39_word_no_space_8: mailtubesuspectarchpotatoinputspinsection
-bip_39_word_no_space_9: mailtubesuspectarchpotatoinputspinsectiondonor
-bip_39_word_space_0:
-- mail
-- tube
-- suspect
-- arch
-- potato
-- input
-- spin
-- section
-- donor
-- vault
-- move
-- aerobic
-bip_39_word_space_1: mail
-bip_39_word_space_10: mail tube suspect arch potato input spin section donor vault
-bip_39_word_space_11: mail tube suspect arch potato input spin section donor vault
-  move
 bip_39_word_space_12: mail tube suspect arch potato input spin section donor vault
   move aerobic
 bip_39_word_space_2: mail tube
 bip_39_word_space_3: mail tube suspect
-bip_39_word_space_4: mail tube suspect arch
-bip_39_word_space_5: mail tube suspect arch potato
-bip_39_word_space_6: mail tube suspect arch potato input
-bip_39_word_space_7: mail tube suspect arch potato input spin
-bip_39_word_space_8: mail tube suspect arch potato input spin section
-bip_39_word_space_9: mail tube suspect arch potato input spin section donor
-bip_39_word_underscore_1: mail
-bip_39_word_underscore_10: mail_tube_suspect_arch_potato_input_spin_section_donor_vault
-bip_39_word_underscore_11: mail_tube_suspect_arch_potato_input_spin_section_donor_vault_move
 bip_39_word_underscore_12: mail_tube_suspect_arch_potato_input_spin_section_donor_vault_move_aerobic
 bip_39_word_underscore_2: mail_tube
 bip_39_word_underscore_3: mail_tube_suspect
-bip_39_word_underscore_4: mail_tube_suspect_arch
-bip_39_word_underscore_5: mail_tube_suspect_arch_potato
-bip_39_word_underscore_6: mail_tube_suspect_arch_potato_input
-bip_39_word_underscore_7: mail_tube_suspect_arch_potato_input_spin
-bip_39_word_underscore_8: mail_tube_suspect_arch_potato_input_spin_section
-bip_39_word_underscore_9: mail_tube_suspect_arch_potato_input_spin_section_donor
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

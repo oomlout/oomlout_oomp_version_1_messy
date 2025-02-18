@@ -1,68 +1,9 @@
-bip_39_word_dash_1: strong
-bip_39_word_dash_10: strong-frozen-group-visa-mystery-cry-dash-version-suspect-vital
-bip_39_word_dash_11: strong-frozen-group-visa-mystery-cry-dash-version-suspect-vital-street
 bip_39_word_dash_12: strong-frozen-group-visa-mystery-cry-dash-version-suspect-vital-street-absent
 bip_39_word_dash_2: strong-frozen
 bip_39_word_dash_3: strong-frozen-group
-bip_39_word_dash_4: strong-frozen-group-visa
-bip_39_word_dash_5: strong-frozen-group-visa-mystery
-bip_39_word_dash_6: strong-frozen-group-visa-mystery-cry
-bip_39_word_dash_7: strong-frozen-group-visa-mystery-cry-dash
-bip_39_word_dash_8: strong-frozen-group-visa-mystery-cry-dash-version
-bip_39_word_dash_9: strong-frozen-group-visa-mystery-cry-dash-version-suspect
-bip_39_word_new_br_1: strong
-bip_39_word_new_br_10: strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital
-bip_39_word_new_br_11: strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital<br>street
 bip_39_word_new_br_12: strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect<br>vital<br>street<br>absent
 bip_39_word_new_br_2: strong<br>frozen
 bip_39_word_new_br_3: strong<br>frozen<br>group
-bip_39_word_new_br_4: strong<br>frozen<br>group<br>visa
-bip_39_word_new_br_5: strong<br>frozen<br>group<br>visa<br>mystery
-bip_39_word_new_br_6: strong<br>frozen<br>group<br>visa<br>mystery<br>cry
-bip_39_word_new_br_7: strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash
-bip_39_word_new_br_8: strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version
-bip_39_word_new_br_9: strong<br>frozen<br>group<br>visa<br>mystery<br>cry<br>dash<br>version<br>suspect
-bip_39_word_new_line_1: strong
-bip_39_word_new_line_10: 'strong
-
-  frozen
-
-  group
-
-  visa
-
-  mystery
-
-  cry
-
-  dash
-
-  version
-
-  suspect
-
-  vital'
-bip_39_word_new_line_11: 'strong
-
-  frozen
-
-  group
-
-  visa
-
-  mystery
-
-  cry
-
-  dash
-
-  version
-
-  suspect
-
-  vital
-
-  street'
 bip_39_word_new_line_12: 'strong
 
   frozen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'strong
   frozen
 
   group'
-bip_39_word_new_line_4: 'strong
-
-  frozen
-
-  group
-
-  visa'
-bip_39_word_new_line_5: 'strong
-
-  frozen
-
-  group
-
-  visa
-
-  mystery'
-bip_39_word_new_line_6: 'strong
-
-  frozen
-
-  group
-
-  visa
-
-  mystery
-
-  cry'
-bip_39_word_new_line_7: 'strong
-
-  frozen
-
-  group
-
-  visa
-
-  mystery
-
-  cry
-
-  dash'
-bip_39_word_new_line_8: 'strong
-
-  frozen
-
-  group
-
-  visa
-
-  mystery
-
-  cry
-
-  dash
-
-  version'
-bip_39_word_new_line_9: 'strong
-
-  frozen
-
-  group
-
-  visa
-
-  mystery
-
-  cry
-
-  dash
-
-  version
-
-  suspect'
-bip_39_word_no_space_1: strong
-bip_39_word_no_space_10: strongfrozengroupvisamysterycrydashversionsuspectvital
-bip_39_word_no_space_11: strongfrozengroupvisamysterycrydashversionsuspectvitalstreet
 bip_39_word_no_space_12: strongfrozengroupvisamysterycrydashversionsuspectvitalstreetabsent
 bip_39_word_no_space_2: strongfrozen
 bip_39_word_no_space_3: strongfrozengroup
-bip_39_word_no_space_4: strongfrozengroupvisa
-bip_39_word_no_space_5: strongfrozengroupvisamystery
-bip_39_word_no_space_6: strongfrozengroupvisamysterycry
-bip_39_word_no_space_7: strongfrozengroupvisamysterycrydash
-bip_39_word_no_space_8: strongfrozengroupvisamysterycrydashversion
-bip_39_word_no_space_9: strongfrozengroupvisamysterycrydashversionsuspect
-bip_39_word_space_0:
-- strong
-- frozen
-- group
-- visa
-- mystery
-- cry
-- dash
-- version
-- suspect
-- vital
-- street
-- absent
-bip_39_word_space_1: strong
-bip_39_word_space_10: strong frozen group visa mystery cry dash version suspect vital
-bip_39_word_space_11: strong frozen group visa mystery cry dash version suspect vital
-  street
 bip_39_word_space_12: strong frozen group visa mystery cry dash version suspect vital
   street absent
 bip_39_word_space_2: strong frozen
 bip_39_word_space_3: strong frozen group
-bip_39_word_space_4: strong frozen group visa
-bip_39_word_space_5: strong frozen group visa mystery
-bip_39_word_space_6: strong frozen group visa mystery cry
-bip_39_word_space_7: strong frozen group visa mystery cry dash
-bip_39_word_space_8: strong frozen group visa mystery cry dash version
-bip_39_word_space_9: strong frozen group visa mystery cry dash version suspect
-bip_39_word_underscore_1: strong
-bip_39_word_underscore_10: strong_frozen_group_visa_mystery_cry_dash_version_suspect_vital
-bip_39_word_underscore_11: strong_frozen_group_visa_mystery_cry_dash_version_suspect_vital_street
 bip_39_word_underscore_12: strong_frozen_group_visa_mystery_cry_dash_version_suspect_vital_street_absent
 bip_39_word_underscore_2: strong_frozen
 bip_39_word_underscore_3: strong_frozen_group
-bip_39_word_underscore_4: strong_frozen_group_visa
-bip_39_word_underscore_5: strong_frozen_group_visa_mystery
-bip_39_word_underscore_6: strong_frozen_group_visa_mystery_cry
-bip_39_word_underscore_7: strong_frozen_group_visa_mystery_cry_dash
-bip_39_word_underscore_8: strong_frozen_group_visa_mystery_cry_dash_version
-bip_39_word_underscore_9: strong_frozen_group_visa_mystery_cry_dash_version_suspect
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

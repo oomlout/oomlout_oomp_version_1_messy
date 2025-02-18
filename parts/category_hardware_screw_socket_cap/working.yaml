@@ -1,68 +1,9 @@
-bip_39_word_dash_1: message
-bip_39_word_dash_10: message-match-frost-ethics-club-soft-minor-vehicle-radar-into
-bip_39_word_dash_11: message-match-frost-ethics-club-soft-minor-vehicle-radar-into-interest
 bip_39_word_dash_12: message-match-frost-ethics-club-soft-minor-vehicle-radar-into-interest-around
 bip_39_word_dash_2: message-match
 bip_39_word_dash_3: message-match-frost
-bip_39_word_dash_4: message-match-frost-ethics
-bip_39_word_dash_5: message-match-frost-ethics-club
-bip_39_word_dash_6: message-match-frost-ethics-club-soft
-bip_39_word_dash_7: message-match-frost-ethics-club-soft-minor
-bip_39_word_dash_8: message-match-frost-ethics-club-soft-minor-vehicle
-bip_39_word_dash_9: message-match-frost-ethics-club-soft-minor-vehicle-radar
-bip_39_word_new_br_1: message
-bip_39_word_new_br_10: message<br>match<br>frost<br>ethics<br>club<br>soft<br>minor<br>vehicle<br>radar<br>into
-bip_39_word_new_br_11: message<br>match<br>frost<br>ethics<br>club<br>soft<br>minor<br>vehicle<br>radar<br>into<br>interest
 bip_39_word_new_br_12: message<br>match<br>frost<br>ethics<br>club<br>soft<br>minor<br>vehicle<br>radar<br>into<br>interest<br>around
 bip_39_word_new_br_2: message<br>match
 bip_39_word_new_br_3: message<br>match<br>frost
-bip_39_word_new_br_4: message<br>match<br>frost<br>ethics
-bip_39_word_new_br_5: message<br>match<br>frost<br>ethics<br>club
-bip_39_word_new_br_6: message<br>match<br>frost<br>ethics<br>club<br>soft
-bip_39_word_new_br_7: message<br>match<br>frost<br>ethics<br>club<br>soft<br>minor
-bip_39_word_new_br_8: message<br>match<br>frost<br>ethics<br>club<br>soft<br>minor<br>vehicle
-bip_39_word_new_br_9: message<br>match<br>frost<br>ethics<br>club<br>soft<br>minor<br>vehicle<br>radar
-bip_39_word_new_line_1: message
-bip_39_word_new_line_10: 'message
-
-  match
-
-  frost
-
-  ethics
-
-  club
-
-  soft
-
-  minor
-
-  vehicle
-
-  radar
-
-  into'
-bip_39_word_new_line_11: 'message
-
-  match
-
-  frost
-
-  ethics
-
-  club
-
-  soft
-
-  minor
-
-  vehicle
-
-  radar
-
-  into
-
-  interest'
 bip_39_word_new_line_12: 'message
 
   match
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'message
   match
 
   frost'
-bip_39_word_new_line_4: 'message
-
-  match
-
-  frost
-
-  ethics'
-bip_39_word_new_line_5: 'message
-
-  match
-
-  frost
-
-  ethics
-
-  club'
-bip_39_word_new_line_6: 'message
-
-  match
-
-  frost
-
-  ethics
-
-  club
-
-  soft'
-bip_39_word_new_line_7: 'message
-
-  match
-
-  frost
-
-  ethics
-
-  club
-
-  soft
-
-  minor'
-bip_39_word_new_line_8: 'message
-
-  match
-
-  frost
-
-  ethics
-
-  club
-
-  soft
-
-  minor
-
-  vehicle'
-bip_39_word_new_line_9: 'message
-
-  match
-
-  frost
-
-  ethics
-
-  club
-
-  soft
-
-  minor
-
-  vehicle
-
-  radar'
-bip_39_word_no_space_1: message
-bip_39_word_no_space_10: messagematchfrostethicsclubsoftminorvehicleradarinto
-bip_39_word_no_space_11: messagematchfrostethicsclubsoftminorvehicleradarintointerest
 bip_39_word_no_space_12: messagematchfrostethicsclubsoftminorvehicleradarintointerestaround
 bip_39_word_no_space_2: messagematch
 bip_39_word_no_space_3: messagematchfrost
-bip_39_word_no_space_4: messagematchfrostethics
-bip_39_word_no_space_5: messagematchfrostethicsclub
-bip_39_word_no_space_6: messagematchfrostethicsclubsoft
-bip_39_word_no_space_7: messagematchfrostethicsclubsoftminor
-bip_39_word_no_space_8: messagematchfrostethicsclubsoftminorvehicle
-bip_39_word_no_space_9: messagematchfrostethicsclubsoftminorvehicleradar
-bip_39_word_space_0:
-- message
-- match
-- frost
-- ethics
-- club
-- soft
-- minor
-- vehicle
-- radar
-- into
-- interest
-- around
-bip_39_word_space_1: message
-bip_39_word_space_10: message match frost ethics club soft minor vehicle radar into
-bip_39_word_space_11: message match frost ethics club soft minor vehicle radar into
-  interest
 bip_39_word_space_12: message match frost ethics club soft minor vehicle radar into
   interest around
 bip_39_word_space_2: message match
 bip_39_word_space_3: message match frost
-bip_39_word_space_4: message match frost ethics
-bip_39_word_space_5: message match frost ethics club
-bip_39_word_space_6: message match frost ethics club soft
-bip_39_word_space_7: message match frost ethics club soft minor
-bip_39_word_space_8: message match frost ethics club soft minor vehicle
-bip_39_word_space_9: message match frost ethics club soft minor vehicle radar
-bip_39_word_underscore_1: message
-bip_39_word_underscore_10: message_match_frost_ethics_club_soft_minor_vehicle_radar_into
-bip_39_word_underscore_11: message_match_frost_ethics_club_soft_minor_vehicle_radar_into_interest
 bip_39_word_underscore_12: message_match_frost_ethics_club_soft_minor_vehicle_radar_into_interest_around
 bip_39_word_underscore_2: message_match
 bip_39_word_underscore_3: message_match_frost
-bip_39_word_underscore_4: message_match_frost_ethics
-bip_39_word_underscore_5: message_match_frost_ethics_club
-bip_39_word_underscore_6: message_match_frost_ethics_club_soft
-bip_39_word_underscore_7: message_match_frost_ethics_club_soft_minor
-bip_39_word_underscore_8: message_match_frost_ethics_club_soft_minor_vehicle
-bip_39_word_underscore_9: message_match_frost_ethics_club_soft_minor_vehicle_radar
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: laundry
-bip_39_word_dash_10: laundry-sample-deer-image-brisk-slam-cost-put-fabric-hire
-bip_39_word_dash_11: laundry-sample-deer-image-brisk-slam-cost-put-fabric-hire-priority
 bip_39_word_dash_12: laundry-sample-deer-image-brisk-slam-cost-put-fabric-hire-priority-auto
 bip_39_word_dash_2: laundry-sample
 bip_39_word_dash_3: laundry-sample-deer
-bip_39_word_dash_4: laundry-sample-deer-image
-bip_39_word_dash_5: laundry-sample-deer-image-brisk
-bip_39_word_dash_6: laundry-sample-deer-image-brisk-slam
-bip_39_word_dash_7: laundry-sample-deer-image-brisk-slam-cost
-bip_39_word_dash_8: laundry-sample-deer-image-brisk-slam-cost-put
-bip_39_word_dash_9: laundry-sample-deer-image-brisk-slam-cost-put-fabric
-bip_39_word_new_br_1: laundry
-bip_39_word_new_br_10: laundry<br>sample<br>deer<br>image<br>brisk<br>slam<br>cost<br>put<br>fabric<br>hire
-bip_39_word_new_br_11: laundry<br>sample<br>deer<br>image<br>brisk<br>slam<br>cost<br>put<br>fabric<br>hire<br>priority
 bip_39_word_new_br_12: laundry<br>sample<br>deer<br>image<br>brisk<br>slam<br>cost<br>put<br>fabric<br>hire<br>priority<br>auto
 bip_39_word_new_br_2: laundry<br>sample
 bip_39_word_new_br_3: laundry<br>sample<br>deer
-bip_39_word_new_br_4: laundry<br>sample<br>deer<br>image
-bip_39_word_new_br_5: laundry<br>sample<br>deer<br>image<br>brisk
-bip_39_word_new_br_6: laundry<br>sample<br>deer<br>image<br>brisk<br>slam
-bip_39_word_new_br_7: laundry<br>sample<br>deer<br>image<br>brisk<br>slam<br>cost
-bip_39_word_new_br_8: laundry<br>sample<br>deer<br>image<br>brisk<br>slam<br>cost<br>put
-bip_39_word_new_br_9: laundry<br>sample<br>deer<br>image<br>brisk<br>slam<br>cost<br>put<br>fabric
-bip_39_word_new_line_1: laundry
-bip_39_word_new_line_10: 'laundry
-
-  sample
-
-  deer
-
-  image
-
-  brisk
-
-  slam
-
-  cost
-
-  put
-
-  fabric
-
-  hire'
-bip_39_word_new_line_11: 'laundry
-
-  sample
-
-  deer
-
-  image
-
-  brisk
-
-  slam
-
-  cost
-
-  put
-
-  fabric
-
-  hire
-
-  priority'
 bip_39_word_new_line_12: 'laundry
 
   sample
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'laundry
   sample
 
   deer'
-bip_39_word_new_line_4: 'laundry
-
-  sample
-
-  deer
-
-  image'
-bip_39_word_new_line_5: 'laundry
-
-  sample
-
-  deer
-
-  image
-
-  brisk'
-bip_39_word_new_line_6: 'laundry
-
-  sample
-
-  deer
-
-  image
-
-  brisk
-
-  slam'
-bip_39_word_new_line_7: 'laundry
-
-  sample
-
-  deer
-
-  image
-
-  brisk
-
-  slam
-
-  cost'
-bip_39_word_new_line_8: 'laundry
-
-  sample
-
-  deer
-
-  image
-
-  brisk
-
-  slam
-
-  cost
-
-  put'
-bip_39_word_new_line_9: 'laundry
-
-  sample
-
-  deer
-
-  image
-
-  brisk
-
-  slam
-
-  cost
-
-  put
-
-  fabric'
-bip_39_word_no_space_1: laundry
-bip_39_word_no_space_10: laundrysampledeerimagebriskslamcostputfabrichire
-bip_39_word_no_space_11: laundrysampledeerimagebriskslamcostputfabrichirepriority
 bip_39_word_no_space_12: laundrysampledeerimagebriskslamcostputfabrichirepriorityauto
 bip_39_word_no_space_2: laundrysample
 bip_39_word_no_space_3: laundrysampledeer
-bip_39_word_no_space_4: laundrysampledeerimage
-bip_39_word_no_space_5: laundrysampledeerimagebrisk
-bip_39_word_no_space_6: laundrysampledeerimagebriskslam
-bip_39_word_no_space_7: laundrysampledeerimagebriskslamcost
-bip_39_word_no_space_8: laundrysampledeerimagebriskslamcostput
-bip_39_word_no_space_9: laundrysampledeerimagebriskslamcostputfabric
-bip_39_word_space_0:
-- laundry
-- sample
-- deer
-- image
-- brisk
-- slam
-- cost
-- put
-- fabric
-- hire
-- priority
-- auto
-bip_39_word_space_1: laundry
-bip_39_word_space_10: laundry sample deer image brisk slam cost put fabric hire
-bip_39_word_space_11: laundry sample deer image brisk slam cost put fabric hire priority
 bip_39_word_space_12: laundry sample deer image brisk slam cost put fabric hire priority
   auto
 bip_39_word_space_2: laundry sample
 bip_39_word_space_3: laundry sample deer
-bip_39_word_space_4: laundry sample deer image
-bip_39_word_space_5: laundry sample deer image brisk
-bip_39_word_space_6: laundry sample deer image brisk slam
-bip_39_word_space_7: laundry sample deer image brisk slam cost
-bip_39_word_space_8: laundry sample deer image brisk slam cost put
-bip_39_word_space_9: laundry sample deer image brisk slam cost put fabric
-bip_39_word_underscore_1: laundry
-bip_39_word_underscore_10: laundry_sample_deer_image_brisk_slam_cost_put_fabric_hire
-bip_39_word_underscore_11: laundry_sample_deer_image_brisk_slam_cost_put_fabric_hire_priority
 bip_39_word_underscore_12: laundry_sample_deer_image_brisk_slam_cost_put_fabric_hire_priority_auto
 bip_39_word_underscore_2: laundry_sample
 bip_39_word_underscore_3: laundry_sample_deer
-bip_39_word_underscore_4: laundry_sample_deer_image
-bip_39_word_underscore_5: laundry_sample_deer_image_brisk
-bip_39_word_underscore_6: laundry_sample_deer_image_brisk_slam
-bip_39_word_underscore_7: laundry_sample_deer_image_brisk_slam_cost
-bip_39_word_underscore_8: laundry_sample_deer_image_brisk_slam_cost_put
-bip_39_word_underscore_9: laundry_sample_deer_image_brisk_slam_cost_put_fabric
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

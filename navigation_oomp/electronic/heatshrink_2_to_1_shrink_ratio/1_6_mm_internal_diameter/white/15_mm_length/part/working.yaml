@@ -1,68 +1,9 @@
-bip_39_word_dash_1: diesel
-bip_39_word_dash_10: diesel-bronze-rabbit-early-electric-mask-three-seminar-century-valid
-bip_39_word_dash_11: diesel-bronze-rabbit-early-electric-mask-three-seminar-century-valid-over
 bip_39_word_dash_12: diesel-bronze-rabbit-early-electric-mask-three-seminar-century-valid-over-attitude
 bip_39_word_dash_2: diesel-bronze
 bip_39_word_dash_3: diesel-bronze-rabbit
-bip_39_word_dash_4: diesel-bronze-rabbit-early
-bip_39_word_dash_5: diesel-bronze-rabbit-early-electric
-bip_39_word_dash_6: diesel-bronze-rabbit-early-electric-mask
-bip_39_word_dash_7: diesel-bronze-rabbit-early-electric-mask-three
-bip_39_word_dash_8: diesel-bronze-rabbit-early-electric-mask-three-seminar
-bip_39_word_dash_9: diesel-bronze-rabbit-early-electric-mask-three-seminar-century
-bip_39_word_new_br_1: diesel
-bip_39_word_new_br_10: diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask<br>three<br>seminar<br>century<br>valid
-bip_39_word_new_br_11: diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask<br>three<br>seminar<br>century<br>valid<br>over
 bip_39_word_new_br_12: diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask<br>three<br>seminar<br>century<br>valid<br>over<br>attitude
 bip_39_word_new_br_2: diesel<br>bronze
 bip_39_word_new_br_3: diesel<br>bronze<br>rabbit
-bip_39_word_new_br_4: diesel<br>bronze<br>rabbit<br>early
-bip_39_word_new_br_5: diesel<br>bronze<br>rabbit<br>early<br>electric
-bip_39_word_new_br_6: diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask
-bip_39_word_new_br_7: diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask<br>three
-bip_39_word_new_br_8: diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask<br>three<br>seminar
-bip_39_word_new_br_9: diesel<br>bronze<br>rabbit<br>early<br>electric<br>mask<br>three<br>seminar<br>century
-bip_39_word_new_line_1: diesel
-bip_39_word_new_line_10: 'diesel
-
-  bronze
-
-  rabbit
-
-  early
-
-  electric
-
-  mask
-
-  three
-
-  seminar
-
-  century
-
-  valid'
-bip_39_word_new_line_11: 'diesel
-
-  bronze
-
-  rabbit
-
-  early
-
-  electric
-
-  mask
-
-  three
-
-  seminar
-
-  century
-
-  valid
-
-  over'
 bip_39_word_new_line_12: 'diesel
 
   bronze
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'diesel
   bronze
 
   rabbit'
-bip_39_word_new_line_4: 'diesel
-
-  bronze
-
-  rabbit
-
-  early'
-bip_39_word_new_line_5: 'diesel
-
-  bronze
-
-  rabbit
-
-  early
-
-  electric'
-bip_39_word_new_line_6: 'diesel
-
-  bronze
-
-  rabbit
-
-  early
-
-  electric
-
-  mask'
-bip_39_word_new_line_7: 'diesel
-
-  bronze
-
-  rabbit
-
-  early
-
-  electric
-
-  mask
-
-  three'
-bip_39_word_new_line_8: 'diesel
-
-  bronze
-
-  rabbit
-
-  early
-
-  electric
-
-  mask
-
-  three
-
-  seminar'
-bip_39_word_new_line_9: 'diesel
-
-  bronze
-
-  rabbit
-
-  early
-
-  electric
-
-  mask
-
-  three
-
-  seminar
-
-  century'
-bip_39_word_no_space_1: diesel
-bip_39_word_no_space_10: dieselbronzerabbitearlyelectricmaskthreeseminarcenturyvalid
-bip_39_word_no_space_11: dieselbronzerabbitearlyelectricmaskthreeseminarcenturyvalidover
 bip_39_word_no_space_12: dieselbronzerabbitearlyelectricmaskthreeseminarcenturyvalidoverattitude
 bip_39_word_no_space_2: dieselbronze
 bip_39_word_no_space_3: dieselbronzerabbit
-bip_39_word_no_space_4: dieselbronzerabbitearly
-bip_39_word_no_space_5: dieselbronzerabbitearlyelectric
-bip_39_word_no_space_6: dieselbronzerabbitearlyelectricmask
-bip_39_word_no_space_7: dieselbronzerabbitearlyelectricmaskthree
-bip_39_word_no_space_8: dieselbronzerabbitearlyelectricmaskthreeseminar
-bip_39_word_no_space_9: dieselbronzerabbitearlyelectricmaskthreeseminarcentury
-bip_39_word_space_0:
-- diesel
-- bronze
-- rabbit
-- early
-- electric
-- mask
-- three
-- seminar
-- century
-- valid
-- over
-- attitude
-bip_39_word_space_1: diesel
-bip_39_word_space_10: diesel bronze rabbit early electric mask three seminar century
-  valid
-bip_39_word_space_11: diesel bronze rabbit early electric mask three seminar century
-  valid over
 bip_39_word_space_12: diesel bronze rabbit early electric mask three seminar century
   valid over attitude
 bip_39_word_space_2: diesel bronze
 bip_39_word_space_3: diesel bronze rabbit
-bip_39_word_space_4: diesel bronze rabbit early
-bip_39_word_space_5: diesel bronze rabbit early electric
-bip_39_word_space_6: diesel bronze rabbit early electric mask
-bip_39_word_space_7: diesel bronze rabbit early electric mask three
-bip_39_word_space_8: diesel bronze rabbit early electric mask three seminar
-bip_39_word_space_9: diesel bronze rabbit early electric mask three seminar century
-bip_39_word_underscore_1: diesel
-bip_39_word_underscore_10: diesel_bronze_rabbit_early_electric_mask_three_seminar_century_valid
-bip_39_word_underscore_11: diesel_bronze_rabbit_early_electric_mask_three_seminar_century_valid_over
 bip_39_word_underscore_12: diesel_bronze_rabbit_early_electric_mask_three_seminar_century_valid_over_attitude
 bip_39_word_underscore_2: diesel_bronze
 bip_39_word_underscore_3: diesel_bronze_rabbit
-bip_39_word_underscore_4: diesel_bronze_rabbit_early
-bip_39_word_underscore_5: diesel_bronze_rabbit_early_electric
-bip_39_word_underscore_6: diesel_bronze_rabbit_early_electric_mask
-bip_39_word_underscore_7: diesel_bronze_rabbit_early_electric_mask_three
-bip_39_word_underscore_8: diesel_bronze_rabbit_early_electric_mask_three_seminar
-bip_39_word_underscore_9: diesel_bronze_rabbit_early_electric_mask_three_seminar_century
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: choice
-bip_39_word_dash_10: choice-over-already-earth-cactus-traffic-screen-find-shell-super
-bip_39_word_dash_11: choice-over-already-earth-cactus-traffic-screen-find-shell-super-neglect
 bip_39_word_dash_12: choice-over-already-earth-cactus-traffic-screen-find-shell-super-neglect-atom
 bip_39_word_dash_2: choice-over
 bip_39_word_dash_3: choice-over-already
-bip_39_word_dash_4: choice-over-already-earth
-bip_39_word_dash_5: choice-over-already-earth-cactus
-bip_39_word_dash_6: choice-over-already-earth-cactus-traffic
-bip_39_word_dash_7: choice-over-already-earth-cactus-traffic-screen
-bip_39_word_dash_8: choice-over-already-earth-cactus-traffic-screen-find
-bip_39_word_dash_9: choice-over-already-earth-cactus-traffic-screen-find-shell
-bip_39_word_new_br_1: choice
-bip_39_word_new_br_10: choice<br>over<br>already<br>earth<br>cactus<br>traffic<br>screen<br>find<br>shell<br>super
-bip_39_word_new_br_11: choice<br>over<br>already<br>earth<br>cactus<br>traffic<br>screen<br>find<br>shell<br>super<br>neglect
 bip_39_word_new_br_12: choice<br>over<br>already<br>earth<br>cactus<br>traffic<br>screen<br>find<br>shell<br>super<br>neglect<br>atom
 bip_39_word_new_br_2: choice<br>over
 bip_39_word_new_br_3: choice<br>over<br>already
-bip_39_word_new_br_4: choice<br>over<br>already<br>earth
-bip_39_word_new_br_5: choice<br>over<br>already<br>earth<br>cactus
-bip_39_word_new_br_6: choice<br>over<br>already<br>earth<br>cactus<br>traffic
-bip_39_word_new_br_7: choice<br>over<br>already<br>earth<br>cactus<br>traffic<br>screen
-bip_39_word_new_br_8: choice<br>over<br>already<br>earth<br>cactus<br>traffic<br>screen<br>find
-bip_39_word_new_br_9: choice<br>over<br>already<br>earth<br>cactus<br>traffic<br>screen<br>find<br>shell
-bip_39_word_new_line_1: choice
-bip_39_word_new_line_10: 'choice
-
-  over
-
-  already
-
-  earth
-
-  cactus
-
-  traffic
-
-  screen
-
-  find
-
-  shell
-
-  super'
-bip_39_word_new_line_11: 'choice
-
-  over
-
-  already
-
-  earth
-
-  cactus
-
-  traffic
-
-  screen
-
-  find
-
-  shell
-
-  super
-
-  neglect'
 bip_39_word_new_line_12: 'choice
 
   over
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'choice
   over
 
   already'
-bip_39_word_new_line_4: 'choice
-
-  over
-
-  already
-
-  earth'
-bip_39_word_new_line_5: 'choice
-
-  over
-
-  already
-
-  earth
-
-  cactus'
-bip_39_word_new_line_6: 'choice
-
-  over
-
-  already
-
-  earth
-
-  cactus
-
-  traffic'
-bip_39_word_new_line_7: 'choice
-
-  over
-
-  already
-
-  earth
-
-  cactus
-
-  traffic
-
-  screen'
-bip_39_word_new_line_8: 'choice
-
-  over
-
-  already
-
-  earth
-
-  cactus
-
-  traffic
-
-  screen
-
-  find'
-bip_39_word_new_line_9: 'choice
-
-  over
-
-  already
-
-  earth
-
-  cactus
-
-  traffic
-
-  screen
-
-  find
-
-  shell'
-bip_39_word_no_space_1: choice
-bip_39_word_no_space_10: choiceoveralreadyearthcactustrafficscreenfindshellsuper
-bip_39_word_no_space_11: choiceoveralreadyearthcactustrafficscreenfindshellsuperneglect
 bip_39_word_no_space_12: choiceoveralreadyearthcactustrafficscreenfindshellsuperneglectatom
 bip_39_word_no_space_2: choiceover
 bip_39_word_no_space_3: choiceoveralready
-bip_39_word_no_space_4: choiceoveralreadyearth
-bip_39_word_no_space_5: choiceoveralreadyearthcactus
-bip_39_word_no_space_6: choiceoveralreadyearthcactustraffic
-bip_39_word_no_space_7: choiceoveralreadyearthcactustrafficscreen
-bip_39_word_no_space_8: choiceoveralreadyearthcactustrafficscreenfind
-bip_39_word_no_space_9: choiceoveralreadyearthcactustrafficscreenfindshell
-bip_39_word_space_0:
-- choice
-- over
-- already
-- earth
-- cactus
-- traffic
-- screen
-- find
-- shell
-- super
-- neglect
-- atom
-bip_39_word_space_1: choice
-bip_39_word_space_10: choice over already earth cactus traffic screen find shell super
-bip_39_word_space_11: choice over already earth cactus traffic screen find shell super
-  neglect
 bip_39_word_space_12: choice over already earth cactus traffic screen find shell super
   neglect atom
 bip_39_word_space_2: choice over
 bip_39_word_space_3: choice over already
-bip_39_word_space_4: choice over already earth
-bip_39_word_space_5: choice over already earth cactus
-bip_39_word_space_6: choice over already earth cactus traffic
-bip_39_word_space_7: choice over already earth cactus traffic screen
-bip_39_word_space_8: choice over already earth cactus traffic screen find
-bip_39_word_space_9: choice over already earth cactus traffic screen find shell
-bip_39_word_underscore_1: choice
-bip_39_word_underscore_10: choice_over_already_earth_cactus_traffic_screen_find_shell_super
-bip_39_word_underscore_11: choice_over_already_earth_cactus_traffic_screen_find_shell_super_neglect
 bip_39_word_underscore_12: choice_over_already_earth_cactus_traffic_screen_find_shell_super_neglect_atom
 bip_39_word_underscore_2: choice_over
 bip_39_word_underscore_3: choice_over_already
-bip_39_word_underscore_4: choice_over_already_earth
-bip_39_word_underscore_5: choice_over_already_earth_cactus
-bip_39_word_underscore_6: choice_over_already_earth_cactus_traffic
-bip_39_word_underscore_7: choice_over_already_earth_cactus_traffic_screen
-bip_39_word_underscore_8: choice_over_already_earth_cactus_traffic_screen_find
-bip_39_word_underscore_9: choice_over_already_earth_cactus_traffic_screen_find_shell
 classification: category
 classification_capital: Category
 classification_first_letter: c

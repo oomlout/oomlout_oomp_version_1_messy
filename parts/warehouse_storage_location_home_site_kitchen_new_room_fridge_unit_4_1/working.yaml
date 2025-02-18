@@ -1,68 +1,9 @@
-bip_39_word_dash_1: double
-bip_39_word_dash_10: double-tape-awful-vehicle-spell-skirt-rapid-false-oven-sadness
-bip_39_word_dash_11: double-tape-awful-vehicle-spell-skirt-rapid-false-oven-sadness-little
 bip_39_word_dash_12: double-tape-awful-vehicle-spell-skirt-rapid-false-oven-sadness-little-arrive
 bip_39_word_dash_2: double-tape
 bip_39_word_dash_3: double-tape-awful
-bip_39_word_dash_4: double-tape-awful-vehicle
-bip_39_word_dash_5: double-tape-awful-vehicle-spell
-bip_39_word_dash_6: double-tape-awful-vehicle-spell-skirt
-bip_39_word_dash_7: double-tape-awful-vehicle-spell-skirt-rapid
-bip_39_word_dash_8: double-tape-awful-vehicle-spell-skirt-rapid-false
-bip_39_word_dash_9: double-tape-awful-vehicle-spell-skirt-rapid-false-oven
-bip_39_word_new_br_1: double
-bip_39_word_new_br_10: double<br>tape<br>awful<br>vehicle<br>spell<br>skirt<br>rapid<br>false<br>oven<br>sadness
-bip_39_word_new_br_11: double<br>tape<br>awful<br>vehicle<br>spell<br>skirt<br>rapid<br>false<br>oven<br>sadness<br>little
 bip_39_word_new_br_12: double<br>tape<br>awful<br>vehicle<br>spell<br>skirt<br>rapid<br>false<br>oven<br>sadness<br>little<br>arrive
 bip_39_word_new_br_2: double<br>tape
 bip_39_word_new_br_3: double<br>tape<br>awful
-bip_39_word_new_br_4: double<br>tape<br>awful<br>vehicle
-bip_39_word_new_br_5: double<br>tape<br>awful<br>vehicle<br>spell
-bip_39_word_new_br_6: double<br>tape<br>awful<br>vehicle<br>spell<br>skirt
-bip_39_word_new_br_7: double<br>tape<br>awful<br>vehicle<br>spell<br>skirt<br>rapid
-bip_39_word_new_br_8: double<br>tape<br>awful<br>vehicle<br>spell<br>skirt<br>rapid<br>false
-bip_39_word_new_br_9: double<br>tape<br>awful<br>vehicle<br>spell<br>skirt<br>rapid<br>false<br>oven
-bip_39_word_new_line_1: double
-bip_39_word_new_line_10: 'double
-
-  tape
-
-  awful
-
-  vehicle
-
-  spell
-
-  skirt
-
-  rapid
-
-  false
-
-  oven
-
-  sadness'
-bip_39_word_new_line_11: 'double
-
-  tape
-
-  awful
-
-  vehicle
-
-  spell
-
-  skirt
-
-  rapid
-
-  false
-
-  oven
-
-  sadness
-
-  little'
 bip_39_word_new_line_12: 'double
 
   tape
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'double
   tape
 
   awful'
-bip_39_word_new_line_4: 'double
-
-  tape
-
-  awful
-
-  vehicle'
-bip_39_word_new_line_5: 'double
-
-  tape
-
-  awful
-
-  vehicle
-
-  spell'
-bip_39_word_new_line_6: 'double
-
-  tape
-
-  awful
-
-  vehicle
-
-  spell
-
-  skirt'
-bip_39_word_new_line_7: 'double
-
-  tape
-
-  awful
-
-  vehicle
-
-  spell
-
-  skirt
-
-  rapid'
-bip_39_word_new_line_8: 'double
-
-  tape
-
-  awful
-
-  vehicle
-
-  spell
-
-  skirt
-
-  rapid
-
-  false'
-bip_39_word_new_line_9: 'double
-
-  tape
-
-  awful
-
-  vehicle
-
-  spell
-
-  skirt
-
-  rapid
-
-  false
-
-  oven'
-bip_39_word_no_space_1: double
-bip_39_word_no_space_10: doubletapeawfulvehiclespellskirtrapidfalseovensadness
-bip_39_word_no_space_11: doubletapeawfulvehiclespellskirtrapidfalseovensadnesslittle
 bip_39_word_no_space_12: doubletapeawfulvehiclespellskirtrapidfalseovensadnesslittlearrive
 bip_39_word_no_space_2: doubletape
 bip_39_word_no_space_3: doubletapeawful
-bip_39_word_no_space_4: doubletapeawfulvehicle
-bip_39_word_no_space_5: doubletapeawfulvehiclespell
-bip_39_word_no_space_6: doubletapeawfulvehiclespellskirt
-bip_39_word_no_space_7: doubletapeawfulvehiclespellskirtrapid
-bip_39_word_no_space_8: doubletapeawfulvehiclespellskirtrapidfalse
-bip_39_word_no_space_9: doubletapeawfulvehiclespellskirtrapidfalseoven
-bip_39_word_space_0:
-- double
-- tape
-- awful
-- vehicle
-- spell
-- skirt
-- rapid
-- 'false'
-- oven
-- sadness
-- little
-- arrive
-bip_39_word_space_1: double
-bip_39_word_space_10: double tape awful vehicle spell skirt rapid false oven sadness
-bip_39_word_space_11: double tape awful vehicle spell skirt rapid false oven sadness
-  little
 bip_39_word_space_12: double tape awful vehicle spell skirt rapid false oven sadness
   little arrive
 bip_39_word_space_2: double tape
 bip_39_word_space_3: double tape awful
-bip_39_word_space_4: double tape awful vehicle
-bip_39_word_space_5: double tape awful vehicle spell
-bip_39_word_space_6: double tape awful vehicle spell skirt
-bip_39_word_space_7: double tape awful vehicle spell skirt rapid
-bip_39_word_space_8: double tape awful vehicle spell skirt rapid false
-bip_39_word_space_9: double tape awful vehicle spell skirt rapid false oven
-bip_39_word_underscore_1: double
-bip_39_word_underscore_10: double_tape_awful_vehicle_spell_skirt_rapid_false_oven_sadness
-bip_39_word_underscore_11: double_tape_awful_vehicle_spell_skirt_rapid_false_oven_sadness_little
 bip_39_word_underscore_12: double_tape_awful_vehicle_spell_skirt_rapid_false_oven_sadness_little_arrive
 bip_39_word_underscore_2: double_tape
 bip_39_word_underscore_3: double_tape_awful
-bip_39_word_underscore_4: double_tape_awful_vehicle
-bip_39_word_underscore_5: double_tape_awful_vehicle_spell
-bip_39_word_underscore_6: double_tape_awful_vehicle_spell_skirt
-bip_39_word_underscore_7: double_tape_awful_vehicle_spell_skirt_rapid
-bip_39_word_underscore_8: double_tape_awful_vehicle_spell_skirt_rapid_false
-bip_39_word_underscore_9: double_tape_awful_vehicle_spell_skirt_rapid_false_oven
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

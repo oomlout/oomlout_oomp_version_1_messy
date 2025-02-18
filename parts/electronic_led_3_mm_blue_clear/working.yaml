@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cage
-bip_39_word_dash_10: cage-mimic-arena-autumn-weekend-gate-accuse-viable-sail-loop
-bip_39_word_dash_11: cage-mimic-arena-autumn-weekend-gate-accuse-viable-sail-loop-latin
 bip_39_word_dash_12: cage-mimic-arena-autumn-weekend-gate-accuse-viable-sail-loop-latin-admit
 bip_39_word_dash_2: cage-mimic
 bip_39_word_dash_3: cage-mimic-arena
-bip_39_word_dash_4: cage-mimic-arena-autumn
-bip_39_word_dash_5: cage-mimic-arena-autumn-weekend
-bip_39_word_dash_6: cage-mimic-arena-autumn-weekend-gate
-bip_39_word_dash_7: cage-mimic-arena-autumn-weekend-gate-accuse
-bip_39_word_dash_8: cage-mimic-arena-autumn-weekend-gate-accuse-viable
-bip_39_word_dash_9: cage-mimic-arena-autumn-weekend-gate-accuse-viable-sail
-bip_39_word_new_br_1: cage
-bip_39_word_new_br_10: cage<br>mimic<br>arena<br>autumn<br>weekend<br>gate<br>accuse<br>viable<br>sail<br>loop
-bip_39_word_new_br_11: cage<br>mimic<br>arena<br>autumn<br>weekend<br>gate<br>accuse<br>viable<br>sail<br>loop<br>latin
 bip_39_word_new_br_12: cage<br>mimic<br>arena<br>autumn<br>weekend<br>gate<br>accuse<br>viable<br>sail<br>loop<br>latin<br>admit
 bip_39_word_new_br_2: cage<br>mimic
 bip_39_word_new_br_3: cage<br>mimic<br>arena
-bip_39_word_new_br_4: cage<br>mimic<br>arena<br>autumn
-bip_39_word_new_br_5: cage<br>mimic<br>arena<br>autumn<br>weekend
-bip_39_word_new_br_6: cage<br>mimic<br>arena<br>autumn<br>weekend<br>gate
-bip_39_word_new_br_7: cage<br>mimic<br>arena<br>autumn<br>weekend<br>gate<br>accuse
-bip_39_word_new_br_8: cage<br>mimic<br>arena<br>autumn<br>weekend<br>gate<br>accuse<br>viable
-bip_39_word_new_br_9: cage<br>mimic<br>arena<br>autumn<br>weekend<br>gate<br>accuse<br>viable<br>sail
-bip_39_word_new_line_1: cage
-bip_39_word_new_line_10: 'cage
-
-  mimic
-
-  arena
-
-  autumn
-
-  weekend
-
-  gate
-
-  accuse
-
-  viable
-
-  sail
-
-  loop'
-bip_39_word_new_line_11: 'cage
-
-  mimic
-
-  arena
-
-  autumn
-
-  weekend
-
-  gate
-
-  accuse
-
-  viable
-
-  sail
-
-  loop
-
-  latin'
 bip_39_word_new_line_12: 'cage
 
   mimic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cage
   mimic
 
   arena'
-bip_39_word_new_line_4: 'cage
-
-  mimic
-
-  arena
-
-  autumn'
-bip_39_word_new_line_5: 'cage
-
-  mimic
-
-  arena
-
-  autumn
-
-  weekend'
-bip_39_word_new_line_6: 'cage
-
-  mimic
-
-  arena
-
-  autumn
-
-  weekend
-
-  gate'
-bip_39_word_new_line_7: 'cage
-
-  mimic
-
-  arena
-
-  autumn
-
-  weekend
-
-  gate
-
-  accuse'
-bip_39_word_new_line_8: 'cage
-
-  mimic
-
-  arena
-
-  autumn
-
-  weekend
-
-  gate
-
-  accuse
-
-  viable'
-bip_39_word_new_line_9: 'cage
-
-  mimic
-
-  arena
-
-  autumn
-
-  weekend
-
-  gate
-
-  accuse
-
-  viable
-
-  sail'
-bip_39_word_no_space_1: cage
-bip_39_word_no_space_10: cagemimicarenaautumnweekendgateaccuseviablesailloop
-bip_39_word_no_space_11: cagemimicarenaautumnweekendgateaccuseviablesaillooplatin
 bip_39_word_no_space_12: cagemimicarenaautumnweekendgateaccuseviablesaillooplatinadmit
 bip_39_word_no_space_2: cagemimic
 bip_39_word_no_space_3: cagemimicarena
-bip_39_word_no_space_4: cagemimicarenaautumn
-bip_39_word_no_space_5: cagemimicarenaautumnweekend
-bip_39_word_no_space_6: cagemimicarenaautumnweekendgate
-bip_39_word_no_space_7: cagemimicarenaautumnweekendgateaccuse
-bip_39_word_no_space_8: cagemimicarenaautumnweekendgateaccuseviable
-bip_39_word_no_space_9: cagemimicarenaautumnweekendgateaccuseviablesail
-bip_39_word_space_0:
-- cage
-- mimic
-- arena
-- autumn
-- weekend
-- gate
-- accuse
-- viable
-- sail
-- loop
-- latin
-- admit
-bip_39_word_space_1: cage
-bip_39_word_space_10: cage mimic arena autumn weekend gate accuse viable sail loop
-bip_39_word_space_11: cage mimic arena autumn weekend gate accuse viable sail loop
-  latin
 bip_39_word_space_12: cage mimic arena autumn weekend gate accuse viable sail loop
   latin admit
 bip_39_word_space_2: cage mimic
 bip_39_word_space_3: cage mimic arena
-bip_39_word_space_4: cage mimic arena autumn
-bip_39_word_space_5: cage mimic arena autumn weekend
-bip_39_word_space_6: cage mimic arena autumn weekend gate
-bip_39_word_space_7: cage mimic arena autumn weekend gate accuse
-bip_39_word_space_8: cage mimic arena autumn weekend gate accuse viable
-bip_39_word_space_9: cage mimic arena autumn weekend gate accuse viable sail
-bip_39_word_underscore_1: cage
-bip_39_word_underscore_10: cage_mimic_arena_autumn_weekend_gate_accuse_viable_sail_loop
-bip_39_word_underscore_11: cage_mimic_arena_autumn_weekend_gate_accuse_viable_sail_loop_latin
 bip_39_word_underscore_12: cage_mimic_arena_autumn_weekend_gate_accuse_viable_sail_loop_latin_admit
 bip_39_word_underscore_2: cage_mimic
 bip_39_word_underscore_3: cage_mimic_arena
-bip_39_word_underscore_4: cage_mimic_arena_autumn
-bip_39_word_underscore_5: cage_mimic_arena_autumn_weekend
-bip_39_word_underscore_6: cage_mimic_arena_autumn_weekend_gate
-bip_39_word_underscore_7: cage_mimic_arena_autumn_weekend_gate_accuse
-bip_39_word_underscore_8: cage_mimic_arena_autumn_weekend_gate_accuse_viable
-bip_39_word_underscore_9: cage_mimic_arena_autumn_weekend_gate_accuse_viable_sail
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

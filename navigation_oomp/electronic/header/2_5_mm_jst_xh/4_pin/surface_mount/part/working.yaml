@@ -1,68 +1,9 @@
-bip_39_word_dash_1: script
-bip_39_word_dash_10: script-race-garage-sign-radio-timber-school-ahead-joy-cereal
-bip_39_word_dash_11: script-race-garage-sign-radio-timber-school-ahead-joy-cereal-drastic
 bip_39_word_dash_12: script-race-garage-sign-radio-timber-school-ahead-joy-cereal-drastic-alert
 bip_39_word_dash_2: script-race
 bip_39_word_dash_3: script-race-garage
-bip_39_word_dash_4: script-race-garage-sign
-bip_39_word_dash_5: script-race-garage-sign-radio
-bip_39_word_dash_6: script-race-garage-sign-radio-timber
-bip_39_word_dash_7: script-race-garage-sign-radio-timber-school
-bip_39_word_dash_8: script-race-garage-sign-radio-timber-school-ahead
-bip_39_word_dash_9: script-race-garage-sign-radio-timber-school-ahead-joy
-bip_39_word_new_br_1: script
-bip_39_word_new_br_10: script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal
-bip_39_word_new_br_11: script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal<br>drastic
 bip_39_word_new_br_12: script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy<br>cereal<br>drastic<br>alert
 bip_39_word_new_br_2: script<br>race
 bip_39_word_new_br_3: script<br>race<br>garage
-bip_39_word_new_br_4: script<br>race<br>garage<br>sign
-bip_39_word_new_br_5: script<br>race<br>garage<br>sign<br>radio
-bip_39_word_new_br_6: script<br>race<br>garage<br>sign<br>radio<br>timber
-bip_39_word_new_br_7: script<br>race<br>garage<br>sign<br>radio<br>timber<br>school
-bip_39_word_new_br_8: script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead
-bip_39_word_new_br_9: script<br>race<br>garage<br>sign<br>radio<br>timber<br>school<br>ahead<br>joy
-bip_39_word_new_line_1: script
-bip_39_word_new_line_10: 'script
-
-  race
-
-  garage
-
-  sign
-
-  radio
-
-  timber
-
-  school
-
-  ahead
-
-  joy
-
-  cereal'
-bip_39_word_new_line_11: 'script
-
-  race
-
-  garage
-
-  sign
-
-  radio
-
-  timber
-
-  school
-
-  ahead
-
-  joy
-
-  cereal
-
-  drastic'
 bip_39_word_new_line_12: 'script
 
   race
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'script
   race
 
   garage'
-bip_39_word_new_line_4: 'script
-
-  race
-
-  garage
-
-  sign'
-bip_39_word_new_line_5: 'script
-
-  race
-
-  garage
-
-  sign
-
-  radio'
-bip_39_word_new_line_6: 'script
-
-  race
-
-  garage
-
-  sign
-
-  radio
-
-  timber'
-bip_39_word_new_line_7: 'script
-
-  race
-
-  garage
-
-  sign
-
-  radio
-
-  timber
-
-  school'
-bip_39_word_new_line_8: 'script
-
-  race
-
-  garage
-
-  sign
-
-  radio
-
-  timber
-
-  school
-
-  ahead'
-bip_39_word_new_line_9: 'script
-
-  race
-
-  garage
-
-  sign
-
-  radio
-
-  timber
-
-  school
-
-  ahead
-
-  joy'
-bip_39_word_no_space_1: script
-bip_39_word_no_space_10: scriptracegaragesignradiotimberschoolaheadjoycereal
-bip_39_word_no_space_11: scriptracegaragesignradiotimberschoolaheadjoycerealdrastic
 bip_39_word_no_space_12: scriptracegaragesignradiotimberschoolaheadjoycerealdrasticalert
 bip_39_word_no_space_2: scriptrace
 bip_39_word_no_space_3: scriptracegarage
-bip_39_word_no_space_4: scriptracegaragesign
-bip_39_word_no_space_5: scriptracegaragesignradio
-bip_39_word_no_space_6: scriptracegaragesignradiotimber
-bip_39_word_no_space_7: scriptracegaragesignradiotimberschool
-bip_39_word_no_space_8: scriptracegaragesignradiotimberschoolahead
-bip_39_word_no_space_9: scriptracegaragesignradiotimberschoolaheadjoy
-bip_39_word_space_0:
-- script
-- race
-- garage
-- sign
-- radio
-- timber
-- school
-- ahead
-- joy
-- cereal
-- drastic
-- alert
-bip_39_word_space_1: script
-bip_39_word_space_10: script race garage sign radio timber school ahead joy cereal
-bip_39_word_space_11: script race garage sign radio timber school ahead joy cereal
-  drastic
 bip_39_word_space_12: script race garage sign radio timber school ahead joy cereal
   drastic alert
 bip_39_word_space_2: script race
 bip_39_word_space_3: script race garage
-bip_39_word_space_4: script race garage sign
-bip_39_word_space_5: script race garage sign radio
-bip_39_word_space_6: script race garage sign radio timber
-bip_39_word_space_7: script race garage sign radio timber school
-bip_39_word_space_8: script race garage sign radio timber school ahead
-bip_39_word_space_9: script race garage sign radio timber school ahead joy
-bip_39_word_underscore_1: script
-bip_39_word_underscore_10: script_race_garage_sign_radio_timber_school_ahead_joy_cereal
-bip_39_word_underscore_11: script_race_garage_sign_radio_timber_school_ahead_joy_cereal_drastic
 bip_39_word_underscore_12: script_race_garage_sign_radio_timber_school_ahead_joy_cereal_drastic_alert
 bip_39_word_underscore_2: script_race
 bip_39_word_underscore_3: script_race_garage
-bip_39_word_underscore_4: script_race_garage_sign
-bip_39_word_underscore_5: script_race_garage_sign_radio
-bip_39_word_underscore_6: script_race_garage_sign_radio_timber
-bip_39_word_underscore_7: script_race_garage_sign_radio_timber_school
-bip_39_word_underscore_8: script_race_garage_sign_radio_timber_school_ahead
-bip_39_word_underscore_9: script_race_garage_sign_radio_timber_school_ahead_joy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: hammer
-bip_39_word_dash_10: hammer-fox-dice-glory-human-stomach-wheel-gift-teach-urge
-bip_39_word_dash_11: hammer-fox-dice-glory-human-stomach-wheel-gift-teach-urge-harbor
 bip_39_word_dash_12: hammer-fox-dice-glory-human-stomach-wheel-gift-teach-urge-harbor-apart
 bip_39_word_dash_2: hammer-fox
 bip_39_word_dash_3: hammer-fox-dice
-bip_39_word_dash_4: hammer-fox-dice-glory
-bip_39_word_dash_5: hammer-fox-dice-glory-human
-bip_39_word_dash_6: hammer-fox-dice-glory-human-stomach
-bip_39_word_dash_7: hammer-fox-dice-glory-human-stomach-wheel
-bip_39_word_dash_8: hammer-fox-dice-glory-human-stomach-wheel-gift
-bip_39_word_dash_9: hammer-fox-dice-glory-human-stomach-wheel-gift-teach
-bip_39_word_new_br_1: hammer
-bip_39_word_new_br_10: hammer<br>fox<br>dice<br>glory<br>human<br>stomach<br>wheel<br>gift<br>teach<br>urge
-bip_39_word_new_br_11: hammer<br>fox<br>dice<br>glory<br>human<br>stomach<br>wheel<br>gift<br>teach<br>urge<br>harbor
 bip_39_word_new_br_12: hammer<br>fox<br>dice<br>glory<br>human<br>stomach<br>wheel<br>gift<br>teach<br>urge<br>harbor<br>apart
 bip_39_word_new_br_2: hammer<br>fox
 bip_39_word_new_br_3: hammer<br>fox<br>dice
-bip_39_word_new_br_4: hammer<br>fox<br>dice<br>glory
-bip_39_word_new_br_5: hammer<br>fox<br>dice<br>glory<br>human
-bip_39_word_new_br_6: hammer<br>fox<br>dice<br>glory<br>human<br>stomach
-bip_39_word_new_br_7: hammer<br>fox<br>dice<br>glory<br>human<br>stomach<br>wheel
-bip_39_word_new_br_8: hammer<br>fox<br>dice<br>glory<br>human<br>stomach<br>wheel<br>gift
-bip_39_word_new_br_9: hammer<br>fox<br>dice<br>glory<br>human<br>stomach<br>wheel<br>gift<br>teach
-bip_39_word_new_line_1: hammer
-bip_39_word_new_line_10: 'hammer
-
-  fox
-
-  dice
-
-  glory
-
-  human
-
-  stomach
-
-  wheel
-
-  gift
-
-  teach
-
-  urge'
-bip_39_word_new_line_11: 'hammer
-
-  fox
-
-  dice
-
-  glory
-
-  human
-
-  stomach
-
-  wheel
-
-  gift
-
-  teach
-
-  urge
-
-  harbor'
 bip_39_word_new_line_12: 'hammer
 
   fox
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'hammer
   fox
 
   dice'
-bip_39_word_new_line_4: 'hammer
-
-  fox
-
-  dice
-
-  glory'
-bip_39_word_new_line_5: 'hammer
-
-  fox
-
-  dice
-
-  glory
-
-  human'
-bip_39_word_new_line_6: 'hammer
-
-  fox
-
-  dice
-
-  glory
-
-  human
-
-  stomach'
-bip_39_word_new_line_7: 'hammer
-
-  fox
-
-  dice
-
-  glory
-
-  human
-
-  stomach
-
-  wheel'
-bip_39_word_new_line_8: 'hammer
-
-  fox
-
-  dice
-
-  glory
-
-  human
-
-  stomach
-
-  wheel
-
-  gift'
-bip_39_word_new_line_9: 'hammer
-
-  fox
-
-  dice
-
-  glory
-
-  human
-
-  stomach
-
-  wheel
-
-  gift
-
-  teach'
-bip_39_word_no_space_1: hammer
-bip_39_word_no_space_10: hammerfoxdicegloryhumanstomachwheelgiftteachurge
-bip_39_word_no_space_11: hammerfoxdicegloryhumanstomachwheelgiftteachurgeharbor
 bip_39_word_no_space_12: hammerfoxdicegloryhumanstomachwheelgiftteachurgeharborapart
 bip_39_word_no_space_2: hammerfox
 bip_39_word_no_space_3: hammerfoxdice
-bip_39_word_no_space_4: hammerfoxdiceglory
-bip_39_word_no_space_5: hammerfoxdicegloryhuman
-bip_39_word_no_space_6: hammerfoxdicegloryhumanstomach
-bip_39_word_no_space_7: hammerfoxdicegloryhumanstomachwheel
-bip_39_word_no_space_8: hammerfoxdicegloryhumanstomachwheelgift
-bip_39_word_no_space_9: hammerfoxdicegloryhumanstomachwheelgiftteach
-bip_39_word_space_0:
-- hammer
-- fox
-- dice
-- glory
-- human
-- stomach
-- wheel
-- gift
-- teach
-- urge
-- harbor
-- apart
-bip_39_word_space_1: hammer
-bip_39_word_space_10: hammer fox dice glory human stomach wheel gift teach urge
-bip_39_word_space_11: hammer fox dice glory human stomach wheel gift teach urge harbor
 bip_39_word_space_12: hammer fox dice glory human stomach wheel gift teach urge harbor
   apart
 bip_39_word_space_2: hammer fox
 bip_39_word_space_3: hammer fox dice
-bip_39_word_space_4: hammer fox dice glory
-bip_39_word_space_5: hammer fox dice glory human
-bip_39_word_space_6: hammer fox dice glory human stomach
-bip_39_word_space_7: hammer fox dice glory human stomach wheel
-bip_39_word_space_8: hammer fox dice glory human stomach wheel gift
-bip_39_word_space_9: hammer fox dice glory human stomach wheel gift teach
-bip_39_word_underscore_1: hammer
-bip_39_word_underscore_10: hammer_fox_dice_glory_human_stomach_wheel_gift_teach_urge
-bip_39_word_underscore_11: hammer_fox_dice_glory_human_stomach_wheel_gift_teach_urge_harbor
 bip_39_word_underscore_12: hammer_fox_dice_glory_human_stomach_wheel_gift_teach_urge_harbor_apart
 bip_39_word_underscore_2: hammer_fox
 bip_39_word_underscore_3: hammer_fox_dice
-bip_39_word_underscore_4: hammer_fox_dice_glory
-bip_39_word_underscore_5: hammer_fox_dice_glory_human
-bip_39_word_underscore_6: hammer_fox_dice_glory_human_stomach
-bip_39_word_underscore_7: hammer_fox_dice_glory_human_stomach_wheel
-bip_39_word_underscore_8: hammer_fox_dice_glory_human_stomach_wheel_gift
-bip_39_word_underscore_9: hammer_fox_dice_glory_human_stomach_wheel_gift_teach
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

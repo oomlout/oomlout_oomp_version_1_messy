@@ -1,68 +1,9 @@
-bip_39_word_dash_1: year
-bip_39_word_dash_10: year-rack-during-airport-proof-identify-check-engage-aisle-deputy
-bip_39_word_dash_11: year-rack-during-airport-proof-identify-check-engage-aisle-deputy-stool
 bip_39_word_dash_12: year-rack-during-airport-proof-identify-check-engage-aisle-deputy-stool-again
 bip_39_word_dash_2: year-rack
 bip_39_word_dash_3: year-rack-during
-bip_39_word_dash_4: year-rack-during-airport
-bip_39_word_dash_5: year-rack-during-airport-proof
-bip_39_word_dash_6: year-rack-during-airport-proof-identify
-bip_39_word_dash_7: year-rack-during-airport-proof-identify-check
-bip_39_word_dash_8: year-rack-during-airport-proof-identify-check-engage
-bip_39_word_dash_9: year-rack-during-airport-proof-identify-check-engage-aisle
-bip_39_word_new_br_1: year
-bip_39_word_new_br_10: year<br>rack<br>during<br>airport<br>proof<br>identify<br>check<br>engage<br>aisle<br>deputy
-bip_39_word_new_br_11: year<br>rack<br>during<br>airport<br>proof<br>identify<br>check<br>engage<br>aisle<br>deputy<br>stool
 bip_39_word_new_br_12: year<br>rack<br>during<br>airport<br>proof<br>identify<br>check<br>engage<br>aisle<br>deputy<br>stool<br>again
 bip_39_word_new_br_2: year<br>rack
 bip_39_word_new_br_3: year<br>rack<br>during
-bip_39_word_new_br_4: year<br>rack<br>during<br>airport
-bip_39_word_new_br_5: year<br>rack<br>during<br>airport<br>proof
-bip_39_word_new_br_6: year<br>rack<br>during<br>airport<br>proof<br>identify
-bip_39_word_new_br_7: year<br>rack<br>during<br>airport<br>proof<br>identify<br>check
-bip_39_word_new_br_8: year<br>rack<br>during<br>airport<br>proof<br>identify<br>check<br>engage
-bip_39_word_new_br_9: year<br>rack<br>during<br>airport<br>proof<br>identify<br>check<br>engage<br>aisle
-bip_39_word_new_line_1: year
-bip_39_word_new_line_10: 'year
-
-  rack
-
-  during
-
-  airport
-
-  proof
-
-  identify
-
-  check
-
-  engage
-
-  aisle
-
-  deputy'
-bip_39_word_new_line_11: 'year
-
-  rack
-
-  during
-
-  airport
-
-  proof
-
-  identify
-
-  check
-
-  engage
-
-  aisle
-
-  deputy
-
-  stool'
 bip_39_word_new_line_12: 'year
 
   rack
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'year
   rack
 
   during'
-bip_39_word_new_line_4: 'year
-
-  rack
-
-  during
-
-  airport'
-bip_39_word_new_line_5: 'year
-
-  rack
-
-  during
-
-  airport
-
-  proof'
-bip_39_word_new_line_6: 'year
-
-  rack
-
-  during
-
-  airport
-
-  proof
-
-  identify'
-bip_39_word_new_line_7: 'year
-
-  rack
-
-  during
-
-  airport
-
-  proof
-
-  identify
-
-  check'
-bip_39_word_new_line_8: 'year
-
-  rack
-
-  during
-
-  airport
-
-  proof
-
-  identify
-
-  check
-
-  engage'
-bip_39_word_new_line_9: 'year
-
-  rack
-
-  during
-
-  airport
-
-  proof
-
-  identify
-
-  check
-
-  engage
-
-  aisle'
-bip_39_word_no_space_1: year
-bip_39_word_no_space_10: yearrackduringairportproofidentifycheckengageaisledeputy
-bip_39_word_no_space_11: yearrackduringairportproofidentifycheckengageaisledeputystool
 bip_39_word_no_space_12: yearrackduringairportproofidentifycheckengageaisledeputystoolagain
 bip_39_word_no_space_2: yearrack
 bip_39_word_no_space_3: yearrackduring
-bip_39_word_no_space_4: yearrackduringairport
-bip_39_word_no_space_5: yearrackduringairportproof
-bip_39_word_no_space_6: yearrackduringairportproofidentify
-bip_39_word_no_space_7: yearrackduringairportproofidentifycheck
-bip_39_word_no_space_8: yearrackduringairportproofidentifycheckengage
-bip_39_word_no_space_9: yearrackduringairportproofidentifycheckengageaisle
-bip_39_word_space_0:
-- year
-- rack
-- during
-- airport
-- proof
-- identify
-- check
-- engage
-- aisle
-- deputy
-- stool
-- again
-bip_39_word_space_1: year
-bip_39_word_space_10: year rack during airport proof identify check engage aisle deputy
-bip_39_word_space_11: year rack during airport proof identify check engage aisle deputy
-  stool
 bip_39_word_space_12: year rack during airport proof identify check engage aisle deputy
   stool again
 bip_39_word_space_2: year rack
 bip_39_word_space_3: year rack during
-bip_39_word_space_4: year rack during airport
-bip_39_word_space_5: year rack during airport proof
-bip_39_word_space_6: year rack during airport proof identify
-bip_39_word_space_7: year rack during airport proof identify check
-bip_39_word_space_8: year rack during airport proof identify check engage
-bip_39_word_space_9: year rack during airport proof identify check engage aisle
-bip_39_word_underscore_1: year
-bip_39_word_underscore_10: year_rack_during_airport_proof_identify_check_engage_aisle_deputy
-bip_39_word_underscore_11: year_rack_during_airport_proof_identify_check_engage_aisle_deputy_stool
 bip_39_word_underscore_12: year_rack_during_airport_proof_identify_check_engage_aisle_deputy_stool_again
 bip_39_word_underscore_2: year_rack
 bip_39_word_underscore_3: year_rack_during
-bip_39_word_underscore_4: year_rack_during_airport
-bip_39_word_underscore_5: year_rack_during_airport_proof
-bip_39_word_underscore_6: year_rack_during_airport_proof_identify
-bip_39_word_underscore_7: year_rack_during_airport_proof_identify_check
-bip_39_word_underscore_8: year_rack_during_airport_proof_identify_check_engage
-bip_39_word_underscore_9: year_rack_during_airport_proof_identify_check_engage_aisle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

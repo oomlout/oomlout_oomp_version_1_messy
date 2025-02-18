@@ -24,9 +24,9 @@ category_hardware
   * description_extra: tote
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: crunch burger
+  * bip 39 word 3: crunch burger slim
+  * bip 39 word: crunch burger slim bitter skull season unhappy title spider tone catch ancient
 
 ### other_codes
 * short_code: 
@@ -40,6 +40,22 @@ category_hardware
 
 
 
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205bfi1)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%205bfi1)
+[2x1](http://192.168.1.242:1112/?label=oomp%205bfi1)
+[6x4](http://192.168.1.55:1112/?label=oomp%205bfi1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m4_tote) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m4_tote)                             
+
+#### price
+
+
+
+
 
 
 
@@ -47,20 +63,34 @@ category_hardware
 | key | value |  
 | --- | --- |  
 | classification | category |  
+| classification_name | Category |  
 | color | m4 |  
+| color_name | M4 |  
 | description | category_hardware |  
 | description_extra | tote |  
+| description_extra_name | Tote |  
 | description_main |  |  
+| description_main_name |  |  
 | description_or_color | M  |  
 | directory | parts/category_hardware_screw_grub_m4_tote |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_screw_grub_m4_tote |  
 | id | category_hardware_screw_grub_m4_tote |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m4_tote |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m4_tote |  
+| link_2_name | link_github |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m4_tote |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m4_tote |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205bfi1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205bfi1 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%205bfi1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205bfi1 |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m4_tote |  
 | manufacturer |  |  
+| manufacturer_name |  |  
 | manufacturers | [] |  
 | markdown_full | [category_hardware_screw_grub_m4_tote](none)<br>[](none)<br>[Category Hardware Screw Grub M4 Tote](none)<br><br> |  
 | markdown_short | [category_hardware_screw_grub_m4_tote](none)<br><br> |  
@@ -70,6 +100,12 @@ category_hardware
 | md5_6 | 884839 |  
 | md5_6_alpha | 5bfi1 |  
 | name | Category Hardware Screw Grub M4 Tote |  
+| oomlout_detail_hierarchy_1 | category |  
+| oomlout_detail_hierarchy_2 | hardware |  
+| oomlout_detail_hierarchy_3 | sgrub |  
+| oomlout_detail_hierarchy_4 | m4 |  
+| oomlout_detail_hierarchy_5 | tote |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_category_hardware_screw_grub_m4_tote |  
 | oomp_word | wrench hatched_chick tiger |  
 | oomp_word_emoji | :wrench: :hatched_chick: :tiger: |  
@@ -77,7 +113,10 @@ category_hardware
 | oomp_word_list | ['wrench', 'hatched_chick', 'tiger'] |  
 | part_number |  |  
 | part_number_exact |  |  
+| part_number_name |  |  
 | short_code |  |  
 | short_name | Categoryhardware |  
 | size | screw_grub |  
+| size_name | Screw Grub |  
 | type | hardware |  
+| type_name | Hardware |  

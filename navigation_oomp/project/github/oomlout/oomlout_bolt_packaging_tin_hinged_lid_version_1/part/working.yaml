@@ -1,68 +1,9 @@
-bip_39_word_dash_1: witness
-bip_39_word_dash_10: witness-coast-across-choice-door-pond-march-judge-train-evidence
-bip_39_word_dash_11: witness-coast-across-choice-door-pond-march-judge-train-evidence-eternal
 bip_39_word_dash_12: witness-coast-across-choice-door-pond-march-judge-train-evidence-eternal-addict
 bip_39_word_dash_2: witness-coast
 bip_39_word_dash_3: witness-coast-across
-bip_39_word_dash_4: witness-coast-across-choice
-bip_39_word_dash_5: witness-coast-across-choice-door
-bip_39_word_dash_6: witness-coast-across-choice-door-pond
-bip_39_word_dash_7: witness-coast-across-choice-door-pond-march
-bip_39_word_dash_8: witness-coast-across-choice-door-pond-march-judge
-bip_39_word_dash_9: witness-coast-across-choice-door-pond-march-judge-train
-bip_39_word_new_br_1: witness
-bip_39_word_new_br_10: witness<br>coast<br>across<br>choice<br>door<br>pond<br>march<br>judge<br>train<br>evidence
-bip_39_word_new_br_11: witness<br>coast<br>across<br>choice<br>door<br>pond<br>march<br>judge<br>train<br>evidence<br>eternal
 bip_39_word_new_br_12: witness<br>coast<br>across<br>choice<br>door<br>pond<br>march<br>judge<br>train<br>evidence<br>eternal<br>addict
 bip_39_word_new_br_2: witness<br>coast
 bip_39_word_new_br_3: witness<br>coast<br>across
-bip_39_word_new_br_4: witness<br>coast<br>across<br>choice
-bip_39_word_new_br_5: witness<br>coast<br>across<br>choice<br>door
-bip_39_word_new_br_6: witness<br>coast<br>across<br>choice<br>door<br>pond
-bip_39_word_new_br_7: witness<br>coast<br>across<br>choice<br>door<br>pond<br>march
-bip_39_word_new_br_8: witness<br>coast<br>across<br>choice<br>door<br>pond<br>march<br>judge
-bip_39_word_new_br_9: witness<br>coast<br>across<br>choice<br>door<br>pond<br>march<br>judge<br>train
-bip_39_word_new_line_1: witness
-bip_39_word_new_line_10: 'witness
-
-  coast
-
-  across
-
-  choice
-
-  door
-
-  pond
-
-  march
-
-  judge
-
-  train
-
-  evidence'
-bip_39_word_new_line_11: 'witness
-
-  coast
-
-  across
-
-  choice
-
-  door
-
-  pond
-
-  march
-
-  judge
-
-  train
-
-  evidence
-
-  eternal'
 bip_39_word_new_line_12: 'witness
 
   coast
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'witness
   coast
 
   across'
-bip_39_word_new_line_4: 'witness
-
-  coast
-
-  across
-
-  choice'
-bip_39_word_new_line_5: 'witness
-
-  coast
-
-  across
-
-  choice
-
-  door'
-bip_39_word_new_line_6: 'witness
-
-  coast
-
-  across
-
-  choice
-
-  door
-
-  pond'
-bip_39_word_new_line_7: 'witness
-
-  coast
-
-  across
-
-  choice
-
-  door
-
-  pond
-
-  march'
-bip_39_word_new_line_8: 'witness
-
-  coast
-
-  across
-
-  choice
-
-  door
-
-  pond
-
-  march
-
-  judge'
-bip_39_word_new_line_9: 'witness
-
-  coast
-
-  across
-
-  choice
-
-  door
-
-  pond
-
-  march
-
-  judge
-
-  train'
-bip_39_word_no_space_1: witness
-bip_39_word_no_space_10: witnesscoastacrosschoicedoorpondmarchjudgetrainevidence
-bip_39_word_no_space_11: witnesscoastacrosschoicedoorpondmarchjudgetrainevidenceeternal
 bip_39_word_no_space_12: witnesscoastacrosschoicedoorpondmarchjudgetrainevidenceeternaladdict
 bip_39_word_no_space_2: witnesscoast
 bip_39_word_no_space_3: witnesscoastacross
-bip_39_word_no_space_4: witnesscoastacrosschoice
-bip_39_word_no_space_5: witnesscoastacrosschoicedoor
-bip_39_word_no_space_6: witnesscoastacrosschoicedoorpond
-bip_39_word_no_space_7: witnesscoastacrosschoicedoorpondmarch
-bip_39_word_no_space_8: witnesscoastacrosschoicedoorpondmarchjudge
-bip_39_word_no_space_9: witnesscoastacrosschoicedoorpondmarchjudgetrain
-bip_39_word_space_0:
-- witness
-- coast
-- across
-- choice
-- door
-- pond
-- march
-- judge
-- train
-- evidence
-- eternal
-- addict
-bip_39_word_space_1: witness
-bip_39_word_space_10: witness coast across choice door pond march judge train evidence
-bip_39_word_space_11: witness coast across choice door pond march judge train evidence
-  eternal
 bip_39_word_space_12: witness coast across choice door pond march judge train evidence
   eternal addict
 bip_39_word_space_2: witness coast
 bip_39_word_space_3: witness coast across
-bip_39_word_space_4: witness coast across choice
-bip_39_word_space_5: witness coast across choice door
-bip_39_word_space_6: witness coast across choice door pond
-bip_39_word_space_7: witness coast across choice door pond march
-bip_39_word_space_8: witness coast across choice door pond march judge
-bip_39_word_space_9: witness coast across choice door pond march judge train
-bip_39_word_underscore_1: witness
-bip_39_word_underscore_10: witness_coast_across_choice_door_pond_march_judge_train_evidence
-bip_39_word_underscore_11: witness_coast_across_choice_door_pond_march_judge_train_evidence_eternal
 bip_39_word_underscore_12: witness_coast_across_choice_door_pond_march_judge_train_evidence_eternal_addict
 bip_39_word_underscore_2: witness_coast
 bip_39_word_underscore_3: witness_coast_across
-bip_39_word_underscore_4: witness_coast_across_choice
-bip_39_word_underscore_5: witness_coast_across_choice_door
-bip_39_word_underscore_6: witness_coast_across_choice_door_pond
-bip_39_word_underscore_7: witness_coast_across_choice_door_pond_march
-bip_39_word_underscore_8: witness_coast_across_choice_door_pond_march_judge
-bip_39_word_underscore_9: witness_coast_across_choice_door_pond_march_judge_train
 classification: project
 classification_capital: Project
 classification_first_letter: p

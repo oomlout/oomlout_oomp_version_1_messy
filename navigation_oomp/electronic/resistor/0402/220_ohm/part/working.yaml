@@ -1,68 +1,9 @@
-bip_39_word_dash_1: airport
-bip_39_word_dash_10: airport-model-unknown-sadness-advance-tower-satisfy-person-super-abuse
-bip_39_word_dash_11: airport-model-unknown-sadness-advance-tower-satisfy-person-super-abuse-long
 bip_39_word_dash_12: airport-model-unknown-sadness-advance-tower-satisfy-person-super-abuse-long-athlete
 bip_39_word_dash_2: airport-model
 bip_39_word_dash_3: airport-model-unknown
-bip_39_word_dash_4: airport-model-unknown-sadness
-bip_39_word_dash_5: airport-model-unknown-sadness-advance
-bip_39_word_dash_6: airport-model-unknown-sadness-advance-tower
-bip_39_word_dash_7: airport-model-unknown-sadness-advance-tower-satisfy
-bip_39_word_dash_8: airport-model-unknown-sadness-advance-tower-satisfy-person
-bip_39_word_dash_9: airport-model-unknown-sadness-advance-tower-satisfy-person-super
-bip_39_word_new_br_1: airport
-bip_39_word_new_br_10: airport<br>model<br>unknown<br>sadness<br>advance<br>tower<br>satisfy<br>person<br>super<br>abuse
-bip_39_word_new_br_11: airport<br>model<br>unknown<br>sadness<br>advance<br>tower<br>satisfy<br>person<br>super<br>abuse<br>long
 bip_39_word_new_br_12: airport<br>model<br>unknown<br>sadness<br>advance<br>tower<br>satisfy<br>person<br>super<br>abuse<br>long<br>athlete
 bip_39_word_new_br_2: airport<br>model
 bip_39_word_new_br_3: airport<br>model<br>unknown
-bip_39_word_new_br_4: airport<br>model<br>unknown<br>sadness
-bip_39_word_new_br_5: airport<br>model<br>unknown<br>sadness<br>advance
-bip_39_word_new_br_6: airport<br>model<br>unknown<br>sadness<br>advance<br>tower
-bip_39_word_new_br_7: airport<br>model<br>unknown<br>sadness<br>advance<br>tower<br>satisfy
-bip_39_word_new_br_8: airport<br>model<br>unknown<br>sadness<br>advance<br>tower<br>satisfy<br>person
-bip_39_word_new_br_9: airport<br>model<br>unknown<br>sadness<br>advance<br>tower<br>satisfy<br>person<br>super
-bip_39_word_new_line_1: airport
-bip_39_word_new_line_10: 'airport
-
-  model
-
-  unknown
-
-  sadness
-
-  advance
-
-  tower
-
-  satisfy
-
-  person
-
-  super
-
-  abuse'
-bip_39_word_new_line_11: 'airport
-
-  model
-
-  unknown
-
-  sadness
-
-  advance
-
-  tower
-
-  satisfy
-
-  person
-
-  super
-
-  abuse
-
-  long'
 bip_39_word_new_line_12: 'airport
 
   model
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'airport
   model
 
   unknown'
-bip_39_word_new_line_4: 'airport
-
-  model
-
-  unknown
-
-  sadness'
-bip_39_word_new_line_5: 'airport
-
-  model
-
-  unknown
-
-  sadness
-
-  advance'
-bip_39_word_new_line_6: 'airport
-
-  model
-
-  unknown
-
-  sadness
-
-  advance
-
-  tower'
-bip_39_word_new_line_7: 'airport
-
-  model
-
-  unknown
-
-  sadness
-
-  advance
-
-  tower
-
-  satisfy'
-bip_39_word_new_line_8: 'airport
-
-  model
-
-  unknown
-
-  sadness
-
-  advance
-
-  tower
-
-  satisfy
-
-  person'
-bip_39_word_new_line_9: 'airport
-
-  model
-
-  unknown
-
-  sadness
-
-  advance
-
-  tower
-
-  satisfy
-
-  person
-
-  super'
-bip_39_word_no_space_1: airport
-bip_39_word_no_space_10: airportmodelunknownsadnessadvancetowersatisfypersonsuperabuse
-bip_39_word_no_space_11: airportmodelunknownsadnessadvancetowersatisfypersonsuperabuselong
 bip_39_word_no_space_12: airportmodelunknownsadnessadvancetowersatisfypersonsuperabuselongathlete
 bip_39_word_no_space_2: airportmodel
 bip_39_word_no_space_3: airportmodelunknown
-bip_39_word_no_space_4: airportmodelunknownsadness
-bip_39_word_no_space_5: airportmodelunknownsadnessadvance
-bip_39_word_no_space_6: airportmodelunknownsadnessadvancetower
-bip_39_word_no_space_7: airportmodelunknownsadnessadvancetowersatisfy
-bip_39_word_no_space_8: airportmodelunknownsadnessadvancetowersatisfyperson
-bip_39_word_no_space_9: airportmodelunknownsadnessadvancetowersatisfypersonsuper
-bip_39_word_space_0:
-- airport
-- model
-- unknown
-- sadness
-- advance
-- tower
-- satisfy
-- person
-- super
-- abuse
-- long
-- athlete
-bip_39_word_space_1: airport
-bip_39_word_space_10: airport model unknown sadness advance tower satisfy person super
-  abuse
-bip_39_word_space_11: airport model unknown sadness advance tower satisfy person super
-  abuse long
 bip_39_word_space_12: airport model unknown sadness advance tower satisfy person super
   abuse long athlete
 bip_39_word_space_2: airport model
 bip_39_word_space_3: airport model unknown
-bip_39_word_space_4: airport model unknown sadness
-bip_39_word_space_5: airport model unknown sadness advance
-bip_39_word_space_6: airport model unknown sadness advance tower
-bip_39_word_space_7: airport model unknown sadness advance tower satisfy
-bip_39_word_space_8: airport model unknown sadness advance tower satisfy person
-bip_39_word_space_9: airport model unknown sadness advance tower satisfy person super
-bip_39_word_underscore_1: airport
-bip_39_word_underscore_10: airport_model_unknown_sadness_advance_tower_satisfy_person_super_abuse
-bip_39_word_underscore_11: airport_model_unknown_sadness_advance_tower_satisfy_person_super_abuse_long
 bip_39_word_underscore_12: airport_model_unknown_sadness_advance_tower_satisfy_person_super_abuse_long_athlete
 bip_39_word_underscore_2: airport_model
 bip_39_word_underscore_3: airport_model_unknown
-bip_39_word_underscore_4: airport_model_unknown_sadness
-bip_39_word_underscore_5: airport_model_unknown_sadness_advance
-bip_39_word_underscore_6: airport_model_unknown_sadness_advance_tower
-bip_39_word_underscore_7: airport_model_unknown_sadness_advance_tower_satisfy
-bip_39_word_underscore_8: airport_model_unknown_sadness_advance_tower_satisfy_person
-bip_39_word_underscore_9: airport_model_unknown_sadness_advance_tower_satisfy_person_super
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

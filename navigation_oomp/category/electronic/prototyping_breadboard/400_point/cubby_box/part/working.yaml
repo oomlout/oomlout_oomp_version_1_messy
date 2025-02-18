@@ -1,68 +1,9 @@
-bip_39_word_dash_1: oven
-bip_39_word_dash_10: oven-tobacco-trial-firm-favorite-naive-weasel-useless-monster-short
-bip_39_word_dash_11: oven-tobacco-trial-firm-favorite-naive-weasel-useless-monster-short-pet
 bip_39_word_dash_12: oven-tobacco-trial-firm-favorite-naive-weasel-useless-monster-short-pet-acquire
 bip_39_word_dash_2: oven-tobacco
 bip_39_word_dash_3: oven-tobacco-trial
-bip_39_word_dash_4: oven-tobacco-trial-firm
-bip_39_word_dash_5: oven-tobacco-trial-firm-favorite
-bip_39_word_dash_6: oven-tobacco-trial-firm-favorite-naive
-bip_39_word_dash_7: oven-tobacco-trial-firm-favorite-naive-weasel
-bip_39_word_dash_8: oven-tobacco-trial-firm-favorite-naive-weasel-useless
-bip_39_word_dash_9: oven-tobacco-trial-firm-favorite-naive-weasel-useless-monster
-bip_39_word_new_br_1: oven
-bip_39_word_new_br_10: oven<br>tobacco<br>trial<br>firm<br>favorite<br>naive<br>weasel<br>useless<br>monster<br>short
-bip_39_word_new_br_11: oven<br>tobacco<br>trial<br>firm<br>favorite<br>naive<br>weasel<br>useless<br>monster<br>short<br>pet
 bip_39_word_new_br_12: oven<br>tobacco<br>trial<br>firm<br>favorite<br>naive<br>weasel<br>useless<br>monster<br>short<br>pet<br>acquire
 bip_39_word_new_br_2: oven<br>tobacco
 bip_39_word_new_br_3: oven<br>tobacco<br>trial
-bip_39_word_new_br_4: oven<br>tobacco<br>trial<br>firm
-bip_39_word_new_br_5: oven<br>tobacco<br>trial<br>firm<br>favorite
-bip_39_word_new_br_6: oven<br>tobacco<br>trial<br>firm<br>favorite<br>naive
-bip_39_word_new_br_7: oven<br>tobacco<br>trial<br>firm<br>favorite<br>naive<br>weasel
-bip_39_word_new_br_8: oven<br>tobacco<br>trial<br>firm<br>favorite<br>naive<br>weasel<br>useless
-bip_39_word_new_br_9: oven<br>tobacco<br>trial<br>firm<br>favorite<br>naive<br>weasel<br>useless<br>monster
-bip_39_word_new_line_1: oven
-bip_39_word_new_line_10: 'oven
-
-  tobacco
-
-  trial
-
-  firm
-
-  favorite
-
-  naive
-
-  weasel
-
-  useless
-
-  monster
-
-  short'
-bip_39_word_new_line_11: 'oven
-
-  tobacco
-
-  trial
-
-  firm
-
-  favorite
-
-  naive
-
-  weasel
-
-  useless
-
-  monster
-
-  short
-
-  pet'
 bip_39_word_new_line_12: 'oven
 
   tobacco
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'oven
   tobacco
 
   trial'
-bip_39_word_new_line_4: 'oven
-
-  tobacco
-
-  trial
-
-  firm'
-bip_39_word_new_line_5: 'oven
-
-  tobacco
-
-  trial
-
-  firm
-
-  favorite'
-bip_39_word_new_line_6: 'oven
-
-  tobacco
-
-  trial
-
-  firm
-
-  favorite
-
-  naive'
-bip_39_word_new_line_7: 'oven
-
-  tobacco
-
-  trial
-
-  firm
-
-  favorite
-
-  naive
-
-  weasel'
-bip_39_word_new_line_8: 'oven
-
-  tobacco
-
-  trial
-
-  firm
-
-  favorite
-
-  naive
-
-  weasel
-
-  useless'
-bip_39_word_new_line_9: 'oven
-
-  tobacco
-
-  trial
-
-  firm
-
-  favorite
-
-  naive
-
-  weasel
-
-  useless
-
-  monster'
-bip_39_word_no_space_1: oven
-bip_39_word_no_space_10: oventobaccotrialfirmfavoritenaiveweaseluselessmonstershort
-bip_39_word_no_space_11: oventobaccotrialfirmfavoritenaiveweaseluselessmonstershortpet
 bip_39_word_no_space_12: oventobaccotrialfirmfavoritenaiveweaseluselessmonstershortpetacquire
 bip_39_word_no_space_2: oventobacco
 bip_39_word_no_space_3: oventobaccotrial
-bip_39_word_no_space_4: oventobaccotrialfirm
-bip_39_word_no_space_5: oventobaccotrialfirmfavorite
-bip_39_word_no_space_6: oventobaccotrialfirmfavoritenaive
-bip_39_word_no_space_7: oventobaccotrialfirmfavoritenaiveweasel
-bip_39_word_no_space_8: oventobaccotrialfirmfavoritenaiveweaseluseless
-bip_39_word_no_space_9: oventobaccotrialfirmfavoritenaiveweaseluselessmonster
-bip_39_word_space_0:
-- oven
-- tobacco
-- trial
-- firm
-- favorite
-- naive
-- weasel
-- useless
-- monster
-- short
-- pet
-- acquire
-bip_39_word_space_1: oven
-bip_39_word_space_10: oven tobacco trial firm favorite naive weasel useless monster
-  short
-bip_39_word_space_11: oven tobacco trial firm favorite naive weasel useless monster
-  short pet
 bip_39_word_space_12: oven tobacco trial firm favorite naive weasel useless monster
   short pet acquire
 bip_39_word_space_2: oven tobacco
 bip_39_word_space_3: oven tobacco trial
-bip_39_word_space_4: oven tobacco trial firm
-bip_39_word_space_5: oven tobacco trial firm favorite
-bip_39_word_space_6: oven tobacco trial firm favorite naive
-bip_39_word_space_7: oven tobacco trial firm favorite naive weasel
-bip_39_word_space_8: oven tobacco trial firm favorite naive weasel useless
-bip_39_word_space_9: oven tobacco trial firm favorite naive weasel useless monster
-bip_39_word_underscore_1: oven
-bip_39_word_underscore_10: oven_tobacco_trial_firm_favorite_naive_weasel_useless_monster_short
-bip_39_word_underscore_11: oven_tobacco_trial_firm_favorite_naive_weasel_useless_monster_short_pet
 bip_39_word_underscore_12: oven_tobacco_trial_firm_favorite_naive_weasel_useless_monster_short_pet_acquire
 bip_39_word_underscore_2: oven_tobacco
 bip_39_word_underscore_3: oven_tobacco_trial
-bip_39_word_underscore_4: oven_tobacco_trial_firm
-bip_39_word_underscore_5: oven_tobacco_trial_firm_favorite
-bip_39_word_underscore_6: oven_tobacco_trial_firm_favorite_naive
-bip_39_word_underscore_7: oven_tobacco_trial_firm_favorite_naive_weasel
-bip_39_word_underscore_8: oven_tobacco_trial_firm_favorite_naive_weasel_useless
-bip_39_word_underscore_9: oven_tobacco_trial_firm_favorite_naive_weasel_useless_monster
 classification: category
 classification_capital: Category
 classification_first_letter: c

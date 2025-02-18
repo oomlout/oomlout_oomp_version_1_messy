@@ -1,68 +1,9 @@
-bip_39_word_dash_1: omit
-bip_39_word_dash_10: omit-oxygen-devote-sport-blame-shoot-naive-plastic-slush-minute
-bip_39_word_dash_11: omit-oxygen-devote-sport-blame-shoot-naive-plastic-slush-minute-echo
 bip_39_word_dash_12: omit-oxygen-devote-sport-blame-shoot-naive-plastic-slush-minute-echo-area
 bip_39_word_dash_2: omit-oxygen
 bip_39_word_dash_3: omit-oxygen-devote
-bip_39_word_dash_4: omit-oxygen-devote-sport
-bip_39_word_dash_5: omit-oxygen-devote-sport-blame
-bip_39_word_dash_6: omit-oxygen-devote-sport-blame-shoot
-bip_39_word_dash_7: omit-oxygen-devote-sport-blame-shoot-naive
-bip_39_word_dash_8: omit-oxygen-devote-sport-blame-shoot-naive-plastic
-bip_39_word_dash_9: omit-oxygen-devote-sport-blame-shoot-naive-plastic-slush
-bip_39_word_new_br_1: omit
-bip_39_word_new_br_10: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot<br>naive<br>plastic<br>slush<br>minute
-bip_39_word_new_br_11: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot<br>naive<br>plastic<br>slush<br>minute<br>echo
 bip_39_word_new_br_12: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot<br>naive<br>plastic<br>slush<br>minute<br>echo<br>area
 bip_39_word_new_br_2: omit<br>oxygen
 bip_39_word_new_br_3: omit<br>oxygen<br>devote
-bip_39_word_new_br_4: omit<br>oxygen<br>devote<br>sport
-bip_39_word_new_br_5: omit<br>oxygen<br>devote<br>sport<br>blame
-bip_39_word_new_br_6: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot
-bip_39_word_new_br_7: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot<br>naive
-bip_39_word_new_br_8: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot<br>naive<br>plastic
-bip_39_word_new_br_9: omit<br>oxygen<br>devote<br>sport<br>blame<br>shoot<br>naive<br>plastic<br>slush
-bip_39_word_new_line_1: omit
-bip_39_word_new_line_10: 'omit
-
-  oxygen
-
-  devote
-
-  sport
-
-  blame
-
-  shoot
-
-  naive
-
-  plastic
-
-  slush
-
-  minute'
-bip_39_word_new_line_11: 'omit
-
-  oxygen
-
-  devote
-
-  sport
-
-  blame
-
-  shoot
-
-  naive
-
-  plastic
-
-  slush
-
-  minute
-
-  echo'
 bip_39_word_new_line_12: 'omit
 
   oxygen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'omit
   oxygen
 
   devote'
-bip_39_word_new_line_4: 'omit
-
-  oxygen
-
-  devote
-
-  sport'
-bip_39_word_new_line_5: 'omit
-
-  oxygen
-
-  devote
-
-  sport
-
-  blame'
-bip_39_word_new_line_6: 'omit
-
-  oxygen
-
-  devote
-
-  sport
-
-  blame
-
-  shoot'
-bip_39_word_new_line_7: 'omit
-
-  oxygen
-
-  devote
-
-  sport
-
-  blame
-
-  shoot
-
-  naive'
-bip_39_word_new_line_8: 'omit
-
-  oxygen
-
-  devote
-
-  sport
-
-  blame
-
-  shoot
-
-  naive
-
-  plastic'
-bip_39_word_new_line_9: 'omit
-
-  oxygen
-
-  devote
-
-  sport
-
-  blame
-
-  shoot
-
-  naive
-
-  plastic
-
-  slush'
-bip_39_word_no_space_1: omit
-bip_39_word_no_space_10: omitoxygendevotesportblameshootnaiveplasticslushminute
-bip_39_word_no_space_11: omitoxygendevotesportblameshootnaiveplasticslushminuteecho
 bip_39_word_no_space_12: omitoxygendevotesportblameshootnaiveplasticslushminuteechoarea
 bip_39_word_no_space_2: omitoxygen
 bip_39_word_no_space_3: omitoxygendevote
-bip_39_word_no_space_4: omitoxygendevotesport
-bip_39_word_no_space_5: omitoxygendevotesportblame
-bip_39_word_no_space_6: omitoxygendevotesportblameshoot
-bip_39_word_no_space_7: omitoxygendevotesportblameshootnaive
-bip_39_word_no_space_8: omitoxygendevotesportblameshootnaiveplastic
-bip_39_word_no_space_9: omitoxygendevotesportblameshootnaiveplasticslush
-bip_39_word_space_0:
-- omit
-- oxygen
-- devote
-- sport
-- blame
-- shoot
-- naive
-- plastic
-- slush
-- minute
-- echo
-- area
-bip_39_word_space_1: omit
-bip_39_word_space_10: omit oxygen devote sport blame shoot naive plastic slush minute
-bip_39_word_space_11: omit oxygen devote sport blame shoot naive plastic slush minute
-  echo
 bip_39_word_space_12: omit oxygen devote sport blame shoot naive plastic slush minute
   echo area
 bip_39_word_space_2: omit oxygen
 bip_39_word_space_3: omit oxygen devote
-bip_39_word_space_4: omit oxygen devote sport
-bip_39_word_space_5: omit oxygen devote sport blame
-bip_39_word_space_6: omit oxygen devote sport blame shoot
-bip_39_word_space_7: omit oxygen devote sport blame shoot naive
-bip_39_word_space_8: omit oxygen devote sport blame shoot naive plastic
-bip_39_word_space_9: omit oxygen devote sport blame shoot naive plastic slush
-bip_39_word_underscore_1: omit
-bip_39_word_underscore_10: omit_oxygen_devote_sport_blame_shoot_naive_plastic_slush_minute
-bip_39_word_underscore_11: omit_oxygen_devote_sport_blame_shoot_naive_plastic_slush_minute_echo
 bip_39_word_underscore_12: omit_oxygen_devote_sport_blame_shoot_naive_plastic_slush_minute_echo_area
 bip_39_word_underscore_2: omit_oxygen
 bip_39_word_underscore_3: omit_oxygen_devote
-bip_39_word_underscore_4: omit_oxygen_devote_sport
-bip_39_word_underscore_5: omit_oxygen_devote_sport_blame
-bip_39_word_underscore_6: omit_oxygen_devote_sport_blame_shoot
-bip_39_word_underscore_7: omit_oxygen_devote_sport_blame_shoot_naive
-bip_39_word_underscore_8: omit_oxygen_devote_sport_blame_shoot_naive_plastic
-bip_39_word_underscore_9: omit_oxygen_devote_sport_blame_shoot_naive_plastic_slush
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

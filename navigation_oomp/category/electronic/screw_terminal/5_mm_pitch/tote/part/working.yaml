@@ -1,68 +1,9 @@
-bip_39_word_dash_1: day
-bip_39_word_dash_10: day-young-hold-voyage-boy-kitten-hammer-paddle-wrestle-when
-bip_39_word_dash_11: day-young-hold-voyage-boy-kitten-hammer-paddle-wrestle-when-brief
 bip_39_word_dash_12: day-young-hold-voyage-boy-kitten-hammer-paddle-wrestle-when-brief-afraid
 bip_39_word_dash_2: day-young
 bip_39_word_dash_3: day-young-hold
-bip_39_word_dash_4: day-young-hold-voyage
-bip_39_word_dash_5: day-young-hold-voyage-boy
-bip_39_word_dash_6: day-young-hold-voyage-boy-kitten
-bip_39_word_dash_7: day-young-hold-voyage-boy-kitten-hammer
-bip_39_word_dash_8: day-young-hold-voyage-boy-kitten-hammer-paddle
-bip_39_word_dash_9: day-young-hold-voyage-boy-kitten-hammer-paddle-wrestle
-bip_39_word_new_br_1: day
-bip_39_word_new_br_10: day<br>young<br>hold<br>voyage<br>boy<br>kitten<br>hammer<br>paddle<br>wrestle<br>when
-bip_39_word_new_br_11: day<br>young<br>hold<br>voyage<br>boy<br>kitten<br>hammer<br>paddle<br>wrestle<br>when<br>brief
 bip_39_word_new_br_12: day<br>young<br>hold<br>voyage<br>boy<br>kitten<br>hammer<br>paddle<br>wrestle<br>when<br>brief<br>afraid
 bip_39_word_new_br_2: day<br>young
 bip_39_word_new_br_3: day<br>young<br>hold
-bip_39_word_new_br_4: day<br>young<br>hold<br>voyage
-bip_39_word_new_br_5: day<br>young<br>hold<br>voyage<br>boy
-bip_39_word_new_br_6: day<br>young<br>hold<br>voyage<br>boy<br>kitten
-bip_39_word_new_br_7: day<br>young<br>hold<br>voyage<br>boy<br>kitten<br>hammer
-bip_39_word_new_br_8: day<br>young<br>hold<br>voyage<br>boy<br>kitten<br>hammer<br>paddle
-bip_39_word_new_br_9: day<br>young<br>hold<br>voyage<br>boy<br>kitten<br>hammer<br>paddle<br>wrestle
-bip_39_word_new_line_1: day
-bip_39_word_new_line_10: 'day
-
-  young
-
-  hold
-
-  voyage
-
-  boy
-
-  kitten
-
-  hammer
-
-  paddle
-
-  wrestle
-
-  when'
-bip_39_word_new_line_11: 'day
-
-  young
-
-  hold
-
-  voyage
-
-  boy
-
-  kitten
-
-  hammer
-
-  paddle
-
-  wrestle
-
-  when
-
-  brief'
 bip_39_word_new_line_12: 'day
 
   young
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'day
   young
 
   hold'
-bip_39_word_new_line_4: 'day
-
-  young
-
-  hold
-
-  voyage'
-bip_39_word_new_line_5: 'day
-
-  young
-
-  hold
-
-  voyage
-
-  boy'
-bip_39_word_new_line_6: 'day
-
-  young
-
-  hold
-
-  voyage
-
-  boy
-
-  kitten'
-bip_39_word_new_line_7: 'day
-
-  young
-
-  hold
-
-  voyage
-
-  boy
-
-  kitten
-
-  hammer'
-bip_39_word_new_line_8: 'day
-
-  young
-
-  hold
-
-  voyage
-
-  boy
-
-  kitten
-
-  hammer
-
-  paddle'
-bip_39_word_new_line_9: 'day
-
-  young
-
-  hold
-
-  voyage
-
-  boy
-
-  kitten
-
-  hammer
-
-  paddle
-
-  wrestle'
-bip_39_word_no_space_1: day
-bip_39_word_no_space_10: dayyoungholdvoyageboykittenhammerpaddlewrestlewhen
-bip_39_word_no_space_11: dayyoungholdvoyageboykittenhammerpaddlewrestlewhenbrief
 bip_39_word_no_space_12: dayyoungholdvoyageboykittenhammerpaddlewrestlewhenbriefafraid
 bip_39_word_no_space_2: dayyoung
 bip_39_word_no_space_3: dayyounghold
-bip_39_word_no_space_4: dayyoungholdvoyage
-bip_39_word_no_space_5: dayyoungholdvoyageboy
-bip_39_word_no_space_6: dayyoungholdvoyageboykitten
-bip_39_word_no_space_7: dayyoungholdvoyageboykittenhammer
-bip_39_word_no_space_8: dayyoungholdvoyageboykittenhammerpaddle
-bip_39_word_no_space_9: dayyoungholdvoyageboykittenhammerpaddlewrestle
-bip_39_word_space_0:
-- day
-- young
-- hold
-- voyage
-- boy
-- kitten
-- hammer
-- paddle
-- wrestle
-- when
-- brief
-- afraid
-bip_39_word_space_1: day
-bip_39_word_space_10: day young hold voyage boy kitten hammer paddle wrestle when
-bip_39_word_space_11: day young hold voyage boy kitten hammer paddle wrestle when
-  brief
 bip_39_word_space_12: day young hold voyage boy kitten hammer paddle wrestle when
   brief afraid
 bip_39_word_space_2: day young
 bip_39_word_space_3: day young hold
-bip_39_word_space_4: day young hold voyage
-bip_39_word_space_5: day young hold voyage boy
-bip_39_word_space_6: day young hold voyage boy kitten
-bip_39_word_space_7: day young hold voyage boy kitten hammer
-bip_39_word_space_8: day young hold voyage boy kitten hammer paddle
-bip_39_word_space_9: day young hold voyage boy kitten hammer paddle wrestle
-bip_39_word_underscore_1: day
-bip_39_word_underscore_10: day_young_hold_voyage_boy_kitten_hammer_paddle_wrestle_when
-bip_39_word_underscore_11: day_young_hold_voyage_boy_kitten_hammer_paddle_wrestle_when_brief
 bip_39_word_underscore_12: day_young_hold_voyage_boy_kitten_hammer_paddle_wrestle_when_brief_afraid
 bip_39_word_underscore_2: day_young
 bip_39_word_underscore_3: day_young_hold
-bip_39_word_underscore_4: day_young_hold_voyage
-bip_39_word_underscore_5: day_young_hold_voyage_boy
-bip_39_word_underscore_6: day_young_hold_voyage_boy_kitten
-bip_39_word_underscore_7: day_young_hold_voyage_boy_kitten_hammer
-bip_39_word_underscore_8: day_young_hold_voyage_boy_kitten_hammer_paddle
-bip_39_word_underscore_9: day_young_hold_voyage_boy_kitten_hammer_paddle_wrestle
 classification: category
 classification_capital: Category
 classification_first_letter: c

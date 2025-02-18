@@ -1,68 +1,9 @@
-bip_39_word_dash_1: route
-bip_39_word_dash_10: route-elevator-staff-adult-strike-stairs-major-stage-detect-permit
-bip_39_word_dash_11: route-elevator-staff-adult-strike-stairs-major-stage-detect-permit-pact
 bip_39_word_dash_12: route-elevator-staff-adult-strike-stairs-major-stage-detect-permit-pact-adult
 bip_39_word_dash_2: route-elevator
 bip_39_word_dash_3: route-elevator-staff
-bip_39_word_dash_4: route-elevator-staff-adult
-bip_39_word_dash_5: route-elevator-staff-adult-strike
-bip_39_word_dash_6: route-elevator-staff-adult-strike-stairs
-bip_39_word_dash_7: route-elevator-staff-adult-strike-stairs-major
-bip_39_word_dash_8: route-elevator-staff-adult-strike-stairs-major-stage
-bip_39_word_dash_9: route-elevator-staff-adult-strike-stairs-major-stage-detect
-bip_39_word_new_br_1: route
-bip_39_word_new_br_10: route<br>elevator<br>staff<br>adult<br>strike<br>stairs<br>major<br>stage<br>detect<br>permit
-bip_39_word_new_br_11: route<br>elevator<br>staff<br>adult<br>strike<br>stairs<br>major<br>stage<br>detect<br>permit<br>pact
 bip_39_word_new_br_12: route<br>elevator<br>staff<br>adult<br>strike<br>stairs<br>major<br>stage<br>detect<br>permit<br>pact<br>adult
 bip_39_word_new_br_2: route<br>elevator
 bip_39_word_new_br_3: route<br>elevator<br>staff
-bip_39_word_new_br_4: route<br>elevator<br>staff<br>adult
-bip_39_word_new_br_5: route<br>elevator<br>staff<br>adult<br>strike
-bip_39_word_new_br_6: route<br>elevator<br>staff<br>adult<br>strike<br>stairs
-bip_39_word_new_br_7: route<br>elevator<br>staff<br>adult<br>strike<br>stairs<br>major
-bip_39_word_new_br_8: route<br>elevator<br>staff<br>adult<br>strike<br>stairs<br>major<br>stage
-bip_39_word_new_br_9: route<br>elevator<br>staff<br>adult<br>strike<br>stairs<br>major<br>stage<br>detect
-bip_39_word_new_line_1: route
-bip_39_word_new_line_10: 'route
-
-  elevator
-
-  staff
-
-  adult
-
-  strike
-
-  stairs
-
-  major
-
-  stage
-
-  detect
-
-  permit'
-bip_39_word_new_line_11: 'route
-
-  elevator
-
-  staff
-
-  adult
-
-  strike
-
-  stairs
-
-  major
-
-  stage
-
-  detect
-
-  permit
-
-  pact'
 bip_39_word_new_line_12: 'route
 
   elevator
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'route
   elevator
 
   staff'
-bip_39_word_new_line_4: 'route
-
-  elevator
-
-  staff
-
-  adult'
-bip_39_word_new_line_5: 'route
-
-  elevator
-
-  staff
-
-  adult
-
-  strike'
-bip_39_word_new_line_6: 'route
-
-  elevator
-
-  staff
-
-  adult
-
-  strike
-
-  stairs'
-bip_39_word_new_line_7: 'route
-
-  elevator
-
-  staff
-
-  adult
-
-  strike
-
-  stairs
-
-  major'
-bip_39_word_new_line_8: 'route
-
-  elevator
-
-  staff
-
-  adult
-
-  strike
-
-  stairs
-
-  major
-
-  stage'
-bip_39_word_new_line_9: 'route
-
-  elevator
-
-  staff
-
-  adult
-
-  strike
-
-  stairs
-
-  major
-
-  stage
-
-  detect'
-bip_39_word_no_space_1: route
-bip_39_word_no_space_10: routeelevatorstaffadultstrikestairsmajorstagedetectpermit
-bip_39_word_no_space_11: routeelevatorstaffadultstrikestairsmajorstagedetectpermitpact
 bip_39_word_no_space_12: routeelevatorstaffadultstrikestairsmajorstagedetectpermitpactadult
 bip_39_word_no_space_2: routeelevator
 bip_39_word_no_space_3: routeelevatorstaff
-bip_39_word_no_space_4: routeelevatorstaffadult
-bip_39_word_no_space_5: routeelevatorstaffadultstrike
-bip_39_word_no_space_6: routeelevatorstaffadultstrikestairs
-bip_39_word_no_space_7: routeelevatorstaffadultstrikestairsmajor
-bip_39_word_no_space_8: routeelevatorstaffadultstrikestairsmajorstage
-bip_39_word_no_space_9: routeelevatorstaffadultstrikestairsmajorstagedetect
-bip_39_word_space_0:
-- route
-- elevator
-- staff
-- adult
-- strike
-- stairs
-- major
-- stage
-- detect
-- permit
-- pact
-- adult
-bip_39_word_space_1: route
-bip_39_word_space_10: route elevator staff adult strike stairs major stage detect
-  permit
-bip_39_word_space_11: route elevator staff adult strike stairs major stage detect
-  permit pact
 bip_39_word_space_12: route elevator staff adult strike stairs major stage detect
   permit pact adult
 bip_39_word_space_2: route elevator
 bip_39_word_space_3: route elevator staff
-bip_39_word_space_4: route elevator staff adult
-bip_39_word_space_5: route elevator staff adult strike
-bip_39_word_space_6: route elevator staff adult strike stairs
-bip_39_word_space_7: route elevator staff adult strike stairs major
-bip_39_word_space_8: route elevator staff adult strike stairs major stage
-bip_39_word_space_9: route elevator staff adult strike stairs major stage detect
-bip_39_word_underscore_1: route
-bip_39_word_underscore_10: route_elevator_staff_adult_strike_stairs_major_stage_detect_permit
-bip_39_word_underscore_11: route_elevator_staff_adult_strike_stairs_major_stage_detect_permit_pact
 bip_39_word_underscore_12: route_elevator_staff_adult_strike_stairs_major_stage_detect_permit_pact_adult
 bip_39_word_underscore_2: route_elevator
 bip_39_word_underscore_3: route_elevator_staff
-bip_39_word_underscore_4: route_elevator_staff_adult
-bip_39_word_underscore_5: route_elevator_staff_adult_strike
-bip_39_word_underscore_6: route_elevator_staff_adult_strike_stairs
-bip_39_word_underscore_7: route_elevator_staff_adult_strike_stairs_major
-bip_39_word_underscore_8: route_elevator_staff_adult_strike_stairs_major_stage
-bip_39_word_underscore_9: route_elevator_staff_adult_strike_stairs_major_stage_detect
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: say
-bip_39_word_dash_10: say-donate-company-elephant-sea-pattern-apology-awful-say-author
-bip_39_word_dash_11: say-donate-company-elephant-sea-pattern-apology-awful-say-author-carry
 bip_39_word_dash_12: say-donate-company-elephant-sea-pattern-apology-awful-say-author-carry-attract
 bip_39_word_dash_2: say-donate
 bip_39_word_dash_3: say-donate-company
-bip_39_word_dash_4: say-donate-company-elephant
-bip_39_word_dash_5: say-donate-company-elephant-sea
-bip_39_word_dash_6: say-donate-company-elephant-sea-pattern
-bip_39_word_dash_7: say-donate-company-elephant-sea-pattern-apology
-bip_39_word_dash_8: say-donate-company-elephant-sea-pattern-apology-awful
-bip_39_word_dash_9: say-donate-company-elephant-sea-pattern-apology-awful-say
-bip_39_word_new_br_1: say
-bip_39_word_new_br_10: say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author
-bip_39_word_new_br_11: say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author<br>carry
 bip_39_word_new_br_12: say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say<br>author<br>carry<br>attract
 bip_39_word_new_br_2: say<br>donate
 bip_39_word_new_br_3: say<br>donate<br>company
-bip_39_word_new_br_4: say<br>donate<br>company<br>elephant
-bip_39_word_new_br_5: say<br>donate<br>company<br>elephant<br>sea
-bip_39_word_new_br_6: say<br>donate<br>company<br>elephant<br>sea<br>pattern
-bip_39_word_new_br_7: say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology
-bip_39_word_new_br_8: say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful
-bip_39_word_new_br_9: say<br>donate<br>company<br>elephant<br>sea<br>pattern<br>apology<br>awful<br>say
-bip_39_word_new_line_1: say
-bip_39_word_new_line_10: 'say
-
-  donate
-
-  company
-
-  elephant
-
-  sea
-
-  pattern
-
-  apology
-
-  awful
-
-  say
-
-  author'
-bip_39_word_new_line_11: 'say
-
-  donate
-
-  company
-
-  elephant
-
-  sea
-
-  pattern
-
-  apology
-
-  awful
-
-  say
-
-  author
-
-  carry'
 bip_39_word_new_line_12: 'say
 
   donate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'say
   donate
 
   company'
-bip_39_word_new_line_4: 'say
-
-  donate
-
-  company
-
-  elephant'
-bip_39_word_new_line_5: 'say
-
-  donate
-
-  company
-
-  elephant
-
-  sea'
-bip_39_word_new_line_6: 'say
-
-  donate
-
-  company
-
-  elephant
-
-  sea
-
-  pattern'
-bip_39_word_new_line_7: 'say
-
-  donate
-
-  company
-
-  elephant
-
-  sea
-
-  pattern
-
-  apology'
-bip_39_word_new_line_8: 'say
-
-  donate
-
-  company
-
-  elephant
-
-  sea
-
-  pattern
-
-  apology
-
-  awful'
-bip_39_word_new_line_9: 'say
-
-  donate
-
-  company
-
-  elephant
-
-  sea
-
-  pattern
-
-  apology
-
-  awful
-
-  say'
-bip_39_word_no_space_1: say
-bip_39_word_no_space_10: saydonatecompanyelephantseapatternapologyawfulsayauthor
-bip_39_word_no_space_11: saydonatecompanyelephantseapatternapologyawfulsayauthorcarry
 bip_39_word_no_space_12: saydonatecompanyelephantseapatternapologyawfulsayauthorcarryattract
 bip_39_word_no_space_2: saydonate
 bip_39_word_no_space_3: saydonatecompany
-bip_39_word_no_space_4: saydonatecompanyelephant
-bip_39_word_no_space_5: saydonatecompanyelephantsea
-bip_39_word_no_space_6: saydonatecompanyelephantseapattern
-bip_39_word_no_space_7: saydonatecompanyelephantseapatternapology
-bip_39_word_no_space_8: saydonatecompanyelephantseapatternapologyawful
-bip_39_word_no_space_9: saydonatecompanyelephantseapatternapologyawfulsay
-bip_39_word_space_0:
-- say
-- donate
-- company
-- elephant
-- sea
-- pattern
-- apology
-- awful
-- say
-- author
-- carry
-- attract
-bip_39_word_space_1: say
-bip_39_word_space_10: say donate company elephant sea pattern apology awful say author
-bip_39_word_space_11: say donate company elephant sea pattern apology awful say author
-  carry
 bip_39_word_space_12: say donate company elephant sea pattern apology awful say author
   carry attract
 bip_39_word_space_2: say donate
 bip_39_word_space_3: say donate company
-bip_39_word_space_4: say donate company elephant
-bip_39_word_space_5: say donate company elephant sea
-bip_39_word_space_6: say donate company elephant sea pattern
-bip_39_word_space_7: say donate company elephant sea pattern apology
-bip_39_word_space_8: say donate company elephant sea pattern apology awful
-bip_39_word_space_9: say donate company elephant sea pattern apology awful say
-bip_39_word_underscore_1: say
-bip_39_word_underscore_10: say_donate_company_elephant_sea_pattern_apology_awful_say_author
-bip_39_word_underscore_11: say_donate_company_elephant_sea_pattern_apology_awful_say_author_carry
 bip_39_word_underscore_12: say_donate_company_elephant_sea_pattern_apology_awful_say_author_carry_attract
 bip_39_word_underscore_2: say_donate
 bip_39_word_underscore_3: say_donate_company
-bip_39_word_underscore_4: say_donate_company_elephant
-bip_39_word_underscore_5: say_donate_company_elephant_sea
-bip_39_word_underscore_6: say_donate_company_elephant_sea_pattern
-bip_39_word_underscore_7: say_donate_company_elephant_sea_pattern_apology
-bip_39_word_underscore_8: say_donate_company_elephant_sea_pattern_apology_awful
-bip_39_word_underscore_9: say_donate_company_elephant_sea_pattern_apology_awful_say
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uniform
-bip_39_word_dash_10: uniform-evoke-crater-captain-glide-this-tiger-tonight-elder-frozen
-bip_39_word_dash_11: uniform-evoke-crater-captain-glide-this-tiger-tonight-elder-frozen-water
 bip_39_word_dash_12: uniform-evoke-crater-captain-glide-this-tiger-tonight-elder-frozen-water-acid
 bip_39_word_dash_2: uniform-evoke
 bip_39_word_dash_3: uniform-evoke-crater
-bip_39_word_dash_4: uniform-evoke-crater-captain
-bip_39_word_dash_5: uniform-evoke-crater-captain-glide
-bip_39_word_dash_6: uniform-evoke-crater-captain-glide-this
-bip_39_word_dash_7: uniform-evoke-crater-captain-glide-this-tiger
-bip_39_word_dash_8: uniform-evoke-crater-captain-glide-this-tiger-tonight
-bip_39_word_dash_9: uniform-evoke-crater-captain-glide-this-tiger-tonight-elder
-bip_39_word_new_br_1: uniform
-bip_39_word_new_br_10: uniform<br>evoke<br>crater<br>captain<br>glide<br>this<br>tiger<br>tonight<br>elder<br>frozen
-bip_39_word_new_br_11: uniform<br>evoke<br>crater<br>captain<br>glide<br>this<br>tiger<br>tonight<br>elder<br>frozen<br>water
 bip_39_word_new_br_12: uniform<br>evoke<br>crater<br>captain<br>glide<br>this<br>tiger<br>tonight<br>elder<br>frozen<br>water<br>acid
 bip_39_word_new_br_2: uniform<br>evoke
 bip_39_word_new_br_3: uniform<br>evoke<br>crater
-bip_39_word_new_br_4: uniform<br>evoke<br>crater<br>captain
-bip_39_word_new_br_5: uniform<br>evoke<br>crater<br>captain<br>glide
-bip_39_word_new_br_6: uniform<br>evoke<br>crater<br>captain<br>glide<br>this
-bip_39_word_new_br_7: uniform<br>evoke<br>crater<br>captain<br>glide<br>this<br>tiger
-bip_39_word_new_br_8: uniform<br>evoke<br>crater<br>captain<br>glide<br>this<br>tiger<br>tonight
-bip_39_word_new_br_9: uniform<br>evoke<br>crater<br>captain<br>glide<br>this<br>tiger<br>tonight<br>elder
-bip_39_word_new_line_1: uniform
-bip_39_word_new_line_10: 'uniform
-
-  evoke
-
-  crater
-
-  captain
-
-  glide
-
-  this
-
-  tiger
-
-  tonight
-
-  elder
-
-  frozen'
-bip_39_word_new_line_11: 'uniform
-
-  evoke
-
-  crater
-
-  captain
-
-  glide
-
-  this
-
-  tiger
-
-  tonight
-
-  elder
-
-  frozen
-
-  water'
 bip_39_word_new_line_12: 'uniform
 
   evoke
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'uniform
   evoke
 
   crater'
-bip_39_word_new_line_4: 'uniform
-
-  evoke
-
-  crater
-
-  captain'
-bip_39_word_new_line_5: 'uniform
-
-  evoke
-
-  crater
-
-  captain
-
-  glide'
-bip_39_word_new_line_6: 'uniform
-
-  evoke
-
-  crater
-
-  captain
-
-  glide
-
-  this'
-bip_39_word_new_line_7: 'uniform
-
-  evoke
-
-  crater
-
-  captain
-
-  glide
-
-  this
-
-  tiger'
-bip_39_word_new_line_8: 'uniform
-
-  evoke
-
-  crater
-
-  captain
-
-  glide
-
-  this
-
-  tiger
-
-  tonight'
-bip_39_word_new_line_9: 'uniform
-
-  evoke
-
-  crater
-
-  captain
-
-  glide
-
-  this
-
-  tiger
-
-  tonight
-
-  elder'
-bip_39_word_no_space_1: uniform
-bip_39_word_no_space_10: uniformevokecratercaptainglidethistigertonightelderfrozen
-bip_39_word_no_space_11: uniformevokecratercaptainglidethistigertonightelderfrozenwater
 bip_39_word_no_space_12: uniformevokecratercaptainglidethistigertonightelderfrozenwateracid
 bip_39_word_no_space_2: uniformevoke
 bip_39_word_no_space_3: uniformevokecrater
-bip_39_word_no_space_4: uniformevokecratercaptain
-bip_39_word_no_space_5: uniformevokecratercaptainglide
-bip_39_word_no_space_6: uniformevokecratercaptainglidethis
-bip_39_word_no_space_7: uniformevokecratercaptainglidethistiger
-bip_39_word_no_space_8: uniformevokecratercaptainglidethistigertonight
-bip_39_word_no_space_9: uniformevokecratercaptainglidethistigertonightelder
-bip_39_word_space_0:
-- uniform
-- evoke
-- crater
-- captain
-- glide
-- this
-- tiger
-- tonight
-- elder
-- frozen
-- water
-- acid
-bip_39_word_space_1: uniform
-bip_39_word_space_10: uniform evoke crater captain glide this tiger tonight elder
-  frozen
-bip_39_word_space_11: uniform evoke crater captain glide this tiger tonight elder
-  frozen water
 bip_39_word_space_12: uniform evoke crater captain glide this tiger tonight elder
   frozen water acid
 bip_39_word_space_2: uniform evoke
 bip_39_word_space_3: uniform evoke crater
-bip_39_word_space_4: uniform evoke crater captain
-bip_39_word_space_5: uniform evoke crater captain glide
-bip_39_word_space_6: uniform evoke crater captain glide this
-bip_39_word_space_7: uniform evoke crater captain glide this tiger
-bip_39_word_space_8: uniform evoke crater captain glide this tiger tonight
-bip_39_word_space_9: uniform evoke crater captain glide this tiger tonight elder
-bip_39_word_underscore_1: uniform
-bip_39_word_underscore_10: uniform_evoke_crater_captain_glide_this_tiger_tonight_elder_frozen
-bip_39_word_underscore_11: uniform_evoke_crater_captain_glide_this_tiger_tonight_elder_frozen_water
 bip_39_word_underscore_12: uniform_evoke_crater_captain_glide_this_tiger_tonight_elder_frozen_water_acid
 bip_39_word_underscore_2: uniform_evoke
 bip_39_word_underscore_3: uniform_evoke_crater
-bip_39_word_underscore_4: uniform_evoke_crater_captain
-bip_39_word_underscore_5: uniform_evoke_crater_captain_glide
-bip_39_word_underscore_6: uniform_evoke_crater_captain_glide_this
-bip_39_word_underscore_7: uniform_evoke_crater_captain_glide_this_tiger
-bip_39_word_underscore_8: uniform_evoke_crater_captain_glide_this_tiger_tonight
-bip_39_word_underscore_9: uniform_evoke_crater_captain_glide_this_tiger_tonight_elder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: logic
-bip_39_word_dash_10: logic-earth-butter-alpha-proof-swear-relax-club-marriage-outdoor
-bip_39_word_dash_11: logic-earth-butter-alpha-proof-swear-relax-club-marriage-outdoor-escape
 bip_39_word_dash_12: logic-earth-butter-alpha-proof-swear-relax-club-marriage-outdoor-escape-announce
 bip_39_word_dash_2: logic-earth
 bip_39_word_dash_3: logic-earth-butter
-bip_39_word_dash_4: logic-earth-butter-alpha
-bip_39_word_dash_5: logic-earth-butter-alpha-proof
-bip_39_word_dash_6: logic-earth-butter-alpha-proof-swear
-bip_39_word_dash_7: logic-earth-butter-alpha-proof-swear-relax
-bip_39_word_dash_8: logic-earth-butter-alpha-proof-swear-relax-club
-bip_39_word_dash_9: logic-earth-butter-alpha-proof-swear-relax-club-marriage
-bip_39_word_new_br_1: logic
-bip_39_word_new_br_10: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor
-bip_39_word_new_br_11: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape
 bip_39_word_new_br_12: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape<br>announce
 bip_39_word_new_br_2: logic<br>earth
 bip_39_word_new_br_3: logic<br>earth<br>butter
-bip_39_word_new_br_4: logic<br>earth<br>butter<br>alpha
-bip_39_word_new_br_5: logic<br>earth<br>butter<br>alpha<br>proof
-bip_39_word_new_br_6: logic<br>earth<br>butter<br>alpha<br>proof<br>swear
-bip_39_word_new_br_7: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax
-bip_39_word_new_br_8: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club
-bip_39_word_new_br_9: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage
-bip_39_word_new_line_1: logic
-bip_39_word_new_line_10: 'logic
-
-  earth
-
-  butter
-
-  alpha
-
-  proof
-
-  swear
-
-  relax
-
-  club
-
-  marriage
-
-  outdoor'
-bip_39_word_new_line_11: 'logic
-
-  earth
-
-  butter
-
-  alpha
-
-  proof
-
-  swear
-
-  relax
-
-  club
-
-  marriage
-
-  outdoor
-
-  escape'
 bip_39_word_new_line_12: 'logic
 
   earth
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'logic
   earth
 
   butter'
-bip_39_word_new_line_4: 'logic
-
-  earth
-
-  butter
-
-  alpha'
-bip_39_word_new_line_5: 'logic
-
-  earth
-
-  butter
-
-  alpha
-
-  proof'
-bip_39_word_new_line_6: 'logic
-
-  earth
-
-  butter
-
-  alpha
-
-  proof
-
-  swear'
-bip_39_word_new_line_7: 'logic
-
-  earth
-
-  butter
-
-  alpha
-
-  proof
-
-  swear
-
-  relax'
-bip_39_word_new_line_8: 'logic
-
-  earth
-
-  butter
-
-  alpha
-
-  proof
-
-  swear
-
-  relax
-
-  club'
-bip_39_word_new_line_9: 'logic
-
-  earth
-
-  butter
-
-  alpha
-
-  proof
-
-  swear
-
-  relax
-
-  club
-
-  marriage'
-bip_39_word_no_space_1: logic
-bip_39_word_no_space_10: logicearthbutteralphaproofswearrelaxclubmarriageoutdoor
-bip_39_word_no_space_11: logicearthbutteralphaproofswearrelaxclubmarriageoutdoorescape
 bip_39_word_no_space_12: logicearthbutteralphaproofswearrelaxclubmarriageoutdoorescapeannounce
 bip_39_word_no_space_2: logicearth
 bip_39_word_no_space_3: logicearthbutter
-bip_39_word_no_space_4: logicearthbutteralpha
-bip_39_word_no_space_5: logicearthbutteralphaproof
-bip_39_word_no_space_6: logicearthbutteralphaproofswear
-bip_39_word_no_space_7: logicearthbutteralphaproofswearrelax
-bip_39_word_no_space_8: logicearthbutteralphaproofswearrelaxclub
-bip_39_word_no_space_9: logicearthbutteralphaproofswearrelaxclubmarriage
-bip_39_word_space_0:
-- logic
-- earth
-- butter
-- alpha
-- proof
-- swear
-- relax
-- club
-- marriage
-- outdoor
-- escape
-- announce
-bip_39_word_space_1: logic
-bip_39_word_space_10: logic earth butter alpha proof swear relax club marriage outdoor
-bip_39_word_space_11: logic earth butter alpha proof swear relax club marriage outdoor
-  escape
 bip_39_word_space_12: logic earth butter alpha proof swear relax club marriage outdoor
   escape announce
 bip_39_word_space_2: logic earth
 bip_39_word_space_3: logic earth butter
-bip_39_word_space_4: logic earth butter alpha
-bip_39_word_space_5: logic earth butter alpha proof
-bip_39_word_space_6: logic earth butter alpha proof swear
-bip_39_word_space_7: logic earth butter alpha proof swear relax
-bip_39_word_space_8: logic earth butter alpha proof swear relax club
-bip_39_word_space_9: logic earth butter alpha proof swear relax club marriage
-bip_39_word_underscore_1: logic
-bip_39_word_underscore_10: logic_earth_butter_alpha_proof_swear_relax_club_marriage_outdoor
-bip_39_word_underscore_11: logic_earth_butter_alpha_proof_swear_relax_club_marriage_outdoor_escape
 bip_39_word_underscore_12: logic_earth_butter_alpha_proof_swear_relax_club_marriage_outdoor_escape_announce
 bip_39_word_underscore_2: logic_earth
 bip_39_word_underscore_3: logic_earth_butter
-bip_39_word_underscore_4: logic_earth_butter_alpha
-bip_39_word_underscore_5: logic_earth_butter_alpha_proof
-bip_39_word_underscore_6: logic_earth_butter_alpha_proof_swear
-bip_39_word_underscore_7: logic_earth_butter_alpha_proof_swear_relax
-bip_39_word_underscore_8: logic_earth_butter_alpha_proof_swear_relax_club
-bip_39_word_underscore_9: logic_earth_butter_alpha_proof_swear_relax_club_marriage
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: blind
-bip_39_word_dash_10: blind-grace-dirt-duty-bullet-rib-umbrella-skin-juice-raven
-bip_39_word_dash_11: blind-grace-dirt-duty-bullet-rib-umbrella-skin-juice-raven-imitate
 bip_39_word_dash_12: blind-grace-dirt-duty-bullet-rib-umbrella-skin-juice-raven-imitate-accuse
 bip_39_word_dash_2: blind-grace
 bip_39_word_dash_3: blind-grace-dirt
-bip_39_word_dash_4: blind-grace-dirt-duty
-bip_39_word_dash_5: blind-grace-dirt-duty-bullet
-bip_39_word_dash_6: blind-grace-dirt-duty-bullet-rib
-bip_39_word_dash_7: blind-grace-dirt-duty-bullet-rib-umbrella
-bip_39_word_dash_8: blind-grace-dirt-duty-bullet-rib-umbrella-skin
-bip_39_word_dash_9: blind-grace-dirt-duty-bullet-rib-umbrella-skin-juice
-bip_39_word_new_br_1: blind
-bip_39_word_new_br_10: blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice<br>raven
-bip_39_word_new_br_11: blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice<br>raven<br>imitate
 bip_39_word_new_br_12: blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice<br>raven<br>imitate<br>accuse
 bip_39_word_new_br_2: blind<br>grace
 bip_39_word_new_br_3: blind<br>grace<br>dirt
-bip_39_word_new_br_4: blind<br>grace<br>dirt<br>duty
-bip_39_word_new_br_5: blind<br>grace<br>dirt<br>duty<br>bullet
-bip_39_word_new_br_6: blind<br>grace<br>dirt<br>duty<br>bullet<br>rib
-bip_39_word_new_br_7: blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella
-bip_39_word_new_br_8: blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin
-bip_39_word_new_br_9: blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice
-bip_39_word_new_line_1: blind
-bip_39_word_new_line_10: 'blind
-
-  grace
-
-  dirt
-
-  duty
-
-  bullet
-
-  rib
-
-  umbrella
-
-  skin
-
-  juice
-
-  raven'
-bip_39_word_new_line_11: 'blind
-
-  grace
-
-  dirt
-
-  duty
-
-  bullet
-
-  rib
-
-  umbrella
-
-  skin
-
-  juice
-
-  raven
-
-  imitate'
 bip_39_word_new_line_12: 'blind
 
   grace
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'blind
   grace
 
   dirt'
-bip_39_word_new_line_4: 'blind
-
-  grace
-
-  dirt
-
-  duty'
-bip_39_word_new_line_5: 'blind
-
-  grace
-
-  dirt
-
-  duty
-
-  bullet'
-bip_39_word_new_line_6: 'blind
-
-  grace
-
-  dirt
-
-  duty
-
-  bullet
-
-  rib'
-bip_39_word_new_line_7: 'blind
-
-  grace
-
-  dirt
-
-  duty
-
-  bullet
-
-  rib
-
-  umbrella'
-bip_39_word_new_line_8: 'blind
-
-  grace
-
-  dirt
-
-  duty
-
-  bullet
-
-  rib
-
-  umbrella
-
-  skin'
-bip_39_word_new_line_9: 'blind
-
-  grace
-
-  dirt
-
-  duty
-
-  bullet
-
-  rib
-
-  umbrella
-
-  skin
-
-  juice'
-bip_39_word_no_space_1: blind
-bip_39_word_no_space_10: blindgracedirtdutybulletribumbrellaskinjuiceraven
-bip_39_word_no_space_11: blindgracedirtdutybulletribumbrellaskinjuiceravenimitate
 bip_39_word_no_space_12: blindgracedirtdutybulletribumbrellaskinjuiceravenimitateaccuse
 bip_39_word_no_space_2: blindgrace
 bip_39_word_no_space_3: blindgracedirt
-bip_39_word_no_space_4: blindgracedirtduty
-bip_39_word_no_space_5: blindgracedirtdutybullet
-bip_39_word_no_space_6: blindgracedirtdutybulletrib
-bip_39_word_no_space_7: blindgracedirtdutybulletribumbrella
-bip_39_word_no_space_8: blindgracedirtdutybulletribumbrellaskin
-bip_39_word_no_space_9: blindgracedirtdutybulletribumbrellaskinjuice
-bip_39_word_space_0:
-- blind
-- grace
-- dirt
-- duty
-- bullet
-- rib
-- umbrella
-- skin
-- juice
-- raven
-- imitate
-- accuse
-bip_39_word_space_1: blind
-bip_39_word_space_10: blind grace dirt duty bullet rib umbrella skin juice raven
-bip_39_word_space_11: blind grace dirt duty bullet rib umbrella skin juice raven imitate
 bip_39_word_space_12: blind grace dirt duty bullet rib umbrella skin juice raven imitate
   accuse
 bip_39_word_space_2: blind grace
 bip_39_word_space_3: blind grace dirt
-bip_39_word_space_4: blind grace dirt duty
-bip_39_word_space_5: blind grace dirt duty bullet
-bip_39_word_space_6: blind grace dirt duty bullet rib
-bip_39_word_space_7: blind grace dirt duty bullet rib umbrella
-bip_39_word_space_8: blind grace dirt duty bullet rib umbrella skin
-bip_39_word_space_9: blind grace dirt duty bullet rib umbrella skin juice
-bip_39_word_underscore_1: blind
-bip_39_word_underscore_10: blind_grace_dirt_duty_bullet_rib_umbrella_skin_juice_raven
-bip_39_word_underscore_11: blind_grace_dirt_duty_bullet_rib_umbrella_skin_juice_raven_imitate
 bip_39_word_underscore_12: blind_grace_dirt_duty_bullet_rib_umbrella_skin_juice_raven_imitate_accuse
 bip_39_word_underscore_2: blind_grace
 bip_39_word_underscore_3: blind_grace_dirt
-bip_39_word_underscore_4: blind_grace_dirt_duty
-bip_39_word_underscore_5: blind_grace_dirt_duty_bullet
-bip_39_word_underscore_6: blind_grace_dirt_duty_bullet_rib
-bip_39_word_underscore_7: blind_grace_dirt_duty_bullet_rib_umbrella
-bip_39_word_underscore_8: blind_grace_dirt_duty_bullet_rib_umbrella_skin
-bip_39_word_underscore_9: blind_grace_dirt_duty_bullet_rib_umbrella_skin_juice
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

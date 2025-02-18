@@ -1,68 +1,9 @@
-bip_39_word_dash_1: region
-bip_39_word_dash_10: region-dish-protect-taxi-spring-bicycle-spike-clump-monster-fruit
-bip_39_word_dash_11: region-dish-protect-taxi-spring-bicycle-spike-clump-monster-fruit-broom
 bip_39_word_dash_12: region-dish-protect-taxi-spring-bicycle-spike-clump-monster-fruit-broom-airport
 bip_39_word_dash_2: region-dish
 bip_39_word_dash_3: region-dish-protect
-bip_39_word_dash_4: region-dish-protect-taxi
-bip_39_word_dash_5: region-dish-protect-taxi-spring
-bip_39_word_dash_6: region-dish-protect-taxi-spring-bicycle
-bip_39_word_dash_7: region-dish-protect-taxi-spring-bicycle-spike
-bip_39_word_dash_8: region-dish-protect-taxi-spring-bicycle-spike-clump
-bip_39_word_dash_9: region-dish-protect-taxi-spring-bicycle-spike-clump-monster
-bip_39_word_new_br_1: region
-bip_39_word_new_br_10: region<br>dish<br>protect<br>taxi<br>spring<br>bicycle<br>spike<br>clump<br>monster<br>fruit
-bip_39_word_new_br_11: region<br>dish<br>protect<br>taxi<br>spring<br>bicycle<br>spike<br>clump<br>monster<br>fruit<br>broom
 bip_39_word_new_br_12: region<br>dish<br>protect<br>taxi<br>spring<br>bicycle<br>spike<br>clump<br>monster<br>fruit<br>broom<br>airport
 bip_39_word_new_br_2: region<br>dish
 bip_39_word_new_br_3: region<br>dish<br>protect
-bip_39_word_new_br_4: region<br>dish<br>protect<br>taxi
-bip_39_word_new_br_5: region<br>dish<br>protect<br>taxi<br>spring
-bip_39_word_new_br_6: region<br>dish<br>protect<br>taxi<br>spring<br>bicycle
-bip_39_word_new_br_7: region<br>dish<br>protect<br>taxi<br>spring<br>bicycle<br>spike
-bip_39_word_new_br_8: region<br>dish<br>protect<br>taxi<br>spring<br>bicycle<br>spike<br>clump
-bip_39_word_new_br_9: region<br>dish<br>protect<br>taxi<br>spring<br>bicycle<br>spike<br>clump<br>monster
-bip_39_word_new_line_1: region
-bip_39_word_new_line_10: 'region
-
-  dish
-
-  protect
-
-  taxi
-
-  spring
-
-  bicycle
-
-  spike
-
-  clump
-
-  monster
-
-  fruit'
-bip_39_word_new_line_11: 'region
-
-  dish
-
-  protect
-
-  taxi
-
-  spring
-
-  bicycle
-
-  spike
-
-  clump
-
-  monster
-
-  fruit
-
-  broom'
 bip_39_word_new_line_12: 'region
 
   dish
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'region
   dish
 
   protect'
-bip_39_word_new_line_4: 'region
-
-  dish
-
-  protect
-
-  taxi'
-bip_39_word_new_line_5: 'region
-
-  dish
-
-  protect
-
-  taxi
-
-  spring'
-bip_39_word_new_line_6: 'region
-
-  dish
-
-  protect
-
-  taxi
-
-  spring
-
-  bicycle'
-bip_39_word_new_line_7: 'region
-
-  dish
-
-  protect
-
-  taxi
-
-  spring
-
-  bicycle
-
-  spike'
-bip_39_word_new_line_8: 'region
-
-  dish
-
-  protect
-
-  taxi
-
-  spring
-
-  bicycle
-
-  spike
-
-  clump'
-bip_39_word_new_line_9: 'region
-
-  dish
-
-  protect
-
-  taxi
-
-  spring
-
-  bicycle
-
-  spike
-
-  clump
-
-  monster'
-bip_39_word_no_space_1: region
-bip_39_word_no_space_10: regiondishprotecttaxispringbicyclespikeclumpmonsterfruit
-bip_39_word_no_space_11: regiondishprotecttaxispringbicyclespikeclumpmonsterfruitbroom
 bip_39_word_no_space_12: regiondishprotecttaxispringbicyclespikeclumpmonsterfruitbroomairport
 bip_39_word_no_space_2: regiondish
 bip_39_word_no_space_3: regiondishprotect
-bip_39_word_no_space_4: regiondishprotecttaxi
-bip_39_word_no_space_5: regiondishprotecttaxispring
-bip_39_word_no_space_6: regiondishprotecttaxispringbicycle
-bip_39_word_no_space_7: regiondishprotecttaxispringbicyclespike
-bip_39_word_no_space_8: regiondishprotecttaxispringbicyclespikeclump
-bip_39_word_no_space_9: regiondishprotecttaxispringbicyclespikeclumpmonster
-bip_39_word_space_0:
-- region
-- dish
-- protect
-- taxi
-- spring
-- bicycle
-- spike
-- clump
-- monster
-- fruit
-- broom
-- airport
-bip_39_word_space_1: region
-bip_39_word_space_10: region dish protect taxi spring bicycle spike clump monster
-  fruit
-bip_39_word_space_11: region dish protect taxi spring bicycle spike clump monster
-  fruit broom
 bip_39_word_space_12: region dish protect taxi spring bicycle spike clump monster
   fruit broom airport
 bip_39_word_space_2: region dish
 bip_39_word_space_3: region dish protect
-bip_39_word_space_4: region dish protect taxi
-bip_39_word_space_5: region dish protect taxi spring
-bip_39_word_space_6: region dish protect taxi spring bicycle
-bip_39_word_space_7: region dish protect taxi spring bicycle spike
-bip_39_word_space_8: region dish protect taxi spring bicycle spike clump
-bip_39_word_space_9: region dish protect taxi spring bicycle spike clump monster
-bip_39_word_underscore_1: region
-bip_39_word_underscore_10: region_dish_protect_taxi_spring_bicycle_spike_clump_monster_fruit
-bip_39_word_underscore_11: region_dish_protect_taxi_spring_bicycle_spike_clump_monster_fruit_broom
 bip_39_word_underscore_12: region_dish_protect_taxi_spring_bicycle_spike_clump_monster_fruit_broom_airport
 bip_39_word_underscore_2: region_dish
 bip_39_word_underscore_3: region_dish_protect
-bip_39_word_underscore_4: region_dish_protect_taxi
-bip_39_word_underscore_5: region_dish_protect_taxi_spring
-bip_39_word_underscore_6: region_dish_protect_taxi_spring_bicycle
-bip_39_word_underscore_7: region_dish_protect_taxi_spring_bicycle_spike
-bip_39_word_underscore_8: region_dish_protect_taxi_spring_bicycle_spike_clump
-bip_39_word_underscore_9: region_dish_protect_taxi_spring_bicycle_spike_clump_monster
 classification: category
 classification_capital: Category
 classification_first_letter: c

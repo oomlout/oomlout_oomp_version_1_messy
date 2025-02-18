@@ -24,9 +24,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: primary devote
+  * bip 39 word 3: primary devote update
+  * bip 39 word: primary devote update exist virus allow box prosper bag save winner address
 
 ### other_codes
 * short_code: 
@@ -40,6 +40,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2026m7j)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2026m7j)
+[2x1](http://192.168.1.242:1112/?label=oomp%2026m7j)
+[6x4](http://192.168.1.55:1112/?label=oomp%2026m7j)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider)                             
+
+#### price
+
+
+
+
 
 
 
@@ -47,19 +63,33 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | project |  
+| classification_name | Project |  
 | color | oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
+| color_name | Oomlout Organizing Furniture Shoe Cabinet Ikea Hemnes Divider |  
 | description_extra |  |  
+| description_extra_name |  |  
 | description_main |  |  
+| description_main_name |  |  
 | description_or_color | O  |  
 | directory | parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
 | id | project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
+| link_2_name | link_github |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2026m7j |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2026m7j |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2026m7j |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2026m7j |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
 | manufacturer |  |  
+| manufacturer_name |  |  
 | manufacturers | [] |  
 | markdown_full | [project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider](none)<br>[](none)<br>[Project Github Oomlout Oomlout Organizing Furniture Shoe Cabinet Ikea Hemnes Divider](none)<br><br> |  
 | markdown_short | [project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider](none)<br><br> |  
@@ -69,12 +99,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6 | 37f7ef |  
 | md5_6_alpha | 26m7j |  
 | name | Project Github Oomlout Oomlout Organizing Furniture Shoe Cabinet Ikea Hemnes Divider |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_4 | organizing_furniture_shoe |  
+| oomlout_detail_hierarchy_5 | cabinet_ikea_hemnes_divider |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider |  
 | oomp_word | wolf six truck |  
 | oomp_word_emoji | :wolf: :six: :truck: |  
 | oomp_word_emoji_list | [':wolf:', ':six:', ':truck:'] |  
 | oomp_word_list | ['wolf', 'six', 'truck'] |  
 | part_number |  |  
+| part_number_name |  |  
 | short_code |  |  
 | size | oomlout |  
+| size_name | Oomlout |  
 | type | github |  
+| type_name | Github |  

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: assist
-bip_39_word_dash_10: assist-pig-castle-adult-sick-upper-reject-wage-height-toilet
-bip_39_word_dash_11: assist-pig-castle-adult-sick-upper-reject-wage-height-toilet-tip
 bip_39_word_dash_12: assist-pig-castle-adult-sick-upper-reject-wage-height-toilet-tip-alarm
 bip_39_word_dash_2: assist-pig
 bip_39_word_dash_3: assist-pig-castle
-bip_39_word_dash_4: assist-pig-castle-adult
-bip_39_word_dash_5: assist-pig-castle-adult-sick
-bip_39_word_dash_6: assist-pig-castle-adult-sick-upper
-bip_39_word_dash_7: assist-pig-castle-adult-sick-upper-reject
-bip_39_word_dash_8: assist-pig-castle-adult-sick-upper-reject-wage
-bip_39_word_dash_9: assist-pig-castle-adult-sick-upper-reject-wage-height
-bip_39_word_new_br_1: assist
-bip_39_word_new_br_10: assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet
-bip_39_word_new_br_11: assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet<br>tip
 bip_39_word_new_br_12: assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height<br>toilet<br>tip<br>alarm
 bip_39_word_new_br_2: assist<br>pig
 bip_39_word_new_br_3: assist<br>pig<br>castle
-bip_39_word_new_br_4: assist<br>pig<br>castle<br>adult
-bip_39_word_new_br_5: assist<br>pig<br>castle<br>adult<br>sick
-bip_39_word_new_br_6: assist<br>pig<br>castle<br>adult<br>sick<br>upper
-bip_39_word_new_br_7: assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject
-bip_39_word_new_br_8: assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage
-bip_39_word_new_br_9: assist<br>pig<br>castle<br>adult<br>sick<br>upper<br>reject<br>wage<br>height
-bip_39_word_new_line_1: assist
-bip_39_word_new_line_10: 'assist
-
-  pig
-
-  castle
-
-  adult
-
-  sick
-
-  upper
-
-  reject
-
-  wage
-
-  height
-
-  toilet'
-bip_39_word_new_line_11: 'assist
-
-  pig
-
-  castle
-
-  adult
-
-  sick
-
-  upper
-
-  reject
-
-  wage
-
-  height
-
-  toilet
-
-  tip'
 bip_39_word_new_line_12: 'assist
 
   pig
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'assist
   pig
 
   castle'
-bip_39_word_new_line_4: 'assist
-
-  pig
-
-  castle
-
-  adult'
-bip_39_word_new_line_5: 'assist
-
-  pig
-
-  castle
-
-  adult
-
-  sick'
-bip_39_word_new_line_6: 'assist
-
-  pig
-
-  castle
-
-  adult
-
-  sick
-
-  upper'
-bip_39_word_new_line_7: 'assist
-
-  pig
-
-  castle
-
-  adult
-
-  sick
-
-  upper
-
-  reject'
-bip_39_word_new_line_8: 'assist
-
-  pig
-
-  castle
-
-  adult
-
-  sick
-
-  upper
-
-  reject
-
-  wage'
-bip_39_word_new_line_9: 'assist
-
-  pig
-
-  castle
-
-  adult
-
-  sick
-
-  upper
-
-  reject
-
-  wage
-
-  height'
-bip_39_word_no_space_1: assist
-bip_39_word_no_space_10: assistpigcastleadultsickupperrejectwageheighttoilet
-bip_39_word_no_space_11: assistpigcastleadultsickupperrejectwageheighttoilettip
 bip_39_word_no_space_12: assistpigcastleadultsickupperrejectwageheighttoilettipalarm
 bip_39_word_no_space_2: assistpig
 bip_39_word_no_space_3: assistpigcastle
-bip_39_word_no_space_4: assistpigcastleadult
-bip_39_word_no_space_5: assistpigcastleadultsick
-bip_39_word_no_space_6: assistpigcastleadultsickupper
-bip_39_word_no_space_7: assistpigcastleadultsickupperreject
-bip_39_word_no_space_8: assistpigcastleadultsickupperrejectwage
-bip_39_word_no_space_9: assistpigcastleadultsickupperrejectwageheight
-bip_39_word_space_0:
-- assist
-- pig
-- castle
-- adult
-- sick
-- upper
-- reject
-- wage
-- height
-- toilet
-- tip
-- alarm
-bip_39_word_space_1: assist
-bip_39_word_space_10: assist pig castle adult sick upper reject wage height toilet
-bip_39_word_space_11: assist pig castle adult sick upper reject wage height toilet
-  tip
 bip_39_word_space_12: assist pig castle adult sick upper reject wage height toilet
   tip alarm
 bip_39_word_space_2: assist pig
 bip_39_word_space_3: assist pig castle
-bip_39_word_space_4: assist pig castle adult
-bip_39_word_space_5: assist pig castle adult sick
-bip_39_word_space_6: assist pig castle adult sick upper
-bip_39_word_space_7: assist pig castle adult sick upper reject
-bip_39_word_space_8: assist pig castle adult sick upper reject wage
-bip_39_word_space_9: assist pig castle adult sick upper reject wage height
-bip_39_word_underscore_1: assist
-bip_39_word_underscore_10: assist_pig_castle_adult_sick_upper_reject_wage_height_toilet
-bip_39_word_underscore_11: assist_pig_castle_adult_sick_upper_reject_wage_height_toilet_tip
 bip_39_word_underscore_12: assist_pig_castle_adult_sick_upper_reject_wage_height_toilet_tip_alarm
 bip_39_word_underscore_2: assist_pig
 bip_39_word_underscore_3: assist_pig_castle
-bip_39_word_underscore_4: assist_pig_castle_adult
-bip_39_word_underscore_5: assist_pig_castle_adult_sick
-bip_39_word_underscore_6: assist_pig_castle_adult_sick_upper
-bip_39_word_underscore_7: assist_pig_castle_adult_sick_upper_reject
-bip_39_word_underscore_8: assist_pig_castle_adult_sick_upper_reject_wage
-bip_39_word_underscore_9: assist_pig_castle_adult_sick_upper_reject_wage_height
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

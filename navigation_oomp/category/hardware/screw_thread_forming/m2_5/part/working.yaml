@@ -1,68 +1,9 @@
-bip_39_word_dash_1: 'off'
-bip_39_word_dash_10: off-raven-spell-marble-where-rack-extend-bubble-original-stumble
-bip_39_word_dash_11: off-raven-spell-marble-where-rack-extend-bubble-original-stumble-enrich
 bip_39_word_dash_12: off-raven-spell-marble-where-rack-extend-bubble-original-stumble-enrich-audit
 bip_39_word_dash_2: off-raven
 bip_39_word_dash_3: off-raven-spell
-bip_39_word_dash_4: off-raven-spell-marble
-bip_39_word_dash_5: off-raven-spell-marble-where
-bip_39_word_dash_6: off-raven-spell-marble-where-rack
-bip_39_word_dash_7: off-raven-spell-marble-where-rack-extend
-bip_39_word_dash_8: off-raven-spell-marble-where-rack-extend-bubble
-bip_39_word_dash_9: off-raven-spell-marble-where-rack-extend-bubble-original
-bip_39_word_new_br_1: 'off'
-bip_39_word_new_br_10: off<br>raven<br>spell<br>marble<br>where<br>rack<br>extend<br>bubble<br>original<br>stumble
-bip_39_word_new_br_11: off<br>raven<br>spell<br>marble<br>where<br>rack<br>extend<br>bubble<br>original<br>stumble<br>enrich
 bip_39_word_new_br_12: off<br>raven<br>spell<br>marble<br>where<br>rack<br>extend<br>bubble<br>original<br>stumble<br>enrich<br>audit
 bip_39_word_new_br_2: off<br>raven
 bip_39_word_new_br_3: off<br>raven<br>spell
-bip_39_word_new_br_4: off<br>raven<br>spell<br>marble
-bip_39_word_new_br_5: off<br>raven<br>spell<br>marble<br>where
-bip_39_word_new_br_6: off<br>raven<br>spell<br>marble<br>where<br>rack
-bip_39_word_new_br_7: off<br>raven<br>spell<br>marble<br>where<br>rack<br>extend
-bip_39_word_new_br_8: off<br>raven<br>spell<br>marble<br>where<br>rack<br>extend<br>bubble
-bip_39_word_new_br_9: off<br>raven<br>spell<br>marble<br>where<br>rack<br>extend<br>bubble<br>original
-bip_39_word_new_line_1: 'off'
-bip_39_word_new_line_10: 'off
-
-  raven
-
-  spell
-
-  marble
-
-  where
-
-  rack
-
-  extend
-
-  bubble
-
-  original
-
-  stumble'
-bip_39_word_new_line_11: 'off
-
-  raven
-
-  spell
-
-  marble
-
-  where
-
-  rack
-
-  extend
-
-  bubble
-
-  original
-
-  stumble
-
-  enrich'
 bip_39_word_new_line_12: 'off
 
   raven
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'off
   raven
 
   spell'
-bip_39_word_new_line_4: 'off
-
-  raven
-
-  spell
-
-  marble'
-bip_39_word_new_line_5: 'off
-
-  raven
-
-  spell
-
-  marble
-
-  where'
-bip_39_word_new_line_6: 'off
-
-  raven
-
-  spell
-
-  marble
-
-  where
-
-  rack'
-bip_39_word_new_line_7: 'off
-
-  raven
-
-  spell
-
-  marble
-
-  where
-
-  rack
-
-  extend'
-bip_39_word_new_line_8: 'off
-
-  raven
-
-  spell
-
-  marble
-
-  where
-
-  rack
-
-  extend
-
-  bubble'
-bip_39_word_new_line_9: 'off
-
-  raven
-
-  spell
-
-  marble
-
-  where
-
-  rack
-
-  extend
-
-  bubble
-
-  original'
-bip_39_word_no_space_1: 'off'
-bip_39_word_no_space_10: offravenspellmarblewhererackextendbubbleoriginalstumble
-bip_39_word_no_space_11: offravenspellmarblewhererackextendbubbleoriginalstumbleenrich
 bip_39_word_no_space_12: offravenspellmarblewhererackextendbubbleoriginalstumbleenrichaudit
 bip_39_word_no_space_2: offraven
 bip_39_word_no_space_3: offravenspell
-bip_39_word_no_space_4: offravenspellmarble
-bip_39_word_no_space_5: offravenspellmarblewhere
-bip_39_word_no_space_6: offravenspellmarblewhererack
-bip_39_word_no_space_7: offravenspellmarblewhererackextend
-bip_39_word_no_space_8: offravenspellmarblewhererackextendbubble
-bip_39_word_no_space_9: offravenspellmarblewhererackextendbubbleoriginal
-bip_39_word_space_0:
-- 'off'
-- raven
-- spell
-- marble
-- where
-- rack
-- extend
-- bubble
-- original
-- stumble
-- enrich
-- audit
-bip_39_word_space_1: 'off'
-bip_39_word_space_10: off raven spell marble where rack extend bubble original stumble
-bip_39_word_space_11: off raven spell marble where rack extend bubble original stumble
-  enrich
 bip_39_word_space_12: off raven spell marble where rack extend bubble original stumble
   enrich audit
 bip_39_word_space_2: off raven
 bip_39_word_space_3: off raven spell
-bip_39_word_space_4: off raven spell marble
-bip_39_word_space_5: off raven spell marble where
-bip_39_word_space_6: off raven spell marble where rack
-bip_39_word_space_7: off raven spell marble where rack extend
-bip_39_word_space_8: off raven spell marble where rack extend bubble
-bip_39_word_space_9: off raven spell marble where rack extend bubble original
-bip_39_word_underscore_1: 'off'
-bip_39_word_underscore_10: off_raven_spell_marble_where_rack_extend_bubble_original_stumble
-bip_39_word_underscore_11: off_raven_spell_marble_where_rack_extend_bubble_original_stumble_enrich
 bip_39_word_underscore_12: off_raven_spell_marble_where_rack_extend_bubble_original_stumble_enrich_audit
 bip_39_word_underscore_2: off_raven
 bip_39_word_underscore_3: off_raven_spell
-bip_39_word_underscore_4: off_raven_spell_marble
-bip_39_word_underscore_5: off_raven_spell_marble_where
-bip_39_word_underscore_6: off_raven_spell_marble_where_rack
-bip_39_word_underscore_7: off_raven_spell_marble_where_rack_extend
-bip_39_word_underscore_8: off_raven_spell_marble_where_rack_extend_bubble
-bip_39_word_underscore_9: off_raven_spell_marble_where_rack_extend_bubble_original
 classification: category
 classification_capital: Category
 classification_first_letter: c

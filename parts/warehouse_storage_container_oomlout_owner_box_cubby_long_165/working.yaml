@@ -1,68 +1,9 @@
-bip_39_word_dash_1: task
-bip_39_word_dash_10: task-afford-glove-raw-worth-ritual-kid-awful-immune-bunker
-bip_39_word_dash_11: task-afford-glove-raw-worth-ritual-kid-awful-immune-bunker-meadow
 bip_39_word_dash_12: task-afford-glove-raw-worth-ritual-kid-awful-immune-bunker-meadow-afraid
 bip_39_word_dash_2: task-afford
 bip_39_word_dash_3: task-afford-glove
-bip_39_word_dash_4: task-afford-glove-raw
-bip_39_word_dash_5: task-afford-glove-raw-worth
-bip_39_word_dash_6: task-afford-glove-raw-worth-ritual
-bip_39_word_dash_7: task-afford-glove-raw-worth-ritual-kid
-bip_39_word_dash_8: task-afford-glove-raw-worth-ritual-kid-awful
-bip_39_word_dash_9: task-afford-glove-raw-worth-ritual-kid-awful-immune
-bip_39_word_new_br_1: task
-bip_39_word_new_br_10: task<br>afford<br>glove<br>raw<br>worth<br>ritual<br>kid<br>awful<br>immune<br>bunker
-bip_39_word_new_br_11: task<br>afford<br>glove<br>raw<br>worth<br>ritual<br>kid<br>awful<br>immune<br>bunker<br>meadow
 bip_39_word_new_br_12: task<br>afford<br>glove<br>raw<br>worth<br>ritual<br>kid<br>awful<br>immune<br>bunker<br>meadow<br>afraid
 bip_39_word_new_br_2: task<br>afford
 bip_39_word_new_br_3: task<br>afford<br>glove
-bip_39_word_new_br_4: task<br>afford<br>glove<br>raw
-bip_39_word_new_br_5: task<br>afford<br>glove<br>raw<br>worth
-bip_39_word_new_br_6: task<br>afford<br>glove<br>raw<br>worth<br>ritual
-bip_39_word_new_br_7: task<br>afford<br>glove<br>raw<br>worth<br>ritual<br>kid
-bip_39_word_new_br_8: task<br>afford<br>glove<br>raw<br>worth<br>ritual<br>kid<br>awful
-bip_39_word_new_br_9: task<br>afford<br>glove<br>raw<br>worth<br>ritual<br>kid<br>awful<br>immune
-bip_39_word_new_line_1: task
-bip_39_word_new_line_10: 'task
-
-  afford
-
-  glove
-
-  raw
-
-  worth
-
-  ritual
-
-  kid
-
-  awful
-
-  immune
-
-  bunker'
-bip_39_word_new_line_11: 'task
-
-  afford
-
-  glove
-
-  raw
-
-  worth
-
-  ritual
-
-  kid
-
-  awful
-
-  immune
-
-  bunker
-
-  meadow'
 bip_39_word_new_line_12: 'task
 
   afford
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'task
   afford
 
   glove'
-bip_39_word_new_line_4: 'task
-
-  afford
-
-  glove
-
-  raw'
-bip_39_word_new_line_5: 'task
-
-  afford
-
-  glove
-
-  raw
-
-  worth'
-bip_39_word_new_line_6: 'task
-
-  afford
-
-  glove
-
-  raw
-
-  worth
-
-  ritual'
-bip_39_word_new_line_7: 'task
-
-  afford
-
-  glove
-
-  raw
-
-  worth
-
-  ritual
-
-  kid'
-bip_39_word_new_line_8: 'task
-
-  afford
-
-  glove
-
-  raw
-
-  worth
-
-  ritual
-
-  kid
-
-  awful'
-bip_39_word_new_line_9: 'task
-
-  afford
-
-  glove
-
-  raw
-
-  worth
-
-  ritual
-
-  kid
-
-  awful
-
-  immune'
-bip_39_word_no_space_1: task
-bip_39_word_no_space_10: taskaffordgloverawworthritualkidawfulimmunebunker
-bip_39_word_no_space_11: taskaffordgloverawworthritualkidawfulimmunebunkermeadow
 bip_39_word_no_space_12: taskaffordgloverawworthritualkidawfulimmunebunkermeadowafraid
 bip_39_word_no_space_2: taskafford
 bip_39_word_no_space_3: taskaffordglove
-bip_39_word_no_space_4: taskaffordgloveraw
-bip_39_word_no_space_5: taskaffordgloverawworth
-bip_39_word_no_space_6: taskaffordgloverawworthritual
-bip_39_word_no_space_7: taskaffordgloverawworthritualkid
-bip_39_word_no_space_8: taskaffordgloverawworthritualkidawful
-bip_39_word_no_space_9: taskaffordgloverawworthritualkidawfulimmune
-bip_39_word_space_0:
-- task
-- afford
-- glove
-- raw
-- worth
-- ritual
-- kid
-- awful
-- immune
-- bunker
-- meadow
-- afraid
-bip_39_word_space_1: task
-bip_39_word_space_10: task afford glove raw worth ritual kid awful immune bunker
-bip_39_word_space_11: task afford glove raw worth ritual kid awful immune bunker meadow
 bip_39_word_space_12: task afford glove raw worth ritual kid awful immune bunker meadow
   afraid
 bip_39_word_space_2: task afford
 bip_39_word_space_3: task afford glove
-bip_39_word_space_4: task afford glove raw
-bip_39_word_space_5: task afford glove raw worth
-bip_39_word_space_6: task afford glove raw worth ritual
-bip_39_word_space_7: task afford glove raw worth ritual kid
-bip_39_word_space_8: task afford glove raw worth ritual kid awful
-bip_39_word_space_9: task afford glove raw worth ritual kid awful immune
-bip_39_word_underscore_1: task
-bip_39_word_underscore_10: task_afford_glove_raw_worth_ritual_kid_awful_immune_bunker
-bip_39_word_underscore_11: task_afford_glove_raw_worth_ritual_kid_awful_immune_bunker_meadow
 bip_39_word_underscore_12: task_afford_glove_raw_worth_ritual_kid_awful_immune_bunker_meadow_afraid
 bip_39_word_underscore_2: task_afford
 bip_39_word_underscore_3: task_afford_glove
-bip_39_word_underscore_4: task_afford_glove_raw
-bip_39_word_underscore_5: task_afford_glove_raw_worth
-bip_39_word_underscore_6: task_afford_glove_raw_worth_ritual
-bip_39_word_underscore_7: task_afford_glove_raw_worth_ritual_kid
-bip_39_word_underscore_8: task_afford_glove_raw_worth_ritual_kid_awful
-bip_39_word_underscore_9: task_afford_glove_raw_worth_ritual_kid_awful_immune
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

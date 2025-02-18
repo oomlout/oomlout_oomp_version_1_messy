@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cause
-bip_39_word_dash_10: cause-spare-organ-exotic-oxygen-salmon-any-memory-favorite-fresh
-bip_39_word_dash_11: cause-spare-organ-exotic-oxygen-salmon-any-memory-favorite-fresh-enrich
 bip_39_word_dash_12: cause-spare-organ-exotic-oxygen-salmon-any-memory-favorite-fresh-enrich-account
 bip_39_word_dash_2: cause-spare
 bip_39_word_dash_3: cause-spare-organ
-bip_39_word_dash_4: cause-spare-organ-exotic
-bip_39_word_dash_5: cause-spare-organ-exotic-oxygen
-bip_39_word_dash_6: cause-spare-organ-exotic-oxygen-salmon
-bip_39_word_dash_7: cause-spare-organ-exotic-oxygen-salmon-any
-bip_39_word_dash_8: cause-spare-organ-exotic-oxygen-salmon-any-memory
-bip_39_word_dash_9: cause-spare-organ-exotic-oxygen-salmon-any-memory-favorite
-bip_39_word_new_br_1: cause
-bip_39_word_new_br_10: cause<br>spare<br>organ<br>exotic<br>oxygen<br>salmon<br>any<br>memory<br>favorite<br>fresh
-bip_39_word_new_br_11: cause<br>spare<br>organ<br>exotic<br>oxygen<br>salmon<br>any<br>memory<br>favorite<br>fresh<br>enrich
 bip_39_word_new_br_12: cause<br>spare<br>organ<br>exotic<br>oxygen<br>salmon<br>any<br>memory<br>favorite<br>fresh<br>enrich<br>account
 bip_39_word_new_br_2: cause<br>spare
 bip_39_word_new_br_3: cause<br>spare<br>organ
-bip_39_word_new_br_4: cause<br>spare<br>organ<br>exotic
-bip_39_word_new_br_5: cause<br>spare<br>organ<br>exotic<br>oxygen
-bip_39_word_new_br_6: cause<br>spare<br>organ<br>exotic<br>oxygen<br>salmon
-bip_39_word_new_br_7: cause<br>spare<br>organ<br>exotic<br>oxygen<br>salmon<br>any
-bip_39_word_new_br_8: cause<br>spare<br>organ<br>exotic<br>oxygen<br>salmon<br>any<br>memory
-bip_39_word_new_br_9: cause<br>spare<br>organ<br>exotic<br>oxygen<br>salmon<br>any<br>memory<br>favorite
-bip_39_word_new_line_1: cause
-bip_39_word_new_line_10: 'cause
-
-  spare
-
-  organ
-
-  exotic
-
-  oxygen
-
-  salmon
-
-  any
-
-  memory
-
-  favorite
-
-  fresh'
-bip_39_word_new_line_11: 'cause
-
-  spare
-
-  organ
-
-  exotic
-
-  oxygen
-
-  salmon
-
-  any
-
-  memory
-
-  favorite
-
-  fresh
-
-  enrich'
 bip_39_word_new_line_12: 'cause
 
   spare
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'cause
   spare
 
   organ'
-bip_39_word_new_line_4: 'cause
-
-  spare
-
-  organ
-
-  exotic'
-bip_39_word_new_line_5: 'cause
-
-  spare
-
-  organ
-
-  exotic
-
-  oxygen'
-bip_39_word_new_line_6: 'cause
-
-  spare
-
-  organ
-
-  exotic
-
-  oxygen
-
-  salmon'
-bip_39_word_new_line_7: 'cause
-
-  spare
-
-  organ
-
-  exotic
-
-  oxygen
-
-  salmon
-
-  any'
-bip_39_word_new_line_8: 'cause
-
-  spare
-
-  organ
-
-  exotic
-
-  oxygen
-
-  salmon
-
-  any
-
-  memory'
-bip_39_word_new_line_9: 'cause
-
-  spare
-
-  organ
-
-  exotic
-
-  oxygen
-
-  salmon
-
-  any
-
-  memory
-
-  favorite'
-bip_39_word_no_space_1: cause
-bip_39_word_no_space_10: causespareorganexoticoxygensalmonanymemoryfavoritefresh
-bip_39_word_no_space_11: causespareorganexoticoxygensalmonanymemoryfavoritefreshenrich
 bip_39_word_no_space_12: causespareorganexoticoxygensalmonanymemoryfavoritefreshenrichaccount
 bip_39_word_no_space_2: causespare
 bip_39_word_no_space_3: causespareorgan
-bip_39_word_no_space_4: causespareorganexotic
-bip_39_word_no_space_5: causespareorganexoticoxygen
-bip_39_word_no_space_6: causespareorganexoticoxygensalmon
-bip_39_word_no_space_7: causespareorganexoticoxygensalmonany
-bip_39_word_no_space_8: causespareorganexoticoxygensalmonanymemory
-bip_39_word_no_space_9: causespareorganexoticoxygensalmonanymemoryfavorite
-bip_39_word_space_0:
-- cause
-- spare
-- organ
-- exotic
-- oxygen
-- salmon
-- any
-- memory
-- favorite
-- fresh
-- enrich
-- account
-bip_39_word_space_1: cause
-bip_39_word_space_10: cause spare organ exotic oxygen salmon any memory favorite fresh
-bip_39_word_space_11: cause spare organ exotic oxygen salmon any memory favorite fresh
-  enrich
 bip_39_word_space_12: cause spare organ exotic oxygen salmon any memory favorite fresh
   enrich account
 bip_39_word_space_2: cause spare
 bip_39_word_space_3: cause spare organ
-bip_39_word_space_4: cause spare organ exotic
-bip_39_word_space_5: cause spare organ exotic oxygen
-bip_39_word_space_6: cause spare organ exotic oxygen salmon
-bip_39_word_space_7: cause spare organ exotic oxygen salmon any
-bip_39_word_space_8: cause spare organ exotic oxygen salmon any memory
-bip_39_word_space_9: cause spare organ exotic oxygen salmon any memory favorite
-bip_39_word_underscore_1: cause
-bip_39_word_underscore_10: cause_spare_organ_exotic_oxygen_salmon_any_memory_favorite_fresh
-bip_39_word_underscore_11: cause_spare_organ_exotic_oxygen_salmon_any_memory_favorite_fresh_enrich
 bip_39_word_underscore_12: cause_spare_organ_exotic_oxygen_salmon_any_memory_favorite_fresh_enrich_account
 bip_39_word_underscore_2: cause_spare
 bip_39_word_underscore_3: cause_spare_organ
-bip_39_word_underscore_4: cause_spare_organ_exotic
-bip_39_word_underscore_5: cause_spare_organ_exotic_oxygen
-bip_39_word_underscore_6: cause_spare_organ_exotic_oxygen_salmon
-bip_39_word_underscore_7: cause_spare_organ_exotic_oxygen_salmon_any
-bip_39_word_underscore_8: cause_spare_organ_exotic_oxygen_salmon_any_memory
-bip_39_word_underscore_9: cause_spare_organ_exotic_oxygen_salmon_any_memory_favorite
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

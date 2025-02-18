@@ -1,68 +1,9 @@
-bip_39_word_dash_1: obscure
-bip_39_word_dash_10: obscure-service-ship-again-myself-drift-accuse-crew-harbor-file
-bip_39_word_dash_11: obscure-service-ship-again-myself-drift-accuse-crew-harbor-file-unit
 bip_39_word_dash_12: obscure-service-ship-again-myself-drift-accuse-crew-harbor-file-unit-arrest
 bip_39_word_dash_2: obscure-service
 bip_39_word_dash_3: obscure-service-ship
-bip_39_word_dash_4: obscure-service-ship-again
-bip_39_word_dash_5: obscure-service-ship-again-myself
-bip_39_word_dash_6: obscure-service-ship-again-myself-drift
-bip_39_word_dash_7: obscure-service-ship-again-myself-drift-accuse
-bip_39_word_dash_8: obscure-service-ship-again-myself-drift-accuse-crew
-bip_39_word_dash_9: obscure-service-ship-again-myself-drift-accuse-crew-harbor
-bip_39_word_new_br_1: obscure
-bip_39_word_new_br_10: obscure<br>service<br>ship<br>again<br>myself<br>drift<br>accuse<br>crew<br>harbor<br>file
-bip_39_word_new_br_11: obscure<br>service<br>ship<br>again<br>myself<br>drift<br>accuse<br>crew<br>harbor<br>file<br>unit
 bip_39_word_new_br_12: obscure<br>service<br>ship<br>again<br>myself<br>drift<br>accuse<br>crew<br>harbor<br>file<br>unit<br>arrest
 bip_39_word_new_br_2: obscure<br>service
 bip_39_word_new_br_3: obscure<br>service<br>ship
-bip_39_word_new_br_4: obscure<br>service<br>ship<br>again
-bip_39_word_new_br_5: obscure<br>service<br>ship<br>again<br>myself
-bip_39_word_new_br_6: obscure<br>service<br>ship<br>again<br>myself<br>drift
-bip_39_word_new_br_7: obscure<br>service<br>ship<br>again<br>myself<br>drift<br>accuse
-bip_39_word_new_br_8: obscure<br>service<br>ship<br>again<br>myself<br>drift<br>accuse<br>crew
-bip_39_word_new_br_9: obscure<br>service<br>ship<br>again<br>myself<br>drift<br>accuse<br>crew<br>harbor
-bip_39_word_new_line_1: obscure
-bip_39_word_new_line_10: 'obscure
-
-  service
-
-  ship
-
-  again
-
-  myself
-
-  drift
-
-  accuse
-
-  crew
-
-  harbor
-
-  file'
-bip_39_word_new_line_11: 'obscure
-
-  service
-
-  ship
-
-  again
-
-  myself
-
-  drift
-
-  accuse
-
-  crew
-
-  harbor
-
-  file
-
-  unit'
 bip_39_word_new_line_12: 'obscure
 
   service
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'obscure
   service
 
   ship'
-bip_39_word_new_line_4: 'obscure
-
-  service
-
-  ship
-
-  again'
-bip_39_word_new_line_5: 'obscure
-
-  service
-
-  ship
-
-  again
-
-  myself'
-bip_39_word_new_line_6: 'obscure
-
-  service
-
-  ship
-
-  again
-
-  myself
-
-  drift'
-bip_39_word_new_line_7: 'obscure
-
-  service
-
-  ship
-
-  again
-
-  myself
-
-  drift
-
-  accuse'
-bip_39_word_new_line_8: 'obscure
-
-  service
-
-  ship
-
-  again
-
-  myself
-
-  drift
-
-  accuse
-
-  crew'
-bip_39_word_new_line_9: 'obscure
-
-  service
-
-  ship
-
-  again
-
-  myself
-
-  drift
-
-  accuse
-
-  crew
-
-  harbor'
-bip_39_word_no_space_1: obscure
-bip_39_word_no_space_10: obscureserviceshipagainmyselfdriftaccusecrewharborfile
-bip_39_word_no_space_11: obscureserviceshipagainmyselfdriftaccusecrewharborfileunit
 bip_39_word_no_space_12: obscureserviceshipagainmyselfdriftaccusecrewharborfileunitarrest
 bip_39_word_no_space_2: obscureservice
 bip_39_word_no_space_3: obscureserviceship
-bip_39_word_no_space_4: obscureserviceshipagain
-bip_39_word_no_space_5: obscureserviceshipagainmyself
-bip_39_word_no_space_6: obscureserviceshipagainmyselfdrift
-bip_39_word_no_space_7: obscureserviceshipagainmyselfdriftaccuse
-bip_39_word_no_space_8: obscureserviceshipagainmyselfdriftaccusecrew
-bip_39_word_no_space_9: obscureserviceshipagainmyselfdriftaccusecrewharbor
-bip_39_word_space_0:
-- obscure
-- service
-- ship
-- again
-- myself
-- drift
-- accuse
-- crew
-- harbor
-- file
-- unit
-- arrest
-bip_39_word_space_1: obscure
-bip_39_word_space_10: obscure service ship again myself drift accuse crew harbor file
-bip_39_word_space_11: obscure service ship again myself drift accuse crew harbor file
-  unit
 bip_39_word_space_12: obscure service ship again myself drift accuse crew harbor file
   unit arrest
 bip_39_word_space_2: obscure service
 bip_39_word_space_3: obscure service ship
-bip_39_word_space_4: obscure service ship again
-bip_39_word_space_5: obscure service ship again myself
-bip_39_word_space_6: obscure service ship again myself drift
-bip_39_word_space_7: obscure service ship again myself drift accuse
-bip_39_word_space_8: obscure service ship again myself drift accuse crew
-bip_39_word_space_9: obscure service ship again myself drift accuse crew harbor
-bip_39_word_underscore_1: obscure
-bip_39_word_underscore_10: obscure_service_ship_again_myself_drift_accuse_crew_harbor_file
-bip_39_word_underscore_11: obscure_service_ship_again_myself_drift_accuse_crew_harbor_file_unit
 bip_39_word_underscore_12: obscure_service_ship_again_myself_drift_accuse_crew_harbor_file_unit_arrest
 bip_39_word_underscore_2: obscure_service
 bip_39_word_underscore_3: obscure_service_ship
-bip_39_word_underscore_4: obscure_service_ship_again
-bip_39_word_underscore_5: obscure_service_ship_again_myself
-bip_39_word_underscore_6: obscure_service_ship_again_myself_drift
-bip_39_word_underscore_7: obscure_service_ship_again_myself_drift_accuse
-bip_39_word_underscore_8: obscure_service_ship_again_myself_drift_accuse_crew
-bip_39_word_underscore_9: obscure_service_ship_again_myself_drift_accuse_crew_harbor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

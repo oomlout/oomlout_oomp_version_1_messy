@@ -1,68 +1,9 @@
-bip_39_word_dash_1: select
-bip_39_word_dash_10: select-narrow-funny-minute-enough-remain-soft-milk-shrimp-virtual
-bip_39_word_dash_11: select-narrow-funny-minute-enough-remain-soft-milk-shrimp-virtual-private
 bip_39_word_dash_12: select-narrow-funny-minute-enough-remain-soft-milk-shrimp-virtual-private-avocado
 bip_39_word_dash_2: select-narrow
 bip_39_word_dash_3: select-narrow-funny
-bip_39_word_dash_4: select-narrow-funny-minute
-bip_39_word_dash_5: select-narrow-funny-minute-enough
-bip_39_word_dash_6: select-narrow-funny-minute-enough-remain
-bip_39_word_dash_7: select-narrow-funny-minute-enough-remain-soft
-bip_39_word_dash_8: select-narrow-funny-minute-enough-remain-soft-milk
-bip_39_word_dash_9: select-narrow-funny-minute-enough-remain-soft-milk-shrimp
-bip_39_word_new_br_1: select
-bip_39_word_new_br_10: select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual
-bip_39_word_new_br_11: select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual<br>private
 bip_39_word_new_br_12: select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp<br>virtual<br>private<br>avocado
 bip_39_word_new_br_2: select<br>narrow
 bip_39_word_new_br_3: select<br>narrow<br>funny
-bip_39_word_new_br_4: select<br>narrow<br>funny<br>minute
-bip_39_word_new_br_5: select<br>narrow<br>funny<br>minute<br>enough
-bip_39_word_new_br_6: select<br>narrow<br>funny<br>minute<br>enough<br>remain
-bip_39_word_new_br_7: select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft
-bip_39_word_new_br_8: select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk
-bip_39_word_new_br_9: select<br>narrow<br>funny<br>minute<br>enough<br>remain<br>soft<br>milk<br>shrimp
-bip_39_word_new_line_1: select
-bip_39_word_new_line_10: 'select
-
-  narrow
-
-  funny
-
-  minute
-
-  enough
-
-  remain
-
-  soft
-
-  milk
-
-  shrimp
-
-  virtual'
-bip_39_word_new_line_11: 'select
-
-  narrow
-
-  funny
-
-  minute
-
-  enough
-
-  remain
-
-  soft
-
-  milk
-
-  shrimp
-
-  virtual
-
-  private'
 bip_39_word_new_line_12: 'select
 
   narrow
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'select
   narrow
 
   funny'
-bip_39_word_new_line_4: 'select
-
-  narrow
-
-  funny
-
-  minute'
-bip_39_word_new_line_5: 'select
-
-  narrow
-
-  funny
-
-  minute
-
-  enough'
-bip_39_word_new_line_6: 'select
-
-  narrow
-
-  funny
-
-  minute
-
-  enough
-
-  remain'
-bip_39_word_new_line_7: 'select
-
-  narrow
-
-  funny
-
-  minute
-
-  enough
-
-  remain
-
-  soft'
-bip_39_word_new_line_8: 'select
-
-  narrow
-
-  funny
-
-  minute
-
-  enough
-
-  remain
-
-  soft
-
-  milk'
-bip_39_word_new_line_9: 'select
-
-  narrow
-
-  funny
-
-  minute
-
-  enough
-
-  remain
-
-  soft
-
-  milk
-
-  shrimp'
-bip_39_word_no_space_1: select
-bip_39_word_no_space_10: selectnarrowfunnyminuteenoughremainsoftmilkshrimpvirtual
-bip_39_word_no_space_11: selectnarrowfunnyminuteenoughremainsoftmilkshrimpvirtualprivate
 bip_39_word_no_space_12: selectnarrowfunnyminuteenoughremainsoftmilkshrimpvirtualprivateavocado
 bip_39_word_no_space_2: selectnarrow
 bip_39_word_no_space_3: selectnarrowfunny
-bip_39_word_no_space_4: selectnarrowfunnyminute
-bip_39_word_no_space_5: selectnarrowfunnyminuteenough
-bip_39_word_no_space_6: selectnarrowfunnyminuteenoughremain
-bip_39_word_no_space_7: selectnarrowfunnyminuteenoughremainsoft
-bip_39_word_no_space_8: selectnarrowfunnyminuteenoughremainsoftmilk
-bip_39_word_no_space_9: selectnarrowfunnyminuteenoughremainsoftmilkshrimp
-bip_39_word_space_0:
-- select
-- narrow
-- funny
-- minute
-- enough
-- remain
-- soft
-- milk
-- shrimp
-- virtual
-- private
-- avocado
-bip_39_word_space_1: select
-bip_39_word_space_10: select narrow funny minute enough remain soft milk shrimp virtual
-bip_39_word_space_11: select narrow funny minute enough remain soft milk shrimp virtual
-  private
 bip_39_word_space_12: select narrow funny minute enough remain soft milk shrimp virtual
   private avocado
 bip_39_word_space_2: select narrow
 bip_39_word_space_3: select narrow funny
-bip_39_word_space_4: select narrow funny minute
-bip_39_word_space_5: select narrow funny minute enough
-bip_39_word_space_6: select narrow funny minute enough remain
-bip_39_word_space_7: select narrow funny minute enough remain soft
-bip_39_word_space_8: select narrow funny minute enough remain soft milk
-bip_39_word_space_9: select narrow funny minute enough remain soft milk shrimp
-bip_39_word_underscore_1: select
-bip_39_word_underscore_10: select_narrow_funny_minute_enough_remain_soft_milk_shrimp_virtual
-bip_39_word_underscore_11: select_narrow_funny_minute_enough_remain_soft_milk_shrimp_virtual_private
 bip_39_word_underscore_12: select_narrow_funny_minute_enough_remain_soft_milk_shrimp_virtual_private_avocado
 bip_39_word_underscore_2: select_narrow
 bip_39_word_underscore_3: select_narrow_funny
-bip_39_word_underscore_4: select_narrow_funny_minute
-bip_39_word_underscore_5: select_narrow_funny_minute_enough
-bip_39_word_underscore_6: select_narrow_funny_minute_enough_remain
-bip_39_word_underscore_7: select_narrow_funny_minute_enough_remain_soft
-bip_39_word_underscore_8: select_narrow_funny_minute_enough_remain_soft_milk
-bip_39_word_underscore_9: select_narrow_funny_minute_enough_remain_soft_milk_shrimp
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

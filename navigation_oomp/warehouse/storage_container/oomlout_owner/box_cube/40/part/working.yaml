@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phrase
-bip_39_word_dash_10: phrase-cluster-casual-gauge-suffer-afraid-balance-attract-dust-offer
-bip_39_word_dash_11: phrase-cluster-casual-gauge-suffer-afraid-balance-attract-dust-offer-oak
 bip_39_word_dash_12: phrase-cluster-casual-gauge-suffer-afraid-balance-attract-dust-offer-oak-afraid
 bip_39_word_dash_2: phrase-cluster
 bip_39_word_dash_3: phrase-cluster-casual
-bip_39_word_dash_4: phrase-cluster-casual-gauge
-bip_39_word_dash_5: phrase-cluster-casual-gauge-suffer
-bip_39_word_dash_6: phrase-cluster-casual-gauge-suffer-afraid
-bip_39_word_dash_7: phrase-cluster-casual-gauge-suffer-afraid-balance
-bip_39_word_dash_8: phrase-cluster-casual-gauge-suffer-afraid-balance-attract
-bip_39_word_dash_9: phrase-cluster-casual-gauge-suffer-afraid-balance-attract-dust
-bip_39_word_new_br_1: phrase
-bip_39_word_new_br_10: phrase<br>cluster<br>casual<br>gauge<br>suffer<br>afraid<br>balance<br>attract<br>dust<br>offer
-bip_39_word_new_br_11: phrase<br>cluster<br>casual<br>gauge<br>suffer<br>afraid<br>balance<br>attract<br>dust<br>offer<br>oak
 bip_39_word_new_br_12: phrase<br>cluster<br>casual<br>gauge<br>suffer<br>afraid<br>balance<br>attract<br>dust<br>offer<br>oak<br>afraid
 bip_39_word_new_br_2: phrase<br>cluster
 bip_39_word_new_br_3: phrase<br>cluster<br>casual
-bip_39_word_new_br_4: phrase<br>cluster<br>casual<br>gauge
-bip_39_word_new_br_5: phrase<br>cluster<br>casual<br>gauge<br>suffer
-bip_39_word_new_br_6: phrase<br>cluster<br>casual<br>gauge<br>suffer<br>afraid
-bip_39_word_new_br_7: phrase<br>cluster<br>casual<br>gauge<br>suffer<br>afraid<br>balance
-bip_39_word_new_br_8: phrase<br>cluster<br>casual<br>gauge<br>suffer<br>afraid<br>balance<br>attract
-bip_39_word_new_br_9: phrase<br>cluster<br>casual<br>gauge<br>suffer<br>afraid<br>balance<br>attract<br>dust
-bip_39_word_new_line_1: phrase
-bip_39_word_new_line_10: 'phrase
-
-  cluster
-
-  casual
-
-  gauge
-
-  suffer
-
-  afraid
-
-  balance
-
-  attract
-
-  dust
-
-  offer'
-bip_39_word_new_line_11: 'phrase
-
-  cluster
-
-  casual
-
-  gauge
-
-  suffer
-
-  afraid
-
-  balance
-
-  attract
-
-  dust
-
-  offer
-
-  oak'
 bip_39_word_new_line_12: 'phrase
 
   cluster
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'phrase
   cluster
 
   casual'
-bip_39_word_new_line_4: 'phrase
-
-  cluster
-
-  casual
-
-  gauge'
-bip_39_word_new_line_5: 'phrase
-
-  cluster
-
-  casual
-
-  gauge
-
-  suffer'
-bip_39_word_new_line_6: 'phrase
-
-  cluster
-
-  casual
-
-  gauge
-
-  suffer
-
-  afraid'
-bip_39_word_new_line_7: 'phrase
-
-  cluster
-
-  casual
-
-  gauge
-
-  suffer
-
-  afraid
-
-  balance'
-bip_39_word_new_line_8: 'phrase
-
-  cluster
-
-  casual
-
-  gauge
-
-  suffer
-
-  afraid
-
-  balance
-
-  attract'
-bip_39_word_new_line_9: 'phrase
-
-  cluster
-
-  casual
-
-  gauge
-
-  suffer
-
-  afraid
-
-  balance
-
-  attract
-
-  dust'
-bip_39_word_no_space_1: phrase
-bip_39_word_no_space_10: phraseclustercasualgaugesufferafraidbalanceattractdustoffer
-bip_39_word_no_space_11: phraseclustercasualgaugesufferafraidbalanceattractdustofferoak
 bip_39_word_no_space_12: phraseclustercasualgaugesufferafraidbalanceattractdustofferoakafraid
 bip_39_word_no_space_2: phrasecluster
 bip_39_word_no_space_3: phraseclustercasual
-bip_39_word_no_space_4: phraseclustercasualgauge
-bip_39_word_no_space_5: phraseclustercasualgaugesuffer
-bip_39_word_no_space_6: phraseclustercasualgaugesufferafraid
-bip_39_word_no_space_7: phraseclustercasualgaugesufferafraidbalance
-bip_39_word_no_space_8: phraseclustercasualgaugesufferafraidbalanceattract
-bip_39_word_no_space_9: phraseclustercasualgaugesufferafraidbalanceattractdust
-bip_39_word_space_0:
-- phrase
-- cluster
-- casual
-- gauge
-- suffer
-- afraid
-- balance
-- attract
-- dust
-- offer
-- oak
-- afraid
-bip_39_word_space_1: phrase
-bip_39_word_space_10: phrase cluster casual gauge suffer afraid balance attract dust
-  offer
-bip_39_word_space_11: phrase cluster casual gauge suffer afraid balance attract dust
-  offer oak
 bip_39_word_space_12: phrase cluster casual gauge suffer afraid balance attract dust
   offer oak afraid
 bip_39_word_space_2: phrase cluster
 bip_39_word_space_3: phrase cluster casual
-bip_39_word_space_4: phrase cluster casual gauge
-bip_39_word_space_5: phrase cluster casual gauge suffer
-bip_39_word_space_6: phrase cluster casual gauge suffer afraid
-bip_39_word_space_7: phrase cluster casual gauge suffer afraid balance
-bip_39_word_space_8: phrase cluster casual gauge suffer afraid balance attract
-bip_39_word_space_9: phrase cluster casual gauge suffer afraid balance attract dust
-bip_39_word_underscore_1: phrase
-bip_39_word_underscore_10: phrase_cluster_casual_gauge_suffer_afraid_balance_attract_dust_offer
-bip_39_word_underscore_11: phrase_cluster_casual_gauge_suffer_afraid_balance_attract_dust_offer_oak
 bip_39_word_underscore_12: phrase_cluster_casual_gauge_suffer_afraid_balance_attract_dust_offer_oak_afraid
 bip_39_word_underscore_2: phrase_cluster
 bip_39_word_underscore_3: phrase_cluster_casual
-bip_39_word_underscore_4: phrase_cluster_casual_gauge
-bip_39_word_underscore_5: phrase_cluster_casual_gauge_suffer
-bip_39_word_underscore_6: phrase_cluster_casual_gauge_suffer_afraid
-bip_39_word_underscore_7: phrase_cluster_casual_gauge_suffer_afraid_balance
-bip_39_word_underscore_8: phrase_cluster_casual_gauge_suffer_afraid_balance_attract
-bip_39_word_underscore_9: phrase_cluster_casual_gauge_suffer_afraid_balance_attract_dust
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

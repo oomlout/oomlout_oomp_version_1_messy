@@ -1,68 +1,9 @@
-bip_39_word_dash_1: device
-bip_39_word_dash_10: device-target-planet-youth-fluid-cube-furnace-suspect-spread-laundry
-bip_39_word_dash_11: device-target-planet-youth-fluid-cube-furnace-suspect-spread-laundry-divorce
 bip_39_word_dash_12: device-target-planet-youth-fluid-cube-furnace-suspect-spread-laundry-divorce-amateur
 bip_39_word_dash_2: device-target
 bip_39_word_dash_3: device-target-planet
-bip_39_word_dash_4: device-target-planet-youth
-bip_39_word_dash_5: device-target-planet-youth-fluid
-bip_39_word_dash_6: device-target-planet-youth-fluid-cube
-bip_39_word_dash_7: device-target-planet-youth-fluid-cube-furnace
-bip_39_word_dash_8: device-target-planet-youth-fluid-cube-furnace-suspect
-bip_39_word_dash_9: device-target-planet-youth-fluid-cube-furnace-suspect-spread
-bip_39_word_new_br_1: device
-bip_39_word_new_br_10: device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry
-bip_39_word_new_br_11: device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry<br>divorce
 bip_39_word_new_br_12: device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread<br>laundry<br>divorce<br>amateur
 bip_39_word_new_br_2: device<br>target
 bip_39_word_new_br_3: device<br>target<br>planet
-bip_39_word_new_br_4: device<br>target<br>planet<br>youth
-bip_39_word_new_br_5: device<br>target<br>planet<br>youth<br>fluid
-bip_39_word_new_br_6: device<br>target<br>planet<br>youth<br>fluid<br>cube
-bip_39_word_new_br_7: device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace
-bip_39_word_new_br_8: device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect
-bip_39_word_new_br_9: device<br>target<br>planet<br>youth<br>fluid<br>cube<br>furnace<br>suspect<br>spread
-bip_39_word_new_line_1: device
-bip_39_word_new_line_10: 'device
-
-  target
-
-  planet
-
-  youth
-
-  fluid
-
-  cube
-
-  furnace
-
-  suspect
-
-  spread
-
-  laundry'
-bip_39_word_new_line_11: 'device
-
-  target
-
-  planet
-
-  youth
-
-  fluid
-
-  cube
-
-  furnace
-
-  suspect
-
-  spread
-
-  laundry
-
-  divorce'
 bip_39_word_new_line_12: 'device
 
   target
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'device
   target
 
   planet'
-bip_39_word_new_line_4: 'device
-
-  target
-
-  planet
-
-  youth'
-bip_39_word_new_line_5: 'device
-
-  target
-
-  planet
-
-  youth
-
-  fluid'
-bip_39_word_new_line_6: 'device
-
-  target
-
-  planet
-
-  youth
-
-  fluid
-
-  cube'
-bip_39_word_new_line_7: 'device
-
-  target
-
-  planet
-
-  youth
-
-  fluid
-
-  cube
-
-  furnace'
-bip_39_word_new_line_8: 'device
-
-  target
-
-  planet
-
-  youth
-
-  fluid
-
-  cube
-
-  furnace
-
-  suspect'
-bip_39_word_new_line_9: 'device
-
-  target
-
-  planet
-
-  youth
-
-  fluid
-
-  cube
-
-  furnace
-
-  suspect
-
-  spread'
-bip_39_word_no_space_1: device
-bip_39_word_no_space_10: devicetargetplanetyouthfluidcubefurnacesuspectspreadlaundry
-bip_39_word_no_space_11: devicetargetplanetyouthfluidcubefurnacesuspectspreadlaundrydivorce
 bip_39_word_no_space_12: devicetargetplanetyouthfluidcubefurnacesuspectspreadlaundrydivorceamateur
 bip_39_word_no_space_2: devicetarget
 bip_39_word_no_space_3: devicetargetplanet
-bip_39_word_no_space_4: devicetargetplanetyouth
-bip_39_word_no_space_5: devicetargetplanetyouthfluid
-bip_39_word_no_space_6: devicetargetplanetyouthfluidcube
-bip_39_word_no_space_7: devicetargetplanetyouthfluidcubefurnace
-bip_39_word_no_space_8: devicetargetplanetyouthfluidcubefurnacesuspect
-bip_39_word_no_space_9: devicetargetplanetyouthfluidcubefurnacesuspectspread
-bip_39_word_space_0:
-- device
-- target
-- planet
-- youth
-- fluid
-- cube
-- furnace
-- suspect
-- spread
-- laundry
-- divorce
-- amateur
-bip_39_word_space_1: device
-bip_39_word_space_10: device target planet youth fluid cube furnace suspect spread
-  laundry
-bip_39_word_space_11: device target planet youth fluid cube furnace suspect spread
-  laundry divorce
 bip_39_word_space_12: device target planet youth fluid cube furnace suspect spread
   laundry divorce amateur
 bip_39_word_space_2: device target
 bip_39_word_space_3: device target planet
-bip_39_word_space_4: device target planet youth
-bip_39_word_space_5: device target planet youth fluid
-bip_39_word_space_6: device target planet youth fluid cube
-bip_39_word_space_7: device target planet youth fluid cube furnace
-bip_39_word_space_8: device target planet youth fluid cube furnace suspect
-bip_39_word_space_9: device target planet youth fluid cube furnace suspect spread
-bip_39_word_underscore_1: device
-bip_39_word_underscore_10: device_target_planet_youth_fluid_cube_furnace_suspect_spread_laundry
-bip_39_word_underscore_11: device_target_planet_youth_fluid_cube_furnace_suspect_spread_laundry_divorce
 bip_39_word_underscore_12: device_target_planet_youth_fluid_cube_furnace_suspect_spread_laundry_divorce_amateur
 bip_39_word_underscore_2: device_target
 bip_39_word_underscore_3: device_target_planet
-bip_39_word_underscore_4: device_target_planet_youth
-bip_39_word_underscore_5: device_target_planet_youth_fluid
-bip_39_word_underscore_6: device_target_planet_youth_fluid_cube
-bip_39_word_underscore_7: device_target_planet_youth_fluid_cube_furnace
-bip_39_word_underscore_8: device_target_planet_youth_fluid_cube_furnace_suspect
-bip_39_word_underscore_9: device_target_planet_youth_fluid_cube_furnace_suspect_spread
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

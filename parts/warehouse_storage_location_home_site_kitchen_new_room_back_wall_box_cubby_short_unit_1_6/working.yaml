@@ -1,68 +1,9 @@
-bip_39_word_dash_1: genius
-bip_39_word_dash_10: genius-salmon-pluck-word-squirrel-afford-final-hobby-juice-favorite
-bip_39_word_dash_11: genius-salmon-pluck-word-squirrel-afford-final-hobby-juice-favorite-bag
 bip_39_word_dash_12: genius-salmon-pluck-word-squirrel-afford-final-hobby-juice-favorite-bag-audit
 bip_39_word_dash_2: genius-salmon
 bip_39_word_dash_3: genius-salmon-pluck
-bip_39_word_dash_4: genius-salmon-pluck-word
-bip_39_word_dash_5: genius-salmon-pluck-word-squirrel
-bip_39_word_dash_6: genius-salmon-pluck-word-squirrel-afford
-bip_39_word_dash_7: genius-salmon-pluck-word-squirrel-afford-final
-bip_39_word_dash_8: genius-salmon-pluck-word-squirrel-afford-final-hobby
-bip_39_word_dash_9: genius-salmon-pluck-word-squirrel-afford-final-hobby-juice
-bip_39_word_new_br_1: genius
-bip_39_word_new_br_10: genius<br>salmon<br>pluck<br>word<br>squirrel<br>afford<br>final<br>hobby<br>juice<br>favorite
-bip_39_word_new_br_11: genius<br>salmon<br>pluck<br>word<br>squirrel<br>afford<br>final<br>hobby<br>juice<br>favorite<br>bag
 bip_39_word_new_br_12: genius<br>salmon<br>pluck<br>word<br>squirrel<br>afford<br>final<br>hobby<br>juice<br>favorite<br>bag<br>audit
 bip_39_word_new_br_2: genius<br>salmon
 bip_39_word_new_br_3: genius<br>salmon<br>pluck
-bip_39_word_new_br_4: genius<br>salmon<br>pluck<br>word
-bip_39_word_new_br_5: genius<br>salmon<br>pluck<br>word<br>squirrel
-bip_39_word_new_br_6: genius<br>salmon<br>pluck<br>word<br>squirrel<br>afford
-bip_39_word_new_br_7: genius<br>salmon<br>pluck<br>word<br>squirrel<br>afford<br>final
-bip_39_word_new_br_8: genius<br>salmon<br>pluck<br>word<br>squirrel<br>afford<br>final<br>hobby
-bip_39_word_new_br_9: genius<br>salmon<br>pluck<br>word<br>squirrel<br>afford<br>final<br>hobby<br>juice
-bip_39_word_new_line_1: genius
-bip_39_word_new_line_10: 'genius
-
-  salmon
-
-  pluck
-
-  word
-
-  squirrel
-
-  afford
-
-  final
-
-  hobby
-
-  juice
-
-  favorite'
-bip_39_word_new_line_11: 'genius
-
-  salmon
-
-  pluck
-
-  word
-
-  squirrel
-
-  afford
-
-  final
-
-  hobby
-
-  juice
-
-  favorite
-
-  bag'
 bip_39_word_new_line_12: 'genius
 
   salmon
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'genius
   salmon
 
   pluck'
-bip_39_word_new_line_4: 'genius
-
-  salmon
-
-  pluck
-
-  word'
-bip_39_word_new_line_5: 'genius
-
-  salmon
-
-  pluck
-
-  word
-
-  squirrel'
-bip_39_word_new_line_6: 'genius
-
-  salmon
-
-  pluck
-
-  word
-
-  squirrel
-
-  afford'
-bip_39_word_new_line_7: 'genius
-
-  salmon
-
-  pluck
-
-  word
-
-  squirrel
-
-  afford
-
-  final'
-bip_39_word_new_line_8: 'genius
-
-  salmon
-
-  pluck
-
-  word
-
-  squirrel
-
-  afford
-
-  final
-
-  hobby'
-bip_39_word_new_line_9: 'genius
-
-  salmon
-
-  pluck
-
-  word
-
-  squirrel
-
-  afford
-
-  final
-
-  hobby
-
-  juice'
-bip_39_word_no_space_1: genius
-bip_39_word_no_space_10: geniussalmonpluckwordsquirrelaffordfinalhobbyjuicefavorite
-bip_39_word_no_space_11: geniussalmonpluckwordsquirrelaffordfinalhobbyjuicefavoritebag
 bip_39_word_no_space_12: geniussalmonpluckwordsquirrelaffordfinalhobbyjuicefavoritebagaudit
 bip_39_word_no_space_2: geniussalmon
 bip_39_word_no_space_3: geniussalmonpluck
-bip_39_word_no_space_4: geniussalmonpluckword
-bip_39_word_no_space_5: geniussalmonpluckwordsquirrel
-bip_39_word_no_space_6: geniussalmonpluckwordsquirrelafford
-bip_39_word_no_space_7: geniussalmonpluckwordsquirrelaffordfinal
-bip_39_word_no_space_8: geniussalmonpluckwordsquirrelaffordfinalhobby
-bip_39_word_no_space_9: geniussalmonpluckwordsquirrelaffordfinalhobbyjuice
-bip_39_word_space_0:
-- genius
-- salmon
-- pluck
-- word
-- squirrel
-- afford
-- final
-- hobby
-- juice
-- favorite
-- bag
-- audit
-bip_39_word_space_1: genius
-bip_39_word_space_10: genius salmon pluck word squirrel afford final hobby juice favorite
-bip_39_word_space_11: genius salmon pluck word squirrel afford final hobby juice favorite
-  bag
 bip_39_word_space_12: genius salmon pluck word squirrel afford final hobby juice favorite
   bag audit
 bip_39_word_space_2: genius salmon
 bip_39_word_space_3: genius salmon pluck
-bip_39_word_space_4: genius salmon pluck word
-bip_39_word_space_5: genius salmon pluck word squirrel
-bip_39_word_space_6: genius salmon pluck word squirrel afford
-bip_39_word_space_7: genius salmon pluck word squirrel afford final
-bip_39_word_space_8: genius salmon pluck word squirrel afford final hobby
-bip_39_word_space_9: genius salmon pluck word squirrel afford final hobby juice
-bip_39_word_underscore_1: genius
-bip_39_word_underscore_10: genius_salmon_pluck_word_squirrel_afford_final_hobby_juice_favorite
-bip_39_word_underscore_11: genius_salmon_pluck_word_squirrel_afford_final_hobby_juice_favorite_bag
 bip_39_word_underscore_12: genius_salmon_pluck_word_squirrel_afford_final_hobby_juice_favorite_bag_audit
 bip_39_word_underscore_2: genius_salmon
 bip_39_word_underscore_3: genius_salmon_pluck
-bip_39_word_underscore_4: genius_salmon_pluck_word
-bip_39_word_underscore_5: genius_salmon_pluck_word_squirrel
-bip_39_word_underscore_6: genius_salmon_pluck_word_squirrel_afford
-bip_39_word_underscore_7: genius_salmon_pluck_word_squirrel_afford_final
-bip_39_word_underscore_8: genius_salmon_pluck_word_squirrel_afford_final_hobby
-bip_39_word_underscore_9: genius_salmon_pluck_word_squirrel_afford_final_hobby_juice
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bridge
-bip_39_word_dash_10: bridge-bind-top-sword-spice-luxury-anchor-apple-praise-crisp
-bip_39_word_dash_11: bridge-bind-top-sword-spice-luxury-anchor-apple-praise-crisp-noodle
 bip_39_word_dash_12: bridge-bind-top-sword-spice-luxury-anchor-apple-praise-crisp-noodle-autumn
 bip_39_word_dash_2: bridge-bind
 bip_39_word_dash_3: bridge-bind-top
-bip_39_word_dash_4: bridge-bind-top-sword
-bip_39_word_dash_5: bridge-bind-top-sword-spice
-bip_39_word_dash_6: bridge-bind-top-sword-spice-luxury
-bip_39_word_dash_7: bridge-bind-top-sword-spice-luxury-anchor
-bip_39_word_dash_8: bridge-bind-top-sword-spice-luxury-anchor-apple
-bip_39_word_dash_9: bridge-bind-top-sword-spice-luxury-anchor-apple-praise
-bip_39_word_new_br_1: bridge
-bip_39_word_new_br_10: bridge<br>bind<br>top<br>sword<br>spice<br>luxury<br>anchor<br>apple<br>praise<br>crisp
-bip_39_word_new_br_11: bridge<br>bind<br>top<br>sword<br>spice<br>luxury<br>anchor<br>apple<br>praise<br>crisp<br>noodle
 bip_39_word_new_br_12: bridge<br>bind<br>top<br>sword<br>spice<br>luxury<br>anchor<br>apple<br>praise<br>crisp<br>noodle<br>autumn
 bip_39_word_new_br_2: bridge<br>bind
 bip_39_word_new_br_3: bridge<br>bind<br>top
-bip_39_word_new_br_4: bridge<br>bind<br>top<br>sword
-bip_39_word_new_br_5: bridge<br>bind<br>top<br>sword<br>spice
-bip_39_word_new_br_6: bridge<br>bind<br>top<br>sword<br>spice<br>luxury
-bip_39_word_new_br_7: bridge<br>bind<br>top<br>sword<br>spice<br>luxury<br>anchor
-bip_39_word_new_br_8: bridge<br>bind<br>top<br>sword<br>spice<br>luxury<br>anchor<br>apple
-bip_39_word_new_br_9: bridge<br>bind<br>top<br>sword<br>spice<br>luxury<br>anchor<br>apple<br>praise
-bip_39_word_new_line_1: bridge
-bip_39_word_new_line_10: 'bridge
-
-  bind
-
-  top
-
-  sword
-
-  spice
-
-  luxury
-
-  anchor
-
-  apple
-
-  praise
-
-  crisp'
-bip_39_word_new_line_11: 'bridge
-
-  bind
-
-  top
-
-  sword
-
-  spice
-
-  luxury
-
-  anchor
-
-  apple
-
-  praise
-
-  crisp
-
-  noodle'
 bip_39_word_new_line_12: 'bridge
 
   bind
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'bridge
   bind
 
   top'
-bip_39_word_new_line_4: 'bridge
-
-  bind
-
-  top
-
-  sword'
-bip_39_word_new_line_5: 'bridge
-
-  bind
-
-  top
-
-  sword
-
-  spice'
-bip_39_word_new_line_6: 'bridge
-
-  bind
-
-  top
-
-  sword
-
-  spice
-
-  luxury'
-bip_39_word_new_line_7: 'bridge
-
-  bind
-
-  top
-
-  sword
-
-  spice
-
-  luxury
-
-  anchor'
-bip_39_word_new_line_8: 'bridge
-
-  bind
-
-  top
-
-  sword
-
-  spice
-
-  luxury
-
-  anchor
-
-  apple'
-bip_39_word_new_line_9: 'bridge
-
-  bind
-
-  top
-
-  sword
-
-  spice
-
-  luxury
-
-  anchor
-
-  apple
-
-  praise'
-bip_39_word_no_space_1: bridge
-bip_39_word_no_space_10: bridgebindtopswordspiceluxuryanchorapplepraisecrisp
-bip_39_word_no_space_11: bridgebindtopswordspiceluxuryanchorapplepraisecrispnoodle
 bip_39_word_no_space_12: bridgebindtopswordspiceluxuryanchorapplepraisecrispnoodleautumn
 bip_39_word_no_space_2: bridgebind
 bip_39_word_no_space_3: bridgebindtop
-bip_39_word_no_space_4: bridgebindtopsword
-bip_39_word_no_space_5: bridgebindtopswordspice
-bip_39_word_no_space_6: bridgebindtopswordspiceluxury
-bip_39_word_no_space_7: bridgebindtopswordspiceluxuryanchor
-bip_39_word_no_space_8: bridgebindtopswordspiceluxuryanchorapple
-bip_39_word_no_space_9: bridgebindtopswordspiceluxuryanchorapplepraise
-bip_39_word_space_0:
-- bridge
-- bind
-- top
-- sword
-- spice
-- luxury
-- anchor
-- apple
-- praise
-- crisp
-- noodle
-- autumn
-bip_39_word_space_1: bridge
-bip_39_word_space_10: bridge bind top sword spice luxury anchor apple praise crisp
-bip_39_word_space_11: bridge bind top sword spice luxury anchor apple praise crisp
-  noodle
 bip_39_word_space_12: bridge bind top sword spice luxury anchor apple praise crisp
   noodle autumn
 bip_39_word_space_2: bridge bind
 bip_39_word_space_3: bridge bind top
-bip_39_word_space_4: bridge bind top sword
-bip_39_word_space_5: bridge bind top sword spice
-bip_39_word_space_6: bridge bind top sword spice luxury
-bip_39_word_space_7: bridge bind top sword spice luxury anchor
-bip_39_word_space_8: bridge bind top sword spice luxury anchor apple
-bip_39_word_space_9: bridge bind top sword spice luxury anchor apple praise
-bip_39_word_underscore_1: bridge
-bip_39_word_underscore_10: bridge_bind_top_sword_spice_luxury_anchor_apple_praise_crisp
-bip_39_word_underscore_11: bridge_bind_top_sword_spice_luxury_anchor_apple_praise_crisp_noodle
 bip_39_word_underscore_12: bridge_bind_top_sword_spice_luxury_anchor_apple_praise_crisp_noodle_autumn
 bip_39_word_underscore_2: bridge_bind
 bip_39_word_underscore_3: bridge_bind_top
-bip_39_word_underscore_4: bridge_bind_top_sword
-bip_39_word_underscore_5: bridge_bind_top_sword_spice
-bip_39_word_underscore_6: bridge_bind_top_sword_spice_luxury
-bip_39_word_underscore_7: bridge_bind_top_sword_spice_luxury_anchor
-bip_39_word_underscore_8: bridge_bind_top_sword_spice_luxury_anchor_apple
-bip_39_word_underscore_9: bridge_bind_top_sword_spice_luxury_anchor_apple_praise
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: motor
-bip_39_word_dash_10: motor-memory-patient-choice-siege-mobile-lazy-mouse-mosquito-grow
-bip_39_word_dash_11: motor-memory-patient-choice-siege-mobile-lazy-mouse-mosquito-grow-truck
 bip_39_word_dash_12: motor-memory-patient-choice-siege-mobile-lazy-mouse-mosquito-grow-truck-address
 bip_39_word_dash_2: motor-memory
 bip_39_word_dash_3: motor-memory-patient
-bip_39_word_dash_4: motor-memory-patient-choice
-bip_39_word_dash_5: motor-memory-patient-choice-siege
-bip_39_word_dash_6: motor-memory-patient-choice-siege-mobile
-bip_39_word_dash_7: motor-memory-patient-choice-siege-mobile-lazy
-bip_39_word_dash_8: motor-memory-patient-choice-siege-mobile-lazy-mouse
-bip_39_word_dash_9: motor-memory-patient-choice-siege-mobile-lazy-mouse-mosquito
-bip_39_word_new_br_1: motor
-bip_39_word_new_br_10: motor<br>memory<br>patient<br>choice<br>siege<br>mobile<br>lazy<br>mouse<br>mosquito<br>grow
-bip_39_word_new_br_11: motor<br>memory<br>patient<br>choice<br>siege<br>mobile<br>lazy<br>mouse<br>mosquito<br>grow<br>truck
 bip_39_word_new_br_12: motor<br>memory<br>patient<br>choice<br>siege<br>mobile<br>lazy<br>mouse<br>mosquito<br>grow<br>truck<br>address
 bip_39_word_new_br_2: motor<br>memory
 bip_39_word_new_br_3: motor<br>memory<br>patient
-bip_39_word_new_br_4: motor<br>memory<br>patient<br>choice
-bip_39_word_new_br_5: motor<br>memory<br>patient<br>choice<br>siege
-bip_39_word_new_br_6: motor<br>memory<br>patient<br>choice<br>siege<br>mobile
-bip_39_word_new_br_7: motor<br>memory<br>patient<br>choice<br>siege<br>mobile<br>lazy
-bip_39_word_new_br_8: motor<br>memory<br>patient<br>choice<br>siege<br>mobile<br>lazy<br>mouse
-bip_39_word_new_br_9: motor<br>memory<br>patient<br>choice<br>siege<br>mobile<br>lazy<br>mouse<br>mosquito
-bip_39_word_new_line_1: motor
-bip_39_word_new_line_10: 'motor
-
-  memory
-
-  patient
-
-  choice
-
-  siege
-
-  mobile
-
-  lazy
-
-  mouse
-
-  mosquito
-
-  grow'
-bip_39_word_new_line_11: 'motor
-
-  memory
-
-  patient
-
-  choice
-
-  siege
-
-  mobile
-
-  lazy
-
-  mouse
-
-  mosquito
-
-  grow
-
-  truck'
 bip_39_word_new_line_12: 'motor
 
   memory
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'motor
   memory
 
   patient'
-bip_39_word_new_line_4: 'motor
-
-  memory
-
-  patient
-
-  choice'
-bip_39_word_new_line_5: 'motor
-
-  memory
-
-  patient
-
-  choice
-
-  siege'
-bip_39_word_new_line_6: 'motor
-
-  memory
-
-  patient
-
-  choice
-
-  siege
-
-  mobile'
-bip_39_word_new_line_7: 'motor
-
-  memory
-
-  patient
-
-  choice
-
-  siege
-
-  mobile
-
-  lazy'
-bip_39_word_new_line_8: 'motor
-
-  memory
-
-  patient
-
-  choice
-
-  siege
-
-  mobile
-
-  lazy
-
-  mouse'
-bip_39_word_new_line_9: 'motor
-
-  memory
-
-  patient
-
-  choice
-
-  siege
-
-  mobile
-
-  lazy
-
-  mouse
-
-  mosquito'
-bip_39_word_no_space_1: motor
-bip_39_word_no_space_10: motormemorypatientchoicesiegemobilelazymousemosquitogrow
-bip_39_word_no_space_11: motormemorypatientchoicesiegemobilelazymousemosquitogrowtruck
 bip_39_word_no_space_12: motormemorypatientchoicesiegemobilelazymousemosquitogrowtruckaddress
 bip_39_word_no_space_2: motormemory
 bip_39_word_no_space_3: motormemorypatient
-bip_39_word_no_space_4: motormemorypatientchoice
-bip_39_word_no_space_5: motormemorypatientchoicesiege
-bip_39_word_no_space_6: motormemorypatientchoicesiegemobile
-bip_39_word_no_space_7: motormemorypatientchoicesiegemobilelazy
-bip_39_word_no_space_8: motormemorypatientchoicesiegemobilelazymouse
-bip_39_word_no_space_9: motormemorypatientchoicesiegemobilelazymousemosquito
-bip_39_word_space_0:
-- motor
-- memory
-- patient
-- choice
-- siege
-- mobile
-- lazy
-- mouse
-- mosquito
-- grow
-- truck
-- address
-bip_39_word_space_1: motor
-bip_39_word_space_10: motor memory patient choice siege mobile lazy mouse mosquito
-  grow
-bip_39_word_space_11: motor memory patient choice siege mobile lazy mouse mosquito
-  grow truck
 bip_39_word_space_12: motor memory patient choice siege mobile lazy mouse mosquito
   grow truck address
 bip_39_word_space_2: motor memory
 bip_39_word_space_3: motor memory patient
-bip_39_word_space_4: motor memory patient choice
-bip_39_word_space_5: motor memory patient choice siege
-bip_39_word_space_6: motor memory patient choice siege mobile
-bip_39_word_space_7: motor memory patient choice siege mobile lazy
-bip_39_word_space_8: motor memory patient choice siege mobile lazy mouse
-bip_39_word_space_9: motor memory patient choice siege mobile lazy mouse mosquito
-bip_39_word_underscore_1: motor
-bip_39_word_underscore_10: motor_memory_patient_choice_siege_mobile_lazy_mouse_mosquito_grow
-bip_39_word_underscore_11: motor_memory_patient_choice_siege_mobile_lazy_mouse_mosquito_grow_truck
 bip_39_word_underscore_12: motor_memory_patient_choice_siege_mobile_lazy_mouse_mosquito_grow_truck_address
 bip_39_word_underscore_2: motor_memory
 bip_39_word_underscore_3: motor_memory_patient
-bip_39_word_underscore_4: motor_memory_patient_choice
-bip_39_word_underscore_5: motor_memory_patient_choice_siege
-bip_39_word_underscore_6: motor_memory_patient_choice_siege_mobile
-bip_39_word_underscore_7: motor_memory_patient_choice_siege_mobile_lazy
-bip_39_word_underscore_8: motor_memory_patient_choice_siege_mobile_lazy_mouse
-bip_39_word_underscore_9: motor_memory_patient_choice_siege_mobile_lazy_mouse_mosquito
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

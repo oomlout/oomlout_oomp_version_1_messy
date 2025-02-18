@@ -24,9 +24,9 @@ category_stationery
   * description_extra: tote
   * manufacturer: 
   * part_number: 
-  * bip 39 word 2: 
-  * bip 39 word 3: 
-  * bip 39 word: 
+  * bip 39 word 2: gloom head
+  * bip 39 word 3: gloom head lock
+  * bip 39 word: gloom head lock know benefit session magnet shoulder beef rail snack appear
 
 ### other_codes
 * short_code: 
@@ -40,6 +40,22 @@ category_stationery
 
 
 
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206m8fg)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206m8fg)
+[2x1](http://192.168.1.242:1112/?label=oomp%206m8fg)
+[6x4](http://192.168.1.55:1112/?label=oomp%206m8fg)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_tote) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_tote)                             
+
+#### price
+
+
+
+
 
 
 
@@ -47,20 +63,34 @@ category_stationery
 | key | value |  
 | --- | --- |  
 | classification | category |  
+| classification_name | Category |  
 | color |  |  
+| color_name |  |  
 | description | category_stationery |  
 | description_extra | tote |  
+| description_extra_name | Tote |  
 | description_main |  |  
+| description_main_name |  |  
 | description_or_color |   |  
 | directory | parts/category_stationery_felt_tip_pen_tote |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery_felt_tip_pen_tote |  
 | id | category_stationery_felt_tip_pen_tote |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_tote |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_tote |  
+| link_2_name | link_github |  
 | link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_tote |  
 | link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_tote |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206m8fg |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206m8fg |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206m8fg |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206m8fg |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_tote |  
 | manufacturer |  |  
+| manufacturer_name |  |  
 | manufacturers | [] |  
 | markdown_full | [category_stationery_felt_tip_pen_tote](none)<br>[](none)<br>[Category Stationery Felt Tip Pen Tote](none)<br><br> |  
 | markdown_short | [category_stationery_felt_tip_pen_tote](none)<br><br> |  
@@ -70,6 +100,11 @@ category_stationery
 | md5_6 | a99a2c |  
 | md5_6_alpha | 6m8fg |  
 | name | Category Stationery Felt Tip Pen Tote |  
+| oomlout_detail_hierarchy_1 | category |  
+| oomlout_detail_hierarchy_2 | stationery |  
+| oomlout_detail_hierarchy_3 | felt_tip_pen |  
+| oomlout_detail_hierarchy_4 | tote |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_category_stationery_felt_tip_pen_tote |  
 | oomp_word | sandal golf snowflake |  
 | oomp_word_emoji | :sandal: :golf: :snowflake: |  
@@ -77,7 +112,10 @@ category_stationery
 | oomp_word_list | ['sandal', 'golf', 'snowflake'] |  
 | part_number |  |  
 | part_number_exact |  |  
+| part_number_name |  |  
 | short_code |  |  
 | short_name | Categorystationery |  
 | size | felt_tip_pen |  
+| size_name | Felt Tip Pen |  
 | type | stationery |  
+| type_name | Stationery |  

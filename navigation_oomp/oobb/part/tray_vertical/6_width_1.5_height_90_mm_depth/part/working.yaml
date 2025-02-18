@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mammal
-bip_39_word_dash_10: mammal-mimic-candy-escape-film-fork-cliff-drastic-skate-maid
-bip_39_word_dash_11: mammal-mimic-candy-escape-film-fork-cliff-drastic-skate-maid-quick
 bip_39_word_dash_12: mammal-mimic-candy-escape-film-fork-cliff-drastic-skate-maid-quick-announce
 bip_39_word_dash_2: mammal-mimic
 bip_39_word_dash_3: mammal-mimic-candy
-bip_39_word_dash_4: mammal-mimic-candy-escape
-bip_39_word_dash_5: mammal-mimic-candy-escape-film
-bip_39_word_dash_6: mammal-mimic-candy-escape-film-fork
-bip_39_word_dash_7: mammal-mimic-candy-escape-film-fork-cliff
-bip_39_word_dash_8: mammal-mimic-candy-escape-film-fork-cliff-drastic
-bip_39_word_dash_9: mammal-mimic-candy-escape-film-fork-cliff-drastic-skate
-bip_39_word_new_br_1: mammal
-bip_39_word_new_br_10: mammal<br>mimic<br>candy<br>escape<br>film<br>fork<br>cliff<br>drastic<br>skate<br>maid
-bip_39_word_new_br_11: mammal<br>mimic<br>candy<br>escape<br>film<br>fork<br>cliff<br>drastic<br>skate<br>maid<br>quick
 bip_39_word_new_br_12: mammal<br>mimic<br>candy<br>escape<br>film<br>fork<br>cliff<br>drastic<br>skate<br>maid<br>quick<br>announce
 bip_39_word_new_br_2: mammal<br>mimic
 bip_39_word_new_br_3: mammal<br>mimic<br>candy
-bip_39_word_new_br_4: mammal<br>mimic<br>candy<br>escape
-bip_39_word_new_br_5: mammal<br>mimic<br>candy<br>escape<br>film
-bip_39_word_new_br_6: mammal<br>mimic<br>candy<br>escape<br>film<br>fork
-bip_39_word_new_br_7: mammal<br>mimic<br>candy<br>escape<br>film<br>fork<br>cliff
-bip_39_word_new_br_8: mammal<br>mimic<br>candy<br>escape<br>film<br>fork<br>cliff<br>drastic
-bip_39_word_new_br_9: mammal<br>mimic<br>candy<br>escape<br>film<br>fork<br>cliff<br>drastic<br>skate
-bip_39_word_new_line_1: mammal
-bip_39_word_new_line_10: 'mammal
-
-  mimic
-
-  candy
-
-  escape
-
-  film
-
-  fork
-
-  cliff
-
-  drastic
-
-  skate
-
-  maid'
-bip_39_word_new_line_11: 'mammal
-
-  mimic
-
-  candy
-
-  escape
-
-  film
-
-  fork
-
-  cliff
-
-  drastic
-
-  skate
-
-  maid
-
-  quick'
 bip_39_word_new_line_12: 'mammal
 
   mimic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mammal
   mimic
 
   candy'
-bip_39_word_new_line_4: 'mammal
-
-  mimic
-
-  candy
-
-  escape'
-bip_39_word_new_line_5: 'mammal
-
-  mimic
-
-  candy
-
-  escape
-
-  film'
-bip_39_word_new_line_6: 'mammal
-
-  mimic
-
-  candy
-
-  escape
-
-  film
-
-  fork'
-bip_39_word_new_line_7: 'mammal
-
-  mimic
-
-  candy
-
-  escape
-
-  film
-
-  fork
-
-  cliff'
-bip_39_word_new_line_8: 'mammal
-
-  mimic
-
-  candy
-
-  escape
-
-  film
-
-  fork
-
-  cliff
-
-  drastic'
-bip_39_word_new_line_9: 'mammal
-
-  mimic
-
-  candy
-
-  escape
-
-  film
-
-  fork
-
-  cliff
-
-  drastic
-
-  skate'
-bip_39_word_no_space_1: mammal
-bip_39_word_no_space_10: mammalmimiccandyescapefilmforkcliffdrasticskatemaid
-bip_39_word_no_space_11: mammalmimiccandyescapefilmforkcliffdrasticskatemaidquick
 bip_39_word_no_space_12: mammalmimiccandyescapefilmforkcliffdrasticskatemaidquickannounce
 bip_39_word_no_space_2: mammalmimic
 bip_39_word_no_space_3: mammalmimiccandy
-bip_39_word_no_space_4: mammalmimiccandyescape
-bip_39_word_no_space_5: mammalmimiccandyescapefilm
-bip_39_word_no_space_6: mammalmimiccandyescapefilmfork
-bip_39_word_no_space_7: mammalmimiccandyescapefilmforkcliff
-bip_39_word_no_space_8: mammalmimiccandyescapefilmforkcliffdrastic
-bip_39_word_no_space_9: mammalmimiccandyescapefilmforkcliffdrasticskate
-bip_39_word_space_0:
-- mammal
-- mimic
-- candy
-- escape
-- film
-- fork
-- cliff
-- drastic
-- skate
-- maid
-- quick
-- announce
-bip_39_word_space_1: mammal
-bip_39_word_space_10: mammal mimic candy escape film fork cliff drastic skate maid
-bip_39_word_space_11: mammal mimic candy escape film fork cliff drastic skate maid
-  quick
 bip_39_word_space_12: mammal mimic candy escape film fork cliff drastic skate maid
   quick announce
 bip_39_word_space_2: mammal mimic
 bip_39_word_space_3: mammal mimic candy
-bip_39_word_space_4: mammal mimic candy escape
-bip_39_word_space_5: mammal mimic candy escape film
-bip_39_word_space_6: mammal mimic candy escape film fork
-bip_39_word_space_7: mammal mimic candy escape film fork cliff
-bip_39_word_space_8: mammal mimic candy escape film fork cliff drastic
-bip_39_word_space_9: mammal mimic candy escape film fork cliff drastic skate
-bip_39_word_underscore_1: mammal
-bip_39_word_underscore_10: mammal_mimic_candy_escape_film_fork_cliff_drastic_skate_maid
-bip_39_word_underscore_11: mammal_mimic_candy_escape_film_fork_cliff_drastic_skate_maid_quick
 bip_39_word_underscore_12: mammal_mimic_candy_escape_film_fork_cliff_drastic_skate_maid_quick_announce
 bip_39_word_underscore_2: mammal_mimic
 bip_39_word_underscore_3: mammal_mimic_candy
-bip_39_word_underscore_4: mammal_mimic_candy_escape
-bip_39_word_underscore_5: mammal_mimic_candy_escape_film
-bip_39_word_underscore_6: mammal_mimic_candy_escape_film_fork
-bip_39_word_underscore_7: mammal_mimic_candy_escape_film_fork_cliff
-bip_39_word_underscore_8: mammal_mimic_candy_escape_film_fork_cliff_drastic
-bip_39_word_underscore_9: mammal_mimic_candy_escape_film_fork_cliff_drastic_skate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gold
-bip_39_word_dash_10: gold-brush-hire-bind-desk-pilot-relief-casual-prefer-approve
-bip_39_word_dash_11: gold-brush-hire-bind-desk-pilot-relief-casual-prefer-approve-injury
 bip_39_word_dash_12: gold-brush-hire-bind-desk-pilot-relief-casual-prefer-approve-injury-amateur
 bip_39_word_dash_2: gold-brush
 bip_39_word_dash_3: gold-brush-hire
-bip_39_word_dash_4: gold-brush-hire-bind
-bip_39_word_dash_5: gold-brush-hire-bind-desk
-bip_39_word_dash_6: gold-brush-hire-bind-desk-pilot
-bip_39_word_dash_7: gold-brush-hire-bind-desk-pilot-relief
-bip_39_word_dash_8: gold-brush-hire-bind-desk-pilot-relief-casual
-bip_39_word_dash_9: gold-brush-hire-bind-desk-pilot-relief-casual-prefer
-bip_39_word_new_br_1: gold
-bip_39_word_new_br_10: gold<br>brush<br>hire<br>bind<br>desk<br>pilot<br>relief<br>casual<br>prefer<br>approve
-bip_39_word_new_br_11: gold<br>brush<br>hire<br>bind<br>desk<br>pilot<br>relief<br>casual<br>prefer<br>approve<br>injury
 bip_39_word_new_br_12: gold<br>brush<br>hire<br>bind<br>desk<br>pilot<br>relief<br>casual<br>prefer<br>approve<br>injury<br>amateur
 bip_39_word_new_br_2: gold<br>brush
 bip_39_word_new_br_3: gold<br>brush<br>hire
-bip_39_word_new_br_4: gold<br>brush<br>hire<br>bind
-bip_39_word_new_br_5: gold<br>brush<br>hire<br>bind<br>desk
-bip_39_word_new_br_6: gold<br>brush<br>hire<br>bind<br>desk<br>pilot
-bip_39_word_new_br_7: gold<br>brush<br>hire<br>bind<br>desk<br>pilot<br>relief
-bip_39_word_new_br_8: gold<br>brush<br>hire<br>bind<br>desk<br>pilot<br>relief<br>casual
-bip_39_word_new_br_9: gold<br>brush<br>hire<br>bind<br>desk<br>pilot<br>relief<br>casual<br>prefer
-bip_39_word_new_line_1: gold
-bip_39_word_new_line_10: 'gold
-
-  brush
-
-  hire
-
-  bind
-
-  desk
-
-  pilot
-
-  relief
-
-  casual
-
-  prefer
-
-  approve'
-bip_39_word_new_line_11: 'gold
-
-  brush
-
-  hire
-
-  bind
-
-  desk
-
-  pilot
-
-  relief
-
-  casual
-
-  prefer
-
-  approve
-
-  injury'
 bip_39_word_new_line_12: 'gold
 
   brush
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gold
   brush
 
   hire'
-bip_39_word_new_line_4: 'gold
-
-  brush
-
-  hire
-
-  bind'
-bip_39_word_new_line_5: 'gold
-
-  brush
-
-  hire
-
-  bind
-
-  desk'
-bip_39_word_new_line_6: 'gold
-
-  brush
-
-  hire
-
-  bind
-
-  desk
-
-  pilot'
-bip_39_word_new_line_7: 'gold
-
-  brush
-
-  hire
-
-  bind
-
-  desk
-
-  pilot
-
-  relief'
-bip_39_word_new_line_8: 'gold
-
-  brush
-
-  hire
-
-  bind
-
-  desk
-
-  pilot
-
-  relief
-
-  casual'
-bip_39_word_new_line_9: 'gold
-
-  brush
-
-  hire
-
-  bind
-
-  desk
-
-  pilot
-
-  relief
-
-  casual
-
-  prefer'
-bip_39_word_no_space_1: gold
-bip_39_word_no_space_10: goldbrushhirebinddeskpilotreliefcasualpreferapprove
-bip_39_word_no_space_11: goldbrushhirebinddeskpilotreliefcasualpreferapproveinjury
 bip_39_word_no_space_12: goldbrushhirebinddeskpilotreliefcasualpreferapproveinjuryamateur
 bip_39_word_no_space_2: goldbrush
 bip_39_word_no_space_3: goldbrushhire
-bip_39_word_no_space_4: goldbrushhirebind
-bip_39_word_no_space_5: goldbrushhirebinddesk
-bip_39_word_no_space_6: goldbrushhirebinddeskpilot
-bip_39_word_no_space_7: goldbrushhirebinddeskpilotrelief
-bip_39_word_no_space_8: goldbrushhirebinddeskpilotreliefcasual
-bip_39_word_no_space_9: goldbrushhirebinddeskpilotreliefcasualprefer
-bip_39_word_space_0:
-- gold
-- brush
-- hire
-- bind
-- desk
-- pilot
-- relief
-- casual
-- prefer
-- approve
-- injury
-- amateur
-bip_39_word_space_1: gold
-bip_39_word_space_10: gold brush hire bind desk pilot relief casual prefer approve
-bip_39_word_space_11: gold brush hire bind desk pilot relief casual prefer approve
-  injury
 bip_39_word_space_12: gold brush hire bind desk pilot relief casual prefer approve
   injury amateur
 bip_39_word_space_2: gold brush
 bip_39_word_space_3: gold brush hire
-bip_39_word_space_4: gold brush hire bind
-bip_39_word_space_5: gold brush hire bind desk
-bip_39_word_space_6: gold brush hire bind desk pilot
-bip_39_word_space_7: gold brush hire bind desk pilot relief
-bip_39_word_space_8: gold brush hire bind desk pilot relief casual
-bip_39_word_space_9: gold brush hire bind desk pilot relief casual prefer
-bip_39_word_underscore_1: gold
-bip_39_word_underscore_10: gold_brush_hire_bind_desk_pilot_relief_casual_prefer_approve
-bip_39_word_underscore_11: gold_brush_hire_bind_desk_pilot_relief_casual_prefer_approve_injury
 bip_39_word_underscore_12: gold_brush_hire_bind_desk_pilot_relief_casual_prefer_approve_injury_amateur
 bip_39_word_underscore_2: gold_brush
 bip_39_word_underscore_3: gold_brush_hire
-bip_39_word_underscore_4: gold_brush_hire_bind
-bip_39_word_underscore_5: gold_brush_hire_bind_desk
-bip_39_word_underscore_6: gold_brush_hire_bind_desk_pilot
-bip_39_word_underscore_7: gold_brush_hire_bind_desk_pilot_relief
-bip_39_word_underscore_8: gold_brush_hire_bind_desk_pilot_relief_casual
-bip_39_word_underscore_9: gold_brush_hire_bind_desk_pilot_relief_casual_prefer
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: staff
-bip_39_word_dash_10: staff-dynamic-flip-bachelor-torch-cliff-unlock-drill-clog-depth
-bip_39_word_dash_11: staff-dynamic-flip-bachelor-torch-cliff-unlock-drill-clog-depth-honey
 bip_39_word_dash_12: staff-dynamic-flip-bachelor-torch-cliff-unlock-drill-clog-depth-honey-art
 bip_39_word_dash_2: staff-dynamic
 bip_39_word_dash_3: staff-dynamic-flip
-bip_39_word_dash_4: staff-dynamic-flip-bachelor
-bip_39_word_dash_5: staff-dynamic-flip-bachelor-torch
-bip_39_word_dash_6: staff-dynamic-flip-bachelor-torch-cliff
-bip_39_word_dash_7: staff-dynamic-flip-bachelor-torch-cliff-unlock
-bip_39_word_dash_8: staff-dynamic-flip-bachelor-torch-cliff-unlock-drill
-bip_39_word_dash_9: staff-dynamic-flip-bachelor-torch-cliff-unlock-drill-clog
-bip_39_word_new_br_1: staff
-bip_39_word_new_br_10: staff<br>dynamic<br>flip<br>bachelor<br>torch<br>cliff<br>unlock<br>drill<br>clog<br>depth
-bip_39_word_new_br_11: staff<br>dynamic<br>flip<br>bachelor<br>torch<br>cliff<br>unlock<br>drill<br>clog<br>depth<br>honey
 bip_39_word_new_br_12: staff<br>dynamic<br>flip<br>bachelor<br>torch<br>cliff<br>unlock<br>drill<br>clog<br>depth<br>honey<br>art
 bip_39_word_new_br_2: staff<br>dynamic
 bip_39_word_new_br_3: staff<br>dynamic<br>flip
-bip_39_word_new_br_4: staff<br>dynamic<br>flip<br>bachelor
-bip_39_word_new_br_5: staff<br>dynamic<br>flip<br>bachelor<br>torch
-bip_39_word_new_br_6: staff<br>dynamic<br>flip<br>bachelor<br>torch<br>cliff
-bip_39_word_new_br_7: staff<br>dynamic<br>flip<br>bachelor<br>torch<br>cliff<br>unlock
-bip_39_word_new_br_8: staff<br>dynamic<br>flip<br>bachelor<br>torch<br>cliff<br>unlock<br>drill
-bip_39_word_new_br_9: staff<br>dynamic<br>flip<br>bachelor<br>torch<br>cliff<br>unlock<br>drill<br>clog
-bip_39_word_new_line_1: staff
-bip_39_word_new_line_10: 'staff
-
-  dynamic
-
-  flip
-
-  bachelor
-
-  torch
-
-  cliff
-
-  unlock
-
-  drill
-
-  clog
-
-  depth'
-bip_39_word_new_line_11: 'staff
-
-  dynamic
-
-  flip
-
-  bachelor
-
-  torch
-
-  cliff
-
-  unlock
-
-  drill
-
-  clog
-
-  depth
-
-  honey'
 bip_39_word_new_line_12: 'staff
 
   dynamic
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'staff
   dynamic
 
   flip'
-bip_39_word_new_line_4: 'staff
-
-  dynamic
-
-  flip
-
-  bachelor'
-bip_39_word_new_line_5: 'staff
-
-  dynamic
-
-  flip
-
-  bachelor
-
-  torch'
-bip_39_word_new_line_6: 'staff
-
-  dynamic
-
-  flip
-
-  bachelor
-
-  torch
-
-  cliff'
-bip_39_word_new_line_7: 'staff
-
-  dynamic
-
-  flip
-
-  bachelor
-
-  torch
-
-  cliff
-
-  unlock'
-bip_39_word_new_line_8: 'staff
-
-  dynamic
-
-  flip
-
-  bachelor
-
-  torch
-
-  cliff
-
-  unlock
-
-  drill'
-bip_39_word_new_line_9: 'staff
-
-  dynamic
-
-  flip
-
-  bachelor
-
-  torch
-
-  cliff
-
-  unlock
-
-  drill
-
-  clog'
-bip_39_word_no_space_1: staff
-bip_39_word_no_space_10: staffdynamicflipbachelortorchcliffunlockdrillclogdepth
-bip_39_word_no_space_11: staffdynamicflipbachelortorchcliffunlockdrillclogdepthhoney
 bip_39_word_no_space_12: staffdynamicflipbachelortorchcliffunlockdrillclogdepthhoneyart
 bip_39_word_no_space_2: staffdynamic
 bip_39_word_no_space_3: staffdynamicflip
-bip_39_word_no_space_4: staffdynamicflipbachelor
-bip_39_word_no_space_5: staffdynamicflipbachelortorch
-bip_39_word_no_space_6: staffdynamicflipbachelortorchcliff
-bip_39_word_no_space_7: staffdynamicflipbachelortorchcliffunlock
-bip_39_word_no_space_8: staffdynamicflipbachelortorchcliffunlockdrill
-bip_39_word_no_space_9: staffdynamicflipbachelortorchcliffunlockdrillclog
-bip_39_word_space_0:
-- staff
-- dynamic
-- flip
-- bachelor
-- torch
-- cliff
-- unlock
-- drill
-- clog
-- depth
-- honey
-- art
-bip_39_word_space_1: staff
-bip_39_word_space_10: staff dynamic flip bachelor torch cliff unlock drill clog depth
-bip_39_word_space_11: staff dynamic flip bachelor torch cliff unlock drill clog depth
-  honey
 bip_39_word_space_12: staff dynamic flip bachelor torch cliff unlock drill clog depth
   honey art
 bip_39_word_space_2: staff dynamic
 bip_39_word_space_3: staff dynamic flip
-bip_39_word_space_4: staff dynamic flip bachelor
-bip_39_word_space_5: staff dynamic flip bachelor torch
-bip_39_word_space_6: staff dynamic flip bachelor torch cliff
-bip_39_word_space_7: staff dynamic flip bachelor torch cliff unlock
-bip_39_word_space_8: staff dynamic flip bachelor torch cliff unlock drill
-bip_39_word_space_9: staff dynamic flip bachelor torch cliff unlock drill clog
-bip_39_word_underscore_1: staff
-bip_39_word_underscore_10: staff_dynamic_flip_bachelor_torch_cliff_unlock_drill_clog_depth
-bip_39_word_underscore_11: staff_dynamic_flip_bachelor_torch_cliff_unlock_drill_clog_depth_honey
 bip_39_word_underscore_12: staff_dynamic_flip_bachelor_torch_cliff_unlock_drill_clog_depth_honey_art
 bip_39_word_underscore_2: staff_dynamic
 bip_39_word_underscore_3: staff_dynamic_flip
-bip_39_word_underscore_4: staff_dynamic_flip_bachelor
-bip_39_word_underscore_5: staff_dynamic_flip_bachelor_torch
-bip_39_word_underscore_6: staff_dynamic_flip_bachelor_torch_cliff
-bip_39_word_underscore_7: staff_dynamic_flip_bachelor_torch_cliff_unlock
-bip_39_word_underscore_8: staff_dynamic_flip_bachelor_torch_cliff_unlock_drill
-bip_39_word_underscore_9: staff_dynamic_flip_bachelor_torch_cliff_unlock_drill_clog
 classification: category
 classification_capital: Category
 classification_first_letter: c

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: say
-bip_39_word_dash_10: say-slender-scrub-ostrich-dream-vast-slam-pet-bridge-hen
-bip_39_word_dash_11: say-slender-scrub-ostrich-dream-vast-slam-pet-bridge-hen-script
 bip_39_word_dash_12: say-slender-scrub-ostrich-dream-vast-slam-pet-bridge-hen-script-address
 bip_39_word_dash_2: say-slender
 bip_39_word_dash_3: say-slender-scrub
-bip_39_word_dash_4: say-slender-scrub-ostrich
-bip_39_word_dash_5: say-slender-scrub-ostrich-dream
-bip_39_word_dash_6: say-slender-scrub-ostrich-dream-vast
-bip_39_word_dash_7: say-slender-scrub-ostrich-dream-vast-slam
-bip_39_word_dash_8: say-slender-scrub-ostrich-dream-vast-slam-pet
-bip_39_word_dash_9: say-slender-scrub-ostrich-dream-vast-slam-pet-bridge
-bip_39_word_new_br_1: say
-bip_39_word_new_br_10: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen
-bip_39_word_new_br_11: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script
 bip_39_word_new_br_12: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script<br>address
 bip_39_word_new_br_2: say<br>slender
 bip_39_word_new_br_3: say<br>slender<br>scrub
-bip_39_word_new_br_4: say<br>slender<br>scrub<br>ostrich
-bip_39_word_new_br_5: say<br>slender<br>scrub<br>ostrich<br>dream
-bip_39_word_new_br_6: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast
-bip_39_word_new_br_7: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam
-bip_39_word_new_br_8: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet
-bip_39_word_new_br_9: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge
-bip_39_word_new_line_1: say
-bip_39_word_new_line_10: 'say
-
-  slender
-
-  scrub
-
-  ostrich
-
-  dream
-
-  vast
-
-  slam
-
-  pet
-
-  bridge
-
-  hen'
-bip_39_word_new_line_11: 'say
-
-  slender
-
-  scrub
-
-  ostrich
-
-  dream
-
-  vast
-
-  slam
-
-  pet
-
-  bridge
-
-  hen
-
-  script'
 bip_39_word_new_line_12: 'say
 
   slender
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'say
   slender
 
   scrub'
-bip_39_word_new_line_4: 'say
-
-  slender
-
-  scrub
-
-  ostrich'
-bip_39_word_new_line_5: 'say
-
-  slender
-
-  scrub
-
-  ostrich
-
-  dream'
-bip_39_word_new_line_6: 'say
-
-  slender
-
-  scrub
-
-  ostrich
-
-  dream
-
-  vast'
-bip_39_word_new_line_7: 'say
-
-  slender
-
-  scrub
-
-  ostrich
-
-  dream
-
-  vast
-
-  slam'
-bip_39_word_new_line_8: 'say
-
-  slender
-
-  scrub
-
-  ostrich
-
-  dream
-
-  vast
-
-  slam
-
-  pet'
-bip_39_word_new_line_9: 'say
-
-  slender
-
-  scrub
-
-  ostrich
-
-  dream
-
-  vast
-
-  slam
-
-  pet
-
-  bridge'
-bip_39_word_no_space_1: say
-bip_39_word_no_space_10: sayslenderscrubostrichdreamvastslampetbridgehen
-bip_39_word_no_space_11: sayslenderscrubostrichdreamvastslampetbridgehenscript
 bip_39_word_no_space_12: sayslenderscrubostrichdreamvastslampetbridgehenscriptaddress
 bip_39_word_no_space_2: sayslender
 bip_39_word_no_space_3: sayslenderscrub
-bip_39_word_no_space_4: sayslenderscrubostrich
-bip_39_word_no_space_5: sayslenderscrubostrichdream
-bip_39_word_no_space_6: sayslenderscrubostrichdreamvast
-bip_39_word_no_space_7: sayslenderscrubostrichdreamvastslam
-bip_39_word_no_space_8: sayslenderscrubostrichdreamvastslampet
-bip_39_word_no_space_9: sayslenderscrubostrichdreamvastslampetbridge
-bip_39_word_space_0:
-- say
-- slender
-- scrub
-- ostrich
-- dream
-- vast
-- slam
-- pet
-- bridge
-- hen
-- script
-- address
-bip_39_word_space_1: say
-bip_39_word_space_10: say slender scrub ostrich dream vast slam pet bridge hen
-bip_39_word_space_11: say slender scrub ostrich dream vast slam pet bridge hen script
 bip_39_word_space_12: say slender scrub ostrich dream vast slam pet bridge hen script
   address
 bip_39_word_space_2: say slender
 bip_39_word_space_3: say slender scrub
-bip_39_word_space_4: say slender scrub ostrich
-bip_39_word_space_5: say slender scrub ostrich dream
-bip_39_word_space_6: say slender scrub ostrich dream vast
-bip_39_word_space_7: say slender scrub ostrich dream vast slam
-bip_39_word_space_8: say slender scrub ostrich dream vast slam pet
-bip_39_word_space_9: say slender scrub ostrich dream vast slam pet bridge
-bip_39_word_underscore_1: say
-bip_39_word_underscore_10: say_slender_scrub_ostrich_dream_vast_slam_pet_bridge_hen
-bip_39_word_underscore_11: say_slender_scrub_ostrich_dream_vast_slam_pet_bridge_hen_script
 bip_39_word_underscore_12: say_slender_scrub_ostrich_dream_vast_slam_pet_bridge_hen_script_address
 bip_39_word_underscore_2: say_slender
 bip_39_word_underscore_3: say_slender_scrub
-bip_39_word_underscore_4: say_slender_scrub_ostrich
-bip_39_word_underscore_5: say_slender_scrub_ostrich_dream
-bip_39_word_underscore_6: say_slender_scrub_ostrich_dream_vast
-bip_39_word_underscore_7: say_slender_scrub_ostrich_dream_vast_slam
-bip_39_word_underscore_8: say_slender_scrub_ostrich_dream_vast_slam_pet
-bip_39_word_underscore_9: say_slender_scrub_ostrich_dream_vast_slam_pet_bridge
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

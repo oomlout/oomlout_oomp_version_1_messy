@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gate
-bip_39_word_dash_10: gate-try-light-either-unlock-boat-unveil-hollow-tree-stock
-bip_39_word_dash_11: gate-try-light-either-unlock-boat-unveil-hollow-tree-stock-evil
 bip_39_word_dash_12: gate-try-light-either-unlock-boat-unveil-hollow-tree-stock-evil-appear
 bip_39_word_dash_2: gate-try
 bip_39_word_dash_3: gate-try-light
-bip_39_word_dash_4: gate-try-light-either
-bip_39_word_dash_5: gate-try-light-either-unlock
-bip_39_word_dash_6: gate-try-light-either-unlock-boat
-bip_39_word_dash_7: gate-try-light-either-unlock-boat-unveil
-bip_39_word_dash_8: gate-try-light-either-unlock-boat-unveil-hollow
-bip_39_word_dash_9: gate-try-light-either-unlock-boat-unveil-hollow-tree
-bip_39_word_new_br_1: gate
-bip_39_word_new_br_10: gate<br>try<br>light<br>either<br>unlock<br>boat<br>unveil<br>hollow<br>tree<br>stock
-bip_39_word_new_br_11: gate<br>try<br>light<br>either<br>unlock<br>boat<br>unveil<br>hollow<br>tree<br>stock<br>evil
 bip_39_word_new_br_12: gate<br>try<br>light<br>either<br>unlock<br>boat<br>unveil<br>hollow<br>tree<br>stock<br>evil<br>appear
 bip_39_word_new_br_2: gate<br>try
 bip_39_word_new_br_3: gate<br>try<br>light
-bip_39_word_new_br_4: gate<br>try<br>light<br>either
-bip_39_word_new_br_5: gate<br>try<br>light<br>either<br>unlock
-bip_39_word_new_br_6: gate<br>try<br>light<br>either<br>unlock<br>boat
-bip_39_word_new_br_7: gate<br>try<br>light<br>either<br>unlock<br>boat<br>unveil
-bip_39_word_new_br_8: gate<br>try<br>light<br>either<br>unlock<br>boat<br>unveil<br>hollow
-bip_39_word_new_br_9: gate<br>try<br>light<br>either<br>unlock<br>boat<br>unveil<br>hollow<br>tree
-bip_39_word_new_line_1: gate
-bip_39_word_new_line_10: 'gate
-
-  try
-
-  light
-
-  either
-
-  unlock
-
-  boat
-
-  unveil
-
-  hollow
-
-  tree
-
-  stock'
-bip_39_word_new_line_11: 'gate
-
-  try
-
-  light
-
-  either
-
-  unlock
-
-  boat
-
-  unveil
-
-  hollow
-
-  tree
-
-  stock
-
-  evil'
 bip_39_word_new_line_12: 'gate
 
   try
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'gate
   try
 
   light'
-bip_39_word_new_line_4: 'gate
-
-  try
-
-  light
-
-  either'
-bip_39_word_new_line_5: 'gate
-
-  try
-
-  light
-
-  either
-
-  unlock'
-bip_39_word_new_line_6: 'gate
-
-  try
-
-  light
-
-  either
-
-  unlock
-
-  boat'
-bip_39_word_new_line_7: 'gate
-
-  try
-
-  light
-
-  either
-
-  unlock
-
-  boat
-
-  unveil'
-bip_39_word_new_line_8: 'gate
-
-  try
-
-  light
-
-  either
-
-  unlock
-
-  boat
-
-  unveil
-
-  hollow'
-bip_39_word_new_line_9: 'gate
-
-  try
-
-  light
-
-  either
-
-  unlock
-
-  boat
-
-  unveil
-
-  hollow
-
-  tree'
-bip_39_word_no_space_1: gate
-bip_39_word_no_space_10: gatetrylighteitherunlockboatunveilhollowtreestock
-bip_39_word_no_space_11: gatetrylighteitherunlockboatunveilhollowtreestockevil
 bip_39_word_no_space_12: gatetrylighteitherunlockboatunveilhollowtreestockevilappear
 bip_39_word_no_space_2: gatetry
 bip_39_word_no_space_3: gatetrylight
-bip_39_word_no_space_4: gatetrylighteither
-bip_39_word_no_space_5: gatetrylighteitherunlock
-bip_39_word_no_space_6: gatetrylighteitherunlockboat
-bip_39_word_no_space_7: gatetrylighteitherunlockboatunveil
-bip_39_word_no_space_8: gatetrylighteitherunlockboatunveilhollow
-bip_39_word_no_space_9: gatetrylighteitherunlockboatunveilhollowtree
-bip_39_word_space_0:
-- gate
-- try
-- light
-- either
-- unlock
-- boat
-- unveil
-- hollow
-- tree
-- stock
-- evil
-- appear
-bip_39_word_space_1: gate
-bip_39_word_space_10: gate try light either unlock boat unveil hollow tree stock
-bip_39_word_space_11: gate try light either unlock boat unveil hollow tree stock evil
 bip_39_word_space_12: gate try light either unlock boat unveil hollow tree stock evil
   appear
 bip_39_word_space_2: gate try
 bip_39_word_space_3: gate try light
-bip_39_word_space_4: gate try light either
-bip_39_word_space_5: gate try light either unlock
-bip_39_word_space_6: gate try light either unlock boat
-bip_39_word_space_7: gate try light either unlock boat unveil
-bip_39_word_space_8: gate try light either unlock boat unveil hollow
-bip_39_word_space_9: gate try light either unlock boat unveil hollow tree
-bip_39_word_underscore_1: gate
-bip_39_word_underscore_10: gate_try_light_either_unlock_boat_unveil_hollow_tree_stock
-bip_39_word_underscore_11: gate_try_light_either_unlock_boat_unveil_hollow_tree_stock_evil
 bip_39_word_underscore_12: gate_try_light_either_unlock_boat_unveil_hollow_tree_stock_evil_appear
 bip_39_word_underscore_2: gate_try
 bip_39_word_underscore_3: gate_try_light
-bip_39_word_underscore_4: gate_try_light_either
-bip_39_word_underscore_5: gate_try_light_either_unlock
-bip_39_word_underscore_6: gate_try_light_either_unlock_boat
-bip_39_word_underscore_7: gate_try_light_either_unlock_boat_unveil
-bip_39_word_underscore_8: gate_try_light_either_unlock_boat_unveil_hollow
-bip_39_word_underscore_9: gate_try_light_either_unlock_boat_unveil_hollow_tree
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: army
-bip_39_word_dash_10: army-rotate-figure-river-fence-wear-frame-bleak-response-breeze
-bip_39_word_dash_11: army-rotate-figure-river-fence-wear-frame-bleak-response-breeze-dice
 bip_39_word_dash_12: army-rotate-figure-river-fence-wear-frame-bleak-response-breeze-dice-announce
 bip_39_word_dash_2: army-rotate
 bip_39_word_dash_3: army-rotate-figure
-bip_39_word_dash_4: army-rotate-figure-river
-bip_39_word_dash_5: army-rotate-figure-river-fence
-bip_39_word_dash_6: army-rotate-figure-river-fence-wear
-bip_39_word_dash_7: army-rotate-figure-river-fence-wear-frame
-bip_39_word_dash_8: army-rotate-figure-river-fence-wear-frame-bleak
-bip_39_word_dash_9: army-rotate-figure-river-fence-wear-frame-bleak-response
-bip_39_word_new_br_1: army
-bip_39_word_new_br_10: army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response<br>breeze
-bip_39_word_new_br_11: army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response<br>breeze<br>dice
 bip_39_word_new_br_12: army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response<br>breeze<br>dice<br>announce
 bip_39_word_new_br_2: army<br>rotate
 bip_39_word_new_br_3: army<br>rotate<br>figure
-bip_39_word_new_br_4: army<br>rotate<br>figure<br>river
-bip_39_word_new_br_5: army<br>rotate<br>figure<br>river<br>fence
-bip_39_word_new_br_6: army<br>rotate<br>figure<br>river<br>fence<br>wear
-bip_39_word_new_br_7: army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame
-bip_39_word_new_br_8: army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak
-bip_39_word_new_br_9: army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response
-bip_39_word_new_line_1: army
-bip_39_word_new_line_10: 'army
-
-  rotate
-
-  figure
-
-  river
-
-  fence
-
-  wear
-
-  frame
-
-  bleak
-
-  response
-
-  breeze'
-bip_39_word_new_line_11: 'army
-
-  rotate
-
-  figure
-
-  river
-
-  fence
-
-  wear
-
-  frame
-
-  bleak
-
-  response
-
-  breeze
-
-  dice'
 bip_39_word_new_line_12: 'army
 
   rotate
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'army
   rotate
 
   figure'
-bip_39_word_new_line_4: 'army
-
-  rotate
-
-  figure
-
-  river'
-bip_39_word_new_line_5: 'army
-
-  rotate
-
-  figure
-
-  river
-
-  fence'
-bip_39_word_new_line_6: 'army
-
-  rotate
-
-  figure
-
-  river
-
-  fence
-
-  wear'
-bip_39_word_new_line_7: 'army
-
-  rotate
-
-  figure
-
-  river
-
-  fence
-
-  wear
-
-  frame'
-bip_39_word_new_line_8: 'army
-
-  rotate
-
-  figure
-
-  river
-
-  fence
-
-  wear
-
-  frame
-
-  bleak'
-bip_39_word_new_line_9: 'army
-
-  rotate
-
-  figure
-
-  river
-
-  fence
-
-  wear
-
-  frame
-
-  bleak
-
-  response'
-bip_39_word_no_space_1: army
-bip_39_word_no_space_10: armyrotatefigureriverfencewearframebleakresponsebreeze
-bip_39_word_no_space_11: armyrotatefigureriverfencewearframebleakresponsebreezedice
 bip_39_word_no_space_12: armyrotatefigureriverfencewearframebleakresponsebreezediceannounce
 bip_39_word_no_space_2: armyrotate
 bip_39_word_no_space_3: armyrotatefigure
-bip_39_word_no_space_4: armyrotatefigureriver
-bip_39_word_no_space_5: armyrotatefigureriverfence
-bip_39_word_no_space_6: armyrotatefigureriverfencewear
-bip_39_word_no_space_7: armyrotatefigureriverfencewearframe
-bip_39_word_no_space_8: armyrotatefigureriverfencewearframebleak
-bip_39_word_no_space_9: armyrotatefigureriverfencewearframebleakresponse
-bip_39_word_space_0:
-- army
-- rotate
-- figure
-- river
-- fence
-- wear
-- frame
-- bleak
-- response
-- breeze
-- dice
-- announce
-bip_39_word_space_1: army
-bip_39_word_space_10: army rotate figure river fence wear frame bleak response breeze
-bip_39_word_space_11: army rotate figure river fence wear frame bleak response breeze
-  dice
 bip_39_word_space_12: army rotate figure river fence wear frame bleak response breeze
   dice announce
 bip_39_word_space_2: army rotate
 bip_39_word_space_3: army rotate figure
-bip_39_word_space_4: army rotate figure river
-bip_39_word_space_5: army rotate figure river fence
-bip_39_word_space_6: army rotate figure river fence wear
-bip_39_word_space_7: army rotate figure river fence wear frame
-bip_39_word_space_8: army rotate figure river fence wear frame bleak
-bip_39_word_space_9: army rotate figure river fence wear frame bleak response
-bip_39_word_underscore_1: army
-bip_39_word_underscore_10: army_rotate_figure_river_fence_wear_frame_bleak_response_breeze
-bip_39_word_underscore_11: army_rotate_figure_river_fence_wear_frame_bleak_response_breeze_dice
 bip_39_word_underscore_12: army_rotate_figure_river_fence_wear_frame_bleak_response_breeze_dice_announce
 bip_39_word_underscore_2: army_rotate
 bip_39_word_underscore_3: army_rotate_figure
-bip_39_word_underscore_4: army_rotate_figure_river
-bip_39_word_underscore_5: army_rotate_figure_river_fence
-bip_39_word_underscore_6: army_rotate_figure_river_fence_wear
-bip_39_word_underscore_7: army_rotate_figure_river_fence_wear_frame
-bip_39_word_underscore_8: army_rotate_figure_river_fence_wear_frame_bleak
-bip_39_word_underscore_9: army_rotate_figure_river_fence_wear_frame_bleak_response
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s

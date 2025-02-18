@@ -1,68 +1,9 @@
-bip_39_word_dash_1: tackle
-bip_39_word_dash_10: tackle-path-whale-hope-helmet-have-relief-check-spend-torch
-bip_39_word_dash_11: tackle-path-whale-hope-helmet-have-relief-check-spend-torch-morning
 bip_39_word_dash_12: tackle-path-whale-hope-helmet-have-relief-check-spend-torch-morning-arena
 bip_39_word_dash_2: tackle-path
 bip_39_word_dash_3: tackle-path-whale
-bip_39_word_dash_4: tackle-path-whale-hope
-bip_39_word_dash_5: tackle-path-whale-hope-helmet
-bip_39_word_dash_6: tackle-path-whale-hope-helmet-have
-bip_39_word_dash_7: tackle-path-whale-hope-helmet-have-relief
-bip_39_word_dash_8: tackle-path-whale-hope-helmet-have-relief-check
-bip_39_word_dash_9: tackle-path-whale-hope-helmet-have-relief-check-spend
-bip_39_word_new_br_1: tackle
-bip_39_word_new_br_10: tackle<br>path<br>whale<br>hope<br>helmet<br>have<br>relief<br>check<br>spend<br>torch
-bip_39_word_new_br_11: tackle<br>path<br>whale<br>hope<br>helmet<br>have<br>relief<br>check<br>spend<br>torch<br>morning
 bip_39_word_new_br_12: tackle<br>path<br>whale<br>hope<br>helmet<br>have<br>relief<br>check<br>spend<br>torch<br>morning<br>arena
 bip_39_word_new_br_2: tackle<br>path
 bip_39_word_new_br_3: tackle<br>path<br>whale
-bip_39_word_new_br_4: tackle<br>path<br>whale<br>hope
-bip_39_word_new_br_5: tackle<br>path<br>whale<br>hope<br>helmet
-bip_39_word_new_br_6: tackle<br>path<br>whale<br>hope<br>helmet<br>have
-bip_39_word_new_br_7: tackle<br>path<br>whale<br>hope<br>helmet<br>have<br>relief
-bip_39_word_new_br_8: tackle<br>path<br>whale<br>hope<br>helmet<br>have<br>relief<br>check
-bip_39_word_new_br_9: tackle<br>path<br>whale<br>hope<br>helmet<br>have<br>relief<br>check<br>spend
-bip_39_word_new_line_1: tackle
-bip_39_word_new_line_10: 'tackle
-
-  path
-
-  whale
-
-  hope
-
-  helmet
-
-  have
-
-  relief
-
-  check
-
-  spend
-
-  torch'
-bip_39_word_new_line_11: 'tackle
-
-  path
-
-  whale
-
-  hope
-
-  helmet
-
-  have
-
-  relief
-
-  check
-
-  spend
-
-  torch
-
-  morning'
 bip_39_word_new_line_12: 'tackle
 
   path
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'tackle
   path
 
   whale'
-bip_39_word_new_line_4: 'tackle
-
-  path
-
-  whale
-
-  hope'
-bip_39_word_new_line_5: 'tackle
-
-  path
-
-  whale
-
-  hope
-
-  helmet'
-bip_39_word_new_line_6: 'tackle
-
-  path
-
-  whale
-
-  hope
-
-  helmet
-
-  have'
-bip_39_word_new_line_7: 'tackle
-
-  path
-
-  whale
-
-  hope
-
-  helmet
-
-  have
-
-  relief'
-bip_39_word_new_line_8: 'tackle
-
-  path
-
-  whale
-
-  hope
-
-  helmet
-
-  have
-
-  relief
-
-  check'
-bip_39_word_new_line_9: 'tackle
-
-  path
-
-  whale
-
-  hope
-
-  helmet
-
-  have
-
-  relief
-
-  check
-
-  spend'
-bip_39_word_no_space_1: tackle
-bip_39_word_no_space_10: tacklepathwhalehopehelmethavereliefcheckspendtorch
-bip_39_word_no_space_11: tacklepathwhalehopehelmethavereliefcheckspendtorchmorning
 bip_39_word_no_space_12: tacklepathwhalehopehelmethavereliefcheckspendtorchmorningarena
 bip_39_word_no_space_2: tacklepath
 bip_39_word_no_space_3: tacklepathwhale
-bip_39_word_no_space_4: tacklepathwhalehope
-bip_39_word_no_space_5: tacklepathwhalehopehelmet
-bip_39_word_no_space_6: tacklepathwhalehopehelmethave
-bip_39_word_no_space_7: tacklepathwhalehopehelmethaverelief
-bip_39_word_no_space_8: tacklepathwhalehopehelmethavereliefcheck
-bip_39_word_no_space_9: tacklepathwhalehopehelmethavereliefcheckspend
-bip_39_word_space_0:
-- tackle
-- path
-- whale
-- hope
-- helmet
-- have
-- relief
-- check
-- spend
-- torch
-- morning
-- arena
-bip_39_word_space_1: tackle
-bip_39_word_space_10: tackle path whale hope helmet have relief check spend torch
-bip_39_word_space_11: tackle path whale hope helmet have relief check spend torch
-  morning
 bip_39_word_space_12: tackle path whale hope helmet have relief check spend torch
   morning arena
 bip_39_word_space_2: tackle path
 bip_39_word_space_3: tackle path whale
-bip_39_word_space_4: tackle path whale hope
-bip_39_word_space_5: tackle path whale hope helmet
-bip_39_word_space_6: tackle path whale hope helmet have
-bip_39_word_space_7: tackle path whale hope helmet have relief
-bip_39_word_space_8: tackle path whale hope helmet have relief check
-bip_39_word_space_9: tackle path whale hope helmet have relief check spend
-bip_39_word_underscore_1: tackle
-bip_39_word_underscore_10: tackle_path_whale_hope_helmet_have_relief_check_spend_torch
-bip_39_word_underscore_11: tackle_path_whale_hope_helmet_have_relief_check_spend_torch_morning
 bip_39_word_underscore_12: tackle_path_whale_hope_helmet_have_relief_check_spend_torch_morning_arena
 bip_39_word_underscore_2: tackle_path
 bip_39_word_underscore_3: tackle_path_whale
-bip_39_word_underscore_4: tackle_path_whale_hope
-bip_39_word_underscore_5: tackle_path_whale_hope_helmet
-bip_39_word_underscore_6: tackle_path_whale_hope_helmet_have
-bip_39_word_underscore_7: tackle_path_whale_hope_helmet_have_relief
-bip_39_word_underscore_8: tackle_path_whale_hope_helmet_have_relief_check
-bip_39_word_underscore_9: tackle_path_whale_hope_helmet_have_relief_check_spend
 classification: project
 classification_capital: Project
 classification_first_letter: p

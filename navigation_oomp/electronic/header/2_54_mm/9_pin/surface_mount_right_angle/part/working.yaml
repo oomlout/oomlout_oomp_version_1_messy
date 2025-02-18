@@ -1,68 +1,9 @@
-bip_39_word_dash_1: drop
-bip_39_word_dash_10: drop-label-piece-display-poem-object-know-tone-grit-abstract
-bip_39_word_dash_11: drop-label-piece-display-poem-object-know-tone-grit-abstract-degree
 bip_39_word_dash_12: drop-label-piece-display-poem-object-know-tone-grit-abstract-degree-across
 bip_39_word_dash_2: drop-label
 bip_39_word_dash_3: drop-label-piece
-bip_39_word_dash_4: drop-label-piece-display
-bip_39_word_dash_5: drop-label-piece-display-poem
-bip_39_word_dash_6: drop-label-piece-display-poem-object
-bip_39_word_dash_7: drop-label-piece-display-poem-object-know
-bip_39_word_dash_8: drop-label-piece-display-poem-object-know-tone
-bip_39_word_dash_9: drop-label-piece-display-poem-object-know-tone-grit
-bip_39_word_new_br_1: drop
-bip_39_word_new_br_10: drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract
-bip_39_word_new_br_11: drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract<br>degree
 bip_39_word_new_br_12: drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit<br>abstract<br>degree<br>across
 bip_39_word_new_br_2: drop<br>label
 bip_39_word_new_br_3: drop<br>label<br>piece
-bip_39_word_new_br_4: drop<br>label<br>piece<br>display
-bip_39_word_new_br_5: drop<br>label<br>piece<br>display<br>poem
-bip_39_word_new_br_6: drop<br>label<br>piece<br>display<br>poem<br>object
-bip_39_word_new_br_7: drop<br>label<br>piece<br>display<br>poem<br>object<br>know
-bip_39_word_new_br_8: drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone
-bip_39_word_new_br_9: drop<br>label<br>piece<br>display<br>poem<br>object<br>know<br>tone<br>grit
-bip_39_word_new_line_1: drop
-bip_39_word_new_line_10: 'drop
-
-  label
-
-  piece
-
-  display
-
-  poem
-
-  object
-
-  know
-
-  tone
-
-  grit
-
-  abstract'
-bip_39_word_new_line_11: 'drop
-
-  label
-
-  piece
-
-  display
-
-  poem
-
-  object
-
-  know
-
-  tone
-
-  grit
-
-  abstract
-
-  degree'
 bip_39_word_new_line_12: 'drop
 
   label
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'drop
   label
 
   piece'
-bip_39_word_new_line_4: 'drop
-
-  label
-
-  piece
-
-  display'
-bip_39_word_new_line_5: 'drop
-
-  label
-
-  piece
-
-  display
-
-  poem'
-bip_39_word_new_line_6: 'drop
-
-  label
-
-  piece
-
-  display
-
-  poem
-
-  object'
-bip_39_word_new_line_7: 'drop
-
-  label
-
-  piece
-
-  display
-
-  poem
-
-  object
-
-  know'
-bip_39_word_new_line_8: 'drop
-
-  label
-
-  piece
-
-  display
-
-  poem
-
-  object
-
-  know
-
-  tone'
-bip_39_word_new_line_9: 'drop
-
-  label
-
-  piece
-
-  display
-
-  poem
-
-  object
-
-  know
-
-  tone
-
-  grit'
-bip_39_word_no_space_1: drop
-bip_39_word_no_space_10: droplabelpiecedisplaypoemobjectknowtonegritabstract
-bip_39_word_no_space_11: droplabelpiecedisplaypoemobjectknowtonegritabstractdegree
 bip_39_word_no_space_12: droplabelpiecedisplaypoemobjectknowtonegritabstractdegreeacross
 bip_39_word_no_space_2: droplabel
 bip_39_word_no_space_3: droplabelpiece
-bip_39_word_no_space_4: droplabelpiecedisplay
-bip_39_word_no_space_5: droplabelpiecedisplaypoem
-bip_39_word_no_space_6: droplabelpiecedisplaypoemobject
-bip_39_word_no_space_7: droplabelpiecedisplaypoemobjectknow
-bip_39_word_no_space_8: droplabelpiecedisplaypoemobjectknowtone
-bip_39_word_no_space_9: droplabelpiecedisplaypoemobjectknowtonegrit
-bip_39_word_space_0:
-- drop
-- label
-- piece
-- display
-- poem
-- object
-- know
-- tone
-- grit
-- abstract
-- degree
-- across
-bip_39_word_space_1: drop
-bip_39_word_space_10: drop label piece display poem object know tone grit abstract
-bip_39_word_space_11: drop label piece display poem object know tone grit abstract
-  degree
 bip_39_word_space_12: drop label piece display poem object know tone grit abstract
   degree across
 bip_39_word_space_2: drop label
 bip_39_word_space_3: drop label piece
-bip_39_word_space_4: drop label piece display
-bip_39_word_space_5: drop label piece display poem
-bip_39_word_space_6: drop label piece display poem object
-bip_39_word_space_7: drop label piece display poem object know
-bip_39_word_space_8: drop label piece display poem object know tone
-bip_39_word_space_9: drop label piece display poem object know tone grit
-bip_39_word_underscore_1: drop
-bip_39_word_underscore_10: drop_label_piece_display_poem_object_know_tone_grit_abstract
-bip_39_word_underscore_11: drop_label_piece_display_poem_object_know_tone_grit_abstract_degree
 bip_39_word_underscore_12: drop_label_piece_display_poem_object_know_tone_grit_abstract_degree_across
 bip_39_word_underscore_2: drop_label
 bip_39_word_underscore_3: drop_label_piece
-bip_39_word_underscore_4: drop_label_piece_display
-bip_39_word_underscore_5: drop_label_piece_display_poem
-bip_39_word_underscore_6: drop_label_piece_display_poem_object
-bip_39_word_underscore_7: drop_label_piece_display_poem_object_know
-bip_39_word_underscore_8: drop_label_piece_display_poem_object_know_tone
-bip_39_word_underscore_9: drop_label_piece_display_poem_object_know_tone_grit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

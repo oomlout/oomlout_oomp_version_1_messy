@@ -1,68 +1,9 @@
-bip_39_word_dash_1: owner
-bip_39_word_dash_10: owner-coast-cattle-grace-cherry-flavor-patient-method-capital-little
-bip_39_word_dash_11: owner-coast-cattle-grace-cherry-flavor-patient-method-capital-little-clinic
 bip_39_word_dash_12: owner-coast-cattle-grace-cherry-flavor-patient-method-capital-little-clinic-aunt
 bip_39_word_dash_2: owner-coast
 bip_39_word_dash_3: owner-coast-cattle
-bip_39_word_dash_4: owner-coast-cattle-grace
-bip_39_word_dash_5: owner-coast-cattle-grace-cherry
-bip_39_word_dash_6: owner-coast-cattle-grace-cherry-flavor
-bip_39_word_dash_7: owner-coast-cattle-grace-cherry-flavor-patient
-bip_39_word_dash_8: owner-coast-cattle-grace-cherry-flavor-patient-method
-bip_39_word_dash_9: owner-coast-cattle-grace-cherry-flavor-patient-method-capital
-bip_39_word_new_br_1: owner
-bip_39_word_new_br_10: owner<br>coast<br>cattle<br>grace<br>cherry<br>flavor<br>patient<br>method<br>capital<br>little
-bip_39_word_new_br_11: owner<br>coast<br>cattle<br>grace<br>cherry<br>flavor<br>patient<br>method<br>capital<br>little<br>clinic
 bip_39_word_new_br_12: owner<br>coast<br>cattle<br>grace<br>cherry<br>flavor<br>patient<br>method<br>capital<br>little<br>clinic<br>aunt
 bip_39_word_new_br_2: owner<br>coast
 bip_39_word_new_br_3: owner<br>coast<br>cattle
-bip_39_word_new_br_4: owner<br>coast<br>cattle<br>grace
-bip_39_word_new_br_5: owner<br>coast<br>cattle<br>grace<br>cherry
-bip_39_word_new_br_6: owner<br>coast<br>cattle<br>grace<br>cherry<br>flavor
-bip_39_word_new_br_7: owner<br>coast<br>cattle<br>grace<br>cherry<br>flavor<br>patient
-bip_39_word_new_br_8: owner<br>coast<br>cattle<br>grace<br>cherry<br>flavor<br>patient<br>method
-bip_39_word_new_br_9: owner<br>coast<br>cattle<br>grace<br>cherry<br>flavor<br>patient<br>method<br>capital
-bip_39_word_new_line_1: owner
-bip_39_word_new_line_10: 'owner
-
-  coast
-
-  cattle
-
-  grace
-
-  cherry
-
-  flavor
-
-  patient
-
-  method
-
-  capital
-
-  little'
-bip_39_word_new_line_11: 'owner
-
-  coast
-
-  cattle
-
-  grace
-
-  cherry
-
-  flavor
-
-  patient
-
-  method
-
-  capital
-
-  little
-
-  clinic'
 bip_39_word_new_line_12: 'owner
 
   coast
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'owner
   coast
 
   cattle'
-bip_39_word_new_line_4: 'owner
-
-  coast
-
-  cattle
-
-  grace'
-bip_39_word_new_line_5: 'owner
-
-  coast
-
-  cattle
-
-  grace
-
-  cherry'
-bip_39_word_new_line_6: 'owner
-
-  coast
-
-  cattle
-
-  grace
-
-  cherry
-
-  flavor'
-bip_39_word_new_line_7: 'owner
-
-  coast
-
-  cattle
-
-  grace
-
-  cherry
-
-  flavor
-
-  patient'
-bip_39_word_new_line_8: 'owner
-
-  coast
-
-  cattle
-
-  grace
-
-  cherry
-
-  flavor
-
-  patient
-
-  method'
-bip_39_word_new_line_9: 'owner
-
-  coast
-
-  cattle
-
-  grace
-
-  cherry
-
-  flavor
-
-  patient
-
-  method
-
-  capital'
-bip_39_word_no_space_1: owner
-bip_39_word_no_space_10: ownercoastcattlegracecherryflavorpatientmethodcapitallittle
-bip_39_word_no_space_11: ownercoastcattlegracecherryflavorpatientmethodcapitallittleclinic
 bip_39_word_no_space_12: ownercoastcattlegracecherryflavorpatientmethodcapitallittleclinicaunt
 bip_39_word_no_space_2: ownercoast
 bip_39_word_no_space_3: ownercoastcattle
-bip_39_word_no_space_4: ownercoastcattlegrace
-bip_39_word_no_space_5: ownercoastcattlegracecherry
-bip_39_word_no_space_6: ownercoastcattlegracecherryflavor
-bip_39_word_no_space_7: ownercoastcattlegracecherryflavorpatient
-bip_39_word_no_space_8: ownercoastcattlegracecherryflavorpatientmethod
-bip_39_word_no_space_9: ownercoastcattlegracecherryflavorpatientmethodcapital
-bip_39_word_space_0:
-- owner
-- coast
-- cattle
-- grace
-- cherry
-- flavor
-- patient
-- method
-- capital
-- little
-- clinic
-- aunt
-bip_39_word_space_1: owner
-bip_39_word_space_10: owner coast cattle grace cherry flavor patient method capital
-  little
-bip_39_word_space_11: owner coast cattle grace cherry flavor patient method capital
-  little clinic
 bip_39_word_space_12: owner coast cattle grace cherry flavor patient method capital
   little clinic aunt
 bip_39_word_space_2: owner coast
 bip_39_word_space_3: owner coast cattle
-bip_39_word_space_4: owner coast cattle grace
-bip_39_word_space_5: owner coast cattle grace cherry
-bip_39_word_space_6: owner coast cattle grace cherry flavor
-bip_39_word_space_7: owner coast cattle grace cherry flavor patient
-bip_39_word_space_8: owner coast cattle grace cherry flavor patient method
-bip_39_word_space_9: owner coast cattle grace cherry flavor patient method capital
-bip_39_word_underscore_1: owner
-bip_39_word_underscore_10: owner_coast_cattle_grace_cherry_flavor_patient_method_capital_little
-bip_39_word_underscore_11: owner_coast_cattle_grace_cherry_flavor_patient_method_capital_little_clinic
 bip_39_word_underscore_12: owner_coast_cattle_grace_cherry_flavor_patient_method_capital_little_clinic_aunt
 bip_39_word_underscore_2: owner_coast
 bip_39_word_underscore_3: owner_coast_cattle
-bip_39_word_underscore_4: owner_coast_cattle_grace
-bip_39_word_underscore_5: owner_coast_cattle_grace_cherry
-bip_39_word_underscore_6: owner_coast_cattle_grace_cherry_flavor
-bip_39_word_underscore_7: owner_coast_cattle_grace_cherry_flavor_patient
-bip_39_word_underscore_8: owner_coast_cattle_grace_cherry_flavor_patient_method
-bip_39_word_underscore_9: owner_coast_cattle_grace_cherry_flavor_patient_method_capital
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m

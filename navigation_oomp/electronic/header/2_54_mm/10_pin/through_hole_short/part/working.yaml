@@ -1,68 +1,9 @@
-bip_39_word_dash_1: extend
-bip_39_word_dash_10: extend-provide-observe-educate-verb-floor-august-weather-stool-print
-bip_39_word_dash_11: extend-provide-observe-educate-verb-floor-august-weather-stool-print-usage
 bip_39_word_dash_12: extend-provide-observe-educate-verb-floor-august-weather-stool-print-usage-admit
 bip_39_word_dash_2: extend-provide
 bip_39_word_dash_3: extend-provide-observe
-bip_39_word_dash_4: extend-provide-observe-educate
-bip_39_word_dash_5: extend-provide-observe-educate-verb
-bip_39_word_dash_6: extend-provide-observe-educate-verb-floor
-bip_39_word_dash_7: extend-provide-observe-educate-verb-floor-august
-bip_39_word_dash_8: extend-provide-observe-educate-verb-floor-august-weather
-bip_39_word_dash_9: extend-provide-observe-educate-verb-floor-august-weather-stool
-bip_39_word_new_br_1: extend
-bip_39_word_new_br_10: extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool<br>print
-bip_39_word_new_br_11: extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool<br>print<br>usage
 bip_39_word_new_br_12: extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool<br>print<br>usage<br>admit
 bip_39_word_new_br_2: extend<br>provide
 bip_39_word_new_br_3: extend<br>provide<br>observe
-bip_39_word_new_br_4: extend<br>provide<br>observe<br>educate
-bip_39_word_new_br_5: extend<br>provide<br>observe<br>educate<br>verb
-bip_39_word_new_br_6: extend<br>provide<br>observe<br>educate<br>verb<br>floor
-bip_39_word_new_br_7: extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august
-bip_39_word_new_br_8: extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather
-bip_39_word_new_br_9: extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool
-bip_39_word_new_line_1: extend
-bip_39_word_new_line_10: 'extend
-
-  provide
-
-  observe
-
-  educate
-
-  verb
-
-  floor
-
-  august
-
-  weather
-
-  stool
-
-  print'
-bip_39_word_new_line_11: 'extend
-
-  provide
-
-  observe
-
-  educate
-
-  verb
-
-  floor
-
-  august
-
-  weather
-
-  stool
-
-  print
-
-  usage'
 bip_39_word_new_line_12: 'extend
 
   provide
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'extend
   provide
 
   observe'
-bip_39_word_new_line_4: 'extend
-
-  provide
-
-  observe
-
-  educate'
-bip_39_word_new_line_5: 'extend
-
-  provide
-
-  observe
-
-  educate
-
-  verb'
-bip_39_word_new_line_6: 'extend
-
-  provide
-
-  observe
-
-  educate
-
-  verb
-
-  floor'
-bip_39_word_new_line_7: 'extend
-
-  provide
-
-  observe
-
-  educate
-
-  verb
-
-  floor
-
-  august'
-bip_39_word_new_line_8: 'extend
-
-  provide
-
-  observe
-
-  educate
-
-  verb
-
-  floor
-
-  august
-
-  weather'
-bip_39_word_new_line_9: 'extend
-
-  provide
-
-  observe
-
-  educate
-
-  verb
-
-  floor
-
-  august
-
-  weather
-
-  stool'
-bip_39_word_no_space_1: extend
-bip_39_word_no_space_10: extendprovideobserveeducateverbflooraugustweatherstoolprint
-bip_39_word_no_space_11: extendprovideobserveeducateverbflooraugustweatherstoolprintusage
 bip_39_word_no_space_12: extendprovideobserveeducateverbflooraugustweatherstoolprintusageadmit
 bip_39_word_no_space_2: extendprovide
 bip_39_word_no_space_3: extendprovideobserve
-bip_39_word_no_space_4: extendprovideobserveeducate
-bip_39_word_no_space_5: extendprovideobserveeducateverb
-bip_39_word_no_space_6: extendprovideobserveeducateverbfloor
-bip_39_word_no_space_7: extendprovideobserveeducateverbflooraugust
-bip_39_word_no_space_8: extendprovideobserveeducateverbflooraugustweather
-bip_39_word_no_space_9: extendprovideobserveeducateverbflooraugustweatherstool
-bip_39_word_space_0:
-- extend
-- provide
-- observe
-- educate
-- verb
-- floor
-- august
-- weather
-- stool
-- print
-- usage
-- admit
-bip_39_word_space_1: extend
-bip_39_word_space_10: extend provide observe educate verb floor august weather stool
-  print
-bip_39_word_space_11: extend provide observe educate verb floor august weather stool
-  print usage
 bip_39_word_space_12: extend provide observe educate verb floor august weather stool
   print usage admit
 bip_39_word_space_2: extend provide
 bip_39_word_space_3: extend provide observe
-bip_39_word_space_4: extend provide observe educate
-bip_39_word_space_5: extend provide observe educate verb
-bip_39_word_space_6: extend provide observe educate verb floor
-bip_39_word_space_7: extend provide observe educate verb floor august
-bip_39_word_space_8: extend provide observe educate verb floor august weather
-bip_39_word_space_9: extend provide observe educate verb floor august weather stool
-bip_39_word_underscore_1: extend
-bip_39_word_underscore_10: extend_provide_observe_educate_verb_floor_august_weather_stool_print
-bip_39_word_underscore_11: extend_provide_observe_educate_verb_floor_august_weather_stool_print_usage
 bip_39_word_underscore_12: extend_provide_observe_educate_verb_floor_august_weather_stool_print_usage_admit
 bip_39_word_underscore_2: extend_provide
 bip_39_word_underscore_3: extend_provide_observe
-bip_39_word_underscore_4: extend_provide_observe_educate
-bip_39_word_underscore_5: extend_provide_observe_educate_verb
-bip_39_word_underscore_6: extend_provide_observe_educate_verb_floor
-bip_39_word_underscore_7: extend_provide_observe_educate_verb_floor_august
-bip_39_word_underscore_8: extend_provide_observe_educate_verb_floor_august_weather
-bip_39_word_underscore_9: extend_provide_observe_educate_verb_floor_august_weather_stool
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

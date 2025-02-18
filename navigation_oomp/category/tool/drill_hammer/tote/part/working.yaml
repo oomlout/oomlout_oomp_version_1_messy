@@ -1,68 +1,9 @@
-bip_39_word_dash_1: diesel
-bip_39_word_dash_10: diesel-coil-discover-blur-like-shy-brother-keep-toilet-echo
-bip_39_word_dash_11: diesel-coil-discover-blur-like-shy-brother-keep-toilet-echo-panther
 bip_39_word_dash_12: diesel-coil-discover-blur-like-shy-brother-keep-toilet-echo-panther-album
 bip_39_word_dash_2: diesel-coil
 bip_39_word_dash_3: diesel-coil-discover
-bip_39_word_dash_4: diesel-coil-discover-blur
-bip_39_word_dash_5: diesel-coil-discover-blur-like
-bip_39_word_dash_6: diesel-coil-discover-blur-like-shy
-bip_39_word_dash_7: diesel-coil-discover-blur-like-shy-brother
-bip_39_word_dash_8: diesel-coil-discover-blur-like-shy-brother-keep
-bip_39_word_dash_9: diesel-coil-discover-blur-like-shy-brother-keep-toilet
-bip_39_word_new_br_1: diesel
-bip_39_word_new_br_10: diesel<br>coil<br>discover<br>blur<br>like<br>shy<br>brother<br>keep<br>toilet<br>echo
-bip_39_word_new_br_11: diesel<br>coil<br>discover<br>blur<br>like<br>shy<br>brother<br>keep<br>toilet<br>echo<br>panther
 bip_39_word_new_br_12: diesel<br>coil<br>discover<br>blur<br>like<br>shy<br>brother<br>keep<br>toilet<br>echo<br>panther<br>album
 bip_39_word_new_br_2: diesel<br>coil
 bip_39_word_new_br_3: diesel<br>coil<br>discover
-bip_39_word_new_br_4: diesel<br>coil<br>discover<br>blur
-bip_39_word_new_br_5: diesel<br>coil<br>discover<br>blur<br>like
-bip_39_word_new_br_6: diesel<br>coil<br>discover<br>blur<br>like<br>shy
-bip_39_word_new_br_7: diesel<br>coil<br>discover<br>blur<br>like<br>shy<br>brother
-bip_39_word_new_br_8: diesel<br>coil<br>discover<br>blur<br>like<br>shy<br>brother<br>keep
-bip_39_word_new_br_9: diesel<br>coil<br>discover<br>blur<br>like<br>shy<br>brother<br>keep<br>toilet
-bip_39_word_new_line_1: diesel
-bip_39_word_new_line_10: 'diesel
-
-  coil
-
-  discover
-
-  blur
-
-  like
-
-  shy
-
-  brother
-
-  keep
-
-  toilet
-
-  echo'
-bip_39_word_new_line_11: 'diesel
-
-  coil
-
-  discover
-
-  blur
-
-  like
-
-  shy
-
-  brother
-
-  keep
-
-  toilet
-
-  echo
-
-  panther'
 bip_39_word_new_line_12: 'diesel
 
   coil
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'diesel
   coil
 
   discover'
-bip_39_word_new_line_4: 'diesel
-
-  coil
-
-  discover
-
-  blur'
-bip_39_word_new_line_5: 'diesel
-
-  coil
-
-  discover
-
-  blur
-
-  like'
-bip_39_word_new_line_6: 'diesel
-
-  coil
-
-  discover
-
-  blur
-
-  like
-
-  shy'
-bip_39_word_new_line_7: 'diesel
-
-  coil
-
-  discover
-
-  blur
-
-  like
-
-  shy
-
-  brother'
-bip_39_word_new_line_8: 'diesel
-
-  coil
-
-  discover
-
-  blur
-
-  like
-
-  shy
-
-  brother
-
-  keep'
-bip_39_word_new_line_9: 'diesel
-
-  coil
-
-  discover
-
-  blur
-
-  like
-
-  shy
-
-  brother
-
-  keep
-
-  toilet'
-bip_39_word_no_space_1: diesel
-bip_39_word_no_space_10: dieselcoildiscoverblurlikeshybrotherkeeptoiletecho
-bip_39_word_no_space_11: dieselcoildiscoverblurlikeshybrotherkeeptoiletechopanther
 bip_39_word_no_space_12: dieselcoildiscoverblurlikeshybrotherkeeptoiletechopantheralbum
 bip_39_word_no_space_2: dieselcoil
 bip_39_word_no_space_3: dieselcoildiscover
-bip_39_word_no_space_4: dieselcoildiscoverblur
-bip_39_word_no_space_5: dieselcoildiscoverblurlike
-bip_39_word_no_space_6: dieselcoildiscoverblurlikeshy
-bip_39_word_no_space_7: dieselcoildiscoverblurlikeshybrother
-bip_39_word_no_space_8: dieselcoildiscoverblurlikeshybrotherkeep
-bip_39_word_no_space_9: dieselcoildiscoverblurlikeshybrotherkeeptoilet
-bip_39_word_space_0:
-- diesel
-- coil
-- discover
-- blur
-- like
-- shy
-- brother
-- keep
-- toilet
-- echo
-- panther
-- album
-bip_39_word_space_1: diesel
-bip_39_word_space_10: diesel coil discover blur like shy brother keep toilet echo
-bip_39_word_space_11: diesel coil discover blur like shy brother keep toilet echo
-  panther
 bip_39_word_space_12: diesel coil discover blur like shy brother keep toilet echo
   panther album
 bip_39_word_space_2: diesel coil
 bip_39_word_space_3: diesel coil discover
-bip_39_word_space_4: diesel coil discover blur
-bip_39_word_space_5: diesel coil discover blur like
-bip_39_word_space_6: diesel coil discover blur like shy
-bip_39_word_space_7: diesel coil discover blur like shy brother
-bip_39_word_space_8: diesel coil discover blur like shy brother keep
-bip_39_word_space_9: diesel coil discover blur like shy brother keep toilet
-bip_39_word_underscore_1: diesel
-bip_39_word_underscore_10: diesel_coil_discover_blur_like_shy_brother_keep_toilet_echo
-bip_39_word_underscore_11: diesel_coil_discover_blur_like_shy_brother_keep_toilet_echo_panther
 bip_39_word_underscore_12: diesel_coil_discover_blur_like_shy_brother_keep_toilet_echo_panther_album
 bip_39_word_underscore_2: diesel_coil
 bip_39_word_underscore_3: diesel_coil_discover
-bip_39_word_underscore_4: diesel_coil_discover_blur
-bip_39_word_underscore_5: diesel_coil_discover_blur_like
-bip_39_word_underscore_6: diesel_coil_discover_blur_like_shy
-bip_39_word_underscore_7: diesel_coil_discover_blur_like_shy_brother
-bip_39_word_underscore_8: diesel_coil_discover_blur_like_shy_brother_keep
-bip_39_word_underscore_9: diesel_coil_discover_blur_like_shy_brother_keep_toilet
 classification: category
 classification_capital: Category
 classification_first_letter: c

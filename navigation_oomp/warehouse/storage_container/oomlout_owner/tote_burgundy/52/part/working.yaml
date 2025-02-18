@@ -1,68 +1,9 @@
-bip_39_word_dash_1: aim
-bip_39_word_dash_10: aim-cherry-radar-kite-approve-chalk-mountain-letter-intact-half
-bip_39_word_dash_11: aim-cherry-radar-kite-approve-chalk-mountain-letter-intact-half-flee
 bip_39_word_dash_12: aim-cherry-radar-kite-approve-chalk-mountain-letter-intact-half-flee-already
 bip_39_word_dash_2: aim-cherry
 bip_39_word_dash_3: aim-cherry-radar
-bip_39_word_dash_4: aim-cherry-radar-kite
-bip_39_word_dash_5: aim-cherry-radar-kite-approve
-bip_39_word_dash_6: aim-cherry-radar-kite-approve-chalk
-bip_39_word_dash_7: aim-cherry-radar-kite-approve-chalk-mountain
-bip_39_word_dash_8: aim-cherry-radar-kite-approve-chalk-mountain-letter
-bip_39_word_dash_9: aim-cherry-radar-kite-approve-chalk-mountain-letter-intact
-bip_39_word_new_br_1: aim
-bip_39_word_new_br_10: aim<br>cherry<br>radar<br>kite<br>approve<br>chalk<br>mountain<br>letter<br>intact<br>half
-bip_39_word_new_br_11: aim<br>cherry<br>radar<br>kite<br>approve<br>chalk<br>mountain<br>letter<br>intact<br>half<br>flee
 bip_39_word_new_br_12: aim<br>cherry<br>radar<br>kite<br>approve<br>chalk<br>mountain<br>letter<br>intact<br>half<br>flee<br>already
 bip_39_word_new_br_2: aim<br>cherry
 bip_39_word_new_br_3: aim<br>cherry<br>radar
-bip_39_word_new_br_4: aim<br>cherry<br>radar<br>kite
-bip_39_word_new_br_5: aim<br>cherry<br>radar<br>kite<br>approve
-bip_39_word_new_br_6: aim<br>cherry<br>radar<br>kite<br>approve<br>chalk
-bip_39_word_new_br_7: aim<br>cherry<br>radar<br>kite<br>approve<br>chalk<br>mountain
-bip_39_word_new_br_8: aim<br>cherry<br>radar<br>kite<br>approve<br>chalk<br>mountain<br>letter
-bip_39_word_new_br_9: aim<br>cherry<br>radar<br>kite<br>approve<br>chalk<br>mountain<br>letter<br>intact
-bip_39_word_new_line_1: aim
-bip_39_word_new_line_10: 'aim
-
-  cherry
-
-  radar
-
-  kite
-
-  approve
-
-  chalk
-
-  mountain
-
-  letter
-
-  intact
-
-  half'
-bip_39_word_new_line_11: 'aim
-
-  cherry
-
-  radar
-
-  kite
-
-  approve
-
-  chalk
-
-  mountain
-
-  letter
-
-  intact
-
-  half
-
-  flee'
 bip_39_word_new_line_12: 'aim
 
   cherry
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'aim
   cherry
 
   radar'
-bip_39_word_new_line_4: 'aim
-
-  cherry
-
-  radar
-
-  kite'
-bip_39_word_new_line_5: 'aim
-
-  cherry
-
-  radar
-
-  kite
-
-  approve'
-bip_39_word_new_line_6: 'aim
-
-  cherry
-
-  radar
-
-  kite
-
-  approve
-
-  chalk'
-bip_39_word_new_line_7: 'aim
-
-  cherry
-
-  radar
-
-  kite
-
-  approve
-
-  chalk
-
-  mountain'
-bip_39_word_new_line_8: 'aim
-
-  cherry
-
-  radar
-
-  kite
-
-  approve
-
-  chalk
-
-  mountain
-
-  letter'
-bip_39_word_new_line_9: 'aim
-
-  cherry
-
-  radar
-
-  kite
-
-  approve
-
-  chalk
-
-  mountain
-
-  letter
-
-  intact'
-bip_39_word_no_space_1: aim
-bip_39_word_no_space_10: aimcherryradarkiteapprovechalkmountainletterintacthalf
-bip_39_word_no_space_11: aimcherryradarkiteapprovechalkmountainletterintacthalfflee
 bip_39_word_no_space_12: aimcherryradarkiteapprovechalkmountainletterintacthalffleealready
 bip_39_word_no_space_2: aimcherry
 bip_39_word_no_space_3: aimcherryradar
-bip_39_word_no_space_4: aimcherryradarkite
-bip_39_word_no_space_5: aimcherryradarkiteapprove
-bip_39_word_no_space_6: aimcherryradarkiteapprovechalk
-bip_39_word_no_space_7: aimcherryradarkiteapprovechalkmountain
-bip_39_word_no_space_8: aimcherryradarkiteapprovechalkmountainletter
-bip_39_word_no_space_9: aimcherryradarkiteapprovechalkmountainletterintact
-bip_39_word_space_0:
-- aim
-- cherry
-- radar
-- kite
-- approve
-- chalk
-- mountain
-- letter
-- intact
-- half
-- flee
-- already
-bip_39_word_space_1: aim
-bip_39_word_space_10: aim cherry radar kite approve chalk mountain letter intact half
-bip_39_word_space_11: aim cherry radar kite approve chalk mountain letter intact half
-  flee
 bip_39_word_space_12: aim cherry radar kite approve chalk mountain letter intact half
   flee already
 bip_39_word_space_2: aim cherry
 bip_39_word_space_3: aim cherry radar
-bip_39_word_space_4: aim cherry radar kite
-bip_39_word_space_5: aim cherry radar kite approve
-bip_39_word_space_6: aim cherry radar kite approve chalk
-bip_39_word_space_7: aim cherry radar kite approve chalk mountain
-bip_39_word_space_8: aim cherry radar kite approve chalk mountain letter
-bip_39_word_space_9: aim cherry radar kite approve chalk mountain letter intact
-bip_39_word_underscore_1: aim
-bip_39_word_underscore_10: aim_cherry_radar_kite_approve_chalk_mountain_letter_intact_half
-bip_39_word_underscore_11: aim_cherry_radar_kite_approve_chalk_mountain_letter_intact_half_flee
 bip_39_word_underscore_12: aim_cherry_radar_kite_approve_chalk_mountain_letter_intact_half_flee_already
 bip_39_word_underscore_2: aim_cherry
 bip_39_word_underscore_3: aim_cherry_radar
-bip_39_word_underscore_4: aim_cherry_radar_kite
-bip_39_word_underscore_5: aim_cherry_radar_kite_approve
-bip_39_word_underscore_6: aim_cherry_radar_kite_approve_chalk
-bip_39_word_underscore_7: aim_cherry_radar_kite_approve_chalk_mountain
-bip_39_word_underscore_8: aim_cherry_radar_kite_approve_chalk_mountain_letter
-bip_39_word_underscore_9: aim_cherry_radar_kite_approve_chalk_mountain_letter_intact
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

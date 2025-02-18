@@ -1,68 +1,9 @@
-bip_39_word_dash_1: enforce
-bip_39_word_dash_10: enforce-account-grief-first-silent-zone-pear-letter-boat-dash
-bip_39_word_dash_11: enforce-account-grief-first-silent-zone-pear-letter-boat-dash-trouble
 bip_39_word_dash_12: enforce-account-grief-first-silent-zone-pear-letter-boat-dash-trouble-avocado
 bip_39_word_dash_2: enforce-account
 bip_39_word_dash_3: enforce-account-grief
-bip_39_word_dash_4: enforce-account-grief-first
-bip_39_word_dash_5: enforce-account-grief-first-silent
-bip_39_word_dash_6: enforce-account-grief-first-silent-zone
-bip_39_word_dash_7: enforce-account-grief-first-silent-zone-pear
-bip_39_word_dash_8: enforce-account-grief-first-silent-zone-pear-letter
-bip_39_word_dash_9: enforce-account-grief-first-silent-zone-pear-letter-boat
-bip_39_word_new_br_1: enforce
-bip_39_word_new_br_10: enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash
-bip_39_word_new_br_11: enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash<br>trouble
 bip_39_word_new_br_12: enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat<br>dash<br>trouble<br>avocado
 bip_39_word_new_br_2: enforce<br>account
 bip_39_word_new_br_3: enforce<br>account<br>grief
-bip_39_word_new_br_4: enforce<br>account<br>grief<br>first
-bip_39_word_new_br_5: enforce<br>account<br>grief<br>first<br>silent
-bip_39_word_new_br_6: enforce<br>account<br>grief<br>first<br>silent<br>zone
-bip_39_word_new_br_7: enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear
-bip_39_word_new_br_8: enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter
-bip_39_word_new_br_9: enforce<br>account<br>grief<br>first<br>silent<br>zone<br>pear<br>letter<br>boat
-bip_39_word_new_line_1: enforce
-bip_39_word_new_line_10: 'enforce
-
-  account
-
-  grief
-
-  first
-
-  silent
-
-  zone
-
-  pear
-
-  letter
-
-  boat
-
-  dash'
-bip_39_word_new_line_11: 'enforce
-
-  account
-
-  grief
-
-  first
-
-  silent
-
-  zone
-
-  pear
-
-  letter
-
-  boat
-
-  dash
-
-  trouble'
 bip_39_word_new_line_12: 'enforce
 
   account
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'enforce
   account
 
   grief'
-bip_39_word_new_line_4: 'enforce
-
-  account
-
-  grief
-
-  first'
-bip_39_word_new_line_5: 'enforce
-
-  account
-
-  grief
-
-  first
-
-  silent'
-bip_39_word_new_line_6: 'enforce
-
-  account
-
-  grief
-
-  first
-
-  silent
-
-  zone'
-bip_39_word_new_line_7: 'enforce
-
-  account
-
-  grief
-
-  first
-
-  silent
-
-  zone
-
-  pear'
-bip_39_word_new_line_8: 'enforce
-
-  account
-
-  grief
-
-  first
-
-  silent
-
-  zone
-
-  pear
-
-  letter'
-bip_39_word_new_line_9: 'enforce
-
-  account
-
-  grief
-
-  first
-
-  silent
-
-  zone
-
-  pear
-
-  letter
-
-  boat'
-bip_39_word_no_space_1: enforce
-bip_39_word_no_space_10: enforceaccountgrieffirstsilentzonepearletterboatdash
-bip_39_word_no_space_11: enforceaccountgrieffirstsilentzonepearletterboatdashtrouble
 bip_39_word_no_space_12: enforceaccountgrieffirstsilentzonepearletterboatdashtroubleavocado
 bip_39_word_no_space_2: enforceaccount
 bip_39_word_no_space_3: enforceaccountgrief
-bip_39_word_no_space_4: enforceaccountgrieffirst
-bip_39_word_no_space_5: enforceaccountgrieffirstsilent
-bip_39_word_no_space_6: enforceaccountgrieffirstsilentzone
-bip_39_word_no_space_7: enforceaccountgrieffirstsilentzonepear
-bip_39_word_no_space_8: enforceaccountgrieffirstsilentzonepearletter
-bip_39_word_no_space_9: enforceaccountgrieffirstsilentzonepearletterboat
-bip_39_word_space_0:
-- enforce
-- account
-- grief
-- first
-- silent
-- zone
-- pear
-- letter
-- boat
-- dash
-- trouble
-- avocado
-bip_39_word_space_1: enforce
-bip_39_word_space_10: enforce account grief first silent zone pear letter boat dash
-bip_39_word_space_11: enforce account grief first silent zone pear letter boat dash
-  trouble
 bip_39_word_space_12: enforce account grief first silent zone pear letter boat dash
   trouble avocado
 bip_39_word_space_2: enforce account
 bip_39_word_space_3: enforce account grief
-bip_39_word_space_4: enforce account grief first
-bip_39_word_space_5: enforce account grief first silent
-bip_39_word_space_6: enforce account grief first silent zone
-bip_39_word_space_7: enforce account grief first silent zone pear
-bip_39_word_space_8: enforce account grief first silent zone pear letter
-bip_39_word_space_9: enforce account grief first silent zone pear letter boat
-bip_39_word_underscore_1: enforce
-bip_39_word_underscore_10: enforce_account_grief_first_silent_zone_pear_letter_boat_dash
-bip_39_word_underscore_11: enforce_account_grief_first_silent_zone_pear_letter_boat_dash_trouble
 bip_39_word_underscore_12: enforce_account_grief_first_silent_zone_pear_letter_boat_dash_trouble_avocado
 bip_39_word_underscore_2: enforce_account
 bip_39_word_underscore_3: enforce_account_grief
-bip_39_word_underscore_4: enforce_account_grief_first
-bip_39_word_underscore_5: enforce_account_grief_first_silent
-bip_39_word_underscore_6: enforce_account_grief_first_silent_zone
-bip_39_word_underscore_7: enforce_account_grief_first_silent_zone_pear
-bip_39_word_underscore_8: enforce_account_grief_first_silent_zone_pear_letter
-bip_39_word_underscore_9: enforce_account_grief_first_silent_zone_pear_letter_boat
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: wait
-bip_39_word_dash_10: wait-tray-sugar-field-month-confirm-warfare-raise-enable-monitor
-bip_39_word_dash_11: wait-tray-sugar-field-month-confirm-warfare-raise-enable-monitor-damage
 bip_39_word_dash_12: wait-tray-sugar-field-month-confirm-warfare-raise-enable-monitor-damage-artefact
 bip_39_word_dash_2: wait-tray
 bip_39_word_dash_3: wait-tray-sugar
-bip_39_word_dash_4: wait-tray-sugar-field
-bip_39_word_dash_5: wait-tray-sugar-field-month
-bip_39_word_dash_6: wait-tray-sugar-field-month-confirm
-bip_39_word_dash_7: wait-tray-sugar-field-month-confirm-warfare
-bip_39_word_dash_8: wait-tray-sugar-field-month-confirm-warfare-raise
-bip_39_word_dash_9: wait-tray-sugar-field-month-confirm-warfare-raise-enable
-bip_39_word_new_br_1: wait
-bip_39_word_new_br_10: wait<br>tray<br>sugar<br>field<br>month<br>confirm<br>warfare<br>raise<br>enable<br>monitor
-bip_39_word_new_br_11: wait<br>tray<br>sugar<br>field<br>month<br>confirm<br>warfare<br>raise<br>enable<br>monitor<br>damage
 bip_39_word_new_br_12: wait<br>tray<br>sugar<br>field<br>month<br>confirm<br>warfare<br>raise<br>enable<br>monitor<br>damage<br>artefact
 bip_39_word_new_br_2: wait<br>tray
 bip_39_word_new_br_3: wait<br>tray<br>sugar
-bip_39_word_new_br_4: wait<br>tray<br>sugar<br>field
-bip_39_word_new_br_5: wait<br>tray<br>sugar<br>field<br>month
-bip_39_word_new_br_6: wait<br>tray<br>sugar<br>field<br>month<br>confirm
-bip_39_word_new_br_7: wait<br>tray<br>sugar<br>field<br>month<br>confirm<br>warfare
-bip_39_word_new_br_8: wait<br>tray<br>sugar<br>field<br>month<br>confirm<br>warfare<br>raise
-bip_39_word_new_br_9: wait<br>tray<br>sugar<br>field<br>month<br>confirm<br>warfare<br>raise<br>enable
-bip_39_word_new_line_1: wait
-bip_39_word_new_line_10: 'wait
-
-  tray
-
-  sugar
-
-  field
-
-  month
-
-  confirm
-
-  warfare
-
-  raise
-
-  enable
-
-  monitor'
-bip_39_word_new_line_11: 'wait
-
-  tray
-
-  sugar
-
-  field
-
-  month
-
-  confirm
-
-  warfare
-
-  raise
-
-  enable
-
-  monitor
-
-  damage'
 bip_39_word_new_line_12: 'wait
 
   tray
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'wait
   tray
 
   sugar'
-bip_39_word_new_line_4: 'wait
-
-  tray
-
-  sugar
-
-  field'
-bip_39_word_new_line_5: 'wait
-
-  tray
-
-  sugar
-
-  field
-
-  month'
-bip_39_word_new_line_6: 'wait
-
-  tray
-
-  sugar
-
-  field
-
-  month
-
-  confirm'
-bip_39_word_new_line_7: 'wait
-
-  tray
-
-  sugar
-
-  field
-
-  month
-
-  confirm
-
-  warfare'
-bip_39_word_new_line_8: 'wait
-
-  tray
-
-  sugar
-
-  field
-
-  month
-
-  confirm
-
-  warfare
-
-  raise'
-bip_39_word_new_line_9: 'wait
-
-  tray
-
-  sugar
-
-  field
-
-  month
-
-  confirm
-
-  warfare
-
-  raise
-
-  enable'
-bip_39_word_no_space_1: wait
-bip_39_word_no_space_10: waittraysugarfieldmonthconfirmwarfareraiseenablemonitor
-bip_39_word_no_space_11: waittraysugarfieldmonthconfirmwarfareraiseenablemonitordamage
 bip_39_word_no_space_12: waittraysugarfieldmonthconfirmwarfareraiseenablemonitordamageartefact
 bip_39_word_no_space_2: waittray
 bip_39_word_no_space_3: waittraysugar
-bip_39_word_no_space_4: waittraysugarfield
-bip_39_word_no_space_5: waittraysugarfieldmonth
-bip_39_word_no_space_6: waittraysugarfieldmonthconfirm
-bip_39_word_no_space_7: waittraysugarfieldmonthconfirmwarfare
-bip_39_word_no_space_8: waittraysugarfieldmonthconfirmwarfareraise
-bip_39_word_no_space_9: waittraysugarfieldmonthconfirmwarfareraiseenable
-bip_39_word_space_0:
-- wait
-- tray
-- sugar
-- field
-- month
-- confirm
-- warfare
-- raise
-- enable
-- monitor
-- damage
-- artefact
-bip_39_word_space_1: wait
-bip_39_word_space_10: wait tray sugar field month confirm warfare raise enable monitor
-bip_39_word_space_11: wait tray sugar field month confirm warfare raise enable monitor
-  damage
 bip_39_word_space_12: wait tray sugar field month confirm warfare raise enable monitor
   damage artefact
 bip_39_word_space_2: wait tray
 bip_39_word_space_3: wait tray sugar
-bip_39_word_space_4: wait tray sugar field
-bip_39_word_space_5: wait tray sugar field month
-bip_39_word_space_6: wait tray sugar field month confirm
-bip_39_word_space_7: wait tray sugar field month confirm warfare
-bip_39_word_space_8: wait tray sugar field month confirm warfare raise
-bip_39_word_space_9: wait tray sugar field month confirm warfare raise enable
-bip_39_word_underscore_1: wait
-bip_39_word_underscore_10: wait_tray_sugar_field_month_confirm_warfare_raise_enable_monitor
-bip_39_word_underscore_11: wait_tray_sugar_field_month_confirm_warfare_raise_enable_monitor_damage
 bip_39_word_underscore_12: wait_tray_sugar_field_month_confirm_warfare_raise_enable_monitor_damage_artefact
 bip_39_word_underscore_2: wait_tray
 bip_39_word_underscore_3: wait_tray_sugar
-bip_39_word_underscore_4: wait_tray_sugar_field
-bip_39_word_underscore_5: wait_tray_sugar_field_month
-bip_39_word_underscore_6: wait_tray_sugar_field_month_confirm
-bip_39_word_underscore_7: wait_tray_sugar_field_month_confirm_warfare
-bip_39_word_underscore_8: wait_tray_sugar_field_month_confirm_warfare_raise
-bip_39_word_underscore_9: wait_tray_sugar_field_month_confirm_warfare_raise_enable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

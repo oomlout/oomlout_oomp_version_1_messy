@@ -1,68 +1,9 @@
-bip_39_word_dash_1: mouse
-bip_39_word_dash_10: mouse-maze-cushion-jewel-theme-soon-clump-coil-cereal-grief
-bip_39_word_dash_11: mouse-maze-cushion-jewel-theme-soon-clump-coil-cereal-grief-now
 bip_39_word_dash_12: mouse-maze-cushion-jewel-theme-soon-clump-coil-cereal-grief-now-arrange
 bip_39_word_dash_2: mouse-maze
 bip_39_word_dash_3: mouse-maze-cushion
-bip_39_word_dash_4: mouse-maze-cushion-jewel
-bip_39_word_dash_5: mouse-maze-cushion-jewel-theme
-bip_39_word_dash_6: mouse-maze-cushion-jewel-theme-soon
-bip_39_word_dash_7: mouse-maze-cushion-jewel-theme-soon-clump
-bip_39_word_dash_8: mouse-maze-cushion-jewel-theme-soon-clump-coil
-bip_39_word_dash_9: mouse-maze-cushion-jewel-theme-soon-clump-coil-cereal
-bip_39_word_new_br_1: mouse
-bip_39_word_new_br_10: mouse<br>maze<br>cushion<br>jewel<br>theme<br>soon<br>clump<br>coil<br>cereal<br>grief
-bip_39_word_new_br_11: mouse<br>maze<br>cushion<br>jewel<br>theme<br>soon<br>clump<br>coil<br>cereal<br>grief<br>now
 bip_39_word_new_br_12: mouse<br>maze<br>cushion<br>jewel<br>theme<br>soon<br>clump<br>coil<br>cereal<br>grief<br>now<br>arrange
 bip_39_word_new_br_2: mouse<br>maze
 bip_39_word_new_br_3: mouse<br>maze<br>cushion
-bip_39_word_new_br_4: mouse<br>maze<br>cushion<br>jewel
-bip_39_word_new_br_5: mouse<br>maze<br>cushion<br>jewel<br>theme
-bip_39_word_new_br_6: mouse<br>maze<br>cushion<br>jewel<br>theme<br>soon
-bip_39_word_new_br_7: mouse<br>maze<br>cushion<br>jewel<br>theme<br>soon<br>clump
-bip_39_word_new_br_8: mouse<br>maze<br>cushion<br>jewel<br>theme<br>soon<br>clump<br>coil
-bip_39_word_new_br_9: mouse<br>maze<br>cushion<br>jewel<br>theme<br>soon<br>clump<br>coil<br>cereal
-bip_39_word_new_line_1: mouse
-bip_39_word_new_line_10: 'mouse
-
-  maze
-
-  cushion
-
-  jewel
-
-  theme
-
-  soon
-
-  clump
-
-  coil
-
-  cereal
-
-  grief'
-bip_39_word_new_line_11: 'mouse
-
-  maze
-
-  cushion
-
-  jewel
-
-  theme
-
-  soon
-
-  clump
-
-  coil
-
-  cereal
-
-  grief
-
-  now'
 bip_39_word_new_line_12: 'mouse
 
   maze
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'mouse
   maze
 
   cushion'
-bip_39_word_new_line_4: 'mouse
-
-  maze
-
-  cushion
-
-  jewel'
-bip_39_word_new_line_5: 'mouse
-
-  maze
-
-  cushion
-
-  jewel
-
-  theme'
-bip_39_word_new_line_6: 'mouse
-
-  maze
-
-  cushion
-
-  jewel
-
-  theme
-
-  soon'
-bip_39_word_new_line_7: 'mouse
-
-  maze
-
-  cushion
-
-  jewel
-
-  theme
-
-  soon
-
-  clump'
-bip_39_word_new_line_8: 'mouse
-
-  maze
-
-  cushion
-
-  jewel
-
-  theme
-
-  soon
-
-  clump
-
-  coil'
-bip_39_word_new_line_9: 'mouse
-
-  maze
-
-  cushion
-
-  jewel
-
-  theme
-
-  soon
-
-  clump
-
-  coil
-
-  cereal'
-bip_39_word_no_space_1: mouse
-bip_39_word_no_space_10: mousemazecushionjewelthemesoonclumpcoilcerealgrief
-bip_39_word_no_space_11: mousemazecushionjewelthemesoonclumpcoilcerealgriefnow
 bip_39_word_no_space_12: mousemazecushionjewelthemesoonclumpcoilcerealgriefnowarrange
 bip_39_word_no_space_2: mousemaze
 bip_39_word_no_space_3: mousemazecushion
-bip_39_word_no_space_4: mousemazecushionjewel
-bip_39_word_no_space_5: mousemazecushionjeweltheme
-bip_39_word_no_space_6: mousemazecushionjewelthemesoon
-bip_39_word_no_space_7: mousemazecushionjewelthemesoonclump
-bip_39_word_no_space_8: mousemazecushionjewelthemesoonclumpcoil
-bip_39_word_no_space_9: mousemazecushionjewelthemesoonclumpcoilcereal
-bip_39_word_space_0:
-- mouse
-- maze
-- cushion
-- jewel
-- theme
-- soon
-- clump
-- coil
-- cereal
-- grief
-- now
-- arrange
-bip_39_word_space_1: mouse
-bip_39_word_space_10: mouse maze cushion jewel theme soon clump coil cereal grief
-bip_39_word_space_11: mouse maze cushion jewel theme soon clump coil cereal grief
-  now
 bip_39_word_space_12: mouse maze cushion jewel theme soon clump coil cereal grief
   now arrange
 bip_39_word_space_2: mouse maze
 bip_39_word_space_3: mouse maze cushion
-bip_39_word_space_4: mouse maze cushion jewel
-bip_39_word_space_5: mouse maze cushion jewel theme
-bip_39_word_space_6: mouse maze cushion jewel theme soon
-bip_39_word_space_7: mouse maze cushion jewel theme soon clump
-bip_39_word_space_8: mouse maze cushion jewel theme soon clump coil
-bip_39_word_space_9: mouse maze cushion jewel theme soon clump coil cereal
-bip_39_word_underscore_1: mouse
-bip_39_word_underscore_10: mouse_maze_cushion_jewel_theme_soon_clump_coil_cereal_grief
-bip_39_word_underscore_11: mouse_maze_cushion_jewel_theme_soon_clump_coil_cereal_grief_now
 bip_39_word_underscore_12: mouse_maze_cushion_jewel_theme_soon_clump_coil_cereal_grief_now_arrange
 bip_39_word_underscore_2: mouse_maze
 bip_39_word_underscore_3: mouse_maze_cushion
-bip_39_word_underscore_4: mouse_maze_cushion_jewel
-bip_39_word_underscore_5: mouse_maze_cushion_jewel_theme
-bip_39_word_underscore_6: mouse_maze_cushion_jewel_theme_soon
-bip_39_word_underscore_7: mouse_maze_cushion_jewel_theme_soon_clump
-bip_39_word_underscore_8: mouse_maze_cushion_jewel_theme_soon_clump_coil
-bip_39_word_underscore_9: mouse_maze_cushion_jewel_theme_soon_clump_coil_cereal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

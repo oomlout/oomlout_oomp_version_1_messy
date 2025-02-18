@@ -1,68 +1,9 @@
-bip_39_word_dash_1: draw
-bip_39_word_dash_10: draw-cube-river-trend-calm-aspect-pudding-use-fever-dose
-bip_39_word_dash_11: draw-cube-river-trend-calm-aspect-pudding-use-fever-dose-auto
 bip_39_word_dash_12: draw-cube-river-trend-calm-aspect-pudding-use-fever-dose-auto-any
 bip_39_word_dash_2: draw-cube
 bip_39_word_dash_3: draw-cube-river
-bip_39_word_dash_4: draw-cube-river-trend
-bip_39_word_dash_5: draw-cube-river-trend-calm
-bip_39_word_dash_6: draw-cube-river-trend-calm-aspect
-bip_39_word_dash_7: draw-cube-river-trend-calm-aspect-pudding
-bip_39_word_dash_8: draw-cube-river-trend-calm-aspect-pudding-use
-bip_39_word_dash_9: draw-cube-river-trend-calm-aspect-pudding-use-fever
-bip_39_word_new_br_1: draw
-bip_39_word_new_br_10: draw<br>cube<br>river<br>trend<br>calm<br>aspect<br>pudding<br>use<br>fever<br>dose
-bip_39_word_new_br_11: draw<br>cube<br>river<br>trend<br>calm<br>aspect<br>pudding<br>use<br>fever<br>dose<br>auto
 bip_39_word_new_br_12: draw<br>cube<br>river<br>trend<br>calm<br>aspect<br>pudding<br>use<br>fever<br>dose<br>auto<br>any
 bip_39_word_new_br_2: draw<br>cube
 bip_39_word_new_br_3: draw<br>cube<br>river
-bip_39_word_new_br_4: draw<br>cube<br>river<br>trend
-bip_39_word_new_br_5: draw<br>cube<br>river<br>trend<br>calm
-bip_39_word_new_br_6: draw<br>cube<br>river<br>trend<br>calm<br>aspect
-bip_39_word_new_br_7: draw<br>cube<br>river<br>trend<br>calm<br>aspect<br>pudding
-bip_39_word_new_br_8: draw<br>cube<br>river<br>trend<br>calm<br>aspect<br>pudding<br>use
-bip_39_word_new_br_9: draw<br>cube<br>river<br>trend<br>calm<br>aspect<br>pudding<br>use<br>fever
-bip_39_word_new_line_1: draw
-bip_39_word_new_line_10: 'draw
-
-  cube
-
-  river
-
-  trend
-
-  calm
-
-  aspect
-
-  pudding
-
-  use
-
-  fever
-
-  dose'
-bip_39_word_new_line_11: 'draw
-
-  cube
-
-  river
-
-  trend
-
-  calm
-
-  aspect
-
-  pudding
-
-  use
-
-  fever
-
-  dose
-
-  auto'
 bip_39_word_new_line_12: 'draw
 
   cube
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'draw
   cube
 
   river'
-bip_39_word_new_line_4: 'draw
-
-  cube
-
-  river
-
-  trend'
-bip_39_word_new_line_5: 'draw
-
-  cube
-
-  river
-
-  trend
-
-  calm'
-bip_39_word_new_line_6: 'draw
-
-  cube
-
-  river
-
-  trend
-
-  calm
-
-  aspect'
-bip_39_word_new_line_7: 'draw
-
-  cube
-
-  river
-
-  trend
-
-  calm
-
-  aspect
-
-  pudding'
-bip_39_word_new_line_8: 'draw
-
-  cube
-
-  river
-
-  trend
-
-  calm
-
-  aspect
-
-  pudding
-
-  use'
-bip_39_word_new_line_9: 'draw
-
-  cube
-
-  river
-
-  trend
-
-  calm
-
-  aspect
-
-  pudding
-
-  use
-
-  fever'
-bip_39_word_no_space_1: draw
-bip_39_word_no_space_10: drawcuberivertrendcalmaspectpuddingusefeverdose
-bip_39_word_no_space_11: drawcuberivertrendcalmaspectpuddingusefeverdoseauto
 bip_39_word_no_space_12: drawcuberivertrendcalmaspectpuddingusefeverdoseautoany
 bip_39_word_no_space_2: drawcube
 bip_39_word_no_space_3: drawcuberiver
-bip_39_word_no_space_4: drawcuberivertrend
-bip_39_word_no_space_5: drawcuberivertrendcalm
-bip_39_word_no_space_6: drawcuberivertrendcalmaspect
-bip_39_word_no_space_7: drawcuberivertrendcalmaspectpudding
-bip_39_word_no_space_8: drawcuberivertrendcalmaspectpuddinguse
-bip_39_word_no_space_9: drawcuberivertrendcalmaspectpuddingusefever
-bip_39_word_space_0:
-- draw
-- cube
-- river
-- trend
-- calm
-- aspect
-- pudding
-- use
-- fever
-- dose
-- auto
-- any
-bip_39_word_space_1: draw
-bip_39_word_space_10: draw cube river trend calm aspect pudding use fever dose
-bip_39_word_space_11: draw cube river trend calm aspect pudding use fever dose auto
 bip_39_word_space_12: draw cube river trend calm aspect pudding use fever dose auto
   any
 bip_39_word_space_2: draw cube
 bip_39_word_space_3: draw cube river
-bip_39_word_space_4: draw cube river trend
-bip_39_word_space_5: draw cube river trend calm
-bip_39_word_space_6: draw cube river trend calm aspect
-bip_39_word_space_7: draw cube river trend calm aspect pudding
-bip_39_word_space_8: draw cube river trend calm aspect pudding use
-bip_39_word_space_9: draw cube river trend calm aspect pudding use fever
-bip_39_word_underscore_1: draw
-bip_39_word_underscore_10: draw_cube_river_trend_calm_aspect_pudding_use_fever_dose
-bip_39_word_underscore_11: draw_cube_river_trend_calm_aspect_pudding_use_fever_dose_auto
 bip_39_word_underscore_12: draw_cube_river_trend_calm_aspect_pudding_use_fever_dose_auto_any
 bip_39_word_underscore_2: draw_cube
 bip_39_word_underscore_3: draw_cube_river
-bip_39_word_underscore_4: draw_cube_river_trend
-bip_39_word_underscore_5: draw_cube_river_trend_calm
-bip_39_word_underscore_6: draw_cube_river_trend_calm_aspect
-bip_39_word_underscore_7: draw_cube_river_trend_calm_aspect_pudding
-bip_39_word_underscore_8: draw_cube_river_trend_calm_aspect_pudding_use
-bip_39_word_underscore_9: draw_cube_river_trend_calm_aspect_pudding_use_fever
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

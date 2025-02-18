@@ -1,68 +1,9 @@
-bip_39_word_dash_1: charge
-bip_39_word_dash_10: charge-move-sausage-fat-frog-gate-trial-random-spend-soft
-bip_39_word_dash_11: charge-move-sausage-fat-frog-gate-trial-random-spend-soft-torch
 bip_39_word_dash_12: charge-move-sausage-fat-frog-gate-trial-random-spend-soft-torch-advice
 bip_39_word_dash_2: charge-move
 bip_39_word_dash_3: charge-move-sausage
-bip_39_word_dash_4: charge-move-sausage-fat
-bip_39_word_dash_5: charge-move-sausage-fat-frog
-bip_39_word_dash_6: charge-move-sausage-fat-frog-gate
-bip_39_word_dash_7: charge-move-sausage-fat-frog-gate-trial
-bip_39_word_dash_8: charge-move-sausage-fat-frog-gate-trial-random
-bip_39_word_dash_9: charge-move-sausage-fat-frog-gate-trial-random-spend
-bip_39_word_new_br_1: charge
-bip_39_word_new_br_10: charge<br>move<br>sausage<br>fat<br>frog<br>gate<br>trial<br>random<br>spend<br>soft
-bip_39_word_new_br_11: charge<br>move<br>sausage<br>fat<br>frog<br>gate<br>trial<br>random<br>spend<br>soft<br>torch
 bip_39_word_new_br_12: charge<br>move<br>sausage<br>fat<br>frog<br>gate<br>trial<br>random<br>spend<br>soft<br>torch<br>advice
 bip_39_word_new_br_2: charge<br>move
 bip_39_word_new_br_3: charge<br>move<br>sausage
-bip_39_word_new_br_4: charge<br>move<br>sausage<br>fat
-bip_39_word_new_br_5: charge<br>move<br>sausage<br>fat<br>frog
-bip_39_word_new_br_6: charge<br>move<br>sausage<br>fat<br>frog<br>gate
-bip_39_word_new_br_7: charge<br>move<br>sausage<br>fat<br>frog<br>gate<br>trial
-bip_39_word_new_br_8: charge<br>move<br>sausage<br>fat<br>frog<br>gate<br>trial<br>random
-bip_39_word_new_br_9: charge<br>move<br>sausage<br>fat<br>frog<br>gate<br>trial<br>random<br>spend
-bip_39_word_new_line_1: charge
-bip_39_word_new_line_10: 'charge
-
-  move
-
-  sausage
-
-  fat
-
-  frog
-
-  gate
-
-  trial
-
-  random
-
-  spend
-
-  soft'
-bip_39_word_new_line_11: 'charge
-
-  move
-
-  sausage
-
-  fat
-
-  frog
-
-  gate
-
-  trial
-
-  random
-
-  spend
-
-  soft
-
-  torch'
 bip_39_word_new_line_12: 'charge
 
   move
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'charge
   move
 
   sausage'
-bip_39_word_new_line_4: 'charge
-
-  move
-
-  sausage
-
-  fat'
-bip_39_word_new_line_5: 'charge
-
-  move
-
-  sausage
-
-  fat
-
-  frog'
-bip_39_word_new_line_6: 'charge
-
-  move
-
-  sausage
-
-  fat
-
-  frog
-
-  gate'
-bip_39_word_new_line_7: 'charge
-
-  move
-
-  sausage
-
-  fat
-
-  frog
-
-  gate
-
-  trial'
-bip_39_word_new_line_8: 'charge
-
-  move
-
-  sausage
-
-  fat
-
-  frog
-
-  gate
-
-  trial
-
-  random'
-bip_39_word_new_line_9: 'charge
-
-  move
-
-  sausage
-
-  fat
-
-  frog
-
-  gate
-
-  trial
-
-  random
-
-  spend'
-bip_39_word_no_space_1: charge
-bip_39_word_no_space_10: chargemovesausagefatfroggatetrialrandomspendsoft
-bip_39_word_no_space_11: chargemovesausagefatfroggatetrialrandomspendsofttorch
 bip_39_word_no_space_12: chargemovesausagefatfroggatetrialrandomspendsofttorchadvice
 bip_39_word_no_space_2: chargemove
 bip_39_word_no_space_3: chargemovesausage
-bip_39_word_no_space_4: chargemovesausagefat
-bip_39_word_no_space_5: chargemovesausagefatfrog
-bip_39_word_no_space_6: chargemovesausagefatfroggate
-bip_39_word_no_space_7: chargemovesausagefatfroggatetrial
-bip_39_word_no_space_8: chargemovesausagefatfroggatetrialrandom
-bip_39_word_no_space_9: chargemovesausagefatfroggatetrialrandomspend
-bip_39_word_space_0:
-- charge
-- move
-- sausage
-- fat
-- frog
-- gate
-- trial
-- random
-- spend
-- soft
-- torch
-- advice
-bip_39_word_space_1: charge
-bip_39_word_space_10: charge move sausage fat frog gate trial random spend soft
-bip_39_word_space_11: charge move sausage fat frog gate trial random spend soft torch
 bip_39_word_space_12: charge move sausage fat frog gate trial random spend soft torch
   advice
 bip_39_word_space_2: charge move
 bip_39_word_space_3: charge move sausage
-bip_39_word_space_4: charge move sausage fat
-bip_39_word_space_5: charge move sausage fat frog
-bip_39_word_space_6: charge move sausage fat frog gate
-bip_39_word_space_7: charge move sausage fat frog gate trial
-bip_39_word_space_8: charge move sausage fat frog gate trial random
-bip_39_word_space_9: charge move sausage fat frog gate trial random spend
-bip_39_word_underscore_1: charge
-bip_39_word_underscore_10: charge_move_sausage_fat_frog_gate_trial_random_spend_soft
-bip_39_word_underscore_11: charge_move_sausage_fat_frog_gate_trial_random_spend_soft_torch
 bip_39_word_underscore_12: charge_move_sausage_fat_frog_gate_trial_random_spend_soft_torch_advice
 bip_39_word_underscore_2: charge_move
 bip_39_word_underscore_3: charge_move_sausage
-bip_39_word_underscore_4: charge_move_sausage_fat
-bip_39_word_underscore_5: charge_move_sausage_fat_frog
-bip_39_word_underscore_6: charge_move_sausage_fat_frog_gate
-bip_39_word_underscore_7: charge_move_sausage_fat_frog_gate_trial
-bip_39_word_underscore_8: charge_move_sausage_fat_frog_gate_trial_random
-bip_39_word_underscore_9: charge_move_sausage_fat_frog_gate_trial_random_spend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

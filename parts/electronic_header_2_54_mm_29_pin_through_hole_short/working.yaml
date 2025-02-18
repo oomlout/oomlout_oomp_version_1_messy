@@ -1,68 +1,9 @@
-bip_39_word_dash_1: network
-bip_39_word_dash_10: network-rice-museum-inform-often-brother-expect-clutch-vendor-bone
-bip_39_word_dash_11: network-rice-museum-inform-often-brother-expect-clutch-vendor-bone-good
 bip_39_word_dash_12: network-rice-museum-inform-often-brother-expect-clutch-vendor-bone-good-army
 bip_39_word_dash_2: network-rice
 bip_39_word_dash_3: network-rice-museum
-bip_39_word_dash_4: network-rice-museum-inform
-bip_39_word_dash_5: network-rice-museum-inform-often
-bip_39_word_dash_6: network-rice-museum-inform-often-brother
-bip_39_word_dash_7: network-rice-museum-inform-often-brother-expect
-bip_39_word_dash_8: network-rice-museum-inform-often-brother-expect-clutch
-bip_39_word_dash_9: network-rice-museum-inform-often-brother-expect-clutch-vendor
-bip_39_word_new_br_1: network
-bip_39_word_new_br_10: network<br>rice<br>museum<br>inform<br>often<br>brother<br>expect<br>clutch<br>vendor<br>bone
-bip_39_word_new_br_11: network<br>rice<br>museum<br>inform<br>often<br>brother<br>expect<br>clutch<br>vendor<br>bone<br>good
 bip_39_word_new_br_12: network<br>rice<br>museum<br>inform<br>often<br>brother<br>expect<br>clutch<br>vendor<br>bone<br>good<br>army
 bip_39_word_new_br_2: network<br>rice
 bip_39_word_new_br_3: network<br>rice<br>museum
-bip_39_word_new_br_4: network<br>rice<br>museum<br>inform
-bip_39_word_new_br_5: network<br>rice<br>museum<br>inform<br>often
-bip_39_word_new_br_6: network<br>rice<br>museum<br>inform<br>often<br>brother
-bip_39_word_new_br_7: network<br>rice<br>museum<br>inform<br>often<br>brother<br>expect
-bip_39_word_new_br_8: network<br>rice<br>museum<br>inform<br>often<br>brother<br>expect<br>clutch
-bip_39_word_new_br_9: network<br>rice<br>museum<br>inform<br>often<br>brother<br>expect<br>clutch<br>vendor
-bip_39_word_new_line_1: network
-bip_39_word_new_line_10: 'network
-
-  rice
-
-  museum
-
-  inform
-
-  often
-
-  brother
-
-  expect
-
-  clutch
-
-  vendor
-
-  bone'
-bip_39_word_new_line_11: 'network
-
-  rice
-
-  museum
-
-  inform
-
-  often
-
-  brother
-
-  expect
-
-  clutch
-
-  vendor
-
-  bone
-
-  good'
 bip_39_word_new_line_12: 'network
 
   rice
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'network
   rice
 
   museum'
-bip_39_word_new_line_4: 'network
-
-  rice
-
-  museum
-
-  inform'
-bip_39_word_new_line_5: 'network
-
-  rice
-
-  museum
-
-  inform
-
-  often'
-bip_39_word_new_line_6: 'network
-
-  rice
-
-  museum
-
-  inform
-
-  often
-
-  brother'
-bip_39_word_new_line_7: 'network
-
-  rice
-
-  museum
-
-  inform
-
-  often
-
-  brother
-
-  expect'
-bip_39_word_new_line_8: 'network
-
-  rice
-
-  museum
-
-  inform
-
-  often
-
-  brother
-
-  expect
-
-  clutch'
-bip_39_word_new_line_9: 'network
-
-  rice
-
-  museum
-
-  inform
-
-  often
-
-  brother
-
-  expect
-
-  clutch
-
-  vendor'
-bip_39_word_no_space_1: network
-bip_39_word_no_space_10: networkricemuseuminformoftenbrotherexpectclutchvendorbone
-bip_39_word_no_space_11: networkricemuseuminformoftenbrotherexpectclutchvendorbonegood
 bip_39_word_no_space_12: networkricemuseuminformoftenbrotherexpectclutchvendorbonegoodarmy
 bip_39_word_no_space_2: networkrice
 bip_39_word_no_space_3: networkricemuseum
-bip_39_word_no_space_4: networkricemuseuminform
-bip_39_word_no_space_5: networkricemuseuminformoften
-bip_39_word_no_space_6: networkricemuseuminformoftenbrother
-bip_39_word_no_space_7: networkricemuseuminformoftenbrotherexpect
-bip_39_word_no_space_8: networkricemuseuminformoftenbrotherexpectclutch
-bip_39_word_no_space_9: networkricemuseuminformoftenbrotherexpectclutchvendor
-bip_39_word_space_0:
-- network
-- rice
-- museum
-- inform
-- often
-- brother
-- expect
-- clutch
-- vendor
-- bone
-- good
-- army
-bip_39_word_space_1: network
-bip_39_word_space_10: network rice museum inform often brother expect clutch vendor
-  bone
-bip_39_word_space_11: network rice museum inform often brother expect clutch vendor
-  bone good
 bip_39_word_space_12: network rice museum inform often brother expect clutch vendor
   bone good army
 bip_39_word_space_2: network rice
 bip_39_word_space_3: network rice museum
-bip_39_word_space_4: network rice museum inform
-bip_39_word_space_5: network rice museum inform often
-bip_39_word_space_6: network rice museum inform often brother
-bip_39_word_space_7: network rice museum inform often brother expect
-bip_39_word_space_8: network rice museum inform often brother expect clutch
-bip_39_word_space_9: network rice museum inform often brother expect clutch vendor
-bip_39_word_underscore_1: network
-bip_39_word_underscore_10: network_rice_museum_inform_often_brother_expect_clutch_vendor_bone
-bip_39_word_underscore_11: network_rice_museum_inform_often_brother_expect_clutch_vendor_bone_good
 bip_39_word_underscore_12: network_rice_museum_inform_often_brother_expect_clutch_vendor_bone_good_army
 bip_39_word_underscore_2: network_rice
 bip_39_word_underscore_3: network_rice_museum
-bip_39_word_underscore_4: network_rice_museum_inform
-bip_39_word_underscore_5: network_rice_museum_inform_often
-bip_39_word_underscore_6: network_rice_museum_inform_often_brother
-bip_39_word_underscore_7: network_rice_museum_inform_often_brother_expect
-bip_39_word_underscore_8: network_rice_museum_inform_often_brother_expect_clutch
-bip_39_word_underscore_9: network_rice_museum_inform_often_brother_expect_clutch_vendor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

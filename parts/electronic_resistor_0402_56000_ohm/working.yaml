@@ -1,68 +1,9 @@
-bip_39_word_dash_1: water
-bip_39_word_dash_10: water-shoot-phone-matrix-skate-relax-spider-depend-victory-slab
-bip_39_word_dash_11: water-shoot-phone-matrix-skate-relax-spider-depend-victory-slab-west
 bip_39_word_dash_12: water-shoot-phone-matrix-skate-relax-spider-depend-victory-slab-west-admit
 bip_39_word_dash_2: water-shoot
 bip_39_word_dash_3: water-shoot-phone
-bip_39_word_dash_4: water-shoot-phone-matrix
-bip_39_word_dash_5: water-shoot-phone-matrix-skate
-bip_39_word_dash_6: water-shoot-phone-matrix-skate-relax
-bip_39_word_dash_7: water-shoot-phone-matrix-skate-relax-spider
-bip_39_word_dash_8: water-shoot-phone-matrix-skate-relax-spider-depend
-bip_39_word_dash_9: water-shoot-phone-matrix-skate-relax-spider-depend-victory
-bip_39_word_new_br_1: water
-bip_39_word_new_br_10: water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab
-bip_39_word_new_br_11: water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west
 bip_39_word_new_br_12: water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west<br>admit
 bip_39_word_new_br_2: water<br>shoot
 bip_39_word_new_br_3: water<br>shoot<br>phone
-bip_39_word_new_br_4: water<br>shoot<br>phone<br>matrix
-bip_39_word_new_br_5: water<br>shoot<br>phone<br>matrix<br>skate
-bip_39_word_new_br_6: water<br>shoot<br>phone<br>matrix<br>skate<br>relax
-bip_39_word_new_br_7: water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider
-bip_39_word_new_br_8: water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend
-bip_39_word_new_br_9: water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory
-bip_39_word_new_line_1: water
-bip_39_word_new_line_10: 'water
-
-  shoot
-
-  phone
-
-  matrix
-
-  skate
-
-  relax
-
-  spider
-
-  depend
-
-  victory
-
-  slab'
-bip_39_word_new_line_11: 'water
-
-  shoot
-
-  phone
-
-  matrix
-
-  skate
-
-  relax
-
-  spider
-
-  depend
-
-  victory
-
-  slab
-
-  west'
 bip_39_word_new_line_12: 'water
 
   shoot
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'water
   shoot
 
   phone'
-bip_39_word_new_line_4: 'water
-
-  shoot
-
-  phone
-
-  matrix'
-bip_39_word_new_line_5: 'water
-
-  shoot
-
-  phone
-
-  matrix
-
-  skate'
-bip_39_word_new_line_6: 'water
-
-  shoot
-
-  phone
-
-  matrix
-
-  skate
-
-  relax'
-bip_39_word_new_line_7: 'water
-
-  shoot
-
-  phone
-
-  matrix
-
-  skate
-
-  relax
-
-  spider'
-bip_39_word_new_line_8: 'water
-
-  shoot
-
-  phone
-
-  matrix
-
-  skate
-
-  relax
-
-  spider
-
-  depend'
-bip_39_word_new_line_9: 'water
-
-  shoot
-
-  phone
-
-  matrix
-
-  skate
-
-  relax
-
-  spider
-
-  depend
-
-  victory'
-bip_39_word_no_space_1: water
-bip_39_word_no_space_10: watershootphonematrixskaterelaxspiderdependvictoryslab
-bip_39_word_no_space_11: watershootphonematrixskaterelaxspiderdependvictoryslabwest
 bip_39_word_no_space_12: watershootphonematrixskaterelaxspiderdependvictoryslabwestadmit
 bip_39_word_no_space_2: watershoot
 bip_39_word_no_space_3: watershootphone
-bip_39_word_no_space_4: watershootphonematrix
-bip_39_word_no_space_5: watershootphonematrixskate
-bip_39_word_no_space_6: watershootphonematrixskaterelax
-bip_39_word_no_space_7: watershootphonematrixskaterelaxspider
-bip_39_word_no_space_8: watershootphonematrixskaterelaxspiderdepend
-bip_39_word_no_space_9: watershootphonematrixskaterelaxspiderdependvictory
-bip_39_word_space_0:
-- water
-- shoot
-- phone
-- matrix
-- skate
-- relax
-- spider
-- depend
-- victory
-- slab
-- west
-- admit
-bip_39_word_space_1: water
-bip_39_word_space_10: water shoot phone matrix skate relax spider depend victory slab
-bip_39_word_space_11: water shoot phone matrix skate relax spider depend victory slab
-  west
 bip_39_word_space_12: water shoot phone matrix skate relax spider depend victory slab
   west admit
 bip_39_word_space_2: water shoot
 bip_39_word_space_3: water shoot phone
-bip_39_word_space_4: water shoot phone matrix
-bip_39_word_space_5: water shoot phone matrix skate
-bip_39_word_space_6: water shoot phone matrix skate relax
-bip_39_word_space_7: water shoot phone matrix skate relax spider
-bip_39_word_space_8: water shoot phone matrix skate relax spider depend
-bip_39_word_space_9: water shoot phone matrix skate relax spider depend victory
-bip_39_word_underscore_1: water
-bip_39_word_underscore_10: water_shoot_phone_matrix_skate_relax_spider_depend_victory_slab
-bip_39_word_underscore_11: water_shoot_phone_matrix_skate_relax_spider_depend_victory_slab_west
 bip_39_word_underscore_12: water_shoot_phone_matrix_skate_relax_spider_depend_victory_slab_west_admit
 bip_39_word_underscore_2: water_shoot
 bip_39_word_underscore_3: water_shoot_phone
-bip_39_word_underscore_4: water_shoot_phone_matrix
-bip_39_word_underscore_5: water_shoot_phone_matrix_skate
-bip_39_word_underscore_6: water_shoot_phone_matrix_skate_relax
-bip_39_word_underscore_7: water_shoot_phone_matrix_skate_relax_spider
-bip_39_word_underscore_8: water_shoot_phone_matrix_skate_relax_spider_depend
-bip_39_word_underscore_9: water_shoot_phone_matrix_skate_relax_spider_depend_victory
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

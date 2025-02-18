@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gaze
-bip_39_word_dash_10: gaze-treat-heart-apology-shoot-stomach-security-unfold-gloom-consider
-bip_39_word_dash_11: gaze-treat-heart-apology-shoot-stomach-security-unfold-gloom-consider-legal
 bip_39_word_dash_12: gaze-treat-heart-apology-shoot-stomach-security-unfold-gloom-consider-legal-absurd
 bip_39_word_dash_2: gaze-treat
 bip_39_word_dash_3: gaze-treat-heart
-bip_39_word_dash_4: gaze-treat-heart-apology
-bip_39_word_dash_5: gaze-treat-heart-apology-shoot
-bip_39_word_dash_6: gaze-treat-heart-apology-shoot-stomach
-bip_39_word_dash_7: gaze-treat-heart-apology-shoot-stomach-security
-bip_39_word_dash_8: gaze-treat-heart-apology-shoot-stomach-security-unfold
-bip_39_word_dash_9: gaze-treat-heart-apology-shoot-stomach-security-unfold-gloom
-bip_39_word_new_br_1: gaze
-bip_39_word_new_br_10: gaze<br>treat<br>heart<br>apology<br>shoot<br>stomach<br>security<br>unfold<br>gloom<br>consider
-bip_39_word_new_br_11: gaze<br>treat<br>heart<br>apology<br>shoot<br>stomach<br>security<br>unfold<br>gloom<br>consider<br>legal
 bip_39_word_new_br_12: gaze<br>treat<br>heart<br>apology<br>shoot<br>stomach<br>security<br>unfold<br>gloom<br>consider<br>legal<br>absurd
 bip_39_word_new_br_2: gaze<br>treat
 bip_39_word_new_br_3: gaze<br>treat<br>heart
-bip_39_word_new_br_4: gaze<br>treat<br>heart<br>apology
-bip_39_word_new_br_5: gaze<br>treat<br>heart<br>apology<br>shoot
-bip_39_word_new_br_6: gaze<br>treat<br>heart<br>apology<br>shoot<br>stomach
-bip_39_word_new_br_7: gaze<br>treat<br>heart<br>apology<br>shoot<br>stomach<br>security
-bip_39_word_new_br_8: gaze<br>treat<br>heart<br>apology<br>shoot<br>stomach<br>security<br>unfold
-bip_39_word_new_br_9: gaze<br>treat<br>heart<br>apology<br>shoot<br>stomach<br>security<br>unfold<br>gloom
-bip_39_word_new_line_1: gaze
-bip_39_word_new_line_10: 'gaze
-
-  treat
-
-  heart
-
-  apology
-
-  shoot
-
-  stomach
-
-  security
-
-  unfold
-
-  gloom
-
-  consider'
-bip_39_word_new_line_11: 'gaze
-
-  treat
-
-  heart
-
-  apology
-
-  shoot
-
-  stomach
-
-  security
-
-  unfold
-
-  gloom
-
-  consider
-
-  legal'
 bip_39_word_new_line_12: 'gaze
 
   treat
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'gaze
   treat
 
   heart'
-bip_39_word_new_line_4: 'gaze
-
-  treat
-
-  heart
-
-  apology'
-bip_39_word_new_line_5: 'gaze
-
-  treat
-
-  heart
-
-  apology
-
-  shoot'
-bip_39_word_new_line_6: 'gaze
-
-  treat
-
-  heart
-
-  apology
-
-  shoot
-
-  stomach'
-bip_39_word_new_line_7: 'gaze
-
-  treat
-
-  heart
-
-  apology
-
-  shoot
-
-  stomach
-
-  security'
-bip_39_word_new_line_8: 'gaze
-
-  treat
-
-  heart
-
-  apology
-
-  shoot
-
-  stomach
-
-  security
-
-  unfold'
-bip_39_word_new_line_9: 'gaze
-
-  treat
-
-  heart
-
-  apology
-
-  shoot
-
-  stomach
-
-  security
-
-  unfold
-
-  gloom'
-bip_39_word_no_space_1: gaze
-bip_39_word_no_space_10: gazetreatheartapologyshootstomachsecurityunfoldgloomconsider
-bip_39_word_no_space_11: gazetreatheartapologyshootstomachsecurityunfoldgloomconsiderlegal
 bip_39_word_no_space_12: gazetreatheartapologyshootstomachsecurityunfoldgloomconsiderlegalabsurd
 bip_39_word_no_space_2: gazetreat
 bip_39_word_no_space_3: gazetreatheart
-bip_39_word_no_space_4: gazetreatheartapology
-bip_39_word_no_space_5: gazetreatheartapologyshoot
-bip_39_word_no_space_6: gazetreatheartapologyshootstomach
-bip_39_word_no_space_7: gazetreatheartapologyshootstomachsecurity
-bip_39_word_no_space_8: gazetreatheartapologyshootstomachsecurityunfold
-bip_39_word_no_space_9: gazetreatheartapologyshootstomachsecurityunfoldgloom
-bip_39_word_space_0:
-- gaze
-- treat
-- heart
-- apology
-- shoot
-- stomach
-- security
-- unfold
-- gloom
-- consider
-- legal
-- absurd
-bip_39_word_space_1: gaze
-bip_39_word_space_10: gaze treat heart apology shoot stomach security unfold gloom
-  consider
-bip_39_word_space_11: gaze treat heart apology shoot stomach security unfold gloom
-  consider legal
 bip_39_word_space_12: gaze treat heart apology shoot stomach security unfold gloom
   consider legal absurd
 bip_39_word_space_2: gaze treat
 bip_39_word_space_3: gaze treat heart
-bip_39_word_space_4: gaze treat heart apology
-bip_39_word_space_5: gaze treat heart apology shoot
-bip_39_word_space_6: gaze treat heart apology shoot stomach
-bip_39_word_space_7: gaze treat heart apology shoot stomach security
-bip_39_word_space_8: gaze treat heart apology shoot stomach security unfold
-bip_39_word_space_9: gaze treat heart apology shoot stomach security unfold gloom
-bip_39_word_underscore_1: gaze
-bip_39_word_underscore_10: gaze_treat_heart_apology_shoot_stomach_security_unfold_gloom_consider
-bip_39_word_underscore_11: gaze_treat_heart_apology_shoot_stomach_security_unfold_gloom_consider_legal
 bip_39_word_underscore_12: gaze_treat_heart_apology_shoot_stomach_security_unfold_gloom_consider_legal_absurd
 bip_39_word_underscore_2: gaze_treat
 bip_39_word_underscore_3: gaze_treat_heart
-bip_39_word_underscore_4: gaze_treat_heart_apology
-bip_39_word_underscore_5: gaze_treat_heart_apology_shoot
-bip_39_word_underscore_6: gaze_treat_heart_apology_shoot_stomach
-bip_39_word_underscore_7: gaze_treat_heart_apology_shoot_stomach_security
-bip_39_word_underscore_8: gaze_treat_heart_apology_shoot_stomach_security_unfold
-bip_39_word_underscore_9: gaze_treat_heart_apology_shoot_stomach_security_unfold_gloom
 classification: robot_vacuum
 classification_capital: Robot Vacuum
 classification_first_letter: r

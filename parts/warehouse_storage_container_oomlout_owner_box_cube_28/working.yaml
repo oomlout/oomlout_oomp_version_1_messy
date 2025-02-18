@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grape
-bip_39_word_dash_10: grape-never-life-peasant-sort-length-scout-alter-master-glue
-bip_39_word_dash_11: grape-never-life-peasant-sort-length-scout-alter-master-glue-solid
 bip_39_word_dash_12: grape-never-life-peasant-sort-length-scout-alter-master-glue-solid-antenna
 bip_39_word_dash_2: grape-never
 bip_39_word_dash_3: grape-never-life
-bip_39_word_dash_4: grape-never-life-peasant
-bip_39_word_dash_5: grape-never-life-peasant-sort
-bip_39_word_dash_6: grape-never-life-peasant-sort-length
-bip_39_word_dash_7: grape-never-life-peasant-sort-length-scout
-bip_39_word_dash_8: grape-never-life-peasant-sort-length-scout-alter
-bip_39_word_dash_9: grape-never-life-peasant-sort-length-scout-alter-master
-bip_39_word_new_br_1: grape
-bip_39_word_new_br_10: grape<br>never<br>life<br>peasant<br>sort<br>length<br>scout<br>alter<br>master<br>glue
-bip_39_word_new_br_11: grape<br>never<br>life<br>peasant<br>sort<br>length<br>scout<br>alter<br>master<br>glue<br>solid
 bip_39_word_new_br_12: grape<br>never<br>life<br>peasant<br>sort<br>length<br>scout<br>alter<br>master<br>glue<br>solid<br>antenna
 bip_39_word_new_br_2: grape<br>never
 bip_39_word_new_br_3: grape<br>never<br>life
-bip_39_word_new_br_4: grape<br>never<br>life<br>peasant
-bip_39_word_new_br_5: grape<br>never<br>life<br>peasant<br>sort
-bip_39_word_new_br_6: grape<br>never<br>life<br>peasant<br>sort<br>length
-bip_39_word_new_br_7: grape<br>never<br>life<br>peasant<br>sort<br>length<br>scout
-bip_39_word_new_br_8: grape<br>never<br>life<br>peasant<br>sort<br>length<br>scout<br>alter
-bip_39_word_new_br_9: grape<br>never<br>life<br>peasant<br>sort<br>length<br>scout<br>alter<br>master
-bip_39_word_new_line_1: grape
-bip_39_word_new_line_10: 'grape
-
-  never
-
-  life
-
-  peasant
-
-  sort
-
-  length
-
-  scout
-
-  alter
-
-  master
-
-  glue'
-bip_39_word_new_line_11: 'grape
-
-  never
-
-  life
-
-  peasant
-
-  sort
-
-  length
-
-  scout
-
-  alter
-
-  master
-
-  glue
-
-  solid'
 bip_39_word_new_line_12: 'grape
 
   never
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grape
   never
 
   life'
-bip_39_word_new_line_4: 'grape
-
-  never
-
-  life
-
-  peasant'
-bip_39_word_new_line_5: 'grape
-
-  never
-
-  life
-
-  peasant
-
-  sort'
-bip_39_word_new_line_6: 'grape
-
-  never
-
-  life
-
-  peasant
-
-  sort
-
-  length'
-bip_39_word_new_line_7: 'grape
-
-  never
-
-  life
-
-  peasant
-
-  sort
-
-  length
-
-  scout'
-bip_39_word_new_line_8: 'grape
-
-  never
-
-  life
-
-  peasant
-
-  sort
-
-  length
-
-  scout
-
-  alter'
-bip_39_word_new_line_9: 'grape
-
-  never
-
-  life
-
-  peasant
-
-  sort
-
-  length
-
-  scout
-
-  alter
-
-  master'
-bip_39_word_no_space_1: grape
-bip_39_word_no_space_10: grapeneverlifepeasantsortlengthscoutaltermasterglue
-bip_39_word_no_space_11: grapeneverlifepeasantsortlengthscoutaltermastergluesolid
 bip_39_word_no_space_12: grapeneverlifepeasantsortlengthscoutaltermastergluesolidantenna
 bip_39_word_no_space_2: grapenever
 bip_39_word_no_space_3: grapeneverlife
-bip_39_word_no_space_4: grapeneverlifepeasant
-bip_39_word_no_space_5: grapeneverlifepeasantsort
-bip_39_word_no_space_6: grapeneverlifepeasantsortlength
-bip_39_word_no_space_7: grapeneverlifepeasantsortlengthscout
-bip_39_word_no_space_8: grapeneverlifepeasantsortlengthscoutalter
-bip_39_word_no_space_9: grapeneverlifepeasantsortlengthscoutaltermaster
-bip_39_word_space_0:
-- grape
-- never
-- life
-- peasant
-- sort
-- length
-- scout
-- alter
-- master
-- glue
-- solid
-- antenna
-bip_39_word_space_1: grape
-bip_39_word_space_10: grape never life peasant sort length scout alter master glue
-bip_39_word_space_11: grape never life peasant sort length scout alter master glue
-  solid
 bip_39_word_space_12: grape never life peasant sort length scout alter master glue
   solid antenna
 bip_39_word_space_2: grape never
 bip_39_word_space_3: grape never life
-bip_39_word_space_4: grape never life peasant
-bip_39_word_space_5: grape never life peasant sort
-bip_39_word_space_6: grape never life peasant sort length
-bip_39_word_space_7: grape never life peasant sort length scout
-bip_39_word_space_8: grape never life peasant sort length scout alter
-bip_39_word_space_9: grape never life peasant sort length scout alter master
-bip_39_word_underscore_1: grape
-bip_39_word_underscore_10: grape_never_life_peasant_sort_length_scout_alter_master_glue
-bip_39_word_underscore_11: grape_never_life_peasant_sort_length_scout_alter_master_glue_solid
 bip_39_word_underscore_12: grape_never_life_peasant_sort_length_scout_alter_master_glue_solid_antenna
 bip_39_word_underscore_2: grape_never
 bip_39_word_underscore_3: grape_never_life
-bip_39_word_underscore_4: grape_never_life_peasant
-bip_39_word_underscore_5: grape_never_life_peasant_sort
-bip_39_word_underscore_6: grape_never_life_peasant_sort_length
-bip_39_word_underscore_7: grape_never_life_peasant_sort_length_scout
-bip_39_word_underscore_8: grape_never_life_peasant_sort_length_scout_alter
-bip_39_word_underscore_9: grape_never_life_peasant_sort_length_scout_alter_master
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: select
-bip_39_word_dash_10: select-gauge-primary-mushroom-angle-what-glare-foil-foil-major
-bip_39_word_dash_11: select-gauge-primary-mushroom-angle-what-glare-foil-foil-major-parrot
 bip_39_word_dash_12: select-gauge-primary-mushroom-angle-what-glare-foil-foil-major-parrot-agree
 bip_39_word_dash_2: select-gauge
 bip_39_word_dash_3: select-gauge-primary
-bip_39_word_dash_4: select-gauge-primary-mushroom
-bip_39_word_dash_5: select-gauge-primary-mushroom-angle
-bip_39_word_dash_6: select-gauge-primary-mushroom-angle-what
-bip_39_word_dash_7: select-gauge-primary-mushroom-angle-what-glare
-bip_39_word_dash_8: select-gauge-primary-mushroom-angle-what-glare-foil
-bip_39_word_dash_9: select-gauge-primary-mushroom-angle-what-glare-foil-foil
-bip_39_word_new_br_1: select
-bip_39_word_new_br_10: select<br>gauge<br>primary<br>mushroom<br>angle<br>what<br>glare<br>foil<br>foil<br>major
-bip_39_word_new_br_11: select<br>gauge<br>primary<br>mushroom<br>angle<br>what<br>glare<br>foil<br>foil<br>major<br>parrot
 bip_39_word_new_br_12: select<br>gauge<br>primary<br>mushroom<br>angle<br>what<br>glare<br>foil<br>foil<br>major<br>parrot<br>agree
 bip_39_word_new_br_2: select<br>gauge
 bip_39_word_new_br_3: select<br>gauge<br>primary
-bip_39_word_new_br_4: select<br>gauge<br>primary<br>mushroom
-bip_39_word_new_br_5: select<br>gauge<br>primary<br>mushroom<br>angle
-bip_39_word_new_br_6: select<br>gauge<br>primary<br>mushroom<br>angle<br>what
-bip_39_word_new_br_7: select<br>gauge<br>primary<br>mushroom<br>angle<br>what<br>glare
-bip_39_word_new_br_8: select<br>gauge<br>primary<br>mushroom<br>angle<br>what<br>glare<br>foil
-bip_39_word_new_br_9: select<br>gauge<br>primary<br>mushroom<br>angle<br>what<br>glare<br>foil<br>foil
-bip_39_word_new_line_1: select
-bip_39_word_new_line_10: 'select
-
-  gauge
-
-  primary
-
-  mushroom
-
-  angle
-
-  what
-
-  glare
-
-  foil
-
-  foil
-
-  major'
-bip_39_word_new_line_11: 'select
-
-  gauge
-
-  primary
-
-  mushroom
-
-  angle
-
-  what
-
-  glare
-
-  foil
-
-  foil
-
-  major
-
-  parrot'
 bip_39_word_new_line_12: 'select
 
   gauge
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'select
   gauge
 
   primary'
-bip_39_word_new_line_4: 'select
-
-  gauge
-
-  primary
-
-  mushroom'
-bip_39_word_new_line_5: 'select
-
-  gauge
-
-  primary
-
-  mushroom
-
-  angle'
-bip_39_word_new_line_6: 'select
-
-  gauge
-
-  primary
-
-  mushroom
-
-  angle
-
-  what'
-bip_39_word_new_line_7: 'select
-
-  gauge
-
-  primary
-
-  mushroom
-
-  angle
-
-  what
-
-  glare'
-bip_39_word_new_line_8: 'select
-
-  gauge
-
-  primary
-
-  mushroom
-
-  angle
-
-  what
-
-  glare
-
-  foil'
-bip_39_word_new_line_9: 'select
-
-  gauge
-
-  primary
-
-  mushroom
-
-  angle
-
-  what
-
-  glare
-
-  foil
-
-  foil'
-bip_39_word_no_space_1: select
-bip_39_word_no_space_10: selectgaugeprimarymushroomanglewhatglarefoilfoilmajor
-bip_39_word_no_space_11: selectgaugeprimarymushroomanglewhatglarefoilfoilmajorparrot
 bip_39_word_no_space_12: selectgaugeprimarymushroomanglewhatglarefoilfoilmajorparrotagree
 bip_39_word_no_space_2: selectgauge
 bip_39_word_no_space_3: selectgaugeprimary
-bip_39_word_no_space_4: selectgaugeprimarymushroom
-bip_39_word_no_space_5: selectgaugeprimarymushroomangle
-bip_39_word_no_space_6: selectgaugeprimarymushroomanglewhat
-bip_39_word_no_space_7: selectgaugeprimarymushroomanglewhatglare
-bip_39_word_no_space_8: selectgaugeprimarymushroomanglewhatglarefoil
-bip_39_word_no_space_9: selectgaugeprimarymushroomanglewhatglarefoilfoil
-bip_39_word_space_0:
-- select
-- gauge
-- primary
-- mushroom
-- angle
-- what
-- glare
-- foil
-- foil
-- major
-- parrot
-- agree
-bip_39_word_space_1: select
-bip_39_word_space_10: select gauge primary mushroom angle what glare foil foil major
-bip_39_word_space_11: select gauge primary mushroom angle what glare foil foil major
-  parrot
 bip_39_word_space_12: select gauge primary mushroom angle what glare foil foil major
   parrot agree
 bip_39_word_space_2: select gauge
 bip_39_word_space_3: select gauge primary
-bip_39_word_space_4: select gauge primary mushroom
-bip_39_word_space_5: select gauge primary mushroom angle
-bip_39_word_space_6: select gauge primary mushroom angle what
-bip_39_word_space_7: select gauge primary mushroom angle what glare
-bip_39_word_space_8: select gauge primary mushroom angle what glare foil
-bip_39_word_space_9: select gauge primary mushroom angle what glare foil foil
-bip_39_word_underscore_1: select
-bip_39_word_underscore_10: select_gauge_primary_mushroom_angle_what_glare_foil_foil_major
-bip_39_word_underscore_11: select_gauge_primary_mushroom_angle_what_glare_foil_foil_major_parrot
 bip_39_word_underscore_12: select_gauge_primary_mushroom_angle_what_glare_foil_foil_major_parrot_agree
 bip_39_word_underscore_2: select_gauge
 bip_39_word_underscore_3: select_gauge_primary
-bip_39_word_underscore_4: select_gauge_primary_mushroom
-bip_39_word_underscore_5: select_gauge_primary_mushroom_angle
-bip_39_word_underscore_6: select_gauge_primary_mushroom_angle_what
-bip_39_word_underscore_7: select_gauge_primary_mushroom_angle_what_glare
-bip_39_word_underscore_8: select_gauge_primary_mushroom_angle_what_glare_foil
-bip_39_word_underscore_9: select_gauge_primary_mushroom_angle_what_glare_foil_foil
 classification: category
 classification_capital: Category
 classification_first_letter: c

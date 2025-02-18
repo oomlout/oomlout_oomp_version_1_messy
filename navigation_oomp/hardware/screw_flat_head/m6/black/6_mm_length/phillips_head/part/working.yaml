@@ -1,68 +1,9 @@
-bip_39_word_dash_1: elephant
-bip_39_word_dash_10: elephant-riot-busy-grant-shine-staff-blast-expose-ability-keen
-bip_39_word_dash_11: elephant-riot-busy-grant-shine-staff-blast-expose-ability-keen-holiday
 bip_39_word_dash_12: elephant-riot-busy-grant-shine-staff-blast-expose-ability-keen-holiday-amount
 bip_39_word_dash_2: elephant-riot
 bip_39_word_dash_3: elephant-riot-busy
-bip_39_word_dash_4: elephant-riot-busy-grant
-bip_39_word_dash_5: elephant-riot-busy-grant-shine
-bip_39_word_dash_6: elephant-riot-busy-grant-shine-staff
-bip_39_word_dash_7: elephant-riot-busy-grant-shine-staff-blast
-bip_39_word_dash_8: elephant-riot-busy-grant-shine-staff-blast-expose
-bip_39_word_dash_9: elephant-riot-busy-grant-shine-staff-blast-expose-ability
-bip_39_word_new_br_1: elephant
-bip_39_word_new_br_10: elephant<br>riot<br>busy<br>grant<br>shine<br>staff<br>blast<br>expose<br>ability<br>keen
-bip_39_word_new_br_11: elephant<br>riot<br>busy<br>grant<br>shine<br>staff<br>blast<br>expose<br>ability<br>keen<br>holiday
 bip_39_word_new_br_12: elephant<br>riot<br>busy<br>grant<br>shine<br>staff<br>blast<br>expose<br>ability<br>keen<br>holiday<br>amount
 bip_39_word_new_br_2: elephant<br>riot
 bip_39_word_new_br_3: elephant<br>riot<br>busy
-bip_39_word_new_br_4: elephant<br>riot<br>busy<br>grant
-bip_39_word_new_br_5: elephant<br>riot<br>busy<br>grant<br>shine
-bip_39_word_new_br_6: elephant<br>riot<br>busy<br>grant<br>shine<br>staff
-bip_39_word_new_br_7: elephant<br>riot<br>busy<br>grant<br>shine<br>staff<br>blast
-bip_39_word_new_br_8: elephant<br>riot<br>busy<br>grant<br>shine<br>staff<br>blast<br>expose
-bip_39_word_new_br_9: elephant<br>riot<br>busy<br>grant<br>shine<br>staff<br>blast<br>expose<br>ability
-bip_39_word_new_line_1: elephant
-bip_39_word_new_line_10: 'elephant
-
-  riot
-
-  busy
-
-  grant
-
-  shine
-
-  staff
-
-  blast
-
-  expose
-
-  ability
-
-  keen'
-bip_39_word_new_line_11: 'elephant
-
-  riot
-
-  busy
-
-  grant
-
-  shine
-
-  staff
-
-  blast
-
-  expose
-
-  ability
-
-  keen
-
-  holiday'
 bip_39_word_new_line_12: 'elephant
 
   riot
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'elephant
   riot
 
   busy'
-bip_39_word_new_line_4: 'elephant
-
-  riot
-
-  busy
-
-  grant'
-bip_39_word_new_line_5: 'elephant
-
-  riot
-
-  busy
-
-  grant
-
-  shine'
-bip_39_word_new_line_6: 'elephant
-
-  riot
-
-  busy
-
-  grant
-
-  shine
-
-  staff'
-bip_39_word_new_line_7: 'elephant
-
-  riot
-
-  busy
-
-  grant
-
-  shine
-
-  staff
-
-  blast'
-bip_39_word_new_line_8: 'elephant
-
-  riot
-
-  busy
-
-  grant
-
-  shine
-
-  staff
-
-  blast
-
-  expose'
-bip_39_word_new_line_9: 'elephant
-
-  riot
-
-  busy
-
-  grant
-
-  shine
-
-  staff
-
-  blast
-
-  expose
-
-  ability'
-bip_39_word_no_space_1: elephant
-bip_39_word_no_space_10: elephantriotbusygrantshinestaffblastexposeabilitykeen
-bip_39_word_no_space_11: elephantriotbusygrantshinestaffblastexposeabilitykeenholiday
 bip_39_word_no_space_12: elephantriotbusygrantshinestaffblastexposeabilitykeenholidayamount
 bip_39_word_no_space_2: elephantriot
 bip_39_word_no_space_3: elephantriotbusy
-bip_39_word_no_space_4: elephantriotbusygrant
-bip_39_word_no_space_5: elephantriotbusygrantshine
-bip_39_word_no_space_6: elephantriotbusygrantshinestaff
-bip_39_word_no_space_7: elephantriotbusygrantshinestaffblast
-bip_39_word_no_space_8: elephantriotbusygrantshinestaffblastexpose
-bip_39_word_no_space_9: elephantriotbusygrantshinestaffblastexposeability
-bip_39_word_space_0:
-- elephant
-- riot
-- busy
-- grant
-- shine
-- staff
-- blast
-- expose
-- ability
-- keen
-- holiday
-- amount
-bip_39_word_space_1: elephant
-bip_39_word_space_10: elephant riot busy grant shine staff blast expose ability keen
-bip_39_word_space_11: elephant riot busy grant shine staff blast expose ability keen
-  holiday
 bip_39_word_space_12: elephant riot busy grant shine staff blast expose ability keen
   holiday amount
 bip_39_word_space_2: elephant riot
 bip_39_word_space_3: elephant riot busy
-bip_39_word_space_4: elephant riot busy grant
-bip_39_word_space_5: elephant riot busy grant shine
-bip_39_word_space_6: elephant riot busy grant shine staff
-bip_39_word_space_7: elephant riot busy grant shine staff blast
-bip_39_word_space_8: elephant riot busy grant shine staff blast expose
-bip_39_word_space_9: elephant riot busy grant shine staff blast expose ability
-bip_39_word_underscore_1: elephant
-bip_39_word_underscore_10: elephant_riot_busy_grant_shine_staff_blast_expose_ability_keen
-bip_39_word_underscore_11: elephant_riot_busy_grant_shine_staff_blast_expose_ability_keen_holiday
 bip_39_word_underscore_12: elephant_riot_busy_grant_shine_staff_blast_expose_ability_keen_holiday_amount
 bip_39_word_underscore_2: elephant_riot
 bip_39_word_underscore_3: elephant_riot_busy
-bip_39_word_underscore_4: elephant_riot_busy_grant
-bip_39_word_underscore_5: elephant_riot_busy_grant_shine
-bip_39_word_underscore_6: elephant_riot_busy_grant_shine_staff
-bip_39_word_underscore_7: elephant_riot_busy_grant_shine_staff_blast
-bip_39_word_underscore_8: elephant_riot_busy_grant_shine_staff_blast_expose
-bip_39_word_underscore_9: elephant_riot_busy_grant_shine_staff_blast_expose_ability
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

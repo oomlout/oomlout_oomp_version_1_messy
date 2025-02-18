@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nature
-bip_39_word_dash_10: nature-gown-loud-dice-timber-fix-olive-feature-wide-viable
-bip_39_word_dash_11: nature-gown-loud-dice-timber-fix-olive-feature-wide-viable-panic
 bip_39_word_dash_12: nature-gown-loud-dice-timber-fix-olive-feature-wide-viable-panic-accuse
 bip_39_word_dash_2: nature-gown
 bip_39_word_dash_3: nature-gown-loud
-bip_39_word_dash_4: nature-gown-loud-dice
-bip_39_word_dash_5: nature-gown-loud-dice-timber
-bip_39_word_dash_6: nature-gown-loud-dice-timber-fix
-bip_39_word_dash_7: nature-gown-loud-dice-timber-fix-olive
-bip_39_word_dash_8: nature-gown-loud-dice-timber-fix-olive-feature
-bip_39_word_dash_9: nature-gown-loud-dice-timber-fix-olive-feature-wide
-bip_39_word_new_br_1: nature
-bip_39_word_new_br_10: nature<br>gown<br>loud<br>dice<br>timber<br>fix<br>olive<br>feature<br>wide<br>viable
-bip_39_word_new_br_11: nature<br>gown<br>loud<br>dice<br>timber<br>fix<br>olive<br>feature<br>wide<br>viable<br>panic
 bip_39_word_new_br_12: nature<br>gown<br>loud<br>dice<br>timber<br>fix<br>olive<br>feature<br>wide<br>viable<br>panic<br>accuse
 bip_39_word_new_br_2: nature<br>gown
 bip_39_word_new_br_3: nature<br>gown<br>loud
-bip_39_word_new_br_4: nature<br>gown<br>loud<br>dice
-bip_39_word_new_br_5: nature<br>gown<br>loud<br>dice<br>timber
-bip_39_word_new_br_6: nature<br>gown<br>loud<br>dice<br>timber<br>fix
-bip_39_word_new_br_7: nature<br>gown<br>loud<br>dice<br>timber<br>fix<br>olive
-bip_39_word_new_br_8: nature<br>gown<br>loud<br>dice<br>timber<br>fix<br>olive<br>feature
-bip_39_word_new_br_9: nature<br>gown<br>loud<br>dice<br>timber<br>fix<br>olive<br>feature<br>wide
-bip_39_word_new_line_1: nature
-bip_39_word_new_line_10: 'nature
-
-  gown
-
-  loud
-
-  dice
-
-  timber
-
-  fix
-
-  olive
-
-  feature
-
-  wide
-
-  viable'
-bip_39_word_new_line_11: 'nature
-
-  gown
-
-  loud
-
-  dice
-
-  timber
-
-  fix
-
-  olive
-
-  feature
-
-  wide
-
-  viable
-
-  panic'
 bip_39_word_new_line_12: 'nature
 
   gown
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'nature
   gown
 
   loud'
-bip_39_word_new_line_4: 'nature
-
-  gown
-
-  loud
-
-  dice'
-bip_39_word_new_line_5: 'nature
-
-  gown
-
-  loud
-
-  dice
-
-  timber'
-bip_39_word_new_line_6: 'nature
-
-  gown
-
-  loud
-
-  dice
-
-  timber
-
-  fix'
-bip_39_word_new_line_7: 'nature
-
-  gown
-
-  loud
-
-  dice
-
-  timber
-
-  fix
-
-  olive'
-bip_39_word_new_line_8: 'nature
-
-  gown
-
-  loud
-
-  dice
-
-  timber
-
-  fix
-
-  olive
-
-  feature'
-bip_39_word_new_line_9: 'nature
-
-  gown
-
-  loud
-
-  dice
-
-  timber
-
-  fix
-
-  olive
-
-  feature
-
-  wide'
-bip_39_word_no_space_1: nature
-bip_39_word_no_space_10: naturegownlouddicetimberfixolivefeaturewideviable
-bip_39_word_no_space_11: naturegownlouddicetimberfixolivefeaturewideviablepanic
 bip_39_word_no_space_12: naturegownlouddicetimberfixolivefeaturewideviablepanicaccuse
 bip_39_word_no_space_2: naturegown
 bip_39_word_no_space_3: naturegownloud
-bip_39_word_no_space_4: naturegownlouddice
-bip_39_word_no_space_5: naturegownlouddicetimber
-bip_39_word_no_space_6: naturegownlouddicetimberfix
-bip_39_word_no_space_7: naturegownlouddicetimberfixolive
-bip_39_word_no_space_8: naturegownlouddicetimberfixolivefeature
-bip_39_word_no_space_9: naturegownlouddicetimberfixolivefeaturewide
-bip_39_word_space_0:
-- nature
-- gown
-- loud
-- dice
-- timber
-- fix
-- olive
-- feature
-- wide
-- viable
-- panic
-- accuse
-bip_39_word_space_1: nature
-bip_39_word_space_10: nature gown loud dice timber fix olive feature wide viable
-bip_39_word_space_11: nature gown loud dice timber fix olive feature wide viable panic
 bip_39_word_space_12: nature gown loud dice timber fix olive feature wide viable panic
   accuse
 bip_39_word_space_2: nature gown
 bip_39_word_space_3: nature gown loud
-bip_39_word_space_4: nature gown loud dice
-bip_39_word_space_5: nature gown loud dice timber
-bip_39_word_space_6: nature gown loud dice timber fix
-bip_39_word_space_7: nature gown loud dice timber fix olive
-bip_39_word_space_8: nature gown loud dice timber fix olive feature
-bip_39_word_space_9: nature gown loud dice timber fix olive feature wide
-bip_39_word_underscore_1: nature
-bip_39_word_underscore_10: nature_gown_loud_dice_timber_fix_olive_feature_wide_viable
-bip_39_word_underscore_11: nature_gown_loud_dice_timber_fix_olive_feature_wide_viable_panic
 bip_39_word_underscore_12: nature_gown_loud_dice_timber_fix_olive_feature_wide_viable_panic_accuse
 bip_39_word_underscore_2: nature_gown
 bip_39_word_underscore_3: nature_gown_loud
-bip_39_word_underscore_4: nature_gown_loud_dice
-bip_39_word_underscore_5: nature_gown_loud_dice_timber
-bip_39_word_underscore_6: nature_gown_loud_dice_timber_fix
-bip_39_word_underscore_7: nature_gown_loud_dice_timber_fix_olive
-bip_39_word_underscore_8: nature_gown_loud_dice_timber_fix_olive_feature
-bip_39_word_underscore_9: nature_gown_loud_dice_timber_fix_olive_feature_wide
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

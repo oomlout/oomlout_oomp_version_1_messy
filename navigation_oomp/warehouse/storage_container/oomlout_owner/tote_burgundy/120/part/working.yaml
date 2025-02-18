@@ -1,68 +1,9 @@
-bip_39_word_dash_1: predict
-bip_39_word_dash_10: predict-task-play-solid-time-rabbit-better-describe-shy-harbor
-bip_39_word_dash_11: predict-task-play-solid-time-rabbit-better-describe-shy-harbor-long
 bip_39_word_dash_12: predict-task-play-solid-time-rabbit-better-describe-shy-harbor-long-assault
 bip_39_word_dash_2: predict-task
 bip_39_word_dash_3: predict-task-play
-bip_39_word_dash_4: predict-task-play-solid
-bip_39_word_dash_5: predict-task-play-solid-time
-bip_39_word_dash_6: predict-task-play-solid-time-rabbit
-bip_39_word_dash_7: predict-task-play-solid-time-rabbit-better
-bip_39_word_dash_8: predict-task-play-solid-time-rabbit-better-describe
-bip_39_word_dash_9: predict-task-play-solid-time-rabbit-better-describe-shy
-bip_39_word_new_br_1: predict
-bip_39_word_new_br_10: predict<br>task<br>play<br>solid<br>time<br>rabbit<br>better<br>describe<br>shy<br>harbor
-bip_39_word_new_br_11: predict<br>task<br>play<br>solid<br>time<br>rabbit<br>better<br>describe<br>shy<br>harbor<br>long
 bip_39_word_new_br_12: predict<br>task<br>play<br>solid<br>time<br>rabbit<br>better<br>describe<br>shy<br>harbor<br>long<br>assault
 bip_39_word_new_br_2: predict<br>task
 bip_39_word_new_br_3: predict<br>task<br>play
-bip_39_word_new_br_4: predict<br>task<br>play<br>solid
-bip_39_word_new_br_5: predict<br>task<br>play<br>solid<br>time
-bip_39_word_new_br_6: predict<br>task<br>play<br>solid<br>time<br>rabbit
-bip_39_word_new_br_7: predict<br>task<br>play<br>solid<br>time<br>rabbit<br>better
-bip_39_word_new_br_8: predict<br>task<br>play<br>solid<br>time<br>rabbit<br>better<br>describe
-bip_39_word_new_br_9: predict<br>task<br>play<br>solid<br>time<br>rabbit<br>better<br>describe<br>shy
-bip_39_word_new_line_1: predict
-bip_39_word_new_line_10: 'predict
-
-  task
-
-  play
-
-  solid
-
-  time
-
-  rabbit
-
-  better
-
-  describe
-
-  shy
-
-  harbor'
-bip_39_word_new_line_11: 'predict
-
-  task
-
-  play
-
-  solid
-
-  time
-
-  rabbit
-
-  better
-
-  describe
-
-  shy
-
-  harbor
-
-  long'
 bip_39_word_new_line_12: 'predict
 
   task
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'predict
   task
 
   play'
-bip_39_word_new_line_4: 'predict
-
-  task
-
-  play
-
-  solid'
-bip_39_word_new_line_5: 'predict
-
-  task
-
-  play
-
-  solid
-
-  time'
-bip_39_word_new_line_6: 'predict
-
-  task
-
-  play
-
-  solid
-
-  time
-
-  rabbit'
-bip_39_word_new_line_7: 'predict
-
-  task
-
-  play
-
-  solid
-
-  time
-
-  rabbit
-
-  better'
-bip_39_word_new_line_8: 'predict
-
-  task
-
-  play
-
-  solid
-
-  time
-
-  rabbit
-
-  better
-
-  describe'
-bip_39_word_new_line_9: 'predict
-
-  task
-
-  play
-
-  solid
-
-  time
-
-  rabbit
-
-  better
-
-  describe
-
-  shy'
-bip_39_word_no_space_1: predict
-bip_39_word_no_space_10: predicttaskplaysolidtimerabbitbetterdescribeshyharbor
-bip_39_word_no_space_11: predicttaskplaysolidtimerabbitbetterdescribeshyharborlong
 bip_39_word_no_space_12: predicttaskplaysolidtimerabbitbetterdescribeshyharborlongassault
 bip_39_word_no_space_2: predicttask
 bip_39_word_no_space_3: predicttaskplay
-bip_39_word_no_space_4: predicttaskplaysolid
-bip_39_word_no_space_5: predicttaskplaysolidtime
-bip_39_word_no_space_6: predicttaskplaysolidtimerabbit
-bip_39_word_no_space_7: predicttaskplaysolidtimerabbitbetter
-bip_39_word_no_space_8: predicttaskplaysolidtimerabbitbetterdescribe
-bip_39_word_no_space_9: predicttaskplaysolidtimerabbitbetterdescribeshy
-bip_39_word_space_0:
-- predict
-- task
-- play
-- solid
-- time
-- rabbit
-- better
-- describe
-- shy
-- harbor
-- long
-- assault
-bip_39_word_space_1: predict
-bip_39_word_space_10: predict task play solid time rabbit better describe shy harbor
-bip_39_word_space_11: predict task play solid time rabbit better describe shy harbor
-  long
 bip_39_word_space_12: predict task play solid time rabbit better describe shy harbor
   long assault
 bip_39_word_space_2: predict task
 bip_39_word_space_3: predict task play
-bip_39_word_space_4: predict task play solid
-bip_39_word_space_5: predict task play solid time
-bip_39_word_space_6: predict task play solid time rabbit
-bip_39_word_space_7: predict task play solid time rabbit better
-bip_39_word_space_8: predict task play solid time rabbit better describe
-bip_39_word_space_9: predict task play solid time rabbit better describe shy
-bip_39_word_underscore_1: predict
-bip_39_word_underscore_10: predict_task_play_solid_time_rabbit_better_describe_shy_harbor
-bip_39_word_underscore_11: predict_task_play_solid_time_rabbit_better_describe_shy_harbor_long
 bip_39_word_underscore_12: predict_task_play_solid_time_rabbit_better_describe_shy_harbor_long_assault
 bip_39_word_underscore_2: predict_task
 bip_39_word_underscore_3: predict_task_play
-bip_39_word_underscore_4: predict_task_play_solid
-bip_39_word_underscore_5: predict_task_play_solid_time
-bip_39_word_underscore_6: predict_task_play_solid_time_rabbit
-bip_39_word_underscore_7: predict_task_play_solid_time_rabbit_better
-bip_39_word_underscore_8: predict_task_play_solid_time_rabbit_better_describe
-bip_39_word_underscore_9: predict_task_play_solid_time_rabbit_better_describe_shy
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

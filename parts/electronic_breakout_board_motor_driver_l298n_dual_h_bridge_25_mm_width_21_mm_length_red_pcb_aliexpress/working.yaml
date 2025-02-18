@@ -1,68 +1,9 @@
-bip_39_word_dash_1: size
-bip_39_word_dash_10: size-hold-parent-peasant-tomorrow-lemon-symptom-earn-machine-lake
-bip_39_word_dash_11: size-hold-parent-peasant-tomorrow-lemon-symptom-earn-machine-lake-sugar
 bip_39_word_dash_12: size-hold-parent-peasant-tomorrow-lemon-symptom-earn-machine-lake-sugar-art
 bip_39_word_dash_2: size-hold
 bip_39_word_dash_3: size-hold-parent
-bip_39_word_dash_4: size-hold-parent-peasant
-bip_39_word_dash_5: size-hold-parent-peasant-tomorrow
-bip_39_word_dash_6: size-hold-parent-peasant-tomorrow-lemon
-bip_39_word_dash_7: size-hold-parent-peasant-tomorrow-lemon-symptom
-bip_39_word_dash_8: size-hold-parent-peasant-tomorrow-lemon-symptom-earn
-bip_39_word_dash_9: size-hold-parent-peasant-tomorrow-lemon-symptom-earn-machine
-bip_39_word_new_br_1: size
-bip_39_word_new_br_10: size<br>hold<br>parent<br>peasant<br>tomorrow<br>lemon<br>symptom<br>earn<br>machine<br>lake
-bip_39_word_new_br_11: size<br>hold<br>parent<br>peasant<br>tomorrow<br>lemon<br>symptom<br>earn<br>machine<br>lake<br>sugar
 bip_39_word_new_br_12: size<br>hold<br>parent<br>peasant<br>tomorrow<br>lemon<br>symptom<br>earn<br>machine<br>lake<br>sugar<br>art
 bip_39_word_new_br_2: size<br>hold
 bip_39_word_new_br_3: size<br>hold<br>parent
-bip_39_word_new_br_4: size<br>hold<br>parent<br>peasant
-bip_39_word_new_br_5: size<br>hold<br>parent<br>peasant<br>tomorrow
-bip_39_word_new_br_6: size<br>hold<br>parent<br>peasant<br>tomorrow<br>lemon
-bip_39_word_new_br_7: size<br>hold<br>parent<br>peasant<br>tomorrow<br>lemon<br>symptom
-bip_39_word_new_br_8: size<br>hold<br>parent<br>peasant<br>tomorrow<br>lemon<br>symptom<br>earn
-bip_39_word_new_br_9: size<br>hold<br>parent<br>peasant<br>tomorrow<br>lemon<br>symptom<br>earn<br>machine
-bip_39_word_new_line_1: size
-bip_39_word_new_line_10: 'size
-
-  hold
-
-  parent
-
-  peasant
-
-  tomorrow
-
-  lemon
-
-  symptom
-
-  earn
-
-  machine
-
-  lake'
-bip_39_word_new_line_11: 'size
-
-  hold
-
-  parent
-
-  peasant
-
-  tomorrow
-
-  lemon
-
-  symptom
-
-  earn
-
-  machine
-
-  lake
-
-  sugar'
 bip_39_word_new_line_12: 'size
 
   hold
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'size
   hold
 
   parent'
-bip_39_word_new_line_4: 'size
-
-  hold
-
-  parent
-
-  peasant'
-bip_39_word_new_line_5: 'size
-
-  hold
-
-  parent
-
-  peasant
-
-  tomorrow'
-bip_39_word_new_line_6: 'size
-
-  hold
-
-  parent
-
-  peasant
-
-  tomorrow
-
-  lemon'
-bip_39_word_new_line_7: 'size
-
-  hold
-
-  parent
-
-  peasant
-
-  tomorrow
-
-  lemon
-
-  symptom'
-bip_39_word_new_line_8: 'size
-
-  hold
-
-  parent
-
-  peasant
-
-  tomorrow
-
-  lemon
-
-  symptom
-
-  earn'
-bip_39_word_new_line_9: 'size
-
-  hold
-
-  parent
-
-  peasant
-
-  tomorrow
-
-  lemon
-
-  symptom
-
-  earn
-
-  machine'
-bip_39_word_no_space_1: size
-bip_39_word_no_space_10: sizeholdparentpeasanttomorrowlemonsymptomearnmachinelake
-bip_39_word_no_space_11: sizeholdparentpeasanttomorrowlemonsymptomearnmachinelakesugar
 bip_39_word_no_space_12: sizeholdparentpeasanttomorrowlemonsymptomearnmachinelakesugarart
 bip_39_word_no_space_2: sizehold
 bip_39_word_no_space_3: sizeholdparent
-bip_39_word_no_space_4: sizeholdparentpeasant
-bip_39_word_no_space_5: sizeholdparentpeasanttomorrow
-bip_39_word_no_space_6: sizeholdparentpeasanttomorrowlemon
-bip_39_word_no_space_7: sizeholdparentpeasanttomorrowlemonsymptom
-bip_39_word_no_space_8: sizeholdparentpeasanttomorrowlemonsymptomearn
-bip_39_word_no_space_9: sizeholdparentpeasanttomorrowlemonsymptomearnmachine
-bip_39_word_space_0:
-- size
-- hold
-- parent
-- peasant
-- tomorrow
-- lemon
-- symptom
-- earn
-- machine
-- lake
-- sugar
-- art
-bip_39_word_space_1: size
-bip_39_word_space_10: size hold parent peasant tomorrow lemon symptom earn machine
-  lake
-bip_39_word_space_11: size hold parent peasant tomorrow lemon symptom earn machine
-  lake sugar
 bip_39_word_space_12: size hold parent peasant tomorrow lemon symptom earn machine
   lake sugar art
 bip_39_word_space_2: size hold
 bip_39_word_space_3: size hold parent
-bip_39_word_space_4: size hold parent peasant
-bip_39_word_space_5: size hold parent peasant tomorrow
-bip_39_word_space_6: size hold parent peasant tomorrow lemon
-bip_39_word_space_7: size hold parent peasant tomorrow lemon symptom
-bip_39_word_space_8: size hold parent peasant tomorrow lemon symptom earn
-bip_39_word_space_9: size hold parent peasant tomorrow lemon symptom earn machine
-bip_39_word_underscore_1: size
-bip_39_word_underscore_10: size_hold_parent_peasant_tomorrow_lemon_symptom_earn_machine_lake
-bip_39_word_underscore_11: size_hold_parent_peasant_tomorrow_lemon_symptom_earn_machine_lake_sugar
 bip_39_word_underscore_12: size_hold_parent_peasant_tomorrow_lemon_symptom_earn_machine_lake_sugar_art
 bip_39_word_underscore_2: size_hold
 bip_39_word_underscore_3: size_hold_parent
-bip_39_word_underscore_4: size_hold_parent_peasant
-bip_39_word_underscore_5: size_hold_parent_peasant_tomorrow
-bip_39_word_underscore_6: size_hold_parent_peasant_tomorrow_lemon
-bip_39_word_underscore_7: size_hold_parent_peasant_tomorrow_lemon_symptom
-bip_39_word_underscore_8: size_hold_parent_peasant_tomorrow_lemon_symptom_earn
-bip_39_word_underscore_9: size_hold_parent_peasant_tomorrow_lemon_symptom_earn_machine
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

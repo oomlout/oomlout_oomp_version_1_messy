@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sample
-bip_39_word_dash_10: sample-faith-sing-child-display-couch-exhibit-museum-steak-stumble
-bip_39_word_dash_11: sample-faith-sing-child-display-couch-exhibit-museum-steak-stumble-simple
 bip_39_word_dash_12: sample-faith-sing-child-display-couch-exhibit-museum-steak-stumble-simple-audit
 bip_39_word_dash_2: sample-faith
 bip_39_word_dash_3: sample-faith-sing
-bip_39_word_dash_4: sample-faith-sing-child
-bip_39_word_dash_5: sample-faith-sing-child-display
-bip_39_word_dash_6: sample-faith-sing-child-display-couch
-bip_39_word_dash_7: sample-faith-sing-child-display-couch-exhibit
-bip_39_word_dash_8: sample-faith-sing-child-display-couch-exhibit-museum
-bip_39_word_dash_9: sample-faith-sing-child-display-couch-exhibit-museum-steak
-bip_39_word_new_br_1: sample
-bip_39_word_new_br_10: sample<br>faith<br>sing<br>child<br>display<br>couch<br>exhibit<br>museum<br>steak<br>stumble
-bip_39_word_new_br_11: sample<br>faith<br>sing<br>child<br>display<br>couch<br>exhibit<br>museum<br>steak<br>stumble<br>simple
 bip_39_word_new_br_12: sample<br>faith<br>sing<br>child<br>display<br>couch<br>exhibit<br>museum<br>steak<br>stumble<br>simple<br>audit
 bip_39_word_new_br_2: sample<br>faith
 bip_39_word_new_br_3: sample<br>faith<br>sing
-bip_39_word_new_br_4: sample<br>faith<br>sing<br>child
-bip_39_word_new_br_5: sample<br>faith<br>sing<br>child<br>display
-bip_39_word_new_br_6: sample<br>faith<br>sing<br>child<br>display<br>couch
-bip_39_word_new_br_7: sample<br>faith<br>sing<br>child<br>display<br>couch<br>exhibit
-bip_39_word_new_br_8: sample<br>faith<br>sing<br>child<br>display<br>couch<br>exhibit<br>museum
-bip_39_word_new_br_9: sample<br>faith<br>sing<br>child<br>display<br>couch<br>exhibit<br>museum<br>steak
-bip_39_word_new_line_1: sample
-bip_39_word_new_line_10: 'sample
-
-  faith
-
-  sing
-
-  child
-
-  display
-
-  couch
-
-  exhibit
-
-  museum
-
-  steak
-
-  stumble'
-bip_39_word_new_line_11: 'sample
-
-  faith
-
-  sing
-
-  child
-
-  display
-
-  couch
-
-  exhibit
-
-  museum
-
-  steak
-
-  stumble
-
-  simple'
 bip_39_word_new_line_12: 'sample
 
   faith
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sample
   faith
 
   sing'
-bip_39_word_new_line_4: 'sample
-
-  faith
-
-  sing
-
-  child'
-bip_39_word_new_line_5: 'sample
-
-  faith
-
-  sing
-
-  child
-
-  display'
-bip_39_word_new_line_6: 'sample
-
-  faith
-
-  sing
-
-  child
-
-  display
-
-  couch'
-bip_39_word_new_line_7: 'sample
-
-  faith
-
-  sing
-
-  child
-
-  display
-
-  couch
-
-  exhibit'
-bip_39_word_new_line_8: 'sample
-
-  faith
-
-  sing
-
-  child
-
-  display
-
-  couch
-
-  exhibit
-
-  museum'
-bip_39_word_new_line_9: 'sample
-
-  faith
-
-  sing
-
-  child
-
-  display
-
-  couch
-
-  exhibit
-
-  museum
-
-  steak'
-bip_39_word_no_space_1: sample
-bip_39_word_no_space_10: samplefaithsingchilddisplaycouchexhibitmuseumsteakstumble
-bip_39_word_no_space_11: samplefaithsingchilddisplaycouchexhibitmuseumsteakstumblesimple
 bip_39_word_no_space_12: samplefaithsingchilddisplaycouchexhibitmuseumsteakstumblesimpleaudit
 bip_39_word_no_space_2: samplefaith
 bip_39_word_no_space_3: samplefaithsing
-bip_39_word_no_space_4: samplefaithsingchild
-bip_39_word_no_space_5: samplefaithsingchilddisplay
-bip_39_word_no_space_6: samplefaithsingchilddisplaycouch
-bip_39_word_no_space_7: samplefaithsingchilddisplaycouchexhibit
-bip_39_word_no_space_8: samplefaithsingchilddisplaycouchexhibitmuseum
-bip_39_word_no_space_9: samplefaithsingchilddisplaycouchexhibitmuseumsteak
-bip_39_word_space_0:
-- sample
-- faith
-- sing
-- child
-- display
-- couch
-- exhibit
-- museum
-- steak
-- stumble
-- simple
-- audit
-bip_39_word_space_1: sample
-bip_39_word_space_10: sample faith sing child display couch exhibit museum steak stumble
-bip_39_word_space_11: sample faith sing child display couch exhibit museum steak stumble
-  simple
 bip_39_word_space_12: sample faith sing child display couch exhibit museum steak stumble
   simple audit
 bip_39_word_space_2: sample faith
 bip_39_word_space_3: sample faith sing
-bip_39_word_space_4: sample faith sing child
-bip_39_word_space_5: sample faith sing child display
-bip_39_word_space_6: sample faith sing child display couch
-bip_39_word_space_7: sample faith sing child display couch exhibit
-bip_39_word_space_8: sample faith sing child display couch exhibit museum
-bip_39_word_space_9: sample faith sing child display couch exhibit museum steak
-bip_39_word_underscore_1: sample
-bip_39_word_underscore_10: sample_faith_sing_child_display_couch_exhibit_museum_steak_stumble
-bip_39_word_underscore_11: sample_faith_sing_child_display_couch_exhibit_museum_steak_stumble_simple
 bip_39_word_underscore_12: sample_faith_sing_child_display_couch_exhibit_museum_steak_stumble_simple_audit
 bip_39_word_underscore_2: sample_faith
 bip_39_word_underscore_3: sample_faith_sing
-bip_39_word_underscore_4: sample_faith_sing_child
-bip_39_word_underscore_5: sample_faith_sing_child_display
-bip_39_word_underscore_6: sample_faith_sing_child_display_couch
-bip_39_word_underscore_7: sample_faith_sing_child_display_couch_exhibit
-bip_39_word_underscore_8: sample_faith_sing_child_display_couch_exhibit_museum
-bip_39_word_underscore_9: sample_faith_sing_child_display_couch_exhibit_museum_steak
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

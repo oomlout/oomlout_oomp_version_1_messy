@@ -1,68 +1,9 @@
-bip_39_word_dash_1: month
-bip_39_word_dash_10: month-behave-fever-sell-tiger-judge-farm-huge-scissors-sample
-bip_39_word_dash_11: month-behave-fever-sell-tiger-judge-farm-huge-scissors-sample-potato
 bip_39_word_dash_12: month-behave-fever-sell-tiger-judge-farm-huge-scissors-sample-potato-angry
 bip_39_word_dash_2: month-behave
 bip_39_word_dash_3: month-behave-fever
-bip_39_word_dash_4: month-behave-fever-sell
-bip_39_word_dash_5: month-behave-fever-sell-tiger
-bip_39_word_dash_6: month-behave-fever-sell-tiger-judge
-bip_39_word_dash_7: month-behave-fever-sell-tiger-judge-farm
-bip_39_word_dash_8: month-behave-fever-sell-tiger-judge-farm-huge
-bip_39_word_dash_9: month-behave-fever-sell-tiger-judge-farm-huge-scissors
-bip_39_word_new_br_1: month
-bip_39_word_new_br_10: month<br>behave<br>fever<br>sell<br>tiger<br>judge<br>farm<br>huge<br>scissors<br>sample
-bip_39_word_new_br_11: month<br>behave<br>fever<br>sell<br>tiger<br>judge<br>farm<br>huge<br>scissors<br>sample<br>potato
 bip_39_word_new_br_12: month<br>behave<br>fever<br>sell<br>tiger<br>judge<br>farm<br>huge<br>scissors<br>sample<br>potato<br>angry
 bip_39_word_new_br_2: month<br>behave
 bip_39_word_new_br_3: month<br>behave<br>fever
-bip_39_word_new_br_4: month<br>behave<br>fever<br>sell
-bip_39_word_new_br_5: month<br>behave<br>fever<br>sell<br>tiger
-bip_39_word_new_br_6: month<br>behave<br>fever<br>sell<br>tiger<br>judge
-bip_39_word_new_br_7: month<br>behave<br>fever<br>sell<br>tiger<br>judge<br>farm
-bip_39_word_new_br_8: month<br>behave<br>fever<br>sell<br>tiger<br>judge<br>farm<br>huge
-bip_39_word_new_br_9: month<br>behave<br>fever<br>sell<br>tiger<br>judge<br>farm<br>huge<br>scissors
-bip_39_word_new_line_1: month
-bip_39_word_new_line_10: 'month
-
-  behave
-
-  fever
-
-  sell
-
-  tiger
-
-  judge
-
-  farm
-
-  huge
-
-  scissors
-
-  sample'
-bip_39_word_new_line_11: 'month
-
-  behave
-
-  fever
-
-  sell
-
-  tiger
-
-  judge
-
-  farm
-
-  huge
-
-  scissors
-
-  sample
-
-  potato'
 bip_39_word_new_line_12: 'month
 
   behave
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'month
   behave
 
   fever'
-bip_39_word_new_line_4: 'month
-
-  behave
-
-  fever
-
-  sell'
-bip_39_word_new_line_5: 'month
-
-  behave
-
-  fever
-
-  sell
-
-  tiger'
-bip_39_word_new_line_6: 'month
-
-  behave
-
-  fever
-
-  sell
-
-  tiger
-
-  judge'
-bip_39_word_new_line_7: 'month
-
-  behave
-
-  fever
-
-  sell
-
-  tiger
-
-  judge
-
-  farm'
-bip_39_word_new_line_8: 'month
-
-  behave
-
-  fever
-
-  sell
-
-  tiger
-
-  judge
-
-  farm
-
-  huge'
-bip_39_word_new_line_9: 'month
-
-  behave
-
-  fever
-
-  sell
-
-  tiger
-
-  judge
-
-  farm
-
-  huge
-
-  scissors'
-bip_39_word_no_space_1: month
-bip_39_word_no_space_10: monthbehavefeverselltigerjudgefarmhugescissorssample
-bip_39_word_no_space_11: monthbehavefeverselltigerjudgefarmhugescissorssamplepotato
 bip_39_word_no_space_12: monthbehavefeverselltigerjudgefarmhugescissorssamplepotatoangry
 bip_39_word_no_space_2: monthbehave
 bip_39_word_no_space_3: monthbehavefever
-bip_39_word_no_space_4: monthbehavefeversell
-bip_39_word_no_space_5: monthbehavefeverselltiger
-bip_39_word_no_space_6: monthbehavefeverselltigerjudge
-bip_39_word_no_space_7: monthbehavefeverselltigerjudgefarm
-bip_39_word_no_space_8: monthbehavefeverselltigerjudgefarmhuge
-bip_39_word_no_space_9: monthbehavefeverselltigerjudgefarmhugescissors
-bip_39_word_space_0:
-- month
-- behave
-- fever
-- sell
-- tiger
-- judge
-- farm
-- huge
-- scissors
-- sample
-- potato
-- angry
-bip_39_word_space_1: month
-bip_39_word_space_10: month behave fever sell tiger judge farm huge scissors sample
-bip_39_word_space_11: month behave fever sell tiger judge farm huge scissors sample
-  potato
 bip_39_word_space_12: month behave fever sell tiger judge farm huge scissors sample
   potato angry
 bip_39_word_space_2: month behave
 bip_39_word_space_3: month behave fever
-bip_39_word_space_4: month behave fever sell
-bip_39_word_space_5: month behave fever sell tiger
-bip_39_word_space_6: month behave fever sell tiger judge
-bip_39_word_space_7: month behave fever sell tiger judge farm
-bip_39_word_space_8: month behave fever sell tiger judge farm huge
-bip_39_word_space_9: month behave fever sell tiger judge farm huge scissors
-bip_39_word_underscore_1: month
-bip_39_word_underscore_10: month_behave_fever_sell_tiger_judge_farm_huge_scissors_sample
-bip_39_word_underscore_11: month_behave_fever_sell_tiger_judge_farm_huge_scissors_sample_potato
 bip_39_word_underscore_12: month_behave_fever_sell_tiger_judge_farm_huge_scissors_sample_potato_angry
 bip_39_word_underscore_2: month_behave
 bip_39_word_underscore_3: month_behave_fever
-bip_39_word_underscore_4: month_behave_fever_sell
-bip_39_word_underscore_5: month_behave_fever_sell_tiger
-bip_39_word_underscore_6: month_behave_fever_sell_tiger_judge
-bip_39_word_underscore_7: month_behave_fever_sell_tiger_judge_farm
-bip_39_word_underscore_8: month_behave_fever_sell_tiger_judge_farm_huge
-bip_39_word_underscore_9: month_behave_fever_sell_tiger_judge_farm_huge_scissors
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

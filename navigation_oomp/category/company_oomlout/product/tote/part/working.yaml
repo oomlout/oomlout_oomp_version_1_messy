@@ -1,68 +1,9 @@
-bip_39_word_dash_1: video
-bip_39_word_dash_10: video-scheme-peanut-fragile-invest-frost-brain-taste-large-brief
-bip_39_word_dash_11: video-scheme-peanut-fragile-invest-frost-brain-taste-large-brief-merry
 bip_39_word_dash_12: video-scheme-peanut-fragile-invest-frost-brain-taste-large-brief-merry-alcohol
 bip_39_word_dash_2: video-scheme
 bip_39_word_dash_3: video-scheme-peanut
-bip_39_word_dash_4: video-scheme-peanut-fragile
-bip_39_word_dash_5: video-scheme-peanut-fragile-invest
-bip_39_word_dash_6: video-scheme-peanut-fragile-invest-frost
-bip_39_word_dash_7: video-scheme-peanut-fragile-invest-frost-brain
-bip_39_word_dash_8: video-scheme-peanut-fragile-invest-frost-brain-taste
-bip_39_word_dash_9: video-scheme-peanut-fragile-invest-frost-brain-taste-large
-bip_39_word_new_br_1: video
-bip_39_word_new_br_10: video<br>scheme<br>peanut<br>fragile<br>invest<br>frost<br>brain<br>taste<br>large<br>brief
-bip_39_word_new_br_11: video<br>scheme<br>peanut<br>fragile<br>invest<br>frost<br>brain<br>taste<br>large<br>brief<br>merry
 bip_39_word_new_br_12: video<br>scheme<br>peanut<br>fragile<br>invest<br>frost<br>brain<br>taste<br>large<br>brief<br>merry<br>alcohol
 bip_39_word_new_br_2: video<br>scheme
 bip_39_word_new_br_3: video<br>scheme<br>peanut
-bip_39_word_new_br_4: video<br>scheme<br>peanut<br>fragile
-bip_39_word_new_br_5: video<br>scheme<br>peanut<br>fragile<br>invest
-bip_39_word_new_br_6: video<br>scheme<br>peanut<br>fragile<br>invest<br>frost
-bip_39_word_new_br_7: video<br>scheme<br>peanut<br>fragile<br>invest<br>frost<br>brain
-bip_39_word_new_br_8: video<br>scheme<br>peanut<br>fragile<br>invest<br>frost<br>brain<br>taste
-bip_39_word_new_br_9: video<br>scheme<br>peanut<br>fragile<br>invest<br>frost<br>brain<br>taste<br>large
-bip_39_word_new_line_1: video
-bip_39_word_new_line_10: 'video
-
-  scheme
-
-  peanut
-
-  fragile
-
-  invest
-
-  frost
-
-  brain
-
-  taste
-
-  large
-
-  brief'
-bip_39_word_new_line_11: 'video
-
-  scheme
-
-  peanut
-
-  fragile
-
-  invest
-
-  frost
-
-  brain
-
-  taste
-
-  large
-
-  brief
-
-  merry'
 bip_39_word_new_line_12: 'video
 
   scheme
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'video
   scheme
 
   peanut'
-bip_39_word_new_line_4: 'video
-
-  scheme
-
-  peanut
-
-  fragile'
-bip_39_word_new_line_5: 'video
-
-  scheme
-
-  peanut
-
-  fragile
-
-  invest'
-bip_39_word_new_line_6: 'video
-
-  scheme
-
-  peanut
-
-  fragile
-
-  invest
-
-  frost'
-bip_39_word_new_line_7: 'video
-
-  scheme
-
-  peanut
-
-  fragile
-
-  invest
-
-  frost
-
-  brain'
-bip_39_word_new_line_8: 'video
-
-  scheme
-
-  peanut
-
-  fragile
-
-  invest
-
-  frost
-
-  brain
-
-  taste'
-bip_39_word_new_line_9: 'video
-
-  scheme
-
-  peanut
-
-  fragile
-
-  invest
-
-  frost
-
-  brain
-
-  taste
-
-  large'
-bip_39_word_no_space_1: video
-bip_39_word_no_space_10: videoschemepeanutfragileinvestfrostbraintastelargebrief
-bip_39_word_no_space_11: videoschemepeanutfragileinvestfrostbraintastelargebriefmerry
 bip_39_word_no_space_12: videoschemepeanutfragileinvestfrostbraintastelargebriefmerryalcohol
 bip_39_word_no_space_2: videoscheme
 bip_39_word_no_space_3: videoschemepeanut
-bip_39_word_no_space_4: videoschemepeanutfragile
-bip_39_word_no_space_5: videoschemepeanutfragileinvest
-bip_39_word_no_space_6: videoschemepeanutfragileinvestfrost
-bip_39_word_no_space_7: videoschemepeanutfragileinvestfrostbrain
-bip_39_word_no_space_8: videoschemepeanutfragileinvestfrostbraintaste
-bip_39_word_no_space_9: videoschemepeanutfragileinvestfrostbraintastelarge
-bip_39_word_space_0:
-- video
-- scheme
-- peanut
-- fragile
-- invest
-- frost
-- brain
-- taste
-- large
-- brief
-- merry
-- alcohol
-bip_39_word_space_1: video
-bip_39_word_space_10: video scheme peanut fragile invest frost brain taste large brief
-bip_39_word_space_11: video scheme peanut fragile invest frost brain taste large brief
-  merry
 bip_39_word_space_12: video scheme peanut fragile invest frost brain taste large brief
   merry alcohol
 bip_39_word_space_2: video scheme
 bip_39_word_space_3: video scheme peanut
-bip_39_word_space_4: video scheme peanut fragile
-bip_39_word_space_5: video scheme peanut fragile invest
-bip_39_word_space_6: video scheme peanut fragile invest frost
-bip_39_word_space_7: video scheme peanut fragile invest frost brain
-bip_39_word_space_8: video scheme peanut fragile invest frost brain taste
-bip_39_word_space_9: video scheme peanut fragile invest frost brain taste large
-bip_39_word_underscore_1: video
-bip_39_word_underscore_10: video_scheme_peanut_fragile_invest_frost_brain_taste_large_brief
-bip_39_word_underscore_11: video_scheme_peanut_fragile_invest_frost_brain_taste_large_brief_merry
 bip_39_word_underscore_12: video_scheme_peanut_fragile_invest_frost_brain_taste_large_brief_merry_alcohol
 bip_39_word_underscore_2: video_scheme
 bip_39_word_underscore_3: video_scheme_peanut
-bip_39_word_underscore_4: video_scheme_peanut_fragile
-bip_39_word_underscore_5: video_scheme_peanut_fragile_invest
-bip_39_word_underscore_6: video_scheme_peanut_fragile_invest_frost
-bip_39_word_underscore_7: video_scheme_peanut_fragile_invest_frost_brain
-bip_39_word_underscore_8: video_scheme_peanut_fragile_invest_frost_brain_taste
-bip_39_word_underscore_9: video_scheme_peanut_fragile_invest_frost_brain_taste_large
 classification: category
 classification_capital: Category
 classification_first_letter: c

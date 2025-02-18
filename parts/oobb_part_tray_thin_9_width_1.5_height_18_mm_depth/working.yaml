@@ -1,68 +1,9 @@
-bip_39_word_dash_1: loop
-bip_39_word_dash_10: loop-snack-trial-elder-glad-item-wolf-must-change-marriage
-bip_39_word_dash_11: loop-snack-trial-elder-glad-item-wolf-must-change-marriage-lamp
 bip_39_word_dash_12: loop-snack-trial-elder-glad-item-wolf-must-change-marriage-lamp-attack
 bip_39_word_dash_2: loop-snack
 bip_39_word_dash_3: loop-snack-trial
-bip_39_word_dash_4: loop-snack-trial-elder
-bip_39_word_dash_5: loop-snack-trial-elder-glad
-bip_39_word_dash_6: loop-snack-trial-elder-glad-item
-bip_39_word_dash_7: loop-snack-trial-elder-glad-item-wolf
-bip_39_word_dash_8: loop-snack-trial-elder-glad-item-wolf-must
-bip_39_word_dash_9: loop-snack-trial-elder-glad-item-wolf-must-change
-bip_39_word_new_br_1: loop
-bip_39_word_new_br_10: loop<br>snack<br>trial<br>elder<br>glad<br>item<br>wolf<br>must<br>change<br>marriage
-bip_39_word_new_br_11: loop<br>snack<br>trial<br>elder<br>glad<br>item<br>wolf<br>must<br>change<br>marriage<br>lamp
 bip_39_word_new_br_12: loop<br>snack<br>trial<br>elder<br>glad<br>item<br>wolf<br>must<br>change<br>marriage<br>lamp<br>attack
 bip_39_word_new_br_2: loop<br>snack
 bip_39_word_new_br_3: loop<br>snack<br>trial
-bip_39_word_new_br_4: loop<br>snack<br>trial<br>elder
-bip_39_word_new_br_5: loop<br>snack<br>trial<br>elder<br>glad
-bip_39_word_new_br_6: loop<br>snack<br>trial<br>elder<br>glad<br>item
-bip_39_word_new_br_7: loop<br>snack<br>trial<br>elder<br>glad<br>item<br>wolf
-bip_39_word_new_br_8: loop<br>snack<br>trial<br>elder<br>glad<br>item<br>wolf<br>must
-bip_39_word_new_br_9: loop<br>snack<br>trial<br>elder<br>glad<br>item<br>wolf<br>must<br>change
-bip_39_word_new_line_1: loop
-bip_39_word_new_line_10: 'loop
-
-  snack
-
-  trial
-
-  elder
-
-  glad
-
-  item
-
-  wolf
-
-  must
-
-  change
-
-  marriage'
-bip_39_word_new_line_11: 'loop
-
-  snack
-
-  trial
-
-  elder
-
-  glad
-
-  item
-
-  wolf
-
-  must
-
-  change
-
-  marriage
-
-  lamp'
 bip_39_word_new_line_12: 'loop
 
   snack
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'loop
   snack
 
   trial'
-bip_39_word_new_line_4: 'loop
-
-  snack
-
-  trial
-
-  elder'
-bip_39_word_new_line_5: 'loop
-
-  snack
-
-  trial
-
-  elder
-
-  glad'
-bip_39_word_new_line_6: 'loop
-
-  snack
-
-  trial
-
-  elder
-
-  glad
-
-  item'
-bip_39_word_new_line_7: 'loop
-
-  snack
-
-  trial
-
-  elder
-
-  glad
-
-  item
-
-  wolf'
-bip_39_word_new_line_8: 'loop
-
-  snack
-
-  trial
-
-  elder
-
-  glad
-
-  item
-
-  wolf
-
-  must'
-bip_39_word_new_line_9: 'loop
-
-  snack
-
-  trial
-
-  elder
-
-  glad
-
-  item
-
-  wolf
-
-  must
-
-  change'
-bip_39_word_no_space_1: loop
-bip_39_word_no_space_10: loopsnacktrialeldergladitemwolfmustchangemarriage
-bip_39_word_no_space_11: loopsnacktrialeldergladitemwolfmustchangemarriagelamp
 bip_39_word_no_space_12: loopsnacktrialeldergladitemwolfmustchangemarriagelampattack
 bip_39_word_no_space_2: loopsnack
 bip_39_word_no_space_3: loopsnacktrial
-bip_39_word_no_space_4: loopsnacktrialelder
-bip_39_word_no_space_5: loopsnacktrialelderglad
-bip_39_word_no_space_6: loopsnacktrialeldergladitem
-bip_39_word_no_space_7: loopsnacktrialeldergladitemwolf
-bip_39_word_no_space_8: loopsnacktrialeldergladitemwolfmust
-bip_39_word_no_space_9: loopsnacktrialeldergladitemwolfmustchange
-bip_39_word_space_0:
-- loop
-- snack
-- trial
-- elder
-- glad
-- item
-- wolf
-- must
-- change
-- marriage
-- lamp
-- attack
-bip_39_word_space_1: loop
-bip_39_word_space_10: loop snack trial elder glad item wolf must change marriage
-bip_39_word_space_11: loop snack trial elder glad item wolf must change marriage lamp
 bip_39_word_space_12: loop snack trial elder glad item wolf must change marriage lamp
   attack
 bip_39_word_space_2: loop snack
 bip_39_word_space_3: loop snack trial
-bip_39_word_space_4: loop snack trial elder
-bip_39_word_space_5: loop snack trial elder glad
-bip_39_word_space_6: loop snack trial elder glad item
-bip_39_word_space_7: loop snack trial elder glad item wolf
-bip_39_word_space_8: loop snack trial elder glad item wolf must
-bip_39_word_space_9: loop snack trial elder glad item wolf must change
-bip_39_word_underscore_1: loop
-bip_39_word_underscore_10: loop_snack_trial_elder_glad_item_wolf_must_change_marriage
-bip_39_word_underscore_11: loop_snack_trial_elder_glad_item_wolf_must_change_marriage_lamp
 bip_39_word_underscore_12: loop_snack_trial_elder_glad_item_wolf_must_change_marriage_lamp_attack
 bip_39_word_underscore_2: loop_snack
 bip_39_word_underscore_3: loop_snack_trial
-bip_39_word_underscore_4: loop_snack_trial_elder
-bip_39_word_underscore_5: loop_snack_trial_elder_glad
-bip_39_word_underscore_6: loop_snack_trial_elder_glad_item
-bip_39_word_underscore_7: loop_snack_trial_elder_glad_item_wolf
-bip_39_word_underscore_8: loop_snack_trial_elder_glad_item_wolf_must
-bip_39_word_underscore_9: loop_snack_trial_elder_glad_item_wolf_must_change
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

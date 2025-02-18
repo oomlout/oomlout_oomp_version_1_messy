@@ -1,68 +1,9 @@
-bip_39_word_dash_1: phone
-bip_39_word_dash_10: phone-airport-slot-security-wasp-mistake-forest-giraffe-camp-please
-bip_39_word_dash_11: phone-airport-slot-security-wasp-mistake-forest-giraffe-camp-please-stem
 bip_39_word_dash_12: phone-airport-slot-security-wasp-mistake-forest-giraffe-camp-please-stem-arch
 bip_39_word_dash_2: phone-airport
 bip_39_word_dash_3: phone-airport-slot
-bip_39_word_dash_4: phone-airport-slot-security
-bip_39_word_dash_5: phone-airport-slot-security-wasp
-bip_39_word_dash_6: phone-airport-slot-security-wasp-mistake
-bip_39_word_dash_7: phone-airport-slot-security-wasp-mistake-forest
-bip_39_word_dash_8: phone-airport-slot-security-wasp-mistake-forest-giraffe
-bip_39_word_dash_9: phone-airport-slot-security-wasp-mistake-forest-giraffe-camp
-bip_39_word_new_br_1: phone
-bip_39_word_new_br_10: phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe<br>camp<br>please
-bip_39_word_new_br_11: phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe<br>camp<br>please<br>stem
 bip_39_word_new_br_12: phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe<br>camp<br>please<br>stem<br>arch
 bip_39_word_new_br_2: phone<br>airport
 bip_39_word_new_br_3: phone<br>airport<br>slot
-bip_39_word_new_br_4: phone<br>airport<br>slot<br>security
-bip_39_word_new_br_5: phone<br>airport<br>slot<br>security<br>wasp
-bip_39_word_new_br_6: phone<br>airport<br>slot<br>security<br>wasp<br>mistake
-bip_39_word_new_br_7: phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest
-bip_39_word_new_br_8: phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe
-bip_39_word_new_br_9: phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe<br>camp
-bip_39_word_new_line_1: phone
-bip_39_word_new_line_10: 'phone
-
-  airport
-
-  slot
-
-  security
-
-  wasp
-
-  mistake
-
-  forest
-
-  giraffe
-
-  camp
-
-  please'
-bip_39_word_new_line_11: 'phone
-
-  airport
-
-  slot
-
-  security
-
-  wasp
-
-  mistake
-
-  forest
-
-  giraffe
-
-  camp
-
-  please
-
-  stem'
 bip_39_word_new_line_12: 'phone
 
   airport
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'phone
   airport
 
   slot'
-bip_39_word_new_line_4: 'phone
-
-  airport
-
-  slot
-
-  security'
-bip_39_word_new_line_5: 'phone
-
-  airport
-
-  slot
-
-  security
-
-  wasp'
-bip_39_word_new_line_6: 'phone
-
-  airport
-
-  slot
-
-  security
-
-  wasp
-
-  mistake'
-bip_39_word_new_line_7: 'phone
-
-  airport
-
-  slot
-
-  security
-
-  wasp
-
-  mistake
-
-  forest'
-bip_39_word_new_line_8: 'phone
-
-  airport
-
-  slot
-
-  security
-
-  wasp
-
-  mistake
-
-  forest
-
-  giraffe'
-bip_39_word_new_line_9: 'phone
-
-  airport
-
-  slot
-
-  security
-
-  wasp
-
-  mistake
-
-  forest
-
-  giraffe
-
-  camp'
-bip_39_word_no_space_1: phone
-bip_39_word_no_space_10: phoneairportslotsecuritywaspmistakeforestgiraffecampplease
-bip_39_word_no_space_11: phoneairportslotsecuritywaspmistakeforestgiraffecamppleasestem
 bip_39_word_no_space_12: phoneairportslotsecuritywaspmistakeforestgiraffecamppleasestemarch
 bip_39_word_no_space_2: phoneairport
 bip_39_word_no_space_3: phoneairportslot
-bip_39_word_no_space_4: phoneairportslotsecurity
-bip_39_word_no_space_5: phoneairportslotsecuritywasp
-bip_39_word_no_space_6: phoneairportslotsecuritywaspmistake
-bip_39_word_no_space_7: phoneairportslotsecuritywaspmistakeforest
-bip_39_word_no_space_8: phoneairportslotsecuritywaspmistakeforestgiraffe
-bip_39_word_no_space_9: phoneairportslotsecuritywaspmistakeforestgiraffecamp
-bip_39_word_space_0:
-- phone
-- airport
-- slot
-- security
-- wasp
-- mistake
-- forest
-- giraffe
-- camp
-- please
-- stem
-- arch
-bip_39_word_space_1: phone
-bip_39_word_space_10: phone airport slot security wasp mistake forest giraffe camp
-  please
-bip_39_word_space_11: phone airport slot security wasp mistake forest giraffe camp
-  please stem
 bip_39_word_space_12: phone airport slot security wasp mistake forest giraffe camp
   please stem arch
 bip_39_word_space_2: phone airport
 bip_39_word_space_3: phone airport slot
-bip_39_word_space_4: phone airport slot security
-bip_39_word_space_5: phone airport slot security wasp
-bip_39_word_space_6: phone airport slot security wasp mistake
-bip_39_word_space_7: phone airport slot security wasp mistake forest
-bip_39_word_space_8: phone airport slot security wasp mistake forest giraffe
-bip_39_word_space_9: phone airport slot security wasp mistake forest giraffe camp
-bip_39_word_underscore_1: phone
-bip_39_word_underscore_10: phone_airport_slot_security_wasp_mistake_forest_giraffe_camp_please
-bip_39_word_underscore_11: phone_airport_slot_security_wasp_mistake_forest_giraffe_camp_please_stem
 bip_39_word_underscore_12: phone_airport_slot_security_wasp_mistake_forest_giraffe_camp_please_stem_arch
 bip_39_word_underscore_2: phone_airport
 bip_39_word_underscore_3: phone_airport_slot
-bip_39_word_underscore_4: phone_airport_slot_security
-bip_39_word_underscore_5: phone_airport_slot_security_wasp
-bip_39_word_underscore_6: phone_airport_slot_security_wasp_mistake
-bip_39_word_underscore_7: phone_airport_slot_security_wasp_mistake_forest
-bip_39_word_underscore_8: phone_airport_slot_security_wasp_mistake_forest_giraffe
-bip_39_word_underscore_9: phone_airport_slot_security_wasp_mistake_forest_giraffe_camp
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

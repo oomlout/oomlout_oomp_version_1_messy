@@ -1,68 +1,9 @@
-bip_39_word_dash_1: exact
-bip_39_word_dash_10: exact-drop-sea-donor-orbit-scorpion-away-gadget-cave-make
-bip_39_word_dash_11: exact-drop-sea-donor-orbit-scorpion-away-gadget-cave-make-ribbon
 bip_39_word_dash_12: exact-drop-sea-donor-orbit-scorpion-away-gadget-cave-make-ribbon-air
 bip_39_word_dash_2: exact-drop
 bip_39_word_dash_3: exact-drop-sea
-bip_39_word_dash_4: exact-drop-sea-donor
-bip_39_word_dash_5: exact-drop-sea-donor-orbit
-bip_39_word_dash_6: exact-drop-sea-donor-orbit-scorpion
-bip_39_word_dash_7: exact-drop-sea-donor-orbit-scorpion-away
-bip_39_word_dash_8: exact-drop-sea-donor-orbit-scorpion-away-gadget
-bip_39_word_dash_9: exact-drop-sea-donor-orbit-scorpion-away-gadget-cave
-bip_39_word_new_br_1: exact
-bip_39_word_new_br_10: exact<br>drop<br>sea<br>donor<br>orbit<br>scorpion<br>away<br>gadget<br>cave<br>make
-bip_39_word_new_br_11: exact<br>drop<br>sea<br>donor<br>orbit<br>scorpion<br>away<br>gadget<br>cave<br>make<br>ribbon
 bip_39_word_new_br_12: exact<br>drop<br>sea<br>donor<br>orbit<br>scorpion<br>away<br>gadget<br>cave<br>make<br>ribbon<br>air
 bip_39_word_new_br_2: exact<br>drop
 bip_39_word_new_br_3: exact<br>drop<br>sea
-bip_39_word_new_br_4: exact<br>drop<br>sea<br>donor
-bip_39_word_new_br_5: exact<br>drop<br>sea<br>donor<br>orbit
-bip_39_word_new_br_6: exact<br>drop<br>sea<br>donor<br>orbit<br>scorpion
-bip_39_word_new_br_7: exact<br>drop<br>sea<br>donor<br>orbit<br>scorpion<br>away
-bip_39_word_new_br_8: exact<br>drop<br>sea<br>donor<br>orbit<br>scorpion<br>away<br>gadget
-bip_39_word_new_br_9: exact<br>drop<br>sea<br>donor<br>orbit<br>scorpion<br>away<br>gadget<br>cave
-bip_39_word_new_line_1: exact
-bip_39_word_new_line_10: 'exact
-
-  drop
-
-  sea
-
-  donor
-
-  orbit
-
-  scorpion
-
-  away
-
-  gadget
-
-  cave
-
-  make'
-bip_39_word_new_line_11: 'exact
-
-  drop
-
-  sea
-
-  donor
-
-  orbit
-
-  scorpion
-
-  away
-
-  gadget
-
-  cave
-
-  make
-
-  ribbon'
 bip_39_word_new_line_12: 'exact
 
   drop
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'exact
   drop
 
   sea'
-bip_39_word_new_line_4: 'exact
-
-  drop
-
-  sea
-
-  donor'
-bip_39_word_new_line_5: 'exact
-
-  drop
-
-  sea
-
-  donor
-
-  orbit'
-bip_39_word_new_line_6: 'exact
-
-  drop
-
-  sea
-
-  donor
-
-  orbit
-
-  scorpion'
-bip_39_word_new_line_7: 'exact
-
-  drop
-
-  sea
-
-  donor
-
-  orbit
-
-  scorpion
-
-  away'
-bip_39_word_new_line_8: 'exact
-
-  drop
-
-  sea
-
-  donor
-
-  orbit
-
-  scorpion
-
-  away
-
-  gadget'
-bip_39_word_new_line_9: 'exact
-
-  drop
-
-  sea
-
-  donor
-
-  orbit
-
-  scorpion
-
-  away
-
-  gadget
-
-  cave'
-bip_39_word_no_space_1: exact
-bip_39_word_no_space_10: exactdropseadonororbitscorpionawaygadgetcavemake
-bip_39_word_no_space_11: exactdropseadonororbitscorpionawaygadgetcavemakeribbon
 bip_39_word_no_space_12: exactdropseadonororbitscorpionawaygadgetcavemakeribbonair
 bip_39_word_no_space_2: exactdrop
 bip_39_word_no_space_3: exactdropsea
-bip_39_word_no_space_4: exactdropseadonor
-bip_39_word_no_space_5: exactdropseadonororbit
-bip_39_word_no_space_6: exactdropseadonororbitscorpion
-bip_39_word_no_space_7: exactdropseadonororbitscorpionaway
-bip_39_word_no_space_8: exactdropseadonororbitscorpionawaygadget
-bip_39_word_no_space_9: exactdropseadonororbitscorpionawaygadgetcave
-bip_39_word_space_0:
-- exact
-- drop
-- sea
-- donor
-- orbit
-- scorpion
-- away
-- gadget
-- cave
-- make
-- ribbon
-- air
-bip_39_word_space_1: exact
-bip_39_word_space_10: exact drop sea donor orbit scorpion away gadget cave make
-bip_39_word_space_11: exact drop sea donor orbit scorpion away gadget cave make ribbon
 bip_39_word_space_12: exact drop sea donor orbit scorpion away gadget cave make ribbon
   air
 bip_39_word_space_2: exact drop
 bip_39_word_space_3: exact drop sea
-bip_39_word_space_4: exact drop sea donor
-bip_39_word_space_5: exact drop sea donor orbit
-bip_39_word_space_6: exact drop sea donor orbit scorpion
-bip_39_word_space_7: exact drop sea donor orbit scorpion away
-bip_39_word_space_8: exact drop sea donor orbit scorpion away gadget
-bip_39_word_space_9: exact drop sea donor orbit scorpion away gadget cave
-bip_39_word_underscore_1: exact
-bip_39_word_underscore_10: exact_drop_sea_donor_orbit_scorpion_away_gadget_cave_make
-bip_39_word_underscore_11: exact_drop_sea_donor_orbit_scorpion_away_gadget_cave_make_ribbon
 bip_39_word_underscore_12: exact_drop_sea_donor_orbit_scorpion_away_gadget_cave_make_ribbon_air
 bip_39_word_underscore_2: exact_drop
 bip_39_word_underscore_3: exact_drop_sea
-bip_39_word_underscore_4: exact_drop_sea_donor
-bip_39_word_underscore_5: exact_drop_sea_donor_orbit
-bip_39_word_underscore_6: exact_drop_sea_donor_orbit_scorpion
-bip_39_word_underscore_7: exact_drop_sea_donor_orbit_scorpion_away
-bip_39_word_underscore_8: exact_drop_sea_donor_orbit_scorpion_away_gadget
-bip_39_word_underscore_9: exact_drop_sea_donor_orbit_scorpion_away_gadget_cave
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

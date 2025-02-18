@@ -1,68 +1,9 @@
-bip_39_word_dash_1: clock
-bip_39_word_dash_10: clock-found-glass-never-since-split-weasel-auto-vibrant-good
-bip_39_word_dash_11: clock-found-glass-never-since-split-weasel-auto-vibrant-good-hidden
 bip_39_word_dash_12: clock-found-glass-never-since-split-weasel-auto-vibrant-good-hidden-across
 bip_39_word_dash_2: clock-found
 bip_39_word_dash_3: clock-found-glass
-bip_39_word_dash_4: clock-found-glass-never
-bip_39_word_dash_5: clock-found-glass-never-since
-bip_39_word_dash_6: clock-found-glass-never-since-split
-bip_39_word_dash_7: clock-found-glass-never-since-split-weasel
-bip_39_word_dash_8: clock-found-glass-never-since-split-weasel-auto
-bip_39_word_dash_9: clock-found-glass-never-since-split-weasel-auto-vibrant
-bip_39_word_new_br_1: clock
-bip_39_word_new_br_10: clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good
-bip_39_word_new_br_11: clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden
 bip_39_word_new_br_12: clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden<br>across
 bip_39_word_new_br_2: clock<br>found
 bip_39_word_new_br_3: clock<br>found<br>glass
-bip_39_word_new_br_4: clock<br>found<br>glass<br>never
-bip_39_word_new_br_5: clock<br>found<br>glass<br>never<br>since
-bip_39_word_new_br_6: clock<br>found<br>glass<br>never<br>since<br>split
-bip_39_word_new_br_7: clock<br>found<br>glass<br>never<br>since<br>split<br>weasel
-bip_39_word_new_br_8: clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto
-bip_39_word_new_br_9: clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant
-bip_39_word_new_line_1: clock
-bip_39_word_new_line_10: 'clock
-
-  found
-
-  glass
-
-  never
-
-  since
-
-  split
-
-  weasel
-
-  auto
-
-  vibrant
-
-  good'
-bip_39_word_new_line_11: 'clock
-
-  found
-
-  glass
-
-  never
-
-  since
-
-  split
-
-  weasel
-
-  auto
-
-  vibrant
-
-  good
-
-  hidden'
 bip_39_word_new_line_12: 'clock
 
   found
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'clock
   found
 
   glass'
-bip_39_word_new_line_4: 'clock
-
-  found
-
-  glass
-
-  never'
-bip_39_word_new_line_5: 'clock
-
-  found
-
-  glass
-
-  never
-
-  since'
-bip_39_word_new_line_6: 'clock
-
-  found
-
-  glass
-
-  never
-
-  since
-
-  split'
-bip_39_word_new_line_7: 'clock
-
-  found
-
-  glass
-
-  never
-
-  since
-
-  split
-
-  weasel'
-bip_39_word_new_line_8: 'clock
-
-  found
-
-  glass
-
-  never
-
-  since
-
-  split
-
-  weasel
-
-  auto'
-bip_39_word_new_line_9: 'clock
-
-  found
-
-  glass
-
-  never
-
-  since
-
-  split
-
-  weasel
-
-  auto
-
-  vibrant'
-bip_39_word_no_space_1: clock
-bip_39_word_no_space_10: clockfoundglassneversincesplitweaselautovibrantgood
-bip_39_word_no_space_11: clockfoundglassneversincesplitweaselautovibrantgoodhidden
 bip_39_word_no_space_12: clockfoundglassneversincesplitweaselautovibrantgoodhiddenacross
 bip_39_word_no_space_2: clockfound
 bip_39_word_no_space_3: clockfoundglass
-bip_39_word_no_space_4: clockfoundglassnever
-bip_39_word_no_space_5: clockfoundglassneversince
-bip_39_word_no_space_6: clockfoundglassneversincesplit
-bip_39_word_no_space_7: clockfoundglassneversincesplitweasel
-bip_39_word_no_space_8: clockfoundglassneversincesplitweaselauto
-bip_39_word_no_space_9: clockfoundglassneversincesplitweaselautovibrant
-bip_39_word_space_0:
-- clock
-- found
-- glass
-- never
-- since
-- split
-- weasel
-- auto
-- vibrant
-- good
-- hidden
-- across
-bip_39_word_space_1: clock
-bip_39_word_space_10: clock found glass never since split weasel auto vibrant good
-bip_39_word_space_11: clock found glass never since split weasel auto vibrant good
-  hidden
 bip_39_word_space_12: clock found glass never since split weasel auto vibrant good
   hidden across
 bip_39_word_space_2: clock found
 bip_39_word_space_3: clock found glass
-bip_39_word_space_4: clock found glass never
-bip_39_word_space_5: clock found glass never since
-bip_39_word_space_6: clock found glass never since split
-bip_39_word_space_7: clock found glass never since split weasel
-bip_39_word_space_8: clock found glass never since split weasel auto
-bip_39_word_space_9: clock found glass never since split weasel auto vibrant
-bip_39_word_underscore_1: clock
-bip_39_word_underscore_10: clock_found_glass_never_since_split_weasel_auto_vibrant_good
-bip_39_word_underscore_11: clock_found_glass_never_since_split_weasel_auto_vibrant_good_hidden
 bip_39_word_underscore_12: clock_found_glass_never_since_split_weasel_auto_vibrant_good_hidden_across
 bip_39_word_underscore_2: clock_found
 bip_39_word_underscore_3: clock_found_glass
-bip_39_word_underscore_4: clock_found_glass_never
-bip_39_word_underscore_5: clock_found_glass_never_since
-bip_39_word_underscore_6: clock_found_glass_never_since_split
-bip_39_word_underscore_7: clock_found_glass_never_since_split_weasel
-bip_39_word_underscore_8: clock_found_glass_never_since_split_weasel_auto
-bip_39_word_underscore_9: clock_found_glass_never_since_split_weasel_auto_vibrant
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

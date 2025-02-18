@@ -1,68 +1,9 @@
-bip_39_word_dash_1: easy
-bip_39_word_dash_10: easy-head-domain-fine-three-during-cake-normal-ready-filter
-bip_39_word_dash_11: easy-head-domain-fine-three-during-cake-normal-ready-filter-stomach
 bip_39_word_dash_12: easy-head-domain-fine-three-during-cake-normal-ready-filter-stomach-amount
 bip_39_word_dash_2: easy-head
 bip_39_word_dash_3: easy-head-domain
-bip_39_word_dash_4: easy-head-domain-fine
-bip_39_word_dash_5: easy-head-domain-fine-three
-bip_39_word_dash_6: easy-head-domain-fine-three-during
-bip_39_word_dash_7: easy-head-domain-fine-three-during-cake
-bip_39_word_dash_8: easy-head-domain-fine-three-during-cake-normal
-bip_39_word_dash_9: easy-head-domain-fine-three-during-cake-normal-ready
-bip_39_word_new_br_1: easy
-bip_39_word_new_br_10: easy<br>head<br>domain<br>fine<br>three<br>during<br>cake<br>normal<br>ready<br>filter
-bip_39_word_new_br_11: easy<br>head<br>domain<br>fine<br>three<br>during<br>cake<br>normal<br>ready<br>filter<br>stomach
 bip_39_word_new_br_12: easy<br>head<br>domain<br>fine<br>three<br>during<br>cake<br>normal<br>ready<br>filter<br>stomach<br>amount
 bip_39_word_new_br_2: easy<br>head
 bip_39_word_new_br_3: easy<br>head<br>domain
-bip_39_word_new_br_4: easy<br>head<br>domain<br>fine
-bip_39_word_new_br_5: easy<br>head<br>domain<br>fine<br>three
-bip_39_word_new_br_6: easy<br>head<br>domain<br>fine<br>three<br>during
-bip_39_word_new_br_7: easy<br>head<br>domain<br>fine<br>three<br>during<br>cake
-bip_39_word_new_br_8: easy<br>head<br>domain<br>fine<br>three<br>during<br>cake<br>normal
-bip_39_word_new_br_9: easy<br>head<br>domain<br>fine<br>three<br>during<br>cake<br>normal<br>ready
-bip_39_word_new_line_1: easy
-bip_39_word_new_line_10: 'easy
-
-  head
-
-  domain
-
-  fine
-
-  three
-
-  during
-
-  cake
-
-  normal
-
-  ready
-
-  filter'
-bip_39_word_new_line_11: 'easy
-
-  head
-
-  domain
-
-  fine
-
-  three
-
-  during
-
-  cake
-
-  normal
-
-  ready
-
-  filter
-
-  stomach'
 bip_39_word_new_line_12: 'easy
 
   head
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'easy
   head
 
   domain'
-bip_39_word_new_line_4: 'easy
-
-  head
-
-  domain
-
-  fine'
-bip_39_word_new_line_5: 'easy
-
-  head
-
-  domain
-
-  fine
-
-  three'
-bip_39_word_new_line_6: 'easy
-
-  head
-
-  domain
-
-  fine
-
-  three
-
-  during'
-bip_39_word_new_line_7: 'easy
-
-  head
-
-  domain
-
-  fine
-
-  three
-
-  during
-
-  cake'
-bip_39_word_new_line_8: 'easy
-
-  head
-
-  domain
-
-  fine
-
-  three
-
-  during
-
-  cake
-
-  normal'
-bip_39_word_new_line_9: 'easy
-
-  head
-
-  domain
-
-  fine
-
-  three
-
-  during
-
-  cake
-
-  normal
-
-  ready'
-bip_39_word_no_space_1: easy
-bip_39_word_no_space_10: easyheaddomainfinethreeduringcakenormalreadyfilter
-bip_39_word_no_space_11: easyheaddomainfinethreeduringcakenormalreadyfilterstomach
 bip_39_word_no_space_12: easyheaddomainfinethreeduringcakenormalreadyfilterstomachamount
 bip_39_word_no_space_2: easyhead
 bip_39_word_no_space_3: easyheaddomain
-bip_39_word_no_space_4: easyheaddomainfine
-bip_39_word_no_space_5: easyheaddomainfinethree
-bip_39_word_no_space_6: easyheaddomainfinethreeduring
-bip_39_word_no_space_7: easyheaddomainfinethreeduringcake
-bip_39_word_no_space_8: easyheaddomainfinethreeduringcakenormal
-bip_39_word_no_space_9: easyheaddomainfinethreeduringcakenormalready
-bip_39_word_space_0:
-- easy
-- head
-- domain
-- fine
-- three
-- during
-- cake
-- normal
-- ready
-- filter
-- stomach
-- amount
-bip_39_word_space_1: easy
-bip_39_word_space_10: easy head domain fine three during cake normal ready filter
-bip_39_word_space_11: easy head domain fine three during cake normal ready filter
-  stomach
 bip_39_word_space_12: easy head domain fine three during cake normal ready filter
   stomach amount
 bip_39_word_space_2: easy head
 bip_39_word_space_3: easy head domain
-bip_39_word_space_4: easy head domain fine
-bip_39_word_space_5: easy head domain fine three
-bip_39_word_space_6: easy head domain fine three during
-bip_39_word_space_7: easy head domain fine three during cake
-bip_39_word_space_8: easy head domain fine three during cake normal
-bip_39_word_space_9: easy head domain fine three during cake normal ready
-bip_39_word_underscore_1: easy
-bip_39_word_underscore_10: easy_head_domain_fine_three_during_cake_normal_ready_filter
-bip_39_word_underscore_11: easy_head_domain_fine_three_during_cake_normal_ready_filter_stomach
 bip_39_word_underscore_12: easy_head_domain_fine_three_during_cake_normal_ready_filter_stomach_amount
 bip_39_word_underscore_2: easy_head
 bip_39_word_underscore_3: easy_head_domain
-bip_39_word_underscore_4: easy_head_domain_fine
-bip_39_word_underscore_5: easy_head_domain_fine_three
-bip_39_word_underscore_6: easy_head_domain_fine_three_during
-bip_39_word_underscore_7: easy_head_domain_fine_three_during_cake
-bip_39_word_underscore_8: easy_head_domain_fine_three_during_cake_normal
-bip_39_word_underscore_9: easy_head_domain_fine_three_during_cake_normal_ready
 classification: food
 classification_capital: Food
 classification_first_letter: f

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: grid
-bip_39_word_dash_10: grid-figure-curtain-broom-power-during-tell-smart-pretty-crumble
-bip_39_word_dash_11: grid-figure-curtain-broom-power-during-tell-smart-pretty-crumble-airport
 bip_39_word_dash_12: grid-figure-curtain-broom-power-during-tell-smart-pretty-crumble-airport-assume
 bip_39_word_dash_2: grid-figure
 bip_39_word_dash_3: grid-figure-curtain
-bip_39_word_dash_4: grid-figure-curtain-broom
-bip_39_word_dash_5: grid-figure-curtain-broom-power
-bip_39_word_dash_6: grid-figure-curtain-broom-power-during
-bip_39_word_dash_7: grid-figure-curtain-broom-power-during-tell
-bip_39_word_dash_8: grid-figure-curtain-broom-power-during-tell-smart
-bip_39_word_dash_9: grid-figure-curtain-broom-power-during-tell-smart-pretty
-bip_39_word_new_br_1: grid
-bip_39_word_new_br_10: grid<br>figure<br>curtain<br>broom<br>power<br>during<br>tell<br>smart<br>pretty<br>crumble
-bip_39_word_new_br_11: grid<br>figure<br>curtain<br>broom<br>power<br>during<br>tell<br>smart<br>pretty<br>crumble<br>airport
 bip_39_word_new_br_12: grid<br>figure<br>curtain<br>broom<br>power<br>during<br>tell<br>smart<br>pretty<br>crumble<br>airport<br>assume
 bip_39_word_new_br_2: grid<br>figure
 bip_39_word_new_br_3: grid<br>figure<br>curtain
-bip_39_word_new_br_4: grid<br>figure<br>curtain<br>broom
-bip_39_word_new_br_5: grid<br>figure<br>curtain<br>broom<br>power
-bip_39_word_new_br_6: grid<br>figure<br>curtain<br>broom<br>power<br>during
-bip_39_word_new_br_7: grid<br>figure<br>curtain<br>broom<br>power<br>during<br>tell
-bip_39_word_new_br_8: grid<br>figure<br>curtain<br>broom<br>power<br>during<br>tell<br>smart
-bip_39_word_new_br_9: grid<br>figure<br>curtain<br>broom<br>power<br>during<br>tell<br>smart<br>pretty
-bip_39_word_new_line_1: grid
-bip_39_word_new_line_10: 'grid
-
-  figure
-
-  curtain
-
-  broom
-
-  power
-
-  during
-
-  tell
-
-  smart
-
-  pretty
-
-  crumble'
-bip_39_word_new_line_11: 'grid
-
-  figure
-
-  curtain
-
-  broom
-
-  power
-
-  during
-
-  tell
-
-  smart
-
-  pretty
-
-  crumble
-
-  airport'
 bip_39_word_new_line_12: 'grid
 
   figure
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'grid
   figure
 
   curtain'
-bip_39_word_new_line_4: 'grid
-
-  figure
-
-  curtain
-
-  broom'
-bip_39_word_new_line_5: 'grid
-
-  figure
-
-  curtain
-
-  broom
-
-  power'
-bip_39_word_new_line_6: 'grid
-
-  figure
-
-  curtain
-
-  broom
-
-  power
-
-  during'
-bip_39_word_new_line_7: 'grid
-
-  figure
-
-  curtain
-
-  broom
-
-  power
-
-  during
-
-  tell'
-bip_39_word_new_line_8: 'grid
-
-  figure
-
-  curtain
-
-  broom
-
-  power
-
-  during
-
-  tell
-
-  smart'
-bip_39_word_new_line_9: 'grid
-
-  figure
-
-  curtain
-
-  broom
-
-  power
-
-  during
-
-  tell
-
-  smart
-
-  pretty'
-bip_39_word_no_space_1: grid
-bip_39_word_no_space_10: gridfigurecurtainbroompowerduringtellsmartprettycrumble
-bip_39_word_no_space_11: gridfigurecurtainbroompowerduringtellsmartprettycrumbleairport
 bip_39_word_no_space_12: gridfigurecurtainbroompowerduringtellsmartprettycrumbleairportassume
 bip_39_word_no_space_2: gridfigure
 bip_39_word_no_space_3: gridfigurecurtain
-bip_39_word_no_space_4: gridfigurecurtainbroom
-bip_39_word_no_space_5: gridfigurecurtainbroompower
-bip_39_word_no_space_6: gridfigurecurtainbroompowerduring
-bip_39_word_no_space_7: gridfigurecurtainbroompowerduringtell
-bip_39_word_no_space_8: gridfigurecurtainbroompowerduringtellsmart
-bip_39_word_no_space_9: gridfigurecurtainbroompowerduringtellsmartpretty
-bip_39_word_space_0:
-- grid
-- figure
-- curtain
-- broom
-- power
-- during
-- tell
-- smart
-- pretty
-- crumble
-- airport
-- assume
-bip_39_word_space_1: grid
-bip_39_word_space_10: grid figure curtain broom power during tell smart pretty crumble
-bip_39_word_space_11: grid figure curtain broom power during tell smart pretty crumble
-  airport
 bip_39_word_space_12: grid figure curtain broom power during tell smart pretty crumble
   airport assume
 bip_39_word_space_2: grid figure
 bip_39_word_space_3: grid figure curtain
-bip_39_word_space_4: grid figure curtain broom
-bip_39_word_space_5: grid figure curtain broom power
-bip_39_word_space_6: grid figure curtain broom power during
-bip_39_word_space_7: grid figure curtain broom power during tell
-bip_39_word_space_8: grid figure curtain broom power during tell smart
-bip_39_word_space_9: grid figure curtain broom power during tell smart pretty
-bip_39_word_underscore_1: grid
-bip_39_word_underscore_10: grid_figure_curtain_broom_power_during_tell_smart_pretty_crumble
-bip_39_word_underscore_11: grid_figure_curtain_broom_power_during_tell_smart_pretty_crumble_airport
 bip_39_word_underscore_12: grid_figure_curtain_broom_power_during_tell_smart_pretty_crumble_airport_assume
 bip_39_word_underscore_2: grid_figure
 bip_39_word_underscore_3: grid_figure_curtain
-bip_39_word_underscore_4: grid_figure_curtain_broom
-bip_39_word_underscore_5: grid_figure_curtain_broom_power
-bip_39_word_underscore_6: grid_figure_curtain_broom_power_during
-bip_39_word_underscore_7: grid_figure_curtain_broom_power_during_tell
-bip_39_word_underscore_8: grid_figure_curtain_broom_power_during_tell_smart
-bip_39_word_underscore_9: grid_figure_curtain_broom_power_during_tell_smart_pretty
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: age
-bip_39_word_dash_10: age-lumber-carry-outside-lock-radar-give-lock-equip-noodle
-bip_39_word_dash_11: age-lumber-carry-outside-lock-radar-give-lock-equip-noodle-merry
 bip_39_word_dash_12: age-lumber-carry-outside-lock-radar-give-lock-equip-noodle-merry-admit
 bip_39_word_dash_2: age-lumber
 bip_39_word_dash_3: age-lumber-carry
-bip_39_word_dash_4: age-lumber-carry-outside
-bip_39_word_dash_5: age-lumber-carry-outside-lock
-bip_39_word_dash_6: age-lumber-carry-outside-lock-radar
-bip_39_word_dash_7: age-lumber-carry-outside-lock-radar-give
-bip_39_word_dash_8: age-lumber-carry-outside-lock-radar-give-lock
-bip_39_word_dash_9: age-lumber-carry-outside-lock-radar-give-lock-equip
-bip_39_word_new_br_1: age
-bip_39_word_new_br_10: age<br>lumber<br>carry<br>outside<br>lock<br>radar<br>give<br>lock<br>equip<br>noodle
-bip_39_word_new_br_11: age<br>lumber<br>carry<br>outside<br>lock<br>radar<br>give<br>lock<br>equip<br>noodle<br>merry
 bip_39_word_new_br_12: age<br>lumber<br>carry<br>outside<br>lock<br>radar<br>give<br>lock<br>equip<br>noodle<br>merry<br>admit
 bip_39_word_new_br_2: age<br>lumber
 bip_39_word_new_br_3: age<br>lumber<br>carry
-bip_39_word_new_br_4: age<br>lumber<br>carry<br>outside
-bip_39_word_new_br_5: age<br>lumber<br>carry<br>outside<br>lock
-bip_39_word_new_br_6: age<br>lumber<br>carry<br>outside<br>lock<br>radar
-bip_39_word_new_br_7: age<br>lumber<br>carry<br>outside<br>lock<br>radar<br>give
-bip_39_word_new_br_8: age<br>lumber<br>carry<br>outside<br>lock<br>radar<br>give<br>lock
-bip_39_word_new_br_9: age<br>lumber<br>carry<br>outside<br>lock<br>radar<br>give<br>lock<br>equip
-bip_39_word_new_line_1: age
-bip_39_word_new_line_10: 'age
-
-  lumber
-
-  carry
-
-  outside
-
-  lock
-
-  radar
-
-  give
-
-  lock
-
-  equip
-
-  noodle'
-bip_39_word_new_line_11: 'age
-
-  lumber
-
-  carry
-
-  outside
-
-  lock
-
-  radar
-
-  give
-
-  lock
-
-  equip
-
-  noodle
-
-  merry'
 bip_39_word_new_line_12: 'age
 
   lumber
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'age
   lumber
 
   carry'
-bip_39_word_new_line_4: 'age
-
-  lumber
-
-  carry
-
-  outside'
-bip_39_word_new_line_5: 'age
-
-  lumber
-
-  carry
-
-  outside
-
-  lock'
-bip_39_word_new_line_6: 'age
-
-  lumber
-
-  carry
-
-  outside
-
-  lock
-
-  radar'
-bip_39_word_new_line_7: 'age
-
-  lumber
-
-  carry
-
-  outside
-
-  lock
-
-  radar
-
-  give'
-bip_39_word_new_line_8: 'age
-
-  lumber
-
-  carry
-
-  outside
-
-  lock
-
-  radar
-
-  give
-
-  lock'
-bip_39_word_new_line_9: 'age
-
-  lumber
-
-  carry
-
-  outside
-
-  lock
-
-  radar
-
-  give
-
-  lock
-
-  equip'
-bip_39_word_no_space_1: age
-bip_39_word_no_space_10: agelumbercarryoutsidelockradargivelockequipnoodle
-bip_39_word_no_space_11: agelumbercarryoutsidelockradargivelockequipnoodlemerry
 bip_39_word_no_space_12: agelumbercarryoutsidelockradargivelockequipnoodlemerryadmit
 bip_39_word_no_space_2: agelumber
 bip_39_word_no_space_3: agelumbercarry
-bip_39_word_no_space_4: agelumbercarryoutside
-bip_39_word_no_space_5: agelumbercarryoutsidelock
-bip_39_word_no_space_6: agelumbercarryoutsidelockradar
-bip_39_word_no_space_7: agelumbercarryoutsidelockradargive
-bip_39_word_no_space_8: agelumbercarryoutsidelockradargivelock
-bip_39_word_no_space_9: agelumbercarryoutsidelockradargivelockequip
-bip_39_word_space_0:
-- age
-- lumber
-- carry
-- outside
-- lock
-- radar
-- give
-- lock
-- equip
-- noodle
-- merry
-- admit
-bip_39_word_space_1: age
-bip_39_word_space_10: age lumber carry outside lock radar give lock equip noodle
-bip_39_word_space_11: age lumber carry outside lock radar give lock equip noodle merry
 bip_39_word_space_12: age lumber carry outside lock radar give lock equip noodle merry
   admit
 bip_39_word_space_2: age lumber
 bip_39_word_space_3: age lumber carry
-bip_39_word_space_4: age lumber carry outside
-bip_39_word_space_5: age lumber carry outside lock
-bip_39_word_space_6: age lumber carry outside lock radar
-bip_39_word_space_7: age lumber carry outside lock radar give
-bip_39_word_space_8: age lumber carry outside lock radar give lock
-bip_39_word_space_9: age lumber carry outside lock radar give lock equip
-bip_39_word_underscore_1: age
-bip_39_word_underscore_10: age_lumber_carry_outside_lock_radar_give_lock_equip_noodle
-bip_39_word_underscore_11: age_lumber_carry_outside_lock_radar_give_lock_equip_noodle_merry
 bip_39_word_underscore_12: age_lumber_carry_outside_lock_radar_give_lock_equip_noodle_merry_admit
 bip_39_word_underscore_2: age_lumber
 bip_39_word_underscore_3: age_lumber_carry
-bip_39_word_underscore_4: age_lumber_carry_outside
-bip_39_word_underscore_5: age_lumber_carry_outside_lock
-bip_39_word_underscore_6: age_lumber_carry_outside_lock_radar
-bip_39_word_underscore_7: age_lumber_carry_outside_lock_radar_give
-bip_39_word_underscore_8: age_lumber_carry_outside_lock_radar_give_lock
-bip_39_word_underscore_9: age_lumber_carry_outside_lock_radar_give_lock_equip
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

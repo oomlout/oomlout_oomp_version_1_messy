@@ -1,68 +1,9 @@
-bip_39_word_dash_1: short
-bip_39_word_dash_10: short-history-retire-swarm-until-traffic-hedgehog-kite-fatal-earn
-bip_39_word_dash_11: short-history-retire-swarm-until-traffic-hedgehog-kite-fatal-earn-unit
 bip_39_word_dash_12: short-history-retire-swarm-until-traffic-hedgehog-kite-fatal-earn-unit-action
 bip_39_word_dash_2: short-history
 bip_39_word_dash_3: short-history-retire
-bip_39_word_dash_4: short-history-retire-swarm
-bip_39_word_dash_5: short-history-retire-swarm-until
-bip_39_word_dash_6: short-history-retire-swarm-until-traffic
-bip_39_word_dash_7: short-history-retire-swarm-until-traffic-hedgehog
-bip_39_word_dash_8: short-history-retire-swarm-until-traffic-hedgehog-kite
-bip_39_word_dash_9: short-history-retire-swarm-until-traffic-hedgehog-kite-fatal
-bip_39_word_new_br_1: short
-bip_39_word_new_br_10: short<br>history<br>retire<br>swarm<br>until<br>traffic<br>hedgehog<br>kite<br>fatal<br>earn
-bip_39_word_new_br_11: short<br>history<br>retire<br>swarm<br>until<br>traffic<br>hedgehog<br>kite<br>fatal<br>earn<br>unit
 bip_39_word_new_br_12: short<br>history<br>retire<br>swarm<br>until<br>traffic<br>hedgehog<br>kite<br>fatal<br>earn<br>unit<br>action
 bip_39_word_new_br_2: short<br>history
 bip_39_word_new_br_3: short<br>history<br>retire
-bip_39_word_new_br_4: short<br>history<br>retire<br>swarm
-bip_39_word_new_br_5: short<br>history<br>retire<br>swarm<br>until
-bip_39_word_new_br_6: short<br>history<br>retire<br>swarm<br>until<br>traffic
-bip_39_word_new_br_7: short<br>history<br>retire<br>swarm<br>until<br>traffic<br>hedgehog
-bip_39_word_new_br_8: short<br>history<br>retire<br>swarm<br>until<br>traffic<br>hedgehog<br>kite
-bip_39_word_new_br_9: short<br>history<br>retire<br>swarm<br>until<br>traffic<br>hedgehog<br>kite<br>fatal
-bip_39_word_new_line_1: short
-bip_39_word_new_line_10: 'short
-
-  history
-
-  retire
-
-  swarm
-
-  until
-
-  traffic
-
-  hedgehog
-
-  kite
-
-  fatal
-
-  earn'
-bip_39_word_new_line_11: 'short
-
-  history
-
-  retire
-
-  swarm
-
-  until
-
-  traffic
-
-  hedgehog
-
-  kite
-
-  fatal
-
-  earn
-
-  unit'
 bip_39_word_new_line_12: 'short
 
   history
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'short
   history
 
   retire'
-bip_39_word_new_line_4: 'short
-
-  history
-
-  retire
-
-  swarm'
-bip_39_word_new_line_5: 'short
-
-  history
-
-  retire
-
-  swarm
-
-  until'
-bip_39_word_new_line_6: 'short
-
-  history
-
-  retire
-
-  swarm
-
-  until
-
-  traffic'
-bip_39_word_new_line_7: 'short
-
-  history
-
-  retire
-
-  swarm
-
-  until
-
-  traffic
-
-  hedgehog'
-bip_39_word_new_line_8: 'short
-
-  history
-
-  retire
-
-  swarm
-
-  until
-
-  traffic
-
-  hedgehog
-
-  kite'
-bip_39_word_new_line_9: 'short
-
-  history
-
-  retire
-
-  swarm
-
-  until
-
-  traffic
-
-  hedgehog
-
-  kite
-
-  fatal'
-bip_39_word_no_space_1: short
-bip_39_word_no_space_10: shorthistoryretireswarmuntiltraffichedgehogkitefatalearn
-bip_39_word_no_space_11: shorthistoryretireswarmuntiltraffichedgehogkitefatalearnunit
 bip_39_word_no_space_12: shorthistoryretireswarmuntiltraffichedgehogkitefatalearnunitaction
 bip_39_word_no_space_2: shorthistory
 bip_39_word_no_space_3: shorthistoryretire
-bip_39_word_no_space_4: shorthistoryretireswarm
-bip_39_word_no_space_5: shorthistoryretireswarmuntil
-bip_39_word_no_space_6: shorthistoryretireswarmuntiltraffic
-bip_39_word_no_space_7: shorthistoryretireswarmuntiltraffichedgehog
-bip_39_word_no_space_8: shorthistoryretireswarmuntiltraffichedgehogkite
-bip_39_word_no_space_9: shorthistoryretireswarmuntiltraffichedgehogkitefatal
-bip_39_word_space_0:
-- short
-- history
-- retire
-- swarm
-- until
-- traffic
-- hedgehog
-- kite
-- fatal
-- earn
-- unit
-- action
-bip_39_word_space_1: short
-bip_39_word_space_10: short history retire swarm until traffic hedgehog kite fatal
-  earn
-bip_39_word_space_11: short history retire swarm until traffic hedgehog kite fatal
-  earn unit
 bip_39_word_space_12: short history retire swarm until traffic hedgehog kite fatal
   earn unit action
 bip_39_word_space_2: short history
 bip_39_word_space_3: short history retire
-bip_39_word_space_4: short history retire swarm
-bip_39_word_space_5: short history retire swarm until
-bip_39_word_space_6: short history retire swarm until traffic
-bip_39_word_space_7: short history retire swarm until traffic hedgehog
-bip_39_word_space_8: short history retire swarm until traffic hedgehog kite
-bip_39_word_space_9: short history retire swarm until traffic hedgehog kite fatal
-bip_39_word_underscore_1: short
-bip_39_word_underscore_10: short_history_retire_swarm_until_traffic_hedgehog_kite_fatal_earn
-bip_39_word_underscore_11: short_history_retire_swarm_until_traffic_hedgehog_kite_fatal_earn_unit
 bip_39_word_underscore_12: short_history_retire_swarm_until_traffic_hedgehog_kite_fatal_earn_unit_action
 bip_39_word_underscore_2: short_history
 bip_39_word_underscore_3: short_history_retire
-bip_39_word_underscore_4: short_history_retire_swarm
-bip_39_word_underscore_5: short_history_retire_swarm_until
-bip_39_word_underscore_6: short_history_retire_swarm_until_traffic
-bip_39_word_underscore_7: short_history_retire_swarm_until_traffic_hedgehog
-bip_39_word_underscore_8: short_history_retire_swarm_until_traffic_hedgehog_kite
-bip_39_word_underscore_9: short_history_retire_swarm_until_traffic_hedgehog_kite_fatal
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

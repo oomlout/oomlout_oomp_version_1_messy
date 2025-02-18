@@ -1,68 +1,9 @@
-bip_39_word_dash_1: permit
-bip_39_word_dash_10: permit-flip-shallow-cup-charge-chalk-fever-identify-case-silent
-bip_39_word_dash_11: permit-flip-shallow-cup-charge-chalk-fever-identify-case-silent-husband
 bip_39_word_dash_12: permit-flip-shallow-cup-charge-chalk-fever-identify-case-silent-husband-actual
 bip_39_word_dash_2: permit-flip
 bip_39_word_dash_3: permit-flip-shallow
-bip_39_word_dash_4: permit-flip-shallow-cup
-bip_39_word_dash_5: permit-flip-shallow-cup-charge
-bip_39_word_dash_6: permit-flip-shallow-cup-charge-chalk
-bip_39_word_dash_7: permit-flip-shallow-cup-charge-chalk-fever
-bip_39_word_dash_8: permit-flip-shallow-cup-charge-chalk-fever-identify
-bip_39_word_dash_9: permit-flip-shallow-cup-charge-chalk-fever-identify-case
-bip_39_word_new_br_1: permit
-bip_39_word_new_br_10: permit<br>flip<br>shallow<br>cup<br>charge<br>chalk<br>fever<br>identify<br>case<br>silent
-bip_39_word_new_br_11: permit<br>flip<br>shallow<br>cup<br>charge<br>chalk<br>fever<br>identify<br>case<br>silent<br>husband
 bip_39_word_new_br_12: permit<br>flip<br>shallow<br>cup<br>charge<br>chalk<br>fever<br>identify<br>case<br>silent<br>husband<br>actual
 bip_39_word_new_br_2: permit<br>flip
 bip_39_word_new_br_3: permit<br>flip<br>shallow
-bip_39_word_new_br_4: permit<br>flip<br>shallow<br>cup
-bip_39_word_new_br_5: permit<br>flip<br>shallow<br>cup<br>charge
-bip_39_word_new_br_6: permit<br>flip<br>shallow<br>cup<br>charge<br>chalk
-bip_39_word_new_br_7: permit<br>flip<br>shallow<br>cup<br>charge<br>chalk<br>fever
-bip_39_word_new_br_8: permit<br>flip<br>shallow<br>cup<br>charge<br>chalk<br>fever<br>identify
-bip_39_word_new_br_9: permit<br>flip<br>shallow<br>cup<br>charge<br>chalk<br>fever<br>identify<br>case
-bip_39_word_new_line_1: permit
-bip_39_word_new_line_10: 'permit
-
-  flip
-
-  shallow
-
-  cup
-
-  charge
-
-  chalk
-
-  fever
-
-  identify
-
-  case
-
-  silent'
-bip_39_word_new_line_11: 'permit
-
-  flip
-
-  shallow
-
-  cup
-
-  charge
-
-  chalk
-
-  fever
-
-  identify
-
-  case
-
-  silent
-
-  husband'
 bip_39_word_new_line_12: 'permit
 
   flip
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'permit
   flip
 
   shallow'
-bip_39_word_new_line_4: 'permit
-
-  flip
-
-  shallow
-
-  cup'
-bip_39_word_new_line_5: 'permit
-
-  flip
-
-  shallow
-
-  cup
-
-  charge'
-bip_39_word_new_line_6: 'permit
-
-  flip
-
-  shallow
-
-  cup
-
-  charge
-
-  chalk'
-bip_39_word_new_line_7: 'permit
-
-  flip
-
-  shallow
-
-  cup
-
-  charge
-
-  chalk
-
-  fever'
-bip_39_word_new_line_8: 'permit
-
-  flip
-
-  shallow
-
-  cup
-
-  charge
-
-  chalk
-
-  fever
-
-  identify'
-bip_39_word_new_line_9: 'permit
-
-  flip
-
-  shallow
-
-  cup
-
-  charge
-
-  chalk
-
-  fever
-
-  identify
-
-  case'
-bip_39_word_no_space_1: permit
-bip_39_word_no_space_10: permitflipshallowcupchargechalkfeveridentifycasesilent
-bip_39_word_no_space_11: permitflipshallowcupchargechalkfeveridentifycasesilenthusband
 bip_39_word_no_space_12: permitflipshallowcupchargechalkfeveridentifycasesilenthusbandactual
 bip_39_word_no_space_2: permitflip
 bip_39_word_no_space_3: permitflipshallow
-bip_39_word_no_space_4: permitflipshallowcup
-bip_39_word_no_space_5: permitflipshallowcupcharge
-bip_39_word_no_space_6: permitflipshallowcupchargechalk
-bip_39_word_no_space_7: permitflipshallowcupchargechalkfever
-bip_39_word_no_space_8: permitflipshallowcupchargechalkfeveridentify
-bip_39_word_no_space_9: permitflipshallowcupchargechalkfeveridentifycase
-bip_39_word_space_0:
-- permit
-- flip
-- shallow
-- cup
-- charge
-- chalk
-- fever
-- identify
-- case
-- silent
-- husband
-- actual
-bip_39_word_space_1: permit
-bip_39_word_space_10: permit flip shallow cup charge chalk fever identify case silent
-bip_39_word_space_11: permit flip shallow cup charge chalk fever identify case silent
-  husband
 bip_39_word_space_12: permit flip shallow cup charge chalk fever identify case silent
   husband actual
 bip_39_word_space_2: permit flip
 bip_39_word_space_3: permit flip shallow
-bip_39_word_space_4: permit flip shallow cup
-bip_39_word_space_5: permit flip shallow cup charge
-bip_39_word_space_6: permit flip shallow cup charge chalk
-bip_39_word_space_7: permit flip shallow cup charge chalk fever
-bip_39_word_space_8: permit flip shallow cup charge chalk fever identify
-bip_39_word_space_9: permit flip shallow cup charge chalk fever identify case
-bip_39_word_underscore_1: permit
-bip_39_word_underscore_10: permit_flip_shallow_cup_charge_chalk_fever_identify_case_silent
-bip_39_word_underscore_11: permit_flip_shallow_cup_charge_chalk_fever_identify_case_silent_husband
 bip_39_word_underscore_12: permit_flip_shallow_cup_charge_chalk_fever_identify_case_silent_husband_actual
 bip_39_word_underscore_2: permit_flip
 bip_39_word_underscore_3: permit_flip_shallow
-bip_39_word_underscore_4: permit_flip_shallow_cup
-bip_39_word_underscore_5: permit_flip_shallow_cup_charge
-bip_39_word_underscore_6: permit_flip_shallow_cup_charge_chalk
-bip_39_word_underscore_7: permit_flip_shallow_cup_charge_chalk_fever
-bip_39_word_underscore_8: permit_flip_shallow_cup_charge_chalk_fever_identify
-bip_39_word_underscore_9: permit_flip_shallow_cup_charge_chalk_fever_identify_case
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

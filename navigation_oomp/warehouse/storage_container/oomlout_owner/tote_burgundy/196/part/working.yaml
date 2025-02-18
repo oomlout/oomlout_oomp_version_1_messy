@@ -1,68 +1,9 @@
-bip_39_word_dash_1: damage
-bip_39_word_dash_10: damage-pipe-limb-mesh-crater-someone-buzz-kite-another-virus
-bip_39_word_dash_11: damage-pipe-limb-mesh-crater-someone-buzz-kite-another-virus-what
 bip_39_word_dash_12: damage-pipe-limb-mesh-crater-someone-buzz-kite-another-virus-what-august
 bip_39_word_dash_2: damage-pipe
 bip_39_word_dash_3: damage-pipe-limb
-bip_39_word_dash_4: damage-pipe-limb-mesh
-bip_39_word_dash_5: damage-pipe-limb-mesh-crater
-bip_39_word_dash_6: damage-pipe-limb-mesh-crater-someone
-bip_39_word_dash_7: damage-pipe-limb-mesh-crater-someone-buzz
-bip_39_word_dash_8: damage-pipe-limb-mesh-crater-someone-buzz-kite
-bip_39_word_dash_9: damage-pipe-limb-mesh-crater-someone-buzz-kite-another
-bip_39_word_new_br_1: damage
-bip_39_word_new_br_10: damage<br>pipe<br>limb<br>mesh<br>crater<br>someone<br>buzz<br>kite<br>another<br>virus
-bip_39_word_new_br_11: damage<br>pipe<br>limb<br>mesh<br>crater<br>someone<br>buzz<br>kite<br>another<br>virus<br>what
 bip_39_word_new_br_12: damage<br>pipe<br>limb<br>mesh<br>crater<br>someone<br>buzz<br>kite<br>another<br>virus<br>what<br>august
 bip_39_word_new_br_2: damage<br>pipe
 bip_39_word_new_br_3: damage<br>pipe<br>limb
-bip_39_word_new_br_4: damage<br>pipe<br>limb<br>mesh
-bip_39_word_new_br_5: damage<br>pipe<br>limb<br>mesh<br>crater
-bip_39_word_new_br_6: damage<br>pipe<br>limb<br>mesh<br>crater<br>someone
-bip_39_word_new_br_7: damage<br>pipe<br>limb<br>mesh<br>crater<br>someone<br>buzz
-bip_39_word_new_br_8: damage<br>pipe<br>limb<br>mesh<br>crater<br>someone<br>buzz<br>kite
-bip_39_word_new_br_9: damage<br>pipe<br>limb<br>mesh<br>crater<br>someone<br>buzz<br>kite<br>another
-bip_39_word_new_line_1: damage
-bip_39_word_new_line_10: 'damage
-
-  pipe
-
-  limb
-
-  mesh
-
-  crater
-
-  someone
-
-  buzz
-
-  kite
-
-  another
-
-  virus'
-bip_39_word_new_line_11: 'damage
-
-  pipe
-
-  limb
-
-  mesh
-
-  crater
-
-  someone
-
-  buzz
-
-  kite
-
-  another
-
-  virus
-
-  what'
 bip_39_word_new_line_12: 'damage
 
   pipe
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'damage
   pipe
 
   limb'
-bip_39_word_new_line_4: 'damage
-
-  pipe
-
-  limb
-
-  mesh'
-bip_39_word_new_line_5: 'damage
-
-  pipe
-
-  limb
-
-  mesh
-
-  crater'
-bip_39_word_new_line_6: 'damage
-
-  pipe
-
-  limb
-
-  mesh
-
-  crater
-
-  someone'
-bip_39_word_new_line_7: 'damage
-
-  pipe
-
-  limb
-
-  mesh
-
-  crater
-
-  someone
-
-  buzz'
-bip_39_word_new_line_8: 'damage
-
-  pipe
-
-  limb
-
-  mesh
-
-  crater
-
-  someone
-
-  buzz
-
-  kite'
-bip_39_word_new_line_9: 'damage
-
-  pipe
-
-  limb
-
-  mesh
-
-  crater
-
-  someone
-
-  buzz
-
-  kite
-
-  another'
-bip_39_word_no_space_1: damage
-bip_39_word_no_space_10: damagepipelimbmeshcratersomeonebuzzkiteanothervirus
-bip_39_word_no_space_11: damagepipelimbmeshcratersomeonebuzzkiteanotherviruswhat
 bip_39_word_no_space_12: damagepipelimbmeshcratersomeonebuzzkiteanotherviruswhataugust
 bip_39_word_no_space_2: damagepipe
 bip_39_word_no_space_3: damagepipelimb
-bip_39_word_no_space_4: damagepipelimbmesh
-bip_39_word_no_space_5: damagepipelimbmeshcrater
-bip_39_word_no_space_6: damagepipelimbmeshcratersomeone
-bip_39_word_no_space_7: damagepipelimbmeshcratersomeonebuzz
-bip_39_word_no_space_8: damagepipelimbmeshcratersomeonebuzzkite
-bip_39_word_no_space_9: damagepipelimbmeshcratersomeonebuzzkiteanother
-bip_39_word_space_0:
-- damage
-- pipe
-- limb
-- mesh
-- crater
-- someone
-- buzz
-- kite
-- another
-- virus
-- what
-- august
-bip_39_word_space_1: damage
-bip_39_word_space_10: damage pipe limb mesh crater someone buzz kite another virus
-bip_39_word_space_11: damage pipe limb mesh crater someone buzz kite another virus
-  what
 bip_39_word_space_12: damage pipe limb mesh crater someone buzz kite another virus
   what august
 bip_39_word_space_2: damage pipe
 bip_39_word_space_3: damage pipe limb
-bip_39_word_space_4: damage pipe limb mesh
-bip_39_word_space_5: damage pipe limb mesh crater
-bip_39_word_space_6: damage pipe limb mesh crater someone
-bip_39_word_space_7: damage pipe limb mesh crater someone buzz
-bip_39_word_space_8: damage pipe limb mesh crater someone buzz kite
-bip_39_word_space_9: damage pipe limb mesh crater someone buzz kite another
-bip_39_word_underscore_1: damage
-bip_39_word_underscore_10: damage_pipe_limb_mesh_crater_someone_buzz_kite_another_virus
-bip_39_word_underscore_11: damage_pipe_limb_mesh_crater_someone_buzz_kite_another_virus_what
 bip_39_word_underscore_12: damage_pipe_limb_mesh_crater_someone_buzz_kite_another_virus_what_august
 bip_39_word_underscore_2: damage_pipe
 bip_39_word_underscore_3: damage_pipe_limb
-bip_39_word_underscore_4: damage_pipe_limb_mesh
-bip_39_word_underscore_5: damage_pipe_limb_mesh_crater
-bip_39_word_underscore_6: damage_pipe_limb_mesh_crater_someone
-bip_39_word_underscore_7: damage_pipe_limb_mesh_crater_someone_buzz
-bip_39_word_underscore_8: damage_pipe_limb_mesh_crater_someone_buzz_kite
-bip_39_word_underscore_9: damage_pipe_limb_mesh_crater_someone_buzz_kite_another
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

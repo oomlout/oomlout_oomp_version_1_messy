@@ -1,68 +1,9 @@
-bip_39_word_dash_1: feed
-bip_39_word_dash_10: feed-pact-behave-visit-able-exact-grief-embark-vapor-lava
-bip_39_word_dash_11: feed-pact-behave-visit-able-exact-grief-embark-vapor-lava-common
 bip_39_word_dash_12: feed-pact-behave-visit-able-exact-grief-embark-vapor-lava-common-arrange
 bip_39_word_dash_2: feed-pact
 bip_39_word_dash_3: feed-pact-behave
-bip_39_word_dash_4: feed-pact-behave-visit
-bip_39_word_dash_5: feed-pact-behave-visit-able
-bip_39_word_dash_6: feed-pact-behave-visit-able-exact
-bip_39_word_dash_7: feed-pact-behave-visit-able-exact-grief
-bip_39_word_dash_8: feed-pact-behave-visit-able-exact-grief-embark
-bip_39_word_dash_9: feed-pact-behave-visit-able-exact-grief-embark-vapor
-bip_39_word_new_br_1: feed
-bip_39_word_new_br_10: feed<br>pact<br>behave<br>visit<br>able<br>exact<br>grief<br>embark<br>vapor<br>lava
-bip_39_word_new_br_11: feed<br>pact<br>behave<br>visit<br>able<br>exact<br>grief<br>embark<br>vapor<br>lava<br>common
 bip_39_word_new_br_12: feed<br>pact<br>behave<br>visit<br>able<br>exact<br>grief<br>embark<br>vapor<br>lava<br>common<br>arrange
 bip_39_word_new_br_2: feed<br>pact
 bip_39_word_new_br_3: feed<br>pact<br>behave
-bip_39_word_new_br_4: feed<br>pact<br>behave<br>visit
-bip_39_word_new_br_5: feed<br>pact<br>behave<br>visit<br>able
-bip_39_word_new_br_6: feed<br>pact<br>behave<br>visit<br>able<br>exact
-bip_39_word_new_br_7: feed<br>pact<br>behave<br>visit<br>able<br>exact<br>grief
-bip_39_word_new_br_8: feed<br>pact<br>behave<br>visit<br>able<br>exact<br>grief<br>embark
-bip_39_word_new_br_9: feed<br>pact<br>behave<br>visit<br>able<br>exact<br>grief<br>embark<br>vapor
-bip_39_word_new_line_1: feed
-bip_39_word_new_line_10: 'feed
-
-  pact
-
-  behave
-
-  visit
-
-  able
-
-  exact
-
-  grief
-
-  embark
-
-  vapor
-
-  lava'
-bip_39_word_new_line_11: 'feed
-
-  pact
-
-  behave
-
-  visit
-
-  able
-
-  exact
-
-  grief
-
-  embark
-
-  vapor
-
-  lava
-
-  common'
 bip_39_word_new_line_12: 'feed
 
   pact
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'feed
   pact
 
   behave'
-bip_39_word_new_line_4: 'feed
-
-  pact
-
-  behave
-
-  visit'
-bip_39_word_new_line_5: 'feed
-
-  pact
-
-  behave
-
-  visit
-
-  able'
-bip_39_word_new_line_6: 'feed
-
-  pact
-
-  behave
-
-  visit
-
-  able
-
-  exact'
-bip_39_word_new_line_7: 'feed
-
-  pact
-
-  behave
-
-  visit
-
-  able
-
-  exact
-
-  grief'
-bip_39_word_new_line_8: 'feed
-
-  pact
-
-  behave
-
-  visit
-
-  able
-
-  exact
-
-  grief
-
-  embark'
-bip_39_word_new_line_9: 'feed
-
-  pact
-
-  behave
-
-  visit
-
-  able
-
-  exact
-
-  grief
-
-  embark
-
-  vapor'
-bip_39_word_no_space_1: feed
-bip_39_word_no_space_10: feedpactbehavevisitableexactgriefembarkvaporlava
-bip_39_word_no_space_11: feedpactbehavevisitableexactgriefembarkvaporlavacommon
 bip_39_word_no_space_12: feedpactbehavevisitableexactgriefembarkvaporlavacommonarrange
 bip_39_word_no_space_2: feedpact
 bip_39_word_no_space_3: feedpactbehave
-bip_39_word_no_space_4: feedpactbehavevisit
-bip_39_word_no_space_5: feedpactbehavevisitable
-bip_39_word_no_space_6: feedpactbehavevisitableexact
-bip_39_word_no_space_7: feedpactbehavevisitableexactgrief
-bip_39_word_no_space_8: feedpactbehavevisitableexactgriefembark
-bip_39_word_no_space_9: feedpactbehavevisitableexactgriefembarkvapor
-bip_39_word_space_0:
-- feed
-- pact
-- behave
-- visit
-- able
-- exact
-- grief
-- embark
-- vapor
-- lava
-- common
-- arrange
-bip_39_word_space_1: feed
-bip_39_word_space_10: feed pact behave visit able exact grief embark vapor lava
-bip_39_word_space_11: feed pact behave visit able exact grief embark vapor lava common
 bip_39_word_space_12: feed pact behave visit able exact grief embark vapor lava common
   arrange
 bip_39_word_space_2: feed pact
 bip_39_word_space_3: feed pact behave
-bip_39_word_space_4: feed pact behave visit
-bip_39_word_space_5: feed pact behave visit able
-bip_39_word_space_6: feed pact behave visit able exact
-bip_39_word_space_7: feed pact behave visit able exact grief
-bip_39_word_space_8: feed pact behave visit able exact grief embark
-bip_39_word_space_9: feed pact behave visit able exact grief embark vapor
-bip_39_word_underscore_1: feed
-bip_39_word_underscore_10: feed_pact_behave_visit_able_exact_grief_embark_vapor_lava
-bip_39_word_underscore_11: feed_pact_behave_visit_able_exact_grief_embark_vapor_lava_common
 bip_39_word_underscore_12: feed_pact_behave_visit_able_exact_grief_embark_vapor_lava_common_arrange
 bip_39_word_underscore_2: feed_pact
 bip_39_word_underscore_3: feed_pact_behave
-bip_39_word_underscore_4: feed_pact_behave_visit
-bip_39_word_underscore_5: feed_pact_behave_visit_able
-bip_39_word_underscore_6: feed_pact_behave_visit_able_exact
-bip_39_word_underscore_7: feed_pact_behave_visit_able_exact_grief
-bip_39_word_underscore_8: feed_pact_behave_visit_able_exact_grief_embark
-bip_39_word_underscore_9: feed_pact_behave_visit_able_exact_grief_embark_vapor
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

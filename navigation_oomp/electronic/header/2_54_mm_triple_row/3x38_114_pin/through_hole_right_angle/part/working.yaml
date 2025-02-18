@@ -1,68 +1,9 @@
-bip_39_word_dash_1: pilot
-bip_39_word_dash_10: pilot-walk-test-slot-just-allow-butter-aspect-fruit-vote
-bip_39_word_dash_11: pilot-walk-test-slot-just-allow-butter-aspect-fruit-vote-want
 bip_39_word_dash_12: pilot-walk-test-slot-just-allow-butter-aspect-fruit-vote-want-any
 bip_39_word_dash_2: pilot-walk
 bip_39_word_dash_3: pilot-walk-test
-bip_39_word_dash_4: pilot-walk-test-slot
-bip_39_word_dash_5: pilot-walk-test-slot-just
-bip_39_word_dash_6: pilot-walk-test-slot-just-allow
-bip_39_word_dash_7: pilot-walk-test-slot-just-allow-butter
-bip_39_word_dash_8: pilot-walk-test-slot-just-allow-butter-aspect
-bip_39_word_dash_9: pilot-walk-test-slot-just-allow-butter-aspect-fruit
-bip_39_word_new_br_1: pilot
-bip_39_word_new_br_10: pilot<br>walk<br>test<br>slot<br>just<br>allow<br>butter<br>aspect<br>fruit<br>vote
-bip_39_word_new_br_11: pilot<br>walk<br>test<br>slot<br>just<br>allow<br>butter<br>aspect<br>fruit<br>vote<br>want
 bip_39_word_new_br_12: pilot<br>walk<br>test<br>slot<br>just<br>allow<br>butter<br>aspect<br>fruit<br>vote<br>want<br>any
 bip_39_word_new_br_2: pilot<br>walk
 bip_39_word_new_br_3: pilot<br>walk<br>test
-bip_39_word_new_br_4: pilot<br>walk<br>test<br>slot
-bip_39_word_new_br_5: pilot<br>walk<br>test<br>slot<br>just
-bip_39_word_new_br_6: pilot<br>walk<br>test<br>slot<br>just<br>allow
-bip_39_word_new_br_7: pilot<br>walk<br>test<br>slot<br>just<br>allow<br>butter
-bip_39_word_new_br_8: pilot<br>walk<br>test<br>slot<br>just<br>allow<br>butter<br>aspect
-bip_39_word_new_br_9: pilot<br>walk<br>test<br>slot<br>just<br>allow<br>butter<br>aspect<br>fruit
-bip_39_word_new_line_1: pilot
-bip_39_word_new_line_10: 'pilot
-
-  walk
-
-  test
-
-  slot
-
-  just
-
-  allow
-
-  butter
-
-  aspect
-
-  fruit
-
-  vote'
-bip_39_word_new_line_11: 'pilot
-
-  walk
-
-  test
-
-  slot
-
-  just
-
-  allow
-
-  butter
-
-  aspect
-
-  fruit
-
-  vote
-
-  want'
 bip_39_word_new_line_12: 'pilot
 
   walk
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'pilot
   walk
 
   test'
-bip_39_word_new_line_4: 'pilot
-
-  walk
-
-  test
-
-  slot'
-bip_39_word_new_line_5: 'pilot
-
-  walk
-
-  test
-
-  slot
-
-  just'
-bip_39_word_new_line_6: 'pilot
-
-  walk
-
-  test
-
-  slot
-
-  just
-
-  allow'
-bip_39_word_new_line_7: 'pilot
-
-  walk
-
-  test
-
-  slot
-
-  just
-
-  allow
-
-  butter'
-bip_39_word_new_line_8: 'pilot
-
-  walk
-
-  test
-
-  slot
-
-  just
-
-  allow
-
-  butter
-
-  aspect'
-bip_39_word_new_line_9: 'pilot
-
-  walk
-
-  test
-
-  slot
-
-  just
-
-  allow
-
-  butter
-
-  aspect
-
-  fruit'
-bip_39_word_no_space_1: pilot
-bip_39_word_no_space_10: pilotwalktestslotjustallowbutteraspectfruitvote
-bip_39_word_no_space_11: pilotwalktestslotjustallowbutteraspectfruitvotewant
 bip_39_word_no_space_12: pilotwalktestslotjustallowbutteraspectfruitvotewantany
 bip_39_word_no_space_2: pilotwalk
 bip_39_word_no_space_3: pilotwalktest
-bip_39_word_no_space_4: pilotwalktestslot
-bip_39_word_no_space_5: pilotwalktestslotjust
-bip_39_word_no_space_6: pilotwalktestslotjustallow
-bip_39_word_no_space_7: pilotwalktestslotjustallowbutter
-bip_39_word_no_space_8: pilotwalktestslotjustallowbutteraspect
-bip_39_word_no_space_9: pilotwalktestslotjustallowbutteraspectfruit
-bip_39_word_space_0:
-- pilot
-- walk
-- test
-- slot
-- just
-- allow
-- butter
-- aspect
-- fruit
-- vote
-- want
-- any
-bip_39_word_space_1: pilot
-bip_39_word_space_10: pilot walk test slot just allow butter aspect fruit vote
-bip_39_word_space_11: pilot walk test slot just allow butter aspect fruit vote want
 bip_39_word_space_12: pilot walk test slot just allow butter aspect fruit vote want
   any
 bip_39_word_space_2: pilot walk
 bip_39_word_space_3: pilot walk test
-bip_39_word_space_4: pilot walk test slot
-bip_39_word_space_5: pilot walk test slot just
-bip_39_word_space_6: pilot walk test slot just allow
-bip_39_word_space_7: pilot walk test slot just allow butter
-bip_39_word_space_8: pilot walk test slot just allow butter aspect
-bip_39_word_space_9: pilot walk test slot just allow butter aspect fruit
-bip_39_word_underscore_1: pilot
-bip_39_word_underscore_10: pilot_walk_test_slot_just_allow_butter_aspect_fruit_vote
-bip_39_word_underscore_11: pilot_walk_test_slot_just_allow_butter_aspect_fruit_vote_want
 bip_39_word_underscore_12: pilot_walk_test_slot_just_allow_butter_aspect_fruit_vote_want_any
 bip_39_word_underscore_2: pilot_walk
 bip_39_word_underscore_3: pilot_walk_test
-bip_39_word_underscore_4: pilot_walk_test_slot
-bip_39_word_underscore_5: pilot_walk_test_slot_just
-bip_39_word_underscore_6: pilot_walk_test_slot_just_allow
-bip_39_word_underscore_7: pilot_walk_test_slot_just_allow_butter
-bip_39_word_underscore_8: pilot_walk_test_slot_just_allow_butter_aspect
-bip_39_word_underscore_9: pilot_walk_test_slot_just_allow_butter_aspect_fruit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: primary
-bip_39_word_dash_10: primary-morning-wheat-elder-depart-chef-team-shiver-uphold-high
-bip_39_word_dash_11: primary-morning-wheat-elder-depart-chef-team-shiver-uphold-high-enter
 bip_39_word_dash_12: primary-morning-wheat-elder-depart-chef-team-shiver-uphold-high-enter-atom
 bip_39_word_dash_2: primary-morning
 bip_39_word_dash_3: primary-morning-wheat
-bip_39_word_dash_4: primary-morning-wheat-elder
-bip_39_word_dash_5: primary-morning-wheat-elder-depart
-bip_39_word_dash_6: primary-morning-wheat-elder-depart-chef
-bip_39_word_dash_7: primary-morning-wheat-elder-depart-chef-team
-bip_39_word_dash_8: primary-morning-wheat-elder-depart-chef-team-shiver
-bip_39_word_dash_9: primary-morning-wheat-elder-depart-chef-team-shiver-uphold
-bip_39_word_new_br_1: primary
-bip_39_word_new_br_10: primary<br>morning<br>wheat<br>elder<br>depart<br>chef<br>team<br>shiver<br>uphold<br>high
-bip_39_word_new_br_11: primary<br>morning<br>wheat<br>elder<br>depart<br>chef<br>team<br>shiver<br>uphold<br>high<br>enter
 bip_39_word_new_br_12: primary<br>morning<br>wheat<br>elder<br>depart<br>chef<br>team<br>shiver<br>uphold<br>high<br>enter<br>atom
 bip_39_word_new_br_2: primary<br>morning
 bip_39_word_new_br_3: primary<br>morning<br>wheat
-bip_39_word_new_br_4: primary<br>morning<br>wheat<br>elder
-bip_39_word_new_br_5: primary<br>morning<br>wheat<br>elder<br>depart
-bip_39_word_new_br_6: primary<br>morning<br>wheat<br>elder<br>depart<br>chef
-bip_39_word_new_br_7: primary<br>morning<br>wheat<br>elder<br>depart<br>chef<br>team
-bip_39_word_new_br_8: primary<br>morning<br>wheat<br>elder<br>depart<br>chef<br>team<br>shiver
-bip_39_word_new_br_9: primary<br>morning<br>wheat<br>elder<br>depart<br>chef<br>team<br>shiver<br>uphold
-bip_39_word_new_line_1: primary
-bip_39_word_new_line_10: 'primary
-
-  morning
-
-  wheat
-
-  elder
-
-  depart
-
-  chef
-
-  team
-
-  shiver
-
-  uphold
-
-  high'
-bip_39_word_new_line_11: 'primary
-
-  morning
-
-  wheat
-
-  elder
-
-  depart
-
-  chef
-
-  team
-
-  shiver
-
-  uphold
-
-  high
-
-  enter'
 bip_39_word_new_line_12: 'primary
 
   morning
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'primary
   morning
 
   wheat'
-bip_39_word_new_line_4: 'primary
-
-  morning
-
-  wheat
-
-  elder'
-bip_39_word_new_line_5: 'primary
-
-  morning
-
-  wheat
-
-  elder
-
-  depart'
-bip_39_word_new_line_6: 'primary
-
-  morning
-
-  wheat
-
-  elder
-
-  depart
-
-  chef'
-bip_39_word_new_line_7: 'primary
-
-  morning
-
-  wheat
-
-  elder
-
-  depart
-
-  chef
-
-  team'
-bip_39_word_new_line_8: 'primary
-
-  morning
-
-  wheat
-
-  elder
-
-  depart
-
-  chef
-
-  team
-
-  shiver'
-bip_39_word_new_line_9: 'primary
-
-  morning
-
-  wheat
-
-  elder
-
-  depart
-
-  chef
-
-  team
-
-  shiver
-
-  uphold'
-bip_39_word_no_space_1: primary
-bip_39_word_no_space_10: primarymorningwheatelderdepartchefteamshiverupholdhigh
-bip_39_word_no_space_11: primarymorningwheatelderdepartchefteamshiverupholdhighenter
 bip_39_word_no_space_12: primarymorningwheatelderdepartchefteamshiverupholdhighenteratom
 bip_39_word_no_space_2: primarymorning
 bip_39_word_no_space_3: primarymorningwheat
-bip_39_word_no_space_4: primarymorningwheatelder
-bip_39_word_no_space_5: primarymorningwheatelderdepart
-bip_39_word_no_space_6: primarymorningwheatelderdepartchef
-bip_39_word_no_space_7: primarymorningwheatelderdepartchefteam
-bip_39_word_no_space_8: primarymorningwheatelderdepartchefteamshiver
-bip_39_word_no_space_9: primarymorningwheatelderdepartchefteamshiveruphold
-bip_39_word_space_0:
-- primary
-- morning
-- wheat
-- elder
-- depart
-- chef
-- team
-- shiver
-- uphold
-- high
-- enter
-- atom
-bip_39_word_space_1: primary
-bip_39_word_space_10: primary morning wheat elder depart chef team shiver uphold high
-bip_39_word_space_11: primary morning wheat elder depart chef team shiver uphold high
-  enter
 bip_39_word_space_12: primary morning wheat elder depart chef team shiver uphold high
   enter atom
 bip_39_word_space_2: primary morning
 bip_39_word_space_3: primary morning wheat
-bip_39_word_space_4: primary morning wheat elder
-bip_39_word_space_5: primary morning wheat elder depart
-bip_39_word_space_6: primary morning wheat elder depart chef
-bip_39_word_space_7: primary morning wheat elder depart chef team
-bip_39_word_space_8: primary morning wheat elder depart chef team shiver
-bip_39_word_space_9: primary morning wheat elder depart chef team shiver uphold
-bip_39_word_underscore_1: primary
-bip_39_word_underscore_10: primary_morning_wheat_elder_depart_chef_team_shiver_uphold_high
-bip_39_word_underscore_11: primary_morning_wheat_elder_depart_chef_team_shiver_uphold_high_enter
 bip_39_word_underscore_12: primary_morning_wheat_elder_depart_chef_team_shiver_uphold_high_enter_atom
 bip_39_word_underscore_2: primary_morning
 bip_39_word_underscore_3: primary_morning_wheat
-bip_39_word_underscore_4: primary_morning_wheat_elder
-bip_39_word_underscore_5: primary_morning_wheat_elder_depart
-bip_39_word_underscore_6: primary_morning_wheat_elder_depart_chef
-bip_39_word_underscore_7: primary_morning_wheat_elder_depart_chef_team
-bip_39_word_underscore_8: primary_morning_wheat_elder_depart_chef_team_shiver
-bip_39_word_underscore_9: primary_morning_wheat_elder_depart_chef_team_shiver_uphold
 classification: food
 classification_capital: Food
 classification_first_letter: f

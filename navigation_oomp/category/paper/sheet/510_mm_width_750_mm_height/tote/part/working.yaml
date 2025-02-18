@@ -1,68 +1,9 @@
-bip_39_word_dash_1: useful
-bip_39_word_dash_10: useful-tortoise-knock-riot-close-unaware-furnace-aware-oval-decorate
-bip_39_word_dash_11: useful-tortoise-knock-riot-close-unaware-furnace-aware-oval-decorate-moment
 bip_39_word_dash_12: useful-tortoise-knock-riot-close-unaware-furnace-aware-oval-decorate-moment-adapt
 bip_39_word_dash_2: useful-tortoise
 bip_39_word_dash_3: useful-tortoise-knock
-bip_39_word_dash_4: useful-tortoise-knock-riot
-bip_39_word_dash_5: useful-tortoise-knock-riot-close
-bip_39_word_dash_6: useful-tortoise-knock-riot-close-unaware
-bip_39_word_dash_7: useful-tortoise-knock-riot-close-unaware-furnace
-bip_39_word_dash_8: useful-tortoise-knock-riot-close-unaware-furnace-aware
-bip_39_word_dash_9: useful-tortoise-knock-riot-close-unaware-furnace-aware-oval
-bip_39_word_new_br_1: useful
-bip_39_word_new_br_10: useful<br>tortoise<br>knock<br>riot<br>close<br>unaware<br>furnace<br>aware<br>oval<br>decorate
-bip_39_word_new_br_11: useful<br>tortoise<br>knock<br>riot<br>close<br>unaware<br>furnace<br>aware<br>oval<br>decorate<br>moment
 bip_39_word_new_br_12: useful<br>tortoise<br>knock<br>riot<br>close<br>unaware<br>furnace<br>aware<br>oval<br>decorate<br>moment<br>adapt
 bip_39_word_new_br_2: useful<br>tortoise
 bip_39_word_new_br_3: useful<br>tortoise<br>knock
-bip_39_word_new_br_4: useful<br>tortoise<br>knock<br>riot
-bip_39_word_new_br_5: useful<br>tortoise<br>knock<br>riot<br>close
-bip_39_word_new_br_6: useful<br>tortoise<br>knock<br>riot<br>close<br>unaware
-bip_39_word_new_br_7: useful<br>tortoise<br>knock<br>riot<br>close<br>unaware<br>furnace
-bip_39_word_new_br_8: useful<br>tortoise<br>knock<br>riot<br>close<br>unaware<br>furnace<br>aware
-bip_39_word_new_br_9: useful<br>tortoise<br>knock<br>riot<br>close<br>unaware<br>furnace<br>aware<br>oval
-bip_39_word_new_line_1: useful
-bip_39_word_new_line_10: 'useful
-
-  tortoise
-
-  knock
-
-  riot
-
-  close
-
-  unaware
-
-  furnace
-
-  aware
-
-  oval
-
-  decorate'
-bip_39_word_new_line_11: 'useful
-
-  tortoise
-
-  knock
-
-  riot
-
-  close
-
-  unaware
-
-  furnace
-
-  aware
-
-  oval
-
-  decorate
-
-  moment'
 bip_39_word_new_line_12: 'useful
 
   tortoise
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'useful
   tortoise
 
   knock'
-bip_39_word_new_line_4: 'useful
-
-  tortoise
-
-  knock
-
-  riot'
-bip_39_word_new_line_5: 'useful
-
-  tortoise
-
-  knock
-
-  riot
-
-  close'
-bip_39_word_new_line_6: 'useful
-
-  tortoise
-
-  knock
-
-  riot
-
-  close
-
-  unaware'
-bip_39_word_new_line_7: 'useful
-
-  tortoise
-
-  knock
-
-  riot
-
-  close
-
-  unaware
-
-  furnace'
-bip_39_word_new_line_8: 'useful
-
-  tortoise
-
-  knock
-
-  riot
-
-  close
-
-  unaware
-
-  furnace
-
-  aware'
-bip_39_word_new_line_9: 'useful
-
-  tortoise
-
-  knock
-
-  riot
-
-  close
-
-  unaware
-
-  furnace
-
-  aware
-
-  oval'
-bip_39_word_no_space_1: useful
-bip_39_word_no_space_10: usefultortoiseknockriotcloseunawarefurnaceawareovaldecorate
-bip_39_word_no_space_11: usefultortoiseknockriotcloseunawarefurnaceawareovaldecoratemoment
 bip_39_word_no_space_12: usefultortoiseknockriotcloseunawarefurnaceawareovaldecoratemomentadapt
 bip_39_word_no_space_2: usefultortoise
 bip_39_word_no_space_3: usefultortoiseknock
-bip_39_word_no_space_4: usefultortoiseknockriot
-bip_39_word_no_space_5: usefultortoiseknockriotclose
-bip_39_word_no_space_6: usefultortoiseknockriotcloseunaware
-bip_39_word_no_space_7: usefultortoiseknockriotcloseunawarefurnace
-bip_39_word_no_space_8: usefultortoiseknockriotcloseunawarefurnaceaware
-bip_39_word_no_space_9: usefultortoiseknockriotcloseunawarefurnaceawareoval
-bip_39_word_space_0:
-- useful
-- tortoise
-- knock
-- riot
-- close
-- unaware
-- furnace
-- aware
-- oval
-- decorate
-- moment
-- adapt
-bip_39_word_space_1: useful
-bip_39_word_space_10: useful tortoise knock riot close unaware furnace aware oval
-  decorate
-bip_39_word_space_11: useful tortoise knock riot close unaware furnace aware oval
-  decorate moment
 bip_39_word_space_12: useful tortoise knock riot close unaware furnace aware oval
   decorate moment adapt
 bip_39_word_space_2: useful tortoise
 bip_39_word_space_3: useful tortoise knock
-bip_39_word_space_4: useful tortoise knock riot
-bip_39_word_space_5: useful tortoise knock riot close
-bip_39_word_space_6: useful tortoise knock riot close unaware
-bip_39_word_space_7: useful tortoise knock riot close unaware furnace
-bip_39_word_space_8: useful tortoise knock riot close unaware furnace aware
-bip_39_word_space_9: useful tortoise knock riot close unaware furnace aware oval
-bip_39_word_underscore_1: useful
-bip_39_word_underscore_10: useful_tortoise_knock_riot_close_unaware_furnace_aware_oval_decorate
-bip_39_word_underscore_11: useful_tortoise_knock_riot_close_unaware_furnace_aware_oval_decorate_moment
 bip_39_word_underscore_12: useful_tortoise_knock_riot_close_unaware_furnace_aware_oval_decorate_moment_adapt
 bip_39_word_underscore_2: useful_tortoise
 bip_39_word_underscore_3: useful_tortoise_knock
-bip_39_word_underscore_4: useful_tortoise_knock_riot
-bip_39_word_underscore_5: useful_tortoise_knock_riot_close
-bip_39_word_underscore_6: useful_tortoise_knock_riot_close_unaware
-bip_39_word_underscore_7: useful_tortoise_knock_riot_close_unaware_furnace
-bip_39_word_underscore_8: useful_tortoise_knock_riot_close_unaware_furnace_aware
-bip_39_word_underscore_9: useful_tortoise_knock_riot_close_unaware_furnace_aware_oval
 classification: category
 classification_capital: Category
 classification_first_letter: c

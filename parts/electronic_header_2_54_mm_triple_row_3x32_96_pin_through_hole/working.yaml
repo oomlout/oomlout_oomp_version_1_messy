@@ -1,68 +1,9 @@
-bip_39_word_dash_1: maze
-bip_39_word_dash_10: maze-wedding-piano-goat-claim-volume-sunset-mystery-arrive-crystal
-bip_39_word_dash_11: maze-wedding-piano-goat-claim-volume-sunset-mystery-arrive-crystal-fly
 bip_39_word_dash_12: maze-wedding-piano-goat-claim-volume-sunset-mystery-arrive-crystal-fly-alley
 bip_39_word_dash_2: maze-wedding
 bip_39_word_dash_3: maze-wedding-piano
-bip_39_word_dash_4: maze-wedding-piano-goat
-bip_39_word_dash_5: maze-wedding-piano-goat-claim
-bip_39_word_dash_6: maze-wedding-piano-goat-claim-volume
-bip_39_word_dash_7: maze-wedding-piano-goat-claim-volume-sunset
-bip_39_word_dash_8: maze-wedding-piano-goat-claim-volume-sunset-mystery
-bip_39_word_dash_9: maze-wedding-piano-goat-claim-volume-sunset-mystery-arrive
-bip_39_word_new_br_1: maze
-bip_39_word_new_br_10: maze<br>wedding<br>piano<br>goat<br>claim<br>volume<br>sunset<br>mystery<br>arrive<br>crystal
-bip_39_word_new_br_11: maze<br>wedding<br>piano<br>goat<br>claim<br>volume<br>sunset<br>mystery<br>arrive<br>crystal<br>fly
 bip_39_word_new_br_12: maze<br>wedding<br>piano<br>goat<br>claim<br>volume<br>sunset<br>mystery<br>arrive<br>crystal<br>fly<br>alley
 bip_39_word_new_br_2: maze<br>wedding
 bip_39_word_new_br_3: maze<br>wedding<br>piano
-bip_39_word_new_br_4: maze<br>wedding<br>piano<br>goat
-bip_39_word_new_br_5: maze<br>wedding<br>piano<br>goat<br>claim
-bip_39_word_new_br_6: maze<br>wedding<br>piano<br>goat<br>claim<br>volume
-bip_39_word_new_br_7: maze<br>wedding<br>piano<br>goat<br>claim<br>volume<br>sunset
-bip_39_word_new_br_8: maze<br>wedding<br>piano<br>goat<br>claim<br>volume<br>sunset<br>mystery
-bip_39_word_new_br_9: maze<br>wedding<br>piano<br>goat<br>claim<br>volume<br>sunset<br>mystery<br>arrive
-bip_39_word_new_line_1: maze
-bip_39_word_new_line_10: 'maze
-
-  wedding
-
-  piano
-
-  goat
-
-  claim
-
-  volume
-
-  sunset
-
-  mystery
-
-  arrive
-
-  crystal'
-bip_39_word_new_line_11: 'maze
-
-  wedding
-
-  piano
-
-  goat
-
-  claim
-
-  volume
-
-  sunset
-
-  mystery
-
-  arrive
-
-  crystal
-
-  fly'
 bip_39_word_new_line_12: 'maze
 
   wedding
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'maze
   wedding
 
   piano'
-bip_39_word_new_line_4: 'maze
-
-  wedding
-
-  piano
-
-  goat'
-bip_39_word_new_line_5: 'maze
-
-  wedding
-
-  piano
-
-  goat
-
-  claim'
-bip_39_word_new_line_6: 'maze
-
-  wedding
-
-  piano
-
-  goat
-
-  claim
-
-  volume'
-bip_39_word_new_line_7: 'maze
-
-  wedding
-
-  piano
-
-  goat
-
-  claim
-
-  volume
-
-  sunset'
-bip_39_word_new_line_8: 'maze
-
-  wedding
-
-  piano
-
-  goat
-
-  claim
-
-  volume
-
-  sunset
-
-  mystery'
-bip_39_word_new_line_9: 'maze
-
-  wedding
-
-  piano
-
-  goat
-
-  claim
-
-  volume
-
-  sunset
-
-  mystery
-
-  arrive'
-bip_39_word_no_space_1: maze
-bip_39_word_no_space_10: mazeweddingpianogoatclaimvolumesunsetmysteryarrivecrystal
-bip_39_word_no_space_11: mazeweddingpianogoatclaimvolumesunsetmysteryarrivecrystalfly
 bip_39_word_no_space_12: mazeweddingpianogoatclaimvolumesunsetmysteryarrivecrystalflyalley
 bip_39_word_no_space_2: mazewedding
 bip_39_word_no_space_3: mazeweddingpiano
-bip_39_word_no_space_4: mazeweddingpianogoat
-bip_39_word_no_space_5: mazeweddingpianogoatclaim
-bip_39_word_no_space_6: mazeweddingpianogoatclaimvolume
-bip_39_word_no_space_7: mazeweddingpianogoatclaimvolumesunset
-bip_39_word_no_space_8: mazeweddingpianogoatclaimvolumesunsetmystery
-bip_39_word_no_space_9: mazeweddingpianogoatclaimvolumesunsetmysteryarrive
-bip_39_word_space_0:
-- maze
-- wedding
-- piano
-- goat
-- claim
-- volume
-- sunset
-- mystery
-- arrive
-- crystal
-- fly
-- alley
-bip_39_word_space_1: maze
-bip_39_word_space_10: maze wedding piano goat claim volume sunset mystery arrive crystal
-bip_39_word_space_11: maze wedding piano goat claim volume sunset mystery arrive crystal
-  fly
 bip_39_word_space_12: maze wedding piano goat claim volume sunset mystery arrive crystal
   fly alley
 bip_39_word_space_2: maze wedding
 bip_39_word_space_3: maze wedding piano
-bip_39_word_space_4: maze wedding piano goat
-bip_39_word_space_5: maze wedding piano goat claim
-bip_39_word_space_6: maze wedding piano goat claim volume
-bip_39_word_space_7: maze wedding piano goat claim volume sunset
-bip_39_word_space_8: maze wedding piano goat claim volume sunset mystery
-bip_39_word_space_9: maze wedding piano goat claim volume sunset mystery arrive
-bip_39_word_underscore_1: maze
-bip_39_word_underscore_10: maze_wedding_piano_goat_claim_volume_sunset_mystery_arrive_crystal
-bip_39_word_underscore_11: maze_wedding_piano_goat_claim_volume_sunset_mystery_arrive_crystal_fly
 bip_39_word_underscore_12: maze_wedding_piano_goat_claim_volume_sunset_mystery_arrive_crystal_fly_alley
 bip_39_word_underscore_2: maze_wedding
 bip_39_word_underscore_3: maze_wedding_piano
-bip_39_word_underscore_4: maze_wedding_piano_goat
-bip_39_word_underscore_5: maze_wedding_piano_goat_claim
-bip_39_word_underscore_6: maze_wedding_piano_goat_claim_volume
-bip_39_word_underscore_7: maze_wedding_piano_goat_claim_volume_sunset
-bip_39_word_underscore_8: maze_wedding_piano_goat_claim_volume_sunset_mystery
-bip_39_word_underscore_9: maze_wedding_piano_goat_claim_volume_sunset_mystery_arrive
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

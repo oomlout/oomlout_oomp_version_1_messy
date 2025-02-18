@@ -1,68 +1,9 @@
-bip_39_word_dash_1: bacon
-bip_39_word_dash_10: bacon-audit-verify-mansion-decrease-winter-bench-critic-sudden-rich
-bip_39_word_dash_11: bacon-audit-verify-mansion-decrease-winter-bench-critic-sudden-rich-dismiss
 bip_39_word_dash_12: bacon-audit-verify-mansion-decrease-winter-bench-critic-sudden-rich-dismiss-assist
 bip_39_word_dash_2: bacon-audit
 bip_39_word_dash_3: bacon-audit-verify
-bip_39_word_dash_4: bacon-audit-verify-mansion
-bip_39_word_dash_5: bacon-audit-verify-mansion-decrease
-bip_39_word_dash_6: bacon-audit-verify-mansion-decrease-winter
-bip_39_word_dash_7: bacon-audit-verify-mansion-decrease-winter-bench
-bip_39_word_dash_8: bacon-audit-verify-mansion-decrease-winter-bench-critic
-bip_39_word_dash_9: bacon-audit-verify-mansion-decrease-winter-bench-critic-sudden
-bip_39_word_new_br_1: bacon
-bip_39_word_new_br_10: bacon<br>audit<br>verify<br>mansion<br>decrease<br>winter<br>bench<br>critic<br>sudden<br>rich
-bip_39_word_new_br_11: bacon<br>audit<br>verify<br>mansion<br>decrease<br>winter<br>bench<br>critic<br>sudden<br>rich<br>dismiss
 bip_39_word_new_br_12: bacon<br>audit<br>verify<br>mansion<br>decrease<br>winter<br>bench<br>critic<br>sudden<br>rich<br>dismiss<br>assist
 bip_39_word_new_br_2: bacon<br>audit
 bip_39_word_new_br_3: bacon<br>audit<br>verify
-bip_39_word_new_br_4: bacon<br>audit<br>verify<br>mansion
-bip_39_word_new_br_5: bacon<br>audit<br>verify<br>mansion<br>decrease
-bip_39_word_new_br_6: bacon<br>audit<br>verify<br>mansion<br>decrease<br>winter
-bip_39_word_new_br_7: bacon<br>audit<br>verify<br>mansion<br>decrease<br>winter<br>bench
-bip_39_word_new_br_8: bacon<br>audit<br>verify<br>mansion<br>decrease<br>winter<br>bench<br>critic
-bip_39_word_new_br_9: bacon<br>audit<br>verify<br>mansion<br>decrease<br>winter<br>bench<br>critic<br>sudden
-bip_39_word_new_line_1: bacon
-bip_39_word_new_line_10: 'bacon
-
-  audit
-
-  verify
-
-  mansion
-
-  decrease
-
-  winter
-
-  bench
-
-  critic
-
-  sudden
-
-  rich'
-bip_39_word_new_line_11: 'bacon
-
-  audit
-
-  verify
-
-  mansion
-
-  decrease
-
-  winter
-
-  bench
-
-  critic
-
-  sudden
-
-  rich
-
-  dismiss'
 bip_39_word_new_line_12: 'bacon
 
   audit
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'bacon
   audit
 
   verify'
-bip_39_word_new_line_4: 'bacon
-
-  audit
-
-  verify
-
-  mansion'
-bip_39_word_new_line_5: 'bacon
-
-  audit
-
-  verify
-
-  mansion
-
-  decrease'
-bip_39_word_new_line_6: 'bacon
-
-  audit
-
-  verify
-
-  mansion
-
-  decrease
-
-  winter'
-bip_39_word_new_line_7: 'bacon
-
-  audit
-
-  verify
-
-  mansion
-
-  decrease
-
-  winter
-
-  bench'
-bip_39_word_new_line_8: 'bacon
-
-  audit
-
-  verify
-
-  mansion
-
-  decrease
-
-  winter
-
-  bench
-
-  critic'
-bip_39_word_new_line_9: 'bacon
-
-  audit
-
-  verify
-
-  mansion
-
-  decrease
-
-  winter
-
-  bench
-
-  critic
-
-  sudden'
-bip_39_word_no_space_1: bacon
-bip_39_word_no_space_10: baconauditverifymansiondecreasewinterbenchcriticsuddenrich
-bip_39_word_no_space_11: baconauditverifymansiondecreasewinterbenchcriticsuddenrichdismiss
 bip_39_word_no_space_12: baconauditverifymansiondecreasewinterbenchcriticsuddenrichdismissassist
 bip_39_word_no_space_2: baconaudit
 bip_39_word_no_space_3: baconauditverify
-bip_39_word_no_space_4: baconauditverifymansion
-bip_39_word_no_space_5: baconauditverifymansiondecrease
-bip_39_word_no_space_6: baconauditverifymansiondecreasewinter
-bip_39_word_no_space_7: baconauditverifymansiondecreasewinterbench
-bip_39_word_no_space_8: baconauditverifymansiondecreasewinterbenchcritic
-bip_39_word_no_space_9: baconauditverifymansiondecreasewinterbenchcriticsudden
-bip_39_word_space_0:
-- bacon
-- audit
-- verify
-- mansion
-- decrease
-- winter
-- bench
-- critic
-- sudden
-- rich
-- dismiss
-- assist
-bip_39_word_space_1: bacon
-bip_39_word_space_10: bacon audit verify mansion decrease winter bench critic sudden
-  rich
-bip_39_word_space_11: bacon audit verify mansion decrease winter bench critic sudden
-  rich dismiss
 bip_39_word_space_12: bacon audit verify mansion decrease winter bench critic sudden
   rich dismiss assist
 bip_39_word_space_2: bacon audit
 bip_39_word_space_3: bacon audit verify
-bip_39_word_space_4: bacon audit verify mansion
-bip_39_word_space_5: bacon audit verify mansion decrease
-bip_39_word_space_6: bacon audit verify mansion decrease winter
-bip_39_word_space_7: bacon audit verify mansion decrease winter bench
-bip_39_word_space_8: bacon audit verify mansion decrease winter bench critic
-bip_39_word_space_9: bacon audit verify mansion decrease winter bench critic sudden
-bip_39_word_underscore_1: bacon
-bip_39_word_underscore_10: bacon_audit_verify_mansion_decrease_winter_bench_critic_sudden_rich
-bip_39_word_underscore_11: bacon_audit_verify_mansion_decrease_winter_bench_critic_sudden_rich_dismiss
 bip_39_word_underscore_12: bacon_audit_verify_mansion_decrease_winter_bench_critic_sudden_rich_dismiss_assist
 bip_39_word_underscore_2: bacon_audit
 bip_39_word_underscore_3: bacon_audit_verify
-bip_39_word_underscore_4: bacon_audit_verify_mansion
-bip_39_word_underscore_5: bacon_audit_verify_mansion_decrease
-bip_39_word_underscore_6: bacon_audit_verify_mansion_decrease_winter
-bip_39_word_underscore_7: bacon_audit_verify_mansion_decrease_winter_bench
-bip_39_word_underscore_8: bacon_audit_verify_mansion_decrease_winter_bench_critic
-bip_39_word_underscore_9: bacon_audit_verify_mansion_decrease_winter_bench_critic_sudden
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

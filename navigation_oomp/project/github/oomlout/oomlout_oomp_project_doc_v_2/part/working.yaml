@@ -1,68 +1,9 @@
-bip_39_word_dash_1: elite
-bip_39_word_dash_10: elite-aunt-sustain-lecture-pet-edge-hedgehog-army-dose-april
-bip_39_word_dash_11: elite-aunt-sustain-lecture-pet-edge-hedgehog-army-dose-april-goose
 bip_39_word_dash_12: elite-aunt-sustain-lecture-pet-edge-hedgehog-army-dose-april-goose-aspect
 bip_39_word_dash_2: elite-aunt
 bip_39_word_dash_3: elite-aunt-sustain
-bip_39_word_dash_4: elite-aunt-sustain-lecture
-bip_39_word_dash_5: elite-aunt-sustain-lecture-pet
-bip_39_word_dash_6: elite-aunt-sustain-lecture-pet-edge
-bip_39_word_dash_7: elite-aunt-sustain-lecture-pet-edge-hedgehog
-bip_39_word_dash_8: elite-aunt-sustain-lecture-pet-edge-hedgehog-army
-bip_39_word_dash_9: elite-aunt-sustain-lecture-pet-edge-hedgehog-army-dose
-bip_39_word_new_br_1: elite
-bip_39_word_new_br_10: elite<br>aunt<br>sustain<br>lecture<br>pet<br>edge<br>hedgehog<br>army<br>dose<br>april
-bip_39_word_new_br_11: elite<br>aunt<br>sustain<br>lecture<br>pet<br>edge<br>hedgehog<br>army<br>dose<br>april<br>goose
 bip_39_word_new_br_12: elite<br>aunt<br>sustain<br>lecture<br>pet<br>edge<br>hedgehog<br>army<br>dose<br>april<br>goose<br>aspect
 bip_39_word_new_br_2: elite<br>aunt
 bip_39_word_new_br_3: elite<br>aunt<br>sustain
-bip_39_word_new_br_4: elite<br>aunt<br>sustain<br>lecture
-bip_39_word_new_br_5: elite<br>aunt<br>sustain<br>lecture<br>pet
-bip_39_word_new_br_6: elite<br>aunt<br>sustain<br>lecture<br>pet<br>edge
-bip_39_word_new_br_7: elite<br>aunt<br>sustain<br>lecture<br>pet<br>edge<br>hedgehog
-bip_39_word_new_br_8: elite<br>aunt<br>sustain<br>lecture<br>pet<br>edge<br>hedgehog<br>army
-bip_39_word_new_br_9: elite<br>aunt<br>sustain<br>lecture<br>pet<br>edge<br>hedgehog<br>army<br>dose
-bip_39_word_new_line_1: elite
-bip_39_word_new_line_10: 'elite
-
-  aunt
-
-  sustain
-
-  lecture
-
-  pet
-
-  edge
-
-  hedgehog
-
-  army
-
-  dose
-
-  april'
-bip_39_word_new_line_11: 'elite
-
-  aunt
-
-  sustain
-
-  lecture
-
-  pet
-
-  edge
-
-  hedgehog
-
-  army
-
-  dose
-
-  april
-
-  goose'
 bip_39_word_new_line_12: 'elite
 
   aunt
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'elite
   aunt
 
   sustain'
-bip_39_word_new_line_4: 'elite
-
-  aunt
-
-  sustain
-
-  lecture'
-bip_39_word_new_line_5: 'elite
-
-  aunt
-
-  sustain
-
-  lecture
-
-  pet'
-bip_39_word_new_line_6: 'elite
-
-  aunt
-
-  sustain
-
-  lecture
-
-  pet
-
-  edge'
-bip_39_word_new_line_7: 'elite
-
-  aunt
-
-  sustain
-
-  lecture
-
-  pet
-
-  edge
-
-  hedgehog'
-bip_39_word_new_line_8: 'elite
-
-  aunt
-
-  sustain
-
-  lecture
-
-  pet
-
-  edge
-
-  hedgehog
-
-  army'
-bip_39_word_new_line_9: 'elite
-
-  aunt
-
-  sustain
-
-  lecture
-
-  pet
-
-  edge
-
-  hedgehog
-
-  army
-
-  dose'
-bip_39_word_no_space_1: elite
-bip_39_word_no_space_10: eliteauntsustainlecturepetedgehedgehogarmydoseapril
-bip_39_word_no_space_11: eliteauntsustainlecturepetedgehedgehogarmydoseaprilgoose
 bip_39_word_no_space_12: eliteauntsustainlecturepetedgehedgehogarmydoseaprilgooseaspect
 bip_39_word_no_space_2: eliteaunt
 bip_39_word_no_space_3: eliteauntsustain
-bip_39_word_no_space_4: eliteauntsustainlecture
-bip_39_word_no_space_5: eliteauntsustainlecturepet
-bip_39_word_no_space_6: eliteauntsustainlecturepetedge
-bip_39_word_no_space_7: eliteauntsustainlecturepetedgehedgehog
-bip_39_word_no_space_8: eliteauntsustainlecturepetedgehedgehogarmy
-bip_39_word_no_space_9: eliteauntsustainlecturepetedgehedgehogarmydose
-bip_39_word_space_0:
-- elite
-- aunt
-- sustain
-- lecture
-- pet
-- edge
-- hedgehog
-- army
-- dose
-- april
-- goose
-- aspect
-bip_39_word_space_1: elite
-bip_39_word_space_10: elite aunt sustain lecture pet edge hedgehog army dose april
-bip_39_word_space_11: elite aunt sustain lecture pet edge hedgehog army dose april
-  goose
 bip_39_word_space_12: elite aunt sustain lecture pet edge hedgehog army dose april
   goose aspect
 bip_39_word_space_2: elite aunt
 bip_39_word_space_3: elite aunt sustain
-bip_39_word_space_4: elite aunt sustain lecture
-bip_39_word_space_5: elite aunt sustain lecture pet
-bip_39_word_space_6: elite aunt sustain lecture pet edge
-bip_39_word_space_7: elite aunt sustain lecture pet edge hedgehog
-bip_39_word_space_8: elite aunt sustain lecture pet edge hedgehog army
-bip_39_word_space_9: elite aunt sustain lecture pet edge hedgehog army dose
-bip_39_word_underscore_1: elite
-bip_39_word_underscore_10: elite_aunt_sustain_lecture_pet_edge_hedgehog_army_dose_april
-bip_39_word_underscore_11: elite_aunt_sustain_lecture_pet_edge_hedgehog_army_dose_april_goose
 bip_39_word_underscore_12: elite_aunt_sustain_lecture_pet_edge_hedgehog_army_dose_april_goose_aspect
 bip_39_word_underscore_2: elite_aunt
 bip_39_word_underscore_3: elite_aunt_sustain
-bip_39_word_underscore_4: elite_aunt_sustain_lecture
-bip_39_word_underscore_5: elite_aunt_sustain_lecture_pet
-bip_39_word_underscore_6: elite_aunt_sustain_lecture_pet_edge
-bip_39_word_underscore_7: elite_aunt_sustain_lecture_pet_edge_hedgehog
-bip_39_word_underscore_8: elite_aunt_sustain_lecture_pet_edge_hedgehog_army
-bip_39_word_underscore_9: elite_aunt_sustain_lecture_pet_edge_hedgehog_army_dose
 classification: project
 classification_capital: Project
 classification_first_letter: p

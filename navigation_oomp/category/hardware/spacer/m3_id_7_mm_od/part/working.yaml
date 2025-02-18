@@ -1,68 +1,9 @@
-bip_39_word_dash_1: stuff
-bip_39_word_dash_10: stuff-choose-voice-wrong-bundle-slab-asthma-bicycle-faint-urge
-bip_39_word_dash_11: stuff-choose-voice-wrong-bundle-slab-asthma-bicycle-faint-urge-bird
 bip_39_word_dash_12: stuff-choose-voice-wrong-bundle-slab-asthma-bicycle-faint-urge-bird-amused
 bip_39_word_dash_2: stuff-choose
 bip_39_word_dash_3: stuff-choose-voice
-bip_39_word_dash_4: stuff-choose-voice-wrong
-bip_39_word_dash_5: stuff-choose-voice-wrong-bundle
-bip_39_word_dash_6: stuff-choose-voice-wrong-bundle-slab
-bip_39_word_dash_7: stuff-choose-voice-wrong-bundle-slab-asthma
-bip_39_word_dash_8: stuff-choose-voice-wrong-bundle-slab-asthma-bicycle
-bip_39_word_dash_9: stuff-choose-voice-wrong-bundle-slab-asthma-bicycle-faint
-bip_39_word_new_br_1: stuff
-bip_39_word_new_br_10: stuff<br>choose<br>voice<br>wrong<br>bundle<br>slab<br>asthma<br>bicycle<br>faint<br>urge
-bip_39_word_new_br_11: stuff<br>choose<br>voice<br>wrong<br>bundle<br>slab<br>asthma<br>bicycle<br>faint<br>urge<br>bird
 bip_39_word_new_br_12: stuff<br>choose<br>voice<br>wrong<br>bundle<br>slab<br>asthma<br>bicycle<br>faint<br>urge<br>bird<br>amused
 bip_39_word_new_br_2: stuff<br>choose
 bip_39_word_new_br_3: stuff<br>choose<br>voice
-bip_39_word_new_br_4: stuff<br>choose<br>voice<br>wrong
-bip_39_word_new_br_5: stuff<br>choose<br>voice<br>wrong<br>bundle
-bip_39_word_new_br_6: stuff<br>choose<br>voice<br>wrong<br>bundle<br>slab
-bip_39_word_new_br_7: stuff<br>choose<br>voice<br>wrong<br>bundle<br>slab<br>asthma
-bip_39_word_new_br_8: stuff<br>choose<br>voice<br>wrong<br>bundle<br>slab<br>asthma<br>bicycle
-bip_39_word_new_br_9: stuff<br>choose<br>voice<br>wrong<br>bundle<br>slab<br>asthma<br>bicycle<br>faint
-bip_39_word_new_line_1: stuff
-bip_39_word_new_line_10: 'stuff
-
-  choose
-
-  voice
-
-  wrong
-
-  bundle
-
-  slab
-
-  asthma
-
-  bicycle
-
-  faint
-
-  urge'
-bip_39_word_new_line_11: 'stuff
-
-  choose
-
-  voice
-
-  wrong
-
-  bundle
-
-  slab
-
-  asthma
-
-  bicycle
-
-  faint
-
-  urge
-
-  bird'
 bip_39_word_new_line_12: 'stuff
 
   choose
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'stuff
   choose
 
   voice'
-bip_39_word_new_line_4: 'stuff
-
-  choose
-
-  voice
-
-  wrong'
-bip_39_word_new_line_5: 'stuff
-
-  choose
-
-  voice
-
-  wrong
-
-  bundle'
-bip_39_word_new_line_6: 'stuff
-
-  choose
-
-  voice
-
-  wrong
-
-  bundle
-
-  slab'
-bip_39_word_new_line_7: 'stuff
-
-  choose
-
-  voice
-
-  wrong
-
-  bundle
-
-  slab
-
-  asthma'
-bip_39_word_new_line_8: 'stuff
-
-  choose
-
-  voice
-
-  wrong
-
-  bundle
-
-  slab
-
-  asthma
-
-  bicycle'
-bip_39_word_new_line_9: 'stuff
-
-  choose
-
-  voice
-
-  wrong
-
-  bundle
-
-  slab
-
-  asthma
-
-  bicycle
-
-  faint'
-bip_39_word_no_space_1: stuff
-bip_39_word_no_space_10: stuffchoosevoicewrongbundleslabasthmabicyclefainturge
-bip_39_word_no_space_11: stuffchoosevoicewrongbundleslabasthmabicyclefainturgebird
 bip_39_word_no_space_12: stuffchoosevoicewrongbundleslabasthmabicyclefainturgebirdamused
 bip_39_word_no_space_2: stuffchoose
 bip_39_word_no_space_3: stuffchoosevoice
-bip_39_word_no_space_4: stuffchoosevoicewrong
-bip_39_word_no_space_5: stuffchoosevoicewrongbundle
-bip_39_word_no_space_6: stuffchoosevoicewrongbundleslab
-bip_39_word_no_space_7: stuffchoosevoicewrongbundleslabasthma
-bip_39_word_no_space_8: stuffchoosevoicewrongbundleslabasthmabicycle
-bip_39_word_no_space_9: stuffchoosevoicewrongbundleslabasthmabicyclefaint
-bip_39_word_space_0:
-- stuff
-- choose
-- voice
-- wrong
-- bundle
-- slab
-- asthma
-- bicycle
-- faint
-- urge
-- bird
-- amused
-bip_39_word_space_1: stuff
-bip_39_word_space_10: stuff choose voice wrong bundle slab asthma bicycle faint urge
-bip_39_word_space_11: stuff choose voice wrong bundle slab asthma bicycle faint urge
-  bird
 bip_39_word_space_12: stuff choose voice wrong bundle slab asthma bicycle faint urge
   bird amused
 bip_39_word_space_2: stuff choose
 bip_39_word_space_3: stuff choose voice
-bip_39_word_space_4: stuff choose voice wrong
-bip_39_word_space_5: stuff choose voice wrong bundle
-bip_39_word_space_6: stuff choose voice wrong bundle slab
-bip_39_word_space_7: stuff choose voice wrong bundle slab asthma
-bip_39_word_space_8: stuff choose voice wrong bundle slab asthma bicycle
-bip_39_word_space_9: stuff choose voice wrong bundle slab asthma bicycle faint
-bip_39_word_underscore_1: stuff
-bip_39_word_underscore_10: stuff_choose_voice_wrong_bundle_slab_asthma_bicycle_faint_urge
-bip_39_word_underscore_11: stuff_choose_voice_wrong_bundle_slab_asthma_bicycle_faint_urge_bird
 bip_39_word_underscore_12: stuff_choose_voice_wrong_bundle_slab_asthma_bicycle_faint_urge_bird_amused
 bip_39_word_underscore_2: stuff_choose
 bip_39_word_underscore_3: stuff_choose_voice
-bip_39_word_underscore_4: stuff_choose_voice_wrong
-bip_39_word_underscore_5: stuff_choose_voice_wrong_bundle
-bip_39_word_underscore_6: stuff_choose_voice_wrong_bundle_slab
-bip_39_word_underscore_7: stuff_choose_voice_wrong_bundle_slab_asthma
-bip_39_word_underscore_8: stuff_choose_voice_wrong_bundle_slab_asthma_bicycle
-bip_39_word_underscore_9: stuff_choose_voice_wrong_bundle_slab_asthma_bicycle_faint
 classification: category
 classification_capital: Category
 classification_first_letter: c

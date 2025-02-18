@@ -1,68 +1,9 @@
-bip_39_word_dash_1: chef
-bip_39_word_dash_10: chef-job-network-inflict-churn-mom-escape-liberty-settle-hub
-bip_39_word_dash_11: chef-job-network-inflict-churn-mom-escape-liberty-settle-hub-aspect
 bip_39_word_dash_12: chef-job-network-inflict-churn-mom-escape-liberty-settle-hub-aspect-analyst
 bip_39_word_dash_2: chef-job
 bip_39_word_dash_3: chef-job-network
-bip_39_word_dash_4: chef-job-network-inflict
-bip_39_word_dash_5: chef-job-network-inflict-churn
-bip_39_word_dash_6: chef-job-network-inflict-churn-mom
-bip_39_word_dash_7: chef-job-network-inflict-churn-mom-escape
-bip_39_word_dash_8: chef-job-network-inflict-churn-mom-escape-liberty
-bip_39_word_dash_9: chef-job-network-inflict-churn-mom-escape-liberty-settle
-bip_39_word_new_br_1: chef
-bip_39_word_new_br_10: chef<br>job<br>network<br>inflict<br>churn<br>mom<br>escape<br>liberty<br>settle<br>hub
-bip_39_word_new_br_11: chef<br>job<br>network<br>inflict<br>churn<br>mom<br>escape<br>liberty<br>settle<br>hub<br>aspect
 bip_39_word_new_br_12: chef<br>job<br>network<br>inflict<br>churn<br>mom<br>escape<br>liberty<br>settle<br>hub<br>aspect<br>analyst
 bip_39_word_new_br_2: chef<br>job
 bip_39_word_new_br_3: chef<br>job<br>network
-bip_39_word_new_br_4: chef<br>job<br>network<br>inflict
-bip_39_word_new_br_5: chef<br>job<br>network<br>inflict<br>churn
-bip_39_word_new_br_6: chef<br>job<br>network<br>inflict<br>churn<br>mom
-bip_39_word_new_br_7: chef<br>job<br>network<br>inflict<br>churn<br>mom<br>escape
-bip_39_word_new_br_8: chef<br>job<br>network<br>inflict<br>churn<br>mom<br>escape<br>liberty
-bip_39_word_new_br_9: chef<br>job<br>network<br>inflict<br>churn<br>mom<br>escape<br>liberty<br>settle
-bip_39_word_new_line_1: chef
-bip_39_word_new_line_10: 'chef
-
-  job
-
-  network
-
-  inflict
-
-  churn
-
-  mom
-
-  escape
-
-  liberty
-
-  settle
-
-  hub'
-bip_39_word_new_line_11: 'chef
-
-  job
-
-  network
-
-  inflict
-
-  churn
-
-  mom
-
-  escape
-
-  liberty
-
-  settle
-
-  hub
-
-  aspect'
 bip_39_word_new_line_12: 'chef
 
   job
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'chef
   job
 
   network'
-bip_39_word_new_line_4: 'chef
-
-  job
-
-  network
-
-  inflict'
-bip_39_word_new_line_5: 'chef
-
-  job
-
-  network
-
-  inflict
-
-  churn'
-bip_39_word_new_line_6: 'chef
-
-  job
-
-  network
-
-  inflict
-
-  churn
-
-  mom'
-bip_39_word_new_line_7: 'chef
-
-  job
-
-  network
-
-  inflict
-
-  churn
-
-  mom
-
-  escape'
-bip_39_word_new_line_8: 'chef
-
-  job
-
-  network
-
-  inflict
-
-  churn
-
-  mom
-
-  escape
-
-  liberty'
-bip_39_word_new_line_9: 'chef
-
-  job
-
-  network
-
-  inflict
-
-  churn
-
-  mom
-
-  escape
-
-  liberty
-
-  settle'
-bip_39_word_no_space_1: chef
-bip_39_word_no_space_10: chefjobnetworkinflictchurnmomescapelibertysettlehub
-bip_39_word_no_space_11: chefjobnetworkinflictchurnmomescapelibertysettlehubaspect
 bip_39_word_no_space_12: chefjobnetworkinflictchurnmomescapelibertysettlehubaspectanalyst
 bip_39_word_no_space_2: chefjob
 bip_39_word_no_space_3: chefjobnetwork
-bip_39_word_no_space_4: chefjobnetworkinflict
-bip_39_word_no_space_5: chefjobnetworkinflictchurn
-bip_39_word_no_space_6: chefjobnetworkinflictchurnmom
-bip_39_word_no_space_7: chefjobnetworkinflictchurnmomescape
-bip_39_word_no_space_8: chefjobnetworkinflictchurnmomescapeliberty
-bip_39_word_no_space_9: chefjobnetworkinflictchurnmomescapelibertysettle
-bip_39_word_space_0:
-- chef
-- job
-- network
-- inflict
-- churn
-- mom
-- escape
-- liberty
-- settle
-- hub
-- aspect
-- analyst
-bip_39_word_space_1: chef
-bip_39_word_space_10: chef job network inflict churn mom escape liberty settle hub
-bip_39_word_space_11: chef job network inflict churn mom escape liberty settle hub
-  aspect
 bip_39_word_space_12: chef job network inflict churn mom escape liberty settle hub
   aspect analyst
 bip_39_word_space_2: chef job
 bip_39_word_space_3: chef job network
-bip_39_word_space_4: chef job network inflict
-bip_39_word_space_5: chef job network inflict churn
-bip_39_word_space_6: chef job network inflict churn mom
-bip_39_word_space_7: chef job network inflict churn mom escape
-bip_39_word_space_8: chef job network inflict churn mom escape liberty
-bip_39_word_space_9: chef job network inflict churn mom escape liberty settle
-bip_39_word_underscore_1: chef
-bip_39_word_underscore_10: chef_job_network_inflict_churn_mom_escape_liberty_settle_hub
-bip_39_word_underscore_11: chef_job_network_inflict_churn_mom_escape_liberty_settle_hub_aspect
 bip_39_word_underscore_12: chef_job_network_inflict_churn_mom_escape_liberty_settle_hub_aspect_analyst
 bip_39_word_underscore_2: chef_job
 bip_39_word_underscore_3: chef_job_network
-bip_39_word_underscore_4: chef_job_network_inflict
-bip_39_word_underscore_5: chef_job_network_inflict_churn
-bip_39_word_underscore_6: chef_job_network_inflict_churn_mom
-bip_39_word_underscore_7: chef_job_network_inflict_churn_mom_escape
-bip_39_word_underscore_8: chef_job_network_inflict_churn_mom_escape_liberty
-bip_39_word_underscore_9: chef_job_network_inflict_churn_mom_escape_liberty_settle
 classification: category
 classification_capital: Category
 classification_first_letter: c

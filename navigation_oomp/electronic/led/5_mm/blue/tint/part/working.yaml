@@ -1,68 +1,9 @@
-bip_39_word_dash_1: control
-bip_39_word_dash_10: control-combine-deer-sunset-spawn-pony-kind-canoe-burden-unusual
-bip_39_word_dash_11: control-combine-deer-sunset-spawn-pony-kind-canoe-burden-unusual-giraffe
 bip_39_word_dash_12: control-combine-deer-sunset-spawn-pony-kind-canoe-burden-unusual-giraffe-assist
 bip_39_word_dash_2: control-combine
 bip_39_word_dash_3: control-combine-deer
-bip_39_word_dash_4: control-combine-deer-sunset
-bip_39_word_dash_5: control-combine-deer-sunset-spawn
-bip_39_word_dash_6: control-combine-deer-sunset-spawn-pony
-bip_39_word_dash_7: control-combine-deer-sunset-spawn-pony-kind
-bip_39_word_dash_8: control-combine-deer-sunset-spawn-pony-kind-canoe
-bip_39_word_dash_9: control-combine-deer-sunset-spawn-pony-kind-canoe-burden
-bip_39_word_new_br_1: control
-bip_39_word_new_br_10: control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual
-bip_39_word_new_br_11: control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual<br>giraffe
 bip_39_word_new_br_12: control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden<br>unusual<br>giraffe<br>assist
 bip_39_word_new_br_2: control<br>combine
 bip_39_word_new_br_3: control<br>combine<br>deer
-bip_39_word_new_br_4: control<br>combine<br>deer<br>sunset
-bip_39_word_new_br_5: control<br>combine<br>deer<br>sunset<br>spawn
-bip_39_word_new_br_6: control<br>combine<br>deer<br>sunset<br>spawn<br>pony
-bip_39_word_new_br_7: control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind
-bip_39_word_new_br_8: control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe
-bip_39_word_new_br_9: control<br>combine<br>deer<br>sunset<br>spawn<br>pony<br>kind<br>canoe<br>burden
-bip_39_word_new_line_1: control
-bip_39_word_new_line_10: 'control
-
-  combine
-
-  deer
-
-  sunset
-
-  spawn
-
-  pony
-
-  kind
-
-  canoe
-
-  burden
-
-  unusual'
-bip_39_word_new_line_11: 'control
-
-  combine
-
-  deer
-
-  sunset
-
-  spawn
-
-  pony
-
-  kind
-
-  canoe
-
-  burden
-
-  unusual
-
-  giraffe'
 bip_39_word_new_line_12: 'control
 
   combine
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'control
   combine
 
   deer'
-bip_39_word_new_line_4: 'control
-
-  combine
-
-  deer
-
-  sunset'
-bip_39_word_new_line_5: 'control
-
-  combine
-
-  deer
-
-  sunset
-
-  spawn'
-bip_39_word_new_line_6: 'control
-
-  combine
-
-  deer
-
-  sunset
-
-  spawn
-
-  pony'
-bip_39_word_new_line_7: 'control
-
-  combine
-
-  deer
-
-  sunset
-
-  spawn
-
-  pony
-
-  kind'
-bip_39_word_new_line_8: 'control
-
-  combine
-
-  deer
-
-  sunset
-
-  spawn
-
-  pony
-
-  kind
-
-  canoe'
-bip_39_word_new_line_9: 'control
-
-  combine
-
-  deer
-
-  sunset
-
-  spawn
-
-  pony
-
-  kind
-
-  canoe
-
-  burden'
-bip_39_word_no_space_1: control
-bip_39_word_no_space_10: controlcombinedeersunsetspawnponykindcanoeburdenunusual
-bip_39_word_no_space_11: controlcombinedeersunsetspawnponykindcanoeburdenunusualgiraffe
 bip_39_word_no_space_12: controlcombinedeersunsetspawnponykindcanoeburdenunusualgiraffeassist
 bip_39_word_no_space_2: controlcombine
 bip_39_word_no_space_3: controlcombinedeer
-bip_39_word_no_space_4: controlcombinedeersunset
-bip_39_word_no_space_5: controlcombinedeersunsetspawn
-bip_39_word_no_space_6: controlcombinedeersunsetspawnpony
-bip_39_word_no_space_7: controlcombinedeersunsetspawnponykind
-bip_39_word_no_space_8: controlcombinedeersunsetspawnponykindcanoe
-bip_39_word_no_space_9: controlcombinedeersunsetspawnponykindcanoeburden
-bip_39_word_space_0:
-- control
-- combine
-- deer
-- sunset
-- spawn
-- pony
-- kind
-- canoe
-- burden
-- unusual
-- giraffe
-- assist
-bip_39_word_space_1: control
-bip_39_word_space_10: control combine deer sunset spawn pony kind canoe burden unusual
-bip_39_word_space_11: control combine deer sunset spawn pony kind canoe burden unusual
-  giraffe
 bip_39_word_space_12: control combine deer sunset spawn pony kind canoe burden unusual
   giraffe assist
 bip_39_word_space_2: control combine
 bip_39_word_space_3: control combine deer
-bip_39_word_space_4: control combine deer sunset
-bip_39_word_space_5: control combine deer sunset spawn
-bip_39_word_space_6: control combine deer sunset spawn pony
-bip_39_word_space_7: control combine deer sunset spawn pony kind
-bip_39_word_space_8: control combine deer sunset spawn pony kind canoe
-bip_39_word_space_9: control combine deer sunset spawn pony kind canoe burden
-bip_39_word_underscore_1: control
-bip_39_word_underscore_10: control_combine_deer_sunset_spawn_pony_kind_canoe_burden_unusual
-bip_39_word_underscore_11: control_combine_deer_sunset_spawn_pony_kind_canoe_burden_unusual_giraffe
 bip_39_word_underscore_12: control_combine_deer_sunset_spawn_pony_kind_canoe_burden_unusual_giraffe_assist
 bip_39_word_underscore_2: control_combine
 bip_39_word_underscore_3: control_combine_deer
-bip_39_word_underscore_4: control_combine_deer_sunset
-bip_39_word_underscore_5: control_combine_deer_sunset_spawn
-bip_39_word_underscore_6: control_combine_deer_sunset_spawn_pony
-bip_39_word_underscore_7: control_combine_deer_sunset_spawn_pony_kind
-bip_39_word_underscore_8: control_combine_deer_sunset_spawn_pony_kind_canoe
-bip_39_word_underscore_9: control_combine_deer_sunset_spawn_pony_kind_canoe_burden
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

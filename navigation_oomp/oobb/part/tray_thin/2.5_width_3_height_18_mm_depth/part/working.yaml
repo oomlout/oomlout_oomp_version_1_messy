@@ -1,68 +1,9 @@
-bip_39_word_dash_1: normal
-bip_39_word_dash_10: normal-congress-coyote-stay-escape-art-clay-slab-display-balcony
-bip_39_word_dash_11: normal-congress-coyote-stay-escape-art-clay-slab-display-balcony-return
 bip_39_word_dash_12: normal-congress-coyote-stay-escape-art-clay-slab-display-balcony-return-again
 bip_39_word_dash_2: normal-congress
 bip_39_word_dash_3: normal-congress-coyote
-bip_39_word_dash_4: normal-congress-coyote-stay
-bip_39_word_dash_5: normal-congress-coyote-stay-escape
-bip_39_word_dash_6: normal-congress-coyote-stay-escape-art
-bip_39_word_dash_7: normal-congress-coyote-stay-escape-art-clay
-bip_39_word_dash_8: normal-congress-coyote-stay-escape-art-clay-slab
-bip_39_word_dash_9: normal-congress-coyote-stay-escape-art-clay-slab-display
-bip_39_word_new_br_1: normal
-bip_39_word_new_br_10: normal<br>congress<br>coyote<br>stay<br>escape<br>art<br>clay<br>slab<br>display<br>balcony
-bip_39_word_new_br_11: normal<br>congress<br>coyote<br>stay<br>escape<br>art<br>clay<br>slab<br>display<br>balcony<br>return
 bip_39_word_new_br_12: normal<br>congress<br>coyote<br>stay<br>escape<br>art<br>clay<br>slab<br>display<br>balcony<br>return<br>again
 bip_39_word_new_br_2: normal<br>congress
 bip_39_word_new_br_3: normal<br>congress<br>coyote
-bip_39_word_new_br_4: normal<br>congress<br>coyote<br>stay
-bip_39_word_new_br_5: normal<br>congress<br>coyote<br>stay<br>escape
-bip_39_word_new_br_6: normal<br>congress<br>coyote<br>stay<br>escape<br>art
-bip_39_word_new_br_7: normal<br>congress<br>coyote<br>stay<br>escape<br>art<br>clay
-bip_39_word_new_br_8: normal<br>congress<br>coyote<br>stay<br>escape<br>art<br>clay<br>slab
-bip_39_word_new_br_9: normal<br>congress<br>coyote<br>stay<br>escape<br>art<br>clay<br>slab<br>display
-bip_39_word_new_line_1: normal
-bip_39_word_new_line_10: 'normal
-
-  congress
-
-  coyote
-
-  stay
-
-  escape
-
-  art
-
-  clay
-
-  slab
-
-  display
-
-  balcony'
-bip_39_word_new_line_11: 'normal
-
-  congress
-
-  coyote
-
-  stay
-
-  escape
-
-  art
-
-  clay
-
-  slab
-
-  display
-
-  balcony
-
-  return'
 bip_39_word_new_line_12: 'normal
 
   congress
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'normal
   congress
 
   coyote'
-bip_39_word_new_line_4: 'normal
-
-  congress
-
-  coyote
-
-  stay'
-bip_39_word_new_line_5: 'normal
-
-  congress
-
-  coyote
-
-  stay
-
-  escape'
-bip_39_word_new_line_6: 'normal
-
-  congress
-
-  coyote
-
-  stay
-
-  escape
-
-  art'
-bip_39_word_new_line_7: 'normal
-
-  congress
-
-  coyote
-
-  stay
-
-  escape
-
-  art
-
-  clay'
-bip_39_word_new_line_8: 'normal
-
-  congress
-
-  coyote
-
-  stay
-
-  escape
-
-  art
-
-  clay
-
-  slab'
-bip_39_word_new_line_9: 'normal
-
-  congress
-
-  coyote
-
-  stay
-
-  escape
-
-  art
-
-  clay
-
-  slab
-
-  display'
-bip_39_word_no_space_1: normal
-bip_39_word_no_space_10: normalcongresscoyotestayescapeartclayslabdisplaybalcony
-bip_39_word_no_space_11: normalcongresscoyotestayescapeartclayslabdisplaybalconyreturn
 bip_39_word_no_space_12: normalcongresscoyotestayescapeartclayslabdisplaybalconyreturnagain
 bip_39_word_no_space_2: normalcongress
 bip_39_word_no_space_3: normalcongresscoyote
-bip_39_word_no_space_4: normalcongresscoyotestay
-bip_39_word_no_space_5: normalcongresscoyotestayescape
-bip_39_word_no_space_6: normalcongresscoyotestayescapeart
-bip_39_word_no_space_7: normalcongresscoyotestayescapeartclay
-bip_39_word_no_space_8: normalcongresscoyotestayescapeartclayslab
-bip_39_word_no_space_9: normalcongresscoyotestayescapeartclayslabdisplay
-bip_39_word_space_0:
-- normal
-- congress
-- coyote
-- stay
-- escape
-- art
-- clay
-- slab
-- display
-- balcony
-- return
-- again
-bip_39_word_space_1: normal
-bip_39_word_space_10: normal congress coyote stay escape art clay slab display balcony
-bip_39_word_space_11: normal congress coyote stay escape art clay slab display balcony
-  return
 bip_39_word_space_12: normal congress coyote stay escape art clay slab display balcony
   return again
 bip_39_word_space_2: normal congress
 bip_39_word_space_3: normal congress coyote
-bip_39_word_space_4: normal congress coyote stay
-bip_39_word_space_5: normal congress coyote stay escape
-bip_39_word_space_6: normal congress coyote stay escape art
-bip_39_word_space_7: normal congress coyote stay escape art clay
-bip_39_word_space_8: normal congress coyote stay escape art clay slab
-bip_39_word_space_9: normal congress coyote stay escape art clay slab display
-bip_39_word_underscore_1: normal
-bip_39_word_underscore_10: normal_congress_coyote_stay_escape_art_clay_slab_display_balcony
-bip_39_word_underscore_11: normal_congress_coyote_stay_escape_art_clay_slab_display_balcony_return
 bip_39_word_underscore_12: normal_congress_coyote_stay_escape_art_clay_slab_display_balcony_return_again
 bip_39_word_underscore_2: normal_congress
 bip_39_word_underscore_3: normal_congress_coyote
-bip_39_word_underscore_4: normal_congress_coyote_stay
-bip_39_word_underscore_5: normal_congress_coyote_stay_escape
-bip_39_word_underscore_6: normal_congress_coyote_stay_escape_art
-bip_39_word_underscore_7: normal_congress_coyote_stay_escape_art_clay
-bip_39_word_underscore_8: normal_congress_coyote_stay_escape_art_clay_slab
-bip_39_word_underscore_9: normal_congress_coyote_stay_escape_art_clay_slab_display
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

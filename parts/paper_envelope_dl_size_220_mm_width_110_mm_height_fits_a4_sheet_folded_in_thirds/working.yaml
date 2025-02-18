@@ -1,68 +1,9 @@
-bip_39_word_dash_1: polar
-bip_39_word_dash_10: polar-donor-depth-air-timber-coffee-roast-firm-toy-one
-bip_39_word_dash_11: polar-donor-depth-air-timber-coffee-roast-firm-toy-one-stadium
 bip_39_word_dash_12: polar-donor-depth-air-timber-coffee-roast-firm-toy-one-stadium-attend
 bip_39_word_dash_2: polar-donor
 bip_39_word_dash_3: polar-donor-depth
-bip_39_word_dash_4: polar-donor-depth-air
-bip_39_word_dash_5: polar-donor-depth-air-timber
-bip_39_word_dash_6: polar-donor-depth-air-timber-coffee
-bip_39_word_dash_7: polar-donor-depth-air-timber-coffee-roast
-bip_39_word_dash_8: polar-donor-depth-air-timber-coffee-roast-firm
-bip_39_word_dash_9: polar-donor-depth-air-timber-coffee-roast-firm-toy
-bip_39_word_new_br_1: polar
-bip_39_word_new_br_10: polar<br>donor<br>depth<br>air<br>timber<br>coffee<br>roast<br>firm<br>toy<br>one
-bip_39_word_new_br_11: polar<br>donor<br>depth<br>air<br>timber<br>coffee<br>roast<br>firm<br>toy<br>one<br>stadium
 bip_39_word_new_br_12: polar<br>donor<br>depth<br>air<br>timber<br>coffee<br>roast<br>firm<br>toy<br>one<br>stadium<br>attend
 bip_39_word_new_br_2: polar<br>donor
 bip_39_word_new_br_3: polar<br>donor<br>depth
-bip_39_word_new_br_4: polar<br>donor<br>depth<br>air
-bip_39_word_new_br_5: polar<br>donor<br>depth<br>air<br>timber
-bip_39_word_new_br_6: polar<br>donor<br>depth<br>air<br>timber<br>coffee
-bip_39_word_new_br_7: polar<br>donor<br>depth<br>air<br>timber<br>coffee<br>roast
-bip_39_word_new_br_8: polar<br>donor<br>depth<br>air<br>timber<br>coffee<br>roast<br>firm
-bip_39_word_new_br_9: polar<br>donor<br>depth<br>air<br>timber<br>coffee<br>roast<br>firm<br>toy
-bip_39_word_new_line_1: polar
-bip_39_word_new_line_10: 'polar
-
-  donor
-
-  depth
-
-  air
-
-  timber
-
-  coffee
-
-  roast
-
-  firm
-
-  toy
-
-  one'
-bip_39_word_new_line_11: 'polar
-
-  donor
-
-  depth
-
-  air
-
-  timber
-
-  coffee
-
-  roast
-
-  firm
-
-  toy
-
-  one
-
-  stadium'
 bip_39_word_new_line_12: 'polar
 
   donor
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'polar
   donor
 
   depth'
-bip_39_word_new_line_4: 'polar
-
-  donor
-
-  depth
-
-  air'
-bip_39_word_new_line_5: 'polar
-
-  donor
-
-  depth
-
-  air
-
-  timber'
-bip_39_word_new_line_6: 'polar
-
-  donor
-
-  depth
-
-  air
-
-  timber
-
-  coffee'
-bip_39_word_new_line_7: 'polar
-
-  donor
-
-  depth
-
-  air
-
-  timber
-
-  coffee
-
-  roast'
-bip_39_word_new_line_8: 'polar
-
-  donor
-
-  depth
-
-  air
-
-  timber
-
-  coffee
-
-  roast
-
-  firm'
-bip_39_word_new_line_9: 'polar
-
-  donor
-
-  depth
-
-  air
-
-  timber
-
-  coffee
-
-  roast
-
-  firm
-
-  toy'
-bip_39_word_no_space_1: polar
-bip_39_word_no_space_10: polardonordepthairtimbercoffeeroastfirmtoyone
-bip_39_word_no_space_11: polardonordepthairtimbercoffeeroastfirmtoyonestadium
 bip_39_word_no_space_12: polardonordepthairtimbercoffeeroastfirmtoyonestadiumattend
 bip_39_word_no_space_2: polardonor
 bip_39_word_no_space_3: polardonordepth
-bip_39_word_no_space_4: polardonordepthair
-bip_39_word_no_space_5: polardonordepthairtimber
-bip_39_word_no_space_6: polardonordepthairtimbercoffee
-bip_39_word_no_space_7: polardonordepthairtimbercoffeeroast
-bip_39_word_no_space_8: polardonordepthairtimbercoffeeroastfirm
-bip_39_word_no_space_9: polardonordepthairtimbercoffeeroastfirmtoy
-bip_39_word_space_0:
-- polar
-- donor
-- depth
-- air
-- timber
-- coffee
-- roast
-- firm
-- toy
-- one
-- stadium
-- attend
-bip_39_word_space_1: polar
-bip_39_word_space_10: polar donor depth air timber coffee roast firm toy one
-bip_39_word_space_11: polar donor depth air timber coffee roast firm toy one stadium
 bip_39_word_space_12: polar donor depth air timber coffee roast firm toy one stadium
   attend
 bip_39_word_space_2: polar donor
 bip_39_word_space_3: polar donor depth
-bip_39_word_space_4: polar donor depth air
-bip_39_word_space_5: polar donor depth air timber
-bip_39_word_space_6: polar donor depth air timber coffee
-bip_39_word_space_7: polar donor depth air timber coffee roast
-bip_39_word_space_8: polar donor depth air timber coffee roast firm
-bip_39_word_space_9: polar donor depth air timber coffee roast firm toy
-bip_39_word_underscore_1: polar
-bip_39_word_underscore_10: polar_donor_depth_air_timber_coffee_roast_firm_toy_one
-bip_39_word_underscore_11: polar_donor_depth_air_timber_coffee_roast_firm_toy_one_stadium
 bip_39_word_underscore_12: polar_donor_depth_air_timber_coffee_roast_firm_toy_one_stadium_attend
 bip_39_word_underscore_2: polar_donor
 bip_39_word_underscore_3: polar_donor_depth
-bip_39_word_underscore_4: polar_donor_depth_air
-bip_39_word_underscore_5: polar_donor_depth_air_timber
-bip_39_word_underscore_6: polar_donor_depth_air_timber_coffee
-bip_39_word_underscore_7: polar_donor_depth_air_timber_coffee_roast
-bip_39_word_underscore_8: polar_donor_depth_air_timber_coffee_roast_firm
-bip_39_word_underscore_9: polar_donor_depth_air_timber_coffee_roast_firm_toy
 classification: paper
 classification_capital: Paper
 classification_first_letter: p

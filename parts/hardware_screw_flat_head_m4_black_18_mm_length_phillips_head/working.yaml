@@ -1,68 +1,9 @@
-bip_39_word_dash_1: panic
-bip_39_word_dash_10: panic-drift-dose-fossil-coast-mixed-inherit-vacuum-bunker-tribe
-bip_39_word_dash_11: panic-drift-dose-fossil-coast-mixed-inherit-vacuum-bunker-tribe-parade
 bip_39_word_dash_12: panic-drift-dose-fossil-coast-mixed-inherit-vacuum-bunker-tribe-parade-actual
 bip_39_word_dash_2: panic-drift
 bip_39_word_dash_3: panic-drift-dose
-bip_39_word_dash_4: panic-drift-dose-fossil
-bip_39_word_dash_5: panic-drift-dose-fossil-coast
-bip_39_word_dash_6: panic-drift-dose-fossil-coast-mixed
-bip_39_word_dash_7: panic-drift-dose-fossil-coast-mixed-inherit
-bip_39_word_dash_8: panic-drift-dose-fossil-coast-mixed-inherit-vacuum
-bip_39_word_dash_9: panic-drift-dose-fossil-coast-mixed-inherit-vacuum-bunker
-bip_39_word_new_br_1: panic
-bip_39_word_new_br_10: panic<br>drift<br>dose<br>fossil<br>coast<br>mixed<br>inherit<br>vacuum<br>bunker<br>tribe
-bip_39_word_new_br_11: panic<br>drift<br>dose<br>fossil<br>coast<br>mixed<br>inherit<br>vacuum<br>bunker<br>tribe<br>parade
 bip_39_word_new_br_12: panic<br>drift<br>dose<br>fossil<br>coast<br>mixed<br>inherit<br>vacuum<br>bunker<br>tribe<br>parade<br>actual
 bip_39_word_new_br_2: panic<br>drift
 bip_39_word_new_br_3: panic<br>drift<br>dose
-bip_39_word_new_br_4: panic<br>drift<br>dose<br>fossil
-bip_39_word_new_br_5: panic<br>drift<br>dose<br>fossil<br>coast
-bip_39_word_new_br_6: panic<br>drift<br>dose<br>fossil<br>coast<br>mixed
-bip_39_word_new_br_7: panic<br>drift<br>dose<br>fossil<br>coast<br>mixed<br>inherit
-bip_39_word_new_br_8: panic<br>drift<br>dose<br>fossil<br>coast<br>mixed<br>inherit<br>vacuum
-bip_39_word_new_br_9: panic<br>drift<br>dose<br>fossil<br>coast<br>mixed<br>inherit<br>vacuum<br>bunker
-bip_39_word_new_line_1: panic
-bip_39_word_new_line_10: 'panic
-
-  drift
-
-  dose
-
-  fossil
-
-  coast
-
-  mixed
-
-  inherit
-
-  vacuum
-
-  bunker
-
-  tribe'
-bip_39_word_new_line_11: 'panic
-
-  drift
-
-  dose
-
-  fossil
-
-  coast
-
-  mixed
-
-  inherit
-
-  vacuum
-
-  bunker
-
-  tribe
-
-  parade'
 bip_39_word_new_line_12: 'panic
 
   drift
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'panic
   drift
 
   dose'
-bip_39_word_new_line_4: 'panic
-
-  drift
-
-  dose
-
-  fossil'
-bip_39_word_new_line_5: 'panic
-
-  drift
-
-  dose
-
-  fossil
-
-  coast'
-bip_39_word_new_line_6: 'panic
-
-  drift
-
-  dose
-
-  fossil
-
-  coast
-
-  mixed'
-bip_39_word_new_line_7: 'panic
-
-  drift
-
-  dose
-
-  fossil
-
-  coast
-
-  mixed
-
-  inherit'
-bip_39_word_new_line_8: 'panic
-
-  drift
-
-  dose
-
-  fossil
-
-  coast
-
-  mixed
-
-  inherit
-
-  vacuum'
-bip_39_word_new_line_9: 'panic
-
-  drift
-
-  dose
-
-  fossil
-
-  coast
-
-  mixed
-
-  inherit
-
-  vacuum
-
-  bunker'
-bip_39_word_no_space_1: panic
-bip_39_word_no_space_10: panicdriftdosefossilcoastmixedinheritvacuumbunkertribe
-bip_39_word_no_space_11: panicdriftdosefossilcoastmixedinheritvacuumbunkertribeparade
 bip_39_word_no_space_12: panicdriftdosefossilcoastmixedinheritvacuumbunkertribeparadeactual
 bip_39_word_no_space_2: panicdrift
 bip_39_word_no_space_3: panicdriftdose
-bip_39_word_no_space_4: panicdriftdosefossil
-bip_39_word_no_space_5: panicdriftdosefossilcoast
-bip_39_word_no_space_6: panicdriftdosefossilcoastmixed
-bip_39_word_no_space_7: panicdriftdosefossilcoastmixedinherit
-bip_39_word_no_space_8: panicdriftdosefossilcoastmixedinheritvacuum
-bip_39_word_no_space_9: panicdriftdosefossilcoastmixedinheritvacuumbunker
-bip_39_word_space_0:
-- panic
-- drift
-- dose
-- fossil
-- coast
-- mixed
-- inherit
-- vacuum
-- bunker
-- tribe
-- parade
-- actual
-bip_39_word_space_1: panic
-bip_39_word_space_10: panic drift dose fossil coast mixed inherit vacuum bunker tribe
-bip_39_word_space_11: panic drift dose fossil coast mixed inherit vacuum bunker tribe
-  parade
 bip_39_word_space_12: panic drift dose fossil coast mixed inherit vacuum bunker tribe
   parade actual
 bip_39_word_space_2: panic drift
 bip_39_word_space_3: panic drift dose
-bip_39_word_space_4: panic drift dose fossil
-bip_39_word_space_5: panic drift dose fossil coast
-bip_39_word_space_6: panic drift dose fossil coast mixed
-bip_39_word_space_7: panic drift dose fossil coast mixed inherit
-bip_39_word_space_8: panic drift dose fossil coast mixed inherit vacuum
-bip_39_word_space_9: panic drift dose fossil coast mixed inherit vacuum bunker
-bip_39_word_underscore_1: panic
-bip_39_word_underscore_10: panic_drift_dose_fossil_coast_mixed_inherit_vacuum_bunker_tribe
-bip_39_word_underscore_11: panic_drift_dose_fossil_coast_mixed_inherit_vacuum_bunker_tribe_parade
 bip_39_word_underscore_12: panic_drift_dose_fossil_coast_mixed_inherit_vacuum_bunker_tribe_parade_actual
 bip_39_word_underscore_2: panic_drift
 bip_39_word_underscore_3: panic_drift_dose
-bip_39_word_underscore_4: panic_drift_dose_fossil
-bip_39_word_underscore_5: panic_drift_dose_fossil_coast
-bip_39_word_underscore_6: panic_drift_dose_fossil_coast_mixed
-bip_39_word_underscore_7: panic_drift_dose_fossil_coast_mixed_inherit
-bip_39_word_underscore_8: panic_drift_dose_fossil_coast_mixed_inherit_vacuum
-bip_39_word_underscore_9: panic_drift_dose_fossil_coast_mixed_inherit_vacuum_bunker
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: regular
-bip_39_word_dash_10: regular-chunk-birth-night-matter-always-alpha-grace-field-ranch
-bip_39_word_dash_11: regular-chunk-birth-night-matter-always-alpha-grace-field-ranch-foster
 bip_39_word_dash_12: regular-chunk-birth-night-matter-always-alpha-grace-field-ranch-foster-any
 bip_39_word_dash_2: regular-chunk
 bip_39_word_dash_3: regular-chunk-birth
-bip_39_word_dash_4: regular-chunk-birth-night
-bip_39_word_dash_5: regular-chunk-birth-night-matter
-bip_39_word_dash_6: regular-chunk-birth-night-matter-always
-bip_39_word_dash_7: regular-chunk-birth-night-matter-always-alpha
-bip_39_word_dash_8: regular-chunk-birth-night-matter-always-alpha-grace
-bip_39_word_dash_9: regular-chunk-birth-night-matter-always-alpha-grace-field
-bip_39_word_new_br_1: regular
-bip_39_word_new_br_10: regular<br>chunk<br>birth<br>night<br>matter<br>always<br>alpha<br>grace<br>field<br>ranch
-bip_39_word_new_br_11: regular<br>chunk<br>birth<br>night<br>matter<br>always<br>alpha<br>grace<br>field<br>ranch<br>foster
 bip_39_word_new_br_12: regular<br>chunk<br>birth<br>night<br>matter<br>always<br>alpha<br>grace<br>field<br>ranch<br>foster<br>any
 bip_39_word_new_br_2: regular<br>chunk
 bip_39_word_new_br_3: regular<br>chunk<br>birth
-bip_39_word_new_br_4: regular<br>chunk<br>birth<br>night
-bip_39_word_new_br_5: regular<br>chunk<br>birth<br>night<br>matter
-bip_39_word_new_br_6: regular<br>chunk<br>birth<br>night<br>matter<br>always
-bip_39_word_new_br_7: regular<br>chunk<br>birth<br>night<br>matter<br>always<br>alpha
-bip_39_word_new_br_8: regular<br>chunk<br>birth<br>night<br>matter<br>always<br>alpha<br>grace
-bip_39_word_new_br_9: regular<br>chunk<br>birth<br>night<br>matter<br>always<br>alpha<br>grace<br>field
-bip_39_word_new_line_1: regular
-bip_39_word_new_line_10: 'regular
-
-  chunk
-
-  birth
-
-  night
-
-  matter
-
-  always
-
-  alpha
-
-  grace
-
-  field
-
-  ranch'
-bip_39_word_new_line_11: 'regular
-
-  chunk
-
-  birth
-
-  night
-
-  matter
-
-  always
-
-  alpha
-
-  grace
-
-  field
-
-  ranch
-
-  foster'
 bip_39_word_new_line_12: 'regular
 
   chunk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'regular
   chunk
 
   birth'
-bip_39_word_new_line_4: 'regular
-
-  chunk
-
-  birth
-
-  night'
-bip_39_word_new_line_5: 'regular
-
-  chunk
-
-  birth
-
-  night
-
-  matter'
-bip_39_word_new_line_6: 'regular
-
-  chunk
-
-  birth
-
-  night
-
-  matter
-
-  always'
-bip_39_word_new_line_7: 'regular
-
-  chunk
-
-  birth
-
-  night
-
-  matter
-
-  always
-
-  alpha'
-bip_39_word_new_line_8: 'regular
-
-  chunk
-
-  birth
-
-  night
-
-  matter
-
-  always
-
-  alpha
-
-  grace'
-bip_39_word_new_line_9: 'regular
-
-  chunk
-
-  birth
-
-  night
-
-  matter
-
-  always
-
-  alpha
-
-  grace
-
-  field'
-bip_39_word_no_space_1: regular
-bip_39_word_no_space_10: regularchunkbirthnightmatteralwaysalphagracefieldranch
-bip_39_word_no_space_11: regularchunkbirthnightmatteralwaysalphagracefieldranchfoster
 bip_39_word_no_space_12: regularchunkbirthnightmatteralwaysalphagracefieldranchfosterany
 bip_39_word_no_space_2: regularchunk
 bip_39_word_no_space_3: regularchunkbirth
-bip_39_word_no_space_4: regularchunkbirthnight
-bip_39_word_no_space_5: regularchunkbirthnightmatter
-bip_39_word_no_space_6: regularchunkbirthnightmatteralways
-bip_39_word_no_space_7: regularchunkbirthnightmatteralwaysalpha
-bip_39_word_no_space_8: regularchunkbirthnightmatteralwaysalphagrace
-bip_39_word_no_space_9: regularchunkbirthnightmatteralwaysalphagracefield
-bip_39_word_space_0:
-- regular
-- chunk
-- birth
-- night
-- matter
-- always
-- alpha
-- grace
-- field
-- ranch
-- foster
-- any
-bip_39_word_space_1: regular
-bip_39_word_space_10: regular chunk birth night matter always alpha grace field ranch
-bip_39_word_space_11: regular chunk birth night matter always alpha grace field ranch
-  foster
 bip_39_word_space_12: regular chunk birth night matter always alpha grace field ranch
   foster any
 bip_39_word_space_2: regular chunk
 bip_39_word_space_3: regular chunk birth
-bip_39_word_space_4: regular chunk birth night
-bip_39_word_space_5: regular chunk birth night matter
-bip_39_word_space_6: regular chunk birth night matter always
-bip_39_word_space_7: regular chunk birth night matter always alpha
-bip_39_word_space_8: regular chunk birth night matter always alpha grace
-bip_39_word_space_9: regular chunk birth night matter always alpha grace field
-bip_39_word_underscore_1: regular
-bip_39_word_underscore_10: regular_chunk_birth_night_matter_always_alpha_grace_field_ranch
-bip_39_word_underscore_11: regular_chunk_birth_night_matter_always_alpha_grace_field_ranch_foster
 bip_39_word_underscore_12: regular_chunk_birth_night_matter_always_alpha_grace_field_ranch_foster_any
 bip_39_word_underscore_2: regular_chunk
 bip_39_word_underscore_3: regular_chunk_birth
-bip_39_word_underscore_4: regular_chunk_birth_night
-bip_39_word_underscore_5: regular_chunk_birth_night_matter
-bip_39_word_underscore_6: regular_chunk_birth_night_matter_always
-bip_39_word_underscore_7: regular_chunk_birth_night_matter_always_alpha
-bip_39_word_underscore_8: regular_chunk_birth_night_matter_always_alpha_grace
-bip_39_word_underscore_9: regular_chunk_birth_night_matter_always_alpha_grace_field
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: always
-bip_39_word_dash_10: always-sibling-noise-negative-poverty-gloom-dad-annual-december-bind
-bip_39_word_dash_11: always-sibling-noise-negative-poverty-gloom-dad-annual-december-bind-sentence
 bip_39_word_dash_12: always-sibling-noise-negative-poverty-gloom-dad-annual-december-bind-sentence-apple
 bip_39_word_dash_2: always-sibling
 bip_39_word_dash_3: always-sibling-noise
-bip_39_word_dash_4: always-sibling-noise-negative
-bip_39_word_dash_5: always-sibling-noise-negative-poverty
-bip_39_word_dash_6: always-sibling-noise-negative-poverty-gloom
-bip_39_word_dash_7: always-sibling-noise-negative-poverty-gloom-dad
-bip_39_word_dash_8: always-sibling-noise-negative-poverty-gloom-dad-annual
-bip_39_word_dash_9: always-sibling-noise-negative-poverty-gloom-dad-annual-december
-bip_39_word_new_br_1: always
-bip_39_word_new_br_10: always<br>sibling<br>noise<br>negative<br>poverty<br>gloom<br>dad<br>annual<br>december<br>bind
-bip_39_word_new_br_11: always<br>sibling<br>noise<br>negative<br>poverty<br>gloom<br>dad<br>annual<br>december<br>bind<br>sentence
 bip_39_word_new_br_12: always<br>sibling<br>noise<br>negative<br>poverty<br>gloom<br>dad<br>annual<br>december<br>bind<br>sentence<br>apple
 bip_39_word_new_br_2: always<br>sibling
 bip_39_word_new_br_3: always<br>sibling<br>noise
-bip_39_word_new_br_4: always<br>sibling<br>noise<br>negative
-bip_39_word_new_br_5: always<br>sibling<br>noise<br>negative<br>poverty
-bip_39_word_new_br_6: always<br>sibling<br>noise<br>negative<br>poverty<br>gloom
-bip_39_word_new_br_7: always<br>sibling<br>noise<br>negative<br>poverty<br>gloom<br>dad
-bip_39_word_new_br_8: always<br>sibling<br>noise<br>negative<br>poverty<br>gloom<br>dad<br>annual
-bip_39_word_new_br_9: always<br>sibling<br>noise<br>negative<br>poverty<br>gloom<br>dad<br>annual<br>december
-bip_39_word_new_line_1: always
-bip_39_word_new_line_10: 'always
-
-  sibling
-
-  noise
-
-  negative
-
-  poverty
-
-  gloom
-
-  dad
-
-  annual
-
-  december
-
-  bind'
-bip_39_word_new_line_11: 'always
-
-  sibling
-
-  noise
-
-  negative
-
-  poverty
-
-  gloom
-
-  dad
-
-  annual
-
-  december
-
-  bind
-
-  sentence'
 bip_39_word_new_line_12: 'always
 
   sibling
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'always
   sibling
 
   noise'
-bip_39_word_new_line_4: 'always
-
-  sibling
-
-  noise
-
-  negative'
-bip_39_word_new_line_5: 'always
-
-  sibling
-
-  noise
-
-  negative
-
-  poverty'
-bip_39_word_new_line_6: 'always
-
-  sibling
-
-  noise
-
-  negative
-
-  poverty
-
-  gloom'
-bip_39_word_new_line_7: 'always
-
-  sibling
-
-  noise
-
-  negative
-
-  poverty
-
-  gloom
-
-  dad'
-bip_39_word_new_line_8: 'always
-
-  sibling
-
-  noise
-
-  negative
-
-  poverty
-
-  gloom
-
-  dad
-
-  annual'
-bip_39_word_new_line_9: 'always
-
-  sibling
-
-  noise
-
-  negative
-
-  poverty
-
-  gloom
-
-  dad
-
-  annual
-
-  december'
-bip_39_word_no_space_1: always
-bip_39_word_no_space_10: alwayssiblingnoisenegativepovertygloomdadannualdecemberbind
-bip_39_word_no_space_11: alwayssiblingnoisenegativepovertygloomdadannualdecemberbindsentence
 bip_39_word_no_space_12: alwayssiblingnoisenegativepovertygloomdadannualdecemberbindsentenceapple
 bip_39_word_no_space_2: alwayssibling
 bip_39_word_no_space_3: alwayssiblingnoise
-bip_39_word_no_space_4: alwayssiblingnoisenegative
-bip_39_word_no_space_5: alwayssiblingnoisenegativepoverty
-bip_39_word_no_space_6: alwayssiblingnoisenegativepovertygloom
-bip_39_word_no_space_7: alwayssiblingnoisenegativepovertygloomdad
-bip_39_word_no_space_8: alwayssiblingnoisenegativepovertygloomdadannual
-bip_39_word_no_space_9: alwayssiblingnoisenegativepovertygloomdadannualdecember
-bip_39_word_space_0:
-- always
-- sibling
-- noise
-- negative
-- poverty
-- gloom
-- dad
-- annual
-- december
-- bind
-- sentence
-- apple
-bip_39_word_space_1: always
-bip_39_word_space_10: always sibling noise negative poverty gloom dad annual december
-  bind
-bip_39_word_space_11: always sibling noise negative poverty gloom dad annual december
-  bind sentence
 bip_39_word_space_12: always sibling noise negative poverty gloom dad annual december
   bind sentence apple
 bip_39_word_space_2: always sibling
 bip_39_word_space_3: always sibling noise
-bip_39_word_space_4: always sibling noise negative
-bip_39_word_space_5: always sibling noise negative poverty
-bip_39_word_space_6: always sibling noise negative poverty gloom
-bip_39_word_space_7: always sibling noise negative poverty gloom dad
-bip_39_word_space_8: always sibling noise negative poverty gloom dad annual
-bip_39_word_space_9: always sibling noise negative poverty gloom dad annual december
-bip_39_word_underscore_1: always
-bip_39_word_underscore_10: always_sibling_noise_negative_poverty_gloom_dad_annual_december_bind
-bip_39_word_underscore_11: always_sibling_noise_negative_poverty_gloom_dad_annual_december_bind_sentence
 bip_39_word_underscore_12: always_sibling_noise_negative_poverty_gloom_dad_annual_december_bind_sentence_apple
 bip_39_word_underscore_2: always_sibling
 bip_39_word_underscore_3: always_sibling_noise
-bip_39_word_underscore_4: always_sibling_noise_negative
-bip_39_word_underscore_5: always_sibling_noise_negative_poverty
-bip_39_word_underscore_6: always_sibling_noise_negative_poverty_gloom
-bip_39_word_underscore_7: always_sibling_noise_negative_poverty_gloom_dad
-bip_39_word_underscore_8: always_sibling_noise_negative_poverty_gloom_dad_annual
-bip_39_word_underscore_9: always_sibling_noise_negative_poverty_gloom_dad_annual_december
 classification: category
 classification_capital: Category
 classification_first_letter: c

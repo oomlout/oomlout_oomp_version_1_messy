@@ -1,68 +1,9 @@
-bip_39_word_dash_1: helmet
-bip_39_word_dash_10: helmet-cruel-visit-yellow-bracket-peasant-dose-genius-argue-umbrella
-bip_39_word_dash_11: helmet-cruel-visit-yellow-bracket-peasant-dose-genius-argue-umbrella-bar
 bip_39_word_dash_12: helmet-cruel-visit-yellow-bracket-peasant-dose-genius-argue-umbrella-bar-assist
 bip_39_word_dash_2: helmet-cruel
 bip_39_word_dash_3: helmet-cruel-visit
-bip_39_word_dash_4: helmet-cruel-visit-yellow
-bip_39_word_dash_5: helmet-cruel-visit-yellow-bracket
-bip_39_word_dash_6: helmet-cruel-visit-yellow-bracket-peasant
-bip_39_word_dash_7: helmet-cruel-visit-yellow-bracket-peasant-dose
-bip_39_word_dash_8: helmet-cruel-visit-yellow-bracket-peasant-dose-genius
-bip_39_word_dash_9: helmet-cruel-visit-yellow-bracket-peasant-dose-genius-argue
-bip_39_word_new_br_1: helmet
-bip_39_word_new_br_10: helmet<br>cruel<br>visit<br>yellow<br>bracket<br>peasant<br>dose<br>genius<br>argue<br>umbrella
-bip_39_word_new_br_11: helmet<br>cruel<br>visit<br>yellow<br>bracket<br>peasant<br>dose<br>genius<br>argue<br>umbrella<br>bar
 bip_39_word_new_br_12: helmet<br>cruel<br>visit<br>yellow<br>bracket<br>peasant<br>dose<br>genius<br>argue<br>umbrella<br>bar<br>assist
 bip_39_word_new_br_2: helmet<br>cruel
 bip_39_word_new_br_3: helmet<br>cruel<br>visit
-bip_39_word_new_br_4: helmet<br>cruel<br>visit<br>yellow
-bip_39_word_new_br_5: helmet<br>cruel<br>visit<br>yellow<br>bracket
-bip_39_word_new_br_6: helmet<br>cruel<br>visit<br>yellow<br>bracket<br>peasant
-bip_39_word_new_br_7: helmet<br>cruel<br>visit<br>yellow<br>bracket<br>peasant<br>dose
-bip_39_word_new_br_8: helmet<br>cruel<br>visit<br>yellow<br>bracket<br>peasant<br>dose<br>genius
-bip_39_word_new_br_9: helmet<br>cruel<br>visit<br>yellow<br>bracket<br>peasant<br>dose<br>genius<br>argue
-bip_39_word_new_line_1: helmet
-bip_39_word_new_line_10: 'helmet
-
-  cruel
-
-  visit
-
-  yellow
-
-  bracket
-
-  peasant
-
-  dose
-
-  genius
-
-  argue
-
-  umbrella'
-bip_39_word_new_line_11: 'helmet
-
-  cruel
-
-  visit
-
-  yellow
-
-  bracket
-
-  peasant
-
-  dose
-
-  genius
-
-  argue
-
-  umbrella
-
-  bar'
 bip_39_word_new_line_12: 'helmet
 
   cruel
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'helmet
   cruel
 
   visit'
-bip_39_word_new_line_4: 'helmet
-
-  cruel
-
-  visit
-
-  yellow'
-bip_39_word_new_line_5: 'helmet
-
-  cruel
-
-  visit
-
-  yellow
-
-  bracket'
-bip_39_word_new_line_6: 'helmet
-
-  cruel
-
-  visit
-
-  yellow
-
-  bracket
-
-  peasant'
-bip_39_word_new_line_7: 'helmet
-
-  cruel
-
-  visit
-
-  yellow
-
-  bracket
-
-  peasant
-
-  dose'
-bip_39_word_new_line_8: 'helmet
-
-  cruel
-
-  visit
-
-  yellow
-
-  bracket
-
-  peasant
-
-  dose
-
-  genius'
-bip_39_word_new_line_9: 'helmet
-
-  cruel
-
-  visit
-
-  yellow
-
-  bracket
-
-  peasant
-
-  dose
-
-  genius
-
-  argue'
-bip_39_word_no_space_1: helmet
-bip_39_word_no_space_10: helmetcruelvisityellowbracketpeasantdosegeniusargueumbrella
-bip_39_word_no_space_11: helmetcruelvisityellowbracketpeasantdosegeniusargueumbrellabar
 bip_39_word_no_space_12: helmetcruelvisityellowbracketpeasantdosegeniusargueumbrellabarassist
 bip_39_word_no_space_2: helmetcruel
 bip_39_word_no_space_3: helmetcruelvisit
-bip_39_word_no_space_4: helmetcruelvisityellow
-bip_39_word_no_space_5: helmetcruelvisityellowbracket
-bip_39_word_no_space_6: helmetcruelvisityellowbracketpeasant
-bip_39_word_no_space_7: helmetcruelvisityellowbracketpeasantdose
-bip_39_word_no_space_8: helmetcruelvisityellowbracketpeasantdosegenius
-bip_39_word_no_space_9: helmetcruelvisityellowbracketpeasantdosegeniusargue
-bip_39_word_space_0:
-- helmet
-- cruel
-- visit
-- yellow
-- bracket
-- peasant
-- dose
-- genius
-- argue
-- umbrella
-- bar
-- assist
-bip_39_word_space_1: helmet
-bip_39_word_space_10: helmet cruel visit yellow bracket peasant dose genius argue
-  umbrella
-bip_39_word_space_11: helmet cruel visit yellow bracket peasant dose genius argue
-  umbrella bar
 bip_39_word_space_12: helmet cruel visit yellow bracket peasant dose genius argue
   umbrella bar assist
 bip_39_word_space_2: helmet cruel
 bip_39_word_space_3: helmet cruel visit
-bip_39_word_space_4: helmet cruel visit yellow
-bip_39_word_space_5: helmet cruel visit yellow bracket
-bip_39_word_space_6: helmet cruel visit yellow bracket peasant
-bip_39_word_space_7: helmet cruel visit yellow bracket peasant dose
-bip_39_word_space_8: helmet cruel visit yellow bracket peasant dose genius
-bip_39_word_space_9: helmet cruel visit yellow bracket peasant dose genius argue
-bip_39_word_underscore_1: helmet
-bip_39_word_underscore_10: helmet_cruel_visit_yellow_bracket_peasant_dose_genius_argue_umbrella
-bip_39_word_underscore_11: helmet_cruel_visit_yellow_bracket_peasant_dose_genius_argue_umbrella_bar
 bip_39_word_underscore_12: helmet_cruel_visit_yellow_bracket_peasant_dose_genius_argue_umbrella_bar_assist
 bip_39_word_underscore_2: helmet_cruel
 bip_39_word_underscore_3: helmet_cruel_visit
-bip_39_word_underscore_4: helmet_cruel_visit_yellow
-bip_39_word_underscore_5: helmet_cruel_visit_yellow_bracket
-bip_39_word_underscore_6: helmet_cruel_visit_yellow_bracket_peasant
-bip_39_word_underscore_7: helmet_cruel_visit_yellow_bracket_peasant_dose
-bip_39_word_underscore_8: helmet_cruel_visit_yellow_bracket_peasant_dose_genius
-bip_39_word_underscore_9: helmet_cruel_visit_yellow_bracket_peasant_dose_genius_argue
 classification: category
 classification_capital: Category
 classification_first_letter: c

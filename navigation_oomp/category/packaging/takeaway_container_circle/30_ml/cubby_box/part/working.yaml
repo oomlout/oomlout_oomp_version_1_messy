@@ -1,68 +1,9 @@
-bip_39_word_dash_1: trial
-bip_39_word_dash_10: trial-holiday-urban-spice-love-inspire-ordinary-enlist-benefit-enter
-bip_39_word_dash_11: trial-holiday-urban-spice-love-inspire-ordinary-enlist-benefit-enter-rebel
 bip_39_word_dash_12: trial-holiday-urban-spice-love-inspire-ordinary-enlist-benefit-enter-rebel-answer
 bip_39_word_dash_2: trial-holiday
 bip_39_word_dash_3: trial-holiday-urban
-bip_39_word_dash_4: trial-holiday-urban-spice
-bip_39_word_dash_5: trial-holiday-urban-spice-love
-bip_39_word_dash_6: trial-holiday-urban-spice-love-inspire
-bip_39_word_dash_7: trial-holiday-urban-spice-love-inspire-ordinary
-bip_39_word_dash_8: trial-holiday-urban-spice-love-inspire-ordinary-enlist
-bip_39_word_dash_9: trial-holiday-urban-spice-love-inspire-ordinary-enlist-benefit
-bip_39_word_new_br_1: trial
-bip_39_word_new_br_10: trial<br>holiday<br>urban<br>spice<br>love<br>inspire<br>ordinary<br>enlist<br>benefit<br>enter
-bip_39_word_new_br_11: trial<br>holiday<br>urban<br>spice<br>love<br>inspire<br>ordinary<br>enlist<br>benefit<br>enter<br>rebel
 bip_39_word_new_br_12: trial<br>holiday<br>urban<br>spice<br>love<br>inspire<br>ordinary<br>enlist<br>benefit<br>enter<br>rebel<br>answer
 bip_39_word_new_br_2: trial<br>holiday
 bip_39_word_new_br_3: trial<br>holiday<br>urban
-bip_39_word_new_br_4: trial<br>holiday<br>urban<br>spice
-bip_39_word_new_br_5: trial<br>holiday<br>urban<br>spice<br>love
-bip_39_word_new_br_6: trial<br>holiday<br>urban<br>spice<br>love<br>inspire
-bip_39_word_new_br_7: trial<br>holiday<br>urban<br>spice<br>love<br>inspire<br>ordinary
-bip_39_word_new_br_8: trial<br>holiday<br>urban<br>spice<br>love<br>inspire<br>ordinary<br>enlist
-bip_39_word_new_br_9: trial<br>holiday<br>urban<br>spice<br>love<br>inspire<br>ordinary<br>enlist<br>benefit
-bip_39_word_new_line_1: trial
-bip_39_word_new_line_10: 'trial
-
-  holiday
-
-  urban
-
-  spice
-
-  love
-
-  inspire
-
-  ordinary
-
-  enlist
-
-  benefit
-
-  enter'
-bip_39_word_new_line_11: 'trial
-
-  holiday
-
-  urban
-
-  spice
-
-  love
-
-  inspire
-
-  ordinary
-
-  enlist
-
-  benefit
-
-  enter
-
-  rebel'
 bip_39_word_new_line_12: 'trial
 
   holiday
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'trial
   holiday
 
   urban'
-bip_39_word_new_line_4: 'trial
-
-  holiday
-
-  urban
-
-  spice'
-bip_39_word_new_line_5: 'trial
-
-  holiday
-
-  urban
-
-  spice
-
-  love'
-bip_39_word_new_line_6: 'trial
-
-  holiday
-
-  urban
-
-  spice
-
-  love
-
-  inspire'
-bip_39_word_new_line_7: 'trial
-
-  holiday
-
-  urban
-
-  spice
-
-  love
-
-  inspire
-
-  ordinary'
-bip_39_word_new_line_8: 'trial
-
-  holiday
-
-  urban
-
-  spice
-
-  love
-
-  inspire
-
-  ordinary
-
-  enlist'
-bip_39_word_new_line_9: 'trial
-
-  holiday
-
-  urban
-
-  spice
-
-  love
-
-  inspire
-
-  ordinary
-
-  enlist
-
-  benefit'
-bip_39_word_no_space_1: trial
-bip_39_word_no_space_10: trialholidayurbanspiceloveinspireordinaryenlistbenefitenter
-bip_39_word_no_space_11: trialholidayurbanspiceloveinspireordinaryenlistbenefitenterrebel
 bip_39_word_no_space_12: trialholidayurbanspiceloveinspireordinaryenlistbenefitenterrebelanswer
 bip_39_word_no_space_2: trialholiday
 bip_39_word_no_space_3: trialholidayurban
-bip_39_word_no_space_4: trialholidayurbanspice
-bip_39_word_no_space_5: trialholidayurbanspicelove
-bip_39_word_no_space_6: trialholidayurbanspiceloveinspire
-bip_39_word_no_space_7: trialholidayurbanspiceloveinspireordinary
-bip_39_word_no_space_8: trialholidayurbanspiceloveinspireordinaryenlist
-bip_39_word_no_space_9: trialholidayurbanspiceloveinspireordinaryenlistbenefit
-bip_39_word_space_0:
-- trial
-- holiday
-- urban
-- spice
-- love
-- inspire
-- ordinary
-- enlist
-- benefit
-- enter
-- rebel
-- answer
-bip_39_word_space_1: trial
-bip_39_word_space_10: trial holiday urban spice love inspire ordinary enlist benefit
-  enter
-bip_39_word_space_11: trial holiday urban spice love inspire ordinary enlist benefit
-  enter rebel
 bip_39_word_space_12: trial holiday urban spice love inspire ordinary enlist benefit
   enter rebel answer
 bip_39_word_space_2: trial holiday
 bip_39_word_space_3: trial holiday urban
-bip_39_word_space_4: trial holiday urban spice
-bip_39_word_space_5: trial holiday urban spice love
-bip_39_word_space_6: trial holiday urban spice love inspire
-bip_39_word_space_7: trial holiday urban spice love inspire ordinary
-bip_39_word_space_8: trial holiday urban spice love inspire ordinary enlist
-bip_39_word_space_9: trial holiday urban spice love inspire ordinary enlist benefit
-bip_39_word_underscore_1: trial
-bip_39_word_underscore_10: trial_holiday_urban_spice_love_inspire_ordinary_enlist_benefit_enter
-bip_39_word_underscore_11: trial_holiday_urban_spice_love_inspire_ordinary_enlist_benefit_enter_rebel
 bip_39_word_underscore_12: trial_holiday_urban_spice_love_inspire_ordinary_enlist_benefit_enter_rebel_answer
 bip_39_word_underscore_2: trial_holiday
 bip_39_word_underscore_3: trial_holiday_urban
-bip_39_word_underscore_4: trial_holiday_urban_spice
-bip_39_word_underscore_5: trial_holiday_urban_spice_love
-bip_39_word_underscore_6: trial_holiday_urban_spice_love_inspire
-bip_39_word_underscore_7: trial_holiday_urban_spice_love_inspire_ordinary
-bip_39_word_underscore_8: trial_holiday_urban_spice_love_inspire_ordinary_enlist
-bip_39_word_underscore_9: trial_holiday_urban_spice_love_inspire_ordinary_enlist_benefit
 classification: category
 classification_capital: Category
 classification_first_letter: c

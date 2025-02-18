@@ -1,68 +1,9 @@
-bip_39_word_dash_1: buffalo
-bip_39_word_dash_10: buffalo-prefer-logic-canoe-escape-antique-wheat-quote-spring-bicycle
-bip_39_word_dash_11: buffalo-prefer-logic-canoe-escape-antique-wheat-quote-spring-bicycle-slight
 bip_39_word_dash_12: buffalo-prefer-logic-canoe-escape-antique-wheat-quote-spring-bicycle-slight-approve
 bip_39_word_dash_2: buffalo-prefer
 bip_39_word_dash_3: buffalo-prefer-logic
-bip_39_word_dash_4: buffalo-prefer-logic-canoe
-bip_39_word_dash_5: buffalo-prefer-logic-canoe-escape
-bip_39_word_dash_6: buffalo-prefer-logic-canoe-escape-antique
-bip_39_word_dash_7: buffalo-prefer-logic-canoe-escape-antique-wheat
-bip_39_word_dash_8: buffalo-prefer-logic-canoe-escape-antique-wheat-quote
-bip_39_word_dash_9: buffalo-prefer-logic-canoe-escape-antique-wheat-quote-spring
-bip_39_word_new_br_1: buffalo
-bip_39_word_new_br_10: buffalo<br>prefer<br>logic<br>canoe<br>escape<br>antique<br>wheat<br>quote<br>spring<br>bicycle
-bip_39_word_new_br_11: buffalo<br>prefer<br>logic<br>canoe<br>escape<br>antique<br>wheat<br>quote<br>spring<br>bicycle<br>slight
 bip_39_word_new_br_12: buffalo<br>prefer<br>logic<br>canoe<br>escape<br>antique<br>wheat<br>quote<br>spring<br>bicycle<br>slight<br>approve
 bip_39_word_new_br_2: buffalo<br>prefer
 bip_39_word_new_br_3: buffalo<br>prefer<br>logic
-bip_39_word_new_br_4: buffalo<br>prefer<br>logic<br>canoe
-bip_39_word_new_br_5: buffalo<br>prefer<br>logic<br>canoe<br>escape
-bip_39_word_new_br_6: buffalo<br>prefer<br>logic<br>canoe<br>escape<br>antique
-bip_39_word_new_br_7: buffalo<br>prefer<br>logic<br>canoe<br>escape<br>antique<br>wheat
-bip_39_word_new_br_8: buffalo<br>prefer<br>logic<br>canoe<br>escape<br>antique<br>wheat<br>quote
-bip_39_word_new_br_9: buffalo<br>prefer<br>logic<br>canoe<br>escape<br>antique<br>wheat<br>quote<br>spring
-bip_39_word_new_line_1: buffalo
-bip_39_word_new_line_10: 'buffalo
-
-  prefer
-
-  logic
-
-  canoe
-
-  escape
-
-  antique
-
-  wheat
-
-  quote
-
-  spring
-
-  bicycle'
-bip_39_word_new_line_11: 'buffalo
-
-  prefer
-
-  logic
-
-  canoe
-
-  escape
-
-  antique
-
-  wheat
-
-  quote
-
-  spring
-
-  bicycle
-
-  slight'
 bip_39_word_new_line_12: 'buffalo
 
   prefer
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'buffalo
   prefer
 
   logic'
-bip_39_word_new_line_4: 'buffalo
-
-  prefer
-
-  logic
-
-  canoe'
-bip_39_word_new_line_5: 'buffalo
-
-  prefer
-
-  logic
-
-  canoe
-
-  escape'
-bip_39_word_new_line_6: 'buffalo
-
-  prefer
-
-  logic
-
-  canoe
-
-  escape
-
-  antique'
-bip_39_word_new_line_7: 'buffalo
-
-  prefer
-
-  logic
-
-  canoe
-
-  escape
-
-  antique
-
-  wheat'
-bip_39_word_new_line_8: 'buffalo
-
-  prefer
-
-  logic
-
-  canoe
-
-  escape
-
-  antique
-
-  wheat
-
-  quote'
-bip_39_word_new_line_9: 'buffalo
-
-  prefer
-
-  logic
-
-  canoe
-
-  escape
-
-  antique
-
-  wheat
-
-  quote
-
-  spring'
-bip_39_word_no_space_1: buffalo
-bip_39_word_no_space_10: buffalopreferlogiccanoeescapeantiquewheatquotespringbicycle
-bip_39_word_no_space_11: buffalopreferlogiccanoeescapeantiquewheatquotespringbicycleslight
 bip_39_word_no_space_12: buffalopreferlogiccanoeescapeantiquewheatquotespringbicycleslightapprove
 bip_39_word_no_space_2: buffaloprefer
 bip_39_word_no_space_3: buffalopreferlogic
-bip_39_word_no_space_4: buffalopreferlogiccanoe
-bip_39_word_no_space_5: buffalopreferlogiccanoeescape
-bip_39_word_no_space_6: buffalopreferlogiccanoeescapeantique
-bip_39_word_no_space_7: buffalopreferlogiccanoeescapeantiquewheat
-bip_39_word_no_space_8: buffalopreferlogiccanoeescapeantiquewheatquote
-bip_39_word_no_space_9: buffalopreferlogiccanoeescapeantiquewheatquotespring
-bip_39_word_space_0:
-- buffalo
-- prefer
-- logic
-- canoe
-- escape
-- antique
-- wheat
-- quote
-- spring
-- bicycle
-- slight
-- approve
-bip_39_word_space_1: buffalo
-bip_39_word_space_10: buffalo prefer logic canoe escape antique wheat quote spring
-  bicycle
-bip_39_word_space_11: buffalo prefer logic canoe escape antique wheat quote spring
-  bicycle slight
 bip_39_word_space_12: buffalo prefer logic canoe escape antique wheat quote spring
   bicycle slight approve
 bip_39_word_space_2: buffalo prefer
 bip_39_word_space_3: buffalo prefer logic
-bip_39_word_space_4: buffalo prefer logic canoe
-bip_39_word_space_5: buffalo prefer logic canoe escape
-bip_39_word_space_6: buffalo prefer logic canoe escape antique
-bip_39_word_space_7: buffalo prefer logic canoe escape antique wheat
-bip_39_word_space_8: buffalo prefer logic canoe escape antique wheat quote
-bip_39_word_space_9: buffalo prefer logic canoe escape antique wheat quote spring
-bip_39_word_underscore_1: buffalo
-bip_39_word_underscore_10: buffalo_prefer_logic_canoe_escape_antique_wheat_quote_spring_bicycle
-bip_39_word_underscore_11: buffalo_prefer_logic_canoe_escape_antique_wheat_quote_spring_bicycle_slight
 bip_39_word_underscore_12: buffalo_prefer_logic_canoe_escape_antique_wheat_quote_spring_bicycle_slight_approve
 bip_39_word_underscore_2: buffalo_prefer
 bip_39_word_underscore_3: buffalo_prefer_logic
-bip_39_word_underscore_4: buffalo_prefer_logic_canoe
-bip_39_word_underscore_5: buffalo_prefer_logic_canoe_escape
-bip_39_word_underscore_6: buffalo_prefer_logic_canoe_escape_antique
-bip_39_word_underscore_7: buffalo_prefer_logic_canoe_escape_antique_wheat
-bip_39_word_underscore_8: buffalo_prefer_logic_canoe_escape_antique_wheat_quote
-bip_39_word_underscore_9: buffalo_prefer_logic_canoe_escape_antique_wheat_quote_spring
 classification: food
 classification_capital: Food
 classification_first_letter: f

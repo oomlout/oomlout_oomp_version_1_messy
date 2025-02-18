@@ -1,68 +1,9 @@
-bip_39_word_dash_1: text
-bip_39_word_dash_10: text-appear-insect-video-success-embark-surround-benefit-uniform-health
-bip_39_word_dash_11: text-appear-insect-video-success-embark-surround-benefit-uniform-health-obscure
 bip_39_word_dash_12: text-appear-insect-video-success-embark-surround-benefit-uniform-health-obscure-arrow
 bip_39_word_dash_2: text-appear
 bip_39_word_dash_3: text-appear-insect
-bip_39_word_dash_4: text-appear-insect-video
-bip_39_word_dash_5: text-appear-insect-video-success
-bip_39_word_dash_6: text-appear-insect-video-success-embark
-bip_39_word_dash_7: text-appear-insect-video-success-embark-surround
-bip_39_word_dash_8: text-appear-insect-video-success-embark-surround-benefit
-bip_39_word_dash_9: text-appear-insect-video-success-embark-surround-benefit-uniform
-bip_39_word_new_br_1: text
-bip_39_word_new_br_10: text<br>appear<br>insect<br>video<br>success<br>embark<br>surround<br>benefit<br>uniform<br>health
-bip_39_word_new_br_11: text<br>appear<br>insect<br>video<br>success<br>embark<br>surround<br>benefit<br>uniform<br>health<br>obscure
 bip_39_word_new_br_12: text<br>appear<br>insect<br>video<br>success<br>embark<br>surround<br>benefit<br>uniform<br>health<br>obscure<br>arrow
 bip_39_word_new_br_2: text<br>appear
 bip_39_word_new_br_3: text<br>appear<br>insect
-bip_39_word_new_br_4: text<br>appear<br>insect<br>video
-bip_39_word_new_br_5: text<br>appear<br>insect<br>video<br>success
-bip_39_word_new_br_6: text<br>appear<br>insect<br>video<br>success<br>embark
-bip_39_word_new_br_7: text<br>appear<br>insect<br>video<br>success<br>embark<br>surround
-bip_39_word_new_br_8: text<br>appear<br>insect<br>video<br>success<br>embark<br>surround<br>benefit
-bip_39_word_new_br_9: text<br>appear<br>insect<br>video<br>success<br>embark<br>surround<br>benefit<br>uniform
-bip_39_word_new_line_1: text
-bip_39_word_new_line_10: 'text
-
-  appear
-
-  insect
-
-  video
-
-  success
-
-  embark
-
-  surround
-
-  benefit
-
-  uniform
-
-  health'
-bip_39_word_new_line_11: 'text
-
-  appear
-
-  insect
-
-  video
-
-  success
-
-  embark
-
-  surround
-
-  benefit
-
-  uniform
-
-  health
-
-  obscure'
 bip_39_word_new_line_12: 'text
 
   appear
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'text
   appear
 
   insect'
-bip_39_word_new_line_4: 'text
-
-  appear
-
-  insect
-
-  video'
-bip_39_word_new_line_5: 'text
-
-  appear
-
-  insect
-
-  video
-
-  success'
-bip_39_word_new_line_6: 'text
-
-  appear
-
-  insect
-
-  video
-
-  success
-
-  embark'
-bip_39_word_new_line_7: 'text
-
-  appear
-
-  insect
-
-  video
-
-  success
-
-  embark
-
-  surround'
-bip_39_word_new_line_8: 'text
-
-  appear
-
-  insect
-
-  video
-
-  success
-
-  embark
-
-  surround
-
-  benefit'
-bip_39_word_new_line_9: 'text
-
-  appear
-
-  insect
-
-  video
-
-  success
-
-  embark
-
-  surround
-
-  benefit
-
-  uniform'
-bip_39_word_no_space_1: text
-bip_39_word_no_space_10: textappearinsectvideosuccessembarksurroundbenefituniformhealth
-bip_39_word_no_space_11: textappearinsectvideosuccessembarksurroundbenefituniformhealthobscure
 bip_39_word_no_space_12: textappearinsectvideosuccessembarksurroundbenefituniformhealthobscurearrow
 bip_39_word_no_space_2: textappear
 bip_39_word_no_space_3: textappearinsect
-bip_39_word_no_space_4: textappearinsectvideo
-bip_39_word_no_space_5: textappearinsectvideosuccess
-bip_39_word_no_space_6: textappearinsectvideosuccessembark
-bip_39_word_no_space_7: textappearinsectvideosuccessembarksurround
-bip_39_word_no_space_8: textappearinsectvideosuccessembarksurroundbenefit
-bip_39_word_no_space_9: textappearinsectvideosuccessembarksurroundbenefituniform
-bip_39_word_space_0:
-- text
-- appear
-- insect
-- video
-- success
-- embark
-- surround
-- benefit
-- uniform
-- health
-- obscure
-- arrow
-bip_39_word_space_1: text
-bip_39_word_space_10: text appear insect video success embark surround benefit uniform
-  health
-bip_39_word_space_11: text appear insect video success embark surround benefit uniform
-  health obscure
 bip_39_word_space_12: text appear insect video success embark surround benefit uniform
   health obscure arrow
 bip_39_word_space_2: text appear
 bip_39_word_space_3: text appear insect
-bip_39_word_space_4: text appear insect video
-bip_39_word_space_5: text appear insect video success
-bip_39_word_space_6: text appear insect video success embark
-bip_39_word_space_7: text appear insect video success embark surround
-bip_39_word_space_8: text appear insect video success embark surround benefit
-bip_39_word_space_9: text appear insect video success embark surround benefit uniform
-bip_39_word_underscore_1: text
-bip_39_word_underscore_10: text_appear_insect_video_success_embark_surround_benefit_uniform_health
-bip_39_word_underscore_11: text_appear_insect_video_success_embark_surround_benefit_uniform_health_obscure
 bip_39_word_underscore_12: text_appear_insect_video_success_embark_surround_benefit_uniform_health_obscure_arrow
 bip_39_word_underscore_2: text_appear
 bip_39_word_underscore_3: text_appear_insect
-bip_39_word_underscore_4: text_appear_insect_video
-bip_39_word_underscore_5: text_appear_insect_video_success
-bip_39_word_underscore_6: text_appear_insect_video_success_embark
-bip_39_word_underscore_7: text_appear_insect_video_success_embark_surround
-bip_39_word_underscore_8: text_appear_insect_video_success_embark_surround_benefit
-bip_39_word_underscore_9: text_appear_insect_video_success_embark_surround_benefit_uniform
 classification: project
 classification_capital: Project
 classification_first_letter: p

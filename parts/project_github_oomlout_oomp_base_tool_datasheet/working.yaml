@@ -1,68 +1,9 @@
-bip_39_word_dash_1: make
-bip_39_word_dash_10: make-volcano-false-phrase-gain-puzzle-fall-satisfy-page-chase
-bip_39_word_dash_11: make-volcano-false-phrase-gain-puzzle-fall-satisfy-page-chase-panther
 bip_39_word_dash_12: make-volcano-false-phrase-gain-puzzle-fall-satisfy-page-chase-panther-art
 bip_39_word_dash_2: make-volcano
 bip_39_word_dash_3: make-volcano-false
-bip_39_word_dash_4: make-volcano-false-phrase
-bip_39_word_dash_5: make-volcano-false-phrase-gain
-bip_39_word_dash_6: make-volcano-false-phrase-gain-puzzle
-bip_39_word_dash_7: make-volcano-false-phrase-gain-puzzle-fall
-bip_39_word_dash_8: make-volcano-false-phrase-gain-puzzle-fall-satisfy
-bip_39_word_dash_9: make-volcano-false-phrase-gain-puzzle-fall-satisfy-page
-bip_39_word_new_br_1: make
-bip_39_word_new_br_10: make<br>volcano<br>false<br>phrase<br>gain<br>puzzle<br>fall<br>satisfy<br>page<br>chase
-bip_39_word_new_br_11: make<br>volcano<br>false<br>phrase<br>gain<br>puzzle<br>fall<br>satisfy<br>page<br>chase<br>panther
 bip_39_word_new_br_12: make<br>volcano<br>false<br>phrase<br>gain<br>puzzle<br>fall<br>satisfy<br>page<br>chase<br>panther<br>art
 bip_39_word_new_br_2: make<br>volcano
 bip_39_word_new_br_3: make<br>volcano<br>false
-bip_39_word_new_br_4: make<br>volcano<br>false<br>phrase
-bip_39_word_new_br_5: make<br>volcano<br>false<br>phrase<br>gain
-bip_39_word_new_br_6: make<br>volcano<br>false<br>phrase<br>gain<br>puzzle
-bip_39_word_new_br_7: make<br>volcano<br>false<br>phrase<br>gain<br>puzzle<br>fall
-bip_39_word_new_br_8: make<br>volcano<br>false<br>phrase<br>gain<br>puzzle<br>fall<br>satisfy
-bip_39_word_new_br_9: make<br>volcano<br>false<br>phrase<br>gain<br>puzzle<br>fall<br>satisfy<br>page
-bip_39_word_new_line_1: make
-bip_39_word_new_line_10: 'make
-
-  volcano
-
-  false
-
-  phrase
-
-  gain
-
-  puzzle
-
-  fall
-
-  satisfy
-
-  page
-
-  chase'
-bip_39_word_new_line_11: 'make
-
-  volcano
-
-  false
-
-  phrase
-
-  gain
-
-  puzzle
-
-  fall
-
-  satisfy
-
-  page
-
-  chase
-
-  panther'
 bip_39_word_new_line_12: 'make
 
   volcano
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'make
   volcano
 
   false'
-bip_39_word_new_line_4: 'make
-
-  volcano
-
-  false
-
-  phrase'
-bip_39_word_new_line_5: 'make
-
-  volcano
-
-  false
-
-  phrase
-
-  gain'
-bip_39_word_new_line_6: 'make
-
-  volcano
-
-  false
-
-  phrase
-
-  gain
-
-  puzzle'
-bip_39_word_new_line_7: 'make
-
-  volcano
-
-  false
-
-  phrase
-
-  gain
-
-  puzzle
-
-  fall'
-bip_39_word_new_line_8: 'make
-
-  volcano
-
-  false
-
-  phrase
-
-  gain
-
-  puzzle
-
-  fall
-
-  satisfy'
-bip_39_word_new_line_9: 'make
-
-  volcano
-
-  false
-
-  phrase
-
-  gain
-
-  puzzle
-
-  fall
-
-  satisfy
-
-  page'
-bip_39_word_no_space_1: make
-bip_39_word_no_space_10: makevolcanofalsephrasegainpuzzlefallsatisfypagechase
-bip_39_word_no_space_11: makevolcanofalsephrasegainpuzzlefallsatisfypagechasepanther
 bip_39_word_no_space_12: makevolcanofalsephrasegainpuzzlefallsatisfypagechasepantherart
 bip_39_word_no_space_2: makevolcano
 bip_39_word_no_space_3: makevolcanofalse
-bip_39_word_no_space_4: makevolcanofalsephrase
-bip_39_word_no_space_5: makevolcanofalsephrasegain
-bip_39_word_no_space_6: makevolcanofalsephrasegainpuzzle
-bip_39_word_no_space_7: makevolcanofalsephrasegainpuzzlefall
-bip_39_word_no_space_8: makevolcanofalsephrasegainpuzzlefallsatisfy
-bip_39_word_no_space_9: makevolcanofalsephrasegainpuzzlefallsatisfypage
-bip_39_word_space_0:
-- make
-- volcano
-- 'false'
-- phrase
-- gain
-- puzzle
-- fall
-- satisfy
-- page
-- chase
-- panther
-- art
-bip_39_word_space_1: make
-bip_39_word_space_10: make volcano false phrase gain puzzle fall satisfy page chase
-bip_39_word_space_11: make volcano false phrase gain puzzle fall satisfy page chase
-  panther
 bip_39_word_space_12: make volcano false phrase gain puzzle fall satisfy page chase
   panther art
 bip_39_word_space_2: make volcano
 bip_39_word_space_3: make volcano false
-bip_39_word_space_4: make volcano false phrase
-bip_39_word_space_5: make volcano false phrase gain
-bip_39_word_space_6: make volcano false phrase gain puzzle
-bip_39_word_space_7: make volcano false phrase gain puzzle fall
-bip_39_word_space_8: make volcano false phrase gain puzzle fall satisfy
-bip_39_word_space_9: make volcano false phrase gain puzzle fall satisfy page
-bip_39_word_underscore_1: make
-bip_39_word_underscore_10: make_volcano_false_phrase_gain_puzzle_fall_satisfy_page_chase
-bip_39_word_underscore_11: make_volcano_false_phrase_gain_puzzle_fall_satisfy_page_chase_panther
 bip_39_word_underscore_12: make_volcano_false_phrase_gain_puzzle_fall_satisfy_page_chase_panther_art
 bip_39_word_underscore_2: make_volcano
 bip_39_word_underscore_3: make_volcano_false
-bip_39_word_underscore_4: make_volcano_false_phrase
-bip_39_word_underscore_5: make_volcano_false_phrase_gain
-bip_39_word_underscore_6: make_volcano_false_phrase_gain_puzzle
-bip_39_word_underscore_7: make_volcano_false_phrase_gain_puzzle_fall
-bip_39_word_underscore_8: make_volcano_false_phrase_gain_puzzle_fall_satisfy
-bip_39_word_underscore_9: make_volcano_false_phrase_gain_puzzle_fall_satisfy_page
 classification: project
 classification_capital: Project
 classification_first_letter: p

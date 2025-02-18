@@ -1,68 +1,9 @@
-bip_39_word_dash_1: rabbit
-bip_39_word_dash_10: rabbit-latin-romance-melt-fluid-hazard-angry-maid-glass-ketchup
-bip_39_word_dash_11: rabbit-latin-romance-melt-fluid-hazard-angry-maid-glass-ketchup-treat
 bip_39_word_dash_12: rabbit-latin-romance-melt-fluid-hazard-angry-maid-glass-ketchup-treat-attack
 bip_39_word_dash_2: rabbit-latin
 bip_39_word_dash_3: rabbit-latin-romance
-bip_39_word_dash_4: rabbit-latin-romance-melt
-bip_39_word_dash_5: rabbit-latin-romance-melt-fluid
-bip_39_word_dash_6: rabbit-latin-romance-melt-fluid-hazard
-bip_39_word_dash_7: rabbit-latin-romance-melt-fluid-hazard-angry
-bip_39_word_dash_8: rabbit-latin-romance-melt-fluid-hazard-angry-maid
-bip_39_word_dash_9: rabbit-latin-romance-melt-fluid-hazard-angry-maid-glass
-bip_39_word_new_br_1: rabbit
-bip_39_word_new_br_10: rabbit<br>latin<br>romance<br>melt<br>fluid<br>hazard<br>angry<br>maid<br>glass<br>ketchup
-bip_39_word_new_br_11: rabbit<br>latin<br>romance<br>melt<br>fluid<br>hazard<br>angry<br>maid<br>glass<br>ketchup<br>treat
 bip_39_word_new_br_12: rabbit<br>latin<br>romance<br>melt<br>fluid<br>hazard<br>angry<br>maid<br>glass<br>ketchup<br>treat<br>attack
 bip_39_word_new_br_2: rabbit<br>latin
 bip_39_word_new_br_3: rabbit<br>latin<br>romance
-bip_39_word_new_br_4: rabbit<br>latin<br>romance<br>melt
-bip_39_word_new_br_5: rabbit<br>latin<br>romance<br>melt<br>fluid
-bip_39_word_new_br_6: rabbit<br>latin<br>romance<br>melt<br>fluid<br>hazard
-bip_39_word_new_br_7: rabbit<br>latin<br>romance<br>melt<br>fluid<br>hazard<br>angry
-bip_39_word_new_br_8: rabbit<br>latin<br>romance<br>melt<br>fluid<br>hazard<br>angry<br>maid
-bip_39_word_new_br_9: rabbit<br>latin<br>romance<br>melt<br>fluid<br>hazard<br>angry<br>maid<br>glass
-bip_39_word_new_line_1: rabbit
-bip_39_word_new_line_10: 'rabbit
-
-  latin
-
-  romance
-
-  melt
-
-  fluid
-
-  hazard
-
-  angry
-
-  maid
-
-  glass
-
-  ketchup'
-bip_39_word_new_line_11: 'rabbit
-
-  latin
-
-  romance
-
-  melt
-
-  fluid
-
-  hazard
-
-  angry
-
-  maid
-
-  glass
-
-  ketchup
-
-  treat'
 bip_39_word_new_line_12: 'rabbit
 
   latin
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'rabbit
   latin
 
   romance'
-bip_39_word_new_line_4: 'rabbit
-
-  latin
-
-  romance
-
-  melt'
-bip_39_word_new_line_5: 'rabbit
-
-  latin
-
-  romance
-
-  melt
-
-  fluid'
-bip_39_word_new_line_6: 'rabbit
-
-  latin
-
-  romance
-
-  melt
-
-  fluid
-
-  hazard'
-bip_39_word_new_line_7: 'rabbit
-
-  latin
-
-  romance
-
-  melt
-
-  fluid
-
-  hazard
-
-  angry'
-bip_39_word_new_line_8: 'rabbit
-
-  latin
-
-  romance
-
-  melt
-
-  fluid
-
-  hazard
-
-  angry
-
-  maid'
-bip_39_word_new_line_9: 'rabbit
-
-  latin
-
-  romance
-
-  melt
-
-  fluid
-
-  hazard
-
-  angry
-
-  maid
-
-  glass'
-bip_39_word_no_space_1: rabbit
-bip_39_word_no_space_10: rabbitlatinromancemeltfluidhazardangrymaidglassketchup
-bip_39_word_no_space_11: rabbitlatinromancemeltfluidhazardangrymaidglassketchuptreat
 bip_39_word_no_space_12: rabbitlatinromancemeltfluidhazardangrymaidglassketchuptreatattack
 bip_39_word_no_space_2: rabbitlatin
 bip_39_word_no_space_3: rabbitlatinromance
-bip_39_word_no_space_4: rabbitlatinromancemelt
-bip_39_word_no_space_5: rabbitlatinromancemeltfluid
-bip_39_word_no_space_6: rabbitlatinromancemeltfluidhazard
-bip_39_word_no_space_7: rabbitlatinromancemeltfluidhazardangry
-bip_39_word_no_space_8: rabbitlatinromancemeltfluidhazardangrymaid
-bip_39_word_no_space_9: rabbitlatinromancemeltfluidhazardangrymaidglass
-bip_39_word_space_0:
-- rabbit
-- latin
-- romance
-- melt
-- fluid
-- hazard
-- angry
-- maid
-- glass
-- ketchup
-- treat
-- attack
-bip_39_word_space_1: rabbit
-bip_39_word_space_10: rabbit latin romance melt fluid hazard angry maid glass ketchup
-bip_39_word_space_11: rabbit latin romance melt fluid hazard angry maid glass ketchup
-  treat
 bip_39_word_space_12: rabbit latin romance melt fluid hazard angry maid glass ketchup
   treat attack
 bip_39_word_space_2: rabbit latin
 bip_39_word_space_3: rabbit latin romance
-bip_39_word_space_4: rabbit latin romance melt
-bip_39_word_space_5: rabbit latin romance melt fluid
-bip_39_word_space_6: rabbit latin romance melt fluid hazard
-bip_39_word_space_7: rabbit latin romance melt fluid hazard angry
-bip_39_word_space_8: rabbit latin romance melt fluid hazard angry maid
-bip_39_word_space_9: rabbit latin romance melt fluid hazard angry maid glass
-bip_39_word_underscore_1: rabbit
-bip_39_word_underscore_10: rabbit_latin_romance_melt_fluid_hazard_angry_maid_glass_ketchup
-bip_39_word_underscore_11: rabbit_latin_romance_melt_fluid_hazard_angry_maid_glass_ketchup_treat
 bip_39_word_underscore_12: rabbit_latin_romance_melt_fluid_hazard_angry_maid_glass_ketchup_treat_attack
 bip_39_word_underscore_2: rabbit_latin
 bip_39_word_underscore_3: rabbit_latin_romance
-bip_39_word_underscore_4: rabbit_latin_romance_melt
-bip_39_word_underscore_5: rabbit_latin_romance_melt_fluid
-bip_39_word_underscore_6: rabbit_latin_romance_melt_fluid_hazard
-bip_39_word_underscore_7: rabbit_latin_romance_melt_fluid_hazard_angry
-bip_39_word_underscore_8: rabbit_latin_romance_melt_fluid_hazard_angry_maid
-bip_39_word_underscore_9: rabbit_latin_romance_melt_fluid_hazard_angry_maid_glass
 classification: warehouse
 classification_capital: Warehouse
 classification_first_letter: w

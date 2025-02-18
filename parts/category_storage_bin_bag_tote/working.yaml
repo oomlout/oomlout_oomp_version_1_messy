@@ -1,68 +1,9 @@
-bip_39_word_dash_1: state
-bip_39_word_dash_10: state-vehicle-toilet-ball-uphold-patrol-noodle-blade-abandon-win
-bip_39_word_dash_11: state-vehicle-toilet-ball-uphold-patrol-noodle-blade-abandon-win-veteran
 bip_39_word_dash_12: state-vehicle-toilet-ball-uphold-patrol-noodle-blade-abandon-win-veteran-attend
 bip_39_word_dash_2: state-vehicle
 bip_39_word_dash_3: state-vehicle-toilet
-bip_39_word_dash_4: state-vehicle-toilet-ball
-bip_39_word_dash_5: state-vehicle-toilet-ball-uphold
-bip_39_word_dash_6: state-vehicle-toilet-ball-uphold-patrol
-bip_39_word_dash_7: state-vehicle-toilet-ball-uphold-patrol-noodle
-bip_39_word_dash_8: state-vehicle-toilet-ball-uphold-patrol-noodle-blade
-bip_39_word_dash_9: state-vehicle-toilet-ball-uphold-patrol-noodle-blade-abandon
-bip_39_word_new_br_1: state
-bip_39_word_new_br_10: state<br>vehicle<br>toilet<br>ball<br>uphold<br>patrol<br>noodle<br>blade<br>abandon<br>win
-bip_39_word_new_br_11: state<br>vehicle<br>toilet<br>ball<br>uphold<br>patrol<br>noodle<br>blade<br>abandon<br>win<br>veteran
 bip_39_word_new_br_12: state<br>vehicle<br>toilet<br>ball<br>uphold<br>patrol<br>noodle<br>blade<br>abandon<br>win<br>veteran<br>attend
 bip_39_word_new_br_2: state<br>vehicle
 bip_39_word_new_br_3: state<br>vehicle<br>toilet
-bip_39_word_new_br_4: state<br>vehicle<br>toilet<br>ball
-bip_39_word_new_br_5: state<br>vehicle<br>toilet<br>ball<br>uphold
-bip_39_word_new_br_6: state<br>vehicle<br>toilet<br>ball<br>uphold<br>patrol
-bip_39_word_new_br_7: state<br>vehicle<br>toilet<br>ball<br>uphold<br>patrol<br>noodle
-bip_39_word_new_br_8: state<br>vehicle<br>toilet<br>ball<br>uphold<br>patrol<br>noodle<br>blade
-bip_39_word_new_br_9: state<br>vehicle<br>toilet<br>ball<br>uphold<br>patrol<br>noodle<br>blade<br>abandon
-bip_39_word_new_line_1: state
-bip_39_word_new_line_10: 'state
-
-  vehicle
-
-  toilet
-
-  ball
-
-  uphold
-
-  patrol
-
-  noodle
-
-  blade
-
-  abandon
-
-  win'
-bip_39_word_new_line_11: 'state
-
-  vehicle
-
-  toilet
-
-  ball
-
-  uphold
-
-  patrol
-
-  noodle
-
-  blade
-
-  abandon
-
-  win
-
-  veteran'
 bip_39_word_new_line_12: 'state
 
   vehicle
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'state
   vehicle
 
   toilet'
-bip_39_word_new_line_4: 'state
-
-  vehicle
-
-  toilet
-
-  ball'
-bip_39_word_new_line_5: 'state
-
-  vehicle
-
-  toilet
-
-  ball
-
-  uphold'
-bip_39_word_new_line_6: 'state
-
-  vehicle
-
-  toilet
-
-  ball
-
-  uphold
-
-  patrol'
-bip_39_word_new_line_7: 'state
-
-  vehicle
-
-  toilet
-
-  ball
-
-  uphold
-
-  patrol
-
-  noodle'
-bip_39_word_new_line_8: 'state
-
-  vehicle
-
-  toilet
-
-  ball
-
-  uphold
-
-  patrol
-
-  noodle
-
-  blade'
-bip_39_word_new_line_9: 'state
-
-  vehicle
-
-  toilet
-
-  ball
-
-  uphold
-
-  patrol
-
-  noodle
-
-  blade
-
-  abandon'
-bip_39_word_no_space_1: state
-bip_39_word_no_space_10: statevehicletoiletballupholdpatrolnoodlebladeabandonwin
-bip_39_word_no_space_11: statevehicletoiletballupholdpatrolnoodlebladeabandonwinveteran
 bip_39_word_no_space_12: statevehicletoiletballupholdpatrolnoodlebladeabandonwinveteranattend
 bip_39_word_no_space_2: statevehicle
 bip_39_word_no_space_3: statevehicletoilet
-bip_39_word_no_space_4: statevehicletoiletball
-bip_39_word_no_space_5: statevehicletoiletballuphold
-bip_39_word_no_space_6: statevehicletoiletballupholdpatrol
-bip_39_word_no_space_7: statevehicletoiletballupholdpatrolnoodle
-bip_39_word_no_space_8: statevehicletoiletballupholdpatrolnoodleblade
-bip_39_word_no_space_9: statevehicletoiletballupholdpatrolnoodlebladeabandon
-bip_39_word_space_0:
-- state
-- vehicle
-- toilet
-- ball
-- uphold
-- patrol
-- noodle
-- blade
-- abandon
-- win
-- veteran
-- attend
-bip_39_word_space_1: state
-bip_39_word_space_10: state vehicle toilet ball uphold patrol noodle blade abandon
-  win
-bip_39_word_space_11: state vehicle toilet ball uphold patrol noodle blade abandon
-  win veteran
 bip_39_word_space_12: state vehicle toilet ball uphold patrol noodle blade abandon
   win veteran attend
 bip_39_word_space_2: state vehicle
 bip_39_word_space_3: state vehicle toilet
-bip_39_word_space_4: state vehicle toilet ball
-bip_39_word_space_5: state vehicle toilet ball uphold
-bip_39_word_space_6: state vehicle toilet ball uphold patrol
-bip_39_word_space_7: state vehicle toilet ball uphold patrol noodle
-bip_39_word_space_8: state vehicle toilet ball uphold patrol noodle blade
-bip_39_word_space_9: state vehicle toilet ball uphold patrol noodle blade abandon
-bip_39_word_underscore_1: state
-bip_39_word_underscore_10: state_vehicle_toilet_ball_uphold_patrol_noodle_blade_abandon_win
-bip_39_word_underscore_11: state_vehicle_toilet_ball_uphold_patrol_noodle_blade_abandon_win_veteran
 bip_39_word_underscore_12: state_vehicle_toilet_ball_uphold_patrol_noodle_blade_abandon_win_veteran_attend
 bip_39_word_underscore_2: state_vehicle
 bip_39_word_underscore_3: state_vehicle_toilet
-bip_39_word_underscore_4: state_vehicle_toilet_ball
-bip_39_word_underscore_5: state_vehicle_toilet_ball_uphold
-bip_39_word_underscore_6: state_vehicle_toilet_ball_uphold_patrol
-bip_39_word_underscore_7: state_vehicle_toilet_ball_uphold_patrol_noodle
-bip_39_word_underscore_8: state_vehicle_toilet_ball_uphold_patrol_noodle_blade
-bip_39_word_underscore_9: state_vehicle_toilet_ball_uphold_patrol_noodle_blade_abandon
 classification: category
 classification_capital: Category
 classification_first_letter: c

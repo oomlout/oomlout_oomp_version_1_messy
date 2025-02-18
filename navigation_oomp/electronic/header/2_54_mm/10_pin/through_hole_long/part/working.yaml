@@ -1,68 +1,9 @@
-bip_39_word_dash_1: cloth
-bip_39_word_dash_10: cloth-wrap-will-awful-skull-person-output-upper-bird-split
-bip_39_word_dash_11: cloth-wrap-will-awful-skull-person-output-upper-bird-split-mercy
 bip_39_word_dash_12: cloth-wrap-will-awful-skull-person-output-upper-bird-split-mercy-aisle
 bip_39_word_dash_2: cloth-wrap
 bip_39_word_dash_3: cloth-wrap-will
-bip_39_word_dash_4: cloth-wrap-will-awful
-bip_39_word_dash_5: cloth-wrap-will-awful-skull
-bip_39_word_dash_6: cloth-wrap-will-awful-skull-person
-bip_39_word_dash_7: cloth-wrap-will-awful-skull-person-output
-bip_39_word_dash_8: cloth-wrap-will-awful-skull-person-output-upper
-bip_39_word_dash_9: cloth-wrap-will-awful-skull-person-output-upper-bird
-bip_39_word_new_br_1: cloth
-bip_39_word_new_br_10: cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split
-bip_39_word_new_br_11: cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split<br>mercy
 bip_39_word_new_br_12: cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split<br>mercy<br>aisle
 bip_39_word_new_br_2: cloth<br>wrap
 bip_39_word_new_br_3: cloth<br>wrap<br>will
-bip_39_word_new_br_4: cloth<br>wrap<br>will<br>awful
-bip_39_word_new_br_5: cloth<br>wrap<br>will<br>awful<br>skull
-bip_39_word_new_br_6: cloth<br>wrap<br>will<br>awful<br>skull<br>person
-bip_39_word_new_br_7: cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output
-bip_39_word_new_br_8: cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper
-bip_39_word_new_br_9: cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird
-bip_39_word_new_line_1: cloth
-bip_39_word_new_line_10: 'cloth
-
-  wrap
-
-  will
-
-  awful
-
-  skull
-
-  person
-
-  output
-
-  upper
-
-  bird
-
-  split'
-bip_39_word_new_line_11: 'cloth
-
-  wrap
-
-  will
-
-  awful
-
-  skull
-
-  person
-
-  output
-
-  upper
-
-  bird
-
-  split
-
-  mercy'
 bip_39_word_new_line_12: 'cloth
 
   wrap
@@ -94,128 +35,16 @@ bip_39_word_new_line_3: 'cloth
   wrap
 
   will'
-bip_39_word_new_line_4: 'cloth
-
-  wrap
-
-  will
-
-  awful'
-bip_39_word_new_line_5: 'cloth
-
-  wrap
-
-  will
-
-  awful
-
-  skull'
-bip_39_word_new_line_6: 'cloth
-
-  wrap
-
-  will
-
-  awful
-
-  skull
-
-  person'
-bip_39_word_new_line_7: 'cloth
-
-  wrap
-
-  will
-
-  awful
-
-  skull
-
-  person
-
-  output'
-bip_39_word_new_line_8: 'cloth
-
-  wrap
-
-  will
-
-  awful
-
-  skull
-
-  person
-
-  output
-
-  upper'
-bip_39_word_new_line_9: 'cloth
-
-  wrap
-
-  will
-
-  awful
-
-  skull
-
-  person
-
-  output
-
-  upper
-
-  bird'
-bip_39_word_no_space_1: cloth
-bip_39_word_no_space_10: clothwrapwillawfulskullpersonoutputupperbirdsplit
-bip_39_word_no_space_11: clothwrapwillawfulskullpersonoutputupperbirdsplitmercy
 bip_39_word_no_space_12: clothwrapwillawfulskullpersonoutputupperbirdsplitmercyaisle
 bip_39_word_no_space_2: clothwrap
 bip_39_word_no_space_3: clothwrapwill
-bip_39_word_no_space_4: clothwrapwillawful
-bip_39_word_no_space_5: clothwrapwillawfulskull
-bip_39_word_no_space_6: clothwrapwillawfulskullperson
-bip_39_word_no_space_7: clothwrapwillawfulskullpersonoutput
-bip_39_word_no_space_8: clothwrapwillawfulskullpersonoutputupper
-bip_39_word_no_space_9: clothwrapwillawfulskullpersonoutputupperbird
-bip_39_word_space_0:
-- cloth
-- wrap
-- will
-- awful
-- skull
-- person
-- output
-- upper
-- bird
-- split
-- mercy
-- aisle
-bip_39_word_space_1: cloth
-bip_39_word_space_10: cloth wrap will awful skull person output upper bird split
-bip_39_word_space_11: cloth wrap will awful skull person output upper bird split mercy
 bip_39_word_space_12: cloth wrap will awful skull person output upper bird split mercy
   aisle
 bip_39_word_space_2: cloth wrap
 bip_39_word_space_3: cloth wrap will
-bip_39_word_space_4: cloth wrap will awful
-bip_39_word_space_5: cloth wrap will awful skull
-bip_39_word_space_6: cloth wrap will awful skull person
-bip_39_word_space_7: cloth wrap will awful skull person output
-bip_39_word_space_8: cloth wrap will awful skull person output upper
-bip_39_word_space_9: cloth wrap will awful skull person output upper bird
-bip_39_word_underscore_1: cloth
-bip_39_word_underscore_10: cloth_wrap_will_awful_skull_person_output_upper_bird_split
-bip_39_word_underscore_11: cloth_wrap_will_awful_skull_person_output_upper_bird_split_mercy
 bip_39_word_underscore_12: cloth_wrap_will_awful_skull_person_output_upper_bird_split_mercy_aisle
 bip_39_word_underscore_2: cloth_wrap
 bip_39_word_underscore_3: cloth_wrap_will
-bip_39_word_underscore_4: cloth_wrap_will_awful
-bip_39_word_underscore_5: cloth_wrap_will_awful_skull
-bip_39_word_underscore_6: cloth_wrap_will_awful_skull_person
-bip_39_word_underscore_7: cloth_wrap_will_awful_skull_person_output
-bip_39_word_underscore_8: cloth_wrap_will_awful_skull_person_output_upper
-bip_39_word_underscore_9: cloth_wrap_will_awful_skull_person_output_upper_bird
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,68 +1,9 @@
-bip_39_word_dash_1: always
-bip_39_word_dash_10: always-chimney-polar-pelican-swamp-scout-trigger-expect-hen-opera
-bip_39_word_dash_11: always-chimney-polar-pelican-swamp-scout-trigger-expect-hen-opera-bridge
 bip_39_word_dash_12: always-chimney-polar-pelican-swamp-scout-trigger-expect-hen-opera-bridge-admit
 bip_39_word_dash_2: always-chimney
 bip_39_word_dash_3: always-chimney-polar
-bip_39_word_dash_4: always-chimney-polar-pelican
-bip_39_word_dash_5: always-chimney-polar-pelican-swamp
-bip_39_word_dash_6: always-chimney-polar-pelican-swamp-scout
-bip_39_word_dash_7: always-chimney-polar-pelican-swamp-scout-trigger
-bip_39_word_dash_8: always-chimney-polar-pelican-swamp-scout-trigger-expect
-bip_39_word_dash_9: always-chimney-polar-pelican-swamp-scout-trigger-expect-hen
-bip_39_word_new_br_1: always
-bip_39_word_new_br_10: always<br>chimney<br>polar<br>pelican<br>swamp<br>scout<br>trigger<br>expect<br>hen<br>opera
-bip_39_word_new_br_11: always<br>chimney<br>polar<br>pelican<br>swamp<br>scout<br>trigger<br>expect<br>hen<br>opera<br>bridge
 bip_39_word_new_br_12: always<br>chimney<br>polar<br>pelican<br>swamp<br>scout<br>trigger<br>expect<br>hen<br>opera<br>bridge<br>admit
 bip_39_word_new_br_2: always<br>chimney
 bip_39_word_new_br_3: always<br>chimney<br>polar
-bip_39_word_new_br_4: always<br>chimney<br>polar<br>pelican
-bip_39_word_new_br_5: always<br>chimney<br>polar<br>pelican<br>swamp
-bip_39_word_new_br_6: always<br>chimney<br>polar<br>pelican<br>swamp<br>scout
-bip_39_word_new_br_7: always<br>chimney<br>polar<br>pelican<br>swamp<br>scout<br>trigger
-bip_39_word_new_br_8: always<br>chimney<br>polar<br>pelican<br>swamp<br>scout<br>trigger<br>expect
-bip_39_word_new_br_9: always<br>chimney<br>polar<br>pelican<br>swamp<br>scout<br>trigger<br>expect<br>hen
-bip_39_word_new_line_1: always
-bip_39_word_new_line_10: 'always
-
-  chimney
-
-  polar
-
-  pelican
-
-  swamp
-
-  scout
-
-  trigger
-
-  expect
-
-  hen
-
-  opera'
-bip_39_word_new_line_11: 'always
-
-  chimney
-
-  polar
-
-  pelican
-
-  swamp
-
-  scout
-
-  trigger
-
-  expect
-
-  hen
-
-  opera
-
-  bridge'
 bip_39_word_new_line_12: 'always
 
   chimney
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'always
   chimney
 
   polar'
-bip_39_word_new_line_4: 'always
-
-  chimney
-
-  polar
-
-  pelican'
-bip_39_word_new_line_5: 'always
-
-  chimney
-
-  polar
-
-  pelican
-
-  swamp'
-bip_39_word_new_line_6: 'always
-
-  chimney
-
-  polar
-
-  pelican
-
-  swamp
-
-  scout'
-bip_39_word_new_line_7: 'always
-
-  chimney
-
-  polar
-
-  pelican
-
-  swamp
-
-  scout
-
-  trigger'
-bip_39_word_new_line_8: 'always
-
-  chimney
-
-  polar
-
-  pelican
-
-  swamp
-
-  scout
-
-  trigger
-
-  expect'
-bip_39_word_new_line_9: 'always
-
-  chimney
-
-  polar
-
-  pelican
-
-  swamp
-
-  scout
-
-  trigger
-
-  expect
-
-  hen'
-bip_39_word_no_space_1: always
-bip_39_word_no_space_10: alwayschimneypolarpelicanswampscouttriggerexpecthenopera
-bip_39_word_no_space_11: alwayschimneypolarpelicanswampscouttriggerexpecthenoperabridge
 bip_39_word_no_space_12: alwayschimneypolarpelicanswampscouttriggerexpecthenoperabridgeadmit
 bip_39_word_no_space_2: alwayschimney
 bip_39_word_no_space_3: alwayschimneypolar
-bip_39_word_no_space_4: alwayschimneypolarpelican
-bip_39_word_no_space_5: alwayschimneypolarpelicanswamp
-bip_39_word_no_space_6: alwayschimneypolarpelicanswampscout
-bip_39_word_no_space_7: alwayschimneypolarpelicanswampscouttrigger
-bip_39_word_no_space_8: alwayschimneypolarpelicanswampscouttriggerexpect
-bip_39_word_no_space_9: alwayschimneypolarpelicanswampscouttriggerexpecthen
-bip_39_word_space_0:
-- always
-- chimney
-- polar
-- pelican
-- swamp
-- scout
-- trigger
-- expect
-- hen
-- opera
-- bridge
-- admit
-bip_39_word_space_1: always
-bip_39_word_space_10: always chimney polar pelican swamp scout trigger expect hen
-  opera
-bip_39_word_space_11: always chimney polar pelican swamp scout trigger expect hen
-  opera bridge
 bip_39_word_space_12: always chimney polar pelican swamp scout trigger expect hen
   opera bridge admit
 bip_39_word_space_2: always chimney
 bip_39_word_space_3: always chimney polar
-bip_39_word_space_4: always chimney polar pelican
-bip_39_word_space_5: always chimney polar pelican swamp
-bip_39_word_space_6: always chimney polar pelican swamp scout
-bip_39_word_space_7: always chimney polar pelican swamp scout trigger
-bip_39_word_space_8: always chimney polar pelican swamp scout trigger expect
-bip_39_word_space_9: always chimney polar pelican swamp scout trigger expect hen
-bip_39_word_underscore_1: always
-bip_39_word_underscore_10: always_chimney_polar_pelican_swamp_scout_trigger_expect_hen_opera
-bip_39_word_underscore_11: always_chimney_polar_pelican_swamp_scout_trigger_expect_hen_opera_bridge
 bip_39_word_underscore_12: always_chimney_polar_pelican_swamp_scout_trigger_expect_hen_opera_bridge_admit
 bip_39_word_underscore_2: always_chimney
 bip_39_word_underscore_3: always_chimney_polar
-bip_39_word_underscore_4: always_chimney_polar_pelican
-bip_39_word_underscore_5: always_chimney_polar_pelican_swamp
-bip_39_word_underscore_6: always_chimney_polar_pelican_swamp_scout
-bip_39_word_underscore_7: always_chimney_polar_pelican_swamp_scout_trigger
-bip_39_word_underscore_8: always_chimney_polar_pelican_swamp_scout_trigger_expect
-bip_39_word_underscore_9: always_chimney_polar_pelican_swamp_scout_trigger_expect_hen
 classification: project
 classification_capital: Project
 classification_first_letter: p

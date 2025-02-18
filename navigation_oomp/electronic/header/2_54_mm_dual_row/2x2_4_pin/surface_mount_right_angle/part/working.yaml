@@ -1,68 +1,9 @@
-bip_39_word_dash_1: boil
-bip_39_word_dash_10: boil-develop-drop-match-dismiss-vote-catch-design-hollow-punch
-bip_39_word_dash_11: boil-develop-drop-match-dismiss-vote-catch-design-hollow-punch-tone
 bip_39_word_dash_12: boil-develop-drop-match-dismiss-vote-catch-design-hollow-punch-tone-allow
 bip_39_word_dash_2: boil-develop
 bip_39_word_dash_3: boil-develop-drop
-bip_39_word_dash_4: boil-develop-drop-match
-bip_39_word_dash_5: boil-develop-drop-match-dismiss
-bip_39_word_dash_6: boil-develop-drop-match-dismiss-vote
-bip_39_word_dash_7: boil-develop-drop-match-dismiss-vote-catch
-bip_39_word_dash_8: boil-develop-drop-match-dismiss-vote-catch-design
-bip_39_word_dash_9: boil-develop-drop-match-dismiss-vote-catch-design-hollow
-bip_39_word_new_br_1: boil
-bip_39_word_new_br_10: boil<br>develop<br>drop<br>match<br>dismiss<br>vote<br>catch<br>design<br>hollow<br>punch
-bip_39_word_new_br_11: boil<br>develop<br>drop<br>match<br>dismiss<br>vote<br>catch<br>design<br>hollow<br>punch<br>tone
 bip_39_word_new_br_12: boil<br>develop<br>drop<br>match<br>dismiss<br>vote<br>catch<br>design<br>hollow<br>punch<br>tone<br>allow
 bip_39_word_new_br_2: boil<br>develop
 bip_39_word_new_br_3: boil<br>develop<br>drop
-bip_39_word_new_br_4: boil<br>develop<br>drop<br>match
-bip_39_word_new_br_5: boil<br>develop<br>drop<br>match<br>dismiss
-bip_39_word_new_br_6: boil<br>develop<br>drop<br>match<br>dismiss<br>vote
-bip_39_word_new_br_7: boil<br>develop<br>drop<br>match<br>dismiss<br>vote<br>catch
-bip_39_word_new_br_8: boil<br>develop<br>drop<br>match<br>dismiss<br>vote<br>catch<br>design
-bip_39_word_new_br_9: boil<br>develop<br>drop<br>match<br>dismiss<br>vote<br>catch<br>design<br>hollow
-bip_39_word_new_line_1: boil
-bip_39_word_new_line_10: 'boil
-
-  develop
-
-  drop
-
-  match
-
-  dismiss
-
-  vote
-
-  catch
-
-  design
-
-  hollow
-
-  punch'
-bip_39_word_new_line_11: 'boil
-
-  develop
-
-  drop
-
-  match
-
-  dismiss
-
-  vote
-
-  catch
-
-  design
-
-  hollow
-
-  punch
-
-  tone'
 bip_39_word_new_line_12: 'boil
 
   develop
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'boil
   develop
 
   drop'
-bip_39_word_new_line_4: 'boil
-
-  develop
-
-  drop
-
-  match'
-bip_39_word_new_line_5: 'boil
-
-  develop
-
-  drop
-
-  match
-
-  dismiss'
-bip_39_word_new_line_6: 'boil
-
-  develop
-
-  drop
-
-  match
-
-  dismiss
-
-  vote'
-bip_39_word_new_line_7: 'boil
-
-  develop
-
-  drop
-
-  match
-
-  dismiss
-
-  vote
-
-  catch'
-bip_39_word_new_line_8: 'boil
-
-  develop
-
-  drop
-
-  match
-
-  dismiss
-
-  vote
-
-  catch
-
-  design'
-bip_39_word_new_line_9: 'boil
-
-  develop
-
-  drop
-
-  match
-
-  dismiss
-
-  vote
-
-  catch
-
-  design
-
-  hollow'
-bip_39_word_no_space_1: boil
-bip_39_word_no_space_10: boildevelopdropmatchdismissvotecatchdesignhollowpunch
-bip_39_word_no_space_11: boildevelopdropmatchdismissvotecatchdesignhollowpunchtone
 bip_39_word_no_space_12: boildevelopdropmatchdismissvotecatchdesignhollowpunchtoneallow
 bip_39_word_no_space_2: boildevelop
 bip_39_word_no_space_3: boildevelopdrop
-bip_39_word_no_space_4: boildevelopdropmatch
-bip_39_word_no_space_5: boildevelopdropmatchdismiss
-bip_39_word_no_space_6: boildevelopdropmatchdismissvote
-bip_39_word_no_space_7: boildevelopdropmatchdismissvotecatch
-bip_39_word_no_space_8: boildevelopdropmatchdismissvotecatchdesign
-bip_39_word_no_space_9: boildevelopdropmatchdismissvotecatchdesignhollow
-bip_39_word_space_0:
-- boil
-- develop
-- drop
-- match
-- dismiss
-- vote
-- catch
-- design
-- hollow
-- punch
-- tone
-- allow
-bip_39_word_space_1: boil
-bip_39_word_space_10: boil develop drop match dismiss vote catch design hollow punch
-bip_39_word_space_11: boil develop drop match dismiss vote catch design hollow punch
-  tone
 bip_39_word_space_12: boil develop drop match dismiss vote catch design hollow punch
   tone allow
 bip_39_word_space_2: boil develop
 bip_39_word_space_3: boil develop drop
-bip_39_word_space_4: boil develop drop match
-bip_39_word_space_5: boil develop drop match dismiss
-bip_39_word_space_6: boil develop drop match dismiss vote
-bip_39_word_space_7: boil develop drop match dismiss vote catch
-bip_39_word_space_8: boil develop drop match dismiss vote catch design
-bip_39_word_space_9: boil develop drop match dismiss vote catch design hollow
-bip_39_word_underscore_1: boil
-bip_39_word_underscore_10: boil_develop_drop_match_dismiss_vote_catch_design_hollow_punch
-bip_39_word_underscore_11: boil_develop_drop_match_dismiss_vote_catch_design_hollow_punch_tone
 bip_39_word_underscore_12: boil_develop_drop_match_dismiss_vote_catch_design_hollow_punch_tone_allow
 bip_39_word_underscore_2: boil_develop
 bip_39_word_underscore_3: boil_develop_drop
-bip_39_word_underscore_4: boil_develop_drop_match
-bip_39_word_underscore_5: boil_develop_drop_match_dismiss
-bip_39_word_underscore_6: boil_develop_drop_match_dismiss_vote
-bip_39_word_underscore_7: boil_develop_drop_match_dismiss_vote_catch
-bip_39_word_underscore_8: boil_develop_drop_match_dismiss_vote_catch_design
-bip_39_word_underscore_9: boil_develop_drop_match_dismiss_vote_catch_design_hollow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

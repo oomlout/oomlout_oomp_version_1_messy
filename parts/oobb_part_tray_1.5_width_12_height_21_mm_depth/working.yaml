@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gain
-bip_39_word_dash_10: gain-assault-shy-canal-beauty-again-rough-denial-portion-detect
-bip_39_word_dash_11: gain-assault-shy-canal-beauty-again-rough-denial-portion-detect-grace
 bip_39_word_dash_12: gain-assault-shy-canal-beauty-again-rough-denial-portion-detect-grace-approve
 bip_39_word_dash_2: gain-assault
 bip_39_word_dash_3: gain-assault-shy
-bip_39_word_dash_4: gain-assault-shy-canal
-bip_39_word_dash_5: gain-assault-shy-canal-beauty
-bip_39_word_dash_6: gain-assault-shy-canal-beauty-again
-bip_39_word_dash_7: gain-assault-shy-canal-beauty-again-rough
-bip_39_word_dash_8: gain-assault-shy-canal-beauty-again-rough-denial
-bip_39_word_dash_9: gain-assault-shy-canal-beauty-again-rough-denial-portion
-bip_39_word_new_br_1: gain
-bip_39_word_new_br_10: gain<br>assault<br>shy<br>canal<br>beauty<br>again<br>rough<br>denial<br>portion<br>detect
-bip_39_word_new_br_11: gain<br>assault<br>shy<br>canal<br>beauty<br>again<br>rough<br>denial<br>portion<br>detect<br>grace
 bip_39_word_new_br_12: gain<br>assault<br>shy<br>canal<br>beauty<br>again<br>rough<br>denial<br>portion<br>detect<br>grace<br>approve
 bip_39_word_new_br_2: gain<br>assault
 bip_39_word_new_br_3: gain<br>assault<br>shy
-bip_39_word_new_br_4: gain<br>assault<br>shy<br>canal
-bip_39_word_new_br_5: gain<br>assault<br>shy<br>canal<br>beauty
-bip_39_word_new_br_6: gain<br>assault<br>shy<br>canal<br>beauty<br>again
-bip_39_word_new_br_7: gain<br>assault<br>shy<br>canal<br>beauty<br>again<br>rough
-bip_39_word_new_br_8: gain<br>assault<br>shy<br>canal<br>beauty<br>again<br>rough<br>denial
-bip_39_word_new_br_9: gain<br>assault<br>shy<br>canal<br>beauty<br>again<br>rough<br>denial<br>portion
-bip_39_word_new_line_1: gain
-bip_39_word_new_line_10: 'gain
-
-  assault
-
-  shy
-
-  canal
-
-  beauty
-
-  again
-
-  rough
-
-  denial
-
-  portion
-
-  detect'
-bip_39_word_new_line_11: 'gain
-
-  assault
-
-  shy
-
-  canal
-
-  beauty
-
-  again
-
-  rough
-
-  denial
-
-  portion
-
-  detect
-
-  grace'
 bip_39_word_new_line_12: 'gain
 
   assault
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gain
   assault
 
   shy'
-bip_39_word_new_line_4: 'gain
-
-  assault
-
-  shy
-
-  canal'
-bip_39_word_new_line_5: 'gain
-
-  assault
-
-  shy
-
-  canal
-
-  beauty'
-bip_39_word_new_line_6: 'gain
-
-  assault
-
-  shy
-
-  canal
-
-  beauty
-
-  again'
-bip_39_word_new_line_7: 'gain
-
-  assault
-
-  shy
-
-  canal
-
-  beauty
-
-  again
-
-  rough'
-bip_39_word_new_line_8: 'gain
-
-  assault
-
-  shy
-
-  canal
-
-  beauty
-
-  again
-
-  rough
-
-  denial'
-bip_39_word_new_line_9: 'gain
-
-  assault
-
-  shy
-
-  canal
-
-  beauty
-
-  again
-
-  rough
-
-  denial
-
-  portion'
-bip_39_word_no_space_1: gain
-bip_39_word_no_space_10: gainassaultshycanalbeautyagainroughdenialportiondetect
-bip_39_word_no_space_11: gainassaultshycanalbeautyagainroughdenialportiondetectgrace
 bip_39_word_no_space_12: gainassaultshycanalbeautyagainroughdenialportiondetectgraceapprove
 bip_39_word_no_space_2: gainassault
 bip_39_word_no_space_3: gainassaultshy
-bip_39_word_no_space_4: gainassaultshycanal
-bip_39_word_no_space_5: gainassaultshycanalbeauty
-bip_39_word_no_space_6: gainassaultshycanalbeautyagain
-bip_39_word_no_space_7: gainassaultshycanalbeautyagainrough
-bip_39_word_no_space_8: gainassaultshycanalbeautyagainroughdenial
-bip_39_word_no_space_9: gainassaultshycanalbeautyagainroughdenialportion
-bip_39_word_space_0:
-- gain
-- assault
-- shy
-- canal
-- beauty
-- again
-- rough
-- denial
-- portion
-- detect
-- grace
-- approve
-bip_39_word_space_1: gain
-bip_39_word_space_10: gain assault shy canal beauty again rough denial portion detect
-bip_39_word_space_11: gain assault shy canal beauty again rough denial portion detect
-  grace
 bip_39_word_space_12: gain assault shy canal beauty again rough denial portion detect
   grace approve
 bip_39_word_space_2: gain assault
 bip_39_word_space_3: gain assault shy
-bip_39_word_space_4: gain assault shy canal
-bip_39_word_space_5: gain assault shy canal beauty
-bip_39_word_space_6: gain assault shy canal beauty again
-bip_39_word_space_7: gain assault shy canal beauty again rough
-bip_39_word_space_8: gain assault shy canal beauty again rough denial
-bip_39_word_space_9: gain assault shy canal beauty again rough denial portion
-bip_39_word_underscore_1: gain
-bip_39_word_underscore_10: gain_assault_shy_canal_beauty_again_rough_denial_portion_detect
-bip_39_word_underscore_11: gain_assault_shy_canal_beauty_again_rough_denial_portion_detect_grace
 bip_39_word_underscore_12: gain_assault_shy_canal_beauty_again_rough_denial_portion_detect_grace_approve
 bip_39_word_underscore_2: gain_assault
 bip_39_word_underscore_3: gain_assault_shy
-bip_39_word_underscore_4: gain_assault_shy_canal
-bip_39_word_underscore_5: gain_assault_shy_canal_beauty
-bip_39_word_underscore_6: gain_assault_shy_canal_beauty_again
-bip_39_word_underscore_7: gain_assault_shy_canal_beauty_again_rough
-bip_39_word_underscore_8: gain_assault_shy_canal_beauty_again_rough_denial
-bip_39_word_underscore_9: gain_assault_shy_canal_beauty_again_rough_denial_portion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

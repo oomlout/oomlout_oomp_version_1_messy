@@ -1,68 +1,9 @@
-bip_39_word_dash_1: gossip
-bip_39_word_dash_10: gossip-unknown-call-anchor-rabbit-bamboo-crop-fun-elite-report
-bip_39_word_dash_11: gossip-unknown-call-anchor-rabbit-bamboo-crop-fun-elite-report-antique
 bip_39_word_dash_12: gossip-unknown-call-anchor-rabbit-bamboo-crop-fun-elite-report-antique-arena
 bip_39_word_dash_2: gossip-unknown
 bip_39_word_dash_3: gossip-unknown-call
-bip_39_word_dash_4: gossip-unknown-call-anchor
-bip_39_word_dash_5: gossip-unknown-call-anchor-rabbit
-bip_39_word_dash_6: gossip-unknown-call-anchor-rabbit-bamboo
-bip_39_word_dash_7: gossip-unknown-call-anchor-rabbit-bamboo-crop
-bip_39_word_dash_8: gossip-unknown-call-anchor-rabbit-bamboo-crop-fun
-bip_39_word_dash_9: gossip-unknown-call-anchor-rabbit-bamboo-crop-fun-elite
-bip_39_word_new_br_1: gossip
-bip_39_word_new_br_10: gossip<br>unknown<br>call<br>anchor<br>rabbit<br>bamboo<br>crop<br>fun<br>elite<br>report
-bip_39_word_new_br_11: gossip<br>unknown<br>call<br>anchor<br>rabbit<br>bamboo<br>crop<br>fun<br>elite<br>report<br>antique
 bip_39_word_new_br_12: gossip<br>unknown<br>call<br>anchor<br>rabbit<br>bamboo<br>crop<br>fun<br>elite<br>report<br>antique<br>arena
 bip_39_word_new_br_2: gossip<br>unknown
 bip_39_word_new_br_3: gossip<br>unknown<br>call
-bip_39_word_new_br_4: gossip<br>unknown<br>call<br>anchor
-bip_39_word_new_br_5: gossip<br>unknown<br>call<br>anchor<br>rabbit
-bip_39_word_new_br_6: gossip<br>unknown<br>call<br>anchor<br>rabbit<br>bamboo
-bip_39_word_new_br_7: gossip<br>unknown<br>call<br>anchor<br>rabbit<br>bamboo<br>crop
-bip_39_word_new_br_8: gossip<br>unknown<br>call<br>anchor<br>rabbit<br>bamboo<br>crop<br>fun
-bip_39_word_new_br_9: gossip<br>unknown<br>call<br>anchor<br>rabbit<br>bamboo<br>crop<br>fun<br>elite
-bip_39_word_new_line_1: gossip
-bip_39_word_new_line_10: 'gossip
-
-  unknown
-
-  call
-
-  anchor
-
-  rabbit
-
-  bamboo
-
-  crop
-
-  fun
-
-  elite
-
-  report'
-bip_39_word_new_line_11: 'gossip
-
-  unknown
-
-  call
-
-  anchor
-
-  rabbit
-
-  bamboo
-
-  crop
-
-  fun
-
-  elite
-
-  report
-
-  antique'
 bip_39_word_new_line_12: 'gossip
 
   unknown
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'gossip
   unknown
 
   call'
-bip_39_word_new_line_4: 'gossip
-
-  unknown
-
-  call
-
-  anchor'
-bip_39_word_new_line_5: 'gossip
-
-  unknown
-
-  call
-
-  anchor
-
-  rabbit'
-bip_39_word_new_line_6: 'gossip
-
-  unknown
-
-  call
-
-  anchor
-
-  rabbit
-
-  bamboo'
-bip_39_word_new_line_7: 'gossip
-
-  unknown
-
-  call
-
-  anchor
-
-  rabbit
-
-  bamboo
-
-  crop'
-bip_39_word_new_line_8: 'gossip
-
-  unknown
-
-  call
-
-  anchor
-
-  rabbit
-
-  bamboo
-
-  crop
-
-  fun'
-bip_39_word_new_line_9: 'gossip
-
-  unknown
-
-  call
-
-  anchor
-
-  rabbit
-
-  bamboo
-
-  crop
-
-  fun
-
-  elite'
-bip_39_word_no_space_1: gossip
-bip_39_word_no_space_10: gossipunknowncallanchorrabbitbamboocropfunelitereport
-bip_39_word_no_space_11: gossipunknowncallanchorrabbitbamboocropfunelitereportantique
 bip_39_word_no_space_12: gossipunknowncallanchorrabbitbamboocropfunelitereportantiquearena
 bip_39_word_no_space_2: gossipunknown
 bip_39_word_no_space_3: gossipunknowncall
-bip_39_word_no_space_4: gossipunknowncallanchor
-bip_39_word_no_space_5: gossipunknowncallanchorrabbit
-bip_39_word_no_space_6: gossipunknowncallanchorrabbitbamboo
-bip_39_word_no_space_7: gossipunknowncallanchorrabbitbamboocrop
-bip_39_word_no_space_8: gossipunknowncallanchorrabbitbamboocropfun
-bip_39_word_no_space_9: gossipunknowncallanchorrabbitbamboocropfunelite
-bip_39_word_space_0:
-- gossip
-- unknown
-- call
-- anchor
-- rabbit
-- bamboo
-- crop
-- fun
-- elite
-- report
-- antique
-- arena
-bip_39_word_space_1: gossip
-bip_39_word_space_10: gossip unknown call anchor rabbit bamboo crop fun elite report
-bip_39_word_space_11: gossip unknown call anchor rabbit bamboo crop fun elite report
-  antique
 bip_39_word_space_12: gossip unknown call anchor rabbit bamboo crop fun elite report
   antique arena
 bip_39_word_space_2: gossip unknown
 bip_39_word_space_3: gossip unknown call
-bip_39_word_space_4: gossip unknown call anchor
-bip_39_word_space_5: gossip unknown call anchor rabbit
-bip_39_word_space_6: gossip unknown call anchor rabbit bamboo
-bip_39_word_space_7: gossip unknown call anchor rabbit bamboo crop
-bip_39_word_space_8: gossip unknown call anchor rabbit bamboo crop fun
-bip_39_word_space_9: gossip unknown call anchor rabbit bamboo crop fun elite
-bip_39_word_underscore_1: gossip
-bip_39_word_underscore_10: gossip_unknown_call_anchor_rabbit_bamboo_crop_fun_elite_report
-bip_39_word_underscore_11: gossip_unknown_call_anchor_rabbit_bamboo_crop_fun_elite_report_antique
 bip_39_word_underscore_12: gossip_unknown_call_anchor_rabbit_bamboo_crop_fun_elite_report_antique_arena
 bip_39_word_underscore_2: gossip_unknown
 bip_39_word_underscore_3: gossip_unknown_call
-bip_39_word_underscore_4: gossip_unknown_call_anchor
-bip_39_word_underscore_5: gossip_unknown_call_anchor_rabbit
-bip_39_word_underscore_6: gossip_unknown_call_anchor_rabbit_bamboo
-bip_39_word_underscore_7: gossip_unknown_call_anchor_rabbit_bamboo_crop
-bip_39_word_underscore_8: gossip_unknown_call_anchor_rabbit_bamboo_crop_fun
-bip_39_word_underscore_9: gossip_unknown_call_anchor_rabbit_bamboo_crop_fun_elite
 classification: project
 classification_capital: Project
 classification_first_letter: p
