@@ -1,6 +1,8 @@
 * [branded](branded)
   * [num_nom](branded/num_nom)
     * [mixed](branded/num_nom/mixed)
+  * [polly_pocket](branded/polly_pocket)
+    * [mixed](branded/polly_pocket/mixed)
   * [squismallow](branded/squismallow)
     * [small](branded/squismallow/small)
 * [medium](medium)

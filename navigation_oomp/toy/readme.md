@@ -10,6 +10,8 @@
   * [branded](figurine/branded)
     * [num_nom](figurine/branded/num_nom)
       * [mixed](figurine/branded/num_nom/mixed)
+    * [polly_pocket](figurine/branded/polly_pocket)
+      * [mixed](figurine/branded/polly_pocket/mixed)
     * [squismallow](figurine/branded/squismallow)
       * [small](figurine/branded/squismallow/small)
   * [medium](figurine/medium)

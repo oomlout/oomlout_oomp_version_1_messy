@@ -1,0 +1,7 @@
+* [accelerometer](accelerometer)
+  * [analog_devices_adxl343](accelerometer/analog_devices_adxl343)
+    * [adafruit](accelerometer/analog_devices_adxl343/adafruit)
+      * [4097](accelerometer/analog_devices_adxl343/adafruit/4097)
+  * [bosch_bma400](accelerometer/bosch_bma400)
+    * [sparkfun](accelerometer/bosch_bma400/sparkfun)
+      * [sen_21208](accelerometer/bosch_bma400/sparkfun/sen_21208)
