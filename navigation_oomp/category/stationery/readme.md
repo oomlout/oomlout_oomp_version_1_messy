@@ -56,4 +56,7 @@
     * [tote](staples/56_size_26_gauge_6_mm_depth/tote)
   * [cubby_box](staples/cubby_box)
   * [tote](staples/tote)
+* [tape](tape)
+  * [cubby_box](tape/cubby_box)
+  * [tote](tape/tote)
 * [tote](tote)

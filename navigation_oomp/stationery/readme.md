@@ -92,3 +92,5 @@
 * [staples](staples)
   * [56_size_26_gauge_6_mm_depth](staples/56_size_26_gauge_6_mm_depth)
     * [basic](staples/56_size_26_gauge_6_mm_depth/basic)
+* [tape](tape)
+  * [mixed](tape/mixed)

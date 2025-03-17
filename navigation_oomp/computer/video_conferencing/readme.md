@@ -1,0 +1,8 @@
+* [camera_and_speaker](camera_and_speaker)
+  * [700_mm_width_105_mm_height_90_mm_depth](camera_and_speaker/700_mm_width_105_mm_height_90_mm_depth)
+    * [cisco](camera_and_speaker/700_mm_width_105_mm_height_90_mm_depth/cisco)
+      * [room_kit_mini](camera_and_speaker/700_mm_width_105_mm_height_90_mm_depth/cisco/room_kit_mini)
+* [screen](screen)
+  * [1240_mm_width_830_mm_height_105_mm_depth](screen/1240_mm_width_830_mm_height_105_mm_depth)
+    * [cisco](screen/1240_mm_width_830_mm_height_105_mm_depth/cisco)
+      * [room_55](screen/1240_mm_width_830_mm_height_105_mm_depth/cisco/room_55)

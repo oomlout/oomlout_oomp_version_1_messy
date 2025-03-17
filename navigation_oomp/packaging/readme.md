@@ -105,6 +105,8 @@
   * [650_ml](takeaway_container_rectangle/650_ml)
     * [nisbet_fiesta](takeaway_container_rectangle/650_ml/nisbet_fiesta)
       * [medium_dm182](takeaway_container_rectangle/650_ml/nisbet_fiesta/medium_dm182)
+* [tin_can](tin_can)
+  * [diameter_75_mm_height_109_mm_400_ml](tin_can/diameter_75_mm_height_109_mm_400_ml)
 * [tin_hinged_lid](tin_hinged_lid)
   * [169_mm_width_130_mm_height_18_mm_depth_350_ml](tin_hinged_lid/169_mm_width_130_mm_height_18_mm_depth_350_ml)
     * [tinware_direct](tin_hinged_lid/169_mm_width_130_mm_height_18_mm_depth_350_ml/tinware_direct)

@@ -8,4 +8,7 @@
 * [spice](spice)
   * [cubby_box](spice/cubby_box)
   * [tote](spice/tote)
+* [stock](stock)
+  * [cubby_box](stock/cubby_box)
+  * [tote](stock/tote)
 * [tote](tote)
