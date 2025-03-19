@@ -73,7 +73,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_or_color | B6k1 |  
 | directory | parts/hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew |  
 | distributors | [] |  
-| filter |  |  
+| filter | hardware_screw |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew |  
 | id | hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew |  
