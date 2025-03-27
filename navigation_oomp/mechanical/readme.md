@@ -90,6 +90,8 @@
   * [mini](motor_servo_remote_control/mini)
   * [standard](motor_servo_remote_control/standard)
 * [motor_stepper](motor_stepper)
+  * [42_mm_diameter](motor_stepper/42_mm_diameter)
+    * [7_5_degree_step_angle_12_volt](motor_stepper/42_mm_diameter/7_5_degree_step_angle_12_volt)
   * [nema_17](motor_stepper/nema_17)
     * [42_mm_width_42_mm_height_48_mm_depth](motor_stepper/nema_17/42_mm_width_42_mm_height_48_mm_depth)
     * [48](motor_stepper/nema_17/48)
