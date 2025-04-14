@@ -32,4 +32,7 @@
   * [cubby_box](a8_52_mm_width_74_mm_height/cubby_box)
   * [tote](a8_52_mm_width_74_mm_height/tote)
 * [cubby_box](cubby_box)
+* [letter_216_mm_width_279_mm_height](letter_216_mm_width_279_mm_height)
+  * [cubby_box](letter_216_mm_width_279_mm_height/cubby_box)
+  * [tote](letter_216_mm_width_279_mm_height/tote)
 * [tote](tote)

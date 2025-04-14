@@ -52,5 +52,8 @@
     * [cubby_box](sheet/a8_52_mm_width_74_mm_height/cubby_box)
     * [tote](sheet/a8_52_mm_width_74_mm_height/tote)
   * [cubby_box](sheet/cubby_box)
+  * [letter_216_mm_width_279_mm_height](sheet/letter_216_mm_width_279_mm_height)
+    * [cubby_box](sheet/letter_216_mm_width_279_mm_height/cubby_box)
+    * [tote](sheet/letter_216_mm_width_279_mm_height/tote)
   * [tote](sheet/tote)
 * [tote](tote)

@@ -77,7 +77,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_bright_zinc_plated_16_mm_length_pozidrive_head |  
 | id | hardware_screw_countersunk_m2_bright_zinc_plated_16_mm_length_pozidrive_head |  
-| kicad_reference |  |  
 | link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_countersunk_m2_bright_zinc_plated_16_mm_length_pozidrive_head |  
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_countersunk_m2_bright_zinc_plated_16_mm_length_pozidrive_head |  
