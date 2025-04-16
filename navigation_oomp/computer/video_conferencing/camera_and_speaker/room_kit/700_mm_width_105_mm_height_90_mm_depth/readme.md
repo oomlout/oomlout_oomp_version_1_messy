@@ -1,2 +1,2 @@
 * [cisco](cisco)
-  * [cs_kit_k9](cisco/cs_kit_k9)
+  * [ttc7_26](cisco/ttc7_26)

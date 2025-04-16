@@ -1,6 +1,3 @@
-* [700_mm_width_105_mm_height_90_mm_depth](700_mm_width_105_mm_height_90_mm_depth)
-  * [cisco](700_mm_width_105_mm_height_90_mm_depth/cisco)
-    * [room_kit_mini](700_mm_width_105_mm_height_90_mm_depth/cisco/room_kit_mini)
 * [quad_camera](quad_camera)
   * [950_mm_width_120_mm_height_103_mm_depth](quad_camera/950_mm_width_120_mm_height_103_mm_depth)
     * [cisco](quad_camera/950_mm_width_120_mm_height_103_mm_depth/cisco)
@@ -8,4 +5,4 @@
 * [room_kit](room_kit)
   * [700_mm_width_105_mm_height_90_mm_depth](room_kit/700_mm_width_105_mm_height_90_mm_depth)
     * [cisco](room_kit/700_mm_width_105_mm_height_90_mm_depth/cisco)
-      * [cs_kit_k9](room_kit/700_mm_width_105_mm_height_90_mm_depth/cisco/cs_kit_k9)
+      * [ttc7_26](room_kit/700_mm_width_105_mm_height_90_mm_depth/cisco/ttc7_26)

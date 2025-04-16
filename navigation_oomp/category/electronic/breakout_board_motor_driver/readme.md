@@ -14,4 +14,7 @@
 * [step_stick](step_stick)
   * [cubby_box](step_stick/cubby_box)
   * [tote](step_stick/tote)
+* [step_stick_breakout](step_stick_breakout)
+  * [cubby_box](step_stick_breakout/cubby_box)
+  * [tote](step_stick_breakout/tote)
 * [tote](tote)
