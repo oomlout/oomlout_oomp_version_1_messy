@@ -3,3 +3,7 @@
     * [375_millilitre_bottle_set](acrylic/ikea_solfagel_style/375_millilitre_bottle_set)
       * [ikea](acrylic/ikea_solfagel_style/375_millilitre_bottle_set/ikea)
         * [105_442_37](acrylic/ikea_solfagel_style/375_millilitre_bottle_set/ikea/105_442_37)
+* [easel](easel)
+  * [floor_standing](easel/floor_standing)
+  * [table_top](easel/table_top)
+    * [minimal](easel/table_top/minimal)

@@ -1,0 +1,8 @@
+* [inkjet](inkjet)
+  * [cleaning](inkjet/cleaning)
+    * [large_claner_and_funnel](inkjet/cleaning/large_claner_and_funnel)
+    * [overflow](inkjet/cleaning/overflow)
+    * [syringe_and_small_cleaner](inkjet/cleaning/syringe_and_small_cleaner)
+  * [ink_filling](inkjet/ink_filling)
+    * [dtf_epson_stylus_pro_4800](inkjet/ink_filling/dtf_epson_stylus_pro_4800)
+    * [sublimation_ecotank](inkjet/ink_filling/sublimation_ecotank)
