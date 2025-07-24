@@ -1,8 +1,0 @@
-* [cubby_box](cubby_box)
-* [denso](denso)
-  * [cubby_box](denso/cubby_box)
-  * [rc5](denso/rc5)
-    * [cubby_box](denso/rc5/cubby_box)
-    * [tote](denso/rc5/tote)
-  * [tote](denso/tote)
-* [tote](tote)

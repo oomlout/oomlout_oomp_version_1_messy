@@ -1,8 +1,0 @@
-* [cubby_box](cubby_box)
-* [pendant](pendant)
-  * [cubby_box](pendant/cubby_box)
-  * [ikea_slattbo](pendant/ikea_slattbo)
-    * [cubby_box](pendant/ikea_slattbo/cubby_box)
-    * [tote](pendant/ikea_slattbo/tote)
-  * [tote](pendant/tote)
-* [tote](tote)

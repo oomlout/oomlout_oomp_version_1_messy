@@ -1,5 +1,0 @@
-* [17_mm](17_mm)
-  * [cubby_box](17_mm/cubby_box)
-  * [tote](17_mm/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

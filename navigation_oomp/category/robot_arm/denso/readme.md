@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [tote](tote)
-* [vm_60b1d](vm_60b1d)
-  * [cubby_box](vm_60b1d/cubby_box)
-  * [tote](vm_60b1d/tote)

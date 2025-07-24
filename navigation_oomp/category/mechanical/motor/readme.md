@@ -1,5 +1,0 @@
-* [building_block_compatible](building_block_compatible)
-  * [cubby_box](building_block_compatible/cubby_box)
-  * [tote](building_block_compatible/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

@@ -1,4 +1,0 @@
-* [glossy_style_inkjet_printer_plastic_material](glossy_style_inkjet_printer_plastic_material)
-  * [gmcraft](glossy_style_inkjet_printer_plastic_material/gmcraft)
-* [single_sided_glossy_style_inkjet_printer_paper_material](single_sided_glossy_style_inkjet_printer_paper_material)
-  * [koala](single_sided_glossy_style_inkjet_printer_paper_material/koala)

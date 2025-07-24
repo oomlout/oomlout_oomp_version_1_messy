@@ -1,6 +1,0 @@
-* [caster](caster)
-* [granulated](granulated)
-* [granulated_golden](granulated_golden)
-* [icing](icing)
-* [light_brown](light_brown)
-* [muscavado](muscavado)

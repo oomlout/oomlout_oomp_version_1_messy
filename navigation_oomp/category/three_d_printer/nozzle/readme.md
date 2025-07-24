@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [tote](tote)
-* [volcano_1_75_mm_filament](volcano_1_75_mm_filament)
-  * [cubby_box](volcano_1_75_mm_filament/cubby_box)
-  * [tote](volcano_1_75_mm_filament/tote)

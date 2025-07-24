@@ -1,2 +1,0 @@
-* [building_block_compatible](building_block_compatible)
-  * [micro_size_16_mm_width_24_mm_height_18_mm_depth](building_block_compatible/micro_size_16_mm_width_24_mm_height_18_mm_depth)

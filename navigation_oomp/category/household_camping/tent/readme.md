@@ -1,5 +1,0 @@
-* [8_person](8_person)
-  * [cubby_box](8_person/cubby_box)
-  * [tote](8_person/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

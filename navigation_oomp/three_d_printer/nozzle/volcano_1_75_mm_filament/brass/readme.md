@@ -1,6 +1,0 @@
-* [0_2_mm_diameter_nozzle](0_2_mm_diameter_nozzle)
-* [0_4_mm_diameter_nozzle](0_4_mm_diameter_nozzle)
-* [0_6_mm_diameter_nozzle](0_6_mm_diameter_nozzle)
-* [0_8_mm_diameter_nozzle](0_8_mm_diameter_nozzle)
-* [1_0_mm_diameter_nozzle](1_0_mm_diameter_nozzle)
-* [1_2_mm_diameter_nozzle](1_2_mm_diameter_nozzle)

@@ -1,5 +1,0 @@
-* [1200_mm_width_900_mm_height](1200_mm_width_900_mm_height)
-  * [cubby_box](1200_mm_width_900_mm_height/cubby_box)
-  * [tote](1200_mm_width_900_mm_height/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

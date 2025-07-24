@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [sot_223](sot_223)
-  * [cubby_box](sot_223/cubby_box)
-  * [tote](sot_223/tote)
-* [tote](tote)

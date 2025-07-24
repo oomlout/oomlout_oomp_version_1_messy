@@ -1,7 +1,0 @@
-* [motor](motor)
-  * [wheel](motor/wheel)
-    * [connector_pcb](motor/wheel/connector_pcb)
-    * [left_side](motor/wheel/left_side)
-    * [right_side](motor/wheel/right_side)
-* [sub_assembly](sub_assembly)
-  * [caster_wheel](sub_assembly/caster_wheel)

@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [sockerbit](sockerbit)
-  * [cubby_box](sockerbit/cubby_box)
-  * [tote](sockerbit/tote)
-* [tote](tote)

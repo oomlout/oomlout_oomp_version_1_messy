@@ -1,8 +1,0 @@
-* [bike_stationary](bike_stationary)
-  * [cubby_box](bike_stationary/cubby_box)
-  * [peloton_bike](bike_stationary/peloton_bike)
-    * [cubby_box](bike_stationary/peloton_bike/cubby_box)
-    * [tote](bike_stationary/peloton_bike/tote)
-  * [tote](bike_stationary/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

@@ -1,5 +1,0 @@
-* [240_volt_input](240_volt_input)
-  * [cubby_box](240_volt_input/cubby_box)
-  * [tote](240_volt_input/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

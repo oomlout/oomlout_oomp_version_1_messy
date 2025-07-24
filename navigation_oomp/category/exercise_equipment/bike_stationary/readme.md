@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [peloton_bike](peloton_bike)
-  * [cubby_box](peloton_bike/cubby_box)
-  * [tote](peloton_bike/tote)
-* [tote](tote)

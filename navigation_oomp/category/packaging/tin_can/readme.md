@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [diameter_75_mm_height_109_mm_400_ml](diameter_75_mm_height_109_mm_400_ml)
-  * [cubby_box](diameter_75_mm_height_109_mm_400_ml/cubby_box)
-  * [tote](diameter_75_mm_height_109_mm_400_ml/tote)
-* [tote](tote)

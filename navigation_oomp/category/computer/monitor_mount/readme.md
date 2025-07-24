@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [tote](tote)
-* [vesa](vesa)
-  * [cubby_box](vesa/cubby_box)
-  * [tote](vesa/tote)

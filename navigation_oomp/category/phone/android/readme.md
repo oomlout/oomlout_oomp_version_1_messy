@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [google_pixel](google_pixel)
-  * [cubby_box](google_pixel/cubby_box)
-  * [tote](google_pixel/tote)
-* [tote](tote)

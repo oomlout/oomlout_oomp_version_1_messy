@@ -1,8 +1,0 @@
-* [charger_usb](charger_usb)
-  * [4_port](charger_usb/4_port)
-    * [cubby_box](charger_usb/4_port/cubby_box)
-    * [tote](charger_usb/4_port/tote)
-  * [cubby_box](charger_usb/cubby_box)
-  * [tote](charger_usb/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

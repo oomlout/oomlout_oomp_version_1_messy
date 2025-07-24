@@ -1,7 +1,0 @@
-* [color_double_extra_large](color_double_extra_large)
-* [color_extra_large](color_extra_large)
-* [color_extra_small](color_extra_small)
-* [color_large](color_large)
-* [color_medium](color_medium)
-* [color_small](color_small)
-* [color_triple_extra_large](color_triple_extra_large)

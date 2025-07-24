@@ -1,8 +1,0 @@
-* [cubby_box](cubby_box)
-* [tent](tent)
-  * [8_person](tent/8_person)
-    * [cubby_box](tent/8_person/cubby_box)
-    * [tote](tent/8_person/tote)
-  * [cubby_box](tent/cubby_box)
-  * [tote](tent/tote)
-* [tote](tote)

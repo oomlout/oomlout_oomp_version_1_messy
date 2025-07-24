@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [kindle_paperwhite](kindle_paperwhite)
-  * [cubby_box](kindle_paperwhite/cubby_box)
-  * [tote](kindle_paperwhite/tote)
-* [tote](tote)

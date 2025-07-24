@@ -1,3 +1,0 @@
-* [10_mm_diameter_115_mm_depth_m3_hole](10_mm_diameter_115_mm_depth_m3_hole)
-* [16_mm_diameter_115_mm_depth_m4_hole](16_mm_diameter_115_mm_depth_m4_hole)
-* [32_mm_diameter_15_mm_depth_m5_hole](32_mm_diameter_15_mm_depth_m5_hole)

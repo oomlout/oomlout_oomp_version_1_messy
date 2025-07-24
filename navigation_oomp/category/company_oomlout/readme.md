@@ -1,8 +1,0 @@
-* [cubby_box](cubby_box)
-* [product](product)
-  * [cubby_box](product/cubby_box)
-  * [prototyping_tin](product/prototyping_tin)
-    * [cubby_box](product/prototyping_tin/cubby_box)
-    * [tote](product/prototyping_tin/tote)
-  * [tote](product/tote)
-* [tote](tote)

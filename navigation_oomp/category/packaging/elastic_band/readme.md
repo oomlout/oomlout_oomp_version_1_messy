@@ -1,5 +1,0 @@
-* [cubby_box](cubby_box)
-* [size_85](size_85)
-  * [cubby_box](size_85/cubby_box)
-  * [tote](size_85/tote)
-* [tote](tote)

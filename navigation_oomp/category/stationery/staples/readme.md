@@ -1,5 +1,0 @@
-* [56_size_26_gauge_6_mm_depth](56_size_26_gauge_6_mm_depth)
-  * [cubby_box](56_size_26_gauge_6_mm_depth/cubby_box)
-  * [tote](56_size_26_gauge_6_mm_depth/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

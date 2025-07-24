@@ -1,8 +1,0 @@
-* [50_micron_thickness](50_micron_thickness)
-  * [cubby_box](50_micron_thickness/cubby_box)
-  * [tote](50_micron_thickness/tote)
-* [60_micron_thickness](60_micron_thickness)
-  * [cubby_box](60_micron_thickness/cubby_box)
-  * [tote](60_micron_thickness/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

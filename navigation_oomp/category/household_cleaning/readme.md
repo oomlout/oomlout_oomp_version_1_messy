@@ -1,5 +1,0 @@
-* [cleaner_spray](cleaner_spray)
-  * [cubby_box](cleaner_spray/cubby_box)
-  * [tote](cleaner_spray/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)

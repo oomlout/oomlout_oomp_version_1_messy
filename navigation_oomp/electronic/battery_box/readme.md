@@ -1,8 +1,0 @@
-* [aa_battery](aa_battery)
-  * [4_cell](aa_battery/4_cell)
-* [dewalt_xr](dewalt_xr)
-  * [aliexpress](dewalt_xr/aliexpress)
-    * [diy_200](dewalt_xr/aliexpress/diy_200)
-  * [usb_c_output](dewalt_xr/usb_c_output)
-    * [aliexpress](dewalt_xr/usb_c_output/aliexpress)
-      * [wtl200](dewalt_xr/usb_c_output/aliexpress/wtl200)

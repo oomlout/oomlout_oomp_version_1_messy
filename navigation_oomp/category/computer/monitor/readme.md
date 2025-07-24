@@ -1,8 +1,0 @@
-* [508_mm_screen_diagonal](508_mm_screen_diagonal)
-  * [cubby_box](508_mm_screen_diagonal/cubby_box)
-  * [tote](508_mm_screen_diagonal/tote)
-* [558_8_mm_screen_diagonal](558_8_mm_screen_diagonal)
-  * [cubby_box](558_8_mm_screen_diagonal/cubby_box)
-  * [tote](558_8_mm_screen_diagonal/tote)
-* [cubby_box](cubby_box)
-* [tote](tote)
