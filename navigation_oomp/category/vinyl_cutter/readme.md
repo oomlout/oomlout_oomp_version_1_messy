@@ -1,0 +1,8 @@
+* [cubby_box](cubby_box)
+* [tote](tote)
+* [vinyl_cutter](vinyl_cutter)
+  * [cricut](vinyl_cutter/cricut)
+    * [cubby_box](vinyl_cutter/cricut/cubby_box)
+    * [tote](vinyl_cutter/cricut/tote)
+  * [cubby_box](vinyl_cutter/cubby_box)
+  * [tote](vinyl_cutter/tote)

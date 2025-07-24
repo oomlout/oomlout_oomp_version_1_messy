@@ -1,0 +1,1 @@
+* [qwiic_stemma_i2c_bus_compatible](qwiic_stemma_i2c_bus_compatible)
