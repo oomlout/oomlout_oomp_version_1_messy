@@ -73,8 +73,6 @@
   * [cheese](dairy/cheese)
     * [mature_cheddar](dairy/cheese/mature_cheddar)
       * [cathedral_city](dairy/cheese/mature_cheddar/cathedral_city)
-  * [eggs](dairy/eggs)
-    * [large_free_range_six](dairy/eggs/large_free_range_six)
 * [drink](drink)
   * [coffee](drink/coffee)
     * [ground_filter](drink/coffee/ground_filter)
