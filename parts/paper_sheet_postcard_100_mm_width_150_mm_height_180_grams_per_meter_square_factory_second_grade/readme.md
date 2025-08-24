@@ -1,0 +1,122 @@
+# Paper Sheet Postcard 100 mm Width 150 mm Height 180 Grams Per Meter Square Factory Second Grade  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Paper Sheet Postcard 100 mm Width 150 mm Height 180 Grams Per Meter Square Factory Second Grade
+* name_short: 
+### id
+* oomp_id: paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+  * classification: paper
+  * type: sheet
+  * size: postcard_100_mm_width_150_mm_height
+  * color: 
+  * description_main: 180_grams_per_meter_square
+  * description_extra: factory_second_grade
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: hour army
+  * bip 39 word 3: hour army sugar
+  * bip 39 word: hour army sugar universe fix purse welcome frown tonight absent olive any
+
+### other_codes
+* short_code: 
+* oomp_word: pencil mouse racehorse
+* oomp_word_emoji :pencil: :mouse: :racehorse:
+* md5_6_alpha: 6d8w0
+* md5_6: a33440
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206d8w0)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206d8w0)
+[2x1](http://192.168.1.242:1112/?label=oomp%206d8w0)
+[6x4](http://192.168.1.55:1112/?label=oomp%206d8w0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | paper |  
+| classification_name | Paper |  
+| color |  |  
+| color_name |  |  
+| description_extra | factory_second_grade |  
+| description_extra_name | Factory Second Grade |  
+| description_main | 180_grams_per_meter_square |  
+| description_main_name | 180 Grams Per Meter Square |  
+| description_or_color | 180 |  
+| directory | parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| height | 150 mm |  
+| id | paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206d8w0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206d8w0 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206d8w0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206d8w0 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade](none)<br>[](none)<br>[Paper Sheet Postcard 100 Mm Width 150 Mm Height 180 Grams Per Meter Square Factory Second Grade](none)<br><br> |  
+| markdown_short | [paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade](none)<br><br> |  
+| md5 | a334402f245d9f2aba2c0eddb1830372 |  
+| md5_10 | a334402f24 |  
+| md5_5 | a3344 |  
+| md5_6 | a33440 |  
+| md5_6_alpha | 6d8w0 |  
+| name | Paper Sheet Postcard 100 mm Width 150 mm Height 180 Grams Per Meter Square Factory Second Grade |  
+| oomlout_detail_hierarchy_1 | paper |  
+| oomlout_detail_hierarchy_2 | sheet |  
+| oomlout_detail_hierarchy_3 | 100_mm_width |  
+| oomlout_detail_hierarchy_4 | 150_mm_height |  
+| oomlout_detail_hierarchy_5 | 180_gram |  
+| oomlout_detail_hierarchy_6 | factory_second_grade |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade |  
+| oomp_word | pencil mouse racehorse |  
+| oomp_word_emoji | :pencil: :mouse: :racehorse: |  
+| oomp_word_emoji_list | [':pencil:', ':mouse:', ':racehorse:'] |  
+| oomp_word_list | ['pencil', 'mouse', 'racehorse'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_code |  |  
+| size | postcard_100_mm_width_150_mm_height |  
+| size_name | Postcard 100 mm Width 150 mm Height |  
+| type | sheet |  
+| type_name | Sheet |  
+| width | 100 mm |  

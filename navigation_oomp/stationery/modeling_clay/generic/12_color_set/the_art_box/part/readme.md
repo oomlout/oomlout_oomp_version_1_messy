@@ -107,7 +107,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_detail_hierarchy_2 | modeling_clay |  
 | oomlout_detail_hierarchy_3 | generic |  
 | oomlout_detail_hierarchy_4 | 12_color_set |  
-| oomlout_detail_hierarchy_5 | the_art_box |  
+| oomlout_detail_hierarchy_5 | art_box |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_stationery_modeling_clay_generic_12_color_set_the_art_box |  
 | oomp_word | bank dancer sandal |  

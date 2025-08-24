@@ -1,3 +1,6 @@
+* [farfalle](farfalle)
+  * [bag_500_gram](farfalle/bag_500_gram)
+    * [garofalo](farfalle/bag_500_gram/garofalo)
 * [fusilli](fusilli)
   * [box_500_gram](fusilli/box_500_gram)
     * [barilla](fusilli/box_500_gram/barilla)

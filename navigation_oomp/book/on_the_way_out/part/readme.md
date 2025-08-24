@@ -100,7 +100,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 7p5vr |  
 | name | Book On The Way Out |  
 | oomlout_detail_hierarchy_1 | book |  
-| oomlout_detail_hierarchy_2 | on_the_way_out |  
+| oomlout_detail_hierarchy_2 | on_way_out |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_book_on_the_way_out |  
 | oomp_word | candy snail cry |  
