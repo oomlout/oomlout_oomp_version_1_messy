@@ -1,4 +1,5 @@
 * [epson_ecotank](epson_ecotank)
+  * [et_2650](epson_ecotank/et_2650)
   * [et_2750](epson_ecotank/et_2750)
   * [et_2810](epson_ecotank/et_2810)
 * [hewlett_packard](hewlett_packard)

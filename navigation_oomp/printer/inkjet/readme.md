@@ -3,6 +3,7 @@
     * [stylus_pro_4800](a2/epson/stylus_pro_4800)
 * [a4](a4)
   * [epson_ecotank](a4/epson_ecotank)
+    * [et_2650](a4/epson_ecotank/et_2650)
     * [et_2750](a4/epson_ecotank/et_2750)
     * [et_2810](a4/epson_ecotank/et_2810)
   * [hewlett_packard](a4/hewlett_packard)

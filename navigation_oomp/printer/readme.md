@@ -69,6 +69,7 @@
       * [stylus_pro_4800](inkjet/a2/epson/stylus_pro_4800)
   * [a4](inkjet/a4)
     * [epson_ecotank](inkjet/a4/epson_ecotank)
+      * [et_2650](inkjet/a4/epson_ecotank/et_2650)
       * [et_2750](inkjet/a4/epson_ecotank/et_2750)
       * [et_2810](inkjet/a4/epson_ecotank/et_2810)
     * [hewlett_packard](inkjet/a4/hewlett_packard)
