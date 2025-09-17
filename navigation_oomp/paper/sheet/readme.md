@@ -271,6 +271,7 @@
 * [a6_105_mm_width_148_mm_height](a6_105_mm_width_148_mm_height)
 * [a7_74_mm_width_105_mm_height](a7_74_mm_width_105_mm_height)
 * [a8_52_mm_width_74_mm_height](a8_52_mm_width_74_mm_height)
+* [art_paper](art_paper)
 * [letter_216_mm_width_279_mm_height](letter_216_mm_width_279_mm_height)
 * [postcard_100_mm_width_150_mm_height](postcard_100_mm_width_150_mm_height)
   * [180_grams_per_meter_square](postcard_100_mm_width_150_mm_height/180_grams_per_meter_square)
