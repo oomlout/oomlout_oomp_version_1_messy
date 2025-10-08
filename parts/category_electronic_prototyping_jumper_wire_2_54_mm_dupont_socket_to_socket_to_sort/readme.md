@@ -1,0 +1,123 @@
+# Category Electronic Prototyping Jumper Wire 2 54 mm Dupont Socket To Socket To Sort  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+category_electronic
+
+
+
+### name
+* name: Category Electronic Prototyping Jumper Wire 2 54 mm Dupont Socket To Socket To Sort
+* name_short: 
+### id
+* oomp_id: category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort
+  * classification: category
+  * type: electronic
+  * size: prototyping_jumper_wire
+  * color: 2_54_mm_dupont_socket_to_socket
+  * description_main: 
+  * description_extra: to_sort
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: jealous during
+  * bip 39 word 3: jealous during child
+  * bip 39 word: jealous during child canvas pause void shock saddle travel bundle another arch
+
+### other_codes
+* short_code: 
+* oomp_word: crown question cry
+* oomp_word_emoji :crown: :question: :cry:
+* md5_6_alpha: 6vbpj
+* md5_6: b01307
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206vbpj)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206vbpj)
+[2x1](http://192.168.1.242:1112/?label=oomp%206vbpj)
+[6x4](http://192.168.1.55:1112/?label=oomp%206vbpj)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | category |  
+| classification_name | Category |  
+| color | 2_54_mm_dupont_socket_to_socket |  
+| color_name | 2 54 mm Dupont Socket To Socket |  
+| description | category_electronic |  
+| description_extra | to_sort |  
+| description_extra_name | To Sort |  
+| description_main |  |  
+| description_main_name |  |  
+| description_or_color | 2  |  
+| directory | parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| id | category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206vbpj |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206vbpj |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206vbpj |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206vbpj |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort](none)<br>[](none)<br>[Category Electronic Prototyping Jumper Wire 2 54 Mm Dupont Socket To Socket To Sort](none)<br><br> |  
+| markdown_short | [category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort](none)<br><br> |  
+| md5 | b01307973cbdd8cbd650b21a4fd10bbc |  
+| md5_10 | b01307973c |  
+| md5_5 | b0130 |  
+| md5_6 | b01307 |  
+| md5_6_alpha | 6vbpj |  
+| name | Category Electronic Prototyping Jumper Wire 2 54 mm Dupont Socket To Socket To Sort |  
+| oomlout_detail_hierarchy_1 | category |  
+| oomlout_detail_hierarchy_2 | electronic |  
+| oomlout_detail_hierarchy_3 | prototyping_jumper_wire |  
+| oomlout_detail_hierarchy_4 | 2_54_mm_dupont |  
+| oomlout_detail_hierarchy_5 | socket_to_socket |  
+| oomlout_detail_hierarchy_6 | to_sort |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_category_electronic_prototyping_jumper_wire_2_54_mm_dupont_socket_to_socket_to_sort |  
+| oomp_word | crown question cry |  
+| oomp_word_emoji | :crown: :question: :cry: |  
+| oomp_word_emoji_list | [':crown:', ':question:', ':cry:'] |  
+| oomp_word_list | ['crown', 'question', 'cry'] |  
+| part_number |  |  
+| part_number_exact |  |  
+| part_number_name |  |  
+| short_code |  |  
+| short_name | Categoryelectronic |  
+| size | prototyping_jumper_wire |  
+| size_name | Prototyping Jumper Wire |  
+| type | electronic |  
+| type_name | Electronic |  
