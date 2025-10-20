@@ -1,0 +1,128 @@
+# Printer Inkjet A4 Color Epson Workforce Wf 2750Dwf  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Printer Inkjet A4 Color Epson Workforce Wf 2750Dwf
+* name_short: 
+### id
+* oomp_id: printer_inkjet_a4_color_epson_workforce_wf_2750dwf
+  * classification: printer
+  * type: inkjet
+  * size: a4
+  * color: color
+  * description_main: 
+  * description_extra: 
+  * manufacturer: epson_workforce
+  * part_number: wf_2750dwf
+  * bip 39 word 2: tumble delay
+  * bip 39 word 3: tumble delay media
+  * bip 39 word: tumble delay media struggle depart noise cost plate depend country daughter answer
+
+### other_codes
+* short_code: 
+* oomp_word: golf moon pill
+* oomp_word_emoji :golf: :moon: :pill:
+* md5_6_alpha: 60xho
+* md5_6: 9a6f8c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2060xho)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2060xho)
+[2x1](http://192.168.1.242:1112/?label=oomp%2060xho)
+[6x4](http://192.168.1.55:1112/?label=oomp%2060xho)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | printer |  
+| classification_name | Printer |  
+| color | color |  
+| color_name | Color |  
+| compatible_ink_bottles | ['16', '16XL'] |  
+| description_chat_gpt | Compact duplex 4-in-1 with LCD screen for home offices. |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main |  |  
+| description_main_name |  |  
+| description_or_color | C  |  
+| directory | parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| distributors | [] |  
+| features | ['duplex', 'wifi', 'lcd', 'adf', 'fax'] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| id | printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| ink_type | pigment |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2060xho |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2060xho |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2060xho |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2060xho |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| manufacturer | epson_workforce |  
+| manufacturer_name | Epson Workforce |  
+| manufacturers | [] |  
+| markdown_full | [printer_inkjet_a4_color_epson_workforce_wf_2750dwf](none)<br>[](none)<br>[Printer Inkjet A4 Color Epson Workforce Wf 2750Dwf](none)<br><br> |  
+| markdown_short | [printer_inkjet_a4_color_epson_workforce_wf_2750dwf](none)<br><br> |  
+| md5 | 9a6f8c41d7a62616571d6d7514ce7f52 |  
+| md5_10 | 9a6f8c41d7 |  
+| md5_5 | 9a6f8 |  
+| md5_6 | 9a6f8c |  
+| md5_6_alpha | 60xho |  
+| name | Printer Inkjet A4 Color Epson Workforce Wf 2750Dwf |  
+| nozzle_count_black | 180 |  
+| nozzle_count_per_colour | 59 |  
+| oomlout_detail_hierarchy_1 | printer |  
+| oomlout_detail_hierarchy_2 | inkjet |  
+| oomlout_detail_hierarchy_3 | a4 |  
+| oomlout_detail_hierarchy_4 | color |  
+| oomlout_detail_hierarchy_5 | epson_workforce |  
+| oomlout_detail_hierarchy_6 | wf_2750dwf |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_printer_inkjet_a4_color_epson_workforce_wf_2750dwf |  
+| oomp_word | golf moon pill |  
+| oomp_word_emoji | :golf: :moon: :pill: |  
+| oomp_word_emoji_list | [':golf:', ':moon:', ':pill:'] |  
+| oomp_word_list | ['golf', 'moon', 'pill'] |  
+| original_rrp_gbp | 99.99 |  
+| part_number | wf_2750dwf |  
+| part_number_name | Wf 2750Dwf |  
+| printhead_technology | Micro Piezo |  
+| short_code |  |  
+| short_name | WorkForce WF-2750DWF |  
+| size | a4 |  
+| size_name | A4 |  
+| total_colours | 4 |  
+| type | inkjet |  
+| type_name | Inkjet |  

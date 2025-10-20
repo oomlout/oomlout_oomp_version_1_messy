@@ -6,3 +6,6 @@
   * [usb_c_output](dewalt_xr/usb_c_output)
     * [aliexpress](dewalt_xr/usb_c_output/aliexpress)
       * [wtl200](dewalt_xr/usb_c_output/aliexpress/wtl200)
+* [ryobi_one_plus](ryobi_one_plus)
+  * [partial_top_cover_bare_wire_style](ryobi_one_plus/partial_top_cover_bare_wire_style)
+    * [aliexpress](ryobi_one_plus/partial_top_cover_bare_wire_style/aliexpress)

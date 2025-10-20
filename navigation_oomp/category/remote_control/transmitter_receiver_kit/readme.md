@@ -1,3 +1,8 @@
+* [2_4_ghz_10_channel](2_4_ghz_10_channel)
+  * [cubby_box](2_4_ghz_10_channel/cubby_box)
+  * [old](2_4_ghz_10_channel/old)
+  * [tote](2_4_ghz_10_channel/tote)
+  * [to_sort](2_4_ghz_10_channel/to_sort)
 * [2_4_ghz_4_channel](2_4_ghz_4_channel)
   * [cubby_box](2_4_ghz_4_channel/cubby_box)
   * [old](2_4_ghz_4_channel/old)
