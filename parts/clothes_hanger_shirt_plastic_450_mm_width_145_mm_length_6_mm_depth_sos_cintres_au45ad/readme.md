@@ -3,7 +3,7 @@
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
 ##  part details
-[![](image_600.jpg)](image.jpg)  
+  
 
 
 

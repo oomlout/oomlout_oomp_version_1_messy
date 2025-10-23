@@ -1,0 +1,119 @@
+# Clothes Item Shorts Small Orange  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Clothes Item Shorts Small Orange
+* name_short: 
+### id
+* oomp_id: clothes_item_shorts_small_orange
+  * classification: clothes
+  * type: item
+  * size: shorts
+  * color: small
+  * description_main: orange
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: drill curve
+  * bip 39 word 3: drill curve average
+  * bip 39 word: drill curve average zero fun deny measure bar remove fantasy outdoor apple
+
+### other_codes
+* short_code: 
+* oomp_word: boot koala whale
+* oomp_word_emoji :boot: :koala: :whale:
+* md5_6_alpha: 6oims
+* md5_6: ab3a54
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206oims)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206oims)
+[2x1](http://192.168.1.242:1112/?label=oomp%206oims)
+[6x4](http://192.168.1.55:1112/?label=oomp%206oims)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_small_orange) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_small_orange)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | clothes |  
+| classification_name | Clothes |  
+| color | small |  
+| color_name | Small |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | orange |  
+| description_main_name | Orange |  
+| description_or_color | S  |  
+| directory | parts/clothes_item_shorts_small_orange |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_shorts_small_orange |  
+| id | clothes_item_shorts_small_orange |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_small_orange |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_small_orange |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_small_orange |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_small_orange |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206oims |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206oims |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206oims |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206oims |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_small_orange |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [clothes_item_shorts_small_orange](none)<br>[](none)<br>[Clothes Item Shorts Small Orange](none)<br><br> |  
+| markdown_short | [clothes_item_shorts_small_orange](none)<br><br> |  
+| md5 | ab3a54c5af12713ceaaf0ffa1f8d9217 |  
+| md5_10 | ab3a54c5af |  
+| md5_5 | ab3a5 |  
+| md5_6 | ab3a54 |  
+| md5_6_alpha | 6oims |  
+| name | Clothes Item Shorts Small Orange |  
+| oomlout_detail_hierarchy_1 | clothes |  
+| oomlout_detail_hierarchy_2 | item |  
+| oomlout_detail_hierarchy_3 | shorts |  
+| oomlout_detail_hierarchy_4 | small |  
+| oomlout_detail_hierarchy_5 | orange |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_clothes_item_shorts_small_orange |  
+| oomp_word | boot koala whale |  
+| oomp_word_emoji | :boot: :koala: :whale: |  
+| oomp_word_emoji_list | [':boot:', ':koala:', ':whale:'] |  
+| oomp_word_list | ['boot', 'koala', 'whale'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_code |  |  
+| size | shorts |  
+| size_name | Shorts |  
+| type | item |  
+| type_name | Item |  

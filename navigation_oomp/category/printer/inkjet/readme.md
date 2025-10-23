@@ -1,3 +1,8 @@
+* [600_mm_roll](600_mm_roll)
+  * [cubby_box](600_mm_roll/cubby_box)
+  * [old](600_mm_roll/old)
+  * [tote](600_mm_roll/tote)
+  * [to_sort](600_mm_roll/to_sort)
 * [a2](a2)
   * [cubby_box](a2/cubby_box)
   * [old](a2/old)

@@ -1,0 +1,119 @@
+# Clothes Item Hat Double Extra Large Black  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Clothes Item Hat Double Extra Large Black
+* name_short: 
+### id
+* oomp_id: clothes_item_hat_double_extra_large_black
+  * classification: clothes
+  * type: item
+  * size: hat
+  * color: double_extra_large
+  * description_main: black
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: carpet crack
+  * bip 39 word 3: carpet crack demand
+  * bip 39 word: carpet crack demand relax drama muffin rebuild renew moon plunge stuff aisle
+
+### other_codes
+* short_code: 
+* oomp_word: rooster tophat sunny
+* oomp_word_emoji :rooster: :tophat: :sunny:
+* md5_6_alpha: 3ksa1
+* md5_6: 5baf29
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203ksa1)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%203ksa1)
+[2x1](http://192.168.1.242:1112/?label=oomp%203ksa1)
+[6x4](http://192.168.1.55:1112/?label=oomp%203ksa1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_black) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_black)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | clothes |  
+| classification_name | Clothes |  
+| color | double_extra_large |  
+| color_name | Double Extra Large |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | black |  
+| description_main_name | Black |  
+| description_or_color | D  |  
+| directory | parts/clothes_item_hat_double_extra_large_black |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_hat_double_extra_large_black |  
+| id | clothes_item_hat_double_extra_large_black |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_black |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_black |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_black |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_black |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203ksa1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203ksa1 |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203ksa1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203ksa1 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_black |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [clothes_item_hat_double_extra_large_black](none)<br>[](none)<br>[Clothes Item Hat Double Extra Large Black](none)<br><br> |  
+| markdown_short | [clothes_item_hat_double_extra_large_black](none)<br><br> |  
+| md5 | 5baf29bc7cb6366a44a11b50744c7116 |  
+| md5_10 | 5baf29bc7c |  
+| md5_5 | 5baf2 |  
+| md5_6 | 5baf29 |  
+| md5_6_alpha | 3ksa1 |  
+| name | Clothes Item Hat Double Extra Large Black |  
+| oomlout_detail_hierarchy_1 | clothes |  
+| oomlout_detail_hierarchy_2 | item |  
+| oomlout_detail_hierarchy_3 | hat |  
+| oomlout_detail_hierarchy_4 | double_extra_large |  
+| oomlout_detail_hierarchy_5 | black |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_clothes_item_hat_double_extra_large_black |  
+| oomp_word | rooster tophat sunny |  
+| oomp_word_emoji | :rooster: :tophat: :sunny: |  
+| oomp_word_emoji_list | [':rooster:', ':tophat:', ':sunny:'] |  
+| oomp_word_list | ['rooster', 'tophat', 'sunny'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_code |  |  
+| size | hat |  
+| size_name | Hat |  
+| type | item |  
+| type_name | Item |  
