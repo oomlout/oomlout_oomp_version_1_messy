@@ -1,6 +1,0 @@
-* [300_mm_width_400_mm_height](300_mm_width_400_mm_height)
-  * [white](300_mm_width_400_mm_height/white)
-    * [ikea](300_mm_width_400_mm_height/white/ikea)
-* [400_mm_width_500_mm_height](400_mm_width_500_mm_height)
-  * [white](400_mm_width_500_mm_height/white)
-    * [ikea](400_mm_width_500_mm_height/white/ikea)

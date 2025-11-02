@@ -1,2 +1,0 @@
-* [glossy_style_inkjet_printer_plastic_material](glossy_style_inkjet_printer_plastic_material)
-  * [evergreen_goods](glossy_style_inkjet_printer_plastic_material/evergreen_goods)

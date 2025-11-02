@@ -1,1 +1,0 @@
-* [35_mm_width_12_mm_height_24_mm_depth](35_mm_width_12_mm_height_24_mm_depth)

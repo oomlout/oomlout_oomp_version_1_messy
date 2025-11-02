@@ -1,2 +1,0 @@
-* [double](double)
-* [single](single)

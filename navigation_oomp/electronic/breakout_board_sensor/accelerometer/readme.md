@@ -1,6 +1,0 @@
-* [analog_devices_adxl343](analog_devices_adxl343)
-  * [adafruit](analog_devices_adxl343/adafruit)
-    * [4097](analog_devices_adxl343/adafruit/4097)
-* [bosch_bma400](bosch_bma400)
-  * [sparkfun](bosch_bma400/sparkfun)
-    * [sen_21208](bosch_bma400/sparkfun/sen_21208)

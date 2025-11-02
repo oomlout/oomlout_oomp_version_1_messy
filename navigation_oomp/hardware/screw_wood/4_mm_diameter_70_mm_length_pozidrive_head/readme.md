@@ -1,5 +1,0 @@
-* [100_pack](100_pack)
-  * [screw_tite_two](100_pack/screw_tite_two)
-    * [131FY](100_pack/screw_tite_two/131FY)
-* [screw_tite_two](screw_tite_two)
-  * [131FY](screw_tite_two/131FY)

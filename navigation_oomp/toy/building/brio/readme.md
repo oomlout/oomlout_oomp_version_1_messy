@@ -1,6 +1,0 @@
-* [accessory](accessory)
-  * [brio](accessory/brio)
-* [track](track)
-  * [brio](track/brio)
-* [train](train)
-  * [brio](train/brio)

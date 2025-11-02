@@ -1,7 +1,0 @@
-* [bowl](bowl)
-* [cookware](cookware)
-* [cup](cup)
-* [cutting_board](cutting_board)
-* [knife](knife)
-* [plate](plate)
-* [utensils](utensils)

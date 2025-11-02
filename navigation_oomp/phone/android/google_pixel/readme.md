@@ -1,8 +1,0 @@
-* [pixel_4](pixel_4)
-  * [69_mm_width_148_mm_height_9_mm_depth](pixel_4/69_mm_width_148_mm_height_9_mm_depth)
-* [pixel_5](pixel_5)
-  * [71_mm_width_145_mm_height_8_mm_depth](pixel_5/71_mm_width_145_mm_height_8_mm_depth)
-* [pixel_6](pixel_6)
-  * [75_mm_width_159_mm_height_9_mm_depth](pixel_6/75_mm_width_159_mm_height_9_mm_depth)
-* [pixel_7](pixel_7)
-  * [74_mm_width_156_mm_height_9_mm_depth](pixel_7/74_mm_width_156_mm_height_9_mm_depth)

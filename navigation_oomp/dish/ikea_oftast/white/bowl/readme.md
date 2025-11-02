@@ -1,6 +1,0 @@
-* [110_mm_diameter](110_mm_diameter)
-  * [ikea](110_mm_diameter/ikea)
-    * [904_671_12](110_mm_diameter/ikea/904_671_12)
-* [150_mm_diameter](150_mm_diameter)
-  * [ikea](150_mm_diameter/ikea)
-    * [802_589_15](150_mm_diameter/ikea/802_589_15)

@@ -1,8 +1,0 @@
-* [100_mm_diameter_red_rubber_wheel](100_mm_diameter_red_rubber_wheel)
-  * [93_mm_width_62_mm_height_bracket_m8_mounting_hole](100_mm_diameter_red_rubber_wheel/93_mm_width_62_mm_height_bracket_m8_mounting_hole)
-* [100_mm_diameter_white_plastic_wheel](100_mm_diameter_white_plastic_wheel)
-  * [105_mm_width_85_mm_height_bracket_m8_mounting_hole](100_mm_diameter_white_plastic_wheel/105_mm_width_85_mm_height_bracket_m8_mounting_hole)
-* [10_mm_diameter_roller_plastic](10_mm_diameter_roller_plastic)
-  * [deodorant_roller](10_mm_diameter_roller_plastic/deodorant_roller)
-* [25_mm_diameter_brown_plastic_wheel](25_mm_diameter_brown_plastic_wheel)
-  * [39_mm_width_33_mm_height_bracket_m4_mounting_hole](25_mm_diameter_brown_plastic_wheel/39_mm_width_33_mm_height_bracket_m4_mounting_hole)

@@ -1,8 +1,0 @@
-* [volcano_1_75_mm_filament](volcano_1_75_mm_filament)
-  * [brass](volcano_1_75_mm_filament/brass)
-    * [0_2_mm_diameter_nozzle](volcano_1_75_mm_filament/brass/0_2_mm_diameter_nozzle)
-    * [0_4_mm_diameter_nozzle](volcano_1_75_mm_filament/brass/0_4_mm_diameter_nozzle)
-    * [0_6_mm_diameter_nozzle](volcano_1_75_mm_filament/brass/0_6_mm_diameter_nozzle)
-    * [0_8_mm_diameter_nozzle](volcano_1_75_mm_filament/brass/0_8_mm_diameter_nozzle)
-    * [1_0_mm_diameter_nozzle](volcano_1_75_mm_filament/brass/1_0_mm_diameter_nozzle)
-    * [1_2_mm_diameter_nozzle](volcano_1_75_mm_filament/brass/1_2_mm_diameter_nozzle)

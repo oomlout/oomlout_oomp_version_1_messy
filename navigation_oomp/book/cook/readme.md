@@ -1,6 +1,0 @@
-* [child](child)
-* [dessert](dessert)
-* [fish](fish)
-* [meat](meat)
-* [vegan](vegan)
-* [vegetarian](vegetarian)

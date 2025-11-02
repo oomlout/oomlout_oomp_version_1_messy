@@ -1,6 +1,0 @@
-* [external](external)
-  * [microsoft](external/microsoft)
-    * [hd_3000_model_1492](external/microsoft/hd_3000_model_1492)
-  * [telepresence_precisionhd_usb_camera](external/telepresence_precisionhd_usb_camera)
-    * [cisco](external/telepresence_precisionhd_usb_camera/cisco)
-      * [ttc8_03](external/telepresence_precisionhd_usb_camera/cisco/ttc8_03)

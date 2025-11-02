@@ -1,7 +1,0 @@
-* [unitree](unitree)
-  * [go2](unitree/go2)
-    * [air](unitree/go2/air)
-    * [controller](unitree/go2/controller)
-    * [edu](unitree/go2/edu)
-    * [pro](unitree/go2/pro)
-    * [x](unitree/go2/x)

@@ -1,2 +1,0 @@
-* [accesory](accesory)
-* [storage](storage)

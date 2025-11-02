@@ -1,8 +1,0 @@
-* [10_mm_diameter_1_mm_depth](10_mm_diameter_1_mm_depth)
-* [10_mm_diameter_2_mm_depth](10_mm_diameter_2_mm_depth)
-* [12_mm_diameter_1_mm_depth](12_mm_diameter_1_mm_depth)
-* [15_mm_diameter_1_mm_depth](15_mm_diameter_1_mm_depth)
-* [20_mm_diameter_1_mm_depth](20_mm_diameter_1_mm_depth)
-* [3_mm_diameter_13_mm_depth](3_mm_diameter_13_mm_depth)
-* [6_mm_diameter_1.5_mm_depth](6_mm_diameter_1.5_mm_depth)
-* [6_mm_diameter_6_mm_depth](6_mm_diameter_6_mm_depth)

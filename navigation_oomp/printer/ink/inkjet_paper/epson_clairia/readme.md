@@ -1,7 +1,0 @@
-* [black_bottle_100_ml_e830bk_part_number](black_bottle_100_ml_e830bk_part_number)
-* [cyan_bottle_100_ml_e830c_part_number](cyan_bottle_100_ml_e830c_part_number)
-* [cyan_light_bottle_100_ml_e830lc_part_number](cyan_light_bottle_100_ml_e830lc_part_number)
-* [magenta_bottle_100_ml_e830m_part_number](magenta_bottle_100_ml_e830m_part_number)
-* [magenta_light_bottle_100_ml_e830lm_part_number](magenta_light_bottle_100_ml_e830lm_part_number)
-* [multipack](multipack)
-* [yellow_bottle_100_ml_e830y_part_number](yellow_bottle_100_ml_e830y_part_number)

@@ -1,5 +1,0 @@
-* [cage](cage)
-* [coupling](coupling)
-* [flanged](flanged)
-* [locking](locking)
-* [nylon_white](nylon_white)

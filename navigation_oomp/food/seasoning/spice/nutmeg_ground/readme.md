@@ -1,5 +1,0 @@
-* [100_gram_bag](100_gram_bag)
-* [42_mm_width_42_mm_height_100_mm_depth_bottle](42_mm_width_42_mm_height_100_mm_depth_bottle)
-  * [tesco](42_mm_width_42_mm_height_100_mm_depth_bottle/tesco)
-* [44_mm_diameter_100_mm_depth_bottle](44_mm_diameter_100_mm_depth_bottle)
-  * [schwartz](44_mm_diameter_100_mm_depth_bottle/schwartz)

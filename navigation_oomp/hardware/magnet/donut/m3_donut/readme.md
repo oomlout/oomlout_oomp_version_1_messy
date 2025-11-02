@@ -1,2 +1,0 @@
-* [5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth](5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth)
-* [6_mm_diameter_3_mm_hole_diameter_3_mm_depth](6_mm_diameter_3_mm_hole_diameter_3_mm_depth)
