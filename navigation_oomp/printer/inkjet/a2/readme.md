@@ -1,0 +1,3 @@
+* [color_8](color_8)
+  * [epson](color_8/epson)
+    * [stylus_pro_4800](color_8/epson/stylus_pro_4800)

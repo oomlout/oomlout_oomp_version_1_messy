@@ -1,0 +1,119 @@
+# Clothes Item Jumper Extra Small Teal  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Clothes Item Jumper Extra Small Teal
+* name_short: 
+### id
+* oomp_id: clothes_item_jumper_extra_small_teal
+  * classification: clothes
+  * type: item
+  * size: jumper
+  * color: extra_small
+  * description_main: teal
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: climb lyrics
+  * bip 39 word 3: climb lyrics violin
+  * bip 39 word: climb lyrics violin muscle throw bleak biology uniform script main say alarm
+
+### other_codes
+* short_code: 
+* oomp_word: blowfish speaker boat
+* oomp_word_emoji :blowfish: :speaker: :boat:
+* md5_6_alpha: 3nc2p
+* md5_6: 5d7fe1
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203nc2p)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%203nc2p)
+[2x1](http://192.168.1.242:1112/?label=oomp%203nc2p)
+[6x4](http://192.168.1.55:1112/?label=oomp%203nc2p)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_teal) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_teal)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | clothes |  
+| classification_name | Clothes |  
+| color | extra_small |  
+| color_name | Extra Small |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | teal |  
+| description_main_name | Teal |  
+| description_or_color | E  |  
+| directory | parts/clothes_item_jumper_extra_small_teal |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_jumper_extra_small_teal |  
+| id | clothes_item_jumper_extra_small_teal |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_teal |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_teal |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_teal |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_teal |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203nc2p |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203nc2p |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%203nc2p |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203nc2p |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_teal |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [clothes_item_jumper_extra_small_teal](none)<br>[](none)<br>[Clothes Item Jumper Extra Small Teal](none)<br><br> |  
+| markdown_short | [clothes_item_jumper_extra_small_teal](none)<br><br> |  
+| md5 | 5d7fe1960ded62cc5e70a919e8a15958 |  
+| md5_10 | 5d7fe1960d |  
+| md5_5 | 5d7fe |  
+| md5_6 | 5d7fe1 |  
+| md5_6_alpha | 3nc2p |  
+| name | Clothes Item Jumper Extra Small Teal |  
+| oomlout_detail_hierarchy_1 | clothes |  
+| oomlout_detail_hierarchy_2 | item |  
+| oomlout_detail_hierarchy_3 | jumper |  
+| oomlout_detail_hierarchy_4 | extra_small |  
+| oomlout_detail_hierarchy_5 | teal |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_clothes_item_jumper_extra_small_teal |  
+| oomp_word | blowfish speaker boat |  
+| oomp_word_emoji | :blowfish: :speaker: :boat: |  
+| oomp_word_emoji_list | [':blowfish:', ':speaker:', ':boat:'] |  
+| oomp_word_list | ['blowfish', 'speaker', 'boat'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_code |  |  
+| size | jumper |  
+| size_name | Jumper |  
+| type | item |  
+| type_name | Item |  

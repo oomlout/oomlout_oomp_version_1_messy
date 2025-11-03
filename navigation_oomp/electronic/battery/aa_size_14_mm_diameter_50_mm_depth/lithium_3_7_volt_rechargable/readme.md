@@ -1,0 +1,1 @@
+* [pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)

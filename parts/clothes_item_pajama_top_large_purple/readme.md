@@ -1,0 +1,119 @@
+# Clothes Item Pajama Top Large Purple  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Clothes Item Pajama Top Large Purple
+* name_short: 
+### id
+* oomp_id: clothes_item_pajama_top_large_purple
+  * classification: clothes
+  * type: item
+  * size: pajama_top
+  * color: large
+  * description_main: purple
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: slow miss
+  * bip 39 word 3: slow miss click
+  * bip 39 word: slow miss click position clap milk under electric unit blind increase athlete
+
+### other_codes
+* short_code: 
+* oomp_word: sailboat rocket snake
+* oomp_word_emoji :sailboat: :rocket: :snake:
+* md5_6_alpha: 8upmt
+* md5_6: e2e545
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208upmt)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%208upmt)
+[2x1](http://192.168.1.242:1112/?label=oomp%208upmt)
+[6x4](http://192.168.1.55:1112/?label=oomp%208upmt)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_purple) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_purple)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | clothes |  
+| classification_name | Clothes |  
+| color | large |  
+| color_name | Large |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | purple |  
+| description_main_name | Purple |  
+| description_or_color | L  |  
+| directory | parts/clothes_item_pajama_top_large_purple |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_pajama_top_large_purple |  
+| id | clothes_item_pajama_top_large_purple |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_purple |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_purple |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_purple |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_purple |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208upmt |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208upmt |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%208upmt |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208upmt |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_purple |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [clothes_item_pajama_top_large_purple](none)<br>[](none)<br>[Clothes Item Pajama Top Large Purple](none)<br><br> |  
+| markdown_short | [clothes_item_pajama_top_large_purple](none)<br><br> |  
+| md5 | e2e545f76d477d9a3214ea8655637661 |  
+| md5_10 | e2e545f76d |  
+| md5_5 | e2e54 |  
+| md5_6 | e2e545 |  
+| md5_6_alpha | 8upmt |  
+| name | Clothes Item Pajama Top Large Purple |  
+| oomlout_detail_hierarchy_1 | clothes |  
+| oomlout_detail_hierarchy_2 | item |  
+| oomlout_detail_hierarchy_3 | pajama_top |  
+| oomlout_detail_hierarchy_4 | large |  
+| oomlout_detail_hierarchy_5 | purple |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_clothes_item_pajama_top_large_purple |  
+| oomp_word | sailboat rocket snake |  
+| oomp_word_emoji | :sailboat: :rocket: :snake: |  
+| oomp_word_emoji_list | [':sailboat:', ':rocket:', ':snake:'] |  
+| oomp_word_list | ['sailboat', 'rocket', 'snake'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_code |  |  
+| size | pajama_top |  
+| size_name | Pajama Top |  
+| type | item |  
+| type_name | Item |  

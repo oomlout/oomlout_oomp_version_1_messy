@@ -1,0 +1,1 @@
+* [alkaline_1_5_volt_non_rechargable](alkaline_1_5_volt_non_rechargable)
