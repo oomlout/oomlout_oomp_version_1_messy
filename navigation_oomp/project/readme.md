@@ -58,6 +58,7 @@
     * [oomlout_decorative_furniture_felt_foot_holder](github/oomlout/oomlout_decorative_furniture_felt_foot_holder)
     * [oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper](github/oomlout/oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper)
     * [oomlout_decorative_lighting_triple_holder_lighting_pendant_ikea_slattbo_copper](github/oomlout/oomlout_decorative_lighting_triple_holder_lighting_pendant_ikea_slattbo_copper)
+    * [oomlout_decorative_photo_chain_link_display](github/oomlout/oomlout_decorative_photo_chain_link_display)
     * [oomlout_decorative_photo_print_collage_divider](github/oomlout/oomlout_decorative_photo_print_collage_divider)
     * [oomlout_decorative_wall_mount_camera_cctv_dome_140_mm](github/oomlout/oomlout_decorative_wall_mount_camera_cctv_dome_140_mm)
     * [oomlout_decorative_wall_mount_computer_harddrive_platter](github/oomlout/oomlout_decorative_wall_mount_computer_harddrive_platter)

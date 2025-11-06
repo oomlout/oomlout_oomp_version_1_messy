@@ -1,2 +1,6 @@
 * [board_game_mixed](board_game_mixed)
 * [dominoes_mixed](dominoes_mixed)
+* [guess_who](guess_who)
+  * [card](guess_who/card)
+  * [classic](guess_who/classic)
+  * [travel](guess_who/travel)

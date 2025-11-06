@@ -70,6 +70,13 @@
 | camping_sleeping_bag_single |  | Camping Sleeping Bag Single | camping | sleeping_bag |  | single |  |  |  |  |
 | camping_tent_tent |  | Camping Tent Tent | camping | tent |  | tent |  |  |  |  |
 | camping_tent_tent_peg |  | Camping Tent Tent Peg | camping | tent |  | tent_peg |  |  |  |  |
+| card_game_magic_the_gathering |  | Card Game Magic The Gathering | card_game | magic_the_gathering |  |  |  |  |  |  |
+| card_game_pokemon |  | Card Game Pokemon | card_game | pokemon |  |  |  |  |  |  |
+| card_trading_sport_baseball |  | Card Trading Sport Baseball | card_trading | sport_baseball |  |  |  |  |  |  |
+| card_trading_sport_basketball |  | Card Trading Sport Basketball | card_trading | sport_basketball |  |  |  |  |  |  |
+| card_trading_sport_football_american |  | Card Trading Sport Football American | card_trading | sport_football_american |  |  |  |  |  |  |
+| card_trading_sport_football_soccer |  | Card Trading Sport Football Soccer | card_trading | sport_football_soccer |  |  |  |  |  |  |
+| card_trading_sport_hockey |  | Card Trading Sport Hockey | card_trading | sport_hockey |  |  |  |  |  |  |
 | category_aluminium_extrusion |  | Category Aluminium Extrusion | category | aluminium_extrusion |  |  |  |  |  |  |
 | category_aluminium_extrusion_2020 |  | Category Aluminium Extrusion 2020 | category | aluminium_extrusion | 2020 |  |  |  |  |  |
 | category_aluminium_extrusion_2020_cubby_box |  | Category Aluminium Extrusion 2020 Cubby Box | category | aluminium_extrusion | 2020 |  |  | cubby_box |  |  |
@@ -93,11 +100,4 @@
 | category_appliance_vacuum_cleaner_dyson_v10_tote |  | Category Appliance Vacuum Cleaner Dyson V10 Tote | category | appliance | vacuum_cleaner | dyson_v10 |  | tote |  |  |
 | category_appliance_vacuum_cleaner_dyson_v10_to_sort |  | Category Appliance Vacuum Cleaner Dyson V10 To Sort | category | appliance | vacuum_cleaner | dyson_v10 |  | to_sort |  |  |
 | category_appliance_vacuum_cleaner_dyson_v11 |  | Category Appliance Vacuum Cleaner Dyson V11 | category | appliance | vacuum_cleaner | dyson_v11 |  |  |  |  |
-| category_appliance_vacuum_cleaner_dyson_v11_cubby_box |  | Category Appliance Vacuum Cleaner Dyson V11 Cubby Box | category | appliance | vacuum_cleaner | dyson_v11 |  | cubby_box |  |  |
-| category_appliance_vacuum_cleaner_dyson_v11_old |  | Category Appliance Vacuum Cleaner Dyson V11 Old | category | appliance | vacuum_cleaner | dyson_v11 |  | old |  |  |
-| category_appliance_vacuum_cleaner_dyson_v11_tote |  | Category Appliance Vacuum Cleaner Dyson V11 Tote | category | appliance | vacuum_cleaner | dyson_v11 |  | tote |  |  |
-| category_appliance_vacuum_cleaner_dyson_v11_to_sort |  | Category Appliance Vacuum Cleaner Dyson V11 To Sort | category | appliance | vacuum_cleaner | dyson_v11 |  | to_sort |  |  |
-| category_appliance_vacuum_cleaner_dyson_v6 |  | Category Appliance Vacuum Cleaner Dyson V6 | category | appliance | vacuum_cleaner | dyson_v6 |  |  |  |  |
-| category_appliance_vacuum_cleaner_dyson_v6_cubby_box |  | Category Appliance Vacuum Cleaner Dyson V6 Cubby Box | category | appliance | vacuum_cleaner | dyson_v6 |  | cubby_box |  |  |
-| category_appliance_vacuum_cleaner_dyson_v6_old |  | Category Appliance Vacuum Cleaner Dyson V6 Old | category | appliance | vacuum_cleaner | dyson_v6 |  | old |  |  |
 
