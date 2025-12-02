@@ -21,3 +21,6 @@
     * [wf_8090dw](color/epson_workforce/wf_8090dw)
     * [wf_8510dwf](color/epson_workforce/wf_8510dwf)
     * [wf_8590dwf](color/epson_workforce/wf_8590dwf)
+* [color_6](color_6)
+  * [epson](color_6/epson)
+    * [stylus_photo_1400](color_6/epson/stylus_photo_1400)
